@@ -88,3 +88,18 @@ h2 {
   margin-top: 32px;
   color: var(--accent);
 }
+
+/* Estilo para la Nota Editorial */
+.editorial-note {
+  background-color: #fff8dc;   /* un tono amarillo suave (Cornsilk) */
+  border-left: 4px solid #daa520; /* borde dorado para destacar */
+  padding: 1em;
+  margin: 2em 0;
+  font-style: italic;
+}
+
+.editorial-note h3 {
+  margin-top: 0;
+  color: #8b0000; /* rojo oscuro para el título */
+  font-style: normal;
+}
