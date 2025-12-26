@@ -4,6 +4,18 @@
     <meta charset="UTF-8">
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Metadatos Open Graph -->
+	<meta property="og:title" content="{{ page.title }}">
+	<meta property="og:description" content="Efeméride de Aviación: {{ page.title }}. {{ page.excerpt | strip_html | truncate: 160 }}">
+	<meta property="og:image" content="{{ '/assets/img/tupolev-1975.jpg' | relative_url }}">
+	<meta property="og:url" content="{{ page.url | absolute_url }}">
+	<meta property="og:type" content="article">
+
+	<!-- Metadatos Twitter (opcional, también los usa WhatsApp) -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="{{ page.title }}">
+	<meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
+	<meta name="twitter:image" content="{{ '/assets/img/tupolev-1975.jpg' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   </head>
   <body>
