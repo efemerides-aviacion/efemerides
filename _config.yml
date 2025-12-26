@@ -1,0 +1,8 @@
+title: Efemérides de Aviación
+description: Archivo editorial de efemérides históricas en aviación
+baseurl: "" # déjalo vacío si el sitio estará en la raíz
+url: "https://tuusuario.github.io" # reemplaza con tu usuario de GitHub
+theme: minima
+plugins:
+  - jekyll-feed
+
