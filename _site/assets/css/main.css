@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* Aquí van tus estilos personalizados */
+.post-image {
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
+.post-caption {
+  text-align: center; /* centra el texto */
+  font-style: italic; /* mantiene el estilo de cita */
+  margin-top: 0.5em; /* separa un poco de la imagen */
+  color: #555; /* tono gris suave para elegancia */
+}
+
+.highlight-box {
+  background-color: #e6f2ff; /* azul muy claro */
+  border-radius: 8px; /* esquinas redondeadas */
+  padding: 1em;
+  margin: 1.5em 0;
+  font-size: 1.05em;
+  line-height: 1.6;
+}
+
+/*# sourceMappingURL=main.css.map */

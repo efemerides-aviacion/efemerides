@@ -15,7 +15,7 @@ country: "Japón"
 Publicado por: Enrique Pomares · Categoría: Aerolíneas · País: Japón
 
 ---
-![[Blog/assets/images/2025-12-27-Fundadores-de-Nippon-Helicopter-&-Aeroplane-y-un-Bell-47D-1.png.png]]
+![Fundadores de ANA y Bell 47D-1](assets/img/ana-1952.png)
 
 *Fundadores de Nippon Helicopter & Aeroplane y un Bell 47D-1.png*
 
