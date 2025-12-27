@@ -23,3 +23,16 @@
   font-size: 1.05em;
   line-height: 1.6;
 }
+
+.post-image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.post-caption {
+  text-align: center;
+  font-size: 0.9em;
+  color: #555;
+}
