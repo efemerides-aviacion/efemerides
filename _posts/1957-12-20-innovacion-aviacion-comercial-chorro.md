@@ -52,8 +52,6 @@ El Boeing 707 es considerado el “padre” de los aviones comerciales modernos.
 
 ## Referencias Verificadas
 <div class="references">
-  ## Referencias Verificadas
-<div class="references">
   <ul>
     <li><a href="https://www.thisdayinaviation.com/20-december-1957/">This Day in Aviation</a></li>
     <li><a href="https://news.flylinkers.com/20-12-1957-vuelo-inaugural-del-boeing-707/">FlyLinkers News</a></li>
@@ -64,7 +62,6 @@ El Boeing 707 es considerado el “padre” de los aviones comerciales modernos.
   </ul>
 </div>
 
-## Metadatos de Control
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-19 06:15:00 UTC  
 - **Fuentes primarias consultadas:** This Day in Aviation, FlyLinkers News, Encyclopaedia Britannica, Simple Flying, National Aero Stands, American Aviation Historical Society  
