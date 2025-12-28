@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/efemerides/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/efemerides/" rel="alternate" type="text/html" /><updated>2025-12-27T11:25:34-06:00</updated><id>http://localhost:4000/efemerides/feed.xml</id><title type="html">Efemérides de Aviación</title><subtitle>Archivo editorial de efemérides históricas en aviación</subtitle><entry><title type="html">Prueba de publicación</title><link href="http://localhost:4000/efemerides/test/2025/12/26/prueba.html" rel="alternate" type="text/html" title="Prueba de publicación" /><published>2025-12-26T00:00:00-06:00</published><updated>2025-12-26T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/test/2025/12/26/prueba</id><content type="html" xml:base="http://localhost:4000/efemerides/test/2025/12/26/prueba.html"><![CDATA[<p>Este es un post de prueba para verificar que Jekyll lo publique correctamente.</p>]]></content><author><name></name></author><category term="Test" /><summary type="html"><![CDATA[Este es un post de prueba para verificar que Jekyll lo publique correctamente.]]></summary></entry><entry><title type="html">Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia</title><link href="http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html" rel="alternate" type="text/html" title="Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia" /><published>2014-12-28T00:00:00-06:00</published><updated>2014-12-28T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia</id><content type="html" xml:base="http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html"><![CDATA[<figure>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/efemerides/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/efemerides/" rel="alternate" type="text/html" /><updated>2025-12-28T06:50:21-06:00</updated><id>http://localhost:4000/efemerides/feed.xml</id><title type="html">Efemérides de Aviación</title><subtitle>Archivo editorial de efemérides históricas en aviación</subtitle><entry><title type="html">Prueba de publicación</title><link href="http://localhost:4000/efemerides/test/2025/12/26/prueba.html" rel="alternate" type="text/html" title="Prueba de publicación" /><published>2025-12-26T00:00:00-06:00</published><updated>2025-12-26T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/test/2025/12/26/prueba</id><content type="html" xml:base="http://localhost:4000/efemerides/test/2025/12/26/prueba.html"><![CDATA[<p>Este es un post de prueba para verificar que Jekyll lo publique correctamente.</p>]]></content><author><name></name></author><category term="Test" /><summary type="html"><![CDATA[Este es un post de prueba para verificar que Jekyll lo publique correctamente.]]></summary></entry><entry><title type="html">Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia</title><link href="http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html" rel="alternate" type="text/html" title="Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia" /><published>2014-12-28T00:00:00-06:00</published><updated>2014-12-28T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia</id><content type="html" xml:base="http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html"><![CDATA[<figure>
   <img class="post-image" src="/efemerides/assets/img/airasia-pk-axc.jpg" alt="Airbus A320-200 (PK-AXC) de Indonesia AirAsia" />
   <figcaption class="post-caption">Airbus A320-200 (PK-AXC) de Indonesia AirAsia aterrizando en el Aeropuerto Internacional Ngurah Rai, Tuban, Regencia de Badung, Bali. Ocho meses después, el PK-AXC se estrelló en el mar de Java.</figcaption>
 </figure>
@@ -212,4 +212,64 @@ En cambio, varias enciclopedias y resúmenes de referencia especifican <em>27 de
 
 <h2 id="créditos">Créditos</h2>
 
-<p>Edición: Enrique Pomares · Asistencia Técnica: Gilberto Vallenilla</p>]]></content><author><name>Enrique Pomares</name></author><category term="Aerolíneas" /><category term="ANA" /><category term="Japón" /><category term="aerolíneas" /><category term="Bell 47D-1" /><category term="efemérides" /><summary type="html"><![CDATA[Efeméride de Aviación]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/efemerides/assets/images/2025-12-27-Fundadores-de-Nippon-Helicopter-&amp;-Aeroplane-y-un-Bell-47D-1.png" /><media:content medium="image" url="http://localhost:4000/efemerides/assets/images/2025-12-27-Fundadores-de-Nippon-Helicopter-&amp;-Aeroplane-y-un-Bell-47D-1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+<p>Edición: Enrique Pomares · Asistencia Técnica: Gilberto Vallenilla</p>]]></content><author><name>Enrique Pomares</name></author><category term="Aerolíneas" /><category term="ANA" /><category term="Japón" /><category term="aerolíneas" /><category term="Bell 47D-1" /><category term="efemérides" /><summary type="html"><![CDATA[Efeméride de Aviación]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/efemerides/assets/images/2025-12-27-Fundadores-de-Nippon-Helicopter-&amp;-Aeroplane-y-un-Bell-47D-1.png" /><media:content medium="image" url="http://localhost:4000/efemerides/assets/images/2025-12-27-Fundadores-de-Nippon-Helicopter-&amp;-Aeroplane-y-un-Bell-47D-1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efeméride de Pionero de la Aviación | 29 de diciembre de 1881 | Jules (Julio) Védrines</title><link href="http://localhost:4000/efemerides/pioneros-aviacion/1881/12/29/jules-vedrines.html" rel="alternate" type="text/html" title="Efeméride de Pionero de la Aviación | 29 de diciembre de 1881 | Jules (Julio) Védrines" /><published>1881-12-29T00:00:00-06:00</published><updated>1881-12-29T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/pioneros-aviacion/1881/12/29/jules-vedrines</id><content type="html" xml:base="http://localhost:4000/efemerides/pioneros-aviacion/1881/12/29/jules-vedrines.html"><![CDATA[<figure>
+  <img class="post-image" src="/efemerides/assets/img/jules-vedrines.jpeg" alt="Jules Védrines, pionero de la aviación francesa" />
+  <figcaption class="post-caption">Retrato del famoso aviador Jules Védrines en un monoplano Morane-Berel, último modelo.</figcaption>
+</figure>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="resumen-ejecutivo">Resumen Ejecutivo</h2>
+<p>El <strong>29 de diciembre de 1881</strong> nació en Saint-Denis, Francia, <strong>Jules Charles Toussaint Védrines</strong>. Fue uno de los pioneros más audaces de la aviación francesa, famoso por ser el primero en superar las <strong>100 millas por hora (160 km/h)</strong> en vuelo, ganador del <strong>Trofeo Gordon Bennett en 1912</strong>, y por su espectacular aterrizaje en la azotea de las <strong>Galerías Lafayette</strong> en París en 1919 con un <strong>Caudron G.3</strong>.</p>
+
+<h2 id="datos-biográficos-y-eventos">Datos biográficos y eventos</h2>
+<ul>
+  <li><strong>Fecha de nacimiento:</strong> 29 de diciembre de 1881</li>
+  <li><strong>Lugar de nacimiento:</strong> Saint-Denis, Francia</li>
+  <li><strong>Logros destacados:</strong>
+    <ul>
+      <li>Primer piloto en superar las 100 mph (160 km/h)</li>
+      <li>Ganador del Trofeo Gordon Bennett (1912)</li>
+      <li>Aterrizaje en la azotea de las Galerías Lafayette (1919)</li>
+    </ul>
+  </li>
+  <li><strong>Aeronaves asociadas:</strong> Morane-Borel, Caudron G.3</li>
+  <li><strong>Servicio militar:</strong> Piloto durante la Primera Guerra Mundial</li>
+  <li><strong>Fecha de fallecimiento:</strong> 21 de abril de 1919, accidente aéreo en Saint-Rambert-d’Albon</li>
+</ul>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="contexto-histórico">Contexto Histórico</h2>
+<p>Védrines se convirtió en un símbolo de la aviación temprana, destacando por su carácter audaz y competitivo. Sus hazañas ayudaron a popularizar la aviación en Francia y Europa, mostrando que los aviones podían ser rápidos, confiables y parte de la vida urbana.</p>
+
+<h2 id="desarrollo-cronológico">Desarrollo Cronológico</h2>
+<ul>
+  <li><strong>1910:</strong> Obtiene su licencia de piloto.</li>
+  <li><strong>1912:</strong> Gana el Trofeo Gordon Bennett en Chicago.</li>
+  <li><strong>1914-1918:</strong> Sirve como piloto militar en la Primera Guerra Mundial.</li>
+  <li><strong>19 de enero de 1919:</strong> Aterriza en la azotea de las Galerías Lafayette con un Caudron G.3.</li>
+  <li><strong>21 de abril de 1919:</strong> Fallece en accidente aéreo.</li>
+</ul>
+
+<h2 id="consecuencias-e-impacto">Consecuencias e Impacto</h2>
+<p>El aterrizaje en Galerías Lafayette fue un acto simbólico que acercó la aviación al público urbano y demostró la destreza técnica de los pilotos de la época. Sus récords de velocidad marcaron un antes y un después en la aviación deportiva.</p>
+
+<h2 id="legado">Legado</h2>
+<p>Jules Védrines es recordado como un pionero que llevó la aviación más allá de los aeródromos, integrándola en la vida cotidiana y en la cultura popular. Su nombre permanece en museos, archivos y crónicas como referente de la era dorada de la aviación.</p>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="referencias-verificadas">Referencias Verificadas</h2>
+<div class="references">
+  <h2>Referencias</h2>
+  <ul>
+    <li><a href="https://es.wikipedia.org/wiki/Jules_V%C3%A9drines">Wikipedia en español – Jules Védrines</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Jules_V%C3%A9drines">Wikipedia en inglés – Jules Védrines</a></li>
+    <li><a href="https://www.universalis.fr/encyclopedie/jules-vedrines/">Encyclopédie Universalis – Jules Védrines</a></li>
+    <li><a href="https://earlyaviators.com/evedrine.htm">Early Birds of Aviation – Jules Védrines</a></li>
+    <li><a href="https://www.galerieslafayette.com/magazine/en/history-of-galeries-lafayette-paris-haussmann/">Galeries Lafayette – Historia oficial</a></li>
+  </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />]]></content><author><name>Enrique Pomares</name></author><category term="pioneros-aviacion" /><summary type="html"><![CDATA[El 29 de diciembre de 1881 nació Jules Védrines, pionero de la aviación francesa, célebre por sus récords de velocidad y su histórico aterrizaje en la azotea de las Galerías Lafayette en París.]]></summary></entry></feed>
