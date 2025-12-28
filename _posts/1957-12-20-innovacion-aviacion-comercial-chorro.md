@@ -9,7 +9,7 @@ excerpt: "El primer Boeing 707-120 de producción realizó su vuelo inaugural de
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/boeing-707-120.jpg" alt="Boeing 707-120 N708PA en su primer vuelo">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/boeing-707-120.jpeg" alt="Boeing 707-120 N708PA en su primer vuelo">
   <figcaption class="post-caption">Boeing 707-120, matrícula N708PA en su primer vuelo</figcaption>
 </figure>
 
@@ -52,16 +52,22 @@ El Boeing 707 es considerado el “padre” de los aviones comerciales modernos.
 
 ## Referencias Verificadas
 <div class="references">
+  ## Referencias Verificadas
+<div class="references">
   <ul>
-    <li><a href="https://www.boeing.com/history/products/707.page">Boeing Historical Archive</a></li>
-    <li><a href="https://airandspace.si.edu/collection-objects/boeing-707-121/nasm-A19750523000">Smithsonian National Air and Space Museum</a></li>
-    <li><a href="http://www.aviation-history.com/boeing/707.html">Aviation History Online Museum</a></li>
+    <li><a href="https://www.thisdayinaviation.com/20-december-1957/">This Day in Aviation</a></li>
+    <li><a href="https://news.flylinkers.com/20-12-1957-vuelo-inaugural-del-boeing-707/">FlyLinkers News</a></li>
+    <li><a href="https://www.britannica.com/technology/Boeing-707">Encyclopaedia Britannica</a></li>
+    <li><a href="https://simpleflying.com/why-boeing-707-insane-role-aviation-history/">Simple Flying</a></li>
+    <li><a href="https://stands.aero/blog/boeing/boeing-707/">National Aero Stands</a></li>
+    <li><a href="https://www.aahs-online.org/pubs/journals/files/533162.pdf">American Aviation Historical Society</a></li>
   </ul>
 </div>
 
 ## Metadatos de Control
+## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-19 06:15:00 UTC  
-- **Fuentes primarias consultadas:** Boeing Historical Archive, Smithsonian NASM, Aviation History Online Museum, FlightGlobal  
-- **Discrepancias resueltas:** Algunas fuentes confunden el vuelo del prototipo 367-80 (1954) con el primer vuelo de producción (1957). Se priorizó la fecha de producción del modelo 120.  
+- **Fuentes primarias consultadas:** This Day in Aviation, FlyLinkers News, Encyclopaedia Britannica, Simple Flying, National Aero Stands, American Aviation Historical Society  
+- **Discrepancias resueltas:** Algunas fuentes confunden el vuelo del prototipo 367‑80 (1954) con el primer vuelo de producción del Boeing 707‑120 (1957). Se priorizó la fecha de producción del modelo 120.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
