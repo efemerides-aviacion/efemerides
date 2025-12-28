@@ -26,7 +26,7 @@ El 20 de diciembre de 1957, el primer Boeing 707-120 de producción realizó su 
 - **Resultado inmediato:** Inicio del programa de pruebas para certificación de la CAA (Civil Aeronautics Administration)  
 
 ## Contexto Histórico
-El contexto histórico de un evento aeronáutico ofrece la perspectiva necesaria para comprender las condiciones en que ocurrió, desde los avances técnicos hasta el entorno social y cultural que le dieron significado y trascendencia.
+A mediados de la década de 1950, la aviación comercial todavía dependía de motores de pistón, lo que limitaba la velocidad y la comodidad de los viajes de larga distancia. El éxito del prototipo Boeing 367‑80 (Dash 80) demostró la viabilidad del transporte a chorro, y la competencia internacional se intensificaba con el Douglas DC‑8 en desarrollo y el De Havilland Comet británico ya en servicio. En ese escenario, el primer vuelo de producción del Boeing 707‑120 representó la transición definitiva hacia la “Jet Age”, consolidando a Estados Unidos como líder en la aviación comercial y marcando el inicio de una nueva era de conectividad global.
 
 ### Entorno social
 A mediados de la década de 1950, la aviación comercial dependía de motores de pistón lentos y ruidosos, lo que limitaba la experiencia de los pasajeros y la eficiencia de las aerolíneas.
@@ -52,7 +52,6 @@ El Boeing 707 es considerado el “padre” de los aviones comerciales modernos.
 
 ## Referencias Verificadas
 <div class="references">
-  <h2>Referencias</h2>
   <ul>
     <li><a href="https://www.boeing.com/history/products/707.page">Boeing Historical Archive</a></li>
     <li><a href="https://airandspace.si.edu/collection-objects/boeing-707-121/nasm-A19750523000">Smithsonian National Air and Space Museum</a></li>
