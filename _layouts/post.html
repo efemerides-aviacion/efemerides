@@ -5,34 +5,35 @@
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<!-- Metadatos Open Graph -->
-	<meta property="og:title" content="{{ page.title }}">
-	<meta property="og:description" content="Efeméride de Aviación: {{ page.title }}. {{ page.excerpt | strip_html | truncate: 160 }}">
-	<meta property="og:image" content="{{ '/assets/img/tupolev-1975.jpg' | relative_url }}">
-	<meta property="og:url" content="{{ page.url | absolute_url }}">
-	<meta property="og:type" content="article">
+    <!-- Metadatos Open Graph -->
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="Efeméride de Aviación: {{ page.title }}. {{ page.excerpt | strip_html | truncate: 160 }}">
+    <meta property="og:image" content="{{ '/assets/img/tupolev-1975.jpg' | relative_url }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:type" content="article">
 
-	<!-- Metadatos Twitter (opcional, también los usa WhatsApp) -->
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="{{ page.title }}">
-	<meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
-	<meta name="twitter:image" content="{{ '/assets/img/tupolev-1975.jpg' | relative_url }}">
+    <!-- Metadatos Twitter (opcional, también los usa WhatsApp) -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
+    <meta name="twitter:image" content="{{ '/assets/img/tupolev-1975.jpg' | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   </head>
   <body>
     <main>
-	<header>
-	  <h1>{{ page.title }}</h1>
+      <header>
+        <h1>{{ page.title }}</h1>
 
-	 {% if page.author or page.operator or page.categories %}
-	<p class="post-meta">
-    {% if page.author %}Publicado por: {{ page.author }}{% endif %}
-    {% if page.operator %} | Operador: {{ page.operator }}{% endif %}
-    {% if page.categories and page.categories.size > 0 %} | Categoría: {{ page.categories | join: ", " }}{% endif %}
-	</p>
-	{% endif %}
+        {% if page.author or page.operator or page.categories or page.país %}
+        <p class="post-meta">
+          {% if page.author %}Publicado por: {{ page.author }}{% endif %}
+          {% if page.categories and page.categories.size > 0 %} | Categoría: {{ page.categories | join: ", " }}{% endif %}
+          {% if page.país %} | País: {{ page.país }}{% endif %}
+          {% if page.operator %} | Operador: {{ page.operator }}{% endif %}
+        </p>
+        {% endif %}
 
-	</header>
+      </header>
 
       <article>
         {{ content }}
