@@ -24,11 +24,11 @@
       <header>
         <h1>{{ page.title }}</h1>
 
-        {% if page.author or page.operator or page.categories or page.país %}
+        {% if page.author or page.operator or page.categories or page.pais %}
         <p class="post-meta">
           {% if page.author %}Publicado por: {{ page.author }}{% endif %}
           {% if page.categories and page.categories.size > 0 %} | Categoría: {{ page.categories | join: ", " }}{% endif %}
-          {% if page.país %} | País: {{ page.país }}{% endif %}
+          {% if page.pais %} | País: {{ page.pais }}{% endif %}
           {% if page.operator %} | Operador: {{ page.operator }}{% endif %}
         </p>
         {% endif %}
