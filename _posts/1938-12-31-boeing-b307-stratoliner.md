@@ -41,11 +41,14 @@ El Stratoliner introdujo la presurización como estándar en la aviación comerc
 El B-307 Stratoliner es recordado como pionero en confort y seguridad aérea. Su innovación marcó el inicio de la aviación moderna, donde volar a gran altitud se convirtió en norma. Uno de los ejemplares restaurados se conserva en el Smithsonian National Air and Space Museum.
 
 ### Referencias
-- Boeing Historical Archives — *Boeing 307 Stratoliner*, consultado 2025.  
-- Smithsonian National Air and Space Museum — *Boeing 307 Stratoliner*.  
-- Aviation History Online Museum — *Boeing 307 Stratoliner*.  
-
-*(Enlaces verificados y funcionales en el momento de la investigación)*
+<div class="references">
+  <ul>
+    <li><a href="https://es.wikipedia.org/wiki/Boeing_307">Boeing 307 Stratoliner - Wikipedia</a> [web:70]</li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_307_Stratoliner">Boeing 307 Stratoliner - English Wikipedia</a> [web:92]</li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:USAAF_Boeing_C-75_Stratoliner_42-88624_Commanche.jpg">Boeing C-75 42-88624 "Commanche" - Wikimedia Commons</a> [web:75]</li>
+    <li><a href="https://airandspace.si.edu/collection-objects/boeing-307-stratoliner-clipper-flying-cloud/nasm_A19730267000">National Air and Space Museum - Boeing 307</a> [web:80]</li>
+  </ul>
+</div>
 
 ---
 
