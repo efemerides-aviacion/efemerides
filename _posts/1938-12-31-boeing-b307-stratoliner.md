@@ -43,10 +43,10 @@ El B-307 Stratoliner es recordado como pionero en confort y seguridad aérea. Su
 ### Referencias
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Boeing_307">Boeing 307 Stratoliner - Wikipedia</a> [web:70]</li>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_307_Stratoliner">Boeing 307 Stratoliner - English Wikipedia</a> [web:92]</li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:USAAF_Boeing_C-75_Stratoliner_42-88624_Commanche.jpg">Boeing C-75 42-88624 "Commanche" - Wikimedia Commons</a> [web:75]</li>
-    <li><a href="https://airandspace.si.edu/collection-objects/boeing-307-stratoliner-clipper-flying-cloud/nasm_A19730267000">National Air and Space Museum - Boeing 307</a> [web:80]</li>
+    <li><a href="https://es.wikipedia.org/wiki/Boeing_307">Boeing 307 Stratoliner - Wikipedia</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_307_Stratoliner">Boeing 307 Stratoliner - English Wikipedia</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:USAAF_Boeing_C-75_Stratoliner_42-88624_Commanche.jpg">Boeing C-75 42-88624 "Commanche" - Wikimedia Commons</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/boeing-307-stratoliner-clipper-flying-cloud/nasm_A19730267000">National Air and Space Museum - Boeing 307</a></li>
   </ul>
 </div>
 
