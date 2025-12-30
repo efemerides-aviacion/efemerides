@@ -38,13 +38,13 @@ excerpt: "[Resumen breve del personaje y su relevancia en la aviación]"
 ### Entorno cultural
 [Descripción]
 
-## Desarrollo Cronológico
+### Desarrollo Cronológico
 [Listado de hitos principales]
 
-## Consecuencias e Impacto
+### Consecuencias e Impacto
 [Impacto en la aviación]
 
-## Legado
+### Legado
 [Cómo se recuerda hoy]
 
 ## Referencias Verificadas
@@ -98,13 +98,13 @@ excerpt: "[Resumen breve del evento]"
 ### Entorno cultural
 [Descripción]
 
-## Desarrollo Cronológico
+### Desarrollo Cronológico
 [Secuencia de hechos relevantes]
 
-## Consecuencias e Impacto
+### Consecuencias e Impacto
 [Impacto en la aviación]
 
-## Legado
+### Legado
 [Cómo se recuerda hoy]
 
 ## Referencias Verificadas
@@ -163,13 +163,13 @@ excerpt: "[Resumen breve del accidente]"
 ### Entorno cultural
 [Descripción]
 
-## Desarrollo Cronológico
+### Desarrollo Cronológico
 [Secuencia de hechos]
 
-## Consecuencias e Impacto
+### Consecuencias e Impacto
 [Impacto en la aviación]
 
-## Legado
+### Legado
 [Lecciones aprendidas]
 
 ## Referencias Verificadas

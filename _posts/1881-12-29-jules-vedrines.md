@@ -12,8 +12,17 @@ excerpt: "El 29 de diciembre de 1881 nació Jules Védrines, pionero de la aviac
   <figcaption class="post-caption">Retrato del famoso aviador Jules Védrines en un monoplano Morane-Berel, último modelo.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-## Resumen Ejecutivo
-El **29 de diciembre de 1881** nació en Saint-Denis, Francia, **Jules Charles Toussaint Védrines**. Fue uno de los pioneros más audaces de la aviación francesa, famoso por ser el primero en superar las **100 millas por hora (160 km/h)** en vuelo, ganador del **Trofeo Gordon Bennett en 1912**, y por su espectacular aterrizaje en la azotea de las **Galerías Lafayette** en París en 1919 con un **Caudron G.3**.
+
+<hr>
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+	<p>	
+		El 29 de diciembre de 1881 nació en Saint-Denis, Francia, Jules Charles Toussaint Védrines. Fue uno de los pioneros más audaces de la aviación francesa, famoso por ser el primero en superar las 100 millas por hora (160 km/h) en vuelo, ganador del Trofeo Gordon Bennett en 1912, y por su espectacular aterrizaje en la azotea de las Galerías Lafayette en París en 1919 con un Caudron G.3.
+	</p>
+ </div>
+ 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+ 
 ## Datos biográficos y eventos
 - **Fecha de nacimiento:** 29 de diciembre de 1881  
 - **Lugar de nacimiento:** Saint-Denis, Francia  
@@ -25,6 +34,8 @@ El **29 de diciembre de 1881** nació en Saint-Denis, Francia, **Jules Charles T
 - **Servicio militar:** Piloto durante la Primera Guerra Mundial  
 - **Fecha de fallecimiento:** 21 de abril de 1919, accidente aéreo en Saint-Rambert-d’Albon  
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+
+
 ## Contexto Histórico
 Védrines se convirtió en un símbolo de la aviación temprana, destacando por su carácter audaz y competitivo. Sus hazañas ayudaron a popularizar la aviación en Francia y Europa, mostrando que los aviones podían ser rápidos, confiables y parte de la vida urbana.
 ### Desarrollo Cronológico
@@ -38,6 +49,9 @@ El aterrizaje en Galerías Lafayette fue un acto simbólico que acercó la aviac
 ### Legado
 Jules Védrines es recordado como un pionero que llevó la aviación más allá de los aeródromos, integrándola en la vida cotidiana y en la cultura popular. Su nombre permanece en museos, archivos y crónicas como referente de la era dorada de la aviación.
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+
+
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
