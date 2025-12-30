@@ -13,7 +13,6 @@ excerpt: "El 29 de diciembre de 1881 nació Jules Védrines, pionero de la aviac
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
-<hr>
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 	<p>	
