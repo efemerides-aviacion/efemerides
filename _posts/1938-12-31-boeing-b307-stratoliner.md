@@ -13,10 +13,10 @@ excerpt: "El Boeing B-307 Stratoliner, primer avión comercial presurizado del m
   <figcaption class="post-caption">Boeing C-75 Stratoliner 42-88624 "Commanche" USAAF, versión militar del 307 presurizado. Imagen: Wikimedia Commons / Dominio público</figcaption>
 </figure>
 
-### Resumen ejecutivo
+## Resumen ejecutivo
 El 31 de diciembre de 1938, Boeing presentó al mundo el B-307 Stratoliner, derivado del bombardero B-17, que se convirtió en el primer avión comercial con cabina presurizada. Su versión militar de transporte, el C-75, abrió camino a operaciones de largo alcance en condiciones más seguras y confortables.
 
-### Datos técnicos verificados
+## Datos técnicos verificados
 - **Modelo:** Boeing B-307 Stratoliner  
 - **Versión militar:** C-75 (transporte)  
 - **Motores:** 4 × Wright Cyclone R-1820  
@@ -25,7 +25,7 @@ El 31 de diciembre de 1938, Boeing presentó al mundo el B-307 Stratoliner, deri
 - **Autonomía:** ~3,200 km  
 - **Innovación clave:** Primera cabina presurizada en servicio comercial
 
-### Contexto histórico específico
+## Contexto histórico específico
 En plena era de expansión de la aviación civil, Boeing buscaba superar las limitaciones de altitud y confort. El Stratoliner fue diseñado a partir de la célula del B-17, adaptado para pasajeros. La presurización permitió volar por encima de turbulencias y condiciones meteorológicas adversas, revolucionando la experiencia de vuelo.
 
 ### Desarrollo cronológico
@@ -40,7 +40,7 @@ El Stratoliner introdujo la presurización como estándar en la aviación comerc
 ### Legado
 El B-307 Stratoliner es recordado como pionero en confort y seguridad aérea. Su innovación marcó el inicio de la aviación moderna, donde volar a gran altitud se convirtió en norma. Uno de los ejemplares restaurados se conserva en el Smithsonian National Air and Space Museum.
 
-### Referencias
+## Referencias
 <div class="references">
   <ul>
     <li><a href="https://es.wikipedia.org/wiki/Boeing_307">Boeing 307 Stratoliner - Wikipedia</a></li>
