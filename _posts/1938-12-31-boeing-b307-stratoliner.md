@@ -8,6 +8,10 @@ pais: Estados Unidos (USA)
 operator: Boeing
 excerpt: "El Boeing B-307 Stratoliner, primer avión comercial presurizado del mundo, realizó su vuelo inaugural el 31 de diciembre de 1938 en Seattle, marcando un hito en la aviación civil y militar."
 ---
+<figure>
+  <img class="post-image" src="usaaf_Boeing_C-75_Stratoliner_42-88624_Comanche.jpg" alt="Boeing C-75 Stratoliner 42-88624 Commanche">
+  <figcaption class="post-caption">Boeing C-75 Stratoliner 42-88624 "Commanche" USAAF, versión militar del 307 presurizado. Imagen: Wikimedia Commons / Dominio público</figcaption>
+</figure>
 
 ### Resumen ejecutivo
 El 31 de diciembre de 1938, Boeing presentó al mundo el B-307 Stratoliner, derivado del bombardero B-17, que se convirtió en el primer avión comercial con cabina presurizada. Su versión militar de transporte, el C-75, abrió camino a operaciones de largo alcance en condiciones más seguras y confortables.
