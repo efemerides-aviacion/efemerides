@@ -7,6 +7,7 @@ author: [Enrique Pomares]
 pais: Estados Unidos
 operator: St. Petersburg–Tampa Airboat Line
 excerpt: "El 1 de enero de 1914 se inauguró la primera aerolínea regular del mundo con el Benoist XIV."
+image: st-petersburg-tampa-airboat-4.jpg
 ---
 
 <figure>
