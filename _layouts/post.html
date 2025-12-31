@@ -8,7 +8,7 @@
     <!-- Metadatos Open Graph -->
     <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="Efeméride de Aviación: {{ page.title }}. {{ page.excerpt | strip_html | truncate: 160 }}">
-    <meta property="og:image" content="{{ '/assets/img/tupolev-1975.jpg' | relative_url }}">
+    <meta property="og:image" content="{{ site.url }}/assets/img/{{ page.image }}">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
     <meta property="og:type" content="article">
 
@@ -16,7 +16,7 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 160 }}">
-    <meta name="twitter:image" content="{{ '/assets/img/tupolev-1975.jpg' | relative_url }}">
+    <meta name="twitter:image" content="{{ site.url }}/assets/img/{{ page.image }}">
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   </head>
   <body>
