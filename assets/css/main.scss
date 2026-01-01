@@ -87,3 +87,38 @@ hr {
   font-size: 0.9em;
   color: #555;
 }
+
+.banner {
+  background-color: #003366;
+  color: white;
+  padding: 2em;
+  text-align: center;
+  margin-bottom: 2em;
+  border-radius: 6px;
+}
+
+.post-preview {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2em;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 1em;
+}
+
+.post-thumb {
+  width: 200px;
+  height: 120px;
+  object-fit: cover;
+  margin-right: 1em;
+  border-radius: 4px;
+}
+
+.post-text h2 {
+  margin: 0 0 0.5em;
+  font-size: 1.2em;
+}
+
+.post-text p {
+  margin: 0;
+  color: #555;
+}
