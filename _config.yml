@@ -1,6 +1,6 @@
 title: Efemérides de Aviación
 description: Archivo editorial de efemérides históricas en aviación
-baseurl: "/efemerides" # nombre del repositorio
+baseurl: "" # vacío porque el sitio está en la raíz
 url: "https://efemerides-aviacion.github.io"
 
 theme: null
