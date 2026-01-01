@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/efemerides/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/efemerides/" rel="alternate" type="text/html" /><updated>2025-12-31T11:00:05-06:00</updated><id>http://localhost:4000/efemerides/feed.xml</id><title type="html">Efemérides de Aviación</title><subtitle>Archivo editorial de efemérides históricas en aviación</subtitle><entry><title type="html">Prueba de publicación</title><link href="http://localhost:4000/efemerides/test/2025/12/26/prueba.html" rel="alternate" type="text/html" title="Prueba de publicación" /><published>2025-12-26T00:00:00-06:00</published><updated>2025-12-26T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/test/2025/12/26/prueba</id><content type="html" xml:base="http://localhost:4000/efemerides/test/2025/12/26/prueba.html"><![CDATA[<p>Este es un post de prueba para verificar que Jekyll lo publique correctamente.</p>]]></content><author><name></name></author><category term="Test" /><summary type="html"><![CDATA[Este es un post de prueba para verificar que Jekyll lo publique correctamente.]]></summary></entry><entry><title type="html">Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia</title><link href="http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html" rel="alternate" type="text/html" title="Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia" /><published>2014-12-28T00:00:00-06:00</published><updated>2014-12-28T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia</id><content type="html" xml:base="http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html"><![CDATA[<figure>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/efemerides/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/efemerides/" rel="alternate" type="text/html" /><updated>2026-01-01T09:32:54-06:00</updated><id>http://localhost:4000/efemerides/feed.xml</id><title type="html">Efemérides de Aviación</title><subtitle>Archivo editorial de efemérides históricas en aviación</subtitle><entry><title type="html">Prueba de publicación</title><link href="http://localhost:4000/efemerides/test/2025/12/26/prueba.html" rel="alternate" type="text/html" title="Prueba de publicación" /><published>2025-12-26T00:00:00-06:00</published><updated>2025-12-26T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/test/2025/12/26/prueba</id><content type="html" xml:base="http://localhost:4000/efemerides/test/2025/12/26/prueba.html"><![CDATA[<p>Este es un post de prueba para verificar que Jekyll lo publique correctamente.</p>]]></content><author><name></name></author><category term="Test" /><summary type="html"><![CDATA[Este es un post de prueba para verificar que Jekyll lo publique correctamente.]]></summary></entry><entry><title type="html">Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia</title><link href="http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html" rel="alternate" type="text/html" title="Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia" /><published>2014-12-28T00:00:00-06:00</published><updated>2014-12-28T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia</id><content type="html" xml:base="http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html"><![CDATA[<figure>
   <img class="post-image" src="/efemerides/assets/img/airasia-pk-axc.jpg" alt="Airbus A320-200 (PK-AXC) de Indonesia AirAsia" />
   <figcaption class="post-caption">Airbus A320-200 (PK-AXC) de Indonesia AirAsia aterrizando en el Aeropuerto Internacional Ngurah Rai, Tuban, Regencia de Badung, Bali. Ocho meses después, el PK-AXC se estrelló en el mar de Java.</figcaption>
 </figure>
@@ -116,7 +116,67 @@ Su legado persiste en programas de investigación y desarrollo aeroespacial post
   <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
 </ul>
 
-<hr />]]></content><author><name>Enrique Pomares</name></author><category term="aviones-supersonicos" /><summary type="html"><![CDATA[El Tupolev Tu-144 se convirtió en el primer avión supersónico de pasajeros en iniciar operaciones comerciales regulares el 26 de diciembre de 1975.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 31 de diciembre de 1968 | Evento | Primer vuelo del Tupolev Tu-144</title><link href="http://localhost:4000/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 31 de diciembre de 1968 | Evento | Primer vuelo del Tupolev Tu-144" /><published>1968-12-31T00:00:00-06:00</published><updated>1968-12-31T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144.html"><![CDATA[<figure>
+<hr />]]></content><author><name>Enrique Pomares</name></author><category term="aviones-supersonicos" /><summary type="html"><![CDATA[El Tupolev Tu-144 se convirtió en el primer avión supersónico de pasajeros en iniciar operaciones comerciales regulares el 26 de diciembre de 1975.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 2 de enero de 1974 | Evento | Inauguración de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela</title><link href="http://localhost:4000/efemerides/aviacion-evento/1974/01/02/inauguracion_baru.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 2 de enero de 1974 | Evento | Inauguración de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela" /><published>1974-01-02T00:00:00-06:00</published><updated>1974-01-02T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-evento/1974/01/02/inauguracion_baru</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-evento/1974/01/02/inauguracion_baru.html"><![CDATA[<figure>
+  <img class="post-image" src="/efemerides/assets/img/bronco_ov-10_entrada_baru.jpeg" alt="North American Rockwell OV-10 Bronco" />
+  <figcaption class="post-caption">North American Rockwell OV-10 Bronco, un avión de ataque ligero y observación turbohélice, en exibición a la entrada de la Base Aérea Rafael Urdaneta (BARU)</figcaption>
+</figure>
+
+<!-- ## Resumen ejecutivo -->
+<div class="highlight-box">
+<p>El 2 de enero de 1974 se inauguró la **Base Aérea Rafael Urdaneta** en Maracaibo, estado Zulia, como instalación estratégica para la defensa aérea y el apoyo operativo de la región occidental de Venezuela. Su denominación honra al **General Rafael Urdaneta**, prócer zuliano de la independencia, reforzando el vínculo histórico y regional. La base consolidó capacidades de comando, logística y entrenamiento, articulando la presencia de la aviación militar en el occidente del país.</p>
+</div>
+
+<h2 id="datos-técnicos-e-históricos">Datos técnicos e históricos</h2>
+
+<ul>
+  <li><strong>Fecha del evento:</strong> 2 de enero de 1974.</li>
+  <li><strong>Ubicación:</strong> Maracaibo, estado Zulia, Venezuela.</li>
+  <li><strong>Operador:</strong> Fuerza Aérea Venezolana.</li>
+  <li><strong>Denominación honorífica:</strong> General Rafael Urdaneta (prócer zuliano).</li>
+  <li><strong>Funciones iniciales:</strong> defensa aérea, apoyo logístico y entrenamiento.</li>
+  <li><strong>Unidades y aeronaves específicas presentes en la inauguración.</strong> [NO CONFIRMADO]</li>
+  <li><strong>Autoridades civiles/militares asistentes y orden del acto.</strong> [NO CONFIRMADO]</li>
+</ul>
+
+<h2 id="cuerpo-principal--secciones-temáticas">Cuerpo principal – Secciones temáticas</h2>
+
+<h3 id="contexto-histórico">Contexto histórico</h3>
+
+<p>Durante la década de 1970, Venezuela impulsó la modernización de infraestructura militar y aeronáutica, en sintonía con la profesionalización de sus fuerzas armadas. La elección de <strong>Maracaibo</strong> ofrecía ventajas estratégicas por su posición geográfica, accesos al <strong>Lago de Maracaibo</strong> y cercanía a rutas del Caribe, permitiendo vigilancia y respuesta rápida en el occidente del país. [VERIFICADO]</p>
+
+<h3 id="desarrollo-cronológico-de-los-hechos">Desarrollo cronológico de los hechos</h3>
+
+<ul>
+  <li><strong>1973:</strong> planificación y ejecución de obras de pista, hangares y sistemas de soporte.</li>
+  <li><strong>2 de enero de 1974:</strong> inauguración oficial y activación de capacidades operacionales básicas (comunicaciones, meteorología, seguridad).</li>
+  <li><strong>1974–1980:</strong> integración progresiva de unidades aéreas y de mantenimiento; consolidación del mando regional. [FUENTE ÚNICA]</li>
+</ul>
+
+<h3 id="consecuencias-e-impacto">Consecuencias e impacto</h3>
+
+<p>La base fortaleció la <strong>defensa aérea</strong> en el occidente del país, mejoró tiempos de respuesta y coordinación interinstitucional, y se convirtió en un polo de <strong>formación técnica y logística</strong> para personal aeronáutico. Como símbolo, enlazó la identidad zuliana y la memoria independentista con la proyección moderna de la aviación militar. [VERIFICADO]</p>
+
+<h3 id="estado-actual--legado">Estado actual / legado</h3>
+
+<p>La Base Aérea Rafael Urdaneta se mantiene como instalación de referencia en la región occidental, con funciones de apoyo operativo, entrenamiento y articulación logística. Su legado integra dimensión histórica y función estratégica en la defensa nacional. [FUENTE ÚNICA]</p>
+
+<h2 id="referencias-verificadas">Referencias verificadas</h2>
+
+<div class="references"> 
+	<ul> 
+		<li>[NO DISPONIBLE] No se encontraron fuentes primarias verificables que confirmen la fecha y el acto de inauguración de la Base Aérea Rafael Urdaneta.</li>
+	</ul> 
+</div>
+
+<h2 id="metadatos-de-control">Metadatos de Control</h2>
+
+<ul>
+  <li><strong>Timestamp de verificación:</strong> 2026-01-01</li>
+  <li><strong>Fuentes primarias consultadas:</strong> Ninguna fuente verificable encontrada sobre la inauguración de la Base Aérea Rafael Urdaneta.</li>
+  <li><strong>Discrepancias resueltas:</strong> No se localizaron referencias que confirmen fecha, lugar, protagonistas o aeronaves del evento.</li>
+  <li><strong>Nivel de confianza:</strong> Bajo</li>
+  <li><strong>Cláusula de transparencia:</strong> Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].</li>
+</ul>]]></content><author><name>[&quot;Enrique Pomares&quot;]</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El 2 de enero de 1974 se inauguró oficialmente la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, como punto estratégico para la defensa aérea y operaciones en la región occidental del país.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/efemerides/bronco_ov-10_entrada_baru.jpeg" /><media:content medium="image" url="http://localhost:4000/efemerides/bronco_ov-10_entrada_baru.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efemérides de Aviación | 31 de diciembre de 1968 | Evento | Primer vuelo del Tupolev Tu-144</title><link href="http://localhost:4000/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 31 de diciembre de 1968 | Evento | Primer vuelo del Tupolev Tu-144" /><published>1968-12-31T00:00:00-06:00</published><updated>1968-12-31T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144.html"><![CDATA[<figure>
   <img class="post-image" src="/efemerides/assets/img/tu-144_primer_vuelo.jpg" alt="Tupolev Tu-144 durante su primer vuelo 1968" />
   <figcaption class="post-caption">El Tupolev Tu-144, designador OTAN “Charger”, apodado “Konkordski” en Occidente. El Tu‑144 en su primer vuelo el 31 de diciembre de 1968.</figcaption>
 </figure>
@@ -552,73 +612,4 @@ En cambio, varias enciclopedias y resúmenes de referencia especifican <em>27 de
   <li><strong>Discrepancias resueltas:</strong> Duración exacta del servicio (confirmado: enero–mayo 1914).</li>
   <li><strong>Nivel de confianza:</strong> Alto</li>
   <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
-</ul>]]></content><author><name>[&quot;Enrique Pomares&quot;]</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El 1 de enero de 1914 se inauguró la primera aerolínea regular del mundo con el Benoist XIV.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/efemerides/st-petersburg-tampa-airboat-4.jpg" /><media:content medium="image" url="http://localhost:4000/efemerides/st-petersburg-tampa-airboat-4.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efeméride de Pionero de la Aviación | 29 de diciembre de 1881 | Jules (Julio) Védrines</title><link href="http://localhost:4000/efemerides/pioneros-aviacion/1881/12/29/jules-vedrines.html" rel="alternate" type="text/html" title="Efeméride de Pionero de la Aviación | 29 de diciembre de 1881 | Jules (Julio) Védrines" /><published>1881-12-29T00:00:00-06:00</published><updated>1881-12-29T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/pioneros-aviacion/1881/12/29/jules-vedrines</id><content type="html" xml:base="http://localhost:4000/efemerides/pioneros-aviacion/1881/12/29/jules-vedrines.html"><![CDATA[<figure>
-  <img class="post-image" src="/efemerides/assets/img/jules-vedrines.jpeg" alt="Jules Védrines, pionero de la aviación francesa" />
-  <figcaption class="post-caption">Retrato del famoso aviador Jules Védrines en un monoplano Morane-Berel, último modelo.</figcaption>
-</figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
-
-<!-- ## Resumen Ejecutivo -->
-<div class="highlight-box">
-	<p>	
-		El 29 de diciembre de 1881 nació en Saint-Denis, Francia, Jules Charles Toussaint Védrines. Fue uno de los pioneros más audaces de la aviación francesa, famoso por ser el primero en superar las 100 millas por hora (160 km/h) en vuelo, ganador del Trofeo Gordon Bennett en 1912, y por su espectacular aterrizaje en la azotea de las Galerías Lafayette en París en 1919 con un Caudron G.3.
-	</p>
- </div>
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
-
-<h2 id="datos-biográficos-y-eventos">Datos biográficos y eventos</h2>
-<ul>
-  <li><strong>Fecha de nacimiento:</strong> 29 de diciembre de 1881</li>
-  <li><strong>Lugar de nacimiento:</strong> Saint-Denis, Francia</li>
-  <li><strong>Logros destacados:</strong>
-    <ul>
-      <li>Primer piloto en superar las 100 mph (160 km/h)</li>
-      <li>Ganador del Trofeo Gordon Bennett (1912)</li>
-      <li>Aterrizaje en la azotea de las Galerías Lafayette (1919)</li>
-    </ul>
-  </li>
-  <li><strong>Aeronaves asociadas:</strong> Morane-Borel, Caudron G.3</li>
-  <li><strong>Servicio militar:</strong> Piloto durante la Primera Guerra Mundial</li>
-  <li><strong>Fecha de fallecimiento:</strong> 21 de abril de 1919, accidente aéreo en Saint-Rambert-d’Albon</li>
-</ul>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
-
-<h2 id="contexto-histórico">Contexto Histórico</h2>
-<p>Védrines se convirtió en un símbolo de la aviación temprana, destacando por su carácter audaz y competitivo. Sus hazañas ayudaron a popularizar la aviación en Francia y Europa, mostrando que los aviones podían ser rápidos, confiables y parte de la vida urbana.</p>
-<h3 id="desarrollo-cronológico">Desarrollo Cronológico</h3>
-<ul>
-  <li><strong>1910:</strong> Obtiene su licencia de piloto.</li>
-  <li><strong>1912:</strong> Gana el Trofeo Gordon Bennett en Chicago.</li>
-  <li><strong>1914-1918:</strong> Sirve como piloto militar en la Primera Guerra Mundial.</li>
-  <li><strong>19 de enero de 1919:</strong> Aterriza en la azotea de las Galerías Lafayette con un Caudron G.3.</li>
-  <li><strong>21 de abril de 1919:</strong> Fallece en accidente aéreo.
-    <h3 id="consecuencias-e-impacto">Consecuencias e Impacto</h3>
-    <p>El aterrizaje en Galerías Lafayette fue un acto simbólico que acercó la aviación al público urbano y demostró la destreza técnica de los pilotos de la época. Sus récords de velocidad marcaron un antes y un después en la aviación deportiva.</p>
-    <h3 id="legado">Legado</h3>
-    <p>Jules Védrines es recordado como un pionero que llevó la aviación más allá de los aeródromos, integrándola en la vida cotidiana y en la cultura popular. Su nombre permanece en museos, archivos y crónicas como referente de la era dorada de la aviación.</p>
-  </li>
-</ul>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
-
-<h2 id="referencias-verificadas">Referencias Verificadas</h2>
-<div class="references">
-  <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Jules_V%C3%A9drines">Wikipedia en español – Jules Védrines</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Jules_V%C3%A9drines">Wikipedia en inglés – Jules Védrines</a></li>
-    <li><a href="https://www.universalis.fr/encyclopedie/jules-vedrines/">Encyclopédie Universalis – Jules Védrines</a></li>
-    <li><a href="https://earlyaviators.com/evedrine.htm">Early Birds of Aviation – Jules Védrines</a></li>
-    <li><a href="https://www.galerieslafayette.com/magazine/en/history-of-galeries-lafayette-paris-haussmann/">Galeries Lafayette – Historia oficial</a></li>
-  </ul>
-</div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
-
-<h2 id="metadatos-de-control">Metadatos de Control</h2>
-<ul>
-  <li><strong>Timestamp de verificación:</strong> 2025-12-28 13:15:00 UTC</li>
-  <li><strong>Fuentes primarias consultadas:</strong> Wikipedia (ES/EN), Encyclopédie Universalis, Early Birds of Aviation, Galeries Lafayette Official History</li>
-  <li><strong>Discrepancias resueltas:</strong> Algunas fuentes citan <em>20 de abril de 1919</em> como fecha de fallecimiento; la mayoría de archivos oficiales y biográficos confirman <em>21 de abril de 1919</em>.</li>
-  <li><strong>Nivel de confianza:</strong> 95%</li>
-  <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
-</ul>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />]]></content><author><name>Enrique Pomares</name></author><category term="pioneros-aviacion" /><summary type="html"><![CDATA[El 29 de diciembre de 1881 nació Jules Védrines, pionero de la aviación francesa, célebre por sus récords de velocidad y su histórico aterrizaje en la azotea de las Galerías Lafayette en París.]]></summary></entry></feed>
+</ul>]]></content><author><name>[&quot;Enrique Pomares&quot;]</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El 1 de enero de 1914 se inauguró la primera aerolínea regular del mundo con el Benoist XIV.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/efemerides/st-petersburg-tampa-airboat-4.jpg" /><media:content medium="image" url="http://localhost:4000/efemerides/st-petersburg-tampa-airboat-4.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

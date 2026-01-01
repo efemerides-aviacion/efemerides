@@ -16,18 +16,19 @@ image: bronco_ov-10_entrada_baru.jpeg
 </figure>
 
 <!-- ## Resumen ejecutivo -->
-
-El 2 de enero de 1974 se inauguró la **Base Aérea Rafael Urdaneta** en Maracaibo, estado Zulia, como instalación estratégica para la defensa aérea y el apoyo operativo de la región occidental de Venezuela. Su denominación honra al **General Rafael Urdaneta**, prócer zuliano de la independencia, reforzando el vínculo histórico y regional. La base consolidó capacidades de comando, logística y entrenamiento, articulando la presencia de la aviación militar en el occidente del país.
+<div class="highlight-box">
+<p>El 2 de enero de 1974 se inauguró la **Base Aérea Rafael Urdaneta** en Maracaibo, estado Zulia, como instalación estratégica para la defensa aérea y el apoyo operativo de la región occidental de Venezuela. Su denominación honra al **General Rafael Urdaneta**, prócer zuliano de la independencia, reforzando el vínculo histórico y regional. La base consolidó capacidades de comando, logística y entrenamiento, articulando la presencia de la aviación militar en el occidente del país.</p>
+</div>
 
 ## Datos técnicos e históricos
 
-- [VERIFICADO] **Fecha del evento:** 2 de enero de 1974.  
-- [VERIFICADO] **Ubicación:** Maracaibo, estado Zulia, Venezuela.  
-- [VERIFICADO] **Operador:** Fuerza Aérea Venezolana.  
-- [VERIFICADO] **Denominación honorífica:** General Rafael Urdaneta (prócer zuliano).  
-- [FUENTE ÚNICA] **Funciones iniciales:** defensa aérea, apoyo logístico y entrenamiento.  
-- [NO CONFIRMADO] **Unidades y aeronaves específicas presentes en la inauguración.**  
-- [NO CONFIRMADO] **Autoridades civiles/militares asistentes y orden del acto.**
+- **Fecha del evento:** 2 de enero de 1974.  
+- **Ubicación:** Maracaibo, estado Zulia, Venezuela.  
+- **Operador:** Fuerza Aérea Venezolana.  
+- **Denominación honorífica:** General Rafael Urdaneta (prócer zuliano).  
+- **Funciones iniciales:** defensa aérea, apoyo logístico y entrenamiento.  
+- **Unidades y aeronaves específicas presentes en la inauguración.** [NO CONFIRMADO]   
+- **Autoridades civiles/militares asistentes y orden del acto.** [NO CONFIRMADO] 
 
 ## Cuerpo principal – Secciones temáticas
 
@@ -37,8 +38,8 @@ Durante la década de 1970, Venezuela impulsó la modernización de infraestruct
 
 ### Desarrollo cronológico de los hechos
 
-- **1973:** planificación y ejecución de obras de pista, hangares y sistemas de soporte. [FUENTE ÚNICA]  
-- **2 de enero de 1974:** inauguración oficial y activación de capacidades operacionales básicas (comunicaciones, meteorología, seguridad). [VERIFICADO]  
+- **1973:** planificación y ejecución de obras de pista, hangares y sistemas de soporte.  
+- **2 de enero de 1974:** inauguración oficial y activación de capacidades operacionales básicas (comunicaciones, meteorología, seguridad).  
 - **1974–1980:** integración progresiva de unidades aéreas y de mantenimiento; consolidación del mando regional. [FUENTE ÚNICA]
 
 ### Consecuencias e impacto
@@ -51,18 +52,17 @@ La Base Aérea Rafael Urdaneta se mantiene como instalación de referencia en la
 
 ## Referencias verificadas
 
-<div class="references">
-  <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Base_A%C3%A9rea_Rafael_Urdaneta">Wikipedia – Base Aérea Rafael Urdaneta</a></li>
-    <li><a href="https://fav-club.com/">FAV-Club (archivo y reseñas de unidades y bases)</a></li>
-    <li><a href="https://www.armada.mil.ve/av/">Portal institucional (referencias a infraestructura aérea; ver secciones históricas)</a></li>
-  </ul>
+<div class="references"> 
+	<ul> 
+		<li>[NO DISPONIBLE] No se encontraron fuentes primarias verificables que confirmen la fecha y el acto de inauguración de la Base Aérea Rafael Urdaneta.</li>
+	</ul> 
 </div>
 
 ## Metadatos de Control
 
 - **Timestamp de verificación:** 2026-01-01  
-- **Fuentes primarias consultadas:** Wikipedia (entrada específica), FAV-Club (reseñas/archivo), portal institucional (referencias generales).  
-- **Discrepancias resueltas:** Sin discrepancias evidentes en fecha y ubicación; faltan detalles de unidades y autoridades en acto inaugural.  
-- **Nivel de confianza:** Medio  
+- **Fuentes primarias consultadas:** Ninguna fuente verificable encontrada sobre la inauguración de la Base Aérea Rafael Urdaneta.  
+- **Discrepancias resueltas:** No se localizaron referencias que confirmen fecha, lugar, protagonistas o aeronaves del evento.  
+- **Nivel de confianza:** Bajo  
 - **Cláusula de transparencia:** Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].
+
