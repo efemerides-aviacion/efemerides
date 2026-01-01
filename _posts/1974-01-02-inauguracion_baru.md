@@ -34,21 +34,21 @@ image: bronco_ov-10_entrada_baru.jpeg
 
 ### Contexto histórico
 
-Durante la década de 1970, Venezuela impulsó la modernización de infraestructura militar y aeronáutica, en sintonía con la profesionalización de sus fuerzas armadas. La elección de **Maracaibo** ofrecía ventajas estratégicas por su posición geográfica, accesos al **Lago de Maracaibo** y cercanía a rutas del Caribe, permitiendo vigilancia y respuesta rápida en el occidente del país. [VERIFICADO]
+Durante la década de 1970, Venezuela impulsó la modernización de infraestructura militar y aeronáutica, en sintonía con la profesionalización de sus fuerzas armadas. La elección de **Maracaibo** ofrecía ventajas estratégicas por su posición geográfica, accesos al **Lago de Maracaibo** y cercanía a rutas del Caribe, permitiendo vigilancia y respuesta rápida en el occidente del país. 
 
 ### Desarrollo cronológico de los hechos
 
 - **1973:** planificación y ejecución de obras de pista, hangares y sistemas de soporte.  
 - **2 de enero de 1974:** inauguración oficial y activación de capacidades operacionales básicas (comunicaciones, meteorología, seguridad).  
-- **1974–1980:** integración progresiva de unidades aéreas y de mantenimiento; consolidación del mando regional. [FUENTE ÚNICA]
+- **1974–1980:** integración progresiva de unidades aéreas y de mantenimiento; consolidación del mando regional. 
 
 ### Consecuencias e impacto
 
-La base fortaleció la **defensa aérea** en el occidente del país, mejoró tiempos de respuesta y coordinación interinstitucional, y se convirtió en un polo de **formación técnica y logística** para personal aeronáutico. Como símbolo, enlazó la identidad zuliana y la memoria independentista con la proyección moderna de la aviación militar. [VERIFICADO]
+La base fortaleció la **defensa aérea** en el occidente del país, mejoró tiempos de respuesta y coordinación interinstitucional, y se convirtió en un polo de **formación técnica y logística** para personal aeronáutico. Como símbolo, enlazó la identidad zuliana y la memoria independentista con la proyección moderna de la aviación militar. 
 
 ### Estado actual / legado
 
-La Base Aérea Rafael Urdaneta se mantiene como instalación de referencia en la región occidental, con funciones de apoyo operativo, entrenamiento y articulación logística. Su legado integra dimensión histórica y función estratégica en la defensa nacional. [FUENTE ÚNICA]
+La Base Aérea Rafael Urdaneta se mantiene como instalación de referencia en la región occidental, con funciones de apoyo operativo, entrenamiento y articulación logística. Su legado integra dimensión histórica y función estratégica en la defensa nacional. 
 
 ## Referencias verificadas
 
