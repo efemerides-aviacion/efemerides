@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  </head>
+  <body>
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+
+        <!-- Banner superior -->
+        <div class="banner">
+          <h1>Archivo Editorial de Efemérides de Aviación</h1>
+          <p>Explora los hitos históricos de la aviación, organizados cronológicamente.</p>
+        </div>
+
+        <!-- Bucle de publicaciones -->
+        {% for post in site.posts %}
+          <div class="post-preview">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{ post.image }}" alt="{{ post.title }}" class="post-thumb">
+            <div class="post-text">
+              <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+              <p>{{ post.excerpt }}</p>
+            </div>
+          </div>
+        {% endfor %}
+
+      </div>
+    </main>
+  </body>
+</html>
