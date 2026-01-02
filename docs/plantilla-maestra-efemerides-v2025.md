@@ -1,5 +1,5 @@
 # Documento Maestro de Plantillas de Efemérides de Aviación
-> Última actualización: 2025-12-30
+> Última actualización: 2025-01-02
 
 ---
 
@@ -64,7 +64,6 @@ excerpt: "[Resumen breve del personaje y su relevancia en la aviación]"
 - **Nivel de confianza:** Alto/Medio/Bajo  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
 
----
 
 ## ✈️ Plantilla: aviacion-evento
 
@@ -130,7 +129,6 @@ excerpt: "[Resumen breve del evento]"
 - **Nivel de confianza:** Alto/Medio/Bajo  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
 
----
 
 ## 🛑 Plantilla: accidentes-de-aviacion
 
