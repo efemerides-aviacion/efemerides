@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.excerpt }}">
+<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.image }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:type" content="article">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.excerpt }}">
+<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.image }}">
+	
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1>{{ page.title }}</h1>
+
+        {% if page.author or page.operator or page.categories or page.pais %}
+        <p class="post-meta">
+          {% if page.author %}Publicado por: {{ page.author }}{% endif %}
+          {% if page.categories and page.categories.size > 0 %} | Categoría: {{ page.categories | join: ", " }}{% endif %}
+          {% if page.pais %} | País: {{ page.pais }}{% endif %}
+          {% if page.operator %} | Operador: {{ page.operator }}{% endif %}
+        </p>
+        {% endif %}
+
+      </header>
+
+      <article>
+        {{ content }}
+      </article>
+
+      <footer>
+        <p>Asistencia Técnica: Gilberto Vallenilla</p>
+      </footer>
+    </main>
+  </body>
+</html>
