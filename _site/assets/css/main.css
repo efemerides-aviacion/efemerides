@@ -70,4 +70,23 @@
   color: #000;
 }
 
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 2em 0;
+}
+
+.post-footer {
+  text-align: center;
+  font-style: italic;
+  font-weight: 300; /* tipografía más ligera */
+  background-color: #f7f7f7; /* gris muy suave */
+  color: #555; /* texto gris oscuro */
+  font-size: 0.9em; /* tipografía discreta */
+  padding: 8px;
+  margin-top: 30px;
+  border-top: 1px solid #ccc; /* línea superior tenue */
+  border-radius: 4px; /* esquinas suavemente redondeadas */
+}
+
 /*# sourceMappingURL=main.css.map */
