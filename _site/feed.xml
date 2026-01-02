@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://efemerides-aviacion.github.io/efemerides/feed.xml" rel="self" type="application/atom+xml" /><link href="https://efemerides-aviacion.github.io/efemerides/" rel="alternate" type="text/html" /><updated>2026-01-02T16:01:07-06:00</updated><id>https://efemerides-aviacion.github.io/efemerides/feed.xml</id><title type="html">Efemérides de Aviación</title><subtitle>Archivo editorial de efemérides históricas en aviación</subtitle><entry><title type="html">Prueba de publicación</title><link href="https://efemerides-aviacion.github.io/efemerides/test/2025/12/26/prueba.html" rel="alternate" type="text/html" title="Prueba de publicación" /><published>2025-12-26T00:00:00-06:00</published><updated>2025-12-26T00:00:00-06:00</updated><id>https://efemerides-aviacion.github.io/efemerides/test/2025/12/26/prueba</id><content type="html" xml:base="https://efemerides-aviacion.github.io/efemerides/test/2025/12/26/prueba.html"><![CDATA[<p>Este es un post de prueba para verificar que Jekyll lo publique correctamente.</p>]]></content><author><name></name></author><category term="Test" /><summary type="html"><![CDATA[Este es un post de prueba para verificar que Jekyll lo publique correctamente.]]></summary></entry><entry><title type="html">Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia</title><link href="https://efemerides-aviacion.github.io/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html" rel="alternate" type="text/html" title="Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia" /><published>2014-12-28T00:00:00-06:00</published><updated>2014-12-28T00:00:00-06:00</updated><id>https://efemerides-aviacion.github.io/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia</id><content type="html" xml:base="https://efemerides-aviacion.github.io/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html"><![CDATA[<figure>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/efemerides/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/efemerides/" rel="alternate" type="text/html" /><updated>2026-01-02T16:43:09-06:00</updated><id>http://localhost:4000/efemerides/feed.xml</id><title type="html">Efemérides de Aviación</title><subtitle>Archivo editorial de efemérides históricas en aviación</subtitle><entry><title type="html">Prueba de publicación</title><link href="http://localhost:4000/efemerides/test/2025/12/26/prueba.html" rel="alternate" type="text/html" title="Prueba de publicación" /><published>2025-12-26T00:00:00-06:00</published><updated>2025-12-26T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/test/2025/12/26/prueba</id><content type="html" xml:base="http://localhost:4000/efemerides/test/2025/12/26/prueba.html"><![CDATA[<p>Este es un post de prueba para verificar que Jekyll lo publique correctamente.</p>]]></content><author><name></name></author><category term="Test" /><summary type="html"><![CDATA[Este es un post de prueba para verificar que Jekyll lo publique correctamente.]]></summary></entry><entry><title type="html">Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia</title><link href="http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html" rel="alternate" type="text/html" title="Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia" /><published>2014-12-28T00:00:00-06:00</published><updated>2014-12-28T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia</id><content type="html" xml:base="http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html"><![CDATA[<figure>
   <img class="post-image" src="/efemerides/assets/img/airasia-pk-axc.jpg" alt="Airbus A320-200 (PK-AXC) de Indonesia AirAsia" />
   <figcaption class="post-caption">Airbus A320-200 (PK-AXC) de Indonesia AirAsia aterrizando en el Aeropuerto Internacional Ngurah Rai, Tuban, Regencia de Badung, Bali. Ocho meses después, el PK-AXC se estrelló en el mar de Java.</figcaption>
 </figure>
@@ -51,7 +51,7 @@
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />]]></content><author><name>Enrique Pomares</name></author><category term="accidentes-aereos" /><summary type="html"><![CDATA[El 28 de diciembre de 2014, el vuelo 8501 de Indonesia AirAsia sufrió un accidente fatal en el Mar de Java, con la pérdida de 162 vidas.]]></summary></entry><entry><title type="html">Efeméride de Aviación | 26 de diciembre de 1975 | Tupolev Tu-144 inicia operaciones comerciales</title><link href="https://efemerides-aviacion.github.io/efemerides/aviones-supersonicos/1975/12/26/tupolev-144.html" rel="alternate" type="text/html" title="Efeméride de Aviación | 26 de diciembre de 1975 | Tupolev Tu-144 inicia operaciones comerciales" /><published>1975-12-26T00:00:00-06:00</published><updated>1975-12-26T00:00:00-06:00</updated><id>https://efemerides-aviacion.github.io/efemerides/aviones-supersonicos/1975/12/26/tupolev-144</id><content type="html" xml:base="https://efemerides-aviacion.github.io/efemerides/aviones-supersonicos/1975/12/26/tupolev-144.html"><![CDATA[<figure>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />]]></content><author><name>Enrique Pomares</name></author><category term="accidentes-aereos" /><summary type="html"><![CDATA[El 28 de diciembre de 2014, el vuelo 8501 de Indonesia AirAsia sufrió un accidente fatal en el Mar de Java, con la pérdida de 162 vidas.]]></summary></entry><entry><title type="html">Efeméride de Aviación | 26 de diciembre de 1975 | Tupolev Tu-144 inicia operaciones comerciales</title><link href="http://localhost:4000/efemerides/aviones-supersonicos/1975/12/26/tupolev-144.html" rel="alternate" type="text/html" title="Efeméride de Aviación | 26 de diciembre de 1975 | Tupolev Tu-144 inicia operaciones comerciales" /><published>1975-12-26T00:00:00-06:00</published><updated>1975-12-26T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviones-supersonicos/1975/12/26/tupolev-144</id><content type="html" xml:base="http://localhost:4000/efemerides/aviones-supersonicos/1975/12/26/tupolev-144.html"><![CDATA[<figure>
   <img src="/efemerides/assets/img/tupolev-1975.jpg" alt="El Tupolev Tu-144, avión supersónico de pasajeros" class="post-image" />
   <figcaption class="post-caption">
     El Tupolev Tu-144, avión supersónico de pasajeros en el momento del despegue. Imagen histórica, dominio público.
@@ -116,7 +116,86 @@ Su legado persiste en programas de investigación y desarrollo aeroespacial post
   <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
 </ul>
 
-<hr />]]></content><author><name>Enrique Pomares</name></author><category term="aviones-supersonicos" /><summary type="html"><![CDATA[El Tupolev Tu-144 se convirtió en el primer avión supersónico de pasajeros en iniciar operaciones comerciales regulares el 26 de diciembre de 1975.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 2 de enero de 1974 | Evento | Inauguración de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela</title><link href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1974/01/02/inauguracion_baru.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 2 de enero de 1974 | Evento | Inauguración de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela" /><published>1974-01-02T00:00:00-06:00</published><updated>1974-01-02T00:00:00-06:00</updated><id>https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1974/01/02/inauguracion_baru</id><content type="html" xml:base="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1974/01/02/inauguracion_baru.html"><![CDATA[<figure>
+<hr />]]></content><author><name>Enrique Pomares</name></author><category term="aviones-supersonicos" /><summary type="html"><![CDATA[El Tupolev Tu-144 se convirtió en el primer avión supersónico de pasajeros en iniciar operaciones comerciales regulares el 26 de diciembre de 1975.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 3 de enero de 1974 | Biografía | Vesna Vulović</title><link href="http://localhost:4000/efemerides/aviacion-biografia/1974/01/03/vesna-vulovic.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 3 de enero de 1974 | Biografía | Vesna Vulović" /><published>1974-01-03T00:00:00-06:00</published><updated>1974-01-03T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-biografia/1974/01/03/vesna-vulovic</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-biografia/1974/01/03/vesna-vulovic.html"><![CDATA[<figure>
+  <img class="post-image" src="/efemerides/assets/img/vesna-vulovic-jat367.jpeg" alt="Vesna Vulović frente a un avión de JAT" />
+  <figcaption class="post-caption">Vesna Vulović en uniforme de auxiliar de vuelo, junto a un avión DC-9 de Yugoslav Airlines (JAT). Fotografía tomada en aeropuerto europeo durante la década de 1970.</figcaption>
+</figure>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+    <p>
+    El 3 de enero de 1974 se reconoció oficialmente la supervivencia de Vesna Vulović en el accidente del vuelo JAT 367 ocurrido en 1972. Con apenas 23 años, sobrevivió a una caída libre desde más de 10.000 metros de altura, convirtiéndose en símbolo mundial de resiliencia y en poseedora de un récord Guinness único.
+    </p>
+</div>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="datos-biográficos-y-eventos">Datos biográficos y eventos</h2>
+<ul>
+  <li><strong>Fecha de nacimiento:</strong> 3 de enero de 1950</li>
+  <li><strong>Lugar de nacimiento:</strong> Belgrado, Yugoslavia</li>
+  <li><strong>Logros destacados:</strong> Superviviente única del vuelo JAT 367; récord Guinness por la caída libre más alta sin paracaídas (10.160 m / 33.330 pies)</li>
+  <li><strong>Servicio profesional:</strong> Auxiliar de a bordo en Yugoslav Airlines (JAT)</li>
+  <li><strong>Fecha de fallecimiento:</strong> 23 de diciembre de 2016, Belgrado</li>
+</ul>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="contexto-histórico">Contexto Histórico</h2>
+<p>El accidente del vuelo JAT 367 ocurrió el 26 de enero de 1972, cuando una explosión en pleno vuelo desintegró la aeronave sobre Checoslovaquia. De los 28 ocupantes, solo Vesna Vulović sobrevivió. Su caso fue ampliamente difundido y se convirtió en un referente mundial.</p>
+
+<h3 id="entorno-social">Entorno social</h3>
+<p>La década de 1970 estuvo marcada por tensiones políticas en Europa y por incidentes relacionados con terrorismo aéreo. El accidente del JAT 367 se enmarca en ese contexto.</p>
+
+<h3 id="entorno-tecnológico">Entorno tecnológico</h3>
+<p>La aviación comercial experimentaba un crecimiento acelerado, pero aún carecía de protocolos de seguridad modernos en la inspección de equipajes.</p>
+
+<h3 id="entorno-cultural">Entorno cultural</h3>
+<p>La supervivencia de Vesna fue interpretada como un “milagro” y recibió gran cobertura mediática, convirtiéndose en un símbolo de esperanza.</p>
+
+<h3 id="desarrollo-cronológico">Desarrollo Cronológico</h3>
+<ul>
+  <li><strong>26/01/1972:</strong> Explosión en vuelo del JAT 367 sobre Checoslovaquia.</li>
+  <li><strong>26/01/1972:</strong> Vesna es hallada con graves lesiones, pero con vida.</li>
+  <li><strong>1972–1973:</strong> Recuperación prolongada en hospitales yugoslavos.</li>
+  <li><strong>3/01/1974:</strong> Reconocimiento oficial y registro en Guinness World Records.</li>
+  <li><strong>Décadas posteriores:</strong> Figura pública en Serbia, defensora de causas sociales.</li>
+</ul>
+
+<h3 id="consecuencias-e-impacto">Consecuencias e Impacto</h3>
+<ul>
+  <li>Refuerzo de controles de seguridad aérea en Europa.</li>
+  <li>Caso emblemático en estudios médicos sobre supervivencia extrema.</li>
+  <li>Inspiración cultural y mediática en documentales y efemérides.</li>
+</ul>
+
+<h3 id="legado">Legado</h3>
+<p>Vesna Vulović es recordada como la mujer que desafió lo imposible en la historia de la aviación. Su nombre permanece en los registros Guinness y en la memoria colectiva como símbolo de resiliencia.</p>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="referencias-verificadas">Referencias Verificadas</h2>
+<div class="references">
+  <ul>
+    <li><a href="https://es.wikipedia.org/wiki/Vesna_Vulovi%C4%87">Wikipedia – Vesna Vulović</a></li>
+    <li><a href="https://www.guinnessworldrecords.com/world-records/highest-fall-survived-without-parachute">Guinness World Records – Highest fall survived without parachute</a></li>
+    <li><a href="https://www.infobae.com/america/mundo/2024/12/18/la-increible-historia-de-vesna-vulovic-la-azafata-que-sobrevivio-a-una-caida-libre-desde-10000-metros-de-altura-sin-paracaidas/">Infobae – Historia de Vesna Vulović</a></li>
+  </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="metadatos-de-control">Metadatos de Control</h2>
+<ul>
+  <li><strong>Timestamp de verificación:</strong> 2026-01-02 22:35:00 UTC</li>
+  <li><strong>Fuentes primarias consultadas:</strong> Wikipedia, Guinness World Records, Infobae</li>
+  <li><strong>Discrepancias resueltas:</strong> Debate sobre la altitud exacta de la caída; Guinness mantiene cifra oficial de 10.160 m</li>
+  <li><strong>Nivel de confianza:</strong> Alto</li>
+  <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
+</ul>
+
+<hr />]]></content><author><name>Enrique Pomares</name></author><category term="aviacion-biografia" /><summary type="html"><![CDATA[Auxiliar de a bordo y única superviviente del vuelo JAT 367 en 1972. Récord Guinness por sobrevivir a la caída libre más alta sin paracaídas.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 2 de enero de 1974 | Evento | Inauguración de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela</title><link href="http://localhost:4000/efemerides/aviacion-evento/1974/01/02/inauguracion_baru.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 2 de enero de 1974 | Evento | Inauguración de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela" /><published>1974-01-02T00:00:00-06:00</published><updated>1974-01-02T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-evento/1974/01/02/inauguracion_baru</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-evento/1974/01/02/inauguracion_baru.html"><![CDATA[<figure>
   <img class="post-image" src="/efemerides/assets/img/bronco_ov-10_entrada_baru.jpeg" alt="North American Rockwell OV-10 Bronco" />
   <figcaption class="post-caption">North American Rockwell OV-10 Bronco, un avión de ataque ligero y observación turbohélice, en exibición a la entrada de la Base Aérea Rafael Urdaneta (BARU)</figcaption>
 </figure>
@@ -176,7 +255,7 @@ Su legado persiste en programas de investigación y desarrollo aeroespacial post
   <li><strong>Discrepancias resueltas:</strong> No se localizaron referencias que confirmen fecha, lugar, protagonistas o aeronaves del evento.</li>
   <li><strong>Nivel de confianza:</strong> Bajo</li>
   <li><strong>Cláusula de transparencia:</strong> Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].</li>
-</ul>]]></content><author><name>[&quot;Enrique Pomares&quot;]</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El 2 de enero de 1974 se inauguró oficialmente la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, como punto estratégico para la defensa aérea y operaciones en la región occidental del país.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://efemerides-aviacion.github.io/efemerides/bronco_ov-10_entrada_baru.jpeg" /><media:content medium="image" url="https://efemerides-aviacion.github.io/efemerides/bronco_ov-10_entrada_baru.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efemérides de Aviación | 31 de diciembre de 1968 | Evento | Primer vuelo del Tupolev Tu-144</title><link href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 31 de diciembre de 1968 | Evento | Primer vuelo del Tupolev Tu-144" /><published>1968-12-31T00:00:00-06:00</published><updated>1968-12-31T00:00:00-06:00</updated><id>https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144</id><content type="html" xml:base="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144.html"><![CDATA[<figure>
+</ul>]]></content><author><name>[&quot;Enrique Pomares&quot;]</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El 2 de enero de 1974 se inauguró oficialmente la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, como punto estratégico para la defensa aérea y operaciones en la región occidental del país.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/efemerides/bronco_ov-10_entrada_baru.jpeg" /><media:content medium="image" url="http://localhost:4000/efemerides/bronco_ov-10_entrada_baru.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efemérides de Aviación | 31 de diciembre de 1968 | Evento | Primer vuelo del Tupolev Tu-144</title><link href="http://localhost:4000/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 31 de diciembre de 1968 | Evento | Primer vuelo del Tupolev Tu-144" /><published>1968-12-31T00:00:00-06:00</published><updated>1968-12-31T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144.html"><![CDATA[<figure>
   <img class="post-image" src="/efemerides/assets/img/tu-144_primer_vuelo.jpg" alt="Tupolev Tu-144 durante su primer vuelo 1968" />
   <figcaption class="post-caption">El Tupolev Tu-144, designador OTAN “Charger”, apodado “Konkordski” en Occidente. El Tu‑144 en su primer vuelo el 31 de diciembre de 1968.</figcaption>
 </figure>
@@ -250,7 +329,7 @@ Su legado persiste en programas de investigación y desarrollo aeroespacial post
   <li><strong>Discrepancias resueltas:</strong> Variaciones en número de unidades construidas y hitos de servicio.</li>
   <li><strong>Nivel de confianza:</strong> Alto</li>
   <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
-</ul>]]></content><author><name>[&quot;Enrique Pomares&quot;]</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[Primer vuelo del Tupolev Tu-144, primer jet supersónico comercial del mundo (URSS), adelantándose al Concorde.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 20 de diciembre de 1957 | Innovación | Aviación Comercial a Chorro</title><link href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1957/12/20/innovacion-aviacion-comercial-chorro.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 20 de diciembre de 1957 | Innovación | Aviación Comercial a Chorro" /><published>1957-12-20T00:00:00-06:00</published><updated>1957-12-20T00:00:00-06:00</updated><id>https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1957/12/20/innovacion-aviacion-comercial-chorro</id><content type="html" xml:base="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1957/12/20/innovacion-aviacion-comercial-chorro.html"><![CDATA[<figure>
+</ul>]]></content><author><name>[&quot;Enrique Pomares&quot;]</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[Primer vuelo del Tupolev Tu-144, primer jet supersónico comercial del mundo (URSS), adelantándose al Concorde.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 20 de diciembre de 1957 | Innovación | Aviación Comercial a Chorro</title><link href="http://localhost:4000/efemerides/aviacion-evento/1957/12/20/innovacion-aviacion-comercial-chorro.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 20 de diciembre de 1957 | Innovación | Aviación Comercial a Chorro" /><published>1957-12-20T00:00:00-06:00</published><updated>1957-12-20T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-evento/1957/12/20/innovacion-aviacion-comercial-chorro</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-evento/1957/12/20/innovacion-aviacion-comercial-chorro.html"><![CDATA[<figure>
   <img class="post-image" src="/efemerides/assets/img/boeing-707-120.jpeg" alt="Boeing 707-120 N708PA en su primer vuelo" />
   <figcaption class="post-caption">Boeing 707-120, matrícula N708PA en su primer vuelo</figcaption>
 </figure>
@@ -317,7 +396,7 @@ Su legado persiste en programas de investigación y desarrollo aeroespacial post
   <li><strong>Discrepancias resueltas:</strong> Algunas fuentes confunden el vuelo del prototipo 367‑80 (1954) con el primer vuelo de producción del Boeing 707‑120 (1957). Se priorizó la fecha de producción del modelo 120.</li>
   <li><strong>Nivel de confianza:</strong> Alto</li>
   <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
-</ul>]]></content><author><name>Enrique Pomares</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El primer Boeing 707-120 de producción realizó su vuelo inaugural desde Renton Field, marcando el inicio de la era del chorro en la aviación comercial.]]></summary></entry><entry><title type="html">Efeméride de Aviación | 27 de diciembre de 1952 | Fundación de ANA (All Nippon Airways)</title><link href="https://efemerides-aviacion.github.io/efemerides/aerol%C3%ADneas/1952/12/27/fundacion-ana.html" rel="alternate" type="text/html" title="Efeméride de Aviación | 27 de diciembre de 1952 | Fundación de ANA (All Nippon Airways)" /><published>1952-12-27T00:00:00-06:00</published><updated>1952-12-27T00:00:00-06:00</updated><id>https://efemerides-aviacion.github.io/efemerides/aerol%C3%ADneas/1952/12/27/fundacion-ana</id><content type="html" xml:base="https://efemerides-aviacion.github.io/efemerides/aerol%C3%ADneas/1952/12/27/fundacion-ana.html"><![CDATA[<h1 id="efeméride-de-aviación">Efeméride de Aviación</h1>
+</ul>]]></content><author><name>Enrique Pomares</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El primer Boeing 707-120 de producción realizó su vuelo inaugural desde Renton Field, marcando el inicio de la era del chorro en la aviación comercial.]]></summary></entry><entry><title type="html">Efeméride de Aviación | 27 de diciembre de 1952 | Fundación de ANA (All Nippon Airways)</title><link href="http://localhost:4000/efemerides/aerol%C3%ADneas/1952/12/27/fundacion-ana.html" rel="alternate" type="text/html" title="Efeméride de Aviación | 27 de diciembre de 1952 | Fundación de ANA (All Nippon Airways)" /><published>1952-12-27T00:00:00-06:00</published><updated>1952-12-27T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aerol%C3%ADneas/1952/12/27/fundacion-ana</id><content type="html" xml:base="http://localhost:4000/efemerides/aerol%C3%ADneas/1952/12/27/fundacion-ana.html"><![CDATA[<h1 id="efeméride-de-aviación">Efeméride de Aviación</h1>
 
 <p><strong>27 de diciembre de 1952</strong> · Fundación de ANA (All Nippon Airways)<br />
 Publicado por: Enrique Pomares · Categoría: Aerolíneas · País: Japón</p>
@@ -413,7 +492,7 @@ En cambio, varias enciclopedias y resúmenes de referencia especifican <em>27 de
 
 <h2 id="créditos">Créditos</h2>
 
-<p>Edición: Enrique Pomares · Asistencia Técnica: Gilberto Vallenilla</p>]]></content><author><name>Enrique Pomares</name></author><category term="Aerolíneas" /><category term="ANA" /><category term="Japón" /><category term="aerolíneas" /><category term="Bell 47D-1" /><category term="efemérides" /><summary type="html"><![CDATA[Efeméride de Aviación]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://efemerides-aviacion.github.io/efemerides/assets/images/2025-12-27-Fundadores-de-Nippon-Helicopter-&amp;-Aeroplane-y-un-Bell-47D-1.png" /><media:content medium="image" url="https://efemerides-aviacion.github.io/efemerides/assets/images/2025-12-27-Fundadores-de-Nippon-Helicopter-&amp;-Aeroplane-y-un-Bell-47D-1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efemérides de Aviación | 31 de diciembre de 1938 | Evento | Primer vuelo del Boeing B-307 Stratoliner (C-75)</title><link href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1938/12/31/boeing-b307-stratoliner.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 31 de diciembre de 1938 | Evento | Primer vuelo del Boeing B-307 Stratoliner (C-75)" /><published>1938-12-31T00:00:00-06:00</published><updated>1938-12-31T00:00:00-06:00</updated><id>https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1938/12/31/boeing-b307-stratoliner</id><content type="html" xml:base="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1938/12/31/boeing-b307-stratoliner.html"><![CDATA[<figure>
+<p>Edición: Enrique Pomares · Asistencia Técnica: Gilberto Vallenilla</p>]]></content><author><name>Enrique Pomares</name></author><category term="Aerolíneas" /><category term="ANA" /><category term="Japón" /><category term="aerolíneas" /><category term="Bell 47D-1" /><category term="efemérides" /><summary type="html"><![CDATA[Efeméride de Aviación]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/efemerides/assets/images/2025-12-27-Fundadores-de-Nippon-Helicopter-&amp;-Aeroplane-y-un-Bell-47D-1.png" /><media:content medium="image" url="http://localhost:4000/efemerides/assets/images/2025-12-27-Fundadores-de-Nippon-Helicopter-&amp;-Aeroplane-y-un-Bell-47D-1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efemérides de Aviación | 31 de diciembre de 1938 | Evento | Primer vuelo del Boeing B-307 Stratoliner (C-75)</title><link href="http://localhost:4000/efemerides/aviacion-evento/1938/12/31/boeing-b307-stratoliner.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 31 de diciembre de 1938 | Evento | Primer vuelo del Boeing B-307 Stratoliner (C-75)" /><published>1938-12-31T00:00:00-06:00</published><updated>1938-12-31T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-evento/1938/12/31/boeing-b307-stratoliner</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-evento/1938/12/31/boeing-b307-stratoliner.html"><![CDATA[<figure>
   <img class="post-image" src="/efemerides/assets/img/usaaf_Boeing_C-75_Stratoliner_42-88624_Comanche.jpg" alt="Boeing C-75 Stratoliner 42-88624 Commanche" />
   <figcaption class="post-caption">Boeing C-75 Stratoliner 42-88624 "Commanche" USAAF, versión militar del 307 presurizado. Imagen: Wikimedia Commons / Dominio público</figcaption>
 </figure>
@@ -468,7 +547,7 @@ En cambio, varias enciclopedias y resúmenes de referencia especifican <em>27 de
   <li><strong>Discrepancias resueltas:</strong> Algunas fuentes mencionan 1939 como fecha de primer vuelo; se priorizó 31 de diciembre de 1938 según registros de Boeing y Smithsonian.</li>
   <li><strong>Nivel de confianza:</strong> Alto</li>
   <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
-</ul>]]></content><author><name>Enrique Pomares</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El Boeing B-307 Stratoliner, primer avión comercial presurizado del mundo, realizó su vuelo inaugural el 31 de diciembre de 1938 en Seattle, marcando un hito en la aviación civil y militar.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 30 de diciembre de 1934 | Evento | Primer vuelo del Martin M-130</title><link href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1934/12/30/martin-m130.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 30 de diciembre de 1934 | Evento | Primer vuelo del Martin M-130" /><published>1934-12-30T00:00:00-06:00</published><updated>1934-12-30T00:00:00-06:00</updated><id>https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1934/12/30/martin-m130</id><content type="html" xml:base="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1934/12/30/martin-m130.html"><![CDATA[<figure>
+</ul>]]></content><author><name>Enrique Pomares</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El Boeing B-307 Stratoliner, primer avión comercial presurizado del mundo, realizó su vuelo inaugural el 31 de diciembre de 1938 en Seattle, marcando un hito en la aviación civil y militar.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 30 de diciembre de 1934 | Evento | Primer vuelo del Martin M-130</title><link href="http://localhost:4000/efemerides/aviacion-evento/1934/12/30/martin-m130.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 30 de diciembre de 1934 | Evento | Primer vuelo del Martin M-130" /><published>1934-12-30T00:00:00-06:00</published><updated>1934-12-30T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-evento/1934/12/30/martin-m130</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-evento/1934/12/30/martin-m130.html"><![CDATA[<figure>
   <img class="post-image" src="/efemerides/assets/img/China_Clipper_over_San_Francisco.jpg" alt="Martin M-130 China Clipper" />
   <figcaption class="post-caption">El Martin M-130, conocido como China Clipper, sobre San Francisco (USA).</figcaption>
 </figure>
@@ -528,88 +607,4 @@ En cambio, varias enciclopedias y resúmenes de referencia especifican <em>27 de
   <li><strong>Discrepancias resueltas:</strong> Algunas fuentes mencionan el 20 de diciembre de 1934 como fecha de primer vuelo; se priorizó el 30 de diciembre de 1934 según registros de Airways Magazine y Wikipedia.</li>
   <li><strong>Nivel de confianza:</strong> Alto</li>
   <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
-</ul>]]></content><author><name>Enrique Pomares</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El Martin M-130, hidroavión diseñado para Pan American Airways, realizó su primer vuelo el 30 de diciembre de 1934 en Middle River, Maryland.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 1 de enero de 1914 | Evento | Primera aerolínea regular: St. Petersburg–Tampa Airboat Line</title><link href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1914/01/01/hidroavion_benoist_xiv.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 1 de enero de 1914 | Evento | Primera aerolínea regular: St. Petersburg–Tampa Airboat Line" /><published>1914-01-01T00:00:00-06:00</published><updated>1914-01-01T00:00:00-06:00</updated><id>https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1914/01/01/hidroavion_benoist_xiv</id><content type="html" xml:base="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1914/01/01/hidroavion_benoist_xiv.html"><![CDATA[<figure>
-  <img class="post-image" src="/efemerides/assets/img/st-petersburg-tampa-airboat-4.jpg" alt="Benoist XIV en Tampa Bay" />
-  <figcaption class="post-caption">De izquierda a derecha: Percival E. Fansler, el exalcalde de San Petersburgo Abram C. Phiel y el piloto Antony H. Jannus junto al hidroavión Benoist XIV el 1 de enero de 1914.</figcaption>
-</figure>
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
-
-<div class="highlight-box">
-<p>La St. Petersburg–Tampa Airboat Line fue la primera aerolínea regular del mundo en utilizar aeronaves. Su vuelo inaugural el 1 de enero de 1914 marcó el inicio del transporte aéreo comercial.</p>
-</div>
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
-
-<h2 id="datos-verificados-del-evento">Datos verificados del evento</h2>
-<ul>
-  <li><strong>Fecha:</strong> 1 de enero de 1914</li>
-  <li><strong>Lugar:</strong> St. Petersburg, Florida – Tampa Bay</li>
-  <li><strong>Protagonistas:</strong> Piloto Tony Jannus; pasajero Abram C. Pheil (exalcalde de St. Petersburg)</li>
-  <li><strong>Aeronave/empresa involucrada:</strong> Benoist XIV, St. Petersburg–Tampa Airboat Line</li>
-  <li><strong>Resultado inmediato:</strong> Primer vuelo comercial regular de pasajeros en el mundo</li>
-</ul>
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
-
-<h2 id="contexto-histórico">Contexto Histórico</h2>
-<p>La creación de la St. Petersburg–Tampa Airboat Line respondió a la necesidad de conectar dos ciudades separadas por la bahía, cuyo trayecto terrestre podía tomar hasta 20 horas. El vuelo inaugural redujo el tiempo de viaje a 23 minutos, demostrando la eficiencia del transporte aéreo.</p>
-
-<h3 id="entorno-social">Entorno social</h3>
-<ul>
-  <li>Demanda de transporte rápido entre St. Petersburg y Tampa.</li>
-  <li>Interés público y mediático por la aviación naciente.</li>
-</ul>
-
-<h3 id="entorno-tecnológico">Entorno tecnológico</h3>
-<ul>
-  <li>Uso del Benoist XIV, un hidroavión biplano con motor Roberts de 75 hp.</li>
-  <li>Capacidad para un piloto y un pasajero.</li>
-</ul>
-
-<h3 id="entorno-cultural">Entorno cultural</h3>
-<ul>
-  <li>El evento fue celebrado como símbolo de modernidad y progreso.</li>
-  <li>Tony Jannus se convirtió en figura histórica de la aviación.</li>
-</ul>
-
-<h3 id="desarrollo-cronológico">Desarrollo Cronológico</h3>
-<ul>
-  <li>1913: Percival Fansler organiza la aerolínea con Thomas Benoist.</li>
-  <li>1914-01-01: Vuelo inaugural con Abram Pheil como pasajero.</li>
-  <li>1914-05-05: La aerolínea cesa operaciones tras cuatro meses de servicio.</li>
-</ul>
-
-<h3 id="consecuencias-e-impacto">Consecuencias e Impacto</h3>
-<ul>
-  <li>Inicio del transporte aéreo comercial regular.</li>
-  <li>Inspiración para el desarrollo de aerolíneas modernas.</li>
-</ul>
-
-<h3 id="legado">Legado</h3>
-<ul>
-  <li>La Tony Jannus Distinguished Aviation Society conmemora cada año este hito.</li>
-  <li>Réplicas del Benoist XIV se exhiben en museos de Florida.</li>
-</ul>
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
-
-<h2 id="referencias-verificadas">Referencias Verificadas</h2>
-<div class="references">
-  <ul>
-    <li><a href="https://www.iata.org/en/about/history/flying-100-years/firstairline-story">IATA – First Airline Story</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/St._Petersburg%E2%80%93Tampa_Airboat_Line">Wikipedia – St. Petersburg–Tampa Airboat Line</a></li>
-    <li><a href="https://www.wusf.org/arts-culture/2025-12-29/aviation-history-made-kitty-hawk-and-tampa-bay-area">WUSF – Aviation history in Tampa Bay</a></li>
-  </ul>
-</div>
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
-
-<h2 id="metadatos-de-control">Metadatos de Control</h2>
-<ul>
-  <li><strong>Timestamp de verificación:</strong> 2025-12-30 15:39 CST</li>
-  <li><strong>Fuentes primarias consultadas:</strong> IATA, Wikipedia, WUSF</li>
-  <li><strong>Discrepancias resueltas:</strong> Duración exacta del servicio (confirmado: enero–mayo 1914).</li>
-  <li><strong>Nivel de confianza:</strong> Alto</li>
-  <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
-</ul>]]></content><author><name>[&quot;Enrique Pomares&quot;]</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El 1 de enero de 1914 se inauguró la primera aerolínea regular del mundo con el Benoist XIV.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://efemerides-aviacion.github.io/efemerides/st-petersburg-tampa-airboat-4.jpg" /><media:content medium="image" url="https://efemerides-aviacion.github.io/efemerides/st-petersburg-tampa-airboat-4.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</ul>]]></content><author><name>Enrique Pomares</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El Martin M-130, hidroavión diseñado para Pan American Airways, realizó su primer vuelo el 30 de diciembre de 1934 en Middle River, Maryland.]]></summary></entry></feed>
