@@ -79,4 +79,4 @@ Vesna Vulović es recordada como la mujer que desafió lo imposible en la histor
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
 
----
+
