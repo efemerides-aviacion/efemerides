@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 3 de enero de 2008 | Accidente | TRANSAVEN Let L-410 YV2081"
-date: 2008-01-03
+title: "Efemérides de Aviación | 4 de enero de 2008 | Accidente | TRANSAVEN Let L-410 YV2081"
+date: 2008-01-04
 categories: [accidentes-aereos]
 author: Enrique Pomares
 pais: Venezuela
@@ -12,18 +12,18 @@ image: transaven-let410-2008.jpg
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/transaven-let410-2008.jpg" alt="Avión Let L-410 de TRANSAVEN">
-  <figcaption class="post-caption">Avión Let L-410 Turbolet de la empresa venezolana TRANSAVEN, matrícula YV2081, desaparecido el 3 de enero de 2008 en la ruta Maiquetía - Los Roques.</figcaption>
+  <figcaption class="post-caption">Avión Let L-410 Turbolet de la empresa venezolana TRANSAVEN, matrícula YV2081, desaparecido el 4 de enero de 2008 en la ruta Maiquetía - Los Roques.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 3 de enero de 2008, el avión Let L-410 Turbolet matrícula YV2081, operado por TRANSAVEN, desapareció en el mar Caribe mientras cubría la ruta Maiquetía - Los Roques. A bordo viajaban 14 personas, todas fallecidas. El fuselaje fue localizado cinco años después.</p>
+<p>El 4 de enero de 2008, el avión Let L-410 Turbolet matrícula YV2081, operado por TRANSAVEN, desapareció en el mar Caribe mientras cubría la ruta Maiquetía - Los Roques. A bordo viajaban 14 personas, todas fallecidas. El fuselaje fue localizado cinco años después.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 ## Datos Técnicos Verificados
-- **Fecha del accidente:** 3 de enero de 2008  
+- **Fecha del accidente:** 4 de enero de 2008  
 - **Lugar:** Mar Caribe, cercano al archipiélago de Los Roques  
 - **Ruta prevista:** Maiquetía – Los Roques  
 - **Designador de vuelo:** [NO CONFIRMADO]  
@@ -48,7 +48,7 @@ El Let L-410 Turbolet es un avión bimotor de corto alcance, diseñado para oper
 El caso fue ampliamente cubierto por medios nacionales e internacionales. La falta de hallazgos inmediatos alimentó teorías y especulaciones durante años.
 
 ### Desarrollo Cronológico
-- 3 de enero de 2008: despegue desde Maiquetía.  
+- 4 de enero de 2008: despegue desde Maiquetía.  
 - Pérdida de contacto poco después.  
 - Búsqueda intensiva sin resultados inmediatos.  
 - 2013: hallazgo del fuselaje en el fondo marino cerca de Los Roques.  
@@ -75,6 +75,6 @@ El caso sigue siendo recordado como una tragedia emblemática. El hallazgo tard�
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-03 10:12:00 UTC  
 - **Fuentes primarias consultadas:** Wikipedia, BBC Mundo, El Nacional, AeroInside  
-- **Discrepancias resueltas:** Fecha del accidente reportada como 3 de enero en fuentes locales y 4 de enero en registros internacionales. Se confirma 3 de enero como fecha oficial de partida.  
+- **Discrepancias resueltas:** Fecha del accidente reportada como 3 de enero en fuentes locales y 4 de enero en registros internacionales. Se confirma 4 de enero como fecha válida.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/efemerides/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/efemerides/" rel="alternate" type="text/html" /><updated>2026-01-02T17:41:31-06:00</updated><id>http://localhost:4000/efemerides/feed.xml</id><title type="html">Efemérides de Aviación</title><subtitle>Archivo editorial de efemérides históricas en aviación</subtitle><entry><title type="html">Prueba de publicación</title><link href="http://localhost:4000/efemerides/test/2025/12/26/prueba.html" rel="alternate" type="text/html" title="Prueba de publicación" /><published>2025-12-26T00:00:00-06:00</published><updated>2025-12-26T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/test/2025/12/26/prueba</id><content type="html" xml:base="http://localhost:4000/efemerides/test/2025/12/26/prueba.html"><![CDATA[<p>Este es un post de prueba para verificar que Jekyll lo publique correctamente.</p>]]></content><author><name></name></author><category term="Test" /><summary type="html"><![CDATA[Este es un post de prueba para verificar que Jekyll lo publique correctamente.]]></summary></entry><entry><title type="html">Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia</title><link href="http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html" rel="alternate" type="text/html" title="Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia" /><published>2014-12-28T00:00:00-06:00</published><updated>2014-12-28T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia</id><content type="html" xml:base="http://localhost:4000/efemerides/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html"><![CDATA[<figure>
-  <img class="post-image" src="/efemerides/assets/img/airasia-pk-axc.jpg" alt="Airbus A320-200 (PK-AXC) de Indonesia AirAsia" />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-01-03T14:32:52-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Efemérides de Aviación</title><subtitle>Archivo editorial de efemérides históricas en aviación</subtitle><entry><title type="html">Prueba de publicación</title><link href="http://localhost:4000/test/2025/12/26/prueba.html" rel="alternate" type="text/html" title="Prueba de publicación" /><published>2025-12-26T00:00:00-06:00</published><updated>2025-12-26T00:00:00-06:00</updated><id>http://localhost:4000/test/2025/12/26/prueba</id><content type="html" xml:base="http://localhost:4000/test/2025/12/26/prueba.html"><![CDATA[<p>Este es un post de prueba para verificar que Jekyll lo publique correctamente.</p>]]></content><author><name></name></author><category term="Test" /><summary type="html"><![CDATA[Este es un post de prueba para verificar que Jekyll lo publique correctamente.]]></summary></entry><entry><title type="html">Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia</title><link href="http://localhost:4000/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html" rel="alternate" type="text/html" title="Efeméride de Accidente Aéreo | 28 de diciembre de 2014 | Vuelo 8501 de Indonesia AirAsia" /><published>2014-12-28T00:00:00-06:00</published><updated>2014-12-28T00:00:00-06:00</updated><id>http://localhost:4000/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia</id><content type="html" xml:base="http://localhost:4000/accidentes-aereos/2014/12/28/vuelo-8501-indonesia-airasia.html"><![CDATA[<figure>
+  <img class="post-image" src="/assets/img/airasia-pk-axc.jpg" alt="Airbus A320-200 (PK-AXC) de Indonesia AirAsia" />
   <figcaption class="post-caption">Airbus A320-200 (PK-AXC) de Indonesia AirAsia aterrizando en el Aeropuerto Internacional Ngurah Rai, Tuban, Regencia de Badung, Bali. Ocho meses después, el PK-AXC se estrelló en el mar de Java.</figcaption>
 </figure>
 
@@ -51,8 +51,161 @@
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />]]></content><author><name>Enrique Pomares</name></author><category term="accidentes-aereos" /><summary type="html"><![CDATA[El 28 de diciembre de 2014, el vuelo 8501 de Indonesia AirAsia sufrió un accidente fatal en el Mar de Java, con la pérdida de 162 vidas.]]></summary></entry><entry><title type="html">Efeméride de Aviación | 26 de diciembre de 1975 | Tupolev Tu-144 inicia operaciones comerciales</title><link href="http://localhost:4000/efemerides/aviones-supersonicos/1975/12/26/tupolev-144.html" rel="alternate" type="text/html" title="Efeméride de Aviación | 26 de diciembre de 1975 | Tupolev Tu-144 inicia operaciones comerciales" /><published>1975-12-26T00:00:00-06:00</published><updated>1975-12-26T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviones-supersonicos/1975/12/26/tupolev-144</id><content type="html" xml:base="http://localhost:4000/efemerides/aviones-supersonicos/1975/12/26/tupolev-144.html"><![CDATA[<figure>
-  <img src="/efemerides/assets/img/tupolev-1975.jpg" alt="El Tupolev Tu-144, avión supersónico de pasajeros" class="post-image" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />]]></content><author><name>Enrique Pomares</name></author><category term="accidentes-aereos" /><summary type="html"><![CDATA[El 28 de diciembre de 2014, el vuelo 8501 de Indonesia AirAsia sufrió un accidente fatal en el Mar de Java, con la pérdida de 162 vidas.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 4 de enero de 2013 | Accidente | Transaereo BN-2A Islander YV2615</title><link href="http://localhost:4000/accidentes-aereos/2013/01/04/transaereo-bn2a-islander-accidente.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 4 de enero de 2013 | Accidente | Transaereo BN-2A Islander YV2615" /><published>2013-01-04T00:00:00-06:00</published><updated>2013-01-04T00:00:00-06:00</updated><id>http://localhost:4000/accidentes-aereos/2013/01/04/transaereo-bn2a-islander-accidente</id><content type="html" xml:base="http://localhost:4000/accidentes-aereos/2013/01/04/transaereo-bn2a-islander-accidente.html"><![CDATA[<figure>
+  <img class="post-image" src="/assets/img/bn-2_islander_yv2615_2011.jpg" alt="BN-2 Islander operado por Private/Transaereo" />
+  <figcaption class="post-caption">Britten-Norman BN-2A Islander YV2615 de Transaereo, fotografiado en septiembre de 2011. Esta aeronave se accidentó el 4 de enero de 2013 en la ruta Los Roques–Caracas, causando 6 fallecidos.</figcaption>
+</figure>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 4 de enero de 2013, el avión Britten-Norman BN-2A Islander matrícula YV2615, operado por Transaereo, desapareció en el mar Caribe mientras cubría la ruta Los Roques–Caracas. A bordo viajaban 6 personas, todas fallecidas, entre ellas el empresario italiano Vittorio Missoni.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="datos-técnicos-verificados">Datos Técnicos Verificados</h2>
+<ul>
+  <li><strong>Fecha del accidente:</strong> 4 de enero de 2013</li>
+  <li><strong>Lugar:</strong> Mar Caribe, entre Los Roques y Caracas</li>
+  <li><strong>Ruta prevista:</strong> Los Roques – Caracas</li>
+  <li><strong>Designador de vuelo:</strong> [NO CONFIRMADO]</li>
+  <li><strong>Aeronave:</strong> Britten-Norman BN-2A Islander</li>
+  <li><strong>Matrícula:</strong> YV2615</li>
+  <li><strong>Personas a bordo:</strong> 6</li>
+  <li><strong>Víctimas mortales:</strong> 6</li>
+  <li><strong>Fase de vuelo:</strong> [NO CONFIRMADO]</li>
+  <li><strong>Causa oficial (síntesis):</strong> [NO CONFIRMADO] – el fuselaje fue hallado meses después, sin informe técnico completo publicado</li>
+</ul>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="contexto-histórico">Contexto Histórico</h2>
+<p>El accidente de Transaereo en 2013 tuvo gran repercusión internacional por la presencia de Vittorio Missoni, heredero de la firma italiana de moda.</p>
+
+<h3 id="entorno-social">Entorno social</h3>
+<p>El vuelo conectaba un destino turístico con la capital venezolana. La desaparición generó conmoción en Venezuela e Italia.</p>
+
+<h3 id="entorno-tecnológico">Entorno tecnológico</h3>
+<p>El BN-2A Islander es un avión ligero bimotor británico, diseñado para vuelos cortos y operaciones en pistas pequeñas.</p>
+
+<h3 id="entorno-cultural">Entorno cultural</h3>
+<p>La tragedia fue ampliamente cubierta por medios internacionales, especialmente en Europa, debido a la relevancia de uno de los pasajeros.</p>
+
+<h3 id="desarrollo-cronológico">Desarrollo Cronológico</h3>
+<ul>
+  <li>4 de enero de 2013: despegue desde Los Roques.</li>
+  <li>Pérdida de contacto poco después.</li>
+  <li>Intensiva búsqueda marítima y aérea.</li>
+  <li>Junio de 2013: hallazgo del fuselaje en el mar Caribe.</li>
+</ul>
+
+<h3 id="consecuencias-e-impacto">Consecuencias e Impacto</h3>
+<p>El accidente puso en evidencia las dificultades de rastreo en accidentes sobre el mar y la necesidad de mejorar protocolos de búsqueda.</p>
+
+<h3 id="legado">Legado</h3>
+<p>El caso sigue siendo recordado como una tragedia emblemática de la aviación venezolana y un ejemplo de la vulnerabilidad de vuelos regionales sobre áreas marítimas.</p>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="referencias-verificadas">Referencias Verificadas</h2>
+<div class="references">
+  <ul>
+    <li><a href="https://es.wikipedia.org/wiki/Accidente_de_BN-2A-27_Islander_de_Transaero">Wikipedia – Accidente de BN-2A Islander de Transaero</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/320820">Aviation Safety Network – Registro del accidente</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/2013_Transaereo_5074_Britten-Norman_Islander_crash">Wikipedia (en inglés) – 2013 Transaereo BN-2A Islander crash</a></li>
+    <li><a href="https://www.lavanguardia.com/se-lleva/20130628/54377045869/avioneta-viajaba-heredero-italiano-missoni-venezuela.html">La Vanguardia – Reporte sobre el accidente y hallazgo</a></li>
+  </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="metadatos-de-control">Metadatos de Control</h2>
+<ul>
+  <li><strong>Timestamp de verificación:</strong> 2026-01-03 17:15:00 UTC</li>
+  <li><strong>Fuentes primarias consultadas:</strong> Wikipedia (ES/EN), Aviation Safety Network, La Vanguardia</li>
+  <li><strong>Discrepancias resueltas:</strong> Fecha reportada como 4 de enero en fuentes locales y registros internacionales. Confirmada como 4 de enero de 2013.</li>
+  <li><strong>Nivel de confianza:</strong> Alto</li>
+  <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
+</ul>]]></content><author><name>Enrique Pomares</name></author><category term="accidentes-aereos" /><summary type="html"><![CDATA[El Britten-Norman BN-2A Islander matrícula YV2615, operado por Transaereo, cayó en el mar en la ruta Los Roques–Caracas con 6 personas fallecidas.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/bn-2_islander_yv2615_2011.jpg" /><media:content medium="image" url="http://localhost:4000/bn-2_islander_yv2615_2011.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efemérides de Aviación | 4 de enero de 2008 | Accidente | TRANSAVEN Let L-410 YV2081</title><link href="http://localhost:4000/accidentes-aereos/2008/01/04/transaven-let410-accidente.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 4 de enero de 2008 | Accidente | TRANSAVEN Let L-410 YV2081" /><published>2008-01-04T00:00:00-06:00</published><updated>2008-01-04T00:00:00-06:00</updated><id>http://localhost:4000/accidentes-aereos/2008/01/04/transaven-let410-accidente</id><content type="html" xml:base="http://localhost:4000/accidentes-aereos/2008/01/04/transaven-let410-accidente.html"><![CDATA[<figure>
+  <img class="post-image" src="/assets/img/transaven-let410-2008.jpg" alt="Avión Let L-410 de TRANSAVEN" />
+  <figcaption class="post-caption">Avión Let L-410 Turbolet de la empresa venezolana TRANSAVEN, matrícula YV2081, desaparecido el 4 de enero de 2008 en la ruta Maiquetía - Los Roques.</figcaption>
+</figure>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 4 de enero de 2008, el avión Let L-410 Turbolet matrícula YV2081, operado por TRANSAVEN, desapareció en el mar Caribe mientras cubría la ruta Maiquetía - Los Roques. A bordo viajaban 14 personas, todas fallecidas. El fuselaje fue localizado cinco años después.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="datos-técnicos-verificados">Datos Técnicos Verificados</h2>
+<ul>
+  <li><strong>Fecha del accidente:</strong> 4 de enero de 2008</li>
+  <li><strong>Lugar:</strong> Mar Caribe, cercano al archipiélago de Los Roques</li>
+  <li><strong>Ruta prevista:</strong> Maiquetía – Los Roques</li>
+  <li><strong>Designador de vuelo:</strong> [NO CONFIRMADO]</li>
+  <li><strong>Aeronave:</strong> Let L-410 Turbolet</li>
+  <li><strong>Matrícula:</strong> YV2081</li>
+  <li><strong>Personas a bordo:</strong> 14</li>
+  <li><strong>Víctimas mortales:</strong> 14</li>
+  <li><strong>Fase de vuelo:</strong> Crucero inicial [FUENTE ÚNICA]</li>
+  <li><strong>Causa oficial (síntesis):</strong> [NO CONFIRMADO] – sin informe público completo; fuselaje hallado en 2013</li>
+</ul>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="contexto-histórico">Contexto Histórico</h2>
+<p>El accidente de TRANSAVEN marcó un punto crítico en la aviación regional venezolana.</p>
+
+<h3 id="entorno-social">Entorno social</h3>
+<p>La ruta Maiquetía – Los Roques era frecuentada por turistas nacionales e internacionales. La desaparición generó conmoción y movilización de familiares y autoridades.</p>
+
+<h3 id="entorno-tecnológico">Entorno tecnológico</h3>
+<p>El Let L-410 Turbolet es un avión bimotor de corto alcance, diseñado para operar en pistas pequeñas. Su uso era común en rutas insulares.</p>
+
+<h3 id="entorno-cultural">Entorno cultural</h3>
+<p>El caso fue ampliamente cubierto por medios nacionales e internacionales. La falta de hallazgos inmediatos alimentó teorías y especulaciones durante años.</p>
+
+<h3 id="desarrollo-cronológico">Desarrollo Cronológico</h3>
+<ul>
+  <li>4 de enero de 2008: despegue desde Maiquetía.</li>
+  <li>Pérdida de contacto poco después.</li>
+  <li>Búsqueda intensiva sin resultados inmediatos.</li>
+  <li>2013: hallazgo del fuselaje en el fondo marino cerca de Los Roques.</li>
+</ul>
+
+<h3 id="consecuencias-e-impacto">Consecuencias e Impacto</h3>
+<p>El accidente evidenció debilidades en los protocolos de búsqueda y en la supervisión de operadores regionales. Se impulsaron mejoras en control aéreo y rastreo marítimo.</p>
+
+<h3 id="legado">Legado</h3>
+<p>El caso sigue siendo recordado como una tragedia emblemática. El hallazgo tardío del fuselaje cerró parcialmente el duelo de las familias.</p>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="referencias-verificadas">Referencias Verificadas</h2>
+<div class="references">
+  <ul>
+    <li><a href="https://es.wikipedia.org/wiki/Accidente_del_Let_L-410_de_Transaven_en_el_archipi%C3%A9lago_Los_Roques_de_2008">Wikipedia – Accidente del Let L-410 de Transaven</a></li>
+    <li><a href="http://news.bbc.co.uk/hi/spanish/latin_america/newsid_7172000/7172659.stm">BBC Mundo – Reporte inicial del accidente</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Let_L-410_Turbolet">Wikipedia – Let L-410 Turbolet</a></li>
+    <li><a href="https://www.elnacional.com/2017/11/avion-con-victimas-lleva-mas-anos-sumergido-cerca-los-roques_212997/">El Nacional – Hallazgo del fuselaje en 2013</a></li>
+    <li><a href="https://www.aeroinside.com/2698/transaven-l410-near-los-roques-on-jan-4th-2008-aircraft-went-missing-and-was-found-5-years-later">AeroInside – Registro del accidente y hallazgo</a></li>
+  </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+
+<h2 id="metadatos-de-control">Metadatos de Control</h2>
+<ul>
+  <li><strong>Timestamp de verificación:</strong> 2026-01-03 10:12:00 UTC</li>
+  <li><strong>Fuentes primarias consultadas:</strong> Wikipedia, BBC Mundo, El Nacional, AeroInside</li>
+  <li><strong>Discrepancias resueltas:</strong> Fecha del accidente reportada como 3 de enero en fuentes locales y 4 de enero en registros internacionales. Se confirma 4 de enero como fecha válida.</li>
+  <li><strong>Nivel de confianza:</strong> Alto</li>
+  <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
+</ul>]]></content><author><name>Enrique Pomares</name></author><category term="accidentes-aereos" /><summary type="html"><![CDATA[El vuelo doméstico de TRANSAVEN en la ruta Maiquetía - Los Roques terminó en tragedia cuando el avión Let L-410 matrícula YV2081 cayó al mar, con 14 personas fallecidas.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/transaven-let410-2008.jpg" /><media:content medium="image" url="http://localhost:4000/transaven-let410-2008.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efeméride de Aviación | 26 de diciembre de 1975 | Tupolev Tu-144 inicia operaciones comerciales</title><link href="http://localhost:4000/aviones-supersonicos/1975/12/26/tupolev-144.html" rel="alternate" type="text/html" title="Efeméride de Aviación | 26 de diciembre de 1975 | Tupolev Tu-144 inicia operaciones comerciales" /><published>1975-12-26T00:00:00-06:00</published><updated>1975-12-26T00:00:00-06:00</updated><id>http://localhost:4000/aviones-supersonicos/1975/12/26/tupolev-144</id><content type="html" xml:base="http://localhost:4000/aviones-supersonicos/1975/12/26/tupolev-144.html"><![CDATA[<figure>
+  <img src="/assets/img/tupolev-1975.jpg" alt="El Tupolev Tu-144, avión supersónico de pasajeros" class="post-image" />
   <figcaption class="post-caption">
     El Tupolev Tu-144, avión supersónico de pasajeros en el momento del despegue. Imagen histórica, dominio público.
   </figcaption>
@@ -116,8 +269,8 @@ Su legado persiste en programas de investigación y desarrollo aeroespacial post
   <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
 </ul>
 
-<hr />]]></content><author><name>Enrique Pomares</name></author><category term="aviones-supersonicos" /><summary type="html"><![CDATA[El Tupolev Tu-144 se convirtió en el primer avión supersónico de pasajeros en iniciar operaciones comerciales regulares el 26 de diciembre de 1975.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 3 de enero de 1974 | Biografía | Vesna Vulović</title><link href="http://localhost:4000/efemerides/aviacion-biografia/1974/01/03/vesna-vulovic.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 3 de enero de 1974 | Biografía | Vesna Vulović" /><published>1974-01-03T00:00:00-06:00</published><updated>1974-01-03T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-biografia/1974/01/03/vesna-vulovic</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-biografia/1974/01/03/vesna-vulovic.html"><![CDATA[<figure>
-  <img class="post-image" src="/efemerides/assets/img/vesna-vulovic-jat367.jpeg" alt="Vesna Vulović frente a un avión de JAT" />
+<hr />]]></content><author><name>Enrique Pomares</name></author><category term="aviones-supersonicos" /><summary type="html"><![CDATA[El Tupolev Tu-144 se convirtió en el primer avión supersónico de pasajeros en iniciar operaciones comerciales regulares el 26 de diciembre de 1975.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 3 de enero de 1974 | Biografía | Vesna Vulović</title><link href="http://localhost:4000/aviacion-biografia/1974/01/03/vesna-vulovic.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 3 de enero de 1974 | Biografía | Vesna Vulović" /><published>1974-01-03T00:00:00-06:00</published><updated>1974-01-03T00:00:00-06:00</updated><id>http://localhost:4000/aviacion-biografia/1974/01/03/vesna-vulovic</id><content type="html" xml:base="http://localhost:4000/aviacion-biografia/1974/01/03/vesna-vulovic.html"><![CDATA[<figure>
+  <img class="post-image" src="/assets/img/vesna-vulovic-jat367.jpeg" alt="Vesna Vulović frente a un avión de JAT" />
   <figcaption class="post-caption">Vesna Vulović en uniforme de auxiliar de vuelo, junto a un avión DC-9 de Yugoslav Airlines (JAT). Fotografía tomada en aeropuerto europeo durante la década de 1970.</figcaption>
 </figure>
 
@@ -193,8 +346,8 @@ Su legado persiste en programas de investigación y desarrollo aeroespacial post
   <li><strong>Discrepancias resueltas:</strong> Debate sobre la altitud exacta de la caída; Guinness mantiene cifra oficial de 10.160 m</li>
   <li><strong>Nivel de confianza:</strong> Alto</li>
   <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
-</ul>]]></content><author><name>Enrique Pomares</name></author><category term="aviacion-biografia" /><summary type="html"><![CDATA[Auxiliar de a bordo y única superviviente del vuelo JAT 367 en 1972. Récord Guinness por sobrevivir a la caída libre más alta sin paracaídas.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 2 de enero de 1974 | Evento | Inauguración de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela</title><link href="http://localhost:4000/efemerides/aviacion-evento/1974/01/02/inauguracion_baru.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 2 de enero de 1974 | Evento | Inauguración de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela" /><published>1974-01-02T00:00:00-06:00</published><updated>1974-01-02T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-evento/1974/01/02/inauguracion_baru</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-evento/1974/01/02/inauguracion_baru.html"><![CDATA[<figure>
-  <img class="post-image" src="/efemerides/assets/img/bronco_ov-10_entrada_baru.jpeg" alt="North American Rockwell OV-10 Bronco" />
+</ul>]]></content><author><name>Enrique Pomares</name></author><category term="aviacion-biografia" /><summary type="html"><![CDATA[Auxiliar de a bordo y única superviviente del vuelo JAT 367 en 1972. Récord Guinness por sobrevivir a la caída libre más alta sin paracaídas.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 2 de enero de 1974 | Evento | Inauguración de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela</title><link href="http://localhost:4000/aviacion-evento/1974/01/02/inauguracion_baru.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 2 de enero de 1974 | Evento | Inauguración de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela" /><published>1974-01-02T00:00:00-06:00</published><updated>1974-01-02T00:00:00-06:00</updated><id>http://localhost:4000/aviacion-evento/1974/01/02/inauguracion_baru</id><content type="html" xml:base="http://localhost:4000/aviacion-evento/1974/01/02/inauguracion_baru.html"><![CDATA[<figure>
+  <img class="post-image" src="/assets/img/bronco_ov-10_entrada_baru.jpeg" alt="North American Rockwell OV-10 Bronco" />
   <figcaption class="post-caption">North American Rockwell OV-10 Bronco, un avión de ataque ligero y observación turbohélice, en exibición a la entrada de la Base Aérea Rafael Urdaneta (BARU)</figcaption>
 </figure>
 
@@ -253,8 +406,8 @@ Su legado persiste en programas de investigación y desarrollo aeroespacial post
   <li><strong>Discrepancias resueltas:</strong> No se localizaron referencias que confirmen fecha, lugar, protagonistas o aeronaves del evento.</li>
   <li><strong>Nivel de confianza:</strong> Bajo</li>
   <li><strong>Cláusula de transparencia:</strong> Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].</li>
-</ul>]]></content><author><name>[&quot;Enrique Pomares&quot;]</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El 2 de enero de 1974 se inauguró oficialmente la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, como punto estratégico para la defensa aérea y operaciones en la región occidental del país.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/efemerides/bronco_ov-10_entrada_baru.jpeg" /><media:content medium="image" url="http://localhost:4000/efemerides/bronco_ov-10_entrada_baru.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efemérides de Aviación | 31 de diciembre de 1968 | Evento | Primer vuelo del Tupolev Tu-144</title><link href="http://localhost:4000/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 31 de diciembre de 1968 | Evento | Primer vuelo del Tupolev Tu-144" /><published>1968-12-31T00:00:00-06:00</published><updated>1968-12-31T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-evento/1968/12/31/tupolev_tu-144.html"><![CDATA[<figure>
-  <img class="post-image" src="/efemerides/assets/img/tu-144_primer_vuelo.jpg" alt="Tupolev Tu-144 durante su primer vuelo 1968" />
+</ul>]]></content><author><name>[&quot;Enrique Pomares&quot;]</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El 2 de enero de 1974 se inauguró oficialmente la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, como punto estratégico para la defensa aérea y operaciones en la región occidental del país.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/bronco_ov-10_entrada_baru.jpeg" /><media:content medium="image" url="http://localhost:4000/bronco_ov-10_entrada_baru.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efemérides de Aviación | 31 de diciembre de 1968 | Evento | Primer vuelo del Tupolev Tu-144</title><link href="http://localhost:4000/aviacion-evento/1968/12/31/tupolev_tu-144.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 31 de diciembre de 1968 | Evento | Primer vuelo del Tupolev Tu-144" /><published>1968-12-31T00:00:00-06:00</published><updated>1968-12-31T00:00:00-06:00</updated><id>http://localhost:4000/aviacion-evento/1968/12/31/tupolev_tu-144</id><content type="html" xml:base="http://localhost:4000/aviacion-evento/1968/12/31/tupolev_tu-144.html"><![CDATA[<figure>
+  <img class="post-image" src="/assets/img/tu-144_primer_vuelo.jpg" alt="Tupolev Tu-144 durante su primer vuelo 1968" />
   <figcaption class="post-caption">El Tupolev Tu-144, designador OTAN “Charger”, apodado “Konkordski” en Occidente. El Tu‑144 en su primer vuelo el 31 de diciembre de 1968.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
@@ -327,8 +480,8 @@ Su legado persiste en programas de investigación y desarrollo aeroespacial post
   <li><strong>Discrepancias resueltas:</strong> Variaciones en número de unidades construidas y hitos de servicio.</li>
   <li><strong>Nivel de confianza:</strong> Alto</li>
   <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
-</ul>]]></content><author><name>[&quot;Enrique Pomares&quot;]</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[Primer vuelo del Tupolev Tu-144, primer jet supersónico comercial del mundo (URSS), adelantándose al Concorde.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 20 de diciembre de 1957 | Innovación | Aviación Comercial a Chorro</title><link href="http://localhost:4000/efemerides/aviacion-evento/1957/12/20/innovacion-aviacion-comercial-chorro.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 20 de diciembre de 1957 | Innovación | Aviación Comercial a Chorro" /><published>1957-12-20T00:00:00-06:00</published><updated>1957-12-20T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-evento/1957/12/20/innovacion-aviacion-comercial-chorro</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-evento/1957/12/20/innovacion-aviacion-comercial-chorro.html"><![CDATA[<figure>
-  <img class="post-image" src="/efemerides/assets/img/boeing-707-120.jpeg" alt="Boeing 707-120 N708PA en su primer vuelo" />
+</ul>]]></content><author><name>[&quot;Enrique Pomares&quot;]</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[Primer vuelo del Tupolev Tu-144, primer jet supersónico comercial del mundo (URSS), adelantándose al Concorde.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 20 de diciembre de 1957 | Innovación | Aviación Comercial a Chorro</title><link href="http://localhost:4000/aviacion-evento/1957/12/20/innovacion-aviacion-comercial-chorro.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 20 de diciembre de 1957 | Innovación | Aviación Comercial a Chorro" /><published>1957-12-20T00:00:00-06:00</published><updated>1957-12-20T00:00:00-06:00</updated><id>http://localhost:4000/aviacion-evento/1957/12/20/innovacion-aviacion-comercial-chorro</id><content type="html" xml:base="http://localhost:4000/aviacion-evento/1957/12/20/innovacion-aviacion-comercial-chorro.html"><![CDATA[<figure>
+  <img class="post-image" src="/assets/img/boeing-707-120.jpeg" alt="Boeing 707-120 N708PA en su primer vuelo" />
   <figcaption class="post-caption">Boeing 707-120, matrícula N708PA en su primer vuelo</figcaption>
 </figure>
 
@@ -394,7 +547,7 @@ Su legado persiste en programas de investigación y desarrollo aeroespacial post
   <li><strong>Discrepancias resueltas:</strong> Algunas fuentes confunden el vuelo del prototipo 367‑80 (1954) con el primer vuelo de producción del Boeing 707‑120 (1957). Se priorizó la fecha de producción del modelo 120.</li>
   <li><strong>Nivel de confianza:</strong> Alto</li>
   <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
-</ul>]]></content><author><name>Enrique Pomares</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El primer Boeing 707-120 de producción realizó su vuelo inaugural desde Renton Field, marcando el inicio de la era del chorro en la aviación comercial.]]></summary></entry><entry><title type="html">Efeméride de Aviación | 27 de diciembre de 1952 | Fundación de ANA (All Nippon Airways)</title><link href="http://localhost:4000/efemerides/aerol%C3%ADneas/1952/12/27/fundacion-ana.html" rel="alternate" type="text/html" title="Efeméride de Aviación | 27 de diciembre de 1952 | Fundación de ANA (All Nippon Airways)" /><published>1952-12-27T00:00:00-06:00</published><updated>1952-12-27T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aerol%C3%ADneas/1952/12/27/fundacion-ana</id><content type="html" xml:base="http://localhost:4000/efemerides/aerol%C3%ADneas/1952/12/27/fundacion-ana.html"><![CDATA[<h1 id="efeméride-de-aviación">Efeméride de Aviación</h1>
+</ul>]]></content><author><name>Enrique Pomares</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El primer Boeing 707-120 de producción realizó su vuelo inaugural desde Renton Field, marcando el inicio de la era del chorro en la aviación comercial.]]></summary></entry><entry><title type="html">Efeméride de Aviación | 27 de diciembre de 1952 | Fundación de ANA (All Nippon Airways)</title><link href="http://localhost:4000/aerol%C3%ADneas/1952/12/27/fundacion-ana.html" rel="alternate" type="text/html" title="Efeméride de Aviación | 27 de diciembre de 1952 | Fundación de ANA (All Nippon Airways)" /><published>1952-12-27T00:00:00-06:00</published><updated>1952-12-27T00:00:00-06:00</updated><id>http://localhost:4000/aerol%C3%ADneas/1952/12/27/fundacion-ana</id><content type="html" xml:base="http://localhost:4000/aerol%C3%ADneas/1952/12/27/fundacion-ana.html"><![CDATA[<h1 id="efeméride-de-aviación">Efeméride de Aviación</h1>
 
 <p><strong>27 de diciembre de 1952</strong> · Fundación de ANA (All Nippon Airways)<br />
 Publicado por: Enrique Pomares · Categoría: Aerolíneas · País: Japón</p>
@@ -490,119 +643,4 @@ En cambio, varias enciclopedias y resúmenes de referencia especifican <em>27 de
 
 <h2 id="créditos">Créditos</h2>
 
-<p>Edición: Enrique Pomares · Asistencia Técnica: Gilberto Vallenilla</p>]]></content><author><name>Enrique Pomares</name></author><category term="Aerolíneas" /><category term="ANA" /><category term="Japón" /><category term="aerolíneas" /><category term="Bell 47D-1" /><category term="efemérides" /><summary type="html"><![CDATA[Efeméride de Aviación]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/efemerides/assets/images/2025-12-27-Fundadores-de-Nippon-Helicopter-&amp;-Aeroplane-y-un-Bell-47D-1.png" /><media:content medium="image" url="http://localhost:4000/efemerides/assets/images/2025-12-27-Fundadores-de-Nippon-Helicopter-&amp;-Aeroplane-y-un-Bell-47D-1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Efemérides de Aviación | 31 de diciembre de 1938 | Evento | Primer vuelo del Boeing B-307 Stratoliner (C-75)</title><link href="http://localhost:4000/efemerides/aviacion-evento/1938/12/31/boeing-b307-stratoliner.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 31 de diciembre de 1938 | Evento | Primer vuelo del Boeing B-307 Stratoliner (C-75)" /><published>1938-12-31T00:00:00-06:00</published><updated>1938-12-31T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-evento/1938/12/31/boeing-b307-stratoliner</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-evento/1938/12/31/boeing-b307-stratoliner.html"><![CDATA[<figure>
-  <img class="post-image" src="/efemerides/assets/img/usaaf_Boeing_C-75_Stratoliner_42-88624_Comanche.jpg" alt="Boeing C-75 Stratoliner 42-88624 Commanche" />
-  <figcaption class="post-caption">Boeing C-75 Stratoliner 42-88624 "Commanche" USAAF, versión militar del 307 presurizado. Imagen: Wikimedia Commons / Dominio público</figcaption>
-</figure>
-
-<h2 id="resumen-ejecutivo">Resumen ejecutivo</h2>
-<p>El 31 de diciembre de 1938, Boeing presentó al mundo el B-307 Stratoliner, derivado del bombardero B-17, que se convirtió en el primer avión comercial con cabina presurizada. Su versión militar de transporte, el C-75, abrió camino a operaciones de largo alcance en condiciones más seguras y confortables.</p>
-
-<h2 id="datos-técnicos-verificados">Datos técnicos verificados</h2>
-<ul>
-  <li><strong>Modelo:</strong> Boeing B-307 Stratoliner</li>
-  <li><strong>Versión militar:</strong> C-75 (transporte)</li>
-  <li><strong>Motores:</strong> 4 × Wright Cyclone R-1820</li>
-  <li><strong>Capacidad:</strong> 33 pasajeros en versión civil</li>
-  <li><strong>Velocidad máxima:</strong> ~340 km/h</li>
-  <li><strong>Autonomía:</strong> ~3,200 km</li>
-  <li><strong>Innovación clave:</strong> Primera cabina presurizada en servicio comercial</li>
-</ul>
-
-<h2 id="contexto-histórico-específico">Contexto histórico específico</h2>
-<p>En plena era de expansión de la aviación civil, Boeing buscaba superar las limitaciones de altitud y confort. El Stratoliner fue diseñado a partir de la célula del B-17, adaptado para pasajeros. La presurización permitió volar por encima de turbulencias y condiciones meteorológicas adversas, revolucionando la experiencia de vuelo.</p>
-
-<h3 id="desarrollo-cronológico">Desarrollo cronológico</h3>
-<ul>
-  <li><strong>1937:</strong> Inicio del diseño, aprovechando la base del bombardero B-17.</li>
-  <li><strong>1938:</strong> Finalización del prototipo y pruebas iniciales.</li>
-  <li><strong>31 de diciembre de 1938:</strong> Primer vuelo exitoso en Seattle.</li>
-  <li><strong>1940s:</strong> Adaptación militar como C-75 durante la Segunda Guerra Mundial, usado para transporte estratégico.</li>
-</ul>
-
-<h3 id="consecuencias-e-impacto">Consecuencias e impacto</h3>
-<p>El Stratoliner introdujo la presurización como estándar en la aviación comercial. Aunque se fabricaron pocos ejemplares, su legado fue decisivo para el desarrollo de aviones como el Boeing 377 Stratocruiser y, más adelante, los jets comerciales.</p>
-
-<h3 id="legado">Legado</h3>
-<p>El B-307 Stratoliner es recordado como pionero en confort y seguridad aérea. Su innovación marcó el inicio de la aviación moderna, donde volar a gran altitud se convirtió en norma. Uno de los ejemplares restaurados se conserva en el Smithsonian National Air and Space Museum.</p>
-
-<h2 id="referencias">Referencias</h2>
-<div class="references">
-  <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Boeing_307">Boeing 307 Stratoliner - Wikipedia</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_307_Stratoliner">Boeing 307 Stratoliner - English Wikipedia</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:USAAF_Boeing_C-75_Stratoliner_42-88624_Commanche.jpg">Boeing C-75 42-88624 "Commanche" - Wikimedia Commons</a></li>
-    <li><a href="https://airandspace.si.edu/collection-objects/boeing-307-stratoliner-clipper-flying-cloud/nasm_A19730267000">National Air and Space Museum - Boeing 307</a></li>
-  </ul>
-</div>
-
-<hr />
-
-<h2 id="metadatos-de-control">Metadatos de Control</h2>
-<ul>
-  <li><strong>Timestamp de verificación:</strong> 2025-12-29 12:05:00 UTC</li>
-  <li><strong>Fuentes primarias consultadas:</strong> Boeing Historical Archives, Smithsonian NASM, Aviation History Online Museum</li>
-  <li><strong>Discrepancias resueltas:</strong> Algunas fuentes mencionan 1939 como fecha de primer vuelo; se priorizó 31 de diciembre de 1938 según registros de Boeing y Smithsonian.</li>
-  <li><strong>Nivel de confianza:</strong> Alto</li>
-  <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
-</ul>]]></content><author><name>Enrique Pomares</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El Boeing B-307 Stratoliner, primer avión comercial presurizado del mundo, realizó su vuelo inaugural el 31 de diciembre de 1938 en Seattle, marcando un hito en la aviación civil y militar.]]></summary></entry><entry><title type="html">Efemérides de Aviación | 30 de diciembre de 1934 | Evento | Primer vuelo del Martin M-130</title><link href="http://localhost:4000/efemerides/aviacion-evento/1934/12/30/martin-m130.html" rel="alternate" type="text/html" title="Efemérides de Aviación | 30 de diciembre de 1934 | Evento | Primer vuelo del Martin M-130" /><published>1934-12-30T00:00:00-06:00</published><updated>1934-12-30T00:00:00-06:00</updated><id>http://localhost:4000/efemerides/aviacion-evento/1934/12/30/martin-m130</id><content type="html" xml:base="http://localhost:4000/efemerides/aviacion-evento/1934/12/30/martin-m130.html"><![CDATA[<figure>
-  <img class="post-image" src="/efemerides/assets/img/China_Clipper_over_San_Francisco.jpg" alt="Martin M-130 China Clipper" />
-  <figcaption class="post-caption">El Martin M-130, conocido como China Clipper, sobre San Francisco (USA).</figcaption>
-</figure>
-
-<hr style="margin:2rem 0; border:none; height:2px; background:linear-gradient(to right,#1a237e,#283593);" />
-
-<h2 id="resumen-ejecutivo">Resumen Ejecutivo</h2>
-<p>El 30 de diciembre de 1934, el Martin M‑130, hidroavión diseñado por la Glenn L. Martin Company para Pan American Airways, realizó su primer vuelo en Middle River, Maryland. Este modelo, conocido como “China Clipper”, inauguró la era de los vuelos transoceánicos comerciales con capacidad para transportar correo y pasajeros a través del Pacífico.</p>
-
-<h2 id="datos-verificados-del-evento">Datos verificados del evento</h2>
-<ul>
-  <li><strong>Fecha:</strong> 30 de diciembre de 1934</li>
-  <li><strong>Lugar:</strong> Middle River, Maryland, Estados Unidos</li>
-  <li><strong>Protagonistas:</strong> Glenn L. Martin Company; Pan American Airways; piloto William K. “Ken” Ebel</li>
-  <li><strong>Aeronave/empresa involucrada:</strong> Martin M‑130, Pan American Airways</li>
-  <li><strong>Resultado inmediato:</strong> Vuelo exitoso de prueba, validando el diseño para operaciones transoceánicas</li>
-</ul>
-
-<h2 id="contexto-histórico">Contexto Histórico</h2>
-<p>En la década de 1930, Pan American Airways buscaba expandir sus rutas hacia el Pacífico, lo que requería aeronaves de gran alcance y capacidad. El Martin M‑130 fue diseñado para cumplir estas especificaciones, superando a modelos anteriores como el Sikorsky S‑42. Su desarrollo marcó un hito en la aviación comercial, al permitir vuelos transoceánicos regulares y consolidar la imagen de Pan Am como pionera en la “Clipper Era”.</p>
-
-<h3 id="entorno-social">Entorno social</h3>
-<p>La expansión del correo aéreo y la demanda de viajes internacionales impulsaban la necesidad de aeronaves de mayor alcance.</p>
-
-<h3 id="entorno-tecnológico">Entorno tecnológico</h3>
-<p>El M‑130 incorporó motores Pratt &amp; Whitney Twin Wasp y un diseño de hidroavión de gran tamaño, capaz de operar en rutas sin infraestructura aeroportuaria.</p>
-
-<h3 id="entorno-cultural">Entorno cultural</h3>
-<p>El “China Clipper” se convirtió en símbolo de modernidad y progreso, apareciendo en sellos postales y en la prensa como emblema de la nueva era de la aviación.</p>
-
-<h3 id="desarrollo-cronológico">Desarrollo Cronológico</h3>
-<ul>
-  <li>1934: Primer vuelo de prueba en Middle River.</li>
-  <li>1935: Inauguración del servicio trans-Pacífico con el “China Clipper”.</li>
-  <li>1935‑1945: Tres unidades construidas (China Clipper, Philippine Clipper, Hawaii Clipper). Todas se perdieron en accidentes antes de 1945.</li>
-</ul>
-
-<h3 id="consecuencias-e-impacto">Consecuencias e Impacto</h3>
-<p>El M‑130 permitió a Pan Am establecer la primera ruta aérea trans-Pacífica, consolidando la aviación comercial internacional y demostrando la viabilidad de vuelos de largo alcance.</p>
-
-<h3 id="legado">Legado</h3>
-<p>Aunque solo se construyeron tres unidades, el M‑130 abrió camino a aeronaves más avanzadas como el Boeing 314 y consolidó la reputación de Pan Am como líder en la aviación mundial.</p>
-
-<h2 id="referencias-verificadas">Referencias Verificadas</h2>
-<div class="references">
-  <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Martin_M-130">Wikipedia: Martin M-130</a></li>
-    <li><a href="https://www.airwaysmag.com/new-post/first-flight-of-the-martin-m-130">Airways Magazine: First Flight of the Martin M-130</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/pan-american-airways-system/">This Day in Aviation: Pan American Airways System</a></li>
-  </ul>
-</div>
-
-<h2 id="metadatos-de-control">Metadatos de Control</h2>
-<ul>
-  <li><strong>Timestamp de verificación:</strong> 2025-12-29 09:30:00 UTC</li>
-  <li><strong>Fuentes primarias consultadas:</strong> Wikipedia, Airways Magazine, This Day in Aviation</li>
-  <li><strong>Discrepancias resueltas:</strong> Algunas fuentes mencionan el 20 de diciembre de 1934 como fecha de primer vuelo; se priorizó el 30 de diciembre de 1934 según registros de Airways Magazine y Wikipedia.</li>
-  <li><strong>Nivel de confianza:</strong> Alto</li>
-  <li><strong>Cláusula final:</strong> “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.</li>
-</ul>]]></content><author><name>Enrique Pomares</name></author><category term="aviacion-evento" /><summary type="html"><![CDATA[El Martin M-130, hidroavión diseñado para Pan American Airways, realizó su primer vuelo el 30 de diciembre de 1934 en Middle River, Maryland.]]></summary></entry></feed>
+<p>Edición: Enrique Pomares · Asistencia Técnica: Gilberto Vallenilla</p>]]></content><author><name>Enrique Pomares</name></author><category term="Aerolíneas" /><category term="ANA" /><category term="Japón" /><category term="aerolíneas" /><category term="Bell 47D-1" /><category term="efemérides" /><summary type="html"><![CDATA[Efeméride de Aviación]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/2025-12-27-Fundadores-de-Nippon-Helicopter-&amp;-Aeroplane-y-un-Bell-47D-1.png" /><media:content medium="image" url="http://localhost:4000/assets/images/2025-12-27-Fundadores-de-Nippon-Helicopter-&amp;-Aeroplane-y-un-Bell-47D-1.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
