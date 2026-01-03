@@ -21,6 +21,7 @@ image: bn-2_islander_yv2615_2011.jpg
 <p>El 4 de enero de 2013, el avión Britten-Norman BN-2A Islander matrícula YV2615, operado por Transaereo, desapareció en el mar Caribe mientras cubría la ruta Los Roques–Caracas. A bordo viajaban 6 personas, todas fallecidas, entre ellas el empresario italiano Vittorio Missoni.</p>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 ## Datos Técnicos Verificados
 - **Fecha del accidente:** 4 de enero de 2013  
 - **Lugar:** Mar Caribe, entre Los Roques y Caracas  
