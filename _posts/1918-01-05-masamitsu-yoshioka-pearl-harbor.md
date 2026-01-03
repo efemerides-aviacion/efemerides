@@ -24,16 +24,11 @@ image: masamitsu_oshioka-1918.jpg
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
 ## Datos biográficos y eventos
-- **Fecha de nacimiento:**  
-  5 de enero de 1918.
-- **Lugar de nacimiento:**  
-  Noto/Notomachi, Prefectura de Ishikawa, Japón [NO CONFIRMADO: variación toponímica; falta registro municipal].
-- **Logros destacados:**  
-  Navegante del B5N “Kate” del portaaviones Sōryū en Pearl Harbor; reconocido como último superviviente japonés del ataque.
-- **Servicio militar/profesional:**  
-  Ingreso en la Armada Imperial (1930s) [NO CONFIRMADO: año exacto pendiente de documento primario].
-- **Fecha de fallecimiento:**  
-  28 de agosto de 2024; 106 años.
+- **Fecha de nacimiento:** 5 de enero de 1918.
+- **Lugar de nacimiento:** Noto/Notomachi, Prefectura de Ishikawa, Japón [NO CONFIRMADO: variación toponímica; falta registro municipal].
+- **Logros destacados:** Navegante del B5N “Kate” del portaaviones Sōryū en Pearl Harbor; reconocido como último superviviente japonés del ataque.
+- **Servicio militar/profesional:** Ingreso en la Armada Imperial (1930s) [NO CONFIRMADO: año exacto pendiente de documento primario].
+- **Fecha de fallecimiento:** 28 de agosto de 2024; 106 años.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
