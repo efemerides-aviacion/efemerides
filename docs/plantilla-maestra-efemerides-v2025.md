@@ -1,5 +1,5 @@
 # Documento Maestro de Plantillas de Efemérides de Aviación
-> Última actualización: 2025-01-02
+> Última actualización: 2025-01-03
 
 ---
 
@@ -13,6 +13,7 @@ categories: [aviacion-biografia]
 author: [Enrique Pomares]
 pais: [País]
 excerpt: "[Resumen breve del personaje y su relevancia en la aviación]"
+image: [Nombre del archivo de la imagen"]
 ---
 
 <figure>
@@ -76,6 +77,7 @@ author: [Enrique Pomares]
 pais: [País]
 operator: [Operador]
 excerpt: "[Resumen breve del evento]"
+image: [Nombre del archivo de la imagen"]
 ---
 
 <figure>
@@ -141,6 +143,7 @@ author: [Enrique Pomares]
 pais: [País]
 operator: [Operador]
 excerpt: "[Resumen breve del accidente]"
+image: [Nombre del archivo de la imagen]"
 ---
 
 <figure>
