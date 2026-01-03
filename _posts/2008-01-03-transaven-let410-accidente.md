@@ -23,14 +23,14 @@ image: transaven-let410-2008.jpg
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 ## Datos Técnicos Verificados
-- **Fecha del accidente:** 3 de enero de 2008 [VERIFICADO]  
-- **Lugar:** Mar Caribe, cercano al archipiélago de Los Roques [VERIFICADO]  
-- **Ruta prevista:** Maiquetía – Los Roques [VERIFICADO]  
+- **Fecha del accidente:** 3 de enero de 2008  
+- **Lugar:** Mar Caribe, cercano al archipiélago de Los Roques  
+- **Ruta prevista:** Maiquetía – Los Roques  
 - **Designador de vuelo:** [NO CONFIRMADO]  
-- **Aeronave:** Let L-410 Turbolet [VERIFICADO]  
-- **Matrícula:** YV2081 [VERIFICADO]  
-- **Personas a bordo:** 14 [VERIFICADO]  
-- **Víctimas mortales:** 14 [VERIFICADO]  
+- **Aeronave:** Let L-410 Turbolet  
+- **Matrícula:** YV2081  
+- **Personas a bordo:** 14  
+- **Víctimas mortales:** 14  
 - **Fase de vuelo:** Crucero inicial [FUENTE ÚNICA]  
 - **Causa oficial (síntesis):** [NO CONFIRMADO] – sin informe público completo; fuselaje hallado en 2013  
 
