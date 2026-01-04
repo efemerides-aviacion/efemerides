@@ -42,7 +42,7 @@ Durante la década de 1980, los secuestros aéreos se convirtieron en una amenaz
 
 ---
 
-## Desarrollo cronológico
+### Desarrollo cronológico
 - **Despegue:** El vuelo partió de Atenas con destino a El Cairo.  
 - **Secuestro:** Militantes armados tomaron el control poco después del despegue.  
 - **Aterrizaje en Malta:** El avión fue obligado a aterrizar en el Aeropuerto Internacional de Malta.  
@@ -50,14 +50,14 @@ Durante la década de 1980, los secuestros aéreos se convirtieron en una amenaz
 
 ---
 
-## Consecuencias e impacto
+### Consecuencias e impacto
 - **Seguridad aérea:** El incidente impulsó nuevas medidas de seguridad en aeropuertos y protocolos de respuesta a secuestros.  
 - **Relaciones internacionales:** El caso generó tensiones diplomáticas entre Egipto, Malta y otros países involucrados.  
 - **Memoria histórica:** El vuelo 648 se convirtió en un símbolo de los riesgos del terrorismo aéreo en los años ochenta.  
 
 ---
 
-## Legado
+### Legado
 El secuestro del vuelo 648 de EgyptAir marcó un punto de inflexión en la percepción global sobre la seguridad aérea. Las lecciones aprendidas influyeron en la creación de estándares internacionales más estrictos para la protección de pasajeros y tripulaciones.
 
 ---
