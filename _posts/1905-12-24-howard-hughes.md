@@ -6,10 +6,11 @@ categories: [aviacion-biografia]
 author: Enrique Pomares
 pais: Estados Unidos
 excerpt: "Empresario, aviador y pionero de la aviación. Récords mundiales de velocidad y circunnavegación; creador del H-1 Racer y del H-4 Hercules 'Spruce Goose'."
+image: howard_hughes.jpeg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/2025-12-24-Howard_Hughes.jpeg" alt="Howard Hughes en su juventud">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/howard_hughes.jpeg" alt="Howard Hughes en su juventud">
   <figcaption class="post-caption">Howard Hughes en su juventud. Imagen histórica, dominio público.</figcaption>
 </figure>
 
