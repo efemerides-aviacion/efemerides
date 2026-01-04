@@ -63,10 +63,10 @@ El secuestro del vuelo 648 de EgyptAir marcó un punto de inflexión en la perce
 ---
 
 ## Referencias
-- Wikipedia – EgyptAir Flight 648: https://en.wikipedia.org/wiki/EgyptAir_Flight_648  
-- BBC News – EgyptAir hijack remembered: https://www.bbc.com/news/world-middle-east-15892710  
-- Aviation Safety Network – Accident description EgyptAir Flight 648: https://aviation-safety.net/database/record.php?id=19851123-0
- 
+- [Wikipedia – EgyptAir Flight 648](https://en.wikipedia.org/wiki/EgyptAir_Flight_648)  
+- [BBC News – EgyptAir hijack remembered](https://www.bbc.com/news/world-middle-east-15892710)  
+- [Aviation Safety Network – Accident description EgyptAir Flight 648](https://aviation-safety.net/database/record.php?id=19851123-0)
+
 
 ---
 
