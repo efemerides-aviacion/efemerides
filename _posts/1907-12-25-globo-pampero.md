@@ -5,7 +5,7 @@ date: 1907-12-25
 categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Argentina-Uruguay
-operator: [NO CONFIRMADO: no aplica operador formal]
+operator: "NO CONFIRMADO: no aplica operador formal"
 excerpt: "El globo Pampero realizó la primera travesía aérea sobre el Río de la Plata, uniendo Buenos Aires con la costa uruguaya."
 image: 1907-12-25-globo_pampero.jpg
 ---
