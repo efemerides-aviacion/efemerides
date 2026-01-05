@@ -37,7 +37,6 @@ image: manuel-rios-hernandez.png
 ## Contexto histórico
 La aviación mundial vivía sus primeras décadas de desarrollo cuando Venezuela fundó su Escuela de Aviación Militar en 1920. Manuel Ríos Hernández, oriundo de Guárico, se convirtió en uno de los primeros alumnos y pronto en el primer venezolano en volar solo, en abril de 1921. Su logro representó el inicio formal de la aviación militar en el país.
 
----
 
 ### Desarrollo cronológico
 - **1897:** Nace en Altagracia de Orituco, Guárico.  
