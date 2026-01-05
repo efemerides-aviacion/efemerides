@@ -60,11 +60,11 @@ El legado de Manuel Simón Ríos Hernández trasciende su hazaña personal: repr
 ---
 
 ## Referencias
-- Web de Alta – Manuel Ríos Hernández: https://webdealta.info/?p=6755  
-- Tras la Huella del Libertador – Historia del Guárico: http://traslahuelladellibertador.blogspot.com/2011/04/paseando-por-la-historia-del-guarico_13.html  
-- Fuerza Aérea Venezolana – Homenaje a Manuel Ríos Hernández: https://www.facebook.com/fuerzaaereavenezolana.fav/photos/3856185904418197/  
-- Otilca Radio – Nacimiento de Manuel Ríos Hernández: https://radio.otilca.org/tag/manuel-rios/  
-- Studocu – Biografía de Manuel Ríos: https://www.studocu.com/latam/document/universidad-nacional-experimental-de-los-llanos-centrales-romulo-gallegos/arte-y-cultura/biografia-manuel-rios/63110005  
+- [Web de Alta – Manuel Ríos Hernández](https://webdealta.info/?p=6755)  
+- [Tras la Huella del Libertador – Historia del Guárico](http://traslahuelladellibertador.blogspot.com/2011/04/paseando-por-la-historia-del-guarico_13.html)  
+- [Fuerza Aérea Venezolana – Homenaje a Manuel Ríos Hernández](https://www.facebook.com/fuerzaaereavenezolana.fav/photos/3856185904418197/)  
+- [Otilca Radio – Nacimiento de Manuel Ríos Hernández](https://radio.otilca.org/tag/manuel-rios/)  
+- [Studocu – Biografía de Manuel Ríos](https://www.studocu.com/latam/document/universidad-nacional-experimental-de-los-llanos-centrales-romulo-gallegos/arte-y-cultura/biografia-manuel-rios/63110005)  
 
 ---
 
