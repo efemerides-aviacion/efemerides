@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 1920-11-24 | Evento | Adrienne Bolland cruza los Andes"
+title: "Efemérides de Aviación | 24 de noviembre de 1920 | Evento | Adrienne Bolland cruza los Andes"
 date: 1920-11-24
 categories: [aviacion-evento]
 author: Enrique Pomares
