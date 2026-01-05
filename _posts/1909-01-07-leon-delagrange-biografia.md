@@ -60,11 +60,11 @@ Es recordado como uno de los pioneros franceses más influyentes, junto a figura
 
 ## Referencias Verificadas
 <div class="references">
-  <ul>
-    <li><a href="https://www.centennialofflight.net/essay/Dictionary/Delagrange/DI64.htm">Centennial of Flight – Léon Delagrange</a></li>
-    <li><a href="https://www.britannica.com/biography/Leon-Delagrange">Encyclopaedia Britannica – Léon Delagrange</a></li>
-    <li><a href="https://airandspace.si.edu/explore-and-learn/topics/wright-brothers/worldwide/delagrange.cfm">Smithsonian Air & Space – Léon Delagrange</a></li>
-  </ul>
+<ul>
+<li><a href="https://es.wikipedia.org/wiki/L%C3%A9on_Delagrange">Wikipedia en español — Léon Delagrange</a></li>
+<li><a href="https://es.frwiki.wiki/wiki/L%C3%A9on_Delagrange">frwiki — Léon Delagrange</a></li>
+<li><a href="https://es.dbpedia.org/page/Leon_Delagrange">DBpedia (ES) — Léon Delagrange</a></li>
+</ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
