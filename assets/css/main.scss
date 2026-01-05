@@ -1,20 +1,26 @@
 ---
 ---
 
-/* Aquí van tus estilos personalizados */
+/* Estilos personalizados */
+
+/* Imagen destacada */
 .post-image {
-  max-width: 600px;
+  max-width: 100%;
+  height: auto;
   display: block;
   margin: 0 auto;
 }
 
+/* Pie de foto */
 .post-caption {
-  text-align: center;   /* centra el texto */
-  font-style: italic;   /* mantiene el estilo de cita */
-  margin-top: 0.5em;    /* separa un poco de la imagen */
-  color: #555;          /* tono gris suave para elegancia */
+  text-align: center;
+  font-style: italic;
+  font-size: 0.9em;
+  margin-top: 0.5em;
+  color: #555;
 }
 
+/* Caja destacada */
 .highlight-box {
   background-color: #e6f2ff;   /* azul muy claro */
   border-radius: 8px;          /* esquinas redondeadas */
@@ -24,19 +30,7 @@
   line-height: 1.6;
 }
 
-.post-image {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-}
-
-.post-caption {
-  text-align: center;
-  font-size: 0.9em;
-  color: #555;
-}
-
+/* Referencias */
 .references {
   margin-top: 2em;
   padding: 1em;
@@ -72,12 +66,14 @@
   color: #000;
 }
 
+/* Separador */
 hr {
   border: none;
   border-top: 1px solid #ccc;
   margin: 2em 0;
 }
 
+/* Pie de página */
 .post-footer {
   text-align: center;
   font-style: italic;
@@ -89,4 +85,4 @@ hr {
   margin-top: 30px;
   border-top: 1px solid #ccc;   /* línea superior tenue */
   border-radius: 4px;           /* esquinas suavemente redondeadas */
- }
+}
