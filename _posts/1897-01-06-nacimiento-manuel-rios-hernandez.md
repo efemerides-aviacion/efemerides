@@ -45,14 +45,10 @@ La aviación mundial vivía sus primeras décadas de desarrollo cuando Venezuela
 - **1921:** Realiza el primer vuelo solo de un venezolano, consolidando su lugar en la historia.  
 - **Décadas posteriores:** Su figura es recordada como pionero y símbolo de la aviación nacional.  
 
----
-
 ### Consecuencias e impacto
 - **Fundación de tradición:** Su vuelo marcó el inicio de la aviación militar venezolana.  
 - **Inspiración nacional:** Ríos Hernández se convirtió en referente para generaciones de aviadores.  
 - **Memoria histórica:** Su nombre permanece ligado al nacimiento de la aviación en Venezuela.  
-
----
 
 ### Legado
 El legado de Manuel Simón Ríos Hernández trasciende su hazaña personal: representa el espíritu pionero de la aviación venezolana. Su contribución abrió camino a la institucionalización de la Fuerza Aérea Venezolana y a la consolidación de la aviación como parte de la identidad nacional.
