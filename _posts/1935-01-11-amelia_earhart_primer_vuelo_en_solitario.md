@@ -47,7 +47,7 @@ Este vuelo reafirmó el uso de instrumentos de radio navegación y la capacidad 
 ## Referencias Verificadas
 <div class="references"><ul>
 <li><a href="https://airandspace.si.edu/collection-objects/lockheed-vega-5b-amelia-earhart/nasm_A19670093000">Smithsonian National Air and Space Museum - Lockheed Vega 5B</a></li>
-<li><a href="https://www.history.com/this-day-in-history/earhart-flies-from-hawaii-to-california">History Channel - Earhart flies from Hawaii to California</a></li>
+<li><a href="https://aviation.hawaii.gov/aviation-pioneers/amelia-earhart/">Hawaii Aviation History - Official State Archive</a></li>
 <li><a href="https://www.ameliaearhart.com/biography">Amelia Earhart Official Biography</a></li>
 </ul></div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
