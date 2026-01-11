@@ -11,7 +11,7 @@ image: 1879-01-12-calbraith_perry_rodgers.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1879-01-12-calbraith_perry_rodgers_despegando.jpg" alt="Calbraith Perry Rodgers">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1879-01-12-calbraith_perry_rodgers.jpg" alt="Calbraith Perry Rodgers">
   <figcaption class="post-caption">Calbraith Perry Rodgers despega en su Wright Model EX "Vin Fiz" desde Sheepshead Bay, Nueva York, el 17 de septiembre de 1911, iniciando el primer vuelo transcontinental de Estados Unidos hacia Pasadena, California.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
