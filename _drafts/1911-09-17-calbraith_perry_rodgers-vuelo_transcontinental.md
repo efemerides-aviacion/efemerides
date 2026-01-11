@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 12 de enero de 1879 | Biografía | Nacimiento de Calbraith Perry Rodgers"
-date: 1879-01-12
-categories: [aviacion-biografia]
+title: "Efemérides de Aviación | 17 de septiembre de 1911 | Evento | Primer vuelo solo transcontinental | Calbraith Perry Rodgers"
+date: 1911-09-17
+categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Calbraith Perry Rodgers
-excerpt: "Nacimiento de Calbraith Perry Rodgers, pionero de la aviación estadounidense y protagonista del primer vuelo transcontinental de 1911."
-image: 1879-01-12-calbraith_perry_rodgers.jpg
+excerpt: "Inicio del primer vuelo solo transcontinental de Calbraith Perry Rodgers en el Vin Fiz Flyer, de Brooklyn a Pasadena."
+image: 1911-09-17-calbraith_rodgers_vin_fiz.jpeg
 ---
+
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1879-01-12-calbraith_perry_rodgers.jpg" alt="Calbraith Perry Rodgers">
