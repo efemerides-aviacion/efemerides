@@ -63,14 +63,15 @@ La travesía de Rodgers evidenció la necesidad de infraestructura, mantenimient
 Rodgers es recordado como uno de los primeros héroes de la aviación estadounidense; su transcontinental de 1911 permanece como hito formativo en la historia aeronáutica.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://airandspace.si.edu">Smithsonian National Air and Space Museum – Calbraith Perry Rodgers y el “Vin Fiz Flyer”</a></li>
-    <li><a href="https://www.wright-brothers.org">Wright Brothers Aeroplane Company – The Tale of the Vin Fiz</a></li>
-    <li><a href="https://www.britannica.com">Encyclopaedia Britannica – Calbraith Perry Rodgers</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/wright-ex-vin-fiz/nasm_A19340060000">Smithsonian NASM – Wright EX Vin Fiz Flyer</a></li>
+    <li><a href="https://www.si.edu/object/archives/sova-nasm-2007-0004">Smithsonian Archives – Cal Rodgers and the Vin Fiz</a></li>
+    <li><a href="https://www.wright-brothers.org/History_Wing/History_of_the_Airplane/Doers_and_Dreamers/Cal_Rodgers/Tale_of_Vin_Fiz/Tale_of_Vin_Fiz.htm">Wright Brothers Aeroplane Company – The Tale of the Vin Fiz</a></li>
   </ul>
 </div>
+
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 ## Metadatos de control
