@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 17 de septiembre de 1911 | Biografía | Calbraith Perry Rodgers"
-date: 1911-09-17
+title: "Efemérides de Aviación | 12 de enero de 1879 | Biografía | Calbraith Perry Rodgers"
+date: 1879-01-12
 categories: [aviacion-biografia]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Calbraith Perry Rodgers
-excerpt: "Calbraith Perry Rodgers, pionero de la aviación estadounidense, recordado por su vuelo transcontinental de 1911."
-image: 1911-09-17-calbraith_rodgers_en_vin_fiz.jpg
+excerpt: "Nacimiento de Calbraith Perry Rodgers, pionero de la aviación estadounidense, recordado por su vuelo transcontinental de 1911."
+image: 1879-01-12-calbraith_rodgers_en_vin_fiz.jpeg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-09-17-calbraith_rodgers_en_vin_fiz.jpeg" alt="Calbraith Perry Rodgers en el Vin Fiz Flyer">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1879-01-12-calbraith_rodgers_en_vin_fiz.jpeg" alt="Calbraith Perry Rodgers en el Vin Fiz Flyer">
   <figcaption class="post-caption">Calbraith Perry Rodgers en la cabina del Vin Fiz Flyer, con gafas de aviador y expresión resuelta. Fotografía tomada durante su etapa como pionero de la aviación estadounidense, 1911.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
@@ -30,14 +30,15 @@ image: 1911-09-17-calbraith_rodgers_en_vin_fiz.jpg
 - **Familia:** Descendiente del comodoro Matthew Calbraith Perry y del comodoro Oliver Hazard Perry  
 - **Formación:** No cursó estudios universitarios formales; se dedicó a deportes como la natación, el yachting y el automovilismo  
 - **Pasión por la aviación:** Despertada tras asistir a demostraciones de los hermanos Wright; se formó como piloto en su escuela en Ohio  
-- **Esposa:** Mabel Rodgers  
+- **Esposa:** Mabel Avis Graves Rodgers  
+- **Hijo:** Calbraith Perry Rodgers Jr.  
 - **Fecha de fallecimiento:** 10 de abril de 1912, en Long Beach, California, en un accidente aéreo  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 ## Contexto personal
 Rodgers creció en un entorno marcado por la tradición naval y el espíritu aventurero. Su inclinación por los deportes extremos y la búsqueda de nuevos retos lo acercaron a la aviación en una época en que volar era considerado un acto de audacia.  
 
-Su matrimonio con Mabel le brindó apoyo en sus proyectos, y su carácter entusiasta lo convirtió en figura pública. La aviación fue para él una extensión natural de su pasión por la aventura y la exploración.
+Su matrimonio con Mabel y la llegada de su hijo le brindaron apoyo y motivación en sus proyectos. La aviación fue para él una extensión natural de su pasión por la aventura y la exploración.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 ## Hazaña destacada
@@ -57,12 +58,11 @@ Rodgers es recordado como uno de los primeros héroes de la aviación estadounid
     <li><a href="https://www.wright-brothers.org/History_Wing/History_of_the_Airplane/Doers_and_Dreamers/Cal_Rodgers/Tale_of_Vin_Fiz/Tale_of_Vin_Fiz.htm">Wright Brothers Aeroplane Company – The Tale of the Vin Fiz</a></li>
   </ul>
 </div>
-div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 ## Metadatos de control
-- **Timestamp de verificación:** 2026-01-11 09:45:00 UTC  
-- **Fuentes primarias consultadas:** Smithsonian NASM; Wright Brothers Aeroplane Company; Encyclopaedia Britannica  
+- **Timestamp de verificación:** 2026-01-11 10:45:00 UTC  
+- **Fuentes primarias consultadas:** Smithsonian NASM; Smithsonian Archives; Wright Brothers Aeroplane Company  
 - **Discrepancias resueltas:** Confirmación de datos familiares y biográficos; referencia al vuelo transcontinental como hazaña sin detalles técnicos  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
