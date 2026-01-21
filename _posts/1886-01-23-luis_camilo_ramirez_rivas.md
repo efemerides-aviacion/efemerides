@@ -18,7 +18,7 @@ image: 1886-01-23-luis_camilo_rivera_rivas_piloto_de_guerra_venezolano.jpg
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>Luis Camilo Ramírez Rivas nació el 23 de enero de 1886 en Caracas, Venezuela, y se convirtió en el primer piloto aviador venezolano al obtener su brevet en Francia en 1912-1913, certificado por Louis Blériot. Descendiente del prócer independentista Luis María Rivas Dávila, inició su carrera militar en 1903 como alférez de artillería en la Armada venezolana. Durante la Primera Guerra Mundial se incorporó a la Legión Extranjera Francesa, combatió en batallas clave como el Somme, Marne y Verdún, recibió múltiples heridas y ascendió a teniente coronel. Fue condecorado con la Legión de Honor francesa, la Orden de San Vladimiro rusa y la Cruz del Mérito Militar española. Aunque su rol principal fue en infantería, voló como observador en 1918 y escribió artículos sobre aviación en la prensa venezolana. Tras la guerra regresó como héroe en 1918, inspirando la creación de la Escuela de Aviación Militar venezolana en 1920. Murió asesinado en Fez (Marruecos) en 1935, a los 49 años.</p>
+<p>Luis Camilo Ramírez Rivas nació el 23 de enero de 1886 en Caracas y se convirtió en el primer piloto aviador venezolano al obtener su brevet en Francia en 1913. Combatió en la Primera Guerra Mundial con la Legión Extranjera Francesa, donde alcanzó el grado de teniente coronel y recibió condecoraciones internacionales. Tras la guerra regresó como héroe e inspiró la creación de la Escuela de Aviación Militar en 1920.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
