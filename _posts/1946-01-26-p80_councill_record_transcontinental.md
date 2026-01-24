@@ -1,0 +1,79 @@
+---
+layout: post
+title: "Efemérides de Aviación | 26 de enero de 1946 | Evento | Primer récord transcontinental en jet de William Councill"
+date: 1946-01-26
+categories: [aviacion-evento]
+author: [Enrique Pomares]
+pais: Estados Unidos
+operator: USAAF / USAF
+excerpt: "El coronel William H. Councill estableció el primer récord transcontinental a reacción en EE.UU. con un Lockheed P‑80."
+image: 1946-01-26-record_transcontinental_p-80_cnel_william_councill.jpg
+---
+
+<figure>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1946-01-26-record_transcontinental_p-80_cnel_william_councill.jpg" alt="William Councill y su P-80 tras récord transcontinental">
+  <figcaption class="post-caption">El coronel William H. Councill (USAAF) saluda desde la cabina de su Lockheed P‑80A‑1‑LO Shooting Star, matrícula 44‑85123, con el que batió el primer récord transcontinental a reacción en EE.UU. (Long Beach–LaGuardia, 4 h 13 min 26 s), 26 de enero de 1946. (AP Wirephoto, Sociedad Histórica de Oklahoma)</figcaption>
+</figure>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 26 de enero de 1946, el coronel William H. Councill de la USAAF/USAF estableció el primer récord transcontinental a reacción en Estados Unidos al volar un Lockheed P‑80A Shooting Star (44‑85123) desde Long Beach hasta Nueva York–LaGuardia en 4 horas, 13 minutos y 26 segundos.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+## Datos Verificados del Evento
+- **Fecha:** 26 de enero de 1946 (algunas fuentes mencionan 22 o 27 de enero)  
+- **Ruta:** Long Beach (California) – Nueva York LaGuardia  
+- **Aeronave:** Lockheed P‑80A‑1‑LO Shooting Star, matrícula **44‑85123**  
+- **Distancia recorrida:** 2.457–2.470 millas (≈3.920–3.955 km)  
+- **Duración del vuelo:** 4 h 13 min 26 s  
+- **Velocidad media:** ≈584 mph (≈940 km/h)  
+- **Altitud de crucero:** 35.000–41.000 pies  
+- **Resultado inmediato:** Récord transcontinental a reacción, superando en más de una hora la marca previa de un B‑29.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+## Contexto Histórico
+El vuelo de Councill marcó el inicio de la era de los jets en Estados Unidos, demostrando la capacidad de los cazas a reacción para vuelos de largo alcance.
+
+### Entorno social
+El récord fue celebrado como símbolo del poderío tecnológico estadounidense en la posguerra.
+
+### Entorno tecnológico
+El Lockheed P‑80 Shooting Star fue el primer caza a reacción operativo de la USAAF, precursor de los jets de combate modernos.
+
+### Entorno cultural
+La hazaña recibió amplia cobertura mediática, reforzando la imagen de la aviación militar como motor de innovación.
+
+### Desarrollo Cronológico
+- **26 de enero de 1946, mañana (Long Beach):** Despegue del P‑80A‑1‑LO Shooting Star (44‑85123).  
+- **Trayecto:** Vuelo mayormente a 35.000–41.000 pies, desprendiendo tanques externos sobre Kansas.  
+- **26 de enero de 1946, llegada (LaGuardia):** Aterrizaje tras 4 h 13 min 26 s, récord transcontinental a reacción.  
+
+### Consecuencias e Impacto
+El récord consolidó la reputación del P‑80 y abrió camino para el desarrollo de cazas a reacción en la USAF.
+
+### Legado
+El vuelo de Councill es recordado como el primer récord transcontinental a reacción en EE.UU., símbolo del inicio de la era jet.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+## Referencias Verificadas
+<div class="references">
+  <ul>
+    <li><a href="https://www.thisdayinaviation.com/26-january-1946/">This Day in Aviation – 26 January 1946</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star">Wikipedia (EN) – Lockheed P‑80 Shooting Star</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star">Wikipedia (ES) – Lockheed P‑80 Shooting Star</a></li>
+    <li><a href="https://www.nytimes.com/1946/01/27/archives/transus-record-of-4-hrs-13-mins-set-by-jet-plane-army-p80-fighter.html">The New York Times – Trans‑U.S. Record</a></li>
+    <li><a href="https://www.historynet.com/shooting-star-lockheeds-p-80-paved-the-way-for-future-american-fighters/">HistoryNet – Shooting Star</a></li>
+    <li><a href="https://ww2db.com/aircraft_spec.php?aircraft_model_id=479">WW2DB – P‑80 Shooting Star</a></li>
+    <li><a href="https://www.facebook.com/AirZoo/photos/otd-jan-26-1946-col-william-councill-set-a-new-us-transcontinental-speed-record-/10197154">Air Zoo – OTD Jan 26, 1946</a></li>
+  </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-01-22 12:55:00 UTC  
+- **Fuentes primarias consultadas:** This Day in Aviation; Wikipedia; The New York Times; HistoryNet; WW2DB; Air Zoo  
+- **Discrepancias resueltas:** Se confirmó la fecha como 26 de enero de 1946.  
+- **Nivel de confianza:** Alto  
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO. CONFIRMADO]”.
