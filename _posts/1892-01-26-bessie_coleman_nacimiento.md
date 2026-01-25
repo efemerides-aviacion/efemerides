@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Estados Unidos
 operator: —
 excerpt: "Bessie Coleman, primera mujer afroamericana y nativa americana en obtener una licencia internacional de piloto."
-image: 1892-01-26-bessie_coleman_avion_curtiss_jn‑4d.jpg
+image: 1892-01-26-bessie_coleman_avion_curtiss_jn-4d.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1892-01-26-bessie_coleman_avion_curtiss_jn‑4d.jpg" alt="Bessie Coleman junto a su Curtiss JN-4D Jenny">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1892-01-26-bessie_coleman_avion_curtiss_jn-4d.jpg" alt="Bessie Coleman junto a su Curtiss JN-4D Jenny">
   <figcaption class="post-caption">Bessie Coleman posa junto a su Curtiss JN‑4D "Jenny" (avión excedente de la Gran Guerra), el que usó en sus espectáculos de acrobacias y barnstorming, ca. 1922–1925.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
