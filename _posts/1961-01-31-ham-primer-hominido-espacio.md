@@ -21,6 +21,11 @@ image: 1961-01-31-ham-saludado-comandante-nave-rescate.jpg
 <p>El 31 de enero de 1961, el chimpancé HAM (acrónimo de Holloman Aerospace Medical Center) se convirtió en el primer homínido en viajar al espacio y regresar con vida, durante el vuelo suborbital Mercury‑Redstone 2 de 16 minutos y 39 segundos.</p>
 </div>
 
+> **Nota editorial:**  
+> En el **Resumen Ejecutivo** se utiliza la denominación oficial de la misión, **Mercury‑Redstone 2 (MR‑2)**, que identifica el vuelo suborbital realizado el 31 de enero de 1961.  
+> En los **Datos Verificados**, en cambio, se especifica la configuración técnica del hardware empleado: la **cápsula Mercury No. 5** montada sobre un **cohete Redstone**.  
+> Ambas expresiones se complementan: la primera aporta el contexto narrativo y oficial de la misión, mientras que la segunda detalla con precisión el vehículo espacial utilizado.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
 ## Datos Verificados
 - **Fecha:** 31 de enero de 1961  
