@@ -36,6 +36,7 @@ image: 1959-02-07-tim-cook-record-mundial-cessna-172.jpg
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 ## Contexto Histórico
+El vuelo de resistencia de Bob Timm y John Cook en la Cessna 172 Hacienda representó una hazaña sin precedentes en la aviación ligera. Más allá de la marca técnica, fue un experimento de promoción y de ingeniería que demostró la capacidad de los aviones pequeños para permanecer en el aire durante semanas gracias a la innovación en reabastecimiento y modificaciones de cabina. La proeza capturó la atención pública y consolidó a la Cessna 172 como un ícono de fiabilidad, mientras que el récord permanece imbatido más de seis décadas después.
 ### Modificaciones de la aeronave
 - Interior reducido para ahorrar peso.  
 - Instalación de cama, fregadero y piloto automático básico.  
