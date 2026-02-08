@@ -11,7 +11,7 @@ image: 1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/images/1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.jpg" alt="Pilotos venezolanos reciben diploma tras romper la barrera del sonido">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.jpg" alt="Pilotos venezolanos reciben diploma tras romper la barrera del sonido">
   <figcaption class="post-caption">En la foto, Donald Wolfe representante de North American, entrega a los jóvenes pilotos (de izq. a der.) Pascual Azara Azara, Leonidas Marquina Dugarte y Braulio Martínez Zerpa el diploma y el pin que los acredita como miembros del Club Supersónico.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
