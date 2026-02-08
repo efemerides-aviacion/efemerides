@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Efemérides de Aviación | 10 de febrero de 1955 | Fuerza Aérea Venezolana | Primeros pilotos en romper la barrera del sonido"
+date: 1955-02-10
+categories: [aviacion-militar]
+author: Enrique Pomares
+pais: Venezuela
+operator: Fuerza Aérea Venezolana / USAF
+excerpt: "El 10 de febrero de 1955, tres Alféreces de la Escuela de Aviación Militar se convirtieron en los primeros pilotos de la Fuerza Aérea Venezolana en romper la barrera del sonido a bordo de cazas North American F‑86F Sabre en la Base Aérea Nellis."
+image: 1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.jpg
+---
+
+<figure>
+  <img class="post-image" src="{{ site.baseurl }}/assets/images/1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.jpg" alt="Pilotos venezolanos reciben diploma tras romper la barrera del sonido">
+  <figcaption class="post-caption">En la foto, Donald Wolfe representante de North American, entrega a los jóvenes pilotos (de izq. a der.) Pascual Azara Azara, Leonidas Marquina Dugarte y Braulio Martínez Zerpa el diploma y el pin que los acredita como miembros del Club Supersónico.</figcaption>
+</figure>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+
+<div class="highlight-box">
+<p>El 10 de febrero de 1955, tres Alféreces de la Escuela de Aviación Militar (EAM), en curso avanzado de vuelo con la Fuerza Aérea de los Estados Unidos (USAF), pasaron a la historia al convertirse en los primeros pilotos de la Fuerza Aérea Venezolana (FAV) en romper la temida “barrera sónica”. Lo hicieron a bordo de cazabombarderos North American F‑86F Sabre en los cielos de la Base Aérea Nellis, Nevada.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+## Datos Verificados
+- **Fecha:** 10 de febrero de 1955  
+- **Lugar:** Nellis Air Force Base, Nevada, EE.UU.  
+- **Pilotos:** Pascual Azara Azara, Leonidas Marquina Dugarte, Braulio Martínez Zerpa  
+- **Aeronave:** North American F‑86F Sabre  
+- **Reconocimiento:** Diploma y pin del *Club Supersónico*  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+## Contexto Histórico
+El vuelo supersónico de estos tres jóvenes oficiales marcó un hito en la historia de la aviación militar venezolana. La FAV recibió sus primeros F‑86F Sabre en 1955, convirtiéndose en la primera fuerza aérea latinoamericana en operar cazas capaces de superar Mach 1. El evento simbolizó la transición hacia la era del jet y consolidó la cooperación con la USAF.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+## Referencias Verificadas
+<div class="references">
+  <ul>
+    <li><a href="https://www.facebook.com/fuerzaaereavenezolana.fav/photos/1209299319106882/">Fuerza Aérea Venezolana (Facebook) – HISTÓRIA FAV 10 DE FEBRERO DE 1955</a></li>
+    <li><a href="https://www.facebook.com/groups/295948893906282/posts/3161837173984092/">Facebook – Historias y Personajes de la FAV</a></li>
+    <li><a href="https://www.instagram.com/carlosquijadarojas/p/C0CsfbSucr2/">Instagram – Historia de nuestra Aviación Militar Bolivariana</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Anexo:Venezuela_en_1955">Wikipedia (ES) – Venezuela en 1955</a></li>
+    <li><a href="https://www.instagram.com/reel/DPwRAkNDaRT/?hl=es">Instagram – Reel sobre el F‑86F Sabre</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/North_American_F-86_Sabre">Wikipedia (ES) – North American F‑86 Sabre</a></li>
+  </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-02-08 15:00 UTC  
+- **Fuentes primarias consultadas:** FAV (Facebook), testimonios en redes sociales, Wikipedia, documentación sobre el F‑86F Sabre  
+- **Discrepancias resueltas:** Confirmación de fecha y nombres de los tres pilotos  
+- **Nivel de confianza:** Medio-Alto  
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
