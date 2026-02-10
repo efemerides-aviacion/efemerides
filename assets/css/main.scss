@@ -86,3 +86,16 @@ hr {
   border-top: 1px solid #ccc;   /* línea superior tenue */
   border-radius: 4px;           /* esquinas suavemente redondeadas */
 }
+
+/* Ajustes responsivos para títulos */
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.8rem;   // tablets
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.4rem;   // móviles en vertical
+  }
+}
