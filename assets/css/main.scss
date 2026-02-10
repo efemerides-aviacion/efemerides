@@ -1,101 +1,88 @@
-/* Estilos generales */
-body {
-  font-family: "Helvetica Neue", Arial, sans-serif;
-  font-size: 1rem;
-  line-height: 1.6;
-  color: #333;
-  margin: 0;
-  padding: 0;
-}
+---
+---
 
-/* Encabezados */
-h1 {
-  font-size: 2.5rem;   // tamaño en pantallas grandes
-  line-height: 1.2;
-  margin-bottom: 1rem;
-  font-weight: 700;    // mejora: asegura un peso consistente
-}
+/* Estilos personalizados */
 
-h2 {
-  font-size: 2rem;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-weight: 600;
-}
-
-h3 {
-  font-size: 1.5rem;
-  margin-top: 1.5rem;
-  margin-bottom: 0.75rem;
-  font-weight: 500;
-}
-
-/* Ajustes responsivos para títulos */
-@media (max-width: 768px) {
-  h1 {
-    font-size: 2rem;   // tablets
-  }
-}
-
-@media (max-width: 480px) {
-  h1 {
-    font-size: 1.5rem; // móviles
-  }
-}
-
-/* Imágenes de posts */
+/* Imagen destacada */
 .post-image {
   max-width: 100%;
   height: auto;
   display: block;
   margin: 0 auto;
-  border-radius: 4px;   // mejora: esquinas ligeramente redondeadas
 }
 
+/* Pie de foto */
 .post-caption {
-  font-size: 0.9rem;
   text-align: center;
-  color: #666;
-  margin-top: 0.5rem;
-  font-style: italic;   // mejora: estilo más elegante para pie de foto
+  font-style: italic;
+  font-size: 0.9em;
+  margin-top: 0.5em;
+  color: #555;
 }
 
 /* Caja destacada */
 .highlight-box {
-  background: #f5f5f5;
-  border-left: 4px solid #283593;
-  padding: 1rem;
-  margin: 1.5rem 0;
-  border-radius: 3px;   // mejora: suaviza el bloque
+  background-color: #e6f2ff;   /* azul muy claro */
+  border-radius: 8px;          /* esquinas redondeadas */
+  padding: 1em;
+  margin: 1.5em 0;
+  font-size: 1.05em;
+  line-height: 1.6;
 }
 
 /* Referencias */
+.references {
+  margin-top: 2em;
+  padding: 1em;
+  border-left: 4px solid #336699;
+  background-color: #f9f9f9;
+  font-size: 0.95em;
+  line-height: 1.6;
+}
+
+.references h2 {
+  margin-top: 0;
+  font-size: 1.1em;
+  color: #336699;
+  font-weight: bold;
+}
+
 .references ul {
   list-style-type: none;
   padding-left: 0;
 }
 
 .references li {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.5em;
 }
 
 .references a {
-  color: #283593;
+  color: #003366;
   text-decoration: none;
-  transition: color 0.2s ease;   // mejora: transición suave
 }
 
 .references a:hover {
   text-decoration: underline;
-  color: #1a237e;                // mejora: tono más oscuro al pasar el cursor
+  color: #000;
 }
 
-/* Footer */
+/* Separador */
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 2em 0;
+}
+
+/* Pie de página */
 .post-footer {
-  margin-top: 2rem;
-  font-size: 0.85rem;
-  color: #999;
   text-align: center;
-  border-top: 1px solid #e0e0e0; // mejora: separación visual
-  padding-top: 1rem;
+  font-style: italic;
+  font-weight: 300;             /* tipografía más ligera */
+  background-color: #f7f7f7;    /* gris muy suave */
+  color: #555;                  /* texto gris oscuro */
+  font-size: 0.9em;             /* tipografía discreta */
+  padding: 8px;
+  margin-top: 30px;
+  border-top: 1px solid #ccc;   /* línea superior tenue */
+  border-radius: 4px;           /* esquinas suavemente redondeadas */
 }
