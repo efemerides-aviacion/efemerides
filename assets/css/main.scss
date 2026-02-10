@@ -13,18 +13,21 @@ h1 {
   font-size: 2.5rem;   // tamaño en pantallas grandes
   line-height: 1.2;
   margin-bottom: 1rem;
+  font-weight: 700;    // mejora: asegura un peso consistente
 }
 
 h2 {
   font-size: 2rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
+  font-weight: 600;
 }
 
 h3 {
   font-size: 1.5rem;
   margin-top: 1.5rem;
   margin-bottom: 0.75rem;
+  font-weight: 500;
 }
 
 /* Ajustes responsivos para títulos */
@@ -46,6 +49,7 @@ h3 {
   height: auto;
   display: block;
   margin: 0 auto;
+  border-radius: 4px;   // mejora: esquinas ligeramente redondeadas
 }
 
 .post-caption {
@@ -53,6 +57,7 @@ h3 {
   text-align: center;
   color: #666;
   margin-top: 0.5rem;
+  font-style: italic;   // mejora: estilo más elegante para pie de foto
 }
 
 /* Caja destacada */
@@ -61,6 +66,7 @@ h3 {
   border-left: 4px solid #283593;
   padding: 1rem;
   margin: 1.5rem 0;
+  border-radius: 3px;   // mejora: suaviza el bloque
 }
 
 /* Referencias */
@@ -76,10 +82,12 @@ h3 {
 .references a {
   color: #283593;
   text-decoration: none;
+  transition: color 0.2s ease;   // mejora: transición suave
 }
 
 .references a:hover {
   text-decoration: underline;
+  color: #1a237e;                // mejora: tono más oscuro al pasar el cursor
 }
 
 /* Footer */
@@ -88,4 +96,6 @@ h3 {
   font-size: 0.85rem;
   color: #999;
   text-align: center;
+  border-top: 1px solid #e0e0e0; // mejora: separación visual
+  padding-top: 1rem;
 }
