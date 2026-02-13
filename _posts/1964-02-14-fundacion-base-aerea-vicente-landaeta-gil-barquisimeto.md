@@ -31,7 +31,7 @@ image: 1964-02-14-base-aerea-vicente-landaeta-gil-barquisimeto.jpg
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 ## Contexto Histórico
-La base fue nombrada en honor al Teniente Vicente Landaeta Gil, integrante de la primera promoción de aviadores militares venezolanos, fallecido el 4 de febrero de 1931 en el primer accidente aéreo registrado en Venezuela (Farman 190 en Barquisimeto).  
+La base fue nombrada en honor al Teniente Vicente Landaeta Gil, integrante de la primera promoción de aviadores militares venezolanos, fallecido el 4 de febrero de 1931 en el primer accidente aéreo registrado en Venezuela ([Accidente del Farman 190 en Barquisimeto](https://efemerides-aviacion.github.io/efemerides/accidentes-aereos/1931/02/04/vicente-landaeta-gil.html)).
 
 ### Entorno social
 La creación de la base respondió a la necesidad de fortalecer la presencia militar en la región centro-occidental del país, con jurisdicción sobre Lara, Falcón, Yaracuy, Portuguesa, Barinas y Cojedes.
