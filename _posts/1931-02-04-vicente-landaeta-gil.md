@@ -38,7 +38,7 @@ image: 1931-02-04-vicente-landaeta-primer-aviador-militar-venezolano-muerto-acci
 El accidente de Vicente Landaeta Gil marcó un hito en la historia de la aviación militar venezolana, al ser el primer siniestro fatal registrado en sus filas.
 
 ### Homenajes
-- La Base Aérea Teniente Vicente Landaeta Gil (Balanda) en Barquisimeto lleva su nombre desde 1964.  
+- La [Base Aérea Teniente Vicente Landaeta Gil (Balanda)](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1964/02/14/fundacion-base-aerea-vicente-landaeta-gil-barquisimeto.html) en Barquisimeto lleva su nombre desde 1964.  
 - Fue pionero de la Primera Promoción de Aviadores Militares venezolanos.  
 
 ### Cobertura periodística
