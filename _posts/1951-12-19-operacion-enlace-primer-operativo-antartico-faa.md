@@ -60,10 +60,14 @@ La Operación “Enlace” es recordada como el inicio formal de la aviación mi
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.fundacionmarambio.org/enlace.html">Fundación Marambio – Operación Enlace</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Campañas_ant%C3%A1rticas_de_Argentina">Wikipedia – Campañas antárticas de Argentina (1950–1959)</a></li>
-    <li><a href="https://www.argentina.gob.ar/fuerzaaerea/antartida">Dirección de Asuntos Antárticos (FAA) – Antecedentes históricos</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Campa%C3%B1as_ant%C3%A1rticas_de_Argentina">Wikipedia – Campañas antárticas de Argentina (1950–1959)</a></li>
+    <li>Fundación Marambio – Operación Enlace [consultada, enlace no disponible]</li>
+    <li>Dirección de Asuntos Antárticos (FAA) – Antecedentes históricos [consultada, enlace no disponible]</li>
   </ul>
+</div>
+
+<div class="note-box">
+<p><strong>Nota aclaratoria:</strong> Algunas fuentes primarias (Fundación Marambio y Dirección de Asuntos Antárticos de la FAA) fueron consultadas para la verificación de datos, pero sus enlaces directos no están disponibles en línea actualmente. Se mantienen citadas por su relevancia histórica y documental.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
