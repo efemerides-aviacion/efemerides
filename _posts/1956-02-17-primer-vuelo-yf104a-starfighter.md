@@ -55,14 +55,18 @@ El Starfighter se convirtió en símbolo de la era supersónica y en protagonist
 - Influencia en la doctrina de combate aéreo de la Guerra Fría.  
 
 ### Legado
-El YF-104A “Apple Knocker” fue pionero en la transición hacia cazas supersónicos. Herman “Fish” Salmon (1915–2008) es recordado como uno de los grandes pilotos de pruebas de Lockheed, con experiencia en el P-80 y múltiples prototipos F-104.
+El YF-104A (55-2955) es recordado con dos sobrenombres:  
+- **“Starfighter”**, nombre oficial del modelo F‑104, símbolo de la era supersónica.  
+- **“Apple Knocker”**, apodo coloquial dado al prototipo tras el accidente de 1957 en Palmdale.  
+
+Herman “Fish” Salmon (1915–2008) es recordado como uno de los grandes pilotos de pruebas de Lockheed, con experiencia en el P-80 y múltiples prototipos F-104.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
     <li><a href="https://www.thisdayinaviation.com/17-february-1956/">This Day in Aviation – 17 February 1956: First flight Lockheed YF-104A 55-2955</a></li>
-    <li><a href="https://johneaves.wordpress.com/2011/02/17/the-lockhead-yf-104-55-2955-and-the-55th-anniversary-of-her-first-flight/">John Eaves Blog – YF-104A first flight</a></li>
+    <li><a href="https://johneaves.wordpress.com/2011/02/17/the-lockhead-yf-104-55-2955-and-the-55th-anniversary-of-her-first-flight/">John Eaves Blog – YF-104A first flight, nickname “Apple Knocker”</a></li>
     <li><a href="https://www.916-starfighter.de/F-104_chronology.htm">916 Starfighter – Chronology of F-104</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Lockheed_F-104_Starfighter">Wikipedia – Lockheed F-104 Starfighter</a></li>
     <li><a href="https://www.wahf.org/hall-of-fame/herman-fish-salmon/">Wisconsin Aviation Hall of Fame – Herman “Fish” Salmon</a></li>
@@ -71,13 +75,13 @@ El YF-104A “Apple Knocker” fue pionero en la transición hacia cazas supers�
 </div>
 
 <div class="note-box">
-<p><strong>Nota aclaratoria:</strong> El XF-104 voló con motor Wright J65, pero el YF-104A fue construido directamente con motor General Electric J79. No hubo “reemplazo” en el prototipo 55-2955, que ya salió de fábrica con el J79.</p>
+<p><strong>Nota aclaratoria:</strong> El XF-104 voló con motor Wright J65, pero el YF-104A fue construido directamente con motor General Electric J79. El prototipo 55-2955 es recordado tanto por su nombre oficial “Starfighter” como por el apodo “Apple Knocker” tras su accidente en 1957.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-02-15 14:25 CST  
+- **Timestamp de verificación:** 2026-02-15 14:40 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, John Eaves Blog, 916 Starfighter, Wikipedia, Wisconsin Aviation Hall of Fame, Air Force Test Center  
-- **Discrepancias resueltas:** Confirmación del motor correcto (J79 desde fábrica en YF-104A).  
+- **Discrepancias resueltas:** Confirmación del motor correcto (J79 desde fábrica en YF-104A) y aclaración de sobrenombres.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
