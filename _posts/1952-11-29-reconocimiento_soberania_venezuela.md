@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: [Venezuela]
 operator: [Fuerza Aérea Venezolana (FAV) / Armada Nacional]
 excerpt: "Venezuela ratifica su soberanía sobre el Archipiélago Los Monjes tras un intercambio diplomático con Colombia, apoyado por un despliegue de presencia aeronaval."
-image: "archipielago-los-monjes-venezuela.jpg"
+image: "1952-11-29-venezuela-ratifica-soberania-sobre-los-monjes.jpg"
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/izada_bandera_los_monjes-1952.jpg" alt="Bandera de Venezuela izada en el Archipiélago LOs Monjes">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-11-29-venezuela-ratifica-soberania-sobre-los-monjes.jpg" alt="Bandera de Venezuela izada en el Archipiélago LOs Monjes">
   <figcaption class="post-caption">El 29 de noviembre de 1952 es izada la Bandera de Venezuela en el Archipiélago Los Monjes, acto de reconocimiento de soberanía en 1952.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
