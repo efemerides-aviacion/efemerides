@@ -6,11 +6,11 @@ categories: [aviacion-biografia]
 author: Enrique Pomares
 pais: Francia
 excerpt: "Adrienne Bolland, pionera de la aviación mundial, primera mujer piloto de pruebas en Caudron y primera en cruzar los Andes."
-image: adrienne_bolland_nacimiento-1895.jpg
+image: 1895-11-25-adrienne-bolland-nacimiento.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/adrienne_bolland_nacimiento-1895.jpg" alt="Adrienne Bolland">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1895-11-25-adrienne-bolland-nacimiento.jpg" alt="Adrienne Bolland">
   <figcaption class="post-caption">Retrato icónico de Adrienne Bolland, con cabello rizado y mono de piloto, posando ante el potente motor giratorio de su caza biplano Caudron.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
