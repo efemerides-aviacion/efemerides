@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 24 de noviembre de 1920 | Evento | Adrienne Bolland cruza los Andes"
-date: 1920-11-24
+title: "Efemérides de Aviación | 1 de abril de 1921 | Evento | Adrienne Bolland cruza los Andes"
+date: 1921-04-01
 categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Francia / Argentina / Chile
 operator: Société des Avions Caudron
 excerpt: "Adrienne Bolland se convirtió en la primera mujer en cruzar la Cordillera de los Andes por vía aérea, pilotando un frágil Caudron G.3 desde Mendoza hasta Santiago."
-image: 1920-11-24-adrienne-bolland-cruza-los-andes.jpg
+image: 1921-04-01-adrienne-bolland-cruza-los-andes.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1920-11-24-adrienne-bolland-cruza-los-andes.jpg" alt="Adrienne Bolland junto a su Caudron G.3">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1921-04-01-adrienne-bolland-cruza-los-andes.jpg" alt="Adrienne Bolland junto a su Caudron G.3">
   <figcaption class="post-caption">Adrienne Bolland a bordo de su Caudron G-3 en 1922.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
