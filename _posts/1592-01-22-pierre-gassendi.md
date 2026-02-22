@@ -11,7 +11,7 @@ image: 1592-01-22-pierre-gassendi-velocidad-sonido.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1592-01-22-pierre_gassendi_velocidad_sonido.jpg" alt="Pierre Gassendi retrato">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1592-01-22-pierre-gassendi-velocidad-sonido.jpg" alt="Pierre Gassendi retrato">
   <figcaption class="post-caption">Retrato del sacerdote, filósofo, astrónomo y matemático francés Pierre Gassendi (1592–1655), pionero en la medición de la velocidad del sonido y renovador del atomismo epicúreo.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
