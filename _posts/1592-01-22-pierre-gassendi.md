@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Efemérides de Ciencia | 22 de enero de 1592 | Nacimiento | Pierre Gassendi"
+title: "Efemérides de Aviación  22 de enero de 1592  Pierre Gassendi"
 date: 1592-01-22
 categories: [ciencia-historia]
 author: [Enrique Pomares]
 pais: Francia
 operator: —
 excerpt: "Pierre Gassendi, sacerdote, filósofo, astrónomo y matemático francés, pionero en la medición de la velocidad del sonido."
-image: 1592-01-22-pierre_gassendi_velocidad_sonido.jpg
+image: 1592-01-22-pierre-gassendi-velocidad-sonido.jpg
 ---
 
 <figure>
@@ -71,7 +71,9 @@ Recordado como pionero en la medición de la velocidad del sonido y como figura 
     <li><a href="https://thonyc.wordpress.com/2022/01/05/the-epicurean-mathematician/">The Renaissance Mathematicus – The Epicurean Mathematician (Pierre Gassendi)</a></li>
   </ul>
 </div>
-
+<div class="note-box">
+<p><strong>Nota aclaratoria:</strong> Aunque Pierre Gassendi no estuvo vinculado directamente con la aviación, su estimación temprana de la velocidad del sonido se convirtió en un parámetro fundamental siglos después, especialmente en el diseño de aeronaves supersónicas. El valor moderno, medido en 1986, es de 331,20 m/s a 0 °C.</p>
+</div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-21 08:15:00 UTC  
