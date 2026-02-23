@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 26 de enero de 1892 | Nacimiento | Bessie Coleman"
+title: "Efemérides de Aviación | 26 de enero de 1892 | Bessie Coleman"
 date: 1892-01-26
-categories: [aviacion-historia]
+categories: [aviacion-nacimiento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: —
 excerpt: "Bessie Coleman, primera mujer afroamericana y nativa americana en obtener una licencia internacional de piloto."
-image: 1892-01-26-bessie_coleman_avion_curtiss_jn-4d.jpg
+image: 1892-01-26-bessie-coleman.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1892-01-26-bessie_coleman_avion_curtiss_jn-4d.jpg" alt="Bessie Coleman junto a su Curtiss JN-4D Jenny">
-  <figcaption class="post-caption">Bessie Coleman posa junto a su Curtiss JN‑4D "Jenny" (avión excedente de la Gran Guerra), el que usó en sus espectáculos de acrobacias y barnstorming, ca. 1922–1925.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1892-01-26-bessie-coleman.jpg" alt="Retrato pictórico de Bessie Coleman">
+  <figcaption class="post-caption">Retrato pictórico de Bessie Coleman, primera aviadora afroamericana y nativa estadounidense en obtener una licencia de piloto internacional (1921, Francia). Fuente: United States Air Force / Smithsonian National Air and Space Museum</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
 
