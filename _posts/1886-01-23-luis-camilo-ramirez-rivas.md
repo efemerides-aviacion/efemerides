@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 23 de enero de 1886 | Nacimiento | Luis Camilo Ramírez Rivas"
+title: "Efemérides de Aviación | 23 de enero de 1886 | Luis Camilo Ramírez Rivas"
 date: 1886-01-23
-categories: [aviacion-historia]
+categories: [aviacion-nacimiento]
 author: [Enrique Pomares]
 pais: Venezuela
 operator: —
 excerpt: "Luis Camilo Ramírez Rivas, primer piloto aviador y de guerra venezolano, héroe de la Primera Guerra Mundial."
-image: 1886-01-23-luis_camilo_rivera_rivas_piloto_de_guerra_venezolano.jpg
+image: 1886-01-23-luis-camilo-rivera-rivas.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1886-01-23-luis_camilo_rivera_rivas_piloto_de_guerra_venezolano.jpg" alt="Luis Camilo Ramírez Rivas">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1886-01-23-luis-camilo-rivera-rivas.jpg" alt="Luis Camilo Ramírez Rivas">
   <figcaption class="post-caption">Luis Camilo Ramírez Rivas, primer piloto aviador venezolano, en uniforme de teniente coronel de la Legión Extranjera Francesa durante la Primera Guerra Mundial, exhibiendo sus condecoraciones.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
