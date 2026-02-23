@@ -2,7 +2,7 @@
 layout: post
 title: "Efemérides de Aviación | 1 de diciembre de 1783 | Primer vuelo tripulado en globo de hidrógeno"
 date: 1783-12-01
-categories: [aerostacion]
+categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Francia
 operator: Jacques Charles y Nicolas-Louis Robert
