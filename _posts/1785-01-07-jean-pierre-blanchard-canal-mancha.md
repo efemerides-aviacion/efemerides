@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Francia / Inglaterra
 operator: Jean Pierre Blanchard & John Jeffries
 excerpt: "El 7 de enero de 1785, Jean Pierre Blanchard y John Jeffries realizaron el primer cruce exitoso del Canal de la Mancha en globo aerostático."
-image: jean_pierre_blanchard_globo_aerostatico1785.jpg
+image: 1785-01-07-jean-pierre-blanchard-globo-aerostatico.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/jean_pierre_blanchard_globo_aerostatico1785.jpg" alt="Jean Pierre Blanchard en globo aerostático">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1785-01-07-jean-pierre-blanchard-globo-aerostatico.jpg" alt="Jean Pierre Blanchard en globo aerostático">
   <figcaption class="post-caption">Grabado vibrante de la Ascensión de Blanchard en globo sobre la Plaza de Luis XV, París. Preámbulo a su cruce pionero del Canal de la Mancha (1785).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
