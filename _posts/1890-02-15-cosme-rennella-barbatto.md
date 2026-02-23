@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 15 de febrero de 1890 | Nacimiento de Cosme Rennella Barbatto, pionero aviador en Ecuador y Venezuela"
+title: "Efemérides de Aviación | 15 de febrero de 1890 | Cosme Rennella Barbatto"
 date: 1890-02-15
-categories: [aviacion-biografia]
+categories: [aviacion-nacimiento]
 author: Enrique Pomares
 pais: Ecuador / Venezuela
 operator: Cosme Rennella Barbatto
 excerpt: "El 15 de febrero de 1890 nació en Secondigliano, Nápoles, Cosme Rennella Barbatto, pionero de la aviación militar en Ecuador y Venezuela, fundador de la ESMA en Guayaquil y precursor de la FAV."
-image: 1890-02-15-cosme-rennella-barbatto-nacimiento.jpg
+image: 1890-02-15-cosme-rennella-barbatto.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1890-02-15-cosme-rennella-barbatto-nacimiento.jpg" alt="Cosme Rennella Barbatto en uniforme de capitán aviador ecuatoriano">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1890-02-15-cosme-rennella-barbatto.jpg" alt="Cosme Rennella Barbatto en uniforme de capitán aviador ecuatoriano">
   <figcaption class="post-caption">Cosme Rennella Barbatto en uniforme de capitán aviador ecuatoriano (circa 1920s–1930), con alas de piloto visibles. Pionero ESMA y FAV Venezuela.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
