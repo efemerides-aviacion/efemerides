@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 6 de enero de 1897 | Nacimiento de Manuel Simón Ríos Hernández, primer aviador venezolano"
+title: "Efemérides de Aviación | 6 de enero de 1897 | Manuel Simón Ríos Hernández"
 date: 1897-01-06
-categories: [biografias]
+categories: [aviacion-nacimiento]
 author: Enrique Pomares
 pais: Venezuela
 excerpt: "Manuel Simón Ríos Hernández, nacido en Altagracia de Orituco, Guárico, es reconocido como el primer aviador venezolano."
-image: manuel-rios-hernandez.png
+image: 1897-01-06-manuel-rios-hernandez.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/manuel-rios-hernandez.png" alt="Retrato de Manuel Simón Ríos Hernández, primer aviador venezolano">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1897-01-06-manuel-rios-hernandez.jpg" alt="Retrato de Manuel Simón Ríos Hernández, primer aviador venezolano">
   <figcaption class="post-caption">Manuel Simón Ríos Hernández, pionero de la aviación venezolana, nacido en Altagracia de Orituco en 1897.</figcaption>
 </figure>
 
