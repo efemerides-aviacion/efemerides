@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 25 de noviembre de 1895 | Biografía | Adrienne Bolland"
+title: "Efemérides de Aviación | 25 de noviembre de 1895 | Adrienne Bolland"
 date: 1895-11-25
-categories: [aviacion-biografia]
+categories: [aviacion-nacimiento]
 author: Enrique Pomares
 pais: Francia
 excerpt: "Adrienne Bolland, pionera de la aviación mundial, primera mujer piloto de pruebas en Caudron y primera en cruzar los Andes."
-image: 1895-11-25-adrienne-bolland-nacimiento.jpg
+image: 1895-11-25-adrienne-bolland.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1895-11-25-adrienne-bolland-nacimiento.jpg" alt="Adrienne Bolland">
-  <figcaption class="post-caption">Retrato icónico de Adrienne Bolland, con cabello rizado y mono de piloto, posando ante el potente motor giratorio de su caza biplano Caudron.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1895-11-25-adrienne-bolland.jpg" alt="Adrienne Bolland">
+  <figcaption class="post-caption">Adrienne Bolland, aviadora francesa, posa con su Caudron en Buenos Aires, marzo 1921 (El Gráfico nº 91).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
