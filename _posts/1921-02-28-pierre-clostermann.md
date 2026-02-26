@@ -76,13 +76,17 @@ Recordado como “Premier chasseur de France”, su nombre está asociado a la t
 </div>
 
 <div class="note-box">
-<p><strong>Nota aclaratoria:</strong> El número de victorias de Pierre Clostermann varía según el criterio de cada fuerza aérea y los estudios posteriores.  
-- **Registros franceses (FAFL):** contabilizan 33 derribos confirmados y 5 probables, incluyendo aviones destruidos en tierra durante ataques a aeródromos, considerados parte del palmarés oficial.  
-- **Registros británicos (RAF):** acreditan 19 victorias individuales y 14 compartidas, pero <em>no</em> reconocen como victorias los aviones destruidos en tierra, limitándose a combates aéreos verificados en vuelo.  
-- **Archivos de la Luftwaffe y análisis modernos:** al contrastar las reclamaciones con las pérdidas alemanas, varios historiadores concluyen que las cifras francesas incluyen reclamaciones sin correlato documental. Estudios recientes estiman entre 15 y 18 derribos aéreos verificables, e incluso algunos análisis más estrictos reducen la cifra a 11–12 victorias confirmadas.  
+<p><strong>Nota aclaratoria:</strong> El número de victorias de Pierre Clostermann varía según el criterio de cada fuerza aérea y los estudios posteriores:</p>
 
-La cifra de 33 se mantiene como la más difundida en Francia y en sus condecoraciones oficiales, pero no coincide con los criterios británicos ni con las verificaciones alemanas. Esta diferencia refleja la disparidad de métodos de contabilización y la dificultad de establecer un número único e indiscutible.</p>
+<ul>
+  <li><strong>Registros franceses (FAFL):</strong> contabilizan 33 derribos confirmados y 5 probables, incluyendo aviones destruidos en tierra durante ataques a aeródromos.</li>
+  <li><strong>Registros británicos (RAF):</strong> acreditan 19 victorias individuales y 14 compartidas, pero no reconocen como victorias los aviones destruidos en tierra, limitándose a combates aéreos verificados en vuelo.</li>
+  <li><strong>Archivos de la Luftwaffe y análisis modernos:</strong> al contrastar las reclamaciones con las pérdidas alemanas, varios historiadores concluyen que las cifras francesas incluyen reclamaciones sin correlato documental. Estudios recientes estiman entre 15 y 18 derribos aéreos verificables, e incluso algunos análisis más estrictos reducen la cifra a 11–12 victorias confirmadas.</li>
+</ul>
+
+<p>La cifra de 33 se mantiene como la más difundida en Francia y en sus condecoraciones oficiales, pero no coincide con los criterios británicos ni con las verificaciones alemanas. Esta diferencia refleja la disparidad de métodos de contabilización y la dificultad de establecer un número único e indiscutible.</p>
 </div>
+
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 ## Metadatos de control
