@@ -6,7 +6,7 @@ categories: [aviacion-nacimiento]
 author: Enrique Pomares
 pais: Francia
 operator: RAF / Forces Aériennes Françaises Libres
-excerpt: "Pierre Clostermann, nacido en Curitiba en 1921, se convirtió en el as de caza francés más célebre de la Segunda Guerra Mundial con 33 victorias confirmadas."
+excerpt: "Pierre Clostermann, nacido en Curitiba en 1921, se convirtió en el as de caza francés más célebre de la Segunda Guerra Mundial con 33 victorias confirmadas según registros franceses."
 image: 1921-02-28-pierre-clostermann.jpg
 ---
 
@@ -18,7 +18,7 @@ image: 1921-02-28-pierre-clostermann.jpg
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>Pierre Clostermann nació el 28 de febrero de 1921 en Curitiba, Brasil, y se convirtió en el as de caza francés más célebre de la Segunda Guerra Mundial. Volando Spitfire y sobre todo Hawker Tempest en varios escuadrones de la RAF, alcanzó 33 victorias aéreas confirmadas y 5 probables, por lo que fue apodado “Premier chasseur de France”. Condecorado como Compagnon de la Libération, Grand’croix de la Légion d’honneur y DSO/DFC británicos, sus memorias <em>Le Grand Cirque</em> se transformaron en un clásico de la literatura aérea bélica.</p>
+<p>Pierre Clostermann nació el 28 de febrero de 1921 en Curitiba, Brasil, y se convirtió en el as de caza francés más célebre de la Segunda Guerra Mundial. Volando Spitfire y sobre todo Hawker Tempest en varios escuadrones de la RAF, alcanzó 33 victorias aéreas confirmadas y 5 probables según registros franceses, por lo que fue apodado “Premier chasseur de France”. Condecorado como Compagnon de la Libération, Grand’croix de la Légion d’honneur y DSO/DFC británicos, sus memorias <em>Le Grand Cirque</em> se transformaron en un clásico de la literatura aérea bélica.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
@@ -51,7 +51,7 @@ Su figura se convirtió en símbolo nacional, y sus memorias <em>Le Grand Cirque
 - **1921:** Nace en Curitiba, Brasil.  
 - **1942:** Se incorpora a la RAF en el Reino Unido.  
 - **1942–1945:** Participa en misiones de combate en Europa ocupada.  
-- **1945:** Termina la guerra con 33 victorias confirmadas.  
+- **1945:** Termina la guerra con 33 victorias confirmadas según registros franceses.  
 - **1945–1950s:** Publica <em>Le Grand Cirque</em>, se convierte en diputado y directivo aeronáutico.  
 - **2006:** Fallece en Montesquieu-des-Albères, Francia.  
 
@@ -76,13 +76,18 @@ Recordado como “Premier chasseur de France”, su nombre está asociado a la t
 </div>
 
 <div class="note-box">
-<p><strong>Nota aclaratoria:</strong> El número exacto de victorias de Clostermann ha sido objeto de debate entre historiadores y fuentes oficiales. Mientras el historial francés reconoce 33 confirmadas y 5 probables, otras fuentes sugieren cifras distintas. La cifra de 33 victorias es la más aceptada en registros oficiales.</p>
+<p><strong>Nota aclaratoria:</strong> El número de victorias de Pierre Clostermann varía según el criterio de cada fuerza aérea y los estudios posteriores.  
+- **Registros franceses (FAFL):** contabilizan 33 derribos confirmados y 5 probables, incluyendo aviones destruidos en tierra durante ataques a aeródromos, considerados parte del palmarés oficial.  
+- **Registros británicos (RAF):** acreditan 19 victorias individuales y 14 compartidas, pero <em>no</em> reconocen como victorias los aviones destruidos en tierra, limitándose a combates aéreos verificados en vuelo.  
+- **Archivos de la Luftwaffe y análisis modernos:** al contrastar las reclamaciones con las pérdidas alemanas, varios historiadores concluyen que las cifras francesas incluyen reclamaciones sin correlato documental. Estudios recientes estiman entre 15 y 18 derribos aéreos verificables, e incluso algunos análisis más estrictos reducen la cifra a 11–12 victorias confirmadas.  
+
+La cifra de 33 se mantiene como la más difundida en Francia y en sus condecoraciones oficiales, pero no coincide con los criterios británicos ni con las verificaciones alemanas. Esta diferencia refleja la disparidad de métodos de contabilización y la dificultad de establecer un número único e indiscutible.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 ## Metadatos de control
-- **Timestamp de verificación:** 2026-02-24 19:05 CST  
-- **Fuentes primarias consultadas:** Wikipedia EN/ES/FR, Escuadrón Fénix, WWII Aces, Légion d'Honneur  
-- **Discrepancias resueltas:** Debate sobre número de victorias (33 confirmadas + 5 probables vs. cifras alternativas).  
+- **Timestamp de verificación:** 2026-02-26 15:35 CST  
+- **Fuentes primarias consultadas:** Wikipedia EN/ES/FR, Escuadrón Fénix, WWII Aces, Légion d'Honneur, FalkeEins  
+- **Discrepancias resueltas:** Debate sobre número de victorias (33 confirmadas + 5 probables vs. 19 RAF vs. 15–18 verificables en archivos alemanes).  
 - **Nivel de confianza:** Alto  
-- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se
