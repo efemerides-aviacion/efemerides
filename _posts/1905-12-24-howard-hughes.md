@@ -11,8 +11,8 @@ image: 1905-12-24-howard-hughes.jpg
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1905-12-24-howard-hughes.jpg" alt="Howard Hughes en su juventud">
-  <figcaption class="post-caption">Howard Hughes en su juventud. Imagen histórica, dominio público.</figcaption>
-</figure>Howard Hughes, retrato de estudio (ca. 1936), época de sus récords de velocidad aérea y producción cinematográfica. Encyclopædia Britannica.
+  <figcaption class="post-caption">Howard Hughes, retrato de estudio (ca. 1936), época de sus récords de velocidad aérea y producción cinematográfica. Encyclopædia Britannica.</figcaption>
+</figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
