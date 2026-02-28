@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 24 de diciembre de 1905 | Biografía | Howard Hughes"
+title: "Efemérides de Aviación | 24 de diciembre de 1905 | Howard Hughes"
 date: 1905-12-24
-categories: [aviacion-biografia]
+categories: [aviacion-nacimiento]
 author: Enrique Pomares
 pais: Estados Unidos
 excerpt: "Empresario, aviador y pionero de la aviación. Récords mundiales de velocidad y circunnavegación; creador del H-1 Racer y del H-4 Hercules 'Spruce Goose'."
-image: howard_hughes.jpeg
+image: 1905-12-24-howard-hughes.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/howard_hughes.jpeg" alt="Howard Hughes en su juventud">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1905-12-24-howard-hughes.jpg" alt="Howard Hughes en su juventud">
   <figcaption class="post-caption">Howard Hughes en su juventud. Imagen histórica, dominio público.</figcaption>
-</figure>
+</figure>Howard Hughes, retrato de estudio (ca. 1936), época de sus récords de velocidad aérea y producción cinematográfica. Encyclopædia Britannica.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
