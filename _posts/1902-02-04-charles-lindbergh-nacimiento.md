@@ -2,16 +2,16 @@
 layout: post
 title: "Efemérides de Aviación | 4 de febrero de 1902 | Nacimiento | Charles Lindbergh"
 date: 1902-02-04
-categories: [aviacion-historia]
+categories: [aviacion-nacimiento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Civil
 excerpt: "Charles Augustus Lindbergh nació el 4 de febrero de 1902 en Detroit, Michigan, y se convirtió en ícono mundial de la aviación con su histórico vuelo transatlántico en solitario de 1927."
-image: 1902-02-04-charles-lindbergh-nacimiento.jpg
+image: 1902-02-04-charles-lindbergh.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1902-02-04-charles-lindbergh-nacimiento.jpg" alt="Charles Lindbergh joven">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1902-02-04-charles-lindbergh.jpg" alt="Charles Lindbergh joven">
   <figcaption class="post-caption">Charles Lindbergh en retrato de aviador joven (ca. 1925), antes de su histórico vuelo transatlántico en solitario del 20-21 de mayo de 1927.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
