@@ -1,17 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 7 de enero de 1909 | Biografía | Léon Delagrange"
+title: "Efemérides de Aviación | 7 de enero de 1909 | Léon Delagrange"
 date: 1909-01-07
-categories: [aviacion-biografia]
+categories: [aviacion-nacimiento]
 author: Enrique Pomares
 pais: Francia
+operator: Léon Delagrange
 excerpt: "Léon Delagrange, pionero aviador francés y Presidente del Aeroclub de Francia, figura clave en los inicios de la aviación."
-image: leon_delagrange-1909.jpeg
+image: 1909-01-07-leon-delagrange.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/leon_delagrange-1909.jpeg" alt="Léon Delagrange">
-  <figcaption class="post-caption">El aviador francés Léon Delagrange, posando con gorro de lana, gafas de aviador y mostacho característico junto a su biplano Voisin.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1909-01-07-leon-delagrange.jpg" alt="Léon Delagrange">
+  <figcaption class="post-caption">Léon Delagrange (1877–1910), pionero aviador francés y presidente del Aéro-Club de France (1907), retrato de estudio (ca. 1908). Wikimedia Commons / Aerobiblio.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
