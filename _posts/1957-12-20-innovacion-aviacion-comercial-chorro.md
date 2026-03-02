@@ -1,16 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 20 de diciembre de 1957 | Innovación | Aviación Comercial a Chorro"
+title: "Efemérides de Aviación | 20 de diciembre de 1957 | Aviación Comercial a Chorro"
 date: 1957-12-20
 categories: [aviacion-evento]
 author: Enrique Pomares
-país: Estados Unidos
+pais: Estados Unidos
+operator: Boeing
 excerpt: "El primer Boeing 707-120 de producción realizó su vuelo inaugural desde Renton Field, marcando el inicio de la era del chorro en la aviación comercial."
+image: 1957-12-20-innovacion-aviacion-comercial-chorro
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/boeing-707-120.jpeg" alt="Boeing 707-120 N708PA en su primer vuelo">
-  <figcaption class="post-caption">Boeing 707-120, matrícula N708PA en su primer vuelo</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1957-12-20-innovacion-aviacion-comercial-chorro.jpg" alt="Boeing 707-120 N708PA en su primer vuelo">
+  <figcaption class="post-caption">Boeing 707-120, matrícula N708PA en su primer vuelo.</figcaption>
 </figure>
 
 <hr style="margin:2rem 0; border:none; height:2px; background:linear-gradient(to right,#1a237e,#283593);">
