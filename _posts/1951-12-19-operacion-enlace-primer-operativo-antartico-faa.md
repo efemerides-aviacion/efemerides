@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Argentina
 operator: Fuerza Aérea Argentina
 excerpt: "El 19 de diciembre de 1951 la Fuerza Aérea Argentina ejecutó la Operación “Enlace”, su primer operativo antártico, con el Avro Lincoln B-003 “Cruz del Sud” bajo el mando del Vicecomodoro Gustavo Argentino Marambio."
-image: 1951-12-19-operacion-enlace-avro-lincoln-cruz-del-sud.jpg
+image: 1951-12-19-operacion-enlace-primer-operativo-antartico-faa.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1951-12-19-operacion-enlace-avro-lincoln-cruz-del-sud.jpg" alt="Avro Lincoln B-003 Cruz del Sud en misión antártica">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1951-12-19-operacion-enlace-primer-operativo-antartico-faa.jpg" alt="Avro Lincoln B-003 Cruz del Sud en misión antártica">
   <figcaption class="post-caption">Avro Lincoln B-003 “Cruz del Sud” en misión hacia la Antártida, 1951. Primer operativo antártico de la Fuerza Aérea Argentina.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
