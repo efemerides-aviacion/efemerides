@@ -8,6 +8,7 @@ pais: Francia / Argentina / Chile
 operator: Société des Avions Caudron
 excerpt: "Adrienne Bolland se convirtió en la primera mujer en cruzar la Cordillera de los Andes por vía aérea, pilotando un frágil Caudron G.3 desde Mendoza hasta Santiago."
 image: 1921-04-01-adrienne-bolland-cruza-los-andes.jpg
+published: false
 ---
 
 <figure>
