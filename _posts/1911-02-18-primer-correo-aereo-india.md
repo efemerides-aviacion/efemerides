@@ -7,12 +7,13 @@ author: Enrique Pomares
 pais: India
 operator: Humber-Sommer biplano / Henri Pequet
 excerpt: "El 18 de febrero de 1911, Henri Pequet realizó el primer vuelo oficial de correo aéreo del mundo en India, transportando unas 6,500 cartas desde Allahabad a Naini en 13 minutos."
-image: 1911-02-18-primer-transporte-oficial-correo-aereo-india.jpg
+image: 1911-02-18-1911-02-18-primer-correo-aereo-india.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-02-18-primer-transporte-oficial-correo-aereo-india.jpg" alt="Primer vuelo oficial de correo aéreo en India, 1911">
-  <figcaption class="post-caption">Primer vuelo oficial de correo aéreo en avión, India, 1911. Cortesía de Pradip Jain.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-02-18-primer-correo-aereo-india.jpg" alt="Primer vuelo oficial de correo aéreo en India, 1911">
+  <figcaption class="post-caption">Henri Pequet en su biplano Humber-Sommer, usado el 18 de febrero de 1911 para el primer correo aéreo oficial entre Allahabad y Naini, India. Smithsonian National Postal Museum, “World's First Official Air Mail by Airplane, India, 1911.
+</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
