@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 30 de noviembre de 1911 | Evento | Primer Presidente en Vuelo"
+title: "Efemérides de Aviación | 30 de noviembre de 1911 | Primer Presidente en Vuelo"
 date: 1911-11-30
 categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: [México]
 operator: [George M. Dyott]
 excerpt: "Francisco I. Madero hace historia al convertirse en el primer jefe de Estado en el mundo en realizar un vuelo en avión, despegando desde los llanos de Balbuena."
-image: "1911-11-30-primer-presidente-vuelo-franciscomadero.jpg"
+image: "1911-11-30-primer-presidente-vuelo.jpg"
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-11-30-primer-presidente-vuelo-franciscomadero.jpg" alt="Francisco I. Madero en el avión">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-11-30-primer-presidente-vuelo.jpg" alt="Francisco I. Madero en el avión">
   <figcaption class="post-caption">El presidente Francisco I. Madero (izquierda superior) junto al piloto George Dyott (derecha inferior) y el biplano Deperdussin (izquierda inferior), momentos antes de su histórico vuelo en los Llanos de Balbuena, Ciudad de México. (Crédito: Archivo INAH).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
