@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 1 de enero de 1914 | Evento | Primera aerolínea regular: St. Petersburg–Tampa Airboat Line"
+title: "Efemérides de Aviación | 1 de enero de 1914 | Primera aerolínea regular: St. Petersburg–Tampa Airboat Line"
 date: 1914-01-01
 categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: St. Petersburg–Tampa Airboat Line
 excerpt: "El 1 de enero de 1914 se inauguró la primera aerolínea regular del mundo con el Benoist XIV."
-image: st-petersburg-tampa-airboat-4.jpg
+image: 1914-01-01-primera-aerolinea-st-petersburg-tampa.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/st-petersburg-tampa-airboat-4.jpg" alt="Benoist XIV en Tampa Bay">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1914-01-01-primera-aerolinea-st-petersburg-tampa.jpg" alt="Benoist XIV en Tampa Bay">
   <figcaption class="post-caption">De izquierda a derecha: Percival E. Fansler, el exalcalde de San Petersburgo Abram C. Phiel y el piloto Antony H. Jannus junto al hidroavión Benoist XIV el 1 de enero de 1914.</figcaption>
 </figure>
 
