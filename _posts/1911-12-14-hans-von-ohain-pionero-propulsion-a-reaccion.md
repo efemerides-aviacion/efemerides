@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 14 de diciembre de 1911 | Nacimiento de Hans von Ohain, pionero de la propulsión a reacción"
+title: "Efemérides de Aviación | 14 de diciembre de 1911 | Hans von Ohain, pionero de la propulsión a reacción"
 date: 1911-12-14
-categories: [aviacion-biografia]
+categories: [aviacion-nacimiento]
 author: Enrique Pomares
 pais: Alemania
 operator: Heinkel Flugzeugwerke
 excerpt: "El 14 de diciembre de 1911 nació en Dessau, Alemania, Hans Joachim Pabst von Ohain, coinventor del motor a reacción junto a Frank Whittle. Su diseño del Heinkel HeS 3 propulsó el primer vuelo de un avión a reacción en 1939."
-image: 1911-12-14-hans-von-ohain-heinkel-hes3b.jpg
+image: 1911-12-14-hans-von-ohain-pionero-propulsion-a-reaccion.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-12-14-hans-von-ohain-heinkel-hes3b.jpg" alt="Hans von Ohain junto al HeS 3b en el Deutsches Museum">
-  <figcaption class="post-caption">Hans-Joachim von Ohain con una reproducción del He S3b, expuesta en el Deutsches Museum de Múnich en 1981. (Fuente: Deutsches Museum / Smithsonian Institution).</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-12-14-hans-von-ohain-pionero-propulsion-a-reaccion.jpg" alt="Hans von Ohain junto al HeS 3b en el Deutsches Museum">
+  <figcaption class="post-caption">Hans von Ohain, inventor del primer turbojet operacional, en retrato de la USAF con modelo a escala de avión a reacción posado frente a él en posición de vuelo (ascendiendo y virando a la izquierda), circa 1975-1985. DVIDS, "Hans von Ohain", foto por Michael Weber.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
