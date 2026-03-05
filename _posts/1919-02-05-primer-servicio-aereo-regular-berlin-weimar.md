@@ -1,24 +1,24 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 5 de febrero de 1919 | Transporte | Primer servicio aéreo regular en Europa (DLR)"
+title: "Efemérides de Aviación | 5 de febrero de 1919 | Primer servicio aéreo regular en Europa (DLR)"
 date: 1919-02-05
-categories: [aviacion-comercial]
+categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Alemania
 operator: Deutsche Luft-Reederei (DLR)
 excerpt: "La Deutsche Luft-Reederei inauguró el 5 de febrero de 1919 el primer servicio aéreo regular sostenido en Europa, entre Berlín y Weimar, antecedente directo de Lufthansa."
-image: 1919-02-05-correo-aereo-berlin-weimar.jpg
+image: 1919-02-05-primer-servicio-aereo-regular-berlin-weimar.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1919-02-05-correo-aereo-berlin-weimar.jpg" alt="Correo aéreo Berlín-Weimar, carga en Berlín-Johannisthal, febrero de 1919">
-  <figcaption class="post-caption">Correo aéreo Berlín-Weimar. Carga en Berlín-Johannisthal, febrero de 1919.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1919-02-05-primer-servicio-aereo-regular-berlin-weimar.jpg" alt="Correo aéreo Berlín-Weimar, carga en Berlín-Johannisthal, febrero de 1919">
+  <figcaption class="post-caption">Carga de paquetes postales en un LVG C.VI de la Deutsche Luft-Reedere (DLR) en condiciones de nieve, circa 1919. Fuente: Wikipedia "Deutsche Luft-Reederei.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>La aerolínea alemana Deutsche Luft-Reederei (DLR), precursora de Lufthansa, inauguró el 5 de febrero de 1919 un servicio aéreo regular diario entre Berlín y Weimar, considerado el primer servicio aéreo sostenido de pasajeros en Europa, utilizando biplanos AEG y DFW convertidos desde uso militar.</p>
+<p>La aerolínea alemana Deutsche Luft-Reederei (DLR), precursora de Lufthansa, inauguró el 5 de febrero de 1919 un servicio aéreo regular diario entre Berlín y Weimar, considerado el primer servicio aéreo sostenido de pasajeros en Europa, utilizando biplanos AEG y DFW convertidos desde uso militar. El primer vuelo de DLR fue transportando correo y periódicos desde Berlín to Weimar. La aerolínea comenzó a transportar pasajeros al mes siguiente.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
