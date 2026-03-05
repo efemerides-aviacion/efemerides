@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 16 de febrero de 1914 | Primer vuelo de un avión construido en Chile por los hermanos Copetta"
+title: "Efemérides de Aviación | 16 de febrero de 1914 | Primer vuelo de un avión construido en Chile"
 date: 1914-02-16
 categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Chile
-operator: Hermanos César y Félix Copetta
+operator: Hermanos César y Félix Copetta / Luis Omar Page (Piloto)
 excerpt: "El 16 de febrero de 1914 se realizó en Batuco el primer vuelo del biplano 'Batuco', construido íntegramente en Chile por los hermanos Copetta y pilotado por Luis Omar Page."
 image: 1914-02-16-primer-vuelo-avion-construido-chile.jpg
 ---
