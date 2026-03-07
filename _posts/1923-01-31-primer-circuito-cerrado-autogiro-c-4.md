@@ -83,7 +83,7 @@ El éxito del C.4 marcó el inicio de la era de las aeronaves de ala giratoria, 
   <ul>
     <li><a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1923/01/09/primer-salto-autogiro-c-4-getafe.html">Primer salto exitoso del autogiro Cierva C.4</a></li>
     <li><a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1923/01/17/autogiro-c-4-vuelo-controlado.html">Primer vuelo controlado del autogiro Cierva C.4</a></li>
-    <li><a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1923/01/31/primer-circuito-cerrado-autogiro-c-4.html">Primer circuito cerrado del autogiro Cierva C.4</a></li>
+    <li><strong>Primer circuito cerrado del autogiro Cierva C.4</strong></li>
   </ul>
 </div>
 
