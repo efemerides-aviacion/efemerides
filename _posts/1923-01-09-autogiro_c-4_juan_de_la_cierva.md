@@ -8,6 +8,7 @@ pais: España
 operator: Juan de la Cierva
 excerpt: "Primer vuelo del autogiro C.4 en el aeropuerto de Getafe, Madrid."
 image: 1923-01-23-autogiro_c-4.jpg
+published: false
 ---
 
 <figure>
