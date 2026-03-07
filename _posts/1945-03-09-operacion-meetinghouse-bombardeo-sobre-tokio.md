@@ -32,11 +32,28 @@ image: 1945-03-09-operacion-meetinghouse-bombardeo-sobre-tokio.jpg
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
 ## Contexto histórico
-A principios de 1945, los bombardeos de precisión desde gran altitud sobre Japón fracasaban debido a la corriente en chorro y la nubosidad. El general Curtis LeMay decidió un cambio radical: bombardeos nocturnos a baja cota con bombas incendiarias, aprovechando la debilidad de la defensa antiaérea japonesa.  
+El bombardeo de Tokio del 9 al 10 de marzo de 1945 fue el ataque aéreo convencional más mortífero de la historia. Representó un cambio radical en la estrategia de la USAAF, con consecuencias devastadoras para la población civil y un legado que quedó eclipsado por los ataques atómicos posteriores.
 
-La madrugada del 10 de marzo, 279 B-29 lanzaron su carga sobre el distrito de Shitamachi en Tokio. Las bombas incendiarias crearon una tormenta de fuego que alcanzó temperaturas de hasta 980 °C, con ríos hirviendo y cristales fundidos. El ataque destruyó un cuarto de la ciudad y dejó más de un millón de personas sin hogar.  
+### Entorno social
+- Japón vivía una situación de agotamiento social y económico tras años de guerra.  
+- La población urbana estaba concentrada en viviendas de madera y papel, altamente vulnerables al fuego.  
+- El ataque dejó más de un millón de personas sin hogar y generó una crisis humanitaria inmediata.
 
-Aunque fue el bombardeo aéreo más mortífero de la historia, su memoria quedó eclipsada por las bombas atómicas de Hiroshima y Nagasaki. El propio LeMay reconoció: *“Si hubiéramos perdido, yo sería tratado como un criminal de guerra.”*
+### Entorno tecnológico
+- Los bombarderos B‑29 Superfortress eran la plataforma más avanzada de la época, capaces de operar desde las Islas Marianas.  
+- Se emplearon bombas incendiarias M‑69 con napalm, diseñadas para maximizar la destrucción en áreas urbanas densas.  
+- La táctica de vuelo a baja altitud (1.500–2.700 m) fue innovadora y letal, al reducir la efectividad de la defensa antiaérea japonesa.
+
+### Entorno cultural
+- Tokio era el corazón político y cultural de Japón, con barrios tradicionales como Shitamachi que representaban la vida cotidiana de millones de personas.  
+- La destrucción de templos, escuelas y centros comunitarios supuso un golpe simbólico y cultural, además de material.  
+- El trauma colectivo quedó marcado por relatos de supervivientes que describieron “ríos de fuego” y temperaturas insoportables.
+
+### Legado
+- El ataque destruyó 41 km² de la capital y causó más de 100.000 muertes inmediatas.  
+- Fue el bombardeo aéreo más mortífero de la historia, pero quedó eclipsado en la memoria mundial por Hiroshima y Nagasaki.  
+- Curtis LeMay reconoció la dimensión moral del ataque: *“Si hubiéramos perdido, yo sería tratado como un criminal de guerra.”*  
+- La Operación Meetinghouse marcó el inicio de una serie de bombardeos incendiarios sobre otras ciudades japonesas, consolidando la estrategia de destrucción masiva de áreas urbanas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
 ## Referencias verificadas
