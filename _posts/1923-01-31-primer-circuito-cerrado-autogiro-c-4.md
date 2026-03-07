@@ -76,16 +76,6 @@ El éxito del C.4 marcó el inicio de la era de las aeronaves de ala giratoria, 
 <p><strong>Nota aclaratoria:</strong> Existen discrepancias en las fuentes sobre la fecha de los primeros vuelos del C.4 en Getafe (9 o 17 de enero de 1923). Se reconoce esta ambigüedad, pero se confirma que el circuito cerrado exitoso se realizó el 31 de enero en Cuatro Vientos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 1px; background: linear-gradient(to right, #1a237e, #283593);" />
-
-<div class="related-box">
-  <p><strong>Secuencia de hitos del autogiro Cierva C.4 en enero de 1923:</strong></p>
-  <ul>
-    <li><a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1923/01/09/primer-salto-autogiro-c-4-getafe.html">Primer salto exitoso del autogiro Cierva C.4</a></li>
-    <li><a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1923/01/17/autogiro-c-4-vuelo-controlado.html">Primer vuelo controlado del autogiro Cierva C.4</a></li>
-    <li><strong>Primer circuito cerrado del autogiro Cierva C.4</strong></li>
-  </ul>
-</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 ## Metadatos de control
