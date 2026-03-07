@@ -63,9 +63,9 @@ El salto inicial del 9 de enero fue el punto de partida de una serie de pruebas 
 <div class="related-box">
   <p><strong>Secuencia de hitos del autogiro Cierva C.4 en enero de 1923:</strong></p>
   <ul>
-    <li><a href="{{ site.baseurl }}/efemerides/aviacion-evento/1923/01/09/primer-salto-autogiro-c-4-getafe.html">Primer salto exitoso del autogiro Cierva C.4</a></li>
-    <li><a href="{{ site.baseurl }}/efemerides/aviacion-evento/1923/01/17/autogiro-c-4-vuelo-controlado.html">Primer vuelo controlado del autogiro Cierva C.4</a></li>
-    <li><a href="{{ site.baseurl }}/efemerides/aviacion-evento/1923/01/31/primer-circuito-cerrado-autogiro-c-4.html">Primer circuito cerrado del autogiro Cierva C.4</a></li>
+    <li><a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1923/01/09/primer-salto-autogiro-c-4-getafe.html">Primer salto exitoso del autogiro Cierva C.4</a></li>
+    <li><a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1923/01/17/autogiro-c-4-vuelo-controlado.html">Primer vuelo controlado del autogiro Cierva C.4</a></li>
+    <li><a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1923/01/31/primer-circuito-cerrado-autogiro-c-4.html">Primer circuito cerrado del autogiro Cierva C.4</a></li>
   </ul>
 </div>
 
