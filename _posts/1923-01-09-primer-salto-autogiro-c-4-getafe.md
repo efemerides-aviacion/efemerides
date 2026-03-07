@@ -8,6 +8,7 @@ pais: España
 operator: Juan de la Cierva
 excerpt: "El 9 de enero de 1923, el autogiro C.4 realizó su primer salto exitoso en Getafe, marcando el inicio de una serie de pruebas que culminarían en el primer vuelo controlado y el circuito cerrado."
 image: 1923-01-09-primer-salto-autogiro-c-4-getafe.jpg
+permalink: /efemerides/aviacion-evento/1923/01/09/primer-salto-autogiro-c-4-getafe/
 ---
 
 <figure>
@@ -60,12 +61,12 @@ El salto inicial del 9 de enero fue el punto de partida de una serie de pruebas 
 <hr style="margin: 2rem 0; border: none; height: 1px; background: linear-gradient(to right, #1a237e, #283593);" />
 
 <div class="related-box">
-	<p><strong>Secuencia de hitos del autogiro Cierva C.4 en enero de 1923:</strong></p>
-	<ul>
-		<li><a href="{{ site.baseurl }}/efemerides/aviacion-evento/1923/01/09/primer-salto-autogiro-c-4-getafe.html">9 de enero – Primer salto exitoso en Getafe</a></li>
-		<li><a href="{{ site.baseurl }}/efemerides/aviacion-evento/1923/01/17/autogiro-c-4-vuelo-controlado.html">17 de enero – Primer vuelo controlado con trayectorias rectas</a></li>
-		<li><a href="{{ site.baseurl }}/efemerides/aviacion-evento/1923/01/31/primer-circuito-cerrado-autogiro-c-4.html">31 de enero – Primer circuito cerrado en Cuatro Vientos</a></li>
-	</ul>
+  <p><strong>Secuencia de hitos del autogiro Cierva C.4 en enero de 1923:</strong></p>
+  <ul>
+    <li><a href="{{ site.baseurl }}/efemerides/aviacion-evento/1923/01/09/primer-salto-autogiro-c-4-getafe.html">Primer salto exitoso del autogiro Cierva C.4</a></li>
+    <li><a href="{{ site.baseurl }}/efemerides/aviacion-evento/1923/01/17/autogiro-c-4-vuelo-controlado.html">Primer vuelo controlado del autogiro Cierva C.4</a></li>
+    <li><a href="{{ site.baseurl }}/efemerides/aviacion-evento/1923/01/31/primer-circuito-cerrado-autogiro-c-4.html">Primer circuito cerrado del autogiro Cierva C.4</a></li>
+  </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
