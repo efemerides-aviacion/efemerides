@@ -5,7 +5,7 @@ date: 1923-01-17
 categories: [aviacion-evento]
 author: Enrique Pomares
 pais: España
-operator: Juan de la Cierva
+operator: Juan de la Cierva | Alejandro Gómez Spencer
 excerpt: "El 17 de enero de 1923, el teniente Alejandro Gómez Spencer realizó el primer vuelo controlado del autogiro Cierva C.4 en Getafe, consolidando la validez del invento."
 image: 1923-01-17-autogiro-c-4-vuelo-controlado.jpg
 ---
