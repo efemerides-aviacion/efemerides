@@ -48,7 +48,7 @@ El éxito del C.4 situó a España en la vanguardia de la aviación mundial.
 ### Desarrollo cronológico
 - **1920–1922:** Fracasos de los prototipos C.1, C.2 y C.3.  
 - **1922:** De la Cierva concibe la solución de las bisagras en el rotor.  
-- **9/17 ene 1923:** Primeros vuelos exitosos en Getafe → [Ver efeméride](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1923/01/09/autogiro_c-4_juan_de_la_cierva.html)  
+- **9/17 ene 1923:** Primeros vuelos exitosos en Getafe   
 - **20 ene 1923:** Demostración de seguridad con fallo de motor y aterrizaje controlado.  
 - **22 ene 1923:** Exhibición ante autoridades militares y civiles.  
 - **31 ene 1923:** Primer circuito cerrado exitoso en Cuatro Vientos.  
