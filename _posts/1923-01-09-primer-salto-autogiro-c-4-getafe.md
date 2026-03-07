@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: España
 operator: Juan de la Cierva
 excerpt: "El 9 de enero de 1923, el autogiro C.4 realizó su primer salto exitoso en Getafe, marcando el inicio de una serie de pruebas que culminarían en el primer vuelo controlado y el circuito cerrado."
-image: 1923-01-09-primer-salto-autogiro-c-4.jpg
+image: 1923-01-09-primer-salto-autogiro-c-4-getafe.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1923-01-23-primer-salto-autogiro-c-4.jpg" alt="Primer salto del autogiro C.4 en Getafe">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1923-01-09-primer-salto-autogiro-c-4-getafe.jpg" alt="Primer salto del autogiro C.4 en Getafe">
   <figcaption class="post-caption">El autogiro Cierva C.4 durante las pruebas iniciales en Getafe, 9 de enero de 1923. Fuente: ACAMI / Musée de l’Air et de l’Espace.</figcaption>
 </figure>
 
