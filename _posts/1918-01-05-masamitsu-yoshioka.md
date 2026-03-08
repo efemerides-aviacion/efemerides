@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 5 de enero de 1918 | Biografía | Masamitsu Yoshioka"
+title: "Efemérides de Aviación | 5 de enero de 1918 | Masamitsu Yoshioka"
 date: 1918-01-05
-categories: [aviacion-biografia]
+categories: [aviacion-nacimiento]
 author: [Enrique Pomares]
 pais: [Japón]
 excerpt: "Navegante del torpedero Nakajima B5N 'Kate' desde el portaaviones Sōryū en Pearl Harbor; último superviviente japonés del ataque (1918–2024)."
-image: masamitsu_oshioka-1918.jpg
+image: 1918-01-05-masamitsu-yoshioka.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/masamitsu_oshioka-1918.jpg" alt="Masamitsu Yoshioka">
-  <figcaption class="post-caption">Masamitsu Yoshioka (1918–2024), navegante del torpedero Nakajima B5N “Kate” durante el ataque japonés a Pearl Harbor el 7 de diciembre de 1941, embarcado en el portaaviones Sōryū.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1918-01-05-masamitsu-yoshioka.jpg" alt="Masamitsu Yoshioka">
+  <figcaption class="post-caption">Masamitsu Yoshioka, navegante y bombardero de un torpedero Nakajima B5N2 “Kate” de la Armada Imperial Japonesa que participó en el ataque a Pearl Harbor, fotografiado durante la Segunda Guerra Mundial. Infobae / Sandglass Patrol / El Debate.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
