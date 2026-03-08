@@ -27,7 +27,7 @@ image: 1959-03-10-primer-vuelo-northrop-t-38.jpg
 - **Lugar:** Fábrica de Northrop en Hawthorne, California (vuelo inicial) / Base Aérea Edwards, California (pruebas)
 - **Protagonistas:** Piloto de pruebas Lew Nelson (Northrop); diseñador Edgar Schmued; Fuerza Aérea de los Estados Unidos
 - **Aeronave/empresa involucrada:** Northrop Corporation / Prototipo YT-38 (designación de fábrica N-156T), matrícula USAF 58-1191
-- **Resultado inmediato:** [VERIFICADO] Éxito del vuelo inaugural, validando el diseño del primer entrenador supersónico del mundo
+- **Resultado inmediato:**  Éxito del vuelo inaugural, validando el diseño del primer entrenador supersónico del mundo
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
@@ -45,14 +45,14 @@ En el ámbito aeronáutico, existía una cultura de innovación donde las compa�
 
 ### Desarrollo Cronológico
 
-- **1954:** [VERIFICADO] Northrop inicia de forma privada el desarrollo del proyecto N-156, un caza ligero bimotor originalmente concebido para operar desde portaaviones de escolta. El equipo de diseño está liderado por Edgar Schmued, famoso por haber diseñado el North American P-51 Mustang.
+- **1954:**  Northrop inicia de forma privada el desarrollo del proyecto N-156, un caza ligero bimotor originalmente concebido para operar desde portaaviones de escolta. El equipo de diseño está liderado por Edgar Schmued, famoso por haber diseñado el North American P-51 Mustang.
 - **1955:** La Armada de los Estados Unidos pierde interés en el concepto de portaaviones de escolta, lo que obliga a Northrop a reorientar el proyecto.
-- **1956:** La Fuerza Aérea de los Estados Unidos emite un requerimiento (GSOR-49) para un entrenador supersónico que reemplace a los Lockheed T-33. [VERIFICADO] En junio, Northrop presenta su diseño N-156T, compitiendo contra una versión biplaza del North American F-100 Super Sabre. A pesar de que North American era la favorita, Northrop gana el contrato gracias a los menores costos de ciclo de vida estimados.
+- **1956:** La Fuerza Aérea de los Estados Unidos emite un requerimiento (GSOR-49) para un entrenador supersónico que reemplace a los Lockheed T-33.  En junio, Northrop presenta su diseño N-156T, compitiendo contra una versión biplaza del North American F-100 Super Sabre. A pesar de que North American era la favorita, Northrop gana el contrato gracias a los menores costos de ciclo de vida estimados.
 - **1959:** Se construyen tres prototipos YT-38 (números de serie 58-1191, 58-1192 y 58-1193).
 - **10 de marzo de 1959:** [VERIFICADO con discrepancia] El primer prototipo, YT-38 s/n 58-1191, realiza su vuelo inaugural desde la fábrica de Northrop en Hawthorne, California, pilotado por el jefe de pilotos de pruebas Lew Nelson. El vuelo tiene una duración aproximada de una hora y traslada el avión a la Base Aérea Edwards para continuar las pruebas.
 - **Abril de 1959:** Algunas fuentes (incluyendo la Super Sabre Society y la Wikipedia actual) sitúan el primer vuelo en esta fecha, posiblemente confundiendo el vuelo inaugural con la aceptación formal del prototipo por parte de la USAF.
-- **1961:** [VERIFICADO] Comienza la producción en serie del T-38A. La USAF realiza los primeros pedidos en firme.
-- **1962:** [VERIFICADO] El T-38 establece récords mundiales absolutos de tiempo de ascenso a 3.000, 6.000, 9.000 y 12.000 metros, superando las marcas del F-104 Starfighter y demostrando su excepcional relación empuje-peso.
+- **1961:**  Comienza la producción en serie del T-38A. La USAF realiza los primeros pedidos en firme.
+- **1962:**  El T-38 establece récords mundiales absolutos de tiempo de ascenso a 3.000, 6.000, 9.000 y 12.000 metros, superando las marcas del F-104 Starfighter y demostrando su excepcional relación empuje-peso.
 
 ### Consecuencias e Impacto
 
@@ -67,10 +67,10 @@ El éxito del T-38 Talon tuvo múltiples consecuencias de largo alcance:
 
 El T-38 Talon ostenta varios títulos que aseguran su lugar en la historia:
 
-- **Primer entrenador supersónico del mundo** [VERIFICADO]
-- **Entrenador más producido de la era supersónica:** 1.187 unidades (o 1.189 incluyendo prototipos) [VERIFICADO]
-- **Más de 50.000 pilotos formados:** La mayoría de los pilotos de la USAF y prácticamente todos los astronautas de la NASA desde los años 60 han entrenado en T-38 [VERIFICADO]
-- **La NASA lo utiliza desde 1961:** Ininterrumpidamente como entrenador de astronautas, avión de persecución y enlace [VERIFICADO]
+- **Primer entrenador supersónico del mundo** 
+- **Entrenador más producido de la era supersónica:** 1.187 unidades (o 1.189 incluyendo prototipos) 
+- **Más de 72,000 pilotos formados:** La mayoría de los pilotos de la USAF y prácticamente todos los astronautas de la NASA desde los años 60 han entrenado en T-38. Según <a href="https://www.northropgrumman.com/what-we-do/air/t-38-talon/" style="text-decoration: none; color: inherit;">Northrop Grumman</a>, esta cifra corresponde a pilotos de la Fuerza Aérea de los EE.UU. [Actualización 2026] 
+- **La NASA lo utiliza desde 1961:** Ininterrumpidamente como entrenador de astronautas, avión de persecución y enlace 
 
 En la actualidad, el T-38 está siendo reemplazado gradualmente por el Boeing-Saab T-7 Red Hawk. El programa T-7A sufrió retrasos técnicos que pospusieron su entrada en servicio, pero la USAF recibió sus primeros cinco aviones operativos en enero de 2026. Se espera que alcance su Capacidad Operativa Inicial (IOC) en 2027 y que los primeros pilotos comiencen su entrenamiento en el nuevo reactor en 2028, reemplazando definitivamente al T-38 en las próximas décadas.
 
