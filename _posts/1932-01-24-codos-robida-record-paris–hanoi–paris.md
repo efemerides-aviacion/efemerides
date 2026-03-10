@@ -5,7 +5,7 @@ date: 1932-01-24
 categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Francia
-operator: —
+operator: Paul Codos / Henri Robida
 excerpt: "Paul Codos y Henri Robida lograron un récord de velocidad en la ruta París–Hanoi–París con un Bréguet 330."
 image: 1932-01-24-codos-robida-record-paris–hanoi–paris.jpg
 ---
