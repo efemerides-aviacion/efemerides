@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 5 de febrero de 1929 | Récord | Hawks y Grubb establecen récord transcontinental en Lockheed Air Express"
+title: "Efemérides de Aviación | 5 de febrero de 1929 | Récord transcontinental de Frank Hawks y Oscar Grubb"
 date: 1929-02-05
-categories: [aviacion-records]
+categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Lockheed Aircraft / Texaco
 excerpt: "Frank Hawks y Oscar Grubb establecieron el 4-5 de febrero de 1929 un nuevo récord transcontinental de Los Ángeles a Nueva York en un Lockheed Air Express NR7955, patrocinado por Texaco."
-image: 1929-02-05-grubb-hawks-lockheed-model-3-air-express.jpg
+image: 1929-02-05-hawks-grubb-record-transcontinental.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1929-02-05-grubb-hawks-lockheed-model-3-air-express.jpg" alt="Frank Hawks y Oscar Grubb con el Lockheed Air Express">
-  <figcaption class="post-caption">Izquierda: Oscar E. Grubb y Frank Monroe Hawks antes del récord transcontinental en el Lockheed Air Express NR7955 (4-5 feb 1929). Derecha: aeronave fotografiada el 1 feb 1929.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1929-02-05-hawks-grubb-record-transcontinental.jpg" alt="Frank Hawks y Oscar Grubb con el Lockheed Air Express">
+  <figcaption class="post-caption">Lockheed Air Express NR7955 de Frank Hawks, patrocinado por Texaco, usado en el vuelo récord transcontinental Los Ángeles–Nueva York del 4-5 de febrero de 1929, con Oscar E. Grubb como acompañante. This Day in Aviation.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
