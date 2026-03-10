@@ -6,7 +6,7 @@ categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Fuerza Aérea de los Estados Unidos (USAF)
-excerpt: "El 10 de marzo de 1959, el prototipo YT-38 realizó su vuelo inaugural, convirtiendo al Northrop T-38 Talon en el primer entrenador supersónico del mundo. Diseñado a partir del proyecto privado N-156, ha entrenado a más de 50,000 pilotos en seis décadas de servicio."
+excerpt: "El 10 de marzo de 1959, el prototipo YT-38 realizó su vuelo inaugural, convirtiendo al Northrop T-38 Talon en el primer entrenador supersónico del mundo. Diseñado a partir del proyecto privado N-156, ha entrenado a más de 80.000 pilotos en seis décadas de servicio."
 image: 1959-03-10-primer-vuelo-northrop-t-38.jpg
 ---
 
@@ -18,7 +18,7 @@ image: 1959-03-10-primer-vuelo-northrop-t-38.jpg
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 10 de marzo de 1959, el prototipo YT-38 realizó el primer vuelo del Northrop T-38 Talon, convirtiéndose en el primer entrenador supersónico del mundo. Desarrollado a partir del proyecto privado N-156, su diseño innovador y bajo costo de ciclo de vida convencieron a la USAF, que lo adoptó en 1961. Con más de 1.180 unidades producidas, ha entrenado a más de 50.000 pilotos militares y astronautas de la NASA durante más de seis décadas, estableciendo récords de ascenso y ganándose el apodo de "White Rocket". Su longevidad y éxito lo consolidan como un hito fundamental en la historia de la aviación y, actualmente, está en proceso de relevo por el T-7 Red Hawk.</p>
+<p>El 10 de marzo de 1959, el prototipo YT-38 realizó el primer vuelo del Northrop T-38 Talon, convirtiéndose en el primer entrenador supersónico del mundo. Desarrollado a partir del proyecto privado N-156, su diseño innovador y bajo costo de ciclo de vida convencieron a la USAF, que lo adoptó en 1961. Con más de 1.180 unidades producidas, ha entrenado a más de 80.000 pilotos militares y astronautas de la NASA durante más de seis décadas, estableciendo récords de ascenso y ganándose el apodo de "White Rocket". Su longevidad y éxito lo consolidan como un hito fundamental en la historia de la aviación y, actualmente, está en proceso de relevo por el T-7 Red Hawk.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
@@ -69,7 +69,7 @@ El T-38 Talon ostenta varios títulos que aseguran su lugar en la historia:
 
 - **Primer entrenador supersónico del mundo**
 - **Entrenador más producido de la era supersónica:** 1.187 unidades
-- **Más de 80,000 pilotos formados:** Durante la celebración de su 60 aniversario en 2019, diversas publicaciones especializadas reportaron que el T-38 había entrenado a 80,000 pilotos a lo largo de su historia . Esta cifra incluye a la mayoría de los pilotos de la USAF, prácticamente todos los astronautas de la NASA, y los graduados del programa conjunto de la OTAN (ENJJPT) y fuerzas aéreas aliadas como Alemania, Turquía, Portugal y Taiwán .
+- **Más de 80.000 pilotos formados:** Durante la celebración de su 60 aniversario en 2019, diversas publicaciones especializadas reportaron que el T-38 había entrenado a 80,000 pilotos a lo largo de su historia . Esta cifra incluye a la mayoría de los pilotos de la USAF, prácticamente todos los astronautas de la NASA, y los graduados del programa conjunto de la OTAN (ENJJPT) y fuerzas aéreas aliadas como Alemania, Turquía, Portugal y Taiwán .
 - **La NASA lo utiliza desde 1961:** Ininterrumpidamente como entrenador de astronautas, avión de persecución y enlace
 
 ### Actualidad y relevo
