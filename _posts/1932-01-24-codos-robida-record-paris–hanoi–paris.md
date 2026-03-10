@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 24 de enero de 1932 | Evento | Récord París–Hanoi–París de Codos y Robida"
+title: "Efemérides de Aviación | 24 de enero de 1932 | Récord París–Hanoi–París de Codos y Robida"
 date: 1932-01-24
 categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Francia
 operator: —
 excerpt: "Paul Codos y Henri Robida lograron un récord de velocidad en la ruta París–Hanoi–París con un Bréguet 330."
-image: 1932-01-24-paul_codos_y_henri_robida_record_velocidad.jpg
+image: 1932-01-24-codos-robida-record-paris–hanoi–paris.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1932-01-24-paul_codos_y_henri_robida_record_velocidad.jpg" alt="Paul Codos y Henri Robida tras récord París–Hanoi–París">
-  <figcaption class="post-caption">Paul Codos (izq.) y Henri Robida (der.), al regreso del Bréguet Bre.330 F‑AKEZ en Le Bourget tras batir el récord de velocidad Hanoi–París (3 días 4 h 17 min), 24 de enero de 1932.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/11932-01-24-codos-robida-record-paris–hanoi–paris.jpg" alt="Paul Codos y Henri Robida tras récord París–Hanoi–París">
+  <figcaption class="post-caption">Composición con Paul Codos y Henri Robida ante su Bréguet Bre.330 F-AKEZ, protagonista del raid París–Hanoï–París culminado el 24 de enero de 1932 con un récord de velocidad en el vuelo de regreso. Composición del autor sobre imágenes reproducidas por This Day in Aviation</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
 
