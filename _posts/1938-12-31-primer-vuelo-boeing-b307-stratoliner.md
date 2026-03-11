@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 31 de diciembre de 1938 | Evento | Primer vuelo del Boeing B-307 Stratoliner (C-75)"
+title: "Efemérides de Aviación | 31 de diciembre de 1938 | Primer vuelo del Boeing B-307 Stratoliner (C-75)"
 date: 1938-12-31
 categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Estados Unidos (USA)
 operator: Boeing
 excerpt: "El Boeing B-307 Stratoliner, primer avión comercial presurizado del mundo, realizó su vuelo inaugural el 31 de diciembre de 1938 en Seattle, marcando un hito en la aviación civil y militar."
+image: 1938-12-31-primer-vuelo-boeing-b307-stratoliner.jpg
 ---
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/usaaf_Boeing_C-75_Stratoliner_42-88624_Comanche.jpg" alt="Boeing C-75 Stratoliner 42-88624 Commanche">
-  <figcaption class="post-caption">Boeing C-75 Stratoliner 42-88624 "Commanche" USAAF, versión militar del 307 presurizado. Imagen: Wikimedia Commons / Dominio público</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1938-12-31-primer-vuelo-boeing-b307-stratoliner.jpg" alt="Boeing C-75 Stratoliner 42-88624 Commanche">
+  <figcaption class="post-caption">Boeing 307 Stratoliner prototipo (NX19901) en tierra durante pruebas previas a su presentación oficial el 31 de diciembre de 1938. Fotografía de archivo Boeing, publicada en Simple Flying (2023).</figcaption>
 </figure>
 
 ## Resumen ejecutivo
