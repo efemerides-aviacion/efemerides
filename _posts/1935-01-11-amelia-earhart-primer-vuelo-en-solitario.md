@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 11 de enero de 1935 | Evento | Primer vuelo en solitario de Amelia Earhart de Hawái a California"
+title: "Efemérides de Aviación | 11 de enero de 1935 | Primer vuelo en solitario de Amelia Earhart de Hawái a California"
 date: 1935-01-11
 categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Estados Unidos
-operator: Civil
+operator: Amelia Earhart
 excerpt: "Amelia Earhart se convierte en la primera persona en volar en solitario desde Honolulu, Hawái, hasta Oakland, California, superando desafíos climáticos y técnicos."
-image: "1935-01-11-amelia_earhart_llegada_a_oakland.jpg"
+image: "1935-01-11-amelia-earhart-primer-vuelo-en-solitario.jpg"
 ---
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1935-01-11-amelia_earhart_llegada_a_oakland.jpg" alt="Amelia Earhart llegada a Oakland">
-  <figcaption class="post-caption">Una multitud de espectadores recibe a Amelia Earhart a su llegada a Oakland, California, procedente de Hawái, el 12 de enero de 1935.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1935-01-11-amelia-earhart-primer-vuelo-en-solitario.jpg" alt="Amelia Earhart llegada a Oakland">
+  <figcaption class="post-caption">Amelia Earhart es recibida con una lluvia de flores tras aterrizar en Oakland, California, en enero de 1935. Fue la primera persona en volar con éxito desde Hawái a California. Fotografía de Time & Life Pictures vía Getty (National Geographic).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 <div class="highlight-box">
