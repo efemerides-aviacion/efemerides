@@ -41,17 +41,18 @@ Tanto en Chile como en Argentina, los deportes extremos comenzaban a ganar adept
 Las alas delta de la época evolucionaban rápidamente, con diseños más seguros y eficientes aerodinámicamente, pero aún muy dependientes de las condiciones meteorológicas y de la pericia del piloto. Los equipos de comunicación y navegación eran básicos, lo que hacía que travesías como el cruce de los Andes implicaran un riesgo considerable.
 
 ### Entorno cultural
-En Chile, el aladeltismo comenzaba a tener cierto reconocimiento público gracias a figuras como Basilio Impellizzeri, que combinaba su faceta de piloto con la de divulgador a través de sus escritos en revistas especializadas .
+En Chile, el aladeltismo comenzaba a tener cierto reconocimiento público gracias a figuras como Basilio Impellizzeri, que combinaba su faceta de piloto con la de divulgador a través de sus escritos en revistas especializadas.
 
 ### Desarrollo Cronológico
 
-- **12 de febrero de 1935:** Nace Basilio Moisés Impellizzeri Nicito en El Bermejo, Guaymallén, provincia de Mendoza, Argentina .
-- **1978:** Impellizzeri se radica en Chile, país donde más tarde obtendría la nacionalidad chilena .
-- **1980:** Descubre el aladeltismo en Chile, actividad que cambiaría completamente su vida y a la que se dedicaría con pasión durante años .
-- **13 de marzo de 1988:** Logra el primer cruce de la cordillera de los Andes en ala delta, partiendo desde Chile y finalizando en Argentina. Durante este vuelo establece además un récord chileno de permanencia en el aire, con 11 horas y 5 minutos de duración .
+- **12 de febrero de 1935:** Nace Basilio Moisés Impellizzeri Nicito en El Bermejo, Guaymallén, provincia de Mendoza, Argentina.
+- **1978:** Impellizzeri se radica en Chile, país donde más tarde obtendría la nacionalidad chilena.
+- **1980:** Descubre el aladeltismo en Chile, actividad que cambiaría completamente su vida y a la que se dedicaría con pasión durante años.
+- **13 de marzo de 1988:** Logra el primer cruce de la cordillera de los Andes en ala delta, partiendo desde Chile y finalizando en Argentina. Durante este vuelo establece además un récord chileno de permanencia en el aire, con 11 horas y 5 minutos de duración.
 - **1988:** Publica su libro pionero "Volar es fascinante, ¡Atrévete!", convirtiéndose en uno de los primeros autores en abordar la temática del aladeltismo en la región .
-- **Décadas de 1980-2000:** Colabora durante 20 años con la revista "Chile Aéreo" y escribe para la revista "Vuelo Libre" de Argentina, así como para publicaciones de la Dirección General de Aeronáutica de Chile .
-- **31 de diciembre de 1994:** Logra otro de sus desafíos personales: comenzar un año volando, objetivo que consigue tras cuatro intentos previos .
+- **Décadas de 1980-2000:** Colabora durante 20 años con la revista "Chile Aéreo" y escribe para la revista "Vuelo Libre" de Argentina, así como para publicaciones de la Dirección General de Aeronáutica de Chile.
+- **31 de diciembre de 1994:** Logra otro de sus desafíos personales: comenzar un año volando, objetivo que consigue tras cuatro intentos previos.
+- **Alrededor de 2010:** Redacta su blog personal "Aladeltismo Chileno", donde a los 75 años expresa el deseo de publicar sus memorias y relatos. Tras esa fecha, no se han encontrado registros públicos que permitan confirmar su estado vital.
 
 ### Consecuencias e Impacto
 
