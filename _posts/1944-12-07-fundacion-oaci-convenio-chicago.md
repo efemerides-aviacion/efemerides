@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 7 de diciembre de 1944 | Creación de la OACI mediante el Convenio de Chicago"
+title: "Efemérides de Aviación | 7 de diciembre de 1944 | Fundación de la OACI mediante el Convenio de Chicago"
 date: 1944-12-07
-categories: [derecho-aeronautico]
+categories: [aviacion-fundacion]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Organización de Aviación Civil Internacional (OACI)
 excerpt: "El 7 de diciembre de 1944, 52 naciones firmaron en Chicago el Convenio sobre Aviación Civil Internacional, creando la base legal de la aviación moderna y dando origen a la OACI."
-image: 1944-12-07-creacion-oaci-convenio-chicago.jpg
+image: 1944-12-07-fundacion-oaci-convenio-chicago.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-12-07-creacion-oaci-convenio-chicago.jpg" alt="Fachada de sede la la OACI en Montreal">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-12-07-fundacion-oaci-convenio-chicago.jpg" alt="Fachada de sede la la OACI en Montreal">
   <figcaption class="post-caption">Fachada de la sede de la OACI (Organización de Aviación Civil Internacional) en Montreal.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
