@@ -12,7 +12,7 @@ image: 1944-01-08-primer-vuelo-lockheed-p80.jpg
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-01-08-primer-vuelo-lockheed-p80.jpg" alt="Lockheed P-80 Shooting Star en su primer vuelo">
-  <figcaption class="post-caption"> prototipo XP-80 Shooting Star "Lulu-Belle" (44-83020) de Lockheed en vuelo durante pruebas (8 de enero de 1944), mostrando su diseño de caza a reacción con alas trapezoidales y motor Halford H.1, primer jet operacional del USAAF. Vintage Aviation News / National Air and Space Museum. 
+  <figcaption class="post-caption"> El prototipo XP-80 Shooting Star "Lulu-Belle" (44-83020) de Lockheed en vuelo durante pruebas (8 de enero de 1944), mostrando su diseño de caza a reacción con alas trapezoidales y motor Halford H.1, primer jet operacional del USAAF. Vintage Aviation News / National Air and Space Museum. 
 </figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
