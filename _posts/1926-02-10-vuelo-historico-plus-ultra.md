@@ -2,17 +2,17 @@
 layout: post
 title: "Efemérides de Aviación | 10 de febrero de 1926 | Vuelo histórico del hidroavión Plus Ultra"
 date: 1926-02-10
-categories: [aviacion-historica]
+categories: [aviacion-evento]
 author: Enrique Pomares
 pais: España / Argentina
 operator: Aeronáutica Militar Española
 excerpt: "El 10 de febrero de 1926 el hidroavión Dornier Do J Wal Plus Ultra amerizó en Buenos Aires, completando el primer vuelo trasatlántico entre España y Sudamérica."
-image: 1926-02-10-avion-plus-ultra-vuelo-historico.jpg
+image: 1926-02-10-vuelo-historico-plus-ultra.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1926-02-10-avion-plus-ultra-vuelo-historico.jpg" alt="El Plus Ultra tras amerizar en Buenos Aires">
-  <figcaption class="post-caption">El Plus Ultra tras amerizar en el Río de la Plata el 10 de febrero de 1926.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1926-02-10-vuelo-historico-plus-ultra.jpg" alt="El Plus Ultra tras amerizar en Buenos Aires">
+  <figcaption class="post-caption">Vista aérea del hidroavión Dornier Do J Wal "Plus Ultra" (M-MWAL) amerizando en el Río de la Plata, Buenos Aires, rodeado de canoas locales el 10 de febrero de 1926, culminando el primer vuelo trasatlántico España-Sudamérica. Museo del Aire y prensa periodística</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
