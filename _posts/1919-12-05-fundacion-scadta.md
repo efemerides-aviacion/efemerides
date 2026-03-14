@@ -2,12 +2,12 @@
 layout: post
 title: "Efemérides de Aviación | 5 de diciembre de 1919 | Fundación de SCADTA, precursora de Avianca"
 date: 1919-12-05
-categories: [aviacion-comercial]
+categories: [aviacion-fundacion]
 author: Enrique Pomares
 pais: Colombia
 operator: SCADTA (Sociedad Colombo Alemana de Transportes Aéreos)
 excerpt: "El 5 de diciembre de 1919 se fundó en Barranquilla la Sociedad Colombo Alemana de Transportes Aéreos (SCADTA), precursora de Avianca y segunda aerolínea más antigua del mundo en operación continua."
-image: 1919-12-05-fundacion-scadta-junkers.jpg
+image: 1919-12-05-fundacion-scadta.jpg
 ---
 
 <figure>
