@@ -1,16 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 30 de diciembre de 1934 | Evento | Primer vuelo del Martin M-130"
+title: "Efemérides de Aviación | 30 de diciembre de 1934 |Primer vuelo del Martin M-130"
 date: 1934-12-30
 categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Estados Unidos
+operator: Pan American Airways
 excerpt: "El Martin M-130, hidroavión diseñado para Pan American Airways, realizó su primer vuelo el 30 de diciembre de 1934 en Middle River, Maryland."
+image: 1934-12-30-primer-vuelo-martin-m130.jpg
 ---
-
+ 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/China_Clipper_over_San_Francisco.jpg" alt="Martin M-130 China Clipper">
-  <figcaption class="post-caption">El Martin M-130, conocido como China Clipper, sobre San Francisco (USA).</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1934-12-30-primer-vuelo-martin-m130.jpg" alt="Martin M-130 China Clipper">
+  <figcaption class="post-caption">El hidroavión Martin M-130 China Clipper (NC14716) de Pan American Airways sobrevolando la bahía de San Francisco con el skyline y el puente en construcción al fondo, c. 1936. Glenn L. Martin Company / Pan Am Historical Foundation, vía Library of Congress</figcaption>
 </figure>
 
 <hr style="margin:2rem 0; border:none; height:2px; background:linear-gradient(to right,#1a237e,#283593);">
