@@ -2,16 +2,16 @@
 layout: post
 title: "Efemérides de Aviación | 13 de diciembre de 1944 | Amerizaje forzoso del B-29 'Dat's My Boy'"
 date: 1944-12-13
-categories: [accidentes-aéreos]
+categories: [aviacion-accidente]
 author: Enrique Pomares
 pais: Estados Unidos / Japón
 operator: USAAF – 499th Bomb Group, 73rd Wing
 excerpt: "El 13 de diciembre de 1944, el B-29 'Dat's My Boy' se quedó sin combustible tras un ataque sobre Japón y realizó un amerizaje forzoso en el Pacífico. Los once tripulantes sobrevivieron y fueron rescatados por el USS Cummings."
-image: 1944-12-13-b29-dats-my-boy-amerizaje.jpg
+image: 1944-12-13-amerizaje-forzoso-b-29.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-12-13-b29-dats-my-boy-amerizaje.jpg" alt="B-29 'Dat's My Boy' flotando tras el amerizaje">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-12-13-amerizaje-forzoso-b-29.jpg" alt="B-29 'Dat's My Boy' flotando tras el amerizaje">
   <figcaption class="post-caption">El B-29 “Dat’s My Boy” flotando después del amerizaje forzoso en el Océano Pacífico, 13 de diciembre de 1944. (Fuente: National Archives / Mann, R.G.).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
