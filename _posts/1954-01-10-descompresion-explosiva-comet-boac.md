@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 10 de enero de 1954 | Accidente | Descompresión explosiva del De Havilland Comet de BOAC"
+title: "Efemérides de Aviación | 10 de enero de 1954 | Descompresión explosiva del De Havilland Comet de BOAC"
 date: 1954-01-10
-categories: [accidentes-aereos]
+categories: [aviacion-accidente]
 author: [Enrique Pomares]
 pais: Italia / Reino Unido
 operator: BOAC
 excerpt: "Accidente del De Havilland Comet en ruta Roma–Londres por descompresión explosiva debida a fatiga estructural en zonas críticas del fuselaje."
-image: 1954-01-10-comet_boac_accidente.jpg
+image: 1954-01-10-descompresion-explosiva-comet-boac.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1954-01-10-comet_boac_accidente.jpg" alt="Accidente del Comet de BOAC en 1954">
-  <figcaption class="post-caption">La imagen muestra un diagrama esquemático de la secuencia de desintegración en vuelo del de Havilland Comet G-ALYP durante el accidente del vuelo 781 de BOAC el 10 de enero de 1954.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1954-01-10-descompresion-explosiva-comet-boac.jpg" alt="Accidente del Comet de BOAC en 1954">
+  <figcaption class="post-caption">Diagrama de descompresión explosiva del De Havilland Comet I (BOAC Vuelo 781): Muestra la falla por fatiga estructural en el fuselaje presurizado (ventanas ADF, largueros y costillas centrales), que provocó la ruptura en vuelo el 10 de enero de 1954 sobre el mar Tirreno, matando a 35 personas. Imagen editada por Gilberto Vallenilla (1200x675 px, textos en español vía IA). Fuente: https://www.reddit.com/r/CatastrophicFailure/comments/11uv40y/1954_the_story_of_the_de_havilland_comet_and_the/.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
