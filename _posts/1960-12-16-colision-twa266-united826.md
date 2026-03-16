@@ -2,7 +2,7 @@
 layout: post
 title: "Efemérides de Aviación | 16 de diciembre de 1960 | Colisión aérea entre TWA 266 y United Airlines 826"
 date: 1960-12-16
-categories: [accidentes-aéreos]
+categories: [aviacion-accidente]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Trans World Airlines / United Airlines
@@ -12,7 +12,7 @@ image: 1960-12-16-colision-twa266-united826.jpg
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1960-12-16-colision-twa266-united826.jpg" alt="Rutas de vuelo de TWA 266 y United 826 antes de la colisión">
-  <figcaption class="post-caption">Rutas de vuelo de las dos aeronaves involucradas en la colisión, el 16 de diciembre de 1960. En naranja la ruta del Vuelo 826 de United Airlines, y en amarillo la ruta del Vuelo 266 de TWA. (Fuente: Informe CAB/NTSB).</figcaption>
+  <figcaption class="post-caption">Rutas de vuelo de las dos aeronaves involucradas en la colisión, el 16 de diciembre de 1960. En naranja la ruta del Vuelo 826 de United Airlines, y en amarillo la ruta del Vuelo 266 de TWA. (Fuente: Informe CAB/NTSB). Traducida al español por quien publica.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
