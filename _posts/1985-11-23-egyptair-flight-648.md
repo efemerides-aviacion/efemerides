@@ -67,7 +67,10 @@ El secuestro del vuelo 648 de EgyptAir marcó un punto de inflexión en la perce
 - [BBC News – EgyptAir hijack remembered](https://www.bbc.com/news/world-middle-east-15892710)  
 - [Aviation Safety Network – Accident description EgyptAir Flight 648](https://aviation-safety.net/database/record.php?id=19851123-0)
 
-**Nota aclaratoria**: Aunque este hecho terminó con un accidente y fatalidades, su naturaleza corresponde a un incidente de seguridad en la aviación (secuestro/terrorismo), no a un accidente aeronáutico. Por ello, se clasifica en la categoría de aviacion-seguridad y no en “aviacion-accidente”.
+<div class="note-box">
+	<p><strong>Nota aclaratoria:</strong> Aunque este hecho terminó con un accidente y fatalidades, su naturaleza corresponde a un incidente de seguridad en la aviación (secuestro/terrorismo), no a un accidente aeronáutico. Por ello, se clasifica en la categoría de aviacion-seguridad y no en “aviacion-accidente”.</p>
+</div>
+
 ---
 
 ## Metadatos de control
