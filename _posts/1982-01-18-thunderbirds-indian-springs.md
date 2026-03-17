@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 18 de enero de 1982 | Accidente | Tragedia de los Thunderbirds en Indian Springs"
+title: "Efemérides de Aviación | 18 de enero de 1982 | Tragedia de los Thunderbirds en Indian Springs"
 date: 1982-01-18
-categories: [accidentes-aereos]
+categories: [aviacion-accidente]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: USAF Thunderbirds
 excerpt: "Cuatro Northrop T-38A Talon del equipo acrobático Thunderbirds se estrellaron en formación diamante durante un entrenamiento en Indian Springs, Nevada."
-image: 1982-01-18-t_38_talon_in_diamond_formation.jpeg
+image: 1982-01-18-thunderbirds-indian-springs.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1982-01-18-t_38_talon_in_diamond_formation.jpeg" alt="Formación diamante de los Thunderbirds en T-38A Talon">
-  <figcaption class="post-caption">Formación diamante de los Northrop T-38A Talon del equipo acrobático USAF “Thunderbirds” (líder #1, alas #2 y #3, slot #4) en vuelo durante una exhibición de los años setenta u ochenta, poco antes de la trágica colisión controlada en tierra del 18 de enero de 1982 en Indian Springs.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1982-01-18-thunderbirds-indian-springs.jpg" alt="Formación diamante de los Thunderbirds en T-38A Talon">
+  <figcaption class="post-caption">Formación diamante de los Northrop T-38A Talon del equipo acrobático USAF “Thunderbirds” (líder #1, alas #2 y #3, slot #4) en vuelo durante una exhibición de los años setenta u ochenta, antes de la trágica colisión controlada en tierra del 18 de enero de 1982 en Indian Springs Air Force Auxiliary Field, Nevada.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
