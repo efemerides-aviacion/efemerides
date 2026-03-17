@@ -2,16 +2,16 @@
 layout: post
 title: "Efemérides de Aviación | 23 de noviembre de 1985 | Secuestro del Vuelo 648 de EgyptAir"
 date: 1985-11-23
-categories: [secuestro-aeronave]
+categories: [aviacion-seguridad]
 author: Enrique Pomares
 pais: Egipto
 operator: EgyptAir
 excerpt: "El Boeing 737-200 de EgyptAir, vuelo 648, fue secuestrado por la Organización Abu Nidal en ruta Atenas–El Cairo, desencadenando una crisis internacional."
-image: egyptair_flight-648.jpg
+image: 1985-11-23-egyptair-flight-648.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/egyptair_flight-648.jpg" alt="Boeing 737-200 de EgyptAir involucrado en el secuestro del Vuelo 648">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1985-11-23-egyptair-flight-648.jpg" alt="Boeing 737-200 de EgyptAir involucrado en el secuestro del Vuelo 648">
   <figcaption class="post-caption">Boeing 737-200 de EgyptAir (matrícula SU-AYH), el avión involucrado en el secuestro del Vuelo 648 por la Organización Abu Nidal el 23 de noviembre de 1985 en ruta Atenas–El Cairo.</figcaption>
 </figure>
 
@@ -67,7 +67,7 @@ El secuestro del vuelo 648 de EgyptAir marcó un punto de inflexión en la perce
 - [BBC News – EgyptAir hijack remembered](https://www.bbc.com/news/world-middle-east-15892710)  
 - [Aviation Safety Network – Accident description EgyptAir Flight 648](https://aviation-safety.net/database/record.php?id=19851123-0)
 
-
+**Nota aclaratoria**: Aunque este hecho terminó con un accidente y fatalidades, su naturaleza corresponde a un incidente de seguridad en la aviación (secuestro/terrorismo), no a un accidente aeronáutico. Por ello, se clasifica en la categoría de aviacion-seguridad y no en “aviacion-accidente”.
 ---
 
 ## Metadatos de control
