@@ -4,8 +4,8 @@ title: "Efemérides de Aviación | 20 de marzo de 1949 | Primer vuelo solo de Ro
 date: 1949-03-20
 categories: [aviacion-evento]
 author: Enrique Pomares
-pais: Venezuela
-operator: Fuerza Aérea Venezolana
+pais: Venezuela / Inglaterra
+operator: FAV / RAF
 excerpt: "El 20 de marzo de 1949, el capitán Roberto José Mora Contreras realizó el primer vuelo en solitario de un piloto venezolano a bordo de un Gloster Meteor F.Mk.8 en Inglaterra, como parte de las evaluaciones previas a la adquisición de los primeros aviones a reacción para la Fuerza Aérea Venezolana."
 image: 1949-03-20-primer-vuelo-roberto-mora-globster-meteor.jpg
 ---
