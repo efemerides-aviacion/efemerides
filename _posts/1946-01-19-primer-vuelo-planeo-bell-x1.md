@@ -1,18 +1,19 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 19 de enero de 1946 | Evento | Primer vuelo en planeo del Bell XS‑1"
+title: "Efemérides de Aviación | 19 de enero de 1946 | Primer vuelo en planeo del Bell XS‑1"
 date: 1946-01-19
 categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: USAF / Bell Aircraft
 excerpt: "El Bell XS‑1 realizó su primer vuelo en planeo sin motor, lanzado desde un B‑29 sobre Pinecastle Army Airfield."
-image: 1946-01-19-bell_x-1_in_flight.jpg
+image: 1946-01-19-primer-vuelo-planeo-bell-x1.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1946-01-19-bell_x-1_in_flight.jpg" alt="Bell X-1 en vuelo">
-  <figcaption class="post-caption">Bell X‑1 (matrícula 46‑062, USAF) en vuelo propulsado con los cuatro motores cohete Reaction Motors XLR‑11 encendidos.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/11946-01-19-primer-vuelo-planeo-bell-x1.jpg" alt="Bell X-1 en vuelo">
+  <figcaption class="post-caption">Boeing B-29 Superfortress modificado para lanzamiento del Bell XS-1 (s/n 46-062), Pinecastle Army Air Field (Florida), enero 1946, previo al primer vuelo en planeo del 19 de enero pilotado por Jack Woolams. U.S. Army Air Forces/NACA, dominio público.
+</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
