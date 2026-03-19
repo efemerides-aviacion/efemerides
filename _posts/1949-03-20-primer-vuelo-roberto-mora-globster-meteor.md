@@ -69,7 +69,7 @@ La aviación era considerada una actividad de élite, símbolo de progreso y mod
 
 ### Legado
 
-El capitán Roberto José Mora Contreras es recordado como el primer piloto venezolano en volar un reactor y como uno de los pioneros de la modernización de la Fuerza Aérea Venezolana. Su nombre permanece vivo en la institución a través de la promoción de 1970 y en los anales de la historia aeronáutica nacional. Su temprana muerte, apenas cuatro meses después de su hazaña, no opacó el brillo de su contribución, y su ejemplo sigue siendo invocado como símbolo de entrega y amor por la aviación.
+El capitán Roberto José Mora Contreras es recordado como el primer piloto venezolano en volar un reactor y como uno de los pioneros de la modernización de la Fuerza Aérea Venezolana. Su nombre permanece vivo en la institución como epónimo de la promoción de oficiales de la FAV egresada en julio de 1970, y en los anales de la historia aeronáutica nacional. Su temprana muerte, apenas cuatro meses después de su hazaña, no opacó el brillo de su contribución, y su ejemplo sigue siendo invocado como símbolo de entrega y amor por la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
