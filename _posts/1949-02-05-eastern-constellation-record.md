@@ -2,17 +2,17 @@
 layout: post
 title: "Efemérides de Aviación | 5 de febrero de 1949 | Récord | Eastern Air Lines establece récord transcontinental en Lockheed Constellation L‑749A"
 date: 1949-02-05
-categories: [aviacion-records]
+categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Eastern Air Lines
 excerpt: "Eastern Air Lines estableció el 5 de febrero de 1949 un récord transcontinental Los Ángeles–Nueva York en 6 horas y 17 minutos con un Lockheed L‑749A Constellation."
-image: 1949-02-05-eastern-constellation-record.png
+image: 1949-02-05-eastern-constellation-record.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1949-02-05-eastern-constellation-record.png" alt="Lockheed L‑749A Constellation de Eastern Air Lines en vuelo">
-  <figcaption class="post-caption">Lockheed L‑749A Constellation N115A ‘The Great Silver Fleet’ de Eastern Air Lines en vuelo, del mismo modelo que estableció el récord transcontinental Los Ángeles–Nueva York el 5 de febrero de 1949 (6 h 17 min).</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1949-02-05-eastern-constellation-record.jpg" alt="Lockheed L‑749A Constellation de Eastern Air Lines en vuelo">
+  <figcaption class="post-caption">Eastern Air Lines Lockheed L-749A Constellation N115A, c/n 2610, "The Great Silver Fleet", en vuelo durante su récord transcontinental Los Ángeles–Nueva York (6h 17m 39s) establecido el 5 de febrero de 1949. Fuente: This Day in Aviation (https://www.thisdayinaviation.com/6-february-1949/).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
