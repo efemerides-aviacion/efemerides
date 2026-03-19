@@ -12,7 +12,8 @@ image: 1949-03-20-primer-vuelo-roberto-mora-globster-meteor.jpg
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1949-03-20-primer-vuelo-roberto-mora-globster-meteor.jpg" alt="Roberto Mora y Gloster Meteor">
-  <figcaption class="post-caption">Imagen compuesta del capitán Roberto José Mora Contreras en uniforme, superpuesto con un Gloster Meteor F.Mk.8 en vuelo; primer piloto venezolano en vuelo solo a reacción, 20/03/1949. Fuente: FAV-Club – Fuerza Aérea Venezolana.</figcaption>
+  <figcaption class="post-caption">Capitán Roberto Mora Contreras con directivos de Gloster Aircraft (Fitzgibbon, Corse y Teniente Waterson) ante Meteor, Gloucestershire, noviembre 1948. Archivo Arturo Soto / FAVClub (favclubven.wordpress.com).
+</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
