@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 19 y 20 de enero de 1951 | Evento | Vuelo histórico del Manutara a Isla de Pascua"
+title: "Efemérides de Aviación | 19 y 20 de enero de 1951 | Vuelo histórico del Manutara a Isla de Pascua"
 date: 1951-01-20
 categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Chile
 operator: Fuerza Aérea de Chile (FACh)
 excerpt: "El hidroavión anfibio Manutara realizó el primer vuelo histórico entre el continente y la Isla de Pascua."
-image: 1951-01-20-hidroavion_manutara_fach.jpg
+image: 1951-01-20-vuelo-manutara-isla-de-pascua.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1951-01-20-hidroavion_manutara_fach.jpg" alt="Consolidated PBY-5A Catalina Manutara">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1951-01-20-vuelo-manutara-isla-de-pascua.jpg" alt="Consolidated PBY-5A Catalina Manutara">
   <figcaption class="post-caption">El anfibio Consolidated PBY‑5A Catalina “Manutara” de la Fuerza Aérea de Chile sobrevuela a baja altura el aeródromo La Florida (La Serena) mientras una multitud lo despide antes de iniciar el histórico vuelo hacia Isla de Pascua, enero de 1951.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
