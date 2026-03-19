@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 27 de enero de 1951 | Nacimiento | Owen Guillermo Crippa"
+title: "Efemérides de Aviación | 27 de enero de 1951 | Owen Guillermo Crippa"
 date: 1951-01-27
-categories: [aviacion-historia]
+categories: [aviacion-nacimiento]
 author: [Enrique Pomares]
 pais: Argentina
 operator: Armada Argentina
 excerpt: "Owen Guillermo Crippa, piloto naval argentino, condecorado con la Cruz al Heroico Valor en Combate por su acción en Malvinas."
-image: 1951-01-27-crippa-junto-aermacchi-mb-339a.jpg
+image: 1951-01-27-owen-guillermo-crippa.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1951-01-27-crippa-junto-aermacchi-mb-339a.jpg" alt="Owen Crippa junto a su Aermacchi MB.339A">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1951-01-27-owen-guillermo-crippa.jpg" alt="Owen Crippa junto a su Aermacchi MB.339A">
   <figcaption class="post-caption">Teniente de navío, Owen Guillermo Crippa junto a su Aermacchi MB.339A 4‑A‑115, previo a su ataque solitario en Malvinas (21/05/1982).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
-
+ Wikimedia Commons / Wikipedia (es.wikipedia.org).
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El teniente de navío Owen Guillermo Crippa (n. 27/01/1951, Sarmiento, Santa Fe), piloto naval de la Armada Argentina, fue condecorado con la Cruz al Heroico Valor en Combate por su ataque solitario el 21/05/1982 en un Aermacchi MB.339AA (4‑A‑115) contra la flota británica en el Estrecho de San Carlos durante la Guerra de Malvinas.</p>
