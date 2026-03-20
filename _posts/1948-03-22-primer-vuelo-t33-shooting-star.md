@@ -12,7 +12,7 @@ image: 1948-03-22-primer-vuelo-t33-shooting-star.jpg
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1948-03-22-primer-vuelo-t33-shooting-star.jpg" alt="Lockheed T-33 Shooting Star">
-  <figcaption class="post-caption">Tony LeVier en la cabina del Lockheed TP-80C-1-LO, s/n 48-356, prototipo del entrenador bimotor T-33A Shooting Star de dos plazas. Fotografía de la revista Jet Pilot Overseas. Fuente: This Day in Aviation.</figcaption>
+  <figcaption class="post-caption">Prototipo Lockheed TP-80C-1-LO (48-356) junto a un P-80C-1-LO Shooting Star (47-173) en el Aeropuerto de Van Nuys, California, durante el desarrollo del entrenador biplaza derivado del P-80. Circa marzo de 1948. Fuente: This Day in Aviation.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
