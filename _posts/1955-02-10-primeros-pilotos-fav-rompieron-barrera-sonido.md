@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 10 de febrero de 1955 | Fuerza Aérea Venezolana | Primeros pilotos en romper la barrera del sonido"
+title: "Efemérides de Aviación | 10 de febrero de 1955 | Primeros pilotos militares venezolanos en romper la barrera del sonido"
 date: 1955-02-10
-categories: [aviacion-militar]
+categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Fuerza Aérea Venezolana / USAF
@@ -12,7 +12,7 @@ image: 1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.jpg
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.jpg" alt="Pilotos venezolanos reciben diploma tras romper la barrera del sonido">
-  <figcaption class="post-caption">En la foto, Donald Wolfe representante de North American, entrega a los jóvenes pilotos (de izq. a der.) Pascual Azara Azara, Leonidas Marquina Dugarte y Braulio Martínez Zerpa el diploma y el pin que los acredita como miembros del Club Supersónico.</figcaption>
+  <figcaption class="post-caption">En la foto, Donald Wolfe representante de North American, entrega a los jóvenes pilotos (de izq. a der.) Pascual Azara Azara, Leonidas Marquina Dugarte y Braulio Martínez Zerpa el diploma y el pin que los acredita como miembros del Club Supersónico. Fuente: https://www.facebook.com/fuerzaaereavenezolana.fav</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
