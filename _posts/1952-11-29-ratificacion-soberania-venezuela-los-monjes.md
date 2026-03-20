@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 29 de noviembre de 1952 | Evento | Venezuela Afirma Control sobre el Archipiélago Los Monjes"
+title: "Efemérides de Aviación | 29 de noviembre de 1952 | Venezuela ratifica el control sobre el Archipiélago Los Monjes"
 date: 1952-11-29
 categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: [Venezuela]
 operator: [Fuerza Aérea Venezolana (FAV) / Armada Nacional]
 excerpt: "Venezuela ratifica su soberanía sobre el Archipiélago Los Monjes tras un intercambio diplomático con Colombia, apoyado por un despliegue de presencia aeronaval."
-image: "1952-11-29-venezuela-ratifica-soberania-sobre-los-monjes.jpg"
+image: "1952-11-29-ratificacion-soberania-venezuela-los-monjes.jpg"
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-11-29-venezuela-ratifica-soberania-sobre-los-monjes.jpg" alt="Bandera de Venezuela izada en el Archipiélago LOs Monjes">
-  <figcaption class="post-caption">El 29 de noviembre de 1952 es izada la Bandera de Venezuela en el Archipiélago Los Monjes, acto de reconocimiento de soberanía en 1952.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-11-29-ratificacion-soberania-venezuela-los-monjes.jpg" alt="Bandera de Venezuela izada en el Archipiélago LOs Monjes">
+  <figcaption class="post-caption">Autoridades militares y civiles venezolanas izan oficialmente la bandera nacional en el territorio de Los Monjes, el 29 de noviembre de 1952, reafirmando así la soberanía de Venezuela. Marcos Pérez Jiménez, séptimo de izquierda a derecha, también se encuenta Luis Llovera Páez. Wikimedia Commons.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
