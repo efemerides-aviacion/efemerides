@@ -2,7 +2,7 @@
 layout: post
 title: "Efemérides de Aviación | 23 de marzo de 1965 | Gemini 3: primer vuelo tripulado del programa Gemini"
 date: 1965-03-23
-categories: [espacio-evento]
+categories: [espacial-evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA
@@ -57,7 +57,7 @@ La NASA cultivaba una imagen de precisión científica y heroísmo nacional. Los
 - **18 de marzo de 1965:** Cinco días antes del lanzamiento de Gemini 3, el cosmonauta soviético Alexei Leonov realiza la primera caminata espacial de la historia durante la misión Voskhod 2, aumentando la presión sobre el programa estadounidense.
 - **23 de marzo de 1965, 14:24 UTC:** El cohete Titan II despega desde el Complejo de Lanzamiento 19 en Cabo Cañaveral. Es la primera vez que Estados Unidos lanza una nave espacial con dos tripulantes.
 - **Durante el ascenso:** Grissom y Young experimentan aceleraciones de hasta 7,7 G. El vuelo es nominal; la separación de la primera etapa ocurre sin problemas.
-- **En órbita:** Una vez en órbita baja, los astronautas realizan la primera maniobra orbital tripulada de Estados Unidos: modifican la órbita usando el sistema OAMS (Orbit Attitude and Maneuvering System), cambiando el apogeo de 224 km a 224 km y luego realizando una maniobra de circularización. También prueban el sistema de guiado y control.
+- **En órbita:** Una vez en órbita baja, los astronautas realizan la primera maniobra orbital tripulada de Estados Unidos. Usando el sistema OAMS (Orbit Attitude and Maneuvering System), modifican la trayectoria: tras una primera ignición que cambia el apogeo de 224 km a 228 km, realizan una segunda maniobra de circularización que estabiliza la órbita en aproximadamente 225 × 225 km. También prueban el sistema de guiado y control, demostrando la capacidad de la nave Gemini para cambiar su trayectoria en el espacio.
 - **El sándwich de contrabando:** A mitad del vuelo, John Young saca de su traje un sándwich de carne en conserva (corned beef) que había introducido de contrabando. Grissom toma un bocado. Las migas flotan en la cabina, generando preocupación por posibles daños a los instrumentos. El incidente provocaría una investigación del Congreso y normas más estrictas sobre objetos personales en vuelos.
 - **17:17 UTC:** Tras completar tres órbitas, la tripulación recibe la orden de reentrada. El sistema de retrocohetes se activa durante 2 minutos, desacelerando la nave.
 - **17:30 UTC:** La nave ingresa en la atmósfera terrestre. El escudo térmico soporta temperaturas de hasta 2.200 °C. Se despliega el paracaídas de freno a 12.800 m y el paracaídas principal a 3.000 m.
