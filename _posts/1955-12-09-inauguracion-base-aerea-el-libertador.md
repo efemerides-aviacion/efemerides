@@ -2,10 +2,10 @@
 layout: post
 title: "Efemérides de Aviación | 9 de diciembre de 1955 | Inauguración de la Base Aérea El Libertador"
 date: 1955-12-09
-categories: [aviacion-evento]
+categories: [aviacion-fundacion]
 author: Enrique Pomares
 pais: Venezuela
-operator: Aviación Militar Venezolana (hoy Aviación Militar Bolivariana)
+operator: Fuerza Aérea Venezolana
 excerpt: "El 9 de diciembre de 1955 se inauguró oficialmente la Base Aérea El Libertador en Palo Negro, Aragua, consolidándose como la mayor instalación aérea de Venezuela."
 image: 1955-12-09-inauguracion-base-aerea-el-libertador.jpg
 ---
@@ -55,6 +55,7 @@ La BAEL continúa siendo la principal base aérea de Venezuela, albergando unida
     <li>Ministerio de la Defensa de Venezuela (1955). Resolución N.º 707. Archivo oficial.</li>
     <li><a href="https://es.wikipedia.org/wiki/Base_A%C3%A9rea_El_Libertador">Wikipedia – Base Aérea El Libertador</a></li>
     <li>Aviación Militar Bolivariana – registros institucionales</li>
+	<li><a href="https://acading.org.ve/wp-content/uploads/2023/02/BOLETIN_53.pdf">BOLETÍN 53, OCTUBRE-DICIEMBRE 2021</a></li>
   </ul>
 </div>
 
