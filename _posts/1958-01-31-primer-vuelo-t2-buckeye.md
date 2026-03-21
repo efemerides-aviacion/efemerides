@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 31 de enero de 1958 | Evento | Primer vuelo del North American T-2 Buckeye"
+title: "Efemérides de Aviación | 31 de enero de 1958 | Primer vuelo del North American T-2 Buckeye"
 date: 1958-01-31
-categories: [aviacion-historia]
+categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: US Navy
 excerpt: "El 31 de enero de 1958 voló por primera vez el prototipo YT2J-1, luego designado T-2A Buckeye."
-image: 1958-01-31-primer-vuelo-t-2-buckeye.jpg
+image: 1958-01-31-primer-vuelo-t2-buckeye.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1958-01-31-primer-vuelo-t-2-buckeye.jpg" alt="North American T2J-1 primer prototipo">
-  <figcaption class="post-caption">North American T2J-1 BuNo 144217, primer prototipo del entrenador naval T-2 Buckeye de la US Navy.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1958-01-31-primer-vuelo-t2-buckeye.jpg" alt="North American T2J-1 primer prototipo">
+  <figcaption class="post-caption">El 31 de enero de 1958, el prototipo YT2J-1 (BuNo 144217) del North American T-2 Buckeye realiza su primer vuelo, entrenador básico a reacción para la US Navy con cabina en tándem y motor Westinghouse J34 (Vintage Aviation News, 31 enero 2023.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
@@ -65,7 +65,7 @@ Entrenó a miles de aviadores navales y fue exportado a otros países, mantenié
   <ul>
     <li><a href="https://en.wikipedia.org/wiki/North_American_T-2_Buckeye">Wikipedia (EN) – North American T-2 Buckeye</a></li>
     <li><a href="https://es.wikipedia.org/wiki/North_American_T-2_Buckeye">Wikipedia (ES) – North American T-2 Buckeye</a></li>
-    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history/today-in-aviation-history-first-flight-of-the-north-a ...">Vintage Aviation News – First Flight of the North American T-2 Buckeye</a></li>
+    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history/today-in-aviation-history-first-flight-of-the-north-american-t-2-buckeye.html">Vintage Aviation News – First Flight of the North American T-2 Buckeye</a></li>
     <li><a href="https://tetonaviation.com/t2-buckeye">Teton Aviation – North American T-2 Buckeye</a></li>
     <li><a href="https://www.usni.org/magazines/naval-history-magazine/2016/december/historic-aircraft-trainer-par-excellence">USNI Naval History – Historic Aircraft: T-2 Buckeye</a></li>
     <li><a href="https://planesoffame.org/aircraft/plane-T-2A">Planes of Fame – North American T-2A Buckeye</a></li>
