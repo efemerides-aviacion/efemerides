@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | del 16 al 18 de enero de 1957 | Evento | Operación Power Flite"
+title: "Efemérides de Aviación | del 16 al 18 de enero de 1957  | Operación Power Flite"
 date: 1957-01-18
 categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: USAF – Strategic Air Command (SAC)
 excerpt: "Tres bombarderos B-52B Stratofortress completaron la primera circunnavegación sin escalas del mundo por aviones a reacción."
-image: 1957-01-18-3b_52s_circle_the_globe_nonstop.jpg
+image: 1957-01-18-operacion-power-flite.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1957-01-18-3b_52s_circle_the_globe_nonstop.jpg" alt="Tres B-52B del 93rd Bombardment Wing tras circunnavegación mundial">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1957-01-18-operacion-power-flite.jpg" alt="Tres B-52B del 93rd Bombardment Wing tras circunnavegación mundial">
   <figcaption class="post-caption">Tres B-52B del 93.º Ala de Bombardeo se preparan para partir hacia la Base Aérea Castle, en California, tras su vuelo alrededor del mundo, que batió récords en 1957. Fuente: Agencia de Investigación Histórica de la Fuerza Aérea de los Estados Unidos - Base Aérea Maxwell, Alabama.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
