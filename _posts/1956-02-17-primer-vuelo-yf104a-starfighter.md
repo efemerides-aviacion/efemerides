@@ -2,16 +2,16 @@
 layout: post
 title: "Efemérides de Aviación | 17 de febrero de 1956 | Primer vuelo del Lockheed YF-104A Starfighter"
 date: 1956-02-17
-categories: [aviacion-militar]
+categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Lockheed Aircraft Corporation
 excerpt: "El 17 de febrero de 1956, el piloto de pruebas Herman Richard 'Fish' Salmon realizó el primer vuelo del prototipo YF-104A Starfighter (55-2955) en Edwards AFB, iniciando la era del interceptor Mach 2 impulsado por el motor General Electric J79."
-image: 1956-02-17-primer-vuelo-yf-104-starfighter-herman-salmon.jpg
+image: 1956-02-17-primer-vuelo-yf104a-starfighter.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1956-02-17-primer-vuelo-yf-104-starfighter-herman-salmon.jpg" alt="Lockheed YF-104A Starfighter en pista antes de su primer vuelo">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1956-02-17-primer-vuelo-yf104a-starfighter.jpg" alt="Lockheed YF-104A Starfighter en pista antes de su primer vuelo">
   <figcaption class="post-caption">Lockheed YF-104A Starfighter (s/n 55-2955), prototipo de servicio de pruebas, en pista antes de su primer vuelo el 17 de febrero de 1956 en Edwards AFB, pilotado por Herman ‘Fish’ Salmon. (Foto: John Eaves Blog / Lockheed records).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
