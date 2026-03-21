@@ -2,16 +2,16 @@
 layout: post
 title: "Efemérides de Aviación | 27 de diciembre de 1952 | Fundación de ANA (All Nippon Airways)"
 date: 1952-12-27
-categories: [aerolineas]
+categories: [aviacion-fundacion]
 author: Enrique Pomares
 pais: Japón
 excerpt: "Japan Helicopter & Aeroplane Transports Co., Ltd. da origen a All Nippon Airways (ANA), que evolucionará de helicópteros a una aerolínea líder."
-image: ana-1952.png
+image: 1952-12-27-fundacion-ana.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/ana-1952.png" alt="Fundadores de Nippon Helicopter & Aeroplane y un Bell 47D-1">
-  <figcaption class="post-caption">Fundadores de Nippon Helicopter & Aeroplane y un Bell 47D-1.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-12-27-fundacion-ana.jpg" alt="Fundadores de Nippon Helicopter & Aeroplane y un Bell 47D-1">
+  <figcaption class="post-caption">Fundadores de Nippon Helicopter & Aeroplane y un Bell 47D-1 circa diciembre de 1952. Wikimedia Common</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
