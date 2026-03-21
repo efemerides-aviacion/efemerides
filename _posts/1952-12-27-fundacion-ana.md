@@ -54,14 +54,18 @@ La fundación de Japan Helicopter & Aeroplane en diciembre de 1952 marcó el ini
 
 ---
 
-## Referencias
-- ANA Official Website – ANA's History (Past): https://www.ana.co.jp/group/en/company/ana/history/past.html
-- Wikipedia (español) – All Nippon Airways: https://es.wikipedia.org/wiki/All_Nippon_Airways
-- Wikipedia (inglés) – All Nippon Airways: https://en.wikipedia.org/wiki/All_Nippon_Airways
-- Planet Airlines – ANA (All Nippon Airways): https://www.planetairlines.net/aviation/ana-all-nippon-airways
-- Company Histories – All Nippon Airways Co., Ltd. Company History: https://www.company-histories.com/All-Nippon-Airways-Co-Ltd-Company-History.html
-- ANA Archives – A big dream born from two helicopters: https://www.ana.co.jp/group/en/70th/archives/tp01/
-- This Day in Aviation – Bell 47D-1: https://www.thisdayinaviation.com/tag/bell-47d-1/
+## Referencias Verificadas
+<div class="references">
+	<ul>
+		<li><a href="https://www.ana.co.jp/group/en/company/ana/history/past.html/">ANA Official Website – ANA's History (Past)</a></li>
+		<li><a href="https://es.wikipedia.org/wiki/All_Nippon_Airways">Wikipedia (español) – All Nippon Airways</a></li>
+		<li><a href="https://en.wikipedia.org/wiki/All_Nippon_Airways">Wikipedia (inglés) – All Nippon Airways</a></li>
+		<li><a href="https://www.planetairlines.net/aviation/ana-all-nippon-airways">Planet Airlines – ANA (All Nippon Airways)</a></li>
+		<li><a href="https://www.company-histories.com/All-Nippon-Airways-Co-Ltd-Company-History.html">Company Histories – All Nippon Airways Co., Ltd. Company History</a></li>
+		<li><a href="https://www.ana.co.jp/group/en/70th/archives/tp01/">ANA Archives – A big dream born from two helicopters</a></li>
+		<li><a href="https://www.thisdayinaviation.com/tag/bell-47d-1/">This Day in Aviation – Bell 47D-1</a></li>
+	</ul>
+</div>
 
 ---
 
