@@ -1,18 +1,19 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 31 de enero de 1961 | Evento | HAM, primer homínido en el espacio"
+title: "Efemérides de Aviación | 31 de enero de 1961 | HAM, primer homínido en el espacio"
 date: 1961-01-31
-categories: [espacio-evento]
+categories: [aviacion-espacial]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: NASA – Mercury Program
 excerpt: "El chimpancé HAM se convirtió en el primer homínido en viajar al espacio y regresar con vida."
-image: 1961-01-31-ham-saludado-comandante-nave-rescate.jpg
+image: 1961-01-31-ham-primer-hominido-espacio.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1961-01-31-ham-saludado-comandante-nave-rescate.jpg" alt="HAM saludado tras su rescate">
-  <figcaption class="post-caption">Ham es recibido y saludado por el comandante de la nave de rescate (USS Donner) tras su vuelo.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1961-01-31-ham-primer-hominido-espacio.jpg" alt="HAM saludado tras su rescate">
+  <figcaption class="post-caption">Primer plano del chimpancé Ham, el sujeto de pruebas del vuelo de ensayo Mercury-Redstone 2 (MR-2), mientras le dan de comer una manzana. Esta foto se tomó tras su exitosa recuperación en el océano Atlántico. Obsérvese que sigue sujeto a su sillón de vuelo especial. Fuente: <a href="https://nlsp.nasa.gov/view/lsdapub/lsda_image/IDP-LSDA_IMAGE-0000000000000851">Chimpanzee Ham After Mercury-Redstone 2 (MR-2) Flight</a>.
+</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
 
