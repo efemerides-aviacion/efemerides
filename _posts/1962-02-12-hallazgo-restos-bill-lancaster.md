@@ -7,12 +7,12 @@ author: Enrique Pomares
 pais: Australia / Reino Unido / Argelia
 operator: [Bill Lancaster]
 excerpt: "El 12 de febrero de 1962 una patrulla francesa halló en el Sahara el cuerpo momificado del aviador Bill Lancaster y los restos del Avro Avian 'Southern Cross Minor', desaparecido 29 años antes."
-image: 1962-02-12-bill-lancaster-avro-avian.jpg
+image: 1962-02-12-hallazgo-restos-bill-lancaster.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1962-02-12-bill-lancaster-avro-avian.jpg" alt="Bill Lancaster frente a su avión Southern Cross Minor">
-  <figcaption class="post-caption">Bill fotografiado frente a su avión "Southern Cross Minor" – Copyright © Ediciones George G. Harrap, Londres</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/11962-02-12-hallazgo-restos-bill-lancaster.jpg" alt="Bill Lancaster frente a su avión Southern Cross Minor">
+  <figcaption class="post-caption">Bill Lancaster y el Southern Cross Minor; se desconoce la ubicación, pero lo más probable es que fuera en Lympne antes de su último vuelo. (Archivo Nacional de Australia). Fuente: <a href="https://airscapemag.com/2016/04/15/bill-lancaster/">Airscape Magazine – Anomaly on the horizon</a></figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
 
@@ -61,14 +61,12 @@ Hoy se recuerda a Bill Lancaster como símbolo de los riesgos de la aviación pi
 <div class="references">
   <ul>
     <li><a href="https://en.wikipedia.org/wiki/W._N._Lancaster">Wikipedia (EN) – Bill Lancaster (aviator)</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/William_Lancaster">Wikipedia (ES) – William Lancaster</a></li>
     <li><a href="https://pt.wikipedia.org/wiki/William_Lancaster">Wikipedia (PT) – William Lancaster</a></li>
     <li><a href="https://www.historynet.com/bill-lancaster-lost-in-the-sahara-after-attempting-to-break-the-england-cape-town-flight-speed-record/">HistoryNet – Bill Lancaster: Lost in the Sahara</a></li>
     <li><a href="https://www.laoujetemmenerai.net/bill-lancaster-aviateur-perdu-dans-le-sahara/">Laoujetemmenerai – William Newton « Bill » Lancaster</a></li>
     <li><a href="https://www.acami.es/efemerides/12-de-febrero-de-1962/">Acami – 12 de febrero de 1962: Hallan el cadáver de Bill Lancaster</a></li>
     <li><a href="https://www.3emegroupedetransport.com/Unpapillondansledesert.htm">3ème Groupe de Transport – La tragique histoire de Bill Lancaster</a></li>
     <li><a href="https://airscapemag.com/2016/04/15/bill-lancaster/">Airscape Magazine – Anomaly on the horizon</a></li>
-    <li><a href="http://www.motorsportmemorial.org/focus.php?db=a&n=9578">Motorsport Memorial – Bill Lancaster</a></li>
     <li><a href="https://www.aopa.org/news-and-media/all-news/2015/march/12/did-the-lost-aviator-murder-his-rival">AOPA – Did 'The Lost Aviator' murder his rival?</a></li>
   </ul>
 </div>
