@@ -11,7 +11,7 @@ image: 1962-02-12-hallazgo-restos-bill-lancaster.jpg
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/11962-02-12-hallazgo-restos-bill-lancaster.jpg" alt="Bill Lancaster frente a su avión Southern Cross Minor">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1962-02-12-hallazgo-restos-bill-lancaster.jpg" alt="Bill Lancaster frente a su avión Southern Cross Minor">
   <figcaption class="post-caption">Bill Lancaster y el Southern Cross Minor; se desconoce la ubicación, pero lo más probable es que fuera en Lympne antes de su último vuelo. (Archivo Nacional de Australia). Fuente: <a href="https://airscapemag.com/2016/04/15/bill-lancaster/">Airscape Magazine – Anomaly on the horizon</a></figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
