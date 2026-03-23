@@ -12,7 +12,8 @@ image: 1959-02-07-tim-cook-record-mundial-cessna-172.jpg
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1959-02-07-tim-cook-record-mundial-cessna-172.jpg" alt="Cessna 172 N9172B en reabastecimiento durante el récord de Timm y Cook">
-  <figcaption class="post-caption">La Cessna 172 N9172B recibe combustible en vuelo, desde una camioneta para lograr el récord de Timm y Cook (1958–1959). <a href="https://www.flysuperfly.com/blog/2023/6/9/the-64-day-nonstop-cessna-flight">Fuente: FlySuperFly</figcaption>
+  <figcaption class="post-caption">La Cessna 172 N9172B recibe combustible en vuelo, desde una camioneta para lograr el récord de Timm y Cook (1958–1959). <a href="https://www.flysuperfly.com/blog/2023/6/9/the-64-day-nonstop-cessna-flight">Fuente: FlySuperFly></a>
+  </figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
