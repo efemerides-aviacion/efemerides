@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 27 de noviembre de 1962 | Evento | Rollout del Boeing 727"
+title: "Efemérides de Aviación | 27 de noviembre de 1962 | Presentación pública del Boeing 727"
 date: 1962-11-27
 categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Boeing / United Airlines
 excerpt: "Presentación pública del Boeing 727-100 en la planta de Renton, Washington."
-image: 1962-11-27-boeing-727-rollout.jpg
+image: 1962-11-27-boeing-727-rollout.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1962-11-27-boeing-727-rollout.jpg" alt="Rollout del Boeing 727 en Renton">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1962-11-27-boeing-727-rollout.webp" alt="Rollout del Boeing 727 en Renton">
   <figcaption class="post-caption">Presentación pública del prototipo Boeing 727-100 (N727-100), primer tri-motor de pasillo único de Boeing, ante miles de invitados en el hangar de Renton, Washington, 27 de noviembre de 1962. (Foto Boeing / Archivo histórico).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
