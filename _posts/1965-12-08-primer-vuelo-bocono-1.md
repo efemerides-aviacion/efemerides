@@ -2,16 +2,16 @@
 layout: post
 title: "Efemérides de Aviación | 8 de diciembre de 1965 | Primer vuelo del avión artesanal Boconó I en Venezuela"
 date: 1965-12-08
-categories: [aviacion-experimental]
+categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: José Vicente Zambrano
 excerpt: "El 8 de diciembre de 1965, Vicente Zambrano realizó el primer vuelo del Boconó I en Valera, considerado el primer avión diseñado y construido íntegramente en Venezuela."
-image: 1965-12-08-primer-vuelo-bocono-I.jpg
+image: 1965-12-08-primer-vuelo-bocono-1.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1965-12-08-primer-vuelo-bocono-I.jpg" alt="Vicente Zambrano junto al Boconó I en Maracay">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1965-12-08-primer-vuelo-bocono-1.webp" alt="Vicente Zambrano junto al Boconó I en Maracay">
   <figcaption class="post-caption">Vicente Zambrano posando junto a su avión “Boconó I” en el Museo Aeronáutico de la Fuerza Aérea Venezolana, Maracay, 8 de diciembre de 1966. (Fuente: Museo Aeronáutico / Documentales históricos).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
@@ -54,9 +54,9 @@ El Boconó I es considerado el primer avión diseñado y construido en Venezuela
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li>YouTube – *Independencia Tecnológica: Primer Avión y Helicóptero Venezolano* (2013)</li>
-    <li>Dailymotion – *Conozca la creación del primer avión monoplano en Venezuela* (2022)</li>
-    <li>Scribd – *Primeros Aviones Experimentales en Venezuela* (2013)</li>
+    <li><a href="https://www.aviacioncivil.com.ve/el-primer-avion-autoctono-de-venezuela-el-bocono-de-vicente-zambrano/">Aviacioncivil.com.ve – El Primer Avión Autóctono de Venezuela: El Boconó I de Vicente Zambrano</a></li> 
+    <li><a href="https://www.youtube.com/watch?v=rr7MocDSCW0">YouTube – Independencia Tecnológica: Primer Avión y Helicóptero Venezolano</a></li>
+    <li><a href="https://cienciaconciencia.org.ve/conozca-la-historia-detras-del-primer-helicoptero-hecho-venezuela/">Cienciaconciencia.org.ve – Historia del primer helicóptero hecho en Venezuela (menciona Boconó I)</a></li>
   </ul>
 </div>
 
