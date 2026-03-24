@@ -1,18 +1,19 @@
 ---
 layout: post
-title: "Efemérides de Aviación y Espacio | 20 de febrero de 1962 | John Glenn, primer estadounidense en orbitar la Tierra"
+title: "Efemérides de Aviación | 20 de febrero de 1962 | John Glenn, primer estadounidense en orbitar la Tierra"
 date: 1962-02-20
-categories: [espacio-exploracion]
-author: Enrique Pomares
+categories: [aviacion-espacial]
+author: [Enrique Pomares]
 pais: Estados Unidos
 operator: NASA – Proyecto Mercury
 excerpt: "El 20 de febrero de 1962, John H. Glenn Jr. se convirtió en el primer estadounidense en orbitar la Tierra a bordo de la cápsula Friendship 7, completando tres órbitas en 4 h 55 min."
-image: 1962-02-20-john-glenn-primer-astronauta-en-circundar-la-tierra.jpg
+image: 1962-02-20-john-glenn-primer-astronauta-en-circundar-la-tierra.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1962-02-20-john-glenn-primer-astronauta-en-circundar-la-tierra.jpg" alt="John Glenn accede a la cápsula Friendship 7 para el lanzamiento orbital Mercury-Atlas 6, 1962">
-  <figcaption class="post-caption">John H. Glenn Jr. accede a Friendship 7 (Spacecraft #13) para el lanzamiento orbital Mercury-Atlas 6 (MA-6), Launch Complex 14, Cabo Cañaveral, 20 de febrero de 1962. Acompañado por técnicos NASA. (Foto NASA / Blog ULA).</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1962-02-20-john-glenn-primer-astronauta-en-circundar-la-tierra.webp" alt="John Glenn accede a la cápsula Friendship 7 para el lanzamiento orbital Mercury-Atlas 6, 1962">
+  <figcaption class="post-caption">El astronauta John H. Glenn Jr. entra en su cápsula Mercury, la «Friendship 7», mientras se prepara para el lanzamiento del cohete Mercury-Atlas. El 20 de febrero de 1962, Glenn despegó hacia el espacio a bordo de su cohete Mercury-Atlas 6 (MA-6) y se convirtió en el primer estadounidense en orbitar la Tierra. Fuente:Foto NASA.
+  </figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
