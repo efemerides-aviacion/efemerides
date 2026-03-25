@@ -2,16 +2,16 @@
 layout: post
 title: "Efemérides de Aviación | 12 de diciembre de 1964 | Cruce de los Andes en planeador por Alejo Williamson"
 date: 1964-12-12
-categories: [aviacion-records]
+categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Chile / Argentina
 operator: Vuelo civil – Reserva FACh
 excerpt: "El 12 de diciembre de 1964, Alejo Williamson Dávila cruzó la Cordillera de los Andes en un planeador Blanik L-13, convirtiéndose en el primero en lograrlo sin motor por su parte más alta."
-image: 1964-12-12-alejo-williamson-blanik-l13.jpg
+image: 1964-12-12-alejo-williamson-cruce-andes-planeador.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1964-12-12-alejo-williamson-blanik-l13.jpg" alt="Alejo Williamson junto al Blanik L-13 CC-K7W">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1964-12-12-alejo-williamson-cruce-andes-planeador.webp" alt="Alejo Williamson junto al Blanik L-13 CC-K7W">
   <figcaption class="post-caption">Alejo Williamson junto al planeador Blanik L-13 CC-K7W utilizado para la travesía del 12 de diciembre de 1964. (Fuente: FACh / Museos aeronáuticos chilenos).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
@@ -54,10 +54,9 @@ Williamson (1925–2014) continuó como instructor de planeadores. Su cruce de 1
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li>FACh – Comunicados oficiales sobre el cruce de 1964</li>
-    <li>Museo Nacional Aeronáutico y del Espacio de Chile – Archivo histórico</li>
-    <li>Federación Aeronáutica Internacional (FAI) – Medalla Otto Lilienthal</li>
-    <li>Prensa chilena de la época – Reconocimiento nacional e internacional</li>
+    <li><a href="https://museoaeronautico.dgac.gob.cl/2020/04/08/26-recordanto-a-un-procer-alejo-williamson-davila/">Museo Nacional Aeronáutico – Alejo Williamson Dávila 1964</a></li>
+    <li><a href="https://www.casamuseoeduardofrei.cl/de-santiago-a-mendoza-sin-motor/">Casa Museo Frei – Cruce Andino 1964</a></li>
+    <li><a href="https://www.biobiochile.cl/noticias/2014/06/05/fallece-legendario-piloto-que-en-1964-cruzo-los-andes-en-un-planeador.shtml">BioBioChile – Piloto Cruce Andes 1964</a></li>
   </ul>
 </div>
 
@@ -68,7 +67,7 @@ Williamson (1925–2014) continuó como instructor de planeadores. Su cruce de 1
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-10 17:58 CST  
-- **Fuentes primarias consultadas:** FACh, Museos aeronáuticos chilenos, FAI  
+- **Fuentes primarias consultadas:** FACh, Museos aeronáuticos chilenos, DGCA, BioBioChile 
 - **Discrepancias resueltas:** Variaciones en la duración del vuelo.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
