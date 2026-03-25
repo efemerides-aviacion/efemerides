@@ -2,16 +2,16 @@
 layout: post
 title: "Efemérides de Aviación | 14 de febrero de 1964 | Fundación de la Base Aérea Teniente Vicente Landaeta Gil, Barquisimeto"
 date: 1964-02-14
-categories: [aviacion-evento]
+categories: [aviacion-fundacion]
 author: Enrique Pomares
 pais: Venezuela
 operator: Fuerza Aérea Venezolana (FAV)
 excerpt: "El 14 de febrero de 1964 se inauguró oficialmente la Base Aérea Teniente Vicente Landaeta Gil en Barquisimeto, creada por Resolución N.º A-184 de diciembre de 1963 como sede inicial del Escuadrón B-40 con B-25 Mitchell."
-image: 1964-02-14-base-aerea-vicente-landaeta-gil-barquisimeto.jpg
+image: 1964-02-14-base-aerea-vicente-landaeta-gil.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1964-02-14-base-aerea-vicente-landaeta-gil-barquisimeto.jpg" alt="Entrada principal de la Base Aérea Vicente Landaeta Gil">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1964-02-14-base-aerea-vicente-landaeta-gil.webp" alt="Entrada principal de la Base Aérea Vicente Landaeta Gil">
   <figcaption class="post-caption">Entrada principal de Balanda (Base Aérea Tte. Vicente Landaeta Gil), Barquisimeto, Venezuela – Vista contemporánea de la base fundada el 14/02/1964 (Foto usuario, circa 2000s).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
