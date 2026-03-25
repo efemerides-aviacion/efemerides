@@ -55,6 +55,7 @@ Williamson (1925–2014) continuó como instructor de planeadores. Su cruce de 1
 <div class="references">
   <ul>
     <li><a href="https://museoaeronautico.dgac.gob.cl/2020/04/08/26-recordanto-a-un-procer-alejo-williamson-davila/">Museo Nacional Aeronáutico – Alejo Williamson Dávila 1964</a></li>
+    <li><a href="https://www.dgac.gob.cl/recordando-a-los-heroes-de-la-aviacion-alejo-williamson-davila/">DGAC – Héroes Aviación Alejo Williamson</a></li>
     <li><a href="https://www.casamuseoeduardofrei.cl/de-santiago-a-mendoza-sin-motor/">Casa Museo Frei – Cruce Andino 1964</a></li>
     <li><a href="https://www.biobiochile.cl/noticias/2014/06/05/fallece-legendario-piloto-que-en-1964-cruzo-los-andes-en-un-planeador.shtml">BioBioChile – Piloto Cruce Andes 1964</a></li>
   </ul>
