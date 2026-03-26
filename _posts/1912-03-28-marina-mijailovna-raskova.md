@@ -79,7 +79,7 @@ Las *Brujas de la Noche* (588.º Regimiento de Bombardeo Nocturno) siguen siendo
 ## Nota Aclaratoria
 
 <div class="note-box">
-	<p>Aunque Marina Raskova es ampliamente reconocida como Heroína de la Unión Soviética y fundadora de los tres regimientos aéreos femeninos que combatieron en la Gran Guerra Patria, **no participó en combate directo como piloto de caza o bombardero**. Su función fue estratégica y organizativa: seleccionó, entrenó y comandó las unidades desde el Cuartel General. Murió el 4 de enero de 1943 en un accidente aéreo durante un vuelo de traslado, no en acción de combate. Esta precisión no disminuye su importancia histórica, sino que la sitúa con exactitud como una de las grandes organizadoras militares del siglo XX.</p>
+	<p>Aunque Marina Raskova es ampliamente reconocida como Heroína de la Unión Soviética y fundadora de los tres regimientos aéreos femeninos que combatieron en la Gran Guerra Patria, <strong>no participó en combate directo como piloto de caza o bombardero</strong>. Su función fue estratégica y organizativa: seleccionó, entrenó y comandó las unidades desde el Cuartel General. Murió el 4 de enero de 1943 en un accidente aéreo durante un vuelo de traslado, no en acción de combate. Esta precisión no disminuye su importancia histórica, sino que la sitúa con exactitud como una de las grandes organizadoras militares del siglo XX.</p>
 </div>
 
 ## Referencias Verificadas
