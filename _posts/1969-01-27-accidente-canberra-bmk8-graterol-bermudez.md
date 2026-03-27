@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 27 de enero de 1969 | Evento | Accidente del Canberra MK‑8 de la FAV"
+title: "Efemérides de Aviación | 27 de enero de 1969 | Accidente del Canberra MK‑8 de la FAV"
 date: 1969-01-27
-categories: [aviacion-evento]
+categories: [aviacion-accidente]
 author: [Enrique Pomares]
 pais: Venezuela
 operator: Fuerza Aérea Venezolana
 excerpt: "El 27 de enero de 1969 un Canberra MK‑8 de la FAV protagonizó un aterrizaje de emergencia milagroso en Paraguaná."
-image: 1969-01-27-accidente-canberra-bmk8-graterol-bermudez.jpg
+image: 1969-01-27-accidente-canberra-bmk8-graterol-bermudez.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-01-27-accidente-canberra-bmk8-graterol-bermudez.jpg" alt="Accidente del Canberra MK-8 FAV 3216">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-01-27-accidente-canberra-bmk8-graterol-bermudez.webp" alt="Accidente del Canberra MK-8 FAV 3216">
   <figcaption class="post-caption">Noticia del Diario El Nacional sobre el milagroso aterrizaje de emergencia del Canberra FAV 3216 en Paraguaná por el capitán Fernando Graterol Calles y el sargento Víctor Bermúdez Mares, inicialmente dados por muertos.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
