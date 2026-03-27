@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Venezuela
 operator: Aviación Militar Venezolana
 excerpt: "El teniente Vicente Landaeta Gil se convirtió en el primer aviador militar venezolano en fallecer en un accidente aéreo."
-image: 1931-02-04-vicente-landaeta-gil-fallece.jpg
+image: 1931-02-04-vicente-landaeta-gil-fallece.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1931-02-04-vicente-landaeta-gil-fallece.jpg" alt="Retrato oficial del teniente Vicente Landaeta Gil">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1931-02-04-vicente-landaeta-gil-fallece.webp" alt="Retrato oficial del teniente Vicente Landaeta Gil">
   <figcaption class="post-caption">Retrato oficial del teniente Vicente Landaeta Gil (1897-1931), primer aviador militar venezolano fallecido en accidente aéreo el 4 de febrero de 1931 en Barquisimeto.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #880e4f);" />
