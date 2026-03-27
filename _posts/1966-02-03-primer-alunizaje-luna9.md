@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 3 de febrero de 1966 | Espacio | Primer alunizaje suave: Luna 9"
+title: "Efemérides de Aviación | 3 de febrero de 1966 | Primer alunizaje suave: Luna 9"
 date: 1966-02-03
-categories: [espacio-evento]
+categories: [aviacion-espacial]
 author: [Enrique Pomares]
 pais: Unión Soviética
 operator: Programa Luna (OKB Lavochkin)
 excerpt: "Luna 9 realizó el primer alunizaje suave de la historia y transmitió las primeras imágenes desde la superficie lunar."
-image: 1966-02-03-ilustracion-3d-sonda-lunar-9.jpg
+image: 1966-02-03-primer-alunizaje-luna9.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1966-02-03-ilustracion-3d-sonda-lunar-9.jpg" alt="Ilustración 3D de la sonda Luna 9">
-  <figcaption class="post-caption">Ilustración 3D de la sonda lunar Luna 9 aterrizando en la superficie de la Luna.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1966-02-03-primer-alunizaje-luna9.webp" alt="Ilustración 3D de la sonda Luna 9">
+  <figcaption class="post-caption">Ilustración 3D de la sonda lunar Luna 9 aterrizando en la superficie de la Luna. Fuente: <a href="https://danielmarin.naukas.com/files/2016/02/Captura-de-pantalla-2016-02-03-a-las-21.49.48.png">Secuencia de despliegue de los airbags y aterrizaje.</a>.figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
