@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 9 de febrero de 1969 | Evento | Primer vuelo del Boeing 747"
+title: "Efemérides de Aviación | 9 de febrero de 1969 | Primer vuelo del Boeing 747"
 date: 1969-02-09
 categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Boeing
 excerpt: "El Boeing 747 RA001 'City of Everett' realizó su vuelo inaugural el 9 de febrero de 1969 desde Paine Field, Everett, con Jack Waddell, Brien Wygle y Jesse Wallick a los mandos. Este ensayo de 75 minutos marcó el inicio de la era del Jumbo Jet."
-image: 1969-02-09-primer-vuelo-boeing-747-ra001.jpg
+image: 1969-02-09-primer-vuelo-boeing-747.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-02-09-primer-vuelo-boeing-747-ra001.jpg" alt="Boeing 747 RA001 en su primer vuelo">
-  <figcaption class="post-caption">Boeing 747 RA001 “City of Everett” realiza su primer despegue en Paine Field, Everett (Washington), el 9 de febrero de 1969. Fotografía en blanco y negro que captura el momento histórico del Jumbo Jet desde la perspectiva de observadores en tierra.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-02-09-primer-vuelo-boeing-747.webp" alt="Boeing 747 RA001 en su primer vuelo">
+  <figcaption class="post-caption">Boeing 747-121 prototipo RA001, matrícula N7470 "City of Everett", en vuelo de prueba durante su primer despegue el 9 de febrero de 1969 desde Paine Field, Everett, Washington. Imagen publicada en Vintage Aviation News.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
@@ -64,7 +64,7 @@ El RA001 “City of Everett” se conserva en el Museum of Flight en Seattle. El
     <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-boeing-747.html">Vintage Aviation News – First Flight of The Boeing 747</a></li>
     <li><a href="https://secure.boeingimages.com/archive/First-Flight-of-the-747-100--February-9--1969-2JRSXLJWLLPP.html">Boeing Images – First Flight of the 747‑100, February 9, 1969</a></li>
     <li><a href="https://secure.boeingimages.com/archive/Boeing-747-First-Flight--In-flight-Seattle--Washington-2JRSXLJOOWWP.html">Boeing Images – Boeing 747 First Flight, In‑flight Seattle, Washington</a></li>
-    <li><a href="https://www.alamy.com/a-boeing-747-jumbo-jet-plane-taking-off-for-its-first-flight-at-the-boeing-plant-in-everett-washi-usa-on-feb-9-1969-the-747-is-the-worlds-largest-commerical-aircraft-ap-photo-image359232956.html">Alamy – Boeing 747 jumbo jet plane taking off … Feb. 9, 1969 (AP Photo)</a></li>
+    <li><a href="https://www.knkx.org/transportation/2023-01-31/photos-boeings-747-jumbo-jet-from-first-flight-to-final-assembly">Photos: Boeing's 747 jumbo jet from first flight to final assembly</a></li>
   </ul>
 </div>
 
