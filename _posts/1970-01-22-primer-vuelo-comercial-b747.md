@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 22 de enero de 1970 | Evento | Primer vuelo comercial del Boeing 747"
+title: "Efemérides de Aviación | 22 de enero de 1970 | Primer vuelo comercial del Boeing 747"
 date: 1970-01-22
 categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Estados Unidos / Reino Unido
 operator: Pan American World Airways
 excerpt: "El Boeing 747 entró en servicio comercial con Pan Am en la ruta Nueva York–Londres, inaugurando la era de los wide‑body."
-image: 1970-01-22-panam_b-747_primer_vuelo_comercial.jpg
+image: 1970-01-22-primer-vuelo-comercial-b747.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1970-01-22-panam_b-747_primer_vuelo_comercial.jpg" alt="Primer vuelo comercial del Boeing 747 de Pan Am">
-  <figcaption class="post-caption">Pintura histórica de John McCoy que muestra al Boeing 747 "Clipper Young America" de Pan American Airways llegando a Londres Heathrow en su primer vuelo comercial, el 22 de enero de 1970.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1970-01-22-primer-vuelo-comercial-b747.webp" alt="Primer vuelo comercial del Boeing 747 de Pan Am">
+  <figcaption class="post-caption">Acuarela de John T. McCoy representando al Boeing 747-121 N736PA, Clipper Young America de Pan American World Airways, despegando en su vuelo inaugural con pasajeros de Nueva York a Londres el 22 de enero de 1970. Publicada en This Day in Aviation.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
@@ -67,7 +67,7 @@ El Boeing 747 es recordado como la “Reina de los Cielos”, protagonista de la
     <li><a href="https://www.panam.org/global-era/747-flight-to-london-1970">Pan Am Historical Foundation – 747 to LHR 1970</a></li>
     <li><a href="https://sites.northwestern.edu/747anniversary/">Northwestern University – 747 Anniversary: First Commercial Flight</a></li>
     <li><a href="https://www.thisdayinaviation.com/22-january-1970-2/">This Day in Aviation – 22 January 1970</a></li>
-    <li><a href="https://airwaysmag.com/legacy-posts/boeing-747-enters-revenue-service">Airways – 1/22/1970: The Mighty Boeing 747 Enters Revenue Service</a></li>
+    <li><a href="https://www.airwaysmag.com/new-post/boeing-747-enters-revenue-service">1/22/1970: The Boeing 747 Enters Revenue Service</a></li>
     <li><a href="https://www.airporthistory.org/blue-concourse/first-747-to-fra">Airport History – Scheduled Boeing 747 Service on JFK–Heathrow Route</a></li>
     <li><a href="https://culturenow.org/site/a1407003-2a67-4e2c-ae35-75fa79392f16">CultureNow – Boeing 747 Jumbo Jet’s First Flight</a></li>
     <li><a href="https://digitalcollections.library.miami.edu/digital/collection/asm0341/id/188194/">University of Miami Digital Collections – Pan Am Inaugural 747 Flight</a></li>
