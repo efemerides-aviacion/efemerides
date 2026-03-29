@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 29 de enero de 1973 | Evento | Emily Howell Warner"
+title: "Efemérides de Aviación | 29 de enero de 1973 | Emily Howell Warner, primera mujer en ser contratada por una aerolínea comercial"
 date: 1973-01-29
-categories: [aviacion-historia]
+categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Frontier Airlines
 excerpt: "Emily Howell Warner, primera mujer contratada como piloto permanente en una aerolínea comercial de EE.UU."
-image: 1973-01-29-emily-howell-1ra-mujer-contratada-linea-aerea.jpg
+image: 1973-01-29-emily-howell-primera-mujer-contratada-linea-aerea.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1973-01-29-emily-howell-1ra-mujer-contratada-linea-aerea.jpg" alt="Emily Howell Warner en cabina de vuelo">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1973-01-29-emily-howell-primera-mujer-contratada-linea-aerea.webp" alt="Emily Howell Warner en cabina de vuelo">
   <figcaption class="post-caption">Emily Howell Warner, primera piloto permanente contratada por una aerolínea comercial estadounidense (Frontier Airlines, 1973), en cabina de vuelo, ca. 1974.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
