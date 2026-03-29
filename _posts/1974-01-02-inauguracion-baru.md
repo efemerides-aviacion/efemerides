@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 2 de enero de 1974 | Evento | Inauguración de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela"
+title: "Efemérides de Aviación | 2 de enero de 1974 | Inauguración de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela"
 date: 1974-01-02
-categories: [aviacion-evento]
+categories: [aviacion-fundacion]
 author: [Enrique Pomares]
 pais: Venezuela
 operator: Fuerza Aérea Venezolana
 excerpt: "El 2 de enero de 1974 se inauguró oficialmente la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, como punto estratégico para la defensa aérea y operaciones en la región occidental del país."
-image: bronco_ov-10_entrada_baru.jpeg
+image: 1974-01-02-inauguracion-baru.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/bronco_ov-10_entrada_baru.jpeg" alt="North American Rockwell OV-10 Bronco">
-  <figcaption class="post-caption">North American Rockwell OV-10 Bronco, un avión de ataque ligero y observación turbohélice, en exibición a la entrada de la Base Aérea Rafael Urdaneta (BARU)</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1974-01-02-inauguracion-baru.webp" alt="North American Rockwell OV-10 Bronco">
+  <figcaption class="post-caption">North American Rockwell OV-10 Bronco, un avión de ataque ligero y observación turbohélice, en exibición a la entrada de la Base Aérea Rafael Urdaneta (BARU).</figcaption>
 </figure>
 
 <!-- ## Resumen ejecutivo -->
@@ -53,9 +53,7 @@ La Base Aérea Rafael Urdaneta se mantiene como instalación de referencia en la
 ## Referencias verificadas
 
 <div class="references"> 
-	<ul> 
-		<li>[NO DISPONIBLE] No se encontraron fuentes primarias verificables que confirmen la fecha y el acto de inauguración de la Base Aérea Rafael Urdaneta.</li>
-	</ul> 
+	<p><strong>No se encontró ninguna referencia que funcione y que sea verificable.</strong></p> 
 </div>
 
 ## Metadatos de Control
