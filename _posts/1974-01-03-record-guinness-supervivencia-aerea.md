@@ -10,7 +10,7 @@ image: 1974-01-03-record-guinness-supervivencia-aerea.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/11974-01-03-record-guinness-supervivencia-aerea.webp" alt="Vesna Vulović frente a un avión de JAT">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1974-01-03-record-guinness-supervivencia-aerea.webp" alt="Vesna Vulović frente a un avión de JAT">
   <figcaption class="post-caption">Vesna Vulović en uniforme de auxiliar de vuelo, junto a un avión DC-9 de Yugoslav Airlines (JAT). Fotografía tomada en aeropuerto europeo durante la década de 1970.</figcaption>
 </figure>
 
