@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 3 de enero de 1974 | Biografía | Vesna Vulović"
+title: "Efemérides de Aviación | 3 de enero de 1974 | Récord Guinness de supervivencia aérea"
 date: 1974-01-03
-categories: [aviacion-biografia]
+categories: [aviacion-supervivencia]
 author: Enrique Pomares
 pais: Yugoslavia
 excerpt: "Auxiliar de a bordo y única superviviente del vuelo JAT 367 en 1972. Récord Guinness por sobrevivir a la caída libre más alta sin paracaídas."
+image: 1974-01-03-record-guinness-supervivencia-aerea.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/vesna-vulovic-jat367.jpeg" alt="Vesna Vulović frente a un avión de JAT">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/11974-01-03-record-guinness-supervivencia-aerea.webp" alt="Vesna Vulović frente a un avión de JAT">
   <figcaption class="post-caption">Vesna Vulović en uniforme de auxiliar de vuelo, junto a un avión DC-9 de Yugoslav Airlines (JAT). Fotografía tomada en aeropuerto europeo durante la década de 1970.</figcaption>
 </figure>
 
