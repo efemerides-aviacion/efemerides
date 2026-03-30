@@ -1,17 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 31 de diciembre de 1968 | Evento | Primer vuelo del Tupolev Tu-144"
+title: "Efemérides de Aviación | 31 de diciembre de 1968 | Primer vuelo del Tupolev Tu-144"
 date: 1968-12-31
 categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Unión Soviética
 operator: Aeroflot / Tupolev
 excerpt: "Primer vuelo del Tupolev Tu-144, primer jet supersónico comercial del mundo (URSS), adelantándose al Concorde."
+image: 1968-12-31-primer-vuelo-tupolev-tu-144.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/tu-144_primer_vuelo.jpg" alt="Tupolev Tu-144 durante su primer vuelo 1968">
-  <figcaption class="post-caption">El Tupolev Tu-144, designador OTAN “Charger”, apodado “Konkordski” en Occidente. El Tu‑144 en su primer vuelo el 31 de diciembre de 1968.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1968-12-31-primer-vuelo-tupolev-tu-144.webp" alt="Tupolev Tu-144 durante su primer vuelo 1968">
+  <figcaption class="post-caption">El prototipo del Tupolev Tu-144, CCCP-68001, durante su primer vuelo, el 31 de diciembre de 1968. (This Day in Aviation, a través de Kazan National Research Technical University)</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
@@ -62,7 +63,7 @@ Hoy se conservan varios Tu‑144 en museos de Rusia y Alemania. Es recordado com
 <div class="references">
   <ul>
     <li><a href="https://es.wikipedia.org/wiki/T%C3%BApolev_Tu-144">Wikipedia – Tupolev Tu‑144</a></li>
-    <li><a href="https://www.history.com/this-day-in-history/soviets-test-supersonic-airliner">History.com – Soviets test supersonic airliner (Dec 31, 1968)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=p9KQC6RiST8">The Russian Tupolev Tu-144 Supersonic Transport Aircraft</a></li>
     <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history/today-in-aviation-history-first-flight-of-the-tupolev-tu-144.html">Vintage Aviation News – First Flight of the Tu‑144</a></li>
   </ul>
 </div>
