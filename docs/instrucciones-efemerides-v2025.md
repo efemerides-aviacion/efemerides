@@ -1,5 +1,5 @@
 # Documento de Instrucciones Editoriales para Efemérides de Aviación
-> Última actualización: 2025-12-29
+> Última actualización: 2026-03-31
 
 ---
 
@@ -39,12 +39,13 @@ Si no se encuentran al menos 2 fuentes primarias verificables que confirmen fech
    - `author`  
    - `pais` (sin tilde)  
    - `operator` (si aplica)  
-   - `excerpt`  
+   - `excerpt` 
+   - `image`
 
 2. **Bloque de imagen**  
    ```html
    <figure>
-     <img class="post-image" src="{{ site.baseurl }}/assets/img/[imagen].jpg" alt="[Tema]">
+     <img class="post-image" src="{{ site.baseurl }}/assets/img/[imagen].webp" alt="[Tema]">
      <figcaption class="post-caption">[Descripción de la imagen]</figcaption>
    </figure>
    ```
