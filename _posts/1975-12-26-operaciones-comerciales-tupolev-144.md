@@ -4,27 +4,30 @@ title: "Efeméride de Aviación | 26 de diciembre de 1975 | Tupolev Tu-144 inici
 date: 1975-12-26
 author: Enrique Pomares
 operator: Aeroflot
-categories: [aviones-supersonicos]
+pais: Rusia / Unión Soviética
+categories: [aviacion-evento]
 excerpt: El Tupolev Tu-144 se convirtió en el primer avión supersónico de pasajeros en iniciar operaciones comerciales regulares el 26 de diciembre de 1975.
+image: 1975-12-26-operaciones-comerciales-tupolev-144.webp
 ---
 
 
-
 <figure>
-  <img src="{{ '/assets/img/tupolev-1975.jpg' | relative_url }}" alt="El Tupolev Tu-144, avión supersónico de pasajeros" class="post-image">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1975-12-26-operaciones-comerciales-tupolev-144.webp" alt="El Tupolev Tu-144, avión supersónico de pasajeros">
   <figcaption class="post-caption">
     El Tupolev Tu-144, avión supersónico de pasajeros en el momento del despegue. Imagen histórica, dominio público.
   </figcaption>
 </figure>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
-<hr>
-
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  El 26 de diciembre de 1975, el Tupolev Tu-144 se convirtió en el primer avión supersónico de pasajeros en iniciar operaciones comerciales regulares. Este evento marcó un hito en la historia de la aviación civil, al demostrar la viabilidad técnica de vuelos comerciales a velocidades supersónicas.
+  <p>
+    El 26 de diciembre de 1975, el Tupolev Tu-144 se convirtió en el primer avión supersónico de pasajeros en iniciar operaciones comerciales regulares. Este evento marcó un hito en la historia de la aviación civil, al demostrar la viabilidad técnica de vuelos comerciales a velocidades supersónicas.>
+  </p>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
 ## Datos Técnicos
 - **Fecha del primer vuelo comercial:** 26 de diciembre de 1975  
@@ -34,7 +37,7 @@ excerpt: El Tupolev Tu-144 se convirtió en el primer avión supersónico de pas
 - **Velocidad máxima:** Mach 2.15 (aproximadamente 2,300 km/h)  
 - **Capacidad:** 140 pasajeros  
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
 ## Contexto Histórico
 El desarrollo del Tupolev Tu-144 fue impulsado por la carrera tecnológica entre la Unión Soviética y Occidente durante la Guerra Fría.  
@@ -52,16 +55,19 @@ El Tu-144 fue un logro tecnológico notable que demostró la capacidad de la ing
 Aunque su carrera fue breve, sentó precedentes en aerodinámica, materiales compuestos y diseño de alas en delta.  
 Su legado persiste en programas de investigación y desarrollo aeroespacial posteriores, incluyendo colaboraciones con la NASA en los años 90.
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
-## Referencias
-- Smithsonian National Air and Space Museum – [Pin conmemorativo del Tupolev Tu‑144](https://airandspace.si.edu/collection-media/NASM-DA37909B535A2_001-000001)  
-- Wikipedia (inglés) – [Tupolev Tu‑144](https://en.wikipedia.org/wiki/Tupolev_Tu-144)  
-- Aeronaves y Aviación – [Todo sobre el Tupolev Tu‑144](https://aeronavesyaviacion.com/tupolev-tu-144/)  
-- Air Comment – [El legado del Tu‑144](https://aircomment.info/el-legado-del-tu-144-supersonico-records-y-vuelos-historicos/)  
-- Xataka – [Así era el avión supersónico Tu‑144](https://www.xataka.com/otros/asi-era-avion-supersonico-tu-144-concorde-union-sovietica)  
+## Referencias Verificadas
+<div class="references">
+  <ul>
+    <<li><a href="https://en.wikipedia.org/wiki/Tupolev_Tu-144">Tupolev Tu-144</a></li>
+    <li><a href="https://aeronavesyaviacion.com/tupolev-tu-144/">Aeronaves y Aviación – Todo sobre el Tupolev Tu‑144</a></li>
+    <li><a href="https://aircomment.info/el-legado-del-tu-144-supersonico-records-y-vuelos-historicos/">Air Comment – El legado del Tu‑144</a></li>
+    <li><a href="https://www.xataka.com/otros/asi-era-avion-supersonico-tu-144-concorde-union-sovietica"> Xataka – [Así era el avión supersónico Tu‑144</a></li>
+  </ul>
+</div
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-25 13:00:00 UTC  
@@ -70,5 +76,4 @@ Su legado persiste en programas de investigación y desarrollo aeroespacial post
 - **Nivel de confianza:** 100%  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.  
 
-<hr>
 
