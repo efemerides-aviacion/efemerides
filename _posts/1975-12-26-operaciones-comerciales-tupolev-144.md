@@ -60,7 +60,7 @@ Su legado persiste en programas de investigación y desarrollo aeroespacial post
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <<li><a href="https://en.wikipedia.org/wiki/Tupolev_Tu-144">Tupolev Tu-144</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Tupolev_Tu-144">Tupolev Tu-144</a></li>
     <li><a href="https://aeronavesyaviacion.com/tupolev-tu-144/">Aeronaves y Aviación – Todo sobre el Tupolev Tu‑144</a></li>
     <li><a href="https://aircomment.info/el-legado-del-tu-144-supersonico-records-y-vuelos-historicos/">Air Comment – El legado del Tu‑144</a></li>
     <li><a href="https://www.xataka.com/otros/asi-era-avion-supersonico-tu-144-concorde-union-sovietica"> Xataka – Así era el avión supersónico Tu‑144</a></li>
