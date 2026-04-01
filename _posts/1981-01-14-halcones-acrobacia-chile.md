@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 14 de enero de 1981 | Evento | Creación de la Escuadrilla de Alta Acrobacia Halcones de Chile"
+title: "Efemérides de Aviación | 14 de enero de 1981 | Escuadrilla de Alta Acrobacia Halcones de Chile"
 date: 1981-01-14
 categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Chile
 operator: Fuerza Aérea de Chile (FACh)
 excerpt: "La Fuerza Aérea de Chile creó la Escuadrilla de Alta Acrobacia Halcones, sucesora de los Cóndores de Plata, consolidando su tradición acrobática."
-image: 1981-01-14-halcones_chile.png
+image: 1981-01-14-halcones-acrobacia-chile.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1981-01-14-halcones_chile.png" alt="Escuadrilla de Alta Acrobacia Halcones de Chile">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1981-01-14-halcones-acrobacia-chile.webp" alt="Escuadrilla de Alta Acrobacia Halcones de Chile">
   <figcaption class="post-caption">Formación acrobática de la Escuadrilla Halcones de Chile, con estelas de humo blanco sobre cielo despejado. La imagen muestra tres aeronaves Extra 300 en vuelo sincronizado, destacando la precisión y coordinación que caracterizan a esta unidad de la Fuerza Aérea de Chile.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
