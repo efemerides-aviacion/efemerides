@@ -11,7 +11,7 @@ image: 1974-02-02-primer-vuelo-yf16.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/11974-02-02-primer-vuelo-yf16.webp" alt="Primer vuelo del YF-16 en Edwards AFB">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1974-02-02-primer-vuelo-yf16.webp" alt="Primer vuelo del YF-16 en Edwards AFB">
   <figcaption class="post-caption">General Dynamics YF-16 Fighting Falcon 72-1567 en vuelo, 2 de febrero de 1974. (U.S. Air Force 071202-F-9999J-029). Fuente: <a href="https://www.thisdayinaviation.com/2-february-1974/">2 February 1974</a></figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
