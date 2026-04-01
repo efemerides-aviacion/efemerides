@@ -2,16 +2,16 @@
 layout: post
 title: "Efemérides de Aviación | 18 de febrero de 1977 | Primer vuelo cautivo del Transbordador Espacial Enterprise"
 date: 1977-02-18
-categories: [aviacion-espacial]
+categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA
 excerpt: "El 18 de febrero de 1977, el prototipo Enterprise (OV-101) realizó su primer vuelo cautivo sobre un Boeing 747 Shuttle Carrier Aircraft en Edwards AFB, iniciando el programa de pruebas ALT."
-image: 1977-02-18-primer-vuelo-entreprise-cautivo-inerte.jpg
+image: 1977-02-18-primer-vuelo-enterprise.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1977-02-18-primer-vuelo-entreprise-cautivo-inerte.jpg" alt="Enterprise OV-101 en su primer vuelo cautivo sobre el 747 SCA">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1977-02-18-primer-vuelo-enterprise.webp" alt="Enterprise OV-101 en su primer vuelo cautivo sobre el 747 SCA">
   <figcaption class="post-caption">Enterprise OV-101 durante su primer vuelo cautivo sobre el Boeing 747 NASA 905, 18 de febrero de 1977, Edwards AFB. (Foto: NASA / DFRC).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
