@@ -2,16 +2,16 @@
 layout: post
 title: "Efemérides de Aviación | 19 de febrero de 1982 | Primer vuelo del Boeing 757"
 date: 1982-02-19
-categories: [aviacion-comercial]
+categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Boeing
 excerpt: "El 19 de febrero de 1982, el prototipo Boeing 757-200 N757A realizó su primer vuelo desde Renton hacia Paine Field, marcando el inicio de uno de los birreactores más versátiles de Boeing."
-image: 1982-02-19-primer-vuelo-b-757.jpg
+image: 1982-02-19-primer-vuelo-boeing-757.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1982-02-19-primer-vuelo-b-757.jpg" alt="Prototipo Boeing 757-200 N757A durante su vuelo inaugural en 1982">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1982-02-19-primer-vuelo-boeing-757.webp" alt="Prototipo Boeing 757-200 N757A durante su vuelo inaugural en 1982">
   <figcaption class="post-caption">Prototipo Boeing 757-200 N757A durante su vuelo inaugural, 19 de febrero de 1982, desde Renton Municipal Airport hacia Paine Field. Pilotos: John H. Armstrong y Samuel Lewis ‘Lew’ Wallick Jr. (Foto: Boeing / Archivo histórico).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
