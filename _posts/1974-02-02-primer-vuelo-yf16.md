@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 2 de febrero de 1974 | Evento | Primer vuelo oficial del YF-16"
+title: "Efemérides de Aviación | 2 de febrero de 1974 | Primer vuelo oficial del YF-16"
 date: 1974-02-02
-categories: [aviacion-historia]
+categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: General Dynamics / USAF
 excerpt: "El 2 de febrero de 1974 se realizó el primer vuelo oficial del prototipo YF-16 en Edwards AFB."
-image: 1974-02-02-primer-vuelo-yf16.jpg
+image: 1974-02-02-primer-vuelo-yf16.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1974-02-02-primer-vuelo-yf16.jpg" alt="Primer vuelo del YF-16 en Edwards AFB">
-  <figcaption class="post-caption">Utilizando tecnología «fly-by-wire», el prototipo General Dynamics YF-16 completó su primer vuelo sobre la base aérea Edwards, en California, el 2 de febrero de 1974.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/11974-02-02-primer-vuelo-yf16.webp" alt="Primer vuelo del YF-16 en Edwards AFB">
+  <figcaption class="post-caption">General Dynamics YF-16 Fighting Falcon 72-1567 en vuelo, 2 de febrero de 1974. (U.S. Air Force 071202-F-9999J-029). Fuente: <a href="https://www.thisdayinaviation.com/2-february-1974/">2 February 1974</a></figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
