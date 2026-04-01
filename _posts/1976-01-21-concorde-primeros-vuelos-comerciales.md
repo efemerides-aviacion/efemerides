@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 21 de enero de 1976 | Evento | Primeros vuelos comerciales del Concorde"
+title: "Efemérides de Aviación | 21 de enero de 1976 | Primeros vuelos comerciales del Concorde"
 date: 1976-01-21
 categories: [aviacion-evento]
 author: [Enrique Pomares]
 pais: Francia / Reino Unido
 operator: Air France / British Airways
 excerpt: "El Concorde inauguró simultáneamente su servicio comercial con vuelos de Air France y British Airways."
-image: 1976-01-21-concorde_air_france_british_airway.jpg
+image: 1976-01-21-concorde-primeros-vuelos-comerciales.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1976-01-21-concorde_air_france_british_airway.jpg" alt="Primeros vuelos comerciales del Concorde">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1976-01-21-concorde-primeros-vuelos-comerciales.webp" alt="Primeros vuelos comerciales del Concorde">
   <figcaption class="post-caption">Despegues simultáneos de los primeros vuelos comerciales del Concorde: British Airways G‑BOAA desde Londres‑Heathrow y Air France F‑BVFA desde París‑Orly, 21 de enero de 1976.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
@@ -62,11 +62,12 @@ Recordado como símbolo de innovación y prestigio, el Concorde sigue siendo un 
     <li><a href="https://es.wikipedia.org/wiki/Concorde">Wikipedia (ES) – Concorde</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Concorde">Wikipedia (EN) – Concorde</a></li>
     <li><a href="https://www.heritageconcorde.com/concorde-first-scheduled-services">Heritage Concorde – Concorde First Scheduled Services</a></li>
-    <li><a href="https://airwaysmag.com/legacy-posts/concorde-enters-service">Airways – 1/21/1976: Concorde Enters Synchronized Service</a></li>
+    <li><a href="https://www.airwaysmag.com/new-post/concorde-enters-synchronized-service">Airways – 1/21/1976: Concorde Enters Synchronized Service</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Concorde_operational_history">Wikipedia (EN) – Concorde operational history</a></li>
     <li><a href="https://www.businessinsider.com/concorde-first-supersonic-passenger-flight-2016-2">Business Insider – Concorde First Passenger Flight 40 Years</a></li>
     <li><a href="https://www.elcomercio.com/actualidad/1976-concorde-realiza-primer-vuelo/">El Comercio – 1976: el Concorde realiza su primer vuelo comercial</a></li>
     <li><a href="https://www.transponder1200.com/se-cumplieron-45-anos-del-primer-vuelo-del-concorde/">Transponder1200 – Se cumplieron 45 años del primer vuelo del Concorde</a></li>
+    <li><a href="https://www.youtube.com/watch?v=s44bskI4Fpc">CONCORDE - 50.º aniversario de los primeros vuelos comerciales - Episodio 16 de Irish Skies Pod</a></li>
   </ul>
 </div>
 
