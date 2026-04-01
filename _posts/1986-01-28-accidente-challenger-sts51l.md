@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 28 de enero de 1986 | Evento | Accidente del Challenger STS‑51‑L"
+title: "Efemérides de Aviación | 28 de enero de 1986 | Accidente del Challenger STS‑51‑L"
 date: 1986-01-28
-categories: [espacio-evento]
+categories: [aviacion-espacial, aviacion-accidente]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: NASA
 excerpt: "El 28 de enero de 1986 el transbordador espacial Challenger se desintegró 73 segundos tras el despegue."
-image: 1986-01-28-tripulacion-de-la-mision-challenger-51-l.jpg
+image: 1986-01-28-accidente-challenger-sts51l.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1986-01-28-tripulacion-de-la-mision-challenger-51-l.jpg" alt="Tripulación del Challenger STS-51-L">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1986-01-28-accidente-challenger-sts51l.webp" alt="Tripulación del Challenger STS-51-L">
   <figcaption class="post-caption">La tripulación de la misión STS‑51‑L del transbordador espacial posa para su retrato oficial el 15 de noviembre de 1985. En la fila trasera: Ellison S. Onizuka, Sharon Christa McAuliffe, Greg Jarvis y Judy Resnik. En la fila delantera: Michael J. Smith, Dick Scobee y Ron McNair.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
