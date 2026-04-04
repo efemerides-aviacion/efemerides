@@ -114,7 +114,6 @@ El Airbus A320 N106US se exhibe en el **Sullenberger Aviation Museum** (anterior
 - **Altitud del impacto con aves:** El informe de la NTSB indica 2.818 pies (859 m). No hay discrepancia significativa con otras fuentes.
 - **Responsable de apertura de la puerta trasera izquierda:** Algunas fuentes indican que fue un auxiliar de vuelo; otras, un pasajero. El informe de la NTSB señala que no se pudo determinar con certeza. Se omite la atribución.
 
-**Herramienta utilizada:** Search (con verificación cruzada entre NTSB, Wikipedia, ASN y fuentes multimedia).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
