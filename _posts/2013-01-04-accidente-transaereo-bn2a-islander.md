@@ -12,7 +12,7 @@ image: 2013-01-04-accidente-transaereo-bn2a-islander.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2013-01-04-accidente-transaereo-bn2a-islander.webp" alt="Britten-Norman BN-2A Islander YV2615 de Transaereo">
-  <figcaption class="post-caption">Britten-Norman BN-2A Islander YV2615 de Transaereo, fotografiado en septiembre de 2011. Esta aeronave sufrió un accidente el 4 de enero de 2013 en la ruta Los Roques–Caracas, con 6 víctimas fatales. Fuente: <a href="https://aviation-safety.net/wikibase/320820">Aviation Safety Network</a>.</figcaption>
+  <figcaption class="post-caption">Britten-Norman BN-2A Islander YV2615 de Transaereo, fotografiado en septiembre de 2011. Esta aeronave sufrió un accidente el 4 de enero de 2013 en la ruta Los Roques–Caracas, con 6 víctimas fatales. Fuente: <a href="https://www.jetphotos.com/photo/7210300">Jet Photos - Fotógrafo: Bruno Orofino</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
