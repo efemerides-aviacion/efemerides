@@ -14,11 +14,11 @@ author: Enrique Pomares
 pais: Francia
 operator: Aéronautique Militaire (Francia)
 excerpt: "El 27 de marzo de 1894 nació René Paul Fonck, el as de ases de la aviación aliada durante la Primera Guerra Mundial, con 75 victorias confirmadas, siendo el piloto de la Entente con más derribos y el segundo en la historia del conflicto solo detrás de Manfred von Richthofen."
-image: 1894-03-27-rene-paul-fonck-as-primera-guerra-mundial.jpg
+image: 1894-03-27-rene-paul-fonck-as-primera-guerra-mundial.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1894-03-27-rene-paul-fonck-as-primera-guerra-mundial.jpg" alt="René Paul Fonck, as francés de la Primera Guerra Mundial">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1894-03-27-rene-paul-fonck-as-primera-guerra-mundial.webp" alt="René Paul Fonck, as francés de la Primera Guerra Mundial">
   <figcaption class="post-caption">René Paul Fonck, as de ases de la aviación francesa con 75 victorias confirmadas, ca. 1918. Retrato autografiado original. Fuente: <a href="https://lesautographesdusiecle.com/aviation/12824-fonck-rene-1894-1953.html">Les Autographes du Siecle</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
@@ -224,11 +224,11 @@ author: Enrique Pomares
 pais: Francia
 operator: Airbus
 excerpt: "El 25 de marzo de 2022, un Airbus A380 de pruebas (MSN1) realizó el primer vuelo con uno de sus motores alimentado al 100% con combustible de aviación sostenible (SAF), un hito clave en la descarbonización de la aviación comercial."
-image: 2022-03-25-primer-vuelo-airbus-380-con-saf.jpg
+image: 2022-03-25-primer-vuelo-airbus-380-con-saf.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/2022-03-25-primer-vuelo-airbus-380-con-saf.jpg" alt="Airbus A380 con combustible SAF">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/2022-03-25-primer-vuelo-airbus-380-con-saf.webp" alt="Airbus A380 con combustible SAF">
   <figcaption class="post-caption">Airbus A380 MSN1 durante su primer vuelo con motor Rolls‑Royce Trent 900 alimentado 100% SAF, 25 marzo 2022, Toulouse‑Blagnac. © Airbus / Airbus Communications.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
@@ -318,11 +318,11 @@ author: Enrique Pomares
 pais: Francia / Alemania / España / Reino Unido
 operator: Airbus Industrie
 excerpt: "El 18 de diciembre de 1970 se constituyó Airbus Industrie como un consorcio europeo bajo la figura de Groupement d’Intérêt Économique (GIE), iniciando con el proyecto A300 y marcando el comienzo de la cooperación transnacional en la industria aeronáutica."
-image: 1970-12-18-airbus-industrie-fundacion.jpg
+image: 1970-12-18-airbus-industrie-fundacion.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1970-12-18-airbus-industrie-fundacion.jpg" alt="Historia gráfica de los logos de Airbus Industrie">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1970-12-18-airbus-industrie-fundacion.webp" alt="Historia gráfica de los logos de Airbus Industrie">
   <figcaption class="post-caption">Historia gráfica de los logos que han representado a Airbus Industrie desde su fundación en 1970 hasta el presente.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
@@ -489,11 +489,11 @@ author: Enrique Pomares
 pais: Egipto
 operator: EgyptAir
 excerpt: "El Boeing 737-200 de EgyptAir, vuelo 648, fue secuestrado por la Organización Abu Nidal en ruta Atenas–El Cairo, desencadenando una crisis internacional."
-image: 1985-11-23-egyptair-flight-648.jpg
+image: 1985-11-23-egyptair-flight-648.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1985-11-23-egyptair-flight-648.jpg" alt="Boeing 737-200 de EgyptAir involucrado en el secuestro del Vuelo 648">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1985-11-23-egyptair-flight-648.webp" alt="Boeing 737-200 de EgyptAir involucrado en el secuestro del Vuelo 648">
   <figcaption class="post-caption">Boeing 737-200 de EgyptAir (matrícula SU-AYH), el avión involucrado en el secuestro del Vuelo 648 por la Organización Abu Nidal el 23 de noviembre de 1985 en ruta Atenas–El Cairo.</figcaption>
 </figure>
 
