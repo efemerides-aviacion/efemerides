@@ -54,7 +54,7 @@ Si no se encuentran al menos 2 fuentes primarias verificables que confirmen fech
    - 3–4 líneas máximo, solo datos verificados.  
 
 4. **Datos técnicos e históricos**  
-   - Lista fluida con indicadores de certeza: [VERIFICADO], [FUENTE ÚNICA], [NO CONFIRMADO].  
+   - Lista fluida con indicadores de certeza: [VERIFICADO] (aunque este no se coloca en el texto del documento), [FUENTE ÚNICA], [NO CONFIRMADO].  
 
 5. **Cuerpo principal – Secciones temáticas**  
    - Contexto histórico  
