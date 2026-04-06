@@ -6,7 +6,7 @@ categories: [aviacion-evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Amelia Earhart
-excerpt: "El 11 de enero de 1935, Amelia Earhart se convirtió en la primera persona en volar en solitario desde Honolulu, Hawái, hasta Oakland, California. A bordo de su Lockheed Vega 5B 'Little Red Bus', recorrió 2,408 millas (3,875 km) en 18 horas y 15 minutos, superando condiciones climáticas adversas y consolidándose como la aviadora más importante de su época."
+excerpt: "El 11 de enero de 1935, Amelia Earhart se convirtió en la primera persona en volar en solitario desde Honolulu, Hawái, hasta Oakland, California. A bordo de su Lockheed Vega 5B 'Little Red Bus', recorrió 2.408 millas (3.875 km) en 18 horas y 15 minutos, superando condiciones climáticas adversas y consolidándose como la aviadora más importante de su época."
 image: 1935-01-11-amelia-earhart-primer-vuelo-en-solitario.webp
 ---
 
@@ -18,7 +18,7 @@ image: 1935-01-11-amelia-earhart-primer-vuelo-en-solitario.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 11 de enero de 1935, Amelia Earhart despegó de Wheeler Field, Honolulu, para realizar una de las travesías más peligrosas de la aviación de la época: cruzar el Océano Pacífico desde Hawái hasta California. A bordo de su Lockheed Vega 5B (matrícula NR-965Y), apodado "Little Red Bus", recorrió 2,408 millas (3,875 km) en 18 horas y 15 minutos. Este vuelo no solo consolidó su estatus como pionera, sino que demostró la viabilidad de rutas transoceánicas de larga distancia, superando el desastroso historial de la carrera aérea Dole de 1927, donde varios aviadores perdieron la vida intentando el mismo trayecto.</p>
+<p>El 11 de enero de 1935, Amelia Earhart despegó de Wheeler Field, Honolulu, para realizar una de las travesías más peligrosas de la aviación de la época: cruzar el Océano Pacífico desde Hawái hasta California. A bordo de su Lockheed Vega 5B (matrícula NR-965Y), apodado "Little Red Bus", recorrió 2.408 millas (3.875 km) en 18 horas y 15 minutos. Este vuelo no solo consolidó su estatus como pionera, sino que demostró la viabilidad de rutas transoceánicas de larga distancia, superando el desastroso historial de la carrera aérea Dole de 1927, donde varios aviadores perdieron la vida intentando el mismo trayecto.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
@@ -36,9 +36,9 @@ image: 1935-01-11-amelia-earhart-primer-vuelo-en-solitario.webp
 - **Año de fabricación:** 1930
 - **Motor:** Pratt & Whitney Wasp C (450 hp)
 - **Velocidad de crucero:** Aproximadamente 210 km/h (130 mph)
-- **Distancia recorrida:** 2,408 millas (3,875 km)
+- **Distancia recorrida:** 2.408 millas (3.875 km)
 - **Duración del vuelo:** 18 horas y 15 minutos
-- **Combustible transportado:** 1,060 litros (280 galones) en tanques adicionales
+- **Combustible transportado:** 1.060 litros (280 galones) en tanques adicionales
 - **Resultado inmediato:** Vuelo exitoso; Earhart se convirtió en la primera persona en volar en solitario la ruta Hawái-California
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
@@ -55,9 +55,9 @@ En plena Gran Depresión (1929-1939), las hazañas de Earhart servían como un e
 
 El Lockheed Vega 5B era una aeronave de vanguardia con fuselaje monocasco de madera (construido con capas de abedul y caoba encoladas), diseñado por John K. Northrop y Gerard Vultee. Para este vuelo, fue equipado con modificaciones especiales:
 
-- **Tanques de combustible adicionales:** Reemplazaron el asiento del pasajero, aumentando la capacidad a 1,060 litros.
+- **Tanques de combustible adicionales:** Reemplazaron el asiento del pasajero, aumentando la capacidad a 1.060 litros.
 - **Radio de dos vías:** Tecnología crítica para la navegación sobre el Pacífico, donde no había puntos de referencia visuales.
-- **Sistema de oxígeno:** Para volar a altitudes superiores a 3,000 metros si fuera necesario sortear tormentas.
+- **Sistema de oxígeno:** Para volar a altitudes superiores a 3.000 metros si fuera necesario sortear tormentas.
 - **Instrumentación mejorada:** Altímetro, brújula direccional, indicador de combustible y velocímetro.
 
 ### Entorno cultural
@@ -78,7 +78,7 @@ Entre el 16 y el 18 de agosto de 1927, ocho aviones (con 16 aviadores) intentaro
 
 - **Durante el vuelo:** Mantuvo contacto radial constante con estaciones en Hawái y luego en la costa oeste. Earhart incluso escuchó transmisiones de radio comerciales para entretenimiento y orientación, sintonizando estaciones de San Francisco cuando se acercaba al continente. Durante la noche, voló a través de tormentas y enfrentó vientos cruzados.
 
-- **12 de enero de 1935, 13:10 (hora del Pacífico):** Aterrizaje en el Aeropuerto de Oakland, California, ante una multitud de aproximadamente 10,000 personas que la recibieron con una lluvia de flores y vítores. El gobernador de California, Frank Merriam, la recibió personalmente.
+- **12 de enero de 1935, 13:10 (hora del Pacífico):** Aterrizaje en el Aeropuerto de Oakland, California, ante una multitud de aproximadamente 10.000 personas que la recibieron con una lluvia de flores y vítores. El gobernador de California, Frank Merriam, la recibió personalmente.
 
 - **Inmediatamente después:** Earhart declaró a la prensa: "Estoy muy contenta de haberlo logrado. Fue un vuelo largo y solitario, pero valió la pena cada minuto".
 
@@ -116,7 +116,7 @@ El vuelo también es recordado como un paso crucial en la carrera de Earhart hac
 
 Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviación:
 
-- **8 de abril de 1931:** Estableció un récord mundial femenino de altitud en autogiro (18,415 pies / 5,615 m) a bordo de un Pitcairn PCA-2. <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1931/04/08/amelia-earhart-record-altitud-autogiro.html">Ver efeméride completa</a>.
+- **8 de abril de 1931:** Estableció un récord mundial femenino de altitud en autogiro (18.415 pies / 5.615 m) a bordo de un Pitcairn PCA-2. <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1931/04/08/amelia-earhart-record-altitud-autogiro.html">Ver efeméride completa</a>.
 
 - **20 de mayo – 21 de mayo de 1932:** Primer vuelo en solitario de una mujer a través del Atlántico (Newfoundland → Irlanda), por el que recibió la Distinguished Flying Cross del Congreso de EE.UU.
 
@@ -141,7 +141,7 @@ Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviaci
   <ul>
     <li>La matrícula NR-965Y corresponde al Lockheed Vega 5B. La "N" indica registro en Estados Unidos, la "R" indicaba que era un avión de carreras o récord (racing).</li>
     <li>El apodo "Little Red Bus" (Pequeño Autobús Rojo) se debía al color rojo intenso del fuselaje y a su capacidad para transportar grandes cantidades de combustible.</li>
-    <li>Algunas fuentes citan la distancia como 2,408 millas (3,875 km); otras como 2,400 millas exactas. La cifra utilizada es la del registro oficial de la NAA (National Aeronautic Association).</li>
+    <li>Algunas fuentes citan la distancia como 2.408 millas (3.875 km); otras como 2.400 millas exactas. La cifra utilizada es la del registro oficial de la NAA (National Aeronautic Association).</li>
     <li>El despegue desde Wheeler Field (base de la Fuerza Aérea del Ejército) fue autorizado especialmente, ya que el aeropuerto civil de Honolulu (John Rodgers) no tenía una pista lo suficientemente larga para el avión cargado con combustible.</li>
   </ul>
 </div>
@@ -153,8 +153,8 @@ Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviaci
 - **Timestamp de verificación:** 2026-04-06 10:15:00 UTC
 - **Fuentes primarias consultadas:** Smithsonian National Air and Space Museum, Hawaii Aviation History (Archivo Oficial del Estado), Amelia Earhart Official Biography, Wikipedia (EN/ES), National Geographic, History.com
 - **Discrepancias resueltas:**
-  - Distancia del vuelo: 2,408 millas según el registro oficial de la NAA; algunas fuentes citan 2,400 millas redondeadas.
+  - Distancia del vuelo: 2.408 millas según el registro oficial de la NAA; algunas fuentes citan 2.400 millas redondeadas.
   - Hora de despegue: 16:40 (hora de Hawái) confirmada por fuentes oficiales.
-  - Número de espectadores en Oakland: aproximadamente 10,000 personas según reportes periodísticos de la época.
+  - Número de espectadores en Oakland: aproximadamente 10.000 personas según reportes periodísticos de la época.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."
