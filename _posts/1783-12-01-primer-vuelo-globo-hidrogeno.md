@@ -7,12 +7,12 @@ author: Enrique Pomares
 pais: Francia
 operator: Jacques Charles y Nicolas-Louis Robert
 excerpt: "El 1 de diciembre de 1783, Jacques Charles y Nicolas-Louis Robert realizaron el primer vuelo tripulado en un globo de hidrógeno, partiendo de los Jardines de las Tullerías en París y recorriendo 43 km hasta Nesles."
-image: 1783-12-01-primer-vuelo-globo-hidrogeno.jpg
+image: 1783-12-01-primer-vuelo-globo-hidrogeno.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1783-12-01-primer-vuelo-globo-hidrogeno.jpg" alt="Jacques Charles y Nicolas-Louis Robert en el primer vuelo tripulado en globo de hidrógeno, París 1783">
-  <figcaption class="post-caption">Jacques Charles y Nicolas-Louis Robert en el globo La Charlière, primer vuelo tripulado en globo de hidrógeno, París, 1 de diciembre de 1783. (Fuente: MeisterDrucke / grabado histórico).</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1783-12-01-primer-vuelo-globo-hidrogeno.webp" alt="Jacques Charles y Nicolas-Louis Robert en el primer vuelo tripulado en globo de hidrógeno, París 1783">
+  <figcaption class="post-caption">El profesor Jacques Charles y Nicolas-Louis Robert realizan el primer vuelo tripulado en globo de hidrógeno del mundo el 1 de diciembre de 1783 en los Jardines de las Tullerías, en París. Fuente: La obra «Histoire de France», publicada hacia 1880 (grabado). <a href="https://www.meisterdrucke.es/impresion-art%C3%ADstica/French-School/938638/El-profesor-Jacques-Charles-y-Nicolas-Louis-Robert-vuelan-el-primer-globo-de-hidr%C3%B3geno-tripulado-del-mundo-el-1-de-diciembre-de-1783-en-los-Jardines-de-las-Tuller%C3%ADas,-Par%C3%ADs,-de-'Histoire-de-France',-publicado-c.1880.html">MeisterDrucke</a></figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 
