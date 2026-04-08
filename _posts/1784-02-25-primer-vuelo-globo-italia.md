@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Italia
 operator: Paolo Andreani
 excerpt: "El 25 de febrero de 1784, Paolo Andreani realizó el primer vuelo tripulado en globo aerostático sobre suelo italiano, acompañado por los hermanos Gerli."
-image: 1784-02-25-vuelo-globo-italiano-paolo-andreani.jpg
+image: 1784-02-25-primer-vuelo-globo-italia.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1784-02-25-vuelo-globo-italiano-paolo-andreani.jpg" alt="Vuelo en globo de Paolo Andreani, 1784">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1784-02-25-primer-vuelo-globo-italia.webp" alt="Vuelo en globo de Paolo Andreani, 1784">
   <figcaption class="post-caption">Ascenso del globo aerostático de Paolo Andreani y los hermanos Gerli desde el jardín de la Villa Andreani en Moncucco (Brugherio), el 25 de febrero de 1784, primer vuelo en globo realizado en suelo italiano ante una multitud de espectadores. Fuente: Marco Rasch.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
