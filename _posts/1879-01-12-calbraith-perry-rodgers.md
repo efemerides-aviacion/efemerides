@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Calbraith Perry Rodgers
 excerpt: "Nacimiento de Calbraith Perry Rodgers, pionero de la aviación estadounidense, recordado por su vuelo transcontinental de 1911."
-image: 1879-01-12-calbraith-rodgers-en-vin-fiz.jpg
+image: 1879-01-12-calbraith-perry-rodgers.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1879-01-12-calbraith-rodgers-en-vin-fiz.jpg" alt="Calbraith Perry Rodgers en el Vin Fiz Flyer">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1879-01-12-calbraith-perry-rodgers.webp" alt="Calbraith Perry Rodgers en el Vin Fiz Flyer">
   <figcaption class="post-caption">Calbraith Perry Rodgers en la cabina del Vin Fiz Flyer, con gafas de aviador y expresión resuelta. Fotografía tomada durante su etapa como pionero de la aviación estadounidense, 1911.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
