@@ -6,11 +6,11 @@ categories: [aviacion-nacimiento]
 author: Enrique Pomares
 país: Francia
 excerpt: "El 29 de diciembre de 1881 nació Jules Védrines, pionero de la aviación francesa, célebre por sus récords de velocidad y su histórico aterrizaje en la azotea de las Galerías Lafayette en París."
-image: 1881-12-29-jules-vedrines.jpg
+image: 1881-12-29-jules-vedrines.webp
 ---
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1881-12-29-jules-vedrines.jpg" alt="Jules Védrines, pionero de la aviación francesa">
-  <figcaption class="post-caption">Retrato del famoso aviador Jules Védrines en un monoplano Morane-Berel, último modelo.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1881-12-29-jules-vedrines.webp" alt="Jules Védrines, pionero de la aviación francesa">
+  <figcaption class="post-caption">Jules Védrines (1881-1919), aviador francés, piloto brevetado nº 312 el 7 de diciembre de 1910 en la escuela Blériot, ca. 1911. Colección earlyaviators.com.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
@@ -59,13 +59,12 @@ Jules Védrines es recordado como un pionero que llevó la aviación más allá 
     <li><a href="https://en.wikipedia.org/wiki/Jules_V%C3%A9drines">Wikipedia en inglés – Jules Védrines</a></li>
     <li><a href="https://www.universalis.fr/encyclopedie/jules-vedrines/">Encyclopédie Universalis – Jules Védrines</a></li>
     <li><a href="https://earlyaviators.com/evedrine.htm">Early Birds of Aviation – Jules Védrines</a></li>
-    <li><a href="https://www.galerieslafayette.com/magazine/en/history-of-galeries-lafayette-paris-haussmann/">Galeries Lafayette – Historia oficial</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-28 13:15:00 UTC  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), Encyclopédie Universalis, Early Birds of Aviation, Galeries Lafayette Official History  
+- **Fuentes primarias consultadas:** Wikipedia (ES/EN), Encyclopédie Universalis, Early Birds of Aviation  
 - **Discrepancias resueltas:** Algunas fuentes citan *20 de abril de 1919* como fecha de fallecimiento; la mayoría de archivos oficiales y biográficos confirman *21 de abril de 1919*.  
 - **Nivel de confianza:** 95%  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
