@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: US Navy
 excerpt: "Theodore G. Ellyson, primer aviador naval de la US Navy, designado Navy Air Pilot No. 1 y primer en recibir las alas de oro en 1918."
-image: 1885-02-27-theodore-gordon-ellyson.jpg
+image: 1885-02-27-theodore-gordon-ellyson.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1885-02-27-theodore-gordon-ellyson.jpg" alt="Theodore G. Ellyson, Naval Aviator No. 1">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1885-02-27-theodore-gordon-ellyson.webp" alt="Theodore G. Ellyson, Naval Aviator No. 1">
   <figcaption class="post-caption">Comandante Theodore G. ‘Spuds’ Ellyson, USN, Naval Aviator No. 1, con las alas de oro originales de la US Navy (1918), tras sus pioneros vuelos en el hidroavión Curtiss A-1 Triad. Fuente: US Navy / archivo histórico.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
