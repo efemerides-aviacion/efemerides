@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Venezuela
 operator: —
 excerpt: "Luis Camilo Ramírez Rivas, primer piloto aviador y de guerra venezolano, héroe de la Primera Guerra Mundial."
-image: 1886-01-23-luis-camilo-rivera-rivas.jpg
+image: 1886-01-23-luis-camilo-rivera-rivas.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1886-01-23-luis-camilo-rivera-rivas.jpg" alt="Luis Camilo Ramírez Rivas">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1886-01-23-luis-camilo-rivera-rivas.webp" alt="Luis Camilo Ramírez Rivas">
   <figcaption class="post-caption">Luis Camilo Ramírez Rivas, primer piloto aviador venezolano, en uniforme de teniente coronel de la Legión Extranjera Francesa durante la Primera Guerra Mundial, exhibiendo sus condecoraciones.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
