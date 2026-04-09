@@ -81,7 +81,6 @@ El "Jueves Negro" es recordado como una de las derrotas más significativas de l
     <p><strong>Nota aclaratoria:</strong> La participación soviética en la Guerra de Corea fue oficialmente negada por la URSS durante décadas. Los pilotos soviéticos vestían uniformes norcoreanos o chinos, y sus aviones llevaban insignias norcoreanas. La existencia de estos pilotos y su papel en el "Jueves Negro" solo fue confirmada tras la desclasificación de archivos soviéticos en la década de 1990. Las cifras de pérdidas varían según las fuentes: las fuentes soviéticas reclaman cifras mucho más altas de B-29 derribados, mientras que los registros oficiales de la USAF reconocen 3 pérdidas y 7 dañados. Este artículo utiliza las cifras oficiales estadounidenses, que son las más conservadoras y verificables en archivos occidentales.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
