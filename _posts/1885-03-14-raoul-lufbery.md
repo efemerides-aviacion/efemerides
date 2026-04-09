@@ -6,11 +6,11 @@ categories: [aviacion-nacimiento]
 author: Enrique Pomares
 pais: Francia / Estados Unidos
 excerpt: "Piloto franco-estadounidense, miembro legendario de la Escadrille Lafayette durante la Primera Guerra Mundial, con 17 victorias aéreas confirmadas que lo convierten en uno de los primeros ases estadounidenses. Su transición de mecánico a piloto y su mentoría a pilotos como Eddie Rickenbacker marcan su legado en la aviación militar."
-image: 1885-03-14-raoul-lufbery.jpg
+image: 1885-03-14-raoul-lufbery.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1885-03-14-raoul-lufbery.jpg" alt="Raoul Lufbery">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1885-03-14-raoul-lufbery.webp" alt="Raoul Lufbery">
   <figcaption class="post-caption">Subteniente Raoul Lufbery, circa 1917. Porta insignia de piloto, Legión de Honor, Medalla Militar y Cruz de Guerra (1 plata, 3 bronce) junto a SPAD S.VII C.1 de SPA 124 "La Fayette". (Capt. Robert Soubiran/Biblioteca del Congreso LC-USZ62-101970)</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
