@@ -94,7 +94,8 @@ La cápsula Vostok 1 se exhibe en el Museo Estatal de Historia del Cosmos K. E. 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
-## NOTA ACLARATORIA
+## Nota aclaratoria
+
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Según los protocolos de la misión Vostok, la nave no estaba diseñada para un aterrizaje suave con el cosmonauta dentro. Por seguridad, Gagarin fue eyectado a 7 km de altitud y descendió en paracaídas por separado de la cápsula. Durante décadas, la Unión Soviética ocultó este detalle para cumplir con los requisitos de la Federación Aeronáutica Internacional (FAI) sobre vuelos espaciales tripulados, que exigían que el piloto aterrizara dentro de su nave. La FAI aceptó la versión soviética hasta 1971, cuando se reveló el procedimiento real. Actualmente, se considera que Gagarin completó su vuelo exitosamente, independientemente del método de aterrizaje.</p>
