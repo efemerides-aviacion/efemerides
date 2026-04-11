@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 14 de abril de 1921 | Primer vuelo del Capitán Manuel Ríos"
+title: "Efemérides de Aviación | 14 de abril de 1921 | Primer vuelo del Subteniente Manuel Ríos"
 date: 1921-04-14
 categories: [aviacion-evento]
 author: Enrique Pomares
