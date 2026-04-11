@@ -104,16 +104,3 @@ El GAOE N° 15 es una de las unidades más emblemáticas de la aviación militar
 - **Nivel de confianza:** Medio (las fuentes disponibles son principalmente foros y redes sociales; no se encontraron documentos oficiales de la Fuerza Aérea Venezolana que confirmen la fecha con documentación primaria)
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
 
----
-
-## COMMIT PARA GITHUB DESKTOP
-
-**feat(efemerides): Fundación del GAOE N° 15 de la Fuerza Aérea de Venezuela (14 de abril de 1975)**
-
-- Fundación del Grupo Aéreo de Operaciones Especiales N° 15 en Maracaibo
-- Unidad especializada en apoyo de fuego, reconocimiento táctico y evacuación aeromédica
-- Operó inicialmente con OV-10 Bronco y posteriormente con K-8W
-- Conmemoración de 50 años en 2025
-
-Categoría: aviacion-fundacion
-País: Venezuela
