@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""Efemérides de Aviación | 15 de abril de 1926 | Primer vuelo fundacional que dio origen a American Airlines"
+title: "Efemérides de Aviación | 15 de abril de 1926 | Primer vuelo fundacional que dio origen a American Airlines"
 date: 1926-04-15
 categories: [aviacion-fundacion]
 author: Enrique Pomares
