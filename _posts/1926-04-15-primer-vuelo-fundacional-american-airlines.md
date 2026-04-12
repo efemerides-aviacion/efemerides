@@ -5,7 +5,7 @@ date: 1926-04-15
 categories: [aviacion-fundacion]
 author: Enrique Pomares
 pais: Estados Unidos
-operator: American Airlines
+operator: Robertson Aircraft Corporation
 excerpt: "El 15 de abril de 1926, un joven piloto llamado Charles A. Lindbergh despegó de Chicago a bordo de un biplano DH-4 con una bolsa de correo, realizando el primer vuelo de la ruta que daría origen a American Airlines, actualmente la aerolínea más grande del mundo por pasajeros transportados y flota."
 image: 1926-04-15-primer-vuelo-fundacional-american-airlines.webp
 ---
