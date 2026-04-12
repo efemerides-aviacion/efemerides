@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 15 de abril de 1452 | Nacimiento de Leonardo da Vinci"
+title: "Efemérides de Aviación | 15 de abril de 1452 | Leonardo da Vinci"
 date: 1452-04-15
 categories: [aviacion-nacimiento]
 author: Enrique Pomares
