@@ -344,6 +344,7 @@ image: 1970-12-18-airbus-industrie-fundacion.webp
 - **Participación de España:** incorporación en 1971 a través de CASA  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+
 ## Contexto Histórico
 A finales de los años 60, el mercado estaba dominado por Boeing, McDonnell Douglas y Lockheed. Europa comprendió que ninguna empresa nacional podía competir sola. Tras el acuerdo ministerial de 1969 entre Francia y Alemania, la constitución legal del GIE en 1970 consolidó la estructura multinacional.
 
