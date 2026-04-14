@@ -8,6 +8,7 @@ pais: Venezuela
 operator: Escuela de Aviación Militar de Venezuela
 excerpt: "El 14 de abril de 1921, el subteniente Manuel Ríos Hernández realizó el primer vuelo solo de un piloto militar venezolano desde el Campo de Aviación de Maracay en un Caudron G.3, marcando un hito en la naciente aviación nacional."
 image: 1921-04-14-primer-vuelo-manuel-rios.webp
+published: false
 ---
 
 <figure>
