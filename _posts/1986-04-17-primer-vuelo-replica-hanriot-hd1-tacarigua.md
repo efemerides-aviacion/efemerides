@@ -109,7 +109,7 @@ Hanriot HD.1 “Tacarigua” sigue siendo, más de tres décadas después de su 
 
 El “Tacarigua” representa el espíritu de innovación y la capacidad técnica de la Fuerza Aérea Venezolana. Su construcción fue posible gracias a la visión de los líderes de la institución, la experiencia de técnicos como Romano Remiddi y el esfuerzo de los alumnos de la Escuela Técnica.
 
-Hoy, el avión se encuentra en exposición en el Museo Aeronáutico de Maracay “Coronel (AV) Luis Hernán Paredes”, en la misma base donde realizó su vuelo inaugural. Es uno de los principales atractivos del museo y un símbolo del orgullo aeronáutico nacional.
+Hoy, el avión se encuentra en exposición en el Museo Aeronáutico de Maracay "Coronel (AV) Luis Hernán Paredes", ubicado en la Base Aragua de Maracay, no lejos del lugar donde realizó su vuelo inaugural en Boca de Río. Es uno de los principales atractivos del museo y un símbolo del orgullo aeronáutico nacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
