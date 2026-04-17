@@ -93,7 +93,7 @@ La compañía comenzó a operar en una pequeña planta de Wichita, una antigua f
 - **1950:** Fallece Walter Beech; Olive Ann Beech asume la presidencia y se convierte en la primera mujer en liderar una empresa Fortune 500 .
 - **1964:** Beechcraft introduce el King Air Modelo 90, el primer turbopropulsor de cabina presurizada, que se convertiría en la línea de aviones ejecutivos más exitosa del mundo .
 - **1980:** Raytheon adquiere Beech Aircraft Corporation; Olive Ann Beech se retira en 1982. La compañía cambió de propietario varias veces (Raytheon, Goldman Sachs, Textron), pero la marca Beechcraft nunca desapareció.
-**2014:** Textron Aviation (propietaria de Cessna) adquiere Beechcraft Corporation, que continúa como una marca del grupo Textron Aviation junto a Cessna y Hawker.
+- **2014:** Textron Aviation (propietaria de Cessna) adquiere Beechcraft Corporation, que continúa como una marca del grupo Textron Aviation junto a Cessna y Hawker.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
