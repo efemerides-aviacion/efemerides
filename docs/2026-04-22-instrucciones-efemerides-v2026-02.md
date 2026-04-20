@@ -120,7 +120,10 @@ Si no se encuentran al menos 2 fuentes primarias verificables que confirmen fech
    - 3–5 líneas máximo, solo datos verificados.  
 
 4. **Datos técnicos e históricos**  
-   - Lista fluida con indicadores de certeza: [VERIFICADO] (aunque este no se coloca en el texto del documento), [FUENTE ÚNICA], [NO CONFIRMADO].  
+   - Lista con viñetas de los datos clave del evento (fechas, lugares, aeronaves, protagonistas, cifras).
+   - **IMPORTANTE:** No incluir etiquetas como `[VERIFICADO]`, `[FUENTE ÚNICA]` o `[NO CONFIRMADO]` en el texto visible del post.
+   - La verificación de cada dato es una condición obligatoria del proceso editorial, pero no debe ser visible para el lector.
+   - Si un dato relevante no pudo ser confirmado, se omite de la lista o se explica en la Nota Aclaratoria.
 
 5. **Cuerpo principal – Secciones temáticas**  
    - Contexto histórico (con párrafo introductorio y subtítulos: Entorno social, Entorno tecnológico, Entorno cultural)
