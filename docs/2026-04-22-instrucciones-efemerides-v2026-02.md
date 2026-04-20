@@ -130,6 +130,10 @@ Si no se encuentran al menos 2 fuentes primarias verificables que confirmen fech
    - Desarrollo cronológico de los hechos
    - Consecuencias e impacto
    - Estado actual / legado
+   - **REGLAS OBLIGATORIAS PARA TÍTULOS Y SUBTÍTULOS:**
+     - Ningún título (sea nivel 2 `##` o nivel 3 `###`) puede aparecer sin un párrafo introductorio inmediatamente debajo de él.
+     - El párrafo introductorio debe tener al menos 2 líneas de texto y debe servir como enlace temático con el contenido del título.
+     - **Excepciones:** Los títulos `## Datos verificados del evento` y `## Referencias verificadas` pueden ir seguidos directamente de su contenido (lista con viñetas o bloque HTML), sin necesidad de párrafo introductorio.
 
 6. **Referencias verificadas**  
    Formato estándar:
