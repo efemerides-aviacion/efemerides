@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 13 de marzo de 1872 | Ferdinand Marie Léon Delagrange"
+title: "Efemérides de Aviación | 13 de marzo de 1872 | Nacimiento de Ferdinand Marie Léon Delagrange"
 date: 1872-03-13
 categories: [aviacion-nacimiento]
 author: Enrique Pomares
 pais: Francia
 excerpt: "Escultor de formación, Ferdinand Delagrange se convirtió en uno de los pioneros más brillantes de la aviación mundial entre 1907 y 1910, reconocido por sus récords, elegancia y por haber sido el tercer piloto en recibir el brevet francés."
-image: 1872-03-13-ferdinand-marie-leon-delagrange.webp
+image: 1872-03-13-nacimiento-ferdinand-marie-leon-delagrange.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1872-03-13-ferdinand-marie-leon-delagrange.webp" alt="Léon Delagrange">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1872-03-13-nacimiento-ferdinand-marie-leon-delagrange.webp" alt="Léon Delagrange">
   <figcaption class="post-caption">Retrato de Ferdinand Marie Léon Delagrange hacia 1905-1907, en su etapa como escultor parisino: bigote, gorra astracán y traje tweed con pajarita, estilo "dandi volador" previo a su dedicación a la aviación. Fuente probable: archivo familiar o colección Musée de l'Air et de l'Espace / Le Bourget.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
