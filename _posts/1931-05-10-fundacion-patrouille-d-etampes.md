@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Francia
 operator: Ejército del Aire Francés (Armée de l'Air)
 excerpt: "El 10 de mayo de 1931, tres instructores de la Escuela de Perfeccionamiento de Pilotos de Étampes-Mondésir, liderados por el capitán Amouroux, realizaron la primera demostración de vuelo acrobático en formación, dando origen a la Patrouille d’Étampes, la patrulla acrobática más antigua del mundo y antecesora de la Patrouille de France."
-image: 1935-05-10-fundacion-patrouille-d-etampes.webp
+image: 1931-05-10-fundacion-patrouille-d-etampes.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1935-05-10-fundacion-patrouille-d-etampes.webp" alt="Vuelo invertido de cinco aviones Morane-Saulnier MS.225">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1931-05-10-fundacion-patrouille-d-etampes.webp" alt="Vuelo invertido de cinco aviones Morane-Saulnier MS.225">
   <figcaption class="post-caption">Vuelo invertido (“vol dos”) de cinco aviones Morane-Saulnier MS.225 de la Patrouille d’Étampes en formación sobre el estanque de Berre, durante el año 1935. Fuente: AVIONS – Hors-série nº 35, “La Patrouille d’Étampes”, p. 6.</figcaption>
 </figure>
 
