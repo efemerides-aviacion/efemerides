@@ -12,7 +12,7 @@ image: 1949-05-13-primer-vuelo-english-electric-canberra.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1949-05-13-primer-vuelo-english-electric-canberra.webp" alt="Prototipo English Electric Canberra VN799 en vuelo">
-  <figcaption class="post-caption">El primer prototipo English Electric Canberra, VN799, en sus vuelos de prueba de mayo de 1949, víspera de su primer vuelo inaugural en Warton. Fuente: imagen histórica / Alamy.</figcaption>
+  <figcaption class="post-caption">English Electric Canberra VN799, primer prototipo del bombardero a reacción británico, fotografiado en 1949 durante su fase de pruebas y relacionado con el primer vuelo realizado por Roland Beamont en Warton el 13 de mayo de 1949. Fuente: This Day in Aviation / BAE Systems.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
