@@ -12,7 +12,7 @@ image: 1931-02-04-vicente-landaeta-gil-fallece.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1931-02-04-vicente-landaeta-gil-fallece.webp" alt="Retrato oficial del teniente Vicente Landaeta Gil">
-  <figcaption class="post-caption">Retrato oficial del teniente Vicente Landaeta Gil (1897-1931), primer aviador militar venezolano fallecido en accidente aéreo el 4 de febrero de 1931 en Barquisimeto.</figcaption>
+  <figcaption class="post-caption">Avión Farman F.190 de la Aviación Militar Venezolana, similar al del accidente en el que falleció el teniente Vicente Landaeta Gil el 4 de febrero de 1931 en Barquisimeto. Fuente: Museo del Transporte de Caracas.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #880e4f);" />
 
