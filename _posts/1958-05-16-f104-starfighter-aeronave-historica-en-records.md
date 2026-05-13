@@ -145,7 +145,7 @@ Hoy, la aeronave 55-2969 "Queenie" no sobrevive. Fue modificada como un avión b
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/16-may-1958/">This Day in Aviation - 16 May 1958 (récord de Irwin)</a></li>
+    <li><a href="https://www.thisdayinaviation.com/16-1958/">This Day in Aviation - 16 May 1958 (récord de Irwin)</a></li>
     <li><a href="https://rankings.fai.org/record/9058">FAI Record File 9058 - Walter W. Irwin (USA)</a></li>
     <li><a href="https://www.rafmuseum.org.uk/research/research-enquiries/history-of-aviation-timeline/world-aviation/1958-2">RAF Museum - World Aviation in 1958</a></li>
     <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198067/lockheed-f-104c-starfighter/">National Museum of the USAF - Lockheed F-104C Starfighter</a></li>
