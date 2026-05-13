@@ -179,7 +179,7 @@ Gracias al acceso al artículo **"El Canberra en la Fuerza Aérea Venezolana"**,
 
 Agradecemos al General Paredes Niño por su aporte y al Coronel Quintero por su riguroso trabajo de recopilación histórica, que ha permitido corregir y enriquecer esta efeméride.
 
-> **Nota metodológica:** La historiografía de la aviación militar venezolana adolece de una escasez crítica de fuentes oficiales sistematizadas y de acceso público. Ante esta realidad, el investigador debe recurrir a fuentes testimoniales calificadas (como veteranos y sus familiares) y a trabajos de investigación publicados por miembros de la propia institución (como el del Coronel Quintero). Este artículo presenta dichas fuentes de manera transparente, distinguiendo entre hechos verificados por múltiples testimonios y aquellos que permanecen abiertos a futura corroboración documental.
+> **Nota metodológica:** La historiografía de la aviación militar venezolana de acceso publico es escasa. Ante esta realidad, el investigador debe recurrir a fuentes testimoniales calificadas (como veteranos y sus familiares) y a trabajos de investigación publicados por miembros de la propia institución (como el del Coronel Quintero). Este artículo presenta dichas fuentes de manera transparente, distinguiendo entre hechos verificados por múltiples testimonios y aquellos que permanecen abiertos a futura corroboración documental.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
