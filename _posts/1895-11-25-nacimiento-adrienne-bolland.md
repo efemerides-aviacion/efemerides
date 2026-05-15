@@ -30,7 +30,7 @@ image: 1895-11-25-nacimiento-adrienne-bolland.webp
 - **Logros destacados:**  
   - Primera mujer piloto contratada por Caudron (1920)  
   - Segunda mujer en cruzar el Canal de la Mancha (1920)  
-  - Primera mujer en sobrevolar la Cordillera de los Andes (1921)  
+  - [Primera mujer en sobrevolar la Cordillera de los Andes (1921)] (https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1921/04/01/adrienne-bolland-cruza-los-andes.html)
   - Récord femenino de loopings (212 en 1924)  
 - **Servicio militar/profesional:** Piloto de pruebas, acrobacia aérea, activista en la Resistencia Francesa  
 - **Fecha de fallecimiento:** 18 de marzo de 1975, París, Francia  
