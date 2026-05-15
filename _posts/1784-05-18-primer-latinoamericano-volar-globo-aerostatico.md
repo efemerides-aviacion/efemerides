@@ -42,7 +42,7 @@ El 18 de mayo de 1784, José María Alfaro Guiles, un maestro veracruzano, erudi
 
 ## Contexto Histórico
 
-El 21 de noviembre de 1783, en París, Jean-François Pilâtre de Rozier y el marqués François Laurent d'Arlandes realizaron el primer vuelo tripulado de la historia a bordo de un globo aerostático de aire caliente diseñado por los hermanos Joseph-Michel y Jacques-Étienne Montgolfier. La noticia conmocionó a Europa y se extendió rápidamente por el mundo, aunque las comunicaciones de la época eran lentas. Apenas diez días después, el 1 de diciembre de 1783, el físico francés Jacques Charles y el ingeniero Nicolas-Louis Robert realizaron el [primer vuelo tripulado en globo de hidrógeno](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1783/12/01/primer-vuelo-globo-hidrogeno.html), demostrando la superioridad de este gas para vuelos de larga duración.
+El 21 de noviembre de 1783, en París, Jean-François Pilâtre de Rozier y el marqués François Laurent d'Arlandes realizaron el primer vuelo tripulado de la historia a bordo de un globo aerostático de aire caliente diseñado por los hermanos Joseph-Michel y Jacques-Étienne Montgolfier. La noticia conmocionó a Europa y se extendió rápidamente por el mundo, aunque las comunicaciones de la época eran lentas. Apenas diez días después, el 1 de diciembre de 1783, el físico francés Jacques Charles y el ingeniero Nicolas-Louis Robert realizaron el primer vuelo tripulado en globo de hidrógeno, demostrando la superioridad de este gas para vuelos de larga duración.
 
 Las noticias de ambos hitos llegaron a Nueva España meses después, inspirando a Alfaro a emular la hazaña. Apenas seis meses después de aquellos primeros vuelos, en una remota provincia del Virreinato de Nueva España, un ingenioso maestro veracruzano logró replicar la hazaña con sus propios medios.
 
@@ -80,7 +80,7 @@ Al día siguiente, 19 de mayo de 1784, la Gazeta de México publicó una nota an
 
 ## Desarrollo Cronológico
 
-- **21 de noviembre de 1783:** [Pilâtre de Rozier y el marqués d'Arlandes realizan el primer vuelo tripulado de la historia en un globo Montgolfier, en París, Francia.](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1783/11/21/primer-vuelo-globo-tripulado.html)  
+- **21 de noviembre de 1783:** Pilâtre de Rozier y el marqués d'Arlandes [realizan el primer vuelo tripulado de la historia en un globo Montgolfier, en París, Francia.](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1783/11/21/primer-vuelo-globo-tripulado.html)  
 - **1 de diciembre de 1783:** Jacques Charles y Nicolas-Louis Robert realizan el [primer vuelo tripulado en globo de hidrógeno](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1783/12/01/primer-vuelo-globo-hidrogeno.html).
 - **Principios de 1784:** José María Alfaro comienza sus experimentos con pequeños globos de papel en Xalapa.
 - **18 de mayo de 1784:** Alfaro realiza el primer vuelo en globo aerostático de América Latina, recorriendo 9 km desde Xalapa hasta Coatepec.
