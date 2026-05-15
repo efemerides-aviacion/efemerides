@@ -80,13 +80,14 @@ Al día siguiente, 19 de mayo de 1784, la Gazeta de México publicó una nota an
 
 ## Desarrollo Cronológico
 
-- **21 de noviembre de 1783:** Pilâtre de Rozier y el marqués d'Arlandes [realizan el primer vuelo tripulado de la historia en un globo Montgolfier, en París, Francia.](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1783/11/21/primer-vuelo-globo-tripulado.html)  
-- **1 de diciembre de 1783:** Jacques Charles y Nicolas-Louis Robert realizan el [primer vuelo tripulado en globo de hidrógeno](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1783/12/01/primer-vuelo-globo-hidrogeno.html).
-- **Principios de 1784:** José María Alfaro comienza sus experimentos con pequeños globos de papel en Xalapa.
-- **18 de mayo de 1784:** Alfaro realiza el primer vuelo en globo aerostático de América Latina, recorriendo 9 km desde Xalapa hasta Coatepec.
-- **19 de mayo de 1784:** La Gazeta de México publica la noticia del evento.
-- **7 de enero de 1785:** Jean-Pierre Blanchard y John Jeffries realizan el [primer cruce aéreo del Canal de la Mancha en globo aerostático](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html), un hito en la aviación internacional.
-- **9 de enero de 1793:** Jean-Pierre Blanchard realiza el [primer vuelo en globo en Estados Unidos](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1793/01/09/primer-vuelo-globo-estados-unidos.html) en Filadelfia, ante el presidente George Washington.
+- **21 de noviembre de 1783:** Pilâtre de Rozier y el marqués d'Arlandes [realizan el primer vuelo tripulado de la historia en un globo Montgolfier, en París, Francia](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1783/11/21/primer-vuelo-globo-tripulado.html)  
+- **1 de diciembre de 1783:** Jacques Charles y Nicolas-Louis Robert realizan el [primer vuelo tripulado en globo de hidrógeno](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1783/12/01/primer-vuelo-globo-hidrogeno.html)  
+- **25 de febrero de 1784:** Paolo Andreani realiza [el primer vuelo tripulado en globo aerostático sobre suelo italiano](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1784/02/25/primer-vuelo-globo-italia.html)  
+- **Principios de 1784:** José María Alfaro comienza sus experimentos con pequeños globos de papel en Xalapa  
+- **18 de mayo de 1784:** Alfaro realiza el primer vuelo en globo aerostático de América Latina, recorriendo 9 km desde Xalapa hasta Coatepec  
+- **19 de mayo de 1784:** La Gazeta de México publica la noticia del evento  
+- **7 de enero de 1785:** Jean-Pierre Blanchard y John Jeffries realizan el [primer cruce aéreo del Canal de la Mancha en globo aerostático](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html), un hito en la aviación internacional  
+- **9 de enero de 1793:** Jean-Pierre Blanchard realiza el [primer vuelo en globo en Estados Unidos](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1793/01/09/primer-vuelo-globo-estados-unidos.html) en Filadelfia, ante el presidente George Washington  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
