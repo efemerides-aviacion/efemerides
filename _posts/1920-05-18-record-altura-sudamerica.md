@@ -12,7 +12,7 @@ image: 1920-05-18-record-altura-sudamerica.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1920-05-18-record-altura-sudamerica.webp" alt="Curtiss 18T-2 Wasp en vuelo">
-  <figcaption class="post-caption">Momentos antes del histórico primer vuelo en Bolivia, aparecen junto al “Wasp” los protagonistas de esta memorable gesta (algunoscon sus esposas) y personeros de la Embajada de Estados Unidos. Fuente: El Diario.</figcaption>
+  <figcaption class="post-caption">Momentos antes del histórico primer vuelo en Bolivia, aparecen junto al “Wasp” los protagonistas de esta memorable gesta (algunos con sus esposas) y personeros de la Embajada de Estados Unidos. Fuente: El Diario.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
