@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 21 de diciembre de 1895 | Donald Hudson"
+title: "Efemérides de Aviación | 21 de diciembre de 1895 | Nacimiento de Donald Hudson"
 date: 1895-12-21
 categories: [aviacion-nacimiento]
 author: Enrique Pomares
