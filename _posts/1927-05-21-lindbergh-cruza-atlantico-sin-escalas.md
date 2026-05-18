@@ -12,7 +12,7 @@ image: 1927-05-21-lindbergh-cruza-atlantico-sin-escalas.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1927-05-21-lindbergh-cruza-atlantico-sin-escalas.webp" alt="Ryan NYP Spirit of St. Louis, avión de Charles Lindbergh">
-  <figcaption class="post-caption">Charles Lindbergh junto a su avión Spirit of St. Louis (Ryan NYP), fotografiado en 1927 poco antes de emprender el histórico vuelo transatlántico sin escalas entre Nueva York y París. Fuente: National Geographic Historia.</figcaption>
+  <figcaption class="post-caption">El avión Spirit of St. Louis (Ryan NYP) rodeado por una multitud en París tras el aterrizaje histórico de Charles Lindbergh el 21 de mayo de 1927, al completar el primer vuelo transatlántico en solitario y sin escalas. Fuente: Reddit, r/HistoryPorn.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
