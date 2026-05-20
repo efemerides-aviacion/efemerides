@@ -121,4 +121,4 @@ El legado del Capitán Hernández Jacobsen perdura así en dos dimensiones paral
 - **Nivel de confianza:** Medio (el accidente está registrado en ASN con advertencia de fuentes no oficiales; el legado institucional está confirmado)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
 
----
+
