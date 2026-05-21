@@ -109,7 +109,7 @@ René Fonck sigue siendo el «as de ases» de la aviación aliada en la Primera 
   </ul>
 </div>
 
----
+<hr>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Esta sección se generará únicamente si existe alguna discrepancia, controversia o detalle que requiera explicación adicional en la efeméride. Si no se necesita se omitirá en la versión final.</p>
@@ -215,7 +215,7 @@ El desastre de Tenerife se estudia en todas las escuelas de aviación como caso 
   </ul>
 </div>
 
----
+<hr>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Esta sección se generará únicamente si existe alguna discrepancia, controversia o detalle que requiera explicación adicional en la efeméride. Si no se necesita se omitirá en la versión final.</p>
@@ -317,7 +317,7 @@ El vuelo del A380 con 100% SAF se inscribe en una serie de hitos que están tran
   </ul>
 </div>
 
----
+<hr>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Esta sección se generará únicamente si existe alguna discrepancia, controversia o detalle que requiera explicación adicional en la efeméride. Si no se necesita se omitirá en la versión final.</p>
@@ -407,7 +407,7 @@ Airbus es hoy uno de los dos grandes fabricantes de aviones comerciales del mund
   </ul>
 </div>
 
----
+<hr>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Algunas fuentes secundarias mencionan el acuerdo ministerial de 1969 como “fundación”, pero la constitución legal del GIE ocurrió el 18 de diciembre de 1970. La hora exacta de la firma no pudo ser verificada.</p>
@@ -497,7 +497,7 @@ La cápsula Friendship 7 se exhibe en el Smithsonian National Air and Space Muse
   </ul>
 </div>
 
----
+<hr>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La alarma sobre el escudo térmico resultó ser falsa; Glenn mantuvo la calma y completó la reentrada con éxito. La cápsula Friendship 7 se conserva en el Smithsonian NASM.</p>
@@ -587,7 +587,7 @@ El secuestro del vuelo 648 de EgyptAir marcó un punto de inflexión en la perce
   </ul>
 </div
 
----
+<hr>
 
 <div class="note-box">
 	<p><strong>Nota aclaratoria:</strong> Aunque este hecho terminó con un accidente y fatalidades, su naturaleza corresponde a un incidente de seguridad en la aviación (secuestro/terrorismo), no a un accidente aeronáutico. Por ello, se clasifica en la categoría de aviacion-seguridad y no en “aviacion-accidente”.</p>
@@ -680,7 +680,7 @@ Vesna Vulović es recordada como la mujer que desafió lo imposible en la histor
   </ul>
 </div>
 
----
+<hr>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Esta sección se generará únicamente si existe alguna discrepancia, controversia o detalle que requiera explicación adicional en la efeméride. Si no se necesita se omitirá en la versión final.</p>
