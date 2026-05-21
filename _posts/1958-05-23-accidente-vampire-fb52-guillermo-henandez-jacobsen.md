@@ -103,6 +103,8 @@ El legado del Capitán Hernández Jacobsen perdura así en dos dimensiones paral
   </ul>
 </div>
 
+<hr>
+
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
   <p><strong>1. Nombre completo del piloto:</strong> La fuente ASN lo registra como "Cap. (AV) Luis Guillermo Hernández Jacobsen". Las fuentes institucionales venezolanas (obituario de la Promoción 1987, nombre del hospital militar) confirman esta versión completa del nombre.</p>
