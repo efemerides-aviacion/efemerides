@@ -88,7 +88,7 @@ La figura del Capitán (AV) Luis Guillermo Hernández Jacobsen ocupa un lugar ex
 
 - **Promoción "Capitán Luis Guillermo Hernández Jacobsen" (1987):** Casi tres décadas después de su fallecimiento, la Escuela de Aviación Militar de Venezuela bautizó con su nombre a la promoción de oficiales egresados el 5 de julio de 1987. Este acto de memoria institucional demuestra que el sacrificio del Capitán Hernández Jacobsen no fue olvidado por la institución que lo formó.
 
-- **Hospital Militar Capitán Guillermo Hernández Jacobsen:** En la actualidad, un hospital militar lleva su nombre, atendiendo a los miembros de la Fuerza Armada y sus familias. Este centro de salud, que realiza jornadas de atención médica domiciliaria y presta servicios especializados, perpetúa su legado en el campo de la medicina militar, la otra gran pasión de su vida.
+- **Hospital Militar Capitán Guillermo Hernández Jacobsen:** En la actualidad, el Hospital Militar de San Cristóbal (Táchira) lleva su nombre, atendiendo a los miembros de la Fuerza Armada y sus familias. Este centro de salud, que realiza jornadas de atención médica domiciliaria y presta servicios especializados, perpetúa su legado en el campo de la medicina militar, la otra gran pasión de su vida.
 
 El legado del Capitán Hernández Jacobsen perdura así en dos dimensiones paralelas: en el cielo, a través de los pilotos que honran su memoria y su ejemplo como aviador; y en la tierra, a través de la labor sanitaria del hospital que lleva su nombre, recordando al médico que también supo volar.
 
