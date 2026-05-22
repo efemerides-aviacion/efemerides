@@ -12,26 +12,28 @@ image: 1951-01-20-vuelo-manutara-isla-de-pascua.jpg
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1951-01-20-vuelo-manutara-isla-de-pascua.jpg" alt="Consolidated PBY-5A Catalina Manutara">
-  <figcaption class="post-caption">El anfibio Consolidated PBY‑5A Catalina “Manutara” de la Fuerza Aérea de Chile sobrevuela a baja altura el aeródromo La Florida (La Serena) mientras una multitud lo despide antes de iniciar el histórico vuelo hacia Isla de Pascua, enero de 1951.</figcaption>
+  <figcaption class="post-caption">El anfibio Consolidated PBY‑5A Catalina "Manutara" de la Fuerza Aérea de Chile sobrevuela a baja altura el aeródromo La Florida (La Serena) mientras una multitud lo despide antes de iniciar el histórico vuelo hacia Isla de Pascua, enero de 1951.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>Entre el 19 y 20 de enero de 1951, el hidroavión anfibio Consolidated PBY‑5A Catalina "Manutara" de la Fuerza Aérea de Chile realizó el primer vuelo histórico entre el continente y la Isla de Pascua (Rapa Nui). La travesía, comandada por <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-nacimiento/1913/05/25/nacimiento-roberto-parrague-singer.html" style="color: #1565c0; text-decoration: none;">Roberto Parragué Singer</a> y su tripulación, unió por primera vez la isla con el territorio continental chileno, marcando un hito en la integración nacional y en la aviación latinoamericana.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Datos Verificados del Evento
 - **Fecha:** 19–20 de enero de 1951  
 - **Lugar:** Desde La Florida (La Serena) hasta Mataveri (Isla de Pascua)  
 - **Protagonistas:** Roberto Parragué Singer, FACh, tripulación del Manutara  
-- **Aeronave:** Consolidated PBY‑5A Catalina “Manutara”  
-- **Distancia recorrida:** Entre 2.047 millas náuticas (3.750 km) y 2.300 millas (3.791 km)  
-- **Duración del vuelo:** ~19 horas  
+- **Aeronave:** Consolidated PBY‑5A Catalina "Manutara"  
+- **Distancia recorrida:** Entre 2.047 millas náuticas (3.750 km) y 2.300 millas náuticas (3.791 km)  
+- **Duración del vuelo:** aproximadamente 19 horas  
 - **Resultado inmediato:** Primer enlace aéreo directo entre el continente y Rapa Nui, con navegación astronómica y de estima.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
 El vuelo del Manutara fue un hito en la integración territorial de Chile y en la aviación regional.
 
@@ -45,9 +47,9 @@ La travesía se realizó con navegación astronómica y de estima, en una época
 El vuelo reforzó la conexión de Rapa Nui con el continente, integrando a la isla en la memoria colectiva chilena.
 
 ### Desarrollo Cronológico
-- 18 de enero: El Manutara vuela desde Quintero a La Florida escoltado por B‑25 Mitchell del Grupo N.º 8.  
-- 19 de enero: Despegue hacia Isla de Pascua al atardecer.  
-- 20 de enero: Arribo exitoso a Mataveri en la tarde.  
+- **18 de enero:** El Manutara vuela desde Quintero a La Florida escoltado por B‑25 Mitchell del Grupo N.º 8.  
+- **19 de enero, 19:20 horas:** Despegue hacia Isla de Pascua al atardecer.  
+- **20 de enero, 14:42 horas:** Arribo exitoso a Mataveri en la tarde.  
 
 ### Consecuencias e Impacto
 El vuelo abrió la ruta aérea hacia Rapa Nui, consolidando la soberanía chilena sobre la isla y facilitando su integración.
@@ -55,7 +57,11 @@ El vuelo abrió la ruta aérea hacia Rapa Nui, consolidando la soberanía chilen
 ### Legado
 El Manutara es recordado como símbolo de perseverancia y unión nacional. Su travesía es considerada uno de los hitos más importantes de la aviación chilena.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+- **Réplica del Manutara:** El Catalina original N.º 405 se destruyó en un accidente en el lago Peñuelas en junio de 1961, falleciendo sus ocupantes. Sin embargo, en el Museo Nacional Aeronáutico y del Espacio de Chile se exhibe una réplica del Manutara, donada por la propia empresa Aeroservicios Parragué.
+- **Reconocimiento institucional:** La Fuerza Aérea de Chile y la DGAC conmemoran periódicamente el aniversario de este vuelo histórico.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -71,10 +77,21 @@ El Manutara es recordado como símbolo de perseverancia y unión nacional. Su tr
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr>
+
+<div class="note-box">
+  <p><strong>Notas aclaratorias:</strong></p>
+  <p><strong>1. Discrepancia sobre la distancia:</strong> Las fuentes presentan dos cifras para la distancia del vuelo: 2.047 millas náuticas (3.750 km) y 2.300 millas náuticas (3.791 km). La efeméride asume ambas cifras como válidas según diferentes fuentes primarias.</p>
+  <p><strong>2. Discrepancia sobre la fecha del segundo vuelo de Parragué:</strong> El pionero Roberto Parragué Singer voló a Isla de Pascua por segunda vez en 1959, siendo pasado a retiro el 27 de mayo de ese año. Algunas fuentes secundarias mencionan un vuelo en 1961, pero la información institucional de la FACH respalda 1959 como el año del segundo vuelo sin autorización. Para más detalles sobre su trayectoria, consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-nacimiento/1913/05/25/nacimiento-roberto-parrague-singer.html" style="color: #1565c0; text-decoration: none;">efeméride de nacimiento de Roberto Parragué Singer</a>.</p>
+  <p><strong>3. Tripulación del Manutara:</strong> Existen ligeras variaciones en los nombres de la tripulación entre fuentes. La información institucional de la FACH añade a Sabino Poblete como cuarto piloto y a Mario Rodríguez y René Campos como radiotelegrafistas, composición que se ha priorizado por su carácter oficial.</p>
+  <p><strong>4. Fecha exacta del despegue y vuelo previo:</strong> El vuelo previo desde Quintero a La Serena ocurrió el 18 de enero de 1951. El despegue principal desde La Serena hacia Isla de Pascua fue el 19 de enero de 1951 a las 19:20 horas, con aterrizaje en Mataveri el 20 de enero de 1951 a las 14:42 horas.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-15 18:10:00 UTC  
+- **Timestamp de verificación:** 2026-05-22 16:30:00 UTC  
 - **Fuentes primarias consultadas:** Museo Aeronáutico DGAC; ASPCh; Club Aéreo de Santiago; Embajada de Australia; ADPrensa; Wikipedia; Patrimonio Cultural  
-- **Discrepancias resueltas:** Distancia recorrida (2 047 vs 2 300 millas náuticas) y fecha de inicio (18 de enero como vuelo previo a La Serena).  
+- **Discrepancias resueltas:** Distancia recorrida (2.047 vs 2.300 millas náuticas) y fecha de inicio (18 de enero como vuelo previo a La Serena).  
 - **Nivel de confianza:** Alto  
-- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
+- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
