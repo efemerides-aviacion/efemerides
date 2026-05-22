@@ -18,7 +18,7 @@ image: 1951-01-20-vuelo-manutara-isla-de-pascua.jpg
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>Entre el 19 y 20 de enero de 1951, el hidroavión anfibio Consolidated PBY‑5A Catalina “Manutara” de la Fuerza Aérea de Chile realizó el primer vuelo histórico entre el continente y la Isla de Pascua (Rapa Nui). La travesía, comandada por Roberto Parragué Singer y su tripulación, unió por primera vez la isla con el territorio continental chileno, marcando un hito en la integración nacional y en la aviación latinoamericana.</p>
+  <p>Entre el 19 y 20 de enero de 1951, el hidroavión anfibio Consolidated PBY‑5A Catalina "Manutara" de la Fuerza Aérea de Chile realizó el primer vuelo histórico entre el continente y la Isla de Pascua (Rapa Nui). La travesía, comandada por <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-nacimiento/1913/05/25/nacimiento-roberto-parrague-singer.html" style="color: #1565c0; text-decoration: none;">Roberto Parragué Singer</a> y su tripulación, unió por primera vez la isla con el territorio continental chileno, marcando un hito en la integración nacional y en la aviación latinoamericana.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
