@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos / Australia
 operator: Fuerza Aérea de los Estados Unidos (USAF) / Northrop Grumman
 excerpt: "El 23 de abril de 2001, un RQ-4 Global Hawk denominado 'Southern Cross II' estableció el récord FAI de distancia absoluta sin escala para un UAV, recorriendo 13.219,86 kilómetros desde Edwards AFB (California) hasta RAAF Base Edinburgh (Australia) en 23 horas y 23 minutos, siendo el primer vuelo transoceánico sin piloto de la historia."
-image: 2001-04-24-record-uav-sin-escala-rq-4-global-hawk.webp
+image: 2001-04-23-record-uav-sin-escala-rq-4-global-hawk.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/2001-04-24-record-uav-sin-escala-rq-4-global-hawk.webp" alt="RQ-4 Global Hawk en vuelo">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/2001-04-23-record-uav-sin-escala-rq-4-global-hawk.webp" alt="RQ-4 Global Hawk en vuelo">
   <figcaption class="post-caption">RQ-4 Global Hawk de la U.S. Air Force en vuelo sobre desierto, similar al usado en "Southern Cross II" para el récord FAI de distancia el 23 de abril de 2001. Fuente: Wikipedia - Northrop Grumman RQ-4 Global Hawk.</figcaption>
 </figure>
 
