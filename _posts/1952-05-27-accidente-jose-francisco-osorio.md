@@ -130,6 +130,7 @@ El accidente del 27 de mayo de 1952 dejó una huella imborrable en la historia d
     <li><a href="https://favclubven.wordpress.com/2024/12/12/el-primer-salto-en-paracaidas-desde-un-avion-a-reaccion-en-venezuela/">Cnel. (Av) José Ochoa Vargas - FAV Club: El primer salto en paracaídas desde un avión a reacción en Venezuela</a></li>
     <li><a href="https://www.facebook.com/fuerzaaereavenezolana.fav/posts/pfbid0fcMwqQNckk7UKkR5AhDnsfkaXg9VRvRTdjVfK4x2SsnhwCLRMfWhmtMtLJYuNaZHl">G/D Agustín Berzares Morales - Fuerza Aérea Venezolana: Anécdotas en la FAV (relato del G/D Agustín Berzares Morales)</a></li>
     <li><a href="https://angelmagallanes.wordpress.com/2022/05/04/1964-peter-tautvilas-neniskis-shulz/">Angel Magallanes – Peter Tautvilas Neniskis Schulz (referencia a accidentes de Vampire)</a></li>
+    <li><a href="https://www.facebook.com/share/17g8Au9Tqf/">Cnel. (Av) José Ochoa Vargas - Fav Ven: GENERAL DE DIVISIÓN (AV) AGUSTÍN ANTONIO BERZARES MORALES</a></li>
   </ul>
 </div>
 
