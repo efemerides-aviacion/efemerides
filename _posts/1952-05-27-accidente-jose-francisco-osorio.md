@@ -1,0 +1,154 @@
+---
+layout: post
+title: "Efemérides de Aviación | 27 de mayo de 1952 | Trágico accidente del Escuadrón de Caza Nro. 36 en Los Guayos"
+date: 1952-05-27
+categories: [aviacion-accidente]
+author: Enrique Pomares
+pais: Venezuela
+operator: Fuerza Aérea Venezolana (FAV) - Escuadrón Aéreo de Caza Nro. 36
+excerpt: "El 27 de mayo de 1952, dos cazas De Havilland Vampire FB.Mk.52 de la Fuerza Aérea Venezolana colisionaron sobre el sector Los Guayos, estado Carabobo, durante prácticas para la formación de un equipo acrobático. El Subteniente (AV) Francisco José Osorio perdió la vida, mientras que el Subteniente (AV) Rafael Eduardo Jelambi Terán logró salvarse lanzándose en paracaídas, convirtiéndose en el primer piloto en utilizar un paracaídas desde un avión a reacción en Venezuela."
+image: 1952-05-27-accidente-jose-francisco-osorio.webp
+---
+
+<figure>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-05-27-accidente-jose-francisco-osorio.webp" alt="De Havilland Vampire FB.Mk.52 de la Fuerza Aérea Venezolana">
+  <figcaption class="post-caption">Un De Havilland Vampire FB.Mk.52 de la Fuerza Aérea Venezolana, similar a los involucrados en la colisión del 27 de mayo de 1952. Fuente: [Fuerza Aerea Venezolana FAV → Vía Facebook](https://www.facebook.com/photo/?fbid=3898711343498986).</figcaption>
+</figure>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Resumen Ejecutivo
+
+El 27 de mayo de 1952, tres cazas De Havilland Vampire FB.Mk.52 del Escuadrón Aéreo de Caza Nro. 36 despegaron de la Base Aérea de Boca de Río en Maracay, estado Aragua, con la misión de realizar prácticas de maniobras para la conformación de un equipo acrobático con aviones a reacción . Los pilotos eran los subtenientes Rafael Eduardo Jelambi Terán, Agustín Antonio Berzares Morales y Francisco José Osorio. Durante las maniobras, el avión de Berzares presentó fallas en el tren de aterrizaje y regresó a la base. Jelambi y Osorio continuaron los ejercicios programados y, en una de las maniobras, la aeronave de Osorio impactó contra la parte inferior del Vampire de Jelambi. La aeronave de Osorio entró en barrena y se estrelló en el sector Los Guayos del estado Carabobo, pereciendo el joven piloto. Jelambi logró lanzarse en paracaídas y salvar su vida, una acción que lo acredita como el primer piloto en utilizar un paracaídas desde un avión a reacción en Venezuela .
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Datos verificados del evento
+
+- **Fecha del accidente:** 27 de mayo de 1952
+- **Lugar:** Sector Los Guayos, estado Carabobo, Venezuela (entre Valencia y Guacara) 
+- **Unidad involucrada:** Escuadrón Aéreo de Caza Nro. 36 (Destacamento), Fuerza Aérea Venezolana 
+- **Aeronaves:** Dos De Havilland DH.100 Vampire FB.Mk.52 
+- **Misión:** Prácticas de maniobras y posiciones de vuelo para la conformación de un Equipo Acrobático en aviones a reacción
+- **Fallecidos:** 
+  - **Subteniente (AV) Francisco José Osorio** (piloto, ocupante único, fallecido) 
+  - **Un agricultor en tierra** (electrocutado por un cable de alta tensión) 
+- **Sobreviviente:** Subteniente (AV) Rafael Eduardo Jelambi Terán (se lanzó en paracaídas, resultó herido) 
+- **Daños a las aeronaves:** Ambas destruidas 
+- **Aeropuerto de salida:** Base Aérea de Boca de Río, Maracay, Aragua 
+- **Fuente primaria:** The Ottawa Journal, 29 de mayo de 1952, p. 32 
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Contexto Histórico
+
+El accidente del 27 de mayo de 1952 ocurrió en un momento de modernización de la Fuerza Aérea Venezolana, que estaba transitando de la aviación de hélice a la era del jet.
+
+### Entorno social
+
+A finales de la década de 1940, Venezuela vivía bajo el gobierno del general Marcos Pérez Jiménez (1948-1958), un período de modernización del país impulsado por la creciente renta petrolera. Las Fuerzas Armadas recibieron una atención prioritaria, con la adquisición de modernos equipos militares. La Fuerza Aérea Venezolana, creada el 22 de junio de 1946, buscaba posicionarse como una fuerza moderna y disuasiva en la región. La adquisición de los cazas a reacción De Havilland Vampire representó un salto tecnológico significativo.
+
+### Entorno tecnológico
+
+El De Havilland DH.100 Vampire fue uno de los primeros cazas a reacción del mundo. Diseñado por la compañía británica de Havilland, realizó su primer vuelo en 1943 y entró en servicio en 1946. Venezuela adquirió 24 unidades del modelo Vampire FB.Mk.52 (versión de exportación del FB.5) a partir de 1949. Estos aviones estaban propulsados por un motor turborreactor de Havilland Goblin 3, que les permitía alcanzar velocidades máximas de hasta 880 km/h (547 mph). Su armamento consistía en cuatro cañones Hispano-Suiza HS.404 de 20 mm en el morro. Sin embargo, estas primeras versiones de cazas a reacción no contaban con asientos eyectables, lo que hacía que abandonar la aeronave en caso de emergencia fuera una maniobra extremadamente peligrosa que requería que el piloto se desprendiera del avión en caída libre después de retirar la capota.
+
+### Entorno cultural
+
+La formación de un equipo acrobático con aviones a reacción era una iniciativa ambiciosa que buscaba demostrar el poderío y la destreza de la Fuerza Aérea Venezolana. Los pilotos seleccionados pertenecían a las primeras promociones de aviadores entrenados en la era del jet. La muerte del subteniente Osorio, así como el heroico rescate de Jelambi, conmovieron profundamente a la institución militar y a la opinión pública.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Desarrollo Cronológico del Accidente
+
+- **27 de mayo de 1952, horas de la mañana:** Tres cazas De Havilland Vampire FB.Mk.52 despegan de la Base Aérea de Boca de Río, Maracay, para realizar prácticas de maniobras acrobáticas sobre el centro del país.
+- **Durante las primeras maniobras:** El avión del subteniente Agustín Antonio Berzares Morales presenta fallas en el tren de aterrizaje (desplazamiento de una rueda), por lo que regresa de inmediato a la base.
+- **Continuación del ejercicio:** Los subtenientes Jelambi y Osorio continúan el programa de ejercicios programados. En una de las maniobras, el avión de Osorio impacta contra la parte inferior del Vampire de Jelambi.
+- **Consecuencias del impacto:** La aeronave de Osorio entra en barrena (torsión incontrolable) y comienza a caer. La aeronave de Jelambi también resulta dañada.
+- **Abandono de las aeronaves:** Jelambi logra retirar la capota de su avión y lanzarse en paracaídas, aterrizando con heridas pero con vida. Osorio no logra salir de su aeronave.
+- **Impacto:** El Vampire de Osorio se estrella contra el suelo en el sector Los Guayos, estado Carabobo. El impacto y la posterior explosión destruyen completamente la aeronave.
+- **Víctima en tierra:** Un cable de alta tensión, derribado durante el accidente, electrocutó a un agricultor que se encontraba en las cercanías .
+- **Rescate y atención médica:** Jelambi es trasladado a un centro de salud con heridas de consideración. Los restos de Osorio son recuperados de entre los restos de su avión.
+- **Cobertura internacional:** El accidente es reportado por periódicos internacionales, como The Ottawa Journal, el 29 de mayo de 1952 .
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Los desafíos del entrenamiento en el Vampire
+
+El General de División (AV) Agustín Berzares Morales, uno de los pilotos involucrados en los hechos, relató años después las dificultades que enfrentaron los primeros aviadores venezolanos al transitar de los aviones de hélice a los reactores. Según su testimonio, los dos oficiales enviados a Inglaterra para entrenarse en el Vampire y regresar como instructores fueron destacados a otros destinos, dejando a los pilotos más destacados *"fungir como instructores sin tener en realidad la experiencia"* .
+
+Esta falta de preparación contribuyó a dos accidentes casi fatales. El primero ocurrió cuando el Alférez Piloto José David Pulgar Castro, en su segundo vuelo en el Vampire, intentó abortar un aterrizaje con las revoluciones de la turbina en mínimo (3.000 RPM). Al necesitar elevar las RPM a 8.000 para el despegue, el motor no respondió de inmediato (tomaba aproximadamente 3 segundos), y el avión se desplomó, rompiendo el tren de aterrizaje .
+
+El propio Berzares protagonizó el segundo accidente. Al aterrizar con tanques auxiliares llenos, olvidó mantener 5.000 RPM durante la aproximación, impactó la rueda de nariz y la partió. Estas experiencias llevaron a la emisión de un boletín de obligatorio cumplimiento: en la maniobra de aterrizaje, mantener el acelerador abierto hasta 5.000 RPM . También se reglamentó un intervalo mínimo de 48 horas entre vuelos de aviones de hélice (como el P-47D) y reactores (Vampire) para evitar la "transferencia negativa" de hábitos de pilotaje .
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Los Protagonistas
+
+El accidente del 27 de mayo de 1952 involucró a tres pilotos del Escuadrón Aéreo de Caza Nro. 36 de la Fuerza Aérea Venezolana. Dos de ellos fueron protagonistas directos de la colisión, mientras que un tercero regresó a la base antes del accidente por fallas mecánicas. A continuación se presenta la información biográfica de cada uno.
+
+### Subteniente (AV) Francisco José Osorio (fallecido)
+
+Francisco José Osorio fue uno de los pioneros de la aviación a reacción en Venezuela. Se desempeñaba como piloto de caza en el Escuadrón Nro. 36 de la FAV. Su trágica muerte durante las prácticas acrobáticas lo convirtió en un mártir de la aviación militar venezolana. En su honor, la **Promoción egresada de la Escuela de Aviación Militar el 5 de julio de 1975 lleva su nombre** (Epónimo de la Promoción "Subteniente (AV) Francisco José Osorio").
+
+### Subteniente (AV) Rafael Eduardo Jelambi Terán (sobreviviente)
+
+Rafael Eduardo Jelambi Terán nació y se formó como piloto militar en Venezuela. Participaba activamente en las prácticas para formar el equipo acrobático de la FAV. Al sufrir la colisión, logró desprenderse de su Vampire y lanzarse en paracaídas, una proeza que lo convirtió en el **primer piloto en utilizar un paracaídas desde un avión a reacción en Venezuela**. A pesar de sus heridas, sobrevivió al accidente y continuó su carrera en la Fuerza Aérea. Alcanzó el rango de **General de Brigada** y falleció el 7 de octubre de 2016.
+
+### Subteniente (AV) Agustín Antonio Berzares Morales
+
+Agustín Antonio Berzares Morales era el tercer integrante de la formación. Su aeronave presentó fallas mecánicas antes de la colisión, lo que le obligó a regresar a la base. Continuó su carrera en la aviación, alcanzando el rango de **General de División**. Es autor del libro "De Maracaibo a Persépolis" y sus memorias han sido una fuente valiosa para entender los desafíos del entrenamiento en los primeros reactores de la FAV.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Consecuencias e Impacto
+
+- **Suspensión temporal del equipo acrobático:** El trágico accidente llevó a la suspensión temporal de los planes para conformar el equipo acrobático con aviones Vampire.
+- **Creación del Escuadrón de Caza Nro. 35 "Panteras":** A pesar del revés, el 10 de diciembre de 1952, por Resolución Nro. A-782, se creó el Escuadrón Aéreo de Caza Nro. 35, dotado con los De Havilland Vampire FB.Mk.52.
+- **Debut de "Las Panteras del 35":** El equipo acrobático debutó oficialmente el 10 de diciembre de 1953, siendo el primer equipo de la Fuerza Aérea Venezolana conformado para exhibiciones acrobáticas con aviones a reacción.
+- **Lecciones sobre seguridad:** El accidente evidenció los peligros de las maniobras a alta velocidad y la falta de asientos eyectables en los primeros reactores, lo que posteriormente influyó en la adquisición de aeronaves con mejores sistemas de seguridad. Se emitió un boletín de obligatorio cumplimiento sobre el manejo de las RPM durante el aterrizaje .
+- **Homenajes póstumos:** La muerte de Osorio fue honrada por la institución militar. La promoción de oficiales egresada en 1975 lleva su nombre.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Legado
+
+El accidente del 27 de mayo de 1952 dejó una huella imborrable en la historia de la Fuerza Aérea Venezolana. Representó el costo humano de la transición hacia la era del jet y la formación de los primeros equipos acrobáticos del país.
+
+- **Primer salto en paracaídas desde un reactor:** La acción de Rafael Jelambi Terán al lanzarse en paracaídas desde su Vampire dañado es un hito en la historia aeronáutica de Venezuela. Demostró que, incluso sin asiento eyectable, era posible abandonar una aeronave a reacción en emergencia.
+- **Epónimo de una promoción:** El legado de Francisco José Osorio perdura en la promoción de oficiales que lleva su nombre y que se graduó en 1975.
+- **Las "Panteras del 35":** El equipo acrobático que surgió tras este accidente se convirtió en un símbolo de la destreza y el profesionalismo de los pilotos venezolanos, realizando exhibiciones en todo el país hasta su disolución en 1955.
+- **Lecciones institucionales:** Los accidentes de Pulgar Castro y Berzares llevaron a la implementación de nuevas regulaciones de vuelo que mejoraron la seguridad operacional de la FAV durante la transición a la era del jet.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Referencias Verificadas
+
+<div class="references">
+  <ul>
+    <li><a href="https://aviation-safety.net/wikibase/205689">Aviation Safety Network – Mid-air collision Accident De Havilland DH.100 Vampire FB52, 27 May 1952</a> </li>
+    <li><a href="https://www.facebook.com/groups/295948893906282/posts/1999530600214761/">Cnel. (Av) José Ochoa Vargas - Archivo Historias y Personajes FAV: Equipos Acrobáticos FAV "Panteras del 35"</a></li>
+    <li><a href="https://www.facebook.com/groups/288134155343482/posts/791883374968555/">Freddy Pedrique – Aviación de Caza, período 1920-1950</a></li>
+    <li><a href="https://favclubven.wordpress.com/2024/12/12/el-primer-salto-en-paracaidas-desde-un-avion-a-reaccion-en-venezuela/">Cnel. (Av) José Ochoa Vargas - FAV Club: El primer salto en paracaídas desde un avión a reacción en Venezuela</a></li>
+    <li><a href="https://www.facebook.com/fuerzaaereavenezolana.fav/posts/pfbid0fcMwqQNckk7UKkR5AhDnsfkaXg9VRvRTdjVfK4x2SsnhwCLRMfWhmtMtLJYuNaZHl">G/D Agustín Berzares Morales - Fuerza Aérea Venezolana: Anécdotas en la FAV (relato del G/D Agustín Berzares Morales)</a></li>
+    <li><a href="https://angelmagallanes.wordpress.com/2022/05/04/1964-peter-tautvilas-neniskis-shulz/">Angel Magallanes – Peter Tautvilas Neniskis Schulz (referencia a accidentes de Vampire)</a></li>
+  </ul>
+</div>
+
+<hr>
+
+<div class="note-box">
+  <p><strong>Notas aclaratorias:</strong></p>
+  <p><strong>1. Fecha exacta del accidente:</strong> Las fuentes coinciden en la fecha del 27 de mayo de 1952 . El equipo acrobático "Panteras del 35" debutó oficialmente el 10 de diciembre de 1953, un año y medio después del accidente.</p>
+  <p><strong>2. Víctima en tierra:</strong> Según la base de datos de Aviation Safety Network, un agricultor en tierra murió electrocutado por un cable de alta tensión derribado durante el accidente . Esta información no está presente en todas las fuentes, pero se incluye por provenir de una base de datos especializada.</p>
+  <p><strong>3. Primer salto en paracaídas desde un reactor:</strong> El salto de Jelambi desde su Vampire dañado es reconocido por el Archivo de la FAV como el primer caso de un piloto venezolano en utilizar un paracaídas para abandonar un avión a reacción en vuelo.</p>
+  <p><strong>4. Testimonio de Berzares:</strong> El relato del General de División Agustín Berzares Morales proviene de su libro "De Maracaibo a Persépolis" y ha sido reproducido en publicaciones de la Fuerza Aérea Venezolana . Aporta valioso contexto sobre los desafíos del entrenamiento en los primeros reactores.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Metadatos de Control
+
+- **Timestamp de verificación:** 2026-05-24 17:30:00 UTC
+- **Fuentes primarias consultadas:** Aviation Safety Network (ASN), Archivo Historias y Personajes FAV, Freddy Pedrique, FAV Club, Fuerza Aérea Venezolana FAV (Facebook), Angel Magallanes
+- **Discrepancias resueltas:** Confirmación de la fecha y lugar del accidente mediante ASN. Verificación de la víctima en tierra (agricultor electrocutado) . Confirmación de la supervivencia de Rafael Jelambi Terán mediante paracaídas. Incorporación del testimonio de Agustín Berzares Morales sobre los desafíos del entrenamiento.
+- **Nivel de confianza:** Alto (múltiples fuentes, incluyendo base de datos internacional de seguridad aérea y testimonios de pilotos, coinciden en los datos fundamentales)
+- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
