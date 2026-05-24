@@ -12,13 +12,13 @@ image: 1952-05-27-accidente-jose-francisco-osorio.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-05-27-accidente-jose-francisco-osorio.webp" alt="De Havilland Vampire FB.Mk.52 de la Fuerza Aérea Venezolana">
-  <figcaption class="post-caption">Un De Havilland Vampire FB.Mk.52 de la Fuerza Aérea Venezolana, similar a los involucrados en la colisión del 27 de mayo de 1952. Fuente: [Fuerza Aerea Venezolana FAV → Vía Facebook](https://www.facebook.com/photo/?fbid=3898711343498986).</figcaption>
+  <figcaption class="post-caption">Un De Havilland Vampire FB.Mk.52 de la Fuerza Aérea Venezolana, similar a los involucrados en la colisión del 27 de mayo de 1952. Fuente: Fuerza Aerea Venezolana FAV → Vía Facebook.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Resumen Ejecutivo
 
-El 27 de mayo de 1952, tres cazas De Havilland Vampire FB.Mk.52 del Escuadrón Aéreo de Caza Nro. 36 despegaron de la Base Aérea de Boca de Río en Maracay, estado Aragua, con la misión de realizar prácticas de maniobras para la conformación de un equipo acrobático con aviones a reacción . Los pilotos eran los subtenientes Rafael Eduardo Jelambi Terán, Agustín Antonio Berzares Morales y Francisco José Osorio. Durante las maniobras, el avión de Berzares presentó fallas en el tren de aterrizaje y regresó a la base. Jelambi y Osorio continuaron los ejercicios programados y, en una de las maniobras, la aeronave de Osorio impactó contra la parte inferior del Vampire de Jelambi. La aeronave de Osorio entró en barrena y se estrelló en el sector Los Guayos del estado Carabobo, pereciendo el joven piloto. Jelambi logró lanzarse en paracaídas y salvar su vida, una acción que lo acredita como el primer piloto en utilizar un paracaídas desde un avión a reacción en Venezuela .
+El 27 de mayo de 1952, tres cazas De Havilland Vampire FB.Mk.52 del Escuadrón Aéreo de Caza Nro. 36 despegaron de la Base Aérea de Boca de Río en Maracay, estado Aragua, con la misión de realizar prácticas de maniobras para la conformación de un equipo acrobático con aviones a reacción. Los pilotos eran los subtenientes Rafael Eduardo Jelambi Terán, Agustín Antonio Berzares Morales y Francisco José Osorio. Durante las maniobras, el avión de Berzares presentó fallas en el tren de aterrizaje y regresó a la base. Jelambi y Osorio continuaron los ejercicios programados y, en una de las maniobras, la aeronave de Osorio impactó contra la parte inferior del Vampire de Jelambi. La aeronave de Osorio entró en barrena y se estrelló en el sector Los Guayos del estado Carabobo, pereciendo el joven piloto. Jelambi logró lanzarse en paracaídas y salvar su vida, una acción que lo acredita como el primer piloto en utilizar un paracaídas desde un avión a reacción en Venezuela.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -65,19 +65,19 @@ La formación de un equipo acrobático con aviones a reacción era una iniciativ
 - **Consecuencias del impacto:** La aeronave de Osorio entra en barrena (torsión incontrolable) y comienza a caer. La aeronave de Jelambi también resulta dañada.
 - **Abandono de las aeronaves:** Jelambi logra retirar la capota de su avión y lanzarse en paracaídas, aterrizando con heridas pero con vida. Osorio no logra salir de su aeronave.
 - **Impacto:** El Vampire de Osorio se estrella contra el suelo en el sector Los Guayos, estado Carabobo. El impacto y la posterior explosión destruyen completamente la aeronave.
-- **Víctima en tierra:** Un cable de alta tensión, derribado durante el accidente, electrocutó a un agricultor que se encontraba en las cercanías .
+- **Víctima en tierra:** Un cable de alta tensión, derribado durante el accidente, electrocutó a un agricultor que se encontraba en las cercanías.
 - **Rescate y atención médica:** Jelambi es trasladado a un centro de salud con heridas de consideración. Los restos de Osorio son recuperados de entre los restos de su avión.
-- **Cobertura internacional:** El accidente es reportado por periódicos internacionales, como The Ottawa Journal, el 29 de mayo de 1952 .
+- **Cobertura internacional:** El accidente es reportado por periódicos internacionales, como The Ottawa Journal, el 29 de mayo de 1952.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Los desafíos del entrenamiento en el Vampire
 
-El General de División (AV) Agustín Berzares Morales, uno de los pilotos involucrados en los hechos, relató años después las dificultades que enfrentaron los primeros aviadores venezolanos al transitar de los aviones de hélice a los reactores. Según su testimonio, los dos oficiales enviados a Inglaterra para entrenarse en el Vampire y regresar como instructores fueron destacados a otros destinos, dejando a los pilotos más destacados *"fungir como instructores sin tener en realidad la experiencia"* .
+El General de División (AV) Agustín Berzares Morales, uno de los pilotos involucrados en los hechos, relató años después las dificultades que enfrentaron los primeros aviadores venezolanos al transitar de los aviones de hélice a los reactores. Según su testimonio, los dos oficiales enviados a Inglaterra para entrenarse en el Vampire y regresar como instructores fueron destacados a otros destinos, dejando a los pilotos más destacados *"fungir como instructores sin tener en realidad la experiencia"*.
 
-Esta falta de preparación contribuyó a dos accidentes casi fatales. El primero ocurrió cuando el Alférez Piloto José David Pulgar Castro, en su segundo vuelo en el Vampire, intentó abortar un aterrizaje con las revoluciones de la turbina en mínimo (3.000 RPM). Al necesitar elevar las RPM a 8.000 para el despegue, el motor no respondió de inmediato (tomaba aproximadamente 3 segundos), y el avión se desplomó, rompiendo el tren de aterrizaje .
+Esta falta de preparación contribuyó a dos accidentes casi fatales. El primero ocurrió cuando el Alférez Piloto José David Pulgar Castro, en su segundo vuelo en el Vampire, intentó abortar un aterrizaje con las revoluciones de la turbina en mínimo (3.000 RPM). Al necesitar elevar las RPM a 8.000 para el despegue, el motor no respondió de inmediato (tomaba aproximadamente 3 segundos), y el avión se desplomó, rompiendo el tren de aterrizaje.
 
-El propio Berzares protagonizó el segundo accidente. Al aterrizar con tanques auxiliares llenos, olvidó mantener 5.000 RPM durante la aproximación, impactó la rueda de nariz y la partió. Estas experiencias llevaron a la emisión de un boletín de obligatorio cumplimiento: en la maniobra de aterrizaje, mantener el acelerador abierto hasta 5.000 RPM . También se reglamentó un intervalo mínimo de 48 horas entre vuelos de aviones de hélice (como el P-47D) y reactores (Vampire) para evitar la "transferencia negativa" de hábitos de pilotaje .
+El propio Berzares protagonizó el segundo accidente. Al aterrizar con tanques auxiliares llenos, olvidó mantener 5.000 RPM durante la aproximación, impactó la rueda de nariz y la partió. Estas experiencias llevaron a la emisión de un boletín de obligatorio cumplimiento: en la maniobra de aterrizaje, mantener el acelerador abierto hasta 5.000 RPM. También se reglamentó un intervalo mínimo de 48 horas entre vuelos de aviones de hélice (como el P-47D) y reactores (Vampire) para evitar la "transferencia negativa" de hábitos de pilotaje.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -95,7 +95,7 @@ Rafael Eduardo Jelambi Terán nació y se formó como piloto militar en Venezuel
 
 ### Subteniente (AV) Agustín Antonio Berzares Morales
 
-Agustín Antonio Berzares Morales era el tercer integrante de la formación. Su aeronave presentó fallas mecánicas antes de la colisión, lo que le obligó a regresar a la base. Continuó su carrera en la aviación, alcanzando el rango de **General de División**. Es autor del libro "De Maracaibo a Persépolis" y sus memorias han sido una fuente valiosa para entender los desafíos del entrenamiento en los primeros reactores de la FAV.
+Agustín Antonio Berzares Morales nació en Maracaibo, Estado Zulia, el 15 de agosto de 1924. Inició su carrera militar en febrero de 1942, ingresando a la Escuela de Aviación Militar en enero de 1943 para realizar el curso de mecánica de aviación, donde ocupó el primer lugar en el orden de mérito. Fue miembro de la Promoción de Pilotos y Especialistas "Capitán Manuel Simón Ríos Hernández", egresada el 18 de diciembre de 1943. En agosto de 1946 fue seleccionado para realizar el curso de pilotaje, recibiendo su diploma de Piloto Aviador Militar el 5 de julio de 1947. Formó parte de los primeros pilotos en operar el caza a reacción De Havilland Vampire FB-5 en Venezuela. A lo largo de su carrera, comandó el Escuadrón Aéreo de Transporte Nro. 2 y el Grupo Aéreo de Transporte Nro. 6 "Pegasos", fue Director de la Escuela de Aviación Militar y Secretario Fundador de la SECONASEDE. Fue nombrado Embajador Extraordinario y Plenipotenciario en la República de Irán. Pasó a retiro el 5 de julio de 1979 con el grado de General de División (AV), tras 34 años y medio de servicio. Falleció inesperadamente en Caracas el viernes 11 de septiembre de 2020, a los 96 años de edad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -104,7 +104,7 @@ Agustín Antonio Berzares Morales era el tercer integrante de la formación. Su 
 - **Suspensión temporal del equipo acrobático:** El trágico accidente llevó a la suspensión temporal de los planes para conformar el equipo acrobático con aviones Vampire.
 - **Creación del Escuadrón de Caza Nro. 35 "Panteras":** A pesar del revés, el 10 de diciembre de 1952, por Resolución Nro. A-782, se creó el Escuadrón Aéreo de Caza Nro. 35, dotado con los De Havilland Vampire FB.Mk.52.
 - **Debut de "Las Panteras del 35":** El equipo acrobático debutó oficialmente el 10 de diciembre de 1953, siendo el primer equipo de la Fuerza Aérea Venezolana conformado para exhibiciones acrobáticas con aviones a reacción.
-- **Lecciones sobre seguridad:** El accidente evidenció los peligros de las maniobras a alta velocidad y la falta de asientos eyectables en los primeros reactores, lo que posteriormente influyó en la adquisición de aeronaves con mejores sistemas de seguridad. Se emitió un boletín de obligatorio cumplimiento sobre el manejo de las RPM durante el aterrizaje .
+- **Lecciones sobre seguridad:** El accidente evidenció los peligros de las maniobras a alta velocidad y la falta de asientos eyectables en los primeros reactores, lo que posteriormente influyó en la adquisición de aeronaves con mejores sistemas de seguridad. Se emitió un boletín de obligatorio cumplimiento sobre el manejo de las RPM durante el aterrizaje.
 - **Homenajes póstumos:** La muerte de Osorio fue honrada por la institución militar. La promoción de oficiales egresada en 1975 lleva su nombre.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -137,10 +137,10 @@ El accidente del 27 de mayo de 1952 dejó una huella imborrable en la historia d
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
-  <p><strong>1. Fecha exacta del accidente:</strong> Las fuentes coinciden en la fecha del 27 de mayo de 1952 . El equipo acrobático "Panteras del 35" debutó oficialmente el 10 de diciembre de 1953, un año y medio después del accidente.</p>
-  <p><strong>2. Víctima en tierra:</strong> Según la base de datos de Aviation Safety Network, un agricultor en tierra murió electrocutado por un cable de alta tensión derribado durante el accidente . Esta información no está presente en todas las fuentes, pero se incluye por provenir de una base de datos especializada.</p>
+  <p><strong>1. Fecha exacta del accidente:</strong> Las fuentes coinciden en la fecha del 27 de mayo de 1952. El equipo acrobático "Panteras del 35" debutó oficialmente el 10 de diciembre de 1953, un año y medio después del accidente.</p>
+  <p><strong>2. Víctima en tierra:</strong> Según la base de datos de Aviation Safety Network, un agricultor en tierra murió electrocutado por un cable de alta tensión derribado durante el accidente. Esta información no está presente en todas las fuentes, pero se incluye por provenir de una base de datos especializada.</p>
   <p><strong>3. Primer salto en paracaídas desde un reactor:</strong> El salto de Jelambi desde su Vampire dañado es reconocido por el Archivo de la FAV como el primer caso de un piloto venezolano en utilizar un paracaídas para abandonar un avión a reacción en vuelo.</p>
-  <p><strong>4. Testimonio de Berzares:</strong> El relato del General de División Agustín Berzares Morales proviene de su libro "De Maracaibo a Persépolis" y ha sido reproducido en publicaciones de la Fuerza Aérea Venezolana . Aporta valioso contexto sobre los desafíos del entrenamiento en los primeros reactores.</p>
+  <p><strong>4. Testimonio de Berzares:</strong> El relato del General de División Agustín Berzares Morales proviene de su libro "De Maracaibo a Persépolis" y ha sido reproducido en publicaciones de la Fuerza Aérea Venezolana. Aporta valioso contexto sobre los desafíos del entrenamiento en los primeros reactores.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -149,6 +149,6 @@ El accidente del 27 de mayo de 1952 dejó una huella imborrable en la historia d
 
 - **Timestamp de verificación:** 2026-05-24 17:30:00 UTC
 - **Fuentes primarias consultadas:** Aviation Safety Network (ASN), Archivo Historias y Personajes FAV, Freddy Pedrique, FAV Club, Fuerza Aérea Venezolana FAV (Facebook), Angel Magallanes
-- **Discrepancias resueltas:** Confirmación de la fecha y lugar del accidente mediante ASN. Verificación de la víctima en tierra (agricultor electrocutado) . Confirmación de la supervivencia de Rafael Jelambi Terán mediante paracaídas. Incorporación del testimonio de Agustín Berzares Morales sobre los desafíos del entrenamiento.
+- **Discrepancias resueltas:** Confirmación de la fecha y lugar del accidente mediante ASN. Verificación de la víctima en tierra (agricultor electrocutado). Confirmación de la supervivencia de Rafael Jelambi Terán mediante paracaídas. Incorporación del testimonio de Agustín Berzares Morales sobre los desafíos del entrenamiento.
 - **Nivel de confianza:** Alto (múltiples fuentes, incluyendo base de datos internacional de seguridad aérea y testimonios de pilotos, coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
