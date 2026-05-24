@@ -160,7 +160,7 @@ El legado de Salas Agelvis perdura en cada técnico que hoy mantiene las aeronav
 
 <div class="references">
   <ul>
-    <li><a href="https://www.facebook.com/groups/295948893906282/posts/2536370963197386/">Archivo Historias y Personajes FAV – Biografía del Tcnel. Ernesto Salas Agelvis. Publicado por el Cnel. (Av) José Ochoa Vargas.</a></li>
+    <li><a href="https://www.facebook.com/groups/295948893906282/posts/2536370963197386/"> Cnel. (Av) José Ochoa Vargas - Archivo Historias y Personajes FAV: Biografía del Tcnel. Ernesto Salas Agelvis.</a></li>
     <li><a href="https://www.facebook.com/groups/288134155343482/posts/1848312289325653/">Freddy L. Pedrique – La Chiva y cuando se salvó la Fuerza Aérea Venezolana</a></li>
     <li><a href="https://www.defensa.com/en-abierto/n-100-anos-aviacion-militar-venezuela">Noticias Defensa – 100 años de la Aviación Militar en Venezuela</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Caudron_G-3">Wikipedia – Caudron G.3</a></li>
