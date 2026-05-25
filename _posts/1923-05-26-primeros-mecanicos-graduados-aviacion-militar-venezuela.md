@@ -12,7 +12,7 @@ image: 1923-05-26-primeros-mecanicos-graduados-aviacion-militar-venezuela.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1923-05-26-primeros-mecanicos-graduados-aviacion-militar-venezuela.webp" alt="Caudron G.3 de la Aviación Militar Venezolana">
-  <figcaption class="post-caption">Un Caudron G.3, el primer avión de la Aviación Militar Venezolana. Seis unidades de este modelo fueron adquiridas en Francia en 1920 para formar la primera flota de entrenamiento. El mantenimiento de estas aeronaves recayó en los primeros mecánicos graduados en 1923. Fuente: Museo Aeronáutico de Maracay / dominio público.</figcaption>
+  <figcaption class="post-caption">Vista histórica de los primeros hangares y aeronaves de la Escuela de Aviación Militar en Maracay, escenario donde en 1923 se graduaron los primeros mecánicos aeronáuticos venezolanos, responsables del mantenimiento de los aviones iniciales de la flota; fuente: archivo histórico / dominio público.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
