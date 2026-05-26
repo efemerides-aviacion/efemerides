@@ -137,6 +137,7 @@ El accidente del 27 de mayo de 1952 dejó una huella imborrable en la historia d
     <li><a href="https://www.facebook.com/fuerzaaereavenezolana.fav/posts/pfbid0fcMwqQNckk7UKkR5AhDnsfkaXg9VRvRTdjVfK4x2SsnhwCLRMfWhmtMtLJYuNaZHl">G/D Agustín Berzares Morales – Fuerza Aérea Venezolana: Anécdotas en la FAV</a></li>
     <li><a href="https://angelmagallanes.wordpress.com/2022/05/04/1964-peter-tautvilas-neniskis-shulz/">Angel Magallanes – Peter Tautvilas Neniskis Schulz</a></li>
     <li><a href="https://www.facebook.com/share/17g8Au9Tqf/">Cnel. (Av) José Ochoa Vargas – Fav Ven: General de División (AV) Agustín Antonio Berzares Morales</a></li>
+    <li><strong>The Ottawa Journal</strong> – "Two Venezuelan Planes Collide; 1 Killed" (29 de mayo de 1952, p. 32). Fuente impresa consultada a través de Aviation Safety Network.</li>
   </ul>
 </div>
 
