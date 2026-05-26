@@ -15,13 +15,14 @@ image: 1911-01-30-amerizaje-rescate-de-mccurdy-y-aeronave.jpg
   <figcaption class="post-caption">Rescate de J.A.D. McCurdy y de su aeronave por el bote salvavidas del USS Terry tras amerizaje forzoso de su biplano Curtiss con flotadores, en intento de vuelo Key West (Florida) a La Habana (Cuba), 30 de enero de 1911. Monroe County Public Library, Florida Keys.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="highlight-box">
 <p>El 30 de enero de 1911, el aviador canadiense J.A.D. McCurdy intentó el primer vuelo sin escalas entre Key West (Florida) y La Habana (Cuba) a bordo de un biplano Curtiss. Cuando se encontraba a solo 16 km de la costa cubana y tras dos horas de vuelo, una avería en el motor lo obligó a amerizar cerca de los destructores estadounidenses USS Terry y USS Paulding, que lo rescataron junto a su aeronave. Este operativo constituyó el primer rescate aéreo exitoso en el mar de la historia y, aunque el piloto no logró su objetivo, las autoridades cubanas le otorgaron el premio de 8.000 dólares por su hazaña.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Datos verificados del evento
 - **Fecha:** 30 de enero de 1911  
 - **Lugar:** Entre Key West (Florida) y La Habana (Cuba)  
@@ -31,7 +32,8 @@ image: 1911-01-30-amerizaje-rescate-de-mccurdy-y-aeronave.jpg
 - **Trayectoria:** 170 km previstos; amerizaje a 16 km de La Habana  
 - **Resultado inmediato:** Primer rescate aéreo exitoso en el mar por la US Navy  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto histórico
 El intento de McCurdy fue un hito en la aviación temprana, al combinar la ambición de un vuelo internacional con la participación de la Armada estadounidense en labores de seguridad y rescate.
 
@@ -55,7 +57,8 @@ El intento de McCurdy fue un hito en la aviación temprana, al combinar la ambic
 - Aunque McCurdy no completó el vuelo, se le reconoció oficialmente la hazaña y se le otorgó el premio.  
 - El episodio anticipó la importancia de la seguridad aérea y los protocolos de rescate marítimo.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias verificadas
 <div class="references">
   <ul>
@@ -67,12 +70,17 @@ El intento de McCurdy fue un hito en la aviación temprana, al combinar la ambic
   </ul>
 </div>
 
+<hr>
+
 <div class="note-box">
+
 	<p><strong>Nota aclaratoria:</strong> Algunas fuentes difieren en la distancia exacta al punto de amerizaje (10 vs. 16 km de la costa cubana). Esta efeméride adopta la cifra más citada en reportes contemporáneos: ~10 millas (16 km).</p>
 	<p>Las fuentes históricas, incluyendo los reportes de prensa de la época como <em>The Salt Lake Tribune</em> (31 de enero de 1911), indican que el rescate directo de la vida del aviador J.A.D. McCurdy fue realizado por el <strong>bote salvavidas del destructor USS Terry</strong>, que lo recogió del agua tras su amerizaje. Posteriormente, McCurdy fue llevado a bordo del <strong>USS Paulding</strong>, que intentó izar su aeronave dañada. Esta distinción explica por qué algunas fuentes y fotografías de la época (como la de R. W. Harrison) asocian el evento con el USS Paulding, mientras que los reportes contemporáneos atribuyen el salvamento de la persona al USS Terry. Ambos buques desempeñaron un papel crucial en este hito, considerado el primer rescate aéreo exitoso en el mar por parte de la Armada de los Estados Unidos.</p>
+  <p><strong>Conexión con el vuelo del Albany Flyer:</strong> La aeronave utilizada por McCurdy era un biplano Curtiss Model D "Pusher", similar al famoso <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1910/05/29/vuelo-historico-albany-flyer.html" style="color: #1565c0; text-decoration: none;"<Albany Flyer" con el que Glenn Curtiss realizó el primer vuelo interurbano de larga distancia en Estados Unidos en mayo de 1910</a>. Según el Planes of Fame Air Museum, el avión original fue dañado durante el intento de vuelo de McCurdy y posteriormente reparado para vuelos de exhibición en Cuba, tras lo cual su paradero es desconocido.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-03-08 07:35 CST  
 - **Fuentes primarias consultadas:** The Salt Lake Tribune; Monroe County Public Library; Wikipedia; SmartAge.pl  
