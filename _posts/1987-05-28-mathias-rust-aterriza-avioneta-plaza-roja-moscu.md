@@ -13,7 +13,7 @@ image: 1987-05-28-mathias-rust-aterriza-avioneta-plaza-roja-moscu.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1987-05-28-mathias-rust-aterriza-avioneta-plaza-roja-moscu.webp" alt="Mathias Rust frente a su avioneta en la Plaza Roja">
-  <figcaption class="post-caption">Mathias Rust, al mando de una avioneta Cessna 172, posa junto a su aeronave minutos después de aterrizar en la Plaza Roja de Moscú el 28 de mayo de 1987. Fuente: This Day in Aviation / dominio público.</figcaption>
+  <figcaption class="post-caption">Mathias Rust, al mando de una avioneta Cessna 172, sobrevolando la Plaza Roja de Moscú antes de su aterrizaje el 28 de mayo de 1987; fuente: Turama, “El día en el que una Cessna logró aterrizar en la Plaza Roja de Moscú” / This Day in Aviation, “28 May 1987”.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
