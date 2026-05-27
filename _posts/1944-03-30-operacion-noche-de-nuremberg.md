@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 30 de marzo de 1944 | Operación aérea la 'Noche de Nuremberg'"
+title: "30 de marzo de 1944 | Operación aérea la 'Noche de Nuremberg'"
 date: 1944-03-30
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Alemania (Reich alemán) / Reino Unido
 operator: RAF Bomber Command / Luftwaffe (Nachtjagd)
@@ -47,6 +47,8 @@ La incursión se planificó en medio de un clima de confianza en el Bomber Comma
 
 ### Desarrollo Cronológico
 
+- **30 de mayo de 1942:** La RAF lanza la **Operación Millennium (Milenio)** , el primer bombardeo de 1.000 bombarderos contra Colonia, demostrando la viabilidad del bombardeo de área masivo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/05/30/operacion-milenium.html" style="color: #1565c0; text-decoration: none;">efeméride de la Operación Millennium (Milenio)</a> para más detalles.
+
 - **Agosto 1943 – febrero 1944:** Ataques previos a Núremberg. El bombardeo del 27/28 de agosto de 1943 con 674 aparatos causó 56 bajas civiles; el de febrero de 1944 con 337 bombarderos dañó suburbios.
 - **30 de marzo de 1944, tarde:** Los bombarderos comienzan a despegar de sus bases en Inglaterra. El plan prevé una ruta directa de 600 km sobre territorio enemigo, con nubes altas que se esperaba protegieran a la formación.
 - **Noche del 30/31 de marzo:** El pronóstico meteorológico falla: el cielo se despeja y la luna llena ilumina a los bombarderos. Los cazas nocturnos alemanes, guiados por radar, los interceptan en masa a lo largo de la ruta.
@@ -81,7 +83,7 @@ La Noche de Núremberg es recordada como la mayor tragedia del Bomber Command en
 <div class="references">
   <ul>
     <li><a href="https://es.wikipedia.org/wiki/Bombardeo_de_N%C3%BAremberg">Wikipedia (ES) – Bombardeo de Núremberg</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Bombing_of_Nuremberg_in_World_War_II">Wikipedia (EN) – Bombing of Nuremberg in World War II</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Bombing_of_Nuremberg_in_World_War_II">Wikipedia (EN) – Bombing of Nuremberg Harrisin World War II</a></li>
     <li><a href="https://airgunnerbobgilldfm.wordpress.com/raf-graveley/nuremburg-raid/nuremberg-raide/">Air Gunner Bob Gill DFM – Nuremberg Raid 30/31 March 1944</a></li>
     <li><a href="https://www.rafmuseum.org.uk/research/online-exhibitions/bomber-command-the-raid-on-nuremberg/">RAF Museum – The Raid on Nuremberg (30/31 March 1944)</a></li>
     <li><a href="https://www.bbc.co.uk/history/ww2peopleswar/stories/95/a4063495.shtml">BBC – WW2 People's War: The Nuremberg Raid</a></li>
