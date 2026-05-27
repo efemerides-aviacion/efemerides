@@ -1,28 +1,28 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 15 de abril de 1452 | Leonardo da Vinci"
+title: "15 de abril de 1452 | Nacimiento de Leonardo da Vinci, visionario de la aviación"
 date: 1452-04-15
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Italia
-operator: Ninguno (pionero conceptual)
+operator: No aplica
 excerpt: "El 15 de abril de 1452 nació en Anchiano (República de Florencia) Leonardo da Vinci, el visionario del Renacimiento cuyos estudios sobre el vuelo de las aves y diseños de máquinas voladoras, plasmados en más de 500 dibujos y 35.000 palabras, anticiparon principios fundamentales de la aerodinámica y la aviación siglos antes de su materialización."
-image: 1452-04-15-leonardo-da-vinci-visionario-aviacion.webp
+image: 1452-04-15-nacimiento-leonardo-da-vinci.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1452-04-15-leonardo-da-vinci-visionario-aviacion.webp" alt="Retrato de Leonardo da Vinci y sus diseños de máquinas voladoras">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1452-04-15-nacimiento-leonardo-da-vinci.webp" alt="Retrato de Leonardo da Vinci y sus diseños de máquinas voladoras">
   <figcaption class="post-caption">Retrato de Leonardo da Vinci (15 de abril de 1452-2 de mayo de 1519), pintor italiano del Renacimiento, anatomista, arquitecto, artista, botánico, científico, escultor, escritor, filósofo, ingeniero, inventor, músico, poeta y urbanista. Fuente: <a href="https://www.meisterdrucke.es/impresion-art%C3%ADstica/Unknown-artist/933700/Retrato-de-Leonardo-da-Vinci-(1452-1519),-pintor-italiano.html">Retrato de Leonardo da Vinci (1452-1519), pintor italiano</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 15 de abril de 1452 nació en Anchiano, cerca de Vinci (República de Florencia), Leonardo da Vinci, el paradigma del "Hombre del Renacimiento". Su fascinación por el vuelo humano lo llevó a producir más de 500 dibujos y 35.000 palabras dedicadas al estudio de las máquinas voladoras, la naturaleza del aire y el vuelo de las aves. Aunque ninguno de sus diseños —desde el ornitóptero y el "tornillo aéreo" (precursor del helicóptero) hasta el paracaídas— llegó a construirse durante su vida, sus cuadernos anticiparon conceptos aerodinámicos fundamentales como la relación entre centro de gravedad y centro de presión, la comprensión del aire como fluido y la necesidad de estructuras ligeras. Sus ideas, redescubiertas entre los siglos XVIII y XIX, inspiraron a los pioneros de la aviación y lo consagraron como el primer visionario aeronáutico de la historia.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -35,7 +35,7 @@ image: 1452-04-15-leonardo-da-vinci-visionario-aviacion.webp
 - **Principales diseños aeronáuticos:** Ornitópteros (máquinas de alas batientes), "tornillo aéreo" (precursor del helicóptero), paracaídas, planeador y alas delta
 - **Códice clave:** *Codex on the Flight of Birds* (*Códex sobre el Vuelo de las Aves*), producido entre 1505 y 1506
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -51,7 +51,7 @@ En el siglo XV, el conocimiento de la aerodinámica era prácticamente inexisten
 
 Leonardo trabajó para poderosos mecenas que le permitieron explorar sus intereses más allá de la pintura. Durante su etapa en la corte de Ludovico Sforza, Duque de Milán (desde aproximadamente 1482), fue contratado como "ingeniero militar". Su trabajo incluía el diseño de armas, fortificaciones y máquinas de guerra. Fue en este contexto militar donde surgió su interés por el reconocimiento aéreo y, por extensión, por las máquinas voladoras.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico de sus Contribuciones Aeronáuticas
 
@@ -75,9 +75,11 @@ En el **Códice Atlántico**, Leonardo escribió una nota intrigante: "Mañana p
     4. **Control por desplazamiento de peso:** Sugiere que un piloto podría controlar una máquina voladora cambiando su centro de gravedad, exactamente como lo harían los pioneros del planeador a finales del siglo XIX.
     5. **Estructuras ligeras:** Insiste en la necesidad de construir máquinas con materiales ligeros, una lección que los primeros aviadores aprenderían por las malas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Análisis de sus Principales Invenciones Aeronáuticas
+
+Leonardo diseñó múltiples máquinas voladoras a lo largo de su vida, cada una con un enfoque y una inspiración diferentes. Aunque ninguna llegó a construirse en su época, todas compartían un enfoque metódico basado en la observación de la naturaleza. A continuación se analizan las tres invenciones más relevantes para la historia de la aviación.
 
 ### 1. El Ornitóptero (Máquina de Alas Batientes)
 
@@ -102,7 +104,7 @@ En el **Códice Atlántico**, Leonardo escribió una nota intrigante: "Mañana p
 
 **Legado moderno:** En el año 2000, el paracaidista británico Adrian Nicholas construyó una réplica fiel del diseño de Leonardo. Saltó desde un globo a 3.000 metros de altura y descendió con éxito, reportando un viaje más suave que con un paracaídas moderno. Solo tuvo que cortar las cuerdas para aterrizar con un paracaídas convencional, ya que el diseño de Leonardo no permitía un aterrizaje controlado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -116,9 +118,9 @@ No fue hasta finales del siglo XVIII y principios del XIX —coincidiendo con lo
 
 Cuando los precursores de la aviación del siglo XIX —George Cayley, Otto Lilienthal, los hermanos Wright— comenzaron su trabajo, tuvieron acceso a las ideas de Leonardo. Aunque muchos de sus diseños eran inviables con la tecnología de su época, sus observaciones sobre el vuelo de las aves, la importancia de las estructuras ligeras y el control del vuelo eran visionarias.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Legado en la Aviación
+## Legado
 
 Leonardo da Vinci es, sin duda, el **primer visionario aeronáutico de la historia**. Aunque sus máquinas no volaron, su mente sí lo hizo. Su legado se puede resumir en varios puntos:
 
@@ -128,7 +130,7 @@ Leonardo da Vinci es, sin duda, el **primer visionario aeronáutico de la histor
 4. **Un símbolo de la unión entre arte y ciencia:** Leonardo representa la idea de que la creatividad artística y el rigor científico no están reñidos, sino que se potencian mutuamente. Sus detallados dibujos de máquinas no solo son funcionales, sino también estéticamente admirables.
 5. **El anhelo humano de volar:** Más allá de la ingeniería, los diseños de Leonardo son la expresión más pura del sueño humano de surcar los cielos, un sueño que hoy es una realidad cotidiana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
@@ -137,7 +139,6 @@ Leonardo da Vinci es, sin duda, el **primer visionario aeronáutico de la histor
     <li><a href="https://en.wikipedia.org/wiki/Codex_on_the_Flight_of_Birds">Wikipedia – Codex on the Flight of Birds</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Leonardo%27s_aerial_screw">Wikipedia – Leonardo's aerial screw</a></li>
     <li><a href="https://en.wikipedia.org/wiki/History_of_aviation">Wikipedia – History of aviation (Renaissance section)</a></li>
-    <li><a href="https://www.airandspace.si.edu/stories/editorial/leonardo-da-vinci-and-flight">National Air and Space Museum – Leonardo da Vinci and Flight</a></li>
     <li><a href="https://www.museoscienza.org/en/leonardo-da-vinci/visions-flight">Museo Nazionale della Scienza e della Tecnologia – Visions of Flight</a></li>
     <li><a href="https://theconversation.com/leonardo-da-vincis-helicopter-15th-century-flight-of-fancy-led-to-modern-aeronautics-116241">The Conversation – Leonardo da Vinci's helicopter: 15th-century flight of fancy led to modern aeronautics</a></li>
     <li><a href="https://www.historyhit.com/leonardo-da-vincis-most-important-inventions/">History Hit – 10 of Leonardo da Vinci's Most Important Inventions</a></li>
@@ -145,11 +146,13 @@ Leonardo da Vinci es, sin duda, el **primer visionario aeronáutico de la histor
   </ul>
 </div>
 
+<hr>
+
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La fecha exacta del nacimiento de Leonardo (15 de abril de 1452) está bien documentada en fuentes históricas. El "tornillo aéreo" se encuentra en el folio 83-verso del Manuscrito B de París, fechado entre 1487 y 1490. Se ha priorizado la información del <em>Códex sobre el Vuelo de las Aves</em> (1505-1506) por ser la más madura y relevante para la aviación. La historia del intento de vuelo en Monte Ceceri en 1505 es considerada probablemente apócrifa por los historiadores modernos, por lo que se ha señalado como tal.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
