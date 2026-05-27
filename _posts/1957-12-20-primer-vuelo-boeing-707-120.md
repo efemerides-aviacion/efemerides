@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 20 de diciembre de 1957 | Aviación Comercial a Chorro"
+title: "20 de diciembre de 1957 |  Primer vuelo del Boeing 707-120, el avión que inició la era del jet comercial en Estados Unidos"
 date: 1957-12-20
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Boeing
 excerpt: "El primer Boeing 707-120 de producción realizó su vuelo inaugural desde Renton Field, marcando el inicio de la era del chorro en la aviación comercial."
-image: 1957-12-20-innovacion-aviacion-comercial-chorro
+image: 1957-12-20-primer-vuelo-boeing-707-120.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1957-12-20-innovacion-aviacion-comercial-chorro.jpg" alt="Boeing 707-120 N708PA en su primer vuelo">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1957-12-20-primer-vuelo-boeing-707-120.webp" alt="Boeing 707-120 N708PA en su primer vuelo">
   <figcaption class="post-caption">Boeing 707-120, matrícula N708PA en su primer vuelo.</figcaption>
 </figure>
 
