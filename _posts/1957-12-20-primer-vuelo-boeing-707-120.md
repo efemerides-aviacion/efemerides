@@ -14,7 +14,7 @@ redirect_from:
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1957-12-20-primer-vuelo-boeing-707-120.webp" alt="Boeing 707-120 N708PA en su primer vuelo">
-  <figcaption class="post-caption">El Boeing 707-120 (N708PA), primer avión de producción de la serie 707, durante su vuelo inaugural desde Renton Field, Washington, el 20 de diciembre de 1957. Fuente: Boeing / archivo histórico.</figcaption>
+  <figcaption class="post-caption">El Boeing 707‑121 N708PA realizando su primer despegue el 20 de diciembre de 1957 a las 12:30 p.m., en una tarde lluviosa en el aeropuerto de Renton, Washington; fuente: This Day in Aviation, “20 December 1957” (Boeing).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -94,6 +94,7 @@ El éxito del 707 forzó a Douglas a acelerar el desarrollo de su DC-8, que vol�
   <p><strong>1. Diferencia entre el prototipo y el avión de producción:</strong> El prototipo Boeing 367-80 (Dash 80) voló el 15 de julio de 1954. El 20 de diciembre de 1957 voló el primer avión de producción, el Boeing 707-120, que fue el que realmente inició la era del jet comercial en Estados Unidos.</p>
   <p><strong>2. Competencia con el DC-8:</strong> El Douglas DC-8, principal competidor del 707, realizó su primer vuelo el 30 de mayo de 1958, cinco meses después del 707. Aunque el DC-8 vendió 556 unidades frente a 1.010 del 707, ambos aviones consolidaron la era del jet comercial.</p>
   <p><strong>3. El vuelo inaugural:</strong> El primer vuelo del 707-120 duró solo 7 minutos hasta Boeing Field, debido a que las pruebas iniciales se limitaban a verificaciones básicas de control y estabilidad antes de trasladar el avión a instalaciones más adecuadas para el programa de certificación.</p>
+  <p><strong>4. Designación del avión:</strong> El prototipo N708PA fue designado por Boeing como <strong>Model 707-121</strong> (variante específica para Pan American World Airways), aunque se le conoce genéricamente como <strong>707-120</strong>. Ambos términos se refieren al mismo avión. La fuente "This Day in Aviation" utiliza la designación precisa del fabricante (707-121), mientras que la mayoría de las fuentes históricas utilizan la designación genérica (707-120).</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
