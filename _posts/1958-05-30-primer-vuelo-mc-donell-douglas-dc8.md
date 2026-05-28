@@ -78,7 +78,7 @@ El DC-8 representaba la apuesta de Douglas por el futuro de los viajes aéreos. 
 - **29 de agosto de 1966:** Primer vuelo del DC-8-62 (Super 62), versión de largo alcance.
 - **10 de abril de 1967:** Primer vuelo del DC-8-63 (Super 63), que combinaba el fuselaje del -61 con las alas del -62.
 - **1972:** Cese de la producción del DC-8 (última entrega en mayo de 1972), con un total de 556 unidades construidas.
-- **2001:** El prototipo original N8008D fue desguazado en Marana, Arizona.
+- **2001:** El prototipo original N8008D, que había volado para National Airlines, Trans International, Lufthansa, Canadian Pacific, Delta y Aeroméxico, fue desguazado en Marana, Arizona, tras haber sido almacenado desde 1982.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -122,7 +122,6 @@ El Douglas DC-8 fue un avión fundamental en la historia de la aviación comerci
 
 - **Un diseño robusto y querido:** El DC-8 es recordado por pilotos y pasajeros como un avión sólido, suave y fiable. Su capacidad para operar desde pistas cortas y su robustez estructural lo hicieron popular en rutas difíciles de todo el mundo.
 - **Conversiones a carguero:** Muchos DC-8 fueron convertidos a la versión de carga (DC-8-70F) con motores CFM56, volando para UPS, DHL y otras empresas de mensajería hasta bien entrada la década de 2000.
-- **El prototipo N8008D:** El primer DC-8 voló para Panagra, National Airlines y otras aerolíneas, y luego fue convertido a carguero. Fue desguazado en 2001 en Opa-Locka, Florida, tras una larga y productiva vida.
 - **Presencia en museos:** Varios DC-8 se conservan en museos de todo el mundo, incluyendo el Museo Nacional del Aire y el Espacio del Smithsonian (un DC-8-72) y el Museo de la Aviación de Seattle.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -144,7 +143,7 @@ El Douglas DC-8 fue un avión fundamental en la historia de la aviación comerci
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
   <p><strong>1. McDonnell Douglas vs. Douglas:</strong> El avión fue diseñado y construido por la <strong>Douglas Aircraft Company</strong>. La fusión con McDonnell Aircraft Corporation ocurrió en 1967, formando McDonnell Douglas. Por lo tanto, el avión que voló en 1958 es estrictamente un <strong>Douglas DC-8</strong>, no un McDonnell Douglas. La denominación "McDonnell Douglas DC-8" se aplica a las versiones posteriores a la fusión o como denominación histórica general.</p>
-  <p><strong>2. El prototipo N8008D:</strong> El primer DC-8 (N8008D) fue desguazado en 2001 en Opa-Locka, Florida. No se conserva en ningún museo.</p>
+  <p><strong>2. El prototipo N8008D:</strong> El primer DC-8 (N8008D) voló para Panagra, National Airlines, Trans International, Lufthansa, Canadian Pacific, Delta y Aeroméxico. Fue almacenado en Marana, Arizona, en 1982 y desguazado allí en 2001. No se conserva en ningún museo.</p>
   <p><strong>3. Producción total:</strong> Las fuentes coinciden en que se construyeron 556 DC-8 entre 1958 y 1972.</p>
   <p><strong>4. El récord supersónico del DC-8:</strong> El 21 de agosto de 1961, un DC-8-43 alcanzó Mach 1.012 en vuelo de descenso controlado durante una prueba de certificación de la FAA. No fue diseñado como avión supersónico (su velocidad de crucero era Mach 0,82), sino que la prueba demostraba el margen de seguridad estructural del avión en condiciones extremas. Fue el primer avión comercial en lograrlo, pero nunca operó comercialmente a esa velocidad.</p>
 </div>
