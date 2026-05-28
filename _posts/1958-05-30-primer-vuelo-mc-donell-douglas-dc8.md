@@ -67,18 +67,18 @@ El DC-8 representaba la apuesta de Douglas por el futuro de los viajes aéreos. 
 
 - **15 de julio de 1954:** Primer vuelo del prototipo Boeing 367-80 (Dash 80), precursor del 707.
 - **7 de junio de 1955:** Douglas anuncia formalmente el programa DC-8, ofreciendo cuatro versiones iniciales del primer reactor comercial de la compañía.
-- **8 de diciembre de 1957:** El Boeing 707-120 realiza su primer vuelo, adelantándose a Douglas.
-- **20 de diciembre de 1957:** Primer vuelo del Boeing 707-120 de producción. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1957/12/20/primer-vuelo-boeing-707-120.html" style="color: #1565c0; text-decoration: none;">efeméride del primer vuelo del Boeing 707-120</a> para más detalles.
-- **Abril de 1958:** Se completa el ensamblaje del primer prototipo N8008D en Long Beach.
+- **9 de abril de 1958:** Roll-out del primer prototipo N8008D en la fábrica de Long Beach, California.
 - **30 de mayo de 1958, 10:10 a.m.:** Primer vuelo del DC-8 desde Long Beach.
-- **31 de mayo de 1958:** El avión es trasladado a Edwards AFB para continuar las pruebas de vuelo.
 - **18 de septiembre de 1959:** Primer vuelo del DC-8-10 con motores JT3C-6.
 - **31 de agosto de 1959:** Primer vuelo del DC-8-20 (motores JT4A-3 de mayor empuje).
+- **20 de diciembre de 1960:** Primer vuelo del prototipo N8008D convertido a DC-8-51 con motores turbofán JT3D-1.
 - **21 de agosto de 1961:** Un DC-8-43 se convierte en el primer avión comercial en superar Mach 1, alcanzando Mach 1.012 en vuelo de descenso controlado.
 - **28 de febrero de 1962:** Primer vuelo del DC-8-50 (versión de mayor peso bruto).
-- **1965:** Primer vuelo del DC-8-60 (Serie Super 60) con fuselaje alargado.
-- **1972:** Cese de la producción del DC-8, con un total de 556 unidades construidas.
-- **2001:** El prototipo original N8008D, que había volado para varias aerolíneas, fue desguazado.
+- **14 de marzo de 1966:** Primer vuelo del DC-8-61 (Super 61), el primero de la Serie Super 60 con fuselaje alargado.
+- **29 de agosto de 1966:** Primer vuelo del DC-8-62 (Super 62), versión de largo alcance.
+- **10 de abril de 1967:** Primer vuelo del DC-8-63 (Super 63), que combinaba el fuselaje del -61 con las alas del -62.
+- **1972:** Cese de la producción del DC-8 (última entrega en mayo de 1972), con un total de 556 unidades construidas.
+- **2001:** El prototipo original N8008D fue desguazado en Marana, Arizona.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -135,6 +135,7 @@ El Douglas DC-8 fue un avión fundamental en la historia de la aviación comerci
     <li><a href="https://www.airwaysmag.com/new-post/maiden-douglas-dc-8">Airways Magazine – 5/30/1958: First Flight of the Douglas DC-8</a></li>
     <li><a href="https://es.wikipedia.org/wiki/Douglas_DC-8">Wikipedia (ES) – Douglas DC-8</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Douglas_DC-8">Wikipedia (EN) – Douglas DC-8</a></li>
+    <li><a href="http://www.1000aircraftphotos.com/PRPhotos/1242.htm">1000AircraftPhotos – Douglas DC-8-11</a></li>
   </ul>
 </div>
 
@@ -153,7 +154,7 @@ El Douglas DC-8 fue un avión fundamental en la historia de la aviación comerci
 ## Metadatos de Control
 
 - **Timestamp de verificación:** 2026-05-27 23:15:00 UTC
-- **Fuentes primarias consultadas:** This Day in Aviation, Airways Magazine, Wikipedia (ES/EN)
+- **Fuentes primarias consultadas:** This Day in Aviation, Airways Magazine, Wikipedia (ES/EN), 1000AircraftPhotos
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (30 de mayo de 1958). Verificación de la tripulación y las condiciones del vuelo. Aclaración de la diferencia entre Douglas y McDonnell Douglas. Aclaración del récord supersónico (prueba de certificación, no diseño comercial).
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
