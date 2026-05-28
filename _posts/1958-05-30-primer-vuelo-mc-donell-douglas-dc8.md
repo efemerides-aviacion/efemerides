@@ -18,7 +18,7 @@ image: 1958-05-30-primer-vuelo-mc-donell-douglas-dc8.webp
 
 ## Resumen Ejecutivo
 
-El 30 de mayo de 1958, el prototipo del **Douglas DC-8** (matrícula N8008D) realizó su primer vuelo desde el aeropuerto de Long Beach, California, a las 10:10 a.m., pilotado por **Arnold G. Heimerdinger**, acompañado por los copilotos **William M. Magruder** y **Paul H. Patten**, y el ingeniero de vuelo **Arthur E. Raymond** . El vuelo duró **2 horas y 10 minutos**, alcanzando una altitud de 11.000 pies y una velocidad máxima de 260 nudos (480 km/h), con los flaps y el tren de aterrizaje extendidos . Posteriormente, el avión fue llevado a la Base de la Fuerza Aérea Edwards para continuar el programa de pruebas . El DC-8 fue el **primer reactor comercial de Douglas** (McDonnell Douglas sería el resultado de una fusión posterior en 1967), diseñado para competir en el emergente mercado de los aviones a reacción de fuselaje estrecho frente al Boeing 707 y el Convair 880 . Con **556 unidades construidas** entre 1958 y 1972, el DC-8 se consolidó como un avión exitoso, y en 1961 se convirtió en el **primer avión comercial en romper la barrera del sonido** (Mach 1.012 en vuelo de descenso) .
+El 30 de mayo de 1958, el prototipo del **Douglas DC-8** (matrícula N8008D) realizó su primer vuelo desde el aeropuerto de Long Beach, California, a las 10:10 a.m., pilotado por **Arnold G. Heimerdinger**, acompañado por los copilotos **William M. Magruder** y **Paul H. Patten**, y el ingeniero de vuelo **Arthur E. Raymond**. El vuelo duró **2 horas y 10 minutos**, alcanzando una altitud de 11.000 pies y una velocidad máxima de 260 nudos (480 km/h), con los flaps y el tren de aterrizaje extendidos. Posteriormente, el avión fue llevado a la Base de la Fuerza Aérea Edwards para continuar el programa de pruebas. El DC-8 fue el **primer reactor comercial de Douglas** (McDonnell Douglas sería el resultado de una fusión posterior en 1967), diseñado para competir en el emergente mercado de los aviones a reacción de fuselaje estrecho frente al Boeing 707 y el Convair 880. Con **556 unidades construidas** entre 1958 y 1972, el DC-8 se consolidó como un avión exitoso, y en 1961 se convirtió en el **primer avión comercial en romper la barrera del sonido** (Mach 1.012 en vuelo de descenso).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -53,32 +53,32 @@ La década de 1950 fue una época de optimismo y expansión en los viajes aéreo
 
 ### Entorno tecnológico
 
-El DC-8 fue diseñado para ser más ancho y más largo que el Boeing 707, ofreciendo una sección transversal de 147 pulgadas (3,73 m) que permitía asientos de 6 por fila . El fuselaje del DC-8 era un 40% más largo que el del DC-7, el último avión de hélice de Douglas . Los motores Pratt & Whitney JT3C-6 eran turborreactores de flujo axial que, para el primer vuelo, se mantuvieron al 80% de su capacidad debido a que el avión no contaba con los tanques de combustible necesarios para vuelos de larga distancia .
+El DC-8 fue diseñado para ser más ancho y más largo que el Boeing 707, ofreciendo una sección transversal de 147 pulgadas (3,73 m) que permitía asientos de 6 por fila. El fuselaje del DC-8 era un 40% más largo que el del DC-7, el último avión de hélice de Douglas. Los motores Pratt & Whitney JT3C-6 eran turborreactores de flujo axial que, para el primer vuelo, se mantuvieron al 80% de su capacidad debido a que el avión no contaba con los tanques de combustible necesarios para vuelos de larga distancia.
 
-Una característica distintiva de los primeros DC-8 era el **inyector de agua-metanol** en los motores, que aumentaba el empuje durante el despegue al rociar una mezcla de agua y alcohol en la entrada del motor. Esto producía el característico humo denso y negro que se ve en las fotografías del primer vuelo .
+Una característica distintiva de los primeros DC-8 era el **inyector de agua-metanol** en los motores, que aumentaba el empuje durante el despegue al rociar una mezcla de agua y alcohol en la entrada del motor. Esto producía el característico humo denso y negro que se ve en las fotografías del primer vuelo.
 
 ### Entorno cultural
 
-El DC-8 representaba la apuesta de Douglas por el futuro de los viajes aéreos. Aunque llegó varios meses después que el Boeing 707, se convirtió en un avión muy querido por pilotos y pasajeros por su robustez y suavidad de vuelo. Su capacidad para superar Mach 1 en vuelo de descenso (lograda el 21 de agosto de 1961) fue un hito publicitario que demostró el margen de seguridad y el rendimiento excepcional del diseño .
+El DC-8 representaba la apuesta de Douglas por el futuro de los viajes aéreos. Aunque llegó varios meses después que el Boeing 707, se convirtió en un avión muy querido por pilotos y pasajeros por su robustez y suavidad de vuelo. Su capacidad para superar Mach 1 en vuelo de descenso (lograda el 21 de agosto de 1961) fue un hito publicitario que demostró el margen de seguridad y el rendimiento excepcional del diseño.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico del Programa DC-8
 
-- **Junio de 1955:** Douglas anuncia oficialmente el programa DC-8 en la Conferencia de la Industria Aeronáutica en San Diego .
-- **15 de julio de 1954:** Primer vuelo del prototipo Boeing 367-80 (Dash 80), precursor del 707 .
-- **8 de diciembre de 1957:** El Boeing 707-120 realiza su primer vuelo, adelantándose a Douglas .
+- **15 de julio de 1954:** Primer vuelo del prototipo Boeing 367-80 (Dash 80), precursor del 707.
+- **7 de junio de 1955:** Douglas anuncia formalmente el programa DC-8, ofreciendo cuatro versiones iniciales del primer reactor comercial de la compañía.
+- **8 de diciembre de 1957:** El Boeing 707-120 realiza su primer vuelo, adelantándose a Douglas.
 - **20 de diciembre de 1957:** Primer vuelo del Boeing 707-120 de producción. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1957/12/20/primer-vuelo-boeing-707-120.html" style="color: #1565c0; text-decoration: none;">efeméride del primer vuelo del Boeing 707-120</a> para más detalles.
-- **Abril de 1958:** Se completa el ensamblaje del primer prototipo N8008D en Long Beach .
-- **30 de mayo de 1958, 10:10 a.m.:** Primer vuelo del DC-8 desde Long Beach .
-- **31 de mayo de 1958:** El avión es trasladado a Edwards AFB para continuar las pruebas de vuelo .
-- **18 de septiembre de 1959:** Primer vuelo del DC-8-10 con motores JT3C-6 .
-- **31 de agosto de 1959:** Primer vuelo del DC-8-20 (motores JT4A-3 de mayor empuje) .
-- **21 de agosto de 1961:** Un DC-8-43 se convierte en el primer avión comercial en superar Mach 1, alcanzando Mach 1.012 en vuelo de descenso controlado .
-- **28 de febrero de 1962:** Primer vuelo del DC-8-50 (versión de mayor peso bruto) .
-- **1965:** Primer vuelo del DC-8-60 (Serie Super 60) con fuselaje alargado .
-- **1972:** Cese de la producción del DC-8, con un total de 556 unidades construidas .
-- **2001:** El prototipo original N8008D, que había volado para varias aerolíneas, fue desguazado .
+- **Abril de 1958:** Se completa el ensamblaje del primer prototipo N8008D en Long Beach.
+- **30 de mayo de 1958, 10:10 a.m.:** Primer vuelo del DC-8 desde Long Beach.
+- **31 de mayo de 1958:** El avión es trasladado a Edwards AFB para continuar las pruebas de vuelo.
+- **18 de septiembre de 1959:** Primer vuelo del DC-8-10 con motores JT3C-6.
+- **31 de agosto de 1959:** Primer vuelo del DC-8-20 (motores JT4A-3 de mayor empuje).
+- **21 de agosto de 1961:** Un DC-8-43 se convierte en el primer avión comercial en superar Mach 1, alcanzando Mach 1.012 en vuelo de descenso controlado.
+- **28 de febrero de 1962:** Primer vuelo del DC-8-50 (versión de mayor peso bruto).
+- **1965:** Primer vuelo del DC-8-60 (Serie Super 60) con fuselaje alargado.
+- **1972:** Cese de la producción del DC-8, con un total de 556 unidades construidas.
+- **2001:** El prototipo original N8008D, que había volado para varias aerolíneas, fue desguazado.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -101,18 +101,18 @@ El Douglas DC-8-10 fue la versión inicial del reactor comercial de Douglas.
 
 ## El Récord Supersónico del DC-8
 
-El 21 de agosto de 1961, un **Douglas DC-8-43** (versión con motores más potentes) pilotado por **William Magruder** (quien había sido copiloto en el primer vuelo) estableció un récord al superar la barrera del sonido. Durante una prueba en picado desde 52.000 pies (15.850 m), el avión alcanzó **Mach 1.012** (aproximadamente 1.062 km/h) .
+El 21 de agosto de 1961, un **Douglas DC-8-43** (versión con motores más potentes) pilotado por **William Magruder** (quien había sido copiloto en el primer vuelo) estableció un récord al superar la barrera del sonido. Durante una prueba en picado desde 52.000 pies (15.850 m), el avión alcanzó **Mach 1.012** (aproximadamente 1.062 km/h).
 
-Este fue el primer vuelo supersónico de un avión comercial civil y demostró el robusto margen de seguridad del diseño del DC-8. Las pruebas también incluyeron la activación de los inversores de empuje a Mach 1 y la verificación de que no había problemas de compresibilidad o aleteo a altas velocidades . El avión en cuestión fue posteriormente entregado a Canadian Pacific Air Lines.
+Este fue el primer vuelo supersónico de un avión comercial civil y demostró el robusto margen de seguridad del diseño del DC-8. Las pruebas también incluyeron la activación de los inversores de empuje a Mach 1 y la verificación de que no había problemas de compresibilidad o aleteo a altas velocidades. El avión en cuestión fue posteriormente entregado a Canadian Pacific Air Lines.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Competencia Boeing vs. Douglas:** El DC-8 llegó tarde al mercado (el Boeing 707 ya estaba volando desde diciembre de 1957 y entró en servicio en octubre de 1958). Sin embargo, logró vender 556 unidades frente a 1.010 del 707, una diferencia importante pero que consolidó a Douglas como el segundo fabricante de aviones comerciales del mundo .
+- **Competencia Boeing vs. Douglas:** El DC-8 llegó tarde al mercado (el Boeing 707 ya estaba volando desde diciembre de 1957 y entró en servicio en octubre de 1958). Sin embargo, logró vender 556 unidades frente a 1.010 del 707, una diferencia importante pero que consolidó a Douglas como el segundo fabricante de aviones comerciales del mundo.
 - **Innovación y versatilidad:** El DC-8 demostró ser un diseño excepcionalmente versátil, con versiones que incluyeron motores más potentes (JT4A), fuselajes alargados (Super 60), y más tarde, en la década de 1980, la conversión a motores turbofán de alta eficiencia (Serie 70), extendiendo su vida útil hasta bien entrada la década de 1980 e incluso 1990.
-- **Primer avión comercial supersónico:** La hazaña del 21 de agosto de 1961 fue un hito publicitario que demostró la robustez del DC-8 y su capacidad para volar de manera segura a velocidades supersónicas, aunque solo en descenso controlado .
-- **Legado de producción:** La producción del DC-8 se extendió desde 1958 hasta 1972, con 556 aviones construidos. Muchos de ellos continuaron volando como cargueros hasta la década de 2000, siendo el UPS (United Parcel Service) uno de los últimos operadores importantes .
+- **Primer avión comercial supersónico:** La hazaña del 21 de agosto de 1961 fue un hito publicitario que demostró la robustez del DC-8 y su capacidad para volar de manera segura a velocidades supersónicas, aunque solo en descenso controlado.
+- **Legado de producción:** La producción del DC-8 se extendió desde 1958 hasta 1972, con 556 aviones construidos. Muchos de ellos continuaron volando como cargueros hasta la década de 2000, siendo el UPS (United Parcel Service) uno de los últimos operadores importantes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -122,7 +122,7 @@ El Douglas DC-8 fue un avión fundamental en la historia de la aviación comerci
 
 - **Un diseño robusto y querido:** El DC-8 es recordado por pilotos y pasajeros como un avión sólido, suave y fiable. Su capacidad para operar desde pistas cortas y su robustez estructural lo hicieron popular en rutas difíciles de todo el mundo.
 - **Conversiones a carguero:** Muchos DC-8 fueron convertidos a la versión de carga (DC-8-70F) con motores CFM56, volando para UPS, DHL y otras empresas de mensajería hasta bien entrada la década de 2000.
-- **El prototipo N8008D:** El primer DC-8 voló para Panagra, National Airlines y otras aerolíneas, y luego fue convertido a carguero. Fue desguazado en 2001 en Opa-Locka, Florida, tras una larga y productiva vida .
+- **El prototipo N8008D:** El primer DC-8 voló para Panagra, National Airlines y otras aerolíneas, y luego fue convertido a carguero. Fue desguazado en 2001 en Opa-Locka, Florida, tras una larga y productiva vida.
 - **Presencia en museos:** Varios DC-8 se conservan en museos de todo el mundo, incluyendo el Museo Nacional del Aire y el Espacio del Smithsonian (un DC-8-72) y el Museo de la Aviación de Seattle.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
