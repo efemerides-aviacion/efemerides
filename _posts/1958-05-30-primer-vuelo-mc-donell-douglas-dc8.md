@@ -67,6 +67,7 @@ El DC-8 representaba la apuesta de Douglas por el futuro de los viajes aéreos. 
 
 - **15 de julio de 1954:** Primer vuelo del prototipo Boeing 367-80 (Dash 80), precursor del 707.
 - **7 de junio de 1955:** Douglas anuncia formalmente el programa DC-8, ofreciendo cuatro versiones iniciales del primer reactor comercial de la compañía.
+- **20 de diciembre de 1957:** El Boeing 707-120 realiza su primer vuelo de producción, adelantándose a Douglas . Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1957/12/20/primer-vuelo-boeing-707-120.html" style="color: #1565c0; text-decoration: none;">efeméride del primer vuelo del Boeing 707-120</a> para más detalles.
 - **9 de abril de 1958:** Roll-out del primer prototipo N8008D en la fábrica de Long Beach, California.
 - **30 de mayo de 1958, 10:10 a.m.:** Primer vuelo del DC-8 desde Long Beach.
 - **18 de septiembre de 1959:** Primer vuelo del DC-8-10 con motores JT3C-6.
