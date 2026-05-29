@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 7 de enero de 1785 | Primer cruce aéreo del Canal de la Mancha en globo aerostático"
+title: "7 de enero de 1785 | Primer cruce aéreo del Canal de la Mancha en globo aerostático"
 date: 1785-01-07
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Francia / Inglaterra
 operator: Jean Pierre Blanchard y John Jeffries
@@ -12,17 +12,17 @@ image: 1785-01-07-primer-cruce-canal-mancha-globo-aerostatico.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1785-01-07-primer-cruce-canal-mancha-globo-aerostatico.webp" alt="Jean Pierre Blanchard en globo aerostático">
-  <figcaption class="post-caption">Grabado retrospectivo de Thomas Rowlandson (1794) que muestra el despegue del globo aerostático de Jean-Pierre Blanchard y John Jeffries desde Dover Castle hacia Guînes, el 7 de enero de 1785. Fuente: <a href="https://en.wikipedia.org/wiki/Jean-Pierre_Blanchard">Wikipedia (EN) – Jean-Pierre Blanchard</a></figcaption>
+  <figcaption class="post-caption">Grabado retrospectivo de Thomas Rowlandson (1794) que muestra el despegue del globo aerostático de Jean-Pierre Blanchard y John Jeffries desde Dover Castle hacia Guînes, el 7 de enero de 1785. Fuente: <a href="https://en.wikipedia.org/wiki/Jean-Pierre_Blanchard">Wikipedia (EN) – Jean-Pierre Blanchard</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-<!-- ## Resumen Ejecutivo -->
-<div class="highlight-box">
+## Resumen Ejecutivo
+
 <p>El 7 de enero de 1785, el aviador francés Jean Pierre Blanchard y el médico estadounidense John Jeffries lograron el primer cruce aéreo del Canal de la Mancha en globo aerostático. Partieron desde el Castillo de Dover, Inglaterra, y aterrizaron en el bosque de Guînes, cerca de Calais, Francia, tras un vuelo de aproximadamente 2 horas y 30 minutos. Durante la travesía de 37 km sobre el mar, el globo perdió altitud repetidamente, obligando a los aeronautas a arrojar lastre, provisiones, libros e incluso parte de su vestimenta para mantenerse en el aire. Esta hazaña marcó el inicio de los vuelos internacionales y consolidó el potencial del globo como medio de transporte aéreo.</p>
-</div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
-## Datos del evento
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Datos verificados del evento
 
 - **Fecha:** 7 de enero de 1785
 - **Lugar de despegue:** Castillo de Dover, Dover, Inglaterra
@@ -33,12 +33,12 @@ image: 1785-01-07-primer-cruce-canal-mancha-globo-aerostatico.webp
 - **Dimensiones del globo:** Diámetro aproximado de 9 metros
 - **Gas de elevación:** Hidrógeno
 - **Barquilla:** Una pequeña cesta de mimbre con velas y remos (que resultaron inútiles)
-- **Duración del vuelo:** Aproximadamente 2 horas y 30 minutos
-- **Distancia recorrida:** Aproximadamente 37 km (20 millas náuticas)
-- **Altitud máxima alcanzada:** Estimada en 1.500 metros (5.000 pies)
+- **Duración del vuelo:** aproximadamente 2 horas y 30 minutos
+- **Distancia recorrida:** aproximadamente 37 km (20 millas náuticas)
+- **Altitud máxima alcanzada:** estimada en 1.500 metros (5.000 pies)
 - **Resultado inmediato:** Primer cruce aéreo internacional exitoso de la historia
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -56,7 +56,7 @@ El globo de Blanchard utilizaba hidrógeno como gas de elevación, un método m�
 
 La hazaña fue celebrada como un triunfo del ingenio humano y fortaleció el interés por la exploración aérea en Europa y América. John Jeffries, siendo estadounidense, representaba el creciente protagonismo de la nueva nación en el ámbito científico. Blanchard, por su parte, se convirtió en un héroe nacional en Francia y continuó realizando demostraciones en toda Europa y América.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -76,7 +76,7 @@ La hazaña fue celebrada como un triunfo del ingenio humano y fortaleció el int
 
 - **Recepción oficial:** Blanchard y Jeffries son recibidos por las autoridades francesas en Calais. Jeffries entrega una carta de las autoridades británicas al gobernador de Calais, estableciendo un precedente de comunicación aérea internacional.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -90,7 +90,7 @@ La hazaña fue celebrada como un triunfo del ingenio humano y fortaleció el int
 
 - **Precedente meteorológico:** Las mediciones atmosféricas tomadas por Jeffries durante el vuelo contribuyeron al desarrollo de la meteorología como ciencia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -108,37 +108,37 @@ Jean Pierre Blanchard es recordado como uno de los pioneros de la aviación, y s
 
 - **Legado de Jeffries:** Jeffries regresó a Estados Unidos y continuó su carrera como médico y científico. Sus escritos sobre el vuelo de 1785 son una fuente primaria invaluable para los historiadores de la aviación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://airandspace.si.edu/stories/editorial/crossing-channel-balloon">Smithsonian Air & Space – Crossing the Channel by Balloon</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/first-channel-crossing-air/nasm_A19930258000">Smithsonian Air & Space – Crossing the Channel by Balloon</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Jean-Pierre_Blanchard">Wikipedia (EN) – Jean-Pierre Blanchard</a></li>
     <li><a href="https://es.wikipedia.org/wiki/Jean_Pierre_Blanchard">Wikipedia (ES) – Jean Pierre Blanchard</a></li>
     <li><a href="https://www.historyhit.com/1785-english-channel-balloon-crossing/">History Hit – 1785 Balloon Crossing</a></li>
     <li><a href="https://www.ebsco.com/research-starters/history/first-cross-channel-flight">EBSCO – First Cross-Channel Flight</a></li>
     <li><a href="https://www.infobae.com/america/mundo/2025/01/08/los-secretos-de-la-primera-hazana-aerea-entre-inglaterra-y-francia/">Infobae – La primera hazaña aérea entre Inglaterra y Francia</a></li>
-    <li><a href="https://www.britannica.com/biography/Jean-Pierre-Blanchard">Encyclopaedia Britannica – Jean-Pierre Blanchard</a></li>
+    <li><a href="https://www.britannica.com/biography/Jean-Pierre-Francois-Blanchard#ref104835">Encyclopaedia Britannica – Jean-Pierre Blanchard</a></li>
   </ul>
 </div>
+
+<hr>
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
-  <ul>
-    <li>Algunas fuentes citan la duración del vuelo como "2 horas y 30 minutos"; otras como "2 horas y 35 minutos" o "aproximadamente 3 horas". La cifra de 2 horas y 30 minutos es la más aceptada por los historiadores.</li>
-    <li>La distancia exacta recorrida fue de aproximadamente 37 km (20 millas náuticas), aunque el globo pudo haber recorrido una distancia mayor debido a maniobras y desviaciones.</li>
-    <li>La anécdota del pañuelo olvidado por Blanchard aparece en múltiples relatos, aunque algunos historiadores la consideran una exageración posterior.</li>
-    <li>Blanchard y Jeffries no llevaban instrumentos de medición de altitud precisos; la altitud máxima de 1.500 metros (5.000 pies) es una estimación basada en sus descripciones.</li>
-  </ul>
+  <p><strong>1. Duración del vuelo:</strong> Algunas fuentes citan la duración del vuelo como "2 horas y 30 minutos"; otras como "2 horas y 35 minutos" o "aproximadamente 3 horas". La cifra de 2 horas y 30 minutos es la más aceptada por los historiadores.</p>
+  <p><strong>2. Distancia recorrida:</strong> La distancia exacta recorrida fue de aproximadamente 37 km (20 millas náuticas), aunque el globo pudo haber recorrido una distancia mayor debido a maniobras y desviaciones.</p>
+  <p><strong>3. La anécdota del pañuelo:</strong> La anécdota del pañuelo olvidado por Blanchard aparece en múltiples relatos, aunque algunos historiadores la consideran una exageración posterior.</p>
+  <p><strong>4. Altitud máxima:</strong> Blanchard y Jeffries no llevaban instrumentos de medición de altitud precisos; la altitud máxima de 1.500 metros (5.000 pies) es una estimación basada en sus descripciones.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-06 11:30:00 UTC
+- **Timestamp de verificación:** 2026-05-29 20:30:00 UTC
 - **Fuentes primarias consultadas:** Smithsonian Air & Space, Wikipedia (EN/ES), History Hit, EBSCO, Infobae, Encyclopaedia Britannica
 - **Discrepancias resueltas:**
   - Fecha: confirmada como 7 de enero de 1785 en todas las fuentes.
@@ -146,4 +146,4 @@ Jean Pierre Blanchard es recordado como uno de los pioneros de la aviación, y s
   - Duración del vuelo: varía entre 2 horas y 2 horas y 35 minutos; se utiliza el rango "aproximadamente 2 horas y 30 minutos".
   - El papel de Jeffries como copiloto y financiador está bien documentado; no fue un simple pasajero.
 - **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."
+- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
