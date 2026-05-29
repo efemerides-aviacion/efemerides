@@ -1,13 +1,25 @@
 # Jekyll
 _site/
 .jekyll-cache/
+.sass-cache/
+.jekyll-metadata
 
-# Mapas y compilados
+# Archivos temporales
+*.log
+*.tmp
+
+# Mapas de compilación
 *.map
-assets/img/1892-01-26-bessie_coleman_avion_curtiss_jn‑4d.jpeg
-assets/img/1879-01-12-calbraith_perry_rodgers.jpg
-assets/img/1879-01-12-calbraith_rodgers_en_vin_fiz.jpeg
-assets/img/1879-01-12-calbraith_rodgers_en_vin_fiz.jpeg
 
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpeta de borradores o base
 base-posts/
+
+# Opcional: ignorar todas las imágenes si no quieres subirlas
+# assets/img/*.jpg
+# assets/img/*.jpeg
+# assets/img/*.png
 
