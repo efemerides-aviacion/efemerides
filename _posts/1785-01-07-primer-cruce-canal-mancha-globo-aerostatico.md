@@ -42,7 +42,7 @@ image: 1785-01-07-primer-cruce-canal-mancha-globo-aerostatico.webp
 
 ## Contexto Histórico
 
-La aviación en el siglo XVIII estaba en sus albores. El primer vuelo tripulado en globo de aire caliente (Montgolfière) ocurrió el 21 de noviembre de 1783, y el primer vuelo tripulado en globo de hidrógeno (Charlière) ocurrió apenas un mes después, el 1 de diciembre de 1783. El cruce del Canal de la Mancha representaba el siguiente gran desafío.
+La aviación en el siglo XVIII estaba en sus albores. El primer vuelo tripulado en globo de aire caliente (Montgolfière) ocurrió el 21 de noviembre de 1783, y el primer vuelo tripulado en globo de hidrógeno (Charlière) ocurrió apenas un mes después, el 1 de diciembre de 1783. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #1565c0; text-decoration: none;">efeméride del primer vuelo tripulado en globo de aire caliente</a> y la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #1565c0; text-decoration: none;">efeméride del primer vuelo tripulado en globo de hidrógeno</a> para más detalles. El cruce del Canal de la Mancha representaba el siguiente gran desafío.
 
 ### Entorno social
 
