@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 12 de abril de 1937 | Primer motor a reacción exitoso en banco de pruebas"
+title: "12 de abril de 1937 | Primer motor a reacción exitoso en banco de pruebas"
 date: 1937-04-12
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: Power Jets Ltd.
@@ -14,15 +14,16 @@ image: 1937-04-12-whittle-unit-primer-motor-jet.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1937-04-12-whittle-unit-primer-motor-jet.webp" alt="Whittle Unit (WU), primer turbojet de la historia">
   <figcaption class="post-caption">Whittle Unit (WU), el primer motor turborreactor del mundo, diseñado por Frank Whittle. Esta fotografía muestra el motor montado en un soporte de transporte o exhibición, no en el banco de pruebas original de Rugby. Fuente: <a href="https://www.gracesguide.co.uk/Power_Jets">Grace's Guide</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-<!-- ## Resumen Ejecutivo -->
-<div class="highlight-box">
+## Resumen Ejecutivo
+
 <p>El 12 de abril de 1937, en una fábrica de British Thomson-Houston (BTH) en Rugby, Inglaterra, el oficial de la Royal Air Force Frank Whittle puso en marcha por primera vez su Whittle Unit (WU), el primer motor turborreactor del mundo. A pesar de un inicio violento que hizo salir corriendo a los asistentes, el motor demostró su funcionalidad. Este hito, considerado el nacimiento de la era del jet, allanó el camino para el desarrollo de la aviación a reacción, aunque su importancia no fue reconocida plenamente hasta el inicio de la Segunda Guerra Mundial.</p>
-</div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
+
 - **Fecha:** 12 de abril de 1937
 - **Lugar:** Fábrica de British Thomson-Houston (BTH), Rugby, Warwickshire, Inglaterra
 - **Motor:** Power Jets WU (Whittle Unit) – Primer Modelo Experimental
@@ -32,7 +33,7 @@ image: 1937-04-12-whittle-unit-primer-motor-jet.webp
 - **Resultado:** Funcionamiento exitoso, aunque con episodios de aceleración fuera de control
 - **Significado:** Primer turbojet práctico en funcionamiento del mundo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -43,15 +44,22 @@ En 1930, Whittle patentó su diseño de motor turborreactor. Sin embargo, el Min
 El punto de inflexión llegó en 1935 cuando dos excompañeros de la RAF, Rolf Dudley-Williams y James Collingwood Tinling, se asociaron con Whittle para rescatar la invención. Con un préstamo bancario de £2.000, constituyeron Power Jets Ltd. en marzo de 1936 y llegaron a un acuerdo con British Thomson-Houston (BTH) en Rugby para utilizar sus instalaciones y experiencia en turbinas de vapor.
 
 ### Entorno social
+
 La sociedad británica de los años 30, aún recuperándose de la Gran Depresión, se preparaba para una nueva guerra. La industria aeronáutica estaba centrada en maximizar la producción de los motores de pistón ya probados, como el Rolls-Royce Merlin. Las innovaciones radicales eran vistas con escepticismo, especialmente cuando provenían de un oficial de bajo rango sin el respaldo del establishment científico.
 
 ### Entorno tecnológico
+
 El WU presentaba una configuración audaz para su época: un compresor centrífugo de doble cara (de 19 pulgadas de diámetro) que suministraba aire a una única cámara de combustión de flujo directo, para luego expandirse en una turbina axial de una sola etapa. El diseño del compresor buscaba una relación de presión de 4:1, muy superior a los 2,5:1 logrados hasta entonces. El motor, construido en colaboración con BTH, pesaba menos de 454 kg y estaba diseñado para producir unos 625 kg de empuje.
 
 ### Entorno cultural
+
 Whittle trabajó contrarreloj y bajo una presión inmensa. La RAF le permitió continuar sus estudios en la Universidad de Cambridge, donde obtuvo una maestría en 1937. A pesar de las dificultades, Whittle mantuvo una fe inquebrantable en su proyecto, financiándolo en parte con sus propios ahorros y soportando el ridículo público de algunos sectores de la industria aeronáutica.
 
-### Desarrollo Cronológico
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Desarrollo Cronológico
+
+El desarrollo del motor a reacción por parte de Frank Whittle fue un proceso largo y lleno de obstáculos, que se extendió desde sus estudios teóricos en 1928 hasta la prueba exitosa de 1937. A continuación se presentan los hitos más importantes de este camino.
 
 - **1928:** Whittle escribe su tesis en la RAF Cranwell, sentando las bases teóricas del motor a reacción.
 - **16 de enero de 1930:** Whittle presenta la patente Nº 347.206 para su motor turborreactor.
@@ -65,20 +73,32 @@ Whittle trabajó contrarreloj y bajo una presión inmensa. La RAF le permitió c
 - **1941:** El motor Whittle W.1X impulsa el primer vuelo del Gloster E.28/39, el primer avión a reacción británico.
 - **1944:** Entra en servicio el Gloster Meteor, primer caza a reacción aliado de la historia.
 
-### Consecuencias e Impacto
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Consecuencias e Impacto
+
+La prueba exitosa del Whittle Unit tuvo consecuencias de gran alcance para la aviación y la industria en general.
 
 - **Nacimiento de la aviación a reacción:** La prueba del WU demostró que el concepto era viable, abriendo la puerta a una nueva era de velocidad y altitud en la aviación.
 - **Revolución industrial:** El motor de reacción transformó no solo la aviación militar y comercial, sino también la industria energética (turbinas de gas para generación eléctrica).
 - **Cambio en la estrategia militar:** Durante la Segunda Guerra Mundial, el desarrollo del motor a reacción fue considerado un secreto de máxima prioridad por los aliados. El Gloster Meteor fue desplegado para interceptar los cohetes V-1 alemanes.
 - **Legado industrial:** Power Jets fue nacionalizada en 1944, y sus patentes y conocimientos se integraron en instituciones como el National Gas Turbine Establishment. Rolls-Royce, que inicialmente se mostró escéptica, se convirtió en una de las líderes mundiales en motores de turbina gracias a la tecnología de Whittle.
 
-### Legado
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-El Whittle Unit no fue un motor perfecto, pero fue el primero. Su éxito en Rugby el 12 de abril de 1937 es comparable al primer vuelo de los hermanos Wright. Frank Whittle, a menudo ignorado por su propio país durante años, fue finalmente reconocido como uno de los grandes inventores del siglo XX. En 1948, el gobierno británico le otorgó un pago de £100.000 como gratificación (ex gratia), sin admitir responsabilidad legal, en reconocimiento a su contribución a la aviación y fue nombrado Comandante de la Orden del Imperio Británico (CBE). En 1976, ya retirado en Estados Unidos, fue incluido en el International Air & Space Hall of Fame. El motor WU original se conserva en el Science Museum de Londres.
+## Legado
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+El Whittle Unit no fue un motor perfecto, pero fue el primero. Su éxito en Rugby el 12 de abril de 1937 es comparable al primer vuelo de los hermanos Wright. Frank Whittle, a menudo ignorado por su propio país durante años, fue finalmente reconocido como uno de los grandes inventores del siglo XX.
+
+- **Reconocimiento oficial:** En 1948, el gobierno británico le otorgó un pago de £100.000 como gratificación (ex gratia), sin admitir responsabilidad legal, en reconocimiento a su contribución a la aviación y fue nombrado Comandante de la Orden del Imperio Británico (CBE).
+- **Inclusiones en museos:** El motor WU original se conserva en el Science Museum de Londres.
+- **Honores internacionales:** En 1976, ya retirado en Estados Unidos, fue incluido en el International Air & Space Hall of Fame.
+- **Relación con otros pioneros:** Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1907/06/01/nacimiento-frank-whittle.html" style="color: #1565c0; text-decoration: none;">efeméride de nacimiento de Frank Whittle</a> y la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-nacimiento/1911/12/14/hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #1565c0; text-decoration: none;">efeméride de nacimiento de Hans von Ohain</a> para más detalles sobre los pioneros del motor a reacción.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
+
 <div class="references">
   <ul>
     <li><a href="https://www.gracesguide.co.uk/Power_Jets">Grace's Guide – Power Jets</a></li>
@@ -87,11 +107,22 @@ El Whittle Unit no fue un motor perfecto, pero fue el primero. Su éxito en Rugb
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr>
+
+<div class="note-box">
+  <p><strong>Notas aclaratorias:</strong></p>
+  <p><strong>1. Discrepancia en la fecha exacta:</strong> Algunas fuentes mencionan el 13 de abril como fecha de la prueba, pero la mayoría de las fuentes autorizadas confirman el 12 de abril de 1937. Se ha adoptado esta última.</p>
+  <p><strong>2. Frank Whittle vs. Hans von Ohain:</strong> Independientemente, Hans von Ohain trabajaba en Alemania en un diseño similar. Su motor, el Heinkel HeS 3, impulsó el Heinkel He 178, que realizó su primer vuelo el 27 de agosto de 1939, antes que el Gloster E.28/39 británico. Hoy, ambos son reconocidos como coinventores del motor a reacción.</p>
+  <p><strong>3. El Whittle Unit original:</strong> El motor WU original se conserva en el Science Museum de Londres. Esta efeméride se centra en la prueba exitosa del motor en banco, no en el primer vuelo de un avión a reacción.</p>
+  <p><strong>4. Fotografía del motor:</strong> La imagen que acompaña este artículo muestra el Whittle Unit en un soporte de transporte o exhibición, no en el banco de pruebas original de Rugby. Es una de las pocas fotografías existentes de este motor histórico.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-09 10:30:00 UTC
+
+- **Timestamp de verificación:** 2026-05-30 12:00:00 UTC
 - **Fuentes primarias consultadas:** Grace's Guide, Wikipedia (ES/EN)
 - **Discrepancias resueltas:** Algunas fuentes mencionan el 13 de abril como fecha de la prueba, pero la mayoría de las fuentes autorizadas confirman el 12 de abril de 1937. Se ha adoptado esta última.
 - **Nivel de confianza:** Alto
-- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”
+- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."
