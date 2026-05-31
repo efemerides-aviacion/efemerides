@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "3 de junio de 1925 | Vuelo inaugural del Pilgrim, el primer dirigible de Goodyear"
 date: 1925-06-03
@@ -8,6 +8,7 @@ pais: Estados Unidos
 operator: Goodyear Tire & Rubber Company
 excerpt: "El 3 de junio de 1925, el Pilgrim, el primer dirigible construido por Goodyear, realizó su vuelo inaugural en Akron, Ohio. Diseñado originalmente para operar con helio, fue el precursor de la icónica flota de blimps publicitarios de Goodyear y estableció una tradición que perdura hasta hoy."
 image: 1925-06-03-vuelo-inaugural-dirigible-pilgrim.webp
+
 ---
 
 <figure>
