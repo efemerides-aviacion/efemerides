@@ -57,30 +57,26 @@ El récord de Kononenko fue cubierto por medios de comunicación de todo el mund
 
 ## Desarrollo Cronológico de la Carrera de Kononenko
 
-| Fecha / Período | Evento | Duración |
-|-----------------|--------|----------|
-| 21 de junio de 1964 | Nace Oleg Kononenko en Chardzhou, Turkmenistán | — |
-| 1996 | Seleccionado como cosmonauta del Centro Gagarin | — |
-| 8 de abril - 24 de octubre de 2008 | Primera misión (Soyuz TMA-12 / Expedición 17) | 199 días |
-| 21 de diciembre de 2011 - 1 de julio de 2012 | Segunda misión (Soyuz TMA-03M / Expediciones 30/31) | 165 días |
-| 23 de julio - 11 de diciembre de 2015 | Tercera misión (Soyuz TMA-17M / Expediciones 44/45) | 142 días |
-| 3 de diciembre de 2018 - 25 de junio de 2019 | Cuarta misión (Soyuz MS-11 / Expediciones 58/59) | 204 días |
-| 4 de febrero de 2024 | Supera el récord de Gennady Padalka (878 días) | — |
-| 15 de septiembre de 2023 - 23 de septiembre de 2024 | Quinta misión (Soyuz MS-24 / Expediciones 69/70/71) | ~375 días |
-| 5 de junio de 2024 | Alcanza los 1.000 días acumulados en el espacio | — |
-| 23 de septiembre de 2024 | Regresa a la Tierra con 1.111 días acumulados | — |
+- **21 de junio de 1964:** Nace Oleg Kononenko en Chardzhou, Turkmenistán (entonces República Socialista Soviética de Turkmenistán).
+- **1996:** Es seleccionado como cosmonauta del Centro de Entrenamiento de Cosmonautas Yuri Gagarin.
+- **8 de abril - 24 de octubre de 2008:** Primera misión (Soyuz TMA-12 / Expedición 17). Duración: 199 días.
+- **21 de diciembre de 2011 - 1 de julio de 2012:** Segunda misión (Soyuz TMA-03M / Expediciones 30/31). Duración: 165 días.
+- **23 de julio - 11 de diciembre de 2015:** Tercera misión (Soyuz TMA-17M / Expediciones 44/45). Duración: 142 días.
+- **3 de diciembre de 2018 - 25 de junio de 2019:** Cuarta misión (Soyuz MS-11 / Expediciones 58/59). Duración: 204 días.
+- **4 de febrero de 2024:** Supera el récord de Gennady Padalka (878 días acumulados).
+- **15 de septiembre de 2023 - 23 de septiembre de 2024:** Quinta misión (Soyuz MS-24 / Expediciones 69/70/71).
+- **5 de junio de 2024:** Alcanza los 1.000 días acumulados en el espacio.
+- **23 de septiembre de 2024:** Regresó a la Tierra tras completar su quinta misión. Su total acumulado final alcanzó los **1.111 días**, el récord más alto en la historia de los vuelos espaciales tripulados.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Las Misiones de Oleg Kononenko
 
-| Misión | Año | Duración | Función |
-|--------|-----|----------|---------|
-| Soyuz TMA-12 (Expedición 17) | 2008 | 199 días | Ingeniero de vuelo |
-| Soyuz TMA-03M (Expediciones 30/31) | 2011-2012 | 165 días | Ingeniero de vuelo |
-| Soyuz TMA-17M (Expediciones 44/45) | 2015 | 142 días | Comandante |
-| Soyuz MS-11 (Expediciones 58/59) | 2018-2019 | 204 días | Comandante |
-| Soyuz MS-24 (Expediciones 69/70/71) | 2023-2024 | ~375 días | Comandante |
+- **Soyuz TMA-12 (Expedición 17) – 2008:** Duración 199 días. Función: Ingeniero de vuelo.
+- **Soyuz TMA-03M (Expediciones 30/31) – 2011-2012:** Duración 165 días. Función: Ingeniero de vuelo.
+- **Soyuz TMA-17M (Expediciones 44/45) – 2015:** Duración 142 días. Función: Comandante.
+- **Soyuz MS-11 (Expediciones 58/59) – 2018-2019:** Duración 204 días. Función: Comandante.
+- **Soyuz MS-24 (Expediciones 69/70/71) – 2023-2024:** Duración ~375 días. Función: Comandante.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
@@ -88,13 +84,11 @@ El récord de Kononenko fue cubierto por medios de comunicación de todo el mund
 
 El cuerpo humano no está diseñado para vivir en microgravedad. Las misiones de Kononenko han contribuido significativamente a la investigación sobre los efectos de la exposición prolongada al espacio.
 
-| Efecto | Descripción | Mitigación |
-|--------|-------------|------------|
-| **Pérdida de masa ósea** | Pérdida de hasta 1% de masa ósea por mes | Ejercicio intensivo diario (2 horas) |
-| **Atrofia muscular** | Debilitamiento muscular sin carga gravitacional | Ejercicio aeróbico y de resistencia |
-| **Problemas de visión** | Desplazamiento de fluidos hacia la cabeza (30% de astronautas) | Traje de vacío que redistribuye fluidos |
-| **Radiación cósmica** | Exposición equivalente a varias radiografías al día | Blindaje de la nave, monitoreo constante |
-| **Aislamiento psicológico** | Estrés, ansiedad y conflictos en espacios reducidos | Comunicación regular con tierra, actividades recreativas |
+- **Pérdida de masa ósea:** Los astronautas pierden hasta un 1% de masa ósea por mes en microgravedad, requiriendo ejercicio intensivo diario para mitigarlo.
+- **Atrofia muscular:** Los músculos se debilitan sin la carga gravitacional. Los cosmonautas realizan dos horas diarias de ejercicio.
+- **Problemas de visión:** Aproximadamente el 30% de los astronautas experimentan cambios en la visión por el desplazamiento de fluidos hacia la cabeza.
+- **Radiación cósmica:** La exposición a radiación en órbita es equivalente a varias radiografías de tórax al día, aumentando el riesgo de cáncer.
+- **Aislamiento psicológico:** La convivencia prolongada en un espacio reducido puede causar estrés, ansiedad y conflictos interpersonales.
 
 Kononenko ha participado activamente en experimentos para mitigar estos efectos, incluyendo el uso de un traje de vacío que redistribuye los fluidos corporales y la realización de ejercicio aeróbico y de resistencia.
 
@@ -113,13 +107,9 @@ Kononenko ha participado activamente en experimentos para mitigar estos efectos,
 
 Oleg Kononenko es ya una leyenda viva de la exploración espacial. Su nombre se une al de otros pioneros como Yuri Gagarin, Alexei Leonov, Valentina Tereshkova y Gennady Padalka. El récord de 1.000 días no es solo un número; es un testimonio de la resistencia humana, la innovación tecnológica y la cooperación internacional.
 
-| Récord | Valor | Titular |
-|--------|-------|---------|
-| Tiempo acumulado en el espacio | 1.111 días | Oleg Kononenko |
-| Tiempo continuo en el espacio | 437 días | Valeri Polyakov (Mir, 1994-1995) |
-| Caminatas espaciales | 7 (44h 30m) | Oleg Kononenko |
-| Misiones al espacio | 5 | Oleg Kononenko |
-
+- **Tiempo acumulado en el espacio:** 1.111 días (récord mundial)
+- **Tiempo continuo en el espacio (récord histórico):** 437 días (Valeri Polyakov, Mir, 1994-1995)
+- **Caminatas espaciales:** 7 (44 horas y 30 minutos)
 - **Premios y condecoraciones:** Héroe de la Federación Rusa (2009), Orden al Mérito de la Patria, Medalla de la NASA por Servicio Público Distinguido.
 - **Relevancia para futuras misiones:** Los datos médicos recopilados durante sus misiones serán cruciales para planificar el viaje tripulado a Marte, cuyo tiempo de tránsito es de aproximadamente 6-9 meses, comparable a sus estancias de 1 año.
 
@@ -151,7 +141,7 @@ Oleg Kononenko es ya una leyenda viva de la exploración espacial. Su nombre se 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-02 18:30:00 UTC
+- **Timestamp de verificación:** 2026-06-02 19:00:00 UTC
 - **Fuentes primarias consultadas:** El País, The Hill (AP), Heraldo, Phys.org (AP), GW2RU
 - **Discrepancias resueltas:** Confirmación de la fecha exacta del récord (5 de junio de 2024). Verificación del total acumulado de caminatas espaciales (7, 44h 30m). Aclaración de la diferencia entre récord de tiempo acumulado y récord de tiempo continuo. Actualización de datos post-regreso (total final 1.111 días).
 - **Nivel de confianza:** Alto
