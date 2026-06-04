@@ -175,7 +175,6 @@ El Boeing 314 Clipper es recordado como un icono de la "Edad de Oro de la Aviaci
 - **Ningún superviviente:** A diferencia de otros aviones históricos, **no existe ningún Clipper en ningún museo**. Todos los 12 ejemplares fueron destruidos o desechados.
 - **Legado en la cultura popular:** El Clipper aparece en documentales, libros y revistas de aviación; su nombre sigue siendo sinónimo de elegancia y aventura transoceánica.
 - **Influencia en Boeing:** La experiencia de Boeing con el 314 (problemas de estabilidad, producción de fuselajes grandes) influyó en el diseño de sus bombarderos pesados (B-17, B-29) durante la guerra.
-- **Relación con otras efemérides:** Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1934/12/30/primer-vuelo-martin-m130.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Martin M-130</a> para más detalles sobre el predecesor del Clipper en la flota de hidroaviones de Pan Am.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
