@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "10 de junio de 1933 | El vuelo del Cuatro Vientos: la mayor hazaña perdida de la aviación española"
-date: 1933-06-10
+title: "11 de junio de 1933 | El vuelo del Cuatro Vientos: la mayor hazaña perdida de la aviación española"
+date: 1933-06-11
 categories: [evento]
 author: Enrique Pomares
 pais: España
 operator: Aeronáutica Militar Española
 excerpt: "El 10 de junio de 1933, los capitanes Mariano Barberán y Joaquín Collar despegaron de Sevilla a bordo del Cuatro Vientos, un Breguet XIX TR Super Bidón fabricado por CASA, completando el vuelo sin escalas más largo sobre el Atlántico hasta la fecha: 7.320 km en 39 horas y 55 minutos hasta Camagüey (Cuba). Diez días después, en la etapa hacia México, el avión desapareció con sus tripulantes sin dejar rastro, convirtiéndose en uno de los grandes misterios de la aviación."
-image: 1933-06-10-cuatro-vientos-brequet-xix.webp
+image: 1933-06-11-cuatro-vientos-brequet-xix.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1933-06-10-cuatro-vientos-brequet-xix.webp" alt="Breguet XIX TR Super Bidón Cuatro Vientos">
-  <figcaption class="post-caption">Multitud congregada en Camagüey, Cuba, recibiendo al avión Cuatro Vientos con los aviadores españoles Mariano Barberán y Joaquín Collar, tras su travesía transatlántica el 10 de junio de 1933; fuente: EcuRed / Gallica‑BNF.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1933-06-11-cuatro-vientos-brequet-xix.webp" alt="Breguet XIX TR Super Bidón Cuatro Vientos">
+  <figcaption class="post-caption">Multitud congregada en Camagüey, Cuba, recibiendo al avión Cuatro Vientos con los aviadores españoles Mariano Barberán y Joaquín Collar, tras su travesía transatlántica el 11 de junio de 1933; fuente: EcuRed / Gallica‑BNF.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -58,7 +58,7 @@ image: 1933-06-10-cuatro-vientos-brequet-xix.webp
 
 ## Contexto Histórico
 
-La década de 1930 fue la era dorada de los grandes raids aéreos. Los vuelos transatlánticos representaban la máxima expresión del progreso tecnológico y del valor humano. En 1926, el Plus Ultra (Ramón Franco, Ruiz de Alda, Durán y Rada) había cruzado el Atlántico Sur desde Palos de la Frontera hasta Buenos Aires con escalas. En 1927, Charles Lindbergh realizó el primer vuelo en solitario sin escalas Nueva York-París. El reto siguiente era la ruta del Atlántico Central, la más larga sobre el mar abierto, desde Europa directamente a las Antillas.
+La década de 1930 fue la era dorada de los grandes raids aéreos. Los vuelos transatlánticos representaban la máxima expresión del progreso tecnológico y del valor humano. En 1926, el Plus Ultra (Ramón Franco, Ruiz de Alda, Durán y Rada) había cruzado el Atlántico Sur desde Palos de la Frontera hasta Buenos Aires con escalas. Consulte la efeméride del <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1926/02/10/vuelo-historico-plus-ultra.html" style="color: #315fea; text-decoration: none;">Vuelo histórico del hidroavión Plus Ultra</a> para más detalles En 1927, Charles Lindbergh realizó el primer vuelo en solitario sin escalas Nueva York-París. Consulte la efeméride de <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Lindbergh cruza el Atlántico en solitario sin escalas</a> para más detalles.  El reto siguiente era la ruta del Atlántico Central, la más larga sobre el mar abierto, desde Europa directamente a las Antillas.
 
 En este contexto, el capitán Mariano Barberán, director de la Escuela de Observadores del aeródromo madrileño de Cuatro Vientos —que daría nombre al avión—, concibió en 1932 la idea de un vuelo sin escalas desde Sevilla a Cuba. Barberán era un prestigioso navegante y matemático, autor de una Memoria que presentó a la Dirección General de Aeronáutica defendiendo las razones técnicas, políticas y meteorológicas del proyecto. El Gobierno español aceptó financiarlo y CASA recibió el encargo de construir un aparato especial, modificando radicalmente un Breguet XIX para dotarlo de la autonomía necesaria.
 
@@ -188,7 +188,7 @@ Poco antes de fallecer, Modesto Madariaga (el mecánico que no subió al avión 
 <hr>
 
 <div class="note-box">
-<p><strong>Nota aclaratoria:</strong> Existe una discrepancia menor entre fuentes sobre la distancia exacta del raid Sevilla-Camagüey. Wikipedia y la mayoría de fuentes académicas citan 7.320 km, mientras que algunas fuentes periodísticas mencionan 7.895 km. Ambas cifras aparecen en la documentación de la época y podrían deberse a diferencias en el método de cálculo (distancia en línea recta vs. ruta real). Por otro lado, la cámara de neumático hallada en Tulpico fue inicialmente descartada como perteneciente al avión por algunas fuentes, pero el análisis de Pirelli confirmó su fabricación en Manresa el 2 de noviembre de 1932, aunque sin poder certificar que fuera suministrada al Cuatro Vientos. Se ha optado por mantener el hallazgo como vestigio probable, no confirmado. La fecha de nacimiento de Collar es 25 de noviembre de 1906 según fuentes oficiales. El cómputo de años transcurridos se actualiza a 93 en 2026 (1933-2026).</p>
+<p><strong>Nota aclaratoria:</strong> Existe una discrepancia menor entre fuentes sobre la distancia exacta del raid Sevilla-Camagüey. Wikipedia y la mayoría de fuentes académicas citan 7.320 km, mientras que algunas fuentes periodísticas mencionan 7.895 km. Ambas cifras aparecen en la documentación de la época y podrían deberse a diferencias en el método de cálculo (distancia en línea recta vs. ruta real). Por otro lado, la cámara de neumático hallada en Tulpico fue inicialmente descartada como perteneciente al avión por algunas fuentes, pero el análisis de Pirelli confirmó su fabricación en Manresa el 2 de noviembre de 1932, aunque sin poder certificar que fuera suministrada al Cuatro Vientos. Se ha optado por mantener el hallazgo como vestigio probable, no confirmado. La fecha de nacimiento de Collar es 25 de noviembre de 1906 según fuentes oficiales.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -197,6 +197,6 @@ Poco antes de fallecer, Modesto Madariaga (el mecánico que no subió al avión 
 
 - **Timestamp de verificación:** 2026-06-06 20:15:00 UTC
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), EcuRed, Fundación ENAIRE, Archivo Histórico del Ejército del Aire (Biblioteca Virtual de Defensa), Dialnet (artículo 1172980), El Heraldo de León
-- **Discrepancias resueltas:** Distancia del raid (7.320 km vs. 7.895 km): se opta por la cifra de Wikipedia (7.320 km) por ser la más citada en fuentes académicas; fecha del despegue desde La Habana (5:55 vs. 8:45): se adopta la hora del informe oficial mexicano (5:55). La cámara de neumático se considera vestigio probable, no confirmado. Se actualiza el cómputo de años a 93 en lugar de 92.
+- **Discrepancias resueltas:** Distancia del raid (7.320 km vs. 7.895 km): se opta por la cifra de Wikipedia (7.320 km) por ser la más citada en fuentes académicas; fecha del despegue desde La Habana (5:55 vs. 8:45): se adopta la hora del informe oficial mexicano (5:55). La cámara de neumático se considera vestigio probable, no confirmado. 
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
