@@ -108,7 +108,6 @@ El primer Boeing 777, WA001, se exhibe actualmente en el Pima Air and Space Muse
     <li><a href="https://www.flightglobal.com/united-airlines/2018/09/pictures-the-life-and-times-of-boeings-first-777/">FlightGlobal – The life and times of Boeing's first 777</a></li>
     <li><a href="https://boeing.mediaroom.com/2003-02-24-Boeing-777-300ER-Newest-777-Airplane-Completes-First-Flight">Boeing Newsroom – 777-300ER first flight (24 February 2003)</a></li>
     <li><a href="https://www.sun-sentinel.com/1994/06/14/777-flight-takes-boeing-into-the-future/">Sun Sentinel – 777 flight takes Boeing into the future (14 June 1994)</a></li>
-    <li><a href="https://trstest.kepu.cn/gb/beyond/aviation/plane/pla634.html">中国科普博览 – Boeing 777 specifications</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Boeing_777">Wikipedia – Boeing 777</a></li>
   </ul>
 </div>
