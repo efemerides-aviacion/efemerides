@@ -24,7 +24,6 @@ image: 1979-06-12-primera-aeronave-propulsion-humana-cruzo-canal-la-mancha.webp
 
 ## Datos verificados del evento
 
-
 - **Fecha y hora del vuelo:** 12 de junio de 1979, aproximadamente a las 5:50 a.m. (despegue)
 - **Piloto:** Bryan Allen (26 años, ciclista amateur de California)
 - **Diseñador y constructor:** Dr. Paul B. MacCready (ingeniero aeronáutico, campeón mundial de vuelo sin motor)
