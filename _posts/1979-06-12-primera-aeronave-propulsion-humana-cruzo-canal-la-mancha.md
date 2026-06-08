@@ -24,6 +24,7 @@ image: 1979-06-12-primera-aeronave-propulsion-humana-cruzo-canal-la-mancha.webp
 
 ## Datos verificados del evento
 
+
 - **Fecha y hora del vuelo:** 12 de junio de 1979, aproximadamente a las 5:50 a.m. (despegue)
 - **Piloto:** Bryan Allen (26 años, ciclista amateur de California)
 - **Diseñador y constructor:** Dr. Paul B. MacCready (ingeniero aeronáutico, campeón mundial de vuelo sin motor)
@@ -45,25 +46,32 @@ image: 1979-06-12-primera-aeronave-propulsion-humana-cruzo-canal-la-mancha.webp
 - **Premio:** Segundo Premio Kremer de £100.000 (equivalente a £639.000 en 2023)
 - **Reconocimiento adicional:** Collier Trophy para Paul MacCready
 
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
+
 A finales de la década de 1970, la aviación comercial vivía su edad dorada impulsada por los reactores, mientras que un puñado de entusiastas perseguía un sueño opuesto: volar solo con la fuerza del cuerpo humano. El vuelo a propulsión humana, considerado una quimera durante décadas, se convirtió en un desafío tecnológico y deportivo de primer orden gracias a los premios establecidos por el industrial británico Henry Kremer.
+
 
 ### Entorno social
 
+
 El contexto mundial de la crisis energética de 1973 había despertado un renovado interés por las tecnologías de ultra‑baja potencia y la eficiencia energética. En este ambiente, la idea de volar sin combustibles fósiles resonaba con fuerza. El éxito del Gossamer Condor en 1977 había demostrado que el vuelo humano era posible, pero el reto de cruzar el Canal de la Mancha —la misma travesía que Louis Blériot realizó en 1909— elevaba la dificultad a un nivel completamente nuevo.
+
 
 ### Entorno tecnológico
 
 Los materiales de construcción eran clave. La década de 1970 vio la llegada al mercado de la fibra de carbono, un material ultraligero y resistente que no existía cuando se concibió el Premio Kremer en 1959. MacCready y su equipo aprovecharon esta innovación, junto con el poliestireno expandido (similar al corcho blanco) y la película de Mylar de DuPont, un plástico transparente extremadamente fino y ligero. La configuración canard (con el estabilizador horizontal delantero, similar al Wright Flyer de 1903) proporcionaba estabilidad sin necesidad de sistemas de control pesados.
+
 
 ### Entorno cultural
 
 La figura del "as" de la aviación se había transformado. Ya no se trataba de pilotos de combate, sino de ingenieros y ciclistas que colaboraban en equipos multidisciplinarios. Paul MacCready, campeón mundial de vuelo sin motor, representaba un nuevo arquetipo: el científico‑inventor capaz de resolver problemas complejos con soluciones simples y eficientes. El Gossamer Albatross, con su aspecto frágil y transparente, capturó la imaginación del público y apareció en portadas de revistas de todo el mundo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 
 ## Desarrollo Cronológico
 
