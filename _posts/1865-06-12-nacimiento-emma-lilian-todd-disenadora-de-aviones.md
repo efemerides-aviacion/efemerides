@@ -15,7 +15,7 @@ image: 1865-06-12-nacimiento-emma-lilian-todd-disenadora-de-aviones.webp
   <figcaption class="post-caption">Retrato de la diseñadora estadounidense Emma Lilian Todd, pionera de la aviación y creadora del Todd Airplane, nacida el 12 de junio de 1865; fotografía de época circa finales del siglo XIX, fuente: Find a Grave / Gallica‑BNF.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -24,7 +24,7 @@ image: 1865-06-12-nacimiento-emma-lilian-todd-disenadora-de-aviones.webp
 <p>El 28 de noviembre de 1909, The New York Times la identificó como «la primera mujer en el mundo en diseñar aviones». Su biplano, construido por los hermanos Wittemann, fue probado el 7 de noviembre de 1910 por el piloto Didier Masson, realizando un salto motorizado de 6,1 metros. Todd quiso pilotarlo ella misma, pero se le negó el permiso por razones de género. También fundó el primer Junior Aero Club de Estados Unidos en 1908 para fomentar la educación aeronáutica entre los jóvenes. Falleció el 26 de septiembre de 1937 en Pasadena, California, a los 72 años, y su legado ha sido rescatado en el siglo XXI a través de libros infantiles como «Wood, Wire, Wings» (2020).</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -44,7 +44,7 @@ image: 1865-06-12-nacimiento-emma-lilian-todd-disenadora-de-aviones.webp
 - **Fundación:** Junior Aero Club de Estados Unidos (1908) 
 - **Estado civil:** No se casó, no tuvo hijos 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -67,6 +67,8 @@ La tecnología de la época era artesanal y experimental. Los aviones se constru
 El público seguía con fascinación los progresos de la aviación. Las exposiciones aeronáuticas, como la de 1906 en el Madison Square Garden, atraían a miles de visitantes. Fue en una de estas muestras donde Olivia Sage, viuda del magnate ferroviario Russell Sage, conoció el trabajo de Todd y decidió patrocinarla.
 
 A pesar de los obstáculos, surgieron figuras femeninas en la aviación: en 1908, la baronesa Raymonde de Laroche se convertiría más tarde en la primera mujer del mundo en obtener una licencia de piloto (1910). Sin embargo, en Estados Unidos, Todd no pudo obtener permiso para volar su propia creación.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -117,6 +119,8 @@ La siguiente cronología sigue la vida y los hitos de Emma Lilian Todd, desde su
 - **26 de septiembre de 1937:** Fallece en el Huntington Memorial Hospital de Pasadena, California, a los 72 años 
 - **1938 (8 de junio):** Sus cenizas son enviadas a Nueva York y enterradas a los pies de Anne Rhodes en el cementerio Moravian de New Dorp, Staten Island 
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Consecuencias e Impacto
 
 El legado de Emma Lilian Todd tuvo repercusiones inmediatas y duraderas en varios ámbitos de la aviación y la educación técnica.
@@ -134,6 +138,8 @@ El club enseñaba construcción de cometas, planeadores, hélices, modelos de av
 ### Barreras de género en la aviación
 
 La denegación del permiso de vuelo a Todd evidencia las barreras sistemáticas que enfrentaron las mujeres pioneras en la aviación. Su caso se suma al de otras contemporáneas: en Estados Unidos, Harriet Quimby no obtuvo su licencia hasta 1911 (Consulte la efeméride <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-nacimiento/1875/05/11/nacimiento-de-Harriet-quimby-licencia-piloto.html" style="color: #315fea; text-decoration: none;">Nacimiento de Harriet Quimby, primera mujer piloto de EE. UU.</a> para más detalles), y Blanche Stuart Scott voló por primera vez en 1910 pero nunca recibió licencia oficial.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -157,7 +163,7 @@ Organizaciones como la Institution of Engineering and Technology (IET) y la Acad
 
 Aunque su avión solo logró un salto de 6 metros, Todd demostró que las mujeres podían diseñar máquinas voladoras en una época en que ni siquiera se les permitía pilotarlas. Su legado no está en la distancia recorrida, sino en el camino abierto.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
@@ -178,7 +184,7 @@ Aunque su avión solo logró un salto de 6 metros, Todd demostró que las mujere
 <p><strong>Nota aclaratoria:</strong> Existe una pequeña discrepancia entre fuentes sobre el año exacto de inicio de sus diseños aeronáuticos: algunas fuentes citan 1903, otras 1906. El artículo de The New York Times de 1909 menciona «los últimos tres años» como período de estudio aeronáutico, lo que apunta a 1906 como el año en que comenzó a diseñar aeroplanos, aunque su interés por «juguetes mecánicos y aeronáuticos» data de 1903. El nombre aparece indistintamente como Emma Lilian Todd, E. Lilian Todd o Lily Todd. El lugar exacto de sepultura en el cementerio Moravian de Nueva York está documentado pero no señalizado.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
