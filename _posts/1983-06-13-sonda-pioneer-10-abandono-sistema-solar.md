@@ -2,7 +2,7 @@
 layout: post
 title: "13 de junio de 1983 | La Pioneer 10, primera nave en abandonar el Sistema Solar"
 date: 1983-06-13
-categories: [evento]
+categories: [espacial]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA
