@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA
 excerpt: "El 15 de junio de 1960, el satélite TIROS-1 dejó de transmitir tras 78 días en órbita, víctima de un fallo eléctrico. Había sido lanzado el 1 de abril de 1960 y se convirtió en el primer satélite meteorológico operativo de la historia, enviando miles de imágenes de la cubierta nubosa terrestre."
-image: 1960-06-15-tiros-1-primer-satelite-meteorológico-exitoso.webp
+image: 1960-06-15-tiros-1-primer-satelite-meteorologico-exitoso.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1960-06-15-tiros-1-primer-satelite-meteorológico-exitoso.webp" alt="Satélite TIROS-1 en el espacio">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1960-06-15-tiros-1-primer-satelite-meteorologico-exitoso.webp" alt="Satélite TIROS-1 en el espacio">
   <figcaption class="post-caption">Mapa meteorológico de superficie del Pacífico, mostrando una tormenta frontal derivada de los datos del satélite TIROS‑1 el 19 de mayo de 1960; fuente: Wikipedia.</figcaption>
 </figure>
 
