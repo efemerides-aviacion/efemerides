@@ -54,7 +54,7 @@ La figura de Earhart ya era conocida mundialmente desde 1928, cuando cruzó el A
 
 ## Desarrollo Cronológico del Vuelo
 
-- **1928:** Amelia Earhart se convierte en la primera mujer en cruzar el Atlántico, pero como pasajera a bordo del Fokker F.VII «Friendship». La fama la persigue, pero ella insiste en que no ha hecho nada por sí misma.
+- **18 de junio de 1928:** Amelia Mary Earhart se convirtió en la primera mujer en cruzar el Océano Atlántico por aire como pasajera. Acompañó al piloto Wilmer Lower Stultz y al mecánico Louis Edward Gordon a bordo del Fokker F.VIIb/3m, NX4204, Friendship. El avión despegó de Trepassey Harbor, en Terranova y Labrador, Canadá, y llegó a Burry Port, en la costa suroeste de Gales, 20 horas y 40 minutos después.
 - **1931:** Adquiere el Lockheed Vega 5B (matrícula NR7952) y comienza a planificar su propio vuelo transatlántico en solitario.
 - **20 de mayo de 1932, 19:30 hora local:** Earhart despega de Harbour Grace, Terranova. La pista es un campo de césped embarrado; el despegue es difícil debido al peso del combustible.
 - **Durante la noche:** Se enfrenta a tormentas eléctricas, niebla espesa y formación de hielo en las alas. El altímetro falla; debe volar por referencia visual y por estima. En un momento, el avión entra en barrena y pierde 900 metros de altitud antes de que Earhart logre recuperar el control.
