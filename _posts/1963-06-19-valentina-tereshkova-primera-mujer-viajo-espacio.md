@@ -2,7 +2,7 @@
 layout: post
 title: "19 de junio de 1963 | Valentina Tereshkova, la primera mujer en el espacio, regresa a la Tierra"
 date: 1963-06-19
-categories: [evento]
+categories: [espacial]
 author: Enrique Pomares
 pais: Unión Soviética
 operator: Programa Espacial Soviético
