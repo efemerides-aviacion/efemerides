@@ -159,6 +159,6 @@ A sus 89 años, se ha presentado a la reelección parlamentaria para un nuevo ma
 
 - **Timestamp de verificación:** 2026-06-15 11:00:00 UTC
 - **Fuentes primarias consultadas:** Wikipedia (ES), El Economista, Wikipedia (EN)
-- **Discrepancias resueltas:** Se ha confirmado la fecha de aterrizaje (19 de junio de 1963) como fecha de culminación de la misión.El lanzamiento fue el 16 de junio de 1963.
+- **Discrepancias resueltas:** Se ha confirmado la fecha de aterrizaje (19 de junio de 1963) como fecha de culminación de la misión. El lanzamiento fue el 16 de junio de 1963.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]". 
