@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "19 de junio de 1947 | Albert Boyd y el P-80R: el primer avión en superar las 1.000 km/h"
+title: "19 de junio de 1947 | Albert Boyd y el P-80R: el primer avión en superar los 1.000 km/h"
 date: 1947-06-19
 categories: [evento]
 author: Enrique Pomares
@@ -138,7 +138,8 @@ El P-80R, apodado «Racey» por sus modificaciones, permanece en exhibición en 
   <p><strong>Nota aclaratoria:</strong> El récord se estableció el 19 de junio de 1947. Aunque posteriormente fue superado en múltiples ocasiones, el logro de Boyd fue histórico por ser la primera vez que un avión superó los 1.000 km/h. Algunas fuentes citan la velocidad como 623,8 mph (1.004,2 km/h) o 623,73 mph (1.003,8 km/h). La cifra oficial de la FAI es 1.004,2 km/h. El P-80R se construyó a partir del XP-80B 44-85200, no de un P-80A estándar. El coronel Boyd también estableció el récord anterior de 616 mph (991 km/h) en 1946 con un P-80 estándar.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">  
+
 
 ## Metadatos de Control
 
