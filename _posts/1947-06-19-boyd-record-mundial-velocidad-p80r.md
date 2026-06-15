@@ -128,7 +128,7 @@ El P-80R, apodado «Racey» por sus modificaciones, permanece en exhibición en 
     <li><a href="https://simbolicodecaza.org/lockheed-f-80c-shooting-star/">Simbólico de Caza – Lockheed F-80C "Shooting Star"</a></li>
     <li><a href="https://1000aircraftphotos.com/Contributions/PippinBill/8156.html">1000 Aircraft Photos – Pippin Bill</a></li>
     <li><a href="https://www.thisdayinaviation.com/tag/44-85200/">This Day in Aviation – 44-85200</a></li>
-    <li><a href="https://www.airhistory.net/photo/862569/44-85200/485200">Air History – 44-85200</a></li
+    <li><a href="https://www.airhistory.net/photo/862569/44-85200/485200">Air History – 44-85200</a></li>
   </ul>
 </div>
 
