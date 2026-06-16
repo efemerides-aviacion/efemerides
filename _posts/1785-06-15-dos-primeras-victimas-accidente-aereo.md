@@ -115,7 +115,7 @@ Estas tres efemérides —el primer vuelo tripulado (21 de noviembre de 1783), e
 <hr>
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria: Rozier y Romain son considerados las primeras víctimas mortales de un accidente aéreo de la historia. Rozier había protagonizado el primer vuelo tripulado libre el 21 de noviembre de 1783 junto al marqués d'Arlandes, recorriendo 9 kilómetros sobre París en 25 minutos. La «rozière» —el globo híbrido diseñado por Rozier— sigue existiendo hoy en día, aunque con sistemas de seguridad radicalmente mejores. Pierre Romain, menos conocido, fue el acompañante de Rozier en este trágico vuelo.</p>
+  <p><strong>Nota aclaratoria:</strong> Rozier y Romain son considerados las primeras víctimas mortales de un accidente aéreo de la historia. Rozier había protagonizado el primer vuelo tripulado libre el 21 de noviembre de 1783 junto al marqués d'Arlandes, recorriendo 9 kilómetros sobre París en 25 minutos. La «rozière» —el globo híbrido diseñado por Rozier— sigue existiendo hoy en día, aunque con sistemas de seguridad radicalmente mejores. Pierre Romain, menos conocido, fue el acompañante de Rozier en este trágico vuelo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
