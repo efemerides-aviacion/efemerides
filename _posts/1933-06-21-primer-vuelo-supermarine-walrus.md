@@ -1,12 +1,12 @@
 ---
-layout: post .
+layout: post
 title: "21 de junio de 1933 | Primer vuelo del Supermarine Walrus, el anfibio que salvó a cientos de aviadores"
 date: 1933-06-21
 categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: Supermarine
-excerpt: "El 21 de junio de 1933, el prototipo del Supermarine Seagull V (futuro Walrus) realizó su primer vuelo, pilotado por Joseph Summers. Diseñado por R. J. Mitchell, fue el primer avión anfibio del mundo en ser lanzado por catapulta con carga militar completa."
+excerpt: "El 21 de junio de 1933, el prototipo del Supermarine Seagull V (futuro Walrus) realizó su primer vuelo pilotado por Joseph Summers. Diseñado por R. J. Mitchell, fue el primer avión anfibio del mundo en ser lanzado por catapulta con carga militar completa."
 image: 1933-06-21-primer-vuelo-supermarine-walrus.webp
 ---
 
