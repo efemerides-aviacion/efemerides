@@ -98,6 +98,8 @@ La creación de LATAM Airlines Group transformó el panorama de la aviación en 
 
 Hoy, LATAM Airlines Group opera con 153 destinos en 27 países y una flota de más de 340 aviones. Su programa de fidelización, LATAM Pass, cuenta con más de 53 millones de miembros. La fusión de LAN y TAM es considerada un caso de éxito en la consolidación de la industria aérea latinoamericana, demostrando que la integración de dos aerolíneas de diferentes países puede generar sinergias y fortalecer la conectividad regional.
 
+En 2025, LATAM Airlines fue galardonada por Skytrax como la "Mejor Aerolínea de Sudamérica" por sexto año consecutivo, un premio que evalúa la satisfacción de más de 22 millones de pasajeros de 100 nacionalidades. Ese mismo año, también fue reconocida como la "Aerolínea Líder de Sudamérica" por décima vez en los World Travel Awards, destacando sus nuevas cabinas Premium Business con suites privadas, la mejor sala VIP de la región y su conectividad Wi-Fi a bordo. Además, recibió la certificación de 4 estrellas Skytrax, consolidándose como la primera aerolínea latinoamericana en alcanzar esta calificación.
+
 El 22 de junio de 2012 marcó el inicio de una nueva era para la aviación en América Latina, cuando dos aerolíneas con más de 80 años de historia combinada se unieron para crear un gigante regional que sigue siendo, en 2026, el grupo aéreo más grande de la región.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
