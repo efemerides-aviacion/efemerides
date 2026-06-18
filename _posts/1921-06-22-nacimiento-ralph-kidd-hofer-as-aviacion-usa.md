@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "22 de junio de 1921 | Nacimiento de Ralph K. Hofer, el «Kid» de la 4th Fighter Group"
+title: "22 de junio de 1921 | Nacimiento de Ralph K. Hofer, el «Kid», as de aviación del 4th Fighter Group"
 date: 1921-06-22
 categories: [nacimiento]
 author: Enrique Pomares
