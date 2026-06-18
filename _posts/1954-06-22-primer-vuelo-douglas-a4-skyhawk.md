@@ -109,7 +109,7 @@ Heinemann también simplificó la aviónica: los primeros Skyhawk carecían de r
 
 El A-4 Skyhawk participó en algunos de los conflictos más importantes de la segunda mitad del siglo XX:
 
-- **Guerra de Vietnam (1964-1973):** El Skyhawk fue el avión de ataque naval con más misiones de combate en Vietnam. Realizó los primeros ataques del conflicto en el Golfo de Tonkín (agosto de 1964) y participó en innumerables misiones de apoyo cercano y ataque a objetivos estratégicos. Pilotos como el vicealmirante James Stockdale y el senador John McCain volaron Skyhawks y fueron derribados sobre Vietnam. [citation:9]
+- **Guerra de Vietnam (1964-1973):** El Skyhawk fue el avión de ataque naval con más misiones de combate en Vietnam. Realizó los primeros ataques del conflicto en el Golfo de Tonkín (agosto de 1964) y participó en innumerables misiones de apoyo cercano y ataque a objetivos estratégicos. Pilotos como el vicealmirante James Stockdale y el senador John McCain volaron Skyhawks y fueron derribados sobre Vietnam. 
 
 - **Guerra de Yom Kipur (1973):** La Fuerza Aérea Israelí utilizó sus A-4 Skyhawk (bautizados «Ayit» - «Águila») en intensos combates contra las fuerzas egipcias y sirias, sufriendo pérdidas significativas pero demostrando su eficacia en combate.
 
@@ -127,11 +127,11 @@ El Skyhawk también revolucionó la aviación embarcada. Su capacidad para opera
 
 ## Legado
 
-El Douglas A-4 Skyhawk es uno de los aviones de ataque más exitosos y longevos de la historia. Sirvió en la Armada de EE. UU. durante más de 40 años, desde 1956 hasta 2003, y aún hoy sigue volando en la Marina de Brasil como su último operador militar activo [citation:1][citation:5][citation:8]. En 2024, la Marina de Brasil recibió sus últimos AF-1B modernizados, y aunque la Fuerza Aérea Argentina retiró sus A-4AR en mayo de 2026, los Skyhawk brasileños continúan en servicio [citation:2][citation:6].
+El Douglas A-4 Skyhawk es uno de los aviones de ataque más exitosos y longevos de la historia. Sirvió en la Armada de EE. UU. durante más de 40 años, desde 1956 hasta 2003, y aún hoy sigue volando en la Marina de Brasil como su último operador militar activo. En 2024, la Marina de Brasil recibió sus últimos AF-1B modernizados, y aunque la Fuerza Aérea Argentina retiró sus A-4AR en mayo de 2026, los Skyhawk brasileños continúan en servicio.
 
 El Skyhawk fue el primer avión de ataque en establecer un récord mundial de velocidad (695 mph en 1955) y fue el único avión de ataque en lograr esa hazaña. Su capacidad para transportar una carga de bombas comparable a la de un B-17 —un bombardero de la Segunda Guerra Mundial— lo convirtió en una leyenda entre los pilotos.
 
-Apodado cariñosamente «Scooter», el Skyhawk es recordado por su fiabilidad, su agilidad y su capacidad para sobrevivir a condiciones extremas. Su diseño simple y robusto ha permitido que siga volando décadas después de que la mayoría de sus contemporáneos hayan sido retirados. Empresas privadas como Top Aces y Draken International continúan operando A-4 profundamente modernizados (con radar AESA y sistemas de guerra electrónica avanzada) para el entrenamiento de pilotos militares [citation:1][citation:8].
+Apodado cariñosamente «Scooter», el Skyhawk es recordado por su fiabilidad, su agilidad y su capacidad para sobrevivir a condiciones extremas. Su diseño simple y robusto ha permitido que siga volando décadas después de que la mayoría de sus contemporáneos hayan sido retirados. Empresas privadas como Top Aces y Draken International continúan operando A-4 profundamente modernizados (con radar AESA y sistemas de guerra electrónica avanzada) para el entrenamiento de pilotos militares.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
