@@ -12,7 +12,7 @@ image: 1924-06-23-primer-vuelo-transcontinental-costa-costa-usa.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1924-06-23-primer-vuelo-transcontinental-costa-costa-usa.webp" alt="Teniente Russell L. Maughan junto a su Curtiss PW-8 Hawk">
-  <figcaption class="post-caption">El teniente Russell L. Maughan posa junto a su Curtiss PW-8 Hawk, número de serie 24-204, antes de su histórico vuelo "de amanecer a anochecer" del 23 de junio de 1924. La aeronave fue modificada para aumentar su capacidad de combustible y realizar el vuelo transcontinental de 2.670 millas. Fuente: Smithsonian National Air and Space Museum / Colección Curtiss-Wright (NASM.XXXX.0067).</figcaption>
+  <figcaption class="post-caption">El teniente Russell L. Maughan posa junto a su Curtiss PW-8 Hawk, número de serie 24-204, el 10 de junio de 1924, días antes de su histórico vuelo "de amanecer a anochecer" del 23 de junio de 1924. Fuente: Smithsonian National Air and Space Museum / Colección Curtiss-Wright (NASM.XXXX.0067).</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
