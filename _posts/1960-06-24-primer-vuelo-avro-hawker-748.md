@@ -150,6 +150,8 @@ El 748 también fue importante para el desarrollo de la aviación en países en 
 
 El Hawker Siddeley HS 748 sigue en servicio activo en 2026, más de sesenta años después de su primer vuelo. Es utilizado por aerolíneas como Calm Air y Air North en Canadá, y por fuerzas aéreas de países como la India, Ecuador, Tailandia y Corea del Sur. Su longevidad es un testimonio de la solidez de su diseño original.
 
+Además de su éxito en el mercado civil, el HS 748 fue elegido como transporte presidencial o VIP en varios países. La Fuerza Aérea Argentina operó un ejemplar como avión presidencial entre 1966 y 1976 bajo el nombre de 'Soberanía'. Australia mantuvo dos unidades en el Escuadrón N° 34 para transporte VIP desde 1967 hasta el año 2000, mientras que la Armada Australiana también contó con dos aeronaves para este fin hasta el año 2000. En Venezuela, durante el gobierno de Raúl Leoni (1964-1969), se adquirió un Avro/Hawker Siddeley HS-748 Srs.2 (matrícula FAV 0111) como avión presidencial, reemplazando al histórico Douglas C-54 'La Vaca Sagrada'. Este avión fue utilizado hasta 1977, cuando fue reemplazado por un Boeing 737-2N1 adquirido durante el primer gobierno de Carlos Andrés Pérez. Corea del Sur recibió dos aviones en abril de 1974 para vuelos VIP, y Ecuador utilizó su HS 748, con la matrícula '001' y conocido como FAE648, como el principal avión presidencial hasta diciembre de 2008.
+
 El legado del 748 incluye también su desarrollo posterior: el BAe ATP, un avión más grande y moderno que, aunque no tuvo el mismo éxito comercial, continuó la línea de aviones regionales británicos.
 
 El 24 de junio de 1960, en un campo de aviación en Cheshire, un avión con una simple misión —reemplazar al DC-3— inició una historia que aún se escribe hoy.
