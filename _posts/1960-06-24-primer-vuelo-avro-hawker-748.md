@@ -60,7 +60,7 @@ image: 1960-06-24-primer-vuelo-avro-hawker-748.webp
 
 ## Contexto Histórico
 
-A finales de la década de 1950, la aviación comercial mundial enfrentaba un problema: el Douglas DC-3, el avión que había revolucionado el transporte aéreo en los años 30, estaba llegando al final de su vida útil. Miles de aviones necesitaban un reemplazo moderno, capaz de operar en las mismas rutas cortas y medianas, con pistas de aterrizaje a menudo sin pavimentar.
+A finales de la década de 1950, la aviación comercial mundial enfrentaba un problema: el <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1935/12/17/primer-vuelo-douglas-dc3.html" style="color: #315fea; text-decoration: none;">Douglas DC-3</a>, el avión que había revolucionado el transporte aéreo en los años 30, estaba llegando al final de su vida útil. Miles de aviones necesitaban un reemplazo moderno, capaz de operar en las mismas rutas cortas y medianas, con pistas de aterrizaje a menudo sin pavimentar.
 
 ### Entorno social
 
