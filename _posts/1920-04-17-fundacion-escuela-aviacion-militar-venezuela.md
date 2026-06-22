@@ -43,6 +43,7 @@ image: 1920-04-17-fundacion-escuela-aviacion-militar-venezuela.webp
 
 A finales de la segunda década del siglo XX, la aviación militar ya había demostrado su importancia estratégica durante la Primera Guerra Mundial (1914-1918). Venezuela, gobernada con mano firme por el general Juan Vicente Gómez desde Maracay, no era ajena a estos avances tecnológicos. Influenciado por su hijo Florencio Gómez Núñez, un entusiasta de la naciente arma aérea, Gómez decidió dotar al país de una escuela que formara pilotos militares.
 
+
 ### Entorno social
 
 En 1920, Venezuela tenía una población estimada de 2,3 millones de habitantes. El país vivía bajo un régimen dictatorial que, sin embargo, impulsaba la modernización de las fuerzas armadas y las comunicaciones. La creación de una escuela de aviación fue vista como un símbolo de progreso y poder.
@@ -59,6 +60,7 @@ La figura del piloto aviador despertaba fascinación. El gobierno de Gómez prom
 
 - **17 de abril de 1920:** Se dicta el decreto Nº 127 de creación de la Escuela de Aviación Militar.
 - **21 de junio de 1920:** El Congreso promulga la Ley de Aviación y el Ministerio de Guerra y Marina aprueba el Reglamento Orgánico de la Escuela.
+- **26 de junio de 1920:** Adquisición del Fundo San Jacobo en Maracay, donde se construirían los hangares y el campo de aviación. 
 - **10 de diciembre de 1920:** Se instala oficialmente la Escuela en Maracay, en un acto presidido por el coronel David López Henríquez. Se inauguran tres hangares diseñados por el ingeniero Luis Guillermo Salas Díaz.
 - **1921-1929:** Misión aeronáutica francesa aporta instructores, técnicos y material.
 - **1930-1933:** Misión aeronáutica alemana aporta hidroaviones Junkers Bremen.
@@ -74,9 +76,13 @@ La figura del piloto aviador despertaba fascinación. El gobierno de Gómez prom
 
 ## La Fundación: detalles relevantes
 
+El decreto Nº 127 del 17 de abril de 1920 fue el acto fundacional de la aviación venezolana, pero su puesta en marcha requirió una serie de pasos administrativos y logísticos que se desarrollaron en los meses siguientes. La adquisición del Fundo San Jacobo y la construcción de los hangares en la Base Aragua fueron parte de ese proceso de materialización, transformando el decreto en una realidad operativa que perdura hasta hoy.
+
 ### El decreto y sus impulsores
 
 El decreto Nº 127 fue firmado en Caracas por el presidente provisional Victoriano Márquez Bustillos, pero el verdadero impulsor fue el general Juan Vicente Gómez, quien desde su residencia en Las Delicias (Maracay) ejercía el poder absoluto. Gómez fue convencido por su hijo Florencio, quien había visto demostraciones aéreas en el extranjero.
+
+El decreto fundacional fue solo el primer paso. Para materializar la nueva escuela, el gobierno de Gómez adquirió el 26 de junio de 1920 el Fundo San Jacobo en Maracay, un extenso terreno donde se construirían los hangares y el campo de aviación. El 10 de diciembre de ese mismo año, se inauguraron los primeros hangares en la Base Aragua, marcando el inicio físico de la aviación militar venezolana. Este lugar, donde hoy se erige el Museo Aeronáutico de Maracay, es recordado como la cuna de la aviación en el país.
 
 ### Los primeros hangares y su arquitectura
 
