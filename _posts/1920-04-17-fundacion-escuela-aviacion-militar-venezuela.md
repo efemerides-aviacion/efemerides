@@ -82,7 +82,7 @@ El decreto Nº 127 del 17 de abril de 1920 fue el acto fundacional de la aviaci�
 
 El decreto Nº 127 fue firmado en Caracas por el presidente provisional Victoriano Márquez Bustillos, pero el verdadero impulsor fue el general Juan Vicente Gómez, quien desde su residencia en Las Delicias (Maracay) ejercía el poder absoluto. Gómez fue convencido por su hijo Florencio, quien había visto demostraciones aéreas en el extranjero.
 
-El decreto fundacional fue solo el primer paso. Para materializar la nueva escuela, el gobierno de Gómez adquirió el 26 de junio de 1920 el Fundo San Jacobo en Maracay, un extenso terreno donde se construirían los hangares y el campo de aviación. El 10 de diciembre de ese mismo año, se inauguraron los primeros hangares en la Base Aragua, marcando el inicio físico de la aviación militar venezolana. Este lugar, donde hoy se erige el Museo Aeronáutico de Maracay, es recordado como la cuna de la aviación en el país.
+El decreto fundacional fue solo el primer paso. Para materializar la nueva escuela, el gobierno de Gómez adquirió el Fundo San Jacobo en Maracay, donde se construirían los hangares y el campo de aviación. El 10 de diciembre de ese mismo año, se inauguraron los primeros hangares en la Base Aragua, marcando el inicio físico de la aviación militar venezolana. Este lugar, donde hoy se erige el Museo Aeronáutico de Maracay, es recordado como la cuna de la aviación en el país.
 
 ### Los primeros hangares y su arquitectura
 
