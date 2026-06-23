@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 28 de junio de 1910 | El accidente del dirigible Zeppelin LZ 7 'Deutschland'"
+title: "28 de junio de 1910 | El accidente del dirigible Zeppelin LZ 7 'Deutschland'"
 date: 1910-06-28
 categories: [accidente]
 author: Enrique Pomares
