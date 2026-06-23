@@ -16,13 +16,13 @@ image: 1910-06-28-accidente-dirigible-zeppelin-lz7.webp
   <figcaption class="post-caption">El dirigible Zeppelin LZ 7 “Deutschland” en vuelo, pocos días antes de su accidente el 28 de junio de 1910 en el Teutoburgo; fuente: The Encyclopædia Britannica (1910), Wikimedia Commons.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="highlight-box">
 <p>El 28 de junio de 1910, el dirigible rígido Zeppelin LZ 7 «Deutschland» sufrió una aparatosa colisión contra las copas de los árboles en el monte Limberg, dentro de la cadena montañosa del bosque de Teutoburgo, Alemania. La aeronave operaba un vuelo promocional y turístico de la recién fundada aerolínea comercial DELAG, transportando a una tripulación de ocho personas y diecinueve periodistas. A pesar de la gravedad del siniestro, que destruyó por completo la estructura de aluminio y lino del dirigible, todos los ocupantes sobrevivieron sin heridas graves, registrándose únicamente un tripulante con lesiones leves al evacuar el aparato.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 - **Hora de despegue:** 08:30 horas (hora local) desde Düsseldorf (campo de vuelo de Golzheimer Heide)
@@ -35,7 +35,7 @@ image: 1910-06-28-accidente-dirigible-zeppelin-lz7.webp
 - **Innovación estructural:** Primera aeronave en emplear membranas de intestino de buey (*Goldschlägerhaut*) para impermeabilizar y sellar las celdas de gas hidrógeno
 - **Causa directa de la pérdida:** Fuerte temporal combinado con un fallo mecánico en el motor trasero de babor, lo que privó a la aeronave de propulsión suficiente para vencer el viento de frente y la carga de agua de lluvia acumulada sobre su envoltura de lino
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -81,7 +81,7 @@ Hoy en día, el accidente del dirigible LZ 7 «Deutschland» es recordado como e
 - **Exposiciones históricas:** En 2010, con motivo del centenario del accidente, el Museo Histórico Local de Averbecks Speicher en Bad Iburg (barrio de Glane) organizó la muestra especial «Zeppelin und Luftschifffahrt» para recordar el impacto que este evento causó en la región y la conmoción de los soldados de Münster y Osnabrück que acudieron a rescatar los restos.
 - **Hito de la aviación comercial:** La historia destaca que el LZ 7, a pesar de su brevísima vida de nueve días, fue el pionero de los servicios aéreos de pasajeros, demostrando que incluso ante una falla extrema, la supervivencia era factible.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -99,7 +99,7 @@ Hoy en día, el accidente del dirigible LZ 7 «Deutschland» es recordado como e
   <p><strong>Nota aclaratoria:</strong>Existe una ligera discrepancia en el número total de pasajeros en algunas fuentes secundarias; no obstante, el registro oficial consolidado de la base de datos de la red de seguridad aérea (Aviation Safety Network) y de la propia DELAG confirma un total de treinta y dos personas a bordo (veinticuatro pasajeros, de los cuales diecinueve eran periodistas invitados, y ocho miembros de la tripulación).</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
 
