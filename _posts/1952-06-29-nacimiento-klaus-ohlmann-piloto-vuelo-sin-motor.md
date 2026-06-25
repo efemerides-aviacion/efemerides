@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "29 de junio de 1952 | Klaus Ohlmann, piloto exitoso de vuelo sin motor"
+title: "29 de junio de 1952 | Nacimiento de Klaus Ohlmann, piloto exitoso de vuelo sin motor"
 date: 1952-06-29
 categories: [nacimiento]
 author: Enrique Pomares
