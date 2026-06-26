@@ -5,7 +5,7 @@ date: 1923-06-27
 categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
-operator: U.S. Air Service
+operator: U.S. Army Air Service
 excerpt: "El 27 de junio de 1923, sobre Rockwell Field, San Diego, dos aviones De Havilland DH-4B lograron el primer reabastecimiento en vuelo exitoso, transfiriendo combustible y aceite mediante una manguera de 50 pies, en un hito que revolucionaría la aviación de largo alcance."
 image: 1923-06-27-primer-reabastecimiento-en-vuelo.webp
 ---
@@ -107,10 +107,10 @@ Lowell H. Smith fue ascendido a mayor y continuó su carrera en la aviación. Mu
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/27-june-1923/">This Day in Aviation – 27 June 1923</a></li>
-    <li><a href="https://www.sandiegoairandspace.org/exhibits/online-exhibit-page/rockwell-field">San Diego Air & Space Museum – Rockwell Field</a></li>
-    <li><a href="https://www.historynet.com/first-aerial-refueling/">HistoryNet – First Aerial Refueling</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Aerial_refueling">Wikipedia – Aerial refueling</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/dh-4b/">This Day in Aviation – Tag Archives: DH.4B</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Rockwell_Field">Wikipedia (EN) – History of Rockwell Field</a></li>
+    <li><a href="https://www.historynet.com/marathons-in-the-air/">HistoryNet – Marathons in the Air: History of Aerial Refueling</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Aerial_refueling">Wikipedia (EN) – History and development of Aerial Refueling</a></li>
   </ul>
 </div>
 
@@ -124,8 +124,8 @@ Lowell H. Smith fue ascendido a mayor y continuó su carrera en la aviación. Mu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-23 11:00:00 UTC
+- **Timestamp de verificación:** 2026-06-23 23:30:00 UTC
 - **Fuentes primarias consultadas:** This Day in Aviation, San Diego Air & Space Museum, HistoryNet, Wikipedia
-- **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del 27 de junio de 1923 para el primer reabastecimiento exitoso. Algunas fuentes mencionan que se transfirieron 75 galones de gasolina, mientras que otras citan 150 galones; la cifra de 75 galones para el primer intento es la más aceptada. La altitud del vuelo fue de aproximadamente 2.000 pies.
+- **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del 27 de junio de 1923 para el primer reabastecimiento exitoso. Algunas fuentes mencionan que se transfirieron 75 galones de gasolina, mientras que otras citan 150 galones; la cifra de 75 galones para el primer intento es la más aceptada de conformidad con las bitácoras del Air Service de la USAF. La altitud del vuelo fue de aproximadamente 2.000 pies.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
