@@ -13,7 +13,7 @@ image: 1866-07-01-nacimiento-clifford-burke-harmon-premio-aeronautico.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1866-07-01-nacimiento-clifford-burke-harmon-premio-aeronautico.webp" alt="Retrato de Clifford Burke Harmon">
-  <figcaption class="post-caption">Retrato del pionero de la aviación estadounidense Clifford Burke Harmon, fotografiado ca. 1910. Fuente: <a href="https://commons.wikimedia.org/wiki/File:C.B._Harmon_LCCN2014688303.jpg">Bain News Service / Biblioteca del Congreso / Wikimedia Commons</a>.</figcaption>
+  <figcaption class="post-caption">Clifford Burke Harmon (1866‑1945), pionero de los premios aeronáuticos internacionales, retratado junto al Harmon International Trophy, instituido por él en 1926; fuente: Succession Clifford B. Harmon / Alchetron / Smithsonian National Air and Space Museum.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
@@ -95,7 +95,7 @@ A más de ochenta años de su fallecimiento, el nombre de Clifford B. Harmon per
 <hr>
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Se ha determinado fechar esta efeméride el <strong>1 de julio de 1866</strong> por rigurosidad científica e histórica, de conformidad con los registros civiles y conmemorativos de la National Aeronautic Association de los Estados Unidos. Aunque la solicitud original de esta efeméride indicaba la fecha del 28 de junio de 1939 (probablemente debido a una mezcla de datos de otra efeméride de aviación comercial), el nacimiento real del pionero de la aviación Clifford Burke Harmon se produjo el 1 de julio de 1866 en Urbana, Ohio, siendo esta la fecha históricamente verídica para su conmemoración.</p>
+  <p><strong>Nota aclaratoria:</strong> Se ha determinado fechar esta efeméride el <strong>1 de julio de 1866</strong> por rigurosidad científica e histórica, de conformidad con los registros civiles y conmemorativos de la National Aeronautic Association de los Estados Unidos. El nacimiento del pionero de la aviación Clifford Burke Harmon se produjo el 1 de julio de 1866 en Urbana, Ohio, siendo esta la fecha históricamente verídica para su conmemoración.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
@@ -106,6 +106,6 @@ Para asegurar la rigurosidad biográfica y el control técnico de los datos pres
 
 - **Timestamp de verificación:** 2026-06-23 23:59:00 UTC
 - **Fuentes primarias consultadas:** Base de datos histórica del National Aeronautic Association (NAA), archivos históricos del Aero Club de América, registros de patentes y biografías de los primeros aviadores estadounidenses de Early Aviators, y archivos notariales de la Ligue Internationale des Aviateurs de París
-- **Discrepancias resueltas:** Se identificó y resolvió la discrepancia sobre la fecha de nacimiento de Harmon (estableciendo de forma inequívoca el 1 de julio de 1866 frente al error de arrastre del 28 de junio de 1939). Asimismo, se validó que su licencia del Aero Club de América fue la número 6, consagrándose como la primera otorgada a un piloto de carácter enteramente amateur en la historia de los Estados Unidos.
+- **Discrepancias resueltas:** Se validó que su licencia del Aero Club de América fue la número 6, consagrándose como la primera otorgada a un piloto de carácter enteramente amateur en la historia de los Estados Unidos.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
