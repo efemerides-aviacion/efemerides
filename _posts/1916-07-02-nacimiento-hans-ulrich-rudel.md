@@ -33,7 +33,7 @@ image: 1916-07-02-nacimiento-hans-ulrich-rudel.webp
 - **Victorias en combates aéreos:** 9 derribos confirmados de aviones enemigos (incluyendo cazas soviéticos y dos aviones de asalto Ilyushin Il-2)
 - **Modelos de aeronaves operadas:** Junkers Ju 87 (versiones de bombardeo en picado Ju 87 B y D, y la versión cazacarros Ju 87 G-1 y G-2 con cañones BK de 37 mm) y cazas Focke-Wulf Fw 190 en misiones de asalto
 - **Rendimiento de misiones y derribos sufridos:** Completó 2.530 misiones de combate real, siendo derribado por fuego antiaéreo o forzado a realizar aterrizajes de emergencia en 32 ocasiones distintas sin ser capturado
-- **Surrender ante fuerzas aliadas:** Rindió su unidad (Schlachtgeschwader 2) en el aeródromo de Kitzingen el 8 de mayo de 1945, inutilizando de manera fáctica su propio avión Junkers Ju 87 G-2 al aterrizar
+- **Rendición ante fuerzas aliadas:** Rindió su unidad (Schlachtgeschwader 2) en el aeródromo de Kitzingen el 8 de mayo de 1945, inutilizando de manera fáctica su propio avión Junkers Ju 87 G-2 al aterrizar
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
 
