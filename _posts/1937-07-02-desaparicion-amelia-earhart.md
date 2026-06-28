@@ -32,7 +32,7 @@ image: 1937-07-02-desaparicion-amelia-earhart.webp
 - **Costo de la búsqueda gubernamental:** El presidente Franklin D. Roosevelt ordenó un despliegue de barcos y aviones de la Armada que costó más de 4.000.000 de dólares de la época
 - **Récord de distancia cubierto en el viaje:** Recorrieron aproximadamente 33.000 kilómetros en un lapso de 30 días, habiendo completado con éxito más de dos tercios de la ruta ecuatorial
 - **Lugar de inicio de la segunda tentativa:** Aeródromo de Oakland, California, despegando oficialmente el 21 de mayo de 1937
-- **Hitos históricos previos de la piloto:** Primera mujer en cruzar el Atlántico en solitario (1932) y primera persona en realizar el trayecto Honolulu-California sin escalas (1935)
+- **Hitos históricos previos de la piloto:** Primera mujer en cruzar el Atlántico en solitario en 1932 (ver enlace a este hito en el apartado del Legado) y primera persona en realizar el trayecto Honolulu-California sin escalas el <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1935/01/11/amelia-earhart-primer-vuelo-en-solitario.html" style="color: #315fea; text-decoration: none;">11 de enero de 1935</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
