@@ -25,7 +25,7 @@ image: 1900-07-02-primer-vuelo-zeppelin-lz1.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
-## Datos de las plantillas and el evento
+## Datos verificados del evento
 - **Empresa y capital de desarrollo:** Fabricado por la *Gesellschaft zur Förderung de la Luftschifffahrt*, con un capital de 800.000 marcos de oro (*Deutschmarks*), de los cuales el conde Zeppelin aportó 300.000, el fabricante de aluminio Carl Berg otros 100.000, y el resto de la inversión fue provista por diversos industriales e inversores independientes
 - **Dimensiones físicas colosales:** Longitud total de 128,02 metros, diámetro de 11,73 metros y una envoltura cilíndrica de tela de algodón engomada
 - **Capacidad e innovación del gas sustentador:** Volumen de 11.298 metros cúbicos de hidrógeno distribuidos en diecisiete celdas de gas independientes
