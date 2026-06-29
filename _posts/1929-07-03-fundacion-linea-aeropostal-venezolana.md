@@ -32,7 +32,7 @@ image: 1929-07-03-fundacion-linea-aeropostal-venezolana.webp
 - **Fecha y ruta del primer vuelo comercial:** 15 de abril de 1930, operando de manera regular entre Maracay y Ciudad Bolívar con un avión Latécoère 28
 - **Costo del traspaso accionario (1933):** Adquirida por el Estado venezolano por la suma de 200.000 bolívares tras la quiebra de la matriz francesa
 - **Traslado de la sede central (1939):** Reubicación de las operaciones principales desde Maracay hacia el Aeródromo de Maiquetía (cerca de Caracas)
-- **Hito de la aviación transatlántica de la LAV (1953):** Inicio de misiones y vuelos comerciales sin escalas hacia el continente europeo y Nueva York con aviones Lockheed L-749 Constellation
+- **Hito de los vuelos internacionales de la LAV (1948):** Inicio de las operaciones regulares directas y sin escalas hacia Nueva York con modernos aviones Lockheed L-749 Constellation, ruta que en 1953 se extendería de forma transatlántica hacia el continente europeo
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
 
@@ -68,7 +68,7 @@ La fundación de Aeropostal el 3 de julio de 1929 representó el hito fundaciona
 
 - **Integración comercial y petrolera:** La aerolínea unió de manera permanente los campos de exploración de petróleo de Maracaibo y las minas de Ciudad Bolívar, acelerando el flujo de correspondencia, diplomacia y personal técnico en los inicios del auge de los hidrocarburos.
 - **Evolución del parque de aeronaves nacionales:** La necesidad de operar en pistas de tierra no preparadas impulsó la transición de los antiguos aviones franceses a los robustos monoplanos de cabina cerrada Fairchild 82B, Lockheed 10 Electra y Douglas DC-3, elevando de forma notable los estándares de seguridad y mantenimiento en el frente civil.
-- **Adopción de motores pesados y reactores de la LAV:** El éxito de la Línea Aeropostal Venezolana facilitó en la posguerra la adquisición de aviones Lockheed Super Constellation y, posteriormente en la década de 1960, de modernos reactores Douglas DC-8, consolidando a la aerolínea bandera como una de las de mayor jerarquía de todo el concierto latinoamericano.
+- **Adopción de motores pesados y reactores de la LAV:** El éxito de la Línea Aeropostal Venezolana facilitó en la posguerra la adquisición de aviones Lockheed L-749 Constellation para la ruta a Nueva York (1948), la posterior incorporación de los Super Constellation para cruzar el Atlántico hacia Europa (1953) y, en la década de 1960, de modernos reactores Douglas DC-8, consolidando a la aerolínea bandera como una de las de mayor jerarquía de todo el concierto latinoamericano.
 - **Formación de personal militar y civil de pilotaje:** El traspaso nacional en 1933 estimuló la incorporación de destacados pilotos militares y oficiales de aviación táctica venezolanos (como Francisco Leonardi o el teniente Guillermo Pacaníns), quienes asumieron el mando y la dirección técnica de la aerolínea en sustitución del personal francés original.
 
 ### Legado
