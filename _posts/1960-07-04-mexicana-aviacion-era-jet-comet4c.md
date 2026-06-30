@@ -70,7 +70,7 @@ La exitosa entrada en servicio del de Havilland Comet 4C el 4 de julio de 1960 p
 - **Reducción radical de tiempos de viaje:** La introducción del Comet redujo a la mitad el tiempo de viaje entre la Ciudad de México y Los Ángeles (de más de siete horas en bimotores convencionales a solo tres horas de vuelo), estimulando de forma notable el comercio y el turismo internacional.
 - **Consolidación de la ASPA y derechos laborales:** El adiestramiento de los pilotos en el nuevo equipo de reacción sirvió para ratificar el primer contrato colectivo firmado con la Asociación Sindical de Pilotos Aviadores (ASPA), marcando un hito en la defensa de los derechos profesionales de las tripulaciones.
 - **Modernización de la infraestructura aeroportuaria:** El despegue regular de reactores pesados obligó a la Secretaría de Comunicaciones y Transportes (SCT) a adquirir y pavimentar con mayor resistencia las pistas y terminales de los aeropuertos nacionales de la época, asumiendo el control de las pistas que la aerolínea ya no podía mantener financieramente.
-- **Paso al Boeing 727:** Las lecciones operativas obtenidas con los cuatro aviones Comet de la flota de Mexicana cimentaron la posterior adquisición y el inmenso éxito del trimotor Boeing 727 en las décadas de 1970 y 1980, convirtiendo a la aerolínea en la mayor operadora de reactores de Latinoamérica de su tiempo.
+- **Paso al Boeing 727:** Las lecciones operativas obtenidas con los tres primeros aviones Comet 4C de la flota de Mexicana cimentaron la posterior adquisición y el inmenso éxito del trimotor Boeing 727 en las décadas de 1970 y 1980, convirtiendo a la aerolínea en la mayor operadora de reactores de Latinoamérica de su tiempo.
 
 ### Legado
 
