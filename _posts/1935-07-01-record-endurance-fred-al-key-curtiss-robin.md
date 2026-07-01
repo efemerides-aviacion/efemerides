@@ -95,7 +95,7 @@ A casi un siglo de su histórica travesía, el récord establecido por los herma
 <hr>
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Se hace constar que el histórico vuelo de resistencia de los hermanos Al y Fred Key, completado el 1 de julio de 1935 tras 653 horas y 34 minutos en el aire, representó el tercer intento de la tripulación por batir la marca mundial. Las dos tentativas previas debieron ser abortadas debido a fallas mecánicas menores y condiciones meteorológicas adversas. Asimismo, este registro sigue figurando en los anales de la aviación como la marca de permanencia más longeva para una aeronave tripulada convencional de hélice y pistón sin interrupciones.</p>
+  <p><strong>Nota aclaratoria:</strong> Se hace constar que el histórico vuelo de resistencia de los hermanos Al y Fred Key, completado el 1 de julio de 1935 tras 653 horas y 34 minutos en el aire, representó el tercer intento de la tripulación por batir la marca mundial. Las dos tentativas previas debieron ser abortadas debido a fallas mecánicas menores y condiciones meteorológicas adversas.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
