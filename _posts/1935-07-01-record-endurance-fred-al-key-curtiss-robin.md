@@ -61,7 +61,7 @@ La travesía del «Ole Miss» se ejecutó como una operación de resistencia fí
 - **Mediados de junio de 1935:** Fred Key realiza con éxito múltiples salidas a la pasarela exterior en pleno vuelo, utilizando un arnés de seguridad para limpiar el motor, cambiar bujías y engrasar las válvulas del motor Wright J-5.
 - **21 de junio de 1935:** El avión supera con éxito un violento temporal de tormentas eléctricas y un conato de incendio eléctrico en la cabina de pilotaje, que es controlado rápidamente por Al Key.
 - **27 de junio de 1935:** Se supera de manera oficial el récord anterior de resistencia de los hermanos Hunter, atrayendo la atención de la prensa internacional y de los mandos militares del Pentágono.
-- **1 de julio de 1935 (18:06 horas):** Tras permanecer 653 horas y 34 minutos en el aire, el «Ole Miss» ameriza de forma segura en Meridian ante más de 30.000 personas, estableciendo una marca mundial imbatible para aviones de hélice convencionales.
+- **1 de julio de 1935 (18:06 horas):** Tras permanecer 653 horas y 34 minutos en el aire, el «Ole Miss» aterriza de forma segura en Meridian ante más de 30.000 personas, estableciendo una marca mundial imbatible para aviones de hélice convencionales.
 
 ### Consecuencias e Impacto
 
@@ -78,7 +78,7 @@ A casi un siglo de su histórica travesía, el récord establecido por los herma
 
 - **Exposición en el Smithsonian:** El legendario monoplano Curtiss Robin J-1 Deluxe *Ole Miss* fue donado por los hermanos al Museo Nacional del Aire y el Espacio del Smithsonian en Washington D. C., donde se conserva en perfecto estado de exhibición permanente para admiración de investigadores y visitantes.
 - **El Key Field de Meridian:** El aeródromo de Meridian, Mississippi, continúa operando con orgullo bajo el nombre de *Key Field*, albergando un museo dedicado a preservar las bitácoras, fotografías y la boquilla original de reabastecimiento que salvó al aeropuerto del cierre en 1935.
-- **Récord mundial imbatido:** Exceptuando las misiones de naves espaciales, el vuelo de 653 horas y 34 minutos de los hermanos Key sigue figurando en los registros aeronáuticos como el récord de resistencia más largo para una aeronave convencional con hélice y tripulación a bordo, un testimonio perdurable de la tenacidad y la precisión de los pioneros de entreguerras.
+- **Hito de la resistencia de la aviación clásica:** El vuelo de 653 horas y 34 minutos de los hermanos Key se mantuvo como la marca mundial absoluta e imbatible de resistencia aérea para aviones de hélice durante más de veinticuatro años, hasta ser superado en 1959 por el legendario vuelo ininterrumpido de 64 días en un Cessna 172. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1959/02/07/timm-cook-record-cessna172.html" style="color: #315fea; text-decoration: none;">efeméride dedicada a Robert Timm, John Cook y su histórico récord de resistencia en un Cessna 172</a> para más detalles.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
