@@ -7,6 +7,7 @@ author: Enrique Pomares
 pais: Venezuela
 operator: Ministerio de Guerra y Marina (Venezuela)
 excerpt: "El 16 de diciembre de 1937 se creó por decreto la Escuela de Aviación Civil de Venezuela, institución nacida para formar personal aeronáutico civil y cuyo impulso inicial se vincula a una propuesta previa del mayor Alcides Quintero."
+published: false
 image: 1937-12-16-creacion-escuela-aviacion-civil-venezolana.webp
 ---
 
