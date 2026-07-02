@@ -87,7 +87,7 @@ El X-15 capturó la imaginación del público estadounidense. Sus pilotos, como 
 - **Joe Walker (NASA):** 25 vuelos, alcanzó 354.200 pies (2 vuelos espaciales según la FAI) .
 - **William "Pete" Knight (USAF):** 16 vuelos, récord de Mach 6,70 .
 - **Joe Engle (USAF):** 16 vuelos, luego comandante del transbordador espacial .
-- **Robert White (USAF):** 16 vuelos, primer estadounidense en superar Mach 4, 5 y 6 .
+- **Robert White (USAF):** 16 vuelos, primer estadounidense en superar Mach 4, Mach 5 y Mach 6; más sobre su trayectoria en <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1924/07/06/nacimiento-robert-white-x15-astronauta.html" style="color: #315fea; text-decoration: none;">6 de julio de 1924 | Nacimiento de Robert White, pionero de la aviación hipersónica y primer astronauta en avión</a>.
 - **Forrest Petersen (USN):** 5 vuelos .
 - **John "Jack" McKay (NASA):** 29 vuelos .
 - **Robert Rushworth (USAF):** 34 vuelos .
@@ -96,6 +96,8 @@ El X-15 capturó la imaginación del público estadounidense. Sus pilotos, como 
 - **Michael J. Adams (USAF):** 7 vuelos, único fallecido en el programa (15 de noviembre de 1967) .
 
 Ocho de estos pilotos superaron las 50 millas (80 km), calificando como astronautas según la USAF. Joe Walker fue el único que superó la línea de Kármán (100 km), la definición internacional del espacio .
+
+<p>Entre los aviadores que darían proyección histórica al programa destacó <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1924/07/06/nacimiento-robert-white-x15-astronauta.html" style="color: #315fea; text-decoration: none;">Robert M. White</a>, quien más tarde se convertiría en el primer piloto en superar Mach 4, Mach 5 y Mach 6 a los mandos del X-15.</p>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
