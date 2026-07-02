@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "6 de julio de 1924 | Robert Michael White"
+title: "6 de julio de 1924 | Nacimiento de Robert White, pionero de la aviación hipersónica y primer astronauta en avión"
 date: 1924-07-06
 categories: [nacimiento]
 author: Enrique Pomares
