@@ -106,7 +106,7 @@ A largo plazo, el vuelo de Horacio Ruiz Gaviño representa el paso de la aviaci�
 <hr>
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Las fuentes consultadas coinciden en la fecha del vuelo, en el piloto Horacio Ruiz Gaviño y en que se trató del primer transporte aéreo de correspondencia en México. Además, la revisión comparada de antecedentes regionales permite ubicarlo como el tercer precedente confirmado de correo aéreo en Latinoamérica, después del vuelo postal entre Salto y Montevideo de 1912 y del vuelo aeropostal chileno entre Ancud y Puerto Montt de 1916. Persisten, no obstante, discrepancias secundarias en el número exacto de tarjetas postales transportadas, en la numeración de la valija o saco postal y en la duración precisa del trayecto. También existen publicaciones que lo presentan como el primero de América o incluso del mundo; esas afirmaciones más amplias se omiten aquí por no contar con respaldo uniforme.</p>
+  <p><strong>Nota aclaratoria:</strong> Las fuentes consultadas coinciden en la fecha del vuelo, en el piloto Horacio Ruiz Gaviño y en que se trató del primer transporte aéreo de correspondencia en México. Además, la revisión comparada de antecedentes regionales permite ubicarlo como el tercer precedente confirmado de correo aéreo en Latinoamérica, después del vuelo postal entre Salto y Montevideo de 1912 y del vuelo aeropostal chileno entre Ancud y Puerto Montt de 1916. Persisten, no obstante, discrepancias secundarias en el número exacto de tarjetas postales transportadas, en la numeración de la valija o saco postal y en la duración precisa del trayecto.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
