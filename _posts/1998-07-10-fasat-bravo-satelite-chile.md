@@ -11,7 +11,7 @@ image: 1998-07-10-fasat-bravo-satelite-chile.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1998-07-10-fasat-bravo-satelite-chile.webp" alt="Microsatélite chileno FASat-Bravo"><figcaption>Ilustración del satélite FASat‑Bravo, primer satélite chileno en órbita independiente, lanzado el 10 de julio de 1998 desde el cosmódromo de Baikonur, Kazajistán; fuente: Cooperativa Ciencia.Fuente: <a href="https://www.cooperativaciencia.cl/ciencia/2023/07/10/fasat-bravo-el-satelite-chileno-que-estudio-el-pais/">Cooperativa Ciencia.</a></figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1998-07-10-fasat-bravo-satelite-chile.webp" alt="Microsatélite chileno FASat-Bravo"><figcaption>Ilustración del satélite FASat‑Bravo, primer satélite chileno en órbita independiente, lanzado el 10 de julio de 1998 desde el cosmódromo de Baikonur, Kazajistán; fuente: <a href="https://www.cooperativaciencia.cl/ciencia/2023/07/10/fasat-bravo-el-satelite-chileno-que-estudio-el-pais/">Cooperativa Ciencia.</a></figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 
