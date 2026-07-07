@@ -156,6 +156,8 @@ El SpaceShipOne fue el primer avión espacial privado en alcanzar el espacio. Su
 
 El 21 de junio de 2004, el SpaceShipOne no solo alcanzó los 100 km de altitud, sino que rompió la barrera de lo posible: demostró que el espacio, el último gran territorio por conquistar, era accesible no solo a las grandes agencias gubernamentales, sino también a la iniciativa privada.
 
+La influencia de SpaceShipOne puede rastrearse con claridad en la siguiente generación de vehículos suborbitales privados. Esa línea de desarrollo se hizo visible años después en el <a href="https://efemerides-aviacion.github.io/efemerides/espacial/2021/07/11/virgin-galactic-primer-vuelo-espacial-tripulado.html" style="color: #315fea; text-decoration: none;">vuelo Unity 22 del 11 de julio de 2021</a>, con el que Virgin Galactic realizó su primer vuelo espacial tripulado completo y llevó a una nueva etapa pública y comercial el modelo de acceso privado al espacio inaugurado por SpaceShipOne.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Referencias Verificadas
