@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "11 de julio de 1992 | Participación de la Fuerza Aérea Venezolana en el ejercicio Red Flag"
+title: "11 de julio de 1992 | Retorno de los F-16 venezolanos tras la participación en el ejercicio aéreo Red Flag"
 date: 1992-07-11
 categories: [evento]
 author: Enrique Pomares
@@ -64,7 +64,7 @@ La participación venezolana en Red Flag 92 se entiende mejor si se observa como
 - **19 de junio de 1992:** comienza oficialmente la edición de Red Flag 92 a la que se incorpora el contingente venezolano.
 - **21 de junio de 1992:** fuentes retrospectivas venezolanas sitúan en esta fecha el inicio efectivo de las operaciones y del ciclo diario de briefing, asignación de objetivos y salidas tácticas.
 - **9 de julio de 1992:** la agencia Xinhua informa sobre la participación venezolana y destaca que el Comandante General, General de División Eutumio José Fuguett Borregales, encabeza el contingente.
-- **11 de julio de 1992:** ya avanzada la edición del ejercicio, la presencia de la FAV en Nellis se inscribe como referencia cronológica de esta efeméride.
+- **11 de julio de 1992:** según la prensa local (*El Siglo*, Maracay), los F-16 venezolanos fueron recibidos en la Base Aérea El Libertador tras su participación en Red Flag. Aunque las fuentes internacionales no fijan ese día como retorno oficial, la memoria colectiva lo recuerda como el momento simbólico en que los pilotos regresaron orgullosos al país.
 - **14 de julio de 1992:** NotiSur publica la noticia que registra a la FAV como participante en las maniobras y subraya el carácter inédito de la presencia venezolana.
 - **17 de julio de 1992:** concluye la ventana temporal del ejercicio Red Flag 92 citada por la fuente contemporánea consultada.
 
@@ -103,8 +103,7 @@ A largo plazo, aquella participación se convirtió en un punto de referencia de
 <hr>
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Las fuentes consultadas coinciden en que la participación venezolana ocurrió dentro de la edición de Red Flag desarrollada entre el 19 de junio y el 17 de julio de 1992, pero no siempre fijan un único día como hito central de esa presencia. Por ello, esta efeméride adopta el 11 de julio de 1992 como fecha de referencia dentro del despliegue ya en curso. Asimismo, algunos reportes contemporáneos describieron el episodio como maniobras de la OTAN, mientras que la documentación institucional de Nellis define Red Flag como un ejercicio de la USAF con participación de fuerzas aliadas; en el texto se ha privilegiado esta segunda formulación por ser la más precisa desde el punto de vista organizativo.
-  Además, la nómina de pilotos participantes citada en fuentes retrospectivas especializadas incluye a Oswaldo Di Sabatino, Arturo García, Héctor D. Armas y Saúl Fuenmayor, pero ese detalle no aparece desarrollado en el breve despacho contemporáneo reproducido por NotiSur.
+  <p><strong>Nota aclaratoria:</strong> Las fuentes consultadas coinciden en que la participación venezolana ocurrió dentro de la edición de Red Flag desarrollada entre el 19 de junio y el 17 de julio de 1992. Sin embargo, no fijan un único día como hito central de esa presencia. Por ello, esta efeméride utiliza el **11 de julio de 1992** como fecha de referencia simbólica, en atención a la cobertura periodística local (*El Siglo*, Maracay), que reseñó el retorno de los pilotos venezolanos con titulares de orgullo nacional. Se deja a la audiencia valorar si ese día debe considerarse como el momento significativo del regreso o simplemente como un punto dentro del despliegue. Asimismo, algunos reportes contemporáneos describieron el episodio como maniobras de la OTAN, mientras que la documentación institucional de Nellis define Red Flag como un ejercicio de la USAF con participación de fuerzas aliadas; en el texto se ha privilegiado esta segunda formulación por ser la más precisa desde el punto de vista organizativo.
   </p>
 </div>
 
