@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 18 de abril de 1941 | Primer vuelo del prototipo del Messerschmitt Me 262 V1"
+title: "18 de abril de 1941 | Primer vuelo del prototipo del Messerschmitt Me 262 V1"
 date: 1941-04-18
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Alemania
 operator: Messerschmitt AG / Luftwaffe
