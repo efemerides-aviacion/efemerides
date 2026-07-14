@@ -63,7 +63,7 @@ El piloto de pruebas Fritz Wendel era una figura respetada en la industria aeron
 - **Febrero de 1941:** Comienza la construcción del Me 262 V1.
 - **18 de abril de 1941:** Primer vuelo del Me 262 V1 con motor de pistón Jumo 210G, pilotado por Fritz Wendel.
 - **25 de marzo de 1942:** Primer intento de vuelo con motores BMW 003; ambos fallan y Wendel aterriza usando solo el motor de pistón.
-- **18 de julio de 1942:** Primer vuelo exitoso con propulsión a reacción del prototipo Me 262 V3, equipado con motores Junkers Jumo 004.
+- **18 de julio de 1942:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/07/18/primer-vuelo-messerschmitt-me262-v3.html" style="color: #315fea; text-decoration: none;">Primer vuelo del prototipo Messerschmitt Me 262 V3</a>, ya equipado con motores Junkers Jumo 004 y plenamente propulsado a reacción.
 - **Abril de 1944:** El Me 262 entra en servicio operativo con la Luftwaffe.
 - **Mayo de 1945:** Fin de la guerra en Europa; se capturan numerosos Me 262 por los Aliados.
 
