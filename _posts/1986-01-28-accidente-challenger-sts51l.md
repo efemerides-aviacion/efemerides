@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 28 de enero de 1986 | Accidente del Challenger STS‑51‑L"
+title: "28 de enero de 1986 | Accidente del Challenger STS‑51‑L"
 date: 1986-01-28
-categories: [aviacion-espacial, aviacion-accidente]
+categories: [espacial, accidente]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: NASA
