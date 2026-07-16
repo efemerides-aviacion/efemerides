@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 12 de abril de 1981 | Primer vuelo del Transbordador Espacial Columbia"
+title: "E12 de abril de 1981 | Primer vuelo del Transbordador Espacial Columbia"
 date: 1981-04-12
-categories: [aviacion-espacial]
+categories: [espacial]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA
