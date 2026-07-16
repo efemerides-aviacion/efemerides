@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "21 de julio de 1911 | Fallecimiento de Denise Moore, primera mujer piloto fallecida en un accidente aéreo"
+title: "21 de julio de 1911 | Denise Moore, primera mujer piloto fallecida en un accidente aéreo"
 date: 1911-07-21
 categories: [accidente]
 author: Enrique Pomares
