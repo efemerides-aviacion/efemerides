@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "E12 de abril de 1981 | Primer vuelo del Transbordador Espacial Columbia"
+title: "12 de abril de 1981 | Primer vuelo del Transbordador Espacial Columbia"
 date: 1981-04-12
 categories: [espacial]
 author: Enrique Pomares
