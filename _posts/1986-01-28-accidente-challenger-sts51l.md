@@ -14,14 +14,17 @@ image: 1986-01-28-accidente-challenger-sts51l.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1986-01-28-accidente-challenger-sts51l.webp" alt="Tripulación del Challenger STS-51-L">
   <figcaption class="post-caption">La tripulación de la misión STS‑51‑L del transbordador espacial posa para su retrato oficial el 15 de noviembre de 1985. En la fila trasera: Ellison S. Onizuka, Sharon Christa McAuliffe, Greg Jarvis y Judy Resnik. En la fila delantera: Michael J. Smith, Dick Scobee y Ron McNair.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
+
+
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 28 de enero de 1986 el transbordador espacial Challenger (misión STS‑51‑L) se desintegró 73 segundos tras el despegue de Cabo Cañaveral (11:39 a.m. EST), a 46.000 pies sobre el Atlántico, debido a la falla de los O‑ring del SRB derecho por temperaturas bajo cero que impidieron su sellado, liberando gas ardiente que erosionó el tanque externo y provocó la explosión. Los siete tripulantes —comandante Francis R. Scobee, piloto Michael J. Smith, especialistas Judith A. Resnik, Ellison S. Onizuka, Ronald E. McNair, Gregory B. Jarvis y la maestra Sharon Christa McAuliffe (primera civil en el espacio)— perecieron; la cabina se separó intacta pero impactó el océano a 207 mph tras caída libre desde 65.000 pies.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
+
 ## Datos Verificados del Evento
 - **Fecha:** 28 de enero de 1986  
 - **Lugar:** Cabo Cañaveral, Florida, EE. UU.  
@@ -31,7 +34,8 @@ image: 1986-01-28-accidente-challenger-sts51l.webp
 - **Causa técnica:** Falla de los O‑rings del SRB derecho por bajas temperaturas.  
 - **Consecuencias inmediatas:** Suspensión del programa shuttle por 32 meses; críticas de la Rogers Commission a la NASA.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
+
 ## Contexto Histórico
 El desastre del Challenger marcó un antes y un después en la exploración espacial.
 
@@ -56,7 +60,8 @@ El accidente cambió la percepción pública sobre la seguridad de los vuelos es
 ### Legado
 El Challenger es recordado como un símbolo de sacrificio en la exploración espacial. La tripulación fue homenajeada con monumentos, escuelas y programas educativos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -68,7 +73,8 @@ El Challenger es recordado como un símbolo de sacrificio en la exploración esp
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-26 14:55:00 UTC  
 - **Fuentes primarias consultadas:** NASA; Wikipedia; Britannica  
