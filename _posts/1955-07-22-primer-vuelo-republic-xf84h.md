@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Republic Aviation / Fuerza Aérea de los Estados Unidos (USAF)
-excerpt: "excerpt: "Despega por primera vez en la Base Edwards el prototipo experimental Republic XF-84H, un avión propulsado por hélice supersónica célebre por generar una ininterrumpida e incapacitante onda de choque sónica en tierra.""
+excerpt: "Despega por primera vez en la Base Edwards el prototipo experimental Republic XF-84H, un avión propulsado por hélice supersónica célebre por generar una ininterrumpida e incapacitante onda de choque sónica en tierra."
 image: 1955-07-22-primer-vuelo-republic-xf84h.webp
 ---
 
