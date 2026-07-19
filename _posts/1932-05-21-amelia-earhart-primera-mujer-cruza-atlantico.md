@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 21 de mayo de 1932 | Amelia Earhart, primera mujer en cruzar el Atlántico en solitario"
+title: "21 de mayo de 1932 | Amelia Earhart, primera mujer en cruzar el Atlántico en solitario"
 date: 1932-05-21
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Propiedad privada de Amelia Earhart
