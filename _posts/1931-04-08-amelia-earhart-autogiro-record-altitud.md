@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 8 de abril de 1931 | Amelia Earhart establece récord de altitud en autogiro"
+title: "8 de abril de 1931 | Amelia Earhart establece récord de altitud en autogiro"
 date: 1931-04-08
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Beech-Nut Corporation / Pitcairn-Cierva Autogiro Company
