@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 11 de enero de 1935 | Primer vuelo en solitario de Amelia Earhart de Hawái a California"
+title: "11 de enero de 1935 | Primer vuelo en solitario de Amelia Earhart de Hawái a California"
 date: 1935-01-11
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Amelia Earhart
