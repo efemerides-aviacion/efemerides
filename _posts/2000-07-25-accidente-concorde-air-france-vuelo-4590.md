@@ -63,7 +63,8 @@ La reconstrucción de los dos minutos de vuelo abarca desde el incidente con el 
 - **25 de julio de 2000 (16:44:31 CEST):** Con el ala izquierda calcinada y una inclinación asimétrica de más de 100 grados a escasa altitud, la nave pierde la sustentación mínima y se estrella contra el hotel *Hôtelissimo* en Gonesse.
 - **16 de agosto de 2000:** Retirada temporal de los certificados de aeronavegabilidad del Concorde por la DGAC francesa y la CAA británica.
 - **7 de noviembre de 2001:** Reanudación de los vuelos comerciales de la flota tras incorporar recubrimientos de Kevlar en los tanques de combustible y neumáticos Michelin radiales reforzados (*NZG*).
-- **24 de octubre de 2003:** Último vuelo comercial del Concorde, marcando la retirada definitiva del servicio activo de la aviación comercial supersónica.
+- **24 de octubre de 2003:** Último vuelo comercial regular del Concorde operado por British Airways.
+- **26 de noviembre de 2003:** Se efectúa el <a href="https://efemerides-aviacion.github.io/efemerides/evento/2003/11/26/concorde-gboaf-ultimo-vuelo.html" style="color: #315fea; text-decoration: none;">último vuelo del Concorde G-BOAF</a> desde Londres-Heathrow hasta Filton (Bristol), cerrando de forma definitiva la historia operativa en el aire del avión supersónico.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
 

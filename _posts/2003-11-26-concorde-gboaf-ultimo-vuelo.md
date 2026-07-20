@@ -59,7 +59,7 @@ El Concorde era un icono global. Su silueta delta y su nariz abatible ("droop-sn
 - **1976, 21 de enero:** Entrada en servicio comercial simultánea de British Airways y Air France (Londres-Bahrein y París-Río de Janeiro).
 - **1979:** Entrega del G-BOAF ("Alpha Foxtrot") a British Airways, el último Concorde producido (número de serie 216).
 - **1996, 7 de febrero:** El G-BOAF establece un récord de vuelo alrededor del mundo en 31 horas y 27 minutos.
-- **2000, 25 de julio:** Accidente del Concorde F-BTSC de Air France en Gonesse (Francia), con 113 víctimas. La flota se retira temporalmente.
+- **2000, 25 de julio:** Ocurre el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/2000/07/25/accidente-concorde-air-france-vuelo-4590.html" style="color: #315fea; text-decoration: none;">accidente del Concorde F-BTSC de Air France</a> en Gonesse (Francia), con 113 víctimas. La flota se retira temporalmente.
 - **2001, noviembre:** El Concorde vuelve al servicio comercial tras modificaciones de seguridad.
 - **2003, abril:** British Airways y Air France anuncian el retiro definitivo de la flota por razones económicas.
 - **2003, 24 de octubre:** Últimos vuelos comerciales de British Airways: tres Concorde (G-BOAG, G-BOAE, G-BOAF) aterrizan simultáneamente en Heathrow procedentes de Nueva York (JFK), Edimburgo y la Bahía de Cardigan (vuelo chárter). El G-BOAF operó el vuelo chárter.
