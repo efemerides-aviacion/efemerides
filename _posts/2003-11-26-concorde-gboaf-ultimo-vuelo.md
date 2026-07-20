@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 26 de noviembre de 2003 | Último vuelo del Concorde G-BOAF"
+title: "26 de noviembre de 2003 | Último vuelo del Concorde G-BOAF"
 date: 2003-11-26
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: British Airways
