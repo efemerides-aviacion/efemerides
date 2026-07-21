@@ -105,7 +105,7 @@ La permanencia del sobrenombre «Diablos», de su identidad visual y del lema «
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-07-21 14:07:38 CST  
 - **Fuentes primarias/institucionales consultadas:** Recopilación histórica de Francisco Efraín Visconti Osorio sobre el cincuentenario del Grupo Aéreo de Caza N.º 11.  
-- **Fuentes secundarias de contraste:** Aeroflight, Defensa.com, TalCual/Voz de América, Infodefensa y borrador preliminar del investigador.  
+- **Fuentes secundarias de contraste:** Aeroflight, Defensa.com, TalCual/Voz de América, Infodefensa, Artículo del Cnel. (Av) José Luis Ochoa Vargas y borrador preliminar del investigador.  
 - **Discrepancias resueltas:** Se distinguió la creación formal del Grupo de los antecedentes de sus escuadrones; se normalizaron las denominaciones de los modelos Mirage y Su-30MK2; se incorporó la sede posterior en El Sombrero, respaldada por fuentes coincidentes, sin fijar una fecha exacta de traslado no establecida unívocamente.  
 - **Nivel de confianza:** Medio  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
