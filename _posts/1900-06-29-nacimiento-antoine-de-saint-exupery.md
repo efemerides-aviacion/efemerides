@@ -62,7 +62,7 @@ La vida de Antoine de Saint-Exupéry fue una constante sucesión de vuelos de ex
 - **30 de diciembre de 1935:** Se estrella junto a su mecánico André Prévot en el desierto de Libia durante un intento de batir el récord de velocidad de la ruta París-Saigón, sobreviviendo de milagro tras cuatro días de deshidratación extrema.
 - **1939-1940:** Al estallar la Segunda Guerra Mundial, es movilizado como piloto de reconocimiento en el Escuadrón de Reconocimiento Estratégico GR II/33 de la Fuerza Aérea Francesa, volando misiones sobre el frente alemán a bordo de un Bloch MB.174.
 - **Abril de 1943:** Tras exiliarse en Estados Unidos, donde escribe e ilustra su obra maestra *El principito*, regresa al norte de África para unirse de nuevo al servicio de reconocimiento aéreo de las Fuerzas de la Francia Libre.
-- **31 de julio de 1944:** Despega de la base aérea de Borgo, en Córcega, a bordo de un avión de fotorreconocimiento sin armamento Lockheed P-38 Lightning (matrícula F-5B). Su rastro se pierde en el radar y es declarado desaparecido en acción.
+- **31 de julio de 1944:** Despega de la base aérea de Borgo, en Córcega, a bordo de un avión de fotorreconocimiento sin armamento Lockheed P-38 Lightning (matrícula F-5B). Su rastro se pierde en el radar y es declarado <a href="https://efemerides-aviacion.github.io/efemerides/evento/1944/07/31/ultimo-vuelo-antoine-saint-exupery.html" style="color: #315fea; text-decoration: none;">desaparecido en acción</a>.
 
 ### Consecuencias e Impacto
 
