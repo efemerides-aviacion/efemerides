@@ -67,7 +67,7 @@ La figura del "as de la aviación" nació durante la Primera Guerra Mundial. Pil
 - **1916:** Solicita su ingreso a la Escuela de Aviación del Ejército Alemán (Luftstreitkräfte).
 - **Enero de 1917:** Culmina su entrenamiento como piloto. Es destinado al escuadrón de reconocimiento Flieger Abteilung 201 en el frente occidental.
 - **1 de julio de 1917:** Es asignado al Jagdstaffel 11 (Jasta 11), el escuadrón de élite de Manfred von Richthofen.
-- **31 de julio de 1917:** Obtiene su primer derribo confirmado: un RE.8 británico sobre Flandes, Bélgica.
+- **31 de julio de 1917:** Obtiene su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1917/07/31/carlos-meyer-baldo-primer-derribo.html" style="color: #315fea; text-decoration: none;">primer derribo confirmado: un R.E.8 británico sobre Flandes, Bélgica</a>.
 - **Diciembre de 1917:** Es transferido al Jagdstaffel 4 (Jasta 4), también parte del "Circo Volante".
 - **28 de junio de 1918:** Derriba al SPAD S.XIII del as francés René Montrion (11 victorias).
 - **15 de julio de 1918:** Derriba otro SPAD S.XIII francés.
