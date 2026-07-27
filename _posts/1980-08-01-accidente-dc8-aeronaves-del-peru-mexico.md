@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Perú / México
 operator: Aeronaves del Perú
 excerpt: "El DC-8-43F de carga OB-R-1143 de Aeronaves del Perú impacta contra el Cerro Lilio durante su aproximación a Ciudad de México en un vuelo procedente de Lima."
-image: 1980-08-01-accidente-dc8-aeronaves-del-peru.webp
+image: 1980-08-01-accidente-dc8-aeronaves-del-peru-mexico.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1980-08-01-accidente-dc8-aeronaves-del-peru.webp" alt="Douglas DC-8-43F OB-R-1143 de Aeronaves del Perú antes del accidente">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1980-08-01-accidente-dc8-aeronaves-del-peru-mexico.webp" alt="Douglas DC-8-43F OB-R-1143 de Aeronaves del Perú antes del accidente">
   <figcaption class="post-caption">El Douglas DC-8-43F carguero matrícula OB-R-1143 de Aeronaves del Perú, bautizado «San Martín de Porres», fotografiado antes del accidente del 1 de agosto de 1980. Fuente: <a href="https://www.airhistory.net/photo/624237" style="color: #315fea; text-decoration: none;">AirHistory.net</a>, colección Michael Roeser, fotografía de Al Rodriguez.</figcaption>
 </figure>
 
