@@ -71,7 +71,7 @@ La tragedia quedó incorporada a la historia de la aviación comercial peruana y
 - **Poco después:** En condiciones de nubes sobre el Cerro Lilio, el avión vuela a una altitud insuficiente y alcanza las copas de los árboles antes de impactar contra la ladera.
 - **Inmediatamente después:** El DC-8 se desintegra y queda destruido en el terreno montañoso situado cerca de Ciudad de México.
 - **Investigación posterior:** Las fuentes disponibles describen un descenso por debajo de la altitud segura durante la aproximación, pero no se localizó un informe público completo de la autoridad mexicana que permita cerrar todos los detalles.
-- **12 de septiembre de 1980:** Otro DC-8 operado por Aeronaves del Perú, arrendado a United Airlines, sufre un accidente en Iquitos; este hecho es posterior e independiente del siniestro del OB-R-1143.
+- **12 de septiembre de 1980:** Otro DC-8 operado por Aeronaves del Perú, arrendado a United Airlines, sufre un <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1980/09/12/accidente-dc8-aeronaves-del-peru-iquitos.html" style="color: #315fea; text-decoration: none;">accidente en Iquitos</a>; este hecho es posterior e independiente del siniestro del OB-R-1143.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
 
