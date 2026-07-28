@@ -46,7 +46,7 @@ El gobierno del general Juan Vicente Gómez, a pesar de ser una dictadura, organ
 
 La aviación militar venezolana estaba en sus inicios. En 1920, el gobierno había contratado una misión aeronáutica francesa para establecer la Escuela de Aviación Militar y formar a los primeros pilotos del país. Como parte de este esfuerzo, arribaron a Venezuela 15 aviones Caudron G-3, biplanos de tela y madera, con una velocidad máxima de 100 km/h.
 
-Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1920/05/22/mision-instructores-franceses-eam-venezolana.html" style="color: #315fea; text-decoration: none;">efeméride dedicada a la contratación de la misión francesa</a> para conocer los detalles de esta gestión diplomática y la composición del equipo de instructores que llegó a Venezuela.
+Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1920/05/22/mision-instructores-franceses-eam-venezolana.html" style="color: #315fea; text-decoration: none;">efeméride dedicada a la contratación de la misión francesa</a> para conocer los detalles de esta gestión diplomática y la composición del equipo de instructores que llegó a Venezuela.
 
 ### Robert Guerin y su papel en Venezuela
 
