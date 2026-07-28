@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 19 de abril de 1932 | Fundación de Beech Aircraft Company"
+title: "19 de abril de 1932 | Fundación de Beech Aircraft Company"
 date: 1932-04-19
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Beech Aircraft Corporation / Beechcraft

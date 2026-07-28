@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 29 de enero de 1928 | Llegada de Charles Lindbergh a Maracay"
+title: "29 de enero de 1928 | Llegada de Charles Lindbergh a Maracay"
 date: 1928-01-29
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Venezuela
 operator: Ryan NYP Spirit of St. Louis

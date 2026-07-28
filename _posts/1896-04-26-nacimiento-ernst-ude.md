@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 26 de abril de 1896 | Nacimiento de Ernst Udet"
+title: "26 de abril de 1896 | Nacimiento de Ernst Udet"
 date: 1896-04-26
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Alemania
 operator: Luftstreitkräfte / Luftwaffe

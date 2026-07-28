@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 3 de febrero de 1966 | Primer alunizaje suave: Luna 9"
+title: "3 de febrero de 1966 | Primer alunizaje suave: Luna 9"
 date: 1966-02-03
-categories: [aviacion-espacial]
+categories: [espacial]
 author: [Enrique Pomares]
 pais: Unión Soviética
 operator: Programa Luna (OKB Lavochkin)

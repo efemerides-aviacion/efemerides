@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 28 de diciembre de 2014 | Accidente del Vuelo 8501 de Indonesia AirAsia"
+title: "28 de diciembre de 2014 | Accidente del Vuelo 8501 de Indonesia AirAsia"
 date: 2014-12-28
 categories: [aviacion-accidente]
 author: Enrique Pomares

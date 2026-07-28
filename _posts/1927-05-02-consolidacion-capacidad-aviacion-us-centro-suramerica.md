@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 2 de mayo de 1927 | Finalización del vuelo Panamericano de Buena Voluntad del Ejército de EE. UU."
+title: "2 de mayo de 1927 | Finalización del vuelo Panamericano de Buena Voluntad del Ejército de EE. UU."
 date: 1927-05-02
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Cuerpo Aéreo del Ejército de los Estados Unidos (USAAC)

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 25 de mayo de 1913 | Nacimiento de Roberto Parragué Singer, pionero de la ruta aérea a Isla de Pascua"
+title: "25 de mayo de 1913 | Nacimiento de Roberto Parragué Singer, pionero de la ruta aérea a Isla de Pascua"
 date: 1913-05-25
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Chile
 operator: Fuerza Aérea de Chile (FACH)

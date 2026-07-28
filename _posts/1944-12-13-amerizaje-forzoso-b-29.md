@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 13 de diciembre de 1944 | Amerizaje forzoso del B-29 'Dat's My Boy'"
+title: "13 de diciembre de 1944 | Amerizaje forzoso del B-29 'Dat's My Boy'"
 date: 1944-12-13
 categories: [aviacion-accidente]
 author: Enrique Pomares

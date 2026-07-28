@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 13 de abril de 1892 | Nacimiento de Sir Arthur Harris"
+title: "13 de abril de 1892 | Nacimiento de Sir Arthur Harris"
 date: 1892-04-13
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: Royal Air Force

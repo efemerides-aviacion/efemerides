@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 19 de mayo de 1982 | Accidente del Westland Sea King HC.4 ZA294 en la Guerra de las Malvinas"
+title: "19 de mayo de 1982 | Accidente del Westland Sea King HC.4 ZA294 en la Guerra de las Malvinas"
 date: 1982-05-19
 categories: [aviacion-accidente]
 author: Enrique Pomares

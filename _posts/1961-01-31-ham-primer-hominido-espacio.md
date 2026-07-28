@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 31 de enero de 1961 | HAM, primer homínido en el espacio"
+title: "31 de enero de 1961 | HAM, primer homínido en el espacio"
 date: 1961-01-31
-categories: [aviacion-espacial]
+categories: [espacial]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: NASA – Mercury Program

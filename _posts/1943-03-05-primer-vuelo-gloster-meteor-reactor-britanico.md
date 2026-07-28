@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 5 de marzo de 1943 | Primer vuelo del Gloster Meteor"
+title: "5 de marzo de 1943 | Primer vuelo del Gloster Meteor"
 date: 1943-03-05
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: Gloster Aircraft Company / RAF

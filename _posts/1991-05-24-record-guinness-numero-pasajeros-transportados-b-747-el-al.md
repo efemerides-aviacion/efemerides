@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 24 de mayo de 1991 | El récord Guinness de 1.088 pasajeros en un Boeing 747 de El Al"
+title: "24 de mayo de 1991 | El récord Guinness de 1.088 pasajeros en un Boeing 747 de El Al"
 date: 1991-05-24
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Israel
 operator: El Al Israel Airlines / Fuerza Aérea de Israel

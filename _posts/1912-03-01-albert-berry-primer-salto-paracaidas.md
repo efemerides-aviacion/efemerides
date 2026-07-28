@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 1 de marzo de 1912 | Primer salto en paracaídas desde avión"
+title: "1 de marzo de 1912 | Primer salto en paracaídas desde avión"
 date: 1912-03-01
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: US Army

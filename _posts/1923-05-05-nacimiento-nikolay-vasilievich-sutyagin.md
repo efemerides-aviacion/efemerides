@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 5 de mayo de 1923 | Nacimiento de Nikolai Sutyagin, el as soviético de la Guerra de Corea"
+title: "5 de mayo de 1923 | Nacimiento de Nikolai Sutyagin, el as soviético de la Guerra de Corea"
 date: 1923-05-05
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Unión Soviética (URSS)
 operator: Fuerza Aérea Soviética (VVS)

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 5 de febrero de 1919 | Primer servicio aéreo regular de correos en Europa"
+title: "5 de febrero de 1919 | Primer servicio aéreo regular de correos en Europa"
 date: 1919-02-05
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Alemania
 operator: Deutsche Luft-Reederei (DLR)

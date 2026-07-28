@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 21 de marzo de 2024 | Cindi Caraballo, primera mujer piloto de Sukhoi Su-30 en Venezuela"
+title: "21 de marzo de 2024 | Cindi Caraballo, primera mujer piloto de Sukhoi Su-30 en Venezuela"
 date: 2024-03-21
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Aviación Militar Bolivariana

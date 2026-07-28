@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 17 de mayo de 1943 | El B-17 Memphis Belle completa sus 25 misiones"
+title: "17 de mayo de 1943 | El B-17 Memphis Belle completa sus 25 misiones"
 date: 1943-05-17
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: 8ª Fuerza Aérea del Ejército de los EE. UU. (USAAF)

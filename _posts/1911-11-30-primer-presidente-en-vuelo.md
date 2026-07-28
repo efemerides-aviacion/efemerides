@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 30 de noviembre de 1911 | Primer Presidente en Vuelo"
+title: "30 de noviembre de 1911 | Primer Presidente en Vuelo"
 date: 1911-11-30
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: [México]
 operator: [George M. Dyott]

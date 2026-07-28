@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 1 de mayo de 1982 | Bautismo de Fuego de la Fuerza Aérea Argentina en Malvinas"
+title: "1 de mayo de 1982 | Bautismo de Fuego de la Fuerza Aérea Argentina en Malvinas"
 date: 1982-05-01
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Argentina / Reino Unido
 operator: Fuerza Aérea Argentina (FAA) / Royal Air Force (RAF)

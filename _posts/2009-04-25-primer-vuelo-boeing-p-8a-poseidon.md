@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 25 de abril de 2009 | Primer vuelo del Boeing P-8A Poseidon"
+title: "25 de abril de 2009 | Primer vuelo del Boeing P-8A Poseidon"
 date: 2009-04-25
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Boeing (pilotos de pruebas)

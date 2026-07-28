@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 26 de mayo de 1923 | Graduación de los primeros mecánicos de la Aviación Militar Venezolana"
+title: "26 de mayo de 1923 | Graduación de los primeros mecánicos de la Aviación Militar Venezolana"
 date: 1923-05-26
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Escuela de Aviación Militar (Aviación Militar Venezolana)

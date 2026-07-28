@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 4 de marzo de 1970 | Fundación de Cargolux Airlines International"
+title: "4 de marzo de 1970 | Fundación de Cargolux Airlines International"
 date: 1970-03-04
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Luxemburgo
 operator: Cargolux Airlines International S.A.

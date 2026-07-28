@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 15 de mayo de 1918 | Inauguración del primer servicio regular de correo aéreo en EE. UU."
+title: "15 de mayo de 1918 | Inauguración del primer servicio regular de correo aéreo en EE. UU."
 date: 1918-05-15
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Servicio Postal de los Estados Unidos / Cuerpo de Señales del Ejército

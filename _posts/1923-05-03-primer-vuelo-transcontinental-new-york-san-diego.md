@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 3 de mayo de 1923 | Primer vuelo transcontinental sin escalas Nueva York-San Diego"
+title: "3 de mayo de 1923 | Primer vuelo transcontinental sin escalas Nueva York-San Diego"
 date: 1923-05-03
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: U.S. Army Air Service

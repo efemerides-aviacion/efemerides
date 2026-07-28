@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 31 de enero de 1958 | Primer vuelo del North American T-2 Buckeye"
+title: "31 de enero de 1958 | Primer vuelo del North American T-2 Buckeye"
 date: 1958-01-31
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: US Navy

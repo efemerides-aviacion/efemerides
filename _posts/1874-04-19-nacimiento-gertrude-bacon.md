@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 19 de abril de 1874 | Nacimiento de Gertrude Bacon"
+title: "19 de abril de 1874 | Nacimiento de Gertrude Bacon"
 date: 1874-04-19
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: No aplica

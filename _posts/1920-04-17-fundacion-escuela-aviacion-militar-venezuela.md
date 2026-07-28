@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 17 de abril de 1920 | Fundación de la Escuela de Aviación Militar de Venezuela"
+title: "17 de abril de 1920 | Fundación de la Escuela de Aviación Militar de Venezuela"
 date: 1920-04-17
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Venezuela
 operator: Escuela de Aviación Militar / Aviación Militar Bolivariana (Anteriormente FAV)

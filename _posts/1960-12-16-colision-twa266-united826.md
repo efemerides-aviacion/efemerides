@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 16 de diciembre de 1960 | Colisión aérea entre TWA 266 y United Airlines 826"
+title: "16 de diciembre de 1960 | Colisión aérea entre TWA 266 y United Airlines 826"
 date: 1960-12-16
 categories: [aviacion-accidente]
 author: Enrique Pomares

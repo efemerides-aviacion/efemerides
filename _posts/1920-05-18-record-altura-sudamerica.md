@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 18 de mayo de 1920 | Récord de altura en Sudamérica sobre el Illimani"
+title: "18 de mayo de 1920 | Récord de altura en Sudamérica sobre el Illimani"
 date: 1920-05-18
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Bolivia / Estados Unidos
 operator: Fuerza Aérea Boliviana (proyectada) / Curtiss Airplane Company

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 5 de febrero de 1949 | Récord | Eastern Air Lines establece récord transcontinental en Lockheed Constellation L‑749A"
+title: "5 de febrero de 1949 | Récord | Eastern Air Lines establece récord transcontinental en Lockheed Constellation L‑749A"
 date: 1949-02-05
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Eastern Air Lines

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 6 de mayo de 1935 | Primer vuelo del prototipo Curtiss-Wright Model 75 (X17Y)"
+title: "6 de mayo de 1935 | Primer vuelo del prototipo Curtiss-Wright Model 75 (X17Y)"
 date: 1935-05-06
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Curtiss-Wright Corporation

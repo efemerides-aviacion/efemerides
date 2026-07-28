@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 21 de enero de 1976 | Primeros vuelos comerciales del Concorde"
+title: "21 de enero de 1976 | Primeros vuelos comerciales del Concorde"
 date: 1976-01-21
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Francia / Reino Unido
 operator: Air France / British Airways

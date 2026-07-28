@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 8 de enero 1944 | Primer vuelo del Lockheed P-80 Shooting Star"
+title: "8 de enero 1944 | Primer vuelo del Lockheed P-80 Shooting Star"
 date: 1944-01-08
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Lockheed Aircraft Corporation / USAAF

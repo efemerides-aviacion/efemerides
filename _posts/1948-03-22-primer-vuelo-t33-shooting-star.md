@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 22 de marzo de 1948 | Primer vuelo del Lockheed T-33 Shooting Star"
+title: "22 de marzo de 1948 | Primer vuelo del Lockheed T-33 Shooting Star"
 date: 1948-03-22
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: USAF / Lockheed

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 15 de febrero de 1890 | Cosme Rennella Barbatto"
+title: "15 de febrero de 1890 | Cosme Rennella Barbatto"
 date: 1890-02-15
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Ecuador / Venezuela
 operator: Cosme Rennella Barbatto

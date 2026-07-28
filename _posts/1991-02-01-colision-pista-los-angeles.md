@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 1 de febrero de 1991 | Colisión en pista en Los Ángeles"
+title: "1 de febrero de 1991 | Colisión en pista en Los Ángeles"
 date: 1991-02-01
 categories: [aviacion-accidente]
 author: [Enrique Pomares]

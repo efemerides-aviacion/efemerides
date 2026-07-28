@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 8 de abril de 1893 | Nacimiento de Tiny Broadwick, la primera mujer en saltar de un avión"
+title: "8 de abril de 1893 | Nacimiento de Tiny Broadwick, la primera mujer en saltar de un avión"
 date: 1893-04-08
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Broadwick Troupe / Glenn L. Martin Company

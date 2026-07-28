@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 3 de mayo de 1919 | Primer vuelo comercial entre dos estados de EE. UU."
+title: "3 de mayo de 1919 | Primer vuelo comercial entre dos estados de EE. UU."
 date: 1919-05-03
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Aeromarine Plane and Motor Company (Aero Limited)

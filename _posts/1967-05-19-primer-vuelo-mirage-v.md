@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 19 de mayo de 1967 | Primer vuelo del Dassault Mirage V"
+title: "19 de mayo de 1967 | Primer vuelo del Dassault Mirage V"
 date: 1967-05-19
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Francia
 operator: Dassault Aviation

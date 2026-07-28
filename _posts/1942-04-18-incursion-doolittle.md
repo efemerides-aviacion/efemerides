@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 18 de abril de 1942 | Incursión Doolittle, el contraataque de EE. UU. tras Pearl Harbor"
+title: "18 de abril de 1942 | Incursión Doolittle, el contraataque de EE. UU. tras Pearl Harbor"
 date: 1942-04-18
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Fuerzas Aéreas del Ejército de los Estados Unidos (USAAF) / Armada de los Estados Unidos

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 25 de mayo de 1959 | Nacimiento de Theresa Claiborne, primera afroamericana piloto de la USAF"
+title: "25 de mayo de 1959 | Nacimiento de Theresa Claiborne, primera afroamericana piloto de la USAF"
 date: 1959-05-25
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Fuerza Aérea de los Estados Unidos (USAF) / United Airlines

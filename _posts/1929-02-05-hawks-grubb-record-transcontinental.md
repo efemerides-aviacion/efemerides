@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 5 de febrero de 1929 | Récord transcontinental de Frank Hawks y Oscar Grubb"
+title: "5 de febrero de 1929 | Récord transcontinental de Frank Hawks y Oscar Grubb"
 date: 1929-02-05
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Lockheed Aircraft / Texaco

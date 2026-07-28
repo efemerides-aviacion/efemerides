@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 27 de abril de 2005 | Primer vuelo del Airbus A380"
+title: "27 de abril de 2005 | Primer vuelo del Airbus A380"
 date: 2005-04-27
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Francia
 operator: Airbus

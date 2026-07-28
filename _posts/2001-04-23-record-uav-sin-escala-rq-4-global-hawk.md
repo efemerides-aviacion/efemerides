@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 23 de abril de 2001 | Récord mundial de distancia sin escala para un UAV: RQ-4 Global Hawk"
+title: "23 de abril de 2001 | Récord mundial de distancia sin escala para un UAV: RQ-4 Global Hawk"
 date: 2001-04-23
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos / Australia
 operator: Fuerza Aérea de los Estados Unidos (USAF) / Northrop Grumman

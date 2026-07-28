@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 25 de diciembre de 1907 | El globo aerostático Pampero"
+title: "25 de diciembre de 1907 | El globo aerostático Pampero"
 date: 1907-12-25
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Argentina-Uruguay
 operator: "NO CONFIRMADO: no aplica operador formal"

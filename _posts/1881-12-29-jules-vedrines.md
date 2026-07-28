@@ -2,7 +2,7 @@
 layout: post
 title: "Efeméride de Pionero de la Aviación | 29 de diciembre de 1881 | Jules (Julio) Védrines"
 date: 1881-12-29
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 país: Francia
 excerpt: "El 29 de diciembre de 1881 nació Jules Védrines, pionero de la aviación francesa, célebre por sus récords de velocidad y su histórico aterrizaje en la azotea de las Galerías Lafayette en París."

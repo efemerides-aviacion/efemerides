@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 13 de marzo de 1988 | Basilio Impellizeri cruza los Andes en ala delta"
+title: "13 de marzo de 1988 | Basilio Impellizeri cruza los Andes en ala delta"
 date: 1988-03-13
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Chile / Argentina
 operator: 

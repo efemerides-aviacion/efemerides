@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 9 de mayo de 1942 | Primer vuelo del Reggiane Re.2005 Sagittario"
+title: "9 de mayo de 1942 | Primer vuelo del Reggiane Re.2005 Sagittario"
 date: 1942-05-09
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Italia
 operator: Regia Aeronautica

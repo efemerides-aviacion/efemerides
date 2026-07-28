@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 22 de abril de 1931 | Apertura oficial al tráfico aéreo del Aeropuerto Nacional de Madrid"
+title: "22 de abril de 1931 | Apertura oficial al tráfico aéreo del Aeropuerto Nacional de Madrid"
 date: 1931-04-22
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: España
 operator: Aeropuerto Nacional de Madrid (actual Aeropuerto Adolfo Suárez Madrid-Barajas)

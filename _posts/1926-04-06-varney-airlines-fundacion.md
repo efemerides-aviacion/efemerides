@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 6 de abril de 1926 | Fundación de Varney Airlines"
+title: "6 de abril de 1926 | Fundación de Varney Airlines"
 date: 1926-04-06
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Varney Air Lines (precursora de United Airlines)

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 1 de mayo de 1960 | Avión espía Lockheed U-2 derribado por misil soviético"
+title: "1 de mayo de 1960 | Avión espía Lockheed U-2 derribado por misil soviético"
 date: 1960-05-01
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos / Unión Soviética
 operator: Agencia Central de Inteligencia (CIA) / Fuerzas de Defensa Aérea Soviéticas (Voyska PVO)

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 17 de marzo de 1917 | Hans Philipp"
+title: "17 de marzo de 1917 | Hans Philipp"
 date: 1917-03-17
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Alemania
 operator: Luftwaffe

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 9 de abril de 1924 | Nacimiento de Milburn G. Apt, primer piloto en superar Mach 3"
+title: "9 de abril de 1924 | Nacimiento de Milburn G. Apt, primer piloto en superar Mach 3"
 date: 1924-04-09
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Fuerza Aérea de los Estados Unidos (USAF)

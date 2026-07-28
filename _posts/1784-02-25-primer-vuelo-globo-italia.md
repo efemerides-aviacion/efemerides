@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 25 de febrero de 1784 | Primer vuelo en globo de Paolo Andreani en Italia"
+title: "25 de febrero de 1784 | Primer vuelo en globo de Paolo Andreani en Italia"
 date: 1784-02-25
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Italia
 operator: Paolo Andreani

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 7 de abril de 1922 | Primera colisión aérea entre dos aviones comerciales"
+title: "7 de abril de 1922 | Primera colisión aérea entre dos aviones comerciales"
 date: 1922-04-07
 categories: [aviacion-accidente]
 author: Enrique Pomares

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 15 de mayo de 1897 | Nacimiento de Vicente Landaeta Gil, pionero de la aviación militar venezolana"
+title: "15 de mayo de 1897 | Nacimiento de Vicente Landaeta Gil, pionero de la aviación militar venezolana"
 date: 1897-05-15
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Aviación Militar Venezolana

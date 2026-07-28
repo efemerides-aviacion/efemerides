@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 1 de abril de 1938 | Primer vuelo del Renard R-35"
+title: "1 de abril de 1938 | Primer vuelo del Renard R-35"
 date: 1938-04-01
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Bélgica
 operator: SABENA (encargó el prototipo)

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 30 de abril de 1962 | Primer vuelo oficial del Lockheed A-12 Archangel"
+title: "30 de abril de 1962 | Primer vuelo oficial del Lockheed A-12 Archangel"
 date: 1962-04-30
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Agencia Central de Inteligencia (CIA) / Lockheed Skunk Works

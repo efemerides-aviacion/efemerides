@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 15 de abril de 1921 | Primer vuelo en solitario del Subteniente Manuel Ríos"
+title: "15 de abril de 1921 | Primer vuelo en solitario del Subteniente Manuel Ríos"
 date: 1921-04-15
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Escuela de Aviación Militar de Venezuela

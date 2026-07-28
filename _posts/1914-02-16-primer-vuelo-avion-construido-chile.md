@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 16 de febrero de 1914 | Primer vuelo de un avión construido en Chile"
+title: "16 de febrero de 1914 | Primer vuelo de un avión construido en Chile"
 date: 1914-02-16
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Chile
 operator: Hermanos César y Félix Copetta / Luis Omar Page (Piloto)

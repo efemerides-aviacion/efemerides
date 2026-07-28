@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 20 de abril de 1917 | Primer vuelo del dirigible DN-1 de la Marina de EE. UU."
+title: "20 de abril de 1917 | Primer vuelo del dirigible DN-1 de la Marina de EE. UU."
 date: 1917-04-20
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Armada de los Estados Unidos (US Navy)

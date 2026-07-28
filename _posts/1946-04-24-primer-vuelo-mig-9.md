@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 24 de abril de 1946 | Primer vuelo del Mikoyan-Gurevich MiG-9"
+title: "24 de abril de 1946 | Primer vuelo del Mikoyan-Gurevich MiG-9"
 date: 1946-04-24
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Unión Soviética (URSS)
 operator: Fuerza Aérea Soviética (VVS)

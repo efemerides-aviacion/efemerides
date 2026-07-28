@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 11 de mayo de 1875 | Nacimiento de Harriet Quimby, primera mujer piloto de EE. UU."
+title: "11 de mayo de 1875 | Nacimiento de Harriet Quimby, primera mujer piloto de EE. UU."
 date: 1875-05-11
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Aviación civil

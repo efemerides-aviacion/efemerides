@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 11 de marzo de 1993 | Primer vuelo del Airbus A321"
+title: "11 de marzo de 1993 | Primer vuelo del Airbus A321"
 date: 1993-03-11
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Alemania / Francia
 operator: Airbus Industrie

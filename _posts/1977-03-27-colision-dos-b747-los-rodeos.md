@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 27 de marzo de 1977 | Colisión de dos Boeing 747 en el aeropuerto 'Los Rodeos'"
+title: "27 de marzo de 1977 | Colisión de dos Boeing 747 en el aeropuerto 'Los Rodeos'"
 date: 1977-03-27
 categories: [aviacion-accidente]
 author: Enrique Pomares

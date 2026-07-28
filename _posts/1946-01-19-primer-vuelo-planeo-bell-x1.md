@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 19 de enero de 1946 | Primer vuelo en planeo del Bell XS‑1"
+title: "19 de enero de 1946 | Primer vuelo en planeo del Bell XS‑1"
 date: 1946-01-19
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: USAF / Bell Aircraft

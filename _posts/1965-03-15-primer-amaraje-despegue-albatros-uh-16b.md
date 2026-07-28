@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 15 de marzo de 1965 | Primer amaraje y despegue de un Albatros UH-16B en la Antártida"
+title: "15 de marzo de 1965 | Primer amaraje y despegue de un Albatros UH-16B en la Antártida"
 date: 1965-03-15
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Argentina
 operator: Fuerza Aérea Argentina

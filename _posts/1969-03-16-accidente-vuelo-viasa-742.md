@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 16 de marzo de 1969 | Accidente del Vuelo 742 de Viasa"
+title: "16 de marzo de 1969 | Accidente del Vuelo 742 de Viasa"
 date: 1969-03-16
 categories: [aviacion-accidente]
 author: Enrique Pomares

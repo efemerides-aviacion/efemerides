@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 5 de mayo de 1961 | Alan Shepard, primer estadounidense en el espacio"
+title: "5 de mayo de 1961 | Alan Shepard, primer estadounidense en el espacio"
 date: 1961-05-05
-categories: [aviacion-espacial]
+categories: [espacial]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA

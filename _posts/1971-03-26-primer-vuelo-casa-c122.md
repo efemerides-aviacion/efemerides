@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 26 de marzo de 1971 | Primer vuelo del CASA C-212 Aviocar"
+title: "26 de marzo de 1971 | Primer vuelo del CASA C-212 Aviocar"
 date: 1971-03-26
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: España
 operator: CASA (Construcciones Aeronáuticas S.A.)

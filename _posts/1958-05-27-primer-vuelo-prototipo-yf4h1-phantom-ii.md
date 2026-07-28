@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 27 de mayo de 1958 | Primer vuelo del prototipo del McDonnell Douglas F-4 Phantom II"
+title: "27 de mayo de 1958 | Primer vuelo del prototipo del McDonnell Douglas F-4 Phantom II"
 date: 1958-05-27
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: McDonnell Aircraft Corporation (prototipo) / Armada de los Estados Unidos (US Navy)

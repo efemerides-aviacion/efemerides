@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 25 de enero de 1959 | Primer vuelo transcontinental en jet de American Airlines"
+title: "25 de enero de 1959 | Primer vuelo transcontinental en jet de American Airlines"
 date: 1959-01-25
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: American Airlines

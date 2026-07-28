@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 10 de mayo de 2003 | Debut oficial del Breitling Jet Team en Valenciennes"
+title: "10 de mayo de 2003 | Debut oficial del Breitling Jet Team en Valenciennes"
 date: 2003-05-10
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Francia
 operator: Apache Aviation

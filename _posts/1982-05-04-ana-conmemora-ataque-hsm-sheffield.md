@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 4 de mayo de 1982 | La Aviación Naval Argentina hunde al HMS Sheffield con misiles Exocet"
+title: "4 de mayo de 1982 | La Aviación Naval Argentina hunde al HMS Sheffield con misiles Exocet"
 date: 1982-05-04
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Argentina / Reino Unido
 operator: Aviación Naval Argentina (COAN) / Royal Navy

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 17 de diciembre de 1935 | Primer vuelo del Douglas DC-3"
+title: "17 de diciembre de 1935 | Primer vuelo del Douglas DC-3"
 date: 1935-12-17
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Douglas Aircraft Company

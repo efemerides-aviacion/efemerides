@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 2 de diciembre de 1948 | Primer vuelo del Beechcraft T-34 Mentor"
+title: "2 de diciembre de 1948 | Primer vuelo del Beechcraft T-34 Mentor"
 date: 1948-12-02
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Beechcraft / USAF / USN

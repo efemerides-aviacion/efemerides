@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 19 de diciembre de 1951 | Operación “Enlace”: Primer operativo antártico de la Fuerza Aérea Argentina"
+title: "19 de diciembre de 1951 | Operación “Enlace”: Primer operativo antártico de la Fuerza Aérea Argentina"
 date: 1951-12-19
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Argentina
 operator: Fuerza Aérea Argentina

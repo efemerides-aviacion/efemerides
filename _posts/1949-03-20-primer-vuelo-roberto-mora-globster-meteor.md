@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 20 de marzo de 1949 | Primer vuelo solo de Roberto Mora en Gloster Meteor"
+title: "20 de marzo de 1949 | Primer vuelo solo de Roberto Mora en Gloster Meteor"
 date: 1949-03-20
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Venezuela / Inglaterra
 operator: FAV / RAF

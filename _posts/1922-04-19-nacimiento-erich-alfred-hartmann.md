@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 19 de abril de 1922 | Nacimiento de Erich Alfred Hartmann"
+title: "19 de abril de 1922 | Nacimiento de Erich Alfred Hartmann"
 date: 1922-04-19
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Alemania
 operator: Luftwaffe / Bundeswehr

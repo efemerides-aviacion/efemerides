@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 5 de marzo de 1936 | Primer vuelo del Supermarine Spitfire"
+title: "5 de marzo de 1936 | Primer vuelo del Supermarine Spitfire"
 date: 1936-03-05
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: Supermarine / RAF

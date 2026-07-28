@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 12 de abril de 1951 | Jueves Negro en el Callejón de los MiG"
+title: "12 de abril de 1951 | Jueves Negro en el Callejón de los MiG"
 date: 1951-04-12
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Corea del Norte
 operator: Fuerza Aérea de Estados Unidos / Fuerza Aérea Soviética (encubierta)

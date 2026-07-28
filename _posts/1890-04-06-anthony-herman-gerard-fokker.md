@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 6 de abril de 1890 | Anthony Herman Gerard Fokker"
+title: "6 de abril de 1890 | Anthony Herman Gerard Fokker"
 date: 1890-04-06
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Países Bajos (nacido en Indias Orientales Neerlandesas)
 operator: Fokker Flugzeugwerke (Alemania), Fokker (Países Bajos/EE.UU.)

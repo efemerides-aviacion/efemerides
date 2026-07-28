@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 7 de abril de 1921 | Robina Asti"
+title: "7 de abril de 1921 | Robina Asti"
 date: 1921-04-07
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Armada de los Estados Unidos (US Navy)

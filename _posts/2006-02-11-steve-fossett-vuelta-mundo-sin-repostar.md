@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 11 de febrero de 2006 | Steve Fossett rompe récord absoluto de distancia sin repostar"
+title: "11 de febrero de 2006 | Steve Fossett rompe récord absoluto de distancia sin repostar"
 date: 2006-02-11
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos / Reino Unido
 operator: Virgin Atlantic GlobalFlyer

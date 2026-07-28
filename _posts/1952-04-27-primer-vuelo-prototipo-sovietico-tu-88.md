@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 27 de abril de 1952 | Primer vuelo del prototipo soviético Tu-88, base del futuro Tupolev Tu-16"
+title: "27 de abril de 1952 | Primer vuelo del prototipo soviético Tu-88, base del futuro Tupolev Tu-16"
 date: 1952-04-27
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Unión Soviética (URSS)
 operator: Tupolev OKB / Fuerza Aérea Soviética (VVS)

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 28 de marzo de 1912 | Marina Mijáilovna Raskova"
+title: "28 de marzo de 1912 | Marina Mijáilovna Raskova"
 date: 1912-03-28
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Rusia (Unión Soviética)
 operator: Fuerza Aérea Soviética (VVS)

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 28 de mayo de 1945 | El ataque kamikaze de Hajime Fujii contra el USS Drexler"
+title: "28 de mayo de 1945 | El ataque kamikaze de Hajime Fujii contra el USS Drexler"
 date: 1945-05-28
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Japón
 operator: Servicio Aéreo del Ejército Imperial Japonés

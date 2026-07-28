@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 4 de diciembre de 1991 | Cierre de operaciones de Pan Am"
+title: "4 de diciembre de 1991 | Cierre de operaciones de Pan Am"
 date: 1991-12-04
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Pan American World Airways (Pan Am)

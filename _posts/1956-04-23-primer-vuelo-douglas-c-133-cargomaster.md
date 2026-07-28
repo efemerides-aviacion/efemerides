@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 23 de abril de 1956 | Primer vuelo del Douglas C-133 Cargomaster"
+title: "23 de abril de 1956 | Primer vuelo del Douglas C-133 Cargomaster"
 date: 1956-04-23
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Fuerza Aérea de los Estados Unidos (USAF)

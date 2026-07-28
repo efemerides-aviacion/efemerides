@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 17 de mayo de 1948 | Primer vuelo mundial con turbopropulsor: Boulton Paul Balliol"
+title: "17 de mayo de 1948 | Primer vuelo mundial con turbopropulsor: Boulton Paul Balliol"
 date: 1948-05-17
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: Boulton Paul Aircraft

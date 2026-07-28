@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 15 de abril de 1952 | Primer vuelo del Boeing YB-52 Stratofortress"
+title: "15 de abril de 1952 | Primer vuelo del Boeing YB-52 Stratofortress"
 date: 1952-04-15
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Boeing / Fuerza Aérea de los Estados Unidos

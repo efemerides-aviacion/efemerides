@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 26 de abril de 1939 | Fritz Wendel establece récord mundial de velocidad en avión con motor a pistón"
+title: "26 de abril de 1939 | Fritz Wendel establece récord mundial de velocidad en avión con motor a pistón"
 date: 1939-04-26
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Alemania
 operator: Messerschmitt AG

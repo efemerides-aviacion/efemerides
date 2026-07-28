@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 2 de febrero de 1974 | Primer vuelo oficial del YF-16"
+title: "2 de febrero de 1974 | Primer vuelo oficial del YF-16"
 date: 1974-02-02
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: General Dynamics / USAF

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 7 de mayo de 1918 | Primer vuelo del Curtiss 18-T Wasp"
+title: "7 de mayo de 1918 | Primer vuelo del Curtiss 18-T Wasp"
 date: 1918-05-07
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Armada de los Estados Unidos (US Navy)

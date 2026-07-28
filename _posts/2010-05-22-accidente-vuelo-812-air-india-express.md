@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 22 de mayo de 2010 | Accidente del Vuelo 812 de Air India Express en Mangalore"
+title: "22 de mayo de 2010 | Accidente del Vuelo 812 de Air India Express en Mangalore"
 date: 2010-05-22
 categories: [aviacion-accidente]
 author: Enrique Pomares

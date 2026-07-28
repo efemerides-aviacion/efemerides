@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 28 de mayo de 1987 | Mathias Rust aterriza en la Plaza Roja de Moscú"
+title: "28 de mayo de 1987 | Mathias Rust aterriza en la Plaza Roja de Moscú"
 date: 1987-05-28
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Alemania Occidental
 operator: N/A (piloto privado)

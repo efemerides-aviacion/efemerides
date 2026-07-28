@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 14 de febrero de 1964 | Fundación de la Base Aérea Teniente Vicente Landaeta Gil, Barquisimeto"
+title: "14 de febrero de 1964 | Fundación de la Base Aérea Teniente Vicente Landaeta Gil, Barquisimeto"
 date: 1964-02-14
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Venezuela
 operator: Fuerza Aérea Venezolana (FAV)

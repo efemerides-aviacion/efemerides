@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 13 de mayo de 1949 | Primer vuelo del English Electric Canberra"
+title: "13 de mayo de 1949 | Primer vuelo del English Electric Canberra"
 date: 1949-05-13
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: English Electric Company

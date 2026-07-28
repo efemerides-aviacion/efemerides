@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 12 de enero de 1879 | Calbraith Perry Rodgers"
+title: "12 de enero de 1879 | Calbraith Perry Rodgers"
 date: 1879-01-12
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Calbraith Perry Rodgers

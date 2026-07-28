@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 9 de abril de 1967 | Primer vuelo del Boeing 737"
+title: "9 de abril de 1967 | Primer vuelo del Boeing 737"
 date: 1967-04-09
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Boeing Commercial Airplanes

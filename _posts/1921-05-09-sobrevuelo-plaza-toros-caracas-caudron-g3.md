@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 9 de mayo de 1921 | Sobrevuelo de la Plaza de Toros de Caracas por tres aviones Caudron G-3"
+title: "9 de mayo de 1921 | Sobrevuelo de la Plaza de Toros de Caracas por tres aviones Caudron G-3"
 date: 1921-05-09
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Escuela de Aviación Militar de Venezuela

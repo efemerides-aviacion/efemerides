@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 28 de abril de 1988 | Accidente del Vuelo 243 de Aloha Airlines"
+title: "28 de abril de 1988 | Accidente del Vuelo 243 de Aloha Airlines"
 date: 1988-04-28
 categories: [aviacion-accidente]
 author: Enrique Pomares

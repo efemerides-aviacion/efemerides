@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 2 de enero de 1974 | Inauguración de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela"
+title: "2 de enero de 1974 | Inauguración de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela"
 date: 1974-01-02
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: [Enrique Pomares]
 pais: Venezuela
 operator: Fuerza Aérea Venezolana

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 19 de abril de 1908 | Nacimiento de Jesús Enrique Zafrané Romero"
+title: "19 de abril de 1908 | Nacimiento de Jesús Enrique Zafrané Romero"
 date: 1908-04-19
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Aviación Militar Venezolana

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 3 de marzo de 2005 | Virgin Atlantic GlobalFlyer"
+title: "3 de marzo de 2005 | Virgin Atlantic GlobalFlyer"
 date: 2005-03-03
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Virgin Atlantic / Scaled Composites

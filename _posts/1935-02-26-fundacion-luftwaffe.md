@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 26 de febrero de 1935 | Fundación de la Luftwaffe"
+title: "26 de febrero de 1935 | Fundación de la Luftwaffe"
 date: 1935-02-26
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Alemania
 operator: Luftwaffe

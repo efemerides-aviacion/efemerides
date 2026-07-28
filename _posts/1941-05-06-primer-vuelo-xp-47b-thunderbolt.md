@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 6 de mayo de 1941 | Primer vuelo del prototipo XP-47B Thunderbolt"
+title: "6 de mayo de 1941 | Primer vuelo del prototipo XP-47B Thunderbolt"
 date: 1941-05-06
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Republic Aviation Corporation / U.S. Army Air Forces

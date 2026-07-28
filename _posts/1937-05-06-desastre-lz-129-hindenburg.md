@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 6 de mayo de 1937 | Desastre del LZ 129 Hindenburg"
+title: "6 de mayo de 1937 | Desastre del LZ 129 Hindenburg"
 date: 1937-05-06
 categories: [aviacion-accidente]
 author: Enrique Pomares

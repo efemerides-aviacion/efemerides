@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 26 de enero de 1892 | Bessie Coleman"
+title: "26 de enero de 1892 | Bessie Coleman"
 date: 1892-01-26
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: —

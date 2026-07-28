@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 23 de febrero de 1909 | John A. D. McCurdy realiza el primer vuelo motorizado en Canadá con el Silver Dart"
+title: "23 de febrero de 1909 | John A. D. McCurdy realiza el primer vuelo motorizado en Canadá con el Silver Dart"
 date: 1909-02-23
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Canadá
 operator: John A. D. McCurdy / Aerial Experiment Association

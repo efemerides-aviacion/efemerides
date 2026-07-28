@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 8 de diciembre de 1965 | Primer vuelo del avión artesanal Boconó I en Venezuela"
+title: "8 de diciembre de 1965 | Primer vuelo del avión artesanal Boconó I en Venezuela"
 date: 1965-12-08
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: José Vicente Zambrano

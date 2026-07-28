@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 8 de mayo de 1927 | Desaparición del biplano L’Oiseau Blanc"
+title: "8 de mayo de 1927 | Desaparición del biplano L’Oiseau Blanc"
 date: 1927-05-08
 categories: [aviacion-accidente]
 author: Enrique Pomares

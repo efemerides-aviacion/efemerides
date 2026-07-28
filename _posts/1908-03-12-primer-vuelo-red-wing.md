@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 12 de marzo de 1908 | Primer vuelo del AEA Red Wing"
+title: "12 de marzo de 1908 | Primer vuelo del AEA Red Wing"
 date: 1908-03-12
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Aerial Experiment Association (AEA)

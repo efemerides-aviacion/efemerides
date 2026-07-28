@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 10 de febrero de 1926 | Vuelo histórico del hidroavión Plus Ultra"
+title: "10 de febrero de 1926 | Vuelo histórico del hidroavión Plus Ultra"
 date: 1926-02-10
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: España / Argentina
 operator: Aeronáutica Militar Española

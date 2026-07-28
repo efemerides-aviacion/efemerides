@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 9 de enero de 1793 | Primer vuelo en globo en Estados Unidos"
+title: "9 de enero de 1793 | Primer vuelo en globo en Estados Unidos"
 date: 1793-01-09
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Jean-Pierre Blanchard

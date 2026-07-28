@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 20 de abril de 1916 | Fundación de la Escuadrilla Lafayette"
+title: "20 de abril de 1916 | Fundación de la Escuadrilla Lafayette"
 date: 1916-04-20
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Francia / Estados Unidos
 operator: Aéronautique Militaire (Francia)

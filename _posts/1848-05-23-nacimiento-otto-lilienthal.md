@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 23 de mayo de 1848 | Nacimiento de Otto Lilienthal, pionero de la aviación"
+title: "23 de mayo de 1848 | Nacimiento de Otto Lilienthal, pionero de la aviación"
 date: 1848-05-23
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Alemania (Reino de Prusia)
 operator: N/A (pionero independiente)

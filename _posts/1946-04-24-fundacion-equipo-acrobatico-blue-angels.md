@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 24 de abril de 1946 | Fundación del equipo acrobático Blue Angels"
+title: "24 de abril de 1946 | Fundación del equipo acrobático Blue Angels"
 date: 1946-04-24
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Armada de los Estados Unidos (US Navy)

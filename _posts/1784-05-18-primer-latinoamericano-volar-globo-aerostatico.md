@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 18 de mayo de 1784 | José María Alfaro, primer latinoamericano en volar en globo aerostático"
+title: "18 de mayo de 1784 | José María Alfaro, primer latinoamericano en volar en globo aerostático"
 date: 1784-05-18
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: México (Nueva España)
 operator: Aviación civil (pionero)

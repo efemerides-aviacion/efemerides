@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 27 de febrero de 1885 | Theodore Gordon Ellyson"
+title: "27 de febrero de 1885 | Theodore Gordon Ellyson"
 date: 1885-02-27
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: US Navy

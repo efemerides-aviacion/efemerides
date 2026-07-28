@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 12 de abril de 1961 | Yuri Gagarin, primer humano en orbitar la Tierra"
+title: "12 de abril de 1961 | Yuri Gagarin, primer humano en orbitar la Tierra"
 date: 1961-04-12
-categories: [aviacion-espacial]
+categories: [espacial]
 author: Enrique Pomares
 pais: Unión Soviética
 operator: Programa Espacial Soviético (OKB-1)

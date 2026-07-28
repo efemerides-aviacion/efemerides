@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 27 de noviembre de 1962 | Presentación pública del Boeing 727"
+title: "27 de noviembre de 1962 | Presentación pública del Boeing 727"
 date: 1962-11-27
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Boeing / United Airlines

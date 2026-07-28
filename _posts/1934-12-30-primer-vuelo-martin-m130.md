@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 30 de diciembre de 1934 |Primer vuelo del Martin M-130"
+title: "30 de diciembre de 1934 |Primer vuelo del Martin M-130"
 date: 1934-12-30
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Pan American Airways

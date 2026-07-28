@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 21 de marzo de 2022 | Vuelo 5735 de China Eastern Airlines"
+title: "21 de marzo de 2022 | Vuelo 5735 de China Eastern Airlines"
 date: 2022-03-21
 categories: [aviacion-accidente]
 author: Enrique Pomares

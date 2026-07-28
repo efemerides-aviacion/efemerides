@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 7 de diciembre de 1944 | Fundación de la OACI mediante el Convenio de Chicago"
+title: "7 de diciembre de 1944 | Fundación de la OACI mediante el Convenio de Chicago"
 date: 1944-12-07
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Organización de Aviación Civil Internacional (OACI)

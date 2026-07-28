@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 12 de mayo de 1930 | Primera comunicación aire-tierra en la Aviación Militar Venezolana"
+title: "12 de mayo de 1930 | Primera comunicación aire-tierra en la Aviación Militar Venezolana"
 date: 1930-05-12
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Aviación Militar Venezolana / Escuela de Aviación Militar (EAM)

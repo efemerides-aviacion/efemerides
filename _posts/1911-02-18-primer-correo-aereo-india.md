@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 18 de febrero de 1911 | Primer transporte oficial de correo aéreo en India"
+title: "18 de febrero de 1911 | Primer transporte oficial de correo aéreo en India"
 date: 1911-02-18
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: India
 operator: Humber-Sommer biplano / Henri Pequet

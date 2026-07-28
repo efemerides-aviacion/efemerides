@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 12 de febrero de 1962 | Hallazgo del aviador Bill Lancaster en el Sahara"
+title: "12 de febrero de 1962 | Hallazgo del aviador Bill Lancaster en el Sahara"
 date: 1962-02-12
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Australia / Reino Unido / Argelia
 operator: [Bill Lancaster]

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 26 de mayo de 1969 | Apolo 10 establece récord Guinness de velocidad tripulada"
+title: "26 de mayo de 1969 | Apolo 10 establece récord Guinness de velocidad tripulada"
 date: 1969-05-26
-categories: [aviacion-espacial]
+categories: [espacial]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA

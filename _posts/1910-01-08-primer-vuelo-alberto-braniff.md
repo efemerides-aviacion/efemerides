@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 8 de enero de 1910 | Primer vuelo de Alberto Braniff en México"
+title: "8 de enero de 1910 | Primer vuelo de Alberto Braniff en México"
 date: 1910-01-08
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: México
 operator: Alberto Braniff

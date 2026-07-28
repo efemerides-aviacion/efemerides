@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 2 de abril de 1982 | Operación Aries 82"
+title: "2 de abril de 1982 | Operación Aries 82"
 date: 1982-04-02
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Argentina
 operator: Fuerza Aérea Argentina

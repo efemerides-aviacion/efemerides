@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 7 de febrero de 1959 | Vuelo ininterrumpido de 64 días en Cessna 172"
+title: "7 de febrero de 1959 | Vuelo ininterrumpido de 64 días en Cessna 172"
 date: 1959-02-07
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Hacienda Hotel / Cessna Aircraft

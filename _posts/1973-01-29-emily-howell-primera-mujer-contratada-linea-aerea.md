@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 29 de enero de 1973 | Emily Howell Warner, primera mujer en ser contratada por una aerolínea comercial"
+title: "29 de enero de 1973 | Emily Howell Warner, primera mujer en ser contratada por una aerolínea comercial"
 date: 1973-01-29
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Frontier Airlines

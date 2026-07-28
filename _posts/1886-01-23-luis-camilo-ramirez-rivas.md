@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 23 de enero de 1886 | Luis Camilo Ramírez Rivas"
+title: "23 de enero de 1886 | Luis Camilo Ramírez Rivas"
 date: 1886-01-23
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: [Enrique Pomares]
 pais: Venezuela
 operator: —

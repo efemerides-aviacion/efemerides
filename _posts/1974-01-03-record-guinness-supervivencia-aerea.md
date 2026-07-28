@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 3 de enero de 1974 | Récord Guinness de supervivencia aérea"
+title: "3 de enero de 1974 | Récord Guinness de supervivencia aérea"
 date: 1974-01-03
-categories: [aviacion-supervivencia]
+categories: [supervivencia]
 author: Enrique Pomares
 pais: Yugoslavia
 excerpt: "Auxiliar de a bordo y única superviviente del vuelo JAT 367 en 1972. Récord Guinness por sobrevivir a la caída libre más alta sin paracaídas."

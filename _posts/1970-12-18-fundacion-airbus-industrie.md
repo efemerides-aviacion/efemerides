@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 18 de diciembre de 1970 | Fundación de Airbus Industrie (GIE)"
+title: "18 de diciembre de 1970 | Fundación de Airbus Industrie (GIE)"
 date: 1970-12-18
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Francia / Alemania / España / Reino Unido
 operator: Airbus Industrie

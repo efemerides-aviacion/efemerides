@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 29 de abril de 1964 | Primer vuelo comercial del Vickers VC-10 de BOAC entre Londres y Lagos"
+title: "29 de abril de 1964 | Primer vuelo comercial del Vickers VC-10 de BOAC entre Londres y Lagos"
 date: 1964-04-29
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido / Nigeria
 operator: British Overseas Airways Corporation (BOAC)

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 9 de febrero de 1969 | Primer vuelo del Boeing 747"
+title: "9 de febrero de 1969 | Primer vuelo del Boeing 747"
 date: 1969-02-09
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Boeing

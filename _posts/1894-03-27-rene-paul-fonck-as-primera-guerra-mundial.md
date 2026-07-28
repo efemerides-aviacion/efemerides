@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 27 de marzo de 1894 | René Paul Fonck"
+title: "27 de marzo de 1894 | René Paul Fonck"
 date: 1894-03-27
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Francia
 operator: Aéronautique Militaire (Francia)

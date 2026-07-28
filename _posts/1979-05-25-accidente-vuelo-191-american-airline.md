@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 25 de mayo de 1979 | La tragedia del vuelo 191 de American Airlines en Chicago"
+title: "25 de mayo de 1979 | La tragedia del vuelo 191 de American Airlines en Chicago"
 date: 1979-05-25
 categories: [aviacion-accidente]
 author: Enrique Pomares

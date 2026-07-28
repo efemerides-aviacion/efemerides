@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 21 de febrero de 2008 | Accidente del vuelo 518 de Santa Bárbara Airlines"
+title: "21 de febrero de 2008 | Accidente del vuelo 518 de Santa Bárbara Airlines"
 date: 2008-02-21
 categories: [aviacion-accidente]
 author: Enrique Pomares

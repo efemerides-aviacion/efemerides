@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 31 de diciembre de 1938 | Primer vuelo del Boeing B-307 Stratoliner (C-75)"
+title: "31 de diciembre de 1938 | Primer vuelo del Boeing B-307 Stratoliner (C-75)"
 date: 1938-12-31
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos (USA)
 operator: Boeing

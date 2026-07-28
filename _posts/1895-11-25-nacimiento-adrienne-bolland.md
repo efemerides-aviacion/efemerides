@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 25 de noviembre de 1895 | Nacimiento de Adrienne Bolland"
+title: "25 de noviembre de 1895 | Nacimiento de Adrienne Bolland"
 date: 1895-11-25
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Francia
 excerpt: "Adrienne Bolland, pionera de la aviación mundial, primera mujer piloto de pruebas en Caudron y primera en cruzar los Andes."

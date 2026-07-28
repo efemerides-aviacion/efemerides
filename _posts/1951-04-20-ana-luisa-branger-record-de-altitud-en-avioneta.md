@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 20 de abril de 1951 | Ana Luisa Branger establece récord mundial de altitud en avioneta"
+title: "20 de abril de 1951 | Ana Luisa Branger establece récord mundial de altitud en avioneta"
 date: 1951-04-20
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Venezuela / Estados Unidos
 operator: Aviación civil

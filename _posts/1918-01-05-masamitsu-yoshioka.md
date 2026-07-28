@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 5 de enero de 1918 | Masamitsu Yoshioka"
+title: "5 de enero de 1918 | Masamitsu Yoshioka"
 date: 1918-01-05
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: [Enrique Pomares]
 pais: [Japón]
 excerpt: "Navegante del torpedero Nakajima B5N 'Kate' desde el portaaviones Sōryū en Pearl Harbor; último superviviente japonés del ataque (1918–2024)."

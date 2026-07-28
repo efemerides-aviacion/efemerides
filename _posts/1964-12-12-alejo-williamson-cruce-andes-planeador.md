@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 12 de diciembre de 1964 | Cruce de los Andes en planeador por Alejo Williamson"
+title: "12 de diciembre de 1964 | Cruce de los Andes en planeador por Alejo Williamson"
 date: 1964-12-12
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Chile / Argentina
 operator: Vuelo civil – Reserva FACh

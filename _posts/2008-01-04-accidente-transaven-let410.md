@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 4 de enero de 2008 | Accidente del Let L-410 YV2081 de Transaven en Los Roques"
+title: "4 de enero de 2008 | Accidente del Let L-410 YV2081 de Transaven en Los Roques"
 date: 2008-01-04
 categories: [aviacion-accidente]
 author: Enrique Pomares

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 14 de abril de 1975 | Fundación del Grupo Aéreo de Operaciones Especiales N° 15 (GAOE N° 15)"
+title: "14 de abril de 1975 | Fundación del Grupo Aéreo de Operaciones Especiales N° 15 (GAOE N° 15)"
 date: 1975-04-14
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Venezuela
 operator: Fuerza Aérea Venezolana / Aviación Militar Bolivariana

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 13 de febrero de 1937 | Guillermo Tamayo Rivero, primer piloto privado de Venezuela"
+title: "13 de febrero de 1937 | Guillermo Tamayo Rivero, primer piloto privado de Venezuela"
 date: 1937-02-13
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Guillermo Tamayo Rivero

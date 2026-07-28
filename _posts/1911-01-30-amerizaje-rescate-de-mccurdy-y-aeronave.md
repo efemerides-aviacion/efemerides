@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 30 de enero de 1911 | Amerizaje y rescate de J.A.D. McCurdy en el mar"
+title: "30 de enero de 1911 | Amerizaje y rescate de J.A.D. McCurdy en el mar"
 date: 1911-01-30
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos / Cuba
 operator: J.A.D. McCurdy / Curtiss

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 6 de febrero de 1910 | Primer vuelo oficial en Argentina y Sudamérica"
+title: "6 de febrero de 1910 | Primer vuelo oficial en Argentina y Sudamérica"
 date: 1910-02-06
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Argentina
 operator: Aero Club Argentino

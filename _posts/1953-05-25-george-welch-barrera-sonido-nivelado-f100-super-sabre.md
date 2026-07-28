@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 25 de mayo de 1953 | El YF-100A Super Sabre rompe la barrera del sonido en su vuelo inaugural"
+title: "25 de mayo de 1953 | El YF-100A Super Sabre rompe la barrera del sonido en su vuelo inaugural"
 date: 1953-05-25
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: North American Aviation / Fuerza Aérea de los Estados Unidos (USAF)

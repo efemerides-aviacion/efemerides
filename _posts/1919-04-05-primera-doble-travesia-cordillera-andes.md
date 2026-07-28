@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 5 de abril de 1919 | Primera doble travesía de la Cordillera de los Andes"
+title: "5 de abril de 1919 | Primera doble travesía de la Cordillera de los Andes"
 date: 1919-04-05
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Chile
 operator: Servicio de Aviación Militar de Chile (preexistente de la FACh)

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 29 de mayo de 1940 | Primer vuelo del prototipo Vought XF4U-1 Corsair"
+title: "29 de mayo de 1940 | Primer vuelo del prototipo Vought XF4U-1 Corsair"
 date: 1940-05-29
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Vought-Sikorsky Aircraft Division (prototipo) / Armada de los Estados Unidos

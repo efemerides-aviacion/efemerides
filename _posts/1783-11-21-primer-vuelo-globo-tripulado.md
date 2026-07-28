@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 21 de noviembre de 1783 | Primer vuelo tripulado en globo aerostático"
+title: "21 de noviembre de 1783 | Primer vuelo tripulado en globo aerostático"
 date: 1783-11-21
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Francia
 operator: Hermanos Montgolfier

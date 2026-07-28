@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 27 de enero de 1969 | Accidente del Canberra MK‑8 de la FAV"
+title: "27 de enero de 1969 | Accidente del Canberra MK‑8 de la FAV"
 date: 1969-01-27
 categories: [aviacion-accidente]
 author: [Enrique Pomares]

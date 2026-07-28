@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 29 de marzo de 1912 | Hanna Reitsch"
+title: "29 de marzo de 1912 | Hanna Reitsch"
 date: 1912-03-29
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Alemania
 operator: Luftwaffe / Deutsche Forschungsanstalt für Segelflug (DFS)

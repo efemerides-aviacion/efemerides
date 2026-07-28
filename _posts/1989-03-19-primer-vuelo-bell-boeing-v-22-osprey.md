@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 19 de marzo de 1989 | Primer vuelo del Bell-Boeing V-22 Osprey"
+title: "19 de marzo de 1989 | Primer vuelo del Bell-Boeing V-22 Osprey"
 date: 1989-03-19
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Bell Helicopter / Boeing

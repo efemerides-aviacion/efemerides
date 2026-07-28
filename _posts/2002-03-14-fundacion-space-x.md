@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 14 de marzo de 2002 | Fundación de SpaceX"
+title: "14 de marzo de 2002 | Fundación de SpaceX"
 date: 2002-03-14
 categories: [aeroespacial-fundacion]
 author: Enrique Pomares

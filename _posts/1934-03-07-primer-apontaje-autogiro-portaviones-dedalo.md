@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 7 de marzo de 1934 | Primer apontaje de un autogiro en el portahidroaviones Dédalo"
+title: "7 de marzo de 1934 | Primer apontaje de un autogiro en el portahidroaviones Dédalo"
 date: 1934-03-07
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: España
 operator: Armada Española

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 15 de diciembre de 2006 | Primer vuelo del Lockheed Martin F-35 Lightning II"
+title: "15 de diciembre de 2006 | Primer vuelo del Lockheed Martin F-35 Lightning II"
 date: 2006-12-15
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Lockheed Martin (con participación de Northrop Grumman, BAE Systems y aliados internacionales)

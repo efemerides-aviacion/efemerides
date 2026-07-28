@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 31 de enero de 1923 | Primer circuito cerrado del autogiro Cierva C.4"
+title: "31 de enero de 1923 | Primer circuito cerrado del autogiro Cierva C.4"
 date: 1923-01-31
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: España
 operator: Juan de la Cierva / Ejército del Aire

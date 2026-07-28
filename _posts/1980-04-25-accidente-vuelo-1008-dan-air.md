@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 25 de abril de 1980 | Accidente del Vuelo 1008 de Dan Air"
+title: "25 de abril de 1980 | Accidente del Vuelo 1008 de Dan Air"
 date: 1980-04-25
 categories: [aviacion-accidente]
 author: Enrique Pomares

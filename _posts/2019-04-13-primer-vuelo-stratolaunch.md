@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 13 de abril de 2019 | Primer vuelo del Stratolaunch"
+title: "13 de abril de 2019 | Primer vuelo del Stratolaunch"
 date: 2019-04-13
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Stratolaunch Systems

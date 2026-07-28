@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 31 de marzo de 1913 | Maria Josep Colomer"
+title: "31 de marzo de 1913 | Maria Josep Colomer"
 date: 1913-03-31
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: España
 operator: Fuerzas Aéreas de la República Española (FARE)

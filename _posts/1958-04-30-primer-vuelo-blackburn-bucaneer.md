@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 30 de abril de 1958 | Primer vuelo del Blackburn Buccaneer"
+title: "30 de abril de 1958 | Primer vuelo del Blackburn Buccaneer"
 date: 1958-04-30
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: Blackburn Aircraft Limited / Royal Navy

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 23 de diciembre de 1986 | Primer vuelo alrededor del mundo sin escalas ni reabastecimiento"
+title: "23 de diciembre de 1986 | Primer vuelo alrededor del mundo sin escalas ni reabastecimiento"
 date: 1986-12-23
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Experimental – Rutan Voyager Project

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 25 de marzo de 2022 | Primer vuelo del Airbus A380 con 100% SAF"
+title: "25 de marzo de 2022 | Primer vuelo del Airbus A380 con 100% SAF"
 date: 2022-03-25
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Francia
 operator: Airbus

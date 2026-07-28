@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 14 de enero de 1981 | Escuadrilla de Alta Acrobacia Halcones de Chile"
+title: "14 de enero de 1981 | Escuadrilla de Alta Acrobacia Halcones de Chile"
 date: 1981-01-14
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Chile
 operator: Fuerza Aérea de Chile (FACh)

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 26 de enero de 1946 | Primer récord transcontinental en jet de William Councill"
+title: "26 de enero de 1946 | Primer récord transcontinental en jet de William Councill"
 date: 1946-01-26
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: USAAF / USAF

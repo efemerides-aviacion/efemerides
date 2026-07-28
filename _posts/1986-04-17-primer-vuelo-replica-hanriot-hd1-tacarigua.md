@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 17 de abril de 1986 | Primer vuelo oficial del Hanriot HD-1 'Tacarigua'"
+title: "17 de abril de 1986 | Primer vuelo oficial del Hanriot HD-1 'Tacarigua'"
 date: 1986-04-17
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Escuela Técnica de la Fuerza Aérea Venezolana

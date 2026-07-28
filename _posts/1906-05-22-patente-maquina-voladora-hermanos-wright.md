@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 22 de mayo de 1906 | Patente de la 'máquina voladora' de los hermanos Wright"
+title: "22 de mayo de 1906 | Patente de la 'máquina voladora' de los hermanos Wright"
 date: 1906-05-22
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: N/A (inventores independientes)

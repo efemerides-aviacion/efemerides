@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 14 de mayo de 1908 | Charles Furnas, primer pasajero en un avión"
+title: "14 de mayo de 1908 | Charles Furnas, primer pasajero en un avión"
 date: 1908-05-14
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Wright Brothers

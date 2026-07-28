@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 10 de febrero de 1955 | Primeros pilotos militares venezolanos en romper la barrera del sonido"
+title: "10 de febrero de 1955 | Primeros pilotos militares venezolanos en romper la barrera del sonido"
 date: 1955-02-10
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Fuerza Aérea Venezolana / USAF

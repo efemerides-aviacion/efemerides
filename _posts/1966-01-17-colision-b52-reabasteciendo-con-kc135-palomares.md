@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 17 de enero de 1966 | Colisión en maniobra de reabastecimiento entre un B-52G y un KC-135 sobre Palomares"
+title: "17 de enero de 1966 | Colisión en maniobra de reabastecimiento entre un B-52G y un KC-135 sobre Palomares"
 date: 1966-01-17
 categories: [aviacion-accidente]
 author: [Enrique Pomares]

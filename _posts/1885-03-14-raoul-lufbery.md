@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 14 de marzo de 1885 | Raoul Lufbery"
+title: "14 de marzo de 1885 | Raoul Lufbery"
 date: 1885-03-14
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Francia / Estados Unidos
 excerpt: "Piloto franco-estadounidense, miembro legendario de la Escadrille Lafayette durante la Primera Guerra Mundial, con 17 victorias aéreas confirmadas que lo convierten en uno de los primeros ases estadounidenses. Su transición de mecánico a piloto y su mentoría a pilotos como Eddie Rickenbacker marcan su legado en la aviación militar."

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 6 de marzo de 1964 | Primer vuelo del MiG-25 Foxbat"
+title: "6 de marzo de 1964 | Primer vuelo del MiG-25 Foxbat"
 date: 1964-03-06
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Unión Soviética
 operator: Mikoyan-Gurevich Design Bureau

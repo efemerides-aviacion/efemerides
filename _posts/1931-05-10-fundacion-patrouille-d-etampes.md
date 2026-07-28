@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 10 de mayo de 1931 | Fundación de la Patrouille d’Étampes, antecesora de la Patrouille de France"
+title: "10 de mayo de 1931 | Fundación de la Patrouille d’Étampes, antecesora de la Patrouille de France"
 date: 1931-05-10
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Francia
 operator: Ejército del Aire Francés (Armée de l'Air)

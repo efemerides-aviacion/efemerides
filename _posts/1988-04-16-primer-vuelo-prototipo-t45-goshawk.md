@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 16 de abril de 1988 | Primer vuelo del prototipo McDonnell Douglas T-45 Goshawk"
+title: "16 de abril de 1988 | Primer vuelo del prototipo McDonnell Douglas T-45 Goshawk"
 date: 1988-04-16
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos / Reino Unido
 operator: McDonnell Douglas / British Aerospace (prototipo) / Armada de los Estados Unidos

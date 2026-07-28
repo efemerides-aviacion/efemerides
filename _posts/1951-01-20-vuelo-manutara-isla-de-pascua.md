@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 19 y 20 de enero de 1951 | Vuelo histórico del Manutara a Isla de Pascua"
+title: "19 y 20 de enero de 1951 | Vuelo histórico del Manutara a Isla de Pascua"
 date: 1951-01-20
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Chile
 operator: Fuerza Aérea de Chile (FACh)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 3 de marzo de 1974 | Vuelo 981 de Turkish Airlines"
+title: "3 de marzo de 1974 | Vuelo 981 de Turkish Airlines"
 date: 1974-03-03
 categories: [aviacion-accidente]
 author: Enrique Pomares

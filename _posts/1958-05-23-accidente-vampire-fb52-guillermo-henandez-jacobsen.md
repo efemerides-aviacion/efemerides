@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 23 de mayo de 1958 | Fallece el Capitán Luis Guillermo Hernández Jacobsen en accidente con Vampire FB.52"
+title: "23 de mayo de 1958 | Fallece el Capitán Luis Guillermo Hernández Jacobsen en accidente con Vampire FB.52"
 date: 1958-05-23
 categories: [aviacion-accidente]
 author: Enrique Pomares

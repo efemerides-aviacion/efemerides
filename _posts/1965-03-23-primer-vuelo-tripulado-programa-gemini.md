@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 23 de marzo de 1965 | Gemini 3: primer vuelo tripulado del programa Gemini"
+title: "23 de marzo de 1965 | Gemini 3: primer vuelo tripulado del programa Gemini"
 date: 1965-03-23
 categories: [espacial-evento]
 author: Enrique Pomares

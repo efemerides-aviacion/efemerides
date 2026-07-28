@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 28 de marzo de 1899 | Gladys Ingle"
+title: "28 de marzo de 1899 | Gladys Ingle"
 date: 1899-03-28
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: 13 Black Cats

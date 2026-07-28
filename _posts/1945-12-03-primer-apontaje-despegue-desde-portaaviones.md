@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 3 de diciembre de 1945 | Primer apontaje y despegue de un avión a reacción en portaaviones"
+title: "3 de diciembre de 1945 | Primer apontaje y despegue de un avión a reacción en portaaviones"
 date: 1945-12-03
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: Royal Navy

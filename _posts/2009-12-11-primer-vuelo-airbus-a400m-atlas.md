@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 11 de diciembre de 2009 | Primer vuelo del Airbus A400M Atlas"
+title: "11 de diciembre de 2009 | Primer vuelo del Airbus A400M Atlas"
 date: 2009-12-11
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: España / Europa (programa multinacional)
 operator: Airbus Military (hoy Airbus Defence and Space)

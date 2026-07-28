@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 16 de mayo de 1958 | Récord mundial de velocidad del Lockheed F-104 Starfighter"
+title: "16 de mayo de 1958 | Récord mundial de velocidad del Lockheed F-104 Starfighter"
 date: 1958-05-16
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Fuerza Aérea de los Estados Unidos (USAF)

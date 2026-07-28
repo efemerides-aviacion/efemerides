@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 8 de febrero de 1933 | Primer vuelo del Boeing 247"
+title: "8 de febrero de 1933 | Primer vuelo del Boeing 247"
 date: 1933-02-08
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Boeing / United Air Lines

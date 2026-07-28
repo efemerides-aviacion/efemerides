@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 24 de mayo de 1930 | Amy Johnson completa el primer vuelo en solitario Inglaterra-Australia"
+title: "24 de mayo de 1930 | Amy Johnson completa el primer vuelo en solitario Inglaterra-Australia"
 date: 1930-05-24
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: N/A (aviadora independiente)

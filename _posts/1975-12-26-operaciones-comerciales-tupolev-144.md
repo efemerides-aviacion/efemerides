@@ -5,7 +5,7 @@ date: 1975-12-26
 author: Enrique Pomares
 operator: Aeroflot
 pais: Rusia / Unión Soviética
-categories: [aviacion-evento]
+categories: [evento]
 excerpt: El Tupolev Tu-144 se convirtió en el primer avión supersónico de pasajeros en iniciar operaciones comerciales regulares el 26 de diciembre de 1975.
 image: 1975-12-26-operaciones-comerciales-tupolev-144.webp
 ---

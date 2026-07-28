@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 13 de mayo de 1913 | Primer vuelo del Russky Vityaz, el primer cuatrimotor del mundo"
+title: "13 de mayo de 1913 | Primer vuelo del Russky Vityaz, el primer cuatrimotor del mundo"
 date: 1913-05-13
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Imperio Ruso
 operator: Russian Baltic Railroad Car Works (Russo-Baltiiskyi Vagonnyi Zavod)

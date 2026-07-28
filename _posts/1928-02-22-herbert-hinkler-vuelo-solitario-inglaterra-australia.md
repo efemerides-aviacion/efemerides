@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 22 de febrero de 1928 | Bert Hinkler, primer vuelo en solitario Inglaterra–Australia"
+title: "22 de febrero de 1928 | Bert Hinkler, primer vuelo en solitario Inglaterra–Australia"
 date: 1928-02-22
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Australia
 operator: Bert Hinkler

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 20 de mayo de 1916 | Nacimiento de Alekséi Marésiev, el 'Hombre de Verdad' soviético"
+title: "20 de mayo de 1916 | Nacimiento de Alekséi Marésiev, el 'Hombre de Verdad' soviético"
 date: 1916-05-20
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Rusia
 operator: Fuerza Aérea Soviética

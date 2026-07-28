@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 4 de abril de 1968 | Lanzamiento de la misión no tripulada Apolo 6 (Saturn V AS-502)"
+title: "4 de abril de 1968 | Lanzamiento de la misión no tripulada Apolo 6 (Saturn V AS-502)"
 date: 1968-04-04
-categories: [aviacion-espacial]
+categories: [espacial]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA – Programa Apolo

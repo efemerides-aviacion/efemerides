@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 23 de enero de 1997 | Último vuelo de Viasa y cese de operaciones"
+title: "23 de enero de 1997 | Último vuelo de Viasa y cese de operaciones"
 date: 1997-01-23
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Viasa (Venezolana Internacional de Aviación Sociedad Anónima)

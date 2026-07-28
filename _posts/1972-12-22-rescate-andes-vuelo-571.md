@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 22 de diciembre de 1972 | Rescate sobrevivientes del Vuelo 571 en Los Andes"
+title: "22 de diciembre de 1972 | Rescate sobrevivientes del Vuelo 571 en Los Andes"
 date: 1972-12-22
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Uruguay / Chile / Argentina
 operator: Fuerza Aérea Chilena (SAR)

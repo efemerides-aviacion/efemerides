@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 10 de marzo de 1959 | Primer vuelo del Northrop T-38 Talon"
+title: "10 de marzo de 1959 | Primer vuelo del Northrop T-38 Talon"
 date: 1959-03-10
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Fuerza Aérea de los Estados Unidos (USAF)

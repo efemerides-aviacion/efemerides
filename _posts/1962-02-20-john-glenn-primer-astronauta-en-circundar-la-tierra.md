@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 20 de febrero de 1962 | John Glenn, primer estadounidense en orbitar la Tierra"
+title: "20 de febrero de 1962 | John Glenn, primer estadounidense en orbitar la Tierra"
 date: 1962-02-20
-categories: [aviacion-espacial]
+categories: [espacial]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: NASA – Proyecto Mercury

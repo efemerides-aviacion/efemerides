@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 17 de diciembre de 1913 | Primer bombardeo aéreo militar español en Marruecos"
+title: "17 de diciembre de 1913 | Primer bombardeo aéreo militar español en Marruecos"
 date: 1913-12-17
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: España
 operator: Aeronáutica Militar Española

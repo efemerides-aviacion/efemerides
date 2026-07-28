@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 8 de marzo de 2014 | Vuelo MH370 de Malaysia Airlines"
+title: "8 de marzo de 2014 | Vuelo MH370 de Malaysia Airlines"
 date: 2014-03-08
 categories: [aviacion-accidente]
 author: Enrique Pomares

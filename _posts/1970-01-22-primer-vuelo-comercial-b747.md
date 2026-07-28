@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 22 de enero de 1970 | Primer vuelo comercial del Boeing 747"
+title: "22 de enero de 1970 | Primer vuelo comercial del Boeing 747"
 date: 1970-01-22
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos / Reino Unido
 operator: Pan American World Airways

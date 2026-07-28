@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 14 de mayo de 1952 | Fundación de la Esquadrilha da Fumaça (Escuadrilla de Humo) de Brasil"
+title: "14 de mayo de 1952 | Fundación de la Esquadrilha da Fumaça (Escuadrilla de Humo) de Brasil"
 date: 1952-05-14
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Brasil
 operator: Força Aérea Brasileira (FAB) (Fuerza Aérea Brasileña)

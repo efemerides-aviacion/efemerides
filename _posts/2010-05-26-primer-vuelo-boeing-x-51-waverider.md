@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 26 de mayo de 2010 | Primer vuelo hipersónico del Boeing X-51 WaveRider"
+title: "26 de mayo de 2010 | Primer vuelo hipersónico del Boeing X-51 WaveRider"
 date: 2010-05-26
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Fuerza Aérea de los Estados Unidos (USAF) / DARPA / NASA

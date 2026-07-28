@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 4 de febrero de 1902 | Charles Lindbergh"
+title: "4 de febrero de 1902 | Charles Lindbergh"
 date: 1902-02-04
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Civil

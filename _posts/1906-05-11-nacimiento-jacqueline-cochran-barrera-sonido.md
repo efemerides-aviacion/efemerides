@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 11 de mayo de 1906 | Nacimiento de Jacqueline Cochran, primera mujer en romper la barrera del sonido"
+title: "11 de mayo de 1906 | Nacimiento de Jacqueline Cochran, primera mujer en romper la barrera del sonido"
 date: 1906-05-11
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Fuerza Aérea de los Estados Unidos (USAF) / Aviación civil

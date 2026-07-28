@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 29 de noviembre de 1952 | Venezuela ratifica el control sobre el Archipiélago Los Monjes"
+title: "29 de noviembre de 1952 | Venezuela ratifica el control sobre el Archipiélago Los Monjes"
 date: 1952-11-29
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: [Venezuela]
 operator: [Fuerza Aérea Venezolana (FAV) / Armada Nacional]

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 13 de mayo de 1943 | Fundación de AVENSA (Aerovías Venezolanas Sociedad Anónima)"
+title: "13 de mayo de 1943 | Fundación de AVENSA (Aerovías Venezolanas Sociedad Anónima)"
 date: 1943-05-13
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Venezuela
 operator: Aerovías Venezolanas Sociedad Anónima (AVENSA)

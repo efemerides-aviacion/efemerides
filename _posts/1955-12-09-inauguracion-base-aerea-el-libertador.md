@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 9 de diciembre de 1955 | Inauguración de la Base Aérea El Libertador"
+title: "9 de diciembre de 1955 | Inauguración de la Base Aérea El Libertador"
 date: 1955-12-09
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Venezuela
 operator: Fuerza Aérea Venezolana

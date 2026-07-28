@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 17 de diciembre de 1903 | El nacimiento de la era aérea: primer vuelo de los hermanos Wright"
+title: "17 de diciembre de 1903 | El nacimiento de la era aérea: primer vuelo de los hermanos Wright"
 date: 1903-12-17
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Hermanos Wright

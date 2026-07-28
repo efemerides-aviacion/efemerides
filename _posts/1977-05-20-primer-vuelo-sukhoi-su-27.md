@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 20 de mayo de 1977 | Primer vuelo del Sukhoi Su-27, el 'Flanker' que desafió al F-15"
+title: "20 de mayo de 1977 | Primer vuelo del Sukhoi Su-27, el 'Flanker' que desafió al F-15"
 date: 1977-05-20
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Rusia
 operator: Unión Soviética / Fuerza Aérea Soviética

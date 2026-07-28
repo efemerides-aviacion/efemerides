@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 3 de abril de 1933 | Primer vuelo sobre el Everest"
+title: "3 de abril de 1933 | Primer vuelo sobre el Everest"
 date: 1933-04-03
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido / India (entonces colonia británica)
 operator: Houston Mount Everest Flying Expedition

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 14 de marzo de 1914 | Leopoldo Morquillas Rubio"
+title: "14 de marzo de 1914 | Leopoldo Morquillas Rubio"
 date: 1914-03-14
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: España / Unión Soviética
 operator: Fuerzas Aéreas de la República Española (FARE) / Fuerza Aérea Soviética (VVS)

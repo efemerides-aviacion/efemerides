@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 18 de febrero de 1977 | Primer vuelo cautivo del Transbordador Espacial Enterprise"
+title: "18 de febrero de 1977 | Primer vuelo cautivo del Transbordador Espacial Enterprise"
 date: 1977-02-18
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA

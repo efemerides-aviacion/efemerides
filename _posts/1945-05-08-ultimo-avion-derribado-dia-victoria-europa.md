@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 8 de mayo de 1945 | Probable último derribo de un avión alemán en el frente occidental durante el VE Day"
+title: "8 de mayo de 1945 | Probable último derribo de un avión alemán en el frente occidental durante el VE Day"
 date: 1945-05-08
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Alemania / Estados Unidos
 operator: Luftwaffe / USAAF

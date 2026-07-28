@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 1 de enero de 1914 | Primera aerolínea regular: St. Petersburg–Tampa Airboat Line"
+title: "1 de enero de 1914 | Primera aerolínea regular: St. Petersburg–Tampa Airboat Line"
 date: 1914-01-01
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: St. Petersburg–Tampa Airboat Line

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 4 de mayo de 1904 | Nacimiento de Joaquín García-Morato, el mayor as de la aviación española"
+title: "4 de mayo de 1904 | Nacimiento de Joaquín García-Morato, el mayor as de la aviación española"
 date: 1904-05-04
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: España
 operator: Aeronáutica Militar / Aviación Nacional

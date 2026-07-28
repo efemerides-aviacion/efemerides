@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 29 de mayo de 1910 | Glenn Curtiss y el vuelo histórico del Albany Flyer"
+title: "29 de mayo de 1910 | Glenn Curtiss y el vuelo histórico del Albany Flyer"
 date: 1910-05-29
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Curtiss Aeroplane and Motor Company

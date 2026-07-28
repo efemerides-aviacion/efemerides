@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 1 de abril de 1935 | Primer vuelo del North American AT-6 Texan"
+title: "1 de abril de 1935 | Primer vuelo del North American AT-6 Texan"
 date: 1935-04-01
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: North American Aviation / USAAC

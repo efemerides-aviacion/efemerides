@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 11 de abril de 1955 | Atentado contra el 'Kashmir Princess'"
+title: "11 de abril de 1955 | Atentado contra el 'Kashmir Princess'"
 date: 1955-04-11
-categories: [aviacion-seguridad]
+categories: [seguridad]
 author: Enrique Pomares
 pais: India
 operator: Air India

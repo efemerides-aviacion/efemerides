@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 19 de febrero de 1982 | Primer vuelo del Boeing 757"
+title: "19 de febrero de 1982 | Primer vuelo del Boeing 757"
 date: 1982-02-19
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Boeing

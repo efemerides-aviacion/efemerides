@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 28 de febrero de 1921 | Pierre Clostermann"
+title: "28 de febrero de 1921 | Pierre Clostermann"
 date: 1921-02-28
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Francia
 operator: RAF / Forces Aériennes Françaises Libres

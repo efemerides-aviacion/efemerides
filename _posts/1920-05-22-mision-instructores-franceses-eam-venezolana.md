@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 22 de mayo de 1920 | Contratación de la misión francesa para la Escuela de Aviación Militar de Venezuela"
+title: "22 de mayo de 1920 | Contratación de la misión francesa para la Escuela de Aviación Militar de Venezuela"
 date: 1920-05-22
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Escuela de Aviación Militar (Ejército Nacional de Venezuela)

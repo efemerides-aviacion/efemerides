@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 27 de abril de 1995 | Declaración del sistema GPS con capacidad operativa plena para uso civil"
+title: "27 de abril de 1995 | Declaración del sistema GPS con capacidad operativa plena para uso civil"
 date: 1995-04-27
-categories: [aviacion-espacial]
+categories: [espacial]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: U.S. Air Force Space Command / Departamento de Defensa de EE. UU.

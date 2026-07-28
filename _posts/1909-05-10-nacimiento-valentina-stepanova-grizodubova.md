@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 10 de mayo de 1909 | Nacimiento de Valentina Grizodúbova, pionera soviética de la aviación"
+title: "10 de mayo de 1909 | Nacimiento de Valentina Grizodúbova, pionera soviética de la aviación"
 date: 1909-05-10
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Imperio Ruso (actual Ucrania)
 operator: Fuerza Aérea Soviética

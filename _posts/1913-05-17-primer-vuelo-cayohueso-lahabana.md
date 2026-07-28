@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 17 de mayo de 1913 | Primer vuelo entre Key West y La Habana"
+title: "17 de mayo de 1913 | Primer vuelo entre Key West y La Habana"
 date: 1913-05-17
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos / Cuba
 operator: Aviación civil

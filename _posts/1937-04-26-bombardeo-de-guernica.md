@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 26 de abril de 1937 | Bombardeo de Guernica"
+title: "26 de abril de 1937 | Bombardeo de Guernica"
 date: 1937-04-26
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: España
 operator: Legión Cóndor (Alemania) / Aviación Legionaria (Italia)

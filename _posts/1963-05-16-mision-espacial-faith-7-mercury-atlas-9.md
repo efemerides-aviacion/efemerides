@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 16 de mayo de 1963 | Finaliza la misión Faith 7, el vuelo más largo del Proyecto Mercury"
+title: "16 de mayo de 1963 | Finaliza la misión Faith 7, el vuelo más largo del Proyecto Mercury"
 date: 1963-05-16
-categories: [aviacion-espacial]
+categories: [espacial]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA

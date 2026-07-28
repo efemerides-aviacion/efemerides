@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 10 de abril de 1963 | Primer vuelo del EWR VJ 101"
+title: "10 de abril de 1963 | Primer vuelo del EWR VJ 101"
 date: 1963-04-10
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Alemania Occidental
 operator: EWR (Entwicklungsring Süd)

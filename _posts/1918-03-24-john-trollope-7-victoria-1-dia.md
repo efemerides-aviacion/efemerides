@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 24 de marzo de 1918 | John Lightfoot Trollope"
+title: "24 de marzo de 1918 | John Lightfoot Trollope"
 date: 1918-03-24
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: Royal Flying Corps / Royal Air Force

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 30 de abril de 1975 | Apontaje del mayor Buang-Ly en el USS Midway"
+title: "30 de abril de 1975 | Apontaje del mayor Buang-Ly en el USS Midway"
 date: 1975-04-30
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos / Vietnam del Sur
 operator: Armada de los Estados Unidos (US Navy) / Fuerza Aérea de Vietnam del Sur (RVNAF)

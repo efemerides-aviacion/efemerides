@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | del 16 al 18 de enero de 1957  | Operación Power Flite"
+title: "del 16 al 18 de enero de 1957  | Operación Power Flite"
 date: 1957-01-18
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: USAF – Strategic Air Command (SAC)

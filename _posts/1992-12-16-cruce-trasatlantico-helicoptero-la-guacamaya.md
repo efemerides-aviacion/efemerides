@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 16 de diciembre de 1992 | Cruce transatlántico en helicóptero 'La Guacamaya'"
+title: "16 de diciembre de 1992 | Cruce transatlántico en helicóptero 'La Guacamaya'"
 date: 1992-12-16
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Venezuela / España
 operator: Fundación Tokoara

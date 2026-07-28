@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 1 de abril de 1921 | Adrienne Bolland cruza los Andes"
+title: "1 de abril de 1921 | Adrienne Bolland cruza los Andes"
 date: 1921-04-01
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Francia / Argentina / Chile
 operator: Société des Avions Caudron

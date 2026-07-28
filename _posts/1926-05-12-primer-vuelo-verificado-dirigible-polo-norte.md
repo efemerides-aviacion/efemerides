@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 12 de mayo de 1926 | Primer vuelo verificado sobre el Polo Norte en dirigible"
+title: "12 de mayo de 1926 | Primer vuelo verificado sobre el Polo Norte en dirigible"
 date: 1926-05-12
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Italia / Noruega / Estados Unidos
 operator: Aero Club de Noruega

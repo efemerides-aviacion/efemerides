@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 25 de febrero de 1965 | Primer vuelo del Douglas DC‑9"
+title: "25 de febrero de 1965 | Primer vuelo del Douglas DC‑9"
 date: 1965-02-25
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Douglas Aircraft Company

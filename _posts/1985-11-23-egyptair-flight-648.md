@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 23 de noviembre de 1985 | Secuestro del Vuelo 648 de EgyptAir"
+title: "23 de noviembre de 1985 | Secuestro del Vuelo 648 de EgyptAir"
 date: 1985-11-23
-categories: [aviacion-seguridad]
+categories: [seguridad]
 author: Enrique Pomares
 pais: Egipto
 operator: EgyptAir

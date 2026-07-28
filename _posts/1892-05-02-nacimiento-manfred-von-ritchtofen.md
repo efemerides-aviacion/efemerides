@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 2 de mayo de 1892 | Nacimiento de Manfred von Richthofen, el Barón Rojo"
+title: "2 de mayo de 1892 | Nacimiento de Manfred von Richthofen, el Barón Rojo"
 date: 1892-05-02
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Alemania
 operator: Luftstreitkräfte (Servicio Aéreo del Ejército Imperial Alemán)

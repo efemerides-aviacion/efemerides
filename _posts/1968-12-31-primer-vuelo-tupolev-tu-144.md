@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 31 de diciembre de 1968 | Primer vuelo del Tupolev Tu-144"
+title: "31 de diciembre de 1968 | Primer vuelo del Tupolev Tu-144"
 date: 1968-12-31
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Unión Soviética
 operator: Aeroflot / Tupolev

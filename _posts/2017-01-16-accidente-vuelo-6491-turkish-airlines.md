@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 16 de enero de 2017 | Accidente del Vuelo 6491 de Turkish Airlines Cargo"
+title: "16 de enero de 2017 | Accidente del Vuelo 6491 de Turkish Airlines Cargo"
 date: 2017-01-16
 categories: [aviacion-accidente]
 author: Enrique Pomares

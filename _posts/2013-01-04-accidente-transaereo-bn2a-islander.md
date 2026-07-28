@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 4 de enero de 2013 | Accidente de Transaereo BN-2A Islander YV2615"
+title: "4 de enero de 2013 | Accidente de Transaereo BN-2A Islander YV2615"
 date: 2013-01-04
 categories: [aviacion-accidente]
 author: Enrique Pomares

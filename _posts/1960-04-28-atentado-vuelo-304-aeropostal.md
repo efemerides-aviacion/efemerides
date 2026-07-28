@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 28 de abril de 1960 | Atentado en el vuelo 304 de Línea Aeropostal Venezolana"
+title: "28 de abril de 1960 | Atentado en el vuelo 304 de Línea Aeropostal Venezolana"
 date: 1960-04-28
-categories: [aviacion-seguridad]
+categories: [seguridad]
 author: Enrique Pomares
 pais: Venezuela
 operator: Línea Aeropostal Venezolana (LAV / Aeropostal)

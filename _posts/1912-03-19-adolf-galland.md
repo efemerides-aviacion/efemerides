@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 19 de marzo de 1912 | Adolf Galland"
+title: "19 de marzo de 1912 | Adolf Galland"
 date: 1912-03-19
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Alemania
 operator: Luftwaffe

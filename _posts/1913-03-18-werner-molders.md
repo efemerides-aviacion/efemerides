@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 18 de marzo de 1913 | Werner Mölders"
+title: "18 de marzo de 1913 | Werner Mölders"
 date: 1913-03-18
-categories: [aviacion-nacimiento]
+categories: [nacimiento]
 author: Enrique Pomares
 pais: Alemania
 operator: Luftwaffe

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 10 de enero de 1954 | Descompresión explosiva del De Havilland Comet de BOAC"
+title: "10 de enero de 1954 | Descompresión explosiva del De Havilland Comet de BOAC"
 date: 1954-01-10
 categories: [aviacion-accidente]
 author: [Enrique Pomares]

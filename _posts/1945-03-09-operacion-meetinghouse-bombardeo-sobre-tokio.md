@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 9 de marzo de 1945 | Operación Meetinghouse, bombardeo sobre Tokio"
+title: "9 de marzo de 1945 | Operación Meetinghouse, bombardeo sobre Tokio"
 date: 1945-03-09
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Japón
 operator: XXI Mando de Bombardeo de la USAAF

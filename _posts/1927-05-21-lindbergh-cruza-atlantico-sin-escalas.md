@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 21 de mayo de 1927 | Lindbergh cruza el Atlántico en solitario sin escalas"
+title: "21 de mayo de 1927 | Lindbergh cruza el Atlántico en solitario sin escalas"
 date: 1927-05-21
-categories: [aviacion-evento]
+categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Ryan Airlines (propiedad privada de Charles Lindbergh)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 18 de enero de 1982 | Tragedia de los Thunderbirds en Indian Springs"
+title: "18 de enero de 1982 | Tragedia de los Thunderbirds en Indian Springs"
 date: 1982-01-18
 categories: [aviacion-accidente]
 author: [Enrique Pomares]

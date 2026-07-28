@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 13 de enero de 1942 | Primera eyección desde un avión"
+title: "13 de enero de 1942 | Primera eyección desde un avión"
 date: 1942-01-13
-categories: [aviacion-evento]
+categories: [evento]
 author: [Enrique Pomares]
 pais: Alemania
 operator: Heinkel Flugzeugwerke

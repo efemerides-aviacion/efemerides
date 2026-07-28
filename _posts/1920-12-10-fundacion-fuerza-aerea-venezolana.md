@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 10 de diciembre de 1920 | Fundación de la Fuerza Aérea Venezolana"
+title: "10 de diciembre de 1920 | Fundación de la Fuerza Aérea Venezolana"
 date: 1920-12-10
-categories: [aviacion-fundacion]
+categories: [fundacion]
 author: Enrique Pomares
 pais: Venezuela
 operator: Escuela de Aviación Militar (origen de la Fuerza Aérea Venezolana)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Efemérides de Aviación | 15 de enero de 2009 | Amerizaje del vuelo 1549 de US Airways en el río Hudson"
+title: "15 de enero de 2009 | Amerizaje del vuelo 1549 de US Airways en el río Hudson"
 date: 2009-01-15
 categories: [aviacion-accidente]
 author: Enrique Pomares
