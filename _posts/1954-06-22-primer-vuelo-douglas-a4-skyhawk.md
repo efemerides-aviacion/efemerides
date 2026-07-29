@@ -87,7 +87,7 @@ El Skyhawk fue apodado «Heinemann's Hot Rod» (El Bólido de Heinemann) por su 
 - **Septiembre de 1956:** Primeras entregas al Escuadrón VA-72 de la Armada de EE. UU. 
 - **1962:** El A4D pasa a denominarse A-4 en el nuevo sistema de designación del Departamento de Defensa 
 - **1964-1973:** El A-4 participa intensamente en la Guerra de Vietnam, siendo el avión naval con más misiones de combate 
-- **1974-1986:** Los A-4 equipan a los <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-fundacion/1946/04/24/fundacion-equipo-acrobatico-blue-angels.html" style="color: #315fea; text-decoration: none;">Blue Angels, el equipo de demostración de la Armada de EE. UU.</a>, en un periodo de 12 años
+- **1974-1986:** Los A-4 equipan a los <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1946/04/24/fundacion-equipo-acrobatico-blue-angels.html" style="color: #315fea; text-decoration: none;">Blue Angels, el equipo de demostración de la Armada de EE. UU.</a>, en un periodo de 12 años
 - **1979:** Cese de la producción; 2.960 unidades construidas 
 - **1998:** Retiro de los Marines de EE. UU. 
 - **2003:** Retiro de la Armada de EE. UU. 
