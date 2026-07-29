@@ -54,7 +54,7 @@ Los dirigibles de la época eran aeronaves más ligeras que el aire, propulsadas
 
 Santos-Dumont era conocido por su carácter abierto y su disposición a compartir sus conocimientos. Fue precisamente esa generosidad la que permitió a Acosta, una joven que había visto dirigibles por primera vez durante su estancia en París, aprender a pilotar y realizar su histórico vuelo.
 
-El vuelo de Acosta ocurrió en un momento de efervescencia en la historia de la aviación. Apenas unos meses después, el 17 de diciembre de 1903, los hermanos Wright lograrían el primer vuelo sostenido y controlado de un avión más pesado que el aire. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">efeméride dedicada al primer vuelo de los hermanos Wright</a> para más detalles sobre aquel hito que transformó para siempre la historia de la humanidad.
+El vuelo de Acosta ocurrió en un momento de efervescencia en la historia de la aviación. Apenas unos meses después, el 17 de diciembre de 1903, los hermanos Wright lograrían el primer vuelo sostenido y controlado de un avión más pesado que el aire. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">efeméride dedicada al primer vuelo de los hermanos Wright</a> para más detalles sobre aquel hito que transformó para siempre la historia de la humanidad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
