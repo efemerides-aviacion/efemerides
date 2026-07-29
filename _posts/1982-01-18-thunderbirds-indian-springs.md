@@ -2,7 +2,7 @@
 layout: post
 title: "18 de enero de 1982 | Tragedia de los Thunderbirds en Indian Springs"
 date: 1982-01-18
-categories: [aviacion-accidente]
+categories: [accidente]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: USAF Thunderbirds
@@ -14,14 +14,14 @@ image: 1982-01-18-thunderbirds-indian-springs.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1982-01-18-thunderbirds-indian-springs.jpg" alt="Formación diamante de los Thunderbirds en T-38A Talon">
   <figcaption class="post-caption">Formación diamante de los Northrop T-38A Talon del equipo acrobático USAF “Thunderbirds” (líder #1, alas #2 y #3, slot #4) en vuelo durante una exhibición de los años setenta u ochenta, antes de la trágica colisión controlada en tierra del 18 de enero de 1982 en Indian Springs Air Force Auxiliary Field, Nevada.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 18 de enero de 1982, durante un entrenamiento en Indian Springs AFAF (Nevada), la formación diamante de los Thunderbirds de la USAF, integrada por cuatro Northrop T‑38A Talon, se estrelló contra el desierto al finalizar un bucle en baja altura. Murieron los cuatro pilotos y la investigación atribuyó el siniestro a un fallo del estabilizador en el avión líder, seguido disciplinadamente por el resto de la formación.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
 ## Datos Técnicos Verificados
 - **Fecha del accidente:** 18 de enero de 1982  
 - **Lugar:** Indian Springs Air Force Auxiliary Field (Nevada, EE.UU.)  
@@ -31,7 +31,7 @@ image: 1982-01-18-thunderbirds-indian-springs.jpg
 - **Fase de vuelo:** Entrenamiento acrobático, bucle en baja altura  
 - **Causa oficial (síntesis):** Fallo mecánico en el estabilizador del avión líder; los demás aviones siguieron la trayectoria hasta el impacto.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
 ## Contexto Histórico
 La tragedia marcó profundamente la historia de los Thunderbirds y de la aviación acrobática militar.
 
@@ -56,7 +56,7 @@ El accidente llevó a la suspensión temporal de las actividades de los Thunderb
 ### Legado
 Los Thunderbirds regresaron a las exhibiciones en 1983, ya con aviones F‑16 Fighting Falcon, consolidando su prestigio internacional.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -69,7 +69,7 @@ Los Thunderbirds regresaron a las exhibiciones en 1983, ya con aviones F‑16 Fi
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-15 14:55:00 UTC  
 - **Fuentes primarias consultadas:** Wikipedia; Code7700; Aviation Safety Network; NY Times; Check-Six; Aviacionline  
