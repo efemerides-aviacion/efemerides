@@ -81,7 +81,7 @@ El público estadounidense seguía con fascinación los récords de velocidad. E
 
 ## Desarrollo Cronológico
 
-- **8 de enero de 1944:** Primer vuelo del prototipo XP-80 (Lulu-Belle) en Muroc Dry Lake, pilotado por Milo Burcham. <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1944/01/08/primer-vuelo-lockheed-p80.html" style="color: #315fea; text-decoration: none;">Ver efeméride de ese evento</a>  
+- **8 de enero de 1944:** Primer vuelo del prototipo XP-80 (Lulu-Belle) en Muroc Dry Lake, pilotado por Milo Burcham. <a href="https://efemerides-aviacion.github.io/efemerides/evento/1944/01/08/primer-vuelo-lockheed-p80.html" style="color: #315fea; text-decoration: none;">Ver efeméride de ese evento</a>  
 - **22 de enero de 1946:** El coronel William H. Councill realiza el primer vuelo transcontinental a reacción (Long Beach-Nueva York) en 4 horas y 13 minutos a bordo de un P-80A 
 - **1946:** El coronel Albert G. Boyd establece un récord mundial de velocidad de 616 mph (991 km/h) en un P-80 estándar 
 - **19 de junio de 1947:** Boyd establece el récord de 623,73 mph (1.004,2 km/h) a bordo del P-80R en Muroc Dry Lake, California 
