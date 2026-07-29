@@ -90,7 +90,7 @@ El récord de altitud de Earhart en autogiro es un episodio menos conocido de su
 
 - **Visibilidad para el autogiro:** Aunque el autogiro nunca alcanzó la popularidad del helicóptero, el récord de Earhart ayudó a mantener vivo el interés por esta tecnología.
 
-- **Trayectoria posterior de Earhart:** Earhart continuaría batiendo récords en los años siguientes. El <strong>11 de enero de 1935</strong>, realizó el primer vuelo en solitario desde Hawái a California, a bordo de un Lockheed Vega 5B, cubriendo 2,408 millas (3,875 km) en 18 horas y 15 minutos. Para más información sobre esta travesía, consulte la efeméride dedicada: <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1935/01/11/amelia-earhart-primer-vuelo-en-solitario.html">Primer vuelo en solitario de Amelia Earhart de Hawái a California (11 de enero de 1935)</a>.
+- **Trayectoria posterior de Earhart:** Earhart continuaría batiendo récords en los años siguientes. El <strong>11 de enero de 1935</strong>, realizó el primer vuelo en solitario desde Hawái a California, a bordo de un Lockheed Vega 5B, cubriendo 2,408 millas (3,875 km) en 18 horas y 15 minutos. Para más información sobre esta travesía, consulte la efeméride dedicada: <a href="https://efemerides-aviacion.github.io/efemerides/evento/1935/01/11/amelia-earhart-primer-vuelo-en-solitario.html">Primer vuelo en solitario de Amelia Earhart de Hawái a California (11 de enero de 1935)</a>.
 
 Hoy, el Pitcairn PCA-2 es recordado como el primer autogiro certificado en Estados Unidos y como la aeronave en la que Earhart añadió otro récord a su legendaria carrera.
 
