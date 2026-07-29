@@ -74,7 +74,7 @@ El GlobalFlyer se exhibe en el Museo Nacional del Aire y el Espacio del Smithson
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La Federación Aeronáutica Internacional (FAI) exige que los vuelos de circunnavegación sin reabastecimiento superen la longitud del Trópico de Cáncer (36.787 km). Fossett lo logró por apenas 30 km, lo que generó debate sobre la fragilidad del récord. Además, el vuelo estuvo en riesgo por una fuga de combustible de más de 1.300 kg en las primeras horas. A pesar de ello, la FAI homologó oficialmente el logro.</p>
 
-<p>Este récord se complementa con otro hito de Fossett en 2006, cuando estableció la mayor distancia recorrida sin reabastecimiento. Ver efeméride relacionada: <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-record/2006/02/11/steve-fossett-vuelta-mundo-sin-repostar.html">Steve Fossett – Vuelta al mundo sin repostar (2006)</a>.</p>
+<p>Este récord se complementa con otro hito de Fossett en 2006, cuando estableció la mayor distancia recorrida sin reabastecimiento. Ver efeméride relacionada: <a href="https://efemerides-aviacion.github.io/efemerides/evento/2006/02/11/steve-fossett-vuelta-mundo-sin-repostar.html">Steve Fossett – Vuelta al mundo sin repostar (2006)</a>.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
