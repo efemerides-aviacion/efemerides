@@ -24,7 +24,7 @@ image: 1928-06-09-primer-vuelo-transpacifico-usa-australia.webp
 
 ## Contexto Histórico
 
-En la década de 1920, la aviación vivía su "edad de oro". El vuelo de <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> sobre el Atlántico en mayo de 1927 había demostrado que los vuelos de larga distancia eran posibles. Sin embargo, el Pacífico, con sus enormes extensiones de mar abierto, seguía siendo un desafío formidable.
+En la década de 1920, la aviación vivía su "edad de oro". El vuelo de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> sobre el Atlántico en mayo de 1927 había demostrado que los vuelos de larga distancia eran posibles. Sin embargo, el Pacífico, con sus enormes extensiones de mar abierto, seguía siendo un desafío formidable.
 
 ### Entorno social
 
