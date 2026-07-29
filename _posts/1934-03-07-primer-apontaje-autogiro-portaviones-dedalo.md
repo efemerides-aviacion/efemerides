@@ -46,7 +46,7 @@ El autogiro Cierva C.30 incorporaba el cabezal de rotor articulado, innovación 
 La demostración reforzó la reputación internacional de Juan de la Cierva como pionero de la aviación rotatoria.
 
 ### Desarrollo cronológico
-- **1923:** Primer vuelo exitoso del autogiro C.4 → [Ver efeméride](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1923/01/09/autogiro_c-4_juan_de_la_cierva.html)  
+- **31 de enero de 1923:** Primer vuelo exitoso del autogiro C.4 → [Ver efeméride](https://efemerides-aviacion.github.io/efemerides/evento/1923/01/31/primer-circuito-cerrado-autogiro-c-4.html)  
 - **1928:** De la Cierva comienza a pilotar sus máquinas en exhibiciones internacionales.  
 - **1934, 7 mar:** Primer apontaje y despegue de un autogiro desde el Dédalo.  
 - **1934:** Baja definitiva del portahidroaviones Dédalo.  
