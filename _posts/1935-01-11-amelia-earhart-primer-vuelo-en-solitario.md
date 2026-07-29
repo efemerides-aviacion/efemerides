@@ -116,9 +116,9 @@ El vuelo también es recordado como un paso crucial en la carrera de Earhart hac
 
 Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviación:
 
-- **8 de abril de 1931:** Estableció un récord mundial femenino de altitud en autogiro (18.415 pies / 5.615 m) a bordo de un Pitcairn PCA-2. <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1931/04/08/amelia-earhart-record-altitud-autogiro.html">Ver efeméride completa</a>.
+- **8 de abril de 1931:** Estableció un  <a href="https://efemerides-aviacion.github.io/efemerides/evento/1931/04/08/amelia-earhart-autogiro-record-altitud.html">récord mundial femenino de altitud en autogiro (18.415 pies / 5.615 m) a bordo de un Pitcairn PCA-2.</a>.
 
-- **20 de mayo – 21 de mayo de 1932:** Primer vuelo en solitario de una mujer a través del Atlántico (Newfoundland → Irlanda), por el que recibió la Distinguished Flying Cross del Congreso de EE.UU.
+- **20 de mayo – 21 de mayo de 1932:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/05/21/amelia-earhart-primera-mujer-cruza-atlantico.html">Primer vuelo en solitario de una mujer a través del Atlántico (Newfoundland → Irlanda)</a>, por el que recibió la Distinguished Flying Cross del Congreso de EE.UU.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
