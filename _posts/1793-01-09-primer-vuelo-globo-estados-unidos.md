@@ -58,7 +58,7 @@ El vuelo de Blanchard en Filadelfia marcó la llegada de la aerostación al cont
 
 ### Legado
 
-- Consolidó a Blanchard como pionero de la aeronáutica, tras su <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html">cruce del Canal de la Mancha en 1785</a>.
+- Consolidó a Blanchard como pionero de la aeronáutica, tras su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html">cruce del Canal de la Mancha en 1785</a>.
 - Introdujo la aerostación en América y abrió camino a futuros usos militares y científicos de los globos.
 - El episodio del "primer correo aéreo" anticipó la importancia del transporte aéreo en la comunicación.
 - A pesar de sus dificultades económicas posteriores, Blanchard dejó una huella duradera en la historia de la aviación.
