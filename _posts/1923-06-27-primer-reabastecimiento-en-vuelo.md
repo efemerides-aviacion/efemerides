@@ -87,7 +87,7 @@ El éxito del 27 de junio de 1923 tuvo consecuencias inmediatas y de largo alcan
 
 El récord establecido por Smith y Richter no solo demostró la viabilidad del reabastecimiento en vuelo, sino que probó que un avión podía permanecer en el aire durante días si se le suministraba combustible, aceite y provisiones desde el exterior.
 
-Este principio fue fundamental para el desarrollo de aviones de largo alcance y, en particular, para la aviación comercial transatlántica y transpacífica que se desarrollaría en las décadas siguientes. El vuelo en solitario de Charles Lindbergh en 1927, que cruzó el Atlántico sin escalas, fue una de las hazañas más emblemáticas que demostraron el potencial de la aviación de largo alcance. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">efeméride dedicada a Lindbergh y su histórico cruce del Atlántico</a> para más detalles.
+Este principio fue fundamental para el desarrollo de aviones de largo alcance y, en particular, para la aviación comercial transatlántica y transpacífica que se desarrollaría en las décadas siguientes. El vuelo en solitario de Charles Lindbergh en 1927, que cruzó el Atlántico sin escalas, fue una de las hazañas más emblemáticas que demostraron el potencial de la aviación de largo alcance. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">efeméride dedicada a Lindbergh y su histórico cruce del Atlántico</a> para más detalles.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
