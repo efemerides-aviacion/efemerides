@@ -18,13 +18,13 @@ image: 1895-12-21-nacimiento-donald-hudson.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>Donald Hudson nació el 21 de diciembre de 1895 y se convirtió en as estadounidense de la Primera Guerra Mundial con 6 victorias confirmadas en el 27th Aero Squadron. En 1919 llegó a Bolivia con su Curtiss Wasp, realizando el primer vuelo oficial del país y batiendo récords de altitud sobre La Paz. Su legado lo consagra como pionero de la aviación sudamericana.</p>
+<p>Donald Hudson nació el 21 de diciembre de 1895 en Topeka, Kansas y se convirtió en as estadounidense de la Primera Guerra Mundial con 6 victorias confirmadas en el 27th Aero Squadron. En 1919 llegó a Bolivia con su Curtiss Wasp, realizando el primer vuelo oficial del país y batiendo récords de altitud sobre La Paz. Su legado lo consagra como pionero de la aviación sudamericana.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 21 de diciembre de 1895  
-- **Lugar de nacimiento:** Estados Unidos  
+- **Lugar de nacimiento:** Topeka, Kansas, Estados Unidos  
 - **Trayectoria militar:** Piloto del 27th Aero Squadron en la Primera Guerra Mundial, con 6 victorias confirmadas  
 - **Llegada a Bolivia:** 1919, con un Curtiss Wasp triplano  
 - **Hito en Bolivia:** Primer vuelo oficial del país y récord de altitud sobre La Paz  
