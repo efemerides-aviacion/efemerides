@@ -60,7 +60,7 @@ El accidente fue uno de los primeros desastres aéreos captados en video en tiem
 
 ## Desarrollo Cronológico del Accidente
 
-- **31 de diciembre de 1968:** Primer vuelo del prototipo del Tu-144, adelantándose al Concorde. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1968/12/31/primer-vuelo-tupolev-tu-144.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Tupolev Tu-144</a> para más detalles.
+- **31 de diciembre de 1968:** Primer vuelo del prototipo del Tu-144, adelantándose al Concorde. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1968/12/31/primer-vuelo-tupolev-tu-144.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Tupolev Tu-144</a> para más detalles.
 - **5 de junio de 1969:** El Tu-144 supera por primera vez la barrera del sonido.
 - **26 de mayo de 1970:** El Tu-144 alcanza Mach 2 por primera vez.
 - **Junio de 1971:** El Tu-144 realiza su primera aparición internacional en el Salón de París (vuelo estático, sin demostración en vuelo).
@@ -136,7 +136,6 @@ El accidente del Tu-144 en París sigue siendo uno de los más trágicos y contr
 - **El avión accidentado:** La matrícula СССР-77102 fue dada de baja. Los restos fueron recuperados y analizados por los investigadores; algunos fragmentos se conservan en museos rusos.
 - **Memorial en Goussainville:** En el pueblo donde cayeron los restos, se erigió un monumento en memoria de las víctimas civiles del accidente.
 - **El Tu-144 en museos:** El único Tu-144 conservado en condiciones de ser exhibido está en el **Museo Técnico de Sinsheim (Alemania)** , junto a un Concorde. Ambos aviones se exhiben uno al lado del otro, simbolizando la rivalidad supersónica de la Guerra Fría.
-- **Relación con otras efemérides:** Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1968/12/31/primer-vuelo-tupolev-tu-144.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Tupolev Tu-144</a> para más detalles sobre la aeronave que protagonizó la tragedia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
