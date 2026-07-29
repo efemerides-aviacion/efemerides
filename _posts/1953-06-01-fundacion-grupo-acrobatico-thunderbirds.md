@@ -68,7 +68,7 @@ La elección del nombre "Thunderbirds" refleja la influencia de las culturas nat
 - **1956:** Transición al North American F-100 Super Sabre (primer avión supersónico del equipo).
 - **1969:** Transición al McDonnell Douglas F-4 Phantom II.
 - **1974:** Transición al Northrop T-38 Talon (para ahorrar costos de combustible).
-- **18 de enero de 1982:** El "Diamond Crash" destruye cuatro Northrop T-38A Talon durante un entrenamiento en Indian Springs AFAF, Nevada. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-accidente/1982/01/18/thunderbirds-indian-springs.html" style="color: #1b5e20; text-decoration: none;">efeméride de la tragedia de los Thunderbirds en Indian Springs</a> para más detalles.
+- **18 de enero de 1982:**  <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1982/01/18/thunderbirds-indian-springs.html" style="color: #315fea; text-decoration: none;">El "Diamond Crash" destruye cuatro Northrop T-38A Talon durante un entrenamiento en Indian Springs AFAF, Nevada</a>.
 - **1983:** Transición al F-16 Fighting Falcon, que continúa en servicio.
 - **2023:** 70 aniversario de los Thunderbirds.
 
@@ -133,7 +133,7 @@ El nombre refleja perfectamente la misión del equipo: dominar el cielo con prec
 
 - **Demostración de la seguridad de los jets:** Los Thunderbirds contribuyeron significativamente a cambiar la percepción pública sobre los aviones a reacción, demostrando su fiabilidad y maniobrabilidad.
 - **Reclutamiento y moral:** Las exhibiciones del equipo sirven como una poderosa herramienta de reclutamiento para la Fuerza Aérea y generan buena voluntad para el gobierno estadounidense.
-- **Referente mundial:** Los Thunderbirds se convirtieron en uno de los equipos acrobáticos más reconocidos del mundo, junto a los <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-fundacion/1946/04/24/fundacion-equipo-acrobatico-blue-angels.html" style="color: #1b5e20; text-decoration: none;">Blue Angels de la Armada de EE. UU.</a> (fundados en 1946) y la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-fundacion/1931/05/10/fundacion-patrouille-d-etampes.html" style="color: #1b5e20; text-decoration: none;">Patrouille de France</a>, cuya antecesora, la Patrouille d'Étampes, fue fundada en 1931 y es considerada la patrulla acrobática más antigua del mundo en servicio activo.
+- **Referente mundial:** Los Thunderbirds se convirtieron en uno de los equipos acrobáticos más reconocidos del mundo, junto a los <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1946/04/24/fundacion-equipo-acrobatico-blue-angels.html" style="color: #315fea; text-decoration: none;">Blue Angels de la Armada de EE. UU.</a> (fundados en 1946) y la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1931/05/10/fundacion-patrouille-d-etampes.html" style="color: #315fea; text-decoration: none;">Patrouille de France</a>, cuya antecesora, la Patrouille d'Étampes, fue fundada en 1931 y es considerada la patrulla acrobática más antigua del mundo en servicio activo.
 - **Legado cultural:** El nombre "Thunderbirds" trascendió la aviación y se convirtió en un ícono cultural estadounidense, inspirando programas de televisión, videojuegos y otros productos mediáticos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -144,7 +144,7 @@ Los Thunderbirds son considerados **"los embajadores azules"** de la Fuerza Aér
 
 - **Antigüedad:** Son el tercer equipo acrobático formal más antiguo del mundo, después de la Patrouille de France (1931) y los Blue Angels (1946).
 - **Especificaciones actuales:** El equipo vuela 12 F-16C Fighting Falcon con distintivos colores rojo, blanco y azul.
-- **El "Diamond Crash" de 1982:** El 18 de enero de 1982, cuatro Northrop T-38A Talon se estrellaron durante un entrenamiento en Indian Springs AFAF, Nevada, en un accidente conocido como el "Diamond Crash". Murieron los cuatro pilotos. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-accidente/1982/01/18/thunderbirds-indian-springs.html" style="color: #1b5e20; text-decoration: none;">efeméride de la tragedia de los Thunderbirds en Indian Springs</a> para más detalles.
+- **El "Diamond Crash" de 1982:** El 18 de enero de 1982, cuatro Northrop T-38A Talon se estrellaron durante un entrenamiento en Indian Springs AFAF, Nevada, en un accidente conocido como el "Diamond Crash". Murieron los cuatro pilotos. 
 - **La tradición del linaje:** Los Thunderbirds actuales portan el linaje, la historia y el honor del **30th Aero Squadron**, formado en Kelly Field, Texas, el 13 de junio de 1917.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
