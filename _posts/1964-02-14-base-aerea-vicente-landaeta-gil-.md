@@ -14,14 +14,15 @@ image: 1964-02-14-base-aerea-vicente-landaeta-gil.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1964-02-14-base-aerea-vicente-landaeta-gil.webp" alt="Entrada principal de la Base Aérea Vicente Landaeta Gil">
   <figcaption class="post-caption">Entrada principal de Balanda (Base Aérea Tte. Vicente Landaeta Gil), Barquisimeto, Venezuela – Vista contemporánea de la base fundada el 14/02/1964 (Foto usuario, circa 2000s).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 14 de febrero de 1964 se inauguró oficialmente la Base Aérea Teniente Vicente Landaeta Gil (Balanda) en Barquisimeto (Lara), creada por Resolución N.º A-184 de diciembre de 1963, como sede inicial del Escuadrón B-40 con B-25 Mitchell.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Datos verificados del evento
 - **Fecha:** 14 de febrero de 1964  
 - **Lugar:** Barquisimeto, estado Lara, Venezuela  
@@ -29,9 +30,10 @@ image: 1964-02-14-base-aerea-vicente-landaeta-gil.webp
 - **Aeronave/escuadrones iniciales:** Escuadrón B-40 con B-25 Mitchell; Escuadrón Policía Aérea  
 - **Resultado inmediato:** Fundación oficial de la Base Aérea Teniente Vicente Landaeta Gil  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Contexto Histórico
-La base fue nombrada en honor al Teniente Vicente Landaeta Gil, integrante de la primera promoción de aviadores militares venezolanos, fallecido el 4 de febrero de 1931 en el primer accidente aéreo registrado en Venezuela ([Accidente del Farman 190 en Barquisimeto](https://efemerides-aviacion.github.io/efemerides/accidentes-aereos/1931/02/04/vicente-landaeta-gil.html)).
+La base fue nombrada en honor al Teniente Vicente Landaeta Gil, integrante de la primera promoción de aviadores militares venezolanos, fallecido el 4 de febrero de 1931 <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1931/02/04/vicente-landaeta-gil-fallece.html">en el primer accidente aéreo registrado en Venezuela</a>.
 
 ### Entorno social
 La creación de la base respondió a la necesidad de fortalecer la presencia militar en la región centro-occidental del país, con jurisdicción sobre Lara, Falcón, Yaracuy, Portuguesa, Barinas y Cojedes.
@@ -57,7 +59,8 @@ La base fortaleció la capacidad operativa de la Fuerza Aérea Venezolana en la 
 ### Legado
 Hoy la Base Aérea Teniente Vicente Landaeta Gil es un símbolo de la aviación militar venezolana y un homenaje permanente al pionero que lleva su nombre.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -72,7 +75,8 @@ Hoy la Base Aérea Teniente Vicente Landaeta Gil es un símbolo de la aviación 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-12 15:00 UTC  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), Instagram @hoy_en_la_historia, Facebook Historia Aviación Militar Venezolana, El Nacional, Trek Zone  
