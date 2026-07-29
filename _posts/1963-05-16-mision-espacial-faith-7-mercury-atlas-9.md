@@ -144,7 +144,7 @@ Cooper llevó a cabo 11 experimentos durante su misión:
 
 ## Legado
 
-El 16 de mayo de 1963, cuando el portaaviones USS Kearsarge recuperó la cápsula Faith 7, se cerró un capítulo dorado en la historia de la exploración espacial. El Proyecto Mercury, que había comenzado con la incertidumbre del primer vuelo suborbital de **[Alan Shepard a bordo del Freedom 7](https://efemerides-aviacion.github.io/efemerides/aviacion-espacial/1961/05/05/alan-shepard-primer-estadounidense-viajar-espacio.html)** el 5 de mayo de 1961, culminó con un astronauta que, literalmente, tomó el control de su propio destino y guió su nave a casa.
+El 16 de mayo de 1963, cuando el portaaviones USS Kearsarge recuperó la cápsula Faith 7, se cerró un capítulo dorado en la historia de la exploración espacial. El Proyecto Mercury, que había comenzado con la incertidumbre del primer vuelo suborbital de **[Alan Shepard a bordo del Freedom 7](https://efemerides-aviacion.github.io/efemerides/espacial/1961/05/05/alan-shepard-primer-estadounidense-viajar-espacio.html)** el 5 de mayo de 1961, culminó con un astronauta que, literalmente, tomó el control de su propio destino y guió su nave a casa.
 
 La hazaña de Gordon Cooper demostró al mundo que los astronautas estadounidenses no eran meros pasajeros, sino pilotos capaces de tomar decisiones críticas bajo una presión extrema. Su éxito fue un enorme impulso de confianza para los ingenieros y planificadores de la NASA, que estaban a punto de embarcarse en el programa Gemini, un programa mucho más ambicioso que requeriría encuentros espaciales y caminatas espaciales.
 
