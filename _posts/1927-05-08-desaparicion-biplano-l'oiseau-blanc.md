@@ -2,7 +2,7 @@
 layout: post
 title: "8 de mayo de 1927 | Desaparición del biplano L’Oiseau Blanc"
 date: 1927-05-08
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Francia / Estados Unidos
 operator: Aviación privada
@@ -15,14 +15,14 @@ image: 1927-05-08-desaparicion-biplano-l'oiseau-blanc.webp
   <figcaption class="post-caption">El biplano Levasseur PL.8 "L’Oiseau Blanc" en el aeropuerto de Le Bourget, antes de su vuelo hacia Nueva York, 8 de mayo de 1927. Fuente: This Day in Aviation.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 8 de mayo de 1927, el biplano L’Oiseau Blanc (Levasseur PL.8), pilotado por los aviadores franceses Charles Nungesser y François Coli, despegó de París con destino a Nueva York en un intento de primer vuelo transatlántico sin escalas, pero nunca llegó a su destino y se convirtió en uno de los mayores misterios de la aviación. Menos de dos semanas después, Charles Lindbergh completaría la primera travesía transatlántica sin escalas desde Nueva York hasta París, llevándose el Orteig Prize.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 
@@ -40,7 +40,7 @@ image: 1927-05-08-desaparicion-biplano-l'oiseau-blanc.webp
 - **Último avistamiento confirmado:** Sobre Irlanda
 - **Estado:** Desaparecido, nunca encontrado
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Especificaciones del Levasseur PL.8
 
@@ -60,13 +60,13 @@ El Levasseur PL.8 fue diseñado específicamente para el intento de cruce del At
 - **Autonomía:** 40 horas
 - **Techo de servicio:** 7.000 m (23.000 pies)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## La tripulación
 
 Charles Nungesser era el tercer as francés de la Primera Guerra Mundial, con 43 victorias aéreas confirmadas. Condecorado con la Legión de Honor y la Médaille Militaire, era conocido por su carácter temerario y sus múltiples heridas de guerra. François Coli era un veterano de guerra con experiencia en vuelos de larga distancia sobre el Mediterráneo, y era el especialista en navegación celestial de la misión.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## El vuelo: 8 de mayo de 1927
 
@@ -90,7 +90,7 @@ Minutos después del despegue, Nungesser maniobró el biplano sobre el aeródrom
 
 Decenas de miles de personas se congregaron en Battery Park, Manhattan, para presenciar la llegada del avión a la Estatua de la Libertad. En París, algunos periódicos franceses, como La Presse, llegaron a publicar ediciones especiales anunciando falsamente que Nungesser y Coli habían aterrizado en Nueva York, provocando una ola de patriotismo que luego se transformó en indignación cuando se confirmó la desaparición.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## El misterio: teorías y hallazgos
 
@@ -110,7 +110,7 @@ Tras 42 horas de autonomía y sin noticias, se comprendió que el avión se hab�
 
 La única pieza confirmada del L’Oiseau Blanc que se conserva es su tren de aterrizaje, que fue lanzado tras el despegue y recuperado. Se exhibe en el Museo del Aire y del Espacio de Le Bourget, en París, el mismo aeródromo del que despegó.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
@@ -118,7 +118,7 @@ La única pieza confirmada del L’Oiseau Blanc que se conserva es su tren de at
 - **El fin de una era de héroes:** Nungesser era un héroe nacional en Francia; su desaparición fue un duro golpe. El "Mystère de l’Oiseau Blanc" es uno de los más duraderos de la aviación.
 - **Legado cultural:** Una calle en París lleva el nombre de los dos aviadores. Se emitió un sello postal conmemorativo en 1967 y una estatua en su honor se encuentra en el aeropuerto de Le Bourget.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
@@ -126,7 +126,7 @@ La desaparición del L’Oiseau Blanc sigue siendo el mayor misterio sin resolve
 
 El "Pájaro Blanco" es un recordatorio de que, en la conquista del cielo, la historia la escriben a menudo los supervivientes, pero las leyendas las forjan aquellos que desafiaron lo imposible y desaparecieron en el intento.
 
----
+<hr>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el Premio Orteig:</strong> El Premio Orteig fue ofrecido por el hotelero neoyorquino Raymond Orteig en 1919, con un valor de 25.000 dólares (equivalentes a más de 400.000 dólares actuales). Estaba destinado al primer aviador aliado que volara sin escalas entre París y Nueva York o viceversa. Charles Lindbergh lo ganó en mayo de 1927.</p>
@@ -134,7 +134,7 @@ El "Pájaro Blanco" es un recordatorio de que, en la conquista del cielo, la his
 <p><strong>Sobre la ruta y la navegación:</strong> Coli era un experto en navegación celestial. Para el vuelo transatlántico se basó en el cálculo de la posición por la posición de las estrellas y el Sol, un método extremadamente complejo dada la poca visibilidad durante la noche sobre el océano.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 
@@ -151,7 +151,7 @@ El "Pájaro Blanco" es un recordatorio de que, en la conquista del cielo, la his
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
 
