@@ -2,7 +2,7 @@
 layout: post
 title: "6 de mayo de 1937 | Desastre del LZ 129 Hindenburg"
 date: 1937-05-06
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Alemania / Estados Unidos
 operator: Deutsche Zeppelin-Reederei (DZR)
@@ -15,14 +15,14 @@ image: 1937-05-06-desastre-lz-129-hindenburg.webp
   <figcaption class="post-caption">Fotografía del incendio inicial del Hindenburg, el 6 de mayo de 1937 en Lakehurst, Nueva Jersey. Las llamas envolvieron al zepelín alemán y desencadenaron el desastre que inspiró el célebre relato radiofónico de Herbert Morrison. Fuente: US Navy.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 6 de mayo de 1937, el dirigible alemán LZ 129 Hindenburg se incendió y quedó destruido al intentar aterrizar en Lakehurst, Nueva Jersey. La catástrofe causó 36 muertes y marcó el fin de la era de los grandes dirigibles de pasajeros como medio de transporte transatlántico. La aeronave había realizado su primer vuelo el 4 de marzo de 1936 y se había convertido en el mayor dirigible operativo de su tiempo. Las imágenes del desastre, captadas en fotografías y filmaciones, y la célebre transmisión radial de Herbert Morrison con su exclamación "Oh, the humanity!", conmocionaron al mundo y sellaron el destino de los zeppelines comerciales.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 
@@ -42,7 +42,7 @@ image: 1937-05-06-desastre-lz-129-hindenburg.webp
 - **Duración del incendio:** 32 segundos
 - **Propósito del vuelo:** Vuelo transatlántico Fráncfort-Nueva York (temporada 1937)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Especificaciones del LZ 129 Hindenburg
 
@@ -59,7 +59,7 @@ El LZ 129 Hindenburg era una aeronave de dimensiones colosales para su época, s
 - **Potencia por motor:** 900 hp (671 kW)
 - **Velocidad máxima:** 135 km/h (84 mph)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -89,7 +89,7 @@ El desastre del Hindenburg fue uno de los primeros eventos catastróficos captur
 - **6 de mayo de 1937, 7:00 p.m.:** El Hindenburg inicia la maniobra de aterrizaje
 - **6 de mayo de 1937, 7:25 p.m. (aproximadamente):** Se avistan las primeras llamas en la popa; en 32 segundos, la aeronave queda destruida
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## El vuelo fatal (3-6 de mayo de 1937)
 
@@ -115,7 +115,7 @@ El reportero Herb Morrison, de la estación WLS de Chicago, estaba grabando una 
 
 Aunque a menudo se cree que fue una transmisión en vivo, en realidad fue grabada en discos de aluminio para su posterior difusión.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Las víctimas y los sobrevivientes
 
@@ -123,7 +123,7 @@ Treinta y cinco personas a bordo perdieron la vida en el desastre: 13 pasajeros 
 
 Entre los sobrevivientes hubo historias notables: una anciana descendió por la escalera de salida normal; Werner Franz, un camarero, fue salvado porque un tanque de lastre de agua estalló sobre él, mojándolo por completo; Eugen Bentele, un mecánico, fue expulsado por una de las puertas del motor y sobrevivió con solo quemaduras leves; tres niños fueron lanzados por su madre y atrapados por la cuadrilla de tierra. El capitán Max Pruss sufrió quemaduras graves pero sobrevivió. Ernst Lehmann, director de operaciones de Zeppelin, que se encontraba a bordo, sucumbió a sus heridas al día siguiente.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Causas del desastre
 
@@ -137,7 +137,7 @@ El incendio que destruyó el Hindenburg comenzó en la popa y se propagó en 32 
 
 El único punto de acuerdo entre las investigaciones fue que el hidrógeno era el combustible del fuego, y que el uso de helio, un gas inerte no inflamable, habría evitado la catástrofe.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
@@ -147,7 +147,7 @@ El único punto de acuerdo entre las investigaciones fue que el hidrógeno era e
 - **Prohibición del hidrógeno en pasajeros:** El gobierno alemán prohibió que los dirigibles de hidrógeno transportaran pasajeros.
 - **Legado tecnológico:** Aunque los dirigibles no desaparecieron por completo (el tráfico de carga, la investigación y otras funciones persistieron), el Hindenburg marcó el final del transporte de pasajeros en zepelines.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
@@ -166,7 +166,7 @@ Hoy, el legado del Hindenburg perdura como un recordatorio de los riesgos inhere
 <p><strong>Sobre el uso de helio:</strong> El Hindenburg fue diseñado originalmente para utilizar helio, un gas inerte no inflamable. Estados Unidos, único país con producción de helio en la época, se negó a exportarlo citando preocupaciones de que pudiera ser utilizado para fines militares. Como resultado, los alemanes utilizaron hidrógeno, cuya flamabilidad contribuyó decisivamente a la rapidez del desastre.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 
@@ -181,7 +181,7 @@ Hoy, el legado del Hindenburg perdura como un recordatorio de los riesgos inhere
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
 
