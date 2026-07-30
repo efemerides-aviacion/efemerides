@@ -2,7 +2,7 @@
 layout: post
 title: "27 de mayo de 1952 | Trágico accidente del Escuadrón de Caza Nro. 36 en Los Guayos"
 date: 1952-05-27
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Venezuela
 operator: Fuerza Aérea Venezolana (FAV) - Escuadrón Aéreo de Caza Nro. 36
