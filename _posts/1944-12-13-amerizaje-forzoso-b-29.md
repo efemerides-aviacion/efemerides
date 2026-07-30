@@ -2,7 +2,7 @@
 layout: post
 title: "13 de diciembre de 1944 | Amerizaje forzoso del B-29 'Dat's My Boy'"
 date: 1944-12-13
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Estados Unidos / Japón
 operator: USAAF – 499th Bomb Group, 73rd Wing
@@ -14,14 +14,14 @@ image: 1944-12-13-amerizaje-forzoso-b-29.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-12-13-amerizaje-forzoso-b-29.jpg" alt="B-29 'Dat's My Boy' flotando tras el amerizaje">
   <figcaption class="post-caption">El B-29 “Dat’s My Boy” flotando después del amerizaje forzoso en el Océano Pacífico, 13 de diciembre de 1944. (Fuente: National Archives / Mann, R.G.).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 13 de diciembre de 1944, el Boeing B-29 Superfortress “Dat’s My Boy” (42-63447), del 499th Bomb Group, se quedó sin combustible tras participar en un ataque sobre Japón. El teniente Silvester realizó un amerizaje controlado en el Pacífico, a unos 550 km de la costa. Los once tripulantes sobrevivieron y fueron rescatados por el destructor USS Cummings DD-365.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 ## Datos verificados del evento
 - **Fecha:** 13 de diciembre de 1944  
 - **Lugar:** Océano Pacífico, aprox. 550 km al sureste de Japón (15°48’ N, 144°24’ E)  
@@ -34,7 +34,8 @@ image: 1944-12-13-amerizaje-forzoso-b-29.jpg
 - **Causa:** Falta de combustible tras misión de combate  
 - **Rescate:** Destructor USS Cummings (DD-365)  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Contexto Histórico
 Los B-29 eran la punta de lanza de la ofensiva aérea contra Japón en 1944. Operaban desde bases en China y pronto desde las Marianas, enfrentando largas distancias y defensas antiaéreas intensas.
 
@@ -53,7 +54,8 @@ Los B-29 eran la punta de lanza de la ofensiva aérea contra Japón en 1944. Ope
 ### Legado
 El amerizaje del “Dat’s My Boy” es citado como un caso excepcional de supervivencia y rescate exitoso en combate. Aunque el avión se perdió, la tripulación regresó al servicio activo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -63,11 +65,14 @@ El amerizaje del “Dat’s My Boy” es citado como un caso excepcional de supe
   </ul>
 </div>
 
+<hr>
+
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La distancia del amerizaje varía según fuentes (500–600 km). Se adopta el valor verificado de 550 km. El número de serie 42-63447 fue confirmado en los archivos NARA.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-12 08:58 CST  
 - **Fuentes primarias consultadas:** NARA, Mann (2007), Tillman (2012)  
