@@ -114,7 +114,7 @@ Hoy, ambos son reconocidos como **coinventores del motor a reacción**, con cont
 
 Ambos coincidieron en una visita histórica en 1966 y mantuvieron una relación de respeto mutuo. Whittle declaró: *"Estoy seguro de que nuestro trabajo fue independiente; él no sabía nada del mío, ni yo del suyo"* .
 
-Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-nacimiento/1911/12/14/hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #1b5e20; text-decoration: none;">efeméride de nacimiento de Hans von Ohain</a> para más detalles sobre su vida y contribuciones.
+Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1911/12/14/nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #1b5e20; text-decoration: none;">efeméride de nacimiento de Hans von Ohain</a> para más detalles sobre su vida y contribuciones.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -131,8 +131,8 @@ Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-n
 
 Frank Whittle es reconocido como uno de los grandes inventores del siglo XX. Su legado perdura en cada avión a reacción que surca los cielos.
 
-- **12 de abril de 1937:** Whittle puso en marcha con éxito su Whittle Unit (WU), el primer motor turborreactor práctico del mundo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1937/04/12/whittle-unit-primer-motor-jet.html" style="color: #1b5e20; text-decoration: none;">efeméride del primer motor a reacción exitoso en banco de pruebas</a> para más detalles.
-- **5 de marzo de 1943:** El Gloster Meteor, propulsado por motores basados en los diseños de Whittle, realizó su primer vuelo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1943/03/05/primer-vuelo-gloster-meteor-reactor-britanico.html" style="color: #1b5e20; text-decoration: none;">efeméride del primer vuelo del Gloster Meteor</a> para más detalles.
+- **12 de abril de 1937:** Whittle puso en marcha con éxito su Whittle Unit (WU), el primer motor turborreactor práctico del mundo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1937/04/12/whittle-unit-primer-motor-jet.html" style="color: #1b5e20; text-decoration: none;">efeméride del primer motor a reacción exitoso en banco de pruebas</a> para más detalles.
+- **5 de marzo de 1943:** El Gloster Meteor, propulsado por motores basados en los diseños de Whittle, realizó su primer vuelo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1943/03/05/primer-vuelo-gloster-meteor-reactor-britanico.html" style="color: #1b5e20; text-decoration: none;">efeméride del primer vuelo del Gloster Meteor</a> para más detalles.
 
 - **Honores póstumos:** Una base aérea de la RAF en Cambridgeshire lleva su nombre (RAF Whittle). El Science Museum de Londres exhibe el WU original. En 2002, la BBC lo incluyó en su lista de los "100 Greatest Britons" .
 - **Películas y documentales:** Su historia ha sido documentada en numerosos documentales, incluyendo "The Jet Engine: Frank Whittle" (2014) y "The Race for the Jet" (2020) .
@@ -156,7 +156,7 @@ Frank Whittle es reconocido como uno de los grandes inventores del siglo XX. Su 
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
-  <p><strong>1. La controversia Whittle vs. Von Ohain:</strong> Frank Whittle patentó el motor turborreactor en 1930, pero las dificultades financieras y la falta de apoyo institucional retrasaron su desarrollo. Hans von Ohain, trabajando independientemente en Alemania, diseñó el Heinkel HeS 3, que impulsó el Heinkel He 178 en su primer vuelo el 27 de agosto de 1939, antes que el Gloster E.28/39 británico. Hoy, ambos son reconocidos como coinventores del motor a reacción. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-nacimiento/1911/12/14/hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #1b5e20; text-decoration: none;">efeméride de nacimiento de Hans von Ohain</a> para más detalles.</p>
+  <p><strong>1. La controversia Whittle vs. Von Ohain:</strong> Frank Whittle patentó el motor turborreactor en 1930, pero las dificultades financieras y la falta de apoyo institucional retrasaron su desarrollo. Hans von Ohain, trabajando independientemente en Alemania, diseñó el Heinkel HeS 3, que impulsó el Heinkel He 178 en su primer vuelo el 27 de agosto de 1939, antes que el Gloster E.28/39 británico. Hoy, ambos son reconocidos como coinventores del motor a reacción.</p>
   <p><strong>2. El Whittle Unit (WU):</strong> El primer motor de Whittle, conocido como Whittle Unit (WU) o WU Mk I, fue probado en banco el 12 de abril de 1937 en las instalaciones de British Thomson-Houston (BTH) en Rugby, Inglaterra. El motor original se conserva en el Science Museum de Londres.</p>
   <p><strong>3. Reconocimiento tardío:</strong> Aunque Whittle fue nombrado Caballero en 1948, su contribución no fue plenamente reconocida por el gobierno británico hasta 1944, cuando Power Jets fue nacionalizada. En 1948, recibió una gratificación de 100.000 libras "ex gratia" (sin admitir responsabilidad legal).</p>
   <p><strong>4. Primer vuelo del Gloster E.28/39:</strong> Aunque el vuelo oficial fue el 15 de mayo de 1941, hubo un despegue no oficial de 50 metros el 14 de mayo de 1941. La mayoría de las fuentes coinciden en el 15 de mayo como fecha oficial del primer vuelo.</p>
