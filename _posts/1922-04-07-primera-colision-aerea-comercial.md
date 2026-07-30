@@ -2,7 +2,7 @@
 layout: post
 title: "7 de abril de 1922 | Primera colisión aérea entre dos aviones comerciales"
 date: 1922-04-07
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Francia / Reino Unido
 operator: Compagnie des Grands Express Aériens (CGEA) / Daimler Hire Limited
@@ -15,14 +15,14 @@ image: 1922-04-07-primera-colision-aerea-comercial.webp
   <figcaption class="post-caption">Composición ilustrativa de la colisión aérea de Picardía del 7 de abril de 1922: Farman F.60 Goliath (superior) y de Havilland DH.18A (inferior), los dos aviones comerciales involucrados en el primer choque en vuelo de la historia. Imágenes de archivo obtenidas de Wikipedia. Fuente: Wikipedia</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 7 de abril de 1922, a las 14:00 horas, un de Havilland DH.18A (matrícula G-EAWO) de la compañía británica Daimler Hire Limited y un Farman F.60 Goliath (matrícula F-GEAD) de la francesa Compagnie des Grands Express Aériens (CGEA) colisionaron en pleno vuelo sobre la localidad de Thieuloy-Saint-Antoine, en Picardía, Francia, a unos 110 km al norte de París. Ambos aviones cubrían la ruta Londres-París en sentidos opuestos y volaban a baja altitud (150 metros) debido a la densa niebla y llovizna. Los pilotos utilizaban como referencia visual una línea de ferrocarril, lo que los llevó a colisionar frontalmente. Las siete personas a bordo (cinco en el Goliath y dos en el DH.18A) fallecieron, incluyendo una pareja estadounidense en su luna de miel. Este accidente marcó un hito en la historia de la aviación al ser la primera colisión entre dos aeronaves comerciales.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 - **Fecha del accidente:** 7 de abril de 1922
@@ -53,7 +53,7 @@ image: 1922-04-07-primera-colision-aerea-comercial.webp
 - **Causa:** Colisión frontal en condiciones de niebla; ambos pilotos utilizaban la misma línea de ferrocarril como referencia de navegación
 - **Pasajeros del Goliath:** Christopher Bruce Yule (estadounidense), Mary Yule (estadounidense, recién casados en luna de miel), Monsieur Bouriez (francés)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -76,7 +76,7 @@ Este accidente, al ser el primero de su tipo entre aviones comerciales, conmocio
 - **Rescate:** Los lugareños acuden rápidamente al lugar. Encuentran a todas las víctimas fallecidas, excepto al joven auxiliar Hesterman, que está gravemente herido. Es trasladado al pueblo cercano, pero muere a causa de sus heridas.
 - **Informes iniciales:** Los primeros reportes de prensa afirmaron erróneamente que el piloto británico era el superviviente.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
@@ -85,13 +85,13 @@ Este accidente, al ser el primero de su tipo entre aviones comerciales, conmocio
 - **Equipamiento de radio:** Se recomendó que todos los aviones de línea fueran equipados con radio para comunicaciones.
 - **Rutas aéreas definidas:** Se introdujeron rutas aéreas claramente definidas en Bélgica, Francia, Países Bajos y el Reino Unido.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
 La colisión de Picardía de 1922 es recordada como el primer accidente de su tipo entre dos aviones comerciales, un hito lúgubre en la historia de la seguridad aérea. Las lecciones aprendidas —reglas de vuelo estandarizadas, mejor visibilidad para los pilotos y uso de radio— sentaron las bases para la regulación del tráfico aéreo moderno. La "regla de la derecha" en el aire, aunque hoy complementada con sistemas avanzados como el TCAS (Sistema de Alerta de Tráfico y Evitación de Colisiones), tiene su origen en esta tragedia ocurrida hace más de un siglo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Discrepancias encontradas y resueltas
 
@@ -100,7 +100,7 @@ La colisión de Picardía de 1922 es recordada como el primer accidente de su ti
 - **Altitud de vuelo:** Coinciden en 150 metros (492 pies). No hay discrepancia.
 - **Nombre del piloto francés:** Las fuentes lo identifican como "M. Mire" (Monsieur Mire). No se especifica su nombre de pila.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -114,11 +114,13 @@ La colisión de Picardía de 1922 es recordada como el primer accidente de su ti
   </ul>
 </div>
 
+<hr>
+
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Este accidente es reconocido como la primera colisión aérea entre dos aviones comerciales. Sin embargo, hubo colisiones anteriores entre aeronaves militares o entre aviones y otros objetos. La altitud de vuelo (150 m) era inusualmente baja para la ruta, debido a las malas condiciones meteorológicas. Los pilotos utilizaban la línea de ferrocarril como referencia visual, lo que los llevó a volar en la misma trayectoria en sentidos opuestos. La imagen utilizada en esta efeméride es una composición ilustrativa y corresponde a aeronaves del mismo modelo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-04 10:30 UTC
