@@ -65,7 +65,7 @@ image: 1955-06-17-primer-vuelo-tupolev-tu-104-primer-avion-jet-exitoso.webp
 
 ## Contexto Histórico
 
-A principios de la década de 1950, Aeroflot —la aerolínea estatal soviética— necesitaba urgentemente un avión moderno que superara a los aparatos de hélice existentes en rutas de larga distancia. El de Havilland Comet británico, pionero de los reactores comerciales, se había visto forzado a retirarse en 1954 debido a accidentes causados por fatiga de metal (puede consultar la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-accidente/1954/01/10/descompresion-explosiva-comet-boac.html">efeméride del accidente del Comet de BOAC</a>).
+A principios de la década de 1950, Aeroflot —la aerolínea estatal soviética— necesitaba urgentemente un avión moderno que superara a los aparatos de hélice existentes en rutas de larga distancia. El de Havilland Comet británico, pionero de los reactores comerciales, se había visto forzado a retirarse en 1954 debido a accidentes causados por fatiga de metal (puede consultar la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1954/01/10/descompresion-explosiva-comet-boac.html">efeméride del accidente del Comet de BOAC</a>).
 
 ### Entorno social
 

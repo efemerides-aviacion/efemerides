@@ -2,7 +2,7 @@
 layout: post
 title: "10 de enero de 1954 | Descompresión explosiva del De Havilland Comet de BOAC"
 date: 1954-01-10
-categories: [aviacion-accidente]
+categories: [accidente]
 author: [Enrique Pomares]
 pais: Italia / Reino Unido
 operator: BOAC
