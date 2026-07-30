@@ -14,14 +14,16 @@ image: 1895-12-21-nacimiento-donald-hudson.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1895-12-21-nacimiento-donald-hudson.webp" alt="Donald Hudson, as estadounidense y pionero andino">
   <figcaption class="post-caption">Donald Hudson (1895–1967), as americano de la Gran Guerra (6 victorias) y pionero de la aviación en Bolivia. The Aerodrome Forum / Archivo histórico USAAS.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Donald Hudson nació el 21 de diciembre de 1895 en Topeka, Kansas y se convirtió en as estadounidense de la Primera Guerra Mundial con 6 victorias confirmadas en el 27th Aero Squadron. En 1919 llegó a Bolivia con su Curtiss Wasp, realizando el primer vuelo oficial del país y batiendo récords de altitud sobre La Paz. Su legado lo consagra como pionero de la aviación sudamericana.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
+
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 21 de diciembre de 1895  
 - **Lugar de nacimiento:** Topeka, Kansas, Estados Unidos  
@@ -30,7 +32,8 @@ image: 1895-12-21-nacimiento-donald-hudson.webp
 - **Hito en Bolivia:** Primer vuelo oficial del país y récord de altitud sobre La Paz  
 - **Fallecimiento:** 1967  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Contexto histórico
 Donald Hudson representa la transición de la aviación militar en Europa hacia la expansión pionera en Sudamérica.
 
@@ -56,7 +59,8 @@ Su experiencia internacional permitió a Bolivia dar un salto cualitativo en avi
 ### Legado
 Donald Hudson es recordado como as de la Gran Guerra y pionero de la aviación andina, especialmente por su papel en Bolivia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Referencias verificadas
 <div class="references">
   <ul>
@@ -71,7 +75,8 @@ Donald Hudson es recordado como as de la Gran Guerra y pionero de la aviación a
 <p><strong>Nota aclaratoria:</strong> Algunas fuentes difieren en el número exacto de victorias aéreas atribuidas a Hudson durante la Primera Guerra Mundial. Mientras que The Aerodrome y Wikipedia en inglés lo reconocen con 6 victorias confirmadas, otras fuentes mencionan cifras distintas. Asimismo, aunque se le atribuye el primer vuelo oficial en Bolivia, algunos relatos locales señalan vuelos experimentales previos sin documentación oficial.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-03-01 10:45 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES, The Aerodrome, Historias Bolivia   
