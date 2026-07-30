@@ -12,10 +12,10 @@ image: 1917-08-02-primer-apontaje-buque-movimiento.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1917-08-02-primer-apontaje-buque-movimiento.webp" alt="Marineros rodean y sujetan un Sopwith Pup sobre la cubierta de vuelo de proa del HMS Furious mientras el piloto sale de la cabina">
-  <figcaption class="post-caption">El Squadron Commander E. H. Dunning sale de la cabina de su Sopwith Pup sobre la cubierta de vuelo de proa del HMS Furious, rodeado por los marineros que acaban de sujetar el aparato, tras el primer apontaje logrado sobre un buque en navegación. Scapa Flow, 2 de agosto de 1917. Fuente: <a href="https://www.iwm.org.uk/collections/item/object/205092012" style="color: #315fea; text-decoration: none;">Imperial War Museums (Q 110613)</a>.</figcaption>
+  <figcaption class="post-caption">Imagen exacta del hecho recordado: el Squadron Commander E. H. Dunning sale de la cabina de su Sopwith Pup sobre la cubierta de vuelo de proa del HMS Furious, rodeado por los marineros que acaban de sujetar el aparato, tras el primer apontaje logrado sobre un buque en navegación. Scapa Flow, 2 de agosto de 1917. Fuente: <a href="https://www.iwm.org.uk/collections/item/object/205092012" style="color: #315fea; text-decoration: none;">Imperial War Museums (Q 110613)</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #315fea);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1917-08-02-primer-apontaje-buque-movimiento.webp
 <p>La maniobra no contó con cables de frenado ni con ninguna ayuda mecánica: dependió de la habilidad del piloto para anular la velocidad relativa sobre cubierta y del grupo de marineros que sujetó físicamente el aparato. Cinco días más tarde, el 7 de agosto, Dunning perdió la vida durante una nueva tanda de pruebas sobre el mismo buque. Su demostración, sin embargo, aportó los datos que cimentaron el desarrollo del portaaviones de cubierta corrida y, con él, de la aviación embarcada moderna.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #315fea);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -37,7 +37,7 @@ image: 1917-08-02-primer-apontaje-buque-movimiento.webp
 - **Sistema de detención:** ninguno de tipo mecánico. Un grupo de marineros destacado en cubierta detuvo el avión sujetándolo con las manos y con cabos.
 - **Resultado inmediato:** apontaje logrado sin daños relevantes; primer aterrizaje registrado de una aeronave sobre un buque en navegación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #315fea);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -55,7 +55,7 @@ El estado del arte imponía límites severos. Los aviones carecían de frenos y 
 
 En el imaginario naval de la época, el avión seguía siendo un auxiliar: ojos para la flota, no un arma autónoma. Las hazañas aeronáuticas se narraban aún en clave de proeza individual, con el piloto como aventurero solitario. El vuelo del 2 de agosto se inscribió en ese registro heroico, pero introdujo un matiz decisivo: no se trataba de batir una marca, sino de generar datos reproducibles para una doctrina futura. Esa tensión entre gesta personal y método experimental atravesó toda la semana de pruebas y explica en buena medida su desenlace.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #315fea);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -70,7 +70,7 @@ La secuencia de hitos que enmarca el apontaje permite situarlo en su lugar exact
 - **Noviembre de 1917:** el <em>Furious</em> regresa a los astilleros para sustituir la torre de popa por una segunda cubierta, destinada a la recuperación de aeronaves.
 - **19 de julio de 1918:** siete Sopwith Camel despegan del <em>Furious</em> y atacan los cobertizos de zepelines de Tondern, primer ataque aéreo lanzado desde un buque portaaviones.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #315fea);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -80,7 +80,7 @@ El Almirantazgo valoró la demostración como una fuente de datos de primer orde
 
 En el plano operativo, las conclusiones fueron severas. El sucesor de Dunning al frente del grupo aéreo del <em>Furious</em>, Frederick Rutland, repitió la maniobra y suspendió después los ensayos, informando al Almirantazgo de que la esperanza media de un piloto que aterrizase de ese modo no superaría los diez apontajes, y solo con buen tiempo. La turbulencia generada por la chimenea y la superestructura hacía inviable el procedimiento como práctica ordinaria. La respuesta fue estructural: primero la habilitación de una cubierta de recuperación a popa —igualmente insatisfactoria por la estela de aire caliente y las turbulencias— y, más adelante, la reconstrucción completa del buque con cubierta corrida.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #315fea);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -92,7 +92,7 @@ La Royal Navy institucionalizó la memoria del piloto mediante la Dunning Cup, e
 
 Dunning está enterrado en el cementerio de la iglesia de St Lawrence, en Bradfield. Su vuelo de 1917 no resolvió el problema del apontaje, pero demostró que el problema tenía solución, y esa distinción es la que lo convirtió en un punto de inflexión de la historia naval del siglo XX.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #315fea);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -109,10 +109,10 @@ Dunning está enterrado en el cementerio de la iglesia de St Lawrence, en Bradfi
   <p><strong>Nota aclaratoria:</strong> Sobre la identificación de las aeronaves, las fuentes especializadas atribuyen el vuelo del 2 de agosto al Sopwith Pup N6453 y el accidente mortal del 7 de agosto al N6452, si bien algunas obras matizan la primera atribución con la fórmula «se cree que». Existe además una discrepancia menor en el número de intentos realizados el 7 de agosto: la mayoría de las fuentes consultadas coincide en que Dunning completó ese día un apontaje adicional y falleció en un intento posterior. La cifra de 26 nudos del buque y 21 nudos de viento procede del relato clásico del episodio y se ofrece con su conversión aproximada al sistema métrico.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #315fea);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-28 09:46:48 CST
+- **Timestamp de verificación:** 2026-07-30 07:55:10 CST
 - **Fuentes primarias/institucionales consultadas:** Imperial War Museums (fotografía Q 110613, colección Howe T E B, Air Commodore); Royal Navy (nota informativa del centenario, 2017).
 - **Fuentes secundarias de contraste:** Wikipedia en inglés (Edwin Harris Dunning; HMS Furious (47); Sopwith Pup; Tondern raid), BBC News, The Scotsman, borrador preliminar del investigador.
 - **Discrepancias resueltas:** se corrigió la longitud de la cubierta de vuelo de proa del HMS <em>Furious</em>, fijada en unos 160 pies (49 metros) y no en 70 metros; se contrastó la secuencia de intentos del 7 de agosto de 1917 y la atribución de los números de serie N6453 y N6452; se descartó la fecha alternativa del 3 de agosto que aparece en alguna base de datos secundaria, por contradecir al conjunto de fuentes institucionales.

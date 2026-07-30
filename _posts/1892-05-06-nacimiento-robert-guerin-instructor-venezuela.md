@@ -15,7 +15,7 @@ image: 1892-05-06-nacimiento-robert-guerin-instructor-venezuela.webp
   <figcaption class="post-caption">Retrato de Robert Guerin, piloto francés integrante de la Misión Aeronáutica Francesa en Venezuela. La fotografía no está fechada con precisión; por el uniforme y su edad aparente corresponde con probabilidad a los años de su servicio naval o a su etapa venezolana de los años veinte. Fuente: <a href="https://favclubven.wordpress.com/2024/06/21/un-acto-de-valor-en-el-centenario-de-la-batalla-de-carabobo/" style="color: #315fea; text-decoration: none;">FAV-CLUB, archivo FC</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1892-05-06-nacimiento-robert-guerin-instructor-venezuela.webp
 <p>Concluido su contrato, Guerin no regresó a Europa. Se estableció en el país, adoptó la nacionalidad venezolana y desarrolló allí una segunda carrera que abarcó la instrucción de vuelo, los primeros raids de navegación aérea sobre el interior del territorio, la investigación técnica de accidentes y la dirección de la aviación comercial. Murió en Caracas el 7 de noviembre de 1953.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ image: 1892-05-06-nacimiento-robert-guerin-instructor-venezuela.webp
 - **Destinos en la Gran Guerra:** Centros de Aviación Marítima de Bône (Argelia) en 1917 y 1918, y de Platéali (Grecia) en 1918.
 - **Misión en Venezuela:** integrante de la Misión Aeronáutica Francesa contratada por el gobierno de Juan Vicente Gómez, llegada a La Guaira en enero de 1921.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -54,7 +54,7 @@ El material que Venezuela adquirió en Francia era el mismo con el que se instru
 
 La llegada de la misión francesa consolidó un modelo pedagógico y doctrinal de matriz europea en la naciente aviación venezolana. Antes de decidirse por Francia, el gobierno había sopesado alternativas italianas y estadounidenses. La opción francesa no fue únicamente técnica: implicó adoptar una nomenclatura, un método de instrucción y una relación comercial que orientaría durante años las compras de material aeronáutico. En ese contexto, los instructores no eran solo pilotos, sino agentes de una influencia cultural más amplia, y la prensa de la época los trató con una mezcla de admiración y curiosidad.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -74,7 +74,7 @@ La trayectoria de Guerin puede reconstruirse a partir de hitos documentados a am
 - **1934-1935:** ejerce la dirección de la empresa de aviación comercial surgida tras la adquisición estatal de los activos de la compañía francesa Aéropostale en el país.
 - **7 de noviembre de 1953:** fallece en Caracas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -84,7 +84,7 @@ La instrucción impartida en Maracay durante 1921 permitió que los primeros alu
 
 Su decisión de permanecer en el país prolongó ese efecto mucho más allá del contrato original. Los vuelos de navegación de 1926 y 1928 demostraron que la aviación podía enlazar regiones que hasta entonces dependían de semanas de viaje terrestre, y sirvieron de argumento práctico para la construcción de campos de aterrizaje en el interior. La investigación del accidente de 1931 introdujo además un principio que hoy resulta elemental: que la causa de un siniestro debe establecerse mediante el examen de testimonios y evidencias, y no mediante la conjetura o la atribución automática de culpa al piloto.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -94,7 +94,7 @@ La Escuela de Aviación Militar de Maracay, en cuyos primeros pasos intervino, e
 
 Su figura ilustra también un fenómeno más amplio: el de los aviadores europeos de la Gran Guerra que, terminado el conflicto, trasladaron su experiencia a los países que estaban creando entonces sus propias fuerzas aéreas. Guerin llevó ese proceso hasta sus últimas consecuencias al naturalizarse y morir en el país que había contribuido a enseñar a volar, tres décadas después de haber desembarcado en La Guaira.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
@@ -110,10 +110,10 @@ Su figura ilustra también un fenómeno más amplio: el de los aviadores europeo
   <p><strong>Nota aclaratoria:</strong> Existe una discrepancia relevante sobre la fecha de nacimiento. Diversas recopilaciones divulgativas sitúan el nacimiento el 3 de agosto de 1897, pero la única fuente especializada localizada que ofrece datos de estado civil —la ficha aportada por el historiador de aeronáutica naval Lucien Morareau, fundador de la ARDHAN, en el Forum PAGES 14-18— consigna el 6 de mayo de 1892 en Montmartin-sur-Mer, junto con el lugar de nacimiento, los tres brevets y los destinos de guerra. Se ha adoptado esta última por su carácter documental y por coherencia interna: un nacimiento en 1897 implicaría la obtención del brevet de piloto de la Marina antes de cumplir los veinte años. También difieren las fuentes en el grado: los repertorios franceses lo registran como maestre piloto, mientras que la documentación venezolana lo trata como Alférez de Navío, probablemente por equivalencia protocolaria adoptada en el país. Sobre el vuelo a Guanare, el telegrama de prensa reproducido por el cronista local lo fecha el 20 de marzo de 1926, frente al 26 de marzo que recogen otras recopilaciones. La fotografía del retrato carece de fecha documentada y se presenta como tal.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-28 16:21:47 CST
+- **Timestamp de verificación:** 2026-07-30 08:33:37 CST
 - **Fuentes primarias/institucionales consultadas:** ficha biográfica de Lucien Morareau (ARDHAN) en el Forum PAGES 14-18; telegrama de prensa de 1926 reproducido por el cronista de Guanare a partir de la obra de Quintero García.
 - **Fuentes secundarias de contraste:** FAV-CLUB, El Universal, Museo del Transporte de Caracas, Wikipedia en español e inglés, borrador preliminar del investigador.
 - **Discrepancias resueltas:** se corrigió la fecha de nacimiento de 3 de agosto de 1897 a 6 de mayo de 1892, conforme a la única fuente especializada con datos de estado civil y por coherencia con las fechas de obtención de sus brevets; se dejó constancia de la divergencia entre el grado francés de maestre piloto y la designación venezolana de Alférez de Navío; se adoptó el 20 de marzo de 1926 como fecha del vuelo a Guanare según el telegrama de la época.

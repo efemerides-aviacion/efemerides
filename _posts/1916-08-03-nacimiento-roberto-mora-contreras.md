@@ -15,7 +15,7 @@ image: 1916-08-03-nacimiento-roberto-mora-contreras.webp
   <figcaption class="post-caption">Retrato de Roberto José Mora Contreras con uniforme de oficial de la aviación militar venezolana, en el que se aprecian las insignias de piloto. La fotografía carece de fecha documentada; corresponde a algún momento de su carrera entre 1940 y 1949. Fuente: <a href="https://favclubven.wordpress.com/2025/12/29/el-capitan-roberto-jose-mora-contreras-pionero-en-aviones-jet/" style="color: #315fea; text-decoration: none;">FAV-CLUB, archivo de Arturo Soto</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1916-08-03-nacimiento-roberto-mora-contreras.webp
 <p>Una comisión de estudios en el Reino Unido lo situó, en noviembre de 1948, a los mandos de un Gloster Meteor biplaza: fue el primer venezolano que voló en un avión de propulsión a chorro. Cuatro meses más tarde repitió la experiencia en solitario. No llegó a pilotar los reactores que ayudó a evaluar: murió el 7 de julio de 1949, a pocas semanas de cumplir 33 años, en el accidente de un bombardero B-25J Mitchell en la serranía mirandina.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -38,7 +38,7 @@ image: 1916-08-03-nacimiento-roberto-mora-contreras.webp
 - **Hito principal:** primer venezolano en volar en un avión de propulsión a chorro, en noviembre de 1948, sobre un Gloster Meteor T.Mk.7 biplaza en el Reino Unido.
 - **Familia:** casado con Alice Madsberg, de origen danés; padre de Roberto Mora Madsberg, que también sería piloto.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -56,7 +56,7 @@ Cuando Mora obtuvo su diploma en 1940, la aviación militar venezolana operaba m
 
 La posguerra convirtió al Reino Unido en escaparate de la técnica aeronáutica para las fuerzas aéreas latinoamericanas, y los fabricantes británicos cultivaron activamente ese mercado invitando a oficiales extranjeros a volar sus productos. En Venezuela, la figura del piloto militar gozaba de un prestigio social considerable y la prensa seguía con atención los hitos aeronáuticos nacionales. En ese clima, el vuelo de un venezolano en un reactor se leyó menos como una proeza individual que como una señal de que el país accedía a la vanguardia técnica del momento.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -77,7 +77,7 @@ Los hitos documentados de su vida permiten seguir el itinerario completo, desde 
 - **7 de julio de 1949:** fallece al estrellarse el B-25J Mitchell FAV 7B40 en el que regresaba de Caracas a Maracay, junto a los suboficiales Carlos Fierro, Héctor Tenreiro y Silvio Rivera.
 - **5 de julio de 1970:** la Escuela de Aviación Militar gradúa la promoción de cuarenta y cinco Subtenientes que lleva su nombre.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -87,7 +87,7 @@ Las evaluaciones realizadas en el Reino Unido entre 1948 y 1949 no eran un ejerc
 
 El segundo efecto fue humano y quedó truncado. La Fuerza Aérea había formado a tres pilotos calificados en reactores para constituir el núcleo del futuro escuadrón de caza a reacción. La muerte de Mora en julio de 1949, cuando aguardaba destino a esa unidad, privó a la institución del oficial con mayor experiencia acumulada en el nuevo tipo de propulsión justo en el momento en que iba a resultar más necesaria. Su desaparición, junto a la de los tres suboficiales que lo acompañaban, incorporó a toda la tripulación al llamado Escuadrón de Héroes de la aviación militar venezolana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -99,7 +99,7 @@ Hay también una continuidad familiar. Su hijo Roberto Mora Madsberg, que tenía
 
 En términos históricos, su vuelo de noviembre de 1948 marca el punto en que la aviación militar venezolana entra en contacto directo con la propulsión a reacción. La transición que se abrió entonces —de la hélice al chorro— reorganizaría por completo la doctrina, la infraestructura y la formación de pilotos del país en las décadas siguientes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
@@ -114,10 +114,10 @@ En términos históricos, su vuelo de noviembre de 1948 marca el punto en que la
   <p><strong>Nota aclaratoria:</strong> El núcleo biográfico procede del trabajo documental de Arturo Soto Loreto, publicado en 2024 y 2025 en dos medios especializados venezolanos y elaborado con el apoyo del historiador Freddy Luis Pedrique Pérez y su obra «La Aviación en Venezuela 1920-1950». Ambas versiones coinciden en fechas, nombres y circunstancias, si bien proceden del mismo autor, por lo que no constituyen fuentes plenamente independientes entre sí. No se localizaron fuentes institucionales oficiales de la Fuerza Aérea Venezolana accesibles en línea que permitan contrastar el acta de nacimiento ni los detalles del accidente. Las fuentes coinciden en que el vuelo de noviembre de 1948 se realizó en un Gloster Meteor T.Mk.7 biplaza, pero difieren sobre la variante empleada en el vuelo en solitario del 20 de marzo de 1949: unas indican genéricamente «Gloster Meteor» y otras precisan la versión monoplaza F.Mk.8, extremo que aquí no se afirma. Tampoco hay acuerdo sobre la designación de los cazas adquiridos en julio de 1949, citados como Vampire FB.5 o como FB.52 —esta última, la denominación de exportación—, por lo que se ha optado por no precisar la variante. La condición de «primer venezolano en volar un avión a reacción» está sostenida de manera consistente por la historiografía aeronáutica venezolana consultada, sin que se haya localizado documentación que la contradiga. La fotografía del retrato carece de fecha documentada y se presenta como tal.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-29 06:27:41 CST
+- **Timestamp de verificación:** 2026-07-30 08:33:38 CST
 - **Fuentes primarias/institucionales consultadas:** no se localizaron fuentes institucionales oficiales accesibles en línea sobre este oficial.
 - **Fuentes secundarias de contraste:** investigación de Arturo C. Soto Loreto publicada en FAV Grupo (2024) y en FAV-CLUB (2025), con referencia a la obra de Freddy Luis Pedrique Pérez; Wikipedia en español e inglés; borrador preliminar del investigador.
 - **Discrepancias resueltas:** se mantuvo sin precisar la variante del Gloster Meteor empleada en el vuelo en solitario del 20 de marzo de 1949 y la designación de los Vampire adquiridos en julio de 1949 (FB.5 o FB.52), por divergencia entre las fuentes; se verificó la coherencia entre la fecha de nacimiento, la edad al fallecer y la fecha del accidente; se contrastaron las dos versiones publicadas del mismo autor, coincidentes en todos los datos sustantivos.
