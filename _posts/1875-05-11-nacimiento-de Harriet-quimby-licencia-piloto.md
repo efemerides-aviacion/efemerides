@@ -15,13 +15,13 @@ image: 1875-05-11-nacimiento-de-Harriet-quimby-licencia-piloto.webp
   <figcaption class="post-caption">Harriet Quimby posando en su monoplano Blériot, en una fotografía de 1911 atribuida a la George Grantham Bain Collection y conservada en la Library of Congress; la imagen fue utilizada como referencia visual en el artículo sobre su 150.º aniversario. Fuente: Library of Congress / Wikimedia Commons.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Resumen Ejecutivo
 
 Harriet Quimby fue una pionera de la aviación estadounidense nacida el 11 de mayo de 1875 en Arcadia, Michigan. En 1911 obtuvo la primera licencia de piloto concedida a una mujer en Estados Unidos (certificado Nº 37 del Aero Club of America), abriendo camino para las aviadoras posteriores. También hizo historia el 16 de abril de 1912 al cruzar en solitario el Canal de la Mancha en un monoplano Blériot prestado por el propio Louis Blériot. Aunque su hazaña fue opacada por el hundimiento del Titanic ocurrido el día anterior, su legado perdura como una de las grandes pioneras de la aviación femenina.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ Harriet Quimby fue una pionera de la aviación estadounidense nacida el 11 de ma
 - **Aeronave utilizada:** Monoplano Blériot XI de 50 hp
 - **Causa de muerte:** Accidente aéreo durante el Harvard-Boston Aviation Meet en Dorchester Bay
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Especificaciones del Blériot XI
 
@@ -53,7 +53,7 @@ El Blériot XI fue el avión utilizado por Harriet Quimby para cruzar el Canal d
 - **Peso:** Alrededor de 230 kg
 - **Características destacadas:** Fue el avión de Louis Blériot en el primer cruce del Canal de la Mancha (1909), precursor de diseños monoplano que dominarían la aviación posterior
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -79,7 +79,7 @@ Matilde Moisant, hermana de sus instructores, obtuvo su licencia poco después, 
 
 Consciente del poder de la imagen, Quimby diseñó su propio atuendo de vuelo: un traje de vuelo de una pieza de satén color ciruela. Era atrevido, elegante y completamente distintivo. En una época en que las pocas mujeres que volaban usaban chaquetas de cuero y gorros de aviador, el atuendo de Quimby se convirtió en su seña de identidad. Los periódicos la apodaron la "Duquesa de la Aviación" y la "Chica de Satén".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## El cruce del Canal de la Mancha
 
@@ -95,7 +95,7 @@ Tras 59 minutos de vuelo (1 hora y 9 minutos según la BBC), Quimby aterrizó en
 
 El día anterior, 15 de abril, el RMS Titanic se hundió en el Atlántico Norte con más de 1.500 víctimas. La tragedia copó las portadas de todos los periódicos del mundo. La hazaña de Quimby quedó relegada a las páginas interiores de los diarios, lejos de la portada. El historiador de aviación Rob Davis señaló: "Su logro fue relegado a las páginas interiores de los periódicos". El director del Museo de la Sociedad de Transporte de Dover, Brian Flood, añadió: "De no haber sido por su trágica y temprana muerte, Harriet y sus logros no se habrían desvanecido en la oscuridad".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -115,7 +115,7 @@ El día anterior, 15 de abril, el RMS Titanic se hundió en el Atlántico Norte 
 - **2012:** En el centenario de su gesta, se coloca una placa conmemorativa en Whitfield (Dover, Inglaterra), cerca de los terrenos desde donde despegó.
 - **2025:** Se cumplieron 150 años de su nacimiento y 113 años de su trágica muerte.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## La muerte y el olvido
 
@@ -135,7 +135,7 @@ Quimby había sido contratada para realizar un vuelo de correo aéreo oficial de
 
 Quimby fue la cuarta mujer en morir en un accidente aéreo. La noticia de su muerte sí apareció en las portadas de los periódicos, pero su nombre quedó asociado a una tragedia, no a su gran hazaña. Con el tiempo, su figura fue eclipsada por otras aviadoras, como Amelia Earhart, que alcanzarían mayor fama en décadas posteriores.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -156,7 +156,7 @@ Hoy, Harriet Quimby sigue siendo un ejemplo de valentía, determinación y pasi�
 <p><strong>Sobre el accidente:</strong> Quimby murió junto a su pasajero, William A. P. Willard —el organizador del evento— cuando fueron arrojados del avión en pleno vuelo. Las causas exactas no se esclarecieron del todo, aunque se ha sugerido que fue por una ráfaga de viento o porque Willard pudo haberse movido desestabilizando la aeronave.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
@@ -172,7 +172,7 @@ Hoy, Harriet Quimby sigue siendo un ejemplo de valentía, determinación y pasi�
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
