@@ -13,7 +13,7 @@ image: 1895-11-25-nacimiento-adrienne-bolland.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1895-11-25-nacimiento-adrienne-bolland.webp" alt="Adrienne Bolland">
   <figcaption class="post-caption">Retrato de la aviadora francesa Adrienne Bolland, tomado en la década de 1920, cuando ya era reconocida por sus hazañas aéreas. Fuente: Keystone-France/Gamma-Keystone via Getty Images.”</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -21,7 +21,7 @@ image: 1895-11-25-nacimiento-adrienne-bolland.webp
 		El 25 de noviembre de 1895 nació en Arcueil, Francia, Adrienne Bolland (1895–1975), una de las aviadoras más intrépidas del siglo XX. Fue la primera mujer contratada como piloto de pruebas por la Société des Avions Caudron en 1920, segunda mujer en cruzar el Canal de la Mancha y primera en sobrevolar la Cordillera de los Andes en 1921. Su vida estuvo marcada por la audacia, la resistencia y la lucha por la igualdad.
 	</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos biográficos y eventos
 - **Nombre completo:** Adrienne Armande Pauline Bolland  
@@ -30,13 +30,13 @@ image: 1895-11-25-nacimiento-adrienne-bolland.webp
 - **Logros destacados:**  
   - Primera mujer piloto contratada por Caudron (1920)  
   - Segunda mujer en cruzar el Canal de la Mancha (1920)  
-  - [Primera mujer en sobrevolar la Cordillera de los Andes (1921)](https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1921/04/01/adrienne-bolland-cruza-los-andes.html)  
+  - [Primera mujer en sobrevolar la Cordillera de los Andes (1921)](https://efemerides-aviacion.github.io/efemerides/evento/1921/04/01/adrienne-bolland-cruza-los-andes.html)  
   - Récord femenino de loopings (212 en 1924)  
   
 - **Servicio militar/profesional:** Piloto de pruebas, acrobacia aérea, activista en la Resistencia Francesa  
 - **Fecha de fallecimiento:** 18 de marzo de 1975, París, Francia  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 Adrienne Bolland creció en una familia numerosa y desde joven mostró independencia y carácter fuerte. Tras un revés económico en 1919, se volcó a la aviación, obteniendo su licencia en apenas dos meses.
@@ -63,7 +63,7 @@ Su carrera demostró que las mujeres podían superar retos considerados imposibl
 ### Legado
 Adrienne Bolland es recordada como pionera de la aviación mundial y defensora de la igualdad. Su figura sigue siendo homenajeada en Francia, Argentina y Chile.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -77,7 +77,7 @@ Adrienne Bolland es recordada como pionera de la aviación mundial y defensora d
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-11-25 14:22:00 UTC  
