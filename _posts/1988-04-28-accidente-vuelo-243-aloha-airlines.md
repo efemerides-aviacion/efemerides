@@ -2,7 +2,7 @@
 layout: post
 title: "28 de abril de 1988 | Accidente del Vuelo 243 de Aloha Airlines"
 date: 1988-04-28
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Aloha Airlines
@@ -15,14 +15,14 @@ image: 1988-04-28-accidente-vuelo-243-aloha-airlines.webp
   <figcaption class="post-caption">El Boeing 737-297 (N73711) de Aloha Airlines en el aeropuerto de Kahului tras el aterrizaje de emergencia el 28 de abril de 1988, mostrando la sección superior del fuselaje desprendida. Fuente: This Day in Aviation.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 28 de abril de 1988, un Boeing 737-297 de Aloha Airlines sufrió una descompresión explosiva masiva a 24.000 pies sobre Hawái, perdiendo una gran sección del techo del fuselaje. A pesar de los daños estructurales críticos y la exposición directa de los pasajeros al exterior, la tripulación logró realizar un aterrizaje de emergencia exitoso en Maui. El accidente resultó en una víctima mortal (una sobrecargo) y 65 heridos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 
@@ -45,7 +45,7 @@ image: 1988-04-28-accidente-vuelo-243-aloha-airlines.webp
 - **Heridos leves:** 57
 - **Supervivientes:** 94
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -73,7 +73,7 @@ La cultura de mantenimiento de Aloha Airlines había sido criticada antes del ac
 - **13:53:** A las 5 minutos de la descompresión, Schornstheimer contacta con el control de tráfico aéreo de Kahului, en la isla de Maui, y solicita un aterrizaje de emergencia.
 - **14:00:** Schornstheimer aterriza el avión en el aeropuerto de Kahului. El tren de aterrizaje principal se despliega, pero no se puede confirmar que esté asegurado. El aterrizaje es fuerte, y la aeronave se detiene en la pista. La única fallecida es la sobrecargo Clarabelle Lansing, quien fue expulsada de la aeronave durante la descompresión. El resto de los ocupantes (94 personas) sobrevive, con 65 heridos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Sucesos durante el vuelo
 
@@ -91,7 +91,7 @@ La pérdida de la sección del fuselaje fue violenta y repentina. La rápida des
 
 El capitán Robert Schornstheimer y la primera oficial Madeleine Tompkins actuaron con una calma y profesionalismo excepcionales. A pesar de la falta de comunicación entre la cabina y la cabina de pasajeros, y de la exposición al viento huracanado, Schornstheimer inició una maniobra de descenso. La estructura del avión, aunque gravemente dañada, se mantuvo unida. Los controles de vuelo seguían funcionando, pero la aeronave se encontraba en una configuración aerodinámica desconocida. Con un conocimiento profundo del avión y una habilidad innata, logró estabilizar el Boeing 737 y dirigirse a la pista de aterrizaje más cercana. Su aterrizaje, aunque fuerte, evitó una catástrofe mayor.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Investigación y causas
 
@@ -117,7 +117,7 @@ La investigación identificó múltiples factores que contribuyeron al desastre:
 
 Inmediatamente después del accidente, la NTSB emitió recomendaciones urgentes a la FAA para inspeccionar todos los Boeing 737 con un alto número de ciclos de vuelo. También recomendó una revisión de los procedimientos de mantenimiento y la implementación de programas específicos para detectar y prevenir la corrosión en aeronaves.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
@@ -129,7 +129,7 @@ Inmediatamente después del accidente, la NTSB emitió recomendaciones urgentes 
 
 - **Heroísmo en la aviación:** El capitán Robert Schornstheimer y la primera oficial Madeleine Tompkins recibieron numerosos premios por su profesionalismo, incluyendo el premio "Heroísmo" de la Asociación de Pilotos de Líneas Aéreas (ALPA).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
@@ -139,13 +139,13 @@ El legado de Clarabelle "C.B." Lansing, la auxiliar de vuelo fallecida, inspiró
 
 El avión siniestrado, N73711, fue reparado y devuelto al servicio por Aloha Airlines después de un año y medio de reconstrucción, siendo apodado como "The Survivor". Voló comercialmente hasta 1993, cuando Aloha Airlines cesó sus operaciones. Posteriormente fue vendido y usado por otras aerolíneas antes de ser retirado en 1997.
 
----
+<hr>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el nombre "Queen Liliuokalani":</strong> El avión fue bautizado así en honor a la última monarca reinante del Reino de Hawái, depuesta en 1893. Su nombre fue elegido por Aloha Airlines como un tributo a la historia hawaiana.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 
@@ -159,7 +159,7 @@ El avión siniestrado, N73711, fue reparado y devuelto al servicio por Aloha Air
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
 
