@@ -2,7 +2,7 @@
 layout: post
 title: "19 de mayo de 1982 | Accidente del Westland Sea King HC.4 ZA294 en la Guerra de las Malvinas"
 date: 1982-05-19
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Reino Unido
 operator: Royal Navy - 846 Naval Air Squadron
@@ -14,13 +14,13 @@ image: 1982-05-19-accidente-sea-king-za294-malvinas.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1982-05-19-accidente-sea-king-za294-malvinas.webp" alt="Westland Sea King HC.4 ZA294 de la Royal Navy">
   <figcaption class="post-caption">Westland Sea King HC.4 de la Royal Navy (Armada Real Británica), matrícula ZA294, perteneciente al 846 Naval Air Squadron (Escuadrón Aéreo Naval 846), aeronave involucrada en el accidente del 19 de mayo de 1982 durante la Guerra de las Malvinas. Fuente: AirHistory.net.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 19 de mayo de 1982, a las 19:15 horas, un Westland Sea King HC.4 de la Royal Navy (Armada Real Británica) con matrícula ZA294 se estrelló en el Atlántico Sur, aproximadamente a 200 millas al este-noreste de Puerto Argentino/Stanley. La aeronave, perteneciente al 846 Naval Air Squadron (Escuadrón Aéreo Naval 846), realizaba un vuelo de traslado de personal entre el portaaviones HMS Hermes y el buque de asalto HMS Intrepid cuando impactó contra el agua tras perder potencia. De las 31 personas a bordo —miembros del SAS (Special Air Service, Servicio Aéreo Especial), personal de la RAF (Royal Air Force, Real Fuerza Aérea Británica) y tripulantes—, solo 9 sobrevivieron. El accidente representa la mayor pérdida de vidas del Special Air Service desde la Segunda Guerra Mundial. La causa más probable fue el impacto de un gran ave (un albatros) contra el rotor principal o la ingesta del motor, aunque nunca pudo ser confirmada definitivamente por la falta de recuperación de los restos.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 - **Fecha:** 19 de mayo de 1982
@@ -37,7 +37,7 @@ image: 1982-05-19-accidente-sea-king-za294-malvinas.webp
 - **Ruta:** HMS Hermes → HMS Intrepid 
 - **Fase del vuelo:** Aproximación 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -84,13 +84,13 @@ La causa exacta del accidente nunca pudo ser determinada con certeza debido a la
 
 El accidente del Sea King ZA294 permanece como el día más trágico en la historia del Special Air Service (Servicio Aéreo Especial). Un jardín conmemorativo en la iglesia de St. Martin en Hereford (base del SAS) recuerda a los caídos.  Aunque el hecho fue poco difundido en su momento por razones de seguridad operacional, con el paso de los años los supervivientes han compartido sus testimonios, contribuyendo a la memoria histórica del conflicto. El aniversario del accidente se conmemora cada año por la Fleet Air Arm (Arma Aérea de la Flota) y la Asociación de Tripulantes Aéreos.  En 2022, el superviviente Mark Aston publicó el libro *SAS: Sea King*, relatando por primera vez su experiencia. 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes presentan ligeras discrepancias en las cifras: Aviation Safety Network reporta 31 ocupantes y 22 fallecidos . Otras fuentes mencionan 30 ocupantes y 21 o 22 fallecidos . La RAF (Royal Air Force, Real Fuerza Aérea Británica) menciona 21 fallecidos totales, de los cuales 19 eran del SAS . Esta efeméride adopta la cifra de 22 fallecidos, que es la más consistente con las bases de datos aeronáuticas especializadas . El número de fallecidos del SAS varía entre 18 y 20 según las fuentes. La causa del accidente (bird strike - impacto con ave) es la hipótesis más probable, pero nunca fue confirmada oficialmente por la falta de restos recuperables .</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -106,7 +106,7 @@ El accidente del Sea King ZA294 permanece como el día más trágico en la histo
     <li><a href="https://www.airhistory.net/photo/104573/ZA294">AirHistory.net – Photograph of ZA294</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-05-17 11:00:00 UTC
