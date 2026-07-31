@@ -2,7 +2,7 @@
 layout: post
 title: "21 de febrero de 2008 | Accidente del vuelo 518 de Santa Bárbara Airlines"
 date: 2008-02-21
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Venezuela
 operator: Santa Bárbara Airlines
@@ -15,14 +15,14 @@ image: 2008-02-21-accidente-vuelo-518-santa-barbara-airlines.webp
   <figcaption class="post-caption">Santa Bárbara Airlines ATR 42-300 YV1449 estacionado en pista, 17 de febrero de 2008, cuatro días antes del accidente del vuelo 518. Fotografía: Orlando Suárez (JetPhotos).</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 21 de febrero de 2008, el vuelo 518 de Santa Bárbara Airlines, un ATR 42-300 con matrícula YV1449, despegó del Aeropuerto Alberto Carnevalli de Mérida (Venezuela) con destino a Caracas. Minutos después, la aeronave se estrelló contra la montaña conocida como La Cara del Indio, a unos 10 km al noroeste de Mérida, a una altitud de 3.810 metros (12.500 pies). Los 46 ocupantes (43 pasajeros y 3 tripulantes) fallecieron. La investigación oficial determinó que los pilotos, con retraso y bajo presión operacional, despegaron sin inicializar correctamente el sistema AHRS (Attitude and Heading Reference System). El sistema necesitaba 3 minutos de estabilización, pero solo recibió 28 segundos. La tripulación omitió listas de chequeo críticas, voló con instrumentos no fiables y, en condiciones de nubosidad, realizó un giro erróneo que los dirigió hacia terreno elevado. El EGPWS (sistema de alerta de proximidad a tierra) estaba operativo pero carecía de funciones avanzadas. El accidente fue documentado en el episodio "28 Seconds to Survive" de la serie Mayday (temporada 12, episodio 12).</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 - **Fecha del accidente:** 21 de febrero de 2008
@@ -49,7 +49,7 @@ image: 2008-02-21-accidente-vuelo-518-santa-barbara-airlines.webp
 - **Causa oficial:** CFIT (Controlled Flight Into Terrain) por desorientación espacial, debido a despegue con sistema AHRS no inicializado y omisión de listas de chequeo
 - **Factor contribuyente:** Presión operacional por retraso de los pilotos y aproximación de otro vuelo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -81,7 +81,7 @@ El episodio de Mayday titulado "28 Seconds to Survive" (temporada 12, episodio 1
 - **Investigación:** La JIAAC venezolana publicó el informe final número 11-013/2008. La caja negra (CVR - Cockpit Voice Recorder) fue recuperada, pero gran parte de los datos del FDR (Flight Data Recorder) se perdieron [cita: IMDb].
 - **2014:** Se emite el episodio "28 Seconds to Survive" de la serie Mayday (National Geographic), que reconstruye el accidente.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
@@ -90,13 +90,13 @@ El episodio de Mayday titulado "28 Seconds to Survive" (temporada 12, episodio 1
 - **Cultura de seguridad:** El caso se convirtió en un ejemplo clásico en cursos de CRM (Crew Resource Management) sobre cómo la familiaridad con una ruta puede llevar a la complacencia y la omisión de procedimientos.
 - **Impacto en la aviación venezolana:** Fue el segundo accidente grave en menos de dos meses (el primero fue el de Transaven el 4 de enero). Esto generó una crisis de confianza en la aviación civil venezolana y llevó a auditorías internacionales.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
 El accidente del vuelo 518 de Santa Bárbara Airlines sigue siendo, hasta 2026, el accidente más mortífero de un ATR 42 en la historia de la aviación (empatado o superado por otros accidentes según las fuentes). El episodio "28 Seconds to Survive" de Mayday ha mantenido vivo el recuerdo de la tragedia y ha servido como herramienta educativa para pilotos de todo el mundo. La lección principal es que ningún piloto, por experimentado que sea, debe apresurarse a omitir los procedimientos de seguridad estándar. El accidente también evidencia la necesidad de sistemas de respaldo redundantes y de una supervisión más estricta de las aerolíneas que operan en entornos geográficos complejos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Discrepancias encontradas y resueltas
 
@@ -107,7 +107,7 @@ El accidente del vuelo 518 de Santa Bárbara Airlines sigue siendo, hasta 2026, 
 
 **Herramienta utilizada:** Search (con verificación cruzada entre ASN y fuentes audiovisuales).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -120,11 +120,13 @@ El accidente del vuelo 518 de Santa Bárbara Airlines sigue siendo, hasta 2026, 
   </ul>
 </div>
 
+<hr>
+
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La categoría original del post estaba mal escrita como "aviacio-accidente". Ha sido corregida a "aviacion-accidente". El accidente del vuelo 518 fue, en su momento, el más mortífero de un ATR 42. Desde entonces, otros accidentes (como el de Vuelo 691 de Trigana Air Service en 2015 con 54 fallecidos) han superado esta cifra, pero sigue siendo el más trágico en la historia del operador. La altitud del impacto (3.810 m) es inusualmente alta para un accidente aéreo, lo que dificultó las labores de rescate.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-03 16:30 UTC
