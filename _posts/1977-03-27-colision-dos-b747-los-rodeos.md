@@ -2,7 +2,7 @@
 layout: post
 title: "27 de marzo de 1977 | Colisión de dos Boeing 747 en el aeropuerto 'Los Rodeos'"
 date: 1977-03-27
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: España
 operator: KLM / Pan Am
@@ -14,13 +14,13 @@ image: 1977-03-27-colision-dos-b747-los-rodeos.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1977-03-27-colision-dos-b747-los-rodeos.webp" alt="Representación 3D de la colisión de los Boeing 747 en Tenerife">
   <figcaption class="post-caption">Representación en 3D de la colisión entre el Boeing 747‑206B de KLM (PH‑BUF, azul) y el Boeing 747‑121 de Pan Am (N736PA, gris) en la pista del Aeropuerto Los Rodeos (Tenerife), 27 de marzo de 1977. Fuente: <a href="https://www.xataka.com/transporte/1977-dos-boeing-747-colisionaron-aeropuerto-espana-fue-peor-accidente-aereo-historia">Xataka</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 27 de marzo de 1977, un Boeing 747 de KLM (vuelo 4805) despegó sin autorización en niebla densa en el aeropuerto de Los Rodeos (Tenerife), colisionando con un Boeing 747 de Pan Am (vuelo 1736) que taxiaba en la misma pista. Murieron 583 personas de 644 a bordo; solo 61 sobrevivieron del Pan Am. Factores clave: malentendidos radiales, visibilidad nula y saturación por desvíos de Gran Canaria por una bomba. Cambió protocolos de aviación globales.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Datos verificados del evento
 - **Fecha:** 27 de marzo de 1977
@@ -30,7 +30,7 @@ image: 1977-03-27-colision-dos-b747-los-rodeos.webp
 - **Causa principal:** El capitán de KLM inició el despegue sin autorización clara mientras el Pan Am aún rodaba por la misma pista, con visibilidad reducida por niebla espesa.
 - **Impacto inmediato:** Mayor desastre aéreo de la historia civil; redefinió la seguridad operacional y las comunicaciones en cabina.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Contexto Histórico
 
@@ -67,7 +67,7 @@ La cultura de cabina de la época daba al capitán una autoridad casi incuestion
 
 El desastre de Tenerife se estudia en todas las escuelas de aviación como caso paradigmático de fallo en comunicación, jerarquía y gestión de recursos. Marcó un antes y después en la seguridad operacional. En Los Rodeos (hoy Aeropuerto Tenerife Norte) se instaló radar de superficie y se construyeron nuevas calles de rodaje. Existen memoriales en Tenerife, Ámsterdam y California, y el accidente ha sido documentado en series como *Segundos Catastróficos* (*Seconds from Disaster*). Cada 27 de marzo se recuerda a las 583 víctimas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Referencias Verificadas
 <div class="references">
@@ -81,7 +81,7 @@ El desastre de Tenerife se estudia en todas las escuelas de aviación como caso 
     <li><a href="https://es.wikipedia.org/wiki/Desastre_a%C3%A9reo_de_Tenerife">Wikipedia (ES) – Desastre aéreo de Tenerife</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-25 15:00:00 UTC  
