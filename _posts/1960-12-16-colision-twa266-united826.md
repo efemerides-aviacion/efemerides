@@ -2,7 +2,7 @@
 layout: post
 title: "16 de diciembre de 1960 | Colisión aérea entre TWA 266 y United Airlines 826"
 date: 1960-12-16
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Trans World Airlines / United Airlines
@@ -14,14 +14,15 @@ image: 1960-12-16-colision-twa266-united826.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1960-12-16-colision-twa266-united826.jpg" alt="Rutas de vuelo de TWA 266 y United 826 antes de la colisión">
   <figcaption class="post-caption">Rutas de vuelo de las dos aeronaves involucradas en la colisión, el 16 de diciembre de 1960. En naranja la ruta del Vuelo 826 de United Airlines, y en amarillo la ruta del Vuelo 266 de TWA. (Fuente: Informe CAB/NTSB). Traducida al español por quien publica.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 16 de diciembre de 1960, un Lockheed L-1049 Super Constellation de TWA y un Douglas DC-8 de United Airlines colisionaron en pleno vuelo sobre Staten Island, Nueva York. El accidente, que dejó 134 víctimas, reveló las limitaciones del control de tráfico aéreo de la época y condujo a reformas decisivas en la regulación y modernización del sistema ATC en Estados Unidos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Datos verificados del evento
 - **Fecha:** 16 de diciembre de 1960  
 - **Lugar:** Staten Island y Park Slope, Brooklyn, Nueva York  
@@ -32,7 +33,8 @@ image: 1960-12-16-colision-twa266-united826.jpg
 - **Total de víctimas:** 134  
 - **Resultado inmediato:** Colisión aérea más mortífera en EE.UU. hasta ese momento  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Contexto Histórico
 A comienzos de los años 60, el tráfico aéreo en Nueva York crecía rápidamente con la introducción de aviones a reacción. El sistema ATC dependía de radiofaros y procedimientos manuales, lo que generaba riesgos en condiciones de baja visibilidad y espacio aéreo congestionado.
 
@@ -60,7 +62,8 @@ La tragedia, con víctimas en tierra y un único superviviente inicial (Stephen 
 ### Legado
 El accidente es recordado como un punto de inflexión en la seguridad aérea. La FAA lo cita como catalizador del sistema moderno de control de tráfico aéreo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -71,11 +74,14 @@ El accidente es recordado como un punto de inflexión en la seguridad aérea. La
   </ul>
 </div>
 
+<hr>
+
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La matrícula de ambas aeronaves y el número de víctimas fueron confirmados en el informe oficial del CAB/NTSB. Algunas variaciones iniciales en la prensa fueron corregidas con datos oficiales.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-14 14:59 CST  
 - **Fuentes primarias consultadas:** Informe CAB/NTSB, Archivos FAA  
