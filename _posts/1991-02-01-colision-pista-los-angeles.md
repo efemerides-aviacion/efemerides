@@ -2,7 +2,7 @@
 layout: post
 title: "1 de febrero de 1991 | Colisión en pista en Los Ángeles"
 date: 1991-02-01
-categories: [aviacion-accidente]
+categories: [accidente]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: USAir / SkyWest Airlines
@@ -15,14 +15,15 @@ image: 1991-02-01-colision-pista-los-angeles.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1991-02-01-colision-pista-los-angeles.jpg" alt="Boeing 737‑300 de USAir (arriba) y Fairchild Swearingen Metroliner de SkyWest (abajo).">
   <figcaption class="post-caption">Composición con un Boeing 737‑300 de USAir (arriba) y un Fairchild Swearingen Metroliner de SkyWest Airlines (abajo), similares a los aviones involucrados en la colisión en pista de Los Ángeles del 1 de febrero de 1991.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #880e4f);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>En la noche del 1 de febrero de 1991, el vuelo 1493 de USAir, un Boeing 737‑300, aterrizó sobre el vuelo 5569 de SkyWest, un Fairchild Swearingen Metroliner, que estaba alineado y detenido en la pista 24L de LAX, provocando un incendio posterior y la destrucción de ambas aeronaves. El accidente dejó 35 fallecidos y decenas de heridos, y motivó cambios en los procedimientos de seguridad en el aeropuerto de Los Ángeles.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #880e4f);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Datos Verificados
 - **Fecha:** 1 de febrero de 1991  
 - **Lugar:** Aeropuerto Internacional de Los Ángeles (LAX), pista 24L  
@@ -38,7 +39,8 @@ image: 1991-02-01-colision-pista-los-angeles.jpg
   - Total: 35 fallecidos y decenas de heridos.  
 - **Consecuencias inmediatas:** Incendio y destrucción de ambas aeronaves, impacto contra una estación de bomberos desocupada.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #880e4f);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Contexto Histórico
 La colisión en pista de Los Ángeles fue uno de los accidentes más graves en la historia de LAX y puso de relieve la necesidad de reforzar los procedimientos de control de tránsito aéreo y prevención de incursiones en pista.
 
@@ -61,7 +63,8 @@ La colisión en pista de Los Ángeles fue uno de los accidentes más graves en l
 ### Legado
 El accidente es recordado como un caso emblemático de “runway collision” y figura en los estudios de seguridad operacional como ejemplo de la importancia de la conciencia situacional y la redundancia en los sistemas de control.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #880e4f);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -78,7 +81,8 @@ El accidente es recordado como un caso emblemático de “runway collision” y 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #880e4f);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-31 07:05:00 UTC  
 - **Fuentes primarias consultadas:** NTSB; FAA; SKYbrary; Wikipedia; Aviation Safety Network; Los Angeles Times  
