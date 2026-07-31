@@ -2,7 +2,7 @@
 layout: post
 title: "23 de marzo de 1965 | Gemini 3: primer vuelo tripulado del programa Gemini"
 date: 1965-03-23
-categories: [espacial-evento]
+categories: [espacial]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA
@@ -14,13 +14,13 @@ image: 1965-03-23-primer-vuelo-tripulado-programa-gemini.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1965-03-23-primer-vuelo-tripulado-programa-gemini.jpg" alt="Gemini 3">
   <figcaption class="post-caption">Astronautas Virgil I. “Gus” Grissom (izquierda) y John W. Young en la cabina de Gemini 3 durante el primer vuelo tripulado del programa Gemini, el 23 de marzo de 1965. Créditos: NASA.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 23 de marzo de 1965, despegó Gemini 3, el primer vuelo tripulado del programa Gemini de la NASA, con los astronautas Virgil "Gus" Grissom como piloto comandante y John Young como piloto. La misión duró casi 5 horas, completando tres órbitas terrestres bajas y demostrando por primera vez maniobras orbitales tripuladas en EE.UU., usando el sistema OAMS para alterar la trayectoria. La nave, apodada "Molly Brown", fue lanzada desde Cabo Cañaveral en un cohete Titan II y logró una reentrada controlada con amerizaje en el Atlántico.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Datos técnicos de la misión
 - **Fecha de lanzamiento:** 23 de marzo de 1965, 14:24 UTC
@@ -37,7 +37,7 @@ image: 1965-03-23-primer-vuelo-tripulado-programa-gemini.jpg
 - **Amerizaje:** 23 de marzo de 1965, 19:17 UTC, Océano Atlántico (22°26′N 70°51′O)
 - **Estado:** Nave principal exhibida en el National Air and Space Museum, Smithsonian Institution
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Contexto Histórico
 
@@ -80,13 +80,13 @@ La misión Gemini 3 es recordada por varios hitos:
 - **La insumergible "Molly Brown":** El apodo de la nave, aunque inicialmente controvertido, se convirtió en un símbolo del espíritu práctico y el humor de los primeros astronautas.
 - **Exhibición:** La cápsula Gemini 3 se exhibe en el National Air and Space Museum del Smithsonian Institution en Washington D.C., junto a otras naves históricas.
 
-### Nota aclaratoria
+<hr>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el incidente del sándwich:</strong> El sándwich de carne en conserva (corned beef) introducido por John Young en la cabina de Gemini 3 causó un incidente menor que, sin embargo, tuvo consecuencias significativas. Las migas flotantes en gravedad cero podrían haber obstruido instrumentos o afectar sistemas eléctricos. La NASA y el Congreso investigaron el hecho, y a partir de entonces se implementaron normas estrictas sobre qué objetos podían llevar los astronautas en vuelos espaciales. Grissom y Young, sin embargo, no recibieron sanciones disciplinarias formales; el episodio fue tratado con humor en las entrevistas posteriores y se ha convertido en una anécdota icónica de los primeros años de la NASA.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -105,7 +105,7 @@ La misión Gemini 3 es recordada por varios hitos:
     <li><a href="https://www.nasa.gov/wp-content/uploads/2026/01/gt03-pao.pdf?emrc=8fee68">NASA – Transcripción no oficial de la misión Gemini-Titan 3 (23 mar 1965)</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-21 12:15:00 UTC  
