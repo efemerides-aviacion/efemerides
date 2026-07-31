@@ -2,7 +2,7 @@
 layout: post
 title: "23 de mayo de 1958 | Fallece el Capitán Luis Guillermo Hernández Jacobsen en accidente con Vampire FB.52"
 date: 1958-05-23
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Venezuela
 operator: Fuerza Aérea Venezolana (FAV)
