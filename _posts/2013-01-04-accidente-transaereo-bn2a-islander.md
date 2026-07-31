@@ -2,7 +2,7 @@
 layout: post
 title: "4 de enero de 2013 | Accidente de Transaereo BN-2A Islander YV2615"
 date: 2013-01-04
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Venezuela
 operator: Transaereo
@@ -14,13 +14,13 @@ image: 2013-01-04-accidente-transaereo-bn2a-islander.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2013-01-04-accidente-transaereo-bn2a-islander.webp" alt="Britten-Norman BN-2A Islander YV2615 de Transaereo">
   <figcaption class="post-caption">Britten-Norman BN-2A Islander YV2615 de Transaereo, fotografiado en septiembre de 2011. Esta aeronave sufrió un accidente el 4 de enero de 2013 en la ruta Los Roques–Caracas, con 6 víctimas fatales. Fuente: <a href="https://www.jetphotos.com/photo/7210300">Jet Photos - Fotógrafo: Bruno Orofino</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de enero de 2013, el avión Britten-Norman BN-2A Islander matrícula YV2615, operado por la aerolínea venezolana Transaereo, desapareció en el mar Caribe mientras cubría la ruta Los Roques–Caracas. A bordo viajaban 6 personas, todas fallecidas, entre ellas el empresario italiano Vittorio Missoni, heredero de la firma de moda Missoni, su esposa Maurizia Castiglioni y el diseñador venezolano José Gregorio Álvarez. Tras una intensa búsqueda, restos del fuselaje fueron hallados en junio de 2013.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos del evento
 
@@ -37,7 +37,7 @@ image: 2013-01-04-accidente-transaereo-bn2a-islander.webp
 - **Fase de vuelo:** Ascenso inicial / crucero [NO CONFIRMADO]
 - **Causa oficial:** [NO CONFIRMADO] – no se publicó un informe técnico final completo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -55,7 +55,7 @@ El Britten-Norman BN-2A Islander es un avión utilitario bimotor británico dise
 
 La desaparición de Vittorio Missoni (58 años) y su esposa Maurizia Castiglioni (53 años) conmocionó a Italia y al mundo de la moda. La familia Missoni es una de las más emblemáticas de la industria textil italiana, conocida por sus patrones de colores y su estética característica. El accidente puso en el foco mediático las condiciones de seguridad de la aviación regional venezolana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Desarrollo Cronológico
 
@@ -73,7 +73,7 @@ La desaparición de Vittorio Missoni (58 años) y su esposa Maurizia Castiglioni
 
 - **Posterior a 2013:** No se publicó un informe técnico final de la investigación por parte de las autoridades venezolanas. Las causas precisas del accidente permanecen [NO CONFIRMADO].
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
@@ -85,7 +85,7 @@ La desaparición de Vittorio Missoni (58 años) y su esposa Maurizia Castiglioni
 
 - **Legado del BN-2A Islander:** A pesar de este trágico accidente, el Islander sigue siendo una de las aeronaves utilitarias más confiables y utilizadas en el mundo, con más de 1,200 unidades producidas desde 1965.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
@@ -95,7 +95,7 @@ La familia Missoni creó una fundación en memoria de Vittorio y Maurizia, desti
 
 El caso sigue siendo un recordatorio de la importancia de la seguridad en la aviación regional y de la necesidad de contar con sistemas de localización y registro de datos (ELT, grabadoras de voz) incluso en aeronaves de menor tamaño.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 
@@ -108,6 +108,8 @@ El caso sigue siendo un recordatorio de la importancia de la seguridad en la avi
   </ul>
 </div>
 
+<hr>
+
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
   <ul>
@@ -117,7 +119,7 @@ El caso sigue siendo un recordatorio de la importancia de la seguridad en la avi
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
 
