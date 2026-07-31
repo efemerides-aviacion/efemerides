@@ -2,7 +2,7 @@
 layout: post
 title: "22 de mayo de 2010 | Accidente del Vuelo 812 de Air India Express en Mangalore"
 date: 2010-05-22
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: India
 operator: Air India Express
@@ -126,7 +126,7 @@ El accidente del vuelo 812 de Air India Express sigue siendo uno de los más mor
   </ul>
 </div>
 
----
+<hr>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El informe oficial de la investigación determinó que el capitán Zlatko Glušica durmió durante gran parte del vuelo. La grabadora de voz en cabina (CVR) registró patrones de respiración profunda y ronquidos durante al menos 1 hora y 28 minutos. La NTSB citó este caso como el primero en que se registraron ronquidos de un piloto en una CVR como factor contribuyente a un accidente. Aunque algunos medios iniciales especularon sobre el estado de la pista o fallos técnicos, el informe final concluyó que la causa principal fue el error del piloto agravado por la fatiga y el gradiente de autoridad en cabina.</p>
