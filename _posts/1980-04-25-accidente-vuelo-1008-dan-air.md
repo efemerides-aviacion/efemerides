@@ -2,7 +2,7 @@
 layout: post
 title: "25 de abril de 1980 | Accidente del Vuelo 1008 de Dan Air"
 date: 1980-04-25
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: España
 operator: Dan-Air Services Limited
@@ -15,14 +15,14 @@ image: 1980-04-25-accidente-vuelo-1008-dan-air.webp
   <figcaption class="post-caption">Boeing 727-46 G-BDAN de Dan-Air en Birmingham, 24 de julio de 1978. Posteriormente, esta aeronave sufrió un accidente fatal el 25 de abril de 1980. Fuente: Rob Hodgkins / Wikimedia Commons.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 25 de abril de 1980, el vuelo 1008 de Dan-Air, un Boeing 727-46 matrícula G-BDAN, se estrelló en la ladera de Montaña La Esperanza en Tenerife durante la aproximación a Los Rodeos. Murieron las 146 personas a bordo, convirtiéndose en uno de los peores accidentes aéreos en España. La causa oficial se relacionó con una interpretación errónea de un patrón de espera no publicado, navegación imprecisa del capitán y una coordinación inadecuada en cabina. Durante el descenso, poco antes del impacto, se escuchó la activación del GPWS.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Datos verificados del evento
 
@@ -42,7 +42,7 @@ image: 1980-04-25-accidente-vuelo-1008-dan-air.webp
 - **Naturaleza del vuelo:** Vuelo chárter internacional no regular
 - **Investigación:** Comisión de Investigación española (AIB)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Contexto Histórico
 
@@ -71,7 +71,7 @@ La cultura de la aviación en 1980 aún no había incorporado plenamente los con
 - **Activación del GPWS:** El sistema de advertencia de proximidad al terreno se activa. La tripulación inicia un ascenso de emergencia y un viraje pronunciado a la derecha.
 - **13:21:15 UTC:** La aeronave impacta contra la ladera del monte La Esperanza a una altitud de 5.450 pies (1.662 metros). Todos los ocupantes fallecen. La aeronave se desintegra, dejando un rastro de escombros de 350 metros de longitud.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## El accidente: factores desencadenantes
 
@@ -120,7 +120,7 @@ La aeronave sobrevoló brevemente un valle, lo que desactivó temporalmente la a
 
 Fuente: Wikipedia
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Investigación y causas
 
@@ -154,7 +154,7 @@ El addendum británico también señaló que la altitud autorizada de 5.000 pies
 
 El Sindicato Español de Pilotos de Líneas Aéreas (SEPLA) elaboró un estudio crítico con el informe oficial, señalando deficiencias en la investigación. El SEPLA discrepó con la designación de la pista 12 como receptora del vuelo, argumentando que el aeropuerto estaba bajo mínimos meteorológicos para usar esa pista, y que la pista 30 debería haber sido la asignada. También señaló que en los últimos segundos la aeronave sufrió fuertes oscilaciones al aplicar máxima potencia para sobrepasar el monte, encontrándose con corrientes verticales que impidieron el ascenso.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Consecuencias e Impacto
 
@@ -168,7 +168,7 @@ El Sindicato Español de Pilotos de Líneas Aéreas (SEPLA) elaboró un estudio 
 
 - **Refuerzo de la formación en CRM:** La falta de trabajo en equipo entre capitán y copiloto fue identificada como un factor contribuyente, lo que impulsó la implementación de programas de Crew Resource Management en las aerolíneas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Legado
 
@@ -180,14 +180,14 @@ Hoy, el Aeropuerto de Tenerife Norte (Los Rodeos) opera principalmente vuelos in
 
 El vuelo 1008 de Dan Air es un recordatorio de que la seguridad aérea es un esfuerzo constante que requiere procedimientos estandarizados, comunicación clara, formación continua y una infraestructura adecuada.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las discrepancias en las causas:</strong> El informe oficial español atribuyó la causa principal al error del capitán, mientras que el addendum británico enfatizó la ambigüedad de las instrucciones del controlador y la falta de publicación del patrón de espera. El SEPLA, por su parte, criticó la investigación oficial y señaló factores meteorológicos adversos. La comprensión actual del accidente integra todos estos factores como eslabones de una cadena de errores.</p>
 <p><strong>Sobre la fecha:</strong> El accidente ocurrió el 25 de abril de 1980. Las 146 víctimas (138 pasajeros y 8 tripulantes) fallecieron en el impacto. El avión quedó completamente destruido.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Referencias Verificadas
 
@@ -202,7 +202,7 @@ El vuelo 1008 de Dan Air es un recordatorio de que la seguridad aérea es un esf
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Metadatos de Control
 
