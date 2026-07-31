@@ -2,7 +2,7 @@
 layout: post
 title: "28 de diciembre de 2014 | Accidente del Vuelo 8501 de Indonesia AirAsia"
 date: 2014-12-28
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Indonesia
 operator: Indonesia AirAsia
@@ -14,13 +14,13 @@ image: 2014-12-28-accidente-vuelo-8501-indonesia-airasia.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2014-12-28-accidente-vuelo-8501-indonesia-airasia.webp" alt="Airbus A320-200 (PK-AXC) de Indonesia AirAsia">
   <figcaption class="post-caption">Airbus A320-200 (PK-AXC) de Indonesia AirAsia aterrizando en el Aeropuerto Internacional Ngurah Rai, Tuban, Regencia de Badung, Bali. Ocho meses después, el PK-AXC se estrelló en el mar de Java. Fuente: <a href="https://es.wikipedia.org/wiki/Vuelo_8501_de_Indonesia_AirAsia">Wikipedia - Vuelo 8501 de Indonesia AirAsia</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 28 de diciembre de 2014, el vuelo 8501 de Indonesia AirAsia, un Airbus A320-216 con matrícula PK-AXC, se estrelló en el mar de Java durante su ruta entre Surabaya (Indonesia) y Singapur. La aeronave transportaba 162 personas (155 pasajeros y 7 tripulantes), todas fallecidas. La investigación del Comité Nacional de Seguridad del Transporte de Indonesia (KNKT) concluyó que una avería repetitiva en el sistema de limitación del timón (Rudder Travel Limiter Unit), causada por una grieta en una soldadura, provocó múltiples alertas en cabina. La respuesta inadecuada de la tripulación, que incluyó el reinicio de los ordenadores de vuelo mediante interruptores automáticos, desactivó el piloto automático y cambió la ley de control de vuelo a Alternate Law, lo que derivó en una pérdida de control y una entrada en pérdida aerodinámica de la que no pudieron recuperarse.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos del evento
 
@@ -42,7 +42,7 @@ image: 2014-12-28-accidente-vuelo-8501-indonesia-airasia.webp
 - **Fase de vuelo:** Crucero (FL320 / 32,000 pies / 9,800 m)
 - **Causa oficial:** Fallo en la unidad limitadora del recorrido del timón (RTLU) por grieta en soldadura, seguido de respuesta inadecuada de la tripulación que provocó la desactivación del piloto automático, cambio a Alternate Law, pérdida de control y entrada en pérdida aerodinámica prolongada.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -60,7 +60,7 @@ El Airbus A320 es uno de los aviones comerciales más utilizados del mundo, con 
 
 La investigación estuvo a cargo del KNKT de Indonesia, con participación de expertos de Australia (ATSB), Francia (BEA), Singapur (AAIB) y Malasia (MOT). El informe final, publicado el 1 de diciembre de 2015, reveló discrepancias entre las conclusiones del KNKT y las propuestas por el BEA francés, que solicitaba un lenguaje más explícito sobre "errores de manejo" de la tripulación y "acciones de mantenimiento inadecuadas", lo que generó controversia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Desarrollo Cronológico
 
@@ -100,7 +100,7 @@ La investigación estuvo a cargo del KNKT de Indonesia, con participación de ex
 
 - **1 de diciembre de 2015:** El KNKT publica el informe final de la investigación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
@@ -123,7 +123,7 @@ La investigación estuvo a cargo del KNKT de Indonesia, con participación de ex
     - Al fabricante Airbus: Revisar el manual de entrenamiento (FCTM) sobre procedimientos estándar y desarrollar medios para gestionar múltiples alertas maestras repetitivas sin distracción.
     - A la Dirección General de Aviación Civil de Indonesia: Exigir entrenamiento en recuperación de pérdida de control (Upset Recovery Training) a los operadores bajo CASR 121.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
@@ -141,7 +141,7 @@ El accidente del vuelo QZ8501 es uno de los más graves en la historia de la avi
 
 - **Reconocimiento póstumo:** La Universidad Monash otorgó póstumamente un título de Licenciatura en Comercio a una de las víctimas, Kevin Alexander Sujipto.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 
@@ -159,6 +159,8 @@ El accidente del vuelo QZ8501 es uno de los más graves en la historia de la avi
   </ul>
 </div>
 
+<hr>
+
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
   <ul>
@@ -169,7 +171,7 @@ El accidente del vuelo QZ8501 es uno de los más graves en la historia de la avi
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
 
