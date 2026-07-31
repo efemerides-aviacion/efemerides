@@ -2,7 +2,7 @@
 layout: post
 title: "4 de enero de 2008 | Accidente del Let L-410 YV2081 de Transaven en Los Roques"
 date: 2008-01-04
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Venezuela
 operator: Transaven (Transporte Aéreo Venezolano)
@@ -15,14 +15,14 @@ image: 2008-01-04-accidente-transaven-let410.webp
   <figcaption class="post-caption">Let L-410UVP-E3 de Transaven, matrícula YV2081, mucho antes del accidente el 4 de enero de 2008 en la ruta Maiquetía - Los Roques. Fuente: archivo histórico de aviación.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828;">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de enero de 2008, el vuelo chárter de Transaven operado por un Let L-410UVP-E3 (matrícula YV2081) desapareció en el mar Caribe cuando cubría la ruta Maiquetía - Los Roques. A las 09:38, el piloto Esteban Bessil reportó falla en ambos motores cuando volaba a 910 metros (3.000 pies) de altitud, a 30 km (16 millas náuticas) de la costa del archipiélago. Anunció que intentaría amarizar lo más cerca posible de la isla. Poco después se perdió el contacto. A bordo viajaban 14 personas (12 pasajeros y 2 tripulantes), todas fallecidas. El único cuerpo recuperado fue el del copiloto Osmel Avila Otamendi, hallado por pescadores el 12 de enero. Los restos del avión fueron localizados el 20 de junio de 2013 por el buque estadounidense Sea Scout a 974 metros (3.200 pies) de profundidad, 9 km al sur de Los Roques. La investigación de la JIAAC concluyó que el combustible era suficiente y las condiciones meteorológicas no contribuyeron; la causa exacta del fallo de motores no fue determinada en el informe final.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828;">
 
 ## Datos verificados del evento
 - **Fecha del accidente:** 4 de enero de 2008
@@ -49,7 +49,7 @@ image: 2008-01-04-accidente-transaven-let410.webp
 - **Profundidad del hallazgo:** 974 metros (3.200 pies)
 - **Distancia de la costa:** 9 km (6 millas náuticas)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828;">
 
 ## Contexto Histórico
 
@@ -76,7 +76,7 @@ El caso fue ampliamente cubierto por medios nacionales e internacionales. La fal
 - **20 de junio de 2013:** El buque oceanográfico estadounidense "Sea Scout" localiza los restos del YV2081 a 974 metros (3.200 pies) de profundidad, 9 km al sur de Los Roques. El hallazgo fue posible tras un acuerdo entre los gobiernos de Venezuela e Italia.
 - **2013-2020:** La JIAAC publica el informe final del accidente. El informe confirma que el combustible era suficiente para el vuelo y que las condiciones meteorológicas no contribuyeron. Sin embargo, el informe no contiene una declaración de "Causa Probable" (Probable Cause).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828;">
 
 ## Consecuencias e Impacto
 
@@ -85,13 +85,13 @@ El caso fue ampliamente cubierto por medios nacionales e internacionales. La fal
 - **Especulaciones y teorías:** La coincidencia de fechas con el accidente de Missoni (4 de enero de 2013) y la falta de información oficial generaron todo tipo de especulaciones, desde fallos mecánicos no detectados hasta hipótesis de sabotaje.
 - **Turismo afectado:** El accidente afectó la imagen de Los Roques como destino turístico seguro. Según reportes de la época, algunos turistas italianos optaron por viajar en barco en lugar de hacerlo por vía aérea.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828;">
 
 ## Legado
 
 El accidente del YV2081 sigue siendo una de las tragedias aéreas más recordadas de Venezuela. El hallazgo del fuselaje en 2013 cerró parcialmente el duelo de las familias, pero muchas preguntas quedaron sin respuesta, ya que el informe final de la JIAAC no determinó una causa probable para la falla de ambos motores. El avión permanece sumergido a casi 1.000 metros de profundidad, y solo el cuerpo del copiloto fue recuperado. Los restos de las otras 13 víctimas nunca fueron encontrados. La "ruta maldita" de Los Roques, como la llamaron algunos medios, sigue siendo un recordatorio de los desafíos de la seguridad aérea en rutas insulares.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828;">
 
 ## Discrepancias encontradas y resueltas
 
@@ -101,7 +101,7 @@ El accidente del YV2081 sigue siendo una de las tragedias aéreas más recordada
 - **Causa del accidente:** El informe final de la JIAAC no contiene una declaración de "Causa Probable". La causa exacta de la falla de ambos motores no fue determinada oficialmente.
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828;">
 
 ## Referencias Verificadas
 <div class="references">
@@ -117,11 +117,13 @@ El accidente del YV2081 sigue siendo una de las tragedias aéreas más recordada
   </ul>
 </div>
 
+<hr>
+
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una discrepancia sobre la fecha exacta del accidente: algunas fuentes locales mencionan el 3 de enero, pero los registros internacionales (Wikipedia, ASN, BBC) confirman el 4 de enero de 2008. La cifra de 18 pasajeros mencionada inicialmente por algunas fuentes fue corregida a 14 ocupantes (12 pasajeros + 2 tripulantes). El informe final de la JIAAC no contiene una declaración de "Causa Probable", lo que significa que la causa exacta de la falla de ambos motores no fue determinada oficialmente.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828;">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-03 15:45 UTC
