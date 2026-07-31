@@ -2,7 +2,7 @@
 layout: post
 title: "16 de enero de 2017 | Accidente del Vuelo 6491 de Turkish Airlines Cargo"
 date: 2017-01-16
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Kirguistán
 operator: ACT Airlines (operando para Turkish Airlines Cargo)
@@ -14,13 +14,13 @@ image: 2017-01-16-accidente-vuelo-6491-turkish-airlines.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2017-01-16-accidente-vuelo-6491-turkish-airlines.webp" alt="Boeing 747-412F TC-MCL de ACT Airlines">
   <figcaption class="post-caption">Boeing 747-412F (TC-MCL) de ACT Airlines en el aeropuerto de Maastricht Aachen. Este avión se estrelló cinco días después de que se tomara la foto, cuando realizaba el vuelo 6491 de Turkish Airlines. Fuente: <a href="https://en.wikipedia.org/wiki/Turkish_Airlines_Flight_6491">Wikipedia (EN) – Turkish Airlines Flight 6491</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 16 de enero de 2017, el vuelo 6491 de Turkish Airlines Cargo, operado por ACT Airlines (MyCargo Airlines) con un Boeing 747-412F matrícula TC-MCL, se estrelló durante la aproximación al aeropuerto de Manas en Bishkek, Kirguistán. La aeronave impactó contra la aldea de Dacha-Suu, destruyendo aproximadamente 43 viviendas. Las cuatro personas a bordo (tres pilotos y un técnico de carga) fallecieron, junto con 35 residentes en tierra, totalizando 39 víctimas. La investigación determinó que la tripulación capturó una falsa senda de planeo del ILS (9° en lugar de 3°), ignoró las alertas del sistema GPWS y realizó un go-around demasiado tarde, a solo 58 pies sobre el nivel del suelo. La fatiga y la presión operativa fueron factores contribuyentes.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos del evento
 
@@ -45,7 +45,7 @@ image: 2017-01-16-accidente-vuelo-6491-turkish-airlines.webp
 - **Fase de vuelo:** Aproximación final / go-around
 - **Causa oficial:** Captura de falsa senda de planeo del ILS (9° en lugar de 3°), falta de perfil de aproximación estable, respuesta inadecuada a las alertas del GPWS, go-around iniciado demasiado tarde. Factores contribuyentes: fatiga de la tripulación y presión operativa.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -63,7 +63,7 @@ El Boeing 747-412F era un carguero de última generación equipado con sistemas 
 
 La tripulación estaba compuesta por ciudadanos turcos, mientras que las víctimas en tierra eran en su mayoría kirguisas. Esto generó tensiones diplomáticas iniciales, aunque Turquía ofreció asistencia inmediata en la investigación y compensaciones a las familias afectadas. Turkish Airlines, una aerolínea con alta reputación internacional, sufrió un daño significativo en su imagen, aunque la operación estaba subcontratada a ACT Airlines (MyCargo Airlines).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Desarrollo Cronológico
 
@@ -87,7 +87,7 @@ La tripulación estaba compuesta por ciudadanos turcos, mientras que las víctim
 
 - **Diciembre de 2017:** La CIAA publica el informe final de la investigación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
@@ -112,7 +112,7 @@ La tripulación estaba compuesta por ciudadanos turcos, mientras que las víctim
     - A Turkish Airlines y ACT Airlines: Reforzar los programas de gestión de la fatiga (FRMS) y el entrenamiento en respuesta a alertas del GPWS.
     - A la DGCA de Turquía: Exigir auditorías más estrictas a las aerolíneas que operan bajo wet lease.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
@@ -130,7 +130,7 @@ El accidente del vuelo TK6491 es el peor desastre aéreo en la historia de Kirgu
 
 - **Legado de la capitana Hatice Kübra Yiğit:** Su nombre es recordado en Turquía como símbolo de las mujeres pioneras en la aviación de carga. Una beca de estudios aeronáuticos fue creada en su memoria.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 
@@ -147,6 +147,8 @@ El accidente del vuelo TK6491 es el peor desastre aéreo en la historia de Kirgu
   </ul>
 </div>
 
+<hr>
+
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
   <ul>
@@ -157,7 +159,7 @@ El accidente del vuelo TK6491 es el peor desastre aéreo en la historia de Kirgu
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
 
