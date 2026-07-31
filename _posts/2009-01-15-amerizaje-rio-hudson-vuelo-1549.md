@@ -2,7 +2,7 @@
 layout: post
 title: "15 de enero de 2009 | Amerizaje del vuelo 1549 de US Airways en el río Hudson"
 date: 2009-01-15
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: US Airways
@@ -15,14 +15,14 @@ image: 2009-01-15-amerizaje-rio-hudson-vuelo-1549.webp
   <figcaption class="post-caption">US Airways Vuelo 1549 (Airbus A320-214, matrícula N106US) flotando en el río Hudson tras el amerizaje de emergencia, 15 de enero de 2009. Los pasajeros esperan sobre las alas y los toboganes la llegada de las embarcaciones de rescate. Fuente: <a href="https://www.britannica.com/topic/US-Airways-Flight-1549-incident">Britannica – US Airways Flight 1549 incident</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 15 de enero de 2009, el vuelo 1549 de US Airways, un Airbus A320-214 (matrícula N106US), despegó del Aeropuerto LaGuardia de Nueva York con destino a Charlotte (Carolina del Norte). A los pocos minutos, a 2.818 pies (859 m) de altitud, impactó contra una bandada de gansos canadienses, lo que provocó la pérdida total de potencia en ambos motores. El capitán Chesley "Sully" Sullenberger, de 57 años, y el primer oficial Jeffrey Skiles, de 49 años, decidieron amerizar en el río Hudson tras comprobar que era imposible regresar a LaGuardia o alcanzar el aeropuerto de Teterboro (Nueva Jersey). A las 15:30 hora local, la aeronave impactó el agua a 125 nudos (230 km/h) con un ángulo de descenso de -3,4°. Los 155 ocupantes (150 pasajeros y 5 tripulantes) sobrevivieron, con 100 heridos (95 leves y 5 graves). El evento, conocido como el "Milagro del Hudson", es considerado el amerizaje más exitoso de la historia de la aviación comercial.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 - **Fecha del accidente:** 15 de enero de 2009
@@ -53,7 +53,7 @@ image: 2009-01-15-amerizaje-rio-hudson-vuelo-1549.webp
 - **Causa oficial (NTSB):** Ingestión de aves de gran tamaño en ambos motores, resultando en pérdida casi total de empuje
 - **Aeronave siniestrada:** Preservada en el Carolinas Aviation Museum (Charlotte, NC), renombrado como Sullenberger Aviation Museum en 2022
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -90,7 +90,7 @@ El "Milagro del Hudson" se convirtió en un fenómeno cultural global. Inspiró 
 - **2016:** Estreno de la película *Sully*, dirigida por Clint Eastwood y protagonizada por Tom Hanks.
 - **2022:** El Carolinas Aviation Museum anuncia su renombramiento como Sullenberger Aviation Museum, en honor al capitán. La nueva sede abre en septiembre de 2022.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
@@ -99,13 +99,13 @@ El "Milagro del Hudson" se convirtió en un fenómeno cultural global. Inspiró 
 - **Reconocimiento a la tripulación:** Sullenberger, Skiles y los auxiliares de vuelo recibieron la Medalla de Maestría del Gremio de Pilotos y Navegantes Aéreos (GAPAN), el más alto honor de la aviación civil.
 - **Legado cultural:** El "Milagro del Hudson" se convirtió en un caso de estudio en escuelas de negocios y aviación sobre liderazgo bajo presión, gestión de crisis y toma de decisiones en entornos de incertidumbre.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
 El Airbus A320 N106US se exhibe en el **Sullenberger Aviation Museum** (anteriormente Carolinas Aviation Museum) en Charlotte, Carolina del Norte, junto a los motores originales y el tobogán utilizado en la evacuación. El avión conserva las marcas del impacto y los daños del agua, como testimonio de uno de los momentos más extraordinarios de la historia de la aviación. El capitán Sullenberger, retirado en 2010, se convirtió en asesor de seguridad aérea, conferenciante y autor. El accidente sigue siendo el amerizaje más exitoso de un avión comercial sin víctimas mortales, un récord que perdura hasta hoy.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Discrepancias encontradas y resueltas
 
@@ -115,7 +115,7 @@ El Airbus A320 N106US se exhibe en el **Sullenberger Aviation Museum** (anterior
 - **Responsable de apertura de la puerta trasera izquierda:** Algunas fuentes indican que fue un auxiliar de vuelo; otras, un pasajero. El informe de la NTSB señala que no se pudo determinar con certeza. Se omite la atribución.
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -129,11 +129,13 @@ El Airbus A320 N106US se exhibe en el **Sullenberger Aviation Museum** (anterior
   </ul>
 </div>
 
+<hr>
+
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El vuelo 1549 originalmente tenía escala en Charlotte (Carolina del Norte) y continuaba a Seattle (Washington). El segmento Charlotte–Seattle fue cancelado ese día. La aeronave N106US fue dada de baja (written off) tras el amerizaje. En 2022, el museo que la alberga cambió su nombre de Carolinas Aviation Museum a Sullenberger Aviation Museum en honor al capitán. La fotografía utilizada en esta efeméride es una de las más icónicas del evento, mostrando a los pasajeros sobre las alas esperando el rescate.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-03 17:15 UTC
