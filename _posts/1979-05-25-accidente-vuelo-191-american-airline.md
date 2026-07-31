@@ -2,7 +2,7 @@
 layout: post
 title: "25 de mayo de 1979 | La tragedia del vuelo 191 de American Airlines en Chicago"
 date: 1979-05-25
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: American Airlines
