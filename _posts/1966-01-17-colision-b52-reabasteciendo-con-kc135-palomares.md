@@ -2,7 +2,7 @@
 layout: post
 title: "17 de enero de 1966 | Colisión en maniobra de reabastecimiento entre un B-52G y un KC-135 sobre Palomares"
 date: 1966-01-17
-categories: [aviacion-accidente]
+categories: [accidente]
 author: [Enrique Pomares]
 pais: España
 operator: USAF
@@ -14,14 +14,15 @@ image: 1966-01-17-colision-b52-reabasteciendo-con-kc135-palomares.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1966-01-17-colision-b52-reabasteciendo-con-kc135-palomares.jpg" alt="B-52 repostando con KC-135">
   <figcaption class="post-caption">Maniobra de reabastecimiento aéreo entre un B-52 Stratofortress y un KC-135 Stratotanker durante Operation Chrome Dome, similar a las aeronaves involucradas en la colisión fatal del 17 de enero de 1966 sobre Palomares que liberó cuatro bombas nucleares." Fecha: Años 1960 (antes de 17/01/1966). Fuente: https://theaviationgeekclub.com/remembering-operation-chrome-dome-the-1960s-airborne-alert-missions-flown-by-b-52-strategic-bombers-armed-with-thermonuclear-weapons/</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 17 de enero de 1966, un bombardero estratégico Boeing B‑52G de la USAF colisionó con un avión cisterna KC‑135 durante una maniobra de reabastecimiento en vuelo sobre Palomares (Almería, España). El accidente provocó la muerte de siete tripulantes y el desprendimiento de cuatro bombas termonucleares B28, dos de las cuales dispersaron plutonio sobre terreno agrícola y habitado. Históricamente se lo conoce como “Incidente de Palomares”, denominación diplomática usada en la época, aunque en realidad fue un accidente fatal con gran repercusión ambiental.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Datos Técnicos Verificados
 - **Fecha del accidente:** 17 de enero de 1966  
 - **Lugar:** Palomares, Almería, España  
@@ -34,7 +35,8 @@ image: 1966-01-17-colision-b52-reabasteciendo-con-kc135-palomares.jpg
 - **Fase de vuelo:** Reabastecimiento en vuelo  
 - **Causa oficial (síntesis):** Colisión durante maniobra de reabastecimiento; desprendimiento de cuatro bombas termonucleares B28, dos con dispersión de plutonio.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Contexto Histórico
 El accidente se produjo en plena Guerra Fría, cuando la USAF mantenía vuelos estratégicos armados con armas nucleares.
 
@@ -61,7 +63,8 @@ El accidente reforzó la necesidad de protocolos más estrictos en operaciones n
 ### Legado
 Recordado como el “Accidente de Palomares”, se convirtió en uno de los accidentes nucleares más graves de la Guerra Fría, con repercusiones políticas y ambientales duraderas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -73,7 +76,8 @@ Recordado como el “Accidente de Palomares”, se convirtió en uno de los acci
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-13 10:05:00 UTC  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN); Boston University; Broken Arrow Project  
