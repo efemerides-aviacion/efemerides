@@ -14,14 +14,15 @@ image: 1949-03-02-primera-circunnavegación-alrededor-del-mundo.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1949-03-02-primera-circunnavegación-alrededor-del-mundo.jpg" alt="B-50A Lucky Lady II recibe reabastecimiento en vuelo, 1949">
   <figcaption class="post-caption">B-50A Superfortress ‘Lucky Lady II’ (46-010) recibe reabastecimiento en vuelo de KB-29M durante su circunnavegación sin escalas, feb-mar 1949. USAF / Wikimedia Commons.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 2 de marzo de 1949, el B-50A "Lucky Lady II" de la USAF completó la primera circunnavegación aérea sin escalas del mundo, tras 94 horas y 1 minuto de vuelo y 39.946 millas náuticas recorridas. Con cinco pilotos rotativos y cuatro reabastecimientos en vuelo por KB-29, demostró la nueva era del vuelo estratégico global. El récord validó el reabastecimiento aéreo como herramienta clave para operaciones de la Guerra Fría.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+
 ## Datos verificados del evento
 - **Fecha:** 2 de marzo de 1949  
 - **Lugar de partida y llegada:** Carswell AFB, Fort Worth, Texas  
@@ -32,7 +33,8 @@ image: 1949-03-02-primera-circunnavegación-alrededor-del-mundo.jpg
 - **Reabastecimientos en vuelo:** 4 (Atlántico, Pacífico, India) por KB-29M de la 43rd Air Refueling Squadron  
 - **Premios:** Mackay Trophy, validación del KC-97 como estándar USAF  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+
 ## Contexto histórico
 La misión de Lucky Lady II fue un hito en la aviación militar, demostrando que la USAF podía proyectar poder aéreo a escala global sin necesidad de escalas terrestres.
 
@@ -57,7 +59,8 @@ El vuelo demostró la viabilidad del reabastecimiento aéreo como herramienta es
 ### Legado
 Lucky Lady II es recordada como pionera en vuelos de largo alcance, y su misión consolidó la doctrina de disuasión nuclear basada en bombarderos estratégicos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+
 ## Referencias verificadas
 <div class="references">
   <ul>
@@ -70,6 +73,8 @@ Lucky Lady II es recordada como pionera en vuelos de largo alcance, y su misión
   </ul>
 </div>
 
+<hr>
+
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Aunque todas las fuentes coinciden en que la misión del B-50A “Lucky Lady II” completó la primera circunnavegación aérea sin escalas el 2 de marzo de 1949, existen matices sobre cómo se define el logro.</p>
 
@@ -78,7 +83,8 @@ Lucky Lady II es recordada como pionera en vuelos de largo alcance, y su misión
 <p>También se menciona la controversia con vuelos previos de larga distancia (como el de Howard Hughes en 1938 o los vuelos de la RAF en la posguerra), pero ninguno cumplió la condición de circunnavegación completa sin aterrizajes. Por ello, la FAI y la USAF reconocen a Lucky Lady II como el primer vuelo de este tipo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-02-28 12:05 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES, FAI.org, Aviación Digital, Microsiervos, HistoryNet  
