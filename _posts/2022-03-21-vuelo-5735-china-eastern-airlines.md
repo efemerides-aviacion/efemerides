@@ -2,7 +2,7 @@
 layout: post
 title: "21 de marzo de 2022 | Vuelo 5735 de China Eastern Airlines"
 date: 2022-03-21
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: China
 operator: China Eastern Airlines
@@ -14,13 +14,13 @@ image: 2022-03-21-vuelo-5735-china-eastern-airlines.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2022-03-21-vuelo-5735-china-eastern-airlines.jpg" alt="Boeing 737-800 B-1791 de China Eastern Airlines">
   <figcaption class="post-caption">China Eastern Airlines Boeing 737-800 B-1791 en librea "Pavo Real de Yunnan", fotografiado por Dennis HK en el Aeropuerto Internacional de Shanghai Hongqiao (ZSPD). Tomada el 28 de junio de 2018 con Canon EOS 7D Mark II, este es el mismo avión que operó el Vuelo MU5735 el 21 de marzo de 2022 antes de su accidente fatal.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El vuelo MU5735 de China Eastern Airlines, un Boeing 737-800 (B-1791), despegó de Kunming hacia Guangzhou el 21 de marzo de 2022. A las 14:23 CST, descendió en picada desde 8.900 m e impactó contra una colina en Teng County, Guangxi, matando a 132 ocupantes (123 pasajeros, 9 tripulantes). La investigación preliminar descartó fallos mecánicos o clima adverso; datos de EE.UU. sugieren inputs intencionales en cabina, pero China no ha publicado informe final citando seguridad nacional.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos Técnicos Verificados
 - **Fecha del accidente:** 21 de marzo de 2022
@@ -39,7 +39,7 @@ image: 2022-03-21-vuelo-5735-china-eastern-airlines.jpg
 - **Fase de vuelo:** En ruta, nivel de crucero FL291 (aproximadamente 8.900 m)
 - **Causa oficial:** Pendiente de determinación; la investigación continúa sin informe final publicado a marzo de 2026
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -92,7 +92,7 @@ El accidente del vuelo 5735 de China Eastern Airlines es, hasta la fecha, el peo
 <p><strong>Nota aclaratoria sobre el estado de la investigación:</strong> A marzo de 2026, la Administración de Aviación Civil de China (CAAC) no ha publicado el informe final del accidente del vuelo MU5735. La información disponible proviene de informes preliminares oficiales (abril de 2022), filtraciones a medios internacionales como Reuters y análisis de expertos basados en datos parciales. Según fuentes no oficiales, los registradores de vuelo analizados en Estados Unidos indicarían movimientos de control intencionales en cabina como causa probable, pero la CAAC no ha confirmado ni desmentido esta hipótesis. La demora en la publicación del informe ha sido atribuida a "consideraciones de seguridad nacional" por fuentes anónimas. En consecuencia, la causa oficial del accidente sigue sin determinarse, y cualquier afirmación sobre la misma debe considerarse especulativa hasta que la CAAC publique el informe final.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -106,7 +106,7 @@ El accidente del vuelo 5735 de China Eastern Airlines es, hasta la fecha, el peo
     <li><a href="https://www.infobae.com/america/mundo/2022/03/22/accidente-aereo-en-china-familiares-de-las-victimas-visitan-el-lugar-del-siniestro-para-rendirles-homenaje/">Infobae – Accidente aéreo en China: familiares visitan el lugar del siniestro (22 Mar 2022)</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-19 17:30:00 UTC  
