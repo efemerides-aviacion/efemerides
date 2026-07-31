@@ -2,7 +2,7 @@
 layout: post
 title: "16 de marzo de 1969 | Accidente del Vuelo 742 de Viasa"
 date: 1969-03-16
-categories: [aviacion-accidente]
+categories: [accidente]
 author: Enrique Pomares
 pais: Venezuela
 operator: Viasa / Avensa
@@ -14,13 +14,13 @@ image: 1969-03-16-accidente-vuelo-viasa-742.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-03-16-accidente-vuelo-viasa-742.jpg" alt="McDonnell Douglas DC-9-32 de Viasa">
   <figcaption class="post-caption">El McDonnell Douglas DC‑9‑32 matrícula YV‑C‑AVD de VIASA, fotografiado en plataforma del Long Beach Municipal Airport (LGB), California, durante pruebas y alistamiento en febrero de 1969, pocas semanas antes del accidente de Maracaibo; imagen reproducida por cortesía de Werner Fischdick y publicada por Aviation Safety Network.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 16 de marzo de 1969, el vuelo 742 de Viasa, operado con el McDonnell Douglas DC‑9‑32 matrícula YV‑C‑AVD, se estrelló tras despegar de Grano de Oro, Maracaibo, por una combinación de sobrepeso, pista corta y altas temperaturas. El avión, propiedad de Avensa y arrendado a Viasa bajo modalidad wet lease, perdió el ala izquierda al impactar un poste y cayó sobre la urbanización La Trinidad. El siniestro causó 155 muertos, entre ocupantes y personas en tierra, además de numerosos heridos. Fue la peor tragedia aérea de Venezuela hasta ese momento y un hecho decisivo en el cuestionamiento operacional del aeropuerto de Grano de Oro.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Datos Técnicos Verificados
 - **Fecha del accidente:** 16 de marzo de 1969, aproximadamente a las 12:00 (mediodía)
@@ -41,7 +41,7 @@ image: 1969-03-16-accidente-vuelo-viasa-742.jpg
 - **Fase de vuelo:** Despegue inicial
 - **Causa oficial (síntesis):** Exceso de peso de la aeronave (5,000 libras por encima del máximo permitido para las condiciones existentes), falla en los sensores de temperatura de la pista que proporcionaron datos erróneos a la tripulación, y error humano al iniciar el despegue 400 metros después de la cabecera de la pista, lo que impidió alcanzar la sustentación necesaria en las condiciones de alta temperatura y baja densidad del aire.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Contexto Histórico
 
@@ -56,7 +56,7 @@ El McDonnell Douglas DC-9 era un avión de última generación, diseñado para o
 ### Entorno cultural
 La aviación comercial gozaba de un enorme prestigio. Volar era un símbolo de progreso y modernidad. Viasa, como aerolínea de bandera venezolana, representaba la conexión del país con el mundo. El accidente del 16 de marzo no solo conmocionó a Maracaibo y Venezuela, sino que, al ser en ese momento el peor desastre aéreo de la historia, impactó a la opinión pública global y puso en el centro del debate la seguridad operacional en aeropuertos urbanos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ### Desarrollo Cronológico
 
@@ -83,6 +83,8 @@ El vuelo 742 de Viasa fue, en su momento, el peor desastre aéreo de la historia
 
 El vuelo 742 de Viasa permanece en la memoria colectiva de Venezuela como "La tragedia de La Trinidad" o "La tragedia de Grano de Oro". Marcó un antes y un después en la aviación nacional. El cierre de Grano de Oro y el nacimiento de La Chinita son su legado más tangible. El siniestro, además, sigue siendo el accidente más mortífero en la historia del McDonnell Douglas DC-9  y, hasta el día de hoy, el segundo peor accidente aéreo en Venezuela, solo superado por el Vuelo 708 de West Caribbean en 2005 .
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Nota Aclaratoria: La Participación de Avensa y la Atribución Histórica a Viasa
 
 <div class="note-box">
@@ -91,7 +93,7 @@ El vuelo 742 de Viasa permanece en la memoria colectiva de Venezuela como "La tr
 <p>Por lo tanto, aunque la operación técnica era de Avensa, el vuelo se ofrecía al público y a las autoridades aeronáuticas como un vuelo de Viasa. Esta es la razón por la que el accidente ha pasado a la historia como "el vuelo 742 de Viasa". La distinción legal y operativa entre propiedad y explotación comercial no siempre es clara para el público general, pero es esencial para entender las complejidades de este trágico suceso. La investigación oficial, al analizar las causas, se centró en la operación del vuelo en su conjunto, sin que la disputa sobre la propiedad diluyera las responsabilidades técnicas y humanas que confluyeron en el desastre.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Referencias Verificadas
 <div class="references">
@@ -108,7 +110,7 @@ El vuelo 742 de Viasa permanece en la memoria colectiva de Venezuela como "La tr
     <li><a href="https://www.instagram.com/p/DHPoVSbR3lz/">Instagram @noticiaaldia – 56 años de la Tragedia de La Trinidad</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-13 11:20:00 UTC  
