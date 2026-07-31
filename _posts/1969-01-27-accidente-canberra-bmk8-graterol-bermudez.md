@@ -2,7 +2,7 @@
 layout: post
 title: "27 de enero de 1969 | Accidente del Canberra MK‑8 de la FAV"
 date: 1969-01-27
-categories: [aviacion-accidente]
+categories: [accidente]
 author: [Enrique Pomares]
 pais: Venezuela
 operator: Fuerza Aérea Venezolana
@@ -14,14 +14,15 @@ image: 1969-01-27-accidente-canberra-bmk8-graterol-bermudez.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-01-27-accidente-canberra-bmk8-graterol-bermudez.webp" alt="Accidente del Canberra MK-8 FAV 3216">
   <figcaption class="post-caption">Noticia del Diario El Nacional sobre el milagroso aterrizaje de emergencia del Canberra FAV 3216 en Paraguaná por el capitán Fernando Graterol Calles y el sargento Víctor Bermúdez Mares, inicialmente dados por muertos.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 27 de enero de 1969, un bombardero táctico English Electric Canberra B.Mk.8 (siglas 3216) de la Fuerza Aérea Venezolana sufrió un grave incidente durante un vuelo nocturno de entrenamiento. Con escaso combustible y bajo condiciones meteorológicas adversas, el capitán Fernando Graterol Calles y el sargento técnico Víctor Bermúdez Mares lograron un aterrizaje de emergencia en una salina de Paraguaná, evitando víctimas civiles y sobreviviendo con lesiones menores. El hecho fue recordado como “el milagroso caso del Canberra 3216”.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Datos Verificados del Evento
 - **Fecha:** 27 de enero de 1969  
 - **Lugar:** Península de Paraguaná, Venezuela  
@@ -32,7 +33,8 @@ image: 1969-01-27-accidente-canberra-bmk8-graterol-bermudez.webp
 - **Circunstancias:** Vuelo nocturno de entrenamiento desde Barquisimeto, sorprendido por mal tiempo y desviaciones de navegación.  
 - **Resultado inmediato:** Aterrizaje de emergencia en una salina cercana a Villa Marina, avión capoteado, tripulación con lesiones menores.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Contexto Histórico
 El incidente se convirtió en un símbolo de pericia y supervivencia dentro de la Fuerza Aérea Venezolana.
 
@@ -57,9 +59,12 @@ El accidente reforzó la importancia del entrenamiento en condiciones adversas y
 ### Legado
 El “milagroso caso del Canberra 3216” permanece en la memoria de la aviación militar venezolana como ejemplo de supervivencia y pericia.  
 
+<hr>
+
 **Nota aclaratoria:** Aunque algunas fuentes secundarias mencionan que los Canberra estuvieron en servicio en la FAV solo en las décadas de 1960 y 1970, registros históricos y testimonios directos confirman que continuaron operativos en los años 80. El sistema Canberra realizó su último vuelo oficial el **16 de septiembre de 1990**, completando **37 años de servicio ininterrumpido** en Venezuela.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -72,7 +77,8 @@ El “milagroso caso del Canberra 3216” permanece en la memoria de la aviació
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-25 11:40:00 UTC  
 - **Fuentes primarias consultadas:** FAV-CLUB; Facebook; Scribd  
