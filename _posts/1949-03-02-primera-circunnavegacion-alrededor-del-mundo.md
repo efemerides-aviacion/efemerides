@@ -27,11 +27,11 @@ image: 1949-03-02-primera-circunnavegacion-alrededor-del-mundo.webp
 - **Fecha:** 2 de marzo de 1949  
 - **Lugar de partida y llegada:** Carswell AFB, Fort Worth, Texas  
 - **Duración:** 94 horas y 1 minuto  
-- **Distancia recorrida:** 39.946 millas náuticas (74.000 km)  
-- **Avión:** Boeing B-50A Superfortress “Lucky Lady II” (s/n 46-066)  
+- **Distancia recorrida:** 23.452 millas (37.742 kilómetros)  
+- **Avión:** Boeing B-50A Superfortress “Lucky Lady II” (s/n 46-010)  
 - **Tripulación:** 14 miembros, con cinco pilotos rotativos  
 - **Reabastecimientos en vuelo:** 4 (Atlántico, Pacífico, India) por KB-29M de la 43rd Air Refueling Squadron  
-- **Premios:** Mackay Trophy, validación del KC-97 como estándar USAF  
+- **Premios:** Trofeo Mackay, de la National Aeronautic Association, y Trofeo Air Age, después denominado Trofeo Hoyt S. Vandenberg  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
