@@ -133,7 +133,7 @@ Su huella profesional es igualmente concreta: las WASP acreditaron que una mujer
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-31 09:24:43 CST
+- **Timestamp de verificación:** 2026-08-01 08:23:02 CST
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum, artículo curatorial de Dorothy Cochrane y ficha de la colección WASP; The National WWII Museum de Nueva Orleans; Texas Woman's University, depositaria del archivo oficial de las WASP, fichas «Beginning of the WASP Program» y sección de historia; HistoryLink.org.
 - **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia a las obras de Monahan y Neidel-Greenlee, Merryman, Rickman y Granger; borrador preliminar del investigador.
 - **Discrepancias resueltas:** se consignaron las dos cifras de aeronaves entregadas (12.650 y 12.652) por proceder de instituciones de igual solvencia; se adoptó el resultado 188-169 en la votación de HR 4219, documentado en la bibliografía especializada, frente al 188-161 que circula en fuentes divulgativas; se distinguió la firma de la ley de la Medalla de Oro del Congreso (2009) de la ceremonia de entrega (2010); se separaron las dos formulaciones sobre el porcentaje de traslados, que no son equivalentes; se verificó la coherencia entre la fecha del hecho, el título, el nombre del archivo y el YAML.
