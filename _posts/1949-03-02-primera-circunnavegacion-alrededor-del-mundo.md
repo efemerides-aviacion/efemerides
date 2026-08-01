@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: USAF
 excerpt: "El B-50A Lucky Lady II completó la primera circunnavegación aérea sin escalas en 1949, tras 94 horas y cuatro reabastecimientos en vuelo."
-image: 1949-03-02-primera-circunnavegación-alrededor-del-mundo.jpg
+image: 1949-03-02-primera-circunnavegacion-alrededor-del-mundo.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1949-03-02-primera-circunnavegación-alrededor-del-mundo.jpg" alt="B-50A Lucky Lady II recibe reabastecimiento en vuelo, 1949">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1949-03-02-primera-circunnavegacion-alrededor-del-mundo.webp" alt="B-50A Lucky Lady II recibe reabastecimiento en vuelo, 1949">
   <figcaption class="post-caption">B-50A Superfortress ‘Lucky Lady II’ (46-010) recibe reabastecimiento en vuelo de KB-29M durante su circunnavegación sin escalas, feb-mar 1949. USAF / Wikimedia Commons.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
