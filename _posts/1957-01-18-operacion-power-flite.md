@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "del 16 al 18 de enero de 1957  | Operación Power Flite"
+title: "Del 16 al 18 de enero de 1957  | Operación Power Flite"
 date: 1957-01-18
 categories: [evento]
 author: [Enrique Pomares]
