@@ -134,6 +134,6 @@ Su formación fue reconocida por la Universidad de Purdue, que conserva sus arch
 - **Timestamp de verificación:** 2026-08-01 08:23:01 CST
 - **Fuentes primarias/institucionales consultadas:** NASA, biografía oficial del astronauta y artículo conmemorativo de su nacimiento; Universidad de Purdue, perfil institucional del cincuentenario del Apolo 11; Federación Aeronáutica Internacional, relación de récords homologados de la misión Apolo 11.
 - **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia a la biografía de James R. Hansen; borrador preliminar del investigador.
-- **Discrepancias resueltas:** se omitió la edad del primer vuelo como pasajero, por divergencia entre las fuentes; se consignaron las condecoraciones coreanas conforme al detalle de la referencia enciclopédica en inglés, frente a las versiones que mencionan tres Medallas del Aire; se recogieron las dos formulaciones horarias del alunizaje según el huso; se verificó la coherencia entre la fecha del hecho, el título, el nombre del archivo y el YAML.
+- **Discrepancias resueltas:** se omitió la edad del primer vuelo como pasajero, por divergencia entre las fuentes; se consignaron las condecoraciones coreanas conforme al detalle de la referencia enciclopédica en inglés, frente a las versiones que mencionan tres Medallas del Aire; se recogieron las dos formulaciones horarias del alunizaje según el huso.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
