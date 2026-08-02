@@ -80,7 +80,7 @@ La secuencia recorre desde la cancelación del interceptor que dejó libre el si
 - **14 de agosto de 1966:** el 60-6934 sufre daños irreparables en un accidente de aterrizaje en Edwards. Su mitad trasera se aprovechará para construir el único SR-71C.
 - **Enero de 1968:** se cancela oficialmente el programa F-12B.
 - **1969:** el 60-6935 se recupera del almacenamiento para un programa conjunto de la Fuerza Aérea y la NASA sobre tecnología de crucero supersónico.
-- **24 de junio de 1971:** el 60-6936 se pierde por un incendio en vuelo originado en una conducción de combustible. Los dos tripulantes se eyectan sin daño al norte de Edwards.
+- **24 de junio de 1971:** el 60-6936 se pierde por un incendio en vuelo originado en el fallo de un conducto de combustible. Los dos tripulantes se eyectan sin daño al norte de Edwards.
 - **17 de noviembre de 1979:** el 60-6935, único superviviente, vuela hasta el Museo Nacional de la Fuerza Aérea en Wright-Patterson, Ohio, donde se conserva.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
