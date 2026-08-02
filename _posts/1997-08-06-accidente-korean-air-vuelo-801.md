@@ -85,7 +85,7 @@ Las horas corresponden al huso local de Guam. El vuelo transcurrió sin incidenc
 - **01:42:19:** el mecánico de vuelo canta «doscientos pies» y el primer oficial dice: «hagamos una aproximación frustrada». Un segundo después ambos coinciden en que no tienen la pista a la vista.
 - **01:42:22:** el comandante ordena motor y al aire y adelanta las palancas de gases. La maniobra llega tarde.
 - **01:42:26:** la aeronave impacta contra Bijia Peak a unos 660 pies de altitud. El fuselaje se desintegra y el combustible de los depósitos alares provoca un incendio que arderá durante ocho horas.
-- **Tras el impacto:** las obras de una conducción de combustible bloquean el acceso por carretera. Unidades de construcción de la Armada estadounidense son las primeras en llegar y emplean excavadoras para abrir el fuselaje en llamas. El gobernador Carl Gutiérrez participa personalmente en el rescate de una niña japonesa de once años, Rika Matsuda, atrapada bajo el equipaje.
+- **Tras el impacto:** una tubería de combustible destruida bloquea el acceso por carretera. Unidades de construcción de la Armada estadounidense son las primeras en llegar y emplean excavadoras para abrir el fuselaje en llamas. El gobernador Carl Gutiérrez participa personalmente en el rescate de una niña japonesa de once años, Rika Matsuda, atrapada bajo el equipaje.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
