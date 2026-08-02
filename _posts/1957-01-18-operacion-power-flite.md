@@ -11,7 +11,7 @@ image: 1957-01-18-operacion-power-flite.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1957-01-18-operacion-power-flite.webp" alt="Tres bombarderos Boeing B-52B Stratofortress alineados en la plataforma de una Base Aérea, con personal militar y vehículos alrededor y montañas al fondo">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1957-01-18-operacion-power-flite.webp" alt="Tres bombarderos Boeing B-52B Stratofortress alineados en la plataforma de una base aérea, con personal militar y vehículos alrededor y montañas al fondo">
   <figcaption class="post-caption">Los tres Boeing B-52B Stratofortress del 93.º Ala de Bombardeo que completaron la Operación Power Flite, fotografiados tras el vuelo. Imagen posterior al hito recordado. Fuente: Agencia de Investigación Histórica de la Fuerza Aérea de los Estados Unidos, Base Aérea Maxwell, Alabama.</figcaption>
 </figure>
 
@@ -19,7 +19,7 @@ image: 1957-01-18-operacion-power-flite.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 18 de enero de 1957, tres bombarderos Boeing B-52B Stratofortress del 93.º Ala de Bombardeo tomaron tierra en la Base Aérea de March, en California, tras dar la vuelta al mundo sin posarse una sola vez. Habían despegado cuarenta y cinco horas y diecinueve minutos antes de la Base Aérea de Castle, y con ellos el reactor se convirtió en el primer tipo de aeronave capaz de circunnavegar el planeta sin escalas.</p>
+<p>El 18 de enero de 1957, tres bombarderos Boeing B-52B Stratofortress del 93.º Ala de Bombardeo tomaron tierra en la base aérea de March, en California, tras dar la vuelta al mundo sin posarse una sola vez. Habían despegado cuarenta y cinco horas y diecinueve minutos antes de la base aérea de Castle, y con ellos el reactor se convirtió en el primer tipo de aeronave capaz de circunnavegar el planeta sin escalas.</p>
 <p>Partieron cinco aparatos: tres principales y dos de reserva. Uno de los principales no logró repostar en el primer encuentro con los cisterna y hubo de desviarse a Labrador; uno de los reservas abandonó la formación sobre el norte de África conforme a lo planeado. Los tres restantes cubrieron 24.325 millas —39.147 kilómetros— con cuatro reabastecimientos en vuelo desde aviones Boeing KC-97. El Mando Aéreo Estratégico obtuvo así la demostración que buscaba: podía alcanzar cualquier punto de la Tierra sin depender de base intermedia alguna.</p>
 </div>
 
@@ -29,8 +29,8 @@ image: 1957-01-18-operacion-power-flite.webp
 
 - **Fechas:** del 16 al 18 de enero de 1957.
 - **Denominación de la misión:** Operación Power Flite.
-- **Salida:** Base Aérea de Castle, en Merced (California), el 16 de enero a las 13:00, hora del Pacífico.
-- **Llegada:** Base Aérea de March, en Riverside (California), el 18 de enero. El aparato líder tomó tierra a las 10:19 y los otros dos lo siguieron separados por ochenta segundos.
+- **Salida:** base aérea de Castle, en Merced (California), el 16 de enero a las 13:00, hora del Pacífico.
+- **Llegada:** base aérea de March, en Riverside (California), el 18 de enero. El aparato líder tomó tierra a las 10:19 y los otros dos lo siguieron separados por ochenta segundos.
 - **Unidad:** 93.º Ala de Bombardeo (Pesada), 15.ª Fuerza Aérea, Mando Aéreo Estratégico.
 - **Aeronaves:** cinco Boeing B-52B Stratofortress despegaron —tres principales y dos de reserva—; tres completaron la circunnavegación.
 - **Avión líder:** *Lucky Lady III*, Boeing B-52B-35-BO, número de serie 53-0394, al mando del Teniente Coronel James H. Morris, que había sido copiloto del *Lucky Lady II* en 1949.
@@ -69,13 +69,13 @@ La operación cerró una secuencia que la Fuerza Aérea venía construyendo desd
 El itinerario avanzó hacia el este y perdió dos aparatos por el camino, uno por avería y otro por diseño.
 
 - **29 de junio de 1955:** el 93.º Ala de Bombardeo recibe el primer B-52 operativo de la Fuerza Aérea, un RB-52B con número de serie 52-8711.
-- **16 de enero de 1957, 13:00 (hora del Pacífico):** despegan de la Base Aérea de Castle cinco B-52B, tres principales y dos de reserva.
+- **16 de enero de 1957, 13:00 (hora del Pacífico):** despegan de la base aérea de Castle cinco B-52B, tres principales y dos de reserva.
 - **Primer encuentro con los cisterna:** el B-52B 53-0397 *La Victoria*, del Mayor George C. Kalebaugh, no consigue repostar por acumulación de hielo en el receptáculo de reabastecimiento y se desvía a Goose Bay, en Labrador.
 - **Sobre Casablanca:** se completa el reabastecimiento con normalidad. Uno de los aparatos de reserva se separa de la formación conforme a lo previsto y aterriza en Brize Norton, en Inglaterra.
 - **Sobre Arabia Saudí:** nuevo encuentro con los cisterna. Los tres aparatos restantes prosiguen hacia el este.
 - **Sobre el sur de la península malaya:** los bombarderos siguen la costa de la India hasta Ceilán y ejecutan un lanzamiento simulado.
 - **Sobre Manila y Guam:** última cita con los cisterna antes de cruzar el Pacífico.
-- **18 de enero de 1957, 10:19:** el *Lucky Lady III* toma tierra en la Base Aérea de March. Los otros dos aparatos aterrizan a continuación, separados por ochenta segundos.
+- **18 de enero de 1957, 10:19:** el *Lucky Lady III* toma tierra en la base aérea de March. Los otros dos aparatos aterrizan a continuación, separados por ochenta segundos.
 - **18 de enero de 1957, tras el aterrizaje:** el General Curtis LeMay, ante un millar de personas, impone la Cruz de Vuelo Distinguido a los veintisiete tripulantes.
 - **1957:** la National Aeronautic Association concede al 93.º Ala de Bombardeo el Trofeo Mackay al vuelo más meritorio del año.
 
@@ -114,16 +114,16 @@ Queda además una lección sobre la naturaleza de estas demostraciones. De los c
 - <a href="https://es.wikipedia.org/wiki/Boeing_B-52_Stratofortress" style="color: #315fea; text-decoration: none;">Boeing B-52 Stratofortress — Wikipedia en español</a>
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Conviene precisar tres extremos que suelen simplificarse. El primero es el número de aeronaves: de la Base Aérea de Castle despegaron cinco B-52B, no tres, y la cifra de tres corresponde a los que completaron la circunnavegación. El aparato que se retiró por avería era uno de los principales, mientras que el segundo abandono correspondió a un aparato de reserva y estaba previsto de antemano. El segundo extremo es el punto de llegada: el vuelo partió de Castle, pero concluyó en la Base Aérea de March, a unos trescientos kilómetros al sur; el regreso a Castle se produjo días después. El tercero afecta a la velocidad media, que las fuentes cifran entre 525 y 537 millas por hora según el redondeo aplicado a la duración exacta del vuelo; se ha adoptado el valor de 534 millas por hora que consigna la fuente más detallada. La fotografía que ilustra esta efeméride muestra a los tres aparatos ya en tierra, con posterioridad al vuelo.</p>
+  <p><strong>Nota aclaratoria:</strong> Conviene precisar tres extremos que suelen simplificarse. El primero es el número de aeronaves: de la base aérea de Castle despegaron cinco B-52B, no tres, y la cifra de tres corresponde a los que completaron la circunnavegación. El aparato que se retiró por avería era uno de los principales, mientras que el segundo abandono correspondió a un aparato de reserva y estaba previsto de antemano. El segundo extremo es el punto de llegada: el vuelo partió de Castle, pero concluyó en la base aérea de March, a unos trescientos kilómetros al sur; el regreso a Castle se produjo días después. El tercero afecta a la velocidad media, que las fuentes cifran entre 525 y 537 millas por hora según el redondeo aplicado a la duración exacta del vuelo; se ha adoptado el valor de 534 millas por hora que consigna la fuente más detallada. La fotografía que ilustra esta efeméride muestra a los tres aparatos ya en tierra, con posterioridad al vuelo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-01 11:55:20 CST
+- **Timestamp de verificación:** 2026-08-02 07:34:18 CST
 - **Fuentes primarias/institucionales consultadas:** Air Force History Support Office, relación oficial «Lucky Ladies», con el detalle de los cinco aparatos, los dos abandonos y las condecoraciones.
 - **Fuentes secundarias de contraste:** This Day in Aviation, con la identificación de los números de serie, la composición de las tripulaciones y el número de reabastecimientos; Wikipedia en inglés y en español; borrador preliminar del investigador.
-- **Discrepancias resueltas:** se corrigió el número de aeronaves participantes, cinco en el despegue frente a las tres que completaron el vuelo; se estableció en cuatro el número de reabastecimientos en vuelo, conforme a la fuente más detallada, frente a las versiones que consignan tres; se distinguió la base de salida, Castle, de la de llegada, March, habitualmente confundidas; se atribuyó el abandono por hielo a un aparato principal y no a uno de reserva; se adoptó la velocidad media de 534 millas por hora entre los valores publicados de 525 y 537; se verificó la coherencia entre la fecha del hecho, el título, el nombre del archivo y el YAML.
+- **Discrepancias resueltas:** se corrigió el número de aeronaves participantes, cinco en el despegue frente a las tres que completaron el vuelo; se estableció en cuatro el número de reabastecimientos en vuelo, conforme a la fuente más detallada, frente a las versiones que consignan tres; se distinguió la base de salida, Castle, de la de llegada, March, habitualmente confundidas; se atribuyó el abandono por hielo a un aparato principal y no a uno de reserva; se adoptó la velocidad media de 534 millas por hora entre los valores publicados de 525 y 537.
 - **Datos no confirmados:** el número de serie del aparato de reserva que se desvió a Brize Norton; las horas exactas de cada uno de los cuatro reabastecimientos.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

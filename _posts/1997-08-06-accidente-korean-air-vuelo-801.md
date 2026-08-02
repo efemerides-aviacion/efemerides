@@ -132,10 +132,10 @@ En Guam, un obelisco de mármol negro señala desde el 6 de agosto de 1998 el lu
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-01 14:22:56 CST
+- **Timestamp de verificación:** 2026-08-02 07:34:20 CST
 - **Fuentes primarias/institucionales consultadas:** Junta Nacional de Seguridad en el Transporte de Estados Unidos, informe NTSB/AAR-00/01 y su resumen ejecutivo; Administración Federal de Aviación, ficha analítica del accidente en su repertorio de lecciones aprendidas.
 - **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia a la prensa contemporánea recogida en sus notas; borrador preliminar del investigador.
-- **Discrepancias resueltas:** se consignaron las dos cifras de víctimas mortales, 228 y 229, explicando el criterio reglamentario de los treinta días que las separa; se recogieron las dos formas de computar pasaje y tripulación, coincidentes en el total de 254 ocupantes; se adoptó la secuencia horaria del informe oficial frente a las versiones divulgativas; se precisó que la restricción incumplida eran los 1.440 pies hasta rebasar el radiofaro y no una altitud mínima de seguridad genérica; se verificó la coherencia entre la fecha del hecho, el título, el nombre del archivo y el YAML.
+- **Discrepancias resueltas:** se consignaron las dos cifras de víctimas mortales, 228 y 229, explicando el criterio reglamentario de los treinta días que las separa; se recogieron las dos formas de computar pasaje y tripulación, coincidentes en el total de 254 ocupantes; se adoptó la secuencia horaria del informe oficial frente a las versiones divulgativas; se precisó que la restricción incumplida eran los 1.440 pies hasta rebasar el radiofaro y no una altitud mínima de seguridad genérica.
 - **Datos no confirmados:** la identidad de la voz no identificada que cuestionó la indicación de la senda de planeo, que el informe no atribuye a ningún tripulante concreto.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
