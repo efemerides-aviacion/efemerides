@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Del 16 al 18 de enero de 1957 | Operación Power Flite, la primera vuelta al mundo sin escalas de un avión de reacción"
+title: "18 de enero de 1957 | Operación Power Flite, la primera vuelta al mundo sin escalas de un avión de reacción"
 date: 1957-01-18
 categories: [evento]
 author: Enrique Pomares
