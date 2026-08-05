@@ -11,8 +11,8 @@ image: 1899-08-01-nacimiento-jimmie-angel-descubridor-salto-angel.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1899-08-01-nacimiento-jimmie-angel-descubridor-salto-angel.webp" alt="El monoplano El Río Caroní de Jimmie Angel, expuesto sobre pedestales en un jardín frente al aeropuerto de Ciudad Bolívar">
-  <figcaption class="post-caption">El monoplano <em>El Río Caroní</em>, el aparato con el que Jimmie Angel aterrizó sobre el Auyantepui en 1937, expuesto frente al aeropuerto de Ciudad Bolívar, Venezuela. En el morro se distingue el nombre rotulado. La fotografía es muy posterior al hecho recordado y muestra la aeronave ya recuperada de la cima del tepuy. Fuente: <a href="https://commons.wikimedia.org/wiki/File:JimmieAngelPlane.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons, CC BY-SA 3.0</a>.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1899-08-01-nacimiento-jimmie-angel-descubridor-salto-angel.webp" alt="Retrato fotográfico en blanco y negro de un hombre joven con gorra de visera clara, traje oscuro, camisa blanca y corbata, mirando fuera de cuadro">
+  <figcaption class="post-caption">Jimmie Angel retratado el 28 de abril de 1928, cinco años antes del avistamiento del salto que llevaría su apellido. La fotografía procede de su expediente biográfico conservado en el <a href="https://dmairfield.org/people/angel_ji/index.html" style="color: #315fea; text-decoration: none;">National Air and Space Museum, reproducido por el Davis-Monthan Airfield Register</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
