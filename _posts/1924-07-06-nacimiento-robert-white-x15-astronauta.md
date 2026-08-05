@@ -11,8 +11,8 @@ image: 1924-07-06-nacimiento-robert-white-x15-astronauta.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1924-07-06-nacimiento-robert-white-x15-astronauta.webp" alt="Robert M. White junto a un North American X-15 en Edwards Air Force Base">
-  <figcaption class="post-caption">El mayor Robert M. White posa junto a un North American X-15 tras un vuelo de investigación en Edwards Air Force Base, California, el 7 de febrero de 1961. Fuente: <a href="https://www.nasa.gov/image-article/x-15-pilot-major-robert-m-white/">NASA</a>.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1924-07-06-nacimiento-robert-white-x15-astronauta.webp" alt="Piloto con traje presurizado plateado saliendo de la cabina abierta de un avión cohete, con la carlinga levantada sobre él y personal de tierra al fondo">
+  <figcaption class="post-caption">El Mayor Robert M. White abandona la cabina de un North American X-15 en la base aérea de Edwards, California. Viste el traje presurizado integral MC-2 de la David Clark Company. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Robert_M._White.jpg" style="color: #315fea; text-decoration: none;">U.S. Air Force, dominio público</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -61,8 +61,10 @@ La trayectoria de White unió combate, ingeniería, ensayos de vuelo y mando ope
 - **Noviembre de 1942:** ingresa en el Army Air Forces Aviation Cadet Program.
 - **Febrero de 1944:** recibe sus alas de piloto y el despacho como segundo teniente.
 - **Julio de 1944-febrero de 1945:** combate en Europa con el 355th Fighter Group a los mandos del P-51 Mustang.
-- **23 de febrero de 1945:** es derribado en su 52.ª misión de combate sobre Alemania y permanece como prisionero de guerra hasta la liberación aliada.
-- **1951:** se gradúa en ingeniería eléctrica en New York University y regresa al servicio activo durante la guerra de Corea.
+- **23 de febrero de 1945:** es derribado en su 52.ª misión de combate sobre Alemania y permanece como prisionero de guerra hasta su liberación en abril de 1945. Deja el servicio activo en diciembre de ese año y pasa a la Reserva de la Fuerza Aérea en Mitchel Air Force Base, Nueva York.
+- **1951:** se gradúa en ingeniería eléctrica en New York University. En mayo es llamado de nuevo al servicio activo con motivo de la guerra de Corea y destinado como piloto y oficial de ingeniería al 514.º Ala de Transporte de Tropas, en Mitchel Air Force Base.
+- **Febrero de 1952:** pasa destinado al 40.º Escuadrón de Caza, con base en las proximidades de Tokio, como piloto de caza y jefe de patrulla.
+- **Agosto de 1953:** regresa a Estados Unidos como ingeniero de sistemas en el Rome Air Development Center, en Griffiss Air Force Base, Nueva York.
 - **1954-1955:** cursa la Experimental Test Pilot School en Edwards Air Force Base y pasa a pruebas de vuelo avanzadas.
 - **15 de abril de 1960:** realiza su primer vuelo en el X-15 como piloto de la Fuerza Aérea. Para entonces, el programa X-15 ya había iniciado su historial de vuelo con el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1959/06/08/primer-vuelo-north-american-x-15.html" style="color: #315fea; text-decoration: none;">vuelo inaugural del 8 de junio de 1959</a>, pilotado por Scott Crossfield, contexto en el que White desarrollaría después sus récords más célebres.
 - **7 de marzo de 1961:** se convierte en el primer piloto en superar Mach 4.
@@ -71,6 +73,8 @@ La trayectoria de White unió combate, ingeniería, ensayos de vuelo y mando ope
 - **17 de julio de 1962:** asciende a 314.750 pies con el X-15, gana alas de astronauta de la USAF y se consolida como el primer «winged astronaut» estadounidense.
 - **1967:** vuela 70 misiones de combate sobre Vietnam del Norte con el F-105 Thunderchief.
 - **1970:** asume el mando del Air Force Flight Test Center en Edwards.
+- **Noviembre de 1972:** asume la dirección del Cuerpo de Instrucción de Oficiales de la Reserva de la Fuerza Aérea, en Maxwell Air Force Base, Alabama.
+- **Marzo de 1975:** es nombrado jefe de estado mayor de la Cuarta Fuerza Aérea Táctica Aliada de la OTAN, en la base aérea de Ramstein, Alemania. Ese mismo mes de febrero se había hecho efectivo su ascenso a Mayor General.
 - **1981:** se retira de la USAF con el grado de mayor general.
 - **2006:** ingresa en el National Aviation Hall of Fame.
 - **17 de marzo de 2010:** fallece en Orlando, Florida.
@@ -99,7 +103,7 @@ A largo plazo, su legado descansa en tres planos. Primero, en el simbólico: el 
 ## Referencias verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.af.mil/About-Us/Biographies/Display/Article/105241/major-general-robert-m-white/">U.S. Air Force – Major General Robert M. White</a></li>
+    <li><a href="https://www.af.mil/About-Us/Biographies/Display/Article/105241/major-general-robert-m-white/" style="color: #315fea; text-decoration: none;">U.S. Air Force: «Major General Robert M. White», biografía oficial</a></li>
     <li><a href="https://nationalaviation.org/enshrinee/robert-michael-white/">National Aviation Hall of Fame – Robert Michael White</a></li>
     <li><a href="https://kids.britannica.com/students/article/Robert-Michael-White/340325">Britannica Kids – Robert Michael White</a></li>
     <li><a href="https://www.thisdayinaviation.com/robert-michael-white-6-july-1924-17-march-2010/">This Day in Aviation – Robert Michael White (6 July 1924–17 March 2010)</a></li>
@@ -117,7 +121,7 @@ A largo plazo, su legado descansa en tres planos. Primero, en el simbólico: el 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-02 08:24:39 CST  
+- **Timestamp de verificación:** 2026-08-05 11:35:42 CST  
 - **Fuentes primarias consultadas:** U.S. Air Force, NASA, National Aviation Hall of Fame  
 - **Fuentes secundarias de contraste:** Britannica Kids, This Day in Aviation  
 - **Discrepancias resueltas:** Se armonizó el lugar de nacimiento como Manhattan / Nueva York; también se distinguió la definición estadounidense de astronauta respecto del criterio FAI de 100 km.  
