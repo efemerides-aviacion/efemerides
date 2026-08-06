@@ -18,6 +18,7 @@ image: 1937-08-11-primer-vuelo-boulton-paul-p82-defiant.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
+
 <div class="highlight-box">
 <p>El 11 de agosto de 1937, el prototipo K8310 del Boulton Paul P.82 Defiant despegó del aeródromo de Wolverhampton con Cecil Feather, jefe de pilotos de pruebas de la casa, a los mandos. El aparato voló sin el elemento que definía todo su concepto: la torreta dorsal no estaba lista y su hueco se cubrió con un carenado, compensando el peso ausente con lastre. Así, convertido de hecho en un monoplaza, el Defiant demostró un comportamiento excelente y alcanzó unas 302 millas por hora.</p>
 <p>Aquella cifra alentadora describía un avión que no existiría nunca. El Defiant había sido concebido según la doctrina del <em>turret fighter</em>: un caza sin armamento frontal cuyo artillero, alojado en una torreta motorizada con cuatro ametralladoras, batiría a los bombarderos enemigos mientras el piloto se limitaba a colocar el aparato. Cuando la torreta se instaló, en febrero de 1938, el peso y la resistencia aerodinámica se llevaron por delante buena parte de las prestaciones. Sobre Dunkerque funcionó durante unas semanas, mientras los cazas alemanes lo confundieron con un Hurricane y lo atacaron por la cola. En cuanto la Luftwaffe comprendió que aquel avión no podía disparar hacia delante, el concepto se derrumbó.</p>
