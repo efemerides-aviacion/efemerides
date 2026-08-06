@@ -18,6 +18,7 @@ image: 1941-08-11-primer-bombardeo-sovieto-nocturno-berlin.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
+
 <div class="highlight-box">
 <p>La noche del 10 al 11 de agosto de 1941, catorce bombarderos Petlyakov Pe-8 despegaron del aeródromo de Pushkino, cerca de Leningrado, con Berlín como destino. Los mandaba el Comandante de Brigada Mikhail Vasilyevich Vodopyanov, al frente de la 81.ª División de Bombardeo de Largo Alcance, creada tres semanas antes por orden expresa de Stalin. Era la respuesta soviética a los bombardeos que la Luftwaffe había iniciado sobre Moscú el 21 de julio.</p>
 <p>El obstáculo no era la distancia sino la planta motriz. Para alcanzar Berlín y volver, Stalin había ordenado sustituir los motores de gasolina por diésel Charomskiy de largo alcance, una decisión que resultó desastrosa. Un Pe-8 se estrelló al despegar y murió toda su tripulación. Otro fue atacado por cazas soviéticos que lo tomaron por enemigo y rematado por la artillería antiaérea propia. Un tercero perdió dos motores sobre Polonia. Los que alcanzaron Berlín lanzaron sus bombas con escaso efecto material, y el regreso fue una dispersión de aterrizajes forzosos por media Europa oriental. Vodopyanov cayó en el sur de Estonia, en tierra de nadie. Fue relevado del mando, aunque no castigado, después de decirle a Stalin en el Kremlin que estaba dispuesto a arrancar aquellos motores con los dientes.</p>
