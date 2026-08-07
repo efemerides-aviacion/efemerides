@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.2"
 gem "jekyll-feed", "~> 0.15"
+gem "jekyll-redirect-from", "~> 0.16"
 
 # Librerías estándar que Ruby 3.4 ya no incluye
 gem "csv"
