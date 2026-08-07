@@ -9,7 +9,7 @@ operator: Boeing Airplane Company / Pan American World Airways
 excerpt: "El 20 de diciembre de 1957, el primer Boeing 707-120 de producción (N708PA) realizó su vuelo inaugural desde Renton Field, Washington. Este evento marcó el inicio de la era del jet para la aviación comercial estadounidense, transformando los viajes transcontinentales y consolidando a Boeing como líder en el mercado de transporte de pasajeros."
 image: 1957-12-20-primer-vuelo-boeing-707-120.webp
 redirect_from:
-  - /efemerides/aviacion-evento/1957/12/20/innovacion-aviacion-comercial-chorro.html
+  - /aviacion-evento/1957/12/20/innovacion-aviacion-comercial-chorro.html
 ---
 
 <figure>

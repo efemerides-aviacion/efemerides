@@ -70,7 +70,7 @@ La trayectoria de Guerin puede reconstruirse a partir de hitos documentados a am
 - **1922:** organiza una Base Escuela de Aviación Marítima en el lago de Valencia, dotada con Caudron G.4 y Farman F.40, precedente de la posterior aviación naval venezolana.
 - **20 de marzo de 1926:** aterriza en Guanare, estado Portuguesa, tras un vuelo desde Maracay que cubrió Valencia, Calabozo, San Fernando de Apure y Barinas. La prensa local lo registra como el primer avión que llega al occidente del país.
 - **Abril y mayo de 1928:** participa en el raid de navegación aérea al interior de la República con aviones Caudron C.60, junto a pilotos venezolanos ya formados.
-- **Febrero de 1931:** como consejero técnico del Ministerio de Guerra y Marina, dirige la investigación del <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-accidente/1931/02/04/vicente-landaeta-gil-fallece.html" style="color: #315fea; text-decoration: none;">accidente en que murió el Teniente Vicente Landaeta Gil</a> en Barquisimeto, considerada la primera pesquisa aeronáutica formal realizada en Venezuela.
+- **Febrero de 1931:** como consejero técnico del Ministerio de Guerra y Marina, dirige la investigación del <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1931/02/04/vicente-landaeta-gil-fallece.html" style="color: #315fea; text-decoration: none;">accidente en que murió el Teniente Vicente Landaeta Gil</a> en Barquisimeto, considerada la primera pesquisa aeronáutica formal realizada en Venezuela.
 - **1934-1935:** ejerce la dirección de la empresa de aviación comercial surgida tras la adquisición estatal de los activos de la compañía francesa Aéropostale en el país.
 - **7 de noviembre de 1953:** fallece en Caracas.
 

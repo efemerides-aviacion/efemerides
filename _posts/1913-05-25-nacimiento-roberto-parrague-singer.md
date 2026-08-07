@@ -8,6 +8,8 @@ pais: Chile
 operator: Fuerza Aérea de Chile (FACH)
 excerpt: "El 25 de mayo de 1913 nació en Santiago de Chile Roberto Parragué Singer, el aviador que el 20 de enero de 1951 completó el primer vuelo desde Chile continental a Isla de Pascua a bordo del hidroavión Catalina «Manutara». Su hazaña, realizada en 19 horas y 22 minutos sobre el Pacífico, consolidó la soberanía chilena sobre la isla más remota del mundo y abrió las puertas a su integración definitiva."
 image: 1913-05-25-nacimiento-roberto-parrague-singer.webp
+redirect_from:
+  - /nacimiento/1913/05/25/nacimiento-roberto parrague-singer.html
 ---
 
 <figure>

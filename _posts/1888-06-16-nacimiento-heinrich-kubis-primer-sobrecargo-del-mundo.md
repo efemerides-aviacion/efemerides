@@ -87,7 +87,7 @@ El Schwaben fue el primer dirigible de DELAG diseñado específicamente para el 
 
 ### El desastre del Hindenburg (6 de mayo de 1937)
 
-Kubis era el jefe de sobrecargos del Hindenburg en su fatídico vuelo del 6 de mayo de 1937. Puede leer más sobre este trágico evento en la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-accidente/1937/05/06/desastre-lz-129-hindenburg.html">efeméride dedicada al desastre del LZ 129 Hindenburg</a>. Cuando la aeronave se incendió al aterrizar en Lakehurst, Nueva Jersey, Kubis se encontraba en el comedor. En lugar de huir inmediatamente, ayudó a los pasajeros a saltar hacia el exterior. Luego, él mismo escapó saltando por una ventana. Sobrevivió al desastre que mató a 35 de las 97 personas a bordo (13 pasajeros, 22 tripulantes).
+Kubis era el jefe de sobrecargos del Hindenburg en su fatídico vuelo del 6 de mayo de 1937. Puede leer más sobre este trágico evento en la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1937/05/06/desastre-lz-129-hindenburg.html">efeméride dedicada al desastre del LZ 129 Hindenburg</a>. Cuando la aeronave se incendió al aterrizar en Lakehurst, Nueva Jersey, Kubis se encontraba en el comedor. En lugar de huir inmediatamente, ayudó a los pasajeros a saltar hacia el exterior. Luego, él mismo escapó saltando por una ventana. Sobrevivió al desastre que mató a 35 de las 97 personas a bordo (13 pasajeros, 22 tripulantes).
 
 Tras el accidente, Kubis declaró ante las autoridades estadounidenses, proporcionando un testimonio clave sobre los últimos momentos del Hindenburg y las condiciones a bordo.
 

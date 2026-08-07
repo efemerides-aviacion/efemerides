@@ -45,7 +45,7 @@ La graduación de los primeros mecánicos aeronáuticos ocurrió en un momento c
 
 ### Entorno social
 
-El 17 de abril de 1920, bajo la presidencia del doctor Victorino Márquez Bustillos (con el general Juan Vicente Gómez ejerciendo el mando desde Maracay), <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html">se creó la Escuela de Aviación Militar</a> con un presupuesto inicial de 350.000 bolívares . Sus objetivos eran «formar e instruir los pilotos para el servicio del Ejército nacional». La escuela quedó bajo la superior dependencia de la comandancia del jefe del Ejército y bajo la inmediata dirección del Ministerio de Guerra y Marina.
+El 17 de abril de 1920, bajo la presidencia del doctor Victorino Márquez Bustillos (con el general Juan Vicente Gómez ejerciendo el mando desde Maracay), <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html">se creó la Escuela de Aviación Militar</a> con un presupuesto inicial de 350.000 bolívares . Sus objetivos eran «formar e instruir los pilotos para el servicio del Ejército nacional». La escuela quedó bajo la superior dependencia de la comandancia del jefe del Ejército y bajo la inmediata dirección del Ministerio de Guerra y Marina.
 
 La naciente Escuela de Aviación Militar quedó asignada al Ejército, siendo coordinada por la Inspectoría General del Ejército, a cargo desde 1916 del general José Vicente Gómez, hijo mayor del dictador, lo cual mantenía directa supervisión de su funcionamiento. Se designó al coronel del ejército David López Henríquez como director de la institución.
 
@@ -67,7 +67,7 @@ La graduación de los primeros técnicos venezolanos representó un paso decisiv
 - **1919:** El agregado militar francés en Caracas recomienda al gobierno venezolano el desarrollo de la aviación marítima.
 - **1920, 17 de abril:** Decreto de creación de la Escuela de Aviación Militar, con sede en Maracay. Se asignan 350.000 bolívares para su estructuración .
 - **1920:** Adquisición de seis aviones Caudron G.3 en Francia, constituyendo la primera flota de entrenamiento .
-- **1920, 22 de mayo:** El gobierno venezolano formaliza la <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1920/05/22/mision-instructores-franceses-eam-venezolana.html">contratación de una misión de instructores franceses</a>.
+- **1920, 22 de mayo:** El gobierno venezolano formaliza la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1920/05/22/mision-instructores-franceses-eam-venezolana.html">contratación de una misión de instructores franceses</a>.
 - **1920, 10 de noviembre:** Firma del Acta de Instalación de la Escuela de Aviación Militar .
 - **1920, diciembre:** Instalación formal de la Escuela de Aviación Militar. Primeros alumnos: Juan Yépez, Antonio Villegas, Francisco Leonardi, Ovilio Díaz, Julio Fortoul, Luis Rondón, Alfredo García, Jesús Paúl, Elías Sayago, Amador Nieto y Juan Lucero .
 - **1921, 16 de febrero:** Ernesto Salas Agelvis ingresa a la Escuela de Aviación Militar como Alumno Mecánico .

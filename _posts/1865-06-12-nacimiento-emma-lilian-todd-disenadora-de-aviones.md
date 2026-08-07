@@ -137,7 +137,7 @@ El club enseñaba construcción de cometas, planeadores, hélices, modelos de av
 
 ### Barreras de género en la aviación
 
-La denegación del permiso de vuelo a Todd evidencia las barreras sistemáticas que enfrentaron las mujeres pioneras en la aviación. Su caso se suma al de otras contemporáneas: en Estados Unidos, Harriet Quimby no obtuvo su licencia hasta 1911 (Consulte la efeméride <a href="https://efemerides-aviacion.github.io/efemerides/aviacion-nacimiento/1875/05/11/nacimiento-de-Harriet-quimby-licencia-piloto.html" style="color: #315fea; text-decoration: none;">Nacimiento de Harriet Quimby, primera mujer piloto de EE. UU.</a> para más detalles), y Blanche Stuart Scott voló por primera vez en 1910 pero nunca recibió licencia oficial.
+La denegación del permiso de vuelo a Todd evidencia las barreras sistemáticas que enfrentaron las mujeres pioneras en la aviación. Su caso se suma al de otras contemporáneas: en Estados Unidos, Harriet Quimby no obtuvo su licencia hasta 1911 (Consulte la efeméride <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1875/05/11/nacimiento-de-harriet-quimby-licencia-piloto.html" style="color: #315fea; text-decoration: none;">Nacimiento de Harriet Quimby, primera mujer piloto de EE. UU.</a> para más detalles), y Blanche Stuart Scott voló por primera vez en 1910 pero nunca recibió licencia oficial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

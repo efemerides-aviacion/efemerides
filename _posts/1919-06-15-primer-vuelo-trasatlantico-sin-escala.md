@@ -119,7 +119,7 @@ El éxito de Alcock y Brown tuvo repercusiones inmediatas. Winston Churchill les
 
 La multitud los recibió con entusiasmo: en Irlanda, los vitorearon en cada estación de tren de camino a Dublín; a su llegada a Holyhead (Gales) fueron recibidos por una multitud; en Londres, un cuarto de millón de personas se alinearon en las calles para ver su llegada.
 
-El vuelo demostró que el cruce del Atlántico en avión era posible, lo que aceleró el desarrollo de la aviación comercial de larga distancia. Aunque no se estableció una ruta regular inmediata, el éxito de Alcock y Brown inspiró a otros aviadores, incluyendo a Charles Lindbergh, que ocho años después (<a href="https://efemerides-aviacion.github.io/efemerides/aviacion-evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html">ver efeméride</a>) completó el primer vuelo en solitario sin escalas entre Nueva York y París.
+El vuelo demostró que el cruce del Atlántico en avión era posible, lo que aceleró el desarrollo de la aviación comercial de larga distancia. Aunque no se estableció una ruta regular inmediata, el éxito de Alcock y Brown inspiró a otros aviadores, incluyendo a Charles Lindbergh, que ocho años después (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html">ver efeméride</a>) completó el primer vuelo en solitario sin escalas entre Nueva York y París.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
