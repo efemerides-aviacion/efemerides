@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Argentina
 operator: Comando de Aviación Naval Argentina
 excerpt: "Salió a comprobar si los británicos desembarcaban en San Carlos. Encontró catorce buques, atacó una fragata con un entrenador y volvió con el croquis del desembarco."
-image: 1951-01-27-owen-guillermo-crippa.webp
+image: 1951-01-27-nacimiento-owen-guillermo-crippa.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1951-01-27-owen-guillermo-crippa.webp" alt="Piloto naval con capucha de vuelo, bigote y chaqueta de cuero oscura, de pie junto al fuselaje camuflado de un reactor de entrenamiento">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1951-01-27-nacimiento-owen-guillermo-crippa.webp" alt="Piloto naval con capucha de vuelo, bigote y chaqueta de cuero oscura, de pie junto al fuselaje camuflado de un reactor de entrenamiento">
   <figcaption class="post-caption">El Teniente de Navío Owen Guillermo Crippa junto a su Aermacchi MB-339A, con el esquema de camuflaje adoptado por la 1.ª Escuadrilla Aeronaval de Ataque durante el conflicto del Atlántico Sur. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Owen_Crippa_y_su_Aermacchi.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons, dominio público</a>.</figcaption>
 </figure>
 
