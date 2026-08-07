@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "27 de enero de 1951 | Owen Guillermo Crippa"
+title: "27 de enero de 1951 | Nacimiento de Owen Guillermo Crippa"
 date: 1951-01-27
 categories: [nacimiento]
 author: [Enrique Pomares]
