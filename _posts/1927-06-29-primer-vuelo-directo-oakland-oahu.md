@@ -43,7 +43,7 @@ image: 1927-06-29-primer-vuelo-directo-oakland-oahu.webp
 
 ## Contexto Histórico
 
-A principios de 1927 la aviación vivía una época de audaces proezas. Apenas un mes antes, Charles Lindbergh había cruzado el Atlántico sin escalas, demostrando que los aviones podían unir continentes. El océano Pacífico, mucho más ancho y sin islas de apoyo, se convirtió en el siguiente desafío. El Air Service de los Estados Unidos había planeado durante años un vuelo transpacífico que no solo batiera un récord de distancia, sino que probara la fiabilidad de la navegación aérea sobre mar abierto. Gran parte de los instrumentos empleados fueron desarrollados por el propio Albert F. Hegenberger en McCook Field, Ohio.
+A principios de 1927 la aviación vivía una época de audaces proezas. Apenas un mes antes, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> había cruzado el Atlántico sin escalas, demostrando que los aviones podían unir continentes. El océano Pacífico, mucho más ancho y sin islas de apoyo, se convirtió en el siguiente desafío. El Air Service de los Estados Unidos había planeado durante años un vuelo transpacífico que no solo batiera un récord de distancia, sino que probara la fiabilidad de la navegación aérea sobre mar abierto. Gran parte de los instrumentos empleados fueron desarrollados por el propio Albert F. Hegenberger en McCook Field, Ohio.
 
 ### Entorno social
 

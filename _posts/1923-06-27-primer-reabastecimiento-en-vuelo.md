@@ -54,7 +54,7 @@ El equipo de ingenieros del Air Service Engineering Division, liderado por el Ma
 
 ### Entorno cultural
 
-La aviación de la década de 1920 capturaba la imaginación del público. Los récords de distancia y resistencia eran seguidos con fascinación. El reabastecimiento en vuelo abría la posibilidad de vuelos de larga distancia sin precedentes, un sueño que se haría realidad en 1927 con el vuelo de Lindbergh y, años después, con los vuelos comerciales transoceánicos.
+La aviación de la década de 1920 capturaba la imaginación del público. Los récords de distancia y resistencia eran seguidos con fascinación. El reabastecimiento en vuelo abría la posibilidad de vuelos de larga distancia sin precedentes, un sueño que se haría realidad en 1927 con el vuelo de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Lindbergh</a> y, años después, con los vuelos comerciales transoceánicos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

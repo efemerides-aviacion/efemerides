@@ -50,7 +50,7 @@ La trayectoria de Armstrong recorre en tres décadas el trayecto que va del avi�
 
 ### Entorno social
 
-Nació en el primer año de la Gran Depresión, en una pequeña localidad del Medio Oeste, y creció en una familia que se mudó repetidamente por el trabajo de su padre como auditor del estado de Ohio. Aquella América rural convivía con una fascinación creciente por la aviación, alimentada por las exhibiciones aéreas y por figuras como Lindbergh. Armstrong obtuvo el certificado de vuelo de alumno el día que cumplió dieciséis años y voló solo por primera vez en agosto de aquel mismo año, antes de disponer de permiso de conducir. Fue además Eagle Scout, la máxima distinción del escultismo estadounidense, y llevó consigo a la Luna una insignia scout mundial.
+Nació en el primer año de la Gran Depresión, en una pequeña localidad del Medio Oeste, y creció en una familia que se mudó repetidamente por el trabajo de su padre como auditor del estado de Ohio. Aquella América rural convivía con una fascinación creciente por la aviación, alimentada por las exhibiciones aéreas y por figuras como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1902/02/04/nacimiento-charles-lindbergh.html" style="color: #315fea; text-decoration: none;">Lindbergh</a>. Armstrong obtuvo el certificado de vuelo de alumno el día que cumplió dieciséis años y voló solo por primera vez en agosto de aquel mismo año, antes de disponer de permiso de conducir. Fue además Eagle Scout, la máxima distinción del escultismo estadounidense, y llevó consigo a la Luna una insignia scout mundial.
 
 ### Entorno tecnológico
 

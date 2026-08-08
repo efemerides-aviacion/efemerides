@@ -144,7 +144,7 @@ Charles Kingsford Smith es recordado como uno de los más grandes pioneros de la
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
-  <p><strong>1. La hazaña de Kingsford Smith en contexto:</strong> Charles Lindbergh había cruzado el Atlántico en solitario en mayo de 1927. Kingsford Smith, inspirado por ese éxito, planeó el cruce del Pacífico, una ruta mucho más larga y sobre un océano inmenso. Su vuelo demostró la viabilidad de las rutas aéreas transpacíficas.</p>
+  <p><strong>1. La hazaña de Kingsford Smith en contexto:</strong> <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> había cruzado el Atlántico en solitario en mayo de 1927. Kingsford Smith, inspirado por ese éxito, planeó el cruce del Pacífico, una ruta mucho más larga y sobre un océano inmenso. Su vuelo demostró la viabilidad de las rutas aéreas transpacíficas.</p>
   <p><strong>2. La famosa frase "My kingdom for a smoke":</strong> Al aterrizar en Brisbane, Kingsford Smith, fumador empedernido, pronunció esta frase (un juego de palabras con la obra de Shakespeare "Ricardo III"). Se ha convertido en una de las anécdotas más célebres de la aviación australiana.</p>
   <p><strong>3. El destino del Southern Cross:</strong> El avión original se conserva en un hangar de vidrio en el Aeropuerto de Brisbane. Ha sido restaurado y es una de las atracciones históricas más importantes de Queensland. Una réplica en tamaño real, construida en la década de 1980, fue restaurada a condiciones de vuelo en 2023 por la Historical Aircraft Restoration Society (HARS).</p>
 </div>

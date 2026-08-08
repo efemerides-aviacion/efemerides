@@ -60,7 +60,7 @@ En la década de 1920, apenas 20 años después del primer vuelo de los hermanos
 
 ### Entorno social
 
-La Primera Guerra Mundial había terminado hacía cinco años, y Estados Unidos emergía como una potencia económica y tecnológica. El público estaba fascinado por la aviación, y los pilotos eran vistos como héroes modernos. El vuelo de Lindbergh aún estaba cuatro años en el futuro (1927), pero la carrera por establecer récords de distancia y resistencia ya estaba en marcha. El Servicio Aéreo del Ejército apoyaba esta empresa para demostrar el potencial militar y comercial de la aviación.
+La Primera Guerra Mundial había terminado hacía cinco años, y Estados Unidos emergía como una potencia económica y tecnológica. El público estaba fascinado por la aviación, y los pilotos eran vistos como héroes modernos. El vuelo de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Lindbergh</a> aún estaba cuatro años en el futuro (1927), pero la carrera por establecer récords de distancia y resistencia ya estaba en marcha. El Servicio Aéreo del Ejército apoyaba esta empresa para demostrar el potencial militar y comercial de la aviación.
 
 ### Entorno tecnológico
 

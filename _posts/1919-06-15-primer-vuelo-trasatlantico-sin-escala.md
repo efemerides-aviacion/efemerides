@@ -127,7 +127,7 @@ El vuelo demostró que el cruce del Atlántico en avión era posible, lo que ace
 
 El Vickers Vimy de Alcock y Brown se exhibe actualmente en el Museo de la Ciencia de Londres (Science Museum) en la galería de vuelo, restaurado a su estado original. La hélice del dínamo que falló durante el vuelo fue regalada por los pilotos al jefe de la estación Marconi de Clifden y salió a subasta en 2023.
 
-El legado de Alcock y Brown perdura en la historia de la aviación como los primeros en lograr lo que parecía imposible: cruzar el océano Atlántico sin escalas. Aunque Lindbergh ha recibido mayor reconocimiento popular por su vuelo en solitario de 1927, los historiadores señalan que la hazaña de Alcock y Brown —con 16 horas de duración, en condiciones meteorológicas adversas y con equipos de navegación rudimentarios— fue técnicamente más desafiante.
+El legado de Alcock y Brown perdura en la historia de la aviación como los primeros en lograr lo que parecía imposible: cruzar el océano Atlántico sin escalas. Aunque <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Lindbergh</a> ha recibido mayor reconocimiento popular por su vuelo en solitario de 1927, los historiadores señalan que la hazaña de Alcock y Brown —con 16 horas de duración, en condiciones meteorológicas adversas y con equipos de navegación rudimentarios— fue técnicamente más desafiante.
 
 Alcock falleció apenas seis meses después, pero su nombre quedó grabado en la historia. Brown, más longevo, vivió para ver cómo la aviación trasatlántica se convertía en algo rutinario. El vuelo que realizaron es recordado como uno de los hitos más importantes de la historia de la aviación.
 

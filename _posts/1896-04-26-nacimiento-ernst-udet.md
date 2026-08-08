@@ -128,7 +128,7 @@ El 17 de noviembre de 1941, Udet se suicidó en su apartamento de Berlín con un
 
 ## Legado
 
-Ernst Udet es una figura trágica y paradójica. Fue el héroe popular en la Alemania de entreguerras, el piloto más famoso de su tiempo junto con Charles Lindbergh. Su habilidad como aviador era indiscutible: era un virtuoso del vuelo acrobático y un as de combate de primer orden. Sin embargo, su incapacidad para adaptarse a las exigencias de la gestión burocrática y su dependencia emocional de la aprobación de Göring lo llevaron al desastre.
+Ernst Udet es una figura trágica y paradójica. Fue el héroe popular en la Alemania de entreguerras, el piloto más famoso de su tiempo junto con <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1902/02/04/nacimiento-charles-lindbergh.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a>. Su habilidad como aviador era indiscutible: era un virtuoso del vuelo acrobático y un as de combate de primer orden. Sin embargo, su incapacidad para adaptarse a las exigencias de la gestión burocrática y su dependencia emocional de la aprobación de Göring lo llevaron al desastre.
 
 Su legado aeronáutico es significativo. Impulsó el desarrollo del Stuka, el bombardero en picado que se convirtió en un arma psicológica y táctica clave para la Wehrmacht. Sus diseños de aviones ligeros (Udet Flugzeugbau) influyeron en la aviación deportiva alemana.
 

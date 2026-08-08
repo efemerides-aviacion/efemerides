@@ -19,7 +19,7 @@ image: 1927-05-08-desaparicion-biplano-l'oiseau-blanc.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 8 de mayo de 1927, el biplano L’Oiseau Blanc (Levasseur PL.8), pilotado por los aviadores franceses Charles Nungesser y François Coli, despegó de París con destino a Nueva York en un intento de primer vuelo transatlántico sin escalas, pero nunca llegó a su destino y se convirtió en uno de los mayores misterios de la aviación. Menos de dos semanas después, Charles Lindbergh completaría la primera travesía transatlántica sin escalas desde Nueva York hasta París, llevándose el Orteig Prize.</p>
+<p>El 8 de mayo de 1927, el biplano L’Oiseau Blanc (Levasseur PL.8), pilotado por los aviadores franceses Charles Nungesser y François Coli, despegó de París con destino a Nueva York en un intento de primer vuelo transatlántico sin escalas, pero nunca llegó a su destino y se convirtió en uno de los mayores misterios de la aviación. Menos de dos semanas después, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> sin escalas desde Nueva York hasta París, llevándose el Orteig Prize.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -114,7 +114,7 @@ La única pieza confirmada del L’Oiseau Blanc que se conserva es su tren de at
 
 ## Consecuencias e Impacto
 
-- **Charles Lindbergh y la historia:** El vuelo de Nungesser y Coli ocurrió apenas 13 días antes del exitoso vuelo de Charles Lindbergh del 20-21 de mayo de 1927. Si bien Lindbergh se llevó el Premio Orteig y la fama, el misterio de L’Oiseau Blanc ha perdurado como una sombra sobre su récord.
+- **Charles Lindbergh y la historia:** El vuelo de Nungesser y Coli ocurrió doce días antes de que Charles Lindbergh despegara de Roosevelt Field, el 20 de mayo de 1927, para aterrizar en Le Bourget al día siguiente. Si bien Lindbergh se llevó el Premio Orteig y la fama, el misterio de L’Oiseau Blanc ha perdurado como una sombra sobre su récord.
 - **El fin de una era de héroes:** Nungesser era un héroe nacional en Francia; su desaparición fue un duro golpe. El "Mystère de l’Oiseau Blanc" es uno de los más duraderos de la aviación.
 - **Legado cultural:** Una calle en París lleva el nombre de los dos aviadores. Se emitió un sello postal conmemorativo en 1967 y una estatua en su honor se encuentra en el aeropuerto de Le Bourget.
 

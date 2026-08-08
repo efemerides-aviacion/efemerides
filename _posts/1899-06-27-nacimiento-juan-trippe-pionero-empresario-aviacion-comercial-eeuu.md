@@ -40,7 +40,7 @@ image: 1899-06-27-nacimiento-juan-trippe-pionero-empresario-aviacion-comercial-e
 
 ## Contexto Histórico
 
-A principios del siglo XX, la aviación era un juego de pioneros y aventureros. El vuelo de los hermanos Wright en 1903 era apenas un recuerdo, y el cruce del Atlántico por Lindbergh en 1927 aún estaba por ocurrir. Los aviones eran frágiles, el transporte aéreo era un lujo para unos pocos, y las aerolíneas apenas comenzaban a esbozarse.
+A principios del siglo XX, la aviación era un juego de pioneros y aventureros. El vuelo de los hermanos Wright en 1903 era apenas un recuerdo, y el cruce del Atlántico por <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> en 1927 aún estaba por ocurrir. Los aviones eran frágiles, el transporte aéreo era un lujo para unos pocos, y las aerolíneas apenas comenzaban a esbozarse.
 
 ### Entorno social
 
