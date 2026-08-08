@@ -80,7 +80,7 @@ Lucky Lady II es recordada como pionera en vuelos de largo alcance, y su misión
 
 <p>Algunos historiadores señalan que el vuelo dependió de cuatro reabastecimientos en vuelo, lo que lo hace distinto de un vuelo “autónomo”. Sin embargo, la definición oficial de “sin escalas” se refiere a que la aeronave principal nunca aterrizó durante la circunnavegación, por lo que el récord fue reconocido internacionalmente.</p>
 
-<p>También se menciona la controversia con vuelos previos de larga distancia (como el de Howard Hughes en 1938 o los vuelos de la RAF en la posguerra), pero ninguno cumplió la condición de circunnavegación completa sin aterrizajes. Por ello, la FAI y la USAF reconocen a Lucky Lady II como el primer vuelo de este tipo.</p>
+<p>También se menciona la controversia con vuelos previos de larga distancia (como <a href="https://efemerides-aviacion.github.io/efemerides/evento/1938/07/14/vuelta-al-mundo-howard-hughes.html" style="color: #315fea; text-decoration: none;">el de Howard Hughes en 1938</a> o los vuelos de la RAF en la posguerra), pero ninguno cumplió la condición de circunnavegación completa sin aterrizajes. Por ello, la FAI y la USAF reconocen a Lucky Lady II como el primer vuelo de este tipo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />

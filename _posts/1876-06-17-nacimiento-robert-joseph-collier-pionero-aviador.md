@@ -96,7 +96,7 @@ Entre los galardonados más famosos se incluyen:
 
 - <strong><a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">Orville Wright</strong></a> (1913, por el desarrollo del piloto automático)
 - <strong><a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a></strong> (1927, por su vuelo transatlántico en solitario) 
-- <strong><a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1905/12/24/nacimiento-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes</a></strong> (1938, por la circunnavegación del mundo)
+- <strong><a href="https://efemerides-aviacion.github.io/efemerides/evento/1938/07/14/vuelta-al-mundo-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes</a></strong> (1938, por la circunnavegación del mundo)
 - **Apollo 8 crew** (1968, primera órbita lunar tripulada)
 - <strong><a href="https://efemerides-aviacion.github.io/efemerides/espacial/1969/07/20/alunizaje-apolo11.html" style="color: #315fea; text-decoration: none;">Apollo 11 crew</a></strong> (1969, por el primer alunizaje tripulado) 
 - <strong><a href="https://efemerides-aviacion.github.io/efemerides/espacial/1971/08/07/apolo-xv-usa-vehiculo-lrv-primera-vez.html" style="color: #315fea; text-decoration: none;">Apollo 15 crew</a></strong> (1971, por la primera misión con rover lunar)
