@@ -15,14 +15,14 @@ image: 1896-04-26-nacimiento-ernst-udet.webp
   <figcaption class="post-caption">Ernst Udet, joven piloto alemán, hacia la Primera Guerra Mundial. Fuente: Ciencia Histórica y EcuRed.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 26 de abril de 1896 nació en Fráncfort del Meno (Alemania) el aviador y militar Ernst Udet, quien se convertiría en el segundo as con más victorias de la Luftstreitkräfte en la Primera Guerra Mundial (62 derribos) y en una figura clave para el desarrollo de la aviación táctica alemana en el período interbélico y en la Segunda Guerra Mundial. Tras la guerra, se dedicó al vuelo acrobático y a la fabricación de aviones ligeros, integrándose posteriormente en el aparato nazi como Generaloberst y Generalluftzeugmeister, donde impulsó el desarrollo del Stuka y los conceptos de bombardeo en picado. Falleció el 17 de noviembre de 1941 en Berlín, en circunstancias de suicidio relacionadas con tensiones internas en el mando de la Luftwaffe.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -38,7 +38,7 @@ image: 1896-04-26-nacimiento-ernst-udet.webp
 - **Principales condecoraciones:** Pour le Mérite (abril de 1918), Cruz de Hierro (1.ª y 2.ª Clase), Cruz de Caballero de la Cruz de Hierro (4 de julio de 1940), Broche de la Cruz de Hierro, Cruz Hanseática
 - **Papel en la Segunda Guerra Mundial:** Generalluftzeugmeister (Jefe de Adquisiciones y Suministros de la Luftwaffe)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -86,7 +86,7 @@ La figura del "as de la aviación" se consolidó en Alemania como un héroe naci
 - **17 de noviembre de 1941:** Se suicida en Berlín con un disparo en la cabeza.
 - **18-21 de noviembre de 1941:** El régimen nazi le organiza un funeral de Estado, ocultando la verdadera causa de su muerte y atribuyéndola a un "accidente al probar un nuevo arma".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## La vida de Ernst Udet: del as de guerra al suicidio
 
@@ -124,7 +124,7 @@ Tras la invasión de la URSS en junio de 1941, la demanda de aviones y piezas de
 
 El 17 de noviembre de 1941, Udet se suicidó en su apartamento de Berlín con un disparo en la cabeza. Dejó una nota en la pared: "Eisern, du hast mich verraten" ("Hierro, me has traicionado"). No está claro si "Eisern" (hierro) se refería a Göring (cuyo nombre real no era ese) o a su propia debilidad. El régimen nazi organizó un funeral de Estado con honores militares, y la prensa alemana informó que había muerto en un accidente al probar un nuevo arma.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -136,7 +136,7 @@ Hoy, el nombre de Udet está inscrito en la historia de la aviación como el seg
 
 Su tumba se encuentra junto a la de Manfred von Richthofen en el cementerio Invalidenfriedhof de Berlín.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el número de victorias:</strong> Aunque la mayoría de las fuentes coinciden en 62 victorias confirmadas para Udet, la revista Flugsport publicó en 1919 una lista con 60. El expediente personal de Udet como General de la Luftwaffe (Personalakte) confirma el total de 62, que es la cifra aceptada por los historiadores y por el Lexikon der Wehrmacht. El mayor número de pilotos alemanes de la Primera Guerra Mundial solo superado por Manfred von Richthofen.</p>
@@ -144,7 +144,7 @@ Su tumba se encuentra junto a la de Manfred von Richthofen en el cementerio Inva
 <p><strong>Sobre las circunstancias de su muerte:</strong> Udet se suicidó el 17 de noviembre de 1941. El régimen nazi ocultó la verdad y anunció oficialmente que murió en un accidente al probar un nuevo arma. Recibió un funeral de Estado. La nota que dejó en su apartamento decía: "Eisern, du hast mich verraten" ("Hierro, me has traicionado"), dirigida probablemente a Hermann Göring.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
@@ -160,7 +160,7 @@ Su tumba se encuentra junto a la de Manfred von Richthofen en el cementerio Inva
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
