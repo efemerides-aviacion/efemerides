@@ -105,7 +105,7 @@ En el ámbito geopolítico, Pan Am fue una herramienta de la política exterior 
 
 ## Legado
 
-Juan Trippe es recordado como uno de los grandes visionarios de la aviación, junto a nombres como Howard Hughes, Eddie Rickenbacker y C.R. Smith. Su legado no es solo una aerolínea, sino la transformación de los viajes aéreos en un bien de consumo masivo.
+Juan Trippe es recordado como uno de los grandes visionarios de la aviación, junto a nombres como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1905/12/24/nacimiento-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes</a>, Eddie Rickenbacker y C.R. Smith.. Su legado no es solo una aerolínea, sino la transformación de los viajes aéreos en un bien de consumo masivo.
 
 Pan American World Airways, que en su apogeo fue la aerolínea más famosa del mundo, desapareció en 1991 , pero su nombre y su imagen perduran en la cultura popular. El logotipo azul de Pan Am sigue siendo reconocible, y la aerolínea ha aparecido en innumerables películas y series.
 

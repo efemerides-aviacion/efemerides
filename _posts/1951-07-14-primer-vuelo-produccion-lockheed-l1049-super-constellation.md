@@ -62,7 +62,7 @@ El Constellation ya se había convertido en un símbolo de elegancia aérea, con
 La historia del primer L-1049 de producción solo se entiende al observar la rápida secuencia de decisiones técnicas e industriales que llevó del Constellation original a una célula notablemente más capaz. El vuelo de N6201C fue el punto en que ese proceso dejó de ser experimental y pasó a materializarse en serie.
 
 - **1949-1950:** Lockheed estudia una versión alargada del Constellation para responder a la competencia y a la demanda de mayor capacidad.
-- **Mayo de 1950:** la compañía recompra el prototipo original de la familia Constellation a Howard Hughes para transformarlo en prototipo del futuro L-1049.
+- **Mayo de 1950:** la compañía recompra el prototipo original de la familia Constellation a <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1905/12/24/nacimiento-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes</a> para transformarlo en prototipo del futuro L-1049.
 - **13 de octubre de 1950:** el prototipo del Súper Constellation realiza su primer vuelo tras su conversión.
 - **14 de julio de 1951:** despega N6201C, número de construcción 4001, primer L-1049 construido como aparato de producción.
 - **29 de noviembre de 1951:** el modelo obtiene su certificación.
