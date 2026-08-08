@@ -50,7 +50,7 @@ El Pitcairn PCA-2 fue el primer autogiro en obtener la certificación de tipo en
 
 ### Entorno cultural
 
-La década de 1930 fue la era dorada de la aviación y los récords. Figuras como Charles Lindbergh, Amelia Earhart y Howard Hughes competían por establecer nuevas marcas de distancia, velocidad y altitud. Los autogiros, aunque hoy son poco conocidos, fueron vistos en su momento como una tecnología prometedora que podría revolucionar la aviación personal y comercial.
+La década de 1930 fue la era dorada de la aviación y los récords. Figuras como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1902/02/04/nacimiento-charles-lindbergh.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a>, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/07/24/nacimiento-amelia-earhart-pionera-aviacion.html" style="color: #315fea; text-decoration: none;">Amelia Earhart</a> y <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1905/12/24/nacimiento-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes</a> competían por establecer nuevas marcas de distancia, velocidad y altitud. Los autogiros, aunque hoy son poco conocidos, fueron vistos en su momento como una tecnología prometedora que podría revolucionar la aviación personal y comercial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
 
