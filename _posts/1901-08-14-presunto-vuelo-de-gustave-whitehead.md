@@ -105,5 +105,5 @@ Ciento veinticinco años después, Whitehead sigue siendo el «primero» de Conn
 - **Timestamp de verificación:** 2026-08-09 15:54:30 CST
 - **Fuentes primarias consultadas:** Wikipedia (EN), National Air and Space Museum (editorial de Tom Crouch), borrador preliminar del investigador
 - **Discrepancias resueltas:** la divergencia central —Connecticut y Jane's (2013) frente a Smithsonian, FAI y la historiografía mayoritaria— no se resuelve a favor de ninguna: se presenta la reclamación como reclamación y se consigna el veredicto «no probado» en nota aclaratoria. El número de declaraciones juradas varía entre fuentes (más de diez, trece, veinte testigos entrevistados); se redactó sin cifra cerrada.
-- **Nivel de confianza:** Alto para la existencia de la reclamación y de la controversia; insuficiente para el vuelo como hecho.
+- **Nivel de confianza:** Alto para la existencia de la reclamación y de la controversia; <strong>insuficiente para el vuelo como hecho</strong>.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
