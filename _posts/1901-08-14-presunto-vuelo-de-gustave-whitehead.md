@@ -88,6 +88,7 @@ Ciento veinticinco años después, Whitehead sigue siendo el «primero» de Conn
   <ul>
     <li><a href="https://en.wikipedia.org/wiki/Gustave_Whitehead">Wikipedia (EN) - Gustave Whitehead</a></li>
     <li><a href="https://airandspace.si.edu/stories/editorial/flight-claims-gustave-whitehead">National Air and Space Museum - Debunking Gustave Whitehead's Claim of Flying First, por Tom Crouch</a></li>
+        <li><a href="https://www.aopa.org/news-and-media/all-news/2013/march/20/who-flew-first">AOPA - Who flew first? The Wright answer undergoes a challenge, por Dan Namowitz (20 de marzo de 2013)</a></li>
     <li>Borrador preliminar del investigador, con la relación de declaraciones juradas, la crónica del Bridgeport Sunday Herald y la cobertura periodística de 1901</li>
   </ul>
 </div>
