@@ -59,7 +59,7 @@ El Pulqui pertenece a un momento singular: el de un país periférico que intent
 
 La Argentina de 1946 era uno de los mayores exportadores agrícolas del mundo y disponía de reservas acumuladas durante la guerra. El gobierno de Juan Domingo Perón, recién iniciado, hizo de la industrialización acelerada un eje político, y la aeronáutica ofrecía el símbolo perfecto: un producto de alta tecnología, visible y asociado al prestigio nacional. El Instituto Aerotécnico de Córdoba, que fabricaba aviones desde 1927, recibió el encargo con una consigna implícita de urgencia.
 
-El contexto europeo aportó el otro ingrediente. El fin de la guerra dejó a cientos de técnicos e ingenieros alemanes, italianos y franceses sin destino, algunos perseguidos judicialmente en sus países. Argentina ofreció contratos y discreción. Émile Dewoitine, que había diseñado el caza D.520 y luego trabajado bajo el régimen de Vichy, llegó por esa vía tras pasar por España. Años después, el mismo mecanismo llevaría a Córdoba a Kurt Tank, diseñador del Focke-Wulf Fw 190.
+El contexto europeo aportó el otro ingrediente. El fin de la guerra dejó a cientos de técnicos e ingenieros alemanes, italianos y franceses sin destino, algunos perseguidos judicialmente en sus países. Argentina ofreció contratos y discreción. Émile Dewoitine, que había diseñado el caza D.520 y luego trabajado bajo el régimen de Vichy, llegó por esa vía tras pasar por España. Años después, el mismo mecanismo llevaría a Córdoba a <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1898/02/24/nacimiento-kurt-tank.html" style="color: #315fea; text-decoration: none;">Kurt Tank</a>, diseñador del Focke-Wulf Fw 190.
 
 ### Entorno tecnológico
 
