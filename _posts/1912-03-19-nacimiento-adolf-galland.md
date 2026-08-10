@@ -16,13 +16,13 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1912-03-19-nacimiento-adolf-galland.webp" alt="Adolf Galland">
   <figcaption class="post-caption">Adolf Galland, capitán de la Legión Cóndor durante la Guerra Civil Española (1937-1938), vistiendo chaqueta de aviador con cuello de piel, Cruz de Hierro y boina de la Luftwaffe. Fecha aproximada: 1938. Fuente: defensa.com – "Adolf Galland de los cielos de España a los de la Segunda Guerra Mundial".</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Adolf Galland nació el 19 de marzo de 1912 en Westerholt, Westfalia, Alemania. Fue un destacado piloto de caza y comandante de la Luftwaffe durante la Segunda Guerra Mundial, acumulando 104 victorias aéreas confirmadas en 705 misiones, todas ellas en el Frente Occidental. Participó en la Guerra Civil Española con la Legión Cóndor, donde realizó 300 misiones de ataque a tierra. Como General de Cazas desde 1941, lideró la defensa aérea del Reich y promovió el desarrollo del caza a reacción Me 262. Tras ser destituido en 1945 por sus críticas a Göring, formó el legendario Jagdverband 44, escuadrón de élite equipado con reactores. Falleció el 9 de febrero de 1996 en Remagen-Oberwinter.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
 
 ## Datos biográficos y eventos
 - **Fecha de nacimiento:** 19 de marzo de 1912
@@ -31,7 +31,7 @@ redirect_from:
 - **Servicio militar/profesional:** Luftwaffe (1935-1945); Legión Cóndor (1937-1938); comandante del JG 26 "Schlageter"; Inspector General de Cazas; asesor aeronáutico en Argentina (1947-1955)
 - **Fecha de fallecimiento:** 9 de febrero de 1996 (83 años), Remagen-Oberwinter, Alemania
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
 
 ## Contexto Histórico
 
@@ -117,7 +117,7 @@ Adolf Galland ocupa un lugar excepcional en la historia de la aviación militar:
 - **Referente moral:** Su negativa a ejecutar órdenes que consideraba contrarias al honor militar (como el fusilamiento de pilotos en paracaídas) y su defensa del código de caballerosidad en el combate aéreo lo convirtieron en una figura respetada incluso entre sus enemigos.
 - **Memoria histórica:** Sus memorias "Los primeros y los últimos" siguen siendo una fuente primaria fundamental para el estudio de la Luftwaffe y la guerra aérea en Europa.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
 
 ## Referencias Verificadas
 <div class="references">
@@ -135,7 +135,7 @@ Adolf Galland ocupa un lugar excepcional en la historia de la aviación militar:
     <li><a href="https://www.abc.es/historia/confesiones-piloto-nazi-letal-sobre-ultimo-combate-20241118042314-nt.html">ABC – Las confesiones del piloto nazi más letal sobre su último combate</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-18 10:30:00 UTC  
