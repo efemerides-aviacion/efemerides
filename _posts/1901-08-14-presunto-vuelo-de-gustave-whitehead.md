@@ -78,7 +78,7 @@ La pregunta por «quién voló primero» se convirtió en asunto de orgullo esta
 
 ## Legado
 
-Ciento veinticinco años después, Whitehead sigue siendo el «primero» de Connecticut y el «no probado» del Smithsonian. Su museo natal de Leutershausen lo honra como Gustav Weißkopf, pionero de la aviación; la historiografía, en cambio, reserva el hito a Kitty Hawk porque los Wright documentaron, patentaron y repitieron ante testigos lo que Whitehead solo relató. El caso permanece como lección permanente de método histórico: una reclamación puede ser sincera, popular y hasta legislada, y aun así no alcanzar el estatuto de hecho.
+Ciento veinticinco años después, Whitehead sigue siendo el «primero» de Connecticut y el «no probado» del Smithsonian. Su museo natal de Leutershausen lo honra como Gustav Weißkopf, pionero de la aviación; la historiografía, en cambio, reserva el hito a Kitty Hawk porque los Wright documentaron, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1906/05/22/patente-maquina-voladora-hermanos-wright.html" style="color: #315fea; text-decoration: none;">patentaron</a> y repitieron ante testigos lo que Whitehead solo relató. El caso permanece como lección permanente de método histórico: una reclamación puede ser sincera, popular y hasta legislada, y aun así no alcanzar el estatuto de hecho.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
