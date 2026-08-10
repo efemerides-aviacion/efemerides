@@ -14,13 +14,13 @@ image: 1944-03-30-operacion-noche-de-nuremberg.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-03-30-operacion-noche-de-nuremberg.webp" alt="Bombarderos Lancaster y Halifax atacados por cazas nocturnos Bf 110">
   <figcaption class="post-caption">30/31 marzo 1944 – La Noche de Núremberg: Lancaster y Halifax del Bomber Command RAF atacados por cazas nocturnos Bf 110 de la Luftwaffe. Ilustración de los combates sobre Alemania (Fuente: airgunnerbobgilldfm.wordpress.com – Nuremberg Raid Analysis).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 30 de marzo de 1944, la RAF Bomber Command lanzó 795 bombarderos contra Núremberg en la conocida "Noche de Núremberg". Condiciones meteorológicas erróneas y cielos claros permitieron a la Luftwaffe derribar 95 aviones (11.8% de la fuerza), la mayor pérdida en una sola noche de la guerra, con 545 tripulantes muertos. El daño en la ciudad fue mínimo debido a nubes densas sobre el objetivo.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 ## Datos verificados del evento
 - **Fecha:** Noche del 30 al 31 de marzo de 1944
@@ -30,7 +30,7 @@ image: 1944-03-30-operacion-noche-de-nuremberg.webp
 - **Bajas alemanas:** 128 civiles muertos en Núremberg; alrededor de 100 cazas nocturnos de la Luftwaffe reclamaron 79–95 victorias confirmadas
 - **Resultado:** Derrota táctica para la RAF; el daño a la ciudad fue limitado
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 ## Contexto Histórico
 
@@ -43,7 +43,7 @@ En el Reich alemán, la guerra se extendía en dos frentes, y la población civi
 La *Luftwaffe* había desarrollado una eficaz red de caza nocturna (*Nachtjagd*) con radares aerotransportados como el *Lichtenstein* y el sistema *Schräge Musik* (cañones oblicuos montados en Bf 110 y Ju 88). Los bombarderos británicos carecían aún de contramedidas electrónicas suficientes para contrarrestar estos sistemas.
 
 ### Entorno cultural
-La incursión se planificó en medio de un clima de confianza en el Bomber Command, tras la exitosa campaña de 1943 (Hamburgo, Berlín). El mariscal Arthur Harris apostó por continuar los ataques a las ciudades alemanas, a menudo sobreestimando la protección que brindaría el mal tiempo.
+La incursión se planificó en medio de un clima de confianza en el Bomber Command, tras la exitosa campaña de 1943 (Hamburgo, Berlín). El mariscal <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1892/04/13/nacimiento-arthur-harris.html" style="color: #315fea; text-decoration: none;">Arthur Harris</a> apostó por continuar los ataques a las ciudades alemanas, a menudo sobreestimando la protección que brindaría el mal tiempo.
 
 ### Desarrollo Cronológico
 
@@ -77,7 +77,7 @@ El sistema de confirmación alemán requería testigos o restos localizados, por
 
 La Noche de Núremberg es recordada como la mayor tragedia del Bomber Command en la Segunda Guerra Mundial. En la historiografía británica, simboliza los límites del bombardeo estratégico sin superioridad aérea plena. En Alemania, se convirtió en un símbolo del sufrimiento civil, aunque el ataque quedó eclipsado por los bombardeos posteriores que arrasaron la ciudad en 1945.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 ## Referencias Verificadas
 <div class="references">
@@ -90,13 +90,13 @@ La Noche de Núremberg es recordada como la mayor tragedia del Bomber Command en
     <li><a href="https://www.bombercommandmuseum.ca/chronicles/bomber-command-chronicles-nuremberg/">Bomber Command Museum – Nuremberg, 30-31 March 1944</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 ## Nota aclaratoria
 
 Las cifras exactas de pérdidas varían según las fuentes: el Bomber Command Report inicial contabilizó 95 aviones perdidos, aunque algunos estudios posteriores ajustan a 94 o 96. Los derribos reclamados por la *Luftwaffe* oscilan entre 79 y 95; se ha tomado el consenso histórico que sitúa las pérdidas totales en 95 aeronaves (de las cuales 79 fueron atribuidas a cazas nocturnos y el resto a fuego antiaéreo). Asimismo, la misión se conoce indistintamente como "Noche de Núremberg" (*Nuremberg Night*) o "Incursión de Núremberg" (*Nuremberg Raid*).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-28 16:30:00 UTC  

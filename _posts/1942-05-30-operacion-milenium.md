@@ -46,7 +46,7 @@ La Operación Millennium (Milenio) ocurrió en un momento crítico de la Segunda
 
 ### Entorno social
 
-A principios de 1942, el Comando de Bombarderos de la RAF tenía una fuerza de primera línea de solo 400 aeronaves y estaba en plena transición de los bombarderos bimotores de antes de la guerra a los nuevos cuatrimotores pesados (Short Stirling, Handley Page Halifax y Avro Lancaster). El pobre desempeño en precisión de bombardeo durante 1941 había generado críticas y amenazas de desviar recursos a otros teatros de guerra, como la Batalla del Atlántico. Arthur Harris necesitaba un golpe de efecto propagandístico para demostrar al Gabinete de Guerra que invertir en bombarderos pesados podía ser decisivo para la victoria.
+A principios de 1942, el Comando de Bombarderos de la RAF tenía una fuerza de primera línea de solo 400 aeronaves y estaba en plena transición de los bombarderos bimotores de antes de la guerra a los nuevos cuatrimotores pesados (Short Stirling, Handley Page Halifax y Avro Lancaster). El pobre desempeño en precisión de bombardeo durante 1941 había generado críticas y amenazas de desviar recursos a otros teatros de guerra, como la Batalla del Atlántico. <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1892/04/13/nacimiento-arthur-harris.html" style="color: #315fea; text-decoration: none;">Arthur Harris</a> necesitaba un golpe de efecto propagandístico para demostrar al Gabinete de Guerra que invertir en bombarderos pesados podía ser decisivo para la victoria.
 
 ### Entorno tecnológico
 
