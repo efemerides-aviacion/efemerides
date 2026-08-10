@@ -72,7 +72,7 @@ El vuelo fue cubierto por la prensa de todo el país. Los periódicos documentar
 
 ### Desarrollo Cronológico
 
-- **1911:** Calbraith Perry Rodgers realiza el primer vuelo transcontinental (con escalas) en 49 días.
+- **1911:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1879/01/12/nacimiento-calbraith-perry-rodgers.html" style="color: #315fea; text-decoration: none;">Calbraith Perry Rodgers</a> realiza el primer vuelo transcontinental (con escalas) en 49 días.
 - **1922:** Primer intento fallido de Macready y Kelly (de costa oeste a este, abortado por niebla en las montañas).
 - **1922:** Segundo intento fallido (sobre Indianápolis, el motor se caló por una grieta en la camisa de agua).
 - **22‑23 de abril de 1923:** Macready y Kelly establecen un récord mundial de resistencia de 36 horas sobre McCook Field.
