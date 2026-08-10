@@ -58,7 +58,7 @@ El mito del "as de la aviación" estaba profundamente arraigado en la cultura al
 - **7 de marzo de 1936:** Participa en la remilitarización de Renania, siendo el primer piloto alemán en aterrizar en Düsseldorf.
 - **20 de abril de 1936:** Ascendido a Oberleutnant (teniente primero).
 - **15 de marzo de 1937:** Nombrado líder de escuadrón (Staffelkapitän) del 1.er Escuadrón del Jagdgeschwader 334 en Wiesbaden.
-- **14 de abril de 1938:** Llega a Cádiz (España) como voluntario de la Legión Cóndor, destinado al 3.er Escuadrón de Jagdgruppe 88 (J/88) bajo el mando de Adolf Galland.
+- **14 de abril de 1938:** Llega a Cádiz (España) como voluntario de la Legión Cóndor, destinado al 3.er Escuadrón de Jagdgruppe 88 (J/88) bajo el mando de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1912/03/19/nacimiento-adolf-galland.html" style="color: #315fea; text-decoration: none;">Adolf Galland</a>.
 - **24 de mayo de 1938:** Asume el mando del escuadrón cuando Galland regresa a Alemania.
 - **15 de julio de 1938:** Obtiene su primera victoria en combate, derribando un Polikarpov I-15 cerca de Algar.
 - **Julio-noviembre de 1938:** Acumula 14 victorias confirmadas en España (2 I-15, 12 I-16), convirtiéndose en el máximo as alemán de la Guerra Civil Española.

@@ -70,7 +70,7 @@ Las hazañas tácticas de Robert Stanford Tuck y el éxito de los escuadrones qu
 
 - **Consolidación del muro defensivo de la RAF:** Su asombrosa efectividad en combate durante el verano de 1940 ayudó a diezmar los recursos de la Luftwaffe alemana, impidiendo que se lograra la superioridad aérea necesaria para ejecutar la Operación León Marino (la invasión terrestre de Gran Bretaña).
 - **Desarrollo de tácticas de combate:** Como comandante de ala, Stanford Tuck perfeccionó las tácticas de intercepción cerrada y formaciones de combate, enseñando a los nuevos pilotos novatos a disparar solo a corta distancia para maximizar el daño de las ametralladoras Browning de 7,7 mm.
-- **Mitología de la camaradería aérea:** Su caballerosidad y su asombrosa reputación con el enemigo forjaron un respeto mutuo transnacional entre los ases de combate de ambos bandos, simbolizado en su legendaria amistad de posguerra con el as alemán Adolf Galland (quien llegó a ser padrino del hijo de Tuck).
+- **Mitología de la camaradería aérea:** Su caballerosidad y su asombrosa reputación con el enemigo forjaron un respeto mutuo transnacional entre los ases de combate de ambos bandos, simbolizado en su legendaria amistad de posguerra con el as alemán <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1912/03/19/nacimiento-adolf-galland.html" style="color: #315fea; text-decoration: none;">Adolf Galland</a> (quien llegó a ser padrino del hijo de Tuck).
 - **Aportaciones como piloto de pruebas:** Su experiencia técnica en la posguerra sirvió para depurar los fallos iniciales de los nuevos reactores de combate y caza-bombarderos de la RAF, contribuyendo a la transición tecnológica de la aviación militar británica hacia la era del motor de reacción.
 
 ### Legado
