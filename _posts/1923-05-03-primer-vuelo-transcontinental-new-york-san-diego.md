@@ -15,14 +15,14 @@ image: 1923-05-03-primer-vuelo-transcontinental-new-york-san-diego.webp
   <figcaption class="post-caption">El Fokker T-2, fotografiado en 1923, fue la aeronave pilotada por los tenientes John A. Macready y Oakley G. Kelly para realizar el primer vuelo transcontinental sin escalas a través de Estados Unidos, tal como se documenta en Aviation Relics.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 3 de mayo de 1923, los tenientes de la U.S. Army Air Service John A. Macready y Oakley G. Kelly culminaron el primer vuelo transcontinental sin escalas de costa a costa en los Estados Unidos, de Roosevelt Field (Long Island, Nueva York) a Rockwell Field (San Diego, California), a bordo de un monoplano Fokker T‑2. El vuelo duró 26 horas y 50 minutos, cubriendo aproximadamente 2.470‑2.520 millas (unos 3.970‑4.050 km), y probó que era posible cruzar el país en un solo tramo aéreo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 ## Datos verificados del evento
 
@@ -38,12 +38,12 @@ image: 1923-05-03-primer-vuelo-transcontinental-new-york-san-diego.webp
 - **Pilotos:** Teniente John A. Macready y Teniente Oakley G. Kelly
 - **Reconocimientos:** Mackay Trophy (1923)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 ## Especificaciones del Fokker T-2 (Fokker F.IV)
 
 - **Fabricante:** Fokker (Países Bajos), ensamblado en EE. UU.
-- **Diseñadores:** Anthony Fokker y Rheinhold Platz
+- **Diseñadores:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1890/04/06/nacimiento-anthony-herman-gerard-fokker.html" style="color: #315fea; text-decoration: none;">Anthony Fokker</a> y Rheinhold Platz
 - **Tipo:** Monoplano de transporte/pasajeros (cabina cerrada)
 - **Longitud:** 15,2 m (49 ft 10 in)
 - **Envergadura:** 24,5 m (80 ft 5 in)
@@ -52,7 +52,7 @@ image: 1923-05-03-primer-vuelo-transcontinental-new-york-san-diego.webp
 - **Capacidad original:** 8‑10 pasajeros
 - **Modificaciones para el vuelo:** Tanques de combustible adicionales (410 galones en el ala, 185 galones en la cabina), refuerzos estructurales, segundos controles en la cabina
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 ## Contexto Histórico
 
@@ -80,7 +80,7 @@ El vuelo fue cubierto por la prensa de todo el país. Los periódicos documentar
 - **3 de mayo de 1923, 12:26 p.m. (hora del Pacífico):** Aterrizaje en Rockwell Field, San Diego.
 - **1923:** Macready y Kelly reciben el Mackay Trophy por su hazaña.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 ## El vuelo: detalles humanos
 
@@ -110,7 +110,7 @@ Sin radio, sin ayudas terrestres, sin mapas meteorológicos, los pilotos se guia
 
 Al aterrizar en Rockwell Field, San Diego, tras 26 horas y 50 minutos, el T-2 tenía solo 46 galones de combustible en sus tanques (aproximadamente una hora de autonomía). Si el clima empeoraba o los vientos se volvían contrarios, no habrían llegado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 ## Los pilotos
 
@@ -118,7 +118,7 @@ John A. Macready nació en San Diego en 1887 y fue uno de los pilotos más notab
 
 Oakley G. Kelly nació en Pensilvania en 1891. Junto con el teniente Muir S. Fairchild, tuvo la idea original del vuelo transcontinental sin escalas y desempeñó un papel crucial en la modificación del Fokker T-2. Ambos pilotos se retiraron como coroneles, y Macready fue incluido en el Salón de la Fama de la Aviación Nacional.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 ## Consecuencias e Impacto
 
@@ -127,7 +127,7 @@ Oakley G. Kelly nació en Pensilvania en 1891. Junto con el teniente Muir S. Fai
 - **Inspiración para Lindbergh:** Charles Lindbergh, que cuatro años después volaría de Nueva York a París, siguió de cerca los intentos de Macready y Kelly. El vuelo transcontinental de 1923 demostró que los vuelos de larga distancia eran técnicamente factibles.
 - **El T-2 en la Smithsonian:** El Fokker T-2 original fue donado a la Smithsonian Institution y estuvo expuesto durante décadas; actualmente se encuentra en depósito.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 ## Legado
 
@@ -144,7 +144,7 @@ El Fokker T-2 envejeció rápidamente, superado por los avances tecnológicos de
 <p><strong>Sobre el nombre del avión:</strong> El avión fue fabricado originalmente como Fokker F.IV, número de serie 5142, comprado por el Servicio Aéreo del Ejército en junio de 1922 y redesignado como Transporte Aéreo Número 2 (Air Service Transport 2, o T-2). El T-2 que realizó el vuelo histórico es el mismo que se conserva en la Smithsonian.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 ## Referencias Verificadas
 
@@ -159,7 +159,7 @@ El Fokker T-2 envejeció rápidamente, superado por los avances tecnológicos de
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
 
 ## Metadatos de Control
 

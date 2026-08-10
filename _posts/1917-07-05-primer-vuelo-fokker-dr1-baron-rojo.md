@@ -26,7 +26,7 @@ image: 1917-07-05-primer-vuelo-fokker-dr1-baron-rojo.webp
 
 ## Datos verificados del evento
 - **Fabricante:** Fokker Flugzeugwerke GmbH, Schwerin, Alemania
-- **Diseñador principal:** Reinhold Platz, bajo la dirección de Anthony Fokker
+- **Diseñador principal:** Reinhold Platz, bajo la dirección de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1890/04/06/nacimiento-anthony-herman-gerard-fokker.html" style="color: #315fea; text-decoration: none;">Anthony Fokker</a>
 - **Configuración:** caza triplano monoplaza
 - **Serial clave citado en las fuentes aportadas:** F.I 102/17
 - **Motor de referencia:** Oberursel Ur.II rotativo de 9 cilindros y 110 hp
