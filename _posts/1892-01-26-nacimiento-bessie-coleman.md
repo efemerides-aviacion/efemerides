@@ -16,14 +16,14 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1892-01-26-nacimiento-bessie-coleman.webp" alt="Retrato pictórico de Bessie Coleman">
   <figcaption class="post-caption">Retrato pictórico de Bessie Coleman, primera aviadora afroamericana y nativa estadounidense en obtener una licencia de piloto internacional (1921, Francia). Fuente: United States Air Force / Smithsonian National Air and Space Museum</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Elizabeth "Bessie" Coleman nació el 26 de enero de 1892 en Atlanta, Texas, y se convirtió en la primera mujer afroamericana y de ascendencia nativa americana en obtener una licencia internacional de piloto, otorgada por la Fédération Aéronautique Internationale en 1921 tras entrenarse en Francia.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Datos Verificados
 - **Fecha de nacimiento:** 26 de enero de 1892  
 - **Lugar:** Atlanta, Texas, Estados Unidos  
@@ -40,7 +40,7 @@ redirect_from:
   - Falleció el 30 de abril de 1926 en un accidente aéreo.  
   - Inspiró a generaciones de aviadores, incluidos los Tuskegee Airmen.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Contexto Histórico
 Bessie Coleman rompió barreras de género y raza en la aviación, convirtiéndose en un símbolo de perseverancia y superación.
 
@@ -65,7 +65,7 @@ Su vida inspiró a nuevas generaciones de aviadores afroamericanos y mujeres en 
 ### Legado
 Recordada como pionera y símbolo de lucha contra la discriminación en la aviación mundial.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -76,7 +76,7 @@ Recordada como pionera y símbolo de lucha contra la discriminación en la aviac
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-22 13:10:00 UTC  
 - **Fuentes primarias consultadas:** Wikipedia; National Women's History Museum; Smithsonian Air & Space; PBS American Experience  

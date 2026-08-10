@@ -16,13 +16,13 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1892-04-13-nacimiento-arthur-harris.webp" alt="Sir Arthur Harris, comandante del Bomber Command de la RAF">
   <figcaption class="post-caption">El mariscal jefe del aire Sir Arthur Harris, comandante en jefe del Mando de Bombarderos de la Royal Air Force, sentado en su escritorio en el cuartel general del Mando de Bombarderos, en High Wycombe, ca. 1943. Fuente: <a href="https://es.wikipedia.org/wiki/Arthur_Harris">Wikimedia Commons</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 13 de abril de 1892 nació Sir Arthur Travers Harris en Cheltenham, Inglaterra. Como mariscal jefe del aire británico, dirigió el Bomber Command de la Royal Air Force durante la Segunda Guerra Mundial (1942-1945), siendo el principal artífice de la estrategia de bombardeo de saturación contra ciudades alemanas. Su liderazgo fue decisivo para la derrota del Tercer Reich, pero también objeto de controversia por el elevado número de víctimas civiles, estimadas en más de 600.000 personas. Falleció el 5 de abril de 1984, ocho días antes de cumplir 92 años.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 13 de abril de 1892
@@ -34,7 +34,7 @@ redirect_from:
 - **Condecoraciones:** Knight Grand Cross of the Order of the Bath (GCB), Orden del Mérito (OM), Distinguished Service Order (DSO), Cruz de la Fuerza Aérea (AFC)
 - **Lema personal:** *"Los nazis entraron en esta guerra con la ilusión, bastante infantil, de que iban a bombardear a todos los demás y de que nadie les bombardearía a ellos."*
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -47,7 +47,7 @@ Cuando Harris nació en 1892, la aviación apenas existía como sueño de vision
 ### Entorno cultural
 La doctrina del bombardeo estratégico surgió en el periodo de entreguerras de la mano de teóricos como el italiano Giulio Douhet («El dominio del aire», 1921) y el británico Hugh Trenchard. Ambos sostenían que los bombardeos sobre centros industriales y poblaciones civiles podían quebrar la moral enemiga y acortar las guerras. Harris fue un discípulo convencido de esta escuela, y durante su mandato la aplicó con una determinación sin precedentes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Desarrollo Cronológico
 
@@ -68,7 +68,7 @@ La doctrina del bombardeo estratégico surgió en el periodo de entreguerras de 
 - **1953:** Publica sus memorias, *Bomb Offensive*.
 - **5 de abril de 1984:** Fallece en su casa de Goring-on-Thames.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -77,7 +77,7 @@ La doctrina del bombardeo estratégico surgió en el periodo de entreguerras de 
 - **Debate ético:** Su figura se convirtió en símbolo de la tensión entre necesidad militar y proporcionalidad humanitaria. La polémica se intensificó tras la revelación de que Dresde no era un centro militar estratégico en febrero de 1945, cuando la guerra estaba prácticamente decidida.
 - **Legado institucional:** Tras la guerra, el gobierno británico no concedió a Harris un título nobiliario (a diferencia de otros altos mandos), en parte por la controversia. En 1992, durante el 50 aniversario del Bomber Command, la reina Isabel II rechazó una petición para condecorarlo póstumamente.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Estado actual / Legado
 
@@ -86,7 +86,7 @@ La doctrina del bombardeo estratégico surgió en el periodo de entreguerras de 
 - **Cultura popular:** Aparece como personaje en películas como *The Bomber Command* (2015) y series documentales de la BBC. Su frase sobre la «ilusión infantil» de los nazis se ha convertido en una de las citas más recordadas de la guerra aérea.
 - **Percepción pública:** En el Reino Unido sigue siendo una figura divisiva. Para muchos veteranos y sus familias, fue el líder que llevó la guerra al corazón de Alemania y salvó vidas británicas al acortar el conflicto. Para otros, fue el responsable de un sufrimiento civil desproporcionado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 <div class="references">
@@ -99,7 +99,7 @@ La doctrina del bombardeo estratégico surgió en el periodo de entreguerras de 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-10 16:30:00 UTC
