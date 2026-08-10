@@ -15,14 +15,14 @@ image: 1916-04-20-fundacion-escuadrilla-lafayette.webp
   <figcaption class="post-caption">La Escuadrilla Lafayette en julio de 1917. De pie, de izquierda a derecha: Soubiron, Doolittle, Campbell, Persons, Bridgman, Dugan, MacMonagle, Lowell, Willis, Jones, Peterson y de Maison-Rouge (subcomandante francés). Sentados, de izquierda a derecha, están Hill, Masson con «Soda», Thaw, Thenault (el comandante francés), Lufbery con «Whiskey», Johnson, Bigelow y Rockwell. (Fotografía de la Fuerza Aérea de los Estados Unidos).</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>La Escuadrilla Lafayette fue una unidad de caza formada por voluntarios estadounidenses que volaron para Francia durante la Primera Guerra Mundial. Su creación en abril de 1916 simbolizó el compromiso franco-estadounidense antes de la entrada oficial de EE. UU. en el conflicto. La unidad obtuvo amplia notoriedad por su valor simbólico, su presencia en el frente occidental y su legado en la historia de la aviación militar. Su memoria quedó preservada en el Lafayette Flying Corps y en el memorial conmemorativo asociado a la unidad.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 
@@ -39,7 +39,7 @@ image: 1916-04-20-fundacion-escuadrilla-lafayette.webp
 - **Bajas de la escuadrilla:** 9 pilotos muertos en combate
 - **Período de servicio activo:** 20 de abril de 1916 – 18 de febrero de 1918
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -71,7 +71,7 @@ Los pilotos de la Escuadrilla Lafayette forjaron una cultura única, mezcla de a
 - **8 de febrero de 1918:** La Escuadrilla Lafayette se disuelve.
 - **18 de febrero de 1918:** Sus miembros y equipos son transferidos al Servicio Aéreo del Ejército de EE. UU., formando el núcleo del 103rd Aero Squadron.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## La Fundación: detalles clave
 
@@ -93,18 +93,18 @@ El comandante de la unidad fue el **capitán Georges Thenault**, un oficial fran
 
 El nombre original, "Escuadrilla Americana", fue un poderoso gesto simbólico que, sin embargo, causó un incidente diplomático. El embajador alemán en Washington protestó formalmente, argumentando que una unidad militar que llevaba el nombre de una nación neutral era una violación de las leyes de neutralidad. Para evitar complicaciones, en diciembre de 1916 el gobierno francés renombró la unidad como **Escuadrilla Lafayette**, en honor al Marqués de Lafayette, el aristócrata francés que luchó junto a las colonias americanas durante su Guerra de Independencia. Este nombre era un guiño a la alianza histórica y mantenía el espíritu de la unidad sin ofender la neutralidad de Estados Unidos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Principales figuras de la Escuadrilla Lafayette
 
 - **Capitán Georges Thenault (1887-1948):** El único comandante de la unidad. Sobrevivió a la guerra y eligió ser enterrado junto a sus hombres en el Monumento a la Escuadrilla Lafayette.
-- **Gervais Raoul Lufbery (1885-1918):** El "as de ases" de la escuadrilla, con 16 o 17 victorias confirmadas. Nacido en Francia, se convirtió en ciudadano estadounidense. Murió en combate en 1918 mientras servía en el 94th Aero Squadron.
+- **<a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1885/03/14/nacimiento-raoul-lufbery.html" style="color: #315fea; text-decoration: none;">Gervais Raoul Lufbery</a> (1885-1918):** El "as de ases" de la escuadrilla, con 16 o 17 victorias confirmadas. Nacido en Francia, se convirtió en ciudadano estadounidense. Murió en combate en 1918 mientras servía en el 94th Aero Squadron.
 - **Kiffin Yates Rockwell (1892-1916):** Obtuvo la primera victoria aérea de la unidad. Murió en combate en septiembre de 1916. Era conocido por su agresividad y su profundo compromiso con la causa francesa.
 - **Norman Prince (1887-1916):** Co-fundador de la escuadrilla y uno de sus pilotos más exitosos. Murió en un accidente aéreo en octubre de 1916.
 - **William "Bill" Thaw (1893-1934):** Considerado el primer piloto estadounidense en la guerra. Sirvió en la Legión Extranjera antes de unirse a la aviación.
 - **Victor Chapman (1890-1916):** Primer piloto de la escuadrilla en morir en combate. Fue derribado sobre Verdún el 23 de junio de 1916.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -116,7 +116,7 @@ El nombre original, "Escuadrilla Americana", fue un poderoso gesto simbólico qu
 
 - **Legado diplomático:** La unidad se convirtió en un símbolo perdurable de la amistad franco-estadounidense. En 1928, se inauguró el Monumento a la Escuadrilla Lafayette en Marnes-la-Coquette, cerca de París, donde descansan los restos de 49 pilotos del LFC, incluido el comandante Thenault, quien pidió ser enterrado con sus hombres.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
@@ -126,14 +126,14 @@ El Lafayette Flying Corps, con sus 265 voluntarios, 51 muertos en combate y 159 
 
 El 20 de abril de 1916 marcó el nacimiento de una leyenda. Cien años después, en 2016, Francia y Estados Unidos conmemoraron el centenario de la fundación de la Escuadrilla Lafayette, honrando a los hombres que, con sus frágiles aviones de madera y tela, forjaron un vínculo inquebrantable entre dos naciones.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Existe una distinción importante entre la <strong>Escuadrilla Lafayette</strong> (Escadrille de Lafayette) y el <strong>Lafayette Flying Corps</strong>. La Escuadrilla Lafayette fue una unidad específica (N.124) que operó bajo mando francés con 38 pilotos estadounidenses. El Lafayette Flying Corps es un término colectivo que abarca a todos los estadounidenses (265 en total) que sirvieron como pilotos en diversas unidades de la aviación francesa durante la Primera Guerra Mundial, incluyendo a los de la Escuadrilla Lafayette. Decir que un piloto sirvió en el Lafayette Flying Corps no implica necesariamente que sirviera en la Escuadrilla Lafayette.</p>
 <p>La fecha del 20 de abril de 1916 corresponde al despliegue inicial de la unidad en Luxeuil-les-Bains. Algunas fuentes mencionan el 21 de marzo de 1916 como la fecha de autorización oficial por parte del gobierno francés. La efeméride se conmemora el 20 de abril por ser la fecha en que la unidad comenzó efectivamente sus operaciones.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 
@@ -150,7 +150,7 @@ El 20 de abril de 1916 marcó el nacimiento de una leyenda. Cien años después,
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 
