@@ -15,13 +15,13 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1885-03-14-nacimiento-raoul-lufbery.webp" alt="Raoul Lufbery">
   <figcaption class="post-caption">Subteniente Raoul Lufbery, circa 1917. Porta insignia de piloto, Legión de Honor, Medalla Militar y Cruz de Guerra (1 plata, 3 bronce) junto a SPAD S.VII C.1 de SPA 124 "La Fayette". (Capt. Robert Soubiran/Biblioteca del Congreso LC-USZ62-101970)</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Raoul Lufbery (14 de marzo de 1885 – 19 de mayo de 1918) fue un aviador franco-estadounidense y uno de los primeros grandes ases de la Primera Guerra Mundial, especialmente vinculado a la Escadrille Lafayette. Con 17 victorias confirmadas, se le considera el primer as estadounidense, aunque la mayoría de sus combates los libró bajo bandera francesa. En 1917 pasó al U.S. Army Air Service como mayor, entrenando a futuros ases como Eddie Rickenbacker. Murió en combate al saltar de su Nieuport 28 incendiado sobre Francia, y su figura es recordada como pionero de la aviación militar de Estados Unidos y Francia.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos biográficos y eventos
 - **Fecha de nacimiento:** 14 de marzo de 1885
@@ -44,7 +44,7 @@ redirect_from:
 - **Causa:** Muerte en combate; se lanzó de su Nieuport 28 en llamas sin paracaídas
 - **Lugar de sepultura:** Memorial de la Escadrille Lafayette, Marnes-la-Coquette, cerca de Versalles, Francia
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 Raoul Lufbery vivió en una época de transición entre el fin del siglo XIX y la Primera Guerra Mundial, un período que vio el nacimiento de la aviación y su rápida transformación en arma de guerra. Su vida itinerante y su doble herencia cultural lo sitúan como un puente entre Europa y América en los albores de la aviación militar.
@@ -99,7 +99,7 @@ Raoul Lufbery ocupa un lugar de honor en la historia de la aviación militar:
 - **Memoriales:** El monumento a la Escadrille Lafayette en Marnes-la-Coquette incluye su tumba y es lugar de peregrinación para los amantes de la historia de la aviación.
 - **Museo Nacional de la USAF:** Exhibe objetos y documentación sobre su carrera, destacando su papel como pionero.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Nota Aclaratoria
 
@@ -126,7 +126,7 @@ Raoul Lufbery ocupa un lugar de honor en la historia de la aviación militar:
     <li><a href="https://www.imdb.com/title/tt9612232/">IMDb – Major Raoul Lufbery: Fighter Ace (2018)</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-12 16:45:00 UTC  
