@@ -56,7 +56,7 @@ La Francia de finales del siglo XIX era una sociedad en reconstrucción tras la 
 La aviación daba sus primeros pasos. Los hermanos Wright volaron en 1903, y para 1910-1914 los aviones eran ya máquinas capaces de realizar exhibiciones y primeros servicios postales. Durante la guerra, la tecnología aeronáutica avanzó a un ritmo vertiginoso: los frágiles biplanos de 1914 se convirtieron en cazas especializados como el Nieuport 11, el SPAD VII y el Nieuport 28, con motores más potentes y armamento sincronizado.
 
 ### Entorno cultural
-La figura del aviador adquirió un halo romántico y heroico desde los primeros tiempos. Los pioneros eran celebrados como artistas del aire. Durante la guerra, los ases de caza (Guynemer, Fonck, Richthofen) se convirtieron en héroes nacionales, y sus hazañas eran seguidas con pasión por la prensa. La Escadrille Lafayette, integrada por voluntarios estadounidenses antes de la entrada de EE.UU. en la guerra, tuvo un enorme valor simbólico y propagandístico.
+La figura del aviador adquirió un halo romántico y heroico desde los primeros tiempos. Los pioneros eran celebrados como artistas del aire. Durante la guerra, los ases de caza (Guynemer, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1894/03/27/nacimiento-rene-paul-fonck-as-primera-guerra-mundial.html" style="color: #315fea; text-decoration: none;">Fonck</a>, Richthofen) se convirtieron en héroes nacionales, y sus hazañas eran seguidas con pasión por la prensa. La Escadrille Lafayette, integrada por voluntarios estadounidenses antes de la entrada de EE.UU. en la guerra, tuvo un enorme valor simbólico y propagandístico.
 
 ### Desarrollo Cronológico
 
