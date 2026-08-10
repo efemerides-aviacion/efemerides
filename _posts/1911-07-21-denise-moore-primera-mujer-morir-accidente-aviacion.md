@@ -68,7 +68,7 @@ La secuencia de los hechos que culminaron en el primer accidente mortal de una a
 ## Consecuencias e Impacto
 El fallecimiento de Denise Moore causó conmoción en las escuelas de vuelo de toda Europa, abriendo un debate inmediato sobre la seguridad operacional de los alumnos pilotos y las deficiencias aerodinámicas de los biplanos expuestos.
 
-Las publicaciones aeronáuticas internacionales y los registros de seguridad aérea —como la revista *FLIGHT* y la posterior recopilación de *Aviation Safety Network*— catalogaron formalmente el hecho como la primera fatalidad femenina registrada en un avión. A partir de este suceso, la prensa especializada comenzó a dar seguimiento sistemático a los accidentes que involucraban a pioneras de la aviación, en una trágica lista que incluiría posteriormente a aviadoras como Julia Clark, Harriet Quimby y Bessie Coleman.
+Las publicaciones aeronáuticas internacionales y los registros de seguridad aérea —como la revista *FLIGHT* y la posterior recopilación de *Aviation Safety Network*— catalogaron formalmente el hecho como la primera fatalidad femenina registrada en un avión. A partir de este suceso, la prensa especializada comenzó a dar seguimiento sistemático a los accidentes que involucraban a pioneras de la aviación, en una trágica lista que incluiría posteriormente a aviadoras como Julia Clark, Harriet Quimby y <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1892/01/26/nacimiento-bessie-coleman.html" style="color: #315fea; text-decoration: none;">Bessie Coleman</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
 
