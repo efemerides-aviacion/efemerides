@@ -71,7 +71,7 @@ Los *flying circuses* recorrían pueblos de EE.UU. ofreciendo un espectáculo qu
 
 ### Legado
 
-Gladys Ingle es recordada como una de las grandes *wing walkers* de la época dorada de la aviación acrobática. Su nombre aparece junto a otros pioneros como Bessie Coleman, Amelia Earhart y los pilotos de los *flying circuses*. Aunque hoy menos conocida que algunos de sus contemporáneos, su imagen cambiando una rueda en pleno vuelo sigue siendo un símbolo del valor y la destreza en la historia de la aviación.
+Gladys Ingle es recordada como una de las grandes *wing walkers* de la época dorada de la aviación acrobática. Su nombre aparece junto a otros pioneros como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1892/01/26/nacimiento-bessie-coleman.html" style="color: #315fea; text-decoration: none;">Bessie Coleman</a>, Amelia Earhart y los pilotos de los *flying circuses*. Aunque hoy menos conocida que algunos de sus contemporáneos, su imagen cambiando una rueda en pleno vuelo sigue siendo un símbolo del valor y la destreza en la historia de la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
