@@ -16,13 +16,13 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1914-03-14-nacimiento-leopoldo-morquillas-rubio.webp" alt="Leopoldo Morquillas Rubio">
   <figcaption class="post-caption">Leopoldo Morquillas Rubio (Tarragona, 14 de marzo de 1914 – Tula, 1 de diciembre de 1989), piloto republicano y posteriormente teniente coronel del Ejército Rojo soviético. Retrato ca. década de 1930. Fuente: <a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=307261">Biblioteca Virtual de Defensa (España)</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Leopoldo Morquillas Rubio nació el 14 de marzo de 1914 en Tarragona. Fue uno de los principales ases de la aviación republicana durante la Guerra Civil Española, con 21 aparatos enemigos derribados. Tras el exilio en la Unión Soviética, combatió en la Segunda Guerra Mundial integrado en la Fuerza Aérea Soviética (VVS), alcanzando el grado de teniente coronel. Falleció en Tula el 1 de diciembre de 1989.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 14 de marzo de 1914
@@ -36,7 +36,7 @@ redirect_from:
 - **Años de servicio:** 1933 – 1948
 - **Victorias acreditadas:** 21 aparatos enemigos derribados
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -72,7 +72,7 @@ La Guerra Civil Española fue un conflicto de enorme intensidad ideológica. Mor
 - **Posguerra:** Reside en la ciudad de Tula, donde trabaja como director de una fábrica de hormigón armado.
 - **1 de diciembre de 1989:** Fallece en Tula a los 75 años.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Victorias acreditadas y condición de «as»
 
@@ -90,7 +90,7 @@ Morquillas combatió en los frentes más importantes de la guerra: Norte, Centro
 
 Es importante señalar que, aunque las fuentes coinciden en las 21 victorias, la falta de documentación primaria exhaustiva impide conocer con detalle la lista de derribos individuales. Algunos historiadores consideran que esta cifra podría incluir tanto victorias en solitario como compartidas, una práctica común en la aviación republicana. No obstante, su condición de «as» (piloto con cinco o más derribos) es indiscutible, y su nombre figura junto a los de otros grandes pilotos republicanos como José María Bravo, Miguel Zambudio, Juan Comas o Andrés García La Calle.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Aeronaves pilotadas
 
@@ -103,7 +103,7 @@ Caza monoplaza de fabricación española (bajo licencia francesa), equipado con 
 ### Polikarpov I-15 «Chato»
 Caza biplano de origen soviético, con motor radial Shvetsov M-25 de 750 hp, cuatro ametralladoras PV-1 de 7,62 mm y una velocidad máxima de 362 km/h. Fue el avión emblemático de la aviación republicana y el principal instrumento de las victorias de Morquillas. Su excelente maniobrabilidad en combates cerrados y a baja altitud lo hacía muy efectivo, aunque su velocidad era inferior a la de los cazas alemanes e italianos. La escuadrilla de Morquillas fue la primera unidad española en operar este modelo (marzo de 1937).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 <div class="references">
@@ -118,7 +118,7 @@ Caza biplano de origen soviético, con motor radial Shvetsov M-25 de 750 hp, cua
     <li><a href="https://turismoweb.carm.es/archivoGeneral/arg.detalle_documento?idDetalle=5706258">Archivo General de la Región de Murcia – Artículo "Personales recuerdos y opiniones" (1983)</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Nota aclaratoria
 
@@ -126,7 +126,7 @@ Las cifras de victorias aéreas durante la Guerra Civil Española deben ser inte
 
 Además, aunque Morquillas combatió en la Segunda Guerra Mundial con la Fuerza Aérea Soviética, no hay constancia de que se le atribuyan victorias adicionales en ese conflicto. Su papel en la VVS fue principalmente como instructor y piloto de combate, pero los archivos soviéticos no registran derribos confirmados durante la «Gran Guerra Patria».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-29 14:00:00 UTC  
