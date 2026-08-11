@@ -13,13 +13,13 @@ image: 1872-03-13-nacimiento-ferdinand-marie-leon-delagrange.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1872-03-13-nacimiento-ferdinand-marie-leon-delagrange.webp" alt="Léon Delagrange">
   <figcaption class="post-caption">Retrato de Ferdinand Marie Léon Delagrange hacia 1905-1907, en su etapa como escultor parisino: bigote, gorra astracán y traje tweed con pajarita, estilo "dandi volador" previo a su dedicación a la aviación. Fuente probable: archivo familiar o colección Musée de l'Air et de l'Espace / Le Bourget.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Ferdinand Marie Léon Delagrange nació el 13 de marzo de 1872 en Orléans, hijo de industriales textiles. Formado como escultor en la École des Beaux-Arts de París, obtuvo reconocimiento en los Salons con obras como <em>Livre d'Heures</em> (1903) y <em>Le Templier</em> (1905). En 1907 abandonó la escultura para dedicarse a la aviación, convirtiéndose en uno de los pilotos más destacados del mundo entre 1908 y 1909. Ostentó el brevet Nº 3, fue condecorado con la Légion d'Honneur y recibió la medalla de oro de la Académie des Sports. Falleció el 4 de enero de 1910 al estrellarse con un Blériot XI en Croix d'Hins, a los 37 años.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos biográficos y eventos
 - **Fecha de nacimiento:** 13 de marzo de 1872
@@ -38,7 +38,7 @@ image: 1872-03-13-nacimiento-ferdinand-marie-leon-delagrange.webp
 - **Causa:** Accidente en vuelo de exhibición con un Blériot XI
 - **Sepultura:** Orléans, Francia
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 Léon Delagrange vivió en una época de profundas transformaciones. La Francia de la Belle Époque combinaba el florecimiento de las artes con una explosión de innovaciones tecnológicas que cambiarían para siempre la movilidad humana: el automóvil, el dirigible y, finalmente, el avión.
@@ -89,7 +89,7 @@ Léon Delagrange ocupa un lugar destacado en la historia de la aviación por var
 - **Impulsor de aviadoras:** Su relación con Thérèse Peltier y posiblemente con Raymonde de Laroche contribuyó a la incorporación de la mujer a la aviación desde sus inicios.
 - **Memorial:** En Croix d'Hins, lugar del accidente, existe un monumento en su memoria. Una calle de Orléans lleva su nombre.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Nota Aclaratoria
 
@@ -117,7 +117,7 @@ Léon Delagrange ocupa un lugar destacado en la historia de la aviación por var
     <li><a href="https://www.cpa-bastille91.com/lhistoire-de-laviation-de-ader-a-1910-le-bleriot-de-delagrange/">CPA Bastille – Vida industrial, ateliers</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-12 14:20:00 UTC  
