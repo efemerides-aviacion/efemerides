@@ -16,14 +16,15 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1921-02-28-nacimiento-pierre-clostermann.webp" alt="Pierre Clostermann, as francés RAF, 1945">
   <figcaption class="post-caption">Pierre Clostermann (1945), as francés RAF con 33 victorias y condecoraciones (Légion d'honneur, Croix de Guerre). Fuente: Bundesarchiv / IWM.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Pierre Clostermann nació el 28 de febrero de 1921 en Curitiba, Brasil, y se convirtió en el as de caza francés más célebre de la Segunda Guerra Mundial. Volando Spitfire y sobre todo Hawker Tempest en varios escuadrones de la RAF, alcanzó 33 victorias aéreas confirmadas y 5 probables según registros franceses, por lo que fue apodado “Premier chasseur de France”. Condecorado como Compagnon de la Libération, Grand’croix de la Légion d’honneur y DSO/DFC británicos, sus memorias <em>Le Grand Cirque</em> se transformaron en un clásico de la literatura aérea bélica.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 28 de febrero de 1921  
 - **Lugar:** Curitiba, Brasil (hijo de diplomático francés)  
@@ -36,7 +37,7 @@ redirect_from:
 - **Actividad posterior:** Diputado en la Asamblea Nacional francesa, ingeniero aeronáutico, escritor  
 - **Obra destacada:** <em>Le Grand Cirque</em> (The Big Show), memorias de combate aéreo  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Contexto histórico
 Pierre Clostermann encarna la contribución francesa a la aviación aliada durante la Segunda Guerra Mundial. Su trayectoria refleja tanto el compromiso de los franceses libres como la cooperación internacional en la RAF.
 
@@ -63,7 +64,7 @@ Su palmarés lo convirtió en el as francés más destacado de la guerra, y sus 
 ### Legado
 Recordado como “Premier chasseur de France”, su nombre está asociado a la tradición de la aviación de caza y a la literatura bélica de referencia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Referencias verificadas
 <div class="references">
   <ul>
@@ -90,7 +91,7 @@ Recordado como “Premier chasseur de France”, su nombre está asociado a la t
 </div>
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-02-26 15:35 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES/FR, Escuadrón Fénix, WWII Aces, Légion d'Honneur, FalkeEins  
