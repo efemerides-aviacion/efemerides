@@ -16,14 +16,14 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1890-02-15-nacimiento-cosme-rennella-barbatto.webp" alt="Cosme Rennella Barbatto en uniforme de capitán aviador ecuatoriano">
   <figcaption class="post-caption">Cosme Rennella Barbatto en uniforme de capitán aviador ecuatoriano (circa 1920s–1930), con alas de piloto visibles. Pionero ESMA y FAV Venezuela.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 15 de febrero de 1890 nació Cosme Rennella Barbatto en Secondigliano (Nápoles). Emigró a Ecuador en 1906, donde se convirtió en pionero de la aviación militar, fundador de la ESMA en Guayaquil y protagonista de los primeros vuelos históricos en Ecuador y Venezuela.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Datos biográficos
 - **Fecha de nacimiento:** 15 de febrero de 1890  
 - **Lugar de nacimiento:** Secondigliano, Nápoles, Italia  
@@ -31,7 +31,7 @@ redirect_from:
 - **Nacionalidad:** Italiana, naturalizado ecuatoriano  
 - **Profesión:** Aviador militar, instructor, pionero de la aviación en Ecuador y Venezuela  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Contexto Histórico
 Cosme Rennella Barbatto es considerado uno de los grandes pioneros de la aviación en Sudamérica. Tras emigrar a Ecuador en 1906, obtuvo licencias de piloto en Francia y Estados Unidos en 1918.  
 
@@ -58,7 +58,7 @@ Rennella fue clave en la creación de la aviación militar ecuatoriana y en los 
 ### Legado
 Recordado como pionero de la aviación en dos países, su nombre está asociado a la fundación de la aviación militar ecuatoriana y a los primeros aviones de la Fuerza Aérea Venezolana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -75,7 +75,7 @@ Recordado como pionero de la aviación en dos países, su nombre está asociado 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-13 15:20 UTC  
 - **Fuentes primarias consultadas:** Wikipedia ES/EN, FAE Ecuador, AviacionCivil.com.ve, El Universo, Rodolfo Pérez Pimentel  
