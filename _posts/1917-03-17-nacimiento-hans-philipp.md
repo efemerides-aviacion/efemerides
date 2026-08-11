@@ -16,13 +16,13 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1917-03-17-nacimiento-hans-philipp.webp" alt="Hans Philipp">
   <figcaption class="post-caption">Hans Philipp con la Cruz de Caballero de la Cruz de Hierro, retrato oficial. Fecha: ~1942-1943. Fuente: Wikipedia.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 17 de marzo de 1917 nació en Meissen, Sajonia, Hans Philipp, quien se convertiría en uno de los más destacados ases de caza de la Luftwaffe durante la Segunda Guerra Mundial. Acreditado con 206 victorias aéreas en más de 500 misiones, obtuvo la mayoría en el Frente Oriental y recibió altas condecoraciones como la Cruz de Caballero con Hojas de Roble y Espadas. El 17 de marzo de 1943, en su 26 cumpleaños, alcanzó sus victorias 200 a 203, convirtiéndose en el segundo piloto alemán en superar las 200 y, temporalmente, en el máximo as de la Luftwaffe. Su trayectoria culminó con su muerte en combate el 8 de octubre de 1943, dejando una figura controvertida pero central en la historia de la aviación militar alemana.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos biográficos y eventos
 - **Fecha de nacimiento:** 17 de marzo de 1917
@@ -31,7 +31,7 @@ redirect_from:
 - **Servicio militar/profesional:** Luftwaffe (1936-1943); sirvió en Jagdgeschwader 76, Jagdgeschwader 54 y Jagdgeschwader 1
 - **Fecha de fallecimiento:** 8 de octubre de 1943 (26 años), en combate aéreo cerca de Bremen, Alemania
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -93,7 +93,7 @@ Para el caso específico de Hans Philipp, los historiadores Mathews y Foreman, e
 
 En resumen, el organismo oficial era el **OKL**, y el proceso se basaba en el testimonio de testigos y, en menor medida, en la evidencia fotográfica. La apertura de los archivos ha permitido a los historiadores modernos refinar y, en algunos casos, corregir las cifras tradicionales.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 <div class="references">
@@ -107,7 +107,7 @@ En resumen, el organismo oficial era el **OKL**, y el proceso se basaba en el te
     <li><a href="https://www.alexautographs.com/auction-lot/knights-cross-award-to-luftwaffe-ace-hans-philipp_DF345EDA2E">Alexander Historical Auctions – Knights Cross award to Hans Philipp</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-16 11:15:00 UTC  
