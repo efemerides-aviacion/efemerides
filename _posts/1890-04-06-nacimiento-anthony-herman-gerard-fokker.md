@@ -17,14 +17,14 @@ redirect_from:
   <figcaption class="post-caption">Anthony Herman Gerard Fokker, pionero de la aviación neerlandesa, circa década de 1920. Fuente: MCN Biografías; Wikipedia; Aero-Naves; New Netherland Institute.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 6 de abril de 1890 nació Anthony Herman Gerard Fokker en Blitar, Indias Orientales Neerlandesas (actual Indonesia). Pionero holandés de la aviación, se destacó por diseñar aviones emblemáticos como el Fokker E.III (primer caza con sincronizador), el Dr.I (triplano del Barón Rojo) y el D.VII (considerado el mejor caza alemán de la Primera Guerra Mundial). Inventó el mecanismo de interrupción que permitía disparar una ametralladora a través de la hélice sin dañarla, revolucionando la caza aérea. Fundó su primera fábrica en Alemania en 1912 y, tras la guerra, expandió su negocio a los Países Bajos y Estados Unidos, influyendo decisivamente en la aviación comercial. Falleció en Nueva York el 23 de diciembre de 1939.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 6 de abril de 1890
@@ -37,7 +37,7 @@ redirect_from:
 - **Producción en guerra:** Más de 200 aviones mensuales para el Imperio Alemán durante la Primera Guerra Mundial
 - **Récords y logros:** En 1911 obtuvo su licencia de piloto; en 1912 construyó el primer avión Fokker; dominó la aviación comercial en los años 1920-1930
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -68,7 +68,7 @@ La figura del "piloto as" se convirtió en un héroe romántico durante la Gran 
 - **1920-1935:** Sus aviones dominan récords de distancia, exploración polar (vuelos al Ártico) y rutas comerciales transcontinentales.
 - **1939, 23 de diciembre:** Fallece en Nueva York tras una infección meningocócica.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -77,13 +77,13 @@ La figura del "piloto as" se convirtió en un héroe romántico durante la Gran 
 - **Influencia en la aviación estadounidense:** Fokker trasladó tecnología y conocimiento a EE.UU., compitiendo con Boeing y Douglas. Sus aviones realizaron el primer vuelo sin escalas a través de EE.UU. (1923) y el primer vuelo sobre el Polo Norte (1926).
 - **Controversia histórica:** Algunos historiadores cuestionan si Fokker realmente inventó el sincronizador o si lo copió de los diseños franceses de Raymond Saulnier (que no funcionaban bien). Lo indiscutible es que Fokker lo perfeccionó y lo llevó a la producción masiva.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
 Anthony Fokker es recordado como uno de los más grandes innovadores de la aviación del siglo XX. Su nombre sigue vivo en la marca Fokker (aunque la empresa original cesó operaciones en 1996). Sus aviones militares y civiles marcaron hitos técnicos, y su mecanismo de sincronización fue un paso esencial hacia los cazas modernos. A pesar de haber trabajado para Alemania en dos guerras mundiales, su legado trasciende fronteras: el "Holandés Volador" inspiró a generaciones de ingenieros y pilotos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 <div class="references">
@@ -103,7 +103,7 @@ Anthony Fokker es recordado como uno de los más grandes innovadores de la aviac
   <p>Asimismo, el lugar exacto de nacimiento (Blitar) pertenecía entonces a las Indias Orientales Neerlandesas, hoy Indonesia. No existe controversia sobre la fecha de nacimiento (6 de abril de 1890).</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-02 14:30:00 UTC
