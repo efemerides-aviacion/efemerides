@@ -15,9 +15,13 @@ image: 1916-05-20-nacimiento-aleksei-petrovich-maresiev.webp
   <figcaption class="post-caption">Retrato del piloto soviético Alekséi Petróvich Marésiev, condecorado como Héroe de la Unión Soviética tras sus hazañas en la Segunda Guerra Mundial, tomado aproximadamente en la década de 1940. Fuente: Wikimedia Commons / EcuRed / Wikipedia en español.</figcaption>
 </figure>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+
 <div class="highlight-box">
   <p>El 20 de mayo de 1916 nació en Kámyshin, Imperio ruso, Alekséi Petróvich Marésiev, un piloto de caza soviético cuya historia trascendió lo militar para convertirse en leyenda. Derribado en 1942, sobrevivió dieciocho días arrastrándose con graves heridas hasta territorio amigo, pero la gangrena le costó la amputación de ambas piernas. Contra todo pronóstico, aprendió a caminar de nuevo con prótesis y regresó al combate, derribando siete aviones enemigos. Su vida inspiró la novela <em>Historia de un hombre verdadero</em> y se convirtió en un emblema de la resistencia humana.</p>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 - **Nombre completo:** Alekséi Petróvich Marésiev (Алексей Петрович Маресьев)
@@ -32,6 +36,8 @@ image: 1916-05-20-nacimiento-aleksei-petrovich-maresiev.webp
 - **Victorias confirmadas:** 11 (4 antes de ser derribado, 7 después de la amputación) 
 - **Máxima condecoración:** Héroe de la Unión Soviética (24 de agosto de 1943)
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+
 ## Contexto histórico
 
 Alekséi Marésiev creció en una Rusia que atravesaba profundas transformaciones: la Revolución de Octubre de 1917, la guerra civil y la creación de la Unión Soviética. Su juventud coincidió con la industrialización acelerada impulsada por Stalin y con el auge de la aviación como símbolo del poderío soviético. Como muchos jóvenes de su generación, Marésiev soñaba con volar, pero su salud frágil (sufría de malaria y dolores reumáticos) inicialmente lo excluyó de la escuela de vuelo. No fue hasta 1937 que logró alistarse en el ejército, trabajando primero como mecánico y luego como instructor antes de graduarse finalmente como piloto en 1940.
@@ -42,7 +48,8 @@ La década de 1930 fue una era de rápida modernización de la aviación militar
 ### Entorno social y cultural
 La Gran Guerra Patria (1941-1945) fue una lucha existencial para la URSS. Los pilotos soviéticos gozaban de un estatus heroico similar al de los cosmonautas en la década siguiente. En este contexto, la historia de Marésiev —el hombre que se negó a ser un inválido y volvió a combatir— resonó profundamente en una sociedad que necesitaba ejemplos de sacrificio y tenacidad. La escritura de Boris Polevoi, que transformó su vida en literatura, lo inmortalizó como arquetipo del «hombre soviético».
 
-## Desarrollo cronológico de los hechos
+
+### Desarrollo cronológico de los hechos
 
 - **20 de mayo de 1916:** Nace Alekséi Marésiev en Kámyshin, a orillas del Volga. Su padre muere cuando él es aún un niño, y su madre lo cría junto a sus dos hermanos.
 
@@ -78,13 +85,13 @@ La Gran Guerra Patria (1941-1945) fue una lucha existencial para la URSS. Los pi
 
 - **18 de mayo de 2001:** Sufre un infarto y fallece en Moscú a los 84 años. La celebración anticipada por su 85.º cumpleaños, programada para esa misma tarde, se convirtió en un homenaje póstumo.
 
-## Consecuencias e impacto
+### Consecuencias e impacto
 
 El regreso de Marésiev al combate tuvo un profundo impacto moral en las filas soviéticas. Demostró que un piloto amputado podía ser igual de efectivo que uno sin discapacidad. Su ejemplo allanó el camino para que otros pilotos heridos solicitaran el regreso al servicio activo. Además, su hazaña fue utilizada por las autoridades soviéticas como herramienta propagandística para elevar la moral de las tropas y de la retaguardia.
 
 En términos tácticos, Marésiev acumuló siete victorias después de la amputación —tres de ellas en la decisiva batalla de Kursk—, lo que lo convirtió en uno de los pocos casos documentados de piloto de caza doble amputado que regresa a vuelo de combate.
 
-## Legado
+### Legado
 
 La vida de Marésiev fue inmortalizada por el escritor soviético Borís Polevoi en su novela *Historia de un hombre verdadero* (*Повесть о настоящем человеке*), publicada en 1946. Polevoi conoció a Marésiev en el hospital y transformó su historia en un clásico de la literatura soviética, obligatorio en el currículo escolar durante décadas. En el libro, el apellido del protagonista fue cambiado ligeramente a «Meresiev» por razones narrativas.
 
@@ -97,6 +104,8 @@ En 2005, se descubrió el lugar exacto donde se estrelló el I-16 de Marésiev, 
 
 Marésiev fue también un activo defensor de los derechos de los veteranos y una figura pública respetada. A su funeral en 2001 asistieron altos mandos militares y políticos, y fue enterrado en el cementerio de Novodévichi de Moscú, junto a las grandes figuras de la historia rusa.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+
 ## Referencias verificadas
 
 <div class="references">
@@ -108,6 +117,8 @@ Marésiev fue también un activo defensor de los derechos de los veteranos y una
     <li><a href="https://www.upi.com/Archives/2001/05/18/Famed-Russian-WWII-pilot-dies/6124990158400/">UPI Archives – Famed Russian WWII pilot dies (2001)</a></li>
   </ul>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-05-18 12:15:00 UTC
