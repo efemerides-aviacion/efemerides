@@ -16,7 +16,7 @@ redirect_from:
   <figcaption class="post-caption">Howard Hughes, retrato de estudio (ca. 1936), época de sus récords de velocidad aérea y producción cinematográfica. Encyclopædia Britannica.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -25,7 +25,7 @@ redirect_from:
     </p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos biográficos y eventos
 - **Fecha de nacimiento:** 24 de diciembre de 1905  
@@ -34,7 +34,7 @@ redirect_from:
 - **Servicio profesional:** Fundador de Hughes Aircraft Company; propietario de Trans World Airlines (TWA)  
 - **Fecha de fallecimiento:** 5 de abril de 1976, Houston, Texas  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 Howard Hughes nació en el seno de una familia acomodada; su padre inventó la broca de perforación rotatoria, base de la fortuna Hughes Tool Company. En una época en que la aviación transitaba de la experimentación a la viabilidad comercial y militar, Hughes utilizó su capital para redefinir la ingeniería aeronáutica.
@@ -63,7 +63,7 @@ Hughes fue también magnate del cine y figura mediática, lo que amplificó su i
 ### Legado
 Howard Hughes es recordado como un perfeccionista técnico y visionario. Su legado abarca récords de aviación, avances tecnológicos y un impacto cultural que trasciende la aeronáutica.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 <div class="references">
@@ -74,7 +74,7 @@ Howard Hughes es recordado como un perfeccionista técnico y visionario. Su lega
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-23 13:25:00 UTC  
