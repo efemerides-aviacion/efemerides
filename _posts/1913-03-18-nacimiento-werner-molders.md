@@ -16,13 +16,13 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1913-03-18-nacimiento-werner-molders.webp" alt="Werner Mölders">
   <figcaption class="post-caption">Werner Mölders, Oberstleutnant de la Luftwaffe, fotografiado circa 1940-1941. Imagen extraída de Wikipedia.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 18 de marzo de 1913 nació Werner Mölders en Gelsenkirchen, piloto de la Luftwaffe que se unió voluntario a la Legión Cóndor en 1938 durante la Guerra Civil Española. Derribó 14 aviones enemigos allí, acreditados por la fuerza alemana, desarrollando la innovadora formación en cuña de cuatro cazas (finger-four). Durante la Segunda Guerra Mundial acumuló 101 victorias (53 en Francia/Inglaterra 1940; 33+ en Frente Oriental 1941), siendo el primer piloto en la historia en alcanzar el centenar de derribos. Falleció en accidente aéreo el 22 de noviembre de 1941 cuando viajaba como pasajero al funeral de Ernst Udet.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos biográficos y eventos
 - **Fecha de nacimiento:** 18 de marzo de 1913
@@ -31,7 +31,7 @@ redirect_from:
 - **Servicio militar/profesional:** Luftwaffe (1934-1941); Legión Cóndor (1938); comandante del Jagdgeschwader 51; Inspector General de Cazas
 - **Fecha de fallecimiento:** 22 de noviembre de 1941 (28 años), Breslau, Alemania (actual Wrocław, Polonia)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -106,7 +106,7 @@ Las investigaciones históricas modernas, basadas en el análisis de los microfi
 
 Por lo tanto, el consenso académico actual mantiene las cifras de **14 victorias en la Guerra Civil Española y 101 en la Segunda Guerra Mundial**, totalizando 115 derribos confirmados a lo largo de su carrera. Mölders también reclamó victorias no oficiales durante su período como Inspector de Cazas, pero estas no fueron registradas formalmente.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 <div class="references">
@@ -121,7 +121,7 @@ Por lo tanto, el consenso académico actual mantiene las cifras de **14 victoria
     <li><a href="https://elpais.com/espana/catalunya/2020-10-08/18-anos-aviador-republicano-derribado-y-muerto-en-la-batalla-del-ebro.html">El País – Aviador abatido por Werner Mölders</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-16 15:30:00 UTC  
