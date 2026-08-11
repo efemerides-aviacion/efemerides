@@ -15,14 +15,14 @@ image: 1922-04-19-nacimiento-erich-alfred-hartmann.webp
   <figcaption class="post-caption">Erich Hartmann en uniforme de la Luftwaffe con la Cruz de Caballero, circa 1943-1944. Fuente: The Aviation History Online Museum / Larry Dwyer.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Erich Alfred Hartmann nació el 19 de abril de 1922 en Weissach, Württemberg, Alemania, y se convirtió en el as de caza más exitoso de la historia del combate aéreo. Combatió en la Luftwaffe durante la Segunda Guerra Mundial, acumulando 352 derribos (345 aeronaves soviéticas y 7 estadounidenses). Su figura sigue siendo una de las más citadas en la historia de la aviación militar, no solo por su récord de victorias, sino por su código de honor: nunca perdió a un compañero de escuadrilla en combate.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 
@@ -40,7 +40,7 @@ image: 1922-04-19-nacimiento-erich-alfred-hartmann.webp
 - **Condecoraciones:** Cruz de Caballero de la Cruz de Hierro con Hojas de Roble, Espadas y Diamantes
 - **Rango final:** Mayor (equivalente a Comandante)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -58,7 +58,7 @@ La madre de Erich, Elisabeth Hartmann, fue una de las primeras mujeres alemanas 
 
 La Alemania nazi promovía la aviación como una actividad de élite y como preparación para una futura fuerza aérea. Hartmann se unió a la Luftwaffe en 1940, a los 18 años, completando su entrenamiento de piloto de combate en 1942. Fue destinado al Frente Oriental, donde la guerra aérea alcanzó niveles de intensidad sin precedentes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Desarrollo Cronológico de su Vida y Carrera
 
@@ -86,7 +86,7 @@ La Alemania nazi promovía la aviación como una actividad de élite y como prep
 - **1970:** Se retira del servicio activo con el rango de Oberst (Coronel).
 - **20 de septiembre de 1993:** Fallece en Weil im Schönbuch, Alemania.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## El As de Ases: Táctica y Filosofía de Combate
 
@@ -108,7 +108,7 @@ A pesar de su increíble número de victorias, Hartmann siempre afirmó que su m
 
 A lo largo de su carrera, Hartmann se vio obligado a realizar aterrizajes forzosos en 16 ocasiones. Ninguno de ellos fue resultado directo del fuego enemigo. La mayoría se debió a esquirlas de los aviones que acababa de derribar (que dañaban su propio motor o fuselaje) o a fallos mecánicos. Hartmann nunca fue herido en combate.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -120,7 +120,7 @@ A lo largo de su carrera, Hartmann se vio obligado a realizar aterrizajes forzos
 
 - **Exoneración póstuma por Rusia:** En enero de 1997, cuatro años después de su muerte, el gobierno ruso exoneró formalmente a Hartmann de los cargos de crímenes de guerra por los que había sido condenado en 1945. Rusia reconoció que la condena no había sido legal.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
@@ -132,14 +132,14 @@ La biografía autorizada de Hartmann, "The Blond Knight of Germany" (El Caballer
 
 Hartmann falleció el 20 de septiembre de 1993 en Weil im Schönbuch, Alemania, a la edad de 71 años. Está enterrado junto a su esposa Ursula (fallecida en 1996) en el cementerio de Weil im Schönbuch.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las 352 victorias:</strong> La cifra de 352 derribos es la más aceptada por los historiadores y está respaldada por los Archivos Federales Alemanes (Bundesarchiv). Sin embargo, existen discrepancias menores entre las fuentes: algunas mencionan 345 victorias sobre aviones soviéticos y 7 sobre estadounidenses (total 352), mientras que otras presentan el total sin desglosar. El Guinness World Records también reconoce a Hartmann como el as de la aviación con el mayor número de derribos en la Segunda Guerra Mundial. También es importante señalar que Hartmann nunca fue derribado por fuego enemigo directo; sus 16 aterrizajes forzosos se debieron a esquirlas de los aviones que derribaba o a fallos mecánicos.</p>
 <p><strong>Nota sobre su cautiverio:</strong> Aunque Hartmann se rindió voluntariamente a las fuerzas estadounidenses el 8 de mayo de 1945, los acuerdos aliados de Yalta establecían que los prisioneros de guerra debían ser entregados al país contra el que habían combatido. Dado que Hartmann había pasado toda la guerra derribando aviones soviéticos en el Frente Oriental, fue entregado a la Unión Soviética el 24 de mayo de 1945, donde permaneció encarcelado durante 10 años.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 
@@ -156,7 +156,7 @@ Hartmann falleció el 20 de septiembre de 1993 en Weil im Schönbuch, Alemania, 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 
