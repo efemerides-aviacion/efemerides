@@ -16,14 +16,14 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1902-02-04-nacimiento-charles-lindbergh.webp" alt="Charles Lindbergh joven">
   <figcaption class="post-caption">Charles Lindbergh en retrato de aviador joven (ca. 1925), antes de su histórico vuelo transatlántico en solitario del 20-21 de mayo de 1927.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Charles Augustus Lindbergh nació el 4 de febrero de 1902 en Detroit, Michigan, hijo único de Charles August Lindbergh (congresista sueco-estadounidense) y Evangeline Lodge Land, creciendo principalmente en una granja cerca de Little Falls, Minnesota.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Datos Verificados
 - **Fecha de nacimiento:** 4 de febrero de 1902  
 - **Lugar:** Detroit, Michigan, Estados Unidos  
@@ -33,7 +33,7 @@ redirect_from:
 - **Primer vuelo solo:** 1923 en un Curtiss Jenny  
 - **Carrera inicial:** barnstormer, paracaidista, mecánico, Army Air Service (1924)  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Contexto Histórico
 El nacimiento de Lindbergh coincidió con el auge de la aviación temprana. Su vida reflejó tanto el espíritu pionero como las complejidades de la época.
 
@@ -55,7 +55,7 @@ El nacimiento de Lindbergh coincidió con el auge de la aviación temprana. Su v
 - Figura emblemática de la aviación mundial.  
 - Reconocido en múltiples museos y homenajes, incluyendo el San Diego Air & Space Museum.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -68,7 +68,7 @@ El nacimiento de Lindbergh coincidió con el auge de la aviación temprana. Su v
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-02 11:00:00 UTC  
 - **Fuentes primarias consultadas:** Wikipedia; Britannica; Biography.com; CharlesLindbergh.com; Smithsonian; San Diego Air & Space Museum  
