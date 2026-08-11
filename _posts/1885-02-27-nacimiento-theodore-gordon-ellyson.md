@@ -16,14 +16,14 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1885-02-27-nacimiento-theodore-gordon-ellyson.webp" alt="Theodore G. Ellyson, Naval Aviator No. 1">
   <figcaption class="post-caption">Comandante Theodore G. ‘Spuds’ Ellyson, USN, Naval Aviator No. 1, con las alas de oro originales de la US Navy (1918), tras sus pioneros vuelos en el hidroavión Curtiss A-1 Triad. Fuente: US Navy / archivo histórico.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Theodore Gordon “Spuds” Ellyson, nacido el 27 de febrero de 1885 en Richmond, Virginia, fue el primer oficial de la US Navy formado como piloto bajo la tutela de Glenn Curtiss en 1910–1911. Designado oficialmente Navy Air Pilot No. 1 en 1914, recibió en 1918 el primer par de alas de oro otorgadas a un aviador naval, consolidando el emblema de la aviación de la Marina estadounidense. Pionero en hidroaviones, pruebas embarcadas y vuelos de larga distancia sobre agua, también destacó en la guerra antisubmarina, recibiendo la Navy Cross antes de fallecer en un accidente aéreo en 1928.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 27 de febrero de 1885  
 - **Lugar:** Richmond, Virginia, Estados Unidos  
@@ -36,7 +36,7 @@ redirect_from:
 - **Condecoración:** Navy Cross  
 - **Fallecimiento:** 27 de febrero de 1928, accidente aéreo en la bahía de Chesapeake  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Contexto histórico
 Ellyson fue pionero de la aviación naval estadounidense, en un momento en que la aviación apenas comenzaba a integrarse en las fuerzas armadas. Su formación con Glenn Curtiss y sus vuelos en hidroaviones marcaron el inicio de la aviación embarcada en la US Navy.
 
@@ -64,7 +64,7 @@ Ellyson estableció las bases de la aviación naval estadounidense, siendo refer
 ### Legado
 Recordado como el primer aviador naval de Estados Unidos, su nombre figura en memoriales y archivos históricos como pionero de la aviación militar.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Referencias verificadas
 <div class="references">
   <ul>
@@ -79,7 +79,7 @@ Recordado como el primer aviador naval de Estados Unidos, su nombre figura en me
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-02-24 18:20 CST  
 - **Fuentes primarias consultadas:** Wikipedia, US Navy, Library of Congress, HistoryHit, USNI  
