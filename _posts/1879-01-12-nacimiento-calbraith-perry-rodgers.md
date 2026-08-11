@@ -16,14 +16,14 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1879-01-12-nacimiento-calbraith-perry-rodgers.webp" alt="Calbraith Perry Rodgers en el Vin Fiz Flyer">
   <figcaption class="post-caption">Calbraith Perry Rodgers en la cabina del Vin Fiz Flyer, con gafas de aviador y expresión resuelta. Fotografía tomada durante su etapa como pionero de la aviación estadounidense, 1911.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>Calbraith Perry Rodgers (1879–1912) fue un pionero de la aviación estadounidense. Proveniente de una familia vinculada a la marina, se interesó por los deportes y la aventura desde joven. Su pasión por la aviación lo llevó a convertirse en uno de los primeros pilotos formados en la escuela de los hermanos Wright. Es recordado principalmente por su hazaña del 17 de septiembre de 1911: el primer vuelo transcontinental en Estados Unidos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Datos biográficos verificados
 - **Nombre completo:** Calbraith Perry Rodgers  
 - **Fecha de nacimiento:** 12 de enero de 1879  
@@ -36,22 +36,22 @@ redirect_from:
 - **Hijo:** Calbraith Perry Rodgers Jr.  
 - **Fecha de fallecimiento:** 10 de abril de 1912, en Long Beach, California, en un accidente aéreo  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Contexto personal
 Rodgers creció en un entorno marcado por la tradición naval y el espíritu aventurero. Su inclinación por los deportes extremos y la búsqueda de nuevos retos lo acercaron a la aviación en una época en que volar era considerado un acto de audacia.  
 
 Su matrimonio con Mabel y la llegada de su hijo le brindaron apoyo y motivación en sus proyectos. La aviación fue para él una extensión natural de su pasión por la aventura y la exploración.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Hazaña destacada
 - **17 de septiembre de 1911:** Primer vuelo transcontinental en Estados Unidos, realizado con el Wright Model EX “Vin Fiz Flyer”.  
 - Este logro consolidó su nombre en la historia de la aviación, aunque su vida se truncó poco después en un accidente aéreo en 1912.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Legado
 Rodgers es recordado como uno de los primeros héroes de la aviación estadounidense. Su vida breve pero intensa refleja la transición de la aventura deportiva hacia la aviación como disciplina pionera. Su nombre permanece asociado al primer vuelo transcontinental y a la audacia de los primeros aviadores.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Referencias verificadas
 <div class="references">
   <ul>
@@ -61,7 +61,7 @@ Rodgers es recordado como uno de los primeros héroes de la aviación estadounid
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-01-11 10:45:00 UTC  
 - **Fuentes primarias consultadas:** Smithsonian NASM; Smithsonian Archives; Wright Brothers Aeroplane Company  
