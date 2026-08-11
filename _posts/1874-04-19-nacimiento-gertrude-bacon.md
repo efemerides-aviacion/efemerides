@@ -15,14 +15,14 @@ image: 1874-04-19-nacimiento-gertrude-bacon.webp
   <figcaption class="post-caption">Miss Gertrude Bacon, retrato de perfil, circa 1905. Fuente: Alembic Rare Books, “How Men (and Women) Fly: Gertrude Bacon & Early Aviation”.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Gertrude Bacon nació el 19 de abril de 1874 en Cambridge, Inglaterra, y se convirtió en una figura clave de la aviación temprana británica. Fue escritora, conferencista y promotora del vuelo entre las mujeres. Su trayectoria incluye varios hitos aeronáuticos femeninos de gran relevancia histórica: primera mujer inglesa en hacer una ascensión en globo (1898), primera mujer en volar en un dirigible (1904), primera mujer británica en volar en un avión (1909) y primera mujer pasajera en un hidroavión (1912). Además, aportó en astronomía y botánica, consolidando un perfil científico y divulgador.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 
@@ -35,7 +35,7 @@ image: 1874-04-19-nacimiento-gertrude-bacon.webp
 - **Reconocimientos:** Miembro de la Royal Astronomical Society (FRAS), Medalla de Guerra Británica
 - **Obras principales:** "Balloons, Airships and Flying Machines" (1905), "The Record of an Aeronaut" (1907), "How Men Fly" (1911), "Memories of Land and Sky" (1925)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -53,7 +53,7 @@ La aeronáutica estaba en su infancia. Los globos de hidrógeno eran la tecnolog
 
 La figura del "aeronauta" era una mezcla de científico, aventurero y showman. Las exhibiciones aéreas, como la reunión internacional de Reims en 1909, atraían a multitudes y a la prensa mundial. Gertrude Bacon supo capitalizar ese interés: escribió libros, dio conferencias y se convirtió en una de las principales divulgadoras de la aeronáutica en el Reino Unido, ayudando a normalizar la idea de que las mujeres podían y debían participar en el vuelo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Desarrollo Cronológico de sus Contribuciones Aeronáuticas
 
@@ -77,7 +77,7 @@ La figura del "aeronauta" era una mezcla de científico, aventurero y showman. L
 
 - **26 de agosto de 1919:** Se convierte en la primera mujer en volar en un servicio de línea aérea regular de Londres a Francia, en un bombardero Handley Page convertido.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Gertrude Bacon: perfil multidisciplinario
 
@@ -97,7 +97,7 @@ Junto a su padre, Gertrude también exploró la naturaleza británica, recolecta
 
 Gertrude Bacon nunca obtuvo una licencia de piloto. Prefirió volar como pasajera y usar su pluma y su voz para promover la aviación. Sin embargo, sus logros abrieron el camino a otras mujeres: fue la primera en demostrar que una mujer podía ascender en globo, volar en dirigible, en avión y en hidroavión sin que el mundo se acabara. En una época en que se cuestionaba si las mujeres tenían el "temple" para soportar las tensiones del vuelo, ella respondió con hechos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -109,7 +109,7 @@ Gertrude Bacon nunca obtuvo una licencia de piloto. Prefirió volar como pasajer
 
 - **Reconocimiento póstumo:** En años recientes, su figura ha sido reivindicada por historiadoras de la ciencia y la aviación, que la consideran una de las grandes pioneras olvidadas del siglo XX.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
@@ -119,13 +119,13 @@ Hoy, su nombre está presente en libros de historia de la aviación, y su obra s
 
 Gertrude Bacon demostró que no es necesario estar al mando de los controles para ser pionera. Su legado es el de una mujer que, desde la pluma y la tribuna, supo transmitir la pasión por el vuelo y abrir camino a quienes vinieron después.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre los hitos de Gertrude Bacon:</strong> Las fuentes coinciden en que fue la "primera mujer inglesa" en hacer una ascensión en globo en 1898, aunque hubo otras mujeres antes que ella en otros países (por ejemplo, la francesa Élisabeth Thible en 1784). También es importante señalar que Bacon nunca obtuvo una licencia de piloto; todos sus vuelos fueron como pasajera. Esto no disminuye su mérito, ya que en la primera década del siglo XX, incluso ser pasajera en estas frágiles máquinas requería un valor considerable. Finalmente, las fechas exactas de sus vuelos en hidroavión (15 y 16 de julio de 1912) están bien documentadas por la Lakes Flying Company en Windermere.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 
@@ -141,7 +141,7 @@ Gertrude Bacon demostró que no es necesario estar al mando de los controles par
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 
