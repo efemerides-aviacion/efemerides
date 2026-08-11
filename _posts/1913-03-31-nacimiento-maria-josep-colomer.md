@@ -16,13 +16,13 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1913-03-31-nacimiento-maria-josep-colomer.webp" alt="Maria Josep Colomer i Luque">
   <figcaption class="post-caption">Maria Josep Colomer i Luque (Barcelona, 31 de marzo de 1913 – Surrey, 24 de mayo de 2004), primera piloto catalana y pionera de la aviación española. Retrato ca. 1934 en el aeródromo de Canudas. Fuente: Wikipedia / Dones: Indústria i Aviació.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Maria Josep Colomer i Luque, conocida como Mari Pepa Colomer (Barcelona, 31 de marzo de 1913 – Surrey, 24 de mayo de 2004), fue la primera mujer instructora de vuelo de España y una de las pioneras de la aviación española. Obtuvo su licencia de piloto el 19 de enero de 1931 con solo 17 años, siendo la tercera mujer española en lograrlo y la primera catalana. Durante la Guerra Civil Española voló para el bando republicano como instructora, piloto de abastecimiento y propaganda. Tras el exilio en Inglaterra, nunca volvió a pilotar un avión.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 31 de marzo de 1913
@@ -37,7 +37,7 @@ redirect_from:
   - Oficial de las Fuerzas Aéreas de la República Española durante la Guerra Civil
 - **Aeronaves:** De Havilland Dragon, entre otras
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -68,7 +68,7 @@ En la España de 1931, que una mujer volara era un acontecimiento extraordinario
 - **Marzo de 2003:** La Generalitat de Cataluña le rinde un homenaje por su trayectoria deportiva en la aviación .
 - **24 de mayo de 2004:** Fallece en Surrey a los 91 años por un paro cardíaco. Sus cenizas son trasladadas al cementerio de Reus (Tarragona) .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Reconocimientos y Legado
 
@@ -87,7 +87,7 @@ En **mayo de 2023**, Iberia bautizó con el nombre de **«María Pepa Colomer»*
 ### Proyectos culturales
 En julio de 2018, la asociación **«Herstóricas. Historia, Mujeres y Género»** y el Colectivo **«Autoras de Cómic»** crearon un proyecto educativo con un juego de cartas para visibilizar la aportación histórica de las mujeres, incluyendo una carta dedicada a Colomer .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 <div class="references">
@@ -103,7 +103,7 @@ En julio de 2018, la asociación **«Herstóricas. Historia, Mujeres y Género»
     <li><a href="https://foroporlamemoria.info/noticias/2004/colomer_26052004.htm">Foro por la Memoria – Muere Mari Pepa Colomer, la primera mujer aviadora</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Nota aclaratoria
 
@@ -111,7 +111,7 @@ Aunque con frecuencia se atribuye a Mari Pepa Colomer el título de «primera mu
 
 Asimismo, aunque algunas fuentes la describen como «piloto de combate» o «piloto de caza», no existen registros de que participara en combates aéreos directos. Su contribución durante la Guerra Civil fue en misiones de instrucción, abastecimiento, evacuación de heridos y lanzamiento de propaganda .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-29 12:00:00 UTC  
