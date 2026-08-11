@@ -16,13 +16,13 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1912-03-28-nacimiento-marina-mijailovna-raskova.webp" alt="Marina Mijáilovna Raskova en uniforme militar">
   <figcaption class="post-caption">Fotografía histórica de Marina Mijáilovna Raskova, Heroína de la Unión Soviética y pionera aviadora soviética, aparece en uniforme militar con boina roja de estrella roja, charreteras de navegante y cartuchera cruzada frente a un vagón militar. Fuente: Archivo soviético.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 28 de marzo de 1912 nació en Moscú Marina Mijáilovna Raskova (née Malinina), hija de profesores, inicialmente destinada a la ópera pero atraída por la aviación. En 1934 se convirtió en la primera mujer soviética diplomada como navegante aérea profesional e instructora. Estableció récords de vuelo y fundó los tres regimientos aéreos femeninos durante la Segunda Guerra Mundial, incluyendo las legendarias "Brujas de la Noche". Conocida como la "Amelia Earhart soviética", murió en combate en 1943.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 28 de marzo de 1912 (calendario juliano: 15 de marzo)
@@ -36,7 +36,7 @@ redirect_from:
   - Fundadora de los tres regimientos aéreos femeninos de la VVS en la Gran Guerra Patria
 - **Condecoraciones:** Héroe de la Unión Soviética, Orden de Lenin (dos veces), Orden de la Guerra Patria de 1.er grado
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -76,7 +76,7 @@ La figura de la aviadora era heroica en la URSS. Raskova, junto a Valentina Griz
 
 Las *Brujas de la Noche* (588.º Regimiento de Bombardeo Nocturno) siguen siendo uno de los símbolos más potentes de la contribución soviética a la Segunda Guerra Mundial. Raskova, a pesar de no haber sobrevivido a la guerra, es recordada como la fundadora de la aviación militar femenina soviética. Su nombre figura en aeropuertos, museos y libros de historia. En 2018, el Banco de Rusia emitió una moneda conmemorativa en su honor.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Nota Aclaratoria
 
@@ -95,7 +95,7 @@ Las *Brujas de la Noche* (588.º Regimiento de Bombardeo Nocturno) siguen siendo
     <li><a href="https://es.wikipedia.org/wiki/Archivo:Marina_Raskova_in_1938.jpg">Wikipedia (ES) – Imagen Marina Raskova 1938</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-26 10:00:00 UTC  
