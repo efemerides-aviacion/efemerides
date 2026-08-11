@@ -15,14 +15,14 @@ image: 1892-05-02-nacimiento-manfred-von-ritchtofen.webp
   <figcaption class="post-caption">Retrato militar de Manfred von Richthofen en uniforme de aviación de la Luftstreitkräfte, con gorro prusiano de servicio y medallas, 1917. Fuente: Wikimedia Commons.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 2 de mayo de 1892 nació en Breslavia (actual Wrocław, Polonia) Manfred Albrecht Freiherr von Richthofen, quien se convertiría en el as de ases más célebre de la Primera Guerra Mundial, con 80 aviones enemigos derribados y el apodo de "Barón Rojo". Al frente del "Circo Volante" y con su emblemático Fokker Dr.I rojo, se convirtió en símbolo de la aviación de combate y persiste como referente en la historia de la guerra aérea. Su muerte en combate el 21 de abril de 1918, a los 25 años, lo transformó en una leyenda inmortal.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 
@@ -37,7 +37,7 @@ image: 1892-05-02-nacimiento-manfred-von-ritchtofen.webp
 - **Victorias confirmadas:** 80 derribos
 - **Condecoraciones:** Pour le Mérite ("Blue Max"), Cruz de Hierro (1.ª y 2.ª Clase)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -72,7 +72,7 @@ La figura del "as de la aviación" se consolidó durante la Primera Guerra Mundi
 - **20 de abril de 1918:** Obtiene sus victorias 79 y 80
 - **21 de abril de 1918:** Es derribado y muere sobre Vaux-sur-Somme, Francia
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## La trayectoria militar: de la caballería al cielo
 
@@ -90,7 +90,7 @@ En agosto de 1916, Richthofen conoció a Oswald Boelcke, el principal as alemán
 
 En enero de 1917, Richthofen asumió el mando de Jagdstaffel 11. Inmediatamente ordenó que su Albatros D.III fuera pintado completamente de rojo. Pronto, otros pilotos del escuadrón también pintaron sus aviones con colores brillantes, creando una formación que los británicos apodaron el "Circo Volante". Junto a sus pilotos, Richthofen dominó los cielos, utilizando tácticas disciplinadas en lugar de acrobacias arriesgadas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## El Barón Rojo y su máquina
 
@@ -108,7 +108,7 @@ El Fokker Dr.I triplano fue diseñado en respuesta al Sopwith Triplano británic
 
 Después de cada victoria confirmada, Richthofen encargaba una copa de plata a un joyero en Berlín, grabada con la fecha y el tipo de aeronave derribada. Continuó esta tradición hasta que tuvo 60 copas, momento en el que la escasez de plata en la Alemania bloqueada impidió seguir fabricándolas. Se negó a aceptar copas de metal común y cesó el pedido.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## La muerte del Barón Rojo
 
@@ -128,7 +128,7 @@ Los testimonios de soldados australianos en tierra, como el artillero George Rid
 
 Richthofen fue enterrado por los Aliados con todos los honores militares al día siguiente por el Escuadrón 3 del Cuerpo Aéreo Australiano.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -137,7 +137,7 @@ Richthofen fue enterrado por los Aliados con todos los honores militares al día
 - **Icono cultural global:** La figura del Barón Rojo trascendió la guerra y se convirtió en un ícono cultural que perdura en libros, cine, cómics (como el personaje Snoopy de Charles Schulz, que libraba combates imaginarios contra el Barón Rojo), música y diseño de aviones.
 - **El as más famoso de la historia:** Durante la Segunda Guerra Mundial, más de 100 pilotos superaron la marca de Richthofen (incluyendo a Erich Hartmann con 352 victorias). Sin embargo, ninguno alcanzó la fama del Barón Rojo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
@@ -156,7 +156,7 @@ En 1925, el cuerpo de Richthofen fue exhumado y enterrado nuevamente en Berlín.
 <p><strong>Sobre la herida de cabeza de 1917:</strong> El 6 de julio de 1917, Richthofen sufrió una grave herida en la cabeza durante un combate. El médico alemán Dr. Henning Almers cree que esta herida, que no cicatrizó adecuadamente, técnicamente lo dejó no apto para volar. La conmoción cerebral y la infección del hueso del cráneo probablemente contribuyeron al error de juicio que lo llevó a volar tan bajo sobre las líneas enemigas el día de su muerte.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 
@@ -174,7 +174,7 @@ En 1925, el cuerpo de Richthofen fue exhumado y enterrado nuevamente en Berlín.
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 
