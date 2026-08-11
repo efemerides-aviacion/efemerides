@@ -16,13 +16,13 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1924-04-09-nacimiento-milburn-apt-x2.webp" alt="Milburn G. Apt junto al Bell X-2">
   <figcaption class="post-caption">El capitán Milburn G. Apt posa junto al Bell X-2 "Starbuster" en la Base de la Fuerza Aérea Edwards, California, 1956. Apt se convertiría en el primer piloto en superar Mach 3 durante su primer y último vuelo en el X-2. Fuente: <a href="https://en.wikipedia.org/wiki/Milburn_Apt">Wikipedia / Milburn G. Apt</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 9 de abril de 1924 nació en Buffalo, Kansas, Milburn Grant "Mel" Apt, capitán de la Fuerza Aérea de los Estados Unidos y piloto de pruebas. El 27 de septiembre de 1956, a bordo del Bell X-2 "Starbuster", se convirtió en el primer ser humano en superar Mach 3, alcanzando una velocidad récord de 3.377 km/h (Mach 3,196) a una altitud de 19.977 m. Trágicamente, durante la maniobra de regreso, la aeronave sufrió un acoplamiento inercial y perdió el control. Apt activó la cápsula de escape, pero falleció en el impacto. Su hazaña póstuma le valió la Cruz de Vuelo Distinguido y su nombre quedó grabado en la historia de la aviación como pionero de los vuelos hipersónicos.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos del evento
 
@@ -50,7 +50,7 @@ redirect_from:
   - Cruz de Vuelo Distinguido (Distinguished Flying Cross, póstuma)
 - **Familia:** Esposa Faye Lorrie Baker y dos hijas (Sharman Apt Russell, escritora)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -68,7 +68,7 @@ El Bell X-2 era una aeronave experimental propulsada por cohetes, diseñada espe
 
 El X-2 era conocido como el "Starbuster" (Destructor de estrellas). Los pilotos que volaban estas máquinas pertenecían a una élite, y sus nombres —Iven Kincheloe ("First of the Spacemen"), Frank Everest ("Fastest Man Alive"), Milburn Apt— se convirtieron en leyenda. La película y el libro "The Right Stuff" (La elegida) de Tom Wolfe inmortalizaron a estos pioneros, y el accidente de Apt fue mostrado a los aspirantes a pilotos del X-15 como una lección sobre los riesgos extremos de la profesión.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Desarrollo Cronológico
 
@@ -104,7 +104,7 @@ El X-2 era conocido como el "Starbuster" (Destructor de estrellas). Los pilotos 
 
 - **Posterioridad:** A los aspirantes a pilotos del X-15 se les mostraba la película a bordo del accidente fatal de Apt, filmada por una cámara montada detrás de él en la cabina, como una lección sobre los riesgos de la profesión.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -118,7 +118,7 @@ El X-2 era conocido como el "Starbuster" (Destructor de estrellas). Los pilotos 
 
 - **Legado heroico:** Apt fue el decimotercer piloto de pruebas fallecido en la Base Edwards desde 1950. Su nombre se inscribió en el muro de los caídos y su hazaña es recordada como un hito en la conquista de la velocidad.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
@@ -136,7 +136,7 @@ Milburn G. Apt es recordado como un pionero de los vuelos hipersónicos, cuyo sa
 
 - **Legado en la aviación:** Apt demostró que la velocidad Mach 3 era alcanzable, allanando el camino para programas como el X-15, que alcanzaría Mach 6,7, y para la aviación comercial supersónica (Concorde y Tu-144). Su nombre queda grabado junto al de otros pioneros como Chuck Yeager (primer Mach 1), Scott Crossfield y Iven Kincheloe.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 
@@ -164,7 +164,7 @@ Milburn G. Apt es recordado como un pionero de los vuelos hipersónicos, cuyo sa
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 
