@@ -15,14 +15,14 @@ image: 1923-05-05-nacimiento-nikolay-vasilievich-sutyagin.webp
   <figcaption class="post-caption">Nikolai Vasilyevich Sutyagin, el as de aviones a reacción de la Guerra de Corea, retratado con su uniforme de gala portando la medalla de Héroe de la Unión Soviética y otras condecoraciones, c. 1951–1953. Fuente: Wikipedia.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Nikolai Vasilyevich Sutyagin nació el 5 de mayo de 1923 en el pueblo de Smagino, en el distrito de Buturlino, gobernación de Nizhny Novgorod (actual óblast de Nizhny Novgorod, Rusia), en el seno de una familia campesina. Fue piloto de caza soviético en la Segunda Guerra Mundial y, posteriormente, se convirtió en el as de aviones a reacción más exitoso de la Guerra de Corea, con 22 victorias confirmadas según las fuentes rusas, principalmente sobre cazas estadounidenses F-86 Sabre volando el MiG-15. Ascendió a general de brigada (mayor general de aviación), fue nombrado Héroe de la Unión Soviética y cerró su carrera en la Fuerza Aérea Soviética en 1978.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ image: 1923-05-05-nacimiento-nikolay-vasilievich-sutyagin.webp
 - **Controversia:** Fuentes occidentales cuestionan la cifra, sugiriendo un número inferior
 - **Condecoraciones:** Héroe de la Unión Soviética (Estrella de Oro), Orden de Lenin, tres Órdenes de la Bandera Roja, Orden de la Guerra Patria de 1.er grado, Orden de la Bandera Roja del Trabajo, Orden de la Estrella Roja
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -54,13 +54,13 @@ Tras el estallido de la Segunda Guerra Mundial, Sutyagin fue reclutado por el Ej
 
 Destinado al Lejano Oriente soviético, Sutyagin sirvió en el 5º Regimiento de Aviación de Caza, preparado para una posible invasión japonesa que nunca llegó durante la guerra con Alemania. En agosto de 1945, participó en la breve guerra soviético-japonesa, realizando 13 vuelos de combate, tres de ellos misiones de reconocimiento sobre aeródromos japoneses. Aunque no se enfrentó a cazas enemigos, recibió su primera condecoración, la Orden de la Estrella Roja, por su labor.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Entrenamiento en la era del reactor
 
 La posguerra supuso un cambio radical para la aviación soviética. La introducción de los cazas a reacción (MiG-9, Yak-15, y posteriormente el MiG-15) obligó a una selección estricta de pilotos, exigiendo condiciones físicas excepcionales. Sutyagin superó los rigurosos exámenes médicos y se dedicó al aprendizaje de los nuevos cazas a reacción, preparándose para un conflicto que, aunque desconocido, se consideraba inevitable.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## La Guerra de Corea: el despliegue secreto
 
@@ -84,7 +84,7 @@ Entre junio de 1951 y febrero de 1952, Sutyagin realizó 149 misiones de combate
 
 El 10 de octubre de 1951, Sutyagin recibió el título de Héroe de la Unión Soviética (medalla Estrella de Oro) por sus primeros 7 derribos. Sin embargo, su identidad y sus logros permanecieron ocultos durante décadas, ya que la URSS negaba oficialmente su participación en la guerra. Sutyagin combatió bajo el nombre ficticio “Su Yan Gin” para ocultar su verdadera identidad.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Desempeño y Récord
 
@@ -98,7 +98,7 @@ Según los archivos desclasificados, Sutyagin derribó oficialmente 22 aeronaves
 
 El sistema soviético de confirmación de victorias era estricto: dependía de testigos (otros pilotos) y de un elaborado sistema de equipos de búsqueda en tierra que debía localizar los restos de las aeronaves derribadas sobre territorio norcoreano o chino. Sutyagin reclamó 22 victorias y todas fueron confirmadas por este sistema.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## La controversia de las victorias y la comparativa
 
@@ -124,7 +124,7 @@ Con la desclasificación de los archivos rusos, se ha confirmado que Sutyagin de
 
 Sutyagin es, con diferencia, el as con mejor puntuación de la Guerra de Corea según los registros soviéticos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Posguerra y legado
 
@@ -153,7 +153,7 @@ El 13 de octubre de 2022, se inauguró un busto en honor a Nikolai Sutyagin en e
 <p><strong>Sobre el nombre en clave “Su Yan Gin”:</strong> Para ocultar su identidad y la intervención soviética en Corea, Sutyagin y otros pilotos soviéticos adoptaron nombres coreanos o chinos ficticios. Sutyagin combatió como el “capitán” o “as” Su Yan Gin.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 
@@ -168,7 +168,7 @@ El 13 de octubre de 2022, se inauguró un busto en honor a Nikolai Sutyagin en e
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 
