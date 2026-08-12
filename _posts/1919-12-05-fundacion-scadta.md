@@ -14,14 +14,14 @@ image: 1919-12-05-fundacion-scadta.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1919-12-05-fundacion-scadta.jpg" alt="SCADTA Junkers W 34 en el río Magdalena, circa 1920">
   <figcaption class="post-caption">SCADTA Junkers W 34 operando sobre el río Magdalena, circa 1920. (Fuente: Avianca / archivos históricos).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 5 de diciembre de 1919 se fundó en Barranquilla la Sociedad Colombo Alemana de Transportes Aéreos (SCADTA). Considerada la segunda aerolínea más antigua del mundo en operación continua, SCADTA fue pionera en el uso de hidroaviones Junkers F-13 para conectar la costa con el interior de Colombia, transformando el transporte nacional y sentando las bases de la actual Avianca.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Datos verificados del evento
 - **Fecha de fundación:** 5 de diciembre de 1919  
 - **Lugar:** Barranquilla, Colombia  
@@ -32,7 +32,7 @@ image: 1919-12-05-fundacion-scadta.jpg
 - **Hito mundial:** Segunda aerolínea más antigua en operación continua, después de KLM  
 - **Fusión:** En 1940 se fusionó con SACO para formar Avianca  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Contexto Histórico
 Colombia enfrentaba enormes retos geográficos para el transporte en el siglo XX. El río Magdalena era la principal vía de comunicación, pero los viajes entre la costa y Bogotá podían tardar semanas. La aviación se presentó como solución, y SCADTA fue la primera compañía en consolidar rutas aéreas regulares con capital sólido y tecnología avanzada.
 
@@ -53,7 +53,7 @@ Colombia enfrentaba enormes retos geográficos para el transporte en el siglo XX
 ### Legado
 Avianca celebra el 5 de diciembre de 1919 como su fecha de fundación. En 2019 conmemoró su centenario, reafirmando su papel como aerolínea bandera de Colombia y como una de las más antiguas del mundo en operación continua.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -65,11 +65,14 @@ Avianca celebra el 5 de diciembre de 1919 como su fecha de fundación. En 2019 c
   </ul>
 </div>
 
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Se distingue entre la fundación de SCADTA en 1919 y la creación de Avianca en 1940. La fecha de 1919 es reconocida oficialmente como inicio de la continuidad histórica de la aerolínea.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-04 05:39 CST  
 - **Fuentes primarias consultadas:** Documentos corporativos de Avianca, artículos académicos y prensa especializada  

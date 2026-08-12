@@ -16,14 +16,14 @@ image: 1929-07-03-fundacion-linea-aeropostal-venezolana.webp
   <figcaption class="post-caption">El monoplano de ala alta Latécoère 28 de fabricación francesa, modelo utilizado para inaugurar las operaciones postales de la aerolínea en Venezuela, fotorretratado ca. 1929. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Late_28_left_front_NACA_Aircraft_Circular_No.112.jpg">NACA / Wikimedia Commons</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 3 de julio de 1929, se fundó formalmente la Compañía General Aeropostal Francesa en Venezuela, marcando el nacimiento de la aerolínea bandera que posteriormente se consagraría como la Línea Aeropostal Venezolana (LAV). Establecida originalmente como una filial de la célebre empresa francesa Aéropostale por iniciativa de Marcel Bouilloux-Lafont, la aerolínea obtuvo la concesión del gobierno nacional para explotar el correo y transporte aéreo de pasajeros en el territorio. Con el posterior traspaso de sus acciones al Estado venezolano en 1933, la aerolínea consolidó la conectividad entre el centro del país, los campos petroleros de Maracaibo y las zonas mineras del sur, sentando las bases institucionales de la aviación comercial venezolana moderna.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 - **Lugar de firma del contrato de concesión:** Caracas, Venezuela, bajo la administración del gobierno de Juan Vicente Gómez
@@ -34,7 +34,7 @@ image: 1929-07-03-fundacion-linea-aeropostal-venezolana.webp
 - **Traslado de la sede central (1939):** Reubicación de las operaciones principales desde Maracay hacia el Aeródromo de Maiquetía (cerca de Caracas)
 - **Hito de los vuelos internacionales de la LAV (1948):** Inicio de las operaciones regulares directas y sin escalas hacia Nueva York con modernos aviones Lockheed L-749 Constellation, ruta que en 1953 se extendería de forma transatlántica hacia el continente europeo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -79,7 +79,7 @@ La Línea Aeropostal Venezolana (LAV) permanece en el recuerdo colectivo como la
 - **La Escuela de Capacitación Aeronáutica:** El legado de excelencia técnica de la LAV se conserva activamente en la Escuela de Capacitación de Aeropostal, la única escuela autorizada por el Instituto Nacional de Aviación Civil (INAC) de Venezuela para certificar a tripulaciones de cabina, despachadores y técnicos de mantenimiento bajo estándares de la autoridad civil.
 - **La memoria del Museo Aeronáutico:** El Museo Aeronáutico de Maracay, situado en la Avenida Las Delicias sobre los antiguos terrenos del aeródromo de las Delicias, conserva fotografías, maquetas y motores de la era dorada de los aviones Latécoère, Fairchild y Douglas DC-3, sirviendo como un santuario histórico de la aviación venezolana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 <div class="references">
@@ -91,13 +91,13 @@ La Línea Aeropostal Venezolana (LAV) permanece en el recuerdo colectivo como la
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una doble interpretación sobre la fecha de nacimiento oficial de la Línea Aeropostal Venezolana (LAV). Mientras que los registros del Congreso y el contrato de concesión con la Compañía General Aeropostal Francesa datan del <strong>3 de julio de 1929</strong>, la LAV como empresa de capital estatal venezolano nació formalmente el 31 de diciembre de 1933, tras adquirir el gobierno de Juan Vicente Gómez los activos de la matriz francesa. En la presente publicación se adopta la fecha fundacional de 1929 de acuerdo con los anales conmemorativos de la aviación civil venezolana.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 

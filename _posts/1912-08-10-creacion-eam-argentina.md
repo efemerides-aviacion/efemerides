@@ -15,7 +15,7 @@ image: 1912-08-10-creacion-eam-argentina.webp
   <figcaption class="post-caption">Hangares de la Escuela de Aviación Militar en el campo de El Palomar, provincia de Buenos Aires, en los primeros años del instituto. Fuente: <a href="https://www.argentina.gob.ar/sites/default/files/10-de-agosto-dia-de-la-fuerza-aerea-argentina-w.png" style="color: #315fea; text-decoration: none;">Fuerza Aérea Argentina, Ministerio de Defensa de la República Argentina</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1912-08-10-creacion-eam-argentina.webp
 <p>El decreto no salió de un plan de rearme, sino de una colecta. La Comisión Pro Flotilla Aero Militar Argentina había reunido fondos mediante suscripción pública, funciones de teatro benéficas, festivales aéreos y la venta de un millón y medio de tarjetas postales a veinte centavos la unidad. Con eso se compraron tres aviones y se pagaron tres meses de sueldo del instructor. El Aero Club Argentino cedió gratuitamente su parque aerostático, sus instalaciones, su asesoramiento y sus profesores. De aquella escuela nació, treinta y tres años después, la Fuerza Aérea Argentina, que conmemora cada 10 de agosto su día en recuerdo de esta fecha.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 
@@ -46,7 +46,7 @@ image: 1912-08-10-creacion-eam-argentina.webp
 - **Conmemoración:** el 10 de agosto se celebra el Día de la Fuerza Aérea Argentina en recuerdo de esta fecha.
 - **Situación actual:** instituto de formación de oficiales de la Fuerza Aérea Argentina, con asiento en la Guarnición Aérea Córdoba y dependiente de la Dirección General de Educación de esa fuerza.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -74,7 +74,7 @@ La elección de El Palomar respondió a la lógica de la época: un campo llano 
 
 La escuela militar heredó ese capital simbólico. Su creación se presentó como un asunto de prestigio nacional, no de defensa, y de ahí que la ciudadanía respondiera comprando postales. El brevet de Aviador Militar diseñado en 1913 por Jorge Lubary, miembro del Aero Club, con alas, hélice y rueda, resume esa mezcla de entusiasmo deportivo y disciplina castrense que caracterizó los primeros años del instituto.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Desarrollo Cronológico
 
@@ -103,7 +103,7 @@ La secuencia va de los antecedentes civiles a la consolidación de la fuerza aut
 - **Agosto de 1944:** recupera su nombre original, el que figuraba en el decreto de 1912, que ya no volverá a modificarse.
 - **4 de enero de 1945:** se crea por decreto la Secretaría de Aeronáutica. La aeronáutica militar y civil se desprenden del Ministerio de Guerra y la escuela pasa a formar los oficiales de la nueva fuerza.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -117,7 +117,7 @@ Su traslado a Córdoba en los años treinta, junto a la Fábrica Militar de Avio
 
 El desenlace institucional llegó el 4 de enero de 1945, cuando la creación de la Secretaría de Aeronáutica desgajó la aviación del Ministerio de Guerra. La escuela, que había nacido como un instituto de especialidad del Ejército, se convirtió en la única formadora de oficiales de una fuerza armada nueva.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
@@ -129,7 +129,7 @@ El legado simbólico es igual de sólido. La fecha del decreto se conmemora cada
 
 Queda por último el detalle que mejor resiste el paso del tiempo. Los primeros aviones militares argentinos se compraron con un millón y medio de postales vendidas a veinte centavos, funciones de teatro y concursos de dibujo. En un continente donde la aviación militar suele nacer de compras de Estado o de misiones extranjeras, el caso argentino empezó con una colecta. La escuela que fundó aquel decreto llegó antes que la fuerza aérea que hoy la sostiene, y esa inversión del orden habitual explica buena parte de su historia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 
@@ -141,11 +141,14 @@ Queda por último el detalle que mejor resiste el paso del tiempo. Los primeros 
 - <a href="https://www.gacetaeronautica.com/gaceta/wp-101/fotos-de-aeronaves-en-argentina-1-2/" style="color: #315fea; text-decoration: none;">Gaceta Aeronáutica: «Fotos de aeronaves en Argentina», sobre la actividad aérea concentrada en El Palomar entre 1912 y 1920</a>
 - <a href="https://es.wikipedia.org/wiki/Escuela_de_Aviaci%C3%B3n_Militar" style="color: #315fea; text-decoration: none;">Escuela de Aviación Militar — Wikipedia en español</a>
 
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes divergen en varios puntos de esta efeméride. Sobre la denominación que recogía el decreto, la reseña histórica de la Fuerza Aérea y la ficha del propio instituto emplean «Escuela de Aviación Militar», mientras que el artículo conmemorativo oficial de la fuerza cita «Escuela de Aerostación y Aviación Militar»; el instituto sostiene que la designación del decreto de 1912 es la primera y que nunca fue modificada oficialmente, pese a los cambios de nombre de uso posteriores. Sobre la procedencia del terreno de El Palomar, la reseña oficial y el artículo conmemorativo indican que pertenecía al Segundo Grupo de Artillería a Caballo, mientras que la cronología del instituto lo atribuye a la Compañía Aérea Argentina. Sobre la identificación del decreto se cita el Boletín Militar n.º 696 sin número de decreto propio, y algunas recopilaciones lo consignan como «Decreto s/n.º – BAR 696, 2.ª parte». Sobre la fecha de habilitación de la sede de Córdoba, el artículo conmemorativo la sitúa en los últimos meses de 1936 y otras relaciones en 1937, año de la inauguración oficial. El nombre del primer director militar aparece como «Arenales Uriburu» en las fuentes consultadas, sin coincidencia en la forma completa. La fotografía que ilustra esta efeméride corresponde a los hangares de El Palomar en los primeros años del instituto, sin que pueda precisarse su fecha exacta.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-08-05 06:55:40 CST

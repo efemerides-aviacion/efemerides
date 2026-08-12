@@ -15,14 +15,14 @@ image: 1926-04-06-varney-airlines-fundacion.webp
   <figcaption class="post-caption">Laird Swallow Nº 5 "U.S. Air Mail Route CAM-5" pilotado por Leon D. Cuddeback durante el primer vuelo comercial de correo aéreo de Varney Airlines, Pasco (Washington) a Boise (Idaho), 6 de abril de 1926. Fuente: Archivo histórico Varney Airlines / Transportation History</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 6 de abril de 1926, el piloto Leon D. Cuddeback despegó desde Pasco, Washington, en un Laird Swallow biplano con 207 libras (94 kg) de correo, inaugurando el primer vuelo comercial de correo aéreo contratado por Varney Airlines (oficialmente Varney Air Lines). La ruta, adjudicada bajo la Ley Kelly de 1925, cubría el trayecto Pasco–Boise–Elko, operando como CAM-5 (Contract Air Mail Route 5). Walter T. Varney, veterano aviador, fundó la aerolínea que años después se fusionaría para formar United Airlines. Pese a interrupciones iniciales (el servicio regular comenzó el 1 de junio de 1926), este vuelo marcó el nacimiento de una de las aerolíneas más influyentes de la historia estadounidense.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 - **Fecha del primer vuelo de correo:** 6 de abril de 1926
@@ -37,7 +37,7 @@ image: 1926-04-06-varney-airlines-fundacion.webp
 - **Base legal:** Ley Kelly (Air Mail Act of 1925), que permitió al Departamento de Correos de EE.UU. contratar servicios privados de correo aéreo
 - **Inicio del servicio regular:** 1 de junio de 1926 (tras interrupciones posteriores al vuelo inaugural)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -63,7 +63,7 @@ La figura del piloto de correo aéreo era romantizada como un "caballero del cie
 - **1930:** La fusión de Varney Air Lines con otras aerolíneas (Boeing Air Transport, Pacific Air Transport, National Air Transport) da origen a United Air Lines (hoy United Airlines).
 - **1934:** Walter Varney funda otra aerolínea, Varney Speed Lines (posteriormente Continental Airlines), demostrando su espíritu emprendedor.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -72,13 +72,13 @@ La figura del piloto de correo aéreo era romantizada como un "caballero del cie
 - **Estímulo a la aviación en el noroeste del Pacífico:** La ruta conectó regiones aisladas de Washington, Idaho y Nevada, acelerando su integración económica.
 - **Carrera de Leon Cuddeback:** El piloto continuó volando para Varney y luego para United Airlines, jubilándose como capitán.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
 El 6 de abril de 1926 es considerado el nacimiento operativo de Varney Air Lines, aunque la compañía se había constituido legalmente meses antes. Su contribución a la aviación comercial estadounidense es fundamental: fue el eslabón inicial de la cadena que llevó a la creación de United Airlines. En Pasco, Washington, un monumento conmemora el primer despegue. La aerolínea también es recordada por su innovador uso de radio de comunicación y por mantener altos estándares de seguridad en una era peligrosa. Walter Varney, fallecido en 1974, está inscrito en el Salón de la Fama de la Aviación Nacional (EE.UU.).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 <div class="references">
@@ -93,11 +93,14 @@ El 6 de abril de 1926 es considerado el nacimiento operativo de Varney Air Lines
   </ul>
 </div>
 
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe ambigüedad sobre si el vuelo del 6 de abril de 1926 fue estrictamente el "primer vuelo comercial de correo aéreo en EE.UU.". Otras rutas contratadas bajo la Ley Kelly comenzaron antes (por ejemplo, Western Air Express voló Los Ángeles–Salt Lake City en abril de 1926 también). Sin embargo, la mayoría de las fuentes coinciden en que el vuelo de Varney desde Pasco fue el primero en completarse exitosamente bajo un contrato CAM. Asimismo, la fecha exacta de la fundación legal de Varney Air Lines es anterior (primeros meses de 1926), pero el 6 de abril se conmemora como el inicio de sus operaciones. La reanudación del servicio regular el 1 de junio de 1926 se menciona en algunas fuentes; no hay confirmación unánime de que el vuelo del 6 de abril fuera seguido de inmediato por vuelos diarios.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-02 15:15:00 UTC

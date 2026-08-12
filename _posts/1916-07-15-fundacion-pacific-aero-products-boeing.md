@@ -15,7 +15,7 @@ image: 1916-07-15-fundacion-pacific-aero-products-boeing.webp
   <figcaption class="post-caption">Uno de los primeros aviones Boeing en el sitio del río Duwamish, cerca de Seattle, en 1916, en los meses fundacionales de Pacific Aero Products Co. Fuente: <a href="https://www.thisdayinaviation.com/16-july-1916/boeing-model-1-the-first-boeing-airplane-at-duwamish-river-site-large/" style="color: #315fea; text-decoration: none;">This Day in Aviation</a>, a partir de imagen de Boeing.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1916-07-15-fundacion-pacific-aero-products-boeing.webp
 <p>La fundación se produjo apenas un mes después del vuelo del B&W, el primer avión construido por William Boeing junto con el ingeniero naval George Conrad Westervelt. Más que una simple inscripción mercantil, la incorporación de la empresa representó la transformación de una afición aeronáutica privada en una iniciativa industrial con ambición comercial y militar.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 - **Fecha de fundación:** 15 de julio de 1916
@@ -36,7 +36,7 @@ image: 1916-07-15-fundacion-pacific-aero-products-boeing.webp
 - **Cambio de nombre posterior:** Boeing Airplane Co., en la primavera de 1917
 - **Primer gran éxito comercial-militar inicial:** contrato naval para entrenadores Model C tras la entrada de Estados Unidos en la Primera Guerra Mundial
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -51,7 +51,7 @@ Los primeros años de la aviación industrial estaban dominados por estructuras 
 ### Entorno cultural
 La futura Boeing nació en un ecosistema muy propio de Seattle: una combinación de riqueza forestal, tradición naval, cultura empresarial y fascinación por la innovación técnica. La figura de George Conrad Westervelt enlazaba además el proyecto con la Marina estadounidense, mientras que el entusiasmo personal de William Boeing reflejaba el espíritu pionero de la época, en la que muchos avances dependían tanto de capital privado como de iniciativa individual.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Desarrollo Cronológico
 
@@ -65,7 +65,7 @@ La fundación de Pacific Aero Products Co. fue el resultado de una secuencia muy
 - **1917:** la empresa concentra su crecimiento en las instalaciones del río Duwamish, asociadas posteriormente a la célebre Red Barn.
 - **1917-1918:** el contrato para entrenadores navales Model C proporciona a la joven compañía su primer gran impulso económico e industrial.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -77,7 +77,7 @@ La fundación de Pacific Aero Products Co. tuvo consecuencias inmediatas mucho m
 - **Base para la marca Boeing:** aunque el nombre original era otro, la sociedad fundada en 1916 fue la estructura que daría lugar a Boeing Airplane Co. al año siguiente.
 - **Consolidación de una vocación de largo plazo:** incluso antes de su expansión masiva, la compañía ya mostraba la combinación de visión comercial y adaptación técnica que marcaría su trayectoria posterior.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
@@ -87,7 +87,7 @@ A largo plazo, la efeméride también ilumina algo esencial de la historia de Bo
 
 Por eso, el 15 de julio de 1916 no recuerda solo el origen administrativo de Boeing, sino también el comienzo de una cultura empresarial e ingenieril que influiría durante más de un siglo en la aviación comercial, militar y espacial. La Pacific Aero Products Co. fue pequeña en escala, pero inmensa en consecuencias históricas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 <div class="references">
@@ -103,13 +103,13 @@ Por eso, el 15 de julio de 1916 no recuerda solo el origen administrativo de Boe
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes coinciden en la fundación de Pacific Aero Products Co. el 15 de julio de 1916, pero difieren en algunos matices de localización y cronología temprana. Unas subrayan las primeras instalaciones en Lake Union, mientras otras asocian de forma más visible los inicios materiales de la empresa con el antiguo astillero del río Duwamish y la posterior Red Barn, ya consolidada en 1917. También existen diferencias menores entre la fecha de solicitud y la de aprobación formal del cambio de nombre a Boeing Airplane Co. en 1917. Ninguna de esas variaciones altera el hecho principal de esta efeméride: la incorporación de Pacific Aero Products Co. el 15 de julio de 1916 como origen de la futura Boeing.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-07-11 06:52:20 CST  

@@ -14,14 +14,14 @@ image: 1920-12-10-fundacion-fuerza-aerea-venezolana.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1920-12-10-fundacion-fuerza-aerea-venezolana.jpg" alt="Acta fundacional y avión Caudron G-3">
   <figcaption class="post-caption">A la izquierda, el Acta o Decreto de Fundación de la Escuela de Aviación Militar; a la derecha, el Caudron G-3, entrenador de los primeros pilotos venezolanos. (Fuente: Biblioteca Nacional de Venezuela / Aviación Militar Bolivariana).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 10 de diciembre de 1920 se instaló en Maracay la Escuela de Aviación Militar, origen de la Fuerza Aérea Venezolana. La fundación fue impulsada por Juan Vicente Gómez y contó con la participación de pioneros como Cosme Renella y Robert Petit, quienes aportaron experiencia bélica y formación técnica. Este acto marcó el inicio oficial de la aviación militar en Venezuela.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Datos verificados del evento
 - **Fecha:** 10 de diciembre de 1920  
 - **Lugar:** Maracay, Estado Aragua, Venezuela  
@@ -31,7 +31,7 @@ image: 1920-12-10-fundacion-fuerza-aerea-venezolana.jpg
 - **Aeronaves iniciales:** Aviones franceses (Caudron G-3) para instrucción y demostraciones  
 - **Resultado inmediato:** Inicio oficial y estructurado de la aviación militar venezolana  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Contexto Histórico
 En los años 20, Venezuela buscaba modernizar sus fuerzas armadas. La creación de la Escuela de Aviación Militar fue un paso estratégico, con apoyo de pilotos extranjeros y material aéreo francés que aportaron credibilidad técnica y visibilidad pública.
 
@@ -55,7 +55,7 @@ En los años 20, Venezuela buscaba modernizar sus fuerzas armadas. La creación 
 ### Legado
 La fecha de instalación se reconoce como el nacimiento oficial de la Fuerza Aérea Venezolana, hoy Aviación Militar Bolivariana, que celebra cada 10 de diciembre su aniversario.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -68,11 +68,14 @@ La fecha de instalación se reconoce como el nacimiento oficial de la Fuerza Aé
   </ul>
 </div>
 
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La creación por decreto (abril de 1920) y la instalación oficial (diciembre de 1920) se consignan como fases distintas del mismo proceso fundacional.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-09 05:45 CST  
 - **Fuentes primarias consultadas:** Decreto N.º 127 (Gaceta Oficial), crónicas de prensa de diciembre 1920  
