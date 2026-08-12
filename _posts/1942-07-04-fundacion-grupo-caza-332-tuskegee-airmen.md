@@ -16,14 +16,14 @@ image: 1942-07-04-fundacion-grupo-caza-332-tuskegee-airmen.webp
   <figcaption class="post-caption">Oficiales pilotos del 332.º Grupo de Caza (332nd Fighter Group), conocidos históricamente como los «Aviadores de Tuskegee» o «Colas Rojas», reunidos en la base aérea de Ramitelli, Italia, ca. marzo de 1945. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Pilots_of_the_332nd_Fighter_Group.jpg">Fuerza Aérea de los Estados Unidos / Archivos Nacionales (NARA) / Wikimedia Commons</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de julio de 1942, el Departamento de Guerra de los Estados Unidos constituyó de manera formal el 332.º Grupo de Caza (332nd Fighter Group) de las Fuerzas Aéreas del Ejército (USAAF), la unidad de combate que inmortalizaría el legado de los «Aviadores de Tuskegee». Integrado en su totalidad por pilotos, oficiales y personal de tierra afroamericanos, este grupo rompió de forma pionera las severas barreras de segregación racial vigentes en las fuerzas armadas estadounidenses de la época. Bajo el liderazgo del coronel Benjamin O. Davis Jr., la unidad se entrenaría en el aeródromo militar de Tuskegee, Alabama, antes de su despliegue en el Frente Europeo en 1944, donde sus pilotos —mundialmente famosos por pintar de color rojo las colas de sus cazas P-51 Mustang— completaron un extraordinario y heroico récord de combate en misiones de escolta de bombarderos pesados.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 - **Fecha de activación física:** 13 de octubre de 1942, en el Campo Aéreo del Ejército en Tuskegee, Alabama, bajo la Tercera Fuerza Aérea
@@ -34,7 +34,7 @@ image: 1942-07-04-fundacion-grupo-caza-332-tuskegee-airmen.webp
 - **Aeronaves enemigas destruidas:** Acreditación oficial de 261 derribos y destrucciones de aviones del Eje (112 en combate aéreo y 149 en ataques a tierra)
 - **Máxima condecoración de unidad:** Concesión de la Mención de Unidad Distinguida (*Distinguished Unit Citation - DUC*) por su histórica misión de escolta a Berlín el 24 de marzo de 1945, donde derribaron tres reactores alemanes Messerschmitt Me 262
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -79,7 +79,7 @@ A más de ocho décadas de su histórica constitución en julio de 1942, el lega
 - **Inspiración y homenajes en el siglo XXI:** Los pilotos de la unidad fueron galardonados con la Medalla de Oro del Congreso en el año 2007, y sus hazañas han inspirado películas de gran presupuesto como *The Tuskegee Airmen* (1995) y *Red Tails* (2012), manteniendo viva su memoria para las nuevas generaciones de aviadores.
 - **Preservación técnica de los \"Red Tails\":** Varios ejemplares del caza P-51 Mustang pintados con la icónica cola roja son conservados en perfecto estado de vuelo activo por organizaciones de preservación histórica de la aviación, volando en festivales de todo el mundo para conmemorar el triunfo de la pericia y el deber sobre la segregación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 <div class="references">
@@ -91,13 +91,13 @@ A más de ocho décadas de su histórica constitución en julio de 1942, el lega
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una distinción técnica importante entre la fecha de la <strong>constitución</strong> formal del 332.º Grupo de Caza y su posterior <strong>activación</strong> efectiva. El Departamento de Guerra de los Estados Unidos decretó la constitución oficial de la unidad el <strong>4 de julio de 1942</strong> (la fecha conmemorada bajo esta efeméride), mientras que su activación física sobre el terreno de Tuskegee, Alabama, no se produjo de manera efectiva sino hasta el 13 de octubre de 1942. El registro histórico civil de la National Aeronautic Association (NAA) y los archivos de la Fuerza Aérea (USAF) adoptan ambas fechas como hitos fundacionales del componente.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 

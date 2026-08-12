@@ -15,7 +15,7 @@ image: 1943-08-05-fundacion-wasp.webp
   <figcaption class="post-caption">Cuatro pilotos de las Women Airforce Service Pilots abandonan su aparato, el B-17 Flying Fortress bautizado <em>Pistol Packin' Mama</em>, en la escuela de cuatrimotores de Lockbourne Army Air Field, Ohio. De izquierda a derecha: Frances Green, Margaret «Peg» Kirchner, Ann Waldner y Blanche Osborn. Imagen posterior a la fundación, hacia 1944. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Group_of_Women_Airforce_Service_Pilots_and_B-17_Flying_Fortress.jpg" style="color: #315fea; text-decoration: none;">U.S. Air Force, dominio público</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1943-08-05-fundacion-wasp.webp
 <p>Cochran quedó como directora del conjunto y Love al frente de las operaciones de traslado de aeronaves. Hasta su disolución, el 20 de diciembre de 1944, las WASP entregaron 12.650 aviones de 78 modelos distintos y acumularon más de 60 millones de millas de vuelo, unos 96,6 millones de kilómetros. Nunca obtuvieron estatus militar: fueron civiles contratadas, y las 38 que murieron en servicio fueron enterradas sin honores y a costa de sus familias.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 
@@ -43,7 +43,7 @@ image: 1943-08-05-fundacion-wasp.webp
 - **Condición jurídica:** personal civil sin estatus militar, sin seguro de vida, sin asistencia sanitaria militar ni gastos funerarios cubiertos.
 - **Disolución:** 20 de diciembre de 1944.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -61,7 +61,7 @@ Las WASP volaron prácticamente todo el inventario de las USAAF: entrenadores, c
 
 Las dos promotoras del proyecto encarnaban visiones distintas. Nancy Harkness Love, piloto de negocios, propuso al Coronel Tunner un escuadrón reducido de aviadoras muy experimentadas, capaces de incorporarse de inmediato; ya en mayo de 1940 había escrito al General Robert Olds afirmando haber identificado a cuarenta y nueve mujeres piloto de material excelente y al menos quince más capaces de manejar aparatos complicados. Jacqueline Cochran, piloto de carreras, se había dirigido a Eleanor Roosevelt en septiembre de 1939 para defender el empleo de aviadoras en las fuerzas armadas; la Primera Dama la puso en contacto con Arnold y con Olds, y Cochran llevó después a un grupo de estadounidenses al Air Transport Auxiliary británico, apostando por un programa de instrucción masiva. Ambas propuestas prosperaron por separado en septiembre de 1942, sin apenas comunicación entre sus dos responsables, y la duplicidad resultante hizo inevitable la unificación del verano siguiente.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Desarrollo Cronológico
 
@@ -87,7 +87,7 @@ La secuencia enlaza las dos iniciativas paralelas de 1942, su fusión en 1943 y 
 - **1977:** la Ley de Mejora de Beneficios para Veteranos reconoce su servicio como «servicio activo» a efectos de la Administración de Veteranos. Los certificados de licenciamiento honorable se expiden en 1979.
 - **1 de julio de 2009:** el presidente Barack Obama firma la ley que les concede la Medalla de Oro del Congreso, entregada en el Capitolio en marzo de 2010.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -101,7 +101,7 @@ El precio fue alto y quedó sin compensación. Treinta y ocho mujeres murieron e
 
 El rechazo del proyecto HR 4219, en junio de 1944, cerró la vía de la militarización. Cochran sostuvo entonces que, si el cuerpo no iba a ser militarizado, resultaba preferible disolverlo antes que prolongar una situación que dejaba a sus pilotos sin beneficios ni condición de veteranas al terminar la guerra.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
@@ -113,7 +113,7 @@ El reconocimiento llegó en 1977, con el estatus retroactivo de veteranas, y cul
 
 Su huella profesional es igualmente concreta: las WASP acreditaron que una mujer podía volar cualquier aparato del inventario militar, y sobre ese precedente se construyó la incorporación posterior de las pilotos a las fuerzas armadas y a la aviación comercial, un camino que continuaría <a href="https://efemerides-aviacion.github.io/efemerides/evento/1973/01/29/emily-howell-primera-mujer-contratada-linea-aerea.html" style="color: #315fea; text-decoration: none;">Emily Howell Warner</a> tres décadas después. El propio Arnold lo resumió al despedirlas: «Si alguna vez alguien dudó de que las mujeres pudieran llegar a ser pilotos competentes, las WASP han disipado esa duda».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 
@@ -126,11 +126,14 @@ Su huella profesional es igualmente concreta: las WASP acreditaron que una mujer
 - <a href="https://en.wikipedia.org/wiki/Women_Airforce_Service_Pilots" style="color: #315fea; text-decoration: none;">Women Airforce Service Pilots — Wikipedia en inglés</a>
 - <a href="https://es.wikipedia.org/wiki/Servicio_de_Mujeres_Pilotos_de_la_Fuerza_A%C3%A9rea" style="color: #315fea; text-decoration: none;">Servicio de Mujeres Pilotos de la Fuerza Aérea — Wikipedia en español</a>
 
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes difieren en varias cifras del programa. En el número de aeronaves entregadas, el National Air and Space Museum y la Texas Woman's University consignan 12.650, mientras que el National WWII Museum registra 12.652. En el volumen de admitidas, la mayoría de las instituciones cita 1.830 aspirantes aceptadas, frente a las «unas 2.500 aceptadas para instrucción» que recoge la ficha enciclopédica en inglés; existe coincidencia, en cambio, en las 1.074 graduadas. En la votación del proyecto HR 4219 se manejan dos resultados: 188 contra 161 y 188 contra 169; se ha consignado el segundo, respaldado por la obra de Monahan y Neidel-Greenlee. Sobre la Medalla de Oro del Congreso conviven dos fechas igualmente correctas: la firma de la ley el 1 de julio de 2009 y la ceremonia de entrega en el Capitolio en marzo de 2010. La proporción de traslados atribuida a las WASP varía según la fuente entre «más del cincuenta por ciento de los aviones de combate dentro de Estados Unidos» y «alrededor del ochenta por ciento de las misiones de traslado»; ambas formulaciones se recogen por separado al no ser equivalentes. La imagen que ilustra esta efeméride es posterior a la fundación y muestra a cuatro pilotos WASP en la escuela de cuatrimotores de Lockbourne, no el acto de constitución del cuerpo, del que no se conserva registro fotográfico.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-08-01 08:23:02 CST

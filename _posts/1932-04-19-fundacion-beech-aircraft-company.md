@@ -15,14 +15,14 @@ image: 1932-04-19-fundacion-beech-aircraft-company.webp
   <figcaption class="post-caption">Instalaciones de Beech Aircraft Company en Wichita, Kansas, circa 1932-1940. Fuente: Textron Aviation, “Beechcraft: A History”; National Air and Space Museum Archives, “Beechcraft Model 17 Photographs”.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 19 de abril de 1932, en medio de la Gran Depresión, Walter H. Beech y su esposa Olive Ann Beech fundaron en Wichita, Kansas, la Beech Aircraft Company. Acompañados por el ingeniero Ted A. Wells, el tesorero K.K. Shaul y el inversionista C.G. Yankey, los Beech apostaron por un diseño revolucionario: un biplano de cabina cerrada con alas en flecha negativa que prometía alcanzar 200 mph. Ese avión se convertiría en el emblemático Beechcraft Model 17 Staggerwing, cuyo primer vuelo tuvo lugar el 4 de noviembre de 1932. La compañía sobrevivió a sus difíciles inicios y se consolidó como una de las tres grandes de la aviación general estadounidense, junto a Cessna y Piper.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ image: 1932-04-19-fundacion-beech-aircraft-company.webp
 - **Primera venta:** Junio de 1933 (salvó a la compañía de la bancarrota)
 - **Denominación actual:** Beechcraft (marca de Textron Aviation desde 2014)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -54,7 +54,7 @@ A principios de la década de 1930, la aviación comercial y ejecutiva estaba en
 
 Walter Beech ya era una figura conocida en la industria. Había cofundado Travel Air en 1924 junto a Lloyd Stearman y Clyde Cessna, y luego se había desempeñado como vicepresidente de Curtiss-Wright. Su esposa, Olive Ann Mellor, había sido su secretaria en Travel Air y se había ganado una reputación como administradora astuta. La prensa local siguió de cerca el regreso de los Beech a Wichita en abril de 1932, y Walter declaró a los periodistas que había vuelto para formar una nueva compañía y realizar "experimentos ambiciosos" que revolucionarían la aviación comercial.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## La Fundación: detalles relevantes
 
@@ -80,7 +80,7 @@ El equipo fundador de Beech Aircraft Company, constituido oficialmente el 19 de 
 
 La compañía comenzó a operar en una pequeña planta de Wichita, una antigua fábrica de Cessna que estaba inactiva. El capital inicial fue de solo 25.000 dólares. Los primeros meses fueron extremadamente difíciles. El Modelo 17 voló por primera vez el 4 de noviembre de 1932 , pero las ventas no llegaban. A mediados de 1933, la compañía estaba al borde de la insolvencia. La salvación llegó en junio de 1933, cuando se vendió el segundo Beechcraft construido. Esa única venta, por aproximadamente 8.000 dólares, mantuvo a flote a la empresa .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Desarrollo Cronológico
 
@@ -95,7 +95,7 @@ La compañía comenzó a operar en una pequeña planta de Wichita, una antigua f
 - **1980:** Raytheon adquiere Beech Aircraft Corporation; Olive Ann Beech se retira en 1982. La compañía cambió de propietario varias veces (Raytheon, Goldman Sachs, Textron), pero la marca Beechcraft nunca desapareció.
 - **2014:** Textron Aviation (propietaria de Cessna) adquiere Beechcraft Corporation, que continúa como una marca del grupo Textron Aviation junto a Cessna y Hawker.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -107,7 +107,7 @@ La compañía comenzó a operar en una pequeña planta de Wichita, una antigua f
 
 - **Legado femenino en la industria:** Olive Ann Beech se convirtió en un modelo de liderazgo femenino en una industria dominada por hombres. Fue la primera mujer en liderar una empresa Fortune 500 y recibió el Trofeo Conmemorativo Wright Brothers en 1980 .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
@@ -117,14 +117,14 @@ El Modelo 17 Staggerwing es considerado uno de los biplanos más bellos jamás c
 
 Walter Beech falleció en 1950, pero Olive Ann Beech continuó liderando la empresa hasta 1982, consolidando el legado de su esposo y construyendo el suyo propio. Hoy, Beechcraft es una marca de Textron Aviation, con sede en Wichita, Kansas, y sigue produciendo aviones que llevan el sello de calidad y excelencia que los Beech establecieron hace más de 90 años.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha de fundación:</strong> Aunque el 19 de abril de 1932 es la fecha oficial de constitución de Beech Aircraft Company, los Beech habían regresado a Wichita a principios de abril y la compañía comenzó a operar inmediatamente después de la constitución legal. El primer vuelo del prototipo del Modelo 17 ocurrió el 4 de noviembre de 1932, pero la compañía ya existía desde abril. Algunas fuentes mencionan también al inversionista C.G. Yankey como vicepresidente, aunque no siempre aparece en todas las listas de fundadores.</p>
 <p><strong>Sobre Olive Ann Beech:</strong> Aunque nunca aprendió a volar, Olive Ann Beech fue la estratega financiera y administrativa que permitió a la compañía sobrevivir a la Depresión y prosperar durante la guerra. Fue la primera mujer en liderar una empresa Fortune 500 y recibió numerosos reconocimientos a lo largo de su carrera.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 
@@ -143,7 +143,7 @@ Walter Beech falleció en 1950, pero Olive Ann Beech continuó liderando la empr
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 

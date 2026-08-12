@@ -15,14 +15,14 @@ image: 1931-04-22-apertura-oficial-aeropuerto-nacional-de-madrid.webp
   <figcaption class="post-caption">Acto de inauguración pública del Aeropuerto Nacional de Madrid en Barajas, 30 de abril de 1931. Fuente: UrbanCidades, con cita de El Imparcial y La Época.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 22 de abril de 1931 se abrió al tráfico aéreo el Aeropuerto Nacional de Madrid (hoy Adolfo Suárez Madrid-Barajas), antecedente del principal hub español. Su creación respondió a la necesidad de sustituir aeródromos obsoletos como Getafe y Carabanchel. Aunque la habilitación legal fue ese día, la inauguración pública tuvo lugar el 30 de abril con presencia de autoridades. El tráfico comercial regular arrancó en 1933.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 
@@ -40,7 +40,7 @@ image: 1931-04-22-apertura-oficial-aeropuerto-nacional-de-madrid.webp
 - **Inicio de operaciones comerciales regulares:** 15 de mayo de 1933
 - **Primera línea comercial:** Madrid-Barcelona, operada por LAPE (Líneas Aéreas Postales Españolas)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -72,7 +72,7 @@ La inauguración del aeropuerto fue un acontecimiento social y mediático. El 30
 - **1965:** El aeropuerto cambia su nombre a Aeropuerto de Madrid-Barajas.
 - **2014:** Tras el fallecimiento del expresidente Adolfo Suárez, el aeropuerto pasa a denominarse Aeropuerto Adolfo Suárez Madrid-Barajas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## La apertura oficial: el 22 de abril de 1931
 
@@ -88,7 +88,7 @@ Esta decisión formalizó el nacimiento del aeropuerto como entidad operativa, a
 
 La elección de Barajas no fue casual. Cuatro eran los enclaves posibles para establecer el aeropuerto de Madrid: Getafe, Carabanchel Alto, Vallecas y Barajas. Se escogió este último porque era un "páramo yermo de unas 500 fanegas" (aproximadamente entre 330 y 493 hectáreas) con una "buena comunicación con la capital a través de la carretera de Francia". Los terrenos, libres de obstáculos, fueron adquiridos por 730.000 pesetas el 30 de julio de 1930.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## La inauguración pública: el 30 de abril de 1931
 
@@ -104,7 +104,7 @@ La inauguración fue todo un acontecimiento social. El diario La Época destacó
 
 Muchos de los asistentes recibieron ese día su "bautismo del aire", volando por primera vez en alguno de los aviones presentes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## El inicio de las operaciones comerciales: 1933
 
@@ -122,7 +122,7 @@ El 15 de mayo de 1933, un trimotor Fokker VII/3M de la compañía LAPE (Líneas 
 
 Las primeras líneas regulares operadas por LAPE fueron Madrid-Barcelona y Madrid-Sevilla. Los billetes tenían un costo de 150 pesetas para Barcelona y 125 pesetas para Sevilla. En ese año 1933, bajo la dirección del teniente coronel Jacobo Armijo y Fernández de Alarcón (primer director del aeropuerto), se operaron 378 vuelos que transportaron a 2.873 pasajeros.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -134,7 +134,7 @@ Las primeras líneas regulares operadas por LAPE fueron Madrid-Barcelona y Madri
 
 - **Legado arquitectónico:** El edificio terminal diseñado por Luis Gutiérrez Soto, con su planta alada y su terraza-mirador, fue un hito de la arquitectura aeroportuaria de su época.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
@@ -142,7 +142,7 @@ El Aeropuerto Nacional de Madrid, nacido en los prolegómenos de la Segunda Rep�
 
 El aeropuerto ha sido testigo de la historia de España: la Guerra Civil (durante la cual se realizaron servicios bélicos y civiles), el desarrollismo de los años 60 (con la construcción de nuevas terminales), la transición democrática y la modernización del siglo XXI (con la inauguración de la T-4 en 2006). Barajas es, sin duda, la principal puerta de entrada y salida de España al mundo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las fechas:</strong> Existen tres fechas clave en la historia del Aeropuerto de Madrid-Barajas:</p>
@@ -155,7 +155,7 @@ El aeropuerto ha sido testigo de la historia de España: la Guerra Civil (durant
 <p><strong>Sobre el primer director:</strong> Las fuentes coinciden en que Jacobo Armijo y Fernández de Alarcón fue el primer jefe o director del aeropuerto. Fue nombrado "jefe provisional" en mayo de 1931, un mes después de la apertura al tráfico, y continuó como director durante los primeros años de operaciones.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 
@@ -172,7 +172,7 @@ El aeropuerto ha sido testigo de la historia de España: la Guerra Civil (durant
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 
