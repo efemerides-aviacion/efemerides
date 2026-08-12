@@ -14,13 +14,13 @@ image: 2002-03-14-fundacion-space-x.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2002-03-14-fundacion-space-x.jpg" alt="SpaceX">
   <figcaption class="post-caption">Edificio de la sede original de SpaceX en Hawthorne, California (1 Rocket Road), con torre de pruebas blanca para motores Merlin y letrero prominente "SPACEX" en la fachada industrial, capturado bajo cielo nublado ~2010-2015. Fuente: Archivo histórico SpaceX / Wikimedia Commons.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 14 de marzo de 2002, Elon Musk incorporó SpaceX en Delaware con 100 millones de dólares de su fortuna personal, tras la venta de PayPal, con el objetivo de reducir drásticamente los costos de lanzamiento espacial y hacer viable la colonización de Marte. Inició operaciones en un almacén de El Segundo, California, contratando a pioneros como Tom Mueller. Esta efeméride marca el nacimiento de la primera gran empresa espacial privada, que años después revolucionaría la industria con cohetes reutilizables y se convertiría en el proveedor dominante de lanzamientos a nivel mundial.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 - **Fecha:** 14 de marzo de 2002 (incorporación legal en Delaware)
@@ -30,7 +30,7 @@ image: 2002-03-14-fundacion-space-x.jpg
 - **Inversión inicial:** Aproximadamente US$ 100 millones provenientes de la venta de PayPal 
 - **Resultado inmediato:** Establecimiento de la primera compañía privada seria dedicada a reducir costos de acceso al espacio, sentando las bases para el desarrollo de los cohetes Falcon 1 y Falcon 9
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 A principios de la década de 2000, la industria aeroespacial estaba dominada por grandes contratistas gubernamentales y consorcios nacionales como Lockheed Martin, Boeing y Arianespace. Los costos de lanzamiento eran prohibitivos (se estimaba que poner una libra de carga en órbita costaba entre 10.000 y 30.000 dólares) y la innovación se había estancado. No existía una empresa privada capaz de desarrollar y operar cohetes orbitales de manera independiente.
@@ -88,13 +88,13 @@ SpaceX ha redefinido por completo la industria aeroespacial:
 - **Visión a largo plazo:** Mantiene el objetivo fundacional de colonizar Marte, desarrollando actualmente el cohete Starship como la herramienta para lograr ese fin .
 - **Valoración récord:** En 2024, SpaceX alcanzó una valoración cercana a los 200.000 millones de dólares, consolidándose como la empresa privada más valiosa del mundo en su sector .
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <div class="note-box">
 <p><strong>Nota sobre la fecha de fundación:</strong> La fecha de fundación de SpaceX es el 14 de marzo de 2002, correspondiente a su incorporación legal en Delaware . Sin embargo, algunas fuentes (especialmente las que se refieren al inicio de operaciones físicas) mencionan "junio de 2002" como el momento en que la empresa comenzó a trabajar en sus instalaciones de El Segundo. Esta efeméride adopta la fecha de constitución legal, que es la estándar en los registros corporativos y en la mayoría de las publicaciones especializadas. La discrepancia no invalida ninguna de las dos referencias, sino que refleja la diferencia entre la creación legal de la entidad y el comienzo efectivo de las actividades operativas.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 <div class="references">
@@ -108,7 +108,7 @@ SpaceX ha redefinido por completo la industria aeroespacial:
     <li><a href="https://www.britannica.com/money/SpaceX">Britannica – SpaceX</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-12 15:30:00 UTC  

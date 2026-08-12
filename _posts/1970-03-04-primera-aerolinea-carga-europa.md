@@ -14,14 +14,14 @@ image: 1970-03-04-primera-aerolinea-carga-europa.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1970-03-04-primera-aerolinea-carga-europa.jpg" alt="Canadair CL-44 de Cargolux en la década de 1970">
   <figcaption class="post-caption">El Canadair CL-44 con matrícula TF-LLJ, uno de los primeros aviones utilizados por Cargolux en la década de 1970, poco después de su fundación. Operado originalmente por Loftleiðir, representa los inicios de la aerolínea de carga. Air Cargo News / DVV Media.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de marzo de 1970 se fundó en Luxemburgo Cargolux Airlines International, una sociedad pionera formada por Luxair, Salén Shipping y Loftleiðir. Comenzando con un único Canadair CL-44 turbohélice, la aerolínea revolucionó el sector al apostar por los Boeing 747, convirtiéndose en cliente de lanzamiento de los modelos 747-400F y 747-8F. A lo largo de cinco décadas, Cargolux se consolidó como la principal aerolínea de carga de Europa y una de las diez más importantes del mundo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Datos verificados del evento
 - **Fecha de fundación:** 4 de marzo de 1970  
 - **Lugar:** Luxemburgo  
@@ -31,7 +31,7 @@ image: 1970-03-04-primera-aerolinea-carga-europa.jpg
 - **Innovaciones:** Cliente de lanzamiento del Boeing 747-400F (1993) y del Boeing 747-8F (2011)  
 - **Situación actual:** Principal aerolínea de carga de Europa, séptima del mundo por FTK según IATA (2020)  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Contexto histórico
 La fundación de Cargolux marcó un hito en la aviación europea, al establecer la primera aerolínea dedicada exclusivamente al transporte de carga.
 
@@ -59,7 +59,7 @@ Cargolux redefinió el transporte aéreo de carga en Europa, consolidando un mod
 ### Legado
 Hoy en día, Cargolux es referente mundial en transporte de mercancías especiales y de gran tamaño, operando exclusivamente con Boeing 747.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Referencias verificadas
 <div class="references">
   <ul>
@@ -74,11 +74,14 @@ Hoy en día, Cargolux es referente mundial en transporte de mercancías especial
   </ul>
 </div>
 
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Aunque Cargolux es reconocida como la primera aerolínea de carga de Europa, existían previamente aerolíneas mixtas que transportaban pasajeros y carga. La singularidad de Cargolux radica en haber sido fundada exclusivamente para carga aérea, lo que la distingue en la historia de la aviación.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-03-02 13:30 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES/FR, Chambre de Commerce Luxembourg, LACCNYC, Air Cargo News, ITJ Transport Journal  

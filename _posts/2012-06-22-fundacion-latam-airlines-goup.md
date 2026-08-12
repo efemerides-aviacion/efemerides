@@ -15,14 +15,14 @@ image: 2012-06-22-fundacion-latam-airlines-goup.webp
   <figcaption class="post-caption">Logo de LATAM Airlines Group, el grupo aéreo más grande de América Latina, formado el 22 de junio de 2012 tras la fusión de LAN Airlines de Chile y TAM Airlines de Brasil. Fuente: LATAM Airlines Group / sitio corporativo.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>El 22 de junio de 2012, LAN Airlines de Chile y TAM Linhas Aéreas de Brasil completaron la transacción que dio origen a LATAM Airlines Group, el grupo aéreo más grande de América Latina. La fusión, que había sido anunciada en 2011, combinó dos aerolíneas con más de 80 años de historia acumulada (LAN fundada en 1929 y TAM en 1976) para crear un gigante regional con presencia en Chile, Brasil, Perú, Argentina, Colombia, Ecuador y Paraguay. El nuevo grupo, liderado por Enrique Cueto como CEO y Mauricio Rolim Amaro como presidente, comenzó su andadura con una flota de aproximadamente 318 aviones y una red de 135 destinos en 22 países. En los años siguientes, LATAM se unió a la alianza oneworld (2014), incorporó a Qatar Airways como accionista (2016), y en 2022, tras superar un proceso de reestructuración bajo el Capítulo 11, estableció un joint venture con Delta Air Lines. Hoy, LATAM es la aerolínea dominante de la región, con 153 destinos en 27 países y más de 53 millones de miembros en su programa de fidelización LATAM Pass.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ image: 2012-06-22-fundacion-latam-airlines-goup.webp
 - **Joint Venture con Delta:** Aprobado en 2022 
 - **Flota actual:** ~341 aviones (incluyendo pasajeros y carga) 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -54,7 +54,7 @@ La fusión permitió a LATAM planificar una de las flotas más modernas de la re
 
 La integración de dos culturas empresariales diferentes, la chilena y la brasileña, fue uno de los mayores desafíos de la fusión. Sin embargo, el grupo logró mantener las identidades de las aerolíneas en sus respectivos mercados mientras unificaba la marca bajo el paraguas de LATAM.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Desarrollo Cronológico
 
@@ -68,7 +68,7 @@ La integración de dos culturas empresariales diferentes, la chilena y la brasil
 - **2020:** LATAM y sus filiales se acogen al Capítulo 11 de la ley estadounidense 
 - **2022:** LATAM emerge exitosamente del Capítulo 11 y se aprueba el joint venture con Delta Air Lines 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Las aerolíneas predecesoras
 
@@ -82,7 +82,7 @@ Fundada el 21 de marzo de 1929 por el Comandante Arturo Merino Benítez, LAN fue
 
 Fundada en 1976 por el capitán Rolim Adolfo Amaro como una pequeña aerolínea regional, TAM creció hasta convertirse en la aerolínea más grande de Brasil. En 1998, realizó su primer vuelo internacional a Miami y se convirtió en una de las aerolíneas más reconocidas de Sudamérica. TAM se incorporó a Star Alliance en 2010.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -92,7 +92,7 @@ La creación de LATAM Airlines Group transformó el panorama de la aviación en 
 - **Eficiencia operativa:** La fusión permitió optimizar rutas, reducir costos y mejorar la eficiencia de la flota.
 - **Competitividad global:** LATAM se convirtió en el grupo aéreo más grande de América Latina. Su principal competidor en la región es **GOL Linhas Aéreas** de Brasil, seguido de cerca por **Avianca**. Según datos de 2024, LATAM tiene casi el doble de capacidad que GOL (3,5-3,79 millones de asientos ofertados frente a los ~8,7-9 millones de LATAM) y transporta más del doble de pasajeros que su competidor más cercano. En los cinco mercados domésticos donde opera (Brasil, Chile, Colombia, Ecuador y Perú), LATAM es la aerolínea número uno o número dos en participación de mercado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
@@ -102,7 +102,7 @@ En 2025, LATAM Airlines fue galardonada por Skytrax como la "Mejor Aerolínea de
 
 El 22 de junio de 2012 marcó el inicio de una nueva era para la aviación en América Latina, cuando dos aerolíneas con más de 80 años de historia combinada se unieron para crear un gigante regional que sigue siendo, en 2026, el grupo aéreo más grande de la región.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 
@@ -116,13 +116,13 @@ El 22 de junio de 2012 marcó el inicio de una nueva era para la aviación en Am
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La fecha de la fusión es el <strong>22 de junio de 2012</strong>, cuando se completaron las transacciones legales y se constituyó formalmente el nuevo holding. El lanzamiento de la marca unificada LATAM para las filiales se produjo en 2015. El proceso de integración operativa y de marca fue gradual y continuó durante varios años después de la fusión.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 
