@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "19 de abril de 1874 | Nacimiento de Gertrude Bacon"
+title: "19 de abril de 1874 | Nacimiento de Gertrude Bacon, pionera británica de la aeronáutica y cronista del vuelo"
 date: 1874-04-19
 categories: [nacimiento]
 author: Enrique Pomares

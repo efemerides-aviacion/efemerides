@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "25 de noviembre de 1895 | Nacimiento de Adrienne Bolland"
+title: "25 de noviembre de 1895 | Nacimiento de Adrienne Bolland, primera mujer en cruzar los Andes por aire"
 date: 1895-11-25
 categories: [nacimiento]
 author: Enrique Pomares

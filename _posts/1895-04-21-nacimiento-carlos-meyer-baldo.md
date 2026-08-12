@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "21 de abril de 1895 | Nacimiento de Carlos Meyer Baldó"
+title: "21 de abril de 1895 | Nacimiento de Carlos Meyer Baldó, el as de caza venezolano del «Circo Volante» del Barón Rojo"
 date: 1895-04-21
 categories: [nacimiento]
 author: Enrique Pomares

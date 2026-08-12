@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "19 de abril de 1922 | Nacimiento de Erich Alfred Hartmann"
+title: "19 de abril de 1922 | Nacimiento de Erich Alfred Hartmann, el as de caza con más victorias de la historia"
 date: 1922-04-19
 categories: [nacimiento]
 author: Enrique Pomares

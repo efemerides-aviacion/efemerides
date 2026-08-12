@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "26 de abril de 1896 | Nacimiento de Ernst Udet"
+title: "26 de abril de 1896 | Nacimiento de Ernst Udet, segundo as alemán de la Primera Guerra Mundial"
 date: 1896-04-26
 categories: [nacimiento]
 author: Enrique Pomares

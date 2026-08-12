@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "13 de abril de 1892 | Nacimiento de Sir Arthur Harris"
+title: "13 de abril de 1892 | Nacimiento de Sir Arthur Harris, mariscal del aire y jefe del Bomber Command de la RAF"
 date: 1892-04-13
 categories: [nacimiento]
 author: Enrique Pomares

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "21 de diciembre de 1895 | Nacimiento de Donald Hudson"
+title: "21 de diciembre de 1895 | Nacimiento de Donald Hudson, as estadounidense de la Primera Guerra Mundial y pionero de la aviación en Bolivia"
 date: 1895-12-21
 categories: [nacimiento]
 author: Enrique Pomares

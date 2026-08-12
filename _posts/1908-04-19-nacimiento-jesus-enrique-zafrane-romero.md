@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "19 de abril de 1908 | Nacimiento de Jesús Enrique Zafrané Romero"
+title: "19 de abril de 1908 | Nacimiento de Jesús Enrique Zafrané Romero, primer piloto de caza de Venezuela"
 date: 1908-04-19
 categories: [nacimiento]
 author: Enrique Pomares

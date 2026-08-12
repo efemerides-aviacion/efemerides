@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "13 de marzo de 1872 | Nacimiento de Ferdinand Marie Léon Delagrange"
+title: "13 de marzo de 1872 | Nacimiento de Ferdinand Marie Léon Delagrange, escultor y pionero de la aviación francesa"
 date: 1872-03-13
 categories: [nacimiento]
 author: Enrique Pomares
