@@ -15,13 +15,13 @@ image: 1918-05-15-servicio-regular-correo-aereo-usa.webp
   <figcaption class="post-caption">El Segundo Teniente George Leroy Boyle despega en el Curtiss JN-4HM S.C. 38262 aproximadamente a las 11:45 a.m. del 15 de mayo de 1918. Fuente: Smithsonian Institution / This Day in Aviation.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Resumen Ejecutivo
 
 El 15 de mayo de 1918, el Servicio Postal de los Estados Unidos, en cooperación con el Cuerpo de Señales del Ejército, inauguró el primer servicio regular de correo aéreo del país, cubriendo la ruta entre Washington D.C., Filadelfia y Nueva York. Aunque los vuelos inaugurales enfrentaron contratiempos —incluyendo que el piloto del primer avión se desorientó en la niebla y realizó un aterrizaje forzoso—, el servicio demostró la viabilidad del transporte aéreo comercial y sentó las bases para el desarrollo de la aviación civil estadounidense. En sus primeros meses, el servicio fue operado por pilotos del Ejército, y a partir del 12 de agosto de 1918 pasó a ser gestionado enteramente por el Servicio Postal.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -39,7 +39,7 @@ El 15 de mayo de 1918, el Servicio Postal de los Estados Unidos, en cooperación
 - **Frecuencia:** Diaria (excepto domingos)
 - **Transferencia al Servicio Postal:** 12 de agosto de 1918
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del Curtiss JN-4HM
 
@@ -56,7 +56,7 @@ El 15 de mayo de 1918, el Servicio Postal de los Estados Unidos, en cooperación
 - **Material:** Madera y tela
 - **Uso original:** Entrenador militar; modificado para el servicio postal con mayor capacidad de combustible y compartimento para correo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -74,7 +74,7 @@ Inicialmente, el servicio fue operado conjuntamente por el Servicio Postal (que 
 
 A partir del 12 de agosto de 1918, el Servicio Postal asumió el control total, contratando a sus propios pilotos civiles.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El vuelo inaugural del 15 de mayo de 1918
 
@@ -106,7 +106,7 @@ El Mayor Fleet quería reemplazar a Boyle, pero fue anulado por los funcionarios
 
 A pesar del fracaso de Boyle, el servicio fue un éxito gracias a otros pilotos. El Mayor Fleet había volado esa misma mañana desde Filadelfia a Washington. Otro piloto, el Teniente James C. Edgerton, despegó de Nueva York a las 11:30 a.m., llegó a Filadelfia a la 1:06 p.m. y, tras un breve transbordo, continuó hacia Washington, aterrizando antes de las 3:00 p.m., completando con éxito el primer vuelo regular de correo aéreo en la dirección sur.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El sello de 24 centavos y la "Inverted Jenny"
 
@@ -116,7 +116,7 @@ Debido a un error de impresión, en algunos sellos la imagen del avión (impresa
 
 Irónicamente, el avión representado en el sello lleva el número de serie 38262, el mismo avión pilotado por el Teniente Boyle en su desafortunado vuelo inaugural.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -131,7 +131,7 @@ Irónicamente, el avión representado en el sello lleva el número de serie 3826
 - **Mayo de 1920:** Se establece la ruta transcontinental Nueva York – San Francisco.
 - **1925:** Ley Kelly Air Mail (Kelly Act), que permite al Servicio Postal contratar el transporte de correo a aerolíneas privadas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Los desafíos y el legado
 
@@ -139,7 +139,7 @@ A pesar de un comienzo accidentado —el Teniente Boyle se desorientó en la nie
 
 El correo aéreo demostró ser la chispa que encendió la industria aeronáutica estadounidense. Las rutas se expandieron rápidamente. En 1920, ya existía un servicio transcontinental entre Nueva York y San Francisco. El gobierno instaló un sistema de luces de navegación y balizas a lo largo de las rutas, permitiendo el vuelo nocturno y en condiciones climáticas adversas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -149,7 +149,7 @@ El correo aéreo demostró ser la chispa que encendió la industria aeronáutica
 - **Innovación tecnológica:** La demanda de aviones más grandes, confiables y con mayor alcance impulsó la innovación en la industria aeronáutica.
 - **Precedente legal:** La Ley Kelly de 1925 (Kelly Act) sentó las bases para el sistema de aerolíneas comerciales que conocemos hoy, al permitir que el gobierno contratara el transporte de correo a empresas privadas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -167,7 +167,7 @@ Una placa conmemorativa erigida por el Aero Club de Washington en el lugar de la
 <p><strong>Sobre el "Inverted Jenny":</strong> El error de impresión que creó el "Inverted Jenny" (la Jenny Invertida) ocurrió porque la plancha de impresión del color azul (el avión) se colocó al revés. Solo se produjo una hoja de 100 sellos con este error, que se dispersaron y se convirtieron en uno de los objetos más codiciados por los filatelistas. El avión representado lleva el número de serie 38262, el mismo del avión de Boyle.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -181,7 +181,7 @@ Una placa conmemorativa erigida por el Aero Club de Washington en el lugar de la
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

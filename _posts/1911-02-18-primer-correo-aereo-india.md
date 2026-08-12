@@ -15,14 +15,14 @@ image: 1911-02-18-primer-correo-aereo-india.webp
   <figcaption class="post-caption">Henri Pequet en su biplano Humber-Sommer, usado el 18 de febrero de 1911 para el primer correo aéreo oficial entre Allahabad y Naini, India. Smithsonian National Postal Museum, “World's First Official Air Mail by Airplane, India, 1911.
 </figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 18 de febrero de 1911, el piloto francés Henri Pequet realizó el primer vuelo oficial de correo aéreo del mundo en un biplano Humber-Sommer. Transportó unas 6,500 cartas desde Allahabad a Naini en un trayecto de 13 minutos, marcando el inicio de la aviación civil en India y estableciendo un precedente global en el servicio postal aéreo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 18 de febrero de 1911  
 - **Lugar:** De Allahabad (Prayagraj) a Naini, India  
@@ -33,7 +33,7 @@ image: 1911-02-18-primer-correo-aereo-india.webp
 - **Carga transportada:** 6,500 cartas y tarjetas con matasellos especial “First Aerial Post, 1911, U.P. Exhibition Allahabad”  
 - **Resultado inmediato:** Primer transporte oficial de correo aéreo del mundo  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El evento se organizó durante la Exposición de Allahabad y la Kumbh Mela de 1911, como iniciativa para recaudar fondos para un albergue juvenil del reverendo W.E.S. Holland. Fue coordinado por Walter Windham, pionero británico de la aviación.
 
@@ -50,7 +50,7 @@ El evento se organizó durante la Exposición de Allahabad y la Kumbh Mela de 19
 ### Legado
 El vuelo es reconocido por Guinness World Records como el primer transporte oficial de correo aéreo. En 2011, India conmemoró el centenario con una hoja filatélica y recreación del vuelo. Hoy se recuerda como un hito de la aviación mundial y de la historia postal.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -69,7 +69,7 @@ El vuelo es reconocido por Guinness World Records como el primer transporte ofic
 <p><strong>Nota aclaratoria:</strong> Aunque hubo vuelos experimentales previos, este fue el primer transporte oficial reconocido de correo aéreo en el mundo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-16 13:45 CST  
 - **Fuentes primarias consultadas:** National Postal Museum, PIB India, Guinness World Records  

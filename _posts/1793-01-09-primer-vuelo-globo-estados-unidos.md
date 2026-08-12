@@ -15,13 +15,13 @@ image: 1793-01-09-primer-vuelo-globo-estados-unidos.webp
   <figcaption class="post-caption">Jean-Pierre Blanchard prepara su globo aerostático de hidrógeno (seda amarilla) en el patio interior de la Prisión de Walnut Street, Filadelfia (EE.UU.), 9 de enero de 1793. Primer vuelo no amarrado en Norteamérica, ante George Washington y futuros presidentes; llevó la primera carta aérea de EE.UU. (FAA). Fuente: <a href="https://www.faa.gov/blog/clearedfortakeoff/first-flight-america">First Flight in America</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="highlight-box">
 <p>El 9 de enero de 1793, el aeronauta francés Jean-Pierre Blanchard realizó el primer vuelo en globo de la historia en América, despegando desde Filadelfia ante el presidente George Washington y otros futuros mandatarios. El vuelo duró 46 minutos, recorrió 24 km y portó la primera carta aérea de Estados Unidos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 9 de enero de 1793
@@ -32,7 +32,7 @@ image: 1793-01-09-primer-vuelo-globo-estados-unidos.webp
 - **Trayectoria:** 24 km hasta Deptford, Nueva Jersey
 - **Resultado inmediato:** Primer vuelo en globo en América y primer correo aéreo del país
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto histórico
 
@@ -63,7 +63,7 @@ El vuelo de Blanchard en Filadelfia marcó la llegada de la aerostación al cont
 - El episodio del "primer correo aéreo" anticipó la importancia del transporte aéreo en la comunicación.
 - A pesar de sus dificultades económicas posteriores, Blanchard dejó una huella duradera en la historia de la aviación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias verificadas
 <div class="references">
@@ -81,7 +81,7 @@ El vuelo de Blanchard en Filadelfia marcó la llegada de la aerostación al cont
 <p><strong>Nota aclaratoria:</strong> Las fuentes difieren en la altura alcanzada por el globo (entre 366 y 1.768 metros). Esta efeméride adopta la cifra más conservadora (366 m) como referencia principal.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-03-07 17:30 CST

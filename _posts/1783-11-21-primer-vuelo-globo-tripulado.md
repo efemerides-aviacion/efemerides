@@ -15,13 +15,13 @@ image: 1783-11-21-primer-vuelo-globo-tripulado.webp
   <figcaption class="post-caption">Jean-François Pilâtre de Rozier y François Laurent, marqués d'Arlandes, ascendiendo en un globo Montgolfier en el Château de la Muette, París, 21 de noviembre de 1783. Fuente: Encyclopaedia Britannica.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Resumen Ejecutivo
 
 El 21 de noviembre de 1783, a las 2:00 p.m., Jean-François Pilâtre de Rozier y el marqués François Laurent d'Arlandes se convirtieron en los primeros seres humanos en realizar un vuelo libre tripulado, ascendiendo a bordo de un globo de aire caliente diseñado por los hermanos Joseph-Michel y Jacques-Étienne Montgolfier. El vuelo despegó desde el Château de la Muette, en los alrededores de París, ante una multitud estimada de 400.000 personas, incluyendo al rey Luis XVI. Durante 25 minutos, los aeronautas recorrieron aproximadamente 9 kilómetros, alcanzando una altitud de unos 900 metros, hasta aterrizar entre dos molinos de viento en Butte-aux-Cailles.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -43,7 +43,7 @@ El 21 de noviembre de 1783, a las 2:00 p.m., Jean-François Pilâtre de Rozier y
 - **Espectadores:** Estimados en 400.000 personas, incluyendo al rey Luis XVI
 - **Combustible:** Paja y lana quemadas en un brasero suspendido debajo del globo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del globo Montgolfier
 
@@ -60,7 +60,7 @@ El 21 de noviembre de 1783, a las 2:00 p.m., Jean-François Pilâtre de Rozier y
 - **Capacidad:** 2 personas
 - **Principio de funcionamiento:** El aire caliente dentro del globo es menos denso que el aire exterior, generando sustentación
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -78,7 +78,7 @@ El camino hacia el primer vuelo tripulado estuvo marcado por una serie de experi
 
 Tras el éxito del vuelo con animales, el rey Luis XVI inicialmente propuso que dos criminales condenados a muerte fueran los primeros en volar, ofreciéndoles el indulto. Sin embargo, la intervención de Pilâtre de Rozier, un joven físico y químico que había participado en los experimentos previos, convenció al monarca de que el honor de ser el primer aeronauta debía recaer en personas de bien. Finalmente, se autorizó a de Rozier y al marqués d'Arlandes a realizar el vuelo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El vuelo del 21 de noviembre de 1783
 
@@ -100,7 +100,7 @@ El vuelo duró aproximadamente 25 minutos. El globo recorrió unos 9 kilómetros
 
 Finalmente, el globo descendió suavemente y aterrizó entre dos molinos de viento en la colina de Butte-aux-Cailles, en las afueras de París. De Rozier y d'Arlandes descendieron de la galería, exhaustos pero exultantes. La hazaña había sido completada. Podrían haber volado más lejos, pero las brasas del fuego ya estaban comenzando a chamuscar el globo, poniendo en riesgo la integridad de la aeronave.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -112,7 +112,7 @@ Finalmente, el globo descendió suavemente y aterrizó entre dos molinos de vien
 - **7 de enero de 1785:** Jean-Pierre Blanchard y John Jeffries [cruzan el Canal de la Mancha en globo](https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html)  
 - **15 de junio de 1785:** Pilâtre de Rozier fallece al estrellarse su globo al intentar cruzar el Canal de la Mancha 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Los protagonistas
 
@@ -128,7 +128,7 @@ Aristócrata francés, oficial del ejército. Acompañó a de Rozier en el vuelo
 
 Hijos de un próspero fabricante de papel de Annonay. Fueron los inventores del globo de aire caliente. Observando cómo las cenizas y el humo ascendían por la chimenea, concibieron la idea de que el aire caliente atrapado en una bolsa ligera podría elevarla. Aunque no participaron en el primer vuelo tripulado, su contribución a la aeronáutica es fundamental. Joseph-Michel también inventó la prensa hidráulica y mejoró la fabricación de papel.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -138,7 +138,7 @@ Hijos de un próspero fabricante de papel de Annonay. Fueron los inventores del 
 - **Precursor de los dirigibles:** Los principios de control de altitud mediante lastre y válvulas desarrollados por los primeros aeronautas sentaron las bases para los dirigibles del siglo XIX y XX.
 - **Inspiración para futuros pioneros:** La hazaña inspiró a una generación de inventores y aventureros a seguir explorando las posibilidades del vuelo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -158,7 +158,7 @@ Pilâtre de Rozier, trágicamente, tiene el dudoso honor de ser la primera víct
 <p><strong>Sobre la distancia recorrida:</strong> Las fuentes indican que el globo recorrió entre 8 y 9 kilómetros (5 a 5,5 millas). La cifra de 9 kilómetros es la más aceptada.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -173,7 +173,7 @@ Pilâtre de Rozier, trágicamente, tiene el dudoso honor de ser la primera víct
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
