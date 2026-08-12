@@ -15,14 +15,14 @@ image: 1946-04-24-fundacion-equipo-acrobatico-blue-angels.webp
   <figcaption class="post-caption">El primer Escuadrón de Demostración Aérea «Blue Angels» de la Armada (1946-1947), reunido frente a uno de sus Grumman F6F Hellcat (de izquierda a derecha): el teniente Al Taddeo, piloto solista; el teniente (J.G.) Gale Stouse, piloto suplente; el capitán de corbeta R.M. «Butch» Voris, jefe de vuelo; el teniente Maurice «Wick» Wickendoll, ala derecha; el teniente Mel Cassidy, ala izquierda. Fuente: Wikipedia - Blue Angels.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 24 de abril de 1946, por orden del Almirante Chester W. Nimitz, Jefe de Operaciones Navales de EE. UU., se fundó el equipo de demostración aérea de la Armada "Blue Angels" para elevar la moral naval y atraer apoyo público a la aviación naval post-Segunda Guerra Mundial. Inicialmente volaron con Grumman F6F-5 Hellcat, realizando su primer show el 15 de junio de 1946 en Jacksonville, Florida. Es el segundo equipo acrobático formal más antiguo del mundo, tras la Patrouille de France (1931).</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 
@@ -35,7 +35,7 @@ image: 1946-04-24-fundacion-equipo-acrobatico-blue-angels.webp
 - **Entrenamiento inicial:** En secreto sobre los Everglades de Florida
 - **Antigüedad:** Segundo equipo acrobático oficial más antiguo del mundo (detrás de la Patrouille de France, fundada en 1931)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -70,7 +70,7 @@ La elección del nombre "Blue Angels" (Ángeles Azules) surgió de una visita de
 - **1986:** Transición al McDonnell Douglas F/A-18 Hornet, coincidiendo con el 40 aniversario.
 - **2021:** Transición al Boeing F/A-18E/F Super Hornet y celebración del 75 aniversario.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## La fundación: el nacimiento de los Ángeles Azules
 
@@ -96,7 +96,7 @@ Conscientes de que cualquier accidente podría significar el fin del proyecto, V
 
 El 15 de junio de 1946, el equipo realizó su primer espectáculo público en NAS Jacksonville. Un mes después, adoptaron el nombre "Blue Angels", inspirado en un club nocturno de Nueva York que el equipo había visitado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Aeronaves históricas del equipo
 
@@ -116,7 +116,7 @@ Los Blue Angels han volado diez tipos de aeronaves de demostración a lo largo d
 
 Además de los cazas, el equipo opera un avión de transporte conocido como "Fat Albert". El primer C-130 se unió al equipo en 1970. Tripulado por una dotación del Cuerpo de Marines de EE. UU., "Fat Albert" abre cada espectáculo con una demostración de las capacidades tácticas del C-130, incluyendo despegues de combate y aterrizajes cortos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Maniobras emblemáticas
 
@@ -128,7 +128,7 @@ Los Blue Angels son famosos por sus maniobras de precisión. Entre las más cono
 - **Fortus:** Dos aviones vuelan a 150 pies de altura, uno invertido y el otro normal, dando la impresión de un solo avión con dos juegos de ruedas.
 - **Tuck Away Cross:** Dos aviones se cruzan a 200 pies de altura separados por apenas 30-45 metros, realizando un giro de 270 grados.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -140,7 +140,7 @@ Los Blue Angels son famosos por sus maniobras de precisión. Entre las más cono
 
 - **Innovación en seguridad:** Las rigurosas exigencias del vuelo en formación cerrada han impulsado innovaciones en comunicaciones, procedimientos de seguridad y mantenimiento de aeronaves.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
@@ -150,14 +150,14 @@ Más de 300 pilotos han servido como Blue Angels a lo largo de ocho décadas, re
 
 Los Blue Angels no son solo un equipo acrobático; son embajadores de la aviación naval y un recordatorio del ingenio, el valor y la precisión que caracterizan a las fuerzas armadas estadounidenses. Al celebrar su 80 aniversario en 2026, continúan inspirando a nuevas generaciones a mirar hacia el cielo.
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha de fundación:</strong> El 24 de abril de 1946 es la fecha de la directiva del Almirante Nimitz ordenando la creación del equipo. Algunas fuentes mencionan el 2 de abril de 1946 como la fecha en que Nimitz ordenó el estudio de viabilidad, pero la fundación oficial del equipo se conmemora el 24 de abril, cuando se emitió la directiva y se seleccionó a Butch Voris como líder. El primer espectáculo público tuvo lugar el 15 de junio de 1946.</p>
 <p><strong>Sobre la antigüedad mundial:</strong> Los Blue Angels son el segundo equipo acrobático formal más antiguo del mundo. El más antiguo es la Patrouille de France, fundada en 1931 por la Armée de l'Air francesa. Otros equipos como los Thunderbirds de la USAF (1953) o las Frecce Tricolori italianas (1961) son posteriores.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 
@@ -172,7 +172,7 @@ Los Blue Angels no son solo un equipo acrobático; son embajadores de la aviaci�
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 

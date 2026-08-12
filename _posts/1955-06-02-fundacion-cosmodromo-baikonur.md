@@ -14,13 +14,13 @@ image: 1955-06-02-fundacion-cosmodromo-baikonur.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1955-06-02-fundacion-cosmodromo-baikonur.webp" alt="Vista aérea del Cosmódromo de Baikonur">
   <figcaption class="post-caption">Mapa esquemático del Cosmódromo de Baikonur, principal centro de lanzamientos espaciales soviético, cuya fundación se realizó el 2 de junio de 1955 en Kazajistán; fuente: ESA, “Baikonur Cosmodrome”.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Resumen Ejecutivo
 
 El 2 de junio de 1955, las autoridades soviéticas establecieron oficialmente el **Quinto Sitio de Pruebas de Investigación Científica** (NIIP-5), más conocido como el **Cosmódromo de Baikonur**, en la estepa de Kazajistán . Concebido originalmente como un polígono de pruebas para el misil balístico intercontinental R-7 de Serguéi Koroliov, su ubicación remota ofrecía aislamiento y seguridad para los ensayos . El decreto fundacional fue aprobado el 12 de febrero de 1955, y el 2 de junio se formalizó su estructura organizativa y de personal . Desde este cosmódromo, el 4 de octubre de 1957 despegó el **Sputnik 1**, el primer satélite artificial de la historia, inaugurando la era espacial . El 12 de abril de 1961, desde la misma plataforma (Gagarin's Start), el **Vostok 1** transportó a **Yuri Gagarin**, el primer ser humano en orbitar la Tierra . Baikonur ha sido el puerto de lanzamiento de miles de misiones, incluyendo el primer vuelo de una mujer al espacio (Valentina Tereshkova, 1963) y el primer vehículo de aterrizaje lunar (Luna 9, 1966) . Tras la disolución de la Unión Soviética, Baikonur quedó en territorio de la recién independizada Kazajistán y actualmente es operado por Rusia bajo un régimen de arrendamiento .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Datos verificados del evento
 
@@ -45,7 +45,7 @@ El 2 de junio de 1955, las autoridades soviéticas establecieron oficialmente el
   - 31 de octubre de 2000: Lanzamiento de la Soyuz TM-31 (primera tripulación de la ISS)
 - **Rampa de lanzamiento más famosa:** "Gagarin's Start" (Plataforma Nº 1)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Contexto Histórico
 
@@ -63,7 +63,7 @@ Baikonur fue diseñado específicamente para probar el **misil R-7** (designaci�
 
 El cosmódromo fue un secreto de estado durante décadas. Su verdadera ubicación era un misterio para Occidente. Los soviéticos utilizaron el nombre "Baikonur" (una ciudad minera abandonada a 320 km de distancia) como una "cortina de humo" para despistar. Los habitantes de la nueva ciudad no podían recibir correspondencia con su dirección real; usaban códigos postales militares. Incluso el arquitecto jefe, G. M. Shchusev, fue encargado personalmente por Nikita Khrushchev para diseñar la ciudad, que incluía viviendas, escuelas, hospitales y cines, para que los trabajadores pudieran vivir con sus familias. La ciudad fue renombrada "Leninsk" en honor a Lenin, y más tarde "Baikonur" (en 1995) para reflejar la ubicación real.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Desarrollo Cronológico de Baikonur
 
@@ -84,7 +84,7 @@ El cosmódromo fue un secreto de estado durante décadas. Su verdadera ubicació
 - **2000:** Primer lanzamiento de una tripulación hacia la Estación Espacial Internacional (ISS) .
 - **2020:** Lanzamiento de la misión Crew Dragon (SpaceX) desde Cabo Cañaveral, que no afecta el estatus de Baikonur como el cosmódromo más activo del mundo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## La Ciudad de Baikonur (antigua Leninsk)
 
@@ -97,7 +97,7 @@ La construcción del cosmódromo requirió la creación de una ciudad satélite 
 - **Estatus legal:** Tiene el estatus de "ciudad de importancia republicana" en Kazajistán, pero está administrada conjuntamente por Rusia y Kazajistán según el acuerdo de arrendamiento.
 - **Acceso:** La ciudad y el cosmódromo son zonas restringidas; se requiere autorización especial para visitarlos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Consecuencias e Impacto
 
@@ -107,7 +107,7 @@ La construcción del cosmódromo requirió la creación de una ciudad satélite 
 - **Símbolo de cooperación internacional:** Baikonur ha sido utilizado por agencias espaciales de todo el mundo (NASA, ESA, etc.) para lanzar astronautas y cargamento hacia la ISS .
 - **Turismo espacial:** Baikonur fue el punto de despegue de los primeros turistas espaciales (Dennis Tito, 2001; Mark Shuttleworth, 2002; etc.) .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Legado
 
@@ -118,7 +118,7 @@ El Cosmódromo de Baikonur es un lugar de peregrinación para los entusiastas de
 - **Patrimonio de la humanidad:** Aunque no está inscrito como tal, su importancia histórica es indiscutible. El cosmódromo es parte del "Sendero del Espacio" (Space Trail) que incluye la Casa de Koroliov en Moscú y otros sitios conmemorativos.
 - **El futuro:** A pesar del desarrollo de nuevos cosmódromos en Rusia (Vostochny, en el Lejano Oriente ruso, cuyo primer lanzamiento fue en 2016), Baikonur sigue siendo una pieza clave en la estrategia espacial rusa, especialmente para lanzamientos tripulados hacia la ISS.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Referencias Verificadas
 
@@ -133,7 +133,7 @@ El Cosmódromo de Baikonur es un lugar de peregrinación para los entusiastas de
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -144,7 +144,7 @@ El Cosmódromo de Baikonur es un lugar de peregrinación para los entusiastas de
   <p><strong>5. Relación con otras efemérides:</strong> Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1961/04/12/primer-humano-orbitar-la-tierra.html" style="color: #315fea; text-decoration: none;">efeméride del vuelo de Yuri Gagarin</a> para más detalles sobre uno de los hitos más importantes lanzados desde Baikonur.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 ## Metadatos de Control
 

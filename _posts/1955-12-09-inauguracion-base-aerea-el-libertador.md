@@ -14,14 +14,14 @@ image: 1955-12-09-inauguracion-base-aerea-el-libertador.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1955-12-09-inauguracion-base-aerea-el-libertador.jpg" alt="Marcos Pérez Jiménez en la inauguración de la BAEL">
   <figcaption class="post-caption">Marcos Pérez Jiménez pasando revista en las instalaciones de la Base Aérea El Libertador en Palo Negro, Aragua, el día de su inauguración, 9 de diciembre de 1955. (Fuente: Archivo oficial / Aviación Militar Bolivariana).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 9 de diciembre de 1955 se inauguró oficialmente la Base Aérea El Libertador (BAEL) en Palo Negro, Estado Aragua. Concebida como parte de la modernización militar bajo el gobierno de Marcos Pérez Jiménez, se consolidó como la mayor base aérea de Venezuela y centro neurálgico de la defensa aérea nacional.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Datos verificados del evento
 - **Fecha:** 9 de diciembre de 1955  
 - **Lugar:** Palo Negro, Municipio José Ángel Lamas, Estado Aragua, Venezuela  
@@ -31,7 +31,7 @@ image: 1955-12-09-inauguracion-base-aerea-el-libertador.jpg
 - **Operador actual:** Aviación Militar Bolivariana  
 - **Importancia:** Mayor base aérea de Venezuela, sede de unidades de combate y entrenamiento  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Contexto Histórico
 Durante la primera mitad de los años 50, Venezuela emprendió un proceso de modernización militar. La construcción de la torre de control en 1952 marcó el inicio de las operaciones en Palo Negro. Tres años después, la inauguración oficial consolidó la base como infraestructura estratégica de la Fuerza Aérea Venezolana.
 
@@ -48,7 +48,7 @@ Durante la primera mitad de los años 50, Venezuela emprendió un proceso de mod
 ### Legado
 La BAEL continúa siendo la principal base aérea de Venezuela, albergando unidades de transporte, combate, entrenamiento y ala rotatoria, además de infraestructura logística para sistemas de armas. Su relevancia histórica se mantiene como símbolo de la aviación militar venezolana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -59,11 +59,14 @@ La BAEL continúa siendo la principal base aérea de Venezuela, albergando unida
   </ul>
 </div>
 
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La construcción de la torre de control en 1952 marcó el inicio de actividades, mientras que la inauguración oficial se realizó en 1955. Ambas fases se consignan como parte del proceso fundacional.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-08 08:50 CST  
 - **Fuentes primarias consultadas:** Resolución N.º 707 (Ministerio de la Defensa), registros de la Aviación Militar Bolivariana  
