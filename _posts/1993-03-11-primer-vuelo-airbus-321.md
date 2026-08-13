@@ -14,8 +14,7 @@ image: 1993-03-11-primer-vuelo-airbus-321.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1993-03-11-primer-vuelo-airbus-321.jpg" alt="Airbus A321">
   <figcaption class="post-caption">Prototipo Airbus A321 (msn 023, F-WWIA), durante su primer vuelo el 11 de marzo de 1993 desde la planta de Airbus en Hamburg-Finkenwerder (XFW), pilotado por Karl-Eugen Nagel. Fuente: Airways Magazine.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 11 de marzo de 1993 despegó por primera vez desde Hamburg-Finkenwerder el prototipo Airbus A321, versión de fuselaje alargado de la familia A320, impulsado por motores IAE V2500. Este vuelo inaugural abrió el camino para un modelo concebido como competidor directo del Boeing 757, ofreciendo mayor capacidad de pasajeros con elevada comunalidad respecto al A320. Lufthansa y Alitalia se convirtieron en clientes de lanzamiento, recibiendo sus primeros A321 en 1994 y consolidando la presencia del tipo en el mercado europeo. Con el tiempo, el A321 evolucionó hacia variantes de mayor alcance y eficiencia (A321neo, LR y XLR), que hoy forman parte esencial de las flotas de pasillo único en todo el mundo.</p>

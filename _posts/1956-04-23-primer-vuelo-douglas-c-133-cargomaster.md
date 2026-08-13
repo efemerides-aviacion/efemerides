@@ -15,8 +15,7 @@ image: 1956-04-23-primer-vuelo-douglas-c-133-cargomaster.webp
   <figcaption class="post-caption">Douglas C-133A Cargomaster 54-0135 (MATS 40135), primer ejemplar de producción del modelo que realizó su vuelo inaugural el 23 de abril de 1956. Fuente: Air-Britain Photographic Images Collection / Mike Hines.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 23 de abril de 1956 realizó su primer vuelo el Douglas C-133A Cargomaster, un avión de transporte estratégico de carga desarrollado por Douglas Aircraft Company para la Fuerza Aérea de EE. UU. (USAF). Sin construir prototipos, pasó directamente a producción para cumplir con el requisito SS402L de soporte logístico. Pilotado por Jack Armstrong y Frank Boyer, despegó de Long Beach, California, y voló a Edwards AFB. Con cuatro motores turbohélice Pratt & Whitney T34-P-9W, el Cargomaster se convirtió en el principal transportador de misiles balísticos intercontinentales de la Guerra Fría.</p>

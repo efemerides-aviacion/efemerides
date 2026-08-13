@@ -14,8 +14,7 @@ image: 1967-05-19-primer-vuelo-mirage-v.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1967-05-19-primer-vuelo-mirage-v.webp" alt="Dassault Mirage V en su primer vuelo">
   <figcaption class="post-caption">El prototipo del Dassault Mirage 5 estacionado en rampa el 19 de mayo de 1967, fecha de su primer vuelo. Fuente: Archivos Históricos de la Dassault Aviation.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 19 de mayo de 1967, el Dassault Mirage V (a veces denominado Mirage 5) realizó su vuelo inaugural desde la base aérea de Melun-Villaroche, en Francia. Este avión supersónico de ataque a tierra fue concebido como una versión simplificada y más económica del exitoso Mirage III, desarrollada específicamente para satisfacer las necesidades de la Fuerza Aérea de Israel (IAF), que requería un cazabombardero diurno optimizado para el clima despejado de Oriente Medio. La eliminación del radar y otros sistemas de aviónica complejos permitió aumentar la capacidad de combustible y reducir costes de mantenimiento. El embargo de los 50 ejemplares encargados por Israel a causa de la Guerra de los Seis Días llevó a que la Fuerza Aérea Francesa los adoptara como Mirage 5F, iniciando una prolífica carrera que lo convertiría en un éxito de exportación en todo el mundo.</p>

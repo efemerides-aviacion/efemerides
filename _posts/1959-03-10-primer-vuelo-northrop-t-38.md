@@ -14,8 +14,7 @@ image: 1959-03-10-primer-vuelo-northrop-t-38.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1959-03-10-primer-vuelo-northrop-t-38.jpg" alt="Northrop T-38 Talon">
   <figcaption class="post-caption">Prototipo Northrop YT-38A Talon s/n 58-1191 en vuelo, circa 1959. Primer vuelo realizado el 10 de marzo de 1959 (otras fuentes lo ubican el 10 de abril de 1959) en Edwards AFB (California). Colección personal de Quentin H. Burden, publicada en Flickr por Skyhawk PC.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 10 de marzo de 1959, el prototipo YT-38 realizó el primer vuelo del Northrop T-38 Talon, convirtiéndose en el primer entrenador supersónico del mundo. Desarrollado a partir del proyecto privado N-156, su diseño innovador y bajo costo de ciclo de vida convencieron a la USAF, que lo adoptó en 1961. Con más de 1.180 unidades producidas, ha entrenado a más de 80.000 pilotos militares y astronautas de la NASA durante más de seis décadas, estableciendo récords de ascenso y ganándose el apodo de "White Rocket". Su longevidad y éxito lo consolidan como un hito fundamental en la historia de la aviación y, actualmente, está en proceso de relevo por el T-7 Red Hawk.</p>

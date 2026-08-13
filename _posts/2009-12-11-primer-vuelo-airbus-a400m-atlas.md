@@ -15,8 +15,7 @@ image: 2009-12-11-primer-vuelo-airbus-a400m-atlas.webp
   <figcaption class="post-caption">Primer vuelo del Airbus A400M MSN001 (Grizzly 1, matrícula temporal F-WWMT) desde el Aeropuerto de Sevilla-San Pablo, España, el 11 de diciembre de 2009. Fuente: Airbus Military / prensa especializada.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 11 de diciembre de 2009, a las 10:15 hora local, el prototipo MSN001 del Airbus A400M Atlas (apodado "Grizzly 1") despegó por primera vez desde el Aeropuerto de Sevilla-San Pablo. La tripulación, liderada por el jefe de pilotos de pruebas militares Ed Strongman y el piloto español Ignacio "Nacho" Lombo, completó un vuelo de 3 horas y 47 minutos que validó el diseño básico del avión. El A400M, impulsado por cuatro motores turbohélice Europrop TP400-D6 de 11.000 shp (8.200 kW) cada uno —los más potentes del mundo occidental—, estaba diseñado para reemplazar al C-130 Hercules y al C-160 Transall en siete naciones europeas. El programa había sufrido retrasos de casi tres años y crisis financieras que amenazaron su cancelación. El MSN001 acumuló 1.448 horas de vuelo antes de ser retirado en noviembre de 2013 y hoy se exhibe en el Museo Aeroscopia de Toulouse.</p>

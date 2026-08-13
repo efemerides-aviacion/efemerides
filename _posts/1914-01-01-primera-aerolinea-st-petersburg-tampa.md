@@ -15,8 +15,7 @@ image: 1914-01-01-primera-aerolinea-st-petersburg-tampa.jpg
   <figcaption class="post-caption">De izquierda a derecha: Percival E. Fansler, el exalcalde de San Petersburgo Abram C. Phiel y el piloto Antony H. Jannus junto al hidroavión Benoist XIV el 1 de enero de 1914.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="highlight-box">
 <p>La St. Petersburg–Tampa Airboat Line fue la primera aerolínea regular del mundo en utilizar aeronaves. Su vuelo inaugural el 1 de enero de 1914 marcó el inicio del transporte aéreo comercial.</p>
 </div>

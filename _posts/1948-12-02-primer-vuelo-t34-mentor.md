@@ -14,8 +14,7 @@ image: 1948-12-02-primer-vuelo-mentor-t34.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1948-12-02-primer-vuelo-mentor-t34.jpg" alt="Beechcraft T-34 Mentor">
   <figcaption class="post-caption">Un T-34 Mentor de la Fuerza Aérea Venezolana en misión de entrenamiento, década de 1960-1970. (Fuente: Inventario Histórico FAV / Fundación Infante de Orleans).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 2 de diciembre de 1948, el piloto de pruebas Vern Carstens realizó el primer vuelo del prototipo Beechcraft Model 45 (T-34 Mentor) en Wichita, Kansas. Desarrollado como iniciativa privada por Beech Aircraft, el T-34 se convirtió en entrenador primario para la USAF (T-34A, 1953) y USN (T-34B, 1955), con más de 1.900 unidades producidas inicialmente. Su diseño robusto y económico lo hizo icónico en la aviación militar global.</p>

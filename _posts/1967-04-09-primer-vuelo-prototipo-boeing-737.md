@@ -14,8 +14,7 @@ image: 1967-04-09-primer-vuelo-prototipo-boeing-737.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1967-04-09-primer-vuelo-prototipo-boeing-737.webp" alt="Prototipo del Boeing 737-100 durante su vuelo inaugural">
   <figcaption class="post-caption">El prototipo del Boeing 737-100 (matrícula N73700) durante su primer vuelo el 9 de abril de 1967 desde Boeing Field, Seattle. Fuente: <a href="https://historylink.org/File/3569">Prototype Boeing 737 short-range passenger jet makes its maiden flight on April 9, 1967</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 9 de abril de 1967, el prototipo del Boeing 737, matrícula N73700, despegó del Aeropuerto King County International (Boeing Field) en Seattle, Washington. A los mandos estaban los pilotos de pruebas Brien Wygle y Lew Wallick, realizando un vuelo de aproximadamente dos horas y media que culminó en Paine Field, Everett. El aparato, apodado cariñosamente «Baby Boeing», representó la entrada de la compañía en el mercado de los reactores bimotores de corto y medio alcance, un segmento donde competidores como Douglas con su DC-9 ya llevaban ventaja. Con este vuelo comenzó la historia de la familia de aviones de pasajeros más exitosa y longeva de la industria aeronáutica.</p>

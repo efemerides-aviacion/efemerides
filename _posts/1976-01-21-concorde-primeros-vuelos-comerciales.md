@@ -14,8 +14,7 @@ image: 1976-01-21-concorde-primeros-vuelos-comerciales.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1976-01-21-concorde-primeros-vuelos-comerciales.webp" alt="Primeros vuelos comerciales del Concorde">
   <figcaption class="post-caption">Despegues simultáneos de los primeros vuelos comerciales del Concorde: British Airways G‑BOAA desde Londres‑Heathrow y Air France F‑BVFA desde París‑Orly, 21 de enero de 1976.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 21 de enero de 1976, el avión supersónico Concorde inauguró simultáneamente su servicio comercial con dos vuelos: Air France AF459 (F‑BVFA) despegó de París‑Orly rumbo a Río de Janeiro vía Dakar, y British Airways BA300 (G‑BOAA) partió de Londres‑Heathrow hacia Bahréin. Estos vuelos marcaron el debut con pasajeros pagando del único avión de pasajeros supersónico en entrar en servicio regular, símbolo de la cooperación franco‑británica y de la era dorada de la aviación comercial.</p>

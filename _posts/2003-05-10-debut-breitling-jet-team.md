@@ -15,8 +15,7 @@ image: 2003-05-10-debut-breitling-jet-team.webp
   <figcaption class="post-caption">Breitling Jet Team en formación durante una exhibición aérea, probablemente de mediados de los 2010. Fuente: Probablemente Getty Images.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
 El 10 de mayo de 2003 debutó oficialmente el Breitling Jet Team en el Festival Aérien de Valenciennes, Francia, bajo patrocinio de Breitling tras el Khalifa Jet Team. Liderado por Jacques Bothelin desde Dijon, voló cuatro aviones Aero L-39 Albatros en su primera exhibición como el mayor equipo civil de jets de Europa. Marcó el inicio de 16 años de shows internacionales hasta 2019. 

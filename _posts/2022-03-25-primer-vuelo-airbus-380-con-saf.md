@@ -14,8 +14,7 @@ image: 2022-03-25-primer-vuelo-airbus-380-con-saf.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2022-03-25-primer-vuelo-airbus-380-con-saf.jpg" alt="Airbus A380 con combustible SAF">
   <figcaption class="post-caption">Airbus A380 MSN1 durante su primer vuelo con motor Rolls‑Royce Trent 900 alimentado 100% SAF, 25 marzo 2022, Toulouse‑Blagnac. © Airbus / Airbus Communications.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 25 de marzo de 2022, Airbus llevó a cabo el primer vuelo de un A380 con uno de sus motores funcionando exclusivamente con combustible de aviación sostenible (SAF). La aeronave de pruebas MSN1 despegó del aeropuerto de Toulouse‑Blagnac a las 08:43 horas y completó un vuelo de aproximadamente tres horas. Durante el ensayo, el motor Rolls‑Royce Trent 900 utilizó 27 toneladas de biocombustible no mezclado, mientras los otros tres motores operaron con queroseno convencional. Este hito forma parte de la estrategia de Airbus para certificar el uso de hasta 100% SAF en vuelos comerciales hacia 2030.</p>

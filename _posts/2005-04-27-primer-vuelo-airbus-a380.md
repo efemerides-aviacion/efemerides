@@ -15,8 +15,7 @@ image: 2005-04-27-primer-vuelo-airbus-a380.webp
   <figcaption class="post-caption">Airbus A380 en el vuelo inaugural del programa, Toulouse, 27 de abril de 2005; fuente: TallyHo / Antonio Segovia R.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El Airbus A380 realizó su primer vuelo el 27 de abril de 2005 desde Toulouse-Blagnac, Francia, con el prototipo MSN001/F-WWOW. El vuelo inaugural despegó alrededor de las 10:29-10:30 hora local y fue tripulado por seis personas, con Jacques Rosay y Claude Lelaie entre los pilotos de prueba. Fue el inicio de la campaña de ensayos del avión de pasajeros más grande del mundo, concebido para el mercado de muy alta densidad.</p>

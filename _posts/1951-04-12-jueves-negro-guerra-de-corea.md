@@ -14,8 +14,7 @@ image: 1951-04-12-jueves-negro-guerra-de-corea.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1951-04-12-jueves-negro-guerra-de-corea.webp" alt="Representación artística del Jueves Negro en el Callejón de los MiG">
   <figcaption class="post-caption">Representación artística del "Jueves Negro" (12 de abril de 1951), cuando MiG-15 soviéticos atacaron bombarderos B-29 Superfortress de la USAF en el Callejón de los MiG durante la Guerra de Corea. Fuente: <a href="https://warthunder.com/es/news/121--es">War Thunder</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 12 de abril de 1951, tres escuadrillas de cazas MiG-15 soviéticos (aproximadamente 30 aviones) atacaron una formación de bombarderos B-29 Superfortress de la Fuerza Aérea de Estados Unidos sobre el río Yalu, en el área noroccidental de Corea del Norte conocida como "Callejón de los MiG" (MiG Alley). Los bombarderos, escoltados por unos 100 cazas F-80 Shooting Star y F-84 Thunderjet, sufrieron la pérdida de tres B-29 y siete resultaron dañados, mientras que los MiG-15 se retiraron sin bajas. La acción, conocida como "Jueves Negro", obligó a la USAF a suspender los bombardeos estratégicos diurnos durante meses y a reforzar el uso de cazas F-86 Sabre y misiones nocturnas.</p>

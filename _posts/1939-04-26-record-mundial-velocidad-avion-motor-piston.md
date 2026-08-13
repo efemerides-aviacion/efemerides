@@ -15,8 +15,7 @@ image: 1939-04-26-record-mundial-velocidad-avion-motor-piston.webp
   <figcaption class="post-caption">Abril de 1939. Willy Messerschmitt y el piloto récord Fritz Wendel junto al Me 209 V1 (D‑INJR), en una fotografía de prensa vinculada al récord de velocidad. Fuente: This Day in Aviation; Flug Revue.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 26 de abril de 1939, el piloto de pruebas alemán Fritz Wendel estableció un nuevo récord mundial de velocidad en aviones con motor a pistón al volar el Messerschmitt Me 209 V1 (D‑INJR) sobre un circuito de 3 kilómetros en Augsburgo, alcanzando una velocidad media de 755,14 km/h (469,22 mph). Este récord, homologado por la Fédération Aéronautique Internationale (FAI), permaneció vigente durante aproximadamente 30 años, hasta ser superado en 1969 por Darryl Greenamyer con un Grumman F8F Bearcat modificado.</p>

@@ -15,8 +15,7 @@ image: 1952-04-15-primer-vuelo-yb-52-stratofortress.webp
   <figcaption class="post-caption">El Boeing YB-52 Stratofortress, con matrícula 49-231, despega del Boeing Field a las 11:08 de la mañana del 15 de abril de 1952. Fuente: Colección de Robert F. Dorr / This Day in Aviation.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 15 de abril de 1952, el prototipo YB-52 Stratofortress despegó del Boeing Field en Seattle, Washington, pilotado por el célebre piloto de pruebas Alvin M. "Tex" Johnston. Este vuelo histórico, con una duración aproximada de dos horas, marcó el nacimiento de un bombardero estratégico que redefinió el poder aéreo estadounidense durante la Guerra Fría. El YB-52 presentaba innovaciones radicales para su época: ocho motores turborreactores en cuatro góndolas subalares, alas con un barrido de 35 grados inspiradas en el exitoso B-47 Stratojet, y un tren de aterrizaje de bicicleta con ruedas de apoyo en las puntas de las alas. Aunque el prototipo XB-52 había sido el primero en diseñarse, el YB-52 fue el que realmente voló primero debido a daños en el XB-52 durante pruebas en tierra. Este evento inició una historia operativa que se extiende por más de siete décadas, consolidando al B-52 como el bombardero estratégico con el servicio continuo más largo en la historia de la aviación.</p>

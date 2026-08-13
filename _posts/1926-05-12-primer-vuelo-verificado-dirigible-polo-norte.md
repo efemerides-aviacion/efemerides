@@ -15,8 +15,7 @@ image: 1926-05-12-primer-vuelo-verificado-dirigible-polo-norte.webp
   <figcaption class="post-caption">El dirigible semirrígido Norge, diseñado por el ingeniero italiano Umberto Nobile y utilizado por Roald Amundsen en su histórica expedición al Polo Norte, aparece en esta fotografía de mayo de 1926 en vuelo. Fuente: Wikipedia.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
 El 12 de mayo de 1926, el dirigible Norge sobrevoló el Polo Norte en una travesía histórica entre Svalbard y Alaska. Fue una expedición internacional liderada por Roald Amundsen, con Umberto Nobile como piloto y diseñador de la aeronave. El vuelo es considerado el primer cruce aéreo verificado del Polo Norte en dirigible, marcando un hito en la exploración polar y demostrando el potencial de los dirigibles para la navegación en condiciones extremas.

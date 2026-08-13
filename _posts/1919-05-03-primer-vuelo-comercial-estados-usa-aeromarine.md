@@ -15,8 +15,7 @@ image: 1919-05-03-primer-vuelo-comercial-estados-usa-aeromarine.webp
   <figcaption class="post-caption">Aeromarine Model 50 Flying Boat, similar al utilizado en el primer vuelo comercial entre Nueva York y Atlantic City, el 3 de mayo de 1919. Foto de un hidroavión Aeromarine de 1919, propiedad de la colección de su sitio web de aeronaves históricas, Flying Machines.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 3 de mayo de 1919, el piloto estadounidense Robert Hewitt realizó el primer vuelo comercial con pasajeros entre dos estados de EE. UU.: Nueva York y Nueva Jersey, partiendo desde la costa de Nueva York hacia Atlantic City y de vuelta, con un Aeromarine Model 50 "S" Flying Boat. Este vuelo marcó también el primer servicio postal aéreo de la historia del continente americano, trasladando correo junto con dos pasajeras: la señora J. A. Hoagland y la señorita Ethel Hodges.</p>

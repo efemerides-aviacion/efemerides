@@ -14,8 +14,7 @@ image: 1942-01-13-primera-eyeccion-desde-avion.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1942-01-13-primera-eyeccion-desde-avion.jpg" alt="Primera eyección en la historia">
   <figcaption class="post-caption">Heinkel He 280 V1, DL+AS, el primer prototipo. Las entradas y salidas del motor están carenadas. Este avión se perdió el 13 de enero de 1942. Helmut Schenk se eyectó con éxito.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 13 de enero de 1942, el piloto de pruebas Helmut Schenk se convirtió en la primera persona en la historia en utilizar un asiento eyectable para abandonar un avión en vuelo. El hecho ocurrió durante un ensayo con el prototipo Heinkel He 280, un caza a reacción alemán.</p>

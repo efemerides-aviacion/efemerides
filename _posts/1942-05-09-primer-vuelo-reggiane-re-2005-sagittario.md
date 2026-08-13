@@ -15,8 +15,7 @@ image: 1942-05-09-primer-vuelo-reggiane-re-2005-sagittario.webp
   <figcaption class="post-caption">Reggiane Re.2005 Sagittario en configuración de pruebas, fotografiado durante su fase de desarrollo en 1942. Fuente: Wikipedia / Reggiane Re.2005 Sagittario.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 9 de mayo de 1942 marcó el primer vuelo del Reggiane Re.2005 Sagittario, uno de los cazas italianos más avanzados de la Segunda Guerra Mundial. Su relevancia histórica radica en que fue una de las últimas y más refinadas respuestas italianas al problema del caza moderno, destacando por su diseño aerodinámico y su alto potencial de rendimiento. Aunque llegó tarde para influir de forma decisiva en la guerra, el Re.2005 quedó como una referencia técnica de la industria aeronáutica italiana, considerado por muchos como uno de los mejores cazas del Eje.</p>

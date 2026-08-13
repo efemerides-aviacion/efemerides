@@ -15,8 +15,7 @@ image: 1913-05-13-primer-vuelo-russky-vityaz.webp
   <figcaption class="post-caption">El Russky Vityaz sobre la pista en San Petersburgo en 1913, el primer avión cuatrimotor del mundo y, poco después, perdido tras un accidente en tierra el 23 de junio de 1913. Fuente: This Day in Aviation, entrada “Russky Vityaz”.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
 El 13 de mayo de 1913, el Russky Vityaz realizó su primer vuelo en San Petersburgo, marcando un antes y un después en la historia de la aviación. Diseñado por Ígor Sikorsky, fue el primer avión cuatrimotor del mundo y el antecedente directo de los grandes aviones de transporte y bombarderos pesados. Este hito demostró que un avión de gran tamaño con múltiples motores podía ser operativo, algo que muchos expertos de la época consideraban imposible.

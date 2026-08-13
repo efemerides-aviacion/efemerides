@@ -14,8 +14,7 @@ image: 1918-03-24-john-trollope-7-victoria-1-dia.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1918-03-24-john-trollope-7-victoria-1-dia.jpg" alt="John Lightfoot Trollope">
   <figcaption class="post-caption">Capitán John Lightfoot Trollope en la cabina de su Sopwith Camel, marzo 1918 (período de sus 7 victorias el 24/03/1918). Fotografía histórica del as británico del Escuadrón No. 43 de la RAF.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 24 de marzo de 1918, el capitán John Lightfoot Trollope (No. 43 Squadron RAF) derribó siete aeronaves alemanas en dos patrullas con su Sopwith Camel C8270: dos DFW C.V y un Albatros D.V por la mañana, más cuatro DFW adicionales por la tarde. Fue el primer piloto británico en lograr siete victorias en un solo día, una hazaña que le valió la Barra de la Cruz Militar. En total acumuló 18 derribos en 1918 antes de ser derribado y capturado cuatro días después, perdiendo el brazo izquierdo.</p>

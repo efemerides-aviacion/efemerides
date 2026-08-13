@@ -15,8 +15,7 @@ image: 1941-04-18-primer-vuelo-prototipo-messerschmitt-me-262.webp
   <figcaption class="post-caption">Messerschmitt Me 262 V1 (PC+UA) durante sus pruebas iniciales de 1941, con motor de pistón Junkers Jumo 210G en el morro. Fuente: Archivo histórico Messerschmitt.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 18 de abril de 1941, el prototipo Messerschmitt Me 262 V1 realizó su primer vuelo en Augsburg, Alemania, pilotado por Fritz Wendel. Debido a que los motores turborreactores BMW 003 previstos no estaban listos, la aeronave fue equipada provisionalmente con un motor de pistón Junkers Jumo 210G de 700 hp montado en el morro, que impulsaba una hélice convencional. Este vuelo, de aproximadamente 20 minutos de duración, permitió probar la célula y las características de vuelo del futuro caza a reacción. El verdadero vuelo con propulsión a chorro no ocurriría hasta el 18 de julio de 1942, con el prototipo V3 equipado con motores Junkers Jumo 004. El Me 262 pasaría a la historia como el primer caza a reacción operativo del mundo, aunque su entrada en combate no se produjo hasta 1944.</p>

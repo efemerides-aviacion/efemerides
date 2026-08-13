@@ -15,8 +15,7 @@ image: 1958-05-16-f104-starfighter-aeronave-historica-en-records.webp
   <figcaption class="post-caption">El capitán Walter W. Irwin aterriza en Edwards AFB, California, el 16 de mayo de 1958, a bordo del Lockheed F-104A 55-2969. Fuente: U.S. Air Force / This Day in Aviation.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
 El 16 de mayo de 1958, el capitán Walter W. Irwin de la Fuerza Aérea de los Estados Unidos estableció un récord mundial de velocidad de 2.259,538 km/h (1.404,012 mph) a bordo de un Lockheed F-104A Starfighter en la Base de la Fuerza Aérea Edwards, California. Ese mismo día, Irwin también estableció dos récords de tiempo de ascenso: 3.000 metros en 41,8 segundos y 25.000 metros en 4 minutos y 26,03 segundos, alcanzando una altitud máxima de 27.813 metros (91.246 pies). El F-104 Starfighter se convirtió así en el primer avión en ostentar simultáneamente los récords mundiales oficiales de velocidad, altitud y tiempo de ascenso, un logro que le valió el prestigioso Trofeo Collier de 1958.

@@ -14,8 +14,7 @@ image: 1908-03-12-primer-vuelo-red-wing.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1908-03-12-primer-vuelo-red-wing.jpg" alt="AEA Red Wing">
   <figcaption class="post-caption">AEA Red Wing sobre el lago Keuka congelado (Hammondsport, NY), 12 de marzo de 1908. Primer vuelo público en EE.UU. pilotado por Frederick W. Baldwin. (Foto: Museum of Flight / Air Force Historical Foundation)</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 12 de marzo de 1908, el biplano AEA Red Wing, diseñado por Thomas Selfridge y construido por la Aerial Experiment Association de Alexander Graham Bell y Glenn Curtiss, realizó su primer vuelo sobre el lago Keuka congelado, en Hammondsport (Nueva York). Pilotado por Frederick W. Baldwin, recorrió unos 319 pies a baja altura, en la que se considera la primera demostración pública de un vuelo de aeroplano en Estados Unidos y el primer vuelo de un piloto canadiense. Aunque el avión resultó dañado en el aterrizaje y se destruyó en un segundo intento días después, sus lecciones técnicas dieron origen a los posteriores White Wing, June Bug y Silver Dart, fundamentales en la temprana aviación norteamericana.</p>

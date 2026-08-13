@@ -15,8 +15,7 @@ image: 1982-05-04-ana-conmemora-ataque-hsm-sheffield.webp
   <figcaption class="post-caption">Vista aérea del HMS Sheffield tras impacto del Exocet el 4 de mayo de 1982, mostrando incendios y daños en la superestructura. Fuente: Archivo de la Guerra de Malvinas.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de mayo de 1982, en plena Guerra de Malvinas, dos aviones Super Étendard de la Aviación Naval Argentina, pilotados por el capitán de corbeta Augusto Bedacarratz y el teniente de navío Armando Mayora, lanzaron misiles AM-39 Exocet contra el destructor británico HMS Sheffield. El impacto causó un incendio incontrolable que llevó al abandono del buque, el cual se hundió el 10 de mayo de 1982 mientras era remolcado. Fue la primera vez en la historia que un misil antibuque aire-superficie hundió un buque de guerra en combate, y esta acción dio origen a la conmemoración del 4 de mayo como el "Día de la Aviación Naval Argentina".</p>

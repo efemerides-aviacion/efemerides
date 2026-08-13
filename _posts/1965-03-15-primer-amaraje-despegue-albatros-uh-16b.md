@@ -14,8 +14,7 @@ image: 1965-03-15-primer-amaraje-despegue-albatros-uh-16b.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1965-03-15-primer-amaraje-despegue-albatros-uh-16b.jpg" alt="Grumman UH-16B Albatross BS-03">
   <figcaption class="post-caption">El Grumman Albatross BS-03 de la Fuerza Aérea Argentina aparece sobre el hielo antártico durante la operación de la Base Matienzo, hacia marzo de 1965. Museo Nacional de Aeronáutica, Departamento de Investigaciones Históricas MNA.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 15 de marzo de 1965, el Grumman UH-16B Albatross matrícula BS-03 de la Fuerza Aérea Argentina realizó el primer y único amaraje y despegue de este tipo de aeronave en la Antártida argentina, en una misión de apoyo vinculada a las operaciones antárticas de la institución. El aparato era el único de los tres Albatros argentinos configurado para operaciones anfibias en condiciones polares, lo que explica el carácter excepcional del hecho dentro del historial del modelo en el servicio argentino. Este episodio se inscribe en la etapa previa a la consolidación de la Base Marambio y en un período en que la Fuerza Aérea Argentina desarrollaba soluciones de enlace, rescate y exploración sobre hielo y superficies no preparadas como parte de su proyección antártica.</p>

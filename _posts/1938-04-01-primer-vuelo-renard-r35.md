@@ -15,8 +15,7 @@ image: 1938-04-01-primer-vuelo-renard-r35.webp
   <figcaption class="post-caption">Renard R-35 (matrícula OO-ARM) en el aeródromo de Evere, Bélgica, marzo de 1938. Imagen publicada en Sandglass Patrol, “Renard R-35, el primer avión de aerolínea presurizado (1938)”, 16 de junio de 2022.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>El 1 de abril de 1938, en el aeródromo de Evere (Bruselas), el Renard R-35, prototipo belga de avión comercial presurizado para 20 pasajeros diseñado por Alfred Renard para SABENA, despegó durante pruebas de rodaje de alta velocidad. Pilotado por Georges Van Damme ante dignatarios y periodistas, entró en pérdida en su primer viraje y se estrelló, destruyéndose por completo y causando la muerte del piloto. Este trimotor de ala baja con motores Gnome-Rhône 9K (750 HP cada uno) fue el pionero en cabina presurizada, superando los 9.000 m de techo, pero el accidente detuvo su desarrollo.</p>

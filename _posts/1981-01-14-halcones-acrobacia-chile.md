@@ -14,8 +14,7 @@ image: 1981-01-14-halcones-acrobacia-chile.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1981-01-14-halcones-acrobacia-chile.webp" alt="Escuadrilla de Alta Acrobacia Halcones de Chile">
   <figcaption class="post-caption">Formación acrobática de la Escuadrilla Halcones de Chile, con estelas de humo blanco sobre cielo despejado. La imagen muestra tres aeronaves Extra 300 en vuelo sincronizado, destacando la precisión y coordinación que caracterizan a esta unidad de la Fuerza Aérea de Chile.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 14 de enero de 1981, la Fuerza Aérea de Chile creó la Escuadrilla de Alta Acrobacia Halcones, unidad que heredó la tradición acrobática de los Cóndores de Plata (1958–1967). Desde entonces, los Halcones se han convertido en embajadores del aire, representando a Chile en exhibiciones internacionales.</p>

@@ -15,8 +15,7 @@ image: 1933-04-03-primer-vuelo-sobre-everest.webp
   <figcaption class="post-caption">Lord Clydesdale, a los mandos de un Westland PV-3 G-ACAZ, aproximándose a la cima del Everest, 3 de abril de 1933. Expedición aérea de Houston al Everest, vía National Geographic, publicado en infoaviacion.com.mx.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>El 3 de abril de 1933, dos biplanos británicos Westland PV-3 (G-ACAZ) y PV-6 (G-ACBR) de la Houston Mount Everest Flying Expedition sobrevolaron por primera vez la cima del Monte Everest (8.848 m), despegando desde Purnia, India. Pilotados por el Lord Clydesdale (Douglas Douglas-Hamilton) con Stewart Blacker, y David McIntyre con Sidney Bonnett, capturaron imágenes aéreas pese a hipoxia, frío extremo y vientos fuertes. Financiada por Lady Houston y liderada por Peregrine Fellowes, la hazaña abrió la exploración aérea del Himalaya.</p>

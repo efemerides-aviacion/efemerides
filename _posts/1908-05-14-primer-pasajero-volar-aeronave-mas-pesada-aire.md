@@ -15,8 +15,7 @@ image: 1908-05-14-primer-pasajero-volar-aeronave-mas-pesada-aire.webp
   <figcaption class="post-caption">El Wright Flyer III en Kill Devil Hills, 1908, fotografiado durante las pruebas de vuelo que culminaron con Charles Furnas como primer pasajero de la historia. Fuente: Wright-Brothers.org / This Day in Aviation.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
 El 14 de mayo de 1908, Charles William Furnas se convirtió en el primer pasajero de la historia en volar a bordo de una aeronave motorizada más pesada que el aire. Ese día, en Kill Devil Hills, Kitty Hawk, Carolina del Norte, Furnas acompañó primero a Wilbur Wright y luego a Orville Wright en el Wright Flyer III, un biplano modificado de 1905. Este hito demostró que una máquina voladora podía transportar a una segunda persona, un requisito indispensable para que el invento de los hermanos Wright pudiera ser considerado para uso militar y comercial, allanando el camino para la aviación moderna.

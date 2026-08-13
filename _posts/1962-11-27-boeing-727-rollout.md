@@ -14,8 +14,7 @@ image: 1962-11-27-boeing-727-rollout.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1962-11-27-boeing-727-rollout.webp" alt="Rollout del Boeing 727 en Renton">
   <figcaption class="post-caption">Presentación pública del prototipo Boeing 727-100 (N727-100), primer tri-motor de pasillo único de Boeing, ante miles de invitados en el hangar de Renton, Washington, 27 de noviembre de 1962. (Foto Boeing / Archivo histórico).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>El 27 de noviembre de 1962, Boeing presentó oficialmente el prototipo del 727-100 en su planta de Renton, Washington. El rollout marcó el debut público del primer tri-reactor de la compañía, concebido para operar en pistas cortas y aeropuertos secundarios, antes de realizar su primer vuelo en febrero de 1963.</p>

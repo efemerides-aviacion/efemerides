@@ -15,8 +15,7 @@ image: 1949-03-20-primer-vuelo-roberto-mora-globster-meteor.jpg
   <figcaption class="post-caption">Capitán Roberto Mora Contreras con directivos de Gloster Aircraft (Fitzgibbon, Corse y Teniente Waterson) ante Meteor, Gloucestershire, noviembre 1948. Archivo Arturo Soto / FAVClub (favclubven.wordpress.com).
 </figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 20 de marzo de 1949, el capitán Roberto José Mora Contreras se convirtió en el primer piloto venezolano en volar solo un Gloster Meteor monoplaza a reacción en Inglaterra, durante evaluaciones previas a la adquisición de aviones Vampire para la Fuerza Aérea Venezolana (FAV). Nacido el 3 de agosto de 1916 en San Cristóbal, Táchira, egresó como piloto militar en 1940 y falleció el 7 de julio de 1949 en un accidente con un B-25J Mitchell cerca de Caracas. La FAV honró su legado nombrando a la promoción de 1970 en su nombre.</p>

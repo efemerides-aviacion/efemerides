@@ -15,8 +15,7 @@ image: 1982-05-01-bautismo-fuego-faa-malvinas.webp
   <figcaption class="post-caption">Mirage IIIEA argentino (606) en pista durante operaciones en Malvinas, 1982. Participó en combates del bautismo de fuego contra Sea Harriers el 1 de mayo. Fuente: Archivo histórico FAA.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 1 de mayo de 1982, la FAA enfrentó su bautismo de fuego en las Islas Malvinas: el bombardero Vulcan de la RAF atacó la Base Aérea Militar (BAM) Malvinas, causando las primeras bajas argentinas. En respuesta, la FAA lanzó 76 salidas operativas, protagonizando combates aéreos entre Mirage/Dagger y Sea Harriers, ataques navales que dañaron tres buques británicos, y acciones de artillería antiaérea que derribaron un Harrier. La jornada concluyó con 14 héroes de la FAA sacrificados, pero se evitó que el enemigo lograra la superioridad aérea ese día.</p>

@@ -15,8 +15,7 @@ image: 1920-05-18-record-altura-sudamerica.webp
   <figcaption class="post-caption">Momentos antes del histórico primer vuelo en Bolivia, aparecen junto al “Wasp” los protagonistas de esta memorable gesta (algunos con sus esposas) y personeros de la Embajada de Estados Unidos. Fuente: El Diario.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
 El 18 de mayo de 1920, el Teniente Coronel Donald Hudson, as de la aviación estadounidense durante la Primera Guerra Mundial, estableció un récord sudamericano de altura al sobrevolar el nevado Illimani (6.463 metros sobre el nivel del mar) a bordo de un Curtiss 18T-2 Wasp, un triplano bimotor adquirido por el gobierno boliviano para fundar su Escuela Militar de Aviación. La aeronave alcanzó aproximadamente 9.000 metros de altitud, superando en más de 2.000 metros la cumbre más alta de la cordillera Real. Esta hazaña, realizada sin previo aviso, demostró que la aviación era posible en las extremas condiciones atmosféricas del altiplano boliviano.

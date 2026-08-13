@@ -15,8 +15,7 @@ image: 1917-04-20-primer-vuelo-del-dirigible-dn-1.webp
   <figcaption class="post-caption">El DN-1 cerca del hangar flotante de Pensacola (Florida) el 27 de abril de 1917. Fuente: Cortesía del New England Air Museum, Windsor Locks, Connecticut.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 20 de abril de 1917 despegó el DN-1, primer dirigible de la Marina de EE. UU., en Pensacola, Florida, dos días antes de la entrada formal de Estados Unidos en la Primera Guerra Mundial. Diseñado para patrulla antisubmarina e inspirado en los dirigibles alemanes tipo Parseval, medía 175 pies de largo y estaba propulsado por dos motores de 140 hp. Sin embargo, la aeronave presentaba exceso de peso, falta de sustentación, sobrecalentamiento de la transmisión y fugas de gas. Realizó solo tres vuelos antes de ser dañada irreparablemente mientras era remolcada sobre el agua y finalmente desguazada.</p>

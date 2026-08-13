@@ -14,8 +14,7 @@ image: 1989-03-19-primer-vuelo-bell-boeing-v-22-osprey.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1989-03-19-primer-vuelo-bell-boeing-v-22-osprey.jpg" alt="Bell-Boeing V-22 Osprey">
   <figcaption class="post-caption">Prototipo Bell-Boeing V-22 Osprey #01 en su primer vuelo, Arlington TX, 19 marzo 1989. Fuente: FlightGlobal – "30 years since V-22 Osprey's first flight" (2019).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 19 de marzo de 1989 despegó en Arlington, Texas, el prototipo Bell-Boeing V-22 Osprey, efectuando su primer vuelo en modo helicóptero durante unos 15 minutos. Este hito inauguró el programa de ensayos de un revolucionario tiltrotor que buscaba combinar capacidad VTOL con la velocidad y alcance de un avión de transporte táctico. Pese a años de dificultades técnicas, sobrecostes y accidentes, el V-22 entró en servicio con el US Marine Corps en 2007 y se ha producido en centenares de ejemplares para misiones de asalto y transporte.</p>

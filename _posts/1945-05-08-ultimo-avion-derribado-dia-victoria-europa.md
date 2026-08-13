@@ -15,8 +15,7 @@ image: 1945-05-08-ultimo-avion-derribado-dia-victoria-europa.webp
   <figcaption class="post-caption">Avión alemán Siebel Si 204, similar al derribado el 8 de mayo de 1945, durante el VE Day. Fuente: Siebel Si 204 (Wikipedia / LuftArchiv).</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 8 de mayo de 1945, el Día de la Victoria en Europa (VE Day), cuando la rendición alemana estaba a punto de entrar en vigor a las 23:01 horas, un caza estadounidense P-38 Lightning pilotado por el Teniente Segundo K.L. Smith interceptó y derribó un avión de transporte alemán Siebel Si 204 cerca de Rodach (Baviera). Este derribo, ocurrido alrededor de las 20:00 horas, es considerado por diversas fuentes historiográficas como el probable último avión alemán abatido por fuego aire-aire en el frente occidental antes del cese definitivo de las hostilidades.</p>

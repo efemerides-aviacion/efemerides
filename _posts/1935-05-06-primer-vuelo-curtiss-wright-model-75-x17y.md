@@ -15,8 +15,7 @@ image: 1935-05-06-primer-vuelo-curtiss-wright-model-75-x17y.webp
   <figcaption class="post-caption">El 6 de mayo de 1935, en Buffalo, Nueva York, el prototipo Curtiss-Wright Model 75, X17Y, número de serie 11923, realizó su primer vuelo; fuente: This Day in Aviation y Ray Wagner Collection, San Diego Air & Space Museum Archives.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 6 de mayo de 1935 voló por primera vez en Buffalo, Nueva York, el prototipo Curtiss-Wright Model 75, X17Y, diseñado por Donovan Reese Berlin. El aparato introducía una configuración avanzada para su época, con estructura metálica, ala baja y tren retráctil. Sus pruebas iniciales demostraron un rendimiento prometedor y dieron origen al futuro P-36 Hawk. A partir de este diseño surgirían también versiones de exportación y desarrollos posteriores como el XP-40.</p>

@@ -14,8 +14,7 @@ image: 1931-04-08-amelia-earhart-autogiro-record-altitud.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1931-04-08-amelia-earhart-autogiro-record-altitud.webp" alt="Amelia Earhart junto a Harold Pitcairn antes del vuelo récord">
   <figcaption class="post-caption">La aviadora Amelia Earhart (centro) con su esposo George Palmer Putnam (izquierda) y el diseñador Harold F. Pitcairn (derecha) antes de despegar para establecer el récord de altitud en autogiro en Bryn Athyn, Pensilvania, el 8 de abril de 1931. Fuente: <a href="https://explorepahistory.com/~expa/displayimage.php?imgId=1-2-124B">Explore PA History / Corbis-Bettmann</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 8 de abril de 1931, Amelia Earhart estableció un récord mundial femenino de altitud en autogiro al alcanzar 18,415 pies (5,615 m) a bordo de un Pitcairn PCA-2. El vuelo despegó desde el campo de la Pitcairn-Cierva Autogiro Company en Bryn Athyn, Pensilvania, con Harold Pitcairn como anfitrión. La hazaña formaba parte de una campaña publicitaria pagada por la Beech-Nut Corporation, fabricante de chicles y alimentos. El récord fue superado el 25 de septiembre de 1932 por Lewis Yancey en otro PCA-2, alcanzando 21,500 pies (6,600 m).</p>

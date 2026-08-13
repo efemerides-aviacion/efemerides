@@ -15,8 +15,7 @@ image: 1941-05-06-primer-vuelo-xp-47b-thunderbolt.webp
   <figcaption class="post-caption">Republic XP-47B 40-3051 durante su primer vuelo de pruebas, realizado el 6 de mayo de 1941 desde Farmingdale, Nueva York, con Lowery Lawson Brabham como piloto. Fuente: This Day in Aviation y Republic Aircraft Corporation.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
 El 6 de mayo de 1941, el prototipo XP-47B Thunderbolt despegó por primera vez desde Farmingdale, Nueva York, pilotado por Lowery L. Brabham, apenas ocho meses después de su encargo por el U.S. Army Air Forces. A pesar del humo en la cabina por aceite, el vuelo fue exitoso e impresionó por su tamaño y potencia. Este hito inició la producción del P-47, el caza más fabricado por Estados Unidos en la Segunda Guerra Mundial, con 15.683 unidades construidas.

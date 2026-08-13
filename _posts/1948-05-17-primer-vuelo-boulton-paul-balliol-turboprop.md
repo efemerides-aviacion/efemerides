@@ -15,8 +15,7 @@ image: 1948-05-17-primer-vuelo-boulton-paul-balliol-turboprop.webp
   <figcaption class="post-caption">El Boulton Paul Balliol (VL917), fotografiado en 1948. Este prototipo se accidentó el 24 de marzo de 1948, pero allanó el camino para que el primer prototipo modificado (VL892) se convirtiera en el primer avión monomotor turbohélice del mundo el 17 de mayo de 1948. Fuente: Aviation Safety Network.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
 El 17 de mayo de 1948, el Boulton Paul Balliol se convirtió en el primer avión monomotor turbohélice del mundo en volar, un hito tecnológico que abrió el camino para la aviación comercial y militar impulsada por turbopropulsores. Diseñado para cumplir la Especificación T.7/45 del Ministerio del Aire británico como un entrenador avanzado, el Balliol demostró el potencial de los motores de turbina de gas para propulsar aeronaves. Aunque el primer prototipo había volado el 30 de mayo de 1947 con un motor de pistón Bristol Mercury (provisional), fue el primer prototipo modificado, equipado con el Armstrong Siddeley Mamba, el que escribió su nombre en la historia de la aviación. Finalmente, la versión de producción (Balliol T.2) optó por el motor de pistón Rolls-Royce Merlin, entrando en servicio con la RAF en 1950.

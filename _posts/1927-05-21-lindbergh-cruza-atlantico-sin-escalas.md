@@ -14,8 +14,7 @@ image: 1927-05-21-lindbergh-cruza-atlantico-sin-escalas.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1927-05-21-lindbergh-cruza-atlantico-sin-escalas.webp" alt="Ryan NYP Spirit of St. Louis, avión de Charles Lindbergh">
   <figcaption class="post-caption">El avión Spirit of St. Louis (Ryan NYP) rodeado por una multitud en París tras el aterrizaje histórico de Charles Lindbergh el 21 de mayo de 1927, al completar el primer vuelo transatlántico en solitario y sin escalas. Fuente: Reddit, r/HistoryPorn.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 21 de mayo de 1927, Charles Lindbergh completó el primer vuelo en solitario y sin escalas sobre el océano Atlántico. Partió de Roosevelt Field, Nueva York, el 20 de mayo a las 07:52 hora local y aterrizó en el aeropuerto de Le Bourget, París, a las 22:22 del día siguiente. La travesía de 5.810 kilómetros duró 33 horas y 30 minutos. A bordo del <em>Spirit of St. Louis</em>, Lindbergh demostró la viabilidad de la aviación comercial de largo alcance y se convirtió en una de las figuras más célebres del siglo XX.</p>

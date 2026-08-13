@@ -14,8 +14,7 @@ image: 1963-04-10-primer-vuelo-ewr-vj-101.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1963-04-10-primer-vuelo-ewr-vj-101.webp" alt="EWR VJ 101C X-2 en el Deutsches Museum de Múnich">
   <figcaption class="post-caption">EWR VJ 101 C-X1 (D-9517) en tierra en el centro de pruebas de Manching, 25 de abril de 1964. Fotografía: Ralf Manteufel (airliners.net). Fuente:<a href="https://www.airliners.net/photo/Untitled/Dornier-VJ-101-X1/1230006/L">Airliners.net – EWR VJ-101-X1</a></figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 10 de abril de 1963, el prototipo EWR VJ 101C X-1 realizó su primer vuelo en suspensión en el centro de pruebas de EWR en Manching, Alemania Occidental. Este avión experimental de despegue y aterrizaje vertical (VTOL), desarrollado por el consorcio EWR (formado por Heinkel, Messerschmitt y Bölkow), fue diseñado como posible sucesor del Lockheed F-104G Starfighter de la Luftwaffe. El 29 de julio de 1964 se convirtió en el primer avión VTOL del mundo en superar la barrera del sonido, alcanzando Mach 1,04. Aunque el programa fue cancelado en 1968, el segundo prototipo (X-2) se conserva en el Deutsches Museum de Múnich.</p>

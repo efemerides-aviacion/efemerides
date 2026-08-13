@@ -14,8 +14,7 @@ image: 1948-03-22-primer-vuelo-t33-shooting-star.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1948-03-22-primer-vuelo-t33-shooting-star.jpg" alt="Lockheed T-33 Shooting Star">
   <figcaption class="post-caption">Prototipo Lockheed TP-80C-1-LO (48-356) junto a un P-80C-1-LO Shooting Star (47-173) en el Aeropuerto de Van Nuys, California, durante el desarrollo del entrenador biplaza derivado del P-80. Circa marzo de 1948. Fuente: This Day in Aviation.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 22 de marzo de 1948, el piloto de pruebas Tony LeVier despegó a bordo del prototipo TP-80C (posteriormente redesignado TF-80C y finalmente T-33A) desde el aeropuerto de Lockheed en Burbank, California. Este avión era un derivado biplaza del caza F-80 Shooting Star, alargado para albergar una cabina en tándem. El vuelo inaugural marcó el nacimiento de un entrenador que se convertiría en el estándar mundial de transición a reactores durante la Guerra Fría, con más de 6.500 unidades construidas entre 1948 y 1959, operado por más de 30 países.</p>

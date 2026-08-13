@@ -15,8 +15,7 @@ image: 1942-04-18-incursion-doolittle.webp
   <figcaption class="post-caption">EE. UU./Japón: El teniente coronel James «Jimmy» Doolittle realiza un despegue a toda potencia en un bombardero medio B-25 Mitchell desde la cubierta del USS Hornet, a 1.046 km de Japón, para llevar a cabo la «incursión Doolittle» contra Tokio, el 18 de abril de  1942. (Foto: Pictures from History/Universal Images Group a través de Getty Images).</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 18 de abril de 1942, dieciséis bombarderos B-25 Mitchell despegaron desde la cubierta del portaaviones USS Hornet (CV-8) para realizar el primer bombardeo aéreo estadounidense sobre Japón. La incursión, liderada por el teniente coronel James H. "Jimmy" Doolittle, fue concebida como una respuesta directa al ataque japonés contra Pearl Harbor del 7 de diciembre de 1941. Aunque el daño material fue limitado, la misión demostró que el archipiélago japonés era vulnerable a ataques aéreos, elevó la moral estadounidense y provocó profundas consecuencias estratégicas en la guerra del Pacífico.</p>

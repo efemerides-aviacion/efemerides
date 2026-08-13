@@ -15,8 +15,7 @@ image: 1937-04-26-bombardeo-de-guernica.webp
   <figcaption class="post-caption">Guernica arrasada tras el bombardeo aéreo del 26 de abril de 1937, durante la Guerra Civil Española. Fotografía de archivo de prensa del Centro de Documentación 20 de Mayo (CDMH), Ministerio de Cultura de España, utilizada como portada del especial "El bombardeo de Guernica" (2017).</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 26 de abril de 1937, durante la Guerra Civil Española, la localidad vasca de Guernica fue sometida a un intenso ataque aéreo de tres horas de duración por parte de la Legión Cóndor alemana y la Aviación Legionaria italiana, en apoyo al bando sublevado de Franco, lo que provocó la destrucción mayoritaria del casco urbano y centenares de víctimas civiles, convirtiéndose en un símbolo internacional del terror aéreo y la guerra contra la población civil.</p>

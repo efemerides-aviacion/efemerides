@@ -15,8 +15,7 @@ image: 1907-12-25-globo-pampero.jpg
   <figcaption class="post-caption">Globo aerostático ‘Pampero’ del Aero Club Argentino, antes de su histórico primer vuelo cruzando el Río de la Plata (Buenos Aires a Conchillas, Uruguay), 25 dic 1907. Wikipedia / Archivo ACA.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->Globo aerostático ‘Pampero’ del Aero Club Argentino, antes de su histórico primer vuelo cruzando el Río de la Plata (Buenos Aires a Conchillas, Uruguay), 25 dic 1907. Wikipedia / Archivo ACA.
 <div class="highlight-box">
   <p>

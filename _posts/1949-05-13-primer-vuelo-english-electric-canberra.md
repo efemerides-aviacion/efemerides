@@ -15,8 +15,7 @@ image: 1949-05-13-primer-vuelo-english-electric-canberra.webp
   <figcaption class="post-caption">English Electric Canberra VN799, primer prototipo del bombardero a reacción británico, fotografiado en 1949 durante su fase de pruebas y relacionado con el primer vuelo realizado por Roland Beamont en Warton el 13 de mayo de 1949. Fuente: This Day in Aviation / BAE Systems.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
 El 13 de mayo de 1949 despegó por primera vez el prototipo del English Electric Canberra, un bombardero a reacción británico que se convertiría en una de las aeronaves más importantes de la posguerra. Su diseño, impulsado por las necesidades del Ministerio del Aire, destacó por su gran techo de servicio, velocidad y limpieza aerodinámica. El vuelo inaugural fue realizado por Roland Beamont desde Warton, Lancashire. El Canberra entró en servicio con la RAF en mayo de 1951 y se mantuvo en servicio activo hasta 2006, con una producción total de 1.352 unidades. Venezuela fue un operador destacado de este bombardero, adquiriendo su primer lote en 1952 y manteniéndolo en servicio hasta 1990.

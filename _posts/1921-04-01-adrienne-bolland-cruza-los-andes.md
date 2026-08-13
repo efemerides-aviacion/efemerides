@@ -15,8 +15,7 @@ published: true
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1921-04-01-adrienne-bolland-cruza-los-andes.webp" alt="Adrienne Bolland junto a su Caudron G.3">
   <figcaption class="post-caption">El 1 de abril de 1921 en Santiago, la piloto francesa Adrienne BOLLAND a bordo de su Caudron G-3 tras haber logrado cruzar los Andes. Fuente: This Day in Aviation/Keystone France.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>

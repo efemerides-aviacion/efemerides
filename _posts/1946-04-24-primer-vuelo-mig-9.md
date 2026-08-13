@@ -15,8 +15,7 @@ image: 1946-04-24-primer-vuelo-mig-9.webp
   <figcaption class="post-caption">MiG-9 (I-300), caza a reacción soviético, fotografiado en tierra en 1946. Fuente: Zona Militar.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 24 de abril de 1946 voló por primera vez el Mikoyan-Gurevich MiG-9, el primer caza a reacción de producción propia de la URSS, configurado como bimotor turborreactor de primera generación que abriría el camino a la posterior familia MiG-15. Pilotado por Alexéi Grinchik, el prototipo I-300 despegó desde el aeródromo de Chkalovskaya (cerca de Moscú), en un vuelo que duró aproximadamente seis minutos. Ese mismo día, dos horas después, también realizó su primer vuelo el Yakovlev Yak-15, marcando el inicio de la era de los cazas a reacción soviéticos.</p>

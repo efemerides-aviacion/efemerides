@@ -15,8 +15,7 @@ image: 1975-04-30-apontaje-del-mayor-buang-ly-en-el-uss-midway.webp
   <figcaption class="post-caption">Apontaje de un Cessna O-1E Bird Dog de la Fuerza Aérea de Vietnam del Sur sobre la cubierta del USS Midway (CV-41) durante la Operación Frequent Wind el 30 de abril de 1975. Fuente: U.S. Navy.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 30 de abril de 1975, en medio de la caída de Saigón, el mayor de la Fuerza Aérea de Vietnam del Sur, Buang-Ly, realizó un apontaje de emergencia en el portaaviones USS Midway. Pilotaba un Cessna O-1 Bird Dog en el que viajaban su esposa y sus cinco hijos. El capitán Lawrence Chambers ordenó lanzar al mar varios helicópteros para despejar la cubierta y permitir la maniobra, salvando así a la familia .</p>

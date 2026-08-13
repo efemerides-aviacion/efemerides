@@ -14,8 +14,7 @@ image: "1952-11-29-ratificacion-soberania-venezuela-los-monjes.jpg"
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-11-29-ratificacion-soberania-venezuela-los-monjes.jpg" alt="Bandera de Venezuela izada en el Archipiélago LOs Monjes">
   <figcaption class="post-caption">Autoridades militares y civiles venezolanas izan oficialmente la bandera nacional en el territorio de Los Monjes, el 29 de noviembre de 1952, reafirmando así la soberanía de Venezuela. Marcos Pérez Jiménez, séptimo de izquierda a derecha, también se encuenta Luis Llovera Páez. Wikimedia Commons.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="highlight-box">
 <p>El 29 de noviembre de 1952, mediante una nota diplomática emitida por la cancillería colombiana, se reconoció formalmente la soberanía de Venezuela sobre el Archipiélago Los Monjes. Este hito fue respaldado por patrullajes constantes de la Fuerza Aérea Venezolana para asegurar la integridad territorial en el Caribe.</p>
 </div>

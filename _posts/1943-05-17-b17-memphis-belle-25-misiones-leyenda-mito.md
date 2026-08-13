@@ -15,8 +15,7 @@ image: 1943-05-17-b17-memphis-belle-25-misiones-leyenda-mito.webp
   <figcaption class="post-caption">Tripulación del B-17 Memphis Belle tras completar su 25ª misión, 17 de mayo de 1943. Fuente: U.S. Air Force / This Day in Aviation.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
 El 17 de mayo de 1943, el B-17F "Memphis Belle" (número de serie 41-24485) y su tripulación, al mando del capitán Robert K. Morgan, completaron su 25ª misión de combate contra la Europa ocupada por los nazis. La misión número 25 fue un ataque a la base de submarinos de Lorient, Francia. Este hito significaba el final de su "gira de combate", un logro notable dado el altísimo riesgo que corrían los bombarderos pesados de la 8ª Fuerza Aérea en 1943. Convertida en un símbolo de la resistencia y la potencia aérea estadounidense, la tripulación y el avión regresaron a Estados Unidos para protagonizar una exitosa gira de venta de bonos de guerra, inmortalizando la leyenda del "Memphis Belle".

@@ -14,8 +14,7 @@ image: 1988-03-13-cruce-andes-ala-delta.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1988-03-13-cruce-andes-ala-delta.jpg" alt="Basilio Impellizeri en ala delta">
   <figcaption class="post-caption">Basilio Impellizzeri Nicito prepara su ala delta para el cruce de los Andes, 13 de marzo de 1988. La imagen muestra al piloto argentino-chileno despegando en su ala delta multicolor (roja-naranja-amarilla) desde una ladera andina, en el histórico primer cruce Chile-Argentina que batió el récord de permanencia de 11h 5m. (Fuente: Aladeltismo Chileno)</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 13 de marzo de 1988, Basilio Moisés Impellizzeri Nicito se convirtió en el primer piloto en cruzar la cordillera de los Andes en ala delta, desde Chile hacia Argentina, marcando un hito en la historia del aladeltismo sudamericano. Nacido en Mendoza (1935) y radicado en Chile desde 1978, Impellizzeri estableció ese día el récord chileno de permanencia en vuelo con 11 horas y 5 minutos. Pionero del vuelo sin motor en la región, más tarde publicaría el libro "Volar es fascinante, ¡Atrévete!" (1988) y colaboraría durante décadas con publicaciones aeronáuticas chilenas, dejando un legado como impulsor de los deportes aéreos extremos en el Cono Sur.</p>

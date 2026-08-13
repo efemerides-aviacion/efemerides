@@ -15,8 +15,7 @@ image: 1988-04-16-primer-vuelo-prototipo-t45-goshawk.webp
   <figcaption class="post-caption">T-45 Goshawk de la U.S. Navy en cubierta de portaaviones; imagen ilustrativa del prototipo (matrícula 162787), y no del primer vuelo de 1988. Fuente: U.S. Navy (Naval History and Heritage Command).</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 16 de abril de 1988, el prototipo del McDonnell Douglas T-45 Goshawk (número de serie 162787) realizó su primer vuelo en Long Beach, California. Este avión, desarrollado en colaboración con British Aerospace (BAe) a partir del exitoso entrenador terrestre BAe Hawk, fue diseñado específicamente para cumplir con los exigentes requisitos de la Armada de los Estados Unidos: operar desde portaaviones y reemplazar a los veteranos T-2 Buckeye y TA-4 Skyhawk. Las modificaciones incluyeron un tren de aterrizaje reforzado y de mayor recorrido, gancho de detención, barra de lanzamiento para catapulta, slats de borde de ataque, y una estructura robustecida para soportar los esfuerzos de las operaciones embarcadas. El T-45 entró en servicio en 1991 y, con 221 unidades construidas hasta 2009, sigue siendo la columna vertebral del entrenamiento de pilotos navales estadounidenses.</p>

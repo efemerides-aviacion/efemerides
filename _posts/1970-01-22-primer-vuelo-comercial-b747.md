@@ -14,8 +14,7 @@ image: 1970-01-22-primer-vuelo-comercial-b747.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1970-01-22-primer-vuelo-comercial-b747.webp" alt="Primer vuelo comercial del Boeing 747 de Pan Am">
   <figcaption class="post-caption">Acuarela de John T. McCoy representando al Boeing 747-121 N736PA, Clipper Young America de Pan American World Airways, despegando en su vuelo inaugural con pasajeros de Nueva York a Londres el 22 de enero de 1970. Publicada en This Day in Aviation.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 22 de enero de 1970, el Boeing 747 entró en servicio comercial con Pan American World Airways en la ruta Nueva York (JFK) – Londres Heathrow. El vuelo PA2, operado por el 747‑121 “Clipper Young America”, transportó <strong>332 pasajeros y 17 tripulantes</strong>, totalizando 349 personas a bordo. El vuelo estaba originalmente previsto para la tarde/noche del 21 de enero, pero sufrió un retraso de varias horas por un problema de sobrecalentamiento de motor en el avión asignado inicialmente; se sustituyó la aeronave y la salida efectiva se produjo ya en la madrugada del día 22.</p>

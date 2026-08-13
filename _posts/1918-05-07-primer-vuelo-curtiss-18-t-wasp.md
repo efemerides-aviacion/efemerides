@@ -15,8 +15,7 @@ image: 1918-05-07-primer-vuelo-curtiss-18-t-wasp.webp
   <figcaption class="post-caption">Vista frontal del Curtiss 18-T Wasp, fotografiado hacia 1917-1919. Fuente: Wikimedia Commons.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El Curtiss 18T Wasp realizó su primer vuelo el 7 de mayo de 1918. Fue un caza biplaza triplano diseñado para la U.S. Navy por Curtiss, con énfasis en la velocidad y el escolta de bombarderos. Aunque no entró en producción, el modelo destacó por su rendimiento y por establecer un récord de velocidad en agosto de 1918, alcanzando 163 mph (262 km/h) con carga militar completa.</p>

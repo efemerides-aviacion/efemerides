@@ -15,8 +15,7 @@ image: 2009-04-25-primer-vuelo-boeing-p-8a-poseidon.webp
   <figcaption class="post-caption">Boeing P-8A Poseidon T-1 durante su primer vuelo, realizado el 25 de abril de 2009 entre Renton Field y Boeing Field, Seattle. Fuente: Boeing.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 25 de abril de 2009 voló por primera vez el prototipo Boeing P-8A Poseidon, entonces identificado como T-1, iniciando el programa de patrulla marítima multimisión de la US Navy. El primer vuelo partió de Renton Field y concluyó en Boeing Field, Seattle, tras 3 horas y 31 minutos en el aire. Este hito marcó el inicio del reemplazo de los veteranos P-3 Orion, que habían servido durante más de cuatro décadas como la principal plataforma de guerra antisubmarina de la Armada estadounidense.</p>

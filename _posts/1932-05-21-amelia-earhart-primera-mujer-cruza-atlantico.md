@@ -14,8 +14,7 @@ image: 1932-05-21-amelia-earhart-primera-mujer-cruza-atlantico.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1932-05-21-amelia-earhart-primera-mujer-cruza-atlantico.webp" alt="Amelia Earhart junto a su Lockheed Vega 5B en Irlanda del Norte">
   <figcaption class="post-caption">Amelia Earhart junto a su avión Lockheed Vega 5B (matrícula NR7952) en Culmore, cerca de Derry (Londonderry), Irlanda del Norte, tras completar su histórico vuelo en solitario a través del Atlántico el 21 de mayo de 1932. Fuente: National Library of Ireland / This Day in Aviation.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 21 de mayo de 1932, Amelia Earhart se convirtió en la primera mujer en cruzar el océano Atlántico en solitario y sin escalas. Partió de Harbour Grace, Terranova, el 20 de mayo a las 19:30 hora local y aterrizó en una pradera cercana a Derry (Londonderry), Irlanda del Norte, aproximadamente 15 horas después. A bordo de su Lockheed Vega 5B, Earhart superó tormentas, hielo en las alas y fallos mecánicos para completar la segunda travesía transatlántica en solitario de la historia, cinco años después del vuelo de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a>.</p>

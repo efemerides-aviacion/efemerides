@@ -14,8 +14,7 @@ image: "1911-11-30-primer-presidente-vuelo.jpg"
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-11-30-primer-presidente-vuelo.jpg" alt="Francisco I. Madero en el avión">
   <figcaption class="post-caption">El presidente Francisco I. Madero (izquierda superior) junto al piloto George Dyott (derecha inferior) y el biplano Deperdussin (izquierda inferior), momentos antes de su histórico vuelo en los Llanos de Balbuena, Ciudad de México. (Crédito: Archivo INAH).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="highlight-box">
 <p>El 30 de noviembre de 1911, el presidente mexicano Francisco I. Madero marcó un hito mundial al elevarse en un monoplano Moisant-Blériot, siendo el primer mandatario en funciones en experimentar el vuelo autopropulsado.</p>
 </div>

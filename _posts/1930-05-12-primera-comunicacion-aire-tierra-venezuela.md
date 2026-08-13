@@ -15,8 +15,7 @@ image: 1930-05-12-primera-comunicacion-aire-tierra-venezuela.webp
   <figcaption class="post-caption">Bréguet 19, avión similar al usado en la primera comunicación aire-tierra en Venezuela, Maracay, 12 de mayo de 1930. Fuente: Wikimedia Commons.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
 El 12 de mayo de 1930 se realizó en Venezuela la primera comunicación aire-tierra de la Aviación Militar, entre un avión Breguet 19 Nro. 2 y estaciones de comunicaciones en tierra. El episodio marcó un avance importante en la integración entre vuelo y radiotelegrafía militar. La operación se desarrolló en Maracay y quedó vinculada al impulso técnico de Cecilio Arturo Beaujon, quien diseñó los planes de estudio de la reactivada Escuela de Radiotelegrafía Militar y lideró la construcción de las estaciones terrenas.

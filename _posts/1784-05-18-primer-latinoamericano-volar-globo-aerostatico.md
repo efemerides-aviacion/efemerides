@@ -15,8 +15,7 @@ image: 1784-05-18-primer-latinoamericano-volar-globo-aerostatico.webp
   <figcaption class="post-caption">Ilustración que representa el vuelo del pionero veracruzano José María Alfaro Guiles sobre los valles de Xalapa el 18 de mayo de 1784, a bordo del globo aerostático de su propia construcción. Fuente: Ilustración generada por inteligencia artificial.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
 El 18 de mayo de 1784, José María Alfaro Guiles, un maestro veracruzano, erudito e inventor, se convirtió en el primer latinoamericano en volar a bordo de un globo aerostático. La hazaña tuvo lugar en Xalapa, Nueva España (actual México), apenas un año después del primer vuelo de los hermanos Montgolfier en Francia. Alfaro construyó su propio globo de aire caliente de aproximadamente 10 metros de altura, con capacidad para dos personas, utilizando materiales impermeables y basándose en las escasas noticias que llegaban de Europa. El vuelo recorrió unos 9 kilómetros desde Los Berros (Xalapa) hasta el actual municipio de Coatepec, alcanzando una altura de aproximadamente 800 metros.

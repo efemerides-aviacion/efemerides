@@ -14,8 +14,7 @@ image: 1910-01-08-primer-vuelo-alberto-braniff-en-mexico.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1910-01-08-primer-vuelo-alberto-braniff-en-mexico.jpg" alt="Alberto Braniff en su Voisin">
   <figcaption class="post-caption">Alberto Braniff junto a su Voisin biplano, primer vuelo en México y América Latina, Llanos de Balbuena, Ciudad de México, 8 ene 1910. EarlyAviators / Archivo histórico mexicano.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>

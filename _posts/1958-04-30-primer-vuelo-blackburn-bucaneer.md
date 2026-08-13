@@ -15,8 +15,7 @@ image: 1958-04-30-primer-vuelo-blackburn-bucaneer.webp
   <figcaption class="post-caption">Blackburn N.A.39 XK486, el primer prototipo del Buccaneer, en su primer vuelo el 30 de abril de 1958 desde RAE Bedford, pilotado por Derek Whitehead; fotografía atribuida a Blackburn Aircraft Ltd.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 30 de abril de 1958, el Blackburn Buccaneer realizó su primer vuelo desde RAE Bedford, pilotado por Derek Whitehead. Este avanzado avión de ataque naval británico fue diseñado para misiones de penetración a muy baja altitud contra buques enemigos durante la Guerra Fría. Su configuración única, con bodega de armas interna y frenos aerodinámicos en la cola, marcó un hito en la ingeniería aeronáutica de la Royal Navy.</p>

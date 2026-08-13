@@ -15,8 +15,7 @@ image: 1991-12-04-ultimo-vuelo-pan-am.webp
   <figcaption class="post-caption">El Vuelo 436, operado por el Boeing 727-221 Clipper Goodwill (matrícula N368PA), completó el último trayecto de Pan Am desde Bridgetown, Barbados, hasta Miami, el 4 de diciembre de 1991. Fuente: archivos históricos / prensa especializada.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de diciembre de 1991, Pan American World Airways (Pan Am), símbolo de la edad de oro de la aviación, cesó sus operaciones. El Vuelo 436, operado por el Boeing 727-221 Clipper Goodwill, aterrizó en Miami a las 11:07 a.m. EST, marcando el fin de una aerolínea que revolucionó los viajes internacionales durante más de seis décadas. La quiebra, acogida al Capítulo 11, fue resultado de décadas de desafíos financieros, agravados por la desregulación de 1978, el atentado de Lockerbie (1988) y la Guerra del Golfo (1990-1991).</p>

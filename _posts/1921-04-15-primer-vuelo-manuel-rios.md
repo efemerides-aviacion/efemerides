@@ -15,8 +15,7 @@ image: 1921-04-15-primer-vuelo-manuel-rios.webp
   <figcaption class="post-caption">Teniente Manuel Ríos Hernández (izquierda) y un Caudron G.3 (derecha) en la entrada del hangar del Campo de Aviación de Maracay, circa 1927. Fuente: Composición mediante Inteligencia Artificial.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 15 de abril de 1921, el subteniente Manuel Ríos Hernández realizó el primer vuelo en solitario de un piloto militar venezolano desde el Campo de Aviación de Maracay. A bordo de un avión Caudron G.3, sobrevoló Maracay, Cagua, Villa de Cura y San Juan de los Morros, regresando al punto de partida en presencia de instructores franceses y autoridades militares. Este vuelo marcó el inicio formal de la aviación militar en Venezuela y consolidó a Ríos como el primer piloto venezolano en volar solo sobre el cielo nacional.</p>

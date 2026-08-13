@@ -15,8 +15,7 @@ image: 1964-04-29-primer-vuelo-boac-vickers-vc-10-londres-lagos.webp
   <figcaption class="post-caption">Vickers VC-10 (G-ARVJ, c/n 812) de British Overseas Airways Corporation (BOAC), el mismo avión que realizó su vuelo inaugural a Lagos el 29 de abril de 1964, fotografiado en el Aeropuerto Internacional de Filadelfia (KPHL), Pensilvania, EE. UU., por Polaneczky Bob el 30 de junio de 1971. Fuente: Jetphotos.com</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 29 de abril de 1964, BOAC inauguró el servicio comercial del Vickers VC10 con el vuelo de G-ARVJ desde Londres Heathrow a Lagos, Nigeria, marcando el debut del avión británico en rutas africanas "altas y calientes". Este hito ocurrió días después de obtener el Certificado de Aeronavegabilidad el 23 de abril de 1964. El VC10, con cuatro motores Rolls-Royce Conway, destacaba por su rendimiento en aeropuertos exigentes .</p>

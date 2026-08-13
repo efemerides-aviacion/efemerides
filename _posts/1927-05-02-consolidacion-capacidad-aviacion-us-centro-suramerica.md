@@ -15,8 +15,7 @@ image: 1927-05-02-consolidacion-capacidad-aviation-us-centro-suramerica.webp
   <figcaption class="post-caption">El Loening OA-1A 'San Francisco', el único de los cinco aviones que completó la travesía sin sufrir averías mecánicas. Se conserva en el Museo Nacional del Aire y el Espacio (Udvar-Hazy Center). Fuente: Smithsonian</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 2 de mayo de 1927 culminó en Bolling Field, Washington D.C., el vuelo Panamericano de Buena Voluntad del Ejército de Estados Unidos, una travesía de 35.200 kilómetros realizada por cinco aviones anfibios Loening OA-1A. La expedición, que partió de San Antonio, Texas, el 21 de diciembre de 1926, recorrió México, América Central, el Canal de Panamá, y la costa oeste de Sudamérica hasta Valdivia (Chile), cruzó los Andes hasta Bahía Blanca (Argentina), y retornó por la costa atlántica a través del Caribe. El viaje duró 59 días de vuelo, intercalados con 74 días de mantenimiento y ceremonias diplomáticas. Diez pilotos participaron en la misión, cuyo propósito era fomentar buenas relaciones con América Latina, promover la aviación comercial y mapear rutas aéreas estratégicas.</p>

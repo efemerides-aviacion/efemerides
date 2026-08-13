@@ -15,8 +15,7 @@ image: 1982-04-02-operacion-aries-82.webp
   <figcaption class="post-caption">Tripulación del C‑130H Hércules TC‑68 de la Fuerza Aérea Argentina en Puerto Argentino, 2 de abril de 1982, durante la “Operación Aries 82”. Imagen publicada en Contexto Tucumán, “Día D: cómo fue el desembarco argentino en las Malvinas”, 1 de abril de 2025.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>Operación Aries 82 fue la componente aérea de la recuperación argentina de las Islas Malvinas, encargada de proyectar el puente aéreo sobre Puerto Argentino mediante aviones de transporte C‑130 Hércules y el posterior despliegue de IA‑58 Pucará a la zona de las islas, consolidando el control de la base aérea y el mantenimiento del operativo. El primer aterrizaje, a las 8:45 del 2 de abril de 1982, marcó el inicio del apoyo logístico argentino en el conflicto del Atlántico Sur.</p>

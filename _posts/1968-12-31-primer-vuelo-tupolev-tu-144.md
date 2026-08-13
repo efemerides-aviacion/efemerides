@@ -14,8 +14,7 @@ image: 1968-12-31-primer-vuelo-tupolev-tu-144.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1968-12-31-primer-vuelo-tupolev-tu-144.webp" alt="Tupolev Tu-144 durante su primer vuelo 1968">
   <figcaption class="post-caption">El prototipo del Tupolev Tu-144, CCCP-68001, durante su primer vuelo, el 31 de diciembre de 1968. (This Day in Aviation, a través de Kazan National Research Technical University)</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="highlight-box">
     <p>
         El Tu‑144 fue el primer avión supersónico comercial en el mundo. Su vuelo inaugural del 31 de diciembre de 1968 simbolizó la competencia tecnológica de la Guerra Fría y adelantó por dos meses al Concorde.

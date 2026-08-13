@@ -15,8 +15,7 @@ image: 1913-05-17-primer-vuelo-cayohueso-lahabana.webp
   <figcaption class="post-caption">Domingo Rosillo del Toro, aviador cubano, tras completar el primer vuelo entre Cayo Hueso y La Habana el 17 de mayo de 1913. Fuente: MyFloridaHistory.org / Florida Historical Society.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
 El 17 de mayo de 1913, el aviador cubano Domingo Rosillo del Toro realizó el primer vuelo exitoso entre Key West (Florida) y La Habana (Cuba), cruzando los 145 kilómetros (90 millas) del Estrecho de Florida en aproximadamente 2 horas y 35 minutos a bordo de un monoplano Morane-Saulnier. El vuelo, realizado a pesar de las adversas condiciones climáticas y del escepticismo de muchos, le valió un premio de 10.000 dólares ofrecido por el Ayuntamiento de La Habana. Solo dos días después, el 19 de mayo de 1913, otro aviador cubano, Agustín Parlá, repetiría la hazaña, consolidando a Cuba como un punto clave en el desarrollo de la aviación internacional.

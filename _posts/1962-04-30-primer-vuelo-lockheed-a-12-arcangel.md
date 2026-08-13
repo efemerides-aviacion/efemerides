@@ -15,8 +15,7 @@ image: 1962-04-30-primer-vuelo-lockheed-a-12-arcangel.webp
   <figcaption class="post-caption">El Lockheed A-12 60-6924 aterriza en Groom Lake, Nevada, tras su primer vuelo oficial, el 30 de abril de 1962. Fuente: Lockheed Martin / This Day in Aviation.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 30 de abril de 1962, el Lockheed A-12 (60-6924), primer prototipo del proyecto OXCART/Archangel para la CIA, realizó su vuelo oficial en Groom Lake (Área 51), Nevada. Pilotado por Lou Schalk, despegó a 170 nudos, alcanzó 30.000 pies y 400 mph en 59 minutos. Precursor del SR-71 Blackbird, fue diseñado para vuelos Mach 3+ y altitudes superiores a 80.000 pies, reemplazando al vulnerable U-2.</p>

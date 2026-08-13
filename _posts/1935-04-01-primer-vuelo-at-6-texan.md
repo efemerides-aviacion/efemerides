@@ -14,8 +14,7 @@ image: 1935-04-01-primer-vuelo-at-6-texan.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1935-04-01-primer-vuelo-at-6-texan.webp" alt="Dos entrenadores North American AT-6 Texan en vuelo">
   <figcaption class="post-caption">Dos entrenadores North American AT‑6C‑NT Texan de la U.S. Army Air Forces (s/n 42‑43925 y 42‑43929) en vuelo cerca de Luke Field, Arizona (EE. UU.), en 1943. Fuente: MSN – Today in Aviation History: First Flight of the North American AT‑6 Texan.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 1 de abril de 1935, el prototipo NA-16, diseñado por North American Aviation (NAA), realizó su primer vuelo en Dundalk, Maryland, pilotado por Eddie Allen. Este avión, concebido para sustituir a los obsoletos entrenadores biplanos, sentó las bases de una familia de más de 15.000 ejemplares que, con las designaciones BC-1, AT-6, T-6, SNJ y Harvard, se convirtió en el entrenador avanzado por excelencia de las fuerzas aéreas aliadas durante la Segunda Guerra Mundial y en el avión que formó a generaciones de pilotos en más de 60 países.</p>

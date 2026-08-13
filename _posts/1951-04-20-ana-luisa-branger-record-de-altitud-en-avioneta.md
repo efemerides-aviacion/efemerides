@@ -15,8 +15,7 @@ image: 1951-04-20-ana-luisa-branger-record-de-altitud-en-avioneta.webp
   <figcaption class="post-caption">Ana Luisa Branger, pionera de la aviación civil venezolana, retratada con indumentaria de vuelo. Fecha: ca. década de 1950. Fuente: Venezolanos Ilustres, artículo “La aviación civil tiene una representante: Ana Luisa Branger”.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 20 de abril de 1951, la aviadora venezolana Ana Luisa Branger batió su propio récord mundial de altitud en avioneta ligera al alcanzar 8.276 metros (27.152 pies) en un Piper Cub Special desde el aeropuerto de Hybla Valley, cerca de Alexandria, Virginia. La hazaña fue supervisada y certificada por la National Aeronautic Association (NAA) y la Fédération Aéronautique Internationale (FAI), y superó la marca anterior de 25.000 pies (7.620 m) establecida por el ingeniero aeronáutico francés René Leduc. Este logro, sumado a su primer récord mundial alcanzado el 31 de marzo de 1950 (7.469 m), consolidó a Branger como una de las figuras más destacadas de la aviación civil femenina a nivel global.</p>

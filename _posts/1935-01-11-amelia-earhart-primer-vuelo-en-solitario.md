@@ -14,8 +14,7 @@ image: 1935-01-11-amelia-earhart-primer-vuelo-en-solitario.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1935-01-11-amelia-earhart-primer-vuelo-en-solitario.webp" alt="Amelia Earhart llegada a Oakland">
   <figcaption class="post-caption">Amelia Earhart es recibida con una lluvia de flores tras aterrizar en Oakland, California, en enero de 1935. Fue la primera persona en volar con éxito desde Hawái a California. Fotografía de Time & Life Pictures vía Getty (National Geographic).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 11 de enero de 1935, Amelia Earhart despegó de Wheeler Field, Honolulu, para realizar una de las travesías más peligrosas de la aviación de la época: cruzar el Océano Pacífico desde Hawái hasta California. A bordo de su Lockheed Vega 5B (matrícula NR-965Y), apodado "Little Red Bus", recorrió 2.408 millas (3.875 km) en 18 horas y 15 minutos. Este vuelo no solo consolidó su estatus como pionera, sino que demostró la viabilidad de rutas transoceánicas de larga distancia, superando el desastroso historial de la carrera aérea Dole de 1927, donde varios aviadores perdieron la vida intentando el mismo trayecto.</p>

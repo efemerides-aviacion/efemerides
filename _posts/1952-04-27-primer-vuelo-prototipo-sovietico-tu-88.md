@@ -15,8 +15,7 @@ image: 1952-04-27-primer-vuelo-prototipo-sovietico-tu-88.webp
   <figcaption class="post-caption">Tupolev Tu-16 en vuelo, aproximadamente dos años después del primer vuelo del prototipo Tu-88, efectuado el 27 de abril de 1952. Fuente: This Day in Aviation.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 27 de abril de 1952 realizó su primer vuelo el prototipo soviético Tu-88, base del futuro Tupolev Tu-16, con N. S. Rybko al mando. El programa nació a partir de trabajos iniciados por la oficina Tupolev en 1950 y fue impulsado por la necesidad soviética de un bombardero a reacción de largo alcance. Tras sus ensayos iniciales, el modelo fue aprobado para producción en diciembre de 1952 y entró en servicio operativo en 1954 como Tu-16, recibiendo la designación OTAN Badger-A.</p>

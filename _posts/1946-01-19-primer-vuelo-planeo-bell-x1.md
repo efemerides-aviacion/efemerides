@@ -15,8 +15,7 @@ image: 1946-01-19-primer-vuelo-planeo-bell-x1.jpg
   <figcaption class="post-caption">Boeing B-29 Superfortress modificado para lanzamiento del Bell XS-1 (s/n 46-062), Pinecastle Army Air Field (Florida), enero 1946, previo al primer vuelo en planeo del 19 de enero pilotado por Jack Woolams. U.S. Army Air Forces/NACA, dominio público.
 </figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 19 de enero de 1946, el Bell XS‑1 (posteriormente designado X‑1) realizó su primer vuelo en planeo sin motor, lanzado desde un Boeing B‑29 sobre Pinecastle Army Airfield (Florida). El aparato completó un aterrizaje planeado tras unos 12 minutos, iniciando la serie de pruebas que lo convertirían en el primer avión en superar la barrera del sonido.</p>

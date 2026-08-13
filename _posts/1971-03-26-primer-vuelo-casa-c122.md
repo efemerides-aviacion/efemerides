@@ -14,8 +14,7 @@ image: 1971-03-26-primer-vuelo-casa-c122.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1971-03-26-primer-vuelo-casa-c122.webp" alt="Primer prototipo del CASA C-212 Aviocar">
   <figcaption class="post-caption">El primer prototipo del C-212 en el Museo del Aire de Cuatro Vientos. Durante los años 70 y 80 el INTA usó de manera permanente los dos prototipos en el escuadrón 406 de ensayos en vuelo de Torrejón. Fuente: <a href="https://es.wikipedia.org/wiki/CASA_C-212_Aviocar#/media/Archivo:C-212_prototipo.JPG">Wikipedia (ES) – CASA C‑212 Aviocar</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 26 de marzo de 1971 despegó por primera vez el prototipo del CASA C-212 Aviocar (matrícula XT.12-1) desde la Base Aérea de Getafe, España, iniciando el programa de uno de los aviones tácticos más emblemáticos de Construcciones Aeronáuticas SA. Concebido como un STOL de transporte ligero, el C-212 fue diseñado para misiones de carga, paracaidistas, ambulancia aérea y transporte de pasajeros, cubriendo tanto el segmento militar como el civil. Con el tiempo evolucionó hacia variantes especializadas, entre ellas modelos de patrullaje marítimo y plataformas de guerra electrónica (Elint/ECM), operadas por varias fuerzas aéreas y navales.</p>

@@ -15,8 +15,7 @@ image: 1960-05-01-lockheed-u2-derribado-por-misil-de-urss.webp
   <figcaption class="post-caption">Oficiales soviéticos examinando restos del U-2 de Powers en Sverdlovsk, mayo 1960. Incluye equipo de vigilancia y paracaídas recuperados intactos. Fuente: Archivo histórico.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 1 de mayo de 1960, el U-2C de la CIA pilotado por Francis Gary Powers fue derribado por un misil S-75 soviético cerca de Sverdlovsk (URSS) durante una misión de reconocimiento sobre sitios de misiles ICBM. Powers se eyectó y fue capturado; Estados Unidos intentó encubrirlo como vuelo meteorológico de la NASA, pero Jrushchov expuso los restos y al piloto vivo. El incidente canceló la Cumbre de París y tensó la Guerra Fría, acelerando el desarrollo del SR-71 y los satélites espía.</p>

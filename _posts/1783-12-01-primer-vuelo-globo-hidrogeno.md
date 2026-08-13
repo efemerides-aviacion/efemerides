@@ -14,8 +14,7 @@ image: 1783-12-01-primer-vuelo-globo-hidrogeno.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1783-12-01-primer-vuelo-globo-hidrogeno.webp" alt="Jacques Charles y Nicolas-Louis Robert en el primer vuelo tripulado en globo de hidrógeno, París 1783">
   <figcaption class="post-caption">El profesor Jacques Charles y Nicolas-Louis Robert realizan el primer vuelo tripulado en globo de hidrógeno del mundo el 1 de diciembre de 1783 en los Jardines de las Tullerías, en París. Fuente: La obra «Histoire de France», publicada hacia 1880 (grabado). <a href="https://www.meisterdrucke.es/impresion-art%C3%ADstica/French-School/938638/El-profesor-Jacques-Charles-y-Nicolas-Louis-Robert-vuelan-el-primer-globo-de-hidr%C3%B3geno-tripulado-del-mundo-el-1-de-diciembre-de-1783-en-los-Jardines-de-las-Tuller%C3%ADas,-Par%C3%ADs,-de-'Histoire-de-France',-publicado-c.1880.html">MeisterDrucke</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 1 de diciembre de 1783, el físico francés Jacques Alexandre César Charles y el ingeniero Nicolas-Louis Robert realizaron el primer vuelo tripulado en un globo de hidrógeno. Despegaron desde los Jardines de las Tullerías en París ante una multitud estimada de 400,000 personas, incluyendo a Benjamin Franklin. El vuelo duró 2 horas y 5 minutos, recorriendo 43 km hasta Nesles-la-Vallée. Charles posteriormente ascendió en solitario hasta aproximadamente 3,000 metros, sufriendo un intenso dolor de oído y nunca volvió a volar. Este hito demostró la superioridad del hidrógeno sobre el aire caliente para vuelos de larga duración y estableció los principios básicos de la aerostación moderna.</p>
