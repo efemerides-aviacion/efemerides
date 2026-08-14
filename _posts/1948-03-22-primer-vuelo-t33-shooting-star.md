@@ -19,7 +19,7 @@ image: 1948-03-22-primer-vuelo-t33-shooting-star.jpg
 <div class="highlight-box">
 <p>El 22 de marzo de 1948, el piloto de pruebas Tony LeVier despegó a bordo del prototipo TP-80C (posteriormente redesignado TF-80C y finalmente T-33A) desde el aeropuerto de Lockheed en Burbank, California. Este avión era un derivado biplaza del caza F-80 Shooting Star, alargado para albergar una cabina en tándem. El vuelo inaugural marcó el nacimiento de un entrenador que se convertiría en el estándar mundial de transición a reactores durante la Guerra Fría, con más de 6.500 unidades construidas entre 1948 y 1959, operado por más de 30 países.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 22 de marzo de 1948
@@ -28,7 +28,7 @@ image: 1948-03-22-primer-vuelo-t33-shooting-star.jpg
 - **Aeronave/empresa involucrada:** Lockheed TP-80C-1-LO (posteriormente redesignado TF-80C, luego T-33A), número de serie 48-356 / Lockheed Aircraft Corporation
 - **Resultado inmediato:** Primer vuelo exitoso del entrenador biplaza, que demostró la viabilidad de la conversión del caza F-80 para entrenamiento avanzado, sentando las bases para la producción en serie.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -75,7 +75,7 @@ El Lockheed T-33 Shooting Star es uno de los aviones militares más importantes 
 - **Formación de pilotos:** Se estima que decenas de miles de pilotos militares de la OTAN y países amigos dieron sus primeros pasos en reactores a bordo del T-33.
 - **Precursor de la aviación jet:** El T-33 fue el puente entre la generación de pilotos de hélice y la era de los cazas supersónicos, jugando un papel clave en la transición tecnológica de la aviación militar.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -97,7 +97,7 @@ El Lockheed T-33 Shooting Star es uno de los aviones militares más importantes 
     <li><a href="https://www.youtube.com/watch?v=oRZiAujjUSg">Castle Air Museum – Lockheed T‑33 Shooting Star (video)</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-20 10:15:00 UTC  

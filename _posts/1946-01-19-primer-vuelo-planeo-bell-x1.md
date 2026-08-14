@@ -21,7 +21,7 @@ image: 1946-01-19-primer-vuelo-planeo-bell-x1.jpg
 <p>El 19 de enero de 1946, el Bell XS‑1 (posteriormente designado X‑1) realizó su primer vuelo en planeo sin motor, lanzado desde un Boeing B‑29 sobre Pinecastle Army Airfield (Florida). El aparato completó un aterrizaje planeado tras unos 12 minutos, iniciando la serie de pruebas que lo convertirían en el primer avión en superar la barrera del sonido.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos Verificados del Evento
 - **Fecha:** 19 de enero de 1946  
 - **Lugar:** Pinecastle Army Airfield, Florida, EE.UU.  
@@ -31,7 +31,7 @@ image: 1946-01-19-primer-vuelo-planeo-bell-x1.jpg
 - **Altura de lanzamiento:** 29 000 pies (8 800 m) desde un Boeing B‑29  
 - **Resultado inmediato:** Primer vuelo en planeo para evaluar estabilidad y manejo a baja velocidad antes de instalar el motor cohete XLR‑11.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El Bell XS‑1 fue el primer avión diseñado específicamente para vuelos supersónicos.
 
@@ -56,7 +56,7 @@ El programa X‑1 abrió el camino a la investigación supersónica y a los prog
 ### Legado
 El Bell X‑1 es recordado como el primer avión en superar Mach 1 en vuelo nivelado, marcando un hito en la historia de la aviación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -71,7 +71,7 @@ El Bell X‑1 es recordado como el primer avión en superar Mach 1 en vuelo nive
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-15 17:05:00 UTC  
 - **Fuentes primarias consultadas:** NASA; Wikipedia; Vintage Aviation News; SPS Aviation; This Day in Aviation; Niagara Aerospace Museum  

@@ -21,7 +21,7 @@ image: 1946-04-24-primer-vuelo-mig-9.webp
 <p>El 24 de abril de 1946 voló por primera vez el Mikoyan-Gurevich MiG-9, el primer caza a reacción de producción propia de la URSS, configurado como bimotor turborreactor de primera generación que abriría el camino a la posterior familia MiG-15. Pilotado por Alexéi Grinchik, el prototipo I-300 despegó desde el aeródromo de Chkalovskaya (cerca de Moscú), en un vuelo que duró aproximadamente seis minutos. Ese mismo día, dos horas después, también realizó su primer vuelo el Yakovlev Yak-15, marcando el inicio de la era de los cazas a reacción soviéticos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -40,7 +40,7 @@ image: 1946-04-24-primer-vuelo-mig-9.webp
 - **Entrada en servicio:** 1948 (retirado en 1952 en la URSS)
 - **Designación OTAN:** Fargo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -73,7 +73,7 @@ La rivalidad entre las oficinas de diseño soviéticas (OKB) era intensa. Mikoya
 - **1950:** El diseño se demuestra obsoleto frente al MiG-15, que utiliza el motor Rolls-Royce Nene copiado (RD-45).
 - **1952:** El MiG-9 es retirado del servicio en la URSS.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El primer vuelo: el nacimiento del MiG-9
 
@@ -93,7 +93,7 @@ La solución inicial fue instalar un carenado rectangular hueco en el cañón N-
 
 La OTAN asignó al MiG-9 el nombre en código "Fargo". El origen de esta designación era arbitrario, como todas las designaciones OTAN para aviones soviéticos, que comenzaban con la letra "F" para los cazas (Fighter). Fargo fue simplemente el nombre asignado sin un significado especial.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Producción y servicio
 
@@ -110,7 +110,7 @@ A partir del MiG-9 se desarrollaron múltiples versiones experimentales:
 - **I-320 (MiG-9FN):** Diseñado para usar un motor Rolls-Royce Nene importado, pero nunca se completó porque el MiG-15 utilizó el mismo motor y ofrecía un rendimiento superior.
 - **MiG-9UTI (Uchebno-Trenirovochnyy Istrebitel):** Versión biplaza de entrenamiento, diseñada para la transición de pilotos a los cazas a reacción con tren de aterrizaje triciclo. Entró en producción a partir de 1948, pero su desarrollo fue limitado porque el MiG-15 (con su propia versión de entrenamiento UTI) ya demostraba un rendimiento superior.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones (MiG-9 / FS / I-301)
 
@@ -127,7 +127,7 @@ A partir del MiG-9 se desarrollaron múltiples versiones experimentales:
 - **Límites de fuerzas G:** +6
 - **Motor:** 2 × turborreactores RD-20, 7,8 kN (800 kgf) de empuje cada uno
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -139,7 +139,7 @@ A partir del MiG-9 se desarrollaron múltiples versiones experimentales:
 
 - **Legado en China:** El MiG-9 sirvió como base para el Shenyang J-2, el primer caza a reacción producido en China.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -149,7 +149,7 @@ Hoy sobreviven muy pocos ejemplares. Un MiG-9 se exhibe en el Museo Central de l
 
 El 24 de abril de 1946 sigue siendo una fecha emblemática en la historia de la aviación soviética. Ese día, dos jóvenes pilotos (Grinchik e Ivanov) y dos jóvenes oficinas de diseño (MiG y Yak) compitieron y triunfaron, lanzando una carrera que llevaría a la URSS a la vanguardia mundial de la aviación militar durante la Guerra Fría.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha del primer vuelo:</strong> El 24 de abril de 1946 es la fecha históricamente aceptada y documentada para el primer vuelo del MiG-9. Sin embargo, el prototipo I-300 realizó un "salto" previo de prueba (elevarse unos metros del suelo) el 19 de abril de 1946, que algunos consideran un vuelo rudimentario. El lanzamiento de la moneda al aire para decidir el orden entre el MiG-9 y el Yak-15 es una tradición ampliamente citada, aunque no documentada oficialmente.</p>
@@ -157,7 +157,7 @@ El 24 de abril de 1946 sigue siendo una fecha emblemática en la historia de la 
 <p><strong>Sobre el apodo "Butterfly":</strong> El carenado tipo "mariposa" instalado en el cañón N-37 fue una solución temporal al problema de apagado de motores. Permitía vuelos de hasta 10.100 metros, pero se desintegraba después de solo 813 disparos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -174,7 +174,7 @@ El 24 de abril de 1946 sigue siendo una fecha emblemática en la historia de la 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

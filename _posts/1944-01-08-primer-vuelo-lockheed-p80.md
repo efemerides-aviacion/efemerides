@@ -23,7 +23,7 @@ El 8 de enero de 1944, el prototipo Lockheed XP‑80 Shooting Star realizó su p
 </p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 8 de enero de 1944  
 - **Lugar:** Muroc Army Air Field, California, EE.UU.  
@@ -31,7 +31,7 @@ El 8 de enero de 1944, el prototipo Lockheed XP‑80 Shooting Star realizó su p
 - **Aeronave/empresa involucrada:** Lockheed XP‑80 Shooting Star / Lockheed Aircraft Corporation  
 - **Resultado inmediato:** Primer vuelo exitoso de un caza a reacción operacional estadounidense  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 ### Entorno social
 La Segunda Guerra Mundial impulsaba la carrera tecnológica. Alemania ya había probado el Messerschmitt Me 262, lo que motivó a EE.UU. a acelerar su propio programa.
@@ -57,7 +57,7 @@ El vuelo fue símbolo del avance tecnológico estadounidense y del inicio de una
 ### Legado
 El P‑80 Shooting Star es recordado como el primer caza a reacción operacional estadounidense y precursor de generaciones de aviones de combate.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -67,7 +67,7 @@ El P‑80 Shooting Star es recordado como el primer caza a reacción operacional
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-06 16:41:00 UTC  
 - **Fuentes primarias consultadas:** Archivos de Lockheed; USAAF; Smithsonian Air & Space  

@@ -19,7 +19,7 @@ image: 1948-12-02-primer-vuelo-mentor-t34.jpg
 <div class="highlight-box">
 <p>El 2 de diciembre de 1948, el piloto de pruebas Vern Carstens realizó el primer vuelo del prototipo Beechcraft Model 45 (T-34 Mentor) en Wichita, Kansas. Desarrollado como iniciativa privada por Beech Aircraft, el T-34 se convirtió en entrenador primario para la USAF (T-34A, 1953) y USN (T-34B, 1955), con más de 1.900 unidades producidas inicialmente. Su diseño robusto y económico lo hizo icónico en la aviación militar global.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 2 de diciembre de 1948
@@ -28,7 +28,7 @@ image: 1948-12-02-primer-vuelo-mentor-t34.jpg
 - **Aeronave/empresa involucrada:** Beechcraft Model 45 (prototipo) / Beech Aircraft Corporation
 - **Resultado inmediato:** Primer vuelo exitoso del prototipo, validando el diseño de un entrenador primario que eventualmente sería adoptado por la USAF y la USN, iniciando una familia de aeronaves con décadas de servicio.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -79,7 +79,7 @@ El Beechcraft T-34 Mentor ocupa un lugar destacado en la historia de la aviació
 <p><strong>Nota aclaratoria sobre la identidad del prototipo:</strong> Las fuentes históricas coinciden en que el primer vuelo del Beechcraft Model 45 (posteriormente T-34 Mentor) tuvo lugar el 2 de diciembre de 1948, pilotado por Vern Carstens. Sin embargo, no existe un registro documental claro del número de serie o matrícula civil (registration N-number) de ese prototipo inicial. El avión era una iniciativa privada de Beech Aircraft Corporation y probablemente portaba matrícula de pruebas de fábrica. Los primeros T-34 con designación militar fueron los tres YT-34 entregados a la USAF en 1950 (matrículas 49-2430, 49-2431 y 49-2432), pero estos corresponden a una fase posterior del programa. Por lo tanto, la designación exacta del prototipo del 2 de diciembre de 1948 no está documentada en las fuentes comúnmente disponibles, limitándose las referencias a "prototipo Model 45" o "primer prototipo".</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -90,7 +90,7 @@ El Beechcraft T-34 Mentor ocupa un lugar destacado en la historia de la aviació
     <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-beechcraft-t-34-mentor-2.html">Vintage Aviation News – First Flight of the Beechcraft T-34 Mentor</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-19 11:20:00 UTC  

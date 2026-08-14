@@ -21,7 +21,7 @@ image: 1942-04-18-incursion-doolittle.webp
 <p>El 18 de abril de 1942, dieciséis bombarderos B-25 Mitchell despegaron desde la cubierta del portaaviones USS Hornet (CV-8) para realizar el primer bombardeo aéreo estadounidense sobre Japón. La incursión, liderada por el teniente coronel James H. "Jimmy" Doolittle, fue concebida como una respuesta directa al ataque japonés contra Pearl Harbor del 7 de diciembre de 1941. Aunque el daño material fue limitado, la misión demostró que el archipiélago japonés era vulnerable a ataques aéreos, elevó la moral estadounidense y provocó profundas consecuencias estratégicas en la guerra del Pacífico.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -38,7 +38,7 @@ image: 1942-04-18-incursion-doolittle.webp
 - **Bajas japonesas:** Aprox. 50 muertos, 400 heridos
 - **Consecuencias en China:** Aprox. 250.000 civiles chinos asesinados por el ejército japonés en represalia
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -72,7 +72,7 @@ La incursión combinó por primera vez de manera masiva fuerzas del Ejército (U
 - **Diciembre de 1943:** Muere en cautiverio el cuarto tripulante capturado (Meder).
 - **Agosto de 1945:** Los cuatro tripulantes sobrevivientes son liberados.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La Incursión: detalles clave
 
@@ -100,7 +100,7 @@ Un B-25, pilotado por el capitán Edward J. York, no pudo llegar a China y aterr
 
 En los tres meses siguientes a la incursión, el ejército japonés lanzó la campaña de Zhejiang-Jiangxi, masacrando a aproximadamente 250.000 civiles chinos en las zonas que habían ayudado a los pilotos estadounidenses a escapar. Unas 23.000 personas fueron ejecutadas en represalia directa por la ayuda prestada a los Doolittle Raiders.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -112,7 +112,7 @@ En los tres meses siguientes a la incursión, el ejército japonés lanzó la ca
 
 - **Daño material limitado:** Aunque el daño a las instalaciones japonesas fue mínimo en comparación con los posteriores bombardeos con B-29, el efecto psicológico fue inmenso. Los japoneses no pudieron evitar que 16 bombarderos enemigos sobrevolaran su capital.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -120,13 +120,13 @@ La incursión Doolittle es recordada como una de las misiones más audaces de la
 
 El último Doolittle Raider falleció en 2019 a la edad de 103 años. La hazaña ha sido inmortalizada en el cine, con la película "Treinta segundos sobre Tokio" (1944) y en la más reciente "Pearl Harbor" (2001). El USS Hornet (CV-8), que lanzó a los Raiders, fue hundido en la Batalla de las Islas Santa Cruz el 27 de octubre de 1942, pero su nombre fue heredado por otro portaaviones, el USS Hornet (CV-12), que hoy es un museo en Alameda, California, donde se puede visitar una exhibición dedicada a los Doolittle Raiders.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La incursión Doolittle fue la primera operación en la que bombarderos terrestres despegaron de un portaaviones para atacar territorio enemigo. Sin embargo, no fue la primera incursión aérea sobre Japón. El 15 de abril de 1942, tres días antes, un hidroavión Consolidated PBY Catalina (con matrícula P-3) lanzado desde un submarino sobrevoló Tokio en una misión de reconocimiento fotográfico, pero no arrojó bombas. La incursión Doolittle fue la primera en arrojar bombas sobre territorio japonés. También es importante destacar que las bajas japonesas incluyeron civiles, ya que algunas bombas impactaron fuera de los objetivos militares debido a las condiciones adversas del vuelo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -143,7 +143,7 @@ El último Doolittle Raider falleció en 2019 a la edad de 103 años. La hazaña
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

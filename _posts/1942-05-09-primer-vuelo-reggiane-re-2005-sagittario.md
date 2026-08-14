@@ -21,7 +21,7 @@ image: 1942-05-09-primer-vuelo-reggiane-re-2005-sagittario.webp
 <p>El 9 de mayo de 1942 marcó el primer vuelo del Reggiane Re.2005 Sagittario, uno de los cazas italianos más avanzados de la Segunda Guerra Mundial. Su relevancia histórica radica en que fue una de las últimas y más refinadas respuestas italianas al problema del caza moderno, destacando por su diseño aerodinámico y su alto potencial de rendimiento. Aunque llegó tarde para influir de forma decisiva en la guerra, el Re.2005 quedó como una referencia técnica de la industria aeronáutica italiana, considerado por muchos como uno de los mejores cazas del Eje.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -40,7 +40,7 @@ image: 1942-05-09-primer-vuelo-reggiane-re-2005-sagittario.webp
 - **Unidades construidas:** 48 (incluyendo prototipos y versiones de preserie)
 - **Usuarios principales:** Regia Aeronautica, Aeronautica Nazionale Repubblicana, Luftwaffe
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del Reggiane Re.2005 Sagittario
 
@@ -67,7 +67,7 @@ El Re.2005 fue diseñado en torno al potente motor alemán Daimler-Benz DB 605, 
 - **Capacidad de combustible:** 525 litros en cuatro tanques alares autosellantes
 - **Capacidad de bombas:** Hasta 1.000 kg en soporte bajo el fuselaje (no estándar) o 160 kg en soportes alares
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -107,7 +107,7 @@ El Juicio del prototipo se retrasó considerablemente debido a un incidente curi
 - **8 de septiembre de 1943:** Armisticio de Cassibile. La mayoría de los Re.2005 construidos son destruidos o capturados por los alemanes.
 - **1943-1944:** Tras el armisticio, algunos Re.2005 sirven en la Aeronautica Nazionale Repubblicana (ANR) y otros son utilizados por la Luftwaffe para la defensa de Berlín.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El primer vuelo
 
@@ -121,7 +121,7 @@ El prototipo MM.494 sufrió una serie de percances en sus primeros meses de prue
 
 Posteriormente, durante las pruebas en Guidonia, el avión sufrió más problemas: una fuga en el sistema de refrigeración del motor roció al piloto con agua hirviendo, y los carenados del tren de aterrizaje se desprendieron durante una prueba en picado a velocidades cercanas a los 900 km/h, dañando la célula. Estos incidentes retrasaron considerablemente el programa de pruebas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La competencia con G.55 y C.205
 
@@ -129,7 +129,7 @@ El Re.2005 compitió directamente con el Fiat G.55 y el Macchi C.205 por el cont
 
 Sin embargo, la Regia Aeronautica, reconociendo el potencial del Re.2005, realizó un pedido inicial de 750 unidades, una cifra optimista para la industria italiana en tiempos de guerra. Desgraciadamente, la producción se vio gravemente limitada por la capacidad industrial, los bombardeos aliados y la escasez de materias primas. Cuando Italia firmó el armisticio con los Aliados el 8 de septiembre de 1943, solo se habían completado 48 ejemplares.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El Re.2005 en combate
 
@@ -143,7 +143,7 @@ Después del armisticio del 8 de septiembre de 1943, la mayoría de los Re.2005 
 
 Otros seis Re.2005 sirvieron en la Aeronautica Nazionale Repubblicana (ANR), la fuerza aérea de la República de Saló, donde se utilizaron principalmente para el entrenamiento avanzado de pilotos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -152,7 +152,7 @@ Otros seis Re.2005 sirvieron en la Aeronautica Nazionale Repubblicana (ANR), la 
 - **Final de la producción:** La producción se limitó a solo 48 unidades debido a la complejidad del diseño, los bombardeos aliados y el armisticio. La Regia Aeronautica había ordenado 750 aviones, pero la realidad de la guerra hizo imposible cumplir con esa cifra.
 - **Legado técnico:** El diseño del ala de tres largueros de Maraschini fue una innovación significativa, y el tren de aterrizaje totalmente retráctil (incluyendo la rueda de cola) era una característica avanzada para la época.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -173,7 +173,7 @@ Hoy, ningún Re.2005 original sobrevive en condiciones de vuelo, aunque hay algu
 <p><strong>Sobre el posible uso por la Luftwaffe en Berlín:</strong> Los informes sobre Re.2005 alemanes volando en la defensa de Berlín a finales de la guerra son persistentes pero no están confirmados. Es posible que algunos ejemplares capturados fueran utilizados por la Luftwaffe, pero se carece de documentación concluyente. Se presenta como una posibilidad no confirmada.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -188,7 +188,7 @@ Hoy, ningún Re.2005 original sobrevive en condiciones de vuelo, aunque hay algu
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

@@ -20,7 +20,7 @@ image: 1943-05-17-b17-memphis-belle-25-misiones-leyenda-mito.webp
 
 El 17 de mayo de 1943, el B-17F "Memphis Belle" (número de serie 41-24485) y su tripulación, al mando del capitán Robert K. Morgan, completaron su 25ª misión de combate contra la Europa ocupada por los nazis. La misión número 25 fue un ataque a la base de submarinos de Lorient, Francia. Este hito significaba el final de su "gira de combate", un logro notable dado el altísimo riesgo que corrían los bombarderos pesados de la 8ª Fuerza Aérea en 1943. Convertida en un símbolo de la resistencia y la potencia aérea estadounidense, la tripulación y el avión regresaron a Estados Unidos para protagonizar una exitosa gira de venta de bonos de guerra, inmortalizando la leyenda del "Memphis Belle".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ El 17 de mayo de 1943, el B-17F "Memphis Belle" (número de serie 41-24485) y su
 - **Posterioridad:** Gira de bonos de guerra por Estados Unidos (junio de 1943 - principios de 1944)
 - **Documental:** "Memphis Belle: A Story of a Flying Fortress" (1944), dirigido por William Wyler
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del Boeing B-17F Flying Fortress
 
@@ -56,7 +56,7 @@ El B-17F Flying Fortress fue la columna vertebral de la campaña de bombardeos d
 - **Armamento:** 13 ametralladoras Browning AN-M2 de calibre .50 (12,7 mm)
 - **Capacidad de bombas:** 2.722 kg (6.000 lb) en misiones de largo alcance; máxima de 9.434 kg (20.800 lb) en distancias cortas
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La tripulación de la 25ª misión
 
@@ -70,7 +70,7 @@ El B-17F Flying Fortress fue la columna vertebral de la campaña de bombardeos d
 - **Artillero de torreta ventral:** Sargento John P. Quinlan
 - **Artillero de cola:** Sargento Clarence E. Winchell
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -86,13 +86,13 @@ Aunque el "Memphis Belle" se convirtió en el símbolo por excelencia de las 25 
 
 Sin embargo, el Memphis Belle y su **tripulación completa** fueron los primeros en regresar a Estados Unidos como grupo, habiendo completado su gira de combate. La fama del "Memphis Belle" se debe al documental de William Wyler y a la campaña de relaciones públicas que convirtió a su tripulación en un símbolo patrio, algo que el "Hell's Angels" no tuvo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El documental de William Wyler
 
 El director de cine William Wyler, famoso por películas como "Ben-Hur", se alistó en la USAAF y se propuso filmar un documental sobre una tripulación de bombardero. Junto a su equipo de rodaje, Wyler voló en varias misiones peligrosas para capturar la crudeza del combate aéreo. Las imágenes de la cabina del "Memphis Belle" y de otros B-17, incluyendo las del interior del bombardero durante una misión real, se convirtieron en el corazón del documental de 45 minutos "Memphis Belle: A Story of a Flying Fortress", estrenado en abril de 1944. La película es considerada uno de los mejores documentales bélicos jamás realizados, mostrando sin concesiones el estrés y el peligro que enfrentaban las tripulaciones.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -109,7 +109,7 @@ El director de cine William Wyler, famoso por películas como "Ben-Hur", se alis
 - **2005:** La Fuerza Aérea de EE. UU. recupera el avión para restaurarlo.
 - **17 de mayo de 2018:** El avión completamente restaurado se exhibe en el Museo Nacional de la Fuerza Aérea de EE. UU. en Dayton, Ohio, exactamente 75 años después de su última misión.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El destino de la tripulación tras la guerra
 
@@ -117,7 +117,7 @@ El director de cine William Wyler, famoso por películas como "Ben-Hur", se alis
 - **James A. Verinis:** Permaneció en la Fuerza Aérea, retirándose como teniente coronel. Falleció en 2003.
 - **Otros miembros:** La mayoría de la tripulación regresó a la vida civil, algunos continuaron en la aviación, y otros llevaron vidas más privadas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -126,7 +126,7 @@ El director de cine William Wyler, famoso por películas como "Ben-Hur", se alis
 - **Documental histórico:** La película de Wyler sigue siendo un testimonio invaluable de la guerra aérea.
 - **Mito vs. Realidad:** La historia del "Memphis Belle" como el primer B-17 en completar 25 misiones es un mito popular que persiste, aunque el avión y su tripulación fueron de los primeros y su historia fue inmortalizada por la eficaz campaña publicitaria.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -144,7 +144,7 @@ El legado del "Memphis Belle" es perdurable. Su historia ha sido contada en libr
 <p>Por lo tanto, el Memphis Belle fue el segundo avión en alcanzar 25 misiones, pero el primero en tener una tripulación completa que regresó como grupo, y su fama se debe principalmente a la campaña publicitaria que lo acompañó.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -157,7 +157,7 @@ El legado del "Memphis Belle" es perdurable. Su historia ha sido contada en libr
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

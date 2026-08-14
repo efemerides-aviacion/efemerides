@@ -21,7 +21,7 @@ image: 1945-05-08-ultimo-avion-derribado-dia-victoria-europa.webp
 <p>El 8 de mayo de 1945, el Día de la Victoria en Europa (VE Day), cuando la rendición alemana estaba a punto de entrar en vigor a las 23:01 horas, un caza estadounidense P-38 Lightning pilotado por el Teniente Segundo K.L. Smith interceptó y derribó un avión de transporte alemán Siebel Si 204 cerca de Rodach (Baviera). Este derribo, ocurrido alrededor de las 20:00 horas, es considerado por diversas fuentes historiográficas como el probable último avión alemán abatido por fuego aire-aire en el frente occidental antes del cese definitivo de las hostilidades.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -34,7 +34,7 @@ image: 1945-05-08-ultimo-avion-derribado-dia-victoria-europa.webp
 - **Contexto temporal:** El alto el fuego entró en vigor a las 23:01 horas del mismo día
 - **Estatus histórico:** Considerado por múltiples fuentes como "probablemente el último avión alemán derribado en el frente occidental"
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -77,13 +77,13 @@ El derribo del Siebel Si 204 cerca de Rodach, ocurrido el mismo día de la capit
 
 A diferencia de otros derribos más famosos, como el del Ju 88 conservado en el Smithsonian, el Siebel Si 204 de Rodach no dejó restos preservados. Su importancia reside en su carácter de probable último derribo aire-aire en el frente occidental, una distinción que sigue siendo objeto de debate entre especialistas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
 > **Nota sobre las fuentes:** Durante el proceso de verificación de esta efeméride, no fue posible localizar enlaces activos y pertinentes que permitieran acceder directamente a fuentes primarias (como informes de misión del 474th Fighter Group) o a artículos secundarios verificables (como los de *Air Force Magazine* o *HistoryNet*, cuyas páginas ya no existen). La información presentada se ha construido a partir del consenso historiográfico disponible en fuentes enciclopédicas (Wikipedia) y foros especializados (WW2Aircraft.net), pero ninguna de estas fuentes cumple con el estándar de verificabilidad requerido por esta publicación. Se omite, por tanto, el listado de enlaces.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

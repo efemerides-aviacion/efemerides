@@ -20,7 +20,7 @@ image: 1948-05-17-primer-vuelo-boulton-paul-balliol-turboprop.webp
 
 El 17 de mayo de 1948, el Boulton Paul Balliol se convirtió en el primer avión monomotor turbohélice del mundo en volar, un hito tecnológico que abrió el camino para la aviación comercial y militar impulsada por turbopropulsores. Diseñado para cumplir la Especificación T.7/45 del Ministerio del Aire británico como un entrenador avanzado, el Balliol demostró el potencial de los motores de turbina de gas para propulsar aeronaves. Aunque el primer prototipo había volado el 30 de mayo de 1947 con un motor de pistón Bristol Mercury (provisional), fue el primer prototipo modificado, equipado con el Armstrong Siddeley Mamba, el que escribió su nombre en la historia de la aviación. Finalmente, la versión de producción (Balliol T.2) optó por el motor de pistón Rolls-Royce Merlin, entrando en servicio con la RAF en 1950.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -32,7 +32,7 @@ El 17 de mayo de 1948, el Boulton Paul Balliol se convirtió en el primer avión
 - **Fabricante:** Boulton Paul Aircraft Ltd., Wolverhampton
 - **Diseñador jefe:** John Dudley North
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del motor Armstrong Siddeley Mamba
 
@@ -42,7 +42,7 @@ El 17 de mayo de 1948, el Boulton Paul Balliol se convirtió en el primer avión
 - **Característica:** Primer turbopropulsor británico diseñado específicamente para aviones
 - **Aeronaves que lo utilizaron:** Boulton Paul Balliol, Handley Page Marathon, Miles Marathon
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -50,7 +50,7 @@ Al finalizar la Segunda Guerra Mundial, la Royal Air Force buscaba reemplazar su
 
 Boulton Paul Aircraft, con sede en Wolverhampton, compitió por el contrato con su diseño P.108, que más tarde se denominaría Balliol. Su principal competidor fue el Avro 701 Athena. Ambos aviones fueron diseñados para utilizar el nuevo motor turbohélice Armstrong Siddeley Mamba.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -64,14 +64,14 @@ Boulton Paul Aircraft, con sede en Wolverhampton, compitió por el contrato con 
 - **1950:** El Balliol T.2 entra en servicio con la RAF, reemplazando al Harvard
 - **Septiembre de 1957:** Retiro del Balliol del servicio activo en la RAF
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Los prototipos del Balliol
 
 - **VL892:** Primer prototipo. Voló originalmente con motor Bristol Mercury 30 el 30 de mayo de 1947. Tras el accidente del VL917, fue modificado para instalarle el motor turbopropulsor Armstrong Siddeley Mamba. Realizó su primer vuelo exitoso con este motor el **17 de mayo de 1948**, convirtiéndose en el primer avión monomotor turbohélice del mundo en volar con éxito.
 - **VL917:** Segundo prototipo. Equipado de fábrica con motor Armstrong Siddeley Mamba. Realizó su primer vuelo el **24 de marzo de 1948**, pero terminó en accidente. El avión quedó destruido, aunque el piloto sobrevivió.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El hito del 17 de mayo de 1948: el primer monomotor turbohélice del mundo
 
@@ -87,7 +87,7 @@ El Balliol compitió con el Avro Athena por ser el primer turbohélice en volar.
 
 El segundo prototipo (matrícula VL917) sufrió un accidente el 24 de marzo de 1948. Durante una prueba, el piloto Lindsay Neale detectó que los indicadores de combustible eran erráticos y decidió regresar a Pendeford. Durante la aproximación, la hélice pasó al paso "superfino" y el acelerador dejó de responder. Con el aumento de la resistencia aerodinámica y la pérdida de empuje, el avión se quedó corto en la aproximación, golpeó un seto y se estrelló en el aeródromo, perdiendo el ala de babor. El piloto sobrevivió, pero la aeronave quedó destruida.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El cambio de especificaciones y el Balliol T.2 (10 de julio de 1948)
 
@@ -95,7 +95,7 @@ A pesar del éxito del prototipo con turbohélice, el Ministerio del Aire cambi�
 
 Boulton Paul adaptó el diseño, y el nuevo Balliol T.2 (con motor Merlin) realizó su primer vuelo el 10 de julio de 1948. Este modelo fue seleccionado sobre el Avro Athena y entró en producción en serie.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Versiones del Boulton Paul Balliol
 
@@ -104,7 +104,7 @@ Boulton Paul adaptó el diseño, y el nuevo Balliol T.2 (con motor Merlin) reali
 - **Balliol T.2:** Versión de producción definitiva con motor Rolls-Royce Merlin 35 de 1.245 hp. Dos asientos laterales. Fue la principal versión construida
 - **Sea Balliol:** Versión naval para la Fleet Air Arm, equipada con ala plegable y gancho de detención para entrenamiento de aterrizajes en portaaviones
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -114,7 +114,7 @@ Boulton Paul adaptó el diseño, y el nuevo Balliol T.2 (con motor Merlin) reali
 - **Competencia con el Avro Athena:** Boulton Paul ganó el contrato de producción frente a su rival Avro, asegurando la continuidad de la compañía.
 - **Corta vida operativa:** Con la llegada de los entrenadores a reacción (como el de Havilland Vampire T.11), el Balliol quedó obsoleto rápidamente y fue retirado después de solo siete años de servicio.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -136,7 +136,7 @@ En total, se construyeron aproximadamente 229 unidades del Balliol (incluyendo p
 <p>El Balliol T.2 con motor Rolls-Royce Merlin voló por primera vez el <strong>10 de julio de 1948</strong>.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -151,7 +151,7 @@ En total, se construyeron aproximadamente 229 unidades del Balliol (incluyendo p
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
