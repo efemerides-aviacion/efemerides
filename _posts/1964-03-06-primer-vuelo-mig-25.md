@@ -14,14 +14,14 @@ image: 1964-03-06-primer-vuelo-mig-25.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1964-03-06-primer-vuelo-mig-25.jpg" alt="Prototipo Ye-155R-1 del MiG-25 en 1964">
   <figcaption class="post-caption">Ye-155R-1 (prototipo del MiG-25R) despegando en su primer vuelo, 6 de marzo de 1964. Fuente: Reddit/r/aviation.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 6 de marzo de 1964, el prototipo de reconocimiento Ye-155R-1 realizó el primer vuelo del que sería el MiG-25 "Foxbat", un interceptor soviético diseñado para contrarrestar las nuevas amenazas aéreas estadounidenses de gran altitud y velocidad. Construido principalmente en acero inoxidable para soportar el calor extremo, era capaz de alcanzar Mach 3 y estableció múltiples récords mundiales. Su aparición causó alarma en Occidente, acelerando el desarrollo del F-15 Eagle, pero el misterio sobre sus capacidades se resolvió en 1976 cuando un piloto soviético desertó con uno a Japón, revelando sus fortalezas y debilidades. Con 1,186 ejemplares construidos, el Foxbat se convirtió en un ícono de la Guerra Fría y precursor del MiG-31.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha del primer vuelo:** 6 de marzo de 1964  
 - **Lugar:** Zhukovsky, URSS  
@@ -32,7 +32,7 @@ image: 1964-03-06-primer-vuelo-mig-25.jpg
 - **Materiales:** 80% acero inoxidable, titanio y aluminio  
 - **Producción total:** 1,186 unidades  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto histórico
 El MiG-25 fue concebido como respuesta soviética a los bombarderos supersónicos y aviones de reconocimiento estadounidenses.
 
@@ -59,7 +59,7 @@ El MiG-25 impulsó el desarrollo del F-15 Eagle en Estados Unidos y redefinió l
 ### Legado
 Operó en fuerzas aéreas de Argelia, Siria, Irak e India, además de la URSS. Aunque la mayoría han sido retirados, su diseño dio origen al MiG-31 Foxhound.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias verificadas
 <div class="references">
   <ul>
@@ -76,7 +76,7 @@ Operó en fuerzas aéreas de Argelia, Siria, Irak e India, además de la URSS. A
 <p><strong>Nota aclaratoria:</strong> Algunas fuentes difieren sobre el lugar exacto del primer vuelo del MiG-25 (Zhukovsky vs. otras bases soviéticas). Además, el nombre del piloto del prototipo Ye-155R-1 no está confirmado en registros públicos. Se prioriza la información más aceptada por la historiografía soviética y occidental.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-03-04 14:20 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES, SKYbrary, BAAA, National Interest, 19FortyFive  

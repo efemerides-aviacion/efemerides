@@ -14,14 +14,14 @@ image: 1964-12-12-alejo-williamson-cruce-andes-planeador.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1964-12-12-alejo-williamson-cruce-andes-planeador.webp" alt="Alejo Williamson junto al Blanik L-13 CC-K7W">
   <figcaption class="post-caption">Alejo Williamson junto al planeador Blanik L-13 CC-K7W utilizado para la travesía del 12 de diciembre de 1964. (Fuente: FACh / Museos aeronáuticos chilenos).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 12 de diciembre de 1964, el piloto chileno Alejo Williamson Dávila se convirtió en el primero en cruzar la Cordillera de los Andes por su parte más alta en un vuelo libre sin motor. A bordo de un planeador Blanik L-13, despegó de Santiago y aterrizó en Mendoza tras casi seis horas de vuelo, logrando un récord mundial y un hito para la aviación a vela.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha:** 12 de diciembre de 1964  
 - **Lugar:** De Santiago (Lo Castillo, Vitacura, Chile) a Mendoza (El Plumerillo, Argentina)  
@@ -31,7 +31,7 @@ image: 1964-12-12-alejo-williamson-cruce-andes-planeador.webp
 - **Operador:** Vuelo civil/deportivo – Reserva FACh  
 - **Resultado inmediato:** Primer cruce de los Andes sin motor por su parte más alta  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 Desde el cruce de Dagoberto Godoy en 1918 con motor, la travesía aérea de los Andes fue un desafío emblemático. El vuelo sin motor requería aprovechar térmicas y corrientes dinámicas, lo que hacía del cruce por la zona del Cristo Redentor y el Aconcagua una proeza de riesgo extremo.
 
@@ -50,7 +50,7 @@ Desde el cruce de Dagoberto Godoy en 1918 con motor, la travesía aérea de los 
 ### Legado
 Williamson (1925–2014) continuó como instructor de planeadores. Su cruce de 1964 sigue siendo un hito fundamental en la historia aeronáutica chilena y mundial, recordado cada 12 de diciembre en el Día de la Aeronáutica Nacional de Chile.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -65,7 +65,7 @@ Williamson (1925–2014) continuó como instructor de planeadores. Su cruce de 1
 <p><strong>Nota aclaratoria:</strong> La duración del vuelo varía según las fuentes (5:52, 5:55 o 6:15). Se adopta el consenso de casi seis horas.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-10 17:58 CST  
 - **Fuentes primarias consultadas:** FACh, Museos aeronáuticos chilenos, DGCA, BioBioChile 

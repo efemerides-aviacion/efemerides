@@ -14,7 +14,7 @@ image: 1974-01-03-record-guinness-supervivencia-aerea.webp
   <figcaption class="post-caption">Vesna Vulović en uniforme de auxiliar de vuelo, junto a un avión DC-9 de Yugoslav Airlines (JAT). Fotografía tomada en aeropuerto europeo durante la década de 1970.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -22,7 +22,7 @@ image: 1974-01-03-record-guinness-supervivencia-aerea.webp
     El 3 de enero de 1974 se reconoció oficialmente la supervivencia de Vesna Vulović en el accidente del vuelo JAT 367 ocurrido en 1972. Con apenas 23 años, sobrevivió a una caída libre desde más de 10.000 metros de altura, convirtiéndose en símbolo mundial de resiliencia y en poseedora de un récord Guinness único.
     </p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
 
 ## Datos biográficos y eventos
 - **Fecha de nacimiento:** 3 de enero de 1950  
@@ -31,7 +31,7 @@ image: 1974-01-03-record-guinness-supervivencia-aerea.webp
 - **Servicio profesional:** Auxiliar de a bordo en Yugoslav Airlines (JAT)  
 - **Fecha de fallecimiento:** 23 de diciembre de 2016, Belgrado  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
 
 ## Contexto Histórico
 El accidente del vuelo JAT 367 ocurrió el 26 de enero de 1972, cuando una explosión en pleno vuelo desintegró la aeronave sobre Checoslovaquia. De los 28 ocupantes, solo Vesna Vulović sobrevivió. Su caso fue ampliamente difundido y se convirtió en un referente mundial.
@@ -60,7 +60,7 @@ La supervivencia de Vesna fue interpretada como un “milagro” y recibió gran
 ### Legado
 Vesna Vulović es recordada como la mujer que desafió lo imposible en la historia de la aviación. Su nombre permanece en los registros Guinness y en la memoria colectiva como símbolo de resiliencia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -71,7 +71,7 @@ Vesna Vulović es recordada como la mujer que desafió lo imposible en la histor
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-02 22:35:00 UTC  

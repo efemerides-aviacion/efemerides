@@ -15,14 +15,14 @@ image: 1966-02-03-primer-alunizaje-luna9.webp
   <figcaption class="post-caption">Ilustración 3D de la sonda lunar Luna 9 aterrizando en la superficie de la Luna. Fuente: <a href="https://danielmarin.naukas.com/files/2016/02/Captura-de-pantalla-2016-02-03-a-las-21.49.48.png">Secuencia de despliegue de los airbags y aterrizaje</a>.
   </figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Luna 9, una sonda soviética del programa Luna, realizó el 3 de febrero de 1966 el primer alunizaje suave de la historia y fue la primera nave en transmitir imágenes desde la superficie lunar, en Oceanus Procellarum.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 ## Datos Verificados
 - **Fecha de lanzamiento:** 31 de enero de 1966, 11:41 UTC  
 - **Cohete lanzador:** Molniya-M desde Baikonur  
@@ -33,7 +33,7 @@ image: 1966-02-03-primer-alunizaje-luna9.webp
 - **Velocidad de contacto:** ~22 km/h  
 - **Operaciones en superficie:** despliegue de pétalos estabilizadores y transmisión de 9 imágenes (5 panorámicas)  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 ## Contexto Histórico
 La misión Luna 9 representó un hito en la exploración espacial, al demostrar que la superficie lunar podía soportar el peso de una nave sin hundirse en polvo profundo.
 
@@ -54,7 +54,7 @@ La misión Luna 9 representó un hito en la exploración espacial, al demostrar 
 - Primer alunizaje suave en otro cuerpo celeste.  
 - Precedió al primer alunizaje suave estadounidense (Surveyor 1) por cuatro meses.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -70,7 +70,7 @@ La misión Luna 9 representó un hito en la exploración espacial, al demostrar 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-02 08:45:00 UTC  
 - **Fuentes primarias consultadas:** NASA; ESA; RussianSpaceWeb; Smithsonian; BBC; Space.com  

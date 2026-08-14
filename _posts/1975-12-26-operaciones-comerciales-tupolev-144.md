@@ -18,7 +18,7 @@ image: 1975-12-26-operaciones-comerciales-tupolev-144.webp
   </figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -27,7 +27,7 @@ image: 1975-12-26-operaciones-comerciales-tupolev-144.webp
   </p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 ## Datos Técnicos
 - **Fecha del primer vuelo comercial:** 26 de diciembre de 1975  
@@ -37,7 +37,7 @@ image: 1975-12-26-operaciones-comerciales-tupolev-144.webp
 - **Velocidad máxima:** Mach 2.15 (aproximadamente 2,300 km/h)  
 - **Capacidad:** 140 pasajeros  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 ## Contexto Histórico
 El desarrollo del Tupolev Tu-144 fue impulsado por la carrera tecnológica entre la Unión Soviética y Occidente durante la Guerra Fría.  
@@ -55,7 +55,7 @@ El Tu-144 fue un logro tecnológico notable que demostró la capacidad de la ing
 Aunque su carrera fue breve, sentó precedentes en aerodinámica, materiales compuestos y diseño de alas en delta.  
 Su legado persiste en programas de investigación y desarrollo aeroespacial posteriores, incluyendo colaboraciones con la NASA en los años 90.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 ## Referencias Verificadas
 <div class="references">
@@ -67,7 +67,7 @@ Su legado persiste en programas de investigación y desarrollo aeroespacial post
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-25 13:00:00 UTC  

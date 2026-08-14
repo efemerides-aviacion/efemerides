@@ -14,14 +14,14 @@ image: 1972-12-22-rescate-andes-vuelo-571.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1972-12-22-rescate-andes-vuelo-571.jpg" alt="Rescate sobrevivientes Vuelo 571 Andes">
   <figcaption class="post-caption">Fernando Parrado (izquierda) y Roberto Canessa (derecha) junto al arriero chileno Sergio Catalán (centro), quien dio la noticia de los supervivientes el 20 de diciembre de 1972 y posibilitó el rescate. Fuente: Archivo histórico de prensa chilena.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 22 de diciembre de 1972, helicópteros de la Fuerza Aérea Chilena rescataron a seis sobrevivientes del Vuelo 571 de la Fuerza Aérea Uruguaya, estrellado en los Andes desde el 13 de octubre. Gracias a la expedición de Fernando Parrado y Roberto Canessa, quienes caminaron diez días hasta contactar ayuda chilena el 20 de diciembre, se inició una operación SAR que culminó con la evacuación de los 16 sobrevivientes tras 72 días de aislamiento extremo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha del rescate inicial:** 22 de diciembre de 1972  
 - **Lugar:** Cordillera de los Andes, Malargüe, Mendoza, Argentina (altitud 3.675 m)  
@@ -30,7 +30,7 @@ image: 1972-12-22-rescate-andes-vuelo-571.jpg
 - **Aeronave accidentada:** Fairchild FH-227D T-571 (Vuelo FAU 571)  
 - **Operador del rescate:** Fuerza Aérea Chilena (helicópteros Bell UH-1H)  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto histórico
 El accidente del Vuelo 571 el 13 de octubre de 1972 dejó a 16 jóvenes uruguayos aislados en condiciones extremas. La búsqueda oficial cesó el 21 de octubre. El 12 de diciembre, Parrado, Canessa y Vizintín iniciaron una marcha hacia el oeste; Vizintín regresó por falta de alimentos. El 20 de diciembre, Parrado y Canessa contactaron al arriero Sergio Catalán, quien alertó a las autoridades chilenas.
 
@@ -46,7 +46,7 @@ El rescate demostró los límites operativos de helicópteros en alta montaña y
 ### Legado
 El “Milagro de los Andes” es recordado como símbolo de resiliencia y cooperación binacional. El sitio del choque es santuario con misa anual el 22 de diciembre. Inspiró obras como *Society of the Snow* (2023).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias verificadas
 <div class="references">
   <ul>
@@ -63,7 +63,7 @@ El “Milagro de los Andes” es recordado como símbolo de resiliencia y cooper
 </div>
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-03-02 14:40 CST  
 - **Fuentes primarias consultadas:** Wikipedia, ASN, Britannica, Everything Everywhere Daily, TIME  

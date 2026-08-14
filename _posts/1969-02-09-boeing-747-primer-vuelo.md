@@ -14,14 +14,14 @@ image: 1969-02-09-primer-vuelo-boeing-747.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-02-09-primer-vuelo-boeing-747.webp" alt="Boeing 747 RA001 en su primer vuelo">
   <figcaption class="post-caption">Boeing 747-121 prototipo RA001, matrícula N7470 "City of Everett", en vuelo de prueba durante su primer despegue el 9 de febrero de 1969 desde Paine Field, Everett, Washington. Imagen publicada en Vintage Aviation News.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El Boeing 747, primer reactor de fuselaje ancho y conocido como “Jumbo Jet”, realizó su vuelo inaugural el 9 de febrero de 1969 desde Paine Field, Everett. El prototipo RA001 “City of Everett”, tripulado por Jack Waddell, Brien Wygle y Jesse Wallick, completó un ensayo de 75 minutos que confirmó la estabilidad y el control de la aeronave, abriendo una nueva era en el transporte aéreo intercontinental.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha:** 9 de febrero de 1969  
 - **Lugar:** Paine Field, Everett (Washington, EE. UU.)  
@@ -29,7 +29,7 @@ image: 1969-02-09-primer-vuelo-boeing-747.webp
 - **Aeronave/empresa involucrada:** Boeing 747‑121 RA001 “City of Everett”  
 - **Resultado inmediato:** Vuelo inaugural de 75 minutos, alcanzando 15.500 pies y 250 mph, con pruebas de control y estabilidad sin incidentes.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 El Boeing 747 representó un salto tecnológico y económico en la aviación comercial, ofreciendo capacidad para más de 400 pasajeros y un alcance de unas 6.000 millas.
 
@@ -55,7 +55,7 @@ El 747 revolucionó la economía de escala del transporte aéreo intercontinenta
 ### Legado
 El RA001 “City of Everett” se conserva en el Museum of Flight en Seattle. El 747 se convirtió en un ícono cultural y tecnológico, con más de 1.500 unidades producidas en diversas versiones hasta el siglo XXI.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -68,7 +68,7 @@ El RA001 “City of Everett” se conserva en el Museum of Flight en Seattle. El
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-07 21:00:00 UTC  
 - **Fuentes primarias consultadas:** HistoryLink; Boeing Images; Vintage Aviation News; Boeing 747 INFO Central; Alamy  

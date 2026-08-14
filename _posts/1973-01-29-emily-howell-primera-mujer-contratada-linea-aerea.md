@@ -14,14 +14,14 @@ image: 1973-01-29-emily-howell-primera-mujer-contratada-linea-aerea.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1973-01-29-emily-howell-primera-mujer-contratada-linea-aerea.webp" alt="Emily Howell Warner en cabina de vuelo">
   <figcaption class="post-caption">Emily Howell Warner, primera piloto permanente contratada por una aerolínea comercial estadounidense (Frontier Airlines, 1973), en cabina de vuelo, ca. 1974.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Emily Joyce Howell Warner (nacida Hanrahan) fue contratada el 29 de enero de 1973 por Frontier Airlines como second officer, convirtiéndose en la primera mujer contratada como piloto permanente por una aerolínea comercial regular en Estados Unidos y la primera piloto de línea aérea en ese país desde Helen Richey en 1934. A partir de entonces voló Convair 580, Twin Otter y Boeing 737; en 1976 se convirtió en la primera mujer capitana de una aerolínea estadounidense y en 1986 comandó la primera tripulación totalmente femenina, acumulando más de 21 000 horas de vuelo y siendo incorporada a varios salones de la fama de la aviación.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos Verificados
 - **Fecha:** 29 de enero de 1973  
 - **Lugar:** Estados Unidos  
@@ -33,7 +33,7 @@ image: 1973-01-29-emily-howell-primera-mujer-contratada-linea-aerea.webp
   - Más de 21.000 horas de vuelo acumuladas.  
   - Reconocida en múltiples salones de la fama de la aviación.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 ### Entorno social
 Su contratación representó un avance significativo en la igualdad de género en la aviación comercial.
@@ -58,7 +58,7 @@ Su contratación marcó un antes y un después en la aviación comercial, inspir
 ### Legado
 Recordada como pionera y símbolo de igualdad en la aviación. Su uniforme y objetos personales forman parte de exhibiciones en el Smithsonian Air & Space Museum.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -72,7 +72,7 @@ Recordada como pionera y símbolo de igualdad en la aviación. Su uniforme y obj
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-27 15:20:00 UTC  
 - **Fuentes primarias consultadas:** Wikipedia; Smithsonian; Women in Aviation; Hall of Fame; The Ninety-Nines; NYT; Transponder1200  
