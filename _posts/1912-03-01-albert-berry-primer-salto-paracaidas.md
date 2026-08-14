@@ -14,14 +14,14 @@ image: 1912-03-01-primer-salto-en-paracaidas-desde-avion.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1912-03-01-primer-salto-en-paracaidas-desde-avion.jpg" alt="Albert Berry realiza el primer salto en paracaídas desde avión, 1912">
   <figcaption class="post-caption">Albert Berry realiza el primer salto en paracaídas desde avión, biplano Benoist de Tony Jannus, Jefferson Barracks, 1 marzo 1912 (Missouri Historical Society).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 1 de marzo de 1912, el capitán estadounidense Albert Berry realizó uno de los primeros saltos en paracaídas documentados desde un avión, sobre Jefferson Barracks, Missouri. Se lanzó desde un biplano Benoist pilotado por Tony Jannus, sentado en un trapecio y con el paracaídas alojado en un contenedor bajo el aparato. Aunque existe debate con un posible salto previo de Grant Morton en 1911, el de Berry se considera el primer salto oficialmente reconocido desde un aeroplano. Su éxito confirmó la utilidad del paracaídas en la aviación y marcó un hito en el desarrollo del paracaidismo militar y civil.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha:** 1 de marzo de 1912  
 - **Lugar:** Jefferson Barracks, St. Louis, Missouri  
@@ -32,7 +32,7 @@ image: 1912-03-01-primer-salto-en-paracaidas-desde-avion.jpg
 - **Resultado:** Apertura exitosa tras caída inicial de ~150 m  
 - **Reconocimiento oficial:** Considerado el primer salto documentado desde avión por autoridades estadounidenses  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto histórico
 El salto de Albert Berry en 1912 demostró la viabilidad del paracaídas como dispositivo de emergencia en la aviación, abriendo el camino al paracaidismo militar y deportivo.
 
@@ -57,7 +57,7 @@ El salto de Berry abrió la puerta al paracaidismo militar, que sería decisivo 
 ### Legado
 Recordado como pionero del paracaidismo, su salto es considerado el inicio oficial del uso del paracaídas en aviación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias verificadas
 <div class="references">
   <ul>
@@ -76,7 +76,7 @@ Recordado como pionero del paracaidismo, su salto es considerado el inicio ofici
 <p>Existe, sin embargo, debate sobre un posible salto anterior realizado por Grant Morton en 1911 desde un Wright Model B sobre Venice Beach, California. Dicho salto no cuenta con documentación oficial suficiente, por lo que la comisión estadounidense reconoce el de Berry como el primer salto documentado desde un avión.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-02-28 08:05 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Smithsonian Air & Space, This Day in Aviation, Military.com, HistoryNet  

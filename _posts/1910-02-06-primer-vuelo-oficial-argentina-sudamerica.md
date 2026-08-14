@@ -14,14 +14,14 @@ image: 1910-02-06-primer-vuelo-oficial-argentina-sudamerica.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1910-02-06-primer-vuelo-oficial-argentina-sudamerica.jpg" alt="Henri Brégi en su biplano Voisin">
   <figcaption class="post-caption">Henri Brégi vuela su Voisin biplano sobre el hipódromo de Longchamps, provincia de Buenos Aires, durante el primer vuelo mecanizado y controlado de Sudamérica, 6 de febrero de 1910. Fuente: Archivo histórico argentino, reproducida en TodoProvincial (https://www.todoprovincial.com) y otros portales sobre el primer vuelo a motor en Longchamps.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 6 de febrero de 1910, el piloto francés Henri Brégi (1888–1917) realizó el primer vuelo oficial controlado a motor en Argentina y Sudamérica en un biplano Voisin de 60 HP sobre el hipódromo de Longchamps (Almirante Brown, Buenos Aires), homologado por el Aero Club Argentino.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos Verificados
 - **Fecha del vuelo:** 6 de febrero de 1910  
 - **Lugar:** Hipódromo de Longchamps, Almirante Brown, Buenos Aires  
@@ -31,7 +31,7 @@ image: 1910-02-06-primer-vuelo-oficial-argentina-sudamerica.jpg
 - **Espectadores:** ~3.000 personas  
 - **Homologación:** Aero Club Argentino certificó el vuelo como el primero oficial en Sudamérica (1911)  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 ### Antecedentes
 - Brégi llegó a Buenos Aires el 8 de enero de 1910 con dos biplanos Voisin (60 HP ENV y 50 HP Gnôme).  
@@ -50,7 +50,7 @@ image: 1910-02-06-primer-vuelo-oficial-argentina-sudamerica.jpg
 - Placa conmemorativa instalada en 1963 en el Country Club de Longchamps.  
 - Impulsó la creación del aeródromo de Villa Lugano y la aviación militar en El Palomar.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -64,7 +64,7 @@ image: 1910-02-06-primer-vuelo-oficial-argentina-sudamerica.jpg
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-03 17:00:00 UTC  
 - **Fuentes primarias consultadas:** Wikipedia; La Nación; Todo Provincial; Latitud Argentina; Billiken; Early Aviators; Municipalidad Almirante Brown  

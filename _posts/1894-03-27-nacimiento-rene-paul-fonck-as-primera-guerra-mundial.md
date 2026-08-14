@@ -16,13 +16,13 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1894-03-27-nacimiento-rene-paul-fonck-as-primera-guerra-mundial.webp" alt="René Paul Fonck, as francés de la Primera Guerra Mundial">
   <figcaption class="post-caption">René Paul Fonck, as de ases de la aviación francesa con 75 victorias confirmadas, ca. 1918. Retrato autografiado original. Fuente: <a href="https://lesautographesdusiecle.com/aviation/12824-fonck-rene-1894-1953.html">Les Autographes du Siecle</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 27 de marzo de 1894 nació René Paul Fonck en Saulcy-sur-Meurthe, Francia. Durante la Primera Guerra Mundial se convirtió en el as aliado con más victorias: 75 confirmadas (72 en solitario), superando a todos los pilotos de la Triple Entente. Solo superado por el alemán Manfred von Richthofen (80), Fonck reclamó hasta 142 derribos, destacando por su precisión y economía de munición en escuadrillas como Les Cigognes. Tras la guerra, fue inspector aéreo y falleció en 1953 sin haber resultado herido en combate.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 27 de marzo de 1894
@@ -35,7 +35,7 @@ redirect_from:
 - **Victorias confirmadas:** 75 (72 en solitario, 3 compartidas)
 - **Condecoraciones:** Gran Oficial de la Legión de Honor, Cruz de Guerra 1914-1918 (26 palmas), Medalla Militar, Cruz de Guerra belga, entre otras.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -86,7 +86,7 @@ Este sistema, implementado para evitar exageraciones, hacía que muchos derribos
 
 René Fonck sigue siendo el «as de ases» de la aviación aliada en la Primera Guerra Mundial. Sus 75 victorias confirmadas lo sitúan en la segunda posición histórica tras Manfred von Richthofen (80). A pesar de las controversias sobre sus reclamaciones personales y su conducta en la Segunda Guerra Mundial, su récord operativo permanece imbatido entre los pilotos franceses y de la Entente. Su nombre está inscrito en el Arco del Triunfo en París, y su figura representa la transición entre el pionerismo romántico y la caza militar moderna.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -101,7 +101,7 @@ René Fonck sigue siendo el «as de ases» de la aviación aliada en la Primera 
     <li><a href="https://pt.wikipedia.org/wiki/Ren%C3%A9_Paul_Fonck">Wikipedia (PT) – René Paul Fonck</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-25 10:30:00 UTC  

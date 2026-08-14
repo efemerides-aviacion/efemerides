@@ -14,14 +14,14 @@ image: 1903-12-17-wright-flyer-primer-vuelo.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1903-12-17-wright-flyer-primer-vuelo.jpg" alt="Orville Wright pilotando el Wright Flyer en Kitty Hawk">
   <figcaption class="post-caption">Los 12 históricos segundos durante los que Wilbur (derecha) vio volar a su hermano Orville en el Wright Flyer, Kill Devil Hills, Carolina del Norte, 17 de diciembre de 1903. (Fuente: Smithsonian Institution).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 17 de diciembre de 1903, en Kill Devil Hills, Carolina del Norte, los hermanos Wright lograron el primer vuelo sostenido y controlado de un avión más pesado que el aire. El Wright Flyer, pilotado por Orville, voló 12 segundos y recorrió 36,5 metros, inaugurando la era de la aviación moderna.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha:** 17 de diciembre de 1903  
 - **Lugar:** Kill Devil Hills, cerca de Kitty Hawk, Carolina del Norte, EE.UU.  
@@ -31,7 +31,7 @@ image: 1903-12-17-wright-flyer-primer-vuelo.jpg
 - **Duración del primer vuelo:** 12 segundos, 36,5 metros  
 - **Vuelo más largo del día:** 59 segundos, 260 metros (852 pies), pilotado por Wilbur  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 A finales del siglo XIX, inventores en Europa y América competían por construir máquinas voladoras. Los Wright se centraron en el control de vuelo, desarrollando planeadores en Kitty Hawk y perfeccionando el dominio de los tres ejes (pitch, roll, yaw).
 
@@ -58,7 +58,7 @@ El vuelo de 1903 transformó la percepción de lo posible, sentando las bases pa
 ### Legado
 El Wright Flyer original se conserva en el Museo Nacional del Aire y el Espacio del Smithsonian. El sitio de Kill Devil Hills es hoy el Monumento Nacional a los Hermanos Wright, tributo al inicio de la era aérea.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -73,7 +73,7 @@ El Wright Flyer original se conserva en el Museo Nacional del Aire y el Espacio 
 <p><strong>Nota aclaratoria:</strong> Aunque comúnmente se asocia el vuelo con Kitty Hawk, la ubicación exacta fue Kill Devil Hills, a 6,4 km al sur. El primer vuelo duró 12 segundos y el más largo 59 segundos, según fuentes verificadas.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-16 05:37 CST  
 - **Fuentes primarias consultadas:** Smithsonian Air and Space Museum, NASA NTRS, National Park Service, Smithsonian Magazine  

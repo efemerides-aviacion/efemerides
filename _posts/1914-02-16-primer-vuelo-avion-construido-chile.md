@@ -14,14 +14,14 @@ image: 1914-02-16-primer-vuelo-avion-construido-chile.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1914-02-16-primer-vuelo-avion-construido-chile.jpg" alt="Biplano Batuco en vuelo de prueba, 1914">
   <figcaption class="post-caption">El aviador Luis Omar Page en los mandos del biplano “Batuco” construido por los hermanos Copetta. Segunda persona en cabina no identificada en la fuente. (Foto: Blog ‘Aeródromo de Batuco, rescate de una historia’ / Danilo Villarroel Canga, 2016).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 16 de febrero de 1914, en la cancha de aviación de Batuco, se realizó el primer vuelo del biplano “Batuco”, considerado el primer avión construido íntegramente en Chile por los hermanos César y Félix Copetta. Pilotado por Luis Omar Page y equipado con un motor Renault de 75 hp, este aparato marcó un hito fundacional en la aviación nacional.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha:** 16 de febrero de 1914  
 - **Lugar:** Cancha de aviación de Batuco, Chile  
@@ -29,7 +29,7 @@ image: 1914-02-16-primer-vuelo-avion-construido-chile.jpg
 - **Aeronave utilizada:** Biplano “Batuco”, motor Renault de 75 hp  
 - **Resultado inmediato:** Primer vuelo exitoso de un avión construido en Chile  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 A comienzos del siglo XX, Chile vivía el auge de la aviación pionera. Los hermanos Copetta, inmigrantes italianos, se convirtieron en protagonistas de este proceso, construyendo cinco aeronaves entre 1911 y 1914. El “Batuco” fue el primero en volar con éxito, consolidando la capacidad nacional de fabricar aviones.
 
@@ -54,7 +54,7 @@ El vuelo del “Batuco” validó la capacidad de construir aeronaves en Chile y
 ### Legado
 El “Batuco” y los hermanos Copetta son recordados como pioneros de la aviación chilena. Su legado se mantiene en la memoria histórica y en instituciones como el Museo Nacional Aeronáutico y del Espacio.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -73,7 +73,7 @@ El “Batuco” y los hermanos Copetta son recordados como pioneros de la aviaci
 <p><strong>Nota aclaratoria:</strong> Todas las fuentes citadas fueron consultadas para la verificación de datos. En caso de que algún enlace no esté disponible en el futuro, se mantiene citado por su relevancia histórica y documental.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-15 08:15 CST  
 - **Fuentes primarias consultadas:** FACh, Copetta.com, Memoria Chilena, Biblioteca Nacional, Museo Aeronáutico, Wikipedia, La Tercera  

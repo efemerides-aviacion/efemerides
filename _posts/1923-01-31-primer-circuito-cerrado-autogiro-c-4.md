@@ -14,14 +14,14 @@ image: 1923-01-31-primer-circuito-cerrado-autogiro-c-4.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1923-01-31-primer-circuito-cerrado-autogiro-c-4.jpg" alt="Autogiro Cierva C.4 en pruebas en 1923">
   <figcaption class="post-caption">Juan de la Cierva (de pie, con traje) conversa junto al autogiro Cierva C.4 (K-AWO) con personal técnico y el piloto teniente Alejandro Gómez Spencer, durante las pruebas de 1923 en Madrid que culminaron en el primer circuito cerrado exitoso el 31 de enero. Fuente: Archivos aeronáuticos / Musée de l’Air et de l’Espace.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 31 de enero de 1923, el teniente Alejandro Gómez Spencer pilotó el autogiro Cierva C.4 en el aeródromo de Cuatro Vientos (Madrid) para realizar el primer vuelo en circuito cerrado de la historia con una aeronave de ala giratoria. El recorrido de 4 kilómetros, a más de 25 metros de altura, consolidó el éxito de los primeros saltos realizados en Getafe semanas antes y demostró ante las autoridades militares la estabilidad y el control del invento de Juan de la Cierva. Este hito confirmó la validez de la solución de las palas articuladas para superar el problema de la disimetría de sustentación, sentando las bases técnicas para el desarrollo de los helicópteros modernos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha del vuelo:** 31 de enero de 1923  
 - **Lugar:** Aeródromo de Cuatro Vientos, Madrid  
@@ -32,7 +32,7 @@ image: 1923-01-31-primer-circuito-cerrado-autogiro-c-4.jpg
 - **Motor:** Le Rhône 9Ja, 110 hp  
 - **Innovación clave:** Rotor de cuatro palas articuladas  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto histórico
 El circuito cerrado del C.4 fue la prueba definitiva de que el autogiro era una aeronave viable y segura.
 
@@ -59,7 +59,7 @@ El vuelo circular validó el autogiro como aeronave controlable y segura, abrien
 ### Legado
 El éxito del C.4 marcó el inicio de la era de las aeronaves de ala giratoria, precursor directo del helicóptero moderno.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias verificadas
 <div class="references">
   <ul>
@@ -77,7 +77,7 @@ El éxito del C.4 marcó el inicio de la era de las aeronaves de ala giratoria, 
 </div>
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-03-05 14:35 CST  
 - **Fuentes primarias consultadas:** Wikipedia ES/PT, ACAMI, Cadena SER, Biblioteca Virtual de Defensa, Archivo General de Murcia  

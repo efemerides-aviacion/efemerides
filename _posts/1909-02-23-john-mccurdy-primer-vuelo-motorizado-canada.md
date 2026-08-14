@@ -14,14 +14,14 @@ image: 1909-02-23-john-mc-curdy-primer-vuelo-motorizado-canada.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1909-02-23-john-mc-curdy-primer-vuelo-motorizado-canada.jpg" alt="John A. D. McCurdy en el Silver Dart, primer vuelo motorizado en Canadá, 1909">
   <figcaption class="post-caption">John A. D. McCurdy en el Silver Dart, primer vuelo motorizado en Canadá (Baddeck, 23 feb 1909). Nova Scotia Archives, ref. J.A.D. McCurdy 2007-058 vol. 003 no. 11.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 23 de febrero de 1909, John A. D. McCurdy pilotó el biplano experimental Silver Dart desde el hielo de Baddeck Bay, Nueva Escocia, logrando el primer vuelo motorizado y controlado en Canadá y en todo el Imperio Británico. Diseñado por la Aerial Experiment Association de Alexander Graham Bell, el aparato recorrió cerca de un kilómetro a unos 60–65 km/h, marcando el nacimiento de la aviación canadiense. Este hito daría paso al desarrollo posterior de la aviación civil y militar en Canadá, y hoy se recuerda cada 23 de febrero como el Día Nacional de la Aviación.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha:** 23 de febrero de 1909  
 - **Lugar:** Baddeck Bay, lago Bras d’Or, Nueva Escocia, Canadá  
@@ -33,7 +33,7 @@ image: 1909-02-23-john-mc-curdy-primer-vuelo-motorizado-canada.jpg
 - **Velocidad:** 60–65 km/h  
 - **Motor:** Kirkham V‑8, 35 hp  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 El Silver Dart fue el resultado de los trabajos de la Aerial Experiment Association, fundada por Alexander Graham Bell. Su vuelo en Baddeck marcó el inicio formal de la aviación en Canadá y fue el primero realizado por un súbdito británico en todo el Imperio.
 
@@ -48,7 +48,7 @@ El Silver Dart fue el resultado de los trabajos de la Aerial Experiment Associat
 - **Reconocimiento nacional:** Desde 2009, el 23 de febrero es el Día Nacional de la Aviación de Canadá.  
 - **Legado personal:** McCurdy fue pionero de la aviación militar canadiense y teniente gobernador de Nueva Escocia.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -65,7 +65,7 @@ El Silver Dart fue el resultado de los trabajos de la Aerial Experiment Associat
 <p><strong>Nota aclaratoria:</strong> El vuelo del Silver Dart fue el primero motorizado en Canadá y en todo el Imperio Británico. La distancia recorrida varía según fuentes entre 800 y 1.200 m.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-22 07:05 CST  
 - **Fuentes primarias consultadas:** Nova Scotia Archives, Parks Canada, Canada Aviation Museum  
