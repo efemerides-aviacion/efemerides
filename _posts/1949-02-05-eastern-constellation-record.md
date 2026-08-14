@@ -14,14 +14,14 @@ image: 1949-02-05-eastern-constellation-record.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1949-02-05-eastern-constellation-record.jpg" alt="Lockheed L‑749A Constellation de Eastern Air Lines en vuelo">
   <figcaption class="post-caption">Eastern Air Lines Lockheed L-749A Constellation N115A, c/n 2610, "The Great Silver Fleet", en vuelo durante su récord transcontinental Los Ángeles–Nueva York (6h 17m 39s) establecido el 5 de febrero de 1949. Fuente: This Day in Aviation (https://www.thisdayinaviation.com/6-february-1949/).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Eastern Air Lines estableció el 5 de febrero de 1949 un récord transcontinental en la ruta Los Ángeles–Nueva York, cubriendo el trayecto en 6 horas y 17 minutos con un Lockheed L‑749A Constellation, consolidando la reputación de la aerolínea y del modelo como referentes de velocidad y alcance en la aviación comercial.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos Verificados
 - **Fecha del récord:** 5 de febrero de 1949  
 - **Ruta:** Los Ángeles (Burbank) – Nueva York (LaGuardia)  
@@ -37,7 +37,7 @@ image: 1949-02-05-eastern-constellation-record.jpg
   - Alcance: ~5.000 millas  
   - Primer modelo de la familia Constellation capaz de cruzar el Atlántico sin escalas  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 El récord de Eastern Air Lines fue un hito en la aviación comercial de posguerra.
 
@@ -53,7 +53,7 @@ El récord de Eastern Air Lines fue un hito en la aviación comercial de posguer
 - El récord contribuyó a posicionar al Constellation como uno de los aviones más emblemáticos de la aviación civil de mediados del siglo XX.  
 - Eastern Air Lines se consolidó como una de las principales aerolíneas estadounidenses en la era dorada de la aviación.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -65,7 +65,7 @@ El récord de Eastern Air Lines fue un hito en la aviación comercial de posguer
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-03 16:30:00 UTC  
 - **Fuentes primarias consultadas:** This Day in Aviation; Aircraft Investigation; Wikipedia  

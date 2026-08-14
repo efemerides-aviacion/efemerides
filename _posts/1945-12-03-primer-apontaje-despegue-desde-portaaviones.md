@@ -15,14 +15,14 @@ image: 1945-12-03-primer-apontaje-despegue-desde-portaaviones.jpg
   <figcaption class="post-caption">De Havilland Sea Vampire Mk.10 LZ551/G atrapa el cable de detención a bordo del HMS Ocean el 3 de diciembre de 1945, primer apontaje de un jet en un portaaviones por el Lt. Cdr. Eric “Winkle” Brown. This Day in Aviation / IWM (A 31015).
 </figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 3 de diciembre de 1945, el Capitán Eric Melrose “Winkle” Brown realizó el primer apontaje y despegue de un avión a reacción en un portaaviones en movimiento. A bordo del HMS Ocean y pilotando el prototipo naval Sea Vampire LZ551/G, demostró la viabilidad de la propulsión a chorro en operaciones navales, iniciando una nueva era en la aviación militar.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha:** 3 de diciembre de 1945  
 - **Protagonista:** Capitán Eric Melrose “Winkle” Brown, RNVR  
@@ -31,7 +31,7 @@ image: 1945-12-03-primer-apontaje-despegue-desde-portaaviones.jpg
 - **Portaaviones:** HMS Ocean (R68), clase Colossus  
 - **Récords de Brown:** 487 tipos de aeronaves volados y 2,407 apontajes en portaaviones  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 Al final de la Segunda Guerra Mundial, los jets eran una novedad tecnológica. La Royal Navy buscaba validar su uso en portaaviones, pese a los retos de velocidad y respuesta de los primeros motores. El Sea Vampire fue adaptado para pruebas con gancho de apontaje y tren reforzado.
 
@@ -48,7 +48,7 @@ Al final de la Segunda Guerra Mundial, los jets eran una novedad tecnológica. L
 ### Legado
 El prototipo Sea Vampire LZ551/G se conserva en el Fleet Air Arm Museum en Yeovilton, Reino Unido. Eric Brown es recordado como uno de los pilotos de pruebas más destacados de la historia, con récords aún vigentes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -63,7 +63,7 @@ El prototipo Sea Vampire LZ551/G se conserva en el Fleet Air Arm Museum en Yeovi
 <p><strong>Nota aclaratoria:</strong> Algunas fuentes confunden el avión con el “Sea Venom”, pero el prototipo correcto fue el de Havilland DH.100 Sea Vampire Mk.10 (LZ551/G), confirmado por Guinness World Records y archivos históricos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-02 08:18 CST  
 - **Fuentes primarias consultadas:** Guinness World Records, This Day in Aviation, Fleet Air Arm Museum  

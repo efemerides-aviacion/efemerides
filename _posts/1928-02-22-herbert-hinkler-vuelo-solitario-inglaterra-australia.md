@@ -14,14 +14,14 @@ image: 1928-02-22-herbert-hinkler-vuelo-solitario-inglaterra-australia.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1928-02-22-herbert-hinkler-vuelo-solitario-inglaterra-australia.jpg" alt="Bert Hinkler con su Avro Avian G-EBOV en Darwin, 1928">
   <figcaption class="post-caption">Bert Hinkler con su Avro 581E Avian G-EBOV al completar el primer vuelo solo Inglaterra–Australia en Darwin, 22 feb 1928. (Foto: This Day in Aviation).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 22 de febrero de 1928, Bert Hinkler completó en Darwin el primer vuelo en solitario de Inglaterra a Australia. Cubrió 17.671 km en 15 días y 19 horas desde Croydon en su Avro Avian G-EBOV, superando récords de navegación y resistencia y demostrando la viabilidad de rutas aéreas imperiales. Su legado perdura en Bundaberg con el Hinkler Hall of Aviation.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha:** 22 de febrero de 1928  
 - **Lugar de partida:** Croydon Aerodrome, Londres  
@@ -31,7 +31,7 @@ image: 1928-02-22-herbert-hinkler-vuelo-solitario-inglaterra-australia.jpg
 - **Duración:** 15 días y 19 horas, con 20 paradas  
 - **Piloto:** Herbert John “Bert” Hinkler (1892–1933)  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 El vuelo de Hinkler fue un hito en la aviación mundial. Superó el récord de Kingsford Smith (con tripulación múltiple) y demostró que era posible realizar vuelos largos en solitario con aeronaves ligeras. Enfrentó tormentas, navegación manual con sextante y condiciones extremas.
 
@@ -45,7 +45,7 @@ El vuelo de Hinkler fue un hito en la aviación mundial. Superó el récord de K
 - **Inspiración:** Consolidó la reputación de Hinkler como pionero australiano.  
 - **Legado:** Su Avro Avian G-EBOV se conserva en el Queensland Museum; Bundaberg alberga el Hinkler Hall of Aviation.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -63,7 +63,7 @@ El vuelo de Hinkler fue un hito en la aviación mundial. Superó el récord de K
 <p><strong>Nota aclaratoria:</strong> El vuelo de Hinkler fue el primero en solitario entre Inglaterra y Australia. Cubrió 17.671 km en 15 días y 19 horas, con 20 paradas intermedias.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-02 08:18 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, State Library Queensland, Australian Dictionary of Biography  

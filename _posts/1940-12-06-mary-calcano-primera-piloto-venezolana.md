@@ -14,14 +14,14 @@ image: 1940-12-06-mary-calcano-primera-piloto-venezolana.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1940-12-06-mary-calcano-primera-piloto-venezolana.jpg" alt="Mary Calcaño junto a su Piper Cub J3">
   <figcaption class="post-caption">Mary Calcaño en el avión de su propiedad, un Piper Cub J3, tras obtener su licencia de piloto en Venezuela. (Fuente: El Nacional / archivos familiares).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 6 de diciembre de 1940, María Asunción Calcaño Ruiz, conocida como Mary Calcaño, se convirtió en la primera mujer venezolana en obtener una licencia de piloto en su país. Previamente había recibido su licencia en Estados Unidos en 1939. Su logro impulsó la aviación civil venezolana y abrió camino a la participación femenina en el ámbito aeronáutico.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos biográficos y técnicos
 - **Nombre completo:** María Asunción Calcaño Ruiz (Mary Keeler)  
 - **Nacimiento:** 15 de agosto de 1906, Ciudad Bolívar, Venezuela  
@@ -31,7 +31,7 @@ image: 1940-12-06-mary-calcano-primera-piloto-venezolana.jpg
 - **Aeronave propia:** Piper Cub J3, transportado y ensamblado en Venezuela  
 - **Contribuciones clave:** Fundadora de Ala Venezolana (1946) y cofundadora de la primera escuela privada de aviación civil (SACA)  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 En los años 30 y 40, la aviación civil venezolana era incipiente y dominada por pilotos militares o extranjeros. La hazaña de Mary Calcaño rompió barreras de género y demostró que volar podía ser accesible y seguro para los ciudadanos comunes.
 
@@ -50,7 +50,7 @@ En los años 30 y 40, la aviación civil venezolana era incipiente y dominada po
 ### Legado
 Mary Calcaño es recordada como símbolo de perseverancia e innovación. Su historia se mantiene viva en archivos periodísticos y familiares, inspirando a nuevas generaciones de pilotos venezolanos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -65,7 +65,7 @@ Mary Calcaño es recordada como símbolo de perseverancia e innovación. Su hist
 <p><strong>Nota aclaratoria:</strong> Se ha confirmado que María Asunción Calcaño Ruiz (Mary Calcaño) es la aviadora pionera, distinta de la poeta homónima. La licencia estadounidense fue obtenida en 1939 y la venezolana en 1940.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-05 04:40 CST  
 - **Fuentes primarias consultadas:** Reportes de prensa de 2020–2021, archivos históricos citados en Wikipedia  

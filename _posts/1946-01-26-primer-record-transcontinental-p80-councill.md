@@ -14,14 +14,14 @@ image: 1946-01-26-primer-record-transcontinental-p80-councill.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1946-01-26-primer-record-transcontinental-p80-councill.jpg" alt="William Councill y su P-80 tras récord transcontinental">
   <figcaption class="post-caption">Coronel William Haldane Councill saludando desde la cabina del Lockheed P-80A-1-LO Shooting Star 44-84999, ca. 1945-1946, contextualizando la era de los primeros jets en EE.UU. que culminó con su récord transcontinental a reacción el 26 de enero de 1946 (Hollywood a Nueva York, 3h 46min) en P-80 44-85123. U.S. Army Air Forces (archivos históricos)</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 26 de enero de 1946, el coronel William H. Councill de la USAAF/USAF estableció el primer récord transcontinental a reacción en Estados Unidos al volar un Lockheed P‑80A Shooting Star (44‑85123) desde Long Beach hasta Nueva York–LaGuardia en 4 horas, 13 minutos y 26 segundos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos Verificados del Evento
 - **Fecha:** 26 de enero de 1946 (algunas fuentes mencionan 22 o 27 de enero)  
 - **Ruta:** Long Beach (California) – Nueva York LaGuardia  
@@ -32,7 +32,7 @@ image: 1946-01-26-primer-record-transcontinental-p80-councill.jpg
 - **Altitud de crucero:** 35.000–41.000 pies  
 - **Resultado inmediato:** Récord transcontinental a reacción, superando en más de una hora la marca previa de un B‑29.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El vuelo de Councill marcó el inicio de la era de los jets en Estados Unidos, demostrando la capacidad de los cazas a reacción para vuelos de largo alcance.
 
@@ -56,7 +56,7 @@ El récord consolidó la reputación del P‑80 y abrió camino para el desarrol
 ### Legado
 El vuelo de Councill es recordado como el primer récord transcontinental a reacción en EE.UU., símbolo del inicio de la era jet.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -70,7 +70,7 @@ El vuelo de Councill es recordado como el primer récord transcontinental a reac
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-22 12:55:00 UTC  
 - **Fuentes primarias consultadas:** This Day in Aviation; Wikipedia; The New York Times; HistoryNet; WW2DB; Air Zoo  

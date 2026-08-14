@@ -14,14 +14,14 @@ image: 1936-03-05-primer-vuelo-supermarine-spitfire.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1936-03-05-primer-vuelo-supermarine-spitfire.jpg" alt="Prototipo Supermarine Spitfire K5054 en 1936">
   <figcaption class="post-caption">Supermarine Spitfire prototipo (matrícula K5054), frente a hangares en Eastleigh (Southampton), poco antes o después de su primer vuelo el 5 de marzo de 1936 pilotado por Mutt Summers. Fuente: RAF Memorial Flight Club.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 5 de marzo de 1936, el prototipo K5054 del Supermarine Spitfire, diseñado por R.J. Mitchell, realizó su primer vuelo de 8 minutos en Eastleigh, pilotado por Mutt Summers. Su innovadora ala elíptica, concebida por Beverley Shenstone, le otorgaba velocidad y maniobrabilidad excepcionales. A pesar de las dudas iniciales sobre el nombre y los graves problemas de producción, el Spitfire se convirtió en el único caza aliado producido durante toda la Segunda Guerra Mundial, pieza clave en la Batalla de Inglaterra y un icono perdurable de la aviación.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha del primer vuelo:** 5 de marzo de 1936 (con controversia histórica sobre el 6 de marzo)  
 - **Lugar:** Aeródromo de Eastleigh (Southampton), Reino Unido  
@@ -33,7 +33,7 @@ image: 1936-03-05-primer-vuelo-supermarine-spitfire.jpg
 - **Nombre original sugerido:** “The Shrew” (rechazado, se adoptó “Spitfire”)  
 - **Pedido inicial:** 310 unidades (junio de 1936)  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto histórico
 El Spitfire fue concebido como respuesta británica a la creciente amenaza aérea en Europa, destacando por su diseño innovador y su papel crucial en la defensa del Reino Unido.
 
@@ -59,7 +59,7 @@ El Spitfire fue decisivo en la defensa aérea británica, consolidando la suprem
 ### Legado
 Se produjeron más de 20.000 unidades en diversas versiones. El Spitfire sigue siendo uno de los cazas más emblemáticos de la historia, con ejemplares aún en vuelo en colecciones históricas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias verificadas
 <div class="references">
   <ul>
@@ -77,7 +77,7 @@ Se produjeron más de 20.000 unidades en diversas versiones. El Spitfire sigue s
 <p><strong>Nota aclaratoria:</strong> Existe controversia sobre la fecha exacta del primer vuelo del Spitfire. Aunque documentos oficiales confirman el 5 de marzo de 1936 a las 16:35 horas, algunos testigos como Jeffrey Quill sostuvieron que fue el 6 de marzo. Se prioriza la fecha del 5 de marzo como la más aceptada por la historiografía.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-03-04 13:55 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES, RAF Museum, History Today, RAF Memorial Flight Club  

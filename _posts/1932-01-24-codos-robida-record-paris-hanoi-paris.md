@@ -14,14 +14,14 @@ image: 1932-01-24-codos-robida-record-paris–hanoi–paris.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1932-01-24-codos-robida-record-paris–hanoi–paris.jpg" alt="Paul Codos y Henri Robida tras récord París–Hanoi–París">
   <figcaption class="post-caption">Composición con Paul Codos y Henri Robida ante su Bréguet Bre.330 F-AKEZ, protagonista del raid París–Hanoï–París culminado el 24 de enero de 1932 con un récord de velocidad en el vuelo de regreso. Composición del autor sobre imágenes reproducidas por This Day in Aviation</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 24 de enero de 1932, los aviadores franceses Paul Codos y Henri Robida completaron el vuelo París–Hanoi–París en un Bréguet Bre.330, estableciendo un récord de velocidad en el tramo de regreso con un tiempo de 3 días, 4 horas y 17 minutos, reduciendo en más de 30 horas la marca anterior.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos Verificados del Evento
 - **Fecha:** 24 de enero de 1932  
 - **Lugar:** París–Hanoi–París  
@@ -31,7 +31,7 @@ image: 1932-01-24-codos-robida-record-paris–hanoi–paris.jpg
 - **Tiempo de regreso:** 3 días, 4 horas y 17 minutos  
 - **Resultado inmediato:** Récord de velocidad en la ruta Hanoi–París, reducción de más de 30 horas respecto a la marca anterior.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El vuelo de Codos y Robida demostró la capacidad de los aviones franceses de largo alcance y consolidó al Bréguet Bre.330 como demostrador tecnológico.
 
@@ -56,7 +56,7 @@ El récord consolidó la reputación de Codos y Robida y posicionó al Bre.330 c
 ### Legado
 La hazaña se recuerda como uno de los grandes récords de la aviación francesa en la era de los vuelos de largo alcance.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -71,7 +71,7 @@ La hazaña se recuerda como uno de los grandes récords de la aviación francesa
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-22 10:05:00 UTC  
 - **Fuentes primarias consultadas:** This Day in Aviation; Wikipedia; SICP; Wonders of World Aviation; Centennial of Flight; FDRA Aéreo  
