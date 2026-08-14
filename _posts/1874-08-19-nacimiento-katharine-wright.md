@@ -30,7 +30,7 @@ image: 1874-08-19-nacimiento-katharine-wright.webp
 - **Fallecimiento:** 3 de marzo de 1929 en Kansas City, de neumonía; sepultada con sus padres y su hermano Wilbur en el cementerio Woodland de Dayton
 - **Formación:** Central High School de Dayton; Oberlin College (1893-1898), única hermana Wright con título universitario; profesora de latín e inglés en Steele High School hasta 1908
 - **Rol en la empresa de volar:** al frente de la casa desde la muerte de su madre en 1889; desde los veranos de Kitty Hawk (1901), administró la Wright Cycle Company, empacó suministros y llevó la correspondencia oficial y la prensa; los Wright no aceptaban donaciones: los experimentos se pagaron con la tienda y con su sueldo de maestra
-- **Después del vuelo:** dejó la enseñanza en septiembre de 1908 para cuidar a Orville, herido en el accidente de Fort Myer que mató al Teniente Thomas Selfridge; en 1909 acompañó a sus hermanos a Europa como representante de la Wright Company y recibió la Legión de Honor de Francia; tras la muerte de Wilbur (1912) asumió un cargo directivo en la compañía, que Orville vendió en 1915
+- **Después del vuelo:** dejó la enseñanza en septiembre de 1908 para cuidar a Orville, herido en el accidente de Fort Myer que mató al Teniente Thomas Selfridge; en 1909 acompañó a sus hermanos a Europa como representante de la Wright Company y recibió la Legión de Honor de Francia; tras la muerte de Wilbur (1912) asumió un cargo directivo en la Wright Company —presidida por Orville—, que este vendió en 1915
 - **Vida cívica:** sufragista, presidente de la Young Women's League de Dayton; el 24 de octubre de 1914 marchó con unas 1.300 manifestantes, junto a Orville y al obispo Milton, por la enmienda del voto femenino en Ohio
 - **Matrimonio:** con Henry J. Haskell, editor de Kansas City, el 20 de noviembre de 1926 en Oberlin; la boda rompió su relación con Orville hasta la víspera de su muerte
 
@@ -65,7 +65,7 @@ La llamaron el «tercer hermano Wright», y Europa la trató como a una celebrid
 - **Septiembre de 1908:** tras el accidente de Fort Myer que mata a Selfridge y hiere a Orville, deja la enseñanza para cuidarlo; nunca vuelve al aula.
 - **1909:** acompaña a sus hermanos a Europa; actúa como representante de la Wright Company; recibe la Legión de Honor.
 - **24 de octubre de 1914:** marcha en Dayton por el voto femenino junto a unas 1.300 manifestantes, Orville y el obispo Milton.
-- **1912-1915:** a la muerte de Wilbur, Katharine asume un cargo directivo en la Wright Company; permanece en él hasta que Orville vende la compañía en 1915.
+- **1912-1915:** a la muerte de Wilbur, Katharine asume un cargo directivo en la Wright Company, presidida por Orville; permanece en él hasta que este vende la compañía en 1915.
 - **20 de noviembre de 1926:** se casa en Oberlin con Henry J. Haskell; Orville rompe con ella.
 - **3 de marzo de 1929:** muere de neumonía en Kansas City, reconciliada con Orville días antes; es sepultada en Woodland Cemetery.
 
