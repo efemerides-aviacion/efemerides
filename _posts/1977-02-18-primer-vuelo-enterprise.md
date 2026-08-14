@@ -14,14 +14,14 @@ image: 1977-02-18-primer-vuelo-enterprise.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1977-02-18-primer-vuelo-enterprise.webp" alt="Enterprise OV-101 en su primer vuelo cautivo sobre el 747 SCA">
   <figcaption class="post-caption">Enterprise OV-101 durante su primer vuelo cautivo sobre el Boeing 747 NASA 905, 18 de febrero de 1977, Edwards AFB. (Foto: NASA / DFRC).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El Enterprise (OV-101), primer orbitador del programa Space Shuttle, fue presentado en 1976 como prototipo destinado a ensayos atmosféricos. El 18 de febrero de 1977 realizó su primer vuelo cautivo sobre un Boeing 747 Shuttle Carrier Aircraft en Edwards AFB, iniciando el programa Approach and Landing Tests que validó el comportamiento aerodinámico del transbordador. Aunque nunca voló al espacio por carecer de motores orbitales y escudo térmico completo, su campaña de pruebas permitió certificar el diseño para los orbitadores operativos posteriores.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha:** 18 de febrero de 1977  
 - **Lugar:** Edwards Air Force Base, California, EE.UU.  
@@ -30,7 +30,7 @@ image: 1977-02-18-primer-vuelo-enterprise.webp
 - **Tripulación:** Sin tripulación a bordo (inert)  
 - **Resultado inmediato:** Validación inicial de manejo y aerodinámica del conjunto Shuttle–747  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 Enterprise fue el primer orbitador construido del sistema Space Shuttle. Carecía de motores principales y escudo térmico completo, por lo que nunca estuvo certificado para vuelo orbital. Su misión fue validar aerodinámica, control y procedimientos de aterrizaje mediante el programa ALT (Approach and Landing Tests).
 
@@ -48,7 +48,7 @@ Enterprise fue el primer orbitador construido del sistema Space Shuttle. Carecí
 ### Legado
 Enterprise nunca voló al espacio, pero fue esencial para el éxito del programa Shuttle. Actualmente se exhibe en el **Intrepid Sea, Air & Space Museum** de Nueva York como pieza central del Space Shuttle Pavilion.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -67,7 +67,7 @@ Enterprise nunca voló al espacio, pero fue esencial para el éxito del programa
 <p><strong>Nota aclaratoria:</strong> Enterprise fue un prototipo atmosférico. Nunca voló al espacio, pero sus pruebas fueron esenciales para certificar el diseño de los orbitadores operativos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-16 13:15 CST  
 - **Fuentes primarias consultadas:** NASA, This Day in Aviation, Intrepid Museum  

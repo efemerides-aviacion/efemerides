@@ -14,14 +14,14 @@ image: 2005-03-03-virgin-atlantic-global-flyer-record-mundial.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2005-03-03-virgin-atlantic-global-flyer-record-mundial.jpg" alt="Virgin Atlantic GlobalFlyer en aproximación final, Salina 2005">
   <figcaption class="post-caption">Virgin Atlantic GlobalFlyer (N227SF) se aproxima al aterrizaje en Salina, Kansas, tras completar la primera vuelta al mundo en solitario sin reabastecimiento. Steve Fossett, 3 mar 2005. China Daily / AFP.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 3 de marzo de 2005, el aventurero estadounidense Steve Fossett se convirtió en el primer piloto en dar la vuelta al mundo en solitario, sin escalas y sin repostar combustible. A bordo del Virgin Atlantic GlobalFlyer, diseñado por Burt Rutan, recorrió más de 37.000 km en 67 horas. La hazaña, financiada por Richard Branson, estuvo marcada por una fuga de combustible que puso en riesgo el éxito, pero Fossett logró superar la emergencia y aterrizar en Salina (Kansas), estableciendo uno de los últimos grandes récords de la aviación.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha:** 3 de marzo de 2005  
 - **Duración del vuelo:** 67 horas y 2 minutos  
@@ -32,7 +32,7 @@ image: 2005-03-03-virgin-atlantic-global-flyer-record-mundial.jpg
 - **Patrocinador principal:** Richard Branson / Virgin Atlantic  
 - **Homologación:** Federación Aeronáutica Internacional (FAI)  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto histórico
 La hazaña de Fossett se inscribe en la tradición de los grandes récords de aviación, demostrando los límites de la resistencia humana y la ingeniería aeronáutica.
 
@@ -57,7 +57,7 @@ El vuelo demostró la viabilidad de aeronaves ultraligeras para vuelos de largo 
 ### Legado
 El GlobalFlyer se exhibe en el Museo Nacional del Aire y el Espacio del Smithsonian, como símbolo de innovación y audacia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias verificadas
 <div class="references">
   <ul>
@@ -77,7 +77,7 @@ El GlobalFlyer se exhibe en el Museo Nacional del Aire y el Espacio del Smithson
 <p>Este récord se complementa con otro hito de Fossett en 2006, cuando estableció la mayor distancia recorrida sin reabastecimiento. Ver efeméride relacionada: <a href="https://efemerides-aviacion.github.io/efemerides/evento/2006/02/11/steve-fossett-vuelta-mundo-sin-repostar.html">Steve Fossett – Vuelta al mundo sin repostar (2006)</a>.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-03-01 11:50 CST  
 - **Fuentes primarias consultadas:** Cadena SER, ABC News AU, China Daily, Semana, La Nación, Wikipedia EN, Getty Images  

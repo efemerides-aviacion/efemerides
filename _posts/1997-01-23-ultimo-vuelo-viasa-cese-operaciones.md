@@ -15,14 +15,14 @@ image: 1997-01-23-ultimo-vuelo-viasa-cese-operaciones.webp
   <figcaption class="post-caption">Uno de los McDonnell Douglas DC-10-30 de Viasa, como el que operó el último vuelo de la aerolínea. Esta fotografía fue tomada en el aeropuerto de Zúrich (Suiza) en febrero de 1996. Fuente: archivo histórico de aviación.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 23 de enero de 1997, la aerolínea bandera de Venezuela, Viasa (Venezolana Internacional de Aviación Sociedad Anónima), realizó su último vuelo y cesó todas sus operaciones. El vuelo VA3735, un chárter operado por un McDonnell Douglas DC-10, cubrió la ruta Billund (Dinamarca) – Porlamar (Venezuela), marcando el fin de 37 años de historia de una aerolínea que conectó a Venezuela con cuatro continentes. El cierre fue el desenlace de una profunda crisis financiera, con pérdidas acumuladas que superaban los 188 millones de dólares, y del fracaso del proceso de privatización iniciado en 1991, cuando el consorcio liderado por Iberia adquirió el 60% de la compañía.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 ## Datos verificados del evento
 - **Fecha del último vuelo y cese de operaciones:** 23 de enero de 1997
@@ -37,7 +37,7 @@ image: 1997-01-23-ultimo-vuelo-viasa-cese-operaciones.webp
 - **Plantilla afectada:** Aproximadamente 2.400 trabajadores (822 de ellos personal de tierra) [NO CONFIRMADO: la cifra varía entre 2.250 y 2.400 según las fuentes]
 - **Pasajeros afectados:** Alrededor de 1.500 pasajeros quedaron varados en el aeropuerto de Maiquetía el día del cese
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 ## Contexto Histórico
 
@@ -82,7 +82,7 @@ La historia de Viasa estuvo marcada por cambios de propiedad:
 
 A pesar de su trágico final, Viasa permanece en la memoria colectiva de Venezuela como un símbolo de la época dorada de la aviación nacional. Su nombre sigue siendo evocado con nostalgia por generaciones de viajeros. La "Torre Viasa" en Caracas, su antigua sede, sigue en pie como un recordatorio de lo que fue la aerolínea de las siete estrellas. El verbo "viasar" se mantiene en el habla popular venezolana como sinónimo de viajar en avión con estilo. Viasa es, además, un caso de estudio en escuelas de negocios y aviación sobre los riesgos de la privatización mal gestionada y la importancia del apoyo estatal sostenido a las aerolíneas de bandera.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 ## Referencias Verificadas
 <div class="references">
@@ -103,7 +103,7 @@ A pesar de su trágico final, Viasa permanece en la memoria colectiva de Venezue
   <p><strong>Nota aclaratoria:</strong> No se ha podido confirmar la matrícula específica del DC-10 que operó el último vuelo VA3735 (Billund-Porlamar). Algunas fuentes mencionan que el último servicio regular de DC-10 de Viasa fue operado por la matrícula YV-139C el 18 de enero de 1997, pero no se especifica si esa misma aeronave realizó el chárter final del 23 de enero. Tampoco se ha encontrado una fotografía específica de ese avión en ese vuelo. La imagen utilizada en esta efeméride corresponde a otro DC-10 de la flota de Viasa en fecha anterior (Zúrich, 1996) y se incluye a título ilustrativo. Las cifras de empleados afectados varían según la fuente (entre 2.250 y 2.400); se ha optado por la horquilla más amplia. La deuda con Iberia (151 millones de dólares) y las pérdidas acumuladas (144-188 millones) están documentadas en fuentes periodísticas de la época.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-03 10:30 UTC

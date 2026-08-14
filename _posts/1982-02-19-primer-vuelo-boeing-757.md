@@ -14,14 +14,14 @@ image: 1982-02-19-primer-vuelo-boeing-757.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1982-02-19-primer-vuelo-boeing-757.webp" alt="Prototipo Boeing 757-200 N757A durante su vuelo inaugural en 1982">
   <figcaption class="post-caption">Prototipo Boeing 757-200 N757A durante su vuelo inaugural, 19 de febrero de 1982, desde Renton Municipal Airport hacia Paine Field. Pilotos: John H. Armstrong y Samuel Lewis ‘Lew’ Wallick Jr. (Foto: Boeing / Archivo histórico).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 19 de febrero de 1982 voló por primera vez el Boeing 757-200 prototipo N757A, despegando de Renton y aterrizando en Paine Field tras 2 h 31 min, con los pilotos de pruebas John H. Armstrong y Lew Wallick. El vuelo incluyó la parada y rearranque en vuelo del motor derecho por baja presión de aceite, pero permitió cumplir todos los objetivos de prueba previstos. Este modelo introdujo una cabina biplaza digital y una notable mejora de eficiencia respecto al 727, convirtiéndose en uno de los birreactores de pasillo único más versátiles de Boeing.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha:** 19 de febrero de 1982  
 - **Lugar:** Renton Municipal Airport – Paine Field, Washington, EE.UU.  
@@ -31,7 +31,7 @@ image: 1982-02-19-primer-vuelo-boeing-757.webp
 - **Incidente en vuelo:** Parada y rearranque del motor derecho por baja presión de aceite  
 - **Innovaciones:** Cabina biplaza “glass cockpit”, eficiencia de combustible mejorada en ~20% respecto al 727  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 El Boeing 757 fue concebido como reemplazo del 727, ofreciendo mayor capacidad y eficiencia. Su desarrollo paralelo con el 767 permitió compartir sistemas y entrenamiento. El prototipo N757A fue clave en la validación de la nueva generación de birreactores de pasillo único.
 
@@ -50,7 +50,7 @@ El Boeing 757 fue concebido como reemplazo del 727, ofreciendo mayor capacidad y
 ### Estado actual
 Aunque la producción terminó en 2004, el 757 sigue en servicio con varias aerolíneas y es valorado por su rendimiento en rutas transatlánticas y operaciones especiales. El prototipo N757A fue posteriormente usado como banco de pruebas, incluyendo ensayos para el F-22 Raptor.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -66,7 +66,7 @@ Aunque la producción terminó en 2004, el 757 sigue en servicio con varias aero
 <p><strong>Nota aclaratoria:</strong> El prototipo N757A fue posteriormente utilizado como banco de pruebas para programas avanzados, incluyendo ensayos del F-22. La producción total del 757 alcanzó 1,050 unidades entre 1981 y 2004.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-17 13:55 CST  
 - **Fuentes primarias consultadas:** Boeing, Simple Flying, Airways Magazine, This Day in Aviation  

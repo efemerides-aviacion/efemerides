@@ -15,14 +15,14 @@ image: 1995-04-27-declaracion-gps-operativo-pleno-uso-civil.webp
   <figcaption class="post-caption">Diagrama de la constelación de satélites GPS, mostrando 24 satélites operativos en órbitas dedicadas, conmemorando 20 años de operación plena del sistema desde su declaración de capacidad operativa plena el 27 de abril de 1995. Fuente: GPS World.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 27 de abril de 1995, el Comando Espacial de la Fuerza Aérea de Estados Unidos declaró la constelación del Sistema de Posicionamiento Global (GPS) con capacidad operativa plena (FOC), lo que significa que el sistema cumplía con todos los requisitos de rendimiento y proporcionaba de forma estable tanto el servicio militar preciso (PPS) como el servicio civil estándar (SPS). Esta fecha marca el inicio de la operación plena del GPS para aplicaciones civiles, incluida la navegación aeronáutica, marítima, terrestre y de tiempo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ image: 1995-04-27-declaracion-gps-operativo-pleno-uso-civil.webp
 - **Declaración de capacidad operativa inicial (IOC):** 8 de diciembre de 1993
 - **Primer satélite GPS (NAVSTAR):** 1978
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Contexto Histórico
 
@@ -67,7 +67,7 @@ La década de 1990 fue testigo de la transición de tecnologías militares a apl
 - **2010:** Se completa la modernización con satélites Block IIF.
 - **2018:** Lanzamiento del primer satélite GPS III, con mayor precisión y resistencia a interferencias.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## La declaración de capacidad operativa plena: significado
 
@@ -85,7 +85,7 @@ Existe una distinción importante entre la fecha en que el sistema alcanzó téc
 
 Antes de la FOC, el 8 de diciembre de 1993, el sistema GPS había alcanzado la Capacidad Operativa Inicial (IOC). En esa fecha, 24 satélites (incluyendo los primeros satélites Block I y Block II/IIA) estaban operando en sus órbitas asignadas, disponibles para uso de navegación y proporcionando el Servicio de Posicionamiento Estándar. La IOC representó el primer momento en que el sistema pudo ser utilizado operativamente, aunque aún no cumplía con todos los requisitos de rendimiento para la declaración de FOC.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Impacto en la aviación
 
@@ -107,7 +107,7 @@ El GPS es fundamental para el sistema de vigilancia ADS-B (Automatic Dependent S
 
 Para la aviación general, el GPS democratizó la navegación. Los pilotos privados, que antes dependían de mapas, radiofaros y navegación visual, ahora pueden volar con una precisión y seguridad sin precedentes, con dispositivos portátiles que muestran su posición en tiempo real, rutas, aeropuertos cercanos y alertas de tráfico.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Consecuencias e Impacto
 
@@ -121,7 +121,7 @@ Para la aviación general, el GPS democratizó la navegación. Los pilotos priva
 
 - **Economía y vida cotidiana:** El GPS se ha integrado en miles de aplicaciones cotidianas: navegación en teléfonos móviles, logística y transporte, agricultura de precisión, topografía, sincronización de redes eléctricas y financieras, geocaching, etc.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 
@@ -138,7 +138,7 @@ Con más de 30 satélites operativos en la actualidad (incluyendo los modernos G
 <p><strong>Sobre la categoría de esta efeméride:</strong> Aunque el GPS es un sistema satelital militar y civil de navegación global, su impacto en la aviación (aproximaciones de precisión, RNAV, RNP, ADS-B) es fundamental. Por ello, se clasifica dentro de <strong>aviacion-espacial</strong>, que abarca sistemas satelitales y tecnología espacial aplicada a la aviación.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Referencias Verificadas
 
@@ -154,7 +154,7 @@ Con más de 30 satélites operativos en la actualidad (incluyendo los modernos G
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
 

@@ -15,14 +15,14 @@ image: 2006-02-11-steve-fossett-vuelta-mundo-sin-repostar.webp
   <figcaption class="post-caption">Steve Fossett posa sonriente junto al Virgin Atlantic GlobalFlyer antes del récord de 2006. Fuente: archivo histórico de aviación.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 11 de febrero de 2006, el aventurero y millonario estadounidense Steve Fossett, de 61 años, aterrizó de emergencia en Bournemouth (Inglaterra) a bordo del Virgin Atlantic GlobalFlyer (matrícula N277SF), completando el vuelo más largo sin escalas ni repostaje de la historia. Despegó del Centro Espacial Kennedy (Florida) el 8 de febrero y recorrió 41.467,53 km en 76 horas y 45 minutos, dando una vuelta y media al mundo y cruzando dos veces el Atlántico. El récord, ratificado por la Federación Aeronáutica Internacional (FAI) y Guinness World Records, superó la marca de 40.212 km establecida en 1986 por el Rutan Voyager. El vuelo estuvo plagado de dificultades: pérdida de combustible en el despegue, turbulencias extremas sobre India que casi destruyen el avión, fallos eléctricos y temperaturas de hasta 54 °C en la cabina. El aterrizaje fue forzoso por una avería eléctrica; Fossett aterrizó con visibilidad reducida, hielo en la cabina y reventó dos neumáticos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 ## Datos verificados del evento
 - **Fecha del récord:** 11 de febrero de 2006 (ratificación sobre Shannon, Irlanda)
@@ -46,7 +46,7 @@ image: 2006-02-11-steve-fossett-vuelta-mundo-sin-repostar.webp
 - **Récord de globo superado:** Breitling Orbiter 3 (1999), 40.805 km
 - **Validación:** Récord ratificado por la FAI y Guinness World Records
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 ## Contexto Histórico
 
@@ -75,7 +75,7 @@ Fossett era una celebridad mediática. Sus hazañas eran seguidas por millones d
 - **2006, 14-17 de marzo:** Fossett establece otro récord de distancia en circuito cerrado sobre Salina (Kansas), recorriendo 40.721 km en 74 horas y 30 minutos.
 - **2017:** El GlobalFlyer (N277SF) es donado al National Air and Space Museum (Steven F. Udvar-Hazy Center) en Chantilly, Virginia, donde se exhibe en la actualidad.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 ## Consecuencias e Impacto
 
@@ -84,13 +84,13 @@ Fossett era una celebridad mediática. Sus hazañas eran seguidas por millones d
 - **Legado de Steve Fossett:** Fossett acumuló más de 100 récords mundiales. Su desaparición en septiembre de 2007 (cuando volaba sobre Nevada) y su muerte declarada legalmente en 2008 no empañaron su legado. En 2013, la FAA y la NAA le otorgaron póstumamente el Premio a la Trayectoria en Aviación.
 - **Inspiración para futuros proyectos supersónicos:** La tecnología del GlobalFlyer influyó en posteriores aviones experimentales de ultra largo alcance, incluidos los diseños de Virgin Galactic y otros proyectos de vuelo alrededor del mundo con energía solar.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 ## Legado
 
 El récord de Steve Fossett en 2006 sigue siendo el vuelo sin escalas más largo de la historia de la aviación (aeronave más pesada que el aire). Aunque en 2016 el Solar Impulse 2 completó una circunnavegación mundial con energía solar, su distancia máxima por etapa fue menor. El GlobalFlyer se conserva en el **Smithsonian National Air and Space Museum (Steven F. Udvar-Hazy Center)** en Virginia, junto a otros hitos de la aviación como el Boeing 367-80 y el Space Shuttle Discovery. La hazaña de Fossett representa el pináculo de la aviación experimental privada y sigue siendo un caso de estudio en ingeniería aeronáutica, gestión de riesgos y resistencia humana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 ## Referencias Verificadas
 <div class="references">
@@ -112,7 +112,7 @@ El récord de Steve Fossett en 2006 sigue siendo el vuelo sin escalas más largo
   <p><strong>Nota aclaratoria:</strong> Existen ligeras variaciones en las cifras de distancia según la fuente (FAI/Guinness: 41.467,53 km; Associated Press: 42.467 km; otras fuentes: 41.842 km o 42.458 km). La cifra oficial ratificada por la FAI y Guinness World Records es 41.467,53 km (25.766,72 millas). La cifra de 26.389 millas (42.467 km) reportada por AP corresponde a la distancia total volada, pero incluye la desviación por la emergencia; la FAI ratifica la distancia desde el despegue hasta el punto de récord sobre Shannon (Irlanda). El vuelo no transportó pasajeros; fue un vuelo experimental con un único piloto.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-03 13:00 UTC

@@ -14,13 +14,13 @@ image: 1981-04-12-primer-vuelo-transbordador-columbia.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1981-04-12-primer-vuelo-transbordador-columbia.webp" alt="Lanzamiento del Transbordador Espacial Columbia en la misión STS-1">
   <figcaption class="post-caption">El lanzamiento del primer transbordador Columbia (STS-1) desde la Plataforma 39A el 12 de abril de 1981 a las 7 a.m., con John Young y Robert Crippen, inauguró la era de naves espaciales reutilizables. Fuente: <a href="https://www.nasa.gov/history/sts-1-astronaut-bob-crippen-remembers-the-ride-of-his-life/">NASA – "STS-1: Astronaut Bob Crippen Remembers the Ride of His Life".</a></figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 12 de abril de 1981, el Transbordador Espacial Columbia despegó desde el Centro Espacial Kennedy en Cabo Cañaveral, Florida, iniciando la misión STS-1, la primera del programa Space Shuttle. Durante 2 días, 6 horas y 21 minutos, los astronautas John W. Young (comandante) y Robert L. Crippen (piloto) completaron 36 órbitas alrededor de la Tierra, demostrando por primera vez que una nave espacial tripulada podía ser reutilizable. El Columbia aterrizó con éxito el 14 de abril en la base de la Fuerza Aérea Edwards (California), inaugurando una nueva era en la exploración espacial.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Datos verificados del evento
 - **Fecha de lanzamiento:** 12 de abril de 1981, 07:00:03 UTC (hora local: 12 de abril, 7:00:03 a.m. EST)
@@ -37,7 +37,7 @@ image: 1981-04-12-primer-vuelo-transbordador-columbia.webp
 - **Distancia recorrida:** 1,74 millones de km
 - **Estado:** Primer vuelo orbital de una nave espacial reutilizable tripulada
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Contexto Histórico
 
@@ -86,7 +86,7 @@ El éxito fue tal que la NASA declaró el vuelo como "101% exitoso", y el Columb
 
 El Columbia se perdió trágicamente el 1 de febrero de 2003 durante la reentrada de la misión STS-107, desintegrándose sobre Texas con sus siete tripulantes. A pesar de este desenlace, su legado como pionero de las naves reutilizables permanece intacto. El éxito del STS-1 demostró que Estados Unidos había recuperado su capacidad de vuelo espacial tripulado después de seis años de pausa, y abrió el camino a tres décadas de operaciones del transbordador (1981-2011). Los astronautas John Young (fallecido en 2018) y Robert Crippen (fallecido en 2024) pasaron a la historia como los primeros en pilotar el vehículo más complejo jamás construido. El Columbia, aunque destruido, sigue siendo un símbolo del ingenio humano y del espíritu de exploración.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -108,7 +108,7 @@ El Columbia se perdió trágicamente el 1 de febrero de 2003 durante la reentrad
   <p><strong>Nota aclaratoria:</strong> La fecha del lanzamiento (12 de abril de 1981) coincide con el vigésimo aniversario del primer vuelo orbital tripulado de Yuri Gagarin (12 de abril de 1961). El Columbia fue el primer transbordador en volar, pero el segundo en ser construido (el Enterprise, OV-101, fue utilizado solo para pruebas de aproximación y aterrizaje en 1977, sin capacidad orbital). La duración exacta de la misión fue de 2 días, 6 horas, 20 minutos y 53 segundos, aunque algunas fuentes redondean a 2 días, 6 horas y 21 minutos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-07 17:30:00 UTC

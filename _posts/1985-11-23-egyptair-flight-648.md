@@ -15,7 +15,7 @@ image: 1985-11-23-egyptair-flight-648.jpg
   <figcaption class="post-caption">Boeing 737-200 de EgyptAir (matrícula SU-AYH), el avión involucrado en el secuestro del Vuelo 648 por la Organización Abu Nidal el 23 de noviembre de 1985 en ruta Atenas–El Cairo.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 <!-- ## Resumen ejecutivo -->
 <div class="highlight-box">
@@ -24,7 +24,7 @@ image: 1985-11-23-egyptair-flight-648.jpg
   </p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Datos verificados del evento
 - **Fecha del secuestro:** 23 de noviembre de 1985  
