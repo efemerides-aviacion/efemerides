@@ -15,10 +15,13 @@ image: 1934-12-30-primer-vuelo-martin-m130.jpg
   <figcaption class="post-caption">El hidroavión Martin M-130 China Clipper (NC14716) de Pan American Airways sobrevolando la bahía de San Francisco con el skyline y el puente en construcción al fondo, c. 1936. Glenn L. Martin Company / Pan Am Historical Foundation, vía Library of Congress</figcaption>
 </figure>
 
-<hr style="margin:2rem 0; border:none; height:2px; background:linear-gradient(to right,#1a237e,#283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Resumen Ejecutivo
 El 30 de diciembre de 1934, el Martin M‑130, hidroavión diseñado por la Glenn L. Martin Company para Pan American Airways, realizó su primer vuelo en Middle River, Maryland. Este modelo, conocido como “China Clipper”, inauguró la era de los vuelos transoceánicos comerciales con capacidad para transportar correo y pasajeros a través del Pacífico.
+
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 30 de diciembre de 1934  
@@ -26,6 +29,9 @@ El 30 de diciembre de 1934, el Martin M‑130, hidroavión diseñado por la Glen
 - **Protagonistas:** Glenn L. Martin Company; Pan American Airways; piloto William K. “Ken” Ebel  
 - **Aeronave/empresa involucrada:** Martin M‑130, Pan American Airways  
 - **Resultado inmediato:** Vuelo exitoso de prueba, validando el diseño para operaciones transoceánicas  
+
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 En la década de 1930, Pan American Airways buscaba expandir sus rutas hacia el Pacífico, lo que requería aeronaves de gran alcance y capacidad. El Martin M‑130 fue diseñado para cumplir estas especificaciones, superando a modelos anteriores como el Sikorsky S‑42. Su desarrollo marcó un hito en la aviación comercial, al permitir vuelos transoceánicos regulares y consolidar la imagen de Pan Am como pionera en la “Clipper Era”.
@@ -50,6 +56,9 @@ El M‑130 permitió a Pan Am establecer la primera ruta aérea trans-Pacífica,
 ### Legado
 Aunque solo se construyeron tres unidades, el M‑130 abrió camino a aeronaves más avanzadas como el Boeing 314 y consolidó la reputación de Pan Am como líder en la aviación mundial.  
 
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -58,6 +67,9 @@ Aunque solo se construyeron tres unidades, el M‑130 abrió camino a aeronaves 
     <li><a href="https://www.thisdayinaviation.com/tag/pan-american-airways-system/">This Day in Aviation: Pan American Airways System</a></li>
   </ul>
 </div>
+
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-29 09:30:00 UTC  
