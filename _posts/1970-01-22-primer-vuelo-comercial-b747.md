@@ -20,7 +20,7 @@ image: 1970-01-22-primer-vuelo-comercial-b747.webp
 <p>El 22 de enero de 1970, el Boeing 747 entró en servicio comercial con Pan American World Airways en la ruta Nueva York (JFK) – Londres Heathrow. El vuelo PA2, operado por el 747‑121 “Clipper Young America”, transportó <strong>332 pasajeros y 17 tripulantes</strong>, totalizando 349 personas a bordo. El vuelo estaba originalmente previsto para la tarde/noche del 21 de enero, pero sufrió un retraso de varias horas por un problema de sobrecalentamiento de motor en el avión asignado inicialmente; se sustituyó la aeronave y la salida efectiva se produjo ya en la madrugada del día 22.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos Verificados del Evento
 - **Fecha:** 22 de enero de 1970  
 - **Lugar:** Ruta Nueva York (JFK) – Londres Heathrow  
@@ -32,7 +32,7 @@ image: 1970-01-22-primer-vuelo-comercial-b747.webp
 - **Resultado inmediato:** Primer vuelo comercial del Boeing 747, inaugurando la era de los wide‑body.  
 - **Nota:** El vuelo estaba previsto para el 21 de enero, pero se retrasó por problemas técnicos en el avión asignado inicialmente.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El Boeing 747 fue diseñado para duplicar la capacidad de los aviones de la época y reducir costos por asiento.
 
@@ -57,7 +57,7 @@ El 747 transformó la industria aérea, permitiendo vuelos intercontinentales co
 ### Legado
 El Boeing 747 es recordado como la “Reina de los Cielos”, protagonista de la aviación comercial durante más de cinco décadas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -73,7 +73,7 @@ El Boeing 747 es recordado como la “Reina de los Cielos”, protagonista de la
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-20 16:15:00 UTC  
 - **Fuentes primarias consultadas:** Pan Am Historical Foundation; Wikipedia; Northwestern University; This Day in Aviation; Airways; Airport History; CultureNow; University of Miami Digital Collections  

@@ -20,7 +20,7 @@ image: 1976-01-21-concorde-primeros-vuelos-comerciales.webp
 <p>El 21 de enero de 1976, el avión supersónico Concorde inauguró simultáneamente su servicio comercial con dos vuelos: Air France AF459 (F‑BVFA) despegó de París‑Orly rumbo a Río de Janeiro vía Dakar, y British Airways BA300 (G‑BOAA) partió de Londres‑Heathrow hacia Bahréin. Estos vuelos marcaron el debut con pasajeros pagando del único avión de pasajeros supersónico en entrar en servicio regular, símbolo de la cooperación franco‑británica y de la era dorada de la aviación comercial.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos Verificados del Evento
 - **Fecha:** 21 de enero de 1976  
 - **Lugar:** París‑Orly (Francia) y Londres‑Heathrow (Reino Unido)  
@@ -29,7 +29,7 @@ image: 1976-01-21-concorde-primeros-vuelos-comerciales.webp
 - **Rutas inaugurales:** París–Dakar–Río de Janeiro (AF459) y Londres–Bahréin (BA300)  
 - **Resultado inmediato:** Inicio del servicio comercial del Concorde, primer avión de pasajeros supersónico en operación regular.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El Concorde fue fruto de la cooperación entre Francia y Reino Unido, diseñado para volar a Mach 2.
 
@@ -54,7 +54,7 @@ El Concorde demostró la viabilidad del transporte supersónico de pasajeros, au
 ### Legado
 Recordado como símbolo de innovación y prestigio, el Concorde sigue siendo un ícono de la aviación comercial.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -70,7 +70,7 @@ Recordado como símbolo de innovación y prestigio, el Concorde sigue siendo un 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-15 19:05:00 UTC  
 - **Fuentes primarias consultadas:** Wikipedia; Heritage Concorde; Airways; Business Insider; El Comercio; Transponder1200  

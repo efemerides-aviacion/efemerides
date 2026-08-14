@@ -19,7 +19,7 @@ image: 1971-03-26-primer-vuelo-casa-c122.webp
 <div class="highlight-box">
 <p>El 26 de marzo de 1971 despegó por primera vez el prototipo del CASA C-212 Aviocar (matrícula XT.12-1) desde la Base Aérea de Getafe, España, iniciando el programa de uno de los aviones tácticos más emblemáticos de Construcciones Aeronáuticas SA. Concebido como un STOL de transporte ligero, el C-212 fue diseñado para misiones de carga, paracaidistas, ambulancia aérea y transporte de pasajeros, cubriendo tanto el segmento militar como el civil. Con el tiempo evolucionó hacia variantes especializadas, entre ellas modelos de patrullaje marítimo y plataformas de guerra electrónica (Elint/ECM), operadas por varias fuerzas aéreas y navales.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 26 de marzo de 1971
@@ -28,7 +28,7 @@ image: 1971-03-26-primer-vuelo-casa-c122.webp
 - **Aeronave/empresa involucrada:** CASA C-212 Aviocar, prototipo XT.12-1 (primer ejemplar construido)
 - **Resultado inmediato:** Primer vuelo exitoso del programa, que condujo a la certificación y entrada en servicio del avión en 1974, con más de 580 unidades producidas y exportadas a decenas de países.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -65,7 +65,7 @@ El Ejército del Aire español había mostrado tradicionalmente una fuerte vocac
 
 El primer vuelo de 1971 marcó el inicio de una historia de éxito que trasciende las décadas. Aunque la producción en España cesó en 2012, el C-212 sigue en servicio activo en fuerzas aéreas, armadas y operadores civiles de América Latina, Asia, África y Europa. Su versión de guerra electrónica (Elint/ECM) continúa realizando misiones de inteligencia de señales, mientras que los ejemplares de patrulla marítima protegen las zonas económicas exclusivas de varios países. La transferencia de la licencia a Indonesia para el N-219 asegura que el ADN del Aviocar perdure en nuevas generaciones de aviones STOL.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -85,7 +85,7 @@ El primer vuelo de 1971 marcó el inicio de una historia de éxito que trasciend
     <li><a href="https://sites.google.com/site/c212ala37/home/aviones-del-ala-37/c-212-aviocar">C‑212 Ala‑37 – C‑212 Aviocar en el Ejército del Aire español</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-24 12:00:00 UTC  

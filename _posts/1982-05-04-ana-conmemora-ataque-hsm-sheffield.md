@@ -21,7 +21,7 @@ image: 1982-05-04-ana-conmemora-ataque-hsm-sheffield.webp
 <p>El 4 de mayo de 1982, en plena Guerra de Malvinas, dos aviones Super Étendard de la Aviación Naval Argentina, pilotados por el capitán de corbeta Augusto Bedacarratz y el teniente de navío Armando Mayora, lanzaron misiles AM-39 Exocet contra el destructor británico HMS Sheffield. El impacto causó un incendio incontrolable que llevó al abandono del buque, el cual se hundió el 10 de mayo de 1982 mientras era remolcado. Fue la primera vez en la historia que un misil antibuque aire-superficie hundió un buque de guerra en combate, y esta acción dio origen a la conmemoración del 4 de mayo como el "Día de la Aviación Naval Argentina".</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -39,7 +39,7 @@ image: 1982-05-04-ana-conmemora-ataque-hsm-sheffield.webp
 - **Bajas británicas:** 20 fallecidos, 26 heridos
 - **Hundimiento del Sheffield:** 10 de mayo de 1982 (se hundió mientras era remolcado)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -53,7 +53,7 @@ Es importante aclarar que la Aviación Naval Argentina no se fundó el 4 de mayo
 
 Tras el hundimiento del General Belgrano, el alto mando argentino autorizó una operación de represalia con los recién incorporados Super Étendard y misiles Exocet, un sistema de armas que revolucionaría la guerra naval. Los cinco Super Étendard habían sido adquiridos a Francia en 1981 junto con 14 misiles Exocet AM-39, y habían llegado a Argentina en marzo de 1982, apenas semanas antes del desembarco en Malvinas. Esta acción fue la primera vez que se empleaba en combate la innovadora táctica de la **combinación avión explorador-avión de ataque**, que demostró una eficacia sin precedentes al hundir al primer buque británico de la guerra.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico del ataque
 
@@ -67,7 +67,7 @@ Tras el hundimiento del General Belgrano, el alto mando argentino autorizó una 
 - **Tarde del 4 de mayo:** El capitán James Salt ordena el abandono del buque ante el riesgo de que el fuego alcanzara el pañol de misiles Sea Dart.
 - **10 de mayo de 1982:** El Sheffield se hunde mientras era remolcado hacia las Georgias del Sur.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La misión: detalles tácticos
 
@@ -89,7 +89,7 @@ Un Learjet 35 de la Fuerza Aérea Argentina actuó como señuelo, simulando ser 
 
 El Exocet impactó en el costado del Sheffield a la altura de la sala de máquinas, perforando el casco de aluminio sin explotar. Sin embargo, el combustible del misil, aún sin quemar, se derramó e incendió el buque. El fuego, alimentado por los materiales sintéticos de la nave y el combustible del misil, se propagó rápidamente, destruyendo los sistemas contra incendios y las comunicaciones. La temperatura alcanzó niveles tan altos que el aluminio del casco comenzó a derretirse.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -98,7 +98,7 @@ El Exocet impactó en el costado del Sheffield a la altura de la sala de máquin
 - **Impacto psicológico en la Fuerza de Tareas Británica:** El hundimiento del Sheffield, un buque moderno dotado con el sistema de defensa aérea Sea Dart, golpeó duramente la moral británica. Fue el primer buque de la Royal Navy hundido en combate desde la Segunda Guerra Mundial.
 - **Precedente para la Aviación Naval:** El 4 de mayo de 1982 quedó institucionalizado como el "Día de la Aviación Naval Argentina", en reconocimiento al valor y profesionalismo de los aviadores navales que participaron en el ataque.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -116,7 +116,7 @@ El 4 de mayo de cada año, la Armada Argentina conmemora el "Día de la Aviació
 <p><strong>Sobre las bajas:</strong> La cifra oficial de víctimas en el HMS Sheffield es de 20 fallecidos y 26 heridos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -133,7 +133,7 @@ El 4 de mayo de cada año, la Armada Argentina conmemora el "Día de la Aviació
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

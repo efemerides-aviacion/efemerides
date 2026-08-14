@@ -21,7 +21,7 @@ image: 1975-04-30-apontaje-del-mayor-buang-ly-en-el-uss-midway.webp
 <p>El 30 de abril de 1975, en medio de la caída de Saigón, el mayor de la Fuerza Aérea de Vietnam del Sur, Buang-Ly, realizó un apontaje de emergencia en el portaaviones USS Midway. Pilotaba un Cessna O-1 Bird Dog en el que viajaban su esposa y sus cinco hijos. El capitán Lawrence Chambers ordenó lanzar al mar varios helicópteros para despejar la cubierta y permitir la maniobra, salvando así a la familia .</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ image: 1975-04-30-apontaje-del-mayor-buang-ly-en-el-uss-midway.webp
 - **Nota lanzada desde el avión:** "Can you mouve these Helicopter to the other side, I can land on your runway, I can fly 1 hour more, we have enough time to mouve. Please rescue me, Major Buang wife and 5 child." 
 - **Estado actual del avión:** En exposición en el Museo Nacional de Aviación Naval, NAS Pensacola, Florida 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -67,7 +67,7 @@ La imagen del apontaje del Bird Dog se convirtió en un símbolo de la desespera
 - **07:53 del 30 de abril de 1975:** El último helicóptero del Cuerpo de Marines evacúa la embajada de EE. UU. en Saigón .
 - **Diciembre de 2020:** Chambers, entonces de 91 años, reflexionó sobre la decisión: "Mi abuela me susurraba al oído: 'Mira, idiota, no te enseñé a estar a cargo de nada y dejar que mujeres y niños se ahogaran'" .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El apontaje: una decisión humana
 
@@ -95,7 +95,7 @@ Con la cubierta despejada, Chambers ordenó al Midway navegar a máxima velocida
 
 Tan pronto como el avión se detuvo, decenas de marineros vitorearon. Chambers se quitó sus alas de vuelo naval y las colocó en el uniforme de Buang-Ly . La tripulación del Midway "adoptó" a la familia y recaudó dinero para ayudarles a establecerse en Estados Unidos . Chambers nunca fue sometido a consejo de guerra; por el contrario, fue ascendido a contraalmirante .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El Bird Dog en el Museo
 
@@ -103,7 +103,7 @@ El Cessna O-1 Bird Dog que Buang-Ly pilotó aquel día se encuentra en exposici�
 
 En mayo de 2025, con motivo del 50° aniversario, el museo celebró una ceremonia especial "Flight to Freedom: Echoes of Valor" en presencia de Chambers (entonces de 96 años) y de Buang-Ly, ya como ciudadano estadounidense. Chambers declaró: "Este es el hombre más valiente que he conocido en mi vida" .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -112,7 +112,7 @@ En mayo de 2025, con motivo del 50° aniversario, el museo celebró una ceremoni
 - **Preservación histórica:** El Bird Dog original es una de las piezas más visitadas del Museo Nacional de Aviación Naval .
 - **Reconciliación y amistad:** Chambers y Buang-Ly mantuvieron contacto durante décadas. "Él confió en que yo haría lo correcto", dijo Chambers. "Y yo confié en que él podría aterrizar ese avión" .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -130,7 +130,7 @@ La frase de Chambers —"Mi abuela me susurraba al oído: 'Mira, idiota, no te e
 <p><strong>Sobre el rango de Chambers:</strong> Chambers fue ascendido a contraalmirante (Rear Admiral) en agosto de 1977, siendo el primer afroamericano graduado de la Academia Naval en alcanzar ese rango .</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -144,7 +144,7 @@ La frase de Chambers —"Mi abuela me susurraba al oído: 'Mira, idiota, no te e
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

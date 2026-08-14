@@ -19,7 +19,7 @@ image: 1988-03-13-cruce-andes-ala-delta.jpg
 <div class="highlight-box">
 <p>El 13 de marzo de 1988, Basilio Moisés Impellizzeri Nicito se convirtió en el primer piloto en cruzar la cordillera de los Andes en ala delta, desde Chile hacia Argentina, marcando un hito en la historia del aladeltismo sudamericano. Nacido en Mendoza (1935) y radicado en Chile desde 1978, Impellizzeri estableció ese día el récord chileno de permanencia en vuelo con 11 horas y 5 minutos. Pionero del vuelo sin motor en la región, más tarde publicaría el libro "Volar es fascinante, ¡Atrévete!" (1988) y colaboraría durante décadas con publicaciones aeronáuticas chilenas, dejando un legado como impulsor de los deportes aéreos extremos en el Cono Sur.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 13 de marzo de 1988
@@ -28,7 +28,7 @@ image: 1988-03-13-cruce-andes-ala-delta.jpg
 - **Aeronave/empresa involucrada:** Ala delta (modelo sin especificar, caracterizada por su diseño multicolor rojo-naranja-amarillo)
 - **Resultado inmediato:** Primer cruce de los Andes en ala delta de la historia, con récord chileno de permanencia en vuelo de 11 horas y 5 minutos
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 A finales de la década de 1980, el aladeltismo experimentaba un crecimiento significativo en Sudamérica, impulsado por la pasión de pioneros que buscaban nuevos desafíos en el vuelo sin motor. La cordillera de los Andes, con sus imponentes alturas y complejas condiciones meteorológicas, representaba la máxima aspiración para los pilotos de ala delta de la región.
@@ -72,7 +72,7 @@ Basilio Impellizzeri Nicito ocupa un lugar destacado en la historia de la aviaci
 
 Como él mismo escribió en su blog personal, sus años de vuelo fueron "años de gloria y de frenesí por volar y volar", y su testimonio directo es el mejor legado de aquellos tiempos heroicos del vuelo sin motor en la región andina .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -81,7 +81,7 @@ Como él mismo escribió en su blog personal, sus años de vuelo fueron "años d
     <li><a href="https://www.pilotosretiradoslan.cl/2010/08/15/encuentro-con-un-hombre-pajaro/">Pilotos Retirados LAN – Encuentro con un hombre pájaro: Basilio Impellizzeri cruza Andes en ala delta 1988</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-11 19:00:00 UTC  

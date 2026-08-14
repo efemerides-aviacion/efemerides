@@ -21,7 +21,7 @@ image: 1982-05-01-bautismo-fuego-faa-malvinas.webp
 <p>El 1 de mayo de 1982, la FAA enfrentó su bautismo de fuego en las Islas Malvinas: el bombardero Vulcan de la RAF atacó la Base Aérea Militar (BAM) Malvinas, causando las primeras bajas argentinas. En respuesta, la FAA lanzó 76 salidas operativas, protagonizando combates aéreos entre Mirage/Dagger y Sea Harriers, ataques navales que dañaron tres buques británicos, y acciones de artillería antiaérea que derribaron un Harrier. La jornada concluyó con 14 héroes de la FAA sacrificados, pero se evitó que el enemigo lograra la superioridad aérea ese día.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -39,7 +39,7 @@ image: 1982-05-01-bautismo-fuego-faa-malvinas.webp
 - **Pérdidas FAA en la jornada:** 5 aeronaves (2 Mirage IIIEA, 1 Dagger, 1 Canberra, 1 Pucará)
 - **Héroes FAA caídos el 1 de mayo:** 14
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -71,7 +71,7 @@ Los cascos azules del escudo de la FAA se convirtieron en un emblema del valor a
 - **Tarde noche 1 de mayo:** Canberra B-110 es derribado por Sea Harriers; tripulación (teniente De Ibañez y primer teniente González) no puede ser rescatada
 - **Cierre del día:** Saldo de 76 salidas, 52 de combate, 14 caídos de la FAA
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La Operación Black Buck: el primer golpe británico
 
@@ -85,7 +85,7 @@ Como consecuencia del ataque, los soldados clase 63 Guillermo Ubaldo García (I 
 
 Finalizado el ataque, los ingenieros del Escuadrón de Construcciones de la FAA trabajaron intensamente y lograron reparar la pista. Como medida de contra inteligencia, simularon varios cráteres mediante "manchas" realizadas con cemento fraguado y barro, engañando a la inteligencia británica que difundió noticias sobre la neutralización del aeródromo. En realidad, la pista se encontraba operativa en un cien por ciento.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El ataque a la BAM Cóndor
 
@@ -93,7 +93,7 @@ Mientras los artilleros antiaéreos argentinos se preparaban en la BAM Cóndor (
 
 Una bomba lanzada por un Sea Harrier impactó en el Pucará, provocando la muerte instantánea del teniente Daniel Jukic y de los cabos principales Juan Rodríguez y Mario Duarte, y los cabos primeros José Maldonado, Agustín Montaño, Andrés Brashich, Miguel Carrizo y José Luis Peralta.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Los combates aéreos del 1 de mayo
 
@@ -115,7 +115,7 @@ El I-015, con escaso combustible, intentó aterrizar en la BAM Malvinas, que se 
 
 Desde Río Grande despegó un M-5 Dagger con indicativo RUBIO (primer teniente José Leónidas Ardiles). Vectoreado por el radar de Malvinas, enfrentó a dos aviones enemigos. El piloto argentino fue el primero en ganar una posición ventajosa con su Dagger C-433 y disparó su misil Shafrir, que fue esquivado por el avión inglés. El otro Sea Harrier alcanzó al Dagger con un misil Sidewinder. El primer teniente Ardiles no logró eyectarse y falleció.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Los ataques navales de la FAA
 
@@ -123,31 +123,31 @@ Entre las 16:20 y las 17:50, llegaron sobre Malvinas 28 aviones agrupados en doc
 
 La escuadrilla TORNO, al mando del capitán Norberto Dimeglio (C-432), junto al teniente Gustavo Aguirre Fajet (C-412) y el primer teniente César Román (C-407), fue la primera en localizar, atacar y averiar buques de la Task Force. Como resultado de los ataques, resultaron dañados el destructor HMS Glamorgan y las fragatas HMS Arrow y HMS Alacrity.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La artillería antiaérea argentina
 
 Desde el portaaviones HMS Hermes partieron tres escuadrillas de Sea Harrier del Escuadrón Naval 800, que fueron interceptadas recibiendo un contraataque por parte de la artillería antiaérea argentina. La AAA logró derribar un Sea Harrier y dañar otro.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La evacuación aeromédica
 
 Luego del ataque a la BAM Cóndor, el helicóptero CH-47 matrícula H-91 evacuó hacia Puerto Argentino a trece heridos que requerían tratamiento urgente. Durante el traslado falleció el cabo primero Miguel Ángel Carrizo, y luego, en el Hospital Conjunto, el cabo primero Andrés Brashich.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La primera misión de reabastecimiento
 
 Despegó de Río Gallegos el KC-130 Hércules matrícula TC-70 con indicativo PERRO. Esta fue la primera misión de reabastecimiento del conflicto, en la que asistió a cuatro Douglas A-4B Skyhawk de la escuadrilla TOPO.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La interceptación de los Canberra
 
 Desde Trelew partió la escuadrilla RIFLE, compuesta por tres bombarderos BMK Canberra (MK-62) para atacar los buques que bombardeaban las posiciones en Puerto Argentino. Una patrulla de Sea Harriers los interceptó y derribó al B-110 con misiles Sidewinder. Su tripulación, el teniente Eduardo Jorge Raúl de Ibáñez y el primer teniente Mario Hipólito González, logró eyectarse, pero no pudo ser rescatada, falleciendo en aguas del Atlántico Sur.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -157,7 +157,7 @@ Desde Trelew partió la escuadrilla RIFLE, compuesta por tres bombarderos BMK Ca
 - **Legado heroico:** El bautismo de fuego forjó una identidad institucional en la FAA, sellada con la sangre de 55 héroes, de los cuales 14 cayeron el 1 de mayo.
 - **Innovación táctica:** La FAA demostró su capacidad de adaptación, operando aviones de ataque sin reabastecimiento en vuelo al límite de su radio de acción y bajo condiciones climáticas adversas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -173,7 +173,7 @@ El aeropuerto de San Julián, desde donde partieron muchas de aquellas misiones,
 <p><strong>Sobre las designaciones TORO y TORNO:</strong> La Sección TORO (2 Dagger) protagonizó el primer combate aéreo del día contra Sea Harriers, sin daños. La Escuadrilla TORNO (3 Dagger) fue la que atacó y dañó los buques británicos. Son unidades diferentes con indicativos distintos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -190,7 +190,7 @@ El aeropuerto de San Julián, desde donde partieron muchas de aquellas misiones,
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

@@ -21,7 +21,7 @@ image: 1982-04-02-operacion-aries-82.webp
   <p>Operación Aries 82 fue la componente aérea de la recuperación argentina de las Islas Malvinas, encargada de proyectar el puente aéreo sobre Puerto Argentino mediante aviones de transporte C‑130 Hércules y el posterior despliegue de IA‑58 Pucará a la zona de las islas, consolidando el control de la base aérea y el mantenimiento del operativo. El primer aterrizaje, a las 8:45 del 2 de abril de 1982, marcó el inicio del apoyo logístico argentino en el conflicto del Atlántico Sur.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 2 de abril de 1982  
@@ -33,7 +33,7 @@ image: 1982-04-02-operacion-aries-82.webp
 - **Misión principal:** Asegurar el aeródromo, transportar tropas y material, establecer el puente aéreo entre el continente y las islas  
 - **Resultado:** Éxito operativo; el aeródromo quedó bajo control argentino en pocas horas
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -68,7 +68,7 @@ La aviación militar argentina tenía una tradición de autonomía y profesional
 
 La Operación Aries 82 es recordada como la primera vez que la Fuerza Aérea Argentina ejecutó un despliegue de combate de gran escala con proyección insular. Marcó el inicio de la Guerra de Malvinas y demostró la capacidad de planificación y ejecución de la FAA en condiciones de secreto y adversidad geográfica. El C‑130H TC‑68, sobreviviente del conflicto, está actualmente preservado como pieza histórica en la I Brigada Aérea (El Palomar), simbolizando el valor de los aviadores argentinos que participaron en la recuperación de las islas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -89,7 +89,7 @@ La Operación Aries 82 es recordada como la primera vez que la Fuerza Aérea Arg
   <p>Algunas fuentes mencionan que el C‑130 aterrizó a las 08:30, pero la mayoría de los registros oficiales indican las 08:45 (hora local). La matrícula TC‑68 continúa siendo un símbolo de la FAA.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-31 18:45 UTC  

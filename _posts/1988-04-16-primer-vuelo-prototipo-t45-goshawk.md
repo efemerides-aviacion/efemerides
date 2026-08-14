@@ -21,7 +21,7 @@ image: 1988-04-16-primer-vuelo-prototipo-t45-goshawk.webp
 <p>El 16 de abril de 1988, el prototipo del McDonnell Douglas T-45 Goshawk (número de serie 162787) realizó su primer vuelo en Long Beach, California. Este avión, desarrollado en colaboración con British Aerospace (BAe) a partir del exitoso entrenador terrestre BAe Hawk, fue diseñado específicamente para cumplir con los exigentes requisitos de la Armada de los Estados Unidos: operar desde portaaviones y reemplazar a los veteranos T-2 Buckeye y TA-4 Skyhawk. Las modificaciones incluyeron un tren de aterrizaje reforzado y de mayor recorrido, gancho de detención, barra de lanzamiento para catapulta, slats de borde de ataque, y una estructura robustecida para soportar los esfuerzos de las operaciones embarcadas. El T-45 entró en servicio en 1991 y, con 221 unidades construidas hasta 2009, sigue siendo la columna vertebral del entrenamiento de pilotos navales estadounidenses.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -35,7 +35,7 @@ image: 1988-04-16-primer-vuelo-prototipo-t45-goshawk.webp
 - **Unidades construidas:** 221 (hasta 2009)
 - **Costo unitario:** 17,2 millones de dólares (1999)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -69,7 +69,7 @@ La colaboración anglo-estadounidense en el programa T-45 representó un modelo 
 - **1997:** Se introduce la variante T-45C con cabina de cristal digital (Cockpit 21).
 - **2009:** Se entrega la última unidad producida (número 221).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El primer vuelo: detalles técnicos y humanos
 
@@ -97,7 +97,7 @@ El despegue desde la pista de Long Beach fue exitoso, y el prototipo demostró u
 
 El segundo prototipo (162788) volaría en noviembre de 1988, y ambos serían utilizados para un extenso programa de pruebas que incluiría lanzamientos con catapulta y aterrizajes con detención en tierra (usando dispositivos especiales en la base de Patuxent River) antes de las pruebas en portaaviones.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -111,7 +111,7 @@ El segundo prototipo (162788) volaría en noviembre de 1988, y ambos serían uti
 
 - **Longevidad operativa:** El T-45 ha entrenado a miles de pilotos navales y de Marines. En agosto de 2010, la flota superó el millón de horas de vuelo. Se espera que continúe en servicio hasta al menos 2035.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -121,7 +121,7 @@ Con 221 unidades construidas entre 1988 y 2009, el Goshawk ha sido la puerta de 
 
 El primer vuelo del 16 de abril de 1988 marcó el comienzo de una historia que aún continúa escribiéndose, más de tres décadas después.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -140,7 +140,7 @@ El primer vuelo del 16 de abril de 1988 marcó el comienzo de una historia que a
 <p><strong>Nota aclaratoria:</strong> El primer prototipo (162787) voló el 16 de abril de 1988. El segundo prototipo (162788) voló en noviembre de 1988. La fecha de entrada en servicio varía según las fuentes: algunas indican 1991, otras enero de 1992. Se ha priorizado la información de la Wikipedia en italiano y de Jane's, que coinciden en 1991. La fuente oficial de NAVAIR indica "First flight, April 1988".</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

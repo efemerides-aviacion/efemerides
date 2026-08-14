@@ -20,7 +20,7 @@ image: 1981-01-14-halcones-acrobacia-chile.webp
 <p>El 14 de enero de 1981, la Fuerza Aérea de Chile creó la Escuadrilla de Alta Acrobacia Halcones, unidad que heredó la tradición acrobática de los Cóndores de Plata (1958–1967). Desde entonces, los Halcones se han convertido en embajadores del aire, representando a Chile en exhibiciones internacionales.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 14 de enero de 1981  
 - **Lugar:** Base Aérea El Bosque, Santiago de Chile  
@@ -28,7 +28,7 @@ image: 1981-01-14-halcones-acrobacia-chile.webp
 - **Aeronave/empresa involucrada:** Pitts S-2A y S-2S (primeros aviones acrobáticos adquiridos en EE.UU.)  
 - **Resultado inmediato:** Creación oficial de la Escuadrilla Halcones, consolidando la tradición acrobática chilena  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 La FACh buscaba recuperar la tradición acrobática iniciada con los Cóndores de Plata.
 
@@ -52,7 +52,7 @@ Los Halcones consolidaron la imagen de la FACh como institución moderna y cerca
 ### Legado
 Hoy son reconocidos como campeones mundiales de acrobacia aérea y embajadores del aire de Chile.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -65,7 +65,7 @@ Hoy son reconocidos como campeones mundiales de acrobacia aérea y embajadores d
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-12 15:55:00 UTC  
 - **Fuentes primarias consultadas:** FACh; Wikipedia; Hispaviación; Infodefensa  
