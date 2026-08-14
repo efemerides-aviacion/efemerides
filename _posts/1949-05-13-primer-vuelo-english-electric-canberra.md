@@ -20,7 +20,7 @@ image: 1949-05-13-primer-vuelo-english-electric-canberra.webp
 
 El 13 de mayo de 1949 despegó por primera vez el prototipo del English Electric Canberra, un bombardero a reacción británico que se convertiría en una de las aeronaves más importantes de la posguerra. Su diseño, impulsado por las necesidades del Ministerio del Aire, destacó por su gran techo de servicio, velocidad y limpieza aerodinámica. El vuelo inaugural fue realizado por Roland Beamont desde Warton, Lancashire. El Canberra entró en servicio con la RAF en mayo de 1951 y se mantuvo en servicio activo hasta 2006, con una producción total de 1.352 unidades. Venezuela fue un operador destacado de este bombardero, adquiriendo su primer lote en 1952 y manteniéndolo en servicio hasta 1990.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ El 13 de mayo de 1949 despegó por primera vez el prototipo del English Electric
 - **Unidades construidas:** 1.352 (incluyendo 900 en el Reino Unido, 49 en Australia y 403 en Estados Unidos)
 - **Entrada en servicio:** Mayo de 1951 (RAF)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del Canberra B.6
 
@@ -55,7 +55,7 @@ El 13 de mayo de 1949 despegó por primera vez el prototipo del English Electric
 - **Techo de servicio:** 15.000 m (49.213 ft)
 - **Carga de bombas:** Hasta 3.600 kg (8.000 lb) en bodega interna y puntos externos
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -69,7 +69,7 @@ La especificación B.3/45 requería un bombardero rápido y de gran altitud para
 
 El 7 de enero de 1946, la empresa recibió un contrato para la construcción de cuatro prototipos. El 9 de noviembre de 1949 voló el segundo prototipo, VN813, equipado con motores Rolls-Royce Nene como medida de precaución por si los Avon presentaban problemas de desarrollo. El prototipo VN799, pintado en "azul placa", fue presentado el 2 de mayo de 1949 y sometido a pruebas estáticas y de rodaje durante los días siguientes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El primer vuelo
 
@@ -79,7 +79,7 @@ El 13 de mayo de 1949, a las 11:46, Roland "Bee" Beamont despegó de Warton Aero
 
 El Canberra hizo su debut público en el Salón Aeronáutico de la SBAC en septiembre de 1949. VN799 continuó su carrera como banco de pruebas hasta el 18 de agosto de 1953, cuando sufrió un accidente en Sutton Heath, quedando destruido. En el momento del accidente, el prototipo había acumulado 1.540 horas y 40 minutos de vuelo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -94,7 +94,7 @@ El Canberra hizo su debut público en el Salón Aeronáutico de la SBAC en septi
 - **1957:** Récord de altitud de 70.310 pies (21.430 m).
 - **23 de junio de 2006:** Retiro del Canberra de la Royal Air Force.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El Canberra en Venezuela: una historia de orgullo nacional
 
@@ -134,7 +134,7 @@ El 16 de septiembre de 1990, el Teniente Coronel (Av) Rafael Quijada Hernández 
 
 El piloto con más horas de vuelo en el sistema Canberra en Venezuela fue el **Coronel (Av.) Omar Quintero** (apodado "Perico"), quien acumuló poco más de 2.000 horas, siendo el único en superar esa barrera.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Los otros grandes operadores del Canberra
 
@@ -145,7 +145,7 @@ Además de Venezuela, el Canberra fue operado por destacadas fuerzas aéreas en 
 - **Estados Unidos:** Fabricó 403 unidades bajo licencia como el Martin B-57 Canberra. Sirvió extensamente durante la Guerra de Vietnam en misiones de interdicción nocturna.
 - **Argentina:** Empleó sus Canberra B.62 durante la Guerra de las Malvinas (1982), realizando 35 vuelos de combate desde la base de Trelew, perdiendo dos aeronaves.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -160,7 +160,7 @@ Para Venezuela, el Canberra fue mucho más que un avión. Fue un símbolo de pod
 <p><strong>Sobre el nombre del prototipo:</strong> El primer prototipo se denominó English Electric A.1. La designación Canberra fue adoptada oficialmente en enero de 1950, meses después del primer vuelo, en honor a la ciudad capital de Australia, el primer cliente de exportación.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Nota del investigador: Sobre la precisión histórica del Canberra en Venezuela
 
@@ -180,7 +180,7 @@ Agradecemos al General Paredes Niño por su aporte y al Coronel Quintero por su 
 
 > **Nota metodológica:** La historiografía de la aviación militar venezolana de acceso publico es escasa. Ante esta realidad, el investigador debe recurrir a fuentes testimoniales calificadas (como veteranos y sus familiares) y a trabajos de investigación publicados por miembros de la propia institución (como el del Coronel Quintero). Este artículo presenta dichas fuentes de manera transparente, distinguiendo entre hechos verificados por múltiples testimonios y aquellos que permanecen abiertos a futura corroboración documental.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -196,7 +196,7 @@ Agradecemos al General Paredes Niño por su aporte y al Coronel Quintero por su 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

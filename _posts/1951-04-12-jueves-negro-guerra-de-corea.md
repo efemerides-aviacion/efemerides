@@ -19,7 +19,7 @@ image: 1951-04-12-jueves-negro-guerra-de-corea.webp
 <div class="highlight-box">
 <p>El 12 de abril de 1951, tres escuadrillas de cazas MiG-15 soviéticos (aproximadamente 30 aviones) atacaron una formación de bombarderos B-29 Superfortress de la Fuerza Aérea de Estados Unidos sobre el río Yalu, en el área noroccidental de Corea del Norte conocida como "Callejón de los MiG" (MiG Alley). Los bombarderos, escoltados por unos 100 cazas F-80 Shooting Star y F-84 Thunderjet, sufrieron la pérdida de tres B-29 y siete resultaron dañados, mientras que los MiG-15 se retiraron sin bajas. La acción, conocida como "Jueves Negro", obligó a la USAF a suspender los bombardeos estratégicos diurnos durante meses y a reforzar el uso de cazas F-86 Sabre y misiones nocturnas.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 12 de abril de 1951
@@ -32,7 +32,7 @@ image: 1951-04-12-jueves-negro-guerra-de-corea.webp
 - **Consecuencia inmediata:** Suspensión de los bombardeos estratégicos diurnos de B-29 sobre Corea del Norte durante varios meses
 - **Respuesta táctica:** Refuerzo del despliegue de cazas F-86 Sabre y aumento de misiones de bombardeo nocturno
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -60,7 +60,7 @@ El combate también confirmó que la Unión Soviética, aunque oficialmente no p
 
 El "Jueves Negro" es recordado como una de las derrotas más significativas de la Fuerza Aérea de Estados Unidos desde la Segunda Guerra Mundial. El Callejón de los MiG se convirtió en el escenario de los primeros grandes duelos entre cazas a reacción de la historia, principalmente entre el F-86 Sabre y el MiG-15. La batalla marcó el fin de la era del bombardero pesado diurno sin escolta adecuada y el comienzo de la supremacía del caza a reacción como dominador del cielo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -74,14 +74,14 @@ El "Jueves Negro" es recordado como una de las derrotas más significativas de l
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box"> 
     <p><strong>Nota aclaratoria:</strong> La participación soviética en la Guerra de Corea fue oficialmente negada por la URSS durante décadas. Los pilotos soviéticos vestían uniformes norcoreanos o chinos, y sus aviones llevaban insignias norcoreanas. La existencia de estos pilotos y su papel en el "Jueves Negro" solo fue confirmada tras la desclasificación de archivos soviéticos en la década de 1990. Las cifras de pérdidas varían según las fuentes: las fuentes soviéticas reclaman cifras mucho más altas de B-29 derribados, mientras que los registros oficiales de la USAF reconocen 3 pérdidas y 7 dañados. Este artículo utiliza las cifras oficiales estadounidenses, que son las más conservadoras y verificables en archivos occidentales.</p>
 </div>
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-09 12:00:00 UTC

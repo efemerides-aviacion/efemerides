@@ -19,14 +19,14 @@ image: "1952-11-29-ratificacion-soberania-venezuela-los-monjes.jpg"
 <p>El 29 de noviembre de 1952, mediante una nota diplomática emitida por la cancillería colombiana, se reconoció formalmente la soberanía de Venezuela sobre el Archipiélago Los Monjes. Este hito fue respaldado por patrullajes constantes de la Fuerza Aérea Venezolana para asegurar la integridad territorial en el Caribe.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 29 de noviembre de 1952
 - **Lugar:** Archipiélago Los Monjes, Golfo de Venezuela
 - **Protagonistas:** Gobierno de Venezuela (Junta Militar) y Gobierno de Colombia (Roberto Urdaneta Arbeláez)
 - **Aeronave/empresa involucrada:** Unidades de reconocimiento de la Fuerza Aérea Venezolana (FAV)
 - **Resultado inmediato:** Reconocimiento internacional de la soberanía venezolana y establecimiento de vigilancia permanente.
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El reconocimiento ocurrió bajo el mandato de la Junta de Gobierno en Venezuela. La disputa surgió cuando pescadores colombianos fueron avistados en la zona, lo que motivó una enérgica respuesta diplomática y militar de Caracas para clarificar los límites marítimos.
 ### Entorno social
@@ -47,7 +47,7 @@ Este reconocimiento evitó un conflicto armado y definió las líneas de base pa
 
 ### Legado
 Hoy en día, el Archipiélago Los Monjes cuenta con presencia permanente de la Armada y sobrevuelos de la Aviación Militar Bolivariana, siendo un bastión de la frontera marítima venezolana.
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -56,7 +56,7 @@ Hoy en día, el Archipiélago Los Monjes cuenta con presencia permanente de la A
     <li><a href="https://diariocontexto.com.ve/el-dia-que-colombia-reconocio-soberania-sobre-los-monjes/">Diario Contexto – Crónica histórica del 29 de noviembre de 1952</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-08 13:35:00 UTC  
 - **Fuentes primarias consultadas:** Archivos históricos de la Cancillería Venezolana y registros de la FAV.  

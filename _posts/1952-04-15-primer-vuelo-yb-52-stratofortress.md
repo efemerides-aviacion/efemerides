@@ -21,7 +21,7 @@ image: 1952-04-15-primer-vuelo-yb-52-stratofortress.webp
 <p>El 15 de abril de 1952, el prototipo YB-52 Stratofortress despegó del Boeing Field en Seattle, Washington, pilotado por el célebre piloto de pruebas Alvin M. "Tex" Johnston. Este vuelo histórico, con una duración aproximada de dos horas, marcó el nacimiento de un bombardero estratégico que redefinió el poder aéreo estadounidense durante la Guerra Fría. El YB-52 presentaba innovaciones radicales para su época: ocho motores turborreactores en cuatro góndolas subalares, alas con un barrido de 35 grados inspiradas en el exitoso B-47 Stratojet, y un tren de aterrizaje de bicicleta con ruedas de apoyo en las puntas de las alas. Aunque el prototipo XB-52 había sido el primero en diseñarse, el YB-52 fue el que realmente voló primero debido a daños en el XB-52 durante pruebas en tierra. Este evento inició una historia operativa que se extiende por más de siete décadas, consolidando al B-52 como el bombardero estratégico con el servicio continuo más largo en la historia de la aviación.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ image: 1952-04-15-primer-vuelo-yb-52-stratofortress.webp
 - **Velocidad máxima alcanzada:** Información no confirmada
 - **Configuración del prototipo:** Ocho turborreactores Pratt & Whitney J57-P-1W, alas en flecha de 35 grados, envergadura de 56,4 metros (185 pies)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -67,7 +67,7 @@ La figura del piloto de pruebas se convirtió en un arquetipo del héroe moderno
 - **1954:** Entra en producción el primer modelo operativo, el B-52A.
 - **1955:** El B-52B entra en servicio con el Comando Aéreo Estratégico (SAC).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El primer vuelo: detalles técnicos y humanos
 
@@ -95,7 +95,7 @@ El vuelo duró aproximadamente dos horas. Johnston evaluó la respuesta de los c
 
 El aterrizaje fue igualmente exitoso, aunque la gran masa del avión y la ausencia de frenos de disco eficientes (se usaban paracaídas de frenado) hicieron que la carrera de aterrizaje fuera larga.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -107,7 +107,7 @@ El aterrizaje fue igualmente exitoso, aunque la gran masa del avión y la ausenc
 
 - **Longevidad sin precedentes:** La Fuerza Aérea de EE.UU. planea mantener el B-52 en servicio hasta la década de 2050, lo que significará más de 90 años de servicio continuo (desde 1955 hasta al menos 2050). Ningún otro avión militar de combate ha alcanzado esta longevidad.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -117,7 +117,7 @@ Actualmente, la Fuerza Aérea de EE.UU. opera 76 B-52H (la versión más moderna
 
 El primer vuelo del YB-52 el 15 de abril de 1952 no fue solo el nacimiento de un avión. Fue el comienzo de una leyenda que sigue escribiéndose más de 70 años después.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -137,7 +137,7 @@ El primer vuelo del YB-52 el 15 de abril de 1952 no fue solo el nacimiento de un
 <p><strong>Nota aclaratoria:</strong> Aunque el XB-52 fue el primer prototipo diseñado, el YB-52 (matrícula 49-231) fue el primero en volar debido a daños en el sistema hidráulico del XB-52 durante pruebas en tierra en noviembre de 1951. El XB-52 realizó su primer vuelo el 2 de octubre de 1952. Por lo tanto, la fecha del 15 de abril de 1952 corresponde al primer vuelo del programa B-52, pero no del primer prototipo construido.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

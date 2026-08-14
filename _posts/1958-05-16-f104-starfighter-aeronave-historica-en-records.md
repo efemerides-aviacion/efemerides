@@ -20,7 +20,7 @@ image: 1958-05-16-f104-starfighter-aeronave-historica-en-records.webp
 
 El 16 de mayo de 1958, el capitán Walter W. Irwin de la Fuerza Aérea de los Estados Unidos estableció un récord mundial de velocidad de 2.259,538 km/h (1.404,012 mph) a bordo de un Lockheed F-104A Starfighter en la Base de la Fuerza Aérea Edwards, California. Ese mismo día, Irwin también estableció dos récords de tiempo de ascenso: 3.000 metros en 41,8 segundos y 25.000 metros en 4 minutos y 26,03 segundos, alcanzando una altitud máxima de 27.813 metros (91.246 pies). El F-104 Starfighter se convirtió así en el primer avión en ostentar simultáneamente los récords mundiales oficiales de velocidad, altitud y tiempo de ascenso, un logro que le valió el prestigioso Trofeo Collier de 1958.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ El 16 de mayo de 1958, el capitán Walter W. Irwin de la Fuerza Aérea de los Es
 - **Récord de altitud posterior (14 de diciembre de 1959):** 31.513 m (103.389 pies)
 - **Premio:** Trofeo Collier de 1958 (entregado el 16 de diciembre de 1958)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del Lockheed F-104A Starfighter
 
@@ -59,7 +59,7 @@ Diseñado por el legendario Clarence L. "Kelly" Johnson y su equipo en la **Skun
 - **Alcance máximo con tanques externos:** 2.620 km (1.630 millas)
 - **Armamento:** 1 cañón rotativo M61 Vulcan de 20 mm (725 proyectiles) y misiles AIM-9 Sidewinder en las puntas de las alas
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -73,7 +73,7 @@ El equipo de Johnson en la Skunk Works priorizó la velocidad y la tasa de ascen
 
 A principios de 1958, el F-104A ya había demostrado su extraordinario potencial. El 7 de mayo de 1958, apenas nueve días antes del récord de Irwin, un F-104A alcanzó una altitud récord de 27.813 metros (91.243 pies). Este logro, junto con los récords del 16 de mayo, estableció al Starfighter como el avión más avanzado de su tiempo, demostrando una superioridad técnica aplastante en velocidad, altitud y capacidad de ascenso.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Los récords del 16 de mayo de 1958
 
@@ -91,7 +91,7 @@ Irwin realizó dos pasadas sobre un circuito medido de 15 a 25 kilómetros a una
 
 El F-104 se convirtió así en el **primer avión del mundo en ostentar simultáneamente los récords absolutos de velocidad, altitud y tasa de ascenso**. Por estos logros, el equipo de Lockheed y los pilotos involucrados recibieron el prestigioso Trofeo Collier el 16 de diciembre de 1958, como "el logro más grande en aeronáutica" de ese año.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Otros récords del F-104 Starfighter
 
@@ -99,7 +99,7 @@ El F-104 se convirtió así en el **primer avión del mundo en ostentar simultá
 - **Diciembre de 1958:** El F-104 establece una serie de récords de tiempo de ascenso que complementaron sus récords de velocidad y altitud, consolidando su dominio en las tres categorías.
 - **14 de diciembre de 1959:** El capitán Joe B. Jordan, pilotando un F-104C, establece un nuevo récord de altitud de 31.513 metros (103.389 pies), siendo el primer avión en despegar por sus propios medios para superar los 30.000 metros y los 100.000 pies.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El capitán Walter W. Irwin: el piloto récord
 
@@ -109,7 +109,7 @@ El 4 de diciembre de 1954, se casó con Christine Ann Stevens, una teniente del 
 
 Irwin se retiró de la Fuerza Aérea con el rango de coronel. Trágicamente, el 17 de abril de 1978, falleció en el accidente de una avioneta Piper PA-28 que él pilotaba en California.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -119,7 +119,7 @@ Irwin se retiró de la Fuerza Aérea con el rango de coronel. Trágicamente, el 
 - **Éxito de exportación y controversia:** Si bien fue un éxito en términos de récords, el F-104 tuvo una carrera operativa controvertida debido a su alta tasa de accidentes, especialmente en la Fuerza Aérea Alemana. Aun así, se convirtió en el avión de combate estándar de muchos países de la OTAN, produciéndose bajo licencia en Canadá, Alemania, Italia, Japón y los Países Bajos.
 - **Legado en el diseño:** El F-104 contribuyó al desarrollo de tecnologías clave para futuros aviones, como el cañón rotativo Vulcan, el motor J79 y los sistemas de control de vuelo de alto rendimiento. Su enfoque en la relación empuje-peso influyó en el posterior desarrollo del F-15 Eagle y el F-16 Fighting Falcon.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -138,7 +138,7 @@ Hoy, la aeronave 55-2969 "Queenie" no sobrevive. Fue modificada como un avión b
 <p><strong>Sobre la traducción de "Anhedral":</strong> El término "anhedral" se refiere al ángulo de inclinación negativa de las alas con respecto al plano horizontal. En español, a veces se utiliza "anédrico", aunque el término en inglés es ampliamente aceptado en textos técnicos. En este post se ha optado por explicar su significado: "ángulo de inclinación negativa de las alas".</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -155,7 +155,7 @@ Hoy, la aeronave 55-2969 "Queenie" no sobrevive. Fue modificada como un avión b
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

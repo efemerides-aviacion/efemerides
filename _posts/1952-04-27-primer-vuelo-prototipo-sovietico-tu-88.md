@@ -21,7 +21,7 @@ image: 1952-04-27-primer-vuelo-prototipo-sovietico-tu-88.webp
 <p>El 27 de abril de 1952 realizó su primer vuelo el prototipo soviético Tu-88, base del futuro Tupolev Tu-16, con N. S. Rybko al mando. El programa nació a partir de trabajos iniciados por la oficina Tupolev en 1950 y fue impulsado por la necesidad soviética de un bombardero a reacción de largo alcance. Tras sus ensayos iniciales, el modelo fue aprobado para producción en diciembre de 1952 y entró en servicio operativo en 1954 como Tu-16, recibiendo la designación OTAN Badger-A.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -37,7 +37,7 @@ image: 1952-04-27-primer-vuelo-prototipo-sovietico-tu-88.webp
 - **Entrada en servicio:** 1954, con la designación Tu-16 y nombre OTAN Badger-A
 - **Unidades construidas:** 1.509 (todas las variantes)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -68,7 +68,7 @@ La oficina de diseño de Andrei Tupolev era una de las más prestigiosas de la U
 - **1954:** Entrada en servicio operativo con la designación Tu-16.
 - **1958:** Comienza la producción bajo licencia en China (Xi'an H-6).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El prototipo Tu-88: el nacimiento del Badger
 
@@ -96,7 +96,7 @@ El programa de pruebas estatales en el Instituto de Investigación de la Fuerza 
 - **Techo de servicio:** 12.800 metros
 - **Peso máximo al despegue:** 72 toneladas
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El piloto: Nikolái S. Rybko
 
@@ -104,7 +104,7 @@ Nikolái S. Rybko fue el piloto de pruebas jefe de la oficina de diseño Tupolev
 
 Su figura, aunque menos conocida que la de otros pilotos de pruebas soviéticos (como Ivan Dzyuba o Yuri Garnaev), fue fundamental para el éxito del programa Tu-16. Su informe tras el primer vuelo destacó la estabilidad del avión y la necesidad de reducir peso.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -116,7 +116,7 @@ Su figura, aunque menos conocida que la de otros pilotos de pruebas soviéticos 
 
 - **Base para el Tu-104:** El fuselaje del Tu-16 sirvió como base para el Tupolev Tu-104, el segundo avión a reacción comercial del mundo (después del De Havilland Comet) y el primero en alcanzar producción en serie significativa.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -126,14 +126,14 @@ Aunque la mayoría de los Tu-16 fueron retirados del servicio ruso en la década
 
 El legado del Tu-88/Tu-16 es, por tanto, uno de los más longevos de la historia de la aviación. Un diseño nacido en los inicios de la Guerra Fría sigue siendo relevante más de 70 años después, un testimonio de la calidad de la ingeniería de Tupolev.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las designaciones:</strong> El prototipo se denominó Tu-88 ("Aircraft N" o "Type 88") durante el desarrollo. Tras ser aprobado para producción en diciembre de 1952, recibió la designación oficial Tu-16. La designación OTAN es Badger-A para la versión básica de bombardeo.</p>
 <p><strong>Sobre la producción en China:</strong> China comenzó la producción bajo licencia del Tu-16 en 1959, designándolo Xi'an H-6. El primer H-6 fabricado localmente voló en diciembre de 1968. Variantes modernizadas como el H-6K continúan en producción activa, y se estima que la PLAAF opera más de 120 ejemplares en la actualidad.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -147,7 +147,7 @@ El legado del Tu-88/Tu-16 es, por tanto, uno de los más longevos de la historia
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

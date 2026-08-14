@@ -20,7 +20,7 @@ image: 1949-03-20-primer-vuelo-roberto-mora-globster-meteor.jpg
 <div class="highlight-box">
 <p>El 20 de marzo de 1949, el capitán Roberto José Mora Contreras se convirtió en el primer piloto venezolano en volar solo un Gloster Meteor monoplaza a reacción en Inglaterra, durante evaluaciones previas a la adquisición de aviones Vampire para la Fuerza Aérea Venezolana (FAV). Nacido el 3 de agosto de 1916 en San Cristóbal, Táchira, egresó como piloto militar en 1940 y falleció el 7 de julio de 1949 en un accidente con un B-25J Mitchell cerca de Caracas. La FAV honró su legado nombrando a la promoción de 1970 en su nombre.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 20 de marzo de 1949
@@ -29,7 +29,7 @@ image: 1949-03-20-primer-vuelo-roberto-mora-globster-meteor.jpg
 - **Aeronave/empresa involucrada:** Gloster Meteor F.Mk.8 (monoplaza) / Gloster Aircraft Company
 - **Resultado inmediato:** Primer vuelo en solitario de un piloto venezolano en un reactor, contribuyendo a la evaluación que llevaría a la compra de 24 De Havilland Vampire FB.52 en julio de 1949.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -70,7 +70,7 @@ La aviación era considerada una actividad de élite, símbolo de progreso y mod
 
 El capitán Roberto José Mora Contreras es recordado como el primer piloto venezolano en volar un reactor y como uno de los pioneros de la modernización de la Fuerza Aérea Venezolana. Su nombre permanece vivo en la institución como epónimo de la promoción de oficiales de la FAV egresada en julio de 1970, y en los anales de la historia aeronáutica nacional. Su temprana muerte, apenas cuatro meses después de su hazaña, no opacó el brillo de su contribución, y su ejemplo sigue siendo invocado como símbolo de entrega y amor por la aviación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -81,7 +81,7 @@ El capitán Roberto José Mora Contreras es recordado como el primer piloto vene
     <li><a href="https://favclubven.wordpress.com/tag/fuerza-aerea-venezolana/">FAV-Club – Fuerza Aérea Venezolana (etiqueta con referencias a Mora)</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-18 15:20:00 UTC  

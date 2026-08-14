@@ -21,7 +21,7 @@ image: 1951-04-20-ana-luisa-branger-record-de-altitud-en-avioneta.webp
 <p>El 20 de abril de 1951, la aviadora venezolana Ana Luisa Branger batió su propio récord mundial de altitud en avioneta ligera al alcanzar 8.276 metros (27.152 pies) en un Piper Cub Special desde el aeropuerto de Hybla Valley, cerca de Alexandria, Virginia. La hazaña fue supervisada y certificada por la National Aeronautic Association (NAA) y la Fédération Aéronautique Internationale (FAI), y superó la marca anterior de 25.000 pies (7.620 m) establecida por el ingeniero aeronáutico francés René Leduc. Este logro, sumado a su primer récord mundial alcanzado el 31 de marzo de 1950 (7.469 m), consolidó a Branger como una de las figuras más destacadas de la aviación civil femenina a nivel global.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -37,7 +37,7 @@ image: 1951-04-20-ana-luisa-branger-record-de-altitud-en-avioneta.webp
 - **Duración del vuelo:** Aproximadamente 2,5 horas
 - **Situación actual del récord:** Ratificado por la FAI, luego superado
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -64,7 +64,7 @@ Los récords de aviación en la década de 1950 eran cubiertos ampliamente por l
 - **20 de abril de 1951:** Desde Hybla Valley Airport, establece un nuevo récord mundial de altitud de 8.276 metros (27.152 pies), superando la marca de 25.000 pies del francés René Leduc.
 - **Décadas posteriores:** Branger continúa vinculada a la aviación y a la diplomacia. Su legado perdura como pionera de la aviación civil venezolana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El récord del 20 de abril de 1951: detalles técnicos y humanos
 
@@ -94,7 +94,7 @@ La Fédération Aéronautique Internationale (FAI), organismo mundial que ratifi
 
 Es importante señalar que las fuentes periodísticas de la época y las enciclopedias divulgativas reportan la hazaña con la cifra de 28.820 pies (equivalente a 8.790 m). Sin embargo, el registro oficial de la FAI establece la altitud en 8.276 m (27.152 pies). Esta diferencia puede deberse a métodos de medición distintos (altitud presión frente a altitud geopotencial) o a aproximaciones en la conversión de unidades. En esta efeméride se ha priorizado la cifra oficial de la FAI, por ser la entidad certificadora del récord.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Primer récord mundial (31 de marzo de 1950)
 
@@ -102,7 +102,7 @@ El 31 de marzo de 1950, Ana Luisa Branger ya había establecido un récord mundi
 
 Este primer récord sirvió como antesala y motivación para el intento de 1951.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -114,7 +114,7 @@ Este primer récord sirvió como antesala y motivación para el intento de 1951.
 
 - **Carrera diplomática:** Branger se desempeñó como agregada cultural en la Embajada de Venezuela en Washington D.C., posición que le permitió combinar su pasión por la aviación con su servicio al país.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -124,14 +124,14 @@ A diferencia de Mary Calcaño, quien obtuvo su licencia en Estados Unidos en 193
 
 El ejemplo de Ana Luisa Branger demuestra que la pasión por volar no entiende de género ni de fronteras. Su legado continúa inspirando a nuevas generaciones de aviadoras venezolanas que, como ella, sueñan con surcar los cielos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la altitud del récord:</strong> Existe una discrepancia entre las fuentes consultadas. Las fuentes periodísticas y divulgativas (Kiddle, Wikipedia, El Nacional) reportan el récord de 1951 como 28.820 pies (8.790 m). Sin embargo, el registro oficial de la Fédération Aéronautique Internationale (FAI), que es la entidad mundial que ratifica los récords de aviación, certifica la altitud en <strong>8.276 metros (27.152 pies)</strong> para la categoría C-1a. En esta efeméride se ha priorizado la cifra oficial de la FAI por ser la fuente primaria certificadora. La diferencia de 514 metros (aproximadamente 1.686 pies) puede deberse a métodos de medición distintos (altitud presión frente a altitud geopotencial) o a aproximaciones en la conversión de unidades.</p>
 <p><strong>Sobre la fecha de nacimiento:</strong> Las fuentes difieren en el año de nacimiento de Ana Luisa Branger. Algunas indican que nació "a principios de la década de 1920", mientras que Wikipedia en inglés registra el 17 de junio de 1918. No se ha encontrado una fuente primaria que confirme la fecha exacta, por lo que se omite del post o se presenta con la advertencia correspondiente.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -147,7 +147,7 @@ El ejemplo de Ana Luisa Branger demuestra que la pasión por volar no entiende d
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

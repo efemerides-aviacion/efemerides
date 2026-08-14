@@ -21,7 +21,7 @@ image: 1958-04-30-primer-vuelo-blackburn-bucaneer.webp
 <p>El 30 de abril de 1958, el Blackburn Buccaneer realizó su primer vuelo desde RAE Bedford, pilotado por Derek Whitehead. Este avanzado avión de ataque naval británico fue diseñado para misiones de penetración a muy baja altitud contra buques enemigos durante la Guerra Fría. Su configuración única, con bodega de armas interna y frenos aerodinámicos en la cola, marcó un hito en la ingeniería aeronáutica de la Royal Navy.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -39,7 +39,7 @@ image: 1958-04-30-primer-vuelo-blackburn-bucaneer.webp
 - **Entrada en servicio:** 17 de julio de 1962 (Royal Navy)
 - **Retiro del servicio:** 31 de marzo de 1994
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -70,7 +70,7 @@ Los pilotos de la Royal Navy que volaron el Buccaneer desarrollaron un fuerte v�
 - **1991:** Los Buccaneers de la RAF participan en la Guerra del Golfo
 - **31 de marzo de 1994:** Retiro final del Buccaneer del servicio activo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El primer vuelo del NA.39
 
@@ -80,7 +80,7 @@ El piloto de pruebas Derek Whitehead, un teniente comandante de la Royal Navy co
 
 El vuelo, que duró aproximadamente 30 minutos, se consideró un éxito. El avión demostró un buen control y estabilidad, allanando el camino para un extenso programa de pruebas. El prototipo XK486, con su característico morro romo que le valió el apodo "Banana Jet", era el primer paso hacia uno de los aviones de ataque naval más exitosos de la Guerra Fría.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Diseño e innovaciones técnicas
 
@@ -98,7 +98,7 @@ Para operar desde los portaaviones de la Royal Navy, que tenían cubiertas de vu
 
 A pesar de sus muchas virtudes, el Buccaneer S.1 original estaba subalimentado por sus motores de Havilland Gyron Junior. Esta falta de potencia provocó varios accidentes durante los primeros años de servicio. La Royal Navy respondió rápidamente y ordenó la versión S.2, equipada con los mucho más potentes motores Rolls-Royce Spey.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El Buccaneer S.2: la evolución definitiva
 
@@ -106,7 +106,7 @@ El Buccaneer S.2, con sus motores Rolls-Royce Spey, supuso un salto cualitativo 
 
 El S.2 se convirtió en la variante definitiva del Buccaneer, sirviendo tanto en la Royal Navy como, posteriormente, en la Royal Air Force. También fue la base del Buccaneer S.50, una versión de exportación para Sudáfrica. Los S.50 estaban equipados con motores cohete Bristol Siddeley BS.605 para proporcionar un empuje adicional en los aeródromos africanos de "alta temperatura y gran altitud" (hot and high), aunque en la práctica estos cohetes rara vez se utilizaron y finalmente se retiraron.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Servicio operativo
 
@@ -116,7 +116,7 @@ Cuando la Royal Navy retiró sus últimos grandes portaaviones a finales de la d
 
 El Buccaneer demostró su valía en combate durante la Guerra del Golfo de 1991, realizando misiones de ataque de precisión, a menudo designando objetivos para los Tornado. También sirvió en la Fuerza Aérea Sudafricana, donde participó en la Guerra Fronteriza de Sudáfrica en Angola.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -125,7 +125,7 @@ El Buccaneer demostró su valía en combate durante la Guerra del Golfo de 1991,
 - **Servicio en la RAF:** El Buccaneer llenó un vacío crítico en la capacidad de ataque de la RAF después de la cancelación del TSR-2 y el F-111K.
 - **Combatiente probado:** El Buccaneer demostró su valía en combate real durante la Guerra del Golfo de 1991.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -143,7 +143,7 @@ Hoy, varios Buccaneers se conservan en museos del Reino Unido y Sudáfrica, reco
 <p><strong>Sobre el número de unidades construidas:</strong> Las fuentes coinciden en 211 unidades (incluyendo prototipos).</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -158,7 +158,7 @@ Hoy, varios Buccaneers se conservan en museos del Reino Unido y Sudáfrica, reco
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

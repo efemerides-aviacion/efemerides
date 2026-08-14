@@ -21,7 +21,7 @@ image: 1956-04-23-primer-vuelo-douglas-c-133-cargomaster.webp
 <p>El 23 de abril de 1956 realizó su primer vuelo el Douglas C-133A Cargomaster, un avión de transporte estratégico de carga desarrollado por Douglas Aircraft Company para la Fuerza Aérea de EE. UU. (USAF). Sin construir prototipos, pasó directamente a producción para cumplir con el requisito SS402L de soporte logístico. Pilotado por Jack Armstrong y Frank Boyer, despegó de Long Beach, California, y voló a Edwards AFB. Con cuatro motores turbohélice Pratt & Whitney T34-P-9W, el Cargomaster se convirtió en el principal transportador de misiles balísticos intercontinentales de la Guerra Fría.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -35,7 +35,7 @@ image: 1956-04-23-primer-vuelo-douglas-c-133-cargomaster.webp
 - **Producción:** 50 unidades (35 C-133A y 15 C-133B) entre 1956 y 1961
 - **Retiro del servicio:** 1971
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -64,7 +64,7 @@ La aviación comercial y militar estadounidense estaba en su "Edad de Oro". Los 
 - **1961:** Finaliza la producción; se han construido 50 unidades (35 C-133A y 15 C-133B).
 - **1971:** La flota es retirada del servicio activo tras la introducción del C-5 Galaxy.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El primer vuelo: un comienzo sin prototipos
 
@@ -87,7 +87,7 @@ El C-133 era un coloso para su época:
 - **Peso máximo al despegue:** 130.000 kg (286.000 libras)
 - **Capacidad de carga:** 50.000 kg (110.000 libras) o 200 pasajeros
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Servicio operativo
 
@@ -112,7 +112,7 @@ El C-133 estableció varios récords, incluyendo:
 - Vuelo sin escalas desde Hickam AFB, Hawái, a Dover AFB, Delaware: aproximadamente 16 horas (4.850 millas)
 - Récord mundial oficial de la FAI: el 16 de diciembre de 1958, el C-133A 56-2008 elevó 53.480 kg (117.900 libras) a 3.048 metros (10.000 pies)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -124,7 +124,7 @@ El C-133 estableció varios récords, incluyendo:
 
 - **Precursor de futuros transportes:** La experiencia adquirida con el C-133 influyó en el diseño de transportes posteriores, incluyendo el C-5 Galaxy y el C-17 Globemaster III.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -140,14 +140,14 @@ Hoy sobreviven seis ejemplares en museos de EE. UU.:
 
 El C-133 Cargomaster es recordado como el único transporte estratégico turbohélice de producción de la USAF, un caballo de batalla silencioso que, sin la fama de otros aviones, desempeñó un papel fundamental en la Guerra Fría y la conquista del espacio.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el número de unidades construidas:</strong> Las fuentes consultadas presentan ligeras variaciones en el número exacto de C-133A y C-133B construidos. El Museo Nacional de la USAF indica 35 C-133A y 15 C-133B (total 50). Otras fuentes mencionan 32 C-133A y 18 C-133B. La cifra total de 50 unidades es consistente en todas las fuentes.</p>
 <p><strong>Sobre la tripulación:</strong> Las fuentes varían en el número de tripulantes: algunas mencionan 4 (dos pilotos, navegante, ingeniero de vuelo) y otras 6 (incluyendo cargomestre y segundo ingeniero). La tripulación típica en operación era de 4 a 6 personas.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -163,7 +163,7 @@ El C-133 Cargomaster es recordado como el único transporte estratégico turboh�
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

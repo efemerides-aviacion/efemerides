@@ -20,7 +20,7 @@ image: 1959-01-25-primer-vuelo-transcontinental-jet-b707-aa.jpg
 <p>El 25 de enero de 1959 American Airlines inauguró el primer servicio transcontinental regular con jet al operar un Boeing 707-123 Astrojet, el Flagship California (N7503A), de Los Ángeles a Nueva York Idlewild en poco más de 4 horas. Este hito marcó el inicio de la "Era Jet" doméstica en Estados Unidos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos Verificados del Evento
 - **Fecha:** 25 de enero de 1959  
 - **Ruta:** Los Ángeles (LAX) – Nueva York Idlewild (JFK)  
@@ -31,7 +31,7 @@ image: 1959-01-25-primer-vuelo-transcontinental-jet-b707-aa.jpg
 - **Vuelo de regreso:** Idlewild–LAX, 6 horas 33 minutos  
 - **Resultado inmediato:** Inicio del servicio regular transcontinental en jet en EE.UU.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El Boeing 707 revolucionó el transporte aéreo en Estados Unidos, reduciendo a la mitad los tiempos de vuelo respecto a los aviones de pistón como el DC‑7.
 
@@ -55,7 +55,7 @@ El 707 consolidó la transición hacia la aviación a reacción en EE.UU., trans
 ### Legado
 American Airlines operó 42 Boeing 707 hasta 1984; el N7503A voló hasta 1983, símbolo de la “Era Jet”.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -69,7 +69,7 @@ American Airlines operó 42 Boeing 707 hasta 1984; el N7503A voló hasta 1983, s
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-22 11:15:00 UTC  
 - **Fuentes primarias consultadas:** This Day in Aviation; UPI Archives; American Airlines News; Wikipedia; Transportation History  
