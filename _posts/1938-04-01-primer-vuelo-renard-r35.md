@@ -21,7 +21,7 @@ image: 1938-04-01-primer-vuelo-renard-r35.webp
   <p>El 1 de abril de 1938, en el aeródromo de Evere (Bruselas), el Renard R-35, prototipo belga de avión comercial presurizado para 20 pasajeros diseñado por Alfred Renard para SABENA, despegó durante pruebas de rodaje de alta velocidad. Pilotado por Georges Van Damme ante dignatarios y periodistas, entró en pérdida en su primer viraje y se estrelló, destruyéndose por completo y causando la muerte del piloto. Este trimotor de ala baja con motores Gnome-Rhône 9K (750 HP cada uno) fue el pionero en cabina presurizada, superando los 9.000 m de techo, pero el accidente detuvo su desarrollo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha del incidente:** 1 de abril de 1938  
@@ -33,7 +33,7 @@ image: 1938-04-01-primer-vuelo-renard-r35.webp
 - **Rendimiento previsto:** Velocidad máxima 435 km/h, techo >9.000 m  
 - **Consecuencias inmediatas:** Prototipo destruido, piloto fallecido, programa cancelado por SABENA  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -67,7 +67,7 @@ El prototipo despertó la misma fascinación que otros grandes aviones de la ép
 
 El Renard R-35 es recordado como el primer avión comercial diseñado específicamente con cabina presurizada y el primero en realizar un despegue (aunque accidental). Su trágico destino lo convirtió en un “precursor olvidado” que anticipó la necesidad de volar a gran altura, concepto que se generalizaría décadas después en la aviación comercial a reacción. Su diseño influyó indirectamente en los estudios posteriores sobre presurización y en la configuración de aviones de transporte avanzados.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -84,7 +84,7 @@ El Renard R-35 es recordado como el primer avión comercial diseñado específic
   <p>Existía una variante propuesta como bombardero (R.35B), pero nunca se construyó.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-31 15:20 UTC  

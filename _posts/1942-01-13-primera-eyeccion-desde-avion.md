@@ -20,7 +20,7 @@ image: 1942-01-13-primera-eyeccion-desde-avion.jpg
 <p>El 13 de enero de 1942, el piloto de pruebas Helmut Schenk se convirtió en la primera persona en la historia en utilizar un asiento eyectable para abandonar un avión en vuelo. El hecho ocurrió durante un ensayo con el prototipo Heinkel He 280, un caza a reacción alemán.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 13 de enero de 1942  
 - **Lugar:** Alemania  
@@ -28,7 +28,7 @@ image: 1942-01-13-primera-eyeccion-desde-avion.jpg
 - **Aeronave/empresa involucrada:** Heinkel He 280, Heinkel Flugzeugwerke  
 - **Resultado inmediato:** Eyección exitosa y supervivencia del piloto  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 La Segunda Guerra Mundial impulsó el desarrollo de aeronaves a reacción y sistemas de seguridad innovadores.
 
@@ -53,7 +53,7 @@ Validación práctica de los asientos eyectables, que se convertirían en están
 ### Legado
 La eyección de Schenk es recordada como el primer caso documentado en la historia, abriendo camino a sistemas que salvarían miles de vidas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -67,7 +67,7 @@ La eyección de Schenk es recordada como el primer caso documentado en la histor
 
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-12 08:40:00 UTC  
 - **Fuentes primarias consultadas:**  

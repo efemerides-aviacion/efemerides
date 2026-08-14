@@ -19,7 +19,7 @@ image: 1935-01-11-amelia-earhart-primer-vuelo-en-solitario.webp
 <div class="highlight-box">
 <p>El 11 de enero de 1935, Amelia Earhart despegó de Wheeler Field, Honolulu, para realizar una de las travesías más peligrosas de la aviación de la época: cruzar el Océano Pacífico desde Hawái hasta California. A bordo de su Lockheed Vega 5B (matrícula NR-965Y), apodado "Little Red Bus", recorrió 2.408 millas (3.875 km) en 18 horas y 15 minutos. Este vuelo no solo consolidó su estatus como pionera, sino que demostró la viabilidad de rutas transoceánicas de larga distancia, superando el desastroso historial de la carrera aérea Dole de 1927, donde varios aviadores perdieron la vida intentando el mismo trayecto.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos del evento
 
@@ -40,7 +40,7 @@ image: 1935-01-11-amelia-earhart-primer-vuelo-en-solitario.webp
 - **Combustible transportado:** 1.060 litros (280 galones) en tanques adicionales
 - **Resultado inmediato:** Vuelo exitoso; Earhart se convirtió en la primera persona en volar en solitario la ruta Hawái-California
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -67,7 +67,7 @@ Earhart ya era una celebridad mundial tras su cruce del Atlántico en solitario 
 
 Entre el 16 y el 18 de agosto de 1927, ocho aviones (con 16 aviadores) intentaron volar desde Oakland a Honolulu en la llamada "Carrera Aérea Dole", patrocinada por el magnate de la piña James D. Dole. Solo dos aeronaves completaron el vuelo; el resto se accidentaron o desaparecieron. Ocho aviadores perdieron la vida. Este desastre convirtió la ruta Hawái-California en un "cementerio de aviadores" y disuadió intentos posteriores durante casi una década. Earhart decidió enfrentar este desafío donde otros habían fallado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -81,7 +81,7 @@ Entre el 16 y el 18 de agosto de 1927, ocho aviones (con 16 aviadores) intentaro
 
 - **Inmediatamente después:** Earhart declaró a la prensa: "Estoy muy contenta de haberlo logrado. Fue un vuelo largo y solitario, pero valió la pena cada minuto".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -95,7 +95,7 @@ Entre el 16 y el 18 de agosto de 1927, ocho aviones (con 16 aviadores) intentaro
 
 - **Legado mediático:** La cobertura periodística del vuelo fue masiva. Earhart apareció en portadas de revistas y diarios de todo el mundo, consolidando su imagen como "la primera dama del aire".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -109,7 +109,7 @@ La aeronave utilizada, el Lockheed Vega 5B "Little Red Bus" (matrícula NR-965Y)
 
 El vuelo también es recordado como un paso crucial en la carrera de Earhart hacia su objetivo final: circunnavegar el mundo. Dos años después, en 1937, Earhart intentaría su vuelta al mundo, desapareciendo en el Pacífico central.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Vuelos relacionados de Amelia Earhart
 
@@ -119,7 +119,7 @@ Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviaci
 
 - **20 de mayo – 21 de mayo de 1932:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/05/21/amelia-earhart-primera-mujer-cruza-atlantico.html">Primer vuelo en solitario de una mujer a través del Atlántico (Newfoundland → Irlanda)</a>, por el que recibió la Distinguished Flying Cross del Congreso de EE.UU.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -145,7 +145,7 @@ Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviaci
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

@@ -21,7 +21,7 @@ image: 1935-05-06-primer-vuelo-curtiss-wright-model-75-x17y.webp
 <p>El 6 de mayo de 1935 voló por primera vez en Buffalo, Nueva York, el prototipo Curtiss-Wright Model 75, X17Y, diseñado por Donovan Reese Berlin. El aparato introducía una configuración avanzada para su época, con estructura metálica, ala baja y tren retráctil. Sus pruebas iniciales demostraron un rendimiento prometedor y dieron origen al futuro P-36 Hawk. A partir de este diseño surgirían también versiones de exportación y desarrollos posteriores como el XP-40.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -38,7 +38,7 @@ image: 1935-05-06-primer-vuelo-curtiss-wright-model-75-x17y.webp
 - **Registro civil:** X17Y, emitido el 1 de junio de 1936, cancelado el 26 de abril de 1937
 - **Aeronaves derivadas:** P-36 Hawk (USAAC), H75A-1 (Francia), Mohawk Mk.I (Reino Unido), XP-40
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del Curtiss Model 75 (prototipo original)
 
@@ -57,7 +57,7 @@ El Curtiss Model 75 fue un diseño radicalmente moderno para su época, rompiend
 - **Techo de servicio:** 9.150 m (30.000 pies)
 - **Armamento previsto:** 1 × ametralladora de 12,7 mm (.50 cal) y 1 × de 7,62 mm (.30 cal), sincronizadas para disparar a través de la hélice
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -86,7 +86,7 @@ Donovan Reese Berlin (1898-1982) fue uno de los ingenieros aeronáuticos más im
 - **16 de junio de 1936:** El USAAC ordena tres prototipos Y1P-36
 - **1937:** El P-36A gana el concurso anual del USAAC y se ordenan 210 unidades
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El primer vuelo
 
@@ -96,7 +96,7 @@ El nombre del piloto de pruebas que realizó este vuelo no se menciona en las fu
 
 Sin embargo, el motor Wright XR-1670-5 (o GR1670A1, según las fuentes) demostró ser poco fiable. Este motor de desarrollo, que también equipó al Seversky SEV-S1, tenía problemas de fiabilidad que limitaban el rendimiento del prototipo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El concurso con Seversky
 
@@ -108,7 +108,7 @@ Cuando las pruebas se reanudaron en abril de 1936, el nuevo motor tampoco entreg
 
 Sin embargo, el USAAC, preocupado por la capacidad de Seversky para cumplir con los plazos de entrega y por la tensa situación internacional en Europa, decidió encargar a Curtiss tres prototipos de desarrollo, designados Y1P-36, el 16 de junio de 1936.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El éxito del P-36 Hawk
 
@@ -116,7 +116,7 @@ El Y1P-36 (Model 75E) estaba propulsado por un motor Pratt & Whitney R-1830-13 T
 
 Aunque el P-36 fue rápidamente superado por el P-40 Warhawk y otros cazas más potentes al inicio de la Segunda Guerra Mundial, tuvo un papel destacado en la Batalla de Francia (donde los Hawk 75 franceses derribaron más de 230 aviones alemanes) y en la defensa de Pearl Harbor (donde unos pocos P-36 lograron despegar y enfrentarse a los japoneses).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -125,7 +125,7 @@ Aunque el P-36 fue rápidamente superado por el P-40 Warhawk y otros cazas más 
 - **Innovación técnica:** El diseño de ala baja, tren retráctil y construcción totalmente metálica estableció nuevos estándares que serían adoptados por todos los cazas estadounidenses de la generación siguiente (P-38, P-39, P-40, P-47, P-51).
 - **Doctrina de combate:** La experiencia adquirida con el P-36 influyó en la doctrina de combate del USAAC, preparando a los pilotos y comandantes para la era de los monoplanos de alta velocidad.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -144,7 +144,7 @@ El prototipo X17Y, tras ser modificado a la configuración Model 75B, continuó 
 <p><strong>Sobre el registro civil:</strong> El registro civil X17Y fue emitido el 1 de junio de 1936 para permitir las pruebas del prototipo. Su cancelación el 26 de abril de 1937 indica que la aeronave fue dada de baja del registro civil (posiblemente transferida al ejército, desguazada, o su registro fue modificado).</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -158,7 +158,7 @@ El prototipo X17Y, tras ser modificado a la configuración Model 75B, continuó 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

@@ -19,7 +19,7 @@ image: 1932-05-21-amelia-earhart-primera-mujer-cruza-atlantico.webp
 <div class="highlight-box">
 <p>El 21 de mayo de 1932, Amelia Earhart se convirtió en la primera mujer en cruzar el océano Atlántico en solitario y sin escalas. Partió de Harbour Grace, Terranova, el 20 de mayo a las 19:30 hora local y aterrizó en una pradera cercana a Derry (Londonderry), Irlanda del Norte, aproximadamente 15 horas después. A bordo de su Lockheed Vega 5B, Earhart superó tormentas, hielo en las alas y fallos mecánicos para completar la segunda travesía transatlántica en solitario de la historia, cinco años después del vuelo de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a>.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha de finalización:** 21 de mayo de 1932
@@ -34,7 +34,7 @@ image: 1932-05-21-amelia-earhart-primera-mujer-cruza-atlantico.webp
 - **Fecha de llegada:** 21 de mayo de 1932, aproximadamente 13:30 GMT
 - **Récords:** Primera mujer en cruzar el Atlántico en solitario; segunda persona en la historia en lograrlo (tras Lindbergh); récord de distancia sin escalas para una mujer
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -49,7 +49,7 @@ El Lockheed Vega 5B era uno de los aviones más avanzados de su época. Construi
 ### Entorno cultural
 La figura de Earhart ya era conocida mundialmente desde 1928, cuando cruzó el Atlántico como pasajera —un vuelo que le valió el apodo de «Lady Lindy» por su parecido físico y gesta con Lindbergh. Sin embargo, ella misma consideraba que ese vuelo no la acreditaba como verdadera aviadora. El vuelo de 1932 fue su respuesta personal para demostrar que podía pilotar sola la misma ruta. Su determinación, combinada con su carisma y su defensa de los derechos de la mujer, la convirtieron en un ícono feminista antes de que el término se popularizara.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico del Vuelo
 
@@ -62,7 +62,7 @@ La figura de Earhart ya era conocida mundialmente desde 1928, cuando cruzó el A
 - **Después del aterrizaje:** Earhart sale del avión y pregunta: «¿He llegado lejos?». El vuelo ha durado 14 horas y 56 minutos. No había aterrizado en París como estaba previsto debido a las condiciones meteorológicas adversas y al agrietamiento del escape.
 - **Recepción:** Es recibida como heroína en Irlanda, Gran Bretaña y Estados Unidos. El presidente Herbert Hoover le entrega la Medalla de Oro del Congreso de los Estados Unidos, la primera otorgada a una mujer piloto. Recibe la Cruz de Vuelo Distinguido y la Legión de Honor francesa.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -71,13 +71,13 @@ La figura de Earhart ya era conocida mundialmente desde 1928, cuando cruzó el A
 - **Consolidación de una leyenda:** Earhart pasó de ser «Lady Lindy» (una sombra de Lindbergh) a ser una aviadora independiente con su propio legado. Su desaparición en 1937 durante un intento de vuelta al mundo la convertiría en el misterio más famoso de la aviación, pero el vuelo de 1932 sigue siendo su mayor logro confirmado.
 - **Avances técnicos:** Las modificaciones realizadas al Vega 5B para el vuelo transatlántico (tanques de combustible adicionales, sistemas de navegación de larga distancia) sirvieron de referencia para futuros aviones de largo alcance.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
 El Lockheed Vega 5B de Earhart se exhibe en el Museo Nacional del Aire y el Espacio del Smithsonian en Washington D. C., como una de las aeronaves más importantes de la colección. Es la misma aeronave que ella pilotearía posteriormente en otros vuelos de récord, incluido el vuelo transcontinental de 1932. El legado de Earhart trasciende la aviación: es un símbolo del coraje, la independencia femenina y la búsqueda incansable de los límites humanos. Cada 21 de mayo se recuerda este vuelo como el momento en que una mujer reclamó su lugar en la historia de la aviación, no como pasajera, sino como piloto.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -94,7 +94,7 @@ El Lockheed Vega 5B de Earhart se exhibe en el Museo Nacional del Aire y el Espa
   <p><strong>Nota aclaratoria:</strong> Existen discrepancias menores entre fuentes sobre la duración exacta del vuelo (14 horas 56 minutos vs. «aproximadamente 15 horas»). La altitud máxima y la distancia exacta también varían según la fuente. Las cifras presentadas coinciden con los registros del Smithsonian y del National Air and Space Museum. Earhart había planeado aterrizar en París, pero las condiciones meteorológicas adversas y el fallo en el escape del motor la desviaron a Irlanda del Norte.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-05-18 12:15:00 UTC

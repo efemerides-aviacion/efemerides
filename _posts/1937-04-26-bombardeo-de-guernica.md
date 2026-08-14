@@ -21,7 +21,7 @@ image: 1937-04-26-bombardeo-de-guernica.webp
 <p>El 26 de abril de 1937, durante la Guerra Civil Española, la localidad vasca de Guernica fue sometida a un intenso ataque aéreo de tres horas de duración por parte de la Legión Cóndor alemana y la Aviación Legionaria italiana, en apoyo al bando sublevado de Franco, lo que provocó la destrucción mayoritaria del casco urbano y centenares de víctimas civiles, convirtiéndose en un símbolo internacional del terror aéreo y la guerra contra la población civil.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -37,7 +37,7 @@ image: 1937-04-26-bombardeo-de-guernica.webp
 - **Destrucción:** 85-90% de los edificios de la villa destruidos o gravemente dañados
 - **Víctimas:** El Gobierno de Euzkadi cifró 1.600 víctimas mortales; otras fuentes varían, pero hay consenso en centenares de muertos y heridos civiles
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -65,7 +65,7 @@ El día del bombardeo era lunes, día de mercado, lo que aumentó la presencia d
 - **19:00 horas:** Última oleada. Cazas y aviones de asalto (Heinkel He 51, Fiat CR-32) ametrallan a los civiles que huyen por las carreteras y campos.
 - **19:40 horas:** Finaliza el ataque. Guernica arde durante tres días. El centro histórico (el 85-90% de los edificios) ha quedado reducido a escombros.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El bombardeo: desarrollo y características
 
@@ -92,7 +92,7 @@ A diferencia de los bombardeos tácticos (dirigidos contra instalaciones militar
 
 No había objetivos militares relevantes en Guernica. No había fábricas de armamento, ni concentraciones de tropas republicanas, ni nudos de comunicaciones estratégicos (el puente de Renteria, el único objetivo de valor táctico, no fue destruido). El ataque se centró en el centro urbano, especialmente en el día de mercado, cuando la concentración de civiles era máxima.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -104,7 +104,7 @@ No había objetivos militares relevantes en Guernica. No había fábricas de arm
 
 - **Guernica como símbolo:** La villa se convirtió en un símbolo global de los horrores de la guerra contra la población civil y del terror aéreo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -122,14 +122,14 @@ Hoy, Guernica alberga el Museo de la Paz (Gernika Gogoratuz), que preserva la me
 
 El bombardeo de Guernica es recordado como un anticipo de los horrores que la aviación causaría durante la Segunda Guerra Mundial (Coventry, Dresde, Hamburgo, Tokio, Hiroshima, Nagasaki). Fue el primer bombardeo masivo y prolongado sobre una población civil indefensa en la historia de la aviación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el número de víctimas:</strong> Las cifras de víctimas del bombardeo de Guernica han sido objeto de controversia histórica. El informe del Gobierno de Euzkadi de 1937 cifró 1.654 víctimas mortales. Investigaciones posteriores (como la del historiador Jesús de la Fuente) redujeron la cifra a unos 250-300 muertos, excluyendo desaparecidos. La mayoría de los historiadores actuales coinciden en que hubo <strong>centenares</strong> de víctimas civiles, aunque la cifra exacta sigue siendo debatida.</p>
 <p><strong>Sobre la autoría del bombardeo:</strong> Aunque la Legión Cóndor alemana fue la principal ejecutora del ataque, la operación fue planificada conjuntamente con el alto mando franquista y contó con la participación de la aviación italiana. El general Queipo de Llano, jefe de las fuerzas sublevadas en Andalucía, declaró a la prensa: "He destruido Guernica".</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -145,7 +145,7 @@ El bombardeo de Guernica es recordado como un anticipo de los horrores que la av
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

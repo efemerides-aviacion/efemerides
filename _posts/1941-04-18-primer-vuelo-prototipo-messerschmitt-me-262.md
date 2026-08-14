@@ -21,7 +21,7 @@ image: 1941-04-18-primer-vuelo-prototipo-messerschmitt-me-262.webp
 <p>El 18 de abril de 1941, el prototipo Messerschmitt Me 262 V1 realizó su primer vuelo en Augsburg, Alemania, pilotado por Fritz Wendel. Debido a que los motores turborreactores BMW 003 previstos no estaban listos, la aeronave fue equipada provisionalmente con un motor de pistón Junkers Jumo 210G de 700 hp montado en el morro, que impulsaba una hélice convencional. Este vuelo, de aproximadamente 20 minutos de duración, permitió probar la célula y las características de vuelo del futuro caza a reacción. El verdadero vuelo con propulsión a chorro no ocurriría hasta el 18 de julio de 1942, con el prototipo V3 equipado con motores Junkers Jumo 004. El Me 262 pasaría a la historia como el primer caza a reacción operativo del mundo, aunque su entrada en combate no se produjo hasta 1944.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ image: 1941-04-18-primer-vuelo-prototipo-messerschmitt-me-262.webp
 - **Número de vuelos con motor de pistón:** 47 vuelos, acumulando más de 20 horas de vuelo
 - **Primer vuelo con propulsión a reacción:** 25 de marzo de 1942 (con motores BMW 003, fallaron) / 18 de julio de 1942 (con motores Junkers Jumo 004, exitoso)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -66,7 +66,7 @@ El piloto de pruebas Fritz Wendel era una figura respetada en la industria aeron
 - **Abril de 1944:** El Me 262 entra en servicio operativo con la Luftwaffe.
 - **Mayo de 1945:** Fin de la guerra en Europa; se capturan numerosos Me 262 por los Aliados.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El primer vuelo del 18 de abril de 1941: detalles técnicos y humanos
 
@@ -96,7 +96,7 @@ El 25 de marzo de 1942, Wendel intentó el primer vuelo con propulsión a reacci
 
 El 18 de julio de 1942, el prototipo Me 262 V3, equipado con dos motores Junkers Jumo 004 (que demostraron ser más confiables que los BMW), realizó su primer vuelo exitoso con propulsión a chorro, pilotado nuevamente por Fritz Wendel.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -108,7 +108,7 @@ El 18 de julio de 1942, el prototipo Me 262 V3, equipado con dos motores Junkers
 
 - **Limitaciones operativas:** A pesar de su superioridad técnica, el Me 262 llegó demasiado tarde y en muy pocas unidades (aproximadamente 1.430 construidas) para cambiar el curso de la guerra. Sufrió además por la falta de combustible, pilotos entrenados y el ataque aliado a sus bases.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -118,7 +118,7 @@ Hoy, solo unos pocos Me 262 originales sobreviven en museos de todo el mundo. El
 
 El Me 262 sigue siendo un símbolo del avance tecnológico alemán durante la Segunda Guerra Mundial, así como un recordatorio de cómo la innovación puede ser frenada por decisiones políticas y limitaciones industriales.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las fechas del primer vuelo:</strong> Existen tres fechas clave en la historia del Me 262:</p>
@@ -130,7 +130,7 @@ El Me 262 sigue siendo un símbolo del avance tecnológico alemán durante la Se
 <p>La efeméride del 18 de abril de 1941 conmemora el primer vuelo del programa Me 262, aunque no haya sido con propulsión a chorro. Esa es la fecha que figura en todas las fuentes históricas como la del "primer vuelo" del avión.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -146,7 +146,7 @@ El Me 262 sigue siendo un símbolo del avance tecnológico alemán durante la Se
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

@@ -21,7 +21,7 @@ image: 1939-04-26-record-mundial-velocidad-avion-motor-piston.webp
 <p>El 26 de abril de 1939, el piloto de pruebas alemán Fritz Wendel estableció un nuevo récord mundial de velocidad en aviones con motor a pistón al volar el Messerschmitt Me 209 V1 (D‑INJR) sobre un circuito de 3 kilómetros en Augsburgo, alcanzando una velocidad media de 755,14 km/h (469,22 mph). Este récord, homologado por la Fédération Aéronautique Internationale (FAI), permaneció vigente durante aproximadamente 30 años, hasta ser superado en 1969 por Darryl Greenamyer con un Grumman F8F Bearcat modificado.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -37,7 +37,7 @@ image: 1939-04-26-record-mundial-velocidad-avion-motor-piston.webp
 - **Número de registro FAI:** 8743
 - **Duración del récord:** 30 años (superado en 1969)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -65,7 +65,7 @@ La figura del piloto de pruebas era admirada como la del "superhombre" tecnológ
 - **Septiembre de 1939:** Comienza la Segunda Guerra Mundial. El programa del Me 209 es cancelado porque el avión no era apto para combate.
 - **1969:** El piloto estadounidense Darryl Greenamyer supera el récord de Wendel (30 años después) con un Grumman F8F Bearcat modificado, alcanzando 777 km/h.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El avión: Messerschmitt Me 209 V1
 
@@ -86,7 +86,7 @@ El Daimler-Benz DB 601 ARJ era una versión especial del motor DB 601 que equipa
 
 Debido a su diseño extremo, el Me 209 era muy inestable a baja velocidad. El despegue y el aterrizaje eran especialmente peligrosos, requiriendo una pista larga y condiciones meteorológicas perfectas. Wendel describió el vuelo como "una lucha constante por mantener el control del avión".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El piloto: Fritz Wendel
 
@@ -104,7 +104,7 @@ El 26 de abril de 1939, Wendel pilotó el Me 209 V1. Los preparativos para el vu
 
 Wendel continuó como piloto jefe de pruebas de Messerschmitt durante la Segunda Guerra Mundial. Voló el primer prototipo del Me 262 (el primer caza a reacción operativo del mundo) el 18 de abril de 1941 (con motor de pistón) y luego el 18 de julio de 1942 (con motores a reacción). Sobrevivió a la guerra y falleció en 1975.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La guerra de récords entre Heinkel y Messerschmitt
 
@@ -122,7 +122,7 @@ Menos de un mes después, Fritz Wendel superó la marca de Dieterle con el Me 20
 
 La competencia entre Heinkel y Messerschmitt no era solo comercial; también respondía a presiones políticas. Hitler y Göring (comandante en jefe de la Luftwaffe) favorecían a ciertos fabricantes, y los récords de velocidad eran utilizados como argumentos para obtener contratos de producción.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -134,7 +134,7 @@ La competencia entre Heinkel y Messerschmitt no era solo comercial; también res
 
 - **Longevidad del récord:** La marca de Wendel se mantuvo vigente durante 30 años, hasta 1969, cuando el estadounidense Darryl Greenamyer la superó con un Grumman F8F Bearcat modificado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -146,14 +146,14 @@ El nombre de Fritz Wendel está inscrito en los anales de la aviación como uno 
 
 La marca de 755,14 km/h establecida por Wendel se mantuvo como el récord mundial de velocidad absoluta para aviones con motor de pistón durante tres décadas, un testimonio de la ingeniería extrema aplicada a un diseño optimizado exclusivamente para la velocidad.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el nombre Me 209:</strong> El Messerschmitt Me 209 no debe confundirse con el Me 209 de la Segunda Guerra Mundial (a veces denominado Me 209-II), que fue un prototipo de caza basado en el Bf 109 y que no tuvo relación con el avión de récord de 1939. El avión de 1939 fue un diseño completamente nuevo, optimizado exclusivamente para la velocidad.</p>
 <p><strong>Sobre la duración del récord:</strong> La marca de Wendel (755,14 km/h) se mantuvo como récord mundial absoluto para aviones con motor de pistón durante 30 años, hasta que Darryl Greenamyer alcanzó 777 km/h en 1969 con un Grumman F8F Bearcat modificado (Rare Bear). Este segundo récord, a su vez, sigue vigente en la actualidad.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -168,7 +168,7 @@ La marca de 755,14 km/h establecida por Wendel se mantuvo como el récord mundia
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

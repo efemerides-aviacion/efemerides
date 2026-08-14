@@ -20,7 +20,7 @@ image: 1941-05-06-primer-vuelo-xp-47b-thunderbolt.webp
 
 El 6 de mayo de 1941, el prototipo XP-47B Thunderbolt despegó por primera vez desde Farmingdale, Nueva York, pilotado por Lowery L. Brabham, apenas ocho meses después de su encargo por el U.S. Army Air Forces. A pesar del humo en la cabina por aceite, el vuelo fue exitoso e impresionó por su tamaño y potencia. Este hito inició la producción del P-47, el caza más fabricado por Estados Unidos en la Segunda Guerra Mundial, con 15.683 unidades construidas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -37,7 +37,7 @@ El 6 de mayo de 1941, el prototipo XP-47B Thunderbolt despegó por primera vez d
 - **Producción total del P-47:** 15.683 unidades
 - **Destino del prototipo:** Destruido en accidente el 4 de agosto de 1942
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del XP-47B Thunderbolt
 
@@ -58,7 +58,7 @@ El XP-47B era, en su momento, el caza monomotor más grande y pesado jamás cons
 - **Armamento previsto:** Ocho ametralladoras Browning M2 de 12,7 mm (.50 cal) en las alas
 - **Capacidad de combustible:** 1.155 litros (305 galones)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -89,7 +89,7 @@ El Thunderbolt se convirtió en un símbolo de la industria estadounidense: gran
 - **Enero de 1943:** Los primeros P-47C llegan a Inglaterra para entrar en combate.
 - **1941-1945:** Se producen 15.683 Thunderbolts en las fábricas de Republic en Farmingdale y Evansville, y por Curtiss-Wright en Buffalo, Nueva York.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El primer vuelo: "I think we’ve hit the jackpot!"
 
@@ -113,7 +113,7 @@ A pesar de la emoción inicial, las pruebas de vuelo revelaron que el motor R-28
 - **Velocidad a 4.745 m (15.600 pies):** 615 km/h (382 mph)
 - **Velocidad a 1.654 m (5.425 pies):** 554 km/h (344,5 mph)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El diseño de Kartveli: un caza monumental
 
@@ -131,7 +131,7 @@ Debido al enorme diámetro de la hélice (3,7 m), el XP-47B necesitaba un tren d
 
 Cuando los pilotos vieron por primera vez las formas rotundas del XP-47B, con su enorme fuselaje y su capota redondeada, lo compararon con una jarra de leche. De ahí surgió el apodo eterno del Thunderbolt: "Jug". El propio Kartveli lo llamaba "un dinosaurio, pero un dinosaurio con buenas proporciones".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El prototipo perdido: el fin del XP-47B
 
@@ -141,7 +141,7 @@ El 4 de agosto de 1942, el piloto de pruebas Filmore L. "Phil" Gilmer volaba el 
 
 A pesar de esta pérdida, el programa Thunderbolt ya estaba en marcha. Se habían construido cientos de ejemplares de preserie, y las primeras entregas del P-47B estaban en curso.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -151,7 +151,7 @@ A pesar de esta pérdida, el programa Thunderbolt ya estaba en marcha. Se había
 - **Plataforma de ases:** El P-47 fue el avión de los dos principales ases estadounidenses en el Teatro Europeo, Francis "Gabby" Gabreski (28 victorias) y Robert S. Johnson (27 victorias), ambos pilotos de la 56th Fighter Group, la primera unidad en recibir el Thunderbolt.
 - **Legado de diseño:** El enorme fuselaje del Thunderbolt inspiró el diseño del Republic XF-12 Rainbow (un avión de reconocimiento cuatrimotor) y del Republic RC-3 Seabee (una avioneta anfibia de posguerra).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -169,7 +169,7 @@ El primer vuelo del XP-47B el 6 de mayo de 1941, con Brabham luchando contra el 
 <p><strong>Sobre Alexander Kartveli:</strong> Kartveli fue uno de los más grandes diseñadores de aviones del siglo XX. Además del P-47, diseñó el Republic F-84 Thunderjet, el F-105 Thunderchief y el prototipo supersónico XF-103. Su enfoque de construir aviones grandes y potentes con turbosobrealimentación definió a Republic Aviation durante décadas.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -183,7 +183,7 @@ El primer vuelo del XP-47B el 6 de mayo de 1941, con Brabham luchando contra el 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

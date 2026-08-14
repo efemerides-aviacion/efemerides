@@ -19,7 +19,7 @@ image: 1935-04-01-primer-vuelo-at-6-texan.webp
 <div class="highlight-box">
 <p>El 1 de abril de 1935, el prototipo NA-16, diseñado por North American Aviation (NAA), realizó su primer vuelo en Dundalk, Maryland, pilotado por Eddie Allen. Este avión, concebido para sustituir a los obsoletos entrenadores biplanos, sentó las bases de una familia de más de 15.000 ejemplares que, con las designaciones BC-1, AT-6, T-6, SNJ y Harvard, se convirtió en el entrenador avanzado por excelencia de las fuerzas aéreas aliadas durante la Segunda Guerra Mundial y en el avión que formó a generaciones de pilotos en más de 60 países.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 1 de abril de 1935
@@ -29,7 +29,7 @@ image: 1935-04-01-primer-vuelo-at-6-texan.webp
 - **Motor inicial:** Wright R-975 Whirlwind de 400 hp
 - **Resultado inmediato:** Demostración del potencial de un entrenador monoplano de ala baja, que derivaría en el BC-1 (1937) y finalmente en el AT-6 Texan (1940), el entrenador militar más producido y utilizado de la historia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -57,7 +57,7 @@ El espíritu de la aviación en los años treinta estaba marcado por el récord 
 - **1949–1953:** Remanufactura de T-6G, con cabina modernizada y mejoras estructurales.
 - **1995:** Retiro oficial del último T-6 de la Fuerza Aérea Sudafricana, el último operador militar de la versión original.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Aeronaves y motores clave
 
@@ -77,7 +77,7 @@ El espíritu de la aviación en los años treinta estaba marcado por el récord 
 
 El AT-6/T-6 fue operado por más de 60 países. Designaciones internacionales: **Harvard** en la RAF y Commonwealth; **SNJ** en la Armada estadounidense; **Wirraway** (Australia) basado en el NA-16-2K; **Sk 14** en Suecia. En España, el Ejército del Aire empleó 201 T-6D, 130 SNJ y 71 T-6G, utilizándolos en entrenamiento y en combate durante la Guerra de Ifni.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -86,13 +86,13 @@ El AT-6/T-6 fue operado por más de 60 países. Designaciones internacionales: *
 - **Uso en combate:** Aunque concebido como entrenador, participó en conflictos como la Guerra de Corea (como FAC "Mosquito"), la Guerra de Argelia, la Guerra de Ifni, la Guerra de Vietnam, la Guerra Árabe-Israelí de 1948 y diversos conflictos en América Latina y África.
 - **Impacto industrial:** El éxito del AT-6 consolidó a North American Aviation como uno de los grandes fabricantes aeronáuticos, allanando el camino para el P-51 Mustang y el B-25 Mitchell.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
 El North American AT-6 Texan es considerado por muchos historiadores como el mejor entrenador militar de todos los tiempos. Su diseño robusto, sus características de vuelo predecibles y su capacidad para simular el comportamiento de los aviones de combate lo mantuvieron en servicio activo durante más de 50 años. Miles de ejemplares sobreviven hoy restaurados como warbirds en museos y colecciones privadas, participando en festivales aéreos de todo el mundo. En 2023, el T-6 Texan II, un avión turbohélice de nueva generación, continúa la tradición como entrenador de la USAF, demostrando la perdurabilidad del concepto iniciado aquel 1 de abril de 1935.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -145,13 +145,13 @@ El North American AT-6 Texan es considerado por muchos historiadores como el mej
     <li><a href="https://mexicoaeroespacial.mx/2025/08/26/los-t-6c-texan-ii-de-la-fuerza-aerea-mexicana-cuentan-con-la-tecnologia-mas-avanzada/">México Aeroespacial – Los T-6C Texan II de la Fuerza Aérea Mexicana</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Nota aclaratoria
 
 El avión que voló el 1 de abril de 1935 fue el **NA-16**, prototipo de lo que posteriormente se convertiría en el AT-6 Texan. Aunque la denominación "AT-6 Texan" no se utilizó hasta 1940, el NA-16 es el origen directo de toda la familia. Las primeras pruebas demostraron la necesidad de un motor más potente, tren retráctil y cabina cerrada, evoluciones que se incorporaron en el BC-1 (1937) y finalmente en el AT-6. Por lo tanto, la fecha del primer vuelo del NA-16 es la fundacional de uno de los entrenadores militares más importantes de la historia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-30 15:00:00 UTC  

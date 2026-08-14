@@ -21,7 +21,7 @@ image: 1933-04-03-primer-vuelo-sobre-everest.webp
   <p>El 3 de abril de 1933, dos biplanos británicos Westland PV-3 (G-ACAZ) y PV-6 (G-ACBR) de la Houston Mount Everest Flying Expedition sobrevolaron por primera vez la cima del Monte Everest (8.848 m), despegando desde Purnia, India. Pilotados por el Lord Clydesdale (Douglas Douglas-Hamilton) con Stewart Blacker, y David McIntyre con Sidney Bonnett, capturaron imágenes aéreas pese a hipoxia, frío extremo y vientos fuertes. Financiada por Lady Houston y liderada por Peregrine Fellowes, la hazaña abrió la exploración aérea del Himalaya.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha del sobrevuelo:** 3 de abril de 1933  
@@ -39,7 +39,7 @@ image: 1933-04-03-primer-vuelo-sobre-everest.webp
 - **Resultado inmediato:** Fotografías exitosas de la cumbre y del glaciar occidental; primeros planos aéreos del Everest  
 - **Segundo vuelo complementario:** 19 de abril de 1933, con mejores condiciones meteorológicas  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -81,7 +81,7 @@ El primer vuelo sobre el Everest es recordado como una de las grandes gestas de 
 
 En 2023, con motivo del 90 aniversario, se realizaron vuelos conmemorativos y se publicaron documentos inéditos de la expedición. La hazaña sigue siendo un símbolo de la audacia de los pioneros que combinaron el alpinismo y la aviación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -102,7 +102,7 @@ En 2023, con motivo del 90 aniversario, se realizaron vuelos conmemorativos y se
   <p>Lady Houston murió en 1936; la expedición fue su último gran patrocinio aeronáutico. Las fotografías originales se conservan en el archivo de la Royal Geographical Society.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-01 14:30 UTC  
