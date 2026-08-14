@@ -19,7 +19,7 @@ image: 1871-08-19-nacimiento-orville-wright.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 19 de agosto de 1871 nació en Dayton, Ohio, Orville Wright, el cuarto hijo superviviente del obispo Milton Wright, tres años mayor que su hermana Katharine y cuatro menor que Wilbur, su socio de imprentas, bicicletas y cielo. Con Wilbur inventó el control de tres ejes que todavía gobierna el vuelo, y fue Orville quien, a las 10:35 del 17 de diciembre de 1903 en Kitty Hawk, pilotó los primeros 120 pies del primer vuelo propulsado, controlado y sostenido de la humanidad. Su cumpleaños es, por proclamación presidencial de 1939, el Día Nacional de la Aviación de los Estados Unidos.</p>
+<p>El 19 de agosto de 1871 nació en Dayton, Ohio, Orville Wright, el cuarto hijo superviviente del obispo Milton Wright, tres años mayor que su hermana Katharine y cuatro menor que <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1867/04/16/nacimiento-wilbur-wright.html" style="color: #315fea; text-decoration: none;">Wilbur</a>, su socio de imprentas, bicicletas y cielo. Con Wilbur inventó el control de tres ejes que todavía gobierna el vuelo, y fue Orville quien, a las 10:35 del 17 de diciembre de 1903 en Kitty Hawk, pilotó los primeros 120 pies del primer vuelo propulsado, controlado y sostenido de la humanidad. Su cumpleaños es, por proclamación presidencial de 1939, el Día Nacional de la Aviación de los Estados Unidos.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
