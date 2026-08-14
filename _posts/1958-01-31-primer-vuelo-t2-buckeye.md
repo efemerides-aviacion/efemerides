@@ -14,14 +14,14 @@ image: 1958-01-31-primer-vuelo-t2-buckeye.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1958-01-31-primer-vuelo-t2-buckeye.jpg" alt="North American T2J-1 primer prototipo">
   <figcaption class="post-caption">El 31 de enero de 1958, el prototipo YT2J-1 (BuNo 144217) del North American T-2 Buckeye realiza su primer vuelo, entrenador básico a reacción para la US Navy con cabina en tándem y motor Westinghouse J34 (Vintage Aviation News, 31 enero 2023.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 31 de enero de 1958 realizó su primer vuelo el prototipo YT2J-1 (posteriormente T-2A Buckeye) de North American Aviation, un entrenador a reacción básico e intermedio para la US Navy, diseñado para reemplazar al T-28 Trojan y preparar pilotos para operaciones en portaaviones.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos Verificados
 - **Fecha:** 31 de enero de 1958  
 - **Lugar:** Estados Unidos  
@@ -35,7 +35,7 @@ image: 1958-01-31-primer-vuelo-t2-buckeye.jpg
 - **Exportaciones:** Venezuela (T-2D), Grecia (T-2E)  
 - **Retiro:** 2008, reemplazado por el T-45 Goshawk  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 El T-2 Buckeye representó un salto cualitativo en la formación de aviadores navales estadounidenses, al introducir un entrenador a reacción capaz de preparar pilotos para la transición a aeronaves de combate modernas y operaciones en portaaviones.
 
@@ -59,7 +59,7 @@ El T-2 Buckeye consolidó la transición de la formación con aviones de hélice
 ### Legado
 Entrenó a miles de aviadores navales y fue exportado a otros países, manteniéndose como símbolo de la formación naval durante medio siglo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -72,7 +72,7 @@ Entrenó a miles de aviadores navales y fue exportado a otros países, mantenié
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-29 15:45:00 UTC  
 - **Fuentes primarias consultadas:** Wikipedia; USNI Naval History; Vintage Aviation News; Teton Aviation; Planes of Fame  

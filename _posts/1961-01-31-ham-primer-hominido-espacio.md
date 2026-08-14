@@ -15,7 +15,7 @@ image: 1961-01-31-ham-primer-hominido-espacio.jpg
   <figcaption class="post-caption">Primer plano del chimpancé Ham, el sujeto de pruebas del vuelo de ensayo Mercury-Redstone 2 (MR-2), mientras le dan de comer una manzana. Esta foto se tomó tras su exitosa recuperación en el océano Atlántico. Obsérvese que sigue sujeto a su sillón de vuelo especial. Fuente: <a href="https://nlsp.nasa.gov/view/lsdapub/lsda_image/IDP-LSDA_IMAGE-0000000000000851">Chimpanzee Ham After Mercury-Redstone 2 (MR-2) Flight</a>.
 </figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -27,7 +27,7 @@ image: 1961-01-31-ham-primer-hominido-espacio.jpg
 > En los **Datos Verificados**, en cambio, se especifica la configuración técnica del hardware empleado: la **cápsula Mercury No. 5** montada sobre un **cohete Redstone**.  
 > Ambas expresiones se complementan: la primera aporta el contexto narrativo y oficial de la misión, mientras que la segunda detalla con precisión el vehículo espacial utilizado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 ## Datos Verificados
 - **Fecha:** 31 de enero de 1961  
 - **Lugar de lanzamiento:** LC‑5, Cabo Cañaveral, Florida  
@@ -40,7 +40,7 @@ image: 1961-01-31-ham-primer-hominido-espacio.jpg
 - **Cargas G:** 18g en ascenso, 14.7g en reentrada  
 - **Rescate:** Amerizó en el Atlántico y fue recuperado por el USS Donner  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 ## Contexto Histórico
 El vuelo de HAM fue un paso crucial en el Programa Mercury, demostrando que un primate podía realizar tareas bajo condiciones extremas de vuelo espacial. Su desempeño validó la viabilidad de operaciones humanas en el espacio.
 
@@ -62,7 +62,7 @@ HAM demostró que la respuesta neuromotora se mantenía en condiciones de ingrav
 ### Legado
 HAM es recordado como el primer “astrochimp” y pionero de la exploración espacial, abriendo el camino para los vuelos tripulados de Alan Shepard y John Glenn.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -77,7 +77,7 @@ HAM es recordado como el primer “astrochimp” y pionero de la exploración es
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-29 14:45:00 UTC  
 - **Fuentes primarias consultadas:** NASA; Smithsonian; Britannica; Wikipedia; DNCR; Armed Forces Medical Museum  

@@ -14,13 +14,13 @@ image: 1961-04-12-primer-humano-orbitar-la-tierra.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1961-04-12-primer-humano-orbitar-la-tierra.webp" alt="Yuri Gagarin antes del despegue de Vostok 1">
   <figcaption class="post-caption">Yuri Gagarin antes del despegue de Vostok 1 (12 de abril de 1961), junto al mariscal Kirill Moskalenko y Sergei Koroliov, Jefe de Diseño del programa espacial soviético. Fuente: <a href="https://en.wikipedia.org/wiki/Vostok_1">Wikipedia – Vostok 1</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 12 de abril de 1961, Yuri Alekseyevich Gagarin despegó desde el cosmódromo de Baikonur a bordo de la nave Vostok 1, completando una órbita completa alrededor de la Tierra en 108 minutos. Su histórico "¡Poyekhali!" ("¡Vamos!") simbolizó el triunfo soviético en la carrera espacial. La misión alcanzó una altitud máxima de 327 km y una velocidad de 27.400 km/h. Gagarin fue eyectado a 7 km de altura y descendió en paracaídas, según el protocolo de la época. En respuesta, Estados Unidos aceleró su programa Mercury.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Datos verificados del evento
 - **Fecha:** 12 de abril de 1961
@@ -37,7 +37,7 @@ image: 1961-04-12-primer-humano-orbitar-la-tierra.webp
 - **Protocolo de descenso:** Gagarin fue eyectado a 7 km de altura, descendiendo en paracaídas de forma independiente a la cápsula
 - **Frase célebre:** "Поехали!" (Poyekhali – "¡Vamos!")
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Contexto Histórico
 
@@ -79,7 +79,7 @@ Gagarin falleció el 27 de marzo de 1968 a los 34 años en un accidente de entre
 
 La cápsula Vostok 1 se exhibe en el Museo Estatal de Historia del Cosmos K. E. Tsiolkovski en Kaluga, Rusia. Una réplica se encuentra en el Memorial del Cosmonauta de Moscú. El traje Sokol que utilizó Gagarin fue clave para su protección contra el vacío del espacio.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -92,7 +92,7 @@ La cápsula Vostok 1 se exhibe en el Museo Estatal de Historia del Cosmos K. E. 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Nota aclaratoria
 
@@ -101,7 +101,7 @@ La cápsula Vostok 1 se exhibe en el Museo Estatal de Historia del Cosmos K. E. 
   <p><strong>Nota aclaratoria:</strong> Según los protocolos de la misión Vostok, la nave no estaba diseñada para un aterrizaje suave con el cosmonauta dentro. Por seguridad, Gagarin fue eyectado a 7 km de altitud y descendió en paracaídas por separado de la cápsula. Durante décadas, la Unión Soviética ocultó este detalle para cumplir con los requisitos de la Federación Aeronáutica Internacional (FAI) sobre vuelos espaciales tripulados, que exigían que el piloto aterrizara dentro de su nave. La FAI aceptó la versión soviética hasta 1971, cuando se reveló el procedimiento real. Actualmente, se considera que Gagarin completó su vuelo exitosamente, independientemente del método de aterrizaje.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-09 12:30:00 UTC

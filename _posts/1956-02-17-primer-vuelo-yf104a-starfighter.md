@@ -14,14 +14,14 @@ image: 1956-02-17-primer-vuelo-yf104a-starfighter.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1956-02-17-primer-vuelo-yf104a-starfighter.jpg" alt="Lockheed YF-104A Starfighter en pista antes de su primer vuelo">
   <figcaption class="post-caption">Lockheed YF-104A Starfighter (s/n 55-2955), prototipo de servicio de pruebas, en pista antes de su primer vuelo el 17 de febrero de 1956 en Edwards AFB, pilotado por Herman ‘Fish’ Salmon. (Foto: John Eaves Blog / Lockheed records).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 17 de febrero de 1956, el piloto de pruebas Herman Richard “Fish” Salmon realizó el primer vuelo del YF-104A Starfighter (55-2955) en Edwards AFB. Este prototipo de servicio, equipado desde fábrica con el motor General Electric J79 y un fuselaje alargado para acomodarlo, pavimentó el camino para el interceptor Mach 2 F-104. Once días después, el mismo avión alcanzó Mach 2 en vuelo nivelado, consolidando su legado pese a su corta vida operativa hasta 1957.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha:** 17 de febrero de 1956  
 - **Lugar:** Edwards Air Force Base, California, EE.UU.  
@@ -31,7 +31,7 @@ image: 1956-02-17-primer-vuelo-yf104a-starfighter.jpg
 - **Duración del vuelo:** Primer vuelo de prueba con maniobras básicas  
 - **Resultado inmediato:** Inicio de la fase de pruebas del interceptor Mach 2  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 El YF-104A fue el primer prototipo de servicio de 17 unidades de preproducción, construido directamente con el motor General Electric J79. Este cambio marcó un salto radical respecto al XF-104, que había volado con el motor Wright J65 bajo licencia Armstrong Siddeley Sapphire. El fuselaje se alargó 1,68 m para acomodar el nuevo motor y permitir alcanzar Mach 2 en vuelo nivelado.
 
@@ -61,7 +61,7 @@ El YF-104A (55-2955) es recordado con dos sobrenombres:
 
 Herman “Fish” Salmon (1915–2008) es recordado como uno de los grandes pilotos de pruebas de Lockheed, con experiencia en el P-80 y múltiples prototipos F-104.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -78,7 +78,7 @@ Herman “Fish” Salmon (1915–2008) es recordado como uno de los grandes pilo
 <p><strong>Nota aclaratoria:</strong> El XF-104 voló con motor Wright J65, pero el YF-104A fue construido directamente con motor General Electric J79. El prototipo 55-2955 es recordado tanto por su nombre oficial “Starfighter” como por el apodo “Apple Knocker” tras su accidente en 1957.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-15 14:40 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, John Eaves Blog, 916 Starfighter, Wikipedia, Wisconsin Aviation Hall of Fame, Air Force Test Center  

@@ -15,13 +15,13 @@ image: 1963-05-16-mision-espacial-faith-7-mercury-atlas-9.webp
   <figcaption class="post-caption">Un equipo de buzos de la Marina de EE. UU. coloca un collar de flotación a la cápsula Faith 7 tras su amerizaje en el Pacífico, 16 de mayo de 1963. Gordon Cooper permanece aún en el interior. Fuente: NASA / Space.com.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Resumen Ejecutivo
 
 El 16 de mayo de 1963, el astronauta L. Gordon Cooper amerizó en el Océano Pacífico a bordo de la cápsula Faith 7, completando la misión Mercury-Atlas 9. Con 22 órbitas alrededor de la Tierra y una duración de 34 horas y 20 minutos, fue el vuelo espacial estadounidense más largo hasta ese momento y la sexta y última misión tripulada del Proyecto Mercury. A pesar de los fallos en los sistemas automáticos durante las últimas órbitas, Cooper pilotó manualmente la cápsula para un amerizaje de precisión, demostrando la capacidad del ser humano para controlar una nave espacial en condiciones de emergencia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Datos verificados del evento
 
@@ -42,7 +42,7 @@ El 16 de mayo de 1963, el astronauta L. Gordon Cooper amerizó en el Océano Pac
 - **Inclinación orbital:** 32,5 grados
 - **Período orbital:** 88 minutos y 45 segundos
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Especificaciones de la nave Faith 7
 
@@ -56,7 +56,7 @@ El 16 de mayo de 1963, el astronauta L. Gordon Cooper amerizó en el Océano Pac
 - **Escudo térmico:** Aleación de berilio para la reentrada
 - **Sistema de recuperación:** Paracaídas drogue y principal, bolsa de aterrizaje
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Contexto Histórico
 
@@ -74,7 +74,7 @@ La misión Mercury-Atlas 9 fue un esfuerzo titánico. Se desplegaron 28 barcos, 
 
 Gordon Cooper, uno de los siete astronautas originales del Mercury, era un hombre tranquilo, seguro de sí mismo y técnicamente competente. A diferencia de la fama deslumbrante de John Glenn, Cooper representaba al "astronauta del pueblo", con un carácter afable y una fe inquebrantable en la tecnología y en su equipo. Su decisión de llamar a su cápsula "Faith 7" (Fe 7) simbolizaba su confianza en que la misión sería un éxito, y el número "7" honraba a sus seis compañeros astronautas del Mercury.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Desarrollo Cronológico de la Misión
 
@@ -95,7 +95,7 @@ Gordon Cooper, uno de los siete astronautas originales del Mercury, era un hombr
 - **Aproximadamente 15 minutos después:** Faith 7 ameriza a solo 6 km (4 millas) del portaaviones de recuperación primario, el USS Kearsarge.
 - **15 minutos después del amerizaje:** Cooper es izado a bordo del USS Kearsarge. Se encuentra en buenas condiciones y puede caminar sin ayuda. Recibe una llamada telefónica de felicitación del presidente John F. Kennedy.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## La odisea de Cooper: el piloto que salvó la misión
 
@@ -117,7 +117,7 @@ Cooper alineó manualmente la cápsula utilizando una ventana de referencia que 
 
 El disparo fue casi perfecto. Faith 7 descendió a través de la atmósfera, y Cooper, aún en control manual, desplegó el paracaídas drogue y luego el paracaídas principal. A las 34 horas, 19 minutos y 49 segundos de haber despegado, la cápsula cayó en el Océano Pacífico a solo 4 millas del USS Kearsarge.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Los experimentos a bordo
 
@@ -130,7 +130,7 @@ Cooper llevó a cabo 11 experimentos durante su misión:
 - **Mediciones de radiación:** Utilizó un contador Geiger para mapear los cinturones de radiación.
 - **Observaciones de la luz zodiacal:** Fotografió la luz del zodiaco y la capa de airglow nocturna.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Consecuencias e Impacto
 
@@ -140,7 +140,7 @@ Cooper llevó a cabo 11 experimentos durante su misión:
 - **Récord de duración estadounidense:** La misión estableció un nuevo récord de duración para un vuelo espacial estadounidense (34 horas), que no sería superado hasta el vuelo de Gemini 5 en agosto de 1965.
 - **Último vuelo orbital en solitario de EE. UU.:** Hasta la fecha, Faith 7 sigue siendo la última vez que un estadounidense fue lanzado solo para realizar una misión orbital completamente en solitario.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 
@@ -158,7 +158,7 @@ Gordon Cooper volaría de nuevo en agosto de 1965 como comandante de la misión 
 <p><strong>Sobre el estado de la cápsula Faith 7:</strong> Tras su recuperación, la cápsula fue donada al Smithsonian Institution en 1967, pero permaneció en exhibición en Houston. Actualmente se encuentra en préstamo permanente al Space Center Houston, donde se exhibe al público junto a otros artefactos del Proyecto Mercury.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Referencias Verificadas
 
@@ -172,7 +172,7 @@ Gordon Cooper volaría de nuevo en agosto de 1965 como comandante de la misión 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
 

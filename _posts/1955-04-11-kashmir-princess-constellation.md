@@ -14,13 +14,13 @@ image: 1955-04-11-kashmir-princess-constellation.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1955-04-11-kashmir-princess-constellation.webp" alt="Lockheed L-749A Constellation de Air India">
   <figcaption class="post-caption">Lockheed L-749A Constellation de Air India (matrícula VT-DEO "Bengal Princess"), gemelo del siniestrado VT-DEP "Kashmir Princess". Fotografía tomada en Londres (Heathrow), 1953. Fuente: <a href="https://en.wikipedia.org/wiki/Kashmir_Princess">Wikipedia</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 11 de abril de 1955, el Lockheed L-749A Constellation "Kashmir Princess" (VT-DEP) de Air India explotó en vuelo sobre el mar de la China Meridional, cerca de las islas Natuna (Indonesia). La explosión, causada por una bomba de tiempo colocada por agentes del Kuomintang (KMT) en el aeropuerto de Hong Kong, acabó con la vida de 16 de las 19 personas a bordo. El objetivo era asesinar al premier chino Zhou Enlai, quien se dirigía a la Conferencia de Bandung, pero había cambiado su itinerario en el último momento. El atentado, uno de los primeros actos de sabotaje aéreo con motivación política de la era de la Guerra Fría, tuvo profundas repercusiones diplomáticas y de seguridad.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Datos verificados del evento
 - **Fecha:** 11 de abril de 1955
@@ -37,7 +37,7 @@ image: 1955-04-11-kashmir-princess-constellation.webp
 - **Causa:** Bomba de tiempo colocada en el compartimento del tren de aterrizaje derecho
 - **Objetivo del atentado:** Asesinar al primer ministro chino Zhou Enlai
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Contexto Histórico
 
@@ -92,7 +92,7 @@ El atentado fue condenado internacionalmente por atentar contra una aeronave civ
 
 El atentado contra el "Kashmir Princess" es recordado como uno de los primeros actos de sabotaje aéreo con motivación política de la era posterior a la Segunda Guerra Mundial. Aunque la tecnología y los protocolos de seguridad han cambiado drásticamente, el caso sigue siendo estudiado en cursos de seguridad aeroportuaria como ejemplo temprano de la amenaza del terrorismo internacional. Los 16 fallecidos (13 pasajeros y 3 tripulantes) son recordados en monumentos en la India y China. El avión siniestrado nunca fue recuperado del fondo marino.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -103,7 +103,7 @@ El atentado contra el "Kashmir Princess" es recordado como uno de los primeros a
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-08 11:30:00 UTC

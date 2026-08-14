@@ -15,14 +15,14 @@ image: 1959-02-07-timm-cook-record-cessna172.jpg
   <figcaption class="post-caption">La Cessna 172 N9172B recibe combustible en vuelo, desde una camioneta para lograr el récord de Timm y Cook (1958–1959). <a href="https://www.flysuperfly.com/blog/2023/6/9/the-64-day-nonstop-cessna-flight">Fuente: FlySuperFly</a>
   </figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Entre el 4 de diciembre de 1958 y el 7 de febrero de 1959, Bob Timm y John Cook establecieron el récord mundial de vuelo ininterrumpido en una Cessna 172 N9172B, permaneciendo en el aire durante 64 días, 22 horas, 19 minutos y 5 segundos. El vuelo, patrocinado por el Hacienda Hotel de Las Vegas, sigue siendo la marca vigente para aeronaves ligeras tripuladas.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos Verificados
 - **Periodo del vuelo:** 4 de diciembre de 1958 – 7 de febrero de 1959  
 - **Duración total:** 64 días, 22 horas, 19 minutos, 5 segundos  
@@ -35,7 +35,7 @@ image: 1959-02-07-timm-cook-record-cessna172.jpg
 - **Lugar:** vuelos sobre Nevada y estados vecinos  
 - **Reabastecimiento:** combustible transferido desde una camioneta en movimiento mediante mangueras elevadas  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 El vuelo de resistencia de Bob Timm y John Cook en la Cessna 172 Hacienda representó una hazaña sin precedentes en la aviación ligera. Más allá de la marca técnica, fue un experimento de promoción y de ingeniería que demostró la capacidad de los aviones pequeños para permanecer en el aire durante semanas gracias a la innovación en reabastecimiento y modificaciones de cabina. La proeza capturó la atención pública y consolidó a la Cessna 172 como un ícono de fiabilidad, mientras que el récord permanece imbatido más de seis décadas después.
 ### Modificaciones de la aeronave
@@ -53,7 +53,7 @@ El vuelo de resistencia de Bob Timm y John Cook en la Cessna 172 Hacienda repres
 - El récord dejó sin efecto marcas anteriores de más de 1.100 horas en el aire.  
 - La aeronave se exhibe suspendida en el aeropuerto Harry Reid International (Las Vegas).  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -66,7 +66,7 @@ El vuelo de resistencia de Bob Timm y John Cook en la Cessna 172 Hacienda repres
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-03 17:30:00 UTC  
 - **Fuentes primarias consultadas:** Plane & Pilot; AOPA; Simple Flying; Avgeekery; FlySuperFly; General Aviation Album  

@@ -15,14 +15,14 @@ image: 1960-04-28-atentado-vuelo-304-aeropostal.webp
   <figcaption class="post-caption">Douglas DC-3 de Línea Aeropostal Venezolana, matrícula YV-C-AKE, expuesto en el Museo Aeronáutico de Maracay (Venezuela), similar al tipo de aeronave (DC-3 YV-C-AFE) que operaba el vuelo 304, víctima de un atentado terrorista el 28 de abril de 1960 en ruta entre Maiquetía y Puerto Ayacucho.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 28 de abril de 1960, el vuelo 304 de Línea Aeropostal Venezolana (LAV), un Douglas DC-3 YV-C-AFE que operaba entre Maiquetía y Puerto Ayacucho, fue víctima de un atentado terrorista a bordo, cuando un pasajero detonó una bomba en pleno vuelo. El avión se precipitó cerca de El Rastro, en la zona del Embalse del Guárico, a las afueras de Calabozo, estado Guárico, Venezuela, pereciendo las 13 personas a bordo. Este hecho constituye uno de los primeros atentados contra una aeronave civil en la historia de Venezuela y dejó una huella profunda en la opinión pública y en la seguridad aeronáutica del país.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Datos verificados del evento
 
@@ -43,7 +43,7 @@ image: 1960-04-28-atentado-vuelo-304-aeropostal.webp
 - **Autor del atentado:** Wjatheslav Lavinski (pasajero de origen ruso, fallecido en el atentado)
 - **Causa:** Detonación de un artefacto explosivo (presuntamente una granada de mano) en la cabina del avión
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Contexto Histórico
 
@@ -71,7 +71,7 @@ La figura del "pasajero rebelde" o del "secuestrador" era prácticamente descono
 - **Posteriores al impacto:** La azafata Regine Marie Rachinel y dos pasajeros (José Chacín y Marcelina de Flores) sobreviven inicialmente al impacto y logran relatar lo sucedido, pero fallecen horas después a causa de sus heridas.
 - **Posteriores a la tragedia:** La Fuerza Aérea Venezolana construye un monumento en el lugar del accidente y coloca una placa en memoria de los tripulantes y pasajeros fallecidos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## El atentado: el primer secuestro con explosivos en Venezuela
 
@@ -89,7 +89,7 @@ En lugar de ceder, Lavinski, que también llevaba consigo un libro titulado "Mue
 
 La robustez del fuselaje del DC-3 permitió que tres personas sobrevivieran al impacto inicial: la azafata Regine Marie Rachinel y los pasajeros José Chacín y Marcelina de Flores. Durante las horas siguientes, antes de sucumbir a sus heridas, lograron relatar a los equipos de rescate lo que había ocurrido. Gracias a sus testimonios, las autoridades pudieron reconstruir los hechos e identificar a Lavinski como el autor material del atentado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Investigación y motivaciones
 
@@ -109,7 +109,7 @@ Las investigaciones oficiales no lograron determinar con certeza las motivacione
 
 La nota de amenaza enviada por Lavinski a los pilotos fue encontrada en el bolsillo del uniforme del copiloto Tito Livio Parra, fallecido en la explosión. Esta evidencia fue clave para confirmar la naturaleza terrorista del siniestro y descartar fallos mecánicos o estructurales.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Víctimas
 
@@ -139,7 +139,7 @@ El vuelo 304 de Aeropostal transportaba a 13 personas: 3 tripulantes y 10 pasaje
 - José Chacín (sobrevivió horas al impacto)
 - Marcelina de Flores (sobrevivió horas al impacto)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Consecuencias e Impacto
 
@@ -151,7 +151,7 @@ El vuelo 304 de Aeropostal transportaba a 13 personas: 3 tripulantes y 10 pasaje
 
 - **Memoria institucional:** La Fuerza Aérea Venezolana (FAV) construyó un monumento en el lugar del accidente y colocó una placa en memoria de los tripulantes y pasajeros fallecidos. El capitán Medina Guerra recibió honores fúnebres militares como oficial de la FAV.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Legado
 
@@ -172,7 +172,7 @@ Hoy, la matrícula YV-C-AFE ya no existe. El avión quedó destruido en el impac
 <p><strong>Sobre la aeronave:</strong> El avión siniestrado era un Douglas C-47B-15-DK (versión militar del DC-3) construido en 1944 para la Fuerza Aérea del Ejército de los Estados Unidos. Fue convertido para uso civil después de la guerra y operado por Aeropostal en rutas nacionales.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Referencias Verificadas
 
@@ -185,7 +185,7 @@ Hoy, la matrícula YV-C-AFE ya no existe. El avión quedó destruido en el impac
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Metadatos de Control
 

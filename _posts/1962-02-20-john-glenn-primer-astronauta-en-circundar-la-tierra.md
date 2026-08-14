@@ -15,14 +15,14 @@ image: 1962-02-20-john-glenn-primer-astronauta-en-circundar-la-tierra.webp
   <figcaption class="post-caption">El astronauta John H. Glenn Jr. entra en su cápsula Mercury, la «Friendship 7», mientras se prepara para el lanzamiento del cohete Mercury-Atlas. El 20 de febrero de 1962, Glenn despegó hacia el espacio a bordo de su cohete Mercury-Atlas 6 (MA-6) y se convirtió en el primer estadounidense en orbitar la Tierra. Fuente:Foto NASA.
   </figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 20 de febrero de 1962, John H. Glenn Jr. se convirtió en el primer estadounidense en orbitar la Tierra a bordo de la cápsula Friendship 7 (Mercury-Atlas 6). Lanzado desde Cabo Cañaveral con un Atlas LV-3B, completó tres órbitas en 4 h 55 min pese a fallos técnicos y una alarma falsa sobre el escudo térmico. Amerrizó en el Atlántico y fue recuperado por el USS Noa, consolidando un triunfo clave para el programa espacial de EE.UU. frente a la URSS.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 ## Datos verificados del evento
 - **Fecha:** 20 de febrero de 1962  
 - **Misión:** Mercury-Atlas 6 (MA-6) – Friendship 7  
@@ -36,7 +36,7 @@ image: 1962-02-20-john-glenn-primer-astronauta-en-circundar-la-tierra.webp
 - **Incidentes:** fallo de periscopio, control automático defectuoso (usó manual), falsa alarma de escudo térmico en reentrada  
 - **Recuperación:** Amerrizaje a 640 km de las Bahamas; recuperado por USS Noa (DD-841)  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 ## Contexto Histórico
 La misión MA-6 fue la quinta tripulada del Proyecto Mercury y la primera orbital de EE.UU., en respuesta al éxito soviético con Yuri Gagarin (1961). Glenn se convirtió en héroe nacional y símbolo de la recuperación del prestigio espacial estadounidense.
 
@@ -54,7 +54,7 @@ La misión MA-6 fue la quinta tripulada del Proyecto Mercury y la primera orbita
 ### Legado
 La cápsula Friendship 7 se exhibe en el Smithsonian National Air and Space Museum. La misión es considerada uno de los hitos más importantes de la carrera espacial.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -72,7 +72,7 @@ La cápsula Friendship 7 se exhibe en el Smithsonian National Air and Space Muse
 <p><strong>Nota aclaratoria:</strong> La alarma sobre el escudo térmico resultó ser falsa; Glenn mantuvo la calma y completó la reentrada con éxito. La cápsula Friendship 7 se conserva en el Smithsonian NASM.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #283593, #1a237e);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-17 14:05 CST  
 - **Fuentes primarias consultadas:** NASA, Smithsonian NASM, Space Center Houston  

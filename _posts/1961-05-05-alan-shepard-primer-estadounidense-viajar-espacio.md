@@ -15,14 +15,14 @@ image: 1961-05-05-alan-shepard-primer-estadounidense-viajar-espacio.webp
   <figcaption class="post-caption">Alan Shepard despega a bordo de Freedom 7 en la misión Mercury-Redstone 3, el 5 de mayo de 1961. Fuente: NASA.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 5 de mayo de 1961, Alan Bartlett Shepard Jr. se convirtió en el primer estadounidense en viajar al espacio a bordo de la cápsula Freedom 7, dentro de la misión Mercury-Redstone 3. El vuelo fue suborbital, alcanzó una altitud de 187 kilómetros, duró 15 minutos y 28 segundos, y recorrió 487 kilómetros hasta amerizar en el Atlántico. Este hito confirmó la capacidad de Estados Unidos para enviar y recuperar con éxito a un ser humano en el espacio, apenas 23 días después del vuelo orbital de Yuri Gagarin.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Datos verificados del evento
 
@@ -42,7 +42,7 @@ image: 1961-05-05-alan-shepard-primer-estadounidense-viajar-espacio.webp
 - **Recuperación:** USS Lake Champlain
 - **Espectadores televisivos:** Aproximadamente 45 millones en Estados Unidos
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Contexto Histórico
 
@@ -73,7 +73,7 @@ La imagen del astronauta Shepard, entrando en la cápsula y aguardando el lanzam
 - **8 de mayo de 1961:** El presidente John F. Kennedy otorga a Shepard la Medalla por Servicio Distinguido de la NASA
 - **25 de mayo de 1961:** Kennedy anuncia ante el Congreso el objetivo de llevar un hombre a la Luna antes del final de la década
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## El vuelo de Freedom 7
 
@@ -91,7 +91,7 @@ Tras 15 minutos y 28 segundos de vuelo, la cápsula Freedom 7 cayó en paracaíd
 
 El presidente John F. Kennedy seguía el vuelo de Shepard por televisión. Poco después, felicitó a los controladores de la misión desde la Casa Blanca. El éxito de la misión Freedom 7 impulsó el lanzamiento del programa espacial estadounidense a un ritmo frenético. Menos de tres semanas después, el 25 de mayo de 1961, Kennedy presentó al Congreso el objetivo de Estados Unidos de llevar un hombre a la Luna y traerlo de vuelta sano y salvo antes de que terminara la década.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Anécdotas del vuelo
 
@@ -105,7 +105,7 @@ Shepard pasó más de tres horas dentro de la cápsula en la plataforma de lanza
 
 Los sensores biomédicos en el cuerpo de Shepard mostraron que su frecuencia cardíaca se mantuvo notablemente baja durante todo el vuelo, un testimonio de su temple y preparación. Poco antes del despegue, mientras esperaba en la cápsula, su frecuencia cardíaca era de 70 pulsaciones por minuto. Durante el lanzamiento, cuando el cohete alcanzó su punto máximo de aceleración y la tensión fue máxima, su corazón se aceleró solo ligeramente a 90 latidos por minuto.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Consecuencias e Impacto
 
@@ -114,7 +114,7 @@ Los sensores biomédicos en el cuerpo de Shepard mostraron que su frecuencia car
 - **Inspiración para una generación:** El vuelo de Shepard inspiró a millones de estadounidenses, incluyendo a futuros astronautas, y demostró el valor de la exploración espacial.
 - **Precedente para misiones más largas:** Shepard probó los sistemas manuales de la cápsula, demostrando que los astronautas podían controlar sus naves, una habilidad crucial para las posteriores misiones orbitales y lunares.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 
@@ -131,7 +131,7 @@ Shepard falleció el 21 de julio de 1998, a la edad de 74 años. Su legado perdu
 <p><strong>Sobre el nombre "Freedom 7":</strong> Shepard eligió el nombre "Freedom 7" para su cápsula. El "7" honraba a los siete astronautas originales del Proyecto Mercury. El nombre estableció un precedente para los nombres de las naves de los demás astronautas del Mercury (Grissom pilotó el "Liberty Bell 7", Glenn pilotó el "Friendship 7", etc.). No fue hasta la misión de John Glenn en febrero de 1962 que Estados Unidos logró el primer vuelo orbital tripulado.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Referencias Verificadas
 
@@ -148,7 +148,7 @@ Shepard falleció el 21 de julio de 1998, a la edad de 74 años. Su legado perdu
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
 
