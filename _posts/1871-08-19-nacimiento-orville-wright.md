@@ -26,7 +26,7 @@ image: 1871-08-19-nacimiento-orville-wright.webp
 
 ## Datos verificados del evento
 
-- **Nacimiento:** 19 de agosto de 1871 en Dayton, Ohio; sexto de siete hijos del obispo Milton Wright y Susan Catherine Koerner Wright; hermano de Reuchlin, Lorin, Wilbur y Katharine, nacida exactamente tres años después y en la misma habitación de la casa de Hawthorne Street
+- **Nacimiento:** 19 de agosto de 1871 en Dayton, Ohio; sexto de siete hijos del obispo Milton Wright y Susan Koerner; hermano de Reuchlin, Lorin, Wilbur y Katharine, nacida exactamente tres años después y en la misma habitación de la casa de Hawthorne Street
 - **Fallecimiento:** 30 de enero de 1948 en Dayton, de un ataque al corazón, a los 76 años; sepultado en el cementerio Woodland; había visto el avión usado en dos guerras mundiales, el motor a reacción y el umbral de la era espacial
 - **Formación:** dejó la escuela en el undécimo grado; autodidacta de imprenta y mecánica; doctorados honorarios de Harvard, Yale y otras universidades por la invención del avión
 - **Empresas:** imprentas propias desde 1889 (West Side News) con prensas construidas a mano; Wright Cycle Company en 1892; la Wright Company tras el vuelo; la vendió en 1915
@@ -63,7 +63,7 @@ Orville, callado hasta el punto de no hablar en la dedicatoria del memorial de K
 - **1899-1902:** leen todo lo volado, observan aves y prueban planeadores en Kitty Hawk; nace el control de tres ejes.
 - **17 de diciembre de 1903:** a las 10:35, Orville pilota el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">primer vuelo del Wright Flyer</a>: 120 pies en 12 segundos; ese día, cuatro vuelos, el último de Wilbur, 852 pies en 59 segundos.
 - **Octubre de 1905:** el Flyer III vuela 39 minutos en círculo: el primer avión práctico.
-- **17 de septiembre de 1908:** en Fort Myer, el accidente que mata al Teniente Thomas Selfridge hiere de gravedad a Orville, primer muerto de la aviación a motor.
+- **17 de septiembre de 1908:** en Fort Myer, durante las pruebas para el Ejército que terminarían en la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1909/08/02/primera-compra-gubernamental-avion.html" style="color: #315fea; text-decoration: none;">primera compra gubernamental de un avión, el 2 de agosto de 1909</a>, el accidente que mata al Teniente Thomas Selfridge hiere de gravedad a Orville, primer muerto de la aviación a motor.
 - **24 de octubre de 1911:** récord mundial de planeo en Kitty Hawk: 9 minutos y 45 segundos, diez años invicto.
 - **1912-1915:** muere Wilbur; Orville asume la presidencia de la Wright Company y la conduce hasta venderla en 1915, con Katharine en la junta directiva.
 - **1939:** Franklin D. Roosevelt proclama el 19 de agosto Día Nacional de la Aviación.

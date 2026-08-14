@@ -19,14 +19,14 @@ image: 1874-08-19-nacimiento-katharine-wright.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 19 de agosto de 1874 nació en Dayton, Ohio, Katharine Wright, la única hija superviviente del obispo Milton Wright y de Susan Koerner Wright, y la hermana menor de Wilbur y Orville. Maestra de latín, graduada de Oberlin, administradora de la casa y de la tienda de bicicletas que financió los experimentos, confidente, enfermera de Orville tras el accidente de Fort Myer, representante de la Wright Company en Europa, sufragista y condecorada con la Legión de Honor: sin su gestión, los hermanos no habrían tenido ni la casa en pie ni los veranos libres de Kitty Hawk. La llamaron el «tercer hermano Wright»; murió en 1929, reconciliada con Orville apenas unos días antes.</p>
+<p>El 19 de agosto de 1874 nació en Dayton, Ohio, Katharine Wright, la única hija superviviente del obispo Milton Wright y de Susan Koerner, y la hermana menor de Wilbur y Orville. Maestra de latín, graduada de Oberlin, administradora de la casa y de la tienda de bicicletas que financió los experimentos, confidente, enfermera de Orville tras el accidente de Fort Myer, representante de la Wright Company en Europa, sufragista y condecorada con la Legión de Honor: sin su gestión, los hermanos no habrían tenido ni la casa en pie ni los veranos libres de Kitty Hawk. La llamaron el «tercer hermano Wright»; murió en 1929, reconciliada con Orville apenas unos días antes.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
-- **Nacimiento:** 19 de agosto de 1874 en la residencia Wright de Hawthorne Street, Dayton, Ohio; exactamente tres años después de Orville; la menor de los cinco hijos supervivientes del obispo Milton Wright y Susan Koerner Wright
+- **Nacimiento:** 19 de agosto de 1874 en la residencia Wright de Hawthorne Street, Dayton, Ohio; exactamente tres años después de Orville; la menor de los cinco hijos supervivientes del obispo Milton Wright y Susan Koerner
 - **Fallecimiento:** 3 de marzo de 1929 en Kansas City, de neumonía; sepultada con sus padres y su hermano Wilbur en el cementerio Woodland de Dayton
 - **Formación:** Central High School de Dayton; Oberlin College (1893-1898), única hermana Wright con título universitario; profesora de latín e inglés en Steele High School hasta 1908
 - **Rol en la empresa de volar:** al frente de la casa desde la muerte de su madre en 1889; desde los veranos de Kitty Hawk (1901), administró la Wright Cycle Company, empacó suministros y llevó la correspondencia oficial y la prensa; los Wright no aceptaban donaciones: los experimentos se pagaron con la tienda y con su sueldo de maestra
@@ -57,7 +57,7 @@ La llamaron el «tercer hermano Wright», y Europa la trató como a una celebrid
 ## Desarrollo Cronológico
 
 - **19 de agosto de 1874:** nace en Dayton, Ohio, Katharine Wright, tercera en la fila de los pequeños, trece años menor que Reuchlin, el mayor.
-- **1889:** muere Susan Koerner Wright (su madre); Katharine, de quince años, asume la administración del hogar.
+- **1889:** muere Susan Koerner (su madre); Katharine, de quince años, asume la administración del hogar.
 - **1893-1898:** estudia en Oberlin College y se gradúa; única hermana Wright con título universitario.
 - **1898 en adelante:** profesora de latín e inglés en Steele High School, Dayton.
 - **Desde 1901:** con los veranos de Wilbur y Orville en Kitty Hawk, Katharine administra la Wright Cycle Company, empaca suministros, lleva la correspondencia oficial y atiende a la prensa; la tienda y su sueldo financian los experimentos.
