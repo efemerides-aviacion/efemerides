@@ -19,7 +19,7 @@ image: 1963-04-10-primer-vuelo-ewr-vj-101.webp
 <div class="highlight-box">
 <p>El 10 de abril de 1963, el prototipo EWR VJ 101C X-1 realizó su primer vuelo en suspensión en el centro de pruebas de EWR en Manching, Alemania Occidental. Este avión experimental de despegue y aterrizaje vertical (VTOL), desarrollado por el consorcio EWR (formado por Heinkel, Messerschmitt y Bölkow), fue diseñado como posible sucesor del Lockheed F-104G Starfighter de la Luftwaffe. El 29 de julio de 1964 se convirtió en el primer avión VTOL del mundo en superar la barrera del sonido, alcanzando Mach 1,04. Aunque el programa fue cancelado en 1968, el segundo prototipo (X-2) se conserva en el Deutsches Museum de Múnich.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha del primer vuelo:** 10 de abril de 1963
@@ -32,7 +32,7 @@ image: 1963-04-10-primer-vuelo-ewr-vj-101.webp
 - **Estado del programa:** Cancelado en 1968
 - **Unidades construidas:** 2 prototipos (X-1 y X-2)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -73,7 +73,7 @@ La carrera por el primer caza VTOL operativo involucraba a varios países: Reino
 
 El EWR VJ 101 fue un prodigio de ingeniería que demostró que un avión de despegue vertical podía alcanzar velocidades supersónicas. Aunque nunca entró en producción, su recuerdo perdura entre los entusiastas de la aviación como un ejemplo de audacia técnica en la era de la Guerra Fría. Su diseño de seis motores y toberas basculantes era demasiado complejo para la fiabilidad operativa exigida por una fuerza aérea moderna, pero las lecciones aprendidas sobre aerodinámica, sistemas de control y transición entre regímenes de vuelo resultaron invaluables. El VJ 101 sigue siendo un motivo de orgullo en la historia aeronáutica alemana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -85,7 +85,7 @@ El EWR VJ 101 fue un prodigio de ingeniería que demostró que un avión de desp
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-07 16:00:00 UTC

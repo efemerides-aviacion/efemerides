@@ -21,7 +21,7 @@ image: 1962-04-30-primer-vuelo-lockheed-a-12-arcangel.webp
 <p>El 30 de abril de 1962, el Lockheed A-12 (60-6924), primer prototipo del proyecto OXCART/Archangel para la CIA, realizó su vuelo oficial en Groom Lake (Área 51), Nevada. Pilotado por Lou Schalk, despegó a 170 nudos, alcanzó 30.000 pies y 400 mph en 59 minutos. Precursor del SR-71 Blackbird, fue diseñado para vuelos Mach 3+ y altitudes superiores a 80.000 pies, reemplazando al vulnerable U-2.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ image: 1962-04-30-primer-vuelo-lockheed-a-12-arcangel.webp
 - **Duración del vuelo:** 59 minutos
 - **Motores originales:** 2 × Pratt & Whitney J75 (provisionales, posteriores J58 para Mach 3,2)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -65,7 +65,7 @@ El desarrollo del A-12 fue uno de los proyectos más secretos de la Guerra Fría
 - **9 de marzo de 1963:** Primer vuelo con dos motores J58
 - **Enero de 1964:** El piloto James Eastham lleva el artículo 121 a Mach 3,3, con 15 minutos de crucero sobre Mach 3,2
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Los vuelos previos al 30 de abril de 1962
 
@@ -83,7 +83,7 @@ Al día siguiente, el 26 de abril, Lockheed realizó el primer vuelo planificado
 
 El 30 de abril de 1962, Schalk voló nuevamente el artículo 121, esta vez para el cliente: la Agencia Central de Inteligencia. En un vuelo de 59 minutos, alcanzó una velocidad máxima de 340 nudos (unos 630 km/h) y una altitud de 9.144 m (30.000 pies). Este es el vuelo oficialmente reconocido como el primer vuelo del A-12 para la CIA.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Diseño y características del A-12
 
@@ -111,7 +111,7 @@ El derribo del U-2 hizo que la CIA priorizara la baja detectabilidad por radar. 
 - **Techo de servicio:** 29.000 m (95.000 pies)
 - **Alcance:** 4.000 km (2.500 millas)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Servicio operativo y legado
 
@@ -137,7 +137,7 @@ El primer prototipo, el artículo 121, completó un total de 322 vuelos y 418,2 
 <p><strong>Sobre los motores:</strong> El primer avión (60-6924) voló inicialmente con motores Pratt & Whitney J75 de menor potencia debido a retrasos en el desarrollo del motor J58, que era necesario para alcanzar Mach 3,2.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -152,7 +152,7 @@ El primer prototipo, el artículo 121, completó un total de 322 vuelos y 418,2 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

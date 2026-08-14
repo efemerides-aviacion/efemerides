@@ -19,7 +19,7 @@ image: 1965-03-15-primer-amaraje-despegue-albatros-uh-16b.jpg
 <div class="highlight-box">
 <p>El 15 de marzo de 1965, el Grumman UH-16B Albatross matrícula BS-03 de la Fuerza Aérea Argentina realizó el primer y único amaraje y despegue de este tipo de aeronave en la Antártida argentina, en una misión de apoyo vinculada a las operaciones antárticas de la institución. El aparato era el único de los tres Albatros argentinos configurado para operaciones anfibias en condiciones polares, lo que explica el carácter excepcional del hecho dentro del historial del modelo en el servicio argentino. Este episodio se inscribe en la etapa previa a la consolidación de la Base Marambio y en un período en que la Fuerza Aérea Argentina desarrollaba soluciones de enlace, rescate y exploración sobre hielo y superficies no preparadas como parte de su proyección antártica.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 15 de marzo de 1965
@@ -28,7 +28,7 @@ image: 1965-03-15-primer-amaraje-despegue-albatros-uh-16b.jpg
 - **Aeronave/empresa involucrada:** Grumman UH-16B Albatross, matrícula BS-03 (fabricado por Grumman Aircraft Engineering Corporation)
 - **Resultado inmediato:** Primer y único amaraje y despegue exitoso de un Albatross en la Antártida, consolidando la capacidad de la Fuerza Aérea Argentina para operar aeronaves anfibias en condiciones polares extremas
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -72,7 +72,7 @@ El amaraje del BS-03 el 15 de marzo de 1965 permanece como un hito singular en l
 <p><strong>Nota aclaratoria sobre la terminología empleada:</strong> En la bibliografía aeronáutica argentina es posible encontrar el término <strong>"anevizaje"</strong> para describir la operación de posarse y despegar desde una superficie helada, derivado de la combinación de "aterrizaje" y "nieve". Sin embargo, para un público general hispanohablante, el término más comprensible y aceptado es <strong>"amaraje"</strong> (o su variante "amerizaje"), que designa la acción de posarse una aeronave sobre una superficie acuática. Dado que el Grumman UH-16B Albatross era un avión anfibio, diseñado para operar tanto en agua como en tierra, y que la maniobra de 1965 pudo haber tenido lugar sobre agua libre de hielo o sobre hielo (no hay certeza documental unánime), se ha optado por emplear en esta efeméride el término <strong>"amaraje"</strong> por su claridad y generalidad. Queda constancia de que algunas fuentes argentinas especializadas prefieren la voz "anevizaje" para referirse específicamente a este tipo de operaciones en el entorno antártico.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -87,7 +87,7 @@ El amaraje del BS-03 el 15 de marzo de 1965 permanece como un hito singular en l
     <li><a href="https://avionesenargentina.com/primer-y-unico-anevizaje-y-despegue-en-la-antartida-argentina__trashed/">Aviones en Argentina – Primer y único anevizaje y despegue en la Antártida Argentina</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-13 15:45:00 UTC  

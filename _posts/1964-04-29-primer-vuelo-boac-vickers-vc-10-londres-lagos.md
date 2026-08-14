@@ -21,7 +21,7 @@ image: 1964-04-29-primer-vuelo-boac-vickers-vc-10-londres-lagos.webp
 <p>El 29 de abril de 1964, BOAC inauguró el servicio comercial del Vickers VC10 con el vuelo de G-ARVJ desde Londres Heathrow a Lagos, Nigeria, marcando el debut del avión británico en rutas africanas "altas y calientes". Este hito ocurrió días después de obtener el Certificado de Aeronavegabilidad el 23 de abril de 1964. El VC10, con cuatro motores Rolls-Royce Conway, destacaba por su rendimiento en aeropuertos exigentes .</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -35,7 +35,7 @@ image: 1964-04-29-primer-vuelo-boac-vickers-vc-10-londres-lagos.webp
 - **Producción total del VC10:** 54 unidades (1962-1970) 
 - **Unidades BOAC:** 12 VC10 Standard y 17 Super VC10 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -69,7 +69,7 @@ El VC10 fue recibido con entusiasmo en el Reino Unido como un símbolo de la ing
 - **1 de abril de 1965:** Entrada en servicio del Super VC10 
 - **30 de septiembre de 2013:** Retiro del último VC10 del servicio activo de la RAF 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El VC10: diseño y características
 
@@ -94,7 +94,7 @@ Durante las pruebas de vuelo, se descubrió que la resistencia aerodinámica del
 
 El Super VC10 era una versión de fuselaje alargado (13 pies o 3,96 metros más largo) y mayor alcance. Estaba propulsado por motores Conway RCo.43 más potentes y tenía un depósito de combustible adicional en el estabilizador vertical. Voló por primera vez el 7 de mayo de 1964 y entró en servicio en abril de 1965 .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El vuelo inaugural a Lagos
 
@@ -108,7 +108,7 @@ El avión, bautizado por BOAC como "Swift, Silent, Serene", ofrecía a los pasaj
 
 Al día siguiente del vuelo inaugural, el 30 de abril de 1964, Nigeria Airways inició servicios con un VC10 alquilado de BOAC. Aunque Nigeria Airways había planeado comprar sus propios VC10, problemas financieros le impidieron hacerlo, optando por el alquiler de aviones de BOAC .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -120,7 +120,7 @@ Al día siguiente del vuelo inaugural, el 30 de abril de 1964, Nigeria Airways i
 
 - **Uso militar prolongado:** Aunque BOAC retiró el VC10 en 1981, la Real Fuerza Aérea Británica (RAF) continuó operando versiones de transporte y reabastecimiento en vuelo (VC10 C.1 y K.2, K.3, K.4) hasta el 20 de septiembre de 2013 .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -142,7 +142,7 @@ El 20 de septiembre de 2013, la RAF retiró el último VC10 en servicio activo, 
 <p><strong>Sobre el nombre "Golden Speedbird":</strong> La librea "Golden Speedbird" era el esquema de pintura característico de BOAC en la década de 1960, que presentaba un pájaro dorado estilizado en el fuselaje.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -157,7 +157,7 @@ El 20 de septiembre de 2013, la RAF retiró el último VC10 en servicio activo, 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

@@ -21,7 +21,7 @@ image: 1960-05-01-lockheed-u2-derribado-por-misil-de-urss.webp
 <p>El 1 de mayo de 1960, el U-2C de la CIA pilotado por Francis Gary Powers fue derribado por un misil S-75 soviético cerca de Sverdlovsk (URSS) durante una misión de reconocimiento sobre sitios de misiles ICBM. Powers se eyectó y fue capturado; Estados Unidos intentó encubrirlo como vuelo meteorológico de la NASA, pero Jrushchov expuso los restos y al piloto vivo. El incidente canceló la Cumbre de París y tensó la Guerra Fría, acelerando el desarrollo del SR-71 y los satélites espía.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -39,7 +39,7 @@ image: 1960-05-01-lockheed-u2-derribado-por-misil-de-urss.webp
 - **Sentencia:** 10 años de prisión (3 años de cárcel, 7 años de trabajos forzados) 
 - **Liberación:** 10 de febrero de 1962, intercambiado por el espía soviético Rudolf Abel en el Puente Glienicke
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -71,7 +71,7 @@ La propaganda jugó un papel crucial en este incidente. Jrushchov manejó la inf
 - **19 de agosto de 1960:** Powers es sentenciado a 10 años de prisión (3 años de cárcel, 7 años de trabajos forzados) 
 - **10 de febrero de 1962:** Powers y el espía soviético Rudolf Abel son intercambiados en el Puente Glienicke (Berlín) 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La misión: Operation Grand Slam
 
@@ -85,7 +85,7 @@ La ruta discurría sobre el mar de Aral, la región de Semipalatinsk (centro de 
 
 Los soviéticos habían detectado vuelos de U-2 anteriores y estaban decididos a detener este a cualquier costo. Unidades de defensa aérea en Asia Central, Kazajistán, Siberia y los Urales fueron puestas en alerta roja. Se desplegaron cazas MiG-19, y los nuevos misiles tierra-aire S-75 Dvina se posicionaron estratégicamente. El teniente general Yevgueny Savitsky ordenó a los comandantes de las unidades aéreas que atacaran la aeronave intrusa "por todos los medios" y la embistieran si fuera necesario.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El derribo: el avión que cayó del cielo
 
@@ -107,7 +107,7 @@ El centro de comando de misiles tardó más de 30 minutos en confirmar que el U-
 
 Powers llevaba consigo una pequeña carga explosiva diseñada para destruir la cámara del avión en caso de ser derribado. Sin embargo, en la confusión y el pánico de la eyección, no logró activarla. Los restos del U-2, incluyendo su cámara de alta resolución y la mayor parte del equipo de vigilancia, cayeron prácticamente intactos en territorio soviético. También llevaba una moneda de un dólar de plata modificada que escondía una aguja impregnada con saxitoxina (derivada de mariscos) para suicidarse; Powers no la usó.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El encubrimiento y la mentira
 
@@ -125,7 +125,7 @@ Jrushchov, que había estado planeando su movimiento desde el momento de la capt
 
 El 11 de mayo, Eisenhower asumió la responsabilidad personal por los vuelos de espionaje. Admitió públicamente la existencia del programa U-2, pero justificó la necesidad de espiar a la Unión Soviética para "evitar otro Pearl Harbor". Anunció la suspensión de nuevos vuelos sobre la URSS, pero no cumplió las exigencias de Jrushchov de disculparse y castigar a los responsables.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La Cumbre de París: el fracaso del desarme
 
@@ -139,7 +139,7 @@ Jrushchov llegó a París exigiendo una disculpa pública de Estados Unidos por 
 
 De Gaulle sugirió una reunión privada para resolver la situación, pero Jrushchov la rechazó. El 17 de mayo, la cumbre fue oficialmente cancelada. Eisenhower nunca visitaría la Unión Soviética, y el sueño de la distensión en 1960 se desvaneció. La relación entre Estados Unidos y la Unión Soviética se deterioró aún más, intensificando las tensiones de la Guerra Fría.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El juicio y el canje de espías
 
@@ -149,7 +149,7 @@ Powers fue juzgado en Moscú en agosto de 1960. Se declaró culpable de espionaj
 
 El 10 de febrero de 1962, Powers y el espía soviético Rudolf Abel, que había sido condenado en Estados Unidos, fueron intercambiados en el Puente Glienicke, el famoso "Puente de los Espías" que unía Berlín Occidental con Potsdam.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -159,7 +159,7 @@ El 10 de febrero de 1962, Powers y el espía soviético Rudolf Abel, que había 
 - **Aceleración de los satélites espía:** La necesidad de obtener inteligencia sobre la URSS sin violar su espacio aéreo impulsó el desarrollo de satélites de reconocimiento como el programa Corona (Keyhole).
 - **Desarrollo del SR-71 Blackbird:** Los militares estadounidenses aceleraron un programa para construir un avión de reconocimiento supersónico que volara aún más alto y más rápido, capaz de evadir tanto cazas como misiles. Este programa condujo al desarrollo del Lockheed A-12 y, posteriormente, al SR-71 Blackbird.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -178,7 +178,7 @@ Los restos del U-2 que Powers pilotaba se exhiben hoy en el Museo Central de la 
 <p><strong>Sobre la autodestrucción:</strong> La carga explosiva que Powers llevaba no estaba diseñada para destruir todo el avión, sino únicamente para inutilizar la cámara fotográfica. Incluso si Powers la hubiera activado, el equipo de vigilancia habría quedado parcialmente intacto.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -194,7 +194,7 @@ Los restos del U-2 que Powers pilotaba se exhiben hoy en el Museo Central de la 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

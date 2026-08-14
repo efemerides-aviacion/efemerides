@@ -19,7 +19,7 @@ image: 1959-03-10-primer-vuelo-northrop-t-38.jpg
 <div class="highlight-box">
 <p>El 10 de marzo de 1959, el prototipo YT-38 realizó el primer vuelo del Northrop T-38 Talon, convirtiéndose en el primer entrenador supersónico del mundo. Desarrollado a partir del proyecto privado N-156, su diseño innovador y bajo costo de ciclo de vida convencieron a la USAF, que lo adoptó en 1961. Con más de 1.180 unidades producidas, ha entrenado a más de 80.000 pilotos militares y astronautas de la NASA durante más de seis décadas, estableciendo récords de ascenso y ganándose el apodo de "White Rocket". Su longevidad y éxito lo consolidan como un hito fundamental en la historia de la aviación y, actualmente, está en proceso de relevo por el T-7 Red Hawk.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 10 de marzo de 1959 [VERIFICADO con discrepancia documentada; ver nota aclaratoria]
@@ -28,7 +28,7 @@ image: 1959-03-10-primer-vuelo-northrop-t-38.jpg
 - **Aeronave/empresa involucrada:** Northrop Corporation / Prototipo YT-38 (designación de fábrica N-156T), matrícula USAF 58-1191
 - **Resultado inmediato:**  Éxito del vuelo inaugural, validando el diseño del primer entrenador supersónico del mundo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 A mediados de la década de 1950, la Guerra Fría había entrado en una fase de intensa competencia tecnológica. La aviación militar experimentaba una transición acelerada hacia la era supersónica, con cazas como el F-100 Super Sabre y el F-104 Starfighter estableciendo nuevos estándares de velocidad y rendimiento. Esta evolución creó una necesidad urgente: formar a las nuevas generaciones de pilotos en aeronaves que pudieran prepararlos adecuadamente para operar los complejos y veloces cazas de primera línea.
@@ -75,7 +75,7 @@ El T-38 Talon ostenta varios títulos que aseguran su lugar en la historia:
 
 En la actualidad, el T-38 está siendo reemplazado gradualmente por el Boeing-Saab T-7 Red Hawk. El programa T-7A sufrió retrasos técnicos que pospusieron su entrada en servicio, pero la USAF recibió sus primeros cinco aviones operativos en enero de 2026. Se espera que alcance su Capacidad Operativa Inicial (IOC) en 2027 y que los primeros pilotos comiencen su entrenamiento en el nuevo reactor en 2028, reemplazando definitivamente al T-38 en las próximas décadas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -89,7 +89,7 @@ En la actualidad, el T-38 está siendo reemplazado gradualmente por el Boeing-Sa
     <li><a href="https://gl.wikipedia.org/wiki/Northrop_T-38_Talon">Wikipedia (GL) – Northrop T-38 Talon</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Nota Aclaratoria
 <div class="note-box">

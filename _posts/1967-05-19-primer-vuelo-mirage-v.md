@@ -19,7 +19,7 @@ image: 1967-05-19-primer-vuelo-mirage-v.webp
 <div class="highlight-box">
 <p>El 19 de mayo de 1967, el Dassault Mirage V (a veces denominado Mirage 5) realizó su vuelo inaugural desde la base aérea de Melun-Villaroche, en Francia. Este avión supersónico de ataque a tierra fue concebido como una versión simplificada y más económica del exitoso Mirage III, desarrollada específicamente para satisfacer las necesidades de la Fuerza Aérea de Israel (IAF), que requería un cazabombardero diurno optimizado para el clima despejado de Oriente Medio. La eliminación del radar y otros sistemas de aviónica complejos permitió aumentar la capacidad de combustible y reducir costes de mantenimiento. El embargo de los 50 ejemplares encargados por Israel a causa de la Guerra de los Seis Días llevó a que la Fuerza Aérea Francesa los adoptara como Mirage 5F, iniciando una prolífica carrera que lo convertiría en un éxito de exportación en todo el mundo.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha del primer vuelo:** 19 de mayo de 1967
@@ -32,7 +32,7 @@ image: 1967-05-19-primer-vuelo-mirage-v.webp
 - **Rendimiento:** Velocidad máxima de Mach 2,2 (2.350 km/h) y techo de servicio de 17.000 metros 
 - **Éxito de producción:** 532 unidades construidas por Dassault (excluyendo derivados como el IAI Nesher), operado por 11 países 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -72,7 +72,7 @@ El primer vuelo del Mirage V el 19 de mayo de 1967 es más que un simple hito en
   <p><strong>Nota aclaratoria:</strong> Esta efeméride no incluye el nombre del piloto de pruebas en la sección "Datos verificados del evento" debido a que no se pudo confirmar fehacientemente quién realizó el primer vuelo. La documentación oficial de Dassault Aviation atribuye el vuelo a Hervé Leprince-Ringuet, pero el archivo histórico del fabricante carece de una declaración explícita al respecto. Otras fuentes mencionan a Jean-Marie Saget, quien fue jefe de pilotos de pruebas de Dassault y participó en los ensayos de todos los aviones de combate de la compañía. Ante la ausencia de confirmación concluyente, se ha optado por omitir el nombre del piloto, aplicando el principio editorial de que la omisión es preferible a la inclusión de un dato no verificado.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -84,7 +84,7 @@ El primer vuelo del Mirage V el 19 de mayo de 1967 es más que un simple hito en
     <li><a href="https://military-history.fandom.com/wiki/Dassault_Mirage_5">Military Wiki – Dassault Mirage 5</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-05-16 10:30:00 UTC

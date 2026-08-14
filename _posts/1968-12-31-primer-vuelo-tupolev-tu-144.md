@@ -21,7 +21,7 @@ image: 1968-12-31-primer-vuelo-tupolev-tu-144.webp
     </p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 31 de diciembre de 1968  
 - **Lugar:** Aeródromo cerca de Moscú, URSS  
@@ -29,7 +29,7 @@ image: 1968-12-31-primer-vuelo-tupolev-tu-144.webp
 - **Aeronave/empresa involucrada:** **Tupolev Tu‑144**; **Aeroflot** como operador comercial  
 - **Resultado inmediato:** **Primer avión supersónico comercial del mundo**; apodo “Konkordski” en Occidente  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El Tupolev Tu‑144 emergió como proyecto de prestigio nacional en plena Guerra Fría. Aunque demostró la viabilidad del transporte supersónico, enfrentó retos de seguridad, consumo y confiabilidad que limitaron su servicio comercial.
 
@@ -57,7 +57,7 @@ El Tu‑144 demostró la viabilidad técnica de un avión supersónico comercial
 Hoy se conservan varios Tu‑144 en museos de Rusia y Alemania. Es recordado como el primer avión supersónico comercial, aunque su carrera fue breve y accidentada.
 .  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -67,7 +67,7 @@ Hoy se conservan varios Tu‑144 en museos de Rusia y Alemania. Es recordado com
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-30 10:10 CST  
 - **Fuentes primarias consultadas:** Wikipedia; History.com; Vintage Aviation News  

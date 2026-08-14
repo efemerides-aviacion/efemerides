@@ -19,7 +19,7 @@ image: 1967-04-09-primer-vuelo-prototipo-boeing-737.webp
 <div class="highlight-box">
 <p>El 9 de abril de 1967, el prototipo del Boeing 737, matrícula N73700, despegó del Aeropuerto King County International (Boeing Field) en Seattle, Washington. A los mandos estaban los pilotos de pruebas Brien Wygle y Lew Wallick, realizando un vuelo de aproximadamente dos horas y media que culminó en Paine Field, Everett. El aparato, apodado cariñosamente «Baby Boeing», representó la entrada de la compañía en el mercado de los reactores bimotores de corto y medio alcance, un segmento donde competidores como Douglas con su DC-9 ya llevaban ventaja. Con este vuelo comenzó la historia de la familia de aviones de pasajeros más exitosa y longeva de la industria aeronáutica.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -34,7 +34,7 @@ image: 1967-04-09-primer-vuelo-prototipo-boeing-737.webp
 - **Entrada en servicio comercial:** 10 de febrero de 1968 con Lufthansa
 - **Unidades construidas del -100:** 30 ejemplares (incluyendo el prototipo)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -75,7 +75,7 @@ El 737 recibió rápidamente el apodo de «Baby Boeing». Su diseño rechoncho (
 
 El primer vuelo del Boeing 737 el 9 de abril de 1967 marcó el nacimiento del «caballo de batalla» de la aviación comercial moderna. Más de 11.000 unidades han sido entregadas a lo largo de más de 55 años de producción continua, con miles más en pedido. El prototipo N73700, restaurado, se exhibe actualmente en el Museo de Vuelo de Seattle como testimonio del proyecto más exitoso de la historia aeronáutica. El 737 no solo transformó a Boeing, sino que democratizó el vuelo, conectando ciudades pequeñas y grandes con una eficiencia y fiabilidad inigualables.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -93,7 +93,7 @@ El primer vuelo del Boeing 737 el 9 de abril de 1967 marcó el nacimiento del «
 <p><strong>Nota aclaratoria:</strong> La hora exacta del despegue no ha podido ser confirmada por fuentes primarias oficiales de Boeing. El dato de las 08:43 horas proviene de fuentes secundarias y se incluye a título contextual.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-06 14:30:00 UTC

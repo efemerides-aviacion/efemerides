@@ -14,14 +14,14 @@ image: 1962-02-12-hallazgo-restos-bill-lancaster.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1962-02-12-hallazgo-restos-bill-lancaster.jpg" alt="Bill Lancaster frente a su avión Southern Cross Minor">
   <figcaption class="post-caption">Bill Lancaster y el Southern Cross Minor; se desconoce la ubicación, pero lo más probable es que fuera en Lympne antes de su último vuelo. (Archivo Nacional de Australia). Fuente: <a href="https://airscapemag.com/2016/04/15/bill-lancaster/">Airscape Magazine – Anomaly on the horizon</a></figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 12 de febrero de 1962, una patrulla motorizada del ejército francés halló en el desierto de Tanezrouft (Argelia) el cuerpo momificado del aviador Bill Lancaster y los restos del Avro Avian IV "Southern Cross Minor", desaparecido desde 1933 durante un intento de récord Londres–Ciudad del Cabo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Datos verificados del evento
 - **Fecha:** 12 de febrero de 1962 [VERIFICADO]  
 - **Lugar:** Desierto de Tanezrouft, Argelia [VERIFICADO]  
@@ -29,7 +29,7 @@ image: 1962-02-12-hallazgo-restos-bill-lancaster.jpg
 - **Aeronave/empresa involucrada:** Avro Avian IV *Southern Cross Minor*, motor de Havilland Gipsy I, 120 hp [VERIFICADO]  
 - **Resultado inmediato:** Hallazgo del cuerpo momificado y restos del avión por el Groupement Saharien Mixte du Touat [VERIFICADO]  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Contexto Histórico
 Bill Lancaster fue un pionero de la aviación de larga distancia en los años 20 y 30, célebre por su vuelo Inglaterra–Australia en 1928 junto a Chubbie Miller.  
 En abril de 1933 intentó batir el récord Londres–Ciudad del Cabo, pero se estrelló en el Sahara. Sobrevivió ocho días, dejando un diario de 41 páginas antes de morir de deshidratación.  
@@ -56,7 +56,7 @@ El hallazgo en 1962 cerró uno de los misterios más notorios de la aviación te
 ### Legado
 Hoy se recuerda a Bill Lancaster como símbolo de los riesgos de la aviación pionera y de la pasión por los récords de distancia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -71,7 +71,7 @@ Hoy se recuerda a Bill Lancaster como símbolo de los riesgos de la aviación pi
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-02-11 18:00 UTC  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES/PT), HistoryNet, Acami, Airscape, AOPA  
