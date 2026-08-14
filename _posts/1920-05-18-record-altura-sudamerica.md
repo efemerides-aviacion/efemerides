@@ -20,7 +20,7 @@ image: 1920-05-18-record-altura-sudamerica.webp
 
 El 18 de mayo de 1920, el Teniente Coronel Donald Hudson, as de la aviación estadounidense durante la Primera Guerra Mundial, estableció un récord sudamericano de altura al sobrevolar el nevado Illimani (6.463 metros sobre el nivel del mar) a bordo de un Curtiss 18T-2 Wasp, un triplano bimotor adquirido por el gobierno boliviano para fundar su Escuela Militar de Aviación. La aeronave alcanzó aproximadamente 9.000 metros de altitud, superando en más de 2.000 metros la cumbre más alta de la cordillera Real. Esta hazaña, realizada sin previo aviso, demostró que la aviación era posible en las extremas condiciones atmosféricas del altiplano boliviano.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ El 18 de mayo de 1920, el Teniente Coronel Donald Hudson, as de la aviación est
 - **Antecedente (primer vuelo en Bolivia):** 17 de abril de 1920, desde El Alto
 - **Naturaleza del vuelo:** Demostración de capacidades del avión sin previo aviso
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del Curtiss 18T-2 Wasp
 
@@ -54,7 +54,7 @@ El Curtiss 18T fue diseñado originalmente como un caza triplano biplaza para la
 - **Récord de altitud mundial (18 de septiembre de 1919):** 10.640 m (34.910 pies)
 - **Apodo:** "Wasp" por el zumbido del motor en aproximación de aterrizaje
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -70,7 +70,7 @@ El avión llegó desarmado en cajones a Chile y fue transportado por ferrocarril
 
 El 17 de abril de 1920, aproximadamente a las 17:15 horas, Hudson y Albaugh realizaron el primer vuelo oficial en la historia de Bolivia. Despegaron desde El Alto y sobrevolaron La Paz durante varios minutos, ondeando la bandera tricolor boliviana. La población, atónita, presenció el histórico evento.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El récord del 18 de mayo de 1920
 
@@ -80,7 +80,7 @@ El triplano se elevó hasta aproximadamente 9.000 metros de altitud, sobrepasand
 
 El investigador Roberto Subauste explicó que este vuelo formaba parte de un programa establecido de sobrevuelos para demostrar las capacidades del avión, "como una demostración de superioridad de la adquisición hecha por el gobierno, y para no mermar el entusiasmo de que Bolivia tendría su Escuela Militar de Aviación".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -92,7 +92,7 @@ El investigador Roberto Subauste explicó que este vuelo formaba parte de un pro
 - **1920-1921:** En un vuelo entre Oruro y La Paz, Hudson estrella el Wasp cerca de Sica Sica. El avión queda destruido.
 - **1923:** Se funda finalmente la Escuela Militar de Aviación de Bolivia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Donald Hudson: el piloto récord
 
@@ -102,7 +102,7 @@ Terminada la guerra, fue contratado por el gobierno boliviano como instructor y 
 
 Su hazaña del 18 de mayo de 1920 lo consagró como un pionero de la aviación sudamericana. Tras el accidente que destruyó el Wasp, fue investigado por las autoridades bolivianas. Falleció el 11 de junio de 1967 en Fort Meade, Maryland.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El Wasp: el único triplano en Sudamérica
 
@@ -110,7 +110,7 @@ El Curtiss 18T-2 Wasp fue el primer avión en cruzar la cordillera de los Andes 
 
 El "Wasp" (Avispa) recibió su nombre por el característico zumbido que emitía su motor Curtiss-Kirkham K-12 durante la aproximación de aterrizaje, un sonido que se hizo familiar para los paceños en 1920.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -119,7 +119,7 @@ El "Wasp" (Avispa) recibió su nombre por el característico zumbido que emitía
 - **Precedente para la Escuela Militar de Aviación:** Aunque el proyecto original fracasó tras la destrucción del Wasp y la caída del gobierno de Gutiérrez Guerra, la hazaña mantuvo vivo el entusiasmo por la creación de una fuerza aérea boliviana, que finalmente se materializó en 1923.
 - **Legado del Wasp:** Hasta el día de hoy, el Curtiss 18T-2 Wasp sigue siendo el único triplano que voló en Sudamérica.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -136,7 +136,7 @@ Hoy, la Fuerza Aérea Boliviana (FAB) conmemora cada 17 de abril el primer vuelo
 <p><strong>Sobre el rango de Hudson:</strong> En las fuentes bolivianas se le menciona como "Teniente Coronel", rango que le fue otorgado por el gobierno boliviano. En fuentes estadounidenses se le menciona como "lieutenant".</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -150,7 +150,7 @@ Hoy, la Fuerza Aérea Boliviana (FAB) conmemora cada 17 de abril el primer vuelo
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

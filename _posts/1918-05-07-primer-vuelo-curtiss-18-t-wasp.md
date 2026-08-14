@@ -21,7 +21,7 @@ image: 1918-05-07-primer-vuelo-curtiss-18-t-wasp.webp
 <p>El Curtiss 18T Wasp realizó su primer vuelo el 7 de mayo de 1918. Fue un caza biplaza triplano diseñado para la U.S. Navy por Curtiss, con énfasis en la velocidad y el escolta de bombarderos. Aunque no entró en producción, el modelo destacó por su rendimiento y por establecer un récord de velocidad en agosto de 1918, alcanzando 163 mph (262 km/h) con carga militar completa.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -36,7 +36,7 @@ image: 1918-05-07-primer-vuelo-curtiss-18-t-wasp.webp
 - **Velocidad máxima registrada (agosto de 1918):** 262 km/h (163 mph) con carga militar completa
 - **Fecha de introducción:** Febrero de 1919
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones (Curtiss 18T-1 Wasp)
 
@@ -60,7 +60,7 @@ El Curtiss 18T-1 Wasp presentaba un diseño extremadamente limpio y aerodinámic
   - 2 × ametralladoras Lewis de 7,62 mm (0,300 in) en anillo Scarff para el observador trasero
   - 1 × ametralladora Lewis adicional disparando a través de una abertura en el vientre del fuselaje
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -91,7 +91,7 @@ En 1918, la industria aeronáutica estadounidense aún estaba en desarrollo. La 
 - **1922:** Un 18T-2 casi gana la Curtiss Marine Trophy Race, pero el piloto (teniente Sanderson) se quedó sin combustible cerca de la línea de meta.
 - **1920:** Un Curtiss 18T (posiblemente el 18T-2 o una variante similar) es enviado a Bolivia, donde operó durante varios años.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Variantes
 
@@ -99,7 +99,7 @@ En 1918, la industria aeronáutica estadounidense aún estaba en desarrollo. La 
 - **Model 18T-2:** Versión mejorada con alas de dos vanos (con dos pares de montantes por lado, mayor envergadura). Las alas estaban ligeramente retrasadas (swept back). El fuselaje era 1,5 m (5 pies) más largo. Potencia adicional de 50 hp, aunque el techo de servicio era 610 m (2.000 pies) más bajo.
 - **Model 18B (Hornet):** Versión biplano del mismo concepto. El único prototipo volante (USAAS 40058, 'P-86') se estrelló durante las pruebas en McCook Field en el verano de 1919. Se entregó un segundo prototipo no volante para pruebas estáticas. No entró en producción.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Operadores
 
@@ -109,7 +109,7 @@ El Curtiss 18T fue utilizado principalmente como banco de pruebas y en competici
 - **Bolivia (Fuerza Aérea de Bolivia):** Un Curtiss 18T operó en Bolivia a partir de 1920, siendo durante un tiempo el avión más rápido de ese país.
 - **Estados Unidos (competiciones aéreas):** Un 18T-2 participó en la Curtiss Marine Trophy Race de 1922, casi ganando la carrera.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -118,7 +118,7 @@ El Curtiss 18T fue utilizado principalmente como banco de pruebas y en competici
 - **Precursor de récords de posguerra:** El 18T-2 compitió en carreras aéreas en 1922, casi ganando la Curtiss Marine Trophy Race.
 - **Uso internacional (Bolivia):** La venta de un Curtiss 18T a Bolivia (uno de los primeros aviones de ese país) representa un ejemplo temprano de exportación de aeronaves estadounidenses a América Latina.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -137,7 +137,7 @@ El ejemplar enviado a Bolivia en 1920, hoy considerado por los aficionados boliv
 <p><strong>Sobre el 18B Hornet:</strong> La versión biplano del 18T, conocida como 18B "Hornet", fue evaluada por el Servicio Aéreo del Ejército de los EE. UU. (USAAS) como 'P-86'. El único prototipo volante se estrelló en McCook Field en el verano de 1919, y el programa fue cancelado.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -149,7 +149,7 @@ El ejemplar enviado a Bolivia en 1920, hoy considerado por los aficionados boliv
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

@@ -20,7 +20,7 @@ image: 1926-05-12-primer-vuelo-verificado-dirigible-polo-norte.webp
 
 El 12 de mayo de 1926, el dirigible Norge sobrevoló el Polo Norte en una travesía histórica entre Svalbard y Alaska. Fue una expedición internacional liderada por Roald Amundsen, con Umberto Nobile como piloto y diseñador de la aeronave. El vuelo es considerado el primer cruce aéreo verificado del Polo Norte en dirigible, marcando un hito en la exploración polar y demostrando el potencial de los dirigibles para la navegación en condiciones extremas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -39,7 +39,7 @@ El 12 de mayo de 1926, el dirigible Norge sobrevoló el Polo Norte en una traves
 - **Motores:** 3 × Maybach Mb.IV de 6 cilindros, 190 kW (260 hp) cada uno
 - **Velocidad máxima:** 115 km/h
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del Norge
 
@@ -59,7 +59,7 @@ El Norge fue el primer dirigible semirrígido de la clase N diseñado y construi
 - **Velocidad máxima:** 115 km/h (71 mph, 62 nudos)
 - **Alcance:** Aproximadamente 5.000 km
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La tripulación del Norge
 
@@ -82,7 +82,7 @@ La expedición contó con 16 hombres a bordo, incluyendo a los tres líderes y u
 
 A bordo viajaba también **Titina**, el pequeño perro fox terrier de Nobile, quien se convirtió en la primera mascota en sobrevolar el Polo Norte.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -100,7 +100,7 @@ Nobile modificó su dirigible N-1 para adaptarlo a las condiciones extremas del 
 
 En Ny-Ålesund, Nobile se encontró con Richard Evelyn Byrd, que preparaba su avión Fokker F.VII para intentar alcanzar el Polo Norte. Byrd despegó el 9 de mayo y regresó 16 horas después, afirmando haber sobrevolado el polo. Décadas más tarde, el diario de vuelo de Byrd reveló que las pruebas indicaban que no había alcanzado el objetivo, desacreditando su reclamación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El vuelo sobre el Polo Norte
 
@@ -120,7 +120,7 @@ Las comunicaciones por radio se interrumpieron durante el vuelo, y la tripulaci�
 
 El 14 de mayo, debido al empeoramiento del tiempo, la aeronave aterrizó en Teller, Alaska, en lugar de continuar hasta Nome como estaba previsto. El Norge había completado así la primera travesía aérea verificada del Polo Norte y se convertía en el primer aparato volador en realizar un trayecto entre Europa y América sobre el hielo polar.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -137,7 +137,7 @@ El 14 de mayo, debido al empeoramiento del tiempo, la aeronave aterrizó en Tell
 - **1928:** Nobile lidera una segunda expedición polar con el dirigible Italia, que termina en un trágico accidente
 - **2000s:** Investigaciones posteriores demuestran que la reclamación de Byrd sobre el Polo Norte era fraudulenta, consolidando al Norge como el primer vuelo verificado
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La controversia con Amundsen
 
@@ -145,7 +145,7 @@ Tras el éxito de la expedición, surgió una disputa entre Nobile y Amundsen so
 
 Amundsen, que esperaba ser el principal protagonista de la hazaña, se sintió menospreciado. La relación entre ambos se deterioró hasta el punto de la ruptura total. Sin embargo, en 1928, cuando el dirigible Italia de Nobile se estrelló en el Ártico, Amundsen no dudó en unirse a la misión de rescate, perdiendo la vida en el intento.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -155,7 +155,7 @@ Amundsen, que esperaba ser el principal protagonista de la hazaña, se sintió m
 - **Innovación tecnológica:** El vuelo demostró el potencial de los dirigibles para misiones de larga distancia en condiciones extremas.
 - **Legado polar:** La experiencia del Norge sentó las bases para la posterior exploración aérea del Ártico, aunque el trágico final de la expedición del Italia en 1928 frenó el desarrollo de los dirigibles polares.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -173,7 +173,7 @@ Umberto Nobile falleció en Roma el 30 de julio de 1978 a la edad de 93 años. R
 <p><strong>Sobre el perro Titina:</strong> La mascota de Nobile, un fox terrier, acompañó a la tripulación en la histórica travesía y sobrevivió al viaje. Titina se convirtió en una celebridad en Italia tras el regreso de la expedición.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -190,7 +190,7 @@ Umberto Nobile falleció en Roma el 30 de julio de 1978 a la edad de 93 años. R
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

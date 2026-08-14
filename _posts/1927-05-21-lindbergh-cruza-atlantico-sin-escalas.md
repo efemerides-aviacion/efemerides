@@ -19,7 +19,7 @@ image: 1927-05-21-lindbergh-cruza-atlantico-sin-escalas.webp
 <div class="highlight-box">
 <p>El 21 de mayo de 1927, Charles Lindbergh completó el primer vuelo en solitario y sin escalas sobre el océano Atlántico. Partió de Roosevelt Field, Nueva York, el 20 de mayo a las 07:52 hora local y aterrizó en el aeropuerto de Le Bourget, París, a las 22:22 del día siguiente. La travesía de 5.810 kilómetros duró 33 horas y 30 minutos. A bordo del <em>Spirit of St. Louis</em>, Lindbergh demostró la viabilidad de la aviación comercial de largo alcance y se convirtió en una de las figuras más célebres del siglo XX.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha de finalización:** 21 de mayo de 1927
@@ -34,7 +34,7 @@ image: 1927-05-21-lindbergh-cruza-atlantico-sin-escalas.webp
 - **Peso al despegue:** 2.380 kg (5.250 libras), aproximadamente el 71% correspondía al combustible
 - **Premio obtenido:** Premio Orteig de 25.000 dólares
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -49,7 +49,7 @@ La tecnología aeronáutica de 1927 estaba en plena transición. Los biplanos de
 ### Entorno cultural
 La figura del «aviador-heroe» dominaba la cultura popular. Sin embargo, la mayoría de los intentos transatlánticos previos habían sido realizados por equipos de dos o tres personas. La idea de un piloto solitario, joven y desconocido, que volaba durante más de un día entero sin dormir, luchando contra el sueño, el frío y el hielo, añadió un componente épico e individualista que cautivó al mundo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico del Vuelo
 
@@ -63,7 +63,7 @@ La figura del «aviador-heroe» dominaba la cultura popular. Sin embargo, la may
 - **21 de mayo, 22:22 (hora local de París):** Aterriza en Le Bourget. La multitud estimada en más de 100.000 personas irrumpe en la pista y lo vitorea. El vuelo duró 33 horas y 30 minutos.
 - **Después del aterrizaje:** Lindbergh es recibido por el embajador de Estados Unidos y posteriormente por el presidente francés. Viaja a Bruselas y Londres antes de regresar a Estados Unidos, donde una flota de buques de guerra lo escolta hasta Washington D. C.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -72,7 +72,7 @@ La figura del «aviador-heroe» dominaba la cultura popular. Sin embargo, la may
 - **Revolución en el diseño aeronáutico:** El éxito del monoplano de ala alta y un solo motor influyó en generaciones posteriores de aviones comerciales y de récord. La fiabilidad del motor radial Whirlwind se convirtió en un estándar.
 - **Inicio de la era de la aviación moderna:** El vuelo de Lindbergh abrió la puerta a las rutas transoceánicas regulares. Poco después, Amelia Earhart y otros pioneros realizarían sus propias gestas, y en 1939 se inauguraría el primer servicio transatlántico regular de pasajeros.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -82,7 +82,7 @@ La figura del «aviador-heroe» dominaba la cultura popular. Sin embargo, la may
 
 <p>Su vuelo sigue siendo el estándar contra el que se miden los récords de resistencia y distancia en solitario. Cada 21 de mayo se conmemora este hito en la historia de la aviación, un vuelo que transformó para siempre la percepción de la distancia y la conexión entre continentes.</p>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -99,7 +99,7 @@ La figura del «aviador-heroe» dominaba la cultura popular. Sin embargo, la may
   <p><strong>Nota aclaratoria:</strong> Existe una discrepancia menor entre fuentes sobre la distancia exacta del vuelo (entre 5.800 y 5.810 km) y las horas de salida/aterrizaje debido a la diferencia horaria entre Nueva York y París y a los métodos de medición de la época. Las cifras presentadas (5.810 km, salida 07:52 NY, llegada 22:22 París) son las más aceptadas por los historiadores aeronáuticos y coinciden con los registros del Smithsonian.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-05-18 11:45:00 UTC

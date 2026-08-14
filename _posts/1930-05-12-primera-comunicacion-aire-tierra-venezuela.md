@@ -20,7 +20,7 @@ image: 1930-05-12-primera-comunicacion-aire-tierra-venezuela.webp
 
 El 12 de mayo de 1930 se realizó en Venezuela la primera comunicación aire-tierra de la Aviación Militar, entre un avión Breguet 19 Nro. 2 y estaciones de comunicaciones en tierra. El episodio marcó un avance importante en la integración entre vuelo y radiotelegrafía militar. La operación se desarrolló en Maracay y quedó vinculada al impulso técnico de Cecilio Arturo Beaujon, quien diseñó los planes de estudio de la reactivada Escuela de Radiotelegrafía Militar y lideró la construcción de las estaciones terrenas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -34,7 +34,7 @@ El 12 de mayo de 1930 se realizó en Venezuela la primera comunicación aire-tie
 - **Contexto institucional:** Reactivación de la Escuela de Radiotelegrafía Militar, fundada originalmente en 1917
 - **Autorización:** Oficio Nro. 471 del 24 de octubre de 1929 del Coronel David López Henríquez al General Juan Vicente Gómez
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -54,7 +54,7 @@ Tal situación motivó al Coronel David López Henríquez, Director de la Escuel
 
 Para lograr los fines, se contrató al Ingeniero de Comunicaciones Cecilio Arturo Beaujon, quien preparó los planes de estudio e inició la construcción de estaciones de tierra y equipos aéreos, instalando en los hangares un taller y comenzando él personalmente a dictar las clases. También en el taller se prestaban servicios a la Marina, tomando a su cargo la construcción e instalación de facilidades en las unidades navales.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El vuelo del 12 de mayo de 1930
 
@@ -74,7 +74,7 @@ Guillermo Pacanins relató en su libro la experiencia de aquel vuelo histórico:
 
 A pesar del contratiempo técnico (la pérdida de la antena durante las maniobras acrobáticas de Marcano), la comunicación se consideró un éxito. Demostró la viabilidad de integrar la radiotelegrafía en las operaciones aéreas militares, sentando las bases para el control y asistencia de vuelos que tanto necesitaba la aviación nacional.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -88,7 +88,7 @@ A pesar del contratiempo técnico (la pérdida de la antena durante las maniobra
 - **1937-1940:** Pacanins se desempeña como Director de la Escuela de Aviación Militar
 - **Julio de 1997:** ESCOELFA bautiza el Curso de Formación de Suboficiales Nro. 24 con el nombre de Cecilio Arturo Beaujon
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Los protagonistas
 
@@ -110,7 +110,7 @@ En el ámbito político, fue Gobernador del Distrito Federal entre 1950 y 1958 y
 
 Ingeniero de comunicaciones contratado para reactivar la Escuela de Radiotelegrafía Militar. Fue el responsable de los planes de estudio, la construcción de las estaciones de tierra y los equipos aéreos, y la operación de la estación móvil en El Trompillo. La Escuela de Comunicaciones y Electrónica de la Fuerza Armada (ESCOELFA) lo reconoce como su segundo Director Histórico. La Insignia al Instructor Académico lleva su nombre, y el Curso de Formación de Suboficiales Profesionales de Carrera Nro. 24, egresado en julio de 1997, fue bautizado en su honor.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -119,7 +119,7 @@ Ingeniero de comunicaciones contratado para reactivar la Escuela de Radiotelegra
 - **Precedente institucional:** La experiencia adquirida sentó las bases para el desarrollo posterior de los sistemas de comunicaciones en la Fuerza Aérea Venezolana.
 - **Legado en ESCOELFA:** La actual Escuela de Comunicaciones y Electrónica de la Fuerza Armada es la heredera directa de aquella primera escuela, manteniendo viva la tradición iniciada en 1917 y consolidada en 1930 con la gestión de Beaujon.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -137,7 +137,7 @@ La Escuela de Radiotelegrafía Militar evolucionó hasta convertirse en la actua
 <p><strong>Sobre el testimonio de Pacanins:</strong> El relato de Pacanins sobre la interrupción de la comunicación por la pérdida de la antena durante las maniobras acrobáticas es una anécdota clave que humaniza el evento y refleja el espíritu pionero de aquellos aviadores.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -150,7 +150,7 @@ La Escuela de Radiotelegrafía Militar evolucionó hasta convertirse en la actua
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

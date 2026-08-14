@@ -19,7 +19,7 @@ image: 1931-04-08-amelia-earhart-autogiro-record-altitud.webp
 <div class="highlight-box">
 <p>El 8 de abril de 1931, Amelia Earhart estableció un récord mundial femenino de altitud en autogiro al alcanzar 18,415 pies (5,615 m) a bordo de un Pitcairn PCA-2. El vuelo despegó desde el campo de la Pitcairn-Cierva Autogiro Company en Bryn Athyn, Pensilvania, con Harold Pitcairn como anfitrión. La hazaña formaba parte de una campaña publicitaria pagada por la Beech-Nut Corporation, fabricante de chicles y alimentos. El récord fue superado el 25 de septiembre de 1932 por Lewis Yancey en otro PCA-2, alcanzando 21,500 pies (6,600 m).</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos del evento
 
@@ -33,7 +33,7 @@ image: 1931-04-08-amelia-earhart-autogiro-record-altitud.webp
 - **Patrocinador:** Beech-Nut Corporation
 - **Récord superado por:** Lewis Yancey el 25 de septiembre de 1932 (21,500 pies / 6,600 m)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -51,7 +51,7 @@ El Pitcairn PCA-2 fue el primer autogiro en obtener la certificación de tipo en
 
 La década de 1930 fue la era dorada de la aviación y los récords. Figuras como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1902/02/04/nacimiento-charles-lindbergh.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a>, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/07/24/nacimiento-amelia-earhart-pionera-aviacion.html" style="color: #315fea; text-decoration: none;">Amelia Earhart</a> y <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1905/12/24/nacimiento-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes</a> competían por establecer nuevas marcas de distancia, velocidad y altitud. Los autogiros, aunque hoy son poco conocidos, fueron vistos en su momento como una tecnología prometedora que podría revolucionar la aviación personal y comercial.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -65,7 +65,7 @@ La década de 1930 fue la era dorada de la aviación y los récords. Figuras com
 
 - **25 de septiembre de 1932:** Lewis Yancey, también en un Pitcairn PCA-2, establece un nuevo récord de altitud para autogiros al alcanzar 21,500 pies (6,600 m), superando la marca de Earhart.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -77,7 +77,7 @@ La década de 1930 fue la era dorada de la aviación y los récords. Figuras com
 
 - **Legado del PCA-2:** Aunque solo se construyeron entre 20 y 30 unidades, el PCA-2 dejó una huella en la historia de la aviación. Un ejemplar, el "Miss Champion", fue restaurado por Steve Pitcairn (hijo de Harold) en 1982 y donado al EAA AirVenture Museum en 2005. Otros ejemplares se conservan en The Henry Ford Museum y en el Canada Aviation Museum.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -93,7 +93,7 @@ El récord de altitud de Earhart en autogiro es un episodio menos conocido de su
 
 Hoy, el Pitcairn PCA-2 es recordado como el primer autogiro certificado en Estados Unidos y como la aeronave en la que Earhart añadió otro récord a su legendaria carrera.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -116,7 +116,7 @@ Hoy, el Pitcairn PCA-2 es recordado como el primer autogiro certificado en Estad
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

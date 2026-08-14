@@ -21,7 +21,7 @@ image: 1919-05-03-primer-vuelo-comercial-estados-usa-aeromarine.webp
 <p>El 3 de mayo de 1919, el piloto estadounidense Robert Hewitt realizó el primer vuelo comercial con pasajeros entre dos estados de EE. UU.: Nueva York y Nueva Jersey, partiendo desde la costa de Nueva York hacia Atlantic City y de vuelta, con un Aeromarine Model 50 "S" Flying Boat. Este vuelo marcó también el primer servicio postal aéreo de la historia del continente americano, trasladando correo junto con dos pasajeras: la señora J. A. Hoagland y la señorita Ethel Hodges.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -34,7 +34,7 @@ image: 1919-05-03-primer-vuelo-comercial-estados-usa-aeromarine.webp
 - **Pasajeras pagadoras:** Mrs. J. A. Hoagland y Miss Ethel Hodges (primeras pasajeras en un vuelo comercial en América)
 - **Carga adicional:** Correo (primer servicio postal aéreo del continente americano)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del Aeromarine 50
 
@@ -49,7 +49,7 @@ image: 1919-05-03-primer-vuelo-comercial-estados-usa-aeromarine.webp
 - **Velocidad máxima:** 121 km/h (75 mph)
 - **Autonomía:** 3,5 horas
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -77,7 +77,7 @@ La figura del piloto se había consolidado como un héroe moderno durante la gue
 - **1923-1924:** Aeromarine abandona los servicios diarios entre Nueva York y Atlantic City por falta de rentabilidad
 - **1924:** Aeromarine Airways cesa sus operaciones
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El primer vuelo comercial interestatal
 
@@ -95,7 +95,7 @@ A bordo viajaron dos mujeres, la señora J. A. Hoagland y la señorita Ethel Hod
 
 Además de los pasajeros, el vuelo transportó sacos de correo, lo que lo convirtió también en el primer servicio postal aéreo del continente americano. Esta combinación de pasajeros y correo (y posteriormente carga) se convertiría en el modelo de negocio de las aerolíneas durante décadas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -104,7 +104,7 @@ Además de los pasajeros, el vuelo transportó sacos de correo, lo que lo convir
 - **Establecimiento del modelo de negocio:** La combinación de correo, pasajeros y carga se convertiría en el estándar de la industria, demostrando que los ingresos por correo podían subsidiar el transporte de pasajeros hasta que el mercado madurara.
 - **Reconocimiento al mérito:** Por su papel pionero en la aviación, el Aeromarine 50 fue reconocido como una aeronave de importancia histórica, y sus especificaciones y contribución al desarrollo de la aviación comercial estadounidense se destacan en fuentes especializadas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -122,7 +122,7 @@ El concepto de conectar ciudades costeras mediante hidroaviones, iniciado en Nue
 <p><strong>Sobre el Aeromarine 50:</strong> El Aeromarine 50 era un derivado civil del entrenador militar Aeromarine 40, y era conocido también como "Limousine Flying Boat" por su cabina cerrada y acabados de lujo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -138,7 +138,7 @@ El concepto de conectar ciudades costeras mediante hidroaviones, iniciado en Nue
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

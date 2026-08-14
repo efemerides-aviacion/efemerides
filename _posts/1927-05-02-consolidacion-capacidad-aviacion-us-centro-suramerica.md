@@ -21,7 +21,7 @@ image: 1927-05-02-consolidacion-capacidad-aviation-us-centro-suramerica.webp
 <p>El 2 de mayo de 1927 culminó en Bolling Field, Washington D.C., el vuelo Panamericano de Buena Voluntad del Ejército de Estados Unidos, una travesía de 35.200 kilómetros realizada por cinco aviones anfibios Loening OA-1A. La expedición, que partió de San Antonio, Texas, el 21 de diciembre de 1926, recorrió México, América Central, el Canal de Panamá, y la costa oeste de Sudamérica hasta Valdivia (Chile), cruzó los Andes hasta Bahía Blanca (Argentina), y retornó por la costa atlántica a través del Caribe. El viaje duró 59 días de vuelo, intercalados con 74 días de mantenimiento y ceremonias diplomáticas. Diez pilotos participaron en la misión, cuyo propósito era fomentar buenas relaciones con América Latina, promover la aviación comercial y mapear rutas aéreas estratégicas.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -40,7 +40,7 @@ image: 1927-05-02-consolidacion-capacidad-aviation-us-centro-suramerica.webp
 - **Accidente:** 26 de febrero de 1927, colisión del Detroit y el New York en El Palomar, Buenos Aires
 - **Fallecidos:** Capitán Clinton F. Woolsey y teniente John W. Benton (tripulación del Detroit)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -67,7 +67,7 @@ La aviación en la década de 1920 cautivaba la imaginación del público. Tan s
 - **Marzo - abril de 1927:** Recorrido por Uruguay, Paraguay, Brasil, las Guayanas, Venezuela, las Antillas y la costa este de EE. UU.
 - **2 de mayo de 1927:** Llegada a Bolling Field, Washington D.C. El presidente Coolidge recibe a los aviadores y les otorga la Distinguished Flying Cross
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La tripulación
 
@@ -79,7 +79,7 @@ La expedición estuvo compuesta por diez pilotos, dos por cada aeronave:
 - ***Detroit:*** Capitán Clinton F. Woolsey y teniente John W. Benton
 - ***St. Louis:*** Teniente Bernard S. Thompson y teniente Leonard D. Weddington
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El accidente en Buenos Aires
 
@@ -89,7 +89,7 @@ Mientras Benton realizaba esta operación, el Detroit se desvió de su curso y c
 
 A pesar de la tragedia, el secretario de Guerra autorizó la continuación del vuelo. El New York fue reemplazado, y los ocho pilotos restantes completaron la travesía con los cuatro aviones supervivientes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -107,7 +107,7 @@ Los participantes del vuelo tuvieron destacadas carreras posteriores. Ira C. Eak
 <p><strong>Sobre la cifra de 35.200 km:</strong> Esta cifra es confirmada por las fuentes del Smithsonian y del Museo Nacional de la USAF.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -122,7 +122,7 @@ Los participantes del vuelo tuvieron destacadas carreras posteriores. Ira C. Eak
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

@@ -19,7 +19,7 @@ image: 1918-03-24-john-trollope-7-victoria-1-dia.jpg
 <div class="highlight-box">
 <p>El 24 de marzo de 1918, el capitán John Lightfoot Trollope (No. 43 Squadron RAF) derribó siete aeronaves alemanas en dos patrullas con su Sopwith Camel C8270: dos DFW C.V y un Albatros D.V por la mañana, más cuatro DFW adicionales por la tarde. Fue el primer piloto británico en lograr siete victorias en un solo día, una hazaña que le valió la Barra de la Cruz Militar. En total acumuló 18 derribos en 1918 antes de ser derribado y capturado cuatro días después, perdiendo el brazo izquierdo.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 24 de marzo de 1918
@@ -28,7 +28,7 @@ image: 1918-03-24-john-trollope-7-victoria-1-dia.jpg
 - **Aeronave/empresa involucrada:** Sopwith Camel (matrícula C8270) / Sopwith Aviation Company
 - **Resultado inmediato:** Primer piloto británico en derribar siete aviones enemigos en un solo día, récord que le valió la Barra de la Cruz Militar y el reconocimiento como as excepcional.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -78,7 +78,7 @@ John Lightfoot Trollope es recordado como uno de los ases más brillantes de la 
 <p><strong>Nota aclaratoria sobre la cifra de victorias del 24 de marzo de 1918:</strong> Existe una discrepancia documentada en las fuentes históricas respecto al número exacto de derribos obtenidos por John Lightfoot Trollope ese día. La citación oficial para la Barra de su Cruz Militar, así como los boletines del Escuadrón No. 43, mencionan seis victorias: tres por la mañana y tres por la tarde. Sin embargo, investigaciones posteriores basadas en los informes de combate detallados y en los relatos personales de Trollope (incluyendo su carta a su madre) confirman un séptimo derribo ocurrido durante el regreso de la segunda patrulla, cuando atacó a un caza enemigo que combatía con un avión británico. Este derribo fue registrado y visto por el otro piloto británico, pero no fue incluido en la narración oficial de la condecoración, quizás por tratarse de una acción aislada fuera de las formaciones principales. Por esta razón, algunas fuentes (como <em>Above the Trenches</em> y la mayoría de las referencias aeronáuticas modernas) acreditan a Trollope con <strong>siete victorias</strong> en ese día, convirtiéndolo en el primer piloto británico en alcanzar esa cifra en 24 horas. En esta efeméride se ha optado por destacar la cifra de siete, respaldada por la investigación más exhaustiva, pero dejando constancia de la discrepancia original.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -94,7 +94,7 @@ John Lightfoot Trollope es recordado como uno de los ases más brillantes de la 
     <li><a href="https://en.wikipedia.org/wiki/1918_in_aviation">Wikipedia (EN) – 1918 in aviation</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-22 12:15:00 UTC  

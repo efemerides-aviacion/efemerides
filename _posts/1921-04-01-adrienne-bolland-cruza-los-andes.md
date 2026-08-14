@@ -23,7 +23,7 @@ published: true
   </p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 1 de abril de 1921  
 - **Lugar:** Mendoza (Argentina) – Santiago (Chile)  
@@ -31,7 +31,7 @@ published: true
 - **Aeronave/empresa involucrada:** Caudron G.3 / Société des Avions Caudron  
 - **Resultado inmediato:** Primer cruce femenino de los Andes por vía aérea  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 A principios del siglo XX, cruzar los Andes era uno de los mayores retos de la aviación mundial. El chileno Dagoberto Godoy había logrado el primer cruce masculino en 1918. Adrienne Bolland, piloto de pruebas de Caudron, fue enviada a Sudamérica en 1920 para promocionar el G.3, aeronave considerada demasiado débil para la tarea.
 
@@ -60,7 +60,7 @@ La hazaña consolidó a Bolland como ícono femenino en la aviación, desafiando
 ### Legado
 Adrienne Bolland es recordada como una de las aviadoras más intrépidas de la historia, celebrada en Argentina y Chile como símbolo de audacia y resistencia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -71,7 +71,7 @@ Adrienne Bolland es recordada como una de las aviadoras más intrépidas de la h
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-11-24 14:08:00 UTC  
 - **Fuentes primarias consultadas:** Documentos de la Société des Avions Caudron; reportes periodísticos de Clarín y La Gaceta  
