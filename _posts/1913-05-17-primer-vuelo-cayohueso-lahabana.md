@@ -20,7 +20,7 @@ image: 1913-05-17-primer-vuelo-cayohueso-lahabana.webp
 
 El 17 de mayo de 1913, el aviador cubano Domingo Rosillo del Toro realizó el primer vuelo exitoso entre Key West (Florida) y La Habana (Cuba), cruzando los 145 kilómetros (90 millas) del Estrecho de Florida en aproximadamente 2 horas y 35 minutos a bordo de un monoplano Morane-Saulnier. El vuelo, realizado a pesar de las adversas condiciones climáticas y del escepticismo de muchos, le valió un premio de 10.000 dólares ofrecido por el Ayuntamiento de La Habana. Solo dos días después, el 19 de mayo de 1913, otro aviador cubano, Agustín Parlá, repetiría la hazaña, consolidando a Cuba como un punto clave en el desarrollo de la aviación internacional.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -37,7 +37,7 @@ El 17 de mayo de 1913, el aviador cubano Domingo Rosillo del Toro realizó el pr
 - **Correspondencia transportada:** 8 cartas y varias tarjetas postales (aproximadamente 20)
 - **Antecedente:** J. A. D. McCurdy, un aviador canadiense, intentó el vuelo el 30 de enero de 1911, pero tuvo que amerizar a 16 km de La Habana
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del Morane-Saulnier (tipo utilizado)
 
@@ -49,7 +49,7 @@ El 17 de mayo de 1913, el aviador cubano Domingo Rosillo del Toro realizó el pr
 - **Construcción:** Madera y tela
 - **Característica distintiva:** Avión diseñado por los hermanos Morane-Saulnier, utilizado ampliamente en competiciones aéreas de la época
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -65,7 +65,7 @@ Cuba, independizada de España en 1898, mantenía estrechos lazos económicos y 
 
 Dos aviadores cubanos se prepararon para el desafío: **Domingo Rosillo del Toro** y **Agustín Parlá**. Ambos viajaron a Estados Unidos, adquirieron aeronaves y realizaron numerosas pruebas. Parlá, que contaba con un hidroavión Curtiss equipado con flotadores, era considerado por muchos el favorito. Rosillo, en cambio, pilotaba un monoplano Morane-Saulnier más convencional, con tren de aterrizaje de ruedas, lo que le obligaba a despegar desde tierra firme.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El vuelo del 17 de mayo de 1913
 
@@ -91,7 +91,7 @@ A las 8:10 a.m., Rosillo apareció en el horizonte de La Habana, volando a una a
 
 Rosillo sobrevoló la ciudad y luego viró hacia el oeste, aterrizando en el Campo Columbia, una base militar. Fue recibido entre vítores y abrazos. Había recorrido 145 kilómetros en aproximadamente 2 horas y 35 minutos, y se había convertido en el primer hombre en volar desde Estados Unidos a Cuba.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -102,7 +102,7 @@ Rosillo sobrevoló la ciudad y luego viró hacia el oeste, aterrizando en el Cam
 - **17 de mayo de 1913 (tras el aterrizaje):** Parlá intenta despegar, pero las malas condiciones climáticas le obligan a abortar el intento.
 - **19 de mayo de 1913:** Agustín Parlá logra realizar el vuelo, completando la travesía en 2 horas y 15 minutos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El correo transportado
 
@@ -118,7 +118,7 @@ Además de la gloria y el premio en efectivo, Rosillo transportó correspondenci
 
 No se conocen sobres con matasellos especial de este primer vuelo, lo que lo convierte en un "vuelo perdido" para la filatelia, un tesoro que quizás aún descansa en alguna colección particular.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El segundo vuelo: Agustín Parlá (19 de mayo de 1913)
 
@@ -126,7 +126,7 @@ El éxito de Rosillo no disuadió a Agustín Parlá. El 19 de mayo de 1913, apen
 
 El Smithsonian Institution reconoce a Parlá como el primer cubano en volar desde Key West a La Habana, aunque la primicia histórica del primer cruce exitoso le pertenece a Rosillo por solo dos días.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -135,7 +135,7 @@ El Smithsonian Institution reconoce a Parlá como el primer cubano en volar desd
 - **Correo aéreo:** Aunque no se conservan sobres, el vuelo transportó correspondencia oficial, constituyéndose en un antecedente fundamental del correo aéreo entre ambos países.
 - **Reconocimiento del mérito:** Rosillo recibió el premio de 10.000 dólares y se convirtió en un héroe nacional en Cuba. Continuó su carrera como piloto en España y en Cuba, donde falleció en 1957.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -154,7 +154,7 @@ En julio de 2013, con motivo del centenario de estos vuelos, el Planetario de la
 <p><strong>Discrepancia en fuentes secundarias:</strong> La entrada de Wikipedia en inglés para "1913 in aviation" indica erróneamente que el vuelo de Rosillo ocurrió el 13 de mayo de 1913 y que la duración fue de 2 horas y 8 minutos. Los periódicos de la época consultados (The Lakeland Evening Telegram, Salt Lake Tribune, Atlanta Georgian) coinciden en que el vuelo ocurrió el <strong>17 de mayo de 1913</strong> y que la duración fue de aproximadamente <strong>2 horas y 35 minutos</strong>. Se ha priorizado la información de las fuentes primarias contemporáneas al evento.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -168,7 +168,7 @@ En julio de 2013, con motivo del centenario de estos vuelos, el Planetario de la
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

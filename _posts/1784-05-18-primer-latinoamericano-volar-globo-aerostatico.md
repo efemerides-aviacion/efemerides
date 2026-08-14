@@ -20,7 +20,7 @@ image: 1784-05-18-primer-latinoamericano-volar-globo-aerostatico.webp
 
 El 18 de mayo de 1784, José María Alfaro Guiles, un maestro veracruzano, erudito e inventor, se convirtió en el primer latinoamericano en volar a bordo de un globo aerostático. La hazaña tuvo lugar en Xalapa, Nueva España (actual México), apenas un año después del primer vuelo de los hermanos Montgolfier en Francia. Alfaro construyó su propio globo de aire caliente de aproximadamente 10 metros de altura, con capacidad para dos personas, utilizando materiales impermeables y basándose en las escasas noticias que llegaban de Europa. El vuelo recorrió unos 9 kilómetros desde Los Berros (Xalapa) hasta el actual municipio de Coatepec, alcanzando una altura de aproximadamente 800 metros.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -37,7 +37,7 @@ El 18 de mayo de 1784, José María Alfaro Guiles, un maestro veracruzano, erudi
 - **Antecedente mundial:** Primer vuelo de los hermanos Montgolfier (Francia, 1783)
 - **Difusión:** La Gazeta de México publicó la noticia el 19 de mayo de 1784
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -53,7 +53,7 @@ En 1784, Nueva España vivía bajo el dominio del Imperio Español. La Ilustraci
 
 Poco se sabe de la vida de Alfaro más allá de esta hazaña. Era maestro de profesión, erudito de las artes y la ingeniería, y también se le atribuye la reparación del reloj de la Catedral de Xalapa, una maquinaria manufacturada en Londres. Su capacidad para comprender principios aeronáuticos complejos con información limitada lo convierte en un pionero visionario. "El mérito de Alfaro deriva de haber construido su propio globo a partir de las pocas noticias que se tenían en el continente, cuando aún no se contaba con las herramientas propias de lo que sería la aeronáutica", según relatos históricos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La construcción del globo
 
@@ -61,7 +61,7 @@ Alfaro experimentó durante meses con pequeños globos de papel utilizando disti
 
 Finalmente, construyó un globo de grandes dimensiones: aproximadamente 10 metros de altura y 15 metros de diámetro (18 varas castellanas). El material era impermeable para retener el aire caliente, y en su interior se generaba fuego para calentar el aire y proporcionar sustentación. La estructura tenía capacidad para dos personas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El vuelo histórico
 
@@ -75,7 +75,7 @@ Al día siguiente, 19 de mayo de 1784, la Gazeta de México publicó una nota an
 
 > "Quedase fabricado en este pueblo un globo aerostato semejante al que expresan semejantes gacetas de Madrid, trabajado por José María Alfaro: consta con 18 varas castellanas y se cree tenga el efecto que se desea, según el arreglo y cuidado con que se ha construido, lo que se avisará al público".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -88,7 +88,7 @@ Al día siguiente, 19 de mayo de 1784, la Gazeta de México publicó una nota an
 - **7 de enero de 1785:** Jean-Pierre Blanchard y John Jeffries realizan el [primer cruce aéreo del Canal de la Mancha en globo aerostático](https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html), un hito en la aviación internacional  
 - **9 de enero de 1793:** Jean-Pierre Blanchard realiza el [primer vuelo en globo en Estados Unidos](https://efemerides-aviacion.github.io/efemerides/evento/1793/01/09/primer-vuelo-globo-estados-unidos.html) en Filadelfia, ante el presidente George Washington  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -97,7 +97,7 @@ Al día siguiente, 19 de mayo de 1784, la Gazeta de México publicó una nota an
 - **Inspiración para la aeronáutica en México:** Aunque no hubo una continuación inmediata de los vuelos en globo, el hecho demostró que la ciencia y la tecnología europeas podían replicarse en las colonias americanas.
 - **Reconocimiento histórico:** La hazaña fue documentada por historiadores como Manuel Rivera Cambas en su obra "La Historia antigua y moderna de Jalapa".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -113,7 +113,7 @@ Hoy, en el lugar donde Alfaro despegó, se levanta un monumento conmemorativo en
 <p><strong>Sobre la imagen que acompaña esta efeméride:</strong> No se conservan representaciones gráficas originales del vuelo de José María Alfaro. La imagen utilizada es una ilustración generada mediante inteligencia artificial, inspirada en las descripciones históricas del evento y en el contexto de la aviación pionera del siglo XVIII. Su propósito es puramente ilustrativo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -124,7 +124,7 @@ Hoy, en el lugar donde Alfaro despegó, se levanta un monumento conmemorativo en
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

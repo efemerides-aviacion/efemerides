@@ -19,7 +19,7 @@ image: 1908-03-12-primer-vuelo-red-wing.jpg
 <div class="highlight-box">
 <p>El 12 de marzo de 1908, el biplano AEA Red Wing, diseñado por Thomas Selfridge y construido por la Aerial Experiment Association de Alexander Graham Bell y Glenn Curtiss, realizó su primer vuelo sobre el lago Keuka congelado, en Hammondsport (Nueva York). Pilotado por Frederick W. Baldwin, recorrió unos 319 pies a baja altura, en la que se considera la primera demostración pública de un vuelo de aeroplano en Estados Unidos y el primer vuelo de un piloto canadiense. Aunque el avión resultó dañado en el aterrizaje y se destruyó en un segundo intento días después, sus lecciones técnicas dieron origen a los posteriores White Wing, June Bug y Silver Dart, fundamentales en la temprana aviación norteamericana.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 12 de marzo de 1908
@@ -28,7 +28,7 @@ image: 1908-03-12-primer-vuelo-red-wing.jpg
 - **Aeronave/empresa involucrada:** Aerial Experiment Association (AEA) / AEA Red Wing (también conocido como Aerodrome No. 1)
 - **Resultado inmediato:** Vuelo exitoso de 319 pies (97 m) a unos 3 m de altura; daños menores en el aterrizaje por fallo del estabilizador de cola
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 A principios del siglo XX, la aviación mundial estaba en sus etapas más tempranas. Los hermanos Wright habían realizado el primer vuelo motorizado en 1903, pero sus demostraciones se habían mantenido relativamente discretas, y el vuelo público de un aeroplano era aún un acontecimiento excepcional. En este contexto, la Aerial Experiment Association (AEA) surgió como un esfuerzo pionero y colaborativo para avanzar en la ciencia de la aviación.
@@ -73,7 +73,7 @@ El AEA Red Wing ocupa un lugar destacado en los anales de la aviación temprana:
 
 El Red Wing original no sobrevivió a su segundo vuelo, pero su legado perdura en museos y colecciones históricas. Réplicas a escala real han sido construidas para conmemorar el centenario del vuelo y se exhiben en instituciones como el Glenn H. Curtiss Museum en Hammondsport. La historia de la AEA y sus aviones sigue siendo objeto de estudio por su enfoque pionero de investigación y desarrollo colaborativo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -88,7 +88,7 @@ El Red Wing original no sobrevivió a su segundo vuelo, pero su legado perdura e
     <li><a href="https://www.ebsco.com/research-starters/history/aerial-experiment-association-aea">EBSCO Research Starters – Aerial Experiment Association (AEA)</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-10 11:45:00 UTC  

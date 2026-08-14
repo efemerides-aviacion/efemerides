@@ -20,7 +20,7 @@ image: 1913-05-13-primer-vuelo-russky-vityaz.webp
 
 El 13 de mayo de 1913, el Russky Vityaz realizó su primer vuelo en San Petersburgo, marcando un antes y un después en la historia de la aviación. Diseñado por Ígor Sikorsky, fue el primer avión cuatrimotor del mundo y el antecedente directo de los grandes aviones de transporte y bombarderos pesados. Este hito demostró que un avión de gran tamaño con múltiples motores podía ser operativo, algo que muchos expertos de la época consideraban imposible.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -35,7 +35,7 @@ El 13 de mayo de 1913, el Russky Vityaz realizó su primer vuelo en San Petersbu
 - **Número de vuelos totales:** 53 vuelos sin accidentes
 - **Destino del avión:** Gravemente dañado el 23 de junio de 1913 cuando el motor de un monoplaza Morane-Saulnier cayó sobre él durante un aterrizaje
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del Russky Vityaz
 
@@ -59,7 +59,7 @@ El Russky Vityaz fue concebido por Sikorsky en 1911, cuando ningún avión conoc
 - **Carrera de despegue:** 700 m
 - **Tren de aterrizaje:** 16 ruedas y cuatro patines
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -77,7 +77,7 @@ El avión experimentó varias modificaciones durante su desarrollo. Originalment
 
 El Vityaz era un biplano de vanos múltiples con alas de envergadura desigual. Las alas de doble larguero tenían planta rectangular y una cuerda de 2,5 m, y la distancia entre las alas era también de 2,5 m. El fuselaje era una viga de sección rectangular recubierta de madera contrachapada. Contaba con una cabina con dobles mandos, dos cabinas de pasajeros y un compartimento para repuestos. También había una plataforma abierta delante de la cabina del piloto equipada con un reflector y una ametralladora. Este diseño de cabina cerrada y la posibilidad de que los pasajeros se movieran durante el vuelo sin afectar la estabilidad eran características revolucionarias para la época.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El primer vuelo: contradiciendo a los escépticos
 
@@ -91,7 +91,7 @@ Sikorsky quedó impresionado por el comportamiento del avión. En sus anotacione
 
 El primer vuelo de larga distancia tuvo lugar entre el 10 y el 27 de mayo de 1913 (calendario juliano), que corresponde al **23 de mayo - 9 de junio de 1913** en el calendario gregoriano, demostrando la estabilidad excepcional del avión. Durante estas pruebas, se estableció que un pasajero podría incluso caminar por las cabinas sin causar problemas a la estabilidad.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -106,7 +106,7 @@ El primer vuelo de larga distancia tuvo lugar entre el 10 y el 27 de mayo de 191
 - **23 de junio de 1913:** El Russky Vityaz resulta gravemente dañado en tierra cuando un motor de un monoplaza Morane-Saulnier cae sobre él durante un aterrizaje
 - **1913-1914:** Sikorsky utiliza la experiencia adquirida para desarrollar el Ilyá Muromets, que se convertiría en el primer bombardero cuatrimotor del mundo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La evolución de la configuración de motores
 
@@ -116,13 +116,13 @@ El Russky Vityaz experimentó varias configuraciones de motores durante su corta
 
 **Configuración final (Russky Vityaz):** Los dos motores traseros fueron movidos al borde de ataque del ala inferior, fuera de los motores tractores originales. El resultado fue una configuración de cuatro motores en línea (todos tractores). Esta modificación mejoró sustancialmente el rendimiento y la capacidad de ascenso. Sikorsky comprobó que los timones seguían siendo efectivos incluso con dos motores parados en un solo lado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Un avión de lujo para su época
 
 El Russky Vityaz no solo era innovador por sus cuatro motores, sino también por sus comodidades para los pasajeros. La cabina estaba equipada con cuatro sillones y un sofá, una mesa, iluminación eléctrica y aseos. Los pasajeros podían incluso desplazarse durante el vuelo sin afectar a la estabilidad, un concepto revolucionario para la época. Este nivel de confort llevó al zar Nicolás II a visitar personalmente el avión y recorrer sus instalaciones.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El trágico final y el nacimiento del Ilyá Muromets
 
@@ -130,7 +130,7 @@ Después de realizar 53 vuelos sin accidentes, el Russky Vityaz se encontraba es
 
 Sikorsky decidió no reparar el avión, gravemente dañado. En lugar de eso, utilizó los conocimientos, la experiencia y algunos componentes del Vityaz para construir un nuevo avión, aún más grande y avanzado: el **Sikorsky Ilyá Muromets**, que se convertiría en el primer bombardero cuatrimotor del mundo cuando estalló la Primera Guerra Mundial y en el primer avión de pasajeros de la historia en contar con calefacción y aseos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -139,7 +139,7 @@ Sikorsky decidió no reparar el avión, gravemente dañado. En lugar de eso, uti
 - **Antecedente directo del Ilyá Muromets:** La experiencia acumulada en el Russky Vityaz permitió a Sikorsky construir el Ilyá Muromets, que tras el estallido de la Primera Guerra Mundial se convirtió en el primer bombardero cuatrimotor de la historia.
 - **Revolución en el transporte aéreo:** El Russky Vityaz fue el precursor de todos los grandes aviones comerciales que dominarían los cielos en las décadas posteriores.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -158,7 +158,7 @@ Hoy, el legado del Russky Vityaz vive en todos los grandes aviones de pasajeros 
 <p><strong>Sobre el evento de destrucción:</strong> El 23 de junio de 1913, durante un festival aéreo, un monoplaza Morane-Saulnier perdió su motor en pleno vuelo mientras aterrizaba. El motor cayó sobre el Russky Vityaz, que estaba estacionado en tierra, aplastándolo. Los 53 vuelos anteriores se habían completado sin ningún tipo de incidente.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -172,7 +172,7 @@ Hoy, el legado del Russky Vityaz vive en todos los grandes aviones de pasajeros 
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

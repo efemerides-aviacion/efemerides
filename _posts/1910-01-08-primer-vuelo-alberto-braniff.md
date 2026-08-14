@@ -22,7 +22,7 @@ El 8 de enero de 1910, Alberto Braniff, joven aviador mexicano, realizó el prim
 </p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 8 de enero de 1910  
 - **Lugar:** Llanos de Balbuena, Ciudad de México  
@@ -30,7 +30,7 @@ El 8 de enero de 1910, Alberto Braniff, joven aviador mexicano, realizó el prim
 - **Aeronave:** Biplano Voisin (fabricación francesa)  
 - **Resultado inmediato:** Primer vuelo exitoso en México y Latinoamérica  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El primer vuelo de Alberto Braniff en los llanos de Balbuena, el 8 de enero de 1910, se inscribe en un momento de entusiasmo mundial por la aviación apenas siete años después de los hermanos Wright. En México, este acontecimiento coincidió con las celebraciones del Centenario de la Independencia y simbolizó la llegada del país —y de toda Latinoamérica— a la modernidad tecnológica, despertando admiración y orgullo nacional.
 ### Entorno social
@@ -54,7 +54,7 @@ El acontecimiento fue visto como símbolo de modernidad y orgullo nacional, colo
 ### Legado
 Alberto Braniff es recordado como pionero de la aviación mexicana y latinoamericana, abriendo camino a generaciones posteriores de aviadores.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -64,7 +64,7 @@ Alberto Braniff es recordado como pionero de la aviación mexicana y latinoameri
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-01-06 17:44:00 UTC  
 - **Fuentes primarias consultadas:** Archivos históricos de la UNAM; Memórica México; biografía de Alberto Braniff  

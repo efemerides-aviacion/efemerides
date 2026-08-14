@@ -20,7 +20,7 @@ image: 1908-05-14-primer-pasajero-volar-aeronave-mas-pesada-aire.webp
 
 El 14 de mayo de 1908, Charles William Furnas se convirtió en el primer pasajero de la historia en volar a bordo de una aeronave motorizada más pesada que el aire. Ese día, en Kill Devil Hills, Kitty Hawk, Carolina del Norte, Furnas acompañó primero a Wilbur Wright y luego a Orville Wright en el Wright Flyer III, un biplano modificado de 1905. Este hito demostró que una máquina voladora podía transportar a una segunda persona, un requisito indispensable para que el invento de los hermanos Wright pudiera ser considerado para uso militar y comercial, allanando el camino para la aviación moderna.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -34,7 +34,7 @@ El 14 de mayo de 1908, Charles William Furnas se convirtió en el primer pasajer
 - **Importancia histórica:** Primer pasajero en un avión
 - **Otros logros de Furnas:** Primer ingeniero de vuelo a bordo, ayudó a desarrollar el primer avión militar, primera persona contratada en Estados Unidos por una empresa fabricante de aviones (Wright Cycle Company)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del Wright Flyer III (1908)
 
@@ -51,7 +51,7 @@ El avión utilizado fue el Flyer III de 1905, la tercera máquina voladora dise�
 - **Material:** Pícea (spruce) revestida de tela de muselina
 - **Sistema de control:** Guiñada mediante deformación de las alas (wing warping) y cola móvil
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Charles William Furnas: el primer pasajero
 
@@ -73,7 +73,7 @@ Durante semanas, los Wright realizaron pruebas con sacos de arena en el asiento 
 
 Furnas siguió trabajando para los Wright. Ayudó en la reconstrucción del avión tras el accidente del mismo día y se convirtió en empleado de tiempo completo. Sin embargo, tras el trágico accidente del 17 de septiembre de 1908, en el que murió el teniente Thomas Selfridge durante una demostración para el Ejército, Furnas se distanció de los hermanos. Regresó a West Milton, Ohio, donde montó su propio garaje y un teatro de cine mudo, dedicándose a una vida alejada de la aviación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -90,7 +90,7 @@ Furnas siguió trabajando para los Wright. Ayudó en la reconstrucción del avi�
 - **17 de septiembre de 1908:** Accidente fatal del teniente Thomas Selfridge en Fort Myer, Virginia; Furnas abandona a los Wright poco después.
 - **15 de octubre de 1941:** Fallece Charles Furnas en el Hospital de Veteranos de Dayton, Ohio. Orville Wright asiste a su funeral.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El contexto histórico: el camino hacia el avión práctico
 
@@ -104,7 +104,7 @@ El Ejército de los Estados Unidos había puesto como condición clave que el av
 
 Ese 14 de mayo, después de los vuelos históricos con Furnas, Wilbur intentó un vuelo más prolongado. Al errar el control de profundidad (elevator), se precipitó contra el suelo a gran velocidad. El avión quedó destruido, pero Wilbur salió ileso. Este accidente no hizo más que reafirmar la necesidad de seguir mejorando la máquina.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -113,7 +113,7 @@ Ese 14 de mayo, después de los vuelos históricos con Furnas, Wilbur intentó u
 - **Reconocimiento mundial:** Las noticias de estos vuelos, a pesar del accidente posterior, se difundieron por todo el mundo, consolidando la reputación de los Wright como pioneros de la aviación.
 - **Nacimiento del "pasajero aéreo":** Charles Furnas pasó a la historia como la primera persona en disfrutar de un vuelo como acompañante, inaugurando una nueva era en el transporte.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -128,7 +128,7 @@ Furnas encarna el espíritu de todos aquellos que, sin ser pilotos, hicieron pos
 <p><strong>Sobre el vuelo de Wilbur: el accidente y el legado:</strong> El accidente de Wilbur Wright tras el vuelo con Furnas ocurrió el mismo día. Esa madrugada, había quedado muy claro que la aeronave necesitaba nuevas modificaciones. No obstante, los hitos establecidos ese día no tienen discusión. Por su valor histórico, el Wright Flyer III restaurado se exhibe hoy en el Carillon Park en Dayton, Ohio, junto a otros objetos de los pioneros del vuelo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -142,7 +142,7 @@ Furnas encarna el espíritu de todos aquellos que, sin ser pilotos, hicieron pos
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

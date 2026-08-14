@@ -23,7 +23,7 @@ image: 1907-12-25-globo-pampero.jpg
   </p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 25 de diciembre de 1907  
@@ -32,7 +32,7 @@ image: 1907-12-25-globo-pampero.jpg
 - **Aeronave/empresa involucrada:** Globo aerostático Pampero  
 - **Resultado inmediato:** Primera travesía aérea sobre el Río de la Plata  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 A comienzos del siglo XX, la aerostática era aún una disciplina experimental en Sudamérica. Jorge Newbery, ingeniero y aviador argentino, junto con Aarón Anchorena, impulsaron el desarrollo de vuelos en globo como medio de exploración y demostración técnica.
@@ -59,7 +59,7 @@ El vuelo del Pampero fue interpretado como símbolo de audacia y exploración, d
 ### Legado
 El Pampero es recordado como símbolo de audacia y exploración. Su travesía marcó el inicio de la aviación en el Río de la Plata y abrió camino a futuros desarrollos aeronáuticos en Argentina y Uruguay.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -70,7 +70,7 @@ El Pampero es recordado como símbolo de audacia y exploración. Su travesía ma
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-24 10:30 UTC  

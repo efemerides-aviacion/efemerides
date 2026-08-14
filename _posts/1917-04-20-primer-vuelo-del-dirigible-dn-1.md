@@ -21,7 +21,7 @@ image: 1917-04-20-primer-vuelo-del-dirigible-dn-1.webp
 <p>El 20 de abril de 1917 despegó el DN-1, primer dirigible de la Marina de EE. UU., en Pensacola, Florida, dos días antes de la entrada formal de Estados Unidos en la Primera Guerra Mundial. Diseñado para patrulla antisubmarina e inspirado en los dirigibles alemanes tipo Parseval, medía 175 pies de largo y estaba propulsado por dos motores de 140 hp. Sin embargo, la aeronave presentaba exceso de peso, falta de sustentación, sobrecalentamiento de la transmisión y fugas de gas. Realizó solo tres vuelos antes de ser dañada irreparablemente mientras era remolcada sobre el agua y finalmente desguazada.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -40,7 +40,7 @@ image: 1917-04-20-primer-vuelo-del-dirigible-dn-1.webp
 - **Número total de vuelos:** 3 (20, 27 y 29 de abril de 1917)
 - **Destino final:** Desguazado tras ser dañado el 29 de abril de 1917
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -70,7 +70,7 @@ La prensa de la época siguió con gran interés el desarrollo del DN-1, present
 - **29 de abril de 1917:** Tercer vuelo. Ese mismo día, mientras era remolcado sobre el agua, la aeronave sufrió daños irreparables.
 - **Mayo de 1917:** La Marina decide que el DN-1 no vale la pena repararlo y es desguazado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El DN-1: detalles técnicos y humanos
 
@@ -98,7 +98,7 @@ En un intento previo de vuelo, antes del 20 de abril, la tripulación sacó el D
 
 El DN-1 volvió a volar el 27 de abril y nuevamente el 29 de abril de 1917. Ese mismo día, mientras era remolcado sobre el agua de regreso a su hangar, la aeronave sufrió daños estructurales. La Marina evaluó los daños y concluyó que no valía la pena reparar una aeronave con tantos problemas de diseño. El DN-1 fue desguazado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -110,7 +110,7 @@ El DN-1 volvió a volar el 27 de abril y nuevamente el 29 de abril de 1917. Ese 
 
 - **Entrenamiento de personal:** A pesar de su breve vida, el DN-1 permitió que el personal naval comenzara a familiarizarse con las operaciones de dirigibles, experiencia que sería valiosa para los programas posteriores. Antes del fin de la Primera Guerra Mundial, más de 700 tripulantes habían sido entrenados en aviación ligera.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -120,14 +120,14 @@ A pesar de sus deficiencias, el DN-1 forzó a la Marina a reevaluar su enfoque h
 
 Hoy, el DN-1 es una nota al pie de página en la historia de la aviación naval, pero una nota importante. Representa el primer paso vacilante de la US Navy en el mundo de los dirigibles, un mundo en el que operaría con éxito durante más de cuatro décadas. El hangar flotante de Pensacola, que sobrevivió a su inquilino, es un recordatorio físico de ese ambicioso pero fallido comienzo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> El DN-1 no debe confundirse con los dirigibles de la Clase A (A-class blimps) que operaron más tarde. Aunque retrospectivamente el DN-1 ha sido denominado como el prototipo de la Clase A, esta designación nunca fue utilizada oficialmente por la Marina durante su corta vida. Los verdaderos dirigibles Clase A (como el A-1) fueron construidos posteriormente, ya con las lecciones aprendidas del DN-1.</p>
 <p>El contrato original del DN-1 fue por 45.646 dólares, pero el costo final excedió ampliamente esa cifra. Sin embargo, la Marina aceptó formalmente la aeronave porque el constructor había actuado de buena fe.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -143,7 +143,7 @@ Hoy, el DN-1 es una nota al pie de página en la historia de la aviación naval,
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

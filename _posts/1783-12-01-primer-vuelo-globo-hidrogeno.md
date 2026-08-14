@@ -19,7 +19,7 @@ image: 1783-12-01-primer-vuelo-globo-hidrogeno.webp
 <div class="highlight-box">
 <p>El 1 de diciembre de 1783, el físico francés Jacques Alexandre César Charles y el ingeniero Nicolas-Louis Robert realizaron el primer vuelo tripulado en un globo de hidrógeno. Despegaron desde los Jardines de las Tullerías en París ante una multitud estimada de 400,000 personas, incluyendo a Benjamin Franklin. El vuelo duró 2 horas y 5 minutos, recorriendo 43 km hasta Nesles-la-Vallée. Charles posteriormente ascendió en solitario hasta aproximadamente 3,000 metros, sufriendo un intenso dolor de oído y nunca volvió a volar. Este hito demostró la superioridad del hidrógeno sobre el aire caliente para vuelos de larga duración y estableció los principios básicos de la aerostación moderna.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos del evento
 
@@ -37,7 +37,7 @@ image: 1783-12-01-primer-vuelo-globo-hidrogeno.webp
 - **Segundo ascenso (Charles en solitario):** 3,000 – 3,500 metros
 - **Espectadores:** Estimados en 400,000, incluyendo a Benjamin Franklin (embajador de EE.UU. en Francia) y Joseph-Louis Lagrange
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -55,7 +55,7 @@ Charles, inspirado por los experimentos de los Montgolfier, propuso un enfoque d
 
 La ilustración francesa valoraba el progreso científico y la divulgación del conocimiento. El vuelo de Charles fue concebido como un experimento científico público. La multitud de 400,000 personas (aproximadamente la mitad de la población de París en esa época) incluyó a científicos, aristócratas y ciudadanos comunes. Benjamin Franklin, presente en la multitud, fue interrogado sobre la utilidad del globo, a lo que respondió: "¿De qué sirve un recién nacido?" ("What is the use of a newborn baby?"), frase que se hizo célebre.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -79,7 +79,7 @@ La ilustración francesa valoraba el progreso científico y la divulgación del 
 
 - **17:00:** Charles aterriza sin problemas en la llanura de Tour du Lay, cerca de Nesles. Nunca volvió a volar.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -96,7 +96,7 @@ La ilustración francesa valoraba el progreso científico y la divulgación del 
 
 - **Político:** El éxito francés en la aerostación reforzó el prestigio científico y técnico de Francia frente a otras potencias europeas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -112,7 +112,7 @@ El vuelo de Charles y Robert es considerado el nacimiento del globo de gas moder
 
 - **Legado en la toponimia:** Numerosas calles y plazas en Francia llevan el nombre de Jacques Charles. El aeropuerto de Nesles-la-Vallée recuerda el lugar de aterrizaje del primer vuelo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -138,7 +138,7 @@ El vuelo de Charles y Robert es considerado el nacimiento del globo de gas moder
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

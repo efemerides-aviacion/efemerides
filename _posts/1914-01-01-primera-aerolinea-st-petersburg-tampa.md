@@ -20,7 +20,7 @@ image: 1914-01-01-primera-aerolinea-st-petersburg-tampa.jpg
 <p>La St. Petersburg–Tampa Airboat Line fue la primera aerolínea regular del mundo en utilizar aeronaves. Su vuelo inaugural el 1 de enero de 1914 marcó el inicio del transporte aéreo comercial.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 1 de enero de 1914  
@@ -29,7 +29,7 @@ image: 1914-01-01-primera-aerolinea-st-petersburg-tampa.jpg
 - **Aeronave/empresa involucrada:** Benoist XIV, St. Petersburg–Tampa Airboat Line  
 - **Resultado inmediato:** Primer vuelo comercial regular de pasajeros en el mundo  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 La creación de la St. Petersburg–Tampa Airboat Line respondió a la necesidad de conectar dos ciudades separadas por la bahía, cuyo trayecto terrestre podía tomar hasta 20 horas. El vuelo inaugural redujo el tiempo de viaje a 23 minutos, demostrando la eficiencia del transporte aéreo.
@@ -59,7 +59,7 @@ La creación de la St. Petersburg–Tampa Airboat Line respondió a la necesidad
 - La Tony Jannus Distinguished Aviation Society conmemora cada año este hito.  
 - Réplicas del Benoist XIV se exhiben en museos de Florida.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -70,7 +70,7 @@ La creación de la St. Petersburg–Tampa Airboat Line respondió a la necesidad
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2025-12-30 15:39 CST  
