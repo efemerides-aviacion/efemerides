@@ -21,7 +21,7 @@ image: 2009-12-11-primer-vuelo-airbus-a400m-atlas.webp
 <p>El 11 de diciembre de 2009, a las 10:15 hora local, el prototipo MSN001 del Airbus A400M Atlas (apodado "Grizzly 1") despegó por primera vez desde el Aeropuerto de Sevilla-San Pablo. La tripulación, liderada por el jefe de pilotos de pruebas militares Ed Strongman y el piloto español Ignacio "Nacho" Lombo, completó un vuelo de 3 horas y 47 minutos que validó el diseño básico del avión. El A400M, impulsado por cuatro motores turbohélice Europrop TP400-D6 de 11.000 shp (8.200 kW) cada uno —los más potentes del mundo occidental—, estaba diseñado para reemplazar al C-130 Hercules y al C-160 Transall en siete naciones europeas. El programa había sufrido retrasos de casi tres años y crisis financieras que amenazaron su cancelación. El MSN001 acumuló 1.448 horas de vuelo antes de ser retirado en noviembre de 2013 y hoy se exhibe en el Museo Aeroscopia de Toulouse.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha del primer vuelo:** 11 de diciembre de 2009
@@ -42,7 +42,7 @@ image: 2009-12-11-primer-vuelo-airbus-a400m-atlas.webp
 - **Cliente de lanzamiento:** Fuerza Aérea Francesa (2013)
 - **Estado actual del MSN001:** Retirado en noviembre de 2013, exhibido en el Museo Aeroscopia (Toulouse, Francia)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -75,7 +75,7 @@ El A400M es considerado el mayor programa de defensa cooperativo europeo. Su nom
 - **2015, 9 de mayo:** Primer accidente grave. Un A400M de la Fuerza Aérea Turca (MSN023) se estrella cerca de Ankara, matando a 4 tripulantes. La investigación revela un error en el software de los motores.
 - **2024:** El A400M ha acumulado más de 200.000 horas de vuelo y opera en 9 países (Francia, Alemania, España, Reino Unido, Turquía, Bélgica, Luxemburgo, Malasia, Indonesia).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -85,7 +85,7 @@ El A400M es considerado el mayor programa de defensa cooperativo europeo. Su nom
 - **Competencia global:** El A400M compite directamente con el C-130J Super Hercules (Lockheed Martin) y el Kawasaki C-2 (Japón). Su principal ventaja es la combinación de capacidad estratégica (carga útil de 37 toneladas) y táctica (operación en pistas cortas).
 - **Accidente de 2015:** La pérdida del MSN023 en Turquía fue un golpe duro para el programa. La investigación de Airbus reveló un error en la instalación del software de los motores, lo que llevó a una revisión de los procesos de control de calidad.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -107,7 +107,7 @@ El Airbus A400M Atlas ha consolidado su posición como el avión de transporte m
 
 El programa, que enfrentó retrasos y sobrecostos en sus inicios, ha demostrado su valía en misiones humanitarias, operaciones militares y reabastecimiento aéreo. Airbus Defence and Space continúa ofreciendo el A400M a nuevos clientes potenciales en Asia, Oriente Medio y Sudamérica, compitiendo directamente con el Lockheed Martin C-130J Super Hercules.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Discrepancias encontradas y resueltas
 
@@ -116,7 +116,7 @@ El programa, que enfrentó retrasos y sobrecostos en sus inicios, ha demostrado 
 - **Fecha del último vuelo del MSN001:** Las fuentes coinciden en el 4 de noviembre de 2013.
 - **Horas totales del MSN001:** Las fuentes coinciden en 1.448 horas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -136,7 +136,7 @@ El programa, que enfrentó retrasos y sobrecostos en sus inicios, ha demostrado 
   <p><strong>Nota aclaratoria:</strong> El MSN001 fue el primero de cinco prototipos construidos para la campaña de pruebas. Los otros cuatro fueron MSN002 (pruebas de carga), MSN003 (pruebas de vuelo), MSN004 (pruebas de motores) y MSN006 (pruebas de sistemas militares). El MSN005 no fue construido (número saltado por razones internas de Airbus). El A400M recibió el nombre "Atlas" en 2011, dos años después de su primer vuelo. El motor Europrop TP400-D6 de 11.000 shp (8.200 kW) es el turbohélice más potente del mundo occidental en producción. La imagen utilizada en esta efeméride corresponde al primer vuelo del MSN001 en Sevilla.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-04 13:15 UTC

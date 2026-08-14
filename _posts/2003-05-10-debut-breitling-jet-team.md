@@ -20,7 +20,7 @@ image: 2003-05-10-debut-breitling-jet-team.webp
 
 El 10 de mayo de 2003 debutó oficialmente el Breitling Jet Team en el Festival Aérien de Valenciennes, Francia, bajo patrocinio de Breitling tras el Khalifa Jet Team. Liderado por Jacques Bothelin desde Dijon, voló cuatro aviones Aero L-39 Albatros en su primera exhibición como el mayor equipo civil de jets de Europa. Marcó el inicio de 16 años de shows internacionales hasta 2019. 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -38,7 +38,7 @@ El 10 de mayo de 2003 debutó oficialmente el Breitling Jet Team en el Festival 
 - **Patrocinador:** Breitling SA
 - **Operador:** Apache Aviation
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Especificaciones del Aero L-39C Albatros
 
@@ -56,7 +56,7 @@ El L-39 Albatros fue el avión utilizado por el Breitling Jet Team durante toda 
 - **Alcance:** 978 km 
 - **Límite de fuerzas G:** +8 / -4 G 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -70,13 +70,13 @@ En 2001-2002, Apache Aviation (la empresa de Bothelin) adquirió aviones L-39 Al
 
 A principios de 2003, Khalifa se retiró del patrocinio. La firma de relojería suiza Breitling SA asumió el patrocinio, lo que permitió a la organización expandirse y relanzarse oficialmente como el Breitling Jet Team.  La inversión de Breitling permitió que el equipo pasara de 4 a 7 aviones en los años siguientes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El debut en Valenciennes
 
 El 10 de mayo de 2003, el recién bautizado Breitling Jet Team se presentó ante el público en el Festival Aérien de Valenciennes, en el norte de Francia. Los cuatro L-39 Albatros surcaron los cielos franceses con una rutina de 18 a 20 minutos que incluía formaciones cerradas y maniobras sincronizadas. Este debut marcó el nacimiento del mayor equipo de exhibición civil de jets de Europa, un estatus que mantendría durante los siguientes 16 años. 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -92,7 +92,7 @@ El 10 de mayo de 2003, el recién bautizado Breitling Jet Team se presentó ante
 - **2019:** Breitling no renueva el patrocinio; el equipo cesa sus actuaciones 
 - **Diciembre de 2024:** Once aviones L-39 (la práctica totalidad de la flota histórica del equipo) son vendidos a Babcock International para una academia de entrenamiento de pilotos en Dijon 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La flota: 7 en el aire, 11 en la historia
 
@@ -102,13 +102,13 @@ El equipo mantenía 7 L-39C para sus actuaciones, más un avión adicional conoc
 
 Por eso, cuando en diciembre de 2024 Babcock International adquirió la flota, el número ascendía a 11 aviones: era la flota histórica completa que Apache Aviation había acumulado durante los años de actividad del equipo. 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El espectáculo
 
 La exhibición del Breitling Jet Team era una coreografía aérea cuidadosamente orquestada. Con una duración de 18 a 20 minutos, combinaba sobrevuelos en formación cerrada, pases de frente, rutinas en solitario y maniobras sincronizadas, todo ello con música y narración en vivo.  Los pilotos volaban con sus reactores a escasos metros de distancia entre sí a velocidades de cientos de kilómetros por hora, en formaciones que exigían una concentración absoluta y una precisión milimétrica.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -117,7 +117,7 @@ La exhibición del Breitling Jet Team era una coreografía aérea cuidadosamente
 - **Expansión global:** El equipo realizó giras por todo el mundo, incluyendo Europa, Oriente Medio y Norteamérica, incluyendo una gira de dos años por EE. UU. y Canadá en 2015-2016. 
 - **Legado perdurable:** El Breitling Jet Team estableció un estándar de profesionalismo para las patrullas civiles a reacción, inspirando a otras formaciones similares.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -135,7 +135,7 @@ El Breitling Jet Team demostró que el patrocinio privado podía crear un equipo
 <p><strong>Sobre el cese del equipo en 2019:</strong> Breitling decidió no renovar el patrocinio del equipo de demostración aéreo. La empresa y Apache Aviation acordaron poner fin a la exitosa colaboración que había durado 16 años. El equipo realizó su último espectáculo en 2019.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -148,7 +148,7 @@ El Breitling Jet Team demostró que el patrocinio privado podía crear un equipo
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

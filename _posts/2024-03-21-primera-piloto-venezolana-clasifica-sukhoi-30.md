@@ -19,7 +19,7 @@ image: 2024-03-21-primera-piloto-venezolana-clasifica-sukhoi-30.jpg
 <div class="highlight-box">
 <p>El 21 de marzo de 2024, la capitana Cindi “Katara” Caraballo se clasificó como piloto de caza de combate del sistema Sukhoi Su‑30MK2 en la Base Aérea Teniente Luis del Valle García, convirtiéndose en la primera mujer de la Aviación Militar Bolivariana de Venezuela y la primera mujer latinoamericana en pilotar este caza ruso. Su trayectoria desde la Academia Militar de la Aviación hasta el Su‑30MK2 refleja la consolidación de la participación femenina en el componente de caza de la FANB.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 21 de marzo de 2024
@@ -28,7 +28,7 @@ image: 2024-03-21-primera-piloto-venezolana-clasifica-sukhoi-30.jpg
 - **Aeronave/empresa involucrada:** Sukhoi Su‑30MK2 / Grupo Aéreo de Caza N°13 “Libertador Simón Bolívar”
 - **Resultado inmediato:** Primera mujer venezolana y primera latinoamericana en clasificar como piloto de combate en el Sukhoi Su‑30MK2, hito que refuerza la inclusión de mujeres en unidades de caza de la FANB.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -68,7 +68,7 @@ La capitana Cindi Caraballo se suma a otras aviadoras venezolanas que han operad
 <p><strong>Nota aclaratoria sobre la fecha del evento:</strong> La fuente principal (Defensa.com) publicó la noticia el 25 de marzo de 2024, pero en su texto especifica que la ceremonia de graduación tuvo lugar “el pasado jueves, 21 de marzo”. Otras publicaciones en redes sociales, como la de @SA_Defensa (23 de marzo de 2024), comparten la información de la clasificación, confirmando el logro, aunque sin detallar la fecha exacta. En consecuencia, la fecha del 21 de marzo de 2024 es la que corresponde al acto oficial de graduación, tal como se documenta en la fuente institucional.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -79,7 +79,7 @@ La capitana Cindi Caraballo se suma a otras aviadoras venezolanas que han operad
     <li><a href="https://x.com/SA_Defensa/status/1771349207300940262">X – SA Defensa: Anuncio de la calificación de la capitana Cindi Caraballo (23 mar 2024)</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-23 16:45:00 UTC  

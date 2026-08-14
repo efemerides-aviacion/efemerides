@@ -21,7 +21,7 @@ image: 1991-12-04-ultimo-vuelo-pan-am.webp
 <p>El 4 de diciembre de 1991, Pan American World Airways (Pan Am), símbolo de la edad de oro de la aviación, cesó sus operaciones. El Vuelo 436, operado por el Boeing 727-221 Clipper Goodwill, aterrizó en Miami a las 11:07 a.m. EST, marcando el fin de una aerolínea que revolucionó los viajes internacionales durante más de seis décadas. La quiebra, acogida al Capítulo 11, fue resultado de décadas de desafíos financieros, agravados por la desregulación de 1978, el atentado de Lockerbie (1988) y la Guerra del Golfo (1990-1991).</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha de cierre operativo:** 4 de diciembre de 1991
@@ -35,7 +35,7 @@ image: 1991-12-04-ultimo-vuelo-pan-am.webp
 - **Causa del cierre:** Quiebra bajo Capítulo 11 de la Ley de Quiebras de EE.UU. (presentada el 8 de enero de 1991)
 - **Activos vendidos:** Rutas del Pacífico a United Airlines (1985); rutas del Atlántico y Pan Am Shuttle a Delta Air Lines (1991)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -65,7 +65,7 @@ La caída de Pan Am coincidió con el fin de la Guerra Fría y el surgimiento de
 - **4 de diciembre de 1991, 11:07 a.m.:** El Vuelo 436 aterriza en Miami, último vuelo comercial.
 - **Posterior:** Delta adquiere los activos restantes; el nombre Pan Am es revendido en subasta.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -74,13 +74,13 @@ La caída de Pan Am coincidió con el fin de la Guerra Fría y el surgimiento de
 - **Pérdida de empleos:** Más de 7,500 empleados perdieron sus puestos de trabajo en diciembre de 1991.
 - **Legado en seguridad aérea:** El atentado de Lockerbie impulsó reformas en la seguridad aeroportuaria internacional.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
 Pan Am permanece como un ícono cultural y un caso de estudio en gestión estratégica. Su logotipo azul y el término "Clipper" siguen siendo reconocibles mundialmente. El nombre ha sido revivido en proyectos posteriores (Pan Am Railways, Pan Am Brands, una serie de televisión de 2011), pero ninguna ha replicado su alcance original. El Boeing 727 N368PA fue desguazado en 2004 [NO CONFIRMADO: algunas fuentes indican que fue preservado parcialmente]. En 2021, el Museo Delta Air Lines en Atlanta exhibió recuerdos de Pan Am, y la aerolínea es recordada cada 4 de diciembre por entusiastas de la aviación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -98,7 +98,7 @@ Pan Am permanece como un ícono cultural y un caso de estudio en gestión estrat
   <p>La matrícula N368PA corresponde a un Boeing 727-221 construido en 1978, originalmente entregado a Pan Am. Tras el cierre, fue almacenado y posteriormente desguazado.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-03 10:00:00 UTC

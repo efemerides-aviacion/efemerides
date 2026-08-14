@@ -19,7 +19,7 @@ image: 2022-03-25-primer-vuelo-airbus-380-con-saf.jpg
 <div class="highlight-box">
 <p>El 25 de marzo de 2022, Airbus llevó a cabo el primer vuelo de un A380 con uno de sus motores funcionando exclusivamente con combustible de aviación sostenible (SAF). La aeronave de pruebas MSN1 despegó del aeropuerto de Toulouse‑Blagnac a las 08:43 horas y completó un vuelo de aproximadamente tres horas. Durante el ensayo, el motor Rolls‑Royce Trent 900 utilizó 27 toneladas de biocombustible no mezclado, mientras los otros tres motores operaron con queroseno convencional. Este hito forma parte de la estrategia de Airbus para certificar el uso de hasta 100% SAF en vuelos comerciales hacia 2030.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 25 de marzo de 2022
@@ -28,7 +28,7 @@ image: 2022-03-25-primer-vuelo-airbus-380-con-saf.jpg
 - **Aeronave/empresa involucrada:** Airbus A380 MSN1 (número de serie 001), equipado con cuatro motores Rolls‑Royce Trent 900
 - **Resultado inmediato:** Primer vuelo de un A380 con un motor alimentado 100% SAF, demostrando la viabilidad técnica del combustible sostenible no mezclado en el avión comercial más grande del mundo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -64,7 +64,7 @@ El vuelo del A380 con 100% SAF fue presentado como un hito mediático por Airbus
 
 El vuelo del A380 con 100% SAF se inscribe en una serie de hitos que están transformando la aviación comercial hacia una mayor sostenibilidad. Junto con las pruebas del A350 y A319neo, este evento confirma que la tecnología está madura para operar con combustibles no fósiles. A futuro, se espera que la certificación permita vuelos regulares con 100% SAF en toda la flota mundial, contribuyendo significativamente a la reducción de emisiones del sector.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -78,7 +78,7 @@ El vuelo del A380 con 100% SAF se inscribe en una serie de hitos que están tran
     <li><a href="https://skiesmag.com/airbus-a380-100-saf-test-flight/">Skies Mag – First A380 powered by 100% SAF takes to the skies</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-23 17:30:00 UTC  

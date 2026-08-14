@@ -19,7 +19,7 @@ image: 2019-04-13-primer-vuelo-stratolaunch.webp
 <div class="highlight-box">
 <p>El 13 de abril de 2019, el Stratolaunch Roc, diseñado por Scaled Composites para Stratolaunch Systems, realizó su primer vuelo desde el Mojave Air & Space Port en California. Con una envergadura récord de 117 metros (385 pies), el avión voló durante 2 horas y 30 minutos, alcanzando una altitud de 17.000 pies (5.182 metros) y una velocidad máxima de 304 km/h (189 mph). Concebido originalmente como plataforma de lanzamiento aéreo para cohetes orbitales, representa un hito en la aviación espacial privada y se mantiene como el avión con la mayor envergadura jamás construida.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha del primer vuelo:** 13 de abril de 2019
@@ -36,7 +36,7 @@ image: 2019-04-13-primer-vuelo-stratolaunch.webp
 - **Propósito original:** Lanzamiento aéreo de cohetes orbitales (Pegasus XL)
 - **Propósito actual (2023-2026):** Plataforma de pruebas para vehículos hipersónicos (Talon-A)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -51,7 +51,7 @@ El Stratolaunch Roc es una anomalía aeronáutica: dos fuselajes de Boeing 747 u
 ### Entorno cultural
 El primer vuelo del Roc coincidió con una época de euforia tecnológica en Estados Unidos, impulsada por los exitosos lanzamientos del Falcon Heavy de SpaceX (febrero de 2018) y la creciente competencia entre multimillonarios del sector aeroespacial: Elon Musk, Jeff Bezos, Richard Branson y, hasta su muerte, Paul Allen. El Roc fue percibido como un símbolo de ambición estadounidense y de la capacidad del capital privado para asumir riesgos que antes solo asumían los gobiernos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -67,7 +67,7 @@ El primer vuelo del Roc coincidió con una época de euforia tecnológica en Est
 - **2023-2024:** El Roc realiza vuelos de prueba con el vehículo hipersónico Talon-A separado bajo su ala.
 - **2025-2026:** Continúan las pruebas de lanzamiento aéreo de prototipos hipersónicos no tripulados.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -79,7 +79,7 @@ El primer vuelo del Roc coincidió con una época de euforia tecnológica en Est
 
 - **Legado de Paul Allen:** El vuelo se convirtió en un tributo póstumo al cofundador de Microsoft, demostrando que su visión de combinar aviación y espacio era técnicamente viable, incluso si el modelo de negocio original no lo era.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Estado actual / Legado
 
@@ -91,7 +91,7 @@ El primer vuelo del Roc coincidió con una época de euforia tecnológica en Est
 
 - **Exhibición y reconocimiento:** El avión no está en museos (sigue volando), pero ha aparecido en documentales de National Geographic, Discovery Channel y series como *World's Greatest Aircraft*. Su diseño único lo convierte en un imán para la atención mediática cada vez que realiza una prueba.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -110,7 +110,7 @@ El primer vuelo del Roc coincidió con una época de euforia tecnológica en Est
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-04-10 16:45:00 UTC

@@ -21,7 +21,7 @@ image: 2005-04-27-primer-vuelo-airbus-a380.webp
 <p>El Airbus A380 realizó su primer vuelo el 27 de abril de 2005 desde Toulouse-Blagnac, Francia, con el prototipo MSN001/F-WWOW. El vuelo inaugural despegó alrededor de las 10:29-10:30 hora local y fue tripulado por seis personas, con Jacques Rosay y Claude Lelaie entre los pilotos de prueba. Fue el inicio de la campaña de ensayos del avión de pasajeros más grande del mundo, concebido para el mercado de muy alta densidad.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -41,7 +41,7 @@ image: 2005-04-27-primer-vuelo-airbus-a380.webp
 - **Inversión total del programa:** 13.000 millones de dólares
 - **Coste unitario:** 282 millones de dólares (precio de catálogo en 2005)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -72,7 +72,7 @@ El primer vuelo del A380 fue un acontecimiento mediático global. El aeropuerto 
 - **27 de abril de 2025:** Se cumplió el 20º aniversario del primer vuelo del A380.
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El primer vuelo: detalles del evento
 
@@ -135,7 +135,7 @@ El 27 de abril de 2005, el A380 despegó por primera vez. Más de dos décadas d
 <p><strong>Sobre el nombre de Fernando Alonso:</strong> No debe confundirse con el piloto de Fórmula 1 homónimo. Se trata de un ingeniero español, vicepresidente de la división de pruebas de vuelo de Airbus.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -151,7 +151,7 @@ El 27 de abril de 2005, el A380 despegó por primera vez. Más de dos décadas d
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

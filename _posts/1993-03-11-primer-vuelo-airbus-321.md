@@ -19,7 +19,7 @@ image: 1993-03-11-primer-vuelo-airbus-321.jpg
 <div class="highlight-box">
 <p>El 11 de marzo de 1993 despegó por primera vez desde Hamburg-Finkenwerder el prototipo Airbus A321, versión de fuselaje alargado de la familia A320, impulsado por motores IAE V2500. Este vuelo inaugural abrió el camino para un modelo concebido como competidor directo del Boeing 757, ofreciendo mayor capacidad de pasajeros con elevada comunalidad respecto al A320. Lufthansa y Alitalia se convirtieron en clientes de lanzamiento, recibiendo sus primeros A321 en 1994 y consolidando la presencia del tipo en el mercado europeo. Con el tiempo, el A321 evolucionó hacia variantes de mayor alcance y eficiencia (A321neo, LR y XLR), que hoy forman parte esencial de las flotas de pasillo único en todo el mundo.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 11 de marzo de 1993
@@ -28,7 +28,7 @@ image: 1993-03-11-primer-vuelo-airbus-321.jpg
 - **Aeronave/empresa involucrada:** Airbus Industrie / Prototipo Airbus A321 (msn 023, matrícula F-WWIA)
 - **Resultado inmediato:** Éxito del vuelo inaugural de 4 horas y media, validando el diseño de la versión de fuselaje alargado del A320
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 A principios de la década de 1990, la aviación comercial europea se encontraba en plena expansión. Airbus, que había irrumpido en el mercado con el A320 en 1988, buscaba consolidar su presencia ofreciendo una familia completa de aviones de pasillo único que pudiera competir en todos los segmentos con los productos de Boeing y McDonnell Douglas.
@@ -81,7 +81,7 @@ El A321 ha evolucionado constantemente para mantenerse competitivo:
 
 La familia A321neo ha superado ampliamente las 1.700 órdenes, consolidando al tipo como uno de los modelos de pasillo único más exitosos del mundo y asegurando que el legado del primer vuelo de 1993 continúe durante muchas décadas más.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -97,7 +97,7 @@ La familia A321neo ha superado ampliamente las 1.700 órdenes, consolidando al t
     <li><a href="https://www.instagram.com/p/BgLzB_kg2HU/">Instagram @airbus – 25 aniversario del primer vuelo del A321</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-03-09 10:30:00 UTC  

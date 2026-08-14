@@ -21,7 +21,7 @@ image: 2009-04-25-primer-vuelo-boeing-p-8a-poseidon.webp
 <p>El 25 de abril de 2009 voló por primera vez el prototipo Boeing P-8A Poseidon, entonces identificado como T-1, iniciando el programa de patrulla marítima multimisión de la US Navy. El primer vuelo partió de Renton Field y concluyó en Boeing Field, Seattle, tras 3 horas y 31 minutos en el aire. Este hito marcó el inicio del reemplazo de los veteranos P-3 Orion, que habían servido durante más de cuatro décadas como la principal plataforma de guerra antisubmarina de la Armada estadounidense.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -41,7 +41,7 @@ image: 2009-04-25-primer-vuelo-boeing-p-8a-poseidon.webp
 - **Operador del vuelo:** Boeing (pilotos de pruebas de la compañía)
 - **Cliente del programa:** Armada de los Estados Unidos (US Navy)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -71,7 +71,7 @@ El P-8A es parte de una tendencia más amplia en la aviación militar: el uso de
 - **2013:** Primer despliegue operativo del P-8A.
 - **2020:** La Armada de EE. UU. completa la transición, retirando los últimos P-3C Orion.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El primer vuelo: el nacimiento del Poseidón
 
@@ -85,7 +85,7 @@ El vuelo inaugural no fue una entrega operativa a la US Navy, sino una fase inic
 
 Según el comunicado de prensa de Boeing del 27 de abril de 2009, el vuelo fue "completado con éxito", y el avión "demostró excelentes características de manejo y rendimiento".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Capacidades del P-8A Poseidon
 
@@ -112,7 +112,7 @@ El P-8A Poseidon es mucho más que un 737 militarizado. Sus capacidades lo convi
 
 El P-8A puede ser repostado en vuelo, extendiendo su ya largo alcance (mayor a 4.500 millas náuticas) prácticamente de forma ilimitada.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -124,7 +124,7 @@ El P-8A puede ser repostado en vuelo, extendiendo su ya largo alcance (mayor a 4
 
 - **Mejora de la capacidad ASW:** El P-8A es significativamente más capaz que el P-3 en la detección y seguimiento de submarinos, un factor crucial en el contexto de crecientes tensiones geopolíticas en el Indo-Pacífico.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -134,14 +134,14 @@ Hoy, los P-8A patrullan desde el Atlántico Norte hasta el Mar de China Meridion
 
 El primer prototipo T-1 continúa en servicio como avión de pruebas y desarrollo, aunque ha sido retirado gradualmente de las pruebas activas. Fue reemplazado por otros ejemplares de producción dedicados a la evaluación y entrenamiento.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el nombre "Poseidón":</strong> El nombre "Poseidón" (Poseidon en inglés) fue elegido en honor al dios griego del mar, en consonancia con la tradición de la US Navy de nombrar a sus aeronaves de patrulla marítima con referencias al mar o a deidades marinas (ej: Orion, Neptuno, Tritón).</p>
 <p><strong>Sobre la designación P-8A:</strong> La letra "P" en la designación de la aeronave indica su rol de patrulla marítima, mientras que "8" es el número de modelo y "A" la primera variante. El nombre "Poseidón" fue seleccionado por la US Navy.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -155,7 +155,7 @@ El primer prototipo T-1 continúa en servicio como avión de pruebas y desarroll
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 

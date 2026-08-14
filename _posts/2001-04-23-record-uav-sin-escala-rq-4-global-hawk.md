@@ -21,7 +21,7 @@ image: 2001-04-23-record-uav-sin-escala-rq-4-global-hawk.webp
 <p>El 23 de abril de 2001, el RQ-4 Global Hawk "Southern Cross II" de Northrop Grumman y la USAF estableció un récord FAI de distancia absoluta sin escala para UAV con 13.219,86 kilómetros en 23 horas y 23 minutos. Despegó el 22 de abril a las 4:48 a.m. PDT desde Edwards AFB, California, y aterrizó el 23 de abril a las 8:41 p.m. ACST en RAAF Base Edinburgh, Australia, cruzando por primera vez el Pacífico sin piloto. Fue el primer UAV en lograr esta hazaña transoceánica.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -39,7 +39,7 @@ image: 2001-04-23-record-uav-sin-escala-rq-4-global-hawk.webp
 - **Motor:** Rolls-Royce AE3007H (turbofán)
 - **Entidad certificadora:** Fédération Aéronautique Internationale (FAI)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -67,7 +67,7 @@ El nombre "Southern Cross II" era un homenaje al Southern Cross, el avión pilot
 - **23 de abril de 2001 (fecha de certificación):** La FAI ratifica el récord de distancia absoluta sin escala para UAV.
 - **8 de junio de 2001:** El mismo Global Hawk realiza el vuelo de regreso desde Adelaida a Edwards AFB en 22 horas 18 minutos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El vuelo récord: "Southern Cross II"
 
@@ -89,7 +89,7 @@ El vuelo transcurrió a una altitud de crucero de 65.000 pies (19.812 m), más d
 
 El 23 de abril de 2001, a las 8:41 p.m. hora estándar de Australia Central, el Global Hawk tocó tierra en la Base de la Real Fuerza Aérea Australiana en Edimburgo, Adelaida. Había recorrido 13.219,86 kilómetros en 23 horas y 23 minutos, estableciendo un nuevo récord mundial de distancia para un UAV.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La certificación del récord
 
@@ -97,7 +97,7 @@ La Fédération Aéronautique Internationale (FAI), organismo mundial que ratifi
 
 El récord se mantuvo vigente durante varios años, hasta que fue superado por otros UAV con capacidades de resistencia aún mayores, aunque el Global Hawk sigue siendo el primer UAV en cruzar el Pacífico sin escalas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La evaluación en Australia
 
@@ -105,7 +105,7 @@ El vuelo no fue solo una demostración tecnológica. Formaba parte de un program
 
 El éxito de esta evaluación allanó el camino para la posterior adquisición por parte de Australia del MQ-4C Triton, la versión marítima del Global Hawk, cuyo primer ejemplar fue ordenado en 2018.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -117,7 +117,7 @@ El éxito de esta evaluación allanó el camino para la posterior adquisición p
 
 - **Precedente para futuros récords:** El Global Hawk continuaría batiendo récords: en 2008, un modelo posterior estableció una marca de resistencia de 33,1 horas de vuelo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -127,14 +127,14 @@ El "Southern Cross II" pasó a la historia como el primer UAV en cruzar el Pací
 
 El récord de distancia sin escala para un UAV certificado por la FAI en 2001 sigue siendo un hito en la historia de la aviación no tripulada, recordando que, a veces, los mayores logros se alcanzan sin nadie a bordo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha del récord:</strong> Existe una discrepancia entre las fuentes consultadas respecto a la fecha exacta del récord. La Fédération Aéronautique Internationale (FAI) y Guinness World Records certifican el récord el <strong>23 de abril de 2001</strong>, fecha del aterrizaje en Australia. Algunas fuentes periodísticas mencionan el 24 de abril de 2001, probablemente por diferencias horarias entre Estados Unidos y Australia. El despegue ocurrió el 22 de abril a las 4:48 a.m. PDT, y el aterrizaje el 23 de abril a las 8:41 p.m. ACST (equivalente a las 2:11 a.m. PDT del 23 de abril). La duración total del vuelo fue de 23 horas y 23 minutos.</p>
 <p><strong>Sobre la clasificación FAI:</strong> La designación "U-2 (Helicóptero)" no indica que el Global Hawk sea un helicóptero. Es una convención interna de la FAI que adaptó para UAVs la estructura de subclases preexistente de la Clase E (Rotorcraft), manteniendo la nomenclatura original por razones administrativas.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -149,7 +149,7 @@ El récord de distancia sin escala para un UAV certificado por la FAI en 2001 si
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1a237e, #283593);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
