@@ -12,7 +12,7 @@ image: 1953-08-20-primer-vuelo-mas-largo-sin-escala-aviones-combate.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1953-08-20-primer-vuelo-mas-largo-sin-escala-aviones-combate.webp" alt="Un F-84G Thunderjet con sonda de reabastecimiento conectado a la manguera de un cisterna KB-29 en vuelo">
-  <figcaption class="post-caption">Un F-84G Thunderjet (51-277) reabastece en vuelo desde un KB-29 mediante sonda y canasta, una de las modalidades de reabastecimiento del tipo; los vuelos de agosto de 1953 se apoyaron en cisternas KB-29 y KC-97 del SAC. Fotografía de la USAF (1954), dominio público, vía Wikimedia Commons.</figcaption>
+  <figcaption class="post-caption">Un F-84G Thunderjet con marcajes FS-227 (numeral de cola 1227) reabastece en vuelo desde un KB-29 mediante sonda y canasta, una de las modalidades de reabastecimiento del tipo; los vuelos de agosto de 1953 se apoyaron en cisternas KB-29 y KC-97 del SAC. Fotografía de la USAF (1954), dominio público, vía Wikimedia Commons.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -97,6 +97,6 @@ Setenta y tres años después, el 20 de agosto de 1953 se recuerda como el día 
 - **Timestamp de verificación:** 2026-08-14 10:20:00 CST
 - **Fuentes primarias/institucionales consultadas:** Air Refueling Archive, de la History Office del Air Mobility Command (artículo de Mark L. Morgan)
 - **Fuentes secundarias de contraste:** Wikipedia (inglés, Republic F-84 Thunderjet y 508th Wing), Hangar 47
-- **Discrepancias resueltas:** el nombre «Operation Longstride» lo aplican Wikipedia y Hangar 47 al vuelo del 508th de agosto de 1953, mientras el archivo del AMC lo asigna al vuelo gemelo del 31st SFW a Marruecos de octubre de 1953; se conserva el nombre en el título por ser el uso más extendido y se describen ambos vuelos en la cronología. Las cisternas del vuelo de agosto figuran como KC-97 en el archivo del AMC y como KB-29/KC-97 en otras fuentes; se redacta KC-97 para el cruce y se menciona el KB-29 como equipo del ala y de la imagen. No se consigna duración exacta del vuelo de agosto por no constar en las fuentes leídas.
+- **Discrepancias resueltas:** el nombre «Operation Longstride» lo aplican Wikipedia y Hangar 47 al vuelo del 508th de agosto de 1953, mientras el archivo del AMC lo asigna al vuelo gemelo del 31st SFW a Marruecos de octubre de 1953; se conserva el nombre en el título por ser el uso más extendido y se describen ambos vuelos en la cronología. Las cisternas del vuelo de agosto figuran como KC-97 en el archivo del AMC y como KB-29/KC-97 en otras fuentes; se redacta KC-97 para el cruce y se menciona el KB-29 como equipo del ala y de la imagen. No se consigna duración exacta del vuelo de agosto por no constar en las fuentes leídas. La ficha de Commons de la fotografía la identifica como «51-277», pero los marcajes visibles (FS-227 en el fuselaje, 1227 en la cola) corresponden al serial 51-1227; el pie se redacta con los marcajes visibles (observación del investigador, 14 de agosto de 2026).
 - **Nivel de confianza:** Alto — núcleo del hecho respaldado por fuente institucional y secundarias independientes.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
