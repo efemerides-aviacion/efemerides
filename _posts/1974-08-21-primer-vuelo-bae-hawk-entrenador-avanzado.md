@@ -73,7 +73,7 @@ La trayectoria del Hawk se extiende desde un requerimiento de finales de los añ
 - **1979:** los Red Arrows sustituyen sus Folland Gnat por el Hawk, con el que vuelan desde entonces.
 - **1980:** Finlandia se convierte en el primer gran cliente extranjero, con un pedido de cincuenta Hawk Mk 51.
 - **1983-1986:** ochenta y ocho T1 se transforman en T1A, capaces de portar dos misiles AIM-9L Sidewinder además del cañón ADEN de 30 mm en góndola ventral, para la defensa de punto en cooperación con los interceptores Tornado F3.
-- **16 de abril de 1988:** vuela el T-45 Goshawk, versión embarcada desarrollada con McDonnell Douglas para la United States Navy (USN) (Armada de los Estados Unidos).
+- **16 de abril de 1988:** vuela en Long Beach el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1988/04/16/primer-vuelo-prototipo-t45-goshawk.html" style="color: #315fea; text-decoration: none;">prototipo del T-45 Goshawk</a>, versión embarcada desarrollada con McDonnell Douglas para la United States Navy (USN) (Armada de los Estados Unidos); reforzado para catapulta y gancho de detención, alcanzará las 221 unidades construidas.
 - **1991:** el T-45 alcanza la capacidad operativa en la USN, en sustitución del T-2C Buckeye y del TA-4J Skyhawk.
 - **2008:** comienza en la India la producción bajo licencia a cargo de Hindustan Aeronautics Limited (HAL).
 - **Diciembre de 2020:** cesa la fabricación de aviones en la planta británica de Brough, tras la última entrega a Qatar y ciento cuatro años de producción aeronáutica en el emplazamiento.
