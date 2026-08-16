@@ -52,6 +52,7 @@ En el ámbito aeronáutico, existía una cultura de innovación donde las compa�
 - **Abril de 1959:** Algunas fuentes (incluyendo la Super Sabre Society y la Wikipedia actual) sitúan el primer vuelo en esta fecha, posiblemente confundiendo el vuelo inaugural con la aceptación formal del prototipo por parte de la USAF.
 - **1961:**  Comienza la producción en serie del T-38A. La USAF realiza los primeros pedidos en firme.
 - **1962:**  El T-38 establece récords mundiales absolutos de tiempo de ascenso a 3.000, 6.000, 9.000 y 12.000 metros, superando las marcas del F-104 Starfighter y demostrando su excepcional relación empuje-peso.
+- **1974:** al otro lado del Atlántico vuela el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1974/08/21/primer-vuelo-bae-hawk-entrenador-avanzado.html" style="color: #315fea; text-decoration: none;">Hawker Siddeley Hawk, el 21 de agosto</a>, un entrenador subsónico de un solo motor que renuncia a la velocidad del Talon para ganar en economía de operación. Con más de 1.000 unidades entregadas a dieciocho operadores, se convertirá en el entrenador a reacción occidental de mayor difusión internacional, frente a las 1.187 del T-38, concentradas casi por completo en la Fuerza Aérea de los Estados Unidos y en un puñado de aliados.
 
 ### Consecuencias e Impacto
 
