@@ -55,6 +55,7 @@ La colaboración anglo-estadounidense en el programa T-45 representó un modelo 
 
 ### Desarrollo Cronológico
 
+- **21 de agosto de 1974:** vuela en Dunsfold el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1974/08/21/primer-vuelo-bae-hawk-entrenador-avanzado.html" style="color: #315fea; text-decoration: none;">Hawker Siddeley Hawk</a>, el entrenador terrestre del que catorce años después derivará el Goshawk. Superará las 1.000 unidades entregadas a dieciocho operadores, y es esa madurez comercial la que lo convierte en candidato solvente cuando la Armada estadounidense busca un entrenador ya probado en lugar de un diseño nuevo.
 - **1978:** La Armada de EE.UU. lanza formalmente el programa VTX-TS para un nuevo entrenador avanzado.
 - **Noviembre de 1981:** El equipo formado por British Aerospace y McDonnell Douglas es seleccionado como ganador con una versión navalizada del Hawk.
 - **1984:** Se elimina la variante T-45B (versión terrestre sin capacidad embarcada) y se opta por 300 unidades del T-45A.
