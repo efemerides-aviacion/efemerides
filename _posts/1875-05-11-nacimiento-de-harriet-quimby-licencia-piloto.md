@@ -33,7 +33,7 @@ Harriet Quimby fue una pionera de la aviación estadounidense nacida el 11 de ma
 - **Fallecimiento:** 1 de julio de 1912 (37 años), Squantum, Massachusetts
 - **Ocupaciones:** Aviadora, periodista, crítica teatral y guionista de cine
 - **Licencia de piloto:** 1 de agosto de 1911, Certificado Nº 37 del Aero Club of America
-- **Condición histórica:** Primera mujer estadounidense en obtener licencia de piloto; segunda mujer del mundo (tras la baronesa Raymonde de Laroche)
+- **Condición histórica:** Primera mujer estadounidense en obtener licencia de piloto; séptima del mundo, dieciséis meses después de la francesa Raymonde de Laroche
 - **Hazaña:** 16 de abril de 1912: primera mujer en cruzar el Canal de la Mancha en solitario (Dover, Inglaterra - Hardelot, Francia)
 - **Duración del cruce:** 1 hora y 9 minutos (69 minutos) según la BBC; 59 minutos según otras fuentes
 - **Aeronave utilizada:** Monoplano Blériot XI de 50 hp
@@ -74,7 +74,7 @@ En octubre de 1910, Quimby fue enviada por Leslie's Weekly a cubrir la Exposici�
 
 ### La obtención de la licencia
 
-Quimby aprendió a volar en la Escuela de Aviación Moisant en Hempstead, Long Island, donde su instructor fue Alfred Moisant, hermano de John. El 1 de agosto de 1911, tras 33 lecciones de vuelo, realizó las dos pruebas de calificación requeridas: un vuelo con un pasajero (demostrando control de la aeronave) y un vuelo de precisión en el aterrizaje. Obtuvo así la licencia de piloto Nº 37 del Aero Club of America, convirtiéndose en la primera mujer estadounidense en lograrlo y en la segunda del mundo, tras la baronesa francesa Raymonde de Laroche.
+Quimby aprendió a volar en la Escuela de Aviación Moisant en Hempstead, Long Island, donde su instructor fue Alfred Moisant, hermano de John. El 1 de agosto de 1911, tras 33 lecciones de vuelo, realizó las dos pruebas de calificación requeridas: un vuelo con un pasajero (demostrando control de la aeronave) y un vuelo de precisión en el aterrizaje. Obtuvo así la licencia de piloto Nº 37 del Aero Club of America, convirtiéndose en la primera mujer estadounidense en lograrlo y en la séptima del mundo. La habían precedido cinco francesas y una belga, empezando por <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1882/08/22/nacimiento-raymonde-de-laroche-aviadora-pionera-francesa.html" style="color: #315fea; text-decoration: none;">Raymonde de Laroche, brevetada el 8 de marzo de 1910 por el Aéro-Club de France</a>. Conviene precisar que el número 37 de su licencia no indica puesto mundial, sino el correlativo del Aero Club of America; la confusión entre ambas cifras explica que numerosas fuentes divulgativas la presenten erróneamente como la segunda mujer piloto del mundo.
 
 Matilde Moisant, hermana de sus instructores, obtuvo su licencia poco después, convirtiéndose en la segunda mujer estadounidense en hacerlo.
 
