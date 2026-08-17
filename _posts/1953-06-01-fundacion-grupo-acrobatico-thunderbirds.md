@@ -14,13 +14,13 @@ image: 1953-06-01-fundacion-grupo-acrobatico-thunderbirds.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1953-06-01-fundacion-grupo-acrobatico-thunderbirds.webp" alt="Aviones Republic F-84 Thunderjet del equipo Thunderbirds en la década de 1950">
   <figcaption class="post-caption">Aviones Republic F-84 Thunderjet del equipo acrobático de la U.S. Air Force Thunderbirds, fotografiados en la década de 1950 en la Base Aérea de Luke (Arizona), poco después de la fundación oficial del grupo el 1 de junio de 1953. Fuente: U.S. Air Force / archivo histórico.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Resumen Ejecutivo
 
 El 1 de junio de 1953, la Fuerza Aérea de los Estados Unidos activó oficialmente el **3600th Air Demonstration Team** en la Base Aérea de Luke, Arizona, dando origen a los **Thunderbirds**. El equipo fue creado tras el fin de la Guerra de Corea con la misión de demostrar al público estadounidense la seguridad, fiabilidad y maniobrabilidad de los aviones a reacción, que eran relativamente nuevos en la época. Estaba compuesto por **siete oficiales y veintidós soldados** de la base de Luke, hogar de la escuela de entrenamiento de vuelo avanzado de la USAF. Equipados inicialmente con cuatro cazas **Republic F-84G Thunderjet** , el equipo realizó su primera exhibición aérea el **16 de junio de 1953** en la Base Aérea de Williams, en Mesa, Arizona. Poco después adoptó el nombre **"Thunderbirds"** (Aves del Trueno), inspirado en la criatura legendaria de las culturas nativas del suroeste de Estados Unidos, símbolo de poder y fuerza sobrenatural.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -37,7 +37,7 @@ El 1 de junio de 1953, la Fuerza Aérea de los Estados Unidos activó oficialmen
 - **Adopción del nombre "Thunderbirds":** Poco después de la activación, influenciado por las culturas nativas del suroeste
 - **Base actual:** Nellis Air Force Base, Nevada (desde junio de 1956)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -55,7 +55,7 @@ El Republic F-84G Thunderjet fue el primer avión utilizado por los Thunderbirds
 
 La elección del nombre "Thunderbirds" refleja la influencia de las culturas nativas del suroeste de Estados Unidos. En las mitologías de varias tribus indígenas, el **Thunderbird** (Ave del Trueno) es una criatura sobrenatural de gran poder, capaz de crear tormentas con el batir de sus alas. El nombre evoca potencia, velocidad y precisión, valores que el equipo ha encarnado desde su fundación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico de los Thunderbirds
 
@@ -72,7 +72,7 @@ La elección del nombre "Thunderbirds" refleja la influencia de las culturas nat
 - **1983:** Transición al F-16 Fighting Falcon, que continúa en servicio.
 - **2023:** 70 aniversario de los Thunderbirds.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## La Tripulación Original (1953)
 
@@ -86,7 +86,7 @@ El equipo original de los Thunderbirds estaba compuesto por siete oficiales bajo
 
 La formación original era de cuatro aeronaves, que volaban en formación de diamante. Un quinto piloto actuaba como narrador y realizaba vuelos para prensa y VIP a bordo de un T-33 Shooting Star.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Aeronaves Utilizadas por los Thunderbirds
 
@@ -98,7 +98,7 @@ La formación original era de cuatro aeronaves, que volaban en formación de dia
 - **Northrop T-38 Talon (1974-1981):** Entrenador supersónico; usado para ahorrar combustible.
 - **Lockheed Martin F-16A/C Fighting Falcon (1983-presente):** Avión actual del equipo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Especificaciones Técnicas del Republic F-84G Thunderjet
 
@@ -117,7 +117,7 @@ El F-84G fue el primer avión utilizado por los Thunderbirds y una de las aerona
 - **Capacidad nuclear:** Una bomba Mark 7
 - **Unidades construidas:** 7.524
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## El Significado del Nombre "Thunderbirds"
 
@@ -127,7 +127,7 @@ En las mitologías de tribus como los **Pueblo**, **Hopi** y **Navajo**, el *Thu
 
 El nombre refleja perfectamente la misión del equipo: dominar el cielo con precisión, velocidad y potencia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -136,7 +136,7 @@ El nombre refleja perfectamente la misión del equipo: dominar el cielo con prec
 - **Referente mundial:** Los Thunderbirds se convirtieron en uno de los equipos acrobáticos más reconocidos del mundo, junto a los <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1946/04/24/fundacion-equipo-acrobatico-blue-angels.html" style="color: #315fea; text-decoration: none;">Blue Angels de la Armada de EE. UU.</a> (fundados en 1946) y la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1931/05/10/fundacion-patrouille-d-etampes.html" style="color: #315fea; text-decoration: none;">Patrouille de France</a>, cuya antecesora, la Patrouille d'Étampes, fue fundada en 1931 y es considerada la patrulla acrobática más antigua del mundo en servicio activo.
 - **Legado cultural:** El nombre "Thunderbirds" trascendió la aviación y se convirtió en un ícono cultural estadounidense, inspirando programas de televisión, videojuegos y otros productos mediáticos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -147,24 +147,24 @@ Los Thunderbirds son considerados **"los embajadores azules"** de la Fuerza Aér
 - **El "Diamond Crash" de 1982:** El 18 de enero de 1982, cuatro Northrop T-38A Talon se estrellaron durante un entrenamiento en Indian Springs AFAF, Nevada, en un accidente conocido como el "Diamond Crash". Murieron los cuatro pilotos. 
 - **La tradición del linaje:** Los Thunderbirds actuales portan el linaje, la historia y el honor del **30th Aero Squadron**, formado en Kelly Field, Texas, el 13 de junio de 1917.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="http://codeonemagazine.net/article.html?item_id=128">Code One Magazine – USAF Thunderbirds Sixtieth Anniversary</a> </li>
-    <li><a href="https://en.wikipedia.org/wiki/United_States_Air_Force_Thunderbirds">Wikipedia – United States Air Force Thunderbirds</a> </li>
-    <li><a href="https://www.britannica.com/topic/Thunderbirds">Britannica – Thunderbirds</a> </li>
-    <li><a href="https://www.homestead.afrc.af.mil/News/Photos/igphoto/2000492180/">Homestead Air Reserve Base – Thunderbirds activation</a> </li>
-    <li><a href="https://www.dvidshub.net/news/96612/thunderbirds-headline-2012-air-show">DVIDS – Thunderbirds to headline 2012 air show</a> </li>
-    <li><a href="https://www.dvidshub.net/image/6365989/usaf-thunderbirds">DVIDS – USAF Thunderbirds lineage</a> </li>
-    <li><a href="https://pacificwrecks.com/aircraft/f-84/tech.html">Pacific Wrecks – Republic F-84 Thunderjet Technical Information</a> </li>
-    <li><a href="https://en.wikipedia.org/wiki/Republic_F-84_Thunderjet">Wikipedia – Republic F-84 Thunderjet</a> </li>
+    <li><a href="http://codeonemagazine.net/article.html?item_id=128" style="color: #315fea; text-decoration: none;">Code One Magazine – USAF Thunderbirds Sixtieth Anniversary</a> </li>
+    <li><a href="https://en.wikipedia.org/wiki/United_States_Air_Force_Thunderbirds" style="color: #315fea; text-decoration: none;">Wikipedia – United States Air Force Thunderbirds</a> </li>
+    <li><a href="https://www.britannica.com/topic/Thunderbirds" style="color: #315fea; text-decoration: none;">Britannica – Thunderbirds</a> </li>
+    <li><a href="https://www.homestead.afrc.af.mil/News/Photos/igphoto/2000492180/" style="color: #315fea; text-decoration: none;">Homestead Air Reserve Base – Thunderbirds activation</a> </li>
+    <li><a href="https://www.dvidshub.net/news/96612/thunderbirds-headline-2012-air-show" style="color: #315fea; text-decoration: none;">DVIDS – Thunderbirds to headline 2012 air show</a> </li>
+    <li><a href="https://www.dvidshub.net/image/6365989/usaf-thunderbirds" style="color: #315fea; text-decoration: none;">DVIDS – USAF Thunderbirds lineage</a> </li>
+    <li><a href="https://pacificwrecks.com/aircraft/f-84/tech.html" style="color: #315fea; text-decoration: none;">Pacific Wrecks – Republic F-84 Thunderjet Technical Information</a> </li>
+    <li><a href="https://en.wikipedia.org/wiki/Republic_F-84_Thunderjet" style="color: #315fea; text-decoration: none;">Wikipedia – Republic F-84 Thunderjet</a> </li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -175,11 +175,11 @@ Los Thunderbirds son considerados **"los embajadores azules"** de la Fuerza Aér
   <p><strong>5. Relación con otros equipos acrobáticos:</strong> Los Thunderbirds son el tercer equipo acrobático formal más antiguo del mundo, después de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1931/05/10/fundacion-patrouille-d-etampes.html" style="color: #1b5e20; text-decoration: none;">Patrouille de France</a> (1931) y los <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1946/04/24/fundacion-equipo-acrobatico-blue-angels.html" style="color: #1b5e20; text-decoration: none;">Blue Angels</a> (1946).</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-29 19:00:00 UTC
+- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
 - **Fuentes primarias consultadas:** Code One Magazine, Wikipedia, Britannica, Homestead AFB, DVIDS, Pacific Wrecks
 - **Discrepancias resueltas:** Confirmación de la fecha oficial de activación (1 de junio de 1953) frente a menciones de "mayo de 1953" en fuentes generalistas. Verificación del avión inicial (F-84G Thunderjet) y de la primera exhibición (16 de junio de 1953). Corrección de la fecha del accidente de 1982 (18 de enero, no "enero" sin día).
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales, incluyendo la Fuerza Aérea de EE. UU., coinciden en los datos fundamentales)

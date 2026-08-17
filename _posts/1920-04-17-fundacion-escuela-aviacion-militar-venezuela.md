@@ -15,14 +15,14 @@ image: 1920-04-17-fundacion-escuela-aviacion-militar-venezuela.webp
   <figcaption class="post-caption">Hangares de la recién creada Escuela de Aviación Militar en Maracay, estado Aragua, hacia 1920. Estas instalaciones, diseñadas por el ingeniero Luis Guillermo Salas Díaz, albergaron los primeros aviones Caudron G-3 de la aviación venezolana. Fuente: Fundación Arquitectura y Ciudad.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 17 de abril de 1920, el presidente provisional Victoriano Márquez Bustillos, por decreto Nº 127 y por orden del general Juan Vicente Gómez, se creó la Escuela de Aviación Militar de Venezuela. Este hito marcó el nacimiento formal de la aviación militar en el país, con sede en Maracay, estado Aragua. La escuela comenzó a operar con instructores y aeronaves francesas (Caudron G-3) y fue instalada oficialmente el 10 de diciembre de 1920. Con el tiempo, esta institución se transformaría en la actual Academia Militar de la Aviación Bolivariana (AMAB), formando a generaciones de pilotos y defensores del espacio aéreo venezolano durante más de un siglo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -37,7 +37,7 @@ image: 1920-04-17-fundacion-escuela-aviacion-militar-venezuela.webp
 - **Primeras aeronaves:** Caudron G-3 (monomotor) y posteriormente hidroaviones G-4 bimotores
 - **Denominación actual:** Academia Militar de la Aviación Bolivariana (AMAB)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -72,7 +72,7 @@ La figura del piloto aviador despertaba fascinación. El gobierno de Gómez prom
 - **2006:** Se incorpora el Plan de Estudios "Simón Rodríguez" bajo instrucciones del presidente Hugo Chávez.
 - **2020:** Se conmemora el centenario de la creación de la escuela, ya denominada Academia Militar de la Aviación Bolivariana (AMAB).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## La Fundación: detalles relevantes
 
@@ -96,7 +96,7 @@ La escuela comenzó a operar con tres aviones Caudron G-3 adquiridos a Francia. 
 
 El 10 de diciembre de 1920 se llevó a cabo el acto de instalación de la escuela, presidido por el coronel David López Henríquez. Esta fecha es considerada por algunas fuentes como el inicio efectivo de las operaciones de la aviación militar en Venezuela.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -108,7 +108,7 @@ El 10 de diciembre de 1920 se llevó a cabo el acto de instalación de la escuel
 
 - **Patrimonio histórico:** El hangar principal y el edificio de aulas diseñado por Carlos Guinand Sandoz fueron declarados Sitios de Interés Artístico, Histórico y Arquitectónico del estado Aragua el 21 de noviembre de 1997.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado y continuidad: El Grupo de Entrenamiento Aéreo N° 14 "Escorpiones"
 
@@ -124,37 +124,37 @@ Actualmente, el GEA-14 "Escorpiones" opera desde la **Base Aérea Escuela Marisc
 
 El Grupo también comparte misiones de apoyo aéreo cercano, equipando sus aeronaves con lanzacohetes SBAT 70 de 70 mm, pods de ametralladoras FN HMP y bombas Mark 82 de 500 libras, lo que demuestra su versatilidad operativa más allá del entrenamiento.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="http://www.presidencia.gob.ve/Site/Web/Principal/paginas/classMostrarEvento3.php?id_evento=27464">MPP Despacho de la Presidencia - Venezuela celebra Aniversario de creación de su Escuela de Aviación Militar</a></li>
-    <li><a href="https://fundaayc.com/category/crono-arquitectura-venezuela/1920-1929/1920/">Fundación Arquitectura y Ciudad - Creación de la Escuela de Aviación Militar, Maracay</a></li>
-    <li><a href="https://www.defensa.com/en-abierto/n-100-anos-aviacion-militar-venezuela">Defensa.com - 100 años de la aviación militar en Venezuela</a></li>
-    <li><a href="https://rnv.gob.ve/hoy-se-cumplen-98-anos-de-la-creacion-de-la-escuela-de-aviacion-militar/">RNV - Maduro recordó aniversario de la Escuela de Aviación Militar</a></li>
-    <li><a href="https://diariovea.com.ve/tal-dia-como-hoy-fue-inaugurada-la-escuela-de-aviacion-militar-venezolana/">DiarioVea - Tal día como hoy fue inaugurada la Escuela de Aviación Militar Venezolana</a></li>
-    <li><a href="https://www.ciudadvalencia.com.ve/maduro-reconoce-escuela-aviacion-militar/">Diario Ciudad Valencia - Pdte. Nicolás Maduro reconoce trayectoria de Escuela de la Aviación Militar</a></li>
-    <li><a href="http://ciudadccs.net/publicacion/16940-presidente-maduro-saluda-aniversario-de-escuela-de-aviacion-militar">Ciudad CCS - Presidente Maduro saluda aniversario de Escuela de Aviación Militar</a></li>
-    <li><a href="https://www.mppef.gob.ve/venezuela-celebra-la-fundacion-de-la-escuela-de-la-aviacion-militar-de-la-patria/">MPPEF - Venezuela celebra la fundación de la Escuela de la Aviación Militar de la Patria</a></li>
-    <li><a href="https://ultimasnoticias.com.ve/general/academia-militar-de-la-aviacion-bolivariana-celebra-100-anos/">Últimas Noticias - Academia Militar de la Aviación Bolivariana celebra 100 años</a></li>
-    <li><a href="https://www.defensa.com/venezuela/aviacion-militar-venezuela-devuelve-operaciones-cuarto-avion-t">Defensa.com - La Aviación Militar de Venezuela devuelve a operaciones su cuarto avión Embraer T-27 Tucano (mención al GEA-14)</a></li>
+    <li><a href="http://www.presidencia.gob.ve/Site/Web/Principal/paginas/classMostrarEvento3.php?id_evento=27464" style="color: #315fea; text-decoration: none;">MPP Despacho de la Presidencia - Venezuela celebra Aniversario de creación de su Escuela de Aviación Militar</a></li>
+    <li><a href="https://fundaayc.com/category/crono-arquitectura-venezuela/1920-1929/1920/" style="color: #315fea; text-decoration: none;">Fundación Arquitectura y Ciudad - Creación de la Escuela de Aviación Militar, Maracay</a></li>
+    <li><a href="https://www.defensa.com/en-abierto/n-100-anos-aviacion-militar-venezuela" style="color: #315fea; text-decoration: none;">Defensa.com - 100 años de la aviación militar en Venezuela</a></li>
+    <li><a href="https://rnv.gob.ve/hoy-se-cumplen-98-anos-de-la-creacion-de-la-escuela-de-aviacion-militar/" style="color: #315fea; text-decoration: none;">RNV - Maduro recordó aniversario de la Escuela de Aviación Militar</a></li>
+    <li><a href="https://diariovea.com.ve/tal-dia-como-hoy-fue-inaugurada-la-escuela-de-aviacion-militar-venezolana/" style="color: #315fea; text-decoration: none;">DiarioVea - Tal día como hoy fue inaugurada la Escuela de Aviación Militar Venezolana</a></li>
+    <li><a href="https://www.ciudadvalencia.com.ve/maduro-reconoce-escuela-aviacion-militar/" style="color: #315fea; text-decoration: none;">Diario Ciudad Valencia - Pdte. Nicolás Maduro reconoce trayectoria de Escuela de la Aviación Militar</a></li>
+    <li><a href="http://ciudadccs.net/publicacion/16940-presidente-maduro-saluda-aniversario-de-escuela-de-aviacion-militar" style="color: #315fea; text-decoration: none;">Ciudad CCS - Presidente Maduro saluda aniversario de Escuela de Aviación Militar</a></li>
+    <li><a href="https://www.mppef.gob.ve/venezuela-celebra-la-fundacion-de-la-escuela-de-la-aviacion-militar-de-la-patria/" style="color: #315fea; text-decoration: none;">MPPEF - Venezuela celebra la fundación de la Escuela de la Aviación Militar de la Patria</a></li>
+    <li><a href="https://ultimasnoticias.com.ve/general/academia-militar-de-la-aviacion-bolivariana-celebra-100-anos/" style="color: #315fea; text-decoration: none;">Últimas Noticias - Academia Militar de la Aviación Bolivariana celebra 100 años</a></li>
+    <li><a href="https://www.defensa.com/venezuela/aviacion-militar-venezuela-devuelve-operaciones-cuarto-avion-t" style="color: #315fea; text-decoration: none;">Defensa.com - La Aviación Militar de Venezuela devuelve a operaciones su cuarto avión Embraer T-27 Tucano (mención al GEA-14)</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Existen dos fechas clave en la fundación de la Escuela de Aviación Militar de Venezuela: el 17 de abril de 1920 (fecha del decreto de creación) y el 10 de diciembre de 1920 (fecha de instalación oficial en Maracay). La efeméride se conmemora el 17 de abril, por ser la fecha del decreto fundacional.</p>
 <p><strong>Sobre el Grupo de Entrenamiento Aéreo N° 14 "Escorpiones":</strong> Si bien esta unidad celebra su aniversario el 17 de abril en honor a la Escuela de Aviación Militar, su creación formal ocurrió el 10 de octubre de 1947 y su reorganización definitiva el 17 de abril de 1960, fecha que adoptó como su conmemoración oficial. La información sobre las fechas de 1947 y 1960 proviene de investigación preliminar no confirmada con fuentes oficiales primarias.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-14 09:00:00 UTC
+- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
 - **Fuentes primarias consultadas:** Presidencia de Venezuela, Fundación Arquitectura y Ciudad, Defensa.com, RNV, DiarioVea, Ciudad Valencia, Ciudad CCS, MPPEF, Últimas Noticias
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre la fecha del decreto (17 de abril de 1920) y la fecha de instalación (10 de diciembre de 1920). En cuanto al GEA-14 "Escorpiones", se ha documentado su existencia y misión actual, pero las fechas específicas de su fundación (1947) y reorganización (1960) no han podido ser verificadas con fuentes oficiales primarias, por lo que se presentan como investigación preliminar.
 - **Nivel de confianza:** Alto

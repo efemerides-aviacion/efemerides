@@ -14,14 +14,14 @@ image: 1926-02-10-vuelo-historico-plus-ultra.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1926-02-10-vuelo-historico-plus-ultra.jpg" alt="El Plus Ultra tras amerizar en Buenos Aires">
   <figcaption class="post-caption">Vista aérea del hidroavión Dornier Do J Wal "Plus Ultra" (M-MWAL) amerizando en el Río de la Plata, Buenos Aires, rodeado de canoas locales el 10 de febrero de 1926, culminando el primer vuelo trasatlántico España-Sudamérica. Museo del Aire y prensa periodística</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 10 de febrero de 1926 el hidroavión Dornier Do J Wal <strong>Plus Ultra</strong> amerizó en Buenos Aires, completando el primer vuelo trasatlántico entre España y Sudamérica, tras despegar de Palos de la Frontera el 22 de enero y cubrir más de 10.000 km en varias etapas.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos Verificados
 - **Fecha:** 10 de febrero de 1926  
 - **Lugar:** Río de la Plata, Buenos Aires, Argentina  
@@ -32,7 +32,7 @@ image: 1926-02-10-vuelo-historico-plus-ultra.jpg
 - **Distancia total:** entre 10.170 y 10.825 km  
 - **Tiempo de vuelo acumulado:** ~59 h 40 min  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El vuelo del Plus Ultra fue una hazaña técnica y simbólica que reforzó los lazos entre España y América, marcando un hito en la aviación trasatlántica.
 
@@ -48,30 +48,30 @@ El vuelo buscaba explorar la posibilidad de establecer líneas de correo rápido
 ### Destino del avión
 El rey Alfonso XIII donó el Plus Ultra a Argentina en 1926. Sirvió como avión correo hasta 1936 y luego pasó al Museo de Luján. En los años 80 fue enviado a España para restauración, pero regresó a Argentina, donde permanece exhibido en el Museo del Transporte de Luján. En Madrid, el Museo del Aire conserva una réplica a tamaño real del hidroavión.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Plus_Ultra_(aircraft)">Wikipedia (EN) – Plus Ultra (aircraft)</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Plus_Ultra_(hidroavi%C3%B3n)">Wikipedia (ES) – Plus Ultra (hidroavión)</a></li>
-    <li><a href="https://espanaenlahistoria.org/efemerides/espanaenlahistoria-10-de-febrero/">España en la Historia – El «Plus Ultra» ameriza en Argentina</a></li>
-    <li><a href="https://www.acami.es/efemerides/10-de-febrero-de-1926/">ACAMI – 10 de febrero de 1926</a></li>
-    <li><a href="https://www.lavanguardia.com/hemeroteca/20110210/54112279705/cuando-el-plus-ultra-llego-a-america.html">La Vanguardia – Cuando el Plus Ultra llegó a América</a></li>
-    <li><a href="https://latinamericanpost.com/science-technology/plus-ultra-flight-100-years-of-the-historic-air-journey-linking-spain-and-buenos-aires">LatinAmerican Post – Plus Ultra Flight</a></li>
-    <li><a href="https://www.infobae.com/america/agencias/2026/01/21/vuelo-del-plus-ultra-cien-anos-de-la-hazana-aerea-que-unio-espana-y-buenos-aires/">Infobae – Vuelo del Plus Ultra</a></li>
-    <li><a href="https://ciudadanosviajeros.com.ar/news-64867-a-100-anos-del-plus-ultra-la-travesia-aerea-que-unio-espana-y-argentina">Ciudadanos Viajeros – A 100 años del Plus Ultra</a></li>
-    <li><a href="https://tribunadelpueblo.com.ar/2026/01/16/se-cumplen-100-anos-de-la-hazana-del-plus-ultra/">Tribuna del Pueblo – Se cumplen 100 años</a></li>
-    <li><a href="https://www.davidpublisher.com/Public/uploads/Contribute/56b160ef86c5f.pdf">Méndez, J. S. – The Raid of the “Plus Ultra” (PDF)</a></li>
-    <li><a href="http://testdelayer.blogspot.com/2024/12/hidroavion-dornier-do-j-plus-ultra-en.html">Testdelayer – Hidroavión Dornier Do J Plus Ultra en Luján</a></li>
-    <li><a href="https://www.elcivismo.com.ar/notas/57566/">El Civismo – Restauración del Plus Ultra en los años 80</a></li>
-    <li><a href="https://www.monumentalnet.org/monumento.php?r=M-079000100-MAD-MON-PLU-ULT&seo=monumento-a-l-plus-ultra-madrid-comunidad-de-madrid">Monumentalnet – Réplica del Plus Ultra en Madrid</a></li>
-    <li><a href="https://inclusion.gob.es/web/cartaespana/w/plus-ultra-noventa-anos-de-una-hazana-irrepetible">Carta España – Plus Ultra: noventa años</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Plus_Ultra_(aircraft)" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Plus Ultra (aircraft)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Plus_Ultra_(hidroavi%C3%B3n)" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Plus Ultra (hidroavión)</a></li>
+    <li><a href="https://espanaenlahistoria.org/efemerides/espanaenlahistoria-10-de-febrero/" style="color: #315fea; text-decoration: none;">España en la Historia – El «Plus Ultra» ameriza en Argentina</a></li>
+    <li><a href="https://www.acami.es/efemerides/10-de-febrero-de-1926/" style="color: #315fea; text-decoration: none;">ACAMI – 10 de febrero de 1926</a></li>
+    <li><a href="https://www.lavanguardia.com/hemeroteca/20110210/54112279705/cuando-el-plus-ultra-llego-a-america.html" style="color: #315fea; text-decoration: none;">La Vanguardia – Cuando el Plus Ultra llegó a América</a></li>
+    <li><a href="https://latinamericanpost.com/science-technology/plus-ultra-flight-100-years-of-the-historic-air-journey-linking-spain-and-buenos-aires" style="color: #315fea; text-decoration: none;">LatinAmerican Post – Plus Ultra Flight</a></li>
+    <li><a href="https://www.infobae.com/america/agencias/2026/01/21/vuelo-del-plus-ultra-cien-anos-de-la-hazana-aerea-que-unio-espana-y-buenos-aires/" style="color: #315fea; text-decoration: none;">Infobae – Vuelo del Plus Ultra</a></li>
+    <li><a href="https://ciudadanosviajeros.com.ar/news-64867-a-100-anos-del-plus-ultra-la-travesia-aerea-que-unio-espana-y-argentina" style="color: #315fea; text-decoration: none;">Ciudadanos Viajeros – A 100 años del Plus Ultra</a></li>
+    <li><a href="https://tribunadelpueblo.com.ar/2026/01/16/se-cumplen-100-anos-de-la-hazana-del-plus-ultra/" style="color: #315fea; text-decoration: none;">Tribuna del Pueblo – Se cumplen 100 años</a></li>
+    <li><a href="https://www.davidpublisher.com/Public/uploads/Contribute/56b160ef86c5f.pdf" style="color: #315fea; text-decoration: none;">Méndez, J. S. – The Raid of the “Plus Ultra” (PDF)</a></li>
+    <li><a href="http://testdelayer.blogspot.com/2024/12/hidroavion-dornier-do-j-plus-ultra-en.html" style="color: #315fea; text-decoration: none;">Testdelayer – Hidroavión Dornier Do J Plus Ultra en Luján</a></li>
+    <li><a href="https://www.elcivismo.com.ar/notas/57566/" style="color: #315fea; text-decoration: none;">El Civismo – Restauración del Plus Ultra en los años 80</a></li>
+    <li><a href="https://www.monumentalnet.org/monumento.php?r=M-079000100-MAD-MON-PLU-ULT&seo=monumento-a-l-plus-ultra-madrid-comunidad-de-madrid" style="color: #315fea; text-decoration: none;">Monumentalnet – Réplica del Plus Ultra en Madrid</a></li>
+    <li><a href="https://inclusion.gob.es/web/cartaespana/w/plus-ultra-noventa-anos-de-una-hazana-irrepetible" style="color: #315fea; text-decoration: none;">Carta España – Plus Ultra: noventa años</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-02-09 09:30 UTC  
+- **Timestamp de verificación:** 2026-08-17 17:31:53 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN y ES), prensa española y argentina, ACAMI, Infobae, estudios académicos, Testdelayer, El Civismo, Monumentalnet  
 - **Discrepancias resueltas:** destino final del avión (original en Argentina, réplica en Madrid)  
 - **Nivel de confianza:** Alto  

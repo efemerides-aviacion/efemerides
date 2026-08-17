@@ -15,13 +15,13 @@ image: 1906-05-11-nacimiento-jacqueline-cochran-barrera-sonido.webp
   <figcaption class="post-caption">Jacqueline Cochran, retratada en uniforme de la Fuerza Aérea de EE. UU. hacia 1943, en una fotografía histórica atribuida a la U.S. Air Force / AFHRA y reproducida en la página de la City of Pensacola dedicada a su biografía. Fuente: City of Pensacola, “Jacqueline Cochran” / imagen de archivo de la USAF.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Resumen Ejecutivo
 
 Jacqueline Cochran nació el 11 de mayo de 1906 en Muscogee, Florida, en el seno de una familia humilde, y se convirtió en una de las aviadoras más importantes del siglo XX. Fue la primera mujer en superar la velocidad del sonido (18 de mayo de 1953) y dejó una huella decisiva en la aviación militar y deportiva. Fundó y dirigió el programa WASP (Women Airforce Service Pilots) durante la Segunda Guerra Mundial, y al momento de su muerte ostentaba más récords de velocidad, distancia y altitud que cualquier otro piloto, hombre o mujer.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -39,7 +39,7 @@ Jacqueline Cochran nació el 11 de mayo de 1906 en Muscogee, Florida, en el seno
 - **Condecoraciones:** Medalla por Servicio Distinguido del Ejército (DSM), Legión al Mérito, Cruz de Vuelo Distinguido (tres veces)
 - **Fallecimiento:** 9 de agosto de 1980 en Indio, California
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Especificaciones del F-86 Sabre
 
@@ -55,7 +55,7 @@ El F-86 Sabre fue el primer caza a reacción de ala en flecha de la Fuerza Aére
 - **Armamento:** 6 ametralladoras Browning M2 de 12,7 mm (.50 cal)
 - **Ala en flecha:** 35 grados (diseño inspirado en investigaciones aerodinámicas alemanas de la Segunda Guerra Mundial)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -73,7 +73,7 @@ Rápidamente, Cochran se hizo amiga de Amelia Earhart, la aviadora más famosa d
 
 Cochran quedó fascinada con las carreras aéreas. Su primera carrera internacional fue la MacRobertson Air Race de 1934, de Londres a Melbourne, Australia. En 1935, estableció Jacqueline Cochran Cosmetics y entró en su primera Bendix Race, quedando en tercer lugar. En 1938, ganó la prestigiosa Bendix Race, volando un Seversky AP-7 desde Burbank, California, hasta Cleveland en 8 horas, 10 minutos y 31 segundos, a una velocidad media de 402 km/h (250 mph). Ese mismo año, fue galardonada con su primer Trofeo Harmon como la mejor aviadora del mundo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -100,7 +100,7 @@ Cochran quedó fascinada con las carreras aéreas. Su primera carrera internacio
 - **1971:** Es incluida en el Salón de la Fama de la Aviación Nacional.
 - **1980 (9 de agosto):** Fallece en su casa de Indio, California.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Las WASP: el legado militar de Cochran
 
@@ -110,7 +110,7 @@ Su éxito en la ATA llamó la atención del general Henry "Hap" Arnold, comandan
 
 Bajo el liderazgo de Cochran, más de 1.000 mujeres pilotos se graduaron en el programa WASP en Avenger Field, Texas. Las WASP volaron más de 60 millones de millas, transportando todo tipo de aeronaves militares (78 tipos diferentes), incluyendo los cazas P-51 Mustang, P-39 Airacobra y P-63 Kingcobra, así como los bombarderos B-17 Flying Fortress y B-29 Superfortress. Aunque 38 WASP perdieron la vida en servicio, no recibieron beneficios militares porque fueron consideradas personal civil, no militar. El programa WASP fue disuelto en diciembre de 1944. En 1945, Cochran recibió la Medalla por Servicio Distinguido del Ejército por su liderazgo, la más alta condecoración no combatiente.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## El récord de velocidad y la barrera del sonido
 
@@ -130,7 +130,7 @@ Cochran alcanzó una velocidad máxima de 1.044 km/h (649 mph) en el picado, sup
 
 Cochran no se detuvo ahí. El 3 de junio de 1964, pilotando un F-104G Starfighter, estableció un récord mundial de velocidad femenino de 2.300 km/h (1.429 mph), más del doble de la velocidad del sonido (Mach 2). Se convirtió así en la primera mujer en alcanzar Mach 2. Ese mismo año, estableció récords adicionales de velocidad sobre 15 km y 100 km. En 1967, a la edad de 61 años, estableció sus últimos 8 récords de velocidad en un F-104, demostrando que su pasión por volar era inquebrantable.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -140,7 +140,7 @@ Cochran no se detuvo ahí. El 3 de junio de 1964, pilotando un F-104G Starfighte
 - **Reconocimiento internacional:** Fue la primera mujer presidente de la Federación Aeronáutica Internacional (FAI) y fue nombrada "Aviatriz del Siglo" en 1961.
 - **Legado perdurable:** El programa WASP allanó el camino para la integración de las mujeres en la Fuerza Aérea de los Estados Unidos, que no ocurrió oficialmente hasta 1977.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -159,27 +159,27 @@ El 18 de mayo de 1953, cuando su F-86 Sabre rompió la barrera del sonido sobre 
 <p><strong>Sobre el F-86 Sabre:</strong> La versión utilizada por Cochran era un Canadair F-86 Sabre Mk.3, prestado por la Fuerza Aérea Canadiense. Su motor era un General Electric J47-GE-13.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://worldairsports.aero/news/anniversary-jacqueline-cochran-sound-barrier">FAI - 70th Anniversary of Jacqueline Cochran breaking sound barrier</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/2381869/women-in-the-air-force-displays-in-world-war-ii-gallery/">National Museum of the USAF - Women in the Air Force (WASP)</a></li>
-    <li><a href="https://paulgarbershrine.org/jacqueline-cochran/">Paul Garber Shrine - Jacqueline Cochran (Inducted 1968)</a></li>
-    <li><a href="https://waspmuseum.org/avenger-news/jackie-cochran-and-the-need-for-speed-by-julia-lauria-blum/">National WASP WWII Museum - Jackie Cochran and the Need for Speed</a></li>
-    <li><a href="https://dos.fl.gov/historical/museums/historical-museums/united-connections/women-in-history/jacqueline-cochran/">Florida Department of State - Jacqueline Cochran</a></li>
-    <li><a href="https://valor.militarytimes.com/hero/46292/">Military Times - Jacqueline Cochran (Awards)</a></li>
-    <li><a href="https://www.guinnessworldrecords.com/world-records/first-person-to-break-the-sound-barrier-(female)">Guinness World Records - First person to break the sound barrier (female)</a></li>
+    <li><a href="https://worldairsports.aero/news/anniversary-jacqueline-cochran-sound-barrier" style="color: #315fea; text-decoration: none;">FAI - 70th Anniversary of Jacqueline Cochran breaking sound barrier</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/2381869/women-in-the-air-force-displays-in-world-war-ii-gallery/" style="color: #315fea; text-decoration: none;">National Museum of the USAF - Women in the Air Force (WASP)</a></li>
+    <li><a href="https://paulgarbershrine.org/jacqueline-cochran/" style="color: #315fea; text-decoration: none;">Paul Garber Shrine - Jacqueline Cochran (Inducted 1968)</a></li>
+    <li><a href="https://waspmuseum.org/avenger-news/jackie-cochran-and-the-need-for-speed-by-julia-lauria-blum/" style="color: #315fea; text-decoration: none;">National WASP WWII Museum - Jackie Cochran and the Need for Speed</a></li>
+    <li><a href="https://dos.fl.gov/historical/museums/historical-museums/united-connections/women-in-history/jacqueline-cochran/" style="color: #315fea; text-decoration: none;">Florida Department of State - Jacqueline Cochran</a></li>
+    <li><a href="https://valor.militarytimes.com/hero/46292/" style="color: #315fea; text-decoration: none;">Military Times - Jacqueline Cochran (Awards)</a></li>
+    <li><a href="https://www.guinnessworldrecords.com/world-records/first-person-to-break-the-sound-barrier-(female)" style="color: #315fea; text-decoration: none;">Guinness World Records - First person to break the sound barrier (female)</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-09 13:00:00 UTC
+- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
 - **Fuentes primarias consultadas:** FAI (worldairsports.aero), National Museum of the USAF (.mil), Paul Garber Shrine, National WASP WWII Museum, Florida Department of State (.gov), Military Times, Guinness World Records
 - **Discrepancias resueltas:** La fecha de nacimiento (11 de mayo de 1906) es consistente en todas las fuentes. La fecha del récord de velocidad y ruptura de la barrera del sonido es el 18 de mayo de 1953. La velocidad alcanzada varía ligeramente entre fuentes (652,5 mph / 1.050,15 km/h en el récord de 100 km; 649 mph / 1.044 km/h en la velocidad máxima en picado). Se ha incluido la información del programa WASP y las condecoraciones.
 - **Nivel de confianza:** Alto

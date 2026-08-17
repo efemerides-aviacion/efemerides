@@ -14,15 +14,15 @@ redirect_from:
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1924-04-09-nacimiento-milburn-apt-x2.webp" alt="Milburn G. Apt junto al Bell X-2">
-  <figcaption class="post-caption">El capitán Milburn G. Apt posa junto al Bell X-2 "Starbuster" en la Base de la Fuerza Aérea Edwards, California, 1956. Apt se convertiría en el primer piloto en superar Mach 3 durante su primer y último vuelo en el X-2. Fuente: <a href="https://en.wikipedia.org/wiki/Milburn_Apt">Wikipedia / Milburn G. Apt</a>.</figcaption>
+  <figcaption class="post-caption">El capitán Milburn G. Apt posa junto al Bell X-2 "Starbuster" en la Base de la Fuerza Aérea Edwards, California, 1956. Apt se convertiría en el primer piloto en superar Mach 3 durante su primer y último vuelo en el X-2. Fuente: <a href="https://en.wikipedia.org/wiki/Milburn_Apt" style="color: #315fea; text-decoration: none;">Wikipedia / Milburn G. Apt</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 9 de abril de 1924 nació en Buffalo, Kansas, Milburn Grant "Mel" Apt, capitán de la Fuerza Aérea de los Estados Unidos y piloto de pruebas. El 27 de septiembre de 1956, a bordo del Bell X-2 "Starbuster", se convirtió en el primer ser humano en superar Mach 3, alcanzando una velocidad récord de 3.377 km/h (Mach 3,196) a una altitud de 19.977 m. Trágicamente, durante la maniobra de regreso, la aeronave sufrió un acoplamiento inercial y perdió el control. Apt activó la cápsula de escape, pero falleció en el impacto. Su hazaña póstuma le valió la Cruz de Vuelo Distinguido y su nombre quedó grabado en la historia de la aviación como pionero de los vuelos hipersónicos.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos del evento
 
@@ -50,7 +50,7 @@ redirect_from:
   - Cruz de Vuelo Distinguido (Distinguished Flying Cross, póstuma)
 - **Familia:** Esposa Faye Lorrie Baker y dos hijas (Sharman Apt Russell, escritora)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -68,7 +68,7 @@ El Bell X-2 era una aeronave experimental propulsada por cohetes, diseñada espe
 
 El X-2 era conocido como el "Starbuster" (Destructor de estrellas). Los pilotos que volaban estas máquinas pertenecían a una élite, y sus nombres —Iven Kincheloe ("First of the Spacemen"), Frank Everest ("Fastest Man Alive"), Milburn Apt— se convirtieron en leyenda. La película y el libro "The Right Stuff" (La elegida) de Tom Wolfe inmortalizaron a estos pioneros, y el accidente de Apt fue mostrado a los aspirantes a pilotos del X-15 como una lección sobre los riesgos extremos de la profesión.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -104,7 +104,7 @@ El X-2 era conocido como el "Starbuster" (Destructor de estrellas). Los pilotos 
 
 - **Posterioridad:** A los aspirantes a pilotos del X-15 se les mostraba la película a bordo del accidente fatal de Apt, filmada por una cámara montada detrás de él en la cabina, como una lección sobre los riesgos de la profesión.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -118,7 +118,7 @@ El X-2 era conocido como el "Starbuster" (Destructor de estrellas). Los pilotos 
 
 - **Legado heroico:** Apt fue el decimotercer piloto de pruebas fallecido en la Base Edwards desde 1950. Su nombre se inscribió en el muro de los caídos y su hazaña es recordada como un hito en la conquista de la velocidad.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -136,20 +136,20 @@ Milburn G. Apt es recordado como un pionero de los vuelos hipersónicos, cuyo sa
 
 - **Legado en la aviación:** Apt demostró que la velocidad Mach 3 era alcanzable, allanando el camino para programas como el X-15, que alcanzaría Mach 6,7, y para la aviación comercial supersónica (Concorde y Tu-144). Su nombre queda grabado junto al de otros pioneros como Chuck Yeager (primer Mach 1), Scott Crossfield y Iven Kincheloe.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Milburn_G._Apt">Wikipedia (ES) – Milburn G. Apt</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Milburn_Apt">Wikipedia (EN) – Milburn Apt</a></li>
-    <li><a href="https://www.nasa.gov/aeronautics/bell-x-2/">NASA – Bell X-2 Starbuster</a></li>
-    <li><a href="https://www.nasa.gov/image-article/x-2/">NASA – X-2 (imagen y descripción)</a></li>
-    <li><a href="https://www.dfrc.nasa.gov/Gallery/Photo/X-2/HTML/ET-128.html">NASA Dryden – X-2 Número 1 (#674) en vuelo</a></li>
-    <li><a href="https://www.edwards.af.mil/News/Article/394758/starbuster-55-years-ago-capt-mel-apt-conquered-mach-3-lost-life-on-fated-flight/">Edwards AFB – Starbuster: 55 years ago Capt. Mel Apt conquered Mach 3</a></li>
-    <li><a href="https://www.kansashistory.gov/kansapedia/milburn-g-apt/18258">Kansas Historical Society – Milburn G. Apt</a></li>
-    <li><a href="https://www.infobae.com/sociedad/2025/09/27/la-tragedia-segundos-despues-de-un-record-alcanzo-tres-veces-la-velocidad-del-sonido-pero-el-descenso-le-tendio-una-trampa/">Infobae – La tragedia segundos después de un récord (27 de septiembre de 2025)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Milburn_G._Apt" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Milburn G. Apt</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Milburn_Apt" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Milburn Apt</a></li>
+    <li><a href="https://www.nasa.gov/aeronautics/bell-x-2/" style="color: #315fea; text-decoration: none;">NASA – Bell X-2 Starbuster</a></li>
+    <li><a href="https://www.nasa.gov/image-article/x-2/" style="color: #315fea; text-decoration: none;">NASA – X-2 (imagen y descripción)</a></li>
+    <li><a href="https://www.dfrc.nasa.gov/Gallery/Photo/X-2/HTML/ET-128.html" style="color: #315fea; text-decoration: none;">NASA Dryden – X-2 Número 1 (#674) en vuelo</a></li>
+    <li><a href="https://www.edwards.af.mil/News/Article/394758/starbuster-55-years-ago-capt-mel-apt-conquered-mach-3-lost-life-on-fated-flight/" style="color: #315fea; text-decoration: none;">Edwards AFB – Starbuster: 55 years ago Capt. Mel Apt conquered Mach 3</a></li>
+    <li><a href="https://www.kansashistory.gov/kansapedia/milburn-g-apt/18258" style="color: #315fea; text-decoration: none;">Kansas Historical Society – Milburn G. Apt</a></li>
+    <li><a href="https://www.infobae.com/sociedad/2025/09/27/la-tragedia-segundos-despues-de-un-record-alcanzo-tres-veces-la-velocidad-del-sonido-pero-el-descenso-le-tendio-una-trampa/" style="color: #315fea; text-decoration: none;">Infobae – La tragedia segundos después de un récord (27 de septiembre de 2025)</a></li>
   </ul>
 </div>
 
@@ -164,11 +164,11 @@ Milburn G. Apt es recordado como un pionero de los vuelos hipersónicos, cuyo sa
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-06 12:45:00 UTC
+- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), NASA (.gov), Edwards Air Force Base (.mil), Kansas Historical Society (.gov), Infobae
 - **Discrepancias resueltas:**
   - Fecha de nacimiento: 8 de abril vs 9 de abril de 1924 → Se utiliza el 9 de abril (fecha mayoritariamente documentada en fuentes oficiales).

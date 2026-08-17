@@ -15,14 +15,14 @@ image: 1904-05-04-nacimiento-joaquin-garcia-morato.webp
   <figcaption class="post-caption">Retrato en blanco y negro de Joaquín García-Morato Castaño de joven en uniforme de la Fuerza Aérea Española con insignias de alas y estrella, circa 1920s-1930s. Fuente: Cosas de Historia y Arte.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de mayo de 1904 nació en Melilla Joaquín García-Morato y Castaño, el máximo as de la aviación española que alcanzó 40 derribos durante la Guerra Civil (1936-1939). Formó la Patrulla Azul con los capitanes Julio Salvador y Narciso Bermúdez de Castro, pilotando el emblemático Fiat CR.32, y fue el único aviador condecorado con la Cruz Laureada de San Fernando, la máxima distinción militar española. Acumuló 1.012 horas de vuelo, 511 misiones de guerra y 144 combates aéreos, convirtiéndose en una leyenda de la aviación española. Falleció el 4 de abril de 1939 en un accidente durante una exhibición aérea en Griñón (Madrid), apenas tres días después del fin de la contienda.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -39,7 +39,7 @@ image: 1904-05-04-nacimiento-joaquin-garcia-morato.webp
 - **Combates aéreos:** 144
 - **Condecoración principal:** Cruz Laureada de San Fernando (12 de mayo de 1937)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -79,7 +79,7 @@ La década de 1930 fue la "Edad de Oro" de la aviación, con pilotos como Lindbe
 - **4 de abril de 1939:** Fallece en accidente aéreo en Griñón durante una exhibición
 - **1950:** Se le concede, a título póstumo, el título de Conde del Jarama
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## La Patrulla Azul
 
@@ -100,7 +100,7 @@ En abril de 1937, la Patrulla Azul se convirtió en la Escuadrilla de Caza 1-E-3
 
 Este grupo se convertiría en una de las unidades de caza más legendarias de la guerra. En el trofeo de guerra del grupo, un trozo de ala de un avión enemigo en el que se pintaban las siluetas de los aparatos derribados, figuran los nombres de los pilotos caídos del 2-G-3: trece nombres, entre ellos el del propio García-Morato, añadido tras su muerte. Este trofeo se conserva en el Museo del Aire de Madrid.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## La acción del Jarama (18 de febrero de 1937)
 
@@ -120,7 +120,7 @@ Al ver el tremendo peligro que afrontaban los españoles, el capitán italiano N
 
 Por su valor en esta acción, García-Morato fue propuesto para la Cruz Laureada de San Fernando, la máxima condecoración militar española. Le fue concedida el 12 de mayo de 1937 y le fue impuesta por el general Kindelán en el aeródromo de campaña de Castejón del Puente el 18 de marzo de 1938. Fue el único piloto español que recibió esta distinción durante la guerra.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## El Fiat CR.32 "Chirri"
 
@@ -141,7 +141,7 @@ Su avión personal, con la matrícula 3-51, se convirtió en un símbolo. Llevab
 - **Autonomía:** 780 km
 - **Techo de servicio:** 8.800 m
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## La muerte del as
 
@@ -151,7 +151,7 @@ En una de las pasadas, cuando su Fiat CR.32 efectuaba un looping invertido (vuel
 
 Su cadáver fue trasladado a Málaga, donde fue enterrado. Recibió honores de general y sobre su féretro se impuso la Medalla Militar póstuma. Fue ascendido póstumamente a comandante por estar en posesión de la Cruz Laureada de San Fernando. En 1950, el gobierno español le concedió, a título póstumo, el título de Conde del Jarama.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -159,7 +159,7 @@ Su cadáver fue trasladado a Málaga, donde fue enterrado. Recibió honores de g
 - **Formación de una generación de pilotos:** García-Morato contribuyó decisivamente a la formación de los pilotos de la Aviación Nacional. La Patrulla Azul y el Grupo 2-G-3 se convirtieron en el germen de la moderna caza española.
 - **Legado militar y cultural:** La Patrulla Azul, con su emblema de las tres aves y la divisa "Vista, suerte y al toro", se convirtió en una leyenda. Actualmente, el emblema del Ala 11 de Eurofighter del Ejército del Aire español está inspirado en la Patrulla Azul. En 1950 recibió el título póstumo de Conde del Jarama. El 2-G-3 perdió a trece pilotos durante la guerra, cuyos nombres figuran en el trofeo de guerra conservado en el Museo del Aire de Madrid.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -179,26 +179,26 @@ Hoy, más de 85 años después de su muerte, Joaquín García-Morato sigue siend
 <p><strong>Sobre el título de Conde del Jarama:</strong> Le fue concedido a título póstumo en 1950, en reconocimiento a sus méritos durante la batalla del Jarama (febrero de 1937).</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Garc%C3%ADa_Morato">Wikipedia (ES) - Joaquín García-Morato</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Garc%C3%ADa_Morato">Wikipedia (EN) - Joaquín García Morato</a></li>
-    <li><a href="http://surfcity.kund.dalnet.se/spain_morato.htm">Biplane Fighter Aces - Joaquín García Morato y Castaño</a></li>
-    <li><a href="http://museoaviacionmilitarespaola.blogspot.com/2019/10/recuerdo-los-caidos-del-2-g-3-1937-1939.html">Museo Aviación Militar Española - Recuerdo a los caídos del 2-G-3</a></li>
-    <li><a href="https://nuestrahistoria.es/joaquin-garcia-morato-gran-as-aviacion-espanola/">Nuestra Historia - Joaquín García-Morato, el gran as de la aviación española</a></li>
-    <li><a href="https://apuntessobrelamarcha.wordpress.com/2016/04/06/patrulla-azul/">Apuntes sobre la marcha - Patrulla Azul</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Garc%C3%ADa_Morato" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Joaquín García-Morato</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Garc%C3%ADa_Morato" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Joaquín García Morato</a></li>
+    <li><a href="http://surfcity.kund.dalnet.se/spain_morato.htm" style="color: #315fea; text-decoration: none;">Biplane Fighter Aces - Joaquín García Morato y Castaño</a></li>
+    <li><a href="http://museoaviacionmilitarespaola.blogspot.com/2019/10/recuerdo-los-caidos-del-2-g-3-1937-1939.html" style="color: #315fea; text-decoration: none;">Museo Aviación Militar Española - Recuerdo a los caídos del 2-G-3</a></li>
+    <li><a href="https://nuestrahistoria.es/joaquin-garcia-morato-gran-as-aviacion-espanola/" style="color: #315fea; text-decoration: none;">Nuestra Historia - Joaquín García-Morato, el gran as de la aviación española</a></li>
+    <li><a href="https://apuntessobrelamarcha.wordpress.com/2016/04/06/patrulla-azul/" style="color: #315fea; text-decoration: none;">Apuntes sobre la marcha - Patrulla Azul</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-03 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), Biplane Fighter Aces, Museo Aviación Militar Española, Apuntes sobre la marcha
 - **Discrepancias resueltas:** La fecha de nacimiento (4 de mayo de 1904) es consistente en todas las fuentes. La fecha de concesión de la Laureada varía entre el 12 de mayo de 1937 y el 25 de mayo de 1937; se ha priorizado la primera. El número de victorias (40) es consistente. La distribución de victorias entre el Heinkel He 51 y el Fiat CR.32 está documentada en fuentes especializadas.
 - **Nivel de confianza:** Alto

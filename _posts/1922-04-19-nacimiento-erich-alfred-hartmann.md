@@ -15,14 +15,14 @@ image: 1922-04-19-nacimiento-erich-alfred-hartmann.webp
   <figcaption class="post-caption">Erich Hartmann en uniforme de la Luftwaffe con la Cruz de Caballero, circa 1943-1944. Fuente: The Aviation History Online Museum / Larry Dwyer.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Erich Alfred Hartmann nació el 19 de abril de 1922 en Weissach, Württemberg, Alemania, y se convirtió en el as de caza más exitoso de la historia del combate aéreo. Combatió en la Luftwaffe durante la Segunda Guerra Mundial, acumulando 352 derribos (345 aeronaves soviéticas y 7 estadounidenses). Su figura sigue siendo una de las más citadas en la historia de la aviación militar, no solo por su récord de victorias, sino por su código de honor: nunca perdió a un compañero de escuadrilla en combate.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -40,7 +40,7 @@ image: 1922-04-19-nacimiento-erich-alfred-hartmann.webp
 - **Condecoraciones:** Cruz de Caballero de la Cruz de Hierro con Hojas de Roble, Espadas y Diamantes
 - **Rango final:** Mayor (equivalente a Comandante)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -58,7 +58,7 @@ La madre de Erich, Elisabeth Hartmann, fue una de las primeras mujeres alemanas 
 
 La Alemania nazi promovía la aviación como una actividad de élite y como preparación para una futura fuerza aérea. Hartmann se unió a la Luftwaffe en 1940, a los 18 años, completando su entrenamiento de piloto de combate en 1942. Fue destinado al Frente Oriental, donde la guerra aérea alcanzó niveles de intensidad sin precedentes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico de su Vida y Carrera
 
@@ -86,7 +86,7 @@ La Alemania nazi promovía la aviación como una actividad de élite y como prep
 - **1970:** Se retira del servicio activo con el rango de Oberst (Coronel).
 - **20 de septiembre de 1993:** Fallece en Weil im Schönbuch, Alemania.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## El As de Ases: Táctica y Filosofía de Combate
 
@@ -108,7 +108,7 @@ A pesar de su increíble número de victorias, Hartmann siempre afirmó que su m
 
 A lo largo de su carrera, Hartmann se vio obligado a realizar aterrizajes forzosos en 16 ocasiones. Ninguno de ellos fue resultado directo del fuego enemigo. La mayoría se debió a esquirlas de los aviones que acababa de derribar (que dañaban su propio motor o fuselaje) o a fallos mecánicos. Hartmann nunca fue herido en combate.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -120,7 +120,7 @@ A lo largo de su carrera, Hartmann se vio obligado a realizar aterrizajes forzos
 
 - **Exoneración póstuma por Rusia:** En enero de 1997, cuatro años después de su muerte, el gobierno ruso exoneró formalmente a Hartmann de los cargos de crímenes de guerra por los que había sido condenado en 1945. Rusia reconoció que la condena no había sido legal.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -132,35 +132,35 @@ La biografía autorizada de Hartmann, "The Blond Knight of Germany" (El Caballer
 
 Hartmann falleció el 20 de septiembre de 1993 en Weil im Schönbuch, Alemania, a la edad de 71 años. Está enterrado junto a su esposa Ursula (fallecida en 1996) en el cementerio de Weil im Schönbuch.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las 352 victorias:</strong> La cifra de 352 derribos es la más aceptada por los historiadores y está respaldada por los Archivos Federales Alemanes (Bundesarchiv). Sin embargo, existen discrepancias menores entre las fuentes: algunas mencionan 345 victorias sobre aviones soviéticos y 7 sobre estadounidenses (total 352), mientras que otras presentan el total sin desglosar. El Guinness World Records también reconoce a Hartmann como el as de la aviación con el mayor número de derribos en la Segunda Guerra Mundial. También es importante señalar que Hartmann nunca fue derribado por fuego enemigo directo; sus 16 aterrizajes forzosos se debieron a esquirlas de los aviones que derribaba o a fallos mecánicos.</p>
 <p><strong>Nota sobre su cautiverio:</strong> Aunque Hartmann se rindió voluntariamente a las fuerzas estadounidenses el 8 de mayo de 1945, los acuerdos aliados de Yalta establecían que los prisioneros de guerra debían ser entregados al país contra el que habían combatido. Dado que Hartmann había pasado toda la guerra derribando aviones soviéticos en el Frente Oriental, fue entregado a la Unión Soviética el 24 de mayo de 1945, donde permaneció encarcelado durante 10 años.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Erich_Hartmann">Wikipedia (EN) - Erich Hartmann</a></li>
-    <li><a href="https://archives.museumofflight.org/agents/people/438">The Museum of Flight Archives - Hartmann, Erich, 1922-1993</a></li>
-    <li><a href="https://www.guinnessworldrecords.com/world-records/65375-highest-scoring-air-ace-for-world-war-ii">Guinness World Records - Highest scoring air ace for World War II</a></li>
-    <li><a href="https://gl.wikipedia.org/wiki/Erich_Hartmann">Wikipedia (GL) - Erich Hartmann</a></li>
-    <li><a href="https://www.ecured.cu/Erich_Hartmann">EcuRed - Erich Hartmann</a></li>
-    <li><a href="https://www.historyhit.com/erich-hartmann-the-deadliest-fighter-pilot-in-history/">History Hit - Erich Hartmann: The Deadliest Fighter Pilot in History</a></li>
-    <li><a href="https://www.sps-aviation.com/story/?id=472">SP's Aviation - Erich Hartmann (1922-1993)</a></li>
-    <li><a href="https://www.lavanguardia.com/historiayvida/historia-contemporanea/20220419/8199012/erich-hartmann-diablo-negro-luftwaffe.html">La Vanguardia / Historia y Vida - Erich Hartmann, el Diablo Negro de la Luftwaffe</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Erich_Hartmann" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Erich Hartmann</a></li>
+    <li><a href="https://archives.museumofflight.org/agents/people/438" style="color: #315fea; text-decoration: none;">The Museum of Flight Archives - Hartmann, Erich, 1922-1993</a></li>
+    <li><a href="https://www.guinnessworldrecords.com/world-records/65375-highest-scoring-air-ace-for-world-war-ii" style="color: #315fea; text-decoration: none;">Guinness World Records - Highest scoring air ace for World War II</a></li>
+    <li><a href="https://gl.wikipedia.org/wiki/Erich_Hartmann" style="color: #315fea; text-decoration: none;">Wikipedia (GL) - Erich Hartmann</a></li>
+    <li><a href="https://www.ecured.cu/Erich_Hartmann" style="color: #315fea; text-decoration: none;">EcuRed - Erich Hartmann</a></li>
+    <li><a href="https://www.historyhit.com/erich-hartmann-the-deadliest-fighter-pilot-in-history/" style="color: #315fea; text-decoration: none;">History Hit - Erich Hartmann: The Deadliest Fighter Pilot in History</a></li>
+    <li><a href="https://www.sps-aviation.com/story/?id=472" style="color: #315fea; text-decoration: none;">SP's Aviation - Erich Hartmann (1922-1993)</a></li>
+    <li><a href="https://www.lavanguardia.com/historiayvida/historia-contemporanea/20220419/8199012/erich-hartmann-diablo-negro-luftwaffe.html" style="color: #315fea; text-decoration: none;">La Vanguardia / Historia y Vida - Erich Hartmann, el Diablo Negro de la Luftwaffe</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-17 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
 - **Fuentes primarias consultadas:** Wikipedia (EN, GL), The Museum of Flight Archives, Guinness World Records, History Hit, SP's Aviation, La Vanguardia
 - **Discrepancias resueltas:** Las fuentes coinciden en las fechas de nacimiento y fallecimiento, así como en la cifra de 352 victorias. El año exacto de su mudanza a China varía entre 1925 y 1926 según las fuentes; se ha optado por 1925. La cifra de misiones de combate varía entre 1.404 y 1.425 según la fuente; se ha priorizado la del archivo del Museo de Vuelo (1.404).
 - **Nivel de confianza:** Alto

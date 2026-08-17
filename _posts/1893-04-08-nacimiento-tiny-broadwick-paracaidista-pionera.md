@@ -14,16 +14,16 @@ redirect_from:
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1893-04-08-nacimiento-tiny-broadwick-paracaidista-pionera.webp" alt="Tiny Broadwick posando con su paracaídas tipo mochila, década de 1910">
-  <figcaption class="post-caption">Georgia "Tiny" Broadwick, la "Primera Dama del Paracaidismo", fotografiada con el paracaídas de mochila diseñado por Charles Broadwick. Fuente: <a href="https://www.airandspace.si.edu/stories/editorial/georgia-tiny-broadwicks-parachute">National Air and Space Museum / Smithsonian Institution</a>.</figcaption>
+  <figcaption class="post-caption">Georgia "Tiny" Broadwick, la "Primera Dama del Paracaidismo", fotografiada con el paracaídas de mochila diseñado por Charles Broadwick. Fuente: <a href="https://www.airandspace.si.edu/stories/editorial/georgia-tiny-broadwicks-parachute" style="color: #315fea; text-decoration: none;">National Air and Space Museum / Smithsonian Institution</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 8 de abril de 1893 nació Georgia Ann Thompson en Oxford, Carolina del Norte. Conocida como "Tiny" por su diminuto tamaño (1.42 m y 39 kg), se convertiría en una de las pioneras más audaces de la aviación. El 21 de junio de 1913 fue la primera mujer en saltar en paracaídas desde un avión. En 1914, durante una demostración para el Ejército de EE.UU., protagonizó la primera caída libre premeditada de la historia: al enredarse su línea estática en la cola del avión, decidió conscientemente cortarla con un cuchillo y abrir su paracaídas manualmente, demostrando que los pilotos podían abandonar aeronaves en emergencia sin necesidad de línea estática. Realizó más de 1.100 saltos antes de retirarse en 1922 y donó su paracaídas al Smithsonian en 1964.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos del evento
 
@@ -41,7 +41,7 @@ redirect_from:
 - **Retiro:** 1922
 - **Reconocimientos:** Miembro de Early Birds of Aviation; Miembro honoraria de la 82ª División Aerotransportada; Premio Pioneer Aviation del gobierno de EE.UU.; Medalla John Glenn
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -59,7 +59,7 @@ En 1908, cuando Tiny realizó su primer salto desde un globo, los paracaídas er
 
 La figura del "barnstormer" (piloto/acróbata ambulante) era popular en las ferias estadounidenses. Tiny fue presentada como "The Doll Girl" (La Niña Muñeca), vestida con lazos rosas y un bonete, un contraste intencional entre su apariencia infantil y la audacia de sus saltos. Aunque ella detestaba este estereotipo, la estrategia de marketing la convirtió en la atracción principal del espectáculo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -94,7 +94,7 @@ La figura del "barnstormer" (piloto/acróbata ambulante) era popular en las feri
 
 - **25 de agosto de 1978 (85 años):** Fallece en Long Beach, California. Es enterrada en Henderson, Carolina del Norte.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -106,7 +106,7 @@ La figura del "barnstormer" (piloto/acróbata ambulante) era popular en las feri
 
 - **Inspiración para la aviación comercial:** Su demostración de que era posible abandonar una aeronave en vuelo y abrir el paracaídas manualmente dio confianza a miles de pilotos que vinieron después. Como dijo un oficial del Ejército, "Broadwick es como el abuelo de los paracaidistas".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -124,20 +124,20 @@ Tiny Broadwick es recordada como la **"Primera Dama del Paracaidismo"** (First L
 
 - **Preservación histórica:** Su paracaídas original se exhibe en el **National Air and Space Museum** del Smithsonian en Washington D.C.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://www.airandspace.si.edu/stories/editorial/georgia-tiny-broadwicks-parachute">National Air and Space Museum – Georgia "Tiny" Broadwick's Parachute</a></li>
-    <li><a href="http://ncpedia-01.dcs.mcnc.org/biography/broadwick-tiny">NCpedia – Tiny Broadwick: The First Lady of Parachuting (State Archives of North Carolina)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Georgia_Broadwick">Wikipedia (EN) – Georgia Broadwick</a></li>
-    <li><a href="https://pt.m.wikipedia.org/wiki/Tiny_Broadwick">Wikipedia (PT) – Tiny Broadwick</a></li>
-    <li><a href="https://www.dncr.nc.gov/blog/2016/06/21/parachutist-tiny-broadwick-vance-county">NC DNCR – Parachutist Tiny Broadwick of Vance County (Gobierno de Carolina del Norte)</a></li>
-    <li><a href="https://www.museumofwomenpilots.org/women-pilots-georgia-tiny-broadwick-8.htm">Museum of Women Pilots – Georgia (Tiny) Broadwick</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Charles_Broadwick">Wikipedia (EN) – Charles Broadwick (inventor del paracaídas tipo mochila y línea estática)</a></li>
-    <li><a href="https://parachutist.com/article/you-people-did-what-the-long-and-sometimes-crazy-history-of-skydiving-instructional-methods">Parachutist Magazine – Historia del sistema static-line y caída libre</a></li>
+    <li><a href="https://www.airandspace.si.edu/stories/editorial/georgia-tiny-broadwicks-parachute" style="color: #315fea; text-decoration: none;">National Air and Space Museum – Georgia "Tiny" Broadwick's Parachute</a></li>
+    <li><a href="http://ncpedia-01.dcs.mcnc.org/biography/broadwick-tiny" style="color: #315fea; text-decoration: none;">NCpedia – Tiny Broadwick: The First Lady of Parachuting (State Archives of North Carolina)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Georgia_Broadwick" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Georgia Broadwick</a></li>
+    <li><a href="https://pt.m.wikipedia.org/wiki/Tiny_Broadwick" style="color: #315fea; text-decoration: none;">Wikipedia (PT) – Tiny Broadwick</a></li>
+    <li><a href="https://www.dncr.nc.gov/blog/2016/06/21/parachutist-tiny-broadwick-vance-county" style="color: #315fea; text-decoration: none;">NC DNCR – Parachutist Tiny Broadwick of Vance County (Gobierno de Carolina del Norte)</a></li>
+    <li><a href="https://www.museumofwomenpilots.org/women-pilots-georgia-tiny-broadwick-8.htm" style="color: #315fea; text-decoration: none;">Museum of Women Pilots – Georgia (Tiny) Broadwick</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Charles_Broadwick" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Charles Broadwick (inventor del paracaídas tipo mochila y línea estática)</a></li>
+    <li><a href="https://parachutist.com/article/you-people-did-what-the-long-and-sometimes-crazy-history-of-skydiving-instructional-methods" style="color: #315fea; text-decoration: none;">Parachutist Magazine – Historia del sistema static-line y caída libre</a></li>
   </ul>
 </div>
 
@@ -149,11 +149,11 @@ Tiny Broadwick es recordada como la **"Primera Dama del Paracaidismo"** (First L
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-05 14:30:00 UTC
+- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
 - **Fuentes primarias consultadas:** National Air and Space Museum (Smithsonian), NCpedia/State Archives of North Carolina, NC DNCR (.gov), Museum of Women Pilots, Wikipedia (EN/PT), Parachutist Magazine
 - **Discrepancias resueltas:**
   - Fecha del primer salto desde avión: 1912 vs 1913 → Se optó por 21 de junio de 1913 (fecha más citada), con nota aclaratoria.

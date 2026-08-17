@@ -12,16 +12,16 @@ image: 1909-05-10-nacimiento-valentina-stepanova-grizodubova.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1909-05-10-nacimiento-valentina-stepanova-grizodubova.webp" alt="Retrato de Valentina Grizodúbova joven en uniforme militar soviético">
-  <figcaption class="post-caption">Retrato en blanco y negro de Valentina Grizodúbova joven en uniforme militar soviético, circa 1930s. Fuente: <a href="https://es.gw2ru.com/historia/14468-tres-sovieticas-morir-aviacion">Tres soviéticas estuvieron a punto de morir persiguiendo el sueño de la aviación.</a></figcaption>
+  <figcaption class="post-caption">Retrato en blanco y negro de Valentina Grizodúbova joven en uniforme militar soviético, circa 1930s. Fuente: <a href="https://es.gw2ru.com/historia/14468-tres-sovieticas-morir-aviacion" style="color: #315fea; text-decoration: none;">Tres soviéticas estuvieron a punto de morir persiguiendo el sueño de la aviación.</a></figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Resumen Ejecutivo
 
 El 10 de mayo de 1909 nació en Járkov Valentina Stepánovna Grizodúbova, una de las primeras mujeres piloto de la Unión Soviética. Hija de un pionero constructor de aviones, estableció múltiples récords mundiales en la década de 1930. Comandó el vuelo épico del "Rodina" en 1938, recorriendo 5.908,61 kilómetros sin escalas desde Moscú hasta el Lejano Oriente soviético. Fue galardonada como Héroe de la Unión Soviética y, décadas después, como Héroe del Trabajo Socialista. Durante la Gran Guerra Patria (1941-1945), comandó un regimiento de aviación de largo alcance, realizando unas 200 misiones de combate.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -37,7 +37,7 @@ El 10 de mayo de 1909 nació en Járkov Valentina Stepánovna Grizodúbova, una 
 - **Misiones de combate en la Segunda Guerra Mundial:** Alrededor de 200 (132 nocturnas)
 - **Condecoraciones:** Héroe de la Unión Soviética (2 de noviembre de 1938), Héroe del Trabajo Socialista (6 de enero de 1986), 2 Órdenes de Lenin, Orden de la Revolución de Octubre, Orden de la Guerra Patria de 1.er grado, Orden de la Bandera Roja del Trabajo, Orden de la Estrella Roja
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -55,7 +55,7 @@ En 1929, Valentina se graduó en el Club de Vuelo de Penza de la organización p
 
 Desde 1934 hasta 1938 voló en un escuadrón de propaganda aérea bautizado con el nombre de Máximo Gorki . Durante este período, dominó múltiples tipos de aeronaves. En 1937 estableció cinco récords mundiales de aviación a bordo de aviones UT-1, UT-2 y AIR-12 : un récord de altitud en un hidroavión biplaza (3.267 metros el 15 de octubre de 1937), tres récords de velocidad y un récord de distancia en la ruta Moscú-Aktiubinsk (1.444,72 km) .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## El vuelo del Rodina: la hazaña que la inmortalizó
 
@@ -75,7 +75,7 @@ Raskova aterrizó en la densa taiga. Perdió sus botas y su equipo de superviven
 
 A su regreso a Moscú, las tres aviadoras fueron recibidas como heroínas. Desfilaron en automóviles descubiertos hasta el Kremlin, donde fueron vitoreadas por una multitud entusiasta. El 2 de noviembre de 1938, las tres recibieron el título de Héroe de la Unión Soviética, siendo las primeras mujeres en la historia soviética en ser galardonadas con esta máxima condecoración. También recibieron un premio en metálico de 25.000 rublos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -101,7 +101,7 @@ A su regreso a Moscú, las tres aviadoras fueron recibidas como heroínas. Desfi
 - **6 de enero de 1986:** Galardonada con el título de Héroe del Trabajo Socialista (única mujer en recibir ambos títulos: Héroe de la URSS y Héroe del Trabajo Socialista) .
 - **28 de abril de 1993:** Fallece en Moscú a los 83 años. Es enterrada en el cementerio Novodévichi.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## La comandante de la guerra: liderazgo en combate
 
@@ -115,7 +115,7 @@ Bajo su mando, el regimiento realizó misiones de alto riesgo en territorio ocup
 
 En octubre de 1943, su regimiento fue redesignado como 31º Regimiento de Guardias de Bombardeo. Valentina lideraba a su regimiento desde el frente, pilotando personalmente muchas de las misiones más peligrosas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -124,7 +124,7 @@ En octubre de 1943, su regimiento fue redesignado como 31º Regimiento de Guardi
 - **Formación de nuevos pilotos:** Como instructora, entrenó a 86 pilotos, muchos de los cuales se convirtieron en ases y héroes de la Unión Soviética .
 - **Avance de la ingeniería aeronáutica:** Después de la guerra, trabajó probando radares y sistemas de vuelo, participando personalmente en vuelos de prueba en el Instituto de Investigación-17 .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -141,28 +141,28 @@ Falleció en Moscú el 28 de abril de 1993, a la edad de 83 años. Fue enterrada
 <p><strong>Sobre los nombres de los aviones de 1937:</strong> Según la fuente rusa GBUMAC, los cinco récords de 1937 se establecieron en los aviones UT-1, UT-2 y AIR-12, no en un hidroavión como indican otras fuentes. Estos aviones eran entrenadores y aviones ligeros de diseño soviético.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://qr.gbumac.ru/en/qr-person-en/valentina-stepanovna-grizodubova">GBUMAC (State Budgetary Institution of Moscow) - Valentina Stepanovna Grizodubova</a></li>
-    <li><a href="https://www.fai.org/page/gac-records">FAI (Fédération Aéronautique Internationale) - General Aviation Commission Records</a></li>
-    <li><a href="https://www.airsports.fai.org/record/10444">FAI Record 10444 - Rodina flight (24-25 September 1938)</a></li>
-    <li><a href="https://www.airsports.fai.org/record/12349">FAI Record 12349 - Distance 1,444.72 km (24 October 1937)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Valentina_Stepanovna_Grizodubova">Wikipedia (EN) - Valentina Stepanovna Grizodubova</a></li>
-    <li><a href="https://it.wikipedia.org/wiki/Valentina_Stepanovna_Grizodubova">Wikipedia (IT) - Valentina Stepanovna Grizodubova</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Valentina_Grizod%C3%BAbova">Wikipedia (ES) - Valentina Grizodúbova</a></li>
-    <li><a href="http://enc.biblioclub.ru/Termin/1546923_Grizodubova">Biblioclub Encyclopedia - Гризодубова Валентина Степановна</a></li>
+    <li><a href="https://qr.gbumac.ru/en/qr-person-en/valentina-stepanovna-grizodubova" style="color: #315fea; text-decoration: none;">GBUMAC (State Budgetary Institution of Moscow) - Valentina Stepanovna Grizodubova</a></li>
+    <li><a href="https://www.fai.org/page/gac-records" style="color: #315fea; text-decoration: none;">FAI (Fédération Aéronautique Internationale) - General Aviation Commission Records</a></li>
+    <li><a href="https://www.airsports.fai.org/record/10444" style="color: #315fea; text-decoration: none;">FAI Record 10444 - Rodina flight (24-25 September 1938)</a></li>
+    <li><a href="https://www.airsports.fai.org/record/12349" style="color: #315fea; text-decoration: none;">FAI Record 12349 - Distance 1,444.72 km (24 October 1937)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Valentina_Stepanovna_Grizodubova" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Valentina Stepanovna Grizodubova</a></li>
+    <li><a href="https://it.wikipedia.org/wiki/Valentina_Stepanovna_Grizodubova" style="color: #315fea; text-decoration: none;">Wikipedia (IT) - Valentina Stepanovna Grizodubova</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Valentina_Grizod%C3%BAbova" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Valentina Grizodúbova</a></li>
+    <li><a href="http://enc.biblioclub.ru/Termin/1546923_Grizodubova" style="color: #315fea; text-decoration: none;">Biblioclub Encyclopedia - Гризодубова Валентина Степановна</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-08 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
 - **Fuentes primarias consultadas:** GBUMAC (fuente rusa oficial), FAI (Fédération Aéronautique Internationale), Wikipedia (EN/IT/ES), Biblioclub Encyclopedia
 - **Discrepancias resueltas:** La fecha de nacimiento está documentada como 10 de mayo de 1909 en el calendario gregoriano, que es la fecha oficial. Algunas fuentes occidentales pueden mostrar el 31 de enero de 1910 por diferencias en la conversión del calendario o errores. Sobre los récords, fuentes rusas oficiales (GBUMAC) confirman 5 récords en 1937 (en UT-1, UT-2 y AIR-12), mientras fuentes occidentales (FAI, Wikipedia) registran 7 récords totales. Grizodúbova fue la primera mujer en recibir el título de Héroe de la Unión Soviética, junto con su tripulación. Falleció el 28 de abril de 1993.
 - **Nivel de confianza:** Alto

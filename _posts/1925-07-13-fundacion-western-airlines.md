@@ -14,7 +14,7 @@ image: 1925-07-13-fundacion-western-airlines.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1925-07-13-fundacion-western-airlines.webp" alt="Douglas M-2 de Western Air Express en vuelo">
   <figcaption class="post-caption">Douglas M-2 de Western Air Express en vuelo, representativo de la flota con la que la compañía inició sus operaciones de correo aéreo en 1926 tras su fundación en 1925. Fuente: <a href="https://deltamuseum.org/family-tree/western-airlines" style="color: #315fea; text-decoration: none;">DELTA FLIGHT MUSEUM</a></figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -22,7 +22,7 @@ image: 1925-07-13-fundacion-western-airlines.webp
 <p>Aunque las operaciones no comenzaron hasta abril de 1926, la fecha fundacional de 1925 marca el punto de partida institucional de una aerolínea que se desarrolló desde el transporte de correo con aviones Douglas M-2, pasó por una breve amalgama en el origen de TWA (1930–1934) y se consolidó como Western Airlines hasta su integración en Delta Air Lines el 1 de abril de 1987.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 - **Fecha de fundación:** 13 de julio de 1925
@@ -40,7 +40,7 @@ image: 1925-07-13-fundacion-western-airlines.webp
 - **Fusión con Pacific Northern Airlines:** 1967 (refuerzo de la red en Alaska)
 - **Fusión final:** acuerdo y adquisición por Delta Air Lines en 1986; integración operativa efectiva el 1 de abril de 1987
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -55,7 +55,7 @@ La aviación comercial aún estaba en una fase primitiva. Los aviones eran peque
 ### Entorno cultural
 El espíritu pionero seguía marcando la percepción pública del vuelo. En esos años, abrir una ruta aérea no era solo una decisión empresarial: era una declaración de modernidad y de conquista del espacio geográfico. Western Air Express nació exactamente en ese clima, en el que las nuevas aerolíneas se presentaban como agentes del progreso en el inmenso territorio estadounidense.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -76,7 +76,7 @@ La fundación de 1925 solo fue el primer paso de una cadena de hitos que explica
 - **1986:** Delta Air Lines acuerda la adquisición de Western.
 - **1 de abril de 1987:** se completa la integración operativa; Western deja de operar como marca independiente y Delta hereda, entre otros activos, los hubs de Los Ángeles (LAX) y Salt Lake City.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -90,7 +90,7 @@ La creación de Western Air Express tuvo efectos inmediatos porque ayudó a cons
 - **Expansión territorial a largo plazo:** la consolidación en el oeste, la entrada reforzada en Alaska tras la fusión con Pacific Northern Airlines (1967) y la apertura hacia Hawái ampliaron el alcance geográfico del embrión fundado en 1925.
 - **Herencia en Delta Air Lines:** la integración de 1987 transfirió a Delta rutas, personal y hubs históricos —en particular Los Ángeles y Salt Lake City— que siguen formando parte del mapa de la aviación comercial estadounidense.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -100,30 +100,30 @@ Western fue recordada durante mucho tiempo como una de las compañías pioneras 
 
 La fecha del 13 de julio de 1925, por tanto, no solo señala una incorporación mercantil: marca el nacimiento institucional de una empresa que terminaría ocupando un lugar destacado en el árbol genealógico de la aviación comercial estadounidense, visible aún en la red heredada por Delta Air Lines.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://deltamuseum.org/family-tree/western-airlines">Delta Flight Museum – Western Airlines</a></li>
-    <li><a href="https://www.latimes.com/archives/la-xpm-1986-04-06-fi-25246-story.html">Los Angeles Times – Pioneer Western Pilot Recalls Day It All Began</a></li>
-    <li><a href="https://simpleflying.com/western-airlines-early-history/">Simple Flying – The Early Years Of Western Airlines</a></li>
-    <li><a href="https://simpleflying.com/delta-western-merger/">Simple Flying – How Delta Got Its Salt Lake City Hub: The Western Airlines Merger</a></li>
-    <li><a href="https://www.britannica.com/money/Trans-World-Airlines-Inc">Encyclopædia Britannica – Trans World Airlines, Inc. (TWA)</a></li>
-    <li><a href="http://www.aerodacious.com/ccCAM004.HTM">Aerodacious – CAM Contract Air Mail First Flights CAM-4</a></li>
-    <li><a href="https://wchsutah.org/aviation/cam-4.php">Washington County Historical Society – Contract Air Mail Route 4 (CAM-4)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Western_Airlines">Wikipedia (EN) – Western Airlines</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Pacific_Northern_Airlines">Wikipedia (EN) – Pacific Northern Airlines</a></li>
+    <li><a href="https://deltamuseum.org/family-tree/western-airlines" style="color: #315fea; text-decoration: none;">Delta Flight Museum – Western Airlines</a></li>
+    <li><a href="https://www.latimes.com/archives/la-xpm-1986-04-06-fi-25246-story.html" style="color: #315fea; text-decoration: none;">Los Angeles Times – Pioneer Western Pilot Recalls Day It All Began</a></li>
+    <li><a href="https://simpleflying.com/western-airlines-early-history/" style="color: #315fea; text-decoration: none;">Simple Flying – The Early Years Of Western Airlines</a></li>
+    <li><a href="https://simpleflying.com/delta-western-merger/" style="color: #315fea; text-decoration: none;">Simple Flying – How Delta Got Its Salt Lake City Hub: The Western Airlines Merger</a></li>
+    <li><a href="https://www.britannica.com/money/Trans-World-Airlines-Inc" style="color: #315fea; text-decoration: none;">Encyclopædia Britannica – Trans World Airlines, Inc. (TWA)</a></li>
+    <li><a href="http://www.aerodacious.com/ccCAM004.HTM" style="color: #315fea; text-decoration: none;">Aerodacious – CAM Contract Air Mail First Flights CAM-4</a></li>
+    <li><a href="https://wchsutah.org/aviation/cam-4.php" style="color: #315fea; text-decoration: none;">Washington County Historical Society – Contract Air Mail Route 4 (CAM-4)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Western_Airlines" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Western Airlines</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Pacific_Northern_Airlines" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Pacific Northern Airlines</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La denominación Western Airlines no se utilizaba aún en 1925. La empresa fundada ese 13 de julio fue Western Air Express, antecedente directo de la futura Western Air Lines y, más tarde, Western Airlines. Por ello, el título y el desarrollo distinguen entre la fundación de la compañía original y la evolución posterior de su nombre comercial. Asimismo, la breve integración en Transcontinental & Western Air (TWA) entre 1930 y 1934 no interrumpe el hilo fundacional de 1925: tras separarse de TWA, la compañía del oeste retomó su identidad propia hasta la fusión con Delta en 1987.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-07-09 12:00:00 CST  

@@ -97,52 +97,52 @@ El North American AT-6 Texan es considerado por muchos historiadores como el mej
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/North_American_T-6_Texan">Wikipedia – North American T-6 Texan</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/North_American_T-6_Texan">Wikipedia – North American T-6 Texan (en inglés)</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Variantes_del_North_American_T-6_Texan">Wikipedia – Variantes del North American T-6 Texan</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/North_American_NA-16">Wikipedia – North American NA-16</a></li>
-    <li><a href="https://amilarg.com.ar/north-american-na-16.html">AMILARG – North American NA-16</a></li>
-    <li><a href="https://amilarg.com.ar/north-american-texan.html">AMILARG – North American Texan</a></li>
-    <li><a href="https://academia-lab.com/enciclopedia/na-16-norteamericano/">AcademiaLab – NA-16 norteamericano</a></li>
-    <li><a href="https://academia-lab.com/enciclopedia/variantes-norteamericanas-del-t-6-texan/">AcademiaLab – Variantes norteamericanas del T-6 Texan</a></li>
-    <li><a href="https://aircorpslibrary.com/aircraft/a-t6-north-american-texan-harvard-snj">AirCorps Library – A-T6 North American Texan Harvard SNJ</a></li>
-    <li><a href="https://www.airspacemag.com/history-of-flight/best-airplane-that-ever-was-t6-texan-180957294/">Air & Space Magazine – Best Airplane That Ever Was: T6 Texan</a></li>
-    <li><a href="http://aerotv.es/north-american-t-6-texan-coleccion-aerotv/">AeroTV – North American T-6 Texan</a></li>
-    <li><a href="http://www.t6harvard.com/harvard-types/t6-harvard-history/">T6 Harvard – T6 Harvard History</a></li>
-    <li><a href="http://www.t6harvard.com/harvard-types/bc-basic-combat/">T6 Harvard – BC Basic Combat</a></li>
-    <li><a href="https://www.lasegundaguerra.com/viewtopic.php?t=11129">La Segunda Guerra – T6 Harvard</a></li>
-    <li><a href="http://www.aviation-history.com/north-american/at6.html">Aviation History – North American AT-6 Texan</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196274/north-american-t-6d-mosquito/">National Museum of the United States Air Force – North American T-6D 'Mosquito'</a></li>
-    <li><a href="https://www.lyonairmuseum.org/aircraft/north-american-at-6snj-6/">Lyon Air Museum – North American AT-6/SNJ-6</a></li>
-    <li><a href="https://www.smithsonianmag.com/air-space-magazine/best-built-airplane-ever-was-180957061/">Smithsonian Magazine – The Best-Built Airplane That Ever Was</a></li>
-    <li><a href="https://www.saairforce.co.za/the-airforce/history/aircraft/harvard-1-iia-iii-na-88">South African Air Force – Harvard 1, IIA, III (NA-88)</a></li>
-    <li><a href="https://www.nrc-cnrc.gc.ca/eng/solutions/facilities/harvard.html">National Research Council Canada – Harvard Research Aircraft</a></li>
-    <li><a href="https://www.t6harvard.com/the-wirraway">T6 Harvard Aviation – The Wirraway</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/CAC_Wirraway">Wikipedia – CAC Wirraway</a></li>
-    <li><a href="https://www.navy.gov.au/aircraft/cac-ca-16-wirraway">Royal Australian Navy – CAC CA-16 Wirraway</a></li>
-    <li><a href="https://www.awm.gov.au/collection/C136732">Australian War Memorial – CAC Wirraway – the Unlikely "Zero Killer"</a></li>
-    <li><a href="https://www.airforce.gov.au/raaf-museum">RAAF Museum – CAC Wirraway A20-561</a></li>
-    <li><a href="https://www.aviationmuseum.com.au">Australian National Aviation Museum – CAC CA-1 Wirraway A20-10</a></li>
-    <li><a href="https://aviationmuseumwa.org.au/aircraft/wirraway-ca-5/">Aviation Heritage Museum – Wirraway CA-5</a></li>
-    <li><a href="https://www.aviationmuseum.com.au/aircraft/cac-ca-1-wirraway/">Australian Aircraft Restoration Group – CAC CA-1 Wirraway</a></li>
-    <li><a href="https://airandspace.si.edu/collection-objects/wright-whirlwind-j-6-9-r-975-radial-9-engine/nasm_A19690365000">Smithsonian National Air and Space Museum – Wright Whirlwind J-6-9 (R-975)</a></li>
-    <li><a href="https://www.warbirdregistry.org/texanregistry/texanregistry_V3.html">Warbird Registry – Texan, Harvard & SNJ Registry</a></li>
-    <li><a href="https://www.aeroflap.com.br/es/proyecto-revoar-busca-restauraci%C3%B3n-del-legendario-t-6-texan-del-escuadr%C3%B3n-de-humo/">Aeroflap – Proyecto REVOAR: restauración del legendario T-6 Texan</a></li>
-    <li><a href="https://www.worldwariiaviation.org/aircraft/north-american-t-6-texan">National Museum of World War II Aviation – North American T-6 Texan</a></li>
-    <li><a href="https://www.airvectors.net/avtexan.html">Air Vectors – North American AT-6 Texan</a></li>
-    <li><a href="https://www.pilotoviejo.com/ferryt6.htm">Piloto Viejo – El vuelo de los AT-6</a></li>
-    <li><a href="https://www.amazon.com.mx/North-Americans-T-6-Definitive-History/dp/1580071244">Amazon – North American's T-6: A Definitive History of the World's Most Famous Trainer (Dan Hagedorn)</a></li>
-    <li><a href="https://www.scalemates.com/es/books/north-americans-t6-dan-hagedorn--113226">Scalemates – North American's T6 (Dan Hagedorn)</a></li>
-    <li><a href="https://es-academic.com/dic.nsf/eswiki/860782">es-academic.com – North American T-6 Texan</a></li>
-    <li><a href="https://www.t6harvard.com/harvard-war-bird/t6-harvard-combat/">T6 Harvard – T6 Harvard Combat</a></li>
-    <li><a href="https://www.aviationsmilitaires.net/v2/base/view/Model/1069.html">Aviations Militaires – North American T-6</a></li>
-    <li><a href="https://www.mnvdet.com/PAOWWIIACWTS/North_American_Trainers.html">MNVDET – North American Trainers</a></li>
-    <li><a href="https://books.google.es/books?id=vpcgBQAAQBAJ&pg=PA71">Google Books – T-6 Luftwaffe</a></li>
-    <li><a href="https://asociacionamigosparayas.wordpress.com/2015/01/08/breve-historia-del-t6-texan-sabias-que-desembarco-en-el-puerto-de-santander/">Asociación Amigos de Parayas – Breve historia del T6 Texan</a></li>
-    <li><a href="http://fdra-aereo.blogspot.com/2017/09/fuerzas-aereas-el-at-6-en-la-fuerza.html">FDRA Aéreo – AT-6 en la Fuerza Aérea</a></li>
-    <li><a href="http://linea-ala.blogspot.com/2008/10/texan-aeronavales.html">Línea Ala – Texan Aeronavales</a></li>
-    <li><a href="http://www.histarmar.com.ar/AcademiaUruguayaMyFl/2011/PortaavionesLacustres.htm">Histarmar – Portaaviones Lacustres</a></li>
-    <li><a href="https://mexicoaeroespacial.mx/2025/08/26/los-t-6c-texan-ii-de-la-fuerza-aerea-mexicana-cuentan-con-la-tecnologia-mas-avanzada/">México Aeroespacial – Los T-6C Texan II de la Fuerza Aérea Mexicana</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/North_American_T-6_Texan" style="color: #315fea; text-decoration: none;">Wikipedia – North American T-6 Texan</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/North_American_T-6_Texan" style="color: #315fea; text-decoration: none;">Wikipedia – North American T-6 Texan (en inglés)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Variantes_del_North_American_T-6_Texan" style="color: #315fea; text-decoration: none;">Wikipedia – Variantes del North American T-6 Texan</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/North_American_NA-16" style="color: #315fea; text-decoration: none;">Wikipedia – North American NA-16</a></li>
+    <li><a href="https://amilarg.com.ar/north-american-na-16.html" style="color: #315fea; text-decoration: none;">AMILARG – North American NA-16</a></li>
+    <li><a href="https://amilarg.com.ar/north-american-texan.html" style="color: #315fea; text-decoration: none;">AMILARG – North American Texan</a></li>
+    <li><a href="https://academia-lab.com/enciclopedia/na-16-norteamericano/" style="color: #315fea; text-decoration: none;">AcademiaLab – NA-16 norteamericano</a></li>
+    <li><a href="https://academia-lab.com/enciclopedia/variantes-norteamericanas-del-t-6-texan/" style="color: #315fea; text-decoration: none;">AcademiaLab – Variantes norteamericanas del T-6 Texan</a></li>
+    <li><a href="https://aircorpslibrary.com/aircraft/a-t6-north-american-texan-harvard-snj" style="color: #315fea; text-decoration: none;">AirCorps Library – A-T6 North American Texan Harvard SNJ</a></li>
+    <li><a href="https://www.airspacemag.com/history-of-flight/best-airplane-that-ever-was-t6-texan-180957294/" style="color: #315fea; text-decoration: none;">Air & Space Magazine – Best Airplane That Ever Was: T6 Texan</a></li>
+    <li><a href="http://aerotv.es/north-american-t-6-texan-coleccion-aerotv/" style="color: #315fea; text-decoration: none;">AeroTV – North American T-6 Texan</a></li>
+    <li><a href="http://www.t6harvard.com/harvard-types/t6-harvard-history/" style="color: #315fea; text-decoration: none;">T6 Harvard – T6 Harvard History</a></li>
+    <li><a href="http://www.t6harvard.com/harvard-types/bc-basic-combat/" style="color: #315fea; text-decoration: none;">T6 Harvard – BC Basic Combat</a></li>
+    <li><a href="https://www.lasegundaguerra.com/viewtopic.php?t=11129" style="color: #315fea; text-decoration: none;">La Segunda Guerra – T6 Harvard</a></li>
+    <li><a href="http://www.aviation-history.com/north-american/at6.html" style="color: #315fea; text-decoration: none;">Aviation History – North American AT-6 Texan</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196274/north-american-t-6d-mosquito/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force – North American T-6D 'Mosquito'</a></li>
+    <li><a href="https://www.lyonairmuseum.org/aircraft/north-american-at-6snj-6/" style="color: #315fea; text-decoration: none;">Lyon Air Museum – North American AT-6/SNJ-6</a></li>
+    <li><a href="https://www.smithsonianmag.com/air-space-magazine/best-built-airplane-ever-was-180957061/" style="color: #315fea; text-decoration: none;">Smithsonian Magazine – The Best-Built Airplane That Ever Was</a></li>
+    <li><a href="https://www.saairforce.co.za/the-airforce/history/aircraft/harvard-1-iia-iii-na-88" style="color: #315fea; text-decoration: none;">South African Air Force – Harvard 1, IIA, III (NA-88)</a></li>
+    <li><a href="https://www.nrc-cnrc.gc.ca/eng/solutions/facilities/harvard.html" style="color: #315fea; text-decoration: none;">National Research Council Canada – Harvard Research Aircraft</a></li>
+    <li><a href="https://www.t6harvard.com/the-wirraway" style="color: #315fea; text-decoration: none;">T6 Harvard Aviation – The Wirraway</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/CAC_Wirraway" style="color: #315fea; text-decoration: none;">Wikipedia – CAC Wirraway</a></li>
+    <li><a href="https://www.navy.gov.au/aircraft/cac-ca-16-wirraway" style="color: #315fea; text-decoration: none;">Royal Australian Navy – CAC CA-16 Wirraway</a></li>
+    <li><a href="https://www.awm.gov.au/collection/C136732" style="color: #315fea; text-decoration: none;">Australian War Memorial – CAC Wirraway – the Unlikely "Zero Killer"</a></li>
+    <li><a href="https://www.airforce.gov.au/raaf-museum" style="color: #315fea; text-decoration: none;">RAAF Museum – CAC Wirraway A20-561</a></li>
+    <li><a href="https://www.aviationmuseum.com.au" style="color: #315fea; text-decoration: none;">Australian National Aviation Museum – CAC CA-1 Wirraway A20-10</a></li>
+    <li><a href="https://aviationmuseumwa.org.au/aircraft/wirraway-ca-5/" style="color: #315fea; text-decoration: none;">Aviation Heritage Museum – Wirraway CA-5</a></li>
+    <li><a href="https://www.aviationmuseum.com.au/aircraft/cac-ca-1-wirraway/" style="color: #315fea; text-decoration: none;">Australian Aircraft Restoration Group – CAC CA-1 Wirraway</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/wright-whirlwind-j-6-9-r-975-radial-9-engine/nasm_A19690365000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Wright Whirlwind J-6-9 (R-975)</a></li>
+    <li><a href="https://www.warbirdregistry.org/texanregistry/texanregistry_V3.html" style="color: #315fea; text-decoration: none;">Warbird Registry – Texan, Harvard & SNJ Registry</a></li>
+    <li><a href="https://www.aeroflap.com.br/es/proyecto-revoar-busca-restauraci%C3%B3n-del-legendario-t-6-texan-del-escuadr%C3%B3n-de-humo/" style="color: #315fea; text-decoration: none;">Aeroflap – Proyecto REVOAR: restauración del legendario T-6 Texan</a></li>
+    <li><a href="https://www.worldwariiaviation.org/aircraft/north-american-t-6-texan" style="color: #315fea; text-decoration: none;">National Museum of World War II Aviation – North American T-6 Texan</a></li>
+    <li><a href="https://www.airvectors.net/avtexan.html" style="color: #315fea; text-decoration: none;">Air Vectors – North American AT-6 Texan</a></li>
+    <li><a href="https://www.pilotoviejo.com/ferryt6.htm" style="color: #315fea; text-decoration: none;">Piloto Viejo – El vuelo de los AT-6</a></li>
+    <li><a href="https://www.amazon.com.mx/North-Americans-T-6-Definitive-History/dp/1580071244" style="color: #315fea; text-decoration: none;">Amazon – North American's T-6: A Definitive History of the World's Most Famous Trainer (Dan Hagedorn)</a></li>
+    <li><a href="https://www.scalemates.com/es/books/north-americans-t6-dan-hagedorn--113226" style="color: #315fea; text-decoration: none;">Scalemates – North American's T6 (Dan Hagedorn)</a></li>
+    <li><a href="https://es-academic.com/dic.nsf/eswiki/860782" style="color: #315fea; text-decoration: none;">es-academic.com – North American T-6 Texan</a></li>
+    <li><a href="https://www.t6harvard.com/harvard-war-bird/t6-harvard-combat/" style="color: #315fea; text-decoration: none;">T6 Harvard – T6 Harvard Combat</a></li>
+    <li><a href="https://www.aviationsmilitaires.net/v2/base/view/Model/1069.html" style="color: #315fea; text-decoration: none;">Aviations Militaires – North American T-6</a></li>
+    <li><a href="https://www.mnvdet.com/PAOWWIIACWTS/North_American_Trainers.html" style="color: #315fea; text-decoration: none;">MNVDET – North American Trainers</a></li>
+    <li><a href="https://books.google.es/books?id=vpcgBQAAQBAJ&pg=PA71" style="color: #315fea; text-decoration: none;">Google Books – T-6 Luftwaffe</a></li>
+    <li><a href="https://asociacionamigosparayas.wordpress.com/2015/01/08/breve-historia-del-t6-texan-sabias-que-desembarco-en-el-puerto-de-santander/" style="color: #315fea; text-decoration: none;">Asociación Amigos de Parayas – Breve historia del T6 Texan</a></li>
+    <li><a href="http://fdra-aereo.blogspot.com/2017/09/fuerzas-aereas-el-at-6-en-la-fuerza.html" style="color: #315fea; text-decoration: none;">FDRA Aéreo – AT-6 en la Fuerza Aérea</a></li>
+    <li><a href="http://linea-ala.blogspot.com/2008/10/texan-aeronavales.html" style="color: #315fea; text-decoration: none;">Línea Ala – Texan Aeronavales</a></li>
+    <li><a href="http://www.histarmar.com.ar/AcademiaUruguayaMyFl/2011/PortaavionesLacustres.htm" style="color: #315fea; text-decoration: none;">Histarmar – Portaaviones Lacustres</a></li>
+    <li><a href="https://mexicoaeroespacial.mx/2025/08/26/los-t-6c-texan-ii-de-la-fuerza-aerea-mexicana-cuentan-con-la-tecnologia-mas-avanzada/" style="color: #315fea; text-decoration: none;">México Aeroespacial – Los T-6C Texan II de la Fuerza Aérea Mexicana</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -154,7 +154,7 @@ El avión que voló el 1 de abril de 1935 fue el **NA-16**, prototipo de lo que 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-30 15:00:00 UTC  
+- **Timestamp de verificación:** 2026-08-17 17:31:53 CST  
 - **Fuentes primarias consultadas:** Wikipedia, AMILARG, Air & Space Magazine, National Museum of the USAF, Smithsonian, T6 Harvard, Air Vectors, Warbird Registry, entre otras.  
 - **Discrepancias resueltas:** Se ha clarificado que el primer vuelo fue del NA-16 y no del AT-6 propiamente dicho, explicando la evolución del diseño.  
 - **Nivel de confianza:** Alto  
