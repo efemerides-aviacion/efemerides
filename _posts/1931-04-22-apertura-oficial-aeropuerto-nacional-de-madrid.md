@@ -15,14 +15,14 @@ image: 1931-04-22-apertura-oficial-aeropuerto-nacional-de-madrid.webp
   <figcaption class="post-caption">Acto de inauguración pública del Aeropuerto Nacional de Madrid en Barajas, 30 de abril de 1931. Fuente: UrbanCidades, con cita de El Imparcial y La Época.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 22 de abril de 1931 se abrió al tráfico aéreo el Aeropuerto Nacional de Madrid (hoy Adolfo Suárez Madrid-Barajas), antecedente del principal hub español. Su creación respondió a la necesidad de sustituir aeródromos obsoletos como Getafe y Carabanchel. Aunque la habilitación legal fue ese día, la inauguración pública tuvo lugar el 30 de abril con presencia de autoridades. El tráfico comercial regular arrancó en 1933.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -40,7 +40,7 @@ image: 1931-04-22-apertura-oficial-aeropuerto-nacional-de-madrid.webp
 - **Inicio de operaciones comerciales regulares:** 15 de mayo de 1933
 - **Primera línea comercial:** Madrid-Barcelona, operada por LAPE (Líneas Aéreas Postales Españolas)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -72,7 +72,7 @@ La inauguración del aeropuerto fue un acontecimiento social y mediático. El 30
 - **1965:** El aeropuerto cambia su nombre a Aeropuerto de Madrid-Barajas.
 - **2014:** Tras el fallecimiento del expresidente Adolfo Suárez, el aeropuerto pasa a denominarse Aeropuerto Adolfo Suárez Madrid-Barajas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## La apertura oficial: el 22 de abril de 1931
 
@@ -88,7 +88,7 @@ Esta decisión formalizó el nacimiento del aeropuerto como entidad operativa, a
 
 La elección de Barajas no fue casual. Cuatro eran los enclaves posibles para establecer el aeropuerto de Madrid: Getafe, Carabanchel Alto, Vallecas y Barajas. Se escogió este último porque era un "páramo yermo de unas 500 fanegas" (aproximadamente entre 330 y 493 hectáreas) con una "buena comunicación con la capital a través de la carretera de Francia". Los terrenos, libres de obstáculos, fueron adquiridos por 730.000 pesetas el 30 de julio de 1930.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## La inauguración pública: el 30 de abril de 1931
 
@@ -104,7 +104,7 @@ La inauguración fue todo un acontecimiento social. El diario La Época destacó
 
 Muchos de los asistentes recibieron ese día su "bautismo del aire", volando por primera vez en alguno de los aviones presentes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## El inicio de las operaciones comerciales: 1933
 
@@ -122,7 +122,7 @@ El 15 de mayo de 1933, un trimotor Fokker VII/3M de la compañía LAPE (Líneas 
 
 Las primeras líneas regulares operadas por LAPE fueron Madrid-Barcelona y Madrid-Sevilla. Los billetes tenían un costo de 150 pesetas para Barcelona y 125 pesetas para Sevilla. En ese año 1933, bajo la dirección del teniente coronel Jacobo Armijo y Fernández de Alarcón (primer director del aeropuerto), se operaron 378 vuelos que transportaron a 2.873 pasajeros.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -134,7 +134,7 @@ Las primeras líneas regulares operadas por LAPE fueron Madrid-Barcelona y Madri
 
 - **Legado arquitectónico:** El edificio terminal diseñado por Luis Gutiérrez Soto, con su planta alada y su terraza-mirador, fue un hito de la arquitectura aeroportuaria de su época.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -142,7 +142,7 @@ El Aeropuerto Nacional de Madrid, nacido en los prolegómenos de la Segunda Rep�
 
 El aeropuerto ha sido testigo de la historia de España: la Guerra Civil (durante la cual se realizaron servicios bélicos y civiles), el desarrollismo de los años 60 (con la construcción de nuevas terminales), la transición democrática y la modernización del siglo XXI (con la inauguración de la T-4 en 2006). Barajas es, sin duda, la principal puerta de entrada y salida de España al mundo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las fechas:</strong> Existen tres fechas clave en la historia del Aeropuerto de Madrid-Barajas:</p>
@@ -155,28 +155,28 @@ El aeropuerto ha sido testigo de la historia de España: la Guerra Civil (durant
 <p><strong>Sobre el primer director:</strong> Las fuentes coinciden en que Jacobo Armijo y Fernández de Alarcón fue el primer jefe o director del aeropuerto. Fue nombrado "jefe provisional" en mayo de 1931, un mes después de la apertura al tráfico, y continuó como director durante los primeros años de operaciones.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://www.aena.es/es/adolfo-suarez-madrid-barajas/conocenos/historia.html">Aena - Historia del Aeropuerto Adolfo Suárez Madrid-Barajas</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Aeropuerto_Adolfo_Su%C3%A1rez_Madrid-Barajas">Wikipedia (ES) - Aeropuerto Adolfo Suárez Madrid-Barajas</a></li>
-    <li><a href="https://www.bbva.com/es/aeropuerto-adolfo-suarez-madrid-barajas-cumple-86-anos/">BBVA - El Aeropuerto Adolfo Suárez Madrid-Barajas cumple 86 años</a></li>
-    <li><a href="https://www.larazon.es/madrid/20211021/5mdb5jz7dndl3ou3zs4nmvq6g4.html">La Razón - Cuando el Aeropuerto de Barajas parecía un club náutico</a></li>
-    <li><a href="https://www.abc.es/madrid/tops/20150901/abci-curiosidades-aeropuerto-barajas-201508301821_1.html">ABC - Cosas que no sabías sobre el Aeropuerto de Barajas</a></li>
-    <li><a href="https://www.sociedadaeronautica.org/barajas-en-la-memoria-no3-las-primeras-construcciones/">Sociedad Aeronáutica Española - Barajas en la memoria Nº3</a></li>
-    <li><a href="https://elpais.com/economia/2013/05/14/agencias/1368527986_411108.html">EL PAÍS - Barajas cumple 80 años de tráfico comercial</a></li>
-    <li><a href="https://www.telemadrid.es/noticias/madrid/Barajas-cumple-millones-pasajeros-vuelos-0-1464453578--20130514092608.html">Telemadrid - Barajas cumple 80 años de tráfico comercial</a></li>
+    <li><a href="https://www.aena.es/es/adolfo-suarez-madrid-barajas/conocenos/historia.html" style="color: #315fea; text-decoration: none;">Aena - Historia del Aeropuerto Adolfo Suárez Madrid-Barajas</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Aeropuerto_Adolfo_Su%C3%A1rez_Madrid-Barajas" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Aeropuerto Adolfo Suárez Madrid-Barajas</a></li>
+    <li><a href="https://www.bbva.com/es/aeropuerto-adolfo-suarez-madrid-barajas-cumple-86-anos/" style="color: #315fea; text-decoration: none;">BBVA - El Aeropuerto Adolfo Suárez Madrid-Barajas cumple 86 años</a></li>
+    <li><a href="https://www.larazon.es/madrid/20211021/5mdb5jz7dndl3ou3zs4nmvq6g4.html" style="color: #315fea; text-decoration: none;">La Razón - Cuando el Aeropuerto de Barajas parecía un club náutico</a></li>
+    <li><a href="https://www.abc.es/madrid/tops/20150901/abci-curiosidades-aeropuerto-barajas-201508301821_1.html" style="color: #315fea; text-decoration: none;">ABC - Cosas que no sabías sobre el Aeropuerto de Barajas</a></li>
+    <li><a href="https://www.sociedadaeronautica.org/barajas-en-la-memoria-no3-las-primeras-construcciones/" style="color: #315fea; text-decoration: none;">Sociedad Aeronáutica Española - Barajas en la memoria Nº3</a></li>
+    <li><a href="https://elpais.com/economia/2013/05/14/agencias/1368527986_411108.html" style="color: #315fea; text-decoration: none;">EL PAÍS - Barajas cumple 80 años de tráfico comercial</a></li>
+    <li><a href="https://www.telemadrid.es/noticias/madrid/Barajas-cumple-millones-pasajeros-vuelos-0-1464453578--20130514092608.html" style="color: #315fea; text-decoration: none;">Telemadrid - Barajas cumple 80 años de tráfico comercial</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-20 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
 - **Fuentes primarias consultadas:** Aena (página oficial), Wikipedia (ES), BBVA, La Razón, ABC, Sociedad Aeronáutica Española, EL PAÍS, Telemadrid
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre la apertura al tráfico (22 de abril de 1931), la inauguración pública (30 de abril de 1931) y el inicio de operaciones comerciales (15 de mayo de 1933). También se ha precisado que Jacobo Armijo fue el primer jefe/director, nombrado en mayo de 1931. Las fuentes coinciden en la superficie de los terrenos (entre 330 y 493 hectáreas) y en el costo de adquisición (730.000 pesetas).
 - **Nivel de confianza:** Alto
