@@ -6,14 +6,14 @@ categories: [fundacion]
 author: Enrique Pomares
 pais: Venezuela
 operator: Ministerio de Guerra y Marina (Venezuela)
-excerpt: "El 16 de diciembre de 1937 se creó por decreto la Escuela de Aviación Civil de Venezuela, institución nacida para formar personal aeronáutico civil y cuyo impulso inicial se vincula a una propuesta previa del mayor Alcides Quintero."
+excerpt: "El 16 de diciembre de 1937 se creó por decreto la Escuela de Aviación Civil de Venezuela, institución nacida para formar personal aeronáutico civil y cuyo impulso inicial se vincula a una propuesta previa del Mayor Alcides Quintero."
 published: true
 image: 1937-12-16-creacion-escuela-aviacion-civil-venezolana.webp
 ---
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1937-12-16-creacion-escuela-aviacion-civil-venezolana.webp" alt="Primera sede de la Escuela de Aviación Civil frente a la plaza Los Tacariguas, Boca del Río, Maracay">
-  <figcaption class="post-caption">Primera sede de la Escuela de Aviación Civil frente a la plaza Los Tacariguas, en Boca del Río, Maracay, ya en su etapa inicial de funcionamiento. Fuente: <a href="https://favclubven.wordpress.com/2025/09/16/la-escuela-de-aviacion-civil-mayor-miguel-rodriguez/" style="color: #315fea; text-decoration: none;">FAV-CLUB</a>.</figcaption>
+  <figcaption class="post-caption">Primera sede de la Escuela de Aviación Civil frente a la plaza Los Tacariguas, en Boca del Río, Maracay, ya en su etapa inicial de funcionamiento. Fuente: FAV-CLUB.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -113,14 +113,14 @@ Su memoria permanece vinculada a la profesionalización del vuelo civil en el pa
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> las fuentes consultadas coinciden en que la Escuela de Aviación Civil fue creada el 16 de diciembre de 1937, pero difieren en los detalles de su puesta en marcha. Sobre la fecha en que recibió la denominación «Miguel Rodríguez», el Centro de Instrucción de Aeronáutica Civil la sitúa el 10 de febrero de 1940, coincidiendo con la inauguración de la primera sede, mientras que FAV-CLUB fecha el «ejecútese» del decreto el 2 de marzo y la inauguración con el nuevo nombre el 16 de marzo de aquel año. Existen también versiones divergentes sobre la instalación efectiva en Boca del Río y sobre la identidad del primer director, atribuido al capitán Raúl Sierralta Osorio por el Centro de Instrucción y al mayor Víctor Sandoval Mendoza por FAV-CLUB. Asimismo, la vinculación directa de Alcides Quintero con el origen del proyecto procede principalmente de la reconstrucción histórica publicada por FAV-CLUB, basada en un documento fechado el 30 de octubre de 1937 y conservado por la familia del propio Quintero. Por ello, esa relación se presenta como fundamento histórico relevante, pero no como extremo respaldado de manera uniforme por todas las fuentes disponibles.</p>
+  <p><strong>Nota aclaratoria:</strong> las fuentes consultadas coinciden en que la Escuela de Aviación Civil fue creada el 16 de diciembre de 1937, pero difieren en los detalles de su puesta en marcha. Sobre la fecha en que recibió la denominación «Miguel Rodríguez», el Centro de Instrucción de Aeronáutica Civil la sitúa el 10 de febrero de 1940, coincidiendo con la inauguración de la primera sede, mientras que FAV-CLUB fecha el «ejecútese» del decreto el 2 de marzo y la inauguración con el nuevo nombre el 16 de marzo de aquel año. Existen también versiones divergentes sobre la instalación efectiva en Boca del Río y sobre la identidad del primer director, atribuido al Capitán Raúl Sierralta Osorio por el Centro de Instrucción y al Mayor Víctor Sandoval Mendoza por FAV-CLUB. Asimismo, la vinculación directa de Alcides Quintero con el origen del proyecto procede principalmente de la reconstrucción histórica publicada por FAV-CLUB, basada en un documento fechado el 30 de octubre de 1937 y conservado por la familia del propio Quintero. Por ello, esa relación se presenta como fundamento histórico relevante, pero no como extremo respaldado de manera uniforme por todas las fuentes disponibles.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-16 13:05:00 CST
+- **Timestamp de verificación:** 2026-08-17 15:42:11 CST
 - **Fuentes primarias/institucionales consultadas:** Aviación Civil Venezuela, con la ficha del Centro de Instrucción de Aeronáutica Civil y la crónica de su 76.º aniversario; Instituto Nacional de Aeronáutica Civil
 - **Fuentes secundarias de contraste:** FAV-CLUB, Horizontes
 - **Discrepancias resueltas:** coincidencia en la fecha de creación, el 16 de diciembre de 1937; divergencias entre fuentes publicadas sobre la fecha de denominación «Miguel Rodríguez» —10 de febrero de 1940 según el Centro de Instrucción y 16 de marzo de 1940 según FAV-CLUB—, sobre la inauguración efectiva de la sede y sobre la identidad del primer director, todas consignadas en nota aclaratoria
