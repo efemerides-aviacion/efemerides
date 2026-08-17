@@ -66,7 +66,7 @@ La tecnología de la época era artesanal y experimental. Los aviones se constru
 
 El público seguía con fascinación los progresos de la aviación. Las exposiciones aeronáuticas, como la de 1906 en el Madison Square Garden, atraían a miles de visitantes. Fue en una de estas muestras donde Olivia Sage, viuda del magnate ferroviario Russell Sage, conoció el trabajo de Todd y decidió patrocinarla.
 
-A pesar de los obstáculos, surgieron figuras femeninas en la aviación: en 1908, la baronesa Raymonde de Laroche se convertiría más tarde en la primera mujer del mundo en obtener una licencia de piloto (1910). Sin embargo, en Estados Unidos, Todd no pudo obtener permiso para volar su propia creación.
+A pesar de los obstáculos, surgieron figuras femeninas en la aviación: <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1882/08/22/nacimiento-raymonde-de-laroche-aviadora-pionera-francesa.html" style="color: #315fea; text-decoration: none;">la francesa Raymonde de Laroche obtuvo el 8 de marzo de 1910 la primera licencia de piloto concedida a una mujer en el mundo</a>. Sin embargo, en Estados Unidos, Todd no pudo obtener permiso para volar su propia creación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
