@@ -15,14 +15,14 @@ image: 1980-04-25-accidente-vuelo-1008-dan-air.webp
   <figcaption class="post-caption">Boeing 727-46 G-BDAN de Dan-Air en Birmingham, 24 de julio de 1978. Posteriormente, esta aeronave sufrió un accidente fatal el 25 de abril de 1980. Fuente: Rob Hodgkins / Wikimedia Commons.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 25 de abril de 1980, el vuelo 1008 de Dan-Air, un Boeing 727-46 matrícula G-BDAN, se estrelló en la ladera de Montaña La Esperanza en Tenerife durante la aproximación a Los Rodeos. Murieron las 146 personas a bordo, convirtiéndose en uno de los peores accidentes aéreos en España. La causa oficial se relacionó con una interpretación errónea de un patrón de espera no publicado, navegación imprecisa del capitán y una coordinación inadecuada en cabina. Durante el descenso, poco antes del impacto, se escuchó la activación del GPWS.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 
@@ -42,7 +42,7 @@ image: 1980-04-25-accidente-vuelo-1008-dan-air.webp
 - **Naturaleza del vuelo:** Vuelo chárter internacional no regular
 - **Investigación:** Comisión de Investigación española (AIB)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -71,7 +71,7 @@ La cultura de la aviación en 1980 aún no había incorporado plenamente los con
 - **Activación del GPWS:** El sistema de advertencia de proximidad al terreno se activa. La tripulación inicia un ascenso de emergencia y un viraje pronunciado a la derecha.
 - **13:21:15 UTC:** La aeronave impacta contra la ladera del monte La Esperanza a una altitud de 5.450 pies (1.662 metros). Todos los ocupantes fallecen. La aeronave se desintegra, dejando un rastro de escombros de 350 metros de longitud.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## El accidente: factores desencadenantes
 
@@ -120,7 +120,7 @@ La aeronave sobrevoló brevemente un valle, lo que desactivó temporalmente la a
 
 Fuente: Wikipedia
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Investigación y causas
 
@@ -154,7 +154,7 @@ El addendum británico también señaló que la altitud autorizada de 5.000 pies
 
 El Sindicato Español de Pilotos de Líneas Aéreas (SEPLA) elaboró un estudio crítico con el informe oficial, señalando deficiencias en la investigación. El SEPLA discrepó con la designación de la pista 12 como receptora del vuelo, argumentando que el aeropuerto estaba bajo mínimos meteorológicos para usar esa pista, y que la pista 30 debería haber sido la asignada. También señaló que en los últimos segundos la aeronave sufrió fuertes oscilaciones al aplicar máxima potencia para sobrepasar el monte, encontrándose con corrientes verticales que impidieron el ascenso.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
@@ -168,7 +168,7 @@ El Sindicato Español de Pilotos de Líneas Aéreas (SEPLA) elaboró un estudio 
 
 - **Refuerzo de la formación en CRM:** La falta de trabajo en equipo entre capitán y copiloto fue identificada como un factor contribuyente, lo que impulsó la implementación de programas de Crew Resource Management en las aerolíneas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
@@ -180,33 +180,33 @@ Hoy, el Aeropuerto de Tenerife Norte (Los Rodeos) opera principalmente vuelos in
 
 El vuelo 1008 de Dan Air es un recordatorio de que la seguridad aérea es un esfuerzo constante que requiere procedimientos estandarizados, comunicación clara, formación continua y una infraestructura adecuada.
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las discrepancias en las causas:</strong> El informe oficial español atribuyó la causa principal al error del capitán, mientras que el addendum británico enfatizó la ambigüedad de las instrucciones del controlador y la falta de publicación del patrón de espera. El SEPLA, por su parte, criticó la investigación oficial y señaló factores meteorológicos adversos. La comprensión actual del accidente integra todos estos factores como eslabones de una cadena de errores.</p>
 <p><strong>Sobre la fecha:</strong> El accidente ocurrió el 25 de abril de 1980. Las 146 víctimas (138 pasajeros y 8 tripulantes) fallecieron en el impacto. El avión quedó completamente destruido.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Dan-Air_Flight_1008">Wikipedia (EN) - Dan-Air Flight 1008</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_1008_de_Dan_Air">Wikipedia (ES) - Vuelo 1008 de Dan Air</a></li>
-    <li><a href="https://aviation-safety.net/wikibase/328350">Aviation Safety Network - Boeing 727-46 G-BDAN</a></li>
-    <li><a href="https://www.baaa-acro.com/crash/crash-boeing-727-64-tenerife-146-killed">BAAA-ACRO - Crash of a Boeing 727-64 in Tenerife</a></li>
-    <li><a href="https://hansard.parliament.uk/Commons/1980-06-10/debates/ac5f95b2-75b2-4e60-88a3-512cea2c898b/TenerifeAirCrash">UK Parliament Hansard - Tenerife Air Crash (10 June 1980)</a></li>
-    <li><a href="https://elpais.com/diario/1981/07/02/espana/362872823_850215.html">EL PAÍS - Discrepancias sobre las causas del accidente</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Dan-Air_Flight_1008" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Dan-Air Flight 1008</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_1008_de_Dan_Air" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Vuelo 1008 de Dan Air</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/328350" style="color: #315fea; text-decoration: none;">Aviation Safety Network - Boeing 727-46 G-BDAN</a></li>
+    <li><a href="https://www.baaa-acro.com/crash/crash-boeing-727-64-tenerife-146-killed" style="color: #315fea; text-decoration: none;">BAAA-ACRO - Crash of a Boeing 727-64 in Tenerife</a></li>
+    <li><a href="https://hansard.parliament.uk/Commons/1980-06-10/debates/ac5f95b2-75b2-4e60-88a3-512cea2c898b/TenerifeAirCrash" style="color: #315fea; text-decoration: none;">UK Parliament Hansard - Tenerife Air Crash (10 June 1980)</a></li>
+    <li><a href="https://elpais.com/diario/1981/07/02/espana/362872823_850215.html" style="color: #315fea; text-decoration: none;">EL PAÍS - Discrepancias sobre las causas del accidente</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-23 13:00:00 UTC
+- **Timestamp de verificación:** 2026-08-17 16:47:34 CST
 - **Fuentes primarias consultadas:** Aviation Safety Network, Wikipedia (EN/ES), UK Parliament Hansard, EL PAÍS, BAAA-ACRO
 - **Discrepancias resueltas:** Las fuentes coinciden en los datos principales: fecha 25 de abril de 1980, lugar Monte La Esperanza, 146 víctimas fatales. Existen discrepancias en las causas: el informe español enfatizó el error del capitán, mientras que el addendum británico señaló la ambigüedad de las instrucciones del ATC. El SEPLA añadió críticas adicionales sobre la selección de la pista y factores meteorológicos.
 - **Nivel de confianza:** Alto

@@ -14,14 +14,14 @@ image: 1974-03-03-vuelo-981-de-turkish-airlines.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1974-03-03-vuelo-981-de-turkish-airlines.jpg" alt="McDonnell Douglas DC-10 TC-JAV de Turkish Airlines">
   <figcaption class="post-caption">El McDonnell Douglas DC-10-10 de Turkish Airlines, matrícula TC-JAV “Ankara”, fotografiado en París-Orly entre 1972 y 1973. La aeronave se accidentaría trágicamente el 3 de marzo de 1974 en el Vuelo 981. AirHistory.net (Foto ID: 624098 / Colección Bob Garrard).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 3 de marzo de 1974, el Vuelo 981 de Turkish Airlines, operado por un McDonnell Douglas DC-10, se estrelló en el Bosque de Ermenonville, cerca de París, minutos después de despegar. Las 346 personas a bordo murieron. La causa fue la apertura en vuelo de la puerta del compartimento de carga, cuyo diseño defectuoso permitió que no estuviera bien cerrada. La descompresión resultante derrumbó el piso de la cabina y destruyó los cables de control, dejando a los pilotos sin mando sobre la aeronave. Este desastre se convirtió en el peor accidente aéreo de su época y puso de manifiesto graves fallos de diseño y supervisión.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 - **Fecha:** 3 de marzo de 1974  
@@ -32,7 +32,7 @@ image: 1974-03-03-vuelo-981-de-turkish-airlines.jpg
 - **Causa principal:** Fallo en el sistema de cierre de la puerta de carga trasera, provocando descompresión explosiva y pérdida de control  
 - **Antecedente:** Vuelo 96 de American Airlines (1972) sufrió el mismo defecto, pero logró aterrizar de emergencia  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto histórico
 El accidente del Vuelo 981 reveló deficiencias graves en el diseño del DC-10 y en la supervisión de las modificaciones de seguridad.
@@ -58,28 +58,28 @@ El accidente aceleró cambios regulatorios en la certificación de aeronaves y d
 ### Legado
 El Vuelo 981 es recordado como un caso emblemático de cómo fallos de diseño y supervisión pueden derivar en tragedias masivas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Turkish_Airlines_Flight_981">Wikipedia (EN) – Turkish Airlines Flight 981</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_981_de_Turkish_Airlines">Wikipedia (ES) – Vuelo 981 de Turkish Airlines</a></li>
-    <li><a href="https://fr.wikipedia.org/wiki/Vol_981_Turkish_Airlines">Wikipedia (FR) – Vol 981 Turkish Airlines</a></li>
-    <li><a href="https://www.baaa-acro.com/crash/crash-mcdonnell-douglas-dc-10-10-paris-346-killed">Bureau of Aircraft Accidents Archives (B3A) – Crash of a McDonnell Douglas DC-10-10 in Paris: 346 killed</a></li>
-    <li><a href="https://asn.flightsafety.org/asndb/323801">Aviation Safety Network – Accident description Turkish Airlines Flight 981</a></li>
-    <li><a href="https://www.gettyimages.es/fotos/turkish-airlines-flight-981">Getty Images – Fotos históricas del accidente del Vuelo 981 de Turkish Airlines</a></li>
-    <li><a href="https://www.airhistory.net/photo/624098/TC-JAV">AirHistory.net – Foto del TC-JAV "Ankara" antes del accidente</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Turkish_Airlines_Flight_981" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Turkish Airlines Flight 981</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_981_de_Turkish_Airlines" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vuelo 981 de Turkish Airlines</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Vol_981_Turkish_Airlines" style="color: #315fea; text-decoration: none;">Wikipedia (FR) – Vol 981 Turkish Airlines</a></li>
+    <li><a href="https://www.baaa-acro.com/crash/crash-mcdonnell-douglas-dc-10-10-paris-346-killed" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives (B3A) – Crash of a McDonnell Douglas DC-10-10 in Paris: 346 killed</a></li>
+    <li><a href="https://asn.flightsafety.org/asndb/323801" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Accident description Turkish Airlines Flight 981</a></li>
+    <li><a href="https://www.gettyimages.es/fotos/turkish-airlines-flight-981" style="color: #315fea; text-decoration: none;">Getty Images – Fotos históricas del accidente del Vuelo 981 de Turkish Airlines</a></li>
+    <li><a href="https://www.airhistory.net/photo/624098/TC-JAV" style="color: #315fea; text-decoration: none;">AirHistory.net – Foto del TC-JAV "Ankara" antes del accidente</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Aunque el defecto de la puerta de carga era conocido desde el incidente del Vuelo 96 de American Airlines en 1972, las modificaciones recomendadas por McDonnell Douglas no se aplicaron correctamente en el avión accidentado. Además, el mecanismo había sido alterado para facilitar su cierre, lo que agravó el riesgo. Este hecho generó controversia sobre la responsabilidad compartida entre el fabricante y las aerolíneas.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-03-01 12:15 CST  

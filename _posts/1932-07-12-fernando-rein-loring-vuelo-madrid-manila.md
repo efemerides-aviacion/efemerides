@@ -12,9 +12,9 @@ image: 1932-07-12-fernando-rein-loring-vuelo-madrid-manila.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1932-07-12-fernando-rein-loring-vuelo-madrid-manila.webp" alt="Fernando Rein Loring junto a su avioneta Loring E-II">
-  <figcaption class="post-caption">Fernando Rein Loring junto al avión Loring E‑II “La Pepa”, matrícula EC‑ASA, fotografiado en 1932; fuente: <a href="https://elpais.com/ccaa/2012/07/25/madrid/1343251008_362472.html">El País</a>.</figcaption>
+  <figcaption class="post-caption">Fernando Rein Loring junto al avión Loring E‑II “La Pepa”, matrícula EC‑ASA, fotografiado en 1932; fuente: <a href="https://elpais.com/ccaa/2012/07/25/madrid/1343251008_362472.html" style="color: #315fea; text-decoration: none;">El País</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -22,7 +22,7 @@ image: 1932-07-12-fernando-rein-loring-vuelo-madrid-manila.webp
 <p>La hazaña tuvo un significado especial dentro de la aviación española: fue uno de los grandes vuelos civiles del periodo de entreguerras y demostró que un aparato ligero nacional podía sostener un recorrido intercontinental extremadamente exigente. Rein Loring ya había alcanzado Aparri el 11 de julio, pero la llegada a Manila el día 12 es la que mejor representa el cierre completo del viaje y su recepción triunfal en Filipinas.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha de llegada final a Manila:** 12 de julio de 1932
@@ -40,7 +40,7 @@ image: 1932-07-12-fernando-rein-loring-vuelo-madrid-manila.webp
 - **Estructura del viaje:** 13 etapas, con varias subetapas intermedias
 - **Rasgo distintivo:** raid civil en solitario y sin apoyo oficial directo durante el desarrollo del vuelo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -55,7 +55,7 @@ A comienzos de los años treinta, las avionetas civiles todavía operaban con m�
 ### Entorno cultural
 Los vuelos a Manila tenían una dimensión casi mítica dentro de la cultura aeronáutica española. Rein Loring quiso seguir la estela del vuelo de González Gallarza y Loriga, pero introduciendo dos factores decisivos: hacerlo solo y hacerlo con una avioneta civil ligera. Eso dio a su viaje un tono menos oficial, pero también más arriesgado y personal, convirtiéndolo en una prueba de resistencia humana y técnica especialmente singular.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -70,7 +70,7 @@ La travesía de 1932 fue mucho más que un simple trayecto lineal. El éxito fin
 - **11 de julio de 1932:** realiza el salto sobre el mar de China y aterriza en Aparri, ya en territorio filipino.
 - **12 de julio de 1932:** continúa a San Miguel y Manila, donde el viaje queda concluido y es recibido con entusiasmo por la colonia española y las autoridades locales.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -81,7 +81,7 @@ La llegada a Manila tuvo efectos inmediatos tanto en la percepción pública de 
 - **Confirmación de viabilidad técnica:** el raid demostró que una avioneta ligera nacional, debidamente adaptada, podía afrontar un recorrido intercontinental extraordinariamente complejo.
 - **Impulso para un segundo intento:** la insatisfacción del piloto con el tiempo invertido lo llevó a preparar una nueva travesía a Manila en 1933 con un aparato más rápido y ligero.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -89,27 +89,27 @@ El legado del vuelo de 1932 reside en su carácter doblemente excepcional: fue u
 
 A largo plazo, el raid quedó incorporado a la memoria de los grandes vuelos nacionales y fue reforzado por la repetición de la ruta en 1933 con el Comper Swift «Ciudad de Manila». Su figura siguió evocándose en la historiografía aérea, en la prensa y en el ámbito patrimonial de Cuatro Vientos y de la Fundación Infante de Orleans. Por ello, la llegada a Manila el 12 de julio de 1932 puede considerarse el cierre emblemático de una de las gestas civiles más notables de la aviación española de entreguerras.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/catalogo_imagenes/grupo.do?path=307520">Biblioteca Virtual de Defensa – Los vuelos de REIN LORING</a></li>
-    <li><a href="https://dbe.rah.es/biografias/45525/fernando-rein-loring">Real Academia de la Historia – Fernando Rein Loring</a></li>
-    <li><a href="https://www.abc.es/historia/abci-rein-loring-manila-201207110000_noticia.html">ABC Historia – La batalla contra el cielo de Rein Loring</a></li>
-    <li><a href="https://elpais.com/diario/1998/05/02/madrid/894108276_850215.html">EL PAÍS – El vuelo de Rey Loring</a></li>
-    <li><a href="https://archivocti.uma.es/historico/index.php/informationobject/browse?sort=identifier&languages=es&subjects=19629&sortDir=asc&sf_culture=en&view=table&places=530&levels=227&topLod=0&media=print">Archivo Histórico de la Universidad de Málaga – Primera etapa del raid aéreo Madrid a Manila</a></li>
-    <li><a href="https://es.hispanopedia.com/wiki/Fernando_Rein_Loring">Hispanopedia – Fernando Rein Loring</a></li>
+    <li><a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/catalogo_imagenes/grupo.do?path=307520" style="color: #315fea; text-decoration: none;">Biblioteca Virtual de Defensa – Los vuelos de REIN LORING</a></li>
+    <li><a href="https://dbe.rah.es/biografias/45525/fernando-rein-loring" style="color: #315fea; text-decoration: none;">Real Academia de la Historia – Fernando Rein Loring</a></li>
+    <li><a href="https://www.abc.es/historia/abci-rein-loring-manila-201207110000_noticia.html" style="color: #315fea; text-decoration: none;">ABC Historia – La batalla contra el cielo de Rein Loring</a></li>
+    <li><a href="https://elpais.com/diario/1998/05/02/madrid/894108276_850215.html" style="color: #315fea; text-decoration: none;">EL PAÍS – El vuelo de Rey Loring</a></li>
+    <li><a href="https://archivocti.uma.es/historico/index.php/informationobject/browse?sort=identifier&languages=es&subjects=19629&sortDir=asc&sf_culture=en&view=table&places=530&levels=227&topLod=0&media=print" style="color: #315fea; text-decoration: none;">Archivo Histórico de la Universidad de Málaga – Primera etapa del raid aéreo Madrid a Manila</a></li>
+    <li><a href="https://es.hispanopedia.com/wiki/Fernando_Rein_Loring" style="color: #315fea; text-decoration: none;">Hispanopedia – Fernando Rein Loring</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Esta efeméride adopta el 12 de julio de 1932 porque corresponde a la llegada final a Manila, destino simbólico y político del raid. La discrepancia con otras fuentes que citan el 11 de julio no parece deberse a un cambio de huso horario, sino a una diferencia de criterio narrativo: algunas condensan en una sola fecha las dos últimas etapas del viaje, mientras que la reconstrucción más precisa distingue entre el aterrizaje en Aparri el 11 de julio y la continuación a San Miguel y Manila el 12. También existe alguna referencia aislada que menciona Getafe como salida, pero las fuentes especializadas más consistentes sitúan la partida en el entorno del aeródromo Loring y Cuatro Vientos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-07-07 11:02:04 CST  

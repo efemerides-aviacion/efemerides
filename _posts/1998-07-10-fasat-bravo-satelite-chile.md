@@ -11,9 +11,9 @@ image: 1998-07-10-fasat-bravo-satelite-chile.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1998-07-10-fasat-bravo-satelite-chile.webp" alt="Microsatélite chileno FASat-Bravo"><figcaption>Ilustración del satélite FASat‑Bravo, primer satélite chileno en órbita independiente, lanzado el 10 de julio de 1998 desde el cosmódromo de Baikonur, Kazajistán; fuente: <a href="https://www.cooperativaciencia.cl/ciencia/2023/07/10/fasat-bravo-el-satelite-chileno-que-estudio-el-pais/">Cooperativa Ciencia.</a></figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1998-07-10-fasat-bravo-satelite-chile.webp" alt="Microsatélite chileno FASat-Bravo"><figcaption>Ilustración del satélite FASat‑Bravo, primer satélite chileno en órbita independiente, lanzado el 10 de julio de 1998 desde el cosmódromo de Baikonur, Kazajistán; fuente: <a href="https://www.cooperativaciencia.cl/ciencia/2023/07/10/fasat-bravo-el-satelite-chileno-que-estudio-el-pais/" style="color: #315fea; text-decoration: none;">Cooperativa Ciencia.</a></figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -21,7 +21,7 @@ image: 1998-07-10-fasat-bravo-satelite-chile.webp
 <p>El microsatélite, desarrollado bajo un programa de transferencia tecnológica entre la Fuerza Aérea de Chile y Surrey Satellite Technology Ltd, permitió adquirir experiencia real en control de misión, telecomunicaciones experimentales, observación terrestre y monitoreo de la capa de ozono. Su operación hasta junio de 2001 marcó el verdadero inicio de la trayectoria espacial chilena con un sistema satelital propio.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Datos verificados del evento
 - **Fecha de lanzamiento:** 10 de julio de 1998
@@ -39,7 +39,7 @@ image: 1998-07-10-fasat-bravo-satelite-chile.webp
 - **Experimentos principales:** monitoreo de la capa de ozono, obtención de imágenes terrestres, transferencia de datos, navegación por GPS y experimento educativo
 - **Fin de operación:** junio de 2001, tras el agotamiento de sus baterías
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Contexto Histórico
 
@@ -54,7 +54,7 @@ La misión FASat se apoyó en la lógica de los satélites pequeños: plataforma
 ### Entorno cultural
 El proyecto tuvo además una dimensión simbólica importante. No se trataba únicamente de poner un artefacto en órbita, sino de demostrar que Chile podía integrarse de manera concreta al uso práctico del espacio. Por eso el FASat-Bravo combinó objetivos científicos, tecnológicos y educativos, buscando proyectar el ámbito espacial más allá del uso estrictamente militar o experimental.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Desarrollo Cronológico
 
@@ -69,7 +69,7 @@ La secuencia que desembocó en el éxito del FASat-Bravo muestra una evolución 
 - **1998-2001:** el satélite realiza experimentos de observación terrestre, transferencia de datos, navegación y actividades educativas vinculadas a escuelas chilenas.
 - **Junio de 2001:** deja de operar tras agotarse las baterías, después de casi tres años de servicio.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Consecuencias e Impacto
 
@@ -80,7 +80,7 @@ El impacto del FASat-Bravo fue inmediato porque transformó un proyecto de apren
 - **Experiencia operativa real:** consolidó el uso de la estación de control chilena y la formación de especialistas capaces de trabajar con plataformas orbitales pequeñas.
 - **Resultados prácticos medibles:** durante su vida útil completó cerca de 13.000 órbitas y obtuvo 1.273 imágenes de Chile, además de experimentos de comunicaciones y educación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 
@@ -90,27 +90,27 @@ A largo plazo, su éxito ayudó a justificar la continuidad del esfuerzo espacia
 
 En la memoria aeroespacial de Chile, el FASat-Bravo permanece como el satélite que convirtió una aspiración en capacidad real. Por eso su lanzamiento del 10 de julio de 1998 se recuerda como uno de los hitos fundacionales del desarrollo espacial chileno contemporáneo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://museoaeronautico.dgac.gob.cl/2016/07/14/58-efemerides-puesta-en-orbita-del-satelite-chileno-fasat-bravo/">Museo Nacional Aeronáutico y del Espacio – 58.- Efemérides: Puesta en órbita del satélite chileno “FASAT-BRAVO”</a></li>
-    <li><a href="https://www.icarito.cl/2009/12/64-4198-9-2-satelites-chilenos-fasatalfa-y-fasatbravo.shtml/">Icarito – El FASat-Bravo: Una misión exitosa</a></li>
-    <li><a href="https://www.cooperativaciencia.cl/ciencia/2023/07/10/fasat-bravo-el-satelite-chileno-que-estudio-el-pais/">Cooperativa Ciencia – A 25 años del FASat Bravo, el primer satélite chileno</a></li>
-    <li><a href="https://www.eoportal.org/satellite-missions/fasat-bravo">eoPortal – FASat-Bravo</a></li>
-    <li><a href="https://www.sstl.co.uk/space-portfolio/launched-missions/1990-1999/fasat-bravo-launched-1998">SSTL – FASat-Bravo: Launched 1998</a></li>
-    <li><a href="https://caracol.com.co/radio/2001/06/16/entretenimiento/0992671200_046648.html">Caracol Radio – Después 13.000 órbitas dejó de operar satélite chileno FASat-Bravo</a></li>
+    <li><a href="https://museoaeronautico.dgac.gob.cl/2016/07/14/58-efemerides-puesta-en-orbita-del-satelite-chileno-fasat-bravo/" style="color: #315fea; text-decoration: none;">Museo Nacional Aeronáutico y del Espacio – 58.- Efemérides: Puesta en órbita del satélite chileno “FASAT-BRAVO”</a></li>
+    <li><a href="https://www.icarito.cl/2009/12/64-4198-9-2-satelites-chilenos-fasatalfa-y-fasatbravo.shtml/" style="color: #315fea; text-decoration: none;">Icarito – El FASat-Bravo: Una misión exitosa</a></li>
+    <li><a href="https://www.cooperativaciencia.cl/ciencia/2023/07/10/fasat-bravo-el-satelite-chileno-que-estudio-el-pais/" style="color: #315fea; text-decoration: none;">Cooperativa Ciencia – A 25 años del FASat Bravo, el primer satélite chileno</a></li>
+    <li><a href="https://www.eoportal.org/satellite-missions/fasat-bravo" style="color: #315fea; text-decoration: none;">eoPortal – FASat-Bravo</a></li>
+    <li><a href="https://www.sstl.co.uk/space-portfolio/launched-missions/1990-1999/fasat-bravo-launched-1998" style="color: #315fea; text-decoration: none;">SSTL – FASat-Bravo: Launched 1998</a></li>
+    <li><a href="https://caracol.com.co/radio/2001/06/16/entretenimiento/0992671200_046648.html" style="color: #315fea; text-decoration: none;">Caracol Radio – Después 13.000 órbitas dejó de operar satélite chileno FASat-Bravo</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El FASat-Bravo fue el segundo satélite chileno lanzado al espacio, pero se lo considera el primero en órbita independiente porque el FASat-Alfa, enviado en 1995, no logró separarse de su satélite portador y no pudo operar de forma autónoma. Algunas fuentes técnicas también presentan pequeñas variaciones en la masa y en ciertos parámetros orbitales iniciales, por lo que en esta efeméride se han usado valores redondeados y conservadores cuando no existía coincidencia plena entre catálogos y fuentes divulgativas chilenas.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-07-06 12:07:38 CST  

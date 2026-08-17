@@ -12,9 +12,9 @@ image: 2021-07-11-virgin-galactic-primer-vuelo-espacial-tripulado.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2021-07-11-virgin-galactic-primer-vuelo-espacial-tripulado.webp" alt="Vista de la curvatura de la Tierra durante la misión Unity 22 de Virgin Galactic">
-  <figcaption class="post-caption">Vista de la curvatura terrestre captada durante la misión Unity 22 de Virgin Galactic, el 11 de julio de 2021. La imagen fue difundida en la cobertura del vuelo de la VSS Unity. Fuente: <a href="https://www.space.com/virgin-galactic-unity-22-branson-flight-success">Space.com</a>, con crédito de imagen a Virgin Galactic.</figcaption>
+  <figcaption class="post-caption">Vista de la curvatura terrestre captada durante la misión Unity 22 de Virgin Galactic, el 11 de julio de 2021. La imagen fue difundida en la cobertura del vuelo de la VSS Unity. Fuente: <a href="https://www.space.com/virgin-galactic-unity-22-branson-flight-success" style="color: #315fea; text-decoration: none;">Space.com</a>, con crédito de imagen a Virgin Galactic.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -22,7 +22,7 @@ image: 2021-07-11-virgin-galactic-primer-vuelo-espacial-tripulado.webp
 <p>La misión alcanzó una altitud máxima de 86,1 km y una velocidad cercana a Mach 3, permitió varios minutos de ingravidez y concluyó con un aterrizaje en pista apenas una hora después del despegue del sistema. El éxito supuso un hito mediático y técnico para Virgin Galactic, aunque meses después el vuelo también sería objeto de investigación por una desviación temporal fuera del espacio aéreo protegido durante el descenso.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Datos verificados del evento
 - **Fecha:** 11 de julio de 2021
@@ -39,7 +39,7 @@ image: 2021-07-11-virgin-galactic-primer-vuelo-espacial-tripulado.webp
 - **Pilotos de la nave nodriza:** Kelly Latimer y CJ Sturckow
 - **Objetivos principales:** evaluar la experiencia de los futuros clientes, comprobar condiciones para investigación atendida por personas y validar el programa de entrenamiento previo al vuelo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Contexto Histórico
 
@@ -54,7 +54,7 @@ A diferencia de los lanzamientos verticales tradicionales, el sistema de Virgin 
 ### Entorno cultural
 El vuelo se enmarcó además en una competencia muy visible con Blue Origin. Branson voló nueve días antes de Jeff Bezos, lo que convirtió Unity 22 en un hito simbólico dentro de la nueva carrera espacial privada. Al mismo tiempo, el debate sobre si el vuelo había llegado verdaderamente al espacio reactivó una discusión antigua sobre los diferentes criterios para definir la frontera espacial: los 80 km usados por las autoridades estadounidenses frente a los 100 km de la línea de Kármán aceptada por la FAI.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Desarrollo Cronológico
 
@@ -72,7 +72,7 @@ La secuencia de Unity 22 fue relativamente breve en tiempo absoluto, pero conden
 - **Septiembre de 2021:** la FAA inmoviliza temporalmente el vehículo mientras investiga una desviación de trayectoria producida durante el descenso.
 - **29 de septiembre de 2021:** la FAA autoriza la reanudación de vuelos tras aceptar medidas correctivas de Virgin Galactic.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Consecuencias e Impacto
 
@@ -83,7 +83,7 @@ El impacto inmediato de Unity 22 fue doble: validó públicamente el sistema sub
 - **Impulso a la investigación suborbital:** la misión incluyó actividades de evaluación científica y de investigación atendida por personas, entre ellas un experimento vegetal apoyado por la NASA operado por Sirisha Bandla.
 - **Escrutinio regulatorio:** la investigación posterior de la FAA recordó que el éxito público del vuelo no lo eximía de un examen técnico riguroso sobre seguridad y gestión del espacio aéreo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 
@@ -93,28 +93,28 @@ Su legado también reside en haber fijado varios debates que siguen abiertos: qu
 
 Con el tiempo, Unity 22 ha quedado como una de las imágenes definitorias del llamado "nuevo espacio": empresas privadas, fuerte personalización mediática, reutilización parcial de vehículos y una mezcla de ambición empresarial, investigación y espectáculo global.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://investors.virgingalactic.com/news/news-details/2021/Virgin-Galactic-Successfully-Completes-First-Fully-Crewed-Spaceflight/default.aspx">Virgin Galactic – Virgin Galactic Successfully Completes First Fully Crewed Spaceflight</a></li>
-    <li><a href="https://www.virgingalactic.com/news/virgin-galactic-announces-first-fully-crewed-spaceflight">Virgin Galactic – Virgin Galactic Announces First Fully Crewed Spaceflight</a></li>
-    <li><a href="https://www.collectspace.com/news/news-071121a-virgin-galactic-unity-22-crew-launch.html">collectSPACE – Richard Branson soars to space on Virgin Galactic Unity 22 test flight</a></li>
-    <li><a href="https://www.nasa.gov/directorates/stmd/nasa-supported-plant-experiment-flies-to-suborbital-space-with-virgin-galactic/">NASA – NASA-Supported Plant Experiment Flies to Suborbital Space with Virgin Galactic</a></li>
-    <li><a href="https://www.cbsnews.com/news/virgin-galactic-rocket-richard-branson-faa/">CBS News – FAA grounds Virgin Galactic rocket flights while probing Richard Branson trip</a></li>
-    <li><a href="https://www.dw.com/es/realmente-fue-espacial-el-viaje-de-richard-branson-y-virgin-galactic/a-58238565">DW Español – ¿Realmente fue "espacial" el viaje de Richard Branson?</a></li>
-    <li><a href="https://www.xataka.com/espacio/virgin-galactic-lleva-a-richard-branson-al-espacio-exito-asi-fue-vuelo-vss-unity">Xataka – Virgin Galactic lleva a Richard Branson al espacio con éxito: así fue el vuelo del VSS Unity</a></li>
+    <li><a href="https://investors.virgingalactic.com/news/news-details/2021/Virgin-Galactic-Successfully-Completes-First-Fully-Crewed-Spaceflight/default.aspx" style="color: #315fea; text-decoration: none;">Virgin Galactic – Virgin Galactic Successfully Completes First Fully Crewed Spaceflight</a></li>
+    <li><a href="https://www.virgingalactic.com/news/virgin-galactic-announces-first-fully-crewed-spaceflight" style="color: #315fea; text-decoration: none;">Virgin Galactic – Virgin Galactic Announces First Fully Crewed Spaceflight</a></li>
+    <li><a href="https://www.collectspace.com/news/news-071121a-virgin-galactic-unity-22-crew-launch.html" style="color: #315fea; text-decoration: none;">collectSPACE – Richard Branson soars to space on Virgin Galactic Unity 22 test flight</a></li>
+    <li><a href="https://www.nasa.gov/directorates/stmd/nasa-supported-plant-experiment-flies-to-suborbital-space-with-virgin-galactic/" style="color: #315fea; text-decoration: none;">NASA – NASA-Supported Plant Experiment Flies to Suborbital Space with Virgin Galactic</a></li>
+    <li><a href="https://www.cbsnews.com/news/virgin-galactic-rocket-richard-branson-faa/" style="color: #315fea; text-decoration: none;">CBS News – FAA grounds Virgin Galactic rocket flights while probing Richard Branson trip</a></li>
+    <li><a href="https://www.dw.com/es/realmente-fue-espacial-el-viaje-de-richard-branson-y-virgin-galactic/a-58238565" style="color: #315fea; text-decoration: none;">DW Español – ¿Realmente fue "espacial" el viaje de Richard Branson?</a></li>
+    <li><a href="https://www.xataka.com/espacio/virgin-galactic-lleva-a-richard-branson-al-espacio-exito-asi-fue-vuelo-vss-unity" style="color: #315fea; text-decoration: none;">Xataka – Virgin Galactic lleva a Richard Branson al espacio con éxito: así fue el vuelo del VSS Unity</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La misión superó el umbral de 80 km empleado por la FAA, la NASA y la Fuerza Aérea de Estados Unidos para reconocer un vuelo espacial, pero no rebasó la línea de Kármán de 100 km aceptada por la FAI. La desviación de trayectoria investigada posteriormente por la FAA tampoco invalidó el éxito operativo básico del vuelo, aunque sí obligó a introducir medidas correctivas antes de la reanudación de las operaciones.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-07-07 14:22:30 CST  

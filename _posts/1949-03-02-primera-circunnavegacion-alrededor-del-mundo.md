@@ -14,14 +14,14 @@ image: 1949-03-02-primera-circunnavegacion-alrededor-del-mundo.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1949-03-02-primera-circunnavegacion-alrededor-del-mundo.webp" alt="B-50A Lucky Lady II recibe reabastecimiento en vuelo, 1949">
   <figcaption class="post-caption">B-50A Superfortress ‘Lucky Lady II’ (46-010) recibe reabastecimiento en vuelo de KB-29M durante su circunnavegación sin escalas, feb-mar 1949. USAF / Wikimedia Commons.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 2 de marzo de 1949, el B-50A "Lucky Lady II" de la USAF completó la primera circunnavegación aérea sin escalas del mundo, tras 94 horas y 1 minuto de vuelo y 39.946 millas náuticas recorridas. Con cinco pilotos rotativos y cuatro reabastecimientos en vuelo por KB-29, demostró la nueva era del vuelo estratégico global. El récord validó el reabastecimiento aéreo como herramienta clave para operaciones de la Guerra Fría.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 2 de marzo de 1949  
@@ -33,7 +33,7 @@ image: 1949-03-02-primera-circunnavegacion-alrededor-del-mundo.webp
 - **Reabastecimientos en vuelo:** 4 (Atlántico, Pacífico, India) por KB-29M de la 43rd Air Refueling Squadron  
 - **Premios:** Trofeo Mackay, de la National Aeronautic Association, y Trofeo Air Age, después denominado Trofeo Hoyt S. Vandenberg  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto histórico
 La misión de Lucky Lady II fue un hito en la aviación militar, demostrando que la USAF podía proyectar poder aéreo a escala global sin necesidad de escalas terrestres.
@@ -59,21 +59,21 @@ El vuelo demostró la viabilidad del reabastecimiento aéreo como herramienta es
 ### Legado
 Lucky Lady II es recordada como pionera en vuelos de largo alcance, y su misión consolidó la doctrina de disuasión nuclear basada en bombarderos estratégicos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Lucky_Lady_II">Wikipedia (ES) – Lucky Lady II</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Lucky_Lady_II">Wikipedia (EN) – Lucky Lady II</a></li>
-    <li><a href="https://www.fai.org/news/lucky-lady-ii-story-first-non-stop-round-world-flight">FAI.org – Lucky Lady II</a></li>
-    <li><a href="https://aviaciondigital.com/de-lucky-lady-ii-a-los-vuelos-de-18-horas-vueltas-al-mundo-y-records-que-siguen-vivos/">Aviación Digital – Lucky Lady II</a></li>
-    <li><a href="https://www.microsiervos.com/archivo/aerotrastorno/75-anos-primer-vuelo-sin-escalas-alrededor-mundo.html">Microsiervos – 75 años del primer vuelo sin escalas</a></li>
-    <li><a href="https://www.historynet.com/lucky-lady-2/">HistoryNet – Around the World in 94 Hours</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Lucky_Lady_II" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Lucky Lady II</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lucky_Lady_II" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Lucky Lady II</a></li>
+    <li><a href="https://www.fai.org/news/lucky-lady-ii-story-first-non-stop-round-world-flight" style="color: #315fea; text-decoration: none;">FAI.org – Lucky Lady II</a></li>
+    <li><a href="https://aviaciondigital.com/de-lucky-lady-ii-a-los-vuelos-de-18-horas-vueltas-al-mundo-y-records-que-siguen-vivos/" style="color: #315fea; text-decoration: none;">Aviación Digital – Lucky Lady II</a></li>
+    <li><a href="https://www.microsiervos.com/archivo/aerotrastorno/75-anos-primer-vuelo-sin-escalas-alrededor-mundo.html" style="color: #315fea; text-decoration: none;">Microsiervos – 75 años del primer vuelo sin escalas</a></li>
+    <li><a href="https://www.historynet.com/lucky-lady-2/" style="color: #315fea; text-decoration: none;">HistoryNet – Around the World in 94 Hours</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Aunque todas las fuentes coinciden en que la misión del B-50A “Lucky Lady II” completó la primera circunnavegación aérea sin escalas el 2 de marzo de 1949, existen matices sobre cómo se define el logro.</p>
@@ -83,7 +83,7 @@ Lucky Lady II es recordada como pionera en vuelos de largo alcance, y su misión
 <p>También se menciona la controversia con vuelos previos de larga distancia (como <a href="https://efemerides-aviacion.github.io/efemerides/evento/1938/07/14/vuelta-al-mundo-howard-hughes.html" style="color: #315fea; text-decoration: none;">el de Howard Hughes en 1938</a> o los vuelos de la RAF en la posguerra), pero ninguno cumplió la condición de circunnavegación completa sin aterrizajes. Por ello, la FAI y la USAF reconocen a Lucky Lady II como el primer vuelo de este tipo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-02-28 12:05 CST  

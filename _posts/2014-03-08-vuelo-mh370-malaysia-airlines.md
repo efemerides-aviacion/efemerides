@@ -14,14 +14,14 @@ image: 2014-03-08-vuelo-mh370-malaysia-airlines.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2014-03-08-vuelo-mh370-malaysia-airlines.jpg" alt="Malaysia Airlines Boeing 777-200ER 9M-MRO en 2013">
   <figcaption class="post-caption">Malaysia Airlines Boeing 777-200ER 9M-MRO despega del Aeropuerto Internacional de Los Ángeles (LAX), octubre 2013. Autor: Paul Rowbotham (Flickr, CC BY-SA 2.0). Este avión desapareció como Vuelo MH370 el 8 de marzo de 2014.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 8 de marzo de 2014, el vuelo MH370 de Malaysia Airlines desapareció con 239 personas a bordo poco después de despegar de Kuala Lumpur con destino a Pekín. Tras apagar sus sistemas de comunicación, la aeronave se desvió de su ruta y se estima que voló durante horas hacia el sur del océano Índico, donde presuntamente se estrelló al agotarse el combustible. Doce años después, a pesar de ser la búsqueda más costosa de la historia y de haberse encontrado algunos restos en costas africanas, el paradero del fuselaje principal y la causa exacta de su desaparición siguen siendo un misterio. En 2026, una nueva búsqueda por parte de Ocean Infinity continúa en el sur del Índico sin resultados concluyentes hasta el momento.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 - **Fecha de desaparición:** 8 de marzo de 2014  
@@ -34,7 +34,7 @@ image: 2014-03-08-vuelo-mh370-malaysia-airlines.jpg
 - **Restos confirmados:** Flaperón hallado en isla Reunión (2015) y piezas en costas africanas  
 - **Estado actual (2026):** Fuselaje principal no localizado, búsqueda en curso por Ocean Infinity  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto histórico
 La desaparición del MH370 se convirtió en uno de los mayores misterios de la aviación moderna.
@@ -61,28 +61,28 @@ El caso impulsó cambios en las normas de la OACI sobre balizas submarinas, caja
 ### Legado
 El MH370 sigue siendo un misterio sin resolver, recordando la vulnerabilidad de la aviación moderna y la necesidad de sistemas de rastreo más robustos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370">Wikipedia (EN) – Malaysia Airlines Flight 370</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_370_de_Malaysia_Airlines">Wikipedia (ES) – Vuelo 370 de Malaysia Airlines</a></li>
-    <li><a href="https://www.britannica.com/event/Malaysia-Airlines-flight-370-disappearance">Britannica – Malaysia Airlines flight 370 disappearance</a></li>
-    <li><a href="https://www.bbc.com/news/world-asia-26510027">BBC News – MH370 mystery</a></li>
-    <li><a href="https://www.bernama.com/en/general/news.php?id=2514796">Bernama – MH370 Search Records (2026)</a></li>
-    <li><a href="http://english.news.cn/20260121/252a9ed069f34c79a40fcd9867891be4/c.html">Xinhua – Latest MH370 search (2026)</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/Category:Search_for_Malaysia_Airlines_Flight_370">Wikimedia Commons – Galería de búsqueda MH370</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_370" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Malaysia Airlines Flight 370</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_370_de_Malaysia_Airlines" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vuelo 370 de Malaysia Airlines</a></li>
+    <li><a href="https://www.britannica.com/event/Malaysia-Airlines-flight-370-disappearance" style="color: #315fea; text-decoration: none;">Britannica – Malaysia Airlines flight 370 disappearance</a></li>
+    <li><a href="https://www.bbc.com/news/world-asia-26510027" style="color: #315fea; text-decoration: none;">BBC News – MH370 mystery</a></li>
+    <li><a href="https://www.bernama.com/en/general/news.php?id=2514796" style="color: #315fea; text-decoration: none;">Bernama – MH370 Search Records (2026)</a></li>
+    <li><a href="http://english.news.cn/20260121/252a9ed069f34c79a40fcd9867891be4/c.html" style="color: #315fea; text-decoration: none;">Xinhua – Latest MH370 search (2026)</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/Category:Search_for_Malaysia_Airlines_Flight_370" style="color: #315fea; text-decoration: none;">Wikimedia Commons – Galería de búsqueda MH370</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Aunque la evidencia apunta a que el avión voló durante horas hasta caer en el océano Índico, la causa exacta de la desaparición sigue sin confirmarse. Se reconocen múltiples hipótesis (acto deliberado, fallo técnico, incendio, secuestro), pero ninguna ha sido probada de manera concluyente.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de control
 - **Timestamp de verificación:** 2026-03-06 13:50 CST  
