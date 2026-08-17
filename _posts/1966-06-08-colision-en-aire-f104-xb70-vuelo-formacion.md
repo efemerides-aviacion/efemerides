@@ -65,7 +65,7 @@ La sesión de fotos del 8 de junio de 1966 fue organizada a petición de un repr
 
 ## Los Protagonistas
 
-- **Joseph "Joe" Walker (1926-1966):** Jefe de Pilotos de Pruebas de la NASA. Voló el X-15 en 25 ocasiones, alcanzando 354.200 pies (108 km) en dos vuelos. Fue el primer estadounidense en superar los 100 km de altitud (línea de Kármán). Murió a los 39 años en la colisión.
+- **Joseph «Joe» Walker (1921-1966):** Jefe de Pilotos de Pruebas de la NASA. Voló el X-15 en 25 ocasiones y fue el único piloto del programa que superó los 100 km de altitud, la línea de Kármán, en dos vuelos: el 90, el 19 de julio de 1963, y el <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/08/22/joseph-walker-x-15-vuelo-91.html" style="color: #315fea; text-decoration: none;">91, el 22 de agosto de 1963, cuando alcanzó 354.200 pies (107,96 km)</a>, la mayor altitud de todo el programa. Aquellos dos vuelos lo convirtieron en la primera persona en llegar al espacio dos veces. Murió a los 45 años en la colisión.
 - **Alvin "Al" White (1918-2006):** Piloto de pruebas de North American Aviation. Había realizado 42 de los 46 vuelos del AV-2 antes del accidente. Sobrevivió eyectándose en la cápsula de escape, sufriendo heridas graves (su brazo fue aplastado por la cápsula antes de la eyección).
 - **Carl Cross (1925-1966):** Mayor de la USAF. Realizaba su **primer vuelo** en el XB-70. No pudo eyectarse y falleció en el impacto.
 
@@ -138,15 +138,15 @@ El accidente del 8 de junio de 1966 es recordado como una de las tragedias más 
 
 <div class="references">
   <ul>
-    <li><a href="https://clui.org/projects/down-earth-experimental-aircraft-crash-sites/xb-70-june-8-1966">CLUI – XB-70 June 8, 1966</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/North_American_XB-70_Valkyrie">Wikipedia – North American XB-70 Valkyrie</a></li>
-    <li><a href="https://aviation-safety.net/wikibase/160429">Aviation Safety Network – Mid-air collision Accident North American XB-70A Valkyrie</a></li>
-    <li><a href="https://migflug.com/jetflights/the-xb-70-valkyrie-when-a-pr-photo-shoot-killed-the-fastest-bomber-ever-built/">MiGFlug – XB-70 Valkyrie: When a PR Photo Shoot Killed a Bomber</a></li>
-    <li><a href="https://www.military.com/video/aircraft/attack-and-fighter-aircraft/xb-70-valkyrie-mid-air-collision-1966/3911625488001">Military.com – XB-70 Valkyrie Mid-air Collision 1966</a></li>
+    <li><a href="https://clui.org/projects/down-earth-experimental-aircraft-crash-sites/xb-70-june-8-1966" style="color: #315fea; text-decoration: none;">CLUI – XB-70 June 8, 1966</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/North_American_XB-70_Valkyrie" style="color: #315fea; text-decoration: none;">Wikipedia – North American XB-70 Valkyrie</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/160429" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Mid-air collision Accident North American XB-70A Valkyrie</a></li>
+    <li><a href="https://migflug.com/jetflights/the-xb-70-valkyrie-when-a-pr-photo-shoot-killed-the-fastest-bomber-ever-built/" style="color: #315fea; text-decoration: none;">MiGFlug – XB-70 Valkyrie: When a PR Photo Shoot Killed a Bomber</a></li>
+    <li><a href="https://www.military.com/video/aircraft/attack-and-fighter-aircraft/xb-70-valkyrie-mid-air-collision-1966/3911625488001" style="color: #315fea; text-decoration: none;">Military.com – XB-70 Valkyrie Mid-air Collision 1966</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -159,7 +159,7 @@ El accidente del 8 de junio de 1966 es recordado como una de las tragedias más 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-04 19:00:00 UTC
+- **Timestamp de verificación:** 2026-08-17 22:03:38 CST
 - **Fuentes primarias consultadas:** CLUI, Wikipedia, Aviation Safety Network, MiGFlug, Military.com
 - **Discrepancias resueltas:** Confirmación de la fecha del accidente (8 de junio de 1966). Verificación de la altitud de vuelo (30.000 pies) y la secuencia del accidente. Aclaración de la causa (vórtice de estela del XB-70). Identificación de los tres protagonistas y sus destinos.
 - **Nivel de confianza:** Alto
