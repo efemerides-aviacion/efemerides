@@ -12,17 +12,17 @@ image: 1986-04-17-primer-vuelo-replica-hanriot-hd1-tacarigua.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1986-04-17-primer-vuelo-replica-hanriot-hd1-tacarigua.webp" alt="Hanriot HD.1 Tacarigua en vuelo">
-  <figcaption class="post-caption">Hanriot HD.1 "Tacarigua" en vuelo, réplica construida por la Escuela Técnica de la Fuerza Aérea Venezolana. Circa 1986. Fuente: <a href="https://www.facebook.com/profile/100064587343889/search/?q=Fuerza+Aerea+Venezolana+FAV:+Avion+Tacarigua+construido+por+la+Escuela+Tecnica+de+la+Fuerza+Aerea+Venezolana">Facebook (fbid=2863793170324147).</a></figcaption>
+  <figcaption class="post-caption">Hanriot HD.1 "Tacarigua" en vuelo, réplica construida por la Escuela Técnica de la Fuerza Aérea Venezolana. Circa 1986. Fuente: <a href="https://www.facebook.com/profile/100064587343889/search/?q=Fuerza+Aerea+Venezolana+FAV:+Avion+Tacarigua+construido+por+la+Escuela+Tecnica+de+la+Fuerza+Aerea+Venezolana" style="color: #315fea; text-decoration: none;">Facebook (fbid=2863793170324147).</a></figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 17 de abril de 1986 realizó su primer vuelo oficial la réplica venezolana del Hanriot HD.1, bautizada “Tacarigua”, construida en la Escuela Técnica de la Fuerza Aérea Venezolana bajo el proyecto “Hanriot HD-1-ET”. La aeronave fue elaborada a partir de planos originales y forma parte del patrimonio aeronáutico venezolano como una réplica a escala 1:1 del caza francés de la Primera Guerra Mundial. El vuelo inaugural oficial estuvo a cargo del general Cándido Farías en la Base Aérea Mariscal Sucre de Boca de Río.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -38,7 +38,7 @@ image: 1986-04-17-primer-vuelo-replica-hanriot-hd1-tacarigua.webp
 - **Tiempo de construcción:** 15 meses (proyecto aprobado en 1983)
 - **Estado actual:** En exposición en el Museo Aeronáutico de Maracay (desde 1994)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -67,7 +67,7 @@ El proyecto “Hanriot HD-1-ET” fue presentado como un hito de la ingeniería 
 - **Década de 1990:** El avión es retirado de vuelos activos y se integra al “Escuadrón Legendario” para demostraciones aéreas estáticas.
 - **1994:** La aeronave es trasladada al Museo Aeronáutico de Maracay, donde permanece en exposición.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El Proyecto Hanriot HD-1-ET “Tacarigua”
 
@@ -89,7 +89,7 @@ El avión fue bautizado “Tacarigua” en honor a los indígenas Tacarigua, pue
 
 El 17 de abril de 1986, el general Cándido Farías, piloto de la FAV con amplia experiencia, tomó los mandos del “Tacarigua” en la Base Aérea Mariscal Sucre. Ante la presencia de altas autoridades militares y civiles, realizó un vuelo de aproximadamente 15 minutos, demostrando la plena capacidad operativa de la réplica. Este vuelo fue considerado un éxito rotundo y consolidó el proyecto como un hito histórico.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -101,7 +101,7 @@ El 17 de abril de 1986, el general Cándido Farías, piloto de la FAV con amplia
 
 - **Reconocimiento internacional:** La hazaña fue difundida en publicaciones especializadas, posicionando a Venezuela como uno de los pocos países del mundo capaces de construir una réplica operativa de un caza de la Primera Guerra Mundial.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -111,32 +111,32 @@ El “Tacarigua” representa el espíritu de innovación y la capacidad técnic
 
 Hoy, el avión se encuentra en exposición en el Museo Aeronáutico de Maracay "Coronel (AV) Luis Hernán Paredes", ubicado en la Base Aragua de Maracay, no lejos del lugar donde realizó su vuelo inaugural en Boca de Río. Es uno de los principales atractivos del museo y un símbolo del orgullo aeronáutico nacional.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha del primer vuelo:</strong> Existe una discrepancia entre las fuentes consultadas respecto a la fecha exacta del primer vuelo del Hanriot HD-1 “Tacarigua”. Algunas fuentes mencionan que la aeronave realizó un vuelo no oficial a finales de 1985, el cual terminó en un accidente leve. Sin embargo, la <strong>totalidad de las fuentes especializadas y la tradición institucional de la Fuerza Aérea Venezolana coinciden en señalar el 17 de abril de 1986 como la fecha del primer vuelo oficial</strong>, realizado por el general Cándido Farías en la Base Aérea Mariscal Sucre. Esta efeméride se basa en esa fecha, por ser la más documentada y la que la institución conmemora oficialmente.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://www.aviacioncivil.com.ve/romano-remiddi-el-inmigrante-constructor-de-aviones-de-venezuela/">Aviación Civil - Romano Remiddi, el inmigrante constructor de aviones de Venezuela</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:Avi%C3%B3n_Tacarigua.jpg">Wikimedia Commons - File: Avión Tacarigua.jpg</a></li>
-    <li><a href="https://www.youtube.com/watch?v=rr7MocDSCW0">YouTube - Independencia Tecnológica: Primer Avión y Helicóptero Venezolano</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Hanriot_HD.1">Wikipedia - Hanriot HD.1</a></li>
-    <li><a href="http://www.flugzeuginfo.net/acdata_php/acdata_hanriot_hd1_en.php">Flugzeuginfo - Technical Data / Description Hanriot HD.1</a></li>
-    <li><a href="https://favclubven.wordpress.com/2024/12/19/el-hd-1et-tacarigua-la-replica-venezolana-de-un-legendario-caza/">El HD-1ET Tacarigua, la réplica venezolana de un legendario caza</a></li>
+    <li><a href="https://www.aviacioncivil.com.ve/romano-remiddi-el-inmigrante-constructor-de-aviones-de-venezuela/" style="color: #315fea; text-decoration: none;">Aviación Civil - Romano Remiddi, el inmigrante constructor de aviones de Venezuela</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Avi%C3%B3n_Tacarigua.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons - File: Avión Tacarigua.jpg</a></li>
+    <li><a href="https://www.youtube.com/watch?v=rr7MocDSCW0" style="color: #315fea; text-decoration: none;">YouTube - Independencia Tecnológica: Primer Avión y Helicóptero Venezolano</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Hanriot_HD.1" style="color: #315fea; text-decoration: none;">Wikipedia - Hanriot HD.1</a></li>
+    <li><a href="http://www.flugzeuginfo.net/acdata_php/acdata_hanriot_hd1_en.php" style="color: #315fea; text-decoration: none;">Flugzeuginfo - Technical Data / Description Hanriot HD.1</a></li>
+    <li><a href="https://favclubven.wordpress.com/2024/12/19/el-hd-1et-tacarigua-la-replica-venezolana-de-un-legendario-caza/" style="color: #315fea; text-decoration: none;">El HD-1ET Tacarigua, la réplica venezolana de un legendario caza</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-15 08:00:00 UTC
+- **Timestamp de verificación:** 2026-08-17 19:02:40 CST
 - **Fuentes primarias consultadas:** Aviación Civil, Wikimedia Commons, YouTube, Wikipedia, Flugzeuginfo, FavClubVen
 - **Discrepancias resueltas:** Se ha aclarado la existencia de un posible vuelo no oficial a finales de 1985, pero se ha priorizado la fecha del 17 de abril de 1986 como el primer vuelo oficial, por ser la más documentada y la que la Fuerza Aérea Venezolana conmemora.
 - **Nivel de confianza:** Alto

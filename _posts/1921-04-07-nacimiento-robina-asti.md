@@ -17,14 +17,14 @@ redirect_from:
   <figcaption class="post-caption">Robina Asti en la cabina de un biplano rojo, circa 1940s. Fotografía de archivo personal de la aviadora naval estadounidense durante sus inicios como piloto en la Segunda Guerra Mundial.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 7 de abril de 1921 nació Robina Fedora Asti en Manhattan, Nueva York. Aviadora naval durante la Segunda Guerra Mundial, voló aviones de reconocimiento PBY Catalina en el Pacífico y fue ascendida a piloto de pruebas. Tras su transición de género a los 54 años, se convirtió en instructora de vuelo y activista. En 2014, demandó con éxito a la Administración del Seguro Social de EE. UU., logrando que se permitiera a las viudas transgénero recibir beneficios de supervivencia. El 23 de julio de 2020, a los 99 años, estableció dos récords Guinness: piloto activa de mayor edad e instructora de vuelo en actividad de mayor edad. Falleció el 21 de marzo de 2021 en San Diego, California.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 7 de abril de 1921
@@ -44,7 +44,7 @@ redirect_from:
 - **Documental:** "Flying Solo: A Transgender Widow Fights Discrimination" (2015)
 - **TEDx:** "War Stories and a Woman's Changes" (2016)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -91,7 +91,7 @@ La transición de Asti en 1976 ocurrió en una época de cambios sociales, pero 
 
 Robina Asti es recordada como una pionera en dos frentes: en la aviación, como una de las pocas mujeres piloto de la Segunda Guerra Mundial y la instructora de vuelo más longeva del mundo; y en el activismo, como una defensora incansable de los derechos de las personas transgénero. Su vida demuestra que nunca es tarde para vivir con autenticidad ni para luchar por la justicia. En palabras de Asti: "No se trata del dinero, sino del acto de humanidad, que es absolutamente necesario aquí".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Discrepancias encontradas y resueltas
 
@@ -99,19 +99,19 @@ Robina Asti es recordada como una pionera en dos frentes: en la aviación, como 
 - **Lugar de nacimiento:** Algunas fuentes (IMDb) mencionan Queens; otras (Wikipedia) mencionan Manhattan. Se adopta Manhattan (Nueva York), por ser la fuente más autorizada.
 - **Rango militar:** Coinciden en teniente comandante (Lieutenant Commander). No hay discrepancia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Robina_Asti">Wikipedia (ES) – Robina Asti</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Robina_Asti">Wikipedia (EN) – Robina Asti</a></li>
-    <li><a href="https://pt.wikipedia.org/wiki/Robina_Asti">Wikipedia (PT) – Robina Asti</a></li>
-    <li><a href="https://www.nytimes.com/2021/03/21/us/robina-asti-dead.html">The New York Times – Obituario de Robina Asti</a></li>
-    <li><a href="https://www.npr.org/2020/08/03/898496911/99-year-old-pilot-is-going-the-distance-for-2-world-records">NPR – Entrevista a Robina Asti (3 de agosto de 2020)</a></li>
-    <li><a href="https://abc7.com/worlds-oldest-active-pilot-flight-instructor-robina-asti/6336218/">ABC7 – Récord mundial a los 99 años</a></li>
-    <li><a href="https://www.refinery29.com/en-us/2016/05/109265/transgender-ww2-veteran-robina-asti-interview">Refinery29 – Entrevista de 2016</a></li>
-    <li><a href="https://www.cbc.ca/radio/asithappens/as-it-happens-the-monday-edition-1.5959382/remembering-robina-asti-99-year-old-pilot-ww-ii-veteran-and-transgender-icon-1.5959384">CBC – Remembering Robina Asti</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Robina_Asti" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Robina Asti</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Robina_Asti" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Robina Asti</a></li>
+    <li><a href="https://pt.wikipedia.org/wiki/Robina_Asti" style="color: #315fea; text-decoration: none;">Wikipedia (PT) – Robina Asti</a></li>
+    <li><a href="https://www.nytimes.com/2021/03/21/us/robina-asti-dead.html" style="color: #315fea; text-decoration: none;">The New York Times – Obituario de Robina Asti</a></li>
+    <li><a href="https://www.npr.org/2020/08/03/898496911/99-year-old-pilot-is-going-the-distance-for-2-world-records" style="color: #315fea; text-decoration: none;">NPR – Entrevista a Robina Asti (3 de agosto de 2020)</a></li>
+    <li><a href="https://abc7.com/worlds-oldest-active-pilot-flight-instructor-robina-asti/6336218/" style="color: #315fea; text-decoration: none;">ABC7 – Récord mundial a los 99 años</a></li>
+    <li><a href="https://www.refinery29.com/en-us/2016/05/109265/transgender-ww2-veteran-robina-asti-interview" style="color: #315fea; text-decoration: none;">Refinery29 – Entrevista de 2016</a></li>
+    <li><a href="https://www.cbc.ca/radio/asithappens/as-it-happens-the-monday-edition-1.5959382/remembering-robina-asti-99-year-old-pilot-ww-ii-veteran-and-transgender-icon-1.5959384" style="color: #315fea; text-decoration: none;">CBC – Remembering Robina Asti</a></li>
   </ul>
 </div>
 
@@ -119,10 +119,10 @@ Robina Asti es recordada como una pionera en dos frentes: en la aviación, como 
   <p><strong>Nota aclaratoria:</strong> Existe una discrepancia en la fecha de fallecimiento de Robina Asti. La Wikipedia en español y Find a Grave indican el 21 de marzo de 2021, mientras que la Wikipedia en inglés y portugués indican el 12 de marzo de 2021. Se ha adoptado la fecha del 21 de marzo de 2021, respaldada por el obituario de The New York Times y el registro de Find a Grave. El lugar exacto de nacimiento también varía entre Manhattan (mayoría de fuentes) y Queens (IMDb). Se adopta Manhattan.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-04 09:00 UTC
+- **Timestamp de verificación:** 2026-08-17 19:02:40 CST
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN/PT), The New York Times, NPR, ABC7, Refinery29, CBC
 - **Discrepancias resueltas:** Fecha de fallecimiento (21 de marzo vs 12 de marzo) – se adopta 21 de marzo; lugar de nacimiento (Manhattan vs Queens) – se adopta Manhattan.
 - **Nivel de confianza:** Alto

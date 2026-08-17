@@ -15,7 +15,7 @@ image: 1940-07-19-fundacion-escuadron-303-raf.webp
   <figcaption class="post-caption">Pilotos del No. 303 (Polish) Squadron RAF junto a uno de sus Hawker Hurricane en octubre de 1940, pocos meses después de la creación de la unidad. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Pilots_of_No._303_(Polish)_Squadron_RAF_with_one_of_their_Hawker_Hurricanes,_October_1940._CH1535.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>, a partir de fotografía del Imperial War Museums (CH 1535).</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1940-07-19-fundacion-escuadron-303-raf.webp
 <p>Aunque la unidad se trasladó a <strong>RAF Northolt</strong> el 2 de agosto y solo fue declarada operativa el 31 de agosto, su fundación de julio marcó el inicio institucional de una de las formaciones más emblemáticas de la aviación aliada. En pocas semanas, el 303 alcanzaría una reputación extraordinaria por su agresividad, cohesión y eficacia en combate.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 - **Unidad creada:** No. 303 (Polish) Fighter Squadron RAF
@@ -37,7 +37,7 @@ image: 1940-07-19-fundacion-escuadron-303-raf.webp
 - **Identidad histórica heredada:** tradiciones del escuadrón «Kościuszko» de la aviación polaca
 - **Resultado histórico más conocido:** una de las unidades de caza más célebres de la Batalla de Inglaterra
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -52,7 +52,7 @@ La transición no era sencilla. Los aviadores polacos tenían experiencia de com
 ### Entorno cultural
 El 303 no fue solo una unidad militar más. Desde su origen cargó con una memoria simbólica muy poderosa: la herencia del nombre de Tadeusz Kościuszko, héroe polaco y figura compartida también con la historia estadounidense. Esa continuidad convirtió al escuadrón en un emblema de resistencia nacional polaca dentro de una guerra ya plenamente internacionalizada.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -67,7 +67,7 @@ La gestación del Escuadrón 303 fue rápida, pero no instantánea. Su historia 
 - **31 de agosto de 1940:** el Escuadrón 303 es declarado operativo.
 - **Septiembre-octubre de 1940:** la unidad alcanza fama inmediata en la Batalla de Inglaterra por su altísimo rendimiento en combate.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -79,7 +79,7 @@ La fundación del Escuadrón 303 tuvo efectos inmediatos mucho antes de que se c
 - **Refuerzo operativo futuro:** preparó una unidad que entraría en servicio en un momento especialmente crítico de la Batalla de Inglaterra.
 - **Impacto moral temprano:** alimentó la percepción de que los exiliados polacos podían aportar un valor militar real y no solo simbólico.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -89,27 +89,27 @@ Con el paso de los años, el 303 se convirtió en una referencia historiográfic
 
 Por eso, el 19 de julio de 1940 recuerda no solo el nacimiento administrativo de una unidad de caza. Recuerda el momento en que el exilio militar polaco empezó a cristalizar en una fuerza organizada que, en cuestión de semanas, se convertiría en uno de los rostros más conocidos de la resistencia aérea contra la Luftwaffe.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.iwm.org.uk/collections/item/object/1030028337">Imperial War Museums – Log Book of No. 303 Polish Fighter Squadron, July-October 1940</a></li>
-    <li><a href="https://www.iwm.org.uk/history/the-polish-pilots-who-flew-in-the-battle-of-britain">Imperial War Museums – The Polish Pilots Who Flew In Battle Of Britain In WW2</a></li>
-    <li><a href="https://www.rafbf.org/news-and-stories/raf-history/polish-pilots-came-fearsome-reputation">RAF Benevolent Fund – Polish pilots came with a fearsome reputation</a></li>
-    <li><a href="https://www.rafmuseum.org.uk/blog/polish-no-303-squadron-and-the-hurricane-80k/">RAF Museum – Polish No. 303 Squadron and the Hurricane 80K</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/No._303_Squadron_RAF">Wikipedia (EN) – No. 303 Squadron RAF</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:Pilots_of_No._303_(Polish)_Squadron_RAF_with_one_of_their_Hawker_Hurricanes,_October_1940._CH1535.jpg">Wikimedia Commons – Pilots of No. 303 (Polish) Squadron RAF with one of their Hawker Hurricanes, October 1940</a></li>
+    <li><a href="https://www.iwm.org.uk/collections/item/object/1030028337" style="color: #315fea; text-decoration: none;">Imperial War Museums – Log Book of No. 303 Polish Fighter Squadron, July-October 1940</a></li>
+    <li><a href="https://www.iwm.org.uk/history/the-polish-pilots-who-flew-in-the-battle-of-britain" style="color: #315fea; text-decoration: none;">Imperial War Museums – The Polish Pilots Who Flew In Battle Of Britain In WW2</a></li>
+    <li><a href="https://www.rafbf.org/news-and-stories/raf-history/polish-pilots-came-fearsome-reputation" style="color: #315fea; text-decoration: none;">RAF Benevolent Fund – Polish pilots came with a fearsome reputation</a></li>
+    <li><a href="https://www.rafmuseum.org.uk/blog/polish-no-303-squadron-and-the-hurricane-80k/" style="color: #315fea; text-decoration: none;">RAF Museum – Polish No. 303 Squadron and the Hurricane 80K</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/No._303_Squadron_RAF" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – No. 303 Squadron RAF</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Pilots_of_No._303_(Polish)_Squadron_RAF_with_one_of_their_Hawker_Hurricanes,_October_1940._CH1535.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons – Pilots of No. 303 (Polish) Squadron RAF with one of their Hawker Hurricanes, October 1940</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes institucionales y de museo consultadas coinciden en que el Escuadrón 303 fue organizado en <strong>julio de 1940</strong>, que pasó a <strong>RAF Northolt el 2 de agosto</strong> y que fue declarado <strong>operativo el 31 de agosto</strong>. Sin embargo, el <strong>día exacto</strong> de fundación no aparece de manera uniforme en todas las fuentes abiertas: algunas cronologías secundarias lo sitúan en el <strong>19 de julio</strong>, mientras otras se limitan a mencionar únicamente «julio de 1940». En esta efeméride se adopta el 19 de julio por corresponder a la fecha solicitada por el investigador en su borrador preliminar, pero diferenciándolo explícitamente del despliegue a Northolt y del inicio de operaciones. Asimismo, la conocida cifra de <strong>126 aviones enemigos reclamados</strong> corresponde a las reclamaciones de época; estudios posteriores han revisado ese total a la baja, sin alterar el prestigio histórico del 303 como una de las unidades más exitosas del periodo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-07-15 07:35:51 CST  

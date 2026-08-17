@@ -15,13 +15,13 @@ image: 1943-05-13-fundacion-avensa.webp
   <figcaption class="post-caption">Ford Trimotor YV-AVA de la naciente AVENSA en Maiquetía, diciembre de 1943. Fuente: Museo del Transporte / archivo histórico.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Resumen Ejecutivo
 
 El 13 de mayo de 1943 se fundó AVENSA (Aerovías Venezolanas Sociedad Anónima), la aerolínea privada más importante e influyente de la historia de Venezuela. Nació del esfuerzo de los empresarios venezolanos John y Andrés Boulton, quienes lograron el apoyo de gigantes internacionales como Pan American World Airways y Mexicana de Aviación para firmar el contrato de explotación con el Gobierno Nacional. Comenzó sus operaciones en diciembre de ese mismo año y durante 61 años fue sinónimo de modernidad y progreso, conectando a Venezuela con el mundo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -37,7 +37,7 @@ El 13 de mayo de 1943 se fundó AVENSA (Aerovías Venezolanas Sociedad Anónima)
 - **Cese de operaciones:** 31 de diciembre de 2004
 - **Eslogan:** "La aerolínea de Venezuela"
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Aeronaves Emblemáticas de AVENSA
 
@@ -47,7 +47,7 @@ A lo largo de su historia, AVENSA operó una de las flotas más modernas y varia
 - **Era del jet:** Sud Aviation Caravelle (primer jet en 1964), Douglas DC-9-10/30/50, McDonnell Douglas DC-10-30 (para vuelos a Europa en los 90), Boeing 727-100/200, Boeing 737-200 y el moderno Boeing 757-200.
 - **Flota en los 90:** Alrededor de 32 aeronaves.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -80,13 +80,13 @@ La alianza estratégica con Pan American World Airways fue crucial para el despe
 - **2002:** Se declara en quiebra. La eficiencia de Santa Bárbara Airlines y la crisis económica del país llevan al cese de la mayoría de sus operaciones.
 - **31 de diciembre de 2004:** Cesa completamente sus operaciones.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Servivensa (Servicios Avensa S.A.)
 
 En 1978, AVENSA crea Servivensa, inicialmente concebida para prestar servicios de apoyo a la aerolínea matriz. Sin embargo, a partir del 21 de diciembre de 1990, se convirtió en una aerolínea regular de bajo costo, llegando a operar hasta 27 aviones en su flota.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -95,7 +95,7 @@ En 1978, AVENSA crea Servivensa, inicialmente concebida para prestar servicios d
 - **Innovación constante:** Introdujo sistemas de reservación computarizados y servicios a bordo de alta calidad.
 - **Símbolo empresarial:** Representó el éxito de la empresa privada en Venezuela durante más de 60 años.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -106,33 +106,33 @@ Su legado perdura en la memoria de quienes volaron en sus modernos aviones y en 
 ---
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el apoyo de Mexicana de Aviación:</strong> Si bien Pan American World Airways fue el principal socio internacional, algunas fuentes históricas, incluyendo la información suministrada por Enrique Pomares, señalan a Mexicana de Aviación como otra de las empresas que apoyaron la fundación de AVENSA, figurando como socia en el contrato inicial con el Gobierno Nacional.</p>
 <p><strong>Sobre el cese de operaciones:</strong> Aunque AVENSA se declaró en quiebra en 2002, mantuvo una operación testimonial hasta diciembre de 2004, cuando un único Embraer EMB 120 Brasilia realizó sus últimos vuelos, dando fin a 61 años de historia.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Avensa">Wikipedia (ES) - Avensa</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Avensa">Wikipedia (EN) - Avensa</a></li>
-    <li><a href="https://elespectadordecaracas.com/avensa-historia-y-legado/">El Espectador de Caracas - Avensa: un repaso por los 80 años de su fundación</a></li>
-    <li><a href="https://radio.otilca.org/historia-de-la-aviacion-en-venezuela-avensa/">Otilca Radio - Historia de la aviación en Venezuela: Avensa</a></li>
-    <li><a href="http://museodeltransportecaracas.blogspot.com/2014/05/la-primera-aerolinea-privada-de.html">Museo del Transporte Caracas - La primera aerolínea privada de Venezuela</a></li>
-    <li><a href="https://es-academic.com/dic.nsf/eswiki/128297">Académico - Avensa</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Avensa" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Avensa</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Avensa" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Avensa</a></li>
+    <li><a href="https://elespectadordecaracas.com/avensa-historia-y-legado/" style="color: #315fea; text-decoration: none;">El Espectador de Caracas - Avensa: un repaso por los 80 años de su fundación</a></li>
+    <li><a href="https://radio.otilca.org/historia-de-la-aviacion-en-venezuela-avensa/" style="color: #315fea; text-decoration: none;">Otilca Radio - Historia de la aviación en Venezuela: Avensa</a></li>
+    <li><a href="http://museodeltransportecaracas.blogspot.com/2014/05/la-primera-aerolinea-privada-de.html" style="color: #315fea; text-decoration: none;">Museo del Transporte Caracas - La primera aerolínea privada de Venezuela</a></li>
+    <li><a href="https://es-academic.com/dic.nsf/eswiki/128297" style="color: #315fea; text-decoration: none;">Académico - Avensa</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-11 09:30:00 UTC
+- **Timestamp de verificación:** 2026-08-17 19:02:40 CST
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), El Espectador de Caracas, Otilca Radio, y el documento suministrado por Enrique Pomares.
 - **Discrepancias resueltas:** Se ha confirmado que el apoyo inicial también incluyó a Mexicana de Aviación, tal como se menciona en el documento de Enrique Pomares y en fuentes académicas.
 - **Nivel de confianza:** Alto

@@ -16,13 +16,13 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1912-03-19-nacimiento-adolf-galland.webp" alt="Adolf Galland">
   <figcaption class="post-caption">Adolf Galland, capitán de la Legión Cóndor durante la Guerra Civil Española (1937-1938), vistiendo chaqueta de aviador con cuello de piel, Cruz de Hierro y boina de la Luftwaffe. Fecha aproximada: 1938. Fuente: defensa.com – "Adolf Galland de los cielos de España a los de la Segunda Guerra Mundial".</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Adolf Galland nació el 19 de marzo de 1912 en Westerholt, Westfalia, Alemania. Fue un destacado piloto de caza y comandante de la Luftwaffe durante la Segunda Guerra Mundial, acumulando 104 victorias aéreas confirmadas en 705 misiones, todas ellas en el Frente Occidental. Participó en la Guerra Civil Española con la Legión Cóndor, donde realizó 300 misiones de ataque a tierra. Como General de Cazas desde 1941, lideró la defensa aérea del Reich y promovió el desarrollo del caza a reacción Me 262. Tras ser destituido en 1945 por sus críticas a Göring, formó el legendario Jagdverband 44, escuadrón de élite equipado con reactores. Falleció el 9 de febrero de 1996 en Remagen-Oberwinter.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos biográficos y eventos
 - **Fecha de nacimiento:** 19 de marzo de 1912
@@ -31,7 +31,7 @@ redirect_from:
 - **Servicio militar/profesional:** Luftwaffe (1935-1945); Legión Cóndor (1937-1938); comandante del JG 26 "Schlageter"; Inspector General de Cazas; asesor aeronáutico en Argentina (1947-1955)
 - **Fecha de fallecimiento:** 9 de febrero de 1996 (83 años), Remagen-Oberwinter, Alemania
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -117,28 +117,28 @@ Adolf Galland ocupa un lugar excepcional en la historia de la aviación militar:
 - **Referente moral:** Su negativa a ejecutar órdenes que consideraba contrarias al honor militar (como el fusilamiento de pilotos en paracaídas) y su defensa del código de caballerosidad en el combate aéreo lo convirtieron en una figura respetada incluso entre sus enemigos.
 - **Memoria histórica:** Sus memorias "Los primeros y los últimos" siguen siendo una fuente primaria fundamental para el estudio de la Luftwaffe y la guerra aérea en Europa.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Adolf_Galland">Wikipedia (ES) – Adolf Galland</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Adolf_Galland">Wikipedia (EN) – Adolf Galland</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/List_of_aerial_victories_claimed_by_Adolf_Galland">Wikipedia (EN) – List of aerial victories claimed by Adolf Galland</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/JV_44">Wikipedia (ES) – Jagdverband 44</a></li>
-    <li><a href="https://de.m.wikipedia.org/wiki/JV_44">Wikipedia (DE) – Jagdverband 44</a></li>
-    <li><a href="https://www.britannica.com/biography/Adolf-Galland">Britannica – Adolf Galland, Luftwaffe ace</a></li>
-    <li><a href="https://www.lasegundaguerra.com/viewtopic.php?t=948">La Segunda Guerra – Adolf Galland: biografía y 104 victorias</a></li>
-    <li><a href="https://elpais.com/diario/1996/02/12/agenda/824079601_850215.html">El País – Adolf Galland, el 'dandi volador' de la Legión Cóndor</a></li>
-    <li><a href="https://www.gehm.es/segunda-guerra-mundial/la-aparicion-de-los-experten-iv-adolf-galland/">GEHM – La aparición de los experten: Adolf Galland</a></li>
-    <li><a href="https://www.defensa.com/ayer-noticia/adolf-galland-cielos-espana-segunda-guerra-mundial">Defensa.com – Adolf Galland: de España a la Segunda Guerra Mundial</a></li>
-    <li><a href="https://www.abc.es/historia/confesiones-piloto-nazi-letal-sobre-ultimo-combate-20241118042314-nt.html">ABC – Las confesiones del piloto nazi más letal sobre su último combate</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Adolf_Galland" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Adolf Galland</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Adolf_Galland" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Adolf Galland</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/List_of_aerial_victories_claimed_by_Adolf_Galland" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – List of aerial victories claimed by Adolf Galland</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/JV_44" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Jagdverband 44</a></li>
+    <li><a href="https://de.m.wikipedia.org/wiki/JV_44" style="color: #315fea; text-decoration: none;">Wikipedia (DE) – Jagdverband 44</a></li>
+    <li><a href="https://www.britannica.com/biography/Adolf-Galland" style="color: #315fea; text-decoration: none;">Britannica – Adolf Galland, Luftwaffe ace</a></li>
+    <li><a href="https://www.lasegundaguerra.com/viewtopic.php?t=948" style="color: #315fea; text-decoration: none;">La Segunda Guerra – Adolf Galland: biografía y 104 victorias</a></li>
+    <li><a href="https://elpais.com/diario/1996/02/12/agenda/824079601_850215.html" style="color: #315fea; text-decoration: none;">El País – Adolf Galland, el 'dandi volador' de la Legión Cóndor</a></li>
+    <li><a href="https://www.gehm.es/segunda-guerra-mundial/la-aparicion-de-los-experten-iv-adolf-galland/" style="color: #315fea; text-decoration: none;">GEHM – La aparición de los experten: Adolf Galland</a></li>
+    <li><a href="https://www.defensa.com/ayer-noticia/adolf-galland-cielos-espana-segunda-guerra-mundial" style="color: #315fea; text-decoration: none;">Defensa.com – Adolf Galland: de España a la Segunda Guerra Mundial</a></li>
+    <li><a href="https://www.abc.es/historia/confesiones-piloto-nazi-letal-sobre-ultimo-combate-20241118042314-nt.html" style="color: #315fea; text-decoration: none;">ABC – Las confesiones del piloto nazi más letal sobre su último combate</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-18 10:30:00 UTC  
+- **Timestamp de verificación:** 2026-08-17 19:02:40 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), Britannica, GEHM, Defensa.com, ABC, La Segunda Guerra  
 - **Discrepancias resueltas:** Se aclaró la diferencia entre las cifras de victorias (104 tradicionales vs. 100 confirmadas en archivos por Mathews & Foreman, más 9 no confirmadas) y se confirmó que Galland no obtuvo victorias en la Guerra Civil Española.  
 - **Nivel de confianza:** Alto  

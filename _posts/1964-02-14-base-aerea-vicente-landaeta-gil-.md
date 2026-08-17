@@ -14,14 +14,14 @@ image: 1964-02-14-base-aerea-vicente-landaeta-gil.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1964-02-14-base-aerea-vicente-landaeta-gil.webp" alt="Entrada principal de la Base Aérea Vicente Landaeta Gil">
   <figcaption class="post-caption">Entrada principal de Balanda (Base Aérea Tte. Vicente Landaeta Gil), Barquisimeto, Venezuela – Vista contemporánea de la base fundada el 14/02/1964 (Foto usuario, circa 2000s).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 14 de febrero de 1964 se inauguró oficialmente la Base Aérea Teniente Vicente Landaeta Gil (Balanda) en Barquisimeto (Lara), creada por Resolución N.º A-184 de diciembre de 1963, como sede inicial del Escuadrón B-40 con B-25 Mitchell.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 - **Fecha:** 14 de febrero de 1964  
@@ -30,10 +30,10 @@ image: 1964-02-14-base-aerea-vicente-landaeta-gil.webp
 - **Aeronave/escuadrones iniciales:** Escuadrón B-40 con B-25 Mitchell; Escuadrón Policía Aérea  
 - **Resultado inmediato:** Fundación oficial de la Base Aérea Teniente Vicente Landaeta Gil  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
-La base fue nombrada en honor al Teniente Vicente Landaeta Gil, integrante de la primera promoción de aviadores militares venezolanos, fallecido el 4 de febrero de 1931 <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1931/02/04/vicente-landaeta-gil-fallece.html">en el primer accidente aéreo registrado en Venezuela</a>.
+La base fue nombrada en honor al Teniente Vicente Landaeta Gil, integrante de la primera promoción de aviadores militares venezolanos, fallecido el 4 de febrero de 1931 <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1931/02/04/vicente-landaeta-gil-fallece.html" style="color: #315fea; text-decoration: none;">en el primer accidente aéreo registrado en Venezuela</a>.
 
 ### Entorno social
 La creación de la base respondió a la necesidad de fortalecer la presencia militar en la región centro-occidental del país, con jurisdicción sobre Lara, Falcón, Yaracuy, Portuguesa, Barinas y Cojedes.
@@ -59,26 +59,26 @@ La base fortaleció la capacidad operativa de la Fuerza Aérea Venezolana en la 
 ### Legado
 Hoy la Base Aérea Teniente Vicente Landaeta Gil es un símbolo de la aviación militar venezolana y un homenaje permanente al pionero que lleva su nombre.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Base_A%C3%A9rea_Teniente_Vicente_Landaeta_Gil">Wikipedia (ES) – Base Aérea Teniente Vicente Landaeta Gil</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Lieutenant_Vicente_Landaeta_Gil_Air_Base">Wikipedia (EN) – Lieutenant Vicente Landaeta Gil Air Base</a></li>
-    <li><a href="https://www.instagram.com/p/DGDN1L3xZZm/">Instagram @hoy_en_la_historia – HoyEnLaHistoria: Base Aérea Teniente Vicente Landaeta Gil</a></li>
-    <li><a href="https://www.facebook.com/photo.php?fbid=3704354532935621&set=a.288793239943089&id=100064372461750">Facebook Historia Aviación Militar Venezolana – 14Feb 1964, inauguración Base Aérea Teniente Vicente Landaeta Gil</a></li>
-    <li><a href="https://es.aroundus.com/p/5076274-base-aerea-teniente-vicente-landaeta-gil">AroundUs – Base Aérea Teniente Vicente Landaeta Gil</a></li>
-    <li><a href="https://trek.zone/en/venezuela/places/214641/lieutenant-vicente-landaeta-gil-air-base-barquisimeto">Trek Zone – Lieutenant Vicente Landaeta Gil Air Base, Barquisimeto</a></li>
-    <li><a href="https://www.elnacional.com/2024/06/el-primer-vuelo-sobre-barquisimeto/">El Nacional – El primer vuelo sobre Barquisimeto</a></li>
-    <li><a href="http://wikimapia.org/6431720/es/Base-Aerea-Vicente-Landaeta-Gil">WikiMapia – Base Aérea Vicente Landaeta Gil - Barquisimeto</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Base_A%C3%A9rea_Teniente_Vicente_Landaeta_Gil" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Base Aérea Teniente Vicente Landaeta Gil</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lieutenant_Vicente_Landaeta_Gil_Air_Base" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Lieutenant Vicente Landaeta Gil Air Base</a></li>
+    <li><a href="https://www.instagram.com/p/DGDN1L3xZZm/" style="color: #315fea; text-decoration: none;">Instagram @hoy_en_la_historia – HoyEnLaHistoria: Base Aérea Teniente Vicente Landaeta Gil</a></li>
+    <li><a href="https://www.facebook.com/photo.php?fbid=3704354532935621&set=a.288793239943089&id=100064372461750" style="color: #315fea; text-decoration: none;">Facebook Historia Aviación Militar Venezolana – 14Feb 1964, inauguración Base Aérea Teniente Vicente Landaeta Gil</a></li>
+    <li><a href="https://es.aroundus.com/p/5076274-base-aerea-teniente-vicente-landaeta-gil" style="color: #315fea; text-decoration: none;">AroundUs – Base Aérea Teniente Vicente Landaeta Gil</a></li>
+    <li><a href="https://trek.zone/en/venezuela/places/214641/lieutenant-vicente-landaeta-gil-air-base-barquisimeto" style="color: #315fea; text-decoration: none;">Trek Zone – Lieutenant Vicente Landaeta Gil Air Base, Barquisimeto</a></li>
+    <li><a href="https://www.elnacional.com/2024/06/el-primer-vuelo-sobre-barquisimeto/" style="color: #315fea; text-decoration: none;">El Nacional – El primer vuelo sobre Barquisimeto</a></li>
+    <li><a href="http://wikimapia.org/6431720/es/Base-Aerea-Vicente-Landaeta-Gil" style="color: #315fea; text-decoration: none;">WikiMapia – Base Aérea Vicente Landaeta Gil - Barquisimeto</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-02-12 15:00 UTC  
+- **Timestamp de verificación:** 2026-08-17 19:02:40 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), Instagram @hoy_en_la_historia, Facebook Historia Aviación Militar Venezolana, El Nacional, Trek Zone  
 - **Discrepancias resueltas:** Confirmación de fecha de fundación (14/02/1964) y resolución de creación (A-184, 10/12/1963)  
 - **Nivel de confianza:** Alto  
