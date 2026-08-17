@@ -165,13 +165,13 @@ Hoy, Harriet Quimby sigue siendo un ejemplo de valentía, determinación y pasi�
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Harriet_Quimby">Wikipedia (ES) - Harriet Quimby</a></li>
-    <li><a href="https://www.britannica.com/biography/Harriet-Quimby">Encyclopaedia Britannica - Harriet Quimby</a></li>
-    <li><a href="https://www.bbc.co.uk/news/articles/c24lmrdgg49o">BBC - The forgotten cross-Channel female flying pioneer</a></li>
-    <li><a href="https://worldkings.org/news/world-almanac-achievement-academy/worldkings-on-this-day-april-16-2023-the-111th-anniversary-of-harriet-quimby-becoming-the-first-woman-to-fly-an-airplane-across-the-english-channel-1912">Worldkings - Harriet Quimby Channel crossing (59 minutes)</a></li>
-    <li><a href="https://www.converse.edu/academics/mickel-library/harriet-quimby-collection/">Converse University - Harriet Quimby Collection</a></li>
-    <li><a href="https://www.chicagotribune.com/1991/04/28/stamp-honors-first-woman-licensed-pilot/">Chicago Tribune - Stamp honors first woman licensed pilot</a></li>
-    <li><a href="https://www.thedailyreporter.com/story/news/local/2022/11/16/replica-flight-suit-for-harriett-quimby-unveiled-at-branch-county-airport/69646391007/">Coldwater Daily Reporter - Harriet Quimby birthplace debate</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Harriet_Quimby" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Harriet Quimby</a></li>
+    <li><a href="https://www.britannica.com/biography/Harriet-Quimby" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica - Harriet Quimby</a></li>
+    <li><a href="https://www.bbc.co.uk/news/articles/c24lmrdgg49o" style="color: #315fea; text-decoration: none;">BBC - The forgotten cross-Channel female flying pioneer</a></li>
+    <li><a href="https://worldkings.org/news/world-almanac-achievement-academy/worldkings-on-this-day-april-16-2023-the-111th-anniversary-of-harriet-quimby-becoming-the-first-woman-to-fly-an-airplane-across-the-english-channel-1912" style="color: #315fea; text-decoration: none;">Worldkings - Harriet Quimby Channel crossing (59 minutes)</a></li>
+    <li><a href="https://www.converse.edu/academics/mickel-library/harriet-quimby-collection/" style="color: #315fea; text-decoration: none;">Converse University - Harriet Quimby Collection</a></li>
+    <li><a href="https://www.chicagotribune.com/1991/04/28/stamp-honors-first-woman-licensed-pilot/" style="color: #315fea; text-decoration: none;">Chicago Tribune - Stamp honors first woman licensed pilot</a></li>
+    <li><a href="https://www.thedailyreporter.com/story/news/local/2022/11/16/replica-flight-suit-for-harriett-quimby-unveiled-at-branch-county-airport/69646391007/" style="color: #315fea; text-decoration: none;">Coldwater Daily Reporter - Harriet Quimby birthplace debate</a></li>
   </ul>
 </div>
 
@@ -179,7 +179,7 @@ Hoy, Harriet Quimby sigue siendo un ejemplo de valentía, determinación y pasi�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-09 12:30:00 UTC
+- **Timestamp de verificación:** 2026-08-17 14:52:48 CST
 - **Fuentes primarias consultadas:** Wikipedia (ES), Encyclopaedia Britannica, BBC, Worldkings, Converse University, Chicago Tribune
 - **Discrepancias resueltas:** La fecha de nacimiento aceptada es el 11 de mayo de 1875, no 1885 (la fecha que ella declaraba). El lugar de nacimiento más aceptado es Arcadia, Michigan, aunque existe controversia. La duración del vuelo del Canal varía entre 59 minutos y 1 hora 9 minutos (69 minutos); se incluyen ambas cifras. La causa del accidente no está esclarecida del todo; las fuentes mencionan la posibilidad de que el pasajero se moviera y desestabilizara el avión o una ráfaga de viento.
 - **Nivel de confianza:** Alto

@@ -169,17 +169,16 @@ Aunque su avión solo logró un salto de 6 metros, Todd demostró que las mujere
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/E._Lilian_Todd">Wikipedia (EN) – E. Lilian Todd</a></li>
-    <li><a href="https://www.earlyaviators.com/etodd.htm">Early Aviators – E. Lillian Todd</a></li>
-    <li><a href="https://www.modelaircraft.org/sites/default/files/ToddELillian.pdf">Academy of Model Aeronautics – Biography of E. Lillian Todd</a></li>
-    <li><a href="https://newyork-times.pages.dev/1909/11/28/archives/a-woman-inventor-who-plansand-expectsto-fly-miss-todd-and-the.html">The New York Times – A Woman Inventor Who Plans—and Expects—to Fly (28 de noviembre de 1909)</a></li>
-    <li><a href="https://engx.theiet.org/b/blogs/posts/women-of-aviation-week-lilian-todd-in-profile">IET – Women of Aviation Week: Lilian Todd</a></li>
-    <li><a href="https://www.aerotime.aero/articles/celebrating-the-pioneering-women-who-helped-shape-aviation">AeroTime – Celebrating the pioneering women who helped shape aviation</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/E._Lilian_Todd" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – E. Lilian Todd</a></li>
+    <li><a href="https://www.earlyaviators.com/etodd.htm" style="color: #315fea; text-decoration: none;">Early Aviators – E. Lillian Todd</a></li>
+    <li><a href="https://www.modelaircraft.org/sites/default/files/ToddELillian.pdf" style="color: #315fea; text-decoration: none;">Academy of Model Aeronautics – Biography of E. Lillian Todd</a></li>
+    <li><a href="https://newyork-times.pages.dev/1909/11/28/archives/a-woman-inventor-who-plansand-expectsto-fly-miss-todd-and-the.html" style="color: #315fea; text-decoration: none;">The New York Times – A Woman Inventor Who Plans—and Expects—to Fly (28 de noviembre de 1909)</a></li>
+    <li><a href="https://engx.theiet.org/b/blogs/posts/women-of-aviation-week-lilian-todd-in-profile" style="color: #315fea; text-decoration: none;">IET – Women of Aviation Week: Lilian Todd</a></li>
+    <li><a href="https://www.aerotime.aero/articles/celebrating-the-pioneering-women-who-helped-shape-aviation" style="color: #315fea; text-decoration: none;">AeroTime – Celebrating the pioneering women who helped shape aviation</a></li>
   </ul>
 </div>
 
-<hr>
-
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Existe una pequeña discrepancia entre fuentes sobre el año exacto de inicio de sus diseños aeronáuticos: algunas fuentes citan 1903, otras 1906. El artículo de The New York Times de 1909 menciona «los últimos tres años» como período de estudio aeronáutico, lo que apunta a 1906 como el año en que comenzó a diseñar aeroplanos, aunque su interés por «juguetes mecánicos y aeronáuticos» data de 1903. El nombre aparece indistintamente como Emma Lilian Todd, E. Lilian Todd o Lily Todd. El lugar exacto de sepultura en el cementerio Moravian de Nueva York está documentado pero no señalizado.</p>
 </div>
@@ -188,7 +187,7 @@ Aunque su avión solo logró un salto de 6 metros, Todd demostró que las mujere
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-07 21:30:00 UTC
+- **Timestamp de verificación:** 2026-08-17 14:52:48 CST
 - **Fuentes primarias consultadas:** Wikipedia (EN), Early Aviators, AMA History Project, The New York Times (1909), IET, AeroTime
 - **Discrepancias resueltas:** La fecha de nacimiento (12 de junio) es consistente en todas las fuentes; el año de inicio del diseño se presenta como «1906 o antes» para reflejar la discrepancia documentada; se ha verificado el vuelo de 1910 como un «salto motorizado de 20 pies» en lugar de «vuelo sostenido».
 - **Nivel de confianza:** Alto

@@ -13,13 +13,13 @@ image: 1872-03-13-nacimiento-ferdinand-marie-leon-delagrange.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1872-03-13-nacimiento-ferdinand-marie-leon-delagrange.webp" alt="Léon Delagrange">
   <figcaption class="post-caption">Retrato de Ferdinand Marie Léon Delagrange hacia 1905-1907, en su etapa como escultor parisino: bigote, gorra astracán y traje tweed con pajarita, estilo "dandi volador" previo a su dedicación a la aviación. Fuente probable: archivo familiar o colección Musée de l'Air et de l'Espace / Le Bourget.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Ferdinand Marie Léon Delagrange nació el 13 de marzo de 1872 en Orléans, hijo de industriales textiles. Formado como escultor en la École des Beaux-Arts de París, obtuvo reconocimiento en los Salons con obras como <em>Livre d'Heures</em> (1903) y <em>Le Templier</em> (1905). En 1907 abandonó la escultura para dedicarse a la aviación, convirtiéndose en uno de los pilotos más destacados del mundo entre 1908 y 1909. Ostentó el brevet Nº 3, fue condecorado con la Légion d'Honneur y recibió la medalla de oro de la Académie des Sports. Falleció el 4 de enero de 1910 al estrellarse con un Blériot XI en Croix d'Hins, a los 37 años.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos biográficos y eventos
 - **Fecha de nacimiento:** 13 de marzo de 1872
@@ -38,7 +38,7 @@ image: 1872-03-13-nacimiento-ferdinand-marie-leon-delagrange.webp
 - **Causa:** Accidente en vuelo de exhibición con un Blériot XI
 - **Sepultura:** Orléans, Francia
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 Léon Delagrange vivió en una época de profundas transformaciones. La Francia de la Belle Époque combinaba el florecimiento de las artes con una explosión de innovaciones tecnológicas que cambiarían para siempre la movilidad humana: el automóvil, el dirigible y, finalmente, el avión.
@@ -89,7 +89,7 @@ Léon Delagrange ocupa un lugar destacado en la historia de la aviación por var
 - **Impulsor de aviadoras:** Su relación con Thérèse Peltier y su trato con <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1882/08/22/nacimiento-raymonde-de-laroche-aviadora-pionera-francesa.html" style="color: #315fea; text-decoration: none;">Raymonde de Laroche, primera mujer del mundo con licencia de piloto el 8 de marzo de 1910</a>, contribuyeron a la incorporación de la mujer a la aviación desde sus inicios.
 - **Memorial:** En Croix d'Hins, lugar del accidente, existe un monumento en su memoria. Una calle de Orléans lleva su nombre.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Nota Aclaratoria
 
@@ -99,28 +99,30 @@ Léon Delagrange ocupa un lugar destacado en la historia de la aviación por var
 <p><strong>Nota sobre relaciones personales:</strong> La posible paternidad de un hijo con Raymonde de Laroche (André) no está documentada en fuentes primarias y debe considerarse como una hipótesis no confirmada. Las biografías académicas de Delagrange se centran en su obra artística y su carrera aeronáutica, sin mencionar descendencia legítima.</p>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/L%C3%A9on_Delagrange">Wikipedia (ES) – Léon Delagrange: uno de los mejores aviadores</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/L%C3%A9on_Delagrange">Wikipedia (EN) – Léon Delagrange: top aviator era</a></li>
-    <li><a href="https://fr.wikipedia.org/wiki/L%C3%A9on_Delagrange">Wikipedia (FR) – Biografía: familia, beaux-arts, pionero</a></li>
-    <li><a href="https://kids.kiddle.co/L%C3%A9on_Delagrange">Kiddle – One of the top aviators in the world</a></li>
-    <li><a href="https://www.earlyaviators.com/edelagra.htm">Early Aviators – Leon Delagrange</a></li>
-    <li><a href="https://historynet.com/french-aviation-pioneer/">HistoryNet – Pioneer boundaries flight</a></li>
-    <li><a href="http://www.thefirstairraces.net/pilots/delagrange.php">The First Air Races – Delagrange</a></li>
-    <li><a href="https://air-racing-history.com/PILOTS/Leon_Delagrange.html">Air Racing History – Leon Delagrange</a></li>
-    <li><a href="https://aviatechno.net/brevets/images_brevets.php?image=2">Aviatechno – Brevet Nº 3</a></li>
-    <li><a href="https://www.ctie.monash.edu.au/hargrave/delagrange.html">Monash University – Pioneers Delagrange</a></li>
-    <li><a href="https://invisiblebordeaux.blogspot.com/2013/07/croix-dhins-12-leon-delagrange-and.html">Invisible Bordeaux – Croix d’Hins</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/L%C3%A9on_Delagrange" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Léon Delagrange: uno de los mejores aviadores</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/L%C3%A9on_Delagrange" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Léon Delagrange: top aviator era</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/L%C3%A9on_Delagrange" style="color: #315fea; text-decoration: none;">Wikipedia (FR) – Biografía: familia, beaux-arts, pionero</a></li>
+    <li><a href="https://kids.kiddle.co/L%C3%A9on_Delagrange" style="color: #315fea; text-decoration: none;">Kiddle – One of the top aviators in the world</a></li>
+    <li><a href="https://www.earlyaviators.com/edelagra.htm" style="color: #315fea; text-decoration: none;">Early Aviators – Leon Delagrange</a></li>
+    <li><a href="https://historynet.com/french-aviation-pioneer/" style="color: #315fea; text-decoration: none;">HistoryNet – Pioneer boundaries flight</a></li>
+    <li><a href="http://www.thefirstairraces.net/pilots/delagrange.php" style="color: #315fea; text-decoration: none;">The First Air Races – Delagrange</a></li>
+    <li><a href="https://air-racing-history.com/PILOTS/Leon_Delagrange.html" style="color: #315fea; text-decoration: none;">Air Racing History – Leon Delagrange</a></li>
+    <li><a href="https://aviatechno.net/brevets/images_brevets.php?image=2" style="color: #315fea; text-decoration: none;">Aviatechno – Brevet Nº 3</a></li>
+    <li><a href="https://www.ctie.monash.edu.au/hargrave/delagrange.html" style="color: #315fea; text-decoration: none;">Monash University – Pioneers Delagrange</a></li>
+    <li><a href="https://invisiblebordeaux.blogspot.com/2013/07/croix-dhins-12-leon-delagrange-and.html" style="color: #315fea; text-decoration: none;">Invisible Bordeaux – Croix d’Hins</a></li>
     <li><a href="https://es.wikipedia.org/wiki/Raymonde_de_Laroche" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Raymonde de Laroche</a></li>
-    <li><a href="https://www.cpa-bastille91.com/lhistoire-de-laviation-de-ader-a-1910-le-bleriot-de-delagrange/">CPA Bastille – Vida industrial, ateliers</a></li>
+    <li><a href="https://www.cpa-bastille91.com/lhistoire-de-laviation-de-ader-a-1910-le-bleriot-de-delagrange/" style="color: #315fea; text-decoration: none;">CPA Bastille – Vida industrial, ateliers</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-12 14:20:00 UTC  
+- **Timestamp de verificación:** 2026-08-17 14:52:48 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN/FR), Early Aviators, HistoryNet, The First Air Races, Air Racing History, Aviatechno, Monash University, Invisible Bordeaux, CPA Bastille  
 - **Discrepancias resueltas:** Se documentó la diferencia entre la fecha de obtención del brevet (1909) y su numeración retroactiva (1910); se aclaró la hipótesis no confirmada sobre posible descendencia con Raymonde de Laroche  
 - **Nivel de confianza:** Alto  
