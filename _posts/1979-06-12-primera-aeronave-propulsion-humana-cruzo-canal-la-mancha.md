@@ -69,7 +69,7 @@ La figura del "as" de la aviación se había transformado. Ya no se trataba de p
 ## Desarrollo Cronológico
 
 - **1959:** El industrial británico Henry Kremer establece un premio de £50.000 para la primera aeronave de propulsión humana capaz de volar 1,6 km (1 milla) en una ruta en forma de ocho a una altura mínima de 3 metros. Posteriormente, añade un segundo premio de £100.000 para quien cruce el Canal de la Mancha.
-- **23 de agosto de 1977:** El Gossamer Condor, primer diseño de MacCready, gana el primer Premio Kremer al completar la ruta en figura de ocho en Shafter, California.
+- **23 de agosto de 1977:** El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1977/08/23/gossamer-condor-primera-aeronave-propulsion-humana.html" style="color: #315fea; text-decoration: none;">Gossamer Condor</a>, primer diseño de MacCready, gana el primer Premio Kremer al completar la ruta en figura de ocho en Shafter, California.
 - **1978-1979:** El equipo de MacCready construye dos ejemplares del Gossamer Albatross (Albatross I y Albatross II), refinando el diseño del Condor con materiales aún más ligeros y una envergadura mayor para afrontar las condiciones del Canal.
 - **Primavera de 1979:** El equipo se instala en Folkestone, Inglaterra, a la espera de las condiciones meteorológicas ideales: vientos bajos, visibilidad buena y mar en calma. La espera se prolonga casi un mes.
 - **12 de junio de 1979, primeras horas de la mañana:** El despegue, previsto desde un punto cercano a Folkestone, es aplazado en dos ocasiones debido a vientos demasiado fuertes sobre el Canal. Finalmente, poco antes de las 6:00 a.m., Bryan Allen acelera hasta las 75 revoluciones por minuto ensayadas y consigue despegar.
@@ -107,17 +107,17 @@ El Gossamer Albatross original forma parte de la colección del Smithsonian Nati
 
 <div class="references">
   <ul>
-    <li><a href="https://airandspace.si.edu/multimedia-gallery/image/nasm2021-00047jpg">Smithsonian National Air and Space Museum – MacCready Gossamer Albatross</a></li>
-    <li><a href="https://www.nasa.gov/image-article/gossamer-albatross-2/">NASA – Gossamer Albatross (research project)</a></li>
-    <li><a href="https://www.nytimes.com/1979/06/13/archives/american-pilot-pedals-a-plane-across-channel-a-bad-moment-is.html">The New York Times – American Pilot Pedals a Plane Across Channel (13 de junio de 1979)</a></li>
-    <li><a href="https://magazine.caltech.edu/post/people-powered-flight">Caltech Magazine – People-Powered Flight (2019)</a></li>
-    <li><a href="https://elpais.com/diario/1979/06/13/internacional/298072820_850215.html">EL PAÍS – Una travesía histórica: la del canal de la Mancha en un avión a pedales (13 de junio de 1979)</a></li>
-    <li><a href="https://www.bbc.com/news/stories-43787457">BBC News – Solving the world's problems, one prize at a time (2018)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/MacCready_Gossamer_Albatross">Wikipedia – MacCready Gossamer Albatross</a></li>
+    <li><a href="https://airandspace.si.edu/multimedia-gallery/image/nasm2021-00047jpg" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – MacCready Gossamer Albatross</a></li>
+    <li><a href="https://www.nasa.gov/image-article/gossamer-albatross-2/" style="color: #315fea; text-decoration: none;">NASA – Gossamer Albatross (research project)</a></li>
+    <li><a href="https://www.nytimes.com/1979/06/13/archives/american-pilot-pedals-a-plane-across-channel-a-bad-moment-is.html" style="color: #315fea; text-decoration: none;">The New York Times – American Pilot Pedals a Plane Across Channel (13 de junio de 1979)</a></li>
+    <li><a href="https://magazine.caltech.edu/post/people-powered-flight" style="color: #315fea; text-decoration: none;">Caltech Magazine – People-Powered Flight (2019)</a></li>
+    <li><a href="https://elpais.com/diario/1979/06/13/internacional/298072820_850215.html" style="color: #315fea; text-decoration: none;">EL PAÍS – Una travesía histórica: la del canal de la Mancha en un avión a pedales (13 de junio de 1979)</a></li>
+    <li><a href="https://www.bbc.com/news/stories-43787457" style="color: #315fea; text-decoration: none;">BBC News – Solving the world's problems, one prize at a time (2018)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/MacCready_Gossamer_Albatross" style="color: #315fea; text-decoration: none;">Wikipedia – MacCready Gossamer Albatross</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Algunas fuentes secundarias mencionan que Allen voló durante 2 horas y 55 minutos, mientras que otras indican 2 horas y 49 minutos. Se ha adoptado la cifra de 2 horas y 49 minutos por ser la más respaldada por las fuentes primarias (Smithsonian y Caltech Magazine). La altitud media del vuelo se registra en fuentes como 5 pies (1,5 metros) o 8 pies (2,4 metros); se ha incluido el rango completo. El premio Kremer para cruzar el Canal se estableció inicialmente en £150.000, pero el importe efectivamente entregado a MacCready fue de £100.000.</p>
@@ -127,7 +127,7 @@ El Gossamer Albatross original forma parte de la colección del Smithsonian Nati
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-08 14:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 18:15:00 CST  
 - **Fuentes primarias consultadas:** Smithsonian NASM, NASA, The New York Times (13/06/1979), Caltech Magazine, BBC News, Wikipedia
 - **Discrepancias resueltas:** La duración exacta del vuelo varía entre 2h 49min y 2h 55min según las fuentes; se ha optado por 2h 49min respaldada por Caltech Magazine y el archivo del Smithsonian. La altitud media se presenta como rango (1,5-2,4 m) para reflejar las variaciones durante el vuelo.
 - **Nivel de confianza:** Alto
