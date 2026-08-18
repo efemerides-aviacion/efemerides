@@ -109,7 +109,7 @@ Boulton Paul adaptó el diseño, y el nuevo Balliol T.2 (con motor Merlin) reali
 ## Consecuencias e Impacto
 
 - **Primer monomotor turbohélice del mundo:** El Balliol (VL892) estableció un hito tecnológico al ser el primer avión de un solo motor en volar con éxito utilizando un turbopropulsor.
-- **Demostración de la tecnología turbohélice:** El vuelo demostró el potencial de los motores de turbina de gas para la aviación, allanando el camino para aeronaves civiles como el Vickers Viscount y militares como el Lockheed C-130 Hercules.
+- **Demostración de la tecnología turbohélice:** El vuelo demostró el potencial de los motores de turbina de gas para la aviación, allanando el camino para aeronaves civiles como el Vickers Viscount y militares como el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1954/08/23/primer-vuelo-c130-hercules.html" style="color: #315fea; text-decoration: none;">Lockheed C-130 Hercules</a>.
 - **Entrenamiento avanzado de posguerra:** El Balliol T.2 sirvió como el principal entrenador avanzado de la RAF a principios de la década de 1950, preparando a los pilotos para los cazas a reacción de la Guerra Fría.
 - **Competencia con el Avro Athena:** Boulton Paul ganó el contrato de producción frente a su rival Avro, asegurando la continuidad de la compañía.
 - **Corta vida operativa:** Con la llegada de los entrenadores a reacción (como el de Havilland Vampire T.11), el Balliol quedó obsoleto rápidamente y fue retirado después de solo siete años de servicio.
@@ -124,7 +124,7 @@ Aunque el Balliol entró en servicio con un motor de pistón convencional (el Ro
 
 En total, se construyeron aproximadamente 229 unidades del Balliol (incluyendo prototipos y versiones de producción), que sirvieron con la RAF y la Fleet Air Arm hasta 1957. Hoy, algunos ejemplares se conservan en museos, como el Balliol T.2 en el RAF Museum de Cosford.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las fechas del primer vuelo con turbopropulsor:</strong> Existen dos fechas clave para el primer vuelo del Balliol con motor Armstrong Siddeley Mamba, y es importante distinguirlas:</p>
@@ -142,12 +142,11 @@ En total, se construyeron aproximadamente 229 unidades del Balliol (incluyendo p
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Boulton_Paul_Balliol">Wikipedia (EN) - Boulton Paul Balliol</a></li>
-    <li><a href="http://wayback.archive-it.org/all/20080515230341/http://en.wikipedia.org/wiki/Boulton_Paul_Balliol">Wikipedia (archivo) - Boulton Paul Balliol</a></li>
-    <li><a href="https://www.rafmuseum.org.uk/research/collections/boulton-paul-balliol-t2/">RAF Museum - Boulton Paul Balliol T.1 (VL917)</a></li>
-    <li><a href="https://www.rafmuseum.org.uk/research/collections/boulton-paul-balliol-t1-prototype-vl892/">RAF Museum - Boulton Paul Balliol T.1 prototype (VL892)</a></li>
-    <li><a href="https://aviationsmilitaires.net/v3/kb/aircraft/show/3320/boulton-paul-p108-balliol">Aviations Militaires - Boulton-Paul Balliol</a></li>
-    <li><a href="https://aviation-safety.net/wikibase/230976">Aviation Safety Network - Accident Boulton Paul Balliol T Mk I VL917</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boulton_Paul_Balliol" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Boulton Paul Balliol</a></li>
+    <li><a href="http://wayback.archive-it.org/all/20080515230341/http://en.wikipedia.org/wiki/Boulton_Paul_Balliol" style="color: #315fea; text-decoration: none;">Wikipedia (archivo) - Boulton Paul Balliol</a></li>
+    <li><a href="https://www.rafmuseum.org.uk/documents/collections/69-A-626_Sea_Balliol_WL732.pdf" style="color: #315fea; text-decoration: none;">RAF Museum – Ficha documental del Sea Balliol WL732 (PDF)</a></li>
+    <li><a href="https://aviationsmilitaires.net/v3/kb/aircraft/show/5082/boulton-paul-balliol-t2" style="color: #315fea; text-decoration: none;">Aviations Militaires – Boulton Paul Balliol T.2</a></li>
+    <li><a href="https://aviationsmilitaires.net/v3/kb/aircraft/show/3320/boulton-paul-p108-balliol" style="color: #315fea; text-decoration: none;">Aviations Militaires - Boulton-Paul Balliol</a></li>
   </ul>
 </div>
 
@@ -155,7 +154,7 @@ En total, se construyeron aproximadamente 229 unidades del Balliol (incluyendo p
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-14 15:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 17:45:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN), RAF Museum, Aviations Militaires, Aviation Safety Network
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre los dos prototipos: VL917 (accidente el 24 de marzo de 1948) y VL892 (primer vuelo exitoso con Mamba el 17 de mayo de 1948). El hito principal es el 17 de mayo de 1948, cuando el primer prototipo modificado se convirtió en el primer avión monomotor turbohélice del mundo en volar con éxito.
 - **Nivel de confianza:** Alto

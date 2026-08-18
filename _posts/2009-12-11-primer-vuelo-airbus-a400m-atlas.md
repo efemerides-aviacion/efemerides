@@ -46,7 +46,7 @@ image: 2009-12-11-primer-vuelo-airbus-a400m-atlas.webp
 
 ## Contexto Histórico
 
-El A400M nació de la necesidad de Europa de un avión de transporte militar propio, independiente de los diseños estadounidenses como el C-130 Hercules. El programa enfrentó numerosos obstáculos, incluyendo disputas políticas, fallos técnicos y sobrecostos millonarios.
+El A400M nació de la necesidad de Europa de un avión de transporte militar propio, independiente de los diseños estadounidenses como el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1954/08/23/primer-vuelo-c130-hercules.html" style="color: #315fea; text-decoration: none;">C-130 Hercules</a>, en producción ininterrumpida desde su primer vuelo en 1954. El programa enfrentó numerosos obstáculos, incluyendo disputas políticas, fallos técnicos y sobrecostos millonarios.
 
 ### Entorno social y geopolítico
 Siete naciones europeas (Bélgica, Francia, Alemania, Luxemburgo, España, Turquía y Reino Unido) se comprometieron inicialmente a comprar 180 unidades. El programa fue gestionado por OCCAR (Organización para la Cooperación en materia de Armamento), una entidad europea de defensa. En 2009, cuando el A400M finalmente voló, algunos países (como Alemania) habían amenazado con cancelar sus pedidos debido a los retrasos y sobrecostos. España, sede de la línea de ensamblaje final en Sevilla, mantuvo un firme respaldo.
@@ -121,16 +121,15 @@ El programa, que enfrentó retrasos y sobrecostos en sus inicios, ha demostrado 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.airbus.com/en/products-services/defence/a400m">Airbus – A400M Atlas official page</a></li>
-    <li><a href="https://www.airbus.com/en/newsroom/press-releases/2009-12-airbus-military-a400ms-first-flight-completed">Airbus – Press release: A400M first flight completed (11 Dec 2009)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Airbus_A400M_Atlas">Wikipedia (EN) – Airbus A400M Atlas</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Airbus_A400M">Wikipedia (ES) – Airbus A400M</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Europrop_TP400-D6">Wikipedia (EN) – Europrop TP400-D6</a></li>
-    <li><a href="https://www.flightglobal.com/a400m-completes-maiden-flight/93640.article">FlightGlobal – A400M completes maiden flight</a></li>
-    <li><a href="https://www.defensa.com/espana/ultimo-vuelo-del-primer-a400m-msn001-donado-museo-aeroscopia">Defensa.com – Último vuelo del primer A400M (MSN001) donado al Museo Aeroscopia</a></li>
-    <li><a href="https://www.newatlas.com/airbus-a400m-maiden-flight/11041/">New Atlas – Airbus A400M makes maiden flight</a></li>
+    <li><a href="https://www.airbus.com/en/products-services/defence/military-aircraft/a400m" style="color: #315fea; text-decoration: none;">Airbus – A400M Atlas official page</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Airbus_A400M_Atlas" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Airbus A400M Atlas</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Airbus_A400M" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Airbus A400M</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Europrop_TP400-D6" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Europrop TP400-D6</a></li>
+    <li><a href="https://www.flightglobal.com/a400m-completes-maiden-flight/93640.article" style="color: #315fea; text-decoration: none;">FlightGlobal – A400M completes maiden flight</a></li>
   </ul>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El MSN001 fue el primero de cinco prototipos construidos para la campaña de pruebas. Los otros cuatro fueron MSN002 (pruebas de carga), MSN003 (pruebas de vuelo), MSN004 (pruebas de motores) y MSN006 (pruebas de sistemas militares). El MSN005 no fue construido (número saltado por razones internas de Airbus). El A400M recibió el nombre "Atlas" en 2011, dos años después de su primer vuelo. El motor Europrop TP400-D6 de 11.000 shp (8.200 kW) es el turbohélice más potente del mundo occidental en producción. La imagen utilizada en esta efeméride corresponde al primer vuelo del MSN001 en Sevilla.</p>
@@ -139,7 +138,7 @@ El programa, que enfrentó retrasos y sobrecostos en sus inicios, ha demostrado 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-04 13:15 UTC
+- **Timestamp de verificación:** 2026-08-18 17:45:00 CST  
 - **Fuentes primarias consultadas:** Airbus (página oficial y comunicado de prensa), Wikipedia (EN/ES, incluida la página del motor TP400-D6), FlightGlobal, Defensa.com, New Atlas
 - **Discrepancias resueltas:** Duración del vuelo (3h 47min confirmada); matrículas (F-WWMT temporal, EC-404 definitiva de pruebas); potencia del motor (corregida a 11.000 shp / 8.200 kW); horas totales del MSN001 (1.448)
 - **Nivel de confianza:** Alto
