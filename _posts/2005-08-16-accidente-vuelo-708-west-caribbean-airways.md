@@ -80,6 +80,8 @@ West Caribbean arrastraba una crisis que la investigación describió como teló
 
 ## Legado
 
+Aquel agosto de 2005 resultó especialmente sombrío para la aviación comercial: una semana después de Machiques, el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/2005/08/23/accidente-vuelo-204-tans-peru.html" style="color: #315fea; text-decoration: none;">vuelo 204 de TANS Perú se estrellaba en Pucallpa</a> con 40 víctimas, en el quinto siniestro grave de un mes que se convirtió en el más letal del sector en tres años.
+
 Veintiún años después, el vuelo 708 es caso de estudio universal sobre pérdidas a gran altitud y sobre el peso de lo organizacional en la cabina: el avión que voló demasiado alto para su peso y su hielo, con pilotos exhaustos por una nómina que no llegaba. Martinica lo recuerda con la AVCA, con memoriales y con la canción «On n'oublie pas», escrita por Serge Bilé y grabada en 2014 por voces como Jocelyne Béroard, Alpha Blondy, Harry Roselmack y Admiral T para sostener a las familias. La televisión lo fijó en la memoria colectiva: el episodio «The Plane That Flew Too High» de la serie Mayday, los documentales franceses «Panamá–Fort-de-France : autopsie d'un crash» (2010) y «West-Caribbean : Mensonges et Vérité» (2015), y el corto «Crossing Away» (2017), estrenado en el décimo aniversario. Cada lección de CRM que hoy se imparte con este caso repite la frase que el primer oficial dijo dos veces y el capitán no escuchó: «nos estamos entrando en pérdida».
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -88,12 +90,12 @@ Veintiún años después, el vuelo 708 es caso de estudio universal sobre pérdi
 
 <div class="references">
   <ul>
-    <li><a href="https://bea.aero/fileadmin/documents/docspa/2005/hk-x050816.es/pdf/hk-x050816.es_05.pdf">JIAAC - Informe final JIAAC-9-058-2005 (original en español, alojado por el BEA)</a></li>
-    <li><a href="https://skybrary.aero/sites/default/files/bookshelf/1930.pdf">SKYbrary - Traducción al inglés del texto principal del informe JIAAC-9-058-2005</a></li>
-    <li><a href="https://aviation-safety.net/asndb/322351">Aviation Safety Network - Loss of control MD-82 HK-4374X, 16 Aug 2005</a></li>
-    <li><a href="https://www.baaa-acro.com/crash/crash-mcdonnell-douglas-md-82-machiques-160-killed">Bureau of Aircraft Accidents Archives - Crash of a McDonnell Douglas MD-82 in Machiques: 160 killed</a></li>
-    <li><a href="https://news.bbc.co.uk/2/hi/americas/4156224.stm">BBC News - Venezuela plane crash kills 160 (16 de agosto de 2005)</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_MD-82_(HK-4374X).jpg">Wikimedia Commons - Fotografía del HK-4374X (Andrés Dallimonti, Airliners.net)</a></li>
+    <li><a href="https://bea.aero/fileadmin/documents/docspa/2005/hk-x050816.es/pdf/hk-x050816.es_05.pdf" style="color: #315fea; text-decoration: none;">JIAAC - Informe final JIAAC-9-058-2005 (original en español, alojado por el BEA)</a></li>
+    <li><a href="https://skybrary.aero/sites/default/files/bookshelf/1930.pdf" style="color: #315fea; text-decoration: none;">SKYbrary - Traducción al inglés del texto principal del informe JIAAC-9-058-2005</a></li>
+    <li><a href="https://aviation-safety.net/asndb/322351" style="color: #315fea; text-decoration: none;">Aviation Safety Network - Loss of control MD-82 HK-4374X, 16 Aug 2005</a></li>
+    <li><a href="https://www.baaa-acro.com/crash/crash-mcdonnell-douglas-md-82-machiques-160-killed" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives - Crash of a McDonnell Douglas MD-82 in Machiques: 160 killed</a></li>
+    <li><a href="https://news.bbc.co.uk/2/hi/americas/4156224.stm" style="color: #315fea; text-decoration: none;">BBC News - Venezuela plane crash kills 160 (16 de agosto de 2005)</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:McDonnell_Douglas_MD-82_(HK-4374X).jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons - Fotografía del HK-4374X (Andrés Dallimonti, Airliners.net)</a></li>
   </ul>
 </div>
 
@@ -101,9 +103,9 @@ Veintiún años después, el vuelo 708 es caso de estudio universal sobre pérdi
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-12 07:08:00 CST
+- **Timestamp de verificación:** 2026-08-18 18:40:00 CST  
 - **Fuentes primarias/institucionales consultadas:** JIAAC (informe final JIAAC-9-058-2005, leído en su traducción oficial al inglés vía SKYbrary y cotejado con el original en español alojado por el BEA)
-- **Fuentes secundarias de contraste:** Aviation Safety Network, BAAA, BBC News, Wikipedia (inglés), Wikimedia Commons, borrador preliminar del investigador
+- **Fuentes secundarias de contraste:** Aviation Safety Network, BAAA, BBC News, Wikipedia (inglés), Wikimedia Commons
 - **Discrepancias resueltas:** la hora local del impacto figura como 02:00 en parte del borrador y como 03:00-03:45 en BBC/ASN; se adopta 07:00:32 UTC = 03:00, pues Venezuela regía en 2005 por UTC−4. La fecha de la fotografía del HK-4374X figura como 7 de julio de 2005 en el EXIF de la copia realojada por BAAA y como 27 de julio de 2005 («veinte días antes») en los metadatos de Wikimedia Commons y en Wikipedia; se adopta el 27 de julio de 2005. El borrador fija la fundación de West Caribbean en 1998 y la BBC en 2000; se redacta «a fines de la década de 1990». La duración de la investigación («4 años y 12 meses», según ASN) se redacta como investigación prolongada sin cifra exacta en el cuerpo.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
