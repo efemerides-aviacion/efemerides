@@ -12,7 +12,7 @@ image: 2014-12-28-accidente-vuelo-8501-indonesia-airasia.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2014-12-28-accidente-vuelo-8501-indonesia-airasia.webp" alt="Airbus A320-200 (PK-AXC) de Indonesia AirAsia">
-  <figcaption class="post-caption">Airbus A320-200 (PK-AXC) de Indonesia AirAsia aterrizando en el Aeropuerto Internacional Ngurah Rai, Tuban, Regencia de Badung, Bali. Ocho meses después, el PK-AXC se estrelló en el mar de Java. Fuente: <a href="https://es.wikipedia.org/wiki/Vuelo_8501_de_Indonesia_AirAsia">Wikipedia - Vuelo 8501 de Indonesia AirAsia</a>.</figcaption>
+  <figcaption class="post-caption">Airbus A320-200 (PK-AXC) de Indonesia AirAsia aterrizando en el Aeropuerto Internacional Ngurah Rai, Tuban, Regencia de Badung, Bali. Ocho meses después, el PK-AXC se estrelló en el mar de Java. Fuente: <a href="https://es.wikipedia.org/wiki/Vuelo_8501_de_Indonesia_AirAsia" style="color: #315fea; text-decoration: none;">Wikipedia - Vuelo 8501 de Indonesia AirAsia</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -147,19 +147,19 @@ El accidente del vuelo QZ8501 es uno de los más graves en la historia de la avi
 
 <div class="references">
   <ul>
-    <li><a href="https://knkt.dephub.go.id/knkt/ntsc_air/2015/2015-01-04%20Final%20Report%20QZ8501.pdf">Komite Nasional Keselamatan Transportasi (KNKT). <em>Final Report QZ8501</em>. 2015.</a></li>
-    <li><a href="https://aviation-safety.net/database/record.php?id=20141228-0">Aviation Safety Network. <em>Loss of Control Accident Airbus A320-216</em>. 2014.</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Indonesia_AirAsia_Flight_8501">Wikipedia (EN) – Indonesia AirAsia Flight 8501</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_8501_de_Indonesia_AirAsia">Wikipedia (ES) – Vuelo 8501 de Indonesia AirAsia</a></li>
-    <li><a href="https://www.bbc.com/news/world-asia-30614627">BBC News. <em>Flight QZ8501: What we know about the AirAsia plane</em>. 2015.</a></li>
-    <li><a href="https://www.aviationtoday.com/2015/12/03/airasia-flight-8501-crash-caused-by-pilot-error-rudder-units/">Aviation Today – AirAsia Flight 8501 Crash Caused by Pilot Error, Rudder Units</a></li>
-    <li><a href="https://www.theguardian.com/world/2015/dec/01/airasia-crew-actions-caused-jet-to-lose-control-say-crash-investigators">The Guardian – AirAsia crash: crew lost control of plane after apparent misunderstanding</a></li>
-    <li><a href="https://kemenhub.go.id/post/read/knkt-sampaikan-hasil-investigasi-kecelakaan-air-asia-qz8501">Kementerian Perhubungan Republik Indonesia – KNKT Sampaikan Hasil Investigasi Kecelakaan Air Asia QZ8501</a></li>
-    <li><a href="https://skybrary.aero/accidents-and-incidents/a320-en-route-karimata-strait-indonesia-2014">SKYbrary – A320, en-route Karimata Strait Indonesia, 2014</a></li>
+    <li><a href="https://knkt.dephub.go.id/knkt/ntsc_air/2015/2015-01-04%20Final%20Report%20QZ8501.pdf" style="color: #315fea; text-decoration: none;">Komite Nasional Keselamatan Transportasi (KNKT). <em>Final Report QZ8501</em>. 2015.</a></li>
+    <li><a href="https://aviation-safety.net/database/record.php?id=20141228-0" style="color: #315fea; text-decoration: none;">Aviation Safety Network. <em>Loss of Control Accident Airbus A320-216</em>. 2014.</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Indonesia_AirAsia_Flight_8501" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Indonesia AirAsia Flight 8501</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_8501_de_Indonesia_AirAsia" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vuelo 8501 de Indonesia AirAsia</a></li>
+    <li><a href="https://www.bbc.com/news/world-asia-30614627" style="color: #315fea; text-decoration: none;">BBC News. <em>Flight QZ8501: What we know about the AirAsia plane</em>. 2015.</a></li>
+    <li><a href="https://www.aviationtoday.com/2015/12/03/airasia-flight-8501-crash-caused-by-pilot-error-rudder-units/" style="color: #315fea; text-decoration: none;">Aviation Today – AirAsia Flight 8501 Crash Caused by Pilot Error, Rudder Units</a></li>
+    <li><a href="https://www.theguardian.com/world/2015/dec/01/airasia-crew-actions-caused-jet-to-lose-control-say-crash-investigators" style="color: #315fea; text-decoration: none;">The Guardian – AirAsia crash: crew lost control of plane after apparent misunderstanding</a></li>
+    <li><a href="https://kemenhub.go.id/post/read/knkt-sampaikan-hasil-investigasi-kecelakaan-air-asia-qz8501" style="color: #315fea; text-decoration: none;">Kementerian Perhubungan Republik Indonesia – KNKT Sampaikan Hasil Investigasi Kecelakaan Air Asia QZ8501</a></li>
+    <li><a href="https://skybrary.aero/accidents-and-incidents/a320-en-route-karimata-strait-indonesia-2014" style="color: #315fea; text-decoration: none;">SKYbrary – A320, en-route Karimata Strait Indonesia, 2014</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -175,7 +175,7 @@ El accidente del vuelo QZ8501 es uno de los más graves en la historia de la avi
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-05 17:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** KNKT (informe final), Aviation Safety Network, Wikipedia (EN/ES), BBC News, Aviation Today, The Guardian, Kementerian Perhubungan RI, SKYbrary
 - **Discrepancias resueltas:**
   - Horarios: Se ha unificado la información horaria en WIB (UTC+7) siguiendo el informe del KNKT.

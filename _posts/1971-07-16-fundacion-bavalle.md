@@ -15,7 +15,7 @@ image: 1971-07-16-fundacion-bavalle.webp
   <figcaption class="post-caption">El Comandante General de la Aviación entrega a la señora Emperatriz Fornés de del Valle García una placa recordatoria de la inauguración de la Base Aérea, que lleva el nombre de su difunto esposo. Fuente: <em>Historia de la Aviación Militar Venezolana</em>, coronel (Av) Luis Hernán Paredes, 3ra edición, 1997.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1971-07-16-fundacion-bavalle.webp
 <p>La inauguración de BAVALLE marcó la consolidación de una instalación estratégica para el oriente venezolano y respondió al proceso de expansión territorial de la Fuerza Aérea Venezolana (FAV). Aunque no se localizó en acceso abierto el instrumento jurídico específico de su creación, la fecha del 16 de julio de 1971 queda fijada por la fuente histórica institucional citada y por su persistencia en la memoria profesional de la FAV.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 - **Fecha de inauguración:** 16 de julio de 1971
@@ -38,7 +38,7 @@ image: 1971-07-16-fundacion-bavalle.webp
 - **Unidad seleccionada para inaugurar la nueva instalación, según las fuentes retrospectivas:** Grupo Aéreo de Bombardeo N.º 13 “Leones” con el sistema Canberra
 - **Epónimo:** Teniente Luis del Valle García, aviador militar fallecido en 1942
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -53,7 +53,7 @@ La época coincidió con una modernización acelerada del material aéreo venezo
 ### Entorno cultural
 Las bases aéreas venezolanas suelen condensar memoria institucional, tradición de unidad y homenajes a aviadores fallecidos. En ese sentido, la denominación “Teniente Luis del Valle García” forma parte de una práctica de conmemoración interna por la cual instalaciones estratégicas reciben el nombre de oficiales considerados referentes de sacrificio y servicio. La persistencia de la fecha del 16 de julio de 1971 en testimonios y publicaciones conmemorativas revela precisamente esa dimensión de memoria colectiva y su importancia dentro de la cultura aeronáutica venezolana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -65,7 +65,7 @@ La inauguración de BAVALLE se inserta en una etapa de fortalecimiento de la inf
 - **1971:** las fuentes retrospectivas atribuyen a BAVALLE la recepción del Grupo Aéreo de Bombardeo N.º 13 “Leones”, trasladado para operar el sistema Canberra desde la nueva infraestructura.
 - **Etapas posteriores:** la base habría alojado también a la Escuela de Combate con los Rockwell T-2D Buckeye y, más tarde, al Grupo Aéreo de Entrenamiento Táctico N.º 13 con los Embraer T-27 Tucano, antes de la activación del Grupo Aéreo de Caza N.º 13 con Sukhoi Su-30MK2 en 2006.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -77,7 +77,7 @@ La inauguración de BAVALLE tuvo efectos importantes sobre la estructura territo
 - **Valor memorial:** su nombre contribuyó a preservar el recuerdo de un aviador fallecido en servicio, integrando historia institucional y homenaje.
 - **Continuidad estratégica:** la permanencia de BAVALLE como instalación relevante, hasta su papel posterior con el Grupo Aéreo de Caza N.º 13, demuestra la trascendencia de su establecimiento dentro del dispositivo aéreo nacional.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -87,20 +87,20 @@ También posee un legado simbólico. El hecho de que la inauguración del 16 de 
 
 Por eso, la efeméride conserva valor histórico e institucional. Se presenta aquí como la conmemoración de la inauguración formal de una base que ha desempeñado un papel relevante en la historia operativa de la aviación militar venezolana y cuya importancia estratégica ha trascendido las dudas que todavía persisten sobre el instrumento jurídico específico de su creación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
     <li>Coronel (Av) Luis Hernán Paredes, <em>Historia de la Aviación Militar Venezolana</em>, 3ra edición, 1997.</li>
-    <li><a href="https://www.youtube.com/watch?v=ZGjZKwF-eKU">ViVe Oriente / YouTube – Anzoátegui: Base Aérea Teniente Luis del Valle García</a></li>
-    <li><a href="http://coronel-10dediciembre.blogspot.com/2011/06/obituario-del-personal-de-la-fuerza.html">Fundación 10 de diciembre – Obituario del personal de la Fuerza Aérea</a></li>
-    <li><a href="https://www.facebook.com/story.php?story_fbid=670784573267269&id=100010071971769&rdid=FkH9UZHxqPVbtj23#">Fav Ven – Bases Aéreas Permanentes: 16 de julio de 1971</a></li>
-    <li><a href="https://www.facebook.com/story.php?story_fbid=1241367706208950&id=100010071971769&rdid=Wed9PJVkwU3iMQKh#">Fav Ven – Personaje FAV epónimo de la Base Aérea Teniente Luis del Valle García</a></li>
+    <li><a href="https://www.youtube.com/watch?v=ZGjZKwF-eKU" style="color: #315fea; text-decoration: none;">ViVe Oriente / YouTube – Anzoátegui: Base Aérea Teniente Luis del Valle García</a></li>
+    <li><a href="http://coronel-10dediciembre.blogspot.com/2011/06/obituario-del-personal-de-la-fuerza.html" style="color: #315fea; text-decoration: none;">Fundación 10 de diciembre – Obituario del personal de la Fuerza Aérea</a></li>
+    <li><a href="https://www.facebook.com/story.php?story_fbid=670784573267269&id=100010071971769&rdid=FkH9UZHxqPVbtj23#" style="color: #315fea; text-decoration: none;">Fav Ven – Bases Aéreas Permanentes: 16 de julio de 1971</a></li>
+    <li><a href="https://www.facebook.com/story.php?story_fbid=1241367706208950&id=100010071971769&rdid=Wed9PJVkwU3iMQKh#" style="color: #315fea; text-decoration: none;">Fav Ven – Personaje FAV epónimo de la Base Aérea Teniente Luis del Valle García</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La fecha del <strong>16 de julio de 1971</strong> para la inauguración de la Base Aérea “Teniente Luis del Valle García” se apoya en la obra <em>Historia de la Aviación Militar Venezolana</em>, del coronel (Av) Luis Hernán Paredes, donde se afirma expresamente que, con asistencia del presidente Rafael Caldera, miembros del Gabinete Ejecutivo, el alto mando militar, el gobernador del estado Anzoátegui e invitados especiales, “se inauguró solemnemente en Barcelona” la nueva base aérea.</p>
@@ -108,10 +108,10 @@ Por eso, la efeméride conserva valor histórico e institucional. Se presenta aq
   <p>Asimismo, la nomenclatura pública contemporánea consultada utiliza de manera consistente la forma <strong>“Teniente Luis del Valle García”</strong>. Algunas publicaciones retrospectivas añaden el apellido “López”, pero en este post se mantiene la forma empleada en la fuente histórica que fija la inauguración y en la denominación institucional de uso más extendido en referencias abiertas actuales.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-12 12:05:00 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias/institucionales consultadas:** extracto de <em>Historia de la Aviación Militar Venezolana</em> (coronel [Av] Luis Hernán Paredes), publicaciones conmemorativas y memoriales vinculadas a la FAV  
 - **Fuentes secundarias de contraste:** ViVe Oriente, Fundación 10 de diciembre, publicaciones retrospectivas de Fav Ven suministradas por el investigador  
 - **Discrepancias resueltas:** se privilegió la fecha de inauguración solemne del 16 de julio de 1971 consignada por la obra de Luis Hernán Paredes, sin haberse localizado aún en acceso abierto el instrumento jurídico que formalizó la creación de la base  

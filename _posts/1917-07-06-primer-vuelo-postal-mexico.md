@@ -12,7 +12,7 @@ image: 1917-07-06-primer-vuelo-postal-mexico.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1917-07-06-primer-vuelo-postal-mexico.webp" alt="El teniente Horacio Ruiz Gaviño, piloto del primer correo aéreo de México">
-  <figcaption class="post-caption">Retrato histórico del teniente piloto aviador Horacio Ruiz Gaviño, protagonista del primer transporte aéreo de correspondencia en México, realizado el 6 de julio de 1917. Fuente: reproducción autorizada por el INAH, vía <a href="https://elmirador.sct.gob.mx/domicilio-conocido/25-aniversario-del-sistema-postal-aereo-nacional-1928-1953">El Mirador / Secretaría de Infraestructura, Comunicaciones y Transportes</a>.</figcaption>
+  <figcaption class="post-caption">Retrato histórico del teniente piloto aviador Horacio Ruiz Gaviño, protagonista del primer transporte aéreo de correspondencia en México, realizado el 6 de julio de 1917. Fuente: reproducción autorizada por el INAH, vía <a href="https://elmirador.sct.gob.mx/domicilio-conocido/25-aniversario-del-sistema-postal-aereo-nacional-1928-1953" style="color: #315fea; text-decoration: none;">El Mirador / Secretaría de Infraestructura, Comunicaciones y Transportes</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -88,22 +88,22 @@ A largo plazo, el vuelo de Horacio Ruiz Gaviño representa el paso de la aviaci�
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.gob.mx/correosdemexico/articulos/105-aniversario-del-primer-correo-aereo-en-mexico?idiom=es">Servicio Postal Mexicano – 105° Aniversario del Primer Correo Aéreo en México</a></li>
-    <li><a href="https://www.gob.mx/defensa/documentos/evolucion-fuerza-aerea-mexicana">Secretaría de la Defensa Nacional – Evolución de la Fuerza Aérea Mexicana</a></li>
-    <li><a href="https://www.gob.mx/correosdemexico/prensa/conmemoran-el-centenario-del-primer-correo-aereo-en-mexico?idiom=es">Servicio Postal Mexicano – Conmemoran el Centenario del Primer Correo Aéreo en México</a></li>
-    <li><a href="https://elmirador.sct.gob.mx/domicilio-conocido/25-aniversario-del-sistema-postal-aereo-nacional-1928-1953">El Mirador / SICT – 25 Aniversario del Sistema Postal Aéreo Nacional (1928-1953)</a></li>
-    <li><a href="https://www.pachucavive.com/hace-105-anos-despego-de-pachuca-el-primer-correo-aereo-de-mexico/">Pachuca Vive – Hace 105 años despegó de Pachuca el primer correo aéreo de México</a></li>
-    <li><a href="https://www.eluniversal.com.mx/opinion/mochilazo-en-el-tiempo/110-anos-de-los-inicios-de-la-aviacion-en-mexico/">El Universal – A 110 años de los inicios de la aviación en México</a></li>
-    <li><a href="https://www.elpais.com.uy/informacion/un-siglo-del-primer-vuelo-postal-en-uruguay-lento-pero-valeroso">El País (Uruguay) – Un siglo del primer vuelo postal en Uruguay: lento pero valeroso</a></li>
-    <li><a href="https://laprensa.com.uy/informaci%C3%B3n/locales/hoy-se-conmemoran-los-100-a-os-del-primer-vuelo-postal">La Prensa (Uruguay) – Hoy se conmemoran los 100 años del primer vuelo postal</a></li>
-    <li><a href="https://www.memoriachilena.gob.cl/602/w3-article-93466.html">Memoria Chilena – El correo aéreo en Chile</a></li>
+    <li><a href="https://www.gob.mx/correosdemexico/articulos/105-aniversario-del-primer-correo-aereo-en-mexico?idiom=es" style="color: #315fea; text-decoration: none;">Servicio Postal Mexicano – 105° Aniversario del Primer Correo Aéreo en México</a></li>
+    <li><a href="https://www.gob.mx/defensa/documentos/evolucion-fuerza-aerea-mexicana" style="color: #315fea; text-decoration: none;">Secretaría de la Defensa Nacional – Evolución de la Fuerza Aérea Mexicana</a></li>
+    <li><a href="https://www.gob.mx/correosdemexico/prensa/conmemoran-el-centenario-del-primer-correo-aereo-en-mexico?idiom=es" style="color: #315fea; text-decoration: none;">Servicio Postal Mexicano – Conmemoran el Centenario del Primer Correo Aéreo en México</a></li>
+    <li><a href="https://elmirador.sct.gob.mx/domicilio-conocido/25-aniversario-del-sistema-postal-aereo-nacional-1928-1953" style="color: #315fea; text-decoration: none;">El Mirador / SICT – 25 Aniversario del Sistema Postal Aéreo Nacional (1928-1953)</a></li>
+    <li><a href="https://www.pachucavive.com/hace-105-anos-despego-de-pachuca-el-primer-correo-aereo-de-mexico/" style="color: #315fea; text-decoration: none;">Pachuca Vive – Hace 105 años despegó de Pachuca el primer correo aéreo de México</a></li>
+    <li><a href="https://www.eluniversal.com.mx/opinion/mochilazo-en-el-tiempo/110-anos-de-los-inicios-de-la-aviacion-en-mexico/" style="color: #315fea; text-decoration: none;">El Universal – A 110 años de los inicios de la aviación en México</a></li>
+    <li><a href="https://www.elpais.com.uy/informacion/un-siglo-del-primer-vuelo-postal-en-uruguay-lento-pero-valeroso" style="color: #315fea; text-decoration: none;">El País (Uruguay) – Un siglo del primer vuelo postal en Uruguay: lento pero valeroso</a></li>
+    <li><a href="https://laprensa.com.uy/informaci%C3%B3n/locales/hoy-se-conmemoran-los-100-a-os-del-primer-vuelo-postal" style="color: #315fea; text-decoration: none;">La Prensa (Uruguay) – Hoy se conmemoran los 100 años del primer vuelo postal</a></li>
+    <li><a href="https://www.memoriachilena.gob.cl/602/w3-article-93466.html" style="color: #315fea; text-decoration: none;">Memoria Chilena – El correo aéreo en Chile</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes consultadas coinciden en la fecha del vuelo, en el piloto Horacio Ruiz Gaviño y en que se trató del primer transporte aéreo de correspondencia en México. Además, la revisión comparada de antecedentes regionales permite ubicarlo como el tercer precedente confirmado de correo aéreo en Latinoamérica, después del vuelo postal entre Salto y Montevideo de 1912 y del vuelo aeropostal chileno entre Ancud y Puerto Montt de 1916. Persisten, no obstante, discrepancias secundarias en el número exacto de tarjetas postales transportadas, en la numeración de la valija o saco postal y en la duración precisa del trayecto.</p>
@@ -112,7 +112,7 @@ A largo plazo, el vuelo de Horacio Ruiz Gaviño representa el paso de la aviaci�
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-02 16:07:27 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Servicio Postal Mexicano, Secretaría de la Defensa Nacional, El Mirador / SICT  
 - **Fuentes secundarias de contraste:** Pachuca Vive, El Universal  
 - **Discrepancias resueltas:** se confirmó el carácter de primer correo aéreo de México y, tras contraste con antecedentes documentados de Uruguay (1912) y Chile (1916), se incorporó la referencia como tercer precedente confirmado en Latinoamérica; se mantuvieron señaladas diferencias menores sobre la valija postal, el número exacto de tarjetas y la duración del vuelo  

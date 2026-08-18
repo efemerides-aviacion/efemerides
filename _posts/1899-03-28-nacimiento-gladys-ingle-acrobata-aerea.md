@@ -16,13 +16,13 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1899-03-28-nacimiento-gladys-ingle-acrobata-aerea.webp" alt="Gladys Ingle, acróbata aérea">
   <figcaption class="post-caption">Gladys Ingle, acróbata aérea de los 13 Black Cats, en pose confiada con goggles y sweater (imagen mejorada con Nano Banana de Gemini), circa 1926. Fuente: Bygonely.com.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Gladys Ingle, nacida el 28 de marzo de 1899 en Walla Walla, Washington, fue la cuarta piloto con licencia en EE.UU. y única mujer en el equipo acrobático 13 Black Cats. Realizó acrobacias legendarias en las décadas de 1920 y 1930: caminatas sobre las alas, transferencias entre aviones en vuelo y el célebre cambio de rueda en pleno aire. Famosa por su valentía, participó en más de 300 traspasos aéreos y dobló para estrellas de cine.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 28 de marzo de 1899
@@ -35,7 +35,7 @@ redirect_from:
   - Reconocida por cambiar una rueda de avión en pleno vuelo (1926)
 - **Organizaciones:** *13 Black Cats*, *Gates Flying Circus*
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -73,23 +73,23 @@ Los *flying circuses* recorrían pueblos de EE.UU. ofreciendo un espectáculo qu
 
 Gladys Ingle es recordada como una de las grandes *wing walkers* de la época dorada de la aviación acrobática. Su nombre aparece junto a otros pioneros como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1892/01/26/nacimiento-bessie-coleman.html" style="color: #315fea; text-decoration: none;">Bessie Coleman</a>, Amelia Earhart y los pilotos de los *flying circuses*. Aunque hoy menos conocida que algunos de sus contemporáneos, su imagen cambiando una rueda en pleno vuelo sigue siendo un símbolo del valor y la destreza en la historia de la aviación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Gladys_Ingle">Wikipedia (ES) – Gladys Ingle</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Gladys_Ingle">Wikipedia (EN) – Gladys Ingle</a></li>
-    <li><a href="https://www.bradycarlson.com/wing-walker-gladys-ingle-could-change-an-airplanes-tire-in-the-middle-of-the-sky/">Brady Carlson – Wing Walker Gladys Ingle</a></li>
-    <li><a href="https://www.vintag.es/2023/10/gladys-ingle.html">Vintag.es – Gladys Ingle Changing a Wheel in Mid-Air, 1926</a></li>
-    <li><a href="https://www.bygonely.com/mid-air-wheel-change-stunt/">Bygonely – Gladys Ingle: The Daring Wing Walker</a></li>
-    <li><a href="https://billiken.lat/personas/gladys-ingle-la-aviadora-estadounidense-que-resalto-por-sus-acrobacias-extremas-en-el-aire/">Billiken – Gladys Ingle: la aviadora estadounidense</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Gladys_Ingle" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Gladys Ingle</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Gladys_Ingle" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Gladys Ingle</a></li>
+    <li><a href="https://www.bradycarlson.com/wing-walker-gladys-ingle-could-change-an-airplanes-tire-in-the-middle-of-the-sky/" style="color: #315fea; text-decoration: none;">Brady Carlson – Wing Walker Gladys Ingle</a></li>
+    <li><a href="https://www.vintag.es/2023/10/gladys-ingle.html" style="color: #315fea; text-decoration: none;">Vintag.es – Gladys Ingle Changing a Wheel in Mid-Air, 1926</a></li>
+    <li><a href="https://www.bygonely.com/mid-air-wheel-change-stunt/" style="color: #315fea; text-decoration: none;">Bygonely – Gladys Ingle: The Daring Wing Walker</a></li>
+    <li><a href="https://billiken.lat/personas/gladys-ingle-la-aviadora-estadounidense-que-resalto-por-sus-acrobacias-extremas-en-el-aire/" style="color: #315fea; text-decoration: none;">Billiken – Gladys Ingle: la aviadora estadounidense</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-27 14:00:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), Brady Carlson, Vintag.es, Bygonely, Billiken  
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha de nacimiento (28 de marzo de 1899) y en la hazaña del cambio de rueda (1926). No se encontraron discrepancias significativas.  
 - **Nivel de confianza:** Alto  

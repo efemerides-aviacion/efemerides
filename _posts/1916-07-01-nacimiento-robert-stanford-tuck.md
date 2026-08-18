@@ -13,17 +13,17 @@ image: 1916-07-01-nacimiento-robert-stanford-tuck.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1916-07-01-nacimiento-robert-stanford-tuck.webp" alt="El piloto Robert Stanford Tuck en la cabina de su caza">
-  <figcaption class="post-caption">El as de caza británico Robert Stanford Tuck posando en la cabina de su Hawker Hurricane Mk.I del Escuadrón No. 257 de la RAF, ca. 1941. Fuente: <a href="https://commons.wikimedia.org/wiki/Category:Robert_Stanford_Tuck">Imperial War Museum / Wikimedia Commons</a>.</figcaption>
+  <figcaption class="post-caption">El as de caza británico Robert Stanford Tuck posando en la cabina de su Hawker Hurricane Mk.I del Escuadrón No. 257 de la RAF, ca. 1941. Fuente: <a href="https://commons.wikimedia.org/wiki/Category:Robert_Stanford_Tuck" style="color: #315fea; text-decoration: none;">Imperial War Museum / Wikimedia Commons</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 1 de julio de 1916, nació en Catford, Londres, Robert Roland Stanford Tuck, célebre piloto de combate que se consagró como uno de los más grandes ases de caza de la Royal Air Force (RAF) británica durante la Segunda Guerra Mundial. Reconocido por su carisma, su puntería letal y su legendaria fortuna en combate —bautizada en su escuadrón como «la suerte de Tuck»—, acumuló veintinueve victorias confirmadas pilotando los míticos cazas Supermarine Spitfire y Hawker Hurricane. Tras distinguirse de manera heroica en la evacuación de Dunkerque y en la Batalla de Inglaterra, fue derribado por fuego antiaéreo en 1942 y capturado por las fuerzas alemanas, ganándose el respeto y la admiración de sus propios adversarios de la Luftwaffe hasta su retiro militar en 1949.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 - **Nombre completo oficial:** Robert Roland Stanford Tuck (comúnmente llamado Robert «Bob» Stanford Tuck)
@@ -35,7 +35,7 @@ image: 1916-07-01-nacimiento-robert-stanford-tuck.webp
 - **Unidades comandadas destacadas:** Comandante de los escuadrones No. 92, No. 257 y líder de la mítica Ala de Duxford de la RAF
 - **Especificaciones del Hawker Hurricane Mk.I:** Caza monoplaza propulsado por un motor Rolls-Royce Merlin de 1.030 CV, con velocidad de crucero de 548 km/h y armado con ocho ametralladoras Browning de 7,7 mm
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -81,31 +81,31 @@ Robert Stanford Tuck es recordado hoy como uno de los máximos exponentes de la 
 - **Inspiración cinematográfica y cultural:** Su biografía oficial titulada *Fly for Your Life* (de Larry Forrester) fue un éxito de ventas mundial y sirvió como base para asesorías técnicas en películas históricas de gran presupuesto sobre la Batalla de Inglaterra.
 - **El hito de las victorias acreditadas:** Con veintinueve victorias individuales confirmadas oficialmente, Tuck de la RAF figura en los registros de la aviación militar entre los diez ases más exitosos de la Segunda Guerra Mundial, un registro operativo extraordinario que inspiró a generaciones de pilotos de caza en todo el mundo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Robert_Stanford_Tuck">Wikipedia (ES) – Biografía de Robert Stanford Tuck</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Robert_Stanford_Tuck">Wikipedia (EN) – Biography of Robert Stanford Tuck</a></li>
-    <li><a href="https://historynet.com/extraordinary-career-of-raf-ace-robert-stanford-tuck-january-98-aviation-history-feature/">HistoryNet – RAF Ace Robert Stanford Tuck: The Pilot Even the Enemy Admired</a></li>
-    <li><a href="https://historynet.com/tucks-luck-sidebar-january-98-aviation-history-feature/">HistoryNet – Tuck's Luck: The Legendary Fortune of Robert Stanford Tuck</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Robert_Stanford_Tuck" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Biografía de Robert Stanford Tuck</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Robert_Stanford_Tuck" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Biography of Robert Stanford Tuck</a></li>
+    <li><a href="https://historynet.com/extraordinary-career-of-raf-ace-robert-stanford-tuck-january-98-aviation-history-feature/" style="color: #315fea; text-decoration: none;">HistoryNet – RAF Ace Robert Stanford Tuck: The Pilot Even the Enemy Admired</a></li>
+    <li><a href="https://historynet.com/tucks-luck-sidebar-january-98-aviation-history-feature/" style="color: #315fea; text-decoration: none;">HistoryNet – Tuck's Luck: The Legendary Fortune of Robert Stanford Tuck</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Se ha corregido una ligera imprecisión onomástica presente en la solicitud original de esta efeméride. Aunque se indicaba genéricamente el nombre como «Roland Stanford Tuck», los registros oficiales de la Royal Air Force (RAF) y su biografía formal confirman que el nombre de pila principal del célebre as de caza era <strong>Robert</strong>, siendo su nombre completo <strong>Robert Roland Stanford Tuck</strong>, comúnmente llamado por sus compañeros de armas y por la prensa como Robert «Bob» Stanford Tuck.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
 Para asegurar la rigurosidad biográfica y el control técnico de los datos presentados sobre la vida de Robert Stanford Tuck, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-06-23 23:59:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Registros históricos de bajas y victorias del Imperial War Museum (IWM) de Londres, bitácoras de combate de los Escuadrones No. 92 y No. 257 de la RAF de 1940, archivos oficiales de condecoraciones de la cancillería británica (DSO, DFC), y la biografía oficial de Larry Forrester, *Fly for Your Life*
 - **Discrepancias resueltas:** Se ha corregido el nombre de pila principal (Robert en lugar de Roland) y se han unificado las cifras de derribos oficiales confirmados (29 victorias individuales según los registros depurados del Ministerio del Aire británico, frente a estimaciones generales inconsistentes de algunas fuentes periodísticas de la posguerra).
 - **Nivel de confianza:** Alto

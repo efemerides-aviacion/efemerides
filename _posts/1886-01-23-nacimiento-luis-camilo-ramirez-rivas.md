@@ -16,14 +16,14 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1886-01-23-nacimiento-luis-camilo-ramirez-rivas.webp" alt="Luis Camilo Ramírez Rivas">
   <figcaption class="post-caption">Luis Camilo Ramírez Rivas, primer piloto aviador venezolano, en uniforme de teniente coronel de la Legión Extranjera Francesa durante la Primera Guerra Mundial, exhibiendo sus condecoraciones.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Luis Camilo Ramírez Rivas nació el 23 de enero de 1886 en Caracas y se convirtió en el primer piloto aviador venezolano al obtener su brevet en Francia en 1913. Combatió en la Primera Guerra Mundial con la Legión Extranjera Francesa, donde alcanzó el grado de teniente coronel y recibió condecoraciones internacionales. Tras la guerra regresó como héroe e inspiró la creación de la Escuela de Aviación Militar en 1920.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Datos Verificados
 - **Fecha de nacimiento:** 23 de enero de 1886  
 - **Lugar:** Caracas, Venezuela  
@@ -44,7 +44,7 @@ redirect_from:
   - Inspiró la fundación de la Escuela de Aviación Militar (17/04/1920).  
 - **Muerte:** 12 de septiembre de 1935 en Fez, Marruecos; asesinado en disputa económica, enterrado con honores militares franceses.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Contexto Histórico
 Luis Camilo Ramírez Rivas fue una figura pionera de la aviación venezolana y un héroe de la Primera Guerra Mundial. Su vida refleja la transición de Venezuela hacia la era aérea y la influencia de la aviación europea en la formación de los primeros pilotos latinoamericanos. Su trayectoria militar y sus condecoraciones internacionales lo convirtieron en símbolo de valentía y en referente para la creación de la aviación militar en su país.
 
@@ -73,22 +73,22 @@ Su vida y hazañas consolidaron la aviación militar venezolana y lo convirtiero
 ### Legado
 Recordado como el primer piloto de guerra venezolano y héroe de la Primera Guerra Mundial.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Luis_Camilo_Ram%C3%ADrez">Wikipedia (ES) – Luis Camilo Ramírez</a></li>
-    <li><a href="http://detallesdelahistoria.com/2023/02/24/luis-camilo-ramirez-rivas-el-primer-piloto-de-guerra-de-nuestro-pais/">Detalles de la Historia – Luis Camilo Ramírez Rivas</a></li>
-    <li><a href="https://ahcarabobo.com/tcnel-luis-camilo-ramirez-rivas/">Academia de Historia de Carabobo – Tcnel. Luis Camilo Ramírez Rivas</a></li>
-    <li><a href="https://www.meer.com/es/37989-luis-camilo-ramirez-rivas">Meer – Luis Camilo Ramírez Rivas</a></li>
-    <li><a href="https://www.el-carabobeno.com/historia-y-tradicion-luis-ramirez-rivas-valeroso-combatiente-durante-la-1ra-guerra-mundial-2/">El Carabobeño – Historia y Tradición</a></li>
-    <li><a href="https://www.southamericanpostcard.com/cgi-bin/photo.cgi?venezuela-CAAY7479.es">South American Postcard – Busto en Maracay</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Luis_Camilo_Ram%C3%ADrez" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Luis Camilo Ramírez</a></li>
+    <li><a href="http://detallesdelahistoria.com/2023/02/24/luis-camilo-ramirez-rivas-el-primer-piloto-de-guerra-de-nuestro-pais/" style="color: #315fea; text-decoration: none;">Detalles de la Historia – Luis Camilo Ramírez Rivas</a></li>
+    <li><a href="https://ahcarabobo.com/tcnel-luis-camilo-ramirez-rivas/" style="color: #315fea; text-decoration: none;">Academia de Historia de Carabobo – Tcnel. Luis Camilo Ramírez Rivas</a></li>
+    <li><a href="https://www.meer.com/es/37989-luis-camilo-ramirez-rivas" style="color: #315fea; text-decoration: none;">Meer – Luis Camilo Ramírez Rivas</a></li>
+    <li><a href="https://www.el-carabobeno.com/historia-y-tradicion-luis-ramirez-rivas-valeroso-combatiente-durante-la-1ra-guerra-mundial-2/" style="color: #315fea; text-decoration: none;">El Carabobeño – Historia y Tradición</a></li>
+    <li><a href="https://www.southamericanpostcard.com/cgi-bin/photo.cgi?venezuela-CAAY7479.es" style="color: #315fea; text-decoration: none;">South American Postcard – Busto en Maracay</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-21 09:30:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia; Detalles de la Historia; Academia de Historia de Carabobo; Meer; El Carabobeño; South American Postcard  
 - **Discrepancias resueltas:** Confirmación de fecha de nacimiento (23 de enero de 1886) y circunstancias de muerte (Fez, 1935).  
 - **Nivel de confianza:** Alto  

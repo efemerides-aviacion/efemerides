@@ -12,17 +12,17 @@ image: 1959-02-07-timm-cook-record-cessna172.jpg
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1959-02-07-timm-cook-record-cessna172.jpg" alt="Cessna 172 N9172B en reabastecimiento durante el récord de Timm y Cook">
-  <figcaption class="post-caption">La Cessna 172 N9172B recibe combustible en vuelo, desde una camioneta para lograr el récord de Timm y Cook (1958–1959). <a href="https://www.flysuperfly.com/blog/2023/6/9/the-64-day-nonstop-cessna-flight">Fuente: FlySuperFly</a>
+  <figcaption class="post-caption">La Cessna 172 N9172B recibe combustible en vuelo, desde una camioneta para lograr el récord de Timm y Cook (1958–1959). <a href="https://www.flysuperfly.com/blog/2023/6/9/the-64-day-nonstop-cessna-flight" style="color: #315fea; text-decoration: none;">Fuente: FlySuperFly</a>
   </figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Entre el 4 de diciembre de 1958 y el 7 de febrero de 1959, Bob Timm y John Cook establecieron el récord mundial de vuelo ininterrumpido en una Cessna 172 N9172B, permaneciendo en el aire durante 64 días, 22 horas, 19 minutos y 5 segundos. El vuelo, patrocinado por el Hacienda Hotel de Las Vegas, sigue siendo la marca vigente para aeronaves ligeras tripuladas.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos Verificados
 - **Periodo del vuelo:** 4 de diciembre de 1958 – 7 de febrero de 1959  
 - **Duración total:** 64 días, 22 horas, 19 minutos, 5 segundos  
@@ -35,7 +35,7 @@ image: 1959-02-07-timm-cook-record-cessna172.jpg
 - **Lugar:** vuelos sobre Nevada y estados vecinos  
 - **Reabastecimiento:** combustible transferido desde una camioneta en movimiento mediante mangueras elevadas  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El vuelo de resistencia de Bob Timm y John Cook en la Cessna 172 Hacienda representó una hazaña sin precedentes en la aviación ligera. Más allá de la marca técnica, fue un experimento de promoción y de ingeniería que demostró la capacidad de los aviones pequeños para permanecer en el aire durante semanas gracias a la innovación en reabastecimiento y modificaciones de cabina. La proeza capturó la atención pública y consolidó a la Cessna 172 como un ícono de fiabilidad, mientras que el récord permanece imbatido más de seis décadas después.
 ### Modificaciones de la aeronave
@@ -53,22 +53,22 @@ El vuelo de resistencia de Bob Timm y John Cook en la Cessna 172 Hacienda repres
 - El récord dejó sin efecto marcas anteriores de más de 1.100 horas en el aire.  
 - La aeronave se exhibe suspendida en el aeropuerto Harry Reid International (Las Vegas).  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://planeandpilotmag.com/hacienda-a-legendary-modified-cessna-172/">Plane & Pilot – Hacienda: A Legendary Modified Cessna 172</a></li>
-    <li><a href="https://www.aopa.org/news-and-media/all-news/2008/march/01/endurance-test-circa-1958">AOPA – Endurance Test, Circa 1958</a></li>
-    <li><a href="https://simpleflying.com/robert-timm-john-cook-endurace-record-cessna-172/">Simple Flying – How Two Pilots Flew For More Than 64 Consecutive Days Without Landing</a></li>
-    <li><a href="https://avgeekery.com/a-cessna-172-once-flew-for-64-days-without-stopping/">Avgeekery – A Cessna 172 Once Flew For 64 Days Without Stopping</a></li>
-    <li><a href="https://www.flysuperfly.com/blog/2023/6/9/the-64-day-nonstop-cessna-flight">FlySuperFly – The 64-Day Nonstop Cessna Flight</a></li>
-    <li><a href="https://www.generalaviationalbum.ca/cessna-172-n9172b-50056-1.html">General Aviation Album – Cessna 172 N9172B, Endurance Record Holder</a></li>
+    <li><a href="https://planeandpilotmag.com/hacienda-a-legendary-modified-cessna-172/" style="color: #315fea; text-decoration: none;">Plane & Pilot – Hacienda: A Legendary Modified Cessna 172</a></li>
+    <li><a href="https://www.aopa.org/news-and-media/all-news/2008/march/01/endurance-test-circa-1958" style="color: #315fea; text-decoration: none;">AOPA – Endurance Test, Circa 1958</a></li>
+    <li><a href="https://simpleflying.com/robert-timm-john-cook-endurace-record-cessna-172/" style="color: #315fea; text-decoration: none;">Simple Flying – How Two Pilots Flew For More Than 64 Consecutive Days Without Landing</a></li>
+    <li><a href="https://avgeekery.com/a-cessna-172-once-flew-for-64-days-without-stopping/" style="color: #315fea; text-decoration: none;">Avgeekery – A Cessna 172 Once Flew For 64 Days Without Stopping</a></li>
+    <li><a href="https://www.flysuperfly.com/blog/2023/6/9/the-64-day-nonstop-cessna-flight" style="color: #315fea; text-decoration: none;">FlySuperFly – The 64-Day Nonstop Cessna Flight</a></li>
+    <li><a href="https://www.generalaviationalbum.ca/cessna-172-n9172b-50056-1.html" style="color: #315fea; text-decoration: none;">General Aviation Album – Cessna 172 N9172B, Endurance Record Holder</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-02-03 17:30:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Plane & Pilot; AOPA; Simple Flying; Avgeekery; FlySuperFly; General Aviation Album  
 - **Discrepancias resueltas:** Confirmación de duración exacta y matrícula de la aeronave.  
 - **Nivel de confianza:** Alto  

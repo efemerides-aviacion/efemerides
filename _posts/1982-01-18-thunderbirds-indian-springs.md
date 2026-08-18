@@ -14,14 +14,14 @@ image: 1982-01-18-thunderbirds-indian-springs.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1982-01-18-thunderbirds-indian-springs.jpg" alt="Formación diamante de los Thunderbirds en T-38A Talon">
   <figcaption class="post-caption">Formación diamante de los Northrop T-38A Talon del equipo acrobático USAF “Thunderbirds” (líder #1, alas #2 y #3, slot #4) en vuelo durante una exhibición de los años setenta u ochenta, antes de la trágica colisión controlada en tierra del 18 de enero de 1982 en Indian Springs Air Force Auxiliary Field, Nevada.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 18 de enero de 1982, durante un entrenamiento en Indian Springs AFAF (Nevada), la formación diamante de los Thunderbirds de la USAF, integrada por cuatro Northrop T‑38A Talon, se estrelló contra el desierto al finalizar un bucle en baja altura. Murieron los cuatro pilotos y la investigación atribuyó el siniestro a un fallo del estabilizador en el avión líder, seguido disciplinadamente por el resto de la formación.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Datos Técnicos Verificados
 - **Fecha del accidente:** 18 de enero de 1982  
 - **Lugar:** Indian Springs Air Force Auxiliary Field (Nevada, EE.UU.)  
@@ -31,7 +31,7 @@ image: 1982-01-18-thunderbirds-indian-springs.jpg
 - **Fase de vuelo:** Entrenamiento acrobático, bucle en baja altura  
 - **Causa oficial (síntesis):** Fallo mecánico en el estabilizador del avión líder; los demás aviones siguieron la trayectoria hasta el impacto.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Contexto Histórico
 La tragedia marcó profundamente la historia de los Thunderbirds y de la aviación acrobática militar.
 
@@ -56,22 +56,22 @@ El accidente llevó a la suspensión temporal de las actividades de los Thunderb
 ### Legado
 Los Thunderbirds regresaron a las exhibiciones en 1983, ya con aviones F‑16 Fighting Falcon, consolidando su prestigio internacional.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/1982_Thunderbirds_Indian_Springs_diamond_crash">Wikipedia (EN) – 1982 Thunderbirds Indian Springs diamond crash</a></li>
-    <li><a href="https://www.code7700.com/case_study_t-38_thunderbirds.htm">Code7700 – Case Study T-38 Thunderbirds</a></li>
-    <li><a href="https://aviation-safety.net/wikibase/64700">Aviation Safety Network – Thunderbirds crash</a></li>
-    <li><a href="https://www.nytimes.com/1982/04/11/us/air-force-finds-mechanical-failure-led-to-crashes-of-flying-team.html">NY Times – Mechanical failure led to crashes</a></li>
-    <li><a href="https://www.check-six.com/Crash_Sites/Thunderbirds-Diamond_Crash.htm">Check-Six – Thunderbirds Diamond Crash</a></li>
-    <li><a href="https://www.aviacionline.com/la-tragedia-de-indian-springs-a-43-anos-del-dia-mas-triste-de-los-thunderbirds">Aviacionline – La tragedia de Indian Springs</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/1982_Thunderbirds_Indian_Springs_diamond_crash" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – 1982 Thunderbirds Indian Springs diamond crash</a></li>
+    <li><a href="https://www.code7700.com/case_study_t-38_thunderbirds.htm" style="color: #315fea; text-decoration: none;">Code7700 – Case Study T-38 Thunderbirds</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/64700" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Thunderbirds crash</a></li>
+    <li><a href="https://www.nytimes.com/1982/04/11/us/air-force-finds-mechanical-failure-led-to-crashes-of-flying-team.html" style="color: #315fea; text-decoration: none;">NY Times – Mechanical failure led to crashes</a></li>
+    <li><a href="https://www.check-six.com/Crash_Sites/Thunderbirds-Diamond_Crash.htm" style="color: #315fea; text-decoration: none;">Check-Six – Thunderbirds Diamond Crash</a></li>
+    <li><a href="https://www.aviacionline.com/la-tragedia-de-indian-springs-a-43-anos-del-dia-mas-triste-de-los-thunderbirds" style="color: #315fea; text-decoration: none;">Aviacionline – La tragedia de Indian Springs</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-15 14:55:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia; Code7700; Aviation Safety Network; NY Times; Check-Six; Aviacionline  
 - **Discrepancias resueltas:** Confirmación de causa oficial (fallo mecánico en estabilizador del líder) y número exacto de víctimas (4 pilotos).  
 - **Nivel de confianza:** Alto  

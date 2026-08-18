@@ -14,14 +14,14 @@ image: 1935-02-26-fundación-de-la-luffwaffe.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1935-02-26-fundación-de-la-luffwaffe.jpg" alt="Hermann Göring con pilotos de la Luftwaffe, 1940">
   <figcaption class="post-caption">Hermann Göring, comandante en jefe de la Luftwaffe, se dirige a un grupo de pilotos alemanes durante la Batalla de Inglaterra (julio-octubre 1940). Fuente: Bundesarchiv / IWM Collections.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 26 de febrero de 1935, Adolf Hitler ordenó la creación de la Luftwaffe, la fuerza aérea alemana, en desafío al Tratado de Versalles. Nombrando a Hermann Göring como su comandante, este acto formalizó un rearme que ya venía gestándose en secreto. La Luftwaffe se convirtió en un pilar fundamental de la estrategia de guerra relámpago y, para el inicio de la Segunda Guerra Mundial, era la fuerza aérea más poderosa de Europa. Su historia, marcada por éxitos iniciales y su posterior derrota, terminó con su disolución en 1946.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Datos verificados del evento
 - **Fecha:** 26 de febrero de 1935  
 - **Lugar:** Berlín, Alemania  
@@ -31,7 +31,7 @@ image: 1935-02-26-fundación-de-la-luffwaffe.jpg
 - **Publicación oficial:** Marzo de 1935, como parte del programa de rearme alemán  
 - **Disolución:** 1946, tras la derrota de la Alemania nazi  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Contexto histórico
 La fundación de la Luftwaffe en 1935 representó un paso decisivo en el rearme alemán y en la preparación para la guerra. Fue un acto de desafío abierto al orden internacional establecido tras la Primera Guerra Mundial y marcó el inicio de una nueva era en la aviación militar europea.
 
@@ -60,28 +60,28 @@ La Luftwaffe fue clave en la estrategia de Blitzkrieg, pero su fracaso en Inglat
 ### Legado
 Recordada como una de las fuerzas aéreas más poderosas de su tiempo, su legado está marcado por la innovación tecnológica y por los crímenes de guerra asociados a su actuación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
-## Referencias verificadas
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Luftwaffe_(Wehrmacht)">Wikipedia (ES) – Luftwaffe (Wehrmacht)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Luftwaffe">Wikipedia (EN) – Luftwaffe</a></li>
-    <li><a href="https://www.history.com/this-day-in-history/february-26/hitler-organizes-luftwaffe">History.com – Hitler organizes Luftwaffe</a></li>
-    <li><a href="https://encyclopedia.ushmm.org/content/en/article/hermann-goering-key-dates">USHMM – Hermann Göring: Key Dates</a></li>
-    <li><a href="https://www.iwm.org.uk/history/how-the-luftwaffe-fought-the-battle-of-britain">Imperial War Museum – How the Luftwaffe fought</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Luftwaffe_(Wehrmacht)" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Luftwaffe (Wehrmacht)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Luftwaffe" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Luftwaffe</a></li>
+    <li><a href="https://www.history.com/this-day-in-history/february-26/hitler-organizes-luftwaffe" style="color: #315fea; text-decoration: none;">History.com – Hitler organizes Luftwaffe</a></li>
+    <li><a href="https://encyclopedia.ushmm.org/content/en/article/hermann-goering-key-dates" style="color: #315fea; text-decoration: none;">USHMM – Hermann Göring: Key Dates</a></li>
+    <li><a href="https://www.iwm.org.uk/history/how-the-luftwaffe-fought-the-battle-of-britain" style="color: #315fea; text-decoration: none;">Imperial War Museum – How the Luftwaffe fought</a></li>
   </ul>
 </div>
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La creación de la Luftwaffe en 1935 fue una violación directa del Tratado de Versalles, que prohibía a Alemania tener fuerzas aéreas militares. El decreto de Hitler formalizó un rearme que ya se venía gestando en secreto desde la década de 1920.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de control
-- **Timestamp de verificación:** 2026-02-24 17:35 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia ES/EN, History.com, USHMM, IWM  
 - **Discrepancias resueltas:** Confirmación de fecha exacta del decreto (26 feb 1935) y publicación oficial en marzo 1935.  
 - **Nivel de confianza:** Alto  

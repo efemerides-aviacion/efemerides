@@ -114,7 +114,7 @@ Hoy, ambos son reconocidos como **coinventores del motor a reacción**, con cont
 
 Ambos coincidieron en una visita histórica en 1966 y mantuvieron una relación de respeto mutuo. Whittle declaró: *"Estoy seguro de que nuestro trabajo fue independiente; él no sabía nada del mío, ni yo del suyo"* .
 
-Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1911/12/14/nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #1b5e20; text-decoration: none;">efeméride de nacimiento de Hans von Ohain</a> para más detalles sobre su vida y contribuciones.
+Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1911/12/14/nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #315fea; text-decoration: none;">efeméride de nacimiento de Hans von Ohain</a> para más detalles sobre su vida y contribuciones.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -131,8 +131,8 @@ Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento
 
 Frank Whittle es reconocido como uno de los grandes inventores del siglo XX. Su legado perdura en cada avión a reacción que surca los cielos.
 
-- **12 de abril de 1937:** Whittle puso en marcha con éxito su Whittle Unit (WU), el primer motor turborreactor práctico del mundo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1937/04/12/whittle-unit-primer-motor-jet.html" style="color: #1b5e20; text-decoration: none;">efeméride del primer motor a reacción exitoso en banco de pruebas</a> para más detalles.
-- **5 de marzo de 1943:** El Gloster Meteor, propulsado por motores basados en los diseños de Whittle, realizó su primer vuelo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1943/03/05/primer-vuelo-gloster-meteor-reactor-britanico.html" style="color: #1b5e20; text-decoration: none;">efeméride del primer vuelo del Gloster Meteor</a> para más detalles.
+- **12 de abril de 1937:** Whittle puso en marcha con éxito su Whittle Unit (WU), el primer motor turborreactor práctico del mundo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1937/04/12/whittle-unit-primer-motor-jet.html" style="color: #315fea; text-decoration: none;">efeméride del primer motor a reacción exitoso en banco de pruebas</a> para más detalles.
+- **5 de marzo de 1943:** El Gloster Meteor, propulsado por motores basados en los diseños de Whittle, realizó su primer vuelo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1943/03/05/primer-vuelo-gloster-meteor-reactor-britanico.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Gloster Meteor</a> para más detalles.
 
 - **Honores póstumos:** Una base aérea de la RAF en Cambridgeshire lleva su nombre (RAF Whittle). El Science Museum de Londres exhibe el WU original. En 2002, la BBC lo incluyó en su lista de los "100 Greatest Britons" .
 - **Películas y documentales:** Su historia ha sido documentada en numerosos documentales, incluyendo "The Jet Engine: Frank Whittle" (2014) y "The Race for the Jet" (2020) .
@@ -143,16 +143,16 @@ Frank Whittle es reconocido como uno de los grandes inventores del siglo XX. Su 
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Frank_Whittle">Wikipedia (ES) – Frank Whittle</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Frank_Whittle">Wikipedia (EN) – Frank Whittle</a></li>
-    <li><a href="https://www.britannica.com/biography/Frank-Whittle">Britannica – Sir Frank Whittle</a></li>
-    <li><a href="https://royalsocietypublishing.org/doi/10.1098/rsbm.1998.0028">Royal Society – Sir Frank Whittle (1907-1996)</a></li>
-    <li><a href="https://www.invent.org/inductees/frank-whittle">National Inventors Hall of Fame – Frank Whittle</a></li>
-    <li><a href="https://noticiasdelaciencia.com/archive/50908/sir-frank-whittle-el-ingeniero-que-revoluciono-la-aviacion-con-el-motor-a-reaccion">Noticias de la Ciencia – Sir Frank Whittle</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Frank_Whittle" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Frank Whittle</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Frank_Whittle" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Frank Whittle</a></li>
+    <li><a href="https://www.britannica.com/biography/Frank-Whittle" style="color: #315fea; text-decoration: none;">Britannica – Sir Frank Whittle</a></li>
+    <li><a href="https://royalsocietypublishing.org/doi/10.1098/rsbm.1998.0028" style="color: #315fea; text-decoration: none;">Royal Society – Sir Frank Whittle (1907-1996)</a></li>
+    <li><a href="https://www.invent.org/inductees/frank-whittle" style="color: #315fea; text-decoration: none;">National Inventors Hall of Fame – Frank Whittle</a></li>
+    <li><a href="https://noticiasdelaciencia.com/archive/50908/sir-frank-whittle-el-ingeniero-que-revoluciono-la-aviacion-con-el-motor-a-reaccion" style="color: #315fea; text-decoration: none;">Noticias de la Ciencia – Sir Frank Whittle</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -166,7 +166,7 @@ Frank Whittle es reconocido como uno de los grandes inventores del siglo XX. Su 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-29 16:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), Britannica, Royal Society, National Inventors Hall of Fame, Noticias de la Ciencia
 - **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (1 de junio de 1907) en todas las fuentes. Aclaración de la controversia Whittle vs. von Ohain, reconociendo a ambos como coinventores. Verificación de la fecha del primer vuelo del Gloster E.28/39 (15 de mayo de 1941).
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales coinciden en los datos fundamentales)

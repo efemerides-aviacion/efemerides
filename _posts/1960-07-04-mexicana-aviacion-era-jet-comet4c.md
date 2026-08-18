@@ -13,17 +13,17 @@ image: 1960-07-04-mexicana-aviacion-era-jet-comet4c.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1960-07-04-mexicana-aviacion-era-jet-comet4c.webp" alt="El primer jet Comet 4C de Mexicana de Aviación">
-  <figcaption class="post-caption">El primer avión de reacción De Havilland Comet 4C (matrícula XA-NAS) de la Compañía Mexicana de Aviación, fotografiado poco antes de su vuelo inaugural. Fuente: <a href="https://elmirador.sct.gob.mx/despegue/compania-mexicana-de-aviacion-ii">Secretaría de Comunicaciones y Transportes (SCT) / El Mirador</a>, ca. 1960.</figcaption>
+  <figcaption class="post-caption">El primer avión de reacción De Havilland Comet 4C (matrícula XA-NAS) de la Compañía Mexicana de Aviación, fotografiado poco antes de su vuelo inaugural. Fuente: <a href="https://elmirador.sct.gob.mx/despegue/compania-mexicana-de-aviacion-ii" style="color: #315fea; text-decoration: none;">Secretaría de Comunicaciones y Transportes (SCT) / El Mirador</a>, ca. 1960.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de julio de 1960, la Compañía Mexicana de Aviación (CMA) marcó un hito monumental en la historia de la aviación latinoamericana al inaugurar la era del reactor en México con el primer vuelo comercial regular de su jet De Havilland Comet 4C. El histórico vuelo regular, operado por la aeronave matrícula XA-NAS bajo el mando del capitán Roberto Pini Pignol, despegó del Aeropuerto Internacional de la Ciudad de México a las 17:30 horas con destino a Los Ángeles, California. Cubriendo la ruta sin escalas en solo tres horas, este viaje comercial no solo revolucionó las comunicaciones de la República y de Centroamérica, sino que consolidó a Mexicana de Aviación como la pionera indiscutible en la adopción de motores a reacción en el continente.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Número de serie de la aeronave:** 6425, primer turborreactor de pasajeros con bandera y matrícula mexicana (`XA-NAS`) en entrar en servicio comercial regular
@@ -35,7 +35,7 @@ image: 1960-07-04-mexicana-aviacion-era-jet-comet4c.webp
 - **Conflicto sindical previo (ASPA):** La aeronave llegó a México el 14 de enero de 1960, pero su inicio de operaciones se retrasó debido al conflicto laboral y la negociación del primer contrato colectivo de la Asociación Sindical de Pilotos Aviadores (ASPA)
 - **Expansión posterior de la red de reactores (1960):** Vuelos regulares a Chicago (Aeropuerto O'Hare) el 10 de agosto y a San Antonio, Texas, el 1 de noviembre del mismo año
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -80,31 +80,31 @@ A más de seis décadas de su histórica inauguración, el vuelo del de Havillan
 - **La memoria del jet pionero:** La terminal del Aeropuerto Internacional de la Ciudad de México y los anales históricos de la SCT conmemoran con exposiciones fotográficas de gran valor la ceremonia del 4 de julio de 1960, reconociendo el liderazgo del Ing. Walter C. Buchanan y del capitán Roberto Pini en la modernización de los cielos nacionales.
 - **Pionero supremo de los reactores de gran envergadura:** El Comet 4C es celebrado por los historiadores como el primer avión a reacción civil con bandera de un país de habla hispana en cruzar las fronteras de forma regular, demostrando que la pasión y la pericia técnica de los ingenieros y pilotos mexicanos estaban a la par de las naciones más avanzadas de la aviación del mundo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://elmirador.sct.gob.mx/despegue/compania-mexicana-de-aviacion-ii">Secretaría de Comunicaciones y Transportes (SCT) – Compañía Mexicana de Aviación II: Primer Jet Comet 4C</a></li>
-    <li><a href="https://a21.com.mx/aerolineas/2020/07/07/60-anos-del-jet-en-mexico">A21 – 60 años del Jet en México: Historia del Comet 4C de Mexicana</a></li>
-    <li><a href="https://www.transponder1200.com/hace-62-anos-mexicana-inicio-la-era-del-jet-en-mexico-con-el-comet-4c/">Transponder 1200 – Hace 62 años, Mexicana inició la era del jet en México con el Comet 4C</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_Mexicana_de_Aviaci%C3%B3n">Wikipedia (ES) – Historia y flota histórica de la Compañía Mexicana de Aviación</a></li>
+    <li><a href="https://elmirador.sct.gob.mx/despegue/compania-mexicana-de-aviacion-ii" style="color: #315fea; text-decoration: none;">Secretaría de Comunicaciones y Transportes (SCT) – Compañía Mexicana de Aviación II: Primer Jet Comet 4C</a></li>
+    <li><a href="https://a21.com.mx/aerolineas/2020/07/07/60-anos-del-jet-en-mexico" style="color: #315fea; text-decoration: none;">A21 – 60 años del Jet en México: Historia del Comet 4C de Mexicana</a></li>
+    <li><a href="https://www.transponder1200.com/hace-62-anos-mexicana-inicio-la-era-del-jet-en-mexico-con-el-comet-4c/" style="color: #315fea; text-decoration: none;">Transponder 1200 – Hace 62 años, Mexicana inició la era del jet en México con el Comet 4C</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Compa%C3%B1%C3%ADa_Mexicana_de_Aviaci%C3%B3n" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Historia y flota histórica de la Compañía Mexicana de Aviación</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una aparente discrepancia de atribución en algunas fuentes de prensa respecto al piloto comandante del vuelo inaugural del 4 de julio de 1960. Mientras que algunos reportes históricos mencionan al Cap. Andrés Fabre Terán como el comandante (debido a su gran visibilidad como líder y fundador de la ASPA durante la huelga previa), las bitácoras oficiales de la compañía y los registros de vuelo de la aeronave <em>XA-NAS</em> confirman que la tripulación del vuelo histórico a Los Ángeles estuvo integrada por el Comandante Cap. <strong>Roberto Pini Pignol</strong> y los Primeros Oficiales Cap. Francisco Alcalde y Cap. Francisco Moreno.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación comercial de la era del reactor presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-06-23 23:59:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Bitácoras de vuelo originales del De Havilland Comet 4C XA-NAS, archivos oficiales de la Secretaría de Comunicaciones y Transportes (SCT) de México de 1960, registros de contratos de la Asociación Sindical de Pilotos Aviadores (ASPA) y el catálogo de restauración de aeronaves del Museum of Flight de Seattle
 - **Discrepancias resueltas:** Se identificó y resolvió la discrepancia sobre el comandante en jefe del primer vuelo comercial (confirmando al Cap. Roberto Pini Pignol de conformidad con las bitácoras operativas, y precisando el papel histórico de Andrés Fabre Terán en la resolución del conflicto con la ASPA). Asimismo, se validó la duración exacta del vuelo de inauguración en exactamente tres horas y el número de pasajeros de pago en 81.
 - **Nivel de confianza:** Alto

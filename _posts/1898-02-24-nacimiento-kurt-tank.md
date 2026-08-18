@@ -16,14 +16,14 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1898-02-24-nacimiento-kurt-tank.webp" alt="Retrato oficial de Kurt Tank, 1941">
   <figcaption class="post-caption">Prof. Dr. Dipl.-Ing. Kurt Tank, retrato oficial de marzo de 1941. Fuente: Bundesarchiv / archivos Focke-Wulf.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Kurt Waldemar Tank nació el 24 de febrero de 1898 en Bromberg (hoy Bydgoszcz, Polonia). Ingeniero y piloto de pruebas, lideró el diseño en Focke-Wulf entre 1931 y 1945, creando aviones icónicos como el caza Fw 190, el transporte/patrullero Fw 200 Condor y el interceptor Ta 152. Tras la Segunda Guerra Mundial trabajó en Argentina (Pulqui II) y en India (HF-24 Marut), consolidando un legado global hasta su muerte en 1983.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 24 de febrero de 1898  
 - **Lugar:** Bromberg-Schwedenhöhe (hoy Bydgoszcz, Polonia)  
@@ -37,7 +37,7 @@ redirect_from:
   - India (1960s): HF-24 Marut.  
 - **Fallecimiento:** 5 de junio de 1983, Múnich.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Contexto Histórico
 ### Entorno social
 Tank desarrolló su carrera en el periodo de entreguerras y durante la Segunda Guerra Mundial, en un entorno de fuerte competencia tecnológica.
@@ -64,15 +64,15 @@ Sus aviones fueron decisivos en la Luftwaffe y marcaron hitos en la aviación mu
 ### Legado
 Recordado como uno de los grandes ingenieros aeronáuticos del siglo XX, con aportes en tres continentes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
-## Referencias verificadas
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Kurt_Tank">Wikipedia (EN) – Kurt Tank</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Kurt_Tank">Wikipedia (ES) – Kurt Tank</a></li>
-    <li><a href="https://www.britannica.com/biography/Kurt-Tank">Britannica – Kurt Tank</a></li>
-    <li><a href="https://elgrancapitan.org/portal/index.php/articulos3/segunda-guerra-mu/67-fw190-historia-de-un-desarrollo">El Gran Capitán – Fw 190</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Focke-Wulf_Ta_152">Wikipedia (ES) – Focke-Wulf Ta 152</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Kurt_Tank" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Kurt Tank</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Kurt_Tank" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Kurt Tank</a></li>
+    <li><a href="https://www.britannica.com/biography/Kurt-Tank" style="color: #315fea; text-decoration: none;">Britannica – Kurt Tank</a></li>
+    <li><a href="https://elgrancapitan.org/portal/index.php/articulos3/segunda-guerra-mu/67-fw190-historia-de-un-desarrollo" style="color: #315fea; text-decoration: none;">El Gran Capitán – Fw 190</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Focke-Wulf_Ta_152" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Focke-Wulf Ta 152</a></li>
   </ul>
 </div>
 
@@ -80,9 +80,9 @@ Recordado como uno de los grandes ingenieros aeronáuticos del siglo XX, con apo
 <p><strong>Nota aclaratoria:</strong> Aunque su grado universitario fue Dipl.-Ing. en electro-tecnología e ingeniería de máquinas (TH Berlín, 1924), Kurt Tank es reconocido universalmente como ingeniero aeronáutico por su vasta experiencia práctica en diseño de aviones, liderazgo en Focke-Wulf y títulos honoríficos como Prof. Dr.-Ing. E.h. otorgados en 1944–1945.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de control
-- **Timestamp de verificación:** 2026-02-22 15:40 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Britannica, El Gran Capitán, archivos Bundesarchiv  
 - **Discrepancias resueltas:** Confirmación de fecha de nacimiento y grado académico.  
 - **Nivel de confianza:** Alto  

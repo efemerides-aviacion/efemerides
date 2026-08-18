@@ -96,24 +96,24 @@ El primer vuelo del Roc coincidió con una época de euforia tecnológica en Est
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Scaled_Composites_Stratolaunch">Wikipedia (EN) – Scaled Composites Stratolaunch</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Scaled_Composites_Stratolaunch">Wikipedia (ES) – Scaled Composites Stratolaunch</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Stratolaunch_Systems">Wikipedia (EN) – Stratolaunch Systems</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Stratolaunch_Systems">Wikipedia (ES) – Stratolaunch Systems</a></li>
-    <li><a href="https://scaled.com/portfolio/stratolaunch/">Scaled Composites – Stratolaunch (portfolio oficial)</a></li>
-    <li><a href="https://www.businessinsider.com/worlds-biggest-airplane-stratolaunch-roc-photos-test-flight-wingspan-2023-1">Business Insider – Inside the World's Biggest Plane, the Stratolaunch Roc</a></li>
-    <li><a href="https://worldofaviation.com/2019/04/stratolaunch-successfully-completes-maiden-flight/">World of Aviation – Stratolaunch successfully completes maiden flight</a></li>
-    <li><a href="https://www.flightglobal.com/space/2019/04/stratolaunch-becomes-worlds-largest-aircraft-to-fly/">FlightGlobal – Stratolaunch becomes world's largest aircraft to fly</a></li>
-    <li><a href="https://spaceflightnow.com/2019/04/13/worlds-largest-airplane-completes-first-flight/">Spaceflight Now – World's largest airplane completes first flight</a></li>
-    <li><a href="https://www.nytimes.com/2019/04/13/science/stratolaunch-first-flight.html">The New York Times – Stratolaunch, World's Largest Airplane by Wingspan, Takes First Flight</a></li>
-    <li><a href="https://www.mojaveairport.com/home-page/page/rocs-first-flight">Mojave Air and Space Port – Roc's First Flight (oficial)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Scaled_Composites_Stratolaunch" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Scaled Composites Stratolaunch</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Scaled_Composites_Stratolaunch" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Scaled Composites Stratolaunch</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Stratolaunch_Systems" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Stratolaunch Systems</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Stratolaunch_Systems" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Stratolaunch Systems</a></li>
+    <li><a href="https://scaled.com/portfolio/stratolaunch/" style="color: #315fea; text-decoration: none;">Scaled Composites – Stratolaunch (portfolio oficial)</a></li>
+    <li><a href="https://www.businessinsider.com/worlds-biggest-airplane-stratolaunch-roc-photos-test-flight-wingspan-2023-1" style="color: #315fea; text-decoration: none;">Business Insider – Inside the World's Biggest Plane, the Stratolaunch Roc</a></li>
+    <li><a href="https://worldofaviation.com/2019/04/stratolaunch-successfully-completes-maiden-flight/" style="color: #315fea; text-decoration: none;">World of Aviation – Stratolaunch successfully completes maiden flight</a></li>
+    <li><a href="https://www.flightglobal.com/space/2019/04/stratolaunch-becomes-worlds-largest-aircraft-to-fly/" style="color: #315fea; text-decoration: none;">FlightGlobal – Stratolaunch becomes world's largest aircraft to fly</a></li>
+    <li><a href="https://spaceflightnow.com/2019/04/13/worlds-largest-airplane-completes-first-flight/" style="color: #315fea; text-decoration: none;">Spaceflight Now – World's largest airplane completes first flight</a></li>
+    <li><a href="https://www.nytimes.com/2019/04/13/science/stratolaunch-first-flight.html" style="color: #315fea; text-decoration: none;">The New York Times – Stratolaunch, World's Largest Airplane by Wingspan, Takes First Flight</a></li>
+    <li><a href="https://www.mojaveairport.com/home-page/page/rocs-first-flight" style="color: #315fea; text-decoration: none;">Mojave Air and Space Port – Roc's First Flight (oficial)</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-10 16:45:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), Scaled Composites, FlightGlobal, Spaceflight Now, The New York Times, Mojave Air & Space Port
 - **Discrepancias resueltas:** No se encontraron discrepancias.
 - **Nivel de confianza:** Alto

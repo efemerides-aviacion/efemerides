@@ -15,7 +15,7 @@ image: 1917-07-31-carlos-meyer-baldo-primer-derribo.webp
   <figcaption class="post-caption">Imagen atribuida a Carlos Meyer Baldó junto a un avión de combate que porta su emblema personal del perro bóxer. La fotografía se utiliza como representación de su etapa en la aviación de caza alemana durante la Primera Guerra Mundial; no constituye una prueba documental del combate del 31 de julio de 1917. Fuente: <a href="https://www.facebook.com/photo/?fbid=4361197910834302&amp;set=pcb.26673574415633118" style="color: #315fea; text-decoration: none;">publicación de FAV Ven en Facebook</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1917-07-31-carlos-meyer-baldo-primer-derribo.webp
 <p>La acción marcó el inicio de la trayectoria de Meyer Baldó como piloto de caza y miembro del llamado «Circo Volante» de Richthofen. A diferencia de una biografía general, esta efeméride se concentra en el combate, su contexto inmediato y la importancia de la primera victoria atribuida al aviador venezolano.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -38,7 +38,7 @@ image: 1917-07-31-carlos-meyer-baldo-primer-derribo.webp
 - **Resultado:** primera victoria aérea confirmada atribuida a Meyer Baldó.
 - **Reconocimiento asociado:** Copa de Honor al Vencedor en Combate Aéreo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -56,7 +56,7 @@ El Albatros D.V era un caza monomotor de estructura de madera, equipado con dos 
 
 Los escuadrones de caza alemanes desarrollaron una fuerte identidad visual y de unidad. Los colores de los aviones, los emblemas personales y la reputación de sus pilotos contribuyeron a crear la imagen del «Circo Volante» asociada con el grupo de Richthofen.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -73,7 +73,7 @@ Los escuadrones de caza alemanes desarrollaron una fuerte identidad visual y de 
 - **1918:** Meyer Baldó acumula nuevas victorias confirmadas y no confirmadas, y más tarde se desempeña como instructor de pilotos de caza.
 - **Para ampliar su trayectoria biográfica:** puede consultarse la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1895/04/21/nacimiento-carlos-meyer-baldo.html" style="color: #315fea; text-decoration: none;">efeméride del nacimiento de Carlos Meyer Baldó</a>.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -81,7 +81,7 @@ La primera victoria confirmó la capacidad de Meyer Baldó para operar como pilo
 
 En un plano más amplio, el derribo ilustra la transformación de la aviación de guerra: la observación aérea dejó de ser una actividad relativamente protegida y pasó a desarrollarse bajo la amenaza constante de cazas especializados. La experiencia acumulada por pilotos como Meyer Baldó contribuyó al desarrollo de tácticas de patrulla, formación y combate aéreo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -89,7 +89,7 @@ La victoria del 31 de julio de 1917 constituye el primer capítulo documentado d
 
 La efeméride también recuerda la dimensión internacional de la historia aeronáutica de Venezuela. Meyer Baldó combatió en Europa, dentro de una estructura alemana, pero su nombre quedó incorporado al patrimonio histórico y simbólico de la aviación venezolana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -99,20 +99,19 @@ La efeméride también recuerda la dimensión internacional de la historia aeron
 4. <a href="https://www.aviacioncivil.com.ve/carlos-meyer-karl-meyer-nuestro-piloto-que-participo-en-la-primera-guerra-mundial/" style="color: #315fea; text-decoration: none;">Aviación Civil — Carlos Meyer / Karl Meyer</a>.
 5. <a href="https://www.jastaboelcke.de/aces/carlos_meyer_baldo/karl_meyer_bio.htm" style="color: #315fea; text-decoration: none;">Jasta Boelcke — Karl Meyer biography</a>.
 6. <a href="https://www.facebook.com/photo/?fbid=4361197910834302&amp;set=pcb.26673574415633118" style="color: #315fea; text-decoration: none;">FAV Ven — imagen atribuida a Carlos Meyer Baldó</a>.
-7. Borrador preliminar del investigador: «Carlos Meyer Baldó, primer derribo».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes secundarias presentan algunas variaciones en la identificación de la unidad británica, la nomenclatura de los tripulantes y el recuento total de victorias de Meyer Baldó. Esta efeméride se limita al dato coincidente de su primera victoria aérea del 31 de julio de 1917 sobre un R.E.8 en Flandes. La imagen se presenta como atribuida y representativa, no como una prueba fotográfica del combate.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-26 11:32:11 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias/institucionales consultadas:** No se localizó un parte de combate alemán o británico digitalizado que permita confirmar de forma independiente todos los detalles del derribo.  
-- **Fuentes secundarias de contraste:** Venciclopedia, EcuRed, Aviación Civil, Jasta Boelcke, fuentes biográficas de contraste, imagen proporcionada por el investigador y borrador preliminar del investigador.  
+- **Fuentes secundarias de contraste:** Venciclopedia, EcuRed, Aviación Civil, Jasta Boelcke, fuentes biográficas de contraste, imagen proporcionada por el investigador.  
 - **Discrepancias resueltas:** Se separó el hecho central de la primera victoria de la biografía general de Meyer Baldó; se evitó repetir innecesariamente la información de su nacimiento y se dejó constancia de las variaciones documentales sobre tripulantes, unidad británica y número total de victorias.  
 - **Nivel de confianza:** Medio  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

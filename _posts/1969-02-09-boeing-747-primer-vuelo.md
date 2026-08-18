@@ -14,14 +14,14 @@ image: 1969-02-09-primer-vuelo-boeing-747.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-02-09-primer-vuelo-boeing-747.webp" alt="Boeing 747 RA001 en su primer vuelo">
   <figcaption class="post-caption">Boeing 747-121 prototipo RA001, matrícula N7470 "City of Everett", en vuelo de prueba durante su primer despegue el 9 de febrero de 1969 desde Paine Field, Everett, Washington. Imagen publicada en Vintage Aviation News.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El Boeing 747, primer reactor de fuselaje ancho y conocido como “Jumbo Jet”, realizó su vuelo inaugural el 9 de febrero de 1969 desde Paine Field, Everett. El prototipo RA001 “City of Everett”, tripulado por Jack Waddell, Brien Wygle y Jesse Wallick, completó un ensayo de 75 minutos que confirmó la estabilidad y el control de la aeronave, abriendo una nueva era en el transporte aéreo intercontinental.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 9 de febrero de 1969  
 - **Lugar:** Paine Field, Everett (Washington, EE. UU.)  
@@ -29,7 +29,7 @@ image: 1969-02-09-primer-vuelo-boeing-747.webp
 - **Aeronave/empresa involucrada:** Boeing 747‑121 RA001 “City of Everett”  
 - **Resultado inmediato:** Vuelo inaugural de 75 minutos, alcanzando 15.500 pies y 250 mph, con pruebas de control y estabilidad sin incidentes.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El Boeing 747 representó un salto tecnológico y económico en la aviación comercial, ofreciendo capacidad para más de 400 pasajeros y un alcance de unas 6.000 millas.
 
@@ -55,22 +55,22 @@ El 747 revolucionó la economía de escala del transporte aéreo intercontinenta
 ### Legado
 El RA001 “City of Everett” se conserva en el Museum of Flight en Seattle. El 747 se convirtió en un ícono cultural y tecnológico, con más de 1.500 unidades producidas en diversas versiones hasta el siglo XXI.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.historylink.org/file/1181">HistoryLink – Boeing 747 takes maiden flight on February 9, 1969</a></li>
-    <li><a href="https://www.boeing747.net/747history6971.html">The Boeing 747 INFO Central – 747 historical events 1969–1971</a></li>
-    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-boeing-747.html">Vintage Aviation News – First Flight of The Boeing 747</a></li>
-    <li><a href="https://secure.boeingimages.com/archive/First-Flight-of-the-747-100--February-9--1969-2JRSXLJWLLPP.html">Boeing Images – First Flight of the 747‑100, February 9, 1969</a></li>
-    <li><a href="https://secure.boeingimages.com/archive/Boeing-747-First-Flight--In-flight-Seattle--Washington-2JRSXLJOOWWP.html">Boeing Images – Boeing 747 First Flight, In‑flight Seattle, Washington</a></li>
-    <li><a href="https://www.knkx.org/transportation/2023-01-31/photos-boeings-747-jumbo-jet-from-first-flight-to-final-assembly">Photos: Boeing's 747 jumbo jet from first flight to final assembly</a></li>
+    <li><a href="https://www.historylink.org/file/1181" style="color: #315fea; text-decoration: none;">HistoryLink – Boeing 747 takes maiden flight on February 9, 1969</a></li>
+    <li><a href="https://www.boeing747.net/747history6971.html" style="color: #315fea; text-decoration: none;">The Boeing 747 INFO Central – 747 historical events 1969–1971</a></li>
+    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-boeing-747.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News – First Flight of The Boeing 747</a></li>
+    <li><a href="https://secure.boeingimages.com/archive/First-Flight-of-the-747-100--February-9--1969-2JRSXLJWLLPP.html" style="color: #315fea; text-decoration: none;">Boeing Images – First Flight of the 747‑100, February 9, 1969</a></li>
+    <li><a href="https://secure.boeingimages.com/archive/Boeing-747-First-Flight--In-flight-Seattle--Washington-2JRSXLJOOWWP.html" style="color: #315fea; text-decoration: none;">Boeing Images – Boeing 747 First Flight, In‑flight Seattle, Washington</a></li>
+    <li><a href="https://www.knkx.org/transportation/2023-01-31/photos-boeings-747-jumbo-jet-from-first-flight-to-final-assembly" style="color: #315fea; text-decoration: none;">Photos: Boeing's 747 jumbo jet from first flight to final assembly</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-02-07 21:00:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** HistoryLink; Boeing Images; Vintage Aviation News; Boeing 747 INFO Central; Alamy  
 - **Discrepancias resueltas:** Confirmación de duración del vuelo y tripulación.  
 - **Nivel de confianza:** Alto  

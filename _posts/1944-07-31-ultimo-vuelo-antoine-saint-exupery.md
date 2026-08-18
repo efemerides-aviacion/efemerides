@@ -15,7 +15,7 @@ image: 1944-07-31-ultimo-vuelo-antoine-saint-exupery.webp
   <figcaption class="post-caption">Antoine de Saint-Exupéry frente a un Lockheed P-38 Lightning durante la Segunda Guerra Mundial. El escritor emprendió su último vuelo a bordo de una versión de reconocimiento F-5B del P-38 el 31 de julio de 1944. Fuente: <a href="https://www.infobae.com/historias/2025/07/31/el-ultimo-vuelo-del-autor-de-el-principito-la-misteriosa-desaparicion-en-un-cielo-en-guerra-y-el-hallazgo-que-llevo-a-su-avion/" style="color: #315fea; text-decoration: none;">Infobae</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1944-07-31-ultimo-vuelo-antoine-saint-exupery.webp
 <p>El avión no regresó a la base y Saint-Exupéry desapareció sobre el Mediterráneo. Los restos de la aeronave fueron localizados décadas después frente a Marsella, pero la causa exacta del accidente no quedó establecida de manera concluyente. Por ello, esta efeméride se clasifica como evento y no como accidente confirmado con causa determinada.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -38,7 +38,7 @@ image: 1944-07-31-ultimo-vuelo-antoine-saint-exupery.webp
 - **Resultado:** desaparición de la aeronave y del piloto sobre el Mediterráneo.
 - **Causa:** no establecida de forma concluyente.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -56,7 +56,7 @@ El P-38 Lightning utilizado en misiones de reconocimiento podía transformarse e
 
 La desaparición de Saint-Exupéry alimentó durante décadas una combinación singular de investigación histórica, arqueología submarina y memoria literaria. Su obra más conocida, *El Principito*, hizo que el misterio de su último vuelo trascendiera el ámbito estrictamente aeronáutico.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -71,7 +71,7 @@ La desaparición de Saint-Exupéry alimentó durante décadas una combinación s
 - **2003-2004:** Se recuperan y analizan piezas del pecio; el número de serie 42-68223 permite vincularlas con el avión de Saint-Exupéry.
 - **2008:** El antiguo piloto alemán Horst Rippert afirma haber derribado un P-38 el día de la desaparición, pero su declaración no ha sido confirmada de manera concluyente por documentación independiente.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -79,7 +79,7 @@ La desaparición de Saint-Exupéry se convirtió en uno de los grandes enigmas d
 
 El hallazgo del pecio permitió confirmar la identidad de la aeronave, pero no resolvió por completo la causa de la caída. La ausencia del cuerpo del piloto y la falta de una evidencia concluyente sobre impactos de combate mantuvieron abierto el debate histórico.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -87,7 +87,7 @@ El último vuelo de Saint-Exupéry ocupa un lugar singular en la historia de la 
 
 La localización de los restos frente a Marsella cerró una parte importante del misterio, pero no eliminó todas las incertidumbres. La imagen de Saint-Exupéry junto a un Lightning y su desaparición sobre el Mediterráneo continúan simbolizando la relación entre el aviador, el escritor y el horizonte desconocido.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -96,20 +96,19 @@ La localización de los restos frente a Marsella cerró una parte importante del
 3. <a href="https://www.cbsnews.com/news/little-prince-mystery-solved/" style="color: #315fea; text-decoration: none;">CBS News — «Little Prince» Mystery Solved</a>.
 4. <a href="https://www.ghostbombers.com/JG200/Rippert/saint-ex_01.html" style="color: #315fea; text-decoration: none;">Ghostbombers — Rippert and Saint-Exupéry</a>, análisis crítico de la hipótesis del derribo alemán.
 5. <a href="https://www.nytimes.com/2004/04/11/opinion/saint-exupery-lands-at-last.html" style="color: #315fea; text-decoration: none;">The New York Times — Saint-Exupéry Lands at Last</a>.
-6. Borrador preliminar del investigador: «Último vuelo de Antoine de Saint-Exupéry».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La causa de la desaparición no está establecida de forma concluyente. La afirmación de Horst Rippert sobre un posible derribo alemán constituye una hipótesis, no una confirmación oficial. El hallazgo del pecio identificó la aeronave, pero no resolvió definitivamente si la pérdida se debió a una acción enemiga, un fallo técnico, una pérdida de control u otra circunstancia.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-26 12:56:38 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Documentación de recuperación e identificación del pecio; fuentes históricas de aviación y archivos de la Segunda Guerra Mundial disponibles en las referencias consultadas.  
-- **Fuentes secundarias de contraste:** Infobae, CBS News, The New York Times, SPS Aviation, Ghostbombers y borrador preliminar del investigador.  
+- **Fuentes secundarias de contraste:** Infobae, CBS News, The New York Times, SPS Aviation, Ghostbombers.  
 - **Discrepancias resueltas:** Se distinguió la identificación del avión de la determinación de la causa de la desaparición; se trató la confesión de Horst Rippert como hipótesis no confirmada.  
 - **Nivel de confianza:** Alto para la fecha, la misión y la identificación del avión; Medio para la causa de la desaparición.  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

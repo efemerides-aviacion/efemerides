@@ -15,7 +15,7 @@ image: 1909-08-02-primera-compra-gubernamental-avion.webp
   <figcaption class="post-caption">Espectadores observan el Signal Corps Airplane No. 1 sobre Fort Myer, Virginia. La aeronave fue aceptada por el Ejército de Estados Unidos el 2 de agosto de 1909 y se convirtió en el primer avión incorporado a su inventario militar. Fuente: National Historic Landmarks collection.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1909-08-02-primera-compra-gubernamental-avion.webp
 <p>La compra, por 30.000 dólares, fue el resultado de una serie de pruebas realizadas en Fort Myer, Virginia. El avión no llevaba armamento: su misión inicial era la observación y el entrenamiento de pilotos, pero su incorporación estableció el precedente institucional de la aviación militar estadounidense.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -40,7 +40,7 @@ image: 1909-08-02-primera-compra-gubernamental-avion.webp
 - **Primera función:** observación, experimentación y entrenamiento de pilotos militares.
 - **Primer avión del inventario:** permaneció como el único avión del Ejército durante casi dos años.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -58,7 +58,7 @@ La convocatoria del Ejército exigía que el avión transportara a dos personas,
 
 La aceptación oficial del Signal Corps Airplane No. 1 transformó al avión de una curiosidad experimental en un recurso institucional. La compra también ayudó a legitimar la creación de una estructura permanente dedicada a la aeronáutica dentro del Ejército.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -75,7 +75,7 @@ La aceptación oficial del Signal Corps Airplane No. 1 transformó al avión de 
 - **1910:** El Teniente Benjamin D. Foulois utiliza la aeronave para completar su formación y desarrollar experiencia operativa.
 - **Marzo de 1911:** Tras varios accidentes y reconstrucciones, el Ejército retira el Signal Corps Airplane No. 1 del servicio.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -83,7 +83,7 @@ La compra proporcionó al Ejército una plataforma concreta para experimentar co
 
 Aunque su vida útil fue breve y el avión no tenía armamento, la adquisición demostró que la aviación podía integrarse en las fuerzas armadas. La Aeronautical Division evolucionaría posteriormente hacia la Aviation Section del Cuerpo de Señales, el Army Air Service, el Army Air Corps y, finalmente, la Fuerza Aérea de Estados Unidos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -91,7 +91,7 @@ El Signal Corps Airplane No. 1 es considerado la semilla de la aviación militar
 
 El avión original fue retirado y posteriormente entregado al Smithsonian Institution. La réplica que se exhibe en el National Air and Space Museum conserva las características fundamentales del Wright 1909 Military Flyer y recuerda el momento en que el Ejército pasó de observar la aviación a formar parte de ella.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -100,20 +100,19 @@ El avión original fue retirado y posteriormente entregado al Smithsonian Instit
 3. <a href="https://text-message.blogs.archives.gov/2019/03/19/the-united-states-army-buys-its-first-aeroplane-1909/" style="color: #315fea; text-decoration: none;">National Archives — The United States Army Buys Its First Aeroplane, 1909</a>.
 4. <a href="https://www.armyaviationmuseum.org/the-1909-wright-military-flyer/" style="color: #315fea; text-decoration: none;">U.S. Army Aviation Museum — The 1909 Wright Military Flyer</a>.
 5. <a href="https://www.wright-brothers.org/Information_Desk/Just_the_Facts/Airplanes/Military_Flyer.htm" style="color: #315fea; text-decoration: none;">Wright Brothers Aeroplane Company — 1909 Wright Military Flyer</a>.
-6. Borrador preliminar del investigador: «Primera compra gubernamental de un avión».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El 2 de agosto de 1909 corresponde a la aceptación y compra formal del avión por el Ejército de Estados Unidos. La aeronave se empleó inicialmente para observación, experimentación y entrenamiento, no como avión de combate armado. La imagen muestra el aparato en vuelo sobre Fort Myer y procede de la colección National Historic Landmarks.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-27 15:12:00 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force, National Air and Space Museum, National Archives y U.S. Army Aviation Museum.  
-- **Fuentes secundarias de contraste:** Wright Brothers Aeroplane Company, colección National Historic Landmarks y borrador preliminar del investigador.  
+- **Fuentes secundarias de contraste:** Wright Brothers Aeroplane Company, colección National Historic Landmarks.  
 - **Discrepancias resueltas:** Se distinguió la aceptación formal del avión el 2 de agosto de 1909 de las pruebas previas realizadas en Fort Myer; se convirtió la velocidad a kilómetros por hora y se describió la imagen según la leyenda de la colección histórica.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

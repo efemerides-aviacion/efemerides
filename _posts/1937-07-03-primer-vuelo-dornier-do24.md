@@ -13,17 +13,17 @@ image: 1937-07-03-primer-vuelo-dornier-do24.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1937-07-03-primer-vuelo-dornier-do24.webp" alt="El hidroavión Dornier Do 24T-1 en pleno vuelo">
-  <figcaption class="post-caption">El hidroavión Dornier Do 24T-1 en pleno vuelo de patrulla marítima, ca. 1940. El diseño original del Do 24 realizó su vuelo inaugural el 3 de julio de 1937, convirtiéndose en uno de los hidroaviones de aguas abiertas más exitosos de la Segunda Guerra Mundial. Fuente: <a href="https://commons.wikimedia.org/wiki/File:German_Dornier_Do_24T-1_in_flight,_circa_in_1940_(NH_112965).jpg">U.S. Navy / Wikimedia Commons</a>.</figcaption>
+  <figcaption class="post-caption">El hidroavión Dornier Do 24T-1 en pleno vuelo de patrulla marítima, ca. 1940. El diseño original del Do 24 realizó su vuelo inaugural el 3 de julio de 1937, convirtiéndose en uno de los hidroaviones de aguas abiertas más exitosos de la Segunda Guerra Mundial. Fuente: <a href="https://commons.wikimedia.org/wiki/File:German_Dornier_Do_24T-1_in_flight,_circa_in_1940_(NH_112965).jpg" style="color: #315fea; text-decoration: none;">U.S. Navy / Wikimedia Commons</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 3 de julio de 1937, se llevó a cabo el primer vuelo del Dornier Do 24, un hidroavión trimotor de construcción completamente metálica que se convertiría en un referente absoluto del patrullaje marítimo y el salvamento en aguas abiertas. El despegue del prototipo V3 se produjo desde las aguas del lago de Constanza en Friedrichshafen, Alemania, pilotado por Erich Gundermann. Diseñado originalmente para cubrir las rigurosas especificaciones de la Armada Real de los Países Bajos para sus operaciones coloniales en las Indias Orientales Neerlandesas, este versátil coloso demostró un desempeño hidrodinámico y una estabilidad excepcionales en mares embravecidos, sirviendo con distinción tanto con las fuerzas aliadas como con el eje durante la Segunda Guerra Mundial.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Modelo y designación del prototipo:** Dornier Do 24 V3 (matrícula civil de pruebas `D-AYWI`), primer ejemplar construido del programa en realizar el vuelo inaugural
@@ -35,7 +35,7 @@ image: 1937-07-03-primer-vuelo-dornier-do24.webp
 - **Carga útil y armamento defensivo posterior:** Capacidad para transportar hasta 1.200 kg de bombas o cargas de profundidad en misiones antisubmarinas, y armado con un cañón de 20 mm en la torreta dorsal
 - **Lugar de primer amerizaje de pruebas:** El Bodensee (lago de Constanza), en Friedrichshafen, en el sur del Imperio alemán
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -81,31 +81,31 @@ El Dornier Do 24 es recordado hoy en la historia de la aeronáutica como uno de 
 - **El proyecto del Dornier Do 24 ATT:** En las décadas de 1980 y 2000, el nieto del fundador, Iren Dornier, modificó y repotenció un fuselaje histórico de Do 24 instalando tres modernos turbohélices Pratt & Whitney Canada PT6A y alas avanzadas de tecnología moderna, volando el Do 24 ATT de demostraciones técnicas para validar la longevidad del diseño original.
 - **Hito de la ingeniería de aguas abiertas:** El Do 24 sigue figurando en los manuales de hidrodinámica como el diseño de canoa voladora de mayor estabilidad y pericia sobre el agua de la historia, habiendo resuelto el reto de operar de manera regular en alta mar mediante aletas estabilizadoras de quilla en lugar de los vulnerables flotadores de ala convencionales.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Dornier_Do_24">Wikipedia (EN) – Design, development and history of the Dornier Do 24</a></li>
-    <li><a href="https://www.destinationsjourney.com/historical-military-photographs/dornier-do-24-flying-boat-in-german-service/">Destination's Journey – Dornier Do 24 Flying Boat in German Service and History</a></li>
-    <li><a href="https://www.historyofwar.org/articles/weapons_dornier_do24.html">History of War – Detailed weapons and development of the Dornier Do 24</a></li>
-    <li><a href="https://grokipedia.com/page/Dornier_Do_24">Grokipedia – Technical specifications and combat record of the Dornier Do 24</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Dornier_Do_24" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Design, development and history of the Dornier Do 24</a></li>
+    <li><a href="https://www.destinationsjourney.com/historical-military-photographs/dornier-do-24-flying-boat-in-german-service/" style="color: #315fea; text-decoration: none;">Destination's Journey – Dornier Do 24 Flying Boat in German Service and History</a></li>
+    <li><a href="https://www.historyofwar.org/articles/weapons_dornier_do24.html" style="color: #315fea; text-decoration: none;">History of War – Detailed weapons and development of the Dornier Do 24</a></li>
+    <li><a href="https://grokipedia.com/page/Dornier_Do_24" style="color: #315fea; text-decoration: none;">Grokipedia – Technical specifications and combat record of the Dornier Do 24</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Se hace constar que, de manera inusual en los programas de desarrollo aeronáutico, el primer ejemplar de la serie en realizar el vuelo inaugural del Dornier Do 24 no fue el primer prototipo construido de forma cronológica (V1 o V2), sino el tercero: el **Dornier Do 24 V3** (matrícula civil *D-AYWI*). Este prototipo de pruebas despegó el 3 de julio de 1937 equipado con motores radiales americanos Wright Cyclone para satisfacer de forma inmediata el contrato firmado con la Armada de los Países Bajos, mientras que los prototipos V1 y V2 con motores diésel Junkers Jumo no volaron sino hasta principios de 1938.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-06-23 23:59:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Archivos oficiales de la compañía Dornier Flugzeugwerke, bitácoras de vuelos de los ensayos sobre el lago de Constanza de julio de 1937, contratos de adquisición de la Armada Real de los Países Bajos de 1936, e informes de homologación del centro de pruebas de Travemünde de la Luftwaffe
 - **Discrepancias resueltas:** Se ha identificado y resuelto de forma absoluta la discrepancia sobre las fechas de los primeros vuelos de los prototipos, confirmando que el Do 24 V3 con motores Wright Cyclone despegó por primera vez el 3 de julio de 1937, adelantándose al prototipo V1 (con motores Junkers Jumo diésel), el cual realizó su primer vuelo el 10 de enero de 1938.
 - **Nivel de confianza:** Alto

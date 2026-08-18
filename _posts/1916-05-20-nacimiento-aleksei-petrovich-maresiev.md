@@ -15,13 +15,13 @@ image: 1916-05-20-nacimiento-aleksei-petrovich-maresiev.webp
   <figcaption class="post-caption">Retrato del piloto soviético Alekséi Petróvich Marésiev, condecorado como Héroe de la Unión Soviética tras sus hazañas en la Segunda Guerra Mundial, tomado aproximadamente en la década de 1940. Fuente: Wikimedia Commons / EcuRed / Wikipedia en español.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="highlight-box">
   <p>El 20 de mayo de 1916 nació en Kámyshin, Imperio ruso, Alekséi Petróvich Marésiev, un piloto de caza soviético cuya historia trascendió lo militar para convertirse en leyenda. Derribado en 1942, sobrevivió dieciocho días arrastrándose con graves heridas hasta territorio amigo, pero la gangrena le costó la amputación de ambas piernas. Contra todo pronóstico, aprendió a caminar de nuevo con prótesis y regresó al combate, derribando siete aviones enemigos. Su vida inspiró la novela <em>Historia de un hombre verdadero</em> y se convirtió en un emblema de la resistencia humana.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 - **Nombre completo:** Alekséi Petróvich Marésiev (Алексей Петрович Маресьев)
@@ -36,7 +36,7 @@ image: 1916-05-20-nacimiento-aleksei-petrovich-maresiev.webp
 - **Victorias confirmadas:** 11 (4 antes de ser derribado, 7 después de la amputación) 
 - **Máxima condecoración:** Héroe de la Unión Soviética (24 de agosto de 1943)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto histórico
 
@@ -104,24 +104,24 @@ En 2005, se descubrió el lugar exacto donde se estrelló el I-16 de Marésiev, 
 
 Marésiev fue también un activo defensor de los derechos de los veteranos y una figura pública respetada. A su funeral en 2001 asistieron altos mandos militares y políticos, y fue enterrado en el cementerio de Novodévichi de Moscú, junto a las grandes figuras de la historia rusa.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Referencias verificadas
+## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Aleksey_Maresyev">Wikipedia en inglés – Aleksey Maresyev</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Aleks%C3%A9i_Mar%C3%A9siev">Wikipedia en español – Alekséi Marésiev</a></li>
-    <li><a href="https://www.ecured.cu/Alexey_Maresyev">EcuRed – Alexey Maresyev (enciclopedia colaborativa cubana)</a></li>
-    <li><a href="https://www.rbth.com/history/332042-alexey-maresyev-soviet-pilot-who">Russia Beyond – The Soviet pilot who shot down the enemy despite losing both legs</a></li>
-    <li><a href="https://www.upi.com/Archives/2001/05/18/Famed-Russian-WWII-pilot-dies/6124990158400/">UPI Archives – Famed Russian WWII pilot dies (2001)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Aleksey_Maresyev" style="color: #315fea; text-decoration: none;">Wikipedia en inglés – Aleksey Maresyev</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Aleks%C3%A9i_Mar%C3%A9siev" style="color: #315fea; text-decoration: none;">Wikipedia en español – Alekséi Marésiev</a></li>
+    <li><a href="https://www.ecured.cu/Alexey_Maresyev" style="color: #315fea; text-decoration: none;">EcuRed – Alexey Maresyev (enciclopedia colaborativa cubana)</a></li>
+    <li><a href="https://www.rbth.com/history/332042-alexey-maresyev-soviet-pilot-who" style="color: #315fea; text-decoration: none;">Russia Beyond – The Soviet pilot who shot down the enemy despite losing both legs</a></li>
+    <li><a href="https://www.upi.com/Archives/2001/05/18/Famed-Russian-WWII-pilot-dies/6124990158400/" style="color: #315fea; text-decoration: none;">UPI Archives – Famed Russian WWII pilot dies (2001)</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-05-18 12:15:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN, ES), EcuRed, Russia Beyond, UPI Archives
 - **Discrepancias resueltas:** Coincidencia unánime en la fecha de nacimiento (20 de mayo de 1916) y en el hecho de la amputación y regreso al combate. Las cifras de derribos varían ligeramente: UPI menciona 11 en total, fuentes rusas también 11 (4+7). Se ha optado por la cifra más documentada de 11 victorias totales. La fecha de fallecimiento en algunas fuentes se consigna como 18 o 19 de mayo; la mayoría de las fuentes coinciden en el 18 de mayo. Se ha adoptado el 18 de mayo.
 - **Nivel de confianza:** Alto

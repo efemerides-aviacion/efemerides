@@ -18,7 +18,7 @@ image: 1951-01-20-vuelo-manutara-isla-de-pascua.jpg
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>Entre el 19 y 20 de enero de 1951, el hidroavión anfibio Consolidated PBY‑5A Catalina "Manutara" de la Fuerza Aérea de Chile realizó el primer vuelo histórico entre el continente y la Isla de Pascua (Rapa Nui). La travesía, comandada por <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1913/05/25/nacimiento-roberto-parrague-singer.html" style="color: #1565c0; text-decoration: none;">Roberto Parragué Singer</a> y su tripulación, unió por primera vez la isla con el territorio continental chileno, marcando un hito en la integración nacional y en la aviación latinoamericana.</p>
+  <p>Entre el 19 y 20 de enero de 1951, el hidroavión anfibio Consolidated PBY‑5A Catalina "Manutara" de la Fuerza Aérea de Chile realizó el primer vuelo histórico entre el continente y la Isla de Pascua (Rapa Nui). La travesía, comandada por <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1913/05/25/nacimiento-roberto-parrague-singer.html" style="color: #315fea; text-decoration: none;">Roberto Parragué Singer</a> y su tripulación, unió por primera vez la isla con el territorio continental chileno, marcando un hito en la integración nacional y en la aviación latinoamericana.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -65,19 +65,19 @@ El Manutara es recordado como símbolo de perseverancia y unión nacional. Su tr
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://museoaeronautico.dgac.gob.cl/2025/01/20/12-25-efemeride-el-historico-vuelo-del-manutara-a-rapa-nui/">Museo Aeronáutico DGAC – El histórico vuelo del Manutara a Rapa Nui</a></li>
-    <li><a href="https://museoaeronautico.dgac.gob.cl/2023/01/16/5-23-efemeride-primer-vuelo-a-rapa-nui/">Museo Aeronáutico DGAC – Efeméride: Primer vuelo a Rapa Nui</a></li>
-    <li><a href="https://aspch.org/el-primer-vuelo-que-nos-unio-con-isla-de-pascua/">ASPCh – El primer vuelo que nos unió con Isla de Pascua</a></li>
-    <li><a href="https://cas.cl/noticias/primer-vuelo-a-isla-de-pascua/">Club Aéreo de Santiago – Primer vuelo a Isla de Pascua</a></li>
-    <li><a href="https://chile.embassy.gov.au/sclecastellano/primervuelosobreeloceanopacifico.html">Embajada de Australia en Chile – 65 años de la primera travesía aérea sobre el océano Pacífico</a></li>
-    <li><a href="https://www.adprensa.cl/cronica/manutara-75-anos-del-vuelo-que-abrio-el-cielo-hacia-rapa-nui/">ADPrensa – Manutara: 75 años del vuelo que abrió el cielo hacia Rapa Nui</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Roberto_Parragu%C3%A9_Singer">Wikipedia (ES) – Roberto Parragué Singer</a></li>
-    <li><a href="https://museoaeronautico.dgac.gob.cl/2019/11/11/95-el-gran-consolidated-pby-5a-catalina/">Museo Aeronáutico DGAC – El gran Consolidated PBY‑5A Catalina</a></li>
-    <li><a href="https://www.investigacion.patrimoniocultural.gob.cl/publicaciones/el-avion-en-rapa-nui-culto-cargo-integracion-y-dependencia">Patrimonio Cultural – El avión en Rapa Nui: culto cargo, integración y dependencia</a></li>
+    <li><a href="https://museoaeronautico.dgac.gob.cl/2025/01/20/12-25-efemeride-el-historico-vuelo-del-manutara-a-rapa-nui/" style="color: #315fea; text-decoration: none;">Museo Aeronáutico DGAC – El histórico vuelo del Manutara a Rapa Nui</a></li>
+    <li><a href="https://museoaeronautico.dgac.gob.cl/2023/01/16/5-23-efemeride-primer-vuelo-a-rapa-nui/" style="color: #315fea; text-decoration: none;">Museo Aeronáutico DGAC – Efeméride: Primer vuelo a Rapa Nui</a></li>
+    <li><a href="https://aspch.org/el-primer-vuelo-que-nos-unio-con-isla-de-pascua/" style="color: #315fea; text-decoration: none;">ASPCh – El primer vuelo que nos unió con Isla de Pascua</a></li>
+    <li><a href="https://cas.cl/noticias/primer-vuelo-a-isla-de-pascua/" style="color: #315fea; text-decoration: none;">Club Aéreo de Santiago – Primer vuelo a Isla de Pascua</a></li>
+    <li><a href="https://chile.embassy.gov.au/sclecastellano/primervuelosobreeloceanopacifico.html" style="color: #315fea; text-decoration: none;">Embajada de Australia en Chile – 65 años de la primera travesía aérea sobre el océano Pacífico</a></li>
+    <li><a href="https://www.adprensa.cl/cronica/manutara-75-anos-del-vuelo-que-abrio-el-cielo-hacia-rapa-nui/" style="color: #315fea; text-decoration: none;">ADPrensa – Manutara: 75 años del vuelo que abrió el cielo hacia Rapa Nui</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Roberto_Parragu%C3%A9_Singer" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Roberto Parragué Singer</a></li>
+    <li><a href="https://museoaeronautico.dgac.gob.cl/2019/11/11/95-el-gran-consolidated-pby-5a-catalina/" style="color: #315fea; text-decoration: none;">Museo Aeronáutico DGAC – El gran Consolidated PBY‑5A Catalina</a></li>
+    <li><a href="https://www.investigacion.patrimoniocultural.gob.cl/publicaciones/el-avion-en-rapa-nui-culto-cargo-integracion-y-dependencia" style="color: #315fea; text-decoration: none;">Patrimonio Cultural – El avión en Rapa Nui: culto cargo, integración y dependencia</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -90,7 +90,7 @@ El Manutara es recordado como símbolo de perseverancia y unión nacional. Su tr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-05-22 16:30:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Museo Aeronáutico DGAC; ASPCh; Club Aéreo de Santiago; Embajada de Australia; ADPrensa; Wikipedia; Patrimonio Cultural  
 - **Discrepancias resueltas:** Distancia recorrida (2.047 vs 2.300 millas náuticas) y fecha de inicio (18 de enero como vuelo previo a La Serena).  
 - **Nivel de confianza:** Alto  

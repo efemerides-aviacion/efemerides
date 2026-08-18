@@ -13,16 +13,16 @@ image: 1927-06-28-fundacion-iberia-aerolinea-mas-antigua-espana.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1927-06-28-fundacion-iberia-aerolinea-mas-antigua-espana.webp" alt="Trimotor Rohrbach Ro VIII Roland de Iberia">
-  <figcaption class="post-caption">El trimotor Rohrbach Ro VIII Roland I (matrícula M-CBBB), uno de los tres aparatos con los que la recién fundada aerolínea Iberia inició operaciones comerciales en la ruta regular Madrid-Barcelona, ca. diciembre de 1927. Fuente: <a href="https://commons.wikimedia.org/wiki/Category:Rohrbach_Ro.VIII_Roland">Wikimedia Commons</a>.</figcaption>
+  <figcaption class="post-caption">El trimotor Rohrbach Ro VIII Roland I (matrícula M-CBBB), uno de los tres aparatos con los que la recién fundada aerolínea Iberia inició operaciones comerciales en la ruta regular Madrid-Barcelona, ca. diciembre de 1927. Fuente: <a href="https://commons.wikimedia.org/wiki/Category:Rohrbach_Ro.VIII_Roland" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="highlight-box">
 <p>El 28 de junio de 1927, se firmó en Madrid la escritura de constitución de Iberia, Compañía Aérea de Transportes, la primera línea aérea comercial de pasajeros del país. Impulsada por el célebre financiero de Getxo Horacio Echevarrieta como socio mayoritario, y contando con la alianza tecnológica y financiera de la aerolínea alemana Deutsche Luft Hansa, la nueva empresa nació con un capital social de 1.100.000 pesetas. Apenas unos meses más tarde, el 14 de diciembre de 1927, se llevó a cabo el vuelo inaugural entre Madrid y Barcelona con una flota de tres trimotores alemanes Rohrbach Ro VIII Roland, equipados con asientos de mimbre para diez ocupantes. Este hito no solo rompió el aislamiento de las comunicaciones internas de la península ibérica, sino que estableció las bases para el posterior desarrollo de la aviación comercial española moderna.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 - **Lugar de firma notarial:** Madrid, España
@@ -34,7 +34,7 @@ image: 1927-06-28-fundacion-iberia-aerolinea-mas-antigua-espana.webp
 - **Primeros aeródromos utilizados:** Aeródromo de Carabanchel (actual Madrid-Cuatro Vientos) y el Aeródromo de El Prat (Barcelona)
 - **Fusión posterior y monopolio (1929):** Integración obligatoria de la aerolínea en CLASSA (*Compañía de Líneas Aéreas Subvencionadas S.A.*) por mandato del Directorio Militar de Miguel Primo de Rivera
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -80,31 +80,31 @@ A casi un siglo de su fundación, Iberia se erige como un patrimonio vivo de la 
 - **Reconocimiento histórico:** En el año 2017, con motivo del 90º aniversario de la fundación de la compañía, Iberia rindió homenaje a su fundador Horacio Echevarrieta bautizando uno de sus modernos aviones Airbus A319 con su nombre completo.
 - **Evolución del logotipo:** Desde el primer emblema heráldico de 1927 hasta la actual identidad corporativa dinámica y el lema «Cada día es el primer día», la marca de Iberia es un icono cultural reconocido en todo el mundo hispanohablante.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://grupo.iberia.es/pressrelease/details/17040">Grupo Iberia – Iberia cumple mañana 96 años desde su fundación</a></li>
-    <li><a href="https://www.correos.es/es/es/particulares/filatelia/productos-filatelicos/sellos/espana/2002/75-aniversario-del-primer-vuelo-de-iberia">Correos de España – 75 Aniversario del Primer Vuelo de Iberia</a></li>
-    <li><a href="https://www.elmundo.es/motor/MVnumeros/97/MV042/MV042iberia.html">El Mundo – Iberia conmemora su historia (MV042)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Iberia_(airline)">Wikipedia (EN) – History and early years of Iberia (airline)</a></li>
+    <li><a href="https://grupo.iberia.es/pressrelease/details/17040" style="color: #315fea; text-decoration: none;">Grupo Iberia – Iberia cumple mañana 96 años desde su fundación</a></li>
+    <li><a href="https://www.correos.es/es/es/particulares/filatelia/productos-filatelicos/sellos/espana/2002/75-aniversario-del-primer-vuelo-de-iberia" style="color: #315fea; text-decoration: none;">Correos de España – 75 Aniversario del Primer Vuelo de Iberia</a></li>
+    <li><a href="https://www.elmundo.es/motor/MVnumeros/97/MV042/MV042iberia.html" style="color: #315fea; text-decoration: none;">El Mundo – Iberia conmemora su historia (MV042)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Iberia_(airline)" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – History and early years of Iberia (airline)</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Uno de los hechos históricos más curiosos de los inicios de la aerolínea concierne a la matrícula original de su primer avión trimotor Rohrbach Roland. En un principio, el avión recibió la matrícula <em>M-CACA</em>; sin embargo, al advertir la connotación escatológica y poco afortunada que este nombre de registro tenía en idioma español, la dirección de la compañía gestionó con extrema rapidez el cambio de siglas apenas una semana después (el 21 de diciembre de 1927), quedando registrado de forma definitiva como <em>M-CAAC</em>.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
 Para asegurar la rigurosidad histórica de este post y garantizar el control técnico de los datos presentados, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-06-23 21:15:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Archivos notariales de la constitución de Iberia S.A. (1927), registros de prensa del Grupo Iberia, catálogo filatélico oficial de Correos de España, base de datos del registro civil de aeronaves históricas de España, base de datos de European Airlines
 - **Discrepancias resueltas:** Se aclara la ligera confusión que existe en algunos artículos de prensa que sitúan el despegue inicial en Getafe, cuando el primer vuelo regular con Alfonso XIII despegó del Aeródromo de Carabanchel (actual Cuatro Vientos) y el primer vuelo comercial real partió del Aeródromo de El Prat en Barcelona. Asimismo, se documenta de forma inequívoca el reparto de capital (76% de Horacio Echevarrieta y 24% de Deutsche Luft Hansa).
 - **Nivel de confianza:** Alto

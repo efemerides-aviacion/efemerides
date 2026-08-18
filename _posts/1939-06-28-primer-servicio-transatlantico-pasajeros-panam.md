@@ -16,14 +16,14 @@ image: 1939-06-28-primer-servicio-transatlantico-pasajeros-panam.webp
   <figcaption class="post-caption">El hidroavión Boeing 314 Yankee Clipper (NC18603) de Pan American Airways, fotografiado en 1939; protagonista del primer vuelo regular transatlántico de pasajeros, iniciado el 24 de junio de 1939 desde Nueva York y concluido en Southampton el 28 de junio de 1939. Fuente: Harris & Ewing / Library of Congress, Wikimedia Commons / This Day in Aviation.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 28 de junio de 1939, el hidroavión Boeing 314 «Yankee Clipper» de Pan American World Airways amerizó con éxito en Southampton, Gran Bretaña, completando el primer vuelo regular transatlántico comercial en la ruta del Atlántico Norte. La colosal aeronave, comandada por el capitán Harold E. Gray, había despegado el 24 de junio de 1939 desde Port Washington, Nueva York, transportando correspondencia y un selecto grupo de pasajeros oficiales en su viaje inaugural. Tras verse demorado en Botwood, Terranova, debido a un denso banco de niebla, el «Yankee Clipper» reanudó su cruce a través de Foynes, Irlanda, hasta alcanzar las costas británicas. Este hito unió por aire a los Estados Unidos con Gran Bretaña, consolidando el servicio aéreo regular transoceánico y abriendo el camino para los viajes masivos de pasajeros a nivel intercontinental.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha de despegue y hora:** 24 de junio de 1939 a las 08:21 horas desde Port Washington, Nueva York
@@ -35,7 +35,7 @@ image: 1939-06-28-primer-servicio-transatlantico-pasajeros-panam.webp
 - **Especificaciones físicas de la aeronave:** Envergadura de 46,36 metros, longitud total de 32,33 metros y una altura de 8,41 metros, con un peso máximo al despegue de 37.414 kg (82.500 libras)
 - **Tarifa referencial de pasajeros (1939):** 375 dólares por el viaje sencillo y 675 dólares por el boleto de ida y vuelta (equivalente a más de 12.000 dólares en la actualidad)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -81,31 +81,31 @@ El Boeing 314 Clipper es recordado en la historia de la aeronáutica como la cú
 - **Precursor del fuselaje de doble cubierta:** La espaciosa cabina del Boeing 314 y su estructura de doble cubierta sirvieron de inspiración directa para el diseño de futuros gigantes de la aviación comercial como el Boeing 377 Stratocruiser de la posguerra y, décadas más tarde, el legendario reactor Boeing 747, que incorporó la cabina de mandos en la cubierta superior.
 - **Conservación histórica y memoriales:** Aunque ninguna de las doce unidades construidas del Boeing 314 sobrevivió más allá de 1951 (siendo todas desguazadas o desmanteladas), su memoria se preserva activamente a través del Museo de Hidroaviones de Foynes en Irlanda y los extensos archivos históricos de la Fundación Histórica de Pan Am, sirviendo de inspiración para investigadores e ilustradores en todo el mundo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://exhibits.panam.digital/atlantic-crossings/a-vision-achieved-1939/">Pan Am Historical Foundation – Atlantic Crossings: A Vision Achieved in 1939</a></li>
-    <li><a href="https://www.historylink.org/file/3253">HistoryLink – Boeing's Model 314 Clipper Flying Boat and Transatlantic Service</a></li>
-    <li><a href="https://www.thisdayinaviation.com/24-june-1939/">This Day in Aviation – 24 June 1939: The Yankee Clipper's first transatlantic flight to Southampton</a></li>
-    <li><a href="https://readyfortakeoffbook.com/blogs/aircraft-type/boeing-314-clipper">Ready for Takeoff – Boeing 314 Clipper: Pan Am's Ocean Liner Specifications</a></li>
+    <li><a href="https://exhibits.panam.digital/atlantic-crossings/a-vision-achieved-1939/" style="color: #315fea; text-decoration: none;">Pan Am Historical Foundation – Atlantic Crossings: A Vision Achieved in 1939</a></li>
+    <li><a href="https://www.historylink.org/file/3253" style="color: #315fea; text-decoration: none;">HistoryLink – Boeing's Model 314 Clipper Flying Boat and Transatlantic Service</a></li>
+    <li><a href="https://www.thisdayinaviation.com/24-june-1939/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 24 June 1939: The Yankee Clipper's first transatlantic flight to Southampton</a></li>
+    <li><a href="https://readyfortakeoffbook.com/blogs/aircraft-type/boeing-314-clipper" style="color: #315fea; text-decoration: none;">Ready for Takeoff – Boeing 314 Clipper: Pan Am's Ocean Liner Specifications</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Se ha corregido un error técnico y geográfico crítico presente en el borrador de investigación preliminar. El borrador listaba erróneamente los motores como cuatro Pratt & Whitney R-1830-92 Twin Wasp de 1.200 CV (especificaciones correspondientes al Martin M-130); en realidad, el Boeing 314 estaba propulsado por cuatro potentes motores radiales Wright GR-2600 Twin Cyclone de 1.500 CV cada uno. Asimismo, se aclara que la fecha de esta efeméride (28 de junio de 1939) conmemora el exitoso amarizaje final del <em>Yankee Clipper</em> en Southampton, Gran Bretaña, completando de forma triunfal la inauguración de la ruta comercial del Atlántico Norte tras despegar el 24 de junio de 1939 desde Nueva York y verse demorado tres días por niebla en Terranova.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación comercial presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-06-23 23:59:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Archivos oficiales de la Pan American Historical Foundation, bitácoras de vuelo del Boeing 314 Yankee Clipper de junio de 1939, documentos técnicos de diseño de la Boeing Airplane Company para el Model 314 y registros históricos de la autoridad civil aeronáutica de los Estados Unidos (CAA)
 - **Discrepancias resueltas:** Se identificó y resolvió de forma concluyente el cruce de datos erróneos del borrador de la investigación previa. Se corrigieron las especificaciones de los motores (motores Wright GR-2600 frente a los erróneos Pratt & Whitney Twin Wasp) y se precisó que el vuelo conmemorativo del 24-28 de junio de 1939 fue el inaugural de la ruta comercial de correo regular a Gran Bretaña operado por el *Yankee Clipper* (NC18603) bajo el mando del capitán Harold Gray, completando el cruce el 28 de junio tras la demora por niebla en Botwood.
 - **Nivel de confianza:** Alto

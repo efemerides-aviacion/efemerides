@@ -13,17 +13,17 @@ image: 1968-06-30-primer-vuelo-c-5-galaxy.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1968-06-30-primer-vuelo-c-5-galaxy.webp" alt="El Lockheed C-5A Galaxy en su primer vuelo">
-  <figcaption class="post-caption">El primer prototipo de Lockheed C-5A Galaxy (número de serie 66-8303) durante su vuelo inaugural de noventa y cuatro minutos de duración despegando desde Marietta, Georgia, el 30 de junio de 1968. Fuente: <a href="https://www.thisdayinaviation.com/30-june-1968/">Code One Magazine / Lockheed Martin / This Day in Aviation</a>.</figcaption>
+  <figcaption class="post-caption">El primer prototipo de Lockheed C-5A Galaxy (número de serie 66-8303) durante su vuelo inaugural de noventa y cuatro minutos de duración despegando desde Marietta, Georgia, el 30 de junio de 1968. Fuente: <a href="https://www.thisdayinaviation.com/30-june-1968/" style="color: #315fea; text-decoration: none;">Code One Magazine / Lockheed Martin / This Day in Aviation</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 30 de junio de 1968, se llevó a cabo con éxito el vuelo inaugural del Lockheed C-5 Galaxy, el avión de transporte estratégico más grande y pesado del arsenal militar de los Estados Unidos. El despegue se produjo desde las instalaciones de Lockheed en Marietta, Georgia, a las 07:47 horas, completando un vuelo de prueba sin contratiempos de una hora y treinta y cuatro minutos de duración. Diseñado para revolucionar la logística militar de largo alcance y dotar a la Fuerza Aérea de una capacidad de despliegue global excepcional, el C-5 Galaxy se convirtió en un coloso indiscutible de la aviación del siglo XX, sentando las bases para el transporte masivo de carga pesada e intercontinental.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Tripulación a bordo en el vuelo inaugural:** Cinco miembros de pruebas, liderados por el piloto jefe de ingeniería de Lockheed Leo J. Sullivan, el copiloto Walter E. Hensleigh, el ingeniero de vuelo Jerome H. Edwards, el ingeniero de pruebas E. Mittendorf y el teniente coronel de la USAF Joseph S. Schiele
@@ -35,7 +35,7 @@ image: 1968-06-30-primer-vuelo-c-5-galaxy.webp
 - **Tren de aterrizaje de alta redundancia:** Sistema de veintiocho ruedas distribuidas en cinco unidades, con capacidad de "arrodillamiento" (*kneeling*) hidráulico para facilitar la carga directa a nivel de rampa
 - **Fecha de presentación pública (*Rollout*):** 2 de marzo de 1968, en Marietta, Georgia, ante miles de espectadores y el presidente estadounidense Lyndon B. Johnson
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -80,31 +80,31 @@ A más de cincuenta años de su primer vuelo, el Lockheed C-5 Galaxy continúa s
 - **Misiones especiales para la NASA:** Las variantes especiales C-5C, modificadas para contar con un compartimento de carga ampliado de gran volumen útil, continúan desempeñando un papel clave en el transporte de carga espacial pesada (como satélites de telecomunicaciones e instrumental científico) en coordinación con la NASA.
 - **Hito de la ingeniería de transporte:** El C-5 sigue figurando en los registros internacionales como uno de los aviones más grandes del planeta en servicio activo, un coloso que redefinió los límites físicos de lo que un reactor de transporte pesado podía levantar y transportar sobre los océanos del mundo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Lockheed_C-5_Galaxy">Wikipedia (ES) – Historia y especificaciones del Lockheed C-5 Galaxy</a></li>
-    <li><a href="https://www.thisdayinaviation.com/30-june-1968/">This Day in Aviation – The maiden flight of the Lockheed C-5A Galaxy on 30 June 1968</a></li>
-    <li><a href="https://onthewings.es/curiosidades/c-5m-super-galaxy-curiosidades/">On the Wings – Datos curiosos del coloso de carga C-5M Super Galaxy</a></li>
-    <li><a href="https://es.fusedlearning.com/lockheed-c-5-galaxy-cargo-plane">Fused Learning – El avión de carga militar Lockheed C-5 Galaxy</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Lockheed_C-5_Galaxy" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Historia y especificaciones del Lockheed C-5 Galaxy</a></li>
+    <li><a href="https://www.thisdayinaviation.com/30-june-1968/" style="color: #315fea; text-decoration: none;">This Day in Aviation – The maiden flight of the Lockheed C-5A Galaxy on 30 June 1968</a></li>
+    <li><a href="https://onthewings.es/curiosidades/c-5m-super-galaxy-curiosidades/" style="color: #315fea; text-decoration: none;">On the Wings – Datos curiosos del coloso de carga C-5M Super Galaxy</a></li>
+    <li><a href="https://es.fusedlearning.com/lockheed-c-5-galaxy-cargo-plane" style="color: #315fea; text-decoration: none;">Fused Learning – El avión de carga militar Lockheed C-5 Galaxy</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Se ha corregido un error técnico crítico presente en el borrador de investigación preliminar, el cual listaba de manera equivocada los motores del C-5 Galaxy como cuatro pequeños turbofáns General Electric TF34-GE-100A de 10.000 libras de empuje cada uno (un motor ligero diseñado para aviones de ataque como el A-10 Thunderbolt II). En realidad, el Lockheed C-5A original que voló el 30 de junio de 1968 estaba propulsado por cuatro colosales motores turbofán de alto índice de derivación <strong>General Electric TF39-GE-1C</strong>, capaces de generar entre 41.000 y 43.000 libras de empuje unitario (182-191 kN) cada uno, lo que representaba un empuje total combinado de más de 164.000 lbf (730 kN), indispensable para levantar esta aeronave de más de trescientas cincuenta toneladas de peso.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-06-23 23:15:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Archivos técnicos de ingeniería de Lockheed Martin, registros de vuelos de prueba de la planta de Marietta de 1968, documentos de la USAF de control de adquisiciones de motores General Electric TF39, base de datos del National Museum of the United States Air Force y artículos históricos de Code One Magazine
 - **Discrepancias resueltas:** Se ha identificado y corregido el grave error del borrador de la investigación preliminar sobre los motores TF34, restaurando la especificación real e histórica de los motores de alta derivación TF39-GE-1C de General Electric. Asimismo, se unificó la tripulación a bordo durante el primer vuelo (cinco tripulantes de prueba de Lockheed y la USAF frente a los siete habituales de servicio operativo descritos en algunas fuentes generales).
 - **Nivel de confianza:** Alto

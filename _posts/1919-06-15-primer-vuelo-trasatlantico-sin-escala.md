@@ -119,7 +119,7 @@ El éxito de Alcock y Brown tuvo repercusiones inmediatas. Winston Churchill les
 
 La multitud los recibió con entusiasmo: en Irlanda, los vitorearon en cada estación de tren de camino a Dublín; a su llegada a Holyhead (Gales) fueron recibidos por una multitud; en Londres, un cuarto de millón de personas se alinearon en las calles para ver su llegada.
 
-El vuelo demostró que el cruce del Atlántico en avión era posible, lo que aceleró el desarrollo de la aviación comercial de larga distancia. Aunque no se estableció una ruta regular inmediata, el éxito de Alcock y Brown inspiró a otros aviadores, incluyendo a Charles Lindbergh, que ocho años después (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html">ver efeméride</a>) completó el primer vuelo en solitario sin escalas entre Nueva York y París.
+El vuelo demostró que el cruce del Atlántico en avión era posible, lo que aceleró el desarrollo de la aviación comercial de larga distancia. Aunque no se estableció una ruta regular inmediata, el éxito de Alcock y Brown inspiró a otros aviadores, incluyendo a Charles Lindbergh, que ocho años después (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">ver efeméride</a>) completó el primer vuelo en solitario sin escalas entre Nueva York y París.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -137,19 +137,19 @@ Alcock falleció apenas seis meses después, pero su nombre quedó grabado en la
 
 <div class="references">
   <ul>
-    <li><a href="https://collections.rafmuseum.org.uk/story/a-transatlantic-tale/">RAF Museum Collections – A Transatlantic Tale</a></li>
-    <li><a href="https://www.cam.ac.uk/stories/transatlantic-100">University of Cambridge – The first non-stop transatlantic flight: 100 years on</a></li>
-    <li><a href="https://www.historyextra.com/period/20th-century/alcock-brown-flight-across-atlantic-when-what-aviators/">HistoryExtra – Alcock and Brown: the first aviators to fly across the Atlantic</a></li>
-    <li><a href="https://collections.rafmuseum.org.uk/collection/object/object-182945/">RAF Museum Collections – Twinkletoes the Cat Mascot</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Transatlantic_flight_of_Alcock_and_Brown">Wikipedia – Transatlantic flight of Alcock and Brown</a></li>
-    <li><a href="https://blog.sciencemuseum.org.uk/the-first-non-stop-transatlantic-flight/">Science Museum Blog – The first non-stop transatlantic flight</a></li>
-    <li><a href="https://www.rte.ie/centuryireland/articles/alcock-and-brown-fly-into-clifden-and-aviation-history">RTE.ie – Alcock and Brown fly into Clifden – and aviation history</a></li>
-    <li><a href="https://www.irishtimes.com/life-style/fine-art-antiques/2023/03/11/dynamo-propeller-from-alcock-and-brown-crossing-in-birr-sale/">The Irish Times – Dynamo propeller from Alcock and Brown crossing in Birr sale</a></li>
-    <li><a href="https://www.rafmuseum.org.uk/support-us/adopt/twinkletoes-the-cat/">RAF Museum – Twinkletoes the Cat (adoption)</a></li>
+    <li><a href="https://collections.rafmuseum.org.uk/story/a-transatlantic-tale/" style="color: #315fea; text-decoration: none;">RAF Museum Collections – A Transatlantic Tale</a></li>
+    <li><a href="https://www.cam.ac.uk/stories/transatlantic-100" style="color: #315fea; text-decoration: none;">University of Cambridge – The first non-stop transatlantic flight: 100 years on</a></li>
+    <li><a href="https://www.historyextra.com/period/20th-century/alcock-brown-flight-across-atlantic-when-what-aviators/" style="color: #315fea; text-decoration: none;">HistoryExtra – Alcock and Brown: the first aviators to fly across the Atlantic</a></li>
+    <li><a href="https://collections.rafmuseum.org.uk/collection/object/object-182945/" style="color: #315fea; text-decoration: none;">RAF Museum Collections – Twinkletoes the Cat Mascot</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Transatlantic_flight_of_Alcock_and_Brown" style="color: #315fea; text-decoration: none;">Wikipedia – Transatlantic flight of Alcock and Brown</a></li>
+    <li><a href="https://blog.sciencemuseum.org.uk/the-first-non-stop-transatlantic-flight/" style="color: #315fea; text-decoration: none;">Science Museum Blog – The first non-stop transatlantic flight</a></li>
+    <li><a href="https://www.rte.ie/centuryireland/articles/alcock-and-brown-fly-into-clifden-and-aviation-history" style="color: #315fea; text-decoration: none;">RTE.ie – Alcock and Brown fly into Clifden – and aviation history</a></li>
+    <li><a href="https://www.irishtimes.com/life-style/fine-art-antiques/2023/03/11/dynamo-propeller-from-alcock-and-brown-crossing-in-birr-sale/" style="color: #315fea; text-decoration: none;">The Irish Times – Dynamo propeller from Alcock and Brown crossing in Birr sale</a></li>
+    <li><a href="https://www.rafmuseum.org.uk/support-us/adopt/twinkletoes-the-cat/" style="color: #315fea; text-decoration: none;">RAF Museum – Twinkletoes the Cat (adoption)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El vuelo se realizó entre el 14 y el 15 de junio de 1919 (despegue el 14, aterrizaje el 15). La duración exacta varía según las fuentes: el RAF Museum indica 15 horas y 57 minutos, mientras que HistoryExtra y Cambridge University señalan 16 horas y 12 minutos. La distancia recorrida fue de aproximadamente 1.890 millas (3.040 km). El premio del Daily Mail de £10.000 equivale en la actualidad a entre £450.000 y £639.000 según el índice de inflación utilizado. La categoría de esta efeméride es <strong>evento</strong>.</p>
@@ -159,7 +159,7 @@ Alcock falleció apenas seis meses después, pero su nombre quedó grabado en la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-11 15:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** RAF Museum Collections, University of Cambridge, HistoryExtra, Science Museum Blog, RTE Century Ireland, The Irish Times, Wikipedia
 - **Discrepancias resueltas:** La duración del vuelo varía entre 15h 57min (RAF Museum) y 16h 12min (HistoryExtra/Cambridge). Se han incluido ambas cifras. La distancia recorrida se ha ajustado a 1.890 millas (3.040 km) según la mayoría de las fuentes. Se ha confirmado que el aterrizaje fue en Derrygimla Bog (no simplemente «Clifden»).
 - **Nivel de confianza:** Alto

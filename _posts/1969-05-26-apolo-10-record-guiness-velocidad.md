@@ -118,19 +118,19 @@ El récord de velocidad de Apolo 10 sigue siendo un hito en la historia de la ex
 
 <div class="references">
   <ul>
-    <li><a href="https://www.guinnessworldrecords.com/world-records/66125-fastest-speed-achieved-by-humans">Guinness World Records – Fastest speed achieved by humans</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Apollo_10">Wikipedia – Apollo 10</a></li>
-    <li><a href="https://web.archive.org/web/20221112030139/https://en.wikipedia.org/wiki/Apollo_10">Wikipedia (archivo) – Apollo 10</a></li>
-    <li><a href="https://wayback.qa-archive-it.org/all/20090425152048/http://en.wikipedia.org/wiki/Apollo_10">Wikipedia (archivo 2009) – Apollo 10</a></li>
-    <li><a href="https://www.lpi.usra.edu/lunar/missions/apollo/apollo_10/overview/">Lunar and Planetary Institute – Apollo 10 Mission Overview</a></li>
-    <li><a href="https://hothardware.com/news/rip-thomas-stafford-apollo-10-astronaut">HotHardware – Thomas Stafford obituary (2024)</a></li>
-    <li><a href="https://www.af.mil/News/Article-Display/Article/1743886/air-force-space-legend-visits-the-pentagon/">AF.mil – Air Force space legend visits the Pentagon</a></li>
-    <li><a href="https://www.nasa.gov/history/charlie-brown-and-snoopy-in-lunar-orbit/">NASA – Charlie Brown and Snoopy in Lunar Orbit</a></li>
-    <li><a href="https://www.nasa.gov/wp-content/uploads/static/apollo50th/pdf/A10_PressKit.pdf">NASA – Apollo 10 Press Kit</a></li>
+    <li><a href="https://www.guinnessworldrecords.com/world-records/66125-fastest-speed-achieved-by-humans" style="color: #315fea; text-decoration: none;">Guinness World Records – Fastest speed achieved by humans</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Apollo_10" style="color: #315fea; text-decoration: none;">Wikipedia – Apollo 10</a></li>
+    <li><a href="https://web.archive.org/web/20221112030139/https://en.wikipedia.org/wiki/Apollo_10" style="color: #315fea; text-decoration: none;">Wikipedia (archivo) – Apollo 10</a></li>
+    <li><a href="https://wayback.qa-archive-it.org/all/20090425152048/http://en.wikipedia.org/wiki/Apollo_10" style="color: #315fea; text-decoration: none;">Wikipedia (archivo 2009) – Apollo 10</a></li>
+    <li><a href="https://www.lpi.usra.edu/lunar/missions/apollo/apollo_10/overview/" style="color: #315fea; text-decoration: none;">Lunar and Planetary Institute – Apollo 10 Mission Overview</a></li>
+    <li><a href="https://hothardware.com/news/rip-thomas-stafford-apollo-10-astronaut" style="color: #315fea; text-decoration: none;">HotHardware – Thomas Stafford obituary (2024)</a></li>
+    <li><a href="https://www.af.mil/News/Article-Display/Article/1743886/air-force-space-legend-visits-the-pentagon/" style="color: #315fea; text-decoration: none;">AF.mil – Air Force space legend visits the Pentagon</a></li>
+    <li><a href="https://www.nasa.gov/history/charlie-brown-and-snoopy-in-lunar-orbit/" style="color: #315fea; text-decoration: none;">NASA – Charlie Brown and Snoopy in Lunar Orbit</a></li>
+    <li><a href="https://www.nasa.gov/wp-content/uploads/static/apollo50th/pdf/A10_PressKit.pdf" style="color: #315fea; text-decoration: none;">NASA – Apollo 10 Press Kit</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -144,7 +144,7 @@ El récord de velocidad de Apolo 10 sigue siendo un hito en la historia de la ex
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-23 13:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Guinness World Records, NASA (Apollo 50th, Press Kit), Wikipedia (múltiples archivos), Lunar and Planetary Institute, AF.mil
 - **Discrepancias resueltas:** Confirmación de la cifra oficial de velocidad (39.897 km/h) frente a variantes menores. Verificación de la fecha exacta del récord (26 de mayo de 1969) durante la fase de retorno. Aclaración de la discrepancia de 28.547 mph.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y Guinness World Records coinciden en los datos fundamentales)

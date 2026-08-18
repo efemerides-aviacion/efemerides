@@ -15,7 +15,7 @@ image: 1952-07-29-primer-cruce-transpacifico-rb45c.webp
   <figcaption class="post-caption">Un North American RB-45C Tornado de la Fuerza Aérea de los Estados Unidos en vuelo, similar al avión empleado por la tripulación del Mayor Louis H. Carrington en el primer cruce transpacífico sin escalas de un jet. La fotografía es representativa y no permite identificar de forma concluyente el ejemplar histórico. Fuente: <a href="https://www.airplanes-online.com/b45-tornado.htm" style="color: #315fea; text-decoration: none;">Airplanes Online</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1952-07-29-primer-cruce-transpacifico-rb45c.webp
 <p>La misión cubrió aproximadamente 3.460 millas náuticas (6.408 kilómetros) y fue posible gracias a dos reabastecimientos en vuelo realizados por aviones cisterna KB-29. La tripulación recibió el Trofeo Mackay de 1952 por una hazaña que demostró el alcance estratégico de los jets y la importancia de la autonomía extendida mediante reabastecimiento aéreo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -38,7 +38,7 @@ image: 1952-07-29-primer-cruce-transpacifico-rb45c.webp
 - **Identificación atribuida al avión:** número de serie 48-042; algunas fuentes presentan discrepancias en la identificación del aparato.
 - **Reconocimiento:** Trofeo Mackay de 1952, concedido por la National Aeronautic Association.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -56,7 +56,7 @@ El RB-45C era la variante de reconocimiento estratégico del B-45 Tornado, el pr
 
 El vuelo se convirtió en un símbolo de la nueva era de la aviación a reacción. La hazaña no dependió únicamente de la velocidad del avión, sino de la coordinación entre la tripulación, los navegantes y los aviones cisterna que ampliaron su alcance sobre un océano sin bases intermedias.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -69,7 +69,7 @@ El vuelo se convirtió en un símbolo de la nueva era de la aviación a reacció
 - **1954:** Los RB-45C son reemplazados progresivamente en el 91st Strategic Reconnaissance Wing por los Boeing RB-47E.
 - **1958:** Los últimos RB-45C son retirados de las operaciones regulares de reconocimiento.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -77,7 +77,7 @@ El cruce demostró que los bombarderos y aviones de reconocimiento a reacción p
 
 La misión también validó el reabastecimiento en vuelo como multiplicador del alcance, una técnica que posteriormente permitiría desplazar grandes formaciones de cazas y mantener patrullas de reconocimiento lejos de sus bases de origen.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -85,7 +85,7 @@ El vuelo del RB-45C constituyó un puente entre los bombarderos de la Segunda Gu
 
 Aunque el RB-45C tuvo una carrera relativamente breve y fue sustituido por el RB-47E, sus misiones contribuyeron al desarrollo de la doctrina de reconocimiento estratégico y a la consolidación de las operaciones de reabastecimiento en vuelo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -94,20 +94,19 @@ Aunque el RB-45C tuvo una carrera relativamente breve y fue sustituido por el RB
 3. <a href="https://coldwar.org/RB-29/HTML/91stSRSHistory/04.02.91sthist.htm" style="color: #315fea; text-decoration: none;">The Cold War Museum — 91st SRS History, Chapter 4</a>.
 4. <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196105/north-american-b-45c-tornado/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force — North American B-45C Tornado</a>.
 5. <a href="https://www.airplanes-online.com/b45-tornado.htm" style="color: #315fea; text-decoration: none;">Airplanes Online — North American B-45 / RB-45 Tornado</a>.
-6. Borrador preliminar del investigador: «Primer cruce transpacífico RB-45C».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El número de serie 48-042 es el identificado por varias fuentes históricas como el RB-45C empleado por la tripulación del Mayor Louis H. Carrington en el cruce transpacífico del 29 de julio de 1952. La Air Force Historical Foundation menciona el RB-45C 48-039 en el pie de una fotografía asociada al artículo, pero ese dato parece corresponder al avión mostrado en la imagen de reabastecimiento y no necesariamente al aparato del vuelo récord.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-24 06:19:35 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Air Force Historical Foundation, Air & Space Forces Magazine y National Museum of the United States Air Force.  
-- **Fuentes secundarias de contraste:** The Cold War Museum, Airplanes Online y borrador preliminar del investigador.  
+- **Fuentes secundarias de contraste:** The Cold War Museum, Airplanes Online.  
 - **Discrepancias resueltas:** Se precisó que el récord corresponde al primer cruce transpacífico sin escalas de un jet multimotor; se convirtió la distancia a kilómetros y se dejó constancia de la discrepancia entre los números de serie 48-042 y 48-039 en las fuentes consultadas.  
 - **Nivel de confianza:** Alto para el hecho principal; Medio para la identificación exacta del aparato.  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

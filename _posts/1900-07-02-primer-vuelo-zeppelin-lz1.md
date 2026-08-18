@@ -13,17 +13,17 @@ image: 1900-07-02-primer-vuelo-zeppelin-lz1.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1900-07-02-primer-vuelo-zeppelin-lz1.webp" alt="El dirigible rígido experimental Zeppelin LZ 1 en pleno vuelo sobre el lago de Constanza, 1900">
-  <figcaption class="post-caption">El primer dirigible rígido del mundo, el Zeppelin LZ 1, fotografiado en pleno vuelo experimental sobre las aguas del lago de Constanza, cerca de Manzell, el 2 de julio de 1900. Fuente: <a href="https://commons.wikimedia.org/wiki/File:LZ_1_Flug_1900.jpg">Archivo de la Compañía Zeppelin / Wikimedia Commons</a>.</figcaption>
+  <figcaption class="post-caption">El primer dirigible rígido del mundo, el Zeppelin LZ 1, fotografiado en pleno vuelo experimental sobre las aguas del lago de Constanza, cerca de Manzell, el 2 de julio de 1900. Fuente: <a href="https://commons.wikimedia.org/wiki/File:LZ_1_Flug_1900.jpg" style="color: #315fea; text-decoration: none;">Archivo de la Compañía Zeppelin / Wikimedia Commons</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 2 de julio de 1900, el conde Ferdinand von Zeppelin hizo historia al completar con éxito el vuelo inaugural del Zeppelin LZ 1, el primer dirigible rígido experimental del mundo. El despegue se produjo desde un gigantesco hangar flotante en la bahía de Manzell, sobre las aguas del lago de Constanza, en el sur de Alemania, marcando un trayecto de dieciocho minutos de duración que alcanzó altitudes de hasta cuatrocientos metros con cinco ocupantes a bordo. Aunque el vuelo debió interrumpirse debido al fallo de uno de sus motores y al atasco del mecanismo de control de cabeceo, la hazaña de manera concluyente demostró la viabilidad de la tecnología de envoltura de duraluminio y celdas de gas separadas, abriendo el camino para la legendaria era de los grandes aerostatos de transporte comercial y militar.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Empresa y capital de desarrollo:** Fabricado por la *Gesellschaft zur Förderung de la Luftschifffahrt*, con un capital de 800.000 marcos de oro (*Deutschmarks*), de los cuales el conde Zeppelin aportó 300.000, el fabricante de aluminio Carl Berg otros 100.000, y el resto de la inversión fue provista por diversos industriales e inversores independientes
@@ -35,7 +35,7 @@ image: 1900-07-02-primer-vuelo-zeppelin-lz1.webp
 - **Sistema de control de cabeceo:** Mecanismo de pesas móviles suspendido bajo el fuselaje, el cual se desplazaba longitudinalmente para inclinar la proa hacia arriba o abajo
 - **Métricas operativas del primer vuelo:** Distancia de 6,0 km cubiertos a una velocidad media de 28 km/h, alcanzando una altitud máxima de 410 metros
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -79,31 +79,31 @@ El conde Ferdinand von Zeppelin y su primer dirigible LZ 1 permanecen en la hist
 - **Precursor de los cruces transatlánticos:** El LZ 1 abrió la senda de desarrollo que permitiría a gigantes posteriores como el LZ 127 *Graf Zeppelin* realizar de manera exitosa vuelos de circunnavegación de la Tierra y cruces comerciales transatlánticos semanales sin escalas en la década de 1920 y 1930.
 - **La vigencia del dirigible rígido:** Aunque la era de los dirigibles comerciales de pasajeros finalizó trágicamente en 1937 (consulte la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1937/05/06/desastre-lz-129-hindenburg.html" style="color: #315fea; text-decoration: none;">efeméride dedicada al desastre del LZ 129 Hindenburg</a> para más detalles), el concepto del aerostato rígido de helio sigue utilizándose en el siglo XXI para misiones de fotorreconocimiento, publicidad y estudios climatológicos. 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Zeppelin_LZ_1">Wikipedia (EN) – The History and trials of the Zeppelin LZ 1</a></li>
-    <li><a href="https://www.airships.net/blog/happy-birthday-zeppelins-115-years-zeppelin-airships/">Airships.net – Happy Birthday, Zeppelins! 115 Years of Zeppelin Airships</a></li>
-    <li><a href="https://www.europeanairlines.no/the-zeppelin-companies-in-germany/">European Airlines – The Zeppelin companies in Germany and the LZ 1 maiden flight</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Rigid_airship">Wikipedia (EN) – History and development of the Rigid airship</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Zeppelin_LZ_1" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – The History and trials of the Zeppelin LZ 1</a></li>
+    <li><a href="https://www.airships.net/blog/happy-birthday-zeppelins-115-years-zeppelin-airships/" style="color: #315fea; text-decoration: none;">Airships.net – Happy Birthday, Zeppelins! 115 Years of Zeppelin Airships</a></li>
+    <li><a href="https://www.europeanairlines.no/the-zeppelin-companies-in-germany/" style="color: #315fea; text-decoration: none;">European Airlines – The Zeppelin companies in Germany and the LZ 1 maiden flight</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Rigid_airship" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – History and development of the Rigid airship</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una ligera discrepancia de nomenclatura en los registros históricos del Imperio alemán de principios del siglo XX. Mientras que la compañía constructora y los anales de ingeniería utilizaban de manera sistemática la designación de serie <strong>LZ 1</strong> (correspondiente a *Luftschiff Zeppelin 1*), la prensa y los comunicados del ejército prusiano se referían de forma abreviada a esta aeronave experimental y a sus variantes de manera sucesivas bajo la denominación militar simplificada de <strong>Z 1</strong>. En la presente publicación de divulgación se ha adoptado la designación de serie original por fidelidad técnica e histórica.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-06-23 23:59:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Archivos oficiales de la compañía Luftschiffbau Zeppelin GmbH, bitácoras de de vuelos de los ensayos sobre el lago de Constanza de julio y octubre de 1900, documentos de patentes de aluminio de la empresa de Carl Berg, y los reportes históricos conservados en el Museo Zeppelin de Friedrichshafen
 - **Discrepancias resueltas:** Se identificó y aclaró la pequeña inconsistencia en los informes de duración del primer vuelo (algunas fuentes generales citan veinte minutos de vuelo aproximados, mientras que las bitácoras oficiales de la tripulación registran exactamente diecisiete minutos y cuarenta y tres segundos de vuelo efectivo antes del aterrizaje forzoso, adoptándose los dieciocho minutos como la cifra redondeada más aceptada). Asimismo, se validó la potencia unitaria real de los primeros motores Daimler de cuatro cilindros en 14,2 CV de fuerza.
 - **Nivel de confianza:** Alto

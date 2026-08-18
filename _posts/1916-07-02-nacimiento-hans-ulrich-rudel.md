@@ -16,14 +16,14 @@ image: 1916-07-02-nacimiento-hans-ulrich-rudel.webp
   <figcaption class="post-caption">Hans‑Ulrich Rudel (1916‑1982), piloto de ataque al suelo de la Luftwaffe y considerado el aviador más condecorado de Alemania durante la Segunda Guerra Mundial, retratado con uniforme militar y sus condecoraciones; fuente: Don Hollway.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 2 de julio de 1916, nació en Konradswaldau, Silesia, Hans-Ulrich Rudel, quien se convertiría en el piloto de combate más condecorado de la historia militar alemana durante la Segunda Guerra Mundial. Famoso por pilotar el robusto bombardero en picado Junkers Ju 87 «Stuka», Rudel completó un récord imbatido de 2.530 misiones de combate en el Frente Oriental, destruyendo cientos de tanques soviéticos, piezas de artillería y barcos de guerra de gran envergadura. Fue el único combatiente de la Wehrmacht galardonado con la Cruz de Caballero con Hojas de Roble en Oro, Espadas y Diamantes, la máxima distinción por valentía del régimen, continuando su servicio de manera asombrosa incluso tras sufrir la amputación de su pierna derecha en 1945.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 - **Nombre completo de pila:** Hans-Ulrich Rudel
@@ -35,7 +35,7 @@ image: 1916-07-02-nacimiento-hans-ulrich-rudel.webp
 - **Rendimiento de misiones y derribos sufridos:** Completó 2.530 misiones de combate real, siendo derribado por fuego antiaéreo o forzado a realizar aterrizajes de emergencia en 32 ocasiones distintas sin ser capturado
 - **Rendición ante fuerzas aliadas:** Rindió su unidad (Schlachtgeschwader 2) en el aeródromo de Kitzingen el 8 de mayo de 1945, inutilizando de manera fáctica su propio avión Junkers Ju 87 G-2 al aterrizar
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -83,31 +83,31 @@ Hans-Ulrich Rudel es recordado en la historia de la aeronáutica militar como el
 - **Estudio estratégico de asalto aéreo:** Sus detalladas bitácoras de combate y sus métodos de aproximación a baja altura para batir blindados desde la popa son estudiados como doctrina fundacional en el adiestramiento moderno de misiones de tripulaciones de helicópteros de ataque y aviones de apoyo aéreo cercano de la OTAN.
 - **La memoria del piloto de Stuka:** Su controvertida y aclamada autobiografía titulada *Trotzdem* (publicada en español bajo el título *Piloto de Stuka* en 1953) continúa siendo una de las memorias de combate individuales de la Segunda Guerra Mundial más reeditadas y leídas a nivel global, un testimonio de primera mano de la dureza de la campaña aérea del Frente Oriental.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Hans-Ulrich_Rudel">Wikipedia (ES) – Biografía de Hans-Ulrich Rudel</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Hans-Ulrich_Rudel">Wikipedia (EN) – Biography of Hans-Ulrich Rudel</a></li>
-    <li><a href="https://historynet.com/hans-ulrich-rudel-eagle-eastern-front/">HistoryNet – Hans-Ulrich Rudel: Eagle of the Eastern Front</a></li>
-    <li><a href="https://historynet.com/the-iron-eagles-last-flight/">HistoryNet – The Iron Eagle's Last Flight: The Surrender of Hans-Ulrich Rudel</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Hans-Ulrich_Rudel" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Biografía de Hans-Ulrich Rudel</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Hans-Ulrich_Rudel" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Biography of Hans-Ulrich Rudel</a></li>
+    <li><a href="https://historynet.com/hans-ulrich-rudel-eagle-eastern-front/" style="color: #315fea; text-decoration: none;">HistoryNet – Hans-Ulrich Rudel: Eagle of the Eastern Front</a></li>
+    <li><a href="https://historynet.com/the-iron-eagles-last-flight/" style="color: #315fea; text-decoration: none;">HistoryNet – The Iron Eagle's Last Flight: The Surrender of Hans-Ulrich Rudel</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Aunque Hans-Ulrich Rudel pasó a la posteridad de la aviación militar por su abrumador desempeño en misiones de ataque y asalto terrestre (destruyendo quinientos diecinueve tanques), los registros oficiales de la Luftwaffe también le acreditan de forma confirmada un total de <strong>nueve victorias aéreas</strong> (incluyendo el derribo de cazas y aviones de ataque soviéticos). Esto le sitúa en una posición sumamente inusual de as de combate multifuncional, combinando la táctica del bombardeo en picado de precisión con el combate aire-aire.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación militar presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-06-23 23:59:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Archivos federales alemanes (Bundesarchiv), bitácoras de combate oficiales del Sturzkampfgeschwader 2 (St.G 2) «Immelmann», informes de condecoraciones del OKL (Alto Mando de la Luftwaffe) y los registros técnicos de restauración del Museo Nacional del Aire y el Espacio del Smithsonian
 - **Discrepancias resueltas:** Se ha adoptado la cifra de 519 tanques soviéticos destruidos como la marca de registro oficial confirmada de conformidad con las bitácoras operativas de la Luftwaffe, resolviendo las ligeras discrepancias con reportes de posguerra que fluctuaban entre 500 y 530 tanques. Asimismo, se unificó la tripulación técnica en el momento de su despegue y rendición en Kitzingen el 8 de mayo de 1945, confirmando que volaba acompañado por el corresponsal de guerra y piloto Ernst-August Niermann.
 - **Nivel de confianza:** Alto

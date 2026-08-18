@@ -93,22 +93,22 @@ Klaus Ohlmann es recordado como uno de los pilotos de planeador más exitosos de
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.klaus-ohlmann.com/about-klaus/">Klaus Ohlmann – About Klaus (sitio oficial)</a></li>
-    <li><a href="https://www.fai.org/athlete/klaus-ohlmann">FAI – Klaus Ohlmann athlete profile</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Klaus_Ohlmann">Wikipedia (EN) – Klaus Ohlmann</a></li>
-    <li><a href="https://aeroreport.de/en/aviation/chasing-records-in-a-glider">Aero Report – Chasing records in a glider</a></li>
-    <li><a href="https://www.lange-aviation.com/en/klaus-ohlmann-chasing-records-with-his-antares/">Lange Aviation – Klaus Ohlmann: Chasing records with his Antares</a></li>
-    <li><a href="https://www.aopa.org/news-and-media/all-news/2014/january/28/himalaya-glider">AOPA – Motor glider rides Himalayan waves</a></li>
-    <li><a href="https://www.mountain-wave-project.com/index-2.html">Mountain Wave Project – Nepal expedition 2013/2014</a></li>
-    <li><a href="https://www.fai.org/news/1985-2014-two-stories-exceptional-pilots-who-flew-over-himalaya-glider">FAI – 1985-2014: The Two Stories of the Exceptional Pilots Who Flew Over the Himalaya on a Glider</a></li>
-    <li><a href="https://sustainableskies.org/e-genius-klaus-ohlmann-set-records-records-records/">Sustainable Skies – e-Genius, Klaus Ohlmann Set Records</a></li>
+    <li><a href="https://www.klaus-ohlmann.com/about-klaus/" style="color: #315fea; text-decoration: none;">Klaus Ohlmann – About Klaus (sitio oficial)</a></li>
+    <li><a href="https://www.fai.org/athlete/klaus-ohlmann" style="color: #315fea; text-decoration: none;">FAI – Klaus Ohlmann athlete profile</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Klaus_Ohlmann" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Klaus Ohlmann</a></li>
+    <li><a href="https://aeroreport.de/en/aviation/chasing-records-in-a-glider" style="color: #315fea; text-decoration: none;">Aero Report – Chasing records in a glider</a></li>
+    <li><a href="https://www.lange-aviation.com/en/klaus-ohlmann-chasing-records-with-his-antares/" style="color: #315fea; text-decoration: none;">Lange Aviation – Klaus Ohlmann: Chasing records with his Antares</a></li>
+    <li><a href="https://www.aopa.org/news-and-media/all-news/2014/january/28/himalaya-glider" style="color: #315fea; text-decoration: none;">AOPA – Motor glider rides Himalayan waves</a></li>
+    <li><a href="https://www.mountain-wave-project.com/index-2.html" style="color: #315fea; text-decoration: none;">Mountain Wave Project – Nepal expedition 2013/2014</a></li>
+    <li><a href="https://www.fai.org/news/1985-2014-two-stories-exceptional-pilots-who-flew-over-himalaya-glider" style="color: #315fea; text-decoration: none;">FAI – 1985-2014: The Two Stories of the Exceptional Pilots Who Flew Over the Himalaya on a Glider</a></li>
+    <li><a href="https://sustainableskies.org/e-genius-klaus-ohlmann-set-records-records-records/" style="color: #315fea; text-decoration: none;">Sustainable Skies – e-Genius, Klaus Ohlmann Set Records</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> El borrador de la invrstigación preliminar citaba tanto cuatro como siete títulos mundiales; se ha optado por señalar "múltiple campeón mundial" con la cifra de su sitio oficial (cuatro) e indicar que fuentes independientes más recientes lo elevan a siete. En cuanto al número total de récords, las fuentes oscilan entre "más de 60" (sitio oficial), 62 (perfil de patrocinio) y 66 (Aero Report, 2022); se ha adoptado la expresión "más de 60" como la más conservadora. La fecha del vuelo sobre el Everest aparece como 1 de febrero en Wikipedia y algunas fuentes secundarias, pero el propio Mountain Wave Project y reportes de la expedición la sitúan el 28 de enero de 2014; se ha usado esta última fecha.</p>
@@ -117,7 +117,7 @@ Klaus Ohlmann es recordado como uno de los pilotos de planeador más exitosos de
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-06-25 10:10 CST
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Sitio oficial de Klaus Ohlmann, FAI, Wikipedia (EN), Aero Report, AOPA, Mountain Wave Project, Lange Aviation, Sustainable Skies
 - **Discrepancias resueltas:** Se aclaró la variación en el número de títulos mundiales y de récords; se adoptó la fecha del vuelo sobre el Everest del 28 de enero de 2014 basándose en el Mountain Wave Project.
 - **Datos no confirmados omitidos:** Total exacto de récords/títulos ante discrepancias entre fuentes primarias.

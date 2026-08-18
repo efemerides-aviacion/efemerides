@@ -134,19 +134,19 @@ El 25 de mayo de 1959 nació una pionera. El 16 de septiembre de 1982, Theresa C
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Theresa_Claiborne">Wikipedia – Theresa Claiborne</a></li>
-    <li><a href="https://abc13.com/post/black-female-pilot-air-force-united-airlines-lands/14866565/">ABC13 Houston – Pioneering Black female pilot for Air Force, United Airlines lands final flight (23 de mayo de 2024)</a></li>
-    <li><a href="https://www.blackpast.org/african-american-history/theresa-m-claiborne-1959/">BlackPast.org – Theresa M. Claiborne (1959- )</a></li>
-    <li><a href="https://airportimprovement.com/article/theresa-claiborne-selected-at-the-naas-2024-katharine-wright-trophy-recipient/">Airport Improvement – Theresa Claiborne Selected as NAA's 2024 Katharine Wright Trophy Recipient</a></li>
-    <li><a href="https://www.govinfo.gov/content/pkg/CREC-2024-05-14/html/CREC-2024-05-14-pt1-PgE496-2.htm">Congressional Record – Recognizing the accomplishments of Theresa M. Claiborne (14 de mayo de 2024)</a></li>
-    <li><a href="https://abc7chicago.com/post/united-airlines-black-female-pilot-theresa-claiborne-retires/14863595/">ABC7 Chicago – First Black woman pilot for the U.S. Air Force retires (29 de mayo de 2024)</a></li>
-    <li><a href="https://justfacts.votesmart.org/public-statement/1676052/">Vote Smart – Congressional Record statement by Rep. Jennifer McClellan</a></li>
-    <li><a href="https://airandspace.si.edu/air-and-space-quarterly/issue-12/theresa-claiborne">Smithsonian National Air and Space Museum – "If You Can See It, You Can Be It" (Air and Space Quarterly, Issue 12)</a></li>
-    <li><a href="https://www.lubbockonline.com/story/news/local/2024/06/18/grit-first-black-female-pilot-in-air-force-reflects-on-storied-career/74122494007/">Lubbock Avalanche-Journal – 'Any means necessary': First Black female pilot in Air Force reflects on storied career (18 de junio de 2024)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Theresa_Claiborne" style="color: #315fea; text-decoration: none;">Wikipedia – Theresa Claiborne</a></li>
+    <li><a href="https://abc13.com/post/black-female-pilot-air-force-united-airlines-lands/14866565/" style="color: #315fea; text-decoration: none;">ABC13 Houston – Pioneering Black female pilot for Air Force, United Airlines lands final flight (23 de mayo de 2024)</a></li>
+    <li><a href="https://www.blackpast.org/african-american-history/theresa-m-claiborne-1959/" style="color: #315fea; text-decoration: none;">BlackPast.org – Theresa M. Claiborne (1959- )</a></li>
+    <li><a href="https://airportimprovement.com/article/theresa-claiborne-selected-at-the-naas-2024-katharine-wright-trophy-recipient/" style="color: #315fea; text-decoration: none;">Airport Improvement – Theresa Claiborne Selected as NAA's 2024 Katharine Wright Trophy Recipient</a></li>
+    <li><a href="https://www.govinfo.gov/content/pkg/CREC-2024-05-14/html/CREC-2024-05-14-pt1-PgE496-2.htm" style="color: #315fea; text-decoration: none;">Congressional Record – Recognizing the accomplishments of Theresa M. Claiborne (14 de mayo de 2024)</a></li>
+    <li><a href="https://abc7chicago.com/post/united-airlines-black-female-pilot-theresa-claiborne-retires/14863595/" style="color: #315fea; text-decoration: none;">ABC7 Chicago – First Black woman pilot for the U.S. Air Force retires (29 de mayo de 2024)</a></li>
+    <li><a href="https://justfacts.votesmart.org/public-statement/1676052/" style="color: #315fea; text-decoration: none;">Vote Smart – Congressional Record statement by Rep. Jennifer McClellan</a></li>
+    <li><a href="https://airandspace.si.edu/air-and-space-quarterly/issue-12/theresa-claiborne" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – "If You Can See It, You Can Be It" (Air and Space Quarterly, Issue 12)</a></li>
+    <li><a href="https://www.lubbockonline.com/story/news/local/2024/06/18/grit-first-black-female-pilot-in-air-force-reflects-on-storied-career/74122494007/" style="color: #315fea; text-decoration: none;">Lubbock Avalanche-Journal – 'Any means necessary': First Black female pilot in Air Force reflects on storied career (18 de junio de 2024)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -160,7 +160,7 @@ El 25 de mayo de 1959 nació una pionera. El 16 de septiembre de 1982, Theresa C
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-23 11:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Congressional Record (GovInfo), BlackPast.org, Wikipedia, ABC News (ABC13 Houston, ABC7 Chicago), National Aeronautic Association (Airport Improvement), Lubbock Avalanche-Journal
 - **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (25 de mayo de 1959) en fuentes oficiales del Congreso y BlackPast. Verificación del hito como "primera mujer afroamericana piloto de la USAF" mediante el Registro del Congreso. Se ha verificado la fecha de graduación como piloto (16 de septiembre de 1982) en múltiples fuentes independientes.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales, incluyendo el Congreso de EE. UU., y medios de comunicación coinciden en los datos fundamentales)

@@ -15,7 +15,7 @@ image: 1951-08-01-fundacion-japan-air-lines.webp
   <figcaption class="post-caption">Auxiliares de vuelo de Japan Air Lines junto a un Martin 2-0-2 «Mokusei» el 25 de octubre de 1951, durante el inicio del primer servicio doméstico japonés de posguerra. La imagen corresponde a los primeros meses de la empresa fundada el 1 de agosto. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Japan_Airlines_Martin_2-0-2_Mokusei_Air_Hostesses_25_October_1951.png" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1951-08-01-fundacion-japan-air-lines.webp
 <p>La compañía comenzó sin una flota ni tripulaciones japonesas plenamente disponibles. Mediante acuerdos de arrendamiento y operación con compañías extranjeras, preparó sus primeros vuelos de invitación y, el 25 de octubre de 1951, inauguró el primer servicio doméstico japonés de posguerra.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -38,7 +38,7 @@ image: 1951-08-01-fundacion-japan-air-lines.webp
 - **Primer servicio doméstico de posguerra:** 25 de octubre de 1951, Tokio–Osaka–Fukuoka, con un Martin 2-0-2 operado mediante acuerdos de arrendamiento y tripulación extranjera.
 - **Transformación posterior:** el 1 de octubre de 1953 se estableció una nueva Japan Airlines estatal bajo la Japan Airlines Company Act.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -56,7 +56,7 @@ Japón aún no disponía de una industria de transporte aéreo civil plenamente 
 
 La compañía se presentó como parte de la reconstrucción de la nueva Japón y adoptó una imagen corporativa asociada con la modernidad, la hospitalidad y la reapertura del país. Sus primeros uniformes, servicios de a bordo y aeronaves se convirtieron en símbolos visibles del renacimiento de la aviación civil japonesa.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -73,7 +73,7 @@ La compañía se presentó como parte de la reconstrucción de la nueva Japón y
 - **Agosto de 1960:** Introduce el Douglas DC-8 y entra en la era del transporte comercial a reacción.
 - **1987:** La compañía queda completamente privatizada.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -81,7 +81,7 @@ La fundación de Japan Air Lines creó una estructura empresarial para reconstru
 
 La transformación legal de 1953 convirtió a Japan Airlines en la compañía aérea nacional y en la única autorizada para operar servicios internacionales regulares de Japón. Esta evolución permitió que la empresa conectara el país con Norteamérica y, posteriormente, con Europa y otras regiones del mundo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -89,7 +89,7 @@ Japan Air Lines pasó de ser una empresa fundada con 100 millones de yenes a con
 
 La fundación de 1951 también estableció la identidad histórica de JAL como símbolo de la recuperación japonesa. La compañía continúa operando como Japan Airlines, con sus principales centros en Haneda y Narita y una red internacional integrada en la alianza oneworld.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
@@ -98,20 +98,19 @@ La fundación de 1951 también estableció la identidad histórica de JAL como s
 3. <a href="https://aviation.hawaii.gov/pioneer-airlines/japan-air-lines/" style="color: #315fea; text-decoration: none;">Hawaii Aviation — Japan Air Lines</a>.
 4. <a href="https://www.airwaysmag.com/new-post/japan-first-post-war-domestic-airline-service" style="color: #315fea; text-decoration: none;">Airways Magazine — Japan’s First Post-war Domestic Airline Service</a>.
 5. <a href="https://commons.wikimedia.org/wiki/File:Japan_Airlines_Martin_2-0-2_Mokusei_Air_Hostesses_25_October_1951.png" style="color: #315fea; text-decoration: none;">Japan Air Lines Martin 2-0-2 «Mokusei», Wikimedia Commons</a>.
-6. Borrador preliminar del investigador: «Fundación de Japan Air Lines».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El 1 de agosto de 1951 corresponde a la fundación de Japan Air Lines Co., Ltd., precursora de la actual Japan Airlines. La compañía estatal que asumió sus activos, obligaciones y funciones como aerolínea internacional fue creada posteriormente, el 1 de octubre de 1953, bajo la Japan Airlines Company Act.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-27 07:29:08 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Japan Airlines, historia corporativa oficial; Hawaii Aviation; Wikimedia Commons con material histórico de Japan Air Lines.  
-- **Fuentes secundarias de contraste:** Airways Magazine y borrador preliminar del investigador.  
+- **Fuentes secundarias de contraste:** Airways Magazine.  
 - **Discrepancias resueltas:** Se distinguió la fundación de la entidad precursora el 1 de agosto de 1951 de la creación de la compañía estatal bajo la Japan Airlines Company Act el 1 de octubre de 1953; se diferenció la fecha de fundación de la fecha del primer servicio doméstico, 25 de octubre de 1951.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

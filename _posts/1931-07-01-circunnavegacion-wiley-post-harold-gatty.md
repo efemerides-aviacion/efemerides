@@ -16,14 +16,14 @@ image: 1931-07-01-circunnavegacion-wiley-post-harold-gatty.webp
   <figcaption class="post-caption">Wiley Post y Harold Gatty celebrados en Nueva York durante el desfile de bienvenida el día 7 de julio de 1931, tras completar la primera circunnavegación aérea en un monoplano monomotor, culminada el 1 de julio de 1931; fuente: BBC Mundo / AFP.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 1 de julio de 1931, el piloto estadounidense Wiley Post y el navegante australiano Harold Gatty hicieron historia al completar la primera circunnavegación aérea exitosa a bordo de un monoplano monomotor, el Lockheed Vega 5C bautizado como «Winnie Mae». Tras despegar el 23 de junio desde Roosevelt Field en Long Island, Nueva York, los aviadores recorrieron una distancia de 24.903 kilómetros (15.474 millas) en un tiempo récord de ocho días, quince horas y cincuenta y un minutos, superando por doce días la marca anterior del dirigible alemán Graf Zeppelin. Este hito pionero demostró la fiabilidad del motor de émbolo moderno y la precisión de las nuevas técnicas de navegación astronómica y de estima sobre los océanos del mundo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos de las plantillas y el evento
 - **Matrícula oficial de la aeronave:** `NR105W` (Lockheed Model 5C Vega), propiedad del petrolero F. C. Hall y bautizado en honor a su hija
@@ -35,7 +35,7 @@ image: 1931-07-01-circunnavegacion-wiley-post-harold-gatty.webp
 - **Limitación física del piloto:** Wiley Post operó la aeronave con un parche en el ojo izquierdo, habiendo perdido dicho órgano en un accidente industrial en los campos petroleros en 1926
 - **Celebración de posvuelo:** Ticker-tape parade masiva en Nueva York el 7 de julio de 1931, seguida de un almuerzo de honor con el presidente Herbert Hoover en la Casa Blanca
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -81,31 +81,31 @@ Hoy en día, la hazaña de 1931 de Wiley Post y Harold Gatty es celebrada como u
 - **Reconocimiento a Harold Gatty:** El navegante australiano fue condecorado y reconocido mundialmente como el "príncipe de los navegantes", estableciendo posteriormente su propia escuela de navegación e influyendo en los métodos de entrenamiento de las fuerzas aéreas aliadas de la Segunda Guerra Mundial.
 - **Homenaje póstumo a Wiley Post:** Tras su trágica muerte en un accidente aéreo en Alaska en 1935 junto a Will Rogers, Post fue recordado como uno de los aviadores más innovadores de los Estados Unidos. Su natal Oklahoma alberga monumentos con su nombre, y el aeropuerto principal de la Ciudad de Oklahoma lleva con orgullo el nombre de Wiley Post.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Wiley_Post">Wikipedia (ES) – Biografía de Wiley Post y el Winnie Mae</a></li>
-    <li><a href="https://timeandnavigation.si.edu/navigating-air/early-air-navigators/two-men-in-a-hurry">Smithsonian Institution – Two Men in a Hurry: Wiley Post and Harold Gatty's Flight</a></li>
-    <li><a href="https://www.aopa.org/news-and-media/all-news/2021/june/16/around-the-world-in-8-days">AOPA – Around the world in 8 days: The Epic Flight of Winnie Mae</a></li>
-    <li><a href="https://www.longines.com/es/magazine/pioneer-spirits/wiley-prost/">Longines – Wiley Post: Pionero de la aviación y la circunnavegación aérea</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Wiley_Post" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Biografía de Wiley Post y el Winnie Mae</a></li>
+    <li><a href="https://timeandnavigation.si.edu/navigating-air/early-air-navigators/two-men-in-a-hurry" style="color: #315fea; text-decoration: none;">Smithsonian Institution – Two Men in a Hurry: Wiley Post and Harold Gatty's Flight</a></li>
+    <li><a href="https://www.aopa.org/news-and-media/all-news/2021/june/16/around-the-world-in-8-days" style="color: #315fea; text-decoration: none;">AOPA – Around the world in 8 days: The Epic Flight of Winnie Mae</a></li>
+    <li><a href="https://www.longines.com/es/magazine/pioneer-spirits/wiley-prost/" style="color: #315fea; text-decoration: none;">Longines – Wiley Post: Pionero de la aviación y la circunnavegación aérea</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Se ha determinado fechar esta efeméride el <strong>1 de julio de 1931</strong> debido a que corresponde a la fecha de culminación de la travesía aérea y el aterrizaje triunfal de Wiley Post y Harold Gatty en Roosevelt Field, Long Island, Nueva York, unificando el registro histórico con el momento exacto de la consagración del récord mundial. Aunque el despegue físico se produjo la mañana del 23 de junio de 1931, la llegada e inauguración del nuevo tiempo récord de 8 días, 15 horas y 51 minutos representa el verdadero hito de conmemoración transoceánica.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-06-23 23:59:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Archivos oficiales del Smithsonian National Air and Space Museum (NASM), registros oficiales de la National Aeronautic Association (NAA), bitácoras de vuelo del Lockheed Model 5C Vega Winnie Mae de julio de 1931, y artículos biográficos históricos de la AOPA
 - **Discrepancias resueltas:** Se precisó que el punto de despegue y aterrizaje de la travesía de 1931 fue Roosevelt Field, y no Floyd Bennett Field, terminal aérea utilizada posteriormente por Post en su vuelo en solitario de 1933.
 - **Nivel de confianza:** Alto

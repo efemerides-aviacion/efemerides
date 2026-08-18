@@ -14,14 +14,14 @@ image: 1923-01-31-primer-circuito-cerrado-autogiro-c-4.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1923-01-31-primer-circuito-cerrado-autogiro-c-4.jpg" alt="Autogiro Cierva C.4 en pruebas en 1923">
   <figcaption class="post-caption">Juan de la Cierva (de pie, con traje) conversa junto al autogiro Cierva C.4 (K-AWO) con personal técnico y el piloto teniente Alejandro Gómez Spencer, durante las pruebas de 1923 en Madrid que culminaron en el primer circuito cerrado exitoso el 31 de enero. Fuente: Archivos aeronáuticos / Musée de l’Air et de l’Espace.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 31 de enero de 1923, el teniente Alejandro Gómez Spencer pilotó el autogiro Cierva C.4 en el aeródromo de Cuatro Vientos (Madrid) para realizar el primer vuelo en circuito cerrado de la historia con una aeronave de ala giratoria. El recorrido de 4 kilómetros, a más de 25 metros de altura, consolidó el éxito de los primeros saltos realizados en Getafe semanas antes y demostró ante las autoridades militares la estabilidad y el control del invento de Juan de la Cierva. Este hito confirmó la validez de la solución de las palas articuladas para superar el problema de la disimetría de sustentación, sentando las bases técnicas para el desarrollo de los helicópteros modernos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha del vuelo:** 31 de enero de 1923  
 - **Lugar:** Aeródromo de Cuatro Vientos, Madrid  
@@ -32,7 +32,7 @@ image: 1923-01-31-primer-circuito-cerrado-autogiro-c-4.jpg
 - **Motor:** Le Rhône 9Ja, 110 hp  
 - **Innovación clave:** Rotor de cuatro palas articuladas  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto histórico
 El circuito cerrado del C.4 fue la prueba definitiva de que el autogiro era una aeronave viable y segura.
 
@@ -59,16 +59,16 @@ El vuelo circular validó el autogiro como aeronave controlable y segura, abrien
 ### Legado
 El éxito del C.4 marcó el inicio de la era de las aeronaves de ala giratoria, precursor directo del helicóptero moderno.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
-## Referencias verificadas
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Cierva_C.4">Wikipedia (ES) – Cierva C.4</a></li>
-    <li><a href="https://pt.wikipedia.org/wiki/Cierva_C.4">Wikipedia (PT) – Cierva C.4</a></li>
-    <li><a href="https://www.acami.es/efemerides/9-de-enero-de-1923primer-vuelo-del-autogiro-de-juan-de-la-cierva/">ACAMI – Primer vuelo del autogiro de Juan de la Cierva</a></li>
-    <li><a href="https://prisaradio-prisaradio-prod.cdn.arcpublishing.com/cmadrid/2023/01/09/cien-anos-o-no-del-primer-vuelo-en-getafe-del-autogiro-de-de-la-cierva-ser-madrid-sur/">Cadena SER – Cien años (o no) del primer vuelo en Getafe</a></li>
-    <li><a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?id=1040918">Biblioteca Virtual de Defensa – Centenario del vuelo del autogiro</a></li>
-    <li><a href="https://www.archivogeneral.carm.es/archivoGeneral/arg.detalle_documento_descriptor?idDetalle=2605874&idFicha=1001&pidSes=">Archivo General de la Región de Murcia – Biografía de Juan de la Cierva</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Cierva_C.4" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Cierva C.4</a></li>
+    <li><a href="https://pt.wikipedia.org/wiki/Cierva_C.4" style="color: #315fea; text-decoration: none;">Wikipedia (PT) – Cierva C.4</a></li>
+    <li><a href="https://www.acami.es/efemerides/9-de-enero-de-1923primer-vuelo-del-autogiro-de-juan-de-la-cierva/" style="color: #315fea; text-decoration: none;">ACAMI – Primer vuelo del autogiro de Juan de la Cierva</a></li>
+    <li><a href="https://prisaradio-prisaradio-prod.cdn.arcpublishing.com/cmadrid/2023/01/09/cien-anos-o-no-del-primer-vuelo-en-getafe-del-autogiro-de-de-la-cierva-ser-madrid-sur/" style="color: #315fea; text-decoration: none;">Cadena SER – Cien años (o no) del primer vuelo en Getafe</a></li>
+    <li><a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/consulta/registro.do?id=1040918" style="color: #315fea; text-decoration: none;">Biblioteca Virtual de Defensa – Centenario del vuelo del autogiro</a></li>
+    <li><a href="https://www.archivogeneral.carm.es/archivoGeneral/arg.detalle_documento_descriptor?idDetalle=2605874&idFicha=1001&pidSes=" style="color: #315fea; text-decoration: none;">Archivo General de la Región de Murcia – Biografía de Juan de la Cierva</a></li>
   </ul>
 </div>
 
@@ -77,9 +77,9 @@ El éxito del C.4 marcó el inicio de la era de las aeronaves de ala giratoria, 
 </div>
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de control
-- **Timestamp de verificación:** 2026-03-05 14:35 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia ES/PT, ACAMI, Cadena SER, Biblioteca Virtual de Defensa, Archivo General de Murcia  
 - **Discrepancias resueltas:** Fecha de los primeros vuelos en Getafe (9 vs. 17 de enero)  
 - **Nivel de confianza:** Alto  

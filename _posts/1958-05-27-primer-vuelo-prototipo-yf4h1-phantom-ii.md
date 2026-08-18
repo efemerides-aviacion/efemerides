@@ -154,19 +154,19 @@ El Phantom II sigue siendo un símbolo del poderío aéreo estadounidense y un t
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/27-may-1958/">This Day in Aviation – 27 May 1958</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/McDonnell_F-4B_Phantom_II">Wikipedia – McDonnell Douglas F-4 Phantom II</a></li>
-    <li><a href="https://navalaviationmuseum.org/f-4n-phantom-ii/nggallery/image/f4h-vf-154-068/">National Naval Aviation Museum – F-4N Phantom II</a></li>
-    <li><a href="https://secure.boeingimages.com/archive/F-4%20Phantom%20II%20Flight%20Testing-2JRSXLJBI3SQ.html">Boeing Images – F-4 Phantom II Flight Testing</a></li>
-    <li><a href="https://science.howstuffworks.com/mcdonnell-douglas-f-4-phantom-ii.htm">HowStuffWorks – McDonnell Douglas F-4 Phantom II</a></li>
-    <li><a href="https://www.globalsecurity.org/military/systems/aircraft/f-4-test.htm">GlobalSecurity.org – F-4 Phantom II Flight Testing</a></li>
-    <li><a href="https://www.airforce-technology.com/projects/f-4-phantom-fighter-bomber/">Air Force Technology – F-4 Phantom Fighter Bomber</a></li>
-    <li><a href="https://www.history.navy.mil/content/history/museums/nnam/explore/collections/aircraft/f/f-4n-phantom-ii.html">Navy.mil – F-4N Phantom II</a></li>
-    <li><a href="https://www.dvidshub.net/news/256645/tinker-celebrates-75-years-mcdonnell-douglas-f-4-phantom-ii-aircraft-profile">DVIDS – Tinker Celebrates 75 Years: F-4 Phantom II</a></li>
+    <li><a href="https://www.thisdayinaviation.com/27-may-1958/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 27 May 1958</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/McDonnell_F-4B_Phantom_II" style="color: #315fea; text-decoration: none;">Wikipedia – McDonnell Douglas F-4 Phantom II</a></li>
+    <li><a href="https://navalaviationmuseum.org/f-4n-phantom-ii/nggallery/image/f4h-vf-154-068/" style="color: #315fea; text-decoration: none;">National Naval Aviation Museum – F-4N Phantom II</a></li>
+    <li><a href="https://secure.boeingimages.com/archive/F-4%20Phantom%20II%20Flight%20Testing-2JRSXLJBI3SQ.html" style="color: #315fea; text-decoration: none;">Boeing Images – F-4 Phantom II Flight Testing</a></li>
+    <li><a href="https://science.howstuffworks.com/mcdonnell-douglas-f-4-phantom-ii.htm" style="color: #315fea; text-decoration: none;">HowStuffWorks – McDonnell Douglas F-4 Phantom II</a></li>
+    <li><a href="https://www.globalsecurity.org/military/systems/aircraft/f-4-test.htm" style="color: #315fea; text-decoration: none;">GlobalSecurity.org – F-4 Phantom II Flight Testing</a></li>
+    <li><a href="https://www.airforce-technology.com/projects/f-4-phantom-fighter-bomber/" style="color: #315fea; text-decoration: none;">Air Force Technology – F-4 Phantom Fighter Bomber</a></li>
+    <li><a href="https://www.history.navy.mil/content/history/museums/nnam/explore/collections/aircraft/f/f-4n-phantom-ii.html" style="color: #315fea; text-decoration: none;">Navy.mil – F-4N Phantom II</a></li>
+    <li><a href="https://www.dvidshub.net/news/256645/tinker-celebrates-75-years-mcdonnell-douglas-f-4-phantom-ii-aircraft-profile" style="color: #315fea; text-decoration: none;">DVIDS – Tinker Celebrates 75 Years: F-4 Phantom II</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -180,7 +180,7 @@ El Phantom II sigue siendo un símbolo del poderío aéreo estadounidense y un t
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-25 11:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, Wikipedia, National Naval Aviation Museum, Boeing Images, GlobalSecurity.org, Navy.mil, DVIDS
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (27 de mayo de 1958) en todas las fuentes. Verificación de la cifra de récords (16 según fuentes de Boeing). Confirmación de la producción total (5.195 unidades) y el retiro final en 2024.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y de archivo coinciden en los datos fundamentales)

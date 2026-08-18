@@ -15,7 +15,7 @@ image: 1945-07-28-accidente-b25-empire-state.webp
   <figcaption class="post-caption">Un North American B-25 Mitchell en vuelo, similar al B-25D-20 que impactó contra el Empire State Building el 28 de julio de 1945. La aeronave de la imagen no es el ejemplar siniestrado, matrícula 41-30577. Fuente: <a href="https://commons.wikimedia.org/wiki/File:North_American_Aviation%27s_B-25_medium_bomber,_Inglewood,_Calif.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1945-07-28-accidente-b25-empire-state.webp
 <p>Murieron las tres personas que viajaban a bordo y once personas dentro del edificio o en sus inmediaciones. Aunque el accidente causó daños graves y 24 heridos, no comprometió la integridad estructural del rascacielos, que pudo reabrir pocos días después.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 
@@ -41,7 +41,7 @@ image: 1945-07-28-accidente-b25-empire-state.webp
 - **Heridos:** 24 personas.
 - **Punto de impacto:** entre los pisos 78 y 79, en el lado norte del edificio.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -59,7 +59,7 @@ El B-25 Mitchell era un bombardero medio bimotor diseñado para operaciones mili
 
 El impacto convirtió una aeronave militar en el centro de un acontecimiento que conmocionó a la opinión pública internacional. La supervivencia de la operadora de ascensor Betty Lou Oliver, después de la caída de su cabina desde gran altura, añadió un episodio extraordinario a la memoria colectiva del accidente.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Desarrollo Cronológico
 
@@ -73,7 +73,7 @@ El impacto convirtió una aeronave militar en el centro de un acontecimiento que
 - **Agosto de 1945:** Las autoridades de la ciudad y los servicios de emergencia documentan las causas, los daños y la respuesta al accidente.
 - **1946:** La aprobación de la Federal Tort Claims Act permite establecer un marco para reclamaciones contra el Gobierno federal, incluidas las relacionadas con este siniestro.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
@@ -83,7 +83,7 @@ La respuesta de los bomberos, policías, personal médico y trabajadores del edi
 
 El caso también contribuyó al debate sobre la responsabilidad del Gobierno federal por daños causados por sus operaciones. La Federal Tort Claims Act, promulgada en 1946, permitió que las víctimas presentaran reclamaciones contra el Estado bajo determinadas condiciones.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
@@ -91,7 +91,7 @@ El accidente del B-25 y el Empire State Building permanece como uno de los episo
 
 La historia de Betty Lou Oliver, que sobrevivió a la caída de su ascensor desde el piso 80 hasta el sótano, se convirtió en uno de los relatos de supervivencia más extraordinarios vinculados con un accidente aéreo. El edificio, por su parte, conservó su función y su simbolismo pese al impacto.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 
@@ -100,20 +100,19 @@ La historia de Betty Lou Oliver, que sobrevivió a la caída de su ascensor desd
 3. <a href="https://pacificwrecks.com/aircraft/b-25/41-30577.html" style="color: #315fea; text-decoration: none;">Pacific Wrecks — B-25D-20 «Old John Feather Merchant», serial number 41-30577</a>.
 4. <a href="https://www.military.com/history/time-army-bomber-crashed-empire-state-building-during-wwii.html" style="color: #315fea; text-decoration: none;">Military.com — The Time an Army Bomber Crashed into the Empire State Building During WWII</a>.
 5. <a href="https://www.cbsnews.com/newyork/news/empire-state-building-plane-crash-1945/" style="color: #315fea; text-decoration: none;">CBS News — 70 Years Ago Tuesday: 19 Killed When Plane Crashes Into Empire State Building</a>.
-6. Borrador preliminar del investigador: «Accidente B-25 Empire State Building».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> No se localizó una fotografía pública verificable del B-25D-20 matrícula 41-30577 antes del accidente. Por ello, se utiliza una imagen representativa de otro North American B-25 Mitchell y se identifica expresamente como aeronave similar, no como el avión siniestrado.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-23 14:40:30 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias/institucionales consultadas:** NYC Department of Records and Information Services, con documentación del Municipal Archives y del New York City Fire Department.  
-- **Fuentes secundarias de contraste:** Aviation Safety Network, Pacific Wrecks, Military.com, CBS News y borrador preliminar del investigador.  
+- **Fuentes secundarias de contraste:** Aviation Safety Network, Pacific Wrecks, Military.com, CBS News.  
 - **Discrepancias resueltas:** Se adoptaron 9:49-9:50 a. m. como hora aproximada; se diferenciaron las 3 víctimas del avión de las 11 personas fallecidas en el edificio o sus inmediaciones; se evitó presentar como exacta la imagen de un B-25 similar.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

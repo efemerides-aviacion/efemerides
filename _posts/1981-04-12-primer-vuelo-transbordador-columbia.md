@@ -12,7 +12,7 @@ image: 1981-04-12-primer-vuelo-transbordador-columbia.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1981-04-12-primer-vuelo-transbordador-columbia.webp" alt="Lanzamiento del Transbordador Espacial Columbia en la misión STS-1">
-  <figcaption class="post-caption">El lanzamiento del primer transbordador Columbia (STS-1) desde la Plataforma 39A el 12 de abril de 1981 a las 7 a.m., con John Young y Robert Crippen, inauguró la era de naves espaciales reutilizables. Fuente: <a href="https://www.nasa.gov/history/sts-1-astronaut-bob-crippen-remembers-the-ride-of-his-life/">NASA – "STS-1: Astronaut Bob Crippen Remembers the Ride of His Life".</a></figcaption>
+  <figcaption class="post-caption">El lanzamiento del primer transbordador Columbia (STS-1) desde la Plataforma 39A el 12 de abril de 1981 a las 7 a.m., con John Young y Robert Crippen, inauguró la era de naves espaciales reutilizables. Fuente: <a href="https://www.nasa.gov/history/sts-1-astronaut-bob-crippen-remembers-the-ride-of-his-life/" style="color: #315fea; text-decoration: none;">NASA – "STS-1: Astronaut Bob Crippen Remembers the Ride of His Life".</a></figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
@@ -91,16 +91,16 @@ El Columbia se perdió trágicamente el 1 de febrero de 2003 durante la reentrad
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Transbordador_espacial_Columbia">Wikipedia (ES) – Transbordador espacial Columbia</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/STS-1">Wikipedia (ES) – STS‑1</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/STS-1">Wikipedia (EN) – STS‑1</a></li>
-    <li><a href="https://www.nasa.gov/mission/sts-1/">NASA – STS‑1 – First Space Shuttle Mission</a></li>
-    <li><a href="https://www.radioreloj.cu/efemeride-ciencia/el-transbordador-espacial-estadounidense-columbia-inicia-con-exito-su-primer-vuelo-e ...">Radio Reloj – El transbordador espacial Columbia inicia con éxito su primer vuelo (efeméride)</a></li>
-    <li><a href="https://academia-lab.com/enciclopedia/transbordador-espacial-columbia/">Academia Lab – Transbordador espacial Columbia</a></li>
-    <li><a href="https://www.space.com/11345-photos-nasa-space-shuttle-1st-flight-sts1.html">Space.com – In photos: NASA’s first space shuttle flight, STS‑1 on Columbia</a></li>
-    <li><a href="https://www.youtube.com/watch?v=cehhoJUQ4PU">YouTube – Aniversario del lanzamiento del Primer Transbordador Espacial Columbia | STS‑1</a></li>
-    <li><a href="https://www.youtube.com/watch?v=qde9hnb4pqk">YouTube – STS‑1 Full Mission – First Shuttle Flight, Launch, Landing, 1981</a></li>
-    <li><a href="https://onthewings.es/accidentes/accidente-columbia-transbordador-espacial/">OnTheWings – 21 aniversario del accidente del Transbordador Columbia</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Transbordador_espacial_Columbia" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Transbordador espacial Columbia</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/STS-1" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – STS‑1</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/STS-1" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – STS‑1</a></li>
+    <li><a href="https://www.nasa.gov/mission/sts-1/" style="color: #315fea; text-decoration: none;">NASA – STS‑1 – First Space Shuttle Mission</a></li>
+    <li><a href="https://www.radioreloj.cu/efemeride-ciencia/el-transbordador-espacial-estadounidense-columbia-inicia-con-exito-su-primer-vuelo-e ..." style="color: #315fea; text-decoration: none;">Radio Reloj – El transbordador espacial Columbia inicia con éxito su primer vuelo (efeméride)</a></li>
+    <li><a href="https://academia-lab.com/enciclopedia/transbordador-espacial-columbia/" style="color: #315fea; text-decoration: none;">Academia Lab – Transbordador espacial Columbia</a></li>
+    <li><a href="https://www.space.com/11345-photos-nasa-space-shuttle-1st-flight-sts1.html" style="color: #315fea; text-decoration: none;">Space.com – In photos: NASA’s first space shuttle flight, STS‑1 on Columbia</a></li>
+    <li><a href="https://www.youtube.com/watch?v=cehhoJUQ4PU" style="color: #315fea; text-decoration: none;">YouTube – Aniversario del lanzamiento del Primer Transbordador Espacial Columbia | STS‑1</a></li>
+    <li><a href="https://www.youtube.com/watch?v=qde9hnb4pqk" style="color: #315fea; text-decoration: none;">YouTube – STS‑1 Full Mission – First Shuttle Flight, Launch, Landing, 1981</a></li>
+    <li><a href="https://onthewings.es/accidentes/accidente-columbia-transbordador-espacial/" style="color: #315fea; text-decoration: none;">OnTheWings – 21 aniversario del accidente del Transbordador Columbia</a></li>
   </ul>
 </div>
 
@@ -111,7 +111,7 @@ El Columbia se perdió trágicamente el 1 de febrero de 2003 durante la reentrad
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-07 17:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), NASA, Space.com, Radio Reloj, Academia Lab, OnTheWings
 - **Discrepancias resueltas:** Algunas fuentes mencionan 36 órbitas, otras 37. La diferencia se debe al redondeo; la NASA confirma 36 órbitas completadas. La duración exacta del vuelo fue de 2 días, 6 horas, 20 minutos y 53 segundos.
 - **Nivel de confianza:** Alto

@@ -12,7 +12,7 @@ image: 1785-01-07-primer-cruce-canal-mancha-globo-aerostatico.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1785-01-07-primer-cruce-canal-mancha-globo-aerostatico.webp" alt="Jean Pierre Blanchard en globo aerostático">
-  <figcaption class="post-caption">Grabado retrospectivo de Thomas Rowlandson (1794) que muestra el despegue del globo aerostático de Jean-Pierre Blanchard y John Jeffries desde Dover Castle hacia Guînes, el 7 de enero de 1785. Fuente: <a href="https://en.wikipedia.org/wiki/Jean-Pierre_Blanchard">Wikipedia (EN) – Jean-Pierre Blanchard</a>.</figcaption>
+  <figcaption class="post-caption">Grabado retrospectivo de Thomas Rowlandson (1794) que muestra el despegue del globo aerostático de Jean-Pierre Blanchard y John Jeffries desde Dover Castle hacia Guînes, el 7 de enero de 1785. Fuente: <a href="https://en.wikipedia.org/wiki/Jean-Pierre_Blanchard" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Jean-Pierre Blanchard</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -42,7 +42,7 @@ image: 1785-01-07-primer-cruce-canal-mancha-globo-aerostatico.webp
 
 ## Contexto Histórico
 
-La aviación en el siglo XVIII estaba en sus albores. El primer vuelo tripulado en globo de aire caliente (Montgolfière) ocurrió el 21 de noviembre de 1783, y el primer vuelo tripulado en globo de hidrógeno (Charlière) ocurrió apenas un mes después, el 1 de diciembre de 1783. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #1565c0; text-decoration: none;">efeméride del primer vuelo tripulado en globo de aire caliente</a> y la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #1565c0; text-decoration: none;">efeméride del primer vuelo tripulado en globo de hidrógeno</a> para más detalles. El cruce del Canal de la Mancha representaba el siguiente gran desafío.
+La aviación en el siglo XVIII estaba en sus albores. El primer vuelo tripulado en globo de aire caliente (Montgolfière) ocurrió el 21 de noviembre de 1783, y el primer vuelo tripulado en globo de hidrógeno (Charlière) ocurrió apenas un mes después, el 1 de diciembre de 1783. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo tripulado en globo de aire caliente</a> y la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo tripulado en globo de hidrógeno</a> para más detalles. El cruce del Canal de la Mancha representaba el siguiente gran desafío.
 
 ### Entorno social
 
@@ -114,17 +114,17 @@ Jean Pierre Blanchard es recordado como uno de los pioneros de la aviación, y s
 
 <div class="references">
   <ul>
-    <li><a href="https://airandspace.si.edu/collection-objects/first-channel-crossing-air/nasm_A19930258000">Smithsonian Air & Space – Crossing the Channel by Balloon</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Jean-Pierre_Blanchard">Wikipedia (EN) – Jean-Pierre Blanchard</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Jean_Pierre_Blanchard">Wikipedia (ES) – Jean Pierre Blanchard</a></li>
-    <li><a href="https://www.historyhit.com/1785-english-channel-balloon-crossing/">History Hit – 1785 Balloon Crossing</a></li>
-    <li><a href="https://www.ebsco.com/research-starters/history/first-cross-channel-flight">EBSCO – First Cross-Channel Flight</a></li>
-    <li><a href="https://www.infobae.com/america/mundo/2025/01/08/los-secretos-de-la-primera-hazana-aerea-entre-inglaterra-y-francia/">Infobae – La primera hazaña aérea entre Inglaterra y Francia</a></li>
-    <li><a href="https://www.britannica.com/biography/Jean-Pierre-Francois-Blanchard#ref104835">Encyclopaedia Britannica – Jean-Pierre Blanchard</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/first-channel-crossing-air/nasm_A19930258000" style="color: #315fea; text-decoration: none;">Smithsonian Air & Space – Crossing the Channel by Balloon</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Jean-Pierre_Blanchard" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Jean-Pierre Blanchard</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Jean_Pierre_Blanchard" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Jean Pierre Blanchard</a></li>
+    <li><a href="https://www.historyhit.com/1785-english-channel-balloon-crossing/" style="color: #315fea; text-decoration: none;">History Hit – 1785 Balloon Crossing</a></li>
+    <li><a href="https://www.ebsco.com/research-starters/history/first-cross-channel-flight" style="color: #315fea; text-decoration: none;">EBSCO – First Cross-Channel Flight</a></li>
+    <li><a href="https://www.infobae.com/america/mundo/2025/01/08/los-secretos-de-la-primera-hazana-aerea-entre-inglaterra-y-francia/" style="color: #315fea; text-decoration: none;">Infobae – La primera hazaña aérea entre Inglaterra y Francia</a></li>
+    <li><a href="https://www.britannica.com/biography/Jean-Pierre-Francois-Blanchard#ref104835" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica – Jean-Pierre Blanchard</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -138,7 +138,7 @@ Jean Pierre Blanchard es recordado como uno de los pioneros de la aviación, y s
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-29 20:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Smithsonian Air & Space, Wikipedia (EN/ES), History Hit, EBSCO, Infobae, Encyclopaedia Britannica
 - **Discrepancias resueltas:**
   - Fecha: confirmada como 7 de enero de 1785 en todas las fuentes.

@@ -15,7 +15,7 @@ image: 1961-07-27-creacion-grupo-aereo-bombardeo-13-leones.webp
   <figcaption class="post-caption">Collage histórico de algunas de las aeronaves operadas por el Grupo Aéreo de Bombardeo N.º 13 «Leones» y sus unidades precursoras, junto con emblemas de la organización y sus escuadrones. La composición ilustra la evolución del Grupo desde los B-25 Mitchell y Canberra hasta sus transformaciones posteriores. Fuente: <a href="https://www.facebook.com/photo.php?fbid=486931254985936&amp;type=3&amp;rdid=D15NCadRCKXP79Ak&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19GVTbeynY%2F#" style="color: #315fea; text-decoration: none;">publicación de FAV Ven en Facebook</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1961-07-27-creacion-grupo-aereo-bombardeo-13-leones.webp
 <p>El Grupo inició una trayectoria de casi medio siglo vinculada al bombardeo, el reconocimiento y el entrenamiento avanzado. En 2006 fue reactivado y redenominado como Grupo Aéreo de Caza N.º 13 «Libertador Simón Bolívar», con cazas Sukhoi Su-30MK2.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -38,7 +38,7 @@ image: 1961-07-27-creacion-grupo-aereo-bombardeo-13-leones.webp
 - **Sede inicial:** Base Aérea «El Libertador», Palo Negro, estado Aragua.
 - **Denominación posterior:** Grupo Aéreo de Caza N.º 13 «Libertador Simón Bolívar», desde 2006.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -54,7 +54,7 @@ La creación del Grupo coincidió con la transición desde los bombarderos de pi
 
 El nombre «Leones» expresó la identidad combativa de una unidad asociada con la proyección ofensiva y la disciplina de sus tripulaciones. Sus emblemas y los de los escuadrones B-39 y B-40 conservaron la memoria de las distintas etapas de la organización incluso después de la retirada de los bombarderos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -68,7 +68,7 @@ El nombre «Leones» expresó la identidad combativa de una unidad asociada con 
 - **Décadas de 1990 y 2000:** La unidad acoge funciones de escuela de combate y entrenamiento avanzado con aviones Embraer AT-27 Tucano y Rockwell T-2D Buckeye.
 - **2006:** El Grupo es reactivado y redenominado como Grupo Aéreo de Caza N.º 13 «Libertador Simón Bolívar», equipado con cazas Sukhoi Su-30MK2 y con sede en la Base Aérea «Teniente Luis del Valle García».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -76,7 +76,7 @@ La creación del Grupo Aéreo de Bombardeo N.º 13 concentró en una sola organi
 
 La unidad también desempeñó un papel formativo. El mantenimiento de una estructura de bombardeo y, posteriormente, de entrenamiento avanzado, permitió conservar conocimientos de planificación, navegación, empleo de armamento y conducción de operaciones aéreas complejas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -84,7 +84,7 @@ El Grupo Aéreo de Bombardeo N.º 13 «Leones» fue durante décadas la principa
 
 Aunque la denominación de bombardeo dejó de emplearse con la llegada de los Su-30MK2, la identidad «Leones» sobrevivió como vínculo entre las generaciones de personal, aeronaves y misiones. El legado del Grupo se encuentra así tanto en su capacidad ofensiva histórica como en su continuidad dentro de la aviación de combate venezolana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
@@ -93,20 +93,19 @@ Aunque la denominación de bombardeo dejó de emplearse con la llegada de los Su
 3. <a href="https://www.infodefensa.com/texto-diario/mostrar/2949394/venezuela-dupla-f-16-30-factor-disuasivo" style="color: #315fea; text-decoration: none;">Infodefensa — Venezuela: la dupla F-16 y Su-30, el factor disuasivo</a>, sobre la posterior operación del Grupo N.º 13 como unidad de caza.
 4. <a href="https://x.com/History_FlightV/status/1155251936855306240" style="color: #315fea; text-decoration: none;">History_FlightV — Creación del Grupo Aéreo de Bombardeo N.º 13 «Leones»</a>.
 5. <a href="https://www.facebook.com/photo.php?fbid=486931254985936&amp;type=3&amp;rdid=D15NCadRCKXP79Ak&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19GVTbeynY%2F#" style="color: #315fea; text-decoration: none;">FAV Ven — Collage histórico del Grupo Aéreo de Bombardeo N.º 13 «Leones»</a>.
-6. Borrador preliminar del investigador: «Creación del Grupo Aéreo de Bombardeo N.º 13 “Leones”».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La fecha del 27 de julio de 1961 corresponde a la creación formal del Grupo Aéreo de Bombardeo N.º 13. La organización y su material de vuelo atravesaron varias transformaciones: el Grupo comenzó con los escuadrones B-39 y B-40, operó posteriormente el sistema Canberra y fue reactivado en 2006 como Grupo Aéreo de Caza N.º 13 «Libertador Simón Bolívar». La imagen es un collage histórico y no corresponde a un único momento.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-23 06:33:14 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias/institucionales consultadas:** No se localizó documentación oficial digitalizada del Resuelto Ministerial N.º A-116.  
-- **Fuentes secundarias de contraste:** Artículo del Coronel (Av.) José Luis Ochoa Vargas, amparado en la obra del Coronel (Av.) Luis Hernán Paredes, <em>Historia de la Aviación Militar Venezolana</em>, 3.ª edición, tomo II, 1997; FAV Club Venezuela; Infodefensa; History_FlightV; FAV Ven; y borrador preliminar del investigador.  
+- **Fuentes secundarias de contraste:** Artículo del Coronel (Av.) José Luis Ochoa Vargas, amparado en la obra del Coronel (Av.) Luis Hernán Paredes, <em>Historia de la Aviación Militar Venezolana</em>, 3.ª edición, tomo II, 1997; FAV Club Venezuela; Infodefensa; History_FlightV; FAV Ven.  
 - **Discrepancias resueltas:** Se distinguió la creación del Grupo de sus transformaciones posteriores; se mantuvo la denominación histórica de bombardeo para la efeméride de 1961 y se consignó por separado su reactivación como Grupo de Caza N.º 13 en 2006.  
 - **Nivel de confianza:** Medio  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

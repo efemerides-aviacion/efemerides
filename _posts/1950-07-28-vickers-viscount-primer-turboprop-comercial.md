@@ -15,7 +15,7 @@ image: 1950-07-28-vickers-viscount-primer-turboprop-comercial.webp
   <figcaption class="post-caption">Un Vickers Viscount 700, matrícula G-AMAV, con los colores de British European Airways en el aeropuerto de Londres el 8 de octubre de 1953. La aeronave pertenece a una etapa posterior al hito de 1950 y representa el modelo que consolidó comercialmente la innovación del Viscount. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Viscount_700_G-AMAV_NZ_Air_Race.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>, fotografía de RuthAS (CC BY 3.0).</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1950-07-28-vickers-viscount-primer-turboprop-comercial.webp
 <p>Dos días después de recibir su certificado de aeronavegabilidad, el 29 de julio, G-AHRF realizó el primer vuelo regular de pasajeros de un avión propulsado por turbinas, entre Londres-Northolt y París-Le Bourget. El Viscount inauguró así una etapa de transición entre los aviones de pistón y los reactores comerciales.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
@@ -37,7 +37,7 @@ image: 1950-07-28-vickers-viscount-primer-turboprop-comercial.webp
 - **Hito posterior:** primer vuelo regular de pasajeros de un avión turbohélice, el 29 de julio de 1950, entre Northolt y París-Le Bourget.
 - **Pasajeros del vuelo inaugural regular:** 14 pasajeros, según las fuentes de contraste.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -55,7 +55,7 @@ El diseño se originó en las recomendaciones del Comité Brabazon para la aviac
 
 El Viscount ayudó a familiarizar al público con una nueva forma de propulsión. Su sonido característico, la suavidad de la cabina y sus ventanillas panorámicas contribuyeron a crear una imagen de modernidad que favoreció la aceptación de los turbohélices en el transporte de pasajeros.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -71,7 +71,7 @@ El Viscount ayudó a familiarizar al público con una nueva forma de propulsión
 - **1955:** Trans-Canada Air Lines introduce el Viscount en el servicio regular de Norteamérica.
 - **1948-1963:** Se construyen 445 ejemplares del Vickers Viscount en sus distintas versiones.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -79,7 +79,7 @@ El Viscount demostró que un avión turbohélice podía transportar pasajeros en
 
 El éxito del modelo impulsó a otros fabricantes y operadores a considerar la propulsión turbohélice para rutas de medio alcance. Antes de la expansión de los reactores, el Viscount se convirtió en una solución madura para conectar ciudades europeas y norteamericanas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -87,7 +87,7 @@ El Vickers Viscount fue el primer avión de pasajeros turbohélice en alcanzar e
 
 La combinación de velocidad, presurización, autonomía, ventanillas panorámicas y bajo nivel de vibraciones convirtió al Viscount en un puente entre la aviación de pistón y la era del reactor. Su influencia se prolongó en la evolución de otros aviones de transporte propulsados por turbinas y en la aceptación pública de esta tecnología.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -96,20 +96,19 @@ La combinación de velocidad, presurización, autonomía, ventanillas panorámic
 3. <a href="https://ingenium.ca/aviation/en/collection-highlight/vickers-757-viscount/" style="color: #315fea; text-decoration: none;">Ingenium / Canada Aviation and Space Museum — Vickers 757 Viscount</a>.
 4. <a href="https://airandspace.si.edu/collection-objects/engine-rolls-royce-dart-mk-510-turboprop-engine/nasm_A19690276000" style="color: #315fea; text-decoration: none;">National Air and Space Museum — Rolls-Royce Dart Mk. 510 Turboprop Engine</a>.
 5. <a href="https://pimaair.org/designation/744/" style="color: #315fea; text-decoration: none;">Pima Air & Space Museum — Vickers Viscount Model 744</a>.
-6. Borrador preliminar del investigador: «Vickers Viscount, primer turbohélice comercial».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La efeméride del 28 de julio de 1950 conmemora el inicio de los vuelos de familiarización con pasajeros después de la certificación del prototipo. El primer vuelo regular de pasajeros de un avión turbohélice se realizó al día siguiente, el 29 de julio, entre Londres-Northolt y París-Le Bourget. El vuelo regular sostenido con Viscount de producción comenzó con British European Airways en 1953. La imagen muestra un Viscount 700 posterior, operado por BEA en 1953, y no el prototipo G-AHRF del hito de 1950.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-23 17:31:18 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Royal Aviation Museum of Western Canada, Ingenium / Canada Aviation and Space Museum, National Air and Space Museum y Pima Air & Space Museum.  
-- **Fuentes secundarias de contraste:** Vickers Viscount Network, Borrador preliminar del investigador y fuentes históricas de aviación comercial consultadas.  
+- **Fuentes secundarias de contraste:** Vickers Viscount Network y fuentes históricas de aviación comercial consultadas.  
 - **Discrepancias resueltas:** Se distinguió el certificado de aeronavegabilidad del 27 de julio, los vuelos de familiarización del 28 de julio y el primer vuelo regular de pasajeros del 29 de julio de 1950; se evitó presentar el 28 de julio como el primer servicio regular.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

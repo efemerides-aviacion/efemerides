@@ -15,7 +15,7 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1918-01-05-nacimiento-masamitsu-yoshioka.webp" alt="Masamitsu Yoshioka">
   <figcaption class="post-caption">Masamitsu Yoshioka, navegante y bombardero de un torpedero Nakajima B5N2 “Kate” de la Armada Imperial Japonesa que participó en el ataque a Pearl Harbor, fotografiado durante la Segunda Guerra Mundial. Infobae / Sandglass Patrol / El Debate.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ redirect_from:
         Masamitsu Yoshioka nació el 5 de enero de 1918 y participó como navegante del Nakajima B5N “Kate” lanzado desde el portaaviones Sōryū en la primera oleada contra Pearl Harbor. Reconocido como el último superviviente japonés del ataque, falleció a los 106 años en 2024.
     </p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos biográficos y eventos
 - **Fecha de nacimiento:** 5 de enero de 1918.
@@ -32,7 +32,7 @@ redirect_from:
 - **Servicio militar/profesional:** Ingreso en la Armada Imperial (1930s) [NO CONFIRMADO: año exacto pendiente de documento primario].
 - **Fecha de fallecimiento:** 28 de agosto de 2024; 106 años.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 El ataque a Pearl Harbor transformó la guerra en el Pacífico y aceleró la entrada de Estados Unidos en la Segunda Guerra Mundial. La aviación embarcada y la doctrina de portaviones sustituyeron al acorazado como eje estratégico.
@@ -62,23 +62,23 @@ El ataque a Pearl Harbor transformó la guerra en el Pacífico y aceleró la ent
 - Obituarios y crónicas lo recogen como testigo de un punto de inflexión histórico.  
 - Su figura sirve para abordar memoria, responsabilidad y educación histórica [NO CONFIRMADO: citas textuales específicas pendientes de verificación primaria].
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://blog.sandglasspatrol.com/masamitsu-yoshioka-el-ultimo-atacante-de-pearl-harbor-muere-a-los-106-anos/">Sandglass Patrol (síntesis y obituario)</a></li>
-    <li><a href="https://japan-forward.com/interview-masamitsu-yoshioka-105-on-what-happened-in-the-skies-over-honolulu/">Japan Forward (entrevista a los 105 años)</a></li>
-    <li><a href="https://www.warhistoryonline.com/news/masamitsu-yoshioka-death.html">War History Online (nota de fallecimiento)</a></li>
-    <li><a href="https://www.eldebate.com/obituarios/20240903/ultimo-superviviente-ataque-pearl-harbor_224003.html">El Debate (obituario y contexto)</a></li>
-    <li><a href="https://www.infobae.com/wapo/2024/09/28/masamitsu-yoshioka-ultimo-miembro-de-la-fuerza-japonesa-que-ataco-pearl-harbor-murio-a-los-106-anos/">Infobae/Washington Post (síntesis internacional)</a></li>
+    <li><a href="https://blog.sandglasspatrol.com/masamitsu-yoshioka-el-ultimo-atacante-de-pearl-harbor-muere-a-los-106-anos/" style="color: #315fea; text-decoration: none;">Sandglass Patrol (síntesis y obituario)</a></li>
+    <li><a href="https://japan-forward.com/interview-masamitsu-yoshioka-105-on-what-happened-in-the-skies-over-honolulu/" style="color: #315fea; text-decoration: none;">Japan Forward (entrevista a los 105 años)</a></li>
+    <li><a href="https://www.warhistoryonline.com/news/masamitsu-yoshioka-death.html" style="color: #315fea; text-decoration: none;">War History Online (nota de fallecimiento)</a></li>
+    <li><a href="https://www.eldebate.com/obituarios/20240903/ultimo-superviviente-ataque-pearl-harbor_224003.html" style="color: #315fea; text-decoration: none;">El Debate (obituario y contexto)</a></li>
+    <li><a href="https://www.infobae.com/wapo/2024/09/28/masamitsu-yoshioka-ultimo-miembro-de-la-fuerza-japonesa-que-ataco-pearl-harbor-murio-a-los-106-anos/" style="color: #315fea; text-decoration: none;">Infobae/Washington Post (síntesis internacional)</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-03 22:35:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Entrevista publicada (Japan Forward); obituarios corroborados (El Debate; Infobae/Washington Post); repositorio histórico (War History Online); síntesis especializada (Sandglass Patrol).  
 - **Discrepancias resueltas:** Variación toponímica del lugar de nacimiento (Noto/Notomachi) [NO CONFIRMADO hasta registro municipal]; detalle del año exacto de ingreso militar [NO CONFIRMADO].  
 - **Nivel de confianza:** Alto en fechas clave (nacimiento, fallecimiento, rol en Pearl Harbor); Medio en detalles biográficos de carrera por falta de documento primario público.  

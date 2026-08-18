@@ -14,14 +14,14 @@ image: 1965-02-25-primer-vuelo-douglas-dc-9.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1965-02-25-primer-vuelo-douglas-dc-9.jpg" alt="Douglas DC‑9 prototipo N9DC en vuelo, 1965">
   <figcaption class="post-caption">Douglas DC‑9 prototipo N9DC en vuelo durante sus pruebas iniciales, poco después de su primer despegue el 25 de febrero de 1965 desde Long Beach, California. Fuente: This Day in Aviation.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 25 de febrero de 1965 tuvo lugar el primer vuelo del Douglas DC‑9, bimotor de corto/medio alcance diseñado para rutas frecuentes. El prototipo N9DC despegó de Long Beach, California, a las 11:26 a.m. pilotado por George R. Jansen y su equipo, volando 2 horas 13 minutos hasta Edwards AFB. Certificado por la FAA en noviembre, entró en servicio con Delta Air Lines en diciembre de 1965. Se construyeron 976 unidades hasta 1982, base de la exitosa familia MD‑80/90 y Boeing 717.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 25 de febrero de 1965  
 - **Lugar:** Aeropuerto de Long Beach, California → aterrizaje en Edwards AFB  
@@ -32,7 +32,7 @@ image: 1965-02-25-primer-vuelo-douglas-dc-9.jpg
 - **Producción:** 976 unidades hasta 1982; evolución en MD‑80/90 y Boeing 717  
 - **Cliente de lanzamiento:** Delta Air Lines (entrada en servicio: 8 de diciembre de 1965)  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto histórico
 El primer vuelo del Douglas DC‑9 en 1965 marcó un hito en la aviación comercial, al responder a la creciente necesidad de aviones de corto y medio alcance para rutas de alta frecuencia. Con su diseño bimotor de pasillo único y motores traseros, el DC‑9 se convirtió en un modelo emblemático de la transición hacia una aviación más accesible y eficiente, consolidando la posición de Douglas en el mercado global.
 
@@ -59,15 +59,15 @@ El DC‑9 permitió a las aerolíneas operar rutas cortas con alta frecuencia y 
 ### Legado
 Más de 2.400 aeronaves de la familia DC‑9/MD‑80 siguen operando en el mundo. El modelo es recordado como uno de los pilares de la aviación comercial moderna.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
-## Referencias verificadas
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-9">Wikipedia – McDonnell Douglas DC‑9</a></li>
-    <li><a href="https://www.thisdayinaviation.com/25-february-1965/">This Day in Aviation – First Flight Douglas DC‑9</a></li>
-    <li><a href="https://deltamuseum.org/research/history/aircraft/jets/jets/douglas-dc-9-1965-1993--2008-2014">Delta Flight Museum – Douglas DC‑9</a></li>
-    <li><a href="https://planetags.com/blogs/planetags-blog/celebrating-60-years-of-the-douglas-dc-9-a-legacy-that-endures">PlaneTags – Celebrating 60 Years of the DC‑9</a></li>
-    <li><a href="https://web.archive.org/web/20150410170244/http://www.boeing.com/history/products/dc-9.page">Boeing (archived) – Historical Snapshot: DC‑9</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/McDonnell_Douglas_DC-9" style="color: #315fea; text-decoration: none;">Wikipedia – McDonnell Douglas DC‑9</a></li>
+    <li><a href="https://www.thisdayinaviation.com/25-february-1965/" style="color: #315fea; text-decoration: none;">This Day in Aviation – First Flight Douglas DC‑9</a></li>
+    <li><a href="https://deltamuseum.org/research/history/aircraft/jets/jets/douglas-dc-9-1965-1993--2008-2014" style="color: #315fea; text-decoration: none;">Delta Flight Museum – Douglas DC‑9</a></li>
+    <li><a href="https://planetags.com/blogs/planetags-blog/celebrating-60-years-of-the-douglas-dc-9-a-legacy-that-endures" style="color: #315fea; text-decoration: none;">PlaneTags – Celebrating 60 Years of the DC‑9</a></li>
+    <li><a href="https://web.archive.org/web/20150410170244/http://www.boeing.com/history/products/dc-9.page" style="color: #315fea; text-decoration: none;">Boeing (archived) – Historical Snapshot: DC‑9</a></li>
   </ul>
 </div>
 
@@ -75,9 +75,9 @@ Más de 2.400 aeronaves de la familia DC‑9/MD‑80 siguen operando en el mundo
 <p><strong>Nota aclaratoria:</strong> La “aprobación en abril de 1963” corresponde a la decisión interna de Douglas de lanzar el programa de desarrollo del DC‑9, no a una certificación de vuelo ni a su entrada en servicio.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de control
-- **Timestamp de verificación:** 2026-02-23 14:20 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, This Day in Aviation, Delta Flight Museum, Boeing Historical Snapshot  
 - **Discrepancias resueltas:** Confirmación de fecha de aprobación del programa (abril 1963) y fecha de certificación FAA (noviembre 1965).  
 - **Nivel de confianza:** Alto  

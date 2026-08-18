@@ -15,7 +15,7 @@ image: 1958-07-29-fundacion-nasa.webp
   <figcaption class="post-caption">Sello oficial de la National Aeronautics and Space Administration (NASA), agencia civil estadounidense creada por la National Aeronautics and Space Act de 1958. Fuente: <a href="https://www.nasa.gov/nasa-brand-center/brand-guidelines/" style="color: #315fea; text-decoration: none;">NASA Brand Center</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1958-07-29-fundacion-nasa.webp
 <p>La NASA no comenzó a operar ese mismo día: abrió oficialmente sus puertas el 1 de octubre de 1958, después de absorber al National Advisory Committee for Aeronautics (NACA) y transferir a la nueva organización personal, instalaciones y programas de investigación. La firma presidencial fue, por tanto, el acto jurídico fundacional de una agencia que transformaría la exploración espacial.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -39,7 +39,7 @@ image: 1958-07-29-fundacion-nasa.webp
 - **Ley pública:** Public Law 85-568.
 - **Propósito general:** coordinar la investigación aeronáutica y espacial civil de Estados Unidos con fines pacíficos y en beneficio de la humanidad.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -57,7 +57,7 @@ Estados Unidos ya contaba con una importante base de investigación aeronáutica
 
 La NASA fue concebida como una organización abierta a la investigación científica y a la cooperación, en contraste con una estructura exclusivamente militar. Su creación convirtió la exploración del espacio en un proyecto nacional visible y, posteriormente, en una empresa de alcance internacional.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -74,7 +74,7 @@ La NASA fue concebida como una organización abierta a la investigación cientí
 - **1 de octubre de 1958:** La NASA comienza oficialmente sus operaciones y absorbe los recursos principales de la NACA.
 - **Diciembre de 1958:** El Jet Propulsion Laboratory pasa a formar parte de la estructura de la NASA mediante un acuerdo con el California Institute of Technology.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -82,7 +82,7 @@ La fundación de la NASA unificó la investigación aeronáutica y espacial civi
 
 La agencia proporcionó una estructura administrativa para desarrollar el programa Mercury, los proyectos Gemini y Apollo, las misiones planetarias, los satélites científicos y numerosas investigaciones aeronáuticas. También impulsó avances en materiales, computación, comunicaciones, medicina y sistemas de soporte vital.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -90,7 +90,7 @@ La NASA se convirtió en una de las instituciones científicas y tecnológicas m
 
 El acto del 29 de julio de 1958 también estableció un modelo de agencia civil dedicada a la investigación y la exploración espacial con cooperación internacional. Más de seis décadas después, la NASA continúa vinculando la aeronáutica, la ciencia planetaria, la observación de la Tierra y la exploración humana del espacio.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
@@ -100,20 +100,19 @@ El acto del 29 de julio de 1958 también estableció un modelo de agencia civil 
 4. <a href="https://www.eisenhowerlibrary.gov/research/online-documents/early-history-and-development-national-aeronautics-and-space" style="color: #315fea; text-decoration: none;">Eisenhower Presidential Library — Early History and Development of the National Aeronautics and Space Administration</a>.
 5. <a href="https://www.archives.gov/news/topics/nasa-60th-anniversary" style="color: #315fea; text-decoration: none;">National Archives — Celebrating NASA’s 60th Anniversary</a>.
 6. <a href="https://www.visitthecapitol.gov/artifact/bill-establish-national-aeronautics-and-space-administration-june-16-1958" style="color: #315fea; text-decoration: none;">U.S. Capitol Visitor Center — Bill to Establish NASA, June 16, 1958</a>.
-7. Borrador preliminar del investigador: «Fundación de la NASA».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El 29 de julio de 1958 corresponde a la creación legal de la NASA mediante la firma de la National Aeronautics and Space Act. La agencia comenzó oficialmente sus operaciones el 1 de octubre de ese año, tras completar la transferencia de funciones y recursos de la NACA y de otros programas espaciales civiles.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-24 09:16:30 CST  
+- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA, texto original de la National Aeronautics and Space Act of 1958, Eisenhower Presidential Library, National Archives y U.S. Capitol Visitor Center.  
-- **Fuentes secundarias de contraste:** Borrador preliminar del investigador y fuentes históricas de apoyo.  
+- **Fuentes secundarias de contraste:** Fuentes históricas de apoyo.  
 - **Discrepancias resueltas:** Se distinguió la creación legal de la NASA el 29 de julio de 1958 de su inicio operativo el 1 de octubre; se presentó la NACA como organismo precursor y no como la NASA ya constituida.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
