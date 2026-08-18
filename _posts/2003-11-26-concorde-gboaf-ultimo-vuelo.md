@@ -15,14 +15,14 @@ image: 2003-11-26-concorde-gboaf-ultimo-vuelo.webp
   <figcaption class="post-caption">El 26 de noviembre de 2003, el fotógrafo Lewis Whyld tomó esta instantánea del Concorde G-BOAF en su último vuelo, sobre el puente colgante de Clifton, en Bristol, al oeste de Inglaterra. Cortesía: SWNS / Aerospace Bristol.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 26 de noviembre de 2003, el Concorde G-BOAF (matrícula completa: G-BOAF, apodado "Alpha Foxtrot") de British Airways realizó su vuelo definitivo desde el aeropuerto de Heathrow (Londres) hasta el aeródromo de Filton (Bristol, Inglaterra). El vuelo, de apenas 43 minutos de duración, supuso la retirada completa de la flota de Concorde tras 27 años de servicio supersónico comercial. El G-BOAF fue el último Concorde construido (1979) y el último en volar, poniendo fin a una era de viajes a Mach 2 (más de 2.100 km/h) que nunca ha sido reemplazada. La aeronave se conserva actualmente en el museo Aerospace Bristol, junto a la pista donde fue ensamblada originalmente.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha del último vuelo:** 26 de noviembre de 2003
@@ -37,7 +37,7 @@ image: 2003-11-26-concorde-gboaf-ultimo-vuelo.webp
 - **Fecha del último vuelo comercial de British Airways:** 24 de octubre de 2003 (desde Nueva York JFK a Londres Heathrow, con triple aterrizaje simultáneo)
 - **Preservación actual:** Aerospace Bristol (museo), Bristol, Inglaterra, abierto al público desde 2017
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -68,7 +68,7 @@ El Concorde era un icono global. Su silueta delta y su nariz abatible ("droop-sn
 - **2003, 26 de noviembre, 12:13 UTC:** Aterrizaje en el aeródromo de Filton, Bristol, ante una multitud de trabajadores, ex trabajadores y entusiastas.
 - **2017:** El G-BOAF se exhibe permanentemente en el museo Aerospace Bristol, situado junto a la pista de Filton.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -77,24 +77,24 @@ El Concorde era un icono global. Su silueta delta y su nariz abatible ("droop-sn
 - **Impacto museístico:** El G-BOAF, junto con otros Concorde preservados en museos del mundo (EE.UU., Francia, Reino Unido, Alemania), educa a nuevas generaciones sobre la ingeniería aeronáutica de vanguardia.
 - **Turismo y nostalgia:** El último vuelo generó una enorme cobertura mediática. La fotografía de Lewis Whyld sobre el puente de Clifton se convirtió en una imagen icónica.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
 El Concorde G-BOAF es una pieza central del museo **Aerospace Bristol**, que abrió sus puertas en 2017. El museo está ubicado en el histórico aeródromo de Filton, donde el Concorde fue ensamblado originalmente. La aeronave se puede visitar y su interior ha sido restaurado. El vuelo del 26 de noviembre de 2003 es recordado anualmente por entusiastas de la aviación. Aunque han pasado más de dos décadas, el Concorde sigue siendo el estándar dorado de la velocidad comercial, y su retiro dejó un vacío que aún no se ha llenado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.bbc.com/news/uk-25250584">BBC News – Concorde: The final flight (26 noviembre 2013)</a></li>
-    <li><a href="https://www.telegraph.co.uk/travel/news/two-decades-on-concorde-still-captivates-obsessives-like-me/">The Telegraph – Concorde’s 20th anniversary of final flight (26 noviembre 2023)</a></li>
-    <li><a href="https://aerospacebristol.org/last-concorde">Aerospace Bristol – Concorde G-BOAF (Alpha Foxtrot)</a></li>
-    <li><a href="https://www.britishairways.com/en-gb/information/about-ba/history/10-years-since-concorde-retired">British Airways – 10 years since Concorde retired</a></li>
-    <li><a href="https://www.britannica.com/technology/Concorde">Britannica – Concorde</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Concorde">Wikipedia (EN) – Concorde</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Concorde_aircraft_G-BOAF">Wikipedia (EN) – Concorde G-BOAF</a></li>
+    <li><a href="https://www.bbc.com/news/uk-25250584" style="color: #315fea; text-decoration: none;">BBC News – Concorde: The final flight (26 noviembre 2013)</a></li>
+    <li><a href="https://www.telegraph.co.uk/travel/news/two-decades-on-concorde-still-captivates-obsessives-like-me/" style="color: #315fea; text-decoration: none;">The Telegraph – Concorde’s 20th anniversary of final flight (26 noviembre 2023)</a></li>
+    <li><a href="https://aerospacebristol.org/last-concorde" style="color: #315fea; text-decoration: none;">Aerospace Bristol – Concorde G-BOAF (Alpha Foxtrot)</a></li>
+    <li><a href="https://www.britishairways.com/en-gb/information/about-ba/history/10-years-since-concorde-retired" style="color: #315fea; text-decoration: none;">British Airways – 10 years since Concorde retired</a></li>
+    <li><a href="https://www.britannica.com/technology/Concorde" style="color: #315fea; text-decoration: none;">Britannica – Concorde</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Concorde" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Concorde</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Concorde_aircraft_G-BOAF" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Concorde G-BOAF</a></li>
   </ul>
 </div>
 
@@ -102,10 +102,10 @@ El Concorde G-BOAF es una pieza central del museo **Aerospace Bristol**, que abr
   <p><strong>Nota aclaratoria:</strong> El vuelo del 26 de noviembre de 2003 fue un vuelo de traslado (ferry flight) subsónico, no supersónico, y no transportó pasajeros. El último vuelo comercial supersónico con pasajeros de British Airways ocurrió el 24 de octubre de 2003 (Nueva York–Londres). El G-BOAF participó en esa fecha con un vuelo chárter especial. La fotografía sobre el puente de Clifton fue tomada por Lewis Whyld, entonces un aprendiz de fotógrafo de 19 años, y se ha convertido en una de las imágenes más emblemáticas del retiro del Concorde. La matrícula completa es G-BOAF, sin guiones adicionales. No se ha podido confirmar la lista completa de pilotos en el vuelo final, más allá del Capitán Mike Bannister.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-03 11:15 UTC
+- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
 - **Fuentes primarias consultadas:** BBC News, The Telegraph, Aerospace Bristol, British Airways, Britannica, Wikipedia (EN, Concorde y G-BOAF)
 - **Discrepancias resueltas:** Se ha confirmado que el G-BOAF es el último Concorde construido (serie 216) y el último en volar. Se ha diferenciado claramente entre el último vuelo comercial (24 de octubre de 2003) y el último vuelo de traslado (26 de noviembre de 2003). No se ha podido confirmar la tripulación completa del vuelo final, por lo que se omite o se marca como [NO CONFIRMADO].
 - **Nivel de confianza:** Alto

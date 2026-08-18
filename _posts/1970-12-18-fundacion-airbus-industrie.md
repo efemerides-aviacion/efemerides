@@ -14,14 +14,14 @@ image: 1970-12-18-fundacion-airbus-industrie.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1970-12-18-fundacion-airbus-industrie.webp" alt="Historia gráfica de los logos de Airbus Industrie">
   <figcaption class="post-caption">Historia gráfica de los logos que han representado a Airbus Industrie desde su fundación en 1970 hasta el presente.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 18 de diciembre de 1970 se constituyó Airbus Industrie bajo la figura jurídica de un Groupement d’Intérêt Économique (GIE). Esta alianza franco-alemana, a la que se unirían España y el Reino Unido, nació para desafiar el dominio estadounidense en el mercado de aviones comerciales. Su primer proyecto, el Airbus A300, introdujo el concepto de fuselaje ancho bimotor.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 - **Fecha:** 18 de diciembre de 1970  
@@ -33,7 +33,7 @@ image: 1970-12-18-fundacion-airbus-industrie.webp
 - **Primer modelo en desarrollo:** Airbus A300B  
 - **Participación de España:** incorporación en 1971 a través de CASA (4,2% de participación)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -65,33 +65,33 @@ Airbus rompió el monopolio estadounidense y estableció un nuevo modelo de coop
 ### Legado
 Airbus es hoy uno de los dos grandes fabricantes de aviones comerciales del mundo. En 2001, el consorcio GIE se transformó en Airbus S.A.S., una sociedad anónima integrada, y en 2017 adoptó la estructura de Airbus SE. Su fundación en 1970 es considerada el inicio de la cooperación aeroespacial europea moderna.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/History_of_Airbus">Wikipedia (EN) – History of Airbus</a></li>
-    <li><a href="https://beta.manilatimes.net/2019/06/03/public-square/airbus-celebrates-50-years-of-pioneering-progress/563849">The Manila Times – Airbus celebrates 50 years of pioneering progress</a></li>
-    <li><a href="https://www.airwaysmag.com/new-post/airbus-industrie-becomes-gie">Airways Magazine – 12/18/1970: Airbus Becomes an Economic Interest Group</a></li>
-    <li><a href="https://www.avweb.com/aviation-news/airbus-celebrates-50-years/">AVweb – Airbus Celebrates 50 Years</a></li>
-    <li><a href="https://www.referenceforbusiness.com/history2/75/G-I-E-Airbus-Industrie.html">Reference for Business – G.I.E. Airbus Industrie Company Profile</a></li>
-    <li><a href="https://www.nhregister.com/business/boeing/article/Airbus-first-jet-marks-40-years-in-service-5471828.php">New Haven Register – Airbus' first jet marks 40 years in service</a></li>
-    <li><a href="https://www.archivesportaleurope.net/blog/airbus-a300-50th-anniversary/">Archives Portal Europe – Airbus A300 50th anniversary</a></li>
-    <li><a href="https://www.britannica.com/technology/aerospace-industry/Cooperation-and-consolidation-in-a-global-economy">Britannica – Aerospace industry: Cooperation and consolidation</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/History_of_Airbus" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – History of Airbus</a></li>
+    <li><a href="https://beta.manilatimes.net/2019/06/03/public-square/airbus-celebrates-50-years-of-pioneering-progress/563849" style="color: #315fea; text-decoration: none;">The Manila Times – Airbus celebrates 50 years of pioneering progress</a></li>
+    <li><a href="https://www.airwaysmag.com/new-post/airbus-industrie-becomes-gie" style="color: #315fea; text-decoration: none;">Airways Magazine – 12/18/1970: Airbus Becomes an Economic Interest Group</a></li>
+    <li><a href="https://www.avweb.com/aviation-news/airbus-celebrates-50-years/" style="color: #315fea; text-decoration: none;">AVweb – Airbus Celebrates 50 Years</a></li>
+    <li><a href="https://www.referenceforbusiness.com/history2/75/G-I-E-Airbus-Industrie.html" style="color: #315fea; text-decoration: none;">Reference for Business – G.I.E. Airbus Industrie Company Profile</a></li>
+    <li><a href="https://www.nhregister.com/business/boeing/article/Airbus-first-jet-marks-40-years-in-service-5471828.php" style="color: #315fea; text-decoration: none;">New Haven Register – Airbus' first jet marks 40 years in service</a></li>
+    <li><a href="https://www.archivesportaleurope.net/blog/airbus-a300-50th-anniversary/" style="color: #315fea; text-decoration: none;">Archives Portal Europe – Airbus A300 50th anniversary</a></li>
+    <li><a href="https://www.britannica.com/technology/aerospace-industry/Cooperation-and-consolidation-in-a-global-economy" style="color: #315fea; text-decoration: none;">Britannica – Aerospace industry: Cooperation and consolidation</a></li>
   </ul>
 </div>
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Algunas fuentes secundarias mencionan el acuerdo ministerial de 1969 como “fundación”, pero la constitución legal del GIE ocurrió el 18 de diciembre de 1970. La hora exacta de la firma no pudo ser verificada. El Reino Unido se retiró del proyecto en abril de 1969, pero Hawker Siddeley (posteriormente British Aerospace) continuó como subcontratista para la fabricación de las alas hasta incorporarse como socio de pleno derecho en 1979.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-28 12:00:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (History of Airbus), Airways Magazine, Reference for Business, Britannica, AVweb  
 - **Discrepancias resueltas:** Diferencia entre acuerdo ministerial de 1969 y constitución legal en 1970; se ha verificado que España se incorporó en octubre de 1971 con un 4,2% de participación.  
 - **Datos no confirmados:** Hora exacta de la firma en Toulouse.  

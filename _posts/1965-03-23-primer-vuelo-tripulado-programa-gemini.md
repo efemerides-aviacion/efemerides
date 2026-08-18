@@ -80,7 +80,7 @@ La misión Gemini 3 es recordada por varios hitos:
 - **La insumergible "Molly Brown":** El apodo de la nave, aunque inicialmente controvertido, se convirtió en un símbolo del espíritu práctico y el humor de los primeros astronautas.
 - **Exhibición:** La cápsula Gemini 3 se exhibe en el National Air and Space Museum del Smithsonian Institution en Washington D.C., junto a otras naves históricas.
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el incidente del sándwich:</strong> El sándwich de carne en conserva (corned beef) introducido por John Young en la cabina de Gemini 3 causó un incidente menor que, sin embargo, tuvo consecuencias significativas. Las migas flotantes en gravedad cero podrían haber obstruido instrumentos o afectar sistemas eléctricos. La NASA y el Congreso investigaron el hecho, y a partir de entonces se implementaron normas estrictas sobre qué objetos podían llevar los astronautas en vuelos espaciales. Grissom y Young, sin embargo, no recibieron sanciones disciplinarias formales; el episodio fue tratado con humor en las entrevistas posteriores y se ha convertido en una anécdota icónica de los primeros años de la NASA.</p>
@@ -91,24 +91,24 @@ La misión Gemini 3 es recordada por varios hitos:
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Gemini_3">Wikipedia (ES) – Gemini 3</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Gemini_3">Wikipedia (EN) – Gemini 3</a></li>
-    <li><a href="https://www.nasa.gov/mission/gemini-iii/">NASA – Gemini III (página oficial misión)</a></li>
-    <li><a href="https://www.nasa.gov/history/60-years-ago-gemini-iii-americas-first-two-person-flight/">NASA – 60 años: Gemini III primer vuelo tripulado</a></li>
-    <li><a href="https://www.nasa.gov/image-article/march-23-1965-launch-of-first-crewed-gemini-flight/">NASA – Lanzamiento 23 marzo 1965 Gemini 3</a></li>
-    <li><a href="https://www.nasa.gov/gallery/gemini-iii/">NASA – Galería Gemini III</a></li>
-    <li><a href="https://laopinion.com/2022/03/23/nasa-gemini-3-la-primera-nave-con-2-astronautas/">La Opinión – NASA Gemini 3 primera nave 2 astronautas</a></li>
-    <li><a href="https://www.spaceline.org/united-states-manned-space-flight/gemini-mission-program-index/gemini-3-fact-sheet/">Spaceline – Gemini 3 Fact Sheet</a></li>
-    <li><a href="https://eduardogarciallama.lanasa.net/historias-de-viajeros/2015/04/10/gemini-3-la-insumergible-molly-brown/index.html">Eduardo García Llama – Gemini 3 la insumergible Molly Brown</a></li>
-    <li><a href="https://www.si.edu/object/capsule-gemini-3:nasm_A19710063000">Smithsonian – Cápsula Gemini 3</a></li>
-    <li><a href="https://www.clarin.com/estados-unidos/gemini-iii-primer-vuelo-nasa-personas_0_pCHMu8SlEN.html">Clarín – Gemini III, el primer vuelo de la NASA de dos personas</a></li>
-    <li><a href="https://www.nasa.gov/wp-content/uploads/2026/01/gt03-pao.pdf?emrc=8fee68">NASA – Transcripción no oficial de la misión Gemini-Titan 3 (23 mar 1965)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Gemini_3" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Gemini 3</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Gemini_3" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Gemini 3</a></li>
+    <li><a href="https://www.nasa.gov/mission/gemini-iii/" style="color: #315fea; text-decoration: none;">NASA – Gemini III (página oficial misión)</a></li>
+    <li><a href="https://www.nasa.gov/history/60-years-ago-gemini-iii-americas-first-two-person-flight/" style="color: #315fea; text-decoration: none;">NASA – 60 años: Gemini III primer vuelo tripulado</a></li>
+    <li><a href="https://www.nasa.gov/image-article/march-23-1965-launch-of-first-crewed-gemini-flight/" style="color: #315fea; text-decoration: none;">NASA – Lanzamiento 23 marzo 1965 Gemini 3</a></li>
+    <li><a href="https://www.nasa.gov/gallery/gemini-iii/" style="color: #315fea; text-decoration: none;">NASA – Galería Gemini III</a></li>
+    <li><a href="https://laopinion.com/2022/03/23/nasa-gemini-3-la-primera-nave-con-2-astronautas/" style="color: #315fea; text-decoration: none;">La Opinión – NASA Gemini 3 primera nave 2 astronautas</a></li>
+    <li><a href="https://www.spaceline.org/united-states-manned-space-flight/gemini-mission-program-index/gemini-3-fact-sheet/" style="color: #315fea; text-decoration: none;">Spaceline – Gemini 3 Fact Sheet</a></li>
+    <li><a href="https://eduardogarciallama.lanasa.net/historias-de-viajeros/2015/04/10/gemini-3-la-insumergible-molly-brown/index.html" style="color: #315fea; text-decoration: none;">Eduardo García Llama – Gemini 3 la insumergible Molly Brown</a></li>
+    <li><a href="https://www.si.edu/object/capsule-gemini-3:nasm_A19710063000" style="color: #315fea; text-decoration: none;">Smithsonian – Cápsula Gemini 3</a></li>
+    <li><a href="https://www.clarin.com/estados-unidos/gemini-iii-primer-vuelo-nasa-personas_0_pCHMu8SlEN.html" style="color: #315fea; text-decoration: none;">Clarín – Gemini III, el primer vuelo de la NASA de dos personas</a></li>
+    <li><a href="https://www.nasa.gov/wp-content/uploads/2026/01/gt03-pao.pdf?emrc=8fee68" style="color: #315fea; text-decoration: none;">NASA – Transcripción no oficial de la misión Gemini-Titan 3 (23 mar 1965)</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-21 12:15:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
 - **Fuentes primarias consultadas:** NASA (página oficial, galerías, transcripciones), Wikipedia (ES/EN), Smithsonian, Spaceline, medios generales  
 - **Discrepancias resueltas:** Se aclaró en nota específica el incidente del sándwich y sus consecuencias reglamentarias, sin controversias mayores en los datos técnicos.  
 - **Nivel de confianza:** Alto  

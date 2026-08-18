@@ -12,7 +12,7 @@ image: 1971-03-26-primer-vuelo-casa-c122.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1971-03-26-primer-vuelo-casa-c122.webp" alt="Primer prototipo del CASA C-212 Aviocar">
-  <figcaption class="post-caption">El primer prototipo del C-212 en el Museo del Aire de Cuatro Vientos. Durante los años 70 y 80 el INTA usó de manera permanente los dos prototipos en el escuadrón 406 de ensayos en vuelo de Torrejón. Fuente: <a href="https://es.wikipedia.org/wiki/CASA_C-212_Aviocar#/media/Archivo:C-212_prototipo.JPG">Wikipedia (ES) – CASA C‑212 Aviocar</a>.</figcaption>
+  <figcaption class="post-caption">El primer prototipo del C-212 en el Museo del Aire de Cuatro Vientos. Durante los años 70 y 80 el INTA usó de manera permanente los dos prototipos en el escuadrón 406 de ensayos en vuelo de Torrejón. Fuente: <a href="https://es.wikipedia.org/wiki/CASA_C-212_Aviocar#/media/Archivo:C-212_prototipo.JPG" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – CASA C‑212 Aviocar</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
@@ -70,25 +70,25 @@ El primer vuelo de 1971 marcó el inicio de una historia de éxito que trasciend
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/CASA_C-212_Aviocar">Wikipedia (EN) – CASA C‑212 Aviocar</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/CASA_C-212_Aviocar">Wikipedia (ES) – CASA C‑212 Aviocar</a></li>
-    <li><a href="https://www.defensa.com/espana/mitico-avion-espanol-c-212-aviocar-cumple-50-anos">Defensa.com – El mítico avión español C‑212 Aviocar cumple 50 años</a></li>
-    <li><a href="https://www.historiaytecnologia.com/el-exito-del-c212/">Historia y Tecnología – El éxito del C‑212</a></li>
-    <li><a href="https://www.aviastar.org/air/spain/casa_aviocar.php?p=2">Aviastar.org – CASA C‑212 Aviocar</a></li>
-    <li><a href="https://www.airhistory.net/photo/563885/TM-12D-72">AirHistory.net – CASA C‑212‑200ECM Aviocar TR‑12D (EW)</a></li>
-    <li><a href="https://airplane-pictures.net/photo/1090595/t-12d-74-spain-air-force-casa-c-212-aviocar/">Airplane‑Pictures.net – Spain Air Force Casa C‑212 Aviocar T‑12D‑74</a></li>
-    <li><a href="http://www.aerialvisuals.ca/AirframeDossier.php?Serial=28339">AerialVisuals – Airframe Dossier CASA C‑212‑010 XT.12‑1</a></li>
-    <li><a href="https://www.volavi.co/aviacion/aviones/casa-c-212-aviocar">Volavi.co – CASA C‑212 Aviocar</a></li>
-    <li><a href="https://jmodels.net/de-hombres-y-maquinas/aire-air/casa-c-212/">J‑Models – CASA C‑212</a></li>
-    <li><a href="https://skybrary.aero/aircraft/c212">SKYbrary Aviation Safety – CASA C‑212 Aviocar</a></li>
-    <li><a href="https://www.amilarg.com.ar/casa-212.html">AMILARG – CASA 212</a></li>
-    <li><a href="https://sites.google.com/site/c212ala37/home/aviones-del-ala-37/c-212-aviocar">C‑212 Ala‑37 – C‑212 Aviocar en el Ejército del Aire español</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/CASA_C-212_Aviocar" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – CASA C‑212 Aviocar</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/CASA_C-212_Aviocar" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – CASA C‑212 Aviocar</a></li>
+    <li><a href="https://www.defensa.com/espana/mitico-avion-espanol-c-212-aviocar-cumple-50-anos" style="color: #315fea; text-decoration: none;">Defensa.com – El mítico avión español C‑212 Aviocar cumple 50 años</a></li>
+    <li><a href="https://www.historiaytecnologia.com/el-exito-del-c212/" style="color: #315fea; text-decoration: none;">Historia y Tecnología – El éxito del C‑212</a></li>
+    <li><a href="https://www.aviastar.org/air/spain/casa_aviocar.php?p=2" style="color: #315fea; text-decoration: none;">Aviastar.org – CASA C‑212 Aviocar</a></li>
+    <li><a href="https://www.airhistory.net/photo/563885/TM-12D-72" style="color: #315fea; text-decoration: none;">AirHistory.net – CASA C‑212‑200ECM Aviocar TR‑12D (EW)</a></li>
+    <li><a href="https://airplane-pictures.net/photo/1090595/t-12d-74-spain-air-force-casa-c-212-aviocar/" style="color: #315fea; text-decoration: none;">Airplane‑Pictures.net – Spain Air Force Casa C‑212 Aviocar T‑12D‑74</a></li>
+    <li><a href="http://www.aerialvisuals.ca/AirframeDossier.php?Serial=28339" style="color: #315fea; text-decoration: none;">AerialVisuals – Airframe Dossier CASA C‑212‑010 XT.12‑1</a></li>
+    <li><a href="https://www.volavi.co/aviacion/aviones/casa-c-212-aviocar" style="color: #315fea; text-decoration: none;">Volavi.co – CASA C‑212 Aviocar</a></li>
+    <li><a href="https://jmodels.net/de-hombres-y-maquinas/aire-air/casa-c-212/" style="color: #315fea; text-decoration: none;">J‑Models – CASA C‑212</a></li>
+    <li><a href="https://skybrary.aero/aircraft/c212" style="color: #315fea; text-decoration: none;">SKYbrary Aviation Safety – CASA C‑212 Aviocar</a></li>
+    <li><a href="https://www.amilarg.com.ar/casa-212.html" style="color: #315fea; text-decoration: none;">AMILARG – CASA 212</a></li>
+    <li><a href="https://sites.google.com/site/c212ala37/home/aviones-del-ala-37/c-212-aviocar" style="color: #315fea; text-decoration: none;">C‑212 Ala‑37 – C‑212 Aviocar en el Ejército del Aire español</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-24 12:00:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), Defensa.com, Historia y Tecnología, Aviastar.org, HandWiki, AirHistory.net, Airplane‑Pictures.net, AerialVisuals, Volavi.co, J‑Models, SKYbrary, AMILARG, C‑212 Ala‑37  
 - **Discrepancias resueltas:** No se identificaron discrepancias; todas las fuentes coinciden en la fecha (26 de marzo de 1971), la matrícula del prototipo (XT.12-1) y el lugar (Getafe).  
 - **Nivel de confianza:** Alto  

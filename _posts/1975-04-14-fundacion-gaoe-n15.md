@@ -15,14 +15,14 @@ image: 1975-04-14-fundacion-gaoe-n15.webp
   <figcaption class="post-caption">La composición muestra un OV-10 Bronco (abajo) y un K-8W Karakorum (arriba) como representación visual de las aeronaves históricas y actuales vinculadas a la unidad. Fuente: elaboración propia con imágenes reales y referencia histórica de la FANB.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 14 de abril de 1975 se funda formalmente el Grupo Aéreo de Operaciones Especiales N° 15 (GAOE N° 15) de la Fuerza Aérea de Venezuela, conocido popularmente como “Los Furia” o “Los Potros”, con sede inicial en la Base Aérea General en Jefe Rafael Urdaneta (BARU) en Maracaibo. La unidad se creó para realizar operaciones aéreas de apoyo de combate y tareas especiales, convirtiéndose en una de las formaciones más emblemáticas de la aviación militar venezolana, operando inicialmente aviones OV-10 Bronco y posteriormente modernizando su flota con K-8W.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -35,7 +35,7 @@ image: 1975-04-14-fundacion-gaoe-n15.webp
 - **Aeronaves históricas:** North American Rockwell OV-10E Bronco
 - **Aeronaves actuales:** Hongdu K-8W Karakorum
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -53,7 +53,7 @@ La aviación militar mundial estaba transitando hacia aeronaves especializadas p
 
 La creación del GAOE N° 15 respondió a la necesidad de contar con una unidad élite dentro de la Fuerza Aérea, cuyos pilotos y personal técnico recibirían entrenamiento especializado. El espíritu de cuerpo y el orgullo por pertenecer a “Los Potros” o “Los Furia” se forjó desde sus primeros años, consolidando una identidad propia que perdura hasta hoy.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -63,7 +63,7 @@ La creación del GAOE N° 15 respondió a la necesidad de contar con una unidad 
 - **Década de 2010:** La unidad inicia la transición hacia aeronaves Hongdu K-8W Karakorum, que asumen roles de apoyo táctico y adiestramiento avanzado.
 - **14 de abril de 2025:** La Prensa de la FANB y el perfil oficial del GAOE N° 15 conmemoran el 50° aniversario de la unidad, destacando su legado operativo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -71,37 +71,37 @@ La creación del GAOE N° 15 respondió a la necesidad de contar con una unidad 
 - **Capacidad de respuesta:** La creación del grupo permitió a Venezuela disponer de una unidad especializada en apoyo de fuego y reconocimiento táctico, esencial para la seguridad fronteriza.
 - **Modernización continua:** La transición de los OV-10 Bronco a los K-8W demostró la capacidad de la unidad para adaptarse a nuevas tecnologías y mantener su relevancia operativa durante cinco décadas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
 El GAOE N° 15 es una de las unidades más emblemáticas de la aviación militar venezolana. Su longevidad (50 años cumplidos en 2025) y su capacidad de modernización lo convierten en un referente de las fuerzas especiales aéreas en América Latina. La unidad ha sido reconocida en múltiples ocasiones por su participación en ejercicios de tiro, operaciones de combate y despliegues a lo largo de la frontera occidental venezolana. Su legado perdura en la memoria institucional y en el reconocimiento de la comunidad aeronáutica nacional e internacional.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://defensabolivariana.foroactivo.com/t75-grupos-aereos-de-operaciones-especiales">Defensa Bolivariana Foroactivo - Grupo Aéreo de Operaciones Especiales N° 15</a></li>
-    <li><a href="https://www.defensa.com/venezuela/aviacion-militar-bolivariana-recibe-seis-entrenadores-k-8w">Defensa.com - Aviación Militar Bolivariana recibe seis entrenadores K-8W</a></li>
-    <li><a href="https://www.instagram.com/gaoe_n15/">Instagram GAOE N° 15 (@gaoe_n15) - Perfil oficial del grupo</a></li>
-    <li><a href="https://defensanacional.foroactivo.com/t202p795-fuerza-aerea-venezolana">Defensa Nacional Foroactivo - Fuerza Aérea Venezolana, GAOE N° 15 "Los Furia"</a></li>
+    <li><a href="https://defensabolivariana.foroactivo.com/t75-grupos-aereos-de-operaciones-especiales" style="color: #315fea; text-decoration: none;">Defensa Bolivariana Foroactivo - Grupo Aéreo de Operaciones Especiales N° 15</a></li>
+    <li><a href="https://www.defensa.com/venezuela/aviacion-militar-bolivariana-recibe-seis-entrenadores-k-8w" style="color: #315fea; text-decoration: none;">Defensa.com - Aviación Militar Bolivariana recibe seis entrenadores K-8W</a></li>
+    <li><a href="https://www.instagram.com/gaoe_n15/" style="color: #315fea; text-decoration: none;">Instagram GAOE N° 15 (@gaoe_n15) - Perfil oficial del grupo</a></li>
+    <li><a href="https://defensanacional.foroactivo.com/t202p795-fuerza-aerea-venezolana" style="color: #315fea; text-decoration: none;">Defensa Nacional Foroactivo - Fuerza Aérea Venezolana, GAOE N° 15 "Los Furia"</a></li>
   </ul>
 </div>
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Las publicaciones originales de Facebook e Instagram que se incluían en el bloque de referencias original no se encuentran accesibles al momento de la verificación (enlaces rotos o publicaciones eliminadas). Solo se han mantenido las referencias verificadas como activas. El perfil oficial de Instagram del GAOE N° 15 (@gaoe_n15) continúa activo y constituye una fuente primaria de información institucional.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-11 14:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
 - **Fuentes primarias consultadas:** Defensa Bolivariana Foroactivo, Defensa.com, Instagram oficial GAOE N° 15, Defensa Nacional Foroactivo
 - **Discrepancias resueltas:** Los enlaces de Facebook e Instagram originalmente proporcionados se verificaron y resultaron inaccesibles (publicaciones eliminadas o perfiles no disponibles). Se optó por mantener únicamente las referencias funcionales.
 - **Nivel de confianza:** Medio (las fuentes disponibles son principalmente foros y redes sociales; no se encontraron documentos oficiales de la Fuerza Aérea Venezolana que confirmen la fecha con documentación primaria)

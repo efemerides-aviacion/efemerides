@@ -15,14 +15,14 @@ image: 1895-04-21-nacimiento-carlos-meyer-baldo.webp
   <figcaption class="post-caption">Carlos Otto Meyer Baldó (Maracaibo, 21 de abril de 1895 – Maracay, 27 de noviembre de 1933), pionero de la aviación venezolana y as de caza en la Primera Guerra Mundial. Fuente: Wikipedia / EcuRed / Aviación Civil Venezuela.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2ecc71, #27ae60);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Carlos Otto Meyer Baldó nació en Maracaibo el 21 de abril de 1895 y se convirtió en una figura clave de la aviación venezolana. Su trayectoria destacó por su servicio como as de caza en la Primera Guerra Mundial, donde integró el legendario Escuadrón Jasta 11 del "Circo Volante" comandado por Manfred von Richthofen, el Barón Rojo, y por su papel como uno de los fundadores de la Fuerza Aérea Venezolana. Con cuatro derribos confirmados y varios no confirmados, Meyer Baldó es reconocido como el único piloto venezolano en alcanzar el estatus de as de la aviación durante la Gran Guerra.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2ecc71, #27ae60);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -39,7 +39,7 @@ image: 1895-04-21-nacimiento-carlos-meyer-baldo.webp
 - **Condecoraciones:** Cruz de Hierro (2.ª Clase), Cruz de Hierro (1.ª Clase), Cruz Hanseática (versión Hamburgo), Copa de Honor al Vencedor de Combates Aéreos
 - **Papel en Venezuela:** Inspector e instructor de la Fuerza Aérea Venezolana (desde 1931, con el grado de Teniente)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2ecc71, #27ae60);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -78,7 +78,7 @@ La figura del "as de la aviación" nació durante la Primera Guerra Mundial. Pil
 - **1931:** Ingresa a la Aviación Militar Venezolana como inspector e instructor, con el rango de teniente.
 - **27 de noviembre de 1933:** Fallece en un accidente aéreo en Maracay mientras realizaba acrobacias en un biplano Stearman C-3B.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2ecc71, #27ae60);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Trayectoria en la Primera Guerra Mundial
 
@@ -113,7 +113,7 @@ Además, se le atribuyen tres derribos no confirmados y un derribo compartido co
 
 Meyer Baldó pintó en el fuselaje de su Fokker D.VII la figura de un perro babeante (un boxer), como un gesto desafiante hacia sus enemigos. Esta imagen se ha convertido en un símbolo asociado a su leyenda.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2ecc71, #27ae60);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Regreso a Venezuela y fundación de la Fuerza Aérea
 
@@ -131,7 +131,7 @@ En un evento social, Meyer conoció a **Florencio Gómez Núñez**, hijo del dic
 
 A pesar de las objeciones de algunos sectores militares (que veían con recelo su pasado al servicio de una potencia extranjera), Meyer ingresó a la recién creada Aviación Militar Venezolana en 1931, con el rango de **teniente**. Fue enviado a Estados Unidos para actualizar sus conocimientos y, a su regreso, se desempeñó como inspector e instructor de vuelo en Maracay.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2ecc71, #27ae60);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Muerte y legado
 
@@ -152,34 +152,34 @@ El legado de Carlos Meyer Baldó perdura en Venezuela a través de múltiples re
 
 Meyer Baldó es recordado como el único venezolano que combatió como as de caza en la Primera Guerra Mundial y como uno de los pioneros fundamentales de la aviación militar en Venezuela.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2ecc71, #27ae60);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las victorias aéreas:</strong> Existe una discrepancia entre las fuentes consultadas sobre el número exacto de derribos confirmados de Carlos Meyer Baldó. La Wikipedia en español y la BBC mencionan <strong>4 victorias confirmadas y 3 no confirmadas</strong> (total 7), mientras que otras fuentes indican un número menor. En esta efeméride se han priorizado los datos de la Wikipedia en español y de la BBC por ser las fuentes más detalladas y consistentes.</p>
 <p><strong>Sobre su nombre y rango:</strong> Aunque su nombre de pila registrado al nacer fue Carlos Otto, fue bautizado como Karl Otto en la Iglesia Santa Lucía de Maracaibo el 24 de abril de 1896. Ambas variantes son utilizadas en las fuentes históricas. En cuanto a su rango en la Fuerza Aérea Venezolana, Meyer Baldó ingresó como <strong>teniente</strong>, no como capitán, como lo indican algunas fuentes. Por eso la Orden al Mérito Aeronáutico lleva el grado de Teniente.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2ecc71, #27ae60);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Carlos_Meyer_Bald%C3%B3">Wikipedia (ES) - Carlos Meyer Baldó</a></li>
-    <li><a href="https://www.bbc.com/mundo/articles/c6ppg3e7keko">BBC Mundo - Carlos Meyer Baldó, el piloto venezolano que voló bajo las órdenes del "Barón Rojo"</a></li>
-    <li><a href="https://www.ecured.cu/Carlos_Meyer_Bald%C3%B3">EcuRed - Carlos Meyer Baldó</a></li>
-    <li><a href="https://www.aviacioncivil.com.ve/carlos-meyer-karl-meyer-nuestro-piloto-que-participo-en-la-primera-guerra-mundial/">Aviación Civil Venezuela - Carlos Meyer Baldó, nuestro piloto que participó en la Primera Guerra Mundial</a></li>
-    <li><a href="https://venezolanosilustres.com/secciones/homenaje/icono-de-la-aviacion-venezolana-carlos-meyer-baldo/">Venezolanos Ilustres - Ícono de la aviación venezolana: Carlos Meyer Baldó</a></li>
-    <li><a href="https://www.earlyaviators.com/ebaldo.htm">Early Birds of Aviation - Carlos Meyer Baldó</a></li>
-    <li><a href="https://condecoracionesdevenezuela.com/aviacion-condecoracion-tte-meyer-baldo/">Condecoraciones de Venezuela - Orden al Mérito Aeronáutico Teniente Carlos Meyer Baldó</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Carlos_Meyer_Bald%C3%B3" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Carlos Meyer Baldó</a></li>
+    <li><a href="https://www.bbc.com/mundo/articles/c6ppg3e7keko" style="color: #315fea; text-decoration: none;">BBC Mundo - Carlos Meyer Baldó, el piloto venezolano que voló bajo las órdenes del "Barón Rojo"</a></li>
+    <li><a href="https://www.ecured.cu/Carlos_Meyer_Bald%C3%B3" style="color: #315fea; text-decoration: none;">EcuRed - Carlos Meyer Baldó</a></li>
+    <li><a href="https://www.aviacioncivil.com.ve/carlos-meyer-karl-meyer-nuestro-piloto-que-participo-en-la-primera-guerra-mundial/" style="color: #315fea; text-decoration: none;">Aviación Civil Venezuela - Carlos Meyer Baldó, nuestro piloto que participó en la Primera Guerra Mundial</a></li>
+    <li><a href="https://venezolanosilustres.com/secciones/homenaje/icono-de-la-aviacion-venezolana-carlos-meyer-baldo/" style="color: #315fea; text-decoration: none;">Venezolanos Ilustres - Ícono de la aviación venezolana: Carlos Meyer Baldó</a></li>
+    <li><a href="https://www.earlyaviators.com/ebaldo.htm" style="color: #315fea; text-decoration: none;">Early Birds of Aviation - Carlos Meyer Baldó</a></li>
+    <li><a href="https://condecoracionesdevenezuela.com/aviacion-condecoracion-tte-meyer-baldo/" style="color: #315fea; text-decoration: none;">Condecoraciones de Venezuela - Orden al Mérito Aeronáutico Teniente Carlos Meyer Baldó</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2ecc71, #27ae60);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-19 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES), BBC Mundo, EcuRed, Aviación Civil Venezuela, Early Birds of Aviation, Condecoraciones de Venezuela
 - **Discrepancias resueltas:** Se ha aclarado la diferencia en el número de victorias aéreas confirmadas (4 según fuentes principales, con 3 adicionales no confirmadas). También se ha precisado la variación en su nombre de pila (Carlos / Karl). La fecha de nacimiento (21 de abril de 1895) es consistente en todas las fuentes. Se ha corregido el rango de Meyer en la Fuerza Aérea Venezolana (teniente, no capitán), explicando por qué la condecoración lleva ese grado.
 - **Nivel de confianza:** Alto

@@ -14,15 +14,15 @@ redirect_from:
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1912-03-29-nacimiento-hanna-reitsch.webp" alt="Hanna Reitsch con uniforme de la Luftwaffe">
-  <figcaption class="post-caption">Hanna Reitsch con la Cruz de Hierro y distintivo de aviadora de la Luftwaffe, circa 1941. Fuente: <a href="https://www.ecured.cu/Hanna_Reitsch">EcuRed</a>.</figcaption>
+  <figcaption class="post-caption">Hanna Reitsch con la Cruz de Hierro y distintivo de aviadora de la Luftwaffe, circa 1941. Fuente: <a href="https://www.ecured.cu/Hanna_Reitsch" style="color: #315fea; text-decoration: none;">EcuRed</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Hanna Reitsch, nacida el 29 de marzo de 1912 en Hirschberg (hoy Jelenia Góra, Polonia), fue la primera piloto de helicóptero y una de las primeras mujeres piloto de pruebas en Alemania. Rompió más de 40 récords mundiales en planeadores y aviones motorizados. Durante la Segunda Guerra Mundial probó prototipos para la Luftwaffe, incluyendo el caza cohete Me 163 Komet y la bomba volante V-1 en vuelo tripulado. Es la única mujer condecorada con la Cruz de Hierro de 1.ª Clase.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 29 de marzo de 1912
@@ -37,7 +37,7 @@ redirect_from:
   - Primera mujer en alcanzar el rango de Capitán de Vuelo (Flugkapitän)
 - **Aeronaves notables:** Fw 61, Me 163 Komet, Me 262, V-1 (Fieseler Fi 103), Fa 61 (autogiro)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -91,23 +91,23 @@ El régimen nazi explotó la figura de Reitsch como símbolo de la «mujer alema
 
 Hanna Reitsch es recordada como una de las aviadoras más audaces y técnicamente competentes del siglo XX. Su contribución al desarrollo de la aviación —especialmente en alas rotatorias, vuelo cohete y sistemas no tripulados— fue pionera. Sin embargo, su legado sigue siendo controvertido debido a su adhesión al nacionalsocialismo. Numerosos documentales y libros han explorado su vida, destacando tanto su destreza como su ambivalencia moral.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Hanna_Reitsch">Wikipedia (ES) – Hanna Reitsch</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Hanna_Reitsch">Wikipedia (EN) – Hanna Reitsch</a></li>
-    <li><a href="https://www.britannica.com/biography/Hanna-Reitsch">Britannica – Hanna Reitsch: German aviator</a></li>
-    <li><a href="https://www.ecured.cu/Hanna_Reitsch">EcuRed – Hanna Reitsch</a></li>
-    <li><a href="https://historiasdelahistoria.com/2011/09/12/hannah-reitsch-la-aviadora-mas-atrevida">Historias de la Historia – Hannah Reitsch: la aviadora más atrevida</a></li>
-    <li><a href="http://leandroaviacion.blogspot.com/2015/03/1938-hanna-reitsch-piloto-de-vuelo-sin.html">Leandro Aviación – Hanna Reitsch: piloto de vuelo sin motor y de pruebas</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Hanna_Reitsch" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Hanna Reitsch</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Hanna_Reitsch" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Hanna Reitsch</a></li>
+    <li><a href="https://www.britannica.com/biography/Hanna-Reitsch" style="color: #315fea; text-decoration: none;">Britannica – Hanna Reitsch: German aviator</a></li>
+    <li><a href="https://www.ecured.cu/Hanna_Reitsch" style="color: #315fea; text-decoration: none;">EcuRed – Hanna Reitsch</a></li>
+    <li><a href="https://historiasdelahistoria.com/2011/09/12/hannah-reitsch-la-aviadora-mas-atrevida" style="color: #315fea; text-decoration: none;">Historias de la Historia – Hannah Reitsch: la aviadora más atrevida</a></li>
+    <li><a href="http://leandroaviacion.blogspot.com/2015/03/1938-hanna-reitsch-piloto-de-vuelo-sin.html" style="color: #315fea; text-decoration: none;">Leandro Aviación – Hanna Reitsch: piloto de vuelo sin motor y de pruebas</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-27 16:30:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), Britannica, EcuRed, Historias de la Historia, Leandro Aviación  
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha de nacimiento (29 de marzo de 1912) y en los principales hitos. Se ha aclarado que Reitsch no era miembro del Partido Nazi pero colaboró activamente con el régimen.  
 - **Nivel de confianza:** Alto  

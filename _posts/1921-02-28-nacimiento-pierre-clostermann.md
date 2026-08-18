@@ -17,14 +17,14 @@ redirect_from:
   <figcaption class="post-caption">Pierre Clostermann (1945), as francés RAF con 33 victorias y condecoraciones (Légion d'honneur, Croix de Guerre). Fuente: Bundesarchiv / IWM.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Pierre Clostermann nació el 28 de febrero de 1921 en Curitiba, Brasil, y se convirtió en el as de caza francés más célebre de la Segunda Guerra Mundial. Volando Spitfire y sobre todo Hawker Tempest en varios escuadrones de la RAF, alcanzó 33 victorias aéreas confirmadas y 5 probables según registros franceses, por lo que fue apodado “Premier chasseur de France”. Condecorado como Compagnon de la Libération, Grand’croix de la Légion d’honneur y DSO/DFC británicos, sus memorias <em>Le Grand Cirque</em> se transformaron en un clásico de la literatura aérea bélica.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 28 de febrero de 1921  
 - **Lugar:** Curitiba, Brasil (hijo de diplomático francés)  
@@ -37,7 +37,7 @@ redirect_from:
 - **Actividad posterior:** Diputado en la Asamblea Nacional francesa, ingeniero aeronáutico, escritor  
 - **Obra destacada:** <em>Le Grand Cirque</em> (The Big Show), memorias de combate aéreo  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Contexto histórico
 Pierre Clostermann encarna la contribución francesa a la aviación aliada durante la Segunda Guerra Mundial. Su trayectoria refleja tanto el compromiso de los franceses libres como la cooperación internacional en la RAF.
 
@@ -64,17 +64,17 @@ Su palmarés lo convirtió en el as francés más destacado de la guerra, y sus 
 ### Legado
 Recordado como “Premier chasseur de France”, su nombre está asociado a la tradición de la aviación de caza y a la literatura bélica de referencia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
-## Referencias verificadas
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Pierre_Clostermann">Wikipedia (EN) – Pierre Clostermann</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Pierre_Clostermann">Wikipedia (ES) – Pierre Clostermann</a></li>
-    <li><a href="https://fr.wikipedia.org/wiki/Pierre_Clostermann">Wikipédia (FR) – Pierre Clostermann</a></li>
-    <li><a href="https://escuadronfenix.org.ar/pierre-clostermann-as-de-la-segunda-guerra/">Escuadrón Fénix – Pierre Clostermann</a></li>
-    <li><a href="https://ww2aces.e-monsite.com/pages/france/pierre-clostermann.html">WWII Aces – Pierre Clostermann</a></li>
-    <li><a href="https://www.legiondhonneur.fr/sites/default/files/cg_clostermann2.pdf">Légion d'Honneur – Croix de guerre Pierre Clostermann</a></li>
-    <li><a href="https://falkeeins.blogspot.com/2019/01/clostermann-demozay-modest-and.html">FalkeEins – Clostermann & Demozay</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Pierre_Clostermann" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Pierre Clostermann</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Pierre_Clostermann" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Pierre Clostermann</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Pierre_Clostermann" style="color: #315fea; text-decoration: none;">Wikipédia (FR) – Pierre Clostermann</a></li>
+    <li><a href="https://escuadronfenix.org.ar/pierre-clostermann-as-de-la-segunda-guerra/" style="color: #315fea; text-decoration: none;">Escuadrón Fénix – Pierre Clostermann</a></li>
+    <li><a href="https://ww2aces.e-monsite.com/pages/france/pierre-clostermann.html" style="color: #315fea; text-decoration: none;">WWII Aces – Pierre Clostermann</a></li>
+    <li><a href="https://www.legiondhonneur.fr/sites/default/files/cg_clostermann2.pdf" style="color: #315fea; text-decoration: none;">Légion d'Honneur – Croix de guerre Pierre Clostermann</a></li>
+    <li><a href="https://falkeeins.blogspot.com/2019/01/clostermann-demozay-modest-and.html" style="color: #315fea; text-decoration: none;">FalkeEins – Clostermann & Demozay</a></li>
   </ul>
 </div>
 
@@ -91,9 +91,9 @@ Recordado como “Premier chasseur de France”, su nombre está asociado a la t
 </div>
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de control
-- **Timestamp de verificación:** 2026-02-26 15:35 CST  
+- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES/FR, Escuadrón Fénix, WWII Aces, Légion d'Honneur, FalkeEins  
 - **Discrepancias resueltas:** Debate sobre número de victorias (33 confirmadas + 5 probables vs. 19 RAF vs. 15–18 verificables en archivos alemanes).  
 - **Nivel de confianza:** Alto  

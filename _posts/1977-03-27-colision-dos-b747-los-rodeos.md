@@ -12,15 +12,15 @@ image: 1977-03-27-colision-dos-b747-los-rodeos.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1977-03-27-colision-dos-b747-los-rodeos.webp" alt="Representación 3D de la colisión de los Boeing 747 en Tenerife">
-  <figcaption class="post-caption">Representación en 3D de la colisión entre el Boeing 747‑206B de KLM (PH‑BUF, azul) y el Boeing 747‑121 de Pan Am (N736PA, gris) en la pista del Aeropuerto Los Rodeos (Tenerife), 27 de marzo de 1977. Fuente: <a href="https://www.xataka.com/transporte/1977-dos-boeing-747-colisionaron-aeropuerto-espana-fue-peor-accidente-aereo-historia">Xataka</a>.</figcaption>
+  <figcaption class="post-caption">Representación en 3D de la colisión entre el Boeing 747‑206B de KLM (PH‑BUF, azul) y el Boeing 747‑121 de Pan Am (N736PA, gris) en la pista del Aeropuerto Los Rodeos (Tenerife), 27 de marzo de 1977. Fuente: <a href="https://www.xataka.com/transporte/1977-dos-boeing-747-colisionaron-aeropuerto-espana-fue-peor-accidente-aereo-historia" style="color: #315fea; text-decoration: none;">Xataka</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 27 de marzo de 1977, un Boeing 747 de KLM (vuelo 4805) despegó sin autorización en niebla densa en el aeropuerto de Los Rodeos (Tenerife), colisionando con un Boeing 747 de Pan Am (vuelo 1736) que taxiaba en la misma pista. Murieron 583 personas de 644 a bordo; solo 61 sobrevivieron del Pan Am. Factores clave: malentendidos radiales, visibilidad nula y saturación por desvíos de Gran Canaria por una bomba. Cambió protocolos de aviación globales.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 - **Fecha:** 27 de marzo de 1977
@@ -30,7 +30,7 @@ image: 1977-03-27-colision-dos-b747-los-rodeos.webp
 - **Causa principal:** El capitán de KLM inició el despegue sin autorización clara mientras el Pan Am aún rodaba por la misma pista, con visibilidad reducida por niebla espesa.
 - **Impacto inmediato:** Mayor desastre aéreo de la historia civil; redefinió la seguridad operacional y las comunicaciones en cabina.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -67,24 +67,24 @@ La cultura de cabina de la época daba al capitán una autoridad casi incuestion
 
 El desastre de Tenerife se estudia en todas las escuelas de aviación como caso paradigmático de fallo en comunicación, jerarquía y gestión de recursos. Marcó un antes y después en la seguridad operacional. En Los Rodeos (hoy Aeropuerto Tenerife Norte) se instaló radar de superficie y se construyeron nuevas calles de rodaje. Existen memoriales en Tenerife, Ámsterdam y California, y el accidente ha sido documentado en series como *Segundos Catastróficos* (*Seconds from Disaster*). Cada 27 de marzo se recuerda a las 583 víctimas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.xataka.com/transporte/1977-dos-boeing-747-colisionaron-aeropuerto-espana-fue-peor-accidente-aereo-historia">Xataka – 1977: dos Boeing 747 colisionaron en el aeropuerto Los Rodeos</a></li>
-    <li><a href="https://skybrary.aero/accidents-and-incidents/b742-b741-tenerife-canary-islands-spain-1977">SKYbrary – B742 / B741, Tenerife Canary Islands Spain, 1977</a></li>
-    <li><a href="https://www.rtve.es/noticias/20170327/tragedia-rodeos-40-anos-del-mayor-accidente-historia-aviacion-civil/1511407.shtml">RTVE – La tragedia de Los Rodeos: 40 años del mayor accidente</a></li>
-    <li><a href="https://simpleflying.com/tenerife-airport-disaster/">Simple Flying – The Story Of The Tenerife Airport Disaster</a></li>
-    <li><a href="https://guanches.org/Accidente_de_Los_Rodeos">Guanches.org – Accidente de Los Rodeos</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Accidente_de_avi%C3%B3n_en_Tenerife_de_1977">Wikipedia (ES) – Accidente de avión en Tenerife de 1977</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Desastre_a%C3%A9reo_de_Tenerife">Wikipedia (ES) – Desastre aéreo de Tenerife</a></li>
+    <li><a href="https://www.xataka.com/transporte/1977-dos-boeing-747-colisionaron-aeropuerto-espana-fue-peor-accidente-aereo-historia" style="color: #315fea; text-decoration: none;">Xataka – 1977: dos Boeing 747 colisionaron en el aeropuerto Los Rodeos</a></li>
+    <li><a href="https://skybrary.aero/accidents-and-incidents/b742-b741-tenerife-canary-islands-spain-1977" style="color: #315fea; text-decoration: none;">SKYbrary – B742 / B741, Tenerife Canary Islands Spain, 1977</a></li>
+    <li><a href="https://www.rtve.es/noticias/20170327/tragedia-rodeos-40-anos-del-mayor-accidente-historia-aviacion-civil/1511407.shtml" style="color: #315fea; text-decoration: none;">RTVE – La tragedia de Los Rodeos: 40 años del mayor accidente</a></li>
+    <li><a href="https://simpleflying.com/tenerife-airport-disaster/" style="color: #315fea; text-decoration: none;">Simple Flying – The Story Of The Tenerife Airport Disaster</a></li>
+    <li><a href="https://guanches.org/Accidente_de_Los_Rodeos" style="color: #315fea; text-decoration: none;">Guanches.org – Accidente de Los Rodeos</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Accidente_de_avi%C3%B3n_en_Tenerife_de_1977" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Accidente de avión en Tenerife de 1977</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Desastre_a%C3%A9reo_de_Tenerife" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Desastre aéreo de Tenerife</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-25 15:00:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
 - **Fuentes primarias consultadas:** Xataka, SKYbrary, RTVE, Simple Flying, Guanches.org, Wikipedia  
 - **Discrepancias resueltas:** Algunas fuentes mencionan 583 fallecidos y 61 supervivientes (total 644 personas a bordo); otras cifran en 583/61 coincidentes. Se ha utilizado la cifra oficial del informe español.  
 - **Nivel de confianza:** Alto  

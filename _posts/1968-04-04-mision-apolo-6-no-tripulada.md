@@ -15,14 +15,14 @@ image: 1968-04-04-mision-apolo-6-no-tripulada.webp
   <figcaption class="post-caption">Lanzamiento del Saturn V para la misión Apolo 6 desde el Centro Espacial Kennedy, Florida, 4 de abril de 1968. Imagen publicada en NASA History, “55 Years Ago: The Flight of Apollo 6”, 4 de abril de 2023.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de abril de 1968, la NASA lanzó Apolo 6 (AS-502), la segunda prueba no tripulada del cohete Saturn V, desde el Complejo de Lanzamiento 39A del Centro Espacial Kennedy, Florida. A pesar de sufrir severas oscilaciones de tipo <em>pogo</em> (vibraciones longitudinales) y el apagado prematuro de dos motores J-2 en la segunda etapa, el vehículo demostró su capacidad de recuperación: alcanzó órbita, simuló un retorno de aborto directo y amerizó en el Pacífico tras casi 10 horas de vuelo. La misión allanó el camino para los vuelos tripulados del programa Apolo, incluido el histórico Apolo 8.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Datos verificados del evento
 - **Fecha de lanzamiento:** 4 de abril de 1968, 07:00:00 UTC (02:00 EST)
@@ -36,7 +36,7 @@ image: 1968-04-04-mision-apolo-6-no-tripulada.webp
 - **Recuperación:** Amerizaje en el océano Pacífico Norte (80 km del punto previsto); recuperado por el USS *Okinawa*
 - **Módulo de comando:** CM-020 (actualmente en exhibición en el Fernbank Science Center, Atlanta, Georgia)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Contexto Histórico
 
@@ -64,7 +64,7 @@ La NASA proyectaba una imagen de precisión técnica, pero internamente se viví
 - **+9 horas 50 minutos:** Separación del módulo de comando (CM-020) y reentrada atmosférica.
 - **21:50 UTC (16:50 EST):** Amerizaje controlada del CM en el océano Pacífico Norte, a 80 km del punto previsto. Recuperado por el USS *Okinawa*.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Consecuencias e Impacto
 
@@ -73,24 +73,24 @@ La NASA proyectaba una imagen de precisión técnica, pero internamente se viví
 - **Avances en instrumentación:** Cámaras a bordo del Saturno V capturaron las separaciones de etapas, aunque muchas fallaron. Una cámara de 70 mm en el módulo de comando fotografió la Tierra con película especial anti-niebla, proporcionando imágenes de gran valor técnico.
 - **Exhibición histórica:** El módulo de comando CM-020 se encuentra actualmente en el **Fernbank Science Center** de Atlanta, Georgia, como testimonio de la era Apolo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 
 La misión Apolo 6 es recordada como un **“fallo exitoso”** —un ejemplo clásico de cómo la ingeniería aprende más de los problemas que de los éxitos perfectos. Las correcciones implementadas tras este vuelo permitieron que el Saturn V llevara a los astronautas del Apolo 8 a la órbita lunar apenas ocho meses después (diciembre de 1968) y, finalmente, al Apolo 11 a la superficie de la Luna en julio de 1969. Apolo 6 demostró que la resiliencia del diseño y la capacidad de análisis en tierra eran tan importantes como la perfección en el despegue.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Apolo_6">Wikipedia (ES) – Apolo 6</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Apollo_6">Wikipedia (EN) – Apollo 6</a></li>
-    <li><a href="https://www.nasa.gov/mission/apollo-6/">NASA – Apollo 6</a></li>
-    <li><a href="https://www.nasa.gov/history/55-years-ago-the-flight-of-apollo-6/">NASA – 55 Years Ago: The Flight of Apollo 6</a></li>
-    <li><a href="https://www.ecured.cu/Apolo_6">EcuRed – Apolo 6</a></li>
-    <li><a href="https://www.thisdayinaviation.com/4-april-1968/">This Day in Aviation – 4 April 1968 Apollo 6</a></li>
-    <li><a href="https://rocketlaunch.org/mission-saturn-v-apollo-6">RocketLaunch – Apollo 6 Mission Saturn V</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Apolo_6" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Apolo 6</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Apollo_6" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Apollo 6</a></li>
+    <li><a href="https://www.nasa.gov/mission/apollo-6/" style="color: #315fea; text-decoration: none;">NASA – Apollo 6</a></li>
+    <li><a href="https://www.nasa.gov/history/55-years-ago-the-flight-of-apollo-6/" style="color: #315fea; text-decoration: none;">NASA – 55 Years Ago: The Flight of Apollo 6</a></li>
+    <li><a href="https://www.ecured.cu/Apolo_6" style="color: #315fea; text-decoration: none;">EcuRed – Apolo 6</a></li>
+    <li><a href="https://www.thisdayinaviation.com/4-april-1968/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 4 April 1968 Apollo 6</a></li>
+    <li><a href="https://rocketlaunch.org/mission-saturn-v-apollo-6" style="color: #315fea; text-decoration: none;">RocketLaunch – Apollo 6 Mission Saturn V</a></li>
   </ul>
 </div>
 
@@ -98,10 +98,10 @@ La misión Apolo 6 es recordada como un **“fallo exitoso”** —un ejemplo cl
   <p><strong>Nota aclaratoria:</strong> Algunas fuentes mencionan que el vuelo Apolo 6 “fracasó” por los apagos de motores. Sin embargo, la NASA consideró la misión como un éxito operativo porque el vehículo alcanzó órbita, completó los objetivos primarios (incluido el reinicio del S-IVB) y permitió identificar y corregir problemas críticos antes de los vuelos tripulados. El concepto de “fallo exitoso” es clave para entender esta efeméride.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-02 10:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), NASA History, EcuRed, This Day in Aviation, RocketLaunch
 - **Discrepancias resueltas:** Se aclaró que los apagos de motores no impidieron alcanzar órbita gracias a la quema compensatoria de la segunda etapa. La altitud exacta de la órbita de estacionamiento varía ligeramente entre fuentes (172 × 178 km); se ha utilizado el promedio documentado por NASA History.
 - **Nivel de confianza:** Alto
