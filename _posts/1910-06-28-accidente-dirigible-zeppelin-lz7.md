@@ -86,14 +86,14 @@ Hoy en día, el accidente del dirigible LZ 7 «Deutschland» es recordado como e
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://academia-lab.com/enciclopedia/delag/">AcademiaLab – Historia de la aerolínea DELAG y el zepelín Deutschland</a></li>
-    <li><a href="https://www.airships.net/delag-passenger-zeppelins/">Airships.net – DELAG: The World's First Airline and the LZ-7 Crash</a></li>
-    <li><a href="https://asn.flightsafety.org/wikibase/835">Aviation Safety Network – Accident description of Zeppelin LZ 7 (28 June 1910)</a></li>
-    <li><a href="https://billiken.lat/el-mundo/cuando-entro-en-servicio-la-primera-aerolinea-del-mundo/">Billiken – ¿En qué año y en qué país se fundó la primera aerolínea del mundo?</a></li>
+    <li><a href="https://academia-lab.com/enciclopedia/delag/" style="color: #315fea; text-decoration: none;">AcademiaLab – Historia de la aerolínea DELAG y el zepelín Deutschland</a></li>
+    <li><a href="https://www.airships.net/delag-passenger-zeppelins/" style="color: #315fea; text-decoration: none;">Airships.net – DELAG: The World's First Airline and the LZ-7 Crash</a></li>
+    <li><a href="https://asn.flightsafety.org/wikibase/835" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Accident description of Zeppelin LZ 7 (28 June 1910)</a></li>
+    <li><a href="https://billiken.lat/el-mundo/cuando-entro-en-servicio-la-primera-aerolinea-del-mundo/" style="color: #315fea; text-decoration: none;">Billiken – ¿En qué año y en qué país se fundó la primera aerolínea del mundo?</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong>Existe una ligera discrepancia en el número total de pasajeros en algunas fuentes secundarias; no obstante, el registro oficial consolidado de la base de datos de la red de seguridad aérea (Aviation Safety Network) y de la propia DELAG confirma un total de treinta y dos personas a bordo (veinticuatro pasajeros, de los cuales diecinueve eran periodistas invitados, y ocho miembros de la tripulación).</p>
@@ -105,7 +105,7 @@ Hoy en día, el accidente del dirigible LZ 7 «Deutschland» es recordado como e
 
 Para garantizar la rigurosidad editorial y la trazabilidad de la información presentada, se detallan a continuación los metadatos de control técnico e histórico que respaldan este post:
 
-- **Timestamp de verificación:** 2026-06-23 20:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Base de datos histórica de la red de seguridad de la aviación (Aviation Safety Network - ASN), archivos históricos de DELAG y Luftschiffbau Zeppelin GmbH, artículos conmemorativos de la ciudad de Bad Iburg y de la Asociación del Bosque de Teutoburgo
 - **Discrepancias resueltas:** Se ha clarificado la diferencia entre las cifras de ocupantes (algunas fuentes mencionan genéricamente 19 pasajeros correspondientes únicamente a los periodistas, mientras que el recuento oficial incluye a 24 pasajeros en total, sumando directivos de la compañía, además de los 8 tripulantes para un total de 32 personas a bordo). También se aclaró que los motores Daimler fueron recuperados y reutilizados en el zepelín LZ 8.
 - **Nivel de confianza:** Alto

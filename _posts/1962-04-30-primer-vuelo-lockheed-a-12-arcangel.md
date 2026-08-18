@@ -143,12 +143,12 @@ El primer prototipo, el artículo 121, completó un total de 322 vuelos y 418,2 
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Lockheed_A-12">Wikipedia (EN) - Lockheed A-12</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/article-121/">This Day in Aviation - Article 121</a></li>
-    <li><a href="https://flighttestmuseum.org/portfolio/lockheed-a-12/">Flight Test Historical Foundation - Lockheed A-12 S/N 60-6924</a></li>
-    <li><a href="https://www.twz.com/32722/cias-predecessor-to-the-sr-71-blackbird-tested-electron-guns-to-hide-from-radars">The War Zone - CIA's Predecessor to the SR-71</a></li>
-    <li><a href="https://m.aerialvisuals.ca/AirframeDossier.php?Serial=5736">Aerial Visuals - Airframe Dossier 60-6924</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Lockheed_A-12">Wikipedia (ES) - Lockheed A-12</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lockheed_A-12" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Lockheed A-12</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/article-121/" style="color: #315fea; text-decoration: none;">This Day in Aviation - Article 121</a></li>
+    <li><a href="https://flighttestmuseum.org/portfolio/lockheed-a-12/" style="color: #315fea; text-decoration: none;">Flight Test Historical Foundation - Lockheed A-12 S/N 60-6924</a></li>
+    <li><a href="https://www.twz.com/32722/cias-predecessor-to-the-sr-71-blackbird-tested-electron-guns-to-hide-from-radars" style="color: #315fea; text-decoration: none;">The War Zone - CIA's Predecessor to the SR-71</a></li>
+    <li><a href="https://m.aerialvisuals.ca/AirframeDossier.php?Serial=5736" style="color: #315fea; text-decoration: none;">Aerial Visuals - Airframe Dossier 60-6924</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Lockheed_A-12" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Lockheed A-12</a></li>
   </ul>
 </div>
 
@@ -156,7 +156,7 @@ El primer prototipo, el artículo 121, completó un total de 322 vuelos y 418,2 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-30 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), This Day in Aviation, Flight Test Historical Foundation, The War Zone, Aerial Visuals
 - **Discrepancias resueltas:** Las fuentes presentan tres fechas para el primer vuelo: 25 de abril (vuelo no oficial durante taxi), 26 de abril (primer vuelo planificado de Lockheed) y 30 de abril de 1962 (vuelo oficial para la CIA). Esta efeméride conmemora la fecha del vuelo oficial para el cliente, que es la más relevante desde la perspectiva del programa OXCART. El piloto fue Louis Schalk.
 - **Nivel de confianza:** Alto

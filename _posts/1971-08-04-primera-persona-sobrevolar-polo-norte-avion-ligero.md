@@ -121,9 +121,9 @@ Su aportación de fondo, sin embargo, no está en las vitrinas. Aquella travesí
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-30 09:38:16 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** National Air and Space Museum, Smithsonian Institution, ficha archivística del cuaderno de bitácora NASM.XXXX.0863; NASA, a través de la ficha documental de la fotografía del vuelo y de la descripción del experimento IRLS con el satélite Nimbus; registros de la Federación Aeronáutica Internacional citados en la documentación consultada.
-- **Fuentes secundarias de contraste:** This Day in Aviation, Wikipedia en inglés, BBC News, borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** This Day in Aviation, Wikipedia en inglés, BBC News.
 - **Discrepancias resueltas:** se corrigió la denominación del aparato, descrito como monomotor en el planteamiento inicial y en diversas fuentes divulgativas, incluido el pie oficial de la fotografía de la NASA; se verificó en Wikipedia y en This Day in Aviation que el Piper PA-23-250 Aztec D es bimotor y se adoptó la fórmula «avión ligero»; se distinguió la fecha de culminación de la travesía, el 4 de agosto de 1971, de la fecha del sobrevuelo polar, el 28 de junio; se precisó que el hito corresponde a la primera persona y no únicamente a la primera mujer; se contrastó la ficha archivística del Smithsonian, que discrepa en el año de nacimiento, en la fecha y el lugar de inicio de la travesía y en el número de motores, y se mantuvieron los datos respaldados por el resto de fuentes.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

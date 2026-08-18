@@ -126,15 +126,15 @@ Aunque fue retirado oficialmente en 2008, se sabe que varios F-117 continúan vo
 
 <div class="references">
   <ul>
-    <li><a href="https://www.acc.af.mil/About-Us/Fact-Sheets/Display/Article/199186/f-117a-nighthawk-retired/">USAF ACC – F-117A Nighthawk (Retired)</a></li>
-    <li><a href="https://www.aviacionline.com/a-40-anos-del-primer-vuelo-del-f-117-nighthawk-el-primer-avion-stealth-operacional">Aviacionline – A 40 años del primer vuelo del F-117 Nighthawk</a></li>
-    <li><a href="https://es-academic.com/dic.nsf/eswiki/469547">Academic – Lockheed F-117 Nighthawk</a></li>
-    <li><a href="https://www.airforce-technology.com/projects/f117/">Air Force Technology – F-117A Nighthawk Stealth Fighter</a></li>
-    <li><a href="https://www.holloman.af.mil/News/Display/Article/317620/december-1st-is-an-historic-day-for-stealth-fighters/">Holloman AFB – December 1st is an historic day for "stealth" fighters (Have Blue)</a></li>
+    <li><a href="https://www.acc.af.mil/About-Us/Fact-Sheets/Display/Article/199186/f-117a-nighthawk-retired/" style="color: #315fea; text-decoration: none;">USAF ACC – F-117A Nighthawk (Retired)</a></li>
+    <li><a href="https://www.aviacionline.com/a-40-anos-del-primer-vuelo-del-f-117-nighthawk-el-primer-avion-stealth-operacional" style="color: #315fea; text-decoration: none;">Aviacionline – A 40 años del primer vuelo del F-117 Nighthawk</a></li>
+    <li><a href="https://es-academic.com/dic.nsf/eswiki/469547" style="color: #315fea; text-decoration: none;">Academic – Lockheed F-117 Nighthawk</a></li>
+    <li><a href="https://www.airforce-technology.com/projects/f117/" style="color: #315fea; text-decoration: none;">Air Force Technology – F-117A Nighthawk Stealth Fighter</a></li>
+    <li><a href="https://www.holloman.af.mil/News/Display/Article/317620/december-1st-is-an-historic-day-for-stealth-fighters/" style="color: #315fea; text-decoration: none;">Holloman AFB – December 1st is an historic day for "stealth" fighters (Have Blue)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El primer vuelo del prototipo YF-117A tuvo lugar el <strong>18 de junio de 1981</strong> en Groom Lake (Área 51). Sin embargo, su predecesor tecnológico, el demostrador «Have Blue», voló por primera vez el <strong>1 de diciembre de 1977</strong>. El F-117 fue retirado oficialmente del servicio en 2008, pero diversas fuentes confirman que continúa realizando vuelos de entrenamiento en 2025.</p>
@@ -144,7 +144,7 @@ Aunque fue retirado oficialmente en 2008, se sabe que varios F-117 continúan vo
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-15 09:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** US Air Force (ACC), Aviacionline, Air Force Technology, Wikipedia (ES/EN), Holloman AFB
 - **Discrepancias resueltas:** La fecha del primer vuelo está confirmada por todas las fuentes como 18 de junio de 1981. Algunas fuentes confunden el primer vuelo del demostrador «Have Blue» (1977) con el del F-117 (1981). Se ha aclarado esta diferencia.
 - **Nivel de confianza:** Alto

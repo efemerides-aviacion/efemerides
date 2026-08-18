@@ -77,14 +77,14 @@ Como él mismo escribió en su blog personal, sus años de vuelo fueron "años d
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="http://aladeltismochileno.blogspot.com/p/acerca-de-mi.html">Aladeltismo Chileno – Acerca de mí: Basilio Moisés Impellizzeri Nicito, primer cruce Andes ala delta 13 marzo 1988</a></li>
-    <li><a href="https://www.pilotosretiradoslan.cl/2010/08/15/encuentro-con-un-hombre-pajaro/">Pilotos Retirados LAN – Encuentro con un hombre pájaro: Basilio Impellizzeri cruza Andes en ala delta 1988</a></li>
+    <li><a href="http://aladeltismochileno.blogspot.com/p/acerca-de-mi.html" style="color: #315fea; text-decoration: none;">Aladeltismo Chileno – Acerca de mí: Basilio Moisés Impellizzeri Nicito, primer cruce Andes ala delta 13 marzo 1988</a></li>
+    <li><a href="https://www.pilotosretiradoslan.cl/2010/08/15/encuentro-con-un-hombre-pajaro/" style="color: #315fea; text-decoration: none;">Pilotos Retirados LAN – Encuentro con un hombre pájaro: Basilio Impellizzeri cruza Andes en ala delta 1988</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-11 19:00:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Blog personal de Basilio Impellizzeri Nicito (aladeltismochileno.blogspot.com), Pilotos Retirados LAN  
 - **Discrepancias resueltas:** No se identificaron discrepancias significativas entre las fuentes disponibles; ambas coinciden en la fecha del cruce (13 de marzo de 1988), el récord de permanencia (11h 5m) y la biografía del protagonista. La principal fuente es el testimonio directo de Impellizzeri en su blog personal .  
 - **Nivel de confianza:** Alto (basado en testimonio autobiográfico)  

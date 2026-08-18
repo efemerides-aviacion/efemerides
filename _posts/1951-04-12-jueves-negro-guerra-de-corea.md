@@ -12,7 +12,7 @@ image: 1951-04-12-jueves-negro-guerra-de-corea.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1951-04-12-jueves-negro-guerra-de-corea.webp" alt="Representación artística del Jueves Negro en el Callejón de los MiG">
-  <figcaption class="post-caption">Representación artística del "Jueves Negro" (12 de abril de 1951), cuando MiG-15 soviéticos atacaron bombarderos B-29 Superfortress de la USAF en el Callejón de los MiG durante la Guerra de Corea. Fuente: <a href="https://warthunder.com/es/news/121--es">War Thunder</a>.</figcaption>
+  <figcaption class="post-caption">Representación artística del "Jueves Negro" (12 de abril de 1951), cuando MiG-15 soviéticos atacaron bombarderos B-29 Superfortress de la USAF en el Callejón de los MiG durante la Guerra de Corea. Fuente: <a href="https://warthunder.com/es/news/121--es" style="color: #315fea; text-decoration: none;">War Thunder</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
@@ -65,12 +65,12 @@ El "Jueves Negro" es recordado como una de las derrotas más significativas de l
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/MiG_Alley">Wikipedia (EN) – MiG Alley</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Callej%C3%B3n_de_los_MiG">Wikipedia (ES) – Callejón de los MiG</a></li>
-    <li><a href="https://noticiaslatam.lat/20190412/el-jueves-negro-el-dia-que-los-mig-15-sovieticos-paralizaron-las-fuerzas-de-eeuu-1086671300.html">NoticiasLatam – El 'Jueves Negro': el día que los MiG‑15 soviéticos paralizaron a las fuerzas de EEUU</a></li>
-    <li><a href="http://amistadhispanosovietica.blogspot.com/2025/02/el-callejon-de-los-mig-guerra-de-corea.html">Amistad Hispano‑Soviética – El callejón de los MiG (Guerra de Corea, 1950‑1953)</a></li>
-    <li><a href="https://warthunder.com/es/news/121--es">War Thunder – El jueves negro</a></li>
-    <li><a href="https://www.digitalcombatsimulator.com/it/news/newsletters/c4bf5ab013bad22f4eb44cb41dbfa1a8/">Digital Combat Simulator – MiG‑15bis Aces in Korea, 1951</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/MiG_Alley" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – MiG Alley</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Callej%C3%B3n_de_los_MiG" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Callejón de los MiG</a></li>
+    <li><a href="https://noticiaslatam.lat/20190412/el-jueves-negro-el-dia-que-los-mig-15-sovieticos-paralizaron-las-fuerzas-de-eeuu-1086671300.html" style="color: #315fea; text-decoration: none;">NoticiasLatam – El 'Jueves Negro': el día que los MiG‑15 soviéticos paralizaron a las fuerzas de EEUU</a></li>
+    <li><a href="http://amistadhispanosovietica.blogspot.com/2025/02/el-callejon-de-los-mig-guerra-de-corea.html" style="color: #315fea; text-decoration: none;">Amistad Hispano‑Soviética – El callejón de los MiG (Guerra de Corea, 1950‑1953)</a></li>
+    <li><a href="https://warthunder.com/es/news/121--es" style="color: #315fea; text-decoration: none;">War Thunder – El jueves negro</a></li>
+    <li><a href="https://www.digitalcombatsimulator.com/it/news/newsletters/c4bf5ab013bad22f4eb44cb41dbfa1a8/" style="color: #315fea; text-decoration: none;">Digital Combat Simulator – MiG‑15bis Aces in Korea, 1951</a></li>
   </ul>
 </div>
 
@@ -84,7 +84,7 @@ El "Jueves Negro" es recordado como una de las derrotas más significativas de l
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-09 12:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), NoticiasLatam, Amistad Hispano-Soviética, War Thunder, Digital Combat Simulator
 - **Discrepancias resueltas:** Las cifras exactas de B-29 involucrados varían ligeramente según las fuentes. Se han utilizado las proporcionadas por el usuario (36 B-29, aproximadamente 30 MiG-15, 3 derribados y 7 dañados), que son consistentes con las referencias verificadas.
 - **Nivel de confianza:** Alto

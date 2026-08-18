@@ -98,14 +98,14 @@ La importancia del Lippisch Ente trasciende su breve existencia. Fue el eslabón
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Lippisch_Ente">Wikipedia (ES) – Lippisch Ente</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Lippisch_Ente">Wikipedia (EN) – Lippisch Ente</a></li>
-    <li><a href="https://www.nasa.gov/history/95-years-ago-first-human-rocket-powered-aircraft-flight/">NASA – 95 years ago: First Human Rocket-Powered Aircraft Flight</a></li>
-    <li><a href="https://www.britannica.com/biography/Alexander-M-Lippisch">Britannica – Alexander M. Lippisch</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Lippisch_Ente" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Lippisch Ente</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lippisch_Ente" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Lippisch Ente</a></li>
+    <li><a href="https://www.nasa.gov/history/95-years-ago-first-human-rocket-powered-aircraft-flight/" style="color: #315fea; text-decoration: none;">NASA – 95 years ago: First Human Rocket-Powered Aircraft Flight</a></li>
+    <li><a href="https://www.britannica.com/biography/Alexander-M-Lippisch" style="color: #315fea; text-decoration: none;">Britannica – Alexander M. Lippisch</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Existe discrepancia menor entre fuentes sobre si el segundo vuelo se considera el «primer vuelo exitoso» o el «segundo intento». Según la NASA y Wikipedia, el 11 de junio incluyó tres eventos: un primer fallo en tierra, un vuelo exitoso de 1.500 metros, y un tercer vuelo explosivo. Algunas fuentes en italiano citan el 1 de junio como fecha, pero la documentación mayoritaria y oficial confirma el 11 de junio de 1928 como la fecha correcta.</p>
@@ -115,7 +115,7 @@ La importancia del Lippisch Ente trasciende su breve existencia. Fue el eslabón
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-06 14:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), NASA History, Britannica
 - **Discrepancias resueltas:** Confirmada fecha del 11 de junio de 1928 frente a posibles menciones del 1 de junio; aclarada secuencia de tres vuelos en un solo día.
 - **Nivel de confianza:** Alto

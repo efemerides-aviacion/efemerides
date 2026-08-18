@@ -84,16 +84,16 @@ El Beechcraft T-34 Mentor ocupa un lugar destacado en la historia de la aviació
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://afterburner.com.pl/2-december-1948-maiden-flight-of-beechcraft-t-34-mentor/">Afterburner – 2 December 1948: Maiden flight of Beechcraft T-34 Mentor</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Beechcraft_T-34_Mentor">Wikipedia (EN) – Beechcraft T-34 Mentor</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Beechcraft_T-34_Mentor">Wikipedia (ES) – Beechcraft T-34 Mentor</a></li>
-    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-beechcraft-t-34-mentor-2.html">Vintage Aviation News – First Flight of the Beechcraft T-34 Mentor</a></li>
+    <li><a href="https://afterburner.com.pl/2-december-1948-maiden-flight-of-beechcraft-t-34-mentor/" style="color: #315fea; text-decoration: none;">Afterburner – 2 December 1948: Maiden flight of Beechcraft T-34 Mentor</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Beechcraft_T-34_Mentor" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Beechcraft T-34 Mentor</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Beechcraft_T-34_Mentor" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Beechcraft T-34 Mentor</a></li>
+    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-beechcraft-t-34-mentor-2.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News – First Flight of the Beechcraft T-34 Mentor</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-19 11:20:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Afterburner, Wikipedia (EN/ES), Vintage Aviation News  
 - **Discrepancias resueltas:** Se aclaró en nota específica la ausencia de documentación sobre la matrícula exacta del prototipo del primer vuelo (2 de diciembre de 1948), distinguiéndolo de los YT-34 entregados en 1950.  
 - **Nivel de confianza:** Alto  

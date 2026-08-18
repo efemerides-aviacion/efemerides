@@ -173,11 +173,11 @@ Una placa conmemorativa erigida por el Aero Club de Washington en el lugar de la
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/15-may-1918-2/">This Day in Aviation - 15 May 1918 (detalle del vuelo de Boyle)</a></li>
-    <li><a href="https://www.airandspaceforces.com/article/1289airmail/">Air & Space Forces Magazine - The Day the Airmail Started</a></li>
-    <li><a href="https://postalmuseum.si.edu/100-years-of-airmail-march-1918">National Postal Museum - 100 Years of Airmail: March 1918</a></li>
-    <li><a href="https://www.faa.gov/about/history/photo_album/foundation">Federal Aviation Administration - Foundation</a></li>
-    <li><a href="https://webarchiveweb.wayback.bac-lac.canada.ca/web/20070314145232/http://www.dcmemorials.com/index_indiv0001130.htm">DC Memorials - Placa conmemorativa (archivo)</a></li>
+    <li><a href="https://www.thisdayinaviation.com/15-may-1918-2/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 15 May 1918 (detalle del vuelo de Boyle)</a></li>
+    <li><a href="https://www.airandspaceforces.com/article/1289airmail/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine - The Day the Airmail Started</a></li>
+    <li><a href="https://postalmuseum.si.edu/100-years-of-airmail-march-1918" style="color: #315fea; text-decoration: none;">National Postal Museum - 100 Years of Airmail: March 1918</a></li>
+    <li><a href="https://www.faa.gov/about/history/photo_album/foundation" style="color: #315fea; text-decoration: none;">Federal Aviation Administration - Foundation</a></li>
+    <li><a href="https://webarchiveweb.wayback.bac-lac.canada.ca/web/20070314145232/http://www.dcmemorials.com/index_indiv0001130.htm" style="color: #315fea; text-decoration: none;">DC Memorials - Placa conmemorativa (archivo)</a></li>
   </ul>
 </div>
 
@@ -185,7 +185,7 @@ Una placa conmemorativa erigida por el Aero Club de Washington en el lugar de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-13 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, Air & Space Forces Magazine, National Postal Museum, Federal Aviation Administration
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (15 de mayo de 1918). Se ha añadido la información detallada de This Day in Aviation sobre el Teniente Boyle, el número de serie del avión (S.C. 38262) y la historia del "Inverted Jenny". Se ha corregido la descripción del incidente: Boyle aterrizó forzosamente, no "se estrelló".
 - **Nivel de confianza:** Alto

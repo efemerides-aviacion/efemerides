@@ -97,17 +97,17 @@ Pero también dejó un legado visual y cultural singular. Muy pocos aviones log�
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.airbus.com/en/newsroom/press-releases/2018-07-first-belugaxl-becomes-airborne-for-its-maiden-flight">Airbus – First BelugaXL becomes airborne for its maiden flight</a></li>
-    <li><a href="https://www.airbus.com/en/newsroom/stories/2018-07-the-belugaxl-airlifter-brings-a-smile-to-airbus-production-network">Airbus – The BelugaXL airlifter brings a smile to Airbus’ production network</a></li>
-    <li><a href="https://www.airbus.com/en/newsroom/press-releases/2019-11-belugaxl-receives-easa-type-certification">Airbus – BelugaXL receives EASA Type Certification</a></li>
-    <li><a href="https://www.airbus.com/en/newsroom/press-releases/2020-01-airbus-belugaxl-enters-service-adding-xl-capacity-to-the-fleet">Airbus – Airbus BelugaXL enters service, adding XL capacity to the fleet</a></li>
-    <li><a href="https://www.airbus.com/en/products-services/commercial-aircraft/freighter/beluga">Airbus – The iconic Airbus Beluga Super Transporter</a></li>
-    <li><a href="https://s.thepeninsula.qa/article/19/07/2018/Airbus-fetes-first-flight-of-its-new-whale-in-the-sky">The Peninsula Qatar / AFP – Airbus fetes first flight of its new whale in the sky</a></li>
-    <li><a href="https://www.npr.org/2018/07/19/630407159/whale-of-a-plane-airbus-belugaxl-makes-maiden-flight">NPR – Whale Of A Plane: Airbus BelugaXL Makes First Flight</a></li>
+    <li><a href="https://www.airbus.com/en/newsroom/press-releases/2018-07-first-belugaxl-becomes-airborne-for-its-maiden-flight" style="color: #315fea; text-decoration: none;">Airbus – First BelugaXL becomes airborne for its maiden flight</a></li>
+    <li><a href="https://www.airbus.com/en/newsroom/stories/2018-07-the-belugaxl-airlifter-brings-a-smile-to-airbus-production-network" style="color: #315fea; text-decoration: none;">Airbus – The BelugaXL airlifter brings a smile to Airbus’ production network</a></li>
+    <li><a href="https://www.airbus.com/en/newsroom/press-releases/2019-11-belugaxl-receives-easa-type-certification" style="color: #315fea; text-decoration: none;">Airbus – BelugaXL receives EASA Type Certification</a></li>
+    <li><a href="https://www.airbus.com/en/newsroom/press-releases/2020-01-airbus-belugaxl-enters-service-adding-xl-capacity-to-the-fleet" style="color: #315fea; text-decoration: none;">Airbus – Airbus BelugaXL enters service, adding XL capacity to the fleet</a></li>
+    <li><a href="https://www.airbus.com/en/products-services/commercial-aircraft/freighter/beluga" style="color: #315fea; text-decoration: none;">Airbus – The iconic Airbus Beluga Super Transporter</a></li>
+    <li><a href="https://s.thepeninsula.qa/article/19/07/2018/Airbus-fetes-first-flight-of-its-new-whale-in-the-sky" style="color: #315fea; text-decoration: none;">The Peninsula Qatar / AFP – Airbus fetes first flight of its new whale in the sky</a></li>
+    <li><a href="https://www.npr.org/2018/07/19/630407159/whale-of-a-plane-airbus-belugaxl-makes-maiden-flight" style="color: #315fea; text-decoration: none;">NPR – Whale Of A Plane: Airbus BelugaXL Makes First Flight</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes oficiales de Airbus coinciden en la fecha, el lugar y el carácter inaugural del vuelo del 19 de julio de 2018, así como en la duración exacta de <strong>4 horas y 11 minutos</strong>. Algunas coberturas periodísticas del mismo día resumieron el tiempo de vuelo como «unas cuatro horas», sin que ello altere el hecho principal. Asimismo, en la comunicación inicial del programa se preveía la entrada en servicio en 2019, pero la incorporación operativa efectiva del BelugaXL se produjo en <strong>enero de 2020</strong>, tras la certificación de tipo obtenida en noviembre de 2019.</p>
@@ -116,9 +116,9 @@ Pero también dejó un legado visual y cultural singular. Muy pocos aviones log�
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-15 09:05:33 CST  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Airbus  
-- **Fuentes secundarias de contraste:** The Peninsula Qatar / AFP, NPR, borrador preliminar del investigador  
+- **Fuentes secundarias de contraste:** The Peninsula Qatar / AFP, NPR
 - **Discrepancias resueltas:** se diferenció entre la previsión inicial de entrada en servicio en 2019 y la entrada operativa efectiva en enero de 2020; también se priorizó la duración exacta de 4 horas y 11 minutos frente a formulaciones periodísticas resumidas como «unas cuatro horas»  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

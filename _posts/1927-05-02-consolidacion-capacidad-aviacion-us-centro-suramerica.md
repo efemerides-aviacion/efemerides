@@ -113,12 +113,12 @@ Los participantes del vuelo tuvieron destacadas carreras posteriores. Ira C. Eak
 
 <div class="references">
   <ul>
-    <li><a href="https://airandspace.si.edu/collection-archive/herbert-arthur-dargue-flight-map/sova-nasm-xxxx-1039">National Air and Space Museum - Herbert Arthur Dargue Flight Map</a></li>
-    <li><a href="https://collections.si.edu/search/detail/edanmdm:nasm_A19280010000">Smithsonian Collections - Loening OA-1A San Francisco</a></li>
-    <li><a href="https://asn.flightsafety.org/wikibase/63935">Aviation Safety Network - Accident Loening OA-1A Detroit</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196945/pan-american-good-will-flight/">National Museum of the USAF - Pan American Good Will Flight</a></li>
-    <li><a href="https://libarchives.utdallas.edu/repositories/2/resources/44">University of Texas at Dallas - Pan American Goodwill Flight Collection</a></li>
-    <li><a href="https://airandspace.si.edu/stories/editorial/1927-pan-american-good-will-flight">National Air and Space Museum - 1927 Pan American Good Will Flight</a></li>
+    <li><a href="https://airandspace.si.edu/collection-archive/herbert-arthur-dargue-flight-map/sova-nasm-xxxx-1039" style="color: #315fea; text-decoration: none;">National Air and Space Museum - Herbert Arthur Dargue Flight Map</a></li>
+    <li><a href="https://collections.si.edu/search/detail/edanmdm:nasm_A19280010000" style="color: #315fea; text-decoration: none;">Smithsonian Collections - Loening OA-1A San Francisco</a></li>
+    <li><a href="https://asn.flightsafety.org/wikibase/63935" style="color: #315fea; text-decoration: none;">Aviation Safety Network - Accident Loening OA-1A Detroit</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196945/pan-american-good-will-flight/" style="color: #315fea; text-decoration: none;">National Museum of the USAF - Pan American Good Will Flight</a></li>
+    <li><a href="https://libarchives.utdallas.edu/repositories/2/resources/44" style="color: #315fea; text-decoration: none;">University of Texas at Dallas - Pan American Goodwill Flight Collection</a></li>
+    <li><a href="https://airandspace.si.edu/stories/editorial/1927-pan-american-good-will-flight" style="color: #315fea; text-decoration: none;">National Air and Space Museum - 1927 Pan American Good Will Flight</a></li>
   </ul>
 </div>
 
@@ -126,7 +126,7 @@ Los participantes del vuelo tuvieron destacadas carreras posteriores. Ira C. Eak
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-02 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** National Air and Space Museum (Smithsonian), National Museum of the USAF (.mil), Aviation Safety Network, University of Texas at Dallas
 - **Discrepancias resueltas:** La información proporcionada por el usuario era mayormente correcta. Se precisa que el accidente involucró una colisión entre dos aviones, no dos accidentes separados. Los fallecidos (2) tripulaban el mismo avión (Detroit). La ruta de cruce de los Andes fue Valdivia-Bahía Blanca, no directamente a Buenos Aires. Las cifras de 35.200 km, 59 días de vuelo, 74 días de escalas y finalización el 2 de mayo de 1927 son completamente correctas.
 - **Nivel de confianza:** Alto

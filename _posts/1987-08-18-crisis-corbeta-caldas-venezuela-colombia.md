@@ -86,9 +86,9 @@ Treinta y nueve años después, la crisis de la corbeta Caldas sigue siendo la v
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Crisis_de_la_corbeta_Caldas">Wikipedia (español) - Crisis de la corbeta Caldas</a></li>
-    <li><a href="https://favclubven.wordpress.com/2026-08-07/el-inicio-de-la-crisis-de-la-corbeta-caldas-desde-la-perspectiva-del-comandante-general-de-la-fuerza-aerea-venezolana/">FAV-Club - El inicio de la crisis de la corbeta Caldas, desde la perspectiva del Comandante General de la Fuerza Aérea Venezolana</a></li>
-    <li><a href="https://www.elnacional.com/columnas/2022/08/la-corbeta-colombiana-que-cambio-a-los-venezolanos-ii/">El Nacional - La corbeta colombiana que cambió a los venezolanos (II)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Crisis_de_la_corbeta_Caldas" style="color: #315fea; text-decoration: none;">Wikipedia (español) - Crisis de la corbeta Caldas</a></li>
+    <li><a href="https://favclubven.wordpress.com/2026-08-07/el-inicio-de-la-crisis-de-la-corbeta-caldas-desde-la-perspectiva-del-comandante-general-de-la-fuerza-aerea-venezolana/" style="color: #315fea; text-decoration: none;">FAV-Club - El inicio de la crisis de la corbeta Caldas, desde la perspectiva del Comandante General de la Fuerza Aérea Venezolana</a></li>
+    <li><a href="https://www.elnacional.com/columnas/2022/08/la-corbeta-colombiana-que-cambio-a-los-venezolanos-ii/" style="color: #315fea; text-decoration: none;">El Nacional - La corbeta colombiana que cambió a los venezolanos (II)</a></li>
   </ul>
 </div>
 
@@ -96,9 +96,9 @@ Treinta y nueve años después, la crisis de la corbeta Caldas sigue siendo la v
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-13 12:20:00 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** ninguna disponible (no existe organismo investigador ni archivo oficial de acceso directo para el evento)
-- **Fuentes secundarias de contraste:** Wikipedia (español), FAV-Club (perspectiva del Comandante General de la FAV), El Nacional (columna de Antonio Guevara), borrador preliminar del investigador
+- **Fuentes secundarias de contraste:** Wikipedia (español), FAV-Club (perspectiva del Comandante General de la FAV), El Nacional (columna de Antonio Guevara)
 - **Discrepancias resueltas:** la cronología diaria y los numerales de buques coinciden entre Wikipedia y el borrador; donde el borrador aporta nombres de comandantes no verificables en las fuentes leídas (p. ej. Capitán de Fragata Sergio García Torres, capitán Alfredo Castañeda), se omitieron. La hora del anuncio de Barco (23:45 de Bogotá) y el retiro tras la medianoche del 18 se toman de Wikipedia. La línea de mandatarios registra al ministro de Defensa venezolano, General de División Heliodoro Guerrero Gómez, conforme a la indicación del investigador y a las fuentes nuevas; el cuadro de Wikipedia destaca al comandante del Ejército, Ítalo del Valle Alliegro, cuya existencia en ese cargo no se niega y que el propio El Nacional confirma entre los protagonistas.
 - **Nivel de confianza:** Alto — núcleo del hecho respaldado por convergencia de fuentes secundarias independientes; sin primarias accesibles, como se declara arriba.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

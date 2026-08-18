@@ -136,16 +136,16 @@ El accidente también mostró cómo una pequeña grieta en una pieza aparentemen
 
 <div class="references">
   <ul>
-    <li><a href="https://www.rvs-bi.de/publications/Incidents/DOCS/ComAndRep/OHare/NTSB/COPY/ohare-full.html">NTSB – Informe oficial del accidente (AAR-79-17), 21 de diciembre de 1979</a></li>
-    <li><a href="https://time.com/archive/6880163/nation-up-up-and-away/">TIME Magazine – Nation: Up, Up and Away (1979)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/American_Airlines_Flight_191">Wikipedia – American Airlines Flight 191</a></li>
-    <li><a href="https://laopinion.com/2022/05/25/el-vuelo-191-de-american-airlines-casi-300-personas-murieron-cuando-el-avion-se-estrello-poco-despues-del-despegue/">La Opinión – El vuelo 191 de American Airlines (2022)</a></li>
-    <li><a href="https://www.infobae.com/historias/2024/05/25/la-dramatica-caida-en-el-despegue-del-vuelo-191-273-muertos-sin-identificar-y-el-principio-del-fin-del-avion-villano/">Infobae – La dramática caída del vuelo 191 (2024)</a></li>
-    <li><a href="https://time.com/archive/6879392/nation-saving-sense-of-paranoia/">TIME Magazine – Nation: Saving Sense of Paranoia (1979)</a></li>
+    <li><a href="https://www.rvs-bi.de/publications/Incidents/DOCS/ComAndRep/OHare/NTSB/COPY/ohare-full.html" style="color: #315fea; text-decoration: none;">NTSB – Informe oficial del accidente (AAR-79-17), 21 de diciembre de 1979</a></li>
+    <li><a href="https://time.com/archive/6880163/nation-up-up-and-away/" style="color: #315fea; text-decoration: none;">TIME Magazine – Nation: Up, Up and Away (1979)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/American_Airlines_Flight_191" style="color: #315fea; text-decoration: none;">Wikipedia – American Airlines Flight 191</a></li>
+    <li><a href="https://laopinion.com/2022/05/25/el-vuelo-191-de-american-airlines-casi-300-personas-murieron-cuando-el-avion-se-estrello-poco-despues-del-despegue/" style="color: #315fea; text-decoration: none;">La Opinión – El vuelo 191 de American Airlines (2022)</a></li>
+    <li><a href="https://www.infobae.com/historias/2024/05/25/la-dramatica-caida-en-el-despegue-del-vuelo-191-273-muertos-sin-identificar-y-el-principio-del-fin-del-avion-villano/" style="color: #315fea; text-decoration: none;">Infobae – La dramática caída del vuelo 191 (2024)</a></li>
+    <li><a href="https://time.com/archive/6879392/nation-saving-sense-of-paranoia/" style="color: #315fea; text-decoration: none;">TIME Magazine – Nation: Saving Sense of Paranoia (1979)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -159,7 +159,7 @@ El accidente también mostró cómo una pequeña grieta en una pieza aparentemen
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-22 21:15:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** NTSB (informe oficial AAR-79-17), TIME Magazine (artículos de 1979), Wikipedia (EN/ES), La Opinión, Infobae
 - **Discrepancias resueltas:** Confirmación del número de víctimas (273 total) frente a variantes menores (277 en algunas fuentes periodísticas). Verificación de la secuencia exacta del accidente y la altitud máxima (325-350 pies) mediante el informe de la NTSB.
 - **Nivel de confianza:** Alto (fuentes institucionales y de prensa contemporánea coinciden en los datos fundamentales)

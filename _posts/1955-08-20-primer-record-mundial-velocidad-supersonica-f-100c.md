@@ -83,8 +83,8 @@ Setenta y un años después, el 53-1709 descansa en Castle con matrícula presta
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/20-august-1955/">This Day in Aviation - 20 August 1955 (Coronel Horace A. Hanes, F-100C 53-1709)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/North_American_F-100_Super_Sabre">Wikipedia (inglés) - North American F-100 Super Sabre</a></li>
+    <li><a href="https://www.thisdayinaviation.com/20-august-1955/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 20 August 1955 (Coronel Horace A. Hanes, F-100C 53-1709)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/North_American_F-100_Super_Sabre" style="color: #315fea; text-decoration: none;">Wikipedia (inglés) - North American F-100 Super Sabre</a></li>
   </ul>
 </div>
 
@@ -92,7 +92,7 @@ Setenta y un años después, el 53-1709 descansa en Castle con matrícula presta
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-14 12:40:00 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** ninguna accesible de forma directa para el evento
 - **Fuentes secundarias de contraste:** This Day in Aviation (con fotografías USAF de dominio público), Wikipedia (inglés, North American F-100 Super Sabre)
 - **Discrepancias resueltas:** ninguna relevante entre fuentes; la vida posterior del 53-1709 (NACA 703, Castle Air Museum) se toma de la misma fuente y se redacta como trayectoria documental del avión.

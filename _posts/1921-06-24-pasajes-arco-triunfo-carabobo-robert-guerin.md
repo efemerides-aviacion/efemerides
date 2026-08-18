@@ -90,14 +90,14 @@ El 24 de junio de 1921, en el centenario de Carabobo, un joven piloto francés d
 
 <div class="references">
   <ul>
-    <li><a href="https://favclubven.wordpress.com/2024/06/21/un-acto-de-valor-en-el-centenario-de-la-batalla-de-carabobo/">FAV Club – Un acto de valor en el Centenario de la batalla de Carabobo (2024)</a></li>
-    <li><a href="https://ahcarabobo.com/idscurso-de-incorporacion-a-la-academia-de-historia-del-estado-carabobo-como-miembro-correspondiente-del-licenciado-jose-david-lopez/#respond">Academia de la Historia del Estado Carabobo – Discurso de José David López sobre Robert Guerin</a></li>
-    <li><a href="https://fundaayc.com/tag/alejandro-chataing/page/8/#content">Fundación Arquitectura y Ciudad – Inauguración del Arco de Carabobo</a></li>
-    <li><a href="https://clac-lacac.org/wp-content/uploads/2020/10/EM-VEN-RH.pdf">CLAC – Reseña histórica de la aviación civil en Venezuela (pág. 1)</a></li>
+    <li><a href="https://favclubven.wordpress.com/2024/06/21/un-acto-de-valor-en-el-centenario-de-la-batalla-de-carabobo/" style="color: #315fea; text-decoration: none;">FAV Club – Un acto de valor en el Centenario de la batalla de Carabobo (2024)</a></li>
+    <li><a href="https://ahcarabobo.com/idscurso-de-incorporacion-a-la-academia-de-historia-del-estado-carabobo-como-miembro-correspondiente-del-licenciado-jose-david-lopez/#respond" style="color: #315fea; text-decoration: none;">Academia de la Historia del Estado Carabobo – Discurso de José David López sobre Robert Guerin</a></li>
+    <li><a href="https://fundaayc.com/tag/alejandro-chataing/page/8/#content" style="color: #315fea; text-decoration: none;">Fundación Arquitectura y Ciudad – Inauguración del Arco de Carabobo</a></li>
+    <li><a href="https://clac-lacac.org/wp-content/uploads/2020/10/EM-VEN-RH.pdf" style="color: #315fea; text-decoration: none;">CLAC – Reseña histórica de la aviación civil en Venezuela (pág. 1)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Este evento, aunque confirmado por fuentes académicas y de historia local, se basa en relatos e investigaciones de la historia de la aviación venezolana. No se han encontrado fuentes primarias de la época (como periódicos del 24 de junio de 1921) que detallen el vuelo de Guerin, por lo que se presenta como una hazaña histórica ampliamente documentada en la historiografía reciente. La fuente de FAV Club proporciona el relato más detallado y coherente del evento.</p>
@@ -107,7 +107,7 @@ El 24 de junio de 1921, en el centenario de Carabobo, un joven piloto francés d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-20 12:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** FAV Club, Academia de la Historia del Estado Carabobo, Fundación Arquitectura y Ciudad, CLAC 
 - **Nivel de confianza:** Medio
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -176,16 +176,16 @@ Poco antes de fallecer, Modesto Madariaga (el mecánico que no subió al avión 
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_del_Cuatro_Vientos">Wikipedia (ES) – Vuelo del Cuatro Vientos</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Mariano_Barber%C3%A1n">Wikipedia (EN) – Mariano Barberán</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Collar_Serra">Wikipedia (EN) – Joaquín Collar Serra</a></li>
-    <li><a href="https://www.ecured.cu/Mariano_Barber%C3%A1n">EcuRed – Mariano Barberán</a></li>
-    <li><a href="https://www.heraldoleon.mx/misterios-en-el-aire/">El Heraldo de León – Misterios en el aire</a></li>
-    <li><a href="https://www.biblio.com/book/barberan-y-collar-el-enigma-del/d/1609499678">Biblio – Barberán y Collar: el enigma del cuatro vientos</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_del_Cuatro_Vientos" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vuelo del Cuatro Vientos</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Mariano_Barber%C3%A1n" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Mariano Barberán</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Joaqu%C3%ADn_Collar_Serra" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Joaquín Collar Serra</a></li>
+    <li><a href="https://www.ecured.cu/Mariano_Barber%C3%A1n" style="color: #315fea; text-decoration: none;">EcuRed – Mariano Barberán</a></li>
+    <li><a href="https://www.heraldoleon.mx/misterios-en-el-aire/" style="color: #315fea; text-decoration: none;">El Heraldo de León – Misterios en el aire</a></li>
+    <li><a href="https://www.biblio.com/book/barberan-y-collar-el-enigma-del/d/1609499678" style="color: #315fea; text-decoration: none;">Biblio – Barberán y Collar: el enigma del cuatro vientos</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Existe una discrepancia menor entre fuentes sobre la distancia exacta del raid Sevilla-Camagüey. Wikipedia y la mayoría de fuentes académicas citan 7.320 km, mientras que algunas fuentes periodísticas mencionan 7.895 km. Ambas cifras aparecen en la documentación de la época y podrían deberse a diferencias en el método de cálculo (distancia en línea recta vs. ruta real). Por otro lado, la cámara de neumático hallada en Tulpico fue inicialmente descartada como perteneciente al avión por algunas fuentes, pero el análisis de Pirelli confirmó su fabricación en Manresa el 2 de noviembre de 1932, aunque sin poder certificar que fuera suministrada al Cuatro Vientos. Se ha optado por mantener el hallazgo como vestigio probable, no confirmado. La fecha de nacimiento de Collar es 25 de noviembre de 1906 según fuentes oficiales.</p>
@@ -195,7 +195,7 @@ Poco antes de fallecer, Modesto Madariaga (el mecánico que no subió al avión 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-06 20:15:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), EcuRed, Fundación ENAIRE, Archivo Histórico del Ejército del Aire (Biblioteca Virtual de Defensa), Dialnet (artículo 1172980), El Heraldo de León
 - **Discrepancias resueltas:** Distancia del raid (7.320 km vs. 7.895 km): se opta por la cifra de Wikipedia (7.320 km) por ser la más citada en fuentes académicas; fecha del despegue desde La Habana (5:55 vs. 8:45): se adopta la hora del informe oficial mexicano (5:55). La cámara de neumático se considera vestigio probable, no confirmado. 
 - **Nivel de confianza:** Alto

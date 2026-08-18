@@ -90,9 +90,9 @@ Ciento cincuenta y nueve años después de su nacimiento, Wilbur Wright sigue si
 
 <div class="references">
   <ul>
-    <li><a href="https://www.nps.gov/people/wilburwright.htm">National Park Service - Wilbur Wright (Wright Brothers National Memorial)</a></li>
-    <li><a href="https://www.loc.gov/collections/wilbur-and-orville-wright-papers/articles-and-essays/the-wilbur-and-orville-wright-timeline-1846-to-1948/1867-to-1889/">Library of Congress - The Wilbur and Orville Wright Timeline</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:Wilbur_Wright.jpg">Wikimedia Commons - Retrato de Wilbur Wright a los 38 años (colección Bain)</a></li>
+    <li><a href="https://www.nps.gov/people/wilburwright.htm" style="color: #315fea; text-decoration: none;">National Park Service - Wilbur Wright (Wright Brothers National Memorial)</a></li>
+    <li><a href="https://www.loc.gov/collections/wilbur-and-orville-wright-papers/articles-and-essays/the-wilbur-and-orville-wright-timeline-1846-to-1948/1867-to-1889/" style="color: #315fea; text-decoration: none;">Library of Congress - The Wilbur and Orville Wright Timeline</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Wilbur_Wright.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons - Retrato de Wilbur Wright a los 38 años (colección Bain)</a></li>
   </ul>
 </div>
 
@@ -100,9 +100,9 @@ Ciento cincuenta y nueve años después de su nacimiento, Wilbur Wright sigue si
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-13 19:10:00 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** National Park Service (Wilbur Wright) y Library of Congress (Wright Papers Timeline)
-- **Fuentes secundarias de contraste:** Wikimedia Commons (retrato), borrador preliminar del investigador
+- **Fuentes secundarias de contraste:** Wikimedia Commons (retrato)
 - **Discrepancias resueltas:** el agresor del accidente de 1885-1886, Oliver Crook Haugh, figura ajusticiado en 1906 por el asesinato de sus padres según el NPS; el dato se omite del cuerpo por no aportar al hilo de la efeméride. La presidencia de la Wright Company y el cargo directivo de Katharine quedan armonizados con el post de esta última.
 - **Nivel de confianza:** Alto — núcleo del hecho respaldado por fuentes institucionales consultadas.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -58,15 +58,15 @@ Alberto Braniff es recordado como pionero de la aviación mexicana y latinoameri
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://revistas.unam.mx/index.php/archipielago/article/download/19897/18888">UNAM – Inicios de la aviación en México</a></li>
-    <li><a href="https://memoricamexico.gob.mx/es/memorica/Temas?ctId=7&cId=7d18ba29-609c-4524-af1d-a503944c71ca">Memórica México – Primer vuelo en avión</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Alberto_Braniff">Wikipedia – Alberto Braniff</a></li>
+    <li><a href="https://revistas.unam.mx/index.php/archipielago/article/download/19897/18888" style="color: #315fea; text-decoration: none;">UNAM – Inicios de la aviación en México</a></li>
+    <li><a href="https://memoricamexico.gob.mx/es/memorica/Temas?ctId=7&cId=7d18ba29-609c-4524-af1d-a503944c71ca" style="color: #315fea; text-decoration: none;">Memórica México – Primer vuelo en avión</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Alberto_Braniff" style="color: #315fea; text-decoration: none;">Wikipedia – Alberto Braniff</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-06 17:44:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Archivos históricos de la UNAM; Memórica México; biografía de Alberto Braniff  
 - **Discrepancias resueltas:** Algunas fuentes citan el 9 de enero de 1910; se confirma oficialmente el 8 de enero como fecha del primer vuelo.  
 - **Nivel de confianza:** Alto  

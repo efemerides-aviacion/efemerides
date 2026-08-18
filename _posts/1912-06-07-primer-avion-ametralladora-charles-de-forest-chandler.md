@@ -133,15 +133,15 @@ El disparo de Chandler del 7 de junio de 1912 es considerado el nacimiento del a
 
 <div class="references">
   <ul>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197442/machine-gun-fired-from-an-airplane/">National Museum of the U.S. Air Force – Machine Gun Fired from an Airplane</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/wright-model-b/">This Day in Aviation – 7 June 1912</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Charles_deForest_Chandler">Wikipedia – Charles deForest Chandler</a></li>
-    <li><a href="https://earlyaviators.com/echandl1.htm">Early Birds of Aviation – Charles deForest Chandler</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Lewis_gun">Wikipedia – Lewis gun</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197442/machine-gun-fired-from-an-airplane/" style="color: #315fea; text-decoration: none;">National Museum of the U.S. Air Force – Machine Gun Fired from an Airplane</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/wright-model-b/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 7 June 1912</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Charles_deForest_Chandler" style="color: #315fea; text-decoration: none;">Wikipedia – Charles deForest Chandler</a></li>
+    <li><a href="https://earlyaviators.com/echandl1.htm" style="color: #315fea; text-decoration: none;">Early Birds of Aviation – Charles deForest Chandler</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lewis_gun" style="color: #315fea; text-decoration: none;">Wikipedia – Lewis gun</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -155,7 +155,7 @@ El disparo de Chandler del 7 de junio de 1912 es considerado el nacimiento del a
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-03 16:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** National Museum of the U.S. Air Force (.mil), This Day in Aviation, Wikipedia, Early Birds of Aviation
 - **Discrepancias resueltas:** Confirmación de la fecha (7 de junio de 1912) en fuentes primarias. Verificación de los resultados de las pruebas (45/50 y 14/44). Aclaración del contexto histórico y los protagonistas. Adición de enlace a la efeméride de Anthony Fokker.
 - **Nivel de confianza:** Alto

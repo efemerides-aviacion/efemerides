@@ -100,12 +100,12 @@ La patente N.º 821.393 es uno de los documentos más importantes de la historia
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.wipo.int/es/web/wipo-magazine/articles/the-flying-machine-one-hundred-years-on-35012">WIPO – La máquina voladora – 100 años de existencia</a></li>
-    <li><a href="https://patents.google.com/patent/US821393A/en">Google Patents – US821393A Flying-machine</a></li>
-    <li><a href="https://invention.psychology.msstate.edu/inventors/i/Wrights/WrightUSPatent/WrightPatent.html">Psychology of Invention – 1906 Wright US Patent #821393</a></li>
-    <li><a href="https://en.wikisource.org/wiki/Page:Wright-Patent-US-821393.pdf/1">Wikisource – Wright Patent US-821393</a></li>
-    <li><a href="https://actualidadaeroespacial.com/17614-2/">Actualidad Aeroespacial – Hallada la patente de la 'máquina voladora' de los Wright</a></li>
-    <li><a href="http://historico.oepm.es/museovirtual/galerias_tematicas.php?tipo=INVENTOR&amp;xml=Wright%2C+Wilbur+y+Orville.xml">OEPM Museo Virtual – Wright, Wilbur y Orville</a></li>
+    <li><a href="https://www.wipo.int/es/web/wipo-magazine/articles/the-flying-machine-one-hundred-years-on-35012" style="color: #315fea; text-decoration: none;">WIPO – La máquina voladora – 100 años de existencia</a></li>
+    <li><a href="https://patents.google.com/patent/US821393A/en" style="color: #315fea; text-decoration: none;">Google Patents – US821393A Flying-machine</a></li>
+    <li><a href="https://invention.psychology.msstate.edu/inventors/i/Wrights/WrightUSPatent/WrightPatent.html" style="color: #315fea; text-decoration: none;">Psychology of Invention – 1906 Wright US Patent #821393</a></li>
+    <li><a href="https://en.wikisource.org/wiki/Page:Wright-Patent-US-821393.pdf/1" style="color: #315fea; text-decoration: none;">Wikisource – Wright Patent US-821393</a></li>
+    <li><a href="https://actualidadaeroespacial.com/17614-2/" style="color: #315fea; text-decoration: none;">Actualidad Aeroespacial – Hallada la patente de la 'máquina voladora' de los Wright</a></li>
+    <li><a href="http://historico.oepm.es/museovirtual/galerias_tematicas.php?tipo=INVENTOR&amp;xml=Wright%2C+Wilbur+y+Orville.xml" style="color: #315fea; text-decoration: none;">OEPM Museo Virtual – Wright, Wilbur y Orville</a></li>
   </ul>
 </div>
 
@@ -118,7 +118,7 @@ La patente N.º 821.393 es uno de los documentos más importantes de la historia
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-05-19 10:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** WIPO, Google Patents, Psychology of Invention, Wikisource, Actualidad Aeroespacial, OEPM
 - **Discrepancias resueltas:** Confirmación de que la solicitud de patente es anterior (marzo de 1903) al primer vuelo motorizado (diciembre de 1903), lo que demuestra que los Wright priorizaron proteger su sistema de control antes de demostrarlo públicamente.
 - **Nivel de confianza:** Alto

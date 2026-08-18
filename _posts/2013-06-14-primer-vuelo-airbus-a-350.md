@@ -132,15 +132,15 @@ El programa A350 demostró que Airbus podía desarrollar un avión de hoja limpi
 
 <div class="references">
   <ul>
-    <li><a href="https://www.flightglobal.com/airbus-a350-completes-successful-first-flight/106415.article">FlightGlobal – Airbus A350 completes successful first flight</a></li>
-    <li><a href="https://www.youtube.com/watch?v=W2qjh5T_7Dg">Airbus (YouTube) – A350 XWB first flight (video oficial)</a></li>
-    <li><a href="https://simpleflying.com/airbus-a350-first-flight-anniversary/">Simple Flying – The First Flight Of The Airbus A350: A Look Back</a></li>
-    <li><a href="https://avia-es.com/blog/airbus-a350-xwb-extra-wide-body">Avia Pro – Airbus A350 XWB - extra ancho Cuerpo</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Airbus_A350">Wikipedia – Airbus A350</a></li>
+    <li><a href="https://www.flightglobal.com/airbus-a350-completes-successful-first-flight/106415.article" style="color: #315fea; text-decoration: none;">FlightGlobal – Airbus A350 completes successful first flight</a></li>
+    <li><a href="https://www.youtube.com/watch?v=W2qjh5T_7Dg" style="color: #315fea; text-decoration: none;">Airbus (YouTube) – A350 XWB first flight (video oficial)</a></li>
+    <li><a href="https://simpleflying.com/airbus-a350-first-flight-anniversary/" style="color: #315fea; text-decoration: none;">Simple Flying – The First Flight Of The Airbus A350: A Look Back</a></li>
+    <li><a href="https://avia-es.com/blog/airbus-a350-xwb-extra-wide-body" style="color: #315fea; text-decoration: none;">Avia Pro – Airbus A350 XWB - extra ancho Cuerpo</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Airbus_A350" style="color: #315fea; text-decoration: none;">Wikipedia – Airbus A350</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El primer vuelo del A350 duró 4 horas y 5 minutos, según las fuentes oficiales de Airbus. La matrícula del prototipo es F-WXWB y su número de serie MSN1. El avión despegó con un peso de aproximadamente 221 toneladas. La entrada en servicio comercial del A350-900 se produjo el 15 de enero de 2015 con Qatar Airways. El A350 no debe confundirse con el Boeing 787 Dreamliner, su principal competidor.</p>
@@ -150,7 +150,7 @@ El programa A350 demostró que Airbus podía desarrollar un avión de hoja limpi
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-13 14:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** FlightGlobal, YouTube (Airbus oficial), Simple Flying, Avia Pro, Wikipedia
 - **Discrepancias resueltas:** La hora de despegue (10:00 a.m.) y aterrizaje (2:05 p.m.) están confirmadas por fuentes oficiales. Todos los enlaces han sido verificados y funcionan correctamente.
 - **Nivel de confianza:** Alto

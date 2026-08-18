@@ -151,16 +151,16 @@ El Corsair sigue siendo uno de los aviones más admirados por los entusiastas de
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/29-may-1940/">This Day in Aviation – 29 May 1940</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Vought_F4U_Corsair">Wikipedia – Vought F4U Corsair</a></li>
-    <li><a href="https://airandspace.si.edu/collection-objects/vought-f4u-1d-corsair/nasm_A19610124000">National Air and Space Museum – Vought F4U-1D Corsair</a></li>
-    <li><a href="https://planesoffame.org/aircraft/plane-F4U-1A">Planes of Fame Air Museum – Vought F4U-1A Corsair</a></li>
-    <li><a href="https://navalaviationmuseum.org/f4u-1-corsair/">National Naval Aviation Museum – F4U-1 Corsair</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Baa_Baa_Black_Sheep">Wikipedia – Baa Baa Black Sheep (TV series)</a></li>
+    <li><a href="https://www.thisdayinaviation.com/29-may-1940/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 29 May 1940</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Vought_F4U_Corsair" style="color: #315fea; text-decoration: none;">Wikipedia – Vought F4U Corsair</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/vought-f4u-1d-corsair/nasm_A19610124000" style="color: #315fea; text-decoration: none;">National Air and Space Museum – Vought F4U-1D Corsair</a></li>
+    <li><a href="https://planesoffame.org/aircraft/plane-F4U-1A" style="color: #315fea; text-decoration: none;">Planes of Fame Air Museum – Vought F4U-1A Corsair</a></li>
+    <li><a href="https://navalaviationmuseum.org/f4u-1-corsair/" style="color: #315fea; text-decoration: none;">National Naval Aviation Museum – F4U-1 Corsair</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Baa_Baa_Black_Sheep" style="color: #315fea; text-decoration: none;">Wikipedia – Baa Baa Black Sheep (TV series)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -173,7 +173,7 @@ El Corsair sigue siendo uno de los aviones más admirados por los entusiastas de
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-26 18:15:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, Wikipedia, National Air and Space Museum, Planes of Fame Air Museum, National Naval Aviation Museum
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (29 de mayo de 1940) en todas las fuentes. Verificación de la producción total (12.571 unidades). Inclusión del apodo japonés "Whistling Death" y el apodo estadounidense "Ensign Eliminator".
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales coinciden en los datos fundamentales)

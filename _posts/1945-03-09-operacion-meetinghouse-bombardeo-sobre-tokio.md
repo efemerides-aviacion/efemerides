@@ -31,7 +31,7 @@ image: 1945-03-09-operacion-meetinghouse-bombardeo-sobre-tokio.jpg
 - **Resultado inmediato:** ~105.400 muertos, más de un millón de damnificados, 41 km² arrasados  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Contexto histórico
+## Contexto Histórico
 El bombardeo de Tokio del 9 al 10 de marzo de 1945 fue el ataque aéreo convencional más mortífero de la historia. Representó un cambio radical en la estrategia de la USAAF, con consecuencias devastadoras para la población civil y un legado que quedó eclipsado por los ataques atómicos posteriores.
 
 ### Entorno social
@@ -74,8 +74,8 @@ El bombardeo de Tokio del 9 al 10 de marzo de 1945 fue el ataque aéreo convenci
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia ES; National Geographic; Truman Library Institute; El País; elDiario.es; BBC News; Getty Images  
 - **Discrepancias resueltas:** Variación en cifras de víctimas y área devastada  
 - **Nivel de confianza:** Alto  

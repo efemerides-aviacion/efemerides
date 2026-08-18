@@ -135,13 +135,13 @@ El bombardeo de Guernica es recordado como un anticipo de los horrores que la av
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Bombardeo_de_Guernica">Wikipedia (ES) - Bombardeo de Guernica</a></li>
-    <li><a href="https://www.annefrank.org/es/timeline/51/la-fuerza-aerea-alemana-luftwaffe-bombardea-guernica/">Anne Frank Stichting - La fuerza aérea alemana bombardea Guernica</a></li>
-    <li><a href="https://www.museodelapaz.eus/el-bombardeo-de-gernika/">Fundación Museo de la Paz de Gernika - El Bombardeo de Gernika</a></li>
-    <li><a href="https://historia-arte.com/obras/guernica">Historia Arte (HA!) - Guernica de Picasso</a></li>
-    <li><a href="https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/cdmh/destacados/2017/bombardeo-gernika.html">Ministerio de Cultura (España) - El bombardeo de Guernica</a></li>
-    <li><a href="https://ww2db.com/image.php?image_id=8083">WW2 Database - A building in ruins after aerial bombing, Guernica, Spain</a></li>
-    <li><a href="https://www.acami.es/efemerides/26-de-abril-de-1937bombardeo-de-guernica-por-la-legion-condor-y-la-aviacion-legionaria-italiana/">ACAMI - 26 de abril de 1937: Bombardeo de Guernica</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Bombardeo_de_Guernica" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Bombardeo de Guernica</a></li>
+    <li><a href="https://www.annefrank.org/es/timeline/51/la-fuerza-aerea-alemana-luftwaffe-bombardea-guernica/" style="color: #315fea; text-decoration: none;">Anne Frank Stichting - La fuerza aérea alemana bombardea Guernica</a></li>
+    <li><a href="https://www.museodelapaz.eus/el-bombardeo-de-gernika/" style="color: #315fea; text-decoration: none;">Fundación Museo de la Paz de Gernika - El Bombardeo de Gernika</a></li>
+    <li><a href="https://historia-arte.com/obras/guernica" style="color: #315fea; text-decoration: none;">Historia Arte (HA!) - Guernica de Picasso</a></li>
+    <li><a href="https://www.cultura.gob.es/cultura/areas/archivos/mc/archivos/cdmh/destacados/2017/bombardeo-gernika.html" style="color: #315fea; text-decoration: none;">Ministerio de Cultura (España) - El bombardeo de Guernica</a></li>
+    <li><a href="https://ww2db.com/image.php?image_id=8083" style="color: #315fea; text-decoration: none;">WW2 Database - A building in ruins after aerial bombing, Guernica, Spain</a></li>
+    <li><a href="https://www.acami.es/efemerides/26-de-abril-de-1937bombardeo-de-guernica-por-la-legion-condor-y-la-aviacion-legionaria-italiana/" style="color: #315fea; text-decoration: none;">ACAMI - 26 de abril de 1937: Bombardeo de Guernica</a></li>
   </ul>
 </div>
 
@@ -149,7 +149,7 @@ El bombardeo de Guernica es recordado como un anticipo de los horrores que la av
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-24 10:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES), Anne Frank Stichting, Fundación Museo de la Paz de Gernika, Ministerio de Cultura de España, WW2 Database, ACAMI
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (26 de abril de 1937) y el horario aproximado (16:20-19:40). El número de víctimas varía: el informe del Gobierno de Euzkadi cifró 1.654 muertos; investigaciones posteriores reducen la cifra a varios centenares. La mayoría de los historiadores actuales coinciden en que hubo centenares de víctimas civiles, aunque la cifra exacta sigue siendo debatida.
 - **Nivel de confianza:** Alto

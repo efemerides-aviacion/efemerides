@@ -139,16 +139,16 @@ Apodado cariñosamente «Scooter», el Skyhawk es recordado por su fiabilidad, s
 
 <div class="references">
   <ul>
-    <li><a href="https://airandspace.si.edu/es/collection-objects/douglas-a4d-2na-4c-skyhawk/nasm_A19760757000">Smithsonian National Air and Space Museum – Douglas A4D-2N/A-4C Skyhawk</a></li>
-    <li><a href="https://www.usni.org/magazines/naval-history-magazine/2004/february/bantam-weight-champion">U.S. Naval Institute – The Bantam-Weight Champion</a></li>
-    <li><a href="https://skyhawk.org/index.php/article/douglas-aircraft-test-pilots-and-support">The Skyhawk Association – Douglas Test Pilots and Support</a></li>
-    <li><a href="https://www.airandspaceforces.com/this-day-in-airpower/june-22-1954/">Air & Space Forces Magazine – June 22, 1954</a></li>
-    <li><a href="https://blueangels.navy.mil/history/">U.S. Navy Blue Angels – History</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Douglas_A-4_Skyhawk">Wikipedia – Douglas A-4 Skyhawk</a></li>
+    <li><a href="https://airandspace.si.edu/es/collection-objects/douglas-a4d-2na-4c-skyhawk/nasm_A19760757000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Douglas A4D-2N/A-4C Skyhawk</a></li>
+    <li><a href="https://www.usni.org/magazines/naval-history-magazine/2004/february/bantam-weight-champion" style="color: #315fea; text-decoration: none;">U.S. Naval Institute – The Bantam-Weight Champion</a></li>
+    <li><a href="https://skyhawk.org/index.php/article/douglas-aircraft-test-pilots-and-support" style="color: #315fea; text-decoration: none;">The Skyhawk Association – Douglas Test Pilots and Support</a></li>
+    <li><a href="https://www.airandspaceforces.com/this-day-in-airpower/june-22-1954/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine – June 22, 1954</a></li>
+    <li><a href="https://blueangels.navy.mil/history/" style="color: #315fea; text-decoration: none;">U.S. Navy Blue Angels – History</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Douglas_A-4_Skyhawk" style="color: #315fea; text-decoration: none;">Wikipedia – Douglas A-4 Skyhawk</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El primer vuelo del prototipo XA4D-1 tuvo lugar el <strong>22 de junio de 1954</strong> en Edwards Air Force Base, California. El avión fue redesignado A-4 en 1962 cuando el Departamento de Defensa unificó el sistema de designación de aeronaves. Las cifras de peso varían ligeramente entre fuentes debido a las diferentes versiones y configuraciones del avión. Se han utilizado las cifras más comúnmente citadas para el modelo inicial. En mayo de 2026, la Fuerza Aérea Argentina retiró sus A-4AR, dejando a la Marina de Brasil como el último operador militar del Skyhawk.</p>
@@ -158,7 +158,7 @@ Apodado cariñosamente «Scooter», el Skyhawk es recordado por su fiabilidad, s
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-18 11:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Smithsonian Institution, U.S. Naval Institute, The Skyhawk Association, Air & Space Forces Magazine, U.S. Navy Blue Angels, Zona Militar (2026), Infodefensa (2026), The War Zone (2026)
 - **Discrepancias resueltas:** Algunas fuentes citan el motor inicial como J65-W-2 o J65-W-4; se ha optado por la información del Smithsonian que especifica 7.200 lb de empuje para el prototipo. Las cifras de producción (2.960 unidades) son consistentes en todas las fuentes. Se ha actualizado el estado de servicio del A-4 en 2026 según fuentes de mayo de 2026.
 - **Nivel de confianza:** Alto

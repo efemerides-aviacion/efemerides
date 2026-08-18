@@ -124,9 +124,9 @@ Del *Lucky Lady* original apenas queda la fotografía de su tripulación ante el
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-02 07:34:17 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Air Force History Support Office, relación oficial «Lucky Ladies»; Air Force Historical Foundation; GlobalSecurity.org, historial del 43.º Ala de Bombardeo.
-- **Fuentes secundarias de contraste:** registro de números de serie de Joe Baugher, elaborado a partir de la obra de Robert A. Mann; Aviation Safety Network; Bureau of Aircraft Accidents Archives; Vintage Aviation News; Wikipedia en inglés; prensa estadounidense de julio de 1948 reproducida en las fichas de accidente; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** registro de números de serie de Joe Baugher, elaborado a partir de la obra de Robert A. Mann; Aviation Safety Network; Bureau of Aircraft Accidents Archives; Vintage Aviation News; Wikipedia en inglés; prensa estadounidense de julio de 1948 reproducida en las fichas de accidente.
 - **Discrepancias resueltas:** se adoptó el número de serie 44-62314 para la *Lucky Lady*, conforme al registro de Joe Baugher y a la leyenda de la fotografía oficial, frente a las publicaciones que lo asignan al *Gas Gobbler*; se renunció a fijar una cifra de víctimas del *Pride of Tucson* ante la divergencia entre las fuentes, consignando únicamente el dato en que todas coinciden; se precisó que la denominación «Lucky Lady I» es retrospectiva y no figuraba en el aparato; se distinguió esta misión con escalas de la circunnavegación sin escalas de 1949, con la que se confunde habitualmente.
 - **Datos no confirmados:** el número de serie del *Gas Gobbler*; la hora exacta de aterrizaje en Davis-Monthan el 6 de agosto de 1948; el nombre completo del Teniente Coronel Kline.
 - **Nivel de confianza:** Alto

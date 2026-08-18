@@ -141,13 +141,13 @@ El 27 de abril de 2005, el A380 despegó por primera vez. Más de dos décadas d
 
 <div class="references">
   <ul>
-    <li><a href="https://fly-news.es/aviacion-comercial/airbus-a380-20-anos-primer-vuelo/">Fly News - 20 años del primer vuelo del Airbus A380</a></li>
-    <li><a href="https://www.airbus.com/en/newsroom/stories/2025-04-happy-20th-anniversary-a380">Airbus - Happy 20th anniversary, A380!</a></li>
-    <li><a href="https://www.aviacionline.com/a-10-anos-del-primer-vuelo-del-airbus-a380">Aviacionline - A 10 años del primer vuelo del Airbus A380</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Airbus_A380">Wikipedia - Airbus A380</a></li>
-    <li><a href="https://news.bbc.co.uk/2/hi/uk_news/wales/4487783.stm">BBC News - Airbus staff watch maiden flight</a></li>
-    <li><a href="https://elpais.com/economia/2005/04/27/actualidad/1114587174_850215.html">EL PAÍS - El Airbus A380 completa con éxito su primer vuelo de pruebas</a></li>
-    <li><a href="https://aerospaceglobalnews.com/news/airbus-a380-marks-20-years-since-first-flight/">Aerospace Global News - Airbus A380 marks 20 years since first flight</a></li>
+    <li><a href="https://fly-news.es/aviacion-comercial/airbus-a380-20-anos-primer-vuelo/" style="color: #315fea; text-decoration: none;">Fly News - 20 años del primer vuelo del Airbus A380</a></li>
+    <li><a href="https://www.airbus.com/en/newsroom/stories/2025-04-happy-20th-anniversary-a380" style="color: #315fea; text-decoration: none;">Airbus - Happy 20th anniversary, A380!</a></li>
+    <li><a href="https://www.aviacionline.com/a-10-anos-del-primer-vuelo-del-airbus-a380" style="color: #315fea; text-decoration: none;">Aviacionline - A 10 años del primer vuelo del Airbus A380</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Airbus_A380" style="color: #315fea; text-decoration: none;">Wikipedia - Airbus A380</a></li>
+    <li><a href="https://news.bbc.co.uk/2/hi/uk_news/wales/4487783.stm" style="color: #315fea; text-decoration: none;">BBC News - Airbus staff watch maiden flight</a></li>
+    <li><a href="https://elpais.com/economia/2005/04/27/actualidad/1114587174_850215.html" style="color: #315fea; text-decoration: none;">EL PAÍS - El Airbus A380 completa con éxito su primer vuelo de pruebas</a></li>
+    <li><a href="https://aerospaceglobalnews.com/news/airbus-a380-marks-20-years-since-first-flight/" style="color: #315fea; text-decoration: none;">Aerospace Global News - Airbus A380 marks 20 years since first flight</a></li>
   </ul>
 </div>
 
@@ -155,7 +155,7 @@ El 27 de abril de 2005, el A380 despegó por primera vez. Más de dos décadas d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-25 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Fly News, Airbus (comunicado oficial), Aviacionline, Wikipedia, BBC News, EL PAÍS, Aerospace Global News
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (27 de abril de 2005). La hora del despegue fue 10:29-10:30 (confirmado por múltiples fuentes). La duración del vuelo varía ligeramente (3h54m según SpaceNews, 3h52m según CARNOC); se incluye la discrepancia en la nota aclaratoria. El peso al despegue fue 421 toneladas (828.300 lb), no 420 o 430 como mencionan algunas fuentes.
 - **Nivel de confianza:** Alto

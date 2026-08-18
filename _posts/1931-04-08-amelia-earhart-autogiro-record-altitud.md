@@ -12,7 +12,7 @@ image: 1931-04-08-amelia-earhart-autogiro-record-altitud.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1931-04-08-amelia-earhart-autogiro-record-altitud.webp" alt="Amelia Earhart junto a Harold Pitcairn antes del vuelo récord">
-  <figcaption class="post-caption">La aviadora Amelia Earhart (centro) con su esposo George Palmer Putnam (izquierda) y el diseñador Harold F. Pitcairn (derecha) antes de despegar para establecer el récord de altitud en autogiro en Bryn Athyn, Pensilvania, el 8 de abril de 1931. Fuente: <a href="https://explorepahistory.com/~expa/displayimage.php?imgId=1-2-124B">Explore PA History / Corbis-Bettmann</a>.</figcaption>
+  <figcaption class="post-caption">La aviadora Amelia Earhart (centro) con su esposo George Palmer Putnam (izquierda) y el diseñador Harold F. Pitcairn (derecha) antes de despegar para establecer el récord de altitud en autogiro en Bryn Athyn, Pensilvania, el 8 de abril de 1931. Fuente: <a href="https://explorepahistory.com/~expa/displayimage.php?imgId=1-2-124B" style="color: #315fea; text-decoration: none;">Explore PA History / Corbis-Bettmann</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
@@ -89,7 +89,7 @@ El récord de altitud de Earhart en autogiro es un episodio menos conocido de su
 
 - **Visibilidad para el autogiro:** Aunque el autogiro nunca alcanzó la popularidad del helicóptero, el récord de Earhart ayudó a mantener vivo el interés por esta tecnología.
 
-- **Trayectoria posterior de Earhart:** Earhart continuaría batiendo récords en los años siguientes. El <strong>11 de enero de 1935</strong>, realizó el primer vuelo en solitario desde Hawái a California, a bordo de un Lockheed Vega 5B, cubriendo 2,408 millas (3,875 km) en 18 horas y 15 minutos. Para más información sobre esta travesía, consulte la efeméride dedicada: <a href="https://efemerides-aviacion.github.io/efemerides/evento/1935/01/11/amelia-earhart-primer-vuelo-en-solitario.html">Primer vuelo en solitario de Amelia Earhart de Hawái a California (11 de enero de 1935)</a>.
+- **Trayectoria posterior de Earhart:** Earhart continuaría batiendo récords en los años siguientes. El <strong>11 de enero de 1935</strong>, realizó el primer vuelo en solitario desde Hawái a California, a bordo de un Lockheed Vega 5B, cubriendo 2,408 millas (3,875 km) en 18 horas y 15 minutos. Para más información sobre esta travesía, consulte la efeméride dedicada: <a href="https://efemerides-aviacion.github.io/efemerides/evento/1935/01/11/amelia-earhart-primer-vuelo-en-solitario.html" style="color: #315fea; text-decoration: none;">Primer vuelo en solitario de Amelia Earhart de Hawái a California (11 de enero de 1935)</a>.
 
 Hoy, el Pitcairn PCA-2 es recordado como el primer autogiro certificado en Estados Unidos y como la aeronave en la que Earhart añadió otro récord a su legendaria carrera.
 
@@ -99,11 +99,11 @@ Hoy, el Pitcairn PCA-2 es recordado como el primer autogiro certificado en Estad
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Pitcairn_PCA-2">Wikipedia (EN) – Pitcairn PCA-2</a></li>
-    <li><a href="https://explorepahistory.com/~expa/displayimage.php?imgId=1-2-124B">Explore PA History – Amelia Earhart antes del vuelo récord (8 abril 1931)</a></li>
-    <li><a href="https://californiarevealed.org/do/6352c8db-c337-4967-8dc0-9267c380bbd1">California Revealed – Amelia Earhart and her Pitcairn Autogyro</a></li>
-    <li><a href="https://webarchiveweb.wayback.bac-lac.canada.ca/web/20101202032345/http://en.wikipedia.org/wiki/Pitcairn_PCA-2">Canada.ca / Wikipedia Archive – Pitcairn PCA-2</a></li>
-    <li><a href="https://en.wikipedia.org/w/index.php?diff=816579106">Wikipedia – Autogyro (revisión con registro de Earhart)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Pitcairn_PCA-2" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Pitcairn PCA-2</a></li>
+    <li><a href="https://explorepahistory.com/~expa/displayimage.php?imgId=1-2-124B" style="color: #315fea; text-decoration: none;">Explore PA History – Amelia Earhart antes del vuelo récord (8 abril 1931)</a></li>
+    <li><a href="https://californiarevealed.org/do/6352c8db-c337-4967-8dc0-9267c380bbd1" style="color: #315fea; text-decoration: none;">California Revealed – Amelia Earhart and her Pitcairn Autogyro</a></li>
+    <li><a href="https://webarchiveweb.wayback.bac-lac.canada.ca/web/20101202032345/http://en.wikipedia.org/wiki/Pitcairn_PCA-2" style="color: #315fea; text-decoration: none;">Canada.ca / Wikipedia Archive – Pitcairn PCA-2</a></li>
+    <li><a href="https://en.wikipedia.org/w/index.php?diff=816579106" style="color: #315fea; text-decoration: none;">Wikipedia – Autogyro (revisión con registro de Earhart)</a></li>
   </ul>
 </div>
 
@@ -120,7 +120,7 @@ Hoy, el Pitcairn PCA-2 es recordado como el primer autogiro certificado en Estad
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-05 15:15:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (Pitcairn PCA-2), Explore PA History, California Revealed, Wikipedia Archive (Canada.ca)
 - **Discrepancias resueltas:**
   - Altitud: 18,415 pies vs 18,400 vs 18,451 → Se optó por 18,415 pies (cifra más documentada, respaldada por el New York Times del 9 de abril de 1931)

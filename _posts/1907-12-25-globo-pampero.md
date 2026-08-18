@@ -64,16 +64,16 @@ El Pampero es recordado como símbolo de audacia y exploración. Su travesía ma
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Pampero_%28globo%29">Wikipedia – Pampero (globo)</a></li>
-    <li><a href="https://fotohistoria.com.ar/2024/12/25/el-globo-pampero-una-hazana-pionera-de-los-hermanos-newbery/">FotoHistoria – El Globo Pampero: Una Hazaña Pionera</a></li>
-    <li><a href="https://elarcondelahistoria.com/primer-vuelo-en-el-globo-%C2%93pampero%C2%94-25121907/">El arcón de la historia Argentina – Primer vuelo del globo Pampero</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Pampero_%28globo%29" style="color: #315fea; text-decoration: none;">Wikipedia – Pampero (globo)</a></li>
+    <li><a href="https://fotohistoria.com.ar/2024/12/25/el-globo-pampero-una-hazana-pionera-de-los-hermanos-newbery/" style="color: #315fea; text-decoration: none;">FotoHistoria – El Globo Pampero: Una Hazaña Pionera</a></li>
+    <li><a href="https://elarcondelahistoria.com/primer-vuelo-en-el-globo-%C2%93pampero%C2%94-25121907/" style="color: #315fea; text-decoration: none;">El arcón de la historia Argentina – Primer vuelo del globo Pampero</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2025-12-24 10:30 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Archivos históricos argentinos, Museo Nacional de Aeronáutica, Biblioteca Nacional  
 - **Discrepancias resueltas:** Lugar de aterrizaje citado como San Nicolás o Santa Ana; se confirma San Nicolás.  
 - **Nivel de confianza:** Alto  

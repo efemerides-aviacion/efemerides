@@ -113,15 +113,15 @@ El «proyecto fallido» que duró 106 días se convirtió en la base sobre la qu
 
 <div class="references">
   <ul>
-    <li><a href="https://www.jpl.nasa.gov/missions/seasat/">Jet Propulsion Laboratory (NASA) – Seasat Mission Overview</a></li>
-    <li><a href="https://www.earthdata.nasa.gov/data/platforms/space-based-platforms/seasat-1">NASA Earthdata – Seasat-1 Platform</a></li>
-    <li><a href="https://www.eoportal.org/satellite-missions/seasat">ESA eoPortal – SeaSat (SeaSat-A or SeaSat-1)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Seasat">Wikipedia – Seasat</a></li>
-    <li><a href="https://science.nasa.gov/photojournal/seasat-celebrates-landmark-in-remote-sensing-history/">NASA Science – Seasat Celebrates Landmark in Remote-Sensing History</a></li>
+    <li><a href="https://www.jpl.nasa.gov/missions/seasat/" style="color: #315fea; text-decoration: none;">Jet Propulsion Laboratory (NASA) – Seasat Mission Overview</a></li>
+    <li><a href="https://www.earthdata.nasa.gov/data/platforms/space-based-platforms/seasat-1" style="color: #315fea; text-decoration: none;">NASA Earthdata – Seasat-1 Platform</a></li>
+    <li><a href="https://www.eoportal.org/satellite-missions/seasat" style="color: #315fea; text-decoration: none;">ESA eoPortal – SeaSat (SeaSat-A or SeaSat-1)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Seasat" style="color: #315fea; text-decoration: none;">Wikipedia – Seasat</a></li>
+    <li><a href="https://science.nasa.gov/photojournal/seasat-celebrates-landmark-in-remote-sensing-history/" style="color: #315fea; text-decoration: none;">NASA Science – Seasat Celebrates Landmark in Remote-Sensing History</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La fecha de lanzamiento aparece registrada como 26 de junio (hora local en la costa oeste de EE. UU.) y como 27 de junio (hora UTC). La fecha oficial de la misión y la utilizada para esta efeméride es el 27 de junio de 1978 a las 01:12 UTC, que es la fecha correcta en tiempo universal. El satélite dejó de funcionar el 10 de octubre de 1978 debido a un cortocircuito en el sistema eléctrico.</p>
@@ -131,7 +131,7 @@ El «proyecto fallido» que duró 106 días se convirtió en la base sobre la qu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-24 12:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** JPL/NASA, NASA Earthdata, ESA eoPortal, Wikipedia
 - **Discrepancias resueltas:** Se ha resuelto la discrepancia de la fecha de lanzamiento (26 vs 27 de junio de 1978), confirmando que la fecha UTC correcta es el 27 de junio de 1978, derivada de la hora local (26 de junio por la noche en California). Se ha añadido una explicación sobre el uso del UTC.
 - **Nivel de confianza:** Alto

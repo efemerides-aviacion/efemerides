@@ -154,9 +154,9 @@ De la memoria material sobrevive lo previsible: una escuela y un centro de congr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** TIMESTAMP_PLACEHOLDER
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Library of Congress, División de Estampas y Fotografías, retrato de la National Photo Company fechado en octubre de 1924; U.S. Centennial of Flight Commission, ficha biográfica elaborada para el centenario del vuelo.
-- **Fuentes secundarias de contraste:** Airships.net, con la semblanza biográfica más detallada disponible en línea y el historial del LZ 127; Encyclopaedia Britannica; World History Encyclopedia, con el relato de la circunnavegación de 1929; Wikipedia en inglés y en español, con referencia a los trabajos de Schwensen, Adam y Syon; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Airships.net, con la semblanza biográfica más detallada disponible en línea y el historial del LZ 127; Encyclopaedia Britannica; World History Encyclopedia, con el relato de la circunnavegación de 1929; Wikipedia en inglés y en español, con referencia a los trabajos de Schwensen, Adam y Syon.
 - **Discrepancias resueltas:** se precisó que Eckener cubrió como periodista el segundo vuelo del LZ 1 y no su vuelo inaugural; se optó por la formulación general sobre su labor de instrucción durante la guerra ante la divergencia de cifras entre fuentes; se descartó el dato sobre la dirección de la construcción de ochenta y ocho dirigibles navales, que solo consta en una fuente; se distinguió su papel como gestor y comandante del de diseñador estructural, atribuido a Ludwig Dürr.
 - **Datos no confirmados:** la fecha exacta en que la compañía lo apartó formalmente del control operativo, que las fuentes sitúan de manera imprecisa entre 1933 y 1936.
 - **Nivel de confianza:** Alto

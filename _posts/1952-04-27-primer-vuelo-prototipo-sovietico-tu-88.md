@@ -139,11 +139,11 @@ El legado del Tu-88/Tu-16 es, por tanto, uno de los más longevos de la historia
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Tupolev_Tu-16">Wikipedia (EN) - Tupolev Tu-16</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/T%C3%BApolev_Tu-16">Wikipedia (ES) - Túpolev Tu-16</a></li>
-    <li><a href="https://airvectors.net/avtu16_1.html">Airvectors - Tu-16 Origins / Tu-16 Bombers, Tankers, & Missile Carriers</a></li>
-    <li><a href="https://nuke.fas.org/guide/russia/bomber/tu-16.htm">FAS - Tu-16 BADGER (Tupolev)</a></li>
-    <li><a href="https://nationalinterest.org/blog/buzz/russias-tupolev-tu-16-bomber-complete-history-208748">The National Interest - Russia's Tupolev Tu-16 Bomber: A Complete History</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Tupolev_Tu-16" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Tupolev Tu-16</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/T%C3%BApolev_Tu-16" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Túpolev Tu-16</a></li>
+    <li><a href="https://airvectors.net/avtu16_1.html" style="color: #315fea; text-decoration: none;">Airvectors - Tu-16 Origins / Tu-16 Bombers, Tankers, & Missile Carriers</a></li>
+    <li><a href="https://nuke.fas.org/guide/russia/bomber/tu-16.htm" style="color: #315fea; text-decoration: none;">FAS - Tu-16 BADGER (Tupolev)</a></li>
+    <li><a href="https://nationalinterest.org/blog/buzz/russias-tupolev-tu-16-bomber-complete-history-208748" style="color: #315fea; text-decoration: none;">The National Interest - Russia's Tupolev Tu-16 Bomber: A Complete History</a></li>
   </ul>
 </div>
 
@@ -151,7 +151,7 @@ El legado del Tu-88/Tu-16 es, por tanto, uno de los más longevos de la historia
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-25 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), Airvectors, FAS, The National Interest
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (27 de abril de 1952). El piloto fue N. S. Rybko (según fuentes rusas especializadas). La duración del primer vuelo (12 minutos) está documentada en fuentes de aviación rusas. La velocidad máxima alcanzada en pruebas fue de 1.020 km/h, superior a la prevista.
 - **Nivel de confianza:** Alto

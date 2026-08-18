@@ -146,9 +146,9 @@ Queda por último la figura del piloto. Edmundo Weiss voló aquella tarde un apa
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-04 08:21:24 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Ministerio de Defensa de la República Argentina, ficha oficial de la aeronave como bien de interés histórico nacional; Efemérides de la Fuerza Aérea Argentina en su edición de 2022; Boletín Oficial de la República Argentina, texto del Decreto 899/2015.
-- **Fuentes secundarias de contraste:** Aviastar, con la ficha técnica del tipo; AMILARG, con el detalle del equipo de proyecto y la configuración; La Nación; Wikipedia en español e inglés, con referencia a la <em>Historia de la industria aeronáutica argentina</em> de Francisco Halbritter; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Aviastar, con la ficha técnica del tipo; AMILARG, con el detalle del equipo de proyecto y la configuración; La Nación; Wikipedia en español e inglés, con referencia a la <em>Historia de la industria aeronáutica argentina</em> de Francisco Halbritter.
 - **Discrepancias resueltas:** se consignó la divergencia sobre el puesto mundial del aparato, entre el octavo y el noveno según el criterio de cómputo; se adoptaron los 720 kilómetros por hora de las fichas técnicas frente a los 750 de las crónicas periodísticas; se registró la discrepancia sobre el número de cañones previstos y sobre la fecha de la exhibición ante el presidente; se precisó que Dewoitine se incorporó a un equipo ya constituido en lugar de dirigirlo desde el origen.
 - **Datos no confirmados:** la duración del primer vuelo y la altura alcanzada en él, que no constan en las fuentes consultadas.
 - **Nivel de confianza:** Alto

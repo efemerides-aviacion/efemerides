@@ -12,7 +12,7 @@ image: 1937-04-12-whittle-unit-primer-motor-jet.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1937-04-12-whittle-unit-primer-motor-jet.webp" alt="Whittle Unit (WU), primer turbojet de la historia">
-  <figcaption class="post-caption">Whittle Unit (WU), el primer motor turborreactor del mundo, diseñado por Frank Whittle. Esta fotografía muestra el motor montado en un soporte de transporte o exhibición, no en el banco de pruebas original de Rugby. Fuente: <a href="https://www.gracesguide.co.uk/Power_Jets">Grace's Guide</a>.</figcaption>
+  <figcaption class="post-caption">Whittle Unit (WU), el primer motor turborreactor del mundo, diseñado por Frank Whittle. Esta fotografía muestra el motor montado en un soporte de transporte o exhibición, no en el banco de pruebas original de Rugby. Fuente: <a href="https://www.gracesguide.co.uk/Power_Jets" style="color: #315fea; text-decoration: none;">Grace's Guide</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -93,7 +93,7 @@ El Whittle Unit no fue un motor perfecto, pero fue el primero. Su éxito en Rugb
 - **Reconocimiento oficial:** En 1948, el gobierno británico le otorgó un pago de £100.000 como gratificación (ex gratia), sin admitir responsabilidad legal, en reconocimiento a su contribución a la aviación y fue nombrado Comandante de la Orden del Imperio Británico (CBE).
 - **Inclusiones en museos:** El motor WU original se conserva en el Science Museum de Londres.
 - **Honores internacionales:** En 1976, ya retirado en Estados Unidos, fue incluido en el International Air & Space Hall of Fame.
-- **Relación con otros pioneros:** Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1907/06/01/nacimiento-frank-whittle.html" style="color: #1565c0; text-decoration: none;">efeméride de nacimiento de Frank Whittle</a> y la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1911/12/14/nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #1565c0; text-decoration: none;">efeméride de nacimiento de Hans von Ohain</a> para más detalles sobre los pioneros del motor a reacción.
+- **Relación con otros pioneros:** Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1907/06/01/nacimiento-frank-whittle.html" style="color: #315fea; text-decoration: none;">efeméride de nacimiento de Frank Whittle</a> y la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1911/12/14/nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #315fea; text-decoration: none;">efeméride de nacimiento de Hans von Ohain</a> para más detalles sobre los pioneros del motor a reacción.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -101,13 +101,13 @@ El Whittle Unit no fue un motor perfecto, pero fue el primero. Su éxito en Rugb
 
 <div class="references">
   <ul>
-    <li><a href="https://www.gracesguide.co.uk/Power_Jets">Grace's Guide – Power Jets</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Frank_Whittle">Wikipedia (ES) – Frank Whittle</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Frank_Whittle">Wikipedia (EN) – Frank Whittle</a></li>
+    <li><a href="https://www.gracesguide.co.uk/Power_Jets" style="color: #315fea; text-decoration: none;">Grace's Guide – Power Jets</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Frank_Whittle" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Frank Whittle</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Frank_Whittle" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Frank Whittle</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -121,7 +121,7 @@ El Whittle Unit no fue un motor perfecto, pero fue el primero. Su éxito en Rugb
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-30 12:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Grace's Guide, Wikipedia (ES/EN)
 - **Discrepancias resueltas:** Algunas fuentes mencionan el 13 de abril como fecha de la prueba, pero la mayoría de las fuentes autorizadas confirman el 12 de abril de 1937. Se ha adoptado esta última.
 - **Nivel de confianza:** Alto

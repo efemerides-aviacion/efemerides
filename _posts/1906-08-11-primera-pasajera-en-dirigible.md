@@ -125,9 +125,9 @@ Su figura se sitúa en una secuencia que continuaría en 1908 con Edith Berg, pr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-06 06:32:17 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** The Washington Times y Perth Amboy Evening News, ediciones del 13 de agosto de 1906, consultadas en la hemeroteca digital Chronicling America de la Library of Congress; U.S. Air Force, AFP 210-1-1, «Chronology of American Aerospace Events», edición de julio de 1959; National Air and Space Museum, fondo fotográfico sobre A. Leo Stevens.
-- **Fuentes secundarias de contraste:** The Lighter-Than-Air Society; George Stroupe, semblanza biográfica de C. J. S. Miller publicada por la propia sociedad; semblanza de A. Leo Stevens en Dom Magazine; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** The Lighter-Than-Air Society; George Stroupe, semblanza biográfica de C. J. S. Miller publicada por la propia sociedad; semblanza de A. Leo Stevens en Dom Magazine.
 - **Discrepancias resueltas:** se fijó el 11 de agosto como fecha del vuelo, frente al 10 que consigna la Lighter-Than-Air Society, por corresponder al sábado que citan las crónicas de prensa del día 13; se atribuyó el mando de la aeronave a A. Leo Stevens conforme al testimonio de las dos crónicas contemporáneas, frente a las cronologías que lo asignan al Mayor Miller; se distinguió la primacía de Mary Prentice Miller, primera mujer en volar en dirigible en Estados Unidos, de la de Aida de Acosta, primera mujer en pilotar una aeronave motorizada en 1903.
 - **Datos no confirmados:** las fechas de nacimiento y fallecimiento de Mary Prentice Miller, que las fuentes consultadas no consignan; la denominación específica del dirigible, que las crónicas no recogen.
 - **Nivel de confianza:** Alto

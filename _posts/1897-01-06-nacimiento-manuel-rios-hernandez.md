@@ -130,9 +130,9 @@ Hay algo elocuente en que el hombre cuya partida de nacimiento nadie ha logrado 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-07 18:15:46 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** crónica municipal de Altagracia de Orituco por Carlos A. López Garcés, con verificación directa de los libros del Registro Civil y de la parroquia Nuestra Señora de Altagracia; transcripción del oficio del Director de la Escuela de Aviación Militar comunicando el primer vuelo en solitario.
-- **Fuentes secundarias de contraste:** Otilca Radio; Web de Alta; Personajes del Orituco; cronología de la Aviación Militar Venezolana; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Otilca Radio; Web de Alta; Personajes del Orituco; cronología de la Aviación Militar Venezolana.
 - **Discrepancias resueltas:** se sustituye la fórmula «primer aviador venezolano», que colisionaba con la primacía de Luis Camilo Ramírez Rivas, por la formulación precisa «primer venezolano en volar solo en el cielo nacional», conforme al conjunto de las fuentes consultadas, que emplean sistemáticamente esa distinción. Se hace constar la divergencia entre el 14 y el 15 de abril de 1921 como fecha del primer vuelo, y la ausencia de registro civil y eclesiástico que respalde la fecha de nacimiento.
 - **Datos no confirmados:** los nombres de sus padres; la identidad del sacerdote que se hizo cargo de él; la fecha exacta de su egreso de la Academia Militar; el modelo del avión siniestrado en 1931, que las fuentes citan como Farman 190 con reservas; la fecha exacta de la fotografía, acotada entre marzo de 1924 y junio de 1928 por el grado que muestran las hombreras.
 - **Nivel de confianza:** Medio-alto

@@ -101,16 +101,16 @@ También dejó un legado cultural propio. El Dash 80 se convirtió en símbolo d
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/15-july-1954/">This Day in Aviation – 15 July 1954</a></li>
-    <li><a href="https://www.thisdayinaviation.com/15-july-1954/bi212544/">This Day in Aviation – BI212544</a></li>
-    <li><a href="https://airandspace.si.edu/collection-objects/boeing-367-80-jet-transport/nasm_A19730272000">Smithsonian National Air and Space Museum – Boeing 367-80 Jet Transport</a></li>
-    <li><a href="https://www.smithsonianmag.com/air-space-magazine/dash-80-81791575/">Smithsonian Magazine – Dash 80</a></li>
-    <li><a href="https://www.boeing.com/content/dam/boeing/v2/company/history/pdf/Boeing_Products.pdf">Boeing – Select Products in Boeing History</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_367-80">Wikipedia (EN) – Boeing 367-80</a></li>
+    <li><a href="https://www.thisdayinaviation.com/15-july-1954/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 15 July 1954</a></li>
+    <li><a href="https://www.thisdayinaviation.com/15-july-1954/bi212544/" style="color: #315fea; text-decoration: none;">This Day in Aviation – BI212544</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/boeing-367-80-jet-transport/nasm_A19730272000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Boeing 367-80 Jet Transport</a></li>
+    <li><a href="https://www.smithsonianmag.com/air-space-magazine/dash-80-81791575/" style="color: #315fea; text-decoration: none;">Smithsonian Magazine – Dash 80</a></li>
+    <li><a href="https://www.boeing.com/content/dam/boeing/v2/company/history/pdf/Boeing_Products.pdf" style="color: #315fea; text-decoration: none;">Boeing – Select Products in Boeing History</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_367-80" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Boeing 367-80</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Aunque el Dash 80 suele describirse como prototipo del KC-135 y del Boeing 707, no debe entenderse como si ambos fueran simples derivados idénticos de un mismo fuselaje. La propia documentación histórica de Boeing subraya que los dos compartieron la base conceptual del 367-80, pero evolucionaron como aeronaves distintas, especialmente en dimensiones y configuración del fuselaje. En este post se emplea la fórmula “base común” para reflejar con mayor precisión esa relación.</p>
@@ -119,9 +119,9 @@ También dejó un legado cultural propio. El Dash 80 se convirtió en símbolo d
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-11 10:17:50 CST  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum, Boeing, Boeing Images  
-- **Fuentes secundarias de contraste:** This Day in Aviation, Smithsonian Magazine, Wikipedia EN, borrador preliminar del investigador  
+- **Fuentes secundarias de contraste:** This Day in Aviation, Smithsonian Magazine, Wikipedia EN
 - **Discrepancias resueltas:** se distinguió entre la función del Dash 80 como base conceptual del KC-135 y del 707 y la evolución posterior de ambos como aeronaves diferentes  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -12,7 +12,7 @@ image: 1967-04-09-primer-vuelo-prototipo-boeing-737.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1967-04-09-primer-vuelo-prototipo-boeing-737.webp" alt="Prototipo del Boeing 737-100 durante su vuelo inaugural">
-  <figcaption class="post-caption">El prototipo del Boeing 737-100 (matrícula N73700) durante su primer vuelo el 9 de abril de 1967 desde Boeing Field, Seattle. Fuente: <a href="https://historylink.org/File/3569">Prototype Boeing 737 short-range passenger jet makes its maiden flight on April 9, 1967</a>.</figcaption>
+  <figcaption class="post-caption">El prototipo del Boeing 737-100 (matrícula N73700) durante su primer vuelo el 9 de abril de 1967 desde Boeing Field, Seattle. Fuente: <a href="https://historylink.org/File/3569" style="color: #315fea; text-decoration: none;">Prototype Boeing 737 short-range passenger jet makes its maiden flight on April 9, 1967</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
@@ -80,12 +80,12 @@ El primer vuelo del Boeing 737 el 9 de abril de 1967 marcó el nacimiento del «
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.historylink.org/File/3569">HistoryLink.org – First flight of the Boeing 737 on April 9, 1967</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_737">Wikipedia (EN) – Boeing 737</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Boeing_737">Wikipedia (ES) – Boeing 737</a></li>
-    <li><a href="https://www.boeing.com/history/products/737.page">Boeing – Historical Snapshot: 737</a></li>
-    <li><a href="https://simpleflying.com/boeing-737-first-flight-anniversary/">Simple Flying – Boeing 737 First Flight Anniversary</a></li>
-    <li><a href="https://airwaysmag.com/legacy-posts/boeing-737-50-years-of-safety-and-innovation/">Airways Magazine – Boeing 737: 50 years of safety and innovation</a></li>
+    <li><a href="https://www.historylink.org/File/3569" style="color: #315fea; text-decoration: none;">HistoryLink.org – First flight of the Boeing 737 on April 9, 1967</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_737" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Boeing 737</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Boeing_737" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Boeing 737</a></li>
+    <li><a href="https://www.boeing.com/history/products/737.page" style="color: #315fea; text-decoration: none;">Boeing – Historical Snapshot: 737</a></li>
+    <li><a href="https://simpleflying.com/boeing-737-first-flight-anniversary/" style="color: #315fea; text-decoration: none;">Simple Flying – Boeing 737 First Flight Anniversary</a></li>
+    <li><a href="https://airwaysmag.com/legacy-posts/boeing-737-50-years-of-safety-and-innovation/" style="color: #315fea; text-decoration: none;">Airways Magazine – Boeing 737: 50 years of safety and innovation</a></li>
   </ul>
 </div>
 
@@ -96,7 +96,7 @@ El primer vuelo del Boeing 737 el 9 de abril de 1967 marcó el nacimiento del «
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-06 14:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** HistoryLink.org, Boeing Historical Snapshot, Wikipedia (EN/ES)
 - **Discrepancias resueltas:** Se ha verificado la matrícula N73700 y la fecha exacta del primer vuelo. La duración exacta del vuelo (2h 30min) es consistente en todas las fuentes. Se omite la controversia sobre el retraso por fusible por falta de confirmación oficial.
 - **Nivel de confianza:** Alto

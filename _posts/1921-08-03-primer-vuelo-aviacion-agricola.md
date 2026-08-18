@@ -117,9 +117,9 @@ Queda por último la advertencia implícita. La historia de la aplicación aére
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-30 07:55:11 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** informe de John S. Houser para la Ohio Agricultural Experiment Station (Monthly Bulletin 7, 1922), origen documental de las fotografías del experimento, consultado en Internet Archive.
-- **Fuentes secundarias de contraste:** Air &amp; Space Forces Magazine, Wikipedia en inglés (Aerial application; John A. Macready; Etienne Dormoy; McCook Field; Ceratomia catalpae; Lead arsenate), borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Air &amp; Space Forces Magazine, Wikipedia en inglés (Aerial application; John A. Macready; Etienne Dormoy; McCook Field; Ceratomia catalpae; Lead arsenate).
 - **Discrepancias resueltas:** se citó el aparato como Curtiss Jenny sin precisar variante, por divergencia entre las fuentes entre JN-4 y JN-6; se adoptó 1924 y Macon, Georgia, como inicio de las operaciones comerciales, frente a la fecha de 1923 que ofrecen otras recopilaciones; se omitió fijar el plazo exacto de mortandad de las orugas por oscilar entre 46 horas y seis días según la fuente.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

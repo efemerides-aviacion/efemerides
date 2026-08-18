@@ -34,7 +34,7 @@ image: 1911-01-30-amerizaje-rescate-de-mccurdy-y-aeronave.jpg
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Contexto histórico
+## Contexto Histórico
 El intento de McCurdy fue un hito en la aviación temprana, al combinar la ambición de un vuelo internacional con la participación de la Armada estadounidense en labores de seguridad y rescate.
 
 ### Entorno social
@@ -59,30 +59,30 @@ El intento de McCurdy fue un hito en la aviación temprana, al combinar la ambic
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://newspapers.lib.utah.edu/details?id=14202120">The Salt Lake Tribune (31 Ene 1911) – Oversea Flight Records Broken</a></li>
-    <li><a href="https://www.keyslibraries.org/post/january-30-2026">Monroe County Public Library – Entrada histórica 2026</a></li>
-    <li><a href="https://www.keyslibraries.org/post/january-30-2025">Monroe County Public Library – Entrada histórica 2025</a></li>
-    <li><a href="https://en.wikipedia.org/w/index.php?diff=637086">Wikipedia – 1911 (primer rescate aéreo en el mar)</a></li>
-    <li><a href="https://www.smartage.pl/j-a-douglas-mccurdy-i-historyczny-lot-na-kube/">SmartAge.pl – McCurdy i historyczny lot na Kubę</a></li>
+    <li><a href="https://newspapers.lib.utah.edu/details?id=14202120" style="color: #315fea; text-decoration: none;">The Salt Lake Tribune (31 Ene 1911) – Oversea Flight Records Broken</a></li>
+    <li><a href="https://www.keyslibraries.org/post/january-30-2026" style="color: #315fea; text-decoration: none;">Monroe County Public Library – Entrada histórica 2026</a></li>
+    <li><a href="https://www.keyslibraries.org/post/january-30-2025" style="color: #315fea; text-decoration: none;">Monroe County Public Library – Entrada histórica 2025</a></li>
+    <li><a href="https://en.wikipedia.org/w/index.php?diff=637086" style="color: #315fea; text-decoration: none;">Wikipedia – 1911 (primer rescate aéreo en el mar)</a></li>
+    <li><a href="https://www.smartage.pl/j-a-douglas-mccurdy-i-historyczny-lot-na-kube/" style="color: #315fea; text-decoration: none;">SmartAge.pl – McCurdy i historyczny lot na Kubę</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 
 	<p><strong>Nota aclaratoria:</strong> Algunas fuentes difieren en la distancia exacta al punto de amerizaje (10 vs. 16 km de la costa cubana). Esta efeméride adopta la cifra más citada en reportes contemporáneos: ~10 millas (16 km).</p>
 	<p>Las fuentes históricas, incluyendo los reportes de prensa de la época como <em>The Salt Lake Tribune</em> (31 de enero de 1911), indican que el rescate directo de la vida del aviador J.A.D. McCurdy fue realizado por el <strong>bote salvavidas del destructor USS Terry</strong>, que lo recogió del agua tras su amerizaje. Posteriormente, McCurdy fue llevado a bordo del <strong>USS Paulding</strong>, que intentó izar su aeronave dañada. Esta distinción explica por qué algunas fuentes y fotografías de la época (como la de R. W. Harrison) asocian el evento con el USS Paulding, mientras que los reportes contemporáneos atribuyen el salvamento de la persona al USS Terry. Ambos buques desempeñaron un papel crucial en este hito, considerado el primer rescate aéreo exitoso en el mar por parte de la Armada de los Estados Unidos.</p>
-  <p><strong>Conexión con el vuelo del Albany Flyer:</strong> La aeronave utilizada por McCurdy era un biplano Curtiss Model D "Pusher", similar al famoso <a href="https://efemerides-aviacion.github.io/efemerides/evento/1910/05/29/vuelo-historico-albany-flyer.html" style="color: #1565c0; text-decoration: none;">Albany Flyer" con el que Glenn Curtiss realizó el primer vuelo interurbano de larga distancia en Estados Unidos en mayo de 1910</a>. Según el Planes of Fame Air Museum, el avión original fue dañado durante el intento de vuelo de McCurdy y posteriormente reparado para vuelos de exhibición en Cuba, tras lo cual su paradero es desconocido.</p>
+  <p><strong>Conexión con el vuelo del Albany Flyer:</strong> La aeronave utilizada por McCurdy era un biplano Curtiss Model D "Pusher", similar al famoso <a href="https://efemerides-aviacion.github.io/efemerides/evento/1910/05/29/vuelo-historico-albany-flyer.html" style="color: #315fea; text-decoration: none;">Albany Flyer" con el que Glenn Curtiss realizó el primer vuelo interurbano de larga distancia en Estados Unidos en mayo de 1910</a>. Según el Planes of Fame Air Museum, el avión original fue dañado durante el intento de vuelo de McCurdy y posteriormente reparado para vuelos de exhibición en Cuba, tras lo cual su paradero es desconocido.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Metadatos de control
-- **Timestamp de verificación:** 2026-03-08 07:35 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** The Salt Lake Tribune; Monroe County Public Library; Wikipedia; SmartAge.pl  
 - **Discrepancias resueltas:** Distancia al amerizaje y detalles del premio cubano. Participación de los dos buques de la armada estadounidende.  
 - **Nivel de confianza:** Alto  

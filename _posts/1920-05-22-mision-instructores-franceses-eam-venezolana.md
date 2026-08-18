@@ -113,13 +113,13 @@ Cien años después, la Fuerza Aérea Venezolana (creada formalmente en 1946) ho
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://servicio.bc.uc.edu.ve/postgrado/manongo41/art08.pdf">Aviación Militar venezolana, 1920-1936 – UCAB</a></li>
-    <li><a href="https://forum.pages14-18.com/viewtopic.php?f=30&t=47846">Forum PAGES 14-18 – Personnel français au Venezuela (1920-1922)</a></li>
-    <li><a href="https://www.infodefensa.com/texto-diario/mostrar/3118560/">Infodefensa – Venezuela y el fortalecimiento de la Aviación Naval</a></li>
-    <li><a href="https://valorespatriosv.blogspot.com/2020/">Valores Patrios – Creación de la EAM (10 de diciembre de 1920)</a></li>
-    <li><a href="https://en.ultimasnoticias.com.ve/opinion/Venezuela-in-military-aviation/">Últimas Noticias – Venezuela in military aviation</a></li>
-    <li><a href="https://www.buenastareas.com/ensayos/Hisotira-De-La-Aviacion-Venezuela/64223668.html">BuenasTareas – Historia de la aviación Venezuela</a></li>
-    <li><a href="https://www.clubensayos.com/Temas-Variados/Historia-de-la-aviaci%C3%B3n-venezolana/2494766.html">ClubEnsayos – Historia de la aviación venezolana</a></li>
+    <li><a href="https://servicio.bc.uc.edu.ve/postgrado/manongo41/art08.pdf" style="color: #315fea; text-decoration: none;">Aviación Militar venezolana, 1920-1936 – UCAB</a></li>
+    <li><a href="https://forum.pages14-18.com/viewtopic.php?f=30&t=47846" style="color: #315fea; text-decoration: none;">Forum PAGES 14-18 – Personnel français au Venezuela (1920-1922)</a></li>
+    <li><a href="https://www.infodefensa.com/texto-diario/mostrar/3118560/" style="color: #315fea; text-decoration: none;">Infodefensa – Venezuela y el fortalecimiento de la Aviación Naval</a></li>
+    <li><a href="https://valorespatriosv.blogspot.com/2020/" style="color: #315fea; text-decoration: none;">Valores Patrios – Creación de la EAM (10 de diciembre de 1920)</a></li>
+    <li><a href="https://en.ultimasnoticias.com.ve/opinion/Venezuela-in-military-aviation/" style="color: #315fea; text-decoration: none;">Últimas Noticias – Venezuela in military aviation</a></li>
+    <li><a href="https://www.buenastareas.com/ensayos/Hisotira-De-La-Aviacion-Venezuela/64223668.html" style="color: #315fea; text-decoration: none;">BuenasTareas – Historia de la aviación Venezuela</a></li>
+    <li><a href="https://www.clubensayos.com/Temas-Variados/Historia-de-la-aviaci%C3%B3n-venezolana/2494766.html" style="color: #315fea; text-decoration: none;">ClubEnsayos – Historia de la aviación venezolana</a></li>
   </ul>
 </div>
 
@@ -132,7 +132,7 @@ Cien años después, la Fuerza Aérea Venezolana (creada formalmente en 1946) ho
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-05-20 17:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** UCAB (documento académico), Forum PAGES 14-18 (archivo histórico francés), Infodefensa, Valores Patrios, Últimas Noticias
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre la fecha de la gestión diplomática (22 de mayo de 1920) y la instalación formal de la escuela (10 de diciembre de 1920). Se han cotejado las listas de integrantes de la misión francesa entre fuentes.
 - **Nivel de confianza:** Alto

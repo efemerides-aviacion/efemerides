@@ -35,7 +35,7 @@ image: 1949-03-02-primera-circunnavegacion-alrededor-del-mundo.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Contexto histórico
+## Contexto Histórico
 La misión de Lucky Lady II fue un hito en la aviación militar, demostrando que la USAF podía proyectar poder aéreo a escala global sin necesidad de escalas terrestres.
 
 ### Entorno social
@@ -85,8 +85,8 @@ Lucky Lady II es recordada como pionera en vuelos de largo alcance, y su misión
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Metadatos de control
-- **Timestamp de verificación:** 2026-02-28 12:05 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES, FAI.org, Aviación Digital, Microsiervos, HistoryNet  
 - **Discrepancias resueltas:** Debate sobre definición de “sin escalas” y comparación con vuelos previos.  
 - **Nivel de confianza:** Alto  

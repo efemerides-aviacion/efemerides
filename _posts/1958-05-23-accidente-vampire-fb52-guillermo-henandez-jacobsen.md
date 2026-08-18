@@ -97,13 +97,13 @@ El legado del Capitán Hernández Jacobsen perdura así en dos dimensiones paral
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://asn.flightsafety.org/wikibase/486208">Aviation Safety Network – Accident de Havilland DH.100 Vampire FB52, 23 May 1958</a></li>
-    <li><a href="https://laprotestamilitar2.wordpress.com/2023/12/15/obituario-se-nos-marcho-al-cielo-de-los-pilotos-nuestro-companero-cnel-av-rafael-quintero-soto-por-cor-onel-av-tomas-montes-de-oca-lugo-venezuela/">La Protesta Militar – Obituario del Cnel. Rafael Quintero Soto (Promoción 1987)</a></li>
-    <li><a href="https://favclubven.wordpress.com">FAV Club – Historia de la Fuerza Aérea Venezolana</a></li>
+    <li><a href="https://asn.flightsafety.org/wikibase/486208" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Accident de Havilland DH.100 Vampire FB52, 23 May 1958</a></li>
+    <li><a href="https://laprotestamilitar2.wordpress.com/2023/12/15/obituario-se-nos-marcho-al-cielo-de-los-pilotos-nuestro-companero-cnel-av-rafael-quintero-soto-por-cor-onel-av-tomas-montes-de-oca-lugo-venezuela/" style="color: #315fea; text-decoration: none;">La Protesta Militar – Obituario del Cnel. Rafael Quintero Soto (Promoción 1987)</a></li>
+    <li><a href="https://favclubven.wordpress.com" style="color: #315fea; text-decoration: none;">FAV Club – Historia de la Fuerza Aérea Venezolana</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -116,7 +116,7 @@ El legado del Capitán Hernández Jacobsen perdura así en dos dimensiones paral
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-05-20 19:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Aviation Safety Network (ASN) - Wikibase 486208, La Protesta Militar (obituario, diciembre 2023), FAV Club
 - **Discrepancias resueltas:** Se ha confirmado la fecha del accidente (23 de mayo de 1958) y la ubicación (Planta Eléctrica La Cabrera). Se ha confirmado el nombre completo "Luis Guillermo Hernández Jacobsen" mediante fuentes institucionales. Se ha verificado la existencia de la Promoción de 1987 que lleva su nombre y del hospital militar.
 - **Datos no confirmados:** Matrícula de la aeronave, hora del accidente, naturaleza de la misión, aeropuerto de salida/destino.

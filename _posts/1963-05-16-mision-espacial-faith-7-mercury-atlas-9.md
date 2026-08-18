@@ -164,11 +164,11 @@ Gordon Cooper volaría de nuevo en agosto de 1965 como comandante de la misión 
 
 <div class="references">
   <ul>
-    <li><a href="https://www.nasa.gov/history/60-years-ago-coopers-faith-7-mission-closes-out-project-mercury/">NASA - 60 Years Ago: Cooper’s Faith 7 Mission Closes Out Project Mercury (2023)</a></li>
-    <li><a href="https://www.nasa.gov/mission/mercury-atlas-9-faith-7/">NASA - Mercury-Atlas 9: Faith 7 (Mission Facts)</a></li>
-    <li><a href="https://www.si.edu/es/object/capsule-mercury-ma-9:nasm_A19710155000">Smithsonian Institution - Faith 7 (MA-9) Capsule</a></li>
-    <li><a href="http://astronautix.com/m/mercuryma-9.html">Encyclopedia Astronautica - Mercury MA-9</a></li>
-    <li><a href="https://www.britannica.com/biography/Gordon-Cooper">Encyclopaedia Britannica - Gordon Cooper</a></li>
+    <li><a href="https://www.nasa.gov/history/60-years-ago-coopers-faith-7-mission-closes-out-project-mercury/" style="color: #315fea; text-decoration: none;">NASA - 60 Years Ago: Cooper’s Faith 7 Mission Closes Out Project Mercury (2023)</a></li>
+    <li><a href="https://www.nasa.gov/mission/mercury-atlas-9-faith-7/" style="color: #315fea; text-decoration: none;">NASA - Mercury-Atlas 9: Faith 7 (Mission Facts)</a></li>
+    <li><a href="https://www.si.edu/es/object/capsule-mercury-ma-9:nasm_A19710155000" style="color: #315fea; text-decoration: none;">Smithsonian Institution - Faith 7 (MA-9) Capsule</a></li>
+    <li><a href="http://astronautix.com/m/mercuryma-9.html" style="color: #315fea; text-decoration: none;">Encyclopedia Astronautica - Mercury MA-9</a></li>
+    <li><a href="https://www.britannica.com/biography/Gordon-Cooper" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica - Gordon Cooper</a></li>
   </ul>
 </div>
 
@@ -176,7 +176,7 @@ Gordon Cooper volaría de nuevo en agosto de 1965 como comandante de la misión 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-14 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** NASA (.gov), Smithsonian Institution, Encyclopedia Astronautica, Encyclopaedia Britannica
 - **Discrepancias resueltas:** La misión Faith 7 despegó el 15 de mayo de 1963 y amerizó el 16 de mayo de 1963, tras 34 horas, 19 minutos y 49 segundos en el espacio. El lanzamiento fue transmitido en vivo por televisión. Cooper fue el sexto estadounidense en el espacio y el último en volar solo en una misión orbital estadounidense.
 - **Nivel de confianza:** Alto

@@ -136,9 +136,9 @@ Queda por último la memoria. La Universidad de Syracuse dedica cada año una se
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-02 07:34:19 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Air Accidents Investigation Branch del Departamento de Transporte británico, informe 2/90 de 6 de agosto de 1990, con los datos de la aeronave, la tripulación, la carga, la secuencia de desintegración y los daños en tierra; Oficina Federal de Investigación; Agencia Central de Inteligencia; Departamento de Justicia de Estados Unidos; Universidad de Syracuse.
-- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia a las actas del proceso de Camp Zeist y a la prensa contemporánea; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia a las actas del proceso de Camp Zeist y a la prensa contemporánea.
 - **Discrepancias resueltas:** se adoptaron los datos de tripulación del informe oficial, que consigna 10.910 horas de vuelo del comandante frente a las 11.000 de las versiones divulgativas, y que identifica a los tres tripulantes técnicos con nombre completo; se corrigió la composición de la cabina de pasaje, trece auxiliares de vuelo según el informe frente a catorce en otras fuentes; se precisó que el peso de combustible al despegue fue de 108.862 kilogramos y no la cifra redondeada que circula en las recopilaciones; se consignó el intervalo de 340 a 450 gramos de explosivo ante la ausencia de una cifra única; se recogieron las dos cuantías de indemnización publicadas.
 - **Datos no confirmados:** la cantidad exacta de explosivo; el punto preciso en que la maleta con el artefacto se incorporó al circuito de equipajes, cuestión debatida en el proceso judicial.
 - **Nivel de confianza:** Alto

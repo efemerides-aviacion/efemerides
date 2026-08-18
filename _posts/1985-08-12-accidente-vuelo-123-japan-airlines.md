@@ -99,10 +99,10 @@ En el plano técnico, el vuelo 123 enseñó a la aviación a gobernar lo ingober
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_123">Wikipedia (EN) - Japan Air Lines Flight 123</a></li>
-    <li><a href="https://www.thisdayinaviation.com/12-august-1985/">This Day in Aviation - 12 August 1985</a></li>
-    <li><a href="https://shippai.org/fkd/en/hfen/HB1071008.pdf">Failure Knowledge Database - Crash of Japan Airlines B-747 at Mt. Osutaka (Kobayashi y Terada)</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/Category:JA8119_(aircraft)">Wikimedia Commons - Categoría JA8119 (aircraft)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_123" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Japan Air Lines Flight 123</a></li>
+    <li><a href="https://www.thisdayinaviation.com/12-august-1985/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 12 August 1985</a></li>
+    <li><a href="https://shippai.org/fkd/en/hfen/HB1071008.pdf" style="color: #315fea; text-decoration: none;">Failure Knowledge Database - Crash of Japan Airlines B-747 at Mt. Osutaka (Kobayashi y Terada)</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/Category:JA8119_(aircraft)" style="color: #315fea; text-decoration: none;">Wikimedia Commons - Categoría JA8119 (aircraft)</a></li>
   </ul>
 </div>
 
@@ -110,7 +110,7 @@ En el plano técnico, el vuelo 123 enseñó a la aviación a gobernar lo ingober
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-08 11:08:21 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN), This Day in Aviation, Failure Knowledge Database, Wikimedia Commons
 - **Discrepancias resueltas:** Las fuentes coinciden en fecha, aeronave, ocupantes y víctimas. Difieren en el ciclo exacto de la falla del mamparo (12.219 según This Day in Aviation, 12.319 según la Failure Knowledge Database); se redactó con la expresión «pasados los 12.000 ciclos», correcta para ambos registros. En horas y vuelos totales se adoptó el registro de la aeronave (25.030 horas, 18.835 vuelos).
 - **Nivel de confianza:** Alto

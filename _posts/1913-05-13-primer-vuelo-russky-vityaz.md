@@ -164,11 +164,11 @@ Hoy, el legado del Russky Vityaz vive en todos los grandes aviones de pasajeros 
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Sikorsky_Russky_Vityaz">Wikipedia (ES) - Sikorsky Russky Vityaz</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Sikorsky_Russky_Vityaz">Wikipedia (EN) - Sikorsky Russky Vityaz</a></li>
-    <li><a href="https://www.britannica.com/biography/Igor-Sikorsky">Encyclopaedia Britannica - Igor Sikorsky</a></li>
-    <li><a href="https://blog.sandglasspatrol.com/sikorsky-russky-vityaz-le-grand-el-primer-380-el-primer-cuatrimotor-de-la-historia/">Sandglass Patrol - Sikorsky Russky Vityaz</a></li>
-    <li><a href="https://aviastar.org/air/russia/russki_vitjaz.php">Aviastar - Sikorsky S-21 Russki Vityaz</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Sikorsky_Russky_Vityaz" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Sikorsky Russky Vityaz</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Sikorsky_Russky_Vityaz" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Sikorsky Russky Vityaz</a></li>
+    <li><a href="https://www.britannica.com/biography/Igor-Sikorsky" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica - Igor Sikorsky</a></li>
+    <li><a href="https://blog.sandglasspatrol.com/sikorsky-russky-vityaz-le-grand-el-primer-380-el-primer-cuatrimotor-de-la-historia/" style="color: #315fea; text-decoration: none;">Sandglass Patrol - Sikorsky Russky Vityaz</a></li>
+    <li><a href="https://aviastar.org/air/russia/russki_vitjaz.php" style="color: #315fea; text-decoration: none;">Aviastar - Sikorsky S-21 Russki Vityaz</a></li>
   </ul>
 </div>
 
@@ -176,7 +176,7 @@ Hoy, el legado del Russky Vityaz vive en todos los grandes aviones de pasajeros 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-10 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), Encyclopaedia Britannica, Sandglass Patrol, Aviastar.org
 - **Discrepancias resueltas:** Existe una discrepancia en la fecha del primer vuelo debido a los calendarios juliano y gregoriano (13 de mayo vs. 30 de abril). Las fuentes confirman el 13 de mayo de 1913 como la fecha del primer vuelo según el calendario gregoriano. El nombre del copiloto varía según la fuente, pero se ha priorizado a Aleksandr Alekhnovich, el más citado. Se ha aclarado la línea de tiempo entre la concepción del avión (1911) y el inicio de la construcción (principios de 1913) para evitar confusión.
 - **Nivel de confianza:** Alto

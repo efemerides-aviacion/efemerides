@@ -33,7 +33,7 @@ image: 2005-03-03-virgin-atlantic-global-flyer-record-mundial.jpg
 - **Homologación:** Federación Aeronáutica Internacional (FAI)  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Contexto histórico
+## Contexto Histórico
 La hazaña de Fossett se inscribe en la tradición de los grandes récords de aviación, demostrando los límites de la resistencia humana y la ingeniería aeronáutica.
 
 ### Entorno social
@@ -78,8 +78,8 @@ El GlobalFlyer se exhibe en el Museo Nacional del Aire y el Espacio del Smithson
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Cadena SER, ABC News AU, China Daily, Semana, La Nación, Wikipedia EN, Getty Images  
 - **Discrepancias resueltas:** Distancia mínima exigida por la FAI y fuga de combustible  
 - **Nivel de confianza:** Alto  

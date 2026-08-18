@@ -88,15 +88,14 @@ Siete años después, el maizal de Ramenskoye sigue siendo la referencia rusa de
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Ural_Airlines_Flight_178">Wikipedia (EN) - Ural Airlines Flight 178</a></li>
-    <li><a href="https://www.bbc.com/news/world-europe-49355236">BBC - Russia bird strike: Plane crash-lands after hitting gulls</a></li>
-    <li><a href="https://www.reuters.com/article/world/russian-pilots-land-plane-in-cornfield-earn-kremlin-praise-idUSKCN1V50DO/">Reuters - Russian pilots land plane in cornfield, earn Kremlin praise</a></li>
-    <li><a href="https://www.flightradar24.com/blog/ural-airlines-flight-178-lands-in-field-shortly-after-take-off/">Flightradar24 - Ural Airlines flight 178 lands in field shortly after take off</a></li>
-    <li>Borrador preliminar del investigador, con la secuencia detallada del informe del Comité Interestatal de Aviación (MAK)</li>
+    <li><a href="https://en.wikipedia.org/wiki/Ural_Airlines_Flight_178" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Ural Airlines Flight 178</a></li>
+    <li><a href="https://www.bbc.com/news/world-europe-49355236" style="color: #315fea; text-decoration: none;">BBC - Russia bird strike: Plane crash-lands after hitting gulls</a></li>
+    <li><a href="https://www.reuters.com/article/world/russian-pilots-land-plane-in-cornfield-earn-kremlin-praise-idUSKCN1V50DO/" style="color: #315fea; text-decoration: none;">Reuters - Russian pilots land plane in cornfield, earn Kremlin praise</a></li>
+    <li><a href="https://www.flightradar24.com/blog/ural-airlines-flight-178-lands-in-field-shortly-after-take-off/" style="color: #315fea; text-decoration: none;">Flightradar24 - Ural Airlines flight 178 lands in field shortly after take off</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> el elogio público a la tripulación y el informe técnico del MAK conviven en tensión: mientras el Kremlin condecoró a los pilotos como héroes, el comité señaló que, tras el impacto de aves, la tripulación no aplicó los procedimientos adecuados —tren extendido, empuje mal gestionado, morro excesivo y velocidad mal vigilada— y que el aeropuerto mantenía vertederos ilegales que atraían aves. Se consignan ambos extremos: el resultado, sin víctimas mortales, y los señalamientos oficiales.</p>
@@ -106,9 +105,9 @@ Siete años después, el maizal de Ramenskoye sigue siendo la referencia rusa de
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-11 08:46:29 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** informe del accidente del Comité Interestatal de Aviación (MAK), consultado por vía de Wikipedia (EN) y del borrador del investigador (original en ruso no consultado)
-- **Fuentes secundarias de contraste:** Wikipedia (EN), BBC, Reuters, Flightradar24, borrador preliminar del investigador
+- **Fuentes secundarias de contraste:** Wikipedia (EN), BBC, Reuters, Flightradar24
 - **Discrepancias resueltas:** el número de atendidos por los servicios médicos figura como 74 en los partes iniciales de la BBC y como 78 en el borrador; se consignan 28 heridos, tres graves, como balance final según Wikipedia y el borrador. La distancia del punto de contacto al final de pista figura como 16.240 pies en el informe y «alrededor de un kilómetro» en la prensa; se redacta «unos 5.000 metros» con el deslizamiento hasta la detención.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

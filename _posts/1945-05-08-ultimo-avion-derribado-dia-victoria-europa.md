@@ -87,7 +87,7 @@ A diferencia de otros derribos más famosos, como el del Ju 88 conservado en el 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-05 16:15:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** No fue posible acceder a fuentes primarias en línea que verificaran de forma independiente y directa los detalles específicos de este derribo (Siebel Si 204 vs. P-38, piloto K.L. Smith, hora exacta).
 - **Limitación de la verificación:** La información presentada en esta efeméride se basa en el consenso historiográfico citado en fuentes secundarias y terciarias (como Wikipedia y foros de aviación), pero no ha podido ser contrastada con documentación primaria (informes de misión, archivos de escuadrón) debido a la falta de acceso a dichos repositorios.
 - **Discrepancias resueltas:** Se han identificado múltiples reclamaciones de "últimos derribos" para el 8 de mayo de 1945, sin que exista una fuente definitiva que acredite una sobre las demás. La identidad del piloto ha sido verificada como K.L. Smith, no como Kenneth L. Swift (error común en fuentes no verificadas). El evento de Rodach es el más citado para el "último derribo aire-aire" en el frente occidental.

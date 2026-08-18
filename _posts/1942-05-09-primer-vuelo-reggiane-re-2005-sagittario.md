@@ -179,12 +179,12 @@ Hoy, ningún Re.2005 original sobrevive en condiciones de vuelo, aunque hay algu
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Reggiane_Re.2005_Sagittario">Wikipedia (EN) - Reggiane Re.2005 Sagittario</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Reggiane_Re.2005">Wikipedia (ES) - Reggiane Re.2005</a></li>
-    <li><a href="https://aviationsmilitaires.net/v3/kb/aircraft/show/472/reggiane-re2005-sagittario">Aviations Militaires - Reggiane Re.2005 Sagittario</a></li>
-    <li><a href="https://www.tuttavia.it/rubriche/aerei-e-storia/255-reggiane-re-2005-un-caccia-italiano">Tuttavia - Reggiane Re.2005, un caccia italiano</a></li>
-    <li><a href="https://warthunder.com/es/news/2226-desarrollo-reggiane-re-2005-el-arquero-alado-es">War Thunder - Reggiane Re.2005: El Arquero Alado</a></li>
-    <li><a href="https://military.wikireading.ru/amp27843">Military Wikireading - Reggiane Re.2005 Sagittario</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Reggiane_Re.2005_Sagittario" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Reggiane Re.2005 Sagittario</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Reggiane_Re.2005" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Reggiane Re.2005</a></li>
+    <li><a href="https://aviationsmilitaires.net/v3/kb/aircraft/show/472/reggiane-re2005-sagittario" style="color: #315fea; text-decoration: none;">Aviations Militaires - Reggiane Re.2005 Sagittario</a></li>
+    <li><a href="https://www.tuttavia.it/rubriche/aerei-e-storia/255-reggiane-re-2005-un-caccia-italiano" style="color: #315fea; text-decoration: none;">Tuttavia - Reggiane Re.2005, un caccia italiano</a></li>
+    <li><a href="https://warthunder.com/es/news/2226-desarrollo-reggiane-re-2005-el-arquero-alado-es" style="color: #315fea; text-decoration: none;">War Thunder - Reggiane Re.2005: El Arquero Alado</a></li>
+    <li><a href="https://military.wikireading.ru/amp27843" style="color: #315fea; text-decoration: none;">Military Wikireading - Reggiane Re.2005 Sagittario</a></li>
   </ul>
 </div>
 
@@ -192,7 +192,7 @@ Hoy, ningún Re.2005 original sobrevive en condiciones de vuelo, aunque hay algu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-07 12:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), Aviations Militaires, Tuttavia, War Thunder, Military Wikireading
 - **Discrepancias resueltas:** Las fuentes coinciden mayoritariamente en la fecha del primer vuelo (9 de mayo de 1942). Existe una pequeña discrepancia sobre un posible vuelo el 7 de mayo, pero el vuelo oficial fue el 9 de mayo. Los datos de producción se recogen generalmente como 48 unidades. La designación correcta del prototipo fue MM.494. El piloto del primer vuelo fue Tullio de Prato.
 - **Nivel de confianza:** Alto

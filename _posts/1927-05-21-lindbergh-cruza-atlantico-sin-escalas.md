@@ -87,11 +87,11 @@ La figura del «aviador-heroe» dominaba la cultura popular. Sin embargo, la may
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://airandspace.si.edu/collection-objects/ryan-nyp-spirit-st-louis-charles-lindbergh/nasm_A19280021000">Smithsonian National Air and Space Museum – Ryan NYP Spirit of St. Louis</a></li>
-    <li><a href="https://www.britannica.com/topic/Spirit-of-Saint-Louis">Britannica – Spirit of St. Louis</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Spirit_of_St._Louis">Wikipedia en español – Spirit of St. Louis</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Charles_Lindbergh">Wikipedia en inglés – Charles Lindbergh</a></li>
-    <li><a href="https://www.imer.mx/4-de-febrero-de-1902-nace-charles-lindbergh/">IMER – 4 de febrero de 1902: Nace Charles Lindbergh</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/ryan-nyp-spirit-st-louis-charles-lindbergh/nasm_A19280021000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Ryan NYP Spirit of St. Louis</a></li>
+    <li><a href="https://www.britannica.com/topic/Spirit-of-Saint-Louis" style="color: #315fea; text-decoration: none;">Britannica – Spirit of St. Louis</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Spirit_of_St._Louis" style="color: #315fea; text-decoration: none;">Wikipedia en español – Spirit of St. Louis</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Charles_Lindbergh" style="color: #315fea; text-decoration: none;">Wikipedia en inglés – Charles Lindbergh</a></li>
+    <li><a href="https://www.imer.mx/4-de-febrero-de-1902-nace-charles-lindbergh/" style="color: #315fea; text-decoration: none;">IMER – 4 de febrero de 1902: Nace Charles Lindbergh</a></li>
   </ul>
 </div>
 
@@ -102,7 +102,7 @@ La figura del «aviador-heroe» dominaba la cultura popular. Sin embargo, la may
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-05-18 11:45:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Smithsonian NASM, Britannica, Wikipedia (ES/EN), IMER
 - **Discrepancias resueltas:** Confirmación de la distancia (5.810 km) y la duración (33h 30min) frente a otras fuentes que citan 33,5h o 33h 29m.
 - **Nivel de confianza:** Alto

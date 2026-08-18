@@ -122,15 +122,15 @@ La Operación Focus es considerada una de las victorias aéreas más decisivas d
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Operation_Focus">Wikipedia – Operation Focus</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Six-Day_War">Wikipedia – Six-Day War</a></li>
-    <li><a href="https://www.jewishvirtuallibrary.org/jsource/History/40yrsSince67.html">Jewish Virtual Library – The Six-Day War: Day-by-Day Action Review</a></li>
-    <li><a href="https://www.si.edu/object/six-day-war-1967-operation-focus-and-12-hours-changed-middle-east-shlomo-aloni-illustrated-adam:siris_sil_1110459">Smithsonian Institution – Six Day War 1967: Operation Focus</a></li>
-    <li><a href="https://nationalinterest.org/print/blog/the-buzz/israel-proved-just-6-hours-why-its-air-force-one-the-worlds-26052">The National Interest – Israel Proved in Just 6 Hours Why Its Air Force Is One of the World's Best</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Operation_Focus" style="color: #315fea; text-decoration: none;">Wikipedia – Operation Focus</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Six-Day_War" style="color: #315fea; text-decoration: none;">Wikipedia – Six-Day War</a></li>
+    <li><a href="https://www.jewishvirtuallibrary.org/jsource/History/40yrsSince67.html" style="color: #315fea; text-decoration: none;">Jewish Virtual Library – The Six-Day War: Day-by-Day Action Review</a></li>
+    <li><a href="https://www.si.edu/object/six-day-war-1967-operation-focus-and-12-hours-changed-middle-east-shlomo-aloni-illustrated-adam:siris_sil_1110459" style="color: #315fea; text-decoration: none;">Smithsonian Institution – Six Day War 1967: Operation Focus</a></li>
+    <li><a href="https://nationalinterest.org/print/blog/the-buzz/israel-proved-just-6-hours-why-its-air-force-one-the-worlds-26052" style="color: #315fea; text-decoration: none;">The National Interest – Israel Proved in Just 6 Hours Why Its Air Force Is One of the World's Best</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -144,7 +144,7 @@ La Operación Focus es considerada una de las victorias aéreas más decisivas d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-02 16:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Jewish Virtual Library, Smithsonian Institution, The National Interest
 - **Discrepancias resueltas:** Confirmación de la fecha (5 de junio de 1967) y hora (07:45) del inicio de la operación. Verificación de las cifras de aviones destruidos (452) y pérdidas israelíes (19-46). Aclaración de la diferencia entre ataque preventivo y ataque preemptivo, definiendo este último como "acción preventiva ofensiva".
 - **Nivel de confianza:** Alto

@@ -82,11 +82,11 @@ El Lockheed Vega 5B de Earhart se exhibe en el Museo Nacional del Aire y el Espa
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://airandspace.si.edu/collection-objects/lockheed-vega-5b-amelia-earhart/nasm_A19670093000">Smithsonian National Air and Space Museum – Lockheed Vega 5B de Amelia Earhart</a></li>
-    <li><a href="https://airandspace.si.edu/stories/editorial/amelia-earhart-viva-la-vega">Smithsonian National Air and Space Museum – How Amelia Earhart Raced to Make History Crossing the Atlantic</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Amelia_Earhart">Wikipedia en español – Amelia Earhart</a></li>
-    <li><a href="https://www.biografiasyvidas.com/biografia/e/earhart.htm">Biografías y Vidas – Amelia Earhart</a></li>
-    <li><a href="https://www.rtve.es/television/20230911/amelia-earhart-aviacion-piloto/2455559.shtml">RTVE – Amelia Earhart, la primera piloto que sobrevoló el Atlántico</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/lockheed-vega-5b-amelia-earhart/nasm_A19670093000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Lockheed Vega 5B de Amelia Earhart</a></li>
+    <li><a href="https://airandspace.si.edu/stories/editorial/amelia-earhart-viva-la-vega" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – How Amelia Earhart Raced to Make History Crossing the Atlantic</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Amelia_Earhart" style="color: #315fea; text-decoration: none;">Wikipedia en español – Amelia Earhart</a></li>
+    <li><a href="https://www.biografiasyvidas.com/biografia/e/earhart.htm" style="color: #315fea; text-decoration: none;">Biografías y Vidas – Amelia Earhart</a></li>
+    <li><a href="https://www.rtve.es/television/20230911/amelia-earhart-aviacion-piloto/2455559.shtml" style="color: #315fea; text-decoration: none;">RTVE – Amelia Earhart, la primera piloto que sobrevoló el Atlántico</a></li>
   </ul>
 </div>
 
@@ -97,7 +97,7 @@ El Lockheed Vega 5B de Earhart se exhibe en el Museo Nacional del Aire y el Espa
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-05-18 12:15:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Smithsonian NASM (colección y artículo editorial), Wikipedia (ES), Biografías y Vidas, RTVE
 - **Discrepancias resueltas:** Confirmación de la duración del vuelo (14h 56min) frente a fuentes que redondean a 15h. Verificado el lugar exacto de aterrizaje (Culmore, cerca de Derry) y no la ciudad de París como plan original.
 - **Nivel de confianza:** Alto

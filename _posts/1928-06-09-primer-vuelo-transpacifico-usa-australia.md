@@ -131,16 +131,16 @@ Charles Kingsford Smith es recordado como uno de los más grandes pioneros de la
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Charles_Kingsford_Smith">Wikipedia – Charles Kingsford Smith</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Southern_Cross_(aircraft)">Wikipedia – Southern Cross (aircraft)</a></li>
-    <li><a href="https://kids.britannica.com/students/article/Charles-Edward-Kingsford-Smith/275282">Britannica – Charles Edward Kingsford Smith</a></li>
-    <li><a href="https://digital-classroom.nma.gov.au/defining-moments/charles-kingsford-smith-flies-across-pacific">National Museum of Australia – 1928: Charles Kingsford Smith flies across the Pacific</a></li>
-    <li><a href="https://airandspace.si.edu/multimedia-gallery/7033hjpg">Smithsonian Air & Space – Kingsford-Smith's Southern Cross</a></li>
-    <li><a href="https://www.slq.qld.gov.au/blog/kingsford-smith-and-first-trans-pacific-flight-1928">State Library of Queensland – Kingsford Smith and the first trans-Pacific flight, 1928</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Charles_Kingsford_Smith" style="color: #315fea; text-decoration: none;">Wikipedia – Charles Kingsford Smith</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Southern_Cross_(aircraft)" style="color: #315fea; text-decoration: none;">Wikipedia – Southern Cross (aircraft)</a></li>
+    <li><a href="https://kids.britannica.com/students/article/Charles-Edward-Kingsford-Smith/275282" style="color: #315fea; text-decoration: none;">Britannica – Charles Edward Kingsford Smith</a></li>
+    <li><a href="https://digital-classroom.nma.gov.au/defining-moments/charles-kingsford-smith-flies-across-pacific" style="color: #315fea; text-decoration: none;">National Museum of Australia – 1928: Charles Kingsford Smith flies across the Pacific</a></li>
+    <li><a href="https://airandspace.si.edu/multimedia-gallery/7033hjpg" style="color: #315fea; text-decoration: none;">Smithsonian Air & Space – Kingsford-Smith's Southern Cross</a></li>
+    <li><a href="https://www.slq.qld.gov.au/blog/kingsford-smith-and-first-trans-pacific-flight-1928" style="color: #315fea; text-decoration: none;">State Library of Queensland – Kingsford Smith and the first trans-Pacific flight, 1928</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -153,7 +153,7 @@ Charles Kingsford Smith es recordado como uno de los más grandes pioneros de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-05 13:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Britannica, National Museum of Australia, Smithsonian, State Library of Queensland
 - **Discrepancias resueltas:** Confirmación de la fecha de llegada (9 de junio de 1928) y de partida (31 de mayo de 1928). Verificación de la distancia (11.585 km) y la duración (83 horas y 38 minutos). Aclaración de los roles de la tripulación y corrección de la información sobre las sillas de mimbre. Adición de fechas de fallecimiento de Lyon y Warner.
 - **Nivel de confianza:** Alto

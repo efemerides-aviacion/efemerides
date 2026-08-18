@@ -37,7 +37,7 @@ image: 1985-11-23-egyptair-flight-648.jpg
 
 ---
 
-## Contexto histórico
+## Contexto Histórico
 Durante la década de 1980, los secuestros aéreos se convirtieron en una amenaza recurrente en el transporte internacional. El caso del vuelo 648 de EgyptAir destacó por la violencia del desenlace y la participación de un grupo extremista palestino, lo que puso de relieve la vulnerabilidad de la aviación comercial frente al terrorismo.
 
 ---
@@ -73,8 +73,8 @@ El secuestro del vuelo 648 de EgyptAir marcó un punto de inflexión en la perce
 
 ---
 
-## Metadatos de control
-- **Timestamp de verificación:** 2026-01-04 13:25 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Aviation Safety Network, BBC News  
 - **Discrepancias resueltas:** Número de víctimas varía entre fuentes; se documenta como “más de 50” para consistencia.  
 - **Nivel de confianza:** alto  

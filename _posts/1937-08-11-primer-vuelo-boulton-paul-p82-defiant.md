@@ -138,9 +138,9 @@ Ochenta y nueve años después de aquel despegue de Wolverhampton, el Defiant so
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-06 09:28:09 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Imperial War Museums, fichas fotográficas MH 5507 y ATP 9208F del prototipo K8310; Australian War Memorial, ficha 304465; Boulton and Paul, reseña histórica del fabricante sucesor.
-- **Fuentes secundarias de contraste:** Aeroflight, con la cronología detallada del programa; Classic Warbirds; Battle of Britain 1940; Wikipedia en inglés y en español; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Aeroflight, con la cronología detallada del programa; Classic Warbirds; Battle of Britain 1940; Wikipedia en inglés y en español.
 - **Discrepancias resueltas:** se consignó el 30 de julio de 1939 como fecha del primer vuelo del segundo prototipo, frente al 18 de mayo que ofrecen otras recopilaciones; se precisó que el vuelo inaugural se realizó sin torreta y con lastre, extremo que las cronologías breves suelen omitir; se advirtió de la sobrevaloración de las cifras de derribos reclamadas sobre Dunkerque.
 - **Datos no confirmados:** la hora exacta del vuelo inaugural y su duración, que las fuentes consultadas no consignan; la variante precisa del motor Merlin instalada en el prototipo el 11 de agosto de 1937.
 - **Nivel de confianza:** Alto

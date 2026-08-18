@@ -97,15 +97,15 @@ Por eso, el 17 de julio de 1996 no recuerda solo una tragedia con 230 víctimas.
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0003.pdf">NTSB – In-flight Breakup Over The Atlantic Ocean, Trans World Airlines Flight 800</a></li>
-    <li><a href="https://www.faa.gov/lessons_learned/transport_airplane/accidents/N93119">FAA – Boeing 747-100 / Trans World Airways Flight 800, N93119</a></li>
-    <li><a href="http://news.bbc.co.uk/2/hi/despatches/americas/32725.stm">BBC News – FBI ends TWA crash inquiry</a></li>
-    <li><a href="https://archive.seattletimes.com/archive/19970511/2538562/flight-800-mystery-now-a-mechanical-puzzle----boeing-engineer-if-we-knew-what-made-it-explode-i-think-we-can-fix-it">The Seattle Times – Flight 800 Mystery Now A Mechanical Puzzle</a></li>
-    <li><a href="https://www.jetphotos.com/photo/8479493">JetPhotos – N93119 | Boeing 747-131 | Trans World Airlines (TWA)</a></li>
+    <li><a href="https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0003.pdf" style="color: #315fea; text-decoration: none;">NTSB – In-flight Breakup Over The Atlantic Ocean, Trans World Airlines Flight 800</a></li>
+    <li><a href="https://www.faa.gov/lessons_learned/transport_airplane/accidents/N93119" style="color: #315fea; text-decoration: none;">FAA – Boeing 747-100 / Trans World Airways Flight 800, N93119</a></li>
+    <li><a href="http://news.bbc.co.uk/2/hi/despatches/americas/32725.stm" style="color: #315fea; text-decoration: none;">BBC News – FBI ends TWA crash inquiry</a></li>
+    <li><a href="https://archive.seattletimes.com/archive/19970511/2538562/flight-800-mystery-now-a-mechanical-puzzle----boeing-engineer-if-we-knew-what-made-it-explode-i-think-we-can-fix-it" style="color: #315fea; text-decoration: none;">The Seattle Times – Flight 800 Mystery Now A Mechanical Puzzle</a></li>
+    <li><a href="https://www.jetphotos.com/photo/8479493" style="color: #315fea; text-decoration: none;">JetPhotos – N93119 | Boeing 747-131 | Trans World Airlines (TWA)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las primeras horas y meses posteriores al accidente estuvieron marcados por una fuerte sospecha pública de atentado, misil o bomba, alimentada por testimonios visuales y por el contexto internacional de la época. Sin embargo, la investigación conjunta y posterior del FBI y la NTSB no encontró evidencia de acto criminal. El informe técnico definitivo atribuyó la ruptura en vuelo a la explosión del tanque central de combustible. Aunque la fuente exacta de ignición no pudo determinarse con certeza absoluta, la NTSB consideró más probable un cortocircuito externo que permitió la entrada de alta energía al sistema de indicación de combustible del tanque.</p>
@@ -114,9 +114,9 @@ Por eso, el 17 de julio de 1996 no recuerda solo una tragedia con 230 víctimas.
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-14 07:34:18 CST  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** NTSB, FAA  
-- **Fuentes secundarias de contraste:** BBC News, The Seattle Times, JetPhotos, borrador preliminar del investigador  
+- **Fuentes secundarias de contraste:** BBC News, The Seattle Times, JetPhotos
 - **Discrepancias resueltas:** se armonizó la cronología del siniestro con los reportes institucionales estadounidenses; se distinguió entre la imposibilidad de fijar con certeza la fuente exacta de ignición y la determinación clara del tanque central de combustible como origen de la explosión  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -32,7 +32,7 @@ image: 1784-02-25-primer-vuelo-globo-italia.webp
 - **Trayectoria posterior:** Vuelo público el 13 de marzo de 1784 desde Villa Sormani, alcanzando 8 km hasta Carugate  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Contexto histórico
+## Contexto Histórico
 El vuelo de Paolo Andreani en 1784 representó la llegada de la aerostática a Italia, apenas meses después de los pioneros franceses Montgolfier y Pilâtre de Rozier. Fue el primer vuelo en globo realizado fuera de Francia, en un contexto de entusiasmo científico y curiosidad pública, pese a la oposición de las autoridades austríacas que gobernaban Lombardía.
 
 ### Entorno social
@@ -74,8 +74,8 @@ Andreani es recordado como el “Montgolfier milanés”, pionero de la aviació
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia IT/EN, Milano nei Secoli, Aerostati.it, Marco Rasch  
 - **Discrepancias resueltas:** Confirmación de fechas de vuelos (25 feb y 13 mar 1784).  
 - **Nivel de confianza:** Alto  

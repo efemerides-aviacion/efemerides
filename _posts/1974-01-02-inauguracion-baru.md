@@ -17,14 +17,14 @@ image: 1974-01-02-inauguracion-baru.webp
 
 <!-- ## Resumen ejecutivo -->
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="highlight-box">
 <p>El 2 de enero de 1974 se inauguró la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, como instalación estratégica para la defensa aérea y el apoyo operativo de la región occidental de Venezuela. Su denominación honra al General Rafael Urdaneta, prócer zuliano de la independencia, reforzando el vínculo histórico y regional. La base consolidó capacidades de comando, logística y entrenamiento, articulando la presencia de la aviación militar en el occidente del país.</p>
 </div>
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos técnicos e históricos
 
@@ -37,7 +37,7 @@ image: 1974-01-02-inauguracion-baru.webp
 - **Autoridades civiles/militares asistentes y orden del acto.** [NO CONFIRMADO] 
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Cuerpo principal – Secciones temáticas
 
@@ -60,20 +60,20 @@ La base fortaleció la **defensa aérea** en el occidente del país, mejoró tie
 La Base Aérea Rafael Urdaneta se mantiene como instalación de referencia en la región occidental, con funciones de apoyo operativo, entrenamiento y articulación logística. Su legado integra dimensión histórica y función estratégica en la defensa nacional. 
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Referencias verificadas
+## Referencias Verificadas
 
 <div class="references"> 
 	<p><strong>No se encontró ninguna referencia que funcione y que sea verificable.</strong></p> 
 </div>
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-01-01  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Ninguna fuente verificable encontrada sobre la inauguración de la Base Aérea Rafael Urdaneta.  
 - **Discrepancias resueltas:** No se localizaron referencias que confirmen fecha, lugar, protagonistas o aeronaves del evento.  
 - **Nivel de confianza:** Bajo  

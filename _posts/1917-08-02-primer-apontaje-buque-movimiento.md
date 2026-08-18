@@ -112,9 +112,9 @@ Dunning está enterrado en el cementerio de la iglesia de St Lawrence, en Bradfi
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-30 07:55:10 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Imperial War Museums (fotografía Q 110613, colección Howe T E B, Air Commodore); Royal Navy (nota informativa del centenario, 2017).
-- **Fuentes secundarias de contraste:** Wikipedia en inglés (Edwin Harris Dunning; HMS Furious (47); Sopwith Pup; Tondern raid), BBC News, The Scotsman, borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Wikipedia en inglés (Edwin Harris Dunning; HMS Furious (47); Sopwith Pup; Tondern raid), BBC News, The Scotsman.
 - **Discrepancias resueltas:** se corrigió la longitud de la cubierta de vuelo de proa del HMS <em>Furious</em>, fijada en unos 160 pies (49 metros) y no en 70 metros; se contrastó la secuencia de intentos del 7 de agosto de 1917 y la atribución de los números de serie N6453 y N6452; se descartó la fecha alternativa del 3 de agosto que aparece en alguna base de datos secundaria, por contradecir al conjunto de fuentes institucionales.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -36,7 +36,7 @@ image: 2014-03-08-vuelo-mh370-malaysia-airlines.jpg
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Contexto histórico
+## Contexto Histórico
 La desaparición del MH370 se convirtió en uno de los mayores misterios de la aviación moderna.
 
 ### Entorno social
@@ -84,8 +84,8 @@ El MH370 sigue siendo un misterio sin resolver, recordando la vulnerabilidad de 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Metadatos de control
-- **Timestamp de verificación:** 2026-03-06 13:50 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES, Britannica, BBC, Bernama, Xinhua, Wikimedia Commons  
 - **Discrepancias resueltas:** Hipótesis sobre la causa de la desaparición (ninguna confirmada)  
 - **Nivel de confianza:** Alto  

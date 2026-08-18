@@ -95,15 +95,15 @@ Por eso, el 17 de julio de 1925 no recuerda simplemente un vuelo más. Recuerda 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.goodyear.com/en-us/blimp/history/the-first-goodyear-blimp">Goodyear – The First Goodyear Blimp</a></li>
-    <li><a href="https://airandspace.si.edu/collection-objects/goodyear-pilgrim-gondola/nasm_A19330024000">Smithsonian National Air and Space Museum – Goodyear “Pilgrim” Gondola</a></li>
-    <li><a href="https://signalakron.org/three-goodyear-blimps-will-fly-over-downtown-akron-june-3-and-june-4-for-100th-anniversary/">Signal Akron – Three Goodyear Blimps to fly over downtown Akron June 3 and 4</a></li>
-    <li><a href="https://www.airships.net/goodyear-blimp/goodyear-blimp-pilgrim/">Airships.net – The First “Goodyear Blimp” - Pilgrim of 1925</a></li>
-    <li><a href="https://www.airships.net/goodyear-blimp/">Airships.net – The Goodyear Blimp, Today and Yesterday</a></li>
+    <li><a href="https://www.goodyear.com/en-us/blimp/history/the-first-goodyear-blimp" style="color: #315fea; text-decoration: none;">Goodyear – The First Goodyear Blimp</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/goodyear-pilgrim-gondola/nasm_A19330024000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Goodyear “Pilgrim” Gondola</a></li>
+    <li><a href="https://signalakron.org/three-goodyear-blimps-will-fly-over-downtown-akron-june-3-and-june-4-for-100th-anniversary/" style="color: #315fea; text-decoration: none;">Signal Akron – Three Goodyear Blimps to fly over downtown Akron June 3 and 4</a></li>
+    <li><a href="https://www.airships.net/goodyear-blimp/goodyear-blimp-pilgrim/" style="color: #315fea; text-decoration: none;">Airships.net – The First “Goodyear Blimp” - Pilgrim of 1925</a></li>
+    <li><a href="https://www.airships.net/goodyear-blimp/" style="color: #315fea; text-decoration: none;">Airships.net – The Goodyear Blimp, Today and Yesterday</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes consultadas distinguen claramente entre tres hitos que a veces se mezclan en resúmenes divulgativos: el primer vuelo del <em>Pilgrim</em> con hidrógeno el 3 de junio de 1925, su primer vuelo con helio el 17 de julio de 1925 y su bautizo oficial el 18 de julio. Además, algunas imágenes ampliamente reproducidas —incluida la utilizada aquí— corresponden a una configuración posterior de la aeronave, cuando ya portaba la matrícula NC-9A y un volumen de envolvente mayor. Por ello, la fotografía no debe interpretarse como una imagen tomada necesariamente el 17 de julio de 1925, sino como representación histórica del mismo dirigible a lo largo de su carrera.</p>
@@ -112,9 +112,9 @@ Por eso, el 17 de julio de 1925 no recuerda simplemente un vuelo más. Recuerda 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-13 16:45:00 CST  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Goodyear, Smithsonian National Air and Space Museum  
-- **Fuentes secundarias de contraste:** Signal Akron, Airships.net, borrador preliminar del investigador  
+- **Fuentes secundarias de contraste:** Signal Akron, Airships.net
 - **Discrepancias resueltas:** se distinguió entre el primer vuelo con hidrógeno, el primer vuelo con helio y la configuración posterior del dirigible mostrada en varias imágenes históricas  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

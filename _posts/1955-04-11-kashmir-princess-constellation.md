@@ -12,7 +12,7 @@ image: 1955-04-11-kashmir-princess-constellation.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1955-04-11-kashmir-princess-constellation.webp" alt="Lockheed L-749A Constellation de Air India">
-  <figcaption class="post-caption">Lockheed L-749A Constellation de Air India (matrícula VT-DEO "Bengal Princess"), gemelo del siniestrado VT-DEP "Kashmir Princess". Fotografía tomada en Londres (Heathrow), 1953. Fuente: <a href="https://en.wikipedia.org/wiki/Kashmir_Princess">Wikipedia</a>.</figcaption>
+  <figcaption class="post-caption">Lockheed L-749A Constellation de Air India (matrícula VT-DEO "Bengal Princess"), gemelo del siniestrado VT-DEP "Kashmir Princess". Fotografía tomada en Londres (Heathrow), 1953. Fuente: <a href="https://en.wikipedia.org/wiki/Kashmir_Princess" style="color: #315fea; text-decoration: none;">Wikipedia</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
@@ -97,16 +97,16 @@ El atentado contra el "Kashmir Princess" es recordado como uno de los primeros a
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Kashmir_Princess">Wikipedia (EN) – Kashmir Princess</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_Kashmir_Princess">Wikipedia (ES) – Vuelo Kashmir Princess</a></li>
-    <li><a href="https://aviation-safety.net/database/record.php?id=19550411-0">Aviation Safety Network – Air India VT-DEP</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Kashmir_Princess" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Kashmir Princess</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_Kashmir_Princess" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vuelo Kashmir Princess</a></li>
+    <li><a href="https://aviation-safety.net/database/record.php?id=19550411-0" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Air India VT-DEP</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-08 11:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), Aviation Safety Network
 - **Discrepancias resueltas:** Ninguna. Todas las fuentes coinciden en los datos fundamentales: fecha (11 de abril de 1955), aeronave (Lockheed L-749A Constellation VT-DEP "Kashmir Princess"), víctimas (16 fallecidos, 3 supervivientes), causa (bomba del Kuomintang) y objetivo (Zhou Enlai).
 - **Nivel de confianza:** Alto

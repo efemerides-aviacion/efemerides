@@ -120,15 +120,15 @@ El prototipo original, el XF6F-1 que voló el 26 de junio de 1942, fue el humild
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/tag/grumman-xf6f-1-hellcat/">This Day in Aviation – Grumman XF6F-1 Hellcat</a></li>
-    <li><a href="https://www.history.navy.mil/content/history/museums/nnam/explore/collections/aircraft/f/f6f-3-hellcat.html">National Naval Aviation Museum – F6F-3 Hellcat</a></li>
-    <li><a href="https://www.usni.org/magazines/naval-history/2026/april/island-warrior">U.S. Naval Institute – Island Warrior</a></li>
-    <li><a href="https://en.m.wikipedia.org/wiki/Robert_Hall_(aircraft_designer)">Wikipedia – Robert Hall (aircraft designer)</a></li>
-    <li><a href="https://www.airandspaceforces.com/this-day-in-airpower/june-26-1942/">Air & Space Forces Magazine – June 26, 1942</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/grumman-xf6f-1-hellcat/" style="color: #315fea; text-decoration: none;">This Day in Aviation – Grumman XF6F-1 Hellcat</a></li>
+    <li><a href="https://www.history.navy.mil/content/history/museums/nnam/explore/collections/aircraft/f/f6f-3-hellcat.html" style="color: #315fea; text-decoration: none;">National Naval Aviation Museum – F6F-3 Hellcat</a></li>
+    <li><a href="https://www.usni.org/magazines/naval-history/2026/april/island-warrior" style="color: #315fea; text-decoration: none;">U.S. Naval Institute – Island Warrior</a></li>
+    <li><a href="https://en.m.wikipedia.org/wiki/Robert_Hall_(aircraft_designer)" style="color: #315fea; text-decoration: none;">Wikipedia – Robert Hall (aircraft designer)</a></li>
+    <li><a href="https://www.airandspaceforces.com/this-day-in-airpower/june-26-1942/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine – June 26, 1942</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El prototipo XF6F-1 voló por primera vez el 26 de junio de 1942. El 30 de julio de 1942, el mismo avión voló con el motor Pratt & Whitney R-2800-10 y fue redesignado XF6F-3. El primer F6F-3 de producción voló en octubre de 1942 y las entregas comenzaron en enero de 1943. El prototipo original (BuNo 02981) fue dado de baja el 30 de noviembre de 1944. Robert Leicester Hall fue tanto el diseñador como el piloto de pruebas del Hellcat, además de diseñar el F4F Wildcat, el F7F Tigercat, el F8F Bearcat y el TBF Avenger.</p>
@@ -138,7 +138,7 @@ El prototipo original, el XF6F-1 que voló el 26 de junio de 1942, fue el humild
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-22 12:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, National Naval Aviation Museum, U.S. Naval Institute, Wikipedia, Air & Space Forces Magazine
 - **Discrepancias resueltas:** Se ha verificado la fecha del primer vuelo (26 de junio de 1942) y la identidad del piloto (Robert Leicester Hall). Se ha aclarado la diferencia entre el motor original (Wright R-2600) y el motor definitivo (Pratt & Whitney R-2800) que entró en servicio con el XF6F-3. Se ha confirmado que el prototipo fue dado de baja en 1944.
 - **Nivel de confianza:** Alto

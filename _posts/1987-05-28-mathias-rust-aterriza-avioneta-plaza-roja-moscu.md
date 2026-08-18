@@ -98,16 +98,16 @@ Mathias Rust sigue siendo una de las figuras más controvertidas y fascinantes d
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/28-may-1987/">This Day in Aviation – 28 May 1987</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Mathias_Rust">Wikipedia en español – Mathias Rust</a></li>
-    <li><a href="https://elpais.com/diario/1987/05/30/internacional/549324010_850215.html">El País – Un joven de la RFA burla la vigilancia y aterriza con una avioneta en la plaza Roja de Moscú (30 de mayo de 1987)</a></li>
-    <li><a href="https://www.theguardian.com/world/2012/may/14/german-red-square-cold-war">The Guardian – German who flew to Red Square during cold war admits it was irresponsible (2012)</a></li>
-    <li><a href="https://time.com/3889327/drones-mathias-rust-red-square/">Time Magazine – The Teenage Pilot Who Could Have Caused a Global Crisis (2015)</a></li>
-    <li><a href="https://www.latimes.com/archives/la-xpm-1987-06-25-mn-10621-story.html">Los Angeles Times – Conspiracy Theory Denied in Red Square Landing (1987)</a></li>
+    <li><a href="https://www.thisdayinaviation.com/28-may-1987/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 28 May 1987</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Mathias_Rust" style="color: #315fea; text-decoration: none;">Wikipedia en español – Mathias Rust</a></li>
+    <li><a href="https://elpais.com/diario/1987/05/30/internacional/549324010_850215.html" style="color: #315fea; text-decoration: none;">El País – Un joven de la RFA burla la vigilancia y aterriza con una avioneta en la plaza Roja de Moscú (30 de mayo de 1987)</a></li>
+    <li><a href="https://www.theguardian.com/world/2012/may/14/german-red-square-cold-war" style="color: #315fea; text-decoration: none;">The Guardian – German who flew to Red Square during cold war admits it was irresponsible (2012)</a></li>
+    <li><a href="https://time.com/3889327/drones-mathias-rust-red-square/" style="color: #315fea; text-decoration: none;">Time Magazine – The Teenage Pilot Who Could Have Caused a Global Crisis (2015)</a></li>
+    <li><a href="https://www.latimes.com/archives/la-xpm-1987-06-25-mn-10621-story.html" style="color: #315fea; text-decoration: none;">Los Angeles Times – Conspiracy Theory Denied in Red Square Landing (1987)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -122,7 +122,7 @@ Mathias Rust sigue siendo una de las figuras más controvertidas y fascinantes d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-26 16:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, Wikipedia (ES), El País (archivo 1987), The Guardian, Time Magazine, Los Angeles Times (1987)
 - **Discrepancias resueltas:** Confirmación de la fecha y hora del aterrizaje (19:30 del 28 de mayo). Verificación de la edad de Rust (19 años) y horas de vuelo (~50). Inclusión de las teorías de conspiración en la nota aclaratoria.
 - **Nivel de confianza:** Alto (múltiples fuentes contemporáneas y posteriores coinciden en los datos fundamentales)

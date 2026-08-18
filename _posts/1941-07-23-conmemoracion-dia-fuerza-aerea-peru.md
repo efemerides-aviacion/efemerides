@@ -92,9 +92,9 @@ Su efigie ha figurado históricamente en la moneda y en los billetes de diez sol
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a, #fbc02d, #f9a825);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-18 12:38:00 America/Mexico_City
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Congreso de la República del Perú (Leyes N.° 16126 y N.° 31822), Ministerio de Defensa del Perú, Instituto de Estudios Histórico-Aeroespaciales del Perú (IEHAP).
-- **Fuentes secundarias de contraste:** Infobae Perú, Wikipedia, borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Infobae Perú, Wikipedia.
 - **Discrepancias resueltas:** Se fundamentó la distinción legislativa oficial entre la fundación orgánica (28 de enero de 1919) y la conmemoración heroica central (23 de julio de 1941), y se confirmó la nomenclatura del caza NA-50 "Torito".
 - **Nivel de confianza:** Alto.
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

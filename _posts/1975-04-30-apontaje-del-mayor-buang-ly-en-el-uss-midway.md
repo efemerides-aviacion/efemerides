@@ -136,11 +136,11 @@ La frase de Chambers —"Mi abuela me susurraba al oído: 'Mira, idiota, no te e
 
 <div class="references">
   <ul>
-    <li><a href="https://www.dvidshub.net/news/496846/flight-freedom-honors-heroic-1975-escape-national-naval-aviation-museum">DVIDS - Flight to Freedom Honors Heroic 1975 Escape (2025)</a></li>
-    <li><a href="https://www.history.navy.mil/content/history/museums/nnam/explore/collections/aircraft/o/o-1-bird-dog.html">Naval History and Heritage Command - O-1 Bird Dog</a></li>
-    <li><a href="https://www.firstcoastnews.com/article/news/national/military-news/larry-chambers-vietnam-war-uss-midway-helicopters/67-7b60b5d1-d6db-475d-9a7c-98207b7d7797">First Coast News - First Black aircraft carrier captain risks career for daring rescue (2025)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Operation_Frequent_Wind">Wikipedia - Operation Frequent Wind</a></li>
-    <li><a href="https://www.midway.org/blog/admiral-lawrence-chambers-the-pathfinder">USS Midway Museum - Admiral Lawrence Chambers: The Pathfinder</a></li>
+    <li><a href="https://www.dvidshub.net/news/496846/flight-freedom-honors-heroic-1975-escape-national-naval-aviation-museum" style="color: #315fea; text-decoration: none;">DVIDS - Flight to Freedom Honors Heroic 1975 Escape (2025)</a></li>
+    <li><a href="https://www.history.navy.mil/content/history/museums/nnam/explore/collections/aircraft/o/o-1-bird-dog.html" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command - O-1 Bird Dog</a></li>
+    <li><a href="https://www.firstcoastnews.com/article/news/national/military-news/larry-chambers-vietnam-war-uss-midway-helicopters/67-7b60b5d1-d6db-475d-9a7c-98207b7d7797" style="color: #315fea; text-decoration: none;">First Coast News - First Black aircraft carrier captain risks career for daring rescue (2025)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Operation_Frequent_Wind" style="color: #315fea; text-decoration: none;">Wikipedia - Operation Frequent Wind</a></li>
+    <li><a href="https://www.midway.org/blog/admiral-lawrence-chambers-the-pathfinder" style="color: #315fea; text-decoration: none;">USS Midway Museum - Admiral Lawrence Chambers: The Pathfinder</a></li>
   </ul>
 </div>
 
@@ -148,7 +148,7 @@ La frase de Chambers —"Mi abuela me susurraba al oído: 'Mira, idiota, no te e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-29 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** DVIDS, Naval History and Heritage Command, First Coast News, USS Midway Museum, Wikipedia
 - **Discrepancias resueltas:** La fecha del apontaje es el 30 de abril de 1975. Chambers se convirtió en el primer afroamericano en comandar un portaaviones en 1974, antes del apontaje. El avión se conserva en el Museo Nacional de Aviación Naval en Pensacola, Florida.
 - **Nivel de confianza:** Alto

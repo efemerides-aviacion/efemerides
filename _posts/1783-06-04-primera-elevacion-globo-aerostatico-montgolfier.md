@@ -109,15 +109,15 @@ El 4 de junio de 1783 es una fecha fundacional en la historia de la aviación. E
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Montgolfier_brothers">Wikipedia – Montgolfier brothers</a></li>
-    <li><a href="https://www.agenciasinc.es/Visual/Ilustraciones/El-4-de-junio-de-1783-se-realiza-el-primer-viaje-en-globo-aerostatico">Agencia SINC – El 4 de junio de 1783 se realiza el primer viaje en globo aerostático</a></li>
-    <li><a href="https://www.britannica.com/technology/balloon-flight/Historical-development">Encyclopaedia Britannica – Balloon flight: Historical development</a></li>
-    <li><a href="https://library.tc.columbia.edu/blog/content/2025/june/today-in-history-demonstrating-the-montgolfier-balloon.php">TC Columbia Library – Demonstrating the Montgolfier Balloon</a></li>
-    <li><a href="https://www.acami.es/efemerides/4-de-junio-de-1783/">ACAMI – Efemérides: 4 de junio de 1783</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Montgolfier_brothers" style="color: #315fea; text-decoration: none;">Wikipedia – Montgolfier brothers</a></li>
+    <li><a href="https://www.agenciasinc.es/Visual/Ilustraciones/El-4-de-junio-de-1783-se-realiza-el-primer-viaje-en-globo-aerostatico" style="color: #315fea; text-decoration: none;">Agencia SINC – El 4 de junio de 1783 se realiza el primer viaje en globo aerostático</a></li>
+    <li><a href="https://www.britannica.com/technology/balloon-flight/Historical-development" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica – Balloon flight: Historical development</a></li>
+    <li><a href="https://library.tc.columbia.edu/blog/content/2025/june/today-in-history-demonstrating-the-montgolfier-balloon.php" style="color: #315fea; text-decoration: none;">TC Columbia Library – Demonstrating the Montgolfier Balloon</a></li>
+    <li><a href="https://www.acami.es/efemerides/4-de-junio-de-1783/" style="color: #315fea; text-decoration: none;">ACAMI – Efemérides: 4 de junio de 1783</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -131,7 +131,7 @@ El 4 de junio de 1783 es una fecha fundacional en la historia de la aviación. E
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-01 15:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Agencia SINC, Encyclopaedia Britannica, TC Columbia Library, ACAMI
 - **Discrepancias resueltas:** Confirmación de la fecha (4 de junio de 1783) en todas las fuentes. Verificación del diámetro del globo (11 m) y el volumen (770-800 m³). Aclaración de la altitud alcanzada (1.600-2.000 m).
 - **Nivel de confianza:** Alto

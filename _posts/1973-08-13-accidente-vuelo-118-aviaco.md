@@ -91,14 +91,14 @@ Cincuenta y tres años después, el monumento de San Amaro es el lugar donde las
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_118_de_Aviaco">Wikipedia (ES) - Vuelo 118 de Aviaco</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Aviaco_Flight_118">Wikipedia (EN) - Aviaco Flight 118</a></li>
-    <li><a href="https://www.infobae.com/espana/2023/08/13/50-anos-del-accidente-aereo-que-dejo-85-muertos-en-a-coruna-y-que-sirvio-para-cambiar-las-normas/">Infobae España - 50 años del accidente aéreo que dejó 85 muertos en A Coruña y que sirvió para cambiar las normas</a></li>
-    <li><a href="https://www.elespanol.com/quincemil/cultura/historias-de-la-historia/20200412/vuelo-madrid-a-coruna-accidente-aereo-cambio-reglas-aviacion/481952586_0.html">El Español (Quincemil) - Vuelo 118 Madrid-A Coruña: el accidente aéreo que cambió las reglas de la aviación</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_118_de_Aviaco" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Vuelo 118 de Aviaco</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Aviaco_Flight_118" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Aviaco Flight 118</a></li>
+    <li><a href="https://www.infobae.com/espana/2023/08/13/50-anos-del-accidente-aereo-que-dejo-85-muertos-en-a-coruna-y-que-sirvio-para-cambiar-las-normas/" style="color: #315fea; text-decoration: none;">Infobae España - 50 años del accidente aéreo que dejó 85 muertos en A Coruña y que sirvió para cambiar las normas</a></li>
+    <li><a href="https://www.elespanol.com/quincemil/cultura/historias-de-la-historia/20200412/vuelo-madrid-a-coruna-accidente-aereo-cambio-reglas-aviacion/481952586_0.html" style="color: #315fea; text-decoration: none;">El Español (Quincemil) - Vuelo 118 Madrid-A Coruña: el accidente aéreo que cambió las reglas de la aviación</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la atribución de responsabilidades:</strong> la causa oficial señaló la infracción de los mínimos de visibilidad por parte del comandante, pero no existe informe oficial completo del accidente y documentos desclasificados citados por la prensa indican que las cartas de navegación no consignaban la altura de los eucaliptos de la senda de aproximación. Se recoge la causa oficial dejando constancia de esa salvedad documental.</p>
@@ -108,7 +108,7 @@ Cincuenta y tres años después, el monumento de San Amaro es el lugar donde las
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-09 11:44:50 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES y EN), Infobae España, El Español (Quincemil)
 - **Discrepancias resueltas:** El número de aproximaciones figura como tres en Wikipedia y El Español y como cuatro en Infobae; se adoptan tres (dos motor y al aire y una tercera fatal). La distancia al alternativo de Santiago figura como 45 km en Wikipedia y 50 en El Español; se adopta 45. La hora del impacto se redacta como «poco después de las 11:39», confirmada a las 11:46, ante versiones de 11:40 a 11:45.
 - **Nivel de confianza:** Alto

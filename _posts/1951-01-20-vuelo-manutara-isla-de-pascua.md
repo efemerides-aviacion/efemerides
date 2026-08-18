@@ -23,7 +23,7 @@ image: 1951-01-20-vuelo-manutara-isla-de-pascua.jpg
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Datos Verificados del Evento
+## Datos verificados del evento
 - **Fecha:** 19–20 de enero de 1951  
 - **Lugar:** Desde La Florida (La Serena) hasta Mataveri (Isla de Pascua)  
 - **Protagonistas:** Roberto Parragué Singer, FACh, tripulación del Manutara  
@@ -90,7 +90,7 @@ El Manutara es recordado como símbolo de perseverancia y unión nacional. Su tr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Museo Aeronáutico DGAC; ASPCh; Club Aéreo de Santiago; Embajada de Australia; ADPrensa; Wikipedia; Patrimonio Cultural  
 - **Discrepancias resueltas:** Distancia recorrida (2.047 vs 2.300 millas náuticas) y fecha de inicio (18 de enero como vuelo previo a La Serena).  
 - **Nivel de confianza:** Alto  

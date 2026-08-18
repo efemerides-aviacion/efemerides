@@ -84,8 +84,8 @@ Ochenta y dos años después de aquel primer vuelo en Bethpage, el Bearcat sigue
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/21-august-1944/">This Day in Aviation - 21 August 1944 (XF8F-1 Bearcat, primer vuelo)</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:Grumman_XF8F-1_Bearcat_in_flight,_circa_in_1944_(153724640).jpg">Wikimedia Commons - Grumman XF8F-1 Bearcat en vuelo, c. 1944 (U.S. Navy)</a></li>
+    <li><a href="https://www.thisdayinaviation.com/21-august-1944/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 21 August 1944 (XF8F-1 Bearcat, primer vuelo)</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Grumman_XF8F-1_Bearcat_in_flight,_circa_in_1944_(153724640).jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons - Grumman XF8F-1 Bearcat en vuelo, c. 1944 (U.S. Navy)</a></li>
   </ul>
 </div>
 
@@ -93,7 +93,7 @@ Ochenta y dos años después de aquel primer vuelo en Bethpage, el Bearcat sigue
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-15 10:30:00 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** ninguna accesible de forma directa para el evento
 - **Fuentes secundarias de contraste:** This Day in Aviation, Wikimedia Commons (fotografía U.S. Navy, dominio público)
 - **Discrepancias resueltas:** la identificación del avión fotografiado como el prototipo 90460 es «muy probable» según la ficha de Commons; el pie se redacta con esa reserva. La cifra de 1.265 Bearcat producidos y los datos de prestaciones se toman de This Day in Aviation.

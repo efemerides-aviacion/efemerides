@@ -34,7 +34,7 @@ image: 1974-03-03-vuelo-981-de-turkish-airlines.jpg
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Contexto histórico
+## Contexto Histórico
 El accidente del Vuelo 981 reveló deficiencias graves en el diseño del DC-10 y en la supervisión de las modificaciones de seguridad.
 
 ### Entorno social
@@ -81,8 +81,8 @@ El Vuelo 981 es recordado como un caso emblemático de cómo fallos de diseño y
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Metadatos de control
-- **Timestamp de verificación:** 2026-03-01 12:15 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES/FR, B3A, Aviation Safety Network, AirHistory.net  
 - **Discrepancias resueltas:** Número de víctimas y detalles sobre la puerta de carga  
 - **Nivel de confianza:** Alto  

@@ -89,14 +89,14 @@ Ochenta y ocho años después, la vuelta al mundo de Hughes se recuerda como el 
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Howard_Hughes">Wikipedia (EN) - Howard Hughes</a></li>
-    <li><a href="https://www.thisdayinaviation.com/10-14-july-1938/">This Day in Aviation - 10-14 July 1938</a></li>
-    <li><a href="https://www.icao.int/sites/default/files/postalhistory/aviation_history_aerial_circumnavigation.htm">ICAO Postal History - Aerial circumnavigation</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/Category:NX18973_(aircraft)">Wikimedia Commons - Categoría NX18973 (aircraft)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Howard_Hughes" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Howard Hughes</a></li>
+    <li><a href="https://www.thisdayinaviation.com/10-14-july-1938/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 10-14 July 1938</a></li>
+    <li><a href="https://www.icao.int/sites/default/files/postalhistory/aviation_history_aerial_circumnavigation.htm" style="color: #315fea; text-decoration: none;">ICAO Postal History - Aerial circumnavigation</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/Category:NX18973_(aircraft)" style="color: #315fea; text-decoration: none;">Wikimedia Commons - Categoría NX18973 (aircraft)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el carácter de «récord»:</strong> la Federación Aeronáutica Internacional exige a una circunnavegación cruzar todos los meridianos en un mismo sentido y cubrir al menos la longitud del Trópico de Cáncer; la ruta de Hughes, ceñida a las latitudes norte, quedó unos 12.900 kilómetros por debajo de ese mínimo, por lo que la FAI no la homologó como récord oficial —tampoco lo fueron, por el mismo motivo, los vuelos de Wiley Post—. Su vigencia histórica descansa en la marca nacional reconocida en Estados Unidos y en el Trofeo Collier de 1938.</p>
@@ -106,7 +106,7 @@ Ochenta y ocho años después, la vuelta al mundo de Hughes se recuerda como el 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-08 14:47:33 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN), This Day in Aviation, ICAO Postal History, Wikimedia Commons
 - **Discrepancias resueltas:** La duración total figura como 91 horas y 14 minutos en This Day in Aviation y en la cita del propio Trofeo Collier, y como «3 días, 19 horas y 17 minutos» en ICAO y Wikipedia; se adoptó la primera por ser la inscrita en el galardón. La distancia (23.612 km frente a 23.818 km según las fuentes) se redactó como «unos 23.800 kilómetros (las fuentes difieren)». El número de serie del aparato (1419 frente a 1491) se omitió por no ser esencial ni estar conciliado.
 - **Nivel de confianza:** Alto

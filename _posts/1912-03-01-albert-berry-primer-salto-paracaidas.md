@@ -33,7 +33,7 @@ image: 1912-03-01-primer-salto-en-paracaidas-desde-avion.jpg
 - **Reconocimiento oficial:** Considerado el primer salto documentado desde avión por autoridades estadounidenses  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Contexto histórico
+## Contexto Histórico
 El salto de Albert Berry en 1912 demostró la viabilidad del paracaídas como dispositivo de emergencia en la aviación, abriendo el camino al paracaidismo militar y deportivo.
 
 ### Entorno social
@@ -77,8 +77,8 @@ Recordado como pionero del paracaidismo, su salto es considerado el inicio ofici
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Smithsonian Air & Space, This Day in Aviation, Military.com, HistoryNet  
 - **Discrepancias resueltas:** Debate sobre primacía del salto (Berry vs. Morton).  
 - **Nivel de confianza:** Alto  

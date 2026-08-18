@@ -142,15 +142,15 @@ El papel de la aviación en el Día D es estudiado en academias militares de tod
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/6-june-1944/">This Day in Aviation – 6 June 1944</a></li>
-    <li><a href="https://www.airuniversity.af.edu/News/Display/Article/1859844/key-to-success-allied-airpower-at-normandy/">Air University – Key to success: Allied airpower at Normandy</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/visit/Museum-Exhibits/Fact-Sheets/Display/Article/1789416/operation-overlord-d-day/">National Museum of the U.S. Air Force – Operation Overlord: D-Day</a></li>
-    <li><a href="https://www.iwm.org.uk/history/second-world-war/d-day/how-d-day-was-fought-from-the-air">Imperial War Museum – How D-Day Was Fought From The Air</a></li>
-    <li><a href="https://www.sonsoflibertymuseum.org/aircraft-on-dday.cfm">Sons of Liberty Museum – What Aircraft Were Used on D-Day?</a></li>
+    <li><a href="https://www.thisdayinaviation.com/6-june-1944/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 6 June 1944</a></li>
+    <li><a href="https://www.airuniversity.af.edu/News/Display/Article/1859844/key-to-success-allied-airpower-at-normandy/" style="color: #315fea; text-decoration: none;">Air University – Key to success: Allied airpower at Normandy</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/visit/Museum-Exhibits/Fact-Sheets/Display/Article/1789416/operation-overlord-d-day/" style="color: #315fea; text-decoration: none;">National Museum of the U.S. Air Force – Operation Overlord: D-Day</a></li>
+    <li><a href="https://www.iwm.org.uk/history/second-world-war/d-day/how-d-day-was-fought-from-the-air" style="color: #315fea; text-decoration: none;">Imperial War Museum – How D-Day Was Fought From The Air</a></li>
+    <li><a href="https://www.sonsoflibertymuseum.org/aircraft-on-dday.cfm" style="color: #315fea; text-decoration: none;">Sons of Liberty Museum – What Aircraft Were Used on D-Day?</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -165,7 +165,7 @@ El papel de la aviación en el Día D es estudiado en academias militares de tod
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-03 11:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, Air University (.mil), National Museum of the U.S. Air Force (.mil), Imperial War Museum, Sons of Liberty Museum
 - **Discrepancias resueltas:** Confirmación del número de aeronaves aliadas (11.590) y salidas (14.674). Verificación de las pérdidas aéreas (127). Aclaración de la diferencia entre Overlord y Neptune. Inclusión de la Operación Fortitude como parte del contexto histórico.
 - **Nivel de confianza:** Alto

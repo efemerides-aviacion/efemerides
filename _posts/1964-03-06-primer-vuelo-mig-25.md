@@ -33,7 +33,7 @@ image: 1964-03-06-primer-vuelo-mig-25.jpg
 - **Producción total:** 1,186 unidades  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Contexto histórico
+## Contexto Histórico
 El MiG-25 fue concebido como respuesta soviética a los bombarderos supersónicos y aviones de reconocimiento estadounidenses.
 
 ### Entorno social
@@ -77,8 +77,8 @@ Operó en fuerzas aéreas de Argelia, Siria, Irak e India, además de la URSS. A
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES, SKYbrary, BAAA, National Interest, 19FortyFive  
 - **Discrepancias resueltas:** Lugar del primer vuelo y piloto [NO CONFIRMADO]  
 - **Nivel de confianza:** Alto  

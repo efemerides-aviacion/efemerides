@@ -149,12 +149,12 @@ Hoy, varios Buccaneers se conservan en museos del Reino Unido y Sudáfrica, reco
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Blackburn_Buccaneer">Wikipedia (EN) - Blackburn Buccaneer</a></li>
-    <li><a href="http://www.1000aircraftphotos.com/Contributions/GauthierDavidJ/12342.htm">1000 Aircraft Photos - Buccaneer S.Mk.1 XK486</a></li>
-    <li><a href="https://www.baesystems.com/sites/Satellite?c=BAEHeritage_C&childpagename=UK%2FBAELayout&cid=1434584088992&d=Touch&pagename=UKWrapper">BAE Systems - Blackburn Buccaneer</a></li>
-    <li><a href="http://wayback.archive-it.org/all/20140327024650/http://en.wikipedia.org/wiki/Blackburn_Buccaneer">Wikipedia (archive) - Blackburn Buccaneer</a></li>
-    <li><a href="https://www.strijdbewijs.nl/vliegtuigen/buccaneer.htm">Strijdbewijs - Blackburn Buccaneer (Dutch)</a></li>
-    <li><a href="https://premium.globalsecurity.org/military/world/europe/buccaneer-specs.htm">Global Security - Buccaneer Specifications</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Blackburn_Buccaneer" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Blackburn Buccaneer</a></li>
+    <li><a href="http://www.1000aircraftphotos.com/Contributions/GauthierDavidJ/12342.htm" style="color: #315fea; text-decoration: none;">1000 Aircraft Photos - Buccaneer S.Mk.1 XK486</a></li>
+    <li><a href="https://www.baesystems.com/sites/Satellite?c=BAEHeritage_C&childpagename=UK%2FBAELayout&cid=1434584088992&d=Touch&pagename=UKWrapper" style="color: #315fea; text-decoration: none;">BAE Systems - Blackburn Buccaneer</a></li>
+    <li><a href="http://wayback.archive-it.org/all/20140327024650/http://en.wikipedia.org/wiki/Blackburn_Buccaneer" style="color: #315fea; text-decoration: none;">Wikipedia (archive) - Blackburn Buccaneer</a></li>
+    <li><a href="https://www.strijdbewijs.nl/vliegtuigen/buccaneer.htm" style="color: #315fea; text-decoration: none;">Strijdbewijs - Blackburn Buccaneer (Dutch)</a></li>
+    <li><a href="https://premium.globalsecurity.org/military/world/europe/buccaneer-specs.htm" style="color: #315fea; text-decoration: none;">Global Security - Buccaneer Specifications</a></li>
   </ul>
 </div>
 
@@ -162,7 +162,7 @@ Hoy, varios Buccaneers se conservan en museos del Reino Unido y Sudáfrica, reco
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-29 12:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN), BAE Systems, Global Security, 1000 Aircraft Photos
 - **Discrepancias resueltas:** La fecha del primer vuelo es consistente (30 de abril de 1958). El lugar del primer vuelo presenta una discrepancia (RAE Bedford vs Boscombe Down); se ha priorizado RAE Bedford por ser la fuente del fabricante. El piloto fue Derek Whitehead. El número de unidades construidas fue 211.
 - **Nivel de confianza:** Alto

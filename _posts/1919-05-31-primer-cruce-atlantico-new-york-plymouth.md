@@ -137,16 +137,16 @@ El Curtiss NC-4 es recordado como el primer avión en cruzar el océano Atlánti
 
 <div class="references">
   <ul>
-    <li><a href="https://www.history.navy.mil/news-and-events/news/2022/nhm-053122.html">Naval History and Heritage Command – Today in Naval History: May 31, 1919</a></li>
-    <li><a href="https://collections.si.edu/search/detail/edanmdm:nasm_A19270032000">Smithsonian Institution – Curtiss NC-4</a></li>
-    <li><a href="https://navylog.navymemorial.org/node/4367386">United States Navy Memorial – Curtiss flying boat NC-4</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Curtiss_NC-4">Wikipedia – Curtiss NC-4</a></li>
-    <li><a href="https://www.guinnessworldrecords.com/world-records/first-transatlantic-flight">Guinness World Records – First transatlantic flight</a></li>
-    <li><a href="https://www.britannica.com/technology/Curtiss-NC-4">Britannica – Curtiss NC-4</a></li>
+    <li><a href="https://www.history.navy.mil/news-and-events/news/2022/nhm-053122.html" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command – Today in Naval History: May 31, 1919</a></li>
+    <li><a href="https://collections.si.edu/search/detail/edanmdm:nasm_A19270032000" style="color: #315fea; text-decoration: none;">Smithsonian Institution – Curtiss NC-4</a></li>
+    <li><a href="https://navylog.navymemorial.org/node/4367386" style="color: #315fea; text-decoration: none;">United States Navy Memorial – Curtiss flying boat NC-4</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Curtiss_NC-4" style="color: #315fea; text-decoration: none;">Wikipedia – Curtiss NC-4</a></li>
+    <li><a href="https://www.guinnessworldrecords.com/world-records/first-transatlantic-flight" style="color: #315fea; text-decoration: none;">Guinness World Records – First transatlantic flight</a></li>
+    <li><a href="https://www.britannica.com/technology/Curtiss-NC-4" style="color: #315fea; text-decoration: none;">Britannica – Curtiss NC-4</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -160,7 +160,7 @@ El Curtiss NC-4 es recordado como el primer avión en cruzar el océano Atlánti
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-28 13:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Naval History and Heritage Command (Navy.mil), Smithsonian Institution, United States Navy Memorial, Wikipedia, Guinness World Records, Britannica
 - **Discrepancias resueltas:** Confirmación de la fecha de llegada a Plymouth (31 de mayo de 1919). Verificación de la discrepancia en el tiempo total de vuelo (57h 16min vs. 53h 58min). Aclaración de la diferencia entre "primer cruce" (NC-4) y "primer cruce sin escalas" (Alcock y Brown).
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales, incluyendo la Armada de EE. UU., coinciden en los datos fundamentales)

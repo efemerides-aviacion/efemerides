@@ -178,10 +178,10 @@ Hoy, la matrícula YV-C-AFE ya no existe. El avión quedó destruido en el impac
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_304_de_Linea_Aeropostal_Venezolana">Wikipedia (ES) - Vuelo 304 de Línea Aeropostal Venezolana</a></li>
-    <li><a href="https://favclubven.wordpress.com/2025/01/03/el-atentado-al-douglas-dc-3-yv-c-afe-de-la-linea-aeropostal-venezolana/">FavClubVen - El atentado al Douglas DC-3 YV-C-AFE de la Línea Aeropostal Venezolana (Coronel José Luis Ochoa Vargas)</a></li>
-    <li><a href="https://www.planecrashinfo.com/1960/1960-23.htm">Plane Crash Info - April 28, 1960, Douglas DC-3 near Calabozo</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Aeropostal">Wikipedia (ES) - Aeropostal</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_304_de_Linea_Aeropostal_Venezolana" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Vuelo 304 de Línea Aeropostal Venezolana</a></li>
+    <li><a href="https://favclubven.wordpress.com/2025/01/03/el-atentado-al-douglas-dc-3-yv-c-afe-de-la-linea-aeropostal-venezolana/" style="color: #315fea; text-decoration: none;">FavClubVen - El atentado al Douglas DC-3 YV-C-AFE de la Línea Aeropostal Venezolana (Coronel José Luis Ochoa Vargas)</a></li>
+    <li><a href="https://www.planecrashinfo.com/1960/1960-23.htm" style="color: #315fea; text-decoration: none;">Plane Crash Info - April 28, 1960, Douglas DC-3 near Calabozo</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Aeropostal" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Aeropostal</a></li>
   </ul>
 </div>
 
@@ -189,7 +189,7 @@ Hoy, la matrícula YV-C-AFE ya no existe. El avión quedó destruido en el impac
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-28 09:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES), FavClubVen (artículo del coronel José Luis Ochoa Vargas), Plane Crash Info
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (28 de abril de 1960) y en la mayoría de los datos. El número de ocupantes varía ligeramente (13 según la mayoría, 10 según algunas fuentes). Se ha priorizado la cifra de 13 (3 tripulantes + 10 pasajeros). La hora del despegue fue a las 07:30 y la explosión a las 08:22. Los nombres de los tripulantes y pasajeros están documentados en el artículo del coronel José Luis Ochoa Vargas.
 - **Nivel de confianza:** Alto

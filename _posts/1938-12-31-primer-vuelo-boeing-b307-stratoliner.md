@@ -44,17 +44,17 @@ El B-307 Stratoliner es recordado como pionero en confort y seguridad aérea. Su
 ## Referencias
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Boeing_307">Boeing 307 Stratoliner - Wikipedia</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_307_Stratoliner">Boeing 307 Stratoliner - English Wikipedia</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:USAAF_Boeing_C-75_Stratoliner_42-88624_Commanche.jpg">Boeing C-75 42-88624 "Commanche" - Wikimedia Commons</a></li>
-    <li><a href="https://airandspace.si.edu/collection-objects/boeing-307-stratoliner-clipper-flying-cloud/nasm_A19730267000">National Air and Space Museum - Boeing 307</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Boeing_307" style="color: #315fea; text-decoration: none;">Boeing 307 Stratoliner - Wikipedia</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_307_Stratoliner" style="color: #315fea; text-decoration: none;">Boeing 307 Stratoliner - English Wikipedia</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:USAAF_Boeing_C-75_Stratoliner_42-88624_Commanche.jpg" style="color: #315fea; text-decoration: none;">Boeing C-75 42-88624 "Commanche" - Wikimedia Commons</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/boeing-307-stratoliner-clipper-flying-cloud/nasm_A19730267000" style="color: #315fea; text-decoration: none;">National Air and Space Museum - Boeing 307</a></li>
   </ul>
 </div>
 
 ---
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2025-12-29 12:05:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Boeing Historical Archives, Smithsonian NASM, Aviation History Online Museum  
 - **Discrepancias resueltas:** Algunas fuentes mencionan 1939 como fecha de primer vuelo; se priorizó 31 de diciembre de 1938 según registros de Boeing y Smithsonian.  
 - **Nivel de confianza:** Alto  

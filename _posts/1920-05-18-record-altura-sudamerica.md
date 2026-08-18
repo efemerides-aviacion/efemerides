@@ -142,11 +142,11 @@ Hoy, la Fuerza Aérea Boliviana (FAB) conmemora cada 17 de abril el primer vuelo
 
 <div class="references">
   <ul>
-    <li><a href="https://www.pub.eldiario.net/noticias/2020/2020_05/nt200518/nacional.php?n=72&-vuelo-de-avion-sobre-el-illimani-cumple-100-anios">El Diario - Vuelo de avión sobre el Illimani cumple 100 años</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Donald_Hudson_(aviator)">Wikipedia (EN) - Donald Hudson (aviator)</a></li>
-    <li><a href="https://noticiasfides.com/cultura-y-farandula/el-vuelo-del-avion-que-consiguio-un-record-de-altura-sobre-el-illimani-cumple-un-centenario-404839">Agencia de Noticias Fides - El vuelo que consiguió un récord de altura cumple un centenario</a></li>
-    <li><a href="https://pub.eldiario.net/noticias/2012/2012_04/nt120417/nuevoshorizontes.php?n=1&-92-anios-del-primer-vuelo-en-bolivia">El Diario - 92 años del Primer Vuelo en Bolivia</a></li>
-    <li><a href="http://aviastar.org/air/usa/curtiss_18t.php">Aviastar - Curtiss 18-T specifications</a></li>
+    <li><a href="https://www.pub.eldiario.net/noticias/2020/2020_05/nt200518/nacional.php?n=72&-vuelo-de-avion-sobre-el-illimani-cumple-100-anios" style="color: #315fea; text-decoration: none;">El Diario - Vuelo de avión sobre el Illimani cumple 100 años</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Donald_Hudson_(aviator)" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Donald Hudson (aviator)</a></li>
+    <li><a href="https://noticiasfides.com/cultura-y-farandula/el-vuelo-del-avion-que-consiguio-un-record-de-altura-sobre-el-illimani-cumple-un-centenario-404839" style="color: #315fea; text-decoration: none;">Agencia de Noticias Fides - El vuelo que consiguió un récord de altura cumple un centenario</a></li>
+    <li><a href="https://pub.eldiario.net/noticias/2012/2012_04/nt120417/nuevoshorizontes.php?n=1&-92-anios-del-primer-vuelo-en-bolivia" style="color: #315fea; text-decoration: none;">El Diario - 92 años del Primer Vuelo en Bolivia</a></li>
+    <li><a href="http://aviastar.org/air/usa/curtiss_18t.php" style="color: #315fea; text-decoration: none;">Aviastar - Curtiss 18-T specifications</a></li>
   </ul>
 </div>
 
@@ -154,7 +154,7 @@ Hoy, la Fuerza Aérea Boliviana (FAB) conmemora cada 17 de abril el primer vuelo
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-16 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** El Diario (Bolivia), Wikipedia, Agencia de Noticias Fides, Aviastar
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del récord (18 de mayo de 1920). La altitud exacta alcanzada no está documentada con precisión, pero se estima en aproximadamente 9.000 metros (29.500 pies). El rango de Hudson varía según la fuente (Teniente Coronel en Bolivia, lieutenant en EE. UU.). El nombre completo de la aeronave varía: Curtiss 18T-2 Wasp, Curtiss-Kirkham 18T-2.
 - **Nivel de confianza:** Alto

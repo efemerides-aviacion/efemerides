@@ -89,9 +89,9 @@ Ciento cincuenta y dos años después de su nacimiento, Katharine Wright Haskell
 
 <div class="references">
   <ul>
-    <li><a href="https://www.nps.gov/daav/learn/historyculture/katharinewrightslifestory.htm">National Park Service - Katharine Wright's Life Story (Dayton Aviation Heritage)</a></li>
-    <li><a href="https://airandspace.si.edu/stories/editorial/katharine-wright-wright-sister">Smithsonian National Air and Space Museum - Katharine Wright: The Wright Sister</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:Katharine_Wright.jpg">Wikimedia Commons - Retrato de Katharine Wright, Oberlin 1898</a></li>
+    <li><a href="https://www.nps.gov/daav/learn/historyculture/katharinewrightslifestory.htm" style="color: #315fea; text-decoration: none;">National Park Service - Katharine Wright's Life Story (Dayton Aviation Heritage)</a></li>
+    <li><a href="https://airandspace.si.edu/stories/editorial/katharine-wright-wright-sister" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum - Katharine Wright: The Wright Sister</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Katharine_Wright.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons - Retrato de Katharine Wright, Oberlin 1898</a></li>
   </ul>
 </div>
 
@@ -99,9 +99,9 @@ Ciento cincuenta y dos años después de su nacimiento, Katharine Wright Haskell
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-13 15:50:00 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** National Park Service (Dayton Aviation Heritage) y Smithsonian National Air and Space Museum
-- **Fuentes secundarias de contraste:** Wikimedia Commons (retrato), borrador preliminar del investigador
+- **Fuentes secundarias de contraste:** Wikimedia Commons (retrato)
 - **Discrepancias resueltas:** la afirmación del borrador sobre la tienda de bicicletas como fuente de financiamiento queda confirmada por las fuentes institucionales: los Wright no aceptaban donaciones y costearon sus experimentos con las ganancias de la tienda, cuya administración Katharine sostuvo junto con su sueldo de maestra; así se redacta. El apodo «tercer hermano Wright» se atribuye a la tradición popular, no a una fuente documental.
 - **Nivel de confianza:** Alto — núcleo del hecho respaldado por fuentes institucionales consultadas.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

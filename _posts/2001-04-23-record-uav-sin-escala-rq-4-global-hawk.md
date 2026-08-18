@@ -140,12 +140,12 @@ El récord de distancia sin escala para un UAV certificado por la FAI en 2001 si
 
 <div class="references">
   <ul>
-    <li><a href="https://www.guinnessworldrecords.com/world-records/farthest-flight-by-an-unmanned-aircraft-(fai-approved)">Guinness World Records - Farthest flight by an unmanned aircraft (FAI-approved)</a></li>
-    <li><a href="https://rankings.fai.org/record/18693">FAI Record - Northrop Grumman RQ-4A Global Hawk (23 April 2001)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk">Wikipedia (EN) - Northrop Grumman RQ-4 Global Hawk</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk">Wikipedia (ES) - Northrop Grumman RQ-4 Global Hawk</a></li>
-    <li><a href="https://www.graphicnews.com/en/pages/12545/military-australia-tests-spy-plane">Graphic News - Australia tests spy plane (June 13, 2001)</a></li>
-    <li><a href="https://www.defenceconnect.com.au/key-enablers/6592-wide-area-isr-a-strategic-imperative-for-australia-s-security">Defence Connect - Wide-area ISR: a strategic imperative for Australia's security</a></li>
+    <li><a href="https://www.guinnessworldrecords.com/world-records/farthest-flight-by-an-unmanned-aircraft-(fai-approved)" style="color: #315fea; text-decoration: none;">Guinness World Records - Farthest flight by an unmanned aircraft (FAI-approved)</a></li>
+    <li><a href="https://rankings.fai.org/record/18693" style="color: #315fea; text-decoration: none;">FAI Record - Northrop Grumman RQ-4A Global Hawk (23 April 2001)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Northrop Grumman RQ-4 Global Hawk</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Northrop_Grumman_RQ-4_Global_Hawk" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Northrop Grumman RQ-4 Global Hawk</a></li>
+    <li><a href="https://www.graphicnews.com/en/pages/12545/military-australia-tests-spy-plane" style="color: #315fea; text-decoration: none;">Graphic News - Australia tests spy plane (June 13, 2001)</a></li>
+    <li><a href="https://www.defenceconnect.com.au/key-enablers/6592-wide-area-isr-a-strategic-imperative-for-australia-s-security" style="color: #315fea; text-decoration: none;">Defence Connect - Wide-area ISR: a strategic imperative for Australia's security</a></li>
   </ul>
 </div>
 
@@ -153,7 +153,7 @@ El récord de distancia sin escala para un UAV certificado por la FAI en 2001 si
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-22 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** FAI (Fédération Aéronautique Internationale) - registro 18693, Guinness World Records, Wikipedia (EN/ES)
 - **Discrepancias resueltas:** La discrepancia sobre la fecha (23 vs 24 de abril) se ha resuelto priorizando la certificación oficial de la FAI y Guinness (23 de abril de 2001). El despegue fue el 22 de abril, el aterrizaje el 23 de abril. La duración del vuelo (23 horas 23 minutos) es consistente en todas las fuentes.
 - **Nivel de confianza:** Alto

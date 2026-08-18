@@ -84,9 +84,9 @@ Cincuenta y siete años después de su fundación, Embraer sigue en São José d
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Embraer">Wikipedia (inglés) - Embraer</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Embraer_EMB_110_Bandeirante">Wikipedia (inglés) - Embraer EMB 110 Bandeirante</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:Bandeirante_EMB-100_at_MAB.jpg">Wikimedia Commons - Prototipo del Bandeirante (EMB-100) en el Memorial Aeroespacial Brasileiro</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Embraer" style="color: #315fea; text-decoration: none;">Wikipedia (inglés) - Embraer</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Embraer_EMB_110_Bandeirante" style="color: #315fea; text-decoration: none;">Wikipedia (inglés) - Embraer EMB 110 Bandeirante</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Bandeirante_EMB-100_at_MAB.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons - Prototipo del Bandeirante (EMB-100) en el Memorial Aeroespacial Brasileiro</a></li>
   </ul>
 </div>
 
@@ -94,7 +94,7 @@ Cincuenta y siete años después de su fundación, Embraer sigue en São José d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-14 14:05:00 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** ninguna accesible de forma directa para el evento
 - **Fuentes secundarias de contraste:** Wikipedia (inglés, Embraer y EMB 110 Bandeirante), Wikimedia Commons (fotografía del prototipo)
 - **Discrepancias resueltas:** ninguna relevante entre fuentes; el número de unidades del Bandeirante (503) se toma de Wikipedia con reserva por ser dato de catálogo.

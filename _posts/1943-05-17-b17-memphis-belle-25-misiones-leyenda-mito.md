@@ -150,10 +150,10 @@ El legado del "Memphis Belle" es perdurable. Su historia ha sido contada en libr
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/17-may-1943/">This Day in Aviation - 17 May 1943</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196252/boeing-b-17f-memphis-belle/">National Museum of the USAF - Boeing B-17F Memphis Belle</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Memphis_Belle_(aircraft)">Wikipedia - Memphis Belle (aircraft)</a></li>
-    <li><a href="https://www.nationalww2museum.org/war/articles/belle-of-the-skies-the-legacy-of-the-memphis-belle">The National WWII Museum - Belle of the Skies: The Legacy of the Memphis Belle</a></li>
+    <li><a href="https://www.thisdayinaviation.com/17-may-1943/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 17 May 1943</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196252/boeing-b-17f-memphis-belle/" style="color: #315fea; text-decoration: none;">National Museum of the USAF - Boeing B-17F Memphis Belle</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Memphis_Belle_(aircraft)" style="color: #315fea; text-decoration: none;">Wikipedia - Memphis Belle (aircraft)</a></li>
+    <li><a href="https://www.nationalww2museum.org/war/articles/belle-of-the-skies-the-legacy-of-the-memphis-belle" style="color: #315fea; text-decoration: none;">The National WWII Museum - Belle of the Skies: The Legacy of the Memphis Belle</a></li>
   </ul>
 </div>
 
@@ -161,7 +161,7 @@ El legado del "Memphis Belle" es perdurable. Su historia ha sido contada en libr
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-14 16:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, National Museum of the USAF (.mil), Wikipedia, The National WWII Museum
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha de la 25ª misión (17 de mayo de 1943). Se ha aclarado la diferencia entre el "Memphis Belle" y el "Hell's Angels" como el primer avión en completar 25 misiones (Hell's Angels, 13 de mayo de 1943) frente a la primera tripulación completa (Memphis Belle). Se ha corregido la información sobre el fallecimiento de la tripulación.
 - **Nivel de confianza:** Alto

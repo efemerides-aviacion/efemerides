@@ -12,7 +12,7 @@ image: 1963-04-10-primer-vuelo-ewr-vj-101.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1963-04-10-primer-vuelo-ewr-vj-101.webp" alt="EWR VJ 101C X-2 en el Deutsches Museum de Múnich">
-  <figcaption class="post-caption">EWR VJ 101 C-X1 (D-9517) en tierra en el centro de pruebas de Manching, 25 de abril de 1964. Fotografía: Ralf Manteufel (airliners.net). Fuente:<a href="https://www.airliners.net/photo/Untitled/Dornier-VJ-101-X1/1230006/L">Airliners.net – EWR VJ-101-X1</a></figcaption>
+  <figcaption class="post-caption">EWR VJ 101 C-X1 (D-9517) en tierra en el centro de pruebas de Manching, 25 de abril de 1964. Fotografía: Ralf Manteufel (airliners.net). Fuente:<a href="https://www.airliners.net/photo/Untitled/Dornier-VJ-101-X1/1230006/L" style="color: #315fea; text-decoration: none;">Airliners.net – EWR VJ-101-X1</a></figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
@@ -78,17 +78,17 @@ El EWR VJ 101 fue un prodigio de ingeniería que demostró que un avión de desp
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.deutsches-museum.de/en/flugwerft-schleissheim/ausstellung/hubschrauber-und-senkrechtstarter/vj-101c">Deutsches Museum – VJ 101C (Exhibición permanente)</a></li>
-    <li><a href="https://afterburner.com.pl/10-apr-1963/">Afterburner – 10 April 1963: maiden flight of EWR VJ 101</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/EWR_VJ_101">Wikipedia (ES) – EWR VJ 101</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/EWR_VJ_101">Wikipedia (EN) – EWR VJ 101</a></li>
+    <li><a href="https://www.deutsches-museum.de/en/flugwerft-schleissheim/ausstellung/hubschrauber-und-senkrechtstarter/vj-101c" style="color: #315fea; text-decoration: none;">Deutsches Museum – VJ 101C (Exhibición permanente)</a></li>
+    <li><a href="https://afterburner.com.pl/10-apr-1963/" style="color: #315fea; text-decoration: none;">Afterburner – 10 April 1963: maiden flight of EWR VJ 101</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/EWR_VJ_101" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – EWR VJ 101</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/EWR_VJ_101" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – EWR VJ 101</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-07 16:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Deutsches Museum, Afterburner, Wikipedia (ES/EN)
 - **Discrepancias resueltas:** Algunas fuentes mencionan el 9 de abril como fecha del primer vuelo, pero la documentación oficial del Deutsches Museum y Afterburner confirman el 10 de abril de 1963. Se ha adoptado esta última.
 - **Nivel de confianza:** Alto

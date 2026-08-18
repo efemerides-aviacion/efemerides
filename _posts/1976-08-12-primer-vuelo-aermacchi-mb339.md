@@ -145,9 +145,9 @@ Queda por último la dimensión simbólica, que su diseñador no pudo prever. Un
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-07 08:47:34 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikimedia Commons, documentación fotográfica del aparato de demostración I-TOCA de Aermacchi.
-- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español; Aeropedia, The Encyclopedia of Aircraft, con las matrículas de ambos prototipos; The War Zone; Global Military; GlobalSecurity; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español; Aeropedia, The Encyclopedia of Aircraft, con las matrículas de ambos prototipos; The War Zone; Global Military; GlobalSecurity.
 - **Discrepancias resueltas:** se optó por citar los dos prototipos documentados, I-NOVE e I-NINE, ante la divergencia entre las fuentes que hablan de dos y las que consignan tres; se empleó la forma genérica «Venegono» ante la doble atribución a Venegono Inferiore y Venegono Superiore; se consignó el Viper Mk 632-43 como planta motriz de serie, señalando la mención aislada de un Viper Mk 540 en el prototipo; se distinguieron las cifras de 101 y 107 aparatos entregados a Italia según el periodo y las variantes contabilizadas.
 - **Datos no confirmados:** la duración exacta del vuelo inaugural del 12 de agosto de 1976, que las fuentes consultadas no detallan; el número total de prototipos MB-339X efectivamente construidos.
 - **Nivel de confianza:** Alto

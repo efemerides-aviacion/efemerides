@@ -186,12 +186,12 @@ Agradecemos al General Paredes Niño por su aporte y al Coronel Quintero por su 
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/English_Electric_Canberra">Wikipedia (ES) - English Electric Canberra</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/English_Electric_Canberra">Wikipedia (EN) - English Electric Canberra</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/vn799/">This Day in Aviation - 13 May 1949</a></li>
-    <li><a href="https://www.zona-militar.com/2020/11/19/50-anos-del-avion-canberra-en-la-fuerza-aerea-argentina/">Zona Militar - 50 años del Canberra en la Fuerza Aérea Argentina</a></li>
-    <li><a href="https://airandspace.si.edu/collection-objects/martin-b-57b-canberra/nasm_A19920231000">National Air and Space Museum - Martin B-57B Canberra</a></li>
-    <li><strong>Quintero, Omar (Coronel de Aviación, FAV).</strong> <a href="https://favclubven.wordpress.com/2024/12/05/el-canberra-en-la-fuerza-aerea-venezolana/">"El Canberra en la Fuerza Aérea Venezolana"</a>. FAV Club, 5 de diciembre de 2024. <em>(Fuente principal para la historia del Canberra en Venezuela, incluyendo fechas exactas de creación del G13, primer comandante y detalles del traslado de 1964)</em></li>
+    <li><a href="https://es.wikipedia.org/wiki/English_Electric_Canberra" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - English Electric Canberra</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/English_Electric_Canberra" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - English Electric Canberra</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/vn799/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 13 May 1949</a></li>
+    <li><a href="https://www.zona-militar.com/2020/11/19/50-anos-del-avion-canberra-en-la-fuerza-aerea-argentina/" style="color: #315fea; text-decoration: none;">Zona Militar - 50 años del Canberra en la Fuerza Aérea Argentina</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/martin-b-57b-canberra/nasm_A19920231000" style="color: #315fea; text-decoration: none;">National Air and Space Museum - Martin B-57B Canberra</a></li>
+    <li><strong>Quintero, Omar (Coronel de Aviación, FAV).</strong> <a href="https://favclubven.wordpress.com/2024/12/05/el-canberra-en-la-fuerza-aerea-venezolana/" style="color: #315fea; text-decoration: none;">"El Canberra en la Fuerza Aérea Venezolana"</a>. FAV Club, 5 de diciembre de 2024. <em>(Fuente principal para la historia del Canberra en Venezuela, incluyendo fechas exactas de creación del G13, primer comandante y detalles del traslado de 1964)</em></li>
     <li><strong>Testimonio oral del General de División de Aviación (Jub.) Juan Antonio Paredes Niño</strong>, hijo del primer comandante del Grupo 13, recibido el 13 de mayo de 2026, que motivó la revisión y corrección de esta efeméride.</li>
   </ul>
 </div>
@@ -200,7 +200,7 @@ Agradecemos al General Paredes Niño por su aporte y al Coronel Quintero por su 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-13 14:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), This Day in Aviation, Zona Militar, National Air and Space Museum, FAV Club (artículo de Omar Quintero), testimonio oral del General Paredes Niño.
 - **Discrepancias resueltas en esta versión:** 
   - Se ha corregido la atribución del primer comandante del Grupo Nº13, asignándoselo al Mayor Fernando Paredes Bello (27 de julio de 1961).

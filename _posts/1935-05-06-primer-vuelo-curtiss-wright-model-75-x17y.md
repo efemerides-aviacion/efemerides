@@ -150,11 +150,11 @@ El prototipo X17Y, tras ser modificado a la configuración Model 75B, continuó 
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Curtiss_P-36_Hawk">Wikipedia - Curtiss P-36 Hawk</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/curtiss-wright-model-75/">This Day in Aviation - Curtiss-Wright Model 75</a></li>
-    <li><a href="https://www.thisdayinaviation.com/6-may-1935/">This Day in Aviation - 6 May 1935</a></li>
-    <li><a href="https://www.worldwarphotos.info/gallery/usa/aircrafts-2-3/p-36/curtiss-hawk-75-nx17y-may35/">World War Photos - Curtiss Hawk 75 NX17Y May 1935</a></li>
-    <li><a href="https://www.flugrevue.de/klassiker/weltkriegsjaeger-von-pearl-harbor-bis-finnland-curtiss-p-36-hawk-im-dienst-vieler-nationen/">Flug Revue - Curtiss P-36 Hawk im Dienst vieler Nationen</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Curtiss_P-36_Hawk" style="color: #315fea; text-decoration: none;">Wikipedia - Curtiss P-36 Hawk</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/curtiss-wright-model-75/" style="color: #315fea; text-decoration: none;">This Day in Aviation - Curtiss-Wright Model 75</a></li>
+    <li><a href="https://www.thisdayinaviation.com/6-may-1935/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 6 May 1935</a></li>
+    <li><a href="https://www.worldwarphotos.info/gallery/usa/aircrafts-2-3/p-36/curtiss-hawk-75-nx17y-may35/" style="color: #315fea; text-decoration: none;">World War Photos - Curtiss Hawk 75 NX17Y May 1935</a></li>
+    <li><a href="https://www.flugrevue.de/klassiker/weltkriegsjaeger-von-pearl-harbor-bis-finnland-curtiss-p-36-hawk-im-dienst-vieler-nationen/" style="color: #315fea; text-decoration: none;">Flug Revue - Curtiss P-36 Hawk im Dienst vieler Nationen</a></li>
   </ul>
 </div>
 
@@ -162,7 +162,7 @@ El prototipo X17Y, tras ser modificado a la configuración Model 75B, continuó 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-06 11:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, This Day in Aviation, World War Photos, Flug Revue
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (6 de mayo de 1935) y el lugar (Buffalo, Nueva York). Existe discrepancia en la potencia del motor original (900 hp vs 775/830 hp). La velocidad máxima en las primeras pruebas fue de 452 km/h (281 mph). El registro civil X17Y fue emitido el 1 de junio de 1936 y cancelado el 26 de abril de 1937.
 - **Nivel de confianza:** Alto

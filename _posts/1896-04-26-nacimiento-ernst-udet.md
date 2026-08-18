@@ -150,13 +150,13 @@ Su tumba se encuentra junto a la de Manfred von Richthofen en el cementerio Inva
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Ernst_Udet">Wikipedia (ES) - Ernst Udet</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Ernst_Udet">Wikipedia (EN) - Ernst Udet</a></li>
-    <li><a href="https://www.ecured.cu/Ernst_Udet">EcuRed - Ernst Udet</a></li>
-    <li><a href="https://www.deutsche-biographie.de/pnd118624997.html?language=en">Deutsche Biographie - Ernst Udet</a></li>
-    <li><a href="https://www.nytimes.com/1941/11/19/archives/udet-nazi-flier-dies-in-accident-berlin-says-only-that-he-was.html">The New York Times - Udet, Nazi Flier, Dies in Accident (19 November 1941)</a></li>
-    <li><a href="https://open-data.bundesarchiv.de/apex-ead/DE-1958_N_966.xml">Bundesarchiv - Nachlass Ernst Udet (N 966)</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Historia_de_la_aviaci%C3%B3n">Wikipedia (ES) - Historia de la aviación</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Ernst_Udet" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Ernst Udet</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Ernst_Udet" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Ernst Udet</a></li>
+    <li><a href="https://www.ecured.cu/Ernst_Udet" style="color: #315fea; text-decoration: none;">EcuRed - Ernst Udet</a></li>
+    <li><a href="https://www.deutsche-biographie.de/pnd118624997.html?language=en" style="color: #315fea; text-decoration: none;">Deutsche Biographie - Ernst Udet</a></li>
+    <li><a href="https://www.nytimes.com/1941/11/19/archives/udet-nazi-flier-dies-in-accident-berlin-says-only-that-he-was.html" style="color: #315fea; text-decoration: none;">The New York Times - Udet, Nazi Flier, Dies in Accident (19 November 1941)</a></li>
+    <li><a href="https://open-data.bundesarchiv.de/apex-ead/DE-1958_N_966.xml" style="color: #315fea; text-decoration: none;">Bundesarchiv - Nachlass Ernst Udet (N 966)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Historia_de_la_aviaci%C3%B3n" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Historia de la aviación</a></li>
   </ul>
 </div>
 
@@ -164,7 +164,7 @@ Su tumba se encuentra junto a la de Manfred von Richthofen en el cementerio Inva
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-24 09:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), EcuRed, Deutsche Biographie, The New York Times (archivo 1941), Bundesarchiv
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha de nacimiento (26 de abril de 1896) y fallecimiento (17 de noviembre de 1941). Existe una pequeña discrepancia en el número de victorias (62 confirmadas por la mayoría, 60 según Flugsport de 1919). El expediente personal de Udet en la Bundesarchiv confirma las 62 victorias. Udet fue miembro del Partido Nazi (NSDAP) desde el 1 de mayo de 1933.
 - **Nivel de confianza:** Alto

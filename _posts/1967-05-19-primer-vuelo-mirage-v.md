@@ -77,17 +77,17 @@ El primer vuelo del Mirage V el 19 de mayo de 1967 es más que un simple hito en
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.globalsecurity.org/military/world/israel/nesher.htm">Global Security.org – IAI Nesher (Vulture)</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Dassault_Mirage_5">Wikipedia – Dassault Mirage 5</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Dassault_Mirage_5">Wikipedia (EN) – Dassault Mirage 5</a></li>
-    <li><a href="https://www.dassault-aviation.com/en/passion/aircraft/military-dassault-aircraft/mirage-5/">Dassault Aviation – Mirage 5</a></li>
-    <li><a href="https://military-history.fandom.com/wiki/Dassault_Mirage_5">Military Wiki – Dassault Mirage 5</a></li>
+    <li><a href="https://www.globalsecurity.org/military/world/israel/nesher.htm" style="color: #315fea; text-decoration: none;">Global Security.org – IAI Nesher (Vulture)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Dassault_Mirage_5" style="color: #315fea; text-decoration: none;">Wikipedia – Dassault Mirage 5</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Dassault_Mirage_5" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Dassault Mirage 5</a></li>
+    <li><a href="https://www.dassault-aviation.com/en/passion/aircraft/military-dassault-aircraft/mirage-5/" style="color: #315fea; text-decoration: none;">Dassault Aviation – Mirage 5</a></li>
+    <li><a href="https://military-history.fandom.com/wiki/Dassault_Mirage_5" style="color: #315fea; text-decoration: none;">Military Wiki – Dassault Mirage 5</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-05-16 10:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Global Security, Wikipedia (ES/EN), Dassault Aviation, Military Wiki
 - **Discrepancias resueltas:** La numeración (Mirage V vs Mirage 5) es consistente en todas las fuentes; las fuentes coinciden en la fecha del 19 de mayo de 1967.
 - **Nivel de confianza:** Alto

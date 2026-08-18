@@ -164,12 +164,12 @@ Pilâtre de Rozier, trágicamente, tiene el dudoso honor de ser la primera víct
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/21-november-1783/">This Day in Aviation - 21 November 1783</a></li>
-    <li><a href="https://kids.britannica.com/students/article/Joseph-Michel-Montgolfier-and-Jacques-%c3%89tienne-Montgolfier/275924">Britannica Kids - Montgolfier brothers</a></li>
-    <li><a href="https://www.britannica.com/biography/Jacques-Etienne-Montgolfier">Encyclopaedia Britannica - Jacques-Étienne Montgolfier</a></li>
-    <li><a href="https://www.pagina12.com.ar/imprimir/diario/suplementos/turismo/subnotas/2659-1689-2013-10-06.html">Página/12 - Aeronautas en la historia</a></li>
-    <li><a href="https://airandspace.si.edu/collection-objects/medal-first-manned-balloon-flights-1783/nasm_A19720093000">National Air and Space Museum - Medal, First Manned Balloon Flights 1783</a></li>
-    <li><a href="https://library.si.edu/es/donate/adopt-a-book/linvention-des-globes-aerostatiques">Smithsonian Libraries - L'Invention des Globes Aerostatiques</a></li>
+    <li><a href="https://www.thisdayinaviation.com/21-november-1783/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 21 November 1783</a></li>
+    <li><a href="https://kids.britannica.com/students/article/Joseph-Michel-Montgolfier-and-Jacques-%c3%89tienne-Montgolfier/275924" style="color: #315fea; text-decoration: none;">Britannica Kids - Montgolfier brothers</a></li>
+    <li><a href="https://www.britannica.com/biography/Jacques-Etienne-Montgolfier" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica - Jacques-Étienne Montgolfier</a></li>
+    <li><a href="https://www.pagina12.com.ar/imprimir/diario/suplementos/turismo/subnotas/2659-1689-2013-10-06.html" style="color: #315fea; text-decoration: none;">Página/12 - Aeronautas en la historia</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/medal-first-manned-balloon-flights-1783/nasm_A19720093000" style="color: #315fea; text-decoration: none;">National Air and Space Museum - Medal, First Manned Balloon Flights 1783</a></li>
+    <li><a href="https://library.si.edu/es/donate/adopt-a-book/linvention-des-globes-aerostatiques" style="color: #315fea; text-decoration: none;">Smithsonian Libraries - L'Invention des Globes Aerostatiques</a></li>
   </ul>
 </div>
 
@@ -177,7 +177,7 @@ Pilâtre de Rozier, trágicamente, tiene el dudoso honor de ser la primera víct
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-15 12:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, Encyclopaedia Britannica, National Air and Space Museum, Smithsonian Libraries
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (21 de noviembre de 1783). La altitud (910 m), duración (25 min) y distancia (9 km) son consistentes en todas las fuentes consultadas.
 - **Nivel de confianza:** Alto

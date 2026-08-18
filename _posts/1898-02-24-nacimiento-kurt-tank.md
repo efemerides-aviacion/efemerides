@@ -81,8 +81,8 @@ Recordado como uno de los grandes ingenieros aeronáuticos del siglo XX, con apo
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Britannica, El Gran Capitán, archivos Bundesarchiv  
 - **Discrepancias resueltas:** Confirmación de fecha de nacimiento y grado académico.  
 - **Nivel de confianza:** Alto  

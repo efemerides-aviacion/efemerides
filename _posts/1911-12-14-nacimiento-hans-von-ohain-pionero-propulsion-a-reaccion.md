@@ -72,16 +72,16 @@ Von Ohain y Frank Whittle son reconocidos como **coinventores del turborreactor*
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Hans_von_Ohain">Wikipedia (EN) – Hans von Ohain</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Hans_von_Ohain">Wikipedia (ES) – Hans von Ohain</a></li>
-    <li><a href="https://www.britannica.com/biography/Hans-Joachim-Pabst-von-Ohain">Encyclopaedia Britannica – Hans von Ohain</a></li>
-    <li><a href="https://www.nasa.gov/centers/glenn/about/history/ohain.html">NASA Glenn Research Center – Hans von Ohain</a></li>
-    <li><a href="https://www.af.mil/About-Us/Biographies/Display/Article/108166/dr-hans-von-ohain/">U.S. Air Force – Dr. Hans von Ohain</a></li>
-    <li><a href="https://www.smithsonianmag.com/air-space-magazine/hans-von-ohain-180957803/">Smithsonian Magazine – Hans von Ohain</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Hans_von_Ohain" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Hans von Ohain</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Hans_von_Ohain" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Hans von Ohain</a></li>
+    <li><a href="https://www.britannica.com/biography/Hans-Joachim-Pabst-von-Ohain" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica – Hans von Ohain</a></li>
+    <li><a href="https://www.nasa.gov/centers/glenn/about/history/ohain.html" style="color: #315fea; text-decoration: none;">NASA Glenn Research Center – Hans von Ohain</a></li>
+    <li><a href="https://www.af.mil/About-Us/Biographies/Display/Article/108166/dr-hans-von-ohain/" style="color: #315fea; text-decoration: none;">U.S. Air Force – Dr. Hans von Ohain</a></li>
+    <li><a href="https://www.smithsonianmag.com/air-space-magazine/hans-von-ohain-180957803/" style="color: #315fea; text-decoration: none;">Smithsonian Magazine – Hans von Ohain</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -95,7 +95,7 @@ Von Ohain y Frank Whittle son reconocidos como **coinventores del turborreactor*
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-30 12:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), Encyclopaedia Britannica, NASA Glenn Research Center, U.S. Air Force, Smithsonian Magazine
 - **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (14 de diciembre de 1911) en todas las fuentes. Aclaración de la diferencia entre las contribuciones de Whittle y von Ohain, reconociendo a ambos como coinventores.
 - **Nivel de confianza:** Alto

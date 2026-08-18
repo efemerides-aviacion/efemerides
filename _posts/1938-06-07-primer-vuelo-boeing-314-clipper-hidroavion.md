@@ -182,16 +182,16 @@ El Boeing 314 Clipper es recordado como un icono de la "Edad de Oro de la Aviaci
 
 <div class="references">
   <ul>
-    <li><a href="https://www.historylink.org/file/3545">HistoryLink – First Boeing Clipper, Model 314, lifts off from Elliott Bay on maiden flight (7 June 1938)</a></li>
-    <li><a href="https://www.airwaysmag.com/new-post/maiden-boeing-model-314-clipper">Airways Magazine – Maiden Flight of the Boeing Model 314 Clipper (7 June 1938)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_314_Clipper">Wikipedia – Boeing 314 Clipper</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Boeing_314">Wikipedia (ES) – Boeing 314</a></li>
-    <li><a href="https://sandiegoairandspace.org/exhibits/online-exhibit-page/6-the-boeing-314">San Diego Air & Space Museum – The Boeing 314</a></li>
-    <li><a href="https://www.boeing.com/history/products/model-314-clipper.page">Boeing – Historical Snapshot: Model 314 Clipper</a></li>
+    <li><a href="https://www.historylink.org/file/3545" style="color: #315fea; text-decoration: none;">HistoryLink – First Boeing Clipper, Model 314, lifts off from Elliott Bay on maiden flight (7 June 1938)</a></li>
+    <li><a href="https://www.airwaysmag.com/new-post/maiden-boeing-model-314-clipper" style="color: #315fea; text-decoration: none;">Airways Magazine – Maiden Flight of the Boeing Model 314 Clipper (7 June 1938)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_314_Clipper" style="color: #315fea; text-decoration: none;">Wikipedia – Boeing 314 Clipper</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Boeing_314" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Boeing 314</a></li>
+    <li><a href="https://sandiegoairandspace.org/exhibits/online-exhibit-page/6-the-boeing-314" style="color: #315fea; text-decoration: none;">San Diego Air & Space Museum – The Boeing 314</a></li>
+    <li><a href="https://www.boeing.com/history/products/model-314-clipper.page" style="color: #315fea; text-decoration: none;">Boeing – Historical Snapshot: Model 314 Clipper</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -206,7 +206,7 @@ El Boeing 314 Clipper es recordado como un icono de la "Edad de Oro de la Aviaci
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-03 18:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** HistoryLink, Airways Magazine, Wikipedia (EN/ES), San Diego Air & Space Museum, Boeing
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (7 de junio de 1938). Verificación de las especificaciones técnicas (envergadura 46,33 m, autonomía 5.633 km). Aclaración de las modificaciones posteriores (de deriva única a triple deriva). Adición de párrafo introductorio en la sección de especificaciones técnicas.
 - **Nivel de confianza:** Alto

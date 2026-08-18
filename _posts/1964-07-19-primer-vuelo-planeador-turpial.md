@@ -93,14 +93,14 @@ Por eso, el 19 de julio de 1964 no solo recuerda el ascenso de un planeador mono
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.aviacioncivil.com.ve/romano-remiddi-el-inmigrante-constructor-de-aviones-de-venezuela/">Aviación Civil Venezuela – Romano Remiddi, el inmigrante constructor de aviones de Venezuela</a></li>
-    <li><a href="https://oediciones.com/book/romano-remiddi-fabrini-el-italiano-constructor-de-aviones-en-venezuela/">O! Ediciones – Romano Remiddi Fabrini: El italiano constructor de aviones en Venezuela</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Base_A%C3%A9rea_General%C3%ADsimo_Francisco_de_Miranda">Wikipedia (ES) – Base Aérea Generalísimo Francisco de Miranda</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Vogt_Lo-100">Wikipedia (EN) – Vogt Lo-100</a></li>
+    <li><a href="https://www.aviacioncivil.com.ve/romano-remiddi-el-inmigrante-constructor-de-aviones-de-venezuela/" style="color: #315fea; text-decoration: none;">Aviación Civil Venezuela – Romano Remiddi, el inmigrante constructor de aviones de Venezuela</a></li>
+    <li><a href="https://oediciones.com/book/romano-remiddi-fabrini-el-italiano-constructor-de-aviones-en-venezuela/" style="color: #315fea; text-decoration: none;">O! Ediciones – Romano Remiddi Fabrini: El italiano constructor de aviones en Venezuela</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Base_A%C3%A9rea_General%C3%ADsimo_Francisco_de_Miranda" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Base Aérea Generalísimo Francisco de Miranda</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Vogt_Lo-100" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Vogt Lo-100</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La fecha exacta del vuelo inaugural, la identidad del piloto de prueba Jaromir Flolik y la matrícula YV-X-BTX proceden principalmente del archivo de la familia Remiddi González difundido por <em>Aviación Civil Venezuela</em>. Las fuentes abiertas adicionales localizadas permiten contextualizar el lugar, la trayectoria de Romano Remiddi y el tipo de aeronave, pero no repiten con el mismo nivel de detalle todos los elementos del suceso. Por ello, en esta efeméride se mantuvieron con prudencia las afirmaciones de precedencia absoluta, como la de “primer planeador” o “primera matrícula experimental”, limitándolas a la forma en que aparecen respaldadas por la documentación pública disponible.</p>
@@ -109,9 +109,9 @@ Por eso, el 19 de julio de 1964 no solo recuerda el ascenso de un planeador mono
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-15 05:59:46 CST  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Aviación Civil Venezuela (con archivo fotográfico y documental de la familia Remiddi González/AVER)  
-- **Fuentes secundarias de contraste:** O! Ediciones, Wikipedia (ES) sobre la Base Aérea Generalísimo Francisco de Miranda, Wikipedia (EN) sobre el Vogt Lo-100, borrador preliminar del investigador  
+- **Fuentes secundarias de contraste:** O! Ediciones, Wikipedia (ES) sobre la Base Aérea Generalísimo Francisco de Miranda, Wikipedia (EN) sobre el Vogt Lo-100
 - **Discrepancias resueltas:** se distinguió entre el hecho plenamente respaldado del primer vuelo del Turpial el 19 de julio de 1964 y las afirmaciones de precedencia histórica más amplias, que quedaron redactadas con cautela por falta de corroboración abierta independiente  
 - **Nivel de confianza:** Medio  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

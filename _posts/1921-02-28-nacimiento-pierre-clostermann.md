@@ -38,7 +38,7 @@ redirect_from:
 - **Obra destacada:** <em>Le Grand Cirque</em> (The Big Show), memorias de combate aéreo  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Contexto histórico
+## Contexto Histórico
 Pierre Clostermann encarna la contribución francesa a la aviación aliada durante la Segunda Guerra Mundial. Su trayectoria refleja tanto el compromiso de los franceses libres como la cooperación internacional en la RAF.
 
 ### Entorno social
@@ -92,8 +92,8 @@ Recordado como “Premier chasseur de France”, su nombre está asociado a la t
 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES/FR, Escuadrón Fénix, WWII Aces, Légion d'Honneur, FalkeEins  
 - **Discrepancias resueltas:** Debate sobre número de victorias (33 confirmadas + 5 probables vs. 19 RAF vs. 15–18 verificables en archivos alemanes).  
 - **Nivel de confianza:** Alto  

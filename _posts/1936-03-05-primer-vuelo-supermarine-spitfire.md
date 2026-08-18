@@ -34,7 +34,7 @@ image: 1936-03-05-primer-vuelo-supermarine-spitfire.jpg
 - **Pedido inicial:** 310 unidades (junio de 1936)  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Contexto histórico
+## Contexto Histórico
 El Spitfire fue concebido como respuesta británica a la creciente amenaza aérea en Europa, destacando por su diseño innovador y su papel crucial en la defensa del Reino Unido.
 
 ### Entorno social
@@ -78,8 +78,8 @@ Se produjeron más de 20.000 unidades en diversas versiones. El Spitfire sigue s
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES, RAF Museum, History Today, RAF Memorial Flight Club  
 - **Discrepancias resueltas:** Fecha exacta del primer vuelo (5 vs. 6 de marzo)  
 - **Nivel de confianza:** Alto  

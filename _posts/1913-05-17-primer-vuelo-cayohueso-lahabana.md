@@ -160,11 +160,11 @@ En julio de 2013, con motivo del centenario de estos vuelos, el Planetario de la
 
 <div class="references">
   <ul>
-    <li><a href="https://myfloridahistory.org/date-in-history/may-17-1913/florida-cuba">Florida Historical Society - From Florida to Cuba (17 May 1913)</a></li>
-    <li><a href="https://www.smithsonianeducation.org/scitech/impacto/graphic/aviation/augustin.html">Smithsonian Institution - Augustin Parla</a></li>
-    <li><a href="https://filateliadecuba.com/los-sobres-de-primeros-vuelos-perdidos-de-cuba-el-vuelo-de-key-west-a-la-habana-de-1913/">Filatelia de Cuba - Los sobres de primeros vuelos perdidos de Cuba</a></li>
-    <li><a href="https://newspapers.lib.utah.edu/ark:/87278/s6rb8fvd/14362677">Salt Lake Tribune - Great Flight Made by Cuban Aviator (18 May 1913)</a></li>
-    <li><a href="https://chroniclingamerica.loc.gov/lccn/sn95047222/1913-05-17/ed-1/seq-1/ocr/">The Lakeland Evening Telegram - Flew from Key West to Havana Today (17 May 1913)</a></li>
+    <li><a href="https://myfloridahistory.org/date-in-history/may-17-1913/florida-cuba" style="color: #315fea; text-decoration: none;">Florida Historical Society - From Florida to Cuba (17 May 1913)</a></li>
+    <li><a href="https://www.smithsonianeducation.org/scitech/impacto/graphic/aviation/augustin.html" style="color: #315fea; text-decoration: none;">Smithsonian Institution - Augustin Parla</a></li>
+    <li><a href="https://filateliadecuba.com/los-sobres-de-primeros-vuelos-perdidos-de-cuba-el-vuelo-de-key-west-a-la-habana-de-1913/" style="color: #315fea; text-decoration: none;">Filatelia de Cuba - Los sobres de primeros vuelos perdidos de Cuba</a></li>
+    <li><a href="https://newspapers.lib.utah.edu/ark:/87278/s6rb8fvd/14362677" style="color: #315fea; text-decoration: none;">Salt Lake Tribune - Great Flight Made by Cuban Aviator (18 May 1913)</a></li>
+    <li><a href="https://chroniclingamerica.loc.gov/lccn/sn95047222/1913-05-17/ed-1/seq-1/ocr/" style="color: #315fea; text-decoration: none;">The Lakeland Evening Telegram - Flew from Key West to Havana Today (17 May 1913)</a></li>
   </ul>
 </div>
 
@@ -172,7 +172,7 @@ En julio de 2013, con motivo del centenario de estos vuelos, el Planetario de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-14 13:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Florida Historical Society, Salt Lake Tribune, The Lakeland Evening Telegram (Chronicling America - Library of Congress), Smithsonian Institution, Filatelia de Cuba
 - **Discrepancias resueltas:** Las fuentes periodísticas de la época (17 de mayo de 1913) confirman la fecha del vuelo. Wikipedia en inglés indica erróneamente el 13 de mayo de 1913 y una duración de 2 horas 8 minutos; se ha priorizado la información de las fuentes primarias contemporáneas al evento (2 horas 35 minutos). Se ha eliminado el enlace roto de Georgia Historic Newspapers y se ha añadido el enlace funcional de Chronicling America (Library of Congress).
 - **Nivel de confianza:** Alto

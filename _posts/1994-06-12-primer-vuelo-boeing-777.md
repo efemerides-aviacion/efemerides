@@ -104,15 +104,15 @@ El primer Boeing 777, WA001, se exhibe actualmente en el Pima Air and Space Muse
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/12-june-1994/">This Day in Aviation – 12 June 1994 / Boeing 777-200 first flight</a></li>
-    <li><a href="https://www.flightglobal.com/united-airlines/2018/09/pictures-the-life-and-times-of-boeings-first-777/">FlightGlobal – The life and times of Boeing's first 777</a></li>
-    <li><a href="https://boeing.mediaroom.com/2003-02-24-Boeing-777-300ER-Newest-777-Airplane-Completes-First-Flight">Boeing Newsroom – 777-300ER first flight (24 February 2003)</a></li>
-    <li><a href="https://www.sun-sentinel.com/1994/06/14/777-flight-takes-boeing-into-the-future/">Sun Sentinel – 777 flight takes Boeing into the future (14 June 1994)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_777">Wikipedia – Boeing 777</a></li>
+    <li><a href="https://www.thisdayinaviation.com/12-june-1994/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 12 June 1994 / Boeing 777-200 first flight</a></li>
+    <li><a href="https://www.flightglobal.com/united-airlines/2018/09/pictures-the-life-and-times-of-boeings-first-777/" style="color: #315fea; text-decoration: none;">FlightGlobal – The life and times of Boeing's first 777</a></li>
+    <li><a href="https://boeing.mediaroom.com/2003-02-24-Boeing-777-300ER-Newest-777-Airplane-Completes-First-Flight" style="color: #315fea; text-decoration: none;">Boeing Newsroom – 777-300ER first flight (24 February 2003)</a></li>
+    <li><a href="https://www.sun-sentinel.com/1994/06/14/777-flight-takes-boeing-into-the-future/" style="color: #315fea; text-decoration: none;">Sun Sentinel – 777 flight takes Boeing into the future (14 June 1994)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_777" style="color: #315fea; text-decoration: none;">Wikipedia – Boeing 777</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El borrador de la investigación preliminar indicaba incorrectamente que el prototipo WA001 (primer Boeing 777) fue enviado al Museum of Flight en Seattle. Según fuentes verificadas (FlightGlobal, This Day in Aviation, Pima Air and Space Museum), el avión fue vendido a Cathay Pacific en 2000, voló comercialmente hasta 2018 y fue donado al <strong>Pima Air and Space Museum en Tucson, Arizona</strong>, donde se exhibe actualmente. La altitud máxima alcanzada durante el primer vuelo fue de 19.000 pies (5.791 metros), no especificada en el borrador. Los motores originales eran Pratt & Whitney PW4074, no los GE90 que posteriormente equiparían otras versiones.</p>
@@ -122,7 +122,7 @@ El primer Boeing 777, WA001, se exhibe actualmente en el Pima Air and Space Muse
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-08 16:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, FlightGlobal, Boeing Newsroom, Sun Sentinel (archivo histórico de 1994), Wikipedia
 - **Discrepancias resueltas:** El borrador indicaba que el prototipo WA001 fue enviado al Museum of Flight en Seattle; se ha corregido al Pima Air and Space Museum (Tucson, Arizona) según múltiples fuentes primarias. Se ha añadido la altitud máxima alcanzada (19.000 pies) y los motores originales (PW4074) que no estaban especificados. Se ha corregido la redacción sobre la duración del vuelo inaugural para evitar ambigüedad.
 - **Nivel de confianza:** Alto

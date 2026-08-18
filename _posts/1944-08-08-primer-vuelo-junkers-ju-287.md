@@ -143,9 +143,9 @@ Queda una tercera lectura, menos técnica. El Ju 287 voló ocho meses antes del 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-03 08:10:47 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum, ficha del Grumman X-29A y artículo de la revista <em>Air &amp; Space</em> sobre la evolución del ala en flecha invertida; reproducción de los informes de túnel de viento de Junkers de agosto de 1944.
-- **Fuentes secundarias de contraste:** <em>Aviation History</em> vía HistoryNet, con el relato detallado de la campaña de ensayos; monografía documental de Jet and Rocket Aircraft of Nazi Germany, basada en la documentación oficial de Junkers y del Ministerio del Aire; Warbirds Resource Group; Aviastar; Wikipedia en inglés y en español; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** <em>Aviation History</em> vía HistoryNet, con el relato detallado de la campaña de ensayos; monografía documental de Jet and Rocket Aircraft of Nazi Germany, basada en la documentación oficial de Junkers y del Ministerio del Aire; Warbirds Resource Group; Aviastar; Wikipedia en inglés y en español.
 - **Discrepancias resueltas:** se adoptó el 8 de agosto de 1944 como fecha del primer vuelo, conforme a la documentación de la firma, frente al 16, el 18 y el 22 de agosto que consignan otras fuentes; se registró la divergencia sobre el número de vuelos, la procedencia del empenaje y del fuselaje, y el modelo y número de cohetes de despegue; se distinguió la velocidad realmente medida en el V1 de las estimaciones del fabricante para los prototipos de serie; se consignó la doble versión sobre la destrucción del prototipo.
 - **Datos no confirmados:** la duración del primer vuelo y la fecha exacta del picado en que se alcanzaron los 660 kilómetros por hora.
 - **Nivel de confianza:** Alto

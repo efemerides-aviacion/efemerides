@@ -160,15 +160,15 @@ El raid Roma-Tokyo es recordado como una de las grandes epopeyas aéreas del sig
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Rome–Tokyo_Raid">Wikipedia – Rome–Tokyo Raid</a></li>
-    <li><a href="https://www.panorama.it/lifestyle/il-raid-aereo-roma-tokyo-dei-samurai-italiani-foto-e-video">Panorama – Il Raid aereo Roma-Tokyo dei "samurai" italiani</a></li>
-    <li><a href="https://www.lastampa.it/esteri/2020/02/19/news/roma-tokyo_100_anni_fa_la_prima_trasvolata_italiana_un_impresa_eroica_ma_gia_dimenticata-427160/">La Stampa – Roma-Tokyo, 100 anni fa la prima trasvolata italiana</a></li>
-    <li><a href="https://www.scmp.com/magazines/post-magazine/travel/article/3051326/when-11-pilots-set-out-fly-rome-tokyo-century-ago">South China Morning Post – When 11 pilots set out to fly Rome-Tokyo</a></li>
-    <li><a href="https://it.wikipedia.org/wiki/Roberto_Maretto">Wikipedia – Roberto Maretto (italiano)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Rome–Tokyo_Raid" style="color: #315fea; text-decoration: none;">Wikipedia – Rome–Tokyo Raid</a></li>
+    <li><a href="https://www.panorama.it/lifestyle/il-raid-aereo-roma-tokyo-dei-samurai-italiani-foto-e-video" style="color: #315fea; text-decoration: none;">Panorama – Il Raid aereo Roma-Tokyo dei "samurai" italiani</a></li>
+    <li><a href="https://www.lastampa.it/esteri/2020/02/19/news/roma-tokyo_100_anni_fa_la_prima_trasvolata_italiana_un_impresa_eroica_ma_gia_dimenticata-427160/" style="color: #315fea; text-decoration: none;">La Stampa – Roma-Tokyo, 100 anni fa la prima trasvolata italiana</a></li>
+    <li><a href="https://www.scmp.com/magazines/post-magazine/travel/article/3051326/when-11-pilots-set-out-fly-rome-tokyo-century-ago" style="color: #315fea; text-decoration: none;">South China Morning Post – When 11 pilots set out to fly Rome-Tokyo</a></li>
+    <li><a href="https://it.wikipedia.org/wiki/Roberto_Maretto" style="color: #315fea; text-decoration: none;">Wikipedia – Roberto Maretto (italiano)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -182,7 +182,7 @@ El raid Roma-Tokyo es recordado como una de las grandes epopeyas aéreas del sig
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-28 15:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Panorama, La Stampa, South China Morning Post, Wikipedia italiano (Roberto Maretto)
 - **Discrepancias resueltas:** Confirmación de la fecha de llegada (31 de mayo de 1920) como fecha oficial de finalización del raid. Aclaración de la diferencia entre Ferrarin (vuelo completo) y Masiero (vuelo parcial). Verificación de las horas de vuelo (112 horas como cifra más aceptada). Incorporación de datos biográficos de Roberto Maretto.
 - **Nivel de confianza:** Alto

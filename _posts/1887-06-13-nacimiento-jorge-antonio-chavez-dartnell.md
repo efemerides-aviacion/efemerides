@@ -99,16 +99,16 @@ Su Blériot XI original —el «Gypaète»— sufrió graves daños en el accide
 
 <div class="references">
   <ul>
-    <li><a href="https://id.loc.gov/authorities/names/n97008394.html">Library of Congress – Chávez, Jorge, 1887-1910</a></li>
-    <li><a href="https://francearchives.gouv.fr/fr/agent/664302393">FranceArchives – Chavez Dartnell, Jorge (1887-1910)</a></li>
-    <li><a href="https://www2.congreso.gob.pe/sicr/tradocestproc/clproley2001.nsf/pley/86FAED5DEBEA68BA05256D25005CF93A">Congreso Peruano – Reseña biográfica de Jorge Chávez</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Jorge_Ch%C3%A1vez">Wikipedia – Jorge Chávez</a></li>
-    <li><a href="https://www.ecured.cu/Jorge_Ch%C3%A1vez">EcuRed – Jorge Chávez</a></li>
-    <li><a href="https://en.m.wikipedia.org/wiki/Jorge_Ch%C3%A1vez_Dartnell">Wikipedia (EN) – Jorge Chávez Dartnell</a></li>
+    <li><a href="https://id.loc.gov/authorities/names/n97008394.html" style="color: #315fea; text-decoration: none;">Library of Congress – Chávez, Jorge, 1887-1910</a></li>
+    <li><a href="https://francearchives.gouv.fr/fr/agent/664302393" style="color: #315fea; text-decoration: none;">FranceArchives – Chavez Dartnell, Jorge (1887-1910)</a></li>
+    <li><a href="https://www2.congreso.gob.pe/sicr/tradocestproc/clproley2001.nsf/pley/86FAED5DEBEA68BA05256D25005CF93A" style="color: #315fea; text-decoration: none;">Congreso Peruano – Reseña biográfica de Jorge Chávez</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Jorge_Ch%C3%A1vez" style="color: #315fea; text-decoration: none;">Wikipedia – Jorge Chávez</a></li>
+    <li><a href="https://www.ecured.cu/Jorge_Ch%C3%A1vez" style="color: #315fea; text-decoration: none;">EcuRed – Jorge Chávez</a></li>
+    <li><a href="https://en.m.wikipedia.org/wiki/Jorge_Ch%C3%A1vez_Dartnell" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Jorge Chávez Dartnell</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una discrepancia documentada sobre la fecha de nacimiento de Jorge Chávez Dartnell. Algunas fuentes no oficiales citan el 13 de enero de 1887, pero los registros de alta autoridad —Library of Congress, FranceArchives, Congreso Peruano y la mayoría de las fuentes oficiales peruanas— confirman el <strong>13 de junio de 1887</strong> como fecha correcta. La altitud alcanzada durante el cruce alpino se registra en fuentes como «más de 2.650 metros» (8.694 pies), aunque el borrador de la investigación preliminar mencionaba 6.600 pies; se ha adoptado la cifra más respaldada por las fuentes primarias. El premio del Aero Club de Italia fue de 20.000 dólares de la época, y el avión fue bautizado como «Gypaète» (Quebrantahuesos).</p>
@@ -118,7 +118,7 @@ Su Blériot XI original —el «Gypaète»— sufrió graves daños en el accide
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-09 10:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Library of Congress, FranceArchives, Congreso Peruano, Wikipedia (ES/EN), EcuRed
 - **Discrepancias resueltas:** Se ha confirmado la fecha de nacimiento del 13 de junio de 1887 frente a la errónea fecha del 13 de enero citada en fuentes no oficiales. La altitud del cruce alpino se ha ajustado a 2.650 metros. Se ha añadido el dato del nacimiento en el XVII Distrito de París y el nombre del avión («Gypaète»).
 - **Nivel de confianza:** Alto

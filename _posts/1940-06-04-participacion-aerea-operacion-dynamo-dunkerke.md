@@ -124,16 +124,16 @@ El 4 de junio de 1940 no es solo la fecha en que terminó la evacuación de Dunk
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Dunkirk_evacuation">Wikipedia – Dunkirk evacuation</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Operaci%C3%B3n_Dinamo">Wikipedia (ES) – Operación Dinamo</a></li>
-    <li><a href="https://www.iwm.org.uk/history/what-you-need-to-know-about-the-dunkirk-evacuations">Imperial War Museum – What you need to know about the Dunkirk evacuations</a></li>
-    <li><a href="https://www.britannica.com/event/Dunkirk-evacuation">Encyclopaedia Britannica – Dunkirk evacuation</a></li>
-    <li><a href="https://www.infobae.com/historias/2025/06/04/dunkerque-la-retirada-que-salvo-a-338000-soldados-y-se-transformo-en-un-hito-de-resistencia-en-la-segunda-guerra-mundial/">Infobae – Dunkerque, la retirada que salvó a 338.000 soldados</a></li>
-    <li><a href="https://www.worldhistory.org/trans/es/1-22790/evacuacion-de-dunkerque/">World History Encyclopedia – Evacuación de Dunkerque</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Dunkirk_evacuation" style="color: #315fea; text-decoration: none;">Wikipedia – Dunkirk evacuation</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Operaci%C3%B3n_Dinamo" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Operación Dinamo</a></li>
+    <li><a href="https://www.iwm.org.uk/history/what-you-need-to-know-about-the-dunkirk-evacuations" style="color: #315fea; text-decoration: none;">Imperial War Museum – What you need to know about the Dunkirk evacuations</a></li>
+    <li><a href="https://www.britannica.com/event/Dunkirk-evacuation" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica – Dunkirk evacuation</a></li>
+    <li><a href="https://www.infobae.com/historias/2025/06/04/dunkerque-la-retirada-que-salvo-a-338000-soldados-y-se-transformo-en-un-hito-de-resistencia-en-la-segunda-guerra-mundial/" style="color: #315fea; text-decoration: none;">Infobae – Dunkerque, la retirada que salvó a 338.000 soldados</a></li>
+    <li><a href="https://www.worldhistory.org/trans/es/1-22790/evacuacion-de-dunkerque/" style="color: #315fea; text-decoration: none;">World History Encyclopedia – Evacuación de Dunkerque</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -147,7 +147,7 @@ El 4 de junio de 1940 no es solo la fecha en que terminó la evacuación de Dunk
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-01 16:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Imperial War Museum, Encyclopaedia Britannica, Infobae, World History Encyclopedia
 - **Discrepancias resueltas:** Confirmación de la fecha de finalización (4 de junio de 1940). Verificación del número total de evacuados (338.226). Aclaración de las pérdidas de la RAF y la Luftwaffe.
 - **Nivel de confianza:** Alto

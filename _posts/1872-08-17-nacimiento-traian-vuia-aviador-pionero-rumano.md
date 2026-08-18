@@ -92,9 +92,9 @@ Ciento cincuenta y cuatro años después de su nacimiento, Traian Vuia da nombre
 
 <div class="references">
   <ul>
-    <li><a href="https://agerpres.ro/documentare/2022-08-10/documentar-150-de-ani-de-la-nasterea-pionierului-aviatiei-romanesti-si-mondiale-traian-vuia-17-augus--964531">AGERPRES - Documentar: 150 de ani de la nașterea pionierului aviației românești și mondiale, Traian Vuia</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Traian_Vuia">Wikipedia (inglés) - Traian Vuia</a></li>
-    <li><a href="https://earlyaviators.com/evuia1.htm">Early Aviators - Traian Vuia</a></li>
+    <li><a href="https://agerpres.ro/documentare/2022-08-10/documentar-150-de-ani-de-la-nasterea-pionierului-aviatiei-romanesti-si-mondiale-traian-vuia-17-augus--964531" style="color: #315fea; text-decoration: none;">AGERPRES - Documentar: 150 de ani de la nașterea pionierului aviației românești și mondiale, Traian Vuia</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Traian_Vuia" style="color: #315fea; text-decoration: none;">Wikipedia (inglés) - Traian Vuia</a></li>
+    <li><a href="https://earlyaviators.com/evuia1.htm" style="color: #315fea; text-decoration: none;">Early Aviators - Traian Vuia</a></li>
   </ul>
 </div>
 
@@ -102,9 +102,9 @@ Ciento cincuenta y cuatro años después de su nacimiento, Traian Vuia da nombre
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-12 14:20:00 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** AGERPRES (Agencia Nacional de Prensa de Rumanía, documentar del 10 de agosto de 2022)
-- **Fuentes secundarias de contraste:** Wikipedia (inglés), Early Aviators, borrador preliminar del investigador
+- **Fuentes secundarias de contraste:** Wikipedia (inglés), Early Aviators
 - **Discrepancias resueltas:** la fecha de nacimiento figura como 17 de agosto (Gregoriano, fuentes rumanas y Wikipedia) y 29 de agosto en Early Aviators, diferencia equivalente al desfase juliano-gregoriano; se adopta el 17 de agosto, fecha de la efeméride y de las fuentes institucionales rumanas. La elección como miembro de honor de la Academia Rumana figura como 27 de mayo de 1946 en AGERPRES y Wikipedia y como 1922 en Early Aviators; se adopta 1946. La patente francesa n.º 332.106 se solicita el 15 de mayo de 1903 y consta obtenida al 17 de agosto de 1903; se redactan ambas fechas. El primer salto se cita como 11 o 12 m; se redacta «unos 12 m».
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

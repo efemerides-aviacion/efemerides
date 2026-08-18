@@ -51,14 +51,14 @@ Hoy en día, el Archipiélago Los Monjes cuenta con presencia permanente de la A
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.mppre.gob.ve/vencancilleria/historia/">Cancillería de la República Bolivariana de Venezuela – Hitos de la Diplomacia</a></li>
-    <li><a href="https://www.armada.mil.ve/historia/los-monjes/">Armada Nacional Bolivariana – Estación Secundaria de Guardacostas "Los Monjes"</a></li>
-    <li><a href="https://diariocontexto.com.ve/el-dia-que-colombia-reconocio-soberania-sobre-los-monjes/">Diario Contexto – Crónica histórica del 29 de noviembre de 1952</a></li>
+    <li><a href="https://www.mppre.gob.ve/vencancilleria/historia/" style="color: #315fea; text-decoration: none;">Cancillería de la República Bolivariana de Venezuela – Hitos de la Diplomacia</a></li>
+    <li><a href="https://www.armada.mil.ve/historia/los-monjes/" style="color: #315fea; text-decoration: none;">Armada Nacional Bolivariana – Estación Secundaria de Guardacostas "Los Monjes"</a></li>
+    <li><a href="https://diariocontexto.com.ve/el-dia-que-colombia-reconocio-soberania-sobre-los-monjes/" style="color: #315fea; text-decoration: none;">Diario Contexto – Crónica histórica del 29 de noviembre de 1952</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-08 13:35:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Archivos históricos de la Cancillería Venezolana y registros de la FAV.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “La información sobre aeronaves específicas de patrullaje en 1952 se mantiene generalizada debido a la clasificación de registros de la época”.

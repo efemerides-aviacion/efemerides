@@ -172,12 +172,12 @@ Hoy, el legado del Hindenburg perdura como un recordatorio de los riesgos inhere
 
 <div class="references">
   <ul>
-    <li><a href="https://www.worldhistory.org/article/2755/the-hindenburg-disaster/">World History Encyclopedia - The Hindenburg Disaster</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Hindenburg_disaster">Wikipedia - Hindenburg disaster</a></li>
-    <li><a href="https://www.britannica.com/video/Overview-Hindenburg/-193391">Britannica - Hindenburg Disaster video</a></li>
-    <li><a href="https://www.archives.gov/exhibits/eyewitness/html.php/assets/html/assets/html/assets/html/html.php?section=5">National Archives - Herb Morrison Hindenburg Disaster</a></li>
-    <li><a href="https://archive.spectator.co.uk/article/14th-may-1937/2/the-hindenburg-the-destruction-by-fire-of-the">The Spectator Archive - The Hindenburg destruction (14 May 1937)</a></li>
-    <li><a href="https://www.worldhistory.org/trans/pt/2-2755/desatre-do-hindenburg/">World History Encyclopedia - Desastre do Hindenburg (Português)</a></li>
+    <li><a href="https://www.worldhistory.org/article/2755/the-hindenburg-disaster/" style="color: #315fea; text-decoration: none;">World History Encyclopedia - The Hindenburg Disaster</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Hindenburg_disaster" style="color: #315fea; text-decoration: none;">Wikipedia - Hindenburg disaster</a></li>
+    <li><a href="https://www.britannica.com/video/Overview-Hindenburg/-193391" style="color: #315fea; text-decoration: none;">Britannica - Hindenburg Disaster video</a></li>
+    <li><a href="https://www.archives.gov/exhibits/eyewitness/html.php/assets/html/assets/html/assets/html/html.php?section=5" style="color: #315fea; text-decoration: none;">National Archives - Herb Morrison Hindenburg Disaster</a></li>
+    <li><a href="https://archive.spectator.co.uk/article/14th-may-1937/2/the-hindenburg-the-destruction-by-fire-of-the" style="color: #315fea; text-decoration: none;">The Spectator Archive - The Hindenburg destruction (14 May 1937)</a></li>
+    <li><a href="https://www.worldhistory.org/trans/pt/2-2755/desatre-do-hindenburg/" style="color: #315fea; text-decoration: none;">World History Encyclopedia - Desastre do Hindenburg (Português)</a></li>
   </ul>
 </div>
 
@@ -185,7 +185,7 @@ Hoy, el legado del Hindenburg perdura como un recordatorio de los riesgos inhere
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-05 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** World History Encyclopedia, Wikipedia, Britannica, National Archives, The Spectator
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha (6 de mayo de 1937), lugar (Lakehurst), número de víctimas fatales (36) y duración del incendio (32 segundos). La transmisión de Herb Morrison fue grabada, no transmitida en vivo.
 - **Nivel de confianza:** Alto

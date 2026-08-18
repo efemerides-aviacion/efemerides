@@ -120,15 +120,15 @@ El 5 de junio de 1909 quedó grabado en la historia de la aviación como el día
 
 <div class="references">
   <ul>
-    <li><a href="https://paperspast.natlib.govt.nz/newspapers/AS19090729.2.39">Auckland Star – 72 Minutes with a Passenger (29 July 1909)</a></li>
-    <li><a href="https://invention.psychology.msstate.edu/library/Magazines/FrenchPerform.html">Scientific American – Recent French Aeroplanes and their Performances (26 June 1909)</a></li>
-    <li><a href="https://www.mediastorehouse.com.au/fine-art-storehouse/photo-libraries/heritage-images/endurance-record-11790354.html">Media Storehouse – Endurance Record (Hubert Latham)</a></li>
-    <li><a href="https://www.theengineer.co.uk/content/in-depth/this-week-in-1909-lathams-cross-channel-flight-attempt">The Engineer – Latham's cross channel flight attempt (2013)</a></li>
-    <li><a href="https://www.universalis.fr/encyclopedie/hubert-latham/">Encyclopédie Universalis – Hubert Latham</a></li>
+    <li><a href="https://paperspast.natlib.govt.nz/newspapers/AS19090729.2.39" style="color: #315fea; text-decoration: none;">Auckland Star – 72 Minutes with a Passenger (29 July 1909)</a></li>
+    <li><a href="https://invention.psychology.msstate.edu/library/Magazines/FrenchPerform.html" style="color: #315fea; text-decoration: none;">Scientific American – Recent French Aeroplanes and their Performances (26 June 1909)</a></li>
+    <li><a href="https://www.mediastorehouse.com.au/fine-art-storehouse/photo-libraries/heritage-images/endurance-record-11790354.html" style="color: #315fea; text-decoration: none;">Media Storehouse – Endurance Record (Hubert Latham)</a></li>
+    <li><a href="https://www.theengineer.co.uk/content/in-depth/this-week-in-1909-lathams-cross-channel-flight-attempt" style="color: #315fea; text-decoration: none;">The Engineer – Latham's cross channel flight attempt (2013)</a></li>
+    <li><a href="https://www.universalis.fr/encyclopedie/hubert-latham/" style="color: #315fea; text-decoration: none;">Encyclopédie Universalis – Hubert Latham</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -143,7 +143,7 @@ El 5 de junio de 1909 quedó grabado en la historia de la aviación como el día
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-02 12:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Auckland Star (1909), Scientific American (1909), Media Storehouse, The Engineer, Encyclopédie Universalis
 - **Discrepancias resueltas:** Confirmación de la fecha exacta (5 de junio de 1909) frente a la mención errónea del 8 de junio en algunas fuentes. Verificación de la duración exacta (1h 7m 37s). Aclaración del contexto técnico entre monoplanos y biplanos.
 - **Nivel de confianza:** Alto

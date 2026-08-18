@@ -128,9 +128,9 @@ La familia iniciada con <a href="https://efemerides-aviacion.github.io/efemeride
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-02 09:27:27 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force, ficha del Lockheed YF-12A y del vuelo de récord de 1965; NASA, documentación gráfica del programa de investigación de crucero supersónico.
-- **Fuentes secundarias de contraste:** This Day in Aviation, con los datos del primer vuelo, los ensayos de armamento y el destino de los tres ejemplares; Wikipedia en inglés y en español, con referencia a las obras de Pace, Landis y Jenkins; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** This Day in Aviation, con los datos del primer vuelo, los ensayos de armamento y el destino de los tres ejemplares; Wikipedia en inglés y en español, con referencia a las obras de Pace, Landis y Jenkins.
 - **Discrepancias resueltas:** se adoptó la forma «Daniel Andre» para el oficial de control de tiro del vuelo de récord, conforme a la ficha oficial del museo, frente a la variante «David Andre» de otras fuentes; se corrigió la conversión de la marca de altitud, 24.463 metros y no los 22.677 que figuran en algunas recopilaciones; se precisó que la designación «A-11» del anuncio presidencial no correspondía al aparato exhibido; se aclaró que el «YF-12C» era en realidad un SR-71A con número de serie ficticio.
 - **Datos no confirmados:** la duración del primer vuelo del 7 de agosto de 1963 y la velocidad alcanzada en él.
 - **Nivel de confianza:** Alto

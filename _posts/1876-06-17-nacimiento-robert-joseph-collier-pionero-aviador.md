@@ -142,14 +142,14 @@ El Trofeo Collier es el eslabón que conecta los primeros años de la aviación 
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Robert_J._Collier">Wikipedia – Robert J. Collier</a></li>
-    <li><a href="https://timenote.info/en/Robert-Joseph-Collier">TimeNote – Robert Joseph Collier</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Collier_Trophy">Wikipedia – Collier Trophy</a></li>
-    <li><a href="https://www.si.edu/object/robert-j-collier-trophy:nasm_A19520061000">Smithsonian Institution – Robert J. Collier Trophy</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Robert_J._Collier" style="color: #315fea; text-decoration: none;">Wikipedia – Robert J. Collier</a></li>
+    <li><a href="https://timenote.info/en/Robert-Joseph-Collier" style="color: #315fea; text-decoration: none;">TimeNote – Robert Joseph Collier</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Collier_Trophy" style="color: #315fea; text-decoration: none;">Wikipedia – Collier Trophy</a></li>
+    <li><a href="https://www.si.edu/object/robert-j-collier-trophy:nasm_A19520061000" style="color: #315fea; text-decoration: none;">Smithsonian Institution – Robert J. Collier Trophy</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La fecha de muerte de Collier es el 8 de noviembre de 1918 según el New York Times y la mayoría de las fuentes, aunque algunas indican el 9 de noviembre. Falleció de un ataque cardíaco horas después de regresar de Francia, donde había estado cubriendo la Primera Guerra Mundial. El Trofeo Collier fue originalmente denominado «Aero Club of America Trophy» y rebautizado en su honor años después de su muerte. La administración del trofeo pasó a la National Aeronautic Association (NAA) en 1922, y el nombre «Robert J. Collier Trophy» se oficializó en 1944. La definición oficial del trofeo es «el mayor logro en aeronáutica o astronáutica en Estados Unidos».</p>
@@ -159,7 +159,7 @@ El Trofeo Collier es el eslabón que conecta los primeros años de la aviación 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-13 12:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, TimeNote, Smithsonian Institution
 - **Discrepancias resueltas:** La fecha exacta de fallecimiento varía entre el 8 y el 9 de noviembre de 1918; se ha optado por incluir ambas posibilidades. La cifra del peso del trofeo varía entre 225 y 238 kg; se ha optado por 238 kg según la fuente del Smithsonian. Se ha corregido la definición del trofeo para incluir explícitamente «astronáutica» y «naves espaciales».
 - **Nivel de confianza:** Alto

@@ -38,7 +38,7 @@ image: 1916-05-20-nacimiento-aleksei-petrovich-maresiev.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Contexto histórico
+## Contexto Histórico
 
 Alekséi Marésiev creció en una Rusia que atravesaba profundas transformaciones: la Revolución de Octubre de 1917, la guerra civil y la creación de la Unión Soviética. Su juventud coincidió con la industrialización acelerada impulsada por Stalin y con el auge de la aviación como símbolo del poderío soviético. Como muchos jóvenes de su generación, Marésiev soñaba con volar, pero su salud frágil (sufría de malaria y dolores reumáticos) inicialmente lo excluyó de la escuela de vuelo. No fue hasta 1937 que logró alistarse en el ejército, trabajando primero como mecánico y luego como instructor antes de graduarse finalmente como piloto en 1940.
 
@@ -121,7 +121,7 @@ Marésiev fue también un activo defensor de los derechos de los veteranos y una
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN, ES), EcuRed, Russia Beyond, UPI Archives
 - **Discrepancias resueltas:** Coincidencia unánime en la fecha de nacimiento (20 de mayo de 1916) y en el hecho de la amputación y regreso al combate. Las cifras de derribos varían ligeramente: UPI menciona 11 en total, fuentes rusas también 11 (4+7). Se ha optado por la cifra más documentada de 11 victorias totales. La fecha de fallecimiento en algunas fuentes se consigna como 18 o 19 de mayo; la mayoría de las fuentes coinciden en el 18 de mayo. Se ha adoptado el 18 de mayo.
 - **Nivel de confianza:** Alto

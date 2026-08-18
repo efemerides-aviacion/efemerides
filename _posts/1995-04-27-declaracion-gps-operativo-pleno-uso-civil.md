@@ -144,13 +144,13 @@ Con más de 30 satélites operativos en la actualidad (incluyendo los modernos G
 
 <div class="references">
   <ul>
-    <li><a href="https://www.gpsworld.com/gps-celebrates-25-years-of-operation/">GPS World - GPS celebrates 25 years of operation (2020)</a></li>
-    <li><a href="https://www.navcen.uscg.gov/sites/default/files/pdf/gps/geninfo/FOC-1995.rtf">USCG Navigation Center - GPS FOC Statement of 1995</a></li>
-    <li><a href="https://rin.org.uk/news/504584">Royal Institute of Navigation - GPS celebrates 25 years of operation</a></li>
-    <li><a href="https://www.cnmoc.usff.navy.mil/Our-Commands/United-States-Naval-Observatory/Precise-Time-Department/Global-Positioning-System/Global-Positioning-System-Overview/">US Navy - Global Positioning System Overview</a></li>
-    <li><a href="https://www.dvidshub.net/news/170103/global-positioning-system-generation-service-world">DVIDS - Global Positioning System: A generation of service to the world</a></li>
-    <li><a href="https://www.gpsworld.com/the-system-celebrating-20-years-of-gps/">GPS World - The System: Celebrating 20 Years of GPS</a></li>
-    <li><a href="https://www.milsatmagazine.com/story.php?number=45689973">MilsatMagazine - A Generation Of Service To The world... GPS</a></li>
+    <li><a href="https://www.gpsworld.com/gps-celebrates-25-years-of-operation/" style="color: #315fea; text-decoration: none;">GPS World - GPS celebrates 25 years of operation (2020)</a></li>
+    <li><a href="https://www.navcen.uscg.gov/sites/default/files/pdf/gps/geninfo/FOC-1995.rtf" style="color: #315fea; text-decoration: none;">USCG Navigation Center - GPS FOC Statement of 1995</a></li>
+    <li><a href="https://rin.org.uk/news/504584" style="color: #315fea; text-decoration: none;">Royal Institute of Navigation - GPS celebrates 25 years of operation</a></li>
+    <li><a href="https://www.cnmoc.usff.navy.mil/Our-Commands/United-States-Naval-Observatory/Precise-Time-Department/Global-Positioning-System/Global-Positioning-System-Overview/" style="color: #315fea; text-decoration: none;">US Navy - Global Positioning System Overview</a></li>
+    <li><a href="https://www.dvidshub.net/news/170103/global-positioning-system-generation-service-world" style="color: #315fea; text-decoration: none;">DVIDS - Global Positioning System: A generation of service to the world</a></li>
+    <li><a href="https://www.gpsworld.com/the-system-celebrating-20-years-of-gps/" style="color: #315fea; text-decoration: none;">GPS World - The System: Celebrating 20 Years of GPS</a></li>
+    <li><a href="https://www.milsatmagazine.com/story.php?number=45689973" style="color: #315fea; text-decoration: none;">MilsatMagazine - A Generation Of Service To The world... GPS</a></li>
   </ul>
 </div>
 
@@ -158,7 +158,7 @@ Con más de 30 satélites operativos en la actualidad (incluyendo los modernos G
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-27 08:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** GPS World, USCG Navigation Center, Royal Institute of Navigation, US Navy (.mil), DVIDS (.mil)
 - **Discrepancias resueltas:** Las fuentes coinciden en que la declaración técnica de FOC ocurrió el 27 de abril de 1995, con el anuncio público formal el 17 de julio de 1995. La capacidad operativa inicial (IOC) fue declarada el 8 de diciembre de 1993. El General Thomas S. Moorman Jr. fue quien declaró el hito en 1995.
 - **Nivel de confianza:** Alto

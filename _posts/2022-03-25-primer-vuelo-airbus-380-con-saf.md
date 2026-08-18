@@ -69,19 +69,19 @@ El vuelo del A380 con 100% SAF se inscribe en una serie de hitos que están tran
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.airbus.com/en/newsroom/press-releases/2022-03-first-a380-powered-by-100-sustainable-aviation-fuel-takes-to-the">Airbus – First A380 powered by 100% Sustainable Aviation Fuel takes to the skies</a></li>
-    <li><a href="https://www.aviacionline.com/el-airbus-a380-realizo-su-primer-vuelo-con-100-de-combustible-sostenible">AviaciónLine – El Airbus A380 realizó su primer vuelo con 100% de combustible sostenible</a></li>
-    <li><a href="https://www.velatia.com/es/blog/historico-despegue-de-un-airbus-380-con-combustible-saf-100-sostenible/">Velatia (ES) – Histórico despegue de un Airbus A380 con combustible SAF 100% sostenible</a></li>
-    <li><a href="https://www.neste.com/news/neste-enables-emirates-to-operate-world-s-first-airbus-a380-demonstration-flight-with-one-engine-powered-with-100-saf/">Neste – Neste enables Emirates to operate world’s first Airbus A380 demonstration flight with one engine powered with 100% SAF</a></li>
-    <li><a href="https://www.airnavradar.com/blog/first-airbus-a380-powered-by-100-sustainable-aviation-fuel-takes-off">AirNavRadar – First Airbus A380 powered by 100% Sustainable Aviation Fuel takes off</a></li>
-    <li><a href="https://www.thisisaerospace.com/articles/airbus-a380-100-saf-test/">ThisIsAerospace – Airbus A380 100% SAF test overview</a></li>
-    <li><a href="https://skiesmag.com/airbus-a380-100-saf-test-flight/">Skies Mag – First A380 powered by 100% SAF takes to the skies</a></li>
+    <li><a href="https://www.airbus.com/en/newsroom/press-releases/2022-03-first-a380-powered-by-100-sustainable-aviation-fuel-takes-to-the" style="color: #315fea; text-decoration: none;">Airbus – First A380 powered by 100% Sustainable Aviation Fuel takes to the skies</a></li>
+    <li><a href="https://www.aviacionline.com/el-airbus-a380-realizo-su-primer-vuelo-con-100-de-combustible-sostenible" style="color: #315fea; text-decoration: none;">AviaciónLine – El Airbus A380 realizó su primer vuelo con 100% de combustible sostenible</a></li>
+    <li><a href="https://www.velatia.com/es/blog/historico-despegue-de-un-airbus-380-con-combustible-saf-100-sostenible/" style="color: #315fea; text-decoration: none;">Velatia (ES) – Histórico despegue de un Airbus A380 con combustible SAF 100% sostenible</a></li>
+    <li><a href="https://www.neste.com/news/neste-enables-emirates-to-operate-world-s-first-airbus-a380-demonstration-flight-with-one-engine-powered-with-100-saf/" style="color: #315fea; text-decoration: none;">Neste – Neste enables Emirates to operate world’s first Airbus A380 demonstration flight with one engine powered with 100% SAF</a></li>
+    <li><a href="https://www.airnavradar.com/blog/first-airbus-a380-powered-by-100-sustainable-aviation-fuel-takes-off" style="color: #315fea; text-decoration: none;">AirNavRadar – First Airbus A380 powered by 100% Sustainable Aviation Fuel takes off</a></li>
+    <li><a href="https://www.thisisaerospace.com/articles/airbus-a380-100-saf-test/" style="color: #315fea; text-decoration: none;">ThisIsAerospace – Airbus A380 100% SAF test overview</a></li>
+    <li><a href="https://skiesmag.com/airbus-a380-100-saf-test-flight/" style="color: #315fea; text-decoration: none;">Skies Mag – First A380 powered by 100% SAF takes to the skies</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-23 17:30:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Airbus, AviaciónLine, Velatia, Neste, ThisIsAerospace, Skies Mag, AirNavRadar  
 - **Discrepancias resueltas:** No se identificaron discrepancias; todas las fuentes coinciden en la fecha (25 de marzo de 2022), el avión (MSN1) y las características del vuelo.  
 - **Nivel de confianza:** Alto  

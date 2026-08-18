@@ -32,7 +32,7 @@ image: 1935-02-26-fundación-de-la-luffwaffe.jpg
 - **Disolución:** 1946, tras la derrota de la Alemania nazi  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Contexto histórico
+## Contexto Histórico
 La fundación de la Luftwaffe en 1935 representó un paso decisivo en el rearme alemán y en la preparación para la guerra. Fue un acto de desafío abierto al orden internacional establecido tras la Primera Guerra Mundial y marcó el inicio de una nueva era en la aviación militar europea.
 
 ### Entorno social
@@ -80,8 +80,8 @@ Recordada como una de las fuerzas aéreas más poderosas de su tiempo, su legado
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia ES/EN, History.com, USHMM, IWM  
 - **Discrepancias resueltas:** Confirmación de fecha exacta del decreto (26 feb 1935) y publicación oficial en marzo 1935.  
 - **Nivel de confianza:** Alto  

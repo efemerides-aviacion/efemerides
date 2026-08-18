@@ -143,10 +143,10 @@ La Escuela de Radiotelegrafía Militar evolucionó hasta convertirse en la actua
 
 <div class="references">
   <ul>
-    <li><a href="https://favclubven.wordpress.com/2024/07/04/la-primera-comunicacion-aire-tierra-y-la-escuela-de-radiotelegrafia-militar/">Fav Club Venezuela - La primera comunicación aire-tierra y la Escuela de Radiotelegrafía Militar</a></li>
-    <li><a href="http://www.elmirador.edu.co:8081/wikipedia_es_all_maxi_2023-05/A/Guillermo_Pacanins_Acevedo">Institución Educativa El Mirador - Guillermo Pacanins Acevedo</a></li>
-    <li><a href="https://venezuelaenretrospectiva.wordpress.com/2017/10/05/guillermo-pacanins-acevedo/">Venezuela en Retrospectiva - Guillermo Pacanins Acevedo</a></li>
-    <li><a href="https://saber.ucv.ve/bitstream/10872/5163/1/Tesis%20H2012P4.pdf">Saber UCV - Tesis sobre historia de la aviación / Escuela de Radiotelegrafía</a></li>
+    <li><a href="https://favclubven.wordpress.com/2024/07/04/la-primera-comunicacion-aire-tierra-y-la-escuela-de-radiotelegrafia-militar/" style="color: #315fea; text-decoration: none;">Fav Club Venezuela - La primera comunicación aire-tierra y la Escuela de Radiotelegrafía Militar</a></li>
+    <li><a href="http://www.elmirador.edu.co:8081/wikipedia_es_all_maxi_2023-05/A/Guillermo_Pacanins_Acevedo" style="color: #315fea; text-decoration: none;">Institución Educativa El Mirador - Guillermo Pacanins Acevedo</a></li>
+    <li><a href="https://venezuelaenretrospectiva.wordpress.com/2017/10/05/guillermo-pacanins-acevedo/" style="color: #315fea; text-decoration: none;">Venezuela en Retrospectiva - Guillermo Pacanins Acevedo</a></li>
+    <li><a href="https://saber.ucv.ve/bitstream/10872/5163/1/Tesis%20H2012P4.pdf" style="color: #315fea; text-decoration: none;">Saber UCV - Tesis sobre historia de la aviación / Escuela de Radiotelegrafía</a></li>
   </ul>
 </div>
 
@@ -154,7 +154,7 @@ La Escuela de Radiotelegrafía Militar evolucionó hasta convertirse en la actua
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-10 12:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Documento fuente suministrado por Enrique Pomares, Fav Club Venezuela, Wikipedia (Enciclopedia El Mirador), Saber UCV
 - **Discrepancias resueltas:** La información proporcionada en el documento adjunto es consistente con las fuentes complementarias. Los detalles biográficos de Guillermo Pacanins fueron ampliados con fuentes externas. La fecha de la primera comunicación (12 de mayo de 1930) es consistente en todas las fuentes.
 - **Nivel de confianza:** Alto

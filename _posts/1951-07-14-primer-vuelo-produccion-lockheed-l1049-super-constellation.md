@@ -97,16 +97,16 @@ Por ello, el primer vuelo de N6201C el 14 de julio de 1951 no solo fue un ensayo
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.airhistory.net/photo/775298">AirHistory.net – Aircraft Photo of N6201C | Lockheed L-1049 Super Constellation</a></li>
-    <li><a href="https://airandspace.si.edu/collection-objects/lockheed-1049f-55-96-constellation/nasm_A19880371000">Smithsonian National Air and Space Museum – Lockheed 1049F-55-96, "Constellation"</a></li>
-    <li><a href="http://www.conniesurvivors.com/L1049.htm">Lockheed Constellation Survivors – L1049 Super Constellation</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/n6201c/">This Day in Aviation – N6201C</a></li>
-    <li><a href="https://www.lockheedmartin.com/en-us/news/features/history/constellation.html">Lockheed Martin – How the Constellation Became the Star of the Skies</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Lockheed_L-1049_Super_Constellation">Wikipedia (EN) – Lockheed L-1049 Super Constellation</a></li>
+    <li><a href="https://www.airhistory.net/photo/775298" style="color: #315fea; text-decoration: none;">AirHistory.net – Aircraft Photo of N6201C | Lockheed L-1049 Super Constellation</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/lockheed-1049f-55-96-constellation/nasm_A19880371000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Lockheed 1049F-55-96, "Constellation"</a></li>
+    <li><a href="http://www.conniesurvivors.com/L1049.htm" style="color: #315fea; text-decoration: none;">Lockheed Constellation Survivors – L1049 Super Constellation</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/n6201c/" style="color: #315fea; text-decoration: none;">This Day in Aviation – N6201C</a></li>
+    <li><a href="https://www.lockheedmartin.com/en-us/news/features/history/constellation.html" style="color: #315fea; text-decoration: none;">Lockheed Martin – How the Constellation Became the Star of the Skies</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lockheed_L-1049_Super_Constellation" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Lockheed L-1049 Super Constellation</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes distinguen entre el primer vuelo del primer ejemplar de producción, N6201C, y la posterior entrada en servicio comercial del tipo con Eastern Air Lines. Algunas sitúan ese estreno operacional del modelo el 7 de diciembre de 1951 y otras el 17 de diciembre, además de indicar que el aparato usado fue el tercer ejemplar producido, N6203C. En cambio, la condición de N6201C como primer L-1049 de producción volado el 14 de julio de 1951 y su entrega a Eastern en marzo de 1952 aparece de forma consistente en las fuentes específicas consultadas para esta efeméride.</p>
@@ -115,9 +115,9 @@ Por ello, el primer vuelo de N6201C el 14 de julio de 1951 no solo fue un ensayo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-10 10:00:24 CST  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum, Lockheed Martin  
-- **Fuentes secundarias de contraste:** AirHistory.net, Lockheed Constellation Survivors, This Day in Aviation, Wikipedia EN, borrador preliminar del investigador  
+- **Fuentes secundarias de contraste:** AirHistory.net, Lockheed Constellation Survivors, This Day in Aviation, Wikipedia EN
 - **Discrepancias resueltas:** se separó el hito del primer vuelo del ejemplar de producción N6201C de la entrada en servicio comercial del tipo con Eastern Air Lines, para evitar confundir airframe inaugural y estreno operativo de la serie  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

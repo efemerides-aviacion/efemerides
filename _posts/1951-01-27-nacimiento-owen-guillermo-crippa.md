@@ -138,9 +138,9 @@ Setenta y cinco años después de su nacimiento, la figura de Crippa se sostiene
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-07 09:12:08 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Fundación Malvinas, con la relación documental de matrículas, despliegues y operaciones de la 1.ª Escuadrilla Aeronaval de Ataque y con la reconstrucción del ataque a la fragata HMS *Argonaut*.
-- **Fuentes secundarias de contraste:** Wikipedia en español; La Voz; Infobae; Rafaela Noticias, con la cobertura de la repatriación del aparato; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Wikipedia en español; La Voz; Infobae; Rafaela Noticias, con la cobertura de la repatriación del aparato.
 - **Discrepancias resueltas:** se corrigió la base de despegue, que fue Puerto Argentino y no Río Grande, conforme a la documentación de la Fundación Malvinas y al conjunto de las crónicas; se precisó que los catorce buques corresponden a la fuerza anfibia avistada y no a buques atacados individualmente; se distinguieron los daños causados por Crippa a la fragata *Argonaut* de los impactos de bomba que horas después la retiraron del combate; se añadió el número de serie 0766 del aparato y la circunstancia de la avería que dejó en tierra al segundo avión.
 - **Datos no confirmados:** la hora exacta del despegue, que las fuentes sitúan entre las nueve y media y las diez de la mañana; el número preciso de buques presentes en el estrecho en el momento del avistamiento.
 - **Nivel de confianza:** Alto

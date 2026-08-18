@@ -12,7 +12,7 @@ image: 2013-01-04-accidente-transaereo-bn2a-islander.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2013-01-04-accidente-transaereo-bn2a-islander.webp" alt="Britten-Norman BN-2A Islander YV2615 de Transaereo">
-  <figcaption class="post-caption">Britten-Norman BN-2A Islander YV2615 de Transaereo, fotografiado en septiembre de 2011. Esta aeronave sufrió un accidente el 4 de enero de 2013 en la ruta Los Roques–Caracas, con 6 víctimas fatales. Fuente: <a href="https://www.jetphotos.com/photo/7210300">Jet Photos - Fotógrafo: Bruno Orofino</a>.</figcaption>
+  <figcaption class="post-caption">Britten-Norman BN-2A Islander YV2615 de Transaereo, fotografiado en septiembre de 2011. Esta aeronave sufrió un accidente el 4 de enero de 2013 en la ruta Los Roques–Caracas, con 6 víctimas fatales. Fuente: <a href="https://www.jetphotos.com/photo/7210300" style="color: #315fea; text-decoration: none;">Jet Photos - Fotógrafo: Bruno Orofino</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -101,14 +101,14 @@ El caso sigue siendo un recordatorio de la importancia de la seguridad en la avi
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Accidente_de_BN-2A-27_Islander_de_Transaero">Wikipedia (ES) – Accidente de BN-2A Islander de Transaero</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/2013_Transaereo_5074_Britten-Norman_Islander_crash">Wikipedia (EN) – 2013 Transaereo 5074 Britten-Norman Islander crash</a></li>
-    <li><a href="https://aviation-safety.net/wikibase/320820">Aviation Safety Network – Registro del accidente YV2615</a></li>
-    <li><a href="https://www.lavanguardia.com/se-lleva/20130628/54377045869/avioneta-viajaba-heredero-italiano-missoni-venezuela.html">La Vanguardia – Avioneta en la que viajaba el heredero de Missoni aparece en Venezuela</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Accidente_de_BN-2A-27_Islander_de_Transaero" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Accidente de BN-2A Islander de Transaero</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/2013_Transaereo_5074_Britten-Norman_Islander_crash" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – 2013 Transaereo 5074 Britten-Norman Islander crash</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/320820" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Registro del accidente YV2615</a></li>
+    <li><a href="https://www.lavanguardia.com/se-lleva/20130628/54377045869/avioneta-viajaba-heredero-italiano-missoni-venezuela.html" style="color: #315fea; text-decoration: none;">La Vanguardia – Avioneta en la que viajaba el heredero de Missoni aparece en Venezuela</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -123,7 +123,7 @@ El caso sigue siendo un recordatorio de la importancia de la seguridad en la avi
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-05 16:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), Aviation Safety Network, La Vanguardia
 - **Discrepancias resueltas:**
   - Fecha: confirmada como 4 de enero de 2013 en todas las fuentes.

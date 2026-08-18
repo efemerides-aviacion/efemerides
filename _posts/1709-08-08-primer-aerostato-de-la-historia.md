@@ -134,9 +134,9 @@ Queda, con todo, una línea que sí llega hasta hoy. El primer brasileño que vo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-02 17:25:06 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Biblioteca Nacional de Portugal, reproducción facsimilar de la petición y el dibujo remitidos a Juan V, hallados en los archivos vaticanos; Smithsonian National Air and Space Museum, ficha de la estampa dieciochesca de la máquina voladora; British Balloon Museum and Library; Academia Paulista de Letras y Conselho de Cidadania Luso-Brasileiro.
-- **Fuentes secundarias de contraste:** Revista Pesquisa FAPESP; portal História da Força Aérea Brasileira; dossier documental de Novo Milênio; Wikipedia en portugués e inglés, con referencia a la *História Geral da Aeronáutica Brasileira* del INCAER; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Revista Pesquisa FAPESP; portal História da Força Aérea Brasileira; dossier documental de Novo Milênio; Wikipedia en portugués e inglés, con referencia a la *História Geral da Aeronáutica Brasileira* del INCAER.
 - **Discrepancias resueltas:** se consignó la divergencia entre las fuentes sobre el emplazamiento exacto de la ascensión del 8 de agosto y sobre el número total de ensayos realizados aquel mes; se precisó la condición de presbítero secular frente a la atribución habitual de jesuita; se corrigió la edad del protagonista en 1709; se registró la doble fecha de su fallecimiento; se descartó la formulación de algunas publicaciones según la cual se habría demostrado el vuelo de un objeto más pesado que el aire; se identificó como leyenda de origen tardío la persecución inquisitorial por los experimentos aerostáticos, atribuible a un artículo londinense de 1786, frente a la denuncia real de 1724 por un cargo distinto.
 - **Datos no confirmados:** la altura exacta alcanzada por el globo el 8 de agosto y la duración de la ascensión, que las relaciones de la época no cuantifican.
 - **Nivel de confianza:** Alto

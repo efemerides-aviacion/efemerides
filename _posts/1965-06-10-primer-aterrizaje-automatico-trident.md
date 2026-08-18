@@ -101,15 +101,15 @@ La efeméride del 10 de junio de 1965 se conserva en el Heritage Centre de Briti
 
 <div class="references">
   <ul>
-    <li><a href="https://time.com/archive/6833880/aviation-touchdown-by-computer/">Time Magazine – Touchdown by Computer (1965)</a></li>
-    <li><a href="https://www.airwaysmag.com/new-post/6-10-1965-worlds-first-automatic-landing">Airways Magazine – The World's First Automatic Landing</a></li>
-    <li><a href="https://enelaire.mx/el-primer-aterrizaje-con-piloto-automatico-del-mundo/">EnElAire – El primer aterrizaje con piloto automático del mundo</a></li>
-    <li><a href="https://londonairtravel.com/2019/08/09/british-airways-100-years-bea-trident-aircraft/">London Air Travel – The Trident Aircraft at British European Airways</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Hawker_Siddeley_Trident">Wikipedia – Hawker Siddeley Trident</a></li>
+    <li><a href="https://time.com/archive/6833880/aviation-touchdown-by-computer/" style="color: #315fea; text-decoration: none;">Time Magazine – Touchdown by Computer (1965)</a></li>
+    <li><a href="https://www.airwaysmag.com/new-post/6-10-1965-worlds-first-automatic-landing" style="color: #315fea; text-decoration: none;">Airways Magazine – The World's First Automatic Landing</a></li>
+    <li><a href="https://enelaire.mx/el-primer-aterrizaje-con-piloto-automatico-del-mundo/" style="color: #315fea; text-decoration: none;">EnElAire – El primer aterrizaje con piloto automático del mundo</a></li>
+    <li><a href="https://londonairtravel.com/2019/08/09/british-airways-100-years-bea-trident-aircraft/" style="color: #315fea; text-decoration: none;">London Air Travel – The Trident Aircraft at British European Airways</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Hawker_Siddeley_Trident" style="color: #315fea; text-decoration: none;">Wikipedia – Hawker Siddeley Trident</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Existe una diferencia importante entre el «primer aterrizaje automático» en términos absolutos y el «primer aterrizaje automático en servicio comercial con pasajeros». El primero corresponde al Trident G-ARPB en RAE Bedford el 5 de marzo de 1964. El hito del 10 de junio de 1965 se refiere al primer vuelo regular con pasajeros de pago. Así mismo, algunas fuentes mencionan que la matrícula del avión fue G-ARPO, pero la documentación fotográfica y el registro histórico confirman que fue G-ARPR.</p>
@@ -119,7 +119,7 @@ La efeméride del 10 de junio de 1965 se conserva en el Heritage Centre de Briti
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-06 17:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Time Magazine, Airways Magazine, London Air Travel, EnElAire, Wikipedia
 - **Discrepancias resueltas:** Confirmación de matrícula G-ARPR (no G-ARPO); distinción entre primer aterrizaje automático absoluto (RAE Bedford, 5 de marzo de 1964) y primer aterrizaje en servicio comercial con pasajeros (10 de junio de 1965).
 - **Nivel de confianza:** Alto

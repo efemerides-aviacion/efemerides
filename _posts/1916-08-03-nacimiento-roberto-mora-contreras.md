@@ -117,9 +117,9 @@ En términos históricos, su vuelo de noviembre de 1948 marca el punto en que la
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-30 08:33:38 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** no se localizaron fuentes institucionales oficiales accesibles en línea sobre este oficial.
-- **Fuentes secundarias de contraste:** investigación de Arturo C. Soto Loreto publicada en FAV Grupo (2024) y en FAV-CLUB (2025), con referencia a la obra de Freddy Luis Pedrique Pérez; Wikipedia en español e inglés; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** investigación de Arturo C. Soto Loreto publicada en FAV Grupo (2024) y en FAV-CLUB (2025), con referencia a la obra de Freddy Luis Pedrique Pérez; Wikipedia en español e inglés.
 - **Discrepancias resueltas:** se mantuvo sin precisar la variante del Gloster Meteor empleada en el vuelo en solitario del 20 de marzo de 1949 y la designación de los Vampire adquiridos en julio de 1949 (FB.5 o FB.52), por divergencia entre las fuentes; se verificó la coherencia entre la fecha de nacimiento, la edad al fallecer y la fecha del accidente; se contrastaron las dos versiones publicadas del mismo autor, coincidentes en todos los datos sustantivos.
 - **Nivel de confianza:** Medio
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

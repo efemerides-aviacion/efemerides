@@ -93,16 +93,16 @@ El modelo también quedó ligado a la memoria aeronáutica venezolana por su par
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www2.fab.mil.br/afa/index.php/aeronaves/345-t-27-emb-312-tucano-fab-1303">Academia da Força Aérea (Brasil) – T-27 - TUCANO | FAB 1303</a></li>
-    <li><a href="https://web.archive.org/web/20120508210250/http://centrohistorico.embraer.com.br/en/historia-aeronaves/emb-312-tucano.htm">Centro Histórico Embraer (archivado) – EMB 312 Tucano</a></li>
-    <li><a href="https://janes.migavia.com/bra/embraer/emb-312.html">Jane's / Migavia – EMBRAER EMB-312 TUCANO</a></li>
-    <li><a href="https://web.archive.org/web/20070302234136/http://www.acig.org/artman/publish/article_161.shtml">ACIG (archivado) – Venezuelan Coup Attempt, 1992</a></li>
-    <li><a href="https://elestimulo.com/venezuela/2015-02-12/como-es-un-avion-tucano/">El Estímulo – ¿Cómo es un avión Tucano?</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:EMB-312_Tucano_Fuerza_A%C3%A9rea_Venezolana_-_Garc%C3%ADa-Rivera.jpg">Wikimedia Commons – EMB-312 Tucano Fuerza Aérea Venezolana</a></li>
+    <li><a href="https://www2.fab.mil.br/afa/index.php/aeronaves/345-t-27-emb-312-tucano-fab-1303" style="color: #315fea; text-decoration: none;">Academia da Força Aérea (Brasil) – T-27 - TUCANO | FAB 1303</a></li>
+    <li><a href="https://web.archive.org/web/20120508210250/http://centrohistorico.embraer.com.br/en/historia-aeronaves/emb-312-tucano.htm" style="color: #315fea; text-decoration: none;">Centro Histórico Embraer (archivado) – EMB 312 Tucano</a></li>
+    <li><a href="https://janes.migavia.com/bra/embraer/emb-312.html" style="color: #315fea; text-decoration: none;">Jane's / Migavia – EMBRAER EMB-312 TUCANO</a></li>
+    <li><a href="https://web.archive.org/web/20070302234136/http://www.acig.org/artman/publish/article_161.shtml" style="color: #315fea; text-decoration: none;">ACIG (archivado) – Venezuelan Coup Attempt, 1992</a></li>
+    <li><a href="https://elestimulo.com/venezuela/2015-02-12/como-es-un-avion-tucano/" style="color: #315fea; text-decoration: none;">El Estímulo – ¿Cómo es un avión Tucano?</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:EMB-312_Tucano_Fuerza_A%C3%A9rea_Venezolana_-_Garc%C3%ADa-Rivera.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons – EMB-312 Tucano Fuerza Aérea Venezolana</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes abiertas consultadas discrepan sobre el tamaño total del programa venezolano del Tucano: algunas hablan de 30 aeronaves, otras de 31 entregadas a comienzos de 1991 y otras de 32. Una fuente retrospectiva especializada, basada en la obra <em>Historia de la Aviación Militar Venezolana</em> y en entrevistas con protagonistas, añade además que la recepción oficial del primer lote tuvo lugar en la Base Aérea Generalísimo Francisco de Miranda, en La Carlota, Caracas, y que los cuatro aparatos habían pernoctado en Boa Vista la víspera. Como esos detalles no se repiten con igual claridad en el resto de las fuentes abiertas verificadas, se incorporan en el post con formulación cauta.</p>
@@ -111,7 +111,7 @@ El modelo también quedó ligado a la memoria aeronáutica venezolana por su par
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-09 16:15:35 CST  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Academia da Força Aérea (Brasil), Centro Histórico Embraer, Wikimedia Commons  
 - **Fuentes secundarias de contraste:** Jane's / Migavia, ACIG, El Estímulo, bibliografía técnica contemporánea sobre el EMB-312  
 - **Discrepancias resueltas:** se distinguió entre el hito puntual del primer lote recibido el 14 de julio de 1986 y la divergencia posterior de las fuentes sobre el tamaño total del programa venezolano, citado según los casos como 30, 31 o 32 aeronaves  

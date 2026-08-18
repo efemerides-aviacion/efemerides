@@ -106,14 +106,14 @@ El 27 de junio de 1903, Aida de Acosta demostró que el cielo no era un lugar ex
 
 <div class="references">
   <ul>
-    <li><a href="https://en.m.wikipedia.org/wiki/Aida_De_Acosta">Wikipedia (EN) – Aida de Acosta</a></li>
-    <li><a href="https://fr.m.wikipedia.org/wiki/Aida_de_Acosta">Wikipedia (FR) – Aida de Acosta</a></li>
-    <li><a href="https://www.cubanet.org/la-cubanoamericana-aida-de-acosta-primera-mujer-en-pilotear-un-avion/">Cubanet – La cubanoamericana Aida de Acosta, primera mujer en pilotear un avión</a></li>
-    <li><a href="https://en.m.wikipedia.org/wiki/1903_in_science">Wikipedia – 1903 in science</a></li>
+    <li><a href="https://en.m.wikipedia.org/wiki/Aida_De_Acosta" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Aida de Acosta</a></li>
+    <li><a href="https://fr.m.wikipedia.org/wiki/Aida_de_Acosta" style="color: #315fea; text-decoration: none;">Wikipedia (FR) – Aida de Acosta</a></li>
+    <li><a href="https://www.cubanet.org/la-cubanoamericana-aida-de-acosta-primera-mujer-en-pilotear-un-avion/" style="color: #315fea; text-decoration: none;">Cubanet – La cubanoamericana Aida de Acosta, primera mujer en pilotear un avión</a></li>
+    <li><a href="https://en.m.wikipedia.org/wiki/1903_in_science" style="color: #315fea; text-decoration: none;">Wikipedia – 1903 in science</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El vuelo de Aida de Acosta se realizó el 27 de junio de 1903, casi seis meses antes del primer vuelo propulsado y controlado de los hermanos Wright (17 de diciembre de 1903). Aunque su vuelo fue en un dirigible (más ligero que el aire), es reconocida como la primera mujer en pilotar cualquier tipo de aeronave motorizada en solitario.</p>
@@ -123,7 +123,7 @@ El 27 de junio de 1903, Aida de Acosta demostró que el cielo no era un lugar ex
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-23 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN, FR), Cubanet, 1903 in science (Wikipedia)
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del vuelo (27 de junio de 1903) y en los detalles del evento. No se encontraron discrepancias significativas.
 - **Nivel de confianza:** Alto

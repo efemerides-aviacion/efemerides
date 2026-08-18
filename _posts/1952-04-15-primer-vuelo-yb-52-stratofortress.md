@@ -123,13 +123,13 @@ El primer vuelo del YB-52 el 15 de abril de 1952 no fue solo el nacimiento de un
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress">Wikipedia (EN) - Boeing B-52 Stratofortress</a></li>
-    <li><a href="https://www.thisdayinaviation.com/15-april-1952/">This Day in Aviation - 15 April 1952 YB-52 first flight</a></li>
-    <li><a href="https://boeing.mediaroom.com/2002-04-12-Boeing-U.S.-Air-Force-Celebrate-B-52-Stratofortress-Golden-Anniversary">Boeing Media Room - B-52 Stratofortress Golden Anniversary</a></li>
-    <li><a href="https://www.historylink.org/file/3565">HistoryLink - YB-52 Stratofortress first flight Boeing Field</a></li>
-    <li><a href="https://planetags.com/blogs/planetags-blog/born-to-last-the-story-of-the-boeing-b-52-stratofortress">PlaneTags - Born to Last: Boeing B-52 Stratofortress</a></li>
-    <li><a href="https://www.museumofflight.org/exhibits-and-events/aircraft/boeing-b-52g-stratofortress">Museum of Flight - Boeing B-52G Stratofortress</a></li>
-    <li><a href="https://afhistory.org/april-15-1952/">Air Force Historical Foundation - April 15, 1952</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Boeing B-52 Stratofortress</a></li>
+    <li><a href="https://www.thisdayinaviation.com/15-april-1952/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 15 April 1952 YB-52 first flight</a></li>
+    <li><a href="https://boeing.mediaroom.com/2002-04-12-Boeing-U.S.-Air-Force-Celebrate-B-52-Stratofortress-Golden-Anniversary" style="color: #315fea; text-decoration: none;">Boeing Media Room - B-52 Stratofortress Golden Anniversary</a></li>
+    <li><a href="https://www.historylink.org/file/3565" style="color: #315fea; text-decoration: none;">HistoryLink - YB-52 Stratofortress first flight Boeing Field</a></li>
+    <li><a href="https://planetags.com/blogs/planetags-blog/born-to-last-the-story-of-the-boeing-b-52-stratofortress" style="color: #315fea; text-decoration: none;">PlaneTags - Born to Last: Boeing B-52 Stratofortress</a></li>
+    <li><a href="https://www.museumofflight.org/exhibits-and-events/aircraft/boeing-b-52g-stratofortress" style="color: #315fea; text-decoration: none;">Museum of Flight - Boeing B-52G Stratofortress</a></li>
+    <li><a href="https://afhistory.org/april-15-1952/" style="color: #315fea; text-decoration: none;">Air Force Historical Foundation - April 15, 1952</a></li>
   </ul>
 </div>
 
@@ -141,7 +141,7 @@ El primer vuelo del YB-52 el 15 de abril de 1952 no fue solo el nacimiento de un
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-12 17:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, This Day in Aviation, Boeing Media Room, HistoryLink, PlaneTags, Museum of Flight, Air Force Historical Foundation
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre el XB-52 y el YB-52, y por qué el segundo voló primero. Se ha incorporado la matrícula (49-231) y la hora exacta del despegue (11:08) según la fuente de This Day in Aviation. No se encontraron datos confirmados sobre altitud y velocidad máxima alcanzadas en el primer vuelo, por lo que se omitieron o marcaron como no confirmados.
 - **Nivel de confianza:** Alto

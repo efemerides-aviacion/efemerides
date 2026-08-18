@@ -57,11 +57,11 @@ La eyección de Schenk es recordada como el primer caso documentado en la histor
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/tag/helmut-schenk/">This Day in Aviation – 13 January 1942</a></li>
-    <li><a href="https://aircrewremembered.com/worlds-first-ejection-seat-success.html">Aircrew Remembered – World’s First Ejection Seat Success</a></li>
-    <li><a href="https://www.historyandheadlines.com/first-ejection-seat-used-in-jet-fighter-heinkel-280/">History and Headlines – First Ejection Seat Used in Jet Fighter</a></li>
-    <li><a href="https://www.smithsonianmag.com/smart-news/first-successfully-used-75-years-ago-ejection-seats-have-saved-thousands-180961744/">Smithsonian Magazine – Historia de los asientos eyectables</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Heinkel_He_280">Wikipedia – Heinkel He 280</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/helmut-schenk/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 13 January 1942</a></li>
+    <li><a href="https://aircrewremembered.com/worlds-first-ejection-seat-success.html" style="color: #315fea; text-decoration: none;">Aircrew Remembered – World’s First Ejection Seat Success</a></li>
+    <li><a href="https://www.historyandheadlines.com/first-ejection-seat-used-in-jet-fighter-heinkel-280/" style="color: #315fea; text-decoration: none;">History and Headlines – First Ejection Seat Used in Jet Fighter</a></li>
+    <li><a href="https://www.smithsonianmag.com/smart-news/first-successfully-used-75-years-ago-ejection-seats-have-saved-thousands-180961744/" style="color: #315fea; text-decoration: none;">Smithsonian Magazine – Historia de los asientos eyectables</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Heinkel_He_280" style="color: #315fea; text-decoration: none;">Wikipedia – Heinkel He 280</a></li>
   </ul>
 </div>
 
@@ -69,7 +69,7 @@ La eyección de Schenk es recordada como el primer caso documentado en la histor
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-12 08:40:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:**  
   • This Day in Aviation – 13 January 1942 (Helmut Schenk, Heinkel He 280)  
   • Aircrew Remembered – World’s First Ejection Seat Success  

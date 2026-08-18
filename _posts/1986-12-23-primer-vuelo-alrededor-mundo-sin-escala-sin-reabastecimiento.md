@@ -33,7 +33,7 @@ image: 1986-12-23-primer-vuelo-alrededor-mundo-sin-escala-sin-reabastecimiento.j
 - **Reconocimiento:** Trofeo Collier 1986  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Contexto histórico
+## Contexto Histórico
 El Voyager fue concebido en 1981 como un “tanque volador de combustible” capaz de dar la vuelta al mundo sin reabastecerse. Construido por voluntarios en Mojave, California, representó un desafío técnico y humano.
 
 ### Entorno social
@@ -77,8 +77,8 @@ El Voyager se exhibe en el Smithsonian y sigue siendo referencia en récords de 
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES, NASM, NYT, El País, Smithsonian  
 - **Discrepancias resueltas:** Distancia oficial homologada por la FAI  
 - **Nivel de confianza:** Muy alto  

@@ -37,7 +37,7 @@ redirect_from:
 - **Fallecimiento:** 27 de febrero de 1928, accidente aéreo en la bahía de Chesapeake  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Contexto histórico
+## Contexto Histórico
 Ellyson fue pionero de la aviación naval estadounidense, en un momento en que la aviación apenas comenzaba a integrarse en las fuerzas armadas. Su formación con Glenn Curtiss y sus vuelos en hidroaviones marcaron el inicio de la aviación embarcada en la US Navy.
 
 ### Entorno social
@@ -80,8 +80,8 @@ Recordado como el primer aviador naval de Estados Unidos, su nombre figura en me
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, US Navy, Library of Congress, HistoryHit, USNI  
 - **Discrepancias resueltas:** Confirmación de fechas de designación (1914) y entrega de alas de oro (1918).  
 - **Nivel de confianza:** Alto  

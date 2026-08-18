@@ -143,16 +143,16 @@ El accidente del Tu-144 en París sigue siendo uno de los más trágicos y contr
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/3-june-1973/">This Day in Aviation – 3 June 1973</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/1973_Paris_Air_Show_Tupolev_Tu-144_crash">Wikipedia – 1973 Paris Air Show Tupolev Tu-144 crash</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Accidente_del_Tu-144_en_Par%C3%ADs_de_1973">Wikipedia (ES) – Accidente del Tu-144 en París de 1973</a></li>
-    <li><a href="https://aviation-safety.net/wikibase/308998">Aviation Safety Network – Accident Tupolev 144D, 3 June 1973</a></li>
-    <li><a href="https://aeromagazine.uol.com.br/artigo/acidente-com-tupolev-tu-144-no-paris-air-show-completou-50-anos.html">AeroMagazine – Acidente com Tupolev Tu-144 no Paris Air Show completou 50 anos</a></li>
-    <li><a href="https://www.baaa-acro.com/crash/crash-tupolev-tu-144s-goussainville-14-killed">BAAA – Crash of a Tupolev TU-144S in Goussainville: 14 killed</a></li>
+    <li><a href="https://www.thisdayinaviation.com/3-june-1973/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 3 June 1973</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/1973_Paris_Air_Show_Tupolev_Tu-144_crash" style="color: #315fea; text-decoration: none;">Wikipedia – 1973 Paris Air Show Tupolev Tu-144 crash</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Accidente_del_Tu-144_en_Par%C3%ADs_de_1973" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Accidente del Tu-144 en París de 1973</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/308998" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Accident Tupolev 144D, 3 June 1973</a></li>
+    <li><a href="https://aeromagazine.uol.com.br/artigo/acidente-com-tupolev-tu-144-no-paris-air-show-completou-50-anos.html" style="color: #315fea; text-decoration: none;">AeroMagazine – Acidente com Tupolev Tu-144 no Paris Air Show completou 50 anos</a></li>
+    <li><a href="https://www.baaa-acro.com/crash/crash-tupolev-tu-144s-goussainville-14-killed" style="color: #315fea; text-decoration: none;">BAAA – Crash of a Tupolev TU-144S in Goussainville: 14 killed</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -166,7 +166,7 @@ El accidente del Tu-144 en París sigue siendo uno de los más trágicos y contr
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-31 13:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, Wikipedia (EN/ES), Aviation Safety Network, AeroMagazine, BAAA
 - **Discrepancias resueltas:** Confirmación de la fecha (3 de junio de 1973) en todas las fuentes. Verificación del número de víctimas (14 total). Aclaración del papel del Mirage III R en la maniobra evasiva. Inclusión del enlace a la efeméride del primer vuelo del Tu-144 (31 de diciembre de 1968) como contexto histórico.
 - **Nivel de confianza:** Alto

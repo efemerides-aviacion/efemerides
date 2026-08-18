@@ -128,9 +128,9 @@ Del prototipo que voló aquel 7 de agosto no queda nada: el 00373 ardió en el a
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-02 08:16:16 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum, ficha de colección del TBF-1 Avenger y artículo divulgativo de <em>Air and Space Quarterly</em>; Air & Space Forces Magazine.
-- **Fuentes secundarias de contraste:** This Day in Aviation, con los datos del prototipo, la planta motriz y las modificaciones posteriores al primer vuelo; Wikipedia en inglés y en español; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** This Day in Aviation, con los datos del prototipo, la planta motriz y las modificaciones posteriores al primer vuelo; Wikipedia en inglés y en español.
 - **Discrepancias resueltas:** se distinguió la configuración inicial de cuatro tripulantes de la de tres del modelo de serie, cifras que las fuentes presentan sin matizar; se precisó que el nombre «Avenger» se adoptó en octubre de 1941, antes del ataque a Pearl Harbor, frente a la versión que lo vincula a este; se consignó la designación del motor del prototipo, R-2600-8, distinta de la del R-2600-20 de las series posteriores que citan las recopilaciones generalistas.
 - **Datos no confirmados:** la duración exacta del primer vuelo, que las fuentes describen únicamente como breve; la fecha en que se tomó la fotografía del prototipo.
 - **Nivel de confianza:** Alto

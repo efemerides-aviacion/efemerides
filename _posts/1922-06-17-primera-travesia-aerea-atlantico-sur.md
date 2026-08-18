@@ -144,15 +144,15 @@ La primera travesía aérea del Atlántico Sur es hoy una de las gestas más rec
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/First_aerial_crossing_of_the_South_Atlantic">Wikipedia (EN) – First aerial crossing of the South Atlantic</a></li>
-    <li><a href="https://www.wikiwand.com/es/Primera_traves%C3%ADa_a%C3%A9rea_del_Atl%C3%A1ntico_sur">Wikiwand (ES) – Primera travesía aérea del Atlántico sur</a></li>
-    <li><a href="https://www.wikiwand.com/es/Fairey_III">Wikiwand (ES) – Fairey III (especificaciones del hidroavión)</a></li>
-    <li><a href="https://observador.pt/2022/06/12/gago-coutinho-e-sacadura-cabral-herois-ha-um-seculo/">Observador (PT) – Gago Coutinho e Sacadura Cabral. Heróis há um século</a></li>
-    <li><a href="https://ncultura.pt/gago-coutinho-sacadura-cabral-contra-o-atlantico/">NCultura (PT) – Gago Coutinho e Sacadura Cabral: a vitória impossível contra o Atlântico</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/First_aerial_crossing_of_the_South_Atlantic" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – First aerial crossing of the South Atlantic</a></li>
+    <li><a href="https://www.wikiwand.com/es/Primera_traves%C3%ADa_a%C3%A9rea_del_Atl%C3%A1ntico_sur" style="color: #315fea; text-decoration: none;">Wikiwand (ES) – Primera travesía aérea del Atlántico sur</a></li>
+    <li><a href="https://www.wikiwand.com/es/Fairey_III" style="color: #315fea; text-decoration: none;">Wikiwand (ES) – Fairey III (especificaciones del hidroavión)</a></li>
+    <li><a href="https://observador.pt/2022/06/12/gago-coutinho-e-sacadura-cabral-herois-ha-um-seculo/" style="color: #315fea; text-decoration: none;">Observador (PT) – Gago Coutinho e Sacadura Cabral. Heróis há um século</a></li>
+    <li><a href="https://ncultura.pt/gago-coutinho-sacadura-cabral-contra-o-atlantico/" style="color: #315fea; text-decoration: none;">NCultura (PT) – Gago Coutinho e Sacadura Cabral: a vitória impossível contra o Atlântico</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La fecha de salida de Lisboa varía según las fuentes: algunas indican el 30 de marzo de 1922 a las 7:00 a.m., mientras que otros documentos señalan las 4:30 p.m. del mismo día. Las cifras de distancia y duración del vuelo también presentan ligeras variaciones entre fuentes, pero las aquí presentadas son las más aceptadas por los historiadores de la aviación portuguesa. Los nombres completos de los aviadores son: Artur de Sacadura Freire Cabral (1881-1924) y Carlos Viegas Gago Coutinho (1869-1959). El hidroavión Fairey III-D utilizado para la primera etapa fue el F.400, especialmente modificado para la travesía.</p>
@@ -162,7 +162,7 @@ La primera travesía aérea del Atlántico Sur es hoy una de las gestas más rec
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-12 14:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN), Wikiwand (ES), Observador (PT), NCultura (PT)
 - **Discrepancias resueltas:** La hora exacta de salida de Lisboa varía entre las 7:00 a.m. y las 4:30 p.m. según las fuentes; se ha optado por la segunda por ser la más citada en las fuentes portuguesas. La distancia total recorrida se ha redondeado a 8.383 km según las fuentes oficiales portuguesas.
 - **Nivel de confianza:** Alto

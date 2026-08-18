@@ -22,7 +22,7 @@ image: 1946-01-26-primer-record-transcontinental-p80-councill.jpg
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados del Evento
+## Datos verificados del evento
 - **Fecha:** 26 de enero de 1946 (algunas fuentes mencionan 22 o 27 de enero)  
 - **Ruta:** Long Beach (California) – Nueva York LaGuardia  
 - **Aeronave:** Lockheed P‑80A‑1‑LO Shooting Star, matrícula **44‑85123**  
@@ -60,19 +60,19 @@ El vuelo de Councill es recordado como el primer récord transcontinental a reac
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/26-january-1946/">This Day in Aviation – 26 January 1946</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star">Wikipedia (EN) – Lockheed P‑80 Shooting Star</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star">Wikipedia (ES) – Lockheed P‑80 Shooting Star</a></li>
-    <li><a href="https://www.nytimes.com/1946/01/27/archives/transus-record-of-4-hrs-13-mins-set-by-jet-plane-army-p80-fighter.html">The New York Times – Trans‑U.S. Record</a></li>
-    <li><a href="https://www.historynet.com/shooting-star-lockheeds-p-80-paved-the-way-for-future-american-fighters/">HistoryNet – Shooting Star</a></li>
-    <li><a href="https://ww2db.com/aircraft_spec.php?aircraft_model_id=479">WW2DB – P‑80 Shooting Star</a></li>
-    <li><a href="https://www.facebook.com/AirZoo/photos/otd-jan-26-1946-col-william-councill-set-a-new-us-transcontinental-speed-record-/10197154">Air Zoo – OTD Jan 26, 1946</a></li>
+    <li><a href="https://www.thisdayinaviation.com/26-january-1946/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 26 January 1946</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Lockheed P‑80 Shooting Star</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Lockheed P‑80 Shooting Star</a></li>
+    <li><a href="https://www.nytimes.com/1946/01/27/archives/transus-record-of-4-hrs-13-mins-set-by-jet-plane-army-p80-fighter.html" style="color: #315fea; text-decoration: none;">The New York Times – Trans‑U.S. Record</a></li>
+    <li><a href="https://www.historynet.com/shooting-star-lockheeds-p-80-paved-the-way-for-future-american-fighters/" style="color: #315fea; text-decoration: none;">HistoryNet – Shooting Star</a></li>
+    <li><a href="https://ww2db.com/aircraft_spec.php?aircraft_model_id=479" style="color: #315fea; text-decoration: none;">WW2DB – P‑80 Shooting Star</a></li>
+    <li><a href="https://www.facebook.com/AirZoo/photos/otd-jan-26-1946-col-william-councill-set-a-new-us-transcontinental-speed-record-/10197154" style="color: #315fea; text-decoration: none;">Air Zoo – OTD Jan 26, 1946</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-22 12:55:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation; Wikipedia; The New York Times; HistoryNet; WW2DB; Air Zoo  
 - **Discrepancias resueltas:** Se confirmó la fecha como 26 de enero de 1946.  
 - **Nivel de confianza:** Alto  

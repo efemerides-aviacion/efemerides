@@ -128,13 +128,13 @@ El concepto de conectar ciudades costeras mediante hidroaviones, iniciado en Nue
 
 <div class="references">
   <ul>
-    <li><a href="https://www.lanacion.com.ar/lifestyle/se-cumplen-103-anos-del-primer-vuelo-comercial-con-pasajeros-de-america-nid03052022/">La Nación - Se cumplen 103 años del primer vuelo comercial con pasajeros de América</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Aeromarine_50">Wikipedia (ES) - Aeromarine 50</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Aeromarine_50">Wikipedia (EN) - Aeromarine 50</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Aeromarine_West_Indies_Airways">Wikipedia - Aeromarine West Indies Airways</a></li>
-    <li><a href="https://handwiki.org/wiki/Engineering:Aeromarine_50">HandWiki - Aeromarine 50</a></li>
-    <li><a href="https://time.com/archive/6649654/aeronautics-abandoned-line/">Time Magazine - Aeronautics: Abandoned Line (1924)</a></li>
-    <li><a href="https://digital.library.unt.edu/ark:/67531/metadc130764/m1/7/">UNT Digital Library - Crew Complement problem and Tripartite Agreement</a></li>
+    <li><a href="https://www.lanacion.com.ar/lifestyle/se-cumplen-103-anos-del-primer-vuelo-comercial-con-pasajeros-de-america-nid03052022/" style="color: #315fea; text-decoration: none;">La Nación - Se cumplen 103 años del primer vuelo comercial con pasajeros de América</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Aeromarine_50" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Aeromarine 50</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Aeromarine_50" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Aeromarine 50</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Aeromarine_West_Indies_Airways" style="color: #315fea; text-decoration: none;">Wikipedia - Aeromarine West Indies Airways</a></li>
+    <li><a href="https://handwiki.org/wiki/Engineering:Aeromarine_50" style="color: #315fea; text-decoration: none;">HandWiki - Aeromarine 50</a></li>
+    <li><a href="https://time.com/archive/6649654/aeronautics-abandoned-line/" style="color: #315fea; text-decoration: none;">Time Magazine - Aeronautics: Abandoned Line (1924)</a></li>
+    <li><a href="https://digital.library.unt.edu/ark:/67531/metadc130764/m1/7/" style="color: #315fea; text-decoration: none;">UNT Digital Library - Crew Complement problem and Tripartite Agreement</a></li>
   </ul>
 </div>
 
@@ -142,7 +142,7 @@ El concepto de conectar ciudades costeras mediante hidroaviones, iniciado en Nue
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-02 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** La Nación, Wikipedia (ES/EN), HandWiki, Time Magazine Archive, UNT Digital Library
 - **Discrepancias resueltas:** No se encontraron discrepancias mayores entre las fuentes. El Aeromarine 50 voló por primera vez en 1919 y fue utilizado en la ruta Nueva York-Atlantic City, donde operaba el servicio más establecido en 1921. La fecha del 3 de mayo de 1919 corresponde al vuelo inaugural de Aeromarine, reconocido como el primero en transportar pasajeros pagadores entre dos estados.
 - **Nivel de confianza:** Alto

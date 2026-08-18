@@ -136,16 +136,16 @@ Hoy, los sobrevivientes —incluyendo uno en el Fleet Air Arm Museum de Yeovilto
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Supermarine_Walrus">Wikipedia – Supermarine Walrus</a></li>
-    <li><a href="https://www.classicwarbirds.co.uk/british-aircraft/supermarine-walrus.php">Classic Warbirds – Supermarine Walrus</a></li>
-    <li><a href="https://naval-encyclopedia.com/naval-aviation/ww2/uk/supermarine-walrus.php">Naval Encyclopedia – Supermarine Walrus (1936)</a></li>
-    <li><a href="https://www.lasegundaguerra.com/viewtopic.php?t=9669">La Segunda Guerra – Supermarine Walrus</a></li>
-    <li><a href="https://military-history.fandom.com/wiki/Supermarine_Walrus">Military History Fandom – Supermarine Walrus</a></li>
-    <li><a href="https://fdra-naval.blogspot.com/2021/06/avion-anfibio-de-reconocimiento.html">FDRA – Avión anfibio de reconocimiento</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Supermarine_Walrus" style="color: #315fea; text-decoration: none;">Wikipedia – Supermarine Walrus</a></li>
+    <li><a href="https://www.classicwarbirds.co.uk/british-aircraft/supermarine-walrus.php" style="color: #315fea; text-decoration: none;">Classic Warbirds – Supermarine Walrus</a></li>
+    <li><a href="https://naval-encyclopedia.com/naval-aviation/ww2/uk/supermarine-walrus.php" style="color: #315fea; text-decoration: none;">Naval Encyclopedia – Supermarine Walrus (1936)</a></li>
+    <li><a href="https://www.lasegundaguerra.com/viewtopic.php?t=9669" style="color: #315fea; text-decoration: none;">La Segunda Guerra – Supermarine Walrus</a></li>
+    <li><a href="https://military-history.fandom.com/wiki/Supermarine_Walrus" style="color: #315fea; text-decoration: none;">Military History Fandom – Supermarine Walrus</a></li>
+    <li><a href="https://fdra-naval.blogspot.com/2021/06/avion-anfibio-de-reconocimiento.html" style="color: #315fea; text-decoration: none;">FDRA – Avión anfibio de reconocimiento</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Esta efeméride conmemora el <strong>primer vuelo</strong> del prototipo del Supermarine Walrus (originalmente Seagull V), que tuvo lugar el 21 de junio de 1933. El avión recibió su nombre «Walrus» tras ser adoptado por la Royal Navy. La configuración de motor en posición propulsora (trasera) era inusual para la época, pero se eligió para proteger la hélice y facilitar las operaciones de amarre en el mar.</p>
@@ -155,7 +155,7 @@ Hoy, los sobrevivientes —incluyendo uno en el Fleet Air Arm Museum de Yeovilto
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-17 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN/IT), Classic Warbirds, Naval Encyclopedia, La Segunda Guerra, Military History Fandom, FDRA
 - **Discrepancias resueltas:** Algunas fuentes citan el motor del prototipo como Bristol Jupiter IX, mientras que otras indican Pegasus. El motor de serie fue el Pegasus VI. Se ha aclarado la distinción.
 - **Nivel de confianza:** Alto

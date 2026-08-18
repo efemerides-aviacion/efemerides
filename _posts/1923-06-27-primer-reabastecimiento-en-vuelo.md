@@ -107,14 +107,14 @@ Lowell H. Smith fue ascendido a mayor y continuó su carrera en la aviación. Mu
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/tag/dh-4b/">This Day in Aviation – Tag Archives: DH.4B</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Rockwell_Field">Wikipedia (EN) – History of Rockwell Field</a></li>
-    <li><a href="https://www.historynet.com/marathons-in-the-air/">HistoryNet – Marathons in the Air: History of Aerial Refueling</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Aerial_refueling">Wikipedia (EN) – History and development of Aerial Refueling</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/dh-4b/" style="color: #315fea; text-decoration: none;">This Day in Aviation – Tag Archives: DH.4B</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Rockwell_Field" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – History of Rockwell Field</a></li>
+    <li><a href="https://www.historynet.com/marathons-in-the-air/" style="color: #315fea; text-decoration: none;">HistoryNet – Marathons in the Air: History of Aerial Refueling</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Aerial_refueling" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – History and development of Aerial Refueling</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El primer intento de reabastecimiento en vuelo ocurrió el 3 de mayo de 1923, también realizado por el Capitán Smith, pero no tuvo éxito porque el método del gancho y la manguera falló. El 27 de junio de 1923 es la fecha del primer reabastecimiento exitoso. El récord de resistencia de 37 horas y 16 minutos fue establecido los días 22 y 23 de agosto de 1923 con el mismo sistema, pero con un avión receptor diferente (el mismo DH-4B) y con el piloto Smith acompañado del Teniente John Richter.</p>
@@ -124,7 +124,7 @@ Lowell H. Smith fue ascendido a mayor y continuó su carrera en la aviación. Mu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-23 23:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, San Diego Air & Space Museum, HistoryNet, Wikipedia
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del 27 de junio de 1923 para el primer reabastecimiento exitoso. Algunas fuentes mencionan que se transfirieron 75 galones de gasolina, mientras que otras citan 150 galones; la cifra de 75 galones para el primer intento es la más aceptada de conformidad con las bitácoras del Air Service de la USAF. La altitud del vuelo fue de aproximadamente 2.000 pies.
 - **Nivel de confianza:** Alto

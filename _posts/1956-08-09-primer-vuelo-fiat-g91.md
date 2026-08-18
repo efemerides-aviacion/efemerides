@@ -146,9 +146,9 @@ De la carrera del aparato sobrevive sobre todo la memoria italiana. Las Frecce T
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-04 06:47:27 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Aircraft Profile n.º 119, monografía técnica contemporánea al servicio del tipo, con la descripción estructural y el detalle de la campaña de ensayos; documentación de la Luftwaffe recopilada en la monografía de Fliegerhorst Oldenburg.
-- **Fuentes secundarias de contraste:** Key Aero, con el contexto doctrinal del concurso; MiGFlug; Vintage Aviation News; Si vis pacem, para bellum; Wikipedia en inglés y en español, incluida la entrada específica sobre el concurso NBMR-1, con referencia a las obras de Angelucci, Matricardi, Apostolo y Niccoli; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Key Aero, con el contexto doctrinal del concurso; MiGFlug; Vintage Aviation News; Si vis pacem, para bellum; Wikipedia en inglés y en español, incluida la entrada específica sobre el concurso NBMR-1, con referencia a las obras de Angelucci, Matricardi, Apostolo y Niccoli.
 - **Discrepancias resueltas:** se citó solo el mes de la pérdida del primer prototipo ante la divergencia entre el 20 y el 26 o 27 de febrero de 1957; se recogió la doble datación del anuncio preliminar del concurso y la discrepancia sobre el orden de los proyectos seleccionados; se consignó el intervalo de 756 a 770 unidades producidas en lugar de una cifra única; se registraron las dos explicaciones documentadas del apodo <em>Gina</em>; se distinguió la fecha de las fichas técnicas de la de servicio operativo pleno.
 - **Datos no confirmados:** la duración del primer vuelo, que solo consta en fuentes de fiabilidad no contrastada.
 - **Nivel de confianza:** Alto

@@ -21,7 +21,7 @@ image: 1959-01-25-primer-vuelo-transcontinental-jet-b707-aa.jpg
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados del Evento
+## Datos verificados del evento
 - **Fecha:** 25 de enero de 1959  
 - **Ruta:** Los Ángeles (LAX) – Nueva York Idlewild (JFK)  
 - **Aeronave:** Boeing 707-123 Astrojet, matrícula N7503A “Flagship California”  
@@ -59,19 +59,19 @@ American Airlines operó 42 Boeing 707 hasta 1984; el N7503A voló hasta 1983, s
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/25-january-1959/">This Day in Aviation – 25 January 1959</a></li>
-    <li><a href="https://www.upi.com/Archives/1959/01/25/First-jet-transport-spans-US-in-4-hours/3171548383771/">UPI Archives – First jet transport spans U.S. in 4 hours</a></li>
-    <li><a href="https://news.aa.com/centennial/our-stories/history-of-american-airlines/">American Airlines News – History</a></li>
-    <li><a href="https://thisdayintechhistory.com/01/25/first-transcontinental-jet-flight/">This Day in Tech History</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_707">Wikipedia (EN) – Boeing 707</a></li>
-    <li><a href="https://transportationhistory.org/2019/01/25/not-the-first-transcontinental-flight-but-the-first-by-commercial-jet/">Transportation History</a></li>
-    <li><a href="https://community.infiniteflight.com/t/60-years-ago-american-airlines-made-history/288788">Infinite Flight Community – 60 Years Ago</a></li>
+    <li><a href="https://www.thisdayinaviation.com/25-january-1959/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 25 January 1959</a></li>
+    <li><a href="https://www.upi.com/Archives/1959/01/25/First-jet-transport-spans-US-in-4-hours/3171548383771/" style="color: #315fea; text-decoration: none;">UPI Archives – First jet transport spans U.S. in 4 hours</a></li>
+    <li><a href="https://news.aa.com/centennial/our-stories/history-of-american-airlines/" style="color: #315fea; text-decoration: none;">American Airlines News – History</a></li>
+    <li><a href="https://thisdayintechhistory.com/01/25/first-transcontinental-jet-flight/" style="color: #315fea; text-decoration: none;">This Day in Tech History</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_707" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Boeing 707</a></li>
+    <li><a href="https://transportationhistory.org/2019/01/25/not-the-first-transcontinental-flight-but-the-first-by-commercial-jet/" style="color: #315fea; text-decoration: none;">Transportation History</a></li>
+    <li><a href="https://community.infiniteflight.com/t/60-years-ago-american-airlines-made-history/288788" style="color: #315fea; text-decoration: none;">Infinite Flight Community – 60 Years Ago</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-22 11:15:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation; UPI Archives; American Airlines News; Wikipedia; Transportation History  
 - **Discrepancias resueltas:** Confirmación de matrícula N7503A, hora exacta de despegue (09:05 PST) y duración de vuelos.  
 - **Nivel de confianza:** Alto  

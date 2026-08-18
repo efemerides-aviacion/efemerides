@@ -119,16 +119,16 @@ Charles Rolls es recordado como un pionero del automovilismo y la aviación, y s
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Charles_Rolls">Wikipedia – Charles Rolls</a></li>
-    <li><a href="https://www.guinnessworldrecords.de/world-records/667661-first-double-crossing-of-the-english-channel-by-aircraft">Guinness World Records – First double-crossing of the English Channel by aircraft</a></li>
-    <li><a href="https://www.english-heritage.org.uk/visit/blue-plaques/charles-rolls/">English Heritage – Charles Rolls Blue Plaque</a></li>
-    <li><a href="https://www.topgear.es/noticias/no-solo-ruedas/charles-rolls-canal-mancha-653415">TopGear – Charles Rolls y el Canal de la Mancha</a></li>
-    <li><a href="https://www.wheels-alive.co.uk/rolls-royce-pays-tribute-to-founders-pioneering-flight-of-2nd-june-1910/">Wheels-Alive – Rolls-Royce tribute to Charles Rolls</a></li>
-    <li><a href="https://www.sociedadaeronautica.org/el-primer-hombre-que-cruzo-volando-el-canal-de-la-mancha/">Sociedad Aeronáutica – El primer hombre que cruzó volando el Canal de la Mancha</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Charles_Rolls" style="color: #315fea; text-decoration: none;">Wikipedia – Charles Rolls</a></li>
+    <li><a href="https://www.guinnessworldrecords.de/world-records/667661-first-double-crossing-of-the-english-channel-by-aircraft" style="color: #315fea; text-decoration: none;">Guinness World Records – First double-crossing of the English Channel by aircraft</a></li>
+    <li><a href="https://www.english-heritage.org.uk/visit/blue-plaques/charles-rolls/" style="color: #315fea; text-decoration: none;">English Heritage – Charles Rolls Blue Plaque</a></li>
+    <li><a href="https://www.topgear.es/noticias/no-solo-ruedas/charles-rolls-canal-mancha-653415" style="color: #315fea; text-decoration: none;">TopGear – Charles Rolls y el Canal de la Mancha</a></li>
+    <li><a href="https://www.wheels-alive.co.uk/rolls-royce-pays-tribute-to-founders-pioneering-flight-of-2nd-june-1910/" style="color: #315fea; text-decoration: none;">Wheels-Alive – Rolls-Royce tribute to Charles Rolls</a></li>
+    <li><a href="https://www.sociedadaeronautica.org/el-primer-hombre-que-cruzo-volando-el-canal-de-la-mancha/" style="color: #315fea; text-decoration: none;">Sociedad Aeronáutica – El primer hombre que cruzó volando el Canal de la Mancha</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -142,7 +142,7 @@ Charles Rolls es recordado como un pionero del automovilismo y la aviación, y s
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-30 10:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Guinness World Records, English Heritage, TopGear, Wheels-Alive, Sociedad Aeronáutica
 - **Discrepancias resueltas:** Confirmación de la fecha (2 de junio de 1910) en todas las fuentes. Verificación de la aeronave (Wright Model A). Confirmación de la duración (95 minutos). Aclaración de la diferencia con el vuelo de Blériot.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales coinciden en los datos fundamentales)

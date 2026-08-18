@@ -119,8 +119,8 @@ Hoy, en el lugar donde Alfaro despegó, se levanta un monumento conmemorativo en
 
 <div class="references">
   <ul>
-     <li><a href="https://elmomentoveracruz.mx/2025/07/02/sabias-que-en-xalapa-se-realizo-el-primer-vuelo-de-globo-aerostatico-de-america/">El Momento Veracruz - Sabías que el primer vuelo en globo aerostático de América fue en Xalapa</a></li>
-    <li><a href="https://www.nmas.com.mx/nmas-local/programas/las-noticias-veracruz/videos/sabias-que-primer-vuelo-globo-aerostatico-fue-xalapa/">N+ - ¿Sabías que el primer vuelo en globo aerostático fue en Xalapa?</a></li>
+     <li><a href="https://elmomentoveracruz.mx/2025/07/02/sabias-que-en-xalapa-se-realizo-el-primer-vuelo-de-globo-aerostatico-de-america/" style="color: #315fea; text-decoration: none;">El Momento Veracruz - Sabías que el primer vuelo en globo aerostático de América fue en Xalapa</a></li>
+    <li><a href="https://www.nmas.com.mx/nmas-local/programas/las-noticias-veracruz/videos/sabias-que-primer-vuelo-globo-aerostatico-fue-xalapa/" style="color: #315fea; text-decoration: none;">N+ - ¿Sabías que el primer vuelo en globo aerostático fue en Xalapa?</a></li>
   </ul>
 </div>
 
@@ -128,7 +128,7 @@ Hoy, en el lugar donde Alfaro despegó, se levanta un monumento conmemorativo en
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-15 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** El Momento Veracruz, N+, Gazeta de México (archivo, 19 de mayo de 1784)
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (18 de mayo de 1784). Las medidas del globo varían ligeramente (10 metros de altura vs. 18 varas de diámetro). Se ha optado por incluir ambas referencias en las notas aclaratorias.
 - **Nivel de confianza:** Alto

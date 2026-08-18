@@ -118,16 +118,16 @@ Su fotografía cuelga en el McDaniel Center de la Base Aérea de Kadena, en Jap�
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Vernon_Burge">Wikipedia – Vernon Burge</a></li>
-    <li><a href="https://www.earlyaviators.com/eburge.htm">Early Aviators – Vernon L. Burge</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196648/cpl-vernon-l-burge/">National Museum of the US Air Force – Cpl. Vernon L. Burge</a></li>
-    <li><a href="https://www.airuniversity.af.edu/Portals/10/AFEHRI/documents/EnlistedHistory/markley.pdf">Air University – Enlisted Heritage Paper: Corporal Vernon L. Burge</a></li>
-    <li><a href="https://www.hmdb.org/m.asp?m=95509">Historical Marker Database – Corporal Vernon L. Burge</a></li>
-    <li><a href="https://www.minneapolis.afrc.af.mil/News/Article-Display/Article/838496/enlisted-aviator-legacy-lives-on-at-934th-msrss-fly-day/">Minneapolis Air Reserve Station – Enlisted aviator legacy lives on</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Vernon_Burge" style="color: #315fea; text-decoration: none;">Wikipedia – Vernon Burge</a></li>
+    <li><a href="https://www.earlyaviators.com/eburge.htm" style="color: #315fea; text-decoration: none;">Early Aviators – Vernon L. Burge</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196648/cpl-vernon-l-burge/" style="color: #315fea; text-decoration: none;">National Museum of the US Air Force – Cpl. Vernon L. Burge</a></li>
+    <li><a href="https://www.airuniversity.af.edu/Portals/10/AFEHRI/documents/EnlistedHistory/markley.pdf" style="color: #315fea; text-decoration: none;">Air University – Enlisted Heritage Paper: Corporal Vernon L. Burge</a></li>
+    <li><a href="https://www.hmdb.org/m.asp?m=95509" style="color: #315fea; text-decoration: none;">Historical Marker Database – Corporal Vernon L. Burge</a></li>
+    <li><a href="https://www.minneapolis.afrc.af.mil/News/Article-Display/Article/838496/enlisted-aviator-legacy-lives-on-at-934th-msrss-fly-day/" style="color: #315fea; text-decoration: none;">Minneapolis Air Reserve Station – Enlisted aviator legacy lives on</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La certificación de Burge como piloto (14 de junio de 1912) fue posible gracias a la instrucción del teniente Frank Lahm en Filipinas, a pesar de la oposición inicial del Departamento de Guerra. El certificado N.º 154 de la FAI acredita a Burge como el primer soldado de tropa (enlisted man) de EE. UU. en lograr esta distinción, abriendo el camino a más de 4.500 aviadores de tropa que le seguirían. Además de su faceta como piloto, Burge fue coinventor del primer tren de aterrizaje triciclo de la historia, instalado en el Signal Corps Airplane No. 1 en agosto de 1910.</p>
@@ -137,7 +137,7 @@ Su fotografía cuelga en el McDaniel Center de la Base Aérea de Kadena, en Jap�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-10 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Early Aviators, National Museum of the US Air Force, Air University, Historical Marker Database, Minneapolis Air Reserve Station
 - **Discrepancias resueltas:** La fecha de certificación de Burge como piloto FAI es el 14 de junio de 1912. El certificado N.º 154 fue emitido en esa fecha. Su primer vuelo en solitario fue el 1 de marzo de 1912. El total de horas de vuelo (4.667 horas y 55 minutos) está confirmado por fuentes oficiales del Museo Nacional de la Fuerza Aérea.
 - **Nivel de confianza:** Alto

@@ -113,9 +113,9 @@ Su figura ilustra también un fenómeno más amplio: el de los aviadores europeo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-30 08:33:37 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** ficha biográfica de Lucien Morareau (ARDHAN) en el Forum PAGES 14-18; telegrama de prensa de 1926 reproducido por el cronista de Guanare a partir de la obra de Quintero García.
-- **Fuentes secundarias de contraste:** FAV-CLUB, El Universal, Museo del Transporte de Caracas, Wikipedia en español e inglés, borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** FAV-CLUB, El Universal, Museo del Transporte de Caracas, Wikipedia en español e inglés.
 - **Discrepancias resueltas:** se corrigió la fecha de nacimiento de 3 de agosto de 1897 a 6 de mayo de 1892, conforme a la única fuente especializada con datos de estado civil y por coherencia con las fechas de obtención de sus brevets; se dejó constancia de la divergencia entre el grado francés de maestre piloto y la designación venezolana de Alférez de Navío; se adoptó el 20 de marzo de 1926 como fecha del vuelo a Guanare según el telegrama de la época.
 - **Nivel de confianza:** Medio
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

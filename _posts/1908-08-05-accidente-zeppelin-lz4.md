@@ -114,7 +114,8 @@ Queda también una lección técnica que el episodio dejó planteada y que la ae
 - <a href="https://es.wikipedia.org/wiki/Zeppelin" style="color: #315fea; text-decoration: none;">Zeppelin — Wikipedia en español</a>
 - <a href="https://en.wikipedia.org/wiki/DELAG" style="color: #315fea; text-decoration: none;">DELAG — Wikipedia en inglés</a>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes difieren en la estimación de asistentes: las recopilaciones divulgativas hablan de cien mil personas congregadas en Echterdingen, mientras que la cifra recogida por <em>The Times</em> el 6 de agosto de 1908, citada por la referencia enciclopédica en inglés, sitúa entre cuarenta mil y cincuenta mil los testigos del incendio. Se ha adoptado esta última por proceder de una fuente contemporánea a los hechos. Existe también divergencia sobre el importe exacto de la colecta, cifrado entre seis y seis millones y medio de marcos según la fuente; se consigna como superior a seis millones, dato en el que todas coinciden. Respecto a la mecánica del accidente, algunas versiones atribuyen la ignición al roce con los árboles y otras precisan que la chispa se originó por la carga electrostática generada al desgarrarse el algodón engomado de las celdas de gas, explicación que recoge la bibliografía especializada citada por Wikipedia en inglés. La fotografía que ilustra esta efeméride es anterior al suceso y muestra el dirigible intacto en julio de 1908, semanas antes de su destrucción.</p>
 </div>
@@ -122,9 +123,9 @@ Queda también una lección técnica que el episodio dejó planteada y que la ae
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-01 09:02:55 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** la referencia contemporánea más próxima al hecho es la crónica de *The Times* del 6 de agosto de 1908, citada por la bibliografía especializada.
-- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, This Day in Aviation, Airships.net, borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, This Day in Aviation, Airships.net.
 - **Discrepancias resueltas:** se adoptó la horquilla de 40.000 a 50.000 testigos procedente de *The Times*, frente a los cien mil de las recopilaciones divulgativas; se consignó la colecta como superior a seis millones de marcos, ante la divergencia entre seis y seis millones y medio; se precisó la causa de la ignición conforme a la bibliografía especializada; se omitió una frase atribuida al conde von Zeppelin al conocer la noticia, procedente del testimonio posterior de Ernst Heinkel y no contrastada en fuentes contemporáneas.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

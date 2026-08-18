@@ -34,7 +34,7 @@ image: 1919-02-05-primer-servicio-aereo-regular-correo-europa.jpg
 - **Costo de billete sencillo Berlín–Weimar:** 450 marcos  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Contexto histórico
+## Contexto Histórico
 El servicio aéreo de la DLR surgió en un momento de crisis de transporte terrestre en Alemania, tras la Primera Guerra Mundial.
 
 ### Entorno social
@@ -60,16 +60,16 @@ El servicio aéreo postal demostró la eficiencia del transporte aéreo frente a
 De la DLR, Lufthansa heredó el logo de la grulla diseñado por Otto Firle en 1918, uno de los símbolos corporativos más antiguos aún en uso.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://dahajm.hannover-airport.de/airlines/ab-durch-die-luft-hundert-jahre-zivile-luftfahrt/">Hannover Airport – Hundert Jahre zivile Luftfahrt</a></li>
-    <li><a href="https://fotoarchiv.weimar.de/detail/11979/erstellungsdatum/desc/193/">Fotoarchiv Weimar – Eröffnung der Thüringer Luftpost</a></li>
-    <li><a href="https://berlingeschichte.de/bms/bmstxt99/9902novc.htm">Berlin Geschichte – 5. Februar 1919</a></li>
-    <li><a href="https://www.airwaysmag.com/new-post/deutsche-luft-reederei-maiden-flight">Airways Magazine – Deutsche Luft-Reederei Maiden Flight</a></li>
-    <li><a href="https://newsroom.lufthansagroup.com/100-jahre-ziviler-luftverkehr-in-deutschland/">Lufthansa Group – 100 Jahre ziviler Luftverkehr</a></li>
-    <li><a href="http://mdr-kommentare.de/geschichte/zeitgeschichte-gegenwart/wirtschaft/airline-deutsche-luftreederei-lufthansa-kranich-100.html">MDR – Deutschlands erste Airline</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/AEG_J.I">Wikipedia (EN) – AEG J.I</a></li>
+    <li><a href="https://dahajm.hannover-airport.de/airlines/ab-durch-die-luft-hundert-jahre-zivile-luftfahrt/" style="color: #315fea; text-decoration: none;">Hannover Airport – Hundert Jahre zivile Luftfahrt</a></li>
+    <li><a href="https://fotoarchiv.weimar.de/detail/11979/erstellungsdatum/desc/193/" style="color: #315fea; text-decoration: none;">Fotoarchiv Weimar – Eröffnung der Thüringer Luftpost</a></li>
+    <li><a href="https://berlingeschichte.de/bms/bmstxt99/9902novc.htm" style="color: #315fea; text-decoration: none;">Berlin Geschichte – 5. Februar 1919</a></li>
+    <li><a href="https://www.airwaysmag.com/new-post/deutsche-luft-reederei-maiden-flight" style="color: #315fea; text-decoration: none;">Airways Magazine – Deutsche Luft-Reederei Maiden Flight</a></li>
+    <li><a href="https://newsroom.lufthansagroup.com/100-jahre-ziviler-luftverkehr-in-deutschland/" style="color: #315fea; text-decoration: none;">Lufthansa Group – 100 Jahre ziviler Luftverkehr</a></li>
+    <li><a href="http://mdr-kommentare.de/geschichte/zeitgeschichte-gegenwart/wirtschaft/airline-deutsche-luftreederei-lufthansa-kranich-100.html" style="color: #315fea; text-decoration: none;">MDR – Deutschlands erste Airline</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/AEG_J.I" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – AEG J.I</a></li>
   </ul>
 </div>
 
@@ -81,8 +81,8 @@ De la DLR, Lufthansa heredó el logo de la grulla diseñado por Otto Firle en 19
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-03-04 14:40 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Hannover Airport, Fotoarchiv Weimar, Berlin Geschichte, Airways Magazine, Lufthansa Group, MDR  
 - **Discrepancias resueltas:** Fecha inaugural (5 vs. 6 de febrero de 1919)  
 - **Nivel de confianza:** Alto  

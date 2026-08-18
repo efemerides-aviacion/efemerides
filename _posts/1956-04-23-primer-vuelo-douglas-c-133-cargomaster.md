@@ -153,13 +153,13 @@ El C-133 Cargomaster es recordado como el único transporte estratégico turboh�
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Douglas_C-133_Cargomaster">Wikipedia (EN) - Douglas C-133 Cargomaster</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198055/douglas-c-133a-cargo-master/">National Museum of the USAF - Douglas C-133A Cargo Master</a></li>
-    <li><a href="https://fr.wikipedia.org/wiki/Douglas_C-133">Wikipédia (FR) - Douglas C-133 Cargomaster</a></li>
-    <li><a href="http://wayback.qa-archive-it.org/all/20081030015007/http://en.wikipedia.org/wiki/C-133_Cargomaster">Wikipedia (archivo) - C-133 Cargomaster</a></li>
-    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-douglas-c-133-cargomaster.html">Vintage Aviation News - First Flight of the Douglas C-133 Cargomaster</a></li>
-    <li><a href="https://www.flugrevue.de/klassiker/grossfrachter-douglas-c-133-cargomaster/">Flug Revue - Großfrachter Douglas C-133 Cargomaster</a></li>
-    <li><a href="https://aviation-safety.net/asndb/type/C133">Aviation Safety Network - Douglas C-133 Cargomaster</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Douglas_C-133_Cargomaster" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Douglas C-133 Cargomaster</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198055/douglas-c-133a-cargo-master/" style="color: #315fea; text-decoration: none;">National Museum of the USAF - Douglas C-133A Cargo Master</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Douglas_C-133" style="color: #315fea; text-decoration: none;">Wikipédia (FR) - Douglas C-133 Cargomaster</a></li>
+    <li><a href="http://wayback.qa-archive-it.org/all/20081030015007/http://en.wikipedia.org/wiki/C-133_Cargomaster" style="color: #315fea; text-decoration: none;">Wikipedia (archivo) - C-133 Cargomaster</a></li>
+    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-douglas-c-133-cargomaster.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News - First Flight of the Douglas C-133 Cargomaster</a></li>
+    <li><a href="https://www.flugrevue.de/klassiker/grossfrachter-douglas-c-133-cargomaster/" style="color: #315fea; text-decoration: none;">Flug Revue - Großfrachter Douglas C-133 Cargomaster</a></li>
+    <li><a href="https://aviation-safety.net/asndb/type/C133" style="color: #315fea; text-decoration: none;">Aviation Safety Network - Douglas C-133 Cargomaster</a></li>
   </ul>
 </div>
 
@@ -167,7 +167,7 @@ El C-133 Cargomaster es recordado como el único transporte estratégico turboh�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-21 09:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** National Museum of the USAF, Wikipedia (EN/FR/archivo), Vintage Aviation News, Flug Revue, Aviation Safety Network
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (23 de abril de 1956). Existe una ligera discrepancia en el número exacto de C-133A vs C-133B construidos (35/15 según el Museo de la USAF; 32/18 según otras fuentes). La cifra total de 50 unidades es consistente. La tripulación varía entre 4 y 6 miembros según la fuente.
 - **Nivel de confianza:** Alto

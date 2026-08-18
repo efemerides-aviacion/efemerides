@@ -33,7 +33,7 @@ image: 1965-02-25-primer-vuelo-douglas-dc-9.jpg
 - **Cliente de lanzamiento:** Delta Air Lines (entrada en servicio: 8 de diciembre de 1965)  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Contexto histórico
+## Contexto Histórico
 El primer vuelo del Douglas DC‑9 en 1965 marcó un hito en la aviación comercial, al responder a la creciente necesidad de aviones de corto y medio alcance para rutas de alta frecuencia. Con su diseño bimotor de pasillo único y motores traseros, el DC‑9 se convirtió en un modelo emblemático de la transición hacia una aviación más accesible y eficiente, consolidando la posición de Douglas en el mercado global.
 
 ### Entorno social
@@ -76,8 +76,8 @@ Más de 2.400 aeronaves de la familia DC‑9/MD‑80 siguen operando en el mundo
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, This Day in Aviation, Delta Flight Museum, Boeing Historical Snapshot  
 - **Discrepancias resueltas:** Confirmación de fecha de aprobación del programa (abril 1963) y fecha de certificación FAA (noviembre 1965).  
 - **Nivel de confianza:** Alto  

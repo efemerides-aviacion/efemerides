@@ -146,9 +146,9 @@ Queda por último la dimensión que la ciudad ha reivindicado por sí misma. Nag
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-03 16:24:29 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Departamento de Energía de Estados Unidos, historia oficial del Proyecto Manhattan, con referencia al informe del Manhattan Engineer District de 1947; National Museum of the United States Air Force, relato de la misión y ficha técnica del arma; Harry S. Truman Presidential Library; National Museum of Nuclear Science and History.
-- **Fuentes secundarias de contraste:** The National WWII Museum, con el relato de la misión y las cifras de víctimas; Pacific Wrecks, con el historial documentado de los B-29 Silverplate implicados; Wikipedia en inglés y en español; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** The National WWII Museum, con el relato de la misión y las cifras de víctimas; Pacific Wrecks, con el historial documentado de los B-29 Silverplate implicados; Wikipedia en inglés y en español.
 - **Discrepancias resueltas:** se consignaron los valores aproximados divergentes de víctimas en lugar de adoptar una cifra única, dada la imposibilidad material de establecerla; se registró la divergencia sobre la altura de detonación y sobre la hora del lanzamiento; se precisó que el error de puntería desplazó la detonación unos 2,4 kilómetros respecto al punto previsto; se aclaró la permuta de aeronaves entre las tripulaciones de Sweeney y Bock, origen de una confusión frecuente sobre qué avión lanzó el arma.
 - **Datos no confirmados:** el número exacto de prisioneros de guerra aliados fallecidos en el ataque, que las fuentes sitúan entre ocho y trece sin coincidencia documental.
 - **Nivel de confianza:** Alto

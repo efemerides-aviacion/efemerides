@@ -112,15 +112,15 @@ El accidente del vuelo 518 de Santa Bárbara Airlines sigue siendo, hasta 2026, 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://aviation-safety.net/asndb/321766">Aviation Safety Network – Accident ATR 42-300 YV1449, 21 February 2008</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_518_de_Santa_B%C3%A1rbara_Airlines">Wikipedia (ES) – Vuelo 518 de Santa Bárbara Airlines</a></li>
-    <li><a href="https://simpleflying.com/santa-barbara-airlines-flight-518-atr-42-crash-story/">Simple Flying – Santa Bárbara Airlines Flight 518</a></li>
-    <li><a href="https://www.imdb.com/title/tt2399917/">IMDb – Mayday: "28 Seconds to Survive" (2014)</a></li>
-    <li><a href="https://watch.plex.tv/show/mayday-1/season/12/episode/12">Plex – Mayday Season 12 Episode 12</a></li>
+    <li><a href="https://aviation-safety.net/asndb/321766" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Accident ATR 42-300 YV1449, 21 February 2008</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_518_de_Santa_B%C3%A1rbara_Airlines" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vuelo 518 de Santa Bárbara Airlines</a></li>
+    <li><a href="https://simpleflying.com/santa-barbara-airlines-flight-518-atr-42-crash-story/" style="color: #315fea; text-decoration: none;">Simple Flying – Santa Bárbara Airlines Flight 518</a></li>
+    <li><a href="https://www.imdb.com/title/tt2399917/" style="color: #315fea; text-decoration: none;">IMDb – Mayday: "28 Seconds to Survive" (2014)</a></li>
+    <li><a href="https://watch.plex.tv/show/mayday-1/season/12/episode/12" style="color: #315fea; text-decoration: none;">Plex – Mayday Season 12 Episode 12</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La categoría original del post estaba mal escrita como "aviacio-accidente". Ha sido corregida a "aviacion-accidente". El accidente del vuelo 518 fue, en su momento, el más mortífero de un ATR 42. Desde entonces, otros accidentes (como el de Vuelo 691 de Trigana Air Service en 2015 con 54 fallecidos) han superado esta cifra, pero sigue siendo el más trágico en la historia del operador. La altitud del impacto (3.810 m) es inusualmente alta para un accidente aéreo, lo que dificultó las labores de rescate.</p>
@@ -129,7 +129,7 @@ El accidente del vuelo 518 de Santa Bárbara Airlines sigue siendo, hasta 2026, 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-03 16:30 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Aviation Safety Network, Wikipedia (ES), Simple Flying, IMDb, Plex
 - **Discrepancias resueltas:** Categoría corregida (aviacion-accidente); tiempo de inicialización AHRS aclarado (28 segundos vs 3 minutos); altitud de impacto confirmada (3.810 m)
 - **Nivel de confianza:** Alto

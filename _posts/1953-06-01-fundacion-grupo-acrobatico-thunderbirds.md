@@ -172,14 +172,14 @@ Los Thunderbirds son considerados **"los embajadores azules"** de la Fuerza Aér
   <p><strong>2. Primeras exhibiciones:</strong> La primera exhibición pública fue el 16 de junio de 1953 en Williams AFB, Mesa, Arizona. La primera exhibición en un espectáculo civil fue en Cheyenne Frontier Days, Wyoming, en julio de 1953.</p>
   <p><strong>3. El nombre "Thunderbirds":</strong> El nombre fue adoptado poco después de la activación. Los Thunderbirds han mantenido el mismo nombre desde 1953, siendo uno de los equipos acrobáticos más antiguos del mundo bajo la misma denominación.</p>
   <p><strong>4. Linaje histórico:</strong> Aunque los Thunderbirds como equipo de demostración se fundaron en 1953, la unidad actual porta el linaje del 30th Aero Squadron, formado en 1917. Esto la convierte en una de las unidades más antiguas de la Fuerza Aérea, aunque el equipo acrobático en sí data de 1953.</p>
-  <p><strong>5. Relación con otros equipos acrobáticos:</strong> Los Thunderbirds son el tercer equipo acrobático formal más antiguo del mundo, después de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1931/05/10/fundacion-patrouille-d-etampes.html" style="color: #1b5e20; text-decoration: none;">Patrouille de France</a> (1931) y los <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1946/04/24/fundacion-equipo-acrobatico-blue-angels.html" style="color: #1b5e20; text-decoration: none;">Blue Angels</a> (1946).</p>
+  <p><strong>5. Relación con otros equipos acrobáticos:</strong> Los Thunderbirds son el tercer equipo acrobático formal más antiguo del mundo, después de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1931/05/10/fundacion-patrouille-d-etampes.html" style="color: #315fea; text-decoration: none;">Patrouille de France</a> (1931) y los <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1946/04/24/fundacion-equipo-acrobatico-blue-angels.html" style="color: #315fea; text-decoration: none;">Blue Angels</a> (1946).</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Code One Magazine, Wikipedia, Britannica, Homestead AFB, DVIDS, Pacific Wrecks
 - **Discrepancias resueltas:** Confirmación de la fecha oficial de activación (1 de junio de 1953) frente a menciones de "mayo de 1953" en fuentes generalistas. Verificación del avión inicial (F-84G Thunderjet) y de la primera exhibición (16 de junio de 1953). Corrección de la fecha del accidente de 1982 (18 de enero, no "enero" sin día).
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales, incluyendo la Fuerza Aérea de EE. UU., coinciden en los datos fundamentales)

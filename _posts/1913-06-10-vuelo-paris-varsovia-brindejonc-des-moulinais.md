@@ -134,16 +134,16 @@ El «aviador de Pleurtuit» (como se le apodaba) representa el espíritu de una 
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Marcel_Brindejonc_des_Moulinais">Wikipedia (EN) – Marcel Brindejonc des Moulinais</a></li>
-    <li><a href="https://fr.wikipedia.org/wiki/Marcel_Brindejonc_des_Moulinais">Wikipedia (FR) – Marcel Brindejonc des Moulinais</a></li>
-    <li><a href="https://www.nytimes.com/1913/06/11/archives/flies-933-miles-in-thirteen-hours-brindejonc-des-moulainais-beats.html">The New York Times – Flies 933 Miles in Thirteen Hours (11 de junio de 1913)</a></li>
-    <li><a href="https://www.duboysfresney.fr/downloaddocu/docu4088.pdf">Docu4088 – L'aviateur Marcel Brindejonc des Moulinais (1892-1916)</a></li>
-    <li><a href="https://pupille-orphelin.fr/wp-content/uploads/2023/10/brindej.pdf">Pupille Orphelin – Marcel-Georges Brindejonc des Moulinais</a></li>
-    <li><a href="https://www.bonhams.com/auction/21999/lot/50/a-fine-sterling-silver-model-of-a-morane-saulnier-type-h-monoplane-by-mappin-and-webb/">Bonhams – Morane-Saulnier Type H monoplane (especificaciones técnicas)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Marcel_Brindejonc_des_Moulinais" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Marcel Brindejonc des Moulinais</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Marcel_Brindejonc_des_Moulinais" style="color: #315fea; text-decoration: none;">Wikipedia (FR) – Marcel Brindejonc des Moulinais</a></li>
+    <li><a href="https://www.nytimes.com/1913/06/11/archives/flies-933-miles-in-thirteen-hours-brindejonc-des-moulainais-beats.html" style="color: #315fea; text-decoration: none;">The New York Times – Flies 933 Miles in Thirteen Hours (11 de junio de 1913)</a></li>
+    <li><a href="https://www.duboysfresney.fr/downloaddocu/docu4088.pdf" style="color: #315fea; text-decoration: none;">Docu4088 – L'aviateur Marcel Brindejonc des Moulinais (1892-1916)</a></li>
+    <li><a href="https://pupille-orphelin.fr/wp-content/uploads/2023/10/brindej.pdf" style="color: #315fea; text-decoration: none;">Pupille Orphelin – Marcel-Georges Brindejonc des Moulinais</a></li>
+    <li><a href="https://www.bonhams.com/auction/21999/lot/50/a-fine-sterling-silver-model-of-a-morane-saulnier-type-h-monoplane-by-mappin-and-webb/" style="color: #315fea; text-decoration: none;">Bonhams – Morane-Saulnier Type H monoplane (especificaciones técnicas)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Existen pequeñas variaciones entre fuentes sobre la hora exacta de salida y la distancia homologada. El New York Times de la época cita salida a las 3:55, mientras que documentos franceses mencionan 3:37. La distancia homologada oficialmente fue de 1.382,8 km, aunque la prensa reportó cifras redondeadas (1.500 km/933 millas). La fecha de nacimiento también presenta variación: el 8 de febrero según documentos franceses, el 18 de febrero según otras fuentes. Se ha priorizado la documentación primaria francesa.</p>
@@ -153,7 +153,7 @@ El «aviador de Pleurtuit» (como se le apodaba) representa el espíritu de una 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-06 15:45:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** The New York Times (1913), Wikipedia (EN/FR), Archivos franceses PDF, Bonhams
 - **Discrepancias resueltas:** Fecha de nacimiento (8 vs 18 de febrero): se usa 8 de febrero por ser la fecha en documentación primaria francesa; hora de salida (3:37 vs 3:55): se mantienen ambas en notas aclaratorias, priorizando la del NYT como fuente contemporánea.
 - **Nivel de confianza:** Alto

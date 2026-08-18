@@ -130,9 +130,9 @@ El Apolo 15 fue la primera misión cuya tripulación no pasó cuarentena al regr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-02 10:38:08 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA, página oficial de la misión, artículos históricos sobre el despliegue del vehículo lunar y documentación gráfica; Smithsonian National Air and Space Museum, ficha del módulo de mando conservado en su colección.
-- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia al informe oficial de la misión y a la cronología de Orloff y Harland; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia al informe oficial de la misión y a la cronología de Orloff y Harland.
 - **Discrepancias resueltas:** se consignó el recuento de cuatro actividades extravehiculares en superficie, incluida la de reconocimiento desde la escotilla, frente a las tres que citan las fuentes divulgativas; se adoptó la distancia de 27,9 kilómetros del informe oficial frente al redondeo a 28 de otras recopilaciones; se distinguió la masa terrestre del vehículo de su peso aparente en la gravedad lunar; se separó la fecha del primer uso del vehículo, 31 de julio, de la de conclusión de la misión.
 - **Datos no confirmados:** la duración exacta de la conducción efectiva del vehículo, que las fuentes cifran de manera divergente.
 - **Nivel de confianza:** Alto

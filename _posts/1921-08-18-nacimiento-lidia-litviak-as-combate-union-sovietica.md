@@ -93,8 +93,8 @@ Ciento cinco años después de su nacimiento, la «Rosa Blanca de Stalingrado» 
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Lydia_Litvyak">Wikipedia (inglés) - Lydia Litvyak</a></li>
-    <li><a href="https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/litvyak-lidiya-1921-1943">Encyclopedia.com - Litvyak, Lidiya (1921-1943) (Women in World History)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lydia_Litvyak" style="color: #315fea; text-decoration: none;">Wikipedia (inglés) - Lydia Litvyak</a></li>
+    <li><a href="https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/litvyak-lidiya-1921-1943" style="color: #315fea; text-decoration: none;">Encyclopedia.com - Litvyak, Lidiya (1921-1943) (Women in World History)</a></li>
   </ul>
 </div>
 
@@ -102,9 +102,9 @@ Ciento cinco años después de su nacimiento, la «Rosa Blanca de Stalingrado» 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-12 17:05:00 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** ninguna disponible para el período; la contrastación se apoyó en las secundarias siguientes
-- **Fuentes secundarias de contraste:** Wikipedia (inglés), Encyclopedia.com (Women in World History), borrador preliminar del investigador
+- **Fuentes secundarias de contraste:** Wikipedia (inglés), Encyclopedia.com (Women in World History)
 - **Discrepancias resueltas:** el palmarés figura como 12+3, 11+3 o 12+2 según autores; se redacta «12 individuales y 3 compartidas según la mayoría de las fuentes». La primera victoria femenina se atribuye a Litviak el 13 de septiembre de 1942 (archivos soviéticos) y por algunos historiadores a Valeria Jomiakova el 24 de septiembre; se adopta Litviak con nota en el cuerpo. El derribo adicional del 14 de septiembre (probable Hans Fuss) y el del 27 se omiten del conteo por no alterar el récord ni estar conciliados. La condecoración póstuma se fecha en 1990 sin día exacto por prudencia.
 - **Nivel de confianza:** Alto — núcleo del hecho respaldado por convergencia de fuentes secundarias independientes; sin fuentes primarias accesibles, como se declara arriba.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

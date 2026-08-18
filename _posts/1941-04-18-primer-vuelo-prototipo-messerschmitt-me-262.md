@@ -136,13 +136,13 @@ El Me 262 sigue siendo un símbolo del avance tecnológico alemán durante la Se
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Messerschmitt_Me_262">Wikipedia (ES) - Messerschmitt Me 262</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Messerschmitt_Me_262">Wikipedia (EN) - Messerschmitt Me 262</a></li>
-    <li><a href="https://en.m.wikipedia.org/wiki/Messerschmitt_Me_262_variants">Wikipedia (EN) - Messerschmitt Me 262 variants (prototipos)</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196266/messerschmitt-me-262a-schwalbe/">National Museum of the U.S. Air Force - Messerschmitt Me 262A Schwalbe</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Fritz_Wendel">Wikipedia (EN) - Fritz Wendel (piloto de pruebas)</a></li>
-    <li><a href="https://warhistory.org/@msw/article/me-262-schwalbe-i">WarHistory.org - Me 262 Schwalbe I</a></li>
-    <li><a href="https://www.flugrevue.de/klassiker/so-erlebten-testpiloten-den-strahljaeger-messerschmitt-me-262/">Flug Revue - So erlebten Testpiloten die Messerschmitt Me 262 (en alemán)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Messerschmitt_Me_262" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Messerschmitt Me 262</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Messerschmitt_Me_262" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Messerschmitt Me 262</a></li>
+    <li><a href="https://en.m.wikipedia.org/wiki/Messerschmitt_Me_262_variants" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Messerschmitt Me 262 variants (prototipos)</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196266/messerschmitt-me-262a-schwalbe/" style="color: #315fea; text-decoration: none;">National Museum of the U.S. Air Force - Messerschmitt Me 262A Schwalbe</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Fritz_Wendel" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Fritz Wendel (piloto de pruebas)</a></li>
+    <li><a href="https://warhistory.org/@msw/article/me-262-schwalbe-i" style="color: #315fea; text-decoration: none;">WarHistory.org - Me 262 Schwalbe I</a></li>
+    <li><a href="https://www.flugrevue.de/klassiker/so-erlebten-testpiloten-den-strahljaeger-messerschmitt-me-262/" style="color: #315fea; text-decoration: none;">Flug Revue - So erlebten Testpiloten die Messerschmitt Me 262 (en alemán)</a></li>
   </ul>
 </div>
 
@@ -150,7 +150,7 @@ El Me 262 sigue siendo un símbolo del avance tecnológico alemán durante la Se
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-16 08:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), National Museum of the USAF, Flug Revue, WarHistory.org
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre el primer vuelo con motor de pistón (18 de abril de 1941) y el primer vuelo con propulsión a reacción exitoso (18 de julio de 1942). También se ha documentado el intento fallido del 25 de marzo de 1942.
 - **Nivel de confianza:** Alto

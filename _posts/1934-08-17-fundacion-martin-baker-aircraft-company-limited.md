@@ -90,9 +90,9 @@ Noventa y dos años después de su constitución, Martin-Baker sigue siendo lo q
 
 <div class="references">
   <ul>
-    <li><a href="https://martin-baker.com/our-history/">Martin-Baker - Our History (sitio oficial)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Martin-Baker">Wikipedia (inglés) - Martin-Baker</a></li>
-    <li><a href="https://www.encyclopedia.com/books/politics-and-business-magazines/martin-baker-aircraft-company-limited">Encyclopedia.com - Martin-Baker Aircraft Company Limited (International Directory of Company Histories)</a></li>
+    <li><a href="https://martin-baker.com/our-history/" style="color: #315fea; text-decoration: none;">Martin-Baker - Our History (sitio oficial)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Martin-Baker" style="color: #315fea; text-decoration: none;">Wikipedia (inglés) - Martin-Baker</a></li>
+    <li><a href="https://www.encyclopedia.com/books/politics-and-business-magazines/martin-baker-aircraft-company-limited" style="color: #315fea; text-decoration: none;">Encyclopedia.com - Martin-Baker Aircraft Company Limited (International Directory of Company Histories)</a></li>
   </ul>
 </div>
 
@@ -100,9 +100,9 @@ Noventa y dos años después de su constitución, Martin-Baker sigue siendo lo q
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-12 15:40:00 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Martin-Baker (cronología oficial «Our History»)
-- **Fuentes secundarias de contraste:** Wikipedia (inglés), Encyclopedia.com (International Directory of Company Histories), borrador preliminar del investigador
+- **Fuentes secundarias de contraste:** Wikipedia (inglés), Encyclopedia.com (International Directory of Company Histories)
 - **Discrepancias resueltas:** el papel de Baker en 1929 figura como cofundador del taller en el borrador y como incorporación de 1934 en el directorio empresarial; se redacta taller de 1929 con Baker presente y constitución de la sociedad limitada el 17 de agosto de 1934. La cifra de vidas salvadas varía con la fecha de corte (7.000 en 2003, 7.360 en 2011, más de 7.800 según la compañía en 2026); se redacta «más de 7.800» atribuido a la compañía. La primera vida salvada se fecha el 30 de mayo de 1949 (Lancaster, A.W.52), conforme al sitio oficial y al directorio.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

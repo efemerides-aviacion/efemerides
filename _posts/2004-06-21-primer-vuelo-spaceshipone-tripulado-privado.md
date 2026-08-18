@@ -164,16 +164,16 @@ La influencia de SpaceShipOne puede rastrearse con claridad en la siguiente gene
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/SpaceShipOne">Wikipedia – SpaceShipOne</a></li>
-    <li><a href="https://www.elmundo.es/elmundo/2004/06/21/ciencia/1087831476.html">El Mundo – La nave 'SpaceShipOne' aterriza con éxito</a></li>
-    <li><a href="https://elpais.com/tecnologia/2004/06/03/actualidad/1086251278_850215.html">El País – SpaceShipOne, primera misión espacial tripulada con financiación privada</a></li>
-    <li><a href="https://computerhoy.20minutos.es/noticias/tecnologia/hace-ya-18-anos-fue-primer-vuelo-espacial-privado-spaceshipone-1080677">Computer Hoy – Hace ya 18 años fue el primer vuelo espacial privado</a></li>
-    <li><a href="https://us.cnn.com/2004/TECH/space/06/21/suborbital.test/index.html">CNN – Private craft soars into space, history</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/SpaceShipOne_flight_15P">Wikipedia – SpaceShipOne flight 15P</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/SpaceShipOne" style="color: #315fea; text-decoration: none;">Wikipedia – SpaceShipOne</a></li>
+    <li><a href="https://www.elmundo.es/elmundo/2004/06/21/ciencia/1087831476.html" style="color: #315fea; text-decoration: none;">El Mundo – La nave 'SpaceShipOne' aterriza con éxito</a></li>
+    <li><a href="https://elpais.com/tecnologia/2004/06/03/actualidad/1086251278_850215.html" style="color: #315fea; text-decoration: none;">El País – SpaceShipOne, primera misión espacial tripulada con financiación privada</a></li>
+    <li><a href="https://computerhoy.20minutos.es/noticias/tecnologia/hace-ya-18-anos-fue-primer-vuelo-espacial-privado-spaceshipone-1080677" style="color: #315fea; text-decoration: none;">Computer Hoy – Hace ya 18 años fue el primer vuelo espacial privado</a></li>
+    <li><a href="https://us.cnn.com/2004/TECH/space/06/21/suborbital.test/index.html" style="color: #315fea; text-decoration: none;">CNN – Private craft soars into space, history</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/SpaceShipOne_flight_15P" style="color: #315fea; text-decoration: none;">Wikipedia – SpaceShipOne flight 15P</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Esta efeméride conmemora el <strong>21 de junio de 2004</strong>, fecha del primer vuelo espacial tripulado con financiación privada (SpaceShipOne). La altitud de 100 km es la línea de Kármán, la frontera internacionalmente aceptada del espacio exterior. A pesar de los problemas técnicos durante el vuelo —un rolido inesperado y el bloqueo temporal de un sistema de control— el piloto Mike Melvill logró completar la misión con éxito y aterrizar sin daños. El SpaceShipOne fue diseñado por Burt Rutan y financiado por Paul Allen, cofundador de Microsoft.</p>
@@ -183,7 +183,7 @@ La influencia de SpaceShipOne puede rastrearse con claridad en la siguiente gene
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-17 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), El Mundo, El País, Computer Hoy, CNN, Wikipedia (flight 15P)
 - **Discrepancias resueltas:** La edad de Mike Melvill varía entre 62 y 63 años según las fuentes; se ha optado por 63 años por ser la más citada. La altitud exacta se confirma como 100,124 km. Se ha aclarado que el vuelo del 21 de junio fue una prueba de altitud para el Premio Ansari X, pero no fue un vuelo competitivo.
 - **Nivel de confianza:** Alto

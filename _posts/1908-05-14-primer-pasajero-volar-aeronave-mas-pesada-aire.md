@@ -134,11 +134,11 @@ Furnas encarna el espíritu de todos aquellos que, sin ser pilotos, hicieron pos
 
 <div class="references">
   <ul>
-    <li><a href="https://www.smithsonianmag.com/air-space-magazine/first-airplane-passenger-180963107/">Smithsonian Air & Space Magazine - The First Airplane Passenger</a></li>
-    <li><a href="https://www.thisdayinaviation.com/14-1908/">This Day in Aviation - 14 May 1908</a></li>
-    <li><a href="https://airandspace.si.edu/support/wall-of-honor/charles-william-furnas">National Air and Space Museum - Charles William Furnas</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/1908_in_aviation">Wikipedia - 1908 in aviation</a></li>
-    <li><a href="https://docsteach.org/documents/document/report-airplane-crash">DocsTeach - Report of Airplane Crash (National Archives)</a></li>
+    <li><a href="https://www.smithsonianmag.com/air-space-magazine/first-airplane-passenger-180963107/" style="color: #315fea; text-decoration: none;">Smithsonian Air & Space Magazine - The First Airplane Passenger</a></li>
+    <li><a href="https://www.thisdayinaviation.com/14-1908/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 14 May 1908</a></li>
+    <li><a href="https://airandspace.si.edu/support/wall-of-honor/charles-william-furnas" style="color: #315fea; text-decoration: none;">National Air and Space Museum - Charles William Furnas</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/1908_in_aviation" style="color: #315fea; text-decoration: none;">Wikipedia - 1908 in aviation</a></li>
+    <li><a href="https://docsteach.org/documents/document/report-airplane-crash" style="color: #315fea; text-decoration: none;">DocsTeach - Report of Airplane Crash (National Archives)</a></li>
   </ul>
 </div>
 
@@ -146,7 +146,7 @@ Furnas encarna el espíritu de todos aquellos que, sin ser pilotos, hicieron pos
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-12 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Smithsonian Air & Space Magazine, National Air and Space Museum, This Day in Aviation, Wikipedia, DocsTeach (National Archives)
 - **Discrepancias resueltas:** Las fuentes son consistentes en la fecha (14 de mayo de 1908) y los detalles de los vuelos. La duración del primer vuelo varía ligeramente entre 28 y 29 segundos; se ha incluido el rango.
 - **Nivel de confianza:** Alto

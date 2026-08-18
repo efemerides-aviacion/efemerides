@@ -123,16 +123,16 @@ El P-80R, apodado «Racey» por sus modificaciones, permanece en exhibición en 
 
 <div class="references">
   <ul>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195772/lockheed-p-80r/">National Museum of the USAF – Lockheed P-80R fact sheet</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star">Wikipedia – Lockheed P-80 Shooting Star</a></li>
-    <li><a href="https://simbolicodecaza.org/lockheed-f-80c-shooting-star/">Simbólico de Caza – Lockheed F-80C "Shooting Star"</a></li>
-    <li><a href="https://1000aircraftphotos.com/Contributions/PippinBill/8156.html">1000 Aircraft Photos – Pippin Bill</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/44-85200/">This Day in Aviation – 44-85200</a></li>
-    <li><a href="https://www.airhistory.net/photo/862569/44-85200/485200">Air History – 44-85200</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195772/lockheed-p-80r/" style="color: #315fea; text-decoration: none;">National Museum of the USAF – Lockheed P-80R fact sheet</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star" style="color: #315fea; text-decoration: none;">Wikipedia – Lockheed P-80 Shooting Star</a></li>
+    <li><a href="https://simbolicodecaza.org/lockheed-f-80c-shooting-star/" style="color: #315fea; text-decoration: none;">Simbólico de Caza – Lockheed F-80C "Shooting Star"</a></li>
+    <li><a href="https://1000aircraftphotos.com/Contributions/PippinBill/8156.html" style="color: #315fea; text-decoration: none;">1000 Aircraft Photos – Pippin Bill</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/44-85200/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 44-85200</a></li>
+    <li><a href="https://www.airhistory.net/photo/862569/44-85200/485200" style="color: #315fea; text-decoration: none;">Air History – 44-85200</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El récord se estableció el 19 de junio de 1947. Aunque posteriormente fue superado en múltiples ocasiones, el logro de Boyd fue histórico por ser la primera vez que un avión superó los 1.000 km/h. Algunas fuentes citan la velocidad como 623,8 mph (1.004,2 km/h) o 623,73 mph (1.003,8 km/h). La cifra oficial de la FAI es 1.004,2 km/h. El P-80R se construyó a partir del XP-80B 44-85200, no de un P-80A estándar. El coronel Boyd también estableció el récord anterior de 616 mph (991 km/h) en 1946 con un P-80 estándar.</p>
@@ -143,7 +143,7 @@ El P-80R, apodado «Racey» por sus modificaciones, permanece en exhibición en 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-15 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** National Museum of the USAF, Wikipedia, Simbólico de Caza, This Day in Aviation, Air History, 1000 Aircraft Photos
 - **Discrepancias resueltas:** Algunas fuentes citan la velocidad como 623,8 mph (1.004,2 km/h) o 623,73 mph (1.003,8 km/h). Se ha adoptado la cifra oficial del National Museum of the USAF. Se ha confirmado que la aeronave era un XP-80B modificado, no un P-80A estándar.
 - **Nivel de confianza:** Alto

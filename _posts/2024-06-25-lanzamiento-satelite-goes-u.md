@@ -119,16 +119,16 @@ Con el lanzamiento del GOES-U, la NOAA y la NASA han completado una flota de sat
 
 <div class="references">
   <ul>
-    <li><a href="https://www.nesdis.noaa.gov/news/noaas-goes-u-heads-orbit-historic-mission">NOAA – GOES-U Heads To Orbit</a></li>
-    <li><a href="https://www.nasa.gov/news-release/nasa-spacex-launch-noaas-latest-weather-satellite/">NASA – GOES-U Launch Press Release</a></li>
-    <li><a href="https://science.nasa.gov/blogs/goes/2024/06/25/meet-the-goes-u-weather-satellite-science-instruments/">NASA Science – Meet GOES-U</a></li>
-    <li><a href="https://www.nesdis.noaa.gov/news/noaas-goes-u-reaches-geostationary-orbit-now-designated-goes-19">NOAA – GOES-U Reaches Geostationary Orbit</a></li>
-    <li><a href="https://goes-r.noaa.gov/users/transitionToOperations19.html">NOAA/NASA – GOES-19 Transition to Operations</a></li>
-    <li><a href="https://efe.com/ciencia-y-tecnologia/2024-06-26/despega-con-exito-desde-florida-satelite-meteorologico-goes-u/">EFE – Despega GOES-U</a></li>
+    <li><a href="https://www.nesdis.noaa.gov/news/noaas-goes-u-heads-orbit-historic-mission" style="color: #315fea; text-decoration: none;">NOAA – GOES-U Heads To Orbit</a></li>
+    <li><a href="https://www.nasa.gov/news-release/nasa-spacex-launch-noaas-latest-weather-satellite/" style="color: #315fea; text-decoration: none;">NASA – GOES-U Launch Press Release</a></li>
+    <li><a href="https://science.nasa.gov/blogs/goes/2024/06/25/meet-the-goes-u-weather-satellite-science-instruments/" style="color: #315fea; text-decoration: none;">NASA Science – Meet GOES-U</a></li>
+    <li><a href="https://www.nesdis.noaa.gov/news/noaas-goes-u-reaches-geostationary-orbit-now-designated-goes-19" style="color: #315fea; text-decoration: none;">NOAA – GOES-U Reaches Geostationary Orbit</a></li>
+    <li><a href="https://goes-r.noaa.gov/users/transitionToOperations19.html" style="color: #315fea; text-decoration: none;">NOAA/NASA – GOES-19 Transition to Operations</a></li>
+    <li><a href="https://efe.com/ciencia-y-tecnologia/2024-06-26/despega-con-exito-desde-florida-satelite-meteorologico-goes-u/" style="color: #315fea; text-decoration: none;">EFE – Despega GOES-U</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El lanzamiento del GOES-U ocurrió el <strong>25 de junio de 2024</strong> a las 5:26 p.m. EDT (21:26 UTC). El satélite fue renombrado como <strong>GOES-19</strong> el 7 de julio de 2024, tras alcanzar su órbita geoestacionaria. GOES-19 se convirtió en el satélite operacional GOES East el 7 de abril de 2025, reemplazando a GOES-16. El instrumento CCOR-1 es el primer coronógrafo operacional en un satélite GOES y permitirá monitorear las eyecciones de masa coronal.</p>
@@ -138,7 +138,7 @@ Con el lanzamiento del GOES-U, la NOAA y la NASA han completado una flota de sat
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-21 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** NOAA, NASA, EFE
 - **Discrepancias resueltas:** Algunas fuentes citan la hora de despliegue a las 10:18 p.m. EDT, otras a las 9:56 p.m. EDT. Se ha optado por la hora de confirmación del despliegue de paneles solares (10:18 p.m.) como la más documentada.
 - **Nivel de confianza:** Alto

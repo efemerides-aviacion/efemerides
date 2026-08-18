@@ -105,16 +105,16 @@ La colisión de Picardía de 1922 es recordada como el primer accidente de su ti
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/1922_Picardie_mid-air_collision">Wikipedia (EN) – 1922 Picardie mid-air collision</a></li>
-    <li><a href="https://fr.wikipedia.org/wiki/Collision_a%C3%A9rienne_de_1922_en_Picardie">Wikipedia (FR) – Collision aérienne de 1922 en Picardie</a></li>
-    <li><a href="https://aviation-safety.net/wikibase/342570">Aviation Safety Network – Farman F.60 Goliath F-GEAD</a></li>
-    <li><a href="https://aviation-safety.net/wikibase/26557">Aviation Safety Network – de Havilland DH.18A G-EAWO</a></li>
-    <li><a href="https://www.guinnessworldrecords.com/world-records/107420-first-mid-air-collision-of-airliners">Guinness World Records – First mid-air collision of airliners</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/List_of_mid-air_collisions">Wikipedia – List of mid-air collisions</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/1922_Picardie_mid-air_collision" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – 1922 Picardie mid-air collision</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Collision_a%C3%A9rienne_de_1922_en_Picardie" style="color: #315fea; text-decoration: none;">Wikipedia (FR) – Collision aérienne de 1922 en Picardie</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/342570" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Farman F.60 Goliath F-GEAD</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/26557" style="color: #315fea; text-decoration: none;">Aviation Safety Network – de Havilland DH.18A G-EAWO</a></li>
+    <li><a href="https://www.guinnessworldrecords.com/world-records/107420-first-mid-air-collision-of-airliners" style="color: #315fea; text-decoration: none;">Guinness World Records – First mid-air collision of airliners</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/List_of_mid-air_collisions" style="color: #315fea; text-decoration: none;">Wikipedia – List of mid-air collisions</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Este accidente es reconocido como la primera colisión aérea entre dos aviones comerciales. Sin embargo, hubo colisiones anteriores entre aeronaves militares o entre aviones y otros objetos. La altitud de vuelo (150 m) era inusualmente baja para la ruta, debido a las malas condiciones meteorológicas. Los pilotos utilizaban la línea de ferrocarril como referencia visual, lo que los llevó a volar en la misma trayectoria en sentidos opuestos. La imagen utilizada en esta efeméride es una composición ilustrativa y corresponde a aeronaves del mismo modelo.</p>
@@ -123,7 +123,7 @@ La colisión de Picardía de 1922 es recordada como el primer accidente de su ti
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-04 10:30 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN, FR, NO), Aviation Safety Network, Guinness World Records
 - **Discrepancias resueltas:** No se encontraron discrepancias significativas entre las fuentes. Todos los datos clave coinciden.
 - **Nivel de confianza:** Alto

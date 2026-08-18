@@ -13,7 +13,7 @@ image: 1956-06-30-colision-aerea-vuelo-718-united-vuelo-2-twa-gran-canon.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1956-06-30-colision-aerea-vuelo-718-united-vuelo-2-twa-gran-canon.webp" alt="Impresión artística de la colisión aérea sobre el Gran Cañón en 1956">
-  <figcaption class="post-caption">Esta impresión artística de LIFE Magazine de 1957 es la representación más precisa de la colisión. (LIFE Magazine). Imagen: <a href="https://miro.medium.com/v2/resize:fit:700/0*p0uHUJgx1w6-5xaI.jpg">colisión aérea sobre el Gran Cañón</a>, vía Admiral Cloudberg / Medium.</figcaption>
+  <figcaption class="post-caption">Esta impresión artística de LIFE Magazine de 1957 es la representación más precisa de la colisión. (LIFE Magazine). Imagen: <a href="https://miro.medium.com/v2/resize:fit:700/0*p0uHUJgx1w6-5xaI.jpg" style="color: #315fea; text-decoration: none;">colisión aérea sobre el Gran Cañón</a>, vía Admiral Cloudberg / Medium.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -89,18 +89,18 @@ La colisión aérea del Gran Cañón de 1956 sigue siendo recordada como el acci
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/1956_Grand_Canyon_mid-air_collision">Wikipedia (EN) – 1956 Grand Canyon mid-air collision</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Colisi%C3%B3n_a%C3%A9rea_en_el_Gran_Ca%C3%B1%C3%B3n_de_1956">Wikipedia (ES) – Colisión aérea en el Gran Cañón de 1956</a></li>
-    <li><a href="https://www.faa.gov/lessons_learned/transport_airplane/accidents/N6902C">FAA – Lockheed L-1049 Super Constellation and Douglas DC-7</a></li>
-    <li><a href="https://www.historynet.com/fatal-airliner-collision-over-the-grand-canyon/">HistoryNet – Fatal Airliner Collision Over the Grand Canyon</a></li>
-    <li><a href="https://admiralcloudberg.medium.com/into-the-abyss-the-1956-grand-canyon-mid-air-collision-4dc9ba38f79a">Admiral Cloudberg – Into the Abyss: The 1956 Grand Canyon Mid-air Collision</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/1956_Grand_Canyon_mid-air_collision" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – 1956 Grand Canyon mid-air collision</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Colisi%C3%B3n_a%C3%A9rea_en_el_Gran_Ca%C3%B1%C3%B3n_de_1956" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Colisión aérea en el Gran Cañón de 1956</a></li>
+    <li><a href="https://www.faa.gov/lessons_learned/transport_airplane/accidents/N6902C" style="color: #315fea; text-decoration: none;">FAA – Lockheed L-1049 Super Constellation and Douglas DC-7</a></li>
+    <li><a href="https://www.historynet.com/fatal-airliner-collision-over-the-grand-canyon/" style="color: #315fea; text-decoration: none;">HistoryNet – Fatal Airliner Collision Over the Grand Canyon</a></li>
+    <li><a href="https://admiralcloudberg.medium.com/into-the-abyss-the-1956-grand-canyon-mid-air-collision-4dc9ba38f79a" style="color: #315fea; text-decoration: none;">Admiral Cloudberg – Into the Abyss: The 1956 Grand Canyon Mid-air Collision</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> El borrador de la investigación preliminar citaba la altitud de la colisión como 20.000 pies; las fuentes técnicas y el informe de la CAB sitúan el impacto a 21.000 pies (6.400 m). Ese mismo borrador también afirmaba que el accidente dio lugar a la creación del NTSB; en realidad, la investigación fue realizada por la Civil Aeronautics Board (CAB) ya que el NTSB se creó como organismo independiente en 1967. El desastre sí impulsó directamente la creación de la Federal Aviation Agency en 1958, renombrada posteriormente como Federal Aviation Administration.</p>
@@ -109,7 +109,7 @@ La colisión aérea del Gran Cañón de 1956 sigue siendo recordada como el acci
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-06-25 15:55 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), FAA, HistoryNet, Admiral Cloudberg
 - **Discrepancias resueltas:** Se corrigió la altitud de colisión a 21.000 pies; se aclaró que el NTSB no fue creado directamente por el accidente, sino la Federal Aviation Agency en 1958; se verificaron los nombres de las tripulaciones de ambas aeronaves; se adoptó la cifra de 128 fallecidos según fuentes oficiales.
 - **Nivel de confianza:** Alto

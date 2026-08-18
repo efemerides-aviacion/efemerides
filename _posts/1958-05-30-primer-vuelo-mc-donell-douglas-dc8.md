@@ -67,7 +67,7 @@ El DC-8 representaba la apuesta de Douglas por el futuro de los viajes aéreos. 
 
 - **15 de julio de 1954:** Primer vuelo del prototipo Boeing 367-80 (Dash 80), precursor del 707.
 - **7 de junio de 1955:** Douglas anuncia formalmente el programa DC-8, ofreciendo cuatro versiones iniciales del primer reactor comercial de la compañía.
-- **20 de diciembre de 1957:** El Boeing 707-120 realiza su primer vuelo de producción, adelantándose a Douglas . Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1957/12/20/primer-vuelo-boeing-707-120.html" style="color: #1565c0; text-decoration: none;">efeméride del primer vuelo del Boeing 707-120</a> para más detalles.
+- **20 de diciembre de 1957:** El Boeing 707-120 realiza su primer vuelo de producción, adelantándose a Douglas . Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1957/12/20/primer-vuelo-boeing-707-120.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Boeing 707-120</a> para más detalles.
 - **9 de abril de 1958:** Roll-out del primer prototipo N8008D en la fábrica de Long Beach, California.
 - **30 de mayo de 1958, 10:10 a.m.:** Primer vuelo del DC-8 desde Long Beach.
 - **18 de septiembre de 1959:** Primer vuelo del DC-8-10 con motores JT3C-6.
@@ -131,15 +131,15 @@ El Douglas DC-8 fue un avión fundamental en la historia de la aviación comerci
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/30-may-1958/">This Day in Aviation – 30 May 1958</a></li>
-    <li><a href="https://www.airwaysmag.com/new-post/maiden-douglas-dc-8">Airways Magazine – 5/30/1958: First Flight of the Douglas DC-8</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Douglas_DC-8">Wikipedia (ES) – Douglas DC-8</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Douglas_DC-8">Wikipedia (EN) – Douglas DC-8</a></li>
-    <li><a href="http://www.1000aircraftphotos.com/PRPhotos/1242.htm">1000AircraftPhotos – Douglas DC-8-11</a></li>
+    <li><a href="https://www.thisdayinaviation.com/30-may-1958/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 30 May 1958</a></li>
+    <li><a href="https://www.airwaysmag.com/new-post/maiden-douglas-dc-8" style="color: #315fea; text-decoration: none;">Airways Magazine – 5/30/1958: First Flight of the Douglas DC-8</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Douglas_DC-8" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Douglas DC-8</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Douglas_DC-8" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Douglas DC-8</a></li>
+    <li><a href="http://www.1000aircraftphotos.com/PRPhotos/1242.htm" style="color: #315fea; text-decoration: none;">1000AircraftPhotos – Douglas DC-8-11</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -153,7 +153,7 @@ El Douglas DC-8 fue un avión fundamental en la historia de la aviación comerci
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-27 23:15:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, Airways Magazine, Wikipedia (ES/EN), 1000AircraftPhotos
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (30 de mayo de 1958). Verificación de la tripulación y las condiciones del vuelo. Aclaración de la diferencia entre Douglas y McDonnell Douglas. Aclaración del récord supersónico (prueba de certificación, no diseño comercial).
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales coinciden en los datos fundamentales)

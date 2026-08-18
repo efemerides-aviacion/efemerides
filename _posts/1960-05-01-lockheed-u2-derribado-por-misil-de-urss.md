@@ -184,13 +184,13 @@ Los restos del U-2 que Powers pilotaba se exhiben hoy en el Museo Central de la 
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/1960_U-2_incident">Wikipedia (EN) - 1960 U-2 incident</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Incidente_del_U-2">Wikipedia (ES) - Incidente del U-2</a></li>
-    <li><a href="https://aviationweek.com/defense/seven-artifacts-surrounding-1960-u-2-shootdown">Aviation Week - Seven Artifacts Surrounding the 1960 U-2 Shootdown</a></li>
-    <li><a href="https://supersabresociety.org/this_time_in_history/today-in-history-may-1-1960-spy-plane-hit-by-shrapnel-gary-powers-bails-out-and-is-captured/">Super Sabre Society - May 1, 1960: Spy plane hit by shrapnel</a></li>
-    <li><a href="https://www.thefridaytimes.com/09-Jul-2021/the-1960-u-2-incident">The Friday Times - The 1960 U-2 incident</a></li>
-    <li><a href="https://www.bbc.co.uk/bitesize/guides/z4mrd2p/revision/4">BBC - Flashpoints: U2 Crisis 1960</a></li>
-    <li><a href="https://www.latimes.com/archives/la-xpm-1990-04-30-mn-182-story.html">Los Angeles Times - Soviets Downed Own Plane in 1960 U-2 Incident (1990)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/1960_U-2_incident" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - 1960 U-2 incident</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Incidente_del_U-2" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Incidente del U-2</a></li>
+    <li><a href="https://aviationweek.com/defense/seven-artifacts-surrounding-1960-u-2-shootdown" style="color: #315fea; text-decoration: none;">Aviation Week - Seven Artifacts Surrounding the 1960 U-2 Shootdown</a></li>
+    <li><a href="https://supersabresociety.org/this_time_in_history/today-in-history-may-1-1960-spy-plane-hit-by-shrapnel-gary-powers-bails-out-and-is-captured/" style="color: #315fea; text-decoration: none;">Super Sabre Society - May 1, 1960: Spy plane hit by shrapnel</a></li>
+    <li><a href="https://www.thefridaytimes.com/09-Jul-2021/the-1960-u-2-incident" style="color: #315fea; text-decoration: none;">The Friday Times - The 1960 U-2 incident</a></li>
+    <li><a href="https://www.bbc.co.uk/bitesize/guides/z4mrd2p/revision/4" style="color: #315fea; text-decoration: none;">BBC - Flashpoints: U2 Crisis 1960</a></li>
+    <li><a href="https://www.latimes.com/archives/la-xpm-1990-04-30-mn-182-story.html" style="color: #315fea; text-decoration: none;">Los Angeles Times - Soviets Downed Own Plane in 1960 U-2 Incident (1990)</a></li>
   </ul>
 </div>
 
@@ -198,7 +198,7 @@ Los restos del U-2 que Powers pilotaba se exhiben hoy en el Museo Central de la 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-01 08:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), Aviation Week, Super Sabre Society, Los Angeles Times, BBC
 - **Discrepancias resueltas:** Las fuentes confirman que el derribo del MiG-19 fue por fuego amigo de la misma salva de misiles. Powers se eyectó después de que su avión fuera alcanzado. El intercambio de Powers por Abel ocurrió el 10 de febrero de 1962.
 - **Nivel de confianza:** Alto

@@ -56,18 +56,18 @@ Hoy son reconocidos como campeones mundiales de acrobacia aérea y embajadores d
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://fach.mil.cl/escuadrilla-de-alta-acrobacia-halcones">FACh – Escuadrilla de Alta Acrobacia Halcones</a></li>
-    <li><a href="https://fach.mil.cl/44-anos-de-la-escuadrilla-de-alta-acrobacia-halcones">FACh – 44 años de la Escuadrilla Halcones</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Escuadrilla_de_Alta_Acrobacia_Halcones">Wikipedia – Escuadrilla de Alta Acrobacia Halcones</a></li>
-    <li><a href="https://www.hispaviacion.es/escuadrilla-alta-acrobacia-halcones-chile/">Hispaviación – Escuadrilla Halcones de Chile</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/C%C3%B3ndores_de_Plata">Wikipedia – Cóndores de Plata</a></li>
-    <li><a href="https://www.infodefensa.com/texto-diario/mostrar/5729137/halcones-fuerza-aerea-chile-efectuaran-presentaciones-araucania-lagos-aysen">Infodefensa – Presentaciones recientes de los Halcones</a></li>
+    <li><a href="https://fach.mil.cl/escuadrilla-de-alta-acrobacia-halcones" style="color: #315fea; text-decoration: none;">FACh – Escuadrilla de Alta Acrobacia Halcones</a></li>
+    <li><a href="https://fach.mil.cl/44-anos-de-la-escuadrilla-de-alta-acrobacia-halcones" style="color: #315fea; text-decoration: none;">FACh – 44 años de la Escuadrilla Halcones</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Escuadrilla_de_Alta_Acrobacia_Halcones" style="color: #315fea; text-decoration: none;">Wikipedia – Escuadrilla de Alta Acrobacia Halcones</a></li>
+    <li><a href="https://www.hispaviacion.es/escuadrilla-alta-acrobacia-halcones-chile/" style="color: #315fea; text-decoration: none;">Hispaviación – Escuadrilla Halcones de Chile</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/C%C3%B3ndores_de_Plata" style="color: #315fea; text-decoration: none;">Wikipedia – Cóndores de Plata</a></li>
+    <li><a href="https://www.infodefensa.com/texto-diario/mostrar/5729137/halcones-fuerza-aerea-chile-efectuaran-presentaciones-araucania-lagos-aysen" style="color: #315fea; text-decoration: none;">Infodefensa – Presentaciones recientes de los Halcones</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-12 15:55:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** FACh; Wikipedia; Hispaviación; Infodefensa  
 - **Discrepancias resueltas:** Confirmación de fechas de operación de los Cóndores de Plata (1958–1967) y creación oficial de los Halcones (1981).  
 - **Nivel de confianza:** Alto  

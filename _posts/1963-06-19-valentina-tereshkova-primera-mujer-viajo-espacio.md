@@ -140,14 +140,14 @@ A sus 89 años, se ha presentado a la reelección parlamentaria para un nuevo ma
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Valentina_Tereshkova">Wikipedia – Valentina Tereshkova</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vostok_6">Wikipedia – Vostok 6</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vostok_(nave_espacial)">Wikipedia – Vostok (nave espacial)</a></li>
-    <li><a href="https://www.biografiasyvidas.com/biografia/t/tereshkova.htm">Biografías y Vidas – Valentina Tereshkova</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Valentina_Tereshkova" style="color: #315fea; text-decoration: none;">Wikipedia – Valentina Tereshkova</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vostok_6" style="color: #315fea; text-decoration: none;">Wikipedia – Vostok 6</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vostok_(nave_espacial)" style="color: #315fea; text-decoration: none;">Wikipedia – Vostok (nave espacial)</a></li>
+    <li><a href="https://www.biografiasyvidas.com/biografia/t/tereshkova.htm" style="color: #315fea; text-decoration: none;">Biografías y Vidas – Valentina Tereshkova</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Esta efeméride conmemora la <strong>culminación</strong> de la misión de Valentina Tereshkova (19 de junio de 1963), cuando aterrizó tras completar 48 órbitas. El lanzamiento ocurrió el 16 de junio de 1963. Tereshkova fue la primera mujer en el espacio y sigue siendo la única que ha volado en solitario. Durante el vuelo, detectó una anomalía en el sistema de control automático y reportó el fallo, permitiendo su corrección desde tierra.</p>
@@ -157,7 +157,7 @@ A sus 89 años, se ha presentado a la reelección parlamentaria para un nuevo ma
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-15 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES), El Economista, Wikipedia (EN)
 - **Discrepancias resueltas:** Se ha confirmado la fecha de aterrizaje (19 de junio de 1963) como fecha de culminación de la misión. El lanzamiento fue el 16 de junio de 1963.
 - **Nivel de confianza:** Alto

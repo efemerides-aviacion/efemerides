@@ -139,7 +139,7 @@ El legado de Clarabelle "C.B." Lansing, la auxiliar de vuelo fallecida, inspiró
 
 El avión siniestrado, N73711, fue reparado y devuelto al servicio por Aloha Airlines después de un año y medio de reconstrucción, siendo apodado como "The Survivor". Voló comercialmente hasta 1993, cuando Aloha Airlines cesó sus operaciones. Posteriormente fue vendido y usado por otras aerolíneas antes de ser retirado en 1997.
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el nombre "Queen Liliuokalani":</strong> El avión fue bautizado así en honor a la última monarca reinante del Reino de Hawái, depuesta en 1893. Su nombre fue elegido por Aloha Airlines como un tributo a la historia hawaiana.</p>
@@ -151,11 +151,11 @@ El avión siniestrado, N73711, fue reparado y devuelto al servicio por Aloha Air
 
 <div class="references">
   <ul>
-    <li><a href="https://www.ntsb.gov/investigations/Pages/DCA88MA054.aspx">NTSB - DCA88MA054 (Investigation Report)</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_243_de_Aloha_Airlines">Wikipedia (ES) - Vuelo 243 de Aloha Airlines</a></li>
-    <li><a href="https://skybrary.aero/bookshelf/ntsb-aar-8903-aloha-airlines-b737-200-neear-maui-hawaii-april-28-1988">SKYbrary - AAR 89/03 Aloha Airlines, B737-200 near Maui, Hawaii</a></li>
-    <li><a href="https://www.des-presurizados.com/investigaciones/vuelo-243-aloha-airlines">Despresurizados - Vuelo 243 Aloha Airlines: Causas y análisis</a></li>
-    <li><a href="https://www.thisdayinaviation.com/28-april-1988/">This Day in Aviation - April 28, 1988</a></li>
+    <li><a href="https://www.ntsb.gov/investigations/Pages/DCA88MA054.aspx" style="color: #315fea; text-decoration: none;">NTSB - DCA88MA054 (Investigation Report)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_243_de_Aloha_Airlines" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Vuelo 243 de Aloha Airlines</a></li>
+    <li><a href="https://skybrary.aero/bookshelf/ntsb-aar-8903-aloha-airlines-b737-200-neear-maui-hawaii-april-28-1988" style="color: #315fea; text-decoration: none;">SKYbrary - AAR 89/03 Aloha Airlines, B737-200 near Maui, Hawaii</a></li>
+    <li><a href="https://www.des-presurizados.com/investigaciones/vuelo-243-aloha-airlines" style="color: #315fea; text-decoration: none;">Despresurizados - Vuelo 243 Aloha Airlines: Causas y análisis</a></li>
+    <li><a href="https://www.thisdayinaviation.com/28-april-1988/" style="color: #315fea; text-decoration: none;">This Day in Aviation - April 28, 1988</a></li>
   </ul>
 </div>
 
@@ -163,7 +163,7 @@ El avión siniestrado, N73711, fue reparado y devuelto al servicio por Aloha Air
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-26 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** NTSB (National Transportation Safety Board), Wikipedia (ES), SKYbrary, This Day in Aviation
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (28 de abril de 1988), la aeronave (Boeing 737-297 N73711) y la mayoría de los datos técnicos. El número exacto de ciclos de vuelo (89.680) está documentado en los archivos de la NTSB. La víctima mortal fue la auxiliar de vuelo Clarabelle Lansing. El capitán (Robert Schornstheimer) y la primera oficial (Madeleine Tompkins) sobrevivieron y continuaron sus carreras.
 - **Nivel de confianza:** Alto

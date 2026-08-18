@@ -127,15 +127,15 @@ TIROS-1 permanece en órbita como chatarra espacial, un testigo silencioso del p
 
 <div class="references">
   <ul>
-    <li><a href="https://en.m.wikipedia.org/w/index.php?title=TIROS-1#p-lang">Wikipedia – TIROS-1</a></li>
-    <li><a href="https://web.archive.org/web/20230128070744/https://en.wikipedia.org/wiki/TIROS-1">Wikipedia (Archived) – TIROS-1</a></li>
-    <li><a href="https://www.publico.es/ciencias/maquinas-del.html">Diario Público – Máquinas del tiempo (2010)</a></li>
-    <li><a href="http://www.infosatellites.com/tiros1-satellite-information-norad-29.html">Infosatellites – TIROS 1 Satellite Information</a></li>
-    <li><a href="https://www.channel3000.com/entertainment/1960-tiros-1-the-world-s-first-weather-satellite-is-launched-from-cape-canaveral-florida/image_d59b8cf3-f83e-5c67-9744-db5c646a4766.html">Channel3000 – TIROS-1 launch (2020)</a></li>
+    <li><a href="https://en.m.wikipedia.org/w/index.php?title=TIROS-1#p-lang" style="color: #315fea; text-decoration: none;">Wikipedia – TIROS-1</a></li>
+    <li><a href="https://web.archive.org/web/20230128070744/https://en.wikipedia.org/wiki/TIROS-1" style="color: #315fea; text-decoration: none;">Wikipedia (Archived) – TIROS-1</a></li>
+    <li><a href="https://www.publico.es/ciencias/maquinas-del.html" style="color: #315fea; text-decoration: none;">Diario Público – Máquinas del tiempo (2010)</a></li>
+    <li><a href="http://www.infosatellites.com/tiros1-satellite-information-norad-29.html" style="color: #315fea; text-decoration: none;">Infosatellites – TIROS 1 Satellite Information</a></li>
+    <li><a href="https://www.channel3000.com/entertainment/1960-tiros-1-the-world-s-first-weather-satellite-is-launched-from-cape-canaveral-florida/image_d59b8cf3-f83e-5c67-9744-db5c646a4766.html" style="color: #315fea; text-decoration: none;">Channel3000 – TIROS-1 launch (2020)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El satélite TIROS-1 fue lanzado el 1 de abril de 1960 y funcionó normalmente hasta el 15 de junio de 1960, cuando un fallo eléctrico impidió la transmisión de imágenes útiles. Esta fecha (15 de junio de 1960) marca el fin de la misión activa del primer satélite meteorológico operativo de la historia. El predecesor Vanguard 2 (1959) fue un prototipo experimental, mientras que TIROS-1 fue el primer satélite meteorológico exitoso a gran escala. La duración de la misión fue de 78 días.</p>
@@ -145,7 +145,7 @@ TIROS-1 permanece en órbita como chatarra espacial, un testigo silencioso del p
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-11 16:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Diario Público, Infosatellites, Channel3000
 - **Discrepancias resueltas:** La fecha del fallo eléctrico está confirmada como 15 de junio de 1960 en todas las fuentes consultadas. La duración exacta de la misión varía entre 75 y 90 días según las fuentes; se ha adoptado la cifra de 78 días por ser la más documentada.
 - **Nivel de confianza:** Alto

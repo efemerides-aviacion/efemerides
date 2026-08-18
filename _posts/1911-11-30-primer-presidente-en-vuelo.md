@@ -51,14 +51,14 @@ Madero es recordado no solo por su papel democrático, sino como el primer "Pres
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://inehrm.gob.mx/recursos/Libros/17032022_francisco_i_madero_la%20_aviacion.pdf">INEHRM – «Francisco I. Madero y la aviación. A 110 años de su vuelo» (PDF institucional)</a></li>
-    <li><a href="https://www.gob.mx/sedena/documentos/el-vuelo-del-presidente-francisco-i-madero">SEDENA – «El vuelo del Presidente Francisco I. Madero» (Archivo Histórico)</a></li>
-    <li><a href="https://fundacioncarlosslim.org/franciso-i-madero-los-aires/">México Desconocido / Fundación Carlos Slim – «El primer vuelo en avión de Francisco I. Madero»</a></li>
+    <li><a href="https://inehrm.gob.mx/recursos/Libros/17032022_francisco_i_madero_la%20_aviacion.pdf" style="color: #315fea; text-decoration: none;">INEHRM – «Francisco I. Madero y la aviación. A 110 años de su vuelo» (PDF institucional)</a></li>
+    <li><a href="https://www.gob.mx/sedena/documentos/el-vuelo-del-presidente-francisco-i-madero" style="color: #315fea; text-decoration: none;">SEDENA – «El vuelo del Presidente Francisco I. Madero» (Archivo Histórico)</a></li>
+    <li><a href="https://fundacioncarlosslim.org/franciso-i-madero-los-aires/" style="color: #315fea; text-decoration: none;">México Desconocido / Fundación Carlos Slim – «El primer vuelo en avión de Francisco I. Madero»</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-08 11:08:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Archivos SEDENA, Mediateca INAH.  
 - **Discrepancias resueltas:** Se confirmó la identidad del piloto y el modelo específico del monoplano.  
 - **Nivel de confianza:** Alto  

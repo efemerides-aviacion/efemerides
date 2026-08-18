@@ -72,10 +72,10 @@ El Renard R-35 es recordado como el primer avión comercial diseñado específic
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Renard_R.35">Wikipedia (EN) – Renard R.35</a></li>
-    <li><a href="https://fr.wikipedia.org/wiki/Renard_(avions)">Wikipedia (FR) – Renard (avions)</a></li>
-    <li><a href="https://blog.sandglasspatrol.com/renard-r-35-el-primer-avion-de-aerolinea-presurizado/">Sandglass Patrol – Renard R-35, el primer avión de aerolínea presurizado (1938)</a></li>
-    <li><a href="https://www.fnar.be/?Les_Avions_Renard___R35">FNAR – Les Avions Renard R35</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Renard_R.35" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Renard R.35</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Renard_(avions)" style="color: #315fea; text-decoration: none;">Wikipedia (FR) – Renard (avions)</a></li>
+    <li><a href="https://blog.sandglasspatrol.com/renard-r-35-el-primer-avion-de-aerolinea-presurizado/" style="color: #315fea; text-decoration: none;">Sandglass Patrol – Renard R-35, el primer avión de aerolínea presurizado (1938)</a></li>
+    <li><a href="https://www.fnar.be/?Les_Avions_Renard___R35" style="color: #315fea; text-decoration: none;">FNAR – Les Avions Renard R35</a></li>
   </ul>
 </div>
 
@@ -87,7 +87,7 @@ El Renard R-35 es recordado como el primer avión comercial diseñado específic
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-31 15:20 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/FR), Sandglass Patrol, FNAR  
 - **Discrepancias resueltas:** Se confirmó la fecha exacta del accidente (1 de abril de 1938) y la matrícula (OO-ARM). No se encontraron fuentes que indiquen la hora precisa del siniestro.  
 - **Nivel de confianza:** Alto  

@@ -119,15 +119,15 @@ Oleg Kononenko es ya una leyenda viva de la exploración espacial. Su nombre se 
 
 <div class="references">
   <ul>
-    <li><a href="https://elpais.com/ciencia/2024-06-04/el-cosmonauta-oleg-kononenko-logra-el-record-de-1000-dias-en-el-espacio.html">El País – El cosmonauta Oleg Kononenko logra el récord de 1.000 días en el espacio</a></li>
-    <li><a href="https://thehill.com/homenews/ap/ap-science/ap-a-russian-cosmonaut-becomes-the-first-person-to-spend-1000-days-in-space-2/">The Hill / AP – A Russian cosmonaut becomes the first person to spend 1,000 days in space</a></li>
-    <li><a href="https://www.heraldo.es/noticias/internacional/2024/06/05/ruso-oleg-kononenko-primer-humano-sumar-mil-dias-espacio-1739413.html">Heraldo – El ruso Oleg Kononenko, primer ser humano en acumular 1.000 días de estancia en el espacio</a></li>
-    <li><a href="https://phys.org/news/2024-06-russian-cosmonaut-person-days-space.pdf">Phys.org / AP – A Russian cosmonaut becomes the first person to spend 1,000 days in space</a></li>
-    <li><a href="https://es.gw2ru.com/technologias/220200-cosmonauta-oleg-kononenko-mil-dias-espacio">GW2RU – El cosmonauta Oleg Kononenko se convierte en la primera persona en pasar mil días en el espacio</a></li>
+    <li><a href="https://elpais.com/ciencia/2024-06-04/el-cosmonauta-oleg-kononenko-logra-el-record-de-1000-dias-en-el-espacio.html" style="color: #315fea; text-decoration: none;">El País – El cosmonauta Oleg Kononenko logra el récord de 1.000 días en el espacio</a></li>
+    <li><a href="https://thehill.com/homenews/ap/ap-science/ap-a-russian-cosmonaut-becomes-the-first-person-to-spend-1000-days-in-space-2/" style="color: #315fea; text-decoration: none;">The Hill / AP – A Russian cosmonaut becomes the first person to spend 1,000 days in space</a></li>
+    <li><a href="https://www.heraldo.es/noticias/internacional/2024/06/05/ruso-oleg-kononenko-primer-humano-sumar-mil-dias-espacio-1739413.html" style="color: #315fea; text-decoration: none;">Heraldo – El ruso Oleg Kononenko, primer ser humano en acumular 1.000 días de estancia en el espacio</a></li>
+    <li><a href="https://phys.org/news/2024-06-russian-cosmonaut-person-days-space.pdf" style="color: #315fea; text-decoration: none;">Phys.org / AP – A Russian cosmonaut becomes the first person to spend 1,000 days in space</a></li>
+    <li><a href="https://es.gw2ru.com/technologias/220200-cosmonauta-oleg-kononenko-mil-dias-espacio" style="color: #315fea; text-decoration: none;">GW2RU – El cosmonauta Oleg Kononenko se convierte en la primera persona en pasar mil días en el espacio</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -141,7 +141,7 @@ Oleg Kononenko es ya una leyenda viva de la exploración espacial. Su nombre se 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-02 19:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** El País, The Hill (AP), Heraldo, Phys.org (AP), GW2RU
 - **Discrepancias resueltas:** Confirmación de la fecha exacta del récord (5 de junio de 2024). Verificación del total acumulado de caminatas espaciales (7, 44h 30m). Aclaración de la diferencia entre récord de tiempo acumulado y récord de tiempo continuo. Actualización de datos post-regreso (total final 1.111 días).
 - **Nivel de confianza:** Alto

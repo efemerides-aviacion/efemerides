@@ -110,16 +110,16 @@ El vuelo récord del 24 de mayo de 1991 sigue siendo estudiado en escuelas de av
 
 <div class="references">
   <ul>
-    <li><a href="https://www.guinnessworldrecords.com/world-records/most-passengers-on-an-aircraft">Guinness World Records – Most passengers on an aircraft</a></li>
-    <li><a href="https://www.washingtonpost.com/wp-dyn/content/article/2006/07/21/AR2006072100907.html">The Washington Post – Israel Completes Ethiopia Airlift (26 de mayo de 1991)</a></li>
-    <li><a href="https://www.jta.org/archive/airlift-of-14000-ethiopian-jews-accomplished-in-just-40-flights">Jewish Telegraphic Agency – Airlift of 14,000 Ethiopian Jews (28 de mayo de 1991)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Operation_Solomon">Wikipedia – Operation Solomon</a></li>
-    <li><a href="https://archives.jdc.org/special-video-of-operation-solomon-the-1991-airlift-of-14000-ethiopian-jews-to-israel/">JDC Archives – Operation Solomon</a></li>
-    <li><a href="https://www.idf.il/en/mini-sites/humanitarian-missions/today-in-history-idf-airlifts-14-500-ethiopian-jews-to-israel">IDF Official Site – Today in History</a></li>
+    <li><a href="https://www.guinnessworldrecords.com/world-records/most-passengers-on-an-aircraft" style="color: #315fea; text-decoration: none;">Guinness World Records – Most passengers on an aircraft</a></li>
+    <li><a href="https://www.washingtonpost.com/wp-dyn/content/article/2006/07/21/AR2006072100907.html" style="color: #315fea; text-decoration: none;">The Washington Post – Israel Completes Ethiopia Airlift (26 de mayo de 1991)</a></li>
+    <li><a href="https://www.jta.org/archive/airlift-of-14000-ethiopian-jews-accomplished-in-just-40-flights" style="color: #315fea; text-decoration: none;">Jewish Telegraphic Agency – Airlift of 14,000 Ethiopian Jews (28 de mayo de 1991)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Operation_Solomon" style="color: #315fea; text-decoration: none;">Wikipedia – Operation Solomon</a></li>
+    <li><a href="https://archives.jdc.org/special-video-of-operation-solomon-the-1991-airlift-of-14000-ethiopian-jews-to-israel/" style="color: #315fea; text-decoration: none;">JDC Archives – Operation Solomon</a></li>
+    <li><a href="https://www.idf.il/en/mini-sites/humanitarian-missions/today-in-history-idf-airlifts-14-500-ethiopian-jews-to-israel" style="color: #315fea; text-decoration: none;">IDF Official Site – Today in History</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -132,7 +132,7 @@ El vuelo récord del 24 de mayo de 1991 sigue siendo estudiado en escuelas de av
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-21 15:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Guinness World Records, The Washington Post (1991), Jewish Telegraphic Agency (1991), JDC Archives, IDF Official Site, Wikipedia
 - **Discrepancias resueltas:** Confirmación de la cifra oficial de Guinness (1.088) frente a variantes (1.087 y 1.122). Verificación de la fecha (24 de mayo de 1991) como el día del vuelo récord. Confirmación de la duración del vuelo (3 horas y 30 minutos) mediante fuentes periodísticas de la época.
 - **Nivel de confianza:** Alto (fuentes primarias institucionales y de prensa contemporánea coinciden en los datos fundamentales)

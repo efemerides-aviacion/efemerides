@@ -122,15 +122,15 @@ El 24 de mayo de 1930 sigue siendo una fecha clave en la historia de la aviació
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://paperspast.natlib.govt.nz/newspapers/NZH19300526.2.57.2">New Zealand Herald – Arrival at Darwin (26 de mayo de 1930)</a></li>
-    <li><a href="https://paperspast.natlib.govt.nz/newspapers/DOM19300508.2.84">Dominion – Miss Johnson delayed (8 de mayo de 1930)</a></li>
-    <li><a href="https://web.archive.org/web/20120917003512/http://www.sciencemuseum.org.uk/onlinestuff/stories/amy_johnson.aspx?page=6">Science Museum – Amy Johnson y el Gipsy Moth</a></li>
-    <li><a href="https://www.longines.com/en-hk/magazine/pioneer-spirits/amy-johnson/">Longines – Amy Johnson</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Amy_Johnson">Wikipedia en español – Amy Johnson</a></li>
+    <li><a href="https://paperspast.natlib.govt.nz/newspapers/NZH19300526.2.57.2" style="color: #315fea; text-decoration: none;">New Zealand Herald – Arrival at Darwin (26 de mayo de 1930)</a></li>
+    <li><a href="https://paperspast.natlib.govt.nz/newspapers/DOM19300508.2.84" style="color: #315fea; text-decoration: none;">Dominion – Miss Johnson delayed (8 de mayo de 1930)</a></li>
+    <li><a href="https://web.archive.org/web/20120917003512/http://www.sciencemuseum.org.uk/onlinestuff/stories/amy_johnson.aspx?page=6" style="color: #315fea; text-decoration: none;">Science Museum – Amy Johnson y el Gipsy Moth</a></li>
+    <li><a href="https://www.longines.com/en-hk/magazine/pioneer-spirits/amy-johnson/" style="color: #315fea; text-decoration: none;">Longines – Amy Johnson</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Amy_Johnson" style="color: #315fea; text-decoration: none;">Wikipedia en español – Amy Johnson</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes coinciden en la fecha del aterrizaje (24 de mayo de 1930) y en el lugar (Darwin, Australia). Sin embargo, existe una pequeña discrepancia en la hora exacta: el <em>New Zealand Herald</em> del 26 de mayo de 1930 informa que el aterrizaje ocurrió «pocos minutos antes de las 4 de la tarde», mientras que otras fuentes secundarias redondean a las 16:00. La duración total del vuelo varía entre «19 días y medio» y «tres semanas» según la fuente; se ha utilizado la cifra de 19 días y medio por provenir de una fuente institucional (Hull History Centre). El apodo de la aeronave aparece como «Jason» en la mayoría de las fuentes y como «Jason's Quest» en la prensa de la época; ambas denominaciones se refieren al mismo avión.</p>
@@ -139,7 +139,7 @@ El 24 de mayo de 1930 sigue siendo una fecha clave en la historia de la aviació
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-05-21 12:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** New Zealand Herald (archivo histórico de 1930), Dominion (archivo histórico de 1930), Science Museum de Londres, Longines
 - **Discrepancias resueltas:** Confirmación de la fecha de aterrizaje (24 de mayo de 1930) frente a la fecha de salida (5 de mayo de 1930). El vuelo duró 19 días, no 21 como algunas fuentes secundarias sugieren. Verificada la hora aproximada del aterrizaje mediante la prensa de la época.
 - **Nivel de confianza:** Alto (fuentes primarias de prensa contemporánea al evento y registros institucionales)

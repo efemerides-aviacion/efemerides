@@ -65,16 +65,16 @@ Vesna Vulović es recordada como la mujer que desafió lo imposible en la histor
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Vesna_Vulovi%C4%87">Wikipedia – Vesna Vulović</a></li>
-    <li><a href="https://www.guinnessworldrecords.com/world-records/highest-fall-survived-without-parachute">Guinness World Records – Highest fall survived without parachute</a></li>
-    <li><a href="https://www.infobae.com/america/mundo/2024/12/18/la-increible-historia-de-vesna-vulovic-la-azafata-que-sobrevivio-a-una-caida-libre-desde-10000-metros-de-altura-sin-paracaidas/">Infobae – Historia de Vesna Vulović</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vesna_Vulovi%C4%87" style="color: #315fea; text-decoration: none;">Wikipedia – Vesna Vulović</a></li>
+    <li><a href="https://www.guinnessworldrecords.com/world-records/highest-fall-survived-without-parachute" style="color: #315fea; text-decoration: none;">Guinness World Records – Highest fall survived without parachute</a></li>
+    <li><a href="https://www.infobae.com/america/mundo/2024/12/18/la-increible-historia-de-vesna-vulovic-la-azafata-que-sobrevivio-a-una-caida-libre-desde-10000-metros-de-altura-sin-paracaidas/" style="color: #315fea; text-decoration: none;">Infobae – Historia de Vesna Vulović</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-02 22:35:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Guinness World Records, Infobae  
 - **Discrepancias resueltas:** Debate sobre la altitud exacta de la caída; Guinness mantiene cifra oficial de 10.160 m  
 - **Nivel de confianza:** Alto  

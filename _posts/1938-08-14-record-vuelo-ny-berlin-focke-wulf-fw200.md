@@ -86,11 +86,10 @@ Ochenta y ocho años después, el doble vuelo del Brandenburg se recuerda como e
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Focke-Wulf_Fw_200_Condor">Wikipedia (EN) - Focke-Wulf Fw 200 Condor</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Focke-Wulf_Fw_200">Wikipedia (ES) - Focke-Wulf Fw 200</a></li>
-    <li><a href="https://www.thisdayinaviation.com/10-11-august-1938/">This Day in Aviation - 10-11 August 1938</a></li>
-    <li><a href="https://www.hmdb.org/m.asp?m=274208">Historical Marker Database - Condor Rekordflug / Condor Record Flight (Böttcherstraße, Bremen)</a></li>
-    <li>Borrador preliminar del investigador, con la relación de récords del D-ACON y la historia operacional del Fw 200</li>
+    <li><a href="https://en.wikipedia.org/wiki/Focke-Wulf_Fw_200_Condor" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Focke-Wulf Fw 200 Condor</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Focke-Wulf_Fw_200" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Focke-Wulf Fw 200</a></li>
+    <li><a href="https://www.thisdayinaviation.com/10-11-august-1938/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 10-11 August 1938</a></li>
+    <li><a href="https://www.hmdb.org/m.asp?m=274208" style="color: #315fea; text-decoration: none;">Historical Marker Database - Condor Rekordflug / Condor Record Flight (Böttcherstraße, Bremen)</a></li>
   </ul>
 </div>
 
@@ -98,8 +97,8 @@ Ochenta y ocho años después, el doble vuelo del Brandenburg se recuerda como e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-10 06:31:05 CST
-- **Fuentes primarias consultadas:** Wikipedia (EN), This Day in Aviation, borrador preliminar del investigador
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Fuentes primarias consultadas:** Wikipedia (EN), This Day in Aviation
 - **Discrepancias resueltas:** la duración del vuelo de regreso figura como 19 horas y 47 minutos en Wikipedia (EN), 19 horas y 55 minutos en Wikipedia (ES) y 19 horas y 56 minutos en This Day in Aviation; el cuerpo redacta «poco menos de veinte horas» y el abanico de cifras consta en Datos verificados. El aeropuerto de salida en Berlín figura como Staaken en las fuentes del vuelo récord y como Tempelhof en algunas recopilaciones; se adopta Staaken para la ida, según Wikipedia y This Day in Aviation. La fecha del vuelo Berlín-Hanoi varía entre fuentes (20 y 28 de noviembre de 1938); se redactó sin día exacto.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

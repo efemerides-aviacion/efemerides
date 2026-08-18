@@ -47,7 +47,7 @@ La incursión se planificó en medio de un clima de confianza en el Bomber Comma
 
 ### Desarrollo Cronológico
 
-- **30 de mayo de 1942:** La RAF lanza la **Operación Millennium (Milenio)** , el primer bombardeo de 1.000 bombarderos contra Colonia, demostrando la viabilidad del bombardeo de área masivo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/05/30/operacion-milenium.html" style="color: #1565c0; text-decoration: none;">efeméride de la Operación Millennium (Milenio)</a> para más detalles.
+- **30 de mayo de 1942:** La RAF lanza la **Operación Millennium (Milenio)** , el primer bombardeo de 1.000 bombarderos contra Colonia, demostrando la viabilidad del bombardeo de área masivo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/05/30/operacion-milenium.html" style="color: #315fea; text-decoration: none;">efeméride de la Operación Millennium (Milenio)</a> para más detalles.
 
 - **Agosto 1943 – febrero 1944:** Ataques previos a Núremberg. El bombardeo del 27/28 de agosto de 1943 con 674 aparatos causó 56 bajas civiles; el de febrero de 1944 con 337 bombarderos dañó suburbios.
 - **30 de marzo de 1944, tarde:** Los bombarderos comienzan a despegar de sus bases en Inglaterra. El plan prevé una ruta directa de 600 km sobre territorio enemigo, con nubes altas que se esperaba protegieran a la formación.
@@ -99,7 +99,7 @@ La Noche de Núremberg es recordada como la mayor tragedia del Bomber Command en
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 11:07:10 CST  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), RAF Museum, Bomber Command Museum, BBC WW2 People's War, testimonio de tripulantes  
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre pérdidas totales y victorias confirmadas por la Luftwaffe.  
 - **Nivel de confianza:** Alto  

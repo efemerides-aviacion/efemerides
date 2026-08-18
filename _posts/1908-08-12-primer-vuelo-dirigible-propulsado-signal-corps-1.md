@@ -140,9 +140,9 @@ Queda una última observación sobre las personas. Aquel 12 de agosto volaban ju
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-07 05:52:11 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force, ficha «Baldwin Dirigible: U.S. Army's First Airship»; Science History Institute, documentación fotográfica del dirigible Baldwin; Air & Space Forces Magazine, cronología aeronáutica oficial del periodo 1903-1909.
-- **Fuentes secundarias de contraste:** This Day in Aviation, con el detalle constructivo y de prestaciones; World Encyclopedia of Lighter-Than-Air; Wikipedia en inglés, entradas del Signal Corps Dirigible No. 1, de Thomas Scott Baldwin y de la Aeronautical Division; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** This Day in Aviation, con el detalle constructivo y de prestaciones; World Encyclopedia of Lighter-Than-Air; Wikipedia en inglés, entradas del Signal Corps Dirigible No. 1, de Thomas Scott Baldwin y de la Aeronautical Division.
 - **Discrepancias resueltas:** se distinguió el inicio de los vuelos de prueba, el 12 de agosto, de la aceptación formal del aparato, el 28 del mismo mes, frente a las fuentes que sitúan la compra el día 5; se fijó en 5.737,50 dólares el precio abonado, frente a los 5.737,59 que consignan algunas recopilaciones; se adoptó la longitud de 29,26 metros de las fuentes contemporáneas frente a los 28 metros de la ficha del Smithsonian; se deslindó esta aeronave del Signal Corps Airplane Nº 1, denominación del avión de los Wright adquirido en 1909.
 - **Datos no confirmados:** la duración exacta de los vuelos realizados el 12 de agosto de 1908, que las fuentes consultadas no detallan; el año concreto del vuelo del 26 de mayo en Fort Omaha, que las fuentes citan sin precisar el ejercicio.
 - **Nivel de confianza:** Alto

@@ -133,15 +133,15 @@ Henri Coandă es recordado como uno de los grandes pioneros de la aviación y la
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Henri_Coand%C4%83">Wikipedia – Henri Coandă</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Henri_Coand%C4%83">Wikipedia (ES) – Henri Coandă</a></li>
-    <li><a href="https://www.icr.ro/pagini/henri-marie-coanda">ICR – Henri Marie Coandă</a></li>
-    <li><a href="https://airandspace.si.edu/collection-archive/henri-coanda-papers-stine/sova-nasm-xxxx-0170">National Air and Space Museum – Henri Coanda Papers [Stine]</a></li>
-    <li><a href="https://aeroporturibucuresti.ro/en/about/technical-information/">Aeroportul Henri Coandă – Official Website</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Henri_Coand%C4%83" style="color: #315fea; text-decoration: none;">Wikipedia – Henri Coandă</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Henri_Coand%C4%83" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Henri Coandă</a></li>
+    <li><a href="https://www.icr.ro/pagini/henri-marie-coanda" style="color: #315fea; text-decoration: none;">ICR – Henri Marie Coandă</a></li>
+    <li><a href="https://airandspace.si.edu/collection-archive/henri-coanda-papers-stine/sova-nasm-xxxx-0170" style="color: #315fea; text-decoration: none;">National Air and Space Museum – Henri Coanda Papers [Stine]</a></li>
+    <li><a href="https://aeroporturibucuresti.ro/en/about/technical-information/" style="color: #315fea; text-decoration: none;">Aeroportul Henri Coandă – Official Website</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -154,7 +154,7 @@ Henri Coandă es recordado como uno de los grandes pioneros de la aviación y la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-03 15:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), Instituto Cultural Rumano (ICR), National Air and Space Museum (Smithsonian), Aeroportul Henri Coandă
 - **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (7 de junio de 1886) en fuentes primarias. Verificación de la fecha de fallecimiento (25 de noviembre de 1972). Aclaración de la controversia sobre el "primer avión a reacción" (Coandă-1910 vs. Heinkel He 178).
 - **Nivel de confianza:** Alto

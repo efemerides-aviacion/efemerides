@@ -12,7 +12,7 @@ image: 1947-07-08-primer-vuelo-boeing-377-stratocruiser.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1947-07-08-primer-vuelo-boeing-377-stratocruiser.webp" alt="Primer vuelo del Boeing Model 377 Stratocruiser NX90700, c/n 15922">
-  <figcaption class="post-caption">Primer vuelo del Boeing Model 377 Stratocruiser NX90700, c/n 15922. Tras completarse el programa de ensayos, este aparato fue actualizado al estándar 377-10-26 y entró en servicio con Pan American World Airways como <em>Clipper Nightingale</em>, matrícula N1022V. Fuente: <a href="https://www.thisdayinaviation.com/8-july-1947/">This Day in Aviation</a>.</figcaption>
+  <figcaption class="post-caption">Primer vuelo del Boeing Model 377 Stratocruiser NX90700, c/n 15922. Tras completarse el programa de ensayos, este aparato fue actualizado al estándar 377-10-26 y entró en servicio con Pan American World Airways como <em>Clipper Nightingale</em>, matrícula N1022V. Fuente: <a href="https://www.thisdayinaviation.com/8-july-1947/" style="color: #315fea; text-decoration: none;">This Day in Aviation</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -89,18 +89,18 @@ Su legado también sobrevivió de manera indirecta. La robusta célula del Strat
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_377_Stratocruiser">Wikipedia (EN) – Boeing 377 Stratocruiser</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Boeing_377">Wikipedia (ES) – Boeing 377</a></li>
-    <li><a href="https://www.thisdayinaviation.com/8-july-1947/">This Day in Aviation – 8 July 1947</a></li>
-    <li><a href="https://www.ecured.cu/Boeing_377#Primer_prototipo">EcuRed – Boeing 377</a></li>
-    <li><a href="https://www.wikiwand.com/es/Boeing_377">Wikiwand – Boeing 377</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_377_Stratocruiser" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Boeing 377 Stratocruiser</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Boeing_377" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Boeing 377</a></li>
+    <li><a href="https://www.thisdayinaviation.com/8-july-1947/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 8 July 1947</a></li>
+    <li><a href="https://www.ecured.cu/Boeing_377#Primer_prototipo" style="color: #315fea; text-decoration: none;">EcuRed – Boeing 377</a></li>
+    <li><a href="https://www.wikiwand.com/es/Boeing_377" style="color: #315fea; text-decoration: none;">Wikiwand – Boeing 377</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Esta efeméride se refiere al primer vuelo del prototipo Boeing 377 Stratocruiser NX90700, c/n 15922, realizado el 8 de julio de 1947. No debe confundirse con la entrada en servicio comercial ni con la posterior transformación del mismo aparato al estándar 377-10-26 para Pan American. Del mismo modo, aunque el Stratocruiser fue un pionero del transporte regular de pasajeros y correo en la posguerra, su desarrollo parte del ámbito militar y debe entenderse como una evolución civil del C-97 Stratofreighter.</p>
@@ -109,7 +109,7 @@ Su legado también sobrevivió de manera indirecta. La robusta célula del Strat
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-04 13:44:07 CST  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation  
 - **Fuentes secundarias de contraste:** Wikipedia (EN/ES), EcuRed, Wikiwand  
 - **Discrepancias resueltas:** Se armonizó la identificación del prototipo como NX90700, c/n 15922, y se distinguió entre el primer vuelo del prototipo en 1947 y su entrada posterior en servicio con Pan American  

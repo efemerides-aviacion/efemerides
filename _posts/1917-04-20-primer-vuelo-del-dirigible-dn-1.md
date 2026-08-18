@@ -133,13 +133,13 @@ Hoy, el DN-1 es una nota al pie de página en la historia de la aviación naval,
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/DN-1">Wikipedia (EN) - DN-1</a></li>
-    <li><a href="https://www.history.navy.mil/content/history/museums/nnam/education/articles/nas-pensacola-100th-anniversary/the-navy_s-first-airship-comes-to-pensacola.html">Naval History and Heritage Command (Navy.mil) - The Navy's First Airship Comes to Pensacola</a></li>
-    <li><a href="https://www.usni.org/magazines/naval-history-magazine/2020/april/first-blimp">U.S. Naval Institute - The First 'Blimp'</a></li>
-    <li><a href="https://www.usni.org/magazines/proceedings/1957/october/dn-1-u-s-navys-first-dirigible">USNI Proceedings - DN-1, The U.S. Navy's First Dirigible</a></li>
-    <li><a href="https://patriotspoint.org/news/navys-first-airship-1915">Patriots Point Naval & Maritime Museum - Navy's First Airship, 1915</a></li>
-    <li><a href="https://connecticuthistory.org/dn-1-the-us-navys-first-airship/">Connecticut History - DN-1: The US Navy's First Airship</a></li>
-    <li><a href="https://www.facebook.com/FLDeptofState/posts/952710790806887">Florida Department of State - America's first dirigible made its inaugural flight in Florida (20 April 1917)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/DN-1" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - DN-1</a></li>
+    <li><a href="https://www.history.navy.mil/content/history/museums/nnam/education/articles/nas-pensacola-100th-anniversary/the-navy_s-first-airship-comes-to-pensacola.html" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command (Navy.mil) - The Navy's First Airship Comes to Pensacola</a></li>
+    <li><a href="https://www.usni.org/magazines/naval-history-magazine/2020/april/first-blimp" style="color: #315fea; text-decoration: none;">U.S. Naval Institute - The First 'Blimp'</a></li>
+    <li><a href="https://www.usni.org/magazines/proceedings/1957/october/dn-1-u-s-navys-first-dirigible" style="color: #315fea; text-decoration: none;">USNI Proceedings - DN-1, The U.S. Navy's First Dirigible</a></li>
+    <li><a href="https://patriotspoint.org/news/navys-first-airship-1915" style="color: #315fea; text-decoration: none;">Patriots Point Naval & Maritime Museum - Navy's First Airship, 1915</a></li>
+    <li><a href="https://connecticuthistory.org/dn-1-the-us-navys-first-airship/" style="color: #315fea; text-decoration: none;">Connecticut History - DN-1: The US Navy's First Airship</a></li>
+    <li><a href="https://www.facebook.com/FLDeptofState/posts/952710790806887" style="color: #315fea; text-decoration: none;">Florida Department of State - America's first dirigible made its inaugural flight in Florida (20 April 1917)</a></li>
   </ul>
 </div>
 
@@ -147,7 +147,7 @@ Hoy, el DN-1 es una nota al pie de página en la historia de la aviación naval,
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-18 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Naval History and Heritage Command (.mil), U.S. Naval Institute, Wikipedia (EN), Patriots Point Museum, Connecticut History, Florida Department of State
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del primer vuelo (20 de abril de 1917). Algunas fuentes indican dos motores originales de 140 hp cada uno; otras indican 80 hp cada uno. Se ha priorizado la información del U.S. Naval Institute (140 hp). También hay discrepancia sobre si el DN-1 fue designado retrospectivamente como Clase A; la nota aclaratoria explica que esta designación nunca fue oficial durante su vida operativa.
 - **Nivel de confianza:** Alto

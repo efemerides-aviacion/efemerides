@@ -137,13 +137,13 @@ El ejemplo de Ana Luisa Branger demuestra que la pasión por volar no entiende d
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Ana_Branger">Wikipedia (EN) - Ana Branger</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Ana_Branger">Wikipedia (ES) - Ana Branger</a></li>
-    <li><a href="https://faostat.fai.org/record/10314">FAI Record - Ana Luisa Branger (20 April 1951) Altitude 8.276 m</a></li>
-    <li><a href="https://ipcsafety.fai.org/page/gac-records">FAI General Aviation Commission - Records (Ana Luisa Branger)</a></li>
-    <li><a href="https://venezolanosilustres.com/secciones/arte-y-cultura/ana-luisa-branger-representante-aviacion-civil/">Venezolanos Ilustres - Ana Luisa Branger representante aviación civil</a></li>
-    <li><a href="https://www.elnacional.com/2024/02/ana-luisa-branger-y-su-record-mundial-de-aviacion/">El Nacional - Ana Luisa Branger y su récord mundial de aviación</a></li>
-    <li><a href="https://inacvenezuela.wordpress.com/2016/01/28/ana-luisa-branger-precursora-de-la-aviacion-civil-venezolana/">INAC Venezuela - Ana Luisa Branger precursora aviación civil venezolana</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Ana_Branger" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Ana Branger</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Ana_Branger" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Ana Branger</a></li>
+    <li><a href="https://faostat.fai.org/record/10314" style="color: #315fea; text-decoration: none;">FAI Record - Ana Luisa Branger (20 April 1951) Altitude 8.276 m</a></li>
+    <li><a href="https://ipcsafety.fai.org/page/gac-records" style="color: #315fea; text-decoration: none;">FAI General Aviation Commission - Records (Ana Luisa Branger)</a></li>
+    <li><a href="https://venezolanosilustres.com/secciones/arte-y-cultura/ana-luisa-branger-representante-aviacion-civil/" style="color: #315fea; text-decoration: none;">Venezolanos Ilustres - Ana Luisa Branger representante aviación civil</a></li>
+    <li><a href="https://www.elnacional.com/2024/02/ana-luisa-branger-y-su-record-mundial-de-aviacion/" style="color: #315fea; text-decoration: none;">El Nacional - Ana Luisa Branger y su récord mundial de aviación</a></li>
+    <li><a href="https://inacvenezuela.wordpress.com/2016/01/28/ana-luisa-branger-precursora-de-la-aviacion-civil-venezolana/" style="color: #315fea; text-decoration: none;">INAC Venezuela - Ana Luisa Branger precursora aviación civil venezolana</a></li>
   </ul>
 </div>
 
@@ -151,7 +151,7 @@ El ejemplo de Ana Luisa Branger demuestra que la pasión por volar no entiende d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-18 12:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** FAI (Fédération Aéronautique Internationale) - registro oficial 10314, Wikipedia (EN/ES), Venezolanos Ilustres, El Nacional, INAC Venezuela
 - **Discrepancias resueltas:** Se ha priorizado la cifra oficial de la FAI (8.276 m) sobre las cifras periodísticas (28.820 pies / 8.790 m) por ser la entidad certificadora del récord. Se ha añadido nota aclaratoria explicando la discrepancia. La fecha de nacimiento de Ana Luisa Branger no ha podido ser verificada con fuentes primarias, por lo que se omite del post o se presenta como no confirmada.
 - **Nivel de confianza:** Alto

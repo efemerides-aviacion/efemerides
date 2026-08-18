@@ -32,7 +32,7 @@ image: 1970-03-04-primera-aerolinea-carga-europa.jpg
 - **Situación actual:** Principal aerolínea de carga de Europa, séptima del mundo por FTK según IATA (2020)  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Contexto histórico
+## Contexto Histórico
 La fundación de Cargolux marcó un hito en la aviación europea, al establecer la primera aerolínea dedicada exclusivamente al transporte de carga.
 
 ### Entorno social
@@ -82,8 +82,8 @@ Hoy en día, Cargolux es referente mundial en transporte de mercancías especial
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES/FR, Chambre de Commerce Luxembourg, LACCNYC, Air Cargo News, ITJ Transport Journal  
 - **Discrepancias resueltas:** Definición de “primera aerolínea de carga” en Europa  
 - **Nivel de confianza:** Alto  

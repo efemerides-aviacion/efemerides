@@ -85,11 +85,11 @@ Pan Am permanece como un ícono cultural y un caso de estudio en gestión estrat
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://aero-naves.com/2023/12/09/el-ultimo-vuelo-de-pan-am-un-epilogo-en-la-historia-de-la-aviacion/">Aero-Naves – El último vuelo de Pan Am</a></li>
-    <li><a href="https://www.gacetaeronautica.com/gaceta/wp-101/decadencia-y-caida-de-pan-american-world-airways/">Gaceta Aeronáutica – Decadencia y caída de Pan American World Airways</a></li>
-    <li><a href="https://www.prensalibre.com/hemeroteca/quiebra-de-pan-american-en-1991/">Prensa Libre – Quiebra de Pan American en 1991</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Pan_Am">Wikipedia (EN) – Pan Am</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Pan_American_World_Airways">Wikipedia (ES) – Pan American World Airways</a></li>
+    <li><a href="https://aero-naves.com/2023/12/09/el-ultimo-vuelo-de-pan-am-un-epilogo-en-la-historia-de-la-aviacion/" style="color: #315fea; text-decoration: none;">Aero-Naves – El último vuelo de Pan Am</a></li>
+    <li><a href="https://www.gacetaeronautica.com/gaceta/wp-101/decadencia-y-caida-de-pan-american-world-airways/" style="color: #315fea; text-decoration: none;">Gaceta Aeronáutica – Decadencia y caída de Pan American World Airways</a></li>
+    <li><a href="https://www.prensalibre.com/hemeroteca/quiebra-de-pan-american-en-1991/" style="color: #315fea; text-decoration: none;">Prensa Libre – Quiebra de Pan American en 1991</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Pan_Am" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Pan Am</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Pan_American_World_Airways" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Pan American World Airways</a></li>
   </ul>
 </div>
 
@@ -101,7 +101,7 @@ Pan Am permanece como un ícono cultural y un caso de estudio en gestión estrat
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-03 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Aero-Naves, Gaceta Aeronáutica, Prensa Libre, Wikipedia (EN/ES), archivos de aviación comercial
 - **Discrepancias resueltas:** Se aclara diferencia entre la fecha de quiebra (8 de enero de 1991) y la fecha del último vuelo (4 de diciembre de 1991). Se documenta la falta de confirmación sobre el número exacto de pasajeros y el destino final del avión.
 - **Nivel de confianza:** Alto

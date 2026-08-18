@@ -68,19 +68,19 @@ Adrienne Bolland es recordada como pionera de la aviación mundial y defensora d
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Adrienne_Bolland">Wikipedia en español – Adrienne Bolland</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Adrienne_Bolland">Wikipedia en inglés – Adrienne Bolland</a></li>
-    <li><a href="https://www.ecured.cu/Adrienne_Bolland">EcuRed – Adrienne Bolland</a></li>
-    <li><a href="https://www.cfam.edu.ar/2021/04/11/__trashed/">Colegio Franco Argentino – Reseña histórico-biográfica</a></li>
-    <li><a href="https://fcai.uncuyo.edu.ar/adrienne-bolland-aviadora-ejemplo-y-legado">UNCuyo – Adrienne Bolland: aviadora, ejemplo y legado</a></li>
-    <li><a href="https://www.infobae.com/sociedad/2021/04/02/la-historia-de-adrienne-bolland-la-aviadora-que-hace-100-anos-hizo-historia-al-cruzar-la-cordillera-de-los-andes/">Infobae – La aviadora que cruzó los Andes</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Adrienne_Bolland" style="color: #315fea; text-decoration: none;">Wikipedia en español – Adrienne Bolland</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Adrienne_Bolland" style="color: #315fea; text-decoration: none;">Wikipedia en inglés – Adrienne Bolland</a></li>
+    <li><a href="https://www.ecured.cu/Adrienne_Bolland" style="color: #315fea; text-decoration: none;">EcuRed – Adrienne Bolland</a></li>
+    <li><a href="https://www.cfam.edu.ar/2021/04/11/__trashed/" style="color: #315fea; text-decoration: none;">Colegio Franco Argentino – Reseña histórico-biográfica</a></li>
+    <li><a href="https://fcai.uncuyo.edu.ar/adrienne-bolland-aviadora-ejemplo-y-legado" style="color: #315fea; text-decoration: none;">UNCuyo – Adrienne Bolland: aviadora, ejemplo y legado</a></li>
+    <li><a href="https://www.infobae.com/sociedad/2021/04/02/la-historia-de-adrienne-bolland-la-aviadora-que-hace-100-anos-hizo-historia-al-cruzar-la-cordillera-de-los-andes/" style="color: #315fea; text-decoration: none;">Infobae – La aviadora que cruzó los Andes</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2025-11-25 14:22:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Registros biográficos; archivos de la Société des Avions Caudron; publicaciones oficiales de conmemoraciones  
 - **Discrepancias resueltas:** Ninguna; fechas de nacimiento y hazañas consistentes en todas las fuentes  
 - **Nivel de confianza:** Alto  

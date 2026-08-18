@@ -12,7 +12,7 @@ image: 1992-07-11-fav-red-flag.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1992-07-11-fav-red-flag.webp" alt="F-16 de la Fuerza Aérea Venezolana durante su despliegue en Red Flag 1992">
-  <figcaption class="post-caption">F-16 de la Fuerza Aérea Venezolana durante el despliegue de la FAV en Red Flag 92, en la Base Aérea Nellis. Fuente: <a href="http://latinarmedforces.blogspot.com/2010/08/venezuela-en-red-flag.html">Fuerzas Armadas de Latinoamérica</a>.</figcaption>
+  <figcaption class="post-caption">F-16 de la Fuerza Aérea Venezolana durante el despliegue de la FAV en Red Flag 92, en la Base Aérea Nellis. Fuente: <a href="http://latinarmedforces.blogspot.com/2010/08/venezuela-en-red-flag.html" style="color: #315fea; text-decoration: none;">Fuerzas Armadas de Latinoamérica</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -89,18 +89,18 @@ A largo plazo, aquella participación se convirtió en un punto de referencia de
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=10687&context=notisur">UNM Digital Repository / NotiSur – Venezuela: Air Force Participates In N.A.T.O. Maneuvers</a></li>
-    <li><a href="https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/2605882/414th-combat-training-squadron-red-flag/">U.S. Air Force Warfare Center – 414th Combat Training Squadron "Red Flag"</a></li>
-    <li><a href="https://www.defensa.com/venezuela/aviones-combate-f-16-37-anos-aviacion-militar-venezuela">Noticias Defensa Venezuela – Aviones de combate F-16: 37 años en la Aviación Militar de Venezuela</a></li>
-    <li><a href="http://latinarmedforces.blogspot.com/2010/08/venezuela-en-red-flag.html">Fuerzas Armadas de Latinoamérica – Venezuela en "Red Flag"</a></li>
-    <li><a href="https://www.infobae.com/america/venezuela/2020/11/29/nos-salvamos-porque-dios-es-aviador-tambien-el-relato-de-uno-de-los-dos-pilotos-de-los-f16-que-enfrentaron-a-96-aviones-en-el-golpe-militar-en-1992/">Infobae – “Nos salvamos porque Dios es aviador también”: el relato de uno de los dos pilotos de los F16 que enfrentaron a 96 aviones en el Golpe Militar en 1992</a></li>
+    <li><a href="https://digitalrepository.unm.edu/cgi/viewcontent.cgi?article=10687&context=notisur" style="color: #315fea; text-decoration: none;">UNM Digital Repository / NotiSur – Venezuela: Air Force Participates In N.A.T.O. Maneuvers</a></li>
+    <li><a href="https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/2605882/414th-combat-training-squadron-red-flag/" style="color: #315fea; text-decoration: none;">U.S. Air Force Warfare Center – 414th Combat Training Squadron "Red Flag"</a></li>
+    <li><a href="https://www.defensa.com/venezuela/aviones-combate-f-16-37-anos-aviacion-militar-venezuela" style="color: #315fea; text-decoration: none;">Noticias Defensa Venezuela – Aviones de combate F-16: 37 años en la Aviación Militar de Venezuela</a></li>
+    <li><a href="http://latinarmedforces.blogspot.com/2010/08/venezuela-en-red-flag.html" style="color: #315fea; text-decoration: none;">Fuerzas Armadas de Latinoamérica – Venezuela en "Red Flag"</a></li>
+    <li><a href="https://www.infobae.com/america/venezuela/2020/11/29/nos-salvamos-porque-dios-es-aviador-tambien-el-relato-de-uno-de-los-dos-pilotos-de-los-f16-que-enfrentaron-a-96-aviones-en-el-golpe-militar-en-1992/" style="color: #315fea; text-decoration: none;">Infobae – “Nos salvamos porque Dios es aviador también”: el relato de uno de los dos pilotos de los F16 que enfrentaron a 96 aviones en el Golpe Militar en 1992</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes consultadas coinciden en que la participación venezolana ocurrió dentro de la edición de Red Flag desarrollada entre el 19 de junio y el 17 de julio de 1992. Sin embargo, no fijan un único día como hito central de esa presencia. Por ello, esta efeméride utiliza el<strong> 11 de julio de 1992</strong> como fecha de referencia simbólica, en atención a la cobertura periodística local (<strong>El Siglo</strong>, Maracay), que reseñó el retorno de los pilotos venezolanos con titulares de orgullo nacional. Se deja a la audiencia valorar si ese día debe considerarse como el momento significativo del regreso o simplemente como un punto dentro del despliegue. Asimismo, algunos reportes contemporáneos describieron el episodio como maniobras de la OTAN, mientras que la documentación institucional de Nellis define Red Flag como un ejercicio de la USAF con participación de fuerzas aliadas; en el texto se ha privilegiado esta segunda formulación por ser la más precisa desde el punto de vista organizativo.
@@ -110,7 +110,7 @@ A largo plazo, aquella participación se convirtió en un punto de referencia de
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-07 07:35:36 CST  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** U.S. Air Force Warfare Center, reporte contemporáneo de Xinhua reproducido por NotiSur  
 - **Fuentes secundarias de contraste:** Noticias Defensa Venezuela, Fuerzas Armadas de Latinoamérica, Infobae  
 - **Discrepancias resueltas:** se distinguió entre la fecha de referencia de la efeméride y el rango completo del ejercicio; se aclaró la diferencia entre la caracterización periodística como maniobras de la OTAN y la definición institucional de Red Flag como ejercicio de la USAF; se omitieron detalles de segundas participaciones posteriores por no existir coincidencia plena entre las fuentes reunidas  

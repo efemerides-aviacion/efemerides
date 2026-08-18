@@ -144,9 +144,9 @@ De los 384 construidos sobreviven cuatro, repartidos entre museos de Ohio, Arizo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-03 09:15:54 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force, ficha del B-36J conservado en su colección; Air Force Materiel Command History Office, documento histórico sobre el programa y su personal; Air Force Historical Foundation; Code One Magazine, con el testimonio directo del piloto del primer vuelo.
-- **Fuentes secundarias de contraste:** This Day in Aviation, con las especificaciones detalladas del prototipo y la relación de tripulantes; <em>Aviation History</em> vía HistoryNet, con el origen del nombre y la valoración del programa; Pima Air and Space Museum; Wikipedia en inglés y en español, con referencia a las obras de Knaack, Jacobson y Jenkins; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** This Day in Aviation, con las especificaciones detalladas del prototipo y la relación de tripulantes; <em>Aviation History</em> vía HistoryNet, con el origen del nombre y la valoración del programa; Pima Air and Space Museum; Wikipedia en inglés y en español, con referencia a las obras de Knaack, Jacobson y Jenkins.
 - **Discrepancias resueltas:** se adoptó la duración de treinta y ocho minutos que consta en el testimonio del piloto frente a los treinta y seis de otras recopilaciones; se precisó que el despegue tuvo lugar pasado el mediodía y no a primera hora; se distinguieron las prestaciones estimadas del prototipo de las medidas en las versiones de serie con diez motores; se aclaró que el nombre «Peacemaker» procede de un concurso interno del fabricante y nunca fue oficial; se registró la divergencia sobre el número de unidades construidas y de ejemplares conservados.
 - **Datos no confirmados:** la cifra de asistentes al primer vuelo, que algunas fuentes sitúan en siete mil trabajadores de la factoría sin respaldo documental localizable.
 - **Nivel de confianza:** Alto

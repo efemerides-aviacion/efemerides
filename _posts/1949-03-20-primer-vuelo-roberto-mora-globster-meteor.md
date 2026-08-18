@@ -75,16 +75,16 @@ El capitán Roberto José Mora Contreras es recordado como el primer piloto vene
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://favclubven.wordpress.com/2025/12/29/el-capitan-roberto-jose-mora-contreras-pionero-en-aviones-jet/">FAV-Club – El capitán Roberto José Mora Contreras, pionero en aviones jet</a></li>
-    <li><a href="https://www.facebook.com/fuerzaaereavenezolana.fav/photos/historia-f-a-vel-capit%C3%A1n-av-roberto-jos%C3%A9-mora-contreraspione">Facebook Fuerza Aérea Venezolana – Historia FAV: Capitán Roberto José Mora Contreras</a></li>
-    <li><a href="https://www.facebook.com/favclub/posts/articulo-el-capit%C3%A1n-roberto-jos%C3%A9-mora-contreras-el-primer-venezolano-en-volar-e">Facebook FAV-Club – Artículo: Capitán Roberto José Mora Contreras, primer venezolano en volar jet</a></li>
-    <li><a href="https://favclubven.wordpress.com/tag/fuerza-aerea-venezolana/">FAV-Club – Fuerza Aérea Venezolana (etiqueta con referencias a Mora)</a></li>
+    <li><a href="https://favclubven.wordpress.com/2025/12/29/el-capitan-roberto-jose-mora-contreras-pionero-en-aviones-jet/" style="color: #315fea; text-decoration: none;">FAV-Club – El capitán Roberto José Mora Contreras, pionero en aviones jet</a></li>
+    <li><a href="https://www.facebook.com/fuerzaaereavenezolana.fav/photos/historia-f-a-vel-capit%C3%A1n-av-roberto-jos%C3%A9-mora-contreraspione" style="color: #315fea; text-decoration: none;">Facebook Fuerza Aérea Venezolana – Historia FAV: Capitán Roberto José Mora Contreras</a></li>
+    <li><a href="https://www.facebook.com/favclub/posts/articulo-el-capit%C3%A1n-roberto-jos%C3%A9-mora-contreras-el-primer-venezolano-en-volar-e" style="color: #315fea; text-decoration: none;">Facebook FAV-Club – Artículo: Capitán Roberto José Mora Contreras, primer venezolano en volar jet</a></li>
+    <li><a href="https://favclubven.wordpress.com/tag/fuerza-aerea-venezolana/" style="color: #315fea; text-decoration: none;">FAV-Club – Fuerza Aérea Venezolana (etiqueta con referencias a Mora)</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-18 15:20:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** FAV-Club (WordPress), publicaciones oficiales de la Fuerza Aérea Venezolana en Facebook  
 - **Discrepancias resueltas:** No se identificaron discrepancias significativas en las fuentes consultadas; todas coinciden en los hitos y fechas clave.  
 - **Nivel de confianza:** Alto  

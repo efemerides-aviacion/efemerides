@@ -34,7 +34,7 @@ image: 1895-12-21-nacimiento-donald-hudson.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Contexto histórico
+## Contexto Histórico
 Donald Hudson representa la transición de la aviación militar en Europa hacia la expansión pionera en Sudamérica.
 
 ### Entorno social
@@ -61,13 +61,13 @@ Donald Hudson es recordado como as de la Gran Guerra y pionero de la aviación a
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Donald_Hudson_(aviator)">Wikipedia (EN) – Donald Hudson (aviator)</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Donald_Hudson">Wikipedia (ES) – Donald Hudson</a></li>
-    <li><a href="https://theaerodrome.com/aces/usa/hudson1.php">The Aerodrome – HudsonDonald Hudson</a></li>
-    <li><a href="https://historias-bolivia.blogspot.com/2017/08/1920-donald-hudson-y-el-triplano.html">Historias Bolivia – Donald Hudson y el triplano Curtiss Wasp en Bolivia (1920)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Donald_Hudson_(aviator)" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Donald Hudson (aviator)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Donald_Hudson" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Donald Hudson</a></li>
+    <li><a href="https://theaerodrome.com/aces/usa/hudson1.php" style="color: #315fea; text-decoration: none;">The Aerodrome – HudsonDonald Hudson</a></li>
+    <li><a href="https://historias-bolivia.blogspot.com/2017/08/1920-donald-hudson-y-el-triplano.html" style="color: #315fea; text-decoration: none;">Historias Bolivia – Donald Hudson y el triplano Curtiss Wasp en Bolivia (1920)</a></li>
   </ul>
 </div>
 
@@ -77,8 +77,8 @@ Donald Hudson es recordado como as de la Gran Guerra y pionero de la aviación a
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Metadatos de control
-- **Timestamp de verificación:** 2026-03-01 10:45 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia EN/ES, The Aerodrome, Historias Bolivia   
 - **Discrepancias resueltas:** Número de victorias aéreas en la Primera Guerra Mundial y atribución del primer vuelo en Bolivia  
 - **Nivel de confianza:** Alto  

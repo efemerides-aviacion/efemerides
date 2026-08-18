@@ -124,16 +124,16 @@ El término "dawn-to-dusk" se convirtió en sinónimo de velocidad y resistencia
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Dawn-to-dusk_transcontinental_flight_across_the_United_States">Wikipedia – Dawn-to-dusk transcontinental flight across the United States</a></li>
-    <li><a href="https://www.smithsonianmag.com/air-space-magazine/coast-to-coast-dawn-to-dusk-in-1924-108135679/">Smithsonian Magazine – Coast-to-coast, dawn-to-dusk, in 1924</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/dawn-to-dusk-flight/">This Day in Aviation – Tag Archives: Dawn-to-Dusk Flight</a></li>
-    <li><a href="https://www.airandspaceforces.com/this-day-in-airpower/june-23-1924/">Air & Space Forces Magazine – June 23, 1924</a></li>
-    <li><a href="https://www.nytimes.com/1924/06/24/archives/lieut-maughan-flies-from-coast-to-coast-in-21-hours-4812-min-first.html">The New York Times – Maughan Flies From Coast to Coast (24 de junio de 1924)</a></li>
-    <li><a href="https://www.si.edu/object/archives/components/sova-nasm-xxxx-0067-ref15546">Smithsonian Institution – Image of Maughan with Curtiss PW-8 (NASM.XXXX.0067)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Dawn-to-dusk_transcontinental_flight_across_the_United_States" style="color: #315fea; text-decoration: none;">Wikipedia – Dawn-to-dusk transcontinental flight across the United States</a></li>
+    <li><a href="https://www.smithsonianmag.com/air-space-magazine/coast-to-coast-dawn-to-dusk-in-1924-108135679/" style="color: #315fea; text-decoration: none;">Smithsonian Magazine – Coast-to-coast, dawn-to-dusk, in 1924</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/dawn-to-dusk-flight/" style="color: #315fea; text-decoration: none;">This Day in Aviation – Tag Archives: Dawn-to-Dusk Flight</a></li>
+    <li><a href="https://www.airandspaceforces.com/this-day-in-airpower/june-23-1924/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine – June 23, 1924</a></li>
+    <li><a href="https://www.nytimes.com/1924/06/24/archives/lieut-maughan-flies-from-coast-to-coast-in-21-hours-4812-min-first.html" style="color: #315fea; text-decoration: none;">The New York Times – Maughan Flies From Coast to Coast (24 de junio de 1924)</a></li>
+    <li><a href="https://www.si.edu/object/archives/components/sova-nasm-xxxx-0067-ref15546" style="color: #315fea; text-decoration: none;">Smithsonian Institution – Image of Maughan with Curtiss PW-8 (NASM.XXXX.0067)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El vuelo se realizó el <strong>23 de junio de 1924</strong>. La duración total del vuelo fue de 21 horas y 48 minutos, de las cuales 18 horas y 20 minutos fueron de vuelo real. Aunque algunos titulares de la época mencionan que Maughan aterrizó justo antes del anochecer, otras fuentes indican que lo hizo justo después. El récord se estableció como "de amanecer a anochecer" porque el retraso en Dayton fue por una avería mecánica, no por una decisión del piloto.</p>
@@ -143,7 +143,7 @@ El término "dawn-to-dusk" se convirtió en sinónimo de velocidad y resistencia
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-18 13:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Smithsonian Magazine, This Day in Aviation, Air & Space Forces Magazine, The New York Times, Smithsonian Institution
 - **Discrepancias resueltas:** Algunas fuentes indican que Maughan aterrizó justo antes del anochecer y otras justo después. La mayoría coincide en que el vuelo se considera "de amanecer a anochecer" porque el retraso fue por una avería mecánica, no por decisión del piloto. La distancia exacta varía ligeramente entre 2.670 y 2.700 millas; se ha utilizado la cifra más común.
 - **Nivel de confianza:** Alto

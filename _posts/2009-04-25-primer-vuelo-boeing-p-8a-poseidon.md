@@ -147,11 +147,11 @@ El primer prototipo T-1 continúa en servicio como avión de pruebas y desarroll
 
 <div class="references">
   <ul>
-    <li><a href="https://boeing.mediaroom.com/2009-04-27-Boeing-P-8A-Poseidon-Successfully-Completes-1st-Flight">Boeing MediaRoom - Boeing P-8A Poseidon Successfully Completes 1st Flight</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Boeing_P-8_Poseidon">Wikipedia (ES) - Boeing P-8 Poseidon</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon">Wikipedia (EN) - Boeing P-8 Poseidon</a></li>
-    <li><a href="https://www.hispaviacion.es/p-8a-poseidon-el-nuevo-patrullero-de-la-us-navy/">Hispaviación - P-8A Poseidon, el nuevo patrullero de la US Navy</a></li>
-    <li><a href="https://www.navair.navy.mil/product/P-8A-Poseidon">NAVAIR (US Navy) - P-8A Poseidon</a></li>
+    <li><a href="https://boeing.mediaroom.com/2009-04-27-Boeing-P-8A-Poseidon-Successfully-Completes-1st-Flight" style="color: #315fea; text-decoration: none;">Boeing MediaRoom - Boeing P-8A Poseidon Successfully Completes 1st Flight</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Boeing_P-8_Poseidon" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Boeing P-8 Poseidon</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_P-8_Poseidon" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Boeing P-8 Poseidon</a></li>
+    <li><a href="https://www.hispaviacion.es/p-8a-poseidon-el-nuevo-patrullero-de-la-us-navy/" style="color: #315fea; text-decoration: none;">Hispaviación - P-8A Poseidon, el nuevo patrullero de la US Navy</a></li>
+    <li><a href="https://www.navair.navy.mil/product/P-8A-Poseidon" style="color: #315fea; text-decoration: none;">NAVAIR (US Navy) - P-8A Poseidon</a></li>
   </ul>
 </div>
 
@@ -159,7 +159,7 @@ El primer prototipo T-1 continúa en servicio como avión de pruebas y desarroll
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-23 14:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Boeing MediaRoom, Wikipedia (ES/EN), Hispaviación, NAVAIR (.mil)
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (25 de abril de 2009), la duración (3 horas 31 minutos) y la altitud (25.000 pies). No se ha podido confirmar la identidad de los pilotos de pruebas que realizaron el vuelo inaugural.
 - **Nivel de confianza:** Alto

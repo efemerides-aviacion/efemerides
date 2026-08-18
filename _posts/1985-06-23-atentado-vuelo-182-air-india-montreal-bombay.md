@@ -151,15 +151,15 @@ El 23 de junio de 2025, en el 40 aniversario del atentado, el ministro de Asunto
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_182_de_Air_India">Wikipedia – Vuelo 182 de Air India</a></li>
-    <li><a href="https://www.bbc.com/onthisday/june/23">BBC News – Air India bombing remembered</a></li>
-    <li><a href="https://www.ebsco.com/research-starters/history/air-india-flight-182-bombing">EBSCO Research Starters – Air India Flight 182 bombing</a></li>
-    <li><a href="https://www.wikiwand.com/es/Vuelo_182_de_Air_India">Wikiwand – Vuelo 182 de Air India</a></li>
-    <li><a href="https://www.cbc.ca/lite/story/1.7566801">CBC News – Victims of 1985 Air India bombing honoured in online archive (2025)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_182_de_Air_India" style="color: #315fea; text-decoration: none;">Wikipedia – Vuelo 182 de Air India</a></li>
+    <li><a href="https://www.bbc.com/onthisday/june/23" style="color: #315fea; text-decoration: none;">BBC News – Air India bombing remembered</a></li>
+    <li><a href="https://www.ebsco.com/research-starters/history/air-india-flight-182-bombing" style="color: #315fea; text-decoration: none;">EBSCO Research Starters – Air India Flight 182 bombing</a></li>
+    <li><a href="https://www.wikiwand.com/es/Vuelo_182_de_Air_India" style="color: #315fea; text-decoration: none;">Wikiwand – Vuelo 182 de Air India</a></li>
+    <li><a href="https://www.cbc.ca/lite/story/1.7566801" style="color: #315fea; text-decoration: none;">CBC News – Victims of 1985 Air India bombing honoured in online archive (2025)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El atentado del vuelo 182 de Air India ocurrió el <strong>23 de junio de 1985</strong>. Fue el ataque terrorista más mortífero contra un avión hasta los atentados del 11 de septiembre de 2001. El mismo día, otra bomba del mismo grupo explotó en el Aeropuerto de Narita (Tokio), matando a dos trabajadores. La investigación y el juicio, el más caro de la historia de Canadá, solo logró una condena: la de Inderjit Singh Reyat, el fabricante de las bombas. Los otros principales acusados fueron absueltos en 2005.</p>
@@ -169,7 +169,7 @@ El 23 de junio de 2025, en el 40 aniversario del atentado, el ministro de Asunto
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-19 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, BBC News, EBSCO Research Starters, Wikiwand, CBC News
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (23 de junio de 1985), el número de víctimas (329) y la causa (bomba en el compartimiento de carga). El número de ciudadanos canadienses varía entre 280 y 288 según la fuente; la cifra más comúnmente citada es 280, que se ha utilizado.
 - **Nivel de confianza:** Alto

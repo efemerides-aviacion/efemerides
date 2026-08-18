@@ -128,15 +128,15 @@ La góndola del Pilgrim, en el Smithsonian, es un testimonio de la era dorada de
 
 <div class="references">
   <ul>
-    <li><a href="https://airandspace.si.edu/collection-objects/goodyear-pilgrim-gondola/nasm_A19330024000">Smithsonian National Air and Space Museum – Goodyear "Pilgrim" Gondola</a></li>
-    <li><a href="https://www.blimpinfo.com/airships/goodyear-blimp-pilgrim-makes-first-flight-on-june-3-1925/">Blimpinfo – Goodyear Blimp ‘Pilgrim’ Makes First Flight on June 3, 1925</a></li>
-    <li><a href="https://www.goodyear.com/en_US/blimp/history/the-first-goodyear-blimp.html">Goodyear – Pilgrim: The First Goodyear Blimp</a></li>
-    <li><a href="https://www.airwaysmag.com/new-post/first-flight-goodyear-blimp-pilgrim">Airways Magazine – 6/03/1925: First Flight of the Goodyear Blimp</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Goodyear_blimp">Wikipedia – Goodyear Blimp</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/goodyear-pilgrim-gondola/nasm_A19330024000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Goodyear "Pilgrim" Gondola</a></li>
+    <li><a href="https://www.blimpinfo.com/airships/goodyear-blimp-pilgrim-makes-first-flight-on-june-3-1925/" style="color: #315fea; text-decoration: none;">Blimpinfo – Goodyear Blimp ‘Pilgrim’ Makes First Flight on June 3, 1925</a></li>
+    <li><a href="https://www.goodyear.com/en_US/blimp/history/the-first-goodyear-blimp.html" style="color: #315fea; text-decoration: none;">Goodyear – Pilgrim: The First Goodyear Blimp</a></li>
+    <li><a href="https://www.airwaysmag.com/new-post/first-flight-goodyear-blimp-pilgrim" style="color: #315fea; text-decoration: none;">Airways Magazine – 6/03/1925: First Flight of the Goodyear Blimp</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Goodyear_blimp" style="color: #315fea; text-decoration: none;">Wikipedia – Goodyear Blimp</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -150,7 +150,7 @@ La góndola del Pilgrim, en el Smithsonian, es un testimonio de la era dorada de
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-31 11:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Smithsonian NASM, Blimpinfo, Goodyear, Airways Magazine, Wikipedia
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (3 de junio de 1925) en todas las fuentes. Verificación de los datos operativos (4.765 vuelos, 5.355 pasajeros, 2.880 horas). Aclaración del uso de hidrógeno en los primeros vuelos.
 - **Nivel de confianza:** Alto

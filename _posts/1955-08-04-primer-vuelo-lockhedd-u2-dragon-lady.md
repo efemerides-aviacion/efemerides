@@ -119,9 +119,9 @@ Queda además una lección de método. El U-2 se diseñó, construyó y llevó a
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-30 07:54:39 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (Smithsonian Institution); Central Intelligence Agency, relato institucional sobre el vuelo accidental en versión archivada; Air Combat Command de la Fuerza Aérea de Estados Unidos.
-- **Fuentes secundarias de contraste:** This Day in Aviation, Wikipedia en inglés y en español, borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** This Day in Aviation, Wikipedia en inglés y en español.
 - **Discrepancias resueltas:** se separó con claridad el vuelo involuntario del 1 de agosto de 1955 del primer vuelo de pruebas planificado del 4 de agosto, distinción confirmada tanto por This Day in Aviation como por Wikipedia en inglés, que sitúa el vuelo intencionado «tres días después»; se acotaron las prestaciones citadas a la versión U-2A inicial; se verificó la coherencia entre la fecha del hecho, el título, el nombre del archivo y el YAML. La ficha del National Museum of the United States Air Force incluida en el borrador no pudo consultarse por devolver un error 403 desde este entorno, y se sustituyó por la ficha del Smithsonian.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

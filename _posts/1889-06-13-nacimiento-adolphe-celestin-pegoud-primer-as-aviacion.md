@@ -114,16 +114,16 @@ En Francia, su memoria perdura. Existe un monumento en su honor en Montferrat, s
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/List_of_aces_of_aces">Wikipedia – List of aces of aces</a></li>
-    <li><a href="https://www.britannica.com/biography/Adolphe-Pegoud">Encyclopaedia Britannica – Adolphe Pégoud</a></li>
-    <li><a href="https://www.earlyaviators.com/epegoud2.htm">Early Aviators – Adolphe Pegoud</a></li>
-    <li><a href="https://military-history.fandom.com/wiki/Flying_ace">Military Wiki – Flying ace</a></li>
-    <li><a href="https://web.archive.org/web/20241202233939/https://en.wikipedia.org/wiki/List_of_aces_of_aces">Wikipedia (Archived) – List of aces of aces</a></li>
-    <li><a href="https://manuscripts.co.uk/stock/24146.HTM">John Wilson Manuscripts – Blériot / Pégoud autograph</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/List_of_aces_of_aces" style="color: #315fea; text-decoration: none;">Wikipedia – List of aces of aces</a></li>
+    <li><a href="https://www.britannica.com/biography/Adolphe-Pegoud" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica – Adolphe Pégoud</a></li>
+    <li><a href="https://www.earlyaviators.com/epegoud2.htm" style="color: #315fea; text-decoration: none;">Early Aviators – Adolphe Pegoud</a></li>
+    <li><a href="https://military-history.fandom.com/wiki/Flying_ace" style="color: #315fea; text-decoration: none;">Military Wiki – Flying ace</a></li>
+    <li><a href="https://web.archive.org/web/20241202233939/https://en.wikipedia.org/wiki/List_of_aces_of_aces" style="color: #315fea; text-decoration: none;">Wikipedia (Archived) – List of aces of aces</a></li>
+    <li><a href="https://manuscripts.co.uk/stock/24146.HTM" style="color: #315fea; text-decoration: none;">John Wilson Manuscripts – Blériot / Pégoud autograph</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El borrador de la investigación preliminar contenía varias imprecisiones que han sido corregidas en esta versión final. El lugar de nacimiento de Pégoud es <strong>Montferrat (Isère)</strong>, no Montélimar. La fecha de su muerte es el <strong>31 de agosto de 1915</strong>, no el 25 de septiembre. Fue abatido en <strong>Petit-Croix</strong> por el suboficial alemán Otto Kandulski, un antiguo alumno suyo, no por fuego amigo. Sus victorias confirmadas son <strong>6</strong>, alcanzando la quinta el 28 de abril de 1915, fecha en que se convirtió en el primer as. En cuanto al primer looping de la historia, el ruso Pyotr Nesterov lo realizó el 9 de septiembre de 1913; Pégoud lo hizo doce días después, el 21 de septiembre de 1913, pero fue el primero en realizarlo en ambas direcciones y en volar invertido de forma intencionada. El término «as» fue acuñado por la prensa francesa para describir a Pégoud tras alcanzar las cinco victorias.</p>
@@ -133,7 +133,7 @@ En Francia, su memoria perdura. Existe un monumento en su honor en Montferrat, s
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-09 12:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Encyclopaedia Britannica, Early Aviators, Wikipedia (List of aces of aces), Military Wiki, John Wilson Manuscripts
 - **Discrepancias resueltas:** Corregido lugar de nacimiento (Montferrat), fecha de muerte (31 de agosto de 1915), lugar de muerte (Petit-Croix), causa de muerte (abatido por antiguo alumno Otto Kandulski). Se especifica que alcanzó 5 victorias (siendo el primer as) y luego una sexta. Matizado el primer looping (Nesterov fue el primero, Pégoud el segundo pero primero en volar invertido).
 - **Nivel de confianza:** Alto

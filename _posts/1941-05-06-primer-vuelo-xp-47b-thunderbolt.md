@@ -175,11 +175,11 @@ El primer vuelo del XP-47B el 6 de mayo de 1941, con Brabham luchando contra el 
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/tag/alexander-kartveli/">This Day in Aviation - Alexander Kartveli / XP-47B first flight</a></li>
-    <li><a href="https://supersabresociety.org/this_time_in_history/today-in-history-may-6-1941-i-think-weve-hit-the-jackpot/">Super Sabre Society - Today in History, May 6, 1941</a></li>
-    <li><a href="https://www.onet.pl/informacje/nowa-technika-wojskowa/p-47-thunderbolt-najpotezniejszy-myśliwiec-aliantow/mpr6p2r,30bc1058">Onet.pl - P-47 Thunderbolt, 85. rocznica pierwszego lotu (2026)</a></li>
-    <li><a href="https://www.americanairmuseum.com/archive/media/media-456518jpg">American Air Museum - Fotografía del XP-47B en formación</a></li>
-    <li><a href="https://eaa1541.org/members/newsletters/november-2017/the-evolution-of-the-republic-p-47-thunderbolt-part-3-the-republic-thunderbolt/">EAA Chapter 1541 - The Evolution of the Republic P-47 Thunderbolt</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/alexander-kartveli/" style="color: #315fea; text-decoration: none;">This Day in Aviation - Alexander Kartveli / XP-47B first flight</a></li>
+    <li><a href="https://supersabresociety.org/this_time_in_history/today-in-history-may-6-1941-i-think-weve-hit-the-jackpot/" style="color: #315fea; text-decoration: none;">Super Sabre Society - Today in History, May 6, 1941</a></li>
+    <li><a href="https://www.onet.pl/informacje/nowa-technika-wojskowa/p-47-thunderbolt-najpotezniejszy-myśliwiec-aliantow/mpr6p2r,30bc1058" style="color: #315fea; text-decoration: none;">Onet.pl - P-47 Thunderbolt, 85. rocznica pierwszego lotu (2026)</a></li>
+    <li><a href="https://www.americanairmuseum.com/archive/media/media-456518jpg" style="color: #315fea; text-decoration: none;">American Air Museum - Fotografía del XP-47B en formación</a></li>
+    <li><a href="https://eaa1541.org/members/newsletters/november-2017/the-evolution-of-the-republic-p-47-thunderbolt-part-3-the-republic-thunderbolt/" style="color: #315fea; text-decoration: none;">EAA Chapter 1541 - The Evolution of the Republic P-47 Thunderbolt</a></li>
   </ul>
 </div>
 
@@ -187,7 +187,7 @@ El primer vuelo del XP-47B el 6 de mayo de 1941, con Brabham luchando contra el 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-06 10:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, Super Sabre Society, Onet.pl, American Air Museum, EAA Chapter 1541
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (6 de mayo de 1941). El piloto fue Lowery Lawson Brabham (también escrito Lowry P. Brabham). La velocidad máxima alcanzada en pruebas fue de 663 km/h con el motor limitado por una culata agrietada. El prototipo fue destruido el 4 de agosto de 1942.
 - **Nivel de confianza:** Alto

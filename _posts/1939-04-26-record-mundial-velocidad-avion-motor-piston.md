@@ -159,12 +159,12 @@ La marca de 755,14 km/h establecida por Wendel se mantuvo como el récord mundia
 
 <div class="references">
   <ul>
-    <li><a href="https://www.fai.org/record/8743">FAI Official Record File No. 8743: Fritz Wendel (GER)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Fritz_Wendel">Wikipedia (EN) - Fritz Wendel</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Messerschmitt_Me_209">Wikipedia (ES) - Messerschmitt Me 209</a></li>
-    <li><a href="https://www.thisdayinaviation.com/26-april-1939-2/">This Day in Aviation - 26 April 1939</a></li>
-    <li><a href="https://air-racing-history.com/aircraft/Messerschmitt%20Me%20209.htm">Air Racing History - Messerschmitt Me 209</a></li>
-    <li><a href="https://www.flugrevue.de/klassiker/messerschmitt-me-209-rekordflugzeug-mit-jaeger-genen-v1/">Flug Revue - Messerschmitt Me 209: Rekordflugzeug mit Jäger-Genen</a></li>
+    <li><a href="https://www.fai.org/record/8743" style="color: #315fea; text-decoration: none;">FAI Official Record File No. 8743: Fritz Wendel (GER)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Fritz_Wendel" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Fritz Wendel</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Messerschmitt_Me_209" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Messerschmitt Me 209</a></li>
+    <li><a href="https://www.thisdayinaviation.com/26-april-1939-2/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 26 April 1939</a></li>
+    <li><a href="https://air-racing-history.com/aircraft/Messerschmitt%20Me%20209.htm" style="color: #315fea; text-decoration: none;">Air Racing History - Messerschmitt Me 209</a></li>
+    <li><a href="https://www.flugrevue.de/klassiker/messerschmitt-me-209-rekordflugzeug-mit-jaeger-genen-v1/" style="color: #315fea; text-decoration: none;">Flug Revue - Messerschmitt Me 209: Rekordflugzeug mit Jäger-Genen</a></li>
   </ul>
 </div>
 
@@ -172,7 +172,7 @@ La marca de 755,14 km/h establecida por Wendel se mantuvo como el récord mundia
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-24 11:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** FAI (Fédération Aéronautique Internationale) - registro 8743, Wikipedia (EN/ES), This Day in Aviation, Flug Revue
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (26 de abril de 1939) y en la velocidad (755,14 km/h). La potencia exacta del motor DB 601 ARJ varía según las fuentes (entre 1.800 y 2.300 hp). Se ha optado por la cifra más alta comúnmente citada en fuentes especializadas.
 - **Nivel de confianza:** Alto

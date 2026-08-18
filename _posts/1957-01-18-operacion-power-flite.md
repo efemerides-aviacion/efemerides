@@ -120,9 +120,9 @@ Queda además una lección sobre la naturaleza de estas demostraciones. De los c
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-02 07:34:18 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Air Force History Support Office, relación oficial «Lucky Ladies», con el detalle de los cinco aparatos, los dos abandonos y las condecoraciones.
-- **Fuentes secundarias de contraste:** This Day in Aviation, con la identificación de los números de serie, la composición de las tripulaciones y el número de reabastecimientos; Wikipedia en inglés y en español; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** This Day in Aviation, con la identificación de los números de serie, la composición de las tripulaciones y el número de reabastecimientos; Wikipedia en inglés y en español.
 - **Discrepancias resueltas:** se corrigió el número de aeronaves participantes, cinco en el despegue frente a las tres que completaron el vuelo; se estableció en cuatro el número de reabastecimientos en vuelo, conforme a la fuente más detallada, frente a las versiones que consignan tres; se distinguió la base de salida, Castle, de la de llegada, March, habitualmente confundidas; se atribuyó el abandono por hielo a un aparato principal y no a uno de reserva; se adoptó la velocidad media de 534 millas por hora entre los valores publicados de 525 y 537.
 - **Datos no confirmados:** el número de serie del aparato de reserva que se desvió a Brize Norton; las horas exactas de cada uno de los cuatro reabastecimientos.
 - **Nivel de confianza:** Alto

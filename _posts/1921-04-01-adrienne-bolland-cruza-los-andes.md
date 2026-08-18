@@ -64,16 +64,16 @@ Adrienne Bolland es recordada como una de las aviadoras más intrépidas de la h
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="http://www.femmes-pilotes.com/bolland.htm">Femmes Pilotes – Adrienne Bolland</a></li>
-    <li><a href="https://www.lagaceta.com.ar/nota/887469/actualidad/100-anos-hazana-adrienne-bolland-primera-mujer-cruzar-andes-avion.html">La Gaceta – A 100 años de la hazaña</a></li>
-    <li><a href="http://www.aviation-history.com/caudron/g3.htm">Aviation History Online Museum – Caudron G.3</a></li>
-    <li><a href="https://www.clarin.com/sociedad/adrienne-bolland-piloto-ignoro-expertos-cruzo-sola-cordillera-andes_0_g6tB1A8XQ.html">Clarín – Adrienne Bolland y el cruce de los Andes</a></li>
+    <li><a href="http://www.femmes-pilotes.com/bolland.htm" style="color: #315fea; text-decoration: none;">Femmes Pilotes – Adrienne Bolland</a></li>
+    <li><a href="https://www.lagaceta.com.ar/nota/887469/actualidad/100-anos-hazana-adrienne-bolland-primera-mujer-cruzar-andes-avion.html" style="color: #315fea; text-decoration: none;">La Gaceta – A 100 años de la hazaña</a></li>
+    <li><a href="http://www.aviation-history.com/caudron/g3.htm" style="color: #315fea; text-decoration: none;">Aviation History Online Museum – Caudron G.3</a></li>
+    <li><a href="https://www.clarin.com/sociedad/adrienne-bolland-piloto-ignoro-expertos-cruzo-sola-cordillera-andes_0_g6tB1A8XQ.html" style="color: #315fea; text-decoration: none;">Clarín – Adrienne Bolland y el cruce de los Andes</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2025-11-24 14:08:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Documentos de la Société des Avions Caudron; reportes periodísticos de Clarín y La Gaceta  
 - **Discrepancias resueltas:** La efeméride se conmemora el 24 de noviembre, aunque el cruce real ocurrió el 1 de abril de 1921  
 - **Nivel de confianza:** Alto  

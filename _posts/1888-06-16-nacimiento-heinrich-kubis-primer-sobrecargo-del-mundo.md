@@ -87,7 +87,7 @@ El Schwaben fue el primer dirigible de DELAG diseñado específicamente para el 
 
 ### El desastre del Hindenburg (6 de mayo de 1937)
 
-Kubis era el jefe de sobrecargos del Hindenburg en su fatídico vuelo del 6 de mayo de 1937. Puede leer más sobre este trágico evento en la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1937/05/06/desastre-lz-129-hindenburg.html">efeméride dedicada al desastre del LZ 129 Hindenburg</a>. Cuando la aeronave se incendió al aterrizar en Lakehurst, Nueva Jersey, Kubis se encontraba en el comedor. En lugar de huir inmediatamente, ayudó a los pasajeros a saltar hacia el exterior. Luego, él mismo escapó saltando por una ventana. Sobrevivió al desastre que mató a 35 de las 97 personas a bordo (13 pasajeros, 22 tripulantes).
+Kubis era el jefe de sobrecargos del Hindenburg en su fatídico vuelo del 6 de mayo de 1937. Puede leer más sobre este trágico evento en la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1937/05/06/desastre-lz-129-hindenburg.html" style="color: #315fea; text-decoration: none;">efeméride dedicada al desastre del LZ 129 Hindenburg</a>. Cuando la aeronave se incendió al aterrizar en Lakehurst, Nueva Jersey, Kubis se encontraba en el comedor. En lugar de huir inmediatamente, ayudó a los pasajeros a saltar hacia el exterior. Luego, él mismo escapó saltando por una ventana. Sobrevivió al desastre que mató a 35 de las 97 personas a bordo (13 pasajeros, 22 tripulantes).
 
 Tras el accidente, Kubis declaró ante las autoridades estadounidenses, proporcionando un testimonio clave sobre los últimos momentos del Hindenburg y las condiciones a bordo.
 
@@ -121,12 +121,12 @@ Kubis falleció en 1979 a los 90 años, habiendo sido testigo privilegiado de la
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Heinrich_Kubis">Wikipedia – Heinrich Kubis</a></li>
-    <li><a href="https://www.guinnessworldrecords.com/world-records/106512-first-flight-attendant">Guinness World Records – First flight attendant</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Heinrich_Kubis" style="color: #315fea; text-decoration: none;">Wikipedia – Heinrich Kubis</a></li>
+    <li><a href="https://www.guinnessworldrecords.com/world-records/106512-first-flight-attendant" style="color: #315fea; text-decoration: none;">Guinness World Records – First flight attendant</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Heinrich Kubis es reconocido como el primer asistente de vuelo (sobrecargo) de la historia, contratado por DELAG en marzo de 1912. La primera auxiliar de vuelo mujer fue Ellen Church, contratada por Boeing Air Transport en 1930. El título de «Kapt.» en el abridor de cartas encontrado no se refería a capitán de aeronave, sino al rango de jefe de sobrecargos (purser). Kubis sobrevivió a dos accidentes de dirigibles: el incendio del LZ-10 Schwaben (1912) y el desastre del Hindenburg (1937). Su fecha de nacimiento es el 16 de junio de 1888; falleció en 1979 a los 90 años. El mes exacto de su contratación (marzo de 1912) está documentado por Guinness World Records, aunque no se especifica el día.</p>
@@ -136,7 +136,7 @@ Kubis falleció en 1979 a los 90 años, habiendo sido testigo privilegiado de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-12 11:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Guinness World Records (enlace corregido: 106512)
 - **Discrepancias resueltas:** Se ha corregido el enlace a Guinness World Records (de 91585 a 106512). Se ha actualizado el mes de contratación a «marzo de 1912» según la fuente oficial. Se ha aclarado que la experiencia de Kubis en hoteles de lujo fue previa a su contratación por DELAG. Se ha añadido enlace a la efeméride del Hindenburg.
 - **Nivel de confianza:** Alto

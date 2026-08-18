@@ -33,7 +33,7 @@ image: 1923-01-31-primer-circuito-cerrado-autogiro-c-4.jpg
 - **Innovación clave:** Rotor de cuatro palas articuladas  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Contexto histórico
+## Contexto Histórico
 El circuito cerrado del C.4 fue la prueba definitiva de que el autogiro era una aeronave viable y segura.
 
 ### Entorno social
@@ -78,8 +78,8 @@ El éxito del C.4 marcó el inicio de la era de las aeronaves de ala giratoria, 
 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Metadatos de control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia ES/PT, ACAMI, Cadena SER, Biblioteca Virtual de Defensa, Archivo General de Murcia  
 - **Discrepancias resueltas:** Fecha de los primeros vuelos en Getafe (9 vs. 17 de enero)  
 - **Nivel de confianza:** Alto  

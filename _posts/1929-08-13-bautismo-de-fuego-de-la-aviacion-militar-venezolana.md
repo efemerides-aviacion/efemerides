@@ -87,15 +87,15 @@ Noventa y siete años después, el 12 y 13 de agosto de 1929 siguen siendo la fe
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Expedici%C3%B3n_del_Falke">Wikipedia (ES) - Expedición del Falke</a></li>
-    <li><a href="https://bibliofep.fundacionempresaspolar.org/dhv/entradas/e/expedicion-del-falke/">Fundación Empresas Polar - Diccionario de Historia de Venezuela: Expedición del Falke</a></li>
-    <li><a href="https://www.redalyc.org/pdf/200/20000602.pdf">Martínez Dorsi, G. - La invasión del Falke a Cumaná (Procesos Históricos, ULA, 2004)</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/Category:Expedici%C3%B3n_del_Falke">Wikimedia Commons - Categoría Expedición del Falke</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Expedici%C3%B3n_del_Falke" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Expedición del Falke</a></li>
+    <li><a href="https://bibliofep.fundacionempresaspolar.org/dhv/entradas/e/expedicion-del-falke/" style="color: #315fea; text-decoration: none;">Fundación Empresas Polar - Diccionario de Historia de Venezuela: Expedición del Falke</a></li>
+    <li><a href="https://www.redalyc.org/pdf/200/20000602.pdf" style="color: #315fea; text-decoration: none;">Martínez Dorsi, G. - La invasión del Falke a Cumaná (Procesos Históricos, ULA, 2004)</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/Category:Expedici%C3%B3n_del_Falke" style="color: #315fea; text-decoration: none;">Wikimedia Commons - Categoría Expedición del Falke</a></li>
     <li>Coronel (Av) José Luis Ochoa Vargas, «Operaciones aéreas conjuntas 12 y 13 de agosto de 1929» (FAV Ven; documento suministrado por el investigador)</li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la intensidad del empleo aéreo:</strong> los registros especializados de la aviación venezolana describen bombardeo con bombas de 10 kilogramos, ametrallamiento, impactos de bala en el Breguet N.º 2 y un artillero herido por el primer contrafuego antiaéreo del país; en cambio, el Diccionario de Historia de Venezuela de la Fundación Empresas Polar califica la intervención de «simple ejercicio de reconocimiento». Se sigue la versión aeronáutica, documental y coetánea a la Memoria de Guerra y Marina de 1929, dejando constancia de la divergencia.</p>
@@ -105,7 +105,7 @@ Noventa y siete años después, el 12 y 13 de agosto de 1929 siguen siendo la fe
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-09 07:56:54 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES), Fundación Empresas Polar, Redalyc (Procesos Históricos), Wikimedia Commons y documento FAV Ven del investigador
 - **Discrepancias resueltas:** La intensidad del combate aéreo diverge entre la tradición aeronáutica (bombardeo y contrafuego antiaéreo) y Polar (reconocimiento); se adopta la primera y se deja nota aclaratoria. El tonelaje del Falke (1.200 t en Polar, 1.600 t en el documento del investigador) y el día exacto de la escala en La Blanquilla (6 u 8 de agosto) se omitieron por no ser esenciales ni estar conciliados. El artillero aparece como Pousin, Ponsin o Poussin según las fuentes; se adopta Pousin, grafía del documento aeronáutico.
 - **Nivel de confianza:** Alto

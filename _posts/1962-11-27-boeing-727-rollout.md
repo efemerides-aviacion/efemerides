@@ -59,16 +59,16 @@ El prototipo N7001U se conserva en el Museum of Flight (Seattle), como pieza emb
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.boeing.com/history/products/727.page">Boeing – Cronología del 727</a></li>
-    <li><a href="https://www.museumofflight.org/aircraft/boeing-727-100">Museum of Flight – Boeing 727-100 (N7001U)</a></li>
-    <li><a href="https://airandspace.si.edu/collection-objects/boeing-727">Smithsonian NASM – Transporte aéreo comercial</a></li>
+    <li><a href="https://www.boeing.com/history/products/727.page" style="color: #315fea; text-decoration: none;">Boeing – Cronología del 727</a></li>
+    <li><a href="https://www.museumofflight.org/aircraft/boeing-727-100" style="color: #315fea; text-decoration: none;">Museum of Flight – Boeing 727-100 (N7001U)</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/boeing-727" style="color: #315fea; text-decoration: none;">Smithsonian NASM – Transporte aéreo comercial</a></li>
   </ul>
 </div>
 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-07 18:10:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Boeing; Museum of Flight; Smithsonian NASM  
 - **Discrepancias resueltas:** Confirmación de matrícula y cronología rollout/primer vuelo  
 - **Nivel de confianza:** Alto  

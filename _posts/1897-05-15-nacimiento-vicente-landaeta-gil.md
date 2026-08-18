@@ -69,9 +69,9 @@ Para conocer más detalles sobre la creación de esta base, puede consultar la e
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Base_A%C3%A9rea_Teniente_Vicente_Landaeta_Gil">Wikipedia - Base Aérea Teniente Vicente Landaeta Gil</a></li>
-    <li><a href="https://www.elimpulso.com/2016/11/20/la-tragedia-del-piloto-landaeta-memoriafotografica/">El Impulso - La tragedia del piloto Landaeta</a></li>
-    <li><a href="https://lapatilla.com/2023/03/02/luis-alberto-perozo-padua-vicente-landaeta-gil-protagonizo-el-primer-accidente-de-aviacion-militar/">LaPatilla - Vicente Landaeta Gil protagonizó el primer accidente de aviación militar</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Base_A%C3%A9rea_Teniente_Vicente_Landaeta_Gil" style="color: #315fea; text-decoration: none;">Wikipedia - Base Aérea Teniente Vicente Landaeta Gil</a></li>
+    <li><a href="https://www.elimpulso.com/2016/11/20/la-tragedia-del-piloto-landaeta-memoriafotografica/" style="color: #315fea; text-decoration: none;">El Impulso - La tragedia del piloto Landaeta</a></li>
+    <li><a href="https://lapatilla.com/2023/03/02/luis-alberto-perozo-padua-vicente-landaeta-gil-protagonizo-el-primer-accidente-de-aviacion-militar/" style="color: #315fea; text-decoration: none;">LaPatilla - Vicente Landaeta Gil protagonizó el primer accidente de aviación militar</a></li>
   </ul>
 </div>
 
@@ -79,7 +79,7 @@ Para conocer más detalles sobre la creación de esta base, puede consultar la e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-14 10:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, El Impulso, LaPatilla
 - **Discrepancias resueltas:** El post se ha reenfocado en el nacimiento y la vida del personaje. Se ha integrado un enlace a la efeméride de la Escuela de Aviación Militar en el Contexto Histórico, y se han mantenido los enlaces al accidente y a la base aérea.
 - **Nivel de confianza:** Alto

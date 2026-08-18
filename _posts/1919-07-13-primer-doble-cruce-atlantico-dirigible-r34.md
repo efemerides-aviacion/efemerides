@@ -97,16 +97,16 @@ Aunque los aviones terminarían imponiéndose como medio dominante en las rutas 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.raf.mod.uk/what-we-do/our-history/record-r34/">Royal Air Force – Record R34</a></li>
-    <li><a href="https://www.bbc.com/news/uk-england-norfolk-48954974">BBC News – Norfolk village celebrates first transatlantic flight, 100 years on</a></li>
-    <li><a href="https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-48817282">BBC News – Dropped airship letter goes on display at National Museum of Flight</a></li>
-    <li><a href="https://www.cradleofaviation.org/history/history/historical_events/r-34_dirigible.html">Cradle of Aviation Museum – R-34 Dirigible</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/hma-r-34/">This Day in Aviation – HMA R 34</a></li>
-    <li><a href="https://thehistorypress.co.uk/article/the-r34-airship/">The History Press – The R34 airship</a></li>
+    <li><a href="https://www.raf.mod.uk/what-we-do/our-history/record-r34/" style="color: #315fea; text-decoration: none;">Royal Air Force – Record R34</a></li>
+    <li><a href="https://www.bbc.com/news/uk-england-norfolk-48954974" style="color: #315fea; text-decoration: none;">BBC News – Norfolk village celebrates first transatlantic flight, 100 years on</a></li>
+    <li><a href="https://www.bbc.com/news/uk-scotland-edinburgh-east-fife-48817282" style="color: #315fea; text-decoration: none;">BBC News – Dropped airship letter goes on display at National Museum of Flight</a></li>
+    <li><a href="https://www.cradleofaviation.org/history/history/historical_events/r-34_dirigible.html" style="color: #315fea; text-decoration: none;">Cradle of Aviation Museum – R-34 Dirigible</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/hma-r-34/" style="color: #315fea; text-decoration: none;">This Day in Aviation – HMA R 34</a></li>
+    <li><a href="https://thehistorypress.co.uk/article/the-r34-airship/" style="color: #315fea; text-decoration: none;">The History Press – The R34 airship</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Algunas fuentes resumen la salida del regreso como ocurrida el 9 de julio y otras la sitúan entre la noche del 9 y la madrugada del 10, diferencia que no altera el hecho principal de esta efeméride: la culminación del viaje el 13 de julio en Pulham. También existe alguna variación menor en la cifra exacta de la duración del retorno entre ciertos resúmenes históricos, pero la formulación de 75 horas y 3 minutos es la más repetida en las fuentes verificadas consultadas.</p>
@@ -115,7 +115,7 @@ Aunque los aviones terminarían imponiéndose como medio dominante en las rutas 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-09 08:34:29 CST  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Royal Air Force, Cradle of Aviation Museum, BBC News  
 - **Fuentes secundarias de contraste:** This Day in Aviation, The History Press, Wikipedia  
 - **Discrepancias resueltas:** se distinguió entre la culminación del doble cruce el 13 de julio y las diferencias menores sobre la hora exacta de salida del viaje de regreso; se mantuvo la duración del retorno en 75 horas y 3 minutos por ser la cifra más consistente en las fuentes contrastadas  

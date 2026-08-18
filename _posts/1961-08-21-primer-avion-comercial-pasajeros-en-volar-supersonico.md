@@ -82,8 +82,8 @@ Sesenta y cinco años después, el picado del N9604Z sigue siendo la respuesta c
 
 <div class="references">
   <ul>
-    <li><a href="https://www.smithsonianmag.com/air-space-magazine/i-was-there-when-the-dc-8-went-supersonic-27846699/">Smithsonian Air & Space Magazine - I Was There: When the DC-8 Went Supersonic</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/n9604z/">This Day in Aviation - Etiqueta N9604Z (fotografía del DC-8 con el F-104)</a></li>
+    <li><a href="https://www.smithsonianmag.com/air-space-magazine/i-was-there-when-the-dc-8-went-supersonic-27846699/" style="color: #315fea; text-decoration: none;">Smithsonian Air & Space Magazine - I Was There: When the DC-8 Went Supersonic</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/n9604z/" style="color: #315fea; text-decoration: none;">This Day in Aviation - Etiqueta N9604Z (fotografía del DC-8 con el F-104)</a></li>
   </ul>
 </div>
 
@@ -91,7 +91,7 @@ Sesenta y cinco años después, el picado del N9604Z sigue siendo la respuesta c
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-15 12:10:00 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** testimonio de primera mano del ingeniero de pruebas Richard H. Edwards (proyecto Douglas White Oaks Trust), vía Smithsonian Magazine
 - **Fuentes secundarias de contraste:** This Day in Aviation (fotografía)
 - **Discrepancias resueltas:** ninguna relevante; la duración del tramo supersónico («unos 16 segundos») y las altitudes (52.000/45.000/35.000 pies) se toman del testimonio de Edwards.

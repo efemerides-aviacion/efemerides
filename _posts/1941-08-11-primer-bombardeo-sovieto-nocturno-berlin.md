@@ -133,9 +133,9 @@ Ochenta y cinco años después, lo que sobrevive de aquella noche es sobre todo 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-06 14:20:40 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Ministerio de Defensa de la Federación Rusa, fondo fotográfico sobre el TB-7; revista *Aviation History*, «Red Stars Over Berlin», con la transcripción del parte de Vodopyanov ante Stalin.
-- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, esta primera apoyada en Christer Bergström, *Barbarossa—The Air Battle: July–December 1941*, y en Yefim Gordon; Espacio Aéreo; reseña histórica de War Thunder sobre la campaña de 1941; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, esta primera apoyada en Christer Bergström, *Barbarossa—The Air Battle: July–December 1941*, y en Yefim Gordon; Espacio Aéreo; reseña histórica de War Thunder sobre la campaña de 1941.
 - **Discrepancias resueltas:** se expuso, sin resolverla, la divergencia entre las once aeronaves que Vodopyanov declaró sobre el objetivo y las cuatro que consigna la revisión historiográfica posterior; se fijó en catorce el número de Pe-8 que despegaron, frente a los ocho que menciona una de las fuentes; se distinguió el bombardeo naval del 7 al 8 de agosto, primero de la guerra sobre Berlín, del bombardeo pesado del 10 al 11, primero realizado con cuatrimotores.
 - **Datos no confirmados:** el tonelaje exacto lanzado sobre Berlín en esta incursión concreta, que las fuentes consultadas no desglosan del total de la campaña; el número preciso de tripulantes fallecidos en el conjunto de la operación.
 - **Nivel de confianza:** Medio-alto

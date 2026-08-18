@@ -12,7 +12,7 @@ image: 2000-07-12-accidente-hapag-lloyd-vuelo-3378.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2000-07-12-accidente-hapag-lloyd-vuelo-3378.webp" alt="Airbus A310-304 D-AHLB de Hapag-Lloyd antes del accidente de 2000">
-  <figcaption class="post-caption">El Airbus A310-304 matrícula D-AHLB, aeronave implicada en el vuelo 3378 de Hapag-Lloyd, fotografiado antes del accidente. Fuente: <a href="http://berlin-spotter.de/hapag-lloyd-airbus-a310-300-d-ahlb/">Berlin-Spotter.de</a>.</figcaption>
+  <figcaption class="post-caption">El Airbus A310-304 matrícula D-AHLB, aeronave implicada en el vuelo 3378 de Hapag-Lloyd, fotografiado antes del accidente. Fuente: <a href="http://berlin-spotter.de/hapag-lloyd-airbus-a310-300-d-ahlb/" style="color: #315fea; text-decoration: none;">Berlin-Spotter.de</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -96,16 +96,16 @@ En la historia del Airbus A310, el accidente del vuelo 3378 permanece como uno d
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://aviation-safety.net/wikibase/323474">Aviation Safety Network – Accident Airbus A310-304 D-AHLB, Wednesday 12 July 2000</a></li>
-    <li><a href="https://skybrary.aero/articles/fuel-exhaustion">SKYbrary – Fuel Exhaustion</a></li>
-    <li><a href="https://www.flightglobal.com/airbus-says-flight-management-system-not-to-blame-in-hapag-crash/75516.article">FlightGlobal – Airbus says flight management system not to blame in Hapag crash</a></li>
-    <li><a href="https://www.flightglobal.com/ex-hapag-lloyd-pilot-to-face-court-action-on-fuel-incident/52626.article">FlightGlobal – Ex-Hapag-Lloyd pilot to face court action on fuel incident</a></li>
-    <li><a href="http://news.bbc.co.uk/2/hi/europe/831061.stm">BBC News – Holiday flight crash lands</a></li>
-    <li><a href="https://simpleflying.com/hapag-lloyd-flight-3378-airbus-a310-hull-loss/">Simple Flying – Hapag-Lloyd Flight 3378: The Airbus A310's 6th Hull Loss</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/323474" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Accident Airbus A310-304 D-AHLB, Wednesday 12 July 2000</a></li>
+    <li><a href="https://skybrary.aero/articles/fuel-exhaustion" style="color: #315fea; text-decoration: none;">SKYbrary – Fuel Exhaustion</a></li>
+    <li><a href="https://www.flightglobal.com/airbus-says-flight-management-system-not-to-blame-in-hapag-crash/75516.article" style="color: #315fea; text-decoration: none;">FlightGlobal – Airbus says flight management system not to blame in Hapag crash</a></li>
+    <li><a href="https://www.flightglobal.com/ex-hapag-lloyd-pilot-to-face-court-action-on-fuel-incident/52626.article" style="color: #315fea; text-decoration: none;">FlightGlobal – Ex-Hapag-Lloyd pilot to face court action on fuel incident</a></li>
+    <li><a href="http://news.bbc.co.uk/2/hi/europe/831061.stm" style="color: #315fea; text-decoration: none;">BBC News – Holiday flight crash lands</a></li>
+    <li><a href="https://simpleflying.com/hapag-lloyd-flight-3378-airbus-a310-hull-loss/" style="color: #315fea; text-decoration: none;">Simple Flying – Hapag-Lloyd Flight 3378: The Airbus A310's 6th Hull Loss</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El informe final de investigación de la autoridad austriaca existe, pero su versión accesible ampliamente citada se difundió en alemán. Dado que las instrucciones editoriales restringen la lista de referencias visibles a fuentes en español o inglés, en esta efeméride se ha trabajado con resúmenes y análisis en inglés que recogen sus conclusiones principales. También hay pequeñas variaciones entre fuentes sobre distancias exactas al umbral y sobre algunos momentos de la secuencia en cabina, pero todas coinciden en el núcleo del accidente: imposibilidad de retraer el tren, consumo infravalorado, omisión de un desvío más cercano y agotamiento de combustible antes de la pista.</p>
@@ -114,7 +114,7 @@ En la historia del Airbus A310, el accidente del vuelo 3378 permanece como uno d
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-08 11:45:00 CST  
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Aviation Safety Network, SKYbrary  
 - **Fuentes secundarias de contraste:** FlightGlobal, BBC News, Simple Flying  
 - **Discrepancias resueltas:** se mantuvo el recuento de 143 pasajeros y 8 tripulantes, con 26 heridos leves; se usó Viena-Schwechat como lugar del accidente aunque el impacto ocurrió antes del umbral de pista; se resumieron en inglés las conclusiones del informe austriaco, difundido originalmente en alemán  

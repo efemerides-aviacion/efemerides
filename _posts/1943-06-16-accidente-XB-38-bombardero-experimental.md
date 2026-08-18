@@ -116,13 +116,13 @@ Hoy, el XB-38 es una nota al pie en la extensa historia del B-17 Flying Fortress
 
 <div class="references">
   <ul>
-    <li><a href="https://en.m.wikipedia.org/wiki/Boeing_XB-38_Flying_Fortress">Wikipedia – Boeing XB-38 Flying Fortress</a></li>
-    <li><a href="https://aerialvisuals.ca/AirframeDossier.php?Serial=220964">Aerial Visuals – Airframe Dossier (XB-38 wreck)</a></li>
-    <li><a href="https://www.warbirdsresourcegroup.org/URG/b17fortress_variants_model_xb-38.html">Warbirds Resource Group – XB-38 Fortress</a></li>
+    <li><a href="https://en.m.wikipedia.org/wiki/Boeing_XB-38_Flying_Fortress" style="color: #315fea; text-decoration: none;">Wikipedia – Boeing XB-38 Flying Fortress</a></li>
+    <li><a href="https://aerialvisuals.ca/AirframeDossier.php?Serial=220964" style="color: #315fea; text-decoration: none;">Aerial Visuals – Airframe Dossier (XB-38 wreck)</a></li>
+    <li><a href="https://www.warbirdsresourcegroup.org/URG/b17fortress_variants_model_xb-38.html" style="color: #315fea; text-decoration: none;">Warbirds Resource Group – XB-38 Fortress</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes principales (Wikipedia en inglés, ruso, chino) indican que la tripulación del XB-38 logró saltar en paracaídas, pero no especifican víctimas. Sin embargo, el registro del accidente en Aerial Visuals confirma que el piloto falleció al no abrirse su paracaídas y otro tripulante resultó gravemente herido. La información sobre las víctimas se ha incluido en esta efeméride basándose en esa fuente.</p>
@@ -132,7 +132,7 @@ Hoy, el XB-38 es una nota al pie en la extensa historia del B-17 Flying Fortress
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-12 12:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (inglés), Aerial Visuals (Airframe Dossier), Warbirds Resource Group
 - **Discrepancias resueltas:** La mayoría de las fuentes indican que la tripulación sobrevivió al saltar, pero Aerial Visuals confirma un fallecido y un herido grave. Esta información se ha incluido con la debida nota aclaratoria. Las cifras de rendimiento (velocidad máxima, techo) han sido verificadas en fuentes técnicas. Se ha eliminado el enlace no funcional del archivo de Wayback.
 - **Nivel de confianza:** Alto

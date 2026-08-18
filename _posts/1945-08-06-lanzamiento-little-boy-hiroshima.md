@@ -141,9 +141,9 @@ Ocho décadas después, el debate sobre la justificación del ataque continúa a
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-01 08:23:03 CST
+- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Departamento de Energía de Estados Unidos, historia oficial del Proyecto Manhattan; Smithsonian National Air and Space Museum, artículo curatorial de Jeremy Kinney y ficha del aparato; National Park Service; National Museum of Nuclear Science & History; Imperial War Museums; Harry S. Truman Library and Museum; Museo Memorial de la Paz de Hiroshima.
-- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia a los trabajos de Kerr y otros (2005), Thomas y Morgan-Witts (1977) y Campbell (2005); borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia a los trabajos de Kerr y otros (2005), Thomas y Morgan-Witts (1977) y Campbell (2005).
 - **Discrepancias resueltas:** se adoptaron los 580 metros de altitud de detonación frente a los 600 metros de la cronología del National Park Service; se consignó el tiempo de caída de 43 segundos, mayoritario en las fuentes institucionales, señalando la variante de 44,4 segundos; se expusieron los tres intervalos publicados de potencia; se recogió el desplazamiento de 240 metros respecto al puente Aioi, coherente con la ubicación del hipocentro sobre la clínica Shima; se detallaron las cifras de víctimas por institución y plazo, al no existir un dato consensuado; se distinguió sistemáticamente la hora de Tinian de la hora de Hiroshima; se verificó la coherencia entre la fecha del hecho, el título, el nombre del archivo y el YAML.
 - **Datos no confirmados:** la hora exacta en que Jeppson retiró los dispositivos de seguridad; el número preciso de tripulantes japoneses y prisioneros aliados fallecidos.
 - **Nivel de confianza:** Alto
