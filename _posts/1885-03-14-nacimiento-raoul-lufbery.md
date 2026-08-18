@@ -101,8 +101,6 @@ Raoul Lufbery ocupa un lugar de honor en la historia de la aviación militar:
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Nota Aclaratoria
-
 <div class="note-box">
 <p><strong>Nota sobre la nacionalidad de Lufbery:</strong> Aunque nació en Francia de padre estadounidense (lo que le otorgaba doble nacionalidad por derecho de sangre), Lufbery renunció a su nacionalidad francesa en 1905 para evitar el servicio militar obligatorio. Por ello, cuando llegó a Estados Unidos en 1907, era ciudadano estadounidense (por su padre) pero ya no francés. Su servicio en el Ejército de EE.UU. (1907-1909) consolidó legalmente esta ciudadanía, y fue como estadounidense que en 1914 se alistó en la Legión Extranjera Francesa. Esta es la razón por la que algunas fuentes indican que "obtuvo" la ciudadanía en ese período, cuando en realidad la recuperó o reactivó tras haber renunciado a la francesa.</p>
 
@@ -114,22 +112,22 @@ Raoul Lufbery ocupa un lugar de honor en la historia de la aviación militar:
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Raoul_Lufbery">Wikipedia (ES) – Raoul Lufbery</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Raoul_Lufbery">Wikipedia (EN) – Raoul Lufbery</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196343/maj-raoul-lufbery/">National Museum of the USAF – Maj. Raoul Lufbery</a></li>
-    <li><a href="https://connecticuthistory.org/world-war-i-flying-ace-raoul-lufbery/">Connecticut History – World War I Flying Ace Raoul Lufbery</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/gervais-raoul-victor-lufbery/">This Day in Aviation – Gervais Raoul Victor Lufbery</a></li>
-    <li><a href="https://uswarmemorials.org/html/people_details.php?PeopleID=1893">US War Memorials – Lufbery Raoul Gervais</a></li>
-    <li><a href="https://nationalaviation.org/enshrinee/gervais-raoul-lufbery/">National Aviation Hall of Fame – Gervais Raoul Lufbery</a></li>
-    <li><a href="https://www.purpleheartmission.org/stories-of-valor/us-army-air-force-major-lufbery">Purple Heart Mission – U.S. Army Air Force Major Raoul Lufbery</a></li>
-    <li><a href="https://www.badassoftheweek.com/lufbery">Badass of the Week – Raoul Lufbery</a></li>
-    <li><a href="https://www.imdb.com/title/tt9612232/">IMDb – Major Raoul Lufbery: Fighter Ace (2018)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Raoul_Lufbery" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Raoul Lufbery</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Raoul_Lufbery" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Raoul Lufbery</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196343/maj-raoul-lufbery/" style="color: #315fea; text-decoration: none;">National Museum of the USAF – Maj. Raoul Lufbery</a></li>
+    <li><a href="https://connecticuthistory.org/world-war-i-flying-ace-raoul-lufbery/" style="color: #315fea; text-decoration: none;">Connecticut History – World War I Flying Ace Raoul Lufbery</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/gervais-raoul-victor-lufbery/" style="color: #315fea; text-decoration: none;">This Day in Aviation – Gervais Raoul Victor Lufbery</a></li>
+    <li><a href="https://uswarmemorials.org/html/people_details.php?PeopleID=1893" style="color: #315fea; text-decoration: none;">US War Memorials – Lufbery Raoul Gervais</a></li>
+    <li><a href="https://nationalaviation.org/enshrinee/gervais-raoul-lufbery/" style="color: #315fea; text-decoration: none;">National Aviation Hall of Fame – Gervais Raoul Lufbery</a></li>
+    <li><a href="https://www.purpleheartmission.org/stories-of-valor/us-army-air-force-major-lufbery" style="color: #315fea; text-decoration: none;">Purple Heart Mission – U.S. Army Air Force Major Raoul Lufbery</a></li>
+    <li><a href="https://www.badassoftheweek.com/lufbery" style="color: #315fea; text-decoration: none;">Badass of the Week – Raoul Lufbery</a></li>
+    <li><a href="https://www.imdb.com/title/tt9612232/" style="color: #315fea; text-decoration: none;">IMDb – Major Raoul Lufbery: Fighter Ace (2018)</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-12 16:45:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 11:07:10 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), National Museum of the USAF, Connecticut History, This Day in Aviation, National Aviation Hall of Fame, Purple Heart Mission, Badass of the Week  
 - **Discrepancias resueltas:** Se documentó la diferencia entre victorias confirmadas (17) y posibles victorias no confirmadas; se aclaró la doble nacionalidad y su consideración como primer as estadounidense; se añadió nota sobre las circunstancias de su muerte.  
 - **Nivel de confianza:** Alto  

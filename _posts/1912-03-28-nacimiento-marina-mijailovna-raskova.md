@@ -16,13 +16,13 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1912-03-28-nacimiento-marina-mijailovna-raskova.webp" alt="Marina Mijáilovna Raskova en uniforme militar">
   <figcaption class="post-caption">Fotografía histórica de Marina Mijáilovna Raskova, Heroína de la Unión Soviética y pionera aviadora soviética, aparece en uniforme militar con boina roja de estrella roja, charreteras de navegante y cartuchera cruzada frente a un vagón militar. Fuente: Archivo soviético.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 28 de marzo de 1912 nació en Moscú Marina Mijáilovna Raskova (née Malinina), hija de profesores, inicialmente destinada a la ópera pero atraída por la aviación. En 1934 se convirtió en la primera mujer soviética diplomada como navegante aérea profesional e instructora. Estableció récords de vuelo y fundó los tres regimientos aéreos femeninos durante la Segunda Guerra Mundial, incluyendo las legendarias "Brujas de la Noche". Conocida como la "Amelia Earhart soviética", murió en combate en 1943.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 28 de marzo de 1912 (calendario juliano: 15 de marzo)
@@ -36,7 +36,7 @@ redirect_from:
   - Fundadora de los tres regimientos aéreos femeninos de la VVS en la Gran Guerra Patria
 - **Condecoraciones:** Héroe de la Unión Soviética, Orden de Lenin (dos veces), Orden de la Guerra Patria de 1.er grado
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -76,9 +76,7 @@ La figura de la aviadora era heroica en la URSS. Raskova, junto a Valentina Griz
 
 Las *Brujas de la Noche* (588.º Regimiento de Bombardeo Nocturno) siguen siendo uno de los símbolos más potentes de la contribución soviética a la Segunda Guerra Mundial. Raskova, a pesar de no haber sobrevivido a la guerra, es recordada como la fundadora de la aviación militar femenina soviética. Su nombre figura en aeropuertos, museos y libros de historia. En 2018, el Banco de Rusia emitió una moneda conmemorativa en su honor.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
-
-## Nota Aclaratoria
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 	<p>Aunque Marina Raskova es ampliamente reconocida como Heroína de la Unión Soviética y fundadora de los tres regimientos aéreos femeninos que combatieron en la Gran Guerra Patria, <strong>no participó en combate directo como piloto de caza o bombardero</strong>. Su función fue estratégica y organizativa: seleccionó, entrenó y comandó las unidades desde el Cuartel General. Murió el 4 de enero de 1943 en un accidente aéreo durante un vuelo de traslado, no en acción de combate. Esta precisión no disminuye su importancia histórica, sino que la sitúa con exactitud como una de las grandes organizadoras militares del siglo XX.</p>
@@ -87,18 +85,18 @@ Las *Brujas de la Noche* (588.º Regimiento de Bombardeo Nocturno) siguen siendo
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Marina_Raskova">Wikipedia (ES) – Marina Raskova</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Marina_Raskova">Wikipedia (EN) – Marina Raskova</a></li>
-    <li><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BA%D0%BE%D0%B2%D0%B0,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0">Wikipedia (RU) – Марина Михайловна Раскова</a></li>
-    <li><a href="https://www.encyclopedia.com/women/dictionaries-thesauruses-pictures-and-press-releases/raskova-marina-1912-1943">Encyclopedia.com – Raskova, Marina (1912–1943)</a></li>
-    <li><a href="https://www.warhistoryonline.com/instant-articles/marina-raskova-the-first-soviet-woman-to-become-a-professional-air-navigator.html">War History Online – Marina Raskova, primera navegante aérea soviética profesional</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Archivo:Marina_Raskova_in_1938.jpg">Wikipedia (ES) – Imagen Marina Raskova 1938</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Marina_Raskova" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Marina Raskova</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Marina_Raskova" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Marina Raskova</a></li>
+    <li><a href="https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D0%BA%D0%BE%D0%B2%D0%B0,_%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%B0_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0" style="color: #315fea; text-decoration: none;">Wikipedia (RU) – Марина Михайловна Раскова</a></li>
+    <li><a href="https://www.encyclopedia.com/women/dictionaries-thesauruses-pictures-and-press-releases/raskova-marina-1912-1943" style="color: #315fea; text-decoration: none;">Encyclopedia.com – Raskova, Marina (1912–1943)</a></li>
+    <li><a href="https://www.warhistoryonline.com/instant-articles/marina-raskova-the-first-soviet-woman-to-become-a-professional-air-navigator.html" style="color: #315fea; text-decoration: none;">War History Online – Marina Raskova, primera navegante aérea soviética profesional</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Archivo:Marina_Raskova_in_1938.jpg" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Imagen Marina Raskova 1938</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-26 10:00:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 11:07:10 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN/RU), Encyclopedia.com, War History Online  
 - **Discrepancias resueltas:** No se identificaron discrepancias significativas entre las fuentes sobre las fechas clave y logros. Se ha aclarado que Raskova no pilotó en combate sino que fundó y organizó los regimientos, y que su muerte fue por accidente de traslado, no por acción enemiga.  
 - **Nivel de confianza:** Alto  

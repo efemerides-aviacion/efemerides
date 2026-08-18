@@ -72,7 +72,7 @@ La figura del "as" (piloto con cinco o más victorias) tenía una enorme carga s
 
 John Lightfoot Trollope es recordado como uno de los ases más brillantes de la Primera Guerra Mundial. Su hazaña del 24 de marzo de 1918 lo convirtió en el primer piloto británico en alcanzar siete victorias en un solo día, un récord que solo igualarían más tarde otros pilotos (como William Bishop o Edward Mannock, pero nunca superado por un británico en la Gran Guerra). El Escuadrón No. 43 de la RAF continúa conmemorando sus logros, y su historia permanece como ejemplo de pericia, valor y sacrificio.
 
-## Nota Aclaratoria: La Discrepancia entre 6 y 7 Victorias
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la cifra de victorias del 24 de marzo de 1918:</strong> Existe una discrepancia documentada en las fuentes históricas respecto al número exacto de derribos obtenidos por John Lightfoot Trollope ese día. La citación oficial para la Barra de su Cruz Militar, así como los boletines del Escuadrón No. 43, mencionan seis victorias: tres por la mañana y tres por la tarde. Sin embargo, investigaciones posteriores basadas en los informes de combate detallados y en los relatos personales de Trollope (incluyendo su carta a su madre) confirman un séptimo derribo ocurrido durante el regreso de la segunda patrulla, cuando atacó a un caza enemigo que combatía con un avión británico. Este derribo fue registrado y visto por el otro piloto británico, pero no fue incluido en la narración oficial de la condecoración, quizás por tratarse de una acción aislada fuera de las formaciones principales. Por esta razón, algunas fuentes (como <em>Above the Trenches</em> y la mayoría de las referencias aeronáuticas modernas) acreditan a Trollope con <strong>siete victorias</strong> en ese día, convirtiéndolo en el primer piloto británico en alcanzar esa cifra en 24 horas. En esta efeméride se ha optado por destacar la cifra de siete, respaldada por la investigación más exhaustiva, pero dejando constancia de la discrepancia original.</p>
@@ -83,21 +83,21 @@ John Lightfoot Trollope es recordado como uno de los ases más brillantes de la 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://afterburner.com.pl/24-march-1918-john-trollope-achieves-seven-aerial-victories-in-a-day/">Afterburner – 24 March 1918: John Trollope achieves seven aerial victories in a day</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/List_of_aviators_who_became_ace_in_a_day">Wikipedia (EN) – List of aviators who became ace in a day</a></li>
-    <li><a href="https://afterburner.com.pl/john-trollope/">Afterburner – John Trollope biography</a></li>
-    <li><a href="https://theaerodrome.com/aces/england/trollope.php">The Aerodrome – John Lightfoot Trollope</a></li>
-    <li><a href="https://airwar19141918.wordpress.com/tag/john-lightfoot-trollope/">Airwar19141918 – John Lightfoot Trollope</a></li>
-    <li><a href="https://www.43squadronassociation.com/uploads/2/8/3/9/2839580/43_assoc-newsletter-feb_2018.pdf">43 Squadron Association Newsletter – February 2018</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/No._43_Squadron_RAF">Wikipedia (EN) – No. 43 Squadron RAF</a></li>
-    <li><a href="https://www.wearethemighty.com/history/aces-of-wwi-top-pilots/">We Are The Mighty – Pilots who became aces in a single day</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/1918_in_aviation">Wikipedia (EN) – 1918 in aviation</a></li>
+    <li><a href="https://afterburner.com.pl/24-march-1918-john-trollope-achieves-seven-aerial-victories-in-a-day/" style="color: #315fea; text-decoration: none;">Afterburner – 24 March 1918: John Trollope achieves seven aerial victories in a day</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/List_of_aviators_who_became_ace_in_a_day" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – List of aviators who became ace in a day</a></li>
+    <li><a href="https://afterburner.com.pl/john-trollope/" style="color: #315fea; text-decoration: none;">Afterburner – John Trollope biography</a></li>
+    <li><a href="https://theaerodrome.com/aces/england/trollope.php" style="color: #315fea; text-decoration: none;">The Aerodrome – John Lightfoot Trollope</a></li>
+    <li><a href="https://airwar19141918.wordpress.com/tag/john-lightfoot-trollope/" style="color: #315fea; text-decoration: none;">Airwar19141918 – John Lightfoot Trollope</a></li>
+    <li><a href="https://www.43squadronassociation.com/uploads/2/8/3/9/2839580/43_assoc-newsletter-feb_2018.pdf" style="color: #315fea; text-decoration: none;">43 Squadron Association Newsletter – February 2018</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/No._43_Squadron_RAF" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – No. 43 Squadron RAF</a></li>
+    <li><a href="https://www.wearethemighty.com/history/aces-of-wwi-top-pilots/" style="color: #315fea; text-decoration: none;">We Are The Mighty – Pilots who became aces in a single day</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/1918_in_aviation" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – 1918 in aviation</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-22 12:15:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 11:07:10 CST  
 - **Fuentes primarias consultadas:** Afterburner, Wikipedia (EN), The Aerodrome, Airwar19141918, 43 Squadron Association Newsletter  
 - **Discrepancias resueltas:** Se documentó la discrepancia entre 6 y 7 victorias en una nota aclaratoria, explicando que la cifra de 7 está respaldada por investigaciones modernas y relatos personales, mientras que la citación oficial mencionaba 6.  
 - **Nivel de confianza:** Alto  

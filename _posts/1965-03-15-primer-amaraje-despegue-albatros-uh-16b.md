@@ -66,7 +66,7 @@ El amaraje del BS-03 el 15 de marzo de 1965 permanece como un hito singular en l
 - **Pionerismo:** La operación se inscribe en la tradición pionera de la aviación polar argentina, que incluye hitos como el primer vuelo a la Antártida (1947), la Operación Meteoro (1962) y la creación de Marambio (1969).
 - **Memoria institucional:** La Fuerza Aérea Argentina recuerda esta operación como ejemplo de la versatilidad y el temple de sus tripulaciones en el apoyo a la presencia nacional en la Antártida.
 
-## Nota Aclaratoria sobre la Terminología: "Amaraje" vs. "Anevizaje"
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la terminología empleada:</strong> En la bibliografía aeronáutica argentina es posible encontrar el término <strong>"anevizaje"</strong> para describir la operación de posarse y despegar desde una superficie helada, derivado de la combinación de "aterrizaje" y "nieve". Sin embargo, para un público general hispanohablante, el término más comprensible y aceptado es <strong>"amaraje"</strong> (o su variante "amerizaje"), que designa la acción de posarse una aeronave sobre una superficie acuática. Dado que el Grumman UH-16B Albatross era un avión anfibio, diseñado para operar tanto en agua como en tierra, y que la maniobra de 1965 pudo haber tenido lugar sobre agua libre de hielo o sobre hielo (no hay certeza documental unánime), se ha optado por emplear en esta efeméride el término <strong>"amaraje"</strong> por su claridad y generalidad. Queda constancia de que algunas fuentes argentinas especializadas prefieren la voz "anevizaje" para referirse específicamente a este tipo de operaciones en el entorno antártico.</p>
@@ -77,20 +77,20 @@ El amaraje del BS-03 el 15 de marzo de 1965 permanece como un hito singular en l
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.argentina.gob.ar/noticias/la-fuerza-aerea-en-la-antartida">Argentina.gob.ar – La Fuerza Aérea en la Antártida</a></li>
-    <li><a href="https://www.argentina.gob.ar/fuerzaaerea/datos-de-interes/actividad-antartica">Argentina.gob.ar – Actividad Antártica</a></li>
-    <li><a href="https://www.marambio.aq/vuelotranspolar1965.html">Fundación Marambio – Primer Vuelo Transpolar Transcontinental</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Campa%C3%B1as_ant%C3%A1rticas_de_Argentina_(1960_a_1969)">Wikipedia (ES) – Campañas antárticas de Argentina (1960 a 1969)</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Grumman_HU-16_Albatross">Wikipedia (ES) – Grumman HU-16 Albatross</a></li>
-    <li><a href="http://elmuan.blogspot.com/2010/07/grumman-uh-16-b-albatros-0535-4-bs-3.html">El MUAN – Grumman UH-16 B “Albatros” 0535 / 4-BS-3</a></li>
-    <li><a href="https://www.amilarg.com.ar/grumman-albatros.html">AMILARG – Grumman Albatros</a></li>
-    <li><a href="https://avionesenargentina.com/primer-y-unico-anevizaje-y-despegue-en-la-antartida-argentina__trashed/">Aviones en Argentina – Primer y único anevizaje y despegue en la Antártida Argentina</a></li>
+    <li><a href="https://www.argentina.gob.ar/noticias/la-fuerza-aerea-en-la-antartida" style="color: #315fea; text-decoration: none;">Argentina.gob.ar – La Fuerza Aérea en la Antártida</a></li>
+    <li><a href="https://www.argentina.gob.ar/fuerzaaerea/datos-de-interes/actividad-antartica" style="color: #315fea; text-decoration: none;">Argentina.gob.ar – Actividad Antártica</a></li>
+    <li><a href="https://www.marambio.aq/vuelotranspolar1965.html" style="color: #315fea; text-decoration: none;">Fundación Marambio – Primer Vuelo Transpolar Transcontinental</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Campa%C3%B1as_ant%C3%A1rticas_de_Argentina_(1960_a_1969)" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Campañas antárticas de Argentina (1960 a 1969)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Grumman_HU-16_Albatross" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Grumman HU-16 Albatross</a></li>
+    <li><a href="http://elmuan.blogspot.com/2010/07/grumman-uh-16-b-albatros-0535-4-bs-3.html" style="color: #315fea; text-decoration: none;">El MUAN – Grumman UH-16 B “Albatros” 0535 / 4-BS-3</a></li>
+    <li><a href="https://www.amilarg.com.ar/grumman-albatros.html" style="color: #315fea; text-decoration: none;">AMILARG – Grumman Albatros</a></li>
+    <li><a href="https://avionesenargentina.com/primer-y-unico-anevizaje-y-despegue-en-la-antartida-argentina__trashed/" style="color: #315fea; text-decoration: none;">Aviones en Argentina – Primer y único anevizaje y despegue en la Antártida Argentina</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-13 15:45:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 11:07:10 CST  
 - **Fuentes primarias consultadas:** Argentina.gob.ar, Fundación Marambio, Wikipedia (ES), El MUAN, AMILARG, Aviones en Argentina  
 - **Discrepancias resueltas:** Se aclaró en nota específica la diferencia terminológica entre "amaraje" y "anevizaje", optando por el primero por su claridad general, sin omitir la existencia del segundo en fuentes especializadas argentinas.  
 - **Nivel de confianza:** Alto  

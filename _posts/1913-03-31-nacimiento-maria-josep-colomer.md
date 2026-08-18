@@ -105,9 +105,9 @@ En julio de 2018, la asociación **«Herstóricas. Historia, Mujeres y Género»
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Nota aclaratoria
-
-Aunque con frecuencia se atribuye a Mari Pepa Colomer el título de «primera mujer piloto de España», este honor corresponde cronológicamente a **María Bernaldo de Quirós**, que obtuvo su licencia en Madrid el 24 de noviembre de 1928 . Colomer fue, sin embargo, la **primera mujer piloto catalana** (tercera española en obtener la licencia) y la **primera mujer instructora de vuelo de España** (1935), logros que la distinguen en la historia de la aviación nacional.
+<div class="note-box">
+  <p><strong>Nota aclaratoria:</strong> Aunque con frecuencia se atribuye a Mari Pepa Colomer el título de «primera mujer piloto de España», este honor corresponde cronológicamente a **María Bernaldo de Quirós**, que obtuvo su licencia en Madrid el 24 de noviembre de 1928 . Colomer fue, sin embargo, la **primera mujer piloto catalana** (tercera española en obtener la licencia) y la **primera mujer instructora de vuelo de España** (1935), logros que la distinguen en la historia de la aviación nacional.</p>
+</div>
 
 Asimismo, aunque algunas fuentes la describen como «piloto de combate» o «piloto de caza», no existen registros de que participara en combates aéreos directos. Su contribución durante la Guerra Civil fue en misiones de instrucción, abastecimiento, evacuación de heridos y lanzamiento de propaganda .
 

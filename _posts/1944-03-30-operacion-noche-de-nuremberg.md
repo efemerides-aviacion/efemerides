@@ -14,13 +14,13 @@ image: 1944-03-30-operacion-noche-de-nuremberg.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-03-30-operacion-noche-de-nuremberg.webp" alt="Bombarderos Lancaster y Halifax atacados por cazas nocturnos Bf 110">
   <figcaption class="post-caption">30/31 marzo 1944 – La Noche de Núremberg: Lancaster y Halifax del Bomber Command RAF atacados por cazas nocturnos Bf 110 de la Luftwaffe. Ilustración de los combates sobre Alemania (Fuente: airgunnerbobgilldfm.wordpress.com – Nuremberg Raid Analysis).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 30 de marzo de 1944, la RAF Bomber Command lanzó 795 bombarderos contra Núremberg en la conocida "Noche de Núremberg". Condiciones meteorológicas erróneas y cielos claros permitieron a la Luftwaffe derribar 95 aviones (11.8% de la fuerza), la mayor pérdida en una sola noche de la guerra, con 545 tripulantes muertos. El daño en la ciudad fue mínimo debido a nubes densas sobre el objetivo.</p>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** Noche del 30 al 31 de marzo de 1944
@@ -30,7 +30,7 @@ image: 1944-03-30-operacion-noche-de-nuremberg.webp
 - **Bajas alemanas:** 128 civiles muertos en Núremberg; alrededor de 100 cazas nocturnos de la Luftwaffe reclamaron 79–95 victorias confirmadas
 - **Resultado:** Derrota táctica para la RAF; el daño a la ciudad fue limitado
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -77,29 +77,29 @@ El sistema de confirmación alemán requería testigos o restos localizados, por
 
 La Noche de Núremberg es recordada como la mayor tragedia del Bomber Command en la Segunda Guerra Mundial. En la historiografía británica, simboliza los límites del bombardeo estratégico sin superioridad aérea plena. En Alemania, se convirtió en un símbolo del sufrimiento civil, aunque el ataque quedó eclipsado por los bombardeos posteriores que arrasaron la ciudad en 1945.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Bombardeo_de_N%C3%BAremberg">Wikipedia (ES) – Bombardeo de Núremberg</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Bombing_of_Nuremberg_in_World_War_II">Wikipedia (EN) – Bombing of Nuremberg Harrisin World War II</a></li>
-    <li><a href="https://airgunnerbobgilldfm.wordpress.com/raf-graveley/nuremburg-raid/nuremberg-raide/">Air Gunner Bob Gill DFM – Nuremberg Raid 30/31 March 1944</a></li>
-    <li><a href="https://www.rafmuseum.org.uk/research/online-exhibitions/bomber-command-the-raid-on-nuremberg/">RAF Museum – The Raid on Nuremberg (30/31 March 1944)</a></li>
-    <li><a href="https://www.bbc.co.uk/history/ww2peopleswar/stories/95/a4063495.shtml">BBC – WW2 People's War: The Nuremberg Raid</a></li>
-    <li><a href="https://www.bombercommandmuseum.ca/chronicles/bomber-command-chronicles-nuremberg/">Bomber Command Museum – Nuremberg, 30-31 March 1944</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Bombardeo_de_N%C3%BAremberg" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Bombardeo de Núremberg</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Bombing_of_Nuremberg_in_World_War_II" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Bombing of Nuremberg Harrisin World War II</a></li>
+    <li><a href="https://airgunnerbobgilldfm.wordpress.com/raf-graveley/nuremburg-raid/nuremberg-raide/" style="color: #315fea; text-decoration: none;">Air Gunner Bob Gill DFM – Nuremberg Raid 30/31 March 1944</a></li>
+    <li><a href="https://www.rafmuseum.org.uk/research/online-exhibitions/bomber-command-the-raid-on-nuremberg/" style="color: #315fea; text-decoration: none;">RAF Museum – The Raid on Nuremberg (30/31 March 1944)</a></li>
+    <li><a href="https://www.bbc.co.uk/history/ww2peopleswar/stories/95/a4063495.shtml" style="color: #315fea; text-decoration: none;">BBC – WW2 People's War: The Nuremberg Raid</a></li>
+    <li><a href="https://www.bombercommandmuseum.ca/chronicles/bomber-command-chronicles-nuremberg/" style="color: #315fea; text-decoration: none;">Bomber Command Museum – Nuremberg, 30-31 March 1944</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Nota aclaratoria
+<div class="note-box">
+  <p><strong>Nota aclaratoria:</strong> Las cifras exactas de pérdidas varían según las fuentes: el Bomber Command Report inicial contabilizó 95 aviones perdidos, aunque algunos estudios posteriores ajustan a 94 o 96. Los derribos reclamados por la *Luftwaffe* oscilan entre 79 y 95; se ha tomado el consenso histórico que sitúa las pérdidas totales en 95 aeronaves (de las cuales 79 fueron atribuidas a cazas nocturnos y el resto a fuego antiaéreo). Asimismo, la misión se conoce indistintamente como "Noche de Núremberg" (*Nuremberg Night*) o "Incursión de Núremberg" (*Nuremberg Raid*).</p>
+</div>
 
-Las cifras exactas de pérdidas varían según las fuentes: el Bomber Command Report inicial contabilizó 95 aviones perdidos, aunque algunos estudios posteriores ajustan a 94 o 96. Los derribos reclamados por la *Luftwaffe* oscilan entre 79 y 95; se ha tomado el consenso histórico que sitúa las pérdidas totales en 95 aeronaves (de las cuales 79 fueron atribuidas a cazas nocturnos y el resto a fuego antiaéreo). Asimismo, la misión se conoce indistintamente como "Noche de Núremberg" (*Nuremberg Night*) o "Incursión de Núremberg" (*Nuremberg Raid*).
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-28 16:30:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 11:07:10 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), RAF Museum, Bomber Command Museum, BBC WW2 People's War, testimonio de tripulantes  
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre pérdidas totales y victorias confirmadas por la Luftwaffe.  
 - **Nivel de confianza:** Alto  

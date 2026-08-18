@@ -85,8 +85,6 @@ El vuelo 742 de Viasa permanece en la memoria colectiva de Venezuela como "La tr
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Nota Aclaratoria: La Participación de Avensa y la Atribución Histórica a Viasa
-
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la participación de Avensa y Viasa:</strong> Una pregunta recurrente sobre esta tragedia es por qué la culpa y el recuerdo histórico han recaído casi exclusivamente en Viasa, cuando el avión era propiedad de Avensa, su mantenimiento era de Avensa y la tripulación de mando (capitán y copiloto) pertenecía a Avensa. La respuesta se encuentra en el modelo de negocio conocido como <strong>wet lease</strong> (arrendamiento con tripulación incluida).</p>
 <p>Viasa era la aerolínea de bandera venezolana autorizada para explotar rutas internacionales como la de Maracaibo-Miami. Para cubrir la creciente demanda, Viasa alquiló el DC-9 a Avensa, junto con su tripulación de vuelo (capitanes y técnicos). La tripulación de cabina (asistentes de vuelo) y, crucialmente, la comercialización del vuelo (venta de pasajes, el código de vuelo "VA742", el nombre de la ruta) correspondían a Viasa .</p>

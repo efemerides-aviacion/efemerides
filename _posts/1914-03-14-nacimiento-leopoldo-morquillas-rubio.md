@@ -120,9 +120,9 @@ Caza biplano de origen soviético, con motor radial Shvetsov M-25 de 750 hp, cua
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Nota aclaratoria
-
-Las cifras de victorias aéreas durante la Guerra Civil Española deben ser interpretadas con cautela. A diferencia de otros conflictos, la documentación oficial republicana no siempre individualizaba los derribos, y muchos archivos se perdieron durante la guerra o en el posterior exilio republicano. La cifra de **21 derribos** atribuida a Morquillas es la más aceptada por la historiografía especializada, pero no es posible determinar con exactitud cuántas de esas victorias fueron en solitario y cuántas compartidas con otros pilotos. Tampoco existe un registro detallado de los tipos de aeronaves derribadas.
+<div class="note-box">
+  <p><strong>Nota aclaratoria:</strong> Las cifras de victorias aéreas durante la Guerra Civil Española deben ser interpretadas con cautela. A diferencia de otros conflictos, la documentación oficial republicana no siempre individualizaba los derribos, y muchos archivos se perdieron durante la guerra o en el posterior exilio republicano. La cifra de **21 derribos** atribuida a Morquillas es la más aceptada por la historiografía especializada, pero no es posible determinar con exactitud cuántas de esas victorias fueron en solitario y cuántas compartidas con otros pilotos. Tampoco existe un registro detallado de los tipos de aeronaves derribadas.</p>
+</div>
 
 Además, aunque Morquillas combatió en la Segunda Guerra Mundial con la Fuerza Aérea Soviética, no hay constancia de que se le atribuyan victorias adicionales en ese conflicto. Su papel en la VVS fue principalmente como instructor y piloto de combate, pero los archivos soviéticos no registran derribos confirmados durante la «Gran Guerra Patria».
 

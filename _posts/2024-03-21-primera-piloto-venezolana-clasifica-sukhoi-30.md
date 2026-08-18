@@ -62,7 +62,7 @@ La figura de la “aviadora de combate” es un símbolo de profesionalización 
 
 La capitana Cindi Caraballo se suma a otras aviadoras venezolanas que han operado sistemas de ala fija y rotatoria en transporte y apoyo, pero es la primera en hacerlo en el caza de mayor complejidad tecnológica de la FANB. Su formación, desde el SF‑260 hasta el Su‑30MK2, demuestra la continuidad del proceso de formación de pilotos de combate en Venezuela. El hito del 21 de marzo de 2024 quedará registrado en la historia de la aviación militar latinoamericana como un paso adelante en la igualdad de género en las fuerzas armadas.
 
-## Nota Aclaratoria sobre la fecha
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha del evento:</strong> La fuente principal (Defensa.com) publicó la noticia el 25 de marzo de 2024, pero en su texto especifica que la ceremonia de graduación tuvo lugar “el pasado jueves, 21 de marzo”. Otras publicaciones en redes sociales, como la de @SA_Defensa (23 de marzo de 2024), comparten la información de la clasificación, confirmando el logro, aunque sin detallar la fecha exacta. En consecuencia, la fecha del 21 de marzo de 2024 es la que corresponde al acto oficial de graduación, tal como se documenta en la fuente institucional.</p>
@@ -73,16 +73,16 @@ La capitana Cindi Caraballo se suma a otras aviadoras venezolanas que han operad
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.defensa.com/venezuela/aviacion-militar-venezuela-gradua-primera-piloto-sukhoi">Defensa.com – Aviación Militar de Venezuela gradúa la primera piloto de Sukhoi</a></li>
-    <li><a href="https://es.gw2ru.com/estilo-de-vida/18543-graduo-venezuela-primera-mujer-piloto-avion-sujoi-30">Gw2ru.com – Se graduó en Venezuela la primera mujer piloto del avión Sujói‑30 ruso</a></li>
-    <li><a href="https://www.webinfomil.com/2021/10/la-aviacion-militar-de-venezuela.html">WebInfomil – La Aviación Militar de Venezuela capacita a la primera piloto de caza Sukhoi SU-30MK2 "Flanker"</a></li>
-    <li><a href="https://x.com/SA_Defensa/status/1771349207300940262">X – SA Defensa: Anuncio de la calificación de la capitana Cindi Caraballo (23 mar 2024)</a></li>
+    <li><a href="https://www.defensa.com/venezuela/aviacion-militar-venezuela-gradua-primera-piloto-sukhoi" style="color: #315fea; text-decoration: none;">Defensa.com – Aviación Militar de Venezuela gradúa la primera piloto de Sukhoi</a></li>
+    <li><a href="https://es.gw2ru.com/estilo-de-vida/18543-graduo-venezuela-primera-mujer-piloto-avion-sujoi-30" style="color: #315fea; text-decoration: none;">Gw2ru.com – Se graduó en Venezuela la primera mujer piloto del avión Sujói‑30 ruso</a></li>
+    <li><a href="https://www.webinfomil.com/2021/10/la-aviacion-militar-de-venezuela.html" style="color: #315fea; text-decoration: none;">WebInfomil – La Aviación Militar de Venezuela capacita a la primera piloto de caza Sukhoi SU-30MK2 "Flanker"</a></li>
+    <li><a href="https://x.com/SA_Defensa/status/1771349207300940262" style="color: #315fea; text-decoration: none;">X – SA Defensa: Anuncio de la calificación de la capitana Cindi Caraballo (23 mar 2024)</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-23 16:45:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 11:07:10 CST  
 - **Fuentes primarias consultadas:** Defensa.com, Gw2ru.com, WebInfomil, cuenta oficial @SA_Defensa  
 - **Discrepancias resueltas:** Se aclaró en nota específica la fecha de graduación (21 de marzo de 2024) frente a fechas de publicación en medios (22‑25 de marzo).  
 - **Nivel de confianza:** Alto  

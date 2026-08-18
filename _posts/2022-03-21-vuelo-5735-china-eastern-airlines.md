@@ -86,7 +86,7 @@ El accidente del vuelo 5735 de China Eastern Airlines es, hasta la fecha, el peo
 - **Protocolos de investigación:** La demora en el informe final ha llevado a la OACI a reforzar sus recomendaciones sobre plazos y publicidad de las investigaciones.
 - **Memoria de las víctimas:** En la zona del impacto se ha erigido un monumento conmemorativo, y cada 21 de marzo se realizan ofrendas florales.
 
-## Nota Aclaratoria sobre la Investigación
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el estado de la investigación:</strong> A marzo de 2026, la Administración de Aviación Civil de China (CAAC) no ha publicado el informe final del accidente del vuelo MU5735. La información disponible proviene de informes preliminares oficiales (abril de 2022), filtraciones a medios internacionales como Reuters y análisis de expertos basados en datos parciales. Según fuentes no oficiales, los registradores de vuelo analizados en Estados Unidos indicarían movimientos de control intencionales en cabina como causa probable, pero la CAAC no ha confirmado ni desmentido esta hipótesis. La demora en la publicación del informe ha sido atribuida a "consideraciones de seguridad nacional" por fuentes anónimas. En consecuencia, la causa oficial del accidente sigue sin determinarse, y cualquier afirmación sobre la misma debe considerarse especulativa hasta que la CAAC publique el informe final.</p>
@@ -97,19 +97,19 @@ El accidente del vuelo 5735 de China Eastern Airlines es, hasta la fecha, el peo
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/China_Eastern_Airlines_Flight_5735">Wikipedia (EN) – China Eastern Airlines Flight 5735</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_5735_de_China_Eastern_Airlines">Wikipedia (ES) – Vuelo 5735 de China Eastern Airlines</a></li>
-    <li><a href="http://www.b737.org.uk/incident_b1791.htm">B737.org.uk – B-1791 737-800 Accident En-Route</a></li>
-    <li><a href="https://aviation-safety.net/wikibase/318833">Aviation Safety Network – Accident Boeing 737-89P B-1791</a></li>
-    <li><a href="https://www.reuters.com/world/china/three-years-after-china-eastern-plane-crash-regulator-has-not-released-report-2025-03-22/">Reuters – Three years after China Eastern plane crash, regulator has not released report (22 Mar 2025)</a></li>
-    <li><a href="https://www.bbc.com/mundo/noticias-internacional-60848722">BBC News – Accidente de avión en China: los 2 misterios que rodean la tragedia del vuelo de China Eastern (22 Mar 2022)</a></li>
-    <li><a href="https://www.infobae.com/america/mundo/2022/03/22/accidente-aereo-en-china-familiares-de-las-victimas-visitan-el-lugar-del-siniestro-para-rendirles-homenaje/">Infobae – Accidente aéreo en China: familiares visitan el lugar del siniestro (22 Mar 2022)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/China_Eastern_Airlines_Flight_5735" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – China Eastern Airlines Flight 5735</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_5735_de_China_Eastern_Airlines" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vuelo 5735 de China Eastern Airlines</a></li>
+    <li><a href="http://www.b737.org.uk/incident_b1791.htm" style="color: #315fea; text-decoration: none;">B737.org.uk – B-1791 737-800 Accident En-Route</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/318833" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Accident Boeing 737-89P B-1791</a></li>
+    <li><a href="https://www.reuters.com/world/china/three-years-after-china-eastern-plane-crash-regulator-has-not-released-report-2025-03-22/" style="color: #315fea; text-decoration: none;">Reuters – Three years after China Eastern plane crash, regulator has not released report (22 Mar 2025)</a></li>
+    <li><a href="https://www.bbc.com/mundo/noticias-internacional-60848722" style="color: #315fea; text-decoration: none;">BBC News – Accidente de avión en China: los 2 misterios que rodean la tragedia del vuelo de China Eastern (22 Mar 2022)</a></li>
+    <li><a href="https://www.infobae.com/america/mundo/2022/03/22/accidente-aereo-en-china-familiares-de-las-victimas-visitan-el-lugar-del-siniestro-para-rendirles-homenaje/" style="color: #315fea; text-decoration: none;">Infobae – Accidente aéreo en China: familiares visitan el lugar del siniestro (22 Mar 2022)</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-19 17:30:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 11:07:10 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), B737.org.uk, Aviation Safety Network, Reuters, BBC, Infobae  
 - **Discrepancias resueltas:** Se aclaró en nota específica que la investigación oficial no ha concluido y que no existe informe final publicado a marzo de 2026. Se distinguió entre información verificada (datos de vuelo, víctimas, trayectoria) e hipótesis no confirmadas oficialmente.  
 - **Nivel de confianza:** Alto (para datos básicos del accidente); pendiente (para la causa oficial, que sigue sin determinarse).  

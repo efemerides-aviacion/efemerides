@@ -61,21 +61,15 @@ El espíritu de la aviación en los años treinta estaba marcado por el récord 
 
 ## Aeronaves y motores clave
 
-**NA-16 (prototipo)** – Motor Wright R-975 Whirlwind de 400 hp. Primer vuelo en 1935. Tren de aterrizaje fijo, cabina abierta en tándem. Base de toda la familia.
+- **NA-16 (prototipo):** motor Wright R-975 Whirlwind de 400 hp. Primer vuelo en 1935. Tren de aterrizaje fijo y cabina abierta en tándem. Base de toda la familia.
+- **BT-9:** motor Wright R-975. Entrenador básico de producción entre 1936 y 1939. Tren fijo y cabina cerrada.
+- **BC-1 / BC-1A:** motor Pratt & Whitney R-1340 Wasp de 600 hp. Primeros entrenadores de combate básico con tren retráctil, entre 1937 y 1940. Incorporaban cabina cerrada y mejoras estructurales.
+- **AT-6 / AT-6A:** motor Pratt & Whitney R-1340. Versión avanzada definitiva, entre 1940 y 1941. Cabina cerrada, tren retráctil y diseño consolidado.
+- **AT-6C (NA-88):** motor R-1340-AN-1. Versión de guerra con estructura mixta de acero y contrachapado, debida al racionamiento de aluminio, entre 1942 y 1943.
+- **AT-6D:** motor R-1340-AN-1. Retorno a la estructura metálica y sistema eléctrico de 24 V, entre 1943 y 1945.
+- **T-6G:** motor R-1340-AN-1. Modernización de posguerra, entre 1949 y 1953. Cabina rediseñada, rueda de cola orientable y aviónica mejorada.
 
-**BT-9** – Motor Wright R-975. Entrenador básico de producción (1936–1939). Tren fijo, cabina cerrada.
-
-**BC-1 / BC-1A** – Motor Pratt & Whitney R-1340 Wasp de 600 hp. Primeros entrenadores de combate básico con tren retráctil (1937–1940). Incorporaban cabina cerrada y mejoras estructurales.
-
-**AT-6 / AT-6A** – Motor Pratt & Whitney R-1340. Versión avanzada definitiva (1940–1941). Cabina cerrada, tren retráctil, diseño consolidado.
-
-**AT-6C (NA-88)** – Motor R-1340-AN-1. Versión de guerra con estructura mixta de acero y contrachapado debido al racionamiento de aluminio (1942–1943).
-
-**AT-6D** – Motor R-1340-AN-1. Retorno a estructura metálica, sistema eléctrico de 24 V (1943–1945).
-
-**T-6G** – Motor R-1340-AN-1. Modernización de posguerra (1949–1953). Cabina rediseñada, rueda de cola orientable, aviónica mejorada.
-
-El AT-6/T-6 fue operado por más de 60 países. Designaciones internacionales: **Harvard** en la RAF y Commonwealth; **SNJ** en la Armada estadounidense; **Wirraway** (Australia) basado en el NA-16-2K; **Sk 14** en Suecia. En España, el Ejército del Aire empleó 201 T-6D, 130 SNJ y 71 T-6G, utilizándolos en entrenamiento y en combate durante la Guerra de Ifni.
+El AT-6/T-6 fue operado por más de sesenta países, con designaciones propias en cada uno: **Harvard** en la RAF y los países de la Commonwealth, **SNJ** en la Armada estadounidense, **Wirraway** en Australia —derivado del NA-16-2K— y **Sk 14** en Suecia. El Ejército del Aire español empleó 201 T-6D, 130 SNJ y 71 T-6G, en entrenamiento y en combate durante la guerra de Ifni.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -113,9 +107,9 @@ El North American AT-6 Texan es considerado por muchos historiadores como el mej
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Nota aclaratoria
-
-El avión que voló el 1 de abril de 1935 fue el **NA-16**, prototipo de lo que posteriormente se convertiría en el AT-6 Texan. Aunque la denominación "AT-6 Texan" no se utilizó hasta 1940, el NA-16 es el origen directo de toda la familia. Las primeras pruebas demostraron la necesidad de un motor más potente, tren retráctil y cabina cerrada, evoluciones que se incorporaron en el BC-1 (1937) y finalmente en el AT-6. Por lo tanto, la fecha del primer vuelo del NA-16 es la fundacional de uno de los entrenadores militares más importantes de la historia.
+<div class="note-box">
+  <p><strong>Nota aclaratoria:</strong> El avión que voló el 1 de abril de 1935 fue el **NA-16**, prototipo de lo que posteriormente se convertiría en el AT-6 Texan. Aunque la denominación "AT-6 Texan" no se utilizó hasta 1940, el NA-16 es el origen directo de toda la familia. Las primeras pruebas demostraron la necesidad de un motor más potente, tren retráctil y cabina cerrada, evoluciones que se incorporaron en el BC-1 (1937) y finalmente en el AT-6. Por lo tanto, la fecha del primer vuelo del NA-16 es la fundacional de uno de los entrenadores militares más importantes de la historia.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

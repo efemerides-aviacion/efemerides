@@ -12,7 +12,7 @@ image: 1961-04-12-primer-humano-orbitar-la-tierra.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1961-04-12-primer-humano-orbitar-la-tierra.webp" alt="Yuri Gagarin antes del despegue de Vostok 1">
-  <figcaption class="post-caption">Yuri Gagarin antes del despegue de Vostok 1 (12 de abril de 1961), junto al mariscal Kirill Moskalenko y Sergei Koroliov, Jefe de Diseño del programa espacial soviético. Fuente: <a href="https://en.wikipedia.org/wiki/Vostok_1">Wikipedia – Vostok 1</a>.</figcaption>
+  <figcaption class="post-caption">Yuri Gagarin antes del despegue de Vostok 1 (12 de abril de 1961), junto al mariscal Kirill Moskalenko y Sergei Koroliov, Jefe de Diseño del programa espacial soviético. Fuente: <a href="https://en.wikipedia.org/wiki/Vostok_1" style="color: #315fea; text-decoration: none;">Wikipedia – Vostok 1</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
@@ -84,18 +84,15 @@ La cápsula Vostok 1 se exhibe en el Museo Estatal de Historia del Cosmos K. E. 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Vostok_1">Wikipedia (ES) – Vostok 1</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Vostok_1">Wikipedia (EN) – Vostok 1</a></li>
-    <li><a href="https://www.nasa.gov/history/remembering-yuri-gagarin-50-years-later/">NASA – Remembering Yuri Gagarin 50 Years Later</a></li>
-    <li><a href="https://www.esa.int/About_Us/50_years_of_ESA/50_years_of_humans_in_space/The_flight_of_Vostok_1">ESA – The flight of Vostok 1</a></li>
-    <li><a href="https://www.britannica.com/biography/Yuri-Gagarin">Britannica – Yuri Gagarin</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vostok_1" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vostok 1</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Vostok_1" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Vostok 1</a></li>
+    <li><a href="https://www.nasa.gov/history/remembering-yuri-gagarin-50-years-later/" style="color: #315fea; text-decoration: none;">NASA – Remembering Yuri Gagarin 50 Years Later</a></li>
+    <li><a href="https://www.esa.int/About_Us/50_years_of_ESA/50_years_of_humans_in_space/The_flight_of_Vostok_1" style="color: #315fea; text-decoration: none;">ESA – The flight of Vostok 1</a></li>
+    <li><a href="https://www.britannica.com/biography/Yuri-Gagarin" style="color: #315fea; text-decoration: none;">Britannica – Yuri Gagarin</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Nota aclaratoria
-
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Según los protocolos de la misión Vostok, la nave no estaba diseñada para un aterrizaje suave con el cosmonauta dentro. Por seguridad, Gagarin fue eyectado a 7 km de altitud y descendió en paracaídas por separado de la cápsula. Durante décadas, la Unión Soviética ocultó este detalle para cumplir con los requisitos de la Federación Aeronáutica Internacional (FAI) sobre vuelos espaciales tripulados, que exigían que el piloto aterrizara dentro de su nave. La FAI aceptó la versión soviética hasta 1971, cuando se reveló el procedimiento real. Actualmente, se considera que Gagarin completó su vuelo exitosamente, independientemente del método de aterrizaje.</p>
@@ -104,7 +101,7 @@ La cápsula Vostok 1 se exhibe en el Museo Estatal de Historia del Cosmos K. E. 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-09 12:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 11:07:10 CST
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), NASA, ESA, Britannica
 - **Discrepancias resueltas:** Algunas fuentes mencionan una altitud máxima de 327 km; otras de 301 km. Se ha utilizado la cifra de 327 km, que es la más citada en las fuentes verificadas. El tiempo de vuelo es consistentemente 108 minutos en todas las fuentes.
 - **Nivel de confianza:** Alto

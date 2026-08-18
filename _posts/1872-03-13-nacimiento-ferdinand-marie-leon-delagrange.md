@@ -91,8 +91,6 @@ Léon Delagrange ocupa un lugar destacado en la historia de la aviación por var
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Nota Aclaratoria
-
 <div class="note-box">
 <p><strong>Nota sobre la numeración de brevets y fechas:</strong> El brevet de piloto Nº 3 de Delagrange corresponde a la numeración retroactiva establecida por el Aéro-Club de France en 1910, que ordenó a los primeros pilotos según la fecha de sus primeras habilitaciones. Delagrange volaba desde 1907 y cumplía los requisitos para ser considerado el tercer piloto titulado de Francia, tras Louis Blériot (Nº 1) y Glenn Curtiss (Nº 2, aunque estadounidense, recibió su brevet en Francia).</p>
 
