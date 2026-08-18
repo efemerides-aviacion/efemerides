@@ -54,7 +54,7 @@ El X-15 capturó la imaginación del público estadounidense. Sus pilotos, como 
 - **23 de junio de 1961:** Primer vuelo a Mach 5 .
 - **9 de noviembre de 1961:** Primer vuelo a Mach 6 .
 - **17 de julio de 1962:** Primer vuelo sobre 300.000 pies (91 km) .
-- **22 de agosto de 1963:** Récord de altitud: 354.200 pies (108 km) por Joe Walker .
+- **22 de agosto de 1963:** Récord de altitud: 354.200 pies (108 km) por Joe Walker, en <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/08/22/joseph-walker-x-15-vuelo-91.html" style="color: #315fea; text-decoration: none;">el vuelo 91 del programa</a>.
 - **28 de enero de 1964:** 100º vuelo del programa .
 - **3 de octubre de 1967:** Récord de velocidad: Mach 6,70 (4.520 mph) por William J. "Pete" Knight .
 - **15 de noviembre de 1967:** Accidente fatal del X-15-3; fallece el mayor Michael J. Adams .
@@ -97,7 +97,7 @@ El X-15 capturó la imaginación del público estadounidense. Sus pilotos, como 
 
 Ocho de estos pilotos superaron las 50 millas (80 km), calificando como astronautas según la USAF. Joe Walker fue el único que superó la línea de Kármán (100 km), la definición internacional del espacio .
 
-<p>Entre los aviadores que darían proyección histórica al programa destacó <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1924/07/06/nacimiento-robert-white-x15-astronauta.html" style="color: #315fea; text-decoration: none;">Robert M. White</a>, quien más tarde se convertiría en el primer piloto en superar Mach 4, Mach 5 y Mach 6 a los mandos del X-15.</p>
+<p>Entre los aviadores que darían proyección histórica al programa destacó Robert M. White, quien más tarde se convertiría en el primer piloto en superar Mach 4, Mach 5 y Mach 6 a los mandos del X-15.</p>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -131,14 +131,14 @@ El X-15 sigue siendo el avión tripulado más rápido y alto jamás construido. 
 
 <div class="references">
   <ul>
-    <li><a href="https://www.nasa.gov/history/x15/chrono.html">NASA – X-15 Chronology</a></li>
-    <li><a href="https://www.thisdayinaviation.com/8-june-1959/">This Day in Aviation – 8 June 1959 X-15 First Flight</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/North_American_X-15">Wikipedia – North American X-15</a></li>
-    <li><a href="https://www.nasa.gov/centers/armstrong/history/experimental_aircraft/x-15.html">NASA Armstrong – X-15 Hypersonic Research Program</a></li>
+    <li><a href="https://www.nasa.gov/history/x15/chrono.html" style="color: #315fea; text-decoration: none;">NASA – X-15 Chronology</a></li>
+    <li><a href="https://www.thisdayinaviation.com/8-june-1959/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 8 June 1959 X-15 First Flight</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/North_American_X-15" style="color: #315fea; text-decoration: none;">Wikipedia – North American X-15</a></li>
+    <li><a href="https://www.nasa.gov/centers/armstrong/history/experimental_aircraft/x-15.html" style="color: #315fea; text-decoration: none;">NASA Armstrong – X-15 Hypersonic Research Program</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -151,7 +151,7 @@ El X-15 sigue siendo el avión tripulado más rápido y alto jamás construido. 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-04 17:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 17:20:00 CST  
 - **Fuentes primarias consultadas:** NASA (X-15 Chronology), This Day in Aviation, Wikipedia
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (8 de junio de 1959) como vuelo de planeo. Verificación de la altitud de lanzamiento (37.550 pies) y la duración (4 minutos 56,6 segundos). Aclaración de la diferencia entre el primer vuelo (planeo) y el primer vuelo propulsado (17 de septiembre de 1959). Corrección del orden cronológico en la sección de desarrollo.
 - **Nivel de confianza:** Alto

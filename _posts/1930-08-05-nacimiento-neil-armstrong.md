@@ -75,7 +75,7 @@ La secuencia recorre las etapas sucesivas de una carrera que enlaza la aviación
 - **5 de marzo de 1952:** última de sus setenta y ocho misiones de combate sobre Corea.
 - **Enero de 1955:** se gradúa en Ingeniería Aeronáutica por Purdue e ingresa poco después como piloto de pruebas en el NACA.
 - **15 de agosto de 1957:** primer vuelo en un aparato propulsado por cohete, un Bell X-1B.
-- **30 de noviembre de 1960 a 26 de julio de 1962:** realiza sus siete vuelos en el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1959/06/08/primer-vuelo-north-american-x-15.html" style="color: #315fea; text-decoration: none;">North American X-15</a>, alcanzando Mach 5,74.
+- **30 de noviembre de 1960 a 26 de julio de 1962:** realiza sus siete vuelos en el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1959/06/08/primer-vuelo-north-american-x-15.html" style="color: #315fea; text-decoration: none;">North American X-15</a>, alcanzando Mach 5,74. Comparte programa con Joe Walker, piloto jefe de investigación de la NASA, que <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/08/22/joseph-walker-x-15-vuelo-91.html" style="color: #315fea; text-decoration: none;">llevaría el avión cohete hasta los 108 kilómetros en agosto de 1963</a>.
 - **1962:** es seleccionado en el segundo grupo de astronautas de la NASA.
 - **16 de marzo de 1966:** comanda el Gemini 8 junto a David Scott. Realizan el primer acoplamiento de dos naves en órbita, pero un propulsor bloqueado obliga a abortar la misión tras estabilizar un giro peligroso.
 - **16 de julio de 1969:** despega desde el Centro Espacial Kennedy a bordo del Apolo 11, con Aldrin y Collins.
@@ -131,9 +131,9 @@ Su formación fue reconocida por la Universidad de Purdue, que conserva sus arch
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-01 08:23:01 CST
+- **Timestamp de verificación:** 2026-08-18 17:20:00 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA, biografía oficial del astronauta y artículo conmemorativo de su nacimiento; Universidad de Purdue, perfil institucional del cincuentenario del Apolo 11; Federación Aeronáutica Internacional, relación de récords homologados de la misión Apolo 11.
-- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia a la biografía de James R. Hansen; borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia a la biografía de James R. Hansen.
 - **Discrepancias resueltas:** se omitió la edad del primer vuelo como pasajero, por divergencia entre las fuentes; se consignaron las condecoraciones coreanas conforme al detalle de la referencia enciclopédica en inglés, frente a las versiones que mencionan tres Medallas del Aire; se recogieron las dos formulaciones horarias del alunizaje según el huso.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -70,7 +70,7 @@ La trayectoria de White unió combate, ingeniería, ensayos de vuelo y mando ope
 - **7 de marzo de 1961:** se convierte en el primer piloto en superar Mach 4.
 - **23 de junio de 1961:** pasa a ser el primero en superar Mach 5.
 - **9 de noviembre de 1961:** alcanza Mach 6,04 y se convierte en el primero en superar Mach 6 en un avión tripulado.
-- **17 de julio de 1962:** asciende a 314.750 pies con el X-15, gana alas de astronauta de la USAF y se consolida como el primer «winged astronaut» estadounidense.
+- **17 de julio de 1962:** asciende a 314.750 pies con el X-15, gana alas de astronauta de la USAF y se consolida como el primer «winged astronaut» estadounidense. Poco más de un año después, su compañero de programa Joe Walker superaría esa marca al <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/08/22/joseph-walker-x-15-vuelo-91.html" style="color: #315fea; text-decoration: none;">alcanzar los 354.200 pies el 22 de agosto de 1963</a>, el único vuelo del X-15 que rebasó la línea de Kármán.
 - **1967:** vuela 70 misiones de combate sobre Vietnam del Norte con el F-105 Thunderchief.
 - **1970:** asume el mando del Air Force Flight Test Center en Edwards.
 - **Noviembre de 1972:** asume la dirección del Cuerpo de Instrucción de Oficiales de la Reserva de la Fuerza Aérea, en Maxwell Air Force Base, Alabama.
@@ -100,19 +100,19 @@ A largo plazo, su legado descansa en tres planos. Primero, en el simbólico: el 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
     <li><a href="https://www.af.mil/About-Us/Biographies/Display/Article/105241/major-general-robert-m-white/" style="color: #315fea; text-decoration: none;">U.S. Air Force: «Major General Robert M. White», biografía oficial</a></li>
-    <li><a href="https://nationalaviation.org/enshrinee/robert-michael-white/">National Aviation Hall of Fame – Robert Michael White</a></li>
-    <li><a href="https://kids.britannica.com/students/article/Robert-Michael-White/340325">Britannica Kids – Robert Michael White</a></li>
-    <li><a href="https://www.thisdayinaviation.com/robert-michael-white-6-july-1924-17-march-2010/">This Day in Aviation – Robert Michael White (6 July 1924–17 March 2010)</a></li>
-    <li><a href="https://www.nasa.gov/image-article/x-15-pilot-major-robert-m-white/">NASA – X-15 Pilot Major Robert M. White</a></li>
-    <li><a href="https://www.nasa.gov/history/65-years-ago-first-factory-rollout-of-the-x-15-hypersonic-rocket-plane/">NASA – 65 Years Ago: First Factory Rollout of the X-15 Hypersonic Rocket Plane</a></li>
+    <li><a href="https://nationalaviation.org/enshrinee/robert-michael-white/" style="color: #315fea; text-decoration: none;">National Aviation Hall of Fame – Robert Michael White</a></li>
+    <li><a href="https://kids.britannica.com/students/article/Robert-Michael-White/340325" style="color: #315fea; text-decoration: none;">Britannica Kids – Robert Michael White</a></li>
+    <li><a href="https://www.thisdayinaviation.com/robert-michael-white-6-july-1924-17-march-2010/" style="color: #315fea; text-decoration: none;">This Day in Aviation – Robert Michael White (6 July 1924–17 March 2010)</a></li>
+    <li><a href="https://www.nasa.gov/image-article/x-15-pilot-major-robert-m-white/" style="color: #315fea; text-decoration: none;">NASA – X-15 Pilot Major Robert M. White</a></li>
+    <li><a href="https://www.nasa.gov/history/65-years-ago-first-factory-rollout-of-the-x-15-hypersonic-rocket-plane/" style="color: #315fea; text-decoration: none;">NASA – 65 Years Ago: First Factory Rollout of the X-15 Hypersonic Rocket Plane</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> White recibió alas de astronauta de la Fuerza Aérea de Estados Unidos tras superar las 50 millas de altitud, criterio empleado por la USAF para definir el inicio del espacio. Esa condición no coincide exactamente con la línea de Kármán de 100 kilómetros usada por la Fédération Aéronautique Internationale; por ello, en el post se aclara que su condición de astronauta corresponde al estándar estadounidense vigente en el programa X-15.</p>
@@ -121,7 +121,7 @@ A largo plazo, su legado descansa en tres planos. Primero, en el simbólico: el 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-05 11:35:42 CST  
+- **Timestamp de verificación:** 2026-08-18 17:20:00 CST  
 - **Fuentes primarias consultadas:** U.S. Air Force, NASA, National Aviation Hall of Fame  
 - **Fuentes secundarias de contraste:** Britannica Kids, This Day in Aviation  
 - **Discrepancias resueltas:** Se armonizó el lugar de nacimiento como Manhattan / Nueva York; también se distinguió la definición estadounidense de astronauta respecto del criterio FAI de 100 km.  
