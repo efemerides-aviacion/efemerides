@@ -14,14 +14,14 @@ image: 1935-12-17-primer-vuelo-douglas-dc3.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1935-12-17-primer-vuelo-douglas-dc3.jpg" alt="Primer prototipo del Douglas DC-3 en configuración DST">
   <figcaption class="post-caption">Este avión fue el primer DC-3, configurado como Douglas Sleeper Transport (DST), registro X14988. (Fuente: Douglas Aircraft Company / This Day in Aviation).</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 17 de diciembre de 1935, el Douglas DC-3 realizó su primer vuelo en Santa Monica, California. Diseñado por la Douglas Aircraft Company para American Airlines, el DC-3 combinó velocidad, alcance y confort, convirtiéndose en el primer avión rentable solo con pasajeros y en un ícono de la aviación comercial y militar.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 17 de diciembre de 1935  
 - **Lugar:** Clover Field, Santa Monica, California, EE.UU.  
@@ -32,7 +32,7 @@ image: 1935-12-17-primer-vuelo-douglas-dc3.jpg
 - **Capacidad:** 21–32 pasajeros (versión estándar DC-3); 14–16 literas (versión DST)  
 - **Resultado inmediato:** Primer vuelo exitoso del DC-3, inicio de su producción en serie  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 En los años 30, la aviación comercial dependía de subsidios postales. American Airlines buscaba un avión rentable solo con pasajeros. El DC-3 respondió a esa necesidad, ofreciendo vuelos nocturnos con literas y reduciendo el tiempo transcontinental a 18 horas con tres escalas.
 
@@ -61,14 +61,14 @@ El DC-3 se convirtió en símbolo de la edad de oro de la aviación y en protago
 ### Legado
 Casi un siglo después, cientos de DC-3 siguen volando. Es considerado “el avión que lo cambió todo” y un ícono perdurable de la aviación mundial.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://crsmithmuseum.org/visit-the-museum/about/biography-of-c-r-smith/">C.R. Smith Museum – Biography of C.R. Smith</a></li>
-    <li><a href="https://www.thisdayinaviation.com/17-december-1935/">Douglas Aircraft Company / This Day in Aviation – 17 December 1935</a></li>
-    <li><a href="https://hermes.aero/?page_id=3882">Hermes Air Transport Organisation – C.R. Smith (1899–1990)</a></li>
-    <li><a href="https://airandspace.si.edu/air-and-space-quarterly/summer-2023/dc3-triumph">National Air and Space Museum – Triumph of the Gooney Bird</a></li>
+    <li><a href="https://crsmithmuseum.org/visit-the-museum/about/biography-of-c-r-smith/" style="color: #315fea; text-decoration: none;">C.R. Smith Museum – Biography of C.R. Smith</a></li>
+    <li><a href="https://www.thisdayinaviation.com/17-december-1935/" style="color: #315fea; text-decoration: none;">Douglas Aircraft Company / This Day in Aviation – 17 December 1935</a></li>
+    <li><a href="https://hermes.aero/?page_id=3882" style="color: #315fea; text-decoration: none;">Hermes Air Transport Organisation – C.R. Smith (1899–1990)</a></li>
+    <li><a href="https://airandspace.si.edu/air-and-space-quarterly/summer-2023/dc3-triumph" style="color: #315fea; text-decoration: none;">National Air and Space Museum – Triumph of the Gooney Bird</a></li>
   </ul>
 </div>
 
@@ -76,9 +76,9 @@ Casi un siglo después, cientos de DC-3 siguen volando. Es considerado “el avi
 <p><strong>Nota aclaratoria:</strong> El primer vuelo fue realizado por el prototipo DST (Douglas Sleeper Transport), registro X14988, el 17 de diciembre de 1935. Algunas fuentes mencionan el DC-3 estándar, pero la verificación confirma que el vuelo inaugural correspondió a la variante DST.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2025-12-16 09:54 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** National Air and Space Museum, C.R. Smith Museum, This Day in Aviation, Hermes Air Transport Organisation  
 - **Discrepancias resueltas:** Confirmación de que el primer vuelo fue del DST X14988, no del DC-3 estándar.  
 - **Nivel de confianza:** Alto  

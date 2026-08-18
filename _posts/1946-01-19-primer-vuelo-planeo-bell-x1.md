@@ -22,7 +22,7 @@ image: 1946-01-19-primer-vuelo-planeo-bell-x1.jpg
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados del Evento
+## Datos verificados del evento
 - **Fecha:** 19 de enero de 1946  
 - **Lugar:** Pinecastle Army Airfield, Florida, EE.UU.  
 - **Protagonistas:** Piloto Jack Woolams, Bell Aircraft, USAF  
@@ -60,20 +60,20 @@ El Bell X‑1 es recordado como el primer avión en superar Mach 1 en vuelo nive
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Bell_X-1">Wikipedia (ES) – Bell X‑1</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Bell_X-1">Wikipedia (EN) – Bell X‑1</a></li>
-    <li><a href="https://www.nasa.gov/wp-content/uploads/2021/09/120327main_fs-085-dfrc.pdf">NASA – First Generation X‑1 (PDF)</a></li>
-    <li><a href="https://www.nasa.gov/aeronautics/first-generation-x-1/">NASA – First Generation X‑1 (artículo)</a></li>
-    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-bell-x-1.html">Vintage Aviation News – First Flight of the Bell X‑1</a></li>
-    <li><a href="https://www.sps-aviation.com/story/?id=3250&h=Bell-X-1-The-First-Supersonic-Aircraft">SPS Aviation – Bell X‑1: The First Supersonic Aircraft</a></li>
-    <li><a href="https://www.thisdayinaviation.com/19-january-1946/">This Day in Aviation – 19 January 1946 (Bell XS‑1 glide flight)</a></li>
-    <li><a href="https://niagaraaerospacemuseum.org/january-25-1946-first-flight-of-the-bell-x-1/">Niagara Aerospace Museum – First Flight of the Bell X‑1</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Bell_X-1" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Bell X‑1</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Bell_X-1" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Bell X‑1</a></li>
+    <li><a href="https://www.nasa.gov/wp-content/uploads/2021/09/120327main_fs-085-dfrc.pdf" style="color: #315fea; text-decoration: none;">NASA – First Generation X‑1 (PDF)</a></li>
+    <li><a href="https://www.nasa.gov/aeronautics/first-generation-x-1/" style="color: #315fea; text-decoration: none;">NASA – First Generation X‑1 (artículo)</a></li>
+    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-bell-x-1.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News – First Flight of the Bell X‑1</a></li>
+    <li><a href="https://www.sps-aviation.com/story/?id=3250&h=Bell-X-1-The-First-Supersonic-Aircraft" style="color: #315fea; text-decoration: none;">SPS Aviation – Bell X‑1: The First Supersonic Aircraft</a></li>
+    <li><a href="https://www.thisdayinaviation.com/19-january-1946/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 19 January 1946 (Bell XS‑1 glide flight)</a></li>
+    <li><a href="https://niagaraaerospacemuseum.org/january-25-1946-first-flight-of-the-bell-x-1/" style="color: #315fea; text-decoration: none;">Niagara Aerospace Museum – First Flight of the Bell X‑1</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-15 17:05:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** NASA; Wikipedia; Vintage Aviation News; SPS Aviation; This Day in Aviation; Niagara Aerospace Museum  
 - **Discrepancias resueltas:** Algunas fuentes sitúan el primer planeo el 25 de enero de 1946; NASA y This Day in Aviation confirman el 19 de enero de 1946.  
 - **Nivel de confianza:** Alto  

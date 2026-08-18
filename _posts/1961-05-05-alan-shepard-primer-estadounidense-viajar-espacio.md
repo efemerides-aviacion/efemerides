@@ -137,14 +137,14 @@ Shepard falleció el 21 de julio de 1998, a la edad de 74 años. Su legado perdu
 
 <div class="references">
   <ul>
-    <li><a href="https://www.nasa.gov/image-article/freedom-7-liftoff/">NASA - Freedom 7 Liftoff</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Mercury-Redstone_3">Wikipedia - Mercury-Redstone 3</a></li>
-    <li><a href="https://www.nasa.gov/mission/mercury-redstone-3-freedom-7/">NASA - Mercury-Redstone 3: Freedom 7</a></li>
-    <li><a href="https://www.nasa.gov/history/SP-4001/p3a.htm">NASA History - Operational Phase of Project Mercury</a></li>
-    <li><a href="https://haciaelespacio.aem.gob.mx/revistadigital/articul.php?interior=983">Revista Hacia el Espacio - Alan Shepard</a></li>
-    <li><a href="https://spacecenter.org/mission-monday-five-fast-facts-about-the-first-american-in-space/">Space Center Houston - Five Fast Facts</a></li>
-    <li><a href="https://www.elmundo.es/elmundo/2011/05/05/ciencia/1304595526.html">El Mundo - EEUU celebra el 50 aniversario</a></li>
-    <li><a href="https://wayback.archive-it.org/all/20120913142415/http://en.wikipedia.org/wiki/Mercury-Redstone_3">Wikipedia archive - Mercury-Redstone 3</a></li>
+    <li><a href="https://www.nasa.gov/image-article/freedom-7-liftoff/" style="color: #315fea; text-decoration: none;">NASA - Freedom 7 Liftoff</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Mercury-Redstone_3" style="color: #315fea; text-decoration: none;">Wikipedia - Mercury-Redstone 3</a></li>
+    <li><a href="https://www.nasa.gov/mission/mercury-redstone-3-freedom-7/" style="color: #315fea; text-decoration: none;">NASA - Mercury-Redstone 3: Freedom 7</a></li>
+    <li><a href="https://www.nasa.gov/history/SP-4001/p3a.htm" style="color: #315fea; text-decoration: none;">NASA History - Operational Phase of Project Mercury</a></li>
+    <li><a href="https://haciaelespacio.aem.gob.mx/revistadigital/articul.php?interior=983" style="color: #315fea; text-decoration: none;">Revista Hacia el Espacio - Alan Shepard</a></li>
+    <li><a href="https://spacecenter.org/mission-monday-five-fast-facts-about-the-first-american-in-space/" style="color: #315fea; text-decoration: none;">Space Center Houston - Five Fast Facts</a></li>
+    <li><a href="https://www.elmundo.es/elmundo/2011/05/05/ciencia/1304595526.html" style="color: #315fea; text-decoration: none;">El Mundo - EEUU celebra el 50 aniversario</a></li>
+    <li><a href="https://wayback.archive-it.org/all/20120913142415/http://en.wikipedia.org/wiki/Mercury-Redstone_3" style="color: #315fea; text-decoration: none;">Wikipedia archive - Mercury-Redstone 3</a></li>
   </ul>
 </div>
 
@@ -152,7 +152,7 @@ Shepard falleció el 21 de julio de 1998, a la edad de 74 años. Su legado perdu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-04 12:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** NASA (.gov), Wikipedia, Space Center Houston, Revista Hacia el Espacio (AEM), El Mundo
 - **Discrepancias resueltas:** La duración del vuelo varía entre 15 minutos 22 segundos (fuentes iniciales) y 15 minutos 28 segundos (datos más precisos del informe de vuelo). Se ha priorizado la cifra de 15 minutos 28 segundos, que es la más utilizada en las fuentes actualizadas. La altitud máxima es consistente en todas las fuentes (187,5 km).
 - **Nivel de confianza:** Alto

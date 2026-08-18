@@ -15,7 +15,7 @@ image: 1976-07-20-viking1-sonda-espacial-en-marte.webp
   <figcaption class="post-caption">Primera fotografía tomada desde la superficie de Marte por el módulo de aterrizaje de la sonda Viking 1 el 20 de julio de 1976, mostrando rocas del terreno en Chryse Planitia y una de sus patas de apoyo. Fuente: <a href="https://science.nasa.gov/mission/viking/" style="color: #315fea; text-decoration: none;">NASA Science / JPL-Caltech</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1976-07-20-viking1-sonda-espacial-en-marte.webp
 <p>Proyectada inicialmente para una misión científica de 90 días, la Viking 1 superó todas las expectativas técnicas al operar de forma ininterrumpida durante 2.307 días (más de seis años) en el suelo marciano hasta el 13 de noviembre de 1982. Junto con su orbitador matriz —que completó 1.489 órbitas científicas—, la misión transformó radicalmente el conocimiento del planeta rojo, ejecutando análisis biológicos, mapeos meteorológicos y la caracterización de la atmósfera y el suelo, sentando los cimientos de la exploración robótica planetaria moderna.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Datos verificados del evento
 - **Fecha del aterrizaje:** 20 de julio de 1976 (11:53:06 UTC).
@@ -36,7 +36,7 @@ image: 1976-07-20-viking1-sonda-espacial-en-marte.webp
 - **Duración operativa en la superficie:** 2.307 días (hasta el 13 de noviembre de 1982).
 - **Órbitas del módulo orbital:** 1.489 órbitas (operativo hasta el 7 de agosto de 1980).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Contexto Histórico
 El éxito de la misión Viking 1 se desplegó en el escenario de la Guerra Fría, enmarcado en la intensa competencia espacial entre los Estados Unidos y la Unión Soviética por el dominio científico y tecnológico del sistema solar.
@@ -50,7 +50,7 @@ A mediados de la década de 1970, el descenso atmosférico en Marte representaba
 ### Entorno cultural
 La fascinación popular por Marte, alimentada durante décadas por la ciencia ficción y las teorías decimonónicas sobre canales marcianos, alcanzó su punto de inflexión científico con las primeras imágenes nítidas enviadas por la Viking 1. La visión en alta resolución de un paisaje desértico, rojizo y rocoso desmintió las fantasías sobre vegetación o civilizaciones marcianas, pero inauguró una era de fascinación científica realista orientada a la búsqueda de microorganismos y al estudio de la geología comparada planetaria.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Desarrollo Cronológico
 La secuencia operativa de la Viking 1 combinó un extenso viaje interplanetario con una compleja maniobra de entrada, descenso y aterrizaje (EDL) ejecutada de forma autónoma a más de 300 millones de kilómetros de la Tierra.
@@ -65,21 +65,21 @@ La secuencia operativa de la Viking 1 combinó un extenso viaje interplanetario 
 - **7 de agosto de 1980:** Desactivación formal del orbitador de la Viking 1 tras agotar su combustible de control de actitud tras 1.489 órbitas.
 - **13 de noviembre de 1982:** Cese definitivo de las comunicaciones con el módulo de aterrizaje en la superficie, debido a un comando de actualización de software enviado de forma errónea que sobrescribió la antena de comunicación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Consecuencias e Impacto
 El éxito de la Viking 1 transformó las ciencias planetarias al proporcionar la primera serie de datos *in situ* sobre la superficie y la atmósfera marcianas. El laboratorio biológico a bordo analizó muestras de suelo mediante tres experimentos distintos diseñados para detectar metabolismo o fotosíntesis microbiana, mientras que un espectrómetro de masa por cromatografía de gases (GCMS) analizó compuestos orgánicos.
 
 Aunque los análisis biológicos no hallaron evidencias concluyentes de moléculas orgánicas complejas —atribuyéndose las reacciones observadas a la química fuertemente oxidante del perclorato en el suelo marciano—, la misión demostró la viabilidad operacional de laboratorios robóticos autónomos en otros planetas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 La Viking 1 se mantiene como un referente fundamental de la ingeniería de exploración espacial. Sus más de seis años de operación continua en Marte sentaron las bases para las posteriores misiones de la NASA, como los astromóviles *Pathfinder*, *Spirit*, *Opportunity*, *Curiosity* y *Perseverance*.
 
 Las miles de fotografías en alta resolución transmitidas por el orbitador y el módulo de superficie redefinieron la cartografía de Marte, revelando antiguos lechos fluviales, cañones gigantescos como Valles Marineris y volcanes masivos como Olympus Mons, consolidando la imagen de Marte como un planeta geológicamente complejo con un pasado dinámico e hídrico.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Referencias Verificadas
 - <a href="https://science.nasa.gov/mission/viking/" style="color: #315fea; text-decoration: none;">NASA Science: Misión Oficial del Programa Viking</a>
@@ -90,12 +90,12 @@ Las miles de fotografías en alta resolución transmitidas por el orbitador y el
   <p><strong>Nota aclaratoria:</strong> Existe un matiz historiográfico importante entre el primer posado físico en Marte y el primer aterrizaje operativo exitoso. En diciembre de 1971, la sonda soviética Mars 3 logró posarse en la superficie marciana; sin embargo, las transmisiones de datos fallaron definitivamente apenas 14,5 segundos después del aterrizaje debido a una severa tormenta de polvo global, logrando enviar únicamente una imagen parcial ilegible sin valor científico. Por ello, la comunidad científica internacional reconoce unánimemente a la Viking 1 como la primera sonda en lograr un aterrizaje plenamente exitoso, funcional y de larga duración en la superficie marciana. Asimismo, la imagen publicada (PIA00381) fue iniciada solo 25 segundos después del impacto suave del 20 de julio de 1976, inmortalizando el terreno rocoso de Chryse Planitia y el soporte del pie número 3 del módulo de aterrizaje.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-15 17:35:00 America/Mexico_City
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA Science Mission Directorate, Jet Propulsion Laboratory (JPL-Caltech), NASA History Division.
-- **Fuentes secundarias de contraste:** Encyclopædia Britannica, Harvard Astrophysics Data System (ADS), borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Encyclopædia Britannica, Harvard Astrophysics Data System (ADS).
 - **Discrepancias resueltas:** Se estableció la distinción técnica entre el intento soviético inacabado de Mars 3 en 1971 y el éxito operativo pleno de Viking 1 en 1976, y se confirmó el código de catálogo fotográfico de la primera imagen tomada desde la superficie marciana (PIA00381).
 - **Nivel de confianza:** Alto.
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

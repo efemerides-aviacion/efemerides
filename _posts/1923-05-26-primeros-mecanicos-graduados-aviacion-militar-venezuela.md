@@ -45,7 +45,7 @@ La graduación de los primeros mecánicos aeronáuticos ocurrió en un momento c
 
 ### Entorno social
 
-El 17 de abril de 1920, bajo la presidencia del doctor Victorino Márquez Bustillos (con el general Juan Vicente Gómez ejerciendo el mando desde Maracay), <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html">se creó la Escuela de Aviación Militar</a> con un presupuesto inicial de 350.000 bolívares . Sus objetivos eran «formar e instruir los pilotos para el servicio del Ejército nacional». La escuela quedó bajo la superior dependencia de la comandancia del jefe del Ejército y bajo la inmediata dirección del Ministerio de Guerra y Marina.
+El 17 de abril de 1920, bajo la presidencia del doctor Victorino Márquez Bustillos (con el general Juan Vicente Gómez ejerciendo el mando desde Maracay), <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">se creó la Escuela de Aviación Militar</a> con un presupuesto inicial de 350.000 bolívares . Sus objetivos eran «formar e instruir los pilotos para el servicio del Ejército nacional». La escuela quedó bajo la superior dependencia de la comandancia del jefe del Ejército y bajo la inmediata dirección del Ministerio de Guerra y Marina.
 
 La naciente Escuela de Aviación Militar quedó asignada al Ejército, siendo coordinada por la Inspectoría General del Ejército, a cargo desde 1916 del general José Vicente Gómez, hijo mayor del dictador, lo cual mantenía directa supervisión de su funcionamiento. Se designó al coronel del ejército David López Henríquez como director de la institución.
 
@@ -67,7 +67,7 @@ La graduación de los primeros técnicos venezolanos representó un paso decisiv
 - **1919:** El agregado militar francés en Caracas recomienda al gobierno venezolano el desarrollo de la aviación marítima.
 - **1920, 17 de abril:** Decreto de creación de la Escuela de Aviación Militar, con sede en Maracay. Se asignan 350.000 bolívares para su estructuración .
 - **1920:** Adquisición de seis aviones Caudron G.3 en Francia, constituyendo la primera flota de entrenamiento .
-- **1920, 22 de mayo:** El gobierno venezolano formaliza la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1920/05/22/mision-instructores-franceses-eam-venezolana.html">contratación de una misión de instructores franceses</a>.
+- **1920, 22 de mayo:** El gobierno venezolano formaliza la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1920/05/22/mision-instructores-franceses-eam-venezolana.html" style="color: #315fea; text-decoration: none;">contratación de una misión de instructores franceses</a>.
 - **1920, 10 de noviembre:** Firma del Acta de Instalación de la Escuela de Aviación Militar .
 - **1920, diciembre:** Instalación formal de la Escuela de Aviación Militar. Primeros alumnos: Juan Yépez, Antonio Villegas, Francisco Leonardi, Ovilio Díaz, Julio Fortoul, Luis Rondón, Alfredo García, Jesús Paúl, Elías Sayago, Amador Nieto y Juan Lucero .
 - **1921, 16 de febrero:** Ernesto Salas Agelvis ingresa a la Escuela de Aviación Militar como Alumno Mecánico .
@@ -160,15 +160,15 @@ El legado de Salas Agelvis perdura en cada técnico que hoy mantiene las aeronav
 
 <div class="references">
   <ul>
-    <li><a href="https://www.facebook.com/groups/295948893906282/posts/2536370963197386/"> Cnel. (Av) José Ochoa Vargas - Archivo Historias y Personajes FAV: Biografía del Tcnel. Ernesto Salas Agelvis.</a></li>
-    <li><a href="https://www.facebook.com/groups/288134155343482/posts/1848312289325653/">Freddy L. Pedrique – La Chiva y cuando se salvó la Fuerza Aérea Venezolana</a></li>
-    <li><a href="https://www.defensa.com/en-abierto/n-100-anos-aviacion-militar-venezuela">Noticias Defensa – 100 años de la Aviación Militar en Venezuela</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Caudron_G-3">Wikipedia – Caudron G.3</a></li>
-    <li><a href="https://servicio.bc.uc.edu.ve/postgrado/manongo41/art08.pdf">Froilán Ramos-Rodríguez – Aviación Militar venezolana, 1920-1936 (UCAB)</a></li>
+    <li><a href="https://www.facebook.com/groups/295948893906282/posts/2536370963197386/" style="color: #315fea; text-decoration: none;"> Cnel. (Av) José Ochoa Vargas - Archivo Historias y Personajes FAV: Biografía del Tcnel. Ernesto Salas Agelvis.</a></li>
+    <li><a href="https://www.facebook.com/groups/288134155343482/posts/1848312289325653/" style="color: #315fea; text-decoration: none;">Freddy L. Pedrique – La Chiva y cuando se salvó la Fuerza Aérea Venezolana</a></li>
+    <li><a href="https://www.defensa.com/en-abierto/n-100-anos-aviacion-militar-venezuela" style="color: #315fea; text-decoration: none;">Noticias Defensa – 100 años de la Aviación Militar en Venezuela</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Caudron_G-3" style="color: #315fea; text-decoration: none;">Wikipedia – Caudron G.3</a></li>
+    <li><a href="https://servicio.bc.uc.edu.ve/postgrado/manongo41/art08.pdf" style="color: #315fea; text-decoration: none;">Froilán Ramos-Rodríguez – Aviación Militar venezolana, 1920-1936 (UCAB)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -183,7 +183,7 @@ El legado de Salas Agelvis perdura en cada técnico que hoy mantiene las aeronav
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-24 14:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Archivo Historias y Personajes FAV (Facebook), Freddy L. Pedrique (publicación), Noticias Defensa, Wikipedia (Caudron G.3), Froilán Ramos-Rodríguez (UCAB)
 - **Discrepancias resueltas:** Confirmación de la fecha de ingreso de Salas Agelvis (16/2/1921) y su calificación (99/100). Resolución parcial de la discrepancia sobre el año del vuelo de "La Chiva" (1923 vs 1924), mencionando ambas posibilidades en la nota aclaratoria.
 - **Datos no confirmados:** La fecha exacta del 26 de mayo de 1923 no ha sido verificada en fuentes externas independientes, pero es consistente con la cronología general documentada.

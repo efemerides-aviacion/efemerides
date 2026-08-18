@@ -20,7 +20,7 @@ redirect_from:
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 25 de mayo de 1913 nació en Santiago de Chile Roberto Parragué Singer, el aviador que el 20 de enero de 1951 completó el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1951/01/20/vuelo-manutara-isla-de-pascua.html" style="color: #1b5e20; text-decoration: none;">primer vuelo desde Chile continental a Isla de Pascua</a> a bordo del hidroavión Catalina «Manutara». Su hazaña, realizada en 19 horas y 22 minutos sobre el Pacífico, consolidó la soberanía chilena sobre la isla más remota del mundo y abrió las puertas a su integración definitiva. Su perseverancia, que incluyó un primer proyecto rechazado en 1937 y un segundo vuelo sin autorización en 1959 que le costó el retiro de la Fuerza Aérea, lo consagró como un pionero de la navegación aérea de largo alcance. Su legado incluye la fundación de Aeroservicios Parragué, que estableció el nexo comercial regular con Rapa Nui, y su reconocimiento como General de Brigada Aérea por el Congreso de Chile.</p>
+<p>El 25 de mayo de 1913 nació en Santiago de Chile Roberto Parragué Singer, el aviador que el 20 de enero de 1951 completó el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1951/01/20/vuelo-manutara-isla-de-pascua.html" style="color: #315fea; text-decoration: none;">primer vuelo desde Chile continental a Isla de Pascua</a> a bordo del hidroavión Catalina «Manutara». Su hazaña, realizada en 19 horas y 22 minutos sobre el Pacífico, consolidó la soberanía chilena sobre la isla más remota del mundo y abrió las puertas a su integración definitiva. Su perseverancia, que incluyó un primer proyecto rechazado en 1937 y un segundo vuelo sin autorización en 1959 que le costó el retiro de la Fuerza Aérea, lo consagró como un pionero de la navegación aérea de largo alcance. Su legado incluye la fundación de Aeroservicios Parragué, que estableció el nexo comercial regular con Rapa Nui, y su reconocimiento como General de Brigada Aérea por el Congreso de Chile.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -119,20 +119,20 @@ Roberto Parragué Singer es recordado como el "pionero del cielo de Rapa Nui". S
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Roberto_Parragu%C3%A9_Singer">Wikipedia – Roberto Parragué Singer</a></li>
-    <li><a href="https://fach.mil.cl/manutara-75-anos-del-vuelo-que-abrio-el-cielo-hacia-rapa-nui">Fuerza Aérea de Chile – Manutara: 75 años del vuelo que abrió el cielo hacia Rapa Nui</a></li>
-    <li><a href="https://chile.embassy.gov.au/sclecastellano/primervuelosobreeloceanopacifico.html">Embajada de Australia en Chile – 65 años de la primera travesía aérea sobre el océano Pacífico</a></li>
-    <li><a href="https://www.dgac.gob.cl/ceremonia-conmemorativa-70-aniversario-del-primer-vuelo-a-isla-de-pascua/">DGAC Chile – Ceremonia conmemorativa 70° aniversario del primer vuelo a Isla de Pascua</a></li>
-    <li><a href="https://www.elrancaguino.cl/2023/09/13/el-primer-vuelo-a-la-isla-de-pascua-lo-realizo-roberto-parrague-singer/">El Rancagüino – El primer vuelo a Isla de Pascua lo realizó Roberto Parragué Singer</a></li>
-    <li><a href="https://tramitacion.senado.cl/appsenado/index.php?mo=sesionessala&amp;ac=getDocumento&amp;teseid=22689&amp;legiid=248">Senado de Chile – Diario de Sesiones (9 de abril de 1996)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Roberto_Parragu%C3%A9_Singer" style="color: #315fea; text-decoration: none;">Wikipedia – Roberto Parragué Singer</a></li>
+    <li><a href="https://fach.mil.cl/manutara-75-anos-del-vuelo-que-abrio-el-cielo-hacia-rapa-nui" style="color: #315fea; text-decoration: none;">Fuerza Aérea de Chile – Manutara: 75 años del vuelo que abrió el cielo hacia Rapa Nui</a></li>
+    <li><a href="https://chile.embassy.gov.au/sclecastellano/primervuelosobreeloceanopacifico.html" style="color: #315fea; text-decoration: none;">Embajada de Australia en Chile – 65 años de la primera travesía aérea sobre el océano Pacífico</a></li>
+    <li><a href="https://www.dgac.gob.cl/ceremonia-conmemorativa-70-aniversario-del-primer-vuelo-a-isla-de-pascua/" style="color: #315fea; text-decoration: none;">DGAC Chile – Ceremonia conmemorativa 70° aniversario del primer vuelo a Isla de Pascua</a></li>
+    <li><a href="https://www.elrancaguino.cl/2023/09/13/el-primer-vuelo-a-la-isla-de-pascua-lo-realizo-roberto-parrague-singer/" style="color: #315fea; text-decoration: none;">El Rancagüino – El primer vuelo a Isla de Pascua lo realizó Roberto Parragué Singer</a></li>
+    <li><a href="https://tramitacion.senado.cl/appsenado/index.php?mo=sesionessala&amp;ac=getDocumento&amp;teseid=22689&amp;legiid=248" style="color: #315fea; text-decoration: none;">Senado de Chile – Diario de Sesiones (9 de abril de 1996)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
-  <p><strong>1. Discrepancia sobre la distancia del vuelo Manutara:</strong> Las fuentes presentan dos cifras para la distancia del vuelo: 2.047 millas náuticas (3.750 km) y 2.300 millas náuticas (3.791 km). La efeméride del vuelo asume ambas cifras como válidas según diferentes fuentes primarias. Para más detalles sobre el vuelo, consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1951/01/20/vuelo-manutara-isla-de-pascua.html" style="color: #1b5e20; text-decoration: none;">efeméride del vuelo histórico del Manutara</a>.</p>
+  <p><strong>1. Discrepancia sobre la distancia del vuelo Manutara:</strong> Las fuentes presentan dos cifras para la distancia del vuelo: 2.047 millas náuticas (3.750 km) y 2.300 millas náuticas (3.791 km). La efeméride del vuelo asume ambas cifras como válidas según diferentes fuentes primarias. Para más detalles sobre el vuelo, consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1951/01/20/vuelo-manutara-isla-de-pascua.html" style="color: #315fea; text-decoration: none;">efeméride del vuelo histórico del Manutara</a>.</p>
   <p><strong>2. Discrepancia sobre la fecha del segundo vuelo:</strong> Las fuentes indican que Parragué voló a Isla de Pascua por segunda vez en 1959, siendo pasado a retiro el 27 de mayo de ese año. El sitio oficial de la FACH menciona un segundo vuelo en 1959 de ida y vuelta. Algunas fuentes secundarias mencionan un vuelo en 1961, pero la información institucional respalda 1959 como el año del segundo vuelo sin autorización.</p>
   <p><strong>3. Tripulación del Manutara:</strong> Existen ligeras variaciones en los nombres de la tripulación entre fuentes. Wikipedia menciona una composición, mientras que el sitio oficial de la FACH añade a Sabino Poblete como cuarto piloto y a Mario Rodríguez y René Campos como radiotelegrafistas. Se ha priorizado la información institucional de la FACH por su carácter oficial.</p>
   <p><strong>4. Fecha exacta del despegue y vuelo previo:</strong> El vuelo previo desde Quintero a La Serena ocurrió el 18 de enero de 1951. El despegue principal desde La Serena hacia Isla de Pascua fue el 19 de enero de 1951 a las 19:20 horas, con aterrizaje en Mataveri el 20 de enero de 1951 a las 14:42 horas. Esta cronología está confirmada por la efeméride existente del vuelo Manutara.</p>
@@ -142,7 +142,7 @@ Roberto Parragué Singer es recordado como el "pionero del cielo de Rapa Nui". S
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-22 17:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES), Fuerza Aérea de Chile (sitio oficial), Embajada de Australia en Chile, DGAC Chile, Senado de Chile (Diario de Sesiones 1996), El Rancagüino
 - **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (25 de mayo de 1913) en fuentes institucionales. Verificación de la tripulación del Manutara mediante la fuente oficial de la FACH. Resolución de la discrepancia sobre el año del segundo vuelo (1959, no 1961). Añadido vuelo previo del 18 de enero de 1951.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y de prensa coinciden en los datos fundamentales)

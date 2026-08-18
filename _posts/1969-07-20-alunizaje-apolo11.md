@@ -12,7 +12,7 @@ image: 1969-07-20-alunizaje-apolo11.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-07-20-alunizaje-apolo11.webp" alt="Buzz Aldrin sobre la superficie lunar durante la misión Apolo 11, fotografiado por Neil Armstrong">
-  <figcaption class="post-caption">Buzz Aldrin sobre la superficie lunar durante la misión Apolo 11, en una fotografía tomada por Neil Armstrong. En la visera del casco de Aldrin se reflejan Armstrong, el módulo lunar <em>Eagle</em> y la sombra del propio astronauta. Fuente: <a href="https://en.wikipedia.org/wiki/Apollo_11">Wikipedia en inglés</a>, a partir de imagen NASA.</figcaption>
+  <figcaption class="post-caption">Buzz Aldrin sobre la superficie lunar durante la misión Apolo 11, en una fotografía tomada por Neil Armstrong. En la visera del casco de Aldrin se reflejan Armstrong, el módulo lunar <em>Eagle</em> y la sombra del propio astronauta. Fuente: <a href="https://en.wikipedia.org/wiki/Apollo_11" style="color: #315fea; text-decoration: none;">Wikipedia en inglés</a>, a partir de imagen NASA.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
@@ -95,19 +95,19 @@ A largo plazo, la misión redefinió el estándar de las grandes empresas tecnol
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Apolo_11">Wikipedia (ES) – Apolo 11</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Apollo_11">Wikipedia (EN) – Apollo 11</a></li>
-    <li><a href="https://www.nasa.gov/history/apollo-11-mission-overview/">NASA – Apollo 11 Mission Overview</a></li>
-    <li><a href="https://airandspace.si.edu/collection-objects/command-module-apollo-11/nasm_A19700102000">Smithsonian National Air and Space Museum – Apollo 11 Command Module Columbia</a></li>
-    <li><a href="https://www.historic-newspapers.com/en-mx/blogs/from-the-archive/the-day-earth-held-its-breath-the-apollo-11-moon-landing?oc=MX">Historic Newspapers – The Day Earth Held Its Breath: The Apollo 11 Moon Landing</a></li>
-    <li><a href="https://www.visitthecapitol.gov/artifact/eagle-has-landed-two-men-walk-moon-washington-post-july-21-1969">U.S. Capitol Visitor Center – “The Eagle Has Landed”</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Apolo_11" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Apolo 11</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Apollo_11" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Apollo 11</a></li>
+    <li><a href="https://www.nasa.gov/history/apollo-11-mission-overview/" style="color: #315fea; text-decoration: none;">NASA – Apollo 11 Mission Overview</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/command-module-apollo-11/nasm_A19700102000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Apollo 11 Command Module Columbia</a></li>
+    <li><a href="https://www.historic-newspapers.com/en-mx/blogs/from-the-archive/the-day-earth-held-its-breath-the-apollo-11-moon-landing?oc=MX" style="color: #315fea; text-decoration: none;">Historic Newspapers – The Day Earth Held Its Breath: The Apollo 11 Moon Landing</a></li>
+    <li><a href="https://www.visitthecapitol.gov/artifact/eagle-has-landed-two-men-walk-moon-washington-post-july-21-1969" style="color: #315fea; text-decoration: none;">U.S. Capitol Visitor Center – “The Eagle Has Landed”</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Esta efeméride se centra en el alunizaje del 20 de julio de 1969 como hecho histórico principal, pero la misión Apolo 11 no concluyó ese día. Su éxito completo solo quedó sellado con el regreso seguro a la Tierra el 24 de julio de 1969, cuando la cápsula amerizó en el Pacífico y la tripulación fue recuperada por el USS <em>Hornet</em>.</p>
@@ -116,7 +116,7 @@ A largo plazo, la misión redefinió el estándar de las grandes empresas tecnol
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-04 09:05:00 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** NASA, Smithsonian National Air and Space Museum, U.S. Capitol Visitor Center  
 - **Fuentes secundarias de contraste:** Wikipedia (ES/EN), Historic Newspapers  
 - **Discrepancias resueltas:** Se distinguió el alunizaje del 20 de julio del cierre completo de la misión el 24 de julio; se armonizaron horas UTC y denominaciones de los módulos <em>Columbia</em> y <em>Eagle</em>  

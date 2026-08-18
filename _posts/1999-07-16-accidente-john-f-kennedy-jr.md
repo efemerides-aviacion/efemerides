@@ -102,17 +102,17 @@ Por ello, el 16 de julio de 1999 no solo recuerda la muerte de una figura públi
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/46975/pdf">NTSB – Aviation Investigation Final Report NYC99MA178</a></li>
-    <li><a href="https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateFactualReport/46975/pdf">NTSB – Aviation Investigation Factual Report NYC99MA178</a></li>
-    <li><a href="https://www.britannica.com/event/John-F-Kennedy-Jr-plane-crash">Britannica – John F. Kennedy, Jr., plane crash</a></li>
-    <li><a href="https://www.bbc.com/mundo/noticias-48931932">BBC News Mundo – Qué pudo causar el accidente de avión en el que murieron John F. Kennedy Jr. y su esposa en 1999</a></li>
-    <li><a href="http://news.bbc.co.uk/2/hi/americas/400653.stm">BBC News – The final moments of JFK Jnr's flight</a></li>
-    <li><a href="https://www.aopa.org/news-and-media/all-news/2000/september/pilot/landmark-accidents-vineyard-spiral">AOPA – Landmark Accidents: Vineyard Spiral</a></li>
-    <li><a href="https://aviationsafetymagazine.com/features/revisiting-jfk-jr/">Aviation Safety / Flying – Revisiting JFK, Jr.</a></li>
+    <li><a href="https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/46975/pdf" style="color: #315fea; text-decoration: none;">NTSB – Aviation Investigation Final Report NYC99MA178</a></li>
+    <li><a href="https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateFactualReport/46975/pdf" style="color: #315fea; text-decoration: none;">NTSB – Aviation Investigation Factual Report NYC99MA178</a></li>
+    <li><a href="https://www.britannica.com/event/John-F-Kennedy-Jr-plane-crash" style="color: #315fea; text-decoration: none;">Britannica – John F. Kennedy, Jr., plane crash</a></li>
+    <li><a href="https://www.bbc.com/mundo/noticias-48931932" style="color: #315fea; text-decoration: none;">BBC News Mundo – Qué pudo causar el accidente de avión en el que murieron John F. Kennedy Jr. y su esposa en 1999</a></li>
+    <li><a href="http://news.bbc.co.uk/2/hi/americas/400653.stm" style="color: #315fea; text-decoration: none;">BBC News – The final moments of JFK Jnr's flight</a></li>
+    <li><a href="https://www.aopa.org/news-and-media/all-news/2000/september/pilot/landmark-accidents-vineyard-spiral" style="color: #315fea; text-decoration: none;">AOPA – Landmark Accidents: Vineyard Spiral</a></li>
+    <li><a href="https://aviationsafetymagazine.com/features/revisiting-jfk-jr/" style="color: #315fea; text-decoration: none;">Aviation Safety / Flying – Revisiting JFK, Jr.</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes consultadas coinciden en la secuencia esencial del accidente y en la causa probable determinada por la NTSB, pero presentan pequeñas diferencias de detalle narrativo. Algunas enfatizan Martha’s Vineyard como destino inmediato del vuelo, mientras que el informe oficial precisa que existía una escala prevista en MVY antes de continuar a Hyannis. Del mismo modo, ciertas coberturas periodísticas simplifican la cronología de localización de restos y cuerpos, proceso que se desarrolló entre el 20 y el 21 de julio. Estas variaciones no alteran el núcleo técnico del caso: la pérdida de control por desorientación espacial durante un descenso nocturno sobre el agua.</p>
@@ -121,9 +121,9 @@ Por ello, el 16 de julio de 1999 no solo recuerda la muerte de una figura públi
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-12 13:55:00 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** NTSB final report, NTSB factual report  
-- **Fuentes secundarias de contraste:** Britannica, BBC News Mundo, BBC News, AOPA, Aviation Safety / Flying, borrador preliminar del investigador  
+- **Fuentes secundarias de contraste:** Britannica, BBC News Mundo, BBC News, AOPA, Aviation Safety / Flying
 - **Discrepancias resueltas:** se privilegió la cronología, ruta y causa probable del informe oficial de la NTSB frente a simplificaciones periodísticas posteriores sobre el destino final y la secuencia de recuperación  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -15,7 +15,7 @@ image: 1980-08-01-accidente-dc8-aeronaves-del-peru-mexico.webp
   <figcaption class="post-caption">El Douglas DC-8-43F carguero matrícula OB-R-1143 de Aeronaves del Perú, bautizado «San Martín de Porres», fotografiado antes del accidente del 1 de agosto de 1980. Fuente: <a href="https://www.airhistory.net/photo/624237" style="color: #315fea; text-decoration: none;">AirHistory.net</a>, colección Michael Roeser, fotografía de Al Rodriguez.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1980-08-01-accidente-dc8-aeronaves-del-peru-mexico.webp
 <p>La aeronave impactó contra terreno montañoso cubierto por nubes a unos 24 kilómetros del aeropuerto. Los registros disponibles coinciden en que el avión quedó destruido; sin embargo, presentan discrepancias sobre el número exacto de ocupantes y víctimas, que se explican en la nota aclaratoria.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 
@@ -41,7 +41,7 @@ image: 1980-08-01-accidente-dc8-aeronaves-del-peru-mexico.webp
 - **Tipo de suceso:** impacto controlado contra el terreno (CFIT), según la descripción disponible del accidente.
 - **Balance:** las fuentes consultadas discrepan sobre el número de ocupantes y fallecidos; el BAAA registra 8 ocupantes y 8 fallecidos, mientras que Aviation Safety Network registra 7 ocupantes y 3 fallecidos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -59,7 +59,7 @@ El DC-8-43F pertenecía a la primera generación de reactores comerciales de lar
 
 La tragedia quedó incorporada a la historia de la aviación comercial peruana y mexicana. Además de sus consecuencias humanas, el accidente puso de relieve los riesgos de las aproximaciones en condiciones meteorológicas adversas y sobre terrenos de elevada complejidad orográfica.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Desarrollo Cronológico
 
@@ -73,7 +73,7 @@ La tragedia quedó incorporada a la historia de la aviación comercial peruana y
 - **Investigación posterior:** Las fuentes disponibles describen un descenso por debajo de la altitud segura durante la aproximación, pero no se localizó un informe público completo de la autoridad mexicana que permita cerrar todos los detalles.
 - **12 de septiembre de 1980:** Otro DC-8 operado por Aeronaves del Perú, arrendado a United Airlines, sufre un <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1980/09/12/accidente-dc8-aeronaves-del-peru-iquitos.html" style="color: #315fea; text-decoration: none;">accidente en Iquitos</a>; este hecho es posterior e independiente del siniestro del OB-R-1143.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
@@ -81,7 +81,7 @@ El accidente evidenció los riesgos de las aproximaciones a aeropuertos situados
 
 El caso también muestra la importancia de mantener registros consistentes sobre la identidad de los ocupantes y el balance de víctimas. La discrepancia entre las bases de datos disponibles se conserva explícitamente para evitar presentar como definitivo un dato que no pudo ser conciliado con documentación oficial completa.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
@@ -89,7 +89,7 @@ El OB-R-1143 representa una etapa de la aviación carguera latinoamericana en la
 
 La fotografía previa al accidente preserva la identidad del avión y evita convertir la tragedia en una exhibición de restos. El recuerdo del suceso queda vinculado a la necesidad de respetar altitudes mínimas, mantener referencias fiables durante la aproximación y resolver cualquier incertidumbre meteorológica antes de continuar el descenso.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 
@@ -97,20 +97,19 @@ La fotografía previa al accidente preserva la identidad del avión y evita conv
 2. <a href="https://www.baaa-acro.com/index.php/crash/crash-douglas-dc-8-43f-mexico-city-8-killed" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives — Crash of a Douglas DC-8-43F in Mexico City</a>.
 3. <a href="https://www.airhistory.net/photo/624237" style="color: #315fea; text-decoration: none;">AirHistory.net — Aircraft Photo of OB-R-1143, Douglas DC-8-43(F)</a>.
 4. <a href="https://www.airteamimages.com/douglas-dc-8_OB-R-1143_aeronaves-del-peru_139885" style="color: #315fea; text-decoration: none;">AirTeamImages — Douglas DC-8 OB-R-1143, Aeronaves del Perú</a>.
-5. Borrador preliminar del investigador: «Accidente DC-8 de Aeronaves del Perú».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una discrepancia significativa entre las fuentes consultadas. El Bureau of Aircraft Accidents Archives registra 8 ocupantes y 8 fallecidos, incluidos 3 tripulantes y 5 pasajeros; Aviation Safety Network registra 7 ocupantes y 3 fallecidos. Al no haberse localizado un informe público completo de la investigación mexicana que permita conciliar ambos balances, se conservan las dos cifras y no se presenta una de ellas como definitiva.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-27 08:31:57 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Aviation Safety Network; Bureau of Aircraft Accidents Archives; registros fotográficos de AirHistory.net.  
-- **Fuentes secundarias de contraste:** AirTeamImages y borrador preliminar del investigador.  
+- **Fuentes secundarias de contraste:** AirTeamImages.  
 - **Discrepancias resueltas:** Se confirmó la matrícula OB-R-1143, el tipo DC-8-43F, la ruta Lima–Ciudad de México y el impacto en Cerro Lilio; se mantuvo abierta la discrepancia entre 7 y 8 ocupantes y entre 3 y 8 fallecidos por falta de un informe público completo que la resuelva.  
 - **Nivel de confianza:** Alto para la identificación de la aeronave, la ruta y el lugar; Medio para el balance de víctimas y algunos detalles de la causa.  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

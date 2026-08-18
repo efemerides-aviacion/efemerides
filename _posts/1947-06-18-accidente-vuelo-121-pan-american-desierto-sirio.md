@@ -132,17 +132,17 @@ El "Clipper Eclipse" quedó destruido en el desierto sirio. El accidente es reco
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/?curid=48524270">Wikipedia – Pan Am Flight 121</a></li>
-    <li><a href="https://asn.flightsafety.org/wikibase/336950">Aviation Safety Network (Flight Safety Foundation) – Accident description</a></li>
-    <li><a href="http://baaa-acro.com/sites/default/files/import/uploads/2016/02/NC88845.pdf">Civil Aeronautics Board – Final Accident Investigation Report (PDF directo)</a></li>
-    <li><a href="https://www.baaa-acro.com/operator/pan-american-world-airways-paa?page=4">Bureau of Aircraft Accidents Archives (B3A) – Pan Am Flight 121</a></li>
-    <li><a href="https://data.cimple.eu/describe/?url=http%3A%2F%2Fdata.cimple.eu%2Fclaim-review%2F7b223c93b4c8e63bcce86cafe12d58610b2a2069b726eaae486e616b">Cimple (The Oatmeal/Star Trek Creator) – Heroism of Gene Roddenberry</a></li>
-    <li><a href="http://clipper-connection.blogspot.com/2015/06/accidentes-junio-de-1946-septiembre-de.html">Clipper Connection – Accidentes de Pan Am (1946-1959)</a></li>
-    <li><a href="https://medium.com/@Titan828/to-boldly-go-the-crash-of-pan-am-flight-121-1983237b7ad6">Medium – "To Boldly Go: the crash of Pan Am flight 121"</a></li>
+    <li><a href="https://en.wikipedia.org/?curid=48524270" style="color: #315fea; text-decoration: none;">Wikipedia – Pan Am Flight 121</a></li>
+    <li><a href="https://asn.flightsafety.org/wikibase/336950" style="color: #315fea; text-decoration: none;">Aviation Safety Network (Flight Safety Foundation) – Accident description</a></li>
+    <li><a href="http://baaa-acro.com/sites/default/files/import/uploads/2016/02/NC88845.pdf" style="color: #315fea; text-decoration: none;">Civil Aeronautics Board – Final Accident Investigation Report (PDF directo)</a></li>
+    <li><a href="https://www.baaa-acro.com/operator/pan-american-world-airways-paa?page=4" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives (B3A) – Pan Am Flight 121</a></li>
+    <li><a href="https://data.cimple.eu/describe/?url=http%3A%2F%2Fdata.cimple.eu%2Fclaim-review%2F7b223c93b4c8e63bcce86cafe12d58610b2a2069b726eaae486e616b" style="color: #315fea; text-decoration: none;">Cimple (The Oatmeal/Star Trek Creator) – Heroism of Gene Roddenberry</a></li>
+    <li><a href="http://clipper-connection.blogspot.com/2015/06/accidentes-junio-de-1946-septiembre-de.html" style="color: #315fea; text-decoration: none;">Clipper Connection – Accidentes de Pan Am (1946-1959)</a></li>
+    <li><a href="https://medium.com/@Titan828/to-boldly-go-the-crash-of-pan-am-flight-121-1983237b7ad6" style="color: #315fea; text-decoration: none;">Medium – "To Boldly Go: the crash of Pan Am flight 121"</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El accidente ocurrió el 18 de junio de 1947 (fecha UTC). En hora local de Siria (UTC+3) ya era el 19 de junio, pero la efeméride se conmemora el 18 de junio, fecha del despegue y del inicio del incidente. El número de víctimas varía ligeramente entre fuentes (14 o 15). El informe oficial de la CAB indica 15 víctimas mortales, que es la cifra adoptada. El término "deadheading" se refiere a un tripulante que viaja como pasajero pero en servicio de la compañía para reposicionarse a su próximo destino de trabajo.</p>
@@ -152,7 +152,7 @@ El "Clipper Eclipse" quedó destruido en el desierto sirio. El accidente es reco
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-14 13:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Aviation Safety Network (Flight Safety Foundation), Civil Aeronautics Board (CAB) – Informe final oficial, Bureau of Aircraft Accidents Archives (B3A), Clipper Connection, Medium.
 - **Discrepancias resueltas:** Se ha verificado y unificado la información sobre víctimas (15 fallecidos). Se ha confirmado la causa probable del accidente según el informe oficial de la CAB. Se ha detallado el papel de Roddenberry y el significado del término "deadheading". Se ha corregido el título y el excerpt para eliminar la palabra "heroica" aplicada al accidente. Se ha corregido la fecha al 18 de junio de 1947 según tu solicitud. Se ha reemplazado el enlace bloqueado de Aviation Safety Network por la URL alternativa funcional.
 - **Nivel de confianza:** Alto

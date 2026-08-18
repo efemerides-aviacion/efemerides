@@ -144,14 +144,14 @@ Hoy, la aeronave 55-2969 "Queenie" no sobrevive. Fue modificada como un avión b
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/16-1958/">This Day in Aviation - 16 May 1958 (récord de Irwin)</a></li>
-    <li><a href="https://rankings.fai.org/record/9058">FAI Record File 9058 - Walter W. Irwin (USA)</a></li>
-    <li><a href="https://www.rafmuseum.org.uk/research/research-enquiries/history-of-aviation-timeline/world-aviation/1958-2">RAF Museum - World Aviation in 1958</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198067/lockheed-f-104c-starfighter/">National Museum of the USAF - Lockheed F-104C Starfighter</a></li>
-    <li><a href="https://texashistory.unt.edu/ark:/67531/metapth1091896/m1/41/">Lockheed Horizons, Nº22 (December 1986)</a></li>
-    <li><a href="https://www.warplane.com/aircraft/collection/details.aspx?aircraftId=28">Canadian Warplane Heritage Museum - Lockheed CF-104 Starfighter</a></li>
-    <li><a href="https://wingsmuseum.org/exhibits/lockheed-f-104c-starfighter/">Wings Over the Rockies - Lockheed F-104C Starfighter</a></li>
-    <li><a href="https://zh.m.wikipedia.org/wiki/F-104%E6%98%9F%E5%BC%8F%E6%88%B0%E9%AC%A5%E6%A9%9F">Wikipedia (中文) - F-104 Starfighter (datos de producción)</a></li>
+    <li><a href="https://www.thisdayinaviation.com/16-1958/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 16 May 1958 (récord de Irwin)</a></li>
+    <li><a href="https://rankings.fai.org/record/9058" style="color: #315fea; text-decoration: none;">FAI Record File 9058 - Walter W. Irwin (USA)</a></li>
+    <li><a href="https://www.rafmuseum.org.uk/research/research-enquiries/history-of-aviation-timeline/world-aviation/1958-2" style="color: #315fea; text-decoration: none;">RAF Museum - World Aviation in 1958</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198067/lockheed-f-104c-starfighter/" style="color: #315fea; text-decoration: none;">National Museum of the USAF - Lockheed F-104C Starfighter</a></li>
+    <li><a href="https://texashistory.unt.edu/ark:/67531/metapth1091896/m1/41/" style="color: #315fea; text-decoration: none;">Lockheed Horizons, Nº22 (December 1986)</a></li>
+    <li><a href="https://www.warplane.com/aircraft/collection/details.aspx?aircraftId=28" style="color: #315fea; text-decoration: none;">Canadian Warplane Heritage Museum - Lockheed CF-104 Starfighter</a></li>
+    <li><a href="https://wingsmuseum.org/exhibits/lockheed-f-104c-starfighter/" style="color: #315fea; text-decoration: none;">Wings Over the Rockies - Lockheed F-104C Starfighter</a></li>
+    <li><a href="https://zh.m.wikipedia.org/wiki/F-104%E6%98%9F%E5%BC%8F%E6%88%B0%E9%AC%A5%E6%A9%9F" style="color: #315fea; text-decoration: none;">Wikipedia (中文) - F-104 Starfighter (datos de producción)</a></li>
   </ul>
 </div>
 
@@ -159,7 +159,7 @@ Hoy, la aeronave 55-2969 "Queenie" no sobrevive. Fue modificada como un avión b
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-14 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, FAI (Fédération Aéronautique Internationale), RAF Museum, National Museum of the USAF, Canadian Warplane Heritage Museum
 - **Discrepancias resueltas:** La discrepancia entre el 16 y el 18 de mayo como fecha del récord de velocidad se resuelve priorizando la fuente oficial de la FAI y el detallado artículo de "This Day in Aviation", que confirma el 16 de mayo de 1958. Las cifras de producción total del F-104 varían entre 2.578 y 2.580; ambas son correctas.
 - **Nivel de confianza:** Alto

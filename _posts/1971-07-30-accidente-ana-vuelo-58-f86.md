@@ -15,7 +15,7 @@ image: 1971-07-30-accidente-ana-vuelo-58-f86.webp
   <figcaption class="post-caption">Composición documental de las dos aeronaves involucradas en el accidente: arriba, el Boeing 727-281 matrícula JA8329 de All Nippon Airways; abajo, el Mitsubishi F-86F matrícula 92-7932 de la Fuerza Aérea de Autodefensa de Japón. Ambas aeronaves aparecen antes de la colisión de Shizukuishi. Fuente: composición proporcionada por el investigador a partir de fotografías históricas.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1971-07-30-accidente-ana-vuelo-58-f86.webp
 <p>El impacto destruyó el Boeing 727 y provocó la muerte de sus 162 ocupantes: 155 pasajeros y 7 tripulantes. El piloto en formación del caza logró abandonar la aeronave y sobrevivió. La investigación señaló fallos de conciencia situacional, separación y coordinación entre el entrenamiento militar y el tráfico civil.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 
@@ -40,7 +40,7 @@ image: 1971-07-30-accidente-ana-vuelo-58-f86.webp
 - **Altitud aproximada de la colisión:** 26.000 pies (7.900 metros).
 - **Balance:** 162 fallecidos en el Boeing y un superviviente del F-86F.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
@@ -58,7 +58,7 @@ El Boeing 727 era un reactor comercial moderno para su época, mientras que el F
 
 El accidente conmocionó a Japón y puso en cuestión la coexistencia de rutas civiles con zonas de entrenamiento militar. La memoria del suceso quedó vinculada a Shizukuishi, a los memoriales de las víctimas y a las posteriores reformas de la seguridad aérea japonesa.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Desarrollo Cronológico
 
@@ -71,7 +71,7 @@ El accidente conmocionó a Japón y puso en cuestión la coexistencia de rutas c
 - **Investigación posterior:** El informe atribuye la causa principal a la salida del espacio de entrenamiento y la entrada de la formación en la aerovía civil, junto con fallos tardíos de detección y evitación.
 - **Años posteriores:** El accidente impulsa cambios en la separación de espacios aéreos militares y civiles y en los procedimientos de investigación de accidentes en Japón.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
@@ -79,7 +79,7 @@ La pérdida del Boeing 727 convirtió el accidente en el desastre aéreo más gr
 
 El proceso judicial concluyó con la absolución del piloto en formación y la condena del instructor por homicidio negligente, con una pena suspendida y la pérdida de su puesto. En el ámbito político e institucional, dimitieron el Director General de la Agencia de Defensa, Keikichi Masuhara, y el General Yasuhiro Ueda, jefe del Estado Mayor del Aire.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
@@ -87,7 +87,7 @@ La tragedia de Shizukuishi impulsó una separación más rigurosa entre las ruta
 
 Para All Nippon Airways, el accidente se convirtió en una referencia central de su cultura de seguridad. Los memoriales de Shizukuishi y el Centro de Seguridad de ANA mantienen viva la memoria de las 162 víctimas y recuerdan las consecuencias de una coordinación insuficiente en un espacio aéreo compartido.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 
@@ -97,20 +97,19 @@ Para All Nippon Airways, el accidente se convirtió en una referencia central de
 4. <a href="https://japannews.yomiuri.co.jp/politics/defense-security/20250131-236360/" style="color: #315fea; text-decoration: none;">The Japan News — 1971 Japan Plane Crash Prompted New Safety Rules</a>.
 5. <a href="https://commons.wikimedia.org/wiki/File:JA8329_Boeing_727-281_All_Nippon_Airways,_Tokyo_International,_May_1971.jpg" style="color: #315fea; text-decoration: none;">Nobuo Oyama — Boeing 727 JA8329, Wikimedia Commons</a>.
 6. <a href="https://commons.wikimedia.org/wiki/File:Mitsubishi_F-86_Sabre_92-7932_seen_at_Matsushima_Airbase,_25_July_1971.jpg" style="color: #315fea; text-decoration: none;">Y. Toda — Mitsubishi F-86F 92-7932, Wikimedia Commons</a>.
-7. Borrador preliminar del investigador: «Accidente ANA Vuelo 58 / F-86».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La imagen principal es una composición documental de las dos aeronaves involucradas: el Boeing 727 JA8329 de All Nippon Airways y el Mitsubishi F-86F 92-7932 de la JASDF. Ambas fotografías corresponden a momentos anteriores al accidente y no representan el instante exacto de la colisión.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #e74c3c, #c0392b);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-25 09:41:11 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Informe final de la investigación del accidente; Aviation Safety Network; Journal of the Japan Society for Aeronautical and Space Sciences.  
-- **Fuentes secundarias de contraste:** The Japan News, fuentes de archivo fotográfico, composición proporcionada por el editor y borrador preliminar del investigador.  
+- **Fuentes secundarias de contraste:** The Japan News, fuentes de archivo fotográfico, composición proporcionada por el editor.  
 - **Discrepancias resueltas:** Se diferenciaron los 162 fallecidos del vuelo comercial del superviviente del F-86F; se expresaron la altitud y la hora con sus equivalencias; se actualizó la composición documental con las dos aeronaves involucradas y se mantuvo la aclaración de que no representa el instante de la colisión.  
 - **Nivel de confianza:** Alto para los datos principales; Medio para algunos detalles de la secuencia y las consecuencias judiciales.  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

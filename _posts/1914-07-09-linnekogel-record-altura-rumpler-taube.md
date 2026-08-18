@@ -12,7 +12,7 @@ image: 1914-07-09-linnekogel-record-altura-rumpler-taube.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1914-07-09-linnekogel-record-altura-rumpler-taube.webp" alt="Rumpler Militär-Eindecker 1914 empleado por Guido Linnekogel en sus vuelos de gran altitud">
-  <figcaption class="post-caption">Rumpler Militär-Eindecker de 1914, identificado en la fuente como un Rumpler 4C Taube usado en los vuelos de gran altitud de Guido Linnekogel. La leyenda visible en la imagen remite a su marca previa de 5.500 m con pasajero. Fuente: <a href="https://www.flickr.com/photos/varese2002/41270537194/in/photostream/">Flickr</a>.</figcaption>
+  <figcaption class="post-caption">Rumpler Militär-Eindecker de 1914, identificado en la fuente como un Rumpler 4C Taube usado en los vuelos de gran altitud de Guido Linnekogel. La leyenda visible en la imagen remite a su marca previa de 5.500 m con pasajero. Fuente: <a href="https://www.flickr.com/photos/varese2002/41270537194/in/photostream/" style="color: #315fea; text-decoration: none;">Flickr</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -85,19 +85,19 @@ El Rumpler Taube suele recordarse hoy por su papel como avión de observación y
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://de.wikipedia.org/wiki/Guido_Linnekogel">Wikipedia (DE) – Guido Linnekogel</a></li>
-    <li><a href="https://de.wikipedia.org/wiki/Rumpler_Taube">Wikipedia (DE) – Rumpler Taube</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Etrich_Taube">Wikipedia (EN) – Etrich Taube</a></li>
-    <li><a href="https://centenarioprimeraguerramundial.wordpress.com/2014/10/01/etrich-taube/">Cronología de la Primera Guerra Mundial – Etrich Taube</a></li>
-    <li><a href="https://www.air-journal.fr/2015-07-09-le-9-juillet-1914-dans-le-ciel-lallemand-linnekogel-vole-a-6-600-metres-daltitude-un-record-5146067.html">Air Journal (FR) – 9 juillet 1914, Linnekogel vole à 6 600 mètres</a></li>
-    <li><a href="https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=https%3A%2F%2Fcontent.staatsbibliothek-berlin.de%2Fzefys%2FSNP3074040X-19140710-0-0-0-0.xml&tx_dlf%5Bpage%5D=5&cHash=c63075307c7ee082f7e813050f5d7747">DFG-Viewer – Berliner Abendpost, 10 de julio de 1914</a></li>
+    <li><a href="https://de.wikipedia.org/wiki/Guido_Linnekogel" style="color: #315fea; text-decoration: none;">Wikipedia (DE) – Guido Linnekogel</a></li>
+    <li><a href="https://de.wikipedia.org/wiki/Rumpler_Taube" style="color: #315fea; text-decoration: none;">Wikipedia (DE) – Rumpler Taube</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Etrich_Taube" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Etrich Taube</a></li>
+    <li><a href="https://centenarioprimeraguerramundial.wordpress.com/2014/10/01/etrich-taube/" style="color: #315fea; text-decoration: none;">Cronología de la Primera Guerra Mundial – Etrich Taube</a></li>
+    <li><a href="https://www.air-journal.fr/2015-07-09-le-9-juillet-1914-dans-le-ciel-lallemand-linnekogel-vole-a-6-600-metres-daltitude-un-record-5146067.html" style="color: #315fea; text-decoration: none;">Air Journal (FR) – 9 juillet 1914, Linnekogel vole à 6 600 mètres</a></li>
+    <li><a href="https://dfg-viewer.de/show?tx_dlf%5Bdouble%5D=0&tx_dlf%5Bid%5D=https%3A%2F%2Fcontent.staatsbibliothek-berlin.de%2Fzefys%2FSNP3074040X-19140710-0-0-0-0.xml&tx_dlf%5Bpage%5D=5&cHash=c63075307c7ee082f7e813050f5d7747" style="color: #315fea; text-decoration: none;">DFG-Viewer – Berliner Abendpost, 10 de julio de 1914</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La documentación disponible sobre este hito es escasa y dispersa. Las fuentes alemanas consultadas identifican al protagonista como <strong>Guido Linnekogel</strong> y fijan la marca en <strong>6.570 m</strong>, mientras que una fuente francesa moderna lo cita como <strong>Otto Linnekogel</strong> y redondea la altitud a <strong>6.600 m</strong>. Se adopta aquí la forma Guido Linnekogel y la cifra de 6.570 m por apoyarse en referencias alemanas más específicas y en la mención contemporánea de la <em>Berliner Abendpost</em> del 10 de julio de 1914. Se incluyen excepcionalmente referencias en alemán y francés porque no se localizaron fuentes equivalentes en español o inglés con el mismo nivel de detalle sobre este récord concreto.</p>
@@ -106,7 +106,7 @@ El Rumpler Taube suele recordarse hoy por su papel como avión de observación y
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-05 07:07:42 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/hemerográficas consultadas:** Berliner Abendpost (10 de julio de 1914), vía DFG-Viewer  
 - **Fuentes secundarias de contraste:** Wikipedia (DE/EN), Air Journal, Cronología de la Primera Guerra Mundial  
 - **Discrepancias resueltas:** identidad del piloto (Guido frente a Otto), cifra exacta de altitud (6.570 m frente a 6.600 m) y denominación del aparato (Rumpler Taube / Rumpler 4C Taube)  

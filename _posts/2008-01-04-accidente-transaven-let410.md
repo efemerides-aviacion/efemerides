@@ -106,18 +106,18 @@ El accidente del YV2081 sigue siendo una de las tragedias aéreas más recordada
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/2008_Los_Roques_Archipelago_Transaven_Let_L-410_crash">Wikipedia (EN) – 2008 Los Roques Archipelago Transaven Let L-410 crash</a></li>
-    <li><a href="https://it.wikipedia.org/wiki/Incidente_del_Let_L_410_di_Transaven_del_2008">Wikipedia (IT) – Incidente del Let L 410 di Transaven del 2008</a></li>
-    <li><a href="https://asn.flightsafety.org/asndb/321805">Aviation Safety Network – Let L-410UVP-E3 YV2081</a></li>
-    <li><a href="http://news.bbc.co.uk/hi/spanish/latin_america/newsid_7172000/7172659.stm">BBC Mundo – Reporte inicial del accidente (5 enero 2008)</a></li>
-    <li><a href="https://runrun.es/noticias/75821/la-ruta-maldita-por-tony-bianchi/">Runrun.es – La Ruta Maldita (10 julio 2013)</a></li>
-    <li><a href="https://www.larioja.com/rc/20130620/mundo/hallado-avion-caido-venezuela-201306200336.html">La Rioja – Localizan los restos de un avión que cayó al mar en 2008 (20 junio 2013)</a></li>
-    <li><a href="https://www.telemetro.com/internacionales/2013/06/20/venezuela-avioneta-caida-turistas-italianos/1860084.html">Telemetro – Venezuela halla avioneta caída al mar en 2008 con turistas italianos (20 junio 2013)</a></li>
-    <li><a href="https://www.elnacional.com/2017/11/avion-con-victimas-lleva-mas-anos-sumergido-cerca-los-roques_212997/">El Nacional – Avión con víctimas lleva años sumergido (25 noviembre 2017)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/2008_Los_Roques_Archipelago_Transaven_Let_L-410_crash" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – 2008 Los Roques Archipelago Transaven Let L-410 crash</a></li>
+    <li><a href="https://it.wikipedia.org/wiki/Incidente_del_Let_L_410_di_Transaven_del_2008" style="color: #315fea; text-decoration: none;">Wikipedia (IT) – Incidente del Let L 410 di Transaven del 2008</a></li>
+    <li><a href="https://asn.flightsafety.org/asndb/321805" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Let L-410UVP-E3 YV2081</a></li>
+    <li><a href="http://news.bbc.co.uk/hi/spanish/latin_america/newsid_7172000/7172659.stm" style="color: #315fea; text-decoration: none;">BBC Mundo – Reporte inicial del accidente (5 enero 2008)</a></li>
+    <li><a href="https://runrun.es/noticias/75821/la-ruta-maldita-por-tony-bianchi/" style="color: #315fea; text-decoration: none;">Runrun.es – La Ruta Maldita (10 julio 2013)</a></li>
+    <li><a href="https://www.larioja.com/rc/20130620/mundo/hallado-avion-caido-venezuela-201306200336.html" style="color: #315fea; text-decoration: none;">La Rioja – Localizan los restos de un avión que cayó al mar en 2008 (20 junio 2013)</a></li>
+    <li><a href="https://www.telemetro.com/internacionales/2013/06/20/venezuela-avioneta-caida-turistas-italianos/1860084.html" style="color: #315fea; text-decoration: none;">Telemetro – Venezuela halla avioneta caída al mar en 2008 con turistas italianos (20 junio 2013)</a></li>
+    <li><a href="https://www.elnacional.com/2017/11/avion-con-victimas-lleva-mas-anos-sumergido-cerca-los-roques_212997/" style="color: #315fea; text-decoration: none;">El Nacional – Avión con víctimas lleva años sumergido (25 noviembre 2017)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una discrepancia sobre la fecha exacta del accidente: algunas fuentes locales mencionan el 3 de enero, pero los registros internacionales (Wikipedia, ASN, BBC) confirman el 4 de enero de 2008. La cifra de 18 pasajeros mencionada inicialmente por algunas fuentes fue corregida a 14 ocupantes (12 pasajeros + 2 tripulantes). El informe final de la JIAAC no contiene una declaración de "Causa Probable", lo que significa que la causa exacta de la falla de ambos motores no fue determinada oficialmente.</p>
@@ -126,7 +126,7 @@ El accidente del YV2081 sigue siendo una de las tragedias aéreas más recordada
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828;">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-03 15:45 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/IT), Aviation Safety Network, BBC Mundo, Runrun.es, La Rioja (EFE), Telemetro, El Nacional
 - **Discrepancias resueltas:** Fecha confirmada como 4 de enero; número de ocupantes 14 (no 18); profundidad del hallazgo 974 m; causa oficial sin determinar
 - **Nivel de confianza:** Alto

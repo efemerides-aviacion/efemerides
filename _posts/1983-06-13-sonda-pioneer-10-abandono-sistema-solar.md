@@ -116,17 +116,17 @@ La Pioneer 10 fue, en palabras de la NASA, «la primera nave en navegar por el m
 
 <div class="references">
   <ul>
-    <li><a href="https://elpais.com/diario/1983/06/14/sociedad/424389607_850215.html">El País – La 'Pioneer-10' salió ayer del sistema solar rumbo al vacío (14 de junio de 1983)</a></li>
-    <li><a href="https://www.lavanguardia.com/vida/20100613/53946464921/la-nasa-celebra-el-aniversario-del-lanzamiento-de-la-pioneer-10.html">La Vanguardia – La NASA celebra el 38º aniversario del lanzamiento de la Pioneer 10</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Pioneer_10">Wikipedia – Pioneer 10</a></li>
-    <li><a href="https://www.ultimahora.com/pioneer-10-el-mensajero-la-humanidad-perdido-el-espacio-n124771">Última Hora – "Pioneer 10", el mensajero de la humanidad perdido en el espacio</a></li>
-    <li><a href="https://haciaelespacio.aem.gob.mx/revistadigital/articul.php?interior=941">Agencia Espacial Mexicana – 47 años del lanzamiento del Pioneer 10</a></li>
-    <li><a href="https://www.muyinteresante.com/ciencia/17103.html">Muy Interesante – Se cumplen 50 años del lanzamiento de la sonda Pioneer 10</a></li>
-    <li><a href="https://www.nytimes.com/1983/06/14/science/pioneer-10-has-leapt-uncharted-realm.html">The New York Times – Pioneer 10 Has Leapt an Uncharted Realm (14 de junio de 1983)</a></li>
+    <li><a href="https://elpais.com/diario/1983/06/14/sociedad/424389607_850215.html" style="color: #315fea; text-decoration: none;">El País – La 'Pioneer-10' salió ayer del sistema solar rumbo al vacío (14 de junio de 1983)</a></li>
+    <li><a href="https://www.lavanguardia.com/vida/20100613/53946464921/la-nasa-celebra-el-aniversario-del-lanzamiento-de-la-pioneer-10.html" style="color: #315fea; text-decoration: none;">La Vanguardia – La NASA celebra el 38º aniversario del lanzamiento de la Pioneer 10</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Pioneer_10" style="color: #315fea; text-decoration: none;">Wikipedia – Pioneer 10</a></li>
+    <li><a href="https://www.ultimahora.com/pioneer-10-el-mensajero-la-humanidad-perdido-el-espacio-n124771" style="color: #315fea; text-decoration: none;">Última Hora – "Pioneer 10", el mensajero de la humanidad perdido en el espacio</a></li>
+    <li><a href="https://haciaelespacio.aem.gob.mx/revistadigital/articul.php?interior=941" style="color: #315fea; text-decoration: none;">Agencia Espacial Mexicana – 47 años del lanzamiento del Pioneer 10</a></li>
+    <li><a href="https://www.muyinteresante.com/ciencia/17103.html" style="color: #315fea; text-decoration: none;">Muy Interesante – Se cumplen 50 años del lanzamiento de la sonda Pioneer 10</a></li>
+    <li><a href="https://www.nytimes.com/1983/06/14/science/pioneer-10-has-leapt-uncharted-realm.html" style="color: #315fea; text-decoration: none;">The New York Times – Pioneer 10 Has Leapt an Uncharted Realm (14 de junio de 1983)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> En 1983, Plutón era considerado el noveno planeta del Sistema Solar. Sin embargo, debido a la excentricidad de su órbita, Plutón estuvo más cerca del Sol que Neptuno entre 1979 y 1999. Por esta razón, en junio de 1983, Neptuno era el planeta más distante del Sistema Solar, y la Pioneer 10 fue descrita por la NASA como «el primer objeto humano en abandonar el Sistema Solar». Las distancias y velocidades han sido ajustadas según las fuentes verificadas: la distancia al Sol en el momento del cruce era de 4.522 millones de kilómetros (no 4.800 millones), y la velocidad actual de la sonda es de aproximadamente 44.000 km/h (no 55.000 km/h). La velocidad de lanzamiento fue de 51.682 km/h, no 132.000 km/h (esta última cifra corresponde a la velocidad de reentrada de naves tripuladas, no a la Pioneer 10).</p>
@@ -136,7 +136,7 @@ La Pioneer 10 fue, en palabras de la NASA, «la primera nave en navegar por el m
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-09 13:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** El País (14/06/1983), La Vanguardia, Wikipedia, Última Hora, Agencia Espacial Mexicana, Muy Interesante, The New York Times (14/06/1983)
 - **Discrepancias resueltas:** Corregida distancia al Sol (4.522 millones de km vs 4.800 millones). Corregida velocidad actual (44.000 km/h vs 55.000 km/h). Corregida velocidad de lanzamiento (51.682 km/h vs 132.000 km/h). Corregida masa (258 kg vs 258,8 kg). Añadida hora exacta del cruce (5:00 a.m. PDT). Aclarada la situación de Plutón como planeta no más distante en 1983 debido a su órbita excéntrica.
 - **Nivel de confianza:** Alto

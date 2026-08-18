@@ -22,7 +22,7 @@ image: 1932-01-24-codos-robida-record-paris–hanoi–paris.jpg
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados del Evento
+## Datos verificados del evento
 - **Fecha:** 24 de enero de 1932  
 - **Lugar:** París–Hanoi–París  
 - **Protagonistas:** Paul Codos y Henri Robida  
@@ -60,20 +60,20 @@ La hazaña se recuerda como uno de los grandes récords de la aviación francesa
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/24-january-1932/">This Day in Aviation – 24 January 1932</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Portal:Aviation/Anniversaries/January_24">Wikipedia (EN) – Aviation Anniversaries</a></li>
-    <li><a href="http://sicp-online.org/icp/issues/1930-34%20Flights.pdf">SICP – Flight Covers 1930–34</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/breguet-bre-330/">This Day in Aviation – Bréguet Bre.330</a></li>
-    <li><a href="https://www.wondersofworldaviation.com/mobile/french-partnerships.html">Wonders of World Aviation – Famous French Partnerships</a></li>
-    <li><a href="https://centennialofflight.net/user/fact_jan.htm">Centennial of Flight – Aviation History Facts</a></li>
-    <li><a href="https://x.com/ron_eisele/status/1877772907436261876">X (Ron Eisele) – 11 January 1932</a></li>
-    <li><a href="http://fdra-aereo.blogspot.com/2020/10/avion-de-reconocimiento-y-bombardeo.html">FDRA Aéreo – Bréguet 27/33/330</a></li>
+    <li><a href="https://www.thisdayinaviation.com/24-january-1932/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 24 January 1932</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Portal:Aviation/Anniversaries/January_24" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Aviation Anniversaries</a></li>
+    <li><a href="http://sicp-online.org/icp/issues/1930-34%20Flights.pdf" style="color: #315fea; text-decoration: none;">SICP – Flight Covers 1930–34</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/breguet-bre-330/" style="color: #315fea; text-decoration: none;">This Day in Aviation – Bréguet Bre.330</a></li>
+    <li><a href="https://www.wondersofworldaviation.com/mobile/french-partnerships.html" style="color: #315fea; text-decoration: none;">Wonders of World Aviation – Famous French Partnerships</a></li>
+    <li><a href="https://centennialofflight.net/user/fact_jan.htm" style="color: #315fea; text-decoration: none;">Centennial of Flight – Aviation History Facts</a></li>
+    <li><a href="https://x.com/ron_eisele/status/1877772907436261876" style="color: #315fea; text-decoration: none;">X (Ron Eisele) – 11 January 1932</a></li>
+    <li><a href="http://fdra-aereo.blogspot.com/2020/10/avion-de-reconocimiento-y-bombardeo.html" style="color: #315fea; text-decoration: none;">FDRA Aéreo – Bréguet 27/33/330</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-22 10:05:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation; Wikipedia; SICP; Wonders of World Aviation; Centennial of Flight; FDRA Aéreo  
 - **Discrepancias resueltas:** Confirmación de horarios de salida y llegada, matrícula del avión (F‑AKEZ) y fecha exacta de récord (24/01/1932).  
 - **Nivel de confianza:** Alto  

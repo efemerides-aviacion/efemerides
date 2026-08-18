@@ -162,17 +162,17 @@ El 24 de junio de 1960, en un campo de aviación en Cheshire, un avión con una 
 
 <div class="references">
   <ul>
-    <li><a href="https://es-academic.com/dic.nsf/eswiki/1302682">Academic (ES) – Hawker Siddeley HS 748</a></li>
-    <li><a href="https://www.wikiwand.com/es/Hawker_Siddeley_HS_748">Wikiwand (ES) – Hawker Siddeley HS 748</a></li>
-    <li><a href="https://en.m.wikipedia.org/wiki/Avro_748">Wikipedia (EN) – Avro 748</a></li>
-    <li><a href="https://www.rafmuseum.org.uk/research/research-enquiries/history-of-aviation-timeline/british-civil-aviation/1960-2/">RAF Museum – British Civil Aviation in 1960</a></li>
-    <li><a href="https://www.airwaysmag.com/new-post/hawker-siddeley-hs-748-first-flight">Airways Magazine – HS 748 First Flight</a></li>
-    <li><a href="https://australianaviation.com.au/1993/08/aircraft-of-the-adf-alo-hs-748/">Australian Aviation – Aircraft of the ADF: HS 748</a></li>
-    <li><a href="https://avia-es.com/blog/bae-748-bae-748">AVIA PRO – BAe 748</a></li>
+    <li><a href="https://es-academic.com/dic.nsf/eswiki/1302682" style="color: #315fea; text-decoration: none;">Academic (ES) – Hawker Siddeley HS 748</a></li>
+    <li><a href="https://www.wikiwand.com/es/Hawker_Siddeley_HS_748" style="color: #315fea; text-decoration: none;">Wikiwand (ES) – Hawker Siddeley HS 748</a></li>
+    <li><a href="https://en.m.wikipedia.org/wiki/Avro_748" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Avro 748</a></li>
+    <li><a href="https://www.rafmuseum.org.uk/research/research-enquiries/history-of-aviation-timeline/british-civil-aviation/1960-2/" style="color: #315fea; text-decoration: none;">RAF Museum – British Civil Aviation in 1960</a></li>
+    <li><a href="https://www.airwaysmag.com/new-post/hawker-siddeley-hs-748-first-flight" style="color: #315fea; text-decoration: none;">Airways Magazine – HS 748 First Flight</a></li>
+    <li><a href="https://australianaviation.com.au/1993/08/aircraft-of-the-adf-alo-hs-748/" style="color: #315fea; text-decoration: none;">Australian Aviation – Aircraft of the ADF: HS 748</a></li>
+    <li><a href="https://avia-es.com/blog/bae-748-bae-748" style="color: #315fea; text-decoration: none;">AVIA PRO – BAe 748</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El avión fue diseñado y voló inicialmente como <strong>Avro 748</strong>. En 1963, Avro se fusionó en el grupo Hawker Siddeley, pasando a denominarse <strong>Hawker Siddeley HS 748</strong>. Posteriormente, en 1977, Hawker Siddeley se fusionó en British Aerospace, y el avión pasó a llamarse <strong>BAe 748</strong>. La producción total de 380 unidades incluye todas las variantes civiles y militares, así como las unidades construidas bajo licencia en la India por Hindustan Aeronautics (HAL).</p>
@@ -182,7 +182,7 @@ El 24 de junio de 1960, en un campo de aviación en Cheshire, un avión con una 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-20 14:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Academic (ES), Wikiwand (ES), Wikipedia (EN), RAF Museum, Airways Magazine, Australian Aviation, AVIA PRO
 - **Discrepancias resueltas:** Algunas fuentes citan la producción total de la Serie 1 como 17, mientras que otras indican 18. La cifra más comúnmente aceptada para la producción total incluyendo todos los modelos y licencias es 380.
 - **Nivel de confianza:** Alto

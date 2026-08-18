@@ -129,19 +129,19 @@ El accidente del 27 de mayo de 1952 dejó una huella imborrable en la historia d
 
 <div class="references">
   <ul>
-    <li><a href="https://aviation-safety.net/wikibase/205689">Aviation Safety Network – Mid-air collision Accident De Havilland DH.100 Vampire FB52, 27 May 1952</a></li>
-    <li><a href="https://www.calameo.com/books/00640765909dc9facb91e">Visconti Osorio, Francisco Efraín – El Primer Medio Siglo de Vida del Histórico, Ejemplar y Referencial Grupo Aéreo de Caza Nº 11 (Calaméo, 2023) p. 62</a></li>
-    <li><a href="https://www.facebook.com/groups/295948893906282/posts/1999530600214761/">Cnel. (Av) José Ochoa Vargas – Archivo Historias y Personajes FAV: Equipos Acrobáticos FAV "Panteras del 35"</a></li>
-    <li><a href="https://www.facebook.com/groups/288134155343482/posts/791883374968555/">Freddy Pedrique – Aviación de Caza, período 1920-1950</a></li>
-    <li><a href="https://favclubven.wordpress.com/2024/12/12/el-primer-salto-en-paracaidas-desde-un-avion-a-reaccion-en-venezuela/">Cnel. (Av) José Ochoa Vargas – FAV Club: El primer salto en paracaídas desde un avión a reacción en Venezuela</a></li>
-    <li><a href="https://www.facebook.com/fuerzaaereavenezolana.fav/posts/pfbid0fcMwqQNckk7UKkR5AhDnsfkaXg9VRvRTdjVfK4x2SsnhwCLRMfWhmtMtLJYuNaZHl">G/D Agustín Berzares Morales – Fuerza Aérea Venezolana: Anécdotas en la FAV</a></li>
-    <li><a href="https://angelmagallanes.wordpress.com/2022/05/04/1964-peter-tautvilas-neniskis-shulz/">Angel Magallanes – Peter Tautvilas Neniskis Schulz</a></li>
-    <li><a href="https://www.facebook.com/share/17g8Au9Tqf/">Cnel. (Av) José Ochoa Vargas – Fav Ven: General de División (AV) Agustín Antonio Berzares Morales</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/205689" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Mid-air collision Accident De Havilland DH.100 Vampire FB52, 27 May 1952</a></li>
+    <li><a href="https://www.calameo.com/books/00640765909dc9facb91e" style="color: #315fea; text-decoration: none;">Visconti Osorio, Francisco Efraín – El Primer Medio Siglo de Vida del Histórico, Ejemplar y Referencial Grupo Aéreo de Caza Nº 11 (Calaméo, 2023) p. 62</a></li>
+    <li><a href="https://www.facebook.com/groups/295948893906282/posts/1999530600214761/" style="color: #315fea; text-decoration: none;">Cnel. (Av) José Ochoa Vargas – Archivo Historias y Personajes FAV: Equipos Acrobáticos FAV "Panteras del 35"</a></li>
+    <li><a href="https://www.facebook.com/groups/288134155343482/posts/791883374968555/" style="color: #315fea; text-decoration: none;">Freddy Pedrique – Aviación de Caza, período 1920-1950</a></li>
+    <li><a href="https://favclubven.wordpress.com/2024/12/12/el-primer-salto-en-paracaidas-desde-un-avion-a-reaccion-en-venezuela/" style="color: #315fea; text-decoration: none;">Cnel. (Av) José Ochoa Vargas – FAV Club: El primer salto en paracaídas desde un avión a reacción en Venezuela</a></li>
+    <li><a href="https://www.facebook.com/fuerzaaereavenezolana.fav/posts/pfbid0fcMwqQNckk7UKkR5AhDnsfkaXg9VRvRTdjVfK4x2SsnhwCLRMfWhmtMtLJYuNaZHl" style="color: #315fea; text-decoration: none;">G/D Agustín Berzares Morales – Fuerza Aérea Venezolana: Anécdotas en la FAV</a></li>
+    <li><a href="https://angelmagallanes.wordpress.com/2022/05/04/1964-peter-tautvilas-neniskis-shulz/" style="color: #315fea; text-decoration: none;">Angel Magallanes – Peter Tautvilas Neniskis Schulz</a></li>
+    <li><a href="https://www.facebook.com/share/17g8Au9Tqf/" style="color: #315fea; text-decoration: none;">Cnel. (Av) José Ochoa Vargas – Fav Ven: General de División (AV) Agustín Antonio Berzares Morales</a></li>
     <li><strong>The Ottawa Journal</strong> – "Two Venezuelan Planes Collide; 1 Killed" (29 de mayo de 1952, p. 32). Fuente impresa consultada a través de Aviation Safety Network.</li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -157,7 +157,7 @@ El accidente del 27 de mayo de 1952 dejó una huella imborrable en la historia d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-25 15:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Aviation Safety Network (ASN), Visconti Osorio (Calaméo, 2023), Archivo Historias y Personajes FAV, Freddy Pedrique, FAV Club, Fuerza Aérea Venezolana FAV (Facebook), Angel Magallanes
 - **Discrepancias resueltas:** Confirmación de la fecha y lugar del accidente mediante ASN. Verificación de la víctima en tierra. Confirmación de la supervivencia de Rafael Jelambi Terán mediante paracaídas desde 7.000 pies. Identificación de discrepancia sobre el tercer piloto (Berzares vs. Suárez Mier y Terán), documentada en nota aclaratoria.
 - **Nivel de confianza:** Alto (múltiples fuentes coinciden en los datos fundamentales; la discrepancia del tercer piloto está claramente documentada)

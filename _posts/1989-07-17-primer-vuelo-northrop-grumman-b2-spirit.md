@@ -102,17 +102,17 @@ También quedó como icono industrial y cultural. Su silueta negra y su diseño 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/tag/82-1066/">This Day in Aviation – 82-1066</a></li>
-    <li><a href="https://www.thisdayinaviation.com/17-july-1989/">This Day in Aviation – 17 July 1989</a></li>
-    <li><a href="https://www.airandspaceforces.com/this-day-in-airpower/july-17-1989/">Air & Space Forces Magazine – July 17, 1989</a></li>
-    <li><a href="https://www.edwards.af.mil/News/Article/1575695/this-week-in-edwards-history/">Edwards Air Force Base – This week in Edwards history</a></li>
-    <li><a href="https://www.af.mil/News/Article-Display/Article/486286/like-watching-your-kid-grow-up-b-2-spirit-25th-anniversary/">U.S. Air Force – ‘Like watching your kid grow up’: B-2 Spirit 25th anniversary</a></li>
-    <li><a href="https://investor.northropgrumman.com/news-releases/news-release-details/media-invited-celebrate-25th-anniversary-b-2-bomber-first-flight">Northrop Grumman – 25th Anniversary of B-2 Bomber First Flight</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195832/northrop-b-2-spirit/">National Museum of the USAF – Northrop B-2 Spirit</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/82-1066/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 82-1066</a></li>
+    <li><a href="https://www.thisdayinaviation.com/17-july-1989/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 17 July 1989</a></li>
+    <li><a href="https://www.airandspaceforces.com/this-day-in-airpower/july-17-1989/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine – July 17, 1989</a></li>
+    <li><a href="https://www.edwards.af.mil/News/Article/1575695/this-week-in-edwards-history/" style="color: #315fea; text-decoration: none;">Edwards Air Force Base – This week in Edwards history</a></li>
+    <li><a href="https://www.af.mil/News/Article-Display/Article/486286/like-watching-your-kid-grow-up-b-2-spirit-25th-anniversary/" style="color: #315fea; text-decoration: none;">U.S. Air Force – ‘Like watching your kid grow up’: B-2 Spirit 25th anniversary</a></li>
+    <li><a href="https://investor.northropgrumman.com/news-releases/news-release-details/media-invited-celebrate-25th-anniversary-b-2-bomber-first-flight" style="color: #315fea; text-decoration: none;">Northrop Grumman – 25th Anniversary of B-2 Bomber First Flight</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195832/northrop-b-2-spirit/" style="color: #315fea; text-decoration: none;">National Museum of the USAF – Northrop B-2 Spirit</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Aunque hoy el programa suele asociarse a Northrop Grumman, en el momento del vuelo inaugural el fabricante era todavía <strong>Northrop Corporation</strong>. En este post se ha optado por la denominación histórica más precisa para el hito original.</p>
@@ -121,9 +121,9 @@ También quedó como icono industrial y cultural. Su silueta negra y su diseño 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-13 14:35:00 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** U.S. Air Force, Edwards Air Force Base, National Museum of the USAF, Northrop Grumman  
-- **Fuentes secundarias de contraste:** This Day in Aviation, Air & Space Forces Magazine, borrador preliminar del investigador  
+- **Fuentes secundarias de contraste:** This Day in Aviation, Air & Space Forces Magazine
 - **Discrepancias resueltas:** se adoptó la denominación histórica Northrop Corporation para el momento del vuelo inaugural; también se evitó fijar una duración exacta única del vuelo debido a pequeñas diferencias entre fuentes abiertas  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

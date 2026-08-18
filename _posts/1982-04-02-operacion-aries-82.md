@@ -73,14 +73,14 @@ La Operación Aries 82 es recordada como la primera vez que la Fuerza Aérea Arg
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.argentina.gob.ar/noticias/operacion-aries-82-la-genesis-del-asalto-aereo-las-islas-malvinas">Argentina.gob.ar – Operación Aries 82: la génesis del asalto aéreo a las Islas Malvinas</a></li>
-    <li><a href="https://www.marambio.aq/planaries82.html">Marambio.aq – Plan Aries 82</a></li>
-    <li><a href="https://avialatina.com.ar/2-de-abril-de-1982-las-operaciones-aereas/">Avialatina – 2 de Abril de 1982, las Operaciones Aéreas (Plan Aries 82)</a></li>
-    <li><a href="https://www.argentina.gob.ar/fuerzaaerea/direccion-de-estudios-historicos/abril">Fuerza Aérea Argentina (Dirección de Estudios Históricos) – Abril: primer aterrizaje Heraclitus en Malvinas durante Aries 82</a></li>
-    <li><a href="https://www.infobae.com/def/2026/03/28/el-2-de-abril-y-el-plan-que-cambio-la-historia-argentina-como-se-gesto-y-ejecuto-la-recuperacion-de-las-islas-malvinas/">Infobae – El 2 de abril y el plan que cambió la historia argentina</a></li>
-    <li><a href="https://www.contextotucuman.com/nota/261991/dia-d-como-fue-el-desembarco-argentino-en-las-malvinas.html">Contexto Tucumán – Día D: cómo fue el desembarco argentino en las Malvinas</a></li>
-    <li><a href="https://defonline.com.ar/defensa/guerra-de-malvinas-la-trama-secreta-del-2-de-abril-para-recuperar-las-islas/">Defonline – La trama secreta del 2 de abril para recuperar las Islas Malvinas</a></li>
-    <li><a href="https://www.zona-militar.com/2022/04/02/malvinas-40-anos-la-operacion-aries-82/">Zona Militar – Malvinas 40 Años – La Operación ARIES 82</a></li>
+    <li><a href="https://www.argentina.gob.ar/noticias/operacion-aries-82-la-genesis-del-asalto-aereo-las-islas-malvinas" style="color: #315fea; text-decoration: none;">Argentina.gob.ar – Operación Aries 82: la génesis del asalto aéreo a las Islas Malvinas</a></li>
+    <li><a href="https://www.marambio.aq/planaries82.html" style="color: #315fea; text-decoration: none;">Marambio.aq – Plan Aries 82</a></li>
+    <li><a href="https://avialatina.com.ar/2-de-abril-de-1982-las-operaciones-aereas/" style="color: #315fea; text-decoration: none;">Avialatina – 2 de Abril de 1982, las Operaciones Aéreas (Plan Aries 82)</a></li>
+    <li><a href="https://www.argentina.gob.ar/fuerzaaerea/direccion-de-estudios-historicos/abril" style="color: #315fea; text-decoration: none;">Fuerza Aérea Argentina (Dirección de Estudios Históricos) – Abril: primer aterrizaje Heraclitus en Malvinas durante Aries 82</a></li>
+    <li><a href="https://www.infobae.com/def/2026/03/28/el-2-de-abril-y-el-plan-que-cambio-la-historia-argentina-como-se-gesto-y-ejecuto-la-recuperacion-de-las-islas-malvinas/" style="color: #315fea; text-decoration: none;">Infobae – El 2 de abril y el plan que cambió la historia argentina</a></li>
+    <li><a href="https://www.contextotucuman.com/nota/261991/dia-d-como-fue-el-desembarco-argentino-en-las-malvinas.html" style="color: #315fea; text-decoration: none;">Contexto Tucumán – Día D: cómo fue el desembarco argentino en las Malvinas</a></li>
+    <li><a href="https://defonline.com.ar/defensa/guerra-de-malvinas-la-trama-secreta-del-2-de-abril-para-recuperar-las-islas/" style="color: #315fea; text-decoration: none;">Defonline – La trama secreta del 2 de abril para recuperar las Islas Malvinas</a></li>
+    <li><a href="https://www.zona-militar.com/2022/04/02/malvinas-40-anos-la-operacion-aries-82/" style="color: #315fea; text-decoration: none;">Zona Militar – Malvinas 40 Años – La Operación ARIES 82</a></li>
   </ul>
 </div>
 
@@ -92,7 +92,7 @@ La Operación Aries 82 es recordada como la primera vez que la Fuerza Aérea Arg
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-31 18:45 UTC  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Argentina.gob.ar, Marambio.aq, Avialatina, Infobae, Contexto Tucumán, Defonline, Zona Militar  
 - **Discrepancias resueltas:** Confirmación de la hora del primer aterrizaje (08:45) y del número de aeronaves iniciales (2 C‑130, 6 Pucará, 1 F‑28). Se omitieron referencias no verificadas sobre la presencia de aviones de combate en el primer día (los A‑4 llegaron días después).  
 - **Nivel de confianza:** Alto  

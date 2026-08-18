@@ -145,18 +145,18 @@ Hajime Fujii fue ascendido póstumamente al rango de Mayor. Su nombre está insc
 
 <div class="references">
   <ul>
-    <li><a href="https://www.biobiochile.cl/biobiotv/programas/efemerides/2025/05/28/efemerides-el-28-de-mayo-de-1945-el-kamikaze-hajime-fuji-estrella-su-avion.shtml">BioBioChile – Efemérides: Hajime Fujii estrella su avión contra el USS Drexler</a></li>
-    <li><a href="https://pt.wikipedia.org/wiki/Hajime_Fujii">Wikipedia (PT) – Hajime Fujii</a></li>
-    <li><a href="https://de.wikipedia.org/wiki/USS_Drexler">Wikipedia (DE) – USS Drexler (DD-741)</a></li>
-    <li><a href="https://www.warhistoryonline.com/world-war-ii/the-tragic-tale-of-hajime-fujii-a-kamikaze-fighter-xc.html">War History Online – The Tragic Tale of Hajime Fujii</a></li>
-    <li><a href="https://navylog.navymemorial.org/node/4644541/544?order=field_sailor_last_name&sort=desc&page=1">United States Navy Memorial – USS Drexler (DD-741)</a></li>
-    <li><a href="http://www.navsource.net/archives/05/741.htm">NavSource – USS Drexler (DD-741)</a></li>
-    <li><a href="https://www.lost52project.org/Drexler.html">Lost 52 Project – USS Drexler (DD-741)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Okinawa_Battle">Wikipedia – Batalla de Okinawa</a></li>
+    <li><a href="https://www.biobiochile.cl/biobiotv/programas/efemerides/2025/05/28/efemerides-el-28-de-mayo-de-1945-el-kamikaze-hajime-fuji-estrella-su-avion.shtml" style="color: #315fea; text-decoration: none;">BioBioChile – Efemérides: Hajime Fujii estrella su avión contra el USS Drexler</a></li>
+    <li><a href="https://pt.wikipedia.org/wiki/Hajime_Fujii" style="color: #315fea; text-decoration: none;">Wikipedia (PT) – Hajime Fujii</a></li>
+    <li><a href="https://de.wikipedia.org/wiki/USS_Drexler" style="color: #315fea; text-decoration: none;">Wikipedia (DE) – USS Drexler (DD-741)</a></li>
+    <li><a href="https://www.warhistoryonline.com/world-war-ii/the-tragic-tale-of-hajime-fujii-a-kamikaze-fighter-xc.html" style="color: #315fea; text-decoration: none;">War History Online – The Tragic Tale of Hajime Fujii</a></li>
+    <li><a href="https://navylog.navymemorial.org/node/4644541/544?order=field_sailor_last_name&sort=desc&page=1" style="color: #315fea; text-decoration: none;">United States Navy Memorial – USS Drexler (DD-741)</a></li>
+    <li><a href="http://www.navsource.net/archives/05/741.htm" style="color: #315fea; text-decoration: none;">NavSource – USS Drexler (DD-741)</a></li>
+    <li><a href="https://www.lost52project.org/Drexler.html" style="color: #315fea; text-decoration: none;">Lost 52 Project – USS Drexler (DD-741)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Okinawa_Battle" style="color: #315fea; text-decoration: none;">Wikipedia – Batalla de Okinawa</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -171,7 +171,7 @@ Hajime Fujii fue ascendido póstumamente al rango de Mayor. Su nombre está insc
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-25 19:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** BioBioChile, Wikipedia (PT/DE/EN), War History Online, Navy Memorial, NavSource, Lost 52 Project
 - **Discrepancias resueltas:** Confirmación de la fecha y lugar del ataque (28 de mayo de 1945, Okinawa). Verificación del número de víctimas (158 según mayoría de fuentes). Documentación detallada de la tragedia familiar de Fujii. Identificación del avión como Kawasaki Ki-45 "Nick". Aclaración de la inconsistencia en las cifras de bajas (158 fallecidos + 52 heridos = 210, con 126 ilesos).
 - **Nivel de confianza:** Alto (múltiples fuentes, incluyendo investigación especializada del Lost 52 Project, coinciden en los datos fundamentales)

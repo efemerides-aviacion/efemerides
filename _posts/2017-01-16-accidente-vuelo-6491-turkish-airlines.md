@@ -12,7 +12,7 @@ image: 2017-01-16-accidente-vuelo-6491-turkish-airlines.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2017-01-16-accidente-vuelo-6491-turkish-airlines.webp" alt="Boeing 747-412F TC-MCL de ACT Airlines">
-  <figcaption class="post-caption">Boeing 747-412F (TC-MCL) de ACT Airlines en el aeropuerto de Maastricht Aachen. Este avión se estrelló cinco días después de que se tomara la foto, cuando realizaba el vuelo 6491 de Turkish Airlines. Fuente: <a href="https://en.wikipedia.org/wiki/Turkish_Airlines_Flight_6491">Wikipedia (EN) – Turkish Airlines Flight 6491</a>.</figcaption>
+  <figcaption class="post-caption">Boeing 747-412F (TC-MCL) de ACT Airlines en el aeropuerto de Maastricht Aachen. Este avión se estrelló cinco días después de que se tomara la foto, cuando realizaba el vuelo 6491 de Turkish Airlines. Fuente: <a href="https://en.wikipedia.org/wiki/Turkish_Airlines_Flight_6491" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Turkish Airlines Flight 6491</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -136,18 +136,18 @@ El accidente del vuelo TK6491 es el peor desastre aéreo en la historia de Kirgu
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Turkish_Airlines_Flight_6491">Wikipedia (EN) – Turkish Airlines Flight 6491</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_6491_de_MyCargo_Airlines">Wikipedia (ES) – Vuelo 6491 de MyCargo Airlines</a></li>
-    <li><a href="https://aviation-safety.net/database/record.php?id=20170116-0">Aviation Safety Network – Turkish Airlines Flight 6491</a></li>
-    <li><a href="https://www.bbc.com/news/world-asia-38633526">BBC News – Turkish cargo plane crash in Kyrgyzstan kills 32</a></li>
-    <li><a href="https://www.aljazeera.com/news/2017/1/16/turkish-cargo-boeing-747-crashes-in-kyrgyzstan">Al Jazeera – Turkish cargo Boeing 747 crashes in Kyrgyzstan</a></li>
-    <li><a href="https://www.reuters.com/article/us-kyrgyzstan-crash-idUSKBN15109J">Reuters – Kyrgyzstan crash probe focuses on pilot error, weather</a></li>
-    <li><a href="https://simpleflying.com/turkish-cargo-flight-6491-crash/">Simple Flying – Turkish Cargo Flight TK6491 Crash: What Happened?</a></li>
-    <li><a href="https://www.flightglobal.com/accidents/pilots-captured-false-glideslope-before-bishkek-747-crash/125997.article">FlightGlobal – Pilots captured false glideslope before Bishkek 747 crash</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Turkish_Airlines_Flight_6491" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Turkish Airlines Flight 6491</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_6491_de_MyCargo_Airlines" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vuelo 6491 de MyCargo Airlines</a></li>
+    <li><a href="https://aviation-safety.net/database/record.php?id=20170116-0" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Turkish Airlines Flight 6491</a></li>
+    <li><a href="https://www.bbc.com/news/world-asia-38633526" style="color: #315fea; text-decoration: none;">BBC News – Turkish cargo plane crash in Kyrgyzstan kills 32</a></li>
+    <li><a href="https://www.aljazeera.com/news/2017/1/16/turkish-cargo-boeing-747-crashes-in-kyrgyzstan" style="color: #315fea; text-decoration: none;">Al Jazeera – Turkish cargo Boeing 747 crashes in Kyrgyzstan</a></li>
+    <li><a href="https://www.reuters.com/article/us-kyrgyzstan-crash-idUSKBN15109J" style="color: #315fea; text-decoration: none;">Reuters – Kyrgyzstan crash probe focuses on pilot error, weather</a></li>
+    <li><a href="https://simpleflying.com/turkish-cargo-flight-6491-crash/" style="color: #315fea; text-decoration: none;">Simple Flying – Turkish Cargo Flight TK6491 Crash: What Happened?</a></li>
+    <li><a href="https://www.flightglobal.com/accidents/pilots-captured-false-glideslope-before-bishkek-747-crash/125997.article" style="color: #315fea; text-decoration: none;">FlightGlobal – Pilots captured false glideslope before Bishkek 747 crash</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -163,7 +163,7 @@ El accidente del vuelo TK6491 es el peor desastre aéreo en la historia de Kirgu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-05 18:15:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), Aviation Safety Network, BBC News, Al Jazeera, Reuters, Simple Flying, FlightGlobal
 - **Discrepancias resueltas:**
   - Víctimas: 39 confirmadas por el informe final de la CIAA (4 a bordo + 35 en tierra).

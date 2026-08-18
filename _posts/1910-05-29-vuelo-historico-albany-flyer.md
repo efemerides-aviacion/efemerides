@@ -120,17 +120,17 @@ El presidente William H. Taft siguió el vuelo con gran interés y envió un men
 
 <div class="references">
   <ul>
-    <li><a href="https://gahistoricnewspapers.galileo.usg.edu/lccn/sn88054073/1910-06-02/ed-1/seq-1/ocr/">Banks County Journal – Curtiss Flies from Albany to New York (2 de junio de 1910)</a> </li>
-    <li><a href="https://www.bbc.com/travel/article/20220718-albany-is-changing-the-way-we-fly">BBC Travel – The city changing the way we fly</a> </li>
-    <li><a href="https://planesoffame.org/aircraft/plane-Model-D">Planes of Fame Air Museum – Curtiss Model D 'Pusher'</a> </li>
-    <li><a href="https://time.com/4343179/aviation-monopoly/">Time Magazine – How One Man Came to Own the Skies</a> </li>
-    <li><a href="https://en.wikipedia.org/wiki/Curtiss_Albany_Flyer">Wikipedia – Curtiss Albany Flyer</a> </li>
-    <li><a href="https://www.dailypress.com/1994/09/18/from-ship-to-sky-nn-in-sight-of-1st-flight/">Daily Press – From Ship to Sky</a> </li>
-    <li><a href="http://www.epoxyworks.com/the-glenn-curtiss-museum/">Epoxyworks – The Glenn Curtiss Museum</a> </li>
+    <li><a href="https://gahistoricnewspapers.galileo.usg.edu/lccn/sn88054073/1910-06-02/ed-1/seq-1/ocr/" style="color: #315fea; text-decoration: none;">Banks County Journal – Curtiss Flies from Albany to New York (2 de junio de 1910)</a> </li>
+    <li><a href="https://www.bbc.com/travel/article/20220718-albany-is-changing-the-way-we-fly" style="color: #315fea; text-decoration: none;">BBC Travel – The city changing the way we fly</a> </li>
+    <li><a href="https://planesoffame.org/aircraft/plane-Model-D" style="color: #315fea; text-decoration: none;">Planes of Fame Air Museum – Curtiss Model D 'Pusher'</a> </li>
+    <li><a href="https://time.com/4343179/aviation-monopoly/" style="color: #315fea; text-decoration: none;">Time Magazine – How One Man Came to Own the Skies</a> </li>
+    <li><a href="https://en.wikipedia.org/wiki/Curtiss_Albany_Flyer" style="color: #315fea; text-decoration: none;">Wikipedia – Curtiss Albany Flyer</a> </li>
+    <li><a href="https://www.dailypress.com/1994/09/18/from-ship-to-sky-nn-in-sight-of-1st-flight/" style="color: #315fea; text-decoration: none;">Daily Press – From Ship to Sky</a> </li>
+    <li><a href="http://www.epoxyworks.com/the-glenn-curtiss-museum/" style="color: #315fea; text-decoration: none;">Epoxyworks – The Glenn Curtiss Museum</a> </li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -138,14 +138,14 @@ El presidente William H. Taft siguió el vuelo con gran interés y envió un men
   <p><strong>2. Tiempo total del vuelo:</strong> El periódico de 1910 reporta un tiempo total de vuelo de <strong>2 horas y 32 minutos</strong> , excluyendo la parada de una hora en Poughkeepsie. Otras fuentes citan "aproximadamente 2 horas y 51 minutos" , que podría incluir la parada.</p>
   <p><strong>3. El contexto legal:</strong> La guerra de patentes entre Curtiss y los hermanos Wright fue un factor determinante para que Curtiss realizara este vuelo y reclamara el premio, que necesitaba para financiar su defensa legal.</p>
   <p><strong>4. El avión original:</strong> El "Albany Flyer" original no se conserva. Su paradero se desconoce después de 1911, cuando fue dañado durante un intento de vuelo de Key West a La Habana y reparado para vuelos de exhibición en Cuba. Existe una réplica en construcción en el Glenn H. Curtiss Museum.</p>
-  <p><strong>5. Conexión con el primer rescate aéreo en el mar:</strong> El 30 de enero de 1911, el aviador canadiense J.A.D. McCurdy intentó volar de Key West a La Habana a bordo de un biplano Curtiss muy similar al "Albany Flyer", equipado con flotadores. Una avería en el motor lo obligó a amerizar cerca de la costa cubana, siendo rescatado por destructores de la Armada de los Estados Unidos en lo que se considera el primer rescate aéreo exitoso en el mar. Para más detalles, consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1911/01/30/amerizaje-rescate-de-mccurdy-y-aeronave.html" style="color: #1565c0; text-decoration: none;">efeméride del amerizaje y rescate de J.A.D. McCurdy</a>.</p>
+  <p><strong>5. Conexión con el primer rescate aéreo en el mar:</strong> El 30 de enero de 1911, el aviador canadiense J.A.D. McCurdy intentó volar de Key West a La Habana a bordo de un biplano Curtiss muy similar al "Albany Flyer", equipado con flotadores. Una avería en el motor lo obligó a amerizar cerca de la costa cubana, siendo rescatado por destructores de la Armada de los Estados Unidos en lo que se considera el primer rescate aéreo exitoso en el mar. Para más detalles, consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1911/01/30/amerizaje-rescate-de-mccurdy-y-aeronave.html" style="color: #315fea; text-decoration: none;">efeméride del amerizaje y rescate de J.A.D. McCurdy</a>.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-26 10:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Banks County Journal (1910), BBC Travel, Planes of Fame Air Museum, Time Magazine, Wikipedia, Daily Press, Epoxyworks
 - **Discrepancias resueltas:** Confirmación de la fecha (29 de mayo de 1910) en fuentes primarias de la época. Verificación de la distancia (137-150 millas según la fuente). Aclaración del tiempo de vuelo (2 horas y 32 minutos, excluyendo parada).
 - **Nivel de confianza:** Alto (múltiples fuentes, incluyendo periódico contemporáneo de 1910, coinciden en los datos fundamentales)

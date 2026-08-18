@@ -107,18 +107,18 @@ Pierre Gassendi es recordado como una figura puente entre la ciencia antigua y l
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Pierre_Gassendi">Wikipedia (ES) – Pierre Gassendi</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Pierre_Gassendi">Wikipedia (EN) – Pierre Gassendi</a></li>
-    <li><a href="https://www.britannica.com/biography/Pierre-Gassendi">Encyclopaedia Britannica – Pierre Gassendi</a></li>
-    <li><a href="https://plato.stanford.edu/entries/gassendi/">Stanford Encyclopedia of Philosophy – Pierre Gassendi</a></li>
-    <li><a href="https://galileo.library.rice.edu/Catalog/NewFiles/gassendi.html">The Galileo Project – Pierre Gassendi</a></li>
-    <li><a href="https://www.lindahall.org/about/news/scientist-of-the-day/pierre-gassendi/">Linda Hall Library – Pierre Gassendi</a></li>
-    <li><a href="https://www.britannica.com/science/acoustics/Measuring-the-speed-of-sound">Encyclopaedia Britannica – Acoustics: Measuring the Speed of Sound</a></li>
-    <li><a href="https://www.ipm.org/show/amomentofscience/2019-09-16/measuring-the-speed-of-sound">A Moment of Science (Indiana Public Media) – Measuring the Speed of Sound</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Pierre_Gassendi" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Pierre Gassendi</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Pierre_Gassendi" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Pierre Gassendi</a></li>
+    <li><a href="https://www.britannica.com/biography/Pierre-Gassendi" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica – Pierre Gassendi</a></li>
+    <li><a href="https://plato.stanford.edu/entries/gassendi/" style="color: #315fea; text-decoration: none;">Stanford Encyclopedia of Philosophy – Pierre Gassendi</a></li>
+    <li><a href="https://galileo.library.rice.edu/Catalog/NewFiles/gassendi.html" style="color: #315fea; text-decoration: none;">The Galileo Project – Pierre Gassendi</a></li>
+    <li><a href="https://www.lindahall.org/about/news/scientist-of-the-day/pierre-gassendi/" style="color: #315fea; text-decoration: none;">Linda Hall Library – Pierre Gassendi</a></li>
+    <li><a href="https://www.britannica.com/science/acoustics/Measuring-the-speed-of-sound" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica – Acoustics: Measuring the Speed of Sound</a></li>
+    <li><a href="https://www.ipm.org/show/amomentofscience/2019-09-16/measuring-the-speed-of-sound" style="color: #315fea; text-decoration: none;">A Moment of Science (Indiana Public Media) – Measuring the Speed of Sound</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -132,7 +132,7 @@ Pierre Gassendi es recordado como una figura puente entre la ciencia antigua y l
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-29 20:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), Encyclopaedia Britannica, Stanford Encyclopedia of Philosophy, The Galileo Project, Linda Hall Library
 - **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (22 de enero de 1592) en fuentes primarias. Ampliación del contexto histórico y los detalles experimentales sobre la medición de la velocidad del sonido.
 - **Nivel de confianza:** Alto

@@ -14,7 +14,7 @@ redirect_from:
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1894-03-27-nacimiento-rene-paul-fonck-as-primera-guerra-mundial.webp" alt="René Paul Fonck, as francés de la Primera Guerra Mundial">
-  <figcaption class="post-caption">René Paul Fonck, as de ases de la aviación francesa con 75 victorias confirmadas, ca. 1918. Retrato autografiado original. Fuente: <a href="https://lesautographesdusiecle.com/aviation/12824-fonck-rene-1894-1953.html">Les Autographes du Siecle</a>.</figcaption>
+  <figcaption class="post-caption">René Paul Fonck, as de ases de la aviación francesa con 75 victorias confirmadas, ca. 1918. Retrato autografiado original. Fuente: <a href="https://lesautographesdusiecle.com/aviation/12824-fonck-rene-1894-1953.html" style="color: #315fea; text-decoration: none;">Les Autographes du Siecle</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -91,20 +91,20 @@ René Fonck sigue siendo el «as de ases» de la aviación aliada en la Primera 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Ren%C3%A9_Fonck">Wikipedia (ES) – René Fonck</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Fonck">Wikipedia (EN) – René Fonck</a></li>
-    <li><a href="https://prensaohf.com/2021/09/14/rene-fonck-1894-1953-el-as-de-ases-de-los-aiados-en-la-grande-guerre/">Prensa OHF – René Fonck (1894-1953) – El "As de Ases" de los Aliados</a></li>
-    <li><a href="https://www.fuerzasaereas.es/2012/12/rene-fonck-fue-el-piloto-de-caza-de-la.html">Fuerzas Aéreas – René Fonck, el As olvidado</a></li>
-    <li><a href="https://pantheon.world/profile/person/Ren%C3%A9_Fonck">Pantheon – René Fonck Biography</a></li>
-    <li><a href="https://www.firstworldwar.com/bio/fonck.htm">FirstWorldWar.com – Who's Who - Rene Fonck</a></li>
-    <li><a href="https://www.earlyaviators.com/efonck.htm">EarlyAviators – René Paul Fonck</a></li>
-    <li><a href="https://pt.wikipedia.org/wiki/Ren%C3%A9_Paul_Fonck">Wikipedia (PT) – René Paul Fonck</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Ren%C3%A9_Fonck" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – René Fonck</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Fonck" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – René Fonck</a></li>
+    <li><a href="https://prensaohf.com/2021/09/14/rene-fonck-1894-1953-el-as-de-ases-de-los-aiados-en-la-grande-guerre/" style="color: #315fea; text-decoration: none;">Prensa OHF – René Fonck (1894-1953) – El "As de Ases" de los Aliados</a></li>
+    <li><a href="https://www.fuerzasaereas.es/2012/12/rene-fonck-fue-el-piloto-de-caza-de-la.html" style="color: #315fea; text-decoration: none;">Fuerzas Aéreas – René Fonck, el As olvidado</a></li>
+    <li><a href="https://pantheon.world/profile/person/Ren%C3%A9_Fonck" style="color: #315fea; text-decoration: none;">Pantheon – René Fonck Biography</a></li>
+    <li><a href="https://www.firstworldwar.com/bio/fonck.htm" style="color: #315fea; text-decoration: none;">FirstWorldWar.com – Who's Who - Rene Fonck</a></li>
+    <li><a href="https://www.earlyaviators.com/efonck.htm" style="color: #315fea; text-decoration: none;">EarlyAviators – René Paul Fonck</a></li>
+    <li><a href="https://pt.wikipedia.org/wiki/Ren%C3%A9_Paul_Fonck" style="color: #315fea; text-decoration: none;">Wikipedia (PT) – René Paul Fonck</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-25 10:30:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN/PT), Prensa OHF, Fuerzas Aéreas, FirstWorldWar.com, EarlyAviators, Pantheon  
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre las 75 victorias confirmadas oficialmente y las 142 reclamadas por Fonck, explicando el riguroso sistema francés de homologación.  
 - **Nivel de confianza:** Alto  

@@ -21,7 +21,7 @@ image: 1976-01-21-concorde-primeros-vuelos-comerciales.webp
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados del Evento
+## Datos verificados del evento
 - **Fecha:** 21 de enero de 1976  
 - **Lugar:** París‑Orly (Francia) y Londres‑Heathrow (Reino Unido)  
 - **Protagonistas:** Air France y British Airways  
@@ -58,21 +58,21 @@ Recordado como símbolo de innovación y prestigio, el Concorde sigue siendo un 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Concorde">Wikipedia (ES) – Concorde</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Concorde">Wikipedia (EN) – Concorde</a></li>
-    <li><a href="https://www.heritageconcorde.com/concorde-first-scheduled-services">Heritage Concorde – Concorde First Scheduled Services</a></li>
-    <li><a href="https://www.airwaysmag.com/new-post/concorde-enters-synchronized-service">Airways – 1/21/1976: Concorde Enters Synchronized Service</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Concorde_operational_history">Wikipedia (EN) – Concorde operational history</a></li>
-    <li><a href="https://www.businessinsider.com/concorde-first-supersonic-passenger-flight-2016-2">Business Insider – Concorde First Passenger Flight 40 Years</a></li>
-    <li><a href="https://www.elcomercio.com/actualidad/1976-concorde-realiza-primer-vuelo/">El Comercio – 1976: el Concorde realiza su primer vuelo comercial</a></li>
-    <li><a href="https://www.transponder1200.com/se-cumplieron-45-anos-del-primer-vuelo-del-concorde/">Transponder1200 – Se cumplieron 45 años del primer vuelo del Concorde</a></li>
-    <li><a href="https://www.youtube.com/watch?v=s44bskI4Fpc">CONCORDE - 50.º aniversario de los primeros vuelos comerciales - Episodio 16 de Irish Skies Pod</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Concorde" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Concorde</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Concorde" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Concorde</a></li>
+    <li><a href="https://www.heritageconcorde.com/concorde-first-scheduled-services" style="color: #315fea; text-decoration: none;">Heritage Concorde – Concorde First Scheduled Services</a></li>
+    <li><a href="https://www.airwaysmag.com/new-post/concorde-enters-synchronized-service" style="color: #315fea; text-decoration: none;">Airways – 1/21/1976: Concorde Enters Synchronized Service</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Concorde_operational_history" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Concorde operational history</a></li>
+    <li><a href="https://www.businessinsider.com/concorde-first-supersonic-passenger-flight-2016-2" style="color: #315fea; text-decoration: none;">Business Insider – Concorde First Passenger Flight 40 Years</a></li>
+    <li><a href="https://www.elcomercio.com/actualidad/1976-concorde-realiza-primer-vuelo/" style="color: #315fea; text-decoration: none;">El Comercio – 1976: el Concorde realiza su primer vuelo comercial</a></li>
+    <li><a href="https://www.transponder1200.com/se-cumplieron-45-anos-del-primer-vuelo-del-concorde/" style="color: #315fea; text-decoration: none;">Transponder1200 – Se cumplieron 45 años del primer vuelo del Concorde</a></li>
+    <li><a href="https://www.youtube.com/watch?v=s44bskI4Fpc" style="color: #315fea; text-decoration: none;">CONCORDE - 50.º aniversario de los primeros vuelos comerciales - Episodio 16 de Irish Skies Pod</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-15 19:05:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia; Heritage Concorde; Airways; Business Insider; El Comercio; Transponder1200  
 - **Discrepancias resueltas:** Confirmación de rutas inaugurales (Río vía Dakar y Bahréin) y matrículas de los aviones (F‑BVFA y G‑BOAA).  
 - **Nivel de confianza:** Alto  

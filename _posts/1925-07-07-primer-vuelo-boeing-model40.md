@@ -12,7 +12,7 @@ image: 1925-07-07-primer-vuelo-boeing-model40.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1925-07-07-primer-vuelo-boeing-model40.webp" alt="Prototipo Boeing Model 40, avión postal biplano que realizó su primer vuelo en 1925">
-  <figcaption class="post-caption">El prototipo Boeing Model 40, avión postal biplano desarrollado por Boeing para responder a un requerimiento del servicio de correos de Estados Unidos, en una fotografía de época de 1925. Fuente: Boeing Archives, vía <a href="https://www.boeing.com/features/2025/03/cleared-for-takeoff">Boeing</a>.</figcaption>
+  <figcaption class="post-caption">El prototipo Boeing Model 40, avión postal biplano desarrollado por Boeing para responder a un requerimiento del servicio de correos de Estados Unidos, en una fotografía de época de 1925. Fuente: Boeing Archives, vía <a href="https://www.boeing.com/features/2025/03/cleared-for-takeoff" style="color: #315fea; text-decoration: none;">Boeing</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -89,19 +89,19 @@ A partir de este programa, Boeing dejó de ser solo un constructor de aeronaves 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_Model_40">Wikipedia (EN) – Boeing Model 40</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Boeing_Model_40">Wikipedia (ES) – Boeing Model 40</a></li>
-    <li><a href="https://www.flugzeuginfo.net/acdata_php/acdata_boeing_40_dt.php">Flugzeuginfo – Boeing Model 40</a></li>
-    <li><a href="https://www.boeing.com/features/2025/03/cleared-for-takeoff">Boeing – Cleared for takeoff</a></li>
-    <li><a href="https://www.hosteltur.com/170731_asi-despego-boeing-100-anos-del-primer-vuelo-comercial.html">Hosteltur – Así fue el primer vuelo comercial de Boeing hace 100 años</a></li>
-    <li><a href="https://fly-news.es/aviacion-comercial/historia-aviacion/se-cumplen-100-anos-del-boeing-40a/">Fly News – Se cumplen cien años del primer avión Boeing comercial</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_Model_40" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Boeing Model 40</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Boeing_Model_40" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Boeing Model 40</a></li>
+    <li><a href="https://www.flugzeuginfo.net/acdata_php/acdata_boeing_40_dt.php" style="color: #315fea; text-decoration: none;">Flugzeuginfo – Boeing Model 40</a></li>
+    <li><a href="https://www.boeing.com/features/2025/03/cleared-for-takeoff" style="color: #315fea; text-decoration: none;">Boeing – Cleared for takeoff</a></li>
+    <li><a href="https://www.hosteltur.com/170731_asi-despego-boeing-100-anos-del-primer-vuelo-comercial.html" style="color: #315fea; text-decoration: none;">Hosteltur – Así fue el primer vuelo comercial de Boeing hace 100 años</a></li>
+    <li><a href="https://fly-news.es/aviacion-comercial/historia-aviacion/se-cumplen-100-anos-del-boeing-40a/" style="color: #315fea; text-decoration: none;">Fly News – Se cumplen cien años del primer avión Boeing comercial</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Algunas fuentes secundarias presentan una discrepancia entre el 7 y el 20 de julio de 1925 como fecha del primer vuelo. Tras contrastar la reseña corporativa de Boeing con la Wikipedia en español, la Wikipedia en inglés en su desarrollo textual y la ficha técnica de Flugzeuginfo, se adopta el 7 de julio de 1925 como fecha del primer vuelo del prototipo Model 40. La fecha del 20 de mayo de 1927 corresponde al primer vuelo del Model 40A, variante rediseñada para el correo y el transporte de pasajeros.</p>
@@ -110,7 +110,7 @@ A partir de este programa, Boeing dejó de ser solo un constructor de aeronaves 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-03 13:44:07 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Boeing  
 - **Fuentes secundarias de contraste:** Wikipedia (EN/ES), Flugzeuginfo, Hosteltur, Fly News  
 - **Discrepancias resueltas:** diferencia entre 7 de julio de 1925 para el prototipo Model 40 y fechas posteriores asociadas al Model 40A; cifras de producción total redondeadas como “alrededor de 77 a 80 unidades” por variación entre fuentes  

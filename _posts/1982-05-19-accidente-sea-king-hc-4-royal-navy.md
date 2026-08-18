@@ -84,7 +84,7 @@ La causa exacta del accidente nunca pudo ser determinada con certeza debido a la
 
 El accidente del Sea King ZA294 permanece como el día más trágico en la historia del Special Air Service (Servicio Aéreo Especial). Un jardín conmemorativo en la iglesia de St. Martin en Hereford (base del SAS) recuerda a los caídos.  Aunque el hecho fue poco difundido en su momento por razones de seguridad operacional, con el paso de los años los supervivientes han compartido sus testimonios, contribuyendo a la memoria histórica del conflicto. El aniversario del accidente se conmemora cada año por la Fleet Air Arm (Arma Aérea de la Flota) y la Asociación de Tripulantes Aéreos.  En 2022, el superviviente Mark Aston publicó el libro *SAS: Sea King*, relatando por primera vez su experiencia. 
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes presentan ligeras discrepancias en las cifras: Aviation Safety Network reporta 31 ocupantes y 22 fallecidos . Otras fuentes mencionan 30 ocupantes y 21 o 22 fallecidos . La RAF (Royal Air Force, Real Fuerza Aérea Británica) menciona 21 fallecidos totales, de los cuales 19 eran del SAS . Esta efeméride adopta la cifra de 22 fallecidos, que es la más consistente con las bases de datos aeronáuticas especializadas . El número de fallecidos del SAS varía entre 18 y 20 según las fuentes. La causa del accidente (bird strike - impacto con ave) es la hipótesis más probable, pero nunca fue confirmada oficialmente por la falta de restos recuperables .</p>
@@ -95,21 +95,21 @@ El accidente del Sea King ZA294 permanece como el día más trágico en la histo
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://aviation-safety.net/wikibase/71053">Aviation Safety Network – Westland Sea King HC4 ZA294</a></li>
-    <li><a href="https://planecrashinfo.com/1982/1982-24.htm">Plane Crash Info – 1982 Accident Details</a></li>
-    <li><a href="https://www.raf.mod.uk/news/articles/raf-remembers-flight-lieutenant-garth-hawkins/">Royal Air Force – RAF remembers Flight Lieutenant Garth Hawkins</a></li>
-    <li><a href="https://www.zona-militar.com/foros/threads/im%C3%A1genes-del-conflicto-de-malvinas-fotos.258/reply?quote=1089109">Zona Militar – Foro: Imágenes del conflicto de Malvinas (testimonio detallado)</a></li>
-    <li><a href="https://www.roll-of-honour.selvi.co.uk/Herefordshire/Shucknall.html">Roll of Honour – Herefordshire</a></li>
-    <li><a href="https://www.findagrave.com/memorial/79731854/robert_allan-burns">Find a Grave – Corporal Robert Allan “Rab” Burns</a></li>
-    <li><a href="https://www.iwm.org.uk/collections/item/object/80017291">Imperial War Museums – Interview with Ralph John Stuart Wykes-Sneyd</a></li>
-    <li><a href="https://www.dailymail.co.uk/news/article-9604569/Terrifying-Falklands-War-helicopter-crash-saw-20-SAS-heroes-drown-nine-alive.html">Daily Mail – Terrifying Falklands War helicopter crash (2021)</a></li>
-    <li><a href="https://www.airhistory.net/photo/104573/ZA294">AirHistory.net – Photograph of ZA294</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/71053" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Westland Sea King HC4 ZA294</a></li>
+    <li><a href="https://planecrashinfo.com/1982/1982-24.htm" style="color: #315fea; text-decoration: none;">Plane Crash Info – 1982 Accident Details</a></li>
+    <li><a href="https://www.raf.mod.uk/news/articles/raf-remembers-flight-lieutenant-garth-hawkins/" style="color: #315fea; text-decoration: none;">Royal Air Force – RAF remembers Flight Lieutenant Garth Hawkins</a></li>
+    <li><a href="https://www.zona-militar.com/foros/threads/im%C3%A1genes-del-conflicto-de-malvinas-fotos.258/reply?quote=1089109" style="color: #315fea; text-decoration: none;">Zona Militar – Foro: Imágenes del conflicto de Malvinas (testimonio detallado)</a></li>
+    <li><a href="https://www.roll-of-honour.selvi.co.uk/Herefordshire/Shucknall.html" style="color: #315fea; text-decoration: none;">Roll of Honour – Herefordshire</a></li>
+    <li><a href="https://www.findagrave.com/memorial/79731854/robert_allan-burns" style="color: #315fea; text-decoration: none;">Find a Grave – Corporal Robert Allan “Rab” Burns</a></li>
+    <li><a href="https://www.iwm.org.uk/collections/item/object/80017291" style="color: #315fea; text-decoration: none;">Imperial War Museums – Interview with Ralph John Stuart Wykes-Sneyd</a></li>
+    <li><a href="https://www.dailymail.co.uk/news/article-9604569/Terrifying-Falklands-War-helicopter-crash-saw-20-SAS-heroes-drown-nine-alive.html" style="color: #315fea; text-decoration: none;">Daily Mail – Terrifying Falklands War helicopter crash (2021)</a></li>
+    <li><a href="https://www.airhistory.net/photo/104573/ZA294" style="color: #315fea; text-decoration: none;">AirHistory.net – Photograph of ZA294</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-05-17 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Aviation Safety Network, Plane Crash Info, RAF, Zona Militar, Roll of Honour, Find a Grave, IWM, Daily Mail, AirHistory.net
 - **Discrepancias resueltas:** Las fuentes discrepan en el número exacto de ocupantes (30 vs 31) y fallecidos (21 vs 22). Se ha adoptado la cifra de 22 fallecidos y 31 ocupantes por ser la más consistente con la base de datos aeronáutica especializada (Aviation Safety Network) . El número de fallecidos del SAS varía entre 18, 19 y 20 según las fuentes. La causa del accidente (bird strike) es la hipótesis más probable pero no confirmada oficialmente.
 - **Nivel de confianza:** Alto

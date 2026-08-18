@@ -127,18 +127,18 @@ La batalla es recordada como **la mayor batalla de portaaviones de la historia**
 
 <div class="references">
   <ul>
-    <li><a href="https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1944/battle-philippine-sea.html">U.S. Navy – Battle of the Philippine Sea Overview</a></li>
-    <li><a href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-032/h-032-1.html">U.S. Navy – H-Gram 032: Operation Forager and Battle of Philippine Sea</a></li>
-    <li><a href="https://www.nps.gov/amme/learn/historyculture/battle-of-the-philippine-sea.htm">U.S. National Park Service – Battle of the Philippine Sea</a></li>
-    <li><a href="https://pacificwrecks.com/battle/battle-of-the-philippine-sea.html">Pacific Wrecks – Battle of the Philippine Sea</a></li>
-    <li><a href="https://eresources.nlb.gov.sg/webarchives/wayback/20110302220653/http://en.wikipedia.org/wiki/Battle_of_the_Philippine_Sea">Wikipedia (Archived) – Battle of the Philippine Sea</a></li>
-    <li><a href="https://www.history.navy.mil/content/history/nhhc/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1944/battle-philippine-sea/philippine-sea-photos.html">U.S. Navy – Philippine Sea Photo Gallery</a></li>
-    <li><a href="https://webarchiveweb.wayback.bac-lac.canada.ca/web/20240508130820/https://en.wikipedia.org/wiki/Battle_of_the_Philippine_Sea">Wikipedia (Archived) – Battle of the Philippine Sea (Detailed)</a></li>
-    <li><a href="https://www.britannica.com/event/Battle-of-the-Philippine-Sea">Britannica – Battle of the Philippine Sea</a></li>
+    <li><a href="https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1944/battle-philippine-sea.html" style="color: #315fea; text-decoration: none;">U.S. Navy – Battle of the Philippine Sea Overview</a></li>
+    <li><a href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-032/h-032-1.html" style="color: #315fea; text-decoration: none;">U.S. Navy – H-Gram 032: Operation Forager and Battle of Philippine Sea</a></li>
+    <li><a href="https://www.nps.gov/amme/learn/historyculture/battle-of-the-philippine-sea.htm" style="color: #315fea; text-decoration: none;">U.S. National Park Service – Battle of the Philippine Sea</a></li>
+    <li><a href="https://pacificwrecks.com/battle/battle-of-the-philippine-sea.html" style="color: #315fea; text-decoration: none;">Pacific Wrecks – Battle of the Philippine Sea</a></li>
+    <li><a href="https://eresources.nlb.gov.sg/webarchives/wayback/20110302220653/http://en.wikipedia.org/wiki/Battle_of_the_Philippine_Sea" style="color: #315fea; text-decoration: none;">Wikipedia (Archived) – Battle of the Philippine Sea</a></li>
+    <li><a href="https://www.history.navy.mil/content/history/nhhc/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1944/battle-philippine-sea/philippine-sea-photos.html" style="color: #315fea; text-decoration: none;">U.S. Navy – Philippine Sea Photo Gallery</a></li>
+    <li><a href="https://webarchiveweb.wayback.bac-lac.canada.ca/web/20240508130820/https://en.wikipedia.org/wiki/Battle_of_the_Philippine_Sea" style="color: #315fea; text-decoration: none;">Wikipedia (Archived) – Battle of the Philippine Sea (Detailed)</a></li>
+    <li><a href="https://www.britannica.com/event/Battle-of-the-Philippine-Sea" style="color: #315fea; text-decoration: none;">Britannica – Battle of the Philippine Sea</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La batalla se libró entre el 19 y el 20 de junio de 1944. Esta efeméride se centra en el <strong>20 de junio</strong> como fecha de la culminación de la batalla, cuando el ataque de largo alcance de la TF 58 hundió el portaaviones <em>Hiyō</em> y dos petroleros, y los aviones estadounidenses realizaron el famoso "vuelo más allá de la oscuridad". Las cifras de pérdidas varían ligeramente entre fuentes: la Armada de EE. UU. indica 476 aviones japoneses destruidos, mientras que otras fuentes elevan la cifra a más de 600. Las pérdidas estadounidenses son consistentes en torno a 123 aviones y 109 muertos. Los "portaaviones ligeros" mencionados en las fuerzas son portaaviones de menor tamaño y capacidad, diseñados para escolta y apoyo, con capacidad para 30-50 aviones.</p>
@@ -148,7 +148,7 @@ La batalla es recordada como **la mayor batalla de portaaviones de la historia**
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-16 12:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** U.S. Navy (NHHC), U.S. National Park Service, Pacific Wrecks, Wikipedia (Archived), Britannica
 - **Discrepancias resueltas:** Las cifras de aviones japoneses destruidos varían entre 476 y 645 según las fuentes. Se ha optado por presentar el rango (550-645) para reflejar esta discrepancia, indicando que la mayoría de las fuentes coinciden en que la pérdida fue devastadora y superó ampliamente las pérdidas estadounidenses. Se ha aclarado el término "portaaviones ligeros" para evitar confusión.
 - **Nivel de confianza:** Alto

@@ -121,7 +121,7 @@ La Operación Millennium (Milenio) es considerada un punto de inflexión en la g
 - **Consolidación de Harris:** El éxito del raid consolidó la posición de Arthur Harris y le permitió continuar su campaña de bombardeo de área contra ciudades alemanas.
 - **Precedente para futuros raids:** Los "bombardeos de los 1.000 bombarderos" se convirtieron en un símbolo del poder aéreo aliado. Sin embargo, después de junio de 1942, nunca más se enviaron 1.000 bombarderos contra un solo objetivo, ya que con el aumento de los cuatrimotores pesados, se podía lanzar el mismo tonelaje con menos aeronaves.
 - **Memoria histórica:** La catedral de Colonia, que sobrevivió milagrosamente al bombardeo, sigue siendo un símbolo de la resiliencia de la ciudad. Cada año se conmemora a las víctimas del bombardeo.
-- **Operaciones posteriores:** El éxito de Millennium permitió a Harris continuar su campaña de bombardeo de área. Dos años después, la **"Noche de Nuremberg"** (30 de marzo de 1944) se convertiría en la operación con mayores pérdidas para la RAF. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1944/03/30/operacion-noche-de-nuremberg.html" style="color: #1565c0; text-decoration: none;">efeméride de la Operación Noche de Nuremberg</a> para más detalles.
+- **Operaciones posteriores:** El éxito de Millennium permitió a Harris continuar su campaña de bombardeo de área. Dos años después, la **"Noche de Nuremberg"** (30 de marzo de 1944) se convertiría en la operación con mayores pérdidas para la RAF. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1944/03/30/operacion-noche-de-nuremberg.html" style="color: #315fea; text-decoration: none;">efeméride de la Operación Noche de Nuremberg</a> para más detalles.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -129,17 +129,17 @@ La Operación Millennium (Milenio) es considerada un punto de inflexión en la g
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Operaci%C3%B3n_Millennium">Wikipedia (ES) – Operación Millennium</a> </li>
-    <li><a href="https://fr.wikipedia.org/wiki/Op%C3%A9ration_Millennium">Wikipedia (FR) – Opération Millennium</a> </li>
-    <li><a href="https://en.wikipedia.org/wiki/Operation_Millennium">Wikipedia (EN) – Operation Millennium</a> </li>
-    <li><a href="https://it.wikipedia.org/wiki/Operazione_Millennium">Wikipedia (IT) – Operazione Millennium</a> </li>
-    <li><a href="https://en.wikipedia.org/wiki/Thousand-bomber_raids">Wikipedia – Thousand-bomber raids</a> </li>
-    <li><a href="https://www.gehm.es/segunda-guerra-mundial/cruz-victoria-leslie-manser/">GEHM – Cruz Victoria: Leslie Manser</a> </li>
-    <li><a href="https://www.spartacus-educational.com/2WWcologne.htm">Spartacus Educational – Bombing of Cologne</a> </li>
+    <li><a href="https://es.wikipedia.org/wiki/Operaci%C3%B3n_Millennium" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Operación Millennium</a> </li>
+    <li><a href="https://fr.wikipedia.org/wiki/Op%C3%A9ration_Millennium" style="color: #315fea; text-decoration: none;">Wikipedia (FR) – Opération Millennium</a> </li>
+    <li><a href="https://en.wikipedia.org/wiki/Operation_Millennium" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Operation Millennium</a> </li>
+    <li><a href="https://it.wikipedia.org/wiki/Operazione_Millennium" style="color: #315fea; text-decoration: none;">Wikipedia (IT) – Operazione Millennium</a> </li>
+    <li><a href="https://en.wikipedia.org/wiki/Thousand-bomber_raids" style="color: #315fea; text-decoration: none;">Wikipedia – Thousand-bomber raids</a> </li>
+    <li><a href="https://www.gehm.es/segunda-guerra-mundial/cruz-victoria-leslie-manser/" style="color: #315fea; text-decoration: none;">GEHM – Cruz Victoria: Leslie Manser</a> </li>
+    <li><a href="https://www.spartacus-educational.com/2WWcologne.htm" style="color: #315fea; text-decoration: none;">Spartacus Educational – Bombing of Cologne</a> </li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -154,7 +154,7 @@ La Operación Millennium (Milenio) es considerada un punto de inflexión en la g
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-27 21:15:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/FR/EN/IT), GEHM, Spartacus Educational
 - **Discrepancias resueltas:** Confirmación de la fecha (30/31 de mayo de 1942), del número de aeronaves (1.047), de las víctimas (469-486) y de las pérdidas de la RAF (43). Corrección de la inconsistencia en las cifras de aeronaves del Mando Costero.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales coinciden en los datos fundamentales)

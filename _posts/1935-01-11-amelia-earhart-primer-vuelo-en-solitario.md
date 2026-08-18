@@ -115,9 +115,9 @@ El vuelo también es recordado como un paso crucial en la carrera de Earhart hac
 
 Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviación:
 
-- **8 de abril de 1931:** Estableció un  <a href="https://efemerides-aviacion.github.io/efemerides/evento/1931/04/08/amelia-earhart-autogiro-record-altitud.html">récord mundial femenino de altitud en autogiro (18.415 pies / 5.615 m) a bordo de un Pitcairn PCA-2.</a>.
+- **8 de abril de 1931:** Estableció un  <a href="https://efemerides-aviacion.github.io/efemerides/evento/1931/04/08/amelia-earhart-autogiro-record-altitud.html" style="color: #315fea; text-decoration: none;">récord mundial femenino de altitud en autogiro (18.415 pies / 5.615 m) a bordo de un Pitcairn PCA-2.</a>.
 
-- **20 de mayo – 21 de mayo de 1932:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/05/21/amelia-earhart-primera-mujer-cruza-atlantico.html">Primer vuelo en solitario de una mujer a través del Atlántico (Newfoundland → Irlanda)</a>, por el que recibió la Distinguished Flying Cross del Congreso de EE.UU.
+- **20 de mayo – 21 de mayo de 1932:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/05/21/amelia-earhart-primera-mujer-cruza-atlantico.html" style="color: #315fea; text-decoration: none;">Primer vuelo en solitario de una mujer a través del Atlántico (Newfoundland → Irlanda)</a>, por el que recibió la Distinguished Flying Cross del Congreso de EE.UU.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -125,13 +125,13 @@ Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviaci
 
 <div class="references">
   <ul>
-    <li><a href="https://airandspace.si.edu/collection-objects/lockheed-vega-5b-amelia-earhart/nasm_A19670093000">Smithsonian National Air and Space Museum – Lockheed Vega 5B de Amelia Earhart</a></li>
-    <li><a href="https://aviation.hawaii.gov/aviation-pioneers/amelia-earhart/">Hawaii Aviation History (Archivo Oficial del Estado) – Amelia Earhart</a></li>
-    <li><a href="https://www.ameliaearhart.com/biography">Amelia Earhart Official Biography</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Amelia_Earhart">Wikipedia (EN) – Amelia Earhart</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Amelia_Earhart">Wikipedia (ES) – Amelia Earhart</a></li>
-    <li><a href="https://www.nationalgeographic.com/history/article/amelia-earhart-first-woman-fly-across-pacific-anniversary">National Geographic – Amelia Earhart's Historic Flight Across the Pacific</a></li>
-    <li><a href="https://www.history.com/this-day-in-history/earhart-begins-flight-from-hawaii-to-california">History.com – Earhart begins flight from Hawaii to California</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/lockheed-vega-5b-amelia-earhart/nasm_A19670093000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Lockheed Vega 5B de Amelia Earhart</a></li>
+    <li><a href="https://aviation.hawaii.gov/aviation-pioneers/amelia-earhart/" style="color: #315fea; text-decoration: none;">Hawaii Aviation History (Archivo Oficial del Estado) – Amelia Earhart</a></li>
+    <li><a href="https://www.ameliaearhart.com/biography" style="color: #315fea; text-decoration: none;">Amelia Earhart Official Biography</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Amelia_Earhart" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Amelia Earhart</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Amelia_Earhart" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Amelia Earhart</a></li>
+    <li><a href="https://www.nationalgeographic.com/history/article/amelia-earhart-first-woman-fly-across-pacific-anniversary" style="color: #315fea; text-decoration: none;">National Geographic – Amelia Earhart's Historic Flight Across the Pacific</a></li>
+    <li><a href="https://www.history.com/this-day-in-history/earhart-begins-flight-from-hawaii-to-california" style="color: #315fea; text-decoration: none;">History.com – Earhart begins flight from Hawaii to California</a></li>
   </ul>
 </div>
 
@@ -149,7 +149,7 @@ Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviaci
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-06 10:15:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Smithsonian National Air and Space Museum, Hawaii Aviation History (Archivo Oficial del Estado), Amelia Earhart Official Biography, Wikipedia (EN/ES), National Geographic, History.com
 - **Discrepancias resueltas:**
   - Distancia del vuelo: 2.408 millas según el registro oficial de la NAA; algunas fuentes citan 2.400 millas redondeadas.

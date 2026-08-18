@@ -12,7 +12,7 @@ image: 1793-01-09-primer-vuelo-globo-estados-unidos.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1793-01-09-primer-vuelo-globo-estados-unidos.webp" alt="Primer vuelo en globo en Estados Unidos, 1793">
-  <figcaption class="post-caption">Jean-Pierre Blanchard prepara su globo aerostático de hidrógeno (seda amarilla) en el patio interior de la Prisión de Walnut Street, Filadelfia (EE.UU.), 9 de enero de 1793. Primer vuelo no amarrado en Norteamérica, ante George Washington y futuros presidentes; llevó la primera carta aérea de EE.UU. (FAA). Fuente: <a href="https://www.faa.gov/blog/clearedfortakeoff/first-flight-america">First Flight in America</a>.</figcaption>
+  <figcaption class="post-caption">Jean-Pierre Blanchard prepara su globo aerostático de hidrógeno (seda amarilla) en el patio interior de la Prisión de Walnut Street, Filadelfia (EE.UU.), 9 de enero de 1793. Primer vuelo no amarrado en Norteamérica, ante George Washington y futuros presidentes; llevó la primera carta aérea de EE.UU. (FAA). Fuente: <a href="https://www.faa.gov/blog/clearedfortakeoff/first-flight-america" style="color: #315fea; text-decoration: none;">First Flight in America</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -34,7 +34,7 @@ image: 1793-01-09-primer-vuelo-globo-estados-unidos.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Contexto histórico
+## Contexto Histórico
 
 El vuelo de Blanchard en Filadelfia marcó la llegada de la aerostación al continente americano, once años después de los primeros vuelos en Francia. Fue un acontecimiento científico y social que involucró directamente a los padres fundadores de Estados Unidos.
 
@@ -58,22 +58,22 @@ El vuelo de Blanchard en Filadelfia marcó la llegada de la aerostación al cont
 
 ### Legado
 
-- Consolidó a Blanchard como pionero de la aeronáutica, tras su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html">cruce del Canal de la Mancha en 1785</a>.
+- Consolidó a Blanchard como pionero de la aeronáutica, tras su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html" style="color: #315fea; text-decoration: none;">cruce del Canal de la Mancha en 1785</a>.
 - Introdujo la aerostación en América y abrió camino a futuros usos militares y científicos de los globos.
 - El episodio del "primer correo aéreo" anticipó la importancia del transporte aéreo en la comunicación.
 - A pesar de sus dificultades económicas posteriores, Blanchard dejó una huella duradera en la historia de la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.faa.gov/blog/clearedfortakeoff/first-flight-america">FAA – First Flight in America (Jan 9, 1793)</a></li>
-    <li><a href="https://en.m.wikipedia.org/wiki/Jean-Pierre_Blanchard">Wikipedia (EN) – Jean-Pierre Blanchard</a></li>
-    <li><a href="https://postalmuseum.si.edu/exhibition/acerca-de-la-filatelia-cubiertas-y-cartas-aire-y-espacio-correo-del-avi%C3%B3n/per%C3%ADodo-pionero">Smithsonian National Postal Museum – Período Pionero</a></li>
-    <li><a href="https://founders.archives.gov/documents/Jefferson/01-27-02-0226">National Archives – Blanchard to Jefferson, 16 Oct 1793</a></li>
-    <li><a href="https://founders.archives.gov/?q=&s=2211312111&r=83026">National Archives – Jefferson to Blanchard, 15 Dec 1793</a></li>
-    <li><a href="http://www.civilwarsignals.org/pages/aero/pages/firstusflights.html">Signal Corps Association – Early Balloon Flight in the US</a></li>
+    <li><a href="https://www.faa.gov/blog/clearedfortakeoff/first-flight-america" style="color: #315fea; text-decoration: none;">FAA – First Flight in America (Jan 9, 1793)</a></li>
+    <li><a href="https://en.m.wikipedia.org/wiki/Jean-Pierre_Blanchard" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Jean-Pierre Blanchard</a></li>
+    <li><a href="https://postalmuseum.si.edu/exhibition/acerca-de-la-filatelia-cubiertas-y-cartas-aire-y-espacio-correo-del-avi%C3%B3n/per%C3%ADodo-pionero" style="color: #315fea; text-decoration: none;">Smithsonian National Postal Museum – Período Pionero</a></li>
+    <li><a href="https://founders.archives.gov/documents/Jefferson/01-27-02-0226" style="color: #315fea; text-decoration: none;">National Archives – Blanchard to Jefferson, 16 Oct 1793</a></li>
+    <li><a href="https://founders.archives.gov/?q=&s=2211312111&r=83026" style="color: #315fea; text-decoration: none;">National Archives – Jefferson to Blanchard, 15 Dec 1793</a></li>
+    <li><a href="http://www.civilwarsignals.org/pages/aero/pages/firstusflights.html" style="color: #315fea; text-decoration: none;">Signal Corps Association – Early Balloon Flight in the US</a></li>
   </ul>
 </div>
 
@@ -83,8 +83,8 @@ El vuelo de Blanchard en Filadelfia marcó la llegada de la aerostación al cont
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Metadatos de control
-- **Timestamp de verificación:** 2026-03-07 17:30 CST
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** FAA; Wikipedia EN; Smithsonian; National Archives; Signal Corps Association
 - **Discrepancias resueltas:** Altura del vuelo y lugar exacto de aterrizaje
 - **Nivel de confianza:** Alto

@@ -101,17 +101,17 @@ El Avro 694 Lincoln fue el último de los grandes bombarderos pesados con motore
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Avro_Lincoln">Wikipedia – Avro Lincoln</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Avro_Lincoln">Wikipedia Español – Avro Lincoln</a></li>
-    <li><a href="https://australianaviation.com.au/2017/11/page/5/">Australian Aviation – Biggest bird (2017)</a></li>
-    <li><a href="https://warhistory.org/ru/article/lincoln-legacy">WarHistory.org – Lincoln Legacy (2015)</a></li>
-    <li><a href="https://www.rafmuseum.org.uk/research/collections/avro-lincoln-b2/">RAF Museum – Avro Lincoln B2</a></li>
-    <li><a href="https://caspir.warplane.com/aircraft/serial-search/aircraft-no/200000992">Canadian Warplane Heritage Museum – Avro Lincoln</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/harry-albert-brown/">This Day in Aviation – Harry Albert Brown</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Avro_Lincoln" style="color: #315fea; text-decoration: none;">Wikipedia – Avro Lincoln</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Avro_Lincoln" style="color: #315fea; text-decoration: none;">Wikipedia Español – Avro Lincoln</a></li>
+    <li><a href="https://australianaviation.com.au/2017/11/page/5/" style="color: #315fea; text-decoration: none;">Australian Aviation – Biggest bird (2017)</a></li>
+    <li><a href="https://warhistory.org/ru/article/lincoln-legacy" style="color: #315fea; text-decoration: none;">WarHistory.org – Lincoln Legacy (2015)</a></li>
+    <li><a href="https://www.rafmuseum.org.uk/research/collections/avro-lincoln-b2/" style="color: #315fea; text-decoration: none;">RAF Museum – Avro Lincoln B2</a></li>
+    <li><a href="https://caspir.warplane.com/aircraft/serial-search/aircraft-no/200000992" style="color: #315fea; text-decoration: none;">Canadian Warplane Heritage Museum – Avro Lincoln</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/harry-albert-brown/" style="color: #315fea; text-decoration: none;">This Day in Aviation – Harry Albert Brown</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El Lincoln fue inicialmente concebido como una variante del Lancaster (Mk. IV y Mk. V), pero las modificaciones fueron tan profundas (envergadura aumentada en 5,5 m, fuselaje alargado, nueva planta motriz) que el Ministerio del Aire decidió reclasificarlo como un nuevo tipo. El prototipo PW925 voló sin torreta de morro ni equipo operativo completo, centrándose en las pruebas aerodinámicas.</p>
@@ -121,7 +121,7 @@ El Avro 694 Lincoln fue el último de los grandes bombarderos pesados con motore
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-05 10:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), Australian Aviation, WarHistory.org, RAF Museum, Canadian Warplane Heritage Museum, This Day in Aviation
 - **Discrepancias resueltas:** Coincidencia unánime entre fuentes sobre la fecha (9 de junio de 1944). El lugar (Ringway) y el piloto (Sam Brown) están confirmados por fuentes múltiples. Las cifras de producción varían ligeramente (604 vs. 586), adoptándose la cifra más citada (604) que incluye los tres prototipos y la producción australiana.
 - **Nivel de confianza:** Alto

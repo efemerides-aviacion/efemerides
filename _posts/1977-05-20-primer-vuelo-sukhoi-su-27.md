@@ -28,7 +28,7 @@ image: 1977-05-20-primer-vuelo-sukhoi-su-27.webp
 - **Entrada en servicio:** 1985
 - **Producción total:** Más de 660 unidades (versiones iniciales)
 
-## Contexto histórico
+## Contexto Histórico
 
 El desarrollo del Su-27 se enmarca en la intensa competencia tecnológica de la Guerra Fría. A finales de la década de 1960, Estados Unidos inició el desarrollo del F-15 Eagle, un caza de superioridad aérea que superaba a cualquier avión soviético existente. La Unión Soviética respondió con el programa PFI (*Perspektivnyi Frontovoy Istrebitel* — "Caza Frontal de Nueva Generación"), una iniciativa para crear un caza de largo alcance que pudiera igualar o superar a su rival estadounidense.
 
@@ -68,7 +68,7 @@ Para la industria aeronáutica soviética, el Su-27 representaba una cuestión d
 
 - **1989:** Durante el Salón Aeronáutico de París, el piloto Víktor Pugachov ejecuta por primera vez la maniobra "Pugachov's Cobra", demostrando la extraordinaria capacidad de control de ángulo de ataque del Su-27 y asombrando a la audiencia occidental.
 
-## Consecuencias e impacto
+## Consecuencias e Impacto
 
 El Su-27 demostró ser no solo el contrapeso soviético al F-15, sino un diseño tan exitoso que sentó las bases de toda una familia de cazas. Sus puntos fuertes —gran autonomía, extraordinaria maniobrabilidad y capacidad de carga de combustible y armamento— lo convirtieron en una plataforma ideal para múltiples misiones.
 
@@ -88,22 +88,22 @@ El Su-27 y sus derivados han sido operados por más de 15 países, incluyendo Ch
 
 El prototipo original T-10-1 se exhibe actualmente en el Museo de la Fuerza Aérea Rusa en Monino, cerca de Moscú, como testimonio de uno de los programas de desarrollo aeronáutico más complejos y exitosos de la historia.
 
-## Referencias verificadas
+## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Sukhoi_Su-27">Wikipedia en inglés – Sukhoi Su-27</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Vladimir_Ilyushin">Wikipedia en inglés – Vladimir Ilyushin</a></li>
-    <li><a href="https://rostec.ru/en/media/news/su-27-five-facts-about-the-fighter/">Rostec – Su-27: Five Facts About the Fighter (fuente oficial de la corporación estatal rusa)</a></li>
-    <li><a href="https://tass.com/defense/947321">TASS – Russia's legendary Su-27 jet fighter marks the 40th anniversary of its first flight (agencia de noticias oficial rusa)</a></li>
-    <li><a href="https://janes.migavia.com/rus/sukhoi/su-27.html">All the World's Aircraft (Jane's) – Sukhoi Su-27</a></li>
-    <li><a href="https://www.zona-militar.com/foros/threads/club-del-flanker.10205/page-384#post-2215782">Zona Militar – Club del Flanker: discusión sobre el 40º aniversario</a></li>
-    <li><a href="https://warhistory.org/es/@msw/article/sukhoi-su-27-flanker-1977">WarHistory.org – Sukhoi Su-27 Flanker (1977)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Sukhoi_Su-27" style="color: #315fea; text-decoration: none;">Wikipedia en inglés – Sukhoi Su-27</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Vladimir_Ilyushin" style="color: #315fea; text-decoration: none;">Wikipedia en inglés – Vladimir Ilyushin</a></li>
+    <li><a href="https://rostec.ru/en/media/news/su-27-five-facts-about-the-fighter/" style="color: #315fea; text-decoration: none;">Rostec – Su-27: Five Facts About the Fighter (fuente oficial de la corporación estatal rusa)</a></li>
+    <li><a href="https://tass.com/defense/947321" style="color: #315fea; text-decoration: none;">TASS – Russia's legendary Su-27 jet fighter marks the 40th anniversary of its first flight (agencia de noticias oficial rusa)</a></li>
+    <li><a href="https://janes.migavia.com/rus/sukhoi/su-27.html" style="color: #315fea; text-decoration: none;">All the World's Aircraft (Jane's) – Sukhoi Su-27</a></li>
+    <li><a href="https://www.zona-militar.com/foros/threads/club-del-flanker.10205/page-384#post-2215782" style="color: #315fea; text-decoration: none;">Zona Militar – Club del Flanker: discusión sobre el 40º aniversario</a></li>
+    <li><a href="https://warhistory.org/es/@msw/article/sukhoi-su-27-flanker-1977" style="color: #315fea; text-decoration: none;">WarHistory.org – Sukhoi Su-27 Flanker (1977)</a></li>
   </ul>
 </div>
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-05-18 14:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Rostec (oficial), TASS, Wikipedia (EN), Jane's, Zona Militar, WarHistory.org
 - **Discrepancias resueltas:** Todas las fuentes coinciden unánimemente en la fecha del 20 de mayo de 1977 y en el piloto Vladímir Ilyushin. Las fuentes también coinciden en que el primer prototipo fue designado T-10-1 y que el diseño sufrió una revisión radical tras los prototipos iniciales.
 - **Nivel de confianza:** Alto

@@ -58,7 +58,7 @@ La transición al jet representó modernidad y prestigio. El 707 se convirtió e
 - **15 de julio de 1954:** Primer vuelo del prototipo Boeing 367-80 (Dash 80).
 - **1955:** Boeing anuncia el programa 707 y recibe el primer pedido de Pan American World Airways.
 - **20 de diciembre de 1957:** Primer vuelo del Boeing 707-120 de producción (N708PA) desde Renton Field. El avión despegó con éxito pese al invierno en Seattle, tripulado por pilotos de prueba de Boeing, completando un vuelo inicial de 7 minutos hasta Boeing Field.
-- **30 de mayo de 1958:** El Douglas DC-8, principal competidor del 707, realiza su primer vuelo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/30/primer-vuelo-mc-donell-douglas-dc8.html" style="color: #1565c0; text-decoration: none;">efeméride del primer vuelo del Douglas DC-8</a> para más detalles.
+- **30 de mayo de 1958:** El Douglas DC-8, principal competidor del 707, realiza su primer vuelo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/30/primer-vuelo-mc-donell-douglas-dc8.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Douglas DC-8</a> para más detalles.
 - **26 de octubre de 1958:** Pan American World Airways introduce el Boeing 707 en servicio comercial con un vuelo Nueva York-París.
 
 ### Consecuencias e Impacto
@@ -71,7 +71,7 @@ La transición al jet representó modernidad y prestigio. El 707 se convirtió e
 
 El Boeing 707 es considerado el “padre” de los aviones comerciales modernos. Aunque el Comet británico debutó antes, el 707 consolidó la era del jet. Su diseño influyó en modelos posteriores como el 727, 737 y 757. Derivados militares como el KC-135 Stratotanker y el E-3 Sentry siguen en servicio.
 
-El éxito del 707 forzó a Douglas a acelerar el desarrollo de su DC-8, que voló por primera vez el 30 de mayo de 1958. Ambos aviones protagonizaron una de las competencias más intensas en la historia de la aviación comercial. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/30/primer-vuelo-mc-donell-douglas-dc8.html" style="color: #1565c0; text-decoration: none;">efeméride del primer vuelo del Douglas DC-8</a> para más detalles.
+El éxito del 707 forzó a Douglas a acelerar el desarrollo de su DC-8, que voló por primera vez el 30 de mayo de 1958. Ambos aviones protagonizaron una de las competencias más intensas en la historia de la aviación comercial. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/30/primer-vuelo-mc-donell-douglas-dc8.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Douglas DC-8</a> para más detalles.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -79,15 +79,15 @@ El éxito del 707 forzó a Douglas a acelerar el desarrollo de su DC-8, que vol�
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/20-december-1957/">This Day in Aviation – 20 December 1957</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_707">Wikipedia – Boeing 707</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Boeing_707">Wikipedia (ES) – Boeing 707</a></li>
-    <li><a href="https://www.britannica.com/technology/Boeing-707">Encyclopaedia Britannica – Boeing 707</a></li>
-    <li><a href="https://simpleflying.com/why-boeing-707-insane-role-aviation-history/">Simple Flying – The Boeing 707's Insane Role in Aviation History</a></li>
+    <li><a href="https://www.thisdayinaviation.com/20-december-1957/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 20 December 1957</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_707" style="color: #315fea; text-decoration: none;">Wikipedia – Boeing 707</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Boeing_707" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Boeing 707</a></li>
+    <li><a href="https://www.britannica.com/technology/Boeing-707" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica – Boeing 707</a></li>
+    <li><a href="https://simpleflying.com/why-boeing-707-insane-role-aviation-history/" style="color: #315fea; text-decoration: none;">Simple Flying – The Boeing 707's Insane Role in Aviation History</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -101,7 +101,7 @@ El éxito del 707 forzó a Douglas a acelerar el desarrollo de su DC-8, que vol�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-28 00:15:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, Wikipedia (EN/ES), Encyclopaedia Britannica, Simple Flying
 - **Discrepancias resueltas:** Confirmación de la fecha (20 de diciembre de 1957) para el primer vuelo de producción del Boeing 707-120. Algunas fuentes confunden el vuelo del prototipo 367-80 (1954) con el primer vuelo de producción.
 - **Nivel de confianza:** Alto

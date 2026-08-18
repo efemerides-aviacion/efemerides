@@ -127,17 +127,17 @@ El «Salem Representative» es uno de los aviones más recordados del 4th Fighte
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Ralph_K._Hofer">Wikipedia – Ralph K. Hofer</a></li>
-    <li><a href="https://www.americanairmuseum.com/archive/aircraft/43-2484">American Air Museum – P-51 Mustang 43-2484</a></li>
-    <li><a href="https://veterantributes.org/TributeDetail.php?recordID=566">Veteran Tributes – Ralph K. Hofer</a></li>
-    <li><a href="https://grokipedia.com/page/ralph_k_hofer">Grokipedia – Ralph K. Hofer</a></li>
-    <li><a href="https://acesofww2.com/USA/aces/hofer/">Aces of WWII – Ralph Kidd "Kid" Hofer</a></li>
-    <li><a href="https://www.wikiwand.com/en/Ralph_K._Hofer">Wikiwand – Ralph K. Hofer</a></li>
-    <li><a href="https://aircrewremembered.com/hofer-ralph.html">Aircrew Remembered – Ralph K. Hofer</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Ralph_K._Hofer" style="color: #315fea; text-decoration: none;">Wikipedia – Ralph K. Hofer</a></li>
+    <li><a href="https://www.americanairmuseum.com/archive/aircraft/43-2484" style="color: #315fea; text-decoration: none;">American Air Museum – P-51 Mustang 43-2484</a></li>
+    <li><a href="https://veterantributes.org/TributeDetail.php?recordID=566" style="color: #315fea; text-decoration: none;">Veteran Tributes – Ralph K. Hofer</a></li>
+    <li><a href="https://grokipedia.com/page/ralph_k_hofer" style="color: #315fea; text-decoration: none;">Grokipedia – Ralph K. Hofer</a></li>
+    <li><a href="https://acesofww2.com/USA/aces/hofer/" style="color: #315fea; text-decoration: none;">Aces of WWII – Ralph Kidd "Kid" Hofer</a></li>
+    <li><a href="https://www.wikiwand.com/en/Ralph_K._Hofer" style="color: #315fea; text-decoration: none;">Wikiwand – Ralph K. Hofer</a></li>
+    <li><a href="https://aircrewremembered.com/hofer-ralph.html" style="color: #315fea; text-decoration: none;">Aircrew Remembered – Ralph K. Hofer</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Ralph Kidd Hofer nació como Ralph Halbrook, pero adoptó el apellido Hofer posteriormente. Algunas fuentes citan 15 victorias aéreas y 14 destruidas en tierra, mientras que otras indican 15 y 15 respectivamente. La cifra oficial de la 8.ª Fuerza Aérea es 15 victorias aéreas confirmadas y 14-15 en tierra. Fue conocido tanto como «Kid» como «Kidd» Hofer. Falleció el 2 de julio de 1944, y su cuerpo fue enterrado inicialmente en Yugoslavia antes de ser repatriado a Estados Unidos en 1950. Investigaciones posteriores establecieron que fue derribado por fuego antiaéreo mientras ametrallaba Mostar Sud, no en combate aéreo sobre Budapest.</p>
@@ -147,7 +147,7 @@ El «Salem Representative» es uno de los aviones más recordados del 4th Fighte
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-18 10:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, American Air Museum, Veteran Tributes, Grokipedia, Aces of WWII, Wikiwand, Aircrew Remembered
 - **Discrepancias resueltas:** Las cifras de victorias en tierra varían ligeramente entre 14 y 15 según las fuentes; se ha indicado el rango. El nombre de nacimiento (Halbrook) ha sido aclarado. Se ha detallado la causa exacta de su muerte (fuego antiaéreo mientras ametrallaba Mostar Sud) basándose en investigaciones posteriores.
 - **Nivel de confianza:** Alto

@@ -16,7 +16,7 @@ redirect_from:
   <figcaption class="post-caption">Howard Hughes, retrato de estudio (ca. 1936), época de sus récords de velocidad aérea y producción cinematográfica. Encyclopædia Britannica.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -25,7 +25,7 @@ redirect_from:
     </p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos biográficos y eventos
 - **Fecha de nacimiento:** 24 de diciembre de 1905  
@@ -34,7 +34,7 @@ redirect_from:
 - **Servicio profesional:** Fundador de Hughes Aircraft Company; propietario de Trans World Airlines (TWA)  
 - **Fecha de fallecimiento:** 5 de abril de 1976, Houston, Texas  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 Howard Hughes nació en el seno de una familia acomodada; su padre inventó la broca de perforación rotatoria, base de la fortuna Hughes Tool Company. En una época en que la aviación transitaba de la experimentación a la viabilidad comercial y militar, Hughes utilizó su capital para redefinir la ingeniería aeronáutica.
@@ -63,21 +63,21 @@ Hughes fue también magnate del cine y figura mediática, lo que amplificó su i
 ### Legado
 Howard Hughes es recordado como un perfeccionista técnico y visionario. Su legado abarca récords de aviación, avances tecnológicos y un impacto cultural que trasciende la aeronáutica.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://airandspace.si.edu/collection-objects/hughes-h-1-racer/nasmA19750840000">Smithsonian National Air and Space Museum – Hughes H-1 Racer</a></li>
-    <li><a href="https://sandiegoairandspace.org/hall-of-fame/honoree/howard-r.-hughes">San Diego Air & Space Museum – Howard R. Hughes Hall of Fame</a></li>
-    <li><a href="https://www.britannica.com/biography/Howard-Hughes">Encyclopedia Britannica – Howard Hughes</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/hughes-h-1-racer/nasmA19750840000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Hughes H-1 Racer</a></li>
+    <li><a href="https://sandiegoairandspace.org/hall-of-fame/honoree/howard-r.-hughes" style="color: #315fea; text-decoration: none;">San Diego Air & Space Museum – Howard R. Hughes Hall of Fame</a></li>
+    <li><a href="https://www.britannica.com/biography/Howard-Hughes" style="color: #315fea; text-decoration: none;">Encyclopedia Britannica – Howard Hughes</a></li>
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2025-12-23 13:25:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** NASM, San Diego Air & Space Museum, Britannica Academic  
 - **Discrepancias resueltas:** Lugar de nacimiento varía entre Humble y Houston; se indica Humble por registros parroquiales, mencionando Houston como alternativa común. Velocidad del H-1 fijada en 352.39 mph según acta oficial de la FAI.  
 - **Nivel de confianza:** Alto  

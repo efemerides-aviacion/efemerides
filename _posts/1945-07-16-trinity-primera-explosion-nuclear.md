@@ -95,17 +95,17 @@ Por eso, el 16 de julio de 1945 no recuerda únicamente una prueba exitosa. Recu
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/">Air Force Nuclear Weapons Center – Trinity: World's First Nuclear Test</a></li>
-    <li><a href="https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm">National Park Service – Trinity Site</a></li>
-    <li><a href="https://www.osti.gov/opennet/manhattan-project-history/Events/1945/trinity.htm">OSTI / Manhattan Project History – The Trinity Test, July 16, 1945</a></li>
-    <li><a href="https://www.britannica.com/today-in-history/July-16-The-Day-the-End-of-the-World-Began">Britannica – Today in History, July 16: The Day the End of the World Began</a></li>
-    <li><a href="https://ahf.nuclearmuseum.org/veterans-remember-trinity-test/">Nuclear Museum – Veterans Remember the Trinity Test</a></li>
-    <li><a href="https://www.atomicarchive.com/media/videos/trinity.html">Atomic Archive – The Trinity Test</a></li>
-    <li><a href="https://collection.sciencemuseumgroup.org.uk/objects/co5532/fused-earth-sample-from-first-atomic-bomb-explosion">Science Museum Group – Fused earth sample from first atomic bomb explosion</a></li>
+    <li><a href="https://www.afnwc.af.mil/About-Us/History/Trinity-Nuclear-Test/" style="color: #315fea; text-decoration: none;">Air Force Nuclear Weapons Center – Trinity: World's First Nuclear Test</a></li>
+    <li><a href="https://www.nps.gov/whsa/learn/historyculture/trinity-site.htm" style="color: #315fea; text-decoration: none;">National Park Service – Trinity Site</a></li>
+    <li><a href="https://www.osti.gov/opennet/manhattan-project-history/Events/1945/trinity.htm" style="color: #315fea; text-decoration: none;">OSTI / Manhattan Project History – The Trinity Test, July 16, 1945</a></li>
+    <li><a href="https://www.britannica.com/today-in-history/July-16-The-Day-the-End-of-the-World-Began" style="color: #315fea; text-decoration: none;">Britannica – Today in History, July 16: The Day the End of the World Began</a></li>
+    <li><a href="https://ahf.nuclearmuseum.org/veterans-remember-trinity-test/" style="color: #315fea; text-decoration: none;">Nuclear Museum – Veterans Remember the Trinity Test</a></li>
+    <li><a href="https://www.atomicarchive.com/media/videos/trinity.html" style="color: #315fea; text-decoration: none;">Atomic Archive – The Trinity Test</a></li>
+    <li><a href="https://collection.sciencemuseumgroup.org.uk/objects/co5532/fused-earth-sample-from-first-atomic-bomb-explosion" style="color: #315fea; text-decoration: none;">Science Museum Group – Fused earth sample from first atomic bomb explosion</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes consultadas coinciden en la fecha del 16 de julio de 1945, el lugar general de la prueba y la naturaleza plutónica del dispositivo, pero difieren en algunos detalles de precisión técnica resumida. La hora de detonación aparece redondeada con frecuencia como 5:30 a. m., aunque varias reconstrucciones especializadas citan 5:29:45 a. m. Del mismo modo, la potencia liberada se resume según las fuentes entre 18,6 y 21 kilotones. Estas variaciones no alteran el hecho central de la efeméride: Trinity fue la primera explosión nuclear de la historia y confirmó la viabilidad del diseño de implosión del “Gadget”.</p>
@@ -114,9 +114,9 @@ Por eso, el 16 de julio de 1945 no recuerda únicamente una prueba exitosa. Recu
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-12 13:49:49 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Air Force Nuclear Weapons Center, National Park Service, OSTI / Manhattan Project History  
-- **Fuentes secundarias de contraste:** Britannica, Nuclear Museum, Atomic Archive, Science Museum Group, borrador preliminar del investigador  
+- **Fuentes secundarias de contraste:** Britannica, Nuclear Museum, Atomic Archive, Science Museum Group
 - **Discrepancias resueltas:** se mantuvo la fecha y naturaleza del hito como plenamente consistentes; las diferencias de hora exacta y rendimiento energético se resumieron en nota aclaratoria sin afectar la interpretación histórica principal  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

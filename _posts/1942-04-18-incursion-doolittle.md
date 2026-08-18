@@ -132,14 +132,14 @@ El último Doolittle Raider falleció en 2019 a la edad de 103 años. La hazaña
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Doolittle_Raid">Wikipedia (EN) - Doolittle Raid</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Incursi%C3%B3n_Doolittle">Wikipedia (ES) - Incursión Doolittle</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196266/messerschmitt-me-262a-schwalbe/">National Museum of the U.S. Air Force - Doolittle Tokyo Raiders</a></li>
-    <li><a href="https://www.history.navy.mil/content/history/nhhc/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/halsey-doolittle-raid.html">Naval History and Heritage Command - Halsey-Doolittle Raid</a></li>
-    <li><a href="https://www.history.navy.mil:443/news-and-events/news/2023/nhm-041823.html">Navy History Matters - Doolittle Raid (April 18, 1942)</a></li>
-    <li><a href="https://www.afmc.af.mil/News/Article-Display/Article/3364744/the-doolittle-raiders-remembering-the-mission">Air Force Materiel Command - The Doolittle Raiders: Remembering the Mission</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Jimmy_Doolittle">Wikipedia (EN) - Jimmy Doolittle</a></li>
-    <li><a href="https://pt.wikipedia.org/wiki/Ataque_Doolittle">Wikipedia (PT) - Ataque Doolittle</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Doolittle_Raid" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Doolittle Raid</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Incursi%C3%B3n_Doolittle" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Incursión Doolittle</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196266/messerschmitt-me-262a-schwalbe/" style="color: #315fea; text-decoration: none;">National Museum of the U.S. Air Force - Doolittle Tokyo Raiders</a></li>
+    <li><a href="https://www.history.navy.mil/content/history/nhhc/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/halsey-doolittle-raid.html" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command - Halsey-Doolittle Raid</a></li>
+    <li><a href="https://www.history.navy.mil:443/news-and-events/news/2023/nhm-041823.html" style="color: #315fea; text-decoration: none;">Navy History Matters - Doolittle Raid (April 18, 1942)</a></li>
+    <li><a href="https://www.afmc.af.mil/News/Article-Display/Article/3364744/the-doolittle-raiders-remembering-the-mission" style="color: #315fea; text-decoration: none;">Air Force Materiel Command - The Doolittle Raiders: Remembering the Mission</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Jimmy_Doolittle" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Jimmy Doolittle</a></li>
+    <li><a href="https://pt.wikipedia.org/wiki/Ataque_Doolittle" style="color: #315fea; text-decoration: none;">Wikipedia (PT) - Ataque Doolittle</a></li>
   </ul>
 </div>
 
@@ -147,7 +147,7 @@ El último Doolittle Raider falleció en 2019 a la edad de 103 años. La hazaña
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-16 09:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Naval History and Heritage Command (.mil), Air Force Materiel Command (.mil), Wikipedia (EN/ES/PT), National Museum of the USAF
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del 18 de abril de 1942. Existe una ligera variación en la distancia exacta del punto de lanzamiento (650-620 millas). Se ha priorizado la información del Naval History and Heritage Command (650 millas). También se ha aclarado la diferencia entre esta incursión y una misión de reconocimiento previa (15 de abril de 1942).
 - **Nivel de confianza:** Alto

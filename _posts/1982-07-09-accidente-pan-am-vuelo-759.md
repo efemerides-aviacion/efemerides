@@ -12,7 +12,7 @@ image: 1982-07-09-accidente-pan-am-vuelo-759.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1982-07-09-accidente-pan-am-vuelo-759.webp" alt="Boeing 727-235 N4737 Clipper Defiance de Pan Am en el Aeropuerto Internacional de San Diego en mayo de 1982">
-  <figcaption class="post-caption">El Boeing 727-235 matrícula N4737, <em>Clipper Defiance</em>, fotografiado en el Aeropuerto Internacional de San Diego / Lindbergh Field en mayo de 1982, dos meses antes del accidente. Fuente: <a href="https://en.wikipedia.org/wiki/Pan_Am_Flight_759">Wikipedia en inglés</a>, a partir de Wikimedia Commons.</figcaption>
+  <figcaption class="post-caption">El Boeing 727-235 matrícula N4737, <em>Clipper Defiance</em>, fotografiado en el Aeropuerto Internacional de San Diego / Lindbergh Field en mayo de 1982, dos meses antes del accidente. Fuente: <a href="https://en.wikipedia.org/wiki/Pan_Am_Flight_759" style="color: #315fea; text-decoration: none;">Wikipedia en inglés</a>, a partir de Wikimedia Commons.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -88,19 +88,19 @@ A largo plazo, el accidente de Kenner se estudia como uno de los hitos que condu
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_759_de_Pan_Am">Wikipedia (ES) – Vuelo 759 de Pan Am</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Pan_Am_Flight_759">Wikipedia (EN) – Pan Am Flight 759</a></li>
-    <li><a href="https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/69204/pdf">NTSB – DCA82AA028 Final Report</a></li>
-    <li><a href="https://www.lanacion.com.ar/lifestyle/accidentes-aereos-nid2392668/">La Nación – A 38 años de uno de los peores accidentes aéreos en la historia de los Estados Unidos</a></li>
-    <li><a href="https://admiralcloudberg.medium.com/the-crash-of-pan-am-flight-759-analysis-2336ac5b4c1e">Medium – The crash of Pan Am flight 759: Analysis</a></li>
-    <li><a href="https://64parishes.org/entry/pan-am-flight-759-crash">64 Parishes – Pan Am Flight 759 crash</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_759_de_Pan_Am" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vuelo 759 de Pan Am</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Pan_Am_Flight_759" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Pan Am Flight 759</a></li>
+    <li><a href="https://data.ntsb.gov/carol-repgen/api/Aviation/ReportMain/GenerateNewestReport/69204/pdf" style="color: #315fea; text-decoration: none;">NTSB – DCA82AA028 Final Report</a></li>
+    <li><a href="https://www.lanacion.com.ar/lifestyle/accidentes-aereos-nid2392668/" style="color: #315fea; text-decoration: none;">La Nación – A 38 años de uno de los peores accidentes aéreos en la historia de los Estados Unidos</a></li>
+    <li><a href="https://admiralcloudberg.medium.com/the-crash-of-pan-am-flight-759-analysis-2336ac5b4c1e" style="color: #315fea; text-decoration: none;">Medium – The crash of Pan Am flight 759: Analysis</a></li>
+    <li><a href="https://64parishes.org/entry/pan-am-flight-759-crash" style="color: #315fea; text-decoration: none;">64 Parishes – Pan Am Flight 759 crash</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Algunas fuentes divulgativas hablan de cuatro heridos en tierra, mientras que el informe final de la NTSB consigna nueve lesionados graves en tierra además de los ocho fallecidos. En esta efeméride se da prioridad a la cifra del informe oficial de la NTSB. Del mismo modo, aunque varias fuentes resumen la causa como “microrráfaga”, el mecanismo operativo completo fue la cizalladura del viento inducida por dicha microrráfaga durante el despegue.</p>
@@ -109,7 +109,7 @@ A largo plazo, el accidente de Kenner se estudia como uno de los hitos que condu
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-05 10:14:17 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** NTSB Final Report DCA82AA028  
 - **Fuentes secundarias de contraste:** Wikipedia (ES/EN), La Nación, Medium, 64 Parishes  
 - **Discrepancias resueltas:** número de lesionados en tierra (4 frente a 9); formulación técnica de la causa inmediata del accidente  

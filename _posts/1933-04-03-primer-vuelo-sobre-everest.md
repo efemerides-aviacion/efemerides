@@ -86,14 +86,14 @@ En 2023, con motivo del 90 aniversario, se realizaron vuelos conmemorativos y se
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Houston%E2%80%93Mount_Everest_flight_expedition">Wikipedia (EN) – Houston–Mount Everest flight expedition</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_las_ascensiones_al_Everest">Wikipedia (ES) – Anexo:Cronología de las ascensiones al Everest</a></li>
-    <li><a href="https://infoaviacion.com.mx/vuela/industria/primer-vuelo-sobre-el-everest-1933/">InfoAviacion – Primer vuelo sobre el Everest (1933)</a></li>
-    <li><a href="https://www.guinnessworldrecords.com/world-records/first-flight-over-everest">Guinness World Records – First flight over Everest</a></li>
-    <li><a href="https://www.thisdayinaviation.com/3-april-1933/">This Day in Aviation – 3 April 1933</a></li>
-    <li><a href="https://www.lugaresdeaventura.com/noticia/el-primer-vuelo-sobre-el-everest-cumple-92-anos">Lugares de Aventura – El primer vuelo sobre el Everest cumple 92 años</a></li>
-    <li><a href="https://bwifly.com/blog/1933-flying-over-everest-conquering-the-roof-of-the-world-in-a-flimsy-biplane/">BWI Fly – Flying Over Everest in 1933</a></li>
-    <li><a href="https://iafhistory.in/2022/07/11/unveiling-the-pioneers-the-everest-flyby-of-1933/">Unveiling the Pioneers: The Everest Flyby of 1933</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Houston%E2%80%93Mount_Everest_flight_expedition" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Houston–Mount Everest flight expedition</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Anexo:Cronolog%C3%ADa_de_las_ascensiones_al_Everest" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Anexo:Cronología de las ascensiones al Everest</a></li>
+    <li><a href="https://infoaviacion.com.mx/vuela/industria/primer-vuelo-sobre-el-everest-1933/" style="color: #315fea; text-decoration: none;">InfoAviacion – Primer vuelo sobre el Everest (1933)</a></li>
+    <li><a href="https://www.guinnessworldrecords.com/world-records/first-flight-over-everest" style="color: #315fea; text-decoration: none;">Guinness World Records – First flight over Everest</a></li>
+    <li><a href="https://www.thisdayinaviation.com/3-april-1933/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 3 April 1933</a></li>
+    <li><a href="https://www.lugaresdeaventura.com/noticia/el-primer-vuelo-sobre-el-everest-cumple-92-anos" style="color: #315fea; text-decoration: none;">Lugares de Aventura – El primer vuelo sobre el Everest cumple 92 años</a></li>
+    <li><a href="https://bwifly.com/blog/1933-flying-over-everest-conquering-the-roof-of-the-world-in-a-flimsy-biplane/" style="color: #315fea; text-decoration: none;">BWI Fly – Flying Over Everest in 1933</a></li>
+    <li><a href="https://iafhistory.in/2022/07/11/unveiling-the-pioneers-the-everest-flyby-of-1933/" style="color: #315fea; text-decoration: none;">Unveiling the Pioneers: The Everest Flyby of 1933</a></li>
   </ul>
 </div>
 
@@ -105,7 +105,7 @@ En 2023, con motivo del 90 aniversario, se realizaron vuelos conmemorativos y se
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-01 14:30 UTC  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), InfoAviación, Guinness World Records, This Day in Aviation, Lugares de Aventura, BWI Fly, IAF History  
 - **Discrepancias resueltas:** Se confirmó la participación de dos aviones principales (PV-3 y PV-6) con las matrículas indicadas; se aclaró la ausencia de un tercer avión en el sobrevuelo final. La hora exacta del primer paso sobre la cumbre (≈10:10) se basa en relatos de los pilotos.  
 - **Nivel de confianza:** Alto  

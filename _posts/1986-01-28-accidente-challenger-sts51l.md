@@ -25,7 +25,7 @@ image: 1986-01-28-accidente-challenger-sts51l.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
 
-## Datos Verificados del Evento
+## Datos verificados del evento
 - **Fecha:** 28 de enero de 1986  
 - **Lugar:** Cabo Cañaveral, Florida, EE. UU.  
 - **Misión:** STS‑51‑L  
@@ -65,18 +65,18 @@ El Challenger es recordado como un símbolo de sacrificio en la exploración esp
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster">Wikipedia (EN) – Space Shuttle Challenger disaster</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Accidente_del_transbordador_espacial_Challenger">Wikipedia (ES) – Accidente del transbordador espacial Challenger</a></li>
-    <li><a href="https://www.nasa.gov/challenger-sts-51l-accident/">NASA – Challenger STS‑51‑L Accident</a></li>
-    <li><a href="https://www.britannica.com/event/Challenger-disaster">Encyclopaedia Britannica – Challenger disaster</a></li>
-    <li><a href="https://www.nasa.gov/mission/sts-51l/">NASA – STS‑51‑L</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Space Shuttle Challenger disaster</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Accidente_del_transbordador_espacial_Challenger" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Accidente del transbordador espacial Challenger</a></li>
+    <li><a href="https://www.nasa.gov/challenger-sts-51l-accident/" style="color: #315fea; text-decoration: none;">NASA – Challenger STS‑51‑L Accident</a></li>
+    <li><a href="https://www.britannica.com/event/Challenger-disaster" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica – Challenger disaster</a></li>
+    <li><a href="https://www.nasa.gov/mission/sts-51l/" style="color: #315fea; text-decoration: none;">NASA – STS‑51‑L</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-26 14:55:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** NASA; Wikipedia; Britannica  
 - **Discrepancias resueltas:** Confirmación de causa técnica (O‑rings) y cronología exacta del accidente.  
 - **Nivel de confianza:** Alto  

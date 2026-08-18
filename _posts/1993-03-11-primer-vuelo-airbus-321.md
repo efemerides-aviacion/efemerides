@@ -86,21 +86,21 @@ La familia A321neo ha superado ampliamente las 1.700 órdenes, consolidando al t
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Airbus_A321">Wikipedia (EN) – Airbus A321</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Airbus_A320_family">Wikipedia (EN) – Airbus A320 family</a></li>
-    <li><a href="https://airwaysmag.com/new-post/3-11-1993-maiden-flight-of-the-airbus-a321">Airways Magazine – 3/11/1993: Maiden Flight of the Airbus A321</a></li>
-    <li><a href="https://afterburner.com.pl/11-march-1993-first-flight-of-airbus-a321/">Afterburner – 11 March 1993 – first flight of Airbus A321</a></li>
-    <li><a href="https://aviatordb.com/encyclopedia/aircraft/a321">AviatorDB – Airbus A-321 (A321) – Aircraft Encyclopedia</a></li>
-    <li><a href="https://www.upi.com/Archives/1993/03/11/Successful-first-test-flight-of-Airbus-A321/5044731826000/">UPI Archives – Successful first test flight of Airbus A321</a></li>
-    <li><a href="https://simpleflying.com/airbus-a321-30-years-success-story/">Simple Flying – 30 Years In The Skies: Why The Airbus A321 Has Been A Success</a></li>
-    <li><a href="https://kureansiklopedi.com/en/detay/airbus-a321-4403d">KÜRE Encyclopedia – Airbus A321</a></li>
-    <li><a href="https://www.instagram.com/p/BgLzB_kg2HU/">Instagram @airbus – 25 aniversario del primer vuelo del A321</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Airbus_A321" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Airbus A321</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Airbus_A320_family" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Airbus A320 family</a></li>
+    <li><a href="https://airwaysmag.com/new-post/3-11-1993-maiden-flight-of-the-airbus-a321" style="color: #315fea; text-decoration: none;">Airways Magazine – 3/11/1993: Maiden Flight of the Airbus A321</a></li>
+    <li><a href="https://afterburner.com.pl/11-march-1993-first-flight-of-airbus-a321/" style="color: #315fea; text-decoration: none;">Afterburner – 11 March 1993 – first flight of Airbus A321</a></li>
+    <li><a href="https://aviatordb.com/encyclopedia/aircraft/a321" style="color: #315fea; text-decoration: none;">AviatorDB – Airbus A-321 (A321) – Aircraft Encyclopedia</a></li>
+    <li><a href="https://www.upi.com/Archives/1993/03/11/Successful-first-test-flight-of-Airbus-A321/5044731826000/" style="color: #315fea; text-decoration: none;">UPI Archives – Successful first test flight of Airbus A321</a></li>
+    <li><a href="https://simpleflying.com/airbus-a321-30-years-success-story/" style="color: #315fea; text-decoration: none;">Simple Flying – 30 Years In The Skies: Why The Airbus A321 Has Been A Success</a></li>
+    <li><a href="https://kureansiklopedi.com/en/detay/airbus-a321-4403d" style="color: #315fea; text-decoration: none;">KÜRE Encyclopedia – Airbus A321</a></li>
+    <li><a href="https://www.instagram.com/p/BgLzB_kg2HU/" style="color: #315fea; text-decoration: none;">Instagram @airbus – 25 aniversario del primer vuelo del A321</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-09 10:30:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN), Airways Magazine, UPI Archives, Simple Flying, Afterburner, AviatorDB  
 - **Discrepancias resueltas:** No se identificaron discrepancias significativas entre las fuentes; todas coinciden en fecha (11 de marzo de 1993), lugar (Hamburgo) y características principales del vuelo inaugural.  
 - **Nivel de confianza:** Alto  

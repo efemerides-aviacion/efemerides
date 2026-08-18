@@ -12,7 +12,7 @@ image: 2009-01-15-amerizaje-rio-hudson-vuelo-1549.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2009-01-15-amerizaje-rio-hudson-vuelo-1549.webp" alt="Vuelo 1549 de US Airways en el río Hudson">
-  <figcaption class="post-caption">US Airways Vuelo 1549 (Airbus A320-214, matrícula N106US) flotando en el río Hudson tras el amerizaje de emergencia, 15 de enero de 2009. Los pasajeros esperan sobre las alas y los toboganes la llegada de las embarcaciones de rescate. Fuente: <a href="https://www.britannica.com/topic/US-Airways-Flight-1549-incident">Britannica – US Airways Flight 1549 incident</a>.</figcaption>
+  <figcaption class="post-caption">US Airways Vuelo 1549 (Airbus A320-214, matrícula N106US) flotando en el río Hudson tras el amerizaje de emergencia, 15 de enero de 2009. Los pasajeros esperan sobre las alas y los toboganes la llegada de las embarcaciones de rescate. Fuente: <a href="https://www.britannica.com/topic/US-Airways-Flight-1549-incident" style="color: #315fea; text-decoration: none;">Britannica – US Airways Flight 1549 incident</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -120,16 +120,16 @@ El Airbus A320 N106US se exhibe en el **Sullenberger Aviation Museum** (anterior
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/US_Airways_Flight_1549">Wikipedia (EN) – US Airways Flight 1549</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_1549_de_US_Airways">Wikipedia (ES) – Vuelo 1549 de US Airways</a></li>
-    <li><a href="https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1003.pdf">NTSB – Informe oficial AAR-10/03 (4 mayo 2010)</a></li>
-    <li><a href="https://aviation-safety.net/wikibase/321581">Aviation Safety Network – US Airways 1549</a></li>
-    <li><a href="https://www.britannica.com/topic/US-Airways-Flight-1549-incident">Britannica – US Airways Flight 1549 incident</a></li>
-    <li><a href="https://skybrary.aero/bookshelf/ntsb-aircraft-accident-report-aar-1003-a320-ditching-hudson-river-after-bird-strike">SKYbrary – NTSB Report AAR-10/03</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/US_Airways_Flight_1549" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – US Airways Flight 1549</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_1549_de_US_Airways" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vuelo 1549 de US Airways</a></li>
+    <li><a href="https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR1003.pdf" style="color: #315fea; text-decoration: none;">NTSB – Informe oficial AAR-10/03 (4 mayo 2010)</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/321581" style="color: #315fea; text-decoration: none;">Aviation Safety Network – US Airways 1549</a></li>
+    <li><a href="https://www.britannica.com/topic/US-Airways-Flight-1549-incident" style="color: #315fea; text-decoration: none;">Britannica – US Airways Flight 1549 incident</a></li>
+    <li><a href="https://skybrary.aero/bookshelf/ntsb-aircraft-accident-report-aar-1003-a320-ditching-hudson-river-after-bird-strike" style="color: #315fea; text-decoration: none;">SKYbrary – NTSB Report AAR-10/03</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El vuelo 1549 originalmente tenía escala en Charlotte (Carolina del Norte) y continuaba a Seattle (Washington). El segmento Charlotte–Seattle fue cancelado ese día. La aeronave N106US fue dada de baja (written off) tras el amerizaje. En 2022, el museo que la alberga cambió su nombre de Carolinas Aviation Museum a Sullenberger Aviation Museum en honor al capitán. La fotografía utilizada en esta efeméride es una de las más icónicas del evento, mostrando a los pasajeros sobre las alas esperando el rescate.</p>
@@ -138,7 +138,7 @@ El Airbus A320 N106US se exhibe en el **Sullenberger Aviation Museum** (anterior
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-04-03 17:15 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), NTSB (informe oficial AAR-10/03), Aviation Safety Network, Britannica, SKYbrary
 - **Discrepancias resueltas:** Número de ocupantes (155, no 153); duración del vuelo (5 minutos, no 6); responsable de apertura de puerta trasera (no confirmado, se omite)
 - **Nivel de confianza:** Alto

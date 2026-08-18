@@ -126,7 +126,7 @@ La desaparición del L’Oiseau Blanc sigue siendo el mayor misterio sin resolve
 
 El "Pájaro Blanco" es un recordatorio de que, en la conquista del cielo, la historia la escriben a menudo los supervivientes, pero las leyendas las forjan aquellos que desafiaron lo imposible y desaparecieron en el intento.
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el Premio Orteig:</strong> El Premio Orteig fue ofrecido por el hotelero neoyorquino Raymond Orteig en 1919, con un valor de 25.000 dólares (equivalentes a más de 400.000 dólares actuales). Estaba destinado al primer aviador aliado que volara sin escalas entre París y Nueva York o viceversa. Charles Lindbergh lo ganó en mayo de 1927.</p>
@@ -140,14 +140,14 @@ El "Pájaro Blanco" es un recordatorio de que, en la conquista del cielo, la his
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Levasseur_PL.8">Wikipedia (EN) - Levasseur PL.8</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Oiseau_Blanc">Wikipedia (EN) - L'Oiseau Blanc</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/L%27Oiseau_blanc">Wikipedia (ES) - L'Oiseau Blanc</a></li>
-    <li><a href="https://www.nationalgeographic.com/adventure/article/130509-charles-lindbergh-transatlantic-flight-white-bird-bernard-decre-safran-aviation">National Geographic - Searching for Remains of an Early Transatlantic Flight</a></li>
-    <li><a href="https://warhistory.org/zh/@msw/article/charles-nungesser">WarHistory.org - Charles Nungesser</a></li>
-    <li><a href="https://www.cheminsdememoire.gouv.fr/index.php/en/charles-nungesser">Chemins de mémoire - Charles Nungesser</a></li>
-    <li><a href="https://ivancastropalacios.com/blog/el-misterio-del-loiseau-blanc-la-desaparicion-del-pajaro-blanc/">Ivan Castro Palacios - El misterio del “L’Oiseau Blanc”</a></li>
-    <li><a href="https://www.dailymail.co.uk/news/article-1329178/French-claim-Charles-Lindbergh-NOT-fly-Atlantic.html">Daily Mail - French launch bid to rewrite history books</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Levasseur_PL.8" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Levasseur PL.8</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Oiseau_Blanc" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - L'Oiseau Blanc</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/L%27Oiseau_blanc" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - L'Oiseau Blanc</a></li>
+    <li><a href="https://www.nationalgeographic.com/adventure/article/130509-charles-lindbergh-transatlantic-flight-white-bird-bernard-decre-safran-aviation" style="color: #315fea; text-decoration: none;">National Geographic - Searching for Remains of an Early Transatlantic Flight</a></li>
+    <li><a href="https://warhistory.org/zh/@msw/article/charles-nungesser" style="color: #315fea; text-decoration: none;">WarHistory.org - Charles Nungesser</a></li>
+    <li><a href="https://www.cheminsdememoire.gouv.fr/index.php/en/charles-nungesser" style="color: #315fea; text-decoration: none;">Chemins de mémoire - Charles Nungesser</a></li>
+    <li><a href="https://ivancastropalacios.com/blog/el-misterio-del-loiseau-blanc-la-desaparicion-del-pajaro-blanc/" style="color: #315fea; text-decoration: none;">Ivan Castro Palacios - El misterio del “L’Oiseau Blanc”</a></li>
+    <li><a href="https://www.dailymail.co.uk/news/article-1329178/French-claim-Charles-Lindbergh-NOT-fly-Atlantic.html" style="color: #315fea; text-decoration: none;">Daily Mail - French launch bid to rewrite history books</a></li>
   </ul>
 </div>
 
@@ -155,7 +155,7 @@ El "Pájaro Blanco" es un recordatorio de que, en la conquista del cielo, la his
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-07 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), National Geographic, WarHistory.org, Chemins de mémoire, Daily Mail
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del despegue (8 de mayo de 1927) y la hora (5:17 a.m.). La autonomía varía entre 40 y 42 horas. El peso al despegue fue de 5.000 kg. Las versiones sobre la ruta y posibles avistamientos posteriores varían, pero se presentan como teorías no confirmadas.
 - **Nivel de confianza:** Alto

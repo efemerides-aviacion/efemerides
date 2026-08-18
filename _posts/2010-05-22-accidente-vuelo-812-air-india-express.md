@@ -116,17 +116,17 @@ El accidente del vuelo 812 de Air India Express sigue siendo uno de los más mor
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.flightglobal.com/ops-safety/2011/04/air-india-737-captain-deeply-asleep-shortly-before-fatal-approach/">FlightGlobal – Air India 737 captain deeply asleep shortly before fatal approach</a></li>
-    <li><a href="https://indianexpress.com/article/news-archive/web/mangalore-crash-report-out-sleepy-captain-was-just-one-of-the-reasons/">The Indian Express – Mangalore crash report out: Sleepy captain was just one of the reasons</a></li>
-    <li><a href="https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/sc-seeks-reply-from-centre-dgca-on-plea-for-emergency-systems-at-small-airports-to-avoid-accidents/printarticle/78149206.cms">The Economic Times – SC seeks reply from Centre, DGCA on plea for emergency systems at small airports</a></li>
-    <li><a href="https://www.theweek.in/news/india/2020/08/11/calicut-airport-did-not-implement-expert-panel-suggestion-for-runway-safety-bed.html">The Week – Calicut airport did not implement expert panel's suggestion for runway safety bed</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_812_de_Air_India_Express">Wikipedia (ES) – Vuelo 812 de Air India Express</a></li>
-    <li><a href="https://aviation-safety.net/wikibase/321303">Aviation Safety Network – Accident Boeing 737-800 VT-AXV, 22 May 2010</a></li>
-    <li><a href="https://www.bbc.com/mundo/articles/c4ge1902010o">BBC Mundo – Qué se sabe del accidente de un avión en India</a></li>
+    <li><a href="https://www.flightglobal.com/ops-safety/2011/04/air-india-737-captain-deeply-asleep-shortly-before-fatal-approach/" style="color: #315fea; text-decoration: none;">FlightGlobal – Air India 737 captain deeply asleep shortly before fatal approach</a></li>
+    <li><a href="https://indianexpress.com/article/news-archive/web/mangalore-crash-report-out-sleepy-captain-was-just-one-of-the-reasons/" style="color: #315fea; text-decoration: none;">The Indian Express – Mangalore crash report out: Sleepy captain was just one of the reasons</a></li>
+    <li><a href="https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/sc-seeks-reply-from-centre-dgca-on-plea-for-emergency-systems-at-small-airports-to-avoid-accidents/printarticle/78149206.cms" style="color: #315fea; text-decoration: none;">The Economic Times – SC seeks reply from Centre, DGCA on plea for emergency systems at small airports</a></li>
+    <li><a href="https://www.theweek.in/news/india/2020/08/11/calicut-airport-did-not-implement-expert-panel-suggestion-for-runway-safety-bed.html" style="color: #315fea; text-decoration: none;">The Week – Calicut airport did not implement expert panel's suggestion for runway safety bed</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_812_de_Air_India_Express" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vuelo 812 de Air India Express</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/321303" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Accident Boeing 737-800 VT-AXV, 22 May 2010</a></li>
+    <li><a href="https://www.bbc.com/mundo/articles/c4ge1902010o" style="color: #315fea; text-decoration: none;">BBC Mundo – Qué se sabe del accidente de un avión en India</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El informe oficial de la investigación determinó que el capitán Zlatko Glušica durmió durante gran parte del vuelo. La grabadora de voz en cabina (CVR) registró patrones de respiración profunda y ronquidos durante al menos 1 hora y 28 minutos. La NTSB citó este caso como el primero en que se registraron ronquidos de un piloto en una CVR como factor contribuyente a un accidente. Aunque algunos medios iniciales especularon sobre el estado de la pista o fallos técnicos, el informe final concluyó que la causa principal fue el error del piloto agravado por la fatiga y el gradiente de autoridad en cabina.</p>
@@ -135,7 +135,7 @@ El accidente del vuelo 812 de Air India Express sigue siendo uno de los más mor
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-05-20 14:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** FlightGlobal, The Indian Express (investigación original), The Economic Times, The Week, Wikipedia (ES), Aviation Safety Network, BBC Mundo
 - **Discrepancias resueltas:** Confirmación de la duración del sueño del capitán (1h 40min vs 1h 28min en CVR registrada). Verificación de que el radar de Mangalore estaba fuera de servicio como factor contribuyente. El número de víctimas (158) es consistente en todas las fuentes oficiales.
 - **Nivel de confianza:** Alto

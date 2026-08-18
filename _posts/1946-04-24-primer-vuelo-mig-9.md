@@ -163,14 +163,14 @@ El 24 de abril de 1946 sigue siendo una fecha emblemática en la historia de la 
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-9">Wikipedia (ES) - Mikoyan-Gurevich MiG-9</a></li>
-    <li><a href="https://www.wikiwand.com/en/articles/Mikoyan-Gurevich_MiG-9">Wikiwand - Mikoyan-Gurevich MiG-9</a></li>
-    <li><a href="https://www.ecured.cu/Mikoyan_Gurevich_MiG-9">EcuRed - Mikoyan Gurevich MiG-9</a></li>
-    <li><a href="https://www.zona-militar.com/2019/05/25/cazas-olvidados-mig-9-fargo-el-primer-caza-jet-sovietico/">Zona Militar - Cazas Olvidados: MiG-9 Fargo</a></li>
-    <li><a href="https://www.britannica.com/technology/MiG-9">Britannica - MiG-9</a></li>
-    <li><a href="https://aviastar.org/air/russia/mig-9.php">AviaStar - Mikoyan/Gurevich MiG-9</a></li>
-    <li><a href="https://www.skytamer.com/Mikoyan-Gurevich_MiG-09.html">Skytamer - Mikoyan-Gurevich MiG-9 Fargo</a></li>
-    <li><a href="https://w.russianwarrior.com/1947vehicle_mig9hist.htm">RussianWarrior - History of the MiG-9</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-9" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Mikoyan-Gurevich MiG-9</a></li>
+    <li><a href="https://www.wikiwand.com/en/articles/Mikoyan-Gurevich_MiG-9" style="color: #315fea; text-decoration: none;">Wikiwand - Mikoyan-Gurevich MiG-9</a></li>
+    <li><a href="https://www.ecured.cu/Mikoyan_Gurevich_MiG-9" style="color: #315fea; text-decoration: none;">EcuRed - Mikoyan Gurevich MiG-9</a></li>
+    <li><a href="https://www.zona-militar.com/2019/05/25/cazas-olvidados-mig-9-fargo-el-primer-caza-jet-sovietico/" style="color: #315fea; text-decoration: none;">Zona Militar - Cazas Olvidados: MiG-9 Fargo</a></li>
+    <li><a href="https://www.britannica.com/technology/MiG-9" style="color: #315fea; text-decoration: none;">Britannica - MiG-9</a></li>
+    <li><a href="https://aviastar.org/air/russia/mig-9.php" style="color: #315fea; text-decoration: none;">AviaStar - Mikoyan/Gurevich MiG-9</a></li>
+    <li><a href="https://www.skytamer.com/Mikoyan-Gurevich_MiG-09.html" style="color: #315fea; text-decoration: none;">Skytamer - Mikoyan-Gurevich MiG-9 Fargo</a></li>
+    <li><a href="https://w.russianwarrior.com/1947vehicle_mig9hist.htm" style="color: #315fea; text-decoration: none;">RussianWarrior - History of the MiG-9</a></li>
   </ul>
 </div>
 
@@ -178,7 +178,7 @@ El 24 de abril de 1946 sigue siendo una fecha emblemática en la historia de la 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-23 10:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES), Britannica, EcuRed, Zona Militar, AviaStar, Skytamer, RussianWarrior
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (24 de abril de 1946). El "salto" del 19 de abril de 1946 se menciona en algunas fuentes como una prueba previa. La rivalidad MiG vs Yak y el lanzamiento de la moneda es una tradición ampliamente citada, aunque no documentada oficialmente. Se ha corregido la ubicación (Chkalovskaya en lugar de Ramenskoye) y se han precisado los detalles técnicos (apodo "Butterfly", transferencia de 372 unidades a China, etc.).
 - **Nivel de confianza:** Alto

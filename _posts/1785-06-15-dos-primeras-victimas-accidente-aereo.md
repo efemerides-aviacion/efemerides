@@ -51,7 +51,7 @@ La aeronave de Rozier era un diseño híbrido innovador pero peligroso. Combinab
 
 ### Entorno cultural
 
-El objetivo de Rozier era emular la hazaña de Jean-Pierre Blanchard y John Jeffries, que apenas cinco meses antes (7 de enero de 1785) se habían convertido en los primeros hombres en cruzar el Canal de la Mancha en globo, volando desde Inglaterra a Francia (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html">ver efeméride</a>). Rozier quería repetir la gesta en dirección contraria —de Francia a Inglaterra— y hacerlo con su propio diseño de globo híbrido. La rivalidad entre aeronautas era intensa, y los premios económicos —como el que ofrecía la Academia de Ciencias de Francia— incentivaban la competición. Rozier, que había sido el primer hombre en volar libremente el 21 de noviembre de 1783 (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html">ver efeméride</a>), buscaba ahora otro hito que consolidara su lugar en la historia de la aerostación.
+El objetivo de Rozier era emular la hazaña de Jean-Pierre Blanchard y John Jeffries, que apenas cinco meses antes (7 de enero de 1785) se habían convertido en los primeros hombres en cruzar el Canal de la Mancha en globo, volando desde Inglaterra a Francia (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html" style="color: #315fea; text-decoration: none;">ver efeméride</a>). Rozier quería repetir la gesta en dirección contraria —de Francia a Inglaterra— y hacerlo con su propio diseño de globo híbrido. La rivalidad entre aeronautas era intensa, y los premios económicos —como el que ofrecía la Academia de Ciencias de Francia— incentivaban la competición. Rozier, que había sido el primer hombre en volar libremente el 21 de noviembre de 1783 (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">ver efeméride</a>), buscaba ahora otro hito que consolidara su lugar en la historia de la aerostación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -104,15 +104,15 @@ Estas tres efemérides —el primer vuelo tripulado (21 de noviembre de 1783), e
 
 <div class="references">
   <ul>
-    <li><a href="https://www.britannica.com/biography/Jean-Francois-Pilatre-de-Rozier">Encyclopaedia Britannica – Jean-François Pilâtre de Rozier</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Pil%C3%A2tre_de_Rozier">Wikipedia – Jean-François Pilâtre de Rozier</a></li>
-    <li><a href="https://www.britannica.com/biography/Francois-Laurent-marquis-dArlandes">Encyclopaedia Britannica – François Laurent d'Arlandes</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Laurent_d%27Arlandes">Wikipedia – François Laurent d'Arlandes</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Pil%C3%A2tre_de_Rozier">Wikipedia (EN) – Jean-François Pilâtre de Rozier</a></li>
+    <li><a href="https://www.britannica.com/biography/Jean-Francois-Pilatre-de-Rozier" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica – Jean-François Pilâtre de Rozier</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Pil%C3%A2tre_de_Rozier" style="color: #315fea; text-decoration: none;">Wikipedia – Jean-François Pilâtre de Rozier</a></li>
+    <li><a href="https://www.britannica.com/biography/Francois-Laurent-marquis-dArlandes" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica – François Laurent d'Arlandes</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Laurent_d%27Arlandes" style="color: #315fea; text-decoration: none;">Wikipedia – François Laurent d'Arlandes</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Pil%C3%A2tre_de_Rozier" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Jean-François Pilâtre de Rozier</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Rozier y Romain son considerados las primeras víctimas mortales de un accidente aéreo de la historia. Rozier había protagonizado el primer vuelo tripulado libre el 21 de noviembre de 1783 junto al marqués d'Arlandes, recorriendo 9 kilómetros sobre París en 25 minutos. La «rozière» —el globo híbrido diseñado por Rozier— sigue existiendo hoy en día, aunque con sistemas de seguridad radicalmente mejores. Pierre Romain, menos conocido, fue el acompañante de Rozier en este trágico vuelo.</p>
@@ -122,7 +122,7 @@ Estas tres efemérides —el primer vuelo tripulado (21 de noviembre de 1783), e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-11 09:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Encyclopaedia Britannica, Wikipedia (ES/EN)
 - **Discrepancias resueltas:** Se ha verificado que Rozier fue el primer aeronauta de la historia (21 de noviembre de 1783) y también la primera víctima mortal de un accidente aéreo. El globo híbrido que diseñó se llama «rozière» en su honor.
 - **Nivel de confianza:** Alto

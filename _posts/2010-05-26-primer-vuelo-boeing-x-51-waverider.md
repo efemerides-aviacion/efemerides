@@ -118,17 +118,17 @@ Joseph Vogel, director de Hipersónicos de Boeing, declaró: *"Este es un nuevo 
 
 <div class="references">
   <ul>
-    <li><a href="https://boeing.mediaroom.com/2010-05-26-Boeing-X-51A-WaveRider-Breaks-Record-in-1st-Flight">Boeing Newsroom – X-51A WaveRider Breaks Record in 1st Flight (26 de mayo de 2010)</a></li>
-    <li><a href="https://www.af.mil/News/Article-Display/Article/116538/x-51-waverider-makes-historic-hypersonic-flight/">U.S. Air Force – X-51 Waverider makes historic hypersonic flight</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_X-51_Waverider">Wikipedia – Boeing X-51 Waverider</a></li>
-    <li><a href="https://www.dvidshub.net/news/515736/new-air-force-scramjet-makes-historic-flight">DVIDS – New Air Force Scramjet Makes Historic Flight (2 de junio de 2010)</a></li>
-    <li><a href="https://www.wpafb.af.mil/News/Article-Display/Article/400162/new-scramjet-has-promising-future/">Wright-Patterson AFB – New scramjet has promising future</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Boeing_X-51">Wikipedia (ES) – Boeing X-51</a></li>
-    <li><a href="https://www.chinadaily.com.cn/world/2010-05/28/content_9902516.htm">China Daily – USAF vehicle breaks record for hypersonic flight (27 de mayo de 2010)</a></li>
+    <li><a href="https://boeing.mediaroom.com/2010-05-26-Boeing-X-51A-WaveRider-Breaks-Record-in-1st-Flight" style="color: #315fea; text-decoration: none;">Boeing Newsroom – X-51A WaveRider Breaks Record in 1st Flight (26 de mayo de 2010)</a></li>
+    <li><a href="https://www.af.mil/News/Article-Display/Article/116538/x-51-waverider-makes-historic-hypersonic-flight/" style="color: #315fea; text-decoration: none;">U.S. Air Force – X-51 Waverider makes historic hypersonic flight</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_X-51_Waverider" style="color: #315fea; text-decoration: none;">Wikipedia – Boeing X-51 Waverider</a></li>
+    <li><a href="https://www.dvidshub.net/news/515736/new-air-force-scramjet-makes-historic-flight" style="color: #315fea; text-decoration: none;">DVIDS – New Air Force Scramjet Makes Historic Flight (2 de junio de 2010)</a></li>
+    <li><a href="https://www.wpafb.af.mil/News/Article-Display/Article/400162/new-scramjet-has-promising-future/" style="color: #315fea; text-decoration: none;">Wright-Patterson AFB – New scramjet has promising future</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Boeing_X-51" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Boeing X-51</a></li>
+    <li><a href="https://www.chinadaily.com.cn/world/2010-05/28/content_9902516.htm" style="color: #315fea; text-decoration: none;">China Daily – USAF vehicle breaks record for hypersonic flight (27 de mayo de 2010)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -142,7 +142,7 @@ Joseph Vogel, director de Hipersónicos de Boeing, declaró: *"Este es un nuevo 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-23 14:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Boeing Newsroom, U.S. Air Force, Wikipedia (EN/ES), DVIDS, China Daily
 - **Discrepancias resueltas:** Confirmación de la duración del vuelo scramjet (140 segundos) frente a la duración total del vuelo autónomo (más de 200 segundos). Verificación del retraso de 24 horas por la presencia de un barco de carga. Confirmación del récord anterior de 12 segundos del X-43.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y de medios especializados coinciden en los datos fundamentales)

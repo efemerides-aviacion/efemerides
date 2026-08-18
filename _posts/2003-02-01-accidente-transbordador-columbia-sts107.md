@@ -99,9 +99,9 @@ El sacrificio de la tripulación de la STS-107 es recordado en monumentos del Ce
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-17 08:29:35 America/Mexico_City
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Columbia Accident Investigation Board (CAIB Report), NASA History Office, NASA Langley Research Center.
-- **Fuentes secundarias de contraste:** RTVE Noticias, Encyclopædia Britannica, borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** RTVE Noticias, Encyclopædia Britannica.
 - **Discrepancias resueltas:** Se confirmó la masa estimada del fragmento de espuma aislante (0,75 kg) e impacto a T+81,7 segundos, se verificaron los rangos militares de la tripulación y se integraron las conexiones cruzadas hacia las efemérides publicadas del primer vuelo del Columbia (1981) y la tragedia del Challenger (1986).
 - **Nivel de confianza:** Alto.
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -15,7 +15,7 @@ image: 1973-07-26-creacion-grupo-aereo-caza-11-los-diablos.webp
   <figcaption class="post-caption">Un Dassault Mirage 50DV de la Fuerza Aérea Venezolana fotografiado el 16 de noviembre de 2004. Este modelo perteneció a la familia de aeronaves operada por el Grupo Aéreo de Caza N.º 11 durante la etapa Mirage 50. Fotografía: Chris Lofting. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Venezuelan_Air_Force_Dassault_Mirage_50DV_Lofting-1.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a> (GFDL 1.2).</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1973-07-26-creacion-grupo-aereo-caza-11-los-diablos.webp
 <p>La unidad atravesó dos grandes transiciones tecnológicas: la modernización hacia el Mirage 50 durante la década de 1990 y la incorporación del Sukhoi Su-30MK2 a partir de finales de la década de 2000. Su trayectoria sintetiza medio siglo de evolución de la aviación de combate venezolana.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
@@ -38,7 +38,7 @@ image: 1973-07-26-creacion-grupo-aereo-caza-11-los-diablos.webp
 - **Primer comandante citado:** Teniente Coronel (Av.) Carlos Humberto Pinaud Arcila.
 - **Sobrenombre y lema:** «Diablos»; «Vencer o morir».
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
@@ -54,7 +54,7 @@ La aviación de caza evolucionaba hacia aeronaves supersónicas dotadas de radar
 
 Los nombres, emblemas y lemas de las unidades aéreas contribuyen a consolidar identidad y espíritu de cuerpo. La denominación «Diablos» y su insignia flameante se convirtieron en elementos distintivos del Grupo Aéreo de Caza N.º 11, preservados a través de sus sucesivas generaciones de aeronaves y personal.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -68,7 +68,7 @@ Los nombres, emblemas y lemas de las unidades aéreas contribuyen a consolidar i
 - **2009:** Concluye la etapa operativa de los Mirage 50 en la unidad.
 - **2023:** El Grupo Aéreo de Caza N.º 11 conmemora cincuenta años desde su creación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -76,7 +76,7 @@ La creación del Grupo Aéreo de Caza N.º 11 organizó dentro de una misma estr
 
 La posterior modernización al estándar Mirage 50 prolongó la vida útil del sistema y amplió sus posibilidades de empleo. Décadas más tarde, la llegada del Su-30MK2 significó otra renovación sustancial, caracterizada por una plataforma bimotor de mayor autonomía, carga bélica y capacidad multifunción.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
@@ -84,7 +84,7 @@ El Grupo Aéreo de Caza N.º 11 representa la continuidad de una tradición vene
 
 La permanencia del sobrenombre «Diablos», de su identidad visual y del lema «Vencer o morir» ha dado cohesión simbólica a la unidad pese a la sustitución de sus aeronaves. Su trayectoria constituye, además, una referencia para comprender la evolución contemporánea de la defensa aérea venezolana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
@@ -94,18 +94,18 @@ La permanencia del sobrenombre «Diablos», de su identidad visual y del lema «
 4. <a href="https://talcualdigital.com/voa-aviones-sukhoi-de-venezuela-tendrian-menos-horas-de-vuelo-que-el-promedio/" style="color: #315fea; text-decoration: none;">TalCual / Voz de América — Aviones Sukhoi de Venezuela tendrían menos horas de vuelo que el promedio</a>, 11 de julio de 2023.
 5. <a href="https://www.infodefensa.com/texto-diario/mostrar/3133877/venezuela-adquirira-13-nuevos-aviones-combate-rusos-sukhoi-30" style="color: #315fea; text-decoration: none;">Infodefensa — Venezuela adquirirá 13 nuevos aviones de combate rusos Sukhoi Su-30</a>.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La fecha del 26 de julio de 1973 corresponde a la constitución formal del Grupo Aéreo de Caza N.º 11. Algunos de sus escuadrones y aeronaves tenían antecedentes operativos anteriores y fueron incorporados a la nueva estructura. Las fuentes consultadas permiten confirmar que, tras la sustitución de los Mirage 50 por los Su-30MK2, una parte de estos cazas fue asignada al Grupo y la unidad pasó a tener su sede en la Base Aeroespacial «Capitán Manuel Ríos», en El Sombrero. La fecha exacta del traslado no queda establecida de forma unívoca en las fuentes revisadas.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);"/>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-21 14:07:38 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Recopilación histórica de Francisco Efraín Visconti Osorio sobre el cincuentenario del Grupo Aéreo de Caza N.º 11.  
-- **Fuentes secundarias de contraste:** Aeroflight, Defensa.com, TalCual/Voz de América, Infodefensa, Artículo del Cnel. (Av) José Luis Ochoa Vargas y borrador preliminar del investigador.  
+- **Fuentes secundarias de contraste:** Aeroflight, Defensa.com, TalCual/Voz de América, Infodefensa, Artículo del Cnel. (Av) José Luis Ochoa Vargas.  
 - **Discrepancias resueltas:** Se distinguió la creación formal del Grupo de los antecedentes de sus escuadrones; se normalizaron las denominaciones de los modelos Mirage y Su-30MK2; se incorporó la sede posterior en El Sombrero, respaldada por fuentes coincidentes, sin fijar una fecha exacta de traslado no establecida unívocamente.  
 - **Nivel de confianza:** Medio  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

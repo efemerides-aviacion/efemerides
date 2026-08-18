@@ -179,14 +179,14 @@ El aeropuerto de San Julián, desde donde partieron muchas de aquellas misiones,
 
 <div class="references">
   <ul>
-    <li><a href="https://noticiasenvuelo.faa.mil.ar/articulos.php?idn=263">Noticias En Vuelo FAA - La Historia del Bautismo de Fuego</a></li>
-    <li><a href="https://noticiasenvuelo.faa.mil.ar/articulos.php?idn=264">Noticias En Vuelo FAA - Que retumbe en cada garganta ¡Las Malvinas son Argentinas!</a></li>
-    <li><a href="https://www.infobae.com/historias/2024/05/01/ases-del-aire-a-42-anos-del-bautismo-de-fuego-de-la-fuerza-aerea-argentina-en-la-guerra-de-las-malvinas/">Infobae - Ases del aire: a 42 años del bautismo de fuego de la FAA</a></li>
-    <li><a href="https://www.gacetaeronautica.com/gaceta/wp-101/31-aniversario-del-bautismo-de-fuego-de-la-faa/">Gaceta Aeronautica - 31º Aniversario del Bautismo de Fuego de la FAA</a></li>
-    <li><a href="https://fundacionmalvinas.org/bautismo-de-fuego-de-la-fuerza-aerea-argentina-1-de-mayo-de-1982/">Fundación Malvinas - Bautismo de Fuego de la Fuerza Aérea Argentina</a></li>
-    <li><a href="https://tn.com.ar/politica/se-conmemorara-el-bautismo-de-fuego-de-la-fuerza-aerea-en-la-guerra-de-malvinas_670256/">TN - Se conmemorará el bautismo de fuego de la Fuerza Aérea</a></li>
-    <li><a href="https://www.a24.com/actualidad/a-40-anos-malvinas-la-fuerza-aerea-recordo-su-bautismo-fuego-un-emotivo-homenaje-n1013703">A24 - A 40 años de Malvinas: la Fuerza Aérea recordó su bautismo de fuego</a></li>
-    <li><a href="https://www.obispadocastrenseargentina.org/contenidos/mons-olivera-rezamos-hoy-con-enorme-gratitud-por-los-que-quedaron-en-aquel-bautismo-de-fuego-rezamos-por-ustedes-veteranos-de-guerra-exaltamos-el-legado-de-nuestros-soldados-del-aire/">Obispado Castrense - 43° aniversario del Bautismo de Fuego de la FAA</a></li>
+    <li><a href="https://noticiasenvuelo.faa.mil.ar/articulos.php?idn=263" style="color: #315fea; text-decoration: none;">Noticias En Vuelo FAA - La Historia del Bautismo de Fuego</a></li>
+    <li><a href="https://noticiasenvuelo.faa.mil.ar/articulos.php?idn=264" style="color: #315fea; text-decoration: none;">Noticias En Vuelo FAA - Que retumbe en cada garganta ¡Las Malvinas son Argentinas!</a></li>
+    <li><a href="https://www.infobae.com/historias/2024/05/01/ases-del-aire-a-42-anos-del-bautismo-de-fuego-de-la-fuerza-aerea-argentina-en-la-guerra-de-las-malvinas/" style="color: #315fea; text-decoration: none;">Infobae - Ases del aire: a 42 años del bautismo de fuego de la FAA</a></li>
+    <li><a href="https://www.gacetaeronautica.com/gaceta/wp-101/31-aniversario-del-bautismo-de-fuego-de-la-faa/" style="color: #315fea; text-decoration: none;">Gaceta Aeronautica - 31º Aniversario del Bautismo de Fuego de la FAA</a></li>
+    <li><a href="https://fundacionmalvinas.org/bautismo-de-fuego-de-la-fuerza-aerea-argentina-1-de-mayo-de-1982/" style="color: #315fea; text-decoration: none;">Fundación Malvinas - Bautismo de Fuego de la Fuerza Aérea Argentina</a></li>
+    <li><a href="https://tn.com.ar/politica/se-conmemorara-el-bautismo-de-fuego-de-la-fuerza-aerea-en-la-guerra-de-malvinas_670256/" style="color: #315fea; text-decoration: none;">TN - Se conmemorará el bautismo de fuego de la Fuerza Aérea</a></li>
+    <li><a href="https://www.a24.com/actualidad/a-40-anos-malvinas-la-fuerza-aerea-recordo-su-bautismo-fuego-un-emotivo-homenaje-n1013703" style="color: #315fea; text-decoration: none;">A24 - A 40 años de Malvinas: la Fuerza Aérea recordó su bautismo de fuego</a></li>
+    <li><a href="https://www.obispadocastrenseargentina.org/contenidos/mons-olivera-rezamos-hoy-con-enorme-gratitud-por-los-que-quedaron-en-aquel-bautismo-de-fuego-rezamos-por-ustedes-veteranos-de-guerra-exaltamos-el-legado-de-nuestros-soldados-del-aire/" style="color: #315fea; text-decoration: none;">Obispado Castrense - 43° aniversario del Bautismo de Fuego de la FAA</a></li>
   </ul>
 </div>
 
@@ -194,7 +194,7 @@ El aeropuerto de San Julián, desde donde partieron muchas de aquellas misiones,
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-01 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Noticias En Vuelo (FAA), Infobae, Gaceta Aeronautica, Fundación Malvinas, TN, Obispado Castrense
 - **Discrepancias resueltas:** Las fuentes oficiales de la FAA coinciden en la fecha (1 de mayo de 1982), el horario (04:40), las bajas (14 caídos) y las operaciones (76 salidas). Se ha corregido la cifra de aeronaves perdidas de 7 a 5 (suma correcta: 2 Mirage IIIEA, 1 Dagger, 1 Canberra, 1 Pucará). Se ha aclarado en nota aclaratoria la diferencia entre las secciones TORO y TORNO.
 - **Nivel de confianza:** Alto

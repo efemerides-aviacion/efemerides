@@ -179,14 +179,14 @@ Umberto Nobile falleció en Roma el 30 de julio de 1978 a la edad de 93 años. R
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Norge_(dirigible)">Wikipedia (ES) - Norge (dirigible)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Umberto_Nobile">Wikipedia (EN) - Umberto Nobile</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Umberto_Nobile">Wikipedia (ES) - Umberto Nobile</a></li>
-    <li><a href="https://www.clarin.com/internacional/hace-100-anos-viaje-increible-dirigible-norge-unio-roma-polo-norte_0_zFlUtv7KZU.html">Clarín - Hace 100 años, el viaje increíble del dirigible Norge</a></li>
-    <li><a href="https://www.publico.es/culturas/objetivo-polo-norte-dirigible.html">Público - Objetivo Polo Norte en dirigible</a></li>
-    <li><a href="https://www.treccani.it/enciclopedia/umberto-nobile_(Enciclopedia-Italiana)">Treccani - Umberto Nobile</a></li>
-    <li><a href="https://ninos.kiddle.co/Umberto_Nobile">Kiddle - Umberto Nobile para niños</a></li>
-    <li><a href="https://ninos.kiddle.co/Lincoln_Ellsworth">Kiddle - Lincoln Ellsworth para niños</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Norge_(dirigible)" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Norge (dirigible)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Umberto_Nobile" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Umberto Nobile</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Umberto_Nobile" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Umberto Nobile</a></li>
+    <li><a href="https://www.clarin.com/internacional/hace-100-anos-viaje-increible-dirigible-norge-unio-roma-polo-norte_0_zFlUtv7KZU.html" style="color: #315fea; text-decoration: none;">Clarín - Hace 100 años, el viaje increíble del dirigible Norge</a></li>
+    <li><a href="https://www.publico.es/culturas/objetivo-polo-norte-dirigible.html" style="color: #315fea; text-decoration: none;">Público - Objetivo Polo Norte en dirigible</a></li>
+    <li><a href="https://www.treccani.it/enciclopedia/umberto-nobile_(Enciclopedia-Italiana)" style="color: #315fea; text-decoration: none;">Treccani - Umberto Nobile</a></li>
+    <li><a href="https://ninos.kiddle.co/Umberto_Nobile" style="color: #315fea; text-decoration: none;">Kiddle - Umberto Nobile para niños</a></li>
+    <li><a href="https://ninos.kiddle.co/Lincoln_Ellsworth" style="color: #315fea; text-decoration: none;">Kiddle - Lincoln Ellsworth para niños</a></li>
   </ul>
 </div>
 
@@ -194,7 +194,7 @@ Umberto Nobile falleció en Roma el 30 de julio de 1978 a la edad de 93 años. R
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-10 13:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), Treccani, Clarín, Público
 - **Discrepancias resueltas:** Las fuentes confirman que el Norge sobrevoló el Polo Norte el 12 de mayo de 1926 a la 01:25 GMT. La controversia sobre la reclamación de Byrd está documentada en las fuentes modernas. La tripulación total varió durante el viaje (14, 15 o 16 personas según las etapas), pero se sabe que 15-16 hombres estuvieron involucrados en el tramo final. La aeronave tenía 106 m de largo con un volumen de 19.000 m³ de hidrógeno.
 - **Nivel de confianza:** Alto

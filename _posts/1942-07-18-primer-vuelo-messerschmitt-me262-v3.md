@@ -95,17 +95,17 @@ Por eso, el 18 de julio de 1942 no recuerda simplemente un ensayo exitoso. Recue
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/18-july-1942/">This Day in Aviation – 18 July 1942</a></li>
-    <li><a href="https://www.thisdayinaviation.com/18-july-1942/messerschmitt-me-262-v3-prototype-pcuc-maiden-flight-18-july-1942/">This Day in Aviation – Messerschmitt Me 262 V3 prototype PC+UC maiden flight</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Messerschmitt_Me_262">Wikipedia (EN) – Messerschmitt Me 262</a></li>
-    <li><a href="https://nationalinterest.org/blog/buzz/me-262-best-fighter-plane-world-war-ii-208134">The National Interest – Me 262: The Best Fighter Plane of World War II?</a></li>
-    <li><a href="https://www.smithsonianmag.com/air-space-magazine/the-worlds-first-combat-jet-78/">Smithsonian Magazine – The World’s First Combat Jet</a></li>
-    <li><a href="https://ww2db.com/aircraft_spec.php?aircraft_model_id=17">WW2DB – Me 262 Schwalbe Jet Fighter</a></li>
-    <li><a href="https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/apr-vol4-iss2-4-pdf/">RAF Air Power Review – The Messerschmitt 262 Jet Fighter: Missed Opportunity or Impossible Dream?</a></li>
+    <li><a href="https://www.thisdayinaviation.com/18-july-1942/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 18 July 1942</a></li>
+    <li><a href="https://www.thisdayinaviation.com/18-july-1942/messerschmitt-me-262-v3-prototype-pcuc-maiden-flight-18-july-1942/" style="color: #315fea; text-decoration: none;">This Day in Aviation – Messerschmitt Me 262 V3 prototype PC+UC maiden flight</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Messerschmitt_Me_262" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Messerschmitt Me 262</a></li>
+    <li><a href="https://nationalinterest.org/blog/buzz/me-262-best-fighter-plane-world-war-ii-208134" style="color: #315fea; text-decoration: none;">The National Interest – Me 262: The Best Fighter Plane of World War II?</a></li>
+    <li><a href="https://www.smithsonianmag.com/air-space-magazine/the-worlds-first-combat-jet-78/" style="color: #315fea; text-decoration: none;">Smithsonian Magazine – The World’s First Combat Jet</a></li>
+    <li><a href="https://ww2db.com/aircraft_spec.php?aircraft_model_id=17" style="color: #315fea; text-decoration: none;">WW2DB – Me 262 Schwalbe Jet Fighter</a></li>
+    <li><a href="https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/apr-vol4-iss2-4-pdf/" style="color: #315fea; text-decoration: none;">RAF Air Power Review – The Messerschmitt 262 Jet Fighter: Missed Opportunity or Impossible Dream?</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Algunas fuentes populares simplifican la cronología del Me 262 y hablan del 18 de julio de 1942 como si fuera el “primer vuelo” absoluto del modelo. En realidad, el programa ya había tenido vuelos anteriores con motor de pistón en el morro y reactores aún no maduros. La relevancia específica del V3 radica en que fue el primer vuelo del Me 262 realizado exclusivamente con turborreactores. También existe alguna variación menor entre fuentes sobre la duración exacta del vuelo inaugural y sobre ciertos detalles secundarios del programa de prototipos, pero no sobre la fecha ni sobre el carácter puramente a reacción de este hito.</p>
@@ -114,9 +114,9 @@ Por eso, el 18 de julio de 1942 no recuerda simplemente un ensayo exitoso. Recue
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-14 09:11:21 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** RAF Air Power Review, material fotográfico técnico de This Day in Aviation  
-- **Fuentes secundarias de contraste:** Wikipedia (EN), Smithsonian Magazine, The National Interest, WW2DB, borrador preliminar del investigador  
+- **Fuentes secundarias de contraste:** Wikipedia (EN), Smithsonian Magazine, The National Interest, WW2DB
 - **Discrepancias resueltas:** se distinguió entre el primer vuelo absoluto del Me 262 en 1941 con motor de pistón y el primer vuelo puramente a reacción del V3 en 1942; se mantuvo la duración del vuelo como aproximada debido a pequeñas variaciones de resumen entre fuentes  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

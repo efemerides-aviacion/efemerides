@@ -118,14 +118,14 @@ Su legado trasciende el hecho técnico: Ríos simboliza la voluntad venezolana d
 
 <div class="references">
   <ul>
-    <li><a href="https://webdealta.info/?p=6755">Web de Altagracia – Hazaña del Cap. Manuel Ríos 15 abril 1921</a></li>
-    <li><a href="http://personajesdelorituco.blogspot.com/2006/04/manuel-simn-ros.html">Personajes del Orituco – Manuel Simón Ríos: primer vuelo solo 1921</a></li>
-    <li><a href="https://taimaboffil.wordpress.com/2011/01/12/6-de-enero-de-1897nace-manuel-rios-primer-piloto-venezolano-en-volar-solo-en-el-cie/">Taima Boffil – Nace Manuel Ríos, primer piloto venezolano en volar solo</a></li>
-    <li><a href="https://radio.otilca.org/manuel-rios-primer-piloto-venezolano-en-surcar-el-cielo-del-pais/">Radio Otilca – Manuel Ríos, primer piloto venezolano en surcar el cielo</a></li>
-    <li><a href="https://www.instagram.com/p/DFI7cRnyjuM/">Instagram – Manuel Ríos Hernández, piloto destacado 1921</a></li>
-    <li><a href="https://www.facebook.com/photo/?fbid=1310009014486529">Facebook Dirección Cultura Táchira – Efemérides: Nace Manuel Ríos</a></li>
-    <li><strong>Fuente primaria:</strong><a href="https://www.facebook.com/story.php?story_fbid=1425813954430990&id=100010071971769">Libreta de Vuelo del Capitán Manuel Simón Ríos Hernández (15 de abril de 1921)</a></li>
-    <li><strong>Fuente primaria:</strong><a href="https://www.facebook.com/story.php?story_fbid=388443471501382&id=100010071971769">Coronel (AV) José Luis Ochoa Vargas – "Historia fundacional" y "Personaje FAV – Capitán Piloto Manuel Simón Ríos Hernández"</a></li>
+    <li><a href="https://webdealta.info/?p=6755" style="color: #315fea; text-decoration: none;">Web de Altagracia – Hazaña del Cap. Manuel Ríos 15 abril 1921</a></li>
+    <li><a href="http://personajesdelorituco.blogspot.com/2006/04/manuel-simn-ros.html" style="color: #315fea; text-decoration: none;">Personajes del Orituco – Manuel Simón Ríos: primer vuelo solo 1921</a></li>
+    <li><a href="https://taimaboffil.wordpress.com/2011/01/12/6-de-enero-de-1897nace-manuel-rios-primer-piloto-venezolano-en-volar-solo-en-el-cie/" style="color: #315fea; text-decoration: none;">Taima Boffil – Nace Manuel Ríos, primer piloto venezolano en volar solo</a></li>
+    <li><a href="https://radio.otilca.org/manuel-rios-primer-piloto-venezolano-en-surcar-el-cielo-del-pais/" style="color: #315fea; text-decoration: none;">Radio Otilca – Manuel Ríos, primer piloto venezolano en surcar el cielo</a></li>
+    <li><a href="https://www.instagram.com/p/DFI7cRnyjuM/" style="color: #315fea; text-decoration: none;">Instagram – Manuel Ríos Hernández, piloto destacado 1921</a></li>
+    <li><a href="https://www.facebook.com/photo/?fbid=1310009014486529" style="color: #315fea; text-decoration: none;">Facebook Dirección Cultura Táchira – Efemérides: Nace Manuel Ríos</a></li>
+    <li><strong>Fuente primaria:</strong><a href="https://www.facebook.com/story.php?story_fbid=1425813954430990&id=100010071971769" style="color: #315fea; text-decoration: none;">Libreta de Vuelo del Capitán Manuel Simón Ríos Hernández (15 de abril de 1921)</a></li>
+    <li><strong>Fuente primaria:</strong><a href="https://www.facebook.com/story.php?story_fbid=388443471501382&id=100010071971769" style="color: #315fea; text-decoration: none;">Coronel (AV) José Luis Ochoa Vargas – "Historia fundacional" y "Personaje FAV – Capitán Piloto Manuel Simón Ríos Hernández"</a></li>
     <li><strong>Fuente primaria:</strong> "Memoria y Cuenta del Ministerio de Guerra y Marina al 31 de diciembre de 1921"</li>
     <li><strong>Fuente secundaria:</strong> "Historia Comparada de la Aviación Militar Venezolana (1920-1947)" – Coronel Alfonso Littuma Arízaga y Licenciada Gregoria Caraballo Guzmán. Ediciones Históricas FAV. Caracas 1992.</li>
   </ul>
@@ -135,7 +135,7 @@ Su legado trasciende el hecho técnico: Ríos simboliza la voluntad venezolana d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-14 11:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Libreta de Vuelo original del Capitán Manuel Simón Ríos Hernández, Coronel (AV) José Luis Ochoa Vargas, "Memoria y Cuenta del Ministerio de Guerra y Marina al 31 de diciembre de 1921"
 - **Discrepancias resueltas:** La fecha del primer vuelo en solitario ha sido corregida de 14 a 15 de abril de 1921, basándose en la evidencia documental de la libreta de vuelo del piloto, citada por el coronel José Luis Ochoa Vargas. Se ha añadido información sobre el cadete Juan Yepes, quien también voló solo el mismo día.
 - **Nivel de confianza:** Alto (con fuentes primarias documentales)

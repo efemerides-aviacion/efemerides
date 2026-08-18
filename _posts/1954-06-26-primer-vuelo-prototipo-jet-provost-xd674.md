@@ -128,17 +128,17 @@ Hoy en día, varios Jet Provost continúan volando como propiedad privada, y el 
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Hunting_Jet_Provost">Wikipedia (EN) – Hunting Jet Provost</a></li>
-    <li><a href="https://es.m.wikipedia.org/wiki/Hunting_Jet_Provost">Wikipedia (ES) – Hunting Jet Provost</a></li>
-    <li><a href="https://www.arcairforum.com/Gal16/15401-15500/gal15446-Jet%20Provost-Rafael/00.shtm">ARC Air Forum  – 1/48 Fly Jet Provost T.Mk.52</a></li>
-    <li><a href="https://m.aerialvisuals.ca/AirframeDossier.php?Serial=57500">Aerial Visuals – Airframe Dossier of XD674</a></li>
-    <li><a href="https://www.hmdb.org/m.asp?m=118215">The Historical Marker Database – BAC/Hunting Jet Provost</a></li>
-    <li><a href="https://aviationsmilitaires.net/v3/kb/aircraft/show/8866/north-american-t-2d">Aviations Militaires – North American T-2D</a></li>
-    <li><a href="https://steemit.com/spanish/@crisangel/jet-provost-t-52-or-coleccion-aeronautica-9a494dacba508">Steemit – Jet Provost T.52 | Colección Aeronáutica</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Hunting_Jet_Provost" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Hunting Jet Provost</a></li>
+    <li><a href="https://es.m.wikipedia.org/wiki/Hunting_Jet_Provost" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Hunting Jet Provost</a></li>
+    <li><a href="https://www.arcairforum.com/Gal16/15401-15500/gal15446-Jet%20Provost-Rafael/00.shtm" style="color: #315fea; text-decoration: none;">ARC Air Forum  – 1/48 Fly Jet Provost T.Mk.52</a></li>
+    <li><a href="https://m.aerialvisuals.ca/AirframeDossier.php?Serial=57500" style="color: #315fea; text-decoration: none;">Aerial Visuals – Airframe Dossier of XD674</a></li>
+    <li><a href="https://www.hmdb.org/m.asp?m=118215" style="color: #315fea; text-decoration: none;">The Historical Marker Database – BAC/Hunting Jet Provost</a></li>
+    <li><a href="https://aviationsmilitaires.net/v3/kb/aircraft/show/8866/north-american-t-2d" style="color: #315fea; text-decoration: none;">Aviations Militaires – North American T-2D</a></li>
+    <li><a href="https://steemit.com/spanish/@crisangel/jet-provost-t-52-or-coleccion-aeronautica-9a494dacba508" style="color: #315fea; text-decoration: none;">Steemit – Jet Provost T.52 | Colección Aeronáutica</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El primer vuelo del prototipo XD674 se produjo el <strong>26 de junio de 1954</strong> desde el aeropuerto de Luton, pilotado por Dick Wheldon. El 19 de febrero de 1955 voló el primer Jet Provost T.1 de preserie. La RAF aceptó formalmente el tipo en 1957, y el primer modelo de producción en serie, el T.3, entró en servicio en junio de 1959. El prototipo original se conserva en el Royal Air Force Museum de Cosford. Venezuela recibió 15 unidades del modelo T.52 en 1962, siendo el primer entrenador a reacción de la FAV.</p>
@@ -148,7 +148,7 @@ Hoy en día, varios Jet Provost continúan volando como propiedad privada, y el 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-22 15:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), Aerial Visuals, Historical Marker Database
 - **Discrepancias resueltas:** Se ha verificado la fecha del primer vuelo (26 de junio de 1954) en múltiples fuentes. Se ha confirmado que el piloto fue Dick Wheldon. Se ha aclarado la diferencia entre las 201 unidades del T.3 y el total de 676 operadas por la RAF. 
 - **Nivel de confianza:** Alto

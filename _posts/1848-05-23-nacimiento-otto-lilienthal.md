@@ -110,14 +110,14 @@ El legado de Otto Lilienthal perdura en numerosas instituciones y lugares conmem
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.britannica.com/biography/Otto-Lilienthal">Britannica – Otto Lilienthal</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Otto_Lilienthal">Wikipedia en español – Otto Lilienthal</a></li>
-    <li><a href="https://www.atlasobscura.com/places/fliegeberg">Atlas Obscura – Montaña Voladora (Fliegeberg)</a></li>
-    <li><a href="https://www.dlr.de/en/latest/news/2016/20160530_lilienthal-glider-meets-a380_17971">Centro Aeroespacial Alemán – El planeador de Lilienthal se encuentra con el A380</a></li>
-    <li><a href="https://de.wikipedia.org/wiki/Fliegeberg">Wikipedia en alemán – Montaña Voladora</a></li>
-    <li><a href="https://www.gedenktafeln-in-berlin.de/gedenktafeln/detail/fliegeberg/2815">Placas conmemorativas de Berlín – Otto y Gustav Lilienthal</a></li>
-    <li><a href="https://de.wikipedia.org/wiki/Maih%C3%B6he-Rhinow-Apparat">Wikipedia en alemán – Aparato Maihöhe-Rhinow</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Lilienthal_Normalsegelapparat">Wikipedia en inglés – Aparato de vuelo normal de Lilienthal</a></li>
+    <li><a href="https://www.britannica.com/biography/Otto-Lilienthal" style="color: #315fea; text-decoration: none;">Britannica – Otto Lilienthal</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Otto_Lilienthal" style="color: #315fea; text-decoration: none;">Wikipedia en español – Otto Lilienthal</a></li>
+    <li><a href="https://www.atlasobscura.com/places/fliegeberg" style="color: #315fea; text-decoration: none;">Atlas Obscura – Montaña Voladora (Fliegeberg)</a></li>
+    <li><a href="https://www.dlr.de/en/latest/news/2016/20160530_lilienthal-glider-meets-a380_17971" style="color: #315fea; text-decoration: none;">Centro Aeroespacial Alemán – El planeador de Lilienthal se encuentra con el A380</a></li>
+    <li><a href="https://de.wikipedia.org/wiki/Fliegeberg" style="color: #315fea; text-decoration: none;">Wikipedia en alemán – Montaña Voladora</a></li>
+    <li><a href="https://www.gedenktafeln-in-berlin.de/gedenktafeln/detail/fliegeberg/2815" style="color: #315fea; text-decoration: none;">Placas conmemorativas de Berlín – Otto y Gustav Lilienthal</a></li>
+    <li><a href="https://de.wikipedia.org/wiki/Maih%C3%B6he-Rhinow-Apparat" style="color: #315fea; text-decoration: none;">Wikipedia en alemán – Aparato Maihöhe-Rhinow</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lilienthal_Normalsegelapparat" style="color: #315fea; text-decoration: none;">Wikipedia en inglés – Aparato de vuelo normal de Lilienthal</a></li>
   </ul>
 </div>
 
@@ -134,7 +134,7 @@ El legado de Otto Lilienthal perdura en numerosas instituciones y lugares conmem
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-05-20 21:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Britannica, Wikipedia (ES/DE/EN), Centro Aeroespacial Alemán (DLR), Atlas Obscura, Placas conmemorativas de Berlín
 - **Discrepancias resueltas:** Se ha verificado la fecha exacta de nacimiento (23 de mayo de 1848) en fuentes primarias. Se ha confirmado la existencia de la Montaña Voladora como colina artificial de 15 metros construida por Lilienthal en 1894. Se ha documentado el "Aparato de vuelo normal" como el primer aeroplano producido en serie.
 - **Nivel de confianza:** Alto (múltiples fuentes independientes coinciden en fechas, lugares y logros técnicos)

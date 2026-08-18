@@ -65,7 +65,7 @@ image: 1955-06-17-primer-vuelo-tupolev-tu-104-primer-avion-jet-exitoso.webp
 
 ## Contexto Histórico
 
-A principios de la década de 1950, Aeroflot —la aerolínea estatal soviética— necesitaba urgentemente un avión moderno que superara a los aparatos de hélice existentes en rutas de larga distancia. El de Havilland Comet británico, pionero de los reactores comerciales, se había visto forzado a retirarse en 1954 debido a accidentes causados por fatiga de metal (puede consultar la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1954/01/10/descompresion-explosiva-comet-boac.html">efeméride del accidente del Comet de BOAC</a>).
+A principios de la década de 1950, Aeroflot —la aerolínea estatal soviética— necesitaba urgentemente un avión moderno que superara a los aparatos de hélice existentes en rutas de larga distancia. El de Havilland Comet británico, pionero de los reactores comerciales, se había visto forzado a retirarse en 1954 debido a accidentes causados por fatiga de metal (puede consultar la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1954/01/10/descompresion-explosiva-comet-boac.html" style="color: #315fea; text-decoration: none;">efeméride del accidente del Comet de BOAC</a>).
 
 ### Entorno social
 
@@ -134,16 +134,16 @@ Hoy, varios ejemplares del Tu-104 se conservan en museos de aviación en Rusia y
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Tupolev_Tu-104">Wikipedia (EN) – Tupolev Tu-104</a></li>
-    <li><a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%83-104">Wikipedia (RU) – Ту-104</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/T%C3%BApolev_Tu-104">Wikipedia (ES) – Túpolev Tu-104</a></li>
-    <li><a href="https://aerohispanoblog.wordpress.com/2013/10/12/el-reactor-que-vino-del-frio-tupolev-tu-104/">AeroHispanoBlog – El reactor que vino del frío: Tupolev Tu-104</a></li>
-    <li><a href="https://www.globalsecurity.org/military/world/russia/tu-104.htm">GlobalSecurity – Tu-104 (Camel)</a></li>
-    <li><a href="https://web.archive.org/web/19970616182455/http://www.tsagi.rssi.ru/">TsAGI – Russian Aviation Research</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Tupolev_Tu-104" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Tupolev Tu-104</a></li>
+    <li><a href="https://ru.wikipedia.org/wiki/%D0%A2%D1%83-104" style="color: #315fea; text-decoration: none;">Wikipedia (RU) – Ту-104</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/T%C3%BApolev_Tu-104" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Túpolev Tu-104</a></li>
+    <li><a href="https://aerohispanoblog.wordpress.com/2013/10/12/el-reactor-que-vino-del-frio-tupolev-tu-104/" style="color: #315fea; text-decoration: none;">AeroHispanoBlog – El reactor que vino del frío: Tupolev Tu-104</a></li>
+    <li><a href="https://www.globalsecurity.org/military/world/russia/tu-104.htm" style="color: #315fea; text-decoration: none;">GlobalSecurity – Tu-104 (Camel)</a></li>
+    <li><a href="https://web.archive.org/web/19970616182455/http://www.tsagi.rssi.ru/" style="color: #315fea; text-decoration: none;">TsAGI – Russian Aviation Research</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El Tu-104 no fue el primer avión a reacción comercial en volar —esa distinción corresponde al de Havilland Comet (1949). Sin embargo, el Comet sufrió una crisis catastrófica entre 1954 y 1958 debido a fallos estructurales, mientras que el Tu-104 se convirtió en el primer reactor comercial en ofrecer un servicio regular y sostenido. Entre 1956 y 1958 fue el único avión a reacción en servicio regular de pasajeros en todo el mundo. El prototipo realizó su primer vuelo el 17 de junio de 1955, y el primer vuelo comercial fue el 15 de septiembre de 1956 en la ruta Moscú – Irkutsk vía Omsk.</p>
@@ -153,7 +153,7 @@ Hoy, varios ejemplares del Tu-104 se conservan en museos de aviación en Rusia y
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-13 10:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN, RU, ES), AeroHispanoBlog, GlobalSecurity, TsAGI
 - **Discrepancias resueltas:** Algunas fuentes indican que el primer vuelo fue el 17 de junio de 1955; otras mencionan el mismo día. La distancia de aterrizaje con paracaídas de frenado varía según la fuente (300-400 metros), pero el orden de magnitud es consistente. La cifra de unidades construidas varía entre 201 y 207; se ha optado por 201 por ser la más respaldada.
 - **Nivel de confianza:** Alto

@@ -14,14 +14,14 @@ image: 1960-12-16-colision-twa266-united826.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1960-12-16-colision-twa266-united826.jpg" alt="Rutas de vuelo de TWA 266 y United 826 antes de la colisión">
   <figcaption class="post-caption">Rutas de vuelo de las dos aeronaves involucradas en la colisión, el 16 de diciembre de 1960. En naranja la ruta del Vuelo 826 de United Airlines, y en amarillo la ruta del Vuelo 266 de TWA. (Fuente: Informe CAB/NTSB). Traducida al español por quien publica.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 16 de diciembre de 1960, un Lockheed L-1049 Super Constellation de TWA y un Douglas DC-8 de United Airlines colisionaron en pleno vuelo sobre Staten Island, Nueva York. El accidente, que dejó 134 víctimas, reveló las limitaciones del control de tráfico aéreo de la época y condujo a reformas decisivas en la regulación y modernización del sistema ATC en Estados Unidos.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
 - **Fecha:** 16 de diciembre de 1960  
@@ -33,7 +33,7 @@ image: 1960-12-16-colision-twa266-united826.jpg
 - **Total de víctimas:** 134  
 - **Resultado inmediato:** Colisión aérea más mortífera en EE.UU. hasta ese momento  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 A comienzos de los años 60, el tráfico aéreo en Nueva York crecía rápidamente con la introducción de aviones a reacción. El sistema ATC dependía de radiofaros y procedimientos manuales, lo que generaba riesgos en condiciones de baja visibilidad y espacio aéreo congestionado.
@@ -62,28 +62,28 @@ La tragedia, con víctimas en tierra y un único superviviente inicial (Stephen 
 ### Legado
 El accidente es recordado como un punto de inflexión en la seguridad aérea. La FAA lo cita como catalizador del sistema moderno de control de tráfico aéreo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.ntsb.gov/investigations/AccidentReports/reports/AAR6117.pdf">Council of Aeronautics Board – Aircraft Accident Report (1961)</a></li>
-    <li><a href="https://www.faa.gov/documentlibrary/media/order/faa_order_8020.11d.pdf">FAA Historical Archives – Post-Accident ATC Changes (1960–1962)</a></li>
-    <li><a href="https://www.revistavanityfair.es/">Vanity Fair – The Anatomy of a Crash (50º aniversario)</a></li>
-    <li><a href="https://www.faa.gov/newsroom/faa-safety-briefing-magazine">FAA Safety Briefing – Modernization of the NAS after 1960 Collision</a></li>
+    <li><a href="https://www.ntsb.gov/investigations/AccidentReports/reports/AAR6117.pdf" style="color: #315fea; text-decoration: none;">Council of Aeronautics Board – Aircraft Accident Report (1961)</a></li>
+    <li><a href="https://www.faa.gov/documentlibrary/media/order/faa_order_8020.11d.pdf" style="color: #315fea; text-decoration: none;">FAA Historical Archives – Post-Accident ATC Changes (1960–1962)</a></li>
+    <li><a href="https://www.revistavanityfair.es/" style="color: #315fea; text-decoration: none;">Vanity Fair – The Anatomy of a Crash (50º aniversario)</a></li>
+    <li><a href="https://www.faa.gov/newsroom/faa-safety-briefing-magazine" style="color: #315fea; text-decoration: none;">FAA Safety Briefing – Modernization of the NAS after 1960 Collision</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La matrícula de ambas aeronaves y el número de víctimas fueron confirmados en el informe oficial del CAB/NTSB. Algunas variaciones iniciales en la prensa fueron corregidas con datos oficiales.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2025-12-14 14:59 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Informe CAB/NTSB, Archivos FAA  
 - **Discrepancias resueltas:** Matrículas y número exacto de víctimas en tierra.  
 - **Nivel de confianza:** Alto  

@@ -74,21 +74,21 @@ El V-22 Osprey es el primer tiltrotor de producción del mundo y el único en se
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.flightglobal.com/helicopters/pictures-30-years-since-bell-boeing-v-22-ospreys-first-flight/131907.article">FlightGlobal – 30 years since Bell Boeing V-22 Osprey's first flight (19 Mar 1989)</a></li>
-    <li><a href="https://www.europeanairshows.co.uk/aviation-anniversaries/march/v-22-osprey-first-flight">European Airshows – March 19 / V-22 Osprey First Flight (Arlington, Texas, 1989)</a></li>
-    <li><a href="https://www.youtube.com/watch?v=HB7neDe-MfM">YouTube – V-22 Osprey Maiden Flight on the 19th of March 1989</a></li>
-    <li><a href="https://www.youtube.com/watch?v=M6Ca-NsEE7k">YouTube Vertical Flight Society – V-22 First Flight (Bell V-22 Osprey, 1989)</a></li>
-    <li><a href="https://x.com/BoeingDefense/status/711227893121155072">X (Boeing Defense) – OTD 1989: Boeing/Bell V-22 Osprey 1st flight</a></li>
-    <li><a href="https://www.instagram.com/p/DHY-KroJFPI/">Instagram – On this day in aviation history: 19 Mar 1989, first flight Bell/Boeing V-22 Osprey</a></li>
-    <li><a href="https://gate.fandom.com/wiki/V-22_Osprey">Gate Wiki – V-22 Osprey (notas históricas del primer vuelo en 1989)</a></li>
-    <li><a href="https://dspace-erf.nlr.nl/bitstreams/956484c2-f42f-48bc-8396-3173d94da825/download">ERF – “V-22 Flight Test Update” – Philip J. Dunford (informe técnico del programa de ensayos)</a></li>
-    <li><a href="https://www.afotec.af.mil/News/New-Stories/Article/431143/the-long-road-afotecs-two-plus-decades-of-v-22-involvement/">USAF AFOTEC – The Long Road: AFOTEC's Two-Plus Decades of V-22 Involvement</a></li>
+    <li><a href="https://www.flightglobal.com/helicopters/pictures-30-years-since-bell-boeing-v-22-ospreys-first-flight/131907.article" style="color: #315fea; text-decoration: none;">FlightGlobal – 30 years since Bell Boeing V-22 Osprey's first flight (19 Mar 1989)</a></li>
+    <li><a href="https://www.europeanairshows.co.uk/aviation-anniversaries/march/v-22-osprey-first-flight" style="color: #315fea; text-decoration: none;">European Airshows – March 19 / V-22 Osprey First Flight (Arlington, Texas, 1989)</a></li>
+    <li><a href="https://www.youtube.com/watch?v=HB7neDe-MfM" style="color: #315fea; text-decoration: none;">YouTube – V-22 Osprey Maiden Flight on the 19th of March 1989</a></li>
+    <li><a href="https://www.youtube.com/watch?v=M6Ca-NsEE7k" style="color: #315fea; text-decoration: none;">YouTube Vertical Flight Society – V-22 First Flight (Bell V-22 Osprey, 1989)</a></li>
+    <li><a href="https://x.com/BoeingDefense/status/711227893121155072" style="color: #315fea; text-decoration: none;">X (Boeing Defense) – OTD 1989: Boeing/Bell V-22 Osprey 1st flight</a></li>
+    <li><a href="https://www.instagram.com/p/DHY-KroJFPI/" style="color: #315fea; text-decoration: none;">Instagram – On this day in aviation history: 19 Mar 1989, first flight Bell/Boeing V-22 Osprey</a></li>
+    <li><a href="https://gate.fandom.com/wiki/V-22_Osprey" style="color: #315fea; text-decoration: none;">Gate Wiki – V-22 Osprey (notas históricas del primer vuelo en 1989)</a></li>
+    <li><a href="https://dspace-erf.nlr.nl/bitstreams/956484c2-f42f-48bc-8396-3173d94da825/download" style="color: #315fea; text-decoration: none;">ERF – “V-22 Flight Test Update” – Philip J. Dunford (informe técnico del programa de ensayos)</a></li>
+    <li><a href="https://www.afotec.af.mil/News/New-Stories/Article/431143/the-long-road-afotecs-two-plus-decades-of-v-22-involvement/" style="color: #315fea; text-decoration: none;">USAF AFOTEC – The Long Road: AFOTEC's Two-Plus Decades of V-22 Involvement</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-17 10:15:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** FlightGlobal, European Airshows, Boeing Defense (X), Vertical Flight Society (YouTube), AFOTEC, ERF Technical Report  
 - **Discrepancias resueltas:** No se identificaron discrepancias significativas; todas las fuentes coinciden en la fecha y el lugar del primer vuelo.  
 - **Nivel de confianza:** Alto  

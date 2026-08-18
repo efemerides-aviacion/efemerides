@@ -122,14 +122,14 @@ El 4 de mayo de cada año, la Armada Argentina conmemora el "Día de la Aviació
 
 <div class="references">
   <ul>
-    <li><a href="https://www.argentina.gob.ar/noticias/4-de-mayo-dia-de-la-aviacion-naval-0">Argentina.gob.ar - 4 de mayo: Día de la Aviación Naval</a></li>
-    <li><a href="https://www.argentina.gob.ar/noticias/105-anos-de-la-creacion-de-la-aviacion-naval">Argentina.gob.ar - A 105 años de la creación de la Aviación Naval</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Hundimiento_del_HMS_Sheffield">Wikipedia - Hundimiento del HMS Sheffield</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/HMS_Sheffield_(D80)">Wikipedia (EN) - HMS Sheffield (D80)</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Aviaci%C3%B3n_Naval_(Argentina)">Wikipedia - Aviación Naval (Argentina)</a></li>
-    <li><a href="http://institutoaeronaval.com/historia-aviacion-naval/">Instituto Aeronaval - Historia de la Aviación Naval</a></li>
-    <li><a href="https://www.facebook.com/SSAFAOfficial/posts/on-4-may-1982-hms-sheffield-is-struck-amidships-by-an-argentine-exocet-anti-ship/10166773731670284/">SSAFA - HMS Sheffield attack (4 May 1982)</a></li>
-    <li><a href="https://www.facebook.com/malvinasune/posts/dia-de-la-aviaci%C3%B3n-navalhace-43-a%C3%B1os-el-4-de-mayo-de-1982-a-bordo-de-dos-aviones/1225893422232907/">Malvinas Una - Día de la Aviación Naval</a></li>
+    <li><a href="https://www.argentina.gob.ar/noticias/4-de-mayo-dia-de-la-aviacion-naval-0" style="color: #315fea; text-decoration: none;">Argentina.gob.ar - 4 de mayo: Día de la Aviación Naval</a></li>
+    <li><a href="https://www.argentina.gob.ar/noticias/105-anos-de-la-creacion-de-la-aviacion-naval" style="color: #315fea; text-decoration: none;">Argentina.gob.ar - A 105 años de la creación de la Aviación Naval</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Hundimiento_del_HMS_Sheffield" style="color: #315fea; text-decoration: none;">Wikipedia - Hundimiento del HMS Sheffield</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/HMS_Sheffield_(D80)" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - HMS Sheffield (D80)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Aviaci%C3%B3n_Naval_(Argentina)" style="color: #315fea; text-decoration: none;">Wikipedia - Aviación Naval (Argentina)</a></li>
+    <li><a href="http://institutoaeronaval.com/historia-aviacion-naval/" style="color: #315fea; text-decoration: none;">Instituto Aeronaval - Historia de la Aviación Naval</a></li>
+    <li><a href="https://www.facebook.com/SSAFAOfficial/posts/on-4-may-1982-hms-sheffield-is-struck-amidships-by-an-argentine-exocet-anti-ship/10166773731670284/" style="color: #315fea; text-decoration: none;">SSAFA - HMS Sheffield attack (4 May 1982)</a></li>
+    <li><a href="https://www.facebook.com/malvinasune/posts/dia-de-la-aviaci%C3%B3n-navalhace-43-a%C3%B1os-el-4-de-mayo-de-1982-a-bordo-de-dos-aviones/1225893422232907/" style="color: #315fea; text-decoration: none;">Malvinas Una - Día de la Aviación Naval</a></li>
   </ul>
 </div>
 
@@ -137,7 +137,7 @@ El 4 de mayo de cada año, la Armada Argentina conmemora el "Día de la Aviació
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-03 10:00:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Argentina.gob.ar, Wikipedia (ES/EN), Instituto Aeronaval, SSAFA
 - **Discrepancias resueltas:** Se aclara que la Aviación Naval Argentina fue fundada el 11 de febrero de 1916, no el 4 de mayo. El 4 de mayo es el "Día de la Aviación Naval", instituido en conmemoración del ataque al HMS Sheffield. El Sheffield se hundió el 10 de mayo de 1982, no el 4 de mayo.
 - **Nivel de confianza:** Alto

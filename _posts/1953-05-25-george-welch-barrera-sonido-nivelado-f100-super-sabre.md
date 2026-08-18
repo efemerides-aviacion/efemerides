@@ -126,18 +126,18 @@ George S. Welch es recordado como uno de los pilotos de pruebas más audaces y t
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/25-may-1953/">This Day in Aviation – 25 May 1953</a></li>
-    <li><a href="https://www.aftc.af.mil/About-Us/History/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2562762/may-25-1953-george-welch-took-north-americans-yf-100a-super-sabre-on-its-first-test-fli/">Air Force Test Center – On This Day in Test History (25 de mayo de 1953)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/George_Welch_(pilot)">Wikipedia – George Welch (pilot)</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/North_American_F-100_Super_Sabre">Wikipedia (ES) – North American F-100 Super Sabre</a></li>
-    <li><a href="https://nationalinterest.org/blog/buzz/f-100-super-sabre-was-air-forces-first-supersonic-jet-30767">The National Interest – The F-100 Super Sabre Was the Air Force's First Supersonic Jet</a></li>
-    <li><a href="https://www.aereimilitari.org/forum/topic/7586-us-air-forces-century-series/">Aerei Militari – US Air Force's Century Series</a></li>
-    <li><a href="https://tessa2.lapl.org/digital/collection/photos/id/67797/rec/25">Los Angeles Public Library – Pilot George Welch (fotografías históricas)</a></li>
-    <li><a href="https://sandiegoairandspace.org/exhibits/online-exhibit-page/north-american-f-100-development">San Diego Air & Space Museum – North American F-100 Development</a></li>
+    <li><a href="https://www.thisdayinaviation.com/25-may-1953/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 25 May 1953</a></li>
+    <li><a href="https://www.aftc.af.mil/About-Us/History/On-This-Day-in-Test-History/Article-Display-Test-History/Article/2562762/may-25-1953-george-welch-took-north-americans-yf-100a-super-sabre-on-its-first-test-fli/" style="color: #315fea; text-decoration: none;">Air Force Test Center – On This Day in Test History (25 de mayo de 1953)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/George_Welch_(pilot)" style="color: #315fea; text-decoration: none;">Wikipedia – George Welch (pilot)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/North_American_F-100_Super_Sabre" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – North American F-100 Super Sabre</a></li>
+    <li><a href="https://nationalinterest.org/blog/buzz/f-100-super-sabre-was-air-forces-first-supersonic-jet-30767" style="color: #315fea; text-decoration: none;">The National Interest – The F-100 Super Sabre Was the Air Force's First Supersonic Jet</a></li>
+    <li><a href="https://www.aereimilitari.org/forum/topic/7586-us-air-forces-century-series/" style="color: #315fea; text-decoration: none;">Aerei Militari – US Air Force's Century Series</a></li>
+    <li><a href="https://tessa2.lapl.org/digital/collection/photos/id/67797/rec/25" style="color: #315fea; text-decoration: none;">Los Angeles Public Library – Pilot George Welch (fotografías históricas)</a></li>
+    <li><a href="https://sandiegoairandspace.org/exhibits/online-exhibit-page/north-american-f-100-development" style="color: #315fea; text-decoration: none;">San Diego Air & Space Museum – North American F-100 Development</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
@@ -151,7 +151,7 @@ George S. Welch es recordado como uno de los pilotos de pruebas más audaces y t
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-05-22 18:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Air Force Test Center (.mil), Super Sabre Society, Wikipedia (EN/ES), The National Interest, San Diego Air & Space Museum, Los Angeles Public Library
 - **Discrepancias resueltas:** Confirmación de la velocidad exacta (Mach 1,1 según fuente oficial USAF) frente a variantes (Mach 1,04 o 1,05). Verificación de que el vuelo ocurrió el 25 de mayo de 1953 y que fue el primer avión en alcanzar velocidad supersónica en su vuelo inaugural.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y de archivo coinciden en los datos fundamentales)

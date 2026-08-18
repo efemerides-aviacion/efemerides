@@ -108,18 +108,18 @@ Su trayectoria también dejó una rareza histórica muy poco común: integrar ta
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.af.mil/About-Us/Biographies/Display/Article/106027/brigadier-general-robin-olds/">U.S. Air Force – Brigadier General Robin Olds</a></li>
-    <li><a href="https://web.archive.org/web/20070619043224/http://www.af.mil/news/story.asp?id=123057370">U.S. Air Force (archivado) – Legendary fighter pilot Robin Olds dies</a></li>
-    <li><a href="https://web.archive.org/web/20070619043224/http://www.af.mil/shared/media/document/AFD-070615-087.pdf">U.S. Air Force (archivado) – Brig. Gen. Robin Olds Official Aerial Victory Credits</a></li>
-    <li><a href="https://www.kunsan.af.mil/News/Article/413464/operation-bolo-the-wolf-pack-gets-its-name/">Kunsan Air Base – Operation Bolo: The Wolf Pack gets its name</a></li>
-    <li><a href="https://www.cfbhall.com/inductees/robin-olds-1985/">College Football Hall of Fame – Robin Olds</a></li>
-    <li><a href="https://www.airandspaceforces.com/article/0608olds/">Air & Space Forces Magazine – The Robin Olds Factor</a></li>
-    <li><a href="https://www.thisdayinaviation.com/14-july-1922/">This Day in Aviation – Brigadier General Robin Olds (14 July 1922–14 June 2007)</a></li>
-    <li><a href="https://www.legacy.com/us/obituaries/dayton/name/robin-olds-obituary?pid=89253369">Dayton Daily News / Legacy – Robin Olds Obituary</a></li>
+    <li><a href="https://www.af.mil/About-Us/Biographies/Display/Article/106027/brigadier-general-robin-olds/" style="color: #315fea; text-decoration: none;">U.S. Air Force – Brigadier General Robin Olds</a></li>
+    <li><a href="https://web.archive.org/web/20070619043224/http://www.af.mil/news/story.asp?id=123057370" style="color: #315fea; text-decoration: none;">U.S. Air Force (archivado) – Legendary fighter pilot Robin Olds dies</a></li>
+    <li><a href="https://web.archive.org/web/20070619043224/http://www.af.mil/shared/media/document/AFD-070615-087.pdf" style="color: #315fea; text-decoration: none;">U.S. Air Force (archivado) – Brig. Gen. Robin Olds Official Aerial Victory Credits</a></li>
+    <li><a href="https://www.kunsan.af.mil/News/Article/413464/operation-bolo-the-wolf-pack-gets-its-name/" style="color: #315fea; text-decoration: none;">Kunsan Air Base – Operation Bolo: The Wolf Pack gets its name</a></li>
+    <li><a href="https://www.cfbhall.com/inductees/robin-olds-1985/" style="color: #315fea; text-decoration: none;">College Football Hall of Fame – Robin Olds</a></li>
+    <li><a href="https://www.airandspaceforces.com/article/0608olds/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine – The Robin Olds Factor</a></li>
+    <li><a href="https://www.thisdayinaviation.com/14-july-1922/" style="color: #315fea; text-decoration: none;">This Day in Aviation – Brigadier General Robin Olds (14 July 1922–14 June 2007)</a></li>
+    <li><a href="https://www.legacy.com/us/obituaries/dayton/name/robin-olds-obituary?pid=89253369" style="color: #315fea; text-decoration: none;">Dayton Daily News / Legacy – Robin Olds Obituary</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una discrepancia menor entre fuentes sobre el total de victorias de Robin Olds. La biografía institucional vigente de la USAF reproduce una formulación de 17 aeronaves enemigas y 24,5 victorias totales, pero el listado oficial de créditos aéreos difundido por la propia Fuerza Aérea en 2007 enumera 16 derribos aéreos: 12 en la Segunda Guerra Mundial y 4 en Vietnam. En este post se adopta la cifra de 16 para su condición de triple as, mientras que el valor de 24,5 se entiende como balance ampliado que incluye destrucciones en tierra.</p>
@@ -128,9 +128,9 @@ Su trayectoria también dejó una rareza histórica muy poco común: integrar ta
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-10 09:05:00 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** U.S. Air Force, U.S. Air Force archival materials, Kunsan Air Base, College Football Hall of Fame  
-- **Fuentes secundarias de contraste:** Air & Space Forces Magazine, This Day in Aviation, Dayton Daily News / Legacy, Wikipedia EN, borrador preliminar del usuario  
+- **Fuentes secundarias de contraste:** Air & Space Forces Magazine, This Day in Aviation, Dayton Daily News / Legacy, Wikipedia EN
 - **Discrepancias resueltas:** se priorizó el listado oficial de créditos aéreos de la USAF de 2007 para fijar el total de 16 derribos aéreos, frente a formulaciones posteriores que mezclan victorias aéreas y destrucciones en tierra  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

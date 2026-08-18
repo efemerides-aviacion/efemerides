@@ -21,7 +21,7 @@ image: 1970-01-22-primer-vuelo-comercial-b747.webp
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados del Evento
+## Datos verificados del evento
 - **Fecha:** 22 de enero de 1970  
 - **Lugar:** Ruta Nueva York (JFK) – Londres Heathrow  
 - **Protagonistas:** Pan American World Airways  
@@ -61,21 +61,21 @@ El Boeing 747 es recordado como la “Reina de los Cielos”, protagonista de la
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_747">Wikipedia (EN) – Boeing 747</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Pan_Am">Wikipedia (EN) – Pan Am</a></li>
-    <li><a href="https://www.panam.org/global-era/747-flight-to-london-1970">Pan Am Historical Foundation – 747 to LHR 1970</a></li>
-    <li><a href="https://sites.northwestern.edu/747anniversary/">Northwestern University – 747 Anniversary: First Commercial Flight</a></li>
-    <li><a href="https://www.thisdayinaviation.com/22-january-1970-2/">This Day in Aviation – 22 January 1970</a></li>
-    <li><a href="https://www.airwaysmag.com/new-post/boeing-747-enters-revenue-service">1/22/1970: The Boeing 747 Enters Revenue Service</a></li>
-    <li><a href="https://www.airporthistory.org/blue-concourse/first-747-to-fra">Airport History – Scheduled Boeing 747 Service on JFK–Heathrow Route</a></li>
-    <li><a href="https://culturenow.org/site/a1407003-2a67-4e2c-ae35-75fa79392f16">CultureNow – Boeing 747 Jumbo Jet’s First Flight</a></li>
-    <li><a href="https://digitalcollections.library.miami.edu/digital/collection/asm0341/id/188194/">University of Miami Digital Collections – Pan Am Inaugural 747 Flight</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_747" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Boeing 747</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Pan_Am" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Pan Am</a></li>
+    <li><a href="https://www.panam.org/global-era/747-flight-to-london-1970" style="color: #315fea; text-decoration: none;">Pan Am Historical Foundation – 747 to LHR 1970</a></li>
+    <li><a href="https://sites.northwestern.edu/747anniversary/" style="color: #315fea; text-decoration: none;">Northwestern University – 747 Anniversary: First Commercial Flight</a></li>
+    <li><a href="https://www.thisdayinaviation.com/22-january-1970-2/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 22 January 1970</a></li>
+    <li><a href="https://www.airwaysmag.com/new-post/boeing-747-enters-revenue-service" style="color: #315fea; text-decoration: none;">1/22/1970: The Boeing 747 Enters Revenue Service</a></li>
+    <li><a href="https://www.airporthistory.org/blue-concourse/first-747-to-fra" style="color: #315fea; text-decoration: none;">Airport History – Scheduled Boeing 747 Service on JFK–Heathrow Route</a></li>
+    <li><a href="https://culturenow.org/site/a1407003-2a67-4e2c-ae35-75fa79392f16" style="color: #315fea; text-decoration: none;">CultureNow – Boeing 747 Jumbo Jet’s First Flight</a></li>
+    <li><a href="https://digitalcollections.library.miami.edu/digital/collection/asm0341/id/188194/" style="color: #315fea; text-decoration: none;">University of Miami Digital Collections – Pan Am Inaugural 747 Flight</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-20 16:15:00 UTC  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Pan Am Historical Foundation; Wikipedia; Northwestern University; This Day in Aviation; Airways; Airport History; CultureNow; University of Miami Digital Collections  
 - **Discrepancias resueltas:** Confirmación de fecha exacta (22 de enero tras retraso del 21), matrícula del avión (N736PA) y cifra exacta de pasajeros (332 + 17 tripulantes = 349).  
 - **Nivel de confianza:** Alto  

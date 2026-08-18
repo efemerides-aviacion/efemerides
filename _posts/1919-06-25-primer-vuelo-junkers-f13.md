@@ -164,18 +164,18 @@ En 2021, un equipo de entusiastas completó la construcción de una réplica vol
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/tag/junkers-f-13/">This Day in Aviation – Junkers F.13 (25 de junio de 1919)</a></li>
-    <li><a href="https://hugo.junkers.de/blog/flugzeuge/junkers-f-13/">Junkers – Junkers F 13 (Historia y especificaciones)</a></li>
-    <li><a href="https://webarchiveweb.wayback.bac-lac.canada.ca/web/20051215000000/http://en.wikipedia.org/wiki/Junkers_F.13">Wikipedia (Archivado) – Junkers F.13</a></li>
-    <li><a href="https://wayback.qa-archive-it.org/all/20091118153647/http://en.wikipedia.org/wiki/Junkers_F_13">Wikipedia (Archivado QA) – Junkers F.13</a></li>
-    <li><a href="https://fly-news.es/aviacion-comercial/historia-aviacion/100-anos-del-junkers-f13/">Fly News – 100 años del Junkers F13</a></li>
-    <li><a href="https://postalmuseum.si.edu/exhibition/nacimiento-de-una-industria-aeronave-fallida/jl-6">Smithsonian National Postal Museum – JL-6 (versión estadounidense)</a></li>
-    <li><a href="https://hugo.junkers.de/blog/deutsches-museum-wuerdigt-hugo-junkers-lebenswerk/">Deutsches Museum – 100 años de la Junkers F 13</a></li>
-    <li><a href="https://www.pbs.org/wgbh/nova/concorde/inno-nf.html">PBS – Junkers F 13 (avión innovador)</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/junkers-f-13/" style="color: #315fea; text-decoration: none;">This Day in Aviation – Junkers F.13 (25 de junio de 1919)</a></li>
+    <li><a href="https://hugo.junkers.de/blog/flugzeuge/junkers-f-13/" style="color: #315fea; text-decoration: none;">Junkers – Junkers F 13 (Historia y especificaciones)</a></li>
+    <li><a href="https://webarchiveweb.wayback.bac-lac.canada.ca/web/20051215000000/http://en.wikipedia.org/wiki/Junkers_F.13" style="color: #315fea; text-decoration: none;">Wikipedia (Archivado) – Junkers F.13</a></li>
+    <li><a href="https://wayback.qa-archive-it.org/all/20091118153647/http://en.wikipedia.org/wiki/Junkers_F_13" style="color: #315fea; text-decoration: none;">Wikipedia (Archivado QA) – Junkers F.13</a></li>
+    <li><a href="https://fly-news.es/aviacion-comercial/historia-aviacion/100-anos-del-junkers-f13/" style="color: #315fea; text-decoration: none;">Fly News – 100 años del Junkers F13</a></li>
+    <li><a href="https://postalmuseum.si.edu/exhibition/nacimiento-de-una-industria-aeronave-fallida/jl-6" style="color: #315fea; text-decoration: none;">Smithsonian National Postal Museum – JL-6 (versión estadounidense)</a></li>
+    <li><a href="https://hugo.junkers.de/blog/deutsches-museum-wuerdigt-hugo-junkers-lebenswerk/" style="color: #315fea; text-decoration: none;">Deutsches Museum – 100 años de la Junkers F 13</a></li>
+    <li><a href="https://www.pbs.org/wgbh/nova/concorde/inno-nf.html" style="color: #315fea; text-decoration: none;">PBS – Junkers F 13 (avión innovador)</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El avión fue diseñado inicialmente como <strong>Junkers J 13</strong>, pero la designación comercial fue <strong>F.13</strong> (F = Flugzeug, "avión" en alemán). El primer prototipo, con matrícula D 183, fue bautizado como <strong>"Herta"</strong> en honor a la hija mayor de Hugo Junkers. El segundo prototipo, con número de serie anterior (c/n 531), recibió el nombre de <strong>"Annelise"</strong> en honor a otra de sus hijas. El primer vuelo se realizó el 25 de junio de 1919. El récord de altitud del 13 de septiembre de 1919 (6.750 m) fue una hazaña notable, pero no fue homologado por la FAI porque Alemania no era miembro.</p>
@@ -185,7 +185,7 @@ En 2021, un equipo de entusiastas completó la construcción de una réplica vol
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-06-20 15:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** This Day in Aviation, Junkers, Fly News, Smithsonian National Postal Museum, Deutsches Museum, PBS, Wikipedia (Archivado)
 - **Discrepancias resueltas:** El número de producción total varía entre 322 y 332 según las fuentes; se ha adoptado la cifra de 332 de This Day in Aviation. El nombre del primer prototipo era "Herta" (no "Annelise"), según la misma fuente. Se ha corregido en consecuencia.
 - **Nivel de confianza:** Alto

@@ -12,7 +12,7 @@ image: 1838-07-08-nacimiento-ferdinand-von-zeppelin.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1838-07-08-nacimiento-ferdinand-von-zeppelin.webp" alt="Retrato de Ferdinand von Zeppelin">
-  <figcaption class="post-caption">Retrato de Ferdinand von Zeppelin, militar e inventor alemán cuyo apellido acabaría convirtiéndose en sinónimo de dirigible rígido en todo el mundo. Fuente: <a href="https://es.wikipedia.org/wiki/Ferdinand_von_Zeppelin">Wikipedia en español</a>, a partir de Wikimedia Commons.</figcaption>
+  <figcaption class="post-caption">Retrato de Ferdinand von Zeppelin, militar e inventor alemán cuyo apellido acabaría convirtiéndose en sinónimo de dirigible rígido en todo el mundo. Fuente: <a href="https://es.wikipedia.org/wiki/Ferdinand_von_Zeppelin" style="color: #315fea; text-decoration: none;">Wikipedia en español</a>, a partir de Wikimedia Commons.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -91,19 +91,19 @@ Además, su apellido se convirtió en un término universal. Pocas figuras técn
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Ferdinand_von_Zeppelin">Wikipedia (ES) – Ferdinand von Zeppelin</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Ferdinand_von_Zeppelin">Wikipedia (EN) – Ferdinand von Zeppelin</a></li>
-    <li><a href="https://www.britannica.com/biography/Ferdinand-Graf-von-Zeppelin">Britannica – Ferdinand, Graf von Zeppelin</a></li>
-    <li><a href="https://www.wikiwand.com/es/Ferdinand_von_Zeppelin">Wikiwand – Ferdinand von Zeppelin</a></li>
-    <li><a href="https://www.zeppelin-museum.de/en/exhibitions/the-count-1838-1917">Zeppelin Museum – The Count 1838–1917</a></li>
-    <li><a href="https://www.zeppelin.com/de/en/about-us/history-of-zeppelin/">Zeppelin – History of the Zeppelin Group</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Ferdinand_von_Zeppelin" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Ferdinand von Zeppelin</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Ferdinand_von_Zeppelin" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Ferdinand von Zeppelin</a></li>
+    <li><a href="https://www.britannica.com/biography/Ferdinand-Graf-von-Zeppelin" style="color: #315fea; text-decoration: none;">Britannica – Ferdinand, Graf von Zeppelin</a></li>
+    <li><a href="https://www.wikiwand.com/es/Ferdinand_von_Zeppelin" style="color: #315fea; text-decoration: none;">Wikiwand – Ferdinand von Zeppelin</a></li>
+    <li><a href="https://www.zeppelin-museum.de/en/exhibitions/the-count-1838-1917" style="color: #315fea; text-decoration: none;">Zeppelin Museum – The Count 1838–1917</a></li>
+    <li><a href="https://www.zeppelin.com/de/en/about-us/history-of-zeppelin/" style="color: #315fea; text-decoration: none;">Zeppelin – History of the Zeppelin Group</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Esta efeméride se refiere exclusivamente al nacimiento de Ferdinand von Zeppelin como inventor y promotor del dirigible rígido. No debe confundirse con DELAG (Deutsche Luftschiffahrts-Aktiengesellschaft), empresa fundada en 1909 que operó vuelos comerciales regulares con dirigibles Zeppelin y es considerada la primera aerolínea del mundo. Aunque ambos hitos están históricamente relacionados, corresponden a entidades y momentos distintos.</p>
@@ -112,7 +112,7 @@ Además, su apellido se convirtió en un término universal. Pocas figuras técn
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-04 08:32:22 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Britannica, Zeppelin Museum, Zeppelin Group  
 - **Fuentes secundarias de contraste:** Wikipedia (ES/EN), Wikiwand  
 - **Discrepancias resueltas:** Se armonizó el lugar de nacimiento como Constanza, Gran Ducado de Baden, hoy Alemania; el lugar de fallecimiento se expresa como Charlottenburg, cerca de Berlín, conforme a Britannica y Wikipedia  

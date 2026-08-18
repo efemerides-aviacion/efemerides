@@ -16,14 +16,14 @@ image: 2002-07-04-steve-fossett-vuelta-mundo-globo.webp
   <figcaption class="post-caption">Steve Fossett en la barquilla del globo Spirit of Freedom, con el que completó la primera vuelta al mundo en solitario en globo aerostático el 4 de julio de 2002; fuente: Mark Wilson/Getty Images / Infobae.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de julio de 2002, el millonario y aventurero estadounidense Steve Fossett hizo historia al completar la primera circunnavegación del globo en solitario y sin escalas a bordo de su globo aerostático «Spirit of Freedom». Tras despegar el 19 de junio de 2002 desde Northam, Australia Occidental, y verse demorado por más de veinticuatro horas en su aterrizaje debido a fuertes vientos en el desierto, Fossett tocó tierra al amanecer en una remota hacienda ganadera en Queensland, Australia. Este hito monumental, alcanzado en su sexto intento tras una travesía de 32.963 kilómetros (20.385 millas) completada en catorce días y diecinueve horas, consagró a Fossett en los anales de la aeronáutica mundial al lograr una de las últimas grandes fronteras de la exploración aérea.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Lugar exacto del aterrizaje:** Rancho ganadero de Durham Station, cerca de la localidad de Birdsville, en el desierto de Queensland, Australia
@@ -35,7 +35,7 @@ image: 2002-07-04-steve-fossett-vuelta-mundo-globo.webp
 - **Récords mundiales establecidos en ruta:** Máxima velocidad registrada de hasta 322 km/h (204 mph), altitud máxima de 10.580 metros (34.700 pies) y un récord de velocidad en 24 horas de 3.186,80 millas
 - **Operación de rescate y arrastre final:** Tras tocar tierra, los vientos del desierto arrastraron la góndola durante veinte minutos, obligando a Fossett a desinflar y destruir por completo la envoltura para poder salir
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
@@ -79,31 +79,31 @@ El globo «Spirit of Freedom» y su piloto Steve Fossett permanecen en la memori
 - **Inspiración para la exploración de planeadores:** Sus investigaciones conjuntas con Einar Enevoldson en el proyecto Perlan para volar planeadores en la estratosfera abrieron una nueva senda de desarrollo científico para el estudio del deshielo polar y el agujero de ozono.
 - **La memoria del \"Scout\" de la aviación:** Tras su trágica muerte en un accidente aéreo en la Sierra Nevada en 2007, Fossett fue de lo más recordado mundialmente por su lema de vida *«Always Scouting for New Adventures»* (Siempre buscando nuevas aventuras) y sus conmemoraciones en Chicago.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Spirit_of_Freedom_(balloon)">Wikipedia (EN) – General overview of the Spirit of Freedom balloon and flight</a></li>
-    <li><a href="https://www.abc.com.py/edicion-impresa/internacionales/steve-fossett-completa-solitaria-travesia-por-el-mundo-en-globo-652931.html">ABC Color (PY) – Steve Fossett completa solitaria travesía por el mundo en globo</a></li>
-    <li><a href="https://www.eballoon.org/flights/first-around-the-world-solo.html">eBalloon.org – Famous Balloon Flights: First Successful Solo Around the World Flight</a></li>
-    <li><a href="https://www.laprensa.com.ar/Steve-Fossett-539963.note.aspx">Diario La Prensa (AR) – Steve Fossett: El legado de un pionero de la exploración aérea</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Spirit_of_Freedom_(balloon)" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – General overview of the Spirit of Freedom balloon and flight</a></li>
+    <li><a href="https://www.abc.com.py/edicion-impresa/internacionales/steve-fossett-completa-solitaria-travesia-por-el-mundo-en-globo-652931.html" style="color: #315fea; text-decoration: none;">ABC Color (PY) – Steve Fossett completa solitaria travesía por el mundo en globo</a></li>
+    <li><a href="https://www.eballoon.org/flights/first-around-the-world-solo.html" style="color: #315fea; text-decoration: none;">eBalloon.org – Famous Balloon Flights: First Successful Solo Around the World Flight</a></li>
+    <li><a href="https://www.laprensa.com.ar/Steve-Fossett-539963.note.aspx" style="color: #315fea; text-decoration: none;">Diario La Prensa (AR) – Steve Fossett: El legado de un pionero de la exploración aérea</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una aparente discrepancia de fechas en algunos registros de prensa respecto al día en que Steve Fossett completó su circunnavegación. Históricamente, Fossett cruzó el meridiano de inicio el <strong>2 de julio de 2002</strong> (completando la vuelta al mundo en el aire), lo que correspondía al 3 de julio en el horario de los Estados Unidos. Sin embargo, debido a que las fuertes ráfagas de viento sobre el desierto australiano impidieron un aterrizaje seguro inmediato, el amerizaje final de la cápsula en Queensland no ocurrió sino hasta el amanecer del <strong>4 de julio de 2002</strong>, la fecha oficial bajo la cual se conmemora el fin de esta histórica travesía.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);" />
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación de exploración presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-06-23 23:59:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Archivos oficiales del National Air and Space Museum (Smithsonian), bitácoras de control de la misión de la Universidad de Washington en San Luis de julio de 2002, informes de récords de la Fédération Aéronautique Internationale (FAI) y el diario oficial de vuelo de la cápsula Spirit of Freedom
 - **Discrepancias resueltas:** Se ha de forma rigurosa aclarado la diferencia entre la fecha de la circunnavegación aérea formal (2 de julio de 2002, al cruzarse el meridiano 117° Este) y la fecha del aterrizaje final (4 de julio de 2002 en Queensland), resolviendo la confusión de los despachos periodísticos internacionales que mezclaban los husos horarios de Australia y de los Estados Unidos. Asimismo, se unificó la distancia total registrada oficialmente en 32.963 kilómetros (20.385 millas).
 - **Nivel de confianza:** Alto

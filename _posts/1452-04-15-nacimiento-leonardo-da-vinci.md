@@ -12,7 +12,7 @@ image: 1452-04-15-nacimiento-leonardo-da-vinci.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1452-04-15-nacimiento-leonardo-da-vinci.webp" alt="Retrato de Leonardo da Vinci y sus diseños de máquinas voladoras">
-  <figcaption class="post-caption">Retrato de Leonardo da Vinci (15 de abril de 1452-2 de mayo de 1519), pintor italiano del Renacimiento, anatomista, arquitecto, artista, botánico, científico, escultor, escritor, filósofo, ingeniero, inventor, músico, poeta y urbanista. Fuente: <a href="https://www.meisterdrucke.es/impresion-art%C3%ADstica/Unknown-artist/933700/Retrato-de-Leonardo-da-Vinci-(1452-1519),-pintor-italiano.html">Retrato de Leonardo da Vinci (1452-1519), pintor italiano</a>.</figcaption>
+  <figcaption class="post-caption">Retrato de Leonardo da Vinci (15 de abril de 1452-2 de mayo de 1519), pintor italiano del Renacimiento, anatomista, arquitecto, artista, botánico, científico, escultor, escritor, filósofo, ingeniero, inventor, músico, poeta y urbanista. Fuente: <a href="https://www.meisterdrucke.es/impresion-art%C3%ADstica/Unknown-artist/933700/Retrato-de-Leonardo-da-Vinci-(1452-1519),-pintor-italiano.html" style="color: #315fea; text-decoration: none;">Retrato de Leonardo da Vinci (1452-1519), pintor italiano</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -136,17 +136,17 @@ Leonardo da Vinci es, sin duda, el **primer visionario aeronáutico de la histor
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Codex_on_the_Flight_of_Birds">Wikipedia – Codex on the Flight of Birds</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Leonardo%27s_aerial_screw">Wikipedia – Leonardo's aerial screw</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/History_of_aviation">Wikipedia – History of aviation (Renaissance section)</a></li>
-    <li><a href="https://www.museoscienza.org/en/leonardo-da-vinci/visions-flight">Museo Nazionale della Scienza e della Tecnologia – Visions of Flight</a></li>
-    <li><a href="https://theconversation.com/leonardo-da-vincis-helicopter-15th-century-flight-of-fancy-led-to-modern-aeronautics-116241">The Conversation – Leonardo da Vinci's helicopter: 15th-century flight of fancy led to modern aeronautics</a></li>
-    <li><a href="https://www.historyhit.com/leonardo-da-vincis-most-important-inventions/">History Hit – 10 of Leonardo da Vinci's Most Important Inventions</a></li>
-    <li><a href="https://blog.sciencemuseum.org.uk/remembering-leonardo-da-vinci/">Science Museum Blog – Remembering Leonardo da Vinci</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Codex_on_the_Flight_of_Birds" style="color: #315fea; text-decoration: none;">Wikipedia – Codex on the Flight of Birds</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Leonardo%27s_aerial_screw" style="color: #315fea; text-decoration: none;">Wikipedia – Leonardo's aerial screw</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/History_of_aviation" style="color: #315fea; text-decoration: none;">Wikipedia – History of aviation (Renaissance section)</a></li>
+    <li><a href="https://www.museoscienza.org/en/leonardo-da-vinci/visions-flight" style="color: #315fea; text-decoration: none;">Museo Nazionale della Scienza e della Tecnologia – Visions of Flight</a></li>
+    <li><a href="https://theconversation.com/leonardo-da-vincis-helicopter-15th-century-flight-of-fancy-led-to-modern-aeronautics-116241" style="color: #315fea; text-decoration: none;">The Conversation – Leonardo da Vinci's helicopter: 15th-century flight of fancy led to modern aeronautics</a></li>
+    <li><a href="https://www.historyhit.com/leonardo-da-vincis-most-important-inventions/" style="color: #315fea; text-decoration: none;">History Hit – 10 of Leonardo da Vinci's Most Important Inventions</a></li>
+    <li><a href="https://blog.sciencemuseum.org.uk/remembering-leonardo-da-vinci/" style="color: #315fea; text-decoration: none;">Science Museum Blog – Remembering Leonardo da Vinci</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La fecha exacta del nacimiento de Leonardo (15 de abril de 1452) está bien documentada en fuentes históricas. El "tornillo aéreo" se encuentra en el folio 83-verso del Manuscrito B de París, fechado entre 1487 y 1490. Se ha priorizado la información del <em>Códex sobre el Vuelo de las Aves</em> (1505-1506) por ser la más madura y relevante para la aviación. La historia del intento de vuelo en Monte Ceceri en 1505 es considerada probablemente apócrifa por los historiadores modernos, por lo que se ha señalado como tal.</p>
@@ -156,7 +156,7 @@ Leonardo da Vinci es, sin duda, el **primer visionario aeronáutico de la histor
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-12 11:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Library of Congress (WDL), National Air and Space Museum (Smithsonian), Wikipedia (múltiples artículos), The Conversation, History Hit, Science Museum Blog
 - **Discrepancias resueltas:** La fecha exacta de algunos bocetos varía entre fuentes (1485-1490 vs. 1489). Se ha optado por el rango más amplio y documentado (1485-1490 para los primeros diseños). Se ha clarificado el estatus legendario del intento de vuelo de 1505.
 - **Nivel de confianza:** Alto

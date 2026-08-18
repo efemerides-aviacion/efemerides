@@ -12,7 +12,7 @@ image: 1917-07-05-primer-vuelo-fokker-dr1-baron-rojo.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1917-07-05-primer-vuelo-fokker-dr1-baron-rojo.webp" alt="El prototipo Fokker F.1 102/17, antecedente del Fokker Dr.I">
-  <figcaption class="post-caption">El Fokker F.1 102/17, prototipo del célebre triplano que daría origen al Fokker Dr.I, fotografiado frente a su hangar en Alemania; realizó su primer vuelo el 5 de julio de 1917 y más tarde sería inmortalizado por el «Barón Rojo». Fuente: <a href="https://www.thisdayinaviation.com/tag/fokker-dr-i-dreidecker/">This Day in Aviation</a>.</figcaption>
+  <figcaption class="post-caption">El Fokker F.1 102/17, prototipo del célebre triplano que daría origen al Fokker Dr.I, fotografiado frente a su hangar en Alemania; realizó su primer vuelo el 5 de julio de 1917 y más tarde sería inmortalizado por el «Barón Rojo». Fuente: <a href="https://www.thisdayinaviation.com/tag/fokker-dr-i-dreidecker/" style="color: #315fea; text-decoration: none;">This Day in Aviation</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -87,19 +87,19 @@ En la historiografía de la Primera Guerra Mundial, el Dr.I representa la fase f
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/5-july-1917/">This Day in Aviation – 5 July 1917</a></li>
-    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-fokker-dr-i.html">Vintage Aviation News – Today in Aviation History: First Flight of the Fokker Dr.I</a></li>
-    <li><a href="https://www.fokker-history.com/en-gb/dr-1">Fokker History – Fokker DR.I (English version)</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197402/fokker-dr-i/">National Museum of the United States Air Force – Fokker Dr. I</a></li>
-    <li><a href="https://www.wikiwand.com/es/Fokker_Dr.I">Wikiwand – Fokker Dr.I</a></li>
-    <li><a href="https://www.centennialofflight.net/essay/Air_Power/Fokker/AP7.htm">U.S. Centennial of Flight Commission – Fokker and His Aircraft</a></li>
+    <li><a href="https://www.thisdayinaviation.com/5-july-1917/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 5 July 1917</a></li>
+    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-fokker-dr-i.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News – Today in Aviation History: First Flight of the Fokker Dr.I</a></li>
+    <li><a href="https://www.fokker-history.com/en-gb/dr-1" style="color: #315fea; text-decoration: none;">Fokker History – Fokker DR.I (English version)</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197402/fokker-dr-i/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force – Fokker Dr. I</a></li>
+    <li><a href="https://www.wikiwand.com/es/Fokker_Dr.I" style="color: #315fea; text-decoration: none;">Wikiwand – Fokker Dr.I</a></li>
+    <li><a href="https://www.centennialofflight.net/essay/Air_Power/Fokker/AP7.htm" style="color: #315fea; text-decoration: none;">U.S. Centennial of Flight Commission – Fokker and His Aircraft</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una discrepancia historiográfica sobre la identificación exacta del aparato del primer vuelo: fuentes divulgativas como <em>This Day in Aviation</em> y <em>Vintage Aviation News</em> lo asocian al F.I 102/17, mientras que historias técnicas y compendios derivados de ellas distinguen al V.5/101/17 como prototipo de pruebas previo y reservan los seriales 102/17 y 103/17 para los F.I de preproducción. Por ello, el texto principal recoge ambas versiones y evita presentar como definitivo un dato sobre el que no hay consenso.</p>
@@ -108,7 +108,7 @@ En la historiografía de la Primera Guerra Mundial, el Dr.I representa la fase f
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-01 14:31:43 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Fokker History, National Museum of the United States Air Force  
 - **Fuentes secundarias de contraste:** This Day in Aviation, Vintage Aviation News, Wikiwand, U.S. Centennial of Flight Commission  
 - **Discrepancias resueltas:** Identificación del prototipo del primer vuelo tratada como discrepancia abierta entre 102/17 y V.5/101/17  

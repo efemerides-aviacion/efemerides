@@ -93,18 +93,18 @@ Por eso, el 18 de julio de 1970 recuerda no solo la pérdida de una aeronave sin
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://history.state.gov/historicaldocuments/frus1969-76ve10/d617">U.S. Department of State – Soviet Airlift to Peru</a></li>
-    <li><a href="https://aviation-safety.net/asndb/331073">Aviation Safety Network – Accident Antonov An-22 CCCP-09303, Saturday 18 July 1970</a></li>
-    <li><a href="https://www.baaa-acro.com/crash/crash-antonov-22-north-atlantic-ocean-23-killed">Bureau of Aircraft Accidents Archives – Crash of an Antonov AN-22 into the North Atlantic Ocean</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Antonov_An-22">Wikipedia (EN) – Antonov An-22</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/1970_Atlantic_Ocean_Antonov_An-22_crash">Wikipedia (EN) – 1970 Atlantic Ocean Antonov An-22 crash</a></li>
-    <li><a href="https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/past-operations/south-america/peru-1970.html">Government of Canada – Peru 1970</a></li>
-    <li><a href="http://www.testpilot.ru/russia/antonov/22/an22l_e.htm">Testpilot.ru – An-22 “Antheus” / Cock</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:Antonov_An-22_Antei,_Aeroflot_AN0193909.jpg">Wikimedia Commons – Antonov An-22 Antei, Aeroflot AN0193909</a></li>
+    <li><a href="https://history.state.gov/historicaldocuments/frus1969-76ve10/d617" style="color: #315fea; text-decoration: none;">U.S. Department of State – Soviet Airlift to Peru</a></li>
+    <li><a href="https://aviation-safety.net/asndb/331073" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Accident Antonov An-22 CCCP-09303, Saturday 18 July 1970</a></li>
+    <li><a href="https://www.baaa-acro.com/crash/crash-antonov-22-north-atlantic-ocean-23-killed" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives – Crash of an Antonov AN-22 into the North Atlantic Ocean</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Antonov_An-22" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Antonov An-22</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/1970_Atlantic_Ocean_Antonov_An-22_crash" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – 1970 Atlantic Ocean Antonov An-22 crash</a></li>
+    <li><a href="https://www.canada.ca/en/department-national-defence/services/military-history/history-heritage/past-operations/south-america/peru-1970.html" style="color: #315fea; text-decoration: none;">Government of Canada – Peru 1970</a></li>
+    <li><a href="http://www.testpilot.ru/russia/antonov/22/an22l_e.htm" style="color: #315fea; text-decoration: none;">Testpilot.ru – An-22 “Antheus” / Cock</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Antonov_An-22_Antei,_Aeroflot_AN0193909.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons – Antonov An-22 Antei, Aeroflot AN0193909</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes abiertas consultadas presentan discrepancias relevantes sobre varios detalles del accidente. La más importante afecta a la identidad exacta del aparato y al número de personas a bordo. Algunas bases de datos y resúmenes históricos identifican el avión como <strong>CCCP-09303</strong> con <strong>22 ocupantes</strong>, mientras otras lo registran con <strong>23 ocupantes</strong>. También existen diferencias de trazabilidad en ciertos registros especializados de producción del An-22. Del mismo modo, la escala transatlántica prevista aparece citada como Halifax o Gander según la fuente, sin alterar el hecho principal de que la aeronave desapareció tras despegar de Keflavík durante el vuelo humanitario hacia Perú.</p>
@@ -114,9 +114,9 @@ Por eso, el 18 de julio de 1970 recuerda no solo la pérdida de una aeronave sin
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-14 14:10:21 CST  
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** U.S. Department of State, Government of Canada, Wikimedia Commons  
-- **Fuentes secundarias de contraste:** Aviation Safety Network, Bureau of Aircraft Accidents Archives, Wikipedia (EN), Testpilot.ru, borrador preliminar del investigador  
+- **Fuentes secundarias de contraste:** Aviation Safety Network, Bureau of Aircraft Accidents Archives, Wikipedia (EN), Testpilot.ru
 - **Discrepancias resueltas:** se mantuvo una formulación cauta respecto a la matrícula exacta, la cifra total de ocupantes y la causa del accidente, debido a inconsistencias entre las fuentes abiertas disponibles  
 - **Nivel de confianza:** Medio  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

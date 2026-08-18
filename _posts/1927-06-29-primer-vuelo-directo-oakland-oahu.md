@@ -87,20 +87,20 @@ La hazaña de Maitland y Hegenberger permanece como uno de los hitos fundamental
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Referencias verificadas
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/858868/atlantic-fokker-c-2-bird-of-paradise/">National Museum of the United States Air Force – Atlantic-Fokker C-2 “Bird of Paradise”</a></li>
-    <li><a href="https://www.oaklandaviationmuseum.org/post/a-moment-in-history-flight-of-the-bird-of-paradise">Oakland Aviation Museum – A Moment in History: Flight of the Bird of Paradise</a></li>
-    <li><a href="https://timeandnavigation.si.edu/multimedia-asset/lester-maitland-and-albert-hegenberger">Smithsonian Time and Navigation – Lester Maitland and Albert Hegenberger</a></li>
-    <li><a href="https://www.airandspaceforces.com/chronology-1920-1929/">Air & Space Forces Magazine – Chronology: 1920-1929</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Bird_of_Paradise_(aircraft)">Wikipedia (EN) – Bird of Paradise (aircraft)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Lester_J._Maitland">Wikipedia (EN) – Lester J. Maitland</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Albert_Francis_Hegenberger">Wikipedia (EN) – Albert Francis Hegenberger</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/858868/atlantic-fokker-c-2-bird-of-paradise/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force – Atlantic-Fokker C-2 “Bird of Paradise”</a></li>
+    <li><a href="https://www.oaklandaviationmuseum.org/post/a-moment-in-history-flight-of-the-bird-of-paradise" style="color: #315fea; text-decoration: none;">Oakland Aviation Museum – A Moment in History: Flight of the Bird of Paradise</a></li>
+    <li><a href="https://timeandnavigation.si.edu/multimedia-asset/lester-maitland-and-albert-hegenberger" style="color: #315fea; text-decoration: none;">Smithsonian Time and Navigation – Lester Maitland and Albert Hegenberger</a></li>
+    <li><a href="https://www.airandspaceforces.com/chronology-1920-1929/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine – Chronology: 1920-1929</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Bird_of_Paradise_(aircraft)" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Bird of Paradise (aircraft)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lester_J._Maitland" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Lester J. Maitland</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Albert_Francis_Hegenberger" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Albert Francis Hegenberger</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La efeméride se sitúa el 29 de junio de 1927 porque ese día concluyó la travesía, aunque el despegue tuvo lugar el 28 de junio. Algunas fuentes contemporáneas se refieren a la organización como “Air Service, United States Army”, mientras que otras la denominan “United States Army Air Corps”; el vuelo ocurrió durante la transición de 1926-1927. En cuanto a la distancia, algunas fuentes redondean la cifra a 2.400 millas, mientras que otras la detallan como 2.407 millas (3.874 km); aquí se ha empleado la cifra más precisa, coherente con la ruta ortodrómica.</p>
@@ -109,7 +109,7 @@ La hazaña de Maitland y Hegenberger permanece como uno de los hitos fundamental
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-06-24 16:25 CST
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** National Museum of the U.S. Air Force, Oakland Aviation Museum, Smithsonian Time and Navigation, Air & Space Forces Magazine, Wikipedia (EN)
 - **Discrepancias resueltas:** Se eligió el 29 de junio como fecha de la efeméride; se aclaró la doble denominación institucional Air Service / Army Air Corps; se optó por la distancia de 2.407 millas (3.874 km).
 - **Nivel de confianza:** Alto

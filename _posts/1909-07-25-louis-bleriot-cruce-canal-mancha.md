@@ -15,7 +15,7 @@ image: 1909-07-25-louis-bleriot-cruce-canal-mancha.webp
   <figcaption class="post-caption">Louis Charles Joseph Blériot y su monoplano Type XI en Northfall Meadow, Dover, poco después de su llegada desde Francia a las 05:17 a. m. del 25 de julio de 1909. Fuente: <a href="https://www.thisdayinaviation.com/25-july-1909/screen-shot-2018-07-24-at-09-26-34/" style="color: #315fea; text-decoration: none;">Biblioteca del Congreso de los Estados Unidos / This Day in Aviation</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
@@ -23,7 +23,7 @@ image: 1909-07-25-louis-bleriot-cruce-canal-mancha.webp
 <p>Pilotando su monoplano de diseño propio Blériot XI, equipado con un motor Anzani de tres cilindros de 25 hp y una innovadora hélice de madera <em>Chauvière Intégrale</em>, Blériot conquistó el codiciado premio de £1.000 (libras esterlinas) ofrecido por el periódico británico <em>Daily Mail</em>. El histórico vuelo no solo demostró la viabilidad técnica de las travesías transoceánicas sin escalas, sino que transformó radicalmente la geopolítica mundial al anular la histórica insularidad defensiva de Gran Bretaña frente a los avances del poder aéreo.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha del vuelo:** 25 de julio de 1909 (despegue a las 04:41 a. m. hora francesa; aterrizaje a las 05:17 a. m. hora inglesa).
@@ -35,7 +35,7 @@ image: 1909-07-25-louis-bleriot-cruce-canal-mancha.webp
 - **Planta motriz:** Motor de tres cilindros en abanico Alessandro Anzani de 25 hp refrigerado por aire, equipado con hélice bipala de madera de nogal *Chauvière Intégrale*.
 - **Premio conquistado:** £1.000 (libras esterlinas) patrocinadas por el periódico londinense *Daily Mail*.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 El vuelo de Blériot se desarrolló en medio de una intensa competencia internacional entre inventores franceses y británicos durante la Belle Époque, marcada por el surgimiento de los primeros torneos y premios de aviación patrocinados por la prensa masiva.
@@ -49,7 +49,7 @@ Hacia 1909, la aviación mundial estaba dominada por los biplanos pesados impuls
 ### Entorno cultural
 La figura del aviador a principios del siglo XX encarnó el paradigma del héroe romántico e industrial. Pese a sufrir una severa quemadura en el pie producida por el tubo de escape durante pruebas previas que le obligaba a caminar con muletas, Blériot abordó la travesía con una determinación que cautivó la imaginación colectiva. Periódicos como *The Daily Express* reflejaron el hito con portadas históricas bajo el célebre titular: *"Britain is no longer an Island"* ("Gran Bretaña ya no es una isla").
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 La secuencia operativa de la histórica travesía del Canal de la Mancha enfrentó condiciones meteorológicas adversas y desafíos de navegación a ciegas sin instrumental a bordo.
@@ -63,21 +63,21 @@ La secuencia operativa de la histórica travesía del Canal de la Mancha enfrent
 - **25 de julio de 1909 (05:12 BST):** Avistamiento de la costa inglesa cerca de St. Margaret's Bay. El periodista francés Charles Fontaine agita una bandera tricolor en la ladera de Northfall Meadow para indicarle el punto de descenso protegido de las turbulencias de los acantilados.
 - **25 de julio de 1909 (05:17 BST):** Blériot corta la ignición a 20 metros de altura y realiza un brusco tocado de ruedas sobre el césped de Northfall Meadow. El choque destruye el tren de aterrizaje y rompe una pala de la hélice, pero el aviador resulta completamente ileso.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 El éxito de Louis Blériot transformó la aviación de un deporte de exhibición a una industria estratégica global de transporte y defensa. En las semanas posteriores al vuelo, la empresa *Blériot Aéronautique* recibió más de 100 pedidos comerciales del Blériot XI desde diversos países, consolidándolo como la primera aeronave fabricada en serie masiva en la historia.
 
 Asimismo, los ministerios de guerra europeos comprendieron de inmediato las implicaciones tácticas del vuelo transmarítimo. El Almirantazgo Británico reevaluó su estrategia de defensa costera, acelerando la creación de las primeras unidades aéreas de la Marina Real (*Royal Naval Air Service*) y del Real Cuerpo Aéreo (*Royal Flying Corps*).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 La hazaña del 25 de julio de 1909 es recordada como uno de los momentos cumbre del progreso científico del siglo XX. El gobierno francés condecoró a Blériot como Caballero de la Legión de Honor, y el avión original Blériot XI con el que cruzó el canal se conserva en exhibición permanente en el *Musée des Arts et Métiers* de París.
 
 En el lugar exacto del aterrizaje en Northfall Meadow, junto al Castillo de Dover, se erigió un monumento conmemorativo con la silueta en granito de la aeronave, recordando el punto geográfico donde la aviación unió los continentes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 - <a href="https://www.thisdayinaviation.com/25-july-1909/" style="color: #315fea; text-decoration: none;">This Day in Aviation: Reseña Fotográfica e Histórica del Vuelo de Louis Blériot (25 de julio de 1909)</a>
@@ -87,12 +87,12 @@ En el lugar exacto del aterrizaje en Northfall Meadow, junto al Castillo de Dove
   <p><strong>Nota aclaratoria:</strong> Louis Blériot realizó el vuelo del Canal de la Mancha sin contar con instrumental básico de navegación, como compás magnético o altímetro, guiándose exclusivamente por la posición del sol y el rumbo aparente del mar. Durante los minutos finales de la travesía, el motor Anzani comenzó a sobrecalentarse críticamente debido a su sistema de refrigeración por aire simple, siendo refrescado milagrosamente por una breve llovizna marina que redujo la temperatura de los cilindros antes del descenso final en Dover.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #315fea, #1031a1);">
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-20 08:33:00 America/Mexico_City
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Library of Congress (Prints and Photographs Division), Musée des Arts et Métiers (París), Daily Mail Archives (1909).
-- **Fuentes secundarias de contraste:** Flight International Archives, This Day in Aviation, Encyclopædia Britannica, borrador preliminar del investigador.
+- **Fuentes secundarias de contraste:** Flight International Archives, This Day in Aviation, Encyclopædia Britannica.
 - **Discrepancias resueltas:** Se estableció la hora exacta de despegue (04:41 BST) y aterrizaje (05:17 BST), se confirmó la potencia nominal del motor Anzani (25 hp) y se atribuyó el registro fotográfico oficial preserved en la Biblioteca del Congreso de los EE. UU.
 - **Nivel de confianza:** Alto.
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

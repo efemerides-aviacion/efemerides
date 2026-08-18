@@ -12,7 +12,7 @@ image: 1783-12-01-primer-vuelo-globo-hidrogeno.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1783-12-01-primer-vuelo-globo-hidrogeno.webp" alt="Jacques Charles y Nicolas-Louis Robert en el primer vuelo tripulado en globo de hidrógeno, París 1783">
-  <figcaption class="post-caption">El profesor Jacques Charles y Nicolas-Louis Robert realizan el primer vuelo tripulado en globo de hidrógeno del mundo el 1 de diciembre de 1783 en los Jardines de las Tullerías, en París. Fuente: La obra «Histoire de France», publicada hacia 1880 (grabado). <a href="https://www.meisterdrucke.es/impresion-art%C3%ADstica/French-School/938638/El-profesor-Jacques-Charles-y-Nicolas-Louis-Robert-vuelan-el-primer-globo-de-hidr%C3%B3geno-tripulado-del-mundo-el-1-de-diciembre-de-1783-en-los-Jardines-de-las-Tuller%C3%ADas,-Par%C3%ADs,-de-'Histoire-de-France',-publicado-c.1880.html">MeisterDrucke</a>.</figcaption>
+  <figcaption class="post-caption">El profesor Jacques Charles y Nicolas-Louis Robert realizan el primer vuelo tripulado en globo de hidrógeno del mundo el 1 de diciembre de 1783 en los Jardines de las Tullerías, en París. Fuente: La obra «Histoire de France», publicada hacia 1880 (grabado). <a href="https://www.meisterdrucke.es/impresion-art%C3%ADstica/French-School/938638/El-profesor-Jacques-Charles-y-Nicolas-Louis-Robert-vuelan-el-primer-globo-de-hidr%C3%B3geno-tripulado-del-mundo-el-1-de-diciembre-de-1783-en-los-Jardines-de-las-Tuller%C3%ADas,-Par%C3%ADs,-de-'Histoire-de-France',-publicado-c.1880.html" style="color: #315fea; text-decoration: none;">MeisterDrucke</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
@@ -118,13 +118,13 @@ El vuelo de Charles y Robert es considerado el nacimiento del globo de gas moder
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Jacques_Charles">Wikipedia (ES) – Jacques Charles</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Jacques_Charles">Wikipedia (EN) – Jacques Charles</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/History_of_ballooning">Wikipedia (EN) – History of ballooning</a></li>
-    <li><a href="https://historia.nationalgeographic.com.es/a/como-globo-aerostatico-conquisto-cielos-toda-europa_22699">National Geographic – Cómo el globo aerostático conquistó los cielos de toda Europa</a></li>
-    <li><a href="https://www.rtve.es/noticias/20110610/jacques-charles-inventor-del-globo-aerostatico/438880.shtml">RTVE – Jacques Charles, inventor del globo aerostático</a></li>
-    <li><a href="https://www.meisterdrucke.es/impresion-art%C3%ADstica/French-School/938638/El-profesor-Jacques-Charles-y-Nicolas-Louis-Robert-vuelan-el-primer-globo-de-hidr%C3%B3geno-tripulado-del-mundo-el-1-de-diciembre-de-1783-en-los-Jardines-de-las-Tuller%C3%ADas,-Par%C3%ADs,-de-'Histoire-de-France',-publicado-c.1880.html">MeisterDrucke – Grabado histórico del vuelo de Jacques Charles</a></li>
-    <li><a href="https://www.britannica.com/biography/Jacques-Charles">Encyclopaedia Britannica – Jacques Charles</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Jacques_Charles" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Jacques Charles</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Jacques_Charles" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Jacques Charles</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/History_of_ballooning" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – History of ballooning</a></li>
+    <li><a href="https://historia.nationalgeographic.com.es/a/como-globo-aerostatico-conquisto-cielos-toda-europa_22699" style="color: #315fea; text-decoration: none;">National Geographic – Cómo el globo aerostático conquistó los cielos de toda Europa</a></li>
+    <li><a href="https://www.rtve.es/noticias/20110610/jacques-charles-inventor-del-globo-aerostatico/438880.shtml" style="color: #315fea; text-decoration: none;">RTVE – Jacques Charles, inventor del globo aerostático</a></li>
+    <li><a href="https://www.meisterdrucke.es/impresion-art%C3%ADstica/French-School/938638/El-profesor-Jacques-Charles-y-Nicolas-Louis-Robert-vuelan-el-primer-globo-de-hidr%C3%B3geno-tripulado-del-mundo-el-1-de-diciembre-de-1783-en-los-Jardines-de-las-Tuller%C3%ADas,-Par%C3%ADs,-de-'Histoire-de-France',-publicado-c.1880.html" style="color: #315fea; text-decoration: none;">MeisterDrucke – Grabado histórico del vuelo de Jacques Charles</a></li>
+    <li><a href="https://www.britannica.com/biography/Jacques-Charles" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica – Jacques Charles</a></li>
   </ul>
 </div>
 
@@ -142,7 +142,7 @@ El vuelo de Charles y Robert es considerado el nacimiento del globo de gas moder
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-04-06 09:30:00 UTC
+- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), National Geographic, RTVE, MeisterDrucke, Encyclopaedia Britannica
 - **Discrepancias resueltas:**
   - Altitud del segundo ascenso: entre 3,000 y 3,500 metros según fuentes; se incluye el rango.
