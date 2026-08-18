@@ -104,7 +104,7 @@ La historia de Betty Lou Oliver, que sobrevivió a la caída de su ascensor desd
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> No se localizó una fotografía pública verificable del B-25D-20 matrícula 41-30577 antes del accidente. Por ello, se utiliza una imagen representativa de otro North American B-25 Mitchell y se identifica expresamente como aeronave similar, no como el avión siniestrado.</p>
+  <p><strong>Nota aclaratoria:</strong> La imagen que ilustra esta efeméride corresponde a otro North American B-25 Mitchell y se identifica expresamente como aeronave similar, no como el ejemplar siniestrado, matrícula 41-30577.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
