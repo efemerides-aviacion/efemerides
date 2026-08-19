@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "24 de agosto de 1932 | Amelia Earhart, primera mujer en cruzar Estados Unidos en vuelo solitario y sin escalas"
-date: 1932-08-24
+title: "25 de agosto de 1932 | Amelia Earhart, primera mujer en cruzar Estados Unidos en vuelo solitario y sin escalas"
+date: 1932-08-25
 categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: civil
-excerpt: "El 24 de agosto de 1932 Amelia Earhart despegó de Los Ángeles en su Lockheed Vega 5B y aterrizó al día siguiente en Newark, Nueva Jersey: primera mujer en unir ambas costas en solitario y sin escalas."
-image: 1932-08-24-amelia-earhart-vuelo-transcontinental-la-nj.webp
+excerpt: "El 25 de agosto de 1932 Amelia Earhart aterrizó en Newark, Nueva Jersey, tras 19 horas y 5 minutos desde Los Ángeles: primera mujer en unir ambas costas de Estados Unidos en solitario y sin escalas."
+image: 1932-08-25-amelia-earhart-vuelo-transcontinental-la-nj.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1932-08-24-amelia-earhart-vuelo-transcontinental-la-nj.webp" alt="Lockheed Vega 5B rojo NR7952 de Amelia Earhart, conservado en el Smithsonian">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1932-08-25-amelia-earhart-vuelo-transcontinental-la-nj.webp" alt="Lockheed Vega 5B rojo NR7952 de Amelia Earhart, conservado en el Smithsonian">
   <figcaption class="post-caption">El Lockheed Vega 5B NR7952 —el «Little Red Bus» con el que Amelia Earhart cruzó el Atlántico en mayo de 1932 y Estados Unidos el 24 y 25 de agosto de ese año—, fotografiado en el National Air and Space Museum. La imagen es del aparato conservado, no del aterrizaje en Newark. Fuente: <a href="https://airandspace.si.edu/collection-objects/lockheed-vega-5b-amelia-earhart/nasm_A19670093000" style="color: #315fea; text-decoration: none;">National Air and Space Museum</a>.</figcaption>
 </figure>
 
@@ -85,7 +85,7 @@ No batió la marca masculina de Hawks. Earhart lo dijo con claridad a la prensa:
 
 El NR7952 se vendió en 1933 al Franklin Institute de Filadelfia, cuando Earhart pasó a un Vega 5C. El Smithsonian lo adquirió en 1966. Hoy se exhibe en la galería de pioneros del National Air and Space Museum: el mismo aparato del Atlántico y del cruce de costa a costa.
 
-Noventa y cuatro años después, el 24 de agosto sigue siendo la fecha de partida de aquel vuelo. La marca de distancia femenina de 1932 quedó superada; el hecho que no se diluye es el primero: una mujer, sola, sin escalas, de un océano al otro de los Estados Unidos.
+Noventa y cuatro años después, el 25 de agosto es la fecha de culminación de aquel vuelo. La marca de distancia femenina de 1932 quedó superada; el hecho que no se diluye es el primero: una mujer, sola, sin escalas, de un océano al otro de los Estados Unidos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -104,14 +104,14 @@ Noventa y cuatro años después, el 24 de agosto sigue siendo la fecha de partid
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> El título y el archivo datan el hito el 24 de agosto, día del despegue. La FAI homologa el récord el 25, día del aterrizaje, y consigna el destino como Nueva York; el aterrizaje fue en Newark, Nueva Jersey. La distancia de la FAI y de la ficha del Smithsonian es 2.447 millas; un artículo del NASM escribe 2.477. Sobre el vuelo posterior de 17 horas y 7 minutos, el mismo artículo del museo lo sitúa «más tarde ese mismo año»; el recuento oficial de logros de Earhart y otras fuentes lo fechan el 7-8 de julio de 1933. Se adopta 1933. La fotografía del encabezado es el Vega conservado, no una toma del aterrizaje de 1932.</p>
+  <p><strong>Nota aclaratoria:</strong> El título y el archivo datan el hito el 25 de agosto, día del aterrizaje en Newark, que es también la fecha del expediente FAI 12342. El despegue fue la tarde del 24. La FAI consigna el destino como Nueva York; el aterrizaje fue en Newark, Nueva Jersey. La distancia de la FAI y de la ficha del Smithsonian es 2.447 millas; un artículo del NASM escribe 2.477. Sobre el vuelo posterior de 17 horas y 7 minutos, el mismo artículo del museo lo sitúa «más tarde ese mismo año»; el recuento oficial de logros de Earhart y otras fuentes lo fechan el 7-8 de julio de 1933. Se adopta 1933. La fotografía del encabezado es el Vega conservado, no una toma del aterrizaje de 1932.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-19 10:33:00 CST
+- **Timestamp de verificación:** 2026-08-19 16:10:00 CST
 - **Fuentes primarias/institucionales consultadas:** FAI, expediente 12342; Smithsonian Institution / National Air and Space Museum, ficha A19670093000 y artículo del 25 de agosto de 2016 (actualizado 2025).
 - **Fuentes secundarias de contraste:** This Day in Aviation; sitio oficial de logros de Amelia Earhart.
 - **Discrepancias resueltas:** destino FAI «New York» frente a Newark; 2.447 frente a 2.477 millas; «tarde» del 24 frente a las 19:26:54 PT; 17 h 7 min en 1932 (artículo NASM) frente a julio de 1933.

@@ -75,7 +75,7 @@ La figura de Earhart ya era conocida mundialmente desde 1928, cuando cruzó el A
 
 ## Legado
 
-El Lockheed Vega 5B de Earhart se exhibe en el Museo Nacional del Aire y el Espacio del Smithsonian en Washington D. C., como una de las aeronaves más importantes de la colección. Es la misma aeronave que ella pilotearía posteriormente en otros vuelos de récord, incluido el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/08/24/amelia-earhart-vuelo-transcontinental-la-nj.html" style="color: #315fea; text-decoration: none;">vuelo transcontinental solitario y sin escalas del 24-25 de agosto de 1932</a>, de Los Ángeles a Newark. El legado de Earhart trasciende la aviación: es un símbolo del coraje, la independencia femenina y la búsqueda incansable de los límites humanos. Cada 21 de mayo se recuerda este vuelo como el momento en que una mujer reclamó su lugar en la historia de la aviación, no como pasajera, sino como piloto.
+El Lockheed Vega 5B de Earhart se exhibe en el Museo Nacional del Aire y el Espacio del Smithsonian en Washington D. C., como una de las aeronaves más importantes de la colección. Es la misma aeronave que ella pilotearía posteriormente en otros vuelos de récord, incluido el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/08/25/amelia-earhart-vuelo-transcontinental-la-nj.html" style="color: #315fea; text-decoration: none;">vuelo transcontinental solitario y sin escalas del 24-25 de agosto de 1932</a>, de Los Ángeles a Newark. El legado de Earhart trasciende la aviación: es un símbolo del coraje, la independencia femenina y la búsqueda incansable de los límites humanos. Cada 21 de mayo se recuerda este vuelo como el momento en que una mujer reclamó su lugar en la historia de la aviación, no como pasajera, sino como piloto.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -97,7 +97,7 @@ El Lockheed Vega 5B de Earhart se exhibe en el Museo Nacional del Aire y el Espa
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-19 11:08:00 CST  
+- **Timestamp de verificación:** 2026-08-19 16:10:00 CST  
 - **Fuentes primarias consultadas:** Smithsonian NASM (colección y artículo editorial), Wikipedia (ES), Biografías y Vidas, RTVE
 - **Discrepancias resueltas:** Confirmación de la duración del vuelo (14h 56min) frente a fuentes que redondean a 15h. Verificado el lugar exacto de aterrizaje (Culmore, cerca de Derry) y no la ciudad de París como plan original.
 - **Nivel de confianza:** Alto
