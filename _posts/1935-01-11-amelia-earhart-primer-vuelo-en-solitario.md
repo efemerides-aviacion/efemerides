@@ -119,6 +119,8 @@ Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviaci
 
 - **20 de mayo – 21 de mayo de 1932:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/05/21/amelia-earhart-primera-mujer-cruza-atlantico.html" style="color: #315fea; text-decoration: none;">Primer vuelo en solitario de una mujer a través del Atlántico (Newfoundland → Irlanda)</a>, por el que recibió la Distinguished Flying Cross del Congreso de EE.UU.
 
+- **24-25 de agosto de 1932:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/08/24/amelia-earhart-vuelo-transcontinental-la-nj.html" style="color: #315fea; text-decoration: none;">Primer vuelo solitario y sin escalas de una mujer de costa a costa</a> (Los Ángeles → Newark), 19 horas y 5 minutos, en el Vega NR7952.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
@@ -149,7 +151,7 @@ Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviaci
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-08-19 11:08:00 CST  
 - **Fuentes primarias consultadas:** Smithsonian National Air and Space Museum, Hawaii Aviation History (Archivo Oficial del Estado), Amelia Earhart Official Biography, Wikipedia (EN/ES), National Geographic, History.com
 - **Discrepancias resueltas:**
   - Distancia del vuelo: 2.408 millas según el registro oficial de la NAA; algunas fuentes citan 2.400 millas redondeadas.
