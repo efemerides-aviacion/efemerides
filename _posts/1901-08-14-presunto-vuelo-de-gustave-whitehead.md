@@ -86,14 +86,15 @@ Ciento veinticinco años después, Whitehead sigue siendo el «primero» de Conn
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Gustave_Whitehead">Wikipedia (EN) - Gustave Whitehead</a></li>
-    <li><a href="https://airandspace.si.edu/stories/editorial/flight-claims-gustave-whitehead">National Air and Space Museum - Debunking Gustave Whitehead's Claim of Flying First, por Tom Crouch</a></li>
-        <li><a href="https://www.aopa.org/news-and-media/all-news/2013/march/20/who-flew-first">AOPA - Who flew first? The Wright answer undergoes a challenge, por Dan Namowitz (20 de marzo de 2013)</a></li>
-    <li>Borrador preliminar del investigador, con la relación de declaraciones juradas, la crónica del Bridgeport Sunday Herald y la cobertura periodística de 1901</li>
+    <li><a href="https://en.wikipedia.org/wiki/Gustave_Whitehead" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Gustave Whitehead</a></li>
+    <li><a href="https://airandspace.si.edu/stories/editorial/flight-claims-gustave-whitehead" style="color: #315fea; text-decoration: none;">National Air and Space Museum - Debunking Gustave Whitehead's Claim of Flying First, por Tom Crouch</a></li>
+        <li><a href="https://www.aopa.org/news-and-media/all-news/2013/march/20/who-flew-first" style="color: #315fea; text-decoration: none;">AOPA - Who flew first? The Wright answer undergoes a challenge, por Dan Namowitz (20 de marzo de 2013)</a></li>
+    <li><a href="https://www.scientificamerican.com/article/scientific-american-debunks-claim-gustave-whitehead-was-first-in-flight/" style="color: #315fea; text-decoration: none;">Daniel C. Schlenoff, «Scientific American Debunks Claim Gustave Whitehead Was “First in Flight”», Scientific American</a></li>
+    <li><a href="https://www.ctpublic.org/arts-and-culture/2015-05-05/david-mccullough-no-evidence-connecticuts-gustave-whitehead-was-first-in-flight" style="color: #315fea; text-decoration: none;">«David McCullough: No Evidence Connecticut’s Gustave Whitehead Was First in Flight», Connecticut Public</a></li>
   </ul>
 </div>
 
-<hr>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> esta efeméride conmemora la publicación de la reclamación de 1901 y la controversia que la acompaña, no un vuelo tenido por probado. La historiografía mayoritaria —Smithsonian, FAI y la mayor parte de los historiadores de la aviación— mantiene a los hermanos Wright como autores del primer vuelo sostenido y controlado de un aparato más pesado que el aire, el 17 de diciembre de 1903; el veredicto sobre Whitehead sigue siendo «no probado».</p>
@@ -104,7 +105,7 @@ Ciento veinticinco años después, Whitehead sigue siendo el «primero» de Conn
 ## Metadatos de Control
 
 - **Timestamp de verificación:** 2026-08-09 15:54:30 CST
-- **Fuentes primarias consultadas:** Wikipedia (EN), National Air and Space Museum (editorial de Tom Crouch), borrador preliminar del investigador
+- **Fuentes primarias consultadas:** Wikipedia (EN), National Air and Space Museum (editorial de Tom Crouch)
 - **Discrepancias resueltas:** la divergencia central —Connecticut y Jane's (2013) frente a Smithsonian, FAI y la historiografía mayoritaria— no se resuelve a favor de ninguna: se presenta la reclamación como reclamación y se consigna el veredicto «no probado» en nota aclaratoria. El número de declaraciones juradas varía entre fuentes (más de diez, trece, veinte testigos entrevistados); se redactó sin cifra cerrada.
 - **Nivel de confianza:** Alto para la existencia de la reclamación y de la controversia; <strong>insuficiente para el vuelo como hecho</strong>.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

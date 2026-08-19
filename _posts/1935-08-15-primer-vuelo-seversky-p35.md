@@ -89,10 +89,11 @@ Noventa y un años después de su primer vuelo, el P-35 se recuerda como el caza
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Seversky_P-35">Wikipedia (EN) - Seversky P-35</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196315/seversky-p-35/">National Museum of the United States Air Force - Seversky P-35 Fact Sheet</a></li>
-    <li><a href="https://www.afterburner.com.pl/15-august-1935-maiden-flight-of-seversky-p-35/">Afterburner - 15 August 1935, maiden flight of Seversky P-35</a></li>
-    <li>Borrador preliminar del investigador, con la historia operacional en Filipinas, Suecia y Ecuador y las versiones civiles de récords</li>
+    <li><a href="https://en.wikipedia.org/wiki/Seversky_P-35" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Seversky P-35</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196315/seversky-p-35/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force - Seversky P-35 Fact Sheet</a></li>
+    <li><a href="https://www.afterburner.com.pl/15-august-1935-maiden-flight-of-seversky-p-35/" style="color: #315fea; text-decoration: none;">Afterburner - 15 August 1935, maiden flight of Seversky P-35</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Alexander_de_Seversky" style="color: #315fea; text-decoration: none;">«Alexander de Seversky», Wikipedia en inglés: trayectoria del diseñador y desarrollo de la familia SEV</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/seversky-p-35/" style="color: #315fea; text-decoration: none;">«Seversky P-35», This Day in Aviation: cronología del prototipo, el aterrizaje forzoso de mayo de 1935 y los récords posteriores</a></li>
   </ul>
 </div>
 
@@ -102,7 +103,7 @@ Noventa y un años después de su primer vuelo, el P-35 se recuerda como el caza
 
 - **Timestamp de verificación:** 2026-08-11 06:08:03 CST
 - **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force
-- **Fuentes secundarias de contraste:** Wikipedia (EN), Afterburner, borrador preliminar del investigador
+- **Fuentes secundarias de contraste:** Wikipedia (EN), Afterburner
 - **Discrepancias resueltas:** el número total de ejemplares figura como 196 en Wikipedia y 177 en el recuento de Commons; se redacta «196 ejemplares contando exportaciones y derivados», cifra de Wikipedia. La velocidad máxima medida en evaluación (289 mph) y la prometida (300 mph) se consignan como contraste entre lo esperado y lo obtenido.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

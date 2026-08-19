@@ -91,10 +91,12 @@ Ciento cuatro años después de su nacimiento, Bob Hoover sigue siendo el piloto
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Bob_Hoover">Wikipedia (EN) - Bob Hoover</a></li>
-    <li><a href="https://airandspace.si.edu/stories/editorial/remembering-robert-bob-hoover">National Air and Space Museum - Remembering Robert A. “Bob” Hoover</a></li>
-    <li><a href="https://nationalaviation.org/enshrinee/robert-bob-hoover/">National Aviation Hall of Fame - Robert “Bob” Hoover</a></li>
-    <li>Borrador preliminar del investigador, con la relación de honores y la cronología de la fuga del Stalag Luft 1</li>
+    <li><a href="https://en.wikipedia.org/wiki/Bob_Hoover" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Bob Hoover</a></li>
+    <li><a href="https://airandspace.si.edu/stories/editorial/remembering-robert-bob-hoover" style="color: #315fea; text-decoration: none;">National Air and Space Museum - Remembering Robert A. “Bob” Hoover</a></li>
+    <li><a href="https://nationalaviation.org/enshrinee/robert-bob-hoover/" style="color: #315fea; text-decoration: none;">National Aviation Hall of Fame - Robert “Bob” Hoover</a></li>
+    <li><a href="https://www.historynet.com/the-pilots-pilot/" style="color: #315fea; text-decoration: none;">Don Hollway, «Bob Hoover: Remembering the Pilots’ Pilot», HistoryNet, 27 de octubre de 2016</a></li>
+    <li><a href="https://www.smithsonianmag.com/air-space-magazine/r-bob-hoover-dies-94-180960903/" style="color: #315fea; text-decoration: none;">«R.A. “Bob” Hoover Dies at 94», Air &amp; Space Magazine, Smithsonian</a></li>
+    <li><a href="https://www.aopa.org/news-and-media/all-news/2016/november/19/aviation-glitterati-remember-bob-hoover" style="color: #315fea; text-decoration: none;">Thomas B. Haines, «Aviation glitterati remember Bob Hoover», AOPA, 19 de noviembre de 2016</a></li>
   </ul>
 </div>
 
@@ -103,7 +105,7 @@ Ciento cuatro años después de su nacimiento, Bob Hoover sigue siendo el piloto
 ## Metadatos de Control
 
 - **Timestamp de verificación:** 2026-08-10 10:08:26 CST
-- **Fuentes primarias consultadas:** Wikipedia (EN), National Air and Space Museum, National Aviation Hall of Fame, borrador preliminar del investigador
+- **Fuentes primarias consultadas:** Wikipedia (EN), National Air and Space Museum, National Aviation Hall of Fame
 - **Discrepancias resueltas:** el número de misiones de combate figura como 58 en el Smithsonian y 59 en otras fuentes; se redacta «58 o 59 según las fuentes». La duración del cautiverio figura como 15 meses y medio en el Smithsonian y 16 meses en otras fuentes; se redacta «más de un año».
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
