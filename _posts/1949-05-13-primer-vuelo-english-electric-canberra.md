@@ -89,6 +89,7 @@ El Canberra hizo su debut público en el Salón Aeronáutico de la SBAC en septi
 - **Enero de 1950:** El avión recibe el nombre oficial "Canberra".
 - **21 de abril de 1950:** Primer vuelo del primer prototipo B.2 (VX165).
 - **Mayo de 1951:** Entrada en servicio del Canberra B.2 con la Royal Air Force.
+- **26 de agosto de 1952:** el prototipo B.5 VX185, con Roland Beamont, Peter Hillwood y Dennis Watson, completa el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/08/26/canberra-vx185-primer-doble-cruce-atlantico-reactor.html" style="color: #315fea; text-decoration: none;">primer doble cruce del Atlántico en un reactor, ida y vuelta el mismo día</a> (Aldergrove–Gander–Aldergrove).
 - **Octubre de 1952:** Gira de buena voluntad de cuatro Canberra B.2 del 12 Squadron de la RAF por Suramérica; visitan Venezuela y generan el interés para su adquisición.
 - **1953:** Venezuela recibe sus primeros Canberra B.Mk.2.
 - **1957:** Récord de altitud de 70.310 pies (21.430 m).
@@ -200,7 +201,7 @@ Agradecemos al General Paredes Niño por su aporte y al Coronel Quintero por su 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 22:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), This Day in Aviation, Zona Militar, National Air and Space Museum, FAV Club (artículo de Omar Quintero), testimonio oral del General Paredes Niño.
 - **Discrepancias resueltas en esta versión:** 
   - Se ha corregido la atribución del primer comandante del Grupo Nº13, asignándoselo al Mayor Fernando Paredes Bello (27 de julio de 1961).

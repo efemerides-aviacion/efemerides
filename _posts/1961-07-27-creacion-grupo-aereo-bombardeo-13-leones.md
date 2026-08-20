@@ -59,6 +59,7 @@ El nombre «Leones» expresó la identidad combativa de una unidad asociada con 
 ## Desarrollo Cronológico
 
 - **1948:** Se establece el antecedente del Escuadrón de Bombardeo N.º 40, que opera con bombarderos North American B-25 Mitchell.
+- **26 de agosto de 1952:** el prototipo Canberra B.5 VX185 completa el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/08/26/canberra-vx185-primer-doble-cruce-atlantico-reactor.html" style="color: #315fea; text-decoration: none;">primer doble cruce del Atlántico en un reactor, ida y vuelta el mismo día</a>.
 - **27 de julio de 1961:** El Resuelto Ministerial N.º A-116 crea el Grupo Aéreo de Bombardeo N.º 13 «Leones» y reúne los escuadrones B-39 y B-40.
 - **Década de 1960:** El English Electric Canberra se convierte en el principal sistema de bombardeo a reacción de la unidad, con versiones de ataque, reconocimiento y entrenamiento.
 - **1971:** El Grupo establece su asiento definitivo en la Base Aérea «Teniente Luis del Valle García», en Barcelona, estado Anzoátegui, después de operar en Palo Negro y Barquisimeto.
@@ -103,7 +104,7 @@ Aunque la denominación de bombardeo dejó de emplearse con la llegada de los Su
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+- **Timestamp de verificación:** 2026-08-20 22:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** No se localizó documentación oficial digitalizada del Resuelto Ministerial N.º A-116.  
 - **Fuentes secundarias de contraste:** Artículo del Coronel (Av.) José Luis Ochoa Vargas, amparado en la obra del Coronel (Av.) Luis Hernán Paredes, <em>Historia de la Aviación Militar Venezolana</em>, 3.ª edición, tomo II, 1997; FAV Club Venezuela; Infodefensa; History_FlightV; FAV Ven.  
 - **Discrepancias resueltas:** Se distinguió la creación del Grupo de sus transformaciones posteriores; se mantuvo la denominación histórica de bombardeo para la efeméride de 1961 y se consignó por separado su reactivación como Grupo de Caza N.º 13 en 2006.  
