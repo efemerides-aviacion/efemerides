@@ -58,13 +58,15 @@ Rodgers es recordado como uno de los primeros héroes de la aviación estadounid
     <li><a href="https://airandspace.si.edu/collection-objects/wright-ex-vin-fiz/nasm_A19340060000" style="color: #315fea; text-decoration: none;">Smithsonian NASM – Wright EX “Vin Fiz Flyer”</a></li>
     <li><a href="https://www.si.edu/object/archives/sova-nasm-2007-0004" style="color: #315fea; text-decoration: none;">Smithsonian Archives – Cal Rodgers and the Vin Fiz</a></li>
     <li><a href="https://www.wright-brothers.org/History_Wing/History_of_the_Airplane/Doers_and_Dreamers/Cal_Rodgers/Tale_of_Vin_Fiz/Tale_of_Vin_Fiz.htm" style="color: #315fea; text-decoration: none;">Wright Brothers Aeroplane Company – The Tale of the Vin Fiz</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Calbraith_Perry_Rodgers" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Calbraith Perry Rodgers (12 de enero de 1879 – 3 de abril de 1912; Vin Fiz, 1911)</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Smithsonian NASM; Smithsonian Archives; Wright Brothers Aeroplane Company  
-- **Discrepancias resueltas:** Confirmación de datos familiares y biográficos; referencia al vuelo transcontinental como hazaña sin detalles técnicos  
+- **Timestamp de verificación:** 2026-08-20 18:00:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Smithsonian NASM (Wright EX «Vin Fiz»); Smithsonian Archives
+- **Fuentes secundarias de contraste:** Wright Brothers Aeroplane Company; Wikipedia (EN) Calbraith Perry Rodgers
+- **Discrepancias resueltas:** Confirmación de datos familiares y biográficos; el vuelo transcontinental (17-sep a 10-dic-1911) se trata en este post como hazaña, sin detalle técnico
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

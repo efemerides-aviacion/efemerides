@@ -85,6 +85,8 @@ Su legado trasciende las fronteras de la aeronáutica, recordando que el verdade
 - <a href="https://www.womenshistory.org/education-resources/biographies/amelia-earhart" style="color: #315fea; text-decoration: none;">National Women's History Museum: Biografía Oficial de Amelia Earhart</a>
 - <a href="https://plainshumanities.unl.edu/encyclopedia/doc/egp.gen.011.html" style="color: #315fea; text-decoration: none;">University of Nebraska-Lincoln: Reseña Biográfica e Histórica de Amelia Earhart</a>
 - <a href="https://es.wikipedia.org/wiki/Amelia_Earhart" style="color: #315fea; text-decoration: none;">Wikipedia: Amelia Earhart (artículo enciclopédico de referencia)</a>
+- <a href="https://collections.lib.purdue.edu/aearhart/biography.php" style="color: #315fea; text-decoration: none;">Purdue University Libraries — Amelia Earhart Biographical Sketch (24 de julio de 1897, Atchison)</a>
+- <a href="https://airandspace.si.edu/collection-objects/medal-national-geographic-society-medal-amelia-earhart/nasm_A19640145000" style="color: #315fea; text-decoration: none;">Smithsonian NASM — National Geographic Society Medal, Amelia Earhart (nacimiento 24 de julio de 1897)</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Esta efeméride conmemorativa aborda de forma prioritaria la biografía personal, el carácter y la dimensión social de Amelia Earhart. Los detalles técnicos, mapas de ruta e historia operacional de sus grandes marcas de vuelo (el récord en autogiro de 1931, el cruce atlántico en solitario de mayo de 1932, el cruce transcontinental de agosto de 1932, el vuelo transpacífico desde Hawái de 1935 y el enigma de su desaparición en el Pacífico en 1937) se encuentran desarrollados ampliamente en sus respectivos posts dedicados dentro del repositorio.</p>
@@ -93,9 +95,9 @@ Su legado trasciende las fronteras de la aeronáutica, recordando que el verdade
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-19 16:10:00 CST  
-- **Fuentes primarias/institucionales consultadas:** National Women's History Museum, Purdue University Archives, Library of Congress (Underwood & Underwood Collection).
-- **Fuentes secundarias de contraste:** Today in Connecticut History, PBS American Experience.
+- **Timestamp de verificación:** 2026-08-20 18:00:00 CST  
+- **Fuentes primarias/institucionales consultadas:** National Women's History Museum; Purdue University Libraries (biografía); Smithsonian NASM (medalla National Geographic)
+- **Fuentes secundarias de contraste:** University of Nebraska-Lincoln; Wikipedia (ES) Amelia Earhart
 - **Discrepancias resueltas:** Se priorizó el enfoque biográfico y personal en el cuerpo narrativo, articulando los cuatro enlaces cruzados hacia las efemérides operativas ya publicadas.
 - **Nivel de confianza:** Alto.
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

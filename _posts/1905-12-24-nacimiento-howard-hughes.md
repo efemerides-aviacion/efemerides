@@ -71,14 +71,16 @@ Howard Hughes es recordado como un perfeccionista técnico y visionario. Su lega
     <li><a href="https://airandspace.si.edu/collection-objects/hughes-h-1-racer/nasmA19750840000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Hughes H-1 Racer</a></li>
     <li><a href="https://sandiegoairandspace.org/hall-of-fame/honoree/howard-r.-hughes" style="color: #315fea; text-decoration: none;">San Diego Air & Space Museum – Howard R. Hughes Hall of Fame</a></li>
     <li><a href="https://www.britannica.com/biography/Howard-Hughes" style="color: #315fea; text-decoration: none;">Encyclopedia Britannica – Howard Hughes</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Howard_Hughes" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Howard Hughes (24 de diciembre de 1905; partida vs. fe de bautismo)</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** NASM, San Diego Air & Space Museum, Britannica Academic  
+- **Timestamp de verificación:** 2026-08-20 18:00:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Smithsonian NASM (Hughes H-1 Racer); San Diego Air & Space Museum
+- **Fuentes secundarias de contraste:** Encyclopædia Britannica; Wikipedia (EN) Howard Hughes  
 - **Discrepancias resueltas:** Lugar de nacimiento varía entre Humble y Houston; se indica Humble por registros parroquiales, mencionando Houston como alternativa común. Velocidad del H-1 fijada en 352.39 mph según acta oficial de la FAI.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

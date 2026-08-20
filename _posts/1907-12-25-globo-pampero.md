@@ -67,14 +67,17 @@ El Pampero es recordado como símbolo de audacia y exploración. Su travesía ma
     <li><a href="https://es.wikipedia.org/wiki/Pampero_%28globo%29" style="color: #315fea; text-decoration: none;">Wikipedia – Pampero (globo)</a></li>
     <li><a href="https://fotohistoria.com.ar/2024/12/25/el-globo-pampero-una-hazana-pionera-de-los-hermanos-newbery/" style="color: #315fea; text-decoration: none;">FotoHistoria – El Globo Pampero: Una Hazaña Pionera</a></li>
     <li><a href="https://elarcondelahistoria.com/primer-vuelo-en-el-globo-%C2%93pampero%C2%94-25121907/" style="color: #315fea; text-decoration: none;">El arcón de la historia Argentina – Primer vuelo del globo Pampero</a></li>
+    <li><a href="https://www.mna.ar/notas/2024-ABR-24-AARON-DE-ANCHORENA.html" style="color: #315fea; text-decoration: none;">Museo Nacional de Aeronáutica (Argentina) — Aarón de Anchorena y la navegación aérea militar (Pampero, 25 de diciembre de 1907)</a></li>
+    <li><a href="https://mna.ar/notas/efem-13-fund-aero-club-ar.html" style="color: #315fea; text-decoration: none;">Museo Nacional de Aeronáutica (Argentina) — Fundación del Aero Club Argentino (ascensión del Pampero, 25 de diciembre de 1907)</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Archivos históricos argentinos, Museo Nacional de Aeronáutica, Biblioteca Nacional  
+- **Timestamp de verificación:** 2026-08-20 18:00:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Museo Nacional de Aeronáutica (notas sobre Anchorena y el Aero Club Argentino)
+- **Fuentes secundarias de contraste:** Wikipedia (ES) Pampero (globo); FotoHistoria; El arcón de la historia  
 - **Discrepancias resueltas:** Lugar de aterrizaje citado como San Nicolás o Santa Ana; se confirma San Nicolás.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
