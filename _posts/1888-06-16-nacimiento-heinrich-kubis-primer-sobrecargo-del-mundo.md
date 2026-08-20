@@ -123,6 +123,8 @@ Kubis falleció en 1979 a los 90 años, habiendo sido testigo privilegiado de la
   <ul>
     <li><a href="https://en.wikipedia.org/wiki/Heinrich_Kubis" style="color: #315fea; text-decoration: none;">Wikipedia – Heinrich Kubis</a></li>
     <li><a href="https://www.guinnessworldrecords.com/world-records/106512-first-flight-attendant" style="color: #315fea; text-decoration: none;">Guinness World Records – First flight attendant</a></li>
+    <li><a href="https://www.airships.net/delag-passenger-zeppelins/" style="color: #315fea; text-decoration: none;">Airships.net — DELAG: The World’s First Airline (Kubis, primer auxiliar de vuelo)</a></li>
+    <li><a href="https://facesofthehindenburg.blogspot.com/2008/12/heinrich-kubis.html" style="color: #315fea; text-decoration: none;">Faces of the Hindenburg — Heinrich Kubis (archivo de Luftschiffbau Zeppelin)</a></li>
   </ul>
 </div>
 
@@ -136,8 +138,8 @@ Kubis falleció en 1979 a los 90 años, habiendo sido testigo privilegiado de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Guinness World Records (enlace corregido: 106512)
+- **Timestamp de verificación:** 2026-08-20 09:15:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Guinness World Records
 - **Discrepancias resueltas:** Se ha corregido el enlace a Guinness World Records (de 91585 a 106512). Se ha actualizado el mes de contratación a «marzo de 1912» según la fuente oficial. Se ha aclarado que la experiencia de Kubis en hoteles de lujo fue previa a su contratación por DELAG. Se ha añadido enlace a la efeméride del Hindenburg.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

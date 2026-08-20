@@ -86,6 +86,8 @@ Ochenta y dos años después de aquel primer vuelo en Bethpage, el Bearcat sigue
   <ul>
     <li><a href="https://www.thisdayinaviation.com/21-august-1944/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 21 August 1944 (XF8F-1 Bearcat, primer vuelo)</a></li>
     <li><a href="https://commons.wikimedia.org/wiki/File:Grumman_XF8F-1_Bearcat_in_flight,_circa_in_1944_(153724640).jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons - Grumman XF8F-1 Bearcat en vuelo, c. 1944 (U.S. Navy)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Grumman_F8F_Bearcat" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Grumman F8F Bearcat</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/grumman-f8f-2-bearcat-conquest-i/nasm_A19770989000" style="color: #315fea; text-decoration: none;">Smithsonian NASM — Grumman F8F-2 Bearcat «Conquest I»</a></li>
   </ul>
 </div>
 
@@ -93,9 +95,9 @@ Ochenta y dos años después de aquel primer vuelo en Bethpage, el Bearcat sigue
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 09:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** ninguna accesible de forma directa para el evento
-- **Fuentes secundarias de contraste:** This Day in Aviation, Wikimedia Commons (fotografía U.S. Navy, dominio público)
+- **Fuentes secundarias de contraste:** This Day in Aviation; Wikipedia (EN)
 - **Discrepancias resueltas:** la identificación del avión fotografiado como el prototipo 90460 es «muy probable» según la ficha de Commons; el pie se redacta con esa reserva. La cifra de 1.265 Bearcat producidos y los datos de prestaciones se toman de This Day in Aviation.
 - **Nivel de confianza:** Alto — núcleo del hecho respaldado por convergencia de fuentes secundarias independientes; sin primarias accesibles, como se declara arriba.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

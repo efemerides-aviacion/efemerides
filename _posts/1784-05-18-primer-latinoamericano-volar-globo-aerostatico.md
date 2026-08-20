@@ -121,6 +121,9 @@ Hoy, en el lugar donde Alfaro despegó, se levanta un monumento conmemorativo en
   <ul>
      <li><a href="https://elmomentoveracruz.mx/2025/07/02/sabias-que-en-xalapa-se-realizo-el-primer-vuelo-de-globo-aerostatico-de-america/" style="color: #315fea; text-decoration: none;">El Momento Veracruz - Sabías que el primer vuelo en globo aerostático de América fue en Xalapa</a></li>
     <li><a href="https://www.nmas.com.mx/nmas-local/programas/las-noticias-veracruz/videos/sabias-que-primer-vuelo-globo-aerostatico-fue-xalapa/" style="color: #315fea; text-decoration: none;">N+ - ¿Sabías que el primer vuelo en globo aerostático fue en Xalapa?</a></li>
+    <li><a href="https://lasillarota.com/veracruz/local/2025/7/2/quien-fue-jose-maria-alfaro-veracruzano-que-cruzo-xalapa-coatepec-en-globo-hace-240-anos-543713.html" style="color: #315fea; text-decoration: none;">La Silla Rota — José María Alfaro, vuelo Xalapa–Coatepec (cita de la Gazeta de México y de Rivera Cambas)</a></li>
+    <li><a href="https://www.diariodexalapa.com.mx/doble-via/primer-viaje-en-globo-aerostatico-de-america-en-xalapa-veracruz-1784-historia-de-jose-maria-alfaro-guiles-11936734.html" style="color: #315fea; text-decoration: none;">Diario de Xalapa — primer viaje en globo en América, 1784</a></li>
+    <li><a href="https://hndm.unam.mx/index.php/es/" style="color: #315fea; text-decoration: none;">Hemeroteca Nacional Digital de México (UNAM) — portal de la Gazeta de México</a></li>
   </ul>
 </div>
 
@@ -128,8 +131,8 @@ Hoy, en el lugar donde Alfaro despegó, se levanta un monumento conmemorativo en
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** El Momento Veracruz, N+, Gazeta de México (archivo, 19 de mayo de 1784)
+- **Timestamp de verificación:** 2026-08-20 09:15:00 CST  
+- **Fuentes primarias/institucionales consultadas:** HNDM-UNAM (portal de la Gazeta de México); Diario de Xalapa / Rivera Cambas vía prensa local
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (18 de mayo de 1784). Las medidas del globo varían ligeramente (10 metros de altura vs. 18 varas de diámetro). Se ha optado por incluir ambas referencias en las notas aclaratorias.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
