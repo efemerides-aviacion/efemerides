@@ -84,6 +84,7 @@ Su legado técnico incluye la puesta en órbita y reparación de grandes observa
 - <a href="https://www.nasa.gov/mission/sts-135/" style="color: #315fea; text-decoration: none;">NASA Science: Página Oficial de la Misión STS-135 Atlantis</a>
 - <a href="https://www.nasa.gov/history/10-years-ago-sts-135-the-space-shuttles-grand-finale/" style="color: #315fea; text-decoration: none;">NASA History Division: 10 Years Ago - STS-135, the Space Shuttle's Grand Finale</a>
 - <a href="https://en.wikipedia.org/wiki/STS-135" style="color: #315fea; text-decoration: none;">Wikipedia: Misión STS-135 del Transbordador Espacial (artículo de referencia)</a>
+- <a href="https://airandspace.si.edu/collection-objects/space-shuttle-atlantis/nasm_A20120325000" style="color: #315fea; text-decoration: none;">Smithsonian NASM — Space Shuttle Atlantis</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe un matiz de balance estadístico respecto al número total de aterrizajes del programa. Aunque la designación oficial asignó 135 misiones (STS-1 a STS-135), se completaron 133 aterrizajes exitosos de retornados orbitales: la misión del <a href="https://efemerides-aviacion.github.io/efemerides/espacial/accidente/1986/01/28/accidente-challenger-sts51l.html" style="color: #315fea; text-decoration: none;">Challenger STS-51-L sufrió una falla catastrófica durante el ascenso en enero de 1986</a> y la <a href="https://efemerides-aviacion.github.io/efemerides/espacial/accidente/2003/02/01/accidente-transbordador-columbia-sts107.html" style="color: #315fea; text-decoration: none;">STS-107 del Columbia se perdió durante la reentrada en febrero de 2003</a>. El aterrizaje del Atlantis del 21 de julio de 2011 se consagró como el número 133 de la historia operativa del programa.</p>
@@ -92,7 +93,7 @@ Su legado técnico incluye la puesta en órbita y reparación de grandes observa
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA History Office, NASA Kennedy Space Center, Jet Propulsion Laboratory (JPL).
 - **Fuentes secundarias de contraste:** UPI Archives, Encyclopædia Britannica.
 - **Discrepancias resueltas:** Se integró el enlace cruzado a la efeméride del accidente del Challenger en la nota aclaratoria, se mantuvo la cita al vuelo inaugural de 1981 en el desarrollo cronológico, se corrigió la redacción de la maniobra de desórbita y se confirmó la cifra de 133 aterrizajes orbitales completados por la flota.

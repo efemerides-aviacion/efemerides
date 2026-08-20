@@ -83,6 +83,7 @@ Documentado en archivos fotográficos e historiográficos nacionales como los de
 - <a href="https://commons.wikimedia.org/wiki/File:F-BDRB.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons: Registro e imagen fotográfica del Latécoère 631 F-BDRB de Air France</a>
 - <a href="https://es.wikipedia.org/wiki/Lat%C3%A9co%C3%A8re_631" style="color: #315fea; text-decoration: none;">Wikipedia: Latécoère 631 (historial técnico, especificaciones y registro de flota)</a>
 - <a href="https://en.wikipedia.org/wiki/Lat%C3%A9co%C3%A8re_631" style="color: #315fea; text-decoration: none;">Wikipedia (en): Latécoère 631 (registro complementario de operaciones y accidentes)</a>
+- <a href="https://aviation-safety.net/wikibase/wiki.php?id=15722" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Latécoère 631</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La unidad que acuatizó en el Lago de Valencia el 24 de julio de 1947 corresponde al Latécoère 631 con número de construcción 3 y matrícula francesa F-BDRA, uno de los tres ejemplares operados directamente por la aerolínea nacional Air France antes del cese de sus vuelos comerciales con este modelo en 1948. Con sus 57,43 metros de envergadura, se mantuvo como el mayor hidrocanoa de transporte comercial jamás puesto en servicio de serie hasta su retiro definitivo a mediados de la década de 1950.</p>
@@ -91,7 +92,7 @@ Documentado en archivos fotográficos e historiográficos nacionales como los de
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Direction Générale de l'Aviation Civile (DGAC Francia), Musée de l'Hydraviation (Biscarrosse), Archivo Histórico de la Aviación Militar Venezolana.
 - **Fuentes secundarias de contraste:** HistoriaFAV, Aviación Venezolana en Retrospectiva, Wikipedia.
 - **Discrepancias resueltas:** Se confirmó la matrícula individual exacta del hidrocanoa que acuatizó en Maracay (F-BDRA) y se integró como recurso gráfico la fotografía representativa de la unidad hermana F-BDRB según la preferencia editorial expresada.

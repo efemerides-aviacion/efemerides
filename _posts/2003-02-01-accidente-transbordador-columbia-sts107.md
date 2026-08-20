@@ -91,6 +91,7 @@ El sacrificio de la tripulación de la STS-107 es recordado en monumentos del Ce
 - <a href="https://www.nasa.gov/history/columbia-chronology/" style="color: #315fea; text-decoration: none;">NASA History: Cronología Técnica Oficial del Accidente del Columbia</a>
 - <a href="https://www.nasa.gov/remembering-columbia-sts-107/" style="color: #315fea; text-decoration: none;">NASA Memorial: Tributo Oficial a la Tripulación de la Misión STS-107</a>
 - <a href="https://es.wikipedia.org/wiki/Accidente_del_transbordador_espacial_Columbia" style="color: #315fea; text-decoration: none;">Wikipedia: Accidente del transbordador espacial Columbia (artículo enciclopédico de referencia)</a>
+- <a href="https://www.nasa.gov/wp-content/uploads/2023/04/caib_report_volume1.pdf" style="color: #315fea; text-decoration: none;">NASA — Columbia Accident Investigation Board, Volume I</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> A diferencia de la mayoría de las misiones contemporáneas del transbordador destinadas al ensamblaje de la Estación Espacial Internacional, la STS-107 fue un vuelo orbital dedicado íntegramente a la investigación científica multidisciplinaria a bordo del módulo doble SPACEHAB. Asimismo, la tripulación destacó por su composición plurinacional, incluyendo al Coronel Ilan Ramon como primer ciudadano israelí en volar al espacio y a Kalpana Chawla como la primera mujer de origen indio en realizar misiones orbitales.</p>
@@ -99,7 +100,7 @@ El sacrificio de la tripulación de la STS-107 es recordado en monumentos del Ce
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Columbia Accident Investigation Board (CAIB Report), NASA History Office, NASA Langley Research Center.
 - **Fuentes secundarias de contraste:** RTVE Noticias, Encyclopædia Britannica.
 - **Discrepancias resueltas:** Se confirmó la masa estimada del fragmento de espuma aislante (0,75 kg) e impacto a T+81,7 segundos, se verificaron los rangos militares de la tripulación y se integraron las conexiones cruzadas hacia las efemérides publicadas del primer vuelo del Columbia (1981) y la tragedia del Challenger (1986).

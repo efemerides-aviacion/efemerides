@@ -67,13 +67,14 @@ La creación de la St. Petersburg–Tampa Airboat Line respondió a la necesidad
     <li><a href="https://www.iata.org/en/about/history/flying-100-years/firstairline-story" style="color: #315fea; text-decoration: none;">IATA – First Airline Story</a></li>
     <li><a href="https://en.wikipedia.org/wiki/St._Petersburg%E2%80%93Tampa_Airboat_Line" style="color: #315fea; text-decoration: none;">Wikipedia – St. Petersburg–Tampa Airboat Line</a></li>
     <li><a href="https://www.wusf.org/arts-culture/2025-12-29/aviation-history-made-kitty-hawk-and-tampa-bay-area" style="color: #315fea; text-decoration: none;">WUSF – Aviation history in Tampa Bay</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Tony_Jannus" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Tony Jannus (piloto del Benoist XIV, 1 de enero de 1914)</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias consultadas:** IATA, Wikipedia, WUSF  
 - **Discrepancias resueltas:** Duración exacta del servicio (confirmado: enero–mayo 1914).  
 - **Nivel de confianza:** Alto  

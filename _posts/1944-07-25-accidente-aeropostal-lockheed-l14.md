@@ -82,6 +82,7 @@ Los registros históricos del siniestro son preservados internacionalmente por l
 - <a href="https://www.airhistory.net/photo/647650/YV-ADI" style="color: #315fea; text-decoration: none;">AirHistory.net: Registro e Imagen Histórica del Lockheed 14-H2 Super Electra YV-ADI (Smithsonian Institution Archives)</a>
 - <a href="https://www.baaa-acro.com/crash/crash-lockheed-14-h2-super-electra-barcelona-14-killed" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives (BAAA): Crash of a Lockheed 14-H2 Super Electra in Barcelona (14 killed)</a>
 - <a href="https://asn.flightsafety.org/wikibase/339727" style="color: #315fea; text-decoration: none;">Aviation Safety Network (ASN): Record del accidente del Lockheed 14-H2 YV-ADI el 25 de julio de 1944</a>
+- <a href="https://es.wikipedia.org/wiki/L%C3%ADnea_Aeropostal_Venezolana" style="color: #315fea; text-decoration: none;">Wikipedia (ES) — Línea Aeropostal Venezolana</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> En la aviación venezolana de la década de 1940, era habitual que oficiales y suboficiales de la Fuerza Aérea y el Ejército ejercieran como pilotos activos en las rutas comerciales de la empresa estatal Línea Aeropostal Venezolana (LAV). El Comandante de la nave, Teniente Pablo Croce Orozco, y su copiloto, Sargento Edgar Medina Briceño, contaban con una sólida formación militar.</p>
@@ -90,7 +91,7 @@ Los registros históricos del siniestro son preservados internacionalmente por l
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Smithsonian Institution Archives, Bureau of Aircraft Accidents Archives (BAAA), Aviation Safety Network (ASN), Archivo Histórico de la Aviación Militar Venezolana.
 - **Fuentes secundarias de contraste:** AirHistory.net, Registro de la Federación Venezolana de Béisbol.
 - **Discrepancias resueltas:** Se integró la fotografía histórica directa del Lockheed 14-H2 Super Electra YV-ADI en servicio con LAV (preservada en los archivos de la Institución Smithsonian), confirmando el número de construcción 1509 y el total de 14 víctimas mortales.

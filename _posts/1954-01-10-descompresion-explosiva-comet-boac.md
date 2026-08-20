@@ -74,13 +74,14 @@ El caso se estudia como referencia clave en ingeniería aeronáutica, destacando
     <li><a href="https://aviation-safety.net/database/record.php?id=19540110-0" style="color: #315fea; text-decoration: none;">Aviation Safety Network – BOAC Flight 781</a></li>
     <li><a href="https://www.britannica.com/event/BOAC-Comet-disaster-1954" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica – BOAC Comet disaster (1954)</a></li>
     <li><a href="https://www.museumofflight.org/aircraft/de-havilland-comet" style="color: #315fea; text-decoration: none;">Museum of Flight – De Havilland Comet</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/BOAC_Flight_781" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — BOAC Flight 781</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias consultadas:** Aviation Safety Network; Encyclopaedia Britannica; Museum of Flight  
 - **Discrepancias resueltas:** Integración de hallazgos técnicos (fractura hacia afuera, sobrepresión interna, aberturas críticas) en causa oficial y contexto  
 - **Nivel de confianza:** Alto  

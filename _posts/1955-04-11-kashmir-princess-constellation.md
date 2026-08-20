@@ -100,13 +100,14 @@ El atentado contra el "Kashmir Princess" es recordado como uno de los primeros a
     <li><a href="https://en.wikipedia.org/wiki/Kashmir_Princess" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Kashmir Princess</a></li>
     <li><a href="https://es.wikipedia.org/wiki/Vuelo_Kashmir_Princess" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vuelo Kashmir Princess</a></li>
     <li><a href="https://aviation-safety.net/database/record.php?id=19550411-0" style="color: #315fea; text-decoration: none;">Aviation Safety Network – Air India VT-DEP</a></li>
+      <li><a href="https://www.bbc.com/news/magazine-32158713" style="color: #315fea; text-decoration: none;">BBC — The Kashmir Princess mystery</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), Aviation Safety Network
 - **Discrepancias resueltas:** Ninguna. Todas las fuentes coinciden en los datos fundamentales: fecha (11 de abril de 1955), aeronave (Lockheed L-749A Constellation VT-DEP "Kashmir Princess"), víctimas (16 fallecidos, 3 supervivientes), causa (bomba del Kuomintang) y objetivo (Zhou Enlai).
 - **Nivel de confianza:** Alto

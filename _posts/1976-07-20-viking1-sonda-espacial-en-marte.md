@@ -85,6 +85,7 @@ Las miles de fotografías en alta resolución transmitidas por el orbitador y el
 - <a href="https://science.nasa.gov/mission/viking/" style="color: #315fea; text-decoration: none;">NASA Science: Misión Oficial del Programa Viking</a>
 - <a href="https://www.jpl.nasa.gov/missions/viking-1/" style="color: #315fea; text-decoration: none;">NASA JPL: Resumen Misión Viking 1 y Galería Fotográfica de Chryse Planitia</a>
 - <a href="https://es.wikipedia.org/wiki/Viking_1" style="color: #315fea; text-decoration: none;">Wikipedia: Misión Viking 1 (artículo enciclopédico de contraste)</a>
+- <a href="https://en.wikipedia.org/wiki/Viking_1" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Viking 1</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe un matiz historiográfico importante entre el primer posado físico en Marte y el primer aterrizaje operativo exitoso. En diciembre de 1971, la sonda soviética Mars 3 logró posarse en la superficie marciana; sin embargo, las transmisiones de datos fallaron definitivamente apenas 14,5 segundos después del aterrizaje debido a una severa tormenta de polvo global, logrando enviar únicamente una imagen parcial ilegible sin valor científico. Por ello, la comunidad científica internacional reconoce unánimemente a la Viking 1 como la primera sonda en lograr un aterrizaje plenamente exitoso, funcional y de larga duración en la superficie marciana. Asimismo, la imagen publicada (PIA00381) fue iniciada solo 25 segundos después del impacto suave del 20 de julio de 1976, inmortalizando el terreno rocoso de Chryse Planitia y el soporte del pie número 3 del módulo de aterrizaje.</p>
@@ -93,7 +94,7 @@ Las miles de fotografías en alta resolución transmitidas por el orbitador y el
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA Science Mission Directorate, Jet Propulsion Laboratory (JPL-Caltech), NASA History Division.
 - **Fuentes secundarias de contraste:** Encyclopædia Britannica, Harvard Astrophysics Data System (ADS).
 - **Discrepancias resueltas:** Se estableció la distinción técnica entre el intento soviético inacabado de Mars 3 en 1971 y el éxito operativo pleno de Viking 1 en 1976, y se confirmó el código de catálogo fotográfico de la primera imagen tomada desde la superficie marciana (PIA00381).

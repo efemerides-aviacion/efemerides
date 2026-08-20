@@ -62,6 +62,7 @@ El amerizaje del “Dat’s My Boy” es citado como un caso excepcional de supe
     <li>Mann, R. G. (2007). *The B-29 Superfortress Chronology 1944-1945*. Twentieth Air Force Association.</li>
     <li>National Archives and Records Administration (NARA). (1944). *Accident Report: B-29 42-63447*. Record Group 18.</li>
     <li>Tillman, B. (2012). *Whirlwind: The Air War Against Japan, 1942-1945*. Simon & Schuster.</li>
+      <li><a href="https://en.wikipedia.org/wiki/Boeing_B-29_Superfortress" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Boeing B-29 Superfortress</a></li>
   </ul>
 </div>
 
@@ -74,7 +75,7 @@ El amerizaje del “Dat’s My Boy” es citado como un caso excepcional de supe
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias consultadas:** NARA, Mann (2007), Tillman (2012)  
 - **Discrepancias resueltas:** Distancia del amerizaje y confirmación del número de serie.  
 - **Nivel de confianza:** Alto  

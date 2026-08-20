@@ -64,12 +64,13 @@ El P‑80 Shooting Star es recordado como el primer caza a reacción operacional
     <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-lockheed-p-80-shooting-star.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News – First Flight of the Lockheed P‑80</a></li>
     <li><a href="https://es.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star" style="color: #315fea; text-decoration: none;">Wikipedia en español – Lockheed P‑80 Shooting Star</a></li>
     <li><a href="https://ww2db.com/aircraft_spec.php?aircraft_model_id=479" style="color: #315fea; text-decoration: none;">WW2 Database – P‑80 Shooting Star</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Lockheed P-80 Shooting Star</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias consultadas:** Archivos de Lockheed; USAAF; Smithsonian Air & Space  
 - **Discrepancias resueltas:** Algunas fuentes citan fechas de pruebas previas en 1943; se confirma oficialmente el 8 de enero de 1944 como primer vuelo.  
 - **Nivel de confianza:** Alto  

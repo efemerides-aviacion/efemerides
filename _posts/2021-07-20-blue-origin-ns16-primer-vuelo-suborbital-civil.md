@@ -86,6 +86,7 @@ Asimismo, el vuelo dejó un impacto imborrable en la cultura aeronáutica contem
 - <a href="https://www.flickr.com/photos/nasafo/47085559171/" style="color: #315fea; text-decoration: none;">NASA Flight Opportunities / Flickr: Aterrizaje de la cápsula de tripulación New Shepard</a>
 - <a href="https://en.wikipedia.org/wiki/NS-16" style="color: #315fea; text-decoration: none;">Wikipedia: Blue Origin NS-16 (artículo enciclopédico de referencia)</a>
 - <a href="https://spacepolicyonline.com/news/wally-funk-gets-her-astronaut-pin-oh-and-jeff-bezos-too/" style="color: #315fea; text-decoration: none;">Space Policy Online: Análisis del vuelo tripulado NS-16 y el reconocimiento a Wally Funk</a>
+- <a href="https://www.blueorigin.com/news/first-human-flight-updates" style="color: #315fea; text-decoration: none;">Blue Origin — First Human Flight (NS-16)</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una distinción técnica y regulatoria en la definición del límite exterior del espacio. Mientras que la Administración Federal de Aviación de los Estados Unidos (FAA), la NASA y el Departamento de Defensa de EE. UU. sitúan históricamente la frontera espacial en los 80 km (50 millas) de altitud, la Federación Aeronáutica Internacional (FAI) reconoce formalmente la Línea de Kármán a los 100 km de altitud. La misión NS-16 alcanzó los 107,05 km, superando ambos umbrales, a diferencia del vuelo suborbital previo del VSS Unity de Virgin Galactic (que alcanzó los 86 km). Adicionalmente, la fotografía muestra la maniobra de posado suave de la cápsula de tripulación New Shepard en las instalaciones del desierto del oeste de Texas mediante paracaídas y retrocohetes de aire comprimido, ilustrando la fase final de aterrizaje tras culminar la misión suborbital.</p>
@@ -94,7 +95,7 @@ Asimismo, el vuelo dejó un impacto imborrable en la cultura aeronáutica contem
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Blue Origin Commercial Spaceflight Division, Federal Aviation Administration (FAA), NASA Flight Opportunities, Fédération Aéronautique Internationale (FAI).
 - **Fuentes secundarias de contraste:** Space Policy Online, The Verge, Wikipedia.
 - **Discrepancias resueltas:** No hay discrepancias

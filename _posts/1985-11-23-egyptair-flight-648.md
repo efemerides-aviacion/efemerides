@@ -62,10 +62,15 @@ El secuestro del vuelo 648 de EgyptAir marcó un punto de inflexión en la perce
 
 ---
 
-## Referencias
-- [Wikipedia – EgyptAir Flight 648](https://en.wikipedia.org/wiki/EgyptAir_Flight_648)  
-- [BBC News – EgyptAir hijack remembered](https://www.bbc.com/news/world-middle-east-15892710)  
-- [Aviation Safety Network – Accident description EgyptAir Flight 648](https://aviation-safety.net/database/record.php?id=19851123-0)
+## Referencias Verificadas
+<div class="references">
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/EgyptAir_Flight_648" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — EgyptAir Flight 648</a></li>
+    <li><a href="https://www.bbc.com/news/world-middle-east-15892710" style="color: #315fea; text-decoration: none;">BBC News — EgyptAir hijack remembered</a></li>
+    <li><a href="https://aviation-safety.net/database/record.php?id=19851123-0" style="color: #315fea; text-decoration: none;">Aviation Safety Network — EgyptAir Flight 648</a></li>
+    <li><a href="https://www.nytimes.com/1985/11/25/world/60-are-killed-as-egypt-storms-hijacked-jet.html" style="color: #315fea; text-decoration: none;">The New York Times — 60 Are Killed as Egypt Storms Hijacked Jet (25 de noviembre de 1985)</a></li>
+  </ul>
+</div>
 
 <div class="note-box">
 	<p><strong>Nota aclaratoria:</strong> Aunque este hecho terminó con un accidente y fatalidades, su naturaleza corresponde a un incidente de seguridad en la aviación (secuestro/terrorismo), no a un accidente aeronáutico. Por ello, se clasifica en la categoría de aviacion-seguridad y no en “aviacion-accidente”.</p>
@@ -74,7 +79,7 @@ El secuestro del vuelo 648 de EgyptAir marcó un punto de inflexión en la perce
 ---
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Aviation Safety Network, BBC News  
 - **Discrepancias resueltas:** Número de víctimas varía entre fuentes; se documenta como “más de 50” para consistencia.  
 - **Nivel de confianza:** alto  

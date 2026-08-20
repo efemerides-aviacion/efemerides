@@ -65,6 +65,7 @@ Aunque solo se construyeron tres unidades, el M‑130 abrió camino a aeronaves 
     <li><a href="https://en.wikipedia.org/wiki/Martin_M-130" style="color: #315fea; text-decoration: none;">Wikipedia: Martin M-130</a></li>
     <li><a href="https://www.airwaysmag.com/new-post/first-flight-of-the-martin-m-130" style="color: #315fea; text-decoration: none;">Airways Magazine: First Flight of the Martin M-130</a></li>
     <li><a href="https://www.thisdayinaviation.com/tag/pan-american-airways-system/" style="color: #315fea; text-decoration: none;">This Day in Aviation: Pan American Airways System</a></li>
+      <li><a href="https://airandspace.si.edu/explore/stories/pan-american-airways-international-commercial-aviation" style="color: #315fea; text-decoration: none;">Smithsonian NASM — Pan American Airways y el Martin M-130 China Clipper</a></li>
   </ul>
 </div>
 
@@ -72,7 +73,7 @@ Aunque solo se construyeron tres unidades, el M‑130 abrió camino a aeronaves 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia, Airways Magazine, This Day in Aviation  
 - **Discrepancias resueltas:** Algunas fuentes mencionan el 20 de diciembre de 1934 como fecha de primer vuelo; se priorizó el 30 de diciembre de 1934 según registros de Airways Magazine y Wikipedia.  
 - **Nivel de confianza:** Alto  

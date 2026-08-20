@@ -119,6 +119,7 @@ Hoy, el XB-38 es una nota al pie en la extensa historia del B-17 Flying Fortress
     <li><a href="https://en.m.wikipedia.org/wiki/Boeing_XB-38_Flying_Fortress" style="color: #315fea; text-decoration: none;">Wikipedia – Boeing XB-38 Flying Fortress</a></li>
     <li><a href="https://aerialvisuals.ca/AirframeDossier.php?Serial=220964" style="color: #315fea; text-decoration: none;">Aerial Visuals – Airframe Dossier (XB-38 wreck)</a></li>
     <li><a href="https://www.warbirdsresourcegroup.org/URG/b17fortress_variants_model_xb-38.html" style="color: #315fea; text-decoration: none;">Warbirds Resource Group – XB-38 Fortress</a></li>
+      <li><a href="https://www.thisdayinaviation.com/16-june-1943/" style="color: #315fea; text-decoration: none;">This Day in Aviation — 16 June 1943 (XB-38)</a></li>
   </ul>
 </div>
 
@@ -132,7 +133,7 @@ Hoy, el XB-38 es una nota al pie en la extensa historia del B-17 Flying Fortress
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (inglés), Aerial Visuals (Airframe Dossier), Warbirds Resource Group
 - **Discrepancias resueltas:** La mayoría de las fuentes indican que la tripulación sobrevivió al saltar, pero Aerial Visuals confirma un fallecido y un herido grave. Esta información se ha incluido con la debida nota aclaratoria. Las cifras de rendimiento (velocidad máxima, techo) han sido verificadas en fuentes técnicas. Se ha eliminado el enlace no funcional del archivo de Wayback.
 - **Nivel de confianza:** Alto

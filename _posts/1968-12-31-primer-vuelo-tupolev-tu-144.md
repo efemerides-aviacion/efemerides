@@ -64,12 +64,13 @@ Hoy se conservan varios Tu‑144 en museos de Rusia y Alemania. Es recordado com
     <li><a href="https://es.wikipedia.org/wiki/T%C3%BApolev_Tu-144" style="color: #315fea; text-decoration: none;">Wikipedia – Tupolev Tu‑144</a></li>
     <li><a href="https://www.youtube.com/watch?v=p9KQC6RiST8" style="color: #315fea; text-decoration: none;">The Russian Tupolev Tu-144 Supersonic Transport Aircraft</a></li>
     <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history/today-in-aviation-history-first-flight-of-the-tupolev-tu-144.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News – First Flight of the Tu‑144</a></li>
+      <li><a href="https://en.wikipedia.org/wiki/Tupolev_Tu-144" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Tupolev Tu-144</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia; History.com; Vintage Aviation News  
 - **Discrepancias resueltas:** Variaciones en número de unidades construidas y hitos de servicio.  
 - **Nivel de confianza:** Alto  

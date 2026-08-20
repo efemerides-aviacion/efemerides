@@ -83,6 +83,7 @@ Aunque el proyecto resultó un fracaso operativo, la investigación recopilada a
 - <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195748/republic-xf-84h/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: Ficha Técnica Oficial del Republic XF-84H</a>
 - <a href="https://www.guinnessworldrecords.com/world-records/633410-loudest-aircraft" style="color: #315fea; text-decoration: none;">Guinness World Records: Record Oficial - Loudest Aircraft (Republic XF-84H)</a>
 - <a href="https://es.wikipedia.org/wiki/Republic_XF-84H" style="color: #315fea; text-decoration: none;">Wikipedia: Republic XF-84H (artículo enciclopédico de referencia)</a>
+- <a href="https://en.wikipedia.org/wiki/Republic_XF-84H" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Republic XF-84H</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe un detalle de física acústica fundamental sobre la naturaleza del ruido del XF-84H. A diferencia de los aviones convencionales cuyas ondas de choque ocurren solo en vuelo transónico o supersónico, la hélice de tres palas cuadradas del XF-84H giraba a una velocidad angular constante de 2.100 rpm, provocando que las secciones exteriores de las palas viajaran continuamente a Mach 1,18 incluso con el motor en régimen de ralentí. Esta rotación constante producía una cascada de estampidos sónicos ininterrumpida que alcanzaba 135 decibelios a más de 30 metros de distancia.</p>
@@ -91,7 +92,7 @@ Aunque el proyecto resultó un fracaso operativo, la investigación recopilada a
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force (.mil), Air Force Historical Research Agency (AFHRA), Edwards Air Force Base History Office.
 - **Fuentes secundarias de contraste:** Guinness World Records, Plane & Pilot Magazine.
 - **Discrepancias resueltas:** Se confirmó el número de serie exacto del primer prototipo (51-17059 / FS-059), la distribución de los 12 vuelos entre las dos células fabricadas y el desglose de velocidad angular en las puntas de las paletas (Mach 1,18 a ralentí).

@@ -86,6 +86,7 @@ Pese a las costosas modificaciones de seguridad implementadas, la severa contrac
 - <a href="https://en.wikipedia.org/wiki/Air_France_Flight_4590" style="color: #315fea; text-decoration: none;">Wikipedia: Air France Flight 4590 (artículo de referencia detallado sobre el accidente)</a>
 - <a href="https://www.lanacion.com.ar/lifestyle/concorde-a-22-anos-de-la-catastrofe-de-aviacion-que-sacudio-al-mundo-y-termino-con-los-vuelos-nid25072022/" style="color: #315fea; text-decoration: none;">La Nación: Concorde - A 22 años de la catástrofe de aviación que terminó con los vuelos supersónicos</a>
 - <a href="https://www.theguardian.com/world/2000/sep/01/concorde.jonhenley1" style="color: #315fea; text-decoration: none;">The Guardian: The final seconds of crashed Concorde (transcripción de cabina e investigación de la BEA)</a>
+- <a href="https://bea.aero/fileadmin/documents/docspa/2000/f-sc000725a/htm/f-sc000725a.html" style="color: #315fea; text-decoration: none;">BEA — Informe final, Concorde F-BTSC, 25 de julio de 2000</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La tripulación del vuelo AF4590 se encontraba en la fase de despegue habiendo rebasado la velocidad de decisión $V_1$ (150 nudos / 278 km/h) al momento de detectarse la alarma de incendio. De haber intentado abortar la carrera en la pista restante de 2.000 metros a esa velocidad y con la pérdida de frenos en la rueda dañada, el avión habría salido de la pista a más de 300 km/h contra las instalaciones del aeropuerto. Por ello, el Capitán Christian Marty aplicó el protocolo estándar de despegar para buscar un aterrizaje de emergencia en Le Bourget.</p>
@@ -94,7 +95,7 @@ Pese a las costosas modificaciones de seguridad implementadas, la severa contrac
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Bureau d'Enquêtes et d'Analyses pour la sécurité de l'aviation civile (BEA Report f-sc000725a), Direction Générale de l'Aviation Civile (DGAC), Air France Flight Safety Division.
 - **Fuentes secundarias de contraste:** La Nación, The Guardian, BBC News, Wikipedia.
 - **Discrepancias resueltas:** Se confirmó la causa física del choque hidráulico en el tanque 5 a partir del neumático destruido por la lámina de titanio del DC-10 de Continental Airlines y se verificó la cifra final de 113 víctimas fatales (109 a bordo y 4 en tierra).

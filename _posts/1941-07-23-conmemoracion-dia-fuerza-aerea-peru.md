@@ -84,6 +84,7 @@ Su efigie ha figurado históricamente en la moneda y en los billetes de diez sol
 - <a href="https://comunicaciones.congreso.gob.pe/noticias/declaran-el-23-de-julio-de-cada-ano-dia-de-la-fuerza-aerea-del-peru/" style="color: #315fea; text-decoration: none;">Congreso de la República del Perú: Comunicado Oficial sobre el Día de la Fuerza Aérea del Perú</a>
 - <a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Abelardo_Qui%C3%B1ones" style="color: #315fea; text-decoration: none;">Wikipedia: José Abelardo Quiñones (artículo enciclopédico de referencia)</a>
 - <a href="https://es.wikipedia.org/wiki/Fuerza_A%C3%A9rea_del_Per%C3%BA" style="color: #315fea; text-decoration: none;">Wikipedia: Fuerza Aérea del Perú (historia y evolución institucional)</a>
+- <a href="https://www.gob.pe/fap" style="color: #315fea; text-decoration: none;">Gobierno del Perú — Fuerza Aérea del Perú</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe un matiz legal y legislativo de especial relevancia constitucional en el calendario patriótico peruano. A raíz de la modificación formal introducida por la Ley N.° 31822 en 2023, la normativa peruana diferencia claramente dos fechas institucionales: el 28 de enero se conmemora el "Día de la Aviación Militar" (en recuerdo de la creación del Servicio de Aviación Militar en 1919), mientras que el 23 de julio se consagra de forma exclusiva como el "Día de la Fuerza Aérea del Perú" (feriado nacional no laborable en honor a la inmolación del Héroe Nacional Capitán FAP José Abelardo Quiñones Gonzales en 1941). Asimismo, durante la acción bélica de Quebrada Seca, Quiñones ostentaba el grado militar de Teniente, recibiendo el ascenso póstumo a Capitán de Aeronáutica y posteriormente la máxima distinción de Gran General del Aire del Perú.</p>
@@ -92,7 +93,7 @@ Su efigie ha figurado históricamente en la moneda y en los billetes de diez sol
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a, #fbc02d, #f9a825);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Congreso de la República del Perú (Leyes N.° 16126 y N.° 31822), Ministerio de Defensa del Perú, Instituto de Estudios Histórico-Aeroespaciales del Perú (IEHAP).
 - **Fuentes secundarias de contraste:** Infobae Perú, Wikipedia.
 - **Discrepancias resueltas:** Se fundamentó la distinción legislativa oficial entre la fundación orgánica (28 de enero de 1919) y la conmemoración heroica central (23 de julio de 1941), y se confirmó la nomenclatura del caza NA-50 "Torito".

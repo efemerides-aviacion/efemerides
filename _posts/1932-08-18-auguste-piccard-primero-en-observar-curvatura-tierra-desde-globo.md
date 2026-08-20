@@ -88,6 +88,7 @@ Noventa y cuatro años después, la esfera de aluminio del segundo ascenso cuelg
     <li><a href="https://www.thisdayinaviation.com/18-august-1932/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 18 August 1932 (Piccard y Cosyns, 16.201 m)</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Auguste_Piccard" style="color: #315fea; text-decoration: none;">Wikipedia (inglés) - Auguste Piccard</a></li>
     <li><a href="https://commons.wikimedia.org/wiki/File:ETH-BIB-Max_Cosyns_in_Prof._Auguste_Piccards_Ballonkugel-Inlandfl%C3%BCge-LBS_MH05-92-02.tif" style="color: #315fea; text-decoration: none;">Wikimedia Commons / ETH-Bibliothek - Fotografía de Walter Mittelholzer, 1932</a></li>
+      <li><a href="https://www.britannica.com/biography/Auguste-Piccard" style="color: #315fea; text-decoration: none;">Encyclopædia Britannica — Auguste Piccard</a></li>
   </ul>
 </div>
 
@@ -95,7 +96,7 @@ Noventa y cuatro años después, la esfera de aluminio del segundo ascenso cuelg
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** FAI (expedientes de récord 6590 y 10634, citados por This Day in Aviation); ficha de colección de la ETH-Bibliothek (imagen)
 - **Fuentes secundarias de contraste:** This Day in Aviation, Wikipedia (inglés)
 - **Discrepancias resueltas:** la primera observación de la curvatura de la Tierra corresponde al ascenso del 27 de mayo de 1931 con Paul Kipfer (la FAI la da por «casi con toda certeza» la primera); el vuelo del 18 de agosto de 1932 la consolida y fija el récord de 16.201 m, y así se jerarquiza en título y cuerpo. La fecha de cesión de la gondola al Science Museum se omite por no constar con precisión en las fuentes leídas.

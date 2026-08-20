@@ -83,6 +83,7 @@ Su memoria está preservada en los archivos históricos de la aviación mundial 
 - <a href="https://aviation-safety.net/wikibase/wiki.php?id=232322" style="color: #315fea; text-decoration: none;">Aviation Safety Network: Registro del accidente fatal del 21 de julio de 1911 en Étampes</a>
 - <a href="https://www.thisdayinaviation.com/21-july-1911/" style="color: #315fea; text-decoration: none;">This Day in Aviation: Reseña histórica sobre Denise Moore y el accidente del biplano Farman</a>
 - <a href="https://es.wikipedia.org/wiki/Denise_Moore" style="color: #315fea; text-decoration: none;">Wikipedia: Biografía de Denise Moore (artículo enciclopédico de contraste)</a>
+- <a href="https://en.wikipedia.org/wiki/Denise_Moore" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Denise Moore (E. Jane Wright / Cornesson; Étampes, 21 de julio de 1911)</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe un matiz de identificación y localización en las fuentes de la época sobre esta efeméride. "Denise Moore" era el pseudónimo utilizado por la viuda E. J. Cornesson (nacida E. Jane-Wright) para evitar que su familia descubriera sus lecciones de aviación. Asimismo, aunque teletipos de prensa iniciales citaron erróneamente el aeródromo de Mourmelon como escenario del siniestro, los informes oficiales de la escuela de vuelo y la revista especializada <em>FLIGHT</em> confirmaron que el accidente ocurrió en el campo de aviación de Étampes. Por último, la imagen seleccionada corresponde a un retrato histórico de época de la propia aviadora sosteniendo las palancas y cables de control a bordo de un biplano durante sus lecciones de vuelo en Francia hacia 1911.</p>
@@ -91,7 +92,7 @@ Su memoria está preservada en los archivos históricos de la aviación mundial 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** FLIGHT Magazine Archives (julio de 1911), Agence Rol / Bibliothèque nationale de France (Gallica), Aviation Safety Network.
 - **Fuentes secundarias de contraste:** This Day in Aviation, Wikipedia.
 - **Discrepancias resueltas:** Se verificó la localización precisa en Étampes (corrigiendo reportes iniciales confusos sobre Mourmelon) y se detalló la doble identidad tras el pseudónimo de la aviadora (E. Jane-Wright / Sra. Cornesson).

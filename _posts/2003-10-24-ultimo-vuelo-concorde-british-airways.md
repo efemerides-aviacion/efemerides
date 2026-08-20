@@ -84,6 +84,7 @@ El hito recuerda la era en que la aviación comercial duplicó la velocidad del 
 - <a href="https://www.history.com/this-day-in-history/october-24/the-concorde-makes-its-final-flight" style="color: #315fea; text-decoration: none;">HISTORY Channel: The Concorde Makes Its Final Commercial Flight (24 October 2003)</a>
 - <a href="http://news.bbc.co.uk/2/hi/uk_news/3209837.stm" style="color: #315fea; text-decoration: none;">BBC News: Cobertura Especial - Concorde Makes Final Flights (24 de octubre de 2003)</a>
 - <a href="https://www.thisdayinaviation.com/tag/british-airways/" style="color: #315fea; text-decoration: none;">This Day in Aviation: Reseña del Último Aterrizaje del Concorde G-BOAG en Heathrow</a>
+- <a href="https://en.wikipedia.org/wiki/Concorde" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Concorde</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El 24 de octubre de 2003 fue el día del último vuelo comercial de pago con pasajeros en la historia del Concorde, operado por el ejemplar G-BOAG (c/n 214). Sin embargo, el último vuelo absoluto en el aire de una aeronave de la flota Concorde se registró un mes más tarde, el 26 de noviembre de 2003, cuando el ejemplar G-BOAF realizó un vuelo técnico de traslado (sin pasajeros) desde Londres-Heathrow hacia el aeródromo de Filton en Bristol.</p>
@@ -92,7 +93,7 @@ El hito recuerda la era en que la aviación comercial duplicó la velocidad del 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** British Airways Historical Heritage, BBC News Archives, History Channel, Museum of Flight Seattle.
 - **Fuentes secundarias de contraste:** Daily Mail Archives, This Day in Aviation, Simple Flying.
 - **Discrepancias resueltas:** Se identificó la matrícula del avión que operó el vuelo BA002 de Nueva York a Londres (G-BOAG), diferenciándolo de la unidad G-BOAF que operó el vuelo chárter de la Bahía de Vizcaya ese mismo día y realizó el vuelo final de traslado un mes después.

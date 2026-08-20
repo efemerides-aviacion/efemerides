@@ -63,6 +63,7 @@ La Operación “Enlace” es recordada como el inicio formal de la aviación mi
     <li><a href="https://es.wikipedia.org/wiki/Campa%C3%B1as_ant%C3%A1rticas_de_Argentina" style="color: #315fea; text-decoration: none;">Wikipedia – Campañas antárticas de Argentina (1950–1959)</a></li>
     <li>Fundación Marambio – Operación Enlace [consultada, enlace no disponible]</li>
     <li>Dirección de Asuntos Antárticos (FAA) – Antecedentes históricos [consultada, enlace no disponible]</li>
+      <li><a href="https://www.marambio.aq/operacionenlace.html" style="color: #315fea; text-decoration: none;">Fundación Marambio — Operación Enlace (19 de diciembre de 1951, Avro Lincoln LV-ZEI)</a></li>
   </ul>
 </div>
 
@@ -72,7 +73,7 @@ La Operación “Enlace” es recordada como el inicio formal de la aviación mi
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias consultadas:** Fundación Marambio, Dirección de Asuntos Antárticos (FAA), Wikipedia  
 - **Discrepancias resueltas:** Ninguna relevante; coincidencia en fecha, aeronave y comandante.  
 - **Nivel de confianza:** Alto  

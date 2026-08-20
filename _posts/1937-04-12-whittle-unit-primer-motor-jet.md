@@ -104,6 +104,8 @@ El Whittle Unit no fue un motor perfecto, pero fue el primero. Su éxito en Rugb
     <li><a href="https://www.gracesguide.co.uk/Power_Jets" style="color: #315fea; text-decoration: none;">Grace's Guide – Power Jets</a></li>
     <li><a href="https://es.wikipedia.org/wiki/Frank_Whittle" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Frank Whittle</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Frank_Whittle" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Frank Whittle</a></li>
+      <li><a href="https://collection.sciencemuseumgroup.org.uk/objects/co30458/whittle-w-u-turbojet" style="color: #315fea; text-decoration: none;">Science Museum Group — Whittle W.U. turbojet (1937)</a></li>
+    <li><a href="https://www.thisdayinaviation.com/12-april-1937/" style="color: #315fea; text-decoration: none;">This Day in Aviation — 12 April 1937 (Power Jets W.U.)</a></li>
   </ul>
 </div>
 
@@ -121,7 +123,7 @@ El Whittle Unit no fue un motor perfecto, pero fue el primero. Su éxito en Rugb
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias consultadas:** Grace's Guide, Wikipedia (ES/EN)
 - **Discrepancias resueltas:** Algunas fuentes mencionan el 13 de abril como fecha de la prueba, pero la mayoría de las fuentes autorizadas confirman el 12 de abril de 1937. Se ha adoptado esta última.
 - **Nivel de confianza:** Alto

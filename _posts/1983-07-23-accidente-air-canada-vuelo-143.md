@@ -84,6 +84,7 @@ Tras el accidente, el Boeing 767 C-GAUN fue reparado de emergencia en el propio 
 - <a href="https://www.cbc.ca/news/canada/manitoba/gimli-glider-35th-anniversary-1.4754039" style="color: #315fea; text-decoration: none;">CBC News: Reportaje Especial del 35.º Aniversario del Incidente del Gimli Glider</a>
 - <a href="https://time.com/archive/6700860/a-dead-stick-landing/" style="color: #315fea; text-decoration: none;">Time Magazine: Cobertura Periodística Original del Aterrizaje sin Motores del Vuelo 143</a>
 - <a href="https://en.wikipedia.org/wiki/Gimli_Glider" style="color: #315fea; text-decoration: none;">Wikipedia: Gimli Glider (artículo enciclopédico de referencia)</a>
+- <a href="https://www.faa.gov/sites/faa.gov/files/2024-12/AirCanada143_C-GAUN.pdf" style="color: #315fea; text-decoration: none;">FAA / Board of Inquiry — Air Canada Boeing 767 C-GAUN, Gimli, 23 July 1983 (informe Lockwood, 1985)</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe un matiz técnico preciso sobre el cálculo del error de combustible. La tripulación y el personal de mantenimiento multiplicaron el volumen de 12.600 litros medido por la varilla por el factor 1,77 (que correspondía a la densidad de 1,77 lb/L para el combustible Jet A), interpretando el resultado final como 22.300 kg. En realidad, la cifra obtenida equivalía a 22.300 libras (aproximadamente 10.100 kg), lo que significó despegar con solo 9.144 kg útiles a bordo respecto a la carga mínima requerida de 20.400 kg.</p>
@@ -92,7 +93,7 @@ Tras el accidente, el Boeing 767 C-GAUN fue reparado de emergencia en el propio 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Canadian Aviation Safety Board (CASB Report), Transport Canada Civil Aviation, Air Canada Engineering Division.
 - **Fuentes secundarias de contraste:** CBC Archives, Time Magazine, Aviation Safety Network.
 - **Discrepancias resueltas:** Se confirmó el factor de densidad erróneo empleado (1,77 lb/L frente a 0,8 kg/L) y la altitud exacta del apagado de motores (41.000 pies / FL410).

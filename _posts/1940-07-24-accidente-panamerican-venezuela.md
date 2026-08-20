@@ -83,6 +83,7 @@ Su estudio histórico resalta la constante evolución de las normas de seguridad
 - <a href="https://en.wikisource.org/wiki/Aviation_Accident_Report:_Pan_American_incident_near_Maracaibo,_Venezuela_on_24_July_1940" style="color: #315fea; text-decoration: none;">Wikisource: Informe Oficial de la Civil Aeronautics Board (CAB) sobre el Accidente de Maracaibo (1940)</a>
 - <a href="https://commons.m.wikimedia.org/wiki/File:CAB_Accident_Report,_Pan_American_incident_near_Maracaibo,_Venezuela_on_24_July_1940.pdf" style="color: #315fea; text-decoration: none;">Wikimedia Commons: Documento Oficial Digitalizado del Informe CAB en PDF</a>
 - <a href="https://rosap.ntl.bts.gov/view/dot/33014" style="color: #315fea; text-decoration: none;">U.S. Department of Transportation / ROSA P: Ficha de Registro de la Investigación de Accidentes Aéreos (1940)</a>
+- <a href="https://aviation-safety.net/database/record.php?id=19400724-0" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Pan American, Maracaibo, 24 July 1940</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Aunque la totalidad de los pasajeros y la tripulación de vuelo a bordo del Douglas DC-3A resultaron completamente ilesos durante la colisión contra la estructura del hangar, la historiografía de la aviación comercial venezolana e internacional clasifica formalmente este evento como el primer accidente fatal del sector comercial en el país debido al deceso en tierra del empleado de rampa alcanzado por la hélice de la aeronave.</p>
@@ -91,7 +92,7 @@ Su estudio histórico resalta la constante evolución de las normas de seguridad
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Civil Aeronautics Board (CAB Accident Report 1941), National Transportation Library (NTL), Bureau of Transportation Statistics (BTS).
 - **Fuentes secundarias de contraste:** San Diego Air and Space Museum Archives, Wikisource.
 - **Discrepancias resueltas:** Se confirmó la matrícula exacta de la aeronave (NC 25657), la localización física en el antiguo aeropuerto Grano de Oro de Maracaibo y la falla de la tubería del *cowl flap* como causa raíz de la inoperatividad de los frenos.

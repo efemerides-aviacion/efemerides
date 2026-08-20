@@ -146,6 +146,7 @@ El ejemplar enviado a Bolivia en 1920, hoy considerado por los aficionados boliv
     <li><a href="https://en.wikipedia.org/wiki/Curtiss_18" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Curtiss 18</a></li>
     <li><a href="https://es.wikipedia.org/wiki/Curtiss_18" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Curtiss 18</a></li>
     <li><a href="https://avionesbolivia.blogspot.com/2012/04/hace-92-anos-un-curtiss-wasp-18t.html" style="color: #315fea; text-decoration: none;">Blog Aviación Bolivia - Hace 92 años, un Curtiss Wasp 18T conquistó el cielo boliviano</a></li>
+      <li><a href="https://www.thisdayinaviation.com/7-may-1918/" style="color: #315fea; text-decoration: none;">This Day in Aviation — 7 May 1918 (Curtiss 18-T Wasp)</a></li>
   </ul>
 </div>
 
@@ -153,7 +154,7 @@ El ejemplar enviado a Bolivia en 1920, hoy considerado por los aficionados boliv
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN/ES), Blog Aviación Bolivia
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (7 de mayo de 1918), las especificaciones del 18T-1 y el récord de velocidad de agosto de 1918. Se ha añadido información sobre los récords de altitud de Roland Rohlfs (30 de julio de 1918 y 18 de septiembre de 1919) y sobre los números de serie de los dos prototipos . La información sobre el uso en Bolivia (1920) proviene del blog de aviación boliviana.
 - **Nivel de confianza:** Alto

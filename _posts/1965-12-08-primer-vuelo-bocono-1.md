@@ -57,6 +57,7 @@ El Boconó I es considerado el primer avión diseñado y construido en Venezuela
     <li><a href="https://www.aviacioncivil.com.ve/el-primer-avion-autoctono-de-venezuela-el-bocono-de-vicente-zambrano/" style="color: #315fea; text-decoration: none;">Aviacioncivil.com.ve – El Primer Avión Autóctono de Venezuela: El Boconó I de Vicente Zambrano</a></li> 
     <li><a href="https://www.youtube.com/watch?v=rr7MocDSCW0" style="color: #315fea; text-decoration: none;">YouTube – Independencia Tecnológica: Primer Avión y Helicóptero Venezolano</a></li>
     <li><a href="https://cienciaconciencia.org.ve/conozca-la-historia-detras-del-primer-helicoptero-hecho-venezuela/" style="color: #315fea; text-decoration: none;">Cienciaconciencia.org.ve – Historia del primer helicóptero hecho en Venezuela (menciona Boconó I)</a></li>
+      <li><a href="https://es.wikipedia.org/wiki/Fuerza_A%C3%A9rea_Venezolana" style="color: #315fea; text-decoration: none;">Wikipedia (ES) — Fuerza Aérea Venezolana (contexto institucional)</a></li>
   </ul>
 </div>
 
@@ -66,7 +67,7 @@ El Boconó I es considerado el primer avión diseñado y construido en Venezuela
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
 - **Fuentes primarias consultadas:** Documentales históricos (YouTube, Dailymotion), archivos de aviación experimental  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
