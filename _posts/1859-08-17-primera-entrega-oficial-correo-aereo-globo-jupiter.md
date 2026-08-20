@@ -91,6 +91,8 @@ Ciento sesenta y siete años después, el vuelo del Júpiter se recuerda como el
     <li><a href="https://postalmuseum.si.edu/exhibition/stamps-take-flight-rarities-and-special-holdings/first-us-airmail" style="color: #315fea; text-decoration: none;">Smithsonian National Postal Museum - First U.S. Airmail</a></li>
     <li><a href="https://en.wikipedia.org/wiki/John_Wise_(balloonist)" style="color: #315fea; text-decoration: none;">Wikipedia (inglés) - John Wise (balloonist)</a></li>
     <li><a href="https://www.tippecanoehistory.org/blog/2019/8/9/the-first-official-air-mail-flight" style="color: #315fea; text-decoration: none;">Tippecanoe County Historical Association - The First Official Air Mail Flight</a></li>
+    <li><a href="https://postalmuseum.si.edu/exhibition/fad-to-fundamental-airmail-in-america-historic-airplanes-unusual-and-experimental-1" style="color: #315fea; text-decoration: none;">Smithsonian National Postal Museum — Fad to Fundamental: el vuelo del globo Jupiter (17 de agosto de 1859)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Airmail" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Airmail (primer correo aéreo oficial de EE. UU., 17 de agosto de 1859)</a></li>
   </ul>
 </div>
 
@@ -98,9 +100,9 @@ Ciento sesenta y siete años después, el vuelo del Júpiter se recuerda como el
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias/institucionales consultadas:** Smithsonian National Postal Museum (página «First U.S. Airmail», colección del Postmaster General)
-- **Fuentes secundarias de contraste:** Wikipedia (inglés, John Wise), Tippecanoe County Historical Association
+- **Timestamp de verificación:** 2026-08-20 16:30:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Smithsonian National Postal Museum («First U.S. Airmail» y «Fad to Fundamental»)
+- **Fuentes secundarias de contraste:** Wikipedia (EN) John Wise y Airmail; Tippecanoe County Historical Association
 - **Discrepancias resueltas:** la distancia del vuelo figura como 25 millas (40 km) en Wikipedia y como unas 30 millas en el Smithsonian; se redacta «unas 30 millas (unos 40 km)». Sobre la entrega del correo, el Smithsonian dice que Wise la pasó al aterrizar a un agente postal del ferrocarril, y la fuente local de Tippecanoe que la bajó en paracaídas y fue recogida; se adopta la versión del Smithsonian por institucional, quedando la otra como variante local. La hora de despegue «2:00 p.m.» del borrador no consta en las fuentes leídas y se omite. La imagen corresponde al ascenso de demostración del 16 de agosto, no al vuelo del correo, y así se declara en el pie.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

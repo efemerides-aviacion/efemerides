@@ -92,6 +92,8 @@ Ciento cincuenta y cinco años después de su nacimiento, Orville Wright sigue s
     <li><a href="https://www.nps.gov/people/orvillewright.htm" style="color: #315fea; text-decoration: none;">National Park Service - Orville Wright (Dayton Aviation Heritage / Wright Brothers National Memorial)</a></li>
     <li><a href="https://www.loc.gov/collections/wilbur-and-orville-wright-papers/articles-and-essays/the-wilbur-and-orville-wright-timeline-1846-to-1948/1867-to-1889/" style="color: #315fea; text-decoration: none;">Library of Congress - The Wilbur and Orville Wright Timeline</a></li>
     <li><a href="https://commons.wikimedia.org/wiki/File:Famous_Living_Americans_-_Orville_Wright.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons - Retrato de Orville Wright (Famous Living Americans, 1914)</a></li>
+    <li><a href="https://airandspace.si.edu/stories/editorial/wright-brothers-made-history-kitty-hawk" style="color: #315fea; text-decoration: none;">Smithsonian NASM — The Wright Brothers Made History at Kitty Hawk (17 de diciembre de 1903)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Wright_brothers" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Wright brothers (Orville: 19 de agosto de 1871, Dayton – 30 de enero de 1948)</a></li>
   </ul>
 </div>
 
@@ -99,9 +101,9 @@ Ciento cincuenta y cinco años después de su nacimiento, Orville Wright sigue s
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias/institucionales consultadas:** National Park Service (Orville Wright, Life Story) y Library of Congress (Wright Papers Timeline)
-- **Fuentes secundarias de contraste:** Wikimedia Commons (retrato)
+- **Timestamp de verificación:** 2026-08-20 16:30:00 CST  
+- **Fuentes primarias/institucionales consultadas:** National Park Service; Library of Congress (Wright Papers Timeline); Smithsonian NASM
+- **Fuentes secundarias de contraste:** Wikimedia Commons (retrato); Wikipedia (EN) Wright brothers
 - **Discrepancias resueltas:** el orden de nacimiento figura como «cuarto hijo» en unas fuentes y «sexto de siete» en el NPS (dos hermanos muertos en la infancia); se redactan ambos datos conciliados. El récord de planeo de 1911 se fecha el 24 de octubre conforme al NPS.
 - **Nivel de confianza:** Alto — núcleo del hecho respaldado por fuentes institucionales consultadas.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

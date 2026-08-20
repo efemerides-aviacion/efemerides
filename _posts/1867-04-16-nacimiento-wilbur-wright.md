@@ -93,6 +93,8 @@ Ciento cincuenta y nueve años después de su nacimiento, Wilbur Wright sigue si
     <li><a href="https://www.nps.gov/people/wilburwright.htm" style="color: #315fea; text-decoration: none;">National Park Service - Wilbur Wright (Wright Brothers National Memorial)</a></li>
     <li><a href="https://www.loc.gov/collections/wilbur-and-orville-wright-papers/articles-and-essays/the-wilbur-and-orville-wright-timeline-1846-to-1948/1867-to-1889/" style="color: #315fea; text-decoration: none;">Library of Congress - The Wilbur and Orville Wright Timeline</a></li>
     <li><a href="https://commons.wikimedia.org/wiki/File:Wilbur_Wright.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons - Retrato de Wilbur Wright a los 38 años (colección Bain)</a></li>
+    <li><a href="https://airandspace.si.edu/stories/editorial/wright-brothers-made-history-kitty-hawk" style="color: #315fea; text-decoration: none;">Smithsonian NASM — The Wright Brothers Made History at Kitty Hawk (17 de diciembre de 1903)</a></li>
+    <li><a href="https://wright.nasa.gov/wilprint.htm" style="color: #315fea; text-decoration: none;">NASA — Biography of Wilbur Wright (Millville, 16 de abril de 1867)</a></li>
   </ul>
 </div>
 
@@ -100,8 +102,8 @@ Ciento cincuenta y nueve años después de su nacimiento, Wilbur Wright sigue si
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias/institucionales consultadas:** National Park Service (Wilbur Wright) y Library of Congress (Wright Papers Timeline)
+- **Timestamp de verificación:** 2026-08-20 16:30:00 CST  
+- **Fuentes primarias/institucionales consultadas:** National Park Service; Library of Congress (Wright Papers Timeline); Smithsonian NASM; NASA (biografía de Wilbur)
 - **Fuentes secundarias de contraste:** Wikimedia Commons (retrato)
 - **Discrepancias resueltas:** el agresor del accidente de 1885-1886, Oliver Crook Haugh, figura ajusticiado en 1906 por el asesinato de sus padres según el NPS; el dato se omite del cuerpo por no aportar al hilo de la efeméride. La presidencia de la Wright Company y el cargo directivo de Katharine quedan armonizados con el post de esta última.
 - **Nivel de confianza:** Alto — núcleo del hecho respaldado por fuentes institucionales consultadas.

@@ -83,6 +83,7 @@ Más allá de sus contribuciones técnicas en la evolución del dirigible y el m
 - <a href="https://commons.wikimedia.org/wiki/File:Alberto_Santos-Dumont_portrait.jpg" style="color: #315fea; text-decoration: none;">Biblioteca del Congreso de los Estados Unidos / Wikimedia Commons: Retrato oficial de Alberto Santos Dumont</a>
 - <a href="https://www.centennialofflight.net/essay/Dictionary/Santos-Dumont/DI41.htm" style="color: #315fea; text-decoration: none;">Centennial of Flight Commission: Alberto Santos-Dumont Profile and Achievements</a>
 - <a href="https://en.wikipedia.org/wiki/Alberto_Santos-Dumont" style="color: #315fea; text-decoration: none;">Wikipedia: Alberto Santos-Dumont (artículo enciclopédico de contraste)</a>
+- <a href="https://airandspace.si.edu/stories/editorial/recognizing-figures-early-french-flight" style="color: #315fea; text-decoration: none;">Smithsonian NASM — Recognizing Figures in Early French Flight: Alberto Santos-Dumont (14-Bis, noviembre de 1906)</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe un debate historiográfico clásico entre el reconocimiento europeo/brasileño hacia Santos Dumont y la historiografía estadounidense sobre los hermanos Wright. Mientras los hermanos Orville y Wilbur Wright realizaron sus primeros vuelos controlados en Kitty Hawk en diciembre de 1903, estos se llevaron a cabo de manera privada y sin verificación oficial previa. Por el contrario, los vuelos del 14-bis en 1906 fueron presenciados de forma multitudinaria, despegados por medios propios sin catapultas auxiliares y certificados en el acto por el Aéro-Club de France y la Federación Aeronáutica Internacional (FAI). Asimismo, la fotografía de retrato empleada corresponde a una sesión de estudio realizada hacia 1902 por la fotógrafa Zaida Ben-Yusuf, conservada en los fondos de la Biblioteca del Congreso de EE. UU.</p>
@@ -91,9 +92,9 @@ Más allá de sus contribuciones técnicas en la evolución del dirigible y el m
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias/institucionales consultadas:** Aéro-Club de France, Library of Congress (EE. UU.), Fédération Aéronautique Internationale (FAI), Panteão da Pátria e da Liberdade (Brasil).
-- **Fuentes secundarias de contraste:** Centennial of Flight Commission, Encyclopædia Britannica.
+- **Timestamp de verificación:** 2026-08-20 16:30:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Library of Congress (retrato Zaida Ben-Yusuf, vía Commons); Smithsonian NASM (Santos-Dumont y el 14-Bis)
+- **Fuentes secundarias de contraste:** Centennial of Flight Commission; Wikipedia (EN) Alberto Santos-Dumont
 - **Discrepancias resueltas:** Se verificó la fecha exacta de nacimiento (20 de julio de 1873) en Cabangu y se contextualizó adecuadamente la precedencia histórica entre los vuelos de prueba privados en EE. UU. y las primeras marcas oficiales homologadas públicamente en Europa.
 - **Nivel de confianza:** Alto.
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

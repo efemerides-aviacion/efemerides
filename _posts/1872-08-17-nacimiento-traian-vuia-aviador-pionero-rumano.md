@@ -95,6 +95,7 @@ Ciento cincuenta y cuatro años después de su nacimiento, Traian Vuia da nombre
     <li><a href="https://agerpres.ro/documentare/2022-08-10/documentar-150-de-ani-de-la-nasterea-pionierului-aviatiei-romanesti-si-mondiale-traian-vuia-17-augus--964531" style="color: #315fea; text-decoration: none;">AGERPRES - Documentar: 150 de ani de la nașterea pionierului aviației românești și mondiale, Traian Vuia</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Traian_Vuia" style="color: #315fea; text-decoration: none;">Wikipedia (inglés) - Traian Vuia</a></li>
     <li><a href="https://earlyaviators.com/evuia1.htm" style="color: #315fea; text-decoration: none;">Early Aviators - Traian Vuia</a></li>
+    <li><a href="https://www.museeairespace.fr/aller-plus-haut/collections/aeroplane-vuia/" style="color: #315fea; text-decoration: none;">Musée de l’Air et de l’Espace — Aéroplane Vuia (Trajan Vuia, 1872-1950; París, 1906)</a></li>
   </ul>
 </div>
 
@@ -102,9 +103,9 @@ Ciento cincuenta y cuatro años después de su nacimiento, Traian Vuia da nombre
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias/institucionales consultadas:** AGERPRES (Agencia Nacional de Prensa de Rumanía, documentar del 10 de agosto de 2022)
-- **Fuentes secundarias de contraste:** Wikipedia (inglés), Early Aviators
+- **Timestamp de verificación:** 2026-08-20 16:30:00 CST  
+- **Fuentes primarias/institucionales consultadas:** AGERPRES (documentar, 10 de agosto de 2022); Musée de l’Air et de l’Espace (Aéroplane Vuia)
+- **Fuentes secundarias de contraste:** Wikipedia (EN) Traian Vuia; Early Aviators
 - **Discrepancias resueltas:** la fecha de nacimiento figura como 17 de agosto (Gregoriano, fuentes rumanas y Wikipedia) y 29 de agosto en Early Aviators, diferencia equivalente al desfase juliano-gregoriano; se adopta el 17 de agosto, fecha de la efeméride y de las fuentes institucionales rumanas. La elección como miembro de honor de la Academia Rumana figura como 27 de mayo de 1946 en AGERPRES y Wikipedia y como 1922 en Early Aviators; se adopta 1946. La patente francesa n.º 332.106 se solicita el 15 de mayo de 1903 y consta obtenida al 17 de agosto de 1903; se redactan ambas fechas. El primer salto se cita como 11 o 12 m; se redacta «unos 12 m».
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

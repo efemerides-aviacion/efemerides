@@ -92,6 +92,8 @@ Ciento cincuenta y dos años después de su nacimiento, Katharine Wright Haskell
     <li><a href="https://www.nps.gov/daav/learn/historyculture/katharinewrightslifestory.htm" style="color: #315fea; text-decoration: none;">National Park Service - Katharine Wright's Life Story (Dayton Aviation Heritage)</a></li>
     <li><a href="https://airandspace.si.edu/stories/editorial/katharine-wright-wright-sister" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum - Katharine Wright: The Wright Sister</a></li>
     <li><a href="https://commons.wikimedia.org/wiki/File:Katharine_Wright.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons - Retrato de Katharine Wright, Oberlin 1898</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Katharine_Wright_Haskell" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Katharine Wright Haskell (19 de agosto de 1874, Dayton – 3 de marzo de 1929)</a></li>
+    <li><a href="https://www.nps.gov/people/katharine-wright.htm" style="color: #315fea; text-decoration: none;">National Park Service — Katharine Wright (biografía, Dayton Aviation Heritage)</a></li>
   </ul>
 </div>
 
