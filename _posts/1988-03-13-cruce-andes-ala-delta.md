@@ -79,13 +79,16 @@ Como él mismo escribió en su blog personal, sus años de vuelo fueron "años d
   <ul>
     <li><a href="http://aladeltismochileno.blogspot.com/p/acerca-de-mi.html" style="color: #315fea; text-decoration: none;">Aladeltismo Chileno – Acerca de mí: Basilio Moisés Impellizzeri Nicito, primer cruce Andes ala delta 13 marzo 1988</a></li>
     <li><a href="https://www.pilotosretiradoslan.cl/2010/08/15/encuentro-con-un-hombre-pajaro/" style="color: #315fea; text-decoration: none;">Pilotos Retirados LAN – Encuentro con un hombre pájaro: Basilio Impellizzeri cruza Andes en ala delta 1988</a></li>
+    <li><a href="https://aladeltismochileno.blogspot.com/2010/07/v-behaviorurldefaultvml-o.html" style="color: #315fea; text-decoration: none;">Aladeltismo Chileno – Relato de 1993: el cruce del 13 de marzo de 1988 como hito del ala delta en Chile</a></li>
+    <li><a href="https://www.fai.org/commission/civl" style="color: #315fea; text-decoration: none;">FAI — CIVL (Comisión Internacional de Vuelo Libre: marco federativo del ala delta; el cruce de 1988 no consta como récord FAI en abierto)</a></li>
   </ul>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Blog personal de Basilio Impellizzeri Nicito (aladeltismochileno.blogspot.com), Pilotos Retirados LAN  
-- **Discrepancias resueltas:** No se identificaron discrepancias significativas entre las fuentes disponibles; ambas coinciden en la fecha del cruce (13 de marzo de 1988), el récord de permanencia (11h 5m) y la biografía del protagonista. La principal fuente es el testimonio directo de Impellizzeri en su blog personal .  
-- **Nivel de confianza:** Alto (basado en testimonio autobiográfico)  
+- **Timestamp de verificación:** 2026-08-20 12:00:00 CST  
+- **Fuentes primarias/institucionales consultadas:** testimonio autobiográfico de Impellizzeri (blog Aladeltismo Chileno); FAI/CIVL como marco federativo (sin ficha del cruce en abierto)
+- **Fuentes secundarias de contraste:** Pilotos Retirados LAN
+- **Discrepancias resueltas:** blog y Pilotos Retirados LAN coinciden en el 13 de marzo de 1988. El récord de permanencia (11 h 5 min) solo aparece en esas fuentes, no en un registro FAI.
+- **Nivel de confianza:** Medio-alto — hecho sostenido por testimonio del protagonista y una entrevista; sin registro federativo abierto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -84,6 +84,8 @@ Sesenta y cinco años después, el picado del N9604Z sigue siendo la respuesta c
   <ul>
     <li><a href="https://www.smithsonianmag.com/air-space-magazine/i-was-there-when-the-dc-8-went-supersonic-27846699/" style="color: #315fea; text-decoration: none;">Smithsonian Air & Space Magazine - I Was There: When the DC-8 Went Supersonic</a></li>
     <li><a href="https://www.thisdayinaviation.com/tag/n9604z/" style="color: #315fea; text-decoration: none;">This Day in Aviation - Etiqueta N9604Z (fotografía del DC-8 con el F-104)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Douglas_DC-8" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Douglas DC-8 (21 de agosto de 1961, Mach 1,012, 16 segundos)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Sound_barrier" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Sound barrier (DC-8-43 N9604Z en Edwards AFB; Magruder, Patten, Tomich, Edwards)</a></li>
   </ul>
 </div>
 
@@ -91,9 +93,9 @@ Sesenta y cinco años después, el picado del N9604Z sigue siendo la respuesta c
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias/institucionales consultadas:** testimonio de primera mano del ingeniero de pruebas Richard H. Edwards (proyecto Douglas White Oaks Trust), vía Smithsonian Magazine
-- **Fuentes secundarias de contraste:** This Day in Aviation (fotografía)
+- **Timestamp de verificación:** 2026-08-20 12:00:00 CST  
+- **Fuentes primarias/institucionales consultadas:** testimonio de primera mano del ingeniero de pruebas Richard H. Edwards (proyecto Douglas White Oaks Trust), vía Smithsonian Air & Space Magazine
+- **Fuentes secundarias de contraste:** This Day in Aviation (fotografía N9604Z); Wikipedia (EN) Douglas DC-8 y Sound barrier
 - **Discrepancias resueltas:** ninguna relevante; la duración del tramo supersónico («unos 16 segundos») y las altitudes (52.000/45.000/35.000 pies) se toman del testimonio de Edwards.
 - **Nivel de confianza:** Alto — núcleo del hecho respaldado por testimonio directo de un tripulante y fuentes secundarias independientes.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

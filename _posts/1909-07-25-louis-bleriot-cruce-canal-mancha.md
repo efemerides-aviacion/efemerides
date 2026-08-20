@@ -82,6 +82,9 @@ En el lugar exacto del aterrizaje en Northfall Meadow, junto al Castillo de Dove
 ## Referencias Verificadas
 - <a href="https://www.thisdayinaviation.com/25-july-1909/" style="color: #315fea; text-decoration: none;">This Day in Aviation: Reseña Fotográfica e Histórica del Vuelo de Louis Blériot (25 de julio de 1909)</a>
 - <a href="https://en.wikipedia.org/wiki/Bl%C3%A9riot_XI" style="color: #315fea; text-decoration: none;">Wikipedia: Blériot XI (historia del desarrollo, especificaciones y cruce del canal)</a>
+- <a href="https://airandspace.si.edu/collection-objects/bleriot-xi/nasm_A19500095000" style="color: #315fea; text-decoration: none;">Smithsonian NASM — Blériot XI (primer cruce aéreo del Canal, 25 de julio de 1909)</a>
+- <a href="https://www.arts-et-metiers.net/musee/lavion-de-lexploit-1909-louis-bleriot-traverse-la-manche" style="color: #315fea; text-decoration: none;">Musée des Arts et Métiers — L’avion de l’exploit: el Blériot XI original de la travesía (ingreso el 13 de octubre de 1909)</a>
+- <a href="https://www.loc.gov/item/2003662010/" style="color: #315fea; text-decoration: none;">Library of Congress — The channel flight. Blériot, July 25th 1909 (cromolitografía de H. Delaspre)</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Louis Blériot realizó el vuelo del Canal de la Mancha sin contar con instrumental básico de navegación, como compás magnético o altímetro, guiándose exclusivamente por la posición del sol y el rumbo aparente del mar. Durante los minutos finales de la travesía, el motor Anzani comenzó a sobrecalentarse críticamente debido a su sistema de refrigeración por aire simple, siendo refrescado milagrosamente por una breve llovizna marina que redujo la temperatura de los cilindros antes del descenso final en Dover.</p>
@@ -90,9 +93,9 @@ En el lugar exacto del aterrizaje en Northfall Meadow, junto al Castillo de Dove
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias/institucionales consultadas:** Library of Congress (Prints and Photographs Division), Musée des Arts et Métiers (París), Daily Mail Archives (1909).
-- **Fuentes secundarias de contraste:** Flight International Archives, This Day in Aviation, Encyclopædia Britannica.
+- **Timestamp de verificación:** 2026-08-20 12:00:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Smithsonian NASM (ficha Blériot XI); Musée des Arts et Métiers (aparato original); Library of Congress (cromolitografía Delaspre, 1909)
+- **Fuentes secundarias de contraste:** This Day in Aviation; Wikipedia (EN) Blériot XI
 - **Discrepancias resueltas:** Se estableció la hora exacta de despegue (04:41 BST) y aterrizaje (05:17 BST), se confirmó la potencia nominal del motor Anzani (25 hp) y se atribuyó el registro fotográfico oficial preserved en la Biblioteca del Congreso de los EE. UU.
 - **Nivel de confianza:** Alto.
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

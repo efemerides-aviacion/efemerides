@@ -93,8 +93,10 @@ El legado de Jesús Enrique Zafrané Romero se manifiesta tanto en la memoria hi
 
 <div class="references">
   <ul>
-    <li><a href="https://favclubven.wordpress.com/2025/06/11/capitan-jesus-zafrane-el-primer-cazador/" style="color: #315fea; text-decoration: none;">FAV-Club – Capitán Jesús Zafrané, el primer cazador</a></li>
+    <li><a href="https://favclubven.wordpress.com/2025/06/11/capitan-jesus-zafrane-el-primer-cazador/" style="color: #315fea; text-decoration: none;">FAV-Club – Capitán Jesús Zafrané, el primer cazador (Arturo Soto Loreto, 2025; bibliografía: Lon Blanco 1982, Gómez Núñez 1970, Paredes 1997, Pedrique 2023)</a></li>
     <li><a href="https://www.facebook.com/fuerzaaereavenezolana.fav/photos/a.870434196326731/3906856289351158/" style="color: #315fea; text-decoration: none;">Fuerza Aérea Venezolana – Historia FAV: Capitán Jesús Zafrané, el primer cazador (publicación conmemorativa)</a></li>
+    <li><a href="http://cuandovenezuelaestababiengobernada.blogspot.com/2015/12/aniversario-de-la-aviacion-venezolana.html" style="color: #315fea; text-decoration: none;">Cuando Venezuela estaba bien gobernada – Aniversario de la Aviación Venezolana (misión a Francia, 1934: Quintero, Zafrané y Pacanins)</a></li>
+    <li><a href="https://historiastaurinas.blogspot.com/2019/09/manuel-zafrane-un-aficionado-de-solera.html" style="color: #315fea; text-decoration: none;">Historias Taurinas – Manuel Zafrané: el piloto Jesús Zafrané, Legión de Honor y Gómez Núñez 1970</a></li>
   </ul>
 </div>
 
@@ -102,9 +104,9 @@ El legado de Jesús Enrique Zafrané Romero se manifiesta tanto en la memoria hi
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** FAV-Club (artículo biográfico), publicación institucional de la Fuerza Aérea Venezolana en Facebook
-- **Discrepancias resueltas:** No se encontraron discrepancias en la fecha y lugar de nacimiento (19 de abril de 1908, Caracas) ni en la fecha del accidente (30 de abril de 1936). Los datos sobre matrimonio e hijos se han incorporado desde la fuente de FAV-Club.
-- **Datos no confirmados:** No se ha podido verificar el número de serie individual del Dewoitine D.500 accidentado. Tampoco se ha encontrado documentación oficial primaria que respalde los hitos militares o las circunstancias exactas del accidente.
-- **Nivel de confianza:** Medio (la información proviene de fuentes secundarias de divulgación, no de archivos militares oficiales)
+- **Timestamp de verificación:** 2026-08-20 12:00:00 CST  
+- **Fuentes primarias/institucionales consultadas:** ninguna gaceta ni expediente militar accesible; la publicación conmemorativa de la FAV en Facebook es institucional de divulgación, no un archivo
+- **Fuentes secundarias de contraste:** FAV-Club (Soto Loreto, con bibliografía Lon Blanco, Gómez Núñez, Paredes y Pedrique); blog «Cuando Venezuela estaba bien gobernada»; Historias Taurinas (archivo familiar Zafrané)
+- **Discrepancias resueltas:** FAV-Club y el post fijan el nacimiento el 19 de abril de 1908 en Caracas; Historias Taurinas escribe «Caracas en 1907». Se mantiene 1908, convergente con FAV-Club y con la edad de 28 años al morir el 30 de abril de 1936. La misión a Francia (Quintero, Zafrané, Pacanins) está en FAV-Club (llegada a El Havre el 6 de febrero de 1935) y en el blog de aniversario (misión de 1934). El número de serie del Dewoitine accidentado sigue sin fuente primaria.
+- **Nivel de confianza:** Medio — convergencia de fuentes de divulgación venezolana; sin expediente militar abierto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

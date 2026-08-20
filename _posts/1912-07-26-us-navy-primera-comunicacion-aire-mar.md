@@ -83,6 +83,8 @@ El concepto probado en Annapolis en 1912 sentó las bases operativas de la guerr
 ## Referencias Verificadas
 - <a href="https://www.marinelink.com/news/this-day-in-naval-history-july-26316253" style="color: #315fea; text-decoration: none;">MarineLink / Navy News Service: This Day in Naval History - First Airborne Radio Communications to Ship (26 July 1912)</a>
 - <a href="https://www.usni.org/magazines/proceedings/1944/april/discussions-comments-and-notes" style="color: #315fea; text-decoration: none;">U.S. Naval Institute (USNI Proceedings): Early Naval Airborne Radio Development Records</a>
+- <a href="https://www.history.navy.mil/content/dam/nhhc/research/histories/naval-aviation/pdf/PART01.PDF" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command — United States Naval Aviation 1910–1915, «A Few Pioneers»: 26 July 1912, Wright B-1, Rodgers y Maddox al Stringham</a>
+- <a href="https://en.wikipedia.org/wiki/United_States_naval_aviation" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — United States naval aviation</a>
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La aeronave empleada en la prueba histórica fue el hidroavión Wright B-1 (número de serie B-1 de la Armada de EE. UU.), una versión modificada del Wright Model B terrestre adaptada con flotadores centrales para despegues acuáticos en el río Severn. En 1914, bajo el primer sistema de designación unificado de la Armada (Orden General N.° 88), este aparato histórico fue rebautizado con la matrícula AH-4. Asimismo, aunque la prueba fue pilotada por el Teniente John Rodgers, el diseño del equipo de radio y la operación manual de la clave de Morse en vuelo fueron ejecutados de forma directa por el Alférez Charles H. Maddox.</p>
@@ -91,9 +93,9 @@ El concepto probado en Annapolis en 1912 sentó las bases operativas de la guerr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias/institucionales consultadas:** Naval History and Heritage Command (NHHC Archives), US Navy General Order No. 88, U.S. Naval Institute (USNI).
-- **Fuentes secundarias de contraste:** MarineLink, Capital Gazette, HathiTrust Digital Library.
+- **Timestamp de verificación:** 2026-08-20 12:00:00 CST  
+- **Fuentes primarias/institucionales consultadas:** NHHC, PDF «A Few Pioneers» (entrada del 26 de julio de 1912: Wright B-1, teniente John Rodgers, Charles H. Maddox, Stringham TB-19, ~1,5 millas); USNI Proceedings
+- **Fuentes secundarias de contraste:** MarineLink / Navy News Service; Wikipedia (EN) United States naval aviation
 - **Discrepancias resueltas:** Se precisó la nomenclatura de la nave (Wright B-1 / AH-4) y del buque torpedero receptor (USS Stringham TB-19).
 - **Nivel de confianza:** Alto.
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
