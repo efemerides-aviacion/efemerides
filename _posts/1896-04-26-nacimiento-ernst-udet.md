@@ -56,7 +56,7 @@ La aviación militar alemana evolucionó rápidamente durante la Primera Guerra 
 
 La figura del "as de la aviación" se consolidó en Alemania como un héroe nacional. Manfred von Richthofen (80 victorias) y Ernst Udet (62) eran nombres conocidos por todos los alemanes. La prensa difundía sus hazañas y el gobierno los utilizaba como símbolos de la superioridad tecnológica y el espíritu combativo alemán. Después de la guerra, Udet mantuvo su estatus de celebridad, participando como piloto acrobático en espectáculos aéreos en Europa y Estados Unidos, e incluso actuando en películas como SOS Iceberg (1933), filmada en Groenlandia.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **26 de abril de 1896:** Nace Ernst Udet en Fráncfort del Meno.
 - **1909:** Ayuda a fundar el Aero-Club de Munich.

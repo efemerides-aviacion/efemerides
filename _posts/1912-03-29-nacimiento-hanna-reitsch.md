@@ -52,7 +52,7 @@ Alemania fue líder mundial en vuelo sin motor durante el período de entreguerr
 ### Entorno cultural
 El régimen nazi explotó la figura de Reitsch como símbolo de la «mujer alemana moderna»: valiente, disciplinada y al servicio del Estado. Aunque no era miembro del partido, aceptó su rol propagandístico y se convirtió en una figura pública cercana a Hitler, a quien admiraba.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **29 de marzo de 1912:** Nace Hanna Reitsch en Hirschberg, Silesia.
 - **1920s:** Durante su adolescencia, visita clubes de vuelo sin motor en la montaña Riesen, desafiando la oposición familiar.
@@ -80,14 +80,14 @@ El régimen nazi explotó la figura de Reitsch como símbolo de la «mujer alema
 - **Récords femeninos de altitud:** Superó los 6.800 m en planeador y los 12.400 m en avión a reacción.
 - **Récord femenino de distancia** en vuelo sin motor (1937, Alpes).
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Pionera técnica:** Demostró la viabilidad del vuelo bajo techo en helicóptero, probó el primer caza cohete operativo y fue la única persona en pilotar una V-1 en vuelo controlado.
 - **Símbolo del régimen nazi:** Su cercanía al liderazgo alemán la convirtió en un instrumento propagandístico, lo que empañó su legado en la posguerra.
 - **Ejemplo de tenacidad:** Sufrió múltiples accidentes con fracturas, quemaduras y conmociones cerebrales, pero siempre retornó al vuelo.
 - **Legado controvertido:** A pesar de su habilidad técnica indiscutida, su colaboración con el nazismo y su negativa a condenarlo tras la guerra la convierten en una figura histórica compleja, admirada por sus logros pero cuestionada éticamente.
 
-### Legado
+## Legado
 
 Hanna Reitsch es recordada como una de las aviadoras más audaces y técnicamente competentes del siglo XX. Su contribución al desarrollo de la aviación —especialmente en alas rotatorias, vuelo cohete y sistemas no tripulados— fue pionera. Sin embargo, su legado sigue siendo controvertido debido a su adhesión al nacionalsocialismo. Numerosos documentales y libros han explorado su vida, destacando tanto su destreza como su ambivalencia moral.
 

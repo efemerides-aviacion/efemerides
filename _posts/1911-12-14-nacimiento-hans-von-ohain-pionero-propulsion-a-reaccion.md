@@ -40,7 +40,7 @@ image: 1911-12-14-nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.webp
 
 En los años 30, la aviación estaba limitada por la propulsión a hélice. Los motores de pistón alcanzaban sus límites físicos en términos de altitud y velocidad. Von Ohain abordó el problema desde la física y la termodinámica, buscando un diseño más simple que el de sus contemporáneos. Su colaboración con Ernst Heinkel, un pionero de la aviación alemana, permitió desarrollar el primer turborreactor funcional.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 
 El camino de von Ohain hacia el primer motor a reacción funcional fue notablemente rápido. A continuación se presentan los hitos más importantes de su carrera.
 
@@ -49,7 +49,7 @@ El camino de von Ohain hacia el primer motor a reacción funcional fue notableme
 - **1937:** Prueba estática exitosa del HeS 1 (funcionaba con hidrógeno en lugar de queroseno).
 - **1939:** Vuelo histórico del Heinkel He 178, primer avión propulsado por un turborreactor (HeS 3).
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 
 El trabajo de von Ohain tuvo consecuencias de gran alcance para la aviación mundial.
 
@@ -57,7 +57,7 @@ El trabajo de von Ohain tuvo consecuencias de gran alcance para la aviación mun
 - **Adaptación del concepto para la aviación comercial tras la guerra:** Los principios del turborreactor se aplicaron a los aviones de pasajeros, dando origen a la era del jet comercial en la década de 1950.
 - **Impulso a nuevas tecnologías:** El motor a reacción impulsó el desarrollo de cabinas presurizadas, sistemas de control de vuelo y materiales avanzados.
 
-### Legado
+## Legado
 
 Von Ohain y Frank Whittle son reconocidos como **coinventores del turborreactor**. Aunque Whittle patentó la idea antes (1930) y fue el primero en hacer funcionar un motor práctico (1937), el diseño de von Ohain fue el primero en volar (1939). Esta controversia se resolvió reconociendo a ambos como pioneros independientes.
 

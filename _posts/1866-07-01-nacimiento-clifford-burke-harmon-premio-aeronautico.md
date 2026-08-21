@@ -50,7 +50,7 @@ En el plano técnico, los aeroplanos de la década de 1910 eran estructuras frá
 ### Entorno cultural
 La cultura de la época encumbró la figura del aviador como la encarnación suprema del pionero moderno, un héroe de la técnica y la audacia individual. En este ambiente cosmopolita, se consideraba que el desarrollo de los cielos debía servir como un puente de fraternidad universal entre las naciones, lo que motivó a filántropos como Harmon a instituir galardones internacionales para unir a los pueblos.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La vida de Clifford B. Harmon entrelazó de manera brillante los negocios de la urbanización moderna con su apasionado compromiso por el progreso de la aviación. A continuación, se detallan los hitos cronológicos más destacados de su biografía:
 
@@ -63,7 +63,7 @@ La vida de Clifford B. Harmon entrelazó de manera brillante los negocios de la 
 - **1926:** Establece formalmente los Trofeos Harmon (*Harmon Trophies*), los cuales se consolidan de inmediato como los premios internacionales de mayor prestigio en la aviación civil.
 - **25 de junio de 1945:** Fallece en Cannes, Francia, a los 78 años, disponiendo en su testamento de un fondo fiduciario millonario para garantizar la continuidad y el financiamiento perpetuo de sus trofeos.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La visión filantrópica de Clifford B. Harmon y la creación de sus trofeos internacionales en 1926 tuvieron un profundo impacto en la profesionalización de la aviación y en el reconocimiento de la pericia de pilotaje. Su legado impulsó la excelencia en la cabina y sirvió como un estímulo fundamental para los aviadores del siglo XX.
 
@@ -72,7 +72,7 @@ La visión filantrópica de Clifford B. Harmon y la creación de sus trofeos int
 - **Consolidación de las misiones espaciales:** La incorporación de la categoría de *Astronauta* en 1969 por parte de los administradores del fideicomiso expandió la influencia del premio hacia la era espacial, reconociendo misiones históricas como la de Gordon Cooper a bordo de la nave Mercury y los posteriores hitos del programa Apolo.
 - **Promoción de la fraternidad internacional:** La *Ligue Internationale des Aviateurs* funcionó como una de las primeras casas de registro aeronáutico transnacional, ayudando a los pilotos a compartir datos meteorológicos, informes de accidentes y normas de seguridad en los inicios del transporte aéreo comercial.
 
-### Legado
+## Legado
 
 A más de ochenta años de su fallecimiento, el nombre de Clifford B. Harmon permanece indisolublemente unido a los hitos de mayor prestigio en la historia de la navegación aérea mundial. Su idealismo pacífico y su pasión por el vuelo continúan inspirando a las nuevas generaciones de aeronautas.
 

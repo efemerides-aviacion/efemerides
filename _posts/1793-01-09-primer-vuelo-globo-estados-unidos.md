@@ -56,7 +56,7 @@ El vuelo de Blanchard en Filadelfia marcó la llegada de la aerostación al cont
 - El aterrizaje cerca del "Roble Clement" en Nueva Jersey se convirtió en un símbolo local.
 - La aerostación se integró en la cultura ilustrada de finales del siglo XVIII.
 
-### Legado
+## Legado
 
 - Consolidó a Blanchard como pionero de la aeronáutica, tras su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html" style="color: #315fea; text-decoration: none;">cruce del Canal de la Mancha en 1785</a>.
 - Introdujo la aerostación en América y abrió camino a futuros usos militares y científicos de los globos.

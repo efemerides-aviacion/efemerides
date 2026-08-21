@@ -57,7 +57,7 @@ La aviación militar en 1916 estaba en plena evolución. La Escuadrilla Lafayett
 
 Los pilotos de la Escuadrilla Lafayette forjaron una cultura única, mezcla de audacia juvenil, disciplina militar francesa y un espíritu casi romántico de caballeros del aire. Vivían intensamente, conscientes de su alta probabilidad de muerte. Adoptaron dos leones como mascotas, llamados "Whiskey" y "Soda", que se convirtieron en símbolos no oficiales de la unidad. Sus nombres —Lufbery, Rockwell, Prince, Chapman, Thaw— se volvieron legendarios.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1914-1915:** Voluntarios estadounidenses sirven individualmente en unidades francesas.
 - **21 de marzo de 1916:** El Departamento Aeronáutico Francés autoriza oficialmente la formación de la Escuadrilla Americana (N.124).

@@ -85,13 +85,13 @@ La Gran Guerra Patria (1941-1945) fue una lucha existencial para la URSS. Los pi
 
 - **18 de mayo de 2001:** Sufre un infarto y fallece en Moscú a los 84 años. La celebración anticipada por su 85.º cumpleaños, programada para esa misma tarde, se convirtió en un homenaje póstumo.
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 
 El regreso de Marésiev al combate tuvo un profundo impacto moral en las filas soviéticas. Demostró que un piloto amputado podía ser igual de efectivo que uno sin discapacidad. Su ejemplo allanó el camino para que otros pilotos heridos solicitaran el regreso al servicio activo. Además, su hazaña fue utilizada por las autoridades soviéticas como herramienta propagandística para elevar la moral de las tropas y de la retaguardia.
 
 En términos tácticos, Marésiev acumuló siete victorias después de la amputación —tres de ellas en la decisiva batalla de Kursk—, lo que lo convirtió en uno de los pocos casos documentados de piloto de caza doble amputado que regresa a vuelo de combate.
 
-### Legado
+## Legado
 
 La vida de Marésiev fue inmortalizada por el escritor soviético Borís Polevoi en su novela *Historia de un hombre verdadero* (*Повесть о настоящем человеке*), publicada en 1946. Polevoi conoció a Marésiev en el hospital y transformó su historia en un clásico de la literatura soviética, obligatorio en el currículo escolar durante décadas. En el libro, el apellido del protagonista fue cambiado ligeramente a «Meresiev» por razones narrativas.
 

@@ -50,7 +50,7 @@ En el plano de la ingeniería de combate, los años treinta marcaron la transici
 ### Entorno cultural
 La propaganda de la Segunda Guerra Mundial y el consiguiente enfrentamiento de la Guerra Fría elevaron de manera unánime el estatus del piloto de caza a la categoría de héroe deportivo y tecnológico de masas. A pesar de los dilemas morales de las fuerzas armadas alemanas, los ases de combate eran presentados ante el público como caballeros del aire modernos que unían la audacia del piloto con el progreso de las ciencias mecánicas.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La vida de Hans-Ulrich Rudel se estructuró como una constante sucesión de vuelos de asalto de extrema peligrosidad en el Frente Oriental, detallada a continuación en sus fases más representativas:
 
@@ -66,7 +66,7 @@ La vida de Hans-Ulrich Rudel se estructuró como una constante sucesión de vuel
 - **8 de mayo de 1945:** Tras el cese formal de las hostilidades, vuela con su escuadrón hacia el oeste para rendirse ante las fuerzas aliadas estadounidenses en el aeródromo de Kitzingen, destrozando intencionadamente el tren de aterrizaje de su avión Ju 87 G-2 para evitar que cayera en manos rusas.
 - **18 de diciembre de 1982:** Fallece en Rosenheim, Alemania Occidental, a la edad de 66 años, tras haber pasado varios años exiliado en Argentina en la posguerra.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 Las hazañas tácticas de Hans-Ulrich Rudel y el éxito de los escuadrones de asalto que comandó tuvieron profundas repercusiones en el desarrollo de la aviación militar moderna y de la defensa contra blindados. Su pericia táctica demostró el potencial del cañón de gran calibre operado desde plataformas aéreas.
 
@@ -75,7 +75,7 @@ Las hazañas tácticas de Hans-Ulrich Rudel y el éxito de los escuadrones de as
 - **Validación de la solidaridad táctica:** Sus frecuentes rescates en pleno territorio enemigo de compañeros de escuadrón caídos demostraron el valor de la solidaridad de la tripulación en el frente, uniendo a sus hombres bajo una doctrina de camaradería de armas.
 - **Controversia política en la posguerra:** Su absoluta falta de arrepentimiento y su activa militancia neofascista en el exilio de Argentina (donde asesoró en aviación militar al régimen de Juan Perón) y en la política de la extrema derecha alemana generaron intensas controversias diplomáticas y sociales durante la Guerra Fría.
 
-### Legado
+## Legado
 
 Hans-Ulrich Rudel es recordado en la historia de la aeronáutica militar como el máximo exponente de la aviación de asalto del siglo XX, un piloto de una destreza de vuelo e invulnerabilidad física excepcionales. Su biografía continúa siendo objeto de riguroso análisis académico y técnico.
 

@@ -52,7 +52,7 @@ La aviación española vivía su época dorada en las décadas de 1920 y 1930. E
 ### Entorno cultural
 En la España de 1931, que una mujer volara era un acontecimiento extraordinario. La obtención de su licencia fue portada de La Vanguardia el 22 de enero de 1931, y la Diputación de Barcelona le rindió un homenaje público . Su figura se convirtió en un símbolo de modernidad y emancipación femenina.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1913 (31 de marzo):** Nace Maria Josep Colomer i Luque en Barcelona .
 - **1920s:** Desde niña muestra su pasión por volar; según la anécdota más famosa, a los siete años saltó desde un balcón con un paraguas como Mary Poppins, fracturándose ambas piernas .

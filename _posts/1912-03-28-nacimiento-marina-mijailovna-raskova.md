@@ -51,7 +51,7 @@ La aviación soviética de los años 30 vivió un rápido desarrollo. Diseños c
 ### Entorno cultural
 La figura de la aviadora era heroica en la URSS. Raskova, junto a Valentina Grizodubova y Polina Osipenko, formó el trío de aviadoras más célebre del país. Su libro *Zapiski shturmana* (Notas de una navegante, 1939) inspiró a miles de jóvenes a unirse a la aviación.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **28 de marzo de 1912:** Nace Marina Malinina en Moscú.
 - **1919:** Su padre muere atropellado por una motocicleta. La familia queda en dificultades económicas.
@@ -66,13 +66,13 @@ La figura de la aviadora era heroica en la URSS. Raskova, junto a Valentina Griz
 - **1942:** Funda y entrena tres regimientos: el 586.º de caza (Yak-1), el 587.º de bombardeo (Pe-2, luego 125.º Regimiento de Bombardeo de la Guardia) y el 588.º de bombardeo nocturno (Po-2), conocido como las *Brujas de la Noche*.
 - **4 de enero de 1943:** Raskova fallece cuando su Pe-2 se estrella cerca de Sarátov durante un vuelo de traslado en condiciones meteorológicas adversas. Es enterrada con honores en la Muralla del Kremlin.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Pionera de la aviación femenina:** Raskova demostró que las mujeres podían volar en combate con la misma eficacia que los hombres. Sus tres regimientos acumularon más de 30.000 misiones de guerra y produjeron al menos 30 Heroínas de la Unión Soviética.
 - **Modelo de liderazgo:** Su capacidad para formar y comandar unidades desde cero en tiempo de guerra fue reconocida por sus contemporáneas. La historiadora Reina Pennington la califica como "la madre de la aviación militar femenina soviética".
 - **Legado simbólico:** Su figura fue utilizada por el régimen soviético como ejemplo de patriotismo y sacrificio. Tras su muerte, se erigieron monumentos y se nombraron calles en su honor.
 
-### Legado
+## Legado
 
 Las *Brujas de la Noche* (588.º Regimiento de Bombardeo Nocturno) siguen siendo uno de los símbolos más potentes de la contribución soviética a la Segunda Guerra Mundial. Raskova, a pesar de no haber sobrevivido a la guerra, es recordada como la fundadora de la aviación militar femenina soviética. Su nombre figura en aeropuertos, museos y libros de historia. En 2018, el Banco de Rusia emitió una moneda conmemorativa en su honor.
 

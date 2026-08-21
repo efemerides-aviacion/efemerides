@@ -24,7 +24,7 @@ redirect_from:
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha de nacimiento:** 23 de enero de 1886  
 - **Lugar:** Caracas, Venezuela  
 - **Formación pionera:**  
@@ -57,7 +57,7 @@ Se formó en Francia en los albores de la aviación, cuando los vuelos eran expe
 ### Entorno cultural
 Su trayectoria inspiró orgullo nacional y la institucionalización de la aviación militar en Venezuela.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 1903: Inicia carrera militar en la Armada venezolana.  
 - 1911: Viaja a Francia con beca para formarse en aviación.  
 - 1912–1913: Obtiene brevet de piloto civil, primer venezolano en lograrlo.  
@@ -67,10 +67,10 @@ Su trayectoria inspiró orgullo nacional y la institucionalización de la aviaci
 - 1933: Adopta nacionalidad francesa.  
 - 1935: Muere asesinado en Fez, Marruecos.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 Su vida y hazañas consolidaron la aviación militar venezolana y lo convirtieron en referente histórico.
 
-### Legado
+## Legado
 Recordado como el primer piloto de guerra venezolano y héroe de la Primera Guerra Mundial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

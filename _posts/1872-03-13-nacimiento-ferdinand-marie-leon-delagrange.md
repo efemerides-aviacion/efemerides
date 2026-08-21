@@ -21,7 +21,7 @@ image: 1872-03-13-nacimiento-ferdinand-marie-leon-delagrange.webp
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Datos biográficos y eventos
+## Datos verificados del evento
 - **Fecha de nacimiento:** 13 de marzo de 1872
 - **Lugar de nacimiento:** Orléans, Francia
 - **Padres:** Henri M. Ferdinand Delagrange (1845-?) y Aimée Lucie Gaucheron (1852-?), propietarios de una fábrica textil en Orléans
@@ -52,7 +52,7 @@ La aviación daba sus primeros pasos. Tras los experimentos de Clément Ader (18
 ### Entorno cultural
 En el mundo del arte, el academicismo de la École des Beaux-Arts comenzaba a ser cuestionado por las vanguardias. Delagrange, formado en la tradición escultórica más clásica, representa el tránsito de una generación que, sin renunciar a sus raíces, abrazó con pasión la modernidad tecnológica. Su elegancia y su imagen de "dandi volador" encajaban perfectamente con el espíritu de una época que admiraba tanto la belleza como el riesgo.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **13 de marzo de 1872:** Nace en Orléans, en el seno de una familia de industriales textiles.
 - **1880-1890:** Realiza estudios primarios y secundarios en el Petit séminaire de La Chapelle-Saint-Mesmin, cerca de Orléans.
@@ -75,11 +75,11 @@ En el mundo del arte, el academicismo de la École des Beaux-Arts comenzaba a se
 - **4 de enero de 1910:** Durante una exhibición en Croix d'Hins, cerca de Burdeos, el ala de su Blériot XI se desploma en pleno vuelo. Delagrange fallece en el acto. Tenía 37 años.
 - **Enero de 1910:** Es sepultado en su Orléans natal, con honores.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La muerte de Delagrange, a los 37 años y en la cima de su fama, conmocionó a Francia y al mundo de la aviación. Fue uno de los primeros pilotos célebres en fallecer en un accidente aéreo, y su trágico final puso de relieve los riesgos extremos que asumían aquellos pioneros. Su desaparición, apenas unos meses antes del primer gran meeting de Reims (agosto de 1910), privó a la aviación francesa de una de sus figuras más carismáticas.
 
-### Legado
+## Legado
 
 Léon Delagrange ocupa un lugar destacado en la historia de la aviación por varias razones:
 

@@ -24,7 +24,7 @@ redirect_from:
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha de nacimiento:** 4 de febrero de 1902  
 - **Lugar:** Detroit, Michigan, Estados Unidos  
 - **Padres:** Charles August Lindbergh y Evangeline Lodge Land  
@@ -51,7 +51,7 @@ El nacimiento de Lindbergh coincidió con el auge de la aviación temprana. Su v
 - Simpatías aislacionistas en los años previos a la Segunda Guerra Mundial.  
 - Posteriormente colaboró como consultor técnico en la industria aeronáutica y médica.  
 
-### Legado
+## Legado
 - Figura emblemática de la aviación mundial.  
 - Reconocido en múltiples museos y homenajes, incluyendo el San Diego Air & Space Museum.  
 

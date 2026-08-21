@@ -49,7 +49,7 @@ La aviación comercial de la década de 1920 y 1930 se caracterizaba por su extr
 ### Entorno cultural
 El período de entreguerras vio nacer una corriente cultural que glorificaba la figura del aviador como el nuevo héroe de la modernidad, un explorador del espacio y del alma humana. Los escritos de Saint-Exupéry, nutridos directamente de sus bitácoras de vuelo, ayudaron a cimentar esta mitología en la literatura universal, transformando la fría técnica del vuelo en una profunda filosofía sobre el deber, la fraternidad y el sentido ético del esfuerzo colectivo.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La vida de Antoine de Saint-Exupéry fue una constante sucesión de vuelos de exploración, creación literaria y servicio militar, la cual se detalla a continuación en sus hitos más representativos:
 
@@ -64,7 +64,7 @@ La vida de Antoine de Saint-Exupéry fue una constante sucesión de vuelos de ex
 - **Abril de 1943:** Tras exiliarse en Estados Unidos, donde escribe e ilustra su obra maestra *El principito*, regresa al norte de África para unirse de nuevo al servicio de reconocimiento aéreo de las Fuerzas de la Francia Libre.
 - **31 de julio de 1944:** Despega de la base aérea de Borgo, en Córcega, a bordo de un avión de fotorreconocimiento sin armamento Lockheed P-38 Lightning (matrícula F-5B). Su rastro se pierde en el radar y es declarado desaparecido en acción. <a href="https://efemerides-aviacion.github.io/efemerides/evento/1944/07/31/ultimo-vuelo-antoine-saint-exupery.html" style="color: #315fea; text-decoration: none;">Ver efeméride de su último vuelo</a>.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 El nacimiento y posterior trayectoria de Saint-Exupéry tuvieron un profundo impacto tanto en el desarrollo técnico de las aerolíneas postales como en la percepción pública de la aviación. Su vida sirvió para humanizar la tecnología aérea en un momento de rápido crecimiento industrial.
 
@@ -72,7 +72,7 @@ El nacimiento y posterior trayectoria de Saint-Exupéry tuvieron un profundo imp
 - **Símbolo de la resistencia francesa:** Su trágica desaparición en vuelo en el verano de 1944 lo convirtió en un mártir nacional y en un símbolo de la lucha francesa contra la ocupación nazi, siendo declarado formalmente como un héroe que murió por la patria (*Mort pour la France*).
 - **Consolidación de la literatura de aviación:** Saint-Exupéry demostró que la experiencia aeronáutica era una fuente inagotable de reflexiones filosóficas. Sus obras ganaron prestigiosos premios literarios internacionales y acercaron el mundo de la cabina y la cabecera de pista al público general de forma poética y respetuosa.
 
-### Legado
+## Legado
 
 El legado de Antoine de Saint-Exupéry trasciende el ámbito de las letras y la aviación de entreguerras, consolidándose como un patrimonio cultural y humanista para toda la humanidad. Sus reflexiones sobre el deber, la amistad y la responsabilidad continúan vigentes en el siglo XXI.
 

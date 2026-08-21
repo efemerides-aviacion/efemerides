@@ -45,16 +45,16 @@ El paracaídas de Berry era rudimentario, plegado en un contenedor metálico baj
 ### Entorno cultural
 El salto fue ampliamente difundido en prensa y considerado un acto de audacia, reforzando la imagen de la aviación como campo de experimentación heroica.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1911:** Posible salto de Grant Morton desde un Wright Model B en California (no documentado oficialmente).  
 - **1912, 1 marzo:** Salto de Albert Berry en Jefferson Barracks, Missouri.  
 - **1912–1913:** Experimentos posteriores consolidan el uso del paracaídas en aviación.  
 - **Décadas siguientes:** El paracaídas se convierte en equipo estándar de emergencia y en disciplina deportiva.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El salto de Berry abrió la puerta al paracaidismo militar, que sería decisivo en operaciones aerotransportadas de la Segunda Guerra Mundial, y al paracaidismo deportivo como disciplina independiente.
 
-### Legado
+## Legado
 Recordado como pionero del paracaidismo, su salto es considerado el inicio oficial del uso del paracaídas en aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

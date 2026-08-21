@@ -44,17 +44,17 @@ El globo estaba construido con tela forrada de papel y alimentado con una mezcla
 ### Entorno cultural
 Italia, bajo dominio austríaco, se convirtió en el primer país fuera de Francia en experimentar vuelos aerostáticos, consolidando el prestigio de Andreani como pionero.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1763:** Nace Paolo Andreani en Milán.  
 - **1783:** Primeros vuelos de los Montgolfier en Francia.  
 - **1784, 25 feb:** Primer vuelo en globo en Italia, desde Villa Moncucco.  
 - **1784, 13 mar:** Vuelo público desde Villa Sormani, alcanzando 1.537 m y 8 km.  
 - **1823:** Fallece en Milán, recordado como pionero de la aerostática italiana.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El vuelo de Andreani fue el primer éxito aerostático fuera de Francia, demostrando la rápida difusión de la tecnología de los Montgolfier y abriendo camino a la aerostática en Italia.
 
-### Legado
+## Legado
 Andreani es recordado como el “Montgolfier milanés”, pionero de la aviación italiana y figura clave en la historia temprana de los vuelos aerostáticos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

@@ -50,7 +50,7 @@ En el plano tecnológico, el surgimiento de la metalurgia ligera del aluminio, a
 ### Entorno cultural
 El vuelo inaugural del LZ 1 in el verano de 1900 marcó el nacimiento de una fascinación popular y cultural sin parangón en la historia de la aviación, la «fiebre del zepelín» (*Zeppelin-Fieber*). Este hito pionero redefinió de manera definitiva la percepción colectiva del cielo, el cual dejó de ser visto como un espacio inaccesible para convertirse en una aerovía abierta para la exploración del planeta.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La travesía del primer zepelín de la historia estuvo precedida por años de planificación militar y financiera, culminando con tres históricos vuelos de prueba sobre las aguas del lago de Constanza:
 
@@ -62,7 +62,7 @@ La travesía del primer zepelín de la historia estuvo precedida por años de pl
 - **24 de octubre de 1900:** Se lleva a cabo el tercer y último vuelo de pruebas del prototipo, donde la aeronave de manera fáctica logra batir la marca mundial de velocidad de la época al volar a casi 28 km/h.
 - **Primavera de 1901:** La sociedad promotora se disuelve formalmente por falta de fondos adicionales, lo que obliga al conde Zeppelin a desmantelar de forma silenciosa el LZ 1 para reutilizar el metal en el diseño del posterior LZ 2.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 Aunque el LZ 1 fue desmantelado de forma prematura por falta de apoyo financiero, su corta vida operativa sentó las bases conceptuales para el posterior nacimiento de las grandes líneas de transporte de pasajeros. La hazaña del 2 de julio de 1900 demostró que el vuelo rígido intercontinental era una realidad.
 
@@ -71,7 +71,7 @@ Aunque el LZ 1 fue desmantelado de forma prematura por falta de apoyo financiero
 - **Nacimiento de la aviación comercial (DELAG):** La perseverancia del conde y el posterior apoyo popular tras los accidentes de los modelos LZ 4 y LZ 5 permitieron la fundación en 1909 de la DELAG, la primera aerolínea comercial regular de pasajeros del mundo, que operaría con éxito modelos tan avanzados como el LZ 7 *Deutschland*.
 - **Impacto estratégico militar:** La demostración de que una aeronave podía permanecer horas en el aire con toneladas de carga útil atrajo la atención de la marina y el ejército prusiano, transformando la doctrina de reconocimiento estratégico y bombardeo de la Primera Guerra Mundial.
 
-### Legado
+## Legado
 
 El conde Ferdinand von Zeppelin y su primer dirigible LZ 1 permanecen en la historia como los pioneros supremos que abrieron el camino para la era dorada de los grandes aerostatos transatlánticos. Su herencia de tenacidad y precisión técnica continúa influyendo en la aviación moderna.
 

@@ -24,7 +24,7 @@ redirect_from:
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Datos biográficos y eventos
+## Datos verificados del evento
 - **Fecha de nacimiento:** 18 de marzo de 1913
 - **Lugar de nacimiento:** Gelsenkirchen, Westfalia, Imperio Alemán
 - **Logros destacados:** Primer piloto en la historia en alcanzar 100 victorias aéreas; principal as alemán de la Guerra Civil Española (14 victorias); desarrollador de la formación en cuña de cuatro (finger-four); condecorado con la Cruz de Caballero con Hojas de Roble, Espadas y Diamantes
@@ -46,7 +46,7 @@ La aviación militar experimentaba un desarrollo acelerado. Tras el Tratado de V
 ### Entorno cultural
 El mito del "as de la aviación" estaba profundamente arraigado en la cultura alemana desde la Primera Guerra Mundial, con figuras como Manfred von Richthofen, el "Barón Rojo". La Luftwaffe cultivaba una imagen de elite tecnológica y caballerosidad en el combate aéreo. Mölders encarnó este ideal: un líder paternal con sus subordinados (le apodaban "Vati", papá), profundamente religioso y que exigía un trato digno a los pilotos enemigos capturados, incluso invitándolos a cenar en ocasiones.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **18 de marzo de 1913:** Nace Werner Mölders en Gelsenkirchen.
 - **2 de marzo de 1915:** Su padre, Viktor Mölders, muere en combate en Francia durante la Primera Guerra Mundial.
@@ -84,11 +84,11 @@ El mito del "as de la aviación" estaba profundamente arraigado en la cultura al
 - **22 de noviembre de 1941:** Viaja como pasajero en un Heinkel He 111 desde Crimea a Berlín para asistir al funeral del general Ernst Udet. Durante una tormenta cerca de Breslau, el motor izquierdo falla y al intentar un aterrizaje de emergencia, el avión se estrella. Mölders sufre fractura de columna y fallece instantáneamente.
 - **28 de noviembre de 1941:** Funeral de Estado en Berlín. Es enterrado en el Cementerio de los Inválidos (Invalidenfriedhof), junto a Manfred von Richthofen y Ernst Udet.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La muerte de Werner Mölders conmocionó a la Luftwaffe y a la propaganda nazi, que perdió a uno de sus símbolos más importantes. Su funeral de Estado, con Hermann Göring pronunciando el panegírico, reflejó la importancia que el régimen concedía a sus ases de aviación. Su unidad, el JG 51, recibió el nombre honorífico "Mölders" en su memoria.
 
-### Legado
+## Legado
 
 Werner Mölders ocupa un lugar excepcional en la historia de la aviación militar:
 

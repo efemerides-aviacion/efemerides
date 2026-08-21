@@ -24,7 +24,7 @@ redirect_from:
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Datos biográficos y eventos
+## Datos verificados del evento
 - **Fecha de nacimiento:** 19 de marzo de 1912
 - **Lugar de nacimiento:** Westerholt, Westfalia, Imperio Alemán
 - **Logros destacados:** 104 victorias aéreas confirmadas en 705 misiones de combate (todas en el Frente Occidental); creador y comandante del Jagdverband 44; General de Cazas (General der Jagdflieger) con solo 29 años; condecorado con la Cruz de Caballero con Hojas de Roble, Espadas y Diamantes
@@ -46,7 +46,7 @@ El Tratado de Versalles prohibía a Alemania tener fuerza aérea, pero permitía
 ### Entorno cultural
 La figura del "as de la aviación" estaba profundamente arraigada en la cultura alemana desde la Primera Guerra Mundial, con Manfred von Richthofen como máximo exponente. La Luftwaffe cultivaba una imagen de elite tecnológica y caballerosidad en el combate aéreo, valores que Galland encarnó y defendió durante toda la guerra, oponiéndose a órdenes que consideraba contrarias al honor militar, como el fusilamiento de pilotos en paracaídas.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **19 de marzo de 1912:** Nace Adolf Joseph Ferdinand Galland en Westerholt, Westfalia.
 - **1927:** A los 15 años comienza a volar planeadores en el club local de Borkenberge. Pronto se convierte en instructor de vuelo sin motor.
@@ -98,7 +98,7 @@ Las investigaciones históricas modernas, basadas en el análisis de los microfi
 
 El consenso académico actual mantiene la cifra de **104 victorias** como la oficialmente reconocida, teniendo en cuenta que los sistemas de verificación de la Luftwaffe exigían testigos presenciales y partes de combate, aunque en la práctica, especialmente en los últimos meses de la guerra, muchas reclamaciones pudieron quedar sin registrar o validarse con menor rigor.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La figura de Adolf Galland trasciende su propio historial como as de la aviación:
 
@@ -107,7 +107,7 @@ La figura de Adolf Galland trasciende su propio historial como as de la aviació
 - **Relación con el régimen:** Su figura es inseparable del nazismo al que sirvió, pero también representa la tensión entre el militar profesional y la dirección política. Su destitución y posterior rehabilitación reflejan las contradicciones del Tercer Reich en su fase final.
 - **Reconciliación de posguerra:** Su amistad con exenemigos como Douglas Bader simboliza la capacidad de superar las hostilidades del conflicto y construir puentes entre antiguos adversarios.
 
-### Legado
+## Legado
 
 Adolf Galland ocupa un lugar excepcional en la historia de la aviación militar:
 

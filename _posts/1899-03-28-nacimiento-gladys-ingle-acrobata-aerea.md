@@ -50,7 +50,7 @@ Los biplanos como el Curtiss JN-4 «Jenny» o los Travel Air se usaban comúnmen
 ### Entorno cultural
 Los *flying circuses* recorrían pueblos de EE.UU. ofreciendo un espectáculo que combinaba aviación, riesgo y glamur. Equipos como los *13 Black Cats* (trece gatos negros) se hicieron famosos por sus piruetas y su estética llamativa. Ingle era la única mujer del grupo, y su presencia atraía multitudes.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **28 de marzo de 1899:** Nace Gladys Ingle en Walla Walla, Washington.
 - **1910s-1920:** Desde niña muestra audacia extrema: camina sobre cercas, usa zancos gigantes y corre en motocicletas salvajes.
@@ -62,14 +62,14 @@ Los *flying circuses* recorrían pueblos de EE.UU. ofreciendo un espectáculo qu
 - **1930s:** Continúa actuando con los *13 Black Cats* hasta que el equipo se disuelve por la Gran Depresión.
 - **1981:** Se muda con su hija Bonnie al sur de California; fallece el 27 de octubre.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Pionera de la aviación femenina:** Ingle demostró que las mujeres podían realizar las mismas proezas extremas que los hombres, en una época en que la aviación acrobática era considerada territorio masculino.
 - **Icono mediático:** Sus fotografías y noticieros la convirtieron en una figura conocida en todo EE.UU. El famoso cambio de rueda en el aire fue inmortalizado en prensa y cine.
 - **Seguridad y legado técnico:** Aunque las acrobacias eran extremadamente peligrosas, Ingle sobrevivió a varios accidentes y nunca perdió la compostura, afirmando que «nunca sentía miedo». Su profesionalismo influyó en los estándares de seguridad posteriores para especialistas aéreos.
 - **Preservación histórica:** Sus películas y fotografías se conservan en instituciones como el Smithsonian National Air and Space Museum.
 
-### Legado
+## Legado
 
 Gladys Ingle es recordada como una de las grandes *wing walkers* de la época dorada de la aviación acrobática. Su nombre aparece junto a otros pioneros como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1892/01/26/nacimiento-bessie-coleman.html" style="color: #315fea; text-decoration: none;">Bessie Coleman</a>, Amelia Earhart y los pilotos de los *flying circuses*. Aunque hoy menos conocida que algunos de sus contemporáneos, su imagen cambiando una rueda en pleno vuelo sigue siendo un símbolo del valor y la destreza en la historia de la aviación.
 

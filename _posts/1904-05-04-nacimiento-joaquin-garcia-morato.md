@@ -57,7 +57,7 @@ La aviación militar española en la década de 1920 utilizaba aviones obsoletos
 
 La década de 1930 fue la "Edad de Oro" de la aviación, con pilotos como Lindbergh (1927) y los récords de velocidad y distancia que fascinaban al público. García-Morato era una figura conocida en los círculos aeronáuticos por sus actuaciones acrobáticas. Frecuentemente invitado a concursos y festivales aéreos, era considerado uno de los mejores pilotos acrobáticos de España. Su técnica de pilotaje y sus conocimientos teóricos le valieron el respeto de sus colegas y superiores.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **8 de septiembre de 1920:** Ingresa en la Academia de Infantería de Toledo a los 16 años
 - **6 de diciembre de 1922:** Asciende a alférez de Infantería

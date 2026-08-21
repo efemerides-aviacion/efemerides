@@ -55,7 +55,7 @@ Cuando Richthofen comenzó su carrera como piloto en 1915, la aviación militar 
 
 La figura del "as de la aviación" se consolidó durante la Primera Guerra Mundial como un héroe nacional. Richthofen fue el más famoso de todos, y su imagen fue intensamente utilizada por la propaganda alemana. El gobierno alemán lo convirtió en un símbolo de la superioridad tecnológica y el espíritu combativo alemán. Su decisión de pintar su avión de rojo fue una estrategia deliberada para ser reconocido tanto por sus aliados como por sus enemigos, creando una marca personal inconfundible.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **2 de mayo de 1892:** Nace Manfred von Richthofen en Breslavia, Silesia
 - **1911:** Se une al Regimiento de Uhlanes "Kaiser Alexander III"

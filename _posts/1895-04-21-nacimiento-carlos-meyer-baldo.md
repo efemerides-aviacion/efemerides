@@ -57,7 +57,7 @@ La aviación militar estaba en sus albores. En 1914, cuando estalló la guerra, 
 
 La figura del "as de la aviación" nació durante la Primera Guerra Mundial. Pilotos como Oswald Boelcke, Manfred von Richthofen y Ernst Udet se convirtieron en héroes nacionales en Alemania. La prensa difundía sus hazañas, y sus aviones, pintados con colores llamativos, eran fácilmente reconocibles. Meyer Baldó adoptó como insignia personal el dibujo de un perro babeante ("Bóxer Babeante") en su Fokker D.VII, una marca desafiante hacia sus enemigos.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **21 de abril de 1895:** Nace Carlos Otto Meyer Baldó en Maracaibo, Venezuela.
 - **1899:** La familia Meyer Baldó se muda a Caracas.

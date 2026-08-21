@@ -36,16 +36,16 @@ La aviación era una disciplina incipiente; los monoplanos tipo Blériot represe
 ### Entorno cultural
 El vuelo simbolizó la llegada del progreso y la "nueva era" que el maderismo prometía al país, rompiendo con el pasado tradicionalista.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 1. **Llegada:** Madero arriba a los llanos de Balbuena invitado por la escuela de aviación Moisant.
 2. **Preparación:** El piloto George M. Dyott prepara el monoplano mientras el gabinete presidencial observa.
 3. **Vuelo:** El avión despega y sobrevuela la zona por cerca de 12 minutos.
 4. **Aterrizaje:** Regreso seguro a tierra, donde Madero es ovacionado.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 A nivel internacional, el evento posicionó a México como un país pionero en el uso civil y gubernamental de la aviación. Inspiró la creación posterior de la Fuerza Aérea Mexicana.
 
-### Legado
+## Legado
 Madero es recordado no solo por su papel democrático, sino como el primer "Presidente Aviador", estableciendo un precedente que otros jefes de estado seguirían décadas después.
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas

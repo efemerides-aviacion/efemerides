@@ -23,7 +23,7 @@ image: 1895-11-25-nacimiento-adrienne-bolland.webp
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Datos biográficos y eventos
+## Datos verificados del evento
 - **Nombre completo:** Adrienne Armande Pauline Bolland  
 - **Fecha de nacimiento:** 25 de noviembre de 1895  
 - **Lugar de nacimiento:** Arcueil, Francia  
@@ -50,17 +50,17 @@ El Caudron G.3, aeronave ligera y de baja potencia, fue protagonista de sus haza
 ### Entorno cultural
 Bolland se convirtió en símbolo de la lucha por la igualdad de género y en referente de la aviación femenina en Europa y América Latina.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 1920: contratada como piloto de pruebas por Caudron.  
 - 1920: segundo cruce femenino del Canal de la Mancha.  
 - 1921: primer cruce femenino de la Cordillera de los Andes.  
 - 1924: récord femenino de loopings.  
 - 1930: matrimonio con Ernest Vinchon; participación en la Resistencia Francesa durante la Segunda Guerra Mundial.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 Su carrera demostró que las mujeres podían superar retos considerados imposibles. Fue inspiración para aviadoras posteriores y símbolo de resistencia política.
 
-### Legado
+## Legado
 Adrienne Bolland es recordada como pionera de la aviación mundial y defensora de la igualdad. Su figura sigue siendo homenajeada en Francia, Argentina y Chile.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

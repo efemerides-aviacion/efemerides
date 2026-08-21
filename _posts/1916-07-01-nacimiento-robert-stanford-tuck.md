@@ -50,7 +50,7 @@ En el aspecto de la ingeniería aeroespacial, la aviación de caza experimentó 
 ### Entorno cultural
 La figura del «as de caza» fue promovida por la prensa y el Ministerio de Aire británico como un Símbolo de valentía, resistencia y caballerosidad para mantener la moral de la población civil durante los bombardeos. Pilotos como Stanford Tuck, con su porte elegante, carisma desbordante y asombrosa puntería, se convirtieron en auténticas celebridades de la cultura de guerra, personificando el espíritu asertivo de la resistencia británica.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La fulgurante y cinematográfica carrera militar de Robert Stanford Tuck se desarrolló a lo largo de los años más críticos de la Segunda Guerra Mundial, detallándose a continuación sus hitos más significativos:
 
@@ -64,7 +64,7 @@ La fulgurante y cinematográfica carrera militar de Robert Stanford Tuck se desa
 - **13 de mayo de 1949:** Se retira formalmente del servicio activo de la RAF con el rango de comandante de ala (*Wing Commander*), habiendo prestado servicio también como piloto de pruebas en la posguerra.
 - **5 de mayo de 1987:** Fallece en Kent, Inglaterra, a la edad de 70 años, siendo recordado como uno de los héroes nacionales del Reino Unido.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 Las hazañas tácticas de Robert Stanford Tuck y el éxito de los escuadrones que lideró tuvieron profundas repercusiones en el desenlace de la guerra aérea sobre Europa Occidental. Su legado contribuyó a definir los estándares de entrenamiento y liderazgo en la aviación militar moderna.
 
@@ -73,7 +73,7 @@ Las hazañas tácticas de Robert Stanford Tuck y el éxito de los escuadrones qu
 - **Mitología de la camaradería aérea:** Su caballerosidad y su asombrosa reputación con el enemigo forjaron un respeto mutuo transnacional entre los ases de combate de ambos bandos, simbolizado en su legendaria amistad de posguerra con el as alemán <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1912/03/19/nacimiento-adolf-galland.html" style="color: #315fea; text-decoration: none;">Adolf Galland</a> (quien llegó a ser padrino del hijo de Tuck).
 - **Aportaciones como piloto de pruebas:** Su experiencia técnica en la posguerra sirvió para depurar los fallos iniciales de los nuevos reactores de combate y caza-bombarderos de la RAF, contribuyendo a la transición tecnológica de la aviación militar británica hacia la era del motor de reacción.
 
-### Legado
+## Legado
 
 Robert Stanford Tuck es recordado hoy como uno de los máximos exponentes de la era de oro de los pilotos de caza de la Royal Air Force. Su historia de supervivencia, puntería y caballerosidad es estudiada como un modelo de resiliencia humana y pericia técnica.
 

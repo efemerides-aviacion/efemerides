@@ -51,7 +51,7 @@ La aviación militar española vivió una etapa de modernización en los años t
 ### Entorno cultural
 La Guerra Civil Española fue un conflicto de enorme intensidad ideológica. Morquillas, como la mayoría de los pilotos republicanos, combatió motivado por la defensa de la legalidad republicana y la lucha contra el fascismo. Tras la derrota, su exilio en la URSS y su posterior integración en el Ejército Rojo durante la Segunda Guerra Mundial continuaron esa misma lucha en un escenario más amplio.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1914 (14 de marzo):** Nace Leopoldo Morquillas Rubio en Tarragona, en el seno de una familia con tradición militar.
 - **1933:** Se incorpora a la Aeronáutica Militar Española, siendo destinado inicialmente al aeródromo de El Prat de Llobregat (Barcelona).

@@ -23,7 +23,7 @@ redirect_from:
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Datos biográficos y eventos
+## Datos verificados del evento
 - **Fecha de nacimiento:** 14 de marzo de 1885
 - **Lugar de nacimiento:** Chamalières, Puy-de-Dôme, Francia
 - **Padres:** Edward Lufbery (estadounidense) y Anne Joséphine Vessière (francesa)
@@ -58,7 +58,7 @@ La aviación daba sus primeros pasos. Los hermanos Wright volaron en 1903, y par
 ### Entorno cultural
 La figura del aviador adquirió un halo romántico y heroico desde los primeros tiempos. Los pioneros eran celebrados como artistas del aire. Durante la guerra, los ases de caza (Guynemer, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1894/03/27/nacimiento-rene-paul-fonck-as-primera-guerra-mundial.html" style="color: #315fea; text-decoration: none;">Fonck</a>, Richthofen) se convirtieron en héroes nacionales, y sus hazañas eran seguidas con pasión por la prensa. La Escadrille Lafayette, integrada por voluntarios estadounidenses antes de la entrada de EE.UU. en la guerra, tuvo un enorme valor simbólico y propagandístico.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **14 de marzo de 1885:** Nace en Chamalières, Francia, hijo de padre estadounidense y madre francesa.
 - **Infancia y juventud:** Crece en Francia, pero queda huérfano de padre y es criado por sus abuelos maternos.
@@ -79,7 +79,7 @@ La figura del aviador adquirió un halo romántico y heroico desde los primeros 
 - **19 de mayo de 1918:** Durante un combate cerca de Maron, Francia, su Nieuport 28 es alcanzado y se incendia. Sin paracaídas, Lufbery se lanza al vacío desde unos 200 metros de altura y fallece en el acto. Tenía 33 años.
 - **Post mortem:** Es enterrado con honores. Posteriormente, sus restos son trasladados al memorial de la Escadrille Lafayette en Marnes-la-Coquette, donde descansa junto a otros miembros de la unidad.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La muerte de Lufbery, en la cima de su fama, conmocionó a la aviación aliada. Fue uno de los primeros grandes ases en caer en combate, y su pérdida se sintió profundamente tanto en Francia como en Estados Unidos.
 
@@ -88,7 +88,7 @@ La muerte de Lufbery, en la cima de su fama, conmocionó a la aviación aliada. 
 - **Símbolo de la cooperación franco-estadounidense:** Encarnó la alianza entre ambas naciones en los cielos de la Gran Guerra.
 - **Legado táctico:** Su experiencia en combate y sus técnicas de pilotaje influyeron en las tácticas de caza estadounidenses.
 
-### Legado
+## Legado
 
 Raoul Lufbery ocupa un lugar de honor en la historia de la aviación militar:
 

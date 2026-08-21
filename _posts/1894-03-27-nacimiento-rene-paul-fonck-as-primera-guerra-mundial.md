@@ -50,7 +50,7 @@ La aviación era entonces un campo de experimentación. En 1894, los vuelos cont
 ### Entorno cultural
 La figura del «as» —piloto con cinco o más victorias— nació durante la Gran Guerra para convertir en héroes individuales una contienda anónima y mecanizada. Fonck representó el ideal del piloto técnico, metódico, que maximizaba la eficacia con el mínimo riesgo, en contraste con la imagen romántica del caballero del aire como Guynemer.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **27 de marzo de 1894:** Nace René Paul Fonck en Saulcy-sur-Meurthe (departamento de Meurthe-et-Moselle).
 - **1914:** Al iniciarse la guerra, es movilizado como ingeniero de combate en unidades de zapadores en las trincheras de Lorena.
@@ -75,14 +75,14 @@ Durante la Primera Guerra Mundial, las fuerzas aliadas establecieron un riguroso
 
 Este sistema, implementado para evitar exageraciones, hacía que muchos derribos reales —sobre todo en territorio enemigo— quedaran sin confirmar. Fonck reclamó personalmente **142 victorias**, de las cuales solo 75 fueron homologadas oficialmente. Su elevada cifra de reclamaciones (muchas sin testigos o con restos no recuperados) ha generado controversia histórica, aunque su condición de máximo as aliado es indiscutida.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Legado militar:** Fonck estableció un récord de eficacia que ningún otro piloto aliado superó. Sus tácticas —ataque desde altura, disparos a corta distancia, consumo mínimo de munición— fueron estudiadas como modelo de precisión.
 - **Héroe nacional:** Fue celebrado como héroe en Francia, junto a Guynemer, Nungesser y otros ases de Les Cigognes. Portó la bandera francesa en el desfile de la Victoria.
 - **Controversia y olvido:** Su personalidad arrogante y sus colaboraciones con el régimen de Vichy durante la Segunda Guerra Mundial hicieron que su figura fuera menos recordada que la de otros héroes franceses, como Georges Guynemer, muerto en combate en 1917.
 - **Innovación técnica:** Fonck voló intensivamente el SPAD XII, una variante equipada con cañón de 37 mm que disparaba a través del eje de la hélice, un arma letal pero de difícil manejo que él dominó con maestría.
 
-### Legado
+## Legado
 
 René Fonck sigue siendo el «as de ases» de la aviación aliada en la Primera Guerra Mundial. Sus 75 victorias confirmadas lo sitúan en la segunda posición histórica tras Manfred von Richthofen (80). A pesar de las controversias sobre sus reclamaciones personales y su conducta en la Segunda Guerra Mundial, su récord operativo permanece imbatido entre los pilotos franceses y de la Entente. Su nombre está inscrito en el Arco del Triunfo en París, y su figura representa la transición entre el pionerismo romántico y la caza militar moderna.
 

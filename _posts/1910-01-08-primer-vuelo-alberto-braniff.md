@@ -42,16 +42,16 @@ El biplano Voisin era una aeronave ligera, con motor de baja potencia, que repre
 ### Entorno cultural
 El acontecimiento fue visto como símbolo de modernidad y orgullo nacional, colocando a México en la vanguardia de la aviación regional.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 1909: Braniff adquiere un biplano Voisin en Francia.  
 - 8 de enero de 1910: primer vuelo en los llanos de Balbuena.  
 - 1910–1911: se consolidan los primeros intentos de aviación en México.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 - Braniff es reconocido como el primer aviador de Latinoamérica.  
 - El vuelo impulsó la creación de espacios para la aviación en México, como el futuro Aeropuerto de Balbuena.  
 
-### Legado
+## Legado
 Alberto Braniff es recordado como pionero de la aviación mexicana y latinoamericana, abriendo camino a generaciones posteriores de aviadores.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

@@ -24,7 +24,7 @@ redirect_from:
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Datos biográficos y eventos
+## Datos verificados del evento
 - **Fecha de nacimiento:** 17 de marzo de 1917
 - **Lugar de nacimiento:** Meissen, Sajonia, Imperio Alemán
 - **Logros destacados:** 206 victorias aéreas acreditadas en más de 500 misiones de combate; segundo piloto alemán en superar las 200 victorias; condecorado con la Cruz de Caballero de la Cruz de Hierro con Hojas de Roble y Espadas
@@ -46,7 +46,7 @@ La aviación militar alemana experimentó un renacimiento secreto durante los a�
 ### Entorno cultural
 En la cultura militar alemana, el piloto de caza era una figura romántica, heredera de los "as" de la Gran Guerra como Manfred von Richthofen. La propaganda nazi cultivó esta imagen, presentando a los pilotos como héroes modernos, caballeros del aire que defendían a la patria con valor y destreza. Philipp creció en este ambiente, y su posterior éxito como as lo convertiría en uno de esos héroes mediáticos.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **17 de marzo de 1917:** Nace Hans Philipp en Meissen, Sajonia.
 - **1936:** Se alista en la Wehrmacht y posteriormente es transferido a la Luftwaffe, donde completa su entrenamiento de vuelo.
@@ -60,11 +60,11 @@ En la cultura militar alemana, el piloto de caza era una figura romántica, here
 - **1 de abril de 1943:** Nombrado comandante (Geschwaderkommodore) del Jagdgeschwader 1 "Oesau", unidad de defensa del Reich encargada de interceptar los bombardeos aliados.
 - **8 de octubre de 1943:** Durante un combate contra cazas estadounidenses P-47 Thunderbolt cerca de Bremen, su Focke-Wulf Fw 190 es derribado. Philipp se lanza en paracaídas, pero su paracaídas falla y fallece. Tenía 26 años.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La muerte de Hans Philipp en combate, apenas siete meses después de haberse convertido en el segundo piloto en alcanzar las 200 victorias, conmocionó a la Luftwaffe y fue utilizada por la propaganda nazi como ejemplo de sacrificio por la patria. Su pérdida fue un duro golpe para el JG 1, una unidad clave en la defensa del Reich.
 
-### Legado
+## Legado
 
 Hans Philipp ocupa un lugar destacado en la historia de la aviación militar:
 

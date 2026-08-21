@@ -52,7 +52,7 @@ Los primeros años del siglo XX vieron una rápida evolución: de los frágiles 
 ### Entorno cultural
 La figura del "piloto as" se convirtió en un héroe romántico durante la Gran Guerra. Fokker, aunque diseñador y fabricante, también volaba sus prototipos, lo que le valió el apodo de "El Holandés Volador". Su personalidad emprendedora y su habilidad para el espionaje industrial (se dice que copió el sistema de sincronización francés) generaron controversia, pero su legado técnico es indiscutible.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1890, 6 de abril:** Nace en Blitar, Indias Orientales Neerlandesas.
 - **1894:** Su familia regresa a los Países Bajos; crece en Haarlem.

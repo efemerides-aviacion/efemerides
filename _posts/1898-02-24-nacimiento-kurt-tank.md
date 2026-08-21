@@ -48,7 +48,7 @@ Sus diseños marcaron un salto en la aviación militar alemana, con motores radi
 ### Entorno cultural
 Reconocido como visionario y audaz piloto de pruebas, su legado trascendió Alemania, influyendo en la aviación de Argentina e India.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - 1898: Nace en Bromberg.  
 - 1924: Dipl.-Ing. en Berlín; trabaja en Rohrbach y Albatros.  
 - 1931–1945: Director de diseño en Focke-Wulf.  
@@ -58,10 +58,10 @@ Reconocido como visionario y audaz piloto de pruebas, su legado trascendió Alem
 - 1960s: HF-24 Marut en India.  
 - 1983: Fallece en Múnich.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 Sus aviones fueron decisivos en la Luftwaffe y marcaron hitos en la aviación mundial. Su experiencia internacional consolidó su prestigio como diseñador global.
 
-### Legado
+## Legado
 Recordado como uno de los grandes ingenieros aeronáuticos del siglo XX, con aportes en tres continentes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

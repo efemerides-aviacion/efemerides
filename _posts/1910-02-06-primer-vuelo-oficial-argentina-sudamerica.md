@@ -22,7 +22,7 @@ image: 1910-02-06-primer-vuelo-oficial-argentina-sudamerica.jpg
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha del vuelo:** 6 de febrero de 1910  
 - **Lugar:** Hipódromo de Longchamps, Almirante Brown, Buenos Aires  
 - **Piloto:** Henri Brégi (1888–1917)  
@@ -45,7 +45,7 @@ image: 1910-02-06-primer-vuelo-oficial-argentina-sudamerica.jpg
 - Precedió vuelos similares en Brasil (Ricardo Paiva, 7 jul 1910) y Uruguay (Jorge Newbery, 18 ago 1910).  
 - Intentos previos en la región no habían sido exitosos.  
 
-### Legado
+## Legado
 - Longchamps es reconocida como “Cuna de la Aviación Argentina”.  
 - Placa conmemorativa instalada en 1963 en el Country Club de Longchamps.  
 - Impulsó la creación del aeródromo de Villa Lugano y la aviación militar en El Palomar.  

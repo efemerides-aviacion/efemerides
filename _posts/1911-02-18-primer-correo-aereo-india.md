@@ -37,17 +37,17 @@ image: 1911-02-18-primer-correo-aereo-india.webp
 ## Contexto Histórico
 El evento se organizó durante la Exposición de Allahabad y la Kumbh Mela de 1911, como iniciativa para recaudar fondos para un albergue juvenil del reverendo W.E.S. Holland. Fue coordinado por Walter Windham, pionero británico de la aviación.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **Previo al vuelo:** Se franquean las cartas y se aplica matasellos especial en magenta y negro.  
 - **18 de febrero de 1911:** Henri Pequet despega de un campo de polo en Allahabad y aterriza en Naini tras cruzar el río Yamuna.  
 - **Destinatarios destacados:** Entre los receptores estuvieron el rey Jorge V y Jawaharlal Nehru.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 - **Postal:** Inicio del servicio aéreo oficial en el mundo.  
 - **Social:** Recaudación de fondos para un albergue juvenil.  
 - **Histórico:** Precedente global para la aviación civil y el correo aéreo.  
 
-### Legado
+## Legado
 El vuelo es reconocido por Guinness World Records como el primer transporte oficial de correo aéreo. En 2011, India conmemoró el centenario con una hoja filatélica y recreación del vuelo. Hoy se recuerda como un hito de la aviación mundial y de la historia postal.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

@@ -46,16 +46,16 @@ La creación de la St. Petersburg–Tampa Airboat Line respondió a la necesidad
 - El evento fue celebrado como símbolo de modernidad y progreso.  
 - Tony Jannus se convirtió en figura histórica de la aviación.  
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 1913: Percival Fansler organiza la aerolínea con Thomas Benoist.  
 - 1914-01-01: Vuelo inaugural con Abram Pheil como pasajero.  
 - 1914-05-05: La aerolínea cesa operaciones tras cuatro meses de servicio.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 - Inicio del transporte aéreo comercial regular.  
 - Inspiración para el desarrollo de aerolíneas modernas.  
 
-### Legado
+## Legado
 - La Tony Jannus Distinguished Aviation Society conmemora cada año este hito.  
 - Réplicas del Benoist XIV se exhiben en museos de Florida.  
 

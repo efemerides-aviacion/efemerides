@@ -46,17 +46,17 @@ El Curtiss Wasp triplano permitió demostrar la viabilidad de vuelos en condicio
 ### Entorno cultural
 Hudson fue visto como símbolo de progreso y modernidad, inspirando a los primeros aviadores bolivianos.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1895:** Nace en Estados Unidos.  
 - **1917–1918:** Participa en la Primera Guerra Mundial como piloto del 27th Aero Squadron.  
 - **1919:** Llega a Bolivia con su Curtiss Wasp, realiza el primer vuelo oficial del país.  
 - **1920:** [Establece récord de altitud sobre La Paz](https://efemerides-aviacion.github.io/efemerides/evento/1920/05/18/record-altura-sudamerica.html).  
 - **1967:** Fallece, dejando un legado pionero en la aviación andina.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 Su experiencia internacional permitió a Bolivia dar un salto cualitativo en aviación, integrando prácticas modernas y demostrando la viabilidad de vuelos en condiciones extremas.
 
-### Legado
+## Legado
 Donald Hudson es recordado como as de la Gran Guerra y pionero de la aviación andina, especialmente por su papel en Bolivia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

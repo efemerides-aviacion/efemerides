@@ -27,7 +27,7 @@ redirect_from:
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Datos biográficos y eventos
+## Datos verificados del evento
 - **Fecha de nacimiento:** 24 de diciembre de 1905  
 - **Lugar de nacimiento:** Humble, Texas (fuentes secundarias citan Houston) [NO CONFIRMADO: discrepancia entre registros parroquiales y fuentes secundarias]  
 - **Logros destacados:** Récord mundial de velocidad aérea en 1935; récord de circunnavegación en 1938; diseño del H-1 Racer y del H-4 Hercules “Spruce Goose”  
@@ -48,19 +48,19 @@ El H-1 Racer introdujo innovaciones aerodinámicas que influyeron en cazas de la
 ### Entorno cultural
 Hughes fue también magnate del cine y figura mediática, lo que amplificó su impacto cultural. Su vida privada excéntrica y su reclusión final alimentaron el mito en torno a su persona.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - **1932:** Fundación de Hughes Aircraft Company.  
 - **13/09/1935:** Récord mundial de velocidad con el H-1 Racer (352.39 mph).  
 - **19/01/1937:** Cruza Estados Unidos en tiempo récord.  
 - **10–14/07/1938:** Récord mundial de circunnavegación aérea.  
 - **02/11/1947:** Único vuelo del H-4 Hercules “Spruce Goose”.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 - Influencia directa en el diseño de aeronaves militares y comerciales.  
 - Impulso al desarrollo del Lockheed Constellation en TWA.  
 - Hughes Aircraft pionera en sistemas de radar, misiles guiados y satélites de comunicación.
 
-### Legado
+## Legado
 Howard Hughes es recordado como un perfeccionista técnico y visionario. Su legado abarca récords de aviación, avances tecnológicos y un impacto cultural que trasciende la aeronáutica.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

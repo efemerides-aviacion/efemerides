@@ -42,16 +42,16 @@ El diseño del “Batuco” se inspiraba en modelos europeos (Farman/Voisin), pe
 ### Entorno cultural
 El vuelo del “Batuco” se convirtió en un hito fundacional de la aviación chilena, celebrado como parte de la identidad nacional y recordado en conmemoraciones posteriores.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 1910: César Copetta realiza el primer vuelo en aeroplano en Chile.  
 - 1911–1914: Los hermanos Copetta construyen cinco aeronaves en el país.  
 - 16 de febrero de 1914: Vuelo inaugural del “Batuco” en Batuco, pilotado por Luis Omar Page.  
 - 27 de febrero de 1914: El “Batuco” protagoniza el primer vuelo nocturno en Chile y en América con un avión de fabricación nacional.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El vuelo del “Batuco” validó la capacidad de construir aeronaves en Chile y abrió camino a nuevas hazañas, como el primer vuelo nocturno. Fue antecedente clave para el desarrollo de la aviación militar y civil en el país.
 
-### Legado
+## Legado
 El “Batuco” y los hermanos Copetta son recordados como pioneros de la aviación chilena. Su legado se mantiene en la memoria histórica y en instituciones como el Museo Nacional Aeronáutico y del Espacio.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

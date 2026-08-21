@@ -43,19 +43,19 @@ El Lohner Tipo Flecha, de fabricación austriaca bajo licencia española, tenía
 ### Entorno cultural
 El bombardeo aéreo planteó debates sobre la ética del ataque desde el aire, pero también consolidó la visión del avión como arma ofensiva.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - Preparación en Cuatro Vientos y traslado a Tetuán.  
 - 17 de diciembre de 1913: despegue del Lohner con Barrón y Ortiz de Echagüe.  
 - Vuelo a baja altura para asegurar precisión.  
 - Lanzamiento manual de 5 bombas de 10 kg sobre posiciones enemigas.  
 - Impacto observado y confirmación del potencial ofensivo del avión.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 - Integración de la capacidad de bombardeo en la doctrina militar española.  
 - Impulso al desarrollo de armamento aéreo especializado y miras de bombardeo.  
 - Precedente europeo temprano en la guerra aérea, antes de la Primera Guerra Mundial.  
 
-### Legado
+## Legado
 El bombardeo de 1913 es considerado el acto fundacional del combate aéreo en España. Barrón y Ortiz de Echagüe son recordados como pioneros de la aviación militar. El evento subraya cómo los conflictos coloniales aceleraron la evolución tecnológica de la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

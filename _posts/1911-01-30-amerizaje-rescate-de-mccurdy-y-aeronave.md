@@ -52,7 +52,7 @@ El intento de McCurdy fue un hito en la aviación temprana, al combinar la ambic
 - La presencia de autoridades cubanas y estadounidenses otorgó legitimidad política y cultural al evento.  
 - El rescate fue celebrado como símbolo de cooperación y valentía.
 
-### Legado
+## Legado
 - Constituyó el primer rescate exitoso de un aviador en el mar por la US Navy.  
 - Aunque McCurdy no completó el vuelo, se le reconoció oficialmente la hazaña y se le otorgó el premio.  
 - El episodio anticipó la importancia de la seguridad aérea y los protocolos de rescate marítimo.  

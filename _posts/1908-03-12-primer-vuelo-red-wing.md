@@ -42,7 +42,7 @@ La construcción de aeronaves era todavía un arte experimental. Los conocimient
 ### Entorno cultural
 Existía un espíritu de competencia amistosa entre inventores, pero también de colaboración. La AEA era única porque reunía a mentes brillantes de diferentes disciplinas: Bell (ciencia y financiación), Curtiss (ingeniería de motores), Selfridge (diseño aeronáutico) y Baldwin (habilidad como piloto). Este enfoque multidisciplinar aceleró el progreso.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1907:** Alexander Graham Bell funda la Aerial Experiment Association (AEA) en Baddeck, Nueva Escocia, con el objetivo explícito de "conseguir que un hombre vuele". El grupo se completa con Glenn Curtiss, Frederick Baldwin, Thomas Selfridge y John McCurdy.
 - **Octubre de 1907:** La AEA se establece en Hammondsport, Nueva York, cerca del taller de motores de Curtiss, para aprovechar el clima más benigno y las instalaciones.
@@ -51,7 +51,7 @@ Existía un espíritu de competencia amistosa entre inventores, pero también de
 - **18 de marzo de 1908:** Segundo vuelo del Red Wing. Esta vez recorre apenas unos 130 pies (40 m) antes de que una ráfaga de viento lo desestabilice y se estrelle, quedando destruido. Baldwin resulta ileso.
 - **Primavera-verano de 1908:** Las lecciones del Red Wing (especialmente la falta de control lateral) llevan a la AEA a diseñar el White Wing (Ala Blanca), que incorpora alerones y ruedas, y más tarde el June Bug y el Silver Dart, que lograrían vuelos más largos y controlados.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 Aunque la vida operativa del Red Wing fue breve, su impacto fue profundo:
 
@@ -60,7 +60,7 @@ Aunque la vida operativa del Red Wing fue breve, su impacto fue profundo:
 - **Banco de pruebas técnico:** El fallo por falta de control lateral impulsó a la AEA a incorporar alerones en su siguiente diseño (White Wing), una innovación crucial que Glenn Curtiss perfeccionaría y que sería objeto de disputas de patentes con los Wright.
 - **Consolidación del equipo AEA:** El éxito relativo del vuelo fortaleció la confianza del grupo, que en los meses siguientes produciría una serie de aviones cada vez más capaces.
 
-### Legado
+## Legado
 
 El AEA Red Wing ocupa un lugar destacado en los anales de la aviación temprana:
 

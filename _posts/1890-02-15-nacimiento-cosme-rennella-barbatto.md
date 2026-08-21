@@ -44,7 +44,7 @@ Operó aeronaves como el Farman F.40, con el cual realizó vuelos históricos en
 ### Entorno cultural
 Su figura se convirtió en símbolo de modernidad y progreso, inspirando generaciones de aviadores en Ecuador y Venezuela.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 1906: Emigró a Ecuador.  
 - 1918: Obtuvo licencias de piloto en Francia y Estados Unidos.  
 - 1919: Fundó la Escuela de Aviación Militar (ESMA) en Guayaquil.  
@@ -52,10 +52,10 @@ Su figura se convirtió en símbolo de modernidad y progreso, inspirando generac
 - 1922: En Venezuela, importó tres Farman F.40 (V-1/2/3) para la naciente FAV; realizó vuelos de exhibición y correo Caracas–Maracay.  
 - 1938: Falleció en Guayaquil por ataque cardíaco.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 Rennella fue clave en la creación de la aviación militar ecuatoriana y en los primeros pasos de la aviación militar venezolana. Su legado se mantiene en instituciones como la ESMA “Cosme Rennella Barbatto”.
 
-### Legado
+## Legado
 Recordado como pionero de la aviación en dos países, su nombre está asociado a la fundación de la aviación militar ecuatoriana y a los primeros aviones de la Fuerza Aérea Venezolana.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

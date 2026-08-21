@@ -50,7 +50,7 @@ En el plano técnico, el dirigible rígido era una maravilla de la ingeniería d
 ### Entorno cultural
 El concepto del viaje por placer o turismo aéreo nació con la fundación de la aerolínea comercial DELAG en noviembre de 1909, concebida para popularizar y rentabilizar los dirigibles rígidos. Los vuelos promocionales del LZ 7 estaban diseñados como lujosas experiencias destinadas a la alta burguesía y a la prensa, donde se servían desayunos con champán y caviar en cabinas con revestimiento de caoba y nácar, promoviendo la idea de que viajar por el aire era una actividad tan placentera como segura.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 El fatídico vuelo del 28 de junio de 1910 comenzó como una plácida jornada publicitaria, pero rápidamente se convirtió en una dramática lucha de nueve horas contra los elementos. A continuación, se detalla la secuencia cronológica de los acontecimientos que llevaron a la pérdida del primer dirigible comercial de pasajeros de la historia:
 
@@ -64,7 +64,7 @@ El fatídico vuelo del 28 de junio de 1910 comenzó como una plácida jornada pu
 - **16:30:** El combustible de los motores restantes se agota por completo tras horas de operar a máxima potencia. Sin propulsión, la aeronave es arrastrada por corrientes ascendentes hasta los 1.200 metros de altitud, donde la rápida pérdida de presión de gas y el peso del agua de lluvia acumulada fuerzan un rápido descenso incontrolado.
 - **17:30:** El dirigible colisiona y se encalla entre las densas copas de los pinos y abetos del monte Limberg, cerca de Bad Iburg. La arboleda amortigua el impacto, salvando la vida de todos los pasajeros, quienes descienden a tierra firme mediante una escalera de mano tendida por la tripulación.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La pérdida del LZ 7 «Deutschland», a tan solo nueve días de su vuelo inaugural, supuso un serio revés para el prestigio inicial de la aerolínea DELAG y la tecnología de los dirigibles, pero también sirvió para consolidar lecciones operativas cruciales. El accidente impulsó el desarrollo de mejores sistemas de predicción meteorológica y obligó a replantear el diseño de las plantas motrices de estas colosales aeronaves.
 
@@ -73,7 +73,7 @@ La pérdida del LZ 7 «Deutschland», a tan solo nueve días de su vuelo inaugur
 - **Seguridad en el diseño:** El desastre evidenció la fragilidad de los dirigibles frente a frentes de tormentas intensas y la necesidad de motores con mayor potencia y confiabilidad. Se desarrollaron motores Maybach más potentes y ligeros para los modelos subsiguientes.
 - **Impacto comercial:** A nivel de relaciones públicas, el hecho de que diecinueve periodistas sobrevivieran ilesos a un choque de tal magnitud fue interpretado en la prensa de la época como una asombrosa prueba de la resistencia estructural de los dirigibles rígidos. Se destacó que, en comparación con los aeroplanos, un zepelín podía sufrir una falla catastrófica y descender lentamente de manera que sus ocupantes salvaran la vida.
 
-### Legado
+## Legado
 
 Hoy en día, el accidente del dirigible LZ 7 «Deutschland» es recordado como el primer gran percance de la aviación comercial de pasajeros, un suceso pionero que sentó las bases para los protocolos de seguridad modernos en la aeronáutica. El monte Limberg, escenario del impacto, alberga un memorial permanente que mantiene viva la memoria de este histórico acontecimiento.
 

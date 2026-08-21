@@ -44,18 +44,18 @@ El Wright Flyer introdujo el control de tres ejes mediante deformación del ala 
 ### Entorno cultural
 El vuelo de 1903 transformó la percepción de lo posible, sentando las bases para la aviación como medio de transporte, herramienta militar y motor de progreso.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 1899–1902: Experimentos con planeadores en Kitty Hawk.  
 - 17 de diciembre de 1903: Primer vuelo motorizado, 12 segundos, 36,5 metros.  
 - Cuatro vuelos en total ese día, culminando con 59 segundos y 260 metros.  
 - Posterior destrucción del Flyer por una ráfaga de viento.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 - Establecimiento del principio de control de tres ejes, aún vigente en la aviación moderna.  
 - Inspiración para el desarrollo de aeronaves en todo el mundo.  
 - Reconocimiento tardío, pero fundamental, del avión como herramienta estratégica en la Primera Guerra Mundial.  
 
-### Legado
+## Legado
 El Wright Flyer original se conserva en el Museo Nacional del Aire y el Espacio del Smithsonian. El sitio de Kill Devil Hills es hoy el Monumento Nacional a los Hermanos Wright, tributo al inicio de la era aérea.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

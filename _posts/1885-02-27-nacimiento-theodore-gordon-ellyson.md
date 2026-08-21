@@ -49,7 +49,7 @@ Ellyson probó el hidroavión Curtiss A-1 Triad, primer avión diseñado para op
 ### Entorno cultural
 Su designación como Navy Air Pilot No. 1 y la entrega de las alas de oro en 1918 consolidaron símbolos que aún hoy identifican a los aviadores navales.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1885:** Nace en Richmond, Virginia.  
 - **1901–1905:** Estudios en la Academia Naval.  
 - **1910–1911:** Entrenamiento con Glenn Curtiss; primer vuelo en enero de 1911.  
@@ -58,10 +58,10 @@ Su designación como Navy Air Pilot No. 1 y la entrega de las alas de oro en 191
 - **1917–1918:** Servicio en guerra antisubmarina durante la Primera Guerra Mundial.  
 - **1928:** Fallece en accidente aéreo en la bahía de Chesapeake.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 Ellyson estableció las bases de la aviación naval estadounidense, siendo referente para generaciones de pilotos. Su legado se refleja en la tradición de las alas de oro y en la expansión de la aviación embarcada.
 
-### Legado
+## Legado
 Recordado como el primer aviador naval de Estados Unidos, su nombre figura en memoriales y archivos históricos como pionero de la aviación militar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
