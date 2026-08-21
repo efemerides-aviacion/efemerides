@@ -58,7 +58,7 @@ El Loening OA-1A era un anfibio (podía despegar y amerizar) diseñado por Grove
 
 La aviación en la década de 1920 cautivaba la imaginación del público. Tan solo tres semanas después de la conclusión de este vuelo, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> realizó su histórico cruce transatlántico, eclipsando mediáticamente la gesta de los diez aviadores. Sin embargo, ambos eventos quedaron vinculados: el 13 de junio de 1927, el San Francisco (pilotado por el capitán Ira C. Eaker) transportó a Lindbergh desde Mitchel Field hasta el puerto de Nueva York, utilizando su capacidad anfibia para amerizar y permitir la entrada triunfal del "Espíritu de San Luis" a la ciudad.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **21 de diciembre de 1926:** Salida de San Antonio, Texas
 - **Enero - febrero de 1927:** Recorrido por México, América Central, Panamá, Colombia, Ecuador, Perú, Bolivia y Chile

@@ -50,7 +50,7 @@ En el plano técnico, el Lockheed Vega representó el apogeo de los aviones de a
 ### Entorno cultural
 La era dorada de la aviación contemplaba con fascinación cómo los pilotos unían fronteras de manera casi mística, donde la prensa glorificaba de manera unánime el triunfo del piloto solitario o de los equipos compactos. El humorista Will Rogers, íntimo amigo de Wiley Post, ayudó a consolidar la simpatía colectiva hacia esta pareja de aviadores, escribiendo la introducción del célebre libro que publicaron tras su hazaña transoceánica.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La travesía global de Post y Gatty se ejecutó como una operación de resistencia física y precisión navegacional milimétrica, la cual se detalla a continuación en sus fases más importantes:
 
@@ -64,7 +64,7 @@ La travesía global de Post y Gatty se ejecutó como una operación de resistenc
 - **30 de junio de 1931:** En Fairbanks, Alaska, la hélice dañada es sustituida de forma definitiva por una de repuesto, y el avión vuela hacia Edmonton, Canadá, en vísperas del regreso a Nueva York.
 - **1 de julio de 1931 (20:47 hora local):** Tras realizar una breve escala técnica en Cleveland, el Winnie Mae aterriza de manera triunfal en Roosevelt Field, Nueva York, estableciendo un asombroso récord mundial de ocho días, quince horas y cincuenta y un minutos.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 El exitoso regreso de Wiley Post y Harold Gatty demostró la indiscutible superioridad del monoplano monomotor frente a los grandes dirigibles de la época en términos de velocidad y maniobrabilidad intercontinental. El hito aceleró el desarrollo de la aviación comercial y los sistemas de posicionamiento geográfico.
 
@@ -73,7 +73,7 @@ El exitoso regreso de Wiley Post y Harold Gatty demostró la indiscutible superi
 - **Impulso al vuelo en solitario (1933):** Motivado por las críticas de quienes decían que el verdadero mérito era de su navegante Gatty, Wiley Post perfeccionó el Winnie Mae instalando los primeros prototipos de piloto automático y radiogoniómetro de la corporación Sperry, repitiendo la hazaña en solitario en 1933 con un nuevo récord de siete días y dieciocho horas.
 - **Desarrollo del traje de presión:** La experiencia en vuelos a gran altitud con el Winnie Mae impulsó a Post a colaborar con la empresa B.F. Goodrich en el desarrollo del primer traje de presión de la historia en 1934, abriendo el camino para la medicina aeroespacial y el posterior desarrollo de los trajes espaciales de la NASA.
 
-### Legado
+## Legado
 
 Hoy en día, la hazaña de 1931 de Wiley Post y Harold Gatty es celebrada como uno de los hitos fundacionales de la aviación global moderna, un viaje que acortó el planeta por primera vez de manera sistemática. El Winnie Mae permanece en el recuerdo colectivo como uno de los mayores tesoros de la ingeniería aeronáutica del siglo XX.
 

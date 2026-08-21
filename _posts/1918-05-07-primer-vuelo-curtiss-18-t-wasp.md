@@ -78,7 +78,7 @@ El diseño "limpio" y la construcción en madera laminada fueron las caracterís
 
 En 1918, la industria aeronáutica estadounidense aún estaba en desarrollo. La mayoría de los cazas utilizados por las Fuerzas Expedicionarias Estadounidenses en Francia eran de diseño francés o británico (SPAD, Nieuport, SE.5). El Curtiss 18T representó un intento de crear un caza puramente estadounidense de alto rendimiento, aunque la guerra terminó antes de que pudiera entrar en producción.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1917:** Curtiss inicia el diseño del 18T en respuesta a las necesidades de la Armada de los EE. UU.
 - **7 de mayo de 1918:** Primer vuelo del prototipo Curtiss 18T-1.

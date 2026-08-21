@@ -35,12 +35,12 @@ image: 1928-02-22-herbert-hinkler-vuelo-solitario-inglaterra-australia.jpg
 ## Contexto Histórico
 El vuelo de Hinkler fue un hito en la aviación mundial. Superó el récord de Kingsford Smith (con tripulación múltiple) y demostró que era posible realizar vuelos largos en solitario con aeronaves ligeras. Enfrentó tormentas, navegación manual con sextante y condiciones extremas.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **7 feb 1928:** Despegue desde Croydon, Londres.  
 - **22 feb 1928:** Aterrizaje en Darwin tras 17.671 km.  
 - **1933:** Fallece en accidente aéreo en los Apeninos italianos.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 - **Viabilidad de rutas aéreas imperiales:** Demostró que vuelos UK–Australia eran posibles con aeronaves ligeras.  
 - **Inspiración:** Consolidó la reputación de Hinkler como pionero australiano.  
 - **Legado:** Su Avro Avian G-EBOV se conserva en el Queensland Museum; Bundaberg alberga el Hinkler Hall of Aviation.  

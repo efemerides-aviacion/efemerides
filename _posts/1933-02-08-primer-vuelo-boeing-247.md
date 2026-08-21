@@ -23,7 +23,7 @@ image: 1933-02-08-primer-vuelo-boeing-247.jpg
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha inaugural:** 8 de febrero de 1933  
 - **Lugar:** Boeing Field, Seattle  
 - **Pilotos:** Leslie R. “Les” Tower (pruebas) y Louis C. Goldsmith (United Air Lines)  
@@ -50,7 +50,7 @@ El Boeing 247 inauguró la era de los aviones de línea modernos, ofreciendo may
 - United Air Lines encargó 60 unidades, asegurándose la exclusividad inicial.  
 - Entró en servicio en abril-mayo de 1933 en la ruta Seattle–Portland y otras líneas domésticas.  
 
-### Legado
+## Legado
 - Aunque pronto fue superado por el Douglas DC‑2 y especialmente el DC‑3, el Boeing 247 estableció el modelo de avión de transporte bimotor moderno que dominaría el mercado durante la década.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

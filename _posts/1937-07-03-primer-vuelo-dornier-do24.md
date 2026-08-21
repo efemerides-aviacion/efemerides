@@ -50,7 +50,7 @@ En el plano técnico, la transición hacia aviones completamente metálicos con 
 ### Entorno cultural
 La cultura de la época dorada de los hidroaviones consagró a estas colosales aeronaves como yates voladores de la ciencia moderna, capaces de realizar misiones tanto militares como de salvamento humanitario. El Dornier Do 24 se convirtió en una leyenda de la aviación de entreguerras y de la Segunda Guerra Mundial, ganándose el respeto de pilotos de ambos bandos debido a su capacidad probada para operar en mares donde ningún otro avión podía amerizar.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La historia de desarrollo y despliegue del Dornier Do 24, desde sus primeras especificaciones hasta sus misiones en la Segunda Guerra Mundial y su prolongado servicio de posguerra, se detalla a continuación en sus fases más importantes:
 
@@ -64,7 +64,7 @@ La historia de desarrollo y despliegue del Dornier Do 24, desde sus primeras esp
 - **1944-1945:** Durante la ocupación de Francia, la planta CAMS en Sartrouville continúa produciendo el Do 24 para la Luftwaffe y, tras la liberación, sigue fabricándolo para la Marina de Francia hasta 1952.
 - **1972:** El Ejército del Aire de España retira formalmente de servicio activo sus últimos Dornier Do 24 tras treinta años de misiones de búsqueda y rescate marítimo, consagrando la longevidad del diseño.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 El éxito operacional del Dornier Do 24 demostró con creces la solidez del diseño hidrodinámico y mecánico alemán de entreguerras en las misiones transoceánicas de la época. Su versatilidad y resistencia redefinieron la doctrina de búsqueda y salvamento en alta mar.
 
@@ -73,7 +73,7 @@ El éxito operacional del Dornier Do 24 demostró con creces la solidez del dise
 - **Contribución aliada en el Teatro del Pacífico:** Los hidroaviones Do 24K operados por los neerlandeses y posteriormente por los australianos en el Pacífico demostraron ser excelentes plataformas de ataque ligero de superficie y transporte de tropas de largo alcance, logrando éxitos notables como el hundimiento de destructores enemigos.
 - **Estándar de longevidad en España:** El gobierno español operó una flota de Do 24 comprados a Alemania en misiones de búsqueda y rescate en el Mediterráneo, permaneciendo en servicio activo regular hasta 1972, lo que representó uno de los periodos de servicio operativo más largos de cualquier avión de la era de la Segunda Guerra Mundial.
 
-### Legado
+## Legado
 
 El Dornier Do 24 es recordado hoy en la historia de la aeronáutica como uno de los hidroaviones más eficientes y exitosos de la historia de la aviación de entreguerras. Su diseño de ingeniería e innovaciones continúan influyendo en las investigaciones y diseños de canoas voladoras del siglo XXI.
 

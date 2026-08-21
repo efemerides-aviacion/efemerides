@@ -68,7 +68,7 @@ Ambas aeronaves eran biplanos de madera y tela. El Farman F.60 Goliath era un bo
 ### Entorno cultural
 Este accidente, al ser el primero de su tipo entre aviones comerciales, conmocionó a la opinión pública y a la incipiente industria de la aviación civil. Demostró que el crecimiento del tráfico aéreo traía consigo nuevos riesgos que requerían regulación.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **7 de abril de 1922, antes del vuelo:** El DH.18A G-EAWO despega de Croydon (Londres) con destino a Le Bourget (París), transportando solo correo y dos tripulantes. Simultáneamente, el Goliath F-GEAD despega de Le Bourget con destino a Croydon, con tres pasajeros, un piloto y un mecánico.
 - **Aproximadamente a las 14:00 horas:** Ambos aviones vuelan a 150 metros de altitud en condiciones de niebla y llovizna, siguiendo la misma línea de ferrocarril como referencia de navegación.

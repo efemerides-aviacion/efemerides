@@ -36,7 +36,7 @@ image: 1919-12-05-fundacion-scadta.jpg
 ## Contexto Histórico
 Colombia enfrentaba enormes retos geográficos para el transporte en el siglo XX. El río Magdalena era la principal vía de comunicación, pero los viajes entre la costa y Bogotá podían tardar semanas. La aviación se presentó como solución, y SCADTA fue la primera compañía en consolidar rutas aéreas regulares con capital sólido y tecnología avanzada.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1919:** Fundación de SCADTA en Barranquilla.  
 - **1920:** Primer vuelo de prueba de correo aéreo entre Barranquilla y Puerto Berrío.  
 - **1921:** Rutas regulares entre Barranquilla, Girardot y Neiva.  
@@ -45,12 +45,12 @@ Colombia enfrentaba enormes retos geográficos para el transporte en el siglo XX
 - **Década de 1930:** Expansión a Estados Unidos y Venezuela.  
 - **1940:** Fusión con SACO para formar Avianca.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 - **Integración nacional:** Conectó regiones aisladas, fomentando comercio y comunicación.  
 - **Innovación:** Pionera en aerofotogrametría y mapeo para exploración petrolera y fronteras.  
 - **Geopolítica:** La influencia alemana generó preocupación en EE.UU., acelerando la nacionalización.  
 
-### Legado
+## Legado
 Avianca celebra el 5 de diciembre de 1919 como su fecha de fundación. En 2019 conmemoró su centenario, reafirmando su papel como aerolínea bandera de Colombia y como una de las más antiguas del mundo en operación continua.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

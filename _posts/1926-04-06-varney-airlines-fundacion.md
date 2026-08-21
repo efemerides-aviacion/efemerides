@@ -52,7 +52,7 @@ Los aviones de la época eran mayoritariamente biplanos de madera y tela, con mo
 ### Entorno cultural
 La figura del piloto de correo aéreo era romantizada como un "caballero del cielo", enfrentándose a tormentas, nieve y montañas. El vuelo de Cuddeback en abril, con condiciones climáticas adversas, encarnó ese espíritu pionero. La Ley Kelly (1925) y posteriormente la Ley McNary-Watres (1930) fomentaron la consolidación de aerolíneas, lo que llevaría a la creación de los grandes carriers.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1925, 2 de febrero:** El Congreso de EE.UU. aprueba la Ley Kelly (Air Mail Act), autorizando al Departamento de Correos a contratar rutas de correo aéreo con empresas privadas.
 - **Octubre de 1925:** Walter Varney, tras operar una pequeña escuela de vuelo y taller en California, presenta una oferta por la ruta CAM-5 (Pasco–Boise–Elko). El contrato le es adjudicado por un período inicial.

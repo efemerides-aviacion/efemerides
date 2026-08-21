@@ -45,15 +45,15 @@ El M‑130 incorporó motores Pratt & Whitney Twin Wasp y un diseño de hidroavi
 ### Entorno cultural
 El “China Clipper” se convirtió en símbolo de modernidad y progreso, apareciendo en sellos postales y en la prensa como emblema de la nueva era de la aviación.  
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 1934: Primer vuelo de prueba en Middle River.  
 - 1935: Inauguración del servicio trans-Pacífico con el “China Clipper”.  
 - 1935‑1945: Tres unidades construidas (China Clipper, Philippine Clipper, Hawaii Clipper). Todas se perdieron en accidentes antes de 1945.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El M‑130 permitió a Pan Am establecer la primera ruta aérea trans-Pacífica, consolidando la aviación comercial internacional y demostrando la viabilidad de vuelos de largo alcance.  
 
-### Legado
+## Legado
 Aunque solo se construyeron tres unidades, el M‑130 abrió camino a aeronaves más avanzadas como el Boeing 314 y consolidó la reputación de Pan Am como líder en la aviación mundial.  
 
 

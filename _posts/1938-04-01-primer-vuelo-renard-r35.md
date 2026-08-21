@@ -48,7 +48,7 @@ La presurización requería un fuselaje de sección circular, una estructura má
 ### Entorno cultural
 El prototipo despertó la misma fascinación que otros grandes aviones de la época (como el Douglas DC-3). La prensa belga siguió de cerca el desarrollo y la prematura publicidad del primer vuelo aumentó la presión sobre el equipo técnico y el piloto.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1935:** Alfred Renard inicia el diseño del R-35 como respuesta a la necesidad de SABENA de un avión presurizado para rutas al Congo Belga.
 - **3 de abril de 1936:** SABENA formaliza el encargo del prototipo.
@@ -57,13 +57,13 @@ El prototipo despertó la misma fascinación que otros grandes aviones de la ép
 - **Durante el primer viraje a baja altura:** El R-35 entra en pérdida aerodinámica, se estrella contra el terreno y queda completamente destruido. Van Damme muere en el acto.
 - **Posterior:** SABENA abandona el proyecto; la empresa Renard no recupera el impulso y sus siguientes diseños (como el caza R-36) también sufren accidentes fatales antes de la Segunda Guerra Mundial.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Pérdida del primer avión comercial presurizado:** El accidente impidió que Bélgica entrara en la historia como pionera en vuelos presurizados. Este hito sería logrado un año después por el Boeing 307 Stratoliner (1939).
 - **Fin del programa:** SABENA canceló el encargo y no se construyeron más ejemplares.
 - **Repercusión en la industria belga:** Renard, pese a sus diseños innovadores, no logró consolidarse. La ocupación alemana en 1940 puso fin definitivo a su producción.
 
-### Legado
+## Legado
 
 El Renard R-35 es recordado como el primer avión comercial diseñado específicamente con cabina presurizada y el primero en realizar un despegue (aunque accidental). Su trágico destino lo convirtió en un “precursor olvidado” que anticipó la necesidad de volar a gran altura, concepto que se generalizaría décadas después en la aviación comercial a reacción. Su diseño influyó indirectamente en los estudios posteriores sobre presurización y en la configuración de aviones de transporte avanzados.
 

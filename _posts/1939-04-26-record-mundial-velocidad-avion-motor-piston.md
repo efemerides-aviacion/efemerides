@@ -55,7 +55,7 @@ El motor de pistón había alcanzado su madurez tecnológica a finales de la dé
 
 La figura del piloto de pruebas era admirada como la del "superhombre" tecnológico. Fritz Wendel era un piloto experimentado que había establecido un récord mundial de velocidad en 1937 con un Messerschmitt Bf 113R (una versión modificada del Bf 109). Su nombre era conocido en los círculos aeronáuticos alemanes e internacionales. A pesar del peligro extremo de volar el Me 209 (Wendel describió la experiencia como "una lucha constante por mantener el control del avión"), aceptó el desafío con la determinación propia de un piloto de pruebas de la época.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **30 de marzo de 1939:** Hans Dieterle establece un nuevo récord mundial de velocidad con un Heinkel He 100 V8, alcanzando 746,6 km/h.
 - **Abril de 1939:** Messerschmitt acelera las pruebas del Me 209 V1 para recuperar el récord.

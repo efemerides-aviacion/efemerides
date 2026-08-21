@@ -51,7 +51,7 @@ El Bristol M.1C era un caza monoplano británico de la Primera Guerra Mundial, d
 ### Entorno cultural
 Los pilotos militares de la época gozaban de un estatus romántico de “caballeros del aire”. La indisciplina era a veces tolerada si venía acompañada de gestos audaces. El caso de Cortínez ilustra esa dualidad: arrestado por desobediencia, pero aclamado como héroe.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **Diciembre de 1918:** El teniente Dagoberto Godoy realiza el primer cruce simple de los Andes (Santiago – Mendoza) en un Bristol M.1C similar, abriendo la ruta.
 - **5 de abril de 1919, primeras horas:** Cortínez despega desde El Bosque sin comunicar su plan a sus superiores. Vuela hacia el este, enfrentando vientos y bajas temperaturas.

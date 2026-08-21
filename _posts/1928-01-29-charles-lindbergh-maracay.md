@@ -22,7 +22,7 @@ image: 1928-01-29-charles-lindbergh-maracay.jpg
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha:** 29 de enero de 1928  
 - **Lugar:** Aeródromo de Maracay, Venezuela  
 - **Aeronave:** Ryan NYP *Spirit of St. Louis*, matrícula N‑X‑211  
@@ -43,17 +43,17 @@ El *Spirit of St. Louis* era un monoplano Ryan NYP, símbolo de la aviación mod
 ### Entorno cultural
 La llegada de Lindbergh reforzó los lazos diplomáticos entre Venezuela y Estados Unidos, enmarcada en su gira de buena voluntad por América Latina.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - **20/05/1927:** 20-21/05/1927: Lindbergh realiza el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">primer vuelo transatlántico en solitario y sin escalas</a>, con despegue de Nueva York el 20 y llegada a París el 21.  
 - **1927–1928:** Gira de buena voluntad por América Latina.  
 - **29/01/1928:** Aterrizaje en Maracay, recibido por Juan Vicente Gómez.  
 - **30/01/1928:** Traslado a Caracas, homenaje a Bolívar.  
 - **31/01/1928:** Partida hacia las Antillas.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 La visita consolidó la imagen de Lindbergh como héroe mundial de la aviación y fortaleció las relaciones diplomáticas entre Venezuela y EE.UU.
 
-### Legado
+## Legado
 El paso de Lindbergh por Venezuela es recordado como un hito histórico en la aviación y en las relaciones internacionales del país.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

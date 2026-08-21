@@ -58,7 +58,7 @@ El diseño del aeropuerto fue encargado al arquitecto Luis Gutiérrez Soto y al 
 
 La inauguración del aeropuerto fue un acontecimiento social y mediático. El 30 de abril de 1931, cientos de madrileños acudieron en automóviles, camionetas y otros medios de locomoción a Barajas para presenciar el primer aterrizaje oficial. La prensa de la época, como El Imparcial, La Época y ABC, cubrió ampliamente el evento, destacando que era el primer aeródromo español destinado exclusivamente a la aviación civil y al tráfico comercial nacional e internacional.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1929:** Se inician los estudios para la construcción de un nuevo aeropuerto para Madrid. Se barajan las ubicaciones de Getafe, Carabanchel Alto, Vallecas y Barajas. Se elige Barajas por ser un "páramo yermo" de fácil explanación y con buena comunicación por carretera.
 - **30 de julio de 1930:** Se firma la compra de los terrenos (unas 500 fanegas) en Barajas por un valor de 730.000 pesetas.

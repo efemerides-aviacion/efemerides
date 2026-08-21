@@ -22,7 +22,7 @@ image: 1926-02-10-vuelo-historico-plus-ultra.jpg
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha:** 10 de febrero de 1926  
 - **Lugar:** Río de la Plata, Buenos Aires, Argentina  
 - **Aeronave:** Dornier Do J Wal, modificado para gran autonomía  

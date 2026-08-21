@@ -51,7 +51,7 @@ El Caudron G.3 era un biplano de entrenamiento francés diseñado en 1913. Tení
 
 La figura del aviador era entonces objeto de admiración popular. Los vuelos pioneros —como el de Alberto Braniff en México (1910) o los de los hermanos Wright en Estados Unidos— despertaban un enorme interés mediático. En Venezuela, la prensa de la época siguió con atención los progresos de la Escuela de Aviación Militar, y el vuelo de Ríos fue celebrado como una hazaña patriótica.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **6 de enero de 1897:** Nace Manuel Simón Ríos Hernández en Altagracia de Orituco, estado Guárico, Venezuela.
 - **1916-1920:** Ríos sirve en el Ejército venezolano, destacándose por su disciplina y capacidad.

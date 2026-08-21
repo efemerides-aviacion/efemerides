@@ -75,7 +75,7 @@ En la segunda mitad de la década de 1930, la opinión pública estadounidense, 
 
 Donovan Reese Berlin (1898-1982) fue uno de los ingenieros aeronáuticos más importantes de su generación. Había trabajado en Northrop Aircraft Company, donde contribuyó al diseño del Northrop Gamma y el Northrop Delta. Al unirse a Curtiss-Wright en 1934, aplicó las lecciones aprendidas sobre estructuras monocasco totalmente metálicas y diseño aerodinámico. Después del Model 75/P-36, Berlin lideraría el equipo que diseñó el P-40 Warhawk, el tercer caza más producido por Estados Unidos en la Segunda Guerra Mundial.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1934:** Curtiss-Wright inicia el diseño del Model 75 como iniciativa privada
 - **Noviembre de 1934:** Comienza la construcción del prototipo

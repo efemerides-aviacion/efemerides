@@ -57,7 +57,7 @@ El Atlantic-Fokker C-2 era un trimotor de transporte derivado del Fokker F.VIIa/
 
 La década de 1920 cultivó la figura del aviador heroico. Nombres como Lindbergh, Byrd o Doolittle poblaban las portadas de los periódicos. El Bird of Paradise, bautizado con el nombre de un pájaro tropical, encarnaba el espíritu de aventura de la era. A pesar de que la travesía a Hawái fue técnicamente más exigente que la de Lindbergh desde el punto de vista de la navegación, Maitland y Hegenberger recibieron menos reconocimiento popular. El Mackay Trophy que recibieron sí reconoció, sin embargo, el carácter meritorio del vuelo.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 
 La gestación del vuelo fue larga y metódica. Desde 1919, ingenieros del Air Service habían ensayado rutas y perfeccionado instrumentos en McCook Field. En 1927 el proyecto tomó forma definitiva, con pruebas transcontinentales, aprobaciones oficiales y la preparación final en California antes del despegue hacia el Pacífico.
 

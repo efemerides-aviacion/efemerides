@@ -70,7 +70,7 @@ El Fokker T-2 era un monoplano de transporte diseñado originalmente para 8‑10
 
 El vuelo fue cubierto por la prensa de todo el país. Los periódicos documentaron los avistamientos del T-2 sobre ciudades como Altoona (Pensilvania), Wheeling (Virginia Occidental), Indianápolis y Jefferson City (Misuri). A su llegada a San Diego, las sirenas de fábricas, barcos y embarcaciones navales sonaron en celebración, y multitudes vitorearon a los dos aviadores.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1911:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1879/01/12/nacimiento-calbraith-perry-rodgers.html" style="color: #315fea; text-decoration: none;">Calbraith Perry Rodgers</a> realiza el primer vuelo transcontinental (con escalas) en 49 días.
 - **1922:** Primer intento fallido de Macready y Kelly (de costa oeste a este, abortado por niebla en las montañas).

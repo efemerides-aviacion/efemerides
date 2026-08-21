@@ -56,7 +56,7 @@ La aviación mundial estaba en plena evolución. Venezuela optó inicialmente po
 
 La figura del piloto aviador despertaba fascinación. El gobierno de Gómez promovió la aviación como una herramienta de unificación nacional y control territorial. La llegada de la misión francesa (1921-1929) y posteriormente la alemana (1930-1933) marcó las primeras décadas de formación de los pilotos venezolanos.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **17 de abril de 1920:** Se dicta el decreto Nº 127 de creación de la Escuela de Aviación Militar.
 - **21 de junio de 1920:** El Congreso promulga la Ley de Aviación y el Ministerio de Guerra y Marina aprueba el Reglamento Orgánico de la Escuela.

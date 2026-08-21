@@ -45,20 +45,20 @@ Su diseño metálico, ala baja y tren retráctil marcaron un estándar en la avi
 ### Entorno cultural
 El DC-3 se convirtió en símbolo de la edad de oro de la aviación y en protagonista de la Segunda Guerra Mundial como C-47 Skytrain.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 1935: Primer vuelo del prototipo DST (X14988).  
 - 1936: Entrada en servicio con American Airlines.  
 - 1939: Representaba el 90% del tráfico aéreo civil mundial.  
 - 1941–1945: Militarizado como C-47 Skytrain/Dakota, con más de 10.000 unidades construidas.  
 - Posguerra: Miles de C-47 convertidos a DC-3 civiles impulsaron aerolíneas regionales.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 - Primer avión rentable solo con pasajeros.  
 - Reducción de accidentes gracias a su diseño robusto.  
 - Estableció estándares de diseño para futuras aeronaves.  
 - Papel crucial en la Segunda Guerra Mundial en transporte, evacuación y logística.  
 
-### Legado
+## Legado
 Casi un siglo después, cientos de DC-3 siguen volando. Es considerado “el avión que lo cambió todo” y un ícono perdurable de la aviación mundial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

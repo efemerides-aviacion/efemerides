@@ -44,7 +44,7 @@ El Caudron G.3 era un biplano ligero, diseñado para reconocimiento en la Primer
 ### Entorno cultural
 La hazaña consolidó a Bolland como ícono femenino en la aviación, desafiando prejuicios de género y convenciones sociales de la época.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - Diciembre 1920: llegada de Bolland a Argentina.  
 - Preparación y escepticismo de pilotos locales.  
 - 1 de abril de 1921: despegue desde Mendoza.  
@@ -52,12 +52,12 @@ La hazaña consolidó a Bolland como ícono femenino en la aviación, desafiando
 - Vuelo guiado por referencias visuales.  
 - Aterrizaje exitoso en Santiago tras cuatro horas.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 - Publicidad para Caudron y su aeronave.  
 - Empoderamiento femenino en la aviación.  
 - Precedente para rutas aéreas andinas.  
 
-### Legado
+## Legado
 Adrienne Bolland es recordada como una de las aviadoras más intrépidas de la historia, celebrada en Argentina y Chile como símbolo de audacia y resistencia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

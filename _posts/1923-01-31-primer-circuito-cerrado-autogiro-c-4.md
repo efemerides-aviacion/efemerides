@@ -45,7 +45,7 @@ La solución de las palas articuladas resolvió el problema de la disimetría de
 ### Entorno cultural
 El éxito del C.4 situó a España en la vanguardia de la aviación mundial.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1920–1922:** Fracasos de los prototipos C.1, C.2 y C.3.  
 - **1922:** De la Cierva concibe la solución de las bisagras en el rotor.  
 - **9/17 ene 1923:** Primeros vuelos exitosos en Getafe   
@@ -53,10 +53,10 @@ El éxito del C.4 situó a España en la vanguardia de la aviación mundial.
 - **22 ene 1923:** Exhibición ante autoridades militares y civiles.  
 - **31 ene 1923:** Primer circuito cerrado exitoso en Cuatro Vientos.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El vuelo circular validó el autogiro como aeronave controlable y segura, abriendo el camino a la aviación rotatoria.
 
-### Legado
+## Legado
 El éxito del C.4 marcó el inicio de la era de las aeronaves de ala giratoria, precursor directo del helicóptero moderno.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

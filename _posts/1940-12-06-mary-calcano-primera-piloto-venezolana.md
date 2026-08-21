@@ -35,19 +35,19 @@ image: 1940-12-06-mary-calcano-primera-piloto-venezolana.jpg
 ## Contexto Histórico
 En los años 30 y 40, la aviación civil venezolana era incipiente y dominada por pilotos militares o extranjeros. La hazaña de Mary Calcaño rompió barreras de género y demostró que volar podía ser accesible y seguro para los ciudadanos comunes.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1939:** Obtiene licencia de piloto privado en EE.UU.  
 - **1939–1940:** Regresa a Venezuela con su propio avión, realiza vuelos promocionales en Maracaibo y Ciudad Bolívar.  
 - **6 de diciembre de 1940:** Obtiene licencia venezolana, convirtiéndose en pionera nacional.  
 - **1946:** Funda Ala Venezolana, primer aeroclub civil del país.  
 - **Posteriormente:** Cofundadora de SACA, primera escuela privada de aviación civil.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 - Inspiró a otras mujeres como Carolina Herrera de Molinari y Ana Luisa Branger.  
 - Democratizó la formación aeronáutica en Venezuela.  
 - Promovió la aviación ligera como medio práctico y seguro de transporte.  
 
-### Legado
+## Legado
 Mary Calcaño es recordada como símbolo de perseverancia e innovación. Su historia se mantiene viva en archivos periodísticos y familiares, inspirando a nuevas generaciones de pilotos venezolanos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

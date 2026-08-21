@@ -29,19 +29,19 @@ El 31 de diciembre de 1938, Boeing presentó al mundo el B-307 Stratoliner, deri
 ## Contexto histórico específico
 En plena era de expansión de la aviación civil, Boeing buscaba superar las limitaciones de altitud y confort. El Stratoliner fue diseñado a partir de la célula del B-17, adaptado para pasajeros. La presurización permitió volar por encima de turbulencias y condiciones meteorológicas adversas, revolucionando la experiencia de vuelo.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1937:** Inicio del diseño, aprovechando la base del bombardero B-17.  
 - **1938:** Finalización del prototipo y pruebas iniciales.  
 - **31 de diciembre de 1938:** Primer vuelo exitoso en Seattle.  
 - **1940s:** Adaptación militar como C-75 durante la Segunda Guerra Mundial, usado para transporte estratégico.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El Stratoliner introdujo la presurización como estándar en la aviación comercial. Aunque se fabricaron pocos ejemplares, su legado fue decisivo para el desarrollo de aviones como el Boeing 377 Stratocruiser y, más adelante, los jets comerciales.
 
-### Legado
+## Legado
 El B-307 Stratoliner es recordado como pionero en confort y seguridad aérea. Su innovación marcó el inicio de la aviación moderna, donde volar a gran altitud se convirtió en norma. Uno de los ejemplares restaurados se conserva en el Smithsonian National Air and Space Museum.
 
-## Referencias
+## Referencias Verificadas
 <div class="references">
   <ul>
     <li><a href="https://es.wikipedia.org/wiki/Boeing_307" style="color: #315fea; text-decoration: none;">Boeing 307 Stratoliner - Wikipedia</a></li>

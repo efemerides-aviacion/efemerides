@@ -49,7 +49,7 @@ En el plano de la ingeniería de diseño de la época, los hidroaviones y aeropl
 ### Entorno cultural
 El despegue de la primera aerolínea nacional de Venezuela fue seguido por la sociedad de la época como un poderoso símbolo de modernidad y progreso cosmopolita que ponía fin al aislamiento geográfico. Los pilotos franceses de la Aéropostale, hombres audaces educados en los peligros del desierto del Sahara, se convirtieron en figuras legendarias que inspiraron las vocaciones de los primeros cadetes de la Escuela de Aviación Militar.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La historia de Aeropostal, desde su constitución como filial de capital francés hasta su total estatización y posterior desarrollo como aerolínea bandera de Venezuela, se detalla a continuación en sus fases más significativas:
 
@@ -62,7 +62,7 @@ La historia de Aeropostal, desde su constitución como filial de capital francé
 - **1945:** Se inaugura el primer destino comercial regular internacional uniendo Venezuela con Boa Vista, Brasil, seguido de misiones a Aruba en 1946.
 - **1948:** Adquiere sus primeros aviones Lockheed L-749 Constellation para operar misiones y vuelos directos sin escalas hacia la ciudad de Nueva York.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La fundación de Aeropostal el 3 de julio de 1929 representó el hito fundacional de la aviación comercial en Venezuela, transformando la movilidad de pasajeros y la eficiencia de la correspondencia. Su establecimiento aceleró la unificación territorial de un país en pleno desarrollo industrial.
 
@@ -71,7 +71,7 @@ La fundación de Aeropostal el 3 de julio de 1929 representó el hito fundaciona
 - **Adopción de motores pesados y reactores de la LAV:** El éxito de la Línea Aeropostal Venezolana facilitó en la posguerra la adquisición de aviones Lockheed L-749 Constellation para la ruta a Nueva York (1948), la posterior incorporación de los Super Constellation para cruzar el Atlántico hacia Europa (1953) y, en la década de 1960, de modernos reactores Douglas DC-8, consolidando a la aerolínea bandera como una de las de mayor jerarquía de todo el concierto latinoamericano.
 - **Formación de personal militar y civil de pilotaje:** El traspaso nacional en 1933 estimuló la incorporación de destacados pilotos militares y oficiales de aviación táctica venezolanos (como Francisco Leonardi o el teniente Guillermo Pacaníns), quienes asumieron el mando y la dirección técnica de la aerolínea en sustitución del personal francés original.
 
-### Legado
+## Legado
 
 La Línea Aeropostal Venezolana (LAV) permanece en el recuerdo colectivo como la madre de la aviación comercial venezolana, la aerolínea más antigua del país y una de las de mayor longevidad en América Latina. Su historia es un testimonio de la pasión de los pioneros por el aire.
 

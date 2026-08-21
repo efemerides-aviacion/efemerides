@@ -42,17 +42,17 @@ Tamayo operó aeronaves ligeras de origen europeo y estadounidense, como el Caud
 ### Entorno cultural
 Su logro simbolizó la apertura de la aviación civil privada en Venezuela, inspirando a otros pioneros y consolidando la aviación como actividad accesible más allá del ámbito militar.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 11 de octubre de 1936: Vuelo Maracay–Caracas en Caudron C.601 Aiglon Senior, primer avión privado en aterrizar en Caracas.  
 - 23 de octubre de 1936: Reválida de licencia por los mayores Miguel Rodríguez y Alcides Quintero.  
 - 13 de febrero de 1937: Obtiene el primer Certificado de Piloto Privado venezolano, aprobado por el Ministro de Trabajo y Comunicaciones.  
 - 2 de mayo de 1937: Accidente en Maracay con el Caudron, resultando herido junto a Aureliano Guzmán.  
 - Posteriormente importa un Ryan ST-A (YV-G-TR3), consolidando su papel como pionero de la aviación civil privada.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El reconocimiento oficial de Tamayo abrió el camino para la aviación civil privada en Venezuela, pese a las restricciones iniciales de permisos y escolta militar.
 
-### Legado
+## Legado
 Se le recuerda como el primer piloto privado certificado en Venezuela y como impulsor de la aviación civil en un contexto de transición política y tecnológica.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

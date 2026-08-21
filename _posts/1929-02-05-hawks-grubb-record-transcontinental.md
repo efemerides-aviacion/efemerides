@@ -22,7 +22,7 @@ image: 1929-02-05-hawks-grubb-record-transcontinental.jpg
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados
+## Datos verificados del evento
 - **Salida:** 4 de febrero de 1929, 17:37:30 PST, Metropolitan Field (Van Nuys Airport, Los Ángeles)  
 - **Llegada:** 5 de febrero de 1929, 14:59:29 EST, Roosevelt Field, Long Island, NY  
 - **Distancia recorrida:** ~3.900 km (2.430 millas)  
@@ -46,7 +46,7 @@ El vuelo de Hawks y Grubb representó un hito en la aviación comercial y técni
 - Superó el tiempo de Arthur Goebel en 36 minutos.  
 - Consolidó la reputación de Hawks como piloto de récords y de Lockheed como fabricante innovador.  
 
-### Legado
+## Legado
 - El avión fue utilizado por Texaco como transporte corporativo y para vuelos de promoción.  
 - El récord contribuyó a popularizar la aviación como medio de transporte rápido y confiable en Estados Unidos.  
 

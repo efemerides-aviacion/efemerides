@@ -43,7 +43,7 @@ Los cazas biplanos como el Sopwith Camel (introducido en 1917) y el alemán Alba
 ### Entorno cultural
 La figura del "as" (piloto con cinco o más victorias) tenía una enorme carga simbólica. Los récords de derribos en un día generaban una admiración especial. Hasta entonces, ningún piloto británico había logrado siete victorias en 24 horas; los alemanes sí habían tenido casos aislados (como Werner Voss con ocho en un día). Trollope se convertiría en el primero de la RFC/RAF en alcanzar esa cifra.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **30 de mayo de 1897:** Nace John Lightfoot Trollope en Wallington, Surrey.
 - **Junio 1915:** Sirve como mensajero motorizado en Francia con los Royal Engineers. Es invalidado y regresa a Inglaterra en septiembre.
@@ -61,14 +61,14 @@ La figura del "as" (piloto con cinco o más victorias) tenía una enorme carga s
 - **Segunda Guerra Mundial:** Se reintegra al servicio, alcanzando el rango de Wing Commander (comandante de ala).
 - **21 de octubre de 1958:** Fallece en Hove, Sussex, a los 61 años.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Reconocimiento:** Trollope recibió la Barra de la Cruz Militar (Military Cross and Bar) por su hazaña. Su récord de siete victorias en un día permaneció como el mayor logro diario de un piloto británico durante el resto de la guerra.
 - **Moral:** La noticia de su proeza, difundida en la prensa británica, levantó la moral en un momento de intensos combates terrestres.
 - **Legado táctico:** Demostró la efectividad de las patrullas ofensivas agresivas con el Sopwith Camel, inspirando a otros pilotos del Escuadrón No. 43.
 - **Herida y fin de su carrera:** Su captura y amputación pusieron fin a una carrera meteórica de apenas tres meses de combate intensivo, en los que había acumulado 18 victorias confirmadas.
 
-### Legado
+## Legado
 
 John Lightfoot Trollope es recordado como uno de los ases más brillantes de la Primera Guerra Mundial. Su hazaña del 24 de marzo de 1918 lo convirtió en el primer piloto británico en alcanzar siete victorias en un solo día, un récord que solo igualarían más tarde otros pilotos (como William Bishop o Edward Mannock, pero nunca superado por un británico en la Gran Guerra). El Escuadrón No. 43 de la RAF continúa conmemorando sus logros, y su historia permanece como ejemplo de pericia, valor y sacrificio.
 

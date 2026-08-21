@@ -44,16 +44,16 @@ El Bréguet Bre.330 fue especialmente modificado para vuelos de largo alcance, m
 ### Entorno cultural
 La hazaña recibió amplia cobertura de prensa y atrajo multitudes en Le Bourget, reforzando el entusiasmo por la aviación.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - **4 de enero de 1932, 06:40 (París – Le Bourget):** Despegue inicial rumbo a Hanoi en el Bréguet Bre.330 F‑AKEZ.  
 - **11 de enero de 1932, 16:30 (Hanoi):** Llegada tras 7 días, 9 horas y 50 minutos de vuelo.  
 - **20 de enero de 1932, 06:40 (Hanoi):** Inicio del vuelo de regreso vía Calcuta, Karachi, Basora, Atenas, Roma y Marsella.  
 - **24 de enero de 1932, 03:55 (París – Le Bourget):** Aterrizaje final, récord de velocidad en la ruta Hanoi–París con un tiempo de 3 días, 4 horas y 17 minutos.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El récord consolidó la reputación de Codos y Robida y posicionó al Bre.330 como avión de referencia para vuelos intercontinentales.
 
-### Legado
+## Legado
 La hazaña se recuerda como uno de los grandes récords de la aviación francesa en la era de los vuelos de largo alcance.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

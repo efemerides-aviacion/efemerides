@@ -35,7 +35,7 @@ image: 1920-12-10-fundacion-fuerza-aerea-venezolana.jpg
 ## Contexto Histórico
 En los años 20, Venezuela buscaba modernizar sus fuerzas armadas. La creación de la Escuela de Aviación Militar fue un paso estratégico, con apoyo de pilotos extranjeros y material aéreo francés que aportaron credibilidad técnica y visibilidad pública.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **17 de abril de 1920:** Decreto N.º 127 crea la Escuela de Aviación Militar.  
 - **10 de diciembre de 1920:** Instalación oficial en Maracay.  
 - **11 de diciembre de 1920:** Primeros entrenamientos con instructores extranjeros.  
@@ -47,12 +47,12 @@ En los años 20, Venezuela buscaba modernizar sus fuerzas armadas. La creación 
   - Cosme Renella: experiencia bélica y demostraciones públicas.  
   - Robert Petit: formación técnica y operativa de los primeros aviadores.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 - **Militar:** Base institucional de la aviación militar venezolana.  
 - **Institucional:** Desarrollo de programas de instrucción con influencia internacional.  
 - **Social y simbólico:** Entrada formal de Venezuela en la era de la aviación militar.  
 
-### Legado
+## Legado
 La fecha de instalación se reconoce como el nacimiento oficial de la Fuerza Aérea Venezolana, hoy Aviación Militar Bolivariana, que celebra cada 10 de diciembre su aniversario.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

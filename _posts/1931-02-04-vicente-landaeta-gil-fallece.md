@@ -22,7 +22,7 @@ image: 1931-02-04-vicente-landaeta-gil-fallece.webp
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha:** 4 de febrero de 1931  
 - **Lugar:** Campo de aviación de Barquisimeto, Venezuela  
 - **Aeronave:** Farman F.190 de fabricación francesa, color verde oliva y marrón claro  
@@ -46,7 +46,7 @@ El accidente de Vicente Landaeta Gil marcó un hito en la historia de la aviaci�
 - Fotografiado por Evaristo Reyes Yáñez, cuyas postales se agotaron rápidamente.  
 - Cubierto por los diarios *El Impulso* y *El Nuevo Diario*.  
 
-### Legado
+## Legado
 - Su memoria permanece como símbolo de los riesgos asumidos por los primeros aviadores militares venezolanos.  
 - Su nombre está ligado a la consolidación de la aviación militar en el país.  
 

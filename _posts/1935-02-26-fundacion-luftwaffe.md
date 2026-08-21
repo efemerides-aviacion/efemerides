@@ -44,7 +44,7 @@ La Luftwaffe se benefició de programas secretos de entrenamiento en la Unión S
 ### Entorno cultural
 La aviación militar se convirtió en un símbolo del poderío nazi y en un instrumento de propaganda, con Göring como figura central.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1920:** Disolución de las fuerzas aéreas alemanas por el Tratado de Versalles.  
 - **Década de 1920:** Entrenamiento secreto de pilotos en la URSS.  
 - **1935, 26 feb:** Decreto de Hitler creando la Luftwaffe.  
@@ -54,10 +54,10 @@ La aviación militar se convirtió en un símbolo del poderío nazi y en un inst
 - **1940:** Derrota en la Batalla de Inglaterra.  
 - **1945–1946:** Colapso y disolución tras la derrota alemana.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 La Luftwaffe fue clave en la estrategia de Blitzkrieg, pero su fracaso en Inglaterra y la superioridad aliada revelaron sus limitaciones. Su historia refleja tanto el poder inicial como el colapso del proyecto nazi.
 
-### Legado
+## Legado
 Recordada como una de las fuerzas aéreas más poderosas de su tiempo, su legado está marcado por la innovación tecnológica y por los crímenes de guerra asociados a su actuación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

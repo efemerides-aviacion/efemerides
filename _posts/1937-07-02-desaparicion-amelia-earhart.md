@@ -49,7 +49,7 @@ En el plano técnico, el Lockheed L-10E Electra representaba la vanguardia de la
 ### Entorno cultural
 La desaparición de Amelia Earhart en el apogeo de su carrera consagró su figura como un mito imperecedero de la cultura de la aviación mundial, una de esas historias inconclusas que mantienen en vilo a los investigadores del siglo XXI. El misterio que rodea su último vuelo ha inspirado innumerables documentales, libros y largometrajes, donde su gesta es recordada como el símbolo supremo de la pasión por el cielo.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La travesía final de Amelia Earhart y Fred Noonan a lo largo de su segundo intento de circunnavegación global se desarrolló a través de las siguientes etapas y sucesos significativos:
 
@@ -62,7 +62,7 @@ La travesía final de Amelia Earhart y Fred Noonan a lo largo de su segundo inte
 - **Julio de 1937:** El presidente Franklin D. Roosevelt ordena una operación de búsqueda masiva con barcos de la Armada y el portaaviones *Lexington*, recorriendo miles de millas de agua sin hallar ningún rastro.
 - **5 de enero de 1939:** Tras año y medio de investigaciones infructuosas, Amelia Earhart es declarada formalmente fallecida por un tribunal en California, cerrando el registro legal de la misión.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La trágica y repentina desaparición de Amelia Earhart conmocionó profundamente a la sociedad internacional y redefinió las directrices de seguridad para los vuelos de largo alcance sobre el agua. El misterio obligó a replantear el diseño de las comunicaciones comerciales de emergencia.
 
@@ -71,7 +71,7 @@ La trágica y repentina desaparición de Amelia Earhart conmocionó profundament
 - **Nacimiento de múltiples hipótesis históricas:** La ausencia de restos físicos dio origen a diversas hipótesis que van desde el hundimiento inminente del avión en el mar (*Crash-and-Sink*), hasta el aterrizaje de emergencia en Nikumaroro (*Gardner Island*) o la supuesta captura de la tripulación por fuerzas japonesas en las islas Marshall.
 - **Consolidación de las misiones de Amelia Earhart:** Su trágico fin, lejos de opacar su obra, ayudó a consolidar la trascendencia de sus hitos, inspirando la creación de becas, aeroclubes y premios con su nombre para incentivar la incorporación de la mujer a la ingeniería y la aviación civil.
 
-### Legado
+## Legado
 
 A casi un siglo de su desaparición, Amelia Earhart permanece como la aviadora más célebre y representativa de la historia, un símbolo inmortal de libertad, coraje y vanguardia técnica. Su legado continúa inspirando a millones de de vuelos, pilotos y entusiastas del cielo en todo el mundo.
 

@@ -44,7 +44,7 @@ El diseño del NA-16 incorporó innovaciones aerodinámicas y estructurales: ala
 ### Entorno cultural
 El espíritu de la aviación en los años treinta estaba marcado por el récord y la competición. North American apostó por un diseño simple pero evolutivo, priorizando la fiabilidad y la facilidad de producción. La rápida gestación del prototipo (apenas diez semanas desde los primeros bocetos hasta el primer vuelo) reflejó la agilidad de la compañía y su compromiso con las necesidades militares.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **Finales de 1934:** El USAAC emite una especificación para un nuevo entrenador básico. North American presenta el diseño NA-16.
 - **10 de diciembre de 1934:** Kindelberger y Atwood esbozan las especificaciones iniciales del NA-16.

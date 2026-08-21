@@ -46,17 +46,17 @@ El ala elíptica del Spitfire reducía la resistencia aerodinámica y mejoraba l
 ### Entorno cultural
 El Spitfire se transformó en símbolo de resistencia británica durante la Batalla de Inglaterra.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1931–1935:** Diseño y desarrollo bajo R.J. Mitchell.  
 - **1936, 5 mar:** Primer vuelo del prototipo K5054.  
 - **1936, jun:** Pedido récord de 310 unidades.  
 - **1940:** Producción masiva en Castle Bromwich para la Batalla de Inglaterra.  
 - **1940–1945:** Servicio activo durante toda la Segunda Guerra Mundial.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El Spitfire fue decisivo en la defensa aérea británica, consolidando la supremacía aliada en los cielos.
 
-### Legado
+## Legado
 Se produjeron más de 20.000 unidades en diversas versiones. El Spitfire sigue siendo uno de los cazas más emblemáticos de la historia, con ejemplares aún en vuelo en colecciones históricas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

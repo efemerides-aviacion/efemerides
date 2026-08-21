@@ -58,7 +58,7 @@ La construcción de dirigibles en Estados Unidos era prácticamente inexistente 
 
 La prensa de la época siguió con gran interés el desarrollo del DN-1, presentándolo como una maravilla tecnológica. Se construyó un hangar flotante especialmente diseñado en Pensacola, una estructura imponente de metal corrugado con cortinas de lona, que causó sensación. La escritora Mildred Cram, que visitó la base en 1916, describió al DN-1 como un "larguísimo perro salchicha amarillo", blando y esponjoso al tacto.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1 de junio de 1915:** La US Navy firma contrato con Connecticut Aircraft Company para la construcción del DN-1.
 - **Marzo de 1916:** La aeronave es ensamblada en el Arsenal de Hartford, Connecticut, para su equipamiento.

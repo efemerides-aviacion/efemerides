@@ -55,7 +55,7 @@ La Legión Cóndor, creada por el régimen nazi para intervenir en España, util
 
 El día del bombardeo era lunes, día de mercado, lo que aumentó la presencia de civiles (campesinos de los alrededores) agrupados en el centro urbano. Los testimonios de los sobrevivientes describen el ataque como una "lluvia de fuego" que duró horas, con aviones que volaban a baja altura ametrallando a quienes huían. El corresponsal del Times, George Steer, fue el primero en informar al mundo del ataque, describiendo "una ciudad en llamas durante tres horas" y "el espanto de la población civil". Su reportaje, publicado el 28 de abril de 1937 en el Times y en el New York Times, conmocionó a la opinión pública internacional.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **31 de marzo de 1937:** Bombardeo de Durango por la Legión Cóndor (250 víctimas), considerado un antecedente directo de Guernica.
 - **26 de abril de 1937, 16:20 horas:** Un avión alemán Dornier Do 17 (un bombardero rápido) sobrevuela Guernica lanzando bombas ligeras de 50 kg. Es la señal para la población civil.

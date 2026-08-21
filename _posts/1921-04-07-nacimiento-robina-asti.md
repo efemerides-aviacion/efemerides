@@ -59,7 +59,7 @@ Asti se incorporó a la aviación naval en los albores de la guerra del Pacífic
 ### Entorno cultural
 La transición de Asti en 1976 ocurrió en una época de cambios sociales, pero aún con un profundo estigma hacia las personas trans. Su valentía al demandar al gobierno federal sentó precedentes legales importantes. A los 98 años fundó Cloud Dancers Foundation para apoyar a personas trans mayores, un grupo frecuentemente olvidado. Su legado fue reconocido en 2020 en la lista Out100 de las personas LGBTQ+ más influyentes del año.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **7 de abril de 1921:** Nace en Manhattan, Nueva York.
 - **1938 (17 años):** Abandona la Brooklyn Technical High School para alistarse en la Armada de los Estados Unidos.
@@ -79,7 +79,7 @@ La transición de Asti en 1976 ocurrió en una época de cambios sociales, pero 
 - **21 de marzo de 2021:** Fallece en San Diego, California, en la casa de su hija, a los 99 años.
 
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Legado legal:** La demanda de Asti contra el Seguro Social cambió las normas federales, permitiendo que las personas transgénero reciban beneficios de supervivencia como viudas o viudos.
 - **Visibilidad transgénero:** A través de su TEDx, el documental y las entrevistas, Asti se convirtió en un ícono de la comunidad LGBTQ+, demostrando que es posible vivir auténticamente a cualquier edad.
@@ -87,7 +87,7 @@ La transición de Asti en 1976 ocurrió en una época de cambios sociales, pero 
 - **Cloud Dancers Foundation:** La fundación que creó continúa su labor, apoyando a personas trans mayores que a menudo sufren aislamiento y discriminación.
 
 
-### Legado
+## Legado
 
 Robina Asti es recordada como una pionera en dos frentes: en la aviación, como una de las pocas mujeres piloto de la Segunda Guerra Mundial y la instructora de vuelo más longeva del mundo; y en el activismo, como una defensora incansable de los derechos de las personas transgénero. Su vida demuestra que nunca es tarde para vivir con autenticidad ni para luchar por la justicia. En palabras de Asti: "No se trata del dinero, sino del acto de humanidad, que es absolutamente necesario aquí".
 

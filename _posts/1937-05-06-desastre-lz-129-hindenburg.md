@@ -77,7 +77,7 @@ El Hindenburg había sido diseñado originalmente para utilizar helio, un gas in
 
 El desastre del Hindenburg fue uno de los primeros eventos catastróficos capturados en imágenes en movimiento y transmitido a una audiencia global. Varios equipos de noticieros estaban presentes en Lakehurst para cubrir la llegada del dirigible, incluyendo personal de Fox, Pathé, Hearst y Paramount. El reportero Herb Morrison, de la estación de radio WLS de Chicago, grabó su conmovedora transmisión en discos de aluminio. Su exclamación "Oh, the humanity!" ("¡Oh, la humanidad!") se convirtió en una de las frases más famosas e inquietantes de la historia de la radiodifusión.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1931–1935:** Construcción del LZ 129 Hindenburg en Friedrichshafen
 - **4 de marzo de 1936:** Vuelo inaugural del Hindenburg

@@ -50,7 +50,7 @@ Clostermann voló aviones de última generación como el Hawker Tempest, que le 
 ### Entorno cultural
 Su figura se convirtió en símbolo nacional, y sus memorias <em>Le Grand Cirque</em> dieron voz a la experiencia de los pilotos de caza, consolidando su imagen como héroe.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1921:** Nace en Curitiba, Brasil.  
 - **1942:** Se incorpora a la RAF en el Reino Unido.  
 - **1942–1945:** Participa en misiones de combate en Europa ocupada.  
@@ -58,10 +58,10 @@ Su figura se convirtió en símbolo nacional, y sus memorias <em>Le Grand Cirque
 - **1945–1950s:** Publica <em>Le Grand Cirque</em>, se convierte en diputado y directivo aeronáutico.  
 - **2006:** Fallece en Montesquieu-des-Albères, Francia.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 Su palmarés lo convirtió en el as francés más destacado de la guerra, y sus relatos influyeron en la memoria colectiva de la aviación militar.
 
-### Legado
+## Legado
 Recordado como “Premier chasseur de France”, su nombre está asociado a la tradición de la aviación de caza y a la literatura bélica de referencia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

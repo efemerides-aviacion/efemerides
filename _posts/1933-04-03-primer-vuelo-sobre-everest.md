@@ -54,7 +54,7 @@ El gran desafío técnico era hacer volar a 9.000 m con motores de pistón sin s
 ### Entorno cultural
 La expedición combinó el espíritu de los pioneros de la aviación con el del alpinismo. El vuelo fue cubierto por la prensa mundial y las fotografías resultantes se publicaron en *The Times*, *National Geographic* y otros medios. La imagen del avión frente a la cumbre se convirtió en un ícono de la época, comparándose con las gestas polares de Amundsen y Scott.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1930–1932:** Se suceden intentos infructuosos de ascenso al Everest por la ruta norte del Tíbet (abierta temporalmente). Tras el cierre del Tíbet a expediciones extranjeras en 1931, la vía terrestre quedó bloqueada.  
 - **Febrero 1933:** Lady Houston ofrece financiar la expedición aérea. El mariscal del aire Sir John Salmond organiza el equipo con Peregrine Fellowes como líder, Lord Clydesdale y David McIntyre como pilotos.  
@@ -68,14 +68,14 @@ La expedición combinó el espíritu de los pioneros de la aviación con el del 
 - **4 de abril de 1933:** Se realiza un vuelo adicional sobre el Kanchenjunga (tercera montaña más alta del mundo).  
 - **19 de abril de 1933:** Segundo sobrevuelo del Everest con condiciones climáticas más favorables, obteniendo fotografías de mayor calidad.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Avance científico:** Las fotografías aéreas revelaron detalles de la topografía de la cumbre, los glaciares y las posibles rutas de ascenso. Fueron usadas posteriormente por la expedición británica de 1935 para planificar la ruta sur que culminaría en 1953.  
 - **Demostración de la aviación de gran altura:** Se demostró que los aviones de pistón podían operar de forma fiable por encima de 9.000 m, abriendo camino a rutas aéreas sobre los Himalayas.  
 - **Reconocimiento militar:** La experiencia sirvió para evaluar las capacidades de los motores Bristol en condiciones extremas, con implicaciones para la aviación militar británica en la década de 1930.  
 - **Repercusión social:** El éxito generó gran entusiasmo en Gran Bretaña y consolidó la imagen de Lady Houston como mecenas de la aviación. Sin embargo, también hubo críticas por el uso de aviones en una zona considerada sagrada por las poblaciones locales.
 
-### Legado
+## Legado
 
 El primer vuelo sobre el Everest es recordado como una de las grandes gestas de la aviación de entreguerras. Fue el primer uso exitoso de aeronaves para reconocimiento de alta montaña y un hito en la fotografía aérea. Los aviones originales (G-ACAZ y G-ACBR) sobrevivieron y actualmente se conservan en museos británicos: el G-ACAZ está en el **Museo de la RAF en Hendon**, y el G-ACBR se exhibe en el **Museo de la Ciencia de Londres** (aunque en algún momento se lo desmanteló parcialmente).  
 

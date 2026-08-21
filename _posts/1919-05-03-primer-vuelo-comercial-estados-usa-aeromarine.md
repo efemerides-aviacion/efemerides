@@ -67,7 +67,7 @@ El Aeromarine 50 era un hidroavión anfibio diseñado para el mercado civil de l
 
 La figura del piloto se había consolidado como un héroe moderno durante la guerra, y la aviación comercial comenzaba a ser vista como un símbolo de progreso. El vuelo de Robert Hewitt transportó a dos mujeres como primeras pasajeras pagadoras, reflejando la creciente participación de la mujer en la vida pública estadounidense de la posguerra.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1917-1918:** Desarrollo del entrenador militar Aeromarine 40 para la Marina de EE. UU.
 - **1919:** Conversión del Aeromarine 40 en el modelo civil Aeromarine 50 "Limousine Flying Boat"

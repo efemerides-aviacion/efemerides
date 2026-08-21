@@ -50,7 +50,7 @@ En el plano de la ingeniería de vuelo, los sistemas de reabastecimiento aéreo 
 ### Entorno cultural
 La cultura de la época encumbró a los hermanos Al y Fred Key bajo el apelativo de «The Flying Keys» (los hermanos voladores), convirtiendo su vuelo en un fenómeno mediático seguido por radio y prensa escrita. Sus transmisiones en directo del monótono rumbido del motor sobre el pueblo unificaron a la comunidad en una vigilia festiva que culminó con uno de los recibimientos populares más multitudinarios del estado.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La travesía del «Ole Miss» se ejecutó como una operación de resistencia física y precisión técnica sin igual, la cual se detalla a continuación en sus fases más importantes:
 
@@ -63,7 +63,7 @@ La travesía del «Ole Miss» se ejecutó como una operación de resistencia fí
 - **27 de junio de 1935:** Se supera de manera oficial el récord anterior de resistencia de los hermanos Hunter, atrayendo la atención de la prensa internacional y de los mandos militares del Pentágono.
 - **1 de julio de 1935 (18:06 horas):** Tras permanecer 653 horas y 34 minutos en el aire, el «Ole Miss» aterriza de forma segura en Meridian ante más de 30.000 personas, estableciendo una marca mundial imbatible para aviones de hélice convencionales.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La hazaña de los hermanos Key demostró a nivel mundial la madurez técnica del reabastecimiento aéreo y la extraordinaria fiabilidad del motor Wright Whirlwind bajo condiciones de fatiga prolongada. El hito aceleró la modernización de los sistemas de transferencia de fluidos en vuelo en las fuerzas aéreas mundiales.
 
@@ -72,7 +72,7 @@ La hazaña de los hermanos Key demostró a nivel mundial la madurez técnica del
 - **Prueba de fatiga de materiales extrema:** La operación ininterrumpida de más de sesenta y un millones de revoluciones del motor radial Wright J-5 demostró a los ingenieros la increíble robustez de las plantas motrices de refrigeración por aire, acelerando el declive de los motores de refrigeración líquida complejos en la aviación civil de entreguerras.
 - **Servicio y condecoraciones en la Segunda Guerra Mundial:** Ambos hermanos sirvieron de forma valerosa como pilotos de bombarderos pesados en el Teatro del Pacífico durante la Segunda Guerra Mundial, siendo galardonados con prestigiosas condecoraciones como la Cruz de Vuelo Distinguido (DFC).
 
-### Legado
+## Legado
 
 A casi un siglo de su histórica travesía, el récord establecido por los hermanos Al y Fred Key permanece como un hito imbatible en los anales de la aviación mundial convencional. Su herencia técnica y humana continúa inspirando el diseño y la seguridad en los de largo recorrido del siglo XXI.
 

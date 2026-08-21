@@ -46,17 +46,17 @@ Se reutilizaron aviones militares adaptados para transporte civil, demostrando l
 ### Entorno cultural
 El vuelo inaugural simbolizó el inicio de la aviación civil en Alemania y en Europa.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1919, 5 feb:** Primer vuelo Berlín–Weimar con periódicos y correo.  
 - **1919, 6 feb:** Inicio de vuelos regulares, expansión hacia Leipzig.  
 - **1919–1923:** Expansión de la red a Hamburgo, Hannover, Warnemünde y Róterdam.  
 - **1923:** Fusión con Deutscher Aero Lloyd.  
 - **1926:** Fundación de Deutsche Luft Hansa (actual Lufthansa).  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El servicio aéreo postal demostró la eficiencia del transporte aéreo frente al terrestre, acelerando la transición hacia vuelos de pasajeros.
 
-### Legado
+## Legado
 De la DLR, Lufthansa heredó el logo de la grulla diseñado por Otto Firle en 1918, uno de los símbolos corporativos más antiguos aún en uso.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
