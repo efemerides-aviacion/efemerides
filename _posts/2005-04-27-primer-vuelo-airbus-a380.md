@@ -59,7 +59,7 @@ El A380 incorporó innovaciones tecnológicas sin precedentes. Fue el primer avi
 
 El primer vuelo del A380 fue un acontecimiento mediático global. El aeropuerto de Toulouse-Blagnac se llenó de unas 50.000 personas, entre empleados de Airbus, aficionados, periodistas y curiosos que acamparon para presenciar el evento. El ayuntamiento de Toulouse instaló una pantalla gigante en la plaza central para que los ciudadanos pudieran seguir el vuelo. El evento fue comparado con el primer vuelo del Concorde en 1969.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **Finales de los años 80:** Airbus comienza los estudios conceptuales de un avión de muy alta capacidad.
 - **2000:** El programa A380 es lanzado oficialmente.

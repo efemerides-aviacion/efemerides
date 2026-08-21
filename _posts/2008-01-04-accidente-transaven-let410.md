@@ -64,7 +64,7 @@ El Let L-410 Turbolet es un bimotor turbohelice de fabricación checa, diseñado
 ### Entorno cultural
 El caso fue ampliamente cubierto por medios nacionales e internacionales. La falta de hallazgos inmediatos (solo se recuperó el cuerpo del copiloto) alimentó teorías y especulaciones durante años. La coincidencia con el accidente de Missoni en 2013, ocurrido el mismo día (4 de enero), reabrió el debate sobre la seguridad aérea en Venezuela.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **4 de enero de 2008, 09:13:** Despegue del vuelo desde el Aeropuerto Internacional Simón Bolívar de Maiquetía (Caracas) con destino a Los Roques.
 - **09:23:** El piloto se comunica con la torre de control de Maiquetía, reportando una distancia de 45 millas náuticas (83 km) y una altitud de 7.500 pies (2.300 m). Luego cambia a la frecuencia de la torre de Los Roques.

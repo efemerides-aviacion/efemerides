@@ -55,7 +55,7 @@ La historia de Viasa estuvo marcada por cambios de propiedad:
 - **1975:** Nacionalizada por el gobierno de Carlos Andrés Pérez debido a dificultades financieras.
 - **1991:** Privatizada en el marco de las reformas neoliberales. Un consorcio liderado por Iberia (45%) y el Banco Provincial (15%) adquirió el 60% de las acciones, manteniendo el Estado venezolano el 40% restante.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **21 de noviembre de 1960:** Fundación de Viasa por el gobierno de Rómulo Betancourt, fusionando las rutas internacionales de LAV y Avensa.
 - **2 de abril de 1961:** Primer vuelo comercial: Caracas – Ámsterdam con escalas en Azores, Lisboa, Madrid y Roma, operado con un DC-8 de KLM.
@@ -71,14 +71,14 @@ La historia de Viasa estuvo marcada por cambios de propiedad:
 - **8 de febrero de 1997:** Asamblea de accionistas. Iberia se niega a seguir inyectando capital y el Estado venezolano tampoco aporta fondos.
 - **Marzo de 1997:** Se acuerda la liquidación definitiva de la compañía.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Impacto social y laboral:** 2.400 trabajadores perdieron sus empleos de forma abrupta. Muchos pilotos y sobrecargos se enteraron del cierre por los medios de comunicación.
 - **Pérdida de conectividad internacional:** Venezuela quedó sin aerolínea bandera, lo que afectó su presencia internacional y el turismo receptivo. Otras aerolíneas (Iberia, Air France, American Airlines) absorbieron parte de las rutas, pero a precios más elevados.
 - **Crisis diplomática:** El cierre generó tensiones entre los gobiernos de Venezuela y España. El gobierno venezolano culpó a Iberia de la quiebra, mientras que Iberia señaló la falta de apoyo del socio estatal.
 - **Consecuencias legales:** Años después, en 2007, la Fiscalía General de Venezuela solicitó el inicio de un juicio contra los primeros sospechosos de la quiebra de Viasa.
 
-### Legado
+## Legado
 
 A pesar de su trágico final, Viasa permanece en la memoria colectiva de Venezuela como un símbolo de la época dorada de la aviación nacional. Su nombre sigue siendo evocado con nostalgia por generaciones de viajeros. La "Torre Viasa" en Caracas, su antigua sede, sigue en pie como un recordatorio de lo que fue la aerolínea de las siete estrellas. El verbo "viasar" se mantiene en el habla popular venezolana como sinónimo de viajar en avión con estilo. Viasa es, además, un caso de estudio en escuelas de negocios y aviación sobre los riesgos de la privatización mal gestionada y la importancia del apoyo estatal sostenido a las aerolíneas de bandera.
 

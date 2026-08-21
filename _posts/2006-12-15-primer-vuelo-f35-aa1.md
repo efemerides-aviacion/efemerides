@@ -58,7 +58,7 @@ El F-35 introdujo capacidades revolucionarias:
 ### Entorno cultural
 El F-35 ha sido objeto de controversia por sobrecostos (el programa superó el presupuesto original en más de 200 mil millones de dólares), retrasos (el primer despliegue operacional se retrasó hasta 2015) y problemas técnicos (casco HMDS que mostraba imágenes verdes, bloqueo del software, fiabilidad del motor). Sin embargo, con el tiempo ha madurado y es considerado el caza de quinta generación más avanzado y extendido del mundo.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1996:** Lanzamiento del programa JSF.
 - **26 de octubre de 2001:** Lockheed Martin gana el contrato JSF con su diseño X-35.

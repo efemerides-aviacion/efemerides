@@ -24,7 +24,7 @@ image: 1991-02-01-colision-pista-los-angeles.jpg
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha:** 1 de febrero de 1991  
 - **Lugar:** Aeropuerto Internacional de Los Ángeles (LAX), pista 24L  
 - **Aeronaves implicadas:**  
@@ -60,7 +60,7 @@ La colisión en pista de Los Ángeles fue uno de los accidentes más graves en l
 - Mejora de medidas de prevención de incursiones en pista.  
 - Refuerzo de protocolos de redundancia en control de tránsito aéreo.  
 
-### Legado
+## Legado
 El accidente es recordado como un caso emblemático de “runway collision” y figura en los estudios de seguridad operacional como ejemplo de la importancia de la conciencia situacional y la redundancia en los sistemas de control.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

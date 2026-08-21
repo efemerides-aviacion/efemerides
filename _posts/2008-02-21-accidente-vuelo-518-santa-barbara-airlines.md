@@ -68,7 +68,7 @@ El EGPWS (Enhanced Ground Proximity Warning System) estaba operativo, pero sus f
 ### Entorno cultural
 El episodio de Mayday titulado "28 Seconds to Survive" (temporada 12, episodio 12) documentó el accidente y destacó la confianza excesiva de los pilotos, que habían realizado esa ruta innumerables veces y subestimaron los procedimientos de seguridad. El título hace referencia a que la batería solo estuvo encendida 28 segundos antes de que los pilotos comenzaran a rodar (se necesitaban 60 segundos como mínimo, aunque lo recomendado eran 3 minutos) [cita: IMDb].
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **21 de febrero de 2008, antes del vuelo:** Los pilotos llegan con retraso a la aeronave (aproximadamente 30 minutos después de que los pasajeros hubieran abordado). En lugar de realizar las listas de chequeo pre-vuelo, se apresuran a encender motores.
 - **Encendido de batería:** La tripulación enciende la batería, pero solo la mantiene encendida un tiempo insuficiente para la inicialización completa del AHRS. Según el episodio de Mayday, solo 28 segundos.

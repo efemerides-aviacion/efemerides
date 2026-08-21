@@ -51,21 +51,21 @@ Cruzar el Atlántico en helicóptero era –y sigue siendo– un desafío extrem
 ### Entorno cultural
 La llegada a Palos de la Frontera (lugar de partida de Colón en 1492) tuvo una fuerte carga simbólica. Una placa conmemorativa fue instalada en la Plaza Macuro, que hoy recuerda la gesta. El helicóptero fue recibido por autoridades locales y una multitud que celebraba la unión simbólica de dos continentes.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **9 de diciembre de 1992, madrugada:** Despegue desde Macuro, Venezuela. Primera etapa hacia la isla de Trinidad (aproximadamente 200 km).
 - **10-14 de diciembre de 1992:** Etapas oceánicas con escalas técnicas en islas del Atlántico (posiblemente Cabo Verde y Madeira o Canarias). Las fuentes no especifican todas las escalas.
 - **15 de diciembre de 1992:** Llegada a las Islas Canarias (España), última escala antes de la península.
 - **16 de diciembre de 1992, mediodía (hora local):** Aterrizaje en Palos de la Frontera, Huelva. Ceremonia oficial y descubrimiento de una placa en la Plaza Macuro.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Reconocimiento mundial:** El vuelo fue cubierto por medios de comunicación en Venezuela y España, y se considera una de las mayores gestas de la aviación venezolana.
 - **Récord:** Aunque no está registrado oficialmente en Guinness World Records [NO CONFIRMADO], se le atribuye el primer cruce transatlántico en helicóptero por la ruta colombina.
 - **Legado material:** El helicóptero “La Guacamaya” se conservó como pieza histórica. Una placa en Palos de la Frontera (Plaza Macuro) conmemora la llegada.
 - **Inspiración:** En años posteriores, otros pilotos intentaron rutas similares, pero la hazaña de 1992 sigue siendo única.
 
-### Legado
+## Legado
 
 “La Guacamaya” es un símbolo de la aviación venezolana y de la conexión histórica con España. El nombre “Tokoara” (fundación promotora) significa “encuentro” en lengua indígena. El vuelo demostró que los helicópteros ligeros pueden, con modificaciones, realizar travesías oceánicas extremas. Aunque han existido otros cruces transatlánticos en helicóptero (como el de un Bell 47 en 1967 o el de un Robinson R22 en 1995), el de “La Guacamaya” destaca por su carácter conmemorativo y por haber sido realizado por pilotos venezolanos en una aeronave de fabricación estadounidense con apoyo español.
 

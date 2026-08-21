@@ -54,7 +54,7 @@ El Boeing 737-800 es un avión de pasillo único ampliamente probado, con más d
 ### Entorno cultural
 La aviación comercial en China es un símbolo de modernidad y eficiencia estatal. La respuesta a un accidente implica una coordinación entre la Administración de Aviación Civil de China (CAAC), las autoridades locales y la aerolínea. La transparencia en las investigaciones ha sido un tema recurrente, con periodistas y familiares demandando acceso a la información. El hecho de que el informe final no se haya publicado más de tres años después ha generado especulaciones y críticas internacionales.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **21 de marzo de 2022, 13:11 CST:** El vuelo MU5735 despega del Aeropuerto Internacional Kunming Changshui con destino a Guangzhou. A bordo viajan 123 pasajeros y 9 tripulantes (tres pilotos y seis auxiliares).
 - **Tripulación:** El capitán Yang Hongda, 47 años, acumulaba 6.709 horas de vuelo. El primer oficial Zhang Zhengping, 28 años, tenía 556 horas. El instructor Zhang Zhengping, 57 años, sumaba 31.769 horas, una experiencia excepcionalmente alta.
@@ -71,14 +71,14 @@ La aviación comercial en China es un símbolo de modernidad y eficiencia estata
 - **21 de marzo de 2025:** Tercer aniversario del accidente. Las familias de las víctimas realizan ceremonias privadas, mientras la CAAC reitera que la investigación "continúa" y que no hay plazo para la publicación del informe final.
 - **Marzo de 2026:** A cuatro años del accidente, no se ha publicado un informe final concluyente. La falta de transparencia ha generado críticas de expertos internacionales y organismos de víctimas.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Para la aviación china:** El accidente rompió una racha de más de 10 años sin siniestros fatales en vuelos comerciales regulares. China ordenó la inspección de toda su flota de Boeing 737-800 (más de 1.200 aeronaves), sin que se detectaran anomalías generalizadas.
 - **Para Boeing:** Aunque inicialmente se especuló con un posible fallo técnico, los datos preliminares apuntaron a un factor humano, lo que alivió parcialmente la presión sobre el fabricante, que ya enfrentaba el escrutinio por el caso del 737 MAX.
 - **Para las familias:** La ausencia de un informe oficial ha prolongado el duelo y la incertidumbre. Las compensaciones económicas se resolvieron en 2022, pero las familias siguen exigiendo respuestas sobre las causas.
 - **Para la transparencia internacional:** El caso ha sido citado por organismos como la Asociación Internacional de Transporte Aéreo (IATA) como ejemplo de la necesidad de que las investigaciones de accidentes se publiquen íntegramente, independientemente de consideraciones nacionales, para mejorar la seguridad global.
 
-### Legado
+## Legado
 
 El accidente del vuelo 5735 de China Eastern Airlines es, hasta la fecha, el peor siniestro aéreo en China desde 1994 y el más mortífero con un Boeing 737-800. Su legado incluye:
 

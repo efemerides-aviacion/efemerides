@@ -44,7 +44,7 @@ La tecnología de cohetes se basaba en diseños de los años 60 y 70, con sistem
 ### Entorno cultural
 Existía un creciente escepticismo sobre el futuro de la exploración espacial tripulada tras el final del programa Apolo y los desafíos del transbordador. Sin embargo, la ciencia ficción y la literatura (como la serie Fundación de Isaac Asimov, que Musk citaba como inspiración) mantenían vivo el ideal de la colonización de otros mundos . La idea de hacer la vida "multiplanetaria" comenzaba a calar en ciertos círculos tecnológicos.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **2001:** Elon Musk se involucra con la Mars Society, dona 100.000 dólares y concibe el proyecto "Mars Oasis", una misión para llevar un invernadero a Marte y generar interés público en la exploración espacial .
 - **Finales de 2001 – principios de 2002:** Musk viaja a Rusia en varias ocasiones para intentar comprar un cohete Dnepr (ICBM reconvertido) para su proyecto Mars Oasis. Las negociaciones fracasan por los altos precios y la actitud de los rusos .
@@ -54,7 +54,7 @@ Existía un creciente escepticismo sobre el futuro de la exploración espacial t
 - **Mediados de 2002:** SpaceX establece su primera sede operativa en una nave industrial en El Segundo, California, cerca de las instalaciones de Boeing y TRW. Comienza con unos pocos empleados que Musk entrevista personalmente .
 - **Noviembre de 2005:** La compañía ya cuenta con 160 empleados y continúa creciendo .
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La fundación de SpaceX tuvo consecuencias que transformaron la industria espacial global:
 
@@ -78,7 +78,7 @@ La fundación de SpaceX tuvo consecuencias que transformaron la industria espaci
 - **Mayo de 2020:** Lanzamiento de la misión Demo-2 con astronautas de la NASA, primera vez que una empresa privada lleva humanos a la ISS .
 - **2019–presente:** Despliegue masivo de la constelación Starlink, que en 2026 cuenta con más de 9.600 satélites activos y se ha convertido en la principal fuente de ingresos de la compañía .
 
-### Legado
+## Legado
 
 SpaceX ha redefinido por completo la industria aeroespacial:
 

@@ -43,7 +43,7 @@ Hasta entonces, todos los aviones comerciales estaban certificados para volar co
 ### Entorno cultural
 El vuelo del A380 con 100% SAF fue presentado como un hito mediático por Airbus y sus socios, reforzando el compromiso de la industria con los objetivos del Acuerdo de París. El evento contó con amplia cobertura en medios especializados y generalistas, destacando la colaboración entre fabricantes, proveedores de combustible y aerolíneas.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **2020:** Airbus anuncia su hoja de ruta para introducir el primer avión de cero emisiones en 2035 y acelera las pruebas con SAF.
 - **Octubre de 2021:** Un Airbus A350 realiza el primer vuelo con 100% SAF en un motor.
@@ -53,14 +53,14 @@ El vuelo del A380 con 100% SAF fue presentado como un hito mediático por Airbus
 - **Post‑vuelo:** El ensayo se considera un éxito y abre la puerta a futuras certificaciones para vuelos comerciales con 100% SAF.
 - **2023 en adelante:** Airbus continúa las pruebas con el A380 y otros modelos, colaborando con aerolíneas como Emirates para demostraciones similares.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Avance en la certificación:** Los datos recogidos contribuyen directamente al trabajo de la Organización de Aviación Civil Internacional (OACI) y de las autoridades aeronáuticas (EASA, FAA) para permitir el uso de 100% SAF en toda la flota.
 - **Demostración de escalabilidad:** Al utilizar el A380, el avión comercial más grande, se demostró que incluso los motores de mayor tamaño pueden operar con biocombustible puro.
 - **Impulso a la producción de SAF:** El éxito de estas pruebas anima a los gobiernos y a la industria a aumentar la producción de combustible sostenible, cuya oferta sigue siendo limitada y costosa.
 - **Legado para el A380:** Aunque el A380 ya había dejado de producirse (la última unidad se entregó en 2021), este vuelo demostró que los aviones en servicio pueden adaptarse a combustibles más limpios, prolongando su vida operativa con menor impacto ambiental.
 
-### Legado
+## Legado
 
 El vuelo del A380 con 100% SAF se inscribe en una serie de hitos que están transformando la aviación comercial hacia una mayor sostenibilidad. Junto con las pruebas del A350 y A319neo, este evento confirma que la tecnología está madura para operar con combustibles no fósiles. A futuro, se espera que la certificación permita vuelos regulares con 100% SAF en toda la flota mundial, contribuyendo significativamente a la reducción de emisiones del sector.
 

@@ -59,7 +59,7 @@ El Boeing 737-800 era una de las aeronaves comerciales más exitosas del mundo, 
 
 El P-8A es parte de una tendencia más amplia en la aviación militar: el uso de plataformas comerciales "off-the-shelf" para misiones militares, en lugar de diseños puramente militares (como el P-3 Orion). Ejemplos como el KC-135 (basado en el Boeing 707) y el KC-46 (basado en el 767) demostraron las ventajas de este enfoque. Sin embargo, algunos puristas lamentaron el reemplazo del Orion, un avión clásico con diseño aerodinámico elegante y una larga historia operativa.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **2000:** La US Navy inicia estudios para reemplazar el P-3 Orion.
 - **2004:** La US Navy selecciona el Boeing 737 MMA (Multimission Maritime Aircraft) como ganador del programa.

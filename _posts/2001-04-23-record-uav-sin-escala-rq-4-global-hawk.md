@@ -57,7 +57,7 @@ El RQ-4 Global Hawk era una aeronave revolucionaria para su época. Con una enve
 
 El nombre "Southern Cross II" era un homenaje al Southern Cross, el avión pilotado por el aviador australiano Charles Kingsford Smith, que en 1928 realizó la primera travesía aérea del Pacífico (desde Oakland, California, hasta Brisbane, Australia). Este guiño histórico conectaba la hazaña del Global Hawk con la tradición de los grandes pioneros de la aviación.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1995:** La Defense Advanced Research Projects Agency (DARPA) y la USAF lanzan el programa ACTD del Global Hawk.
 - **28 de febrero de 1998:** Primer vuelo del prototipo RQ-4A Global Hawk.

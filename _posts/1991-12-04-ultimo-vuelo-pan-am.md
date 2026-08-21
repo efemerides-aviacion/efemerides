@@ -50,7 +50,7 @@ Pan Am fue pionera en adoptar aviones revolucionarios: el Boeing 314 Clipper (hi
 ### Entorno cultural
 La caída de Pan Am coincidió con el fin de la Guerra Fría y el surgimiento de una economía globalizada. La desregulación (Airline Deregulation Act de 1978) favoreció a aerolíneas con fuertes redes domésticas (Delta, American, United). Pan Am, enfocada en rutas internacionales, no pudo adaptarse. Además, el atentado de Lockerbie (21 de diciembre de 1988) dañó su imagen de seguridad y disparó sus costos de seguro.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **14 de marzo de 1927:** Juan Trippe funda Pan American Airways.
 - **1935:** Primer vuelo transpacífico (San Francisco–Manila).

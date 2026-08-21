@@ -63,7 +63,7 @@ El Boeing 737 es uno de los aviones comerciales más exitosos de la historia. Su
 
 La cultura de mantenimiento de Aloha Airlines había sido criticada antes del accidente. La falta de recursos, la presión por mantener los aviones en servicio y la ausencia de una inspección exhaustiva de las áreas ocultas del fuselaje contribuyeron al desastre. La investigación de la NTSB destacó la "falta de conciencia" sobre la gravedad de la corrosión y la fatiga en aeronaves de alta utilización.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1969:** El Boeing 737-297 N73711 es entregado a Aloha Airlines. Recibe el nombre de "Queen Liliuokalani".
 - **Década de 1970-1980:** Aloha Airlines opera el avión en rutas interinsulares de alta frecuencia, acumulando un número récord de ciclos de vuelo.

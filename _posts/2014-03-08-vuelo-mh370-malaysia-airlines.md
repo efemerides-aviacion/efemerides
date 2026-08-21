@@ -48,17 +48,17 @@ El evento evidenció las limitaciones de los sistemas de seguimiento aéreo y la
 ### Entorno cultural
 El MH370 pasó a ser un símbolo de incertidumbre y dolor, objeto de múltiples teorías y debates internacionales.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **2014, 8 mar:** Desaparición del vuelo MH370.  
 - **2015–2016:** Aparición de restos en costas del Índico occidental.  
 - **2017:** Suspensión de la búsqueda oficial tras cubrir 120.000 km².  
 - **2018:** Nueva búsqueda por Ocean Infinity, sin resultados.  
 - **2025–2026:** Reanudación de la búsqueda por Ocean Infinity, aún inconclusa.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El caso impulsó cambios en las normas de la OACI sobre balizas submarinas, cajas negras y transmisión de datos de vuelo.
 
-### Legado
+## Legado
 El MH370 sigue siendo un misterio sin resolver, recordando la vulnerabilidad de la aviación moderna y la necesidad de sistemas de rastreo más robustos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

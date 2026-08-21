@@ -54,7 +54,7 @@ El desarrollo del GPS requirió décadas de inversión tecnológica. Los satéli
 
 La década de 1990 fue testigo de la transición de tecnologías militares a aplicaciones civiles. El GPS se convirtió rápidamente en una herramienta indispensable para la navegación marítima (reemplazando a los sistemas de radiofaros tradicionales), la aviación general y comercial, la topografía, la agricultura de precisión y, más tarde, para los teléfonos móviles y aplicaciones de consumo. El General Thomas S. Moorman Jr., ex Vicejefe de Estado Mayor de la Fuerza Aérea, declaró en 1995: "Este es un hito importante. GPS se ha vuelto integral para nuestros combatientes y se está convirtiendo rápidamente en una verdadera utilidad para la comunidad civil".
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1978:** Lanzamiento del primer satélite GPS (NAVSTAR-1).
 - **1983:** Tras el incidente del vuelo KAL 007, el presidente Reagan anuncia que el GPS estará disponible para uso civil.

@@ -45,16 +45,16 @@ El GlobalFlyer fue construido con fibra de carbono ultraligera; el 83% de su pes
 ### Entorno cultural
 La hazaña reforzó la imagen de Fossett como aventurero global y de Richard Branson como impulsor de proyectos visionarios.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **2004:** Preparación del GlobalFlyer por Scaled Composites.  
 - **2005, 28 feb:** Despegue desde Salina, Kansas.  
 - **2005, 3 mar:** Aterrizaje en Salina tras circunnavegación sin reabastecimiento.  
 - **2006:** Fossett logra otro récord mundial de distancia sin reabastecimiento (ver efeméride relacionada).  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El vuelo demostró la viabilidad de aeronaves ultraligeras para vuelos de largo alcance y consolidó la reputación de Fossett como uno de los últimos grandes aventureros de la aviación.
 
-### Legado
+## Legado
 El GlobalFlyer se exhibe en el Museo Nacional del Aire y el Espacio del Smithsonian, como símbolo de innovación y audacia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

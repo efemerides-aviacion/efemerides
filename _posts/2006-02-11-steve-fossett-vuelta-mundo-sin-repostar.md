@@ -61,7 +61,7 @@ El GlobalFlyer fue diseñado específicamente para vuelos de ultra largo alcance
 ### Entorno cultural
 Fossett era una celebridad mediática. Sus hazañas eran seguidas por millones de personas a través de cobertura en tiempo real. El vuelo de 2006 fue cubierto por cadenas como BBC, CNN, AP y agencias de todo el mundo. El patrocinio de Virgin Atlantic y la presencia de Richard Branson en el aterrizaje aportaron un componente de espectáculo y relaciones públicas.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **2002–2004:** Burt Rutan y su empresa Scaled Composites diseñan y construyen el GlobalFlyer para Fossett.
 - **2005, 3 de marzo:** Fossett completa la primera vuelta al mundo en solitario sin escalas ni repostaje (Salina, Kansas), en 67 horas.

@@ -52,7 +52,7 @@ El Concorde podía volar a Mach 2,04 (≈2.179 km/h) a una altitud de crucero de
 ### Entorno cultural
 El Concorde era un icono global. Su silueta delta y su nariz abatible ("droop-snoot") lo hacían inconfundible. Su estela sónica (boom) generaba controversia medioambiental, pero también admiración. El retiro fue cubierto por medios de todo el mundo como el fin de una era. El G-BOAF, al ser el último construido, adquirió un valor simbólico especial.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1962, 29 de noviembre:** Firma del tratado anglo-francés para desarrollar el Concorde.
 - **1969, 2 de marzo:** Primer vuelo del prototipo Concorde (desde Toulouse).

@@ -61,7 +61,7 @@ El A400M incorpora innovaciones significativas:
 ### Entorno cultural
 El A400M es considerado el mayor programa de defensa cooperativo europeo. Su nombre "Atlas" (titán de la mitología griega que sostiene el cielo) evoca fuerza y fiabilidad. El apodo "Grizzly" para el prototipo fue elegido por los ingenieros como un guiño al oso pardo europeo, símbolo de robustez.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **2003, mayo:** Lanzamiento oficial del programa A400M con un pedido inicial de 180 unidades.
 - **2008:** Primer retraso significativo. Los problemas en el desarrollo de los motores TP400-D6 posponen el primer vuelo. Airbus Military anuncia que el avión no volará hasta 2009.

@@ -50,7 +50,7 @@ En el plano técnico, el diseño del globo Roziere representó un salto tecnoló
 ### Entorno cultural
 La gesta de la circunnavegación de Fossett se insertó en la rica herencia de los grandes pioneros de la exploración aérea que desafiaron las fronteras del planeta en la era de los años veinte y treinta. Su hazaña fue celebrada de forma unánime por los medios de comunicación internacionales como un tributo a la tenacidad humana y el espíritu de superación frente a la inmensidad de los océanos y desiertos del mundo.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La histórica travesía del «Spirit of Freedom» se ejecutó como una operación de resistencia física y precisión meteorológica extrema, la cual se detalla a continuación en sus fases más importantes:
 
@@ -62,7 +62,7 @@ La histórica travesía del «Spirit of Freedom» se ejecutó como una operació
 - **3 de julio de 2002:** Se ve obligado a postergar el aterrizaje en el desierto australiano durante más de veinticuatro horas debido a fuertes ráfagas de viento que amenazaban con destrozar la cápsula contra el suelo.
 - **4 de julio de 2002 (amanecer local):** Aterriza de manera triunfal en una remota planicie del rancho ganadero de Durham Station, Queensland, completando la travesía total de 14 días y 19 horas.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La exitosa culminación del viaje de Steve Fossett demostró de manera indiscutible la viabilidad de la tecnología de globos híbridos Roziere y el valor de los de sistemas automatizados de control de altitud. Su hito abrió una nueva era en la exploración de largo alcance.
 
@@ -71,7 +71,7 @@ La exitosa culminación del viaje de Steve Fossett demostró de manera indiscuti
 - **Mejoras en la seguridad de vuelo espacial y polar:** Las investigaciones técnicas sobre la resistencia del Kevlar y el aislamiento térmico de la góndola del *Spirit of Freedom* en el frío del Antártico aportaron datos científicos de gran valor para el desarrollo de los sistemas de soporte vital en misiones de exploración.
 - **Consolidación de un pionero de la exploración universal:** La hazaña consagró a Steve Fossett como uno de los aventureros más polifacéticos de la historia, acumulando récords mundiales en vela, vuelo de planeadores a gran altitud, dirigibles Zeppelin y aviación.
 
-### Legado
+## Legado
 
 El globo «Spirit of Freedom» y su piloto Steve Fossett permanecen en la memoria de la aeronáutica como los iconos supremos de una era dorada de la exploración humana transoceánica. Su herencia de coraje y precisión técnica continúa influyendo en la aviación del siglo XXI.
 

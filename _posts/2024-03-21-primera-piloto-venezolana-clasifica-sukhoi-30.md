@@ -43,7 +43,7 @@ El Sukhoi Su‑30MK2 es un caza pesado bimotor, con capacidad multirrol, diseño
 ### Entorno cultural
 La figura de la “aviadora de combate” es un símbolo de profesionalización y modernidad. La difusión en redes sociales de la hazaña de la capitana Caraballo, con su llamada de vuelo “Katara” (inspirada en el personaje de *Avatar*), buscó inspirar a nuevas generaciones de mujeres a seguir carreras técnicas y de defensa.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **2015:** Cindi Caraballo egresa de la Academia Militar de la Aviación Bolivariana como teniente en la especialidad de Defensa Aeroespacial, integrante de la promoción “General en Jefe José Félix Rivas”.
 - **2019:** Inicia su formación como piloto aviador en aviones de entrenamiento primario Aermacchi SF‑260U.
@@ -52,13 +52,13 @@ La figura de la “aviadora de combate” es un símbolo de profesionalización 
 - **21 de marzo de 2024:** En ceremonia realizada en la Base Aérea Teniente Luis del Valle García, la capitana Cindi “Katara” Caraballo obtiene su clasificación como piloto de caza de combate del sistema Sukhoi Su‑30MK2, junto con el capitán Andrés Labrador. Con ello se convierte en la primera mujer venezolana y la primera mujer latinoamericana en pilotar este modelo.
 - **22‑23 de marzo de 2024:** Medios especializados y cuentas de defensa en redes sociales difunden la noticia. La cuenta @SA_Defensa publica el reconocimiento oficial el 23 de marzo.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Inclusión femenina en el caza:** La clasificación de la capitana Caraballo marca un precedente para que más mujeres se integren a las unidades de combate de ala fija en Venezuela y en la región.
 - **Proyección internacional:** La hazaña fue reportada por medios especializados en defensa como *Defensa.com* y por portales de aviación en varios países, destacando el logro como un hito en la profesionalización de la Aviación Militar Bolivariana.
 - **Legado cultural:** Su llamada de vuelo “Katara” se ha convertido en un símbolo de empoderamiento femenino dentro de la FANB, y se utiliza en campañas de reclutamiento y material de difusión institucional.
 
-### Legado
+## Legado
 
 La capitana Cindi Caraballo se suma a otras aviadoras venezolanas que han operado sistemas de ala fija y rotatoria en transporte y apoyo, pero es la primera en hacerlo en el caza de mayor complejidad tecnológica de la FANB. Su formación, desde el SF‑260 hasta el Su‑30MK2, demuestra la continuidad del proceso de formación de pilotos de combate en Venezuela. El hito del 21 de marzo de 2024 quedará registrado en la historia de la aviación militar latinoamericana como un paso adelante en la igualdad de género en las fuerzas armadas.
 

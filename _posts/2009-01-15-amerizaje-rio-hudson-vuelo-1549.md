@@ -68,7 +68,7 @@ El Airbus A320 fue el primer avión comercial con controles de vuelo fly-by-wire
 ### Entorno cultural
 El "Milagro del Hudson" se convirtió en un fenómeno cultural global. Inspiró libros (la autobiografía de Sullenberger *Highest Duty*, publicada en español como *Sully: Hazaña en el Hudson*), documentales (National Geographic) y la película *Sully* (2016), dirigida por Clint Eastwood y protagonizada por Tom Hanks. El episodio fue recreado en la serie *Mayday: Catástrofes aéreas* (temporada 10, episodio 5, titulado "Hudson River Runway").
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **Antes del vuelo:** El capitán Sullenberger y el primer oficial Skiles, en su primera asignación juntos, realizan la inspección prevuelo. Skiles acumulaba solo 37 horas en A320.
 - **15:24:56 EST:** Despegue desde la pista 4 del Aeropuerto LaGuardia, con Skiles controlando los mandos.

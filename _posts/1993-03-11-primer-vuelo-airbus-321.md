@@ -42,7 +42,7 @@ La tecnología fly-by-wire, estrenada en el A320, se había consolidado como un 
 ### Entorno cultural
 En el ámbito aeronáutico europeo existía un fuerte sentimiento de orgullo por los logros de Airbus, que había demostrado que un consorcio multinacional podía competir con éxito frente a la industria estadounidense. El A321 era visto como un paso natural en esa estrategia de crecimiento.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1984:** Airbus comienza estudios preliminares para una versión de mayor capacidad del A320, inicialmente denominada A320-200.
 - **22 de febrero de 1987:** Primer vuelo del A320, que establece la base técnica (fly-by-wire, cabina de cristal) para toda la familia.
@@ -52,7 +52,7 @@ En el ámbito aeronáutico europeo existía un fuerte sentimiento de orgullo por
 - **Mayo de 1993:** Primer vuelo del segundo prototipo, equipado con motores CFM56-5B, completando la oferta de dos opciones de planta motriz para los clientes.
 - **Enero de 1994:** Entrada en servicio del A321 con Lufthansa, cliente de lanzamiento junto con Alitalia (que recibió el suyo en marzo de 1994).
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 El éxito del A321 tuvo múltiples consecuencias de largo alcance:
 
@@ -61,7 +61,7 @@ El éxito del A321 tuvo múltiples consecuencias de largo alcance:
 - **Consolidación de Hamburgo:** La planta de Finkenwerder se consolidó como centro de excelencia para los modelos de fuselaje alargado de Airbus.
 - **Base para futuras evoluciones:** El diseño básico demostró un potencial de crecimiento que décadas después daría lugar al A321neo, A321LR y A321XLR, aviones capaces de rutas transatlánticas con pasillo único.
 
-### Legado
+## Legado
 
 El Airbus A321 ocupa un lugar destacado en la historia de la aviación comercial por varias razones:
 
