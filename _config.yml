@@ -1,10 +1,31 @@
 title: Efemérides de Aviación
 description: Archivo editorial de efemérides históricas en aviación
+
 baseurl: "/efemerides" # nombre del repositorio
 url: "https://efemerides-aviacion.github.io"
 
 theme: minima
+
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
+# Archivos y carpetas que NO se copian al sitio publicado.
+# Ojo: esta clave SUSTITUYE la lista interna de Jekyll, no la amplía;
+# por eso hay que repetir aquí Gemfile, Gemfile.lock y las carpetas de caché.
+exclude:
+  # --- valores por defecto de Jekyll, que hay que reponer ---
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  # --- propios del proyecto ---
+  - docs/                    # documentos rectores: uso interno, no son contenido
+  - README.md
+  - README-restauracion.md
