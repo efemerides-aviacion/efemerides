@@ -58,7 +58,7 @@ La aviación comercial gozaba de un enorme prestigio. Volar era un símbolo de p
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **Enero de 1969:** El avión McDonnell Douglas DC-9-32, matrícula YV-C-AVD, es fabricado por McDonnell Douglas. Realiza su primer vuelo el 6 de enero . Es adquirido por Avensa, subsidiaria de Pan American World Airways.
 - **27 de febrero de 1969:** Avensa entrega la aeronave en régimen de wet lease (arrendamiento con tripulación incluida) a Viasa para ser utilizada en rutas internacionales .
@@ -70,7 +70,7 @@ La aviación comercial gozaba de un enorme prestigio. Volar era un símbolo de p
 - **Impacto y caída:** El avión vuela a muy baja altura sobre el barrio Ziruma. El motor izquierdo choca contra un poste de electricidad cerca del antiguo Cine Capitolio. Una llama emerge del ala izquierda. Al inclinarse, los reflectores de una cancha de baloncesto rasgan los tanques de combustible, derramando gasolina sobre el sector. Segundos después, el ala impacta un segundo poste con dos transformadores, generando una chispa que provoca una explosión. El ala izquierda se desprende y la aeronave, fuera de control, se estrella invertida en una vereda de la urbanización La Trinidad . El motor izquierdo, desprendido, cae sobre la casa de la familia del voleibolista Lino Connell, matando a su esposa y tres hijos .
 - **Inmediatamente después:** Los equipos de rescate del aeropuerto y bomberos acuden al lugar. La magnitud de la tragedia es apocalíptica. No hay sobrevivientes a bordo. En menos de 24 horas, corresponsales de todo el mundo cubren el siniestro .
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 El vuelo 742 de Viasa fue, en su momento, el peor desastre aéreo de la historia de la humanidad en términos de víctimas fatales . Su impacto fue devastador en múltiples niveles:
 
@@ -79,7 +79,7 @@ El vuelo 742 de Viasa fue, en su momento, el peor desastre aéreo de la historia
 - **Infraestructura:** La tragedia fue el detonante definitivo para el cierre del Aeropuerto Grano de Oro, cuya clausura ya se discutía desde años atrás por su ubicación en pleno centro de la ciudad. A los ocho meses, en noviembre de 1969, se inauguró el nuevo Aeropuerto Internacional de La Chinita, en una zona más alejada y segura .
 - **Seguridad aérea:** El accidente puso de relieve los riesgos de operar aviones de reacción de gran porte en aeropuertos rodeados de áreas urbanas y con pistas limitadas. Las investigaciones posteriores destacaron la importancia de realizar cálculos precisos de peso y balance, así como de contar con información meteorológica fiable.
 
-### Legado
+## Legado
 
 El vuelo 742 de Viasa permanece en la memoria colectiva de Venezuela como "La tragedia de La Trinidad" o "La tragedia de Grano de Oro". Marcó un antes y un después en la aviación nacional. El cierre de Grano de Oro y el nacimiento de La Chinita son su legado más tangible. El siniestro, además, sigue siendo el accidente más mortífero en la historia del McDonnell Douglas DC-9  y, hasta el día de hoy, el segundo peor accidente aéreo en Venezuela, solo superado por el Vuelo 708 de West Caribbean en 2005 .
 

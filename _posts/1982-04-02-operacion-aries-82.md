@@ -48,7 +48,7 @@ La FAA contaba con una flota moderna para América Latina: C‑130H Hércules ad
 ### Entorno cultural
 La aviación militar argentina tenía una tradición de autonomía y profesionalismo. La planificación de Aries 82 se llevó a cabo bajo absoluto secreto, involucrando a tripulaciones de transporte que no revelaron los verdaderos objetivos hasta horas antes del despegue. El factor sorpresa fue clave para minimizar la reacción británica.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **Diciembre de 1981 – marzo de 1982:** Se inicia la planificación de la operación conjunta. La FAA define el Plan Aries 82, con cuatro fases: alistamiento, despliegue, asalto aéreo y sostenimiento.
 - **Finales de marzo de 1982:** Se ordena la movilización de aeronaves hacia bases avanzadas del sur (Río Gallegos, Comodoro Rivadavia). Se preparan pistas alternativas y se estudian procedimientos de vuelo a baja altura para evitar detección.
@@ -57,14 +57,14 @@ La aviación militar argentina tenía una tradición de autonomía y profesional
 - **A lo largo del día:** Arriban dos C‑130 más, un Fokker F‑28 con el jefe de la FAA (brigadier Basilio Lami Dozo) y seis IA‑58 Pucará. Los Pucará realizan patrullajes y permanecen en alerta para apoyo a las tropas terrestres.
 - **Resto de abril:** Se establece un puente aéreo continuo que transporta personal, víveres, municiones y equipos. La FAA también despliega helicópteros (Bell UH‑1H, Hughes 500) para tareas logísticas.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Control aéreo inicial:** La FAA logró el control del aeródromo en menos de una hora tras el primer aterrizaje, neutralizando cualquier posibilidad de reacción británica inmediata en el aire.
 - **Puente aéreo sostenido:** Durante las semanas siguientes, los C‑130 realizaron cientos de misiones, muchas de ellas bajo fuego enemigo cuando la aviación británica comenzó a operar en la zona. Este esfuerzo fue vital para sostener la guarnición argentina.
 - **Adaptación a la guerra:** El TC‑68, el mismo avión que abrió la operación, sería luego modificado para misiones de bombardeo (con lanzamiento de pallets de napalm) y continuaría volando hasta el final del conflicto.
 - **Legado institucional:** La Operación Aries 82 consolidó a la FAA como una fuerza de proyección estratégica. El profesionalismo de sus tripulaciones fue reconocido incluso por fuentes británicas tras la guerra.
 
-### Legado
+## Legado
 
 La Operación Aries 82 es recordada como la primera vez que la Fuerza Aérea Argentina ejecutó un despliegue de combate de gran escala con proyección insular. Marcó el inicio de la Guerra de Malvinas y demostró la capacidad de planificación y ejecución de la FAA en condiciones de secreto y adversidad geográfica. El C‑130H TC‑68, sobreviviente del conflicto, está actualmente preservado como pieza histórica en la I Brigada Aérea (El Palomar), simbolizando el valor de los aviadores argentinos que participaron en la recuperación de las islas.
 

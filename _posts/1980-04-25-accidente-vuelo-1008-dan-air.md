@@ -60,7 +60,7 @@ El Boeing 727-46 era un trimotor a reacción de corto y medio alcance, ampliamen
 
 La cultura de la aviación en 1980 aún no había incorporado plenamente los conceptos de Crew Resource Management (CRM), que se popularizaron después de accidentes como el de Tenerife (1977) y este mismo. La jerarquía en cabina era rígida, y los copilotos a menudo dudaban en corregir abiertamente a los capitanes. En la cabina del vuelo 1008, se escucharon comentarios como "Bloody strange hold, isn't it?" (Un maldito patrón de espera extraño, ¿no?), que reflejaban la perplejidad de la tripulación ante las instrucciones del controlador, pero sin una intervención decisiva.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **09:22 UTC:** El vuelo 1008 despega del aeropuerto de Mánchester con destino a Tenerife Norte.
 - **13:14 UTC (hora local: 14:14):** La tripulación contacta con el Control de Aproximación de Tenerife Norte, informando que se encuentra a FL110 (aproximadamente 11.000 pies) y a 14 millas náuticas del VOR/DME 'TFN'.

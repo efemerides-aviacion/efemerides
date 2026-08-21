@@ -50,7 +50,7 @@ El A-12 incorporó innovaciones revolucionarias que lo adelantaron décadas a su
 
 El desarrollo del A-12 fue uno de los proyectos más secretos de la Guerra Fría, con el nombre en clave "OXCART". Las pruebas se realizaron en Groom Lake, una instalación remota en el desierto de Nevada cuyo nombre real, "Área 51", se hizo famoso décadas después. Las tripulaciones apodaron al avión "Cygnus" (el Cisne), siguiendo la tradición de Lockheed de nombrar sus aeronaves con nombres de cuerpos celestes.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1956:** La CIA inicia la búsqueda de un sucesor del U-2
 - **1959:** Lockheed gana el concurso sobre Convair; la CIA selecciona el diseño "Archangel"

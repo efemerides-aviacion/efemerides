@@ -49,7 +49,7 @@ La práctica del reabastecimiento en vuelo era rutinaria, pero implicaba riesgos
 ### Entorno cultural
 El accidente marcó la memoria colectiva en España y se convirtió en símbolo de los peligros de la Guerra Fría.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - Maniobra de reabastecimiento en vuelo sobre Palomares.  
 - Colisión entre el B‑52G y el KC‑135.  
 - Desintegración de ambos aparatos y caída de restos sobre tierra y mar.  
@@ -57,10 +57,10 @@ El accidente marcó la memoria colectiva en España y se convirtió en símbolo 
 - Dos bombas dispersaron plutonio sobre unos 2 km² de terreno agrícola.  
 - Operaciones de limpieza y recuperación prolongadas durante meses.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El accidente reforzó la necesidad de protocolos más estrictos en operaciones nucleares y generó acuerdos bilaterales sobre seguridad aérea.
 
-### Legado
+## Legado
 Recordado como el “Accidente de Palomares”, se convirtió en uno de los accidentes nucleares más graves de la Guerra Fría, con repercusiones políticas y ambientales duraderas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

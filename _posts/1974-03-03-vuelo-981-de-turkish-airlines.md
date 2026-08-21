@@ -46,16 +46,16 @@ El diseño defectuoso de la puerta de carga del DC-10 permitió que pareciera ce
 ### Entorno cultural
 La tragedia dañó la reputación de Turkish Airlines y del fabricante McDonnell Douglas, generando desconfianza en el modelo DC-10.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1972:** Vuelo 96 de American Airlines sufre el mismo problema, pero logra aterrizar.  
 - **1974, 3 mar:** Vuelo 981 de Turkish Airlines se estrella en Ermenonville, causando 346 muertes.  
 - **1977:** El accidente de Tenerife supera en víctimas al Vuelo 981.  
 - **Posterior:** Demandas judiciales y presión pública obligan a McDonnell Douglas a reforzar el diseño de las puertas de carga.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El accidente aceleró cambios regulatorios en la certificación de aeronaves y dañó la reputación del DC-10, contribuyendo a la eventual absorción de McDonnell Douglas por Boeing.
 
-### Legado
+## Legado
 El Vuelo 981 es recordado como un caso emblemático de cómo fallos de diseño y supervisión pueden derivar en tragedias masivas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

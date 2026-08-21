@@ -43,7 +43,7 @@ La aviación anfibia y de exploración polar se encontraba en pleno desarrollo. 
 ### Entorno cultural
 En el ámbito castrense y aeronáutico argentino existía una fuerte tradición de exploración y sacrificio, heredada de los pioneros de la aviación polar. Las operaciones en la Antártida eran vistas como una prueba de temple y capacidad, y cada misión exitosa reforzaba el prestigio institucional de la Fuerza Aérea.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1951:** La Fuerza Aérea Argentina comienza a estructurar operaciones aéreas sistemáticas de apoyo a la Antártida.
 - **15 de marzo de 1961:** Inauguración de la Base Antártica Teniente Matienzo, que se convertiría en un punto de apoyo crucial para las operaciones aéreas en la zona.
@@ -52,13 +52,13 @@ En el ámbito castrense y aeronáutico argentino existía una fuerte tradición 
 - **15 de marzo de 1965:** El BS-03 realiza el primer y único amaraje y despegue de un Albatross en la Antártida, en una misión de apoyo logístico desde la Base Matienzo. La operación se desarrolla sin incidentes, demostrando la viabilidad de emplear aeronaves anfibias en el entorno polar.
 - **Años posteriores:** La experiencia acumulada con el BS-03 y otras aeronaves contribuye al desarrollo de capacidades que culminarían con la consolidación de la Base Marambio y la operación regular de aviones de mayor porte en la Antártida.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Demostración de capacidad:** La operación demostró que la Fuerza Aérea Argentina podía operar aeronaves anfibias en condiciones polares extremas, ampliando el abanico de opciones logísticas y de rescate en la Antártida.
 - **Aprendizaje operativo:** La misión del BS-03 proporcionó experiencia valiosa sobre el comportamiento de aeronaves anfibias en superficies heladas y aguas antárticas, conocimientos que serían aplicados en operaciones posteriores.
 - **Refuerzo de la presencia argentina:** Cada hito operativo como este contribuía a consolidar la presencia efectiva de Argentina en la Antártida, respaldando sus reclamaciones de soberanía con hechos concretos.
 
-### Legado
+## Legado
 
 El amaraje del BS-03 el 15 de marzo de 1965 permanece como un hito singular en la historia de la aviación antártica argentina. Ningún otro Albatross repetiría esta hazaña en el continente blanco, lo que confiere al hecho un carácter excepcional.
 

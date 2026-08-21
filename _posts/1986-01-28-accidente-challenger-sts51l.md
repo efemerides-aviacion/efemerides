@@ -48,16 +48,16 @@ El transbordador espacial era símbolo de la era de reutilización en vuelos esp
 ### Entorno cultural
 El accidente fue transmitido en vivo y dejó una huella profunda en la memoria colectiva.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - **15/11/1985:** Retrato oficial de la tripulación.  
 - **28/01/1986:** Despegue y desintegración del Challenger a los 73 segundos.  
 - **1986:** Rogers Commission publica informe crítico sobre la NASA.  
 - **1988:** Reanudación del programa shuttle con el Discovery.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El accidente cambió la percepción pública sobre la seguridad de los vuelos espaciales y obligó a reformas en la NASA.
 
-### Legado
+## Legado
 El Challenger es recordado como un símbolo de sacrificio en la exploración espacial. La tripulación fue homenajeada con monumentos, escuelas y programas educativos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">

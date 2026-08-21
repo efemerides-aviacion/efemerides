@@ -54,7 +54,7 @@ La principal innovación estética y funcional fue la ubicación de los motores.
 
 El 737 recibió rápidamente el apodo de «Baby Boeing». Su diseño rechoncho (con un fuselaje casi tan ancho como largo en la versión -100) le valió también el apodo de «Fat Albert» entre los trabajadores de la fábrica. La cultura de producción de Boeing en los años 60 era la de la ingeniería de lápiz y papel, donde la experiencia acumulada en los programas 707 y 727 se volcó en la creación de un avión robusto y fácil de mantener.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **Mayo de 1964:** Boeing comienza los estudios de diseño de un pequeño reactor bimotor para complementar al 707 y 727.
 - **19 de febrero de 1965:** Lufthansa realiza el primer pedido (21 unidades), lo que oficializa el lanzamiento del programa. La aerolínea alemana exige que la capacidad aumente a 100 asientos, alargando el fuselaje respecto al diseño original.
@@ -64,14 +64,14 @@ El 737 recibió rápidamente el apodo de «Baby Boeing». Su diseño rechoncho (
 - **15 de diciembre de 1967:** La FAA otorga el certificado de aeronavegabilidad.
 - **10 de febrero de 1968:** Lufthansa introduce el 737 en servicio comercial regular.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Éxito comercial sin precedentes:** Aunque las ventas iniciales fueron lentas (solo 30 unidades del -100), la llegada de la versión -200 (más larga) y la crisis del petróleo de 1973 demostraron la eficiencia del diseño. Hoy es el avión comercial más producido de la historia.
 - **Dominio del mercado:** Boeing logró arrebatar el liderazgo en aviones de pasillo único a Douglas y McDonnell Douglas.
 - **Estandarización de la configuración 3+3:** El 737 consolidó la disposición de seis asientos por fila como estándar de la industria para corto y medio radio.
 - **Longevidad operativa:** El diseño básico resultó tan sólido que permitió actualizaciones radicales décadas después: las generaciones «Classic» (1980s), «Next Generation» (1990s) y «MAX» (2010s).
 
-### Legado
+## Legado
 
 El primer vuelo del Boeing 737 el 9 de abril de 1967 marcó el nacimiento del «caballo de batalla» de la aviación comercial moderna. Más de 11.000 unidades han sido entregadas a lo largo de más de 55 años de producción continua, con miles más en pedido. El prototipo N73700, restaurado, se exhibe actualmente en el Museo de Vuelo de Seattle como testimonio del proyecto más exitoso de la historia aeronáutica. El 737 no solo transformó a Boeing, sino que democratizó el vuelo, conectando ciudades pequeñas y grandes con una eficiencia y fiabilidad inigualables.
 

@@ -45,7 +45,7 @@ Diseñado con motores traseros y alas bajas, ofrecía eficiencia y facilidad de 
 ### Entorno cultural
 Se convirtió en un símbolo de la aviación comercial de los años 60 y 70, consolidando la posición de Douglas en el mercado de jets de corto alcance.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1963, 8 de abril:** Douglas aprueba internamente el programa DC‑9 para rutas cortas de alta frecuencia.  
 - **1965, 25 feb:** Primer vuelo del prototipo N9DC.  
 - **1965, 23 nov:** Certificación FAA.  
@@ -53,10 +53,10 @@ Se convirtió en un símbolo de la aviación comercial de los años 60 y 70, con
 - **1982:** Fin de la producción del DC‑9, con 976 unidades construidas.  
 - **Décadas posteriores:** Evolución en MD‑80/90 y Boeing 717.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El DC‑9 permitió a las aerolíneas operar rutas cortas con alta frecuencia y fiabilidad. Su diseño influyó en generaciones posteriores de aviones de pasillo único.
 
-### Legado
+## Legado
 Más de 2.400 aeronaves de la familia DC‑9/MD‑80 siguen operando en el mundo. El modelo es recordado como uno de los pilares de la aviación comercial moderna.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

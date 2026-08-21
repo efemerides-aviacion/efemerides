@@ -52,7 +52,7 @@ La campaña de helicópteros fue esencial para la logística británica, dado qu
 ### Entorno cultural
 El Special Air Service (Servicio Aéreo Especial) gozaba ya de una reputación legendaria como la élite de las fuerzas armadas británicas. La pérdida de 18 de sus miembros en un solo incidente fue un golpe devastador para la moral del regimiento y para la percepción pública de la guerra como una campaña de "bajas quirúrgicas". La tragedia, sin embargo, permaneció relativamente oculta durante años, eclipsada por otros eventos del conflicto como el hundimiento del HMS Sheffield o el ARA General Belgrano.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **18 de mayo de 1982:** Llegan al HMS Hermes cuatro Harrier GR3 transferidos desde el Atlantic Conveyor. Debido a la saturación de espacio en el portaaviones, se decide reasignar tres Sea King HC.4 (ZA292, ZA293 y ZA294) al HMS Intrepid, un buque de asalto anfibio. 
 
@@ -70,7 +70,7 @@ El Special Air Service (Servicio Aéreo Especial) gozaba ya de una reputación l
 
 La causa exacta del accidente nunca pudo ser determinada con certeza debido a la falta de recuperación de los restos del helicóptero. La hipótesis más aceptada por historiadores y fuentes oficiales es el impacto de un **albatros de gran tamaño (envergadura de hasta 2,4 metros/8 pies)** contra el rotor principal o la ingesta de uno de los motores.  El testimonio de los supervivientes describe haber oído uno o dos golpes fuertes seguidos de la inmediata pérdida de potencia.  Otras fuentes mencionan la posibilidad de una falla mecánica o un error humano, agravado por la fatiga de la tripulación y las difíciles condiciones nocturnas. 
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Mayor pérdida del SAS desde 1945:** De las 27 personas del SAS a bordo, solo 9 sobrevivieron.  Esta cifra supera cualquier otra baja del regimiento en conflictos posteriores a la Segunda Guerra Mundial.
 
@@ -80,7 +80,7 @@ La causa exacta del accidente nunca pudo ser determinada con certeza debido a la
 
 - **Secuelas psicológicas:** Los testimonios de los supervivientes describen escenas dantescas: hombres luchando entre sí bajo el agua por alcanzar una bolsa de aire, compañeros hundiéndose en la oscuridad y la incapacidad de ayudar a los que se quedaban atrás. 
 
-### Legado
+## Legado
 
 El accidente del Sea King ZA294 permanece como el día más trágico en la historia del Special Air Service (Servicio Aéreo Especial). Un jardín conmemorativo en la iglesia de St. Martin en Hereford (base del SAS) recuerda a los caídos.  Aunque el hecho fue poco difundido en su momento por razones de seguridad operacional, con el paso de los años los supervivientes han compartido sus testimonios, contribuyendo a la memoria histórica del conflicto. El aniversario del accidente se conmemora cada año por la Fleet Air Arm (Arma Aérea de la Flota) y la Asociación de Tripulantes Aéreos.  En 2022, el superviviente Mark Aston publicó el libro *SAS: Sea King*, relatando por primera vez su experiencia. 
 

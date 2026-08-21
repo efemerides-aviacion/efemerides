@@ -45,7 +45,7 @@ Los Rodeos carecía de radar de superficie y sus calles de rodaje eran insuficie
 ### Entorno cultural
 La cultura de cabina de la época daba al capitán una autoridad casi incuestionable. La tripulación de KLM mostraba una jerarquía vertical; el copiloto y el ingeniero de vuelo expresaron dudas, pero no lograron detener la maniobra.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **13:15 (hora local):** Una bomba explota en la terminal del aeropuerto de Gran Canaria (Las Palmas). Se cierran las operaciones y varios vuelos son desviados a Los Rodeos.
 - **13:30–15:00:** Los Boeing 747 de KLM y Pan Am aterrizan en Los Rodeos. El aeropuerto se satura: los aviones se aparcan en plataformas y calles de rodaje, bloqueando la única pista.
@@ -56,14 +56,14 @@ La cultura de cabina de la época daba al capitán una autoridad casi incuestion
 - **17:06:32:** El 747 de KLM, ya en rotación, impacta a 140 km/h contra el lado derecho del Pan Am, que aún rodaba por la pista. El ala izquierda del KLM arranca la sección superior del Pan Am y el fuselaje del holandés cae 150 metros más allá en llamas.
 - **17:06–17:30:** Comienzan los rescates. Sólo sobreviven 61 pasajeros de la sección delantera del Pan Am; todos a bordo del KLM mueren (248 personas).
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Reforma de la comunicación aeronáutica:** Se estandariza la fraseología en inglés. Queda prohibido decir *takeoff* en comunicaciones que no sean una autorización expresa de despegue.
 - **Crew Resource Management (CRM):** Se impulsa la formación que promueve la comunicación asertiva en cabina y la toma de decisiones compartida, para que subordinados puedan corregir al capitán sin temor.
 - **Seguridad en aeropuertos:** Se exige radar de superficie en aeropuertos con operaciones de grandes aeronaves y mejoran las señales de las calles de rodaje.
 - **Investigación y responsabilidades:** La comisión española concluyó que la causa inmediata fue el despegue prematuro del capitán de KLM, aunque señaló factores contribuyentes: la congestión, la niebla y las transmisiones simultáneas que generaron confusión.
 
-### Legado
+## Legado
 
 El desastre de Tenerife se estudia en todas las escuelas de aviación como caso paradigmático de fallo en comunicación, jerarquía y gestión de recursos. Marcó un antes y después en la seguridad operacional. En Los Rodeos (hoy Aeropuerto Tenerife Norte) se instaló radar de superficie y se construyeron nuevas calles de rodaje. Existen memoriales en Tenerife, Ámsterdam y California, y el accidente ha sido documentado en series como *Segundos Catastróficos* (*Seconds from Disaster*). Cada 27 de marzo se recuerda a las 583 víctimas.
 

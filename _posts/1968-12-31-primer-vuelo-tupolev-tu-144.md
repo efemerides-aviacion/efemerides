@@ -42,7 +42,7 @@ Desarrollo paralelo al Concorde, con grandes retos en aerodinámica, materiales 
 ### Entorno cultural
 El Tu‑144 fue presentado como símbolo del poder soviético y orgullo nacional, aunque su carrera comercial fue breve y accidentada.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 1962: Inicio del proyecto supersónico en la URSS.  
 - 31 diciembre 1968: Primer vuelo del Tu‑144.  
 - 1973: Presentación en el Salón Aeronáutico de París.  
@@ -50,10 +50,10 @@ El Tu‑144 fue presentado como símbolo del poder soviético y orgullo nacional
 - 1978: Retiro de vuelos comerciales tras accidentes y problemas técnicos.  
 - 1999: Retiro definitivo, aunque algunos ejemplares se usaron en pruebas con la NASA.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El Tu‑144 demostró la viabilidad técnica de un avión supersónico comercial, pero sus fallos limitaron su éxito. Su legado influyó en investigaciones posteriores sobre transporte supersónico.
 
-### Legado
+## Legado
 Hoy se conservan varios Tu‑144 en museos de Rusia y Alemania. Es recordado como el primer avión supersónico comercial, aunque su carrera fue breve y accidentada.
 .  
 

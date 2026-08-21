@@ -34,18 +34,18 @@ image: 1977-02-18-primer-vuelo-enterprise.webp
 ## Contexto Histórico
 Enterprise fue el primer orbitador construido del sistema Space Shuttle. Carecía de motores principales y escudo térmico completo, por lo que nunca estuvo certificado para vuelo orbital. Su misión fue validar aerodinámica, control y procedimientos de aterrizaje mediante el programa ALT (Approach and Landing Tests).
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **17 de septiembre de 1976:** Presentación pública del Enterprise en Palmdale, California.  
 - **18 de febrero de 1977:** Primer vuelo cautivo inerte sobre el 747 SCA en Edwards AFB.  
 - **1977:** Tres vuelos cautivos tripulados y cinco vuelos libres planeados, demostrando capacidad de vuelo y aterrizaje sin propulsión.  
 - **Décadas posteriores:** Usado en pruebas estructurales e integración en Marshall y Kennedy.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 - Validación del diseño aerodinámico del orbitador.  
 - Certificación de procedimientos de aproximación y aterrizaje.  
 - Base para el desarrollo de los orbitadores operativos Columbia, Challenger, Discovery y Atlantis.  
 
-### Legado
+## Legado
 Enterprise nunca voló al espacio, pero fue esencial para el éxito del programa Shuttle. Actualmente se exhibe en el **Intrepid Sea, Air & Space Museum** de Nueva York como pieza central del Space Shuttle Pavilion.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

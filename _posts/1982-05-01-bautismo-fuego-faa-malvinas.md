@@ -59,7 +59,7 @@ La FAA enfrentaba una asimetría tecnológica significativa. Los Mirage IIIEA y 
 
 Los cascos azules del escudo de la FAA se convirtieron en un emblema del valor argentino. Aquel 1 de mayo de 1982, la Fuerza Aérea forjó su identidad como institución probada en combate. Las consignas "Las Malvinas son argentinas" y "Que retumbe en cada garganta" se popularizaron, y el legado de los 55 caídos de la FAA se convirtió en un símbolo permanente del coraje nacional.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **30 de abril de 1982:** La flota británica se concentra a 400 km al noreste de Puerto Argentino; el vicealmirante Woodward ordena iniciar el ataque
 - **1 de mayo de 1982, 04:40:** El Vulcan XM607 bombardea la BAM Malvinas; mueren los soldados Bordón y García

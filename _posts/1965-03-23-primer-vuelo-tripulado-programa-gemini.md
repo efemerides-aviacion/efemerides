@@ -52,7 +52,7 @@ La nave Gemini era significativamente más avanzada que Mercury: podía transpor
 ### Entorno cultural
 La NASA cultivaba una imagen de precisión científica y heroísmo nacional. Los astronautas eran celebridades de alcance mundial, y cada misión era seguida en vivo por millones de personas. El apodo de la nave, "Molly Brown" (en honor al musical *The Unsinkable Molly Brown*), reflejaba el humor y la confianza de la tripulación, aunque la elección fue cuestionada por la rigurosidad de la NASA.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **18 de marzo de 1965:** Cinco días antes del lanzamiento de Gemini 3, el cosmonauta soviético Alexei Leonov realiza la primera caminata espacial de la historia durante la misión Voskhod 2, aumentando la presión sobre el programa estadounidense.
 - **23 de marzo de 1965, 14:24 UTC:** El cohete Titan II despega desde el Complejo de Lanzamiento 19 en Cabo Cañaveral. Es la primera vez que Estados Unidos lanza una nave espacial con dos tripulantes.
@@ -64,14 +64,14 @@ La NASA cultivaba una imagen de precisión científica y heroísmo nacional. Los
 - **19:17 UTC:** Gemini 3 ameriza en el Océano Atlántico, a 84 km del punto previsto. Un error de cálculo de reentrada provoca un desvío significativo, pero la nave y la tripulación son recuperadas por el portaaviones USS Intrepid en 1 hora y 22 minutos.
 - **Post-misión:** La cápsula es inspeccionada; el diseño del escudo térmico y los sistemas de reentrada se consideran validados. El incidente del sándwich es investigado por el Congreso y la NASA prohíbe formalmente introducir objetos no autorizados en vuelos espaciales.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Validación de Gemini:** La misión demostró la viabilidad de la nave para vuelos de larga duración, maniobras orbitales y reentrada controlada, abriendo el camino para las misiones posteriores (Gemini 4 a 12) que probarían caminatas espaciales, acoplamiento y vuelos de 14 días.
 - **Lecciones de control de calidad:** El desvío en el amerizaje y el incidente del sándwich llevaron a mejoras en los procedimientos de navegación y en la disciplina de la tripulación.
 - **Carrera espacial:** Aunque la caminata espacial de Leonov había opacado el vuelo de Gemini 3 ante la opinión pública, la NASA estaba en el camino correcto para alcanzar la Luna, con tecnologías probadas que los soviéticos aún no dominaban (maniobras orbitales).
 - **Legado de la tripulación:** Grissom (que también había volado en Mercury) comandaría después Gemini 6 y el primer vuelo del Apolo (Apolo 1, donde pereció en el incendio de 1967). Young se convertiría en uno de los astronautas más veteranos, volando en Gemini 10, Apolo 10, Apolo 16 (caminó en la Luna) y el primer vuelo del transbordador espacial.
 
-### Legado
+## Legado
 
 La misión Gemini 3 es recordada por varios hitos:
 

@@ -45,16 +45,16 @@ El 747 introdujo el concepto de fuselaje ancho, con dos pasillos y capacidad par
 ### Entorno cultural
 El avión se convirtió en ícono de la aviación comercial, símbolo de modernidad y globalización.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 21 de enero de 1970: Vuelo inaugural previsto en la tarde/noche, retrasado por sobrecalentamiento de motor en el avión asignado.  
 - Sustitución de aeronave y preparación para el vuelo.  
 - 22 de enero de 1970 (madrugada): Salida efectiva desde JFK hacia Heathrow con el “Clipper Young America”.  
 - Llegada a Londres con éxito, marcando el inicio de la era wide‑body.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El 747 transformó la industria aérea, permitiendo vuelos intercontinentales con gran capacidad y reduciendo costos.
 
-### Legado
+## Legado
 El Boeing 747 es recordado como la “Reina de los Cielos”, protagonista de la aviación comercial durante más de cinco décadas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

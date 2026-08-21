@@ -61,7 +61,7 @@ La Soyuz 11 era una nave Soyuz 7K-OKS, una versión mejorada para acoplarse con 
 
 La imagen del cosmonauta soviético como pionero invencible chocó con la realidad de la Soyuz 11. La tragedia mostró que el espacio seguía siendo un entorno hostil y que la seguridad no podía sacrificarse por la ambición de récords. Años después, los tres cosmonautas fueron recordados con monumentos, sellos postales y la denominación de cráteres lunares, convirtiéndose en un símbolo del sacrificio de los primeros exploradores espaciales.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La misión de la Soyuz 11 se desarrolló a lo largo de casi cuatro semanas, desde el lanzamiento hasta el aterrizaje trágico. La secuencia de eventos muestra tanto el éxito de la estación espacial como el fallo catastrófico en las fases finales del vuelo.
 

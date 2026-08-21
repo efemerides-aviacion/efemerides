@@ -34,16 +34,16 @@ image: 1972-12-22-rescate-andes-vuelo-571.jpg
 ## Contexto Histórico
 El accidente del Vuelo 571 el 13 de octubre de 1972 dejó a 16 jóvenes uruguayos aislados en condiciones extremas. La búsqueda oficial cesó el 21 de octubre. El 12 de diciembre, Parrado, Canessa y Vizintín iniciaron una marcha hacia el oeste; Vizintín regresó por falta de alimentos. El 20 de diciembre, Parrado y Canessa contactaron al arriero Sergio Catalán, quien alertó a las autoridades chilenas.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **20 dic 1972:** Parrado y Canessa llegan a Los Maitenes.  
 - **21 dic 1972:** Parrado guía helicópteros chilenos hasta el fuselaje.  
 - **22 dic 1972:** Se rescatan 12 sobrevivientes en varias salidas.  
 - **23 dic 1972:** Se evacúan los últimos cuatro sobrevivientes y rescatistas.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El rescate demostró los límites operativos de helicópteros en alta montaña y reactivó protocolos SAR andinos. El canibalismo consensuado fue absuelto por autoridades y la Iglesia. El evento generó cobertura global y estudios sobre supervivencia extrema.
 
-### Legado
+## Legado
 El “Milagro de los Andes” es recordado como símbolo de resiliencia y cooperación binacional. El sitio del choque es santuario con misa anual el 22 de diciembre. Inspiró obras como *Society of the Snow* (2023).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

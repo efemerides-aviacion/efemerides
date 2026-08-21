@@ -40,18 +40,18 @@ image: 1962-02-20-john-glenn-primer-astronauta-en-circundar-la-tierra.webp
 ## Contexto Histórico
 La misión MA-6 fue la quinta tripulada del Proyecto Mercury y la primera orbital de EE.UU., en respuesta al éxito soviético con Yuri Gagarin (1961). Glenn se convirtió en héroe nacional y símbolo de la recuperación del prestigio espacial estadounidense.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1958:** Inicio del Proyecto Mercury.  
 - **1961:** Vuelo suborbital de Alan Shepard y Gus Grissom.  
 - **20 feb 1962:** Glenn orbita la Tierra en Friendship 7.  
 - **1998:** Glenn regresa al espacio en STS-95 a bordo del transbordador Discovery.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 - **Político:** Restableció confianza en el programa espacial de EE.UU.  
 - **Tecnológico:** Validó sistemas de control manual y procedimientos de emergencia.  
 - **Cultural:** Glenn se convirtió en figura pública, senador y referente histórico.  
 
-### Legado
+## Legado
 La cápsula Friendship 7 se exhibe en el Smithsonian National Air and Space Museum. La misión es considerada uno de los hitos más importantes de la carrera espacial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">

@@ -43,7 +43,7 @@ En la década de 1960, la aviación mundial estaba consolidando los motores turb
 ### Entorno cultural
 El Ejército del Aire español había mostrado tradicionalmente una fuerte vocación autóctona, impulsando proyectos como el HA-200 Saeta. La apuesta por un transporte táctico STOL de diseño nacional generó un gran interés en los círculos técnicos y militares, y sentó las bases para que CASA se convirtiera en un referente internacional en el segmento de aviones de transporte ligero.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1967:** CASA inicia los estudios preliminares para un avión de transporte táctico ligero, con el apoyo del Ministerio del Aire.
 - **1968-1970:** Se completa la definición técnica del modelo, eligiendo una configuración bimotor turbohélice de ala alta con capacidad STOL. Se construyen dos prototipos.
@@ -54,14 +54,14 @@ El Ejército del Aire español había mostrado tradicionalmente una fuerte vocac
 - **2000-2010:** La producción continúa bajo EADS CASA (posteriormente Airbus Defence and Space). Se entregan más de 580 unidades a clientes militares y civiles en todo el mundo.
 - **2015 en adelante:** Indonesia Aerospace desarrolla el N-219 basado en la licencia del C-212, prolongando el legado del diseño original.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Éxito comercial e industrial:** El C-212 se convirtió en el avión más vendido de CASA, con exportaciones a más de 30 países. Su éxito allanó el camino para desarrollos posteriores como el CN-235 y el C-295.
 - **Capacidad militar española:** El Ejército del Aire, la Armada y el Ejército de Tierra obtuvieron una plataforma polivalente que desempeñó funciones de transporte, búsqueda y rescate, guerra electrónica y apoyo a fuerzas especiales durante décadas.
 - **Referente STOL:** El Aviocar demostró que un avión de diseño nacional podía competir con productos estadounidenses y europeos en el nicho de transporte táctico ligero, gracias a su robustez, bajo costo operativo y excepcionales capacidades para operar desde pistas cortas o sin preparar.
 - **Legado tecnológico:** La filosofía de diseño del C-212 —estructura simple, facilidad de mantenimiento, versatilidad de misiones— influyó en toda la familia de aviones de transporte de Airbus Defence and Space.
 
-### Legado
+## Legado
 
 El primer vuelo de 1971 marcó el inicio de una historia de éxito que trasciende las décadas. Aunque la producción en España cesó en 2012, el C-212 sigue en servicio activo en fuerzas aéreas, armadas y operadores civiles de América Latina, Asia, África y Europa. Su versión de guerra electrónica (Elint/ECM) continúa realizando misiones de inteligencia de señales, mientras que los ejemplares de patrulla marítima protegen las zonas económicas exclusivas de varios países. La transferencia de la licencia a Indonesia para el N-219 asegura que el ADN del Aviocar perdure en nuevas generaciones de aviones STOL.
 

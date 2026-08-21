@@ -35,14 +35,14 @@ image: 1982-02-19-primer-vuelo-boeing-757.webp
 ## Contexto Histórico
 El Boeing 757 fue concebido como reemplazo del 727, ofreciendo mayor capacidad y eficiencia. Su desarrollo paralelo con el 767 permitió compartir sistemas y entrenamiento. El prototipo N757A fue clave en la validación de la nueva generación de birreactores de pasillo único.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1978:** Inicio del programa 757.  
 - **1982:** Primer vuelo del prototipo N757A.  
 - **1983:** Entrada en servicio con Eastern Air Lines.  
 - **1980s–2000s:** Producción de 1,050 unidades para 55 operadores.  
 - **Operaciones destacadas:** Rutas transatlánticas ETOPS, vuelos de medio y largo alcance.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 - **Eficiencia:** Reducción de consumo de combustible en ~20% frente al 727.  
 - **Versatilidad:** Capacidad para operar en aeropuertos con pistas cortas y rutas largas.  
 - **Legado:** Considerado uno de los aviones más exitosos de Boeing en su categoría.  

@@ -54,7 +54,7 @@ El Cessna O-1 Bird Dog era un pequeño avión de observación monomotor, diseña
 
 La imagen del apontaje del Bird Dog se convirtió en un símbolo de la desesperación y el coraje humano en el fin de la guerra . El capitán Chambers, al priorizar la vida humana sobre el equipo militar, arriesgó su carrera . Su decisión fue ampliamente reconocida años después como un ejemplo de liderazgo humanitario.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **23 de abril de 1975:** El USS Midway llega a la zona de operaciones frente a la costa de Vietnam del Sur .
 - **29 de abril de 1975, 15:00 horas:** Comienza oficialmente la Operación Frequent Wind .

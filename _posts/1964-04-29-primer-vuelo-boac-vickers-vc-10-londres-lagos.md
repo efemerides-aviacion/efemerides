@@ -53,7 +53,7 @@ El VC10 era un avión avanzado para su época. Incorporaba un sistema de control
 
 El VC10 fue recibido con entusiasmo en el Reino Unido como un símbolo de la ingeniería británica. Su elegante diseño, con la cola alta y las alas en flecha, lo hacían inconfundible. Aunque comercialmente no fue un éxito (solo se construyeron 54 unidades), el VC10 ganó una base de seguidores leales entre pasajeros y tripulaciones, que apreciaban su fiabilidad y confort .
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1956:** BOAC comienza a estudiar los requisitos para un nuevo avión para rutas africanas 
 - **Enero de 1958:** BOAC firma un contrato por 35 VC10 [información proporcionada]

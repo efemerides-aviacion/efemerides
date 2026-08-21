@@ -44,7 +44,7 @@ El uso del Canadair CL-44 con puerta trasera abatible permitió transportar merc
 ### Entorno cultural
 Cargolux se convirtió en símbolo de modernidad y eficiencia, reforzando la imagen de Luxemburgo como hub internacional.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1970:** Fundación de Cargolux.  
 - **1970, mayo:** Primer vuelo comercial a Hong Kong.  
 - **1973:** Expansión de flota con cinco CL-44 y un DC-8.  
@@ -53,10 +53,10 @@ Cargolux se convirtió en símbolo de modernidad y eficiencia, reforzando la ima
 - **2011:** Cliente de lanzamiento del Boeing 747-8F.  
 - **2020:** Celebración de su 50 aniversario, destacada como séptima aerolínea mundial por FTK.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 Cargolux redefinió el transporte aéreo de carga en Europa, consolidando un modelo de negocio especializado y altamente competitivo.
 
-### Legado
+## Legado
 Hoy en día, Cargolux es referente mundial en transporte de mercancías especiales y de gran tamaño, operando exclusivamente con Boeing 747.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

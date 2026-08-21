@@ -24,7 +24,7 @@ image: 1974-01-03-record-guinness-supervivencia-aerea.webp
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
 
-## Datos biográficos y eventos
+## Datos verificados del evento
 - **Fecha de nacimiento:** 3 de enero de 1950  
 - **Lugar de nacimiento:** Belgrado, Yugoslavia  
 - **Logros destacados:** Superviviente única del vuelo JAT 367; récord Guinness por la caída libre más alta sin paracaídas (10.160 m / 33.330 pies)  
@@ -45,19 +45,19 @@ La aviación comercial experimentaba un crecimiento acelerado, pero aún carecí
 ### Entorno cultural
 La supervivencia de Vesna fue interpretada como un “milagro” y recibió gran cobertura mediática, convirtiéndose en un símbolo de esperanza.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - **26/01/1972:** Explosión en vuelo del JAT 367 sobre Checoslovaquia.  
 - **26/01/1972:** Vesna es hallada con graves lesiones, pero con vida.  
 - **1972–1973:** Recuperación prolongada en hospitales yugoslavos.  
 - **3/01/1974:** Reconocimiento oficial y registro en Guinness World Records.  
 - **Décadas posteriores:** Figura pública en Serbia, defensora de causas sociales.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 - Refuerzo de controles de seguridad aérea en Europa.  
 - Caso emblemático en estudios médicos sobre supervivencia extrema.  
 - Inspiración cultural y mediática en documentales y efemérides.
 
-### Legado
+## Legado
 Vesna Vulović es recordada como la mujer que desafió lo imposible en la historia de la aviación. Su nombre permanece en los registros Guinness y en la memoria colectiva como símbolo de resiliencia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">

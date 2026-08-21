@@ -42,7 +42,7 @@ Las alas delta de la época evolucionaban rápidamente, con diseños más seguro
 ### Entorno cultural
 En Chile, el aladeltismo comenzaba a tener cierto reconocimiento público gracias a figuras como Basilio Impellizzeri, que combinaba su faceta de piloto con la de divulgador a través de sus escritos en revistas especializadas.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **12 de febrero de 1935:** Nace Basilio Moisés Impellizzeri Nicito en El Bermejo, Guaymallén, provincia de Mendoza, Argentina.
 - **1978:** Impellizzeri se radica en Chile, país donde más tarde obtendría la nacionalidad chilena.
@@ -53,7 +53,7 @@ En Chile, el aladeltismo comenzaba a tener cierto reconocimiento público gracia
 - **31 de diciembre de 1994:** Logra otro de sus desafíos personales: comenzar un año volando, objetivo que consigue tras cuatro intentos previos.
 - **Alrededor de 2010:** Redacta su blog personal "Aladeltismo Chileno", donde a los 75 años expresa el deseo de publicar sus memorias y relatos. Tras esa fecha, no se han encontrado registros públicos que permitan confirmar su estado vital.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La hazaña de Impellizzeri tuvo un impacto significativo en el aladeltismo sudamericano:
 
@@ -61,7 +61,7 @@ La hazaña de Impellizzeri tuvo un impacto significativo en el aladeltismo sudam
 - **Visibilidad mediática:** El récord de permanencia y el cruce internacional atrajeron la atención sobre un deporte que hasta entonces tenía escasa cobertura en los medios de comunicación tradicionales.
 - **Legado escrito:** A través de sus colaboraciones en revistas aeronáuticas y su libro, Impellizzeri documentó gran parte de la historia del aladeltismo chileno, convirtiéndose en una fuente primaria invaluable para futuras generaciones .
 
-### Legado
+## Legado
 
 Basilio Impellizzeri Nicito ocupa un lugar destacado en la historia de la aviación deportiva sudamericana:
 

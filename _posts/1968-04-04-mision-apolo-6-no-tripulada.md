@@ -51,7 +51,7 @@ El Saturn V seguía siendo el cohete más potente jamás construido: 110 m de 
 ### Entorno cultural
 La NASA proyectaba una imagen de precisión técnica, pero internamente se vivía una presión extrema. Los técnicos sabían que cualquier fallo en Apolo 6 podría retrasar años el programa. La misión se convirtió en un ejemplo de “fallo exitoso” —una lección que la cultura ingenieril estadounidense supo transformar en correcciones antes de los vuelos tripulados.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **Septiembre de 1967:** Llegada del módulo de comando y servicio (CSM-020) al Centro Espacial Kennedy para integración.
 - **6 de febrero de 1968:** *Rollout* del Saturn V (AS-502) desde el Edificio de Ensamblaje de Vehículos (VAB) hasta la plataforma 39A, bajo condiciones de lluvia.

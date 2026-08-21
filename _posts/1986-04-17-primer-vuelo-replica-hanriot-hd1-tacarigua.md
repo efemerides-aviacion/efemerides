@@ -56,7 +56,7 @@ La Escuela Técnica de la FAV contaba con talleres especializados en la reparaci
 
 El proyecto “Hanriot HD-1-ET” fue presentado como un hito de la ingeniería venezolana. La réplica fue bautizada “Tacarigua” en honor a los pueblos indígenas de los Valles de Aragua, uniendo la historia precolombina con la tecnología aeronáutica. El avión se convirtió en un símbolo del orgullo nacional y de la capacidad de la FAV para emprender proyectos complejos.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1916:** Diseño original del Hanriot HD.1 en Francia.
 - **1920:** El as italiano Cosme Rennella opera un Hanriot HD.1 en Venezuela (relación histórica).

@@ -44,7 +44,7 @@ La base inició operaciones con bombarderos B-25 Mitchell y posteriormente evolu
 ### Entorno cultural
 La fundación de Balanda consolidó a Barquisimeto como un centro estratégico de la aviación militar venezolana, con participación en aniversarios de la Aviación Militar Bolivariana y programas de modernización como el “Grifo” en 1991.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 10 de diciembre de 1963: Resolución N.º A-184 crea la base.  
 - 14 de febrero de 1964: inauguración oficial en Barquisimeto.  
 - 1971: llegada del Grupo Aéreo Caza N.º 12 con F-86F/K.  
@@ -53,10 +53,10 @@ La fundación de Balanda consolidó a Barquisimeto como un centro estratégico d
 - 1997: sede de la Zona Aérea II.  
 - Actualidad: operación de VF-5A/D, K-8W Karakorum y Queen Air.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 La base fortaleció la capacidad operativa de la Fuerza Aérea Venezolana en la región centro-occidental y se convirtió en un eje de formación, despliegue y modernización.
 
-### Legado
+## Legado
 Hoy la Base Aérea Teniente Vicente Landaeta Gil es un símbolo de la aviación militar venezolana y un homenaje permanente al pionero que lleva su nombre.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

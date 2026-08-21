@@ -44,16 +44,16 @@ El Northrop T‑38A Talon era un entrenador supersónico utilizado por los Thund
 ### Entorno cultural
 La pérdida de toda la formación diamante en un solo evento se convirtió en un símbolo de disciplina y riesgo inherente a las exhibiciones acrobáticas.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - Formación diamante inicia un bucle en baja altura.  
 - Fallo mecánico en el estabilizador del avión líder.  
 - Los tres aviones restantes siguen la trayectoria del líder.  
 - Impacto simultáneo contra el terreno en Indian Springs.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El accidente llevó a la suspensión temporal de las actividades de los Thunderbirds y a la revisión de procedimientos de seguridad y mantenimiento.
 
-### Legado
+## Legado
 Los Thunderbirds regresaron a las exhibiciones en 1983, ya con aviones F‑16 Fighting Falcon, consolidando su prestigio internacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

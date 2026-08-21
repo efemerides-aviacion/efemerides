@@ -36,18 +36,18 @@ image: 1965-12-08-primer-vuelo-bocono-1.webp
 ## Contexto Histórico
 En los años 60, la aviación venezolana dependía de aeronaves extranjeras. La iniciativa de Zambrano demostró que era posible construir un avión con recursos locales, abriendo camino a la aviación experimental en el país.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1959–1965:** Construcción del Boconó I en un taller improvisado en Boconó.  
 - **Pruebas iniciales:** Rodajes en pista improvisada y rotura de hélice.  
 - **8 de diciembre de 1965:** Primer vuelo en Valera, breve pero exitoso.  
 - **1966:** Donación del avión al Museo Aeronáutico de Maracay.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 - **Reconocimiento:** Agradecimiento institucional por su aporte a la aviación nacional.  
 - **Patrimonio:** Exhibición permanente en el Museo Aeronáutico de Maracay.  
 - **Influencia:** Precedente para la aviación experimental venezolana.  
 
-### Legado
+## Legado
 El Boconó I es considerado el primer avión diseñado y construido en Venezuela por un particular. Su preservación en el Museo Aeronáutico lo convierte en símbolo de inventiva y pasión por la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

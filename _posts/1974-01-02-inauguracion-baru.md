@@ -41,7 +41,7 @@ image: 1974-01-02-inauguracion-baru.webp
 
 ## Cuerpo principal – Secciones temáticas
 
-### Contexto histórico
+## Contexto Histórico
 
 Durante la década de 1970, Venezuela impulsó la modernización de infraestructura militar y aeronáutica, en sintonía con la profesionalización de sus fuerzas armadas. La elección de **Maracaibo** ofrecía ventajas estratégicas por su posición geográfica, accesos al **Lago de Maracaibo** y cercanía a rutas del Caribe, permitiendo vigilancia y respuesta rápida en el occidente del país. 
 
@@ -51,7 +51,7 @@ Durante la década de 1970, Venezuela impulsó la modernización de infraestruct
 - **2 de enero de 1974:** inauguración oficial y activación de capacidades operacionales básicas (comunicaciones, meteorología, seguridad).  
 - **1974–1980:** integración progresiva de unidades aéreas y de mantenimiento; consolidación del mando regional. 
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 
 La base fortaleció la **defensa aérea** en el occidente del país, mejoró tiempos de respuesta y coordinación interinstitucional, y se convirtió en un polo de **formación técnica y logística** para personal aeronáutico. Como símbolo, enlazó la identidad zuliana y la memoria independentista con la proyección moderna de la aviación militar. 
 

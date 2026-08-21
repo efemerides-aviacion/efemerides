@@ -47,7 +47,7 @@ El Mirage III, aunque excelente, era complejo y costoso. Su radar y el equipamie
 ### Entorno cultural
 La relación franco-israelí era especialmente estrecha en el ámbito de la defensa. Francia había sido el principal proveedor de armas de Israel desde mediados de la década de 1950, suministrando aviones como el Dassault Mystère IV, el Ouragan y el propio Mirage III. Esta colaboración técnica y estratégica permitió un diálogo fluido entre los ingenieros de Dassault y los pilotos y estrategas de la IAF, sentando las bases para un desarrollo conjunto de un nuevo avión adaptado a las necesidades operativas reales.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1966:** La Fuerza Aérea de Israel emite un requerimiento a Dassault para una versión de ataque a tierra del Mirage IIIE, simplificada y de bajo coste para condiciones de vuelo visual diurno. Se elimina el radar y gran parte de la aviónica compleja para aumentar la capacidad de combustible interna y los puntos de anclaje para armamento.
 - **Septiembre de 1966:** Israel realiza un pedido formal de 50 unidades del nuevo avión, denominado Mirage V.
@@ -56,14 +56,14 @@ La relación franco-israelí era especialmente estrecha en el ámbito de la defe
 - **1967-1970:** Ante la imposibilidad de entregar los aviones a Israel y para amortizar la producción, la Fuerza Aérea Francesa (Armée de l'Air) se ve forzada a aceptar los aviones, designándolos internamente como Mirage 5F. Israel, privado del caza, inicia un programa clandestino y tecnológicamente muy complejo para copiar el Mirage V, dando lugar al IAI Nesher ("Buitre").
 - **Décadas de 1970 y 1980:** A pesar de las turbulencias iniciales, el Mirage V se convierte en un éxito de ventas para Dassault. Demostrando su eficacia en múltiples conflictos y bajo diversas banderas, fue exportado a 11 países, incluyendo Bélgica, Pakistán, Perú, Colombia, Venezuela, Libia, Egipto, Gabón, Zaire (República Democrática del Congo) y los Emiratos Árabes Unidos.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Éxito de exportación:** El Mirage V se convirtió en un pilar de la industria aeronáutica francesa, con un total de 532 unidades ensambladas por Dassault, además de las producidas bajo licencia por otras naciones como Suiza (como Mirage IIIRS) y Bélgica.
 - **Nacimiento de la industria aeroespacial israelí:** El embargo forzó a Israel a desarrollar su propia capacidad para fabricar, mantener y modificar aviones de combate de alto rendimiento. El proyecto para copiar el Mirage V, conocido como "Proyecto Tigre", resultó en el IAI Nesher, que a su vez evolucionó en el más avanzado IAI Kfir. Este fue el origen de la actual y potente industria aeroespacial israelí (IAI).
 - **Legado en el diseño de aviones de ataque:** El concepto del Mirage V demostró que la simplificación radical para una misión concreta podía dar lugar a un avión muy efectivo y rentable. Sentó un precedente para otros cazas de ataque dedicados que surgirían en décadas posteriores.
 - **Versatilidad y longevidad:** Aunque el diseño original carecía de radar, las versiones posteriores (como el Mirage 50 de 1979) incorporaron motores mejorados y opciones de aviónica modular (incluyendo radares ligeros como el Agave o el Aída II) que le permitieron asumir misiones de ataque naval y reconocimiento, prolongando su vida operativa hasta bien entrado el siglo XXI.
 
-### Legado
+## Legado
 
 El primer vuelo del Mirage V el 19 de mayo de 1967 es más que un simple hito en la cronología de Dassault. Marcó el inicio de una nueva filosofía en el diseño de aeronaves militares: la de optimizar una célula probada para una misión principal de ataque terrestre, sacrificando la complejidad polivalente en aras de la simplicidad, el alcance y la carga de combate. Su historia está indisolublemente ligada a la geopolítica de Oriente Medio, y el embargo que sufrió dio origen, paradójicamente, a la industria aeronáutica independiente de Israel. Con más de 50 años de servicio en múltiples fuerzas aéreas, el Mirage V es testimonio de la robustez y el acierto del diseño original de Dassault, consolidándose como un clásico de la aviación militar de la segunda mitad del siglo XX.
 

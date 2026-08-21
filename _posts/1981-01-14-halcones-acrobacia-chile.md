@@ -41,15 +41,15 @@ Se incorporaron aeronaves Pitts S-2A/S-2S, diseñadas para acrobacia de alto niv
 ### Entorno cultural
 Los Halcones se transformaron en embajadores de Chile, participando en exhibiciones internacionales y campeonatos mundiales.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 1958–1967: Operación de los Cóndores de Plata con Lockheed P-80 Shooting Star.  
 - 1981: Creación oficial de los Halcones mediante Decreto Supremo N°58.  
 - Décadas posteriores: Renovación de aeronaves y participación en eventos internacionales.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 Los Halcones consolidaron la imagen de la FACh como institución moderna y cercana, proyectando la aviación chilena al mundo.
 
-### Legado
+## Legado
 Hoy son reconocidos como campeones mundiales de acrobacia aérea y embajadores del aire de Chile.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

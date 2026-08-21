@@ -42,17 +42,17 @@ El diseño tri-reactor, la cola en “T” y las mejoras en flaps y sistemas de 
 El rollout simbolizó el avance tecnológico estadounidense y la ambición de Boeing por liderar el segmento de media capacidad, ampliando el alcance del transporte aéreo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 1959: Inicio del programa de diseño del 727.  
 - 1962: Ensamblaje del prototipo N7001U en Renton.  
 - 27 de noviembre de 1962: Rollout oficial ante clientes y prensa.  
 - Febrero de 1963: Primer vuelo del prototipo.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El 727 se convirtió en uno de los modelos más vendidos de Boeing, habilitando operaciones en aeropuertos secundarios y transformando redes domésticas e internacionales. Su éxito comercial influenció el diseño y la planificación de rutas en múltiples aerolíneas.
 
-### Legado
+## Legado
 El prototipo N7001U se conserva en el Museum of Flight (Seattle), como pieza emblemática del impacto del 727 en la aviación comercial y su papel en la expansión del mercado a reacción.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

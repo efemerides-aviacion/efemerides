@@ -49,7 +49,7 @@ El VJ 101 presentaba una configuración audaz: seis motores turborreactores Roll
 ### Entorno cultural
 La carrera por el primer caza VTOL operativo involucraba a varios países: Reino Unido (Hawker Siddeley Harrier), Francia (Dassault Mirage IIIV) y Estados Unidos (Ryan X-13 Vertijet, Lockheed XV-4 Hummingbird). El VJ 101 representaba la apuesta alemana en esta competición internacional no declarada.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1958:** El Ministerio Federal de Defensa alemán lanza la especificación para un caza VTOL supersónico.
 - **1960:** Se constituye formalmente el consorcio EWR, integrado por Heinkel, Messerschmitt y Bölkow.
@@ -62,14 +62,14 @@ La carrera por el primer caza VTOL operativo involucraba a varios países: Reino
 - **1968:** El programa VJ 101 se cancela. La Luftwaffe decide continuar con el F-104G y posteriormente adoptar el Panavia Tornado (avión convencional). El alto coste y la complejidad técnica del VTOL, junto con un cambio en la doctrina militar, determinan el final del proyecto.
 - **1971:** El prototipo X-2 se traslada al Deutsches Museum de Múnich, donde permanece expuesto en la actualidad.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Legado tecnológico:** Los conocimientos adquiridos en el VJ 101 influyeron en programas posteriores de VTOL en Europa, incluido el desarrollo del motor turbofán con toberas vectoriales del Harrier y, décadas después, del F-35B Lightning II.
 - **Fin de la aviación de combate alemana independiente:** Tras la cancelación, Alemania Occidental abandonó los intentos de desarrollar un caza nacional de forma independiente y se integró en consorcios europeos como Panavia (Tornado) y Eurofighter (Typhoon).
 - **Récord histórico:** El VJ 101 sigue siendo el único avión VTOL de origen europeo (excluyendo el Harrier, que es británico) que ha superado la barrera del sonido en vuelo nivelado.
 - **Exhibición museística:** El VJ 101C X-2 es una pieza destacada del Deutsches Museum Flugwerft Schleissheim, atestiguando la ambición tecnológica alemana de los años 60.
 
-### Legado
+## Legado
 
 El EWR VJ 101 fue un prodigio de ingeniería que demostró que un avión de despegue vertical podía alcanzar velocidades supersónicas. Aunque nunca entró en producción, su recuerdo perdura entre los entusiastas de la aviación como un ejemplo de audacia técnica en la era de la Guerra Fría. Su diseño de seis motores y toberas basculantes era demasiado complejo para la fiabilidad operativa exigida por una fuerza aérea moderna, pero las lecciones aprendidas sobre aerodinámica, sistemas de control y transición entre regímenes de vuelo resultaron invaluables. El VJ 101 sigue siendo un motivo de orgullo en la historia aeronáutica alemana.
 

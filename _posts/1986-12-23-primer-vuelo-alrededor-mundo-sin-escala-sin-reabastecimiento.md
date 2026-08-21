@@ -45,16 +45,16 @@ El Voyager pesaba apenas 426 kg vacío, pero cargaba más de 3.180 kg de combust
 ### Entorno cultural
 El vuelo fue considerado el “último gran hito de la aviación” y reforzó la reputación de Burt Rutan como innovador.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1981:** Idea del Voyager concebida por Burt Rutan.  
 - **1986, 14 dic:** Despegue desde Edwards.  
 - **1986, 23 dic:** Aterrizaje en Edwards tras circunnavegación sin reabastecimiento.  
 - **1987:** Exhibición permanente en el Museo Nacional del Aire y el Espacio.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El vuelo demostró los límites de la ingeniería ligera y la resistencia humana, consolidando la aviación experimental como campo de innovación.
 
-### Legado
+## Legado
 El Voyager se exhibe en el Smithsonian y sigue siendo referencia en récords de aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

@@ -44,16 +44,16 @@ El Avro Avian IV era un avión ligero de madera y tela, con motor de baja potenc
 ### Entorno cultural
 Lancaster y Chubbie Miller fueron figuras mediáticas, reflejo de la época dorada de los vuelos de aventura.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 12 de abril de 1933: Lancaster despega rumbo a Ciudad del Cabo.  
 - 20 de abril de 1933: muere en el desierto tras ocho días de supervivencia.  
 - 12 de febrero de 1962: patrulla francesa encuentra el cuerpo y el avión.  
 - 1975: los restos del avión son recuperados y trasladados al Queensland Museum, Brisbane.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El hallazgo en 1962 cerró uno de los misterios más notorios de la aviación temprana. El diario de Lancaster se convirtió en testimonio histórico de resistencia y esperanza.
 
-### Legado
+## Legado
 Hoy se recuerda a Bill Lancaster como símbolo de los riesgos de la aviación pionera y de la pasión por los récords de distancia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

@@ -45,7 +45,7 @@ El MiG-25 fue diseñado para soportar temperaturas extremas a Mach 3, sacrifican
 ### Entorno cultural
 Su aparición generó temor en Occidente, que lo consideró inicialmente un “súper caza” invencible.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1959–1963:** Desarrollo del proyecto Ye-155.  
 - **1964, 6 mar:** Primer vuelo del prototipo Ye-155R-1.  
 - **1964, 9 sep:** Primer vuelo del prototipo interceptor Ye-155P-1.  
@@ -53,10 +53,10 @@ Su aparición generó temor en Occidente, que lo consideró inicialmente un “s
 - **1976:** Deserción de Viktor Belenko a Japón con un MiG-25.  
 - **1977:** Récord absoluto de altitud: 37,650 m.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El MiG-25 impulsó el desarrollo del F-15 Eagle en Estados Unidos y redefinió la percepción de la aviación soviética.
 
-### Legado
+## Legado
 Operó en fuerzas aéreas de Argelia, Siria, Irak e India, además de la URSS. Aunque la mayoría han sido retirados, su diseño dio origen al MiG-31 Foxhound.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

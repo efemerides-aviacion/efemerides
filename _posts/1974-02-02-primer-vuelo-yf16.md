@@ -22,7 +22,7 @@ image: 1974-02-02-primer-vuelo-yf16.webp
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha:** 2 de febrero de 1974  
 - **Lugar:** Edwards Air Force Base, California  
 - **Aeronave:** Prototipo YF-16 (72-1567)  
@@ -50,7 +50,7 @@ El YF-16 compitió contra el Northrop YF-17 en el programa Lightweight Fighter d
 - Aerodinámica avanzada con alerones dobles.  
 - Capacidad de superar Mach 2 y +9g en pruebas iniciales.  
 
-### Legado
+## Legado
 El F-16 se convirtió en el caza más producido del mundo en servicio activo, con más de 4.600 unidades fabricadas y exportadas a más de 25 países. Su vigencia se extiende con actualizaciones hasta bien entrado el siglo XXI.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

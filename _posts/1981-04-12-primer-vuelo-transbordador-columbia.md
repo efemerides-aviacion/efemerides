@@ -52,7 +52,7 @@ El Columbia era el primer orbitador construido de la flota Shuttle, con ensambla
 ### Entorno cultural
 El vuelo STS-1 fue considerado de alto riesgo. El comandante John Young, veterano de los programas Gemini (Gemini 3 y 10) y Apolo (Apolo 10 y 16, donde caminó sobre la Luna), describió el vuelo como "más peligroso que un alunizaje". Nunca antes se había probado un vehículo orbital completamente nuevo con tripulación a bordo en su primer vuelo. El piloto Robert Crippen, aunque sin experiencia previa en vuelos espaciales, era un experimentado piloto de pruebas de la Armada y había trabajado en el desarrollo del Shuttle desde sus inicios.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1972, 5 de enero:** El presidente Nixon anuncia oficialmente el programa del Transbordador Espacial.
 - **1975, 15-24 de julio:** Misión Apolo-Soyuz, el último vuelo espacial tripulado estadounidense antes del Shuttle.
@@ -75,14 +75,14 @@ La misión STS-1 fue un vuelo de prueba exhaustivo con objetivos específicos:
 
 El éxito fue tal que la NASA declaró el vuelo como "101% exitoso", y el Columbia fue certificado para misiones operativas a partir de la STS-5 (noviembre de 1982).
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Nueva era espacial:** STS-1 demostró la viabilidad de las naves espaciales reutilizables, reduciendo potencialmente los costos de acceso al espacio (aunque los costos reales del Shuttle resultaron más altos de lo previsto).
 - **Capacidad única:** El Shuttle podía transportar hasta 24,5 toneladas a órbita baja y traer de vuelta hasta 19,5 toneladas, algo imposible para cohetes desechables.
 - **Servicio orbital:** El éxito del Columbia permitió misiones emblemáticas posteriores como el despliegue del Telescopio Espacial Hubble (STS-31, 1990), el servicio a este telescopio (STS-61, 1993), la construcción de la Estación Espacial Internacional (a partir de 1998) y el vuelo de la primera astronauta estadounidense Sally Ride (STS-7, 1983).
 - **Legado del Columbia:** El Columbia realizó 28 misiones entre 1981 y 2003, incluyendo vuelos de prueba (STS-1 a STS-4), misiones de despliegue de satélites, la primera misión del Spacelab (STS-9, 1983) y el servicio al Hubble. Fue el orbitador más pesado de la flota y el único que conservó el tanque externo pintado de blanco en su primer vuelo (después se pintó de naranja para ahorrar peso).
 
-### Legado
+## Legado
 
 El Columbia se perdió trágicamente el 1 de febrero de 2003 durante la reentrada de la misión STS-107, desintegrándose sobre Texas con sus siete tripulantes. A pesar de este desenlace, su legado como pionero de las naves reutilizables permanece intacto. El éxito del STS-1 demostró que Estados Unidos había recuperado su capacidad de vuelo espacial tripulado después de seis años de pausa, y abrió el camino a tres décadas de operaciones del transbordador (1981-2011). Los astronautas John Young (fallecido en 2018) y Robert Crippen (fallecido en 2024) pasaron a la historia como los primeros en pilotar el vehículo más complejo jamás construido. El Columbia, aunque destruido, sigue siendo un símbolo del ingenio humano y del espíritu de exploración.
 

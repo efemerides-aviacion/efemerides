@@ -23,7 +23,7 @@ image: 1966-02-03-primer-alunizaje-luna9.webp
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha de lanzamiento:** 31 de enero de 1966, 11:41 UTC  
 - **Cohete lanzador:** Molniya-M desde Baikonur  
 - **Designación COSPAR:** 1966-006A  

@@ -22,7 +22,7 @@ image: 1973-01-29-emily-howell-primera-mujer-contratada-linea-aerea.webp
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha:** 29 de enero de 1973  
 - **Lugar:** Estados Unidos  
 - **Evento:** Frontier Airlines contrata a Emily Howell Warner como piloto permanente.  
@@ -44,7 +44,7 @@ Voló aeronaves como el Convair 580, Twin Otter y Boeing 737, reflejando la tran
 ### Entorno cultural
 Su carrera abrió puertas a futuras generaciones de mujeres en la aviación, rompiendo el “techo de cristal” en un sector dominado por hombres.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - **1939:** Nace Emily Joyce Hanrahan en Denver, Colorado.  
 - **1960s:** Obtiene licencias de vuelo y trabaja como instructora.  
 - **29/01/1973:** Contratada por Frontier Airlines como piloto permanente.  
@@ -52,10 +52,10 @@ Su carrera abrió puertas a futuras generaciones de mujeres en la aviación, rom
 - **1986:** Primera tripulación totalmente femenina bajo su mando.  
 - **2020:** Fallece el 3 de julio en Colorado, dejando un legado histórico.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 Su contratación marcó un antes y un después en la aviación comercial, inspirando a mujeres en todo el mundo.
 
-### Legado
+## Legado
 Recordada como pionera y símbolo de igualdad en la aviación. Su uniforme y objetos personales forman parte de exhibiciones en el Smithsonian Air & Space Museum.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
