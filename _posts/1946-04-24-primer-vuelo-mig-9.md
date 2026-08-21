@@ -60,7 +60,7 @@ A diferencia de los cazas occidentales, que utilizaban motores de flujo centríf
 
 La rivalidad entre las oficinas de diseño soviéticas (OKB) era intensa. Mikoyan-Gurevich (MiG) y Yakovlev (Yak) competían por el favor de Stalin y del gobierno. Ambos presentaron sus prototipos de cazas a reacción casi simultáneamente. Los dos prototipos competidores fueron trasladados al campo de pruebas de vuelo de Chkalovskaya en la primavera de 1946, donde ya esperaba el Yak-15. Según la tradición, se lanzó una moneda al aire para decidir qué avión volaría primero. El MiG ganó, y dos horas después voló el Yak.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **Febrero de 1945:** Stalin ordena en el Kremlin el desarrollo de cazas a reacción con motores alemanes capturados.
 - **Marzo - diciembre de 1945:** Diseño y construcción del prototipo I-300 en la oficina de Mikoyan-Gurevich.

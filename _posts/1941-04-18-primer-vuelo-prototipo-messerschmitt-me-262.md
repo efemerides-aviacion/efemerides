@@ -54,7 +54,7 @@ Los primeros turborreactores enfrentaban enormes problemas: materiales inadecuad
 
 El piloto de pruebas Fritz Wendel era una figura respetada en la industria aeronáutica alemana. Había establecido un récord mundial de velocidad en 1939 con un Messerschmitt Me 209 (755 km/h). Su habilidad y experiencia serían cruciales para domar una aeronave revolucionaria que, incluso en su configuración provisional, presentaba características inéditas.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **Abril de 1939:** Comienza el diseño del proyecto P.1065, futuro Me 262.
 - **Octubre de 1939:** Se solicitan los primeros tres prototipos.

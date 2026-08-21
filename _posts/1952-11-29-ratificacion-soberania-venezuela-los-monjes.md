@@ -36,16 +36,16 @@ La Fuerza Aérea Venezolana se encontraba en pleno proceso de transición a la e
 ### Entorno cultural
 La soberanía sobre "Los Monjes" se convirtió en un símbolo de la integridad territorial, reforzado por la narrativa oficial de protección de los recursos marítimos.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 1. **Incidentes iniciales:** Avistamientos de fragatas colombianas y embarcaciones menores en las cercanías del archipiélago.
 2. **Despliegue:** La FAV intensifica sobrevuelos de reconocimiento sobre el área de Los Monjes del Sur, del Norte y del Este.
 3. **Nota Diplomática:** El canciller de Colombia, Juan Uribe Holguín, entrega el documento que reconoce la soberanía venezolana.
 4. **Ocupación formal:** Venezuela establece un puesto de vigilancia y un faro para control de navegación.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 Este reconocimiento evitó un conflicto armado y definió las líneas de base para la delimitación de áreas marinas y submarinas en el Golfo de Venezuela, un área de alta importancia petrolera.
 
-### Legado
+## Legado
 Hoy en día, el Archipiélago Los Monjes cuenta con presencia permanente de la Armada y sobrevuelos de la Aviación Militar Bolivariana, siendo un bastión de la frontera marítima venezolana.
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas

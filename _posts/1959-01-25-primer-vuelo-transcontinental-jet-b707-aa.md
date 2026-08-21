@@ -44,15 +44,15 @@ El 707-123 incorporaba motores Pratt & Whitney JT3D-3 turbojet y un diseño que 
 ### Entorno cultural
 El presidente de American Airlines, C.R. Smith, viajó como pasajero, y rivales como Pan Am y BOAC enviaron felicitaciones públicas.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - **25 de enero de 1959, 09:05 PST (LAX):** Despegue del vuelo inaugural, retrasado 20 minutos por ceremonias.  
 - **25 de enero de 1959, 13:08 EST (Idlewild):** Aterrizaje tras 4 h 03 min de vuelo, récord para la época.  
 - **25 de enero de 1959, tarde:** Vuelo de regreso Idlewild–LAX, duración 6 h 33 min.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El 707 consolidó la transición hacia la aviación a reacción en EE.UU., transformando el transporte doméstico.
 
-### Legado
+## Legado
 American Airlines operó 42 Boeing 707 hasta 1984; el N7503A voló hasta 1983, símbolo de la “Era Jet”.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

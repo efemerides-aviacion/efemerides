@@ -47,19 +47,19 @@ El radar de la época ofrecía información limitada y los procedimientos de apr
 ### Entorno cultural
 La tragedia, con víctimas en tierra y un único superviviente inicial (Stephen Baltz, fallecido al día siguiente), se convirtió en símbolo de la necesidad de modernizar la aviación.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - TWA 266 sobrepasó su límite de espera en Staten Island.  
 - United 826 se aproximaba a gran velocidad desde Chicago.  
 - 10:33 a.m.: colisión sobre Staten Island.  
 - El Constellation se desintegró en el aire; el DC-8 cayó en Park Slope, Brooklyn.  
 - Incendio urbano y seis víctimas en tierra.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 - Regulación de velocidades aéreas: límite de 250 nudos bajo 10.000 pies.  
 - Modernización del ATC: implementación de radar de área completa.  
 - Reorganización del espacio aéreo en Nueva York.  
 
-### Legado
+## Legado
 El accidente es recordado como un punto de inflexión en la seguridad aérea. La FAA lo cita como catalizador del sistema moderno de control de tráfico aéreo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

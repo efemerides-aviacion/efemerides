@@ -28,7 +28,7 @@ image: 1961-01-31-ham-primer-hominido-espacio.jpg
 > Ambas expresiones se complementan: la primera aporta el contexto narrativo y oficial de la misión, mientras que la segunda detalla con precisión el vehículo espacial utilizado.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha:** 31 de enero de 1961  
 - **Lugar de lanzamiento:** LC‑5, Cabo Cañaveral, Florida  
 - **Aeronave:** Cápsula Mercury No. 5 sobre cohete Redstone  
@@ -52,14 +52,14 @@ El vuelo de HAM fue un paso crucial en el Programa Mercury, demostrando que un p
 ### Impacto científico
 HAM demostró que la respuesta neuromotora se mantenía en condiciones de ingravidez y estrés, con tiempos de reacción apenas más lentos que en tierra.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1959:** Inicio del entrenamiento en Nuevo México.  
 - **31/01/1961:** Vuelo Mercury‑Redstone 2.  
 - **1961–1981:** Residió en el National Zoo de Washington.  
 - **1981–1983:** Trasladado al North Carolina Zoo.  
 - **19/01/1983:** Falleció a los 26 años; enterrado en el New Mexico Museum of Space History.  
 
-### Legado
+## Legado
 HAM es recordado como el primer “astrochimp” y pionero de la exploración espacial, abriendo el camino para los vuelos tripulados de Alan Shepard y John Glenn.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">

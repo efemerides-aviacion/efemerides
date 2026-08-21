@@ -57,7 +57,7 @@ El U-2 era un avión de reconocimiento de gran altitud diseñado por Lockheed Sk
 
 La propaganda jugó un papel crucial en este incidente. Jrushchov manejó la información con calculada precisión para maximizar la humillación de Estados Unidos. Durante seis días, ocultó que Powers estaba vivo, permitiendo que el gobierno estadounidense negara el vuelo de espionaje y presentara una coartada falsa (un avión meteorológico de la NASA extraviado). Luego, el 7 de mayo, reveló ante el Soviet Supremo que Powers estaba vivo y había confesado, exponiendo la mentira estadounidense ante el mundo.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **9 de abril de 1960:** Misión previa exitosa del piloto Bob Ericson (U-2C), sobrevolando Semipalatinsk, Tyuratam (Baikonur) y Saryshagan; detectado pero evadió a los MiG-19 y Su-9
 - **1 de mayo de 1960, 06:30:** Powers despega de la base de Badaber (Peshawar, Pakistán) con destino a Bodø (Noruega) 

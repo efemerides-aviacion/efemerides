@@ -41,16 +41,16 @@ El Heinkel He 280 fue uno de los primeros cazas a reacción, pionero en incorpor
 ### Entorno cultural
 El evento reforzó la percepción de la aviación como campo de innovación radical y de riesgo extremo.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - Vuelo de prueba del Heinkel He 280 en condiciones de frío extremo.  
 - Congelamiento de controles durante el ensayo.  
 - Activación del mecanismo de eyección por Helmut Schenk.  
 - Descenso en paracaídas y supervivencia.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 Validación práctica de los asientos eyectables, que se convertirían en estándar en la aviación militar.
 
-### Legado
+## Legado
 La eyección de Schenk es recordada como el primer caso documentado en la historia, abriendo camino a sistemas que salvarían miles de vidas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

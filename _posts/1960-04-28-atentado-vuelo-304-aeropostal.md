@@ -61,7 +61,7 @@ El Douglas DC-3 era, en 1960, uno de los aviones comerciales más utilizados en 
 
 La figura del "pasajero rebelde" o del "secuestrador" era prácticamente desconocida para el público venezolano de 1960. Los vuelos eran percibidos como entornos seguros, y la idea de que un pasajero pudiera introducir un artefacto explosivo a bordo resultaba inimaginable. El atentado del vuelo 304 conmocionó a la sociedad venezolana y ocupó las primeras planas de los periódicos de la época. La investigación oficial, que no logró establecer de manera concluyente las motivaciones del atacante, dejó abiertas múltiples hipótesis que han alimentado el debate histórico hasta nuestros días.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **28 de abril de 1960, 07:30:** El Douglas DC-3 YV-C-AFE despega del Aeropuerto de Maiquetía con destino a Puerto Ayacucho, vía Calabozo y San Fernando de Apure.
 - **08:22 (aproximadamente):** Cuando la aeronave se preparaba para aterrizar en Calabozo, el pasajero Wjatheslav Lavinski envía una nota a los pilotos con la amenaza de hacer estallar el avión si no obedecían sus órdenes.

@@ -54,7 +54,7 @@ La aviación comercial de los años 50 carecía de controles de seguridad exhaus
 ### Entorno cultural
 El atentado fue condenado internacionalmente por atentar contra una aeronave civil. Representó un hito en la historia del terrorismo aéreo, demostrando la vulnerabilidad de los vuelos comerciales ante ataques deliberados.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **Finales de 1954 / principios de 1955:** La agencia de inteligencia del Kuomintang (Oficina de Seguridad Nacional, antiguo Buró de Investigación Especial) planea la Operación "Secreto Nº 1". Se identifica a Zhou Enlai como objetivo y se determina que viajará en un avión alquilado a Air India con escala en Hong Kong.
 
@@ -78,7 +78,7 @@ El atentado fue condenado internacionalmente por atentar contra una aeronave civ
 
 - **1955-1956:** Las autoridades británicas en Hong Kong arrestan a varios sospechosos. Zhou Zi es condenado a cadena perpetua por asesinato. Zhao Bincheng y otros agentes del KMT huyen a Taiwán antes de ser arrestados. La sentencia de Zhou Zi fue conmutada posteriormente y fue liberado en la década de 1960.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Repercusiones diplomáticas:** El atentado tensó las relaciones entre China, Taiwán, el Reino Unido (como administrador de Hong Kong) e Indonesia. China exigió responsabilidades al gobierno británico por la falta de seguridad en Kai Tak.
 
@@ -88,7 +88,7 @@ El atentado fue condenado internacionalmente por atentar contra una aeronave civ
 
 - **Memoria histórica:** El "Kashmir Princess" se convirtió en un símbolo de la guerra secreta entre las dos Chinas y de la vulnerabilidad de la aviación civil ante el terrorismo político.
 
-### Legado
+## Legado
 
 El atentado contra el "Kashmir Princess" es recordado como uno de los primeros actos de sabotaje aéreo con motivación política de la era posterior a la Segunda Guerra Mundial. Aunque la tecnología y los protocolos de seguridad han cambiado drásticamente, el caso sigue siendo estudiado en cursos de seguridad aeroportuaria como ejemplo temprano de la amenaza del terrorismo internacional. Los 16 fallecidos (13 pasajeros y 3 tripulantes) son recordados en monumentos en la India y China. El avión siniestrado nunca fue recuperado del fondo marino.
 

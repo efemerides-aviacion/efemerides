@@ -23,7 +23,7 @@ image: 1959-02-07-timm-cook-record-cessna172.jpg
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados
+## Datos verificados del evento
 - **Periodo del vuelo:** 4 de diciembre de 1958 – 7 de febrero de 1959  
 - **Duración total:** 64 días, 22 horas, 19 minutos, 5 segundos  
 - **Distancia recorrida:** ~150.000 millas (~6 vueltas al mundo)  
@@ -48,7 +48,7 @@ El vuelo de resistencia de Bob Timm y John Cook en la Cessna 172 Hacienda repres
 - Recibían comida preparada por el hotel y agua cada dos días.  
 - Suministros izados durante los contactos de reabastecimiento.  
 
-### Legado
+## Legado
 - Superó intentos previos como el vuelo de la Cessna 172 *The Old Scotchman*.  
 - El récord dejó sin efecto marcas anteriores de más de 1.100 horas en el aire.  
 - La aeronave se exhibe suspendida en el aeropuerto Harry Reid International (Las Vegas).  

@@ -56,7 +56,7 @@ El desafío técnico era enorme: ningún bombardero terrestre había despegado j
 
 La incursión combinó por primera vez de manera masiva fuerzas del Ejército (USAAF) y la Armada (US Navy) en una operación conjunta. El capitán de navío Francis Low fue quien propuso la idea al observar B-25 despegando desde una pista con forma de cubierta de portaaviones. El teniente Henry L. Miller, de la Armada, entrenó a los pilotos del Ejército en despegues ultracortos (menos de 150 metros).
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **Enero de 1942:** El capitán Francis Low propone la idea de bombardear Japón con B-25 desde un portaaviones.
 - **Febrero de 1942:** El teniente coronel Jimmy Doolittle es seleccionado para planificar y liderar la misión.

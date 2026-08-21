@@ -44,7 +44,7 @@ Los primeros reactores operativos, como el Gloster Meteor británico y el Messer
 ### Entorno cultural
 La aviación era considerada una actividad de élite, símbolo de progreso y modernidad. Los pilotos militares eran vistos como héroes nacionales y embajadores de la tecnología nacional. El envío de oficiales venezolanos a Inglaterra para entrenarse en reactores reflejaba la aspiración del país de insertarse en la vanguardia tecnológica mundial.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **3 de agosto de 1916:** Nace Roberto José Mora Contreras en San Cristóbal, estado Táchira.
 - **1938:** Ingresa al Ejército Nacional.
@@ -60,13 +60,13 @@ La aviación era considerada una actividad de élite, símbolo de progreso y mod
 - **Póstumamente:** Es ascendido a Mayor (Av) y su nombre es grabado en el Monumento a los Héroes de la Aviación Militar.
 - **1970:** La Fuerza Aérea Venezolana bautiza con su nombre a la Promoción "Capitán Roberto José Mora Contreras" en reconocimiento a su legado.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Inicio de la era jet en Venezuela:** El vuelo de Mora abrió el camino para la incorporación de los De Havilland Vampire, que modernizaron la defensa aérea del país y formaron a las primeras generaciones de pilotos de caza venezolanos.
 - **Modelo a seguir:** Su dedicación y profesionalismo lo convirtieron en un referente para la aviación militar venezolana, inspirando a futuras promociones.
 - **Vínculo con la RAF:** La cooperación con el Reino Unido se fortaleció, estableciendo un puente técnico y formativo que perduraría décadas.
 
-### Legado
+## Legado
 
 El capitán Roberto José Mora Contreras es recordado como el primer piloto venezolano en volar un reactor y como uno de los pioneros de la modernización de la Fuerza Aérea Venezolana. Su nombre permanece vivo en la institución como epónimo de la promoción de oficiales de la FAV egresada en julio de 1970, y en los anales de la historia aeronáutica nacional. Su temprana muerte, apenas cuatro meses después de su hazaña, no opacó el brillo de su contribución, y su ejemplo sigue siendo invocado como símbolo de entrega y amor por la aviación.
 

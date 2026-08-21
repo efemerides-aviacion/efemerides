@@ -55,7 +55,7 @@ El desarrollo del motor Mikulin AM-3 fue clave para hacer viable el Tu-16. Inici
 
 La oficina de diseño de Andrei Tupolev era una de las más prestigiosas de la URSS. Había diseñado el Tu-4 (copia del B-29) y el Tu-95 (bombardero turbohélice de largo alcance). La competencia con otras oficinas (como la de Ilyushin, que presentó el Il-46) era intensa, y la obtención de contratos de producción dependía del éxito en las pruebas estatales.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1948:** Inicia el desarrollo del motor Mikulin AM-3.
 - **1949:** Primer vuelo del prototipo "82" (avión de ala en flecha), precursor conceptual del Tu-16.

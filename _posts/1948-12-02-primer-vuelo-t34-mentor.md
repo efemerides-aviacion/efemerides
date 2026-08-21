@@ -43,7 +43,7 @@ El motor Continental E-185 de 185 hp, refrigerado por aire y de disposición hor
 ### Entorno cultural
 La industria aeronáutica estadounidense era extremadamente competitiva. Compañías como Beech, Cessna y Piper competían por contratos militares y civiles. La iniciativa privada, como la de Walter Beech al financiar el Model 45 con recursos propios, reflejaba la cultura empresarial de la época: asumir riesgos para ganar mercados.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1945-1947:** Beech Aircraft Corporation desarrolla y comercializa el Model 35 Bonanza, un monomotor de alta performance para el mercado civil que se convierte en un éxito inmediato. Su diseño aerodinámico y su construcción totalmente metálica sientan las bases para un futuro entrenador militar.
 - **1947:** Walter Beech, fundador de la compañía, decide por iniciativa privada desarrollar un entrenador militar derivado del Bonanza, ante la falta de presupuesto militar para nuevos programas. El proyecto recibe la designación interna Model 45.
@@ -57,14 +57,14 @@ La industria aeronáutica estadounidense era extremadamente competitiva. Compañ
 - **1973:** Beech desarrolla una versión turbohélice del Mentor, designada T-34C, equipada con un motor Pratt & Whitney Canada PT6A-25 de 400 hp. Esta versión se convierte en el entrenador primario estándar de la Armada de los EE.UU. y de numerosas fuerzas aéreas internacionales durante décadas.
 - **Producción total:** Se construyeron más de 1.900 unidades del T-34 Mentor (incluyendo las versiones de pistón y turbohélice), y el diseño ha acumulado millones de horas de vuelo en todo el mundo.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Estandarización en EE.UU.:** El T-34 se convirtió en el entrenador primario de la USAF y la USN durante los años cincuenta y sesenta, formando a miles de pilotos que luego volarían reactores de combate.
 - **Éxito de exportación:** Fue adoptado por más de 20 fuerzas aéreas en todo el mundo, incluyendo Canadá, Japón, Filipinas, Turquía, y numerosos países latinoamericanos como Argentina, Colombia, Perú, República Dominicana y Venezuela.
 - **Versatilidad:** Su diseño robusto y su comportamiento aerodinámico lo hicieron ideal no solo para entrenamiento, sino también para patrullaje, enlace y misiones de observación en fuerzas aéreas con recursos limitados.
 - **Longevidad:** La versión turbohélice T-34C prolongó la vida del diseño hasta bien entrado el siglo XXI, siendo todavía operado por algunas fuerzas aéreas en la actualidad.
 
-### Legado
+## Legado
 
 El Beechcraft T-34 Mentor ocupa un lugar destacado en la historia de la aviación:
 

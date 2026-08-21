@@ -40,18 +40,18 @@ Al final de la Segunda Guerra Mundial, la aviación había evolucionado rápidam
 - **Libertades del aire:** Se definieron acuerdos complementarios para sobrevuelo y escalas técnicas.  
 - **Creación de la OACI:** El Convenio dispuso la creación de un organismo permanente para administrar y actualizar las normas.  
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1 nov – 7 dic 1944:** Conferencia de Chicago.  
 - **1944–1947:** Funcionamiento de la OPACI como organismo provisional.  
 - **4 abril 1947:** Entrada en vigor del Convenio tras ratificación suficiente.  
 - **6 junio 1947:** Nace la OACI como organismo permanente.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 - **Normalización global:** Desarrollo de Normas y Métodos Recomendados (SARPs), hoy 19 anexos.  
 - **Seguridad operacional:** Homogeneización de prácticas y equipos en 193 Estados miembros.  
 - **Marco legal:** Base para tratados posteriores como el Protocolo de Montreal.  
 
-### Legado
+## Legado
 La OACI, organismo especializado de la ONU, sigue siendo el foro principal de cooperación aeronáutica. El 7 de diciembre se celebra como el **Día de la Aviación Civil Internacional**. Su plan estratégico actual incluye seguridad, eficiencia y reducción de emisiones hacia 2050.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

@@ -21,7 +21,7 @@ image: 1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.jpg
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha:** 10 de febrero de 1955  
 - **Lugar:** Nellis Air Force Base, Nevada, EE.UU.  
 - **Pilotos:** Pascual Azara Azara, Leonidas Marquina Dugarte, Braulio Martínez Zerpa  

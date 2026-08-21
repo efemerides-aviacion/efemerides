@@ -53,7 +53,7 @@ El Grumman F6F Hellcat había sido uno de los cazas más exitosos de la guerra, 
 
 La elección del nombre "Blue Angels" (Ángeles Azules) surgió de una visita del equipo a un club nocturno de Nueva York llamado "Blue Angel". El nombre evocaba la mística de la aviación naval y su conexión con el cielo. Los colores originales (azul marino oscuro con letras doradas) fueron elegidos por Voris para reflejar los colores institucionales de la Marina.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **24 de abril de 1946:** El Almirante Nimitz emite la directiva ordenando la creación de un equipo de exhibición aérea y selecciona a Butch Voris como Oficial a Cargo.
 - **15 de junio de 1946:** El equipo realiza su primer espectáculo público en NAS Jacksonville, Florida.

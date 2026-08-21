@@ -46,15 +46,15 @@ La travesía se realizó con navegación astronómica y de estima, en una época
 ### Entorno cultural
 El vuelo reforzó la conexión de Rapa Nui con el continente, integrando a la isla en la memoria colectiva chilena.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - **18 de enero:** El Manutara vuela desde Quintero a La Florida escoltado por B‑25 Mitchell del Grupo N.º 8.  
 - **19 de enero, 19:20 horas:** Despegue hacia Isla de Pascua al atardecer.  
 - **20 de enero, 14:42 horas:** Arribo exitoso a Mataveri en la tarde.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El vuelo abrió la ruta aérea hacia Rapa Nui, consolidando la soberanía chilena sobre la isla y facilitando su integración.
 
-### Legado
+## Legado
 El Manutara es recordado como símbolo de perseverancia y unión nacional. Su travesía es considerada uno de los hitos más importantes de la aviación chilena.
 
 - **Réplica del Manutara:** El Catalina original N.º 405 se destruyó en un accidente en el lago Peñuelas en junio de 1961, falleciendo sus ocupantes. Sin embargo, en el Museo Nacional Aeronáutico y del Espacio de Chile se exhibe una réplica del Manutara, donada por la propia empresa Aeroservicios Parragué.

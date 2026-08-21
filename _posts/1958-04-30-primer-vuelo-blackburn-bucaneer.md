@@ -57,7 +57,7 @@ El Reino Unido de la posguerra aún mantenía aspiraciones de ser una potencia g
 
 Los pilotos de la Royal Navy que volaron el Buccaneer desarrollaron un fuerte vínculo con el avión. Era conocido por su robustez, su capacidad para soportar las tensiones del vuelo constante a baja altitud y las duras condiciones de las operaciones en portaaviones. El Buccaneer era muy apreciado por sus cualidades de vuelo, y el sistema BLC les proporcionaba velocidades de aterrizaje más lentas que las que estaban acostumbrados en otros aviones.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **Julio de 1955:** Blackburn gana el concurso de la Royal Navy con su proyecto B.103
 - **1956:** Se construyen prototipos y maquetas a gran escala para pruebas en túnel de viento

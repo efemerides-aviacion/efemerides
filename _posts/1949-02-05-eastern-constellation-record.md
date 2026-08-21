@@ -22,7 +22,7 @@ image: 1949-02-05-eastern-constellation-record.jpg
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha del récord:** 5 de febrero de 1949  
 - **Ruta:** Los Ángeles (Burbank) – Nueva York (LaGuardia)  
 - **Duración:** 6 horas, 17 minutos (despegue 07:51:21 PST, llegada 17:08:02 EST)  
@@ -49,7 +49,7 @@ El récord de Eastern Air Lines fue un hito en la aviación comercial de posguer
 - El L‑749A representaba la evolución de la familia Constellation hacia vuelos de largo alcance.  
 - Su rendimiento consolidó la transición hacia la aviación comercial intercontinental.  
 
-### Legado
+## Legado
 - El récord contribuyó a posicionar al Constellation como uno de los aviones más emblemáticos de la aviación civil de mediados del siglo XX.  
 - Eastern Air Lines se consolidó como una de las principales aerolíneas estadounidenses en la era dorada de la aviación.  
 

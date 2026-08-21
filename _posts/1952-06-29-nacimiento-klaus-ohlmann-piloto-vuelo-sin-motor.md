@@ -25,7 +25,7 @@ image: 1952-06-29-nacimiento-klaus-ohlmann-piloto-vuelo-sin-motor.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Datos biográficos y eventos
+## Datos verificados del evento
 - **Fecha de nacimiento:** 29 de junio de 1952
 - **Lugar de nacimiento:** Neustadt an der Aisch, Alemania
 - **Nacionalidad:** Alemana
@@ -59,7 +59,7 @@ A lo largo de la vida de Ohlmann, el vuelo sin motor experimentó una revolució
 
 La figura del piloto de récords se consolidó en la cultura aeronáutica europea como una mezcla de deportista de élite, científico autodidacta y aventurero. Ohlmann encarnó ese arquetipo: se describe a sí mismo como un "meteorólogo aplicado" y combina su práctica profesional con expediciones científicas. La fundación del Mountain Wave Project en 1998 reflejó su interés por estudiar las ondas de montaña y hacer visibles las posibilidades del vuelo sin motor, uniendo ciencia, deporte y sensibilidad medioambiental.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La trayectoria de Ohlmann muestra una progresión constante desde la formación académica hasta la búsqueda sistemática de récords internacionales, con un punto de inflexión a principios de los años 2000, cuando batió varios récords en Argentina y consolidó su reputación mundial.
 

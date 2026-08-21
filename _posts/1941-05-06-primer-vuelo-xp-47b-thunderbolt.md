@@ -76,7 +76,7 @@ El diseño del XP-47B fue una apuesta audaz del ingeniero jefe Alexander Kartvel
 
 El Thunderbolt se convirtió en un símbolo de la industria estadounidense: grande, potente y fabricado en cantidades masivas. Aunque inicialmente fue relegado a un segundo plano por el más maniobrable y de mayor alcance P-51 Mustang, el P-47 demostró ser un excelente escolta de bombarderos a gran altitud, un formidable cazabombardero de ataque a tierra, y el vehículo de los dos principales ases estadounidenses en el Teatro Europeo (Francis Gabreski y Robert S. Johnson).
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **Septiembre de 1939:** Republic Aviation envía al USAAC la propuesta del AP-10 (futuro XP-47).
 - **Primavera de 1940:** Tras analizar los combates en Europa, se cancela el XP-47 y Republic propone un diseño totalmente nuevo.

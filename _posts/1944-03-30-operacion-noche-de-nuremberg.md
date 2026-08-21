@@ -45,7 +45,7 @@ La *Luftwaffe* había desarrollado una eficaz red de caza nocturna (*Nachtjagd*)
 ### Entorno cultural
 La incursión se planificó en medio de un clima de confianza en el Bomber Command, tras la exitosa campaña de 1943 (Hamburgo, Berlín). El mariscal <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1892/04/13/nacimiento-arthur-harris.html" style="color: #315fea; text-decoration: none;">Arthur Harris</a> apostó por continuar los ataques a las ciudades alemanas, a menudo sobreestimando la protección que brindaría el mal tiempo.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **30 de mayo de 1942:** La RAF lanza la **Operación Millennium (Milenio)** , el primer bombardeo de 1.000 bombarderos contra Colonia, demostrando la viabilidad del bombardeo de área masivo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/05/30/operacion-milenium.html" style="color: #315fea; text-decoration: none;">efeméride de la Operación Millennium (Milenio)</a> para más detalles.
 
@@ -66,14 +66,14 @@ La *Nachtjagd* (caza nocturna) reclamó al menos 95 derribos esa noche. Los pilo
 
 El sistema de confirmación alemán requería testigos o restos localizados, por lo que las cifras varían ligeramente según las fuentes.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Moral y doctrina:** La pérdida de 545 tripulantes en una sola noche conmocionó al Bomber Command. Fue el golpe más duro en la guerra aérea contra Alemania.
 - **Cambios tácticos:** Se redujeron las incursiones de largo alcance sin escolta; se intensificó el uso de contramedidas electrónicas (*Window* – tiras de papel de aluminio) y se mejoró la planificación de rutas para evitar concentraciones de cazas nocturnos.
 - **Efecto en Núremberg:** Los daños materiales fueron relativamente pequeños (el centro histórico sufrió menos que en ataques posteriores), aunque la población civil quedó traumatizada.
 - **Victoria Cruz de Cyril Barton:** El piloto del 578 Squadron, Cyril Barton, recibió la Cruz Victoria a título póstumo por mantener su Lancaster en vuelo hasta aterrizar, salvando a su tripulación a pesar de las graves heridas.
 
-### Legado
+## Legado
 
 La Noche de Núremberg es recordada como la mayor tragedia del Bomber Command en la Segunda Guerra Mundial. En la historiografía británica, simboliza los límites del bombardeo estratégico sin superioridad aérea plena. En Alemania, se convirtió en un símbolo del sufrimiento civil, aunque el ataque quedó eclipsado por los bombardeos posteriores que arrasaron la ciudad en 1945.
 

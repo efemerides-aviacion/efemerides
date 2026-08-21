@@ -54,7 +54,7 @@ La aviación a reacción había revolucionado el diseño de aeronaves militares.
 
 La figura del piloto de pruebas se convirtió en un arquetipo del héroe moderno. Alvin M. "Tex" Johnston, conocido por su personalidad audaz y sus habilidades excepcionales, personificaba el espíritu de innovación y riesgo que caracterizaba a la industria aeronáutica de la posguerra.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1945:** La Fuerza Aérea de EE.UU. emite los primeros requisitos para un bombardero intercontinental a reacción.
 - **1946:** Boeing presenta su diseño inicial, el Model 462, con motores de hélice y turbohélices.

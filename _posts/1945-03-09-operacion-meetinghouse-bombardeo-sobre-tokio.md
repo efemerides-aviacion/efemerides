@@ -49,7 +49,7 @@ El bombardeo de Tokio del 9 al 10 de marzo de 1945 fue el ataque aéreo convenci
 - La destrucción de templos, escuelas y centros comunitarios supuso un golpe simbólico y cultural, además de material.  
 - El trauma colectivo quedó marcado por relatos de supervivientes que describieron “ríos de fuego” y temperaturas insoportables.
 
-### Legado
+## Legado
 - El ataque destruyó 41 km² de la capital y causó más de 100.000 muertes inmediatas.  
 - Fue el bombardeo aéreo más mortífero de la historia, pero quedó eclipsado en la memoria mundial por Hiroshima y Nagasaki.  
 - Curtis LeMay reconoció la dimensión moral del ataque: *“Si hubiéramos perdido, yo sería tratado como un criminal de guerra.”*  

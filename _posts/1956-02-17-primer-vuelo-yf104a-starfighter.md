@@ -44,17 +44,17 @@ El YF-104A introdujo alas trapezoidales de baja relación de aspecto, fuselaje a
 ### Entorno cultural
 El Starfighter se convirtió en símbolo de la era supersónica y en protagonista de múltiples fuerzas aéreas aliadas.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 17 de febrero de 1956: Primer vuelo del YF-104A en Edwards AFB.  
 - 28 de febrero de 1956: El mismo avión alcanza Mach 2 en vuelo nivelado.  
 - 25 de abril de 1957: Destrucción del prototipo en Palmdale tras aterrizaje duro.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 - Validación del diseño supersónico de Clarence “Kelly” Johnson.  
 - Consolidación del F-104 como interceptor Mach 2.  
 - Influencia en la doctrina de combate aéreo de la Guerra Fría.  
 
-### Legado
+## Legado
 El YF-104A (55-2955) es recordado con dos sobrenombres:  
 - **“Starfighter”**, nombre oficial del modelo F‑104, símbolo de la era supersónica.  
 - **“Apple Knocker”**, apodo coloquial dado al prototipo tras el accidente de 1957 en Palmdale.  

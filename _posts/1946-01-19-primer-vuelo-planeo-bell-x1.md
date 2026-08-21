@@ -44,16 +44,16 @@ El X‑1 estaba equipado con cuatro motores cohete Reaction Motors XLR‑11, aun
 ### Entorno cultural
 El proyecto se convirtió en símbolo del avance tecnológico estadounidense en la posguerra.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 19 de enero de 1946: Primer vuelo en planeo, lanzado desde un B‑29.  
 - Jack Woolams realizó un total de diez vuelos en planeo para evaluar estabilidad y control.  
 - Posteriormente se instalaron los motores cohete XLR‑11 para pruebas propulsadas.  
 - 14 de octubre de 1947: Chuck Yeager rompe la barrera del sonido con el X‑1.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El programa X‑1 abrió el camino a la investigación supersónica y a los programas X posteriores de la NASA y la USAF.
 
-### Legado
+## Legado
 El Bell X‑1 es recordado como el primer avión en superar Mach 1 en vuelo nivelado, marcando un hito en la historia de la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

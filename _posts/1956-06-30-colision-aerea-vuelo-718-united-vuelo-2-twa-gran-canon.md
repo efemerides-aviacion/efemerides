@@ -60,7 +60,7 @@ En 1956 el radar de tráfico aéreo cubría principalmente las grandes áreas me
 
 El accidente del Gran Cañón se convirtió en un punto de inflexión cultural sobre la seguridad aérea. Las imágenes de los restos en el cañón, publicadas en revistas como LIFE, y la cobertura mediática de la investigación mantuvieron la tragedia en la opinión pública. El desastre pasó de ser considerado un error de pilotos a ser reconocido como un fallo sistémico del control del tráfico aéreo, lo que facilitó la aceptación de una mayor intervención federal.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La mañana del 30 de junio de 1952 no fue inusual en el Aeropuerto Internacional de Los Ángeles: dos vuelos transcontinentales despegaron con pocos minutos de diferencia. Noventa minutos después, sus rutas convergían sobre uno de los paisajes más espectaculares de Estados Unidos, en un espacio aéreo donde nadie los supervisaba.
 

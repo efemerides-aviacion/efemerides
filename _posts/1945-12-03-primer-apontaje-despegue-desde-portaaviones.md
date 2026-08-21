@@ -40,12 +40,12 @@ Al final de la Segunda Guerra Mundial, los jets eran una novedad tecnológica. L
 - **Apontaje:** Brown enganchó exitosamente el cable de detención en el HMS Ocean.  
 - **Despegue:** Inmediatamente después realizó el primer despegue de un reactor desde un portaaviones.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 - **Viabilidad demostrada:** Se confirmó que los jets podían operar en portaaviones.  
 - **Innovaciones posteriores:** Contribuyó al desarrollo de la cubierta en ángulo y catapultas de vapor.  
 - **Desarrollo del Sea Vampire:** Condujo a versiones de producción como el F.20 y el entrenador T.22.  
 
-### Legado
+## Legado
 El prototipo Sea Vampire LZ551/G se conserva en el Fleet Air Arm Museum en Yeovilton, Reino Unido. Eric Brown es recordado como uno de los pilotos de pruebas más destacados de la historia, con récords aún vigentes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

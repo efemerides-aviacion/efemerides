@@ -60,7 +60,7 @@ El Proyecto Mercury fue el primer programa de vuelos espaciales tripulados de Es
 
 La imagen del astronauta Shepard, entrando en la cápsula y aguardando el lanzamiento durante horas debido a los retrasos meteorológicos, cautivó al público estadounidense. Su famosa frase durante el vuelo —"Todo está bien, ¿eh?" ("A-OK")— se convirtió en parte del léxico popular. El éxito de la misión no solo fue un triunfo técnico, sino también un poderoso mensaje de resiliencia y determinación en medio de la Guerra Fría.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **9 de abril de 1959:** La NASA presenta a los "Mercury 7", el primer grupo de astronautas estadounidenses, del cual Shepard forma parte
 - **12 de abril de 1961:** Yuri Gagarin se convierte en el primer ser humano en orbitar la Tierra

@@ -47,16 +47,16 @@ El reabastecimiento en vuelo se consolidó como técnica viable, permitiendo vue
 ### Entorno cultural
 El logro fue ampliamente difundido en prensa y reforzó la imagen de la aviación como herramienta de disuasión global.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1947:** Lucky Lady II establece récord de altitud para su clase.  
 - **1949, 26 feb:** Despegue desde Carswell AFB.  
 - **1949, 2 mar:** Aterrizaje tras circunnavegación sin escalas.  
 - **1950s:** El reabastecimiento aéreo se integra en operaciones estratégicas con B-52.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El vuelo demostró la viabilidad del reabastecimiento aéreo como herramienta estratégica, marcando el inicio de la era de la aviación global.
 
-### Legado
+## Legado
 Lucky Lady II es recordada como pionera en vuelos de largo alcance, y su misión consolidó la doctrina de disuasión nuclear basada en bombarderos estratégicos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

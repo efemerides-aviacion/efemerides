@@ -50,7 +50,7 @@ En el plano técnico, el De Havilland Comet 4C representaba la versión más ava
 ### Entorno cultural
 La era del jet cimentó una estética futurista y de glamour que transformó para siempre la cultura del viaje y el ocio internacional de mediados de siglo. El Comet de Mexicana de Aviación fue bautizado en la prensa nacional como el \"gigante de los aires sin hélices\", convirtiéndose en un potente símbolo del progreso técnico de la República y de la profesionalización de las tripulaciones aéreas mexicanas.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La incorporación del Comet 4C a la flota de Mexicana y su histórico vuelo del 4 de julio de 1960 coronaron meses de complejas negociaciones financieras y disputas laborales, detallándose a continuación sus hitos más significativos:
 
@@ -63,7 +63,7 @@ La incorporación del Comet 4C a la flota de Mexicana y su histórico vuelo del 
 - **10 de agosto de 1960:** Mexicana de Aviación expande su red de reactores inaugurando la ruta directa y sin escalas hacia el Aeropuerto O'Hare de Chicago.
 - **1 de noviembre de 1960:** Se inicia de manera regular el servicio de reactores en la ruta hacia San Antonio, Texas, consolidando la red de la era del jet de la compañía.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La exitosa entrada en servicio del de Havilland Comet 4C el 4 de julio de 1960 posicionó a México y Centroamérica a la vanguardia de la aviación comercial del continente. El vuelo regular demostró la viabilidad económica y el inmenso atractivo del transporte de pasajeros a reacción.
 
@@ -72,7 +72,7 @@ La exitosa entrada en servicio del de Havilland Comet 4C el 4 de julio de 1960 p
 - **Modernización de la infraestructura aeroportuaria:** El despegue regular de reactores pesados obligó a la Secretaría de Comunicaciones y Transportes (SCT) a adquirir y pavimentar con mayor resistencia las pistas y terminales de los aeropuertos nacionales de la época, asumiendo el control de las pistas que la aerolínea ya no podía mantener financieramente.
 - **Paso al Boeing 727:** Las lecciones operativas obtenidas con los tres primeros aviones Comet 4C de la flota de Mexicana cimentaron la posterior adquisición y el inmenso éxito del trimotor Boeing 727 en las décadas de 1970 y 1980, convirtiendo a la aerolínea en la mayor operadora de reactores de Latinoamérica de su tiempo.
 
-### Legado
+## Legado
 
 A más de seis décadas de su histórica inauguración, el vuelo del de Havilland Comet de Mexicana es recordado como el hito que abrió el camino para el transporte de pasajeros masivo moderno de la República. Su herencia continúa influyendo en la forma en que concebimos la conectividad y el confort a bordo.
 

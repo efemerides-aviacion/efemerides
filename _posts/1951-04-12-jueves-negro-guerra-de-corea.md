@@ -42,7 +42,7 @@ Sin embargo, la aparición de los cazas MiG-15 en el área noroccidental de Core
 
 El área entre el río Yalu (frontera con China) y Pyongyang fue bautizada por los pilotos de la ONU como "MiG Alley" (Callejón de los MiG). Allí, los MiG-15 despegaban desde bases ubicadas al otro lado del Yalu, en territorio chino, donde los aviones de la ONU tenían prohibido atacar.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 
 - **12 de abril de 1951:** Tres escuadrillas de B-29 (unos 36 bombarderos) despegan con destino a misiones de bombardeo estratégico sobre Corea del Norte, escoltados por aproximadamente 100 cazas F-80 y F-84.
 - **Sobre el río Yalu:** Tres escuadrillas de MiG-15 (unos 30 aviones) interceptan a la formación estadounidense.
@@ -50,13 +50,13 @@ El área entre el río Yalu (frontera con China) y Pyongyang fue bautizada por l
 - **Resultado del combate:** Se pierden tres B-29 y otros siete resultan gravemente dañados. Los MiG-15 se retiran sin sufrir bajas.
 - **Consecuencias:** La Fuerza Aérea de Estados Unidos suspende casi por completo los bombardeos estratégicos diurnos sobre Corea del Norte durante varios meses, refuerza el despliegue de cazas F-86 Sabre (los únicos capaces de enfrentarse en igualdad de condiciones a los MiG-15) y aumenta las misiones de bombardeo nocturno.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 El "Jueves Negro" demostró que los bombarderos pesados B-29 no podían operar de día sin superioridad aérea absoluta frente a cazas a reacción modernos. La USAF se vio forzada a cambiar su doctrina de bombardeo estratégico diurno por misiones nocturnas, mucho menos precisas, y a acelerar el despliegue del F-86 Sabre para recuperar el control del aire en el Callejón de los MiG.
 
 El combate también confirmó que la Unión Soviética, aunque oficialmente no participaba en la guerra, estaba probando sus nuevas aeronaves y entrenando a sus pilotos en combate real contra la tecnología estadounidense.
 
-### Legado
+## Legado
 
 El "Jueves Negro" es recordado como una de las derrotas más significativas de la Fuerza Aérea de Estados Unidos desde la Segunda Guerra Mundial. El Callejón de los MiG se convirtió en el escenario de los primeros grandes duelos entre cazas a reacción de la historia, principalmente entre el F-86 Sabre y el MiG-15. La batalla marcó el fin de la era del bombardero pesado diurno sin escolta adecuada y el comienzo de la supremacía del caza a reacción como dominador del cielo.
 

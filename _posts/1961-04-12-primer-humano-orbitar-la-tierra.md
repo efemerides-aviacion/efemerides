@@ -49,7 +49,7 @@ La rivalidad con Estados Unidos se intensificó. El presidente John F. Kennedy, 
 
 Gagarin fue seleccionado entre 20 cosmonautas candidatos. Su estatura de 1,57 metros fue un factor determinante, ya que el reducido espacio interior de la cápsula Vostok apenas permitía el movimiento. Además, demostró excelentes cualidades físicas, psicológicas y un origen humilde (hijo de un carpintero campesino) que encajaba con la narrativa soviética del "hombre nuevo".
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 
 - **4 de octubre de 1957:** Lanzamiento del Sputnik 1, primer satélite artificial.
 - **3 de noviembre de 1957:** Lanzamiento del Sputnik 2 con la perra Laika.
@@ -61,7 +61,7 @@ Gagarin fue seleccionado entre 20 cosmonautas candidatos. Su estatura de 1,57 me
 - **08:05 UTC (11:05 hora de Moscú):** Gagarin aterriza cerca de Engels, óblast de Saratov, donde campesinos locales lo vieron descender.
 - **Respuesta de EE. UU.:** El presidente Kennedy acelera el programa Mercury. El 5 de mayo de 1961, Alan Shepard realiza el primer vuelo suborbital estadounidense.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 El vuelo de Gagarin fue una victoria propagandística arrolladora para la Unión Soviética. Demostró la superioridad tecnológica soviética en un momento clave de la Guerra Fría y golpeó la moral estadounidense.
 
@@ -69,7 +69,7 @@ En respuesta, el presidente Kennedy anunció ante el Congreso el 25 de mayo de 1
 
 El vuelo de Gagarin también impulsó la cooperación internacional en la exploración espacial a largo plazo, aunque en ese momento estaba dominada por la rivalidad de superpotencias.
 
-### Legado
+## Legado
 
 Yuri Gagarin se convirtió en un héroe mundial y en un ícono del siglo XX. Fue condecorado con la Orden de Lenin y nombrado Héroe de la Unión Soviética. Su vuelo inspiró a generaciones de cosmonautas, astronautas y científicos.
 

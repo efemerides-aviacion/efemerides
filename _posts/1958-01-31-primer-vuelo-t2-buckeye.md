@@ -22,7 +22,7 @@ image: 1958-01-31-primer-vuelo-t2-buckeye.jpg
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos Verificados
+## Datos verificados del evento
 - **Fecha:** 31 de enero de 1958  
 - **Lugar:** Estados Unidos  
 - **Aeronave:** Prototipo YT2J-1 BuNo 144217  
@@ -46,17 +46,17 @@ El T-2 Buckeye representó un salto cualitativo en la formación de aviadores na
 ### Entorno cultural
 Fue considerado un “trainer par excellence” por la Marina, ya que casi todos los aviadores navales estadounidenses pasaron por el Buckeye entre finales de los años 50 y 2008.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1958:** Primer vuelo del prototipo YT2J-1.  
 - **1959:** Entrada en servicio en NAS Meridian.  
 - **1962:** Redesignado como T-2A.  
 - **Décadas siguientes:** Evolución a T-2B y T-2C.  
 - **2008:** Retirado y reemplazado por el T-45 Goshawk.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El T-2 Buckeye consolidó la transición de la formación con aviones de hélice a jets, asegurando que generaciones de pilotos estuvieran preparados para operar cazas modernos en portaaviones.
 
-### Legado
+## Legado
 Entrenó a miles de aviadores navales y fue exportado a otros países, manteniéndose como símbolo de la formación naval durante medio siglo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

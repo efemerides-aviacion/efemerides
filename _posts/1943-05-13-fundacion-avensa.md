@@ -65,7 +65,7 @@ AVENSA fue concebida desde un principio como una línea aérea moderna. Fue pion
 
 La alianza estratégica con Pan American World Airways fue crucial para el despegue de AVENSA. La gigante estadounidense no solo aportó capital inicial, sino también su vasta experiencia operativa, estándares de seguridad y la formación de personal, lo que permitió a la aerolínea venezolana alcanzar estándares internacionales desde sus inicios.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **13 de mayo de 1943:** Es fundada AVENSA.
 - **Junio de 1943:** Se firma el contrato de explotación entre AVENSA y el Gobierno Nacional, con el apoyo de Pan Am y Mexicana de Aviación.

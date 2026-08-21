@@ -53,7 +53,7 @@ El prototipo 367-80 (Dash 80) voló por primera vez el 15 de julio de 1954, demo
 
 La transición al jet representó modernidad y prestigio. El 707 se convirtió en un símbolo de la globalización y la accesibilidad del transporte aéreo. Su nombre se asoció a la cultura popular de la época, apareciendo en películas y canciones que celebraban la nueva era de la velocidad.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **15 de julio de 1954:** Primer vuelo del prototipo Boeing 367-80 (Dash 80).
 - **1955:** Boeing anuncia el programa 707 y recibe el primer pedido de Pan American World Airways.
@@ -61,13 +61,13 @@ La transición al jet representó modernidad y prestigio. El 707 se convirtió e
 - **30 de mayo de 1958:** El Douglas DC-8, principal competidor del 707, realiza su primer vuelo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/30/primer-vuelo-mc-donell-douglas-dc8.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Douglas DC-8</a> para más detalles.
 - **26 de octubre de 1958:** Pan American World Airways introduce el Boeing 707 en servicio comercial con un vuelo Nueva York-París.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Reducción de tiempos:** Los vuelos transatlánticos pasaron de 12 a aproximadamente 6 horas.
 - **Globalización:** El transporte aéreo se volvió accesible más allá de la élite, transformando los viajes de negocios y turismo.
 - **Estandarización técnica:** Introducción de motores turborreactores JT3C, luego evolucionados al JT3D turbofán, que se convirtieron en estándar de la industria.
 
-### Legado
+## Legado
 
 El Boeing 707 es considerado el “padre” de los aviones comerciales modernos. Aunque el Comet británico debutó antes, el 707 consolidó la era del jet. Su diseño influyó en modelos posteriores como el 727, 737 y 757. Derivados militares como el KC-135 Stratotanker y el E-3 Sentry siguen en servicio.
 

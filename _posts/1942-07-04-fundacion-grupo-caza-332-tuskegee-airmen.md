@@ -49,7 +49,7 @@ En el plano de la ingeniería de diseño, la Segunda Guerra Mundial presenció l
 ### Entorno cultural
 El nacimiento de los «Aviadores de Tuskegee» representó un hito de afirmación cultural para la comunidad afroamericana y una de las gestas de superación civil más influyentes de la historia moderna. Su distintivo emblema de combate, caracterizado por pintar de color rojo brillante la cola de sus cazas P-51 Mustang, se convirtió en un símbolo de orgullo, pericia y camaradería militar admirado por las tripulaciones de bombarderos de todas las nacionalidades.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 La hazaña del 332.º Grupo de Caza se forjó a través de años de riguroso adiestramiento en tierra antes de descollar hacia el Frente de Europa, detallándose a continuación sus hitos más significativos:
 
@@ -62,7 +62,7 @@ La hazaña del 332.º Grupo de Caza se forjó a través de años de riguroso adi
 - **24 de marzo de 1945:** La unidad realiza su misión más legendaria al escoltar a bombarderos B-17 en un ataque masivo de 2.500 km sobre una fábrica de tanques en Berlín, entablando combate con reactores alemanes Messerschmitt Me 262.
 - **19 de octubre de 1945:** Tras el fin del conflicto en Europa, el grupo retorna a los Estados Unidos y es desactivado temporalmente en Camp Kilmer, Nueva Jersey, habiendo completado una de las trayectorias de combate más laureadas de la guerra.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 La consolidación de las capacidades operativas del 332.º Grupo de Caza tuvo profundas repercusiones políticas, militares y técnicas en el desarrollo de las fuerzas armadas estadounidenses y la aviación de la posguerra. Su desempeño sobresaliente demostró la falsedad de los prejuicios raciales de la época.
 
@@ -71,7 +71,7 @@ La consolidación de las capacidades operativas del 332.º Grupo de Caza tuvo pr
 - **Demistificación del mito de escolta:** Aunque la leyenda popular de la posguerra afirmó durante seis décadas que el grupo "nunca perdió un bombardero escoltado", investigaciones históricas de la AFHRA comprobaron que la unidad perdió exactamente 27 bombarderos en sus misiones. No obstante, esta cifra sigue siendo extraordinariamente baja y muy inferior a la del resto de grupos de caza, consagrando la increíble disciplina táctica de los pilotos de Tuskegee que priorizaban la defensa de los bombarderos antes que los derribos individuales.
 - **Consolidación de pioneros y oficiales de alta jerarquía:** El desempeño de la unidad allanó el camino para el ascenso del coronel Benjamin O. Davis Jr., quien pasó a la historia de la USAF al convertirse en el primer general de división afroamericano, liderando la modernización de los sistemas de defensa aérea durante las guerras de Corea y Vietnam.
 
-### Legado
+## Legado
 
 A más de ocho décadas de su histórica constitución en julio de 1942, el legado del 332.º Grupo de Caza y de los Aviadores de Tuskegee permanece como un faro de igualdad, coraje y superación humana ante la adversidad. Su historia es un pilar fundamental de la memoria histórica de la aviación mundial.
 

@@ -45,15 +45,15 @@ El Lockheed P‑80 Shooting Star fue el primer caza a reacción operativo de la 
 ### Entorno cultural
 La hazaña recibió amplia cobertura mediática, reforzando la imagen de la aviación militar como motor de innovación.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - **26 de enero de 1946, mañana (Long Beach):** Despegue del P‑80A‑1‑LO Shooting Star (44‑85123).  
 - **Trayecto:** Vuelo mayormente a 35.000–41.000 pies, desprendiendo tanques externos sobre Kansas.  
 - **26 de enero de 1946, llegada (LaGuardia):** Aterrizaje tras 4 h 13 min 26 s, récord transcontinental a reacción.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 El récord consolidó la reputación del P‑80 y abrió camino para el desarrollo de cazas a reacción en la USAF.
 
-### Legado
+## Legado
 El vuelo de Councill es recordado como el primer récord transcontinental a reacción en EE.UU., símbolo del inicio de la era jet.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

@@ -42,19 +42,19 @@ El XP‑80 utilizó inicialmente el motor británico Halford H‑1B (Goblin), an
 ### Entorno cultural
 El vuelo fue símbolo del avance tecnológico estadounidense y del inicio de una nueva era en la aviación militar.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 - 1943: inicio del proyecto XP‑80 en Lockheed.  
 - Noviembre 1943: entrega del primer fuselaje.  
 - 8 de enero de 1944: primer vuelo en California.  
 - 1945: introducción operacional como P‑80A Shooting Star.  
 - Década de 1950: derivados como el T‑33 y el F‑94 consolidan su legado.  
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 - Introducción de EE.UU. en la era del jet.  
 - Base para entrenadores y cazas posteriores.  
 - Participación en la Guerra de Corea.  
 
-### Legado
+## Legado
 El P‑80 Shooting Star es recordado como el primer caza a reacción operacional estadounidense y precursor de generaciones de aviones de combate.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

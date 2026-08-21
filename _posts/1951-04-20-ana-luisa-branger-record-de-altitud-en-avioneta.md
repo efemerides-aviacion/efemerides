@@ -55,7 +55,7 @@ El Piper J-3 Cub era un avión ligero, sencillo y fiable, diseñado originalment
 
 Los récords de aviación en la década de 1950 eran cubiertos ampliamente por la prensa internacional. Las hazañas de pilotos como Branger no solo demostraban capacidad técnica, sino que también eran motivo de orgullo nacional. Venezuela, que entonces vivía un período de bonanza petrolera y modernización, celebraba a sus pioneros como símbolos de progreso.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1918 (17 de junio):** Nace Ana Luisa de San José Branger Mordaing Long en Valencia, estado Carabobo, Venezuela.
 - **1942:** Se gradúa como piloto en la Escuela de Aviación Miguel Rodríguez en Maracay, convirtiéndose en la primera mujer venezolana en obtener licencia de piloto dentro del territorio nacional.

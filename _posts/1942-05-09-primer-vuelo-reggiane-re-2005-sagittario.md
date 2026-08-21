@@ -91,7 +91,7 @@ El Re.2005 incorporaba tecnologías de vanguardia para su época: ala baja canti
 
 El Juicio del prototipo se retrasó considerablemente debido a un incidente curioso. La célula del prototipo estuvo lista en febrero de 1942, pero el motor DB 605 que debía instalarse se extravió en la confusa red ferroviaria italiana. Se cree que fue víctima de sabotaje por parte de trabajadores ferroviarios, y no fue encontrado hasta abril de 1942, en una estación de tren de Milán.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1941:** Comienza el desarrollo del Re.2005 bajo la dirección de Roberto Longhi. El equipo de diseño completó el trabajo preliminar antes de finales de año.
 - **Febrero de 1942:** La célula del prototipo está lista, pero el motor DB 605 se retrasa.

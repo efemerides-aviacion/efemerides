@@ -43,7 +43,7 @@ Los primeros reactores como el P-80 habían demostrado su potencial, pero tambi�
 ### Entorno cultural
 Lockheed tenía una cultura de innovación impulsada por figuras como el diseñador Clarence "Kelly" Johnson y el piloto Tony LeVier. La compañía había desarrollado el P-80 en tiempo récord durante la guerra, y su enfoque de "skunk works" (equipos reducidos y autónomos) permitía adaptar rápidamente los diseños a nuevas necesidades sin esperar largos procesos contractuales.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1944:** Primer vuelo del XP-80, el prototipo del caza que se convertiría en el F-80 Shooting Star, estableciendo a Lockheed como pionera en reactores estadounidenses.
 - **1945:** Entrada en servicio del P-80A (redesignado F-80 en 1947) con la USAF.
@@ -58,14 +58,14 @@ Lockheed tenía una cultura de innovación impulsada por figuras como el diseña
 - **Décadas de 1970-1990:** Aunque reemplazado en la USAF por el Cessna T-37 Tweet y el Northrop T-38 Talon, el T-33 continúa en servicio en numerosas fuerzas aéreas de América Latina, Europa, Asia y África.
 - **Julio de 2017:** La Fuerza Aérea de Bolivia retira sus últimos T-33A operativos, poniendo fin a 69 años de servicio continuo del tipo en el mundo.
 
-### Consecuencias e Impacto
+## Consecuencias e Impacto
 
 - **Entrenamiento estandarizado:** El T-33 proporcionó un entrenamiento de transición seguro y efectivo, permitiendo a los pilotos dominar las características de vuelo de los reactores antes de pasar a cazas operativos.
 - **Exportación masiva:** Fue uno de los primeros aviones militares estadounidenses ampliamente exportados, fortaleciendo los lazos militares con aliados de la OTAN y otros países del "Tercer Mundo".
 - **Adaptabilidad:** Su diseño robusto permitió versiones armadas para combate ligero, reconocimiento fotográfico, guerra electrónica y hasta como banco de pruebas de motores.
 - **Legado industrial:** Canadair y Kawasaki mantuvieron líneas de producción prologadas, generando empleo y transferencia tecnológica en sus respectivos países.
 
-### Legado
+## Legado
 
 El Lockheed T-33 Shooting Star es uno de los aviones militares más importantes del siglo XX por varias razones:
 

@@ -53,7 +53,7 @@ El desarrollo de grandes aeronaves de carga era un campo en rápida evolución. 
 
 La aviación comercial y militar estadounidense estaba en su "Edad de Oro". Los vuelos récord, los nuevos modelos de aviones y las hazañas de los pilotos llenaban las portadas de las revistas. El C-133 estableció varios récords no oficiales, incluyendo un vuelo sin escalas de 5.150 millas desde Japón a California en 17 horas y 20 minutos.
 
-### Desarrollo Cronológico
+## Desarrollo Cronológico
 
 - **1954:** La USAF emite el requisito SS402L para un sistema de soporte logístico de gran capacidad.
 - **2 de febrero de 1956:** Sale de fábrica la primera unidad C-133A (54-0135) en Long Beach, California.

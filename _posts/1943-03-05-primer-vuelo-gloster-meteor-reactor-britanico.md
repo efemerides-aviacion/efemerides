@@ -46,7 +46,7 @@ El Meteor probó múltiples motores de fabricantes británicos, consolidando la 
 ### Entorno cultural
 El Meteor se convirtió en símbolo del ingenio británico y en el primer caza a reacción aliado en servicio.
 
-### Desarrollo cronológico
+## Desarrollo Cronológico
 - **1940:** Inicio del proyecto F.9/40.  
 - **1943, 5 mar:** Primer vuelo del prototipo DG206/G.  
 - **1944, jul:** Entrada en servicio con la RAF.  
@@ -54,10 +54,10 @@ El Meteor se convirtió en símbolo del ingenio británico y en el primer caza a
 - **1950s:** Exportación a más de una docena de países.  
 - **Actualidad:** Dos ejemplares siguen volando como bancos de pruebas para Martin-Baker.  
 
-### Consecuencias e impacto
+## Consecuencias e Impacto
 El Meteor consolidó la era del jet en la aviación militar aliada y abrió camino a generaciones posteriores de cazas a reacción.
 
-### Legado
+## Legado
 El diseño básico del Meteor resultó tan robusto que se produjeron cerca de 4.000 ejemplares hasta mediados de los años 50. Fue exportado y operado por más de una docena de fuerzas aéreas, incluyendo: **Argentina, Australia, Bélgica, Brasil, Dinamarca, Ecuador, Egipto, Francia, Israel, Países Bajos, Suecia, Siria y el Reino Unido (RAF)**. En algunos casos, como en el conflicto árabe-israelí, se enfrentaron en combate aeronaves Meteor de distintos países. Sorprendentemente, dos Meteor (matrículas WL419 y WA638) continúan volando en la actualidad como bancos de pruebas para asientos eyectables de la empresa Martin-Baker, consolidando su lugar como un hito fundamental en la historia de la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
