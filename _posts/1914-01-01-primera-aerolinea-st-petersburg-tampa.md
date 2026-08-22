@@ -50,6 +50,7 @@ La creación de la St. Petersburg–Tampa Airboat Line respondió a la necesidad
 - 1913: Percival Fansler organiza la aerolínea con Thomas Benoist.  
 - 1914-01-01: Vuelo inaugural con Abram Pheil como pasajero.  
 - 1914-05-05: La aerolínea cesa operaciones tras cuatro meses de servicio.  
+- 1919-08-27: Cinco años después, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1919/08/27/lawson-c-2-vuelo-demostracion-costa-este.html" style="color: #315fea; text-decoration: none;">Lawson C-2</a> despega de Milwaukee como primer avión de línea estadounidense diseñado desde cero para pasajeros: una escala de transporte que la Airboat Line, con su hidroavión de un solo pasajero, no podía imaginar.  
 
 ## Consecuencias e Impacto
 - Inicio del transporte aéreo comercial regular.  
