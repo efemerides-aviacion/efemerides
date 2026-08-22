@@ -14,6 +14,7 @@ image: 1929-02-05-hawks-grubb-record-transcontinental.jpg
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1929-02-05-hawks-grubb-record-transcontinental.jpg" alt="Frank Hawks y Oscar Grubb con el Lockheed Air Express">
   <figcaption class="post-caption">Lockheed Air Express NR7955 de Frank Hawks, patrocinado por Texaco, usado en el vuelo récord transcontinental Los Ángeles–Nueva York del 4-5 de febrero de 1929, con Oscar E. Grubb como acompañante. This Day in Aviation.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
@@ -22,6 +23,7 @@ image: 1929-02-05-hawks-grubb-record-transcontinental.jpg
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Datos verificados del evento
 - **Salida:** 4 de febrero de 1929, 17:37:30 PST, Metropolitan Field (Van Nuys Airport, Los Ángeles)  
 - **Llegada:** 5 de febrero de 1929, 14:59:29 EST, Roosevelt Field, Long Island, NY  
@@ -35,6 +37,7 @@ image: 1929-02-05-hawks-grubb-record-transcontinental.jpg
 - **Patrocinio:** Texaco (The Texas Company), que adquirió el avión y lo renombró “Texaco Fire Chief No. 5” para vuelos récord posteriores  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
 El vuelo de Hawks y Grubb representó un hito en la aviación comercial y técnica de finales de los años 20.
 
@@ -44,13 +47,16 @@ El vuelo de Hawks y Grubb representó un hito en la aviación comercial y técni
 
 ### Importancia del récord
 - Superó el tiempo de Arthur Goebel en 36 minutos.  
-- Consolidó la reputación de Hawks como piloto de récords y de Lockheed como fabricante innovador.  
+- Consolidó la reputación de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/03/28/nacimiento-frank-hawks-record-velocidad.html" style="color: #315fea; text-decoration: none;">Frank Hawks</a> como piloto de récords y de Lockheed como fabricante innovador.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 - El avión fue utilizado por Texaco como transporte corporativo y para vuelos de promoción.  
 - El récord contribuyó a popularizar la aviación como medio de transporte rápido y confiable en Estados Unidos.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -62,6 +68,7 @@ El vuelo de Hawks y Grubb representó un hito en la aviación comercial y técni
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Wikipedia; This Day in Aviation; Aviation Week  
