@@ -147,7 +147,7 @@ El legado de Carlos Meyer Baldó perdura en Venezuela a través de múltiples re
 
 - La **Orden al Mérito Aeronáutico "Teniente Carlos Meyer Baldó"** fue creada el 7 de octubre de 1968. Esta condecoración lleva el grado de Teniente porque ese fue el rango con el que Meyer sirvió en la Fuerza Aérea Venezolana.
 - La primera promoción de pilotos egresada el 28 de diciembre de 1947 recibió su nombre.
-- Un teatro en la Base Aérea General Rafael Urdaneta de Maracaibo lleva su nombre.
+- Un teatro en la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1974/01/02/creacion-baru.html" style="color: #315fea; text-decoration: none;">Base Aérea General Rafael Urdaneta</a> de Maracaibo lleva su nombre.
 - Un busto en su honor se encuentra en el Museo Aeronáutico de Maracay.
 
 Meyer Baldó es recordado como el único venezolano que combatió como as de caza en la Primera Guerra Mundial y como uno de los pioneros fundamentales de la aviación militar en Venezuela.

@@ -58,7 +58,7 @@ La creación del GAOE N° 15 respondió a la necesidad de contar con una unidad 
 ## Desarrollo Cronológico
 
 - **Antes de 1975:** Existían destacamentos previos de operaciones especiales en Maracaibo, como el antecedente del Grupo de Operaciones Especiales N° 2, que prepararon el terreno para la creación oficial del GAOE N° 15.
-- **14 de abril de 1975:** Se funda formalmente el GAOE N° 15 en la Base Aérea General en Jefe Rafael Urdaneta (BARU), Maracaibo. La unidad comienza a operar con aeronaves North American Rockwell OV-10E Bronco.
+- **14 de abril de 1975:** Se funda formalmente el GAOE N° 15 en la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1974/01/02/creacion-baru.html" style="color: #315fea; text-decoration: none;">Base Aérea General en Jefe Rafael Urdaneta (BARU)</a>, Maracaibo. La unidad comienza a operar con aeronaves North American Rockwell OV-10E Bronco.
 - **Décadas de 1980-1990:** El GAOE N° 15 participa activamente en operaciones de frontera, ejercicios de tiro y misiones de apoyo a fuerzas de superficie en la región occidental de Venezuela.
 - **Década de 2010:** La unidad inicia la transición hacia aeronaves Hongdu K-8W Karakorum, que asumen roles de apoyo táctico y adiestramiento avanzado.
 - **14 de abril de 2025:** La Prensa de la FANB y el perfil oficial del GAOE N° 15 conmemoran el 50° aniversario de la unidad, destacando su legado operativo.
