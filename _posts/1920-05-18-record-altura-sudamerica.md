@@ -96,7 +96,7 @@ El investigador Roberto Subauste explicó que este vuelo formaba parte de un pro
 
 ## Donald Hudson: el piloto récord
 
-[Donald Hudson nació el 21 de diciembre de 1895 en Topeka, Kansas](https://efemerides-aviacion.github.io/efemerides/aviacion-nacimiento/1895/12/21/nacimiento-donald-hudson.html). Durante la Primera Guerra Mundial sirvió en el 27º Escuadrón Aéreo, pilotando Nieuport 28 y posteriormente Spad XIII. Se le acreditan seis victorias aéreas, alcanzando el estatus de "as". Por su valor en combate, recibió la Distinguished Service Cross.
+<a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1895/12/21/nacimiento-donald-hudson.html" style="color: #315fea; text-decoration: none;">Donald Hudson nació el 21 de diciembre de 1895 en Topeka, Kansas</a>. Durante la Primera Guerra Mundial sirvió en el 27º Escuadrón Aéreo, pilotando Nieuport 28 y posteriormente Spad XIII. Se le acreditan seis victorias aéreas, alcanzando el estatus de "as". Por su valor en combate, recibió la Distinguished Service Cross.
 
 Terminada la guerra, fue contratado por el gobierno boliviano como instructor y futuro director de la Escuela Militar de Aviación. Se le otorgó el rango de Teniente Coronel.
 
