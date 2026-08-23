@@ -50,7 +50,7 @@ Hudson fue visto como símbolo de progreso y modernidad, inspirando a los primer
 - **1895:** Nace en Estados Unidos.  
 - **1917–1918:** Participa en la Primera Guerra Mundial como piloto del 27th Aero Squadron.  
 - **1919:** Llega a Bolivia con su Curtiss Wasp, realiza el primer vuelo oficial del país.  
-- **1920:** [Establece récord de altitud sobre La Paz](https://efemerides-aviacion.github.io/efemerides/evento/1920/05/18/record-altura-sudamerica.html).  
+- **1920:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1920/05/18/record-altura-sudamerica.html" style="color: #315fea; text-decoration: none;">Establece récord de altitud sobre La Paz</a>.  
 - **1967:** Fallece, dejando un legado pionero en la aviación andina.  
 
 ## Consecuencias e Impacto
