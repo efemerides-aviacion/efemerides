@@ -6,19 +6,21 @@ categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Fuerza Aérea de los Estados Unidos (USAF)
-excerpt: "El 16 de mayo de 1958, el capitán Walter W. Irwin estableció un récord mundial de velocidad de 2.259,538 km/h (1.404,012 mph) a bordo de un Lockheed F-104A Starfighter en la Base de la Fuerza Aérea Edwards, California. Ese mismo día, también estableció dos récords de tiempo de ascenso, consolidando al Starfighter como el primer avión en ostentar simultáneamente los récords mundiales de velocidad, altitud y tiempo de ascenso."
+excerpt: "El 16 de mayo de 1958, el Capitán Walter W. Irwin estableció un récord mundial de velocidad de 2.259,538 km/h (1.404,012 mph) a bordo de un Lockheed F-104A Starfighter en la Base de la Fuerza Aérea Edwards, California. Con la marca de altitud lograda nueve días antes por el Mayor Howard C. Johnson, y con los tiempos de ascenso conquistados en diciembre, el Starfighter se convirtió en el primer avión en ostentar simultáneamente los tres récords mundiales."
 image: 1958-05-16-f104-starfighter-aeronave-historica-en-records.webp
 ---
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1958-05-16-f104-starfighter-aeronave-historica-en-records.webp" alt="Lockheed F-104A Starfighter en vuelo">
-  <figcaption class="post-caption">El capitán Walter W. Irwin aterriza en Edwards AFB, California, el 16 de mayo de 1958, a bordo del Lockheed F-104A 55-2969. Fuente: U.S. Air Force / This Day in Aviation.</figcaption>
+  <figcaption class="post-caption">El Capitán Walter W. Irwin aterriza en Edwards AFB, California, el 16 de mayo de 1958, a bordo del Lockheed F-104A 55-2969. Fuente: U.S. Air Force / This Day in Aviation.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
-El 16 de mayo de 1958, el capitán Walter W. Irwin de la Fuerza Aérea de los Estados Unidos estableció un récord mundial de velocidad de 2.259,538 km/h (1.404,012 mph) a bordo de un Lockheed F-104A Starfighter en la Base de la Fuerza Aérea Edwards, California. Ese mismo día, Irwin también estableció dos récords de tiempo de ascenso: 3.000 metros en 41,8 segundos y 25.000 metros en 4 minutos y 26,03 segundos, alcanzando una altitud máxima de 27.813 metros (91.246 pies). El F-104 Starfighter se convirtió así en el primer avión en ostentar simultáneamente los récords mundiales oficiales de velocidad, altitud y tiempo de ascenso, un logro que le valió el prestigioso Trofeo Collier de 1958.
+El 16 de mayo de 1958, el Capitán Walter W. Irwin de la Fuerza Aérea de los Estados Unidos estableció un récord mundial de velocidad de 2.259,538 km/h (1.404,012 mph) a bordo de un Lockheed F-104A Starfighter en la Base de la Fuerza Aérea Edwards, California. La marca se homologó como récord mundial de velocidad sobre una base rectilínea de 15 a 25 kilómetros, volada en dos pasadas a 12.192 metros (40.000 pies) de altitud.
+
+La velocidad de Irwin se sumó al récord de altitud que el Mayor Howard C. Johnson había conquistado nueve días antes con otro Starfighter, y en diciembre de ese mismo año el aparato completó la terna con siete marcas de tiempo de ascenso. El F-104 se convirtió así en el primer avión de la historia en ostentar simultáneamente los récords mundiales oficiales de velocidad, altitud y tiempo de ascenso, un logro que le valió el prestigioso Trofeo Collier de 1958.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -28,12 +30,13 @@ El 16 de mayo de 1958, el capitán Walter W. Irwin de la Fuerza Aérea de los Es
 - **Lugar:** Base de la Fuerza Aérea Edwards, California, Estados Unidos
 - **Piloto:** Capitán Walter Wayne Irwin (1924-1978)
 - **Aeronave:** Lockheed F-104A Starfighter, número de serie 55-2969 (apodada "Queenie")
-- **Récord FAI de velocidad:** 2.259,538 km/h (1.404,012 mph) sobre un circuito de 15-25 km
+- **Récord FAI de velocidad:** 2.259,538 km/h (1.404,012 mph) sobre una base rectilínea de 15 a 25 km
+- **Expediente FAI:** n.º 9058, clase C (aviones con motor), subclase C-1 (terrestres); estado: homologado, superado con posterioridad
 - **Altitud de vuelo durante el récord:** 12.192 m (40.000 pies)
-- **Récord de tiempo de ascenso a 3.000 m:** 41,8 segundos
-- **Récord de tiempo de ascenso a 25.000 m:** 4 minutos 26,03 segundos
-- **Altitud máxima alcanzada:** 27.813 m (91.246 pies)
-- **Récord de altitud posterior (14 de diciembre de 1959):** 31.513 m (103.389 pies)
+- **Pasadas:** dos sobre la base medida
+- **Récord de altitud precedente (7 de mayo de 1958):** 27.811 m (91.243 pies), Mayor Howard C. Johnson, YF-104A 55-2957
+- **Récords de tiempo de ascenso (13 de diciembre de 1958):** siete marcas en Point Mugu, con los Tenientes Einar K. Enevoldson y William T. Smith, F-104A 56-762
+- **Récord de altitud posterior (14 de diciembre de 1959):** 31.513 m (103.389 pies), Capitán Joe B. Jordan, F-104C
 - **Premio:** Trofeo Collier de 1958 (entregado el 16 de diciembre de 1958)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -71,13 +74,15 @@ El equipo de Johnson en la Skunk Works priorizó la velocidad y la tasa de ascen
 
 ### La carrera por los récords
 
-A principios de 1958, el F-104A ya había demostrado su extraordinario potencial. El 7 de mayo de 1958, apenas nueve días antes del récord de Irwin, un F-104A alcanzó una altitud récord de 27.811 metros (91.243 pies), arrebatando la marca al <a href="https://efemerides-aviacion.github.io/efemerides/evento/1957/08/28/canberra-wk163-record-mundial-altitud.html" style="color: #315fea; text-decoration: none;">Canberra WK163, que la ostentaba desde agosto de 1957 con 21.430 m</a>. Este logro, junto con los récords del 16 de mayo, estableció al Starfighter como el avión más avanzado de su tiempo, demostrando una superioridad técnica aplastante en velocidad, altitud y capacidad de ascenso.
+A principios de 1958, el F-104A ya había demostrado su extraordinario potencial. El 7 de mayo de 1958, apenas nueve días antes del récord de Irwin, el Mayor Howard C. Johnson —oficial de operaciones del mismo 83.º Escuadrón de Cazas Interceptores— llevó el YF-104A 55-2957 hasta los 27.811 metros (91.243 pies) en un ascenso balístico sobre Edwards, arrebatando la marca al <a href="https://efemerides-aviacion.github.io/efemerides/evento/1957/08/28/canberra-wk163-record-mundial-altitud.html" style="color: #315fea; text-decoration: none;">Canberra WK163, que la ostentaba desde agosto de 1957 con 21.430 m</a>. Johnson despegó de la factoría de Lockheed en Palmdale, apagó el motor hacia los 23.470 metros para evitar que se recalentara en el aire enrarecido y lo volvió a encender en el descenso.
+
+Nueve días después llegaría la velocidad de Irwin. La terna se completaría en diciembre, con los tiempos de ascenso logrados en Point Mugu. Los tres registros juntos establecieron al Starfighter como el avión más avanzado de su tiempo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Los récords del 16 de mayo de 1958
+## El récord del 16 de mayo de 1958
 
-El 16 de mayo de 1958, el capitán Walter W. Irwin, del 83º Escuadrón de Cazas Interceptores (83rd Fighter Interceptor Squadron) con base en la Base Aérea Hamilton, California, fue asignado para volar el F-104A-1, número de serie 55-2969, en un intento por establecer un nuevo récord mundial de velocidad para la Federación Aeronáutica Internacional (FAI).
+El 16 de mayo de 1958, el Capitán Walter W. Irwin, del 83.º Escuadrón de Cazas Interceptores (83rd Fighter Interceptor Squadron) con base en la Base Aérea Hamilton, California, fue asignado para volar el F-104A-1, número de serie 55-2969, en un intento por establecer un nuevo récord mundial de velocidad para la Federación Aeronáutica Internacional (FAI).
 
 ### La aeronave: 55-2969 "Queenie"
 
@@ -85,23 +90,27 @@ Irónicamente, el avión que pilotaba Irwin era un YF-104A de preproducción mod
 
 ### El vuelo histórico
 
-Irwin realizó dos pasadas sobre un circuito medido de 15 a 25 kilómetros a una altitud de 12.192 metros (40.000 pies). La velocidad media alcanzada fue de 2.259,538 km/h (1.404,012 mph), superando la barrera de las 1.400 mph y estableciendo un nuevo récord mundial. En el mismo vuelo, también estableció dos récords de tiempo de ascenso, alcanzando 3.000 metros en 41,8 segundos y 25.000 metros en 4 minutos 26,03 segundos, llegando a una altitud máxima de 27.813 metros (91.246 pies).
+Irwin realizó dos pasadas sobre una base rectilínea medida de 15 a 25 kilómetros a una altitud de 12.192 metros (40.000 pies). La velocidad media alcanzada fue de 2.259,538 km/h (1.404,012 mph), superando la barrera de las 1.400 mph y estableciendo un nuevo récord mundial, homologado por la FAI con el número de expediente 9058.
+
+El reglamento deportivo exige promediar pasadas en sentidos opuestos, de modo que el viento no favorezca la marca: el registro es la media de las dos, no la punta de velocidad de la mejor.
 
 ### El significado del logro
 
-El F-104 se convirtió así en el **primer avión del mundo en ostentar simultáneamente los récords absolutos de velocidad, altitud y tasa de ascenso**. Por estos logros, el equipo de Lockheed y los pilotos involucrados recibieron el prestigioso Trofeo Collier el 16 de diciembre de 1958, como "el logro más grande en aeronáutica" de ese año.
+Con la velocidad de Irwin en la mano, el Starfighter sumaba dos de las tres marcas mayores de la aeronáutica: la altitud del Mayor Johnson desde el 7 de mayo y, ahora, la velocidad. La tercera llegaría el 13 de diciembre de 1958, cuando los Tenientes Einar K. Enevoldson y William T. Smith, del 538.º Escuadrón de Cazas Interceptores, encadenaron siete récords de tiempo de ascenso sobre la Estación Aeronaval de Point Mugu a bordo del F-104A 56-762, entre ellos los 3.000 metros en 41,85 segundos y los 25.000 metros en 4 minutos y 26,03 segundos.
+
+Solo entonces el F-104 se convirtió en el **primer avión del mundo en ostentar simultáneamente los récords absolutos de velocidad, altitud y tiempo de ascenso**. Por el conjunto de estos logros, el equipo de Lockheed y los pilotos involucrados recibieron el prestigioso Trofeo Collier el 16 de diciembre de 1958, como "el logro más grande en aeronáutica" de ese año. Irwin recibió además el Trofeo Thompson por su récord de velocidad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Otros récords del F-104 Starfighter
 
-- **7 de mayo de 1958:** Un F-104A establece un récord de altitud de 27.811 metros (91.243 pies).
-- **Diciembre de 1958:** El F-104 establece una serie de récords de tiempo de ascenso que complementaron sus récords de velocidad y altitud, consolidando su dominio en las tres categorías.
-- **14 de diciembre de 1959:** El capitán Joe B. Jordan, pilotando un F-104C, establece un nuevo récord de altitud de 31.513 metros (103.389 pies), siendo el primer avión en despegar por sus propios medios para superar los 30.000 metros y los 100.000 pies.
+- **7 de mayo de 1958:** el Mayor Howard C. Johnson establece un récord de altitud de 27.811 metros (91.243 pies) con el YF-104A 55-2957 sobre Edwards, batiendo por 4.362 metros la marca que el Capitán de Corbeta George C. Watkins había fijado diecisiete días antes con un Grumman F11F-1F Tiger.
+- **13 de diciembre de 1958:** los Tenientes Einar K. Enevoldson y William T. Smith, del 538.º Escuadrón de Cazas Interceptores, establecen siete récords de tiempo de ascenso en Point Mugu con el F-104A 56-762: 3.000 m en 41,85 s; 6.000 m en 58,41 s; 9.000 m en 1 min 21,14 s; 12.000 m en 1 min 39,90 s; 15.000 m en 2 min 11,1 s; 20.000 m en 3 min 42,99 s, y 25.000 m en 4 min 26,03 s. Con ellos el Starfighter completa la terna de récords mundiales.
+- **14 de diciembre de 1959:** el Capitán Joe B. Jordan, pilotando un F-104C, establece un nuevo récord de altitud de 31.513 metros (103.389 pies), siendo el primer avión en despegar por sus propios medios para superar los 30.000 metros y los 100.000 pies. Arrebata la marca al <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/27/primer-vuelo-prototipo-yf4h1-phantom-ii.html" style="color: #315fea; text-decoration: none;">prototipo YF4H-1 del Phantom II</a>, que la había fijado ocho días antes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## El capitán Walter W. Irwin: el piloto récord
+## El Capitán Walter W. Irwin: el piloto récord
 
 Walter Wayne Irwin nació el 21 de agosto de 1924 en Everett, Washington. En 1942, se alistó en el Cuerpo Aéreo del Ejército de los EE. UU. como soldado raso y fue comisionado como segundo teniente el 3 de noviembre del mismo año. Durante la Segunda Guerra Mundial, voló 88 misiones de combate en el Teatro Europeo con el Republic P-47 Thunderbolt. Fue derribado, capturado como prisionero de guerra y logró escapar una semana después, reincorporándose a las líneas aliadas.
 
@@ -113,7 +122,7 @@ Irwin se retiró de la Fuerza Aérea con el rango de coronel. Trágicamente, el 
 
 ## Consecuencias e Impacto
 
-- **Primer avión en tener récords simultáneos:** El F-104 Starfighter fue el primero en la historia en ostentar los tres récords mundiales más importantes de la aviación: velocidad, altitud y tasa de ascenso.
+- **Primer avión en tener récords simultáneos:** el F-104 Starfighter fue el primero en la historia en ostentar los tres récords mundiales más importantes de la aviación: velocidad, altitud y tiempo de ascenso. Los reunió a lo largo de 1958, en tres vuelos distintos y con tres aparatos y tres pilotos distintos.
 - **Ganador del Trofeo Collier (1958):** La Fuerza Aérea de los EE. UU. y Lockheed recibieron el premio de aviación más prestigioso de América por el diseño y las demostraciones de rendimiento del Starfighter.
 - **Símbolo de la "Edad de Oro" de los jets:** El F-104 se convirtió en un ícono de la aviación de la Guerra Fría, apodado "el misil con un hombre dentro" por su diseño extremo y su capacidad de aceleración.
 - **Éxito de exportación y controversia:** Si bien fue un éxito en términos de récords, el F-104 tuvo una carrera operativa controvertida debido a su alta tasa de accidentes, especialmente en la Fuerza Aérea Alemana. Aun así, se convirtió en el avión de combate estándar de muchos países de la OTAN, produciéndose bajo licencia en Canadá, Alemania, Italia, Japón y los Países Bajos.
@@ -125,7 +134,7 @@ Irwin se retiró de la Fuerza Aérea con el rango de coronel. Trágicamente, el 
 
 El Lockheed F-104 Starfighter sigue siendo uno de los aviones de combate más radicales y emblemáticos jamás construidos. Sus récords de velocidad, altitud y ascenso establecidos en 1958 demostraron que era posible empujar los límites de la ingeniería aeronáutica mucho más allá de lo que se creía posible.
 
-El logro del 16 de mayo de 1958, cuando el capitán Irwin y el F-104A rompieron la barrera de las 1.400 mph y alcanzaron más de 27.000 metros, fue un hito que catalizó el avance de la tecnología de los jets a nivel mundial. Durante años después, el Starfighter mantuvo su estatus como el avión de producción más rápido y con mayor capacidad de ascenso del planeta.
+El logro del 16 de mayo de 1958, cuando el Capitán Irwin y el F-104A rompieron la barrera de las 1.400 mph, fue un hito que catalizó el avance de la tecnología de los jets a nivel mundial. Durante años después, el Starfighter mantuvo su estatus como el avión de producción más rápido y con mayor capacidad de ascenso del planeta.
 
 Hoy, la aeronave 55-2969 "Queenie" no sobrevive. Fue modificada como un avión blanco no tripulado (QF-104) y fue derribada por un misil Falcon el 26 de enero de 1971 durante una misión de pruebas. Sin embargo, su legado perdura en los Starfighters preservados en museos de todo el mundo, y la leyenda del "misil con un hombre dentro" sigue inspirando a las nuevas generaciones de aviadores e ingenieros.
 
@@ -133,6 +142,7 @@ Hoy, la aeronave 55-2969 "Queenie" no sobrevive. Fue modificada como un avión b
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha del récord de velocidad:</strong> Aunque el Museo Nacional de la Fuerza Aérea de EE. UU. y GlobalSecurity.org indican el 18 de mayo de 1958, la fuente oficial de la FAI y el relato detallado de "This Day in Aviation" confirman que el récord se estableció el <strong>16 de mayo de 1958</strong>. El 18 de mayo puede referirse a la fecha en que se publicitó o certificó oficialmente el récord.</p>
+<p><strong>Sobre los récords de tiempo de ascenso:</strong> diversas fuentes divulgativas —y una versión anterior de esta misma efeméride— atribuyen al vuelo de Irwin del 16 de mayo dos marcas de tiempo de ascenso (3.000 m en 41,8 s y 25.000 m en 4 min 26,03 s) y una altitud máxima de 27.813 m. La base de datos de la FAI no respalda esa atribución: esos dos registros corresponden a los expedientes 9107 y 9080, homologados a nombre del Teniente Einar K. Enevoldson por vuelos realizados el <strong>13 de diciembre de 1958 en Point Mugu</strong> con el F-104A 56-762, y forman parte de una serie de siete marcas. Las cifras coinciden hasta la centésima de segundo con las de diciembre, lo que delata el origen del cruce. El récord de altitud de mayo de 1958 tampoco es de Irwin: son los 27.811 m del Mayor Howard C. Johnson del 7 de mayo, con el YF-104A 55-2957. El vuelo de Irwin del 16 de mayo estableció <strong>un solo récord mundial</strong>, el de velocidad.</p>
 <p><strong>Sobre la aeronave 55-2969:</strong> Este avión fue apodado "Queenie" durante su servicio posterior como banco de pruebas del motor J79 para General Electric, llevando pintados tres naipes (un rey, una reina y un as) en el morro. Fue derribado el 26 de enero de 1971, cuando operaba como blanco teledirigido QF-104, siendo alcanzado por un misil XAIM-4H Falcon disparado desde un F-4E Phantom II.</p>
 <p><strong>Sobre la producción total del F-104:</strong> Las cifras varían entre 2.578 y 2.580 unidades, dependiendo de la fuente. La versión en chino de Wikipedia indica 2.578, mientras que otras fuentes occidentales mencionan 2.580. La diferencia es mínima y ambas son aceptables.</p>
 <p><strong>Sobre la traducción de "Anhedral":</strong> El término "anhedral" se refiere al ángulo de inclinación negativa de las alas con respecto al plano horizontal. En español, a veces se utiliza "anédrico", aunque el término en inglés es ampliamente aceptado en textos técnicos. En este post se ha optado por explicar su significado: "ángulo de inclinación negativa de las alas".</p>
@@ -145,7 +155,11 @@ Hoy, la aeronave 55-2969 "Queenie" no sobrevive. Fue modificada como un avión b
 <div class="references">
   <ul>
     <li><a href="https://www.thisdayinaviation.com/16-1958/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 16 May 1958 (récord de Irwin)</a></li>
-    <li><a href="https://rankings.fai.org/record/9058" style="color: #315fea; text-decoration: none;">FAI Record File 9058 - Walter W. Irwin (USA)</a></li>
+    <li><a href="https://www.fai.org/record/9058" style="color: #315fea; text-decoration: none;">FAI, expediente 9058 – Walter W. Irwin (USA), 2.259,538 km/h, 16 de mayo de 1958</a></li>
+    <li><a href="https://www.fai.org/record/9107" style="color: #315fea; text-decoration: none;">FAI, expediente 9107 – Einar K. Enevoldson (USA), 3.000 m en 41,85 s, 13 de diciembre de 1958</a></li>
+    <li><a href="https://www.fai.org/record/9080" style="color: #315fea; text-decoration: none;">FAI, expediente 9080 – Einar K. Enevoldson (USA), 25.000 m en 4 min 26,03 s, 13 de diciembre de 1958</a></li>
+    <li><a href="https://www.fai.org/record/5056" style="color: #315fea; text-decoration: none;">FAI, expediente 5056 – Howard C. Johnson (USA), récord de altitud, 7 de mayo de 1958</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/howard-carrol-johnson/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 7 de mayo de 1958: el récord de altitud del Mayor Howard C. Johnson</a></li>
     <li><a href="https://www.rafmuseum.org.uk/research/research-enquiries/history-of-aviation-timeline/world-aviation/1958-2" style="color: #315fea; text-decoration: none;">RAF Museum - World Aviation in 1958</a></li>
     <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198067/lockheed-f-104c-starfighter/" style="color: #315fea; text-decoration: none;">National Museum of the USAF - Lockheed F-104C Starfighter</a></li>
     <li><a href="https://texashistory.unt.edu/ark:/67531/metapth1091896/m1/41/" style="color: #315fea; text-decoration: none;">Lockheed Horizons, Nº22 (December 1986)</a></li>
@@ -159,8 +173,9 @@ Hoy, la aeronave 55-2969 "Queenie" no sobrevive. Fue modificada como un avión b
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, FAI (Fédération Aéronautique Internationale), RAF Museum, National Museum of the USAF, Canadian Warplane Heritage Museum
-- **Discrepancias resueltas:** La discrepancia entre el 16 y el 18 de mayo como fecha del récord de velocidad se resuelve priorizando la fuente oficial de la FAI y el detallado artículo de "This Day in Aviation", que confirma el 16 de mayo de 1958. Las cifras de producción total del F-104 varían entre 2.578 y 2.580; ambas son correctas.
+- **Timestamp de verificación:** 2026-08-23 10:10:11 CST  
+- **Fuentes primarias/institucionales consultadas:** FAI (Fédération Aéronautique Internationale), expedientes 9058, 9107, 9080 y 5056; RAF Museum; National Museum of the USAF; Canadian Warplane Heritage Museum; Lockheed Horizons n.º 22 (diciembre de 1986), University of North Texas.
+- **Fuentes secundarias de contraste:** This Day in Aviation; Wings Over the Rockies; Wikipedia (中文), para las cifras de producción.
+- **Discrepancias resueltas:** (1) La discrepancia entre el 16 y el 18 de mayo como fecha del récord de velocidad se resuelve priorizando la fuente oficial de la FAI, que confirma el 16 de mayo de 1958; el 18 de mayo es la fecha de publicidad o certificación. (2) **Atribución de los récords de tiempo de ascenso:** se retiran del vuelo de Irwin las marcas de 3.000 m en 41,8 s y 25.000 m en 4 min 26,03 s, y la altitud máxima de 27.813 m, que una versión anterior de esta efeméride le adjudicaba siguiendo a fuentes divulgativas. Los expedientes 9107 y 9080 de la FAI acreditan esos dos tiempos a nombre del Teniente Einar K. Enevoldson, el 13 de diciembre de 1958 en Point Mugu, con el F-104A 56-762. El vuelo del 16 de mayo estableció un único récord mundial, el de velocidad (expediente 9058). (3) **Récord de altitud de mayo de 1958:** corresponde al Mayor Howard C. Johnson, 27.811 m el 7 de mayo con el YF-104A 55-2957 (expediente 5056), y no al vuelo de Irwin. (4) Las cifras de producción total del F-104 varían entre 2.578 y 2.580; ambas son aceptables.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
