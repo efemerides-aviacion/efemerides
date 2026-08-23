@@ -113,7 +113,7 @@ Su aeronave más célebre, el Travel Air Type R «Texaco 13», se conserva en el
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** TIMESTAMP_PLACEHOLDER  
+- **Timestamp de verificación:** 2026-08-23 09:37:55 CST  
 - **Fuentes primarias/institucionales consultadas:** San Diego Air &amp; Space Museum Archives (retrato), Museum of Science and Industry de Chicago (Texaco 13), State Library of New South Wales (retrato de 1937).  
 - **Fuentes secundarias de contraste:** Wikipedia (EN), This Day in Aviation.  
 - **Discrepancias resueltas:** La cifra de 214 récords punto a punto es la comúnmente citada; se distingue de los récords homologados por la FAI. El récord transcontinental del 4-5 de febrero de 1929 se conmemora en efeméride propia (fecha de culminación, 5 de febrero). La fecha y el lugar de fallecimiento (23 de agosto de 1938, East Aurora) coinciden en las fuentes y en la descripción del retrato de los archivos del museo.  
