@@ -92,7 +92,7 @@ El Canberra hizo su debut público en el Salón Aeronáutico de la SBAC en septi
 - **26 de agosto de 1952:** el prototipo B.5 VX185, con Roland Beamont, Peter Hillwood y Dennis Watson, completa el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/08/26/canberra-vx185-primer-doble-cruce-atlantico-reactor.html" style="color: #315fea; text-decoration: none;">primer doble cruce del Atlántico en un reactor, ida y vuelta el mismo día</a> (Aldergrove–Gander–Aldergrove).
 - **Octubre de 1952:** Gira de buena voluntad de cuatro Canberra B.2 del 12 Squadron de la RAF por Suramérica; visitan Venezuela y generan el interés para su adquisición.
 - **1953:** Venezuela recibe sus primeros Canberra B.Mk.2.
-- **1957:** Récord de altitud de 70.310 pies (21.430 m).
+- **28 de agosto de 1957:** el Canberra WK163, con un motor cohete Napier Double Scorpion en la bodega de bombas, establece el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1957/08/28/canberra-wk163-record-mundial-altitud.html" style="color: #315fea; text-decoration: none;">récord mundial de altitud con 21.430 m (70.310 pies)</a>.
 - **23 de junio de 2006:** Retiro del Canberra de la Royal Air Force.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
