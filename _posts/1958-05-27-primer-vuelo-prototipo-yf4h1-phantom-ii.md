@@ -92,6 +92,7 @@ Los dos prototipos YF4H-1 serían seguidos por 45 aviones de preproducción F4H-
 En sus primeros años, el Phantom II estableció una asombrosa serie de récords mundiales que demostraron su capacidad sin igual:
 
 - **6 de diciembre de 1959 – Altitud absoluta:** YF4H-1 Bu. No. 142260 alcanza 98.557 pies (30.040 m) en vuelo en picado.
+- **28 de agosto de 1961 – Velocidad a baja cota:** el F4H-1F Bu. No. 145307 *Sageburner* alcanza 1.452,777 km/h sobre un recorrido de 3 km <a href="https://efemerides-aviacion.github.io/efemerides/evento/1961/08/28/sageburner-record-velocidad-baja-cota.html" style="color: #315fea; text-decoration: none;">sin rebasar los 38 metros de altura sobre el terreno</a>.
 - **22 de noviembre de 1961 – Velocidad absoluta:** YF4H-1 Bu. No. 142260 alcanza 2.585,425 km/h (1.606,509 mph).
 - **5 de diciembre de 1961 – Altitud en vuelo horizontal:** YF4H-1 Bu. No. 142260 alcanza 20.252 m (66.444 pies).
 - **1961 – Velocidad en circuito de 15 millas:** F-4 alcanza 2.581 km/h (1.604 mph).
