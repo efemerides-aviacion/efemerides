@@ -44,7 +44,7 @@ Su matrimonio con Mabel y la llegada de su hijo le brindaron apoyo y motivación
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Hazaña destacada
-- **17 de septiembre de 1911:** Primer vuelo transcontinental en Estados Unidos, realizado con el Wright Model EX “Vin Fiz Flyer”.  
+- **17 de septiembre – 5 de noviembre de 1911:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1911/11/05/vin-fiz-primer-vuelo-transcontinental-estados-unidos.html" style="color: #315fea; text-decoration: none;">primera travesía aérea de Norteamérica</a>, realizada con el Wright Model EX “Vin Fiz Flyer” entre Sheepshead Bay (Nueva York) y Pasadena (California), en cuarenta y nueve días y con más de setenta aterrizajes.  
 - Este logro consolidó su nombre en la historia de la aviación, aunque su vida se truncó poco después en un accidente aéreo en 1912.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
