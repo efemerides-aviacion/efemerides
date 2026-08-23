@@ -35,10 +35,10 @@ image: 1931-02-04-vicente-landaeta-gil-fallece.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Contexto Histórico
-El accidente de Vicente Landaeta Gil marcó un hito en la historia de la aviación militar venezolana, al ser el primer siniestro fatal registrado en sus filas.
+El accidente de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/05/15/nacimiento-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Vicente Landaeta Gil</a> marcó un hito en la historia de la aviación militar venezolana, al ser el primer siniestro fatal registrado en sus filas.
 
 ### Homenajes
-- La [Base Aérea Teniente Vicente Landaeta Gil (Balanda)](https://efemerides-aviacion.github.io/efemerides/fundacion/1964/02/14/base-aerea-vicente-landaeta-gil.html) en Barquisimeto lleva su nombre desde 1964.  
+- La <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1964/02/14/base-aerea-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Base Aérea Teniente Vicente Landaeta Gil (Balanda)</a> en Barquisimeto lleva su nombre desde 1964.  
 - Fue pionero de la Primera Promoción de Aviadores Militares venezolanos.  
 
 ### Cobertura periodística

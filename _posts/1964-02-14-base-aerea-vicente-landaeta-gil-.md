@@ -33,7 +33,7 @@ image: 1964-02-14-base-aerea-vicente-landaeta-gil.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
-La base fue nombrada en honor al Teniente Vicente Landaeta Gil, integrante de la primera promoción de aviadores militares venezolanos, fallecido el 4 de febrero de 1931 <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1931/02/04/vicente-landaeta-gil-fallece.html" style="color: #315fea; text-decoration: none;">en el primer accidente aéreo registrado en Venezuela</a>.
+La base fue nombrada en honor al <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/05/15/nacimiento-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Teniente Vicente Landaeta Gil</a>, integrante de la primera promoción de aviadores militares venezolanos, fallecido el 4 de febrero de 1931 <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1931/02/04/vicente-landaeta-gil-fallece.html" style="color: #315fea; text-decoration: none;">en el primer accidente aéreo registrado en Venezuela</a>.
 
 ### Entorno social
 La creación de la base respondió a la necesidad de fortalecer la presencia militar en la región centro-occidental del país, con jurisdicción sobre Lara, Falcón, Yaracuy, Portuguesa, Barinas y Cojedes.
