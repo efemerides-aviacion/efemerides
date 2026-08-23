@@ -71,7 +71,7 @@ El equipo de Johnson en la Skunk Works priorizó la velocidad y la tasa de ascen
 
 ### La carrera por los récords
 
-A principios de 1958, el F-104A ya había demostrado su extraordinario potencial. El 7 de mayo de 1958, apenas nueve días antes del récord de Irwin, un F-104A alcanzó una altitud récord de 27.813 metros (91.243 pies). Este logro, junto con los récords del 16 de mayo, estableció al Starfighter como el avión más avanzado de su tiempo, demostrando una superioridad técnica aplastante en velocidad, altitud y capacidad de ascenso.
+A principios de 1958, el F-104A ya había demostrado su extraordinario potencial. El 7 de mayo de 1958, apenas nueve días antes del récord de Irwin, un F-104A alcanzó una altitud récord de 27.811 metros (91.243 pies), arrebatando la marca al <a href="https://efemerides-aviacion.github.io/efemerides/evento/1957/08/28/canberra-wk163-record-mundial-altitud.html" style="color: #315fea; text-decoration: none;">Canberra WK163, que la ostentaba desde agosto de 1957 con 21.430 m</a>. Este logro, junto con los récords del 16 de mayo, estableció al Starfighter como el avión más avanzado de su tiempo, demostrando una superioridad técnica aplastante en velocidad, altitud y capacidad de ascenso.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -95,7 +95,7 @@ El F-104 se convirtió así en el **primer avión del mundo en ostentar simultá
 
 ## Otros récords del F-104 Starfighter
 
-- **7 de mayo de 1958:** Un F-104A establece un récord de altitud de 27.813 metros (91.243 pies).
+- **7 de mayo de 1958:** Un F-104A establece un récord de altitud de 27.811 metros (91.243 pies).
 - **Diciembre de 1958:** El F-104 establece una serie de récords de tiempo de ascenso que complementaron sus récords de velocidad y altitud, consolidando su dominio en las tres categorías.
 - **14 de diciembre de 1959:** El capitán Joe B. Jordan, pilotando un F-104C, establece un nuevo récord de altitud de 31.513 metros (103.389 pies), siendo el primer avión en despegar por sus propios medios para superar los 30.000 metros y los 100.000 pies.
 
