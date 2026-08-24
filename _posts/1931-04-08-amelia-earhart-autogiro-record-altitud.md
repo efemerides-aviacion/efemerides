@@ -37,7 +37,7 @@ image: 1931-04-08-amelia-earhart-autogiro-record-altitud.webp
 
 ## Contexto Histórico
 
-A principios de la década de 1930, el autogiro era una tecnología revolucionaria. Inventado por el ingeniero español Juan de la Cierva en 1923, el autogiro utilizaba un rotor no motorizado en autorrotación para generar sustentación, lo que le permitía volar a bajas velocidades y aterrizar en espacios reducidos sin necesidad de largas pistas.
+A principios de la década de 1930, el autogiro era una tecnología revolucionaria. Inventado por el ingeniero español <a href="https://efemerides-aviacion.github.io/efemerides/evento/1923/01/31/primer-circuito-cerrado-autogiro-c-4.html" style="color: #315fea; text-decoration: none;">Juan de la Cierva en 1923</a>, el autogiro utilizaba un rotor no motorizado en autorrotación para generar sustentación, lo que le permitía volar a bajas velocidades y aterrizar en espacios reducidos sin necesidad de largas pistas.
 
 ### Entorno social
 
