@@ -36,7 +36,7 @@ image: 1974-01-02-creacion-baru.webp
 - **Operador:** Fuerza Aérea Venezolana
 - **Funciones iniciales:** defensa aérea, apoyo operativo y entrenamiento
 - **Primera unidad operativa permanente:** Grupo Aéreo de Operaciones Especiales N.º 15, equipado con North American Rockwell OV-10E Bronco.
-- **Primer comandante del Grupo y de la base:** Teniente Coronel (Av.) Alfonso Lisandro Navarro Villarroel.
+- **Primer comandante del Grupo y de la base:** Teniente Coronel (Av.) Alfonso Lisandro Navarro Villaroel.
 - **Autoridades civiles o militares asistentes al acto.** \[NO CONFIRMADO\]
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -66,7 +66,7 @@ La base se convirtió en referente institucional de la aviación militar en el o
 - **16 de noviembre de 1969:** inauguración del Aeropuerto Internacional de La Chinita por el Presidente Rafael Caldera.
 - **1973:** planificación y ejecución de obras de infraestructura militar en el recinto de La Chinita.
 - **2 de enero de 1974:** creación de la Base Aérea «General Rafael Urdaneta» por Resolución N.º A-0011 del Ministro de la Defensa, General Gustavo Pardi Dávila.
-- **18 de febrero de 1975:** por Resolución Ministerial se ordena el traslado del Grupo de Operaciones Especiales N.º 2 desde la Base Aérea «Tte. (F) Vicente Landaeta Gil» a la BARU, ocupando provisionalmente las instalaciones de La Chinita; el grupo pasa a denominarse Grupo Aéreo de Operaciones Especiales N.º 15. Su primer comandante, Teniente Coronel (Av.) Alfonso Lisandro Navarro Villarroel, asumió también el comando de la nueva base.
+- **18 de febrero de 1975:** por Resolución Ministerial se ordena el traslado del Grupo de Operaciones Especiales N.º 2 desde la Base Aérea «Tte. (F) Vicente Landaeta Gil» a la BARU, ocupando provisionalmente las instalaciones de La Chinita; el grupo pasa a denominarse Grupo Aéreo de Operaciones Especiales N.º 15. Su primer comandante, Teniente Coronel (Av.) Alfonso Lisandro Navarro Villaroel, asumió también el comando de la nueva base.
 - **Década de 1980:** consolidación del mando regional e integración progresiva de unidades de mantenimiento.
 - **8 de marzo de 2012:** inauguración del Centro de Mantenimiento Aeronáutico Occidental en la BARU, considerado el más moderno de Venezuela.
 
@@ -95,6 +95,7 @@ Cincuenta y dos años después de su creación, la Base Aérea Rafael Urdaneta s
     <li>Ejército Bolivariano. «Año 1974, se inaugura la Base Aérea “General en Jefe Rafael Urdaneta”», X, 2 de enero de 2022. <a href="https://x.com/somos_ejercito/status/1477615118053748739" style="color: #315fea; text-decoration: none;">Ejército Bolivariano</a></li>
     <li>Ochoa Vargas, José Luis. «12 de enero de 1974: es creada la Base Aérea “General Rafael Urdaneta”», Fav Ven, s.f.</li>
     <li>Ochoa Vargas, José Luis. «Anécdota FAV: una más del “Loco Navarro”», Fav Ven, 11 de marzo de 2017. <a href="https://www.facebook.com/story.php?story_fbid=428711087474620&id=100010071971769" style="color: #315fea; text-decoration: none;">Fav Ven</a></li>
+    <li>Fuerza Aérea Venezolana. <em>Promociones Egresadas de la Escuela de Aviación Militar de Venezuela, desde los años de 1921 hasta 1970.</em> Publicación del Año Jubilar de la Aviación Venezolana. Caracas, 1970, pág. 28.</li>
     <li>Universidad Militar Bolivariana de Venezuela, Secretaría de la Academia Militar de la Aviación Bolivariana. <em>Libro de Promociones de la Academia Militar de la Aviación Bolivariana, 1920-2016.</em> Boca de Río, 6 de marzo de 2017, pág. 38.</li>
   </ul>
 </div>
@@ -106,16 +107,16 @@ Cincuenta y dos años después de su creación, la Base Aérea Rafael Urdaneta s
 </div>
 
 <div class="note-box">
-<p><strong>Nota sobre el primer comandante:</strong> la identidad del primer comandante requiere precisión onomástica. Los textos de José Luis Ochoa Vargas sobre BARU y sobre el piloto apodado «Cóndor» lo nombran «Alfonso Lisandro Navarro Villarroel»; el <em>Libro de Promociones de la Academia Militar de la Aviación Bolivariana, 1920-2016</em> registra en la promoción de 1957 a «Navarro Villaroel, Alfonzo Lizandro». Se adopta el apellido Navarro Villarroel y la grafía «Alfonso Lisandro», usada en los relatos biográficos del propio autor. En 1975 ostentaba el grado de teniente coronel; pasó a retiro como coronel en 1987.</p>
+<p><strong>Nota sobre el primer comandante:</strong> la identidad del primer comandante requiere precisión onomástica. Dos publicaciones institucionales de la propia Fuerza Aérea lo registran de la misma forma: el folleto <em>Promociones Egresadas de la Escuela de Aviación Militar de Venezuela, 1921-1970</em> (Año Jubilar de la Aviación Venezolana, 1970), en la página 28, y el <em>Libro de Promociones de la Academia Militar de la Aviación Bolivariana, 1920-2016</em> (Boca de Río, 2017), en la página 38, dan el apellido como <strong>Navarro Villaroel</strong>, con una sola erre. Ambas fuentes coinciden además en la grafía «Alfonso Lisandro» del nombre de pila; la publicación de 2017, transcrita de listas mecanografiadas antiguas, anota «Alfonzo Lizandro», variante menor de transcripción. Los relatos del coronel José Luis Ochoa Vargas difundidos por Fav Ven escriben el apellido «Villarroel» con dos erres, pero se trata de fuentes secundarias de carácter conmemorativo. Por la autoridad y contemporaneidad de los registros institucionales, se adopta <strong>Alfonso Lisandro Navarro Villaroel</strong>. En 1975, al asumir el mando, ostentaba el grado de teniente coronel; pasó a retiro como coronel en 1987.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-24 06:02:17 CST
-- **Fuentes primarias/institucionales consultadas:** Paredes (Ediciones Históricas FAV, 1997); Museo del Transporte Caracas; Universidad Militar Bolivariana de Venezuela / Academia Militar de la Aviación Bolivariana, <em>Libro de Promociones 1920-2016</em> (2017)
-- **Discrepancias resueltas:** Wikipedia fecha la base en 1971; Paredes, el Museo del Transporte y la cuenta conmemorativa del Ejército Bolivariano documentan el 2 de enero de 1974. Se adopta la fecha de la fuente institucional con resolución específica. El apellido del primer comandante se corrige de «Alvarado» a «Navarro Villarroel» a partir de dos textos de Ochoa Vargas y del registro de la promoción de 1957 de la Academia Militar de la Aviación.
+- **Timestamp de verificación:** 2026-08-24 08:52:56 CST
+- **Fuentes primarias/institucionales consultadas:** Paredes (Ediciones Históricas FAV, 1997); Museo del Transporte Caracas; Fuerza Aérea Venezolana, <em>Promociones Egresadas de la EAM 1921-1970</em> (Año Jubilar, 1970, pág. 28); Universidad Militar Bolivariana de Venezuela / Academia Militar de la Aviación Bolivariana, <em>Libro de Promociones 1920-2016</em> (2017, pág. 38)
+- **Discrepancias resueltas:** Wikipedia fecha la base en 1971; Paredes, el Museo del Transporte y la cuenta conmemorativa del Ejército Bolivariano documentan el 2 de enero de 1974. Se adopta la fecha de la fuente institucional con resolución específica. El apellido del primer comandante se corrige de «Alvarado» a «Navarro Villaroel» (una sola erre), grafía confirmada por dos publicaciones institucionales de la Fuerza Aérea: el folleto del Año Jubilar de 1970 y el libro de promociones de la AMB de 2017; los textos de Ochoa Vargas en Fav Ven usan «Villarroel» con dos erres y quedan como fuente secundaria.
 - **Datos no confirmados:** Autoridades civiles o militares asistentes al acto.
 - **Nivel de confianza:** Medio-Alto
 - **Cláusula final:** Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].
