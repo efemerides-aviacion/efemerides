@@ -12,13 +12,13 @@ image: 1942-04-18-incursion-doolittle.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1942-04-18-incursion-doolittle.webp" alt="B-25 despegando del USS Hornet">
-  <figcaption class="post-caption">EE. UU./Japón: El teniente coronel James «Jimmy» Doolittle realiza un despegue a toda potencia en un bombardero medio B-25 Mitchell desde la cubierta del USS Hornet, a 1.046 km de Japón, para llevar a cabo la «incursión Doolittle» contra Tokio, el 18 de abril de  1942. (Foto: Pictures from History/Universal Images Group a través de Getty Images).</figcaption>
+  <figcaption class="post-caption">EE. UU./Japón: El Teniente Coronel James «Jimmy» Doolittle realiza un despegue a toda potencia en un bombardero medio B-25 Mitchell desde la cubierta del USS Hornet, a 1.046 km de Japón, para llevar a cabo la «incursión Doolittle» contra Tokio, el 18 de abril de  1942. (Foto: Pictures from History/Universal Images Group a través de Getty Images).</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 18 de abril de 1942, dieciséis bombarderos B-25 Mitchell despegaron desde la cubierta del portaaviones USS Hornet (CV-8) para realizar el primer bombardeo aéreo estadounidense sobre Japón. La incursión, liderada por el teniente coronel James H. "Jimmy" Doolittle, fue concebida como una respuesta directa al ataque japonés contra Pearl Harbor del 7 de diciembre de 1941. Aunque el daño material fue limitado, la misión demostró que el archipiélago japonés era vulnerable a ataques aéreos, elevó la moral estadounidense y provocó profundas consecuencias estratégicas en la guerra del Pacífico.</p>
+<p>El 18 de abril de 1942, dieciséis bombarderos B-25 Mitchell despegaron desde la cubierta del portaaviones USS Hornet (CV-8) para realizar el primer bombardeo aéreo estadounidense sobre Japón. La incursión, liderada por el Teniente Coronel James H. "Jimmy" Doolittle, fue concebida como una respuesta directa al ataque japonés contra Pearl Harbor del 7 de diciembre de 1941. Aunque el daño material fue limitado, la misión demostró que el archipiélago japonés era vulnerable a ataques aéreos, elevó la moral estadounidense y provocó profundas consecuencias estratégicas en la guerra del Pacífico.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -29,7 +29,7 @@ image: 1942-04-18-incursion-doolittle.webp
 - **Lugar:** Tokio, Yokohama, Nagoya, Kobe, Osaka y Yokosuka, Japón
 - **Aeronaves:** 16 North American B-25B Mitchell (bombarderos medios)
 - **Portaaviones:** USS Hornet (CV-8) (lanzamiento); USS Enterprise (CV-6) (escolta)
-- **Comandante de la misión:** Teniente coronel James H. "Jimmy" Doolittle (USAAF)
+- **Comandante de la misión:** Teniente Coronel James H. "Jimmy" Doolittle (USAAF)
 - **Comandante del grupo naval:** Vicealmirante William F. "Bull" Halsey Jr.
 - **Tripulaciones:** 80 aviadores (52 oficiales, 28 suboficiales y soldados)
 - **Punto de lanzamiento:** Aprox. 1.046 km (650 millas) al este de Tokio
@@ -54,16 +54,16 @@ El desafío técnico era enorme: ningún bombardero terrestre había despegado j
 
 ### Entorno cultural
 
-La incursión combinó por primera vez de manera masiva fuerzas del Ejército (USAAF) y la Armada (US Navy) en una operación conjunta. El capitán de navío Francis Low fue quien propuso la idea al observar B-25 despegando desde una pista con forma de cubierta de portaaviones. El teniente Henry L. Miller, de la Armada, entrenó a los pilotos del Ejército en despegues ultracortos (menos de 150 metros).
+La incursión combinó por primera vez de manera masiva fuerzas del Ejército (USAAF) y la Armada (US Navy) en una operación conjunta. El Capitán de Navío Francis Low fue quien propuso la idea al observar B-25 despegando desde una pista con forma de cubierta de portaaviones. El Teniente Henry L. Miller, de la Armada, entrenó a los pilotos del Ejército en despegues ultracortos (menos de 150 metros).
 
 ## Desarrollo Cronológico
 
-- **Enero de 1942:** El capitán Francis Low propone la idea de bombardear Japón con B-25 desde un portaaviones.
-- **Febrero de 1942:** El teniente coronel Jimmy Doolittle es seleccionado para planificar y liderar la misión.
+- **Enero de 1942:** El Capitán Francis Low propone la idea de bombardear Japón con B-25 desde un portaaviones.
+- **Febrero de 1942:** El Teniente Coronel Jimmy Doolittle es seleccionado para planificar y liderar la misión.
 - **Marzo de 1942:** Entrenamiento intensivo de las tripulaciones en Eglin Field, Florida, en despegues desde pistas de 150 metros.
 - **31 de marzo - 1 de abril de 1942:** Los 16 B-25 son cargados en el USS Hornet en Alameda, California.
 - **2 de abril de 1942:** El Hornet zarpa con destino al Pacífico central.
-- **13 de abril de 1942:** El Hornet se encuentra con el USS Enterprise y su Task Force 16 al mando del almirante Halsey.
+- **13 de abril de 1942:** El Hornet se encuentra con el USS Enterprise y su Task Force 16 al mando del Almirante Halsey.
 - **18 de abril de 1942, 07:38:** La fuerza es avistada por el barco patrullero japonés Nitto Maru Nº 23, que es hundido, pero alcanza a transmitir una alerta por radio.
 - **18 de abril de 1942, 08:20:** Doolittle despega en el primer B-25. En la siguiente hora despegan los otros 15.
 - **18 de abril de 1942, aprox. 14:00:** Los bombarderos alcanzan Japón y atacan objetivos en Tokio, Yokohama, Nagoya, Kobe, Osaka y Yokosuka.
@@ -80,7 +80,7 @@ La incursión del 18 de abril de 1942 fue una operación compleja que combinó a
 
 ### El despegue anticipado
 
-El plan original contemplaba lanzar los bombarderos a 800 km (500 millas) de la costa japonesa. Sin embargo, a las 07:38 del 18 de abril, el destructor USS Nashville detectó y hundió al patrullero Nitto Maru Nº 23, que había transmitido una alerta por radio a Tokio. Temiendo un ataque aéreo japonés contra el grupo naval (que incluía a los dos únicos portaaviones operativos de la flota del Pacífico), el almirante Halsey ordenó el lanzamiento inmediato, a 1.046 km (650 millas) de Japón, 10 horas antes y 250 millas más lejos de lo previsto.
+El plan original contemplaba lanzar los bombarderos a 800 km (500 millas) de la costa japonesa. Sin embargo, a las 07:38 del 18 de abril, el destructor USS Nashville detectó y hundió al patrullero Nitto Maru Nº 23, que había transmitido una alerta por radio a Tokio. Temiendo un ataque aéreo japonés contra el grupo naval (que incluía a los dos únicos portaaviones operativos de la flota del Pacífico), el Almirante Halsey ordenó el lanzamiento inmediato, a 1.046 km (650 millas) de Japón, 10 horas antes y 250 millas más lejos de lo previsto.
 
 ### Los objetivos y la ejecución
 
@@ -90,11 +90,11 @@ Los bombarderos encontraron poca resistencia antiaérea y solo algunos cazas. Un
 
 ### Las bajas y el cautiverio
 
-De los 80 tripulantes, tres murieron durante la misión: dos ahogados al caer su avión al mar y uno al saltar en paracaídas sobre China. Ocho fueron capturados por los japoneses. De ellos, el teniente William G. Farrow, el teniente Dean E. Hallmark y el soldado Harold A. Spatz fueron ejecutados el 15 de octubre de 1942. El teniente Robert J. Meder murió de enfermedad el 1 de diciembre de 1943. Los cuatro restantes (teniente Robert L. Hite, teniente George Barr, teniente Chase Nielsen y cabo Jacob DeShazer) sobrevivieron en cautiverio y fueron liberados en agosto de 1945.
+De los 80 tripulantes, tres murieron durante la misión: dos ahogados al caer su avión al mar y uno al saltar en paracaídas sobre China. Ocho fueron capturados por los japoneses. De ellos, el Teniente William G. Farrow, el Teniente Dean E. Hallmark y el Soldado Harold A. Spatz fueron ejecutados el 15 de octubre de 1942. El Teniente Robert J. Meder murió de enfermedad el 1 de diciembre de 1943. Los cuatro restantes (Teniente Robert L. Hite, Teniente George Barr, Teniente Chase Nielsen y Cabo Jacob DeShazer) sobrevivieron en cautiverio y fueron liberados en agosto de 1945.
 
 ### El avión que aterrizó en Rusia
 
-Un B-25, pilotado por el capitán Edward J. York, no pudo llegar a China y aterrizó en Vladivostok, en la Unión Soviética. Como la URSS mantenía un pacto de neutralidad con Japón, el avión fue confiscado y la tripulación internada durante 13 meses. Finalmente escaparon a través de Irán y regresaron a Estados Unidos.
+Un B-25, pilotado por el Capitán Edward J. York, no pudo llegar a China y aterrizó en Vladivostok, en la Unión Soviética. Como la URSS mantenía un pacto de neutralidad con Japón, el avión fue confiscado y la tripulación internada durante 13 meses. Finalmente escaparon a través de Irán y regresaron a Estados Unidos.
 
 ### Las represalias contra China
 
@@ -106,7 +106,7 @@ En los tres meses siguientes a la incursión, el ejército japonés lanzó la ca
 
 - **Impacto moral en EE. UU.:** La noticia de la incursión elevó drásticamente la moral estadounidense. Doolittle, que creía que la misión había sido un desastre y esperaba un consejo de guerra, fue recibido como un héroe y recibió la Medalla de Honor.
 
-- **Impacto estratégico en Japón:** La incursión demostró que el territorio japonés era vulnerable. El almirante Isoroku Yamamoto, que ya había propuesto atacar Midway, utilizó la incursión para convencer al Estado Mayor de la Marina de la necesidad de esa operación. La Batalla de Midway (4-7 de junio de 1942) resultó en una derrota decisiva para Japón, que perdió cuatro portaaviones y cambió el curso de la guerra del Pacífico.
+- **Impacto estratégico en Japón:** La incursión demostró que el territorio japonés era vulnerable. El Almirante Isoroku Yamamoto, que ya había propuesto atacar Midway, utilizó la incursión para convencer al Estado Mayor de la Marina de la necesidad de esa operación. La Batalla de Midway (4-7 de junio de 1942) resultó en una derrota decisiva para Japón, que perdió cuatro portaaviones y cambió el curso de la guerra del Pacífico.
 
 - **Redistribución de fuerzas japonesas:** La incursión obligó a Japón a destinar escuadrones de caza a la defensa del territorio nacional, debilitando sus fuerzas en otros frentes.
 
