@@ -6,7 +6,7 @@ categories: [fundacion]
 author: Enrique Pomares
 pais: Francia
 operator: Ejército del Aire Francés (Armée de l'Air)
-excerpt: "El 10 de mayo de 1931, tres instructores de la Escuela de Perfeccionamiento de Pilotos de Étampes-Mondésir, liderados por el capitán Amouroux, realizaron la primera demostración de vuelo acrobático en formación, dando origen a la Patrouille d’Étampes, la patrulla acrobática más antigua del mundo y antecesora de la Patrouille de France."
+excerpt: "El 10 de mayo de 1931, tres instructores de la Escuela de Perfeccionamiento de Pilotos de Étampes-Mondésir, liderados por el Capitán Amouroux, realizaron la primera demostración de vuelo acrobático en formación, dando origen a la Patrouille d’Étampes, la patrulla acrobática más antigua del mundo y antecesora de la Patrouille de France."
 image: 1931-05-10-fundacion-patrouille-d-etampes.webp
 ---
 
@@ -19,7 +19,7 @@ image: 1931-05-10-fundacion-patrouille-d-etampes.webp
 
 ## Resumen Ejecutivo
 
-El 10 de mayo de 1931, la Patrouille d’Étampes se presentó en Orly en uno de sus primeros meetings, marcando el inicio formal de la acrobacia aérea militar francesa. La unidad volaba entonces con tres Morane-Saulnier MS.230 y estaba dirigida por el capitán Édouard Amouroux, acompañado por los adjutantes Dumas y Carlier. Su aparición en 1931 es el origen histórico de la futura Patrouille de France, que hoy es reconocida como la patrulla acrobática más antigua del mundo en servicio activo.
+El 10 de mayo de 1931, la Patrouille d’Étampes se presentó en Orly en uno de sus primeros meetings, marcando el inicio formal de la acrobacia aérea militar francesa. La unidad volaba entonces con tres Morane-Saulnier MS.230 y estaba dirigida por el Capitán Édouard Amouroux, acompañado por los adjutantes Dumas y Carlier. Su aparición en 1931 es el origen histórico de la futura Patrouille de France, que hoy es reconocida como la patrulla acrobática más antigua del mundo en servicio activo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -77,7 +77,7 @@ La Escuela de Perfeccionamiento de Pilotos (EPP) se creó en Étampes-Mondésir 
 
 ### El nacimiento de la patrulla (10 de mayo de 1931)
 
-En 1931, el capitán Amouroux, junto con los adjutantes Dumas y Carlier, formaron la primera patrulla acrobática oficial con tres aviones Morane-Saulnier MS.230. Realizaron su primera demostración en el meeting de Orly con motivo de la llegada del Tour de France aérien. El éxito fue inmediato. El periodista de la época describió a la patrulla como tres pilotos que "en un estilo espléndido igualaron a los mejores ases del momento". Esta formación fue puesta bajo el mando del capitán Pierre Fleurquin y, debido a su creciente popularidad, fue elegida para representar a Francia en eventos aéreos internacionales.
+En 1931, el Capitán Amouroux, junto con los adjutantes Dumas y Carlier, formaron la primera patrulla acrobática oficial con tres aviones Morane-Saulnier MS.230. Realizaron su primera demostración en el meeting de Orly con motivo de la llegada del Tour de France aérien. El éxito fue inmediato. El periodista de la época describió a la patrulla como tres pilotos que "en un estilo espléndido igualaron a los mejores ases del momento". Esta formación fue puesta bajo el mando del Capitán Pierre Fleurquin y, debido a su creciente popularidad, fue elegida para representar a Francia en eventos aéreos internacionales.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -85,14 +85,14 @@ En 1931, el capitán Amouroux, junto con los adjutantes Dumas y Carlier, formaro
 
 - **1913 (noviembre):** Adolphe Pégoud realiza las primeras acrobacias aéreas modernas (looping, vuelo invertido) en Buc (78), a bordo de un Blériot XI
 - **1930:** Creación de la Escuela de Perfeccionamiento de Pilotos (EPP) en Étampes-Mondésir
-- **10 de mayo de 1931:** El capitán Amouroux, Dumas y Carlier forman la primera patrulla acrobática con tres Morane-Saulnier MS.230 y se presentan en Orly
-- **1932-1939:** Bajo el mando del capitán Pierre Fleurquin, la Patrouille d’Étampes representa a Francia en certámenes internacionales
+- **10 de mayo de 1931:** El Capitán Amouroux, Dumas y Carlier forman la primera patrulla acrobática con tres Morane-Saulnier MS.230 y se presentan en Orly
+- **1932-1939:** Bajo el mando del Capitán Pierre Fleurquin, la Patrouille d’Étampes representa a Francia en certámenes internacionales
 - **1934:** La patrulla comienza a recibir los nuevos Morane-Saulnier MS.225
 - **1935:** La patrulla se consolida con cinco aviones MS.225 (formación que aparece en la fotografía)
 - **1937:** La patrulla se traslada a Salon-de-Provence y se convierte en la "Patrouille de l’École de l’Air". Recibe el premio "Palma de la Elegancia" en Zúrich
 - **1939-1945:** Segunda Guerra Mundial. La patrulla cesa sus actividades
-- **1946-1947:** El capitán Perrier, veterano de la Patrouille d’Étampes, forma una nueva patrulla en Tours con biplanos Stampe SV.4. La patrulla se traslada de nuevo a Étampes en 1947, adoptando el nombre de "Escadrille de Présentation de l’Armée de l’Air"
-- **1952:** El comandante Pierre Delachenal, del 3er Escuadrón de Caza, forma una patrulla de cuatro Republic F-84G Thunderjet en la Base Aérea 112 de Reims-Champagne
+- **1946-1947:** El Capitán Perrier, veterano de la Patrouille d’Étampes, forma una nueva patrulla en Tours con biplanos Stampe SV.4. La patrulla se traslada de nuevo a Étampes en 1947, adoptando el nombre de "Escadrille de Présentation de l’Armée de l’Air"
+- **1952:** El Comandante Pierre Delachenal, del 3er Escuadrón de Caza, forma una patrulla de cuatro Republic F-84G Thunderjet en la Base Aérea 112 de Reims-Champagne
 - **17 de mayo de 1953:** Durante un meeting aéreo en Maison-Blanche (Argelia), el comentarista Jacques Noetinger bautiza a la formación como "Patrouille de France"
 - **14 de septiembre de 1953:** El Estado Mayor del Ejército del Aire francés oficializa el nombre de "Patrouille de France"
 
@@ -121,12 +121,12 @@ El 10 de mayo de 1931 marcó el nacimiento de una tradición que se mantiene viv
 
 Del frágil MS.230 de madera y tela a los modernos Alpha Jet, pasando por los Stampe biplanos de posguerra y los primeros reactores F-84G, la patrulla ha evolucionado tecnológicamente, pero el espíritu de camaradería, precisión y audacia que demostraron aquellos pioneros en Étampes sigue siendo el alma de la institución. Atados con cuerdas o con sofisticados sistemas de comunicación, los pilotos franceses siguen volando al límite, hombro con hombro, honrando a aquellos que les abrieron el camino.
 
-El aeródromo de Étampes-Mondésir, hoy convertido en un aeródromo de aviación general, mantiene viva la memoria de aquellos pioneros. En 2011, con motivo del 80 aniversario de la creación de la patrulla, la Patrouille de France regresó a Étampes para rendir homenaje a sus orígenes, sobrevolando el campo donde todo comenzó. El capitán Stéphane Azou declaró entonces: "Rendir homenaje a la Patrouille d'Etampes es algo natural, porque tenemos una cultura de los mayores. Nos abrieron el camino y estamos orgullosos de ello. Sin ellos, todo lo que hacemos no sería visible".
+El aeródromo de Étampes-Mondésir, hoy convertido en un aeródromo de aviación general, mantiene viva la memoria de aquellos pioneros. En 2011, con motivo del 80 aniversario de la creación de la patrulla, la Patrouille de France regresó a Étampes para rendir homenaje a sus orígenes, sobrevolando el campo donde todo comenzó. El Capitán Stéphane Azou declaró entonces: "Rendir homenaje a la Patrouille d'Etampes es algo natural, porque tenemos una cultura de los mayores. Nos abrieron el camino y estamos orgullosos de ello. Sin ellos, todo lo que hacemos no sería visible".
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
-<p><strong>Nota aclaratoria sobre la fecha del 10 de mayo de 1931:</strong> Esta es la fecha en que la Patrouille d’Étampes realizó su primera demostración pública en Orly con motivo de la llegada del Tour de France aérien. La patrulla fue creada en 1931 por instructores de la Escuela de Perfeccionamiento de Pilotos de Étampes-Mondésir, siendo el capitán Amouroux el responsable del proyecto.</p>
+<p><strong>Nota aclaratoria sobre la fecha del 10 de mayo de 1931:</strong> Esta es la fecha en que la Patrouille d’Étampes realizó su primera demostración pública en Orly con motivo de la llegada del Tour de France aérien. La patrulla fue creada en 1931 por instructores de la Escuela de Perfeccionamiento de Pilotos de Étampes-Mondésir, siendo el Capitán Amouroux el responsable del proyecto.</p>
 <p><strong>Sobre la fotografía que acompaña este artículo:</strong> La imagen data de 1935 (no de 1931) y muestra el vuelo invertido (“vol dos”) de cinco aviones Morane-Saulnier MS.225 de la Patrouille d’Étampes sobre el estanque de Berre. Es una de las imágenes más emblemáticas de la historia de la aviación acrobática francesa, correspondiente a una etapa posterior de la patrulla, cuando ya había crecido a cinco aeronaves.</p>
 <p><strong>Sobre el nombre "Patrouille de France":</strong> El nombre no se utilizó oficialmente hasta 1953, cuando un comentarista radiofónico bautizó así a una formación de cuatro F-84G durante un meeting en Argelia. La Patrouille d’Étampes es, por tanto, el antecedente original, no la denominación de la actual patrulla.</p>
 <p><strong>Sobre la antigüedad mundial:</strong> La Patrouille d’Étampes (1931) es anterior a otras patrullas célebres: los Blue Angels de la Armada estadounidense (1946), los Thunderbirds de la Fuerza Aérea estadounidense (1953) y los Red Arrows de la Royal Air Force británica (1964). Esto la convierte en la patrulla acrobática más antigua del mundo aún en activo a través de la Patrouille de France.</p>

@@ -45,15 +45,15 @@ En junio de 1944, el teatro del Pacífico de la Segunda Guerra Mundial se encont
 
 ### Antecedentes estratégicos
 
-En junio de 1944, la guerra en el Pacífico había llegado a un punto de inflexión. Las fuerzas estadounidenses, tras capturar las Islas Marshall y las Gilbert, se preparaban para invadir las Islas Marianas. Saipan, Tinian y Guam eran vitales para Japón, ya que su caída pondría Tokio al alcance de los nuevos bombarderos B-29. La Armada Imperial Japonesa, liderada por el almirante Soemu Toyoda, lanzó la **Operación A-Go**, la "batalla decisiva" para la que había entrenado durante décadas.
+En junio de 1944, la guerra en el Pacífico había llegado a un punto de inflexión. Las fuerzas estadounidenses, tras capturar las Islas Marshall y las Gilbert, se preparaban para invadir las Islas Marianas. Saipan, Tinian y Guam eran vitales para Japón, ya que su caída pondría Tokio al alcance de los nuevos bombarderos B-29. La Armada Imperial Japonesa, liderada por el Almirante Soemu Toyoda, lanzó la **Operación A-Go**, la "batalla decisiva" para la que había entrenado durante décadas.
 
 ### El "Z-Plan" y la inteligencia estadounidense
 
-Los japoneses habían desarrollado el "Z-Plan" para la batalla decisiva, que cayó en manos de los estadounidenses a través de guerrilleros filipinos en marzo de 1944. El comandante Edwin Layton, jefe de inteligencia de la Flota del Pacífico, predijo con precisión la fuerza japonesa (nueve portaaviones) y el momento de la batalla, basándose en el descifrado de códigos (Ultra) y el análisis de tráfico. El almirante Spruance, comandante de la 5ª Flota, estaba bien informado y preparado para la batalla.
+Los japoneses habían desarrollado el "Z-Plan" para la batalla decisiva, que cayó en manos de los estadounidenses a través de guerrilleros filipinos en marzo de 1944. El Comandante Edwin Layton, jefe de inteligencia de la Flota del Pacífico, predijo con precisión la fuerza japonesa (nueve portaaviones) y el momento de la batalla, basándose en el descifrado de códigos (Ultra) y el análisis de tráfico. El Almirante Spruance, comandante de la 5ª Flota, estaba bien informado y preparado para la batalla.
 
 ### La amenaza japonesa
 
-Los japoneses, comandados por el vicealmirante Jisaburō Ozawa, contaban con nueve portaaviones (5 de flota y 4 ligeros), cinco acorazados y 450 aviones embarcados, más otros 300 con base en tierra. Sin embargo, la aviación naval japonesa era una sombra de la que había atacado Pearl Harbor. La mayoría de los pilotos experimentados habían muerto en las batallas de Midway, Guadalcanal y el Mar de Coral. Los reemplazos eran jóvenes y mal entrenados, con solo tres meses de instrucción frente a los dos años de entrenamiento de los pilotos estadounidenses. Los aviones japoneses, aunque maniobrables, carecían de blindaje y depósitos de combustible autosellantes. Por el contrario, los estadounidenses contaban con el caza F6F Hellcat, superior en velocidad, potencia de fuego y protección, y con pilotos bien entrenados.
+Los japoneses, comandados por el Vicealmirante Jisaburō Ozawa, contaban con nueve portaaviones (5 de flota y 4 ligeros), cinco acorazados y 450 aviones embarcados, más otros 300 con base en tierra. Sin embargo, la aviación naval japonesa era una sombra de la que había atacado Pearl Harbor. La mayoría de los pilotos experimentados habían muerto en las batallas de Midway, Guadalcanal y el Mar de Coral. Los reemplazos eran jóvenes y mal entrenados, con solo tres meses de instrucción frente a los dos años de entrenamiento de los pilotos estadounidenses. Los aviones japoneses, aunque maniobrables, carecían de blindaje y depósitos de combustible autosellantes. Por el contrario, los estadounidenses contaban con el caza F6F Hellcat, superior en velocidad, potencia de fuego y protección, y con pilotos bien entrenados.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -61,12 +61,12 @@ Los japoneses, comandados por el vicealmirante Jisaburō Ozawa, contaban con nue
 
 - **15 de junio de 1944:** Las fuerzas estadounidenses desembarcan en Saipan 
 - **17 de junio de 1944:** La flota japonesa se reagrupa al oeste del Mar de Filipinas y completa el reabastecimiento 
-- **18 de junio de 1944:** La Task Force 58 (TF 58) del vicealmirante Marc Mitscher se forma cerca de Saipan para enfrentar a los japoneses 
+- **18 de junio de 1944:** La Task Force 58 (TF 58) del Vicealmirante Marc Mitscher se forma cerca de Saipan para enfrentar a los japoneses 
 - **19 de junio de 1944, 09:00 horas:** Comienza la batalla. El submarino USS Albacore (SS-218) torpedea y hunde el portaaviones Taihō, el buque insignia de Ozawa 
 - **19 de junio de 1944:** El submarino USS Cavalla (SS-244) torpedea y hunde el portaaviones Shōkaku 
 - **19 de junio de 1944, durante todo el día:** Cuatro oleadas de aviones japoneses (326 aviones) atacan la TF 58. Los cazas Hellcat estadounidenses, con apoyo de radar, derriban aproximadamente 224 aviones en lo que se conoce como la "Gran Cacería de Pavos de las Marianas" 
 - **20 de junio de 1944, tarde:** 226 aviones estadounidenses despegan en un ataque de largo alcance contra la flota japonesa en retirada, hundiendo el portaaviones Hiyō y dos petroleros 
-- **20 de junio de 1944, noche:** Los aviones estadounidenses regresan a sus portaaviones al anochecer; muchos se quedan sin combustible y deben amerizar en la oscuridad. El almirante Mitscher arriesga sus barcos y enciende todas las luces para guiar a sus pilotos, salvando a muchos 
+- **20 de junio de 1944, noche:** Los aviones estadounidenses regresan a sus portaaviones al anochecer; muchos se quedan sin combustible y deben amerizar en la oscuridad. El Almirante Mitscher arriesga sus barcos y enciende todas las luces para guiar a sus pilotos, salvando a muchos 
 - **Posteriormente:** La Armada japonesa pierde la mayor parte de su aviación naval y nunca se recupera; el camino queda libre para la ocupación estadounidense de las Marianas 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -77,7 +77,7 @@ El apodo **"Gran Cacería de Pavos de las Marianas"** (Great Marianas Turkey Sho
 
 El 19 de junio, la TF 58 tenía 15 portaaviones (7 de flota y 8 ligeros) y 450 cazas Hellcat. Los japoneses lanzaron 326 aviones en cuatro oleadas. Los Hellcat, guiados por control de radar desde los portaaviones, los interceptaron a distancia. En lugar de enfrentarse a pilotos entrenados, los estadounidenses encontraron a jóvenes reclutas japoneses que volaban aviones obsoletos, con poco blindaje y depósitos de combustible sin protección. Los Hellcat derribaron aproximadamente 224 aviones japoneses en combate aéreo, perdiendo solo unos pocos de los suyos.
 
-El almirante Ozawa, que había ordenado a sus aviones dirigirse a Guam después del ataque, creyó erróneamente que muchos de ellos habían aterrizado allí, aunque en realidad la mayoría habían sido derribados. Esta confusión contribuyó a su decisión de mantener la posición y permitir un segundo ataque estadounidense al día siguiente.
+El Almirante Ozawa, que había ordenado a sus aviones dirigirse a Guam después del ataque, creyó erróneamente que muchos de ellos habían aterrizado allí, aunque en realidad la mayoría habían sido derribados. Esta confusión contribuyó a su decisión de mantener la posición y permitir un segundo ataque estadounidense al día siguiente.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -97,7 +97,7 @@ Estos hundimientos, logrados en el primer día de batalla, privaron a Japón de 
 
 El 20 de junio, los aviones de la TF 58 lanzaron un ataque de largo alcance contra la flota japonesa en retirada. 226 aviones despegaron, sabiendo que muchos no tendrían combustible para regresar y que el aterrizaje se haría de noche, una maniobra para la que no estaban entrenados. Los pilotos estadounidenses hundieron el portaaviones Hiyō y dos petroleros, pero al regresar, la noche los envolvió. Muchos se quedaron sin combustible.
 
-En un acto de audacia, el almirante Mitscher ordenó a sus portaaviones que encendieran todas sus luces, a pesar del riesgo de atraer submarinos japoneses, para guiar a sus pilotos. Esta decisión, conocida como el **"vuelo más allá de la oscuridad"** o **"vuelo hacia la noche"**, salvó a muchos aviadores, aunque 86 aviones se perdieron (la mayoría por amerizaje forzoso en el mar). La mayoría de las tripulaciones fueron rescatadas.
+En un acto de audacia, el Almirante Mitscher ordenó a sus portaaviones que encendieran todas sus luces, a pesar del riesgo de atraer submarinos japoneses, para guiar a sus pilotos. Esta decisión, conocida como el **"vuelo más allá de la oscuridad"** o **"vuelo hacia la noche"**, salvó a muchos aviadores, aunque 86 aviones se perdieron (la mayoría por amerizaje forzoso en el mar). La mayoría de las tripulaciones fueron rescatadas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -111,7 +111,7 @@ La Batalla del Mar de Filipinas fue una **victoria estadounidense decisiva** que
 
 La Armada Imperial Japonesa ya no pudo realizar grandes operaciones ofensivas con portaaviones. La batalla fue descrita como **"la última de cinco grandes batallas entre portaaviones"** entre EE. UU. y Japón. El resultado fue el **fin del poder de ataque de los portaaviones japoneses**.
 
-**La controversia de Spruance:** El almirante Spruance fue criticado por no perseguir agresivamente a la flota japonesa en retirada, argumentando que perdió la oportunidad de destruirla por completo. Sin embargo, su prioridad era proteger el desembarco en Saipan, y su cautela contrasta con la imprudencia del almirante Halsey en la Batalla del Golfo de Leyte.
+**La controversia de Spruance:** El Almirante Spruance fue criticado por no perseguir agresivamente a la flota japonesa en retirada, argumentando que perdió la oportunidad de destruirla por completo. Sin embargo, su prioridad era proteger el desembarco en Saipan, y su cautela contrasta con la imprudencia del Almirante Halsey en la Batalla del Golfo de Leyte.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
