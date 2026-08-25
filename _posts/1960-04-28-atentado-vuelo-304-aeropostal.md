@@ -65,7 +65,7 @@ La figura del "pasajero rebelde" o del "secuestrador" era prácticamente descono
 
 - **28 de abril de 1960, 07:30:** El Douglas DC-3 YV-C-AFE despega del Aeropuerto de Maiquetía con destino a Puerto Ayacucho, vía Calabozo y San Fernando de Apure.
 - **08:22 (aproximadamente):** Cuando la aeronave se preparaba para aterrizar en Calabozo, el pasajero Wjatheslav Lavinski envía una nota a los pilotos con la amenaza de hacer estallar el avión si no obedecían sus órdenes.
-- **08:22:** El capitán Alejandro Medina Guerra mantiene el control del avión y envía al copiloto Tito Livio Parra a la cabina de pasajeros para evaluar la situación.
+- **08:22:** El Capitán Alejandro Medina Guerra mantiene el control del avión y envía al copiloto Tito Livio Parra a la cabina de pasajeros para evaluar la situación.
 - **08:22:** Lavinski detona el artefacto explosivo (presuntamente una granada de mano) en el interior del avión.
 - **Tras la explosión:** El DC-3 pierde el control y se precipita a tierra cerca de El Rastro, a 3 km del Embalse del Guárico, a unos 15 km de Calabozo, estado Guárico.
 - **Posteriores al impacto:** La azafata Regine Marie Rachinel y dos pasajeros (José Chacín y Marcelina de Flores) sobreviven inicialmente al impacto y logran relatar lo sucedido, pero fallecen horas después a causa de sus heridas.
@@ -75,15 +75,15 @@ La figura del "pasajero rebelde" o del "secuestrador" era prácticamente descono
 
 ## El atentado: el primer secuestro con explosivos en Venezuela
 
-Un minuto antes del aterrizaje en Calabozo, el comandante Medina Guerra recibió un papel, escrito por Lavinski, que decía: *"Yo soy un expropiado suicida, no queda más remedio que obedecer o estallaré el avión, mientras sostenga la palanca de la bomba, ¡pásalo!"*.
+Un minuto antes del aterrizaje en Calabozo, el Comandante Medina Guerra recibió un papel, escrito por Lavinski, que decía: *"Yo soy un expropiado suicida, no queda más remedio que obedecer o estallaré el avión, mientras sostenga la palanca de la bomba, ¡pásalo!"*.
 
 ### La amenaza
 
-El mensaje contenía una instrucción adicional: "pásalo", lo que indicaba que el capitán debía pasar la nota al control de tráfico aéreo para comunicar la amenaza. El capitán Medina Guerra, un experimentado piloto de 39 años formado en la Escuela de Aviación Militar (Promoción 1942), mantuvo la calma. Para intentar resolver la situación, envió al copiloto Parra a la cabina de pasajeros a negociar con el secuestrador.
+El mensaje contenía una instrucción adicional: "pásalo", lo que indicaba que el capitán debía pasar la nota al control de tráfico aéreo para comunicar la amenaza. El Capitán Medina Guerra, un experimentado piloto de 39 años formado en la Escuela de Aviación Militar (Promoción 1942), mantuvo la calma. Para intentar resolver la situación, envió al copiloto Parra a la cabina de pasajeros a negociar con el secuestrador.
 
 ### La explosión
 
-En lugar de ceder, Lavinski, que también llevaba consigo un libro titulado "Muerte en el Aire", detonó el artefacto explosivo que portaba. Las fuentes no se ponen de acuerdo sobre la naturaleza del explosivo: unos hablan de una bomba de fabricación casera (un niple), otros de una granada de mano. La explosión, ocurrida a las 8:22 a.m., destrozó la cabina e hirió de muerte a varios ocupantes. El capitán Alejandro Medina Guerra, el copiloto Tito Livio Parra y el pasajero Edward Halbersderg (sobrino de Lavinski, que viajaba con él) fallecieron en el acto. El avión se precipitó a tierra sin control.
+En lugar de ceder, Lavinski, que también llevaba consigo un libro titulado "Muerte en el Aire", detonó el artefacto explosivo que portaba. Las fuentes no se ponen de acuerdo sobre la naturaleza del explosivo: unos hablan de una bomba de fabricación casera (un niple), otros de una granada de mano. La explosión, ocurrida a las 8:22 a.m., destrozó la cabina e hirió de muerte a varios ocupantes. El Capitán Alejandro Medina Guerra, el copiloto Tito Livio Parra y el pasajero Edward Halbersderg (sobrino de Lavinski, que viajaba con él) fallecieron en el acto. El avión se precipitó a tierra sin control.
 
 ### Los supervivientes temporales
 
@@ -149,7 +149,7 @@ El vuelo 304 de Aeropostal transportaba a 13 personas: 3 tripulantes y 10 pasaje
 
 - **Lección sobre seguridad aeroportuaria:** La tragedia evidenció la fragilidad de los sistemas de control de pasajeros y equipajes en la aviación civil de la época. Sin embargo, las medidas de seguridad realmente efectivas no se implantarían hasta después de la oleada de secuestros de la década de 1970.
 
-- **Memoria institucional:** La Fuerza Aérea Venezolana (FAV) construyó un monumento en el lugar del accidente y colocó una placa en memoria de los tripulantes y pasajeros fallecidos. El capitán Medina Guerra recibió honores fúnebres militares como oficial de la FAV.
+- **Memoria institucional:** La Fuerza Aérea Venezolana (FAV) construyó un monumento en el lugar del accidente y colocó una placa en memoria de los tripulantes y pasajeros fallecidos. El Capitán Medina Guerra recibió honores fúnebres militares como oficial de la FAV.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
@@ -161,7 +161,7 @@ La tragedia también es un recordatorio de la relativa vulnerabilidad de los pri
 
 El atentado del vuelo 304 fue un punto de inflexión en la percepción pública sobre la seguridad aérea. Demostró que la amenaza no siempre provenía del exterior (fallos mecánicos, climatología, error humano), sino que también podía incubarse dentro del propio avión, en la mente de un pasajero.
 
-La historia del capitán Alejandro Medina Guerra, un piloto formado en la Escuela de Aviación Militar con 18 años de experiencia, es un testimonio de la profesionalidad de los primeros aviadores venezolanos. A pesar de la situación límite, mantuvo el control de la aeronave el mayor tiempo posible e intentó resolver la crisis enviando al copiloto a negociar.
+La historia del Capitán Alejandro Medina Guerra, un piloto formado en la Escuela de Aviación Militar con 18 años de experiencia, es un testimonio de la profesionalidad de los primeros aviadores venezolanos. A pesar de la situación límite, mantuvo el control de la aeronave el mayor tiempo posible e intentó resolver la crisis enviando al copiloto a negociar.
 
 Hoy, la matrícula YV-C-AFE ya no existe. El avión quedó destruido en el impacto. Sin embargo, su gemelo, el DC-3 YV-C-AKE, se conserva en el Museo Aeronáutico de Maracay como testimonio de una época en la que la aviación comercial venezolana conectaba el país, a veces a costa de la vida de sus tripulantes y pasajeros.
 
@@ -190,7 +190,7 @@ Hoy, la matrícula YV-C-AFE ya no existe. El avión quedó destruido en el impac
 ## Metadatos de Control
 
 - **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES), FavClubVen (artículo del coronel José Luis Ochoa Vargas), Plane Crash Info
-- **Discrepancias resueltas:** Las fuentes coinciden en la fecha (28 de abril de 1960) y en la mayoría de los datos. El número de ocupantes varía ligeramente (13 según la mayoría, 10 según algunas fuentes). Se ha priorizado la cifra de 13 (3 tripulantes + 10 pasajeros). La hora del despegue fue a las 07:30 y la explosión a las 08:22. Los nombres de los tripulantes y pasajeros están documentados en el artículo del coronel José Luis Ochoa Vargas.
+- **Fuentes primarias consultadas:** Wikipedia (ES), FavClubVen (artículo del Coronel José Luis Ochoa Vargas), Plane Crash Info
+- **Discrepancias resueltas:** Las fuentes coinciden en la fecha (28 de abril de 1960) y en la mayoría de los datos. El número de ocupantes varía ligeramente (13 según la mayoría, 10 según algunas fuentes). Se ha priorizado la cifra de 13 (3 tripulantes + 10 pasajeros). La hora del despegue fue a las 07:30 y la explosión a las 08:22. Los nombres de los tripulantes y pasajeros están documentados en el artículo del Coronel José Luis Ochoa Vargas.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

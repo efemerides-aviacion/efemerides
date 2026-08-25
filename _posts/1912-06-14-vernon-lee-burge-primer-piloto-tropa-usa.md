@@ -6,20 +6,20 @@ categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: U.S. Army Signal Corps
-excerpt: "El 14 de junio de 1912, el cabo Vernon Lee Burge se convirtió en el primer soldado de tropa (enlisted man) de los Estados Unidos en obtener la certificación como piloto militar, abriendo el camino a más de 4.500 aviadores de tropa que le seguirían."
+excerpt: "El 14 de junio de 1912, el Cabo Vernon Lee Burge se convirtió en el primer soldado de tropa (enlisted man) de los Estados Unidos en obtener la certificación como piloto militar, abriendo el camino a más de 4.500 aviadores de tropa que le seguirían."
 image: 1912-06-14-vernon-lee-burge-primer-piloto-tropa-eeuu.webp
 ---
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1912-06-14-vernon-lee-burge-primer-piloto-tropa-eeuu.webp" alt="Vernon Lee Burge, primer piloto de tropa del Ejército de EE. UU.">
-  <figcaption class="post-caption">El sargento (posteriormente coronel) Vernon L. Burge, primer piloto militar de tropa de los Estados Unidos, en la cabina de un avión Army “B” en Filipinas, 1912; fuente: U.S. Air Force / National Museum of the USAF.</figcaption>
+  <figcaption class="post-caption">El Sargento (posteriormente Coronel) Vernon L. Burge, primer piloto militar de tropa de los Estados Unidos, en la cabina de un avión Army “B” en Filipinas, 1912; fuente: U.S. Air Force / National Museum of the USAF.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 14 de junio de 1912, el cabo Vernon Lee Burge recibió el certificado de piloto N.º 154 de la Federación Aeronáutica Internacional (FAI), convirtiéndose en el primer soldado de tropa (enlisted man) del Ejército de los Estados Unidos en lograr la certificación como piloto militar. Burge, que había ingresado al Cuerpo de Señales en 1907, aprendió a volar en Filipinas bajo la instrucción del teniente Frank Lahm, realizando su primer vuelo en solitario el 1 de marzo de 1912. A pesar de la oposición inicial del Departamento de Guerra —que consideraba que los soldados de tropa no debían ser pilotos—, Burge demostró su habilidad y abrió un camino que seguirían más de 4.500 aviadores de tropa en las tres décadas siguientes. Sirvió 38 años en el Ejército, acumuló 4.667 horas de vuelo y se retiró en 1945 con el rango de coronel, siendo el último miembro vivo de la histórica 1st Aviation Detachment.</p>
+  <p>El 14 de junio de 1912, el Cabo Vernon Lee Burge recibió el certificado de piloto N.º 154 de la Federación Aeronáutica Internacional (FAI), convirtiéndose en el primer soldado de tropa (enlisted man) del Ejército de los Estados Unidos en lograr la certificación como piloto militar. Burge, que había ingresado al Cuerpo de Señales en 1907, aprendió a volar en Filipinas bajo la instrucción del Teniente Frank Lahm, realizando su primer vuelo en solitario el 1 de marzo de 1912. A pesar de la oposición inicial del Departamento de Guerra —que consideraba que los soldados de tropa no debían ser pilotos—, Burge demostró su habilidad y abrió un camino que seguirían más de 4.500 aviadores de tropa en las tres décadas siguientes. Sirvió 38 años en el Ejército, acumuló 4.667 horas de vuelo y se retiró en 1945 con el rango de coronel, siendo el último miembro vivo de la histórica 1st Aviation Detachment.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -62,7 +62,7 @@ La aviación era todavía extremadamente peligrosa. Los aviones —frágiles est
 
 ### Entorno cultural
 
-A pesar de las restricciones oficiales, en la práctica existía una necesidad operativa. En Filipinas, donde Burge fue destinado, la distancia y las condiciones locales hacían difícil depender exclusivamente de oficiales para las tareas de vuelo. El teniente Frank Lahm, instructor de Burge, reconoció su talento y decidió entrenarlo, desafiando las normas establecidas.
+A pesar de las restricciones oficiales, en la práctica existía una necesidad operativa. En Filipinas, donde Burge fue destinado, la distancia y las condiciones locales hacían difícil depender exclusivamente de oficiales para las tareas de vuelo. El Teniente Frank Lahm, instructor de Burge, reconoció su talento y decidió entrenarlo, desafiando las normas establecidas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -70,9 +70,9 @@ A pesar de las restricciones oficiales, en la práctica existía una necesidad o
 
 - **29 de noviembre de 1888:** Nace Vernon Lee Burge en Stanford, Kentucky 
 - **16 de abril de 1907:** Se incorpora al Cuerpo de Señales del Ejército de EE. UU. a los 18 años 
-- **1910:** Sirve como mecánico del teniente Benjamin Foulois en el Signal Corps Airplane No. 1 en Fort Sam Houston, Texas 
+- **1910:** Sirve como mecánico del Teniente Benjamin Foulois en el Signal Corps Airplane No. 1 en Fort Sam Houston, Texas 
 - **Agosto de 1910:** Burge y otros mecánicos instalan un tren de aterrizaje de tres ruedas en el S.C. No. 1, el primer tren triciclo de la historia de la aviación 
-- **1912:** Destinado a Filipinas, donde el teniente Frank Lahm lo entrena como piloto 
+- **1912:** Destinado a Filipinas, donde el Teniente Frank Lahm lo entrena como piloto 
 - **1 de marzo de 1912:** Realiza su primer vuelo en solitario en Filipinas 
 - **14 de junio de 1912:** Recibe el certificado de piloto N.º 154 de la FAI, convirtiéndose en el primer soldado de tropa piloto de EE. UU. 
 - **1913:** Sirve como piloto en Corregidor, Filipinas 
@@ -86,7 +86,7 @@ A pesar de las restricciones oficiales, en la práctica existía una necesidad o
 
 ## El contexto de la certificación: la oposición del Departamento de Guerra
 
-El logro de Burge fue extraordinario no solo por su dificultad técnica, sino porque ocurrió **contra la política explícita del Departamento de Guerra**. Cuando el teniente Frank Lahm informó a sus superiores que había entrenado a un soldado de tropa como piloto, la respuesta fue que **no era política del Ejército entrenar soldados de tropa como aviadores**.
+El logro de Burge fue extraordinario no solo por su dificultad técnica, sino porque ocurrió **contra la política explícita del Departamento de Guerra**. Cuando el Teniente Frank Lahm informó a sus superiores que había entrenado a un soldado de tropa como piloto, la respuesta fue que **no era política del Ejército entrenar soldados de tropa como aviadores**.
 
 A pesar de esta oposición, Lahm y Burge continuaron. El 14 de junio de 1912, Burge cumplió todos los requisitos de la FAI —que incluían volar en círculos de 5 kilómetros, alcanzar una altitud mínima y aterrizar dentro de una zona designada— y recibió su certificación internacional.
 
@@ -130,7 +130,7 @@ Su fotografía cuelga en el McDaniel Center de la Base Aérea de Kadena, en Jap�
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> La certificación de Burge como piloto (14 de junio de 1912) fue posible gracias a la instrucción del teniente Frank Lahm en Filipinas, a pesar de la oposición inicial del Departamento de Guerra. El certificado N.º 154 de la FAI acredita a Burge como el primer soldado de tropa (enlisted man) de EE. UU. en lograr esta distinción, abriendo el camino a más de 4.500 aviadores de tropa que le seguirían. Además de su faceta como piloto, Burge fue coinventor del primer tren de aterrizaje triciclo de la historia, instalado en el Signal Corps Airplane No. 1 en agosto de 1910.</p>
+  <p><strong>Nota aclaratoria:</strong> La certificación de Burge como piloto (14 de junio de 1912) fue posible gracias a la instrucción del Teniente Frank Lahm en Filipinas, a pesar de la oposición inicial del Departamento de Guerra. El certificado N.º 154 de la FAI acredita a Burge como el primer soldado de tropa (enlisted man) de EE. UU. en lograr esta distinción, abriendo el camino a más de 4.500 aviadores de tropa que le seguirían. Además de su faceta como piloto, Burge fue coinventor del primer tren de aterrizaje triciclo de la historia, instalado en el Signal Corps Airplane No. 1 en agosto de 1910.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

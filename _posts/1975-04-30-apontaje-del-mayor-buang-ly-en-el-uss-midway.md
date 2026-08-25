@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "30 de abril de 1975 | Apontaje del mayor Buang-Ly en el USS Midway"
+title: "30 de abril de 1975 | Apontaje del Mayor Buang-Ly en el USS Midway"
 date: 1975-04-30
 categories: [evento]
 author: Enrique Pomares
@@ -18,7 +18,7 @@ image: 1975-04-30-apontaje-del-mayor-buang-ly-en-el-uss-midway.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 30 de abril de 1975, en medio de la caída de Saigón, el mayor de la Fuerza Aérea de Vietnam del Sur, Buang-Ly, realizó un apontaje de emergencia en el portaaviones USS Midway. Pilotaba un Cessna O-1 Bird Dog en el que viajaban su esposa y sus cinco hijos. El capitán Lawrence Chambers ordenó lanzar al mar varios helicópteros para despejar la cubierta y permitir la maniobra, salvando así a la familia .</p>
+<p>El 30 de abril de 1975, en medio de la caída de Saigón, el mayor de la Fuerza Aérea de Vietnam del Sur, Buang-Ly, realizó un apontaje de emergencia en el portaaviones USS Midway. Pilotaba un Cessna O-1 Bird Dog en el que viajaban su esposa y sus cinco hijos. El Capitán Lawrence Chambers ordenó lanzar al mar varios helicópteros para despejar la cubierta y permitir la maniobra, salvando así a la familia .</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -40,7 +40,7 @@ image: 1975-04-30-apontaje-del-mayor-buang-ly-en-el-uss-midway.webp
 
 ## Contexto Histórico
 
-El 30 de abril de 1975 marcó el final de la Guerra de Vietnam. Las fuerzas norvietnamitas avanzaban sobre Saigón, y Estados Unidos lanzó la Operación Frequent Wind, la mayor evacuación por helicóptero de la historia de su Armada . Miles de refugiados intentaban huir por cualquier medio. En este contexto de caos, el mayor Buang-Ly tomó una decisión desesperada.
+El 30 de abril de 1975 marcó el final de la Guerra de Vietnam. Las fuerzas norvietnamitas avanzaban sobre Saigón, y Estados Unidos lanzó la Operación Frequent Wind, la mayor evacuación por helicóptero de la historia de su Armada . Miles de refugiados intentaban huir por cualquier medio. En este contexto de caos, el Mayor Buang-Ly tomó una decisión desesperada.
 
 ### Entorno social
 
@@ -52,7 +52,7 @@ El Cessna O-1 Bird Dog era un pequeño avión de observación monomotor, diseña
 
 ### Entorno cultural
 
-La imagen del apontaje del Bird Dog se convirtió en un símbolo de la desesperación y el coraje humano en el fin de la guerra . El capitán Chambers, al priorizar la vida humana sobre el equipo militar, arriesgó su carrera . Su decisión fue ampliamente reconocida años después como un ejemplo de liderazgo humanitario.
+La imagen del apontaje del Bird Dog se convirtió en un símbolo de la desesperación y el coraje humano en el fin de la guerra . El Capitán Chambers, al priorizar la vida humana sobre el equipo militar, arriesgó su carrera . Su decisión fue ampliamente reconocida años después como un ejemplo de liderazgo humanitario.
 
 ## Desarrollo Cronológico
 
@@ -62,7 +62,7 @@ La imagen del apontaje del Bird Dog se convirtió en un símbolo de la desespera
 - **30 de abril de 1975 (madrugada):** Buang-Ly, apostado en la isla de Con Son, decide huir. Carga a su familia en un Cessna O-1 Bird Dog y despega hacia el mar .
 - **30 de abril de 1975 (aproximadamente 30 minutos después):** Buang-Ly avista el USS Midway. Sobrevuela el barco repetidamente con las luces de aterrizaje encendidas .
 - **30 de abril de 1975:** Escribe una nota en una tarjeta de rodilla, la introduce en una funda de pistola y la lanza sobre la cubierta del Midway .
-- **30 de abril de 1975:** El capitán Chambers ordena despejar la cubierta. Al menos 8 helicópteros son empujados al mar .
+- **30 de abril de 1975:** El Capitán Chambers ordena despejar la cubierta. Al menos 8 helicópteros son empujados al mar .
 - **30 de abril de 1975:** Buang-Ly realiza el apontaje. El avión se detiene sin necesidad de frenos, asistido por marineros que corren junto a él .
 - **07:53 del 30 de abril de 1975:** El último helicóptero del Cuerpo de Marines evacúa la embajada de EE. UU. en Saigón .
 - **Diciembre de 2020:** Chambers, entonces de 91 años, reflexionó sobre la decisión: "Mi abuela me susurraba al oído: 'Mira, idiota, no te enseñé a estar a cargo de nada y dejar que mujeres y niños se ahogaran'" .
@@ -71,7 +71,7 @@ La imagen del apontaje del Bird Dog se convirtió en un símbolo de la desespera
 
 ## El apontaje: una decisión humana
 
-El mayor Buang-Ly se encontraba en la isla de Con Son cuando recibió la noticia de la inminente caída de Saigón. Sin tiempo para planificar, localizó un Cessna O-1 Bird Dog de la Fuerza Aérea de Vietnam del Sur. Subió a su esposa y a sus cinco hijos, de edades comprendidas entre 1 y 6 años, en el pequeño avión de dos asientos . No había radios funcionales a bordo. Con combustible para apenas una hora, despegó hacia el mar .
+El Mayor Buang-Ly se encontraba en la isla de Con Son cuando recibió la noticia de la inminente caída de Saigón. Sin tiempo para planificar, localizó un Cessna O-1 Bird Dog de la Fuerza Aérea de Vietnam del Sur. Subió a su esposa y a sus cinco hijos, de edades comprendidas entre 1 y 6 años, en el pequeño avión de dos asientos . No había radios funcionales a bordo. Con combustible para apenas una hora, despegó hacia el mar .
 
 ### La nota
 
@@ -83,13 +83,13 @@ Introdujo la nota en una funda de pistola para que no volara y la lanzó sobre l
 
 ### La decisión de Chambers
 
-El capitán Lawrence Chambers, comandante del Midway, leyó la nota. En ese momento, llevaba apenas 30 días en el puesto . El contraalmirante a bordo le ordenó hacer amerizar el avión. Chambers se negó. Sabía que el pequeño Cessna se voltearía al tocar el agua.
+El Capitán Lawrence Chambers, comandante del Midway, leyó la nota. En ese momento, llevaba apenas 30 días en el puesto . El contraalmirante a bordo le ordenó hacer amerizar el avión. Chambers se negó. Sabía que el pequeño Cessna se voltearía al tocar el agua.
 
-Chambers ordenó a su jefe de cubierta, comandante Vern Jumper, despejar la zona de aterrizaje. El procedimiento implicó empujar varios helicópteros Huey por la borda, algunos aún en funcionamiento . Chambers asumió el riesgo: "Ocho más por la borda no van a marcar la diferencia en mi consejo de guerra. Quiero decir, soy culpable. Así que esa decisión fue fácil" .
+Chambers ordenó a su jefe de cubierta, Comandante Vern Jumper, despejar la zona de aterrizaje. El procedimiento implicó empujar varios helicópteros Huey por la borda, algunos aún en funcionamiento . Chambers asumió el riesgo: "Ocho más por la borda no van a marcar la diferencia en mi consejo de guerra. Quiero decir, soy culpable. Así que esa decisión fue fácil" .
 
 ### El apontaje
 
-Con la cubierta despejada, Chambers ordenó al Midway navegar a máxima velocidad para generar el máximo viento de cara. Buang-Ly realizó una aproximación perfecta. "Afortunadamente, el mayor Ly era un "maldito buen aviador" porque realmente salvó mi trasero al tener éxito", recordó Chambers . El avión tocó la cubierta y se detuvo casi inmediatamente. Marineros corrieron junto al aparato para ayudar a detenerlo.
+Con la cubierta despejada, Chambers ordenó al Midway navegar a máxima velocidad para generar el máximo viento de cara. Buang-Ly realizó una aproximación perfecta. "Afortunadamente, el Mayor Ly era un "maldito buen aviador" porque realmente salvó mi trasero al tener éxito", recordó Chambers . El avión tocó la cubierta y se detuvo casi inmediatamente. Marineros corrieron junto al aparato para ayudar a detenerlo.
 
 ### Después del apontaje
 
@@ -99,7 +99,7 @@ Tan pronto como el avión se detuvo, decenas de marineros vitorearon. Chambers s
 
 ## El Bird Dog en el Museo
 
-El Cessna O-1 Bird Dog que Buang-Ly pilotó aquel día se encuentra en exposición permanente en el Museo Nacional de Aviación Naval (National Naval Aviation Museum) en la Estación Aérea Naval de Pensacola, Florida . Fue trasladado allí pocos meses después del apontaje, gracias a la gestión del capitán Joe Cheshire .
+El Cessna O-1 Bird Dog que Buang-Ly pilotó aquel día se encuentra en exposición permanente en el Museo Nacional de Aviación Naval (National Naval Aviation Museum) en la Estación Aérea Naval de Pensacola, Florida . Fue trasladado allí pocos meses después del apontaje, gracias a la gestión del Capitán Joe Cheshire .
 
 En mayo de 2025, con motivo del 50° aniversario, el museo celebró una ceremonia especial "Flight to Freedom: Echoes of Valor" en presencia de Chambers (entonces de 96 años) y de Buang-Ly, ya como ciudadano estadounidense. Chambers declaró: "Este es el hombre más valiente que he conocido en mi vida" .
 
@@ -116,7 +116,7 @@ En mayo de 2025, con motivo del 50° aniversario, el museo celebró una ceremoni
 
 ## Legado
 
-El apontaje del mayor Buang-Ly en el USS Midway es recordado como un acto de humanidad en medio de la guerra. La decisión del capitán Chambers —ignorar la orden de un superior, arriesgar su carrera y lanzar al mar helicópteros de gran valor— fue fundamental para salvar a la familia Buang-Ly .
+El apontaje del Mayor Buang-Ly en el USS Midway es recordado como un acto de humanidad en medio de la guerra. La decisión del Capitán Chambers —ignorar la orden de un superior, arriesgar su carrera y lanzar al mar helicópteros de gran valor— fue fundamental para salvar a la familia Buang-Ly .
 
 El Bird Dog sigue siendo una de las piezas más visitadas del Museo Nacional de Aviación Naval . La historia del apontaje es un recordatorio de que, incluso en el caos, la humanidad puede prevalecer.
 
