@@ -63,6 +63,7 @@ La figura del piloto de pruebas se convirtió en un arquetipo del héroe moderno
 - **1951:** Comienza la construcción de los prototipos en la planta de Boeing en Seattle.
 - **Noviembre de 1951:** El XB-52 sufre daños en el sistema hidráulico durante pruebas en tierra, lo que retrasa su primer vuelo.
 - **15 de abril de 1952, 11:08:** El YB-52 (matrícula 49-231) despega en su vuelo inaugural desde Boeing Field, pilotado por Tex Johnston.
+- **30 de agosto de 1952:** el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/08/30/primer-vuelo-avro-vulcan.html" style="color: #315fea; text-decoration: none;">prototipo Avro Vulcan VX770 realiza su primer vuelo en Woodford</a>, el otro gran bombardero estratégico de reacción de aquel año.
 - **2 de octubre de 1952:** El XB-52 realiza su primer vuelo, una vez reparado.
 - **1954:** Entra en producción el primer modelo operativo, el B-52A.
 - **1955:** El B-52B entra en servicio con el Comando Aéreo Estratégico (SAC).

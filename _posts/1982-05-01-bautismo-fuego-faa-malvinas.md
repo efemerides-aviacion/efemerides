@@ -62,7 +62,7 @@ Los cascos azules del escudo de la FAA se convirtieron en un emblema del valor a
 ## Desarrollo Cronológico
 
 - **30 de abril de 1982:** La flota británica se concentra a 400 km al noreste de Puerto Argentino; el vicealmirante Woodward ordena iniciar el ataque
-- **1 de mayo de 1982, 04:40:** El Vulcan XM607 bombardea la BAM Malvinas; mueren los soldados Bordón y García
+- **1 de mayo de 1982, 04:40:** El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/08/30/primer-vuelo-avro-vulcan.html" style="color: #315fea; text-decoration: none;">Avro Vulcan XM607</a> bombardea la BAM Malvinas; mueren los soldados Bordón y García
 - **Posterior al bombardeo:** Ingenieros argentinos reparan la pista rápidamente y la mantienen operativa al 100%
 - **Mañana del 1 de mayo:** Harriers atacan la BAM Cóndor (Puerto Darwin); una bomba impacta en el Pucará A-527, muriendo el teniente Daniel Jukic y seis suboficiales/cabos
 - **Primer combate aéreo:** Sección TORO (Dagger) vs. Sea Harriers; sin daños
