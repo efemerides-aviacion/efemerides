@@ -81,10 +81,10 @@ El "Clipper Eclipse" ya había dado señales de problemas. Días antes del vuelo
 - **Días siguientes:** En Roma, se detecta una fuga de fluido hidráulico en el motor número 2, que es reparada.
 - **18 de junio de 1947, 15:37 UTC (8:37 p.m. hora local):** El vuelo 121 despega de Karachi con destino a Estambul, con 36 personas a bordo.
 - **Cinco horas después del despegue:** El motor número 1 sufre una falla. La junta del balancín de escape del cilindro número 18 se rompe por fatiga de metal. Roddenberry apaga el motor y pone la hélice en bandera ("feathering") para reducir la resistencia.
-- **Posterior:** El capitán Hart decide continuar hacia Estambul, confiando en que el Constellation puede volar con tres motores. Los motores restantes comienzan a sobrecalentarse y la aeronave pierde altitud gradualmente.
+- **Posterior:** El Capitán Hart decide continuar hacia Estambul, confiando en que el Constellation puede volar con tres motores. Los motores restantes comienzan a sobrecalentarse y la aeronave pierde altitud gradualmente.
 - **23:30 UTC:** Se activa la alarma de incendio en el motor número 2.
 - **23:37 UTC (aproximadamente):** Seis o siete minutos después del inicio del incendio, el motor número 2 se desprende del ala.
-- **23:40 UTC:** El capitán Hart realiza un aterrizaje de emergencia con el tren de aterrizaje recogido ("belly landing") en el desierto. El ala izquierda impacta contra el suelo, el avión gira 180 grados y se parte en dos, incendiándose.
+- **23:40 UTC:** El Capitán Hart realiza un aterrizaje de emergencia con el tren de aterrizaje recogido ("belly landing") en el desierto. El ala izquierda impacta contra el suelo, el avión gira 180 grados y se parte en dos, incendiándose.
 - **19 de junio de 1947 (amanecer, hora local):** Roddenberry organiza a los supervivientes, administra primeros auxilios y envía grupos de búsqueda para encontrar ayuda.
 - **19 de junio de 1947, mediodía:** El ejército sirio traslada a los supervivientes al hospital de Deir ez-Zor.
 - **18 de junio de 1948:** La Junta de Aeronáutica Civil (CAB) publica su informe final, determinando que la causa probable fue un incendio iniciado al intentar poner la hélice en bandera tras la falla del cojinete de empuje del motor número 2.

@@ -116,7 +116,7 @@ Al aterrizar en Rockwell Field, San Diego, tras 26 horas y 50 minutos, el T-2 te
 
 John A. Macready nació en San Diego en 1887 y fue uno de los pilotos más notables de la historia de la aviación militar estadounidense. Ostenta el récord de ser el único piloto en ganar el Mackay Trophy en tres ocasiones (1921, 1922 y 1923). Macready fue el primer piloto en realizar un salto en paracaídas nocturno de emergencia, el segundo en volar un avión con cabina presurizada y el primero en realizar fumigación aérea de cultivos.
 
-Oakley G. Kelly nació en Pensilvania en 1891. Junto con el teniente Muir S. Fairchild, tuvo la idea original del vuelo transcontinental sin escalas y desempeñó un papel crucial en la modificación del Fokker T-2. Ambos pilotos se retiraron como coroneles, y Macready fue incluido en el Salón de la Fama de la Aviación Nacional.
+Oakley G. Kelly nació en Pensilvania en 1891. Junto con el Teniente Muir S. Fairchild, tuvo la idea original del vuelo transcontinental sin escalas y desempeñó un papel crucial en la modificación del Fokker T-2. Ambos pilotos se retiraron como coroneles, y Macready fue incluido en el Salón de la Fama de la Aviación Nacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

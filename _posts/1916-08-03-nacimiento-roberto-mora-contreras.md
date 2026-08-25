@@ -103,7 +103,7 @@ En términos históricos, su vuelo de noviembre de 1948 marca el punto en que la
 
 ## Referencias Verificadas
 
-- <a href="https://favclubven.wordpress.com/2025/12/29/el-capitan-roberto-jose-mora-contreras-pionero-en-aviones-jet/" style="color: #315fea; text-decoration: none;">FAV-CLUB: «El capitán Roberto José Mora Contreras, pionero en aviones jet», por Arturo Soto Loreto (2025)</a>
+- <a href="https://favclubven.wordpress.com/2025/12/29/el-capitan-roberto-jose-mora-contreras-pionero-en-aviones-jet/" style="color: #315fea; text-decoration: none;">FAV-CLUB: «El Capitán Roberto José Mora Contreras, pionero en aviones jet», por Arturo Soto Loreto (2025)</a>
 - <a href="https://favgrupo.blogspot.com/2024/01/el-capitan-av-roberto-jose-mora.html" style="color: #315fea; text-decoration: none;">Fuerza Aérea Venezolana FAV (FAV Grupo): «El Capitán (Av) Roberto José Mora Contreras, pionero en aviones Jet», por Arturo C. Soto Loreto (17 de enero de 2024)</a>
 - <a href="https://es.wikipedia.org/wiki/Gloster_Meteor" style="color: #315fea; text-decoration: none;">Gloster Meteor — Wikipedia en español</a>
 - <a href="https://en.wikipedia.org/wiki/Gloster_Meteor" style="color: #315fea; text-decoration: none;">Gloster Meteor — Wikipedia en inglés</a>

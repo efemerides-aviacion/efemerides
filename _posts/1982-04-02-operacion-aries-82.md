@@ -40,7 +40,7 @@ image: 1982-04-02-operacion-aries-82.webp
 La Operación Aries 82 fue la respuesta de la Fuerza Aérea Argentina (FAA) a la orden de recuperar las Islas Malvinas, territorio en disputa con el Reino Unido desde 1833. La planificación comenzó en secreto semanas antes y se integró en el marco de la operación conjunta denominada *Rosario*, que combinaba el desembarco anfibio de la Armada, el avance terrestre del Ejército y el asalto aéreo de la FAA.
 
 ### Entorno social
-En Argentina, el 2 de abril se convirtió en un día de movilización popular sin precedentes. La recuperación de las islas generó un fuerte respaldo ciudadano al gobierno de facto presidido por el general Leopoldo Galtieri. La prensa y la opinión pública celebraron el éxito inicial, aunque la guerra derivaría después en un conflicto prolongado.
+En Argentina, el 2 de abril se convirtió en un día de movilización popular sin precedentes. La recuperación de las islas generó un fuerte respaldo ciudadano al gobierno de facto presidido por el General Leopoldo Galtieri. La prensa y la opinión pública celebraron el éxito inicial, aunque la guerra derivaría después en un conflicto prolongado.
 
 ### Entorno tecnológico
 La FAA contaba con una flota moderna para América Latina: C‑130H Hércules adquiridos en los años 70, IA‑58 Pucará de fabricación nacional y aviones de combate como los A‑4 Skyhawk y Mirage III. La operación exigió un despliegue rápido desde bases en la Patagonia (Río Gallegos, Comodoro Rivadavia, Trelew) hacia un aeródromo de Malvinas con pista de asfalto de 1.200 metros, limitada para operaciones de transporte pesado.
@@ -54,7 +54,7 @@ La aviación militar argentina tenía una tradición de autonomía y profesional
 - **Finales de marzo de 1982:** Se ordena la movilización de aeronaves hacia bases avanzadas del sur (Río Gallegos, Comodoro Rivadavia). Se preparan pistas alternativas y se estudian procedimientos de vuelo a baja altura para evitar detección.
 - **2 de abril de 1982, 04:30:** Primer despegue de los C‑130H desde Río Gallegos con destino a Malvinas. Llevan tropas de la Compañía de Comandos 601 y equipos.
 - **08:45:** El C‑130H TC‑68, pilotado por el vicecomodoro Julio César Urien, aterriza en el aeródromo de Puerto Argentino. Es el primer avión argentino en tocar tierra en las islas tras la recuperación. Inmediatamente desembarcan comandos que aseguran la pista.
-- **A lo largo del día:** Arriban dos C‑130 más, un Fokker F‑28 con el jefe de la FAA (brigadier Basilio Lami Dozo) y seis IA‑58 Pucará. Los Pucará realizan patrullajes y permanecen en alerta para apoyo a las tropas terrestres.
+- **A lo largo del día:** Arriban dos C‑130 más, un Fokker F‑28 con el jefe de la FAA (Brigadier Basilio Lami Dozo) y seis IA‑58 Pucará. Los Pucará realizan patrullajes y permanecen en alerta para apoyo a las tropas terrestres.
 - **Resto de abril:** Se establece un puente aéreo continuo que transporta personal, víveres, municiones y equipos. La FAA también despliega helicópteros (Bell UH‑1H, Hughes 500) para tareas logísticas.
 
 ## Consecuencias e Impacto

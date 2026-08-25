@@ -59,7 +59,7 @@ Para conocer más detalles sobre la creación de esta base, puede consultar la e
 ---
 
 <div class="note-box">
-<p><strong>Nota aclaratoria sobre el accidente:</strong> El teniente Vicente Landaeta Gil falleció el 4 de febrero de 1931 en un accidente aéreo en Barquisimeto, siendo el primer piloto militar venezolano en perder la vida en servicio. Los detalles de este suceso (aeronave, tripulación, investigaciones) pueden consultarse en la efeméride dedicada exclusivamente a ese evento, cuyo enlace se incluye en la sección correspondiente de este post.</p>
+<p><strong>Nota aclaratoria sobre el accidente:</strong> El Teniente Vicente Landaeta Gil falleció el 4 de febrero de 1931 en un accidente aéreo en Barquisimeto, siendo el primer piloto militar venezolano en perder la vida en servicio. Los detalles de este suceso (aeronave, tripulación, investigaciones) pueden consultarse en la efeméride dedicada exclusivamente a ese evento, cuyo enlace se incluye en la sección correspondiente de este post.</p>
 <p><strong>Sobre la base aérea:</strong> La Base Aérea Teniente Vicente Landaeta Gil es también conocida popularmente como "Balanda". Fue construida en 1964 y su nombre es un homenaje al pionero de la aviación militar venezolana.</p>
 </div>
 
@@ -72,7 +72,7 @@ Para conocer más detalles sobre la creación de esta base, puede consultar la e
     <li><a href="https://es.wikipedia.org/wiki/Base_A%C3%A9rea_Teniente_Vicente_Landaeta_Gil" style="color: #315fea; text-decoration: none;">Wikipedia - Base Aérea Teniente Vicente Landaeta Gil</a></li>
     <li><a href="https://www.elimpulso.com/2016/11/20/la-tragedia-del-piloto-landaeta-memoriafotografica/" style="color: #315fea; text-decoration: none;">El Impulso - La tragedia del piloto Landaeta</a></li>
     <li><a href="https://lapatilla.com/2023/03/02/luis-alberto-perozo-padua-vicente-landaeta-gil-protagonizo-el-primer-accidente-de-aviacion-militar/" style="color: #315fea; text-decoration: none;">LaPatilla - Vicente Landaeta Gil protagonizó el primer accidente de aviación militar</a></li>
-    <li><a href="https://www.defensa.com/en-abierto/n-100-anos-aviacion-militar-venezuela" style="color: #315fea; text-decoration: none;">Defensa.com — 100 años de la aviación militar en Venezuela (teniente Vicente Landaeta)</a></li>
+    <li><a href="https://www.defensa.com/en-abierto/n-100-anos-aviacion-militar-venezuela" style="color: #315fea; text-decoration: none;">Defensa.com — 100 años de la aviación militar en Venezuela (Teniente Vicente Landaeta)</a></li>
   </ul>
 </div>
 

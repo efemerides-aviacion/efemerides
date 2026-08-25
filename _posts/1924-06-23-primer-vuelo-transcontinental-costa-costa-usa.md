@@ -6,20 +6,20 @@ categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: U.S. Army Air Service
-excerpt: "El 23 de junio de 1924, el teniente Russell L. Maughan completó el primer vuelo transcontinental 'de amanecer a anochecer' cruzando los EE. UU. en un solo día, recorriendo 4.297 km en 21 horas y 48 minutos a bordo de un Curtiss PW-8 Hawk."
+excerpt: "El 23 de junio de 1924, el Teniente Russell L. Maughan completó el primer vuelo transcontinental 'de amanecer a anochecer' cruzando los EE. UU. en un solo día, recorriendo 4.297 km en 21 horas y 48 minutos a bordo de un Curtiss PW-8 Hawk."
 image: 1924-06-23-primer-vuelo-transcontinental-costa-costa-usa.webp
 ---
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1924-06-23-primer-vuelo-transcontinental-costa-costa-usa.webp" alt="Teniente Russell L. Maughan junto a su Curtiss PW-8 Hawk">
-  <figcaption class="post-caption">El teniente Russell L. Maughan posa junto a su Curtiss PW-8 Hawk, número de serie 24-204, el 10 de junio de 1924, días antes de su histórico vuelo "de amanecer a anochecer" del 23 de junio de 1924. Fuente: Smithsonian National Air and Space Museum / Colección Curtiss-Wright (NASM.XXXX.0067).</figcaption>
+  <figcaption class="post-caption">El Teniente Russell L. Maughan posa junto a su Curtiss PW-8 Hawk, número de serie 24-204, el 10 de junio de 1924, días antes de su histórico vuelo "de amanecer a anochecer" del 23 de junio de 1924. Fuente: Smithsonian National Air and Space Museum / Colección Curtiss-Wright (NASM.XXXX.0067).</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 23 de junio de 1924, el teniente Russell L. Maughan, del Servicio Aéreo del Ejército de EE. UU., despegó de Mitchel Field, Long Island, a las 3:58 a.m. y, tras recorrer 2.670 millas (4.297 km) y realizar cinco paradas para repostar, aterrizó en Crissy Field, San Francisco, a las 9:46 p.m. del mismo día. Con un tiempo total de 21 horas y 48 minutos —y 18 horas y 20 minutos de vuelo real— completó el primer vuelo transcontinental "de amanecer a anochecer" (dawn-to-dusk) de la historia. Concebido por el general Billy Mitchell y pilotado por Maughan, un veterano de la Primera Guerra Mundial y plusmarquista de velocidad, el vuelo demostró la capacidad del Ejército para mover rápidamente unidades aéreas de una costa a otra. La hazaña, realizada con un caza Curtiss PW-8 modificado, estableció nuevos récords de tiempo, distancia y velocidad media (128.37 mph), y fue clave para obtener apoyo político para la expansión de la aviación militar.</p>
+  <p>El 23 de junio de 1924, el Teniente Russell L. Maughan, del Servicio Aéreo del Ejército de EE. UU., despegó de Mitchel Field, Long Island, a las 3:58 a.m. y, tras recorrer 2.670 millas (4.297 km) y realizar cinco paradas para repostar, aterrizó en Crissy Field, San Francisco, a las 9:46 p.m. del mismo día. Con un tiempo total de 21 horas y 48 minutos —y 18 horas y 20 minutos de vuelo real— completó el primer vuelo transcontinental "de amanecer a anochecer" (dawn-to-dusk) de la historia. Concebido por el General Billy Mitchell y pilotado por Maughan, un veterano de la Primera Guerra Mundial y plusmarquista de velocidad, el vuelo demostró la capacidad del Ejército para mover rápidamente unidades aéreas de una costa a otra. La hazaña, realizada con un caza Curtiss PW-8 modificado, estableció nuevos récords de tiempo, distancia y velocidad media (128.37 mph), y fue clave para obtener apoyo político para la expansión de la aviación militar.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -59,7 +59,7 @@ image: 1924-06-23-primer-vuelo-transcontinental-costa-costa-usa.webp
 
 ## Contexto Histórico
 
-En la década de 1920, el Servicio Aéreo del Ejército de EE. UU. luchaba por su supervivencia y presupuesto. El general Billy Mitchell, un visionario de la aviación, buscaba demostrar al Congreso el poder y la utilidad de las fuerzas aéreas.
+En la década de 1920, el Servicio Aéreo del Ejército de EE. UU. luchaba por su supervivencia y presupuesto. El General Billy Mitchell, un visionario de la aviación, buscaba demostrar al Congreso el poder y la utilidad de las fuerzas aéreas.
 
 ### Entorno social
 
@@ -114,7 +114,7 @@ El vuelo estableció nuevos récords de tiempo, distancia y velocidad media para
 
 ## Legado
 
-El teniente Russell L. Maughan, un piloto de pruebas condecorado, es recordado por su hazaña pionera. El vuelo "de amanecer a anochecer" fue un hito en la aviación estadounidense que demostró el potencial de los aviones para acortar distancias y conectar el país. Aunque su récord fue superado pocos años después, Maughan abrió el camino para los vuelos transcontinentales comerciales y el desarrollo de la aviación militar moderna.
+El Teniente Russell L. Maughan, un piloto de pruebas condecorado, es recordado por su hazaña pionera. El vuelo "de amanecer a anochecer" fue un hito en la aviación estadounidense que demostró el potencial de los aviones para acortar distancias y conectar el país. Aunque su récord fue superado pocos años después, Maughan abrió el camino para los vuelos transcontinentales comerciales y el desarrollo de la aviación militar moderna.
 
 El término "dawn-to-dusk" se convirtió en sinónimo de velocidad y resistencia, y la hazaña de Maughan es recordada como uno de los grandes momentos de la aviación de los años 20. El avión que pilotó, el Curtiss PW-8, se conserva en el Smithsonian National Air and Space Museum, como testimonio de una época en la que los pilotos desafiaban los límites de la tecnología y de la luz del día.
 

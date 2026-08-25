@@ -24,7 +24,7 @@ image: 2024-03-21-primera-piloto-venezolana-clasifica-sukhoi-30.jpg
 ## Datos verificados del evento
 - **Fecha:** 21 de marzo de 2024
 - **Lugar:** Base Aérea Teniente Luis del Valle García, Barcelona, estado Anzoátegui, Venezuela
-- **Protagonistas:** Capitana Cindi “Katara” Caraballo; capitán Andrés Labrador (también graduado en la misma promoción); Aviación Militar Bolivariana (AMB)
+- **Protagonistas:** Capitana Cindi “Katara” Caraballo; Capitán Andrés Labrador (también graduado en la misma promoción); Aviación Militar Bolivariana (AMB)
 - **Aeronave/empresa involucrada:** Sukhoi Su‑30MK2 / Grupo Aéreo de Caza N°13 “Libertador Simón Bolívar”
 - **Resultado inmediato:** Primera mujer venezolana y primera latinoamericana en clasificar como piloto de combate en el Sukhoi Su‑30MK2, hito que refuerza la inclusión de mujeres en unidades de caza de la FANB.
 
@@ -49,7 +49,7 @@ La figura de la “aviadora de combate” es un símbolo de profesionalización 
 - **2019:** Inicia su formación como piloto aviador en aviones de entrenamiento primario Aermacchi SF‑260U.
 - **2020:** Tras superar el entrenamiento básico en Embraer AT‑27 Tucano (Grupo Aéreo de Entrenamiento N°14 “Escorpiones”), es comisionada como piloto de instrucción en el GAE N°18.
 - **2021 (octubre):** Es transferida al Grupo Aéreo de Caza N°13 “Libertador Simón Bolívar” en Barcelona, estado Anzoátegui, para iniciar su formación en el caza multirrol Sukhoi Su‑30MK2.
-- **21 de marzo de 2024:** En ceremonia realizada en la Base Aérea Teniente Luis del Valle García, la capitana Cindi “Katara” Caraballo obtiene su clasificación como piloto de caza de combate del sistema Sukhoi Su‑30MK2, junto con el capitán Andrés Labrador. Con ello se convierte en la primera mujer venezolana y la primera mujer latinoamericana en pilotar este modelo.
+- **21 de marzo de 2024:** En ceremonia realizada en la Base Aérea Teniente Luis del Valle García, la capitana Cindi “Katara” Caraballo obtiene su clasificación como piloto de caza de combate del sistema Sukhoi Su‑30MK2, junto con el Capitán Andrés Labrador. Con ello se convierte en la primera mujer venezolana y la primera mujer latinoamericana en pilotar este modelo.
 - **22‑23 de marzo de 2024:** Medios especializados y cuentas de defensa en redes sociales difunden la noticia. La cuenta @SA_Defensa publica el reconocimiento oficial el 23 de marzo.
 
 ## Consecuencias e Impacto

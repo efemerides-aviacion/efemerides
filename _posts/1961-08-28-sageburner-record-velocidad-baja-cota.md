@@ -61,14 +61,14 @@ El Phantom II era entonces una novedad radical: un caza embarcado grande y pesad
 ## Desarrollo Cronológico
 
 - **27 de mayo de 1958:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/27/primer-vuelo-prototipo-yf4h1-phantom-ii.html" style="color: #315fea; text-decoration: none;">primer vuelo del prototipo YF4H-1 Phantom II</a>, el aparato que protagonizaría toda la campaña de récords.
-- **6 de diciembre de 1959:** operación *Top Flight*. El comandante Lawrence E. Flint lleva un YF4H-1 a 30.040 m en ascenso balístico.
+- **6 de diciembre de 1959:** operación *Top Flight*. El Comandante Lawrence E. Flint lleva un YF4H-1 a 30.040 m en ascenso balístico.
 - **1960:** el Phantom establece marcas de velocidad en circuitos cerrados de 500 y 100 km.
 - **24 de mayo de 1961:** operación *LANA*. Los tenientes Richard Gordon —futuro astronauta del Apolo XII— y Bobbie Long cruzan Estados Unidos de costa a costa en 2 h 47 min y ganan el Trofeo Bendix.
-- **18 de mayo de 1961:** primer intento de Sageburner. El F4H-1F Bu. No. 145316 se desintegra en vuelo al fallar el amortiguador de cabeceo. Mueren el comandante Jack L. Felsman y el alférez Raymond M. Hite.
+- **18 de mayo de 1961:** primer intento de Sageburner. El F4H-1F Bu. No. 145316 se desintegra en vuelo al fallar el amortiguador de cabeceo. Mueren el Comandante Jack L. Felsman y el Alférez Raymond M. Hite.
 - **Verano de 1961:** se rediseña y simplifica el sistema de control de cabeceo. Hardisty valida los cambios en un simulador de oscilaciones inducidas por el piloto antes de autorizar el segundo intento.
 - **28 de agosto de 1961:** al amanecer, el Bu. No. 145307 cruza dos veces el pasillo de tres kilómetros a menos de 38 metros del suelo. Récord mundial: 1.452,777 km/h.
 - **22 de noviembre de 1961:** operación *Skyburner*. Un Phantom modificado con inyección de agua alcanza 2.585,425 km/h, récord absoluto de velocidad.
-- **5 de diciembre de 1961:** el comandante George W. Ellis establece el récord de altitud en vuelo horizontal sostenido, 20.252 m.
+- **5 de diciembre de 1961:** el Comandante George W. Ellis establece el récord de altitud en vuelo horizontal sostenido, 20.252 m.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -76,7 +76,7 @@ El Phantom II era entonces una novedad radical: un caza embarcado grande y pesad
 
 El primer intento no fracasó por falta de potencia ni por error de pilotaje. Falló un componente concreto: el **amortiguador de cabeceo**, el sistema que suaviza los movimientos del morro en el eje vertical.
 
-Cuando dejó de funcionar, el avión entró en una oscilación inducida por el piloto. Es un fenómeno traicionero: el aparato cabecea, el piloto corrige, la corrección llega desfasada y amplifica el movimiento en lugar de amortiguarlo. A gran velocidad y baja cota, cada ciclo es más violento que el anterior. La estructura del Phantom llegó a soportar **12 g**. Se partió en el aire, los dos motores se desprendieron y el combustible explotó. Murieron el comandante Felsman y el alférez Hite.
+Cuando dejó de funcionar, el avión entró en una oscilación inducida por el piloto. Es un fenómeno traicionero: el aparato cabecea, el piloto corrige, la corrección llega desfasada y amplifica el movimiento en lugar de amortiguarlo. A gran velocidad y baja cota, cada ciclo es más violento que el anterior. La estructura del Phantom llegó a soportar **12 g**. Se partió en el aire, los dos motores se desprendieron y el combustible explotó. Murieron el Comandante Felsman y el Alférez Hite.
 
 La Marina abrió una revisión a fondo. El sistema de control de cabeceo se simplificó y se hizo menos sensible. Después hubo que validar los cambios, y ahí ocurrió algo poco habitual en la industria de la época: los datos de control de vuelo del F4H-1, propiedad de McDonnell, tuvieron que transferirse a un simulador de oscilaciones de **North American Aviation**, una empresa competidora. La cesión se hizo bajo supervisión de la Oficina de Armamento de la Marina.
 

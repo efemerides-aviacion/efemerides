@@ -12,7 +12,7 @@ image: 1961-04-12-primer-humano-orbitar-la-tierra.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1961-04-12-primer-humano-orbitar-la-tierra.webp" alt="Yuri Gagarin antes del despegue de Vostok 1">
-  <figcaption class="post-caption">Yuri Gagarin antes del despegue de Vostok 1 (12 de abril de 1961), junto al mariscal Kirill Moskalenko y Sergei Koroliov, Jefe de Diseño del programa espacial soviético. Fuente: <a href="https://en.wikipedia.org/wiki/Vostok_1" style="color: #315fea; text-decoration: none;">Wikipedia – Vostok 1</a>.</figcaption>
+  <figcaption class="post-caption">Yuri Gagarin antes del despegue de Vostok 1 (12 de abril de 1961), junto al Mariscal Kirill Moskalenko y Sergei Koroliov, Jefe de Diseño del programa espacial soviético. Fuente: <a href="https://en.wikipedia.org/wiki/Vostok_1" style="color: #315fea; text-decoration: none;">Wikipedia – Vostok 1</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 

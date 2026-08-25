@@ -50,7 +50,7 @@ La barrera de los 5.000 metros no era de motor sino de cuerpo: sin traje ni cabi
 
 ### Entorno cultural
 
-Piccard pertenecía a una estirpe: su gemelo Jean Felix volaría también a la estratosfera, y la esposa de este, Jeannette, sería la primera mujer en alcanzarla; su hijo Jacques bajaría a 3.150 m en el batiscafo Trieste en 1953, y su nieto Bertrand daría la vuelta al mundo en globo y en avión solar. «Reduje a Piccard a escala de miniatura», confesó Hergé sobre Tornasol; Gene Roddenberry tomaría el apellido para el capitán Picard de Star Trek.
+Piccard pertenecía a una estirpe: su gemelo Jean Felix volaría también a la estratosfera, y la esposa de este, Jeannette, sería la primera mujer en alcanzarla; su hijo Jacques bajaría a 3.150 m en el batiscafo Trieste en 1953, y su nieto Bertrand daría la vuelta al mundo en globo y en avión solar. «Reduje a Piccard a escala de miniatura», confesó Hergé sobre Tornasol; Gene Roddenberry tomaría el apellido para el Capitán Picard de Star Trek.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

@@ -69,7 +69,7 @@ Napier insistió en un matiz que hoy resulta revelador: el vuelo **no fue una ex
 - **28 de agosto de 1957, 17:26:** despegue de Luton. El avión pone rumbo a Portland Bill, en la costa sur.
 - **28 de agosto de 1957:** a 13.400 m, unas millas al sur de la isla de Wight, Randrup vira al noreste y enciende el Double Scorpion. Tres minutos después ha ganado casi 8.000 metros y captura el récord, a unos treinta kilómetros al sur de Shoreham-on-Sea.
 - **28 de agosto de 1957, 18:12:** aterrizaje en Luton tras cuarenta y seis minutos de vuelo.
-- **7 de mayo de 1958:** el mayor Howard C. Johnson arrebata la marca al Canberra con un <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/16/f104-starfighter-aeronave-historica-en-records.html" style="color: #315fea; text-decoration: none;">Lockheed F-104 Starfighter, que alcanza los 27.811 metros</a>.
+- **7 de mayo de 1958:** el Mayor Howard C. Johnson arrebata la marca al Canberra con un <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/16/f104-starfighter-aeronave-historica-en-records.html" style="color: #315fea; text-decoration: none;">Lockheed F-104 Starfighter, que alcanza los 27.811 metros</a>.
 - **1959:** cancelado el programa Scorpion. Los turborreactores habían mejorado lo suficiente como para hacer innecesario el cohete auxiliar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -124,7 +124,7 @@ La familia Canberra, en conjunto, acumuló veintidós récords mundiales de altu
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La cifra del récord aparece en las fuentes de dos maneras. La FAI homologó <strong>21.430 metros</strong>, y esa es la cifra oficial que se consigna aquí. Las publicaciones británicas de la época y la propia inscripción pintada en el morro del avión citan <strong>70.310 pies</strong>, equivalentes a 21.430 m redondeando; algunas fuentes dan 70.308 pies por conversión inversa desde el valor métrico. La diferencia es de metodología de redondeo, no de discrepancia documental.</p>
-  <p>Conviene precisar además el alcance de la marca. Fue un récord mundial de altitud en la <strong>clase C-1, grupo 3 (aviones terrestres con turborreactor)</strong>, la categoría de aparatos que despegan por sus propios medios. No fue la mayor altura alcanzada por un ser humano en un avión hasta esa fecha: el 7 de septiembre de 1956, el capitán Iven Kincheloe había llegado a 38.466 m con el Bell X-2, pero ese era un avión cohete <em>soltado en vuelo</em> desde un bombardero nodriza, lo que lo sitúa en una categoría distinta y no comparable a efectos de homologación.</p>
+  <p>Conviene precisar además el alcance de la marca. Fue un récord mundial de altitud en la <strong>clase C-1, grupo 3 (aviones terrestres con turborreactor)</strong>, la categoría de aparatos que despegan por sus propios medios. No fue la mayor altura alcanzada por un ser humano en un avión hasta esa fecha: el 7 de septiembre de 1956, el Capitán Iven Kincheloe había llegado a 38.466 m con el Bell X-2, pero ese era un avión cohete <em>soltado en vuelo</em> desde un bombardero nodriza, lo que lo sitúa en una categoría distinta y no comparable a efectos de homologación.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

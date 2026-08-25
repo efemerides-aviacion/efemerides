@@ -93,7 +93,7 @@ La tripulación estaba compuesta por ciudadanos turcos, mientras que las víctim
 
 - **Pérdida total de la aeronave:** El Boeing 747-412F TC-MCL quedó completamente destruido. ACT Airlines perdió uno de sus principales activos operativos.
 
-- **Víctimas:** 39 fallecidos (4 tripulantes + 35 residentes de Dacha-Suu). Entre los tripulantes se encontraba el capitán Hatice Kübra Yiğit, una de las pocas mujeres piloto de Boeing 747 en Turquía, con 5,500 horas de vuelo.
+- **Víctimas:** 39 fallecidos (4 tripulantes + 35 residentes de Dacha-Suu). Entre los tripulantes se encontraba el Capitán Hatice Kübra Yiğit, una de las pocas mujeres piloto de Boeing 747 en Turquía, con 5,500 horas de vuelo.
 
 - **Hallazgos de la investigación (CIAA):**
 

@@ -66,7 +66,7 @@ El grupo que la llevó al frente fue obra de <a href="https://efemerides-aviacio
 - **13 de septiembre de 1942:** en su tercera misión derriba un Ju 88 y el Bf 109 del as Erwin Meier: primera mujer en derribar un avión enemigo.
 - **Octubre de 1942-enero de 1943:** sirve en el 9.º Regimiento de Guardias, entre los ases más famosos de la URSS.
 - **Enero de 1943:** pasa al 296.º Regimiento (73.º de Guardias desde marzo), su hogar de combate; vuela de ala de Aleksei Solomatin.
-- **11 de febrero de 1943:** en una batalla de cuatro Yak contra 29 aviones enemigos, derriba un Ju 87 y comparte un Fw 190 con su comandante Baránov.
+- **11 de febrero de 1943:** en una batalla de cuatro Yak contra 29 aviones enemigos, derriba un Ju 87 y comparte un Fw 190 con su Comandante Baránov.
 - **23 de febrero de 1943:** recibe la Orden de la Estrella Roja, es promovida a teniente junior y seleccionada como «cazadora libre».
 - **21 de mayo de 1943:** Solomatin muere en un accidente de entrenamiento ante el regimiento; Litviak, que lo amaba en silencio, solo pide volar y combatir.
 - **1 de agosto de 1943:** en su cuarta salida del día, escolta sobre el Mius, es atacada por varios Bf 109 y desaparece; temía morir «sin rastro», y así ocurre.

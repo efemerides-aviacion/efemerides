@@ -86,7 +86,7 @@ Cochran quedó fascinada con las carreras aéreas. Su primera carrera internacio
 - **1939:** Escribe a Eleanor Roosevelt proponiendo la creación de un cuerpo femenino de pilotos para esfuerzos de defensa nacional. Se convierte en la primera mujer en volar un caza (P-35) en la Bendix Race.
 - **1940:** Primera mujer en pilotar un bombardero (Lockheed Hudson V) a través del Atlántico.
 - **1941:** Se une a la British Air Transport Auxiliary (ATA) para apoyar el esfuerzo bélico británico.
-- **1942:** El general Henry "Hap" Arnold la nombra directora del Women's Flying Training Detachment (WFTD) para entrenar a pilotas para el ejército estadounidense.
+- **1942:** El General Henry "Hap" Arnold la nombra directora del Women's Flying Training Detachment (WFTD) para entrenar a pilotas para el ejército estadounidense.
 - **1943:** El WFTD se fusiona con la Women's Auxiliary Ferrying Squadron (WAFS) de Nancy Love para formar las Women Airforce Service Pilots (WASP). Cochran es nombrada directora. Recibe el Trofeo Harmon por tercera vez.
 - **1945:** Recibe la Medalla por Servicio Distinguido del Ejército por su dirección del programa WASP.
 - **1948:** Se une a la Reserva de la Fuerza Aérea de los Estados Unidos como teniente coronel.
@@ -106,7 +106,7 @@ Cochran quedó fascinada con las carreras aéreas. Su primera carrera internacio
 
 Con el estallido de la Segunda Guerra Mundial en 1939, Cochran escribió a Eleanor Roosevelt, esposa del presidente Franklin D. Roosevelt, para proponer la creación de un cuerpo femenino de pilotos para apoyar a las fuerzas armadas en caso de emergencia nacional. Su propuesta fue inicialmente rechazada, por lo que en 1941 Cochran se alistó en la British Air Transport Auxiliary (ATA), donde reclutó a otras 25 pilotos estadounidenses para servir en Inglaterra.
 
-Su éxito en la ATA llamó la atención del general Henry "Hap" Arnold, comandante de las Fuerzas Aéreas del Ejército de los Estados Unidos (USAAF). En 1942, Arnold la nombró directora del Women's Flying Training Detachment (WFTD) con sede en el aeródromo municipal de Howard Hughes en Houston, Texas. Simultáneamente, la experimentada piloto Nancy Love dirigía la Women's Auxiliary Ferrying Squadron (WAFS). Para eliminar la duplicidad de esfuerzos, en 1943 ambas organizaciones se fusionaron para formar las Women Airforce Service Pilots (WASP), con Cochran como directora y Love como jefa de las operaciones de transporte.
+Su éxito en la ATA llamó la atención del General Henry "Hap" Arnold, comandante de las Fuerzas Aéreas del Ejército de los Estados Unidos (USAAF). En 1942, Arnold la nombró directora del Women's Flying Training Detachment (WFTD) con sede en el aeródromo municipal de Howard Hughes en Houston, Texas. Simultáneamente, la experimentada piloto Nancy Love dirigía la Women's Auxiliary Ferrying Squadron (WAFS). Para eliminar la duplicidad de esfuerzos, en 1943 ambas organizaciones se fusionaron para formar las Women Airforce Service Pilots (WASP), con Cochran como directora y Love como jefa de las operaciones de transporte.
 
 Bajo el liderazgo de Cochran, más de 1.000 mujeres pilotos se graduaron en el programa WASP en Avenger Field, Texas. Las WASP volaron más de 60 millones de millas, transportando todo tipo de aeronaves militares (78 tipos diferentes), incluyendo los cazas P-51 Mustang, P-39 Airacobra y P-63 Kingcobra, así como los bombarderos B-17 Flying Fortress y B-29 Superfortress. Aunque 38 WASP perdieron la vida en servicio, no recibieron beneficios militares porque fueron consideradas personal civil, no militar. El programa WASP fue disuelto en diciembre de 1944. En 1945, Cochran recibió la Medalla por Servicio Distinguido del Ejército por su liderazgo, la más alta condecoración no combatiente.
 
@@ -114,7 +114,7 @@ Bajo el liderazgo de Cochran, más de 1.000 mujeres pilotos se graduaron en el p
 
 ## El récord de velocidad y la barrera del sonido
 
-El 18 de mayo de 1953, Jacqueline Cochran se propuso batir el récord mundial de velocidad sobre 100 km establecido por el coronel Fred Ascani (1.023,04 km/h). Pilotando un Canadair F-86 Sabre Mk.3 prestado por la Fuerza Aérea Canadiense, realizó dos pasadas sobre un circuito de 100 km en Rogers Dry Lake, California.
+El 18 de mayo de 1953, Jacqueline Cochran se propuso batir el récord mundial de velocidad sobre 100 km establecido por el Coronel Fred Ascani (1.023,04 km/h). Pilotando un Canadair F-86 Sabre Mk.3 prestado por la Fuerza Aérea Canadiense, realizó dos pasadas sobre un circuito de 100 km en Rogers Dry Lake, California.
 
 ### La carrera contra el sonido
 

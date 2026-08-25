@@ -57,7 +57,7 @@ La aviación comercial en China es un símbolo de modernidad y eficiencia estata
 ## Desarrollo Cronológico
 
 - **21 de marzo de 2022, 13:11 CST:** El vuelo MU5735 despega del Aeropuerto Internacional Kunming Changshui con destino a Guangzhou. A bordo viajan 123 pasajeros y 9 tripulantes (tres pilotos y seis auxiliares).
-- **Tripulación:** El capitán Yang Hongda, 47 años, acumulaba 6.709 horas de vuelo. El primer oficial Zhang Zhengping, 28 años, tenía 556 horas. El instructor Zhang Zhengping, 57 años, sumaba 31.769 horas, una experiencia excepcionalmente alta.
+- **Tripulación:** El Capitán Yang Hongda, 47 años, acumulaba 6.709 horas de vuelo. El Primer Oficial Zhang Zhengping, 28 años, tenía 556 horas. El instructor Zhang Zhengping, 57 años, sumaba 31.769 horas, una experiencia excepcionalmente alta.
 - **14:19 CST:** La aeronave se encuentra en nivel de crucero FL291 (aproximadamente 8.900 m), navegando normalmente.
 - **14:20:55 CST:** El control de tráfico aéreo intenta contactar a la tripulación para autorizar un descenso de rutina. No hay respuesta.
 - **14:21 CST:** El radar secundario muestra que el avión inicia un descenso abrupto y sostenido. Las grabaciones del registrador de datos de vuelo (FDR) indican que el capitán exclamó "¡Lo activé!" y el primer oficial "¡No!" segundos antes de que el avión entrara en picada.

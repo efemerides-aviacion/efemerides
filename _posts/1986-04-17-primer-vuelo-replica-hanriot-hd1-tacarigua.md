@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Escuela Técnica de la Fuerza Aérea Venezolana
-excerpt: "El 17 de abril de 1986, la réplica venezolana del caza francés Hanriot HD.1, bautizada 'Tacarigua', realizó su primer vuelo oficial en la Base Aérea Mariscal Sucre (Boca de Río, estado Aragua), pilotada por el general Cándido Farías. La aeronave fue construida íntegramente por la Escuela Técnica de la Fuerza Aérea Venezolana bajo la dirección del técnico aeronáutico Romano Remiddi, utilizando planos originales de 1916."
+excerpt: "El 17 de abril de 1986, la réplica venezolana del caza francés Hanriot HD.1, bautizada 'Tacarigua', realizó su primer vuelo oficial en la Base Aérea Mariscal Sucre (Boca de Río, estado Aragua), pilotada por el General Cándido Farías. La aeronave fue construida íntegramente por la Escuela Técnica de la Fuerza Aérea Venezolana bajo la dirección del técnico aeronáutico Romano Remiddi, utilizando planos originales de 1916."
 image: 1986-04-17-primer-vuelo-replica-hanriot-hd1-tacarigua.webp
 ---
 
@@ -19,7 +19,7 @@ image: 1986-04-17-primer-vuelo-replica-hanriot-hd1-tacarigua.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 17 de abril de 1986 realizó su primer vuelo oficial la réplica venezolana del Hanriot HD.1, bautizada “Tacarigua”, construida en la Escuela Técnica de la Fuerza Aérea Venezolana bajo el proyecto “Hanriot HD-1-ET”. La aeronave fue elaborada a partir de planos originales y forma parte del patrimonio aeronáutico venezolano como una réplica a escala 1:1 del caza francés de la Primera Guerra Mundial. El vuelo inaugural oficial estuvo a cargo del general Cándido Farías en la Base Aérea Mariscal Sucre de Boca de Río.</p>
+<p>El 17 de abril de 1986 realizó su primer vuelo oficial la réplica venezolana del Hanriot HD.1, bautizada “Tacarigua”, construida en la Escuela Técnica de la Fuerza Aérea Venezolana bajo el proyecto “Hanriot HD-1-ET”. La aeronave fue elaborada a partir de planos originales y forma parte del patrimonio aeronáutico venezolano como una réplica a escala 1:1 del caza francés de la Primera Guerra Mundial. El vuelo inaugural oficial estuvo a cargo del General Cándido Farías en la Base Aérea Mariscal Sucre de Boca de Río.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -63,7 +63,7 @@ El proyecto “Hanriot HD-1-ET” fue presentado como un hito de la ingeniería 
 - **1983:** Se aprueba el proyecto de construcción de la réplica en la Escuela Técnica de la FAV.
 - **1983-1985:** Período de construcción de la aeronave (15 meses). Se utilizan planos obtenidos de Aeronautica Macchi.
 - **Finales de 1985:** Primer vuelo no oficial de la réplica (según algunas fuentes), que termina en un accidente leve durante el aterrizaje. No se reportan daños de consideración.
-- **17 de abril de 1986:** Primer vuelo oficial en la Base Aérea Mariscal Sucre (Boca de Río), pilotado por el general Cándido Farías. El evento es presenciado por autoridades militares y civiles.
+- **17 de abril de 1986:** Primer vuelo oficial en la Base Aérea Mariscal Sucre (Boca de Río), pilotado por el General Cándido Farías. El evento es presenciado por autoridades militares y civiles.
 - **Década de 1990:** El avión es retirado de vuelos activos y se integra al “Escuadrón Legendario” para demostraciones aéreas estáticas.
 - **1994:** La aeronave es trasladada al Museo Aeronáutico de Maracay, donde permanece en exposición.
 
@@ -87,7 +87,7 @@ El avión fue bautizado “Tacarigua” en honor a los indígenas Tacarigua, pue
 
 ### El primer vuelo oficial
 
-El 17 de abril de 1986, el general Cándido Farías, piloto de la FAV con amplia experiencia, tomó los mandos del “Tacarigua” en la Base Aérea Mariscal Sucre. Ante la presencia de altas autoridades militares y civiles, realizó un vuelo de aproximadamente 15 minutos, demostrando la plena capacidad operativa de la réplica. Este vuelo fue considerado un éxito rotundo y consolidó el proyecto como un hito histórico.
+El 17 de abril de 1986, el General Cándido Farías, piloto de la FAV con amplia experiencia, tomó los mandos del “Tacarigua” en la Base Aérea Mariscal Sucre. Ante la presencia de altas autoridades militares y civiles, realizó un vuelo de aproximadamente 15 minutos, demostrando la plena capacidad operativa de la réplica. Este vuelo fue considerado un éxito rotundo y consolidó el proyecto como un hito histórico.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -114,7 +114,7 @@ Hoy, el avión se encuentra en exposición en el Museo Aeronáutico de Maracay "
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-<p><strong>Nota aclaratoria sobre la fecha del primer vuelo:</strong> Existe una discrepancia entre las fuentes consultadas respecto a la fecha exacta del primer vuelo del Hanriot HD-1 “Tacarigua”. Algunas fuentes mencionan que la aeronave realizó un vuelo no oficial a finales de 1985, el cual terminó en un accidente leve. Sin embargo, la <strong>totalidad de las fuentes especializadas y la tradición institucional de la Fuerza Aérea Venezolana coinciden en señalar el 17 de abril de 1986 como la fecha del primer vuelo oficial</strong>, realizado por el general Cándido Farías en la Base Aérea Mariscal Sucre. Esta efeméride se basa en esa fecha, por ser la más documentada y la que la institución conmemora oficialmente.</p>
+<p><strong>Nota aclaratoria sobre la fecha del primer vuelo:</strong> Existe una discrepancia entre las fuentes consultadas respecto a la fecha exacta del primer vuelo del Hanriot HD-1 “Tacarigua”. Algunas fuentes mencionan que la aeronave realizó un vuelo no oficial a finales de 1985, el cual terminó en un accidente leve. Sin embargo, la <strong>totalidad de las fuentes especializadas y la tradición institucional de la Fuerza Aérea Venezolana coinciden en señalar el 17 de abril de 1986 como la fecha del primer vuelo oficial</strong>, realizado por el General Cándido Farías en la Base Aérea Mariscal Sucre. Esta efeméride se basa en esa fecha, por ser la más documentada y la que la institución conmemora oficialmente.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

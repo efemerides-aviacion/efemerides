@@ -57,12 +57,12 @@ En la aviación india de la época, existían preocupaciones recurrentes sobre l
 ## Desarrollo Cronológico del Accidente
 
 - **21 de mayo de 2010, 23:00 hora local (Dubái):** El vuelo 812 despega del Aeropuerto Internacional de Dubái con destino a Mangalore. La duración prevista del vuelo es de aproximadamente 3 horas y 30 minutos.
-- **Durante el vuelo:** La grabadora de voz en cabina (CVR) registra patrones de respiración típicos del sueño profundo del capitán Zlatko Glušica. Permanece dormido durante al menos 1 hora y 40 minutos. La grabación captó ronquidos.
+- **Durante el vuelo:** La grabadora de voz en cabina (CVR) registra patrones de respiración típicos del sueño profundo del Capitán Zlatko Glušica. Permanece dormido durante al menos 1 hora y 40 minutos. La grabación captó ronquidos.
 - **06:00 hora local (Mangalore):** El capitán se despierta aproximadamente 21 minutos antes de la aproximación. Las condiciones meteorológicas son buenas: visibilidad superior a 6 km, nubes dispersas, viento en calma.
-- **06:05:00:** La CVR deja de grabar debido a que la memoria se agotó o se detuvo. El capitán Glušica está al mando para el aterrizaje en Mangalore, donde había realizado 16 aterrizajes anteriores.
+- **06:05:00:** La CVR deja de grabar debido a que la memoria se agotó o se detuvo. El Capitán Glušica está al mando para el aterrizaje en Mangalore, donde había realizado 16 aterrizajes anteriores.
 - **Aproximación:** Debido a que el radar de Mangalore no estaba operativo, la aeronave tiene que seguir una trayectoria de descenso más corta. La tripulación no prepara adecuadamente el perfil de descenso. El avión se encuentra "mucho más alto" de lo que debería para la aproximación ILS a la pista 24.
 - **Aproximación final:** La aeronave cruza el umbral de la pista 24 a una altura de 60 metros (200 pies), cuatro veces más alta de lo estándar (15 metros / 50 pies). La velocidad es de 160 nudos (aproximadamente 296 km/h). El sistema EGPWS emite múltiples advertencias de "SINK RATE" (exceso de tasa de descenso) y "PULL UP" (remonte).
-- **Reacción del copiloto:** El primer oficial Ahluwalia sugiere en tres ocasiones que se debería ejecutar una aproximación frustrada ("go-around"), pero el capitán ignora las advertencias y continúa.
+- **Reacción del copiloto:** El Primer Oficial Ahluwalia sugiere en tres ocasiones que se debería ejecutar una aproximación frustrada ("go-around"), pero el capitán ignora las advertencias y continúa.
 - **06:24:15 (aproximadamente):** La aeronave toca tierra a unos 1.585 metros (5.200 pies) del umbral de la pista, dejando solo unos 850 metros (2.800 pies) de pista restante para detenerse.
 - **06:24:25:** El capitán activa los frenos automáticos y los inversores de empuje. Sin embargo, el capitán "no aplicó los frenos apropiadamente" e incluso intentó una aproximación frustrada después de activar los inversores de empuje, en contra de los procedimientos operativos estándar.
 - **06:24:26:** El Boeing 737-800 supera el final de la pista 24. El ala derecha impacta contra la antena del localizador ILS.
@@ -77,7 +77,7 @@ La investigación estuvo a cargo de una comisión de investigación judicial (Co
 
 ### Causas identificadas
 
-1. **Sueño del capitán e inercia del sueño:** La CVR reveló que el capitán Glušica durmió durante la mayor parte del vuelo de 2 horas y 5 minutos. La grabación captó al menos 1 hora y 28 minutos de patrones de respiración profunda y ronquidos. El prolongado sueño, especialmente durante el período de baja circadiana, pudo haber causado "inercia del sueño" que afectó su juicio durante la aproximación, que ocurrió solo 21 minutos después de despertarse.
+1. **Sueño del capitán e inercia del sueño:** La CVR reveló que el Capitán Glušica durmió durante la mayor parte del vuelo de 2 horas y 5 minutos. La grabación captó al menos 1 hora y 28 minutos de patrones de respiración profunda y ronquidos. El prolongado sueño, especialmente durante el período de baja circadiana, pudo haber causado "inercia del sueño" que afectó su juicio durante la aproximación, que ocurrió solo 21 minutos después de despertarse.
 
 2. **Aproximación inestable y no frustrada:** La aeronave se aproximó a gran altura (60 metros sobre el umbral) y a excesiva velocidad. El capitán no siguió los procedimientos estándar que exigen abortar el aterrizaje si la aeronave no está estabilizada a 300 metros de altura. El copiloto sugirió tres veces una aproximación frustrada, pero el capitán las ignoró.
 
@@ -129,7 +129,7 @@ El accidente del vuelo 812 de Air India Express sigue siendo uno de los más mor
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> El informe oficial de la investigación determinó que el capitán Zlatko Glušica durmió durante gran parte del vuelo. La grabadora de voz en cabina (CVR) registró patrones de respiración profunda y ronquidos durante al menos 1 hora y 28 minutos. La NTSB citó este caso como el primero en que se registraron ronquidos de un piloto en una CVR como factor contribuyente a un accidente. Aunque algunos medios iniciales especularon sobre el estado de la pista o fallos técnicos, el informe final concluyó que la causa principal fue el error del piloto agravado por la fatiga y el gradiente de autoridad en cabina.</p>
+  <p><strong>Nota aclaratoria:</strong> El informe oficial de la investigación determinó que el Capitán Zlatko Glušica durmió durante gran parte del vuelo. La grabadora de voz en cabina (CVR) registró patrones de respiración profunda y ronquidos durante al menos 1 hora y 28 minutos. La NTSB citó este caso como el primero en que se registraron ronquidos de un piloto en una CVR como factor contribuyente a un accidente. Aunque algunos medios iniciales especularon sobre el estado de la pista o fallos técnicos, el informe final concluyó que la causa principal fue el error del piloto agravado por la fatiga y el gradiente de autoridad en cabina.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

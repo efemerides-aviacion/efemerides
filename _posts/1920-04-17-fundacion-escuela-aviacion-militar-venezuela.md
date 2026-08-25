@@ -6,7 +6,7 @@ categories: [fundacion]
 author: Enrique Pomares
 pais: Venezuela
 operator: Escuela de Aviación Militar / Aviación Militar Bolivariana (Anteriormente FAV)
-excerpt: "El 17 de abril de 1920 se decreta la creación de la Escuela de Aviación Militar de Venezuela, iniciativa del general Juan Vicente Gómez para formar a los primeros pilotos militares del país, utilizando inicialmente aviones Caudron G-3 y misiones francesas."
+excerpt: "El 17 de abril de 1920 se decreta la creación de la Escuela de Aviación Militar de Venezuela, iniciativa del General Juan Vicente Gómez para formar a los primeros pilotos militares del país, utilizando inicialmente aviones Caudron G-3 y misiones francesas."
 image: 1920-04-17-fundacion-escuela-aviacion-militar-venezuela.webp
 ---
 
@@ -19,7 +19,7 @@ image: 1920-04-17-fundacion-escuela-aviacion-militar-venezuela.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 17 de abril de 1920, el presidente provisional Victoriano Márquez Bustillos, por decreto Nº 127 y por orden del general Juan Vicente Gómez, se creó la Escuela de Aviación Militar de Venezuela. Este hito marcó el nacimiento formal de la aviación militar en el país, con sede en Maracay, estado Aragua. La escuela comenzó a operar con instructores y aeronaves francesas (Caudron G-3) y fue instalada oficialmente el 10 de diciembre de 1920. Con el tiempo, esta institución se transformaría en la actual Academia Militar de la Aviación Bolivariana (AMAB), formando a generaciones de pilotos y defensores del espacio aéreo venezolano durante más de un siglo.</p>
+<p>El 17 de abril de 1920, el presidente provisional Victoriano Márquez Bustillos, por decreto Nº 127 y por orden del General Juan Vicente Gómez, se creó la Escuela de Aviación Militar de Venezuela. Este hito marcó el nacimiento formal de la aviación militar en el país, con sede en Maracay, estado Aragua. La escuela comenzó a operar con instructores y aeronaves francesas (Caudron G-3) y fue instalada oficialmente el 10 de diciembre de 1920. Con el tiempo, esta institución se transformaría en la actual Academia Militar de la Aviación Bolivariana (AMAB), formando a generaciones de pilotos y defensores del espacio aéreo venezolano durante más de un siglo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -41,7 +41,7 @@ image: 1920-04-17-fundacion-escuela-aviacion-militar-venezuela.webp
 
 ## Contexto Histórico
 
-A finales de la segunda década del siglo XX, la aviación militar ya había demostrado su importancia estratégica durante la Primera Guerra Mundial (1914-1918). Venezuela, gobernada con mano firme por el general Juan Vicente Gómez desde Maracay, no era ajena a estos avances tecnológicos. Influenciado por su hijo Florencio Gómez Núñez, un entusiasta de la naciente arma aérea, Gómez decidió dotar al país de una escuela que formara pilotos militares.
+A finales de la segunda década del siglo XX, la aviación militar ya había demostrado su importancia estratégica durante la Primera Guerra Mundial (1914-1918). Venezuela, gobernada con mano firme por el General Juan Vicente Gómez desde Maracay, no era ajena a estos avances tecnológicos. Influenciado por su hijo Florencio Gómez Núñez, un entusiasta de la naciente arma aérea, Gómez decidió dotar al país de una escuela que formara pilotos militares.
 
 
 ### Entorno social
@@ -61,7 +61,7 @@ La figura del piloto aviador despertaba fascinación. El gobierno de Gómez prom
 - **17 de abril de 1920:** Se dicta el decreto Nº 127 de creación de la Escuela de Aviación Militar.
 - **21 de junio de 1920:** El Congreso promulga la Ley de Aviación y el Ministerio de Guerra y Marina aprueba el Reglamento Orgánico de la Escuela.
 - **26 de junio de 1920:** Adquisición del Fundo San Jacobo en Maracay, donde se construirían los hangares y el campo de aviación. 
-- **10 de diciembre de 1920:** Se instala oficialmente la Escuela en Maracay, en un acto presidido por el coronel David López Henríquez. Se inauguran tres hangares diseñados por el ingeniero Luis Guillermo Salas Díaz.
+- **10 de diciembre de 1920:** Se instala oficialmente la Escuela en Maracay, en un acto presidido por el Coronel David López Henríquez. Se inauguran tres hangares diseñados por el ingeniero Luis Guillermo Salas Díaz.
 - **1921-1929:** Misión aeronáutica francesa aporta instructores, técnicos y material.
 - **1930-1933:** Misión aeronáutica alemana aporta hidroaviones Junkers Bremen.
 - **1936:** Se construye un edificio de aulas diseñado por el arquitecto Carlos Guinand Sandoz.
@@ -80,7 +80,7 @@ El decreto Nº 127 del 17 de abril de 1920 fue el acto fundacional de la aviaci�
 
 ### El decreto y sus impulsores
 
-El decreto Nº 127 fue firmado en Caracas por el presidente provisional Victoriano Márquez Bustillos, pero el verdadero impulsor fue el general Juan Vicente Gómez, quien desde su residencia en Las Delicias (Maracay) ejercía el poder absoluto. Gómez fue convencido por su hijo Florencio, quien había visto demostraciones aéreas en el extranjero.
+El decreto Nº 127 fue firmado en Caracas por el presidente provisional Victoriano Márquez Bustillos, pero el verdadero impulsor fue el General Juan Vicente Gómez, quien desde su residencia en Las Delicias (Maracay) ejercía el poder absoluto. Gómez fue convencido por su hijo Florencio, quien había visto demostraciones aéreas en el extranjero.
 
 El decreto fundacional fue solo el primer paso. Para materializar la nueva escuela, el gobierno de Gómez adquirió el Fundo San Jacobo en Maracay, donde se construirían los hangares y el campo de aviación. El 10 de diciembre de ese mismo año, se inauguraron los primeros hangares en la Base Aragua, marcando el inicio físico de la aviación militar venezolana. Este lugar, donde hoy se erige el Museo Aeronáutico de Maracay, es recordado como la cuna de la aviación en el país.
 
@@ -94,7 +94,7 @@ La escuela comenzó a operar con tres aviones Caudron G-3 adquiridos a Francia. 
 
 ### La instalación oficial
 
-El 10 de diciembre de 1920 se llevó a cabo el acto de instalación de la escuela, presidido por el coronel David López Henríquez. Esta fecha es considerada por algunas fuentes como el inicio efectivo de las operaciones de la aviación militar en Venezuela.
+El 10 de diciembre de 1920 se llevó a cabo el acto de instalación de la escuela, presidido por el Coronel David López Henríquez. Esta fecha es considerada por algunas fuentes como el inicio efectivo de las operaciones de la aviación militar en Venezuela.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -104,7 +104,7 @@ El 10 de diciembre de 1920 se llevó a cabo el acto de instalación de la escuel
 
 - **Autonomía de la Fuerza Aérea:** En 1947, la Aviación Militar logró su plena autonomía del Ejército y se convirtió en la Fuerza Aérea Venezolana (FAV).
 
-- **Formación de generaciones de pilotos:** La escuela formó a los primeros pilotos militares venezolanos, incluyendo a figuras como el teniente Vicente Landaeta Gil (héroe de la aviación nacional) y el capitán Gastón Lafannechere.
+- **Formación de generaciones de pilotos:** La escuela formó a los primeros pilotos militares venezolanos, incluyendo a figuras como el Teniente Vicente Landaeta Gil (héroe de la aviación nacional) y el Capitán Gastón Lafannechere.
 
 - **Patrimonio histórico:** El hangar principal y el edificio de aulas diseñado por Carlos Guinand Sandoz fueron declarados Sitios de Interés Artístico, Histórico y Arquitectónico del estado Aragua el 21 de noviembre de 1997.
 

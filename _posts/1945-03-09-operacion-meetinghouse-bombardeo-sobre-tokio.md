@@ -18,7 +18,7 @@ image: 1945-03-09-operacion-meetinghouse-bombardeo-sobre-tokio.jpg
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="highlight-box">
-<p>La noche del 9 al 10 de marzo de 1945, la Operación Meetinghouse, liderada por el general Curtis LeMay, desató el bombardeo con explosivos convencionales más mortífero de la historia sobre Tokio. Casi 300 bombarderos B-29 lanzaron 1.665 toneladas de bombas incendiarias de napalm, provocando una tormenta de fuego que arrasó 41 km² de la ciudad y causó más de 100.000 víctimas mortales inmediatas, superando en número a Hiroshima o Nagasaki en su momento inicial.</p>
+<p>La noche del 9 al 10 de marzo de 1945, la Operación Meetinghouse, liderada por el General Curtis LeMay, desató el bombardeo con explosivos convencionales más mortífero de la historia sobre Tokio. Casi 300 bombarderos B-29 lanzaron 1.665 toneladas de bombas incendiarias de napalm, provocando una tormenta de fuego que arrasó 41 km² de la ciudad y causó más de 100.000 víctimas mortales inmediatas, superando en número a Hiroshima o Nagasaki en su momento inicial.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

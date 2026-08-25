@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Japón
 operator: Servicio Aéreo del Ejército Imperial Japonés
-excerpt: "El 28 de mayo de 1945, el primer teniente Hajime Fujii, comandante de la 45.ª Unidad Shinbu, lideró un ataque kamikaze contra el destructor estadounidense USS Drexler (DD-741) frente a las costas de Okinawa. El ataque, que formó parte de la Operación Kikusui VIII, resultó en el hundimiento del buque con la pérdida de 158 tripulantes. La historia de Fujii está marcada por la trágica decisión de su esposa Fukuko de suicidarse junto a sus dos hijas para liberarlo de sus obligaciones familiares y permitirle cumplir su deseo de unirse a las misiones suicidas."
+excerpt: "El 28 de mayo de 1945, el Primer Teniente Hajime Fujii, comandante de la 45.ª Unidad Shinbu, lideró un ataque kamikaze contra el destructor estadounidense USS Drexler (DD-741) frente a las costas de Okinawa. El ataque, que formó parte de la Operación Kikusui VIII, resultó en el hundimiento del buque con la pérdida de 158 tripulantes. La historia de Fujii está marcada por la trágica decisión de su esposa Fukuko de suicidarse junto a sus dos hijas para liberarlo de sus obligaciones familiares y permitirle cumplir su deseo de unirse a las misiones suicidas."
 image: 1945-05-28-ataque-kamikaze-hajime-fujii.webp
 
 ---
@@ -20,7 +20,7 @@ image: 1945-05-28-ataque-kamikaze-hajime-fujii.webp
 
 ## Resumen Ejecutivo
 
-El 28 de mayo de 1945, en las postrimerías de la Batalla de Okinawa, el primer teniente Hajime Fujii lideró un escuadrón de nueve aviones Kawasaki Ki-45 "Nick" de la 45.ª Unidad Shinbu en una misión kamikaze contra la flota estadounidense. Su objetivo era el destructor USS Drexler (DD-741), un buque de la clase Allen M. Sumner que operaba como estación de piquete radar. Al menos dos aviones impactaron contra el Drexler, que se hundió en menos de un minuto con la pérdida de 158 de sus 336 tripulantes. La historia de Fujii, sin embargo, trasciende el hecho militar: tras múltiples solicitudes rechazadas para unirse a los ataques suicidas por tener esposa e hijos, su esposa Fukuko se suicidó el 14 de diciembre de 1944 junto a sus dos hijas pequeñas, Kazuko (3 años) y Chieko (1 año), para liberarlo de sus obligaciones familiares. Con el camino despejado, Fujii fue aceptado y nombrado comandante de la unidad que él mismo bautizó "Kaishin" (Espíritu Alegre).
+El 28 de mayo de 1945, en las postrimerías de la Batalla de Okinawa, el Primer Teniente Hajime Fujii lideró un escuadrón de nueve aviones Kawasaki Ki-45 "Nick" de la 45.ª Unidad Shinbu en una misión kamikaze contra la flota estadounidense. Su objetivo era el destructor USS Drexler (DD-741), un buque de la clase Allen M. Sumner que operaba como estación de piquete radar. Al menos dos aviones impactaron contra el Drexler, que se hundió en menos de un minuto con la pérdida de 158 de sus 336 tripulantes. La historia de Fujii, sin embargo, trasciende el hecho militar: tras múltiples solicitudes rechazadas para unirse a los ataques suicidas por tener esposa e hijos, su esposa Fukuko se suicidó el 14 de diciembre de 1944 junto a sus dos hijas pequeñas, Kazuko (3 años) y Chieko (1 año), para liberarlo de sus obligaciones familiares. Con el camino despejado, Fujii fue aceptado y nombrado comandante de la unidad que él mismo bautizó "Kaishin" (Espíritu Alegre).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -103,7 +103,7 @@ El USS Drexler era un destructor de la clase Allen M. Sumner, una de las clases 
 - **Tripulación:** 336 oficiales y marineros
 - **Armamento:** seis cañones de 5 pulgadas (127 mm) en tres torretas dobles; doce cañones antiaéreos Bofors de 40 mm; once cañones Oerlikon de 20 mm; diez tubos lanzatorpedos de 21 pulgadas
 
-El destructor fue nombrado en honor del teniente comandante Henry L. Drexler, un oficial naval estadounidense condecorado póstumamente con la Cruz de la Armada por su heroísmo durante la Primera Guerra Mundial.
+El destructor fue nombrado en honor del Teniente Comandante Henry L. Drexler, un oficial naval estadounidense condecorado póstumamente con la Cruz de la Armada por su heroísmo durante la Primera Guerra Mundial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -114,7 +114,7 @@ Durante más de sesenta años, hubo incertidumbre sobre qué aviones y qué pilo
 Sin embargo, una investigación exhaustiva del **Lost 52 Project** (un proyecto dedicado a localizar submarinos estadounidenses perdidos en la Segunda Guerra Mundial) analizó los registros de ambos bandos y concluyó que:
 
 1. **Los aviones eran Kawasaki Ki-45 "Nick"** (cazas bimotores del Ejército Imperial Japonés).
-2. **La unidad era la 45.ª Shinbu ("Kaishin")**, comandada por el primer teniente Hajime Fujii.
+2. **La unidad era la 45.ª Shinbu ("Kaishin")**, comandada por el Primer Teniente Hajime Fujii.
 3. **De los nueve Ki-45 que despegaron de Chiran**, dos impactaron contra el Drexler y los demás fueron derribados.
 
 Esta conclusión contradice los registros oficiales estadounidenses, pero está respaldada por el análisis de los registros japoneses, las rutas de vuelo, las características de los aviones y los testimonios de los pilotos de combate aliados que derribaron "Nicks" esa mañana.

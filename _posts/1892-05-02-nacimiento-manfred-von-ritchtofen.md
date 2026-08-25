@@ -45,7 +45,7 @@ A finales del siglo XIX, la aviación se hallaba en plena etapa de experimentaci
 
 ### Entorno social
 
-Richthofen nació en el seno de una prominente familia aristocrática prusiana. Su padre, el mayor Albrecht von Richthofen, y su madre, Kunigunde von Schickfuss und Neudorff, pertenecían a la nobleza terrateniente de Silesia. Desde niño, Manfred se educó en el ambiente militar prusiano, asistiendo a la escuela militar en Wahlstatt desde los 11 años y luego a la Academia Militar Real de Lichterfelde. Era mejor atleta que académico, destacando en equitación y gimnasia, lo que lo llevó naturalmente hacia la caballería.
+Richthofen nació en el seno de una prominente familia aristocrática prusiana. Su padre, el Mayor Albrecht von Richthofen, y su madre, Kunigunde von Schickfuss und Neudorff, pertenecían a la nobleza terrateniente de Silesia. Desde niño, Manfred se educó en el ambiente militar prusiano, asistiendo a la escuela militar en Wahlstatt desde los 11 años y luego a la Academia Militar Real de Lichterfelde. Era mejor atleta que académico, destacando en equitación y gimnasia, lo que lo llevó naturalmente hacia la caballería.
 
 ### Entorno tecnológico
 
@@ -118,11 +118,11 @@ El 21 de abril de 1918, Richthofen persiguió a un Sopwith Camel pilotado por el
 
 El Barón Rojo fue alcanzado por una sola bala que atravesó su pecho, causándole una herida fatal. El avión realizó un aterrizaje forzoso cerca de la carretera entre Corbie y Bray. Inmediatamente, surgió la controversia sobre quién había disparado el tiro fatal. Dos teorías principales compiten:
 
-**La teoría del capitán Brown:** El capitán canadiense Arthur Roy Brown, del Escuadrón 209 de la RAF, fue oficialmente acreditado con el derribo. Sin embargo, Brown nunca reclamó la victoria y el análisis posterior sugiere que su ángulo de ataque hacía improbable el disparo fatal.
+**La teoría del Capitán Brown:** El capitán canadiense Arthur Roy Brown, del Escuadrón 209 de la RAF, fue oficialmente acreditado con el derribo. Sin embargo, Brown nunca reclamó la victoria y el análisis posterior sugiere que su ángulo de ataque hacía improbable el disparo fatal.
 
-**La teoría del fuego antiaéreo australiano:** Investigaciones más recientes, incluyendo el estudio del médico M. Geoffrey Miller, apuntan al sargento australiano Cedric Popkin, quien disparaba desde tierra con una ametralladora Vickers. La trayectoria de la bala, según el informe post mortem, coincide con fuego desde tierra, desde la derecha, por detrás y por debajo. El sargento Popkin declaró: "Cuando [von Richthofen] vino hacia mí, abrí fuego por segunda vez y observé inmediatamente que mi fuego surtió efecto. La máquina viró, intentó inclinarse y dirigirse al suelo, y se estrelló inmediatamente".
+**La teoría del fuego antiaéreo australiano:** Investigaciones más recientes, incluyendo el estudio del médico M. Geoffrey Miller, apuntan al sargento australiano Cedric Popkin, quien disparaba desde tierra con una ametralladora Vickers. La trayectoria de la bala, según el informe post mortem, coincide con fuego desde tierra, desde la derecha, por detrás y por debajo. El Sargento Popkin declaró: "Cuando [von Richthofen] vino hacia mí, abrí fuego por segunda vez y observé inmediatamente que mi fuego surtió efecto. La máquina viró, intentó inclinarse y dirigirse al suelo, y se estrelló inmediatamente".
 
-Los testimonios de soldados australianos en tierra, como el artillero George Ridgway, también corroboran que el Barón Rojo fue alcanzado por fuego desde tierra. El sargento Robert Buie, tan seguro de su reclamo, inscribió los detalles en la mira de su ametralladora Lewis.
+Los testimonios de soldados australianos en tierra, como el artillero George Ridgway, también corroboran que el Barón Rojo fue alcanzado por fuego desde tierra. El Sargento Robert Buie, tan seguro de su reclamo, inscribió los detalles en la mira de su ametralladora Lewis.
 
 ### La secuela
 
@@ -145,7 +145,7 @@ Manfred von Richthofen es el as de ases más famoso de la historia de la aviaci�
 
 Su legado perdura en múltiples aspectos de la cultura popular. El apodo "Circo Volante" (Flying Circus) que recibió su escuadrón ha sido inmortalizado en películas, libros y videojuegos. El propio Richthofen escribió su autobiografía, "Der Rote Kampfflieger" (El Piloto de Combate Rojo), que se convirtió en un éxito de ventas en Alemania.
 
-La controversia sobre su muerte sigue siendo objeto de debate entre historiadores. El médico M. Geoffrey Miller ha abogado consistentemente por la teoría del fuego antiaéreo australiano, argumentando que la evidencia médica es concluyente. Sin embargo, reconoce que "a pesar de toda la evidencia de que no fue el capitán Brown quien mató a Manfred von Richthofen, sino el fuego terrestre australiano, muchas personas que deberían saberlo mejor aún creen que el capitán Brown disparó el tiro fatal".
+La controversia sobre su muerte sigue siendo objeto de debate entre historiadores. El médico M. Geoffrey Miller ha abogado consistentemente por la teoría del fuego antiaéreo australiano, argumentando que la evidencia médica es concluyente. Sin embargo, reconoce que "a pesar de toda la evidencia de que no fue el Capitán Brown quien mató a Manfred von Richthofen, sino el fuego terrestre australiano, muchas personas que deberían saberlo mejor aún creen que el Capitán Brown disparó el tiro fatal".
 
 En 1925, el cuerpo de Richthofen fue exhumado y enterrado nuevamente en Berlín. Más tarde, fue exhumado nuevamente y enterrado en la tumba privada de la familia Richthofen en Wiesbaden. Hoy, su nombre está inscrito en la historia de la aviación, y su imagen (el piloto con el avión rojo) sigue siendo reconocible en todo el mundo, más de un siglo después de su muerte.
 

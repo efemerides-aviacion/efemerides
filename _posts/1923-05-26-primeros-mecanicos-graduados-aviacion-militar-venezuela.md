@@ -18,7 +18,7 @@ image: 1923-05-26-primeros-mecanicos-graduados-aviacion-militar-venezuela.webp
 
 ## Resumen Ejecutivo
 
-El 26 de mayo de 1923, Ernesto Salas Agelvis y Amador Nieto recibieron sus diplomas de suficiencia técnica, convirtiéndose en los primeros mecánicos aeronáuticos certificados por la Escuela de Aviación Militar de Venezuela . La graduación ocurrió en Maracay, sede de la naciente aviación militar, bajo la dirección del Ministerio de Guerra y Marina. Salas Agelvis, natural de San Antonio del Táchira (6 de diciembre de 1901), había ingresado a la Escuela el 16 de febrero de 1921 y obtuvo la máxima calificación de **99/100 puntos**, primer lugar entre los alumnos de su especialidad . En la misma promoción se graduaron pilotos históricos como Francisco Leonardi, Miguel Rodríguez, Manuel Ríos y Prisco Heuer . Años más tarde, en 1923 o 1924, Salas Agelvis lideró la construcción del avión **"La Chiva"** a partir de restos de aeronaves, una hazaña que convenció al general Juan Vicente Gómez de no cerrar la Escuela de Aviación Militar, salvando así la aviación venezolana de la extinción .
+El 26 de mayo de 1923, Ernesto Salas Agelvis y Amador Nieto recibieron sus diplomas de suficiencia técnica, convirtiéndose en los primeros mecánicos aeronáuticos certificados por la Escuela de Aviación Militar de Venezuela . La graduación ocurrió en Maracay, sede de la naciente aviación militar, bajo la dirección del Ministerio de Guerra y Marina. Salas Agelvis, natural de San Antonio del Táchira (6 de diciembre de 1901), había ingresado a la Escuela el 16 de febrero de 1921 y obtuvo la máxima calificación de **99/100 puntos**, primer lugar entre los alumnos de su especialidad . En la misma promoción se graduaron pilotos históricos como Francisco Leonardi, Miguel Rodríguez, Manuel Ríos y Prisco Heuer . Años más tarde, en 1923 o 1924, Salas Agelvis lideró la construcción del avión **"La Chiva"** a partir de restos de aeronaves, una hazaña que convenció al General Juan Vicente Gómez de no cerrar la Escuela de Aviación Militar, salvando así la aviación venezolana de la extinción .
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -45,9 +45,9 @@ La graduación de los primeros mecánicos aeronáuticos ocurrió en un momento c
 
 ### Entorno social
 
-El 17 de abril de 1920, bajo la presidencia del doctor Victorino Márquez Bustillos (con el general Juan Vicente Gómez ejerciendo el mando desde Maracay), <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">se creó la Escuela de Aviación Militar</a> con un presupuesto inicial de 350.000 bolívares . Sus objetivos eran «formar e instruir los pilotos para el servicio del Ejército nacional». La escuela quedó bajo la superior dependencia de la comandancia del jefe del Ejército y bajo la inmediata dirección del Ministerio de Guerra y Marina.
+El 17 de abril de 1920, bajo la presidencia del doctor Victorino Márquez Bustillos (con el General Juan Vicente Gómez ejerciendo el mando desde Maracay), <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">se creó la Escuela de Aviación Militar</a> con un presupuesto inicial de 350.000 bolívares . Sus objetivos eran «formar e instruir los pilotos para el servicio del Ejército nacional». La escuela quedó bajo la superior dependencia de la comandancia del jefe del Ejército y bajo la inmediata dirección del Ministerio de Guerra y Marina.
 
-La naciente Escuela de Aviación Militar quedó asignada al Ejército, siendo coordinada por la Inspectoría General del Ejército, a cargo desde 1916 del general José Vicente Gómez, hijo mayor del dictador, lo cual mantenía directa supervisión de su funcionamiento. Se designó al coronel del ejército David López Henríquez como director de la institución.
+La naciente Escuela de Aviación Militar quedó asignada al Ejército, siendo coordinada por la Inspectoría General del Ejército, a cargo desde 1916 del General José Vicente Gómez, hijo mayor del dictador, lo cual mantenía directa supervisión de su funcionamiento. Se designó al coronel del ejército David López Henríquez como director de la institución.
 
 ### Entorno tecnológico
 
@@ -73,17 +73,17 @@ La graduación de los primeros técnicos venezolanos representó un paso decisiv
 - **1921, 16 de febrero:** Ernesto Salas Agelvis ingresa a la Escuela de Aviación Militar como Alumno Mecánico .
 - **1923, 26 de mayo:** Graduación de Ernesto Salas Agelvis (99/100 puntos) y Amador Nieto como primeros mecánicos aeronáuticos certificados de la Aviación Militar Venezolana .
 - **1923 (mismo año):** Se gradúan pilotos de la misma promoción, incluyendo a Francisco Leonardi, Miguel Rodríguez, Manuel Ríos y Prisco Heuer.
-- **1923-1924 (finales de 1922 según contexto):** El gobierno decide no renovar el contrato a la misión francesa y ordena cerrar la Escuela. Salas Agelvis y sus compañeros construyen el avión **"La Chiva"** a partir de restos, cuyo vuelo convence al general Gómez de mantener la aviación .
+- **1923-1924 (finales de 1922 según contexto):** El gobierno decide no renovar el contrato a la misión francesa y ordena cerrar la Escuela. Salas Agelvis y sus compañeros construyen el avión **"La Chiva"** a partir de restos, cuyo vuelo convence al General Gómez de mantener la aviación .
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El avión "La Chiva" y cómo Salas Agelvis salvó la aviación venezolana
 
-A finales de 1922, el gobierno del general Juan Vicente Gómez decidió no renovar el contrato a la misión aeronáutica francesa y ordenó al personal de la Escuela de Aviación Militar que se preparara para retornar a sus cuarteles o a sus casas . La aviación militar venezolana estaba a punto de desaparecer.
+A finales de 1922, el gobierno del General Juan Vicente Gómez decidió no renovar el contrato a la misión aeronáutica francesa y ordenó al personal de la Escuela de Aviación Militar que se preparara para retornar a sus cuarteles o a sus casas . La aviación militar venezolana estaba a punto de desaparecer.
 
 Fue entonces cuando el mecánico Ernesto Salas Agelvis, junto con sus compañeros Amador Nieto, Elías Vivas Moro, José Segnini y Eleazar Romero, realizó una inspección de los restos de aviones que se encontraban en El Carnero, el antiguo campo de aviación de Maracay . Seleccionaron el material aprovechable y, tras una ardua labor, comenzaron a armar un avión: un Caudron G.3.
 
-En una entrevista de 1968, Salas Agelvis recordó: *"Lo pintamos de azul claro y le pusimos el nombre de La Chiva"* . El avión fue probado en vuelo por el subteniente Miguel Rodríguez en una memorable tarde (posiblemente de 1923, aunque el propio Salas, de 67 años en el momento de la entrevista, recordó el año como 1924) . El vuelo ocurrió precisamente cuando el general Gómez se dirigía a Las Delicias.
+En una entrevista de 1968, Salas Agelvis recordó: *"Lo pintamos de azul claro y le pusimos el nombre de La Chiva"* . El avión fue probado en vuelo por el subteniente Miguel Rodríguez en una memorable tarde (posiblemente de 1923, aunque el propio Salas, de 67 años en el momento de la entrevista, recordó el año como 1924) . El vuelo ocurrió precisamente cuando el General Gómez se dirigía a Las Delicias.
 
 El impacto fue inmediato. Aunque Gómez no hizo comentario alguno, su hijo Florencio felicitó a los mecánicos y se ofreció a interceder ante su padre . El 28 de mayo de 1923, el ministro de Guerra y Marina, Carlos Jiménez Rebolledo, envió un telegrama solicitando información sobre aeronaves de entrenamiento, caza y bombardeo . El 15 de junio del mismo año, se ordenó la compra de tres nuevos Caudron G.3 y tres unidades del Caudron C.60, un avión de entrenamiento avanzado, provistos de todos sus accesorios .
 
@@ -136,7 +136,7 @@ En la actualidad, un ejemplar del Caudron G.3 (restaurado o reproducido) se exhi
 ## Consecuencias e Impacto
 
 - **Autonomía técnica:** La graduación de los primeros mecánicos venezolanos redujo la dependencia de los instructores franceses para el mantenimiento de las aeronaves, permitiendo que la institución operara con mayor independencia.
-- **Salvamento de la aviación:** La construcción del avión "La Chiva" por Salas Agelvis y sus compañeros convenció al general Gómez de no cerrar la Escuela de Aviación Militar, lo que permitió la continuidad de la institución .
+- **Salvamento de la aviación:** La construcción del avión "La Chiva" por Salas Agelvis y sus compañeros convenció al General Gómez de no cerrar la Escuela de Aviación Militar, lo que permitió la continuidad de la institución .
 - **Base logística:** Se sentaron las bases para la formación de una estructura técnica organizada dentro de la aviación militar, que con el tiempo evolucionaría hacia un cuerpo de mantenimiento profesional.
 - **Precedente para futuras especializaciones:** La formación de técnicos abrió el camino para otras especialidades dentro de la aviación militar, como la radiotelegrafía (Salas Agelvis fue uno de los primeros alumnos de la Escuela de Radiotelegrafía Militar) y la meteorología aeronáutica.
 

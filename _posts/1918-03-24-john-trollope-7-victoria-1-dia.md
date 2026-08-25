@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: Royal Flying Corps / Royal Air Force
-excerpt: "El 24 de marzo de 1918, el capitán John Lightfoot Trollope del Escuadrón No. 43 se convirtió en el primer piloto británico en derribar siete aviones enemigos en un solo día, una hazaña que lo consolidó como uno de los ases más destacados de la Primera Guerra Mundial."
+excerpt: "El 24 de marzo de 1918, el Capitán John Lightfoot Trollope del Escuadrón No. 43 se convirtió en el primer piloto británico en derribar siete aviones enemigos en un solo día, una hazaña que lo consolidó como uno de los ases más destacados de la Primera Guerra Mundial."
 image: 1918-03-24-john-trollope-7-victoria-1-dia.jpg
 ---
 
@@ -17,7 +17,7 @@ image: 1918-03-24-john-trollope-7-victoria-1-dia.jpg
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 24 de marzo de 1918, el capitán John Lightfoot Trollope (No. 43 Squadron RAF) derribó siete aeronaves alemanas en dos patrullas con su Sopwith Camel C8270: dos DFW C.V y un Albatros D.V por la mañana, más cuatro DFW adicionales por la tarde. Fue el primer piloto británico en lograr siete victorias en un solo día, una hazaña que le valió la Barra de la Cruz Militar. En total acumuló 18 derribos en 1918 antes de ser derribado y capturado cuatro días después, perdiendo el brazo izquierdo.</p>
+<p>El 24 de marzo de 1918, el Capitán John Lightfoot Trollope (No. 43 Squadron RAF) derribó siete aeronaves alemanas en dos patrullas con su Sopwith Camel C8270: dos DFW C.V y un Albatros D.V por la mañana, más cuatro DFW adicionales por la tarde. Fue el primer piloto británico en lograr siete victorias en un solo día, una hazaña que le valió la Barra de la Cruz Militar. En total acumuló 18 derribos en 1918 antes de ser derribado y capturado cuatro días después, perdiendo el brazo izquierdo.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

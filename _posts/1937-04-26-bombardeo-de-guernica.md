@@ -30,7 +30,7 @@ image: 1937-04-26-bombardeo-de-guernica.webp
 - **Lugar:** Guernica (Gernika), Vizcaya, País Vasco, España
 - **Población en la época:** Unos 5.000 habitantes (incrementada por ser día de mercado)
 - **Fuerzas atacantes:** Legión Cóndor (Alemania) y Aviación Legionaria (Italia)
-- **Apoyo a:** Bando sublevado del general Francisco Franco
+- **Apoyo a:** Bando sublevado del General Francisco Franco
 - **Número de aeronaves:** Entre 30 y 51 aviones
 - **Aeronaves implicadas:** Junkers Ju 52 (bombarderos), Heinkel He 51, Messerschmitt Bf 109, Dornier Do 17, Savoia-Marchetti S-79, Fiat CR-32
 - **Municiones:** Entre 31 y 50 toneladas de bombas (explosivas e incendiarias)
@@ -45,7 +45,7 @@ El bombardeo de Guernica se enmarca en la Campaña del Norte dentro de la Guerra
 
 ### Entorno social
 
-La Guerra Civil Española había dividido al país en dos bandos: el republicano (leal al gobierno de la Segunda República) y el sublevado (liderado por el general Francisco Franco). El País Vasco, que había aprobado su Estatuto de Autonomía en octubre de 1936, se mantuvo leal a la República. Guernica era una villa de gran significado simbólico para el pueblo vasco: allí se encontraba la Casa de Juntas (sede de la tradición foral vasca) y un roble centenario (el Árbol de Gernika) que representaba las libertades tradicionales vascas. El bombardeo, además de su impacto material, buscaba destruir moral y simbólicamente la resistencia vasca.
+La Guerra Civil Española había dividido al país en dos bandos: el republicano (leal al gobierno de la Segunda República) y el sublevado (liderado por el General Francisco Franco). El País Vasco, que había aprobado su Estatuto de Autonomía en octubre de 1936, se mantuvo leal a la República. Guernica era una villa de gran significado simbólico para el pueblo vasco: allí se encontraba la Casa de Juntas (sede de la tradición foral vasca) y un roble centenario (el Árbol de Gernika) que representaba las libertades tradicionales vascas. El bombardeo, además de su impacto material, buscaba destruir moral y simbólicamente la resistencia vasca.
 
 ### Entorno tecnológico
 
@@ -126,7 +126,7 @@ El bombardeo de Guernica es recordado como un anticipo de los horrores que la av
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el número de víctimas:</strong> Las cifras de víctimas del bombardeo de Guernica han sido objeto de controversia histórica. El informe del Gobierno de Euzkadi de 1937 cifró 1.654 víctimas mortales. Investigaciones posteriores (como la del historiador Jesús de la Fuente) redujeron la cifra a unos 250-300 muertos, excluyendo desaparecidos. La mayoría de los historiadores actuales coinciden en que hubo <strong>centenares</strong> de víctimas civiles, aunque la cifra exacta sigue siendo debatida.</p>
-<p><strong>Sobre la autoría del bombardeo:</strong> Aunque la Legión Cóndor alemana fue la principal ejecutora del ataque, la operación fue planificada conjuntamente con el alto mando franquista y contó con la participación de la aviación italiana. El general Queipo de Llano, jefe de las fuerzas sublevadas en Andalucía, declaró a la prensa: "He destruido Guernica".</p>
+<p><strong>Sobre la autoría del bombardeo:</strong> Aunque la Legión Cóndor alemana fue la principal ejecutora del ataque, la operación fue planificada conjuntamente con el alto mando franquista y contó con la participación de la aviación italiana. El General Queipo de Llano, jefe de las fuerzas sublevadas en Andalucía, declaró a la prensa: "He destruido Guernica".</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

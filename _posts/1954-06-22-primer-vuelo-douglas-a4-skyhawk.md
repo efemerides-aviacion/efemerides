@@ -109,7 +109,7 @@ Heinemann también simplificó la aviónica: los primeros Skyhawk carecían de r
 
 El A-4 Skyhawk participó en algunos de los conflictos más importantes de la segunda mitad del siglo XX:
 
-- **Guerra de Vietnam (1964-1973):** El Skyhawk fue el avión de ataque naval con más misiones de combate en Vietnam. Realizó los primeros ataques del conflicto en el Golfo de Tonkín (agosto de 1964) y participó en innumerables misiones de apoyo cercano y ataque a objetivos estratégicos. Pilotos como el vicealmirante James Stockdale y el senador John McCain volaron Skyhawks y fueron derribados sobre Vietnam. 
+- **Guerra de Vietnam (1964-1973):** El Skyhawk fue el avión de ataque naval con más misiones de combate en Vietnam. Realizó los primeros ataques del conflicto en el Golfo de Tonkín (agosto de 1964) y participó en innumerables misiones de apoyo cercano y ataque a objetivos estratégicos. Pilotos como el Vicealmirante James Stockdale y el senador John McCain volaron Skyhawks y fueron derribados sobre Vietnam. 
 
 - **Guerra de Yom Kipur (1973):** La Fuerza Aérea Israelí utilizó sus A-4 Skyhawk (bautizados «Ayit» - «Águila») en intensos combates contra las fuerzas egipcias y sirias, sufriendo pérdidas significativas pero demostrando su eficacia en combate.
 

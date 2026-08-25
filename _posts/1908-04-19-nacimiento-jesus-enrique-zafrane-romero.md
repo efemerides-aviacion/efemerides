@@ -51,7 +51,7 @@ A comienzos del siglo XX, Venezuela atravesaba un proceso de consolidación del 
 
 ### Entorno tecnológico
 
-En la década de 1930, la aviación militar mundial vivía una rápida evolución: del biplano de estructura mixta se pasaba al monoplano metálico, con cabina cerrada y tren retráctil. Francia desarrolló el Dewoitine D.500, uno de los primeros cazas monoplanos de construcción metálica, armado con cañón y ametralladoras, que fue exportado a varios países, entre ellos Venezuela. La adquisición de estos aparatos permitió a la Aviación Militar Venezolana crear su primera escuadrilla de caza moderna, que sería comandada por el capitán Jesús Enrique Zafrané, introduciendo tácticas y procedimientos acordes con los estándares internacionales de la época.
+En la década de 1930, la aviación militar mundial vivía una rápida evolución: del biplano de estructura mixta se pasaba al monoplano metálico, con cabina cerrada y tren retráctil. Francia desarrolló el Dewoitine D.500, uno de los primeros cazas monoplanos de construcción metálica, armado con cañón y ametralladoras, que fue exportado a varios países, entre ellos Venezuela. La adquisición de estos aparatos permitió a la Aviación Militar Venezolana crear su primera escuadrilla de caza moderna, que sería comandada por el Capitán Jesús Enrique Zafrané, introduciendo tácticas y procedimientos acordes con los estándares internacionales de la época.
 
 ### Entorno cultural
 
@@ -66,7 +66,7 @@ La figura del piloto militar comenzaba a adquirir un fuerte componente simbólic
 - **Década de 1920–inicios de 1930:** Se incorporan en Venezuela las primeras estructuras formales de aviación militar; Zafrané se forma como oficial aviador en este entorno de institucionalización de la Aviación Militar Venezolana.
 - **Primeros años de 1930:** Zafrané se consolida como piloto militar y es asignado a unidades que sirven de núcleo para la futura escuadrilla de caza del país.
 - **Mediados de la década de 1930:** Con la incorporación de los Dewoitine D.500, Zafrané asume el mando de la primera escuadrilla de caza, convirtiéndose en el principal referente de esta nueva capacidad de la Aviación Militar Venezolana. Fue apodado "Chato".
-- **30 de abril de 1936:** El capitán Jesús Enrique Zafrané fallece durante un vuelo de entrenamiento al norte del campo de Boca del Río (hoy Base Escuela Mariscal Sucre, Maracay, estado Aragua), cuando el Dewoitine D.500 que piloteaba se accidenta en circunstancias de instrucción.
+- **30 de abril de 1936:** El Capitán Jesús Enrique Zafrané fallece durante un vuelo de entrenamiento al norte del campo de Boca del Río (hoy Base Escuela Mariscal Sucre, Maracay, estado Aragua), cuando el Dewoitine D.500 que piloteaba se accidenta en circunstancias de instrucción.
 - **Décadas posteriores:** Su nombre se mantiene vivo en la memoria institucional de la aviación venezolana, siendo designada «Capitán Jesús Zafrané» una promoción de la Escuela de Aviación Militar en 1947 y rendidos diversos homenajes por parte de la Fuerza Aérea Venezolana y organizaciones afines.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

@@ -89,7 +89,7 @@ La pérdida de la sección del fuselaje fue violenta y repentina. La rápida des
 
 ### La gestión del capitán
 
-El capitán Robert Schornstheimer y la primera oficial Madeleine Tompkins actuaron con una calma y profesionalismo excepcionales. A pesar de la falta de comunicación entre la cabina y la cabina de pasajeros, y de la exposición al viento huracanado, Schornstheimer inició una maniobra de descenso. La estructura del avión, aunque gravemente dañada, se mantuvo unida. Los controles de vuelo seguían funcionando, pero la aeronave se encontraba en una configuración aerodinámica desconocida. Con un conocimiento profundo del avión y una habilidad innata, logró estabilizar el Boeing 737 y dirigirse a la pista de aterrizaje más cercana. Su aterrizaje, aunque fuerte, evitó una catástrofe mayor.
+El Capitán Robert Schornstheimer y la primera oficial Madeleine Tompkins actuaron con una calma y profesionalismo excepcionales. A pesar de la falta de comunicación entre la cabina y la cabina de pasajeros, y de la exposición al viento huracanado, Schornstheimer inició una maniobra de descenso. La estructura del avión, aunque gravemente dañada, se mantuvo unida. Los controles de vuelo seguían funcionando, pero la aeronave se encontraba en una configuración aerodinámica desconocida. Con un conocimiento profundo del avión y una habilidad innata, logró estabilizar el Boeing 737 y dirigirse a la pista de aterrizaje más cercana. Su aterrizaje, aunque fuerte, evitó una catástrofe mayor.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -127,7 +127,7 @@ Inmediatamente después del accidente, la NTSB emitió recomendaciones urgentes 
 
 - **Mejora en el diseño de Boeing:** Boeing desarrolló y distribuyó boletines de servicio a todos los operadores del 737 que detallaban nuevos procedimientos de inspección para las uniones de traslape.
 
-- **Heroísmo en la aviación:** El capitán Robert Schornstheimer y la primera oficial Madeleine Tompkins recibieron numerosos premios por su profesionalismo, incluyendo el premio "Heroísmo" de la Asociación de Pilotos de Líneas Aéreas (ALPA).
+- **Heroísmo en la aviación:** El Capitán Robert Schornstheimer y la primera oficial Madeleine Tompkins recibieron numerosos premios por su profesionalismo, incluyendo el premio "Heroísmo" de la Asociación de Pilotos de Líneas Aéreas (ALPA).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

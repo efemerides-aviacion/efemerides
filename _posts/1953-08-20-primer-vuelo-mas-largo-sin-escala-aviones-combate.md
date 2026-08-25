@@ -46,7 +46,7 @@ La Guerra Fría pedía refuerzos inmediatos en Europa y el Pacífico, y la USAF 
 
 ### Entorno tecnológico
 
-Antes de la manguera y la pértiga, la USAF ensayó remolcar cazas desde las puntas de ala de los B-29 y B-36 (proyectos Tip-Tow y Tom-Tom) o colgarlos como parásitos en sus bodegas (FICON); el accidente mortal de un B-29 Tip-Tow en abril de 1953 cerró esa vía. El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1923/06/27/primer-reabastecimiento-en-vuelo.html" style="color: #315fea; text-decoration: none;\">reabastecimiento en vuelo, ensayado por primera vez en 1923</a>, maduró con el coronel David C. Schilling, que en octubre de 1950 cruzó el Atlántico sin escalas en un F-84E con sonda, y con el F-84G, que salió de fábrica con receptáculo para la pértiga de los KB-29P: el primer caza de producción diseñado para beber en el aire.
+Antes de la manguera y la pértiga, la USAF ensayó remolcar cazas desde las puntas de ala de los B-29 y B-36 (proyectos Tip-Tow y Tom-Tom) o colgarlos como parásitos en sus bodegas (FICON); el accidente mortal de un B-29 Tip-Tow en abril de 1953 cerró esa vía. El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1923/06/27/primer-reabastecimiento-en-vuelo.html" style="color: #315fea; text-decoration: none;\">reabastecimiento en vuelo, ensayado por primera vez en 1923</a>, maduró con el Coronel David C. Schilling, que en octubre de 1950 cruzó el Atlántico sin escalas en un F-84E con sonda, y con el F-84G, que salió de fábrica con receptáculo para la pértiga de los KB-29P: el primer caza de producción diseñado para beber en el aire.
 
 ### Entorno cultural
 

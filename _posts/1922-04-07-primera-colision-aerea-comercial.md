@@ -44,7 +44,7 @@ image: 1922-04-07-primera-colision-aerea-comercial.webp
 - **Operador (segunda):** Daimler Hire Limited (transferido desde Instone Air Line)
 - **Origen (segunda):** Aeropuerto de Croydon, Londres, Reino Unido
 - **Destino (segunda):** Aeropuerto de Le Bourget, París, Francia
-- **Tripulación (segunda):** 2 (teniente R. E. Duke, piloto; Hesterman, auxiliar)
+- **Tripulación (segunda):** 2 (Teniente R. E. Duke, piloto; Hesterman, auxiliar)
 - **Pasajeros (segunda):** 0 (solo correo)
 - **Víctimas (segunda):** 2
 - **Total víctimas:** 7

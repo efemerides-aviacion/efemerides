@@ -12,13 +12,13 @@ image: 1928-01-29-charles-lindbergh-maracay.jpg
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1928-01-29-charles-lindbergh-maracay.jpg" alt="Charles Lindbergh en Maracay, 1928">
-  <figcaption class="post-caption">Publicación sobre la recepción de Charles Lindbergh en Maracay por el general Juan Vicente Gómez, presidente de Venezuela (29/01/1928).</figcaption>
+  <figcaption class="post-caption">Publicación sobre la recepción de Charles Lindbergh en Maracay por el General Juan Vicente Gómez, presidente de Venezuela (29/01/1928).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 29 de enero de 1928 Charles A. Lindbergh llegó a Venezuela como parte de su gira de buena voluntad por América Latina, aterrizando en el aeródromo de Maracay a las 18:30 horas, ya oscureciendo, tras un vuelo de 10 horas y 15 minutos desde el Campo Madrid de Bogotá en su monoplano Ryan NYP Spirit of St. Louis, matrícula N‑X‑211. En el campo de aviación lo esperaban el general Juan Vicente Gómez, altos funcionarios, el embajador de Estados Unidos y varios miles de personas que corrieron a rodear al Spirit of St. Louis nada más tocar tierra; al día siguiente Lindbergh se trasladó por carretera a Caracas, donde rindió homenaje a Simón Bolívar en el Panteón Nacional y recibió homenajes oficiales antes de continuar su gira hacia las Antillas el 31 de enero.</p>
+<p>El 29 de enero de 1928 Charles A. Lindbergh llegó a Venezuela como parte de su gira de buena voluntad por América Latina, aterrizando en el aeródromo de Maracay a las 18:30 horas, ya oscureciendo, tras un vuelo de 10 horas y 15 minutos desde el Campo Madrid de Bogotá en su monoplano Ryan NYP Spirit of St. Louis, matrícula N‑X‑211. En el campo de aviación lo esperaban el General Juan Vicente Gómez, altos funcionarios, el embajador de Estados Unidos y varios miles de personas que corrieron a rodear al Spirit of St. Louis nada más tocar tierra; al día siguiente Lindbergh se trasladó por carretera a Caracas, donde rindió homenaje a Simón Bolívar en el Panteón Nacional y recibió homenajes oficiales antes de continuar su gira hacia las Antillas el 31 de enero.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

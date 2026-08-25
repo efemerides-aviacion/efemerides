@@ -81,7 +81,7 @@ El mito del "as de la aviación" estaba profundamente arraigado en la cultura al
 - **20 de julio de 1941:** Ascendido a Oberst (coronel) a los 28 años.
 - **7 de agosto de 1941:** Nombrado Inspector General de Cazas, responsable de la doctrina táctica y operacional de toda la fuerza de cazas de la Luftwaffe.
 - **13 de septiembre de 1941:** Contrae matrimonio con Luise Baldauf, viuda de un compañero fallecido en combate.
-- **22 de noviembre de 1941:** Viaja como pasajero en un Heinkel He 111 desde Crimea a Berlín para asistir al funeral del general Ernst Udet. Durante una tormenta cerca de Breslau, el motor izquierdo falla y al intentar un aterrizaje de emergencia, el avión se estrella. Mölders sufre fractura de columna y fallece instantáneamente.
+- **22 de noviembre de 1941:** Viaja como pasajero en un Heinkel He 111 desde Crimea a Berlín para asistir al funeral del General Ernst Udet. Durante una tormenta cerca de Breslau, el motor izquierdo falla y al intentar un aterrizaje de emergencia, el avión se estrella. Mölders sufre fractura de columna y fallece instantáneamente.
 - **28 de noviembre de 1941:** Funeral de Estado en Berlín. Es enterrado en el Cementerio de los Inválidos (Invalidenfriedhof), junto a Manfred von Richthofen y Ernst Udet.
 
 ## Consecuencias e Impacto

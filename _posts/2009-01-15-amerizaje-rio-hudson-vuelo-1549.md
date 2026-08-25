@@ -19,7 +19,7 @@ image: 2009-01-15-amerizaje-rio-hudson-vuelo-1549.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 15 de enero de 2009, el vuelo 1549 de US Airways, un Airbus A320-214 (matrícula N106US), despegó del Aeropuerto LaGuardia de Nueva York con destino a Charlotte (Carolina del Norte). A los pocos minutos, a 2.818 pies (859 m) de altitud, impactó contra una bandada de gansos canadienses, lo que provocó la pérdida total de potencia en ambos motores. El capitán Chesley "Sully" Sullenberger, de 57 años, y el primer oficial Jeffrey Skiles, de 49 años, decidieron amerizar en el río Hudson tras comprobar que era imposible regresar a LaGuardia o alcanzar el aeropuerto de Teterboro (Nueva Jersey). A las 15:30 hora local, la aeronave impactó el agua a 125 nudos (230 km/h) con un ángulo de descenso de -3,4°. Los 155 ocupantes (150 pasajeros y 5 tripulantes) sobrevivieron, con 100 heridos (95 leves y 5 graves). El evento, conocido como el "Milagro del Hudson", es considerado el amerizaje más exitoso de la historia de la aviación comercial.</p>
+<p>El 15 de enero de 2009, el vuelo 1549 de US Airways, un Airbus A320-214 (matrícula N106US), despegó del Aeropuerto LaGuardia de Nueva York con destino a Charlotte (Carolina del Norte). A los pocos minutos, a 2.818 pies (859 m) de altitud, impactó contra una bandada de gansos canadienses, lo que provocó la pérdida total de potencia en ambos motores. El Capitán Chesley "Sully" Sullenberger, de 57 años, y el Primer Oficial Jeffrey Skiles, de 49 años, decidieron amerizar en el río Hudson tras comprobar que era imposible regresar a LaGuardia o alcanzar el aeropuerto de Teterboro (Nueva Jersey). A las 15:30 hora local, la aeronave impactó el agua a 125 nudos (230 km/h) con un ángulo de descenso de -3,4°. Los 155 ocupantes (150 pasajeros y 5 tripulantes) sobrevivieron, con 100 heridos (95 leves y 5 graves). El evento, conocido como el "Milagro del Hudson", es considerado el amerizaje más exitoso de la historia de la aviación comercial.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -63,14 +63,14 @@ El amerizaje del vuelo 1549 ocurrió en una de las zonas más densamente poblada
 El 15 de enero de 2009 era un día laborable normal en Nueva York. Las temperaturas eran de -7 °C (19 °F) en el aire y 5 °C (41 °F) en el agua. La rápida respuesta de los ferris de NY Waterway, que llegaron en cuestión de minutos, fue crucial. El gobernador de Nueva York, David Paterson, acuñó el término "Milagro del Hudson" (Miracle on the Hudson). El evento restauró la confianza pública en la seguridad aérea tras años de crisis.
 
 ### Entorno tecnológico
-El Airbus A320 fue el primer avión comercial con controles de vuelo fly-by-wire (computarizados). El capitán Sullenberger señaló que, aunque el sistema fly-by-wire impidió el aterrizaje perfecto (limitó el flare o sustentación final), también permitió a la tripulación concentrarse en la toma de decisiones sin tener que ajustar manualmente la trayectoria de planeo. El APU (unidad de potencia auxiliar) fue activado inmediatamente por Sullenberger, un paso crítico que proporcionó energía eléctrica e hidráulica durante el planeo.
+El Airbus A320 fue el primer avión comercial con controles de vuelo fly-by-wire (computarizados). El Capitán Sullenberger señaló que, aunque el sistema fly-by-wire impidió el aterrizaje perfecto (limitó el flare o sustentación final), también permitió a la tripulación concentrarse en la toma de decisiones sin tener que ajustar manualmente la trayectoria de planeo. El APU (unidad de potencia auxiliar) fue activado inmediatamente por Sullenberger, un paso crítico que proporcionó energía eléctrica e hidráulica durante el planeo.
 
 ### Entorno cultural
 El "Milagro del Hudson" se convirtió en un fenómeno cultural global. Inspiró libros (la autobiografía de Sullenberger *Highest Duty*, publicada en español como *Sully: Hazaña en el Hudson*), documentales (National Geographic) y la película *Sully* (2016), dirigida por Clint Eastwood y protagonizada por Tom Hanks. El episodio fue recreado en la serie *Mayday: Catástrofes aéreas* (temporada 10, episodio 5, titulado "Hudson River Runway").
 
 ## Desarrollo Cronológico
 
-- **Antes del vuelo:** El capitán Sullenberger y el primer oficial Skiles, en su primera asignación juntos, realizan la inspección prevuelo. Skiles acumulaba solo 37 horas en A320.
+- **Antes del vuelo:** El Capitán Sullenberger y el Primer Oficial Skiles, en su primera asignación juntos, realizan la inspección prevuelo. Skiles acumulaba solo 37 horas en A320.
 - **15:24:56 EST:** Despegue desde la pista 4 del Aeropuerto LaGuardia, con Skiles controlando los mandos.
 - **15:25:51:** La aeronave alcanza 700 pies (210 m) de altitud.
 - **15:26:37:** Sullenberger comenta a Skiles: "Qué vista del Hudson hoy".
@@ -103,7 +103,7 @@ El "Milagro del Hudson" se convirtió en un fenómeno cultural global. Inspiró 
 
 ## Legado
 
-El Airbus A320 N106US se exhibe en el **Sullenberger Aviation Museum** (anteriormente Carolinas Aviation Museum) en Charlotte, Carolina del Norte, junto a los motores originales y el tobogán utilizado en la evacuación. El avión conserva las marcas del impacto y los daños del agua, como testimonio de uno de los momentos más extraordinarios de la historia de la aviación. El capitán Sullenberger, retirado en 2010, se convirtió en asesor de seguridad aérea, conferenciante y autor. El accidente sigue siendo el amerizaje más exitoso de un avión comercial sin víctimas mortales, un récord que perdura hasta hoy.
+El Airbus A320 N106US se exhibe en el **Sullenberger Aviation Museum** (anteriormente Carolinas Aviation Museum) en Charlotte, Carolina del Norte, junto a los motores originales y el tobogán utilizado en la evacuación. El avión conserva las marcas del impacto y los daños del agua, como testimonio de uno de los momentos más extraordinarios de la historia de la aviación. El Capitán Sullenberger, retirado en 2010, se convirtió en asesor de seguridad aérea, conferenciante y autor. El accidente sigue siendo el amerizaje más exitoso de un avión comercial sin víctimas mortales, un récord que perdura hasta hoy.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

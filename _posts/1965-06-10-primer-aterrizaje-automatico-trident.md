@@ -19,7 +19,7 @@ image: 1965-06-10-primer-aterrizaje-automatico-trident.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 10 de junio de 1965, el vuelo BE343 de British European Airways (BEA), operado por un Hawker Siddeley Trident 1C con matrícula G-ARPR, despegó del aeropuerto de París-Le Bourget con destino a Londres-Heathrow. A bordo viajaban 80 pasajeros, sin saber que serían testigos de un hito tecnológico: el primer aterrizaje automático de un avión comercial en servicio regular. El capitán Eric Poole y el copiloto Tommy Atkins supervisaron el sistema Autoflare de Smiths Industries, que tomó el control a 150 pies (45,7 metros) del suelo, guiando la aeronave en la aproximación, el flare y el touchdown. Al rodar fuera de la pista, Poole anunció por los altavoces: «Damas y caballeros, la aproximación a la pista y el contacto con el suelo han sido realizados por equipo automático a bordo». Cada pasajero recibió un certificado conmemorativo firmado por Poole y por el presidente de BEA, Sir Anthony Milward.</p>
+<p>El 10 de junio de 1965, el vuelo BE343 de British European Airways (BEA), operado por un Hawker Siddeley Trident 1C con matrícula G-ARPR, despegó del aeropuerto de París-Le Bourget con destino a Londres-Heathrow. A bordo viajaban 80 pasajeros, sin saber que serían testigos de un hito tecnológico: el primer aterrizaje automático de un avión comercial en servicio regular. El Capitán Eric Poole y el copiloto Tommy Atkins supervisaron el sistema Autoflare de Smiths Industries, que tomó el control a 150 pies (45,7 metros) del suelo, guiando la aeronave en la aproximación, el flare y el touchdown. Al rodar fuera de la pista, Poole anunció por los altavoces: «Damas y caballeros, la aproximación a la pista y el contacto con el suelo han sido realizados por equipo automático a bordo». Cada pasajero recibió un certificado conmemorativo firmado por Poole y por el presidente de BEA, Sir Anthony Milward.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -49,7 +49,7 @@ La década de 1960 fue la era dorada de la aviación comercial. Los jets habían
 
 ### Entorno social
 
-El público viajero de los años sesenta confiaba plenamente en la figura del piloto como héroe moderno, y la idea de que una «máquina» aterrizara el avión generaba escepticismo e incluso rechazo. Por ello, BEA optó por no informar a los pasajeros del vuelo BE343 antes del aterrizaje, evitando así posibles alarmas injustificadas. El anuncio del capitán Poole tras el touchdown fue una sorpresa calculada para demostrar que la tecnología funcionaba sin que los pasajeros hubieran notado diferencia alguna respecto a un aterrizaje convencional.
+El público viajero de los años sesenta confiaba plenamente en la figura del piloto como héroe moderno, y la idea de que una «máquina» aterrizara el avión generaba escepticismo e incluso rechazo. Por ello, BEA optó por no informar a los pasajeros del vuelo BE343 antes del aterrizaje, evitando así posibles alarmas injustificadas. El anuncio del Capitán Poole tras el touchdown fue una sorpresa calculada para demostrar que la tecnología funcionaba sin que los pasajeros hubieran notado diferencia alguna respecto a un aterrizaje convencional.
 
 ### Entorno tecnológico
 
@@ -57,7 +57,7 @@ En 1965, los sistemas de aproximación instrumental (ILS) eran estándar, pero e
 
 ### Entorno cultural
 
-El público confiaba en el piloto como figura heroica, y la noción de una «máquina» aterrizando el avión generaba escepticismo. Por ello, BEA optó por no informar a los pasajeros del vuelo BE343 antes del aterrizaje. El anuncio del capitán Poole tras el touchdown fue una sorpresa calculada para demostrar que la tecnología funcionaba sin que los pasajeros hubieran notado diferencia alguna respecto a un aterrizaje convencional.
+El público confiaba en el piloto como figura heroica, y la noción de una «máquina» aterrizando el avión generaba escepticismo. Por ello, BEA optó por no informar a los pasajeros del vuelo BE343 antes del aterrizaje. El anuncio del Capitán Poole tras el touchdown fue una sorpresa calculada para demostrar que la tecnología funcionaba sin que los pasajeros hubieran notado diferencia alguna respecto a un aterrizaje convencional.
 
 ## Desarrollo Cronológico
 

@@ -6,19 +6,19 @@ categories: [accidente]
 author: [Enrique Pomares]
 pais: Venezuela
 operator: Aviación Militar Venezolana
-excerpt: "El teniente Vicente Landaeta Gil se convirtió en el primer aviador militar venezolano en fallecer en un accidente aéreo."
+excerpt: "El Teniente Vicente Landaeta Gil se convirtió en el primer aviador militar venezolano en fallecer en un accidente aéreo."
 image: 1931-02-04-vicente-landaeta-gil-fallece.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1931-02-04-vicente-landaeta-gil-fallece.webp" alt="Retrato oficial del teniente Vicente Landaeta Gil">
-  <figcaption class="post-caption">Avión Farman F.190 de la Aviación Militar Venezolana, similar al del accidente en el que falleció el teniente Vicente Landaeta Gil el 4 de febrero de 1931 en Barquisimeto. Fuente: Museo del Transporte de Caracas.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1931-02-04-vicente-landaeta-gil-fallece.webp" alt="Retrato oficial del Teniente Vicente Landaeta Gil">
+  <figcaption class="post-caption">Avión Farman F.190 de la Aviación Militar Venezolana, similar al del accidente en el que falleció el Teniente Vicente Landaeta Gil el 4 de febrero de 1931 en Barquisimeto. Fuente: Museo del Transporte de Caracas.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 4 de febrero de 1931, el teniente Vicente Landaeta Gil se convirtió en el primer aviador militar venezolano en fallecer en un accidente aéreo, cuando su Farman F.190 se estrelló en el campo de aviación de Barquisimeto durante maniobras de aterrizaje.</p>
+<p>El 4 de febrero de 1931, el Teniente Vicente Landaeta Gil se convirtió en el primer aviador militar venezolano en fallecer en un accidente aéreo, cuando su Farman F.190 se estrelló en el campo de aviación de Barquisimeto durante maniobras de aterrizaje.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

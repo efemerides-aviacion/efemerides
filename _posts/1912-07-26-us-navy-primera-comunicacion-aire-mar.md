@@ -94,7 +94,7 @@ El concepto probado en Annapolis en 1912 sentó las bases operativas de la guerr
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-08-20 12:00:00 CST  
-- **Fuentes primarias/institucionales consultadas:** NHHC, PDF «A Few Pioneers» (entrada del 26 de julio de 1912: Wright B-1, teniente John Rodgers, Charles H. Maddox, Stringham TB-19, ~1,5 millas); USNI Proceedings
+- **Fuentes primarias/institucionales consultadas:** NHHC, PDF «A Few Pioneers» (entrada del 26 de julio de 1912: Wright B-1, Teniente John Rodgers, Charles H. Maddox, Stringham TB-19, ~1,5 millas); USNI Proceedings
 - **Fuentes secundarias de contraste:** MarineLink / Navy News Service; Wikipedia (EN) United States naval aviation
 - **Discrepancias resueltas:** Se precisó la nomenclatura de la nave (Wright B-1 / AH-4) y del buque torpedero receptor (USS Stringham TB-19).
 - **Nivel de confianza:** Alto.

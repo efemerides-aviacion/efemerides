@@ -28,7 +28,7 @@ image: 2012-06-22-fundacion-latam-airlines-goup.webp
 
 - **Fecha de la fusión:** 22 de junio de 2012 
 - **Origen de LAN:** Fundada en 1929 como Línea Aérea Nacional de Chile por el Comandante Arturo Merino Benítez 
-- **Origen de TAM:** Fundada en 1976 por el capitán Rolim Adolfo Amaro como TAM Transportes Aéreos Regionais 
+- **Origen de TAM:** Fundada en 1976 por el Capitán Rolim Adolfo Amaro como TAM Transportes Aéreos Regionais 
 - **CEO del nuevo grupo:** Enrique Cueto 
 - **Presidente:** Mauricio Rolim Amaro 
 - **Alianza global:** oneworld (TAM se unió en 2014, unificando la alianza del grupo)
@@ -59,7 +59,7 @@ La integración de dos culturas empresariales diferentes, la chilena y la brasil
 ## Desarrollo Cronológico
 
 - **1929:** Fundación de LAN por el Comandante Arturo Merino Benítez 
-- **1976:** Fundación de TAM por el capitán Rolim Adolfo Amaro 
+- **1976:** Fundación de TAM por el Capitán Rolim Adolfo Amaro 
 - **2011:** LAN y TAM firman los acuerdos vinculantes para la fusión 
 - **22 de junio de 2012:** Se completa la fusión y nace LATAM Airlines Group 
 - **2014:** TAM se une a oneworld, unificando la alianza global del grupo 
@@ -80,7 +80,7 @@ Fundada el 21 de marzo de 1929 por el Comandante Arturo Merino Benítez, LAN fue
 
 ### TAM Linhas Aéreas (Brasil)
 
-Fundada en 1976 por el capitán Rolim Adolfo Amaro como una pequeña aerolínea regional, TAM creció hasta convertirse en la aerolínea más grande de Brasil. En 1998, realizó su primer vuelo internacional a Miami y se convirtió en una de las aerolíneas más reconocidas de Sudamérica. TAM se incorporó a Star Alliance en 2010.
+Fundada en 1976 por el Capitán Rolim Adolfo Amaro como una pequeña aerolínea regional, TAM creció hasta convertirse en la aerolínea más grande de Brasil. En 1998, realizó su primer vuelo internacional a Miami y se convirtió en una de las aerolíneas más reconocidas de Sudamérica. TAM se incorporó a Star Alliance en 2010.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

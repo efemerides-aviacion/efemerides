@@ -79,7 +79,7 @@ Las consecuencias inmediatas del accidente fueron materiales, judiciales y opera
 - **Pérdida total del avión:** el D-AHLB quedó irreparablemente dañado y fue declarado pérdida total.
 - **Revisión de procedimientos:** el caso obligó a reconsiderar cómo se evaluaban las anomalías de tren de aterrizaje y cómo se calculaba el consumo en configuraciones no estándar.
 - **Debate sobre el FMS:** Airbus defendió que el sistema funcionó según diseño, pero la investigación concluyó que la documentación no explicaba con suficiente claridad sus limitaciones para ese escenario.
-- **Consecuencias legales:** el comandante Wolfgang Arminger fue posteriormente condenado por peligrosa interferencia en el tráfico aéreo, con pena suspendida y pérdida de licencia.
+- **Consecuencias legales:** el Comandante Wolfgang Arminger fue posteriormente condenado por peligrosa interferencia en el tráfico aéreo, con pena suspendida y pérdida de licencia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

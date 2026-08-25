@@ -40,7 +40,7 @@ image: 1945-05-08-ultimo-avion-derribado-dia-victoria-europa.webp
 
 ## Contexto Histórico
 
-El 8 de mayo de 1945 marcó el final oficial de la Segunda Guerra Mundial en Europa. La capitulación alemana, firmada el 7 de mayo en Reims por el general Alfred Jodl, entró en vigor a las 23:01 horas (hora de Europa Central) del 8 de mayo. Para los Aliados occidentales, esa fecha quedó establecida como el Día de la Victoria en Europa (VE Day), mientras que la Unión Soviética, por diferencia horaria, fijó la celebración el 9 de mayo.
+El 8 de mayo de 1945 marcó el final oficial de la Segunda Guerra Mundial en Europa. La capitulación alemana, firmada el 7 de mayo en Reims por el General Alfred Jodl, entró en vigor a las 23:01 horas (hora de Europa Central) del 8 de mayo. Para los Aliados occidentales, esa fecha quedó establecida como el Día de la Victoria en Europa (VE Day), mientras que la Unión Soviética, por diferencia horaria, fijó la celebración el 9 de mayo.
 
 En las últimas semanas del conflicto, el Tercer Reich se encontraba en un colapso administrativo y militar total. Berlín había caído el 2 de mayo, y Adolf Hitler se había suicidado el 30 de abril. No obstante, la Luftwaffe continuó realizando misiones aisladas, principalmente de enlace y evacuación, para trasladar personal militar y heridos desde zonas que serían capturadas por el avance del Ejército Rojo.
 

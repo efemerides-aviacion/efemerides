@@ -18,7 +18,7 @@ image: 1982-05-04-ana-conmemora-ataque-hsm-sheffield.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 4 de mayo de 1982, en plena Guerra de Malvinas, dos aviones Super Étendard de la Aviación Naval Argentina, pilotados por el capitán de corbeta Augusto Bedacarratz y el teniente de navío Armando Mayora, lanzaron misiles AM-39 Exocet contra el destructor británico HMS Sheffield. El impacto causó un incendio incontrolable que llevó al abandono del buque, el cual se hundió el 10 de mayo de 1982 mientras era remolcado. Fue la primera vez en la historia que un misil antibuque aire-superficie hundió un buque de guerra en combate, y esta acción dio origen a la conmemoración del 4 de mayo como el "Día de la Aviación Naval Argentina".</p>
+<p>El 4 de mayo de 1982, en plena Guerra de Malvinas, dos aviones Super Étendard de la Aviación Naval Argentina, pilotados por el capitán de corbeta Augusto Bedacarratz y el Teniente de Navío Armando Mayora, lanzaron misiles AM-39 Exocet contra el destructor británico HMS Sheffield. El impacto causó un incendio incontrolable que llevó al abandono del buque, el cual se hundió el 10 de mayo de 1982 mientras era remolcado. Fue la primera vez en la historia que un misil antibuque aire-superficie hundió un buque de guerra en combate, y esta acción dio origen a la conmemoración del 4 de mayo como el "Día de la Aviación Naval Argentina".</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -29,7 +29,7 @@ image: 1982-05-04-ana-conmemora-ataque-hsm-sheffield.webp
 - **Hora del lanzamiento:** 11:04 UTC (aproximadamente 8:04 hora local de Malvinas)
 - **Ubicación del ataque:** 52°48′S 57°40′O, Atlántico Sur, al noreste de las Islas Malvinas
 - **Aeronaves atacantes:** 2 × Dassault-Breguet Super Étendard (matrículas 3-A-202 y 3-A-203)
-- **Pilotos:** Capitán de corbeta Augusto Bedacarratz (comandante de la misión) y teniente de navío Armando Mayora
+- **Pilotos:** Capitán de corbeta Augusto Bedacarratz (comandante de la misión) y Teniente de Navío Armando Mayora
 - **Aeronave de exploración (guía de radar):** Lockheed SP-2H Neptune (2-P-112), tripulado por la Escuadrilla Aeronaval de Exploración, apodado "Pelícano"
 - **Reabastecimiento en vuelo:** KC-130H Hércules "Tango ½" de la Fuerza Aérea Argentina
 - **Aeronave señuelo:** Learjet 35 de la Fuerza Aérea Argentina
@@ -64,7 +64,7 @@ Tras el hundimiento del General Belgrano, el alto mando argentino autorizó una 
 - **10:50:** Los Super Étendard ascienden brevemente para confirmar los blancos en sus radares Agave.
 - **11:04 (hora UTC, aproximadamente 8:04 en Malvinas):** Ambos aviones lanzan sus misiles Exocet a 20-30 millas del objetivo.
 - **Inmediatamente después del impacto:** Un misil impacta en el Sheffield, perforando el casco a la altura de la sala de máquinas y provocando un incendio incontrolable.
-- **Tarde del 4 de mayo:** El capitán James Salt ordena el abandono del buque ante el riesgo de que el fuego alcanzara el pañol de misiles Sea Dart.
+- **Tarde del 4 de mayo:** El Capitán James Salt ordena el abandono del buque ante el riesgo de que el fuego alcanzara el pañol de misiles Sea Dart.
 - **10 de mayo de 1982:** El Sheffield se hunde mientras era remolcado hacia las Georgias del Sur.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

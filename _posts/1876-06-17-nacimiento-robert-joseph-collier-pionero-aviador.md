@@ -55,7 +55,7 @@ Collier pertenecía a la élite adinerada de Nueva York. Era hijo de Peter Fenel
 
 ### Entorno tecnológico
 
-Collier fue testigo y protagonista de los años más emocionantes de la aviación temprana. En 1911, adquirió un Wright Model B, uno de los primeros aviones producidos en serie por la Wright Company. Este avión tenía una envergadura de 11,6 metros, un motor de 30-35 caballos de potencia y una velocidad máxima de unos 65 km/h. Era, para los estándares de la época, una máquina avanzada. Collier prestó este avión al Ejército de los Estados Unidos, que lo asignó al teniente Benjamin Foulois (uno de los primeros pilotos militares). Foulois y el piloto civil Phil Parmalee utilizaron el avión para patrullar la frontera entre Estados Unidos y México —una de las primeras misiones de reconocimiento aéreo del Ejército.
+Collier fue testigo y protagonista de los años más emocionantes de la aviación temprana. En 1911, adquirió un Wright Model B, uno de los primeros aviones producidos en serie por la Wright Company. Este avión tenía una envergadura de 11,6 metros, un motor de 30-35 caballos de potencia y una velocidad máxima de unos 65 km/h. Era, para los estándares de la época, una máquina avanzada. Collier prestó este avión al Ejército de los Estados Unidos, que lo asignó al Teniente Benjamin Foulois (uno de los primeros pilotos militares). Foulois y el piloto civil Phil Parmalee utilizaron el avión para patrullar la frontera entre Estados Unidos y México —una de las primeras misiones de reconocimiento aéreo del Ejército.
 
 ### Entorno cultural
 
@@ -78,7 +78,7 @@ Collier era un personaje fascinante: millonario, editor, aviador, filántropo y 
 - **1911:** Collier utiliza su avión para filmar la construcción del Canal de Panamá 
 - **1913:** Encarga un hidroavión en un temprano intento de cruzar el Atlántico 
 - **1914, agosto:** Sufre una grave intoxicación por uremia por insuficiencia renal en su casa de verano en Raquette Lake, Nueva York; es trasladado inconsciente a Nueva York en un tren privado 
-- **1918, 8 de noviembre:** Regresa a Nueva York tras haber estado reportando la Primera Guerra Mundial en Francia. El general John J. Pershing había cancelado sus credenciales de prensa y le ordenó regresar a casa. Esa misma noche, sufre un ataque cardíaco mientras cenaba y fallece. Tenía 42 años. 
+- **1918, 8 de noviembre:** Regresa a Nueva York tras haber estado reportando la Primera Guerra Mundial en Francia. El General John J. Pershing había cancelado sus credenciales de prensa y le ordenó regresar a casa. Esa misma noche, sufre un ataque cardíaco mientras cenaba y fallece. Tenía 42 años. 
 - **1918, 12 de noviembre:** Su funeral se celebra en la Iglesia de San Juan Bautista en Nueva York; los portadores del féretro incluyen a Orville Wright, Condé Nast, Finley Peter Dunne y Joseph P. Kennedy 
 - **1922:** El Aero Club of America se disuelve; la National Aeronautic Association (NAA) asume la administración del trofeo, que pasa a llamarse extraoficialmente Trofeo Robert J. Collier 
 - **1944:** El nombre «Trofeo Collier» se oficializa 

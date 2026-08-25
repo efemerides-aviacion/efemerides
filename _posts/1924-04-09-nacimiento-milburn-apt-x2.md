@@ -14,7 +14,7 @@ redirect_from:
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1924-04-09-nacimiento-milburn-apt-x2.webp" alt="Milburn G. Apt junto al Bell X-2">
-  <figcaption class="post-caption">El capitán Milburn G. Apt posa junto al Bell X-2 "Starbuster" en la Base de la Fuerza Aérea Edwards, California, 1956. Apt se convertiría en el primer piloto en superar Mach 3 durante su primer y último vuelo en el X-2. Fuente: <a href="https://en.wikipedia.org/wiki/Milburn_Apt" style="color: #315fea; text-decoration: none;">Wikipedia / Milburn G. Apt</a>.</figcaption>
+  <figcaption class="post-caption">El Capitán Milburn G. Apt posa junto al Bell X-2 "Starbuster" en la Base de la Fuerza Aérea Edwards, California, 1956. Apt se convertiría en el primer piloto en superar Mach 3 durante su primer y último vuelo en el X-2. Fuente: <a href="https://en.wikipedia.org/wiki/Milburn_Apt" style="color: #315fea; text-decoration: none;">Wikipedia / Milburn G. Apt</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -84,11 +84,11 @@ El X-2 era conocido como el "Starbuster" (Destructor de estrellas). Los pilotos 
 
 - **Septiembre de 1954:** Se gradúa de la Escuela de Pilotos de Pruebas de Vuelo Experimental de la Base Aérea Edwards (Clase 54B).
 
-- **22 de diciembre de 1954:** Durante un vuelo de persecución, el avión Lockheed F-94 Starfire pilotado por el capitán Richard J. Harrer se estrella y se incendia. Apt aterriza junto al avión siniestrado, se acerca a la cabina en llamas y logra sacar a Harrer de los escombros, salvándole la vida. Por este acto de heroísmo recibe la Medalla del Soldado (Soldier's Medal), el máximo galardón al valor en situaciones no combatientes.
+- **22 de diciembre de 1954:** Durante un vuelo de persecución, el avión Lockheed F-94 Starfire pilotado por el Capitán Richard J. Harrer se estrella y se incendia. Apt aterriza junto al avión siniestrado, se acerca a la cabina en llamas y logra sacar a Harrer de los escombros, salvándole la vida. Por este acto de heroísmo recibe la Medalla del Soldado (Soldier's Medal), el máximo galardón al valor en situaciones no combatientes.
 
 - **Abril de 1955:** Apt acepta un puesto como piloto de pruebas experimentales en la División de Operaciones de Cazas del AFFTC. Participa en programas de prueba de los F-100, F-101, F-102 y F-105, y realiza pruebas extensivas de acoplamiento inercial en el F-100C.
 
-- **Febrero de 1956:** Es asignado al programa del X-2. Vuela como piloto de persecución en los vuelos de altitud del capitán Iven C. Kincheloe.
+- **Febrero de 1956:** Es asignado al programa del X-2. Vuela como piloto de persecución en los vuelos de altitud del Capitán Iven C. Kincheloe.
 
 - **Septiembre de 1956:** Se le ofrece la oportunidad de pilotear el X-2. La Fuerza Aérea solicita y recibe una extensión de dos meses del programa para calificar a Apt. Se prepara meticulosamente: estudia datos de vuelos anteriores, pasa horas en el simulador GEDA programado por la NACA, recibe instrucción de expertos en estabilidad, practica aterrizajes sin motor en F-86 y técnicas de perfil óptimo en F-100.
 
@@ -100,7 +100,7 @@ El X-2 era conocido como el "Starbuster" (Destructor de estrellas). Los pilotos 
     - **Pérdida de control:** Todavía volando a más de Mach 3, Apt inicia un giro brusco de regreso hacia la Base Edwards. La aeronave entra en una serie de giros divergentes y sale de control debido al acoplamiento inercial. Su última transmisión radial es: "There she goes!" ("¡Allá va!").
     - **Eyección:** Apt se ve momentáneamente inconsciente. Recupera el conocimiento e intenta recuperar el control. Al no lograrlo, activa la cápsula de escape. Un segundo golpe lo deja nuevamente inconsciente. Cuando recupera el sentido, intenta eyectarse pero ya es demasiado tarde. La cápsula impacta en el campo de bombardeo de Edwards, a 8 km del lugar donde cae el fuselaje. Apt fallece en el impacto.
 
-- **21 de marzo de 1957:** Apt recibe póstumamente la Cruz de Vuelo Distinguido (Distinguished Flying Cross) en una ceremonia en la Base Edwards. Su viuda, Faye Lorrie Baker, recibe la medalla de manos del general Thomas S. Power.
+- **21 de marzo de 1957:** Apt recibe póstumamente la Cruz de Vuelo Distinguido (Distinguished Flying Cross) en una ceremonia en la Base Edwards. Su viuda, Faye Lorrie Baker, recibe la medalla de manos del General Thomas S. Power.
 
 - **Posterioridad:** A los aspirantes a pilotos del X-15 se les mostraba la película a bordo del accidente fatal de Apt, filmada por una cámara montada detrás de él en la cabina, como una lección sobre los riesgos de la profesión.
 
@@ -114,7 +114,7 @@ El X-2 era conocido como el "Starbuster" (Destructor de estrellas). Los pilotos 
 
 - **Estudio del acoplamiento inercial:** El accidente de Apt proporcionó datos cruciales sobre el fenómeno del acoplamiento inercial, un problema de estabilidad que afecta a aeronaves muy maniobrables a altas velocidades. Estos datos fueron utilizados en el diseño de aeronaves posteriores, incluyendo el North American X-15, el Lockheed F-104 Starfighter y otros cazas supersónicos.
 
-- **Críticas al sistema de escape:** El incidente reavivó las críticas al sistema de cápsula de escape del X-2. El coronel Frank K. Everest, experimentado piloto del X-2, había advertido que un piloto que usara el dispositivo desmontable sería arrojado contra el panel de instrumentos con una fuerza tremenda. La muerte de Apt confirmó estas preocupaciones y llevó a mejoras en los sistemas de escape de aeronaves experimentales posteriores.
+- **Críticas al sistema de escape:** El incidente reavivó las críticas al sistema de cápsula de escape del X-2. El Coronel Frank K. Everest, experimentado piloto del X-2, había advertido que un piloto que usara el dispositivo desmontable sería arrojado contra el panel de instrumentos con una fuerza tremenda. La muerte de Apt confirmó estas preocupaciones y llevó a mejoras en los sistemas de escape de aeronaves experimentales posteriores.
 
 - **Legado heroico:** Apt fue el decimotercer piloto de pruebas fallecido en la Base Edwards desde 1950. Su nombre se inscribió en el muro de los caídos y su hazaña es recordada como un hito en la conquista de la velocidad.
 

@@ -57,7 +57,7 @@ El X-15 capturó la imaginación del público estadounidense. Sus pilotos, como 
 - **22 de agosto de 1963:** Récord de altitud: 354.200 pies (108 km) por Joe Walker, en <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/08/22/joseph-walker-x-15-vuelo-91.html" style="color: #315fea; text-decoration: none;">el vuelo 91 del programa</a>.
 - **28 de enero de 1964:** 100º vuelo del programa .
 - **3 de octubre de 1967:** Récord de velocidad: Mach 6,70 (4.520 mph) por William J. "Pete" Knight .
-- **15 de noviembre de 1967:** Accidente fatal del X-15-3; fallece el mayor Michael J. Adams .
+- **15 de noviembre de 1967:** Accidente fatal del X-15-3; fallece el Mayor Michael J. Adams .
 - **24 de octubre de 1968:** Último vuelo del X-15 (199ª misión) .
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -144,7 +144,7 @@ El X-15 sigue siendo el avión tripulado más rápido y alto jamás construido. 
   <p><strong>Notas aclaratorias:</strong></p>
   <p><strong>1. El primer vuelo fue sin motor:</strong> El X-15 fue diseñado para ser propulsado por el motor cohete XLR99 de 57.000 libras de empuje, pero este no estaba disponible para el primer vuelo. Por ello, el 8 de junio de 1959 fue un <strong>vuelo de planeo</strong> (glide flight) para verificar las características aerodinámicas y de control. El primer vuelo propulsado ocurrió el 17 de septiembre de 1959, utilizando dos motores XLR11 (16.000 lbf de empuje) .</p>
   <p><strong>2. Récords de altitud y velocidad:</strong> El récord de altitud de 354.200 pies (108 km) establecido por Joe Walker el 22 de agosto de 1963 supera la línea de Kármán (100 km), la frontera internacionalmente aceptada del espacio. Sin embargo, la FAI (Federación Aeronáutica Internacional) no reconoce oficialmente este récord porque el X-15 no era un vehículo espacial orbital. El récord de velocidad de Mach 6,70 establecido por Pete Knight el 3 de octubre de 1967 sigue siendo el más alto para un avión tripulado con motor .</p>
-  <p><strong>3. La tragedia de 1967:</strong> El 15 de noviembre de 1967, el mayor Michael J. Adams falleció cuando su X-15-3 entró en un giro hipersónico a Mach 5 y se desintegró. Adams fue galardonado póstumamente con las alas de astronauta de la USAF. Fue el único accidente fatal del programa X-15 .</p>
+  <p><strong>3. La tragedia de 1967:</strong> El 15 de noviembre de 1967, el Mayor Michael J. Adams falleció cuando su X-15-3 entró en un giro hipersónico a Mach 5 y se desintegró. Adams fue galardonado póstumamente con las alas de astronauta de la USAF. Fue el único accidente fatal del programa X-15 .</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

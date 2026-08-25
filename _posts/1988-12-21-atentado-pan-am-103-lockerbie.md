@@ -73,7 +73,7 @@ Las horas se indican en tiempo universal coordinado, criterio empleado por el in
 - **18:04:** el Boeing 747 N739PA es retirado del puesto de estacionamiento en Heathrow, tras seis horas de escala, y rueda hacia la pista 27R.
 - **18:25:** despega el vuelo 103 con destino a Nueva York.
 - **18:56:** la aeronave nivela en el nivel de vuelo 310 al noroeste del radiofaro de Pole Hill.
-- **18:58:** el comandante MacQuarrie establece contacto con el control oceánico de Shanwick: «Buenas noches, Escocia. Clipper 103. Estamos nivelados en 310».
+- **18:58:** el Comandante MacQuarrie establece contacto con el control oceánico de Shanwick: «Buenas noches, Escocia. Clipper 103. Estamos nivelados en 310».
 - **19:02:50:** detona el artefacto en la bodega delantera. El orificio inicial y la onda expansiva destruyen la estructura del suelo y propagan la rotura por las cavidades internas del fuselaje.
 - **Tres segundos después:** la sección de morro con la cabina de mando se desprende, gira hacia atrás sostenida un instante por una banda metálica, golpea el motor número tres y se separa definitivamente.
 - **Justo antes de las 19:03:** se pierde la última respuesta del radar secundario. La pantalla muestra a continuación múltiples ecos primarios abriéndose en abanico a favor del viento.

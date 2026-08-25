@@ -122,7 +122,7 @@ Además, en 1961, el Phantom II ganó la prestigiosa **Copa Bendix** en una carr
 
 El Phantom II vio un extenso servicio en la Guerra de Vietnam (1965-1973), donde sirvió como el principal caza de superioridad aérea y cazabombardero de la Armada, el Cuerpo de Marines y la Fuerza Aérea de EE. UU. Los F-4C de la Fuerza Aérea obtuvieron las primeras victorias aéreas estadounidenses de la guerra el 10 de julio de 1965, cuando dos Phantoms derribaron dos MiG-17 con misiles AIM-9 Sidewinder.
 
-El 2 de enero de 1967, la **Operación Bolo**, concebida por el coronel Robin Olds, utilizó F-4C camuflados como F-105 Thunderchief para atraer a los MiG-21 norvietnamitas a una trampa. En una batalla de 15 minutos, los Phantoms derribaron siete MiG-21 sin sufrir pérdidas.
+El 2 de enero de 1967, la **Operación Bolo**, concebida por el Coronel Robin Olds, utilizó F-4C camuflados como F-105 Thunderchief para atraer a los MiG-21 norvietnamitas a una trampa. En una batalla de 15 minutos, los Phantoms derribaron siete MiG-21 sin sufrir pérdidas.
 
 A lo largo del conflicto, los F-4 lograron 277 victorias aéreas, incluyendo la primera victoria de un MiG-21 a manos de un F-4B de la Armada en junio de 1966. El 3 de abril de 1965, sin embargo, se produjo el primer derribo de un Phantom por un MiG-17.
 

@@ -71,7 +71,7 @@ Durante semanas, los Wright realizaron pruebas con sacos de arena en el asiento 
 
 ### Después de los vuelos
 
-Furnas siguió trabajando para los Wright. Ayudó en la reconstrucción del avión tras el accidente del mismo día y se convirtió en empleado de tiempo completo. Sin embargo, tras el trágico accidente del 17 de septiembre de 1908, en el que murió el teniente Thomas Selfridge durante una demostración para el Ejército, Furnas se distanció de los hermanos. Regresó a West Milton, Ohio, donde montó su propio garaje y un teatro de cine mudo, dedicándose a una vida alejada de la aviación.
+Furnas siguió trabajando para los Wright. Ayudó en la reconstrucción del avión tras el accidente del mismo día y se convirtió en empleado de tiempo completo. Sin embargo, tras el trágico accidente del 17 de septiembre de 1908, en el que murió el Teniente Thomas Selfridge durante una demostración para el Ejército, Furnas se distanció de los hermanos. Regresó a West Milton, Ohio, donde montó su propio garaje y un teatro de cine mudo, dedicándose a una vida alejada de la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -87,7 +87,7 @@ Furnas siguió trabajando para los Wright. Ayudó en la reconstrucción del avi�
 - **14 de mayo de 1908, mañana:** Wilbur Wright vuela con Furnas como pasajero durante 28-29 segundos.
 - **14 de mayo de 1908, tarde:** Orville Wright vuela con Furnas durante 4 minutos y 2 segundos, recorriendo 3,42 km.
 - **14 de mayo de 1908 (mismo día):** Wilbur Wright se estrella en un vuelo posterior (sobrevive ileso, el avión se daña).
-- **17 de septiembre de 1908:** Accidente fatal del teniente Thomas Selfridge en Fort Myer, Virginia; Furnas abandona a los Wright poco después.
+- **17 de septiembre de 1908:** Accidente fatal del Teniente Thomas Selfridge en Fort Myer, Virginia; Furnas abandona a los Wright poco después.
 - **15 de octubre de 1941:** Fallece Charles Furnas en el Hospital de Veteranos de Dayton, Ohio. Orville Wright asiste a su funeral.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

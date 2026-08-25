@@ -18,7 +18,7 @@ image: 1944-12-13-amerizaje-forzoso-b-29.jpg
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 13 de diciembre de 1944, el Boeing B-29 Superfortress “Dat’s My Boy” (42-63447), del 499th Bomb Group, se quedó sin combustible tras participar en un ataque sobre Japón. El teniente Silvester realizó un amerizaje controlado en el Pacífico, a unos 550 km de la costa. Los once tripulantes sobrevivieron y fueron rescatados por el destructor USS Cummings DD-365.</p>
+<p>El 13 de diciembre de 1944, el Boeing B-29 Superfortress “Dat’s My Boy” (42-63447), del 499th Bomb Group, se quedó sin combustible tras participar en un ataque sobre Japón. El Teniente Silvester realizó un amerizaje controlado en el Pacífico, a unos 550 km de la costa. Los once tripulantes sobrevivieron y fueron rescatados por el destructor USS Cummings DD-365.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -41,7 +41,7 @@ Los B-29 eran la punta de lanza de la ofensiva aérea contra Japón en 1944. Ope
 
 ## Desarrollo Cronológico
 - 13 de diciembre de 1944: “Dat’s My Boy” participa en el ataque a la fábrica Nakajima Musashi.  
-- Sin combustible suficiente para regresar, el teniente Silvester decide amerizar.  
+- Sin combustible suficiente para regresar, el Teniente Silvester decide amerizar.  
 - El avión logra posarse en el agua con precisión, flotando durante la noche.  
 - Al día siguiente, la tripulación hunde el avión para evitar su captura.  
 - El USS Cummings rescata a los once tripulantes.  

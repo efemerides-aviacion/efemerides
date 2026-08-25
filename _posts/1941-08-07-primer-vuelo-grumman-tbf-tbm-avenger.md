@@ -81,7 +81,7 @@ La secuencia recorre desde el encargo de los prototipos hasta la consagración d
 - **28 de junio de 1942:** el prototipo 00373 se incendia en vuelo de pruebas y se pierde. La tripulación se salva.
 - **A partir de 1942:** la División Eastern Aircraft de General Motors asume la mayor parte de la producción, con la designación TBM. Cerca de tres cuartas partes del total saldrán de sus cadenas.
 - **20 de junio de 1944:** los Avenger participan en <a href="https://efemerides-aviacion.github.io/efemerides/evento/1944/06/20/batalla-mar-filipinas-segunda-guerra-mundial.html" style="color: #315fea; text-decoration: none;">la Batalla del Mar de Filipinas</a>, el mayor enfrentamiento entre portaaviones de la historia.
-- **2 de septiembre de 1944:** un TBM pilotado por el teniente George H. W. Bush, futuro presidente de Estados Unidos, es derribado sobre Chichi Jima. Bush completa el ataque antes de saltar y es rescatado por el submarino USS *Finback*. Sus dos tripulantes mueren.
+- **2 de septiembre de 1944:** un TBM pilotado por el Teniente George H. W. Bush, futuro presidente de Estados Unidos, es derribado sobre Chichi Jima. Bush completa el ataque antes de saltar y es rescatado por el submarino USS *Finback*. Sus dos tripulantes mueren.
 - **Décadas de 1950 y 1960:** el Avenger permanece en servicio en varias armadas y fuerzas aéreas, adaptado a la guerra antisubmarina, la alerta aérea temprana y usos civiles.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

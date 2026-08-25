@@ -57,7 +57,7 @@ La Operación Focus se convirtió en un hito en la historia de la aviación mili
 ## Desarrollo Cronológico de la Operación
 
 - **Finales de mayo de 1967:** Aumento de tensiones; Egipto moviliza fuerzas en el Sinaí, cierra los Estrechos de Tirán.
-- **2 de junio de 1967:** El general Motti Hod, comandante de la IAF, recibe la orden de ejecutar la Operación Focus.
+- **2 de junio de 1967:** El General Motti Hod, comandante de la IAF, recibe la orden de ejecutar la Operación Focus.
 - **5 de junio de 1967, 07:45:** Primera oleada de 183 aviones israelíes despega y ataca 11 aeródromos egipcios. Vuelan a 18 metros de altitud sobre el Mediterráneo para evadir radares.
 - **08:00-11:00:** La primera oleada destruye 197 aviones egipcios en tres horas. Los egipcios pierden 11 aeródromos.
 - **12:00-15:00:** Segunda oleada ataca aeródromos jordanos y sirios, destruyendo decenas de aviones.

@@ -18,7 +18,7 @@ image: 1943-05-17-b17-memphis-belle-25-misiones-leyenda-mito.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Resumen Ejecutivo
 
-El 17 de mayo de 1943, el B-17F "Memphis Belle" (número de serie 41-24485) y su tripulación, al mando del capitán Robert K. Morgan, completaron su 25ª misión de combate contra la Europa ocupada por los nazis. La misión número 25 fue un ataque a la base de submarinos de Lorient, Francia. Este hito significaba el final de su "gira de combate", un logro notable dado el altísimo riesgo que corrían los bombarderos pesados de la 8ª Fuerza Aérea en 1943. Convertida en un símbolo de la resistencia y la potencia aérea estadounidense, la tripulación y el avión regresaron a Estados Unidos para protagonizar una exitosa gira de venta de bonos de guerra, inmortalizando la leyenda del "Memphis Belle".
+El 17 de mayo de 1943, el B-17F "Memphis Belle" (número de serie 41-24485) y su tripulación, al mando del Capitán Robert K. Morgan, completaron su 25ª misión de combate contra la Europa ocupada por los nazis. La misión número 25 fue un ataque a la base de submarinos de Lorient, Francia. Este hito significaba el final de su "gira de combate", un logro notable dado el altísimo riesgo que corrían los bombarderos pesados de la 8ª Fuerza Aérea en 1943. Convertida en un símbolo de la resistencia y la potencia aérea estadounidense, la tripulación y el avión regresaron a Estados Unidos para protagonizar una exitosa gira de venta de bonos de guerra, inmortalizando la leyenda del "Memphis Belle".
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -78,7 +78,7 @@ A principios de 1943, la campaña de bombardeos diurnos de la 8ª Fuerza Aérea 
 
 ### El origen del nombre
 
-El nombre "Memphis Belle" fue elegido por el piloto, el capitán Robert K. Morgan, en honor a su novia de entonces, Margaret Polk, que vivía en Memphis, Tennessee. Morgan quedó cautivado por una película titulada "Lady for a Night" protagonizada por una goleta llamada "Memphis Belle". Decidió ponerle ese nombre a su B-17 y pidió al artista del grupo, el cabo Anthony L. Starcer, que pintara a una "Petty Girl" en el morro, basándose en los populares diseños de la revista Esquire del ilustrador George Petty.
+El nombre "Memphis Belle" fue elegido por el piloto, el Capitán Robert K. Morgan, en honor a su novia de entonces, Margaret Polk, que vivía en Memphis, Tennessee. Morgan quedó cautivado por una película titulada "Lady for a Night" protagonizada por una goleta llamada "Memphis Belle". Decidió ponerle ese nombre a su B-17 y pidió al artista del grupo, el Cabo Anthony L. Starcer, que pintara a una "Petty Girl" en el morro, basándose en los populares diseños de la revista Esquire del ilustrador George Petty.
 
 ### Un mito matizado: el primer avión vs. la primera tripulación completa
 
@@ -96,7 +96,7 @@ El director de cine William Wyler, famoso por películas como "Ben-Hur", se alis
 
 ## Desarrollo Cronológico
 
-- **15 de julio de 1942:** El capitán Morgan toma posesión del B-17F 41-24485.
+- **15 de julio de 1942:** El Capitán Morgan toma posesión del B-17F 41-24485.
 - **31 de agosto de 1942:** El avión es asignado al 324º Escuadrón de Bombardeo, 91º Grupo de Bombardeo en Bangor, Maine.
 - **14 de septiembre de 1942:** El avión parte hacia Inglaterra a través de la ruta del Atlántico Norte.
 - **7 de noviembre de 1942:** Primera misión de combate del Memphis Belle (contra Brest).

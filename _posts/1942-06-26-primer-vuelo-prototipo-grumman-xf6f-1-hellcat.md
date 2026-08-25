@@ -108,7 +108,7 @@ Robert Leicester Hall (1905-1991) fue una de las figuras más destacadas de la a
 
 El Hellcat fue el **caza embarcado más exitoso de la Segunda Guerra Mundial**. Con 12.275 unidades construidas , se convirtió en el avión de combate más producido a partir de una sola fábrica.
 
-Sus pilotos derribaron **5.156 aviones enemigos** (el 75% de las victorias aéreas de la Armada en el Pacífico). La tasa de eliminación fue de **19:1** (19 aviones enemigos derribados por cada Hellcat perdido), la más alta de cualquier caza de la guerra. Entre sus pilotos se encontraba el capitán David McCampbell, el principal as de la Armada de EE. UU. con 34 derribos.
+Sus pilotos derribaron **5.156 aviones enemigos** (el 75% de las victorias aéreas de la Armada en el Pacífico). La tasa de eliminación fue de **19:1** (19 aviones enemigos derribados por cada Hellcat perdido), la más alta de cualquier caza de la guerra. Entre sus pilotos se encontraba el Capitán David McCampbell, el principal as de la Armada de EE. UU. con 34 derribos.
 
 El Hellcat no solo dominó los cielos del Pacífico, sino que **superó al Zero en casi todos los aspectos**: velocidad, potencia de fuego, blindaje y capacidad de supervivencia. El propio McCampbell declaró: «El Hellcat podía trepar más rápido, era más maniobrable... era una excelente plataforma de tiro... era más rápido que el Zero a determinadas altitudes».
 

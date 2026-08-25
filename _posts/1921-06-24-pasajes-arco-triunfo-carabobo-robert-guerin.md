@@ -36,11 +36,11 @@ image: 1921-06-24-pasajes-arco-triunfo-carabobo-robert-guerin.webp
 
 ## Contexto Histórico
 
-El 24 de junio de 1921, Venezuela conmemoraba el centenario de la Batalla de Carabobo, la cual selló la independencia del país. El gobierno del general Juan Vicente Gómez organizó una fastuosa celebración que incluyó desfiles militares, discursos y la inauguración de un monumento emblemático en el mismo campo de batalla: el Arco de Carabobo. En este contexto de orgullo nacional, la naciente aviación militar venezolana, liderada por una misión francesa, buscaba demostrar su valía.
+El 24 de junio de 1921, Venezuela conmemoraba el centenario de la Batalla de Carabobo, la cual selló la independencia del país. El gobierno del General Juan Vicente Gómez organizó una fastuosa celebración que incluyó desfiles militares, discursos y la inauguración de un monumento emblemático en el mismo campo de batalla: el Arco de Carabobo. En este contexto de orgullo nacional, la naciente aviación militar venezolana, liderada por una misión francesa, buscaba demostrar su valía.
 
 ### El Centenario de Carabobo
 
-El gobierno del general Juan Vicente Gómez, a pesar de ser una dictadura, organizó fastuosas celebraciones que incluyeron desfiles militares, discursos y la inauguración de un monumento emblemático en el mismo campo de batalla: el Arco de Carabobo.
+El gobierno del General Juan Vicente Gómez, a pesar de ser una dictadura, organizó fastuosas celebraciones que incluyeron desfiles militares, discursos y la inauguración de un monumento emblemático en el mismo campo de batalla: el Arco de Carabobo.
 
 ### La Misión Aeronáutica Francesa
 
@@ -58,9 +58,9 @@ Llegó a Venezuela en enero de 1921 y fue designado instructor de vuelo. Su pape
 
 ## El Vuelo a través del Arco de Carabobo
 
-El 24 de junio de 1921, la Escuadrilla de la Misión Francesa, compuesta por el capitán Jean T. Fieschi, el capitán Robert Petit, el subteniente Georges Teppe y el alférez de navío Robert Guerin , recibió la orden de sobrevolar el campo de Carabobo durante la inauguración del Arco.
+El 24 de junio de 1921, la Escuadrilla de la Misión Francesa, compuesta por el Capitán Jean T. Fieschi, el Capitán Robert Petit, el subteniente Georges Teppe y el Alférez de Navío Robert Guerin , recibió la orden de sobrevolar el campo de Carabobo durante la inauguración del Arco.
 
-Sin embargo, el día amaneció nublado y lluvioso, con bastante viento. El capitán Fieschi, para evitar un accidente, ordenó a los cadetes venezolanos que no volaran debido a su poca experiencia. Los cuatro instructores franceses despegaron, pero las condiciones eran tan adversas que, tras media hora de vuelo, Fieschi ordenó el regreso a Maracay.
+Sin embargo, el día amaneció nublado y lluvioso, con bastante viento. El Capitán Fieschi, para evitar un accidente, ordenó a los cadetes venezolanos que no volaran debido a su poca experiencia. Los cuatro instructores franceses despegaron, pero las condiciones eran tan adversas que, tras media hora de vuelo, Fieschi ordenó el regreso a Maracay.
 
 Tanto Petit como Teppe acataron la orden, pero Guerin continuó rumbo a Carabobo. Descendiendo a solo 50 metros del suelo y bordeando el lago para no desorientarse, apareció sobre el campo de Carabobo justo a tiempo para participar en el desfile.
 
@@ -76,7 +76,7 @@ El historiador José David López, en su discurso de ingreso a la Academia de la
 
 El vuelo de Guerin se convirtió rápidamente en una hazaña legendaria. Demostró la valentía y la habilidad de los pilotos de la Misión Francesa, pero también puso de manifiesto los riesgos de la aviación en sus inicios. La proeza contribuyó a popularizar la aviación en Venezuela, alimentando el sueño de conquistar los cielos.
 
-El general Gómez, según relata la fuente de FAV Club, no pudo evitar esconder una sonrisa y murmuró: *«anjá…umjú, muy bien»*. Luego le ordenó a su hijo Florencio: *«Averígüeme quién es ese piloto»*.
+El General Gómez, según relata la fuente de FAV Club, no pudo evitar esconder una sonrisa y murmuró: *«anjá…umjú, muy bien»*. Luego le ordenó a su hijo Florencio: *«Averígüeme quién es ese piloto»*.
 
 ## Legado
 

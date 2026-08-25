@@ -6,7 +6,7 @@ categories: [evento]
 author: [Enrique Pomares]
 pais: Estados Unidos
 operator: USAAF / USAF
-excerpt: "El coronel William H. Councill estableció el primer récord transcontinental a reacción en EE.UU. con un Lockheed P‑80."
+excerpt: "El Coronel William H. Councill estableció el primer récord transcontinental a reacción en EE.UU. con un Lockheed P‑80."
 image: 1946-01-26-primer-record-transcontinental-p80-councill.jpg
 ---
 
@@ -18,7 +18,7 @@ image: 1946-01-26-primer-record-transcontinental-p80-councill.jpg
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 26 de enero de 1946, el coronel William H. Councill de la USAAF/USAF estableció el primer récord transcontinental a reacción en Estados Unidos al volar un Lockheed P‑80A Shooting Star (44‑85123) desde Long Beach hasta Nueva York–LaGuardia en 4 horas, 13 minutos y 26 segundos.</p>
+<p>El 26 de enero de 1946, el Coronel William H. Councill de la USAAF/USAF estableció el primer récord transcontinental a reacción en Estados Unidos al volar un Lockheed P‑80A Shooting Star (44‑85123) desde Long Beach hasta Nueva York–LaGuardia en 4 horas, 13 minutos y 26 segundos.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

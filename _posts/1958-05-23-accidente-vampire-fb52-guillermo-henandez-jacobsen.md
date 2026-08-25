@@ -41,7 +41,7 @@ image: 1958-05-23-accidente-vampire-fb52-guillermo-hernandez-jacobsen.webp
 El accidente del Capitán Hernández Jacobsen ocurrió en un momento de profundos cambios políticos y tecnológicos en Venezuela.
 
 ### Entorno social
-El 23 de enero de 1958, apenas cuatro meses antes del accidente, una insurrección cívico-militar había derrocado al general Marcos Pérez Jiménez, quien gobernaba desde 1952. Venezuela transitaba hacia la democracia con una Junta de Gobierno presidida por el Contralmirante Wolfgang Larrazábal. La Fuerza Aérea Venezolana, creada formalmente en 1946, se encontraba en un proceso de reorganización y modernización.
+El 23 de enero de 1958, apenas cuatro meses antes del accidente, una insurrección cívico-militar había derrocado al General Marcos Pérez Jiménez, quien gobernaba desde 1952. Venezuela transitaba hacia la democracia con una Junta de Gobierno presidida por el Contralmirante Wolfgang Larrazábal. La Fuerza Aérea Venezolana, creada formalmente en 1946, se encontraba en un proceso de reorganización y modernización.
 
 ### Entorno tecnológico
 El De Havilland Vampire fue uno de los primeros cazas a reacción en entrar en servicio en Venezuela. Diseñado por la compañía británica de Havilland, el Vampire realizó su primer vuelo en 1943 y entró en servicio operativo en 1946. Venezuela adquirió varios ejemplares de la versión FB.52 (Fighter-Bomber), un modelo de ataque a tierra y caza, a finales de la década de 1940. Estos reactores representaban un salto tecnológico enorme respecto a los aviones de hélice que habían dominado la Segunda Guerra Mundial.

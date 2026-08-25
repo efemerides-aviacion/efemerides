@@ -101,7 +101,7 @@ El Southern Cross estaba equipado con un avanzado sistema de radio para la époc
 - **Récord de distancia:** Se estableció un nuevo récord mundial de distancia para comunicación por radio, con recepción en Bloemfontein, Sudáfrica (20.600 km).
 - **Información al público:** Los mensajes de Warner eran retransmitidos por radio al público australiano, que seguía el progreso del vuelo con enorme interés.
 
-El éxito del sistema de radio del Southern Cross influyó en el almirante Byrd, quien equipó sus tres aviones de la Expedición Antártica con equipamiento similar.
+El éxito del sistema de radio del Southern Cross influyó en el Almirante Byrd, quien equipó sus tres aviones de la Expedición Antártica con equipamiento similar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

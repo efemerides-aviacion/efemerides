@@ -46,7 +46,7 @@ El accidente del 27 de mayo de 1952 ocurrió en un momento de modernización de 
 
 ### Entorno social
 
-A finales de la década de 1940, Venezuela vivía bajo el gobierno del general Marcos Pérez Jiménez (1948-1958), un período de modernización del país impulsado por la creciente renta petrolera. Las Fuerzas Armadas recibieron una atención prioritaria, con la adquisición de modernos equipos militares. La Fuerza Aérea Venezolana, creada el 22 de junio de 1946, buscaba posicionarse como una fuerza moderna y disuasiva en la región. La adquisición de los cazas a reacción De Havilland Vampire representó un salto tecnológico significativo.
+A finales de la década de 1940, Venezuela vivía bajo el gobierno del General Marcos Pérez Jiménez (1948-1958), un período de modernización del país impulsado por la creciente renta petrolera. Las Fuerzas Armadas recibieron una atención prioritaria, con la adquisición de modernos equipos militares. La Fuerza Aérea Venezolana, creada el 22 de junio de 1946, buscaba posicionarse como una fuerza moderna y disuasiva en la región. La adquisición de los cazas a reacción De Havilland Vampire representó un salto tecnológico significativo.
 
 ### Entorno tecnológico
 

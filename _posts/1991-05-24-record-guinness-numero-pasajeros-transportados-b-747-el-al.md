@@ -66,7 +66,7 @@ Los Boeing 747 de El Al fueron modificados para la operación: se retiraron todo
 - **24 de mayo de 1991, tarde:** Un Boeing 747 de El Al (el vuelo récord) aterriza en Adís Abeba. Los asientos han sido retirados para maximizar la capacidad.
 - **Tiempo en tierra:** 36 minutos para cargar a más de 1.000 pasajeros. Muchos de ellos, desnutridos y con pocas pertenencias, abordan el avión rápidamente.
 - **Duración del vuelo récord:** aproximadamente **3 horas y 30 minutos** desde Adís Abeba hasta Tel Aviv .
-- **Durante el vuelo:** Dos mujeres dan a luz. El capitán Avi Orr comenta al aterrizar: *"Podríamos haber llevado aún más, pero no había más personas en el aeropuerto en ese momento"*.
+- **Durante el vuelo:** Dos mujeres dan a luz. El Capitán Avi Orr comenta al aterrizar: *"Podríamos haber llevado aún más, pero no había más personas en el aeropuerto en ese momento"*.
 - **24-25 de mayo de 1991 (36 horas):** Se completan 40 vuelos en total (24 de la Fuerza Aérea israelí y 10 de El Al, más 6 de aerolíneas etíopes). Se transportan 14.325 judíos etíopes a Israel.
 - **Llegada a Tel Aviv:** Los recién llegados son recibidos por altos funcionarios del gobierno israelí y la Agencia Judía. Muchos besan el suelo al salir del avión. Solo 195 personas requieren hospitalización.
 
@@ -100,7 +100,7 @@ Sin embargo, las fuentes contemporáneas presentan variaciones en la cifra exact
 El vuelo récord del 24 de mayo de 1991 sigue siendo estudiado en escuelas de aviación como un caso extremo de logística humanitaria. La hazaña demostró que los aviones comerciales pueden ser adaptados para misiones de evacuación masiva en circunstancias excepcionales.
 
 - **Reconocimiento oficial:** La cifra de 1.088 pasajeros está registrada en Guinness World Records como la más alta de la historia.
-- **Memoria institucional:** El capitán Avi Orr, piloto del vuelo récord, es recordado en El Al como un héroe nacional.
+- **Memoria institucional:** El Capitán Avi Orr, piloto del vuelo récord, es recordado en El Al como un héroe nacional.
 - **Documentación histórica:** La Operación Salomón está documentada en los archivos del Estado de Israel y en el Museo de la Diáspora en Tel Aviv.
 - **El avión:** Aunque la matrícula específica del Boeing 747 del vuelo récord no ha sido conservada en los registros públicos, la hazaña se atribuye colectivamente a los equipos de El Al y la Fuerza Aérea israelí.
 

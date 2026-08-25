@@ -95,7 +95,7 @@ La velocidad de Apolo 10 fue ligeramente superior a la de otras misiones Apolo d
 - **Validación de la misión Apolo:** Apolo 10 demostró que todos los sistemas funcionaban correctamente en el entorno lunar. El éxito de la misión permitió que Apolo 11, solo dos meses después, pudiera intentar el primer alunizaje con confianza.
 - **Récord Guinness vigente:** El récord de velocidad tripulada sigue en pie a 57 años de la misión. Las naves espaciales que han viajado a la Luna desde entonces (Apolo 11-17) alcanzaron velocidades similares pero ligeramente inferiores. Las misiones a la Estación Espacial Internacional (aproximadamente 28.000 km/h) son más lentas. El récord solo podrá ser superado por futuras misiones tripuladas a Marte, que requerirán velocidades mucho mayores.
 - **Hitos técnicos adicionales:** Apolo 10 fue la primera misión en realizar un encuentro y acoplamiento en órbita lunar, así como la primera en volar el módulo lunar completo en el espacio.
-- **Reconocimiento a Stafford:** El comandante Thomas P. Stafford fue condecorado por la Fuerza Aérea de EE. UU. por ostentar el récord mundial de mayor velocidad de reentrada en un vuelo espacial tripulado.
+- **Reconocimiento a Stafford:** El Comandante Thomas P. Stafford fue condecorado por la Fuerza Aérea de EE. UU. por ostentar el récord mundial de mayor velocidad de reentrada en un vuelo espacial tripulado.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 

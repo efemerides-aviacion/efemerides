@@ -51,7 +51,7 @@ Desde la caída de Francia en junio de 1940, el régimen nazi había sometido a 
 
 ### El engaño aliado: Operación Fortitude
 
-Un factor clave para el éxito del Día D fue el elaborado plan de engaño aliado, conocido como **Operación Fortitude**. Los aliados crearon un ejército ficticio (el Primer Grupo de Ejércitos de EE. UU., comandado por el general Patton) en el sureste de Inglaterra, con tanques inflables, cuarteles falsos y tráfico de radio ficticio. Para reforzar este engaño, aviones aliados bombardearon el **Paso de Calais** —la zona más estrecha del Canal de la Mancha— el 5 y 6 de junio de 1944, haciendo creer a los alemanes que la invasión principal ocurriría allí y no en Normandía. La inteligencia alemana, engañada por estos señuelos y por agentes dobles como el español Juan Pujol ("Garbo"), mantuvo dos divisiones panzer en Calais durante semanas después del Día D, impidiendo que reforzaran las playas de Normandía.
+Un factor clave para el éxito del Día D fue el elaborado plan de engaño aliado, conocido como **Operación Fortitude**. Los aliados crearon un ejército ficticio (el Primer Grupo de Ejércitos de EE. UU., comandado por el General Patton) en el sureste de Inglaterra, con tanques inflables, cuarteles falsos y tráfico de radio ficticio. Para reforzar este engaño, aviones aliados bombardearon el **Paso de Calais** —la zona más estrecha del Canal de la Mancha— el 5 y 6 de junio de 1944, haciendo creer a los alemanes que la invasión principal ocurriría allí y no en Normandía. La inteligencia alemana, engañada por estos señuelos y por agentes dobles como el español Juan Pujol ("Garbo"), mantuvo dos divisiones panzer en Calais durante semanas después del Día D, impidiendo que reforzaran las playas de Normandía.
 
 ### Entorno tecnológico
 

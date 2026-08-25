@@ -56,9 +56,9 @@ La contratación de una misión francesa reflejaba la influencia cultural y mili
 - **1920, 17 de abril:** El gobierno de Juan Vicente Gómez decreta la creación de la Escuela de Aviación Militar, con sede en Maracay. Se asignan 350.000 bolívares para su estructuración.
 - **1920, 22 de mayo:** El Ministro de Guerra y Marina comunica al Ministro de Relaciones Exteriores la instrucción presidencial de solicitar a Francia, por vía diplomática, la contratación de una misión de instructores aeronáuticos franceses. La misión debía incluir jefe piloto, instructores, mecánicos y personal especializado en hidroaviones.
 - **1920, 21 de junio:** Se publica el Reglamento Orgánico de la Escuela de Aviación Militar, que establece los cursos de pilotaje, mecánica, observación y fotografía aérea.
-- **1920, diciembre:** Llegan a Venezuela los primeros instructores franceses. El coronel David López Enríquez asume la dirección de la Escuela de Aviación Militar. Los primeros alumnos venezolanos incluyen a Juan Yépez, Antonio Villegas, Francisco Leonardi, Ovilio Díaz, Julio Fortoul, Luis Rondón, Alfredo García, Jesús Paúl, Elías Sayago, Amador Nieto y Juan Lucero.
+- **1920, diciembre:** Llegan a Venezuela los primeros instructores franceses. El Coronel David López Enríquez asume la dirección de la Escuela de Aviación Militar. Los primeros alumnos venezolanos incluyen a Juan Yépez, Antonio Villegas, Francisco Leonardi, Ovilio Díaz, Julio Fortoul, Luis Rondón, Alfredo García, Jesús Paúl, Elías Sayago, Amador Nieto y Juan Lucero.
 - **1920-1922:** La misión francesa opera en Venezuela, entrenando a los primeros pilotos militares venezolanos.
-- **1922:** Se establece la Base-Escuela de Aviación Marítima de Punta Palmita en el Lago de Valencia, dotada de hidroaviones Caudron G.4 y Farman F.40 bajo la supervisión del alférez de navío Robert Guérin.
+- **1922:** Se establece la Base-Escuela de Aviación Marítima de Punta Palmita en el Lago de Valencia, dotada de hidroaviones Caudron G.4 y Farman F.40 bajo la supervisión del Alférez de Navío Robert Guérin.
 - **1923:** Algunos instructores franceses comienzan a retirarse. La aviación nacional enfrenta dificultades por la inexperiencia de los pilotos venezolanos y problemas mecánicos.
 - **1929:** La misión francesa concluye su permanencia en Venezuela, siendo posteriormente relevada por misiones alemana (1930-1933) e italiana.
 
@@ -86,7 +86,7 @@ Esta composición reflejaba una estrategia integral: no solo se traían pilotos 
 
 Un aspecto particularmente relevante de la misión francesa fue la inclusión de personal especializado en hidroaviones. El agregado militar francés en Caracas había señalado en 1919: *"Sin duda la aviación marítima o al menos mixta, sería la que rendiría los mayores servicios (tanto en paz como en la guerra) en un país que posee un largo litoral"*.
 
-Siguiendo esta recomendación, la misión incluyó al alférez de navío Robert Guérin, piloto experimentado de la Aeronavale francesa. En 1922, Guérin organizó la Base-Escuela de Aviación Marítima en Punta Palmita, Lago de Valencia, dotada de hidroaviones Caudron G.4 y Farman F.40. Aunque esta base fue desmantelada poco después, sentó el precedente de la aviación naval venezolana, cuyos orígenes se sitúan en 1920.
+Siguiendo esta recomendación, la misión incluyó al Alférez de Navío Robert Guérin, piloto experimentado de la Aeronavale francesa. En 1922, Guérin organizó la Base-Escuela de Aviación Marítima en Punta Palmita, Lago de Valencia, dotada de hidroaviones Caudron G.4 y Farman F.40. Aunque esta base fue desmantelada poco después, sentó el precedente de la aviación naval venezolana, cuyos orígenes se sitúan en 1920.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

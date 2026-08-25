@@ -20,7 +20,7 @@ image: 1986-01-28-accidente-challenger-sts51l.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 28 de enero de 1986 el transbordador espacial Challenger (misión STS‑51‑L) se desintegró 73 segundos tras el despegue de Cabo Cañaveral (11:39 a.m. EST), a 46.000 pies sobre el Atlántico, debido a la falla de los O‑ring del SRB derecho por temperaturas bajo cero que impidieron su sellado, liberando gas ardiente que erosionó el tanque externo y provocó la explosión. Los siete tripulantes —comandante Francis R. Scobee, piloto Michael J. Smith, especialistas Judith A. Resnik, Ellison S. Onizuka, Ronald E. McNair, Gregory B. Jarvis y la maestra Sharon Christa McAuliffe (primera civil en el espacio)— perecieron; la cabina se separó intacta pero impactó el océano a 207 mph tras caída libre desde 65.000 pies.</p>
+<p>El 28 de enero de 1986 el transbordador espacial Challenger (misión STS‑51‑L) se desintegró 73 segundos tras el despegue de Cabo Cañaveral (11:39 a.m. EST), a 46.000 pies sobre el Atlántico, debido a la falla de los O‑ring del SRB derecho por temperaturas bajo cero que impidieron su sellado, liberando gas ardiente que erosionó el tanque externo y provocó la explosión. Los siete tripulantes —Comandante Francis R. Scobee, piloto Michael J. Smith, especialistas Judith A. Resnik, Ellison S. Onizuka, Ronald E. McNair, Gregory B. Jarvis y la maestra Sharon Christa McAuliffe (primera civil en el espacio)— perecieron; la cabina se separó intacta pero impactó el océano a 207 mph tras caída libre desde 65.000 pies.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">

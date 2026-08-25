@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido / Canadá / Irlanda
 operator: Vickers
-excerpt: "El 15 de junio de 1919, el capitán John Alcock y el teniente Arthur Whitten Brown aterrizaron en una ciénaga irlandesa tras 16 horas de vuelo, completando el primer cruce aéreo sin escalas del Atlántico a bordo de un Vickers Vimy."
+excerpt: "El 15 de junio de 1919, el Capitán John Alcock y el Teniente Arthur Whitten Brown aterrizaron en una ciénaga irlandesa tras 16 horas de vuelo, completando el primer cruce aéreo sin escalas del Atlántico a bordo de un Vickers Vimy."
 image: 1919-06-15-primer-vuelo-trasatlantico-sin-escala.webp
 ---
 
@@ -19,7 +19,7 @@ image: 1919-06-15-primer-vuelo-trasatlantico-sin-escala.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 15 de junio de 1919, a las 8:40 a.m., el capitán John Alcock y el teniente Arthur Whitten Brown aterrizaron de emergencia en una ciénaga cerca de Clifden (Condado de Galway, Irlanda), completando así el primer vuelo trasatlántico sin escalas de la historia. Habían despegado 16 horas antes desde St. John's, Newfoundland, a bordo de un biplano Vickers Vimy modificado. El vuelo, de 3.030 kilómetros, estuvo plagado de incidentes: fallo del generador eléctrico que dejó sin calefacción ni radio, rotura del tubo de escape que —junto con el ruido ensordecedor— hizo imposible cualquier comunicación hablada entre los pilotos, una tormenta de nieve que congeló los instrumentos y dos pérdidas de control en las que el avión cayó en picado hacia el mar. A pesar de todo, Alcock y Brown ganaron el premio de £10.000 del Daily Mail y fueron nombrados caballeros por el rey Jorge V una semana después. Brown llevaba un gato de juguete llamado «Twinkletoes» como mascota de la suerte, que hoy se exhibe en el RAF Museum.</p>
+  <p>El 15 de junio de 1919, a las 8:40 a.m., el Capitán John Alcock y el Teniente Arthur Whitten Brown aterrizaron de emergencia en una ciénaga cerca de Clifden (Condado de Galway, Irlanda), completando así el primer vuelo trasatlántico sin escalas de la historia. Habían despegado 16 horas antes desde St. John's, Newfoundland, a bordo de un biplano Vickers Vimy modificado. El vuelo, de 3.030 kilómetros, estuvo plagado de incidentes: fallo del generador eléctrico que dejó sin calefacción ni radio, rotura del tubo de escape que —junto con el ruido ensordecedor— hizo imposible cualquier comunicación hablada entre los pilotos, una tormenta de nieve que congeló los instrumentos y dos pérdidas de control en las que el avión cayó en picado hacia el mar. A pesar de todo, Alcock y Brown ganaron el premio de £10.000 del Daily Mail y fueron nombrados caballeros por el rey Jorge V una semana después. Brown llevaba un gato de juguete llamado «Twinkletoes» como mascota de la suerte, que hoy se exhibe en el RAF Museum.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

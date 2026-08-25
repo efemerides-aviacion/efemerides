@@ -96,7 +96,7 @@ El Caudron G.3 era un biplano de entrenamiento francés diseñado en 1913. Tení
 
 ## Legado
 
-El capitán Manuel Ríos Hernández es recordado como el primer piloto militar venezolano en volar solo sobre el cielo de su país. Su nombre está inscrito en la historia de la aviación nacional y ha sido homenajeado de múltiples formas:
+El Capitán Manuel Ríos Hernández es recordado como el primer piloto militar venezolano en volar solo sobre el cielo de su país. Su nombre está inscrito en la historia de la aviación nacional y ha sido homenajeado de múltiples formas:
 
 - La **Base Aérea Capitán Manuel Ríos** en El Sombrero, estado Guárico, lleva su nombre.
 - Una **plaza** en Altagracia de Orituco (su ciudad natal) está dedicada a su memoria.
@@ -137,6 +137,6 @@ Su legado trasciende el hecho técnico: Ríos simboliza la voluntad venezolana d
 
 - **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
 - **Fuentes primarias consultadas:** Libreta de Vuelo original del Capitán Manuel Simón Ríos Hernández, Coronel (AV) José Luis Ochoa Vargas, "Memoria y Cuenta del Ministerio de Guerra y Marina al 31 de diciembre de 1921"
-- **Discrepancias resueltas:** La fecha del primer vuelo en solitario ha sido corregida de 14 a 15 de abril de 1921, basándose en la evidencia documental de la libreta de vuelo del piloto, citada por el coronel José Luis Ochoa Vargas. Se ha añadido información sobre el cadete Juan Yepes, quien también voló solo el mismo día.
+- **Discrepancias resueltas:** La fecha del primer vuelo en solitario ha sido corregida de 14 a 15 de abril de 1921, basándose en la evidencia documental de la libreta de vuelo del piloto, citada por el Coronel José Luis Ochoa Vargas. Se ha añadido información sobre el cadete Juan Yepes, quien también voló solo el mismo día.
 - **Nivel de confianza:** Alto (con fuentes primarias documentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -73,7 +73,7 @@ El raid Roma-Tokyo se desarrolló a lo largo de más de tres meses, con numerosa
 - **14 de febrero:** Primera escala en **Gioia del Colle** (Puglia). Ambos aviones sufren problemas técnicos.
 - **Escalas:** Vlora (Albania), Salónica (Grecia), Esmirna (Turquía), Alepo (Siria), Bagdad (Irak).
 - **Durante la travesía por Asia Menor:** Los Caproni y otros SVA sufren averías y abandonan la empresa.
-- **Accidente fatal en Bushehr (Persia):** El teniente Giuseppe Grassa y el capitán Mario Gordesco fallecen al incendiarse su SVA 9 durante el despegue.
+- **Accidente fatal en Bushehr (Persia):** El Teniente Giuseppe Grassa y el Capitán Mario Gordesco fallecen al incendiarse su SVA 9 durante el despegue.
 
 ### India y Sudeste Asiático (marzo-abril 1920)
 

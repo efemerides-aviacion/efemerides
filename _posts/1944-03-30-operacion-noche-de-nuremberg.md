@@ -54,7 +54,7 @@ La incursión se planificó en medio de un clima de confianza en el Bomber Comma
 - **Noche del 30/31 de marzo:** El pronóstico meteorológico falla: el cielo se despeja y la luna llena ilumina a los bombarderos. Los cazas nocturnos alemanes, guiados por radar, los interceptan en masa a lo largo de la ruta.
 - **Sobre Núremberg:** Nubes densas cubren la ciudad; la mayoría de las bombas caen fuera del centro. Las pérdidas continúan durante el regreso.
 - **31 de marzo, primeras horas:** Los aviones supervivientes aterrizan en Inglaterra. Se contabilizan 95 aparatos perdidos (545 tripulantes muertos), la mayor baja en una sola operación de la RAF en toda la guerra.
-- **Posterior:** El mariscal Harris ordena una pausa en las incursiones profundas. Se adoptan nuevas tácticas, como rutas curvas y mayor uso de escoltas de Mosquito.
+- **Posterior:** El Mariscal Harris ordena una pausa en las incursiones profundas. Se adoptan nuevas tácticas, como rutas curvas y mayor uso de escoltas de Mosquito.
 
 ### Victorias acreditadas de la Luftwaffe
 

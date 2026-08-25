@@ -88,7 +88,7 @@ En 1918, la industria aeronáutica estadounidense aún estaba en desarrollo. La 
 - **18 de septiembre de 1919:** Roland Rohlfs establece un nuevo récord mundial de altitud de 9.577 m (31.421 pies) con el 18T-2 .
 - **1919 (verano):** El prototipo del 18B Hornet (versión biplano) se estrella durante las pruebas en McCook Field, Dayton, Ohio.
 - **Febrero de 1919:** Fecha oficial de introducción (aunque la guerra ya había terminado).
-- **1922:** Un 18T-2 casi gana la Curtiss Marine Trophy Race, pero el piloto (teniente Sanderson) se quedó sin combustible cerca de la línea de meta.
+- **1922:** Un 18T-2 casi gana la Curtiss Marine Trophy Race, pero el piloto (Teniente Sanderson) se quedó sin combustible cerca de la línea de meta.
 - **1920:** Un Curtiss 18T (posiblemente el 18T-2 o una variante similar) es enviado a Bolivia, donde operó durante varios años.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

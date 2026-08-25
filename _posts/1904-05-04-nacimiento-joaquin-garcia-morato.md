@@ -83,7 +83,7 @@ La década de 1930 fue la "Edad de Oro" de la aviación, con pilotos como Lindbe
 
 ## La Patrulla Azul
 
-En diciembre de 1936, García-Morato recibió tres cazas Fiat CR.32, lo que le permitió operar de forma autónoma y formar su propia unidad. Nació así la Patrulla Azul, integrada por García-Morato, el capitán Narciso Bermúdez de Castro y el capitán Julio Salvador Díaz-Benjumea.
+En diciembre de 1936, García-Morato recibió tres cazas Fiat CR.32, lo que le permitió operar de forma autónoma y formar su propia unidad. Nació así la Patrulla Azul, integrada por García-Morato, el Capitán Narciso Bermúdez de Castro y el Capitán Julio Salvador Díaz-Benjumea.
 
 ### El emblema y la divisa
 
@@ -96,7 +96,7 @@ La divisa elegida fue "Vista, suerte y al toro", una frase taurina que significa
 
 ### La evolución hasta el Grupo 2-G-3
 
-En abril de 1937, la Patrulla Azul se convirtió en la Escuadrilla de Caza 1-E-3 mandada por García-Morato. Poco después se creó una segunda escuadrilla, la 2-E-3, bajo el mando del capitán Ángel Salas Larrazábal, y la unidad pasó a denominarse Grupo de Caza 2-G-3, bajo el mando de García-Morato.
+En abril de 1937, la Patrulla Azul se convirtió en la Escuadrilla de Caza 1-E-3 mandada por García-Morato. Poco después se creó una segunda escuadrilla, la 2-E-3, bajo el mando del Capitán Ángel Salas Larrazábal, y la unidad pasó a denominarse Grupo de Caza 2-G-3, bajo el mando de García-Morato.
 
 Este grupo se convertiría en una de las unidades de caza más legendarias de la guerra. En el trofeo de guerra del grupo, un trozo de ala de un avión enemigo en el que se pintaban las siluetas de los aparatos derribados, figuran los nombres de los pilotos caídos del 2-G-3: trece nombres, entre ellos el del propio García-Morato, añadido tras su muerte. Este trofeo se conserva en el Museo del Aire de Madrid.
 
@@ -118,7 +118,7 @@ Al ver el tremendo peligro que afrontaban los españoles, el capitán italiano N
 
 ### La recompensa
 
-Por su valor en esta acción, García-Morato fue propuesto para la Cruz Laureada de San Fernando, la máxima condecoración militar española. Le fue concedida el 12 de mayo de 1937 y le fue impuesta por el general Kindelán en el aeródromo de campaña de Castejón del Puente el 18 de marzo de 1938. Fue el único piloto español que recibió esta distinción durante la guerra.
+Por su valor en esta acción, García-Morato fue propuesto para la Cruz Laureada de San Fernando, la máxima condecoración militar española. Le fue concedida el 12 de mayo de 1937 y le fue impuesta por el General Kindelán en el aeródromo de campaña de Castejón del Puente el 18 de marzo de 1938. Fue el único piloto español que recibió esta distinción durante la guerra.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

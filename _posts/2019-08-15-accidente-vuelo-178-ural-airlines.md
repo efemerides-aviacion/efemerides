@@ -29,10 +29,10 @@ image: 2019-08-15-accidente-vuelo-178-ural-airlines.webp
 - **Fecha del accidente:** 15 de agosto de 2019, hacia las 06:15 hora local
 - **Vuelo:** U6 178 / SVR 178, indicativo Sverdlovsk 178; aeropuerto internacional de Zhukovsky, Moscú, con destino Simferopol, Crimea
 - **Aeronave:** Airbus A321-211, fabricado en 2004, matrícula VQ-BOZ, dos motores CFM International CFM56-5B; 48.980 horas de célula y 20.132 vuelos al momento del accidente
-- **Tripulación de vuelo:** capitán Damir Yusupov, 41 años, 4.275 horas totales, 4.125 en la familia A320 y 824 como capitán; primer oficial Georgy Murzin, 23 años, 780 horas totales
+- **Tripulación de vuelo:** Capitán Damir Yusupov, 41 años, 4.275 horas totales, 4.125 en la familia A320 y 824 como capitán; Primer Oficial Georgy Murzin, 23 años, 780 horas totales
 - **Ocupantes:** 233 (226 pasajeros y 7 tripulantes)
 - **Víctimas mortales:** ninguna
-- **Heridos:** 28, tres de ellos graves, entre ellos el primer oficial Murzin con fractura de vértebra; 78 pasajeros recibieron atención médica según los partes iniciales
+- **Heridos:** 28, tres de ellos graves, entre ellos el Primer Oficial Murzin con fractura de vértebra; 78 pasajeros recibieron atención médica según los partes iniciales
 - **Causa según el Comité Interestatal de Aviación (MAK) (Interstate Aviation Committee):** impacto masivo de aves con fallo de empuje de ambos motores, agravado por procedimientos inadecuados de la tripulación, sobre un entorno aeroportuario con vertederos ilegales que atraían aves y un control de fauna insuficiente
 - **Reconocimientos:** Yusupov y Murzin, Héroes de la Federación Rusa; la tripulación de cabina, la Orden del Coraje
 

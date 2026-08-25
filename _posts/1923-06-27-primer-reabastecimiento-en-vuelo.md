@@ -12,14 +12,14 @@ image: 1923-06-27-primer-reabastecimiento-en-vuelo.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1923-06-27-primer-reabastecimiento-en-vuelo.webp" alt="Reabastecimiento en vuelo de 1923">
-  <figcaption class="post-caption">El primer reabastecimiento en vuelo exitoso de la historia, el 27 de junio de 1923, sobre Rockwell Field, San Diego, California. El avión DH-4B del capitán Lowell H. Smith (receptor) se aproxima a la manguera de 50 pies del DH-4B del teniente Virgil Hine (abastecedor). Fuente: U.S. Air Force / dominio público.</figcaption>
+  <figcaption class="post-caption">El primer reabastecimiento en vuelo exitoso de la historia, el 27 de junio de 1923, sobre Rockwell Field, San Diego, California. El avión DH-4B del Capitán Lowell H. Smith (receptor) se aproxima a la manguera de 50 pies del DH-4B del Teniente Virgil Hine (abastecedor). Fuente: U.S. Air Force / dominio público.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 27 de junio de 1923, sobre el campo de aviación de Rockwell Field en San Diego, California, el capitán Lowell H. Smith y el teniente Virgil Hine realizaron la primera transferencia exitosa de combustible y aceite entre dos aviones en pleno vuelo. A bordo de dos De Havilland DH-4B, conectaron una manguera de 50 pies (15,24 metros) con un acoplamiento de gravedad y lograron transferir 75 galones (284 litros) de gasolina y 5 galones (19 litros) de aceite. Este hito, que permitió a Smith mantenerse en el aire durante 37 horas en un vuelo posterior, sentó las bases para el reabastecimiento aéreo moderno, fundamental para la aviación comercial de larga distancia y para la proyección de fuerza aérea global.</p>
+  <p>El 27 de junio de 1923, sobre el campo de aviación de Rockwell Field en San Diego, California, el Capitán Lowell H. Smith y el Teniente Virgil Hine realizaron la primera transferencia exitosa de combustible y aceite entre dos aviones en pleno vuelo. A bordo de dos De Havilland DH-4B, conectaron una manguera de 50 pies (15,24 metros) con un acoplamiento de gravedad y lograron transferir 75 galones (284 litros) de gasolina y 5 galones (19 litros) de aceite. Este hito, que permitió a Smith mantenerse en el aire durante 37 horas en un vuelo posterior, sentó las bases para el reabastecimiento aéreo moderno, fundamental para la aviación comercial de larga distancia y para la proyección de fuerza aérea global.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

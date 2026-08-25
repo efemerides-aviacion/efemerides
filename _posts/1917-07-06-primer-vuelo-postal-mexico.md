@@ -11,7 +11,7 @@ image: 1917-07-06-primer-vuelo-postal-mexico.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1917-07-06-primer-vuelo-postal-mexico.webp" alt="El teniente Horacio Ruiz Gaviño, piloto del primer correo aéreo de México">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1917-07-06-primer-vuelo-postal-mexico.webp" alt="El Teniente Horacio Ruiz Gaviño, piloto del primer correo aéreo de México">
   <figcaption class="post-caption">Retrato histórico del teniente piloto aviador Horacio Ruiz Gaviño, protagonista del primer transporte aéreo de correspondencia en México, realizado el 6 de julio de 1917. Fuente: reproducción autorizada por el INAH, vía <a href="https://elmirador.sct.gob.mx/domicilio-conocido/25-aniversario-del-sistema-postal-aereo-nacional-1928-1953" style="color: #315fea; text-decoration: none;">El Mirador / Secretaría de Infraestructura, Comunicaciones y Transportes</a>.</figcaption>
 </figure>
 

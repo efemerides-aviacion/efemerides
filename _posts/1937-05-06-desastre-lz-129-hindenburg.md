@@ -93,7 +93,7 @@ El desastre del Hindenburg fue uno de los primeros eventos catastróficos captur
 
 ## El vuelo fatal (3-6 de mayo de 1937)
 
-El Hindenburg despegó de Fráncfort el 3 de mayo de 1937 con 36 pasajeros y 61 tripulantes a bordo, un número superior al habitual porque varios aprendices se preparaban para servir en el nuevo Graf Zeppelin II, entonces en construcción. El vuelo enfrentó fuertes vientos en contra, lo que retrasó su llegada prevista para las 6:00 a.m. del 6 de mayo. El capitán Max Pruss comunicó a la estación de Lakehurst que llegaría a las 6:00 p.m. Aunque el dirigible recuperó algo de tiempo y arribó hacia las 4:15 p.m., la cuadrilla de tierra (compuesta por 228 hombres) estaba preparada para las 6:00 p.m., y Pruss fue obligado a desviarse hacia el sureste mientras una tormenta se aproximaba.
+El Hindenburg despegó de Fráncfort el 3 de mayo de 1937 con 36 pasajeros y 61 tripulantes a bordo, un número superior al habitual porque varios aprendices se preparaban para servir en el nuevo Graf Zeppelin II, entonces en construcción. El vuelo enfrentó fuertes vientos en contra, lo que retrasó su llegada prevista para las 6:00 a.m. del 6 de mayo. El Capitán Max Pruss comunicó a la estación de Lakehurst que llegaría a las 6:00 p.m. Aunque el dirigible recuperó algo de tiempo y arribó hacia las 4:15 p.m., la cuadrilla de tierra (compuesta por 228 hombres) estaba preparada para las 6:00 p.m., y Pruss fue obligado a desviarse hacia el sureste mientras una tormenta se aproximaba.
 
 ### La maniobra de aterrizaje
 
@@ -101,7 +101,7 @@ Pruss esperó a que pasara un fuerte chubasco y luego trajo el Hindenburg para e
 
 ### Las primeras llamas
 
-A los pocos minutos, con el dirigible a solo 80 metros (260 pies) sobre el suelo, se avistó una pequeña llama en la parte superior trasera del casco del zeppelín. En segundos, el fuego se extendió mientras las celdas de gas de hidrógeno se encendieron en un efecto dominó. El comandante Charles E. Rosendahl, encargado de la cuadrilla de tierra, describió el momento:
+A los pocos minutos, con el dirigible a solo 80 metros (260 pies) sobre el suelo, se avistó una pequeña llama en la parte superior trasera del casco del zeppelín. En segundos, el fuego se extendió mientras las celdas de gas de hidrógeno se encendieron en un efecto dominó. El Comandante Charles E. Rosendahl, encargado de la cuadrilla de tierra, describió el momento:
 
 > "Fue un brillo intenso de llamas, semejante a una flor que se abre rápidamente. Supe inmediatamente que la nave estaba condenada, pues nada podría impedir que la llama se extendiera a todo el volumen de hidrógeno... Hubo un ruido apagado y las llamas se extendieron rápidamente por la parte trasera del dirígible."
 
@@ -121,7 +121,7 @@ Aunque a menudo se cree que fue una transmisión en vivo, en realidad fue grabad
 
 Treinta y cinco personas a bordo perdieron la vida en el desastre: 13 pasajeros y 22 tripulantes. Un miembro de la cuadrilla de tierra, el mecánico civil Allen Hagaman, también murió al ser alcanzado por restos en llamas, elevando el total a 36 víctimas. Sesenta y dos personas sobrevivieron.
 
-Entre los sobrevivientes hubo historias notables: una anciana descendió por la escalera de salida normal; Werner Franz, un camarero, fue salvado porque un tanque de lastre de agua estalló sobre él, mojándolo por completo; Eugen Bentele, un mecánico, fue expulsado por una de las puertas del motor y sobrevivió con solo quemaduras leves; tres niños fueron lanzados por su madre y atrapados por la cuadrilla de tierra. El capitán Max Pruss sufrió quemaduras graves pero sobrevivió. Ernst Lehmann, director de operaciones de Zeppelin, que se encontraba a bordo, sucumbió a sus heridas al día siguiente.
+Entre los sobrevivientes hubo historias notables: una anciana descendió por la escalera de salida normal; Werner Franz, un camarero, fue salvado porque un tanque de lastre de agua estalló sobre él, mojándolo por completo; Eugen Bentele, un mecánico, fue expulsado por una de las puertas del motor y sobrevivió con solo quemaduras leves; tres niños fueron lanzados por su madre y atrapados por la cuadrilla de tierra. El Capitán Max Pruss sufrió quemaduras graves pero sobrevivió. Ernst Lehmann, director de operaciones de Zeppelin, que se encontraba a bordo, sucumbió a sus heridas al día siguiente.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

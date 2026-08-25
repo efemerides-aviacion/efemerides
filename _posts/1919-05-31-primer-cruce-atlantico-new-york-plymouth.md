@@ -18,7 +18,7 @@ image: 1919-05-31-primer-cruce-atlantico-new-york-plymouth.webp
 
 ## Resumen Ejecutivo
 
-El 31 de mayo de 1919, el hidroavión Curtiss NC-4 de la Armada de los Estados Unidos aterrizó en Plymouth, Inglaterra, completando el primer cruce aéreo del océano Atlántico en la historia . La expedición había partido el 8 de mayo desde la Estación Aérea Naval de Rockaway, Nueva York, con tres hidroaviones (NC-1, NC-3 y NC-4) bajo el mando general del comandante John H. Towers . Solo el NC-4, comandado por el teniente comandante Albert Cushing Read, logró completar la travesía completa . La ruta incluyó escalas en Massachusetts, Nueva Escocia, Terranova, las Azores, Lisboa y Ferrol, antes de llegar a Plymouth . El viaje duró 23 días, con un tiempo total de vuelo acumulado de 57 horas y 16 minutos (según el United States Navy Memorial) o 53 horas y 58 minutos (según Guinness World Records) sobre una distancia de 7.591 kilómetros (4.717 millas) . El NC-4 fue apoyado por 53 buques de la Armada de los Estados Unidos desplegados como una "cadena de estaciones" a lo largo de la ruta para ayudar en la navegación y el rescate .
+El 31 de mayo de 1919, el hidroavión Curtiss NC-4 de la Armada de los Estados Unidos aterrizó en Plymouth, Inglaterra, completando el primer cruce aéreo del océano Atlántico en la historia . La expedición había partido el 8 de mayo desde la Estación Aérea Naval de Rockaway, Nueva York, con tres hidroaviones (NC-1, NC-3 y NC-4) bajo el mando general del Comandante John H. Towers . Solo el NC-4, comandado por el Teniente Comandante Albert Cushing Read, logró completar la travesía completa . La ruta incluyó escalas en Massachusetts, Nueva Escocia, Terranova, las Azores, Lisboa y Ferrol, antes de llegar a Plymouth . El viaje duró 23 días, con un tiempo total de vuelo acumulado de 57 horas y 16 minutos (según el United States Navy Memorial) o 53 horas y 58 minutos (según Guinness World Records) sobre una distancia de 7.591 kilómetros (4.717 millas) . El NC-4 fue apoyado por 53 buques de la Armada de los Estados Unidos desplegados como una "cadena de estaciones" a lo largo de la ruta para ayudar en la navegación y el rescate .
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -28,9 +28,9 @@ El 31 de mayo de 1919, el hidroavión Curtiss NC-4 de la Armada de los Estados U
 - **Fecha de partida:** 8 de mayo de 1919, desde Naval Air Station Rockaway, Nueva York 
 - **Aeronave:** Curtiss NC-4, número de serie A2294 
 - **Tripulación del NC-4:** 
-  - Teniente comandante Albert Cushing Read (comandante)
-  - Teniente comandante Walter Hinton
-  - Teniente comandante Elmer F. Stone (guardia costera)
+  - Teniente Comandante Albert Cushing Read (comandante)
+  - Teniente Comandante Walter Hinton
+  - Teniente Comandante Elmer F. Stone (guardia costera)
   - Teniente James L. Breese
   - Teniente (grado menor) Herbert C. Rodd
   - Ingeniero de vuelo Eugene S. Rhoads
@@ -83,9 +83,9 @@ La travesía del NC-4 fue una empresa masiva que involucró a 53 buques de la Ar
 
 El hidroavión NC-4 estaba tripulado por seis miembros, todos oficiales de la Armada de los Estados Unidos y de la Guardia Costera:
 
-- **Teniente comandante Albert Cushing Read** – Comandante del NC-4
-- **Teniente comandante Walter Hinton** – Piloto
-- **Teniente comandante Elmer F. Stone** – Piloto (Guardia Costera de EE. UU.)
+- **Teniente Comandante Albert Cushing Read** – Comandante del NC-4
+- **Teniente Comandante Walter Hinton** – Piloto
+- **Teniente Comandante Elmer F. Stone** – Piloto (Guardia Costera de EE. UU.)
 - **Teniente James L. Breese** – Piloto
 - **Teniente (grado menor) Herbert C. Rodd** – Piloto
 - **Ingeniero de vuelo Eugene S. Rhoads** – Jefe de mecánicos

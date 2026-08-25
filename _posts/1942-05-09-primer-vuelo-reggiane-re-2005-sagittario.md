@@ -133,7 +133,7 @@ Sin embargo, la Regia Aeronautica, reconociendo el potencial del Re.2005, realiz
 
 ## El Re.2005 en combate
 
-El bautismo de fuego del Re.2005 tuvo lugar el 2 de abril de 1943, cuando el prototipo MM.494, asignado a la 362ª Squadriglia (22º Gruppo) en Nápoles-Capodichino, fue lanzado en alerta para interceptar bombarderos aliados. El comandante del grupo, mayor Vittorio Minguzzi, describió el avión como superior al Macchi C.202 en todos los aspectos.
+El bautismo de fuego del Re.2005 tuvo lugar el 2 de abril de 1943, cuando el prototipo MM.494, asignado a la 362ª Squadriglia (22º Gruppo) en Nápoles-Capodichino, fue lanzado en alerta para interceptar bombarderos aliados. El comandante del grupo, Mayor Vittorio Minguzzi, describió el avión como superior al Macchi C.202 en todos los aspectos.
 
 La primera victoria confirmada llegó el 28 de abril de 1943, cuando cuatro Re.2005 interceptaron una formación de 30 bombarderos B-24 Liberator escoltados por cazas. Los pilotos italianos afirmaron haber derribado dos bombarderos, y se cree que otros dos fueron dañados.
 

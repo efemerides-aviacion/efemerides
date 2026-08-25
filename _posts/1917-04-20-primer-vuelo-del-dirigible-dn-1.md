@@ -64,7 +64,7 @@ La prensa de la época siguió con gran interés el desarrollo del DN-1, present
 - **Marzo de 1916:** La aeronave es ensamblada en el Arsenal de Hartford, Connecticut, para su equipamiento.
 - **1915-1916:** Se construye un hangar flotante especialmente diseñado en Pensacola para albergar al DN-1.
 - **Diciembre de 1916:** El DN-1 es enviado desarmado a Pensacola, donde se ensambla dentro del hangar flotante.
-- **Día previo al primer vuelo:** Al sacar el DN-1 del hangar para su primer vuelo planeado, la aeronave pierde sustentación y se hunde parcialmente en el agua. El suboficial Jimmy Shade, con el agua hasta el cuello, invitó a los espectadores a bordo para "el primer vuelo sumergido del DN-1".
+- **Día previo al primer vuelo:** Al sacar el DN-1 del hangar para su primer vuelo planeado, la aeronave pierde sustentación y se hunde parcialmente en el agua. El Suboficial Jimmy Shade, con el agua hasta el cuello, invitó a los espectadores a bordo para "el primer vuelo sumergido del DN-1".
 - **20 de abril de 1917:** Primer vuelo, aunque decepcionante. El DN-1 apenas logró despegar, mostró falta de sustentación y sobrecalentamiento de la transmisión.
 - **27 de abril de 1917:** Segundo vuelo del DN-1.
 - **29 de abril de 1917:** Tercer vuelo. Ese mismo día, mientras era remolcado sobre el agua, la aeronave sufrió daños irreparables.
@@ -88,11 +88,11 @@ Originalmente, el DN-1 estaba equipado con dos motores Sturtevant Model 5 de 140
 
 ### El primer vuelo: una decepción inmediata
 
-El 20 de abril de 1917, el capitán de corbeta Frank M. McCrary, acompañado por el teniente Stanley V. Parker y el suboficial Jimmy Shade, tomó los mandos del DN-1. La expectativa era grande. Sin embargo, el vuelo fue un fracaso: la aeronave carecía de sustentación suficiente, apenas lograba mantenerse en el aire. Los informes indicaron que el DN-1 "apenas podía levantarse del suelo", su envoltura perdía gas y la planta motriz funcionaba mal.
+El 20 de abril de 1917, el capitán de corbeta Frank M. McCrary, acompañado por el Teniente Stanley V. Parker y el Suboficial Jimmy Shade, tomó los mandos del DN-1. La expectativa era grande. Sin embargo, el vuelo fue un fracaso: la aeronave carecía de sustentación suficiente, apenas lograba mantenerse en el aire. Los informes indicaron que el DN-1 "apenas podía levantarse del suelo", su envoltura perdía gas y la planta motriz funcionaba mal.
 
 ### El incidente del "vuelo sumergido"
 
-En un intento previo de vuelo, antes del 20 de abril, la tripulación sacó el DN-1 del hangar flotante. Inexplicablemente, la aeronave perdió sustentación y comenzó a hundirse en el agua. El suboficial Jimmy Shade, que se encontraba en la góndola, quedó con el agua hasta el cuello. Con gran sentido del humor, invitó a los espectadores a bordo para "el primer vuelo sumergido del DN-1".
+En un intento previo de vuelo, antes del 20 de abril, la tripulación sacó el DN-1 del hangar flotante. Inexplicablemente, la aeronave perdió sustentación y comenzó a hundirse en el agua. El Suboficial Jimmy Shade, que se encontraba en la góndola, quedó con el agua hasta el cuello. Con gran sentido del humor, invitó a los espectadores a bordo para "el primer vuelo sumergido del DN-1".
 
 ### Los vuelos posteriores y el fin
 

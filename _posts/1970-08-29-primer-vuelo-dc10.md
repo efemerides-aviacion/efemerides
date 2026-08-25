@@ -33,7 +33,7 @@ image: 1970-08-29-primer-vuelo-dc10.webp
 - **Matrícula de fábrica:** N10DC (número de serie 46500).
 - **Lugar de salida:** aeropuerto de Long Beach, California.
 - **Lugar de llegada:** base aérea de Edwards, California, donde se completó el programa de ensayos.
-- **Tripulación del primer vuelo:** comandante Clifford L. Stout; copiloto Harris C. Van Valkenburg; ingeniero de vuelo John D. Chamberlain; ingeniero de ensayos Shojun Yukawa.
+- **Tripulación del primer vuelo:** Comandante Clifford L. Stout; copiloto Harris C. Van Valkenburg; ingeniero de vuelo John D. Chamberlain; ingeniero de ensayos Shojun Yukawa.
 - **Duración del primer vuelo:** 3 h 36 min.
 - **Prestaciones alcanzadas en el vuelo inaugural:** 300 nudos (556 km/h) y 30.000 pies (9.144 m) de altitud.
 - **Planta motriz del prototipo:** tres turbofan General Electric CF6-6D de 178 kN de empuje cada uno.

@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: US Army
-excerpt: "El capitán Albert Berry realizó el primer salto en paracaídas documentado desde un avión, sobre Jefferson Barracks, Missouri."
+excerpt: "El Capitán Albert Berry realizó el primer salto en paracaídas documentado desde un avión, sobre Jefferson Barracks, Missouri."
 image: 1912-03-01-primer-salto-en-paracaidas-desde-avion.jpg
 ---
 

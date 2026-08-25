@@ -29,7 +29,7 @@ image: 1919-07-13-primer-doble-cruce-atlantico-dirigible-r34.webp
 - **Fecha de culminación del doble cruce:** 13 de julio de 1919
 - **Aeronave:** dirigible rígido R34
 - **Operador:** Royal Air Force
-- **Comandante:** mayor George Herbert Scott
+- **Comandante:** Mayor George Herbert Scott
 - **Lugar del aterrizaje final:** Pulham Airship Station, Norfolk, Inglaterra
 - **Salida inicial del periplo:** East Fortune, Escocia, 2 de julio de 1919
 - **Llegada a Estados Unidos:** Mineola, Long Island, 6 de julio de 1919

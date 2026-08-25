@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: España
 operator: Juan de la Cierva (Aeronáutica Militar española)
-excerpt: "El 31 de enero de 1923, el teniente Alejandro Gómez Spencer pilotó el autogiro Cierva C.4 en el aeródromo de Cuatro Vientos y completó el primer vuelo en circuito cerrado de una aeronave de ala rotatoria, recorriendo 4 km en tres minutos y medio a más de 25 metros de altitud."
+excerpt: "El 31 de enero de 1923, el Teniente Alejandro Gómez Spencer pilotó el autogiro Cierva C.4 en el aeródromo de Cuatro Vientos y completó el primer vuelo en circuito cerrado de una aeronave de ala rotatoria, recorriendo 4 km en tres minutos y medio a más de 25 metros de altitud."
 image: 1923-01-31-primer-circuito-cerrado-autogiro-c-4.webp
 ---
 
@@ -20,7 +20,7 @@ image: 1923-01-31-primer-circuito-cerrado-autogiro-c-4.webp
 <!-- ## Resumen Ejecutivo -->
 
 <div class="highlight-box">
-<p>La tarde del 31 de enero de 1923, en el aeródromo de Cuatro Vientos (Madrid), el teniente de Ingenieros Alejandro Gómez Spencer pilotó el autogiro Cierva C.4 y completó tres vuelos, el último de los cuales describió un circuito cerrado de unos cuatro kilómetros en tres minutos treinta segundos, a más de veinticinco metros de altura. El comandante Emilio Herrera Linares, jefe del Laboratorio Aerodinámico de Aeronáutica Militar, levantó acta oficial del vuelo al día siguiente.</p>
+<p>La tarde del 31 de enero de 1923, en el aeródromo de Cuatro Vientos (Madrid), el teniente de Ingenieros Alejandro Gómez Spencer pilotó el autogiro Cierva C.4 y completó tres vuelos, el último de los cuales describió un circuito cerrado de unos cuatro kilómetros en tres minutos treinta segundos, a más de veinticinco metros de altura. El Comandante Emilio Herrera Linares, jefe del Laboratorio Aerodinámico de Aeronáutica Militar, levantó acta oficial del vuelo al día siguiente.</p>
 <p>El C.4 era el cuarto prototipo del ingeniero murciano Juan de la Cierva y Codorníu, y fue la primera aeronave de ala rotatoria de la historia que realizó un vuelo sostenido y controlado. Dos semanas antes, el 17 de enero, el mismo aparato había cubierto en Getafe un «salto» de 183 metros que había demostrado que el invento funcionaba; el circuito de Cuatro Vientos lo convirtió en un verdadero avión. El principio técnico que lo hizo posible —la articulación de las palas del rotor mediante bisagras de batimiento— sigue siendo hoy la base de todos los helicópteros.</p>
 </div>
 
@@ -30,12 +30,12 @@ image: 1923-01-31-primer-circuito-cerrado-autogiro-c-4.webp
 
 - **Fecha:** 31 de enero de 1923, por la tarde.
 - **Lugar:** Aeródromo de Cuatro Vientos, Madrid.
-- **Piloto:** teniente Alejandro Gómez Spencer.
+- **Piloto:** Teniente Alejandro Gómez Spencer.
 - **Aeronave:** autogiro Cierva C.4, cuarto prototipo de Juan de la Cierva.
 - **Configuración:** fuselaje de monoplano Sommer, hélice tractora bipala de madera, rotor cuatripala articulado.
 - **Planta motriz:** motor rotativo Le Rhône 9Ja de nueve cilindros, 110 CV.
 - **Rotor:** cuatro palas de madera articuladas en su raíz mediante bisagras de batimiento.
-- **Acta oficial:** certificado levantado el 1 de febrero de 1923 por el comandante Emilio Herrera Linares, jefe del Laboratorio Aerodinámico de Aeronáutica Militar.
+- **Acta oficial:** certificado levantado el 1 de febrero de 1923 por el Comandante Emilio Herrera Linares, jefe del Laboratorio Aerodinámico de Aeronáutica Militar.
 - **Recorrido del vuelo certificado:** unos 4 km en circuito cerrado.
 - **Duración:** 3 minutos 30 segundos.
 - **Altitud alcanzada:** superior a 25 m sobre el terreno.
@@ -45,11 +45,11 @@ image: 1923-01-31-primer-circuito-cerrado-autogiro-c-4.webp
 
 ## Contexto Histórico
 
-La aviación de los años veinte había conseguido cruzar océanos, pero el avión convencional seguía siendo intrínsecamente peligroso a baja velocidad: si la velocidad de traslación caía por debajo de un umbral, el ala perdía sustentación y la aeronave entraban en pérdida. En agosto de 1919, el accidente del bombardero trimotor diseñado por el propio Cierva —piloto por su amigo el capitán Julio Ríos Agüeso, que había entrado en pérdida en un viraje a baja cota cerca de Murcia— empujó al ingeniero a buscar una solución radical: un ala que mantuviera su propia velocidad independientemente de la del aparato.
+La aviación de los años veinte había conseguido cruzar océanos, pero el avión convencional seguía siendo intrínsecamente peligroso a baja velocidad: si la velocidad de traslación caía por debajo de un umbral, el ala perdía sustentación y la aeronave entraban en pérdida. En agosto de 1919, el accidente del bombardero trimotor diseñado por el propio Cierva —piloto por su amigo el Capitán Julio Ríos Agüeso, que había entrado en pérdida en un viraje a baja cota cerca de Murcia— empujó al ingeniero a buscar una solución radical: un ala que mantuviera su propia velocidad independientemente de la del aparato.
 
 ### Entorno social
 
-España atravesaba una etapa de agitación política y económica, pero el desastre de Annual y las campañas de Marruecos habían dado a la Aeronáutica Militar un papel protagonista. El general Francisco Echagüe Santoyo, director del servicio aéreo del Ejército, apoyó los experimentos de Cierva desde el primer momento. La prueba de Cuatro Vientos se celebró ante autoridades militares, representantes del Real Aero Club de España y periodistas, y su éxito convirtió al joven ingeniero murciano en una celebridad nacional.
+España atravesaba una etapa de agitación política y económica, pero el desastre de Annual y las campañas de Marruecos habían dado a la Aeronáutica Militar un papel protagonista. El General Francisco Echagüe Santoyo, director del servicio aéreo del Ejército, apoyó los experimentos de Cierva desde el primer momento. La prueba de Cuatro Vientos se celebró ante autoridades militares, representantes del Real Aero Club de España y periodistas, y su éxito convirtió al joven ingeniero murciano en una celebridad nacional.
 
 ### Entorno tecnológico
 
@@ -71,12 +71,12 @@ El autogiro apareció en la prensa de todo el mundo como un «paracaídas autom�
 - **1922:** Cierva concibe la articulación de batimiento durante una estancia en San Sebastián; la construye y la prueba en modelos a escala y en el túnel de viento de Cuatro Vientos.
 - **17 de enero de 1923:** en el aeródromo de Getafe, Gómez Spencer realiza con el C.4 el primer despegue controlado de un autogiro: un salto de 183 metros a baja altura que valida el principio.
 - **20 de enero de 1923:** durante un nuevo ensayo en Getafe, el motor se detiene en pleno vuelo. El rotor entra en autorrotación y el aparato aterriza sin daños, demostrando por primera vez en condiciones reales la seguridad intrínseca del sistema.
-- **22 de enero de 1923:** exhibición oficial en Getafe ante el general Echagüe Santoyo y Ricardo Ikuiz Ferry, presidente de la comisión del Real Aero Club.
+- **22 de enero de 1923:** exhibición oficial en Getafe ante el General Echagüe Santoyo y Ricardo Ikuiz Ferry, presidente de la comisión del Real Aero Club.
 - **31 de enero de 1923:** por la tarde, en Cuatro Vientos, el C.4 completa tres vuelos; en el último describe un circuito cerrado de unos 4 km en 3 min 30 s, por encima de los 25 m de altura.
-- **1 de febrero de 1923:** el comandante Emilio Herrera Linares expide el certificado oficial del vuelo.
+- **1 de febrero de 1923:** el Comandante Emilio Herrera Linares expide el certificado oficial del vuelo.
 - **15 de febrero de 1923:** Cierva comunica los resultados a la Real Academia de Ciencias Exactas, Físicas y Naturales.
 - **Primavera de 1923:** comienza la construcción del C.5, con rotor tripala y fuselaje de Avro 504K.
-- **24 de junio de 1923:** demostración del nuevo aparato ante Alfonso XIII en Cuatro Vientos; el capitán Joaquín Loriga Taboada realiza tomas y despegues cortos.
+- **24 de junio de 1923:** demostración del nuevo aparato ante Alfonso XIII en Cuatro Vientos; el Capitán Joaquín Loriga Taboada realiza tomas y despegues cortos.
 - **12 de diciembre de 1924:** Loriga vuela un C.6-A entre Cuatro Vientos y Getafe, primer vuelo a campo traviesa del autogiro (10,5 km).
 - **1925-1926:** Cierva lleva el C.6 a Farnborough; el éxito ante el Air Ministry británico le permite fundar en Londres la Cierva Autogiro Company.
 - **18 de septiembre de 1928:** el propio Cierva cruza el Canal de la Mancha en un C.8L, primera travesía del canal por una aeronave de ala rotatoria.
@@ -95,7 +95,7 @@ En el plano industrial, el éxito del C.4 llevó a Cierva a trasladar el centro 
 
 Aunque el autogiro fue desplazado por el helicóptero a partir de la Segunda Guerra Mundial —que conseguía el vuelo estacionario que aquel no podía ofrecer—, ninguno de esos helicópteros habría volado sin la articulación de palas que el C.4 demostró por primera vez en Cuatro Vientos. El propio Juan de la Cierva resumió así la deuda: «El helicóptero no es más que un autogiro al que se le ha aplicado un eje motor al rotor».
 
-El hito del 31 de enero de 1923 está reconocido por la Federación Aeronáutica Internacional como el primer vuelo sostenido de un giróavito. El C.4 original no se conserva, pero el Museo del Aire de Cuatro Vientos alberga un Cierva C.19 Mk.IV de 1932, y en 2023, para el centenario, el Club de Ultraligeros de Getafe, con el coronel Fernando Roselló al frente, construyó y voló una réplica del C.4 desde el aeródromo de Ocaña.
+El hito del 31 de enero de 1923 está reconocido por la Federación Aeronáutica Internacional como el primer vuelo sostenido de un giróavito. El C.4 original no se conserva, pero el Museo del Aire de Cuatro Vientos alberga un Cierva C.19 Mk.IV de 1932, y en 2023, para el centenario, el Club de Ultraligeros de Getafe, con el Coronel Fernando Roselló al frente, construyó y voló una réplica del C.4 desde el aeródromo de Ocaña.
 
 El invento de Cierva está además emparentado con otras dos efemérides del calendario: el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1931/04/08/amelia-earhart-autogiro-record-altitud.html" style="color: #315fea; text-decoration: none;">récord femenino de altitud de Amelia Earhart en un Pitcairn-Cierva PCA-2 en 1931</a> y el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1934/03/07/primer-apontaje-autogiro-portaviones-dedalo.html" style="color: #315fea; text-decoration: none;">primer apontaje de un autogiro sobre el Dédalo en 1934</a>, realizado por el propio Cierva.
 

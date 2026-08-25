@@ -36,7 +36,7 @@ image: 1931-04-22-apertura-oficial-aeropuerto-nacional-de-madrid.webp
 - **Ingeniero:** Carlos de los Álamos y de la Cueva (marqués de los Álamos)
 - **Primer jefe/director:** Jacobo Armijo y Fernández de Alarcón (teniente coronel)
 - **Fecha de inauguración pública (primer aterrizaje):** 30 de abril de 1931
-- **Primer avión en aterrizar (ceremonia):** Procedente de Getafe, pilotado por el comandante Ramón Franco Bahamonde (jefe superior de Aeronáutica)
+- **Primer avión en aterrizar (ceremonia):** Procedente de Getafe, pilotado por el Comandante Ramón Franco Bahamonde (jefe superior de Aeronáutica)
 - **Inicio de operaciones comerciales regulares:** 15 de mayo de 1933
 - **Primera línea comercial:** Madrid-Barcelona, operada por LAPE (Líneas Aéreas Postales Españolas)
 
@@ -64,11 +64,11 @@ La inauguración del aeropuerto fue un acontecimiento social y mediático. El 30
 - **30 de julio de 1930:** Se firma la compra de los terrenos (unas 500 fanegas) en Barajas por un valor de 730.000 pesetas.
 - **1930-1931:** Se construyen las primeras instalaciones: edificio terminal (diseñado por Luis Gutiérrez Soto), hangares, garaje, taller y el Avión Club.
 - **22 de abril de 1931:** El Gobierno Provisional de la II República, a propuesta de la Junta Central de Aeropuertos, publica una orden en la Gaceta de Madrid abriendo oficialmente el "Aeropuerto Nacional de Madrid" al tráfico aéreo público.
-- **30 de abril de 1931:** Se realiza la inauguración pública. Un avión procedente de Getafe, pilotado por el comandante Ramón Franco Bahamonde (jefe superior de Aeronáutica), aterriza en Barajas ante la mirada de cientos de madrileños y autoridades.
+- **30 de abril de 1931:** Se realiza la inauguración pública. Un avión procedente de Getafe, pilotado por el Comandante Ramón Franco Bahamonde (jefe superior de Aeronáutica), aterriza en Barajas ante la mirada de cientos de madrileños y autoridades.
 - **Mayo de 1931:** Es destinado el primer personal al aeropuerto, siendo nombrado jefe provisional Jacobo Armijo y Fernández de Alarcón.
 - **24 de abril de 1933:** Se publica la orden ministerial que autoriza el inicio de las operaciones comerciales regulares.
 - **15 de mayo de 1933:** Un trimotor Fokker VII/3M de LAPE (Líneas Aéreas Postales Españolas) aterriza en Barajas, marcando el inicio del tráfico aéreo comercial regular. La primera línea fue Madrid-Barcelona.
-- **1933:** Bajo la dirección del teniente coronel Jacobo de Armijo, se operaron 378 vuelos que transportaron a 2.873 pasajeros.
+- **1933:** Bajo la dirección del Teniente Coronel Jacobo de Armijo, se operaron 378 vuelos que transportaron a 2.873 pasajeros.
 - **1965:** El aeropuerto cambia su nombre a Aeropuerto de Madrid-Barajas.
 - **2014:** Tras el fallecimiento del expresidente Adolfo Suárez, el aeropuerto pasa a denominarse Aeropuerto Adolfo Suárez Madrid-Barajas.
 
@@ -96,7 +96,7 @@ Ocho días después de la apertura oficial al tráfico, el 30 de abril de 1931, 
 
 ### El primer aterrizaje oficial
 
-El primer avión en aterrizar en Barajas fue un aparato procedente de Getafe, pilotado por el comandante Ramón Franco Bahamonde (hermano del futuro dictador Francisco Franco y, en ese momento, jefe superior de Aeronáutica). El vuelo, que cubrió menos de 30 kilómetros, fue un acto simbólico que inauguró oficialmente las instalaciones.
+El primer avión en aterrizar en Barajas fue un aparato procedente de Getafe, pilotado por el Comandante Ramón Franco Bahamonde (hermano del futuro dictador Francisco Franco y, en ese momento, jefe superior de Aeronáutica). El vuelo, que cubrió menos de 30 kilómetros, fue un acto simbólico que inauguró oficialmente las instalaciones.
 
 ### La fiesta en Barajas
 
@@ -120,7 +120,7 @@ El 15 de mayo de 1933, un trimotor Fokker VII/3M de la compañía LAPE (Líneas 
 
 ### Los primeros destinos y cifras
 
-Las primeras líneas regulares operadas por LAPE fueron Madrid-Barcelona y Madrid-Sevilla. Los billetes tenían un costo de 150 pesetas para Barcelona y 125 pesetas para Sevilla. En ese año 1933, bajo la dirección del teniente coronel Jacobo Armijo y Fernández de Alarcón (primer director del aeropuerto), se operaron 378 vuelos que transportaron a 2.873 pasajeros.
+Las primeras líneas regulares operadas por LAPE fueron Madrid-Barcelona y Madrid-Sevilla. Los billetes tenían un costo de 150 pesetas para Barcelona y 125 pesetas para Sevilla. En ese año 1933, bajo la dirección del Teniente Coronel Jacobo Armijo y Fernández de Alarcón (primer director del aeropuerto), se operaron 378 vuelos que transportaron a 2.873 pasajeros.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

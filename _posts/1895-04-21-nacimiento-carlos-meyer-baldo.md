@@ -98,7 +98,7 @@ Meyer fue el único latinoamericano en formar parte de esta unidad de élite. Al
 
 ### Las victorias aéreas
 
-El 31 de julio de 1917, durante la Tercera Batalla de Ypres en Bélgica, Meyer logró su primer derribo confirmado: un biplano de observación RE.8 de la Real Fuerza Aérea británica, pilotado por el teniente A. J. Longton. Por esta hazaña recibió la Copa de Honor al Vencedor de Combates Aéreos.
+El 31 de julio de 1917, durante la Tercera Batalla de Ypres en Bélgica, Meyer logró su primer derribo confirmado: un biplano de observación RE.8 de la Real Fuerza Aérea británica, pilotado por el Teniente A. J. Longton. Por esta hazaña recibió la Copa de Honor al Vencedor de Combates Aéreos.
 
 Sus victorias confirmadas incluyen cuatro derribos documentados:
 

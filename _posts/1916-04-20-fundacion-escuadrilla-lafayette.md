@@ -87,7 +87,7 @@ La unidad fue desplegada inicialmente en **Luxeuil-les-Bains**, una localidad al
 
 ### El primer comandante: Capitán Georges Thenault
 
-El comandante de la unidad fue el **capitán Georges Thenault**, un oficial francés que demostró una paciencia y comprensión notables al liderar a estos voluntarios independientes y, a menudo, imprudentes. Su habilidad para canalizar su agresividad y su cuidado personal por sus hombres fueron fundamentales para el éxito y la leyenda de la escuadrilla.
+El comandante de la unidad fue el **Capitán Georges Thenault**, un oficial francés que demostró una paciencia y comprensión notables al liderar a estos voluntarios independientes y, a menudo, imprudentes. Su habilidad para canalizar su agresividad y su cuidado personal por sus hombres fueron fundamentales para el éxito y la leyenda de la escuadrilla.
 
 ### El cambio de nombre y la polémica
 
@@ -114,7 +114,7 @@ El nombre original, "Escuadrilla Americana", fue un poderoso gesto simbólico qu
 
 - **Semilla del poder aéreo estadounidense:** Cuando Estados Unidos entró oficialmente en la guerra en 1917, los veteranos de la Escuadrilla Lafayette y del LFC proporcionaron al recién formado Servicio Aéreo del Ejército de EE. UU. una base de pilotos con experiencia de combate invaluable. El 103rd Aero Squadron, heredero directo de la Escuadrilla Lafayette, continuó su legado en el frente.
 
-- **Legado diplomático:** La unidad se convirtió en un símbolo perdurable de la amistad franco-estadounidense. En 1928, se inauguró el Monumento a la Escuadrilla Lafayette en Marnes-la-Coquette, cerca de París, donde descansan los restos de 49 pilotos del LFC, incluido el comandante Thenault, quien pidió ser enterrado con sus hombres.
+- **Legado diplomático:** La unidad se convirtió en un símbolo perdurable de la amistad franco-estadounidense. En 1928, se inauguró el Monumento a la Escuadrilla Lafayette en Marnes-la-Coquette, cerca de París, donde descansan los restos de 49 pilotos del LFC, incluido el Comandante Thenault, quien pidió ser enterrado con sus hombres.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

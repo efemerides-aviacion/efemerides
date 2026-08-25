@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Chile
 operator: Servicio de Aviación Militar de Chile (preexistente de la FACh)
-excerpt: "El 5 de abril de 1919, el teniente Armando Cortínez Mujica despegó desde Santiago en un Bristol M.1C sin autorización, cruzó los Andes hasta Mendoza y, tras reparar su avión, regresó el 16 de abril, completando la primera doble travesía aérea de la cordillera."
+excerpt: "El 5 de abril de 1919, el Teniente Armando Cortínez Mujica despegó desde Santiago en un Bristol M.1C sin autorización, cruzó los Andes hasta Mendoza y, tras reparar su avión, regresó el 16 de abril, completando la primera doble travesía aérea de la cordillera."
 image: 1919-04-05-primera-doble-travesia-cordillera-andes.webp
 ---
 
@@ -19,7 +19,7 @@ image: 1919-04-05-primera-doble-travesia-cordillera-andes.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 5 de abril de 1919, el teniente Armando Cortínez Mujica despegó desde el Aeródromo El Bosque (Santiago) en un Bristol M.1C sin autorización superior, cruzando la Cordillera de los Andes por el sector del Cerro Tupungato (Paso de la Cumbre), en conmemoración de la Batalla de Maipú. Aterrizó en el Departamento de Tupungato (Mendoza, Argentina) con daños menores en el tren de aterrizaje. Reparó el avión con fondos del gobierno chileno y regresó el 16 de abril, completando así la primera doble travesía aérea de los Andes. A pesar de la indisciplina inicial, el clamor popular y el éxito de la gesta le valieron el perdón y el ascenso a Capitán.</p>
+<p>El 5 de abril de 1919, el Teniente Armando Cortínez Mujica despegó desde el Aeródromo El Bosque (Santiago) en un Bristol M.1C sin autorización superior, cruzando la Cordillera de los Andes por el sector del Cerro Tupungato (Paso de la Cumbre), en conmemoración de la Batalla de Maipú. Aterrizó en el Departamento de Tupungato (Mendoza, Argentina) con daños menores en el tren de aterrizaje. Reparó el avión con fondos del gobierno chileno y regresó el 16 de abril, completando así la primera doble travesía aérea de los Andes. A pesar de la indisciplina inicial, el clamor popular y el éxito de la gesta le valieron el perdón y el ascenso a Capitán.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -40,7 +40,7 @@ image: 1919-04-05-primera-doble-travesia-cordillera-andes.webp
 
 ## Contexto Histórico
 
-La aviación militar chilena daba sus primeros pasos a fines de la década de 1910. En diciembre de 1918, el teniente Dagoberto Godoy había realizado el primer cruce simple de los Andes (Santiago – Mendoza) en un Bristol M.1C, demostrando la viabilidad de superar la cordillera por aire. Sin embargo, la hazaña de Cortínez fue más ambiciosa: volver a cruzar en sentido contrario, completando una travesía de ida y vuelta.
+La aviación militar chilena daba sus primeros pasos a fines de la década de 1910. En diciembre de 1918, el Teniente Dagoberto Godoy había realizado el primer cruce simple de los Andes (Santiago – Mendoza) en un Bristol M.1C, demostrando la viabilidad de superar la cordillera por aire. Sin embargo, la hazaña de Cortínez fue más ambiciosa: volver a cruzar en sentido contrario, completando una travesía de ida y vuelta.
 
 ### Entorno social
 Chile celebraba con fervor patriótico el centenario de la Batalla de Maipú (1818), que selló la independencia del país. Las proezas aéreas se consideraban actos de heroísmo nacional y eran seguidas con pasión por la población. El vuelo de Cortínez, aunque desobediente, fue percibido como un gesto patriótico.
@@ -53,7 +53,7 @@ Los pilotos militares de la época gozaban de un estatus romántico de “caball
 
 ## Desarrollo Cronológico
 
-- **Diciembre de 1918:** El teniente Dagoberto Godoy realiza el primer cruce simple de los Andes (Santiago – Mendoza) en un Bristol M.1C similar, abriendo la ruta.
+- **Diciembre de 1918:** El Teniente Dagoberto Godoy realiza el primer cruce simple de los Andes (Santiago – Mendoza) en un Bristol M.1C similar, abriendo la ruta.
 - **5 de abril de 1919, primeras horas:** Cortínez despega desde El Bosque sin comunicar su plan a sus superiores. Vuela hacia el este, enfrentando vientos y bajas temperaturas.
 - **Mediodía del 5 de abril:** Logra cruzar la cordillera por el sector del Cerro Tupungato (Paso de la Cumbre) y aterriza en el Departamento de Tupungato, cerca de Mendoza, con daños en el tren de aterrizaje.
 - **6 al 15 de abril:** Cortínez repara su avión con ayuda de mecánicos y fondos autorizados por el gobierno chileno tras conocerse la noticia.

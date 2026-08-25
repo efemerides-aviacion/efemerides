@@ -89,7 +89,7 @@ La siguiente cronología sigue la vida y los hitos de Emma Lilian Todd, desde su
 
 ### El Junior Aero Club y el patrocinio de Olivia Sage (1907-1909)
 
-- **1907-1908:** Convencida de que la juventud es el futuro de la aviación, funda el Junior Aero Club de Estados Unidos, el primer club aeronáutico para jóvenes del país. El club se reunía en su apartamento de Nueva York, donde las paredes estaban cubiertas de modelos de aviones y juguetes mecánicos. Entre los miembros del comité asesor se encontraban el capitán Thomas S. Baldwin (pionero de los dirigibles) y A. Leo Stevens (famoso aeronauta) 
+- **1907-1908:** Convencida de que la juventud es el futuro de la aviación, funda el Junior Aero Club de Estados Unidos, el primer club aeronáutico para jóvenes del país. El club se reunía en su apartamento de Nueva York, donde las paredes estaban cubiertas de modelos de aviones y juguetes mecánicos. Entre los miembros del comité asesor se encontraban el Capitán Thomas S. Baldwin (pionero de los dirigibles) y A. Leo Stevens (famoso aeronauta) 
 - **22 de febrero de 1908:** El club organiza su primer evento: un concurso de cometas con más de cien asistentes 
 - **1909:** Olivia Sage, impresionada por su trabajo, se convierte en su mecenas y le dona 7.000 dólares para construir un avión de tamaño completo 
 - **Otoño de 1908:** Comienza la construcción de su biplano por los Wittemann Brothers de Staten Island 

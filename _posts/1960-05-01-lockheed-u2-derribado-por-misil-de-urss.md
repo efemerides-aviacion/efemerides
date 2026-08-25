@@ -31,7 +31,7 @@ image: 1960-05-01-lockheed-u2-derribado-por-misil-de-urss.webp
 - **Aeronave:** Lockheed U-2C, número de serie 56-6693 "Article 360"
 - **Piloto:** Francis Gary Powers (30 años, ex capitán de la Fuerza Aérea de EE. UU.)
 - **Misión:** "Operation Grand Slam": sobrevolar la URSS desde Peshawar (Pakistán) hasta Bodø (Noruega)
-- **Altitud de vuelo:** 21.300 m (70.000 pies) - **Unidad atacante:** Batería de misiles del mayor Mijaíl Voronov
+- **Altitud de vuelo:** 21.300 m (70.000 pies) - **Unidad atacante:** Batería de misiles del Mayor Mijaíl Voronov
 - **Misil utilizado:** S-75 Dvina (SA-2 Guideline)
 - **Consecuencias del derribo:** Un MiG-19 soviético fue alcanzado por fuego amigo de la misma salva 
 - **Piloto soviético fallecido:** Capitán Sergei Safronov 
@@ -61,7 +61,7 @@ La propaganda jugó un papel crucial en este incidente. Jrushchov manejó la inf
 
 - **9 de abril de 1960:** Misión previa exitosa del piloto Bob Ericson (U-2C), sobrevolando Semipalatinsk, Tyuratam (Baikonur) y Saryshagan; detectado pero evadió a los MiG-19 y Su-9
 - **1 de mayo de 1960, 06:30:** Powers despega de la base de Badaber (Peshawar, Pakistán) con destino a Bodø (Noruega) 
-- **1 de mayo de 1960, 08:53:** Los soviéticos lanzan una salva de misiles S-75 contra el U-2. Un misil impacta en el avión de Powers; Powers se eyecta y es capturado. Un segundo misil de la misma salva impacta en un MiG-19 soviético que perseguía al U-2, derribándolo y matando a su piloto, el capitán Sergei Safronov 
+- **1 de mayo de 1960, 08:53:** Los soviéticos lanzan una salva de misiles S-75 contra el U-2. Un misil impacta en el avión de Powers; Powers se eyecta y es capturado. Un segundo misil de la misma salva impacta en un MiG-19 soviético que perseguía al U-2, derribándolo y matando a su piloto, el Capitán Sergei Safronov 
 - **2-4 de mayo de 1960:** Estados Unidos presume a Powers muerto y su avión destruido; elaboran una coartada sobre un avión meteorológico extraviado
 - **5 de mayo de 1960:** Jrushchov denuncia el derribo de un avión espía estadounidense sin revelar que Powers está vivo
 - **7 de mayo de 1960:** Jrushchov anuncia que Powers está vivo, que ha confesado y que los restos del avión están intactos 
@@ -83,7 +83,7 @@ La ruta discurría sobre el mar de Aral, la región de Semipalatinsk (centro de 
 
 ### Las defensas soviéticas
 
-Los soviéticos habían detectado vuelos de U-2 anteriores y estaban decididos a detener este a cualquier costo. Unidades de defensa aérea en Asia Central, Kazajistán, Siberia y los Urales fueron puestas en alerta roja. Se desplegaron cazas MiG-19, y los nuevos misiles tierra-aire S-75 Dvina se posicionaron estratégicamente. El teniente general Yevgueny Savitsky ordenó a los comandantes de las unidades aéreas que atacaran la aeronave intrusa "por todos los medios" y la embistieran si fuera necesario.
+Los soviéticos habían detectado vuelos de U-2 anteriores y estaban decididos a detener este a cualquier costo. Unidades de defensa aérea en Asia Central, Kazajistán, Siberia y los Urales fueron puestas en alerta roja. Se desplegaron cazas MiG-19, y los nuevos misiles tierra-aire S-75 Dvina se posicionaron estratégicamente. El Teniente General Yevgueny Savitsky ordenó a los comandantes de las unidades aéreas que atacaran la aeronave intrusa "por todos los medios" y la embistieran si fuera necesario.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -93,7 +93,7 @@ A cuatro horas de vuelo desde su despegue en Pakistán, Powers se aproximaba a l
 
 ### La explosión
 
-La batería de misiles del mayor Mijaíl Voronov disparó una salva de misiles S-75 Dvina. Powers recordó más tarde: "Miré hacia arriba, miré hacia afuera, y todo era naranja, en todas partes". Un misil impactó en el U-2, arrancando parte del estabilizador horizontal y causando que el avión perdiera el control.
+La batería de misiles del Mayor Mijaíl Voronov disparó una salva de misiles S-75 Dvina. Powers recordó más tarde: "Miré hacia arriba, miré hacia afuera, y todo era naranja, en todas partes". Un misil impactó en el U-2, arrancando parte del estabilizador horizontal y causando que el avión perdiera el control.
 
 ### La eyección
 
@@ -101,7 +101,7 @@ Powers intentó eyectarse, pero se dio cuenta de que si usaba el asiento eyectab
 
 ### El fuego amigo
 
-El centro de comando de misiles tardó más de 30 minutos en confirmar que el U-2 había sido derribado. En ese lapso, y debido a la confusión por la explosión, un segundo misil de la misma salva impactó contra un MiG-19 soviético que perseguía al U-2. El piloto del MiG-19, el capitán Sergei Safronov, falleció en el acto. Durante décadas, la Unión Soviética ocultó este trágico incidente, que no salió a la luz hasta el período de la glasnost en 1990.
+El centro de comando de misiles tardó más de 30 minutos en confirmar que el U-2 había sido derribado. En ese lapso, y debido a la confusión por la explosión, un segundo misil de la misma salva impactó contra un MiG-19 soviético que perseguía al U-2. El piloto del MiG-19, el Capitán Sergei Safronov, falleció en el acto. Durante décadas, la Unión Soviética ocultó este trágico incidente, que no salió a la luz hasta el período de la glasnost en 1990.
 
 ### La autodestrucción fallida
 
@@ -169,12 +169,12 @@ En un sentido más amplio, el fracaso de la Cumbre de París dejó una cicatriz 
 
 Francis Gary Powers regresó a Estados Unidos en 1962. Fue recibido con frialdad por algunos sectores (que lo acusaban de no haberse suicidado) y con admiración por otros. Trabajó como piloto de pruebas para Lockheed hasta 1970, y luego como reportero de tráfico para una cadena de televisión de Los Ángeles. Murió el 1 de agosto de 1977 en un accidente de helicóptero mientras cubría un incendio forestal en California.
 
-Los restos del U-2 que Powers pilotaba se exhiben hoy en el Museo Central de la Fuerza Aérea Rusa en Monino (cerca de Moscú). El capitán Sergei Safronov fue condecorado póstumamente con la Orden de la Bandera Roja. Su muerte no fue revelada al público hasta mayo de 1990, durante la era de la glasnost.
+Los restos del U-2 que Powers pilotaba se exhiben hoy en el Museo Central de la Fuerza Aérea Rusa en Monino (cerca de Moscú). El Capitán Sergei Safronov fue condecorado póstumamente con la Orden de la Bandera Roja. Su muerte no fue revelada al público hasta mayo de 1990, durante la era de la glasnost.
 
 ---
 
 <div class="note-box">
-<p><strong>Nota aclaratoria sobre el derribo del MiG-19:</strong> El misil que derribó al MiG-19 del capitán Safronov provino de la misma salva de misiles S-75 lanzada contra el U-2 de Powers. Los transpondedores IFF de los MiG no habían sido cambiados a los nuevos códigos de mayo debido al feriado del 1 de mayo, por lo que el sistema de defensa aérea los identificó como objetivos hostiles.</p>
+<p><strong>Nota aclaratoria sobre el derribo del MiG-19:</strong> El misil que derribó al MiG-19 del Capitán Safronov provino de la misma salva de misiles S-75 lanzada contra el U-2 de Powers. Los transpondedores IFF de los MiG no habían sido cambiados a los nuevos códigos de mayo debido al feriado del 1 de mayo, por lo que el sistema de defensa aérea los identificó como objetivos hostiles.</p>
 <p><strong>Sobre la autodestrucción:</strong> La carga explosiva que Powers llevaba no estaba diseñada para destruir todo el avión, sino únicamente para inutilizar la cámara fotográfica. Incluso si Powers la hubiera activado, el equipo de vigilancia habría quedado parcialmente intacto.</p>
 </div>
 

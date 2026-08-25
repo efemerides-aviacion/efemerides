@@ -31,7 +31,7 @@ image: 1916-07-15-fundacion-pacific-aero-products-boeing.webp
 - **Fundador principal:** William E. Boeing
 - **Ciudad de incorporación:** Seattle, Washington, Estados Unidos
 - **Contexto inmediato:** la empresa se constituyó un mes después del primer vuelo del hidroavión B&W
-- **Socio técnico clave en el origen del proyecto:** teniente George Conrad Westervelt, ingeniero de la Marina de Estados Unidos
+- **Socio técnico clave en el origen del proyecto:** Teniente George Conrad Westervelt, ingeniero de la Marina de Estados Unidos
 - **Objeto inicial:** fabricación de aviones
 - **Cambio de nombre posterior:** Boeing Airplane Co., en la primavera de 1917
 - **Primer gran éxito comercial-militar inicial:** contrato naval para entrenadores Model C tras la entrada de Estados Unidos en la Primera Guerra Mundial

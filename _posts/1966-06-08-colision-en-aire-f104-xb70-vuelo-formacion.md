@@ -6,7 +6,7 @@ categories: [accidente]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Fuerza Aérea de los Estados Unidos / NASA
-excerpt: "El 8 de junio de 1966, durante una sesión de fotos no autorizada, el XB-70 Valkyrie colisionó con un F-104 Starfighter a 30.000 pies sobre California. El legendario piloto Joe Walker y el mayor Carl Cross fallecieron; el piloto Al White sobrevivió con heridas graves. Fue el único accidente fatal del programa XB-70."
+excerpt: "El 8 de junio de 1966, durante una sesión de fotos no autorizada, el XB-70 Valkyrie colisionó con un F-104 Starfighter a 30.000 pies sobre California. El legendario piloto Joe Walker y el Mayor Carl Cross fallecieron; el piloto Al White sobrevivió con heridas graves. Fue el único accidente fatal del programa XB-70."
 image: 1966-06-08-colision-en-aire-f104-xb70-vuelo-formacion.webp
 ---
 
@@ -116,7 +116,7 @@ La investigación de la USAF concluyó que Walker, desde su posición, probablem
 
 - **Pérdidas humanas:** Fallecieron dos personas: Joe Walker (NASA) y Carl Cross (USAF). Al White sobrevivió con heridas graves.
 - **Pérdida del XB-70 AV-2:** El segundo prototipo del Valkyrie fue destruido después de solo 46 vuelos. El único XB-70 sobreviviente (AV-1, 62-0001) se exhibe hoy en el Museo Nacional de la Fuerza Aérea de EE. UU. en Dayton, Ohio.
-- **Consecuencias administrativas:** El photo shoot no fue autorizado por la Fuerza Aérea. El coronel Albert W. Cate fue destituido; otros oficiales fueron amonestados.
+- **Consecuencias administrativas:** El photo shoot no fue autorizado por la Fuerza Aérea. El Coronel Albert W. Cate fue destituido; otros oficiales fueron amonestados.
 - **Conocimiento sobre vórtices de estela:** El accidente puso de manifiesto el peligro de los vórtices de estela, lo que llevó a cambios en los procedimientos de separación entre aeronaves en vuelo y en aproximación a aeropuertos.
 - **Legado del programa XB-70:** Los datos de las pruebas del XB-70 fueron utilizados en el programa del bombardero B-1, en el programa estadounidense de transporte supersónico (SST) y, a través de espionaje, en el programa soviético Tu-144.
 

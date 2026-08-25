@@ -68,7 +68,7 @@ La investigación estuvo a cargo del KNKT de Indonesia, con participación de ex
 
 - **05:49 WIB:** La aeronave alcanza su altitud de crucero en FL320 (32,000 pies / 9,800 m), 14 minutos después del despegue.
 
-- **06:01 WIB:** Se activa la primera alerta maestra (master caution) indicando una falla en el sistema de limitación del timón (Rudder Travel Limiter). El capitán Iriyanto sigue el procedimiento ECAM y resetea los ordenadores de control de vuelo (FAC), solucionando temporalmente el problema.
+- **06:01 WIB:** Se activa la primera alerta maestra (master caution) indicando una falla en el sistema de limitación del timón (Rudder Travel Limiter). El Capitán Iriyanto sigue el procedimiento ECAM y resetea los ordenadores de control de vuelo (FAC), solucionando temporalmente el problema.
 
 - **06:09 WIB:** Segunda alerta. El capitán repite el mismo procedimiento con éxito.
 
@@ -80,11 +80,11 @@ La investigación estuvo a cargo del KNKT de Indonesia, con participación de ex
 
 - **Consecuencia inmediata del reset de los CB:** El piloto automático y el auto-thrust se desactivan. La ley de control de vuelo cambia de Normal Law a Alternate Law, perdiendo protecciones como la protección contra pérdida aerodinámica. El timón se desplaza 2 grados a la izquierda, haciendo que la aeronave gire bruscamente alcanzando un ángulo de alabeo de 54 grados.
 
-- **El primer oficial Rémi Plesel**, que estaba a los mandos (pilot flying), intenta corregir el alabeo con entradas bruscas en su side-stick. Posteriormente realiza una entrada de morro arriba (nose-up), haciendo que la aeronave ascienda de forma violenta.
+- **El Primer Oficial Rémi Plesel**, que estaba a los mandos (pilot flying), intenta corregir el alabeo con entradas bruscas en su side-stick. Posteriormente realiza una entrada de morro arriba (nose-up), haciendo que la aeronave ascienda de forma violenta.
 
 - **En 54 segundos,** la aeronave asciende de 32,000 pies a 38,500 pies (11,700 m), con una velocidad de ascenso superior a 10,000 pies por minuto (50 m/s).
 
-- **El capitán Iriyanto** da una instrucción confusa al primer oficial: "pull down" (tira hacia abajo). Sin embargo, en los controles de un avión, "tirar" del side-stick hacia atrás eleva el morro, mientras que "empujar" lo baja. Esta ambigüedad contribuyó a la desorientación.
+- **El Capitán Iriyanto** da una instrucción confusa al primer oficial: "pull down" (tira hacia abajo). Sin embargo, en los controles de un avión, "tirar" del side-stick hacia atrás eleva el morro, mientras que "empujar" lo baja. Esta ambigüedad contribuyó a la desorientación.
 
 - **06:17:40 WIB:** La aeronave entra en pérdida aerodinámica (stall). La advertencia de pérdida (stall warning) se activa y permanece activa hasta el final de la grabación.
 
@@ -165,7 +165,7 @@ El accidente del vuelo QZ8501 es uno de los más graves en la historia de la avi
   <p><strong>Notas aclaratorias:</strong></p>
   <ul>
     <li>El informe final del KNKT se publicó el 1 de diciembre de 2015, casi un año después del accidente.</li>
-    <li>El capitán Iriyanto, de 53 años, acumulaba 20,537 horas de vuelo (6,100 de ellas en A320). El primer oficial Rémi Plesel, de 46 años, acumulaba 2,247 horas de vuelo (1,367 en A320).</li>
+    <li>El Capitán Iriyanto, de 53 años, acumulaba 20,537 horas de vuelo (6,100 de ellas en A320). El Primer Oficial Rémi Plesel, de 46 años, acumulaba 2,247 horas de vuelo (1,367 en A320).</li>
     <li>Aunque inicialmente se especuló con que las malas condiciones meteorológicas fueron la causa, el informe final determinó que el clima no fue un factor causal directo, aunque sí contribuyó a la decisión del piloto de solicitar el ascenso.</li>
     <li>El accidente es el único accidente fatal en la historia de Indonesia AirAsia.</li>
   </ul>

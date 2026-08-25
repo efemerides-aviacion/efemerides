@@ -30,11 +30,11 @@ image: 1956-06-30-colision-aerea-vuelo-718-united-vuelo-2-twa-gran-canon.webp
 - **Lugar:** Gran Cañón, Arizona, Estados Unidos (aproximadamente 36°10′30″N, 111°50′O)
 - **Altitud de la colisión:** 21.000 pies (6.400 m)
 - **Vuelo 718 de United Air Lines:** Douglas DC-7 Mainliner, matrícula N6324C, nombre <em>Mainliner Vancouver</em>
-  - Tripulación: capitán Robert Shirley, primer oficial Robert Harms, ingeniero de vuelo Gerard Fiore, más 2 auxiliares de vuelo (5 tripulantes en total)
+  - Tripulación: Capitán Robert Shirley, Primer Oficial Robert Harms, ingeniero de vuelo Gerard Fiore, más 2 auxiliares de vuelo (5 tripulantes en total)
   - Pasajeros: 53
   - Total ocupantes: 58
 - **Vuelo 2 de TWA:** Lockheed L-1049A Super Constellation, matrícula N6902C, nombre <em>Star of the Seine</em>
-  - Tripulación: capitán Jack Gandy, primer oficial James Ritner, ingeniero de vuelo Forrest Breyfogle, más 3 auxiliares/ingeniero de vuelo en tránsito (6 tripulantes en total)
+  - Tripulación: Capitán Jack Gandy, Primer Oficial James Ritner, ingeniero de vuelo Forrest Breyfogle, más 3 auxiliares/ingeniero de vuelo en tránsito (6 tripulantes en total)
   - Pasajeros: 64
   - Total ocupantes: 70
 - **Víctimas totales:** 128 fallecidos, 0 supervivientes

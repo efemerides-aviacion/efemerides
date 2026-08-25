@@ -12,7 +12,7 @@ image: 1921-06-22-nacimiento-ralph-kidd-hofer-as-aviacion-usa.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1921-06-22-nacimiento-ralph-kidd-hofer-as-aviacion-usa.webp" alt="Ralph K. Hofer junto a su P-51 Mustang">
-  <figcaption class="post-caption">El teniente Ralph K. Hofer (1921‑1944), conocido como “The Kidd”, junto a su perro Duke y su P‑51 Mustang “Salem Representative”; fuente: American Air Museum / dominio público.</figcaption>
+  <figcaption class="post-caption">El Teniente Ralph K. Hofer (1921‑1944), conocido como “The Kidd”, junto a su perro Duke y su P‑51 Mustang “Salem Representative”; fuente: American Air Museum / dominio público.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -54,7 +54,7 @@ La transición del P-47 Thunderbolt —un caza pesado y robusto— al P-51 Musta
 
 ### Entorno cultural
 
-Hofer era la antítesis del piloto de caza disciplinado. Su pelo largo (inusual para la época) y su camiseta de fútbol americano, combinados con su indisciplina en las comunicaciones de radio, lo convertían en un personaje inolvidable. Su comandante, el coronel Don Blakeslee, se enfadaba con él con frecuencia, pero su habilidad como piloto era indiscutible. Una de sus frases más recordadas fue: *«Gee, ain't the Alps pretty?»*.
+Hofer era la antítesis del piloto de caza disciplinado. Su pelo largo (inusual para la época) y su camiseta de fútbol americano, combinados con su indisciplina en las comunicaciones de radio, lo convertían en un personaje inolvidable. Su comandante, el Coronel Don Blakeslee, se enfadaba con él con frecuencia, pero su habilidad como piloto era indiscutible. Una de sus frases más recordadas fue: *«Gee, ain't the Alps pretty?»*.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
