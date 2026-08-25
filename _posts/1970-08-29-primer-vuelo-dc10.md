@@ -33,7 +33,7 @@ image: 1970-08-29-primer-vuelo-dc10.webp
 - **Matrícula de fábrica:** N10DC (número de serie 46500).
 - **Lugar de salida:** aeropuerto de Long Beach, California.
 - **Lugar de llegada:** base aérea de Edwards, California, donde se completó el programa de ensayos.
-- **Tripulación del primer vuelo:** Comandante Clifford L. Stout; copiloto Harris C. Van Valkenburg; ingeniero de vuelo John D. Chamberlain; ingeniero de ensayos Shojun Yukawa.
+- **Tripulación del primer vuelo:** comandante Clifford L. Stout; copiloto Harris C. Van Valkenburg; ingeniero de vuelo John D. Chamberlain; ingeniero de ensayos Shojun Yukawa.
 - **Duración del primer vuelo:** 3 h 36 min.
 - **Prestaciones alcanzadas en el vuelo inaugural:** 300 nudos (556 km/h) y 30.000 pies (9.144 m) de altitud.
 - **Planta motriz del prototipo:** tres turbofan General Electric CF6-6D de 178 kN de empuje cada uno.
@@ -57,7 +57,7 @@ El DC-10 era un trimotor de ala baja con dos motores bajo las alas y un tercero 
 
 ### Entorno cultural
 
-La forma del DC-10, con la turbina de cola integrada en el timón de profundidad, se convirtió en una de las siluetas más reconocibles de los años setenta y ochenta. Fue el aparato elegido por buena parte de las grandes compañías de la época —American, United, Northwest, Continental, Lufthansa, KLM, Swissair, SAS, Iberia, Alitalia, JAL, Thai— y apareció en películas, series y anuncios como símbolo del viaje intercontinental moderno.
+La forma del DC-10, con la turbina de cola integrada en el timón de profundidad, se convirtió en una de las siluetas más reconocibles de los años setenta y ochenta. Fue el aparato elegido por buena parte de las grandes compañías de la época —American, United, Northwest, Continental, Lufthansa, KLM, Swissair, SAS, Iberia, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1997/01/23/ultimo-vuelo-viasa-cese-operaciones.html" style="color: #315fea; text-decoration: none;">VIASA</a>, Alitalia, JAL, Thai— y apareció en películas, series y anuncios como símbolo del viaje intercontinental moderno.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
