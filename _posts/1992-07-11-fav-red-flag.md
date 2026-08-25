@@ -58,7 +58,7 @@ Red Flag ya era, para entonces, un símbolo del adiestramiento aéreo occidental
 
 La participación venezolana en Red Flag 92 se entiende mejor si se observa como un proceso logístico y operativo que se desarrolló a lo largo de varias semanas.
 
-- **Década de 1980:** la FAV consolida la operación de los F-16 dentro del Grupo Aéreo de Caza Nº 16, con sede en la Base Aérea El Libertador.
+- **31 de agosto de 1983:** se crea el <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1983/08/31/creacion-grupo-aereo-caza-16.html" style="color: #315fea; text-decoration: none;">Grupo Aéreo de Caza N.º 16 «Dragones»</a>, unidad que operaría los F-16 venezolanos desde la Base Aérea El Libertador.
 - **1991:** se desarrollan ejercicios conjuntos previos con unidades estadounidenses, antecedente útil para el nivel de integración táctica que luego exigiría Red Flag.
 - **18 de junio de 1992:** según reconstrucciones posteriores, parten hacia Nellis cinco F-16 de la FAV junto con apoyo cisterna Boeing 707, iniciando un despliegue de gran exigencia logística.
 - **19 de junio de 1992:** comienza oficialmente la edición de Red Flag 92 a la que se incorpora el contingente venezolano.
