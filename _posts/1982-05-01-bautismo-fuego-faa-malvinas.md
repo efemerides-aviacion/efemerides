@@ -45,11 +45,11 @@ image: 1982-05-01-bautismo-fuego-faa-malvinas.webp
 
 El 2 de abril de 1982, Argentina recuperó las Islas Malvinas mediante la Operación Rosario. En respuesta, el gobierno británico de Margaret Thatcher ordenó el envío de una Fuerza de Tareas (Task Force) para recuperar el archipiélago. El 5 de abril, la flota británica partió hacia el Atlántico Sur, y durante las semanas siguientes se desplegaron fuerzas argentinas en las islas y en la Patagonia.
 
-La Fuerza Aérea Argentina (FAA) había desplegado sus unidades en aeródromos de la Patagonia desde marzo, preparándose para un posible conflicto. Los pilotos de Mirage IIIEA y Dagger operaban desde Río Gallegos, Río Grande y Trelew. El 30 de abril, el comodoro Sandy Woodward, comandante de la Fuerza de Tareas británica a bordo del HMS Hermes, ordenó el inicio de las operaciones de ataque.
+La Fuerza Aérea Argentina (FAA) había desplegado sus unidades en aeródromos de la Patagonia desde marzo, preparándose para un posible conflicto. Los pilotos de Mirage IIIEA y Dagger operaban desde Río Gallegos, Río Grande y Trelew. El 30 de abril, el Comodoro Sandy Woodward, comandante de la Fuerza de Tareas británica a bordo del HMS Hermes, ordenó el inicio de las operaciones de ataque.
 
 ### Entorno social
 
-La sociedad argentina apoyaba masivamente la recuperación de las islas tras décadas de reclamo diplomático. El gobierno de facto del general Leopoldo Galtieri utilizó el conflicto para reforzar su legitimidad. En Gran Bretaña, la opinión pública se volcó detrás de la premier Margaret Thatcher, y el envío de la flota fue visto como una afirmación de la soberanía británica.
+La sociedad argentina apoyaba masivamente la recuperación de las islas tras décadas de reclamo diplomático. El gobierno de facto del General Leopoldo Galtieri utilizó el conflicto para reforzar su legitimidad. En Gran Bretaña, la opinión pública se volcó detrás de la premier Margaret Thatcher, y el envío de la flota fue visto como una afirmación de la soberanía británica.
 
 ### Entorno tecnológico
 
@@ -61,25 +61,25 @@ Los cascos azules del escudo de la FAA se convirtieron en un emblema del valor a
 
 ## Desarrollo Cronológico
 
-- **30 de abril de 1982:** La flota británica se concentra a 400 km al noreste de Puerto Argentino; el vicealmirante Woodward ordena iniciar el ataque
+- **30 de abril de 1982:** La flota británica se concentra a 400 km al noreste de Puerto Argentino; el Vicealmirante Woodward ordena iniciar el ataque
 - **1 de mayo de 1982, 04:40:** El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/08/30/primer-vuelo-avro-vulcan.html" style="color: #315fea; text-decoration: none;">Avro Vulcan XM607</a> bombardea la BAM Malvinas; mueren los soldados Bordón y García
 - **Posterior al bombardeo:** Ingenieros argentinos reparan la pista rápidamente y la mantienen operativa al 100%
-- **Mañana del 1 de mayo:** Harriers atacan la BAM Cóndor (Puerto Darwin); una bomba impacta en el Pucará A-527, muriendo el teniente Daniel Jukic y seis suboficiales/cabos
+- **Mañana del 1 de mayo:** Harriers atacan la BAM Cóndor (Puerto Darwin); una bomba impacta en el Pucará A-527, muriendo el Teniente Daniel Jukic y seis suboficiales/cabos
 - **Primer combate aéreo:** Sección TORO (Dagger) vs. Sea Harriers; sin daños
-- **Primer combate con Mirage:** El capitán Gustavo García Cuerva (Mirage I-019) es derribado por un misil Sidewinder, eyectándose y siendo rescatado (I-015 impacta por artillería argentina)
+- **Primer combate con Mirage:** El Capitán Gustavo García Cuerva (Mirage I-019) es derribado por un misil Sidewinder, eyectándose y siendo rescatado (I-015 impacta por artillería argentina)
 - **Tarde 1 de mayo:** La escuadrilla TORNO (3 Dagger) ataca y daña el destructor HMS Glamorgan y las fragatas HMS Arrow y HMS Alacrity
-- **Tarde noche 1 de mayo:** Canberra B-110 es derribado por Sea Harriers; tripulación (teniente De Ibañez y primer teniente González) no puede ser rescatada
+- **Tarde noche 1 de mayo:** Canberra B-110 es derribado por Sea Harriers; tripulación (Teniente De Ibañez y Primer Teniente González) no puede ser rescatada
 - **Cierre del día:** Saldo de 76 salidas, 52 de combate, 14 caídos de la FAA
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## La Operación Black Buck: el primer golpe británico
 
-El 1 de mayo de 1982 a las 04:40, el bombardero Vulcan XM607 de la Royal Air Force, al mando del teniente Martin Withers, inició su corrida final sobre la Base Aérea Militar (BAM) Malvinas en Puerto Argentino. La aeronave había recorrido 14.400 km (ida y vuelta) desde la isla Ascensión, asistida por once aviones Handley Page Victor K-2 de reabastecimiento en vuelo de los Escuadrones RAF 55 y 57.
+El 1 de mayo de 1982 a las 04:40, el bombardero Vulcan XM607 de la Royal Air Force, al mando del Teniente Martin Withers, inició su corrida final sobre la Base Aérea Militar (BAM) Malvinas en Puerto Argentino. La aeronave había recorrido 14.400 km (ida y vuelta) desde la isla Ascensión, asistida por once aviones Handley Page Victor K-2 de reabastecimiento en vuelo de los Escuadrones RAF 55 y 57.
 
 El Vulcan lanzó una salva de 21 bombas de 500 kg, que impactaron en diferentes zonas de la pista, el centro de la misma, la cabecera 26, la aerostación, el patio de carpas, la antena de radar Elta 2106 y el Puesto de Comando de Artillería Antiaérea (PCAAa).
 
-Como consecuencia del ataque, los soldados clase 63 Guillermo Ubaldo García (I Brigada Aérea, El Palomar) y Héctor Ramón Bordón (IX Brigada Aérea, Comodoro Rivadavia) fallecieron mientras cumplían servicio como centinelas. También resultaron heridos el suboficial mayor Hugo Gómez (rescatado valerosamente por el cabo Oliva) y el capitán Dante Dovichi, quien sufrió serios traumatismos en la columna vertebral por la onda explosiva.
+Como consecuencia del ataque, los soldados clase 63 Guillermo Ubaldo García (I Brigada Aérea, El Palomar) y Héctor Ramón Bordón (IX Brigada Aérea, Comodoro Rivadavia) fallecieron mientras cumplían servicio como centinelas. También resultaron heridos el Suboficial Mayor Hugo Gómez (rescatado valerosamente por el Cabo Oliva) y el Capitán Dante Dovichi, quien sufrió serios traumatismos en la columna vertebral por la onda explosiva.
 
 ### La reparación de la pista
 
@@ -89,9 +89,9 @@ Finalizado el ataque, los ingenieros del Escuadrón de Construcciones de la FAA 
 
 ## El ataque a la BAM Cóndor
 
-Mientras los artilleros antiaéreos argentinos se preparaban en la BAM Cóndor (Puerto Darwin), los Sea Harriers lanzaron un ataque sorpresivo contra la base. En ese momento, el teniente Daniel Antonio Jukic, asistido por sus armeros y mecánicos, intentaba poner en marcha el avión Pucará A-527.
+Mientras los artilleros antiaéreos argentinos se preparaban en la BAM Cóndor (Puerto Darwin), los Sea Harriers lanzaron un ataque sorpresivo contra la base. En ese momento, el Teniente Daniel Antonio Jukic, asistido por sus armeros y mecánicos, intentaba poner en marcha el avión Pucará A-527.
 
-Una bomba lanzada por un Sea Harrier impactó en el Pucará, provocando la muerte instantánea del teniente Daniel Jukic y de los cabos principales Juan Rodríguez y Mario Duarte, y los cabos primeros José Maldonado, Agustín Montaño, Andrés Brashich, Miguel Carrizo y José Luis Peralta.
+Una bomba lanzada por un Sea Harrier impactó en el Pucará, provocando la muerte instantánea del Teniente Daniel Jukic y de los cabos principales Juan Rodríguez y Mario Duarte, y los cabos primeros José Maldonado, Agustín Montaño, Andrés Brashich, Miguel Carrizo y José Luis Peralta.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -101,19 +101,19 @@ El 1 de mayo de 1982 se produjeron los primeros combates aéreos entre la Fuerza
 
 ### El primer combate entre Dagger y Harriers
 
-La Fuerza Aérea Sur dispuso la salida de aeronaves M-III EA y M-5 Dagger en tareas de cobertura aérea. El primer combate aéreo se produjo entre una sección compuesta por dos interceptores M-5 con el indicativo TORO, a cargo del capitán Moreno y el teniente Volponi, y una sección de dos Sea Harriers a cargo del teniente comandante Robin Kent y el teniente Brian Haigh. El combate finalizó sin daños materiales ni bajas.
+La Fuerza Aérea Sur dispuso la salida de aeronaves M-III EA y M-5 Dagger en tareas de cobertura aérea. El primer combate aéreo se produjo entre una sección compuesta por dos interceptores M-5 con el indicativo TORO, a cargo del Capitán Moreno y el Teniente Volponi, y una sección de dos Sea Harriers a cargo del Teniente Comandante Robin Kent y el Teniente Brian Haigh. El combate finalizó sin daños materiales ni bajas.
 
 ### La salida de los Mirage
 
-Desde Río Gallegos partió la sección DARDO, compuesta por dos Mirage M-III (I-019 del capitán Gustavo García Cuerva e I-015 del brigadier Cuerva).
+Desde Río Gallegos partió la sección DARDO, compuesta por dos Mirage M-III (I-019 del Capitán Gustavo García Cuerva e I-015 del Brigadier Cuerva).
 
-En el combate contra los Sea Harriers, el I-019 fue alcanzado por un misil Sidewinder sobre la isla Borbón. El capitán García Cuerva logró eyectarse y fue rescatado.
+En el combate contra los Sea Harriers, el I-019 fue alcanzado por un misil Sidewinder sobre la isla Borbón. El Capitán García Cuerva logró eyectarse y fue rescatado.
 
-El I-015, con escaso combustible, intentó aterrizar en la BAM Malvinas, que se encontraba en alerta roja. Fue alcanzado por la artillería antiaérea argentina; su piloto, el capitán Gustavo Argentino García Cuerva, no logró eyectarse y falleció.
+El I-015, con escaso combustible, intentó aterrizar en la BAM Malvinas, que se encontraba en alerta roja. Fue alcanzado por la artillería antiaérea argentina; su piloto, el Capitán Gustavo Argentino García Cuerva, no logró eyectarse y falleció.
 
 ### La misión del Dagger RUBIO
 
-Desde Río Grande despegó un M-5 Dagger con indicativo RUBIO (primer teniente José Leónidas Ardiles). Vectoreado por el radar de Malvinas, enfrentó a dos aviones enemigos. El piloto argentino fue el primero en ganar una posición ventajosa con su Dagger C-433 y disparó su misil Shafrir, que fue esquivado por el avión inglés. El otro Sea Harrier alcanzó al Dagger con un misil Sidewinder. El primer teniente Ardiles no logró eyectarse y falleció.
+Desde Río Grande despegó un M-5 Dagger con indicativo RUBIO (Primer Teniente José Leónidas Ardiles). Vectoreado por el radar de Malvinas, enfrentó a dos aviones enemigos. El piloto argentino fue el primero en ganar una posición ventajosa con su Dagger C-433 y disparó su misil Shafrir, que fue esquivado por el avión inglés. El otro Sea Harrier alcanzó al Dagger con un misil Sidewinder. El Primer Teniente Ardiles no logró eyectarse y falleció.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -121,7 +121,7 @@ Desde Río Grande despegó un M-5 Dagger con indicativo RUBIO (primer teniente J
 
 Entre las 16:20 y las 17:50, llegaron sobre Malvinas 28 aviones agrupados en doce secciones/escuadrillas. Todas las aeronaves operaron al límite de su radio de acción y bajo malas condiciones meteorológicas, pero todos los aviones de combate salieron y regresaron sin novedades.
 
-La escuadrilla TORNO, al mando del capitán Norberto Dimeglio (C-432), junto al teniente Gustavo Aguirre Fajet (C-412) y el primer teniente César Román (C-407), fue la primera en localizar, atacar y averiar buques de la Task Force. Como resultado de los ataques, resultaron dañados el destructor HMS Glamorgan y las fragatas HMS Arrow y HMS Alacrity.
+La escuadrilla TORNO, al mando del Capitán Norberto Dimeglio (C-432), junto al Teniente Gustavo Aguirre Fajet (C-412) y el Primer Teniente César Román (C-407), fue la primera en localizar, atacar y averiar buques de la Task Force. Como resultado de los ataques, resultaron dañados el destructor HMS Glamorgan y las fragatas HMS Arrow y HMS Alacrity.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -133,7 +133,7 @@ Desde el portaaviones HMS Hermes partieron tres escuadrillas de Sea Harrier del 
 
 ## La evacuación aeromédica
 
-Luego del ataque a la BAM Cóndor, el helicóptero CH-47 matrícula H-91 evacuó hacia Puerto Argentino a trece heridos que requerían tratamiento urgente. Durante el traslado falleció el cabo primero Miguel Ángel Carrizo, y luego, en el Hospital Conjunto, el cabo primero Andrés Brashich.
+Luego del ataque a la BAM Cóndor, el helicóptero CH-47 matrícula H-91 evacuó hacia Puerto Argentino a trece heridos que requerían tratamiento urgente. Durante el traslado falleció el Cabo Primero Miguel Ángel Carrizo, y luego, en el Hospital Conjunto, el Cabo Primero Andrés Brashich.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -145,7 +145,7 @@ Despegó de Río Gallegos el KC-130 Hércules matrícula TC-70 con indicativo PE
 
 ## La interceptación de los Canberra
 
-Desde Trelew partió la escuadrilla RIFLE, compuesta por tres bombarderos BMK Canberra (MK-62) para atacar los buques que bombardeaban las posiciones en Puerto Argentino. Una patrulla de Sea Harriers los interceptó y derribó al B-110 con misiles Sidewinder. Su tripulación, el teniente Eduardo Jorge Raúl de Ibáñez y el primer teniente Mario Hipólito González, logró eyectarse, pero no pudo ser rescatada, falleciendo en aguas del Atlántico Sur.
+Desde Trelew partió la escuadrilla RIFLE, compuesta por tres bombarderos BMK Canberra (MK-62) para atacar los buques que bombardeaban las posiciones en Puerto Argentino. Una patrulla de Sea Harriers los interceptó y derribó al B-110 con misiles Sidewinder. Su tripulación, el Teniente Eduardo Jorge Raúl de Ibáñez y el Primer Teniente Mario Hipólito González, logró eyectarse, pero no pudo ser rescatada, falleciendo en aguas del Atlántico Sur.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -163,13 +163,13 @@ Desde Trelew partió la escuadrilla RIFLE, compuesta por tres bombarderos BMK Ca
 
 El 1 de mayo de 1982, la Fuerza Aérea Argentina se bautizó en la sangre de sus héroes. La consigna "55 héroes" se convirtió en un símbolo irreversible de la memoria institucional. Al conmemorarse el 43° aniversario del bautismo de fuego en mayo de 2025, el ministro de Defensa, Luis Petri, expresó: "Hace 43 años, la Fuerza Aérea Argentina se bautizó en la sangre de sus héroes. Cayeron defendiendo nuestra soberanía y nos legaron un ejemplo eterno de valor y entrega".
 
-El aeropuerto de San Julián, desde donde partieron muchas de aquellas misiones, fue renombrado en homenaje al capitán José Daniel Vázquez, caído en la guerra. El legado de los combatientes del 1 de mayo de 1982 continúa inspirando a las nuevas generaciones de aviadores argentinos, y los principios de "fe en la victoria, superación de los límites y conciencia de la misión" siguen siendo la doctrina operativa de la Institución.
+El aeropuerto de San Julián, desde donde partieron muchas de aquellas misiones, fue renombrado en homenaje al Capitán José Daniel Vázquez, caído en la guerra. El legado de los combatientes del 1 de mayo de 1982 continúa inspirando a las nuevas generaciones de aviadores argentinos, y los principios de "fe en la victoria, superación de los límites y conciencia de la misión" siguen siendo la doctrina operativa de la Institución.
 
 ---
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el nombre "Bautismo de Fuego":</strong> El término "bautismo de fuego" se refiere a la primera vez que una unidad militar entra en combate real. Para la Fuerza Aérea Argentina, el 1 de mayo de 1982 constituyó ese momento histórico, en el que por primera vez sus pilotos y personal se enfrentaron a una potencia extranjera en situación de guerra.</p>
-<p><strong>Sobre las bajas de la FAA el 1 de mayo:</strong> Las fuentes coinciden en que 14 miembros de la FAA ofrendaron su vida ese día: el capitán Gustavo Argentino García Cuerva; los primeros tenientes Mario Hipólito González y José Leónidas Ardiles; los tenientes Daniel Antonio Jukic y Eduardo Jorge Raúl de Ibañez; los cabos principales Mario Duarte y Juan Antonio Rodríguez; los cabos primeros Miguel Ángel Carrizo, José Alberto Maldonado, Agustín Hugo Montaño, José Luis Peralta y Andrés Luis Brashich; y los soldados clase 63 Héctor Ramón Bordón y Guillermo Ubaldo García.</p>
+<p><strong>Sobre las bajas de la FAA el 1 de mayo:</strong> Las fuentes coinciden en que 14 miembros de la FAA ofrendaron su vida ese día: el Capitán Gustavo Argentino García Cuerva; los primeros tenientes Mario Hipólito González y José Leónidas Ardiles; los tenientes Daniel Antonio Jukic y Eduardo Jorge Raúl de Ibañez; los cabos principales Mario Duarte y Juan Antonio Rodríguez; los cabos primeros Miguel Ángel Carrizo, José Alberto Maldonado, Agustín Hugo Montaño, José Luis Peralta y Andrés Luis Brashich; y los soldados clase 63 Héctor Ramón Bordón y Guillermo Ubaldo García.</p>
 <p><strong>Sobre las designaciones TORO y TORNO:</strong> La Sección TORO (2 Dagger) protagonizó el primer combate aéreo del día contra Sea Harriers, sin daños. La Escuadrilla TORNO (3 Dagger) fue la que atacó y dañó los buques británicos. Son unidades diferentes con indicativos distintos.</p>
 </div>
 
