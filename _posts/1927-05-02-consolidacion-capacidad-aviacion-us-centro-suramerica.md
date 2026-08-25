@@ -36,15 +36,15 @@ image: 1927-05-02-consolidacion-capacidad-aviation-us-centro-suramerica.webp
 - **Tripulación por avión:** 2 pilotos (10 en total)
 - **Nombres de los aviones:** New York, San Antonio, San Francisco, Detroit, St. Louis
 - **Comandante de la expedición:** Mayor Herbert A. Dargue
-- **Aeronave que completó todas las etapas:** San Francisco (capitán Ira C. Eaker y teniente Muir S. Fairchild)
+- **Aeronave que completó todas las etapas:** San Francisco (Capitán Ira C. Eaker y Teniente Muir S. Fairchild)
 - **Accidente:** 26 de febrero de 1927, colisión del Detroit y el New York en El Palomar, Buenos Aires
-- **Fallecidos:** Capitán Clinton F. Woolsey y teniente John W. Benton (tripulación del Detroit)
+- **Fallecidos:** Capitán Clinton F. Woolsey y Teniente John W. Benton (tripulación del Detroit)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-A mediados de la década de 1920, la política exterior del presidente Calvin Coolidge buscaba fortalecer las relaciones con América Latina, una región considerada de interés estratégico para Estados Unidos tras la Primera Guerra Mundial. El mayor general Mason Patrick, jefe de aviación del ejército, propuso un vuelo de buena voluntad a través de México, Centro y Sudamérica. La idea fue respaldada por el secretario de Guerra Dwight Davis y el secretario de Estado Frank B. Kellogg. El propósito era múltiple: mejorar las relaciones diplomáticas, fomentar la aviación comercial, proporcionar entrenamiento valioso al personal del Cuerpo Aéreo y estimular la industria aeronáutica estadounidense en una región que carecía de infraestructura de transporte por ferrocarril o carretera.
+A mediados de la década de 1920, la política exterior del presidente Calvin Coolidge buscaba fortalecer las relaciones con América Latina, una región considerada de interés estratégico para Estados Unidos tras la Primera Guerra Mundial. El Mayor General Mason Patrick, jefe de aviación del ejército, propuso un vuelo de buena voluntad a través de México, Centro y Sudamérica. La idea fue respaldada por el secretario de Guerra Dwight Davis y el secretario de Estado Frank B. Kellogg. El propósito era múltiple: mejorar las relaciones diplomáticas, fomentar la aviación comercial, proporcionar entrenamiento valioso al personal del Cuerpo Aéreo y estimular la industria aeronáutica estadounidense en una región que carecía de infraestructura de transporte por ferrocarril o carretera.
 
 ### El contexto geopolítico
 
@@ -56,7 +56,7 @@ El Loening OA-1A era un anfibio (podía despegar y amerizar) diseñado por Grove
 
 ### Entorno cultural
 
-La aviación en la década de 1920 cautivaba la imaginación del público. Tan solo tres semanas después de la conclusión de este vuelo, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> realizó su histórico cruce transatlántico, eclipsando mediáticamente la gesta de los diez aviadores. Sin embargo, ambos eventos quedaron vinculados: el 13 de junio de 1927, el San Francisco (pilotado por el capitán Ira C. Eaker) transportó a Lindbergh desde Mitchel Field hasta el puerto de Nueva York, utilizando su capacidad anfibia para amerizar y permitir la entrada triunfal del "Espíritu de San Luis" a la ciudad.
+La aviación en la década de 1920 cautivaba la imaginación del público. Tan solo tres semanas después de la conclusión de este vuelo, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> realizó su histórico cruce transatlántico, eclipsando mediáticamente la gesta de los diez aviadores. Sin embargo, ambos eventos quedaron vinculados: el 13 de junio de 1927, el San Francisco (pilotado por el Capitán Ira C. Eaker) transportó a Lindbergh desde Mitchel Field hasta el puerto de Nueva York, utilizando su capacidad anfibia para amerizar y permitir la entrada triunfal del "Espíritu de San Luis" a la ciudad.
 
 ## Desarrollo Cronológico
 
@@ -73,19 +73,19 @@ La aviación en la década de 1920 cautivaba la imaginación del público. Tan s
 
 La expedición estuvo compuesta por diez pilotos, dos por cada aeronave:
 
-- ***New York:*** Mayor Herbert A. Dargue (comandante de la expedición) y teniente Ennis Whitehead
-- ***San Antonio:*** Capitán Arthur B. McDaniel y teniente Charles McK. Robinson
-- ***San Francisco:*** Capitán Ira C. Eaker y teniente Muir S. Fairchild
-- ***Detroit:*** Capitán Clinton F. Woolsey y teniente John W. Benton
-- ***St. Louis:*** Teniente Bernard S. Thompson y teniente Leonard D. Weddington
+- ***New York:*** Mayor Herbert A. Dargue (comandante de la expedición) y Teniente Ennis Whitehead
+- ***San Antonio:*** Capitán Arthur B. McDaniel y Teniente Charles McK. Robinson
+- ***San Francisco:*** Capitán Ira C. Eaker y Teniente Muir S. Fairchild
+- ***Detroit:*** Capitán Clinton F. Woolsey y Teniente John W. Benton
+- ***St. Louis:*** Teniente Bernard S. Thompson y Teniente Leonard D. Weddington
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## El accidente en Buenos Aires
 
-El 26 de febrero de 1927, cuando los aviones se preparaban para aterrizar en el campo de aviación de El Palomar, provincia de Buenos Aires, el Detroit sufrió un desperfecto en el mecanismo que permitía bajar el tren de aterrizaje. Para solucionarlo, el teniente Benton salió al ala con la intención de accionar manualmente los cables, una maniobra extremadamente arriesgada que le impedía usar paracaídas.
+El 26 de febrero de 1927, cuando los aviones se preparaban para aterrizar en el campo de aviación de El Palomar, provincia de Buenos Aires, el Detroit sufrió un desperfecto en el mecanismo que permitía bajar el tren de aterrizaje. Para solucionarlo, el Teniente Benton salió al ala con la intención de accionar manualmente los cables, una maniobra extremadamente arriesgada que le impedía usar paracaídas.
 
-Mientras Benton realizaba esta operación, el Detroit se desvió de su curso y colisionó con el New York, pilotado por el mayor Dargue. Ambas aeronaves quedaron enganchadas y cayeron en picada. Dargue y su copiloto, el teniente Whitehead, lograron lanzarse en paracaídas y sobrevivieron. En el Detroit, el capitán Woolsey tuvo la oportunidad de saltar, pero optó por permanecer junto a su compañero Benton, que no podía usar su paracaídas. Ambos murieron al impactar contra el suelo.
+Mientras Benton realizaba esta operación, el Detroit se desvió de su curso y colisionó con el New York, pilotado por el Mayor Dargue. Ambas aeronaves quedaron enganchadas y cayeron en picada. Dargue y su copiloto, el Teniente Whitehead, lograron lanzarse en paracaídas y sobrevivieron. En el Detroit, el Capitán Woolsey tuvo la oportunidad de saltar, pero optó por permanecer junto a su compañero Benton, que no podía usar su paracaídas. Ambos murieron al impactar contra el suelo.
 
 A pesar de la tragedia, el secretario de Guerra autorizó la continuación del vuelo. El New York fue reemplazado, y los ocho pilotos restantes completaron la travesía con los cuatro aviones supervivientes.
 
@@ -102,7 +102,7 @@ Los participantes del vuelo tuvieron destacadas carreras posteriores. Ira C. Eak
 ---
 
 <div class="note-box">
-<p><strong>Nota aclaratoria sobre los datos del accidente:</strong> El accidente ocurrió el 26 de febrero de 1927 en El Palomar, Buenos Aires. Fallecieron el capitán Clinton F. Woolsey y el teniente John W. Benton, ambos tripulantes del <em>Detroit</em>. El mayor Dargue y el teniente Whitehead (<em>New York</em>) sobrevivieron al lanzarse en paracaídas. Fue un solo accidente (una colisión en el aire entre dos aviones), no dos incidentes separados.</p>
+<p><strong>Nota aclaratoria sobre los datos del accidente:</strong> El accidente ocurrió el 26 de febrero de 1927 en El Palomar, Buenos Aires. Fallecieron el Capitán Clinton F. Woolsey y el Teniente John W. Benton, ambos tripulantes del <em>Detroit</em>. El Mayor Dargue y el Teniente Whitehead (<em>New York</em>) sobrevivieron al lanzarse en paracaídas. Fue un solo accidente (una colisión en el aire entre dos aviones), no dos incidentes separados.</p>
 <p><strong>Sobre la cruz de los Andes:</strong> La travesía cruzó la cordillera desde Valdivia (Chile) hasta Bahía Blanca (Argentina), no directamente a Buenos Aires. Luego volaron hacia el norte hasta la capital argentina.</p>
 <p><strong>Sobre la cifra de 35.200 km:</strong> Esta cifra es confirmada por las fuentes del Smithsonian y del Museo Nacional de la USAF.</p>
 </div>
