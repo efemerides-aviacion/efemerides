@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: Beechcraft / USAF / USN
 excerpt: "El 2 de diciembre de 1948, el prototipo del Beechcraft Model 45 realizó su primer vuelo en Wichita, Kansas, dando origen al T-34 Mentor, uno de los entrenadores primarios más exitosos y longevos de la historia, adoptado por la Fuerza Aérea y la Armada de los Estados Unidos y por numerosas fuerzas aéreas de todo el mundo."
-image: 1948-12-02-primer-vuelo-mentor-t34.webp
+image: 1948-12-02-primer-vuelo-t34-mentor.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1948-12-02-primer-vuelo-mentor-t34.webp" alt="Beechcraft T-34 Mentor">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1948-12-02-primer-vuelo-t34-mentor.webp" alt="Beechcraft T-34 Mentor">
   <figcaption class="post-caption">Un T-34 Mentor de la Fuerza Aérea Venezolana en misión de entrenamiento, década de 1960-1970. (Fuente: Inventario Histórico FAV / Fundación Infante de Orleans).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

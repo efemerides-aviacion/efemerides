@@ -58,7 +58,7 @@ El vuelo del 6 de julio de 1917 no fue un hecho aislado, sino la culminación de
 
 - **3 de septiembre de 1912:** Bartolomeo Cattaneo despega de Salto hacia Montevideo con correspondencia autorizada oficialmente, en lo que la historiografía uruguaya reconoce como el primer vuelo postal del país.
 - **10 de diciembre de 1916:** David Fuentes Soza transporta cartas entre Ancud y Puerto Montt, considerado por la historiografía chilena como el primer vuelo aeropostal de Chile.
-- **8 de enero de 1910:** Alberto Braniff realiza <a href="https://efemerides-aviacion.github.io/efemerides/evento/1910/01/08/primer-vuelo-alberto-braniff.html" style="color: #315fea; text-decoration: none;">el primer vuelo registrado de un avión en México</a>.
+- **8 de enero de 1910:** Alberto Braniff realiza <a href="https://efemerides-aviacion.github.io/efemerides/evento/1910/01/08/primer-vuelo-alberto-braniff-en-mexico.html" style="color: #315fea; text-decoration: none;">el primer vuelo registrado de un avión en México</a>.
 - **1912:** el gobierno mexicano autoriza que oficiales se formen como pilotos aviadores en Estados Unidos.
 - **15 de noviembre de 1915:** se inauguran oficialmente los Talleres Nacionales de Construcciones Aeronáuticas y la Escuela Nacional de Aviación.
 - **1916-1917:** avanzan las pruebas y la construcción de aviones Serie A en México.
