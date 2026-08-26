@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: Virgin Atlantic / Scaled Composites
 excerpt: "Steve Fossett completó la primera vuelta al mundo en solitario, sin escalas ni reabastecimiento, a bordo del Virgin Atlantic GlobalFlyer en 2005."
-image: 2005-03-03-virgin-atlantic-global-flyer-record-mundial.jpg
+image: 2005-03-03-virgin-atlantic-global-flyer-record-mundial.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/2005-03-03-virgin-atlantic-global-flyer-record-mundial.jpg" alt="Virgin Atlantic GlobalFlyer en aproximación final, Salina 2005">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/2005-03-03-virgin-atlantic-global-flyer-record-mundial.webp" alt="Virgin Atlantic GlobalFlyer en aproximación final, Salina 2005">
   <figcaption class="post-caption">Virgin Atlantic GlobalFlyer (N227SF) se aproxima al aterrizaje en Salina, Kansas, tras completar la primera vuelta al mundo en solitario sin reabastecimiento. Steve Fossett, 3 mar 2005. China Daily / AFP.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

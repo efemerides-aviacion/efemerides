@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Alemania / Francia
 operator: Airbus Industrie
 excerpt: "El 11 de marzo de 1993, el prototipo del Airbus A321 (F-WWIA) realizó su vuelo inaugural desde Hamburgo, convirtiéndose en la tercera variante de la familia A320 y la de mayor capacidad, concebida para competir en el segmento de pasillo único de alta densidad."
-image: 1993-03-11-primer-vuelo-airbus-321.jpg
+image: 1993-03-11-primer-vuelo-airbus-321.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1993-03-11-primer-vuelo-airbus-321.jpg" alt="Airbus A321">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1993-03-11-primer-vuelo-airbus-321.webp" alt="Airbus A321">
   <figcaption class="post-caption">Prototipo Airbus A321 (msn 023, F-WWIA), durante su primer vuelo el 11 de marzo de 1993 desde la planta de Airbus en Hamburg-Finkenwerder (XFW), pilotado por Karl-Eugen Nagel. Fuente: Airways Magazine.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

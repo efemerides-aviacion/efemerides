@@ -7,12 +7,12 @@ author: [Enrique Pomares]
 pais: Estados Unidos
 operator: USAir / SkyWest Airlines
 excerpt: "Colisión en pista entre un Boeing 737-300 de USAir y un Fairchild Swearingen Metroliner de SkyWest en LAX."
-image: 1991-02-01-colision-pista-los-angeles.jpg
+image: 1991-02-01-colision-pista-los-angeles.webp
 
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1991-02-01-colision-pista-los-angeles.jpg" alt="Boeing 737‑300 de USAir (arriba) y Fairchild Swearingen Metroliner de SkyWest (abajo).">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1991-02-01-colision-pista-los-angeles.webp" alt="Boeing 737‑300 de USAir (arriba) y Fairchild Swearingen Metroliner de SkyWest (abajo).">
   <figcaption class="post-caption">Composición con un Boeing 737‑300 de USAir (arriba) y un Fairchild Swearingen Metroliner de SkyWest Airlines (abajo), similares a los aviones involucrados en la colisión en pista de Los Ángeles del 1 de febrero de 1991.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

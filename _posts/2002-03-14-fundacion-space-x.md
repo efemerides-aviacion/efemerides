@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: SpaceX
 excerpt: "El 14 de marzo de 2002, Elon Musk incorporó legalmente Space Exploration Technologies Corp. (SpaceX) en Delaware, sentando las bases de la primera gran empresa privada que revolucionaría el acceso al espacio mediante cohetes reutilizables y la reducción drástica de costos de lanzamiento."
-image: 2002-03-14-fundacion-space-x.jpg
+image: 2002-03-14-fundacion-space-x.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/2002-03-14-fundacion-space-x.jpg" alt="SpaceX">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/2002-03-14-fundacion-space-x.webp" alt="SpaceX">
   <figcaption class="post-caption">Edificio de la sede original de SpaceX en Hawthorne, California (1 Rocket Road), con torre de pruebas blanca para motores Merlin y letrero prominente "SPACEX" en la fachada industrial, capturado bajo cielo nublado ~2010-2015. Fuente: Archivo histórico SpaceX / Wikimedia Commons.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

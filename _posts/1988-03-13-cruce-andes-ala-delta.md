@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Chile / Argentina
 operator: 
 excerpt: "El 13 de marzo de 1988, el piloto argentino-chileno Basilio Moisés Impellizeri Nicito se convirtió en la primera persona en cruzar la cordillera de los Andes en ala delta, estableciendo además un récord chileno de permanencia en vuelo de 11 horas y 5 minutos."
-image: 1988-03-13-cruce-andes-ala-delta.jpg
+image: 1988-03-13-cruce-andes-ala-delta.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1988-03-13-cruce-andes-ala-delta.jpg" alt="Basilio Impellizeri en ala delta">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1988-03-13-cruce-andes-ala-delta.webp" alt="Basilio Impellizeri en ala delta">
   <figcaption class="post-caption">Basilio Impellizzeri Nicito prepara su ala delta para el cruce de los Andes, 13 de marzo de 1988. La imagen muestra al piloto argentino-chileno despegando en su ala delta multicolor (roja-naranja-amarilla) desde una ladera andina, en el histórico primer cruce Chile-Argentina que batió el récord de permanencia de 11h 5m. (Fuente: Aladeltismo Chileno)</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Malasia
 operator: Malaysia Airlines
 excerpt: "El 8 de marzo de 2014, el Boeing 777-200ER del vuelo MH370 desapareció con 239 personas a bordo. Doce años después, la causa sigue siendo desconocida y el fuselaje principal no ha sido localizado."
-image: 2014-03-08-vuelo-mh370-malaysia-airlines.jpg
+image: 2014-03-08-vuelo-mh370-malaysia-airlines.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/2014-03-08-vuelo-mh370-malaysia-airlines.jpg" alt="Malaysia Airlines Boeing 777-200ER 9M-MRO en 2013">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/2014-03-08-vuelo-mh370-malaysia-airlines.webp" alt="Malaysia Airlines Boeing 777-200ER 9M-MRO en 2013">
   <figcaption class="post-caption">Malaysia Airlines Boeing 777-200ER 9M-MRO despega del Aeropuerto Internacional de Los Ángeles (LAX), octubre 2013. Autor: Paul Rowbotham (Flickr, CC BY-SA 2.0). Este avión desapareció como Vuelo MH370 el 8 de marzo de 2014.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: Bell Helicopter / Boeing
 excerpt: "El 19 de marzo de 1989, el prototipo del Bell-Boeing V-22 Osprey realizó su primer vuelo en Arlington, Texas, marcando el inicio del programa de ensayos de este revolucionario tiltrotor, diseñado para combinar la versatilidad VTOL con la velocidad y alcance de un avión de ala fija."
-image: 1989-03-19-primer-vuelo-bell-boeing-v-22-osprey.jpg
+image: 1989-03-19-primer-vuelo-bell-boeing-v-22-osprey.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1989-03-19-primer-vuelo-bell-boeing-v-22-osprey.jpg" alt="Bell-Boeing V-22 Osprey">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1989-03-19-primer-vuelo-bell-boeing-v-22-osprey.webp" alt="Bell-Boeing V-22 Osprey">
   <figcaption class="post-caption">Prototipo Bell-Boeing V-22 Osprey #01 en su primer vuelo, Arlington TX, 19 marzo 1989. Fuente: FlightGlobal – "30 years since V-22 Osprey's first flight" (2019).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

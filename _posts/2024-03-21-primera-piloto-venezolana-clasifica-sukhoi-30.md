@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Venezuela
 operator: Aviación Militar Bolivariana
 excerpt: "El 21 de marzo de 2024, la capitana Cindi “Katara” Caraballo se convirtió en la primera mujer venezolana y la primera latinoamericana en clasificar como piloto de caza del sistema Sukhoi Su‑30MK2, hito que consolida la participación femenina en el componente de caza de la FANB."
-image: 2024-03-21-primera-piloto-venezolana-clasifica-sukhoi-30.jpg
+image: 2024-03-21-primera-piloto-venezolana-clasifica-sukhoi-30.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/2024-03-21-primera-piloto-venezolana-clasifica-sukhoi-30.jpg" alt="Capitana Cindi Caraballo junto a Sukhoi Su-30MK2">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/2024-03-21-primera-piloto-venezolana-clasifica-sukhoi-30.webp" alt="Capitana Cindi Caraballo junto a Sukhoi Su-30MK2">
   <figcaption class="post-caption">Capitana Cindi “Katara” Caraballo, primera piloto venezolana de Sukhoi Su-30MK2, frente al avión 271 en Base Aérea Luis del Valle García (Barcelona), 21 marzo 2024. Fuente: AMBV / Defensa.com.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

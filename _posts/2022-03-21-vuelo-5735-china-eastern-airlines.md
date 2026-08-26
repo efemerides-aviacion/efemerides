@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: China
 operator: China Eastern Airlines
 excerpt: "El 21 de marzo de 2022, el vuelo 5735 de China Eastern Airlines, un Boeing 737-800 con matrícula B-1791, se estrelló en una zona montañosa de Guangxi mientras cubría la ruta Kunming-Guangzhou, causando la muerte de las 132 personas a bordo. La investigación oficial aún no ha determinado la causa del accidente, y a 2026 no se ha publicado un informe final concluyente."
-image: 2022-03-21-vuelo-5735-china-eastern-airlines.jpg
+image: 2022-03-21-vuelo-5735-china-eastern-airlines.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/2022-03-21-vuelo-5735-china-eastern-airlines.jpg" alt="Boeing 737-800 B-1791 de China Eastern Airlines">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/2022-03-21-vuelo-5735-china-eastern-airlines.webp" alt="Boeing 737-800 B-1791 de China Eastern Airlines">
   <figcaption class="post-caption">China Eastern Airlines Boeing 737-800 B-1791 en librea "Pavo Real de Yunnan", fotografiado por Dennis HK en el Aeropuerto Internacional de Shanghai Hongqiao (ZSPD). Tomada el 28 de junio de 2018 con Canon EOS 7D Mark II, este es el mismo avión que operó el Vuelo MU5735 el 21 de marzo de 2022 antes de su accidente fatal.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
