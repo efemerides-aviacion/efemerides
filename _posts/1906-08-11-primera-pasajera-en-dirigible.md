@@ -79,7 +79,7 @@ La secuencia siguiente sitúa el vuelo en el contexto de la incorporación de la
 - **Esa misma noche:** Stevens repara el motor y reanuda el vuelo en solitario. Cruza la ciudad en oscuridad total y desciende al otro lado del río Allegheny, a una milla de la población. Declara que fue el primer vuelo nocturno que realizaba con oscuridad completa.
 - **13 de agosto de 1906:** *The Washington Times* y otros diarios publican la crónica del vuelo con un retrato de Mary Prentice Miller y el titular «Joven aeronauta impertérrita ante el accidente».
 - **1908:** Edith Berg se convierte en la primera mujer que vuela como pasajera en un aeroplano, con Wilbur Wright a los mandos, en Le Mans.
-- **1 de agosto de 1911:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1875/05/11/nacimiento-de-Harriet-quimby-licencia-piloto.html" style="color: #315fea; text-decoration: none;">Harriet Quimby obtiene la primera licencia de piloto concedida a una mujer en Estados Unidos</a>, el certificado n.º 37 del Aero Club of America.
+- **1 de agosto de 1911:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1875/05/11/nacimiento-de-harriet-quimby-licencia-piloto.html" style="color: #315fea; text-decoration: none;">Harriet Quimby obtiene la primera licencia de piloto concedida a una mujer en Estados Unidos</a>, el certificado n.º 37 del Aero Club of America.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
