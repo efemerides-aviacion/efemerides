@@ -65,7 +65,7 @@ La figura del "aeronauta" era una mezcla de científico, aventurero y showman. L
 
 - **1905:** Publica su primer libro, "Balloons, Airships and Flying Machines", una obra que recorre la historia y la tecnología del vuelo humano.
 
-- **29 de agosto de 1909:** Durante la reunión internacional de aviación en Reims, Francia, Roger Sommer la lleva como pasajera en un biplano Farman. Se convierte así en la primera mujer británica en volar en un avión.
+- **29 de agosto de 1909:** Durante la reunión internacional de aviación en Reims, Francia, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1877/08/04/nacimiento-roger-sommer.html" style="color: #315fea; text-decoration: none;">Roger Sommer</a> la lleva como pasajera en un biplano Farman. Se convierte así en la primera mujer británica en volar en un avión.
 
 - **1910:** Vuela con Douglas Graham Gilmour en un monoplano 'Big Bat'.
 

@@ -69,6 +69,7 @@ El autogiro apareció en la prensa de todo el mundo como un «paracaídas autom�
 - **20 de junio de 1920:** Cierva registra la patente del autogiro.
 - **1920-1922:** fracasan los tres primeros prototipos, C.1, C.2 y C.3. El C.1, con dos rotores coaxiales, ni siquiera despegó; el C.2 y el C.3 consiguieron únicamente pequeños saltos.
 - **1922:** Cierva concibe la articulación de batimiento durante una estancia en San Sebastián; la construye y la prueba en modelos a escala y en el túnel de viento de Cuatro Vientos.
+- **1922:** el fuselaje elegido para el C.4 procede de un monoplano Sommer, aparato del constructor y aviador francés <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1877/08/04/nacimiento-roger-sommer.html" style="color: #315fea; text-decoration: none;">Roger Sommer</a>.
 - **17 de enero de 1923:** en el aeródromo de Getafe, Gómez Spencer realiza con el C.4 el primer despegue controlado de un autogiro: un salto de 183 metros a baja altura que valida el principio.
 - **20 de enero de 1923:** durante un nuevo ensayo en Getafe, el motor se detiene en pleno vuelo. El rotor entra en autorrotación y el aparato aterriza sin daños, demostrando por primera vez en condiciones reales la seguridad intrínseca del sistema.
 - **22 de enero de 1923:** exhibición oficial en Getafe ante el General Echagüe Santoyo y Ricardo Ikuiz Ferry, presidente de la comisión del Real Aero Club.

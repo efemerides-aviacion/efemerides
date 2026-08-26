@@ -39,6 +39,7 @@ El evento se organizó durante la Exposición de Allahabad y la Kumbh Mela de 19
 
 ## Desarrollo Cronológico
 - **Previo al vuelo:** Se franquean las cartas y se aplica matasellos especial en magenta y negro.  
+- **1910:** Humber construye en Inglaterra, bajo licencia del aviador e industrial francés <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1877/08/04/nacimiento-roger-sommer.html" style="color: #315fea; text-decoration: none;">Roger Sommer</a>, el biplano que pilotará Pequet en Allahabad.  
 - **18 de febrero de 1911:** Henri Pequet despega de un campo de polo en Allahabad y aterriza en Naini tras cruzar el río Yamuna.  
 - **Destinatarios destacados:** Entre los receptores estuvieron el rey Jorge V y Jawaharlal Nehru.  
 
