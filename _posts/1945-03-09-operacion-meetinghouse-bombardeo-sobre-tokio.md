@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Japón
 operator: XXI Mando de Bombardeo de la USAAF
 excerpt: "La noche del 9 al 10 de marzo de 1945, la Operación Meetinghouse desató el bombardeo incendiario más mortífero de la historia sobre Tokio, con más de 100.000 víctimas inmediatas."
-image: 1945-03-09-operacion-meetinghouse-bombardeo-sobre-tokio.jpg
+image: 1945-03-09-operacion-meetinghouse-bombardeo-sobre-tokio.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1945-03-09-operacion-meetinghouse-bombardeo-sobre-tokio.jpg" alt="Bombardeo incendiario sobre Tokio, marzo de 1945">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1945-03-09-operacion-meetinghouse-bombardeo-sobre-tokio.webp" alt="Bombardeo incendiario sobre Tokio, marzo de 1945">
   <figcaption class="post-caption">Vista aérea del devastador bombardeo incendiario sobre Tokio (Japón) el 9 de marzo de 1945, el más mortífero de la II Guerra Mundial no nuclear: ~105.400 muertos, 267.171 edificios destruidos. Operación LeMay con 325 B-29 Superfortress a baja altitud. (Library of Congress).</figcaption>
 </figure>
 

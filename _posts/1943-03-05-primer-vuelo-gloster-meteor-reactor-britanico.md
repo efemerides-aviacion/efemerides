@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Reino Unido
 operator: Gloster Aircraft Company / RAF
 excerpt: "El 5 de marzo de 1943, el prototipo DG206/G del Gloster Meteor realizó su primer vuelo, convirtiéndose en el primer caza a reacción británico y el primero en entrar en servicio con los aliados."
-image: 1943-03-05-primer-vuelo-gloster-meteor-reactor-britanico.jpg
+image: 1943-03-05-primer-vuelo-gloster-meteor-reactor-britanico.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1943-03-05-primer-vuelo-gloster-meteor-reactor-britanico.jpg" alt="Prototipo Gloster Meteor DG206/G en 1943">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1943-03-05-primer-vuelo-gloster-meteor-reactor-britanico.webp" alt="Prototipo Gloster Meteor DG206/G en 1943">
   <figcaption class="post-caption">El quinto prototipo del Gloster Meteor, designado DG206/G, fue el primero de los ocho prototipos F.9/40 en volar. Realizó su vuelo inaugural el 5 de marzo de 1943 en RAF Cranwell, pilotado por Michael Daunt, impulsado por motores Halford H.1 (posteriormente Goblin). Fuente: BAE Systems.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

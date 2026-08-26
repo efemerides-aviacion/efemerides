@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: Lockheed Aircraft Corporation / USAAF
 excerpt: "El 8 de enero de 1944, el prototipo XP-80 Shooting Star realizó su primer vuelo, marcando el inicio de la era del jet operacional en la aviación estadounidense."
-image: 1944-01-08-primer-vuelo-lockheed-p80.jpg
+image: 1944-01-08-primer-vuelo-lockheed-p80.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-01-08-primer-vuelo-lockheed-p80.jpg" alt="Lockheed P-80 Shooting Star en su primer vuelo">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-01-08-primer-vuelo-lockheed-p80.webp" alt="Lockheed P-80 Shooting Star en su primer vuelo">
   <figcaption class="post-caption"> El prototipo XP-80 Shooting Star "Lulu-Belle" (44-83020) de Lockheed en vuelo durante pruebas (8 de enero de 1944), mostrando su diseño de caza a reacción con alas trapezoidales y motor Halford H.1, primer jet operacional del USAAF. Vintage Aviation News / National Air and Space Museum. 
 </figcaption>
 </figure>

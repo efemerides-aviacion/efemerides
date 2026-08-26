@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Alemania
 operator: Heinkel Flugzeugwerke
 excerpt: "El piloto de pruebas Helmut Schenk realizó la primera eyección documentada desde un avión en vuelo, utilizando un asiento eyectable en el Heinkel He 280."
-image: 1942-01-13-primera-eyeccion-desde-avion.jpg
+image: 1942-01-13-primera-eyeccion-desde-avion.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1942-01-13-primera-eyeccion-desde-avion.jpg" alt="Primera eyección en la historia">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1942-01-13-primera-eyeccion-desde-avion.webp" alt="Primera eyección en la historia">
   <figcaption class="post-caption">Heinkel He 280 V1, DL+AS, el primer prototipo. Las entradas y salidas del motor están carenadas. Este avión se perdió el 13 de enero de 1942. Helmut Schenk se eyectó con éxito.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

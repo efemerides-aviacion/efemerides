@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: USAF / Lockheed
 excerpt: "El 22 de marzo de 1948, el prototipo TP-80C (posteriormente T-33A) realizó su primer vuelo en Burbank, California, pilotado por Tony LeVier. Derivado del caza F-80, el T-33 se convirtió en el entrenador a reacción más producido y utilizado de la historia, con más de 6.500 unidades construidas y un servicio que abarcó casi siete décadas en decenas de fuerzas aéreas de todo el mundo."
-image: 1948-03-22-primer-vuelo-t33-shooting-star.jpg
+image: 1948-03-22-primer-vuelo-t33-shooting-star.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1948-03-22-primer-vuelo-t33-shooting-star.jpg" alt="Lockheed T-33 Shooting Star">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1948-03-22-primer-vuelo-t33-shooting-star.webp" alt="Lockheed T-33 Shooting Star">
   <figcaption class="post-caption">Prototipo Lockheed TP-80C-1-LO (48-356) junto a un P-80C-1-LO Shooting Star (47-173) en el Aeropuerto de Van Nuys, California, durante el desarrollo del entrenador biplaza derivado del P-80. Circa marzo de 1948. Fuente: This Day in Aviation.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

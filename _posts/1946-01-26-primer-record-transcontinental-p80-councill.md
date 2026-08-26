@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Estados Unidos
 operator: USAAF / USAF
 excerpt: "El Coronel William H. Councill estableció el primer récord transcontinental a reacción en EE.UU. con un Lockheed P‑80."
-image: 1946-01-26-primer-record-transcontinental-p80-councill.jpg
+image: 1946-01-26-primer-record-transcontinental-p80-councill.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1946-01-26-primer-record-transcontinental-p80-councill.jpg" alt="William Councill y su P-80 tras récord transcontinental">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1946-01-26-primer-record-transcontinental-p80-councill.webp" alt="William Councill y su P-80 tras récord transcontinental">
   <figcaption class="post-caption">Coronel William Haldane Councill saludando desde la cabina del Lockheed P-80A-1-LO Shooting Star 44-84999, ca. 1945-1946, contextualizando la era de los primeros jets en EE.UU. que culminó con su récord transcontinental a reacción el 26 de enero de 1946 (Hollywood a Nueva York, 3h 46min) en P-80 44-85123. U.S. Army Air Forces (archivos históricos)</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

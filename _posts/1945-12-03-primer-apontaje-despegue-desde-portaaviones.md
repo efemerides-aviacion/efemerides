@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Reino Unido
 operator: Royal Navy
 excerpt: "El 3 de diciembre de 1945, el Capitán Eric 'Winkle' Brown realizó el primer apontaje y despegue de un avión a reacción en un portaaviones en movimiento, marcando el inicio de la era del reactor en la aviación naval."
-image: 1945-12-03-primer-apontaje-despegue-desde-portaaviones.jpg
+image: 1945-12-03-primer-apontaje-despegue-desde-portaaviones.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1945-12-03-primer-apontaje-despegue-desde-portaaviones.jpg" alt="Sea Vampire LZ551/G en el HMS Ocean, 1945">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1945-12-03-primer-apontaje-despegue-desde-portaaviones.webp" alt="Sea Vampire LZ551/G en el HMS Ocean, 1945">
   <figcaption class="post-caption">De Havilland Sea Vampire Mk.10 LZ551/G atrapa el cable de detención a bordo del HMS Ocean el 3 de diciembre de 1945, primer apontaje de un jet en un portaaviones por el Lt. Cdr. Eric “Winkle” Brown. This Day in Aviation / IWM (A 31015).
 </figcaption>
 </figure>
