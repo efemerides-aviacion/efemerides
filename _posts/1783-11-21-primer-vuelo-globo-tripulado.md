@@ -108,8 +108,8 @@ Finalmente, el globo descendió suavemente y aterrizó entre dos molinos de vien
 - **27 de agosto de 1783:** Jacques Charles lanza el primer globo de hidrógeno no tripulado en París
 - **19 de septiembre de 1783:** Vuelo de un globo Montgolfier con animales (oveja, pato, gallo) en Versalles, ante el rey Luis XVI 
 - **21 de noviembre de 1783:** Primer vuelo tripulado de la historia por de Rozier y d'Arlandes en París 
-- **1 de diciembre de 1783:** Jacques Charles y Nicolas-Louis Robert [realizan el primer vuelo tripulado en globo de hidrógeno](https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html)   
-- **7 de enero de 1785:** Jean-Pierre Blanchard y John Jeffries [cruzan el Canal de la Mancha en globo](https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html)  
+- **1 de diciembre de 1783:** Jacques Charles y Nicolas-Louis Robert <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">realizan el primer vuelo tripulado en globo de hidrógeno</a>   
+- **7 de enero de 1785:** Jean-Pierre Blanchard y John Jeffries <a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html" style="color: #315fea; text-decoration: none;">cruzan el Canal de la Mancha en globo</a>  
 - **15 de junio de 1785:** Pilâtre de Rozier fallece al estrellarse su globo al intentar cruzar el Canal de la Mancha 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

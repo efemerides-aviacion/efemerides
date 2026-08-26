@@ -55,7 +55,7 @@ El 17 de mayo de 1913, el aviador cubano Domingo Rosillo del Toro realizó el pr
 
 A principios del siglo XX, la aviación vivía su "época heroica". Los vuelos de larga distancia eran proezas que capturaban la imaginación del público y atraían grandes premios en efectivo. El Ayuntamiento de La Habana, deseoso de conectar la isla con el continente y de fomentar el desarrollo de la aviación, ofreció un premio de 10.000 dólares al primer aviador que lograra cruzar el Estrecho de Florida entre Key West y la capital cubana.
 
-Un antecedente importante fue el intento fallido del aviador canadiense J. A. D. McCurdy el 30 de enero de 1911, quien tuvo que amerizar a 16 km de la costa cubana debido a una avería en el motor (puede consultar la efeméride dedicada al **[amerizaje y rescate de McCurdy](https://efemerides-aviacion.github.io/efemerides/evento/1911/01/30/amerizaje-rescate-de-mccurdy-y-aeronave.html)**).
+Un antecedente importante fue el intento fallido del aviador canadiense J. A. D. McCurdy el 30 de enero de 1911, quien tuvo que amerizar a 16 km de la costa cubana debido a una avería en el motor (puede consultar la efeméride dedicada al **<a href="https://efemerides-aviacion.github.io/efemerides/evento/1911/01/30/amerizaje-rescate-de-mccurdy-y-aeronave.html" style="color: #315fea; text-decoration: none;">amerizaje y rescate de McCurdy</a>**).
 
 ### El contexto geopolítico
 
