@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Venezuela
 operator: Viasa / Avensa
 excerpt: "El 16 de marzo de 1969, el vuelo 742 de Viasa se estrelló segundos después de despegar del Aeropuerto Grano de Oro en Maracaibo, cobrando la vida de 155 personas entre ocupantes y residentes en tierra. Una combinación de sobrepeso, pista corta, alta temperatura y error humano convirtieron este siniestro en la peor tragedia aérea de Venezuela hasta 2005 y en el accidente más mortífero del mundo en su momento."
-image: 1969-03-16-accidente-vuelo-viasa-742.jpg
+image: 1969-03-16-accidente-vuelo-viasa-742.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-03-16-accidente-vuelo-viasa-742.jpg" alt="McDonnell Douglas DC-9-32 de Viasa">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-03-16-accidente-vuelo-viasa-742.webp" alt="McDonnell Douglas DC-9-32 de Viasa">
   <figcaption class="post-caption">El McDonnell Douglas DC‑9‑32 matrícula YV‑C‑AVD de VIASA, fotografiado en plataforma del Long Beach Municipal Airport (LGB), California, durante pruebas y alistamiento en febrero de 1969, pocas semanas antes del accidente de Maracaibo; imagen reproducida por cortesía de Werner Fischdick y publicada por Aviation Safety Network.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

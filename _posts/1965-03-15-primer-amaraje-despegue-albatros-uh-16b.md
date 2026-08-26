@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Argentina
 operator: Fuerza Aérea Argentina
 excerpt: "El 15 de marzo de 1965, un Grumman UH-16B Albatross de la Fuerza Aérea Argentina realizó el primer y único amaraje y despegue de este tipo de aeronave en la Antártida, en una misión de apoyo logístico desde la Base Matienzo, marcando un hito en la proyección aérea argentina sobre el continente blanco."
-image: 1965-03-15-primer-amaraje-despegue-albatros-uh-16b.jpg
+image: 1965-03-15-primer-amaraje-despegue-albatros-uh-16b.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1965-03-15-primer-amaraje-despegue-albatros-uh-16b.jpg" alt="Grumman UH-16B Albatross BS-03">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1965-03-15-primer-amaraje-despegue-albatros-uh-16b.webp" alt="Grumman UH-16B Albatross BS-03">
   <figcaption class="post-caption">El Grumman Albatross BS-03 de la Fuerza Aérea Argentina aparece sobre el hielo antártico durante la operación de la Base Matienzo, hacia marzo de 1965. Museo Nacional de Aeronáutica, Departamento de Investigaciones Históricas MNA.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

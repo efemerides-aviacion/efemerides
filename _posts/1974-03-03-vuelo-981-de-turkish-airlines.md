@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Turquía / Francia
 operator: Turkish Airlines
 excerpt: "El 3 de marzo de 1974, el Vuelo 981 de Turkish Airlines se estrelló cerca de París, causando la muerte de 346 personas. El accidente reveló graves fallos de diseño en el DC-10."
-image: 1974-03-03-vuelo-981-de-turkish-airlines.jpg
+image: 1974-03-03-vuelo-981-de-turkish-airlines.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1974-03-03-vuelo-981-de-turkish-airlines.jpg" alt="McDonnell Douglas DC-10 TC-JAV de Turkish Airlines">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1974-03-03-vuelo-981-de-turkish-airlines.webp" alt="McDonnell Douglas DC-10 TC-JAV de Turkish Airlines">
   <figcaption class="post-caption">El McDonnell Douglas DC-10-10 de Turkish Airlines, matrícula TC-JAV “Ankara”, fotografiado en París-Orly entre 1972 y 1973. La aeronave se accidentaría trágicamente el 3 de marzo de 1974 en el Vuelo 981. AirHistory.net (Foto ID: 624098 / Colección Bob Garrard).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

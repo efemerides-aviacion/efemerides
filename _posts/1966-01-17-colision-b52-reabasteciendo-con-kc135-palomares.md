@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: España
 operator: USAF
 excerpt: "Colisión en maniobra de reabastecimiento entre un B-52G y un KC-135 sobre Palomares, que provocó la caída de cuatro bombas nucleares."
-image: 1966-01-17-colision-b52-reabasteciendo-con-kc135-palomares.jpg
+image: 1966-01-17-colision-b52-reabasteciendo-con-kc135-palomares.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1966-01-17-colision-b52-reabasteciendo-con-kc135-palomares.jpg" alt="B-52 repostando con KC-135">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1966-01-17-colision-b52-reabasteciendo-con-kc135-palomares.webp" alt="B-52 repostando con KC-135">
   <figcaption class="post-caption">Maniobra de reabastecimiento aéreo entre un B-52 Stratofortress y un KC-135 Stratotanker durante Operation Chrome Dome, similar a las aeronaves involucradas en la colisión fatal del 17 de enero de 1966 sobre Palomares que liberó cuatro bombas nucleares." Fecha: Años 1960 (antes de 17/01/1966). Fuente: https://theaviationgeekclub.com/remembering-operation-chrome-dome-the-1960s-airborne-alert-missions-flown-by-b-52-strategic-bombers-armed-with-thermonuclear-weapons/</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

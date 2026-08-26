@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Luxemburgo
 operator: Cargolux Airlines International S.A.
 excerpt: "El 4 de marzo de 1970 se fundó en Luxemburgo Cargolux, la primera aerolínea de carga de Europa y una de las diez más importantes del mundo."
-image: 1970-03-04-primera-aerolinea-carga-europa.jpg
+image: 1970-03-04-primera-aerolinea-carga-europa.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1970-03-04-primera-aerolinea-carga-europa.jpg" alt="Canadair CL-44 de Cargolux en la década de 1970">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1970-03-04-primera-aerolinea-carga-europa.webp" alt="Canadair CL-44 de Cargolux en la década de 1970">
   <figcaption class="post-caption">El Canadair CL-44 con matrícula TF-LLJ, uno de los primeros aviones utilizados por Cargolux en la década de 1970, poco después de su fundación. Operado originalmente por Loftleiðir, representa los inicios de la aerolínea de carga. Air Cargo News / DVV Media.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

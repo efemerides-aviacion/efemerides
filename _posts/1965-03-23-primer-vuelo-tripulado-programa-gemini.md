@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA
 excerpt: "El 23 de marzo de 1965, la misión Gemini 3 despegó desde Cabo Cañaveral con los astronautas Gus Grissom y John Young a bordo, marcando el primer vuelo espacial tripulado de Estados Unidos con dos personas y demostrando las maniobras orbitales esenciales para el programa Apolo."
-image: 1965-03-23-primer-vuelo-tripulado-programa-gemini.jpg
+image: 1965-03-23-primer-vuelo-tripulado-programa-gemini.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1965-03-23-primer-vuelo-tripulado-programa-gemini.jpg" alt="Gemini 3">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1965-03-23-primer-vuelo-tripulado-programa-gemini.webp" alt="Gemini 3">
   <figcaption class="post-caption">Astronautas Virgil I. “Gus” Grissom (izquierda) y John W. Young en la cabina de Gemini 3 durante el primer vuelo tripulado del programa Gemini, el 23 de marzo de 1965. Créditos: NASA.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">

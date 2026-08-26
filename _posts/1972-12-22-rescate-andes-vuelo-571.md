@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Uruguay / Chile / Argentina
 operator: Fuerza Aérea Chilena (SAR)
 excerpt: "El 22 de diciembre de 1972, helicópteros chilenos rescataron a los sobrevivientes del Vuelo 571 de la Fuerza Aérea Uruguaya, tras 72 días de aislamiento en los Andes."
-image: 1972-12-22-rescate-andes-vuelo-571.jpg
+image: 1972-12-22-rescate-andes-vuelo-571.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1972-12-22-rescate-andes-vuelo-571.jpg" alt="Rescate sobrevivientes Vuelo 571 Andes">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1972-12-22-rescate-andes-vuelo-571.webp" alt="Rescate sobrevivientes Vuelo 571 Andes">
   <figcaption class="post-caption">Fernando Parrado (izquierda) y Roberto Canessa (derecha) junto al arriero chileno Sergio Catalán (centro), quien dio la noticia de los supervivientes el 20 de diciembre de 1972 y posibilitó el rescate. Fuente: Archivo histórico de prensa chilena.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

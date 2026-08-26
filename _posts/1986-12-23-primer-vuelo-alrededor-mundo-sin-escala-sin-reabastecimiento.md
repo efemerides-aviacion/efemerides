@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: Experimental – Rutan Voyager Project
 excerpt: "El 23 de diciembre de 1986, el Rutan Voyager completó el primer vuelo alrededor del mundo sin escalas ni reabastecimiento, pilotado por Dick Rutan y Jeana Yeager."
-image: 1986-12-23-primer-vuelo-alrededor-mundo-sin-escala-sin-reabastecimiento.jpg
+image: 1986-12-23-primer-vuelo-alrededor-mundo-sin-escala-sin-reabastecimiento.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1986-12-23-primer-vuelo-alrededor-mundo-sin-escala-sin-reabastecimiento.jpg" alt="Llegada del Rutan Voyager a Edwards, 1986">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1986-12-23-primer-vuelo-alrededor-mundo-sin-escala-sin-reabastecimiento.webp" alt="Llegada del Rutan Voyager a Edwards, 1986">
   <figcaption class="post-caption">Llegada del Rutan Voyager a la Base Aérea Edwards el 23 de diciembre de 1986, después de completar el primer vuelo alrededor del mundo sin escalas ni reabastecimiento. La aeronave, pilotada por Dick Rutan y Jeana Yeager, recorrió 40.212 km en 9 días, 3 minutos y 44 segundos. NASA / Thomas Harrop (EC87-0029-02).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
