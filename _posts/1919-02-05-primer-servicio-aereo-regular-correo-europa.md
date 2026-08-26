@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Alemania
 operator: Deutsche Luft-Reederei (DLR)
 excerpt: "El 5 de febrero de 1919, la Deutsche Luft-Reederei inauguró desde Berlín-Johannisthal el primer servicio aéreo regular de correos y periódicos en Europa, con destino a Weimar."
-image: 1919-02-05-primer-servicio-aereo-regular-correo-europa.jpg
+image: 1919-02-05-primer-servicio-aereo-regular-correo-europa.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1919-02-05-primer-servicio-aereo-regular-correo-europa.jpg" alt="Servicio aéreo postal de la DLR en 1919">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1919-02-05-primer-servicio-aereo-regular-correo-europa.webp" alt="Servicio aéreo postal de la DLR en 1919">
   <figcaption class="post-caption">Carga de paquetes postales en un LVG C.VI de la Deutsche Luft-Reederei (DLR) en condiciones de nieve, circa 1919. Fuente: Wikipedia "Deutsche Luft-Reederei".</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

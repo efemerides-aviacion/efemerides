@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Chile
 operator: Hermanos César y Félix Copetta / Luis Omar Page (Piloto)
 excerpt: "El 16 de febrero de 1914 se realizó en Batuco el primer vuelo del biplano 'Batuco', construido íntegramente en Chile por los hermanos Copetta y pilotado por Luis Omar Page."
-image: 1914-02-16-primer-vuelo-avion-construido-chile.jpg
+image: 1914-02-16-primer-vuelo-avion-construido-chile.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1914-02-16-primer-vuelo-avion-construido-chile.jpg" alt="Biplano Batuco en vuelo de prueba, 1914">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1914-02-16-primer-vuelo-avion-construido-chile.webp" alt="Biplano Batuco en vuelo de prueba, 1914">
   <figcaption class="post-caption">El aviador Luis Omar Page en los mandos del biplano “Batuco” construido por los hermanos Copetta. Segunda persona en cabina no identificada en la fuente. (Foto: Blog ‘Aeródromo de Batuco, rescate de una historia’ / Danilo Villarroel Canga, 2016).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

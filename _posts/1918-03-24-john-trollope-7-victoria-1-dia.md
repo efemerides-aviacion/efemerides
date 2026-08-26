@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Reino Unido
 operator: Royal Flying Corps / Royal Air Force
 excerpt: "El 24 de marzo de 1918, el Capitán John Lightfoot Trollope del Escuadrón No. 43 se convirtió en el primer piloto británico en derribar siete aviones enemigos en un solo día, una hazaña que lo consolidó como uno de los ases más destacados de la Primera Guerra Mundial."
-image: 1918-03-24-john-trollope-7-victoria-1-dia.jpg
+image: 1918-03-24-john-trollope-7-victoria-1-dia.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1918-03-24-john-trollope-7-victoria-1-dia.jpg" alt="John Lightfoot Trollope">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1918-03-24-john-trollope-7-victoria-1-dia.webp" alt="John Lightfoot Trollope">
   <figcaption class="post-caption">Capitán John Lightfoot Trollope en la cabina de su Sopwith Camel, marzo 1918 (período de sus 7 victorias el 24/03/1918). Fotografía histórica del as británico del Escuadrón No. 43 de la RAF.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

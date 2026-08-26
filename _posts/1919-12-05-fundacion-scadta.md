@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Colombia
 operator: SCADTA (Sociedad Colombo Alemana de Transportes Aéreos)
 excerpt: "El 5 de diciembre de 1919 se fundó en Barranquilla la Sociedad Colombo Alemana de Transportes Aéreos (SCADTA), precursora de Avianca y segunda aerolínea más antigua del mundo en operación continua."
-image: 1919-12-05-fundacion-scadta.jpg
+image: 1919-12-05-fundacion-scadta.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1919-12-05-fundacion-scadta.jpg" alt="SCADTA Junkers W 34 en el río Magdalena, circa 1920">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1919-12-05-fundacion-scadta.webp" alt="SCADTA Junkers W 34 en el río Magdalena, circa 1920">
   <figcaption class="post-caption">SCADTA Junkers W 34 operando sobre el río Magdalena, circa 1920. (Fuente: Avianca / archivos históricos).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

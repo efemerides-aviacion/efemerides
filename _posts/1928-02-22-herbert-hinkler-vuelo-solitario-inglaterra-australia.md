@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Australia
 operator: Bert Hinkler
 excerpt: "El 22 de febrero de 1928, Bert Hinkler completó el primer vuelo en solitario de Inglaterra a Australia en su Avro Avian G-EBOV."
-image: 1928-02-22-herbert-hinkler-vuelo-solitario-inglaterra-australia.jpg
+image: 1928-02-22-herbert-hinkler-vuelo-solitario-inglaterra-australia.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1928-02-22-herbert-hinkler-vuelo-solitario-inglaterra-australia.jpg" alt="Bert Hinkler con su Avro Avian G-EBOV en Darwin, 1928">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1928-02-22-herbert-hinkler-vuelo-solitario-inglaterra-australia.webp" alt="Bert Hinkler con su Avro Avian G-EBOV en Darwin, 1928">
   <figcaption class="post-caption">Bert Hinkler con su Avro 581E Avian G-EBOV al completar el primer vuelo solo Inglaterra–Australia en Darwin, 22 feb 1928. (Foto: This Day in Aviation).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Venezuela
 operator: Ryan NYP Spirit of St. Louis
 excerpt: "El 29 de enero de 1928 Charles Lindbergh aterrizó en Maracay durante su gira de buena voluntad por América Latina."
-image: 1928-01-29-charles-lindbergh-maracay.jpg
+image: 1928-01-29-charles-lindbergh-maracay.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1928-01-29-charles-lindbergh-maracay.jpg" alt="Charles Lindbergh en Maracay, 1928">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1928-01-29-charles-lindbergh-maracay.webp" alt="Charles Lindbergh en Maracay, 1928">
   <figcaption class="post-caption">Publicación sobre la recepción de Charles Lindbergh en Maracay por el General Juan Vicente Gómez, presidente de Venezuela (29/01/1928).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

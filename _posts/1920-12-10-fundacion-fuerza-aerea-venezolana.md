@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Venezuela
 operator: Escuela de Aviación Militar (origen de la Fuerza Aérea Venezolana)
 excerpt: "El 10 de diciembre de 1920 se instaló oficialmente la Escuela de Aviación Militar en Maracay, dando origen a la Fuerza Aérea Venezolana, con apoyo de pilotos extranjeros y visión política de Juan Vicente Gómez."
-image: 1920-12-10-fundacion-fuerza-aerea-venezolana.jpg
+image: 1920-12-10-fundacion-fuerza-aerea-venezolana.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1920-12-10-fundacion-fuerza-aerea-venezolana.jpg" alt="Acta fundacional y avión Caudron G-3">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1920-12-10-fundacion-fuerza-aerea-venezolana.webp" alt="Acta fundacional y avión Caudron G-3">
   <figcaption class="post-caption">A la izquierda, el Acta o Decreto de Fundación de la Escuela de Aviación Militar; a la derecha, el Caudron G-3, entrenador de los primeros pilotos venezolanos. (Fuente: Biblioteca Nacional de Venezuela / Aviación Militar Bolivariana).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
