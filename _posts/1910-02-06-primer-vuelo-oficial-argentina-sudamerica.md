@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Argentina
 operator: Aero Club Argentino
 excerpt: "El 6 de febrero de 1910, Henri Brégi realizó el primer vuelo oficial controlado a motor en Argentina y Sudamérica, en un biplano Voisin de 60 HP sobre el hipódromo de Longchamps."
-image: 1910-02-06-primer-vuelo-oficial-argentina-sudamerica.jpg
+image: 1910-02-06-primer-vuelo-oficial-argentina-sudamerica.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1910-02-06-primer-vuelo-oficial-argentina-sudamerica.jpg" alt="Henri Brégi en su biplano Voisin">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1910-02-06-primer-vuelo-oficial-argentina-sudamerica.webp" alt="Henri Brégi en su biplano Voisin">
   <figcaption class="post-caption">Henri Brégi vuela su Voisin biplano sobre el hipódromo de Longchamps, provincia de Buenos Aires, durante el primer vuelo mecanizado y controlado de Sudamérica, 6 de febrero de 1910. Fuente: Archivo histórico argentino, reproducida en TodoProvincial (https://www.todoprovincial.com) y otros portales sobre el primer vuelo a motor en Longchamps.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

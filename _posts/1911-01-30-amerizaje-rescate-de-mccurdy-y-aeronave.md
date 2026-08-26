@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos / Cuba
 operator: J.A.D. McCurdy / Curtiss
 excerpt: "El 30 de enero de 1911, John Alexander Douglas McCurdy intentó el primer vuelo sin escalas entre Key West y La Habana. Tras una avería, amerizó y fue rescatado por la US Navy, en el primer operativo exitoso de rescate aéreo en el mar."
-image: 1911-01-30-amerizaje-rescate-de-mccurdy-y-aeronave.jpg
+image: 1911-01-30-amerizaje-rescate-de-mccurdy-y-aeronave.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-01-30-amerizaje-rescate-de-mccurdy-y-aeronave.jpg" alt="Rescate de McCurdy tras amerizaje en 1911">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-01-30-amerizaje-rescate-de-mccurdy-y-aeronave.webp" alt="Rescate de McCurdy tras amerizaje en 1911">
   <figcaption class="post-caption">Rescate de J.A.D. McCurdy y de su aeronave por el bote salvavidas del USS Terry tras amerizaje forzoso de su biplano Curtiss con flotadores, en intento de vuelo Key West (Florida) a La Habana (Cuba), 30 de enero de 1911. Monroe County Public Library, Florida Keys.</figcaption>
 </figure>
 

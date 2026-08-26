@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: Aerial Experiment Association (AEA)
 excerpt: "El 12 de marzo de 1908, el biplano AEA Red Wing, primer diseño de la Aerial Experiment Association liderada por Alexander Graham Bell y Glenn Curtiss, realizó su primer vuelo público sobre el lago Keuka congelado en Nueva York, marcando un hito en la aviación estadounidense."
-image: 1908-03-12-primer-vuelo-red-wing.jpg
+image: 1908-03-12-primer-vuelo-red-wing.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1908-03-12-primer-vuelo-red-wing.jpg" alt="AEA Red Wing">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1908-03-12-primer-vuelo-red-wing.webp" alt="AEA Red Wing">
   <figcaption class="post-caption">AEA Red Wing sobre el lago Keuka congelado (Hammondsport, NY), 12 de marzo de 1908. Primer vuelo público en EE.UU. pilotado por Frederick W. Baldwin. (Foto: Museum of Flight / Air Force Historical Foundation)</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

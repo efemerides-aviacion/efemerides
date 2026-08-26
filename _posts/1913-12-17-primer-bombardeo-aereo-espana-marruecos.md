@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: España
 operator: Aeronáutica Militar Española
 excerpt: "El 17 de diciembre de 1913, la aviación militar española realizó su primera misión de bombardeo aéreo en Marruecos, con un Lohner Tipo Flecha pilotado por Eduardo Barrón y José Ortiz de Echagüe."
-image: 1913-12-17-primer-bombardeo-aereo-espana-marruecos.jpg
+image: 1913-12-17-primer-bombardeo-aereo-espana-marruecos.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1913-12-17-primer-bombardeo-aereo-espana-marruecos.jpg" alt="Barrón y Cifuentes sobre aeroplano Lohner preparados para misión de bombardeo">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1913-12-17-primer-bombardeo-aereo-espana-marruecos.webp" alt="Barrón y Cifuentes sobre aeroplano Lohner preparados para misión de bombardeo">
   <figcaption class="post-caption">Barrón (delante) y Cifuentes sobre aeroplano Lohner preparados para salir en misión de bombardeo, equipados con bombas Carbonit de 10 kg. (Fuente: Archivo Histórico del Ejército del Aire).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

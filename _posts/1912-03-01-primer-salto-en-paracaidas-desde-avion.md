@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: US Army
 excerpt: "El Capitán Albert Berry realizó el primer salto en paracaídas documentado desde un avión, sobre Jefferson Barracks, Missouri."
-image: 1912-03-01-primer-salto-en-paracaidas-desde-avion.jpg
+image: 1912-03-01-primer-salto-en-paracaidas-desde-avion.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1912-03-01-primer-salto-en-paracaidas-desde-avion.jpg" alt="Albert Berry realiza el primer salto en paracaídas desde avión, 1912">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1912-03-01-primer-salto-en-paracaidas-desde-avion.webp" alt="Albert Berry realiza el primer salto en paracaídas desde avión, 1912">
   <figcaption class="post-caption">Albert Berry realiza el primer salto en paracaídas desde avión, biplano Benoist de Tony Jannus, Jefferson Barracks, 1 marzo 1912 (Missouri Historical Society).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

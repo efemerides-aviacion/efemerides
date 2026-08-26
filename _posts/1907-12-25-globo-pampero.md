@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Argentina-Uruguay
 operator: "NO CONFIRMADO: no aplica operador formal"
 excerpt: "El globo Pampero realizó la primera travesía aérea sobre el Río de la Plata, uniendo Buenos Aires con la costa uruguaya."
-image: 1907-12-25-globo-pampero.jpg
+image: 1907-12-25-globo-pampero.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1907-12-25-globo-pampero.jpg" alt="El globo aerostático Pampero">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1907-12-25-globo-pampero.webp" alt="El globo aerostático Pampero">
   <figcaption class="post-caption">Globo aerostático ‘Pampero’ del Aero Club Argentino, antes de su histórico primer vuelo cruzando el Río de la Plata (Buenos Aires a Conchillas, Uruguay), 25 dic 1907. Wikipedia / Archivo ACA.</figcaption>
 </figure>
 

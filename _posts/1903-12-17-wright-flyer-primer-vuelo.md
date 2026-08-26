@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: Hermanos Wright
 excerpt: "El 17 de diciembre de 1903, Orville y Wilbur Wright lograron el primer vuelo sostenido y controlado de una máquina más pesada que el aire, marcando el inicio de la aviación moderna."
-image: 1903-12-17-wright-flyer-primer-vuelo.jpg
+image: 1903-12-17-wright-flyer-primer-vuelo.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1903-12-17-wright-flyer-primer-vuelo.jpg" alt="Orville Wright pilotando el Wright Flyer en Kitty Hawk">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1903-12-17-wright-flyer-primer-vuelo.webp" alt="Orville Wright pilotando el Wright Flyer en Kitty Hawk">
   <figcaption class="post-caption">Los 12 históricos segundos durante los que Wilbur (derecha) vio volar a su hermano Orville en el Wright Flyer, Kill Devil Hills, Carolina del Norte, 17 de diciembre de 1903. (Fuente: Smithsonian Institution).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

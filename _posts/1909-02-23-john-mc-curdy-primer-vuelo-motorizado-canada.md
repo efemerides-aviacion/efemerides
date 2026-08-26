@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Canadá
 operator: John A. D. McCurdy / Aerial Experiment Association
 excerpt: "El 23 de febrero de 1909, John A. D. McCurdy pilotó el Silver Dart en Baddeck Bay, logrando el primer vuelo motorizado en Canadá y en todo el Imperio Británico."
-image: 1909-02-23-john-mc-curdy-primer-vuelo-motorizado-canada.jpg
+image: 1909-02-23-john-mc-curdy-primer-vuelo-motorizado-canada.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1909-02-23-john-mc-curdy-primer-vuelo-motorizado-canada.jpg" alt="John A. D. McCurdy en el Silver Dart, primer vuelo motorizado en Canadá, 1909">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1909-02-23-john-mc-curdy-primer-vuelo-motorizado-canada.webp" alt="John A. D. McCurdy en el Silver Dart, primer vuelo motorizado en Canadá, 1909">
   <figcaption class="post-caption">John A. D. McCurdy en el Silver Dart, primer vuelo motorizado en Canadá (Baddeck, 23 feb 1909). Nova Scotia Archives, ref. J.A.D. McCurdy 2007-058 vol. 003 no. 11.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
