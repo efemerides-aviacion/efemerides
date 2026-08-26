@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Venezuela / Inglaterra
 operator: FAV / RAF
 excerpt: "El 20 de marzo de 1949, el Capitán Roberto José Mora Contreras realizó el primer vuelo en solitario de un piloto venezolano a bordo de un Gloster Meteor F.Mk.8 en Inglaterra, como parte de las evaluaciones previas a la adquisición de los primeros aviones a reacción para la Fuerza Aérea Venezolana."
-image: 1949-03-20-primer-vuelo-roberto-mora-globster-meteor.jpg
+image: 1949-03-20-primer-vuelo-roberto-mora-globster-meteor.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1949-03-20-primer-vuelo-roberto-mora-globster-meteor.jpg" alt="Roberto Mora y Gloster Meteor">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1949-03-20-primer-vuelo-roberto-mora-globster-meteor.webp" alt="Roberto Mora y Gloster Meteor">
   <figcaption class="post-caption">Capitán Roberto Mora Contreras con directivos de Gloster Aircraft (Fitzgibbon, Corse y Teniente Waterson) ante Meteor, Gloucestershire, noviembre 1948. Archivo Arturo Soto / FAVClub (favclubven.wordpress.com).
 </figcaption>
 </figure>

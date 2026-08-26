@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Venezuela
 operator: Fuerza Aérea Venezolana
 excerpt: "El 9 de diciembre de 1955 se inauguró oficialmente la Base Aérea El Libertador en Palo Negro, Aragua, consolidándose como la mayor instalación aérea de Venezuela."
-image: 1955-12-09-inauguracion-base-aerea-el-libertador.jpg
+image: 1955-12-09-inauguracion-base-aerea-el-libertador.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1955-12-09-inauguracion-base-aerea-el-libertador.jpg" alt="Marcos Pérez Jiménez en la inauguración de la BAEL">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1955-12-09-inauguracion-base-aerea-el-libertador.webp" alt="Marcos Pérez Jiménez en la inauguración de la BAEL">
   <figcaption class="post-caption">Marcos Pérez Jiménez pasando revista en las instalaciones de la Base Aérea El Libertador en Palo Negro, Aragua, el día de su inauguración, 9 de diciembre de 1955. (Fuente: Archivo oficial / Aviación Militar Bolivariana).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

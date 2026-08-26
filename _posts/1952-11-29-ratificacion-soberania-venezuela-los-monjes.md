@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: [Venezuela]
 operator: [Fuerza Aérea Venezolana (FAV) / Armada Nacional]
 excerpt: "Venezuela ratifica su soberanía sobre el Archipiélago Los Monjes tras un intercambio diplomático con Colombia, apoyado por un despliegue de presencia aeronaval."
-image: "1952-11-29-ratificacion-soberania-venezuela-los-monjes.jpg"
+image: "1952-11-29-ratificacion-soberania-venezuela-los-monjes.webp"
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-11-29-ratificacion-soberania-venezuela-los-monjes.jpg" alt="Bandera de Venezuela izada en el Archipiélago LOs Monjes">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-11-29-ratificacion-soberania-venezuela-los-monjes.webp" alt="Bandera de Venezuela izada en el Archipiélago LOs Monjes">
   <figcaption class="post-caption">Autoridades militares y civiles venezolanas izan oficialmente la bandera nacional en el territorio de Los Monjes, el 29 de noviembre de 1952, reafirmando así la soberanía de Venezuela. Marcos Pérez Jiménez, séptimo de izquierda a derecha, también se encuenta Luis Llovera Páez. Wikimedia Commons.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

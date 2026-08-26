@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Venezuela
 operator: Fuerza Aérea Venezolana / USAF
 excerpt: "El 10 de febrero de 1955, tres Alféreces de la Escuela de Aviación Militar se convirtieron en los primeros pilotos de la Fuerza Aérea Venezolana en romper la barrera del sonido a bordo de cazas North American F‑86F Sabre en la Base Aérea Nellis."
-image: 1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.jpg
+image: 1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.jpg" alt="Pilotos venezolanos reciben diploma tras romper la barrera del sonido">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.webp" alt="Pilotos venezolanos reciben diploma tras romper la barrera del sonido">
   <figcaption class="post-caption">En la foto, Donald Wolfe representante de North American, entrega a los jóvenes pilotos (de izq. a der.) Pascual Azara Azara, Leonidas Marquina Dugarte y Braulio Martínez Zerpa el diploma y el pin que los acredita como miembros del Club Supersónico. Fuente: https://www.facebook.com/fuerzaaereavenezolana.fav</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

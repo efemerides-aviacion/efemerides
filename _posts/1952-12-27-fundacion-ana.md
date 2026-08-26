@@ -6,11 +6,11 @@ categories: [fundacion]
 author: Enrique Pomares
 pais: Japón
 excerpt: "Japan Helicopter & Aeroplane Transports Co., Ltd. da origen a All Nippon Airways (ANA), que evolucionará de helicópteros a una aerolínea líder."
-image: 1952-12-27-fundacion-ana.jpg
+image: 1952-12-27-fundacion-ana.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-12-27-fundacion-ana.jpg" alt="Fundadores de Nippon Helicopter & Aeroplane y un Bell 47D-1">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-12-27-fundacion-ana.webp" alt="Fundadores de Nippon Helicopter & Aeroplane y un Bell 47D-1">
   <figcaption class="post-caption">Fundadores de Nippon Helicopter & Aeroplane y un Bell 47D-1 circa diciembre de 1952. Wikimedia Common</figcaption>
 </figure>
 

@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Italia / Reino Unido
 operator: BOAC
 excerpt: "Accidente del De Havilland Comet en ruta Roma–Londres por descompresión explosiva debida a fatiga estructural en zonas críticas del fuselaje."
-image: 1954-01-10-descompresion-explosiva-comet-boac.jpg
+image: 1954-01-10-descompresion-explosiva-comet-boac.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1954-01-10-descompresion-explosiva-comet-boac.jpg" alt="Accidente del Comet de BOAC en 1954">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1954-01-10-descompresion-explosiva-comet-boac.webp" alt="Accidente del Comet de BOAC en 1954">
   <figcaption class="post-caption">Diagrama de descompresión explosiva del De Havilland Comet I (BOAC Vuelo 781): Muestra la falla por fatiga estructural en el fuselaje presurizado (ventanas ADF, largueros y costillas centrales), que provocó la ruptura en vuelo el 10 de enero de 1954 sobre el mar Tirreno, matando a 35 personas. Imagen editada por el investigador. Fuente: https://www.reddit.com/r/CatastrophicFailure/comments/11uv40y/1954_the_story_of_the_de_havilland_comet_and_the/.</figcaption>
 </figure>
 
