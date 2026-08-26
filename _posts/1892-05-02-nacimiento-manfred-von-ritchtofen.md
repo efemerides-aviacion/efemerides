@@ -68,7 +68,7 @@ La figura del "as de la aviación" se consolidó durante la Primera Guerra Mundi
 - **Enero de 1917:** Asume el mando de Jagdstaffel 11
 - **16 de enero de 1917:** Recibe la Pour le Mérite (Blue Max) tras su 16ª victoria
 - **Junio de 1917:** Asume el mando de Jagdgeschwader 1 (Circo Volante)
-- **6 de julio de 1917:** Sufre una grave herida en la cabeza durante un combate
+- **6 de julio de 1917:** Sufre una grave herida en la cabeza durante un combate con el <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1915/09/01/fundacion-escuadron-20-rfc.html" style="color: #315fea; text-decoration: none;">Escuadrón N.º 20 del Royal Flying Corps</a>: la bala de un observador de esa unidad le rozó el cráneo y lo mantuvo meses en tierra
 - **20 de abril de 1918:** Obtiene sus victorias 79 y 80
 - **21 de abril de 1918:** Es derribado y muere sobre Vaux-sur-Somme, Francia
 
