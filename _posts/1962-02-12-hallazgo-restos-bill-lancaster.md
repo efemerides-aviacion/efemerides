@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Australia / Reino Unido / Argelia
 operator: [Bill Lancaster]
 excerpt: "El 12 de febrero de 1962 una patrulla francesa halló en el Sahara el cuerpo momificado del aviador Bill Lancaster y los restos del Avro Avian 'Southern Cross Minor', desaparecido 29 años antes."
-image: 1962-02-12-hallazgo-restos-bill-lancaster.jpg
+image: 1962-02-12-hallazgo-restos-bill-lancaster.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1962-02-12-hallazgo-restos-bill-lancaster.jpg" alt="Bill Lancaster frente a su avión Southern Cross Minor">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1962-02-12-hallazgo-restos-bill-lancaster.webp" alt="Bill Lancaster frente a su avión Southern Cross Minor">
   <figcaption class="post-caption">Bill Lancaster y el Southern Cross Minor; se desconoce la ubicación, pero lo más probable es que fuera en Lympne antes de su último vuelo. (Archivo Nacional de Australia). Fuente: <a href="https://airscapemag.com/2016/04/15/bill-lancaster/" style="color: #315fea; text-decoration: none;">Airscape Magazine – Anomaly on the horizon</a></figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

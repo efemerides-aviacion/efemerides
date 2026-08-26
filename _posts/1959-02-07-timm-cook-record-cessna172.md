@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Hacienda Hotel / Cessna Aircraft
 excerpt: "Bob Timm y John Cook lograron el récord mundial de vuelo ininterrumpido de 64 días, 22 horas y 19 minutos en una Cessna 172 N9172B, patrocinada por el Hacienda Hotel de Las Vegas."
-image: 1959-02-07-timm-cook-record-cessna172.jpg
+image: 1959-02-07-timm-cook-record-cessna172.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1959-02-07-timm-cook-record-cessna172.jpg" alt="Cessna 172 N9172B en reabastecimiento durante el récord de Timm y Cook">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1959-02-07-timm-cook-record-cessna172.webp" alt="Cessna 172 N9172B en reabastecimiento durante el récord de Timm y Cook">
   <figcaption class="post-caption">La Cessna 172 N9172B recibe combustible en vuelo, desde una camioneta para lograr el récord de Timm y Cook (1958–1959). <a href="https://www.flysuperfly.com/blog/2023/6/9/the-64-day-nonstop-cessna-flight" style="color: #315fea; text-decoration: none;">Fuente: FlySuperFly</a>
   </figcaption>
 </figure>

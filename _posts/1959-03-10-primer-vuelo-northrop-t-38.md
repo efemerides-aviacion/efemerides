@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: Fuerza Aérea de los Estados Unidos (USAF)
 excerpt: "El 10 de marzo de 1959, el prototipo YT-38 realizó su vuelo inaugural, convirtiendo al Northrop T-38 Talon en el primer entrenador supersónico del mundo. Diseñado a partir del proyecto privado N-156, ha entrenado a más de 80.000 pilotos en sesenta y siete años de servicio."
-image: 1959-03-10-primer-vuelo-northrop-t-38.jpg
+image: 1959-03-10-primer-vuelo-northrop-t-38.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1959-03-10-primer-vuelo-northrop-t-38.jpg" alt="El prototipo Northrop YT-38A Talon en vuelo, con esquema blanco y las marcas de la Fuerza Aérea de los Estados Unidos">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1959-03-10-primer-vuelo-northrop-t-38.webp" alt="El prototipo Northrop YT-38A Talon en vuelo, con esquema blanco y las marcas de la Fuerza Aérea de los Estados Unidos">
   <figcaption class="post-caption">Prototipo Northrop YT-38A Talon s/n 58-1191 en vuelo, circa 1959. Primer vuelo realizado el 10 de marzo de 1959 (otras fuentes lo ubican el 10 de abril de 1959) en Edwards AFB (California). Colección personal de Quentin H. Burden, publicada en Flickr por Skyhawk PC.</figcaption>
 </figure>
 

@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: Trans World Airlines / United Airlines
 excerpt: "El 16 de diciembre de 1960, un Lockheed Super Constellation de TWA y un Douglas DC-8 de United Airlines colisionaron sobre Nueva York, causando 134 víctimas y marcando un punto de inflexión en la modernización del control de tráfico aéreo."
-image: 1960-12-16-colision-twa266-united826.jpg
+image: 1960-12-16-colision-twa266-united826.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1960-12-16-colision-twa266-united826.jpg" alt="Rutas de vuelo de TWA 266 y United 826 antes de la colisión">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1960-12-16-colision-twa266-united826.webp" alt="Rutas de vuelo de TWA 266 y United 826 antes de la colisión">
   <figcaption class="post-caption">Rutas de vuelo de las dos aeronaves involucradas en la colisión, el 16 de diciembre de 1960. En naranja la ruta del Vuelo 826 de United Airlines, y en amarillo la ruta del Vuelo 266 de TWA. (Fuente: Informe CAB/NTSB). Traducida al español por quien publica.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

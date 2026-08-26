@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Estados Unidos
 operator: American Airlines
 excerpt: "El 25 de enero de 1959 American Airlines inauguró el primer servicio transcontinental regular en jet con un Boeing 707."
-image: 1959-01-25-primer-vuelo-transcontinental-jet-b707-aa.jpg
+image: 1959-01-25-primer-vuelo-transcontinental-jet-b707-aa.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1959-01-25-primer-vuelo-transcontinental-jet-b707-aa.jpg" alt="Boeing 707 de American Airlines en LAX, 1959">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1959-01-25-primer-vuelo-transcontinental-jet-b707-aa.webp" alt="Boeing 707 de American Airlines en LAX, 1959">
   <figcaption class="post-caption">Boeing 707-123 Astrojet N7503A Flagship California de American Airlines en taxi por LAX antes de su histórico primer vuelo transcontinental jet Los Ángeles–Nueva York (25/01/1959, despegue 09:05 PST). (This Day in Aviation, https://www.thisdayinaviation.com/25-january-1959/).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

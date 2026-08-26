@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Unión Soviética
 operator: Mikoyan-Gurevich Design Bureau
 excerpt: "El 6 de marzo de 1964, el prototipo Ye-155R-1 realizó el primer vuelo del que sería el MiG-25 Foxbat, un interceptor soviético capaz de alcanzar Mach 3 y símbolo de la Guerra Fría."
-image: 1964-03-06-primer-vuelo-mig-25.jpg
+image: 1964-03-06-primer-vuelo-mig-25.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1964-03-06-primer-vuelo-mig-25.jpg" alt="Prototipo Ye-155R-1 del MiG-25 en 1964">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1964-03-06-primer-vuelo-mig-25.webp" alt="Prototipo Ye-155R-1 del MiG-25 en 1964">
   <figcaption class="post-caption">Ye-155R-1 (prototipo del MiG-25R) despegando en su primer vuelo, 6 de marzo de 1964. Fuente: Reddit/r/aviation.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

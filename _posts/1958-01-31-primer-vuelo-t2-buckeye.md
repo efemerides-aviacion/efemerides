@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Estados Unidos
 operator: US Navy
 excerpt: "El 31 de enero de 1958 voló por primera vez el prototipo YT2J-1, luego designado T-2A Buckeye."
-image: 1958-01-31-primer-vuelo-t2-buckeye.jpg
+image: 1958-01-31-primer-vuelo-t2-buckeye.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1958-01-31-primer-vuelo-t2-buckeye.jpg" alt="North American T2J-1 primer prototipo">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1958-01-31-primer-vuelo-t2-buckeye.webp" alt="North American T2J-1 primer prototipo">
   <figcaption class="post-caption">El 31 de enero de 1958, el prototipo YT2J-1 (BuNo 144217) del North American T-2 Buckeye realiza su primer vuelo, entrenador básico a reacción para la US Navy con cabina en tándem y motor Westinghouse J34 (Vintage Aviation News, 31 enero 2023.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

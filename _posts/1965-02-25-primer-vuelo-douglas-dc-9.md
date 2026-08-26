@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: Douglas Aircraft Company
 excerpt: "El 25 de febrero de 1965 despegó desde Long Beach el prototipo del Douglas DC‑9, bimotor de corto/medio alcance que daría origen a la exitosa familia MD‑80/90 y Boeing 717."
-image: 1965-02-25-primer-vuelo-douglas-dc-9.jpg
+image: 1965-02-25-primer-vuelo-douglas-dc-9.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1965-02-25-primer-vuelo-douglas-dc-9.jpg" alt="Douglas DC‑9 prototipo N9DC en vuelo, 1965">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1965-02-25-primer-vuelo-douglas-dc-9.webp" alt="Douglas DC‑9 prototipo N9DC en vuelo, 1965">
   <figcaption class="post-caption">Douglas DC‑9 prototipo N9DC en vuelo durante sus pruebas iniciales, poco después de su primer despegue el 25 de febrero de 1965 desde Long Beach, California. Fuente: This Day in Aviation.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
