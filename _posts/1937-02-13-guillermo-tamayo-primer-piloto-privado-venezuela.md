@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Venezuela
 operator: Guillermo Tamayo Rivero
 excerpt: "El 13 de febrero de 1937 Guillermo Tamayo Rivero recibió el primer Certificado de Piloto Privado otorgado en Venezuela, marcando el inicio oficial de la aviación civil privada en el país."
-image: 1937-02-13-guillermo-tamayo-primer-piloto-privado-venezuela.jpg
+image: 1937-02-13-guillermo-tamayo-primer-piloto-privado-venezuela.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1937-02-13-guillermo-tamayo-primer-piloto-privado-venezuela.jpg" alt="Guillermo Tamayo Rivero junto a su Ryan ST-A">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1937-02-13-guillermo-tamayo-primer-piloto-privado-venezuela.webp" alt="Guillermo Tamayo Rivero junto a su Ryan ST-A">
   <figcaption class="post-caption">Guillermo Tamayo Rivero junto a su avión Ryan ST-A (matrícula YV-G-TR3), circa 1935–1936, durante su época formativa en Estados Unidos antes de importar la aeronave a Venezuela. Fuente: Egly Colina Marín, "Guillermo Tamayo" (2019).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

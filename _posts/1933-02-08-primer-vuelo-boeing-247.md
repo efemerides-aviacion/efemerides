@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Boeing / United Air Lines
 excerpt: "El Boeing 247, considerado el primer avión de línea moderno, realizó su vuelo inaugural el 8 de febrero de 1933 desde Boeing Field, Seattle, con Les Tower y Louis Goldsmith a los mandos."
-image: 1933-02-08-primer-vuelo-boeing-247.jpg
+image: 1933-02-08-primer-vuelo-boeing-247.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1933-02-08-primer-vuelo-boeing-247.jpg" alt="Boeing 247 NC13300 en pruebas de vuelo">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1933-02-08-primer-vuelo-boeing-247.webp" alt="Boeing 247 NC13300 en pruebas de vuelo">
   <figcaption class="post-caption">Prototipo del Boeing Modelo 247 NX13300 en vuelo, el innovador bimotor totalmente metálico y de tren retráctil que realizó su primer vuelo el 8 de febrero de 1933 desde Boeing Field, Seattle, y abrió una nueva etapa en la aviación comercial. This Day in Aviation, “8 February 1933”</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

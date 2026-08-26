@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Venezuela
 operator: Aviación Civil Venezolana
 excerpt: "El 6 de diciembre de 1940, Mary Calcaño se convirtió en la primera mujer venezolana en obtener una licencia de piloto en su país, marcando un hito en la aviación civil nacional."
-image: 1940-12-06-mary-calcano-primera-piloto-venezolana.jpg
+image: 1940-12-06-mary-calcano-primera-piloto-venezolana.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1940-12-06-mary-calcano-primera-piloto-venezolana.jpg" alt="Mary Calcaño junto a su Piper Cub J3">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1940-12-06-mary-calcano-primera-piloto-venezolana.webp" alt="Mary Calcaño junto a su Piper Cub J3">
   <figcaption class="post-caption">Mary Calcaño en el avión de su propiedad, un Piper Cub J3, tras obtener su licencia de piloto en Venezuela. (Fuente: El Nacional / archivos familiares).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

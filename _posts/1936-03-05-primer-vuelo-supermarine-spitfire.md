@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Reino Unido
 operator: Supermarine / RAF
 excerpt: "El 5 de marzo de 1936, el prototipo K5054 del Supermarine Spitfire realizó su primer vuelo en Eastleigh, pilotado por Mutt Summers, iniciando la historia de uno de los cazas más emblemáticos de la Segunda Guerra Mundial."
-image: 1936-03-05-primer-vuelo-supermarine-spitfire.jpg
+image: 1936-03-05-primer-vuelo-supermarine-spitfire.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1936-03-05-primer-vuelo-supermarine-spitfire.jpg" alt="Prototipo Supermarine Spitfire K5054 en 1936">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1936-03-05-primer-vuelo-supermarine-spitfire.webp" alt="Prototipo Supermarine Spitfire K5054 en 1936">
   <figcaption class="post-caption">Supermarine Spitfire prototipo (matrícula K5054), frente a hangares en Eastleigh (Southampton), poco antes o después de su primer vuelo el 5 de marzo de 1936 pilotado por Mutt Summers. Fuente: RAF Memorial Flight Club.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

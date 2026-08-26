@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Francia
 operator: Paul Codos / Henri Robida
 excerpt: "Paul Codos y Henri Robida lograron un récord de velocidad en la ruta París–Hanoi–París con un Bréguet 330."
-image: 1932-01-24-codos-robida-record-paris–hanoi–paris.jpg
+image: 1932-01-24-codos-robida-record-paris–hanoi–paris.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1932-01-24-codos-robida-record-paris–hanoi–paris.jpg" alt="Paul Codos y Henri Robida tras récord París–Hanoi–París">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1932-01-24-codos-robida-record-paris–hanoi–paris.webp" alt="Paul Codos y Henri Robida tras récord París–Hanoi–París">
   <figcaption class="post-caption">Composición con Paul Codos y Henri Robida ante su Bréguet Bre.330 F-AKEZ, protagonista del raid París–Hanoï–París culminado el 24 de enero de 1932 con un récord de velocidad en el vuelo de regreso. Composición del autor sobre imágenes reproducidas por This Day in Aviation</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

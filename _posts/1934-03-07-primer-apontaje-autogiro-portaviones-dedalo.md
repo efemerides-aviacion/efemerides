@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: España
 operator: Armada Española
 excerpt: "El 7 de marzo de 1934, Juan de la Cierva realizó el primer apontaje y despegue de un autogiro sobre la cubierta del portahidroaviones Dédalo, demostrando el potencial de las aeronaves de ala giratoria para operaciones embarcadas."
-image: 1934-03-07-primer-apontaje-autogiro-portaviones-dedalo.jpg
+image: 1934-03-07-primer-apontaje-autogiro-portaviones-dedalo.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1934-03-07-primer-apontaje-autogiro-portaviones-dedalo.jpg" alt="Autogiro Cierva C.30 sobre el Dédalo en 1934">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1934-03-07-primer-apontaje-autogiro-portaviones-dedalo.webp" alt="Autogiro Cierva C.30 sobre el Dédalo en 1934">
   <figcaption class="post-caption">Despegue del autogiro C.30 de Juan de la Cierva desde la cubierta del portahidroaviones Dédalo (ex-Neuenfels), el 7 de marzo de 1934 en Valencia, España. Fuente: Revista General de Marina (abril 1934).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

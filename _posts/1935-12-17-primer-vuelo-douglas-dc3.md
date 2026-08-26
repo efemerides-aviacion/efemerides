@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: Douglas Aircraft Company
 excerpt: "El 17 de diciembre de 1935, el Douglas DC-3 realizó su primer vuelo en Santa Monica, California, revolucionando la aviación comercial y militar con su diseño robusto y rentable."
-image: 1935-12-17-primer-vuelo-douglas-dc3.jpg
+image: 1935-12-17-primer-vuelo-douglas-dc3.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1935-12-17-primer-vuelo-douglas-dc3.jpg" alt="Primer prototipo del Douglas DC-3 en configuración DST">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1935-12-17-primer-vuelo-douglas-dc3.webp" alt="Primer prototipo del Douglas DC-3 en configuración DST">
   <figcaption class="post-caption">Este avión fue el primer DC-3, configurado como Douglas Sleeper Transport (DST), registro X14988. (Fuente: Douglas Aircraft Company / This Day in Aviation).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

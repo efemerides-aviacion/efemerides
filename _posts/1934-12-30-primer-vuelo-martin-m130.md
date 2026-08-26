@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: Pan American Airways
 excerpt: "El Martin M-130, hidroavión diseñado para Pan American Airways, realizó su primer vuelo el 30 de diciembre de 1934 en Middle River, Maryland."
-image: 1934-12-30-primer-vuelo-martin-m130.jpg
+image: 1934-12-30-primer-vuelo-martin-m130.webp
 ---
  
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1934-12-30-primer-vuelo-martin-m130.jpg" alt="Martin M-130 China Clipper">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1934-12-30-primer-vuelo-martin-m130.webp" alt="Martin M-130 China Clipper">
   <figcaption class="post-caption">El hidroavión Martin M-130 China Clipper (NC14716) de Pan American Airways sobrevolando la bahía de San Francisco con el skyline y el puente en construcción al fondo, c. 1936. Glenn L. Martin Company / Pan Am Historical Foundation, vía Library of Congress</figcaption>
 </figure>
 

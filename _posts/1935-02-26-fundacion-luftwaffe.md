@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Alemania
 operator: Luftwaffe
 excerpt: "El 26 de febrero de 1935, Adolf Hitler decretó la creación de la Luftwaffe, fuerza aérea alemana, en desafío al Tratado de Versalles."
-image: 1935-02-26-fundación-de-la-luffwaffe.jpg
+image: 1935-02-26-fundación-de-la-luffwaffe.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1935-02-26-fundación-de-la-luffwaffe.jpg" alt="Hermann Göring con pilotos de la Luftwaffe, 1940">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1935-02-26-fundación-de-la-luffwaffe.webp" alt="Hermann Göring con pilotos de la Luftwaffe, 1940">
   <figcaption class="post-caption">Hermann Göring, comandante en jefe de la Luftwaffe, se dirige a un grupo de pilotos alemanes durante la Batalla de Inglaterra (julio-octubre 1940). Fuente: Bundesarchiv / IWM Collections.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
