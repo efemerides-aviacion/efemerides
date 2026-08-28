@@ -74,7 +74,7 @@ El Phantom II era entonces una novedad radical: un caza embarcado grande y pesad
 
 ## El accidente del 18 de mayo y lo que se corrigió
 
-El primer intento no fracasó por falta de potencia ni por error de pilotaje. Falló un componente concreto: el **amortiguador de cabeceo**, el sistema que suaviza los movimientos del morro en el eje vertical.
+El primer intento no fracasó por falta de potencia ni por error de pilotaje. Falló un componente concreto: el **amortiguador de cabeceo**, el sistema que suaviza los movimientos del morro en el eje transversal o lateral.
 
 Cuando dejó de funcionar, el avión entró en una oscilación inducida por el piloto. Es un fenómeno traicionero: el aparato cabecea, el piloto corrige, la corrección llega desfasada y amplifica el movimiento en lugar de amortiguarlo. A gran velocidad y baja cota, cada ciclo es más violento que el anterior. La estructura del Phantom llegó a soportar **12 g**. Se partió en el aire, los dos motores se desprendieron y el combustible explotó. Murieron el Comandante Felsman y el Alférez Hite.
 
