@@ -11,8 +11,8 @@ image: 1941-07-23-conmemoracion-dia-fuerza-aerea-peru.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1941-07-23-conmemoracion-dia-fuerza-aerea-peru.webp" alt="Retrato oficial del Héroe Nacional peruano Capitán FAP José Abelardo Quiñones Gonzales en uniforme militar">
-  <figcaption class="post-caption">Retrato oficial del Héroe Nacional del Perú y Gran General del Aire, Capitán FAP José Abelardo Quiñones Gonzales (1914–1941). Fuente: <a href="https://commons.wikimedia.org/wiki/File:MINISTRO_DE_DEFENSA_REALIZ%C3%93_VISITA_DE_TRABAJO_A_CHICLAYO_(14153905388).jpg" style="color: #315fea; text-decoration: none;">Ministerio de Defensa del Perú / Wikimedia Commons</a>.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1941-07-23-conmemoracion-dia-fuerza-aerea-peru.webp" alt="Ceremonia del Día de la FAP del 23 de julio de 2022 en la base aérea de Las Palmas, con el NA-50 «Torito» histórico sobre su pedestal al fondo">
+  <figcaption class="post-caption">Ceremonia por el 79.º aniversario del Día de la Fuerza Aérea del Perú (base aérea de Las Palmas, 23 de julio de 2022). Detrás del podio, sobre su pedestal, el caza North American NA-50 «Torito» conservado por la FAP con los colores de la 41.ª Escuadrilla de Caza, el tipo de avión en el que se inmolaría Quiñones en 1941. Fuente: <a href="https://commons.wikimedia.org/wiki/File:MINISTRO_DE_DEFENSA_ACOMPA%C3%91%C3%93_AL_PRESIDENTE_DE_LA_REP%C3%9ABLICA_DURANTE_LA_CEREMONIA_SIMB%C3%93LICA_POR_EL_79_ANIVERSARIO_DE_LA_FUERZA_A%C3%89REA_DEL_PER%C3%9A_(50144023933).jpg" style="color: #315fea; text-decoration: none;">Ministerio de Defensa del Perú / Wikimedia Commons</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a, #fbc02d, #f9a825);">
