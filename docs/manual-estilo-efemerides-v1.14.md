@@ -1,6 +1,6 @@
 # Manual de Estilo de Efemérides
-> Edición consolidada: 2026-08-21  
-> Versión: v1.13
+> Edición consolidada: 2026-08-28  
+> Versión: v1.14
 
 ---
 
@@ -120,6 +120,20 @@ inventa; y el enriquecimiento del título **no altera** el slug, el nombre de
 archivo ni la URL pública. Las auditorías de categoría se registran en el anexo
 de sesión (precedente: los nueve títulos de `nacimiento` del 12 de agosto de
 2026).
+
+### 4.7 Ejes y movimientos de la aeronave
+Los tres movimientos se nombran con su eje exacto: el **alabeo** es rotación en
+torno al eje **longitudinal**; el **cabeceo** (balanceo), en torno al
+**transversal o lateral** —el que sube y baja el morro—; y la **guiñada**, en
+torno al **vertical**. Toda frase que asigne un movimiento a un eje se contrasta
+con la definición, no con la intuición. Caso sensible: la glosa en prosa de los
+sistemas amortiguadores (*pitch damper*, *yaw damper*), donde cabe describir el
+cabeceo «en el eje vertical» por confusión con la guiñada. Precedente: en el
+post del récord Sageburner (28-08-1961) el amortiguador de cabeceo aparecía
+descrito como suavizante de «los movimientos del morro en el eje vertical»; ni el
+lazo de verificación del asistente ni la revisión del editor lo detectaron, y lo
+señalaron tres lectores el día de la conmemoración. El editor lo corrigió en la
+rama el 28-08-2026 («eje transversal o lateral»).
 
 ---
 
@@ -410,6 +424,7 @@ investigador (14 de agosto de 2026).
 - pelear con la edición manual del editor;
 - dar commits prematuros antes de la revisión;
 - introducir enlaces internos innecesarios;
+- atribuir el cabeceo al eje vertical (es rotación en torno al transversal o lateral; el vertical es el de la guiñada) (§ 4.7);
 - llenar el texto de cifras sin jerarquía narrativa;
 - relatar en el post los errores del borrador, los enlaces caídos o las
   sustituciones de fuentes motivadas por problemas de acceso (§ 9.1);
@@ -624,3 +639,21 @@ Pasada de **coherencia interna**. No cambia el fondo de ninguna regla.
 
 Motivo: auditoría de coherencia de los cuatro rectores del 21 de agosto de
 2026, paralela a la de la Plantilla Maestra v2.16.
+
+## 25. Actualizaciones editoriales v1.14 — 2026-08-28
+
+Novedad de fondo puntual, acordada por el editor al levantar la moratoria del
+21-08-2026 **solo para los rectores afectados** por los hechos del 27 y 28 de
+agosto:
+
+- **§ 4.7 nueva, «Ejes y movimientos de la aeronave».** Definiciones
+  canónicas alabeo-longitudinal, cabeceo-transversal (lateral),
+  guiñada-vertical, y exigencia de contrastar toda asignación
+  movimiento↔eje con la definición. Precedente documentado: la corrección
+  pospublicación del post del Sageburner (1961-08-28), error detectado por
+  tres lectores y no por los lazos internos; commit de corrección del editor
+  en la rama.
+- **§ 13, nueva viñeta de errores** remitiendo a § 4.7.
+
+Alineadas en la misma fecha: Plantilla Maestra v2.17, Instrucciones de Formato
+v2.14 e Instrucciones de Procesar v2.14.

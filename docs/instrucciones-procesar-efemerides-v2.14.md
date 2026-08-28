@@ -1,6 +1,6 @@
 # Documento de Instrucciones Editoriales para Procesar Efemérides de Aviación
-> Última actualización: 2026-08-21  
-> Versión: v2.13
+> Última actualización: 2026-08-28  
+> Versión: v2.14
 
 ---
 
@@ -319,6 +319,13 @@ Quedan derogados el prefijo `feat(efemerides): ...` y el cierre Categoría/País
 No se entregan parches `git am` ni commits construidos en el clon del entorno.
 Los cambios homogéneos de muchos archivos se agrupan en tandas cronológicas con
 mensaje propio; cada efeméride nueva viaja en un commit único con su imagen.
+Las **altas individuales** se entregan como archivos directos en el espacio de
+trabajo del asistente (`en-proceso/post/` y `en-proceso/img/`, presentados en el
+visor) más el mensaje de commit en texto; **el ZIP queda reservado a las tandas
+de corrección** que alcanzan a varios posts, con la estructura del repo. El
+espacio `en-proceso/` se depura tras cada publicación confirmada. Práctica
+acordada los días 27 y 28 de agosto de 2026, cuando el ZIP llegó a emplearse
+para una alta única y quedó derogado para ese caso.
 
 ### Correcciones sobre posts ya publicados
 Los cambios a posts ya publicados (enlaces recíprocos, armonización de nombres,
@@ -326,6 +333,19 @@ divisores, pies de foto) se entregan como **commits de corrección propios**,
 posteriores al commit de la efeméride nueva, con mensaje que lista los archivos
 y el cambio; nunca mezclados con el commit de incorporación de una efeméride.
 Práctica consolidada el 14 de agosto de 2026 (posts de los hermanos Wright).
+
+### Comprobación del estado publicado
+La verificación en producción corresponde al navegador del editor. La del
+asistente se hace **contra un clon fresco de la rama**: el `.git` del entorno de
+trabajo no persiste entre sesiones, de modo que el clon se rehace siempre y lo
+publicado solo se lee —lo ya publicado no se regenera ni se modifica; el clon es
+la fuente de verdad—. Cotejos: el post publicado debe ser idéntico byte a byte
+al entregado, salvo las correcciones que el editor haya aplicado, las cuales
+prevalecen y no se revierten. Las imágenes las reexporta el editor al publicar
+(perfil ICC, peso y suma de verificación distintos, mismas cotas y encuadre):
+el cotejo es de encuadre y dimensiones, nunca de md5, y la recodificación se
+asume como estado vigente. Práctica registrada los días 27 y 28 de agosto de
+2026 (jornadas de los altos de KAL 007 y Varig 254).
 
 ---
 
@@ -635,3 +655,21 @@ Pasada de coherencia entre los cuatro documentos, sin cambios de fondo.
 Ninguna regla operativa cambia: el mínimo de cuatro referencias, el tamaño de
 casa, el cómputo de años y el principio de documento limpio permanecen tal como
 quedaron el 20 de agosto.
+
+## ACTUALIZACIONES DE PROCESAMIENTO V2.14 — 2026-08-28
+
+### Entrega de altas individuales (sección de commit para GitHub Desktop)
+Se fija en el rector el acuerdo del 27-28 de agosto de 2026: archivos directos
+en `en-proceso/post/` e `en-proceso/img/` presentados en el visor, con mensaje
+de commit en texto; ZIP solo para tandas de corrección multi-post; `en-proceso/`
+purgado tras la confirmación de publicación.
+
+### Comprobación del estado publicado (apartado nuevo)
+Se consolida la práctica de verificación post-publicación: clon fresco siempre
+(el `.git` del entorno no persiste), lo publicado no se toca, cotejo del post
+byte a byte contra lo entregado aceptando las correcciones del editor, y
+comparación de imágenes por encuadre y cotas sin discutir la recodificación del
+pipeline (md5 no).
+
+Alineadas en la misma fecha: Plantilla Maestra v2.17, Instrucciones de Formato
+v2.14 y Manual de Estilo v1.14.

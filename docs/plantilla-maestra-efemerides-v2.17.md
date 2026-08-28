@@ -1,10 +1,26 @@
 # Documento Maestro de Plantillas de Efemérides de Aviación
-> Última actualización: 2026-08-21  
-> Versión: v2.16
+> Última actualización: 2026-08-28  
+> Versión: v2.17
 
 ---
 
 ## Nota sobre esta versión
+
+**Novedad de la v2.17.** Dos precisiones de fondo, aprobadas por el editor el
+28-08-2026 al levantar la moratoria del 21-08 para los rectores afectados por los
+hechos del 27 y 28 de agosto: (a) la **regla maestra 11** (URL canónica de los
+enlaces internos) se extiende a los posts con **categoría doble**, que publican
+con un segmento de ruta por categoría en el orden del YAML —criterio verificado
+contra los tres posts reales del corpus y cuatro enlaces ya publicados, y
+pendiente registrado el 27-08 en el estado de la jornada—; (b) se recuerda en
+las Instrucciones de Formato (apartado 3 de «Enlaces», v2.14) que **no existe tope
+numérico** de enlaces cruzados pertinentes. En paralelo, el Manual de Estilo
+incorpora § 4.7 sobre ejes y movimientos de la aeronave (lección de la
+corrección pospublicación del Sageburner) y las Instrucciones de Procesar fijan
+la entrega de altas individuales sin ZIP y la comprobación del estado publicado.
+Registro de la versión anterior debajo.
+
+### Registro de la v2.16
 
 **Novedad de la v2.16.** Segunda pasada de **coherencia interna** sobre los
 ejemplos, en la línea de la v2.13 y por el mismo motivo: los ejemplos son el
@@ -371,6 +387,14 @@ guiones terminales al slugificar), y el enlace se escribe sin él.
 
 **Comprobación.** Antes de entregar el post, cada enlace interno se verifica
 contra este patrón, no contra el nombre del archivo de origen.
+
+**Categorías dobles.** Un post con varias categorías en el YAML publica bajo una
+ruta con **un segmento por categoría, en el orden del YAML**:
+`.../efemerides/espacial/accidente/1986/01/28/accidente-challenger-sts51l.html`.
+La fecha sigue en barras y el slug pierde el guion terminal; enlazar con un solo
+segmento una categoría doble produce 404. Verificado el 27-08-2026 contra
+`1971-06-29` (Soyuz 11), `1986-01-28` (Challenger), `2003-02-01` (Columbia) y
+los cuatro enlaces internos de dos segmentos ya publicados.
 
 **Precedente que motiva la regla.** En agosto de 2026 varios posts se entregaron
 con fechas unidas por guiones; el editor hubo de sustituir a mano cada enlace
@@ -1831,3 +1855,27 @@ del BAe Hawk se entregaron con solo dos referencias.
 | v2.14 | 2026-08-20 | Regla maestra 12 reescrita: tamaño de casa 800 × 1.000 (`nacimiento`) y 1.200 × 675 (resto); se permite ampliar con remuestreo de calidad. Errata 678 → 675. Derogado «resolución nativa / no se amplían». La resolución sigue fuera del post. |
 | v2.15 | 2026-08-20 | Nombre de imagen = nombre del post; conteo de referencias por `<li>`, `-` y `1.`; hechos de más de un día se conmemoran en la culminación (salvo Apolo 11). |
 | v2.16 | 2026-08-21 | Segunda pasada de coherencia interna de los ejemplos: 25 cabeceras al nivel y la capitalización de la regla maestra 1; ejemplo de `seguridad` saneado (`## Referencias` → `## Referencias Verificadas`, `Metadatos de control` → `Metadatos de Control`, `alto` → `Alto`, `</div` sin cerrar); cuatro ejemplos elevados al mínimo de cuatro referencias de la regla maestra 14; etiqueta normativa `Fuentes primarias/institucionales consultadas` en los siete ejemplos heredados; `Datos biográficos y eventos` → `Datos verificados del evento` en `supervivencia`. Sin cambios de fondo en las reglas. |
+
+## Reglas incorporadas en la versión v2.17 — 2026-08-28
+
+### Regla maestra 11 extendida: categorías dobles
+El patrón canónico de los enlaces internos admite ahora la variante de **un
+segmento de categoría por cada categoría del YAML, en orden** (antes el patrón
+solo ilustraba `:categoria` en singular, y el caso doble vivía documentado en los
+estados de jornada). Enlazar una categoría doble con un solo segmento produce 404.
+
+### Recordatorio de alineación
+Las Instrucciones de Formato pasan a **v2.14** (mismo desarrollo en su apartado 4
+y nota expresa en el apartado 3 de que no existe tope numérico de enlaces
+cruzados pertinentes); el **Manual de Estilo** pasa a **v1.14** (§ 4.7 nueva de
+ejes y movimientos, con su viñeta en § 13); las **Instrucciones de Procesar**
+pasan a **v2.14** (entrega de altas individuales sin ZIP y comprobación del
+estado publicado). Motivo general: decisión del editor del 28-08-2026 de
+actualizar los rectores afectados por los pendientes de las jornadas del 27 y 28
+de agosto, levantando parcialmente la moratoria del 21-08.
+
+### Control de cambios
+
+| Versión | Fecha | Descripción |
+| :--- | :--- | :--- |
+| v2.17 | 2026-08-28 | Regla maestra 11 extendida a categorías dobles (un segmento de ruta por categoría, en el orden del YAML). Alineación con Instrucciones de Formato v2.14, Manual de Estilo v1.14 e Instrucciones de Procesar v2.14. |

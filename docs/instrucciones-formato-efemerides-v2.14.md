@@ -1,6 +1,6 @@
 # Instrucciones de formato de salida para efemérides
-> Última actualización: 2026-08-21  
-> Versión: v2.13
+> Última actualización: 2026-08-28  
+> Versión: v2.14
 
 ---
 
@@ -58,7 +58,8 @@ Todo enlace insertado en párrafos narrativos debe usar HTML inline con este est
 - pueden utilizarse varios enlaces cruzados distintos si son pertinentes;
 - preferir su ubicación en `## Desarrollo Cronológico`;
 - usar exclusivamente la URL pública real del post ya publicado;
-- nunca enlazar una efeméride consigo misma.
+- nunca enlazar una efeméride consigo misma;
+- **no existe tope numérico de salientes**: la norma admite todos los enlaces cruzados pertinentes; el criterio es el aporte a la comprensión. Lo prohibido es repetir la misma URL, enlazarse a una misma y enlazar lo que nada aporta. (Aclaración de 2026-08-28: unas notas de trabajo de sesiones previas imponían por error un máximo de uno o dos enlaces, y por ellas llegó a suprimirse un enlace pertinente en el alta del Varig 254, restaurado en la ronda del editor.)
 
 ### 4) Forma canónica de los enlaces internos
 
@@ -74,6 +75,19 @@ archivo sin el prefijo de fecha; si el nombre termina en guion, el slug
 publicado lo pierde (Jekyll elimina guiones terminales) y el enlace se escribe
 sin él. Antes de entregar el post, cada enlace interno se comprueba contra este
 patrón, no contra el nombre del archivo.
+
+**Categorías dobles.** Un post con varias categorías en el YAML publica bajo
+**una ruta que contiene un segmento por categoría, en el orden del YAML**:
+
+```
+https://efemerides-aviacion.github.io/efemerides/espacial/accidente/1986/01/28/accidente-challenger-sts51l.html
+```
+
+El resto del patrón no cambia (fecha en barras, slug sin guion terminal); enlazar
+una categoría doble con un solo segmento produce 404. Verificado contra los tres
+posts reales del corpus (`1971-06-29` Soyuz 11, `1986-01-28` Challenger,
+`2003-02-01` Columbia) y los cuatro enlaces internos de dos segmentos ya
+publicados.
 
 Motivo: en agosto de 2026 se entregaron varios posts con fechas en guiones y el
 editor sustituyó los enlaces a mano copiándolos del navegador.
@@ -562,3 +576,21 @@ Pasada de coherencia entre los cuatro documentos, sin cambios de fondo.
 Las reglas de este documento no cambian. Se recuerda que la sección
 «Fichas de archivo, museo y biblioteca» de estas Instrucciones se corresponde
 con la § 8.6 del Manual de Estilo y con la regla maestra 10 de la Plantilla.
+
+## ACTUALIZACIONES DE FORMATO V2.14 — 2026-08-28
+
+### Forma canónica de los enlaces internos: categorías dobles (apartado 4)
+Se incorpora el párrafo «Categorías dobles»: un post con varias categorías en el
+YAML enlaza con un segmento de ruta por categoría, en el orden del YAML. Motivo:
+pendiente del 27-08-2026, documentado en el estado de la jornada bajo la
+moratoria de rectores del 21-08; decisión del editor de 2026-08-28 de actualizar
+los rectores afectados.
+
+### Aclaración de tope en los enlaces cruzados (apartado 3)
+Se enuncia expresamente que no existe tope numérico de salientes y que rige la
+pertinencia. Motivo: unas notas de sesión imponían un máximo de 1–2 que la norma
+nunca tuvo, y causaron la supresión y posterior restauración de un enlace
+pertinente en el alta del Varig 254 (2026-08-28).
+
+Alineadas en la misma fecha: Plantilla Maestra v2.17, Manual de Estilo v1.14 e
+Instrucciones de Procesar v2.14.
