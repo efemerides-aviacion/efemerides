@@ -11,8 +11,8 @@ image: 1911-07-21-denise-moore-primera-mujer-morir-accidente-aviacion.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-07-21-denise-moore-primera-mujer-morir-accidente-aviacion.webp" alt="Biplano Henri Farman de 1911 en vuelo durante las pruebas aerodinámicas en Francia">
-  <figcaption class="post-caption">La aviadora Denise Moore (E. Jane-Wright) en los mandos de control de un biplano durante sus lecciones de vuelo en Francia, c. 1911. Fuente: <a href="https://www.thisdayinaviation.com/21-july-1911/" style="color: #315fea; text-decoration: none;">This Day in Aviation</a>.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-07-21-denise-moore-primera-mujer-morir-accidente-aviacion.webp" alt="Biplano Henri Farman de 1911 fotografiado en 1911">
+  <figcaption class="post-caption">Biplano Henri Farman del mismo tipo que el que pilotaba Denise Moore en la escuela de Étampes, fotografiado en mayo de 1911, dos meses antes del accidente. Imagen representativa: no corresponde al aparato exacto del siniestro. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Nouveau_biplan_Henri_Farman,_1911_-_btv1b53240689m.jpg" style="color: #315fea; text-decoration: none;">Agence Meurisse / Gallica (BnF), vía Wikimedia Commons</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -86,7 +86,7 @@ Su memoria está preservada en los archivos históricos de la aviación mundial 
 - <a href="https://en.wikipedia.org/wiki/Denise_Moore" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Denise Moore (E. Jane Wright / Cornesson; Étampes, 21 de julio de 1911)</a>
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Existe un matiz de identificación y localización en las fuentes de la época sobre esta efeméride. "Denise Moore" era el pseudónimo utilizado por la viuda E. J. Cornesson (nacida E. Jane-Wright) para evitar que su familia descubriera sus lecciones de aviación. Asimismo, aunque teletipos de prensa iniciales citaron erróneamente el aeródromo de Mourmelon como escenario del siniestro, los informes oficiales de la escuela de vuelo y la revista especializada <em>FLIGHT</em> confirmaron que el accidente ocurrió en el campo de aviación de Étampes. Por último, la imagen seleccionada corresponde a un retrato histórico de época de la propia aviadora sosteniendo las palancas y cables de control a bordo de un biplano durante sus lecciones de vuelo en Francia hacia 1911.</p>
+  <p><strong>Nota aclaratoria:</strong> Existe un matiz de identificación y localización en las fuentes de la época sobre esta efeméride. "Denise Moore" era el pseudónimo utilizado por la viuda E. J. Cornesson (nacida E. Jane-Wright) para evitar que su familia descubriera sus lecciones de aviación. Asimismo, aunque teletipos de prensa iniciales citaron erróneamente el aeródromo de Mourmelon como escenario del siniestro, los informes oficiales de la escuela de vuelo y la revista especializada <em>FLIGHT</em> confirmaron que el accidente ocurrió en el campo de aviación de Étampes. Por último, la imagen que ilustra esta efeméride es representativa: muestra un biplano Henri Farman del mismo tipo que el aparato del accidente, fotografiado en mayo de 1911, dos meses antes del siniestro.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
