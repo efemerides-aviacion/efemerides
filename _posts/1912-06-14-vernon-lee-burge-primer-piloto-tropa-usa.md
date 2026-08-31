@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: U.S. Army Signal Corps
 excerpt: "El 14 de junio de 1912, el Cabo Vernon Lee Burge se convirtió en el primer soldado de tropa (enlisted man) de los Estados Unidos en obtener la certificación como piloto militar, abriendo el camino a más de 4.500 aviadores de tropa que le seguirían."
-image: 1912-06-14-vernon-lee-burge-primer-piloto-tropa-eeuu.webp
+image: 1912-06-14-vernon-lee-burge-primer-piloto-tropa-usa.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1912-06-14-vernon-lee-burge-primer-piloto-tropa-eeuu.webp" alt="Vernon Lee Burge, primer piloto de tropa del Ejército de EE. UU.">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1912-06-14-vernon-lee-burge-primer-piloto-tropa-usa.webp" alt="Vernon Lee Burge, primer piloto de tropa del Ejército de EE. UU.">
   <figcaption class="post-caption">El Sargento (posteriormente Coronel) Vernon L. Burge, primer piloto militar de tropa de los Estados Unidos, en la cabina de un avión Army “B” en Filipinas, 1912; fuente: U.S. Air Force / National Museum of the USAF.</figcaption>
 </figure>
 

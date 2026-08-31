@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Reino Unido
 operator: Royal Navy - 846 Naval Air Squadron
 excerpt: "El 19 de mayo de 1982, un Westland Sea King HC.4 de la Royal Navy (Armada Real Británica) (matrícula ZA294) se estrelló en el Atlántico Sur durante la Guerra de las Malvinas mientras trasladaba tropas del SAS (Special Air Service, Servicio Aéreo Especial) entre el HMS Hermes y el HMS Intrepid. Con 22 fallecidos, fue la mayor pérdida de vidas del Special Air Service desde la Segunda Guerra Mundial."
-image: 1982-05-19-accidente-sea-king-za294-malvinas.webp
+image: 1982-05-19-accidente-sea-king-hc-4-royal-navy.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1982-05-19-accidente-sea-king-za294-malvinas.webp" alt="Westland Sea King HC.4 ZA294 de la Royal Navy">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1982-05-19-accidente-sea-king-hc-4-royal-navy.webp" alt="Westland Sea King HC.4 ZA294 de la Royal Navy">
   <figcaption class="post-caption">Westland Sea King HC.4 de la Royal Navy (Armada Real Británica), matrícula ZA294, perteneciente al 846 Naval Air Squadron (Escuadrón Aéreo Naval 846), aeronave involucrada en el accidente del 19 de mayo de 1982 durante la Guerra de las Malvinas. Fuente: AirHistory.net.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

@@ -7,14 +7,14 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: Aviación civil
 excerpt: "El 11 de mayo de 1875 nació Harriet Quimby, la primera mujer estadounidense en obtener una licencia de piloto (1911) y la primera en cruzar el Canal de la Mancha en solitario (1912). Su prematura muerte opacó su legado, pero su figura sigue siendo un símbolo de la lucha femenina por abrirse paso en la aviación."
-image: 1875-05-11-nacimiento-de-Harriet-quimby-licencia-piloto.webp
+image: 1875-05-11-nacimiento-de-harriet-quimby-licencia-piloto.webp
 redirect_from:
   - /nacimiento/1875/05/11/nacimiento-de-Harriet-quimby-licencia-piloto.html
   - /aviacion-nacimiento/1875/05/11/nacimiento-de-Harriet-quimby-licencia-piloto.html
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1875-05-11-nacimiento-de-Harriet-quimby-licencia-piloto.webp" alt="Harriet Quimby en su monoplano Blériot">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1875-05-11-nacimiento-de-harriet-quimby-licencia-piloto.webp" alt="Harriet Quimby en su monoplano Blériot">
   <figcaption class="post-caption">Harriet Quimby posando en su monoplano Blériot, en una fotografía de 1911 atribuida a la George Grantham Bain Collection y conservada en la Library of Congress; la imagen fue utilizada como referencia visual en el artículo sobre su 150.º aniversario. Fuente: Library of Congress / Wikimedia Commons.</figcaption>
 </figure>
 

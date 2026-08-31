@@ -7,11 +7,11 @@ author: Enrique Pomares
 pais: Estados Unidos
 operator: Cuerpo Aéreo del Ejército de los Estados Unidos (USAAC)
 excerpt: "El 2 de mayo de 1927 culminó en Washington D.C. el vuelo Panamericano de Buena Voluntad del Ejército de EE. UU., una travesía de cinco aviones anfibios Loening OA-1A que recorrió 35.200 km durante 59 días de vuelo, demostrando la capacidad de la aviación estadounidense y sentando las bases para la expansión de Pan American World Airways en América Latina."
-image: 1927-05-02-consolidacion-capacidad-aviation-us-centro-suramerica.webp
+image: 1927-05-02-consolidacion-capacidad-aviacion-us-centro-suramerica.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1927-05-02-consolidacion-capacidad-aviation-us-centro-suramerica.webp" alt="Avión Loening OA-1A San Francisco">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1927-05-02-consolidacion-capacidad-aviacion-us-centro-suramerica.webp" alt="Avión Loening OA-1A San Francisco">
   <figcaption class="post-caption">El Loening OA-1A 'San Francisco', el único de los cinco aviones que completó la travesía sin sufrir averías mecánicas. Se conserva en el Museo Nacional del Aire y el Espacio (Udvar-Hazy Center). Fuente: Smithsonian</figcaption>
 </figure>
 

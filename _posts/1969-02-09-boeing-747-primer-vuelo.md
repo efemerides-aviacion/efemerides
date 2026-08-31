@@ -7,11 +7,11 @@ author: [Enrique Pomares]
 pais: Estados Unidos
 operator: Boeing
 excerpt: "El Boeing 747 RA001 'City of Everett' realizó su vuelo inaugural el 9 de febrero de 1969 desde Paine Field, Everett, con Jack Waddell, Brien Wygle y Jesse Wallick a los mandos. Este ensayo de 75 minutos marcó el inicio de la era del Jumbo Jet."
-image: 1969-02-09-primer-vuelo-boeing-747.webp
+image: 1969-02-09-boeing-747-primer-vuelo.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-02-09-primer-vuelo-boeing-747.webp" alt="Boeing 747 RA001 en su primer vuelo">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-02-09-boeing-747-primer-vuelo.webp" alt="Boeing 747 RA001 en su primer vuelo">
   <figcaption class="post-caption">Boeing 747-121 prototipo RA001, matrícula N7470 "City of Everett", en vuelo de prueba durante su primer despegue el 9 de febrero de 1969 desde Paine Field, Everett, Washington. Imagen publicada en Vintage Aviation News.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
