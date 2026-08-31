@@ -50,7 +50,7 @@ Su aparición generó temor en Occidente, que lo consideró inicialmente un “s
 - **1964, 6 mar:** Primer vuelo del prototipo Ye-155R-1.  
 - **1964, 9 sep:** Primer vuelo del prototipo interceptor Ye-155P-1.  
 - **1965–1977:** Récords mundiales con designación Ye-266.  
-- **1976:** Deserción de Viktor Belenko a Japón con un MiG-25.  
+- **1976:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1976/09/06/desercion-viktor-belenko-mig25-foxbat.html" style="color: #315fea; text-decoration: none;">deserción de Viktor Belenko a Japón con un MiG-25</a>.  
 - **1977:** Récord absoluto de altitud: 37,650 m.  
 
 ## Consecuencias e Impacto
