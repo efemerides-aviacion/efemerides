@@ -7,7 +7,7 @@ author: [Enrique Pomares]
 pais: [Venezuela]
 operator: [Fuerza Aérea Venezolana (FAV) / Armada Nacional]
 excerpt: "Venezuela ratifica su soberanía sobre el Archipiélago Los Monjes tras un intercambio diplomático con Colombia, apoyado por un despliegue de presencia aeronaval."
-image: "1952-11-29-ratificacion-soberania-venezuela-los-monjes.webp"
+image: 1952-11-29-ratificacion-soberania-venezuela-los-monjes.webp
 ---
 
 <figure>

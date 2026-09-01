@@ -7,7 +7,7 @@ author: [Enrique Pomares]
 pais: [México]
 operator: [George M. Dyott]
 excerpt: "Francisco I. Madero hace historia al convertirse en el primer jefe de Estado en el mundo en realizar un vuelo en avión, despegando desde los llanos de Balbuena."
-image: "1911-11-30-primer-presidente-en-vuelo.webp"
+image: 1911-11-30-primer-presidente-en-vuelo.webp
 ---
 
 <figure>
