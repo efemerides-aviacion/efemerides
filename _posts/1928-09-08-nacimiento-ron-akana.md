@@ -15,7 +15,14 @@ image: 1928-09-08-nacimiento-ron-akana.webp
   <figcaption class="post-caption">Ron Akana en su época de retiro con el uniforme de United Airlines. Ostentó el récord mundial Guinness a la carrera más larga como auxiliar de vuelo comercial (1949-2012).</figcaption>
 </figure>
 
-El **8 de septiembre de 1928** nació en Honolulu, Hawái, **Ronald Byrd Akana**, quien dejaría una huella imborrable en la historia de la aviación comercial. Akana dedicó sesenta y tres años de su vida a servir como auxiliar de vuelo para United Airlines, acumulando un estimado de 200 millones de millas voladas y obteniendo el reconocimiento del Guinness World Records al momento de su jubilación en 2012.
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 8 de septiembre de 1928 nació en Honolulu, Hawái, Ronald Byrd Akana, quien dejaría una huella imborrable en la historia de la aviación comercial. Akana dedicó sesenta y tres años de su vida a servir como auxiliar de vuelo para United Airlines, acumulando un estimado de 200 millones de millas voladas y obteniendo el reconocimiento del Guinness World Records al momento de su jubilación en 2012.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
