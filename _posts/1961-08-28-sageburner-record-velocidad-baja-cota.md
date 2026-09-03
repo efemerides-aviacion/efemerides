@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: United States Navy
-excerpt: "El 28 de agosto de 1961, los tenientes Huntington Hardisty y Earl De Esch cruzaron un pasillo medido de tres kilómetros sobre el desierto de Nuevo México a 1.452,777 km/h, sin subir en ningún momento por encima de 38 metros. Era el segundo intento del proyecto Sageburner: el primero, en mayo, había costado la vida a sus dos tripulantes."
+excerpt: "El 28 de agosto de 1961, los Tenientes Huntington Hardisty y Earl De Esch cruzaron un pasillo medido de tres kilómetros sobre el desierto de Nuevo México a 1.452,777 km/h, sin subir en ningún momento por encima de 38 metros. Era el segundo intento del proyecto Sageburner: el primero, en mayo, había costado la vida a sus dos tripulantes."
 image: 1961-08-28-sageburner-record-velocidad-baja-cota.webp
 ---
 
@@ -63,7 +63,7 @@ El Phantom II era entonces una novedad radical: un caza embarcado grande y pesad
 - **27 de mayo de 1958:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/27/primer-vuelo-prototipo-yf4h1-phantom-ii.html" style="color: #315fea; text-decoration: none;">primer vuelo del prototipo YF4H-1 Phantom II</a>, el aparato que protagonizaría toda la campaña de récords.
 - **6 de diciembre de 1959:** operación *Top Flight*. El Comandante Lawrence E. Flint lleva un YF4H-1 a 30.040 m en ascenso balístico.
 - **1960:** el Phantom establece marcas de velocidad en circuitos cerrados de 500 y 100 km.
-- **24 de mayo de 1961:** operación *LANA*. Los tenientes Richard Gordon —futuro astronauta del Apolo XII— y Bobbie Long cruzan Estados Unidos de costa a costa en 2 h 47 min y ganan el Trofeo Bendix.
+- **24 de mayo de 1961:** operación *LANA*. Los Tenientes Richard Gordon —futuro astronauta del Apolo XII— y Bobbie Long cruzan Estados Unidos de costa a costa en 2 h 47 min y ganan el Trofeo Bendix.
 - **18 de mayo de 1961:** primer intento de Sageburner. El F4H-1F Bu. No. 145316 se desintegra en vuelo al fallar el amortiguador de cabeceo. Mueren el Comandante Jack L. Felsman y el Alférez Raymond M. Hite.
 - **Verano de 1961:** se rediseña y simplifica el sistema de control de cabeceo. Hardisty valida los cambios en un simulador de oscilaciones inducidas por el piloto antes de autorizar el segundo intento.
 - **28 de agosto de 1961:** al amanecer, el Bu. No. 145307 cruza dos veces el pasillo de tres kilómetros a menos de 38 metros del suelo. Récord mundial: 1.452,777 km/h.
@@ -126,7 +126,7 @@ El avión del récord, el Bu. No. 145307, fue entregado al Museo Nacional del Ai
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-23 08:33:43 CST
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias/institucionales consultadas:** Fédération Aéronautique Internationale (expediente 8516: velocidad homologada, fecha, emplazamiento, tripulante, clase, subclase y grupo); Smithsonian National Air and Space Museum (ficha de colección del aparato, con relato del proyecto y del accidente previo); U.S. Navy (fotografía oficial 330-PSA-182-61 y su pie de prensa contemporáneo).
 - **Fuentes secundarias de contraste:** This Day in Aviation (dos entradas: el récord y el accidente de mayo), Aviation Safety Network, Wikipedia (EN).
 - **Discrepancias resueltas:** La velocidad se consigna en el valor homologado por la FAI, 1.452,777 km/h; se documentan en nota las tres cifras en millas que circulan, incluida la errata de 907,769 mph. El emplazamiento se explica como White Sands junto a Holloman, sin contradicción entre fuentes. Se aclara la designación del aparato: F4H-1F en 1961, redesignado F-4A en 1962, distinto del F-4B de producción posterior.

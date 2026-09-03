@@ -55,7 +55,7 @@ La era del jet cimentó una estética futurista y de glamour que transformó par
 La incorporación del Comet 4C a la flota de Mexicana y su histórico vuelo del 4 de julio de 1960 coronaron meses de complejas negociaciones financieras y disputas laborales, detallándose a continuación sus hitos más significativos:
 
 - **Mediados de 1959:** La Compañía Mexicana de Aviación firma el contrato de compra por tres modernos reactores de pasajeros De Havilland Comet 4C en condiciones financieras altamente ventajosas.
-- **14 de enero de 1960 (21:55 horas):** El primer Comet 4C (XA-NAS) de la aerolínea de bandera de la empresa de aviación mexicana de transporte aterriza en la Ciudad de México procedente de Londres, tripulado por los capitanes Marcial Huerta Jones, Carlos Niño de Rivera y el ingeniero de vuelo Alonso Grab.
+- **14 de enero de 1960 (21:55 horas):** El primer Comet 4C (XA-NAS) de la aerolínea de bandera de la empresa de aviación mexicana de transporte aterriza en la Ciudad de México procedente de Londres, tripulado por los Capitanes Marcial Huerta Jones, Carlos Niño de Rivera y el ingeniero de vuelo Alonso Grab.
 - **Enero-mayo de 1960:** El inicio de los vuelos comerciales se ve demorado debido al histórico conflicto laboral entre la CMA y la recién fundada Asociación Sindical de Pilotos Aviadores (ASPA), que exigía el reconocimiento del contrato colectivo.
 - **Mayo de 1960:** Se firma el primer contrato colectivo entre la CMA y la ASPA, iniciándose de inmediato los exigentes cursos de adiestramiento de los pilotos de la compañía al nuevo equipo de reacción.
 - **4 de julio de 1960 (17:30 horas):** Comandado por el Capitán Roberto Pini Pignol, el Comet 4C XA-NAS despega del Aeropuerto Internacional de la Ciudad de México con 81 pasajeros con destino a Los Ángeles.
@@ -104,7 +104,7 @@ A más de seis décadas de su histórica inauguración, el vuelo del de Havillan
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación comercial de la era del reactor presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** Bitácoras de vuelo originales del De Havilland Comet 4C XA-NAS, archivos oficiales de la Secretaría de Comunicaciones y Transportes (SCT) de México de 1960, registros de contratos de la Asociación Sindical de Pilotos Aviadores (ASPA) y el catálogo de restauración de aeronaves del Museum of Flight de Seattle
 - **Discrepancias resueltas:** Se identificó y resolvió la discrepancia sobre el comandante en jefe del primer vuelo comercial (confirmando al Cap. Roberto Pini Pignol de conformidad con las bitácoras operativas, y precisando el papel histórico de Andrés Fabre Terán en la resolución del conflicto con la ASPA). Asimismo, se validó la duración exacta del vuelo de inauguración en exactamente tres horas y el número de pasajeros de pago en 81.
 - **Nivel de confianza:** Alto

@@ -169,7 +169,7 @@ El aeropuerto de San Julián, desde donde partieron muchas de aquellas misiones,
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el nombre "Bautismo de Fuego":</strong> El término "bautismo de fuego" se refiere a la primera vez que una unidad militar entra en combate real. Para la Fuerza Aérea Argentina, el 1 de mayo de 1982 constituyó ese momento histórico, en el que por primera vez sus pilotos y personal se enfrentaron a una potencia extranjera en situación de guerra.</p>
-<p><strong>Sobre las bajas de la FAA el 1 de mayo:</strong> Las fuentes coinciden en que 14 miembros de la FAA ofrendaron su vida ese día: el Capitán Gustavo Argentino García Cuerva; los primeros tenientes Mario Hipólito González y José Leónidas Ardiles; los tenientes Daniel Antonio Jukic y Eduardo Jorge Raúl de Ibañez; los cabos principales Mario Duarte y Juan Antonio Rodríguez; los cabos primeros Miguel Ángel Carrizo, José Alberto Maldonado, Agustín Hugo Montaño, José Luis Peralta y Andrés Luis Brashich; y los soldados clase 63 Héctor Ramón Bordón y Guillermo Ubaldo García.</p>
+<p><strong>Sobre las bajas de la FAA el 1 de mayo:</strong> Las fuentes coinciden en que 14 miembros de la FAA ofrendaron su vida ese día: el Capitán Gustavo Argentino García Cuerva; los primeros Tenientes Mario Hipólito González y José Leónidas Ardiles; los Tenientes Daniel Antonio Jukic y Eduardo Jorge Raúl de Ibañez; los cabos principales Mario Duarte y Juan Antonio Rodríguez; los cabos primeros Miguel Ángel Carrizo, José Alberto Maldonado, Agustín Hugo Montaño, José Luis Peralta y Andrés Luis Brashich; y los soldados clase 63 Héctor Ramón Bordón y Guillermo Ubaldo García.</p>
 <p><strong>Sobre las designaciones TORO y TORNO:</strong> La Sección TORO (2 Dagger) protagonizó el primer combate aéreo del día contra Sea Harriers, sin daños. La Escuadrilla TORNO (3 Dagger) fue la que atacó y dañó los buques británicos. Son unidades diferentes con indicativos distintos.</p>
 </div>
 
@@ -194,7 +194,7 @@ El aeropuerto de San Julián, desde donde partieron muchas de aquellas misiones,
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** Noticias En Vuelo (FAA), Infobae, Gaceta Aeronautica, Fundación Malvinas, TN, Obispado Castrense
 - **Discrepancias resueltas:** Las fuentes oficiales de la FAA coinciden en la fecha (1 de mayo de 1982), el horario (04:40), las bajas (14 caídos) y las operaciones (76 salidas). Se ha corregido la cifra de aeronaves perdidas de 7 a 5 (suma correcta: 2 Mirage IIIEA, 1 Dagger, 1 Canberra, 1 Pucará). Se ha aclarado en nota aclaratoria la diferencia entre las secciones TORO y TORNO.
 - **Nivel de confianza:** Alto

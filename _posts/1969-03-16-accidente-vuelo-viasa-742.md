@@ -62,7 +62,7 @@ La aviación comercial gozaba de un enorme prestigio. Volar era un símbolo de p
 
 - **Enero de 1969:** El avión McDonnell Douglas DC-9-32, matrícula YV-C-AVD, es fabricado por McDonnell Douglas. Realiza su primer vuelo el 6 de enero . Es adquirido por Avensa, subsidiaria de Pan American World Airways.
 - **27 de febrero de 1969:** Avensa entrega la aeronave en régimen de wet lease (arrendamiento con tripulación incluida) a Viasa para ser utilizada en rutas internacionales .
-- **Domingo 16 de marzo de 1969, 10:30 a.m.:** El vuelo 742 despega del Aeropuerto Internacional Simón Bolívar de Maiquetía con destino a Maracaibo, llevando a bordo a 10 tripulantes (incluyendo a los capitanes Harry Gibson y Emiliano Savelli Maldonado) y 42 pasajeros .
+- **Domingo 16 de marzo de 1969, 10:30 a.m.:** El vuelo 742 despega del Aeropuerto Internacional Simón Bolívar de Maiquetía con destino a Maracaibo, llevando a bordo a 10 tripulantes (incluyendo a los Capitanes Harry Gibson y Emiliano Savelli Maldonado) y 42 pasajeros .
 - **11:30 a.m.:** La aeronave aterriza en el Aeropuerto Grano de Oro de Maracaibo. Durante la maniobra, algunos testigos observan que el avión roza la copa de árboles cercanos a la pista, por lo que se realiza una inspección del fuselaje . En la escala, el Capitán Gibson desembarca y el mando del vuelo es asumido por el Capitán Emiliano Savelli Maldonado, jefe de operaciones de Avensa, con 25 años de experiencia y 28,000 horas de vuelo . El primer oficial es José Gregorio Rodríguez Silva .
 - **Previo al despegue:** Se repostan 12,700 kilogramos (aproximadamente 28,000 libras) de combustible para el tramo a Miami . Abordan 27 pasajeros adicionales, totalizando 74 pasajeros y 10 tripulantes.
 - **12:00 m. (aproximadamente):** La aeronave inicia el carreteo para el despegue. Por error, el Capitán Savelli ingresa a la pista a través de una calle de rodaje intermedia, quedando a unos 400 metros de la cabecera. Esto reduce la longitud efectiva de despegue de 2,000 metros a solo 1,600 metros . La controladora aérea Amelia Lara, la única mujer en Latinoamérica en su puesto, autoriza el despegue sin percatarse de la posición incorrecta del avión .
@@ -111,7 +111,7 @@ El vuelo 742 de Viasa permanece en la memoria colectiva de Venezuela como "La tr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN/PT), El Diario, El Zuliano Rajao, Vadeaviones, YankeeVictor400, Diario República, Diario Versión Final, Aviation Safety Network  
 - **Discrepancias resueltas:** Se aclaró en nota específica la participación de Avensa como propietaria de la aeronave y de la tripulación de vuelo, y la razón por la que el accidente es históricamente atribuido a Viasa.  
 - **Nivel de confianza:** Alto  
