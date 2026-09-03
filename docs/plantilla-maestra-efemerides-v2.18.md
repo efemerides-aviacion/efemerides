@@ -1,10 +1,26 @@
 # Documento Maestro de Plantillas de Efemérides de Aviación
-> Última actualización: 2026-08-28  
-> Versión: v2.17
+> Última actualización: 2026-09-03  
+> Versión: v2.18
 
 ---
 
 ## Nota sobre esta versión
+
+**Novedad de la v2.18.** Reescritura de la **regla maestra 5**, aprobada por el editor el
+03-09-2026 a raíz de su «Comparación de tratamientos y rangos», que se incorpora como
+anexo normativo de `docs/`: (a) la lista de grados militares pasa a ser **enunciativa, no
+cerrada** —Subteniente, Alférez, Teniente de Navío, Comodoro y todo equivalente de cualquier
+arma, país y época—; (b) se **codifica el plural** de grado ante lista de nombres propios
+(mayúscula: *los Tenientes Gómez y Ramírez*); (c) se **regulan por primera vez los
+tratamientos** honoríficos y académicos (Doctor, Licenciado, Señor/a, Señorita): mayúscula
+al preceder inmediatamente al nombre propio, minúscula sin él —decisión D2-a—; (d) se
+reconfirma la **minúscula de cargos y oficios civiles** incluso ante nombre propio
+—decisión D1-a—. La desviación frente a la Ortografía de la RAE queda escrita como
+deliberada de la casa, con fundamento en el anexo y auditada por el linter. En paralelo:
+Manual de Estilo v1.15 (§ 4.3) e Instrucciones de Formato v2.15 (apartado de rangos).
+Registro de la versión anterior debajo.
+
+### Registro de la v2.17
 
 **Novedad de la v2.17.** Dos precisiones de fondo, aprobadas por el editor el
 28-08-2026 al levantar la moratoria del 21-08 para los rectores afectados por los
@@ -215,19 +231,16 @@ documento publicado solo se consigna, si procede, que la imagen empleada no
 corresponde al instante exacto del hecho (véase la sección de pies de foto y la
 regla maestra 8).
 
-### 5) Grados militares
-En temas militares o biográficos castrenses, los grados deben escribirse con mayúscula inicial:
-- `Teniente`
-- `Capitán`
-- `Mayor`
-- `Teniente Coronel`
-- `Coronel`
-- `General de Brigada`
+### 5) Grados militares, jerarquías de aviación y tratamientos
+Ante nombre propio inmediato, mayúscula inicial en:
+- los grados militares de cualquier arma, país y época —lista enunciativa, no cerrada: `Teniente`, `Subteniente`, `Capitán`, `Mayor`, `Teniente Coronel`, `Coronel`, `Alférez`, `General de Brigada`, `Teniente de Navío`, `Comodoro`, `Sargento`…—;
+- las jerarquías de la aviación civil (`Capitán`, `Primer Oficial` y equivalentes);
+- los tratamientos honoríficos y académicos (`Doctor`, `Licenciado`, `Señor`, `Señora`, `Señorita` y sus femeninos) —decisión D2-a del editor, 2026-09-03—;
+- el plural que encabeza una lista de nombres propios: `los Tenientes Gómez y Ramírez`, `los Mayores Squier y Wallace`.
 
-Las jerarquías de la aviación (*Capitán*, *Primer Oficial* y equivalentes) siguen
-la misma regla cuando acompañan al nombre propio (*Capitán Omar Ospina*, *Primer
-Oficial David Muñoz*); sin nombre propio van en minúscula (*el capitán desconecta
-el autopiloto*).
+Sin nombre propio: minúscula. Cargos y oficios civiles: minúscula siempre, incluso ante nombre propio (*el ingeniero civil Gustavo Heny*, *el presidente Juan Pablo Rojas Paúl*) —decisión D1-a, en vigor desde el primer Manual y reconfirmada el 2026-09-03—.
+
+**Desviación deliberada de la pauta RAE** (que prescribe minúscula uniforme): el proyecto sigue el protocolo venezolano y el uso periodístico de referencia, documentados en `docs/anexo-comparacion-tratamientos-y-rangos.md`. El Manual de Estilo § 4.3 desarrolla la regla y el linter la audita.
 
 ### 6) Metadatos: el borrador no se cita
 

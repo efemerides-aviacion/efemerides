@@ -1,6 +1,6 @@
 # Instrucciones de formato de salida para efemérides
-> Última actualización: 2026-08-28  
-> Versión: v2.14
+> Última actualización: 2026-09-03  
+> Versión: v2.15
 
 ---
 
@@ -135,14 +135,12 @@ antes de hoy» y cualquier mención de aniversario.
 
 ## RANGOS, NOMBRES Y ESTILO HISTÓRICO
 
-### Grados militares
-En temas militares, los grados deben ir con mayúscula inicial:
-- `Teniente`
-- `Capitán`
-- `Mayor`
-- `Teniente Coronel`
-- `Coronel`
-- `General de Brigada`
+### Grados, jerarquías y tratamientos
+- Grados militares de cualquier arma, país y época —lista enunciativa: `Teniente`, `Subteniente`, `Capitán`, `Mayor`, `Teniente Coronel`, `Coronel`, `Alférez`, `Teniente de Navío`, `Comodoro`, `Sargento`, `General de Brigada`…— y jerarquías de aviación civil (`Capitán`, `Primer Oficial`…): **mayúscula inicial al preceder inmediatamente al nombre propio**; minúscula sin él.
+- El plural que encabeza una lista de nombres conserva la mayúscula: `los Tenientes Gómez y Ramírez`.
+- Tratamientos honoríficos y académicos (`Doctor`, `Licenciado`, `Señor`, `Señora`, `Señorita` y femeninos): mayúscula al preceder inmediatamente al nombre propio (`Doctor Juan Pablo Rojas Paúl`), minúscula en cualquier otro uso —decisión D2-a del editor, 2026-09-03—.
+- Cargos y oficios civiles: minúscula siempre, incluso con nombre propio (`el ingeniero civil Gustavo Heny`, `el presidente Juan Pablo Rojas Paúl`) —decisión D1-a—.
+- La capitalización de grados y tratamientos se aparta deliberadamente de la Ortografía de la RAE por el protocolo venezolano de referencia; fundamento y tabla comparativa: `docs/anexo-comparacion-tratamientos-y-rangos.md`. Rige el Manual de Estilo § 4.3 (v1.15); el linter lo audita.
 
 ### Precisión nominal
 Si una fuente usa variantes de nombre, apellido, matrícula o designación:
@@ -594,3 +592,15 @@ pertinente en el alta del Varig 254 (2026-08-28).
 
 Alineadas en la misma fecha: Plantilla Maestra v2.17, Manual de Estilo v1.14 e
 Instrucciones de Procesar v2.14.
+
+---
+
+## ACTUALIZACIONES DE FORMATO V2.15 — 2026-09-03
+
+### Reescritura del apartado de rangos (decisiones D1-a y D2-a del editor)
+«Grados militares» pasa a «Grados, jerarquías y tratamientos»: lista enunciativa de grados (ya no cerrada a seis ejemplos), regla expresa para el plural de grado ante lista de nombres propios, capitalización de los tratamientos honoríficos y académicos al preceder inmediatamente al nombre (D2-a) y reconfirmación de la minúscula de los cargos y oficios civiles (D1-a). Motivo: la redacción anterior, cerrada y muda en los tratamientos, era fuente de discrepancia recurrente; la auditoría del corpus del 03-09-2026 contó ≈34 residuos de grados en minúscula, 18 plurales sin norma escrita y 13 tratamientos divergentes entre posts.
+
+### Incorporación del anexo comparativo (D3)
+El documento del editor «Comparación de tratamientos y rangos» (pautas RAE / uso periodístico / protocolo venezolano) queda anexado a `docs/` como referencia normativa, citado desde la Plantilla Maestra v2.18 (regla maestra 5), el Manual de Estilo v1.15 (§ 4.3) y este apartado, como fundamento de la desviación expresa frente a la pauta RAE.
+
+Alineadas en la misma fecha: Plantilla Maestra v2.18 y Manual de Estilo v1.15; Instrucciones de Procesar v2.14, sin novedad.

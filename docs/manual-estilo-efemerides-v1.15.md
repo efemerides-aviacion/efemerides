@@ -1,6 +1,6 @@
 # Manual de Estilo de Efemérides
-> Edición consolidada: 2026-08-28  
-> Versión: v1.14
+> Edición consolidada: 2026-09-03  
+> Versión: v1.15
 
 ---
 
@@ -67,20 +67,22 @@ Las cabeceras normativas deben mantenerse exactamente en su forma oficial.
 - evitar calcos torpes del inglés;
 - traducir citas o expresiones completas si se incluyen.
 
-### 4.3 Grados militares
-Capitalizar grados cuando sean parte significativa de la identificación histórica:
-- Teniente
-- Capitán
-- Mayor
-- Teniente Coronel
-- Coronel
-- General de Brigada
+### 4.3 Grados militares, jerarquías de aviación y tratamientos
 
-La capitalización rige también seguidos del nombre, propios y ajenos: *Capitán
-Gastón Lafannechère*, *Teniente Vicente Landaeta Gil*, *Teniente de Navío
-Roberto Guérin*, *Coronel David López Henríquez*, *General Emilio Fernández*.
-Los cargos y oficios civiles van en minúscula: *el comandante del vuelo*, *el
-ingeniero civil Gustavo Heny*, *el presidente de la aerolínea*.
+Los grados militares, de cualquier arma, país y época, se escriben con mayúscula
+inicial cuando preceden inmediatamente a un nombre propio. La lista es
+**enunciativa, no cerrada**: Teniente, Subteniente, Capitán, Mayor, Teniente
+Coronel, Coronel, Alférez, General de Brigada, Teniente de Navío, Comodoro,
+Sargento…, y rige para grados ajenos y antiguos del mismo modo. La
+capitalización rige también seguidos del nombre: *Capitán Gastón
+Lafannechère*, *Teniente Vicente Landaeta Gil*, *Teniente de Navío Roberto
+Guérin*, *Coronel David López Henríquez*, *General Emilio Fernández*. Sin
+nombre propio van en minúscula (*el coronel retirado firmó el informe*).
+
+El **plural que encabeza una lista de nombres propios conserva la
+mayúscula**: *los Tenientes Gómez y Ramírez*, *los Mayores Squier y Wallace*.
+Precisión del editor (2026-09-03): era el vacío que dejaba sin criterio la
+correcta escritura de nóminas de oficiales en los ensayos de Fort Myer.
 
 Las jerarquías de la aviación se tratan como los grados militares: *Capitán* y
 *Primer Oficial* (y equivalentes) van con mayúscula inicial cuando acompañan al
@@ -89,13 +91,34 @@ minúscula sin él (*el capitán desconecta el autopiloto*, *el primer oficial
 avisa*). Precisión del investigador del 12 de agosto de 2026: son denominaciones
 jerárquicas tan significativas como el grado castrense.
 
-Motivo: en la efeméride del 14 de julio de 1938 se entregó «teniente» dos veces
-en minúscula y el editor debió corregirlo a mano antes del commit (2026-08-08).
+Los **tratamientos honoríficos y académicos** —Doctor, Licenciado, Señor,
+Señora, Señorita y sus femeninos— siguen la regla de los grados: mayúscula
+inicial cuando preceden inmediatamente al nombre propio (*Doctor Juan Pablo
+Rojas Paúl*, *Licenciada Gregoria*), minúscula en cualquier otro uso. Decisión
+D2-a del editor (2026-09-03), alineada con el protocolo venezolano y el uso
+periodístico recogidos en el anexo *Comparación de tratamientos y rangos*
+(`docs/anexo-comparacion-tratamientos-y-rangos.md`).
 
-Los sustantivos comunes en cuanto al género se emplean en forma invariable
-también referidos a mujer, por norma de la casa: *presidente*, *estudiante*,
-*navegante*, *jefe*, *gerente*; no se usan *presidenta* ni análogos. Precisión
-del investigador (14 de agosto de 2026, efeméride de Katharine Wright).
+Los **cargos y oficios civiles van en minúscula incluso ante nombre propio**:
+*el comandante del vuelo*, *el ingeniero civil Gustavo Heny*, *el presidente de
+la aerolínea*, *el presidente Juan Pablo Rojas Paúl*. Decisión D1-a del editor
+(2026-09-03): se mantiene la regla vigente y se armonizan hacia ella las
+correlaciones capitalizadas heredadas.
+
+**Fundamento de la desviación respecto a la Ortografía de la RAE** —que
+prescribe minúscula uniforme para grados, jerarquías y tratamientos—: es una
+elección deliberada de la casa, no una licencia tipográfica. El proyecto
+conmemora la aviación con abundante material de entorno venezolano, donde la
+mayúscula protocolaria es la forma esperada; la comparación completa de pautas
+se custodia como anexo normativo, y la regla es auditada por el linter
+(`efemerides-linter.sh`, regla maestra 5 de la Plantilla).
+
+Motivos y precedentes: en la efeméride del 14 de julio de 1938 se entregó
+«teniente» dos veces en minúscula y el editor debió corregirlo a mano antes del
+commit (2026-08-08); el Subteniente Manuel Ríos convivía con su grafía
+minúscula dentro del mismo post (1921-04-15, auditoría del 03-09-2026); los
+seis grados del alta de Orville Wright en Fort Myer se capitalizaron antes de
+su publicación (03-09-2026).
 
 ### 4.4 Siglas y acrónimos
 En su primera aparición en el documento, toda sigla o acrónimo se escribe con
@@ -443,6 +466,8 @@ investigador (14 de agosto de 2026).
   (§ 6.3);
 - incluir en el post líneas de estado del documento o notas sobre resolución de
   imágenes (§ 9.1).
+- escribir en minúscula un grado, una jerarquía de aviación o un tratamiento honorífico que precede inmediatamente a un nombre propio (§ 4.3);
+- capitalizar cargos u oficios civiles ante nombre propio, o escribir en minúscula el plural de grado que encabeza una lista de nombres (§ 4.3, decisiones D1-a y D2-a de 2026-09-03);
 
 ---
 
@@ -657,3 +682,13 @@ agosto:
 
 Alineadas en la misma fecha: Plantilla Maestra v2.17, Instrucciones de Formato
 v2.14 e Instrucciones de Procesar v2.14.
+
+---
+
+## 26. Actualizaciones editoriales v1.15 — 2026-09-03
+
+- **§ 4.3 reescrita** (decisiones D1-a y D2-a del editor, 2026-09-03): la lista de grados militares pasa a ser enunciativa y no cerrada (Subteniente, Alférez, Teniente de Navío, Comodoro…); se codifica el plural de grado ante lista de nombres propios; se regulan por primera vez los tratamientos honoríficos y académicos (mayúscula al preceder inmediatamente al nombre propio) y se confirma la minúscula de los cargos y oficios civiles. Se añade el párrafo de fundamento que documenta la desviación deliberada frente a la pauta RAE.
+- **§ 13, dos viñetas nuevas de errores** remitiendo a § 4.3.
+- Nuevo anexo normativo citado: `docs/anexo-comparacion-tratamientos-y-rangos.md` (comparación de pautas aportada por el editor el 03-09-2026, reproducida verbatim).
+
+Alineadas en la misma fecha: Plantilla Maestra v2.18 (regla maestra 5) e Instrucciones de Formato v2.15 (apartado de rangos). Instrucciones de Procesar v2.14: sin novedad.
