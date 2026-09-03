@@ -52,7 +52,7 @@ Su trágica muerte el 4 de febrero de 1931, en un accidente aéreo en Barquisime
 
 El nombre de Vicente Landaeta Gil fue inmortalizado el 14 de febrero de 1964, cuando se inauguró oficialmente la **Base Aérea Teniente Vicente Landaeta Gil (Balanda)** en Barquisimeto, estado Lara. Esta base militar fue concebida como una infraestructura con todos los servicios para garantizar la movilización y operatividad de los sistemas de armas de la Aviación Militar Bolivariana.
 
-El primer comandante de la unidad fue el mayor (Av) Juan Ignacio Leyzeaga. La base ha sido sede de importantes unidades aéreas, entre ellas el Grupo Aéreo de Bombardeo N.º 13 (con aviones B-25 Mitchell), el Grupo Aéreo de Caza N.º 12 (con aviones F-86K, F-86F y posteriormente CF-5/VF-5), y el Escuadrón de Policía Aérea. El 27 de abril de 2026, la base celebró su 62 aniversario, consolidándose como un símbolo vivo de la unión y la formación de aviadores en el país.
+El primer comandante de la unidad fue el Mayor (Av) Juan Ignacio Leyzeaga. La base ha sido sede de importantes unidades aéreas, entre ellas el Grupo Aéreo de Bombardeo N.º 13 (con aviones B-25 Mitchell), el Grupo Aéreo de Caza N.º 12 (con aviones F-86K, F-86F y posteriormente CF-5/VF-5), y el Escuadrón de Policía Aérea. El 27 de abril de 2026, la base celebró su 62 aniversario, consolidándose como un símbolo vivo de la unión y la formación de aviadores en el país.
 
 Para conocer más detalles sobre la creación de esta base, puede consultar la efeméride de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1964/02/14/base-aerea-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;"><strong>Fundación de la Base Aérea Teniente Vicente Landaeta Gil, Barquisimeto</strong></a> (14 de febrero de 1964).
 
@@ -80,7 +80,7 @@ Para conocer más detalles sobre la creación de esta base, puede consultar la e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 18:00:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias/institucionales consultadas:** ninguna gaceta ni expediente militar accesible
 - **Fuentes secundarias de contraste:** Wikipedia (Base Aérea Teniente Vicente Landaeta Gil); El Impulso; LaPatilla; Defensa.com
 - **Discrepancias resueltas:** El post se ha reenfocado en el nacimiento y la vida del personaje. Se ha integrado un enlace a la efeméride de la Escuela de Aviación Militar en el Contexto Histórico, y se han mantenido los enlaces al accidente y a la base aérea.

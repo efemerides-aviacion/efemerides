@@ -113,14 +113,14 @@ La reinvención de 2021 tiene una lógica que el lector atento ya adivinó: la u
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
-<p><strong>Nota aclaratoria:</strong> sobre el combate del 6 de julio de 1917, la Royal Air Force presenta al teniente Woodbridge como el primer aviador <em>aliado</em> en herir en combate a Manfred von Richthofen, mientras que la enciclopedia consultada lo califica de primer <em>británico</em>; ambas fuentes coinciden en la fecha y en el efecto de la herida, que mantuvo al piloto alemán meses lejos del frente. En cuanto al balance de victorias, las mismas fuentes distinguen entre las 628 reclamadas por el escuadrón y las más de 460 confirmadas en los comunicados oficiales del RFC; este post recoge la cifra confirmada.</p>
+<p><strong>Nota aclaratoria:</strong> sobre el combate del 6 de julio de 1917, la Royal Air Force presenta al Teniente Woodbridge como el primer aviador <em>aliado</em> en herir en combate a Manfred von Richthofen, mientras que la enciclopedia consultada lo califica de primer <em>británico</em>; ambas fuentes coinciden en la fecha y en el efecto de la herida, que mantuvo al piloto alemán meses lejos del frente. En cuanto al balance de victorias, las mismas fuentes distinguen entre las 628 reclamadas por el escuadrón y las más de 460 confirmadas en los comunicados oficiales del RFC; este post recoge la cifra confirmada.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-26 14:54:18 CST
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias/institucionales consultadas:** Royal Air Force (artículo institucional de RAF Boulmer, 2021, y comunicado de reasignación del numeral, 2021); Imperial War Museums (colección oficial del Air Ministry, CI664, imagen del post)
 - **Fuentes secundarias de contraste:** Wikipedia en inglés (historial con referencias a The National Archives, Jefford y Roberson)
 - **Discrepancias resueltas:** «primer aliado» (RAF) frente a «primer británico» (Wikipedia) en la herida de Richthofen; 628 victorias reclamadas frente a más de 460 confirmadas; el número de tipos operados se toma de la lista canónica del historial del escuadrón.

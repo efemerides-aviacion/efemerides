@@ -37,13 +37,13 @@ image: 1888-09-08-creacion-observatorio-astronomico-meteorologico-caracas.webp
 ## Contexto Histórico
 
 ### Entorno social
-A finales del siglo XIX, Venezuela atravesaba una fase de consolidación de sus instituciones civiles tras períodos de gran turbulencia política. El gobierno del doctor Juan Pablo Rojas Paúl se caracterizó por un marcado interés en la pacificación y el fomento de la educación y la cultura, que incluyó la creación de academias cívicas e instituciones que alejaran al país de su pasado predominantemente caudillista.
+A finales del siglo XIX, Venezuela atravesaba una fase de consolidación de sus instituciones civiles tras períodos de gran turbulencia política. El gobierno del Doctor Juan Pablo Rojas Paúl se caracterizó por un marcado interés en la pacificación y el fomento de la educación y la cultura, que incluyó la creación de academias cívicas e instituciones que alejaran al país de su pasado predominantemente caudillista.
 
 ### Entorno tecnológico
 Los avances en instrumentación científica europea (telescopios de precisión, barómetros de mercurio, anemómetros) comenzaban a estandarizarse a nivel mundial. La meteorología como disciplina requería datos sincrónicos y fiables. El Estado venezolano identificó la urgencia de dotar al país de un centro especializado moderno que integrara equipos rescatados de la antigua Academia Militar de Matemáticas con nuevas adquisiciones.
 
 ### Entorno cultural
-El positivismo y la fe en la ciencia como motor del progreso dominaban el pensamiento intelectual de la época. Honrar la memoria del coronel Juan Manuel Cagigal (pionero de los estudios matemáticos en el país) al bautizar la colina del observatorio reflejaba el deseo de cimentar una tradición científica propia y permanente en la nación sudamericana.
+El positivismo y la fe en la ciencia como motor del progreso dominaban el pensamiento intelectual de la época. Honrar la memoria del Coronel Juan Manuel Cagigal (pionero de los estudios matemáticos en el país) al bautizar la colina del observatorio reflejaba el deseo de cimentar una tradición científica propia y permanente en la nación sudamericana.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -79,7 +79,7 @@ Reconocido en la actualidad como Observatorio Naval Cagigal (bajo la tutela del 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-02 08:35 CST
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias/institucionales consultadas:** Gaceta Oficial N.º 4.431 (referencia histórica en UCV) y portal oficial del SHN.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** «Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]».

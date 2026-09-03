@@ -54,7 +54,7 @@ El De Havilland DH.100 Vampire fue uno de los primeros cazas a reacción del mun
 
 ### Entorno cultural
 
-La formación de un equipo acrobático con aviones a reacción era una iniciativa ambiciosa que buscaba demostrar el poderío y la destreza de la Fuerza Aérea Venezolana. Los pilotos seleccionados pertenecían a las primeras promociones de aviadores entrenados en la era del jet. La muerte del subteniente Osorio, así como el heroico rescate de Jelambi, conmovieron profundamente a la institución militar y a la opinión pública.
+La formación de un equipo acrobático con aviones a reacción era una iniciativa ambiciosa que buscaba demostrar el poderío y la destreza de la Fuerza Aérea Venezolana. Los pilotos seleccionados pertenecían a las primeras promociones de aviadores entrenados en la era del jet. La muerte del Subteniente Osorio, así como el heroico rescate de Jelambi, conmovieron profundamente a la institución militar y a la opinión pública.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -157,7 +157,7 @@ El accidente del 27 de mayo de 1952 dejó una huella imborrable en la historia d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** Aviation Safety Network (ASN), Visconti Osorio (Calaméo, 2023), Archivo Historias y Personajes FAV, Freddy Pedrique, FAV Club, Fuerza Aérea Venezolana FAV (Facebook), Angel Magallanes
 - **Discrepancias resueltas:** Confirmación de la fecha y lugar del accidente mediante ASN. Verificación de la víctima en tierra. Confirmación de la supervivencia de Rafael Jelambi Terán mediante paracaídas desde 7.000 pies. Identificación de discrepancia sobre el tercer piloto (Berzares vs. Suárez Mier y Terán), documentada en nota aclaratoria.
 - **Nivel de confianza:** Alto (múltiples fuentes coinciden en los datos fundamentales; la discrepancia del tercer piloto está claramente documentada)

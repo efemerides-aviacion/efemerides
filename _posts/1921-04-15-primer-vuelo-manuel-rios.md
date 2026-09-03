@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Venezuela
 operator: Escuela de Aviación Militar de Venezuela
-excerpt: "El 15 de abril de 1921, el subteniente Manuel Ríos Hernández realizó el primer vuelo en solitario de un piloto militar venezolano desde el Campo de Aviación de Maracay en un Caudron G.3, marcando un hito en la naciente aviación nacional."
+excerpt: "El 15 de abril de 1921, el Subteniente Manuel Ríos Hernández realizó el primer vuelo en solitario de un piloto militar venezolano desde el Campo de Aviación de Maracay en un Caudron G.3, marcando un hito en la naciente aviación nacional."
 image: 1921-04-15-primer-vuelo-manuel-rios.webp
 ---
 
@@ -18,7 +18,7 @@ image: 1921-04-15-primer-vuelo-manuel-rios.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 15 de abril de 1921, el subteniente Manuel Ríos Hernández realizó el primer vuelo en solitario de un piloto militar venezolano desde el Campo de Aviación de Maracay. A bordo de un avión Caudron G.3, sobrevoló Maracay, Cagua, Villa de Cura y San Juan de los Morros, regresando al punto de partida en presencia de instructores franceses y autoridades militares. Este vuelo marcó el inicio formal de la aviación militar en Venezuela y consolidó a Ríos como el primer piloto venezolano en volar solo sobre el cielo nacional.</p>
+<p>El 15 de abril de 1921, el Subteniente Manuel Ríos Hernández realizó el primer vuelo en solitario de un piloto militar venezolano desde el Campo de Aviación de Maracay. A bordo de un avión Caudron G.3, sobrevoló Maracay, Cagua, Villa de Cura y San Juan de los Morros, regresando al punto de partida en presencia de instructores franceses y autoridades militares. Este vuelo marcó el inicio formal de la aviación militar en Venezuela y consolidó a Ríos como el primer piloto venezolano en volar solo sobre el cielo nacional.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -65,7 +65,7 @@ La figura del aviador era entonces objeto de admiración popular. Los vuelos pio
 
 ## El primer vuelo en solitario
 
-El 15 de abril de 1921, el subteniente Manuel Simón Ríos Hernández se convirtió en el primer alumno de la Escuela de Aviación Militar en volar solo. La fecha quedó registrada en su libreta de vuelo personal, un documento que ha sido conservado y que constituye la prueba primaria de este hito.
+El 15 de abril de 1921, el Subteniente Manuel Simón Ríos Hernández se convirtió en el primer alumno de la Escuela de Aviación Militar en volar solo. La fecha quedó registrada en su libreta de vuelo personal, un documento que ha sido conservado y que constituye la prueba primaria de este hito.
 
 ### Los otros pioneros del mismo día
 
@@ -108,7 +108,7 @@ Su legado trasciende el hecho técnico: Ríos simboliza la voluntad venezolana d
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-<p><strong>Nota aclaratoria sobre la fecha:</strong> Múltiples fuentes secundarias reportaron erróneamente el primer vuelo en solitario del subteniente Manuel Ríos el 14 de abril de 1921. Sin embargo, la revisión de la <strong>Libreta de Vuelo original del piloto</strong>, conservada en archivos de la aviación militar venezolana y citada por el coronel (AV) José Luis Ochoa Vargas (egresado de la Promoción de Oficiales de la Fuerza Aérea Venezolana en julio de 1968), confirma que la fecha correcta es el <strong>15 de abril de 1921</strong>. Esta efeméride ha sido actualizada para reflejar el dato primario verificado.</p>
+<p><strong>Nota aclaratoria sobre la fecha:</strong> Múltiples fuentes secundarias reportaron erróneamente el primer vuelo en solitario del Subteniente Manuel Ríos el 14 de abril de 1921. Sin embargo, la revisión de la <strong>Libreta de Vuelo original del piloto</strong>, conservada en archivos de la aviación militar venezolana y citada por el Coronel (AV) José Luis Ochoa Vargas (egresado de la Promoción de Oficiales de la Fuerza Aérea Venezolana en julio de 1968), confirma que la fecha correcta es el <strong>15 de abril de 1921</strong>. Esta efeméride ha sido actualizada para reflejar el dato primario verificado.</p>
 <p>El mismo día (15 de abril de 1921), el cadete Juan Yepes también realizó su primer vuelo en solitario, convirtiéndose en el segundo alumno en lograrlo, según consta en la "Memoria y Cuenta del Ministerio de Guerra y Marina al 31 de diciembre de 1921".</p>
 </div>
 
@@ -135,7 +135,7 @@ Su legado trasciende el hecho técnico: Ríos simboliza la voluntad venezolana d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** Libreta de Vuelo original del Capitán Manuel Simón Ríos Hernández, Coronel (AV) José Luis Ochoa Vargas, "Memoria y Cuenta del Ministerio de Guerra y Marina al 31 de diciembre de 1921"
 - **Discrepancias resueltas:** La fecha del primer vuelo en solitario ha sido corregida de 14 a 15 de abril de 1921, basándose en la evidencia documental de la libreta de vuelo del piloto, citada por el Coronel José Luis Ochoa Vargas. Se ha añadido información sobre el cadete Juan Yepes, quien también voló solo el mismo día.
 - **Nivel de confianza:** Alto (con fuentes primarias documentales)

@@ -58,7 +58,7 @@ Llegó a Venezuela en enero de 1921 y fue designado instructor de vuelo. Su pape
 
 ## El Vuelo a través del Arco de Carabobo
 
-El 24 de junio de 1921, la Escuadrilla de la Misión Francesa, compuesta por el Capitán Jean T. Fieschi, el Capitán Robert Petit, el subteniente Georges Teppe y el Alférez de Navío Robert Guerin , recibió la orden de sobrevolar el campo de Carabobo durante la inauguración del Arco.
+El 24 de junio de 1921, la Escuadrilla de la Misión Francesa, compuesta por el Capitán Jean T. Fieschi, el Capitán Robert Petit, el Subteniente Georges Teppe y el Alférez de Navío Robert Guerin , recibió la orden de sobrevolar el campo de Carabobo durante la inauguración del Arco.
 
 Sin embargo, el día amaneció nublado y lluvioso, con bastante viento. El Capitán Fieschi, para evitar un accidente, ordenó a los cadetes venezolanos que no volaran debido a su poca experiencia. Los cuatro instructores franceses despegaron, pero las condiciones eran tan adversas que, tras media hora de vuelo, Fieschi ordenó el regreso a Maracay.
 
@@ -107,7 +107,7 @@ El 24 de junio de 1921, en el centenario de Carabobo, un joven piloto francés d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** FAV Club, Academia de la Historia del Estado Carabobo, Fundación Arquitectura y Ciudad, CLAC 
 - **Nivel de confianza:** Medio
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

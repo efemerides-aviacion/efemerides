@@ -45,7 +45,7 @@ La graduación de los primeros mecánicos aeronáuticos ocurrió en un momento c
 
 ### Entorno social
 
-El 17 de abril de 1920, bajo la presidencia del doctor Victorino Márquez Bustillos (con el General Juan Vicente Gómez ejerciendo el mando desde Maracay), <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">se creó la Escuela de Aviación Militar</a> con un presupuesto inicial de 350.000 bolívares . Sus objetivos eran «formar e instruir los pilotos para el servicio del Ejército nacional». La escuela quedó bajo la superior dependencia de la comandancia del jefe del Ejército y bajo la inmediata dirección del Ministerio de Guerra y Marina.
+El 17 de abril de 1920, bajo la presidencia del Doctor Victorino Márquez Bustillos (con el General Juan Vicente Gómez ejerciendo el mando desde Maracay), <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">se creó la Escuela de Aviación Militar</a> con un presupuesto inicial de 350.000 bolívares . Sus objetivos eran «formar e instruir los pilotos para el servicio del Ejército nacional». La escuela quedó bajo la superior dependencia de la comandancia del jefe del Ejército y bajo la inmediata dirección del Ministerio de Guerra y Marina.
 
 La naciente Escuela de Aviación Militar quedó asignada al Ejército, siendo coordinada por la Inspectoría General del Ejército, a cargo desde 1916 del General José Vicente Gómez, hijo mayor del dictador, lo cual mantenía directa supervisión de su funcionamiento. Se designó al coronel del ejército David López Henríquez como director de la institución.
 
@@ -83,7 +83,7 @@ A finales de 1922, el gobierno del General Juan Vicente Gómez decidió no renov
 
 Fue entonces cuando el mecánico Ernesto Salas Agelvis, junto con sus compañeros Amador Nieto, Elías Vivas Moro, José Segnini y Eleazar Romero, realizó una inspección de los restos de aviones que se encontraban en El Carnero, el antiguo campo de aviación de Maracay . Seleccionaron el material aprovechable y, tras una ardua labor, comenzaron a armar un avión: un Caudron G.3.
 
-En una entrevista de 1968, Salas Agelvis recordó: *"Lo pintamos de azul claro y le pusimos el nombre de La Chiva"* . El avión fue probado en vuelo por el subteniente Miguel Rodríguez en una memorable tarde (posiblemente de 1923, aunque el propio Salas, de 67 años en el momento de la entrevista, recordó el año como 1924) . El vuelo ocurrió precisamente cuando el General Gómez se dirigía a Las Delicias.
+En una entrevista de 1968, Salas Agelvis recordó: *"Lo pintamos de azul claro y le pusimos el nombre de La Chiva"* . El avión fue probado en vuelo por el Subteniente Miguel Rodríguez en una memorable tarde (posiblemente de 1923, aunque el propio Salas, de 67 años en el momento de la entrevista, recordó el año como 1924) . El vuelo ocurrió precisamente cuando el General Gómez se dirigía a Las Delicias.
 
 El impacto fue inmediato. Aunque Gómez no hizo comentario alguno, su hijo Florencio felicitó a los mecánicos y se ofreció a interceder ante su padre . El 28 de mayo de 1923, el ministro de Guerra y Marina, Carlos Jiménez Rebolledo, envió un telegrama solicitando información sobre aeronaves de entrenamiento, caza y bombardeo . El 15 de junio del mismo año, se ordenó la compra de tres nuevos Caudron G.3 y tres unidades del Caudron C.60, un avión de entrenamiento avanzado, provistos de todos sus accesorios .
 
@@ -93,7 +93,7 @@ Gracias a Salas Agelvis, Nieto, Vivas, Segnini, Romero, Rodríguez y Florencio G
 
 ## Trayectoria posterior de Ernesto Salas Agelvis
 
-Ernesto Salas Agelvis nació en San Antonio del Táchira el 6 de diciembre de 1901, hijo del señor Ernesto Salas M. y Teresa Agelvis . Ingresó en la Escuela de Aviación Militar como Alumno Mecánico el 16 de febrero de 1921, obteniendo la máxima calificación de 99/100 puntos, primer lugar entre los alumnos de su especialidad .
+Ernesto Salas Agelvis nació en San Antonio del Táchira el 6 de diciembre de 1901, hijo del Señor Ernesto Salas M. y Teresa Agelvis . Ingresó en la Escuela de Aviación Militar como Alumno Mecánico el 16 de febrero de 1921, obteniendo la máxima calificación de 99/100 puntos, primer lugar entre los alumnos de su especialidad .
 
 **Trayectoria militar (37 años y 6 meses de servicio):**
 - Suboficial Mecánico (1921-1930)
@@ -183,7 +183,7 @@ El legado de Salas Agelvis perdura en cada técnico que hoy mantiene las aeronav
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** Archivo Historias y Personajes FAV (Facebook), Freddy L. Pedrique (publicación), Noticias Defensa, Wikipedia (Caudron G.3), Froilán Ramos-Rodríguez (UCAB)
 - **Discrepancias resueltas:** Confirmación de la fecha de ingreso de Salas Agelvis (16/2/1921) y su calificación (99/100). Resolución parcial de la discrepancia sobre el año del vuelo de "La Chiva" (1923 vs 1924), mencionando ambas posibilidades en la nota aclaratoria.
 - **Datos no confirmados:** La fecha exacta del 26 de mayo de 1923 no ha sido verificada en fuentes externas independientes, pero es consistente con la cronología general documentada.

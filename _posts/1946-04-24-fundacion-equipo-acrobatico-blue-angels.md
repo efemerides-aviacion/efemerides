@@ -12,7 +12,7 @@ image: 1946-04-24-fundacion-equipo-acrobatico-blue-angels.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1946-04-24-fundacion-equipo-acrobatico-blue-angels.webp" alt="Primer Escuadrón de Demostración Aérea Blue Angels">
-  <figcaption class="post-caption">El primer Escuadrón de Demostración Aérea «Blue Angels» de la Armada (1946-1947), reunido frente a uno de sus Grumman F6F Hellcat (de izquierda a derecha): el Teniente Al Taddeo, piloto solista; el teniente (J.G.) Gale Stouse, piloto suplente; el capitán de corbeta R.M. «Butch» Voris, jefe de vuelo; el Teniente Maurice «Wick» Wickendoll, ala derecha; el Teniente Mel Cassidy, ala izquierda. Fuente: Wikipedia - Blue Angels.</figcaption>
+  <figcaption class="post-caption">El primer Escuadrón de Demostración Aérea «Blue Angels» de la Armada (1946-1947), reunido frente a uno de sus Grumman F6F Hellcat (de izquierda a derecha): el Teniente Al Taddeo, piloto solista; el Teniente (J.G.) Gale Stouse, piloto suplente; el capitán de corbeta R.M. «Butch» Voris, jefe de vuelo; el Teniente Maurice «Wick» Wickendoll, ala derecha; el Teniente Mel Cassidy, ala izquierda. Fuente: Wikipedia - Blue Angels.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -176,7 +176,7 @@ Los Blue Angels no son solo un equipo acrobático; son embajadores de la aviaci�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** The Sextant (U.S. Navy History), Congressional Record (.gov), Navy.mil, Marines.mil, Britannica, Wikipedia
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del 24 de abril de 1946 como la de la directiva fundacional. El primer espectáculo público fue el 15 de junio de 1946. La formación diamante fue introducida en agosto de 1947.
 - **Nivel de confianza:** Alto

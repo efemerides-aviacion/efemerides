@@ -12,14 +12,14 @@ image: 1971-07-16-fundacion-bavalle.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1971-07-16-fundacion-bavalle.webp" alt="Acto de inauguración de la Base Aérea Teniente Luis del Valle García en Barcelona, 16 de julio de 1971">
-  <figcaption class="post-caption">El Comandante General de la Aviación entrega a la señora Emperatriz Fornés de del Valle García una placa recordatoria de la inauguración de la Base Aérea, que lleva el nombre de su difunto esposo. Fuente: <em>Historia de la Aviación Militar Venezolana</em>, coronel (Av) Luis Hernán Paredes, 3ra edición, 1997.</figcaption>
+  <figcaption class="post-caption">El Comandante General de la Aviación entrega a la Señora Emperatriz Fornés de del Valle García una placa recordatoria de la inauguración de la Base Aérea, que lleva el nombre de su difunto esposo. Fuente: <em>Historia de la Aviación Militar Venezolana</em>, Coronel (Av) Luis Hernán Paredes, 3ra edición, 1997.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 16 de julio de 1971 se inauguró solemnemente en Barcelona, estado Anzoátegui, la Base Aérea “Teniente Luis del Valle García” (BAVALLE). De acuerdo con la obra <em>Historia de la Aviación Militar Venezolana</em>, del coronel (Av) Luis Hernán Paredes, el acto contó con la asistencia del presidente de la República, Rafael Caldera, miembros del Gabinete Ejecutivo, el alto mando militar, el gobernador del estado Anzoátegui e invitados especiales.</p>
+<p>El 16 de julio de 1971 se inauguró solemnemente en Barcelona, estado Anzoátegui, la Base Aérea “Teniente Luis del Valle García” (BAVALLE). De acuerdo con la obra <em>Historia de la Aviación Militar Venezolana</em>, del Coronel (Av) Luis Hernán Paredes, el acto contó con la asistencia del presidente de la República, Rafael Caldera, miembros del Gabinete Ejecutivo, el alto mando militar, el gobernador del estado Anzoátegui e invitados especiales.</p>
 <p>La inauguración de BAVALLE marcó la consolidación de una instalación estratégica para el oriente venezolano y respondió al proceso de expansión territorial de la Fuerza Aérea Venezolana (FAV). Aunque no se localizó en acceso abierto el instrumento jurídico específico de su creación, la fecha del 16 de julio de 1971 queda fijada por la fuente histórica institucional citada y por su persistencia en la memoria profesional de la FAV.</p>
 </div>
 
@@ -103,7 +103,7 @@ Por eso, la efeméride conserva valor histórico e institucional. Se presenta aq
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> La fecha del <strong>16 de julio de 1971</strong> para la inauguración de la Base Aérea “Teniente Luis del Valle García” se apoya en la obra <em>Historia de la Aviación Militar Venezolana</em>, del coronel (Av) Luis Hernán Paredes, donde se afirma expresamente que, con asistencia del presidente Rafael Caldera, miembros del Gabinete Ejecutivo, el alto mando militar, el gobernador del estado Anzoátegui e invitados especiales, “se inauguró solemnemente en Barcelona” la nueva base aérea.</p>
+  <p><strong>Nota aclaratoria:</strong> La fecha del <strong>16 de julio de 1971</strong> para la inauguración de la Base Aérea “Teniente Luis del Valle García” se apoya en la obra <em>Historia de la Aviación Militar Venezolana</em>, del Coronel (Av) Luis Hernán Paredes, donde se afirma expresamente que, con asistencia del presidente Rafael Caldera, miembros del Gabinete Ejecutivo, el alto mando militar, el gobernador del estado Anzoátegui e invitados especiales, “se inauguró solemnemente en Barcelona” la nueva base aérea.</p>
   <p>No obstante, no se localizó en acceso abierto el fundamento jurídico específico que ampare su creación, es decir, la gaceta oficial, decreto o resolución correspondiente. Por esa razón, aunque la fecha del acto inaugural puede sostenerse con base en la fuente histórica institucional consultada, todavía no ha sido posible vincularla de manera directa con el instrumento legal de establecimiento de la base.</p>
   <p>Asimismo, la nomenclatura pública contemporánea consultada utiliza de manera consistente la forma <strong>“Teniente Luis del Valle García”</strong>. Algunas publicaciones retrospectivas añaden el apellido “López”, pero en este post se mantiene la forma empleada en la fuente histórica que fija la inauguración y en la denominación institucional de uso más extendido en referencias abiertas actuales.</p>
 </div>
@@ -111,7 +111,7 @@ Por eso, la efeméride conserva valor histórico e institucional. Se presenta aq
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias/institucionales consultadas:** extracto de <em>Historia de la Aviación Militar Venezolana</em> (coronel [Av] Luis Hernán Paredes), publicaciones conmemorativas y memoriales vinculadas a la FAV  
 - **Fuentes secundarias de contraste:** ViVe Oriente, Fundación 10 de diciembre, publicaciones retrospectivas de Fav Ven suministradas por el investigador  
 - **Discrepancias resueltas:** se privilegió la fecha de inauguración solemne del 16 de julio de 1971 consignada por la obra de Luis Hernán Paredes, sin haberse localizado aún en acceso abierto el instrumento jurídico que formalizó la creación de la base  
