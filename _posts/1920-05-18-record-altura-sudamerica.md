@@ -62,7 +62,7 @@ Desde principios del siglo XX, los países latinoamericanos buscaban establecer 
 
 ### La adquisición del Wasp
 
-En 1919, el gobierno del presidente José Gutiérrez Guerra, a través del Encargado de Negocios de Bolivia en Nueva York, el doctor Julio Zamora, decidió adquirir una aeronave especialmente diseñada para operar en grandes altitudes. La elección recayó en el Curtiss 18T-2 Wasp, un triplano que en septiembre de 1919 había establecido un récord mundial de altitud de 10.640 metros.
+En 1919, el gobierno del presidente José Gutiérrez Guerra, a través del Encargado de Negocios de Bolivia en Nueva York, el Doctor Julio Zamora, decidió adquirir una aeronave especialmente diseñada para operar en grandes altitudes. La elección recayó en el Curtiss 18T-2 Wasp, un triplano que en septiembre de 1919 había establecido un récord mundial de altitud de 10.640 metros.
 
 El avión llegó desarmado en cajones a Chile y fue transportado por ferrocarril a La Paz el 20 de diciembre de 1919. Junto con él llegaron el piloto Donald Hudson (contratado como futuro director de la Escuela Militar de Aviación), su esposa, y dos mecánicos: Robert O. Albaugh (su camarada de guerra) y William Birren. El avión fue ensamblado en el primer hangar construido en Viacha, posteriormente trasladado a El Alto.
 
@@ -154,7 +154,7 @@ Hoy, la Fuerza Aérea Boliviana (FAB) conmemora cada 17 de abril el primer vuelo
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** El Diario (Bolivia), Wikipedia, Agencia de Noticias Fides, Aviastar
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del récord (18 de mayo de 1920). La altitud exacta alcanzada no está documentada con precisión, pero se estima en aproximadamente 9.000 metros (29.500 pies). El rango de Hudson varía según la fuente (Teniente Coronel en Bolivia, lieutenant en EE. UU.). El nombre completo de la aeronave varía: Curtiss 18T-2 Wasp, Curtiss-Kirkham 18T-2.
 - **Nivel de confianza:** Alto

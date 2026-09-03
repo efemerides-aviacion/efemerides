@@ -60,7 +60,7 @@ A diferencia de los aviones de los hermanos Wright, que utilizaban un sistema de
 
 El vuelo de Curtiss no fue solo una proeza deportiva. Desde su exitoso vuelo de 1903, los hermanos Wright habían patentado agresivamente su tecnología y demandaban a cualquier otro aviador que intentara volar sin pagarles regalías, reclamando un monopolio virtual sobre todos los aviones. Curtiss era su principal objetivo. El premio de 10.000 dólares ofrecido por Joseph Pulitzer era vital para que Curtiss pudiera financiar su defensa legal. El vuelo se convirtió así en una batalla no solo por un récord, sino por el futuro mismo de la industria de la aviación.
 
-El propio presidente William H. Taft siguió el evento y envió un mensaje de felicitación que fue publicado en los periódicos. En él, Taft señaló: *"El señor Wright me dijo en el momento del vuelo de diez millas desde Fort Meyer que la principal dificultad era volar sobre territorio desconocido. El señor Curtiss parece haber superado esto, y me alegra que así sea"*.
+El propio presidente William H. Taft siguió el evento y envió un mensaje de felicitación que fue publicado en los periódicos. En él, Taft señaló: *"El Señor Wright me dijo en el momento del vuelo de diez millas desde Fort Meyer que la principal dificultad era volar sobre territorio desconocido. El Señor Curtiss parece haber superado esto, y me alegra que así sea"*.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -108,11 +108,11 @@ El vuelo del 29 de mayo de 1910 tuvo consecuencias de gran alcance, tanto para C
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## La Reacción del Presidente Taft
+## La Reacción del presidente Taft
 
 El presidente William H. Taft siguió el vuelo con gran interés y envió un mensaje que fue publicado en los periódicos de la época:
 
-> *"Estoy intensamente interesado en lo que el señor Curtiss ha logrado. Parece que las maravillas de la aviación nunca cesarán... El señor Wright me dijo en el momento del vuelo de diez millas desde Fort Meyer que la principal dificultad era volar sobre territorio desconocido. El señor Curtiss parece haber superado esto, y me alegra que así sea. Su vuelo vivirá largo tiempo en nuestra memoria como el más grande"*.
+> *"Estoy intensamente interesado en lo que el Señor Curtiss ha logrado. Parece que las maravillas de la aviación nunca cesarán... El Señor Wright me dijo en el momento del vuelo de diez millas desde Fort Meyer que la principal dificultad era volar sobre territorio desconocido. El Señor Curtiss parece haber superado esto, y me alegra que así sea. Su vuelo vivirá largo tiempo en nuestra memoria como el más grande"*.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -145,7 +145,7 @@ El presidente William H. Taft siguió el vuelo con gran interés y envió un men
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** Banks County Journal (1910), BBC Travel, Planes of Fame Air Museum, Time Magazine, Wikipedia, Daily Press, Epoxyworks
 - **Discrepancias resueltas:** Confirmación de la fecha (29 de mayo de 1910) en fuentes primarias de la época. Verificación de la distancia (137-150 millas según la fuente). Aclaración del tiempo de vuelo (2 horas y 32 minutos, excluyendo parada).
 - **Nivel de confianza:** Alto (múltiples fuentes, incluyendo periódico contemporáneo de 1910, coinciden en los datos fundamentales)

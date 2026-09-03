@@ -78,7 +78,7 @@ El vuelo comenzó en el centro de París. Santos-Dumont, en lugar de volar con e
 
 El vuelo terminó en el campo de polo del Château de Bagatelle, en el Bois de Boulogne, donde se estaba celebrando un partido entre equipos estadounidenses y británicos. Al aterrizar, los espectadores la ayudaron a salir de la cesta del dirigible.
 
-Santos-Dumont, emocionado por el éxito de su alumna, le preguntó cómo le había ido. Acosta respondió con modestia: «C'est très gentil, Monsieur Santos-Dumont» («Es muy amable, señor Santos-Dumont»). Él, entonces, exclamó: «Mademoiselle, vous êtes la première aero-chauffeuse du monde!» («Señorita, usted es la primera mujer piloto del mundo!»). Después de presenciar un poco del partido de polo, Acosta volvió a abordar la aeronave y la pilotó de regreso a Neuilly St. James.
+Santos-Dumont, emocionado por el éxito de su alumna, le preguntó cómo le había ido. Acosta respondió con modestia: «C'est très gentil, Monsieur Santos-Dumont» («Es muy amable, Señor Santos-Dumont»). Él, entonces, exclamó: «Mademoiselle, vous êtes la première aero-chauffeuse du monde!» («Señorita, usted es la primera mujer piloto del mundo!»). Después de presenciar un poco del partido de polo, Acosta volvió a abordar la aeronave y la pilotó de regreso a Neuilly St. James.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -123,7 +123,7 @@ El 27 de junio de 1903, Aida de Acosta demostró que el cielo no era un lugar ex
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** Wikipedia (EN, FR), Cubanet, 1903 in science (Wikipedia)
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del vuelo (27 de junio de 1903) y en los detalles del evento. No se encontraron discrepancias significativas.
 - **Nivel de confianza:** Alto

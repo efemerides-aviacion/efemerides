@@ -51,7 +51,7 @@ Theresa Claiborne nació en una época de profundos cambios sociales en Estados 
 
 ### Entorno social
 
-En 1959, cuando Claiborne nació, la Fuerza Aérea de Estados Unidos había sido integrada racialmente por orden ejecutiva del Presidente Harry S. Truman desde 1948. Sin embargo, la integración efectiva era lenta. Los legendarios Tuskegee Airmen, los primeros pilotos afroamericanos en la historia militar estadounidense, habían allanado el camino durante la Segunda Guerra Mundial, pero ninguno de ellos era mujer. Las mujeres, independientemente de su raza, habían sido excluidas del entrenamiento de pilotos militares hasta 1976, cuando la USAF admitió a sus primeras diez mujeres en el programa de entrenamiento de pilotos. Cuando Claiborne entró en el entrenamiento en 1981, solo se permitían 30 mujeres al año en todo el programa.
+En 1959, cuando Claiborne nació, la Fuerza Aérea de Estados Unidos había sido integrada racialmente por orden ejecutiva del presidente Harry S. Truman desde 1948. Sin embargo, la integración efectiva era lenta. Los legendarios Tuskegee Airmen, los primeros pilotos afroamericanos en la historia militar estadounidense, habían allanado el camino durante la Segunda Guerra Mundial, pero ninguno de ellos era mujer. Las mujeres, independientemente de su raza, habían sido excluidas del entrenamiento de pilotos militares hasta 1976, cuando la USAF admitió a sus primeras diez mujeres en el programa de entrenamiento de pilotos. Cuando Claiborne entró en el entrenamiento en 1981, solo se permitían 30 mujeres al año en todo el programa.
 
 ### Entorno tecnológico
 
@@ -160,7 +160,7 @@ El 25 de mayo de 1959 nació una pionera. El 16 de septiembre de 1982, Theresa C
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** Congressional Record (GovInfo), BlackPast.org, Wikipedia, ABC News (ABC13 Houston, ABC7 Chicago), National Aeronautic Association (Airport Improvement), Lubbock Avalanche-Journal
 - **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (25 de mayo de 1959) en fuentes oficiales del Congreso y BlackPast. Verificación del hito como "primera mujer afroamericana piloto de la USAF" mediante el Registro del Congreso. Se ha verificado la fecha de graduación como piloto (16 de septiembre de 1982) en múltiples fuentes independientes.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales, incluyendo el Congreso de EE. UU., y medios de comunicación coinciden en los datos fundamentales)

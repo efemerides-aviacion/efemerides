@@ -83,7 +83,7 @@ La secuencia va de los antecedentes civiles a la consolidación de la fuerza aut
 - **6 de julio de 1866:** durante la Guerra de la Triple Alianza, un aeróstato cautivo del Ejército brasileño se eleva sobre las líneas aliadas con el ingeniero polaco Roberto A. Chodasiewiecz a bordo, incorporado al Ejército argentino con el grado de Capitán. Es el primer militar argentino y latinoamericano que asciende en globo.
 - **25 de diciembre de 1907:** Aarón de Anchorena y Jorge Newbery cruzan el Río de la Plata a bordo del globo Pampero.
 - **13 de enero de 1908:** se crea el Aero Club Argentino, primera entidad aérea del país.
-- **17 de octubre de 1908:** el Pampero desaparece con el doctor Eduardo Newbery y el Sargento Eduardo Romero a bordo. Son los primeros mártires de la aeronáutica argentina.
+- **17 de octubre de 1908:** el Pampero desaparece con el Doctor Eduardo Newbery y el Sargento Eduardo Romero a bordo. Son los primeros mártires de la aeronáutica argentina.
 - **6 de febrero de 1910:** el francés Henri Brégi realiza en Longchamps el primer vuelo mecánico completo del país.
 - **23 de marzo de 1910:** se inaugura el aeródromo de Villa Lugano, el primero de Argentina.
 - **Junio de 1910:** Newbery, Carlos Goffre, Florencio Parravicini, Hermán Hentsch y Carlos Roth reciben sus brevets de aviador.
@@ -151,7 +151,7 @@ Queda por último el detalle que mejor resiste el paso del tiempo. Los primeros 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias/institucionales consultadas:** Fuerza Aérea Argentina, Ministerio de Defensa de la República Argentina, reseña histórica oficial y artículo conmemorativo del Día de la Fuerza Aérea, este último con documentación gráfica de época; Escuela de Aviación Militar, cronología institucional publicada por el propio instituto.
 - **Fuentes secundarias de contraste:** El Arcón de la Historia, con la referencia documental del decreto y el ingreso de oficiales extranjeros; AMILARG; Gaceta Aeronáutica, con el contexto de la actividad aérea en El Palomar; Wikipedia en español.
 - **Discrepancias resueltas:** se consignó la divergencia entre las denominaciones «Escuela de Aviación Militar» y «Escuela de Aerostación y Aviación Militar» en las fuentes oficiales; se registró la doble atribución de la propiedad del terreno de El Palomar; se precisó que el decreto se identifica por el Boletín Militar n.º 696 y no por un número propio; se distinguió la habilitación del edificio de Córdoba en 1936 de su inauguración oficial posterior.

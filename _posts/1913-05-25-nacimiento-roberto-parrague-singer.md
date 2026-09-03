@@ -56,7 +56,7 @@ En la década de 1930, la aviación de largo alcance daba sus primeros pasos. En
 
 ### Entorno cultural
 
-El vuelo de Parragué se inscribió en el espíritu de la época, dominado por los grandes raid aéreos. En 1951, el mismo año del Manutara, el australiano Patrick Gordon Taylor completó la travesía Sydney-Valparaíso, y ambos pioneros se encontraron en Chile para intercambiar experiencias. La hazaña de Parragué tuvo un profundo impacto en la opinión pública chilena. Miles de personas, incluido el Presidente Gabriel González Videla, presenciaron el despegue desde La Serena. La llegada a la isla fue recibida con inmensa alegría por los isleños, que veían por primera vez un avión descender en su territorio.
+El vuelo de Parragué se inscribió en el espíritu de la época, dominado por los grandes raid aéreos. En 1951, el mismo año del Manutara, el australiano Patrick Gordon Taylor completó la travesía Sydney-Valparaíso, y ambos pioneros se encontraron en Chile para intercambiar experiencias. La hazaña de Parragué tuvo un profundo impacto en la opinión pública chilena. Miles de personas, incluido el presidente Gabriel González Videla, presenciaron el despegue desde La Serena. La llegada a la isla fue recibida con inmensa alegría por los isleños, que veían por primera vez un avión descender en su territorio.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -69,7 +69,7 @@ El vuelo de Parragué se inscribió en el espíritu de la época, dominado por l
 - **1937:** Presenta a sus superiores un proyecto para volar a Isla de Pascua. Es rechazado por considerarse técnicamente imposible.
 - **1950:** La FACH adquiere hidroaviones Consolidated PBY Catalina. A Parragué se le asigna el mando del anfibio matrícula N.º 405, al que bautiza "Manutara" (pájaro de buena suerte). Realiza vuelos de prueba a las islas San Félix y San Ambrosio.
 - **1951, 18 de enero:** El Manutara vuela desde Quintero a La Florida (La Serena) escoltado por aviones B-25 Mitchell del Grupo N.º 8 de la FACH, como preparación para el gran vuelo.
-- **1951, 19 de enero, 19:20 horas:** El Manutara despega del aeródromo La Florida de La Serena ante la presencia del Presidente Gabriel González Videla y más de 25.000 personas. La tripulación está compuesta por 8 hombres.
+- **1951, 19 de enero, 19:20 horas:** El Manutara despega del aeródromo La Florida de La Serena ante la presencia del presidente Gabriel González Videla y más de 25.000 personas. La tripulación está compuesta por 8 hombres.
 - **Durante el vuelo:** A la medianoche falla el radiocompás. Parragué asciende a 6.000 metros y navega por las estrellas usando un sextante, manteniendo un rumbo de 279° Oeste.
 - **02:30 horas:** La aeronave alcanza el punto de no retorno. Parragué consulta a la tripulación sobre la posibilidad de abortar; nadie acepta. En su bitácora anota: "La tripulación del Manutara confía en que lleguemos a almorzar a la isla. El único intranquilo soy yo".
 - **1951, 20 de enero, 14:42 horas:** El Manutara aterriza en la improvisada pista de Mataveri, Isla de Pascua, tras 19 horas y 22 minutos de vuelo. Es recibido jubilosamente por los isleños y por el sacerdote capuchino Sebastian Englert, residente en la isla desde 1937.
@@ -142,7 +142,7 @@ Roberto Parragué Singer es recordado como el "pionero del cielo de Rapa Nui". S
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES), Fuerza Aérea de Chile (sitio oficial), Embajada de Australia en Chile, DGAC Chile, Senado de Chile (Diario de Sesiones 1996), El Rancagüino
 - **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (25 de mayo de 1913) en fuentes institucionales. Verificación de la tripulación del Manutara mediante la fuente oficial de la FACH. Resolución de la discrepancia sobre el año del segundo vuelo (1959, no 1961). Añadido vuelo previo del 18 de enero de 1951.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y de prensa coinciden en los datos fundamentales)

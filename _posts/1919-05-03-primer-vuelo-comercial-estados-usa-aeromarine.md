@@ -18,7 +18,7 @@ image: 1919-05-03-primer-vuelo-comercial-estados-usa-aeromarine.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 3 de mayo de 1919, el piloto estadounidense Robert Hewitt realizó el primer vuelo comercial con pasajeros entre dos estados de EE. UU.: Nueva York y Nueva Jersey, partiendo desde la costa de Nueva York hacia Atlantic City y de vuelta, con un Aeromarine Model 50 "S" Flying Boat. Este vuelo marcó también el primer servicio postal aéreo de la historia del continente americano, trasladando correo junto con dos pasajeras: la señora J. A. Hoagland y la señorita Ethel Hodges.</p>
+<p>El 3 de mayo de 1919, el piloto estadounidense Robert Hewitt realizó el primer vuelo comercial con pasajeros entre dos estados de EE. UU.: Nueva York y Nueva Jersey, partiendo desde la costa de Nueva York hacia Atlantic City y de vuelta, con un Aeromarine Model 50 "S" Flying Boat. Este vuelo marcó también el primer servicio postal aéreo de la historia del continente americano, trasladando correo junto con dos pasajeras: la señora J. A. Hoagland y la Señorita Ethel Hodges.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -89,7 +89,7 @@ El vuelo fue organizado por Aero Limited, una compañía que adquirió al menos 
 
 ### Los primeros pasajeros
 
-A bordo viajaron dos mujeres, la señora J. A. Hoagland y la señorita Ethel Hodges, quienes pagaron por su pasaje y se convirtieron en las primeras pasajeras de un vuelo comercial en el continente americano. Su presencia simbolizó que la aviación comercial estaba abierta al público general, no solo a aventureros o personal militar.
+A bordo viajaron dos mujeres, la señora J. A. Hoagland y la Señorita Ethel Hodges, quienes pagaron por su pasaje y se convirtieron en las primeras pasajeras de un vuelo comercial en el continente americano. Su presencia simbolizó que la aviación comercial estaba abierta al público general, no solo a aventureros o personal militar.
 
 ### El correo aéreo
 
@@ -142,7 +142,7 @@ El concepto de conectar ciudades costeras mediante hidroaviones, iniciado en Nue
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** La Nación, Wikipedia (ES/EN), HandWiki, Time Magazine Archive, UNT Digital Library
 - **Discrepancias resueltas:** No se encontraron discrepancias mayores entre las fuentes. El Aeromarine 50 voló por primera vez en 1919 y fue utilizado en la ruta Nueva York-Atlantic City, donde operaba el servicio más establecido en 1921. La fecha del 3 de mayo de 1919 corresponde al vuelo inaugural de Aeromarine, reconocido como el primero en transportar pasajeros pagadores entre dos estados.
 - **Nivel de confianza:** Alto

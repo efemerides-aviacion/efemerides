@@ -30,7 +30,7 @@ image: 1929-08-29-graf-zeppelin-vuelta-mundo.webp
 
 - **Fecha de culminación:** 29 de agosto de 1929, aterrizaje en Lakehurst hacia las 07:15 hora local.
 - **Aeronave:** LZ 127 <em>Graf Zeppelin</em>, dirigible rígido de hidrógeno, matrícula D-LZ 127.
-- **Comandante:** doctor Hugo Eckener, presidente de Luftschiffbau Zeppelin.
+- **Comandante:** Doctor Hugo Eckener, presidente de Luftschiffbau Zeppelin.
 - **Itinerario oficial patrocinado por Hearst:** Lakehurst → Friedrichshafen → Tokio → Los Ángeles → Lakehurst.
 - **Distancia total de la circunnavegación Lakehurst-Lakehurst:** 33.234 km (20.651 millas).
 - **Duración total (con escalas):** 21 días, 5 horas y 31 minutos.
@@ -114,7 +114,7 @@ La <em>Weltfahrt</em> de 1929 permanece como la primera y única circunnavegaci�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-24 06:45:00 CST
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias/institucionales consultadas:** Federación Aeronáutica Internacional (FAI), Encyclopædia Britannica, U.S. Centennial of Flight Commission, Airship Heritage Trust
 - **Discrepancias resueltas:** fecha de partida (7 u 8 de agosto según zona horaria); punto de inicio y cierre del viaje (Lakehurst para la versión Hearst, Friedrichshafen para la alemana). Se adopta la versión Lakehurst-Lakehurst, culminada el 29 de agosto de 1929, que es la que conmemora la efeméride y coincide con el criterio editorial de fecha de culminación.
 - **Nivel de confianza:** Alto
