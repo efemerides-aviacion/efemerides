@@ -45,7 +45,7 @@ image: 1974-01-02-creacion-baru.webp
 
 Durante la década de 1970, Venezuela impulsó la modernización de su infraestructura militar y aeronáutica en sintonía con la profesionalización de las fuerzas armadas. La elección de Maracaibo obedecía a ventajas estratégicas: posición geográfica dominante sobre el occidente del país, accesos al Lago de Maracaibo y cercanía a rutas del Caribe y a la frontera con Colombia, factores que permitían vigilancia y respuesta rápida en una región de elevada importancia geopolítica.
 
-La BARU se estableció en las instalaciones del Aeropuerto Internacional de La Chinita, inaugurado el 16 de noviembre de 1969 por el Presidente Rafael Caldera, compartiendo pista e infraestructura aeroportuaria con instalaciones militares separadas —rampa, hangares y dependencias propias—, un modelo habitual en la aviación militar venezolana.
+La BARU se estableció en las instalaciones del Aeropuerto Internacional de La Chinita, inaugurado el 16 de noviembre de 1969 por el presidente Rafael Caldera, compartiendo pista e infraestructura aeroportuaria con instalaciones militares separadas —rampa, hangares y dependencias propias—, un modelo habitual en la aviación militar venezolana.
 
 ### Entorno social
 
@@ -63,7 +63,7 @@ La base se convirtió en referente institucional de la aviación militar en el o
 
 ## Desarrollo Cronológico
 
-- **16 de noviembre de 1969:** inauguración del Aeropuerto Internacional de La Chinita por el Presidente Rafael Caldera.
+- **16 de noviembre de 1969:** inauguración del Aeropuerto Internacional de La Chinita por el presidente Rafael Caldera.
 - **1973:** planificación y ejecución de obras de infraestructura militar en el recinto de La Chinita.
 - **2 de enero de 1974:** creación de la Base Aérea «General Rafael Urdaneta» por Resolución N.º A-0011 del Ministro de la Defensa, General Gustavo Pardi Dávila.
 - **18 de febrero de 1975:** por Resolución Ministerial se ordena el traslado del Grupo de Operaciones Especiales N.º 2 desde la Base Aérea «Tte. (F) Vicente Landaeta Gil» a la BARU, ocupando provisionalmente las instalaciones de La Chinita; el grupo pasa a denominarse Grupo Aéreo de Operaciones Especiales N.º 15. Su primer comandante, Teniente Coronel (Av.) Alfonso Lisandro Navarro Villaroel, asumió también el comando de la nueva base.
@@ -114,7 +114,7 @@ Cincuenta y dos años después de su creación, la Base Aérea Rafael Urdaneta s
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-24 08:52:56 CST
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias/institucionales consultadas:** Paredes (Ediciones Históricas FAV, 1997); Museo del Transporte Caracas; Fuerza Aérea Venezolana, <em>Promociones Egresadas de la EAM 1921-1970</em> (Año Jubilar, 1970, pág. 28); Universidad Militar Bolivariana de Venezuela / Academia Militar de la Aviación Bolivariana, <em>Libro de Promociones 1920-2016</em> (2017, pág. 38)
 - **Discrepancias resueltas:** Wikipedia fecha la base en 1971; Paredes, el Museo del Transporte y la cuenta conmemorativa del Ejército Bolivariano documentan el 2 de enero de 1974. Se adopta la fecha de la fuente institucional con resolución específica. El apellido del primer comandante se corrige de «Alvarado» a «Navarro Villaroel» (una sola erre), grafía confirmada por dos publicaciones institucionales de la Fuerza Aérea: el folleto del Año Jubilar de 1970 y el libro de promociones de la AMB de 2017; los textos de Ochoa Vargas en Fav Ven usan «Villarroel» con dos erres y quedan como fuente secundaria.
 - **Datos no confirmados:** Autoridades civiles o militares asistentes al acto.

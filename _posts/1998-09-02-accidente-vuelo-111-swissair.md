@@ -55,7 +55,7 @@ El McDonnell Douglas MD-11 había sido concebido a finales de los años ochenta 
 
 ### Entorno cultural
 
-El siniestro sacudió profundamente a la sociedad suiza y al sector aeronáutico mundial. A bordo viajaban destacados científicos, diplomáticos y funcionarios internacionales vinculados a organismos de las Naciones Unidas en Ginebra, entre ellos el doctor Jonathan Mann, pionero en la lucha contra el sida y exdirector del programa de VIH de la Organización Mundial de la Salud. El despliegue cívico de la comunidad de pescadores de Peggy's Cove y de los servicios de emergencia canadienses convirtió a la pequeña bahía de Nueva Escocia en un emblema internacional de duelo y solidaridad.
+El siniestro sacudió profundamente a la sociedad suiza y al sector aeronáutico mundial. A bordo viajaban destacados científicos, diplomáticos y funcionarios internacionales vinculados a organismos de las Naciones Unidas en Ginebra, entre ellos el Doctor Jonathan Mann, pionero en la lucha contra el sida y exdirector del programa de VIH de la Organización Mundial de la Salud. El despliegue cívico de la comunidad de pescadores de Peggy's Cove y de los servicios de emergencia canadienses convirtió a la pequeña bahía de Nueva Escocia en un emblema internacional de duelo y solidaridad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -115,7 +115,7 @@ Frente al escenario del impacto, en la costa rocosa de Nueva Escocia, dos monume
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-27 16:00:00 CST
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias/institucionales consultadas:** Transportation Safety Board of Canada (informe final A98H0003); Federal Aviation Administration (directivas de aeronavegabilidad sobre aislamiento MPET); National Transportation Safety Board (recomendaciones de seguridad de listas de emergencia); Federal Office of Civil Aviation (BAZL, Suiza).
 - **Fuentes secundarias de contraste:** Archivos documentales de Swissair y registros hemerográficos de The Globe and Mail y Neue Zürcher Zeitung.
 - **Discrepancias resueltas:** Doble datación horaria oficial (2 de septiembre hora local en Canadá frente a 3 de septiembre UTC; se precisa en nota aclaratoria); alcance inicial del humo confundido con fallo de aire acondicionado frente al fuego eléctrico real oculto tras el techo.
