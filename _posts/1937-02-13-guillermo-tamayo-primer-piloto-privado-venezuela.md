@@ -44,7 +44,7 @@ Su logro simbolizó la apertura de la aviación civil privada en Venezuela, insp
 
 ## Desarrollo Cronológico
 - 11 de octubre de 1936: Vuelo Maracay–Caracas en Caudron C.601 Aiglon Senior, primer avión privado en aterrizar en Caracas.  
-- 23 de octubre de 1936: Reválida de licencia por los mayores Miguel Rodríguez y Alcides Quintero.  
+- 23 de octubre de 1936: Reválida de licencia por los Mayores Miguel Rodríguez y Alcides Quintero.  
 - 13 de febrero de 1937: Obtiene el primer Certificado de Piloto Privado venezolano, aprobado por el Ministro de Trabajo y Comunicaciones.  
 - 2 de mayo de 1937: Accidente en Maracay con el Caudron, resultando herido junto a Aureliano Guzmán.  
 - Posteriormente importa un Ryan ST-A (YV-G-TR3), consolidando su papel como pionero de la aviación civil privada.
@@ -71,7 +71,7 @@ Se le recuerda como el primer piloto privado certificado en Venezuela y como imp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** AviacionCivil.com.ve, Blog Egly Colina Marín, Facebook Historia de la Aviación Militar Venezolana, Instagram @aviacioncivil 
 - **Discrepancias resueltas:** Confirmación de fecha exacta de certificación (13/02/1937); aeronaves involucradas (Caudron C.601 Aiglon Senior y Ryan ST-A)  
 - **Nivel de confianza:** Alto  

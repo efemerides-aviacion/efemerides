@@ -19,7 +19,7 @@ image: 1942-09-01-fundacion-grupo-caza-3-normandie.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 1 de septiembre de 1942 quedó constituido en Rayak, en el Líbano bajo mandato francés, el Grupo de Caza N.º 3 de las Fuerzas Aéreas de la Francia Libre. Era el fruto de la decisión de Charles De Gaulle de que soldados franceses combatieran en todos los frentes de la guerra, incluido el oriental: su comandante, el Comandante Joseph Pouliquen, propuso llamarlo «Normandie» y el general Martial Valin validó el nombre ese mismo día.</p>
+<p>El 1 de septiembre de 1942 quedó constituido en Rayak, en el Líbano bajo mandato francés, el Grupo de Caza N.º 3 de las Fuerzas Aéreas de la Francia Libre. Era el fruto de la decisión de Charles De Gaulle de que soldados franceses combatieran en todos los frentes de la guerra, incluido el oriental: su comandante, el Comandante Joseph Pouliquen, propuso llamarlo «Normandie» y el General Martial Valin validó el nombre ese mismo día.</p>
 <p>Una sesentena de voluntarios salió de Rayak en noviembre de 1942 hacia Ivanovo, donde recibió los cazas Yak soviéticos. Entre marzo de 1943 y mayo de 1945 el grupo —devenido regimiento— voló tres campañas junto al Ejército Rojo, sumó 273 victorias confirmadas y perdió 41 pilotos. Por sus hechos en la batalla del río Niemen, Stalin le añadió el nombre del río: nació el «Normandie-Niémen». Sus 40 últimos Yak-3 fueron regalo personal de la URSS. Hoy la unidad, recreada un 1 de septiembre, vuela el Rafale en Mont-de-Marsan.</p>
 </div>
 
@@ -47,7 +47,7 @@ image: 1942-09-01-fundacion-grupo-caza-3-normandie.webp
 
 ## Contexto Histórico
 
-Detrás del «Normandie» hubo una jugada política. En 1942, De Gaulle necesitaba que la Francia Libre existiera en todos los frentes, y el general Valin, al mando de la aviación de la Francia Libre, convenció al jefe de la Francia Libre de que una unidad aérea pesaba más que una división terrestre en los desplazamientos, la logística y el impacto. La Unión Soviética, que acababa de ver rechazada a su diplomacia de Vichy, acogió la propuesta con calor: los pilotos franceses lucharían dentro del dispositivo soviético, con material soviético.
+Detrás del «Normandie» hubo una jugada política. En 1942, De Gaulle necesitaba que la Francia Libre existiera en todos los frentes, y el General Valin, al mando de la aviación de la Francia Libre, convenció al jefe de la Francia Libre de que una unidad aérea pesaba más que una división terrestre en los desplazamientos, la logística y el impacto. La Unión Soviética, que acababa de ver rechazada a su diplomacia de Vichy, acogió la propuesta con calor: los pilotos franceses lucharían dentro del dispositivo soviético, con material soviético.
 
 ### Entorno social
 
@@ -65,7 +65,7 @@ El «Normandie» se convirtió pronto en una leyenda doble: para los soviéticos
 
 ## Desarrollo Cronológico
 
-- **16 de febrero de 1942:** De Gaulle envía a Moscú la misión del General Petit para negociar la participación francesa en el frente oriental; el 25 de noviembre se firma el acuerdo con el general Falanéiev.
+- **16 de febrero de 1942:** De Gaulle envía a Moscú la misión del General Petit para negociar la participación francesa en el frente oriental; el 25 de noviembre se firma el acuerdo con el General Falanéiev.
 - **1 de septiembre de 1942:** el GC 3 queda constituido en Rayak; Pouliquen propone el nombre «Normandie» y Valin lo valida ese mismo día, mientras la lista de la unidad se presenta a las autoridades soviéticas.
 - **12 de noviembre de 1942:** el grupo abandona Rayak vía Irak e Irán; a finales de mes llega a la base de Ivanovo, 250 km al noreste de Moscú, donde se forma en los Yak entre diciembre y marzo.
 - **22 de marzo de 1943:** entra en combate como cuarto escuadrón de un regimiento de caza de la Guardia del 1.er Ejército Aéreo soviético.
@@ -119,7 +119,7 @@ De los Yak que la URSS regaló en 1945 se conservan ejemplares en museos, entre 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-26 16:34:29 CST
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias/institucionales consultadas:** Service historique de la Défense — Ministère des Armées (ficha de archivo del escuadrón); Ministère des Armées (operación Chammal, situación actual del 2/30)
 - **Fuentes secundarias de contraste:** Wikipédia en francés (historial y estadísticas) y Wikipedia en inglés (contexto de unidades occidentales en el frente oriental)
 - **Discrepancias resueltas:** fecha del nombre «Niemen» (21-jul-1944 frente a 28-nov-1944, dentro de la misma enciclopedia; el archivo militar la vincula a la batalla de julio sin dar día); llegada a Ivanovo (28 frente a 29 de noviembre); primer efectivo (14 o 15 pilotos según secciones de la misma enciclopedia, resuelto con la fórmula genérica «una sesentena de voluntarios»).

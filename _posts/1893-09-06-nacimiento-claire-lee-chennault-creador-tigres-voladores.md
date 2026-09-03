@@ -87,7 +87,7 @@ En 1937 China estaba en guerra con Japón y su aviación había quedado diezmada
 
 El valor del AVG fue en buena medida psicológico y diplomático. Cuando las noticias desde el Pacífico eran casi solo derrotas, los Tigres Voladores ofrecieron a Estados Unidos y a China la primera serie de victorias aéreas estadounidenses de la guerra. En sus siete meses de existencia —de diciembre de 1941 a julio de 1942— se les atribuyó la destrucción de 296 aeronaves japonesas en China y Birmania (297 según otras fuentes), con la pérdida de catorce pilotos muertos, capturados o desaparecidos en combate, una proporción muy favorable frente a la de unidades aliadas contemporáneas.
 
-El grupo fue también la semilla de la fuerza aérea regular en el teatro: al disolverse, sus pilotos formaron el núcleo del 23.er Grupo de Caza, de la China Air Task Force y, desde marzo de 1943, de la 14.ª Fuerza Aérea, cuyos suministros llegaban por el puente aéreo sobre el Himalaya desde la India. Chennault la comandó hasta el final de la guerra, aunque sus disputas estratégicas con el general Joseph Stilwell y otros mandos del teatro terminaron por costarle el mando en 1945.
+El grupo fue también la semilla de la fuerza aérea regular en el teatro: al disolverse, sus pilotos formaron el núcleo del 23.er Grupo de Caza, de la China Air Task Force y, desde marzo de 1943, de la 14.ª Fuerza Aérea, cuyos suministros llegaban por el puente aéreo sobre el Himalaya desde la India. Chennault la comandó hasta el final de la guerra, aunque sus disputas estratégicas con el General Joseph Stilwell y otros mandos del teatro terminaron por costarle el mando en 1945.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -125,7 +125,7 @@ Su memoria vive en varios homenajes: la base que llevó su nombre en Lake Charle
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-31 06:44:22 CST
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias/institucionales consultadas:** Fuerza Aérea de los Estados Unidos (biografía oficial); National Museum of the United States Air Force (fichas «Maj. Gen. Claire Chennault» y «14th Air Force in China»); Texas State Historical Association (Handbook of Texas); National Aviation Hall of Fame
 - **Fuentes secundarias de contraste:** Encyclopaedia Britannica; Wikipedia (artículos «Claire Lee Chennault» y «Flying Tigers»); Air &amp; Space Forces Magazine
 - **Discrepancias resueltas:** año de nacimiento, 1893 frente a 1890; cómputo de los días entre Pearl Harbor y el primer combate del AVG, trece frente a doce según el huso horario; derribos del AVG, 296 según el Museo Nacional de la Fuerza Aérea frente a 297 según otras fuentes.

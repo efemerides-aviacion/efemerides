@@ -54,7 +54,7 @@ El nacimiento de los «Aviadores de Tuskegee» representó un hito de afirmació
 La hazaña del 332.º Grupo de Caza se forjó a través de años de riguroso adiestramiento en tierra antes de descollar hacia el Frente de Europa, detallándose a continuación sus hitos más significativos:
 
 - **19 de julio de 1941:** Inicia el adiestramiento de la primera clase de cadetes afroamericanos (clase 42-C) en el aeródromo de Tuskegee, bajo la dirección del Capitán Benjamin O. Davis Jr. como comandante de cadetes.
-- **6 de marzo de 1942:** Se gradúa la primera clase de pilotos de Tuskegee, diplomándose el Capitán Davis junto a los tenientes George S. Roberts, Lemuel R. Custis, Charles DeBow y Mac Ross.
+- **6 de marzo de 1942:** Se gradúa la primera clase de pilotos de Tuskegee, diplomándose el Capitán Davis junto a los Tenientes George S. Roberts, Lemuel R. Custis, Charles DeBow y Mac Ross.
 - **4 de julio de 1942:** El Departamento de Guerra constituye de forma oficial el 332.º Grupo de Caza de las USAAF para congregar a los nuevos escuadrones de pilotos afroamericanos.
 - **13 de octubre de 1942:** Se activa físicamente el 332.º Grupo de Caza en el aeródromo militar de Tuskegee, Alabama, integrando inicialmente los Escuadrones No. 100, No. 301 y No. 302.
 - **Febrero de 1944:** El grupo es desplegado formalmente en el Teatro de Operaciones del Mediterráneo (MTO), estableciendo su base de operaciones en Italia para volar misiones de escolta y reconocimiento con cazas P-39 Airacobra.
@@ -103,7 +103,7 @@ A más de ocho décadas de su histórica constitución en julio de 1942, el lega
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación comercial y militar presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** Informes de misión de combate del 332nd Fighter Group (1944-1945), registros de la USAF conservados por la Air Force Historical Research Agency (AFHRA), archivos del National Museum of the U.S. Air Force, actas oficiales de condecoraciones del Congreso de los EE. UU. (Medalla de Oro de 2007) y los registros históricos del Tuskegee Airmen National Historic Site
 - **Discrepancias resueltas:** Se ha resuelto de forma rigurosa la discrepancia histórica referente a la marca de escolta de los Aviadores de Tuskegee. Tras la desclasificación de los partes de combate y la exhaustiva investigación histórica del historiador de la USAF Dr. Daniel L. Haulman, se confirmó que la unidad perdió exactamente 27 bombarderos protegidos frente a cazas del Eje a lo largo de 7 misiones distintas, desmitificando con seriedad el mito popular de la posguerra de que \"nunca perdieron un solo bombardero escoltado\".
 - **Nivel de confianza:** Alto

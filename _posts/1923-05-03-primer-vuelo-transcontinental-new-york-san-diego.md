@@ -6,13 +6,13 @@ categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: U.S. Army Air Service
-excerpt: "El 3 de mayo de 1923, los tenientes John A. Macready y Oakley G. Kelly culminaron el primer vuelo transcontinental sin escalas de costa a costa en Estados Unidos, a bordo de un Fokker T-2, recorriendo 2.470 millas en 26 horas y 50 minutos."
+excerpt: "El 3 de mayo de 1923, los Tenientes John A. Macready y Oakley G. Kelly culminaron el primer vuelo transcontinental sin escalas de costa a costa en Estados Unidos, a bordo de un Fokker T-2, recorriendo 2.470 millas en 26 horas y 50 minutos."
 image: 1923-05-03-primer-vuelo-transcontinental-new-york-san-diego.webp
 ---
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1923-05-03-primer-vuelo-transcontinental-new-york-san-diego.webp" alt="Fokker T-2 en vuelo">
-  <figcaption class="post-caption">El Fokker T-2, fotografiado en 1923, fue la aeronave pilotada por los tenientes John A. Macready y Oakley G. Kelly para realizar el primer vuelo transcontinental sin escalas a través de Estados Unidos, tal como se documenta en Aviation Relics.</figcaption>
+  <figcaption class="post-caption">El Fokker T-2, fotografiado en 1923, fue la aeronave pilotada por los Tenientes John A. Macready y Oakley G. Kelly para realizar el primer vuelo transcontinental sin escalas a través de Estados Unidos, tal como se documenta en Aviation Relics.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -163,7 +163,7 @@ El Fokker T-2 envejeció rápidamente, superado por los avances tecnológicos de
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** National Air and Space Museum (Smithsonian), National Museum of the USAF (.mil), Newsday, Air & Space Forces Magazine
 - **Discrepancias resueltas:** La distancia varía entre 2.470 y 2.520 millas según la fuente (diferencia entre distancia en línea recta y distancia real volada). La hora de despegue varía entre 12:30 p.m. y 12:36 p.m. (se incluye el rango). La potencia del motor varía entre 408 hp y 420 hp (se incluye la cifra más común, 420 hp).
 - **Nivel de confianza:** Alto

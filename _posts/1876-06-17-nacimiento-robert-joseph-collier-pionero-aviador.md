@@ -73,7 +73,7 @@ Collier era un personaje fascinante: millonario, editor, aviador, filántropo y 
 - **1903, 22-24 de abril:** Su único hijo, Robert Jr., nace prematuramente y fallece dos días después 
 - **1909:** Fallece su padre, Peter Fenelon Collier; Robert se convierte en presidente de P. F. Collier & Son 
 - **1910:** Como presidente del Aero Club of America, encarga la fabricación de un trofeo de 238 kg diseñado por Ernest Wise Keyser 
-- **1911:** Collier presta su Wright Model B al Ejército de EE. UU.; los tenientes Benjamin Foulois y Phil Parmalee lo utilizan para patrullar la frontera con México, estrellándose en el Río Grande (sin consecuencias graves) 
+- **1911:** Collier presta su Wright Model B al Ejército de EE. UU.; los Tenientes Benjamin Foulois y Phil Parmalee lo utilizan para patrullar la frontera con México, estrellándose en el Río Grande (sin consecuencias graves) 
 - **1911:** Se otorga el primer Trofeo Collier a Glenn Curtiss por su trabajo en hidroaviones 
 - **1911:** Collier utiliza su avión para filmar la construcción del Canal de Panamá 
 - **1913:** Encarga un hidroavión en un temprano intento de cruzar el Atlántico 
@@ -159,7 +159,7 @@ El Trofeo Collier es el eslabón que conecta los primeros años de la aviación 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** Wikipedia, TimeNote, Smithsonian Institution
 - **Discrepancias resueltas:** La fecha exacta de fallecimiento varía entre el 8 y el 9 de noviembre de 1918; se ha optado por incluir ambas posibilidades. La cifra del peso del trofeo varía entre 225 y 238 kg; se ha optado por 238 kg según la fuente del Smithsonian. Se ha corregido la definición del trofeo para incluir explícitamente «astronáutica» y «naves espaciales».
 - **Nivel de confianza:** Alto

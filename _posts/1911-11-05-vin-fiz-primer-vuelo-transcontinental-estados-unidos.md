@@ -58,7 +58,7 @@ El Wright Model EX era una variante de exhibición derivada del Model R, con las
 
 ### Entorno personal
 
-Rodgers había aprendido a volar aquel mismo año, con Orville Wright, en Huffman Prairie (Ohio). Obtuvo el certificado de piloto de la FAI, el número 49, el 7 de agosto de 1911: cuando despegó rumbo al Pacífico llevaba mes y medio como aviador titulado. Era además casi completamente sordo, en una época que no hacía concesiones a ello. Descendía de los comodoros Oliver Hazard Perry y Matthew Calbraith Perry, y fue el primer particular a quien los hermanos Wright vendieron un avión.
+Rodgers había aprendido a volar aquel mismo año, con Orville Wright, en Huffman Prairie (Ohio). Obtuvo el certificado de piloto de la FAI, el número 49, el 7 de agosto de 1911: cuando despegó rumbo al Pacífico llevaba mes y medio como aviador titulado. Era además casi completamente sordo, en una época que no hacía concesiones a ello. Descendía de los Comodoros Oliver Hazard Perry y Matthew Calbraith Perry, y fue el primer particular a quien los hermanos Wright vendieron un avión.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -148,7 +148,7 @@ Doce años después de Pasadena, el Ejército estadounidense uniría las dos cos
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-23 10:34:57 CST
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias/institucionales consultadas:** National Air and Space Museum, Smithsonian Institution (ficha del Wright EX «Vin Fiz», A19340060000); Smithsonian Archives (colección NASM.2007.0004); Library of Congress (fotografía Bain, LCCN 2014689704); The Museum of Flight Archives (colección Bayne); U.S. Centennial of Flight Commission; ciudad de Long Beach (historia del aeropuerto).
 - **Fuentes secundarias de contraste:** Wright Brothers Aeroplane Company; This Day in Aviation; Long Beach Post.
 - **Discrepancias resueltas:** (1) Fecha de la efeméride: se adopta el 5 de noviembre de 1911, culminación de la travesía continental en Pasadena, y se documenta el epílogo de Long Beach del 10 de diciembre en la cronología. (2) Duración: 49 días hasta Pasadena; las fuentes que citan 84 días computan hasta Long Beach. (3) Distancia: las fuentes oscilan entre unas 4.000 y 4.231 millas; se ofrece la cifra aproximada por no existir medición contemporánea fiable. (4) Fecha de la muerte: se sigue el 3 de abril de 1912, mayoritario en los archivos institucionales, frente a la mención aislada del 10 de abril. (5) Composición del tren de apoyo: entre tres y seis vagones según la fuente; se indica el rango.

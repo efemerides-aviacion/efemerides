@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: España
 operator: Aeronáutica Militar Española
-excerpt: "El 10 de junio de 1933, los capitanes Mariano Barberán y Joaquín Collar despegaron de Sevilla a bordo del Cuatro Vientos, un Breguet XIX TR Super Bidón fabricado por CASA, completando el vuelo sin escalas más largo sobre el Atlántico hasta la fecha: 7.320 km en 39 horas y 55 minutos hasta Camagüey (Cuba). Diez días después, en la etapa hacia México, el avión desapareció con sus tripulantes sin dejar rastro, convirtiéndose en uno de los grandes misterios de la aviación."
+excerpt: "El 10 de junio de 1933, los Capitanes Mariano Barberán y Joaquín Collar despegaron de Sevilla a bordo del Cuatro Vientos, un Breguet XIX TR Super Bidón fabricado por CASA, completando el vuelo sin escalas más largo sobre el Atlántico hasta la fecha: 7.320 km en 39 horas y 55 minutos hasta Camagüey (Cuba). Diez días después, en la etapa hacia México, el avión desapareció con sus tripulantes sin dejar rastro, convirtiéndose en uno de los grandes misterios de la aviación."
 image: 1933-06-11-cuatro-vientos-brequet-xix.webp
 ---
 
@@ -195,7 +195,7 @@ Poco antes de fallecer, Modesto Madariaga (el mecánico que no subió al avión 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), EcuRed, Fundación ENAIRE, Archivo Histórico del Ejército del Aire (Biblioteca Virtual de Defensa), Dialnet (artículo 1172980), El Heraldo de León
 - **Discrepancias resueltas:** Distancia del raid (7.320 km vs. 7.895 km): se opta por la cifra de Wikipedia (7.320 km) por ser la más citada en fuentes académicas; fecha del despegue desde La Habana (5:55 vs. 8:45): se adopta la hora del informe oficial mexicano (5:55). La cámara de neumático se considera vestigio probable, no confirmado. 
 - **Nivel de confianza:** Alto

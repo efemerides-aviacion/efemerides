@@ -19,7 +19,7 @@ image: 1904-05-04-nacimiento-joaquin-garcia-morato.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 4 de mayo de 1904 nació en Melilla Joaquín García-Morato y Castaño, el máximo as de la aviación española que alcanzó 40 derribos durante la Guerra Civil (1936-1939). Formó la Patrulla Azul con los capitanes Julio Salvador y Narciso Bermúdez de Castro, pilotando el emblemático Fiat CR.32, y fue el único aviador condecorado con la Cruz Laureada de San Fernando, la máxima distinción militar española. Acumuló 1.012 horas de vuelo, 511 misiones de guerra y 144 combates aéreos, convirtiéndose en una leyenda de la aviación española. Falleció el 4 de abril de 1939 en un accidente durante una exhibición aérea en Griñón (Madrid), apenas tres días después del fin de la contienda.</p>
+<p>El 4 de mayo de 1904 nació en Melilla Joaquín García-Morato y Castaño, el máximo as de la aviación española que alcanzó 40 derribos durante la Guerra Civil (1936-1939). Formó la Patrulla Azul con los Capitanes Julio Salvador y Narciso Bermúdez de Castro, pilotando el emblemático Fiat CR.32, y fue el único aviador condecorado con la Cruz Laureada de San Fernando, la máxima distinción militar española. Acumuló 1.012 horas de vuelo, 511 misiones de guerra y 144 combates aéreos, convirtiéndose en una leyenda de la aviación española. Falleció el 4 de abril de 1939 en un accidente durante una exhibición aérea en Griñón (Madrid), apenas tres días después del fin de la contienda.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -198,7 +198,7 @@ Hoy, más de 85 años después de su muerte, Joaquín García-Morato sigue siend
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** Wikipedia (ES/EN), Biplane Fighter Aces, Museo Aviación Militar Española, Apuntes sobre la marcha
 - **Discrepancias resueltas:** La fecha de nacimiento (4 de mayo de 1904) es consistente en todas las fuentes. La fecha de concesión de la Laureada varía entre el 12 de mayo de 1937 y el 25 de mayo de 1937; se ha priorizado la primera. El número de victorias (40) es consistente. La distribución de victorias entre el Heinkel He 51 y el Fiat CR.32 está documentada en fuentes especializadas.
 - **Nivel de confianza:** Alto

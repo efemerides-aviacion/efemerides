@@ -6,21 +6,21 @@ categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Air Service, United States Army / United States Army Air Corps
-excerpt: "El 29 de junio de 1927, los tenientes Lester J. Maitland y Albert F. Hegenberger completaron el primer vuelo sin escalas desde el continente estadounidense hasta Hawái, aterrizando en Wheeler Field, Oahu, tras 25 horas y 50 minutos de navegación aérea sobre el Pacífico."
+excerpt: "El 29 de junio de 1927, los Tenientes Lester J. Maitland y Albert F. Hegenberger completaron el primer vuelo sin escalas desde el continente estadounidense hasta Hawái, aterrizando en Wheeler Field, Oahu, tras 25 horas y 50 minutos de navegación aérea sobre el Pacífico."
 image: 1927-06-29-primer-vuelo-directo-oakland-oahu.webp
 
 ---
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1927-06-29-primer-vuelo-directo-oakland-oahu.webp" alt="Atlantic-Fokker C-2 Bird of Paradise aterriza en Wheeler Field, Oahu, 29 de junio de 1927">
-  <figcaption class="post-caption">Los tenientes Albert F. Hegenberger y Lester J. Maitland, tripulantes del Atlantic‑Fokker C‑2 Bird of Paradise, son felicitados tras su aterrizaje en Wheeler Field (Oahu) luego de completar el primer vuelo directo entre Oakland y Hawái el 29 de junio de 1927; fuente: U.S. Air Force / Wikipedia.</figcaption>
+  <figcaption class="post-caption">Los Tenientes Albert F. Hegenberger y Lester J. Maitland, tripulantes del Atlantic‑Fokker C‑2 Bird of Paradise, son felicitados tras su aterrizaje en Wheeler Field (Oahu) luego de completar el primer vuelo directo entre Oakland y Hawái el 29 de junio de 1927; fuente: U.S. Air Force / Wikipedia.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 29 de junio de 1927, los tenientes Lester J. Maitland y Albert F. Hegenberger completaron el primer vuelo sin escalas desde el continente estadounidense hasta Hawái. A bordo del Atlantic-Fokker C-2 Bird of Paradise (S/N 26-202), habían despegado el 28 de junio a las 07:09 hora del Pacífico desde el Oakland Municipal Airport, California, y aterrizaron a las 06:29, hora local, en Wheeler Field, Oahu. La travesía de 2.407 millas (3.874 km) duró 25 horas y 50 minutos y representó una prueba decisiva de navegación aérea sobre aguas abiertas, ya que los radiofaros dejaron de funcionar poco después del despegue y la tripulación debió guiarse por estima y observaciones celestes.</p>
+<p>El 29 de junio de 1927, los Tenientes Lester J. Maitland y Albert F. Hegenberger completaron el primer vuelo sin escalas desde el continente estadounidense hasta Hawái. A bordo del Atlantic-Fokker C-2 Bird of Paradise (S/N 26-202), habían despegado el 28 de junio a las 07:09 hora del Pacífico desde el Oakland Municipal Airport, California, y aterrizaron a las 06:29, hora local, en Wheeler Field, Oahu. La travesía de 2.407 millas (3.874 km) duró 25 horas y 50 minutos y representó una prueba decisiva de navegación aérea sobre aguas abiertas, ya que los radiofaros dejaron de funcionar poco después del despegue y la tripulación debió guiarse por estima y observaciones celestes.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -109,7 +109,7 @@ La hazaña de Maitland y Hegenberger permanece como uno de los hitos fundamental
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
+- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias consultadas:** National Museum of the U.S. Air Force, Oakland Aviation Museum, Smithsonian Time and Navigation, Air & Space Forces Magazine, Wikipedia (EN)
 - **Discrepancias resueltas:** Se eligió el 29 de junio como fecha de la efeméride; se aclaró la doble denominación institucional Air Service / Army Air Corps; se optó por la distancia de 2.407 millas (3.874 km).
 - **Nivel de confianza:** Alto
