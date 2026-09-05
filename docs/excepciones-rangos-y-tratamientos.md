@@ -9,7 +9,9 @@ Registro de los cuatro casos en que la regla de capitalizar los grados militares
 
 ## Uso de este registro
 
-Este documento es la versión para lectores humanos; vive en `docs/` junto al Manual de Estilo. La versión legible por máquina para el programa de repaso es el fichero `efemerides-rangos-excepciones.txt` (formato `archivo|fragmento|motivo`), que se mantiene fuera del repositorio, en el entorno de trabajo. Si una revisión futura de los rectores cambia la norma, este registro deberá contrastarse antes de volver a capitalizar alguno de los cuatro fragmentos.
+Este documento es la versión para lectores humanos; vive en `docs/` junto al Manual de Estilo. La versión legible por máquina es `tools/efemerides-rangos-excepciones.txt`, en formato `archivo|fragmento|motivo`, y se mantiene versionada junto a `tools/efemerides-linter.sh` para que las excepciones sobrevivan al cambio de sesión y puedan recuperarse con el repositorio.
+
+Toda incorporación, modificación o supresión de una excepción debe aplicarse simultáneamente en este registro humano y en el fichero legible por máquina. Si una revisión futura de los rectores cambia la norma, ambos registros deberán contrastarse antes de volver a capitalizar alguno de los cuatro fragmentos.
 
 ---
-*Sellado: 2026-09-03 16:13:47 CST.*
+*Actualizado: 2026-09-05 — se incorpora al repositorio la versión legible por máquina, antes conservada únicamente en el entorno local.*
