@@ -15,11 +15,15 @@ image: 1987-05-28-mathias-rust-aterriza-avioneta-plaza-roja-moscu.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1987-05-28-mathias-rust-aterriza-avioneta-plaza-roja-moscu.webp" alt="Mathias Rust frente a su avioneta en la Plaza Roja">
   <figcaption class="post-caption">Mathias Rust, al mando de una avioneta Cessna 172, sobrevolando la Plaza Roja de Moscú antes de su aterrizaje el 28 de mayo de 1987; fuente: Turama, “El día en el que una Cessna logró aterrizar en la Plaza Roja de Moscú” / This Day in Aviation, “28 May 1987”.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
-
-El 28 de mayo de 1987, Mathias Rust, un piloto aficionado alemán occidental de 19 años con aproximadamente 50 horas de vuelo, despegó del aeropuerto de Helsinki-Malmi en una Cessna 172 alquilada con matrícula D-ECJB. Tras desviarse de su ruta declarada hacia Estocolmo, voló 1.000 kilómetros a través del espacio aéreo soviético, evadiendo múltiples intentos de interceptación, y aterrizó en la Plaza Roja de Moscú a las 19:30 horas. El incidente expuso graves fallos en el sistema de defensa aérea soviético y provocó la destitución del Ministro de Defensa, Mariscal Sergei Sokolov, del Jefe de la Defensa Aérea, Mariscal Aleksandr Koldunov, y de aproximadamente 200 oficiales más. Rust fue condenado a cuatro años de prisión, pero fue liberado después de 14 meses como gesto de buena voluntad tras la firma del tratado INF entre Reagan y Gorbachov.
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+  <p>
+    El 28 de mayo de 1987, Mathias Rust, un piloto aficionado alemán occidental de 19 años con aproximadamente 50 horas de vuelo, despegó del aeropuerto de Helsinki-Malmi en una Cessna 172 alquilada con matrícula D-ECJB. Tras desviarse de su ruta declarada hacia Estocolmo, voló 1.000 kilómetros a través del espacio aéreo soviético, evadiendo múltiples intentos de interceptación, y aterrizó en la Plaza Roja de Moscú a las 19:30 horas. El incidente expuso graves fallos en el sistema de defensa aérea soviético y provocó la destitución del Ministro de Defensa, Mariscal Sergei Sokolov, del Jefe de la Defensa Aérea, Mariscal Aleksandr Koldunov, y de aproximadamente 200 oficiales más. Rust fue condenado a cuatro años de prisión, pero fue liberado después de 14 meses como gesto de buena voluntad tras la firma del tratado INF entre Reagan y Gorbachov.
+  </p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -57,7 +61,7 @@ El incidente fue recibido con incredulidad y burla en Occidente, pero con conste
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Vuelo
+## Desarrollo Cronológico
 
 - **13 de mayo de 1987:** Rust despega de Uetersen, cerca de Hamburgo, y comienza su viaje por el norte de Europa (Islas Feroe, Islandia, Noruega) 
 - **28 de mayo de 1987, mañana:** Rust aterriza en Helsinki-Malmi para repostar 
@@ -92,7 +96,9 @@ Mathias Rust sigue siendo una de las figuras más controvertidas y fascinantes d
 - **Evaluación histórica:** Rust declaró décadas después que su acción fue "irresponsable" y que ciertamente no la repetiría, pero añadió que si no lo hubiera hecho, "algo faltaría" 
 - **El incidente en la cultura popular:** El vuelo de Rust es recordado como una de las mayores humillaciones sufridas por la Unión Soviética en tiempos de paz y como un símbolo del final de la Guerra Fría
 
----
+La hazaña dejó además una estela imitadora que las autoridades occidentales tardarían en calibrar. El 12 de septiembre de 1994, un hombre que admiraba la proeza de Rust según refirieron después sus allegados <a href="https://efemerides-aviacion.github.io/efemerides/seguridad/1994/09/12/corder-cessna-150-casa-blanca-p56.html" style="color: #315fea; text-decoration: none;">estrelló un Cessna 150 robado contra el Jardín Sur de la Casa Blanca</a> tras penetrar sin oposición el espacio aéreo prohibido de Washington: la vulnerabilidad que Rust había expuesto en Moscú resultó no ser exclusiva del bloque soviético.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -122,8 +128,8 @@ Mathias Rust sigue siendo una de las figuras más controvertidas y fascinantes d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, Wikipedia (ES), El País (archivo 1987), The Guardian, Time Magazine, Los Angeles Times (1987)
+- **Timestamp de verificación:** 2026-09-06 09:56:53 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Wikipedia (ES), El País (archivo 1987), The Guardian, Time Magazine, Los Angeles Times (1987)
 - **Discrepancias resueltas:** Confirmación de la fecha y hora del aterrizaje (19:30 del 28 de mayo). Verificación de la edad de Rust (19 años) y horas de vuelo (~50). Inclusión de las teorías de conspiración en la nota aclaratoria.
 - **Nivel de confianza:** Alto (múltiples fuentes contemporáneas y posteriores coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
