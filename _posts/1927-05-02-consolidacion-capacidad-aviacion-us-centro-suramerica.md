@@ -46,7 +46,7 @@ image: 1927-05-02-consolidacion-capacidad-aviacion-us-centro-suramerica.webp
 
 A mediados de la década de 1920, la política exterior del presidente Calvin Coolidge buscaba fortalecer las relaciones con América Latina, una región considerada de interés estratégico para Estados Unidos tras la Primera Guerra Mundial. El Mayor General Mason Patrick, jefe de aviación del ejército, propuso un vuelo de buena voluntad a través de México, Centro y Sudamérica. La idea fue respaldada por el secretario de Guerra Dwight Davis y el secretario de Estado Frank B. Kellogg. El propósito era múltiple: mejorar las relaciones diplomáticas, fomentar la aviación comercial, proporcionar entrenamiento valioso al personal del Cuerpo Aéreo y estimular la industria aeronáutica estadounidense en una región que carecía de infraestructura de transporte por ferrocarril o carretera.
 
-### El contexto geopolítico
+### Entorno social
 
 La creciente influencia de Alemania en la aviación latinoamericana, a través de compañías como SCADTA en Colombia, preocupaba a Washington. El control del Canal de Panamá y las rutas aéreas hacia América del Sur se consideraban vitales para la seguridad nacional. Este vuelo sentaría las bases para que, poco después, Pan American World Airways, designada como el "instrumento elegido" ("chosen instrument") del gobierno estadounidense, estableciera rutas comerciales siguiendo el patrón trazado por los aviadores militares.
 
@@ -57,6 +57,8 @@ El Loening OA-1A era un anfibio (podía despegar y amerizar) diseñado por <a hr
 ### Entorno cultural
 
 La aviación en la década de 1920 cautivaba la imaginación del público. Tan solo tres semanas después de la conclusión de este vuelo, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> realizó su histórico cruce transatlántico, eclipsando mediáticamente la gesta de los diez aviadores. Sin embargo, ambos eventos quedaron vinculados: el 13 de junio de 1927, el San Francisco (pilotado por el Capitán Ira C. Eaker) transportó a Lindbergh desde Mitchel Field hasta el puerto de Nueva York, utilizando su capacidad anfibia para amerizar y permitir la entrada triunfal del "Espíritu de San Luis" a la ciudad.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -91,15 +93,27 @@ A pesar de la tragedia, el secretario de Guerra autorizó la continuación del v
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+## Consecuencias e Impacto
+
+El regreso a Bolling Field tuvo efectos inmediatos en los tres planos que la misión se había propuesto.
+
+- **Diplomático:** el presidente Calvin Coolidge recibió a los aviadores en persona y les impuso la Distinguished Flying Cross. Los actos oficiales celebrados en cada una de las escalas cumplieron el propósito de acercamiento con América Latina que había motivado la expedición.
+- **Operacional:** los ocho pilotos supervivientes completaron la travesía con cuatro aeronaves tras la pérdida del *Detroit* y el *New York*, y demostraron que un anfibio militar podía sostener una campaña de 133 días sin apoyo logístico especializado, con el mantenimiento a cargo de las propias tripulaciones.
+- **Cartográfico:** el reconocimiento de aeródromos, condiciones meteorológicas y rutas quedó documentado y pasó a servir de base para la planificación aérea de la región.
+- **Institucional:** la travesía reforzó la posición del Cuerpo Aéreo del Ejército en el debate estadounidense sobre el papel del poder aéreo, en un momento de fuerte discusión sobre su autonomía.
+- **Reconocimiento:** todos los tripulantes recibieron además la Mackay Trophy del año.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Legado
 
 El mayor legado de esta travesía fue pionero en la apertura de rutas aéreas comerciales. Cuando Pan American World Airways comenzó sus servicios a Sudamérica aproximadamente dos años después, la compañía seleccionó sus estaciones siguiendo un patrón basado en la ruta del Vuelo de Buena Voluntad. Los conocimientos adquiridos sobre navegación, meteorología y las condiciones de los aeródromos en la región resultaron invaluables.
 
 El San Francisco, la única aeronave que completó todas las etapas del recorrido sin interrupciones, fue transferido al Smithsonian Institution en diciembre de 1927 y restaurado por el Museo Nacional del Aire y el Espacio entre 1964 y 1965. Actualmente se exhibe en el Udvar-Hazy Center en Chantilly, Virginia.
 
-Los participantes del vuelo tuvieron destacadas carreras posteriores. Ira C. Eaker y Muir S. Fairchild alcanzaron el grado de general durante la Segunda Guerra Mundial. Todos los tripulantes recibieron la Distinguished Flying Cross y la Mackay Trophy.
+Los participantes del vuelo tuvieron destacadas carreras posteriores. Ira C. Eaker y Muir S. Fairchild alcanzaron el grado de general durante la Segunda Guerra Mundial.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre los datos del accidente:</strong> El accidente ocurrió el 26 de febrero de 1927 en El Palomar, Buenos Aires. Fallecieron el Capitán Clinton F. Woolsey y el Teniente John W. Benton, ambos tripulantes del <em>Detroit</em>. El Mayor Dargue y el Teniente Whitehead (<em>New York</em>) sobrevivieron al lanzarse en paracaídas. Fue un solo accidente (una colisión en el aire entre dos aviones), no dos incidentes separados.</p>
@@ -126,8 +140,8 @@ Los participantes del vuelo tuvieron destacadas carreras posteriores. Ira C. Eak
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-06 07:21:44 CST  
-- **Fuentes primarias consultadas:** National Air and Space Museum (Smithsonian), National Museum of the USAF (.mil), Aviation Safety Network, University of Texas at Dallas
+- **Timestamp de verificación:** 2026-09-06 07:55:05 CST  
+- **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (Smithsonian), National Museum of the USAF (.mil), Aviation Safety Network, University of Texas at Dallas
 - **Discrepancias resueltas:** La información proporcionada por el usuario era mayormente correcta. Se precisa que el accidente involucró una colisión entre dos aviones, no dos accidentes separados. Los fallecidos (2) tripulaban el mismo avión (Detroit). La ruta de cruce de los Andes fue Valdivia-Bahía Blanca, no directamente a Buenos Aires. Las cifras de 35.200 km, 59 días de vuelo, 74 días de escalas y finalización el 2 de mayo de 1927 son completamente correctas.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
