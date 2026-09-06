@@ -52,7 +52,7 @@ La creciente influencia de Alemania en la aviación latinoamericana, a través d
 
 ### Entorno tecnológico
 
-El Loening OA-1A era un anfibio (podía despegar y amerizar) diseñado por Grover Loening con un casco de duraluminio sobre estructura de madera y un fuselaje construido sobre el casco. Estaba propulsado por un motor Liberty V-12 invertido de 420 hp (V-1650-1). Para mantenerlo operativo, los pilotos debían realizar ellos mismos todo el mantenimiento: limpiar y reemplazar las 24 bujías en cada escala, y bombear manualmente 757 litros (200 galones) de combustible a través de un embudo cubierto de gamuza, un proceso que tomaba más de tres horas. La velocidad de crucero promedio fue de 136 a 144 km/h (85-90 mph).
+El Loening OA-1A era un anfibio (podía despegar y amerizar) diseñado por <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1888/09/12/nacimiento-grover-loening-primer-titulo-aeronautica-eeuu.html" style="color: #315fea; text-decoration: none;">Grover Loening</a>, primer titulado en aeronáutica de Estados Unidos y autor del tren de aterrizaje retráctil que hacía posible esta doble capacidad, con un casco de duraluminio sobre estructura de madera y un fuselaje construido sobre el casco. Estaba propulsado por un motor Liberty V-12 invertido de 420 hp (V-1650-1). Para mantenerlo operativo, los pilotos debían realizar ellos mismos todo el mantenimiento: limpiar y reemplazar las 24 bujías en cada escala, y bombear manualmente 757 litros (200 galones) de combustible a través de un embudo cubierto de gamuza, un proceso que tomaba más de tres horas. La velocidad de crucero promedio fue de 136 a 144 km/h (85-90 mph).
 
 ### Entorno cultural
 
@@ -126,7 +126,7 @@ Los participantes del vuelo tuvieron destacadas carreras posteriores. Ira C. Eak
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-06 07:21:44 CST  
 - **Fuentes primarias consultadas:** National Air and Space Museum (Smithsonian), National Museum of the USAF (.mil), Aviation Safety Network, University of Texas at Dallas
 - **Discrepancias resueltas:** La información proporcionada por el usuario era mayormente correcta. Se precisa que el accidente involucró una colisión entre dos aviones, no dos accidentes separados. Los fallecidos (2) tripulaban el mismo avión (Detroit). La ruta de cruce de los Andes fue Valdivia-Bahía Blanca, no directamente a Buenos Aires. Las cifras de 35.200 km, 59 días de vuelo, 74 días de escalas y finalización el 2 de mayo de 1927 son completamente correctas.
 - **Nivel de confianza:** Alto
