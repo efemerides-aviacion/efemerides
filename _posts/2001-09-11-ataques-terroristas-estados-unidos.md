@@ -84,7 +84,7 @@ Veinticinco años después, el 11-S sigue marcando la aviación cotidiana. Contr
 
 El recuerdo no se reduce a las Torres Gemelas. Incluye el Pentágono, el campo de Shanksville, los cuatro vuelos y la resistencia del vuelo 93; incluye también enfermedades y muertes posteriores entre quienes trabajaron entre polvo y contaminantes. Los memoriales de Nueva York, Arlington y Pensilvania preservan nombres individuales frente a una cifra colectiva.
 
-La enseñanza aeronáutica más profunda fue que los supuestos de seguridad pueden quedar obsoletos de forma abrupta. Prevenir la repetición exige revisar amenazas, compartir señales dispersas y evitar que la rutina convierta una defensa en simple formalidad, sin perder de vista que toda medida de seguridad afecta a millones de personas que no representan amenaza alguna.
+La enseñanza aeronáutica más profunda fue que los supuestos de seguridad pueden quedar obsoletos de forma abrupta. No habían faltado avisos: siete años antes, el 12 de septiembre de 1994, una avioneta robada <a href="https://efemerides-aviacion.github.io/efemerides/seguridad/1994/09/12/corder-cessna-150-casa-blanca-p56.html" style="color: #315fea; text-decoration: none;">atravesó sin oposición el espacio aéreo prohibido de Washington y se estrelló contra la Casa Blanca</a>, y la revisión oficial que siguió recomendó estudiar cambios en las reglas del tráfico aéreo civil. Prevenir la repetición exige revisar amenazas, compartir señales dispersas y evitar que la rutina convierta una defensa en simple formalidad, sin perder de vista que toda medida de seguridad afecta a millones de personas que no representan amenaza alguna.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
@@ -107,7 +107,7 @@ La enseñanza aeronáutica más profunda fue que los supuestos de seguridad pued
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-05 12:56:08 CST
+- **Timestamp de verificación:** 2026-09-06 09:57:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Informe de la Comisión del 11-S; informe cronológico de sus equipos conservado por los Archivos Nacionales; investigación PENTTBOM y materiales conmemorativos del FBI; investigación técnica del World Trade Center de NIST; ficha de la Biblioteca del Congreso y Wikimedia Commons para la imagen.
 - **Fuentes secundarias de contraste:** síntesis históricas y catálogos consultados para contrastar denominaciones, cifras y secuencia, sin desplazar las fuentes oficiales.
 - **Discrepancias resueltas:** cifra de víctimas directas, 2.977 en el recuento consolidado frente a 2.976 en una página del FBI; se adopta 2.977 y se explica el criterio en la nota aclaratoria. Las horas se expresan en EDT y siguen la cronología de la Comisión del 11-S; se evita redondearlas cuando el informe ofrece segundos.
