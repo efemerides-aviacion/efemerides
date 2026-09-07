@@ -13,16 +13,12 @@ image: 1901-08-14-presunto-vuelo-de-gustave-whitehead.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1901-08-14-presunto-vuelo-de-gustave-whitehead.webp" alt="Aparato de alas de murciélago de Gustave Whitehead en el suelo, con un grupo de personas sentadas delante, hacia 1901">
   <figcaption class="post-caption">El monoplane de alas de murciélago de Gustave Whitehead en tierra, hacia 1901. No se conserva ninguna fotografía del aparato en vuelo. Fuente: Wikimedia Commons.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 14 de agosto de 1901, según una crónica del Bridgeport Sunday Herald publicada cuatro días después, el inmigrante alemán Gustave Whitehead recorrió media milla por el aire a unos quince metros de altura, en Fairfield, Connecticut, a bordo de su monoplane No. 21: dos años y tres meses antes del vuelo de los hermanos Wright. La reclamación, sostenida por declaraciones recogidas décadas después y por una corriente revisionista, ha sido rechazada por la historiografía mayoritaria y por el Smithsonian, que la consideran no probada. Esta efeméride conmemora la publicación de aquella reclamación y la controversia que aún la acompaña.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha de la reclamación:** 14 de agosto de 1901; crónica publicada el 18 de agosto en el Bridgeport Sunday Herald
@@ -35,7 +31,6 @@ image: 1901-08-14-presunto-vuelo-de-gustave-whitehead.webp
 - **Reconocimientos de la reclamación:** la edición centenaria de Jane's All the World's Aircraft (2013) y el estado de Connecticut, en el mismo año, dieron por bueno el vuelo de 1901
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 Al cambio de siglo, el vuelo mecánico era una carrera abierta: Langley ensayaba sus aeródromos, Chanute y Herring planeaban en las dunas del lago Michigan, y los Wright, en Dayton, acumulaban mediciones. En ese ambiente, un mecánico inmigrante que aseguraba haber volado en Connecticut sin más prueba que una crónica periodística ocupó de inmediato el centro de una disputa que dura hasta hoy.
@@ -53,7 +48,6 @@ El No. 21 era un monoplane de estructura de madera y bambú recubierto de tela, 
 La pregunta por «quién voló primero» se convirtió en asunto de orgullo estatal y nacional: Connecticut contra Ohio y Carolina del Norte, y una corriente revisionista contra el Smithsonian, cuyo contrato de 1948 con los herederos de Orville Wright —que condiciona la custodia del Flyer a no atribuir el primer vuelo a otra máquina— alimenta hasta hoy las sospechas de parcialidad. La disputa ilustra la diferencia entre volar y probar que se voló.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 - **1 de enero de 1874:** nace Gustav Albin Weisskopf en Leutershausen, Baviera; emigrado a Estados Unidos en 1893, angliza su nombre como Gustave Whitehead.
@@ -67,7 +61,6 @@ La pregunta por «quién voló primero» se convirtió en asunto de orgullo esta
 - **2013:** el editor de Jane's All the World's Aircraft, Paul Jackson, acredita a Whitehead como primero en volar; Connecticut lo reconoce por ley; el Smithsonian responde con el análisis de Tom Crouch que rechaza la reclamación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 - **Un debate historiográfico permanente:** la reclamación de Whitehead es el caso de estudio clásico sobre la diferencia entre testimonio tardío y prueba contemporánea: sin cuadernos, sin patentes, sin fotografías en vuelo, la crónica de 1901 y las declaraciones de los años treinta no han bastado a la corriente mayoritaria.
@@ -75,13 +68,11 @@ La pregunta por «quién voló primero» se convirtió en asunto de orgullo esta
 - **Réplica experimental:** desde los años ochenta, entusiastas en Alemania y Estados Unidos han construido y hecho volar réplicas del No. 21 con motores y hélices modernos y modificaciones estructurales, demostrando que el diseño era aerodinámicamente viable con potencia suficiente, aunque no que volara en 1901.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 Ciento veinticinco años después, Whitehead sigue siendo el «primero» de Connecticut y el «no probado» del Smithsonian. Su museo natal de Leutershausen lo honra como Gustav Weißkopf, pionero de la aviación; la historiografía, en cambio, reserva el hito a Kitty Hawk porque los Wright documentaron, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1906/05/22/patente-maquina-voladora-hermanos-wright.html" style="color: #315fea; text-decoration: none;">patentaron</a> y repitieron ante testigos lo que Whitehead solo relató. El caso permanece como lección permanente de método histórico: una reclamación puede ser sincera, popular y hasta legislada, y aun así no alcanzar el estatuto de hecho.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 <div class="references">
@@ -95,17 +86,15 @@ Ciento veinticinco años después, Whitehead sigue siendo el «primero» de Conn
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> esta efeméride conmemora la publicación de la reclamación de 1901 y la controversia que la acompaña, no un vuelo tenido por probado. La historiografía mayoritaria —Smithsonian, FAI y la mayor parte de los historiadores de la aviación— mantiene a los hermanos Wright como autores del primer vuelo sostenido y controlado de un aparato más pesado que el aire, el 17 de diciembre de 1903; el veredicto sobre Whitehead sigue siendo «no probado».</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-09 15:54:30 CST
-- **Fuentes primarias consultadas:** Wikipedia (EN), National Air and Space Museum (editorial de Tom Crouch)
+- **Timestamp de verificación:** 2026-09-07 10:25:07 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), National Air and Space Museum (editorial de Tom Crouch)
 - **Discrepancias resueltas:** la divergencia central —Connecticut y Jane's (2013) frente a Smithsonian, FAI y la historiografía mayoritaria— no se resuelve a favor de ninguna: se presenta la reclamación como reclamación y se consigna el veredicto «no probado» en nota aclaratoria. El número de declaraciones juradas varía entre fuentes (más de diez, trece, veinte testigos entrevistados); se redactó sin cifra cerrada.
 - **Nivel de confianza:** Alto para la existencia de la reclamación y de la controversia; <strong>insuficiente para el vuelo como hecho</strong>.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

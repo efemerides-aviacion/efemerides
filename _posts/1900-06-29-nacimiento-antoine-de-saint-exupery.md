@@ -15,16 +15,12 @@ image: 1900-06-29-nacimiento-antoine-de-saint-exupery.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1900-06-29-nacimiento-antoine-de-saint-exupery.webp" alt="Retrato de Antoine de Saint-Exupéry">
   <figcaption class="post-caption">Antoine de Saint‑Exupéry (1900‑1944), pionero de la aviación y creador de El principito, retratado en uniforme militar con la insignia de piloto hacia 1922; fuente: Succession de Saint‑Exupéry d’Agay vía antoinedesaintexupery.com.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 29 de junio de 1900, nació en Lyon, Francia, Antoine Marie Jean-Baptiste Roger de Saint-Exupéry, conde de Saint-Exupéry. Reconocido mundialmente como el autor de la inmortal novela «El principito», Saint-Exupéry fue además un audaz piloto militar, inventor y uno de los grandes pioneros de los vuelos postales internacionales con las compañías Latécoère y Aéropostale. Su vida estuvo marcada por una profunda pasión por la exploración aérea en los desiertos del Sahara y de la Patagonia, así como por su valeroso servicio en misiones de reconocimiento durante la Segunda Guerra Mundial, conflicto en el cual halló la muerte en vuelo en 1944. Su legado literario y aeronáutico fusiona la aventura física con una honda y sensible reflexión sobre la condición humana y la solidaridad.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Lugar de nacimiento:** Lyon, departamento del Ródano, Francia
 - **Fallecimiento en servicio:** 31 de julio de 1944 (44 años), Mar Mediterráneo (cerca de la isla de Riou, Marsella) durante una misión de reconocimiento
@@ -35,7 +31,6 @@ image: 1900-06-29-nacimiento-antoine-de-saint-exupery.webp
 - **Sobrevivencia extrema:** Superviviente de un grave accidente en el desierto de Libia en diciembre de 1935, donde permaneció cuatro días sin agua junto a su mecánico André Prévot hasta ser rescatado por un beduino
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 El nacimiento de Antoine de Saint-Exupéry en las postrimerías del siglo XIX coincidió con el surgimiento de la aviación práctica, un campo que pasaría en pocas décadas de ser una atracción de feria a un pilar clave del transporte internacional. Su juventud estuvo inmersa en la atmósfera de experimentación de los pioneros del aire, quienes veían en el avión no solo una máquina de transporte, sino un instrumento de superación y comunión con el planeta.
@@ -49,6 +44,7 @@ La aviación comercial de la década de 1920 y 1930 se caracterizaba por su extr
 ### Entorno cultural
 El período de entreguerras vio nacer una corriente cultural que glorificaba la figura del aviador como el nuevo héroe de la modernidad, un explorador del espacio y del alma humana. Los escritos de Saint-Exupéry, nutridos directamente de sus bitácoras de vuelo, ayudaron a cimentar esta mitología en la literatura universal, transformando la fría técnica del vuelo en una profunda filosofía sobre el deber, la fraternidad y el sentido ético del esfuerzo colectivo.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 
 La vida de Antoine de Saint-Exupéry fue una constante sucesión de vuelos de exploración, creación literaria y servicio militar, la cual se detalla a continuación en sus hitos más representativos:
@@ -64,6 +60,7 @@ La vida de Antoine de Saint-Exupéry fue una constante sucesión de vuelos de ex
 - **Abril de 1943:** Tras exiliarse en Estados Unidos, donde escribe e ilustra su obra maestra *El principito*, regresa al norte de África para unirse de nuevo al servicio de reconocimiento aéreo de las Fuerzas de la Francia Libre.
 - **31 de julio de 1944:** Despega de la base aérea de Borgo, en Córcega, a bordo de un avión de fotorreconocimiento sin armamento Lockheed P-38 Lightning (matrícula F-5B). Su rastro se pierde en el radar y es declarado desaparecido en acción. <a href="https://efemerides-aviacion.github.io/efemerides/evento/1944/07/31/ultimo-vuelo-antoine-saint-exupery.html" style="color: #315fea; text-decoration: none;">Ver efeméride de su último vuelo</a>.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 
 El nacimiento y posterior trayectoria de Saint-Exupéry tuvieron un profundo impacto tanto en el desarrollo técnico de las aerolíneas postales como en la percepción pública de la aviación. Su vida sirvió para humanizar la tecnología aérea en un momento de rápido crecimiento industrial.
@@ -72,6 +69,7 @@ El nacimiento y posterior trayectoria de Saint-Exupéry tuvieron un profundo imp
 - **Símbolo de la resistencia francesa:** Su trágica desaparición en vuelo en el verano de 1944 lo convirtió en un mártir nacional y en un símbolo de la lucha francesa contra la ocupación nazi, siendo declarado formalmente como un héroe que murió por la patria (*Mort pour la France*).
 - **Consolidación de la literatura de aviación:** Saint-Exupéry demostró que la experiencia aeronáutica era una fuente inagotable de reflexiones filosóficas. Sus obras ganaron prestigiosos premios literarios internacionales y acercaron el mundo de la cabina y la cabecera de pista al público general de forma poética y respetuosa.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
 El legado de Antoine de Saint-Exupéry trasciende el ámbito de las letras y la aviación de entreguerras, consolidándose como un patrimonio cultural y humanista para toda la humanidad. Sus reflexiones sobre el deber, la amistad y la responsabilidad continúan vigentes en el siglo XXI.
@@ -83,7 +81,6 @@ El legado de Antoine de Saint-Exupéry trasciende el ámbito de las letras y la 
 - **Fenómeno literario global:** Su obra maestra *El principito* ha sido traducida a más de trescientos cincuenta idiomas y dialectos, consolidándose como uno de los libros más leídos y vendidos de la historia de la humanidad, con millones de copias impresas en todos los continentes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -95,19 +92,17 @@ El legado de Antoine de Saint-Exupéry trasciende el ámbito de las letras y la 
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Uno de los hechos históricos más curiosos y emotivos del fin de la vida de Saint-Exupéry es el hallazgo de sus restos y pertenencias. En 1998, un pescador llamado Jean-Claude Bianco arrastró accidentalmente en sus redes frente a Marsella una pulsera de plata grabada con los nombres de Antoine y de su esposa Consuelo d'Agay, lo cual dio la primera pista real sobre el sector de su caída. Las investigaciones culminaron en 2004 con la identificación formal del tren de aterrizaje y el motor de su avión Lockheed P-38 Lightning, resolviendo el misterio que se había mantenido durante sesenta años.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Metadatos de Control
 
 Para asegurar la rigurosidad biográfica y el control técnico de los datos presentados sobre la vida de Saint-Exupéry, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Archivos biográficos de la Asociación Antoine de Saint-Exupéry-d'Agay, registros históricos de la Compagnie Générale Aéropostale, catálogo oficial de la Fuerza Aérea de Francia y la base de datos de hallazgos del Departamento de Investigaciones Arqueológicas Subacuáticas de Francia (DRASSM)
+- **Timestamp de verificación:** 2026-09-07 10:25:07 CST
+- **Fuentes primarias/institucionales consultadas:** Archivos biográficos de la Asociación Antoine de Saint-Exupéry-d'Agay, registros históricos de la Compagnie Générale Aéropostale, catálogo oficial de la Fuerza Aérea de Francia y la base de datos de hallazgos del Departamento de Investigaciones Arqueológicas Subacuáticas de Francia (DRASSM)
 - **Discrepancias resueltas:** Se ha clarificado que la desaparición física de Saint-Exupéry ocurrió el 31 de julio de 1944 a sus 44 años de edad, resolviendo cualquier debate sobre el lugar de su fallecimiento gracias al hallazgo físico y posterior identificación arqueológica en el año 2004 de los restos del Lockheed P-38 Lightning (matrícula F-5B) en las cercanías de la isla de Riou, Marsella.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

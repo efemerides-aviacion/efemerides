@@ -15,16 +15,12 @@ image: 1900-07-02-primer-vuelo-zeppelin-lz1.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1900-07-02-primer-vuelo-zeppelin-lz1.webp" alt="El dirigible rígido experimental Zeppelin LZ 1 en pleno vuelo sobre el lago de Constanza, 1900">
   <figcaption class="post-caption">El primer dirigible rígido del mundo, el Zeppelin LZ 1, fotografiado en pleno vuelo experimental sobre las aguas del lago de Constanza, cerca de Manzell, el 2 de julio de 1900. Fuente: <a href="https://commons.wikimedia.org/wiki/File:LZ_1_Flug_1900.jpg" style="color: #315fea; text-decoration: none;">Archivo de la Compañía Zeppelin / Wikimedia Commons</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 2 de julio de 1900, el conde Ferdinand von Zeppelin hizo historia al completar con éxito el vuelo inaugural del Zeppelin LZ 1, el primer dirigible rígido experimental del mundo. El despegue se produjo desde un gigantesco hangar flotante en la bahía de Manzell, sobre las aguas del lago de Constanza, en el sur de Alemania, marcando un trayecto de dieciocho minutos de duración que alcanzó altitudes de hasta cuatrocientos metros con cinco ocupantes a bordo. Aunque el vuelo debió interrumpirse debido al fallo de uno de sus motores y al atasco del mecanismo de control de cabeceo, la hazaña de manera concluyente demostró la viabilidad de la tecnología de envoltura de duraluminio y celdas de gas separadas, abriendo el camino para la legendaria era de los grandes aerostatos de transporte comercial y militar.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Empresa y capital de desarrollo:** Fabricado por la *Gesellschaft zur Förderung de la Luftschifffahrt*, con un capital de 800.000 marcos de oro (*Deutschmarks*), de los cuales el conde Zeppelin aportó 300.000, el fabricante de aluminio Carl Berg otros 100.000, y el resto de la inversión fue provista por diversos industriales e inversores independientes
 - **Dimensiones físicas colosales:** Longitud total de 128,02 metros, diámetro de 11,73 metros y una envoltura cilíndrica de tela de algodón engomada
@@ -36,7 +32,6 @@ image: 1900-07-02-primer-vuelo-zeppelin-lz1.webp
 - **Métricas operativas del primer vuelo:** Distancia de 6,0 km cubiertos a una velocidad media de 28 km/h, alcanzando una altitud máxima de 410 metros
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 A finales del siglo XIX, la ingeniería aeronáutica se encontraba en una encrucijada donde los globos libres tradicionales eran incapaces de navegar contra las corrientes del viento. Aunque pioneros como Henri Giffard y Alberto Santos-Dumont desarrollaron los primeros dirigibles de envoltura flexible, la idea de un gigantesco aerostato de estructura rígida de aluminio parecía una quimera técnicamente inviable y peligrosa.
@@ -50,6 +45,7 @@ En el plano tecnológico, el surgimiento de la metalurgia ligera del aluminio, a
 ### Entorno cultural
 El vuelo inaugural del LZ 1 in el verano de 1900 marcó el nacimiento de una fascinación popular y cultural sin parangón en la historia de la aviación, la «fiebre del zepelín» (*Zeppelin-Fieber*). Este hito pionero redefinió de manera definitiva la percepción colectiva del cielo, el cual dejó de ser visto como un espacio inaccesible para convertirse en una aerovía abierta para la exploración del planeta.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 La travesía del primer zepelín de la historia estuvo precedida por años de planificación militar y financiera, culminando con tres históricos vuelos de prueba sobre las aguas del lago de Constanza:
@@ -62,6 +58,7 @@ La travesía del primer zepelín de la historia estuvo precedida por años de pl
 - **24 de octubre de 1900:** Se lleva a cabo el tercer y último vuelo de pruebas del prototipo, donde la aeronave de manera fáctica logra batir la marca mundial de velocidad de la época al volar a casi 28 km/h.
 - **Primavera de 1901:** La sociedad promotora se disuelve formalmente por falta de fondos adicionales, lo que obliga al conde Zeppelin a desmantelar de forma silenciosa el LZ 1 para reutilizar el metal en el diseño del posterior LZ 2.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 Aunque el LZ 1 fue desmantelado de forma prematura por falta de apoyo financiero, su corta vida operativa sentó las bases conceptuales para el posterior nacimiento de las grandes líneas de transporte de pasajeros. La hazaña del 2 de julio de 1900 demostró que el vuelo rígido intercontinental era una realidad.
@@ -71,6 +68,7 @@ Aunque el LZ 1 fue desmantelado de forma prematura por falta de apoyo financiero
 - **Nacimiento de la aviación comercial (DELAG):** La perseverancia del conde y el posterior apoyo popular tras los accidentes de los modelos LZ 4 y LZ 5 permitieron la fundación en 1909 de la DELAG, la primera aerolínea comercial regular de pasajeros del mundo, que operaría con éxito modelos tan avanzados como el LZ 7 *Deutschland*.
 - **Impacto estratégico militar:** La demostración de que una aeronave podía permanecer horas en el aire con toneladas de carga útil atrajo la atención de la marina y el ejército prusiano, transformando la doctrina de reconocimiento estratégico y bombardeo de la Primera Guerra Mundial.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 El conde Ferdinand von Zeppelin y su primer dirigible LZ 1 permanecen en la historia como los pioneros supremos que abrieron el camino para la era dorada de los grandes aerostatos transatlánticos. Su herencia de tenacidad y precisión técnica continúa influyendo en la aviación moderna.
@@ -80,7 +78,6 @@ El conde Ferdinand von Zeppelin y su primer dirigible LZ 1 permanecen en la hist
 - **La vigencia del dirigible rígido:** Aunque la era de los dirigibles comerciales de pasajeros finalizó trágicamente en 1937 (consulte la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1937/05/06/desastre-lz-129-hindenburg.html" style="color: #315fea; text-decoration: none;">efeméride dedicada al desastre del LZ 129 Hindenburg</a> para más detalles), el concepto del aerostato rígido de helio sigue utilizándose en el siglo XXI para misiones de fotorreconocimiento, publicidad y estudios climatológicos. 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -92,19 +89,17 @@ El conde Ferdinand von Zeppelin y su primer dirigible LZ 1 permanecen en la hist
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una ligera discrepancia de nomenclatura en los registros históricos del Imperio alemán de principios del siglo XX. Mientras que la compañía constructora y los anales de ingeniería utilizaban de manera sistemática la designación de serie <strong>LZ 1</strong> (correspondiente a *Luftschiff Zeppelin 1*), la prensa y los comunicados del ejército prusiano se referían de forma abreviada a esta aeronave experimental y a sus variantes de manera sucesivas bajo la denominación militar simplificada de <strong>Z 1</strong>. En la presente publicación de divulgación se ha adoptado la designación de serie original por fidelidad técnica e histórica.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Archivos oficiales de la compañía Luftschiffbau Zeppelin GmbH, bitácoras de de vuelos de los ensayos sobre el lago de Constanza de julio y octubre de 1900, documentos de patentes de aluminio de la empresa de Carl Berg, y los reportes históricos conservados en el Museo Zeppelin de Friedrichshafen
+- **Timestamp de verificación:** 2026-09-07 10:25:07 CST
+- **Fuentes primarias/institucionales consultadas:** Archivos oficiales de la compañía Luftschiffbau Zeppelin GmbH, bitácoras de de vuelos de los ensayos sobre el lago de Constanza de julio y octubre de 1900, documentos de patentes de aluminio de la empresa de Carl Berg, y los reportes históricos conservados en el Museo Zeppelin de Friedrichshafen
 - **Discrepancias resueltas:** Se identificó y aclaró la pequeña inconsistencia en los informes de duración del primer vuelo (algunas fuentes generales citan veinte minutos de vuelo aproximados, mientras que las bitácoras oficiales de la tripulación registran exactamente diecisiete minutos y cuarenta y tres segundos de vuelo efectivo antes del aterrizaje forzoso, adoptándose los dieciocho minutos como la cifra redondeada más aceptada). Asimismo, se validó la potencia unitaria real de los primeros motores Daimler de cuatro cilindros en 14,2 CV de fuerza.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

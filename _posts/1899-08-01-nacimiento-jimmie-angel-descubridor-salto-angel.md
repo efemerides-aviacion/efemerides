@@ -14,17 +14,13 @@ image: 1899-08-01-nacimiento-jimmie-angel-descubridor-salto-angel.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1899-08-01-nacimiento-jimmie-angel-descubridor-salto-angel.webp" alt="Fotografía en tonos sepia de un aviador joven con gorro de cuero y gafas de vuelo levantadas sobre la frente, jersey de punto y pantalón de montar, de pie en un campo junto a un automóvil de época">
   <figcaption class="post-caption">Jimmie Angel en 1921. Fuente: <a href="https://jimmieangel.org/" style="color: #315fea; text-decoration: none;">Jimmie Angel Historical Project</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 1 de agosto de 1899 nació cerca de Cedar Valley, en el estado de Misuri, Estados Unidos, James Crawford Angel, conocido desde su juventud como Jimmie Angel. Piloto de exhibición, buscador de yacimientos y aventurero por oficio, su nombre acabó ligado de forma permanente a la geografía venezolana.</p>
 <p>El 16 de noviembre de 1933, mientras volaba solo en el cañón del Churún en busca de un yacimiento mineral, avistó desde el aire una caída de agua descomunal que se precipitaba desde la cima del Auyantepui. Aquel avistamiento dio a conocer al mundo exterior la cascada de mayor caída libre ininterrumpida del planeta, que hoy lleva su apellido. Cuatro años más tarde, un aterrizaje deliberado sobre la cima del Tepuy, del que ya no pudo despegar, convirtió la historia en leyenda.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 
 - **Nombre completo:** James Crawford Angel, conocido como Jimmie Angel.
@@ -40,7 +36,6 @@ image: 1899-08-01-nacimiento-jimmie-angel-descubridor-salto-angel.webp
 - **Destino de sus restos:** incinerado y depositado el 15 de diciembre de 1957 en el Portal of the Folded Wings Shrine to Aviation, en Burbank, California. Su viuda retiró después las cenizas de aquel emplazamiento para esparcirlas sobre el Salto Ángel el 2 de julio de 1960, cumpliendo su voluntad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 La biografía de Angel pertenece a una categoría de aviadores que hoy resulta difícil de imaginar: pilotos sin adscripción institucional que vendían su destreza al mejor postor, incluidos los buscadores de fortuna.
@@ -58,7 +53,6 @@ El avión hizo posible en horas lo que por tierra exigía semanas de expedición
 La leyenda del «río de oro» y de las ciudades perdidas de Guayana llevaba siglos alimentando expediciones en la región. Angel se movió en ese imaginario, y su propia figura terminó absorbida por él: los relatos sobre su vida mezclan hechos documentados con episodios de contorno incierto. La divulgación internacional de su hazaña, en plena época dorada del reportaje de aventuras, consolidó una imagen romántica del aviador-explorador que la prensa de la época difundió con entusiasmo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Desarrollo Cronológico
 
 La secuencia siguiente recorre desde su nacimiento hasta el cumplimiento de su última voluntad.
@@ -81,7 +75,6 @@ La secuencia siguiente recorre desde su nacimiento hasta el cumplimiento de su �
 - **26 de abril de 1980:** el avión original es entregado en Ciudad Bolívar, en un acto celebrado en el parque Leonardo Ruiz Pineda. Años después se trasladó al jardín situado frente al terminal del aeropuerto Tomás de Heres, donde permanece a la intemperie.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Consecuencias e Impacto
 
 El efecto inmediato del episodio de 1937 no fue geográfico, sino mediático, y de ahí derivó todo lo demás.
@@ -93,7 +86,6 @@ La consecuencia toponímica llegó en 1939, cuando el Gobierno venezolano oficia
 La medición realizada en 1949 por la expedición que organizó y dirigió Ruth Robertson aportó el dato que convirtió el hallazgo en récord verificado: 979 metros de altura total y 807 de caída libre ininterrumpida, la mayor conocida del planeta.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Legado
 
 Pocos aviadores han dejado una huella tan literal: su apellido figura en los mapas de todo el mundo.
@@ -105,7 +97,6 @@ El Parque Nacional Canaima, que alberga la cascada, fue declarado Patrimonio de 
 Su figura ha alimentado además una producción literaria notable, con novelas inspiradas en su vida publicadas en Italia, España y Venezuela. Desde 1996 existe el Jimmie Angel Historical Project, fundado por su sobrina Karen Angel con el propósito expreso de separar los hechos documentados de las numerosas leyendas acumuladas en torno a él, y de contribuir a la conservación de su avión.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 
 - <a href="https://jimmieangel.org/research-papers/" style="color: #315fea; text-decoration: none;">Jimmie Angel Historical Project, archivo histórico fundado en 1996 y dirigido por su curadora, Karen Angel: repertorio de investigaciones</a>
@@ -120,6 +111,7 @@ Su figura ha alimentado además una producción literaria notable, con novelas i
 - <a href="https://es.wikipedia.org/wiki/Salto_%C3%81ngel" style="color: #315fea; text-decoration: none;">Salto Ángel — Wikipedia en español</a>
 - <a href="https://jimmieangel.org/angels-flight-book/" style="color: #315fea; text-decoration: none;">Karen Angel: «Angel's Flight – The Life of Jimmie Angel – American Aviator-Explorer – Discoverer of Angel Falls», 2019 (ISBN 978-1-4834-8948-3)</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes discrepan sobre el lugar exacto de nacimiento dentro del estado de Misuri: el registro de autoridad de la Library of Congress y Wikipedia en inglés lo sitúan en las cercanías de Cedar Valley, en el condado de Taney, mientras que otras recopilaciones indican Springfield; se ha adoptado Cedar Valley por ser la forma que consigna la autoridad bibliográfica, si bien el propio Angel citaba a veces Springfield porque suponía que sus interlocutores conocerían esa ciudad, mientras que Cedar Valley resultaba un paraje desconocido para la mayoría.</p>
   <p>Merece tratamiento aparte la atribución de avistamientos anteriores al de 1933, muy extendida en la bibliografía en español. Suele señalarse que el Teniente venezolano Ernesto Sánchez La Cruz reportó la cascada en 1910 y que los exploradores catalanes Félix Cardona Puig y Juan María Mundó Freixas la avistaron en 1927. La investigación documental del historiador Jorge M. González, publicada en 2023, desmonta ambas atribuciones. En una entrevista concedida en 1949 a <em>The Caracas Journal</em>, Sánchez La Cruz situó él mismo su cascada en la Sierra Pacaraima, en la región del Alto Paragua, muy lejos del Auyantepui: se trata del salto conocido desde 1958 como Salto Montoya. En cuanto a Cardona y Mundó, el diario del primero describe una caída de un centenar de metros, cifra incompatible con los 979 metros del Salto Ángel, y los artículos que Mundó publicó en 1928 detallan una ruta que remonta el río Caroní hasta «el Gran Salto del Caroní», identificado por el naturalista Charles Brewer-Carías como el salto Eutowarimá o Salto Avispa. El mapa que ambos levantaron no consigna ningún gran salto en la posición de la cascada, y Cardona nunca reivindicó tal hallazgo en vida; la atribución procede de relatos posteriores a los años ochenta. Estas precisiones divergen de la versión difundida por buena parte de las fuentes en español, y se recogen aquí por descansar en documentación primaria contrastada.</p>
@@ -127,9 +119,8 @@ Su figura ha alimentado además una producción literaria notable, con novelas i
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 10:25:07 CST
 - **Fuentes primarias/institucionales consultadas:** Jimmie Angel Historical Project, archivo documental fundado en 1996 y dedicado a la investigación sobre el aviador, con revisión directa del texto por su curadora, Karen Angel; Jorge M. González, «On the Trail of Angel Falls», 2023, con reproducción del cuaderno de vuelo de Angel y de la entrevista de 1949 a Ernesto Sánchez La Cruz; Library of Congress, LC Name Authority File (registro n00036574); Fundación Empresas Polar, Diccionario de Historia de Venezuela.
 - **Fuentes secundarias de contraste:** Aviación Civil Venezuela, con la reconstrucción documental del destino de la aeronave; Correo del Caroní, con la reseña del acto de entrega de 1980; Wikipedia en inglés y en español; HistoryNet (revista Aviation History).
 - **Discrepancias resueltas:** se descartaron los avistamientos atribuidos a Ernesto Sánchez La Cruz en 1910 y a Cardona Puig y Mundó Freixas en 1927, conforme a la documentación primaria que sitúa sus respectivas cascadas en la Sierra Pacaraima y en el curso del Caroní; se corrigió la denominación pemón, que es *Churún Vena* y no *Kerepakupai vená*, nombre este último que la cartografía histórica aplica a un sector distinto del Auyantepui; se atribuyó a Ruth Robertson la organización y dirección de la expedición de 1949, frente a la versión que la presenta como financiada por la National Geographic Society; se distinguió el aparato original, expuesto en Ciudad Bolívar desde 1980, de la réplica conservada en el Museo Aeronáutico de Maracay.

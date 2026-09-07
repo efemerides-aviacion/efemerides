@@ -17,13 +17,11 @@ redirect_from:
   <figcaption class="post-caption">René Paul Fonck, as de ases de la aviación francesa con 75 victorias confirmadas, ca. 1918. Retrato autografiado original. Fuente: <a href="https://lesautographesdusiecle.com/aviation/12824-fonck-rene-1894-1953.html" style="color: #315fea; text-decoration: none;">Les Autographes du Siecle</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 27 de marzo de 1894 nació René Paul Fonck en Saulcy-sur-Meurthe, Francia. Durante la Primera Guerra Mundial se convirtió en el as aliado con más victorias: 75 confirmadas (72 en solitario), superando a todos los pilotos de la Triple Entente. Solo superado por el alemán Manfred von Richthofen (80), Fonck reclamó hasta 142 derribos, destacando por su precisión y economía de munición en escuadrillas como Les Cigognes. Tras la guerra, fue inspector aéreo y falleció en 1953 sin haber resultado herido en combate.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 27 de marzo de 1894
 - **Lugar:** Saulcy-sur-Meurthe, Francia
@@ -36,7 +34,6 @@ redirect_from:
 - **Condecoraciones:** Gran Oficial de la Legión de Honor, Cruz de Guerra 1914-1918 (26 palmas), Medalla Militar, Cruz de Guerra belga, entre otras.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 René Fonck nació en una Francia que se preparaba para un nuevo siglo de cambios tecnológicos y tensiones geopolíticas. Su juventud coincidió con la carrera por la conquista del aire, tras los pioneros como los hermanos Wright, Blériot o los hermanos Voisin. Al estallar la Primera Guerra Mundial (1914-1918), la aviación militar aún estaba en su infancia, pero evolucionó rápidamente hacia un arma decisiva.
@@ -50,6 +47,7 @@ La aviación era entonces un campo de experimentación. En 1894, los vuelos cont
 ### Entorno cultural
 La figura del «as» —piloto con cinco o más victorias— nació durante la Gran Guerra para convertir en héroes individuales una contienda anónima y mecanizada. Fonck representó el ideal del piloto técnico, metódico, que maximizaba la eficacia con el mínimo riesgo, en contraste con la imagen romántica del caballero del aire como Guynemer.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 
 - **27 de marzo de 1894:** Nace René Paul Fonck en Saulcy-sur-Meurthe (departamento de Meurthe-et-Moselle).
@@ -75,6 +73,7 @@ Durante la Primera Guerra Mundial, las fuerzas aliadas establecieron un riguroso
 
 Este sistema, implementado para evitar exageraciones, hacía que muchos derribos reales —sobre todo en territorio enemigo— quedaran sin confirmar. Fonck reclamó personalmente **142 victorias**, de las cuales solo 75 fueron homologadas oficialmente. Su elevada cifra de reclamaciones (muchas sin testigos o con restos no recuperados) ha generado controversia histórica, aunque su condición de máximo as aliado es indiscutida.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 
 - **Legado militar:** Fonck estableció un récord de eficacia que ningún otro piloto aliado superó. Sus tácticas —ataque desde altura, disparos a corta distancia, consumo mínimo de munición— fueron estudiadas como modelo de precisión.
@@ -82,12 +81,12 @@ Este sistema, implementado para evitar exageraciones, hacía que muchos derribos
 - **Controversia y olvido:** Su personalidad arrogante y sus colaboraciones con el régimen de Vichy durante la Segunda Guerra Mundial hicieron que su figura fuera menos recordada que la de otros héroes franceses, como Georges Guynemer, muerto en combate en 1917.
 - **Innovación técnica:** Fonck voló intensivamente el SPAD XII, una variante equipada con cañón de 37 mm que disparaba a través del eje de la hélice, un arma letal pero de difícil manejo que él dominó con maestría.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
 René Fonck sigue siendo el «as de ases» de la aviación aliada en la Primera Guerra Mundial. Sus 75 victorias confirmadas lo sitúan en la segunda posición histórica tras Manfred von Richthofen (80). A pesar de las controversias sobre sus reclamaciones personales y su conducta en la Segunda Guerra Mundial, su récord operativo permanece imbatido entre los pilotos franceses y de la Entente. Su nombre está inscrito en el Arco del Triunfo en París, y su figura representa la transición entre el pionerismo romántico y la caza militar moderna.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -101,11 +100,11 @@ René Fonck sigue siendo el «as de ases» de la aviación aliada en la Primera 
     <li><a href="https://pt.wikipedia.org/wiki/Ren%C3%A9_Paul_Fonck" style="color: #315fea; text-decoration: none;">Wikipedia (PT) – René Paul Fonck</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN/PT), Prensa OHF, Fuerzas Aéreas, FirstWorldWar.com, EarlyAviators, Pantheon  
+- **Timestamp de verificación:** 2026-09-07 10:25:07 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN/PT), Prensa OHF, Fuerzas Aéreas, FirstWorldWar.com, EarlyAviators, Pantheon  
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre las 75 victorias confirmadas oficialmente y las 142 reclamadas por Fonck, explicando el riguroso sistema francés de homologación.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”

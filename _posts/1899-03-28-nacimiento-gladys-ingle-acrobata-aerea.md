@@ -17,13 +17,11 @@ redirect_from:
   <figcaption class="post-caption">Gladys Ingle, acróbata aérea de los 13 Black Cats, en pose confiada con goggles y sweater (imagen mejorada con Nano Banana de Gemini), circa 1926. Fuente: Bygonely.com.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Gladys Ingle, nacida el 28 de marzo de 1899 en Walla Walla, Washington, fue la cuarta piloto con licencia en EE.UU. y única mujer en el equipo acrobático 13 Black Cats. Realizó acrobacias legendarias en las décadas de 1920 y 1930: caminatas sobre las alas, transferencias entre aviones en vuelo y el célebre cambio de rueda en pleno aire. Famosa por su valentía, participó en más de 300 traspasos aéreos y dobló para estrellas de cine.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 28 de marzo de 1899
 - **Lugar:** Walla Walla, Washington, EE.UU.
@@ -36,7 +34,6 @@ redirect_from:
 - **Organizaciones:** *13 Black Cats*, *Gates Flying Circus*
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 La década de 1920 fue la «época dorada» de la aviación acrobática en Estados Unidos. Tras la Primera Guerra Mundial, muchos pilotos militares encontraron trabajo en espectáculos itinerantes (*flying circuses*), donde realizaban maniobras extremas para entusiasmar al público. En ese ambiente nació la figura de la *wing walker* (caminante de alas), que desafiaba la gravedad subiendo sobre las alas de biplanos en vuelo.
@@ -50,6 +47,7 @@ Los biplanos como el Curtiss JN-4 «Jenny» o los Travel Air se usaban comúnmen
 ### Entorno cultural
 Los *flying circuses* recorrían pueblos de EE.UU. ofreciendo un espectáculo que combinaba aviación, riesgo y glamur. Equipos como los *13 Black Cats* (trece gatos negros) se hicieron famosos por sus piruetas y su estética llamativa. Ingle era la única mujer del grupo, y su presencia atraía multitudes.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 
 - **28 de marzo de 1899:** Nace Gladys Ingle en Walla Walla, Washington.
@@ -62,6 +60,7 @@ Los *flying circuses* recorrían pueblos de EE.UU. ofreciendo un espectáculo qu
 - **1930s:** Continúa actuando con los *13 Black Cats* hasta que el equipo se disuelve por la Gran Depresión.
 - **1981:** Se muda con su hija Bonnie al sur de California; fallece el 27 de octubre.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 
 - **Pionera de la aviación femenina:** Ingle demostró que las mujeres podían realizar las mismas proezas extremas que los hombres, en una época en que la aviación acrobática era considerada territorio masculino.
@@ -69,12 +68,12 @@ Los *flying circuses* recorrían pueblos de EE.UU. ofreciendo un espectáculo qu
 - **Seguridad y legado técnico:** Aunque las acrobacias eran extremadamente peligrosas, Ingle sobrevivió a varios accidentes y nunca perdió la compostura, afirmando que «nunca sentía miedo». Su profesionalismo influyó en los estándares de seguridad posteriores para especialistas aéreos.
 - **Preservación histórica:** Sus películas y fotografías se conservan en instituciones como el Smithsonian National Air and Space Museum.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
 Gladys Ingle es recordada como una de las grandes *wing walkers* de la época dorada de la aviación acrobática. Su nombre aparece junto a otros pioneros como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1892/01/26/nacimiento-bessie-coleman.html" style="color: #315fea; text-decoration: none;">Bessie Coleman</a>, Amelia Earhart y los pilotos de los *flying circuses*. Aunque hoy menos conocida que algunos de sus contemporáneos, su imagen cambiando una rueda en pleno vuelo sigue siendo un símbolo del valor y la destreza en la historia de la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -86,11 +85,11 @@ Gladys Ingle es recordada como una de las grandes *wing walkers* de la época do
     <li><a href="https://billiken.lat/personas/gladys-ingle-la-aviadora-estadounidense-que-resalto-por-sus-acrobacias-extremas-en-el-aire/" style="color: #315fea; text-decoration: none;">Billiken – Gladys Ingle: la aviadora estadounidense</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), Brady Carlson, Vintag.es, Bygonely, Billiken  
+- **Timestamp de verificación:** 2026-09-07 10:25:07 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Brady Carlson, Vintag.es, Bygonely, Billiken  
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha de nacimiento (28 de marzo de 1899) y en la hazaña del cambio de rueda (1926). No se encontraron discrepancias significativas.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”
