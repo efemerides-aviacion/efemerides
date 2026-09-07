@@ -13,9 +13,7 @@ image: 1974-01-03-record-guinness-supervivencia-aerea.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1974-01-03-record-guinness-supervivencia-aerea.webp" alt="Vesna Vulović frente a un avión de JAT">
   <figcaption class="post-caption">Vesna Vulović en uniforme de auxiliar de vuelo, junto a un avión DC-9 de Yugoslav Airlines (JAT). Fotografía tomada en aeropuerto europeo durante la década de 1970.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
     <p>
@@ -23,7 +21,6 @@ image: 1974-01-03-record-guinness-supervivencia-aerea.webp
     </p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
-
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 3 de enero de 1950  
 - **Lugar de nacimiento:** Belgrado, Yugoslavia  
@@ -32,7 +29,6 @@ image: 1974-01-03-record-guinness-supervivencia-aerea.webp
 - **Fecha de fallecimiento:** 23 de diciembre de 2016, Belgrado  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
-
 ## Contexto Histórico
 El accidente del vuelo JAT 367 ocurrió el 26 de enero de 1972, cuando una explosión en pleno vuelo desintegró la aeronave sobre Checoslovaquia. De los 28 ocupantes, solo Vesna Vulović sobrevivió. Su caso fue ampliamente difundido y se convirtió en un referente mundial.
 
@@ -45,6 +41,7 @@ La aviación comercial experimentaba un crecimiento acelerado, pero aún carecí
 ### Entorno cultural
 La supervivencia de Vesna fue interpretada como un “milagro” y recibió gran cobertura mediática, convirtiéndose en un símbolo de esperanza.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
 ## Desarrollo Cronológico
 - **26/01/1972:** Explosión en vuelo del JAT 367 sobre Checoslovaquia.  
 - **26/01/1972:** Vesna es hallada con graves lesiones, pero con vida.  
@@ -52,16 +49,17 @@ La supervivencia de Vesna fue interpretada como un “milagro” y recibió gran
 - **3/01/1974:** Reconocimiento oficial y registro en Guinness World Records.  
 - **Décadas posteriores:** Figura pública en Serbia, defensora de causas sociales.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
 ## Consecuencias e Impacto
 - Refuerzo de controles de seguridad aérea en Europa.  
 - Caso emblemático en estudios médicos sobre supervivencia extrema.  
 - Inspiración cultural y mediática en documentales y efemérides.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
 ## Legado
 Vesna Vulović es recordada como la mujer que desafió lo imposible en la historia de la aviación. Su nombre permanece en los registros Guinness y en la memoria colectiva como símbolo de resiliencia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -73,12 +71,10 @@ Vesna Vulović es recordada como la mujer que desafió lo imposible en la histor
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Guinness World Records, Infobae  
+- **Timestamp de verificación:** 2026-09-07 12:02:27 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Guinness World Records, Infobae  
 - **Discrepancias resueltas:** Debate sobre la altitud exacta de la caída; Guinness mantiene cifra oficial de 10.160 m  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
-
 

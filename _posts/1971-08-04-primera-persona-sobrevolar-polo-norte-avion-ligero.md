@@ -14,17 +14,13 @@ image: 1971-08-04-primera-persona-sobrevolar-polo-norte-avion-ligero.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1971-08-04-primera-persona-sobrevolar-polo-norte-avion-ligero.webp" alt="Sheila Scott sentada en el acceso a la cabina de su bimotor Piper Aztec, con el nombre Mythre rotulado en el fuselaje">
   <figcaption class="post-caption">Sheila Scott junto a su Piper PA-23-250 Aztec D <em>Mythre</em>, matrícula G-AYTO, en 1971. En el morro se distingue parte del rótulo alusivo a su vuelo en solitario alrededor del mundo. La fotografía corresponde al aparato y al año del hecho recordado, pero no está datada en una jornada concreta de la travesía. Fuente: <a href="https://commons.wikimedia.org/wiki/File:SheilaScott_Mythre_1971.jpg" style="color: #315fea; text-decoration: none;">NASA, vía Wikimedia Commons</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de agosto de 1971, la aviadora británica Sheila Scott aterrizó en el aeropuerto de Londres-Heathrow y puso fin a una travesía de 55 días y unos 55.000 kilómetros. Había despegado de Nairobi el 11 de junio con el propósito de volar desde el ecuador hasta el Polo Norte y regresar de nuevo al ecuador, un trazado que ninguna aeronave ligera había recorrido antes.</p>
 <p>El momento decisivo se había producido el 28 de junio, cuando su bimotor Piper Aztec cruzó el Polo Norte geográfico y la convirtió en la primera persona, con independencia de su sexo, en sobrevolar ese punto a bordo de un avión ligero. Durante todo el trayecto transportó equipamiento de la NASA que retransmitía su posición a un satélite en órbita polar, en uno de los primeros ensayos de seguimiento de una plataforma móvil desde el espacio.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha de culminación:** 4 de agosto de 1971, con la llegada a Londres-Heathrow.
@@ -41,7 +37,6 @@ image: 1971-08-04-primera-persona-sobrevolar-polo-norte-avion-ligero.webp
 - **Documento conservado:** su cuaderno de bitácora, que abarca del 1 de mayo de 1971 al 2 de mayo de 1972 e incluye el vuelo polar, se conserva en los archivos del National Air and Space Museum con la signatura NASM.XXXX.0863. Presenta daños por agua y parte de sus anotaciones resulta ilegible.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 La travesía de 1971 se sitúa en el punto en que la aviación general dejó de conformarse con repetir rutas conocidas y empezó a disputar terrenos reservados a la aviación militar y comercial.
@@ -59,7 +54,6 @@ El *Mythre* era un bimotor ligero de serie, de estructura enteramente metálica 
 El vuelo coincidió con el auge del programa espacial estadounidense y con el interés por demostrar aplicaciones prácticas de los satélites. La travesía de Scott ofrecía un banco de pruebas idóneo: una plataforma móvil, aislada, recorriendo latitudes extremas. La colaboración con la NASA situó una aeronave privada en el centro de un experimento de seguimiento por satélite que anticipaba funciones hoy triviales, pero entonces inéditas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 La secuencia siguiente detalla las etapas principales de la travesía y su encuadre en la trayectoria de la aviadora.
@@ -78,7 +72,6 @@ La secuencia siguiente detalla las etapas principales de la travesía y su encua
 - **Junio de 1972:** el *Mythre*, enviado a la fábrica de Piper en Lock Haven para su revisión, queda destruido por la inundación provocada por la tormenta tropical Agnes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 El resultado inmediato fue una cosecha de marcas homologadas que consolidó a Scott como la aviadora británica más laureada de su generación.
@@ -90,7 +83,6 @@ El experimento de la NASA aportó un resultado de alcance distinto. El sistema i
 En el plano personal, el balance fue más áspero. La travesía dejó a Scott endeudada por una cantidad considerable, circunstancia que ella misma hizo pública poco después de aterrizar y que ilustra la precariedad económica en que se movían los vuelos de récord ajenos al patrocinio institucional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 La figura de Sheila Scott ocupa un lugar singular entre las aviadoras del siglo XX: no fue una pionera de los primeros tiempos, sino alguien que demostró que aún quedaban primeras veces cuando ya casi todo parecía hecho.
@@ -102,7 +94,6 @@ El aparato de aquel vuelo no se conserva: pereció en la inundación de la fábr
 Su aportación de fondo, sin embargo, no está en las vitrinas. Aquella travesía demostró que una aeronave ligera de serie, pilotada por una sola persona, podía completar un recorrido polar que hasta entonces se consideraba dominio exclusivo de grandes aparatos con tripulaciones numerosas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 - <a href="https://www.thisdayinaviation.com/tag/sheila-scott-obe/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «11 June–4 August 1971: Sheila Scott, O.B.E.», con el itinerario completo y los registros FAI</a>
@@ -114,14 +105,14 @@ Su aportación de fondo, sin embargo, no está en las vitrinas. Aquella travesí
 - <a href="https://en.wikipedia.org/wiki/Ninety-Nines" style="color: #315fea; text-decoration: none;">The Ninety-Nines — Wikipedia en inglés</a>
 - <a href="https://www.bbc.com/news/articles/c3rz377w5y8o" style="color: #315fea; text-decoration: none;">BBC News: reportaje sobre la aviadora de Worcester y su trayectoria</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Numerosas fuentes divulgativas describen el aparato de este vuelo como monomotor, error que arranca del pie de la propia fotografía oficial de la NASA. La aeronave empleada en 1971 fue un Piper PA-23-250 Aztec D, <strong>bimotor</strong>, matrícula G-AYTO, equipado con dos motores Lycoming IO-540. El monomotor de Sheila Scott fue el Piper Comanche 260B G-ATOY <em>Myth Too</em>, con el que realizó su primera vuelta al mundo en 1966, un vuelo distinto y anterior. Se ha adoptado por tanto la fórmula «avión ligero», que es la empleada por las fuentes solventes. Conviene precisar asimismo que el 4 de agosto de 1971 es la fecha de culminación de la travesía en Londres, mientras que el sobrevuelo del Polo Norte tuvo lugar el 28 de junio; ambas fechas se recogen de forma expresa para evitar cualquier confusión. La condición de «primera persona» está sostenida de manera consistente por las fuentes consultadas y no se limita a un récord femenino. La fotografía corresponde al aparato y al año del hecho, pero carece de datación en una jornada concreta. La ficha archivística del National Air and Space Museum, que custodia el cuaderno de bitácora de la aviadora, incurre a su vez en tres imprecisiones respecto al resto de fuentes consultadas: sitúa su nacimiento en 1927 en lugar de 1922, fecha la salida el 1 de junio desde Londres en lugar del 11 de junio desde Nairobi, y repite la descripción del aparato como monomotor. Se ha citado por el valor documental del fondo que describe, sin asumir esos datos.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:02:27 CST
 - **Fuentes primarias/institucionales consultadas:** National Air and Space Museum, Smithsonian Institution, ficha archivística del cuaderno de bitácora NASM.XXXX.0863; NASA, a través de la ficha documental de la fotografía del vuelo y de la descripción del experimento IRLS con el satélite Nimbus; registros de la Federación Aeronáutica Internacional citados en la documentación consultada.
 - **Fuentes secundarias de contraste:** This Day in Aviation, Wikipedia en inglés, BBC News.
 - **Discrepancias resueltas:** se corrigió la denominación del aparato, descrito como monomotor en el planteamiento inicial y en diversas fuentes divulgativas, incluido el pie oficial de la fotografía de la NASA; se verificó en Wikipedia y en This Day in Aviation que el Piper PA-23-250 Aztec D es bimotor y se adoptó la fórmula «avión ligero»; se distinguió la fecha de culminación de la travesía, el 4 de agosto de 1971, de la fecha del sobrevuelo polar, el 28 de junio; se precisó que el hito corresponde a la primera persona y no únicamente a la primera mujer; se contrastó la ficha archivística del Smithsonian, que discrepa en el año de nacimiento, en la fecha y el lugar de inicio de la travesía y en el número de motores, y se mantuvieron los datos respaldados por el resto de fuentes.

@@ -15,13 +15,11 @@ image: 1977-03-27-colision-dos-b747-los-rodeos.webp
   <figcaption class="post-caption">Representación en 3D de la colisión entre el Boeing 747‑206B de KLM (PH‑BUF, azul) y el Boeing 747‑121 de Pan Am (N736PA, gris) en la pista del Aeropuerto Los Rodeos (Tenerife), 27 de marzo de 1977. Fuente: <a href="https://www.xataka.com/transporte/1977-dos-boeing-747-colisionaron-aeropuerto-espana-fue-peor-accidente-aereo-historia" style="color: #315fea; text-decoration: none;">Xataka</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 27 de marzo de 1977, un Boeing 747 de KLM (vuelo 4805) despegó sin autorización en niebla densa en el aeropuerto de Los Rodeos (Tenerife), colisionando con un Boeing 747 de Pan Am (vuelo 1736) que taxiaba en la misma pista. Murieron 583 personas de 644 a bordo; solo 61 sobrevivieron del Pan Am. Factores clave: malentendidos radiales, visibilidad nula y saturación por desvíos de Gran Canaria por una bomba. Cambió protocolos de aviación globales.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Datos verificados del evento
 - **Fecha:** 27 de marzo de 1977
 - **Lugar:** Aeropuerto de Los Rodeos (hoy Aeropuerto Tenerife Norte), Tenerife, Islas Canarias, España
@@ -31,7 +29,6 @@ image: 1977-03-27-colision-dos-b747-los-rodeos.webp
 - **Impacto inmediato:** Mayor desastre aéreo de la historia civil; redefinió la seguridad operacional y las comunicaciones en cabina.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Contexto Histórico
 
 A finales de la década de 1970, la aviación comercial crecía exponencialmente. El Boeing 747 («Jumbo») era el icono de la era, capaz de transportar más de 350 pasajeros en vuelos transoceánicos. La seguridad había mejorado, pero la comunicación entre cabina y control de tierra seguía basándose en fraseología imprecisa y una jerarquía rígida que podía inhibir las correcciones del copiloto o el ingeniero de vuelo.
@@ -45,6 +42,7 @@ Los Rodeos carecía de radar de superficie y sus calles de rodaje eran insuficie
 ### Entorno cultural
 La cultura de cabina de la época daba al capitán una autoridad casi incuestionable. La tripulación de KLM mostraba una jerarquía vertical; el copiloto y el ingeniero de vuelo expresaron dudas, pero no lograron detener la maniobra.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Desarrollo Cronológico
 
 - **13:15 (hora local):** Una bomba explota en la terminal del aeropuerto de Gran Canaria (Las Palmas). Se cierran las operaciones y varios vuelos son desviados a Los Rodeos.
@@ -56,6 +54,7 @@ La cultura de cabina de la época daba al capitán una autoridad casi incuestion
 - **17:06:32:** El 747 de KLM, ya en rotación, impacta a 140 km/h contra el lado derecho del Pan Am, que aún rodaba por la pista. El ala izquierda del KLM arranca la sección superior del Pan Am y el fuselaje del holandés cae 150 metros más allá en llamas.
 - **17:06–17:30:** Comienzan los rescates. Sólo sobreviven 61 pasajeros de la sección delantera del Pan Am; todos a bordo del KLM mueren (248 personas).
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Consecuencias e Impacto
 
 - **Reforma de la comunicación aeronáutica:** Se estandariza la fraseología en inglés. Queda prohibido decir *takeoff* en comunicaciones que no sean una autorización expresa de despegue.
@@ -63,12 +62,12 @@ La cultura de cabina de la época daba al capitán una autoridad casi incuestion
 - **Seguridad en aeropuertos:** Se exige radar de superficie en aeropuertos con operaciones de grandes aeronaves y mejoran las señales de las calles de rodaje.
 - **Investigación y responsabilidades:** La comisión española concluyó que la causa inmediata fue el despegue prematuro del capitán de KLM, aunque señaló factores contribuyentes: la congestión, la niebla y las transmisiones simultáneas que generaron confusión.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Legado
 
 El desastre de Tenerife se estudia en todas las escuelas de aviación como caso paradigmático de fallo en comunicación, jerarquía y gestión de recursos. Marcó un antes y después en la seguridad operacional. En Los Rodeos (hoy Aeropuerto Tenerife Norte) se instaló radar de superficie y se construyeron nuevas calles de rodaje. Existen memoriales en Tenerife, Ámsterdam y California, y el accidente ha sido documentado en series como *Segundos Catastróficos* (*Seconds from Disaster*). Cada 27 de marzo se recuerda a las 583 víctimas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -81,11 +80,11 @@ El desastre de Tenerife se estudia en todas las escuelas de aviación como caso 
     <li><a href="https://es.wikipedia.org/wiki/Desastre_a%C3%A9reo_de_Tenerife" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Desastre aéreo de Tenerife</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
-- **Fuentes primarias consultadas:** Xataka, SKYbrary, RTVE, Simple Flying, Guanches.org, Wikipedia  
+- **Timestamp de verificación:** 2026-09-07 12:02:27 CST
+- **Fuentes primarias/institucionales consultadas:** Xataka, SKYbrary, RTVE, Simple Flying, Guanches.org, Wikipedia  
 - **Discrepancias resueltas:** Algunas fuentes mencionan 583 fallecidos y 61 supervivientes (total 644 personas a bordo); otras cifran en 583/61 coincidentes. Se ha utilizado la cifra oficial del informe español.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”

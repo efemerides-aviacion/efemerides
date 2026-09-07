@@ -14,15 +14,12 @@ image: 1982-04-02-operacion-aries-82.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1982-04-02-operacion-aries-82.webp" alt="Tripulación del C-130H Hércules TC-68 de la Fuerza Aérea Argentina en Puerto Argentino, 2 de abril de 1982">
   <figcaption class="post-caption">Tripulación del C‑130H Hércules TC‑68 de la Fuerza Aérea Argentina en Puerto Argentino, 2 de abril de 1982, durante la “Operación Aries 82”. Imagen publicada en Contexto Tucumán, “Día D: cómo fue el desembarco argentino en las Malvinas”, 1 de abril de 2025.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>Operación Aries 82 fue la componente aérea de la recuperación argentina de las Islas Malvinas, encargada de proyectar el puente aéreo sobre Puerto Argentino mediante aviones de transporte C‑130 Hércules y el posterior despliegue de IA‑58 Pucará a la zona de las islas, consolidando el control de la base aérea y el mantenimiento del operativo. El primer aterrizaje, a las 8:45 del 2 de abril de 1982, marcó el inicio del apoyo logístico argentino en el conflicto del Atlántico Sur.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Fecha:** 2 de abril de 1982  
 - **Lugar:** Aeródromo de Puerto Argentino (Stanley), Islas Malvinas  
@@ -34,7 +31,6 @@ image: 1982-04-02-operacion-aries-82.webp
 - **Resultado:** Éxito operativo; el aeródromo quedó bajo control argentino en pocas horas
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 La Operación Aries 82 fue la respuesta de la Fuerza Aérea Argentina (FAA) a la orden de recuperar las Islas Malvinas, territorio en disputa con el Reino Unido desde 1833. La planificación comenzó en secreto semanas antes y se integró en el marco de la operación conjunta denominada *Rosario*, que combinaba el desembarco anfibio de la Armada, el avance terrestre del Ejército y el asalto aéreo de la FAA.
@@ -48,6 +44,7 @@ La FAA contaba con una flota moderna para América Latina: C‑130H Hércules ad
 ### Entorno cultural
 La aviación militar argentina tenía una tradición de autonomía y profesionalismo. La planificación de Aries 82 se llevó a cabo bajo absoluto secreto, involucrando a tripulaciones de transporte que no revelaron los verdaderos objetivos hasta horas antes del despegue. El factor sorpresa fue clave para minimizar la reacción británica.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **Diciembre de 1981 – marzo de 1982:** Se inicia la planificación de la operación conjunta. La FAA define el Plan Aries 82, con cuatro fases: alistamiento, despliegue, asalto aéreo y sostenimiento.
@@ -57,6 +54,7 @@ La aviación militar argentina tenía una tradición de autonomía y profesional
 - **A lo largo del día:** Arriban dos C‑130 más, un Fokker F‑28 con el jefe de la FAA (Brigadier Basilio Lami Dozo) y seis IA‑58 Pucará. Los Pucará realizan patrullajes y permanecen en alerta para apoyo a las tropas terrestres.
 - **Resto de abril:** Se establece un puente aéreo continuo que transporta personal, víveres, municiones y equipos. La FAA también despliega helicópteros (Bell UH‑1H, Hughes 500) para tareas logísticas.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 - **Control aéreo inicial:** La FAA logró el control del aeródromo en menos de una hora tras el primer aterrizaje, neutralizando cualquier posibilidad de reacción británica inmediata en el aire.
@@ -64,12 +62,12 @@ La aviación militar argentina tenía una tradición de autonomía y profesional
 - **Adaptación a la guerra:** El TC‑68, el mismo avión que abrió la operación, sería luego modificado para misiones de bombardeo (con lanzamiento de pallets de napalm) y continuaría volando hasta el final del conflicto.
 - **Legado institucional:** La Operación Aries 82 consolidó a la FAA como una fuerza de proyección estratégica. El profesionalismo de sus tripulaciones fue reconocido incluso por fuentes británicas tras la guerra.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 La Operación Aries 82 es recordada como la primera vez que la Fuerza Aérea Argentina ejecutó un despliegue de combate de gran escala con proyección insular. Marcó el inicio de la Guerra de Malvinas y demostró la capacidad de planificación y ejecución de la FAA en condiciones de secreto y adversidad geográfica. El C‑130H TC‑68, sobreviviente del conflicto, está actualmente preservado como pieza histórica en la I Brigada Aérea (El Palomar), simbolizando el valor de los aviadores argentinos que participaron en la recuperación de las islas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -84,16 +82,16 @@ La Operación Aries 82 es recordada como la primera vez que la Fuerza Aérea Arg
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La Operación Aries 82 fue el nombre exclusivo del componente aéreo del Plan Rosario. A veces se confunde con la totalidad del desembarco, pero se trataba de un plan independiente de la FAA. El primer aterrizaje del C‑130H TC‑68 se produjo minutos antes de que la flota de desembarco arribara a la costa, coordinándose para asegurar la pista sin resistencia.</p>
   <p>Algunas fuentes mencionan que el C‑130 aterrizó a las 08:30, pero la mayoría de los registros oficiales indican las 08:45 (hora local). La matrícula TC‑68 continúa siendo un símbolo de la FAA.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Argentina.gob.ar, Marambio.aq, Avialatina, Infobae, Contexto Tucumán, Defonline, Zona Militar  
+- **Timestamp de verificación:** 2026-09-07 12:02:27 CST
+- **Fuentes primarias/institucionales consultadas:** Argentina.gob.ar, Marambio.aq, Avialatina, Infobae, Contexto Tucumán, Defonline, Zona Militar  
 - **Discrepancias resueltas:** Confirmación de la hora del primer aterrizaje (08:45) y del número de aeronaves iniciales (2 C‑130, 6 Pucará, 1 F‑28). Se omitieron referencias no verificadas sobre la presencia de aviones de combate en el primer día (los A‑4 llegaron días después).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”

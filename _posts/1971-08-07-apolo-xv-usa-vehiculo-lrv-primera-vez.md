@@ -14,17 +14,13 @@ image: 1971-08-07-apolo-xv-usa-vehiculo-lrv-primera-vez.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1971-08-07-apolo-xv-usa-vehiculo-lrv-primera-vez.webp" alt="Un astronauta con traje presurizado blanco junto al vehículo lunar de cuatro ruedas sobre la superficie de la Luna, con la antena parabólica desplegada y montañas al fondo">
   <figcaption class="post-caption">El vehículo lunar del Apolo 15 en la región de Hadley-Apenino, con la antena parabólica de alta ganancia desplegada y las huellas de sus ruedas marcadas en el regolito. Al fondo, las estribaciones de los Montes Apeninos. Fuente: <a href="https://www.nasa.gov/image-detail/apollo-15-lunar-roving-vehicle/" style="color: #315fea; text-decoration: none;">NASA</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 7 de agosto de 1971, a las 20:45:53 UTC, el módulo de mando <em>Endeavour</em> amerizó en el Pacífico Norte y puso fin a la misión Apolo 15. Fue la novena misión tripulada del programa, la cuarta en alunizar y la primera de tipo J, concebida para estancias largas y con un peso científico muy superior al de sus predecesoras.</p>
 <p>Su aportación más visible había ocurrido una semana antes. El 31 de julio, David R. Scott y James B. Irwin desplegaron en la superficie lunar el Lunar Roving Vehicle, un automóvil eléctrico de cuatro ruedas motrices plegado en el costado del módulo lunar. Con él recorrieron 27,9 kilómetros por la región de Hadley-Apenino en tres jornadas de exploración, alcanzaron formaciones geológicas inaccesibles a pie y trajeron a la Tierra 77 kilogramos de muestras. Era el primer vehículo con ruedas que operaba sobre otro cuerpo celeste.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Datos verificados del evento
 
 - **Duración de la misión:** del 26 de julio al 7 de agosto de 1971.
@@ -49,7 +45,6 @@ image: 1971-08-07-apolo-xv-usa-vehiculo-lrv-primera-vez.webp
 - **Incidencia en el amerizaje:** uno de los tres paracaídas principales se abrió solo parcialmente, sin consecuencias.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Contexto Histórico
 
 El Apolo 15 marcó el momento en que el programa dejó de perseguir la proeza para dedicarse a la ciencia.
@@ -67,7 +62,6 @@ Las tres primeras misiones de alunizaje habían operado con una limitación seve
 El aparato se ganó de inmediato el apodo de «buggy lunar» y se convirtió en la imagen más reconocible de las últimas misiones Apolo. Su presencia introdujo un elemento cotidiano y casi doméstico en un escenario extraterrestre: un automóvil aparcado en la Luna. Esa familiaridad visual explica buena parte de su permanencia en la memoria colectiva, muy por encima de los instrumentos científicos que transportaba.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Desarrollo Cronológico
 
 La secuencia recorre los doce días de la misión, desde el despegue hasta la recuperación en el Pacífico.
@@ -85,7 +79,6 @@ La secuencia recorre los doce días de la misión, desde el despegue hasta la re
 - **7 de agosto de 1971, 20:45:53 UTC:** el *Endeavour* ameriza en el Pacífico Norte con uno de los tres paracaídas parcialmente abierto. El USS *Okinawa* recupera a la tripulación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Consecuencias e Impacto
 
 El rendimiento científico de la misión superó con holgura al de todas las anteriores, y la razón fue en buena medida el vehículo.
@@ -99,7 +92,6 @@ En el plano operativo, el vehículo validó un concepto que se repetiría en las
 La misión dejó también una lección sobre la fragilidad de los sistemas: el fallo de la dirección delantera durante la primera salida obligó a improvisar, y el paracaídas que se abrió a medias en el amerizaje recordó que ninguna fase del vuelo era rutinaria. Ninguno de los dos incidentes tuvo consecuencias.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Legado
 
 El vehículo lunar del Apolo 15 inauguró la exploración planetaria motorizada, una línea que no se ha interrumpido desde entonces.
@@ -113,7 +105,6 @@ La misión dejó además dos marcas personales. Worden protagonizó el primer pa
 El Apolo 15 fue la primera misión cuya tripulación no pasó cuarentena al regreso, una vez descartado el riesgo de contaminación biológica lunar. Ese detalle administrativo señala un cambio de época: la Luna había dejado de ser una incógnita para convertirse en un lugar de trabajo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Referencias Verificadas
 
 - <a href="https://www.nasa.gov/mission/apollo-15/" style="color: #315fea; text-decoration: none;">NASA: página oficial de la misión Apolo 15</a>
@@ -123,14 +114,14 @@ El Apolo 15 fue la primera misión cuya tripulación no pasó cuarentena al regr
 - <a href="https://en.wikipedia.org/wiki/Apollo_15" style="color: #315fea; text-decoration: none;">Apollo 15 — Wikipedia en inglés</a>
 - <a href="https://es.wikipedia.org/wiki/Apolo_15" style="color: #315fea; text-decoration: none;">Apolo 15 — Wikipedia en español</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Esta efeméride se fecha el 7 de agosto de 1971, día del amerizaje y conclusión de la misión, conforme al criterio editorial de situar la conmemoración en la jornada que culmina el acontecimiento. El primer despliegue y uso del vehículo lunar tuvo lugar el 31 de julio, durante la primera salida a la superficie. Las fuentes difieren en el número de actividades extravehiculares: unas contabilizan tres salidas a la superficie y otras cuatro, según incluyan o no la de reconocimiento que Scott realizó desde la escotilla superior del módulo lunar sin descender de él. La distancia recorrida se cifra en 27,9 kilómetros según el informe oficial de la misión, dato que algunas recopilaciones redondean a 28. En cuanto a la masa del vehículo, los 210 kilogramos corresponden a su peso en la Tierra; en la gravedad lunar equivalían a unos 35 kilogramos, cifra que ciertas fuentes presentan sin advertir la distinción. La fotografía que ilustra esta efeméride corresponde a la actividad en superficie de la misión, con anterioridad a la fecha recordada.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:02:27 CST
 - **Fuentes primarias/institucionales consultadas:** NASA, página oficial de la misión, artículos históricos sobre el despliegue del vehículo lunar y documentación gráfica; Smithsonian National Air and Space Museum, ficha del módulo de mando conservado en su colección.
 - **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia al informe oficial de la misión y a la cronología de Orloff y Harland.
 - **Discrepancias resueltas:** se consignó el recuento de cuatro actividades extravehiculares en superficie, incluida la de reconocimiento desde la escotilla, frente a las tres que citan las fuentes divulgativas; se adoptó la distancia de 27,9 kilómetros del informe oficial frente al redondeo a 28 de otras recopilaciones; se distinguió la masa terrestre del vehículo de su peso aparente en la gravedad lunar; se separó la fecha del primer uso del vehículo, 31 de julio, de la de conclusión de la misión.

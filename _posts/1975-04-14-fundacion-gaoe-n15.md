@@ -14,16 +14,12 @@ image: 1975-04-14-fundacion-gaoe-n15.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1975-04-14-fundacion-gaoe-n15.webp" alt="Grupo Aéreo de Operaciones Especiales N° 15 de la Fuerza Aérea de Venezuela">
   <figcaption class="post-caption">La composición muestra un OV-10 Bronco (abajo) y un K-8W Karakorum (arriba) como representación visual de las aeronaves históricas y actuales vinculadas a la unidad. Fuente: elaboración propia con imágenes reales y referencia histórica de la FANB.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 14 de abril de 1975 se funda formalmente el Grupo Aéreo de Operaciones Especiales N° 15 (GAOE N° 15) de la Fuerza Aérea de Venezuela, conocido popularmente como “Los Furia” o “Los Potros”, con sede inicial en la Base Aérea General en Jefe Rafael Urdaneta (BARU) en Maracaibo. La unidad se creó para realizar operaciones aéreas de apoyo de combate y tareas especiales, convirtiéndose en una de las formaciones más emblemáticas de la aviación militar venezolana, operando inicialmente aviones OV-10 Bronco y posteriormente modernizando su flota con K-8W.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 
 - **Fecha de fundación:** 14 de abril de 1975
@@ -36,7 +32,6 @@ image: 1975-04-14-fundacion-gaoe-n15.webp
 - **Aeronaves actuales:** Hongdu K-8W Karakorum
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 A mediados de la década de 1970, la Fuerza Aérea Venezolana emprendió un proceso de reorganización orientado a fortalecer su capacidad de apoyo aéreo táctico y respuesta rápida. La geografía venezolana, con extensas fronteras terrestres y marítimas, exigía unidades especializadas capaces de operar en entornos complejos y brindar apoyo directo a las fuerzas de superficie.
@@ -54,7 +49,6 @@ La aviación militar mundial estaba transitando hacia aeronaves especializadas p
 La creación del GAOE N° 15 respondió a la necesidad de contar con una unidad élite dentro de la Fuerza Aérea, cuyos pilotos y personal técnico recibirían entrenamiento especializado. El espíritu de cuerpo y el orgullo por pertenecer a “Los Potros” o “Los Furia” se forjó desde sus primeros años, consolidando una identidad propia que perdura hasta hoy.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Desarrollo Cronológico
 
 - **Antes de 1975:** Existían destacamentos previos de operaciones especiales en Maracaibo, como el antecedente del Grupo de Operaciones Especiales N° 2, que prepararon el terreno para la creación oficial del GAOE N° 15.
@@ -64,7 +58,6 @@ La creación del GAOE N° 15 respondió a la necesidad de contar con una unidad 
 - **14 de abril de 2025:** La Prensa de la FANB y el perfil oficial del GAOE N° 15 conmemoran el 50° aniversario de la unidad, destacando su legado operativo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Consecuencias e Impacto
 
 - **Fortalecimiento operativo:** El GAOE N° 15 se consolidó como la principal unidad de operaciones aéreas especiales de la Fuerza Aérea Venezolana en la región occidental, cubriendo los estados Zulia, Táchira, Mérida y Trujillo.
@@ -72,13 +65,11 @@ La creación del GAOE N° 15 respondió a la necesidad de contar con una unidad 
 - **Modernización continua:** La transición de los OV-10 Bronco a los K-8W demostró la capacidad de la unidad para adaptarse a nuevas tecnologías y mantener su relevancia operativa durante cinco décadas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Legado
 
 El GAOE N° 15 es una de las unidades más emblemáticas de la aviación militar venezolana. Su longevidad (50 años cumplidos en 2025) y su capacidad de modernización lo convierten en un referente de las fuerzas especiales aéreas en América Latina. La unidad ha sido reconocida en múltiples ocasiones por su participación en ejercicios de tiro, operaciones de combate y despliegues a lo largo de la frontera occidental venezolana. Su legado perdura en la memoria institucional y en el reconocimiento de la comunidad aeronáutica nacional e internacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 
 <div class="references">
@@ -90,19 +81,16 @@ El GAOE N° 15 es una de las unidades más emblemáticas de la aviación militar
   </ul>
 </div>
 
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Las publicaciones originales de Facebook e Instagram que se incluían en el bloque de referencias original no se encuentran accesibles al momento de la verificación (enlaces rotos o publicaciones eliminadas). Solo se han mantenido las referencias verificadas como activas. El perfil oficial de Instagram del GAOE N° 15 (@gaoe_n15) continúa activo y constituye una fuente primaria de información institucional.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
-- **Fuentes primarias consultadas:** Defensa Bolivariana Foroactivo, Defensa.com, Instagram oficial GAOE N° 15, Defensa Nacional Foroactivo
+- **Timestamp de verificación:** 2026-09-07 12:02:27 CST
+- **Fuentes primarias/institucionales consultadas:** Defensa Bolivariana Foroactivo, Defensa.com, Instagram oficial GAOE N° 15, Defensa Nacional Foroactivo
 - **Discrepancias resueltas:** Los enlaces de Facebook e Instagram originalmente proporcionados se verificaron y resultaron inaccesibles (publicaciones eliminadas o perfiles no disponibles). Se optó por mantener únicamente las referencias funcionales.
 - **Nivel de confianza:** Medio (las fuentes disponibles son principalmente foros y redes sociales; no se encontraron documentos oficiales de la Fuerza Aérea Venezolana que confirmen la fecha con documentación primaria)
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

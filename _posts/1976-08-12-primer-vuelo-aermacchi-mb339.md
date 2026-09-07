@@ -14,18 +14,14 @@ image: 1976-08-12-primer-vuelo-aermacchi-mb339.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1976-08-12-primer-vuelo-aermacchi-mb339.webp" alt="Reactor de entrenamiento biplaza en librea roja y blanca volando de perfil sobre una ladera montañosa, con los depósitos de las puntas alares y la cabina en tándem claramente visibles">
   <figcaption class="post-caption">El MB-339 de demostración de Aermacchi, matrícula civil I-TOCA, en vuelo durante la exhibición aérea de Sion, Suiza, el 5 de junio de 1982. Se aprecian los depósitos en las puntas alares heredados del MB-326 y la cabina en tándem con el asiento posterior elevado. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Aermacchi_MB-339_I-TOCA_in_Sion_1982_Aufsicht.jpg" style="color: #315fea; text-decoration: none;">Anidaat, Wikimedia Commons, CC BY-SA 4.0</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 12 de agosto de 1976 despegó por primera vez el prototipo del Aermacchi MB-339, matriculado I-NOVE, desde el aeródromo de la compañía en Venegono, en la provincia italiana de Varese. A los mandos iba Franco Bonazzi, piloto de pruebas de la casa.</p>
 <p>El aparato era el resultado de una decisión industrial poco frecuente. Cuando la Fuerza Aérea Italiana encargó en 1972 estudiar el sustituto del MB-326, los ingenieros de Aermacchi compararon siete diseños enteramente nuevos —agrupados bajo la designación MB-338— con una evolución del propio MB-326. La evolución cumplía todos los requisitos y costaba mucho menos, de modo que se impuso. El MB-339 conservó el ala, el motor y buena parte del fuselaje de su antecesor, y concentró el rediseño en la parte delantera: una cabina en tándem con el asiento del instructor elevado, que por fin permitía ver por encima de la cabeza del alumno.</p>
 <p>La fórmula funcionó durante medio siglo. Se construyeron unos doscientos treinta ejemplares, sirvió en once fuerzas aéreas, voló en combate en las Malvinas y en el Cuerno de África, y desde 1982 es el avión de las Frecce Tricolori.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha:** 12 de agosto de 1976.
@@ -46,7 +42,6 @@ image: 1976-08-12-primer-vuelo-aermacchi-mb339.webp
 - **Producción:** 230 ejemplares entre 1978 y 2006.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 El MB-339 pertenece a una categoría de aviones que rara vez ocupa portadas y sin los cuales ninguna fuerza aérea funciona.
@@ -74,7 +69,6 @@ En la Italia de los setenta la industria aeronáutica seguía siendo un asunto d
 El MB-339 acabaría reforzando ese vínculo simbólico de una manera que nadie previó en 1976: en 1982 sustituyó al Fiat G.91 en la Pattuglia Acrobatica Nazionale, las Frecce Tricolori, y desde entonces la imagen del avión italiano por excelencia ha sido, para millones de espectadores, este entrenador dejando estelas verdes, blancas y rojas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 La secuencia recorre desde el encargo del estudio hasta la retirada del aparato en Italia.
@@ -100,7 +94,6 @@ La secuencia recorre desde el encargo del estudio hasta la retirada del aparato 
 - **2024:** la Aeronautica Militare comienza a sustituirlo por el Aermacchi M-345, en una transición que mantiene la misma filosofía de evolución sobre diseño probado.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 El MB-339 hizo exactamente aquello para lo que fue concebido, y algunas cosas más que nadie había previsto.
@@ -114,7 +107,6 @@ El uso más sombrío llegó en el Cuerno de África. Eritrea encargó seis MB-33
 Y luego está Ramstein. El 28 de agosto de 1988, tres MB-339 de las Frecce Tricolori chocaron en pleno vuelo durante una exhibición en Alemania y uno de ellos se precipitó sobre el público. Murieron los tres pilotos y sesenta y siete espectadores, y más de trescientos resultaron heridos. Fue el peor accidente de una exhibición aérea hasta entonces y transformó la normativa de seguridad de este tipo de eventos en toda Europa.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 Cincuenta años después de aquel despegue en Venegono, la lección del MB-339 sigue siendo de gestión industrial antes que de ingeniería.
@@ -126,7 +118,6 @@ La continuidad llega hasta el relevo. El Aermacchi M-345, que desde 2024 empieza
 Queda por último la dimensión simbólica, que su diseñador no pudo prever. Un avión concebido para abaratar la instrucción de pilotos acabó siendo, durante más de cuatro décadas, la imagen que Italia proyecta al cielo cada vez que las Frecce Tricolori despliegan sus estelas verdes, blancas y rojas sobre una ciudad. Pocos aparatos utilitarios han alcanzado semejante estatura emblemática.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 - <a href="https://en.wikipedia.org/wiki/Aermacchi_MB-339" style="color: #315fea; text-decoration: none;">Aermacchi MB-339 — Wikipedia en inglés</a>
@@ -136,6 +127,7 @@ Queda por último la dimensión simbólica, que su diseñador no pudo prever. Un
 - <a href="https://www.thedrive.com/the-war-zone/40025/this-is-what-its-like-to-fly-italys-mb-339-jet-trainer" style="color: #315fea; text-decoration: none;">The War Zone: cómo se vuela el MB-339, relato en primera persona</a>
 - <a href="https://www.globalsecurity.org/military/world/europe/mb-339.htm" style="color: #315fea; text-decoration: none;">GlobalSecurity: ficha técnica y variantes del MB-339</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes divergen sobre el número de prototipos MB-339X construidos. La entrada de Wikipedia en inglés consigna tres, mientras que otras recopilaciones especializadas indican dos, de los que constan las matrículas I-NOVE e I-NINE y sus respectivas fechas de primer vuelo. Se ha optado por referirse a los dos aparatos documentados sin fijar el total.</p>
   <p>Existe también discrepancia sobre la localidad exacta del vuelo inaugural: unas fuentes citan Venegono Inferiore y otras Venegono Superiore, dos municipios contiguos de la provincia de Varese entre los que se extiende el aeródromo de la compañía. Se ha empleado la forma genérica «Venegono». Sobre el motor del primer prototipo, la mayoría de las fuentes indican el Rolls-Royce Viper Mk 632-43 que equipó a los aparatos de serie, si bien una recopilación menciona un Viper Mk 540 en el prototipo inicial.</p>
@@ -143,9 +135,8 @@ Queda por último la dimensión simbólica, que su diseñador no pudo prever. Un
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:02:27 CST
 - **Fuentes primarias/institucionales consultadas:** Wikimedia Commons, documentación fotográfica del aparato de demostración I-TOCA de Aermacchi.
 - **Fuentes secundarias de contraste:** Wikipedia en inglés y en español; Aeropedia, The Encyclopedia of Aircraft, con las matrículas de ambos prototipos; The War Zone; Global Military; GlobalSecurity.
 - **Discrepancias resueltas:** se optó por citar los dos prototipos documentados, I-NOVE e I-NINE, ante la divergencia entre las fuentes que hablan de dos y las que consignan tres; se empleó la forma genérica «Venegono» ante la doble atribución a Venegono Inferiore y Venegono Superiore; se consignó el Viper Mk 632-43 como planta motriz de serie, señalando la mención aislada de un Viper Mk 540 en el prototipo; se distinguieron las cifras de 101 y 107 aparatos entregados a Italia según el periodo y las variantes contabilizadas.
