@@ -15,12 +15,10 @@ image: 1912-03-01-primer-salto-en-paracaidas-desde-avion.webp
   <figcaption class="post-caption">Albert Berry realiza el primer salto en paracaídas desde avión, biplano Benoist de Tony Jannus, Jefferson Barracks, 1 marzo 1912 (Missouri Historical Society).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 1 de marzo de 1912, el capitán estadounidense Albert Berry realizó uno de los primeros saltos en paracaídas documentados desde un avión, sobre Jefferson Barracks, Missouri. Se lanzó desde un biplano Benoist pilotado por Tony Jannus, sentado en un trapecio y con el paracaídas alojado en un contenedor bajo el aparato. Aunque existe debate con un posible salto previo de Grant Morton en 1911, el de Berry se considera el primer salto oficialmente reconocido desde un aeroplano. Su éxito confirmó la utilidad del paracaídas en la aviación y marcó un hito en el desarrollo del paracaidismo militar y civil.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 1 de marzo de 1912  
@@ -45,15 +43,18 @@ El paracaídas de Berry era rudimentario, plegado en un contenedor metálico baj
 ### Entorno cultural
 El salto fue ampliamente difundido en prensa y considerado un acto de audacia, reforzando la imagen de la aviación como campo de experimentación heroica.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - **1911:** Posible salto de Grant Morton desde un Wright Model B en California (no documentado oficialmente).  
 - **1912, 1 marzo:** Salto de Albert Berry en Jefferson Barracks, Missouri.  
 - **1912–1913:** Experimentos posteriores consolidan el uso del paracaídas en aviación.  
 - **Décadas siguientes:** El paracaídas se convierte en equipo estándar de emergencia y en disciplina deportiva.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 El salto de Berry abrió la puerta al paracaidismo militar, que sería decisivo en operaciones aerotransportadas de la Segunda Guerra Mundial, y al paracaidismo deportivo como disciplina independiente.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 Recordado como pionero del paracaidismo, su salto es considerado el inicio oficial del uso del paracaídas en aviación.
 
@@ -70,6 +71,7 @@ Recordado como pionero del paracaidismo, su salto es considerado el inicio ofici
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Todas las fuentes coinciden en que el salto histórico de Albert Berry ocurrió el 1 de marzo de 1912 en Jefferson Barracks, Missouri. La imagen con la anotación “practicing” corresponde al momento real del lanzamiento, no a un ensayo previo.</p>
 
@@ -78,8 +80,8 @@ Recordado como pionero del paracaidismo, su salto es considerado el inicio ofici
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Smithsonian Air & Space, This Day in Aviation, Military.com, HistoryNet  
+- **Timestamp de verificación:** 2026-09-07 10:43:09 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Smithsonian Air & Space, This Day in Aviation, Military.com, HistoryNet  
 - **Discrepancias resueltas:** Debate sobre primacía del salto (Berry vs. Morton).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

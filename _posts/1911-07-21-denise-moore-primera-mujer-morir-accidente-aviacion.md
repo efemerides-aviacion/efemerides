@@ -14,17 +14,13 @@ image: 1911-07-21-denise-moore-primera-mujer-morir-accidente-aviacion.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-07-21-denise-moore-primera-mujer-morir-accidente-aviacion.webp" alt="Biplano Henri Farman de 1911 fotografiado en 1911">
   <figcaption class="post-caption">Biplano Henri Farman del mismo tipo que el que pilotaba Denise Moore en la escuela de Étampes, fotografiado en mayo de 1911, dos meses antes del accidente. Imagen representativa: no corresponde al aparato exacto del siniestro. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Nouveau_biplan_Henri_Farman,_1911_-_btv1b53240689m.jpg" style="color: #315fea; text-decoration: none;">Agence Meurisse / Gallica (BnF), vía Wikimedia Commons</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 21 de julio de 1911, la aviadora Denise Moore —pseudónimo de E. Jane-Wright— falleció trágicamente en el aeródromo de la Escuela de Aviación Henri Farman en Étampes, situado a unos 30 kilómetros al sur de París (Francia). El suceso se produjo cuando el biplano Farman que pilotaba en solitario perdió sustentación durante un viraje y se precipitó en picado contra el suelo desde una altitud estimada de entre 40 y 45 metros (130 a 150 pies). Denise Moore se convirtió en la primera mujer en perder la vida en un accidente de aviación en la historia de la aeronáutica motopropulsada.</p>
 <p>Nacida hacia 1876 y viuda de Denis Cornesson, la aviadora había adoptado la falsa identidad de "Denise Moore" para evitar la oposición de su familia a su entrenamiento de vuelo. Tras semanas de destacado aprendizaje y solos exitosos en Étampes, el fatal accidente conmocionó a los círculos aeronáuticos franceses e internacionales. Su trágica muerte puso de manifiesto los severos riesgos de la aviación pionera y visibilizó la determinación de las primeras mujeres que desafiaron las convenciones sociales de la época para conquistar los cielos.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Datos verificados del evento
 - **Fecha del accidente:** 21 de julio de 1911 (alrededor de las 18:20 hora local).
 - **Lugar:** Campo de aviación de Étampes, departamento de Essonne, Francia.
@@ -37,7 +33,6 @@ image: 1911-07-21-denise-moore-primera-mujer-morir-accidente-aviacion.webp
 - **Consecuencia:** Fallecimiento instantáneo de la piloto por politraumatismos y destrucción completa de la aeronave.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Contexto Histórico
 A principios del siglo XX, la aviación atravesaba una fase eminentemente experimental caracterizada por aparatos rudimentarios y una notable ausencia de normativas de seguridad, en un entorno social donde la participación femenina era excepcional y sumamente controvertida.
 
@@ -51,7 +46,6 @@ Los biplanos de configuración empujadora (*pusher*) diseñados por Henri Farman
 Francia constituía el epicentro cultural y tecnológico mundial de la aeronáutica. Las escuelas de vuelo situadas en campos como Étampes, Mourmelon y Reims congregaban diariamente a un numeroso público entusiasta, periodistas e inventores. La cobertura mediática de los vuelos femeninos despertaba enorme curiosidad en la prensa europea y norteamericana, registrando detalladamente cada progreso, récord y trágico desenlace de las primeras aviadoras.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Desarrollo Cronológico
 La secuencia de los hechos que culminaron en el primer accidente mortal de una aviadora se desarrolló durante la jornada del 21 de julio de 1911 en el campo de adiestramiento de Étampes.
 
@@ -64,35 +58,32 @@ La secuencia de los hechos que culminaron en el primer accidente mortal de una a
 - **29 de julio de 1911:** Publicación del informe del accidente en la revista especializada *FLIGHT*, certificando oficialmente la primera víctima mortal femenina en la historia de la aviación motopropulsada.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Consecuencias e Impacto
 El fallecimiento de Denise Moore causó conmoción en las escuelas de vuelo de toda Europa, abriendo un debate inmediato sobre la seguridad operacional de los alumnos pilotos y las deficiencias aerodinámicas de los biplanos expuestos.
 
 Las publicaciones aeronáuticas internacionales y los registros de seguridad aérea —como la revista *FLIGHT* y la posterior recopilación de *Aviation Safety Network*— catalogaron formalmente el hecho como la primera fatalidad femenina registrada en un avión. A partir de este suceso, la prensa especializada comenzó a dar seguimiento sistemático a los accidentes que involucraban a pioneras de la aviación, en una trágica lista que incluiría posteriormente a aviadoras como Julia Clark, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1875/05/11/nacimiento-de-harriet-quimby-licencia-piloto.html" style="color: #315fea; text-decoration: none;">Harriet Quimby</a> y <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1892/01/26/nacimiento-bessie-coleman.html" style="color: #315fea; text-decoration: none;">Bessie Coleman</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Legado
 La figura de Denise Moore permanece como un símbolo indiscutible del valor y la determinación de las primeras mujeres que desafiaron las barreras de género para integrarse en la aviación civil. Su voluntad de volar, incluso bajo un pseudónimo para superar los prejuicios familiares y sociales de su época, refleja el espíritu audaz de la era pionera.
 
 Su memoria está preservada en los archivos históricos de la aviación mundial y en el cementerio de Boulogne-Billancourt, recordando el elevado costo humano abonado por las pioneras en el desarrollo de la aeronáutica moderna.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Referencias Verificadas
 - <a href="https://aviation-safety.net/wikibase/wiki.php?id=232322" style="color: #315fea; text-decoration: none;">Aviation Safety Network: Registro del accidente fatal del 21 de julio de 1911 en Étampes</a>
 - <a href="https://www.thisdayinaviation.com/21-july-1911/" style="color: #315fea; text-decoration: none;">This Day in Aviation: Reseña histórica sobre Denise Moore y el accidente del biplano Farman</a>
 - <a href="https://es.wikipedia.org/wiki/Denise_Moore" style="color: #315fea; text-decoration: none;">Wikipedia: Biografía de Denise Moore (artículo enciclopédico de contraste)</a>
 - <a href="https://en.wikipedia.org/wiki/Denise_Moore" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Denise Moore (E. Jane Wright / Cornesson; Étampes, 21 de julio de 1911)</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe un matiz de identificación y localización en las fuentes de la época sobre esta efeméride. "Denise Moore" era el pseudónimo utilizado por la viuda E. J. Cornesson (nacida E. Jane-Wright) para evitar que su familia descubriera sus lecciones de aviación. Asimismo, aunque teletipos de prensa iniciales citaron erróneamente el aeródromo de Mourmelon como escenario del siniestro, los informes oficiales de la escuela de vuelo y la revista especializada <em>FLIGHT</em> confirmaron que el accidente ocurrió en el campo de aviación de Étampes. Por último, la imagen que ilustra esta efeméride es representativa: muestra un biplano Henri Farman del mismo tipo que el aparato del accidente, fotografiado en mayo de 1911, dos meses antes del siniestro.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
+- **Timestamp de verificación:** 2026-09-07 10:43:09 CST
 - **Fuentes primarias/institucionales consultadas:** FLIGHT Magazine Archives (julio de 1911), Agence Rol / Bibliothèque nationale de France (Gallica), Aviation Safety Network.
 - **Fuentes secundarias de contraste:** This Day in Aviation, Wikipedia.
 - **Discrepancias resueltas:** Se verificó la localización precisa en Étampes (corrigiendo reportes iniciales confusos sobre Mourmelon) y se detalló la doble identidad tras el pseudónimo de la aviadora (E. Jane-Wright / Sra. Cornesson).

@@ -21,7 +21,6 @@ image: 1910-01-08-primer-vuelo-alberto-braniff-en-mexico.webp
 El 8 de enero de 1910, Alberto Braniff, joven aviador mexicano, realizó el primer vuelo en México y en toda Latinoamérica. A bordo de un biplano Voisin de fabricación francesa, despegó de los llanos de Balbuena, logrando elevarse y aterrizar con éxito. Este acontecimiento marcó el inicio de la aviación en la región.
 </p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 8 de enero de 1910  
@@ -42,15 +41,18 @@ El biplano Voisin era una aeronave ligera, con motor de baja potencia, que repre
 ### Entorno cultural
 El acontecimiento fue visto como símbolo de modernidad y orgullo nacional, colocando a México en la vanguardia de la aviación regional.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - 1909: Braniff adquiere un biplano Voisin en Francia.  
 - 8 de enero de 1910: primer vuelo en los llanos de Balbuena.  
 - 1910–1911: se consolidan los primeros intentos de aviación en México.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 - Braniff es reconocido como el primer aviador de Latinoamérica.  
 - El vuelo impulsó la creación de espacios para la aviación en México, como el futuro Aeropuerto de Balbuena.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 Alberto Braniff es recordado como pionero de la aviación mexicana y latinoamericana, abriendo camino a generaciones posteriores de aviadores.
 
@@ -67,8 +69,8 @@ Alberto Braniff es recordado como pionero de la aviación mexicana y latinoameri
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Archivos históricos de la UNAM; Memórica México; biografía de Alberto Braniff  
+- **Timestamp de verificación:** 2026-09-07 10:43:09 CST
+- **Fuentes primarias/institucionales consultadas:** Archivos históricos de la UNAM; Memórica México; biografía de Alberto Braniff  
 - **Discrepancias resueltas:** Algunas fuentes citan el 9 de enero de 1910; se confirma oficialmente el 8 de enero como fecha del primer vuelo.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

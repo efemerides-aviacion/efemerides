@@ -14,17 +14,13 @@ image: 1908-08-12-primer-vuelo-dirigible-propulsado-signal-corps-1.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1908-08-12-primer-vuelo-dirigible-propulsado-signal-corps-1.webp" alt="Dirigible no rígido en vuelo bajo sobre un campo, con una barquilla de celosía alargada suspendida bajo la envoltura y dos tripulantes a bordo, mientras varias personas observan desde tierra">
   <figcaption class="post-caption">El Signal Corps Dirigible Nº 1 en vuelo, con dos tripulantes sobre la viga de celosía que hacía las veces de barquilla. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Signal_Corps_Dirigible_No_1_afmil-01.jpg" style="color: #315fea; text-decoration: none;">U.S. Air Force, National Museum of the United States Air Force</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 12 de agosto de 1908 comenzaron en Fort Myer, Virginia, los vuelos de prueba del Signal Corps Dirigible Nº 1, la primera aeronave motorizada que adquirió el Ejército de Estados Unidos. A los mandos iba Thomas Scott Baldwin, su constructor, y como mecánico de vuelo lo acompañaba Glenn Hammond Curtiss, que había fabricado el motor y que años después daría nombre a uno de los grandes fabricantes aeronáuticos del país.</p>
 <p>Conviene subrayar el orden de los acontecimientos, porque suele contarse al revés: el Ejército estadounidense compró un dirigible antes que ningún avión. El aparato no llegó a cumplir el requisito de velocidad —se quedó en 19,61 millas por hora frente a las 20 exigidas—, lo que costó a Baldwin una rebaja del quince por ciento sobre el precio pactado. Aun así fue aceptado. Con él se formaron los primeros aviadores militares del país, entre ellos Frank Lahm, Benjamin Foulois y Thomas Selfridge, que cinco semanas después moriría en el accidente del avión de los Wright en ese mismo campo.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha:** 12 de agosto de 1908, inicio de los vuelos de prueba.
@@ -44,7 +40,6 @@ image: 1908-08-12-primer-vuelo-dirigible-propulsado-signal-corps-1.webp
 - **Precio:** 5.737,50 dólares, tras una rebaja del quince por ciento sobre los 6.750 pactados por no alcanzar la velocidad exigida.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 El Ejército estadounidense llegó tarde a la aeronáutica militar y lo hizo por donde entonces parecía más razonable.
@@ -70,7 +65,6 @@ Baldwin era un personaje del espectáculo antes que un contratista militar. Se h
 Que el Ejército comprara su aparato ilustra el momento: la aeronáutica seguía siendo un asunto de feriantes y aficionados adinerados, y las instituciones tuvieron que acudir a ellos porque no existía otra industria a la que recurrir.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 La secuencia recorre desde la creación de la División Aeronáutica hasta el desguace del aparato.
@@ -93,7 +87,6 @@ La secuencia recorre desde la creación de la División Aeronáutica hasta el de
 - **1912:** la envoltura necesita sustitución. El Ejército se niega a costearla y el aparato se vende y se desguaza. No se compra otro dirigible hasta después de la Primera Guerra Mundial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 El SC-1 tuvo una vida operativa corta y un rendimiento mediocre, y aun así hizo algo que ninguna otra aeronave podía hacer entonces.
@@ -107,7 +100,6 @@ Y sirvió, en fin, para descubrir hasta dónde llegaba el dirigible como instrum
 El contraste con lo ocurrido en el mismo campo cinco semanas más tarde resulta inevitable. El 17 de septiembre de 1908, el avión de los Wright se estrelló en Fort Myer con Selfridge a bordo, que murió. El mismo teniente que había aprendido a volar sin percance en el dirigible se convirtió en la primera víctima mortal de la aviación más pesada que el aire.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 Ciento dieciocho años después, el SC-1 se recuerda sobre todo por una cuestión de orden: fue lo primero.
@@ -119,7 +111,6 @@ Conviene deshacer una confusión frecuente. Existieron dos «Signal Corps Nº 1�
 Queda una última observación sobre las personas. Aquel 12 de agosto volaban juntos el hombre que había sido saltador de paracaídas de feria y el que fabricaba motores de motocicleta en un pueblo del estado de Nueva York. Uno pasaría a la historia como padre del dirigible estadounidense; el otro fundaría una de las mayores compañías aeronáuticas del país. La aviación militar de Estados Unidos empezó con esos dos hombres sentados sobre una viga de madera colgada de un globo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 - <a href="https://web.archive.org/web/20140714182816/http://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=665" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: «Baldwin Dirigible: U.S. Army's First Airship», ficha informativa</a>
@@ -131,6 +122,7 @@ Queda una última observación sobre las personas. Aquel 12 de agosto volaban ju
 - <a href="https://digital.sciencehistory.org/works/02870w29b" style="color: #315fea; text-decoration: none;">Science History Institute: «Le Dirigeable Baldwin», documentación fotográfica del aparato</a>
 - <a href="https://welweb.org/ThenandNow/Baldwin.html" style="color: #315fea; text-decoration: none;">World Encyclopedia of Lighter-Than-Air: ficha del Baldwin Nº 8 y del SC-1</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes divergen sobre la secuencia exacta de compra y aceptación. La ficha del National Museum of the United States Air Force y varias cronologías institucionales sitúan la aceptación formal el 28 de agosto de 1908, mientras que This Day in Aviation y Wikipedia en inglés la adelantan al 5 de agosto, fecha en que el Ejército habría abonado el importe. La lectura que concilia ambas versiones es que las pruebas se desarrollaron a lo largo de agosto, comenzando el 12 con Baldwin y Curtiss a bordo, y que la aceptación formal con la designación SC-1 se produjo el 28, coincidiendo con el inicio de la instrucción de los oficiales.</p>
   <p>Divergen también las cifras del contrato. El precio pactado fue de 6.750 dólares y el finalmente abonado de 5.737,50, tras una rebaja del quince por ciento por no alcanzar la velocidad requerida; algunas fuentes consignan 5.737,59 dólares, diferencia de nueve centavos atribuible a un error de transcripción reiterado. Sobre la fecha de la prueba oficial de velocidad, la mayoría de las fuentes la sitúan en el conjunto de los ensayos iniciados el 12 de agosto, si bien una recopilación la fija el día 14.</p>
@@ -138,9 +130,8 @@ Queda una última observación sobre las personas. Aquel 12 de agosto volaban ju
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 10:43:09 CST
 - **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force, ficha «Baldwin Dirigible: U.S. Army's First Airship»; Science History Institute, documentación fotográfica del dirigible Baldwin; Air & Space Forces Magazine, cronología aeronáutica oficial del periodo 1903-1909.
 - **Fuentes secundarias de contraste:** This Day in Aviation, con el detalle constructivo y de prestaciones; World Encyclopedia of Lighter-Than-Air; Wikipedia en inglés, entradas del Signal Corps Dirigible No. 1, de Thomas Scott Baldwin y de la Aeronautical Division.
 - **Discrepancias resueltas:** se distinguió el inicio de los vuelos de prueba, el 12 de agosto, de la aceptación formal del aparato, el 28 del mismo mes, frente a las fuentes que sitúan la compra el día 5; se fijó en 5.737,50 dólares el precio abonado, frente a los 5.737,59 que consignan algunas recopilaciones; se adoptó la longitud de 29,26 metros de las fuentes contemporáneas frente a los 28 metros de la ficha del Smithsonian; se deslindó esta aeronave del Signal Corps Airplane Nº 1, denominación del avión de los Wright adquirido en 1909.

@@ -15,18 +15,14 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1905-12-24-nacimiento-howard-hughes.webp" alt="Howard Hughes en su juventud">
   <figcaption class="post-caption">Howard Hughes, retrato de estudio (ca. 1936), época de sus récords de velocidad aérea y producción cinematográfica. Encyclopædia Britannica.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
     <p>
     El 24 de diciembre de 1905 nació Howard Robard Hughes Jr., una de las figuras más influyentes y enigmáticas de la aviación mundial. Empresario y piloto, estableció récords de velocidad y circunnavegación, diseñó aeronaves revolucionarias como el H-1 Racer y el H-4 Hercules, y consolidó Hughes Aircraft como referente de la industria aeroespacial moderna.
     </p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 24 de diciembre de 1905  
 - **Lugar de nacimiento:** Humble, Texas (fuentes secundarias citan Houston) [NO CONFIRMADO: discrepancia entre registros parroquiales y fuentes secundarias]  
@@ -35,7 +31,6 @@ redirect_from:
 - **Fecha de fallecimiento:** 5 de abril de 1976, Houston, Texas  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 Howard Hughes nació en el seno de una familia acomodada; su padre inventó la broca de perforación rotatoria, base de la fortuna Hughes Tool Company. En una época en que la aviación transitaba de la experimentación a la viabilidad comercial y militar, Hughes utilizó su capital para redefinir la ingeniería aeronáutica.
 
@@ -48,6 +43,7 @@ El H-1 Racer introdujo innovaciones aerodinámicas que influyeron en cazas de la
 ### Entorno cultural
 Hughes fue también magnate del cine y figura mediática, lo que amplificó su impacto cultural. Su vida privada excéntrica y su reclusión final alimentaron el mito en torno a su persona.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 - **1932:** Fundación de Hughes Aircraft Company.  
 - **13/09/1935:** Récord mundial de velocidad con el H-1 Racer (352.39 mph).  
@@ -55,16 +51,17 @@ Hughes fue también magnate del cine y figura mediática, lo que amplificó su i
 - **10–14/07/1938:** Récord mundial de circunnavegación aérea.  
 - **02/11/1947:** Único vuelo del H-4 Hercules “Spruce Goose”.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 - Influencia directa en el diseño de aeronaves militares y comerciales.  
 - Impulso al desarrollo del Lockheed Constellation en TWA.  
 - Hughes Aircraft pionera en sistemas de radar, misiles guiados y satélites de comunicación.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 Howard Hughes es recordado como un perfeccionista técnico y visionario. Su legado abarca récords de aviación, avances tecnológicos y un impacto cultural que trasciende la aeronáutica.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -76,9 +73,8 @@ Howard Hughes es recordado como un perfeccionista técnico y visionario. Su lega
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 18:00:00 CST  
+- **Timestamp de verificación:** 2026-09-07 10:43:09 CST
 - **Fuentes primarias/institucionales consultadas:** Smithsonian NASM (Hughes H-1 Racer); San Diego Air & Space Museum
 - **Fuentes secundarias de contraste:** Encyclopædia Britannica; Wikipedia (EN) Howard Hughes  
 - **Discrepancias resueltas:** Lugar de nacimiento varía entre Humble y Houston; se indica Humble por registros parroquiales, mencionando Houston como alternativa común. Velocidad del H-1 fijada en 352.39 mph según acta oficial de la FAI.  

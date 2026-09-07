@@ -17,13 +17,11 @@ redirect_from:
   <figcaption class="post-caption">Adolf Galland, capitán de la Legión Cóndor durante la Guerra Civil Española (1937-1938), vistiendo chaqueta de aviador con cuello de piel, Cruz de Hierro y boina de la Luftwaffe. Fecha aproximada: 1938. Fuente: defensa.com – "Adolf Galland de los cielos de España a los de la Segunda Guerra Mundial".</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Adolf Galland nació el 19 de marzo de 1912 en Westerholt, Westfalia, Alemania. Fue un destacado piloto de caza y comandante de la Luftwaffe durante la Segunda Guerra Mundial, acumulando 104 victorias aéreas confirmadas en 705 misiones, todas ellas en el Frente Occidental. Participó en la Guerra Civil Española con la Legión Cóndor, donde realizó 300 misiones de ataque a tierra. Como General de Cazas desde 1941, lideró la defensa aérea del Reich y promovió el desarrollo del caza a reacción Me 262. Tras ser destituido en 1945 por sus críticas a Göring, formó el legendario Jagdverband 44, escuadrón de élite equipado con reactores. Falleció el 9 de febrero de 1996 en Remagen-Oberwinter.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 19 de marzo de 1912
 - **Lugar de nacimiento:** Westerholt, Westfalia, Imperio Alemán
@@ -32,7 +30,6 @@ redirect_from:
 - **Fecha de fallecimiento:** 9 de febrero de 1996 (83 años), Remagen-Oberwinter, Alemania
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 Adolf Galland nació en los años previos a la Primera Guerra Mundial, en una Alemania imperial que pronto se vería sumida en el conflicto. Su infancia y juventud transcurrieron en el convulso período de entreguerras, marcado por las duras condiciones del Tratado de Versalles, la crisis económica y el posterior ascenso del nacionalsocialismo.
@@ -46,6 +43,7 @@ El Tratado de Versalles prohibía a Alemania tener fuerza aérea, pero permitía
 ### Entorno cultural
 La figura del "as de la aviación" estaba profundamente arraigada en la cultura alemana desde la Primera Guerra Mundial, con Manfred von Richthofen como máximo exponente. La Luftwaffe cultivaba una imagen de elite tecnológica y caballerosidad en el combate aéreo, valores que Galland encarnó y defendió durante toda la guerra, oponiéndose a órdenes que consideraba contrarias al honor militar, como el fusilamiento de pilotos en paracaídas.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 
 - **19 de marzo de 1912:** Nace Adolf Joseph Ferdinand Galland en Westerholt, Westfalia.
@@ -98,6 +96,7 @@ Las investigaciones históricas modernas, basadas en el análisis de los microfi
 
 El consenso académico actual mantiene la cifra de **104 victorias** como la oficialmente reconocida, teniendo en cuenta que los sistemas de verificación de la Luftwaffe exigían testigos presenciales y partes de combate, aunque en la práctica, especialmente en los últimos meses de la guerra, muchas reclamaciones pudieron quedar sin registrar o validarse con menor rigor.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 
 La figura de Adolf Galland trasciende su propio historial como as de la aviación:
@@ -107,6 +106,7 @@ La figura de Adolf Galland trasciende su propio historial como as de la aviació
 - **Relación con el régimen:** Su figura es inseparable del nazismo al que sirvió, pero también representa la tensión entre el militar profesional y la dirección política. Su destitución y posterior rehabilitación reflejan las contradicciones del Tercer Reich en su fase final.
 - **Reconciliación de posguerra:** Su amistad con exenemigos como Douglas Bader simboliza la capacidad de superar las hostilidades del conflicto y construir puentes entre antiguos adversarios.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
 Adolf Galland ocupa un lugar excepcional en la historia de la aviación militar:
@@ -118,7 +118,6 @@ Adolf Galland ocupa un lugar excepcional en la historia de la aviación militar:
 - **Memoria histórica:** Sus memorias "Los primeros y los últimos" siguen siendo una fuente primaria fundamental para el estudio de la Luftwaffe y la guerra aérea en Europa.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -135,11 +134,11 @@ Adolf Galland ocupa un lugar excepcional en la historia de la aviación militar:
     <li><a href="https://www.abc.es/historia/confesiones-piloto-nazi-letal-sobre-ultimo-combate-20241118042314-nt.html" style="color: #315fea; text-decoration: none;">ABC – Las confesiones del piloto nazi más letal sobre su último combate</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), Britannica, GEHM, Defensa.com, ABC, La Segunda Guerra  
+- **Timestamp de verificación:** 2026-09-07 10:43:09 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Britannica, GEHM, Defensa.com, ABC, La Segunda Guerra  
 - **Discrepancias resueltas:** Se aclaró la diferencia entre las cifras de victorias (104 tradicionales vs. 100 confirmadas en archivos por Mathews & Foreman, más 9 no confirmadas) y se confirmó que Galland no obtuvo victorias en la Guerra Civil Española.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
