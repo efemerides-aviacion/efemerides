@@ -15,14 +15,11 @@ image: 1970-12-18-fundacion-airbus-industrie.webp
   <figcaption class="post-caption">Historia gráfica de los logos que han representado a Airbus Industrie desde su fundación en 1970 hasta el presente.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 18 de diciembre de 1970 se constituyó Airbus Industrie bajo la figura jurídica de un Groupement d’Intérêt Économique (GIE). Esta alianza franco-alemana, a la que se unirían España y el Reino Unido, nació para desafiar el dominio estadounidense en el mercado de aviones comerciales. Su primer proyecto, el Airbus A300, introdujo el concepto de fuselaje ancho bimotor.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Fecha:** 18 de diciembre de 1970  
 - **Lugar:** Blagnac, Toulouse, Francia  
@@ -34,7 +31,6 @@ image: 1970-12-18-fundacion-airbus-industrie.webp
 - **Participación de España:** incorporación en 1971 a través de CASA (4,2% de participación)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 A finales de los años 60, el mercado estaba dominado por Boeing, McDonnell Douglas y Lockheed. Europa comprendió que ninguna empresa nacional podía competir sola. Las conversaciones comenzaron en 1965 en el Salón Aeronáutico de París, donde las principales aerolíneas europeas definieron los requisitos para un nuevo "Airbus" de corto y medio alcance con capacidad para 100 o más pasajeros. Tras el acuerdo ministerial de 1969 entre Francia y Alemania, la constitución legal del GIE en 1970 consolidó la estructura multinacional.
@@ -48,6 +44,7 @@ El Airbus A300 introdujo la configuración bimotor de fuselaje ancho, más efici
 ### Entorno cultural
 Airbus se convirtió en símbolo de cooperación transnacional y en referente de la industria aeroespacial europea. La estructura de GIE, una figura legal francesa, permitió que los socios mantuvieran su independencia comercial mientras colaboraban en el desarrollo conjunto.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 - **1965:** En el Salón de París, las aerolíneas europeas discuten los requisitos para un nuevo "Airbus".
 - **25 de julio de 1967:** Francia, Alemania y el Reino Unido acuerdan realizar estudios de diseño.
@@ -59,14 +56,15 @@ Airbus se convirtió en símbolo de cooperación transnacional y en referente de
 - **Mayo de 1974:** Entrada en servicio del A300 con Air France.
 - **Enero de 1979:** British Aerospace se incorpora como socio de pleno derecho con un 20%.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 Airbus rompió el monopolio estadounidense y estableció un nuevo modelo de cooperación industrial. En 1978, la aerolínea Eastern Air Lines se convirtió en el primer cliente estadounidense, ordenando 23 A300 después de una prueba de arrendamiento que demostró un consumo de combustible 30% menor que el de sus Lockheed L-1011. Su éxito abrió camino a una cadena de suministro global y a innovaciones tecnológicas que marcaron la aviación moderna, incluyendo el sistema fly-by-wire que debutaría en el A320.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 Airbus es hoy uno de los dos grandes fabricantes de aviones comerciales del mundo. En 2001, el consorcio GIE se transformó en Airbus S.A.S., una sociedad anónima integrada, y en 2017 adoptó la estructura de Airbus SE. Su fundación en 1970 es considerada el inicio de la cooperación aeroespacial europea moderna.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -81,18 +79,15 @@ Airbus es hoy uno de los dos grandes fabricantes de aviones comerciales del mund
   </ul>
 </div>
 
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Algunas fuentes secundarias mencionan el acuerdo ministerial de 1969 como “fundación”, pero la constitución legal del GIE ocurrió el 18 de diciembre de 1970. La hora exacta de la firma no pudo ser verificada. El Reino Unido se retiró del proyecto en abril de 1969, pero Hawker Siddeley (posteriormente British Aerospace) continuó como subcontratista para la fabricación de las alas hasta incorporarse como socio de pleno derecho en 1979.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (History of Airbus), Airways Magazine, Reference for Business, Britannica, AVweb  
+- **Timestamp de verificación:** 2026-09-07 12:02:22 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (History of Airbus), Airways Magazine, Reference for Business, Britannica, AVweb  
 - **Discrepancias resueltas:** Diferencia entre acuerdo ministerial de 1969 y constitución legal en 1970; se ha verificado que España se incorporó en octubre de 1971 con un 4,2% de participación.  
 - **Datos no confirmados:** Hora exacta de la firma en Toulouse.  
 - **Nivel de confianza:** Alto  

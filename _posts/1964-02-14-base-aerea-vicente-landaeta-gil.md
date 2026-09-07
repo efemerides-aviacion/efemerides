@@ -15,14 +15,11 @@ image: 1964-02-14-base-aerea-vicente-landaeta-gil.webp
   <figcaption class="post-caption">Entrada principal de Balanda (Base Aérea Tte. Vicente Landaeta Gil), Barquisimeto, Venezuela – Vista contemporánea de la base fundada el 14/02/1964 (Foto usuario, circa 2000s).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 14 de febrero de 1964 se inauguró oficialmente la Base Aérea Teniente Vicente Landaeta Gil (Balanda) en Barquisimeto (Lara), creada por Resolución N.º A-184 de diciembre de 1963, como sede inicial del Escuadrón B-40 con B-25 Mitchell.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Fecha:** 14 de febrero de 1964  
 - **Lugar:** Barquisimeto, estado Lara, Venezuela  
@@ -31,7 +28,6 @@ image: 1964-02-14-base-aerea-vicente-landaeta-gil.webp
 - **Resultado inmediato:** Fundación oficial de la Base Aérea Teniente Vicente Landaeta Gil  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 La base fue nombrada en honor al <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/05/15/nacimiento-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Teniente Vicente Landaeta Gil</a>, integrante de la primera promoción de aviadores militares venezolanos, fallecido el 4 de febrero de 1931 <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1931/02/04/vicente-landaeta-gil-fallece.html" style="color: #315fea; text-decoration: none;">en el primer accidente aéreo registrado en Venezuela</a>.
 
@@ -44,6 +40,7 @@ La base inició operaciones con bombarderos B-25 Mitchell y posteriormente evolu
 ### Entorno cultural
 La fundación de Balanda consolidó a Barquisimeto como un centro estratégico de la aviación militar venezolana, con participación en aniversarios de la Aviación Militar Bolivariana y programas de modernización como el “Grifo” en 1991.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 - 10 de diciembre de 1963: Resolución N.º A-184 crea la base.  
 - 14 de febrero de 1964: inauguración oficial en Barquisimeto.  
@@ -53,14 +50,15 @@ La fundación de Balanda consolidó a Barquisimeto como un centro estratégico d
 - 1997: sede de la Zona Aérea II.  
 - Actualidad: operación de VF-5A/D, K-8W Karakorum y Queen Air.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 La base fortaleció la capacidad operativa de la Fuerza Aérea Venezolana en la región centro-occidental y se convirtió en un eje de formación, despliegue y modernización.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 Hoy la Base Aérea Teniente Vicente Landaeta Gil es un símbolo de la aviación militar venezolana y un homenaje permanente al pionero que lleva su nombre.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -76,10 +74,9 @@ Hoy la Base Aérea Teniente Vicente Landaeta Gil es un símbolo de la aviación 
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), Instagram @hoy_en_la_historia, Facebook Historia Aviación Militar Venezolana, El Nacional, Trek Zone  
+- **Timestamp de verificación:** 2026-09-07 12:02:22 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Instagram @hoy_en_la_historia, Facebook Historia Aviación Militar Venezolana, El Nacional, Trek Zone  
 - **Discrepancias resueltas:** Confirmación de fecha de fundación (14/02/1964) y resolución de creación (A-184, 10/12/1963)  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

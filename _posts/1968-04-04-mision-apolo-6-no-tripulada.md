@@ -14,16 +14,12 @@ image: 1968-04-04-mision-apolo-6-no-tripulada.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1968-04-04-mision-apolo-6-no-tripulada.webp" alt="Lanzamiento del Saturn V para la misión Apolo 6 desde el Centro Espacial Kennedy">
   <figcaption class="post-caption">Lanzamiento del Saturn V para la misión Apolo 6 desde el Centro Espacial Kennedy, Florida, 4 de abril de 1968. Imagen publicada en NASA History, “55 Years Ago: The Flight of Apollo 6”, 4 de abril de 2023.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de abril de 1968, la NASA lanzó Apolo 6 (AS-502), la segunda prueba no tripulada del cohete Saturn V, desde el Complejo de Lanzamiento 39A del Centro Espacial Kennedy, Florida. A pesar de sufrir severas oscilaciones de tipo <em>pogo</em> (vibraciones longitudinales) y el apagado prematuro de dos motores J-2 en la segunda etapa, el vehículo demostró su capacidad de recuperación: alcanzó órbita, simuló un retorno de aborto directo y amerizó en el Pacífico tras casi 10 horas de vuelo. La misión allanó el camino para los vuelos tripulados del programa Apolo, incluido el histórico Apolo 8.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Datos verificados del evento
 - **Fecha de lanzamiento:** 4 de abril de 1968, 07:00:00 UTC (02:00 EST)
 - **Misión:** Apolo 6 (AS-502)
@@ -37,7 +33,6 @@ image: 1968-04-04-mision-apolo-6-no-tripulada.webp
 - **Módulo de comando:** CM-020 (actualmente en exhibición en el Fernbank Science Center, Atlanta, Georgia)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Contexto Histórico
 
 Apolo 6 fue la segunda prueba del gigantesco Saturn V, diseñado para llevar astronautas a la Luna. Su predecesora, **Apolo 4** (noviembre de 1967), había sido un éxito perfecto: validó el primer Saturn V, el reinicio de la etapa S-IVB y una reentrada a velocidad lunar. Sin embargo, la NASA necesitaba una segunda misión no tripulada para certificar el cohete antes de arriesgar vidas humanas.
@@ -51,6 +46,7 @@ El Saturn V seguía siendo el cohete más potente jamás construido: 110 m de 
 ### Entorno cultural
 La NASA proyectaba una imagen de precisión técnica, pero internamente se vivía una presión extrema. Los técnicos sabían que cualquier fallo en Apolo 6 podría retrasar años el programa. La misión se convirtió en un ejemplo de “fallo exitoso” —una lección que la cultura ingenieril estadounidense supo transformar en correcciones antes de los vuelos tripulados.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Desarrollo Cronológico
 
 - **Septiembre de 1967:** Llegada del módulo de comando y servicio (CSM-020) al Centro Espacial Kennedy para integración.
@@ -65,7 +61,6 @@ La NASA proyectaba una imagen de precisión técnica, pero internamente se viví
 - **21:50 UTC (16:50 EST):** Amerizaje controlada del CM en el océano Pacífico Norte, a 80 km del punto previsto. Recuperado por el USS *Okinawa*.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Consecuencias e Impacto
 
 - **Identificación de fallos críticos:** Las oscilaciones *pogo* y los apagos de motores J-2 en vacío fueron analizados a fondo. Se descubrió que las vibraciones dañaban los ignitores de los motores. Las soluciones incluyeron inyección de gas helio en las líneas de combustible y aumento de rigidez estructural.
@@ -74,13 +69,11 @@ La NASA proyectaba una imagen de precisión técnica, pero internamente se viví
 - **Exhibición histórica:** El módulo de comando CM-020 se encuentra actualmente en el **Fernbank Science Center** de Atlanta, Georgia, como testimonio de la era Apolo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Legado
 
 La misión Apolo 6 es recordada como un **“fallo exitoso”** —un ejemplo clásico de cómo la ingeniería aprende más de los problemas que de los éxitos perfectos. Las correcciones implementadas tras este vuelo permitieron que el Saturn V llevara a los astronautas del Apolo 8 a la órbita lunar apenas ocho meses después (diciembre de 1968) y, finalmente, al Apolo 11 a la superficie de la Luna en julio de 1969. Apolo 6 demostró que la resiliencia del diseño y la capacidad de análisis en tierra eran tan importantes como la perfección en el despegue.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -94,15 +87,15 @@ La misión Apolo 6 es recordada como un **“fallo exitoso”** —un ejemplo cl
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Algunas fuentes mencionan que el vuelo Apolo 6 “fracasó” por los apagos de motores. Sin embargo, la NASA consideró la misión como un éxito operativo porque el vehículo alcanzó órbita, completó los objetivos primarios (incluido el reinicio del S-IVB) y permitió identificar y corregir problemas críticos antes de los vuelos tripulados. El concepto de “fallo exitoso” es clave para entender esta efeméride.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), NASA History, EcuRed, This Day in Aviation, RocketLaunch
+- **Timestamp de verificación:** 2026-09-07 12:02:22 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), NASA History, EcuRed, This Day in Aviation, RocketLaunch
 - **Discrepancias resueltas:** Se aclaró que los apagos de motores no impidieron alcanzar órbita gracias a la quema compensatoria de la segunda etapa. La altitud exacta de la órbita de estacionamiento varía ligeramente entre fuentes (172 × 178 km); se ha utilizado el promedio documentado por NASA History.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

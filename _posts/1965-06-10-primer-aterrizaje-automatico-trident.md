@@ -14,16 +14,12 @@ image: 1965-06-10-primer-aterrizaje-automatico-trident.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1965-06-10-primer-aterrizaje-automatico-trident.webp" alt="Cabina del Hawker Siddeley Trident con los pilotos Eric Poole y Tommy Atkins mostrando sus manos vacías">
   <figcaption class="post-caption">El Hawker Siddeley Trident 1C G‑ARPR de British European Airways, fotografiado en Heathrow el 19 de abril de 1965 por Frank Croom, y que posteriormente sería el protagonista del primer aterrizaje automático en vuelo regular con pasajeros el 10 de junio de 1965; fuente: AirHistory.net.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 10 de junio de 1965, el vuelo BE343 de British European Airways (BEA), operado por un Hawker Siddeley Trident 1C con matrícula G-ARPR, despegó del aeropuerto de París-Le Bourget con destino a Londres-Heathrow. A bordo viajaban 80 pasajeros, sin saber que serían testigos de un hito tecnológico: el primer aterrizaje automático de un avión comercial en servicio regular. El Capitán Eric Poole y el copiloto Tommy Atkins supervisaron el sistema Autoflare de Smiths Industries, que tomó el control a 150 pies (45,7 metros) del suelo, guiando la aeronave en la aproximación, el flare y el touchdown. Al rodar fuera de la pista, Poole anunció por los altavoces: «Damas y caballeros, la aproximación a la pista y el contacto con el suelo han sido realizados por equipo automático a bordo». Cada pasajero recibió un certificado conmemorativo firmado por Poole y por el presidente de BEA, Sir Anthony Milward.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha:** 10 de junio de 1965
@@ -42,7 +38,6 @@ image: 1965-06-10-primer-aterrizaje-automatico-trident.webp
 - **Certificación previa:** La Air Registration Board británica aprobó el sistema el 3 de junio de 1965 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 La década de 1960 fue la era dorada de la aviación comercial. Los jets habían democratizado los viajes aéreos, y aerolíneas como BEA, BOAC, Pan Am y TWA competían por ofrecer mayor velocidad y comodidad. Sin embargo, un problema persistente afectaba la fiabilidad de las operaciones en el norte de Europa: la niebla. El aeropuerto de Londres-Heathrow sufría al menos una docena de días al año de cierre total por niebla espesa, lo que provocaba cancelaciones masivas y pérdidas millonarias. En este contexto de necesidad operativa y efervescencia tecnológica, nació el sistema Autoflare que cambiaría para siempre la seguridad de los aterrizajes.
@@ -59,6 +54,7 @@ En 1965, los sistemas de aproximación instrumental (ILS) eran estándar, pero e
 
 El público confiaba en el piloto como figura heroica, y la noción de una «máquina» aterrizando el avión generaba escepticismo. Por ello, BEA optó por no informar a los pasajeros del vuelo BE343 antes del aterrizaje. El anuncio del Capitán Poole tras el touchdown fue una sorpresa calculada para demostrar que la tecnología funcionaba sin que los pasajeros hubieran notado diferencia alguna respecto a un aterrizaje convencional.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **1957:** BEA formula el requerimiento de un nuevo reactor de corto y medio radio. De Havilland (posteriormente Hawker Siddeley) inicia los estudios de diseño.
@@ -79,6 +75,7 @@ El público confiaba en el piloto como figura heroica, y la noción de una «má
 
 - **1970s:** Se descubre que los aterrizajes automáticos del sistema original causaban «flares» inexactos que resultaban en aterrizajes duros, provocando fatiga en los largueros de varias aeronaves; las aerolíneas retiraron los aparatos afectados en lugar de afrontar costosas reparaciones.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 - **Certificación pionera:** El Trident fue el primer avión comercial diseñado y certificado desde su origen para realizar aterrizajes automáticos, sentando un precedente mundial.
@@ -89,6 +86,7 @@ El público confiaba en el piloto como figura heroica, y la noción de una «má
 
 - **Precursor de estándares modernos:** El sistema duplex del Trident (dos computadoras que se monitorizaban mutuamente) evolucionaría hacia los sistemas triplex y quadriplex de generaciones posteriores, culminando en los estándares CAT III actuales que permiten aterrizajes con visibilidad casi nula.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 El aterrizaje automático del Trident en 1965 marcó el inicio de una transición fundamental en la aviación: del piloto como único responsable del vuelo a la era de la automatización asistida. Hoy, los sistemas de aterrizaje automático (Autoland) son estándar en todos los aviones comerciales de fuselaje ancho y en la mayoría de los de fuselaje estrecho, permitiendo operaciones en condiciones de niebla densa (CAT III) que de otro modo paralizarían los aeropuertos.
@@ -96,7 +94,6 @@ El aterrizaje automático del Trident en 1965 marcó el inicio de una transició
 La efeméride del 10 de junio de 1965 se conserva en el Heritage Centre de British Airways, cerca de Heathrow, donde se exhibe uno de los certificados originales entregados a los pasajeros. El Trident G-ARPR, tras servir con BEA y posteriormente con British Airways, fue retirado en septiembre de 1981 y vendido a Teesside Airport Authority para ser utilizado como entrenador de bomberos, siendo finalmente desguazado años después.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 <div class="references">
@@ -110,17 +107,15 @@ La efeméride del 10 de junio de 1965 se conserva en el Heritage Centre de Briti
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Existe una diferencia importante entre el «primer aterrizaje automático» en términos absolutos y el «primer aterrizaje automático en servicio comercial con pasajeros». El primero corresponde al Trident G-ARPB en RAE Bedford el 5 de marzo de 1964. El hito del 10 de junio de 1965 se refiere al primer vuelo regular con pasajeros de pago. Así mismo, algunas fuentes mencionan que la matrícula del avión fue G-ARPO, pero la documentación fotográfica y el registro histórico confirman que fue G-ARPR.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Time Magazine, Airways Magazine, London Air Travel, EnElAire, Wikipedia
+- **Timestamp de verificación:** 2026-09-07 12:02:22 CST
+- **Fuentes primarias/institucionales consultadas:** Time Magazine, Airways Magazine, London Air Travel, EnElAire, Wikipedia
 - **Discrepancias resueltas:** Confirmación de matrícula G-ARPR (no G-ARPO); distinción entre primer aterrizaje automático absoluto (RAE Bedford, 5 de marzo de 1964) y primer aterrizaje en servicio comercial con pasajeros (10 de junio de 1965).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

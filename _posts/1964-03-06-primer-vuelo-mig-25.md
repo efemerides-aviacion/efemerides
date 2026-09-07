@@ -15,12 +15,10 @@ image: 1964-03-06-primer-vuelo-mig-25.webp
   <figcaption class="post-caption">Ye-155R-1 (prototipo del MiG-25R) despegando en su primer vuelo, 6 de marzo de 1964. Fuente: Reddit/r/aviation.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 6 de marzo de 1964, el prototipo de reconocimiento Ye-155R-1 realizó el primer vuelo del que sería el MiG-25 "Foxbat", un interceptor soviético diseñado para contrarrestar las nuevas amenazas aéreas estadounidenses de gran altitud y velocidad. Construido principalmente en acero inoxidable para soportar el calor extremo, era capaz de alcanzar Mach 3 y estableció múltiples récords mundiales. Su aparición causó alarma en Occidente, acelerando el desarrollo del F-15 Eagle, pero el misterio sobre sus capacidades se resolvió en 1976 cuando un piloto soviético desertó con uno a Japón, revelando sus fortalezas y debilidades. Con 1,186 ejemplares construidos, el Foxbat se convirtió en un ícono de la Guerra Fría y precursor del MiG-31.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha del primer vuelo:** 6 de marzo de 1964  
@@ -45,6 +43,7 @@ El MiG-25 fue diseñado para soportar temperaturas extremas a Mach 3, sacrifican
 ### Entorno cultural
 Su aparición generó temor en Occidente, que lo consideró inicialmente un “súper caza” invencible.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - **1959–1963:** Desarrollo del proyecto Ye-155.  
 - **1964, 6 mar:** Primer vuelo del prototipo Ye-155R-1.  
@@ -53,9 +52,11 @@ Su aparición generó temor en Occidente, que lo consideró inicialmente un “s
 - **1976:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1976/09/06/desercion-viktor-belenko-mig25-foxbat.html" style="color: #315fea; text-decoration: none;">deserción de Viktor Belenko a Japón con un MiG-25</a>.  
 - **1977:** Récord absoluto de altitud: 37,650 m.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 El MiG-25 impulsó el desarrollo del F-15 Eagle en Estados Unidos y redefinió la percepción de la aviación soviética.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 Operó en fuerzas aéreas de Argelia, Siria, Irak e India, además de la URSS. Aunque la mayoría han sido retirados, su diseño dio origen al MiG-31 Foxhound.
 
@@ -72,14 +73,15 @@ Operó en fuerzas aéreas de Argelia, Siria, Irak e India, además de la URSS. A
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Algunas fuentes difieren sobre el lugar exacto del primer vuelo del MiG-25 (Zhukovsky vs. otras bases soviéticas). Además, el nombre del piloto del prototipo Ye-155R-1 no está confirmado en registros públicos. Se prioriza la información más aceptada por la historiografía soviética y occidental.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia EN/ES, SKYbrary, BAAA, National Interest, 19FortyFive  
+- **Timestamp de verificación:** 2026-09-07 12:02:22 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia EN/ES, SKYbrary, BAAA, National Interest, 19FortyFive  
 - **Discrepancias resueltas:** Lugar del primer vuelo y piloto [NO CONFIRMADO]  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

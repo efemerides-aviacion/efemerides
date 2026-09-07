@@ -14,16 +14,12 @@ image: 1969-07-20-alunizaje-apolo11.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-07-20-alunizaje-apolo11.webp" alt="Buzz Aldrin sobre la superficie lunar durante la misión Apolo 11, fotografiado por Neil Armstrong">
   <figcaption class="post-caption">Buzz Aldrin sobre la superficie lunar durante la misión Apolo 11, en una fotografía tomada por Neil Armstrong. En la visera del casco de Aldrin se reflejan Armstrong, el módulo lunar <em>Eagle</em> y la sombra del propio astronauta. Fuente: <a href="https://en.wikipedia.org/wiki/Apollo_11" style="color: #315fea; text-decoration: none;">Wikipedia en inglés</a>, a partir de imagen NASA.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 20 de julio de 1969, a las 20:17:40 UTC, el módulo lunar <em>Eagle</em> del Apolo 11 alunizó en el Mar de la Tranquilidad. Horas después, Neil Armstrong se convirtió en el primer ser humano en caminar sobre la Luna, seguido por Buzz Aldrin, mientras Michael Collins permanecía en órbita lunar a bordo del módulo de mando <em>Columbia</em>. La misión culminó el objetivo proclamado por John F. Kennedy en 1961 y simbolizó la victoria tecnológica y política de Estados Unidos en la carrera espacial. El regreso seguro del 24 de julio confirmó el éxito completo de la primera expedición tripulada a la superficie lunar.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Datos verificados del evento
 - **Fecha del alunizaje:** 20 de julio de 1969
 - **Hora del alunizaje:** 20:17:40 UTC
@@ -41,7 +37,6 @@ image: 1969-07-20-alunizaje-apolo11.webp
 - **Regreso a la Tierra:** 24 de julio de 1969, amerizaje en el océano Pacífico y recuperación por el USS <em>Hornet</em>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Contexto Histórico
 
 El Apolo 11 fue la culminación de una década de aceleración tecnológica y presión geopolítica. Estados Unidos y la Unión Soviética habían convertido el espacio en uno de los principales escenarios simbólicos de la Guerra Fría, donde cada lanzamiento, cada órbita y cada misión representaban también una afirmación de capacidad industrial, científica y militar.
@@ -56,7 +51,6 @@ El alunizaje fue posible gracias a la maduración de tecnologías desarrolladas 
 La Luna había sido durante siglos un objeto de contemplación, mito y especulación científica. El Apolo 11 transformó esa relación simbólica en presencia humana real. El célebre paso de Armstrong y la expresión de Aldrin, “magnífica desolación”, condensaron el asombro de una época que veía cómo la exploración espacial dejaba de ser una aspiración teórica para convertirse en experiencia vivida.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Desarrollo Cronológico
 
 La misión Apolo 11 se extendió durante ocho días y cada fase resultó crítica. El alunizaje del 20 de julio fue el momento central, pero su significado histórico depende también del lanzamiento, la inserción orbital, la actividad extravehicular y el retorno seguro a la Tierra.
@@ -75,7 +69,6 @@ La misión Apolo 11 se extendió durante ocho días y cada fase resultó crític
 - **24 de julio de 1969, 16:50 UTC:** amerizaje en el océano Pacífico y recuperación por el USS <em>Hornet</em>, culminando la primera misión tripulada a la Luna.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Consecuencias e Impacto
 
 El impacto del Apolo 11 fue inmediato y multidimensional. No se limitó al éxito de una misión espacial, sino que alteró la percepción mundial de los límites técnicos y del papel que la exploración podía desempeñar en la política internacional y en la cultura de masas.
@@ -86,7 +79,6 @@ El impacto del Apolo 11 fue inmediato y multidimensional. No se limitó al éxit
 - **Cambio en la percepción pública del espacio:** la exploración espacial dejó de ser vista como una promesa futura y pasó a ser una realidad tangible.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Legado
 
 El Apolo 11 permanece como uno de los hitos más importantes de la historia humana y tecnológica. Su legado trasciende la fotografía icónica, la bandera plantada o la frase de Armstrong. Mostró que una combinación sostenida de visión política, organización industrial, investigación científica y riesgo operativo podía alcanzar un objetivo que apenas unos años antes parecía inalcanzable.
@@ -94,7 +86,6 @@ El Apolo 11 permanece como uno de los hitos más importantes de la historia huma
 A largo plazo, la misión redefinió el estándar de las grandes empresas tecnológicas del siglo XX. También dejó una herencia material y cultural inmensa: el módulo de mando <em>Columbia</em> conservado por el Smithsonian, una enorme colección de muestras lunares, documentación técnica que sigue siendo estudiada y una memoria global compartida. El 20 de julio de 1969 fue el día del alunizaje; el 24 de julio, con el regreso seguro, se cerró por completo la primera misión tripulada que llevó seres humanos a la Luna y los devolvió a casa.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -108,16 +99,14 @@ A largo plazo, la misión redefinió el estándar de las grandes empresas tecnol
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Esta efeméride se centra en el alunizaje del 20 de julio de 1969 como hecho histórico principal, pero la misión Apolo 11 no concluyó ese día. Su éxito completo solo quedó sellado con el regreso seguro a la Tierra el 24 de julio de 1969, cuando la cápsula amerizó en el Pacífico y la tripulación fue recuperada por el USS <em>Hornet</em>.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** NASA, Smithsonian National Air and Space Museum, U.S. Capitol Visitor Center  
+- **Timestamp de verificación:** 2026-09-07 12:02:22 CST
+- **Fuentes primarias/institucionales consultadas:** NASA, Smithsonian National Air and Space Museum, U.S. Capitol Visitor Center  
 - **Fuentes secundarias de contraste:** Wikipedia (ES/EN), Historic Newspapers  
 - **Discrepancias resueltas:** Se distinguió el alunizaje del 20 de julio del cierre completo de la misión el 24 de julio; se armonizaron horas UTC y denominaciones de los módulos <em>Columbia</em> y <em>Eagle</em>  
 - **Nivel de confianza:** Alto  

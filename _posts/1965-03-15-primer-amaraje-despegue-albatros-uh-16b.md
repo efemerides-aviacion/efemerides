@@ -20,7 +20,6 @@ image: 1965-03-15-primer-amaraje-despegue-albatros-uh-16b.webp
 <p>El 15 de marzo de 1965, el Grumman UH-16B Albatross matrícula BS-03 de la Fuerza Aérea Argentina realizó el primer y único amaraje y despegue de este tipo de aeronave en la Antártida argentina, en una misión de apoyo vinculada a las operaciones antárticas de la institución. El aparato era el único de los tres Albatros argentinos configurado para operaciones anfibias en condiciones polares, lo que explica el carácter excepcional del hecho dentro del historial del modelo en el servicio argentino. Este episodio se inscribe en la etapa previa a la consolidación de la Base Marambio y en un período en que la Fuerza Aérea Argentina desarrollaba soluciones de enlace, rescate y exploración sobre hielo y superficies no preparadas como parte de su proyección antártica.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Fecha:** 15 de marzo de 1965
 - **Lugar:** Inmediaciones de la Base Antártica Teniente Matienzo, Antártida Argentina
@@ -29,7 +28,6 @@ image: 1965-03-15-primer-amaraje-despegue-albatros-uh-16b.webp
 - **Resultado inmediato:** Primer y único amaraje y despegue exitoso de un Albatross en la Antártida, consolidando la capacidad de la Fuerza Aérea Argentina para operar aeronaves anfibias en condiciones polares extremas
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 Durante la década de 1960, la presencia argentina en la Antártida experimentó una consolidación sostenida, tanto en el ámbito científico como en el logístico y militar. La Fuerza Aérea Argentina desempeñó un papel fundamental en este proceso, desarrollando capacidades operativas en uno de los entornos más hostiles del planeta.
@@ -43,6 +41,7 @@ La aviación anfibia y de exploración polar se encontraba en pleno desarrollo. 
 ### Entorno cultural
 En el ámbito castrense y aeronáutico argentino existía una fuerte tradición de exploración y sacrificio, heredada de los pioneros de la aviación polar. Las operaciones en la Antártida eran vistas como una prueba de temple y capacidad, y cada misión exitosa reforzaba el prestigio institucional de la Fuerza Aérea.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **1951:** La Fuerza Aérea Argentina comienza a estructurar operaciones aéreas sistemáticas de apoyo a la Antártida.
@@ -52,12 +51,14 @@ En el ámbito castrense y aeronáutico argentino existía una fuerte tradición 
 - **15 de marzo de 1965:** El BS-03 realiza el primer y único amaraje y despegue de un Albatross en la Antártida, en una misión de apoyo logístico desde la Base Matienzo. La operación se desarrolla sin incidentes, demostrando la viabilidad de emplear aeronaves anfibias en el entorno polar.
 - **Años posteriores:** La experiencia acumulada con el BS-03 y otras aeronaves contribuye al desarrollo de capacidades que culminarían con la consolidación de la Base Marambio y la operación regular de aviones de mayor porte en la Antártida.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 - **Demostración de capacidad:** La operación demostró que la Fuerza Aérea Argentina podía operar aeronaves anfibias en condiciones polares extremas, ampliando el abanico de opciones logísticas y de rescate en la Antártida.
 - **Aprendizaje operativo:** La misión del BS-03 proporcionó experiencia valiosa sobre el comportamiento de aeronaves anfibias en superficies heladas y aguas antárticas, conocimientos que serían aplicados en operaciones posteriores.
 - **Refuerzo de la presencia argentina:** Cada hito operativo como este contribuía a consolidar la presencia efectiva de Argentina en la Antártida, respaldando sus reclamaciones de soberanía con hechos concretos.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 El amaraje del BS-03 el 15 de marzo de 1965 permanece como un hito singular en la historia de la aviación antártica argentina. Ningún otro Albatross repetiría esta hazaña en el continente blanco, lo que confiere al hecho un carácter excepcional.
@@ -67,13 +68,11 @@ El amaraje del BS-03 el 15 de marzo de 1965 permanece como un hito singular en l
 - **Memoria institucional:** La Fuerza Aérea Argentina recuerda esta operación como ejemplo de la versatilidad y el temple de sus tripulaciones en el apoyo a la presencia nacional en la Antártida.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la terminología empleada:</strong> En la bibliografía aeronáutica argentina es posible encontrar el término <strong>"anevizaje"</strong> para describir la operación de posarse y despegar desde una superficie helada, derivado de la combinación de "aterrizaje" y "nieve". Sin embargo, para un público general hispanohablante, el término más comprensible y aceptado es <strong>"amaraje"</strong> (o su variante "amerizaje"), que designa la acción de posarse una aeronave sobre una superficie acuática. Dado que el Grumman UH-16B Albatross era un avión anfibio, diseñado para operar tanto en agua como en tierra, y que la maniobra de 1965 pudo haber tenido lugar sobre agua libre de hielo o sobre hielo (no hay certeza documental unánime), se ha optado por emplear en esta efeméride el término <strong>"amaraje"</strong> por su claridad y generalidad. Queda constancia de que algunas fuentes argentinas especializadas prefieren la voz "anevizaje" para referirse específicamente a este tipo de operaciones en el entorno antártico.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -87,11 +86,11 @@ El amaraje del BS-03 el 15 de marzo de 1965 permanece como un hito singular en l
     <li><a href="https://avionesenargentina.com/primer-y-unico-anevizaje-y-despegue-en-la-antartida-argentina__trashed/" style="color: #315fea; text-decoration: none;">Aviones en Argentina – Primer y único anevizaje y despegue en la Antártida Argentina</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 11:07:10 CST  
-- **Fuentes primarias consultadas:** Argentina.gob.ar, Fundación Marambio, Wikipedia (ES), El MUAN, AMILARG, Aviones en Argentina  
+- **Timestamp de verificación:** 2026-09-07 12:02:22 CST
+- **Fuentes primarias/institucionales consultadas:** Argentina.gob.ar, Fundación Marambio, Wikipedia (ES), El MUAN, AMILARG, Aviones en Argentina  
 - **Discrepancias resueltas:** Se aclaró en nota específica la diferencia terminológica entre "amaraje" y "anevizaje", optando por el primero por su claridad general, sin omitir la existencia del segundo en fuentes especializadas argentinas.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
