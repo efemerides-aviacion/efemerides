@@ -8,19 +8,16 @@ pais: Francia
 excerpt: "Escultor de formación, Ferdinand Delagrange se convirtió en uno de los pioneros más brillantes de la aviación mundial entre 1907 y 1910, reconocido por sus récords, elegancia y por haber sido el tercer piloto en recibir el brevet francés."
 image: 1872-03-13-nacimiento-ferdinand-marie-leon-delagrange.webp
 ---
-
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1872-03-13-nacimiento-ferdinand-marie-leon-delagrange.webp" alt="Léon Delagrange">
   <figcaption class="post-caption">Retrato de Ferdinand Marie Léon Delagrange hacia 1905-1907, en su etapa como escultor parisino: bigote, gorra astracán y traje tweed con pajarita, estilo "dandi volador" previo a su dedicación a la aviación. Fuente probable: archivo familiar o colección Musée de l'Air et de l'Espace / Le Bourget.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Ferdinand Marie Léon Delagrange nació el 13 de marzo de 1872 en Orléans, hijo de industriales textiles. Formado como escultor en la École des Beaux-Arts de París, obtuvo reconocimiento en los Salons con obras como <em>Livre d'Heures</em> (1903) y <em>Le Templier</em> (1905). En 1907 abandonó la escultura para dedicarse a la aviación, convirtiéndose en uno de los pilotos más destacados del mundo entre 1908 y 1909. Ostentó el brevet Nº 3, fue condecorado con la Légion d'Honneur y recibió la medalla de oro de la Académie des Sports. Falleció el 4 de enero de 1910 al estrellarse con un Blériot XI en Croix d'Hins, a los 37 años.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 13 de marzo de 1872
 - **Lugar de nacimiento:** Orléans, Francia
@@ -39,7 +36,6 @@ image: 1872-03-13-nacimiento-ferdinand-marie-leon-delagrange.webp
 - **Sepultura:** Orléans, Francia
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 Léon Delagrange vivió en una época de profundas transformaciones. La Francia de la Belle Époque combinaba el florecimiento de las artes con una explosión de innovaciones tecnológicas que cambiarían para siempre la movilidad humana: el automóvil, el dirigible y, finalmente, el avión.
 
@@ -52,6 +48,7 @@ La aviación daba sus primeros pasos. Tras los experimentos de Clément Ader (18
 ### Entorno cultural
 En el mundo del arte, el academicismo de la École des Beaux-Arts comenzaba a ser cuestionado por las vanguardias. Delagrange, formado en la tradición escultórica más clásica, representa el tránsito de una generación que, sin renunciar a sus raíces, abrazó con pasión la modernidad tecnológica. Su elegancia y su imagen de "dandi volador" encajaban perfectamente con el espíritu de una época que admiraba tanto la belleza como el riesgo.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 
 - **13 de marzo de 1872:** Nace en Orléans, en el seno de una familia de industriales textiles.
@@ -75,10 +72,12 @@ En el mundo del arte, el academicismo de la École des Beaux-Arts comenzaba a se
 - **4 de enero de 1910:** Durante una exhibición en Croix d'Hins, cerca de Burdeos, el ala de su Blériot XI se desploma en pleno vuelo. Delagrange fallece en el acto. Tenía 37 años.
 - **Enero de 1910:** Es sepultado en su Orléans natal, con honores.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 
 La muerte de Delagrange, a los 37 años y en la cima de su fama, conmocionó a Francia y al mundo de la aviación. Fue uno de los primeros pilotos célebres en fallecer en un accidente aéreo, y su trágico final puso de relieve los riesgos extremos que asumían aquellos pioneros. Su desaparición, apenas unos meses antes del primer gran meeting de Reims (agosto de 1910), privó a la aviación francesa de una de sus figuras más carismáticas.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
 Léon Delagrange ocupa un lugar destacado en la historia de la aviación por varias razones:
@@ -89,16 +88,14 @@ Léon Delagrange ocupa un lugar destacado en la historia de la aviación por var
 - **Impulsor de aviadoras:** Su relación con Thérèse Peltier y su trato con <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1882/08/22/nacimiento-raymonde-de-laroche-aviadora-pionera-francesa.html" style="color: #315fea; text-decoration: none;">Raymonde de Laroche, primera mujer del mundo con licencia de piloto el 8 de marzo de 1910</a>, contribuyeron a la incorporación de la mujer a la aviación desde sus inicios.
 - **Memorial:** En Croix d'Hins, lugar del accidente, existe un monumento en su memoria. Una calle de Orléans lleva su nombre.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <div class="note-box">
 <p><strong>Nota sobre la numeración de brevets y fechas:</strong> El brevet de piloto Nº 3 de Delagrange corresponde a la numeración retroactiva establecida por el Aéro-Club de France en 1910, que ordenó a los primeros pilotos según la fecha de sus primeras habilitaciones. Delagrange volaba desde 1907 y cumplía los requisitos para ser considerado el tercer piloto titulado de Francia, tras Louis Blériot (Nº 1) y Glenn Curtiss (Nº 2, aunque estadounidense, recibió su brevet en Francia).</p>
 
 <p><strong>Nota sobre relaciones personales:</strong> La posible paternidad de un hijo con Raymonde de Laroche (André) no está documentada en fuentes primarias y debe considerarse como una hipótesis no confirmada. Las biografías académicas de Delagrange se centran en su obra artística y su carrera aeronáutica, sin mencionar descendencia legítima.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -117,11 +114,11 @@ Léon Delagrange ocupa un lugar destacado en la historia de la aviación por var
     <li><a href="https://www.cpa-bastille91.com/lhistoire-de-laviation-de-ader-a-1910-le-bleriot-de-delagrange/" style="color: #315fea; text-decoration: none;">CPA Bastille – Vida industrial, ateliers</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 14:52:48 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN/FR), Early Aviators, HistoryNet, The First Air Races, Air Racing History, Aviatechno, Monash University, Invisible Bordeaux, CPA Bastille  
+- **Timestamp de verificación:** 2026-09-07 09:42:34 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN/FR), Early Aviators, HistoryNet, The First Air Races, Air Racing History, Aviatechno, Monash University, Invisible Bordeaux, CPA Bastille  
 - **Discrepancias resueltas:** Se documentó la diferencia entre la fecha de obtención del brevet (1909) y su numeración retroactiva (1910); se aclaró la hipótesis no confirmada sobre posible descendencia con Raymonde de Laroche  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

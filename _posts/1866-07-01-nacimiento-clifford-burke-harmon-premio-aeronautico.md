@@ -10,21 +10,16 @@ excerpt: "El 1 de julio de 1866 nació Clifford Burke Harmon, pionero de la avia
 image: 1866-07-01-nacimiento-clifford-burke-harmon-premio-aeronautico.webp
 
 ---
-
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1866-07-01-nacimiento-clifford-burke-harmon-premio-aeronautico.webp" alt="Retrato de Clifford Burke Harmon">
   <figcaption class="post-caption">Clifford Burke Harmon (1866‑1945), pionero de los premios aeronáuticos internacionales, retratado junto al Harmon International Trophy, instituido por él en 1926; fuente: Succession Clifford B. Harmon / Alchetron / Smithsonian National Air and Space Museum.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 1 de julio de 1866, nació en Urbana, Ohio, Clifford Burke Harmon, pionero de la aviación estadounidense, destacado aeronauta y filántropo que pasaría a la posteridad por fundar los prestigiosos Trofeos Harmon. Tras amasar una inmensa fortuna como promotor inmobiliario en Nueva York, Harmon dedicó su vida a la aeronáutica, convirtiéndose en el primer aviador amateur certificado de su país en 1910 y logrando récords de resistencia en globo y biplano. En 1926, estableció una serie de trofeos internacionales destinados a premiar las hazañas más sobresalientes de pilotos en todo el mundo, promoviendo la fraternidad internacional y la paz global. Su legado continúa vivo a través de estos prestigiosos premios, administrados hoy por la National Aeronautic Association de los Estados Unidos.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Fecha de fallecimiento:** 25 de junio de 1945 (78 años) en Cannes, Francia
 - **Récord de aviador aficionado:** Primer piloto amateur estadounidense en obtener el certificado de vuelo número 6 del Aero Club de América en 1910 (las primeras cinco licencias se otorgaron a profesionales de la aviación)
@@ -36,7 +31,6 @@ image: 1866-07-01-nacimiento-clifford-burke-harmon-premio-aeronautico.webp
 - **Iniciativa por la paz internacional:** Intento de creación de una fuerza aérea pacifista internacional ante la Sociedad de las Naciones llamada «Alas de Plata de la Paz» (*Silver Wings of Peace*)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 A finales del siglo XIX y principios del XX, el desarrollo de la aeronáutica se encontraba en una fase experimental y aristocrática, impulsada por personas ricas con espíritu de aventura. Antes de que el avión se consolidara como una herramienta militar y comercial estable, las demostraciones aéreas y los vuelos deportivos de exhibición eran la única vía para financiar y perfeccionar esta nueva tecnología.
@@ -50,6 +44,7 @@ En el plano técnico, los aeroplanos de la década de 1910 eran estructuras frá
 ### Entorno cultural
 La cultura de la época encumbró la figura del aviador como la encarnación suprema del pionero moderno, un héroe de la técnica y la audacia individual. En este ambiente cosmopolita, se consideraba que el desarrollo de los cielos debía servir como un puente de fraternidad universal entre las naciones, lo que motivó a filántropos como Harmon a instituir galardones internacionales para unir a los pueblos.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 
 La vida de Clifford B. Harmon entrelazó de manera brillante los negocios de la urbanización moderna con su apasionado compromiso por el progreso de la aviación. A continuación, se detallan los hitos cronológicos más destacados de su biografía:
@@ -63,6 +58,7 @@ La vida de Clifford B. Harmon entrelazó de manera brillante los negocios de la 
 - **1926:** Establece formalmente los Trofeos Harmon (*Harmon Trophies*), los cuales se consolidan de inmediato como los premios internacionales de mayor prestigio en la aviación civil.
 - **25 de junio de 1945:** Fallece en Cannes, Francia, a los 78 años, disponiendo en su testamento de un fondo fiduciario millonario para garantizar la continuidad y el financiamiento perpetuo de sus trofeos.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 
 La visión filantrópica de Clifford B. Harmon y la creación de sus trofeos internacionales en 1926 tuvieron un profundo impacto en la profesionalización de la aviación y en el reconocimiento de la pericia de pilotaje. Su legado impulsó la excelencia en la cabina y sirvió como un estímulo fundamental para los aviadores del siglo XX.
@@ -72,6 +68,7 @@ La visión filantrópica de Clifford B. Harmon y la creación de sus trofeos int
 - **Consolidación de las misiones espaciales:** La incorporación de la categoría de *Astronauta* en 1969 por parte de los administradores del fideicomiso expandió la influencia del premio hacia la era espacial, reconociendo misiones históricas como la de Gordon Cooper a bordo de la nave Mercury y los posteriores hitos del programa Apolo.
 - **Promoción de la fraternidad internacional:** La *Ligue Internationale des Aviateurs* funcionó como una de las primeras casas de registro aeronáutico transnacional, ayudando a los pilotos a compartir datos meteorológicos, informes de accidentes y normas de seguridad en los inicios del transporte aéreo comercial.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
 A más de ochenta años de su fallecimiento, el nombre de Clifford B. Harmon permanece indisolublemente unido a los hitos de mayor prestigio en la historia de la navegación aérea mundial. Su idealismo pacífico y su pasión por el vuelo continúan inspirando a las nuevas generaciones de aeronautas.
@@ -81,7 +78,6 @@ A más de ochenta años de su fallecimiento, el nombre de Clifford B. Harmon per
 - **La memoria del pionero amateur:** Harmon es celebrado en las salas de historia del Smithsonian National Air and Space Museum y en los anales del Aero Club de América como el pionero aficionado más entusiasta de la aviación del mundo (*world's most air-minded amateur*), demostrando que la pasión y la filantropía privada eran capaces de impulsar el desarrollo de una ciencia de vanguardia mundial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -92,20 +88,18 @@ A más de ochenta años de su fallecimiento, el nombre de Clifford B. Harmon per
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Se ha determinado fechar esta efeméride el <strong>1 de julio de 1866</strong> por rigurosidad científica e histórica, de conformidad con los registros civiles y conmemorativos de la National Aeronautic Association de los Estados Unidos. El nacimiento del pionero de la aviación Clifford Burke Harmon se produjo el 1 de julio de 1866 en Urbana, Ohio, siendo esta la fecha históricamente verídica para su conmemoración.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
 
 Para asegurar la rigurosidad biográfica y el control técnico de los datos presentados sobre la vida de Clifford B. Harmon, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Base de datos histórica del National Aeronautic Association (NAA), archivos históricos del Aero Club de América, registros de patentes y biografías de los primeros aviadores estadounidenses de Early Aviators, y archivos notariales de la Ligue Internationale des Aviateurs de París
+- **Timestamp de verificación:** 2026-09-07 09:42:34 CST
+- **Fuentes primarias/institucionales consultadas:** Base de datos histórica del National Aeronautic Association (NAA), archivos históricos del Aero Club de América, registros de patentes y biografías de los primeros aviadores estadounidenses de Early Aviators, y archivos notariales de la Ligue Internationale des Aviateurs de París
 - **Discrepancias resueltas:** Se validó que su licencia del Aero Club de América fue la número 6, consagrándose como la primera otorgada a un piloto de carácter enteramente amateur en la historia de los Estados Unidos.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

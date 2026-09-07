@@ -9,22 +9,17 @@ operator: Corte de Juan V de Portugal
 excerpt: "Bartolomeu Lourenço de Gusmão cerró ante la corte de Lisboa la primera serie documentada de ascensiones de globos de aire caliente."
 image: 1709-08-08-primer-aerostato-de-la-historia.webp
 ---
-
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1709-08-08-primer-aerostato-de-la-historia.webp" alt="Pintura de una sala palaciega dieciochesca con la corte portuguesa sentada y de pie; a la derecha, un sacerdote de sotana negra observa un pequeño globo suspendido en el aire cerca del techo">
   <figcaption class="post-caption">Recreación pictórica de la presentación del aeróstato de Bartolomeu Lourenço de Gusmão ante la corte de Juan V de Portugal, en Lisboa. Óleo de Bernardino de Souza Pereira, acervo del Museu Paulista de la Universidad de São Paulo. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Bartolomeu_de_Gusmao_presenting_his_invention_to_the_Court_of_John_V.PNG" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 8 de agosto de 1709, en dependencias de la Casa da Índia de Lisboa, el sacerdote luso-brasileño Bartolomeu Lourenço de Gusmão hizo elevarse un pequeño globo de papel calentado por una llama ante el rey Juan V de Portugal, la reina María Ana de Austria, el nuncio apostólico Michelangelo Conti —futuro papa Inocencio XIII— y buena parte del cuerpo diplomático acreditado en la corte. El artefacto ascendió hasta el techo de la sala, se mantuvo suspendido y descendió sin incidentes.</p>
 <p>Fue la última y más lograda de una serie de pruebas realizadas aquel mes de agosto, y la que quedó fijada como fecha fundacional de la aerostación. Setenta y cuatro años antes de que los hermanos Montgolfier repitieran el principio en Annonay, Gusmão había demostrado en público que un ingenio construido por el hombre podía sostenerse en el aire por el solo efecto de la diferencia de densidades. No llegó a construir la máquina tripulada que había prometido al rey, y su nombre desapareció de la historia de la aeronáutica durante más de un siglo.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha:** 8 de agosto de 1709.
@@ -42,7 +37,6 @@ image: 1709-08-08-primer-aerostato-de-la-historia.webp
 - **Obra escrita:** *Manifesto sumário para os que ignoram poder-se navegar pelo elemento do ar*, publicado en 1709.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 La experiencia de 1709 no ocurrió en un laboratorio, sino en el salón de un palacio, y esa circunstancia explica tanto su repercusión inmediata como su posterior olvido.
@@ -66,7 +60,6 @@ El público que asistió a la demostración no disponía de un marco para interp
 La iconografía hizo el resto. El dibujo de la *Passarola* —una embarcación con alas, timón, velas y esferas magnéticas— fue elaborado deliberadamente para despistar a los curiosos y atribuir la ascensión al magnetismo, entonces explicación universal de lo inexplicable. La estampa se copió en toda Europa y terminó sustituyendo al hecho: durante generaciones, Gusmão fue recordado por una máquina absurda que nunca existió, y no por el globo de papel que sí voló.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 La secuencia abarca desde la solicitud del privilegio real hasta la última ascensión documentada del año.
@@ -83,7 +76,6 @@ La secuencia abarca desde la solicitud del privilegio real hasta la última asce
 - **1710 en adelante:** Gusmão no vuelve a ensayar en público. Se dedica a la enseñanza, a la diplomacia y a la criptografía al servicio de la Corona.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 El efecto inmediato de la demostración fue de prestigio personal, no de desarrollo técnico.
@@ -95,7 +87,6 @@ La transmisión del hallazgo se produjo por el canal equivocado. Lo que viajó p
 El final de Gusmão contribuyó al olvido. Investigado por el Santo Oficio por motivos ajenos a sus experimentos, huyó de Portugal en septiembre de 1724 y murió en Toledo, en el Hospital de la Misericordia, el 18 de noviembre de aquel mismo año, a los treinta y ocho. Antes de partir destruyó sus papeles. La ausencia de manuscritos autógrafos sobre la máquina voladora es la razón principal de que, durante generaciones, buena parte de la historiografía aeronáutica prefiriera ignorarlo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 La recuperación de Gusmão fue lenta y llegó primero por vía documental.
@@ -111,7 +102,6 @@ La cuestión de fondo sigue siendo la misma que en 1709. La <a href="https://efe
 Queda, con todo, una línea que sí llega hasta hoy. El primer brasileño que voló lo hizo en un salón de Lisboa con un globo de papel; casi dos siglos después, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1873/07/20/nacimiento-alberto-santos-dumont.html" style="color: #315fea; text-decoration: none;">Alberto Santos Dumont</a> retomó en París el problema que Gusmão había dejado sin resolver: no elevarse, sino dirigir el vuelo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 - <a href="https://purl.pt/706" style="color: #315fea; text-decoration: none;">Biblioteca Nacional de Portugal: reproducción facsimilar del dibujo, la descripción y la petición de Gusmão a Juan V (1709), edición de 1917</a>
@@ -130,11 +120,11 @@ Queda, con todo, una línea que sí llega hasta hoy. El primer brasileño que vo
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes solventes divergen en varios puntos de esta efeméride. Sobre el emplazamiento exacto del 8 de agosto, unas sitúan la ascensión en la Sala de los Embajadores de la Casa da Índia y otras en el patio del mismo edificio o en la Sala de Audiencias del Palacio Real; la Casa da Índia formaba parte del complejo del Paço da Ribeira, destruido por el terremoto de 1755, lo que dificulta la precisión topográfica. Sobre el número de pruebas, las relaciones más detalladas describen hasta cinco experiencias en agosto de 1709, mientras que las síntesis divulgativas resumen la secuencia en tres. Sobre la condición del protagonista, es frecuente que se le llame jesuita: ingresó en la Compañía de Jesús en 1699 y la abandonó en 1701, antes de ordenarse, de modo que en 1709 era presbítero secular. Sobre su edad, buena parte de la bibliografía le atribuye veinticuatro años en el momento de la demostración; nacido en diciembre de 1685, tenía veintitrés. La fecha de su muerte se consigna como 18 o 19 de noviembre de 1724 según la fuente. Debe señalarse asimismo que algunas publicaciones describen el experimento como la prueba de que «un objeto más pesado que el aire podía volar», formulación errónea: lo demostrado fue exactamente lo contrario, la sustentación de un ingenio más ligero que el aire. La imagen que ilustra esta efeméride es una recreación pictórica del siglo XX, no un documento gráfico contemporáneo de los hechos, y su valor es ilustrativo.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 09:42:34 CST
 - **Fuentes primarias/institucionales consultadas:** Biblioteca Nacional de Portugal, reproducción facsimilar de la petición y el dibujo remitidos a Juan V, hallados en los archivos vaticanos; Smithsonian National Air and Space Museum, ficha de la estampa dieciochesca de la máquina voladora; British Balloon Museum and Library; Academia Paulista de Letras y Conselho de Cidadania Luso-Brasileiro.
 - **Fuentes secundarias de contraste:** Revista Pesquisa FAPESP; portal História da Força Aérea Brasileira; dossier documental de Novo Milênio; Wikipedia en portugués e inglés, con referencia a la *História Geral da Aeronáutica Brasileira* del INCAER.
 - **Discrepancias resueltas:** se consignó la divergencia entre las fuentes sobre el emplazamiento exacto de la ascensión del 8 de agosto y sobre el número total de ensayos realizados aquel mes; se precisó la condición de presbítero secular frente a la atribución habitual de jesuita; se corrigió la edad del protagonista en 1709; se registró la doble fecha de su fallecimiento; se descartó la formulación de algunas publicaciones según la cual se habría demostrado el vuelo de un objeto más pesado que el aire; se identificó como leyenda de origen tardío la persecución inquisitorial por los experimentos aerostáticos, atribuible a un artículo londinense de 1786, frente a la denuncia real de 1724 por un cargo distinto.

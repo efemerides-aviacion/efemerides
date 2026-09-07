@@ -9,23 +9,18 @@ operator:
 excerpt: "El 12 de junio de 1865 nació en Washington D.C. Emma Lilian Todd, una inventora autodidacta que, según The New York Times de 1909, fue la primera mujer en el mundo en diseñar aviones. Su biplano voló en 1910 y fundó el primer Junior Aero Club de Estados Unidos."
 image: 1865-06-12-nacimiento-emma-lilian-todd-disenadora-de-aviones.webp
 ---
-
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1865-06-12-nacimiento-emma-lilian-todd-disenadora-de-aviones.webp" alt="Retrato de Emma Lilian Todd, pionera de la aviación">
   <figcaption class="post-caption">Retrato de la diseñadora estadounidense Emma Lilian Todd, pionera de la aviación y creadora del Todd Airplane, nacida el 12 de junio de 1865; fotografía de época circa finales del siglo XIX, fuente: Find a Grave / Gallica‑BNF.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Emma Lilian Todd nació el 12 de junio de 1865 en Washington D.C. y se convirtió en una figura pionera de la aviación en una época en que las mujeres tenían vetado el acceso a la ingeniería y al pilotaje. Autodidacta, trabajó en la Oficina de Patentes de Estados Unidos, donde aprendió los secretos de las invenciones mecánicas. En 1906 presentó su primer diseño aeronáutico en el Madison Square Garden, captando la atención de la filántropa Olivia Sage, quien le donó 7.000 dólares para construir su avión.</p>
 
 <p>El 28 de noviembre de 1909, The New York Times la identificó como «la primera mujer en el mundo en diseñar aviones». Su biplano, construido por los hermanos Wittemann, fue probado el 7 de noviembre de 1910 por el piloto Didier Masson, realizando un salto motorizado de 6,1 metros. Todd quiso pilotarlo ella misma, pero se le negó el permiso por razones de género. También fundó el primer Junior Aero Club de Estados Unidos en 1908 para fomentar la educación aeronáutica entre los jóvenes. Falleció el 26 de septiembre de 1937 en Pasadena, California, a los 72 años, y su legado ha sido rescatado en el siglo XXI a través de libros infantiles como «Wood, Wire, Wings» (2020).</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 
 - **Nombre completo:** Emma Lilian Todd (también conocida como E. Lilian Todd o Lily Todd) 
@@ -45,7 +40,6 @@ image: 1865-06-12-nacimiento-emma-lilian-todd-disenadora-de-aviones.webp
 - **Estado civil:** No se casó, no tuvo hijos 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 A finales del siglo XIX y principios del XX, la aviación era un campo dominado exclusivamente por hombres. Las pioneras que intentaron abrirse paso enfrentaron barreras legales, sociales y culturales que les impedían, entre otras cosas, obtener licencias de piloto. En este contexto adverso, Emma Lilian Todd logró destacar como diseñadora aeronáutica, un rol técnico que la sociedad victoriana consideraba «inapropiado» para una mujer.
@@ -69,7 +63,6 @@ El público seguía con fascinación los progresos de la aviación. Las exposici
 A pesar de los obstáculos, surgieron figuras femeninas en la aviación: <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1882/08/22/nacimiento-raymonde-de-laroche-aviadora-pionera-francesa.html" style="color: #315fea; text-decoration: none;">la francesa Raymonde de Laroche obtuvo el 8 de marzo de 1910 la primera licencia de piloto concedida a una mujer en el mundo</a>. Sin embargo, en Estados Unidos, Todd no pudo obtener permiso para volar su propia creación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Desarrollo Cronológico
 
 La siguiente cronología sigue la vida y los hitos de Emma Lilian Todd, desde su infancia en Washington D.C. hasta el vuelo de su biplano en 1910 y su posterior retiro de la aeronáutica.
@@ -120,7 +113,6 @@ La siguiente cronología sigue la vida y los hitos de Emma Lilian Todd, desde su
 - **1938 (8 de junio):** Sus cenizas son enviadas a Nueva York y enterradas a los pies de Anne Rhodes en el cementerio Moravian de New Dorp, Staten Island 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Consecuencias e Impacto
 
 El legado de Emma Lilian Todd tuvo repercusiones inmediatas y duraderas en varios ámbitos de la aviación y la educación técnica.
@@ -140,7 +132,6 @@ El club enseñaba construcción de cometas, planeadores, hélices, modelos de av
 La denegación del permiso de vuelo a Todd evidencia las barreras sistemáticas que enfrentaron las mujeres pioneras en la aviación. Su caso se suma al de otras contemporáneas: en Estados Unidos, Harriet Quimby no obtuvo su licencia hasta 1911 (Consulte la efeméride <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1875/05/11/nacimiento-de-harriet-quimby-licencia-piloto.html" style="color: #315fea; text-decoration: none;">Nacimiento de Harriet Quimby, primera mujer piloto de EE. UU.</a> para más detalles), y Blanche Stuart Scott voló por primera vez en 1910 pero nunca recibió licencia oficial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Legado
 
 Durante décadas, Emma Lilian Todd fue una figura olvidada de la historia de la aviación. A diferencia de Amelia Earhart o las primeras aviadoras, su nombre apenas aparecía en los libros de texto. Sin embargo, en el siglo XXI ha comenzado un proceso de redescubrimiento.
@@ -164,7 +155,6 @@ Organizaciones como la Institution of Engineering and Technology (IET) y la Acad
 Aunque su avión solo logró un salto de 6 metros, Todd demostró que las mujeres podían diseñar máquinas voladoras en una época en que ni siquiera se les permitía pilotarlas. Su legado no está en la distancia recorrida, sino en el camino abierto.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 
 <div class="references">
@@ -178,17 +168,16 @@ Aunque su avión solo logró un salto de 6 metros, Todd demostró que las mujere
   </ul>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Existe una pequeña discrepancia entre fuentes sobre el año exacto de inicio de sus diseños aeronáuticos: algunas fuentes citan 1903, otras 1906. El artículo de The New York Times de 1909 menciona «los últimos tres años» como período de estudio aeronáutico, lo que apunta a 1906 como el año en que comenzó a diseñar aeroplanos, aunque su interés por «juguetes mecánicos y aeronáuticos» data de 1903. El nombre aparece indistintamente como Emma Lilian Todd, E. Lilian Todd o Lily Todd. El lugar exacto de sepultura en el cementerio Moravian de Nueva York está documentado pero no señalizado.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 14:52:48 CST
-- **Fuentes primarias consultadas:** Wikipedia (EN), Early Aviators, AMA History Project, The New York Times (1909), IET, AeroTime
+- **Timestamp de verificación:** 2026-09-07 09:42:34 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), Early Aviators, AMA History Project, The New York Times (1909), IET, AeroTime
 - **Discrepancias resueltas:** La fecha de nacimiento (12 de junio) es consistente en todas las fuentes; el año de inicio del diseño se presenta como «1906 o antes» para reflejar la discrepancia documentada; se ha verificado el vuelo de 1910 como un «salto motorizado de 20 pies» en lugar de «vuelo sostenido».
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

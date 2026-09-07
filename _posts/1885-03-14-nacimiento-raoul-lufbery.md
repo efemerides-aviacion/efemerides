@@ -10,19 +10,16 @@ image: 1885-03-14-nacimiento-raoul-lufbery.webp
 redirect_from:
   - /nacimiento/1885/03/14/raoul-lufbery.html
 ---
-
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1885-03-14-nacimiento-raoul-lufbery.webp" alt="Raoul Lufbery">
   <figcaption class="post-caption">Subteniente Raoul Lufbery, circa 1917. Porta insignia de piloto, Legión de Honor, Medalla Militar y Cruz de Guerra (1 plata, 3 bronce) junto a SPAD S.VII C.1 de SPA 124 "La Fayette". (Capt. Robert Soubiran/Biblioteca del Congreso LC-USZ62-101970)</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Raoul Lufbery (14 de marzo de 1885 – 19 de mayo de 1918) fue un aviador franco-estadounidense y uno de los primeros grandes ases de la Primera Guerra Mundial, especialmente vinculado a la Escadrille Lafayette. Con 17 victorias confirmadas, se le considera el primer as estadounidense, aunque la mayoría de sus combates los libró bajo bandera francesa. En 1917 pasó al U.S. Army Air Service como mayor, entrenando a futuros ases como Eddie Rickenbacker. Murió en combate al saltar de su Nieuport 28 incendiado sobre Francia, y su figura es recordada como pionero de la aviación militar de Estados Unidos y Francia.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 14 de marzo de 1885
 - **Lugar de nacimiento:** Chamalières, Puy-de-Dôme, Francia
@@ -45,7 +42,6 @@ redirect_from:
 - **Lugar de sepultura:** Memorial de la Escadrille Lafayette, Marnes-la-Coquette, cerca de Versalles, Francia
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 Raoul Lufbery vivió en una época de transición entre el fin del siglo XIX y la Primera Guerra Mundial, un período que vio el nacimiento de la aviación y su rápida transformación en arma de guerra. Su vida itinerante y su doble herencia cultural lo sitúan como un puente entre Europa y América en los albores de la aviación militar.
 
@@ -58,6 +54,7 @@ La aviación daba sus primeros pasos. Los hermanos Wright volaron en 1903, y par
 ### Entorno cultural
 La figura del aviador adquirió un halo romántico y heroico desde los primeros tiempos. Los pioneros eran celebrados como artistas del aire. Durante la guerra, los ases de caza (Guynemer, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1894/03/27/nacimiento-rene-paul-fonck-as-primera-guerra-mundial.html" style="color: #315fea; text-decoration: none;">Fonck</a>, Richthofen) se convirtieron en héroes nacionales, y sus hazañas eran seguidas con pasión por la prensa. La Escadrille Lafayette, integrada por voluntarios estadounidenses antes de la entrada de EE.UU. en la guerra, tuvo un enorme valor simbólico y propagandístico.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 
 - **14 de marzo de 1885:** Nace en Chamalières, Francia, hijo de padre estadounidense y madre francesa.
@@ -79,6 +76,7 @@ La figura del aviador adquirió un halo romántico y heroico desde los primeros 
 - **19 de mayo de 1918:** Durante un combate cerca de Maron, Francia, su Nieuport 28 es alcanzado y se incendia. Sin paracaídas, Lufbery se lanza al vacío desde unos 200 metros de altura y fallece en el acto. Tenía 33 años.
 - **Post mortem:** Es enterrado con honores. Posteriormente, sus restos son trasladados al memorial de la Escadrille Lafayette en Marnes-la-Coquette, donde descansa junto a otros miembros de la unidad.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 
 La muerte de Lufbery, en la cima de su fama, conmocionó a la aviación aliada. Fue uno de los primeros grandes ases en caer en combate, y su pérdida se sintió profundamente tanto en Francia como en Estados Unidos.
@@ -88,6 +86,7 @@ La muerte de Lufbery, en la cima de su fama, conmocionó a la aviación aliada. 
 - **Símbolo de la cooperación franco-estadounidense:** Encarnó la alianza entre ambas naciones en los cielos de la Gran Guerra.
 - **Legado táctico:** Su experiencia en combate y sus técnicas de pilotaje influyeron en las tácticas de caza estadounidenses.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
 Raoul Lufbery ocupa un lugar de honor en la historia de la aviación militar:
@@ -99,8 +98,6 @@ Raoul Lufbery ocupa un lugar de honor en la historia de la aviación militar:
 - **Memoriales:** El monumento a la Escadrille Lafayette en Marnes-la-Coquette incluye su tumba y es lugar de peregrinación para los amantes de la historia de la aviación.
 - **Museo Nacional de la USAF:** Exhibe objetos y documentación sobre su carrera, destacando su papel como pionero.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <div class="note-box">
 <p><strong>Nota sobre la nacionalidad de Lufbery:</strong> Aunque nació en Francia de padre estadounidense (lo que le otorgaba doble nacionalidad por derecho de sangre), Lufbery renunció a su nacionalidad francesa en 1905 para evitar el servicio militar obligatorio. Por ello, cuando llegó a Estados Unidos en 1907, era ciudadano estadounidense (por su padre) pero ya no francés. Su servicio en el Ejército de EE.UU. (1907-1909) consolidó legalmente esta ciudadanía, y fue como estadounidense que en 1914 se alistó en la Legión Extranjera Francesa. Esta es la razón por la que algunas fuentes indican que "obtuvo" la ciudadanía en ese período, cuando en realidad la recuperó o reactivó tras haber renunciado a la francesa.</p>
 
@@ -108,7 +105,9 @@ Raoul Lufbery ocupa un lugar de honor en la historia de la aviación militar:
 
 <p><strong>Nota sobre su fallecimiento:</strong> La causa exacta de su muerte ha sido objeto de debate. La versión más aceptada es que saltó de su avión en llamas sin paracaídas (los aviones de la época no llevaban), pero algunas fuentes sugieren que pudo haber sido alcanzado por fuego enemigo antes del salto. Los testigos presenciales confirmaron que el avión se incendió y Lufbery se lanzó al vacío desde baja altura, falleciendo por el impacto.</p>
 </div>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -124,11 +123,11 @@ Raoul Lufbery ocupa un lugar de honor en la historia de la aviación militar:
     <li><a href="https://www.imdb.com/title/tt9612232/" style="color: #315fea; text-decoration: none;">IMDb – Major Raoul Lufbery: Fighter Ace (2018)</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 11:07:10 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), National Museum of the USAF, Connecticut History, This Day in Aviation, National Aviation Hall of Fame, Purple Heart Mission, Badass of the Week  
+- **Timestamp de verificación:** 2026-09-07 09:42:34 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), National Museum of the USAF, Connecticut History, This Day in Aviation, National Aviation Hall of Fame, Purple Heart Mission, Badass of the Week  
 - **Discrepancias resueltas:** Se documentó la diferencia entre victorias confirmadas (17) y posibles victorias no confirmadas; se aclaró la doble nacionalidad y su consideración como primer as estadounidense; se añadió nota sobre las circunstancias de su muerte.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
