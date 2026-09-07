@@ -14,17 +14,13 @@ image: 1997-08-06-accidente-korean-air-vuelo-801.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1997-08-06-accidente-korean-air-vuelo-801.webp" alt="El Boeing 747-300 de Korean Air matrícula HL7468 rodando por la plataforma de un aeropuerto, con la librea azul celeste de la compañía y el emblema del taeguk en la deriva">
   <figcaption class="post-caption">Imagen anterior al hecho recordado: el Boeing 747-3B5 de Korean Air matrícula HL7468, la aeronave siniestrada, fotografiada entre 1996 y 1997. Fuente: <a href="https://commons.wikimedia.org/wiki/File:KOREAN_AIR_Boeing_747-3B5_(HL7468_22487_605)_(5687222614)_(cropped).jpg" style="color: #315fea; text-decoration: none;">contri, vía Wikimedia Commons, CC BY-SA 2.0</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>A las 01:42 de la madrugada del 6 de agosto de 1997, hora local de Guam, el vuelo 801 de Korean Air impactó contra la ladera de Bijia Peak, al sur de Nimitz Hill, a unos seis kilómetros del aeropuerto internacional Antonio B. Won Pat. El Boeing 747-300 matrícula HL7468 realizaba una aproximación de no precisión a la pista 06 izquierda, bajo lluvia intensa y con la senda de planeo del sistema de aterrizaje instrumental fuera de servicio.</p>
 <p>De las 254 personas a bordo murieron 228. Sobrevivieron veintitrés pasajeros y tres auxiliares de vuelo, todos con heridas graves. La Junta Nacional de Seguridad en el Transporte estadounidense atribuyó el accidente a la deficiente preparación y ejecución de la aproximación por parte del comandante, y a que el primer oficial y el mecánico de vuelo no supervisaron con eficacia su actuación. Como factores contribuyentes señaló la fatiga del comandante, la instrucción inadecuada de la compañía y la inhibición deliberada, por parte de la administración aeronáutica estadounidense, del sistema de alerta de altitud mínima de seguridad en Guam.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Datos verificados del evento
 
 - **Fecha y hora:** 6 de agosto de 1997, 01:42:26 hora local de Guam. La grabadora de voz de cabina se detuvo a las 01:42:32.
@@ -48,7 +44,6 @@ image: 1997-08-06-accidente-korean-air-vuelo-801.webp
 - **Informe oficial:** NTSB/AAR-00/01, de la Junta Nacional de Seguridad en el Transporte de Estados Unidos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Contexto Histórico
 
 El accidente no se explica por un fallo mecánico. La aeronave respondía con normalidad y el piloto automático ejecutaba con precisión las órdenes que recibía. El problema estaba en las órdenes.
@@ -66,7 +61,6 @@ La pista 06 izquierda de Guam contaba con sistema de aterrizaje instrumental, pe
 En 1997 la gestión de recursos de cabina llevaba casi dos décadas incorporada a la formación de las grandes compañías occidentales, pero su implantación distaba de ser uniforme. La disciplina había nacido precisamente del análisis de accidentes en los que tripulaciones técnicamente competentes se habían estrellado por fallos de comunicación y de reparto de tareas, desde <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1977/03/27/colision-dos-b747-los-rodeos.html" style="color: #315fea; text-decoration: none;">la colisión de Los Rodeos en 1977</a> hasta <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1980/04/25/accidente-vuelo-1008-dan-air.html" style="color: #315fea; text-decoration: none;">el impacto contra el terreno del vuelo 1008 de Dan-Air en Tenerife, tres años después</a>. Guam volvió a plantear la misma cuestión con una crudeza difícil de eludir, y lo hizo además con una grabación de cabina en la que la secuencia de dudas, silencios y advertencias tibias quedó registrada minuto a minuto.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Desarrollo Cronológico
 
 Las horas corresponden al huso local de Guam. El vuelo transcurrió sin incidencias hasta el inicio del descenso.
@@ -88,7 +82,6 @@ Las horas corresponden al huso local de Guam. El vuelo transcurrió sin incidenc
 - **Tras el impacto:** una tubería de combustible destruida bloquea el acceso por carretera. Unidades de construcción de la Armada estadounidense son las primeras en llegar y emplean excavadoras para abrir el fuselaje en llamas. El gobernador Carl Gutiérrez participa personalmente en el rescate de una niña japonesa de once años, Rika Matsuda, atrapada bajo el equipaje.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Consecuencias e Impacto
 
 La investigación reconstruyó una cadena de fallos en la que ningún eslabón, por sí solo, habría bastado para provocar el desastre.
@@ -102,7 +95,6 @@ El tercero corresponde a la administración aeronáutica estadounidense. El sist
 Las consecuencias inmediatas fueron severas para la compañía. Korean Air afrontó una revisión internacional de sus procedimientos, y el número de vuelo, marcado por la tragedia, fue sustituido por el 805 cuando la ruta Seúl-Guam se reanudó en diciembre de 2001. En el año 2000 se resolvió por setenta millones de dólares una demanda presentada en nombre de cincuenta y cuatro familias.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Legado
 
 Guam se convirtió en el caso de estudio de referencia sobre gestión de recursos de cabina, y su influencia excedió con mucho el ámbito aeronáutico.
@@ -116,7 +108,6 @@ La compañía emprendió una reforma profunda de su cultura de seguridad en los 
 En Guam, un obelisco de mármol negro señala desde el 6 de agosto de 1998 el lugar del impacto. La niña rescatada por el gobernador aquella madrugada perdió a su madre en el incendio.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Referencias Verificadas
 
 - <a href="https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0001.pdf" style="color: #315fea; text-decoration: none;">Junta Nacional de Seguridad en el Transporte: informe NTSB/AAR-00/01, «Controlled Flight Into Terrain, Korean Air Flight 801»</a>
@@ -125,14 +116,14 @@ En Guam, un obelisco de mármol negro señala desde el 6 de agosto de 1998 el lu
 - <a href="https://en.wikipedia.org/wiki/Korean_Air_Flight_801" style="color: #315fea; text-decoration: none;">Korean Air Flight 801 — Wikipedia en inglés</a>
 - <a href="https://es.wikipedia.org/wiki/Vuelo_801_de_Korean_Air" style="color: #315fea; text-decoration: none;">Vuelo 801 de Korean Air — Wikipedia en español</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El número de víctimas mortales admite dos formulaciones. El informe oficial consigna 228 fallecidos y veintiséis supervivientes con heridas graves, conforme al criterio reglamentario que computa como fallecimiento derivado del accidente el ocurrido dentro de los treinta días siguientes. Una de las personas rescatadas con vida murió el 10 de octubre, transcurrido ese plazo, de modo que numerosas fuentes elevan el balance a 229 muertos y veinticinco supervivientes. Ambas cifras son correctas según el criterio aplicado. La composición del pasaje también varía entre fuentes: el informe distingue 237 pasajeros y diecisiete tripulantes, mientras que otros recuentos consignan 235 pasajeros y diecinueve tripulantes al computar como tripulación a los seis auxiliares de vuelo que viajaban fuera de servicio; el total de 254 ocupantes es coincidente. La denominación del aeropuerto de destino ha variado con el tiempo: el informe de la Junta lo cita como A. B. Won Guam International Airport y en la actualidad se conoce como aeropuerto internacional Antonio B. Won Pat. La fotografía que ilustra esta efeméride corresponde a la aeronave siniestrada, tomada entre 1996 y 1997, con anterioridad al accidente.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:03:10 CST
 - **Fuentes primarias/institucionales consultadas:** Junta Nacional de Seguridad en el Transporte de Estados Unidos, informe NTSB/AAR-00/01 y su resumen ejecutivo; Administración Federal de Aviación, ficha analítica del accidente en su repertorio de lecciones aprendidas.
 - **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia a la prensa contemporánea recogida en sus notas.
 - **Discrepancias resueltas:** se consignaron las dos cifras de víctimas mortales, 228 y 229, explicando el criterio reglamentario de los treinta días que las separa; se recogieron las dos formas de computar pasaje y tripulación, coincidentes en el total de 254 ocupantes; se adoptó la secuencia horaria del informe oficial frente a las versiones divulgativas; se precisó que la restricción incumplida eran los 1.440 pies hasta rebasar el radiofaro y no una altitud mínima de seguridad genérica.

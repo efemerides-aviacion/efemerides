@@ -15,13 +15,11 @@ image: 2002-03-14-fundacion-space-x.webp
   <figcaption class="post-caption">Edificio de la sede original de SpaceX en Hawthorne, California (1 Rocket Road), con torre de pruebas blanca para motores Merlin y letrero prominente "SPACEX" en la fachada industrial, capturado bajo cielo nublado ~2010-2015. Fuente: Archivo histórico SpaceX / Wikimedia Commons.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 14 de marzo de 2002, Elon Musk incorporó SpaceX en Delaware con 100 millones de dólares de su fortuna personal, tras la venta de PayPal, con el objetivo de reducir drásticamente los costos de lanzamiento espacial y hacer viable la colonización de Marte. Inició operaciones en un almacén de El Segundo, California, contratando a pioneros como Tom Mueller. Esta efeméride marca el nacimiento de la primera gran empresa espacial privada, que años después revolucionaría la industria con cohetes reutilizables y se convertiría en el proveedor dominante de lanzamientos a nivel mundial.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Fecha:** 14 de marzo de 2002 (incorporación legal en Delaware)
 - **Lugar fundacional:** El Segundo, California (primera sede operativa)
@@ -31,7 +29,6 @@ image: 2002-03-14-fundacion-space-x.webp
 - **Resultado inmediato:** Establecimiento de la primera compañía privada seria dedicada a reducir costos de acceso al espacio, sentando las bases para el desarrollo de los cohetes Falcon 1 y Falcon 9
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 A principios de la década de 2000, la industria aeroespacial estaba dominada por grandes contratistas gubernamentales y consorcios nacionales como Lockheed Martin, Boeing y Arianespace. Los costos de lanzamiento eran prohibitivos (se estimaba que poner una libra de carga en órbita costaba entre 10.000 y 30.000 dólares) y la innovación se había estancado. No existía una empresa privada capaz de desarrollar y operar cohetes orbitales de manera independiente.
 
@@ -44,6 +41,7 @@ La tecnología de cohetes se basaba en diseños de los años 60 y 70, con sistem
 ### Entorno cultural
 Existía un creciente escepticismo sobre el futuro de la exploración espacial tripulada tras el final del programa Apolo y los desafíos del transbordador. Sin embargo, la ciencia ficción y la literatura (como la serie Fundación de Isaac Asimov, que Musk citaba como inspiración) mantenían vivo el ideal de la colonización de otros mundos . La idea de hacer la vida "multiplanetaria" comenzaba a calar en ciertos círculos tecnológicos.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 
 - **2001:** Elon Musk se involucra con la Mars Society, dona 100.000 dólares y concibe el proyecto "Mars Oasis", una misión para llevar un invernadero a Marte y generar interés público en la exploración espacial .
@@ -54,6 +52,7 @@ Existía un creciente escepticismo sobre el futuro de la exploración espacial t
 - **Mediados de 2002:** SpaceX establece su primera sede operativa en una nave industrial en El Segundo, California, cerca de las instalaciones de Boeing y TRW. Comienza con unos pocos empleados que Musk entrevista personalmente .
 - **Noviembre de 2005:** La compañía ya cuenta con 160 empleados y continúa creciendo .
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 
 La fundación de SpaceX tuvo consecuencias que transformaron la industria espacial global:
@@ -78,6 +77,7 @@ La fundación de SpaceX tuvo consecuencias que transformaron la industria espaci
 - **Mayo de 2020:** Lanzamiento de la misión Demo-2 con astronautas de la NASA, primera vez que una empresa privada lleva humanos a la ISS .
 - **2019–presente:** Despliegue masivo de la constelación Starlink, que en 2026 cuenta con más de 9.600 satélites activos y se ha convertido en la principal fuente de ingresos de la compañía .
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
 SpaceX ha redefinido por completo la industria aeroespacial:
@@ -89,13 +89,11 @@ SpaceX ha redefinido por completo la industria aeroespacial:
 - **Valoración récord:** En 2024, SpaceX alcanzó una valoración cercana a los 200.000 millones de dólares, consolidándose como la empresa privada más valiosa del mundo en su sector .
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <div class="note-box">
 <p><strong>Nota sobre la fecha de fundación:</strong> La fecha de fundación de SpaceX es el 14 de marzo de 2002, correspondiente a su incorporación legal en Delaware . Sin embargo, algunas fuentes (especialmente las que se refieren al inicio de operaciones físicas) mencionan "junio de 2002" como el momento en que la empresa comenzó a trabajar en sus instalaciones de El Segundo. Esta efeméride adopta la fecha de constitución legal, que es la estándar en los registros corporativos y en la mayoría de las publicaciones especializadas. La discrepancia no invalida ninguna de las dos referencias, sino que refleja la diferencia entre la creación legal de la entidad y el comienzo efectivo de las actividades operativas.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -108,11 +106,11 @@ SpaceX ha redefinido por completo la industria aeroespacial:
     <li><a href="https://www.britannica.com/money/SpaceX" style="color: #315fea; text-decoration: none;">Britannica – SpaceX</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN), Contrary Research, Aero-News.net, Britannica, Business Insider  
+- **Timestamp de verificación:** 2026-09-07 12:03:10 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), Contrary Research, Aero-News.net, Britannica, Business Insider  
 - **Discrepancias resueltas:** Se documentó en nota aclaratoria la diferencia entre la fecha de incorporación legal (14 de marzo de 2002) y las referencias a "junio de 2002" como inicio de operaciones.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

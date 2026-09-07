@@ -14,17 +14,13 @@ image: 2003-02-01-accidente-transbordador-columbia-sts107.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2003-02-01-accidente-transbordador-columbia-sts107.webp" alt="Fotografía oficial de la tripulación de siete astronautas de la misión STS-107 del transbordador espacial Columbia">
   <figcaption class="post-caption">Retrato oficial de la tripulación de la misión STS-107 a bordo del transbordador espacial Columbia en octubre de 2001. De izquierda a derecha: David Brown, Rick Husband, Laurel Clark, Kalpana Chawla, Michael Anderson, William McCool e Ilan Ramon. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Crew_of_STS-107,_official_photo.jpg" style="color: #315fea; text-decoration: none;">NASA / Wikimedia Commons</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 1 de febrero de 2003, a las 08:59 EST (13:59 UTC), el transbordador espacial Columbia se desintegró catastróficamente sobre los cielos de Texas y Luisiana durante la fase de reentrada atmosférica, cuando restaban apenas 16 minutos para su aterrizaje programado en el Centro Espacial Kennedy de Florida. El siniestro provocó la pérdida instantánea de sus siete tripulantes al término de la misión científica STS-107, convirtiéndose en el segundo desastre mortal en la historia del programa del transbordador espacial de la NASA.</p>
 <p>La falla técnica originaria se produjo durante el despegue, 81,7 segundos después de la rotación inicial, cuando un fragmento de espuma aislante de poliuretano de aproximadamente 0,75 kg se desprendió del tanque externo e impactó a gran velocidad contra el borde de ataque del ala izquierda. Durante la reentrada a Mach 18, el plasma atmosférico sobrecalentado a más de 2.800 °C penetró por la brecha del sistema de protección térmica, derritiendo la estructura interna de aluminio. El informe posterior de la Comisión de Investigación del Accidente del Columbia (CAIB) puso al descubierto severas fallas organizacionales en la gestión del riesgo de la agencias espaciales.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
-
 ## Datos verificados del evento
 - **Fecha del desastre:** 1 de febrero de 2003 (08:59 EST / 13:59 UTC).
 - **Lugar de la pérdida de control:** Espacio aéreo sobre los estados de Texas y Luisiana, Estados Unidos (a una altitud aproximada de 61 km y velocidad de Mach 18,3).
@@ -43,7 +39,6 @@ image: 2003-02-01-accidente-transbordador-columbia-sts107.webp
 - **Causa técnica primaria:** Ruptura del panel número 8 de carbono-carbono reforzado (RCC) en el borde de ataque del ala izquierda por impacto de espuma durante el despegue.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
-
 ## Contexto Histórico
 El siniestro del Columbia ocurrió en un periodo de intensa actividad investigadora en órbita, reabriendo profundos cuestionamientos éticos y técnicos sobre los protocolos de seguridad industrial en misiones espaciales tripuladas.
 
@@ -57,7 +52,6 @@ A comienzos del siglo XXI, el programa del transbordador espacial enfrentaba la 
 En el ámbito organizacional, la investigación posterior acuñó el concepto de "normalización de la desviación", describiendo cómo las organizaciones científicas o industriales expuestas al peligro constante pueden llegar a asumir anomalías graves como incidentes cotidianos si estos no provocaron catástrofes inmediatas en el pasado. Durante el vuelo de la STS-107, las solicitudes informales de ingenieros de nivel técnico para obtener imágenes satelitales de alta resolución del ala izquierda fueron desestimadas por la gerencia de misión, evidenciando barreras culturales de comunicación interna que impidieron evaluar alternativas de rescate.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
-
 ## Desarrollo Cronológico
 La reconstrucción minuciosa de la secuencia de vuelo abarca desde la falla invisible producida durante el ascenso inicial hasta la pérdida definitiva de datos de telemetría en el Control de Misión en Houston.
 
@@ -72,35 +66,32 @@ La reconstrucción minuciosa de la secuencia de vuelo abarca desde la falla invi
 - **1 de febrero de 2003 (08:59:32 EST):** Pérdida total de la señal de telemetría e interrupción de la voz del Comandante Husband. La nave se desintegra a 61 km de altitud sobre Texas, esparciendo restos en más de 2.000 localizaciones.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
-
 ## Consecuencias e Impacto
 El desastre provocó la paralización inmediata de la flota de transbordadores durante dos años y medio, forzando a la Estación Espacial Internacional a reestructurar su calendario logístico con dependencia exclusiva de las cápsulas rusas Soyuz y naves Progress.
 
 La investigación del informe CAIB (*Columbia Accident Investigation Board*) impulsó reformas institucionales drásticas: la NASA estableció inspecciones obligatorias en órbita mediante el brazo robótico canadiense (OBSS), rediseñó el aislamiento del tanque externo para minimizar el desprendimiento de materiales y mantuvo configurada una misión de rescate en reserva (*Emergency Space Shuttle Rescue* / STS-300) para cada vuelo subsiguiente de la flota.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
-
 ## Legado
 La tragedia del Columbia redefinió la cultura de la seguridad aeronáutica y espacial mundial, consolidándose como un estudio de caso imprescindible sobre ingeniería humana, liderazgo y gestión del riesgo en sistemas complejos.
 
 El sacrificio de la tripulación de la STS-107 es recordado en monumentos del Cementerio Nacional de Arlington, en el Centro Espacial Kennedy y en la cartografía de Marte, donde un conjunto de colinas en el cráter Gusev lleva los nombres de los siete astronautas. Su memoria aceleró la decisión institucional de retirar los transbordadores en 2011 al completar la asamblea de la ISS, orientando los esfuerzos futuros hacia naves espaciales con cápsulas de escape de emergencia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
-
 ## Referencias Verificadas
 - <a href="https://www.nasa.gov/history/columbia-chronology/" style="color: #315fea; text-decoration: none;">NASA History: Cronología Técnica Oficial del Accidente del Columbia</a>
 - <a href="https://www.nasa.gov/remembering-columbia-sts-107/" style="color: #315fea; text-decoration: none;">NASA Memorial: Tributo Oficial a la Tripulación de la Misión STS-107</a>
 - <a href="https://es.wikipedia.org/wiki/Accidente_del_transbordador_espacial_Columbia" style="color: #315fea; text-decoration: none;">Wikipedia: Accidente del transbordador espacial Columbia (artículo enciclopédico de referencia)</a>
 - <a href="https://www.nasa.gov/wp-content/uploads/2023/04/caib_report_volume1.pdf" style="color: #315fea; text-decoration: none;">NASA — Columbia Accident Investigation Board, Volume I</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> A diferencia de la mayoría de las misiones contemporáneas del transbordador destinadas al ensamblaje de la Estación Espacial Internacional, la STS-107 fue un vuelo orbital dedicado íntegramente a la investigación científica multidisciplinaria a bordo del módulo doble SPACEHAB. Asimismo, la tripulación destacó por su composición plurinacional, incluyendo al Coronel Ilan Ramon como primer ciudadano israelí en volar al espacio y a Kalpana Chawla como la primera mujer de origen indio en realizar misiones orbitales.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:03:10 CST
 - **Fuentes primarias/institucionales consultadas:** Columbia Accident Investigation Board (CAIB Report), NASA History Office, NASA Langley Research Center.
 - **Fuentes secundarias de contraste:** RTVE Noticias, Encyclopædia Britannica.
 - **Discrepancias resueltas:** Se confirmó la masa estimada del fragmento de espuma aislante (0,75 kg) e impacto a T+81,7 segundos, se verificaron los rangos militares de la tripulación y se integraron las conexiones cruzadas hacia las efemérides publicadas del primer vuelo del Columbia (1981) y la tragedia del Challenger (1986).
