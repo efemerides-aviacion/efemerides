@@ -14,15 +14,12 @@ image: 1991-12-04-ultimo-vuelo-pan-am.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1991-12-04-ultimo-vuelo-pan-am.webp" alt="Boeing 727 Clipper Goodwill, último vuelo de Pan Am">
   <figcaption class="post-caption">El Vuelo 436, operado por el Boeing 727-221 Clipper Goodwill (matrícula N368PA), completó el último trayecto de Pan Am desde Bridgetown, Barbados, hasta Miami, el 4 de diciembre de 1991. Fuente: archivos históricos / prensa especializada.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de diciembre de 1991, Pan American World Airways (Pan Am), símbolo de la edad de oro de la aviación, cesó sus operaciones. El Vuelo 436, operado por el Boeing 727-221 Clipper Goodwill, aterrizó en Miami a las 11:07 a.m. EST, marcando el fin de una aerolínea que revolucionó los viajes internacionales durante más de seis décadas. La quiebra, acogida al Capítulo 11, fue resultado de décadas de desafíos financieros, agravados por la desregulación de 1978, el atentado de Lockerbie (1988) y la Guerra del Golfo (1990-1991).</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Fecha de cierre operativo:** 4 de diciembre de 1991
 - **Último vuelo:** PA436 (Vuelo 436)
@@ -36,7 +33,6 @@ image: 1991-12-04-ultimo-vuelo-pan-am.webp
 - **Activos vendidos:** Rutas del Pacífico a United Airlines (1985); rutas del Atlántico y Pan Am Shuttle a Delta Air Lines (1991)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 Pan Am fue la aerolínea bandera no oficial de Estados Unidos, pionera en vuelos transoceánicos y cliente de lanzamiento del Boeing 747. Representó lujo, innovación y expansión global. Sin embargo, su modelo internacional de larga distancia la hizo vulnerable a cambios del mercado.
@@ -50,6 +46,7 @@ Pan Am fue pionera en adoptar aviones revolucionarios: el Boeing 314 Clipper (hi
 ### Entorno cultural
 La caída de Pan Am coincidió con el fin de la Guerra Fría y el surgimiento de una economía globalizada. La desregulación (Airline Deregulation Act de 1978) favoreció a aerolíneas con fuertes redes domésticas (Delta, American, United). Pan Am, enfocada en rutas internacionales, no pudo adaptarse. Además, el atentado de Lockerbie (21 de diciembre de 1988) dañó su imagen de seguridad y disparó sus costos de seguro.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **14 de marzo de 1927:** Juan Trippe funda Pan American Airways.
@@ -66,7 +63,6 @@ La caída de Pan Am coincidió con el fin de la Guerra Fría y el surgimiento de
 - **Posterior:** Delta adquiere los activos restantes; el nombre Pan Am es revendido en subasta.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 - **Fin de la era dorada:** El cierre de Pan Am marcó el colapso del modelo de aerolínea global de prestigio, reemplazado por alianzas y aerolíneas de bajo costo.
@@ -75,13 +71,11 @@ La caída de Pan Am coincidió con el fin de la Guerra Fría y el surgimiento de
 - **Legado en seguridad aérea:** El atentado de Lockerbie impulsó reformas en la seguridad aeroportuaria internacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 Pan Am permanece como un ícono cultural y un caso de estudio en gestión estratégica. Su logotipo azul y el término "Clipper" siguen siendo reconocibles mundialmente. El nombre ha sido revivido en proyectos posteriores (Pan Am Railways, Pan Am Brands, una serie de televisión de 2011), pero ninguna ha replicado su alcance original. El Boeing 727 N368PA fue desguazado en 2004 [NO CONFIRMADO: algunas fuentes indican que fue preservado parcialmente]. En 2021, el Museo Delta Air Lines en Atlanta exhibió recuerdos de Pan Am, y la aerolínea es recordada cada 4 de diciembre por entusiastas de la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -93,16 +87,16 @@ Pan Am permanece como un ícono cultural y un caso de estudio en gestión estrat
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La fecha de cierre oficial de Pan Am corresponde al 4 de diciembre de 1991, día de su último vuelo comercial. La compañía se había acogido al Capítulo 11 de la Ley de Quiebras el 8 de enero de 1991, y la venta de activos a Delta se completó en agosto de 1991. El número exacto de pasajeros en el último vuelo varía según las fuentes; algunas mencionan 2 pasajeros de pago más tripulación, otras 16 personas a bordo. No se ha encontrado una lista oficial de pasajeros.</p>
   <p>La matrícula N368PA corresponde a un Boeing 727-221 construido en 1978, originalmente entregado a Pan Am. Tras el cierre, fue almacenado y posteriormente desguazado.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Aero-Naves, Gaceta Aeronáutica, Prensa Libre, Wikipedia (EN/ES), archivos de aviación comercial
+- **Timestamp de verificación:** 2026-09-07 12:02:32 CST
+- **Fuentes primarias/institucionales consultadas:** Aero-Naves, Gaceta Aeronáutica, Prensa Libre, Wikipedia (EN/ES), archivos de aviación comercial
 - **Discrepancias resueltas:** Se aclara diferencia entre la fecha de quiebra (8 de enero de 1991) y la fecha del último vuelo (4 de diciembre de 1991). Se documenta la falta de confirmación sobre el número exacto de pasajeros y el destino final del avión.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

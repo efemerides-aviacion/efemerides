@@ -14,16 +14,12 @@ image: 1992-12-16-cruce-trasatlantico-helicoptero-la-guacamaya.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1992-12-16-cruce-trasatlantico-helicoptero-la-guacamaya.webp" alt="Helicóptero La Guacamaya en Palos de la Frontera, España">
   <figcaption class="post-caption">El helicóptero “La Guacamaya” (YV-304-CP) arriba a la Plaza Amacuro en Palos de la Frontera, España, el 16 de diciembre de 1992. Piloto: Francisco Pacheco Díaz; copiloto: Tomás Espanier. (Fuente: Fundación Tokoara / El Nacional).</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 16 de diciembre de 1992, el helicóptero venezolano MD 500E “La Guacamaya”, pilotado por Francisco Pacheco Díaz y Tomás Espanier, completó un cruce transatlántico desde Macuro (estado Sucre, Venezuela) hasta Palos de la Frontera (Huelva, España). La expedición, denominada “Sobre la Estela de Colón”, conmemoró los 500 años del Descubrimiento de América y estableció un récord mundial como el primer helicóptero en recorrer la ruta del tercer viaje de Cristóbal Colón (que tocó tierra firme venezolana en 1498).</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Fecha de despegue:** 9 de diciembre de 1992
 - **Fecha de llegada:** 16 de diciembre de 1992
@@ -37,7 +33,6 @@ image: 1992-12-16-cruce-trasatlantico-helicoptero-la-guacamaya.webp
 - **Promotor:** Fundación Tokoara
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 El año 1992 marcó el V Centenario del encuentro entre Europa y América. Numerosas expediciones, regatas y vuelos conmemorativos se organizaron en ambos lados del Atlántico. La hazaña de “La Guacamaya” se inscribió en este espíritu, pero con un enfoque específico: replicar en sentido inverso el tercer viaje de Colón, que en 1498 llegó a la costa de Paria (actual Venezuela).
@@ -51,6 +46,7 @@ Cruzar el Atlántico en helicóptero era –y sigue siendo– un desafío extrem
 ### Entorno cultural
 La llegada a Palos de la Frontera (lugar de partida de Colón en 1492) tuvo una fuerte carga simbólica. Una placa conmemorativa fue instalada en la Plaza Macuro, que hoy recuerda la gesta. El helicóptero fue recibido por autoridades locales y una multitud que celebraba la unión simbólica de dos continentes.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **9 de diciembre de 1992, madrugada:** Despegue desde Macuro, Venezuela. Primera etapa hacia la isla de Trinidad (aproximadamente 200 km).
@@ -58,6 +54,7 @@ La llegada a Palos de la Frontera (lugar de partida de Colón en 1492) tuvo una 
 - **15 de diciembre de 1992:** Llegada a las Islas Canarias (España), última escala antes de la península.
 - **16 de diciembre de 1992, mediodía (hora local):** Aterrizaje en Palos de la Frontera, Huelva. Ceremonia oficial y descubrimiento de una placa en la Plaza Macuro.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 - **Reconocimiento mundial:** El vuelo fue cubierto por medios de comunicación en Venezuela y España, y se considera una de las mayores gestas de la aviación venezolana.
@@ -65,12 +62,12 @@ La llegada a Palos de la Frontera (lugar de partida de Colón en 1492) tuvo una 
 - **Legado material:** El helicóptero “La Guacamaya” se conservó como pieza histórica. Una placa en Palos de la Frontera (Plaza Macuro) conmemora la llegada.
 - **Inspiración:** En años posteriores, otros pilotos intentaron rutas similares, pero la hazaña de 1992 sigue siendo única.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 “La Guacamaya” es un símbolo de la aviación venezolana y de la conexión histórica con España. El nombre “Tokoara” (fundación promotora) significa “encuentro” en lengua indígena. El vuelo demostró que los helicópteros ligeros pueden, con modificaciones, realizar travesías oceánicas extremas. Aunque han existido otros cruces transatlánticos en helicóptero (como el de un Bell 47 en 1967 o el de un Robinson R22 en 1995), el de “La Guacamaya” destaca por su carácter conmemorativo y por haber sido realizado por pilotos venezolanos en una aeronave de fabricación estadounidense con apoyo español.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -81,15 +78,15 @@ La llegada a Palos de la Frontera (lugar de partida de Colón en 1492) tuvo una 
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El récord mundial establecido por “La Guacamaya” se refiere específicamente a la ruta Macuro–Palos de la Frontera siguiendo la estela del tercer viaje de Colón. No debe confundirse con otros récords de autonomía o velocidad. Las escalas intermedias exactas no están documentadas en las fuentes consultadas; se indican como [NO CONFIRMADO]. La placa conmemorativa en Palos de la Frontera sí está verificada por fuentes fotográficas. El helicóptero original fue preservado; su ubicación actual no se menciona en las referencias disponibles.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Guacamayaspirit.com, El Nacional (2024), Vanderkrogt.net, Wikipedia (MD 500)
+- **Timestamp de verificación:** 2026-09-07 12:02:32 CST
+- **Fuentes primarias/institucionales consultadas:** Guacamayaspirit.com, El Nacional (2024), Vanderkrogt.net, Wikipedia (MD 500)
 - **Discrepancias resueltas:** Se ha añadido la matrícula YV-304-CP y se ha especificado el récord. Se ha indicado como [NO CONFIRMADO] las escalas intermedias y el registro oficial Guinness.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

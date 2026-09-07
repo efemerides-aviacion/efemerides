@@ -15,13 +15,11 @@ image: 1982-05-19-accidente-sea-king-hc-4-royal-navy.webp
   <figcaption class="post-caption">Westland Sea King HC.4 de la Royal Navy (Armada Real Británica), matrícula ZA294, perteneciente al 846 Naval Air Squadron (Escuadrón Aéreo Naval 846), aeronave involucrada en el accidente del 19 de mayo de 1982 durante la Guerra de las Malvinas. Fuente: AirHistory.net.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 19 de mayo de 1982, a las 19:15 horas, un Westland Sea King HC.4 de la Royal Navy (Armada Real Británica) con matrícula ZA294 se estrelló en el Atlántico Sur, aproximadamente a 200 millas al este-noreste de Puerto Argentino/Stanley. La aeronave, perteneciente al 846 Naval Air Squadron (Escuadrón Aéreo Naval 846), realizaba un vuelo de traslado de personal entre el portaaviones HMS Hermes y el buque de asalto HMS Intrepid cuando impactó contra el agua tras perder potencia. De las 31 personas a bordo —miembros del SAS (Special Air Service, Servicio Aéreo Especial), personal de la RAF (Royal Air Force, Real Fuerza Aérea Británica) y tripulantes—, solo 9 sobrevivieron. El accidente representa la mayor pérdida de vidas del Special Air Service desde la Segunda Guerra Mundial. La causa más probable fue el impacto de un gran ave (un albatros) contra el rotor principal o la ingesta del motor, aunque nunca pudo ser confirmada definitivamente por la falta de recuperación de los restos.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Datos verificados del evento
 - **Fecha:** 19 de mayo de 1982
 - **Hora:** 19:15 (hora local, aproximadamente) 
@@ -38,7 +36,6 @@ image: 1982-05-19-accidente-sea-king-hc-4-royal-navy.webp
 - **Fase del vuelo:** Aproximación 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Contexto Histórico
 
 La Guerra de las Malvinas (Falklands War) fue un conflicto bélico de diez semanas entre Argentina y el Reino Unido por el control de las Islas Malvinas, Georgias del Sur y Sandwich del Sur. Iniciada el 2 de abril de 1982 con el desembarco argentino, el conflicto movilizó una Task Force (Fuerza de Tarea) británica de más de 100 buques que recorrieron más de 12.800 km hasta el Atlántico Sur.
@@ -52,6 +49,7 @@ La campaña de helicópteros fue esencial para la logística británica, dado qu
 ### Entorno cultural
 El Special Air Service (Servicio Aéreo Especial) gozaba ya de una reputación legendaria como la élite de las fuerzas armadas británicas. La pérdida de 18 de sus miembros en un solo incidente fue un golpe devastador para la moral del regimiento y para la percepción pública de la guerra como una campaña de "bajas quirúrgicas". La tragedia, sin embargo, permaneció relativamente oculta durante años, eclipsada por otros eventos del conflicto como el hundimiento del HMS Sheffield o el ARA General Belgrano.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Desarrollo Cronológico
 
 - **18 de mayo de 1982:** Llegan al HMS Hermes cuatro Harrier GR3 transferidos desde el Atlantic Conveyor. Debido a la saturación de espacio en el portaaviones, se decide reasignar tres Sea King HC.4 (ZA292, ZA293 y ZA294) al HMS Intrepid, un buque de asalto anfibio. 
@@ -70,6 +68,7 @@ El Special Air Service (Servicio Aéreo Especial) gozaba ya de una reputación l
 
 La causa exacta del accidente nunca pudo ser determinada con certeza debido a la falta de recuperación de los restos del helicóptero. La hipótesis más aceptada por historiadores y fuentes oficiales es el impacto de un **albatros de gran tamaño (envergadura de hasta 2,4 metros/8 pies)** contra el rotor principal o la ingesta de uno de los motores.  El testimonio de los supervivientes describe haber oído uno o dos golpes fuertes seguidos de la inmediata pérdida de potencia.  Otras fuentes mencionan la posibilidad de una falla mecánica o un error humano, agravado por la fatiga de la tripulación y las difíciles condiciones nocturnas. 
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Consecuencias e Impacto
 
 - **Mayor pérdida del SAS desde 1945:** De las 27 personas del SAS a bordo, solo 9 sobrevivieron.  Esta cifra supera cualquier otra baja del regimiento en conflictos posteriores a la Segunda Guerra Mundial.
@@ -80,18 +79,17 @@ La causa exacta del accidente nunca pudo ser determinada con certeza debido a la
 
 - **Secuelas psicológicas:** Los testimonios de los supervivientes describen escenas dantescas: hombres luchando entre sí bajo el agua por alcanzar una bolsa de aire, compañeros hundiéndose en la oscuridad y la incapacidad de ayudar a los que se quedaban atrás. 
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Legado
 
 El accidente del Sea King ZA294 permanece como el día más trágico en la historia del Special Air Service (Servicio Aéreo Especial). Un jardín conmemorativo en la iglesia de St. Martin en Hereford (base del SAS) recuerda a los caídos.  Aunque el hecho fue poco difundido en su momento por razones de seguridad operacional, con el paso de los años los supervivientes han compartido sus testimonios, contribuyendo a la memoria histórica del conflicto. El aniversario del accidente se conmemora cada año por la Fleet Air Arm (Arma Aérea de la Flota) y la Asociación de Tripulantes Aéreos.  En 2022, el superviviente Mark Aston publicó el libro *SAS: Sea King*, relatando por primera vez su experiencia. 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes presentan ligeras discrepancias en las cifras: Aviation Safety Network reporta 31 ocupantes y 22 fallecidos . Otras fuentes mencionan 30 ocupantes y 21 o 22 fallecidos . La RAF (Royal Air Force, Real Fuerza Aérea Británica) menciona 21 fallecidos totales, de los cuales 19 eran del SAS . Esta efeméride adopta la cifra de 22 fallecidos, que es la más consistente con las bases de datos aeronáuticas especializadas . El número de fallecidos del SAS varía entre 18 y 20 según las fuentes. La causa del accidente (bird strike - impacto con ave) es la hipótesis más probable, pero nunca fue confirmada oficialmente por la falta de restos recuperables .</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -106,11 +104,11 @@ El accidente del Sea King ZA294 permanece como el día más trágico en la histo
     <li><a href="https://www.airhistory.net/photo/104573/ZA294" style="color: #315fea; text-decoration: none;">AirHistory.net – Photograph of ZA294</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Aviation Safety Network, Plane Crash Info, RAF, Zona Militar, Roll of Honour, Find a Grave, IWM, Daily Mail, AirHistory.net
+- **Timestamp de verificación:** 2026-09-07 12:02:32 CST
+- **Fuentes primarias/institucionales consultadas:** Aviation Safety Network, Plane Crash Info, RAF, Zona Militar, Roll of Honour, Find a Grave, IWM, Daily Mail, AirHistory.net
 - **Discrepancias resueltas:** Las fuentes discrepan en el número exacto de ocupantes (30 vs 31) y fallecidos (21 vs 22). Se ha adoptado la cifra de 22 fallecidos y 31 ocupantes por ser la más consistente con la base de datos aeronáutica especializada (Aviation Safety Network) . El número de fallecidos del SAS varía entre 18, 19 y 20 según las fuentes. La causa del accidente (bird strike) es la hipótesis más probable pero no confirmada oficialmente.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

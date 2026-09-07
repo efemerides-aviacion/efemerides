@@ -14,17 +14,13 @@ image: 1983-07-23-accidente-air-canada-vuelo-143.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1983-07-23-accidente-air-canada-vuelo-143.webp" alt="El Boeing 767-233 de Air Canada matrícula C-GAUN en marzo de 1983 antes del incidente de Gimli">
   <figcaption class="post-caption">El Boeing 767-233 de Air Canada (matrícula C-GAUN, flota 604) fotografiado en marzo de 1983, cuatro meses antes del incidente que lo inmortalizó como el "Gimli Glider". Fuente: <a href="https://commons.wikimedia.org/wiki/File:C-GAUN_Aircraft.jpg" style="color: #315fea; text-decoration: none;">Pierre Langlois / Airliners.net / Wikimedia Commons</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 23 de julio de 1983, el vuelo 143 de Air Canada —operado por un Boeing 767-233 comercial con matrícula C-GAUN— registró un consumo total de combustible mientras navegaba a una altitud de crucero de 41.000 pies (12.500 metros) sobre Red Lake, Ontario, en la ruta Montreal–Ottawa–Edmonton. Privado por completo de la potencia de sus dos turbofanes Pratt & Whitney JT9D y sin energía eléctrica primaria, la aeronave de 132 toneladas se transformó repentinamente en un planeador gigante cayendo a una tasa de descenso superior a los 610 metros por minuto (2.000 pies por minuto).</p>
 <p>Gracias a la habilidad excepcional del Capitán Robert "Bob" Pearson —quien contaba con amplia experiencia como piloto de planeadores— y del Primer Oficial Maurice Quintal, la tripulación logró realizar un vuelo planeado con los motores inoperativos de más de 100 millas (160 km). La maniobra culminó en un milagroso aterrizaje de emergencia en la antigua base militar RCAF de Gimli (Manitoba), cuya pista había sido reconvertida en un circuito de carreras de karts para un evento familiar. Los 61 pasajeros y 8 miembros de la tripulación sobrevivieron sin víctimas mortales, originando la causa del siniestro en un grave error humano de conversión entre el sistema métrico e imperial durante el repostaje en tierra.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Datos verificados del evento
 - **Fecha del suceso:** 23 de julio de 1983 (aprox. 20:38 a 20:51 CDT).
 - **Ruta del vuelo:** Vuelo AC143 (Montreal-Trudeau – Ottawa-Macdonald-Cartier – Edmonton).
@@ -37,7 +33,6 @@ image: 1983-07-23-accidente-air-canada-vuelo-143.webp
 - **Causa técnica primaria:** Error de cálculo manual del volumen de combustible durante el reabastecimiento al emplear una densidad de 1,77 lb/L (libras por litro) en lugar de 0,8 kg/L (kilogramos por litro), cargando solo el 45 % de la masa de combustible requerida.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Contexto Histórico
 El incidente del "Gimli Glider" ocurrió en medio del proceso de modernización tecnológica de la aviación comercial canadiense y de la compleja transición nacional hacia el Sistema Internacional de Unidades (SI).
 
@@ -51,7 +46,6 @@ La serie Boeing 767 introduced la cabina de cristal (*glass cockpit*) con instru
 El 23 de julio de 1983, el recinto del antiguo aeródromo militar de Gimli albergaba el "Family Day" organizado por el *Winnipeg Sports Car Club*. La pista de aterrizaje desafectada servía como trazado para carreras de *dragsters* y karts, reuniendo a familias, competidores y campistas a lo largo del asfalto, quienes presenciaron la aproximación silenciosa e imprevista del gigantesco reactor de pasajeros.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Desarrollo Cronológico
 La reconstrucción de los hechos combina las fallas operativas registradas durante el mantenimiento en tierra con las extraordinarias maniobras aerodinámicas de la tripulación en vuelo.
 
@@ -65,35 +59,32 @@ La reconstrucción de los hechos combina las fallas operativas registradas duran
 - **23 de julio de 1983 (20:51 CDT):** Tocado de ruedas en la pista de Gimli a 338 km/h (210 mph). Sin presión hidráulica para bloquear el tren de morro, este colapsa, provocando que el morro friccione contra la barrera central de la pista de carreras. El avión se detiene a menos de 30 metros de la multitud y los 69 ocupantes evacuan a salvo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Consecuencias e Impacto
 La investigación oficial dirigida por el Consejo de Seguridad de la Aviación de Canadá (CASB) analizó el accidente mediante el modelo de causalidad sistémica o "modelo del queso suizo", identificando deficiencias en el diseño del FQIS, falta de claridad en las publicaciones técnicas de transición métrica de Air Canada y deficiencias en los protocolos de verificación cruzada entre mecánicos y tripulaciones.
 
 El éxito del aterrizaje forzoso motivó reformas profundas en las normativas internacionales de reabastecimiento de combustible, exigiendo procedimientos de confirmación doble estandarizados y la verificación de unidades en todas las planillas de vuelo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Legado
 La hazaña de la tripulación del "Gimli Glider" ingresó en los anales de la aviación comercial como un ejemplo sobresaliente de gestión de recursos de cabina (CRM), aptitud de pilotaje y templanza en emergencias extremas. La maniobra de resbalamiento lateral (*forward slip*) ejecutada por el Capitán Pearson pasó a incorporarse en los programas de instrucción en simulador de vuelo para aviones comerciales de gran tonelaje.
 
 Tras el accidente, el Boeing 767 C-GAUN fue reparado de emergencia en el propio terreno de Gimli por mecánicos de Air Canada y volvió al servicio comercial operativo durante 25 años más, acumulando miles de horas de vuelo hasta su retiro oficial en enero de 2008.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Referencias Verificadas
 - <a href="https://www.cbc.ca/news/canada/manitoba/gimli-glider-35th-anniversary-1.4754039" style="color: #315fea; text-decoration: none;">CBC News: Reportaje Especial del 35.º Aniversario del Incidente del Gimli Glider</a>
 - <a href="https://time.com/archive/6700860/a-dead-stick-landing/" style="color: #315fea; text-decoration: none;">Time Magazine: Cobertura Periodística Original del Aterrizaje sin Motores del Vuelo 143</a>
 - <a href="https://en.wikipedia.org/wiki/Gimli_Glider" style="color: #315fea; text-decoration: none;">Wikipedia: Gimli Glider (artículo enciclopédico de referencia)</a>
 - <a href="https://www.faa.gov/sites/faa.gov/files/2024-12/AirCanada143_C-GAUN.pdf" style="color: #315fea; text-decoration: none;">FAA / Board of Inquiry — Air Canada Boeing 767 C-GAUN, Gimli, 23 July 1983 (informe Lockwood, 1985)</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe un matiz técnico preciso sobre el cálculo del error de combustible. La tripulación y el personal de mantenimiento multiplicaron el volumen de 12.600 litros medido por la varilla por el factor 1,77 (que correspondía a la densidad de 1,77 lb/L para el combustible Jet A), interpretando el resultado final como 22.300 kg. En realidad, la cifra obtenida equivalía a 22.300 libras (aproximadamente 10.100 kg), lo que significó despegar con solo 9.144 kg útiles a bordo respecto a la carga mínima requerida de 20.400 kg.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:02:32 CST
 - **Fuentes primarias/institucionales consultadas:** Canadian Aviation Safety Board (CASB Report), Transport Canada Civil Aviation, Air Canada Engineering Division.
 - **Fuentes secundarias de contraste:** CBC Archives, Time Magazine, Aviation Safety Network.
 - **Discrepancias resueltas:** Se confirmó el factor de densidad erróneo empleado (1,77 lb/L frente a 0,8 kg/L) y la altitud exacta del apagado de motores (41.000 pies / FL410).

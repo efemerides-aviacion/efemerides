@@ -14,16 +14,12 @@ image: 1985-08-12-accidente-vuelo-123-japan-airlines.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1985-08-12-accidente-vuelo-123-japan-airlines.webp" alt="Boeing 747SR-46 de Japan Air Lines con matrícula JA8119, intacto, en el aeropuerto de Haneda">
   <figcaption class="post-caption">El Boeing 747SR-46 matrícula JA8119 de Japan Air Lines, fotografiado en el aeropuerto de Haneda (Tokio) en marzo de 1985, cinco meses antes del accidente. Fuente: Wikimedia Commons.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 12 de agosto de 1985, un Boeing 747SR-46 de Japan Air Lines que cubría la ruta entre Tokio y Osaka sufrió, doce minutos después del despegue, la ruptura en vuelo del mamparo de presión trasero, mal reparado siete años antes. La descompresión explosiva arrancó el estabilizador vertical y reventó los cuatro sistemas hidráulicos, dejando la aeronave prácticamente sin controles. Tras 32 minutos de lucha de la tripulación por mantener el vuelo mediante el empuje diferencial de los motores, el JA8119 se estrelló en la cresta de Osutaka, prefectura de Gunma. Murieron 520 de las 524 personas a bordo; sigue siendo el accidente más letal de la historia protagonizado por una sola aeronave.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Datos verificados del evento
 
 - **Fecha del accidente:** 12 de agosto de 1985
@@ -44,7 +40,6 @@ image: 1985-08-12-accidente-vuelo-123-japan-airlines.webp
 - **Causa determinada:** falla por fatiga del mamparo de presión trasero, reparado de forma incorrecta tras un tailstrike ocurrido el 2 de junio de 1978
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Contexto Histórico
 
 La ruta Tokio-Osaka era en 1985 una de las arterias aéreas de mayor densidad del planeta. Japan Air Lines la operaba con el Boeing 747SR, una versión de corto radio del jumbo diseñada para soportar un número excepcional de ciclos de presurización por jornada. El vuelo 123 partió aquella tarde de lunes con 524 personas a bordo, en pleno período de Obon, cuando millones de japoneses se desplazan a sus lugares de origen para honrar a sus antepasados.
@@ -62,7 +57,6 @@ El Boeing 747 confiaba su gobierno a cuatro sistemas hidráulicos independientes
 El Japón de 1985 vivía la cúspide de su confianza económica y tecnológica, y Japan Air Lines era uno de sus emblemas. Esa misma cultura, que entendía la responsabilidad profesional como un asunto de honor, explicarían después las consecuencias institucionales del desastre: renuncias de alto nivel y suicidios de expiación entre los empleados vinculados al mantenimiento de la aeronave. La cresta de Osutaka, convertida en lugar de peregrinación anual cada 12 de agosto, entronca hoy el recuerdo de las víctimas con la tradición del Obon que las llevaba a bordo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Desarrollo Cronológico
 
 - **1974:** El Boeing 747SR-46 JA8119 es entregado a Japan Air Lines.
@@ -76,7 +70,6 @@ El Japón de 1985 vivía la cúspide de su confianza económica y tecnológica, 
 - **Mañana del 13 de agosto:** Los rescatistas llegan al sitio; solo cuatro personas han sobrevivido a la noche. Los médicos constatan que varios pasajeros sobrevivieron al impacto y murieron de frío y shock esperando auxilio: «si el hallazgo hubiera llegado diez horas antes, habríamos encontrado más supervivientes», declararía uno de los facultativos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Consecuencias e Impacto
 
 - **Balance humano:** 520 muertos y 4 supervivientes, las cuatro mujeres sentadas en las últimas filas del fuselaje. Entre 20 y 50 pasajeros sobrevivieron al impacto y fallecieron durante la noche por la demora del rescate, uno de los aspectos más dolorosos y discutidos del caso.
@@ -86,7 +79,6 @@ El Japón de 1985 vivía la cúspide de su confianza económica y tecnológica, 
 - **Impacto en la industria:** El caso se convirtió en referencia mundial sobre el peligro de las grietas de fatiga multisitio y sobre la responsabilidad de verificar en sitio toda reparación mayor, e impulsó programas de envejecimiento de aeronaves y de inspección de estructuras reparadas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Legado
 
 Cuarenta y un años después, la cresta de Osutaka recibe cada 12 de agosto la peregrinación de familiares, voluntarios y ejecutivos de Japan Airlines; el sendero habilitado en 2009 y el cenotafio de la cresta forman parte de un itinerario de memoria que la compañía incluye en la formación de todo empleado nuevo, junto con la visita al Centro de Promoción de la Seguridad abierto en 2006 en Haneda, donde se conservan restos del JA8119 y las notas de despedida que varios pasajeros escribieron durante los 32 minutos finales.
@@ -94,7 +86,6 @@ Cuarenta y un años después, la cresta de Osutaka recibe cada 12 de agosto la p
 En el plano técnico, el vuelo 123 enseñó a la aviación a gobernar lo ingobernable: cuando en 1989 un DC-10 de United Airlines perdió sus tres sistemas hidráulicos sobre el medio oeste estadounidense, el piloto instructor Dennis Fitch, pasajero en aquella cabina, aplicó lo aprendido del caso JAL 123 y ayudó a ejecutar un aterrizaje de emergencia que salvó a 184 de los 296 ocupantes. La lección estructural fue igualmente duradera: el daño multisitio que derribó al JA8119 reapareció tres años después en el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1988/04/28/accidente-vuelo-243-aloha-airlines.html" style="color: #315fea; text-decoration: none;">accidente del vuelo 243 de Aloha Airlines</a>, y ambos casos redefinieron los programas de inspección de aeronaves envejecidas y de reparaciones mayores en todo el mundo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Referencias Verificadas
 
 <div class="references">
@@ -107,11 +98,10 @@ En el plano técnico, el vuelo 123 enseñó a la aviación a gobernar lo ingober
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN), This Day in Aviation, Failure Knowledge Database, Wikimedia Commons
+- **Timestamp de verificación:** 2026-09-07 12:02:32 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), This Day in Aviation, Failure Knowledge Database, Wikimedia Commons
 - **Discrepancias resueltas:** Las fuentes coinciden en fecha, aeronave, ocupantes y víctimas. Difieren en el ciclo exacto de la falla del mamparo (12.219 según This Day in Aviation, 12.319 según la Failure Knowledge Database); se redactó con la expresión «pasados los 12.000 ciclos», correcta para ambos registros. En horas y vuelos totales se adoptó el registro de la aeronave (25.030 horas, 18.835 vuelos).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

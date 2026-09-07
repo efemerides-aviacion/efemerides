@@ -14,16 +14,12 @@ image: 1982-07-09-accidente-pan-am-vuelo-759.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1982-07-09-accidente-pan-am-vuelo-759.webp" alt="Boeing 727-235 N4737 Clipper Defiance de Pan Am en el Aeropuerto Internacional de San Diego en mayo de 1982">
   <figcaption class="post-caption">El Boeing 727-235 matrícula N4737, <em>Clipper Defiance</em>, fotografiado en el Aeropuerto Internacional de San Diego / Lindbergh Field en mayo de 1982, dos meses antes del accidente. Fuente: <a href="https://en.wikipedia.org/wiki/Pan_Am_Flight_759" style="color: #315fea; text-decoration: none;">Wikipedia en inglés</a>, a partir de Wikimedia Commons.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 9 de julio de 1982, el vuelo 759 de Pan Am, operado por un Boeing 727-235 llamado <em>Clipper Defiance</em>, despegó del aeropuerto de Nueva Orleans rumbo a Las Vegas y San Diego, pero se precipitó sobre el suburbio de Kenner pocos segundos después de levantar el vuelo. La investigación concluyó que la aeronave encontró una cizalladura del viento inducida por microrráfaga durante la fase inicial de ascenso, un fenómeno meteorológico que en aquel momento todavía no era plenamente comprendido ni detectado con eficacia por la tecnología disponible. Murieron todas las personas a bordo y ocho más en tierra, en un desastre que impulsó cambios importantes en los sistemas de alerta y en el entrenamiento frente a viento cortante.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Datos verificados del evento
 - **Fecha:** 9 de julio de 1982
 - **Lugar:** Kenner, suburbio de Nueva Orleans, Luisiana, Estados Unidos
@@ -37,7 +33,6 @@ image: 1982-07-09-accidente-pan-am-vuelo-759.webp
 - **Causa principal:** encuentro con cizalladura del viento inducida por una microrráfaga durante el despegue y ascenso inicial
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Contexto Histórico
 
 A comienzos de los años ochenta, la aviación comercial estadounidense operaba con altos niveles de tráfico y una enorme confianza en la madurez de sus sistemas. Sin embargo, fenómenos atmosféricos de escala muy reducida, como las microrráfagas, seguían siendo difíciles de detectar y de interpretar en tiempo real, especialmente durante despegues y aterrizajes.
@@ -52,7 +47,6 @@ En 1982 ya existían sistemas básicos de alerta de cizalladura a baja altitud, 
 La época estaba marcada por una creciente fe en la seguridad del transporte aéreo moderno. Precisamente por eso, accidentes como el del vuelo 759 tuvieron un efecto duradero en la opinión pública: recordaron que incluso aeronaves y tripulaciones experimentadas podían ser vulnerables ante fenómenos meteorológicos poco visibles, mal entendidos o insuficientemente monitorizados.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Desarrollo Cronológico
 
 El accidente se desarrolló en menos de un minuto, pero fue el resultado de una combinación de meteorología severa localizada, límites tecnológicos y vulnerabilidad operacional en una fase crítica del vuelo.
@@ -68,7 +62,6 @@ El accidente se desarrolló en menos de un minuto, pero fue el resultado de una 
 - **1983:** la NTSB publica su informe final, atribuyendo el accidente a una microrráfaga con cizalladura del viento en fase de despegue.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Consecuencias e Impacto
 
 El accidente del vuelo 759 se convirtió en uno de los casos decisivos para comprender el peligro operacional de las microrráfagas en la aviación comercial.
@@ -79,7 +72,6 @@ El accidente del vuelo 759 se convirtió en uno de los casos decisivos para comp
 - **Cambios regulatorios:** el accidente, junto con otros similares de la década, impulsó reformas de seguridad por parte de la FAA y de la industria.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Legado
 
 El legado del vuelo 759 de Pan Am no reside solo en la magnitud de la tragedia, sino en el hecho de que ayudó a transformar la manera en que la aviación entiende y gestiona la amenaza del viento cortante a baja altitud. Antes de los años ochenta, la microrráfaga era un fenómeno menos estudiado y peor instrumentado; después de accidentes como este, pasó a ocupar un lugar central en la seguridad operacional.
@@ -87,7 +79,6 @@ El legado del vuelo 759 de Pan Am no reside solo en la magnitud de la tragedia, 
 A largo plazo, el accidente de Kenner se estudia como uno de los hitos que condujeron a la implantación de radares Doppler terminales, mejores alertas en tiempo real y procedimientos estandarizados de escape de wind shear. Por doloroso que resulte, esa cadena de mejoras técnicas y doctrinales ha contribuido a salvar innumerables vidas desde entonces. El nombre <em>Clipper Defiance</em> quedó así unido no solo a un desastre, sino también a una lección decisiva en la historia de la meteorología aeronáutica aplicada a la seguridad de vuelo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -101,16 +92,14 @@ A largo plazo, el accidente de Kenner se estudia como uno de los hitos que condu
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Algunas fuentes divulgativas hablan de cuatro heridos en tierra, mientras que el informe final de la NTSB consigna nueve lesionados graves en tierra además de los ocho fallecidos. En esta efeméride se da prioridad a la cifra del informe oficial de la NTSB. Del mismo modo, aunque varias fuentes resumen la causa como “microrráfaga”, el mecanismo operativo completo fue la cizalladura del viento inducida por dicha microrráfaga durante el despegue.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** NTSB Final Report DCA82AA028  
+- **Timestamp de verificación:** 2026-09-07 12:02:32 CST
+- **Fuentes primarias/institucionales consultadas:** NTSB Final Report DCA82AA028  
 - **Fuentes secundarias de contraste:** Wikipedia (ES/EN), La Nación, Medium, 64 Parishes  
 - **Discrepancias resueltas:** número de lesionados en tierra (4 frente a 9); formulación técnica de la causa inmediata del accidente  
 - **Nivel de confianza:** Alto  

@@ -14,17 +14,13 @@ image: 1989-09-03-accidente-vuelo-254-varig-selva-amazonica.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1989-09-03-accidente-vuelo-254-varig-selva-amazonica.webp" alt="El Boeing 737-241 PP-VMK de Varig, aeronave siniestrada, fotografiado en el aeropuerto de Río de Janeiro-Galeão en 1983">
   <figcaption class="post-caption">Imagen anterior al hecho recordado: el Boeing 737-241 matrícula PP-VMK, el propio aparato del vuelo 254 de Varig, fotografiado en la plataforma del aeropuerto de Río de Janeiro-Galeão en octubre de 1983, casi seis años antes del siniestro. Fotografía de Clint Groves. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Varig_Boeing_737-200_PP-VMK_mod.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a> (<a href="https://www.gnu.org/licenses/old-licenses/fdl-1.2.html" style="color: #315fea; text-decoration: none;">GFDL 1.2</a>).</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El domingo 3 de septiembre de 1989, el vuelo 254 de Varig, un Boeing 737-241 matrícula PP-VMK, despegó de Marabá rumbo a Belém en la última de sus escalas intermedias: 346 kilómetros de vuelo, cuarenta y ocho minutos por delante. El Capitán Cézar Augusto Padula Garcez leyó en el plan de vuelo informático el valor 0270 y lo interpretó como un rumbo de 270 grados, cuando Varig lo imprimía con el decimal implícito —027,0°, hacia el noroeste—; el avión partió así rumbo al oeste. Tres horas más tarde, con los motores parados por agotamiento del combustible y la noche ya cerrada, Garcez posó el Boeing sin tren sobre la copa de la selva, cerca de São José do Xingu, en Mato Grosso. Murieron 13 de los 54 ocupantes.</p>
 <p>El accidente no fue solo un error de lectura: la investigación del CENIPA documentó una cadena de confirmaciones omitidas —el primer oficial copió el indicador del capitán en vez de verificar el plan, la tripulación atribuyó a una avería la imposibilidad de contactar Belém y siguió adelante, y el control tardó en activar la búsqueda cuando el avión no llegó—.Una parte de los 41 supervivientes caminó hasta una finca desde donde alertar; la evacuación completa se produjo unas 44 horas después del impacto. Los dos pilotos fueron condenados por negligencia a cuatro años de prisión, después conmutados por trabajos comunitarios.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Datos verificados del evento
 
 - **Fecha y hora del impacto:** domingo 3 de septiembre de 1989, sobre las 21:00 hora local (los registros de accidentes consignan 20:45; la crónica recogida por la Wikipedia en español, 21:06).
@@ -40,7 +36,6 @@ image: 1989-09-03-accidente-vuelo-254-varig-selva-amazonica.webp
 - **Investigación y justicia:** informe final del CENIPA (Centro de Investigación y Prevención de Accidentes Aeronáuticos de Brasil) en un año y siete meses; en el orden judicial, ambos pilotos fueron condenados a cuatro años de prisión, conmutados posteriormente por trabajos comunitarios.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Contexto Histórico
 
 A finales de los años ochenta, la aviación brasileña vivía una paradoja: redes domésticas enormes sostenidas por reactores de la primera generación, navegación de radioayudas todavía artesanal y compañías acostumbradas a volar sobre el vacío demográfico del interior. El vuelo 254 condensó esa geografía en tres horas de extravío sobre la mayor selva del planeta.
@@ -54,6 +49,7 @@ El Boeing 737 llegaba a 1989 en sus primeras variantes, los «Classic», con ind
 ### Entorno cultural
 Pocas historias de la aviación resumen mejor el paso de la era de la confianza ciega en el instrumento a la era de la verificación cruzada. El caso Varig entró en la literatura de seguridad por su mecanismo banal —un punto decimal implícito— y por su epígrafe humano: un aterrizaje ciego sobre árboles que salvó a 41 de los 54 a bordo.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Desarrollo Cronológico
 
 La cronología sigue el informe final del CENIPA, la ficha de Aviation Safety Network, el archivo del Bureau of Aircraft Accidents Archives y la crónica de Associated Press para el Los Angeles Times:
@@ -70,7 +66,6 @@ La cronología sigue el informe final del CENIPA, la ficha de Aviation Safety Ne
 - **Consecuencia judicial:** la Justicia federal brasileña condenó a Garcez y a Zille como responsables negligentes del siniestro a cuatro años de prisión, pena después conmutada por trabajos comunitarios.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Consecuencias e Impacto
 
 - **El factor humano, retratado:** el CENIPA no halló fallo técnico alguno —el avión había pasado sus inspecciones— y describió un proceso de «automatismo»: la tripulación rechazó sucesivamente las señales de que algo no encajaba (la VHF muda, la ausencia de balizas, las emisoras comerciales en lugar de la de Belém) y prefirió culpar a una avería antes que a la lectura del plan; el copiloto, llamado a verificar, se limitó a copiar.
@@ -79,7 +74,6 @@ La cronología sigue el informe final del CENIPA, la ficha de Aviation Safety Ne
 - **Reforma doctrinal en la cabina:** el caso se incorporó a la pedagogía de seguridad aérea como ejemplo canónico de confirmación cruzada y de gestión de recursos de cabina, el mismo terreno que doce años antes había abierto la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1977/03/27/colision-dos-b747-los-rodeos.html" style="color: #315fea; text-decoration: none;">colisión de Tenerife (27 de marzo de 1977)</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Legado
 
 Treinta y siete años después, el vuelo 254 sigue siendo el manual perfecto del error pequeño: el periodista brasileño Carlos Ari Germano da Silva lo incluyó, bajo el título «Rumo errado» (rumbo errado), en su historia de los accidentes de la aviación comercial de su país. También quedó, en Brasil, un capítulo judicial sin precedentes: el juicio penal a los pilotos.
@@ -87,7 +81,6 @@ Treinta y siete años después, el vuelo 254 sigue siendo el manual perfecto del
 Queda la lección de las cifras: el rumbo mal leído costó 13 vidas, pero una decisión de manual ejecutada a la perfección —llegar a la selva con los tanques casi vacíos para no arder— salvó a 41 personas. Entre los extravíos de ruta de los años ochenta, el del 254 comparte casi fecha con el del <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1983/09/01/derribo-vuelo-007-korean-air.html" style="color: #315fea; text-decoration: none;">vuelo 007 de Korean Air</a>, perdido el 1 de septiembre de 1983 sobre Sajalín tras horas de desvío inconsciente: dos aviones a la deriva por culpa de un rumbo, uno por no saber que se había desviado, otro por no querer admitir que se había equivocado.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Referencias Verificadas
 
 <div class="references">
@@ -102,16 +95,14 @@ Queda la lección de las cifras: el rumbo mal leído costó 13 vidas, pero una d
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> la fotografía que ilustra esta efeméride corresponde al propio aparato siniestrado: del PP-VMK existe imagen documental previa al hecho (Río de Janeiro-Galeão, octubre de 1983), y es la que se emplea conforme al criterio de los accidentes. En la hora del impacto las fuentes publicadas ofrecen dos referencias —20:45 hora local en las fichas de Aviation Safety Network y del Bureau of Aircraft Accidents Archives, 21:06 en la crónica de la Wikipedia en español— y en el despegue de Marabá otras dos (17:25 o 17:45); el texto emplea las fórmulas «sobre las 21:00» y «sobre las 17:45» y consigna la divergencia en los metadatos. Conviene precisar el mecanismo de la lectura: los planes informáticos de Varig expresaban el rumbo magnético en cuatro dígitos con la última cifra como décima de grado reservada a las flotas con navegación inercial (como sus DC-10); en el 737, sin inerciales, «0270» debía leerse 027° y el comandante lo interpretó, según la investigación, como 270°.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
+- **Timestamp de verificación:** 2026-09-07 12:02:32 CST
 - **Fuentes primarias/institucionales consultadas:** informe final del CENIPA (Centro de Investigación y Prevención de Accidentes Aeronáuticos, Brasil), accesible a través del registro de Aviation Safety Network que lo enlaza y sintetiza sus factores contribuyentes; Aviation Safety Network (Flight Safety Foundation); Bureau of Aircraft Accidents Archives; despacho de Associated Press para el Los Angeles Times del 7 de septiembre de 1989.
 - **Fuentes secundarias de contraste:** Wikipedia en español e inglés; reportaje retrospectivo de Aviación Line (2025).
 - **Discrepancias resueltas:** hora del impacto (20:45 según fichas técnicas frente a 21:06 de la Wikipedia en español; se opta por la fórmula aproximada); hora de despegue de Marabá (17:25 de ASN frente a 17:45 de ambas Wikipedias; se sigue la mayoría); balance de fallecidos (12 en las fichas iniciales frente a 13 en el recuento de la agencia y las enciclopedias, elevación coherente con la evolución de las primeras horas); heridos (34 según Wikipedia frente a 42 según BAAA; no se cifra en el texto); el nombre del primer oficial aparece en Aviación Line como Guilherme César do Carmo, pero se consigna Nilson de Souza Zille por ser el que asignan las enciclopedias con apoyo en la prensa brasileña de la época; la altura de los árboles del impacto varía entre 30 y 50 metros según la fuente, y se omite. La identificación del aparato se corrobora en la propia imagen (matrícula PP-VMK legible en el fuselaje).

@@ -20,7 +20,6 @@ image: 1989-03-19-primer-vuelo-bell-boeing-v-22-osprey.webp
 <p>El 19 de marzo de 1989 despegó en Arlington, Texas, el prototipo Bell-Boeing V-22 Osprey, efectuando su primer vuelo en modo helicóptero durante unos 15 minutos. Este hito inauguró el programa de ensayos de un revolucionario tiltrotor que buscaba combinar capacidad VTOL con la velocidad y alcance de un avión de transporte táctico. Pese a años de dificultades técnicas, sobrecostes y accidentes, el V-22 entró en servicio con el US Marine Corps en 2007 y se ha producido en centenares de ejemplares para misiones de asalto y transporte.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Fecha:** 19 de marzo de 1989
 - **Lugar:** Arlington, Texas, Estados Unidos
@@ -29,7 +28,6 @@ image: 1989-03-19-primer-vuelo-bell-boeing-v-22-osprey.webp
 - **Resultado inmediato:** Primer vuelo exitoso en modo helicóptero, validando las capacidades básicas de despegue y aterrizaje vertical, y dando inicio a un extenso programa de pruebas que se extendería por más de una década.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 A mediados de la década de 1980, el Departamento de Defensa de los Estados Unidos lanzó el programa JVX (Joint-service Vertical take-off/landing Experimental) para desarrollar una aeronave que combinara las capacidades de despegue y aterrizaje vertical de un helicóptero con la velocidad y eficiencia de un avión turbohélice. El objetivo era reemplazar flotas envejecidas de helicópteros de transporte medio y de asalto con un diseño revolucionario.
@@ -43,6 +41,7 @@ La tecnología de rotores basculantes (tiltrotor) había sido explorada experime
 ### Entorno cultural
 La aviación militar estadounidense vivía una era de innovación, con proyectos como el caza furtivo F-117 (primer vuelo en 1981) y el bombardero B-2 (en desarrollo). El V-22 representaba una apuesta arriesgada por una tecnología no probada en servicio operativo, lo que generaba expectativas y escepticismo a partes iguales.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **1981:** Bell Helicopter vuela el XV-15, demostrador tecnológico de tiltrotor, sentando las bases del programa V-22.
@@ -58,6 +57,7 @@ La aviación militar estadounidense vivía una era de innovación, con proyectos
 - **2009:** La Fuerza Aérea comienza a recibir la variante CV-22 para operaciones especiales.
 - **Actualidad:** Se han producido más de 375 ejemplares (hasta 2023), acumulando cientos de miles de horas de vuelo en misiones de combate, rescate y transporte, incluyendo despliegues en Irak, Afganistán y otras zonas de conflicto.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 - **Avance tecnológico:** El V-22 demostró la viabilidad operativa de los tiltrotores a gran escala, abriendo el camino para futuros diseños civiles y militares.
@@ -65,12 +65,12 @@ La aviación militar estadounidense vivía una era de innovación, con proyectos
 - **Lecciones aprendidas:** El prolongado desarrollo evidenció la importancia de una gestión de riesgos adecuada y la necesidad de pruebas exhaustivas antes de declarar la capacidad operativa inicial.
 - **Controversia:** Los accidentes y los elevados costes (más de 100 millones de dólares por unidad) generaron críticas constantes, pero los usuarios defienden su valor en misiones de asalto y operaciones especiales.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 El V-22 Osprey es el primer tiltrotor de producción del mundo y el único en servicio militar. Su diseño ha influido en proyectos posteriores como el AW609 (civil) y los conceptos de futuros rotores basculantes. Aunque su historia operativa ha estado marcada por la polémica, ha consolidado un papel insustituible en las fuerzas armadas estadounidenses y de Japón (que adquirió el modelo). Representa un hito en la evolución de las alas rotatorias y la aviación de transporte táctico.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -85,11 +85,11 @@ El V-22 Osprey es el primer tiltrotor de producción del mundo y el único en se
     <li><a href="https://www.afotec.af.mil/News/New-Stories/Article/431143/the-long-road-afotecs-two-plus-decades-of-v-22-involvement/" style="color: #315fea; text-decoration: none;">USAF AFOTEC – The Long Road: AFOTEC's Two-Plus Decades of V-22 Involvement</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** FlightGlobal, European Airshows, Boeing Defense (X), Vertical Flight Society (YouTube), AFOTEC, ERF Technical Report  
+- **Timestamp de verificación:** 2026-09-07 12:02:32 CST
+- **Fuentes primarias/institucionales consultadas:** FlightGlobal, European Airshows, Boeing Defense (X), Vertical Flight Society (YouTube), AFOTEC, ERF Technical Report  
 - **Discrepancias resueltas:** No se identificaron discrepancias significativas; todas las fuentes coinciden en la fecha y el lugar del primer vuelo.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

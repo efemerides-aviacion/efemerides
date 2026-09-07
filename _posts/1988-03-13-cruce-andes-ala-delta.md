@@ -20,7 +20,6 @@ image: 1988-03-13-cruce-andes-ala-delta.webp
 <p>El 13 de marzo de 1988, Basilio Moisés Impellizzeri Nicito se convirtió en el primer piloto en cruzar la cordillera de los Andes en ala delta, desde Chile hacia Argentina, marcando un hito en la historia del aladeltismo sudamericano. Nacido en Mendoza (1935) y radicado en Chile desde 1978, Impellizzeri estableció ese día el récord chileno de permanencia en vuelo con 11 horas y 5 minutos. Pionero del vuelo sin motor en la región, más tarde publicaría el libro "Volar es fascinante, ¡Atrévete!" (1988) y colaboraría durante décadas con publicaciones aeronáuticas chilenas, dejando un legado como impulsor de los deportes aéreos extremos en el Cono Sur.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Fecha:** 13 de marzo de 1988
 - **Lugar:** Cruce de la cordillera de los Andes, entre Chile y Argentina
@@ -29,7 +28,6 @@ image: 1988-03-13-cruce-andes-ala-delta.webp
 - **Resultado inmediato:** Primer cruce de los Andes en ala delta de la historia, con récord chileno de permanencia en vuelo de 11 horas y 5 minutos
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 A finales de la década de 1980, el aladeltismo experimentaba un crecimiento significativo en Sudamérica, impulsado por la pasión de pioneros que buscaban nuevos desafíos en el vuelo sin motor. La cordillera de los Andes, con sus imponentes alturas y complejas condiciones meteorológicas, representaba la máxima aspiración para los pilotos de ala delta de la región.
 
@@ -42,6 +40,7 @@ Las alas delta de la época evolucionaban rápidamente, con diseños más seguro
 ### Entorno cultural
 En Chile, el aladeltismo comenzaba a tener cierto reconocimiento público gracias a figuras como Basilio Impellizzeri, que combinaba su faceta de piloto con la de divulgador a través de sus escritos en revistas especializadas.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **12 de febrero de 1935:** Nace Basilio Moisés Impellizzeri Nicito en El Bermejo, Guaymallén, provincia de Mendoza, Argentina.
@@ -53,6 +52,7 @@ En Chile, el aladeltismo comenzaba a tener cierto reconocimiento público gracia
 - **31 de diciembre de 1994:** Logra otro de sus desafíos personales: comenzar un año volando, objetivo que consigue tras cuatro intentos previos.
 - **Alrededor de 2010:** Redacta su blog personal "Aladeltismo Chileno", donde a los 75 años expresa el deseo de publicar sus memorias y relatos. Tras esa fecha, no se han encontrado registros públicos que permitan confirmar su estado vital.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 La hazaña de Impellizzeri tuvo un impacto significativo en el aladeltismo sudamericano:
@@ -61,6 +61,7 @@ La hazaña de Impellizzeri tuvo un impacto significativo en el aladeltismo sudam
 - **Visibilidad mediática:** El récord de permanencia y el cruce internacional atrajeron la atención sobre un deporte que hasta entonces tenía escasa cobertura en los medios de comunicación tradicionales.
 - **Legado escrito:** A través de sus colaboraciones en revistas aeronáuticas y su libro, Impellizzeri documentó gran parte de la historia del aladeltismo chileno, convirtiéndose en una fuente primaria invaluable para futuras generaciones .
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 Basilio Impellizzeri Nicito ocupa un lugar destacado en la historia de la aviación deportiva sudamericana:
@@ -73,7 +74,6 @@ Basilio Impellizzeri Nicito ocupa un lugar destacado en la historia de la aviaci
 Como él mismo escribió en su blog personal, sus años de vuelo fueron "años de gloria y de frenesí por volar y volar", y su testimonio directo es el mejor legado de aquellos tiempos heroicos del vuelo sin motor en la región andina .
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -83,10 +83,10 @@ Como él mismo escribió en su blog personal, sus años de vuelo fueron "años d
     <li><a href="https://www.fai.org/commission/civl" style="color: #315fea; text-decoration: none;">FAI — CIVL (Comisión Internacional de Vuelo Libre: marco federativo del ala delta; el cruce de 1988 no consta como récord FAI en abierto)</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 12:00:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:02:32 CST
 - **Fuentes primarias/institucionales consultadas:** testimonio autobiográfico de Impellizzeri (blog Aladeltismo Chileno); FAI/CIVL como marco federativo (sin ficha del cruce en abierto)
 - **Fuentes secundarias de contraste:** Pilotos Retirados LAN
 - **Discrepancias resueltas:** blog y Pilotos Retirados LAN coinciden en el 13 de marzo de 1988. El récord de permanencia (11 h 5 min) solo aparece en esas fuentes, no en un registro FAI.

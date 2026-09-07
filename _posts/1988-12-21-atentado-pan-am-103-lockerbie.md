@@ -14,17 +14,13 @@ image: 1988-12-21-atentado-pan-am-103-lockerbie.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1988-12-21-atentado-pan-am-103-lockerbie.webp" alt="El Boeing 747 de Pan Am matrícula N739PA rodando por la plataforma de un aeropuerto, con la librea blanca y azul de la compañía y el globo terráqueo estilizado en la deriva">
   <figcaption class="post-caption">Imagen anterior al hecho recordado: el Boeing 747-121 de Pan American World Airways matrícula N739PA, bautizado <em>Clipper Maid of the Seas</em>, la aeronave destruida sobre Lockerbie. El nombre puede leerse bajo las ventanillas de la cabina de mando. Fuente: <a href="https://commons.wikimedia.org/wiki/File:B747_N739PA_PanAm.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>A las 19:02:50 UTC del 21 de diciembre de 1988, un artefacto explosivo improvisado oculto en un radiocasete detonó en la bodega delantera del vuelo 103 de Pan American World Airways, que volaba a 31.000 pies rumbo a Nueva York. El Boeing 747-121 matrícula N739PA, bautizado <em>Clipper Maid of the Seas</em>, se desintegró en el aire sobre la localidad escocesa de Lockerbie apenas treinta y ocho minutos después de despegar de Londres-Heathrow.</p>
 <p>Murieron las 259 personas a bordo y otras once vecinas de Lockerbie, sobre cuyas casas cayó la sección alar cargada de combustible. El balance de 270 víctimas convirtió el atentado en el peor acto terrorista cometido en suelo británico y en el ataque más letal contra ciudadanos estadounidenses hasta septiembre de 2001. La investigación, que levantó la mayor escena del crimen registrada hasta entonces, condujo a la condena de un agente de inteligencia libio y transformó los procedimientos de seguridad de la aviación civil en todo el mundo.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
-
 ## Datos verificados del evento
 
 - **Fecha y hora:** 21 de diciembre de 1988, 19:02:50 UTC. La última respuesta del radar secundario se recibió instantes antes de las 19:03.
@@ -47,7 +43,6 @@ image: 1988-12-21-atentado-pan-am-103-lockerbie.webp
 - **Informe técnico:** Aircraft Accident Report 2/90, de la Air Accidents Investigation Branch británica, publicado el 6 de agosto de 1990.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
-
 ## Contexto Histórico
 
 El atentado se produjo en un momento de máxima tensión entre Occidente y varios Estados de Oriente Próximo, y expuso la fragilidad de un sistema de seguridad aeroportuaria concebido para otra época.
@@ -65,7 +60,6 @@ El control del equipaje facturado en 1988 distaba mucho de los estándares actua
 Lockerbie era una localidad de unos cuatro mil habitantes sin relación alguna con el conflicto. La irrupción de una catástrofe internacional en un pueblo escocés convirtió a sus vecinos en protagonistas involuntarios de un episodio geopolítico. La respuesta de aquella comunidad —que lavó, planchó y devolvió a las familias las pertenencias personales recuperadas entre los restos— dejó una huella tan honda en los investigadores estadounidenses que sirvió de modelo para la creación de la división de atención a víctimas del FBI.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
-
 ## Desarrollo Cronológico
 
 Las horas se indican en tiempo universal coordinado, criterio empleado por el informe oficial.
@@ -89,7 +83,6 @@ Las horas se indican en tiempo universal coordinado, criterio empleado por el in
 - **21 de diciembre de 2020:** en el trigésimo segundo aniversario, la fiscalía estadounidense imputa a un tercer libio, Abu Agela Mas'ud Kheir Al-Marimi, como presunto constructor del artefacto. Fue detenido en 2022 y su juicio federal ha sufrido sucesivos aplazamientos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
-
 ## Consecuencias e Impacto
 
 La investigación técnica y la criminal discurrieron por separado, pero ambas alcanzaron dimensiones sin precedentes.
@@ -103,7 +96,6 @@ Las consecuencias políticas se prolongaron durante quince años. Libia soportó
 Para Pan American World Airways, ya debilitada financieramente, el atentado resultó un golpe del que no se recuperó. La compañía, símbolo de la aviación comercial estadounidense durante seis décadas, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1991/12/04/ultimo-vuelo-pan-am.html" style="color: #315fea; text-decoration: none;">cesó sus operaciones el 4 de diciembre de 1991</a>, menos de tres años después.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
-
 ## Legado
 
 Lockerbie marcó el punto de inflexión de la seguridad aeroportuaria moderna. Los procedimientos que hoy se dan por descontados nacieron en buena medida de aquel expediente.
@@ -117,7 +109,6 @@ El caso judicial sigue abierto casi cuatro décadas después. La condena de al-M
 Queda por último la memoria. La Universidad de Syracuse dedica cada año una semana del calendario académico al recuerdo de sus treinta y cinco estudiantes, concede becas a alumnos del instituto de Lockerbie y celebra un oficio el 21 de diciembre a la hora exacta de la detonación. En Escocia, un jardín conmemorativo recuerda a las 270 víctimas. Hasta los atentados del 11 de septiembre de 2001, Lockerbie fue el episodio de terrorismo aéreo más letal de la historia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
-
 ## Referencias Verificadas
 
 - <a href="https://www.gov.uk/aaib-reports/2-1990-boeing-747-121-n739pa-21-december-1988" style="color: #315fea; text-decoration: none;">Air Accidents Investigation Branch: informe 2/1990 sobre el accidente del Boeing 747-121 N739PA en Lockerbie</a>
@@ -129,14 +120,14 @@ Queda por último la memoria. La Universidad de Syracuse dedica cada año una se
 - <a href="https://en.wikipedia.org/wiki/Pan_Am_Flight_103" style="color: #315fea; text-decoration: none;">Pan Am Flight 103 — Wikipedia en inglés</a>
 - <a href="https://es.wikipedia.org/wiki/Vuelo_103_de_Pan_Am" style="color: #315fea; text-decoration: none;">Vuelo 103 de Pan Am — Wikipedia en español</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La clasificación de esta efeméride en la categoría de seguridad, y no en la de accidente, responde a la naturaleza del hecho: la aeronave fue destruida por un acto terrorista deliberado, no por un fallo técnico ni por error humano en la operación. El informe técnico de la Air Accidents Investigation Branch se limitó expresamente a los aspectos de la desintegración estructural y remitió a una investigación criminal separada los relativos a la seguridad aeroportuaria y a la autoría. Sobre la composición de la tripulación existe una discrepancia menor: el informe británico consigna trece auxiliares de vuelo, mientras que otras fuentes citan catorce; el total de dieciséis tripulantes y 259 ocupantes es coincidente en todas ellas. La cantidad exacta de explosivo empleada se ha estimado entre 340 y 450 gramos según los ensayos realizados durante la investigación, sin que exista una cifra única confirmada. En cuanto a la indemnización acordada por Libia, las fuentes oscilan entre los 2.700 millones de dólares de la oferta inicial de 2002 y los cerca de 3.000 millones que consigna la investigación federal estadounidense. La fotografía que ilustra esta efeméride corresponde a la aeronave destruida, con anterioridad al atentado.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:02:32 CST
 - **Fuentes primarias/institucionales consultadas:** Air Accidents Investigation Branch del Departamento de Transporte británico, informe 2/90 de 6 de agosto de 1990, con los datos de la aeronave, la tripulación, la carga, la secuencia de desintegración y los daños en tierra; Oficina Federal de Investigación; Agencia Central de Inteligencia; Departamento de Justicia de Estados Unidos; Universidad de Syracuse.
 - **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia a las actas del proceso de Camp Zeist y a la prensa contemporánea.
 - **Discrepancias resueltas:** se adoptaron los datos de tripulación del informe oficial, que consigna 10.910 horas de vuelo del comandante frente a las 11.000 de las versiones divulgativas, y que identifica a los tres tripulantes técnicos con nombre completo; se corrigió la composición de la cabina de pasaje, trece auxiliares de vuelo según el informe frente a catorce en otras fuentes; se precisó que el peso de combustible al despegue fue de 108.862 kilogramos y no la cifra redondeada que circula en las recopilaciones; se consignó el intervalo de 340 a 450 gramos de explosivo ante la ausencia de una cifra única; se recogieron las dos cuantías de indemnización publicadas.
