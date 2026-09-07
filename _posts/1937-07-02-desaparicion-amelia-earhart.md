@@ -15,16 +15,12 @@ image: 1937-07-02-desaparicion-amelia-earhart.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1937-07-02-desaparicion-amelia-earhart.webp" alt="Amelia Earhart y su navegante Fred Noonan abordando al Lockheed Electra en Puerto Rico, 1937">
   <figcaption class="post-caption">Amelia Earhart, derecha, junto a su navegante Fred Noonan, preparándose para abordar el Lockheed Electra 10E en una parada en Puerto Rico durante su intento de dar la vuelta al mundo en 1937; fuente: <a href="https://www.nationalgeographicla.com/amelia-earhart-teorias" style="color: #315fea; text-decoration: none;">National Geographic</a> / AFP.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 2 de julio de 1937, la célebre aviadora estadounidense Amelia Earhart y su experimentado navegante Fred Noonan desaparecieron sin dejar rastro sobre el océano Pacífico central a bordo de su bimotor Lockheed L-10E Electra. Tras despegar desde Lae, Papúa Nueva Guinea, con rumbo a la remota isla Howland en la penúltima etapa de su ambicioso vuelo de circunnavegación global, el contacto de radio se perdió de forma definitiva tras varias transmisiones fragmentarias que indicaban problemas de combustible y posicionamiento. A pesar de que el gobierno de los Estados Unidos ordenó una operación de búsqueda sin precedentes históricos, el destino final de la tripulación y de la aeronave sigue siendo, casi un siglo después, uno de los misterios más fascinantes de la historia de la aviación mundial.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Matrícula oficial de la aeronave:** `NR16020` (Lockheed Model 10E Electra), equipada con depósitos adicionales de combustible instalados en el fuselaje para trayectos de largo alcance
 - **Planta motriz del bimotor:** Dos motores radiales sobrealimentados de nueve cilindros refrigerados por aire Pratt & Whitney R-1340 Wasp S3H1, que producían 550 CV de potencia cada uno
@@ -35,7 +31,6 @@ image: 1937-07-02-desaparicion-amelia-earhart.webp
 - **Hitos históricos previos de la piloto:** Primera mujer en cruzar el Atlántico en solitario en 1932 (ver enlace a este hito en el apartado del Legado); <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/08/25/amelia-earhart-vuelo-transcontinental-la-nj.html" style="color: #315fea; text-decoration: none;">primera mujer en unir ambas costas de Estados Unidos en solitario y sin escalas</a> (24-25 de agosto de 1932); y primera persona en realizar el trayecto Honolulu-California sin escalas el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1935/01/11/amelia-earhart-primer-vuelo-en-solitario.html" style="color: #315fea; text-decoration: none;">11 de enero de 1935</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 A finales de la década de 1930, la aviación de larga distancia vivía una era de hitos insospechados, impulsada por el desarrollo de robustos bimotores de construcción enteramente metálica. Los pioneros del aire buscaban establecer las primeras aerovías de carácter transoceánico regular, uniendo continentes y archipiélagos aislados en un clima de intensa competencia tecnológica y comercial internacional.
@@ -49,6 +44,7 @@ En el plano técnico, el Lockheed L-10E Electra representaba la vanguardia de la
 ### Entorno cultural
 La desaparición de Amelia Earhart en el apogeo de su carrera consagró su figura como un mito imperecedero de la cultura de la aviación mundial, una de esas historias inconclusas que mantienen en vilo a los investigadores del siglo XXI. El misterio que rodea su último vuelo ha inspirado innumerables documentales, libros y largometrajes, donde su gesta es recordada como el símbolo supremo de la pasión por el cielo.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 La travesía final de Amelia Earhart y Fred Noonan a lo largo de su segundo intento de circunnavegación global se desarrolló a través de las siguientes etapas y sucesos significativos:
@@ -62,6 +58,7 @@ La travesía final de Amelia Earhart y Fred Noonan a lo largo de su segundo inte
 - **Julio de 1937:** El presidente Franklin D. Roosevelt ordena una operación de búsqueda masiva con barcos de la Armada y el portaaviones *Lexington*, recorriendo miles de millas de agua sin hallar ningún rastro.
 - **5 de enero de 1939:** Tras año y medio de investigaciones infructuosas, Amelia Earhart es declarada formalmente fallecida por un tribunal en California, cerrando el registro legal de la misión.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 La trágica y repentina desaparición de Amelia Earhart conmocionó profundamente a la sociedad internacional y redefinió las directrices de seguridad para los vuelos de largo alcance sobre el agua. El misterio obligó a replantear el diseño de las comunicaciones comerciales de emergencia.
@@ -71,6 +68,7 @@ La trágica y repentina desaparición de Amelia Earhart conmocionó profundament
 - **Nacimiento de múltiples hipótesis históricas:** La ausencia de restos físicos dio origen a diversas hipótesis que van desde el hundimiento inminente del avión en el mar (*Crash-and-Sink*), hasta el aterrizaje de emergencia en Nikumaroro (*Gardner Island*) o la supuesta captura de la tripulación por fuerzas japonesas en las islas Marshall.
 - **Consolidación de las misiones de Amelia Earhart:** Su trágico fin, lejos de opacar su obra, ayudó a consolidar la trascendencia de sus hitos, inspirando la creación de becas, aeroclubes y premios con su nombre para incentivar la incorporación de la mujer a la ingeniería y la aviación civil.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 A casi un siglo de su desaparición, Amelia Earhart permanece como la aviadora más célebre y representativa de la historia, un símbolo inmortal de libertad, coraje y vanguardia técnica. Su legado continúa inspirando a millones de de vuelos, pilotos y entusiastas del cielo en todo el mundo.
@@ -80,7 +78,6 @@ A casi un siglo de su desaparición, Amelia Earhart permanece como la aviadora m
 - **Expediciones y búsquedas en el siglo XXI:** El misterio de su desaparición continúa plenamente activo. Organizaciones de investigación y expediciones robóticas submarinas de alta tecnología continúan escaneando el lecho marino del Pacífico central en busca del fuselaje del Electra, manteniendo viva la esperanza de resolver el misterio técnico más grande de la aviación del siglo XX.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -92,19 +89,17 @@ A casi un siglo de su desaparición, Amelia Earhart permanece como la aviadora m
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> A pesar de las intensas búsquedas de 1937 y de las numerosas misiones tecnológicas submarinas realizadas en las décadas posteriores, el destino final del Lockheed L-10E Electra de Amelia Earhart y Fred Noonan sigue siendo el mayor misterio de la aviación mundial. Aunque la hipótesis oficial de las autoridades estadounidenses sostiene que la aeronave se quedó sin combustible y se precipitó al océano Pacífico central en las cercanías de la isla Howland, las hipótesis alternativas —como el aterrizaje de emergencia en el atolón de Nikumaroro planteado por el grupo TIGHAR o la supuesta captura por fuerzas de ocupación japonesas en las islas Marshall— continúan bajo riguroso estudio científico sin que exista un consenso definitivo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-08-19 16:10:00 CST  
-- **Fuentes primarias consultadas:** Archivos oficiales de la Armada de los Estados Unidos (US Navy), bitácoras del guardacostas USCG Itasca de julio de 1937, registros de transmisiones de radio de la Guardia Costera de EE. UU., documentos de diseño del Lockheed Model 10E Electra y los informes arqueológicos preliminares de TIGHAR en Nikumaroro
+- **Timestamp de verificación:** 2026-09-07 12:00:40 CST
+- **Fuentes primarias/institucionales consultadas:** Archivos oficiales de la Armada de los Estados Unidos (US Navy), bitácoras del guardacostas USCG Itasca de julio de 1937, registros de transmisiones de radio de la Guardia Costera de EE. UU., documentos de diseño del Lockheed Model 10E Electra y los informes arqueológicos preliminares de TIGHAR en Nikumaroro
 - **Discrepancias resueltas:** Se ha adoptado de forma rigurosa la fecha del 2 de julio de 1937 como el hito de la desaparición física de Amelia Earhart y Fred Noonan en el Pacífico, resolviendo las discrepancias entre las fechas de su pérdida operacional y su posterior declaración de fallecimiento legal decretada de forma formal por las autoridades judiciales de California el 5 de enero de 1939. Asimismo, se unificaron las distancias de la travesía total recorrida en vísperas de su pérdida en 33.000 km en un lapso de 30 días de operaciones.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

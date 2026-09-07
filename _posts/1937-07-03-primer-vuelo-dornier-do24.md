@@ -15,16 +15,12 @@ image: 1937-07-03-primer-vuelo-dornier-do24.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1937-07-03-primer-vuelo-dornier-do24.webp" alt="El hidroavión Dornier Do 24T-1 en pleno vuelo">
   <figcaption class="post-caption">El hidroavión Dornier Do 24T-1 en pleno vuelo de patrulla marítima, ca. 1940. El diseño original del Do 24 realizó su vuelo inaugural el 3 de julio de 1937, convirtiéndose en uno de los hidroaviones de aguas abiertas más exitosos de la Segunda Guerra Mundial. Fuente: <a href="https://commons.wikimedia.org/wiki/File:German_Dornier_Do_24T-1_in_flight,_circa_in_1940_(NH_112965).jpg" style="color: #315fea; text-decoration: none;">U.S. Navy / Wikimedia Commons</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 3 de julio de 1937, se llevó a cabo el primer vuelo del Dornier Do 24, un hidroavión trimotor de construcción completamente metálica que se convertiría en un referente absoluto del patrullaje marítimo y el salvamento en aguas abiertas. El despegue del prototipo V3 se produjo desde las aguas del lago de Constanza en Friedrichshafen, Alemania, pilotado por Erich Gundermann. Diseñado originalmente para cubrir las rigurosas especificaciones de la Armada Real de los Países Bajos para sus operaciones coloniales en las Indias Orientales Neerlandesas, este versátil coloso demostró un desempeño hidrodinámico y una estabilidad excepcionales en mares embravecidos, sirviendo con distinción tanto con las fuerzas aliadas como con el eje durante la Segunda Guerra Mundial.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Modelo y designación del prototipo:** Dornier Do 24 V3 (matrícula civil de pruebas `D-AYWI`), primer ejemplar construido del programa en realizar el vuelo inaugural
 - **Comandante y piloto de pruebas:** Erich Gundermann, piloto jefe de ensayos de vuelo de Dornier Flugzeugwerke
@@ -36,7 +32,6 @@ image: 1937-07-03-primer-vuelo-dornier-do24.webp
 - **Lugar de primer amerizaje de pruebas:** El Bodensee (lago de Constanza), en Friedrichshafen, en el sur del Imperio alemán
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 A finales de la década de 1930, las principales potencias mundiales con imperios coloniales distantes requerían de manera urgente de hidroaviones de gran autonomía y capacidad de operar en aguas abiertas embravecidas. La Armada Real de los Países Bajos necesitaba un sustituto robusto para sus obsoletos Dornier Wal en las Indias Orientales Neerlandesas, recurriendo a la experiencia de diseño del fabricante alemán Dornier Flugzeugwerke.
@@ -50,6 +45,7 @@ En el plano técnico, la transición hacia aviones completamente metálicos con 
 ### Entorno cultural
 La cultura de la época dorada de los hidroaviones consagró a estas colosales aeronaves como yates voladores de la ciencia moderna, capaces de realizar misiones tanto militares como de salvamento humanitario. El Dornier Do 24 se convirtió en una leyenda de la aviación de entreguerras y de la Segunda Guerra Mundial, ganándose el respeto de pilotos de ambos bandos debido a su capacidad probada para operar en mares donde ningún otro avión podía amerizar.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 La historia de desarrollo y despliegue del Dornier Do 24, desde sus primeras especificaciones hasta sus misiones en la Segunda Guerra Mundial y su prolongado servicio de posguerra, se detalla a continuación en sus fases más importantes:
@@ -64,6 +60,7 @@ La historia de desarrollo y despliegue del Dornier Do 24, desde sus primeras esp
 - **1944-1945:** Durante la ocupación de Francia, la planta CAMS en Sartrouville continúa produciendo el Do 24 para la Luftwaffe y, tras la liberación, sigue fabricándolo para la Marina de Francia hasta 1952.
 - **1972:** El Ejército del Aire de España retira formalmente de servicio activo sus últimos Dornier Do 24 tras treinta años de misiones de búsqueda y rescate marítimo, consagrando la longevidad del diseño.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 El éxito operacional del Dornier Do 24 demostró con creces la solidez del diseño hidrodinámico y mecánico alemán de entreguerras en las misiones transoceánicas de la época. Su versatilidad y resistencia redefinieron la doctrina de búsqueda y salvamento en alta mar.
@@ -73,6 +70,7 @@ El éxito operacional del Dornier Do 24 demostró con creces la solidez del dise
 - **Contribución aliada en el Teatro del Pacífico:** Los hidroaviones Do 24K operados por los neerlandeses y posteriormente por los australianos en el Pacífico demostraron ser excelentes plataformas de ataque ligero de superficie y transporte de tropas de largo alcance, logrando éxitos notables como el hundimiento de destructores enemigos.
 - **Estándar de longevidad en España:** El gobierno español operó una flota de Do 24 comprados a Alemania en misiones de búsqueda y rescate en el Mediterráneo, permaneciendo en servicio activo regular hasta 1972, lo que representó uno de los periodos de servicio operativo más largos de cualquier avión de la era de la Segunda Guerra Mundial.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 El Dornier Do 24 es recordado hoy en la historia de la aeronáutica como uno de los hidroaviones más eficientes y exitosos de la historia de la aviación de entreguerras. Su diseño de ingeniería e innovaciones continúan influyendo en las investigaciones y diseños de canoas voladoras del siglo XXI.
@@ -82,7 +80,6 @@ El Dornier Do 24 es recordado hoy en la historia de la aeronáutica como uno de 
 - **Hito de la ingeniería de aguas abiertas:** El Do 24 sigue figurando en los manuales de hidrodinámica como el diseño de canoa voladora de mayor estabilidad y pericia sobre el agua de la historia, habiendo resuelto el reto de operar de manera regular en alta mar mediante aletas estabilizadoras de quilla en lugar de los vulnerables flotadores de ala convencionales.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -94,19 +91,17 @@ El Dornier Do 24 es recordado hoy en la historia de la aeronáutica como uno de 
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Se hace constar que, de manera inusual en los programas de desarrollo aeronáutico, el primer ejemplar de la serie en realizar el vuelo inaugural del Dornier Do 24 no fue el primer prototipo construido de forma cronológica (V1 o V2), sino el tercero: el **Dornier Do 24 V3** (matrícula civil *D-AYWI*). Este prototipo de pruebas despegó el 3 de julio de 1937 equipado con motores radiales americanos Wright Cyclone para satisfacer de forma inmediata el contrato firmado con la Armada de los Países Bajos, mientras que los prototipos V1 y V2 con motores diésel Junkers Jumo no volaron sino hasta principios de 1938.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Archivos oficiales de la compañía Dornier Flugzeugwerke, bitácoras de vuelos de los ensayos sobre el lago de Constanza de julio de 1937, contratos de adquisición de la Armada Real de los Países Bajos de 1936, e informes de homologación del centro de pruebas de Travemünde de la Luftwaffe
+- **Timestamp de verificación:** 2026-09-07 12:00:40 CST
+- **Fuentes primarias/institucionales consultadas:** Archivos oficiales de la compañía Dornier Flugzeugwerke, bitácoras de vuelos de los ensayos sobre el lago de Constanza de julio de 1937, contratos de adquisición de la Armada Real de los Países Bajos de 1936, e informes de homologación del centro de pruebas de Travemünde de la Luftwaffe
 - **Discrepancias resueltas:** Se ha identificado y resuelto de forma absoluta la discrepancia sobre las fechas de los primeros vuelos de los prototipos, confirmando que el Do 24 V3 con motores Wright Cyclone despegó por primera vez el 3 de julio de 1937, adelantándose al prototipo V1 (con motores Junkers Jumo diésel), el cual realizó su primer vuelo el 10 de enero de 1938.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

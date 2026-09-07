@@ -15,16 +15,12 @@ image: 1935-07-01-record-endurance-fred-al-key-curtiss-robin.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1935-07-01-record-endurance-fred-al-key-curtiss-robin.webp" alt="Multitud en el Cleveland Municipal Airport durante las National Air Races de 1935, conmemorando el récord mundial de resistencia aérea de los hermanos Fred y Al Key">
   <figcaption class="post-caption">Multitud reunida en el Cleveland Municipal Airport durante las National Air Races, escenario donde los hermanos Fred y Al Key establecieron el récord mundial de resistencia aérea al permanecer en vuelo continuo durante 27 días, entre junio y julio de 1935; fuente: Key Brothers Aviation Museum / Meridian Airport.</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 1 de julio de 1935, los hermanos Al y Fred Key aterrizaron su monoplano Curtiss Robin J-1 Deluxe, bautizado como «Ole Miss», en Meridian, Mississippi, estableciendo un asombroso récord mundial de resistencia aérea sin escalas de 653 horas y 34 minutos (más de veintisiete días en el aire). El vuelo, que se había iniciado el 4 de junio de 1935, fue concebido para promocionar el aeropuerto municipal local y demostró la viabilidad del reabastecimiento en vuelo mediante el uso de una innovadora boquilla de acoplamiento seguro contra derrames de combustible. Esta hazaña histórica, que requirió cuatrocientos treinta y dos reabastecimientos aéreos y mantenimiento de motor en pleno vuelo sobre una pasarela exterior, revolucionó las tecnologías de reabastecimiento de la aviación militar y civil.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Nombre oficial de la aeronave:** Curtiss Robin J-1 Deluxe (Modelo 50H), bautizado en honor a su estado de origen como *Ole Miss* y propiedad de William H. Ward
 - **Especificaciones de la planta motriz:** Un motor radial refrigerado por aire Wright J-5 Whirlwind de nueve cilindros que completó más de sesenta y un millones de revoluciones continuas en vuelo
@@ -36,7 +32,6 @@ image: 1935-07-01-record-endurance-fred-al-key-curtiss-robin.webp
 - **Celebración del aterrizaje:** Recibimiento masivo de más de 30.000 espectadores al tocar tierra en Meridian el 1 de julio de 1935 a las 18:06 horas
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 A mediados de la década de 1930, la aviación comercial y de exploración se encontraba sumergida en la Gran Depresión, obligando a los aeródromos municipales de todo el país a buscar soluciones desesperadas para evitar el cierre por falta de fondos. Los vuelos de resistencia extrema se convirtieron en la principal herramienta de mercadotecnia para demostrar la robustez de las aeronaves y justificar el gasto público en infraestructura aérea.
@@ -50,6 +45,7 @@ En el plano de la ingeniería de vuelo, los sistemas de reabastecimiento aéreo 
 ### Entorno cultural
 La cultura de la época encumbró a los hermanos Al y Fred Key bajo el apelativo de «The Flying Keys» (los hermanos voladores), convirtiendo su vuelo en un fenómeno mediático seguido por radio y prensa escrita. Sus transmisiones en directo del monótono rumbido del motor sobre el pueblo unificaron a la comunidad en una vigilia festiva que culminó con uno de los recibimientos populares más multitudinarios del estado.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 La travesía del «Ole Miss» se ejecutó como una operación de resistencia física y precisión técnica sin igual, la cual se detalla a continuación en sus fases más importantes:
@@ -63,6 +59,7 @@ La travesía del «Ole Miss» se ejecutó como una operación de resistencia fí
 - **27 de junio de 1935:** Se supera de manera oficial el récord anterior de resistencia de los hermanos Hunter, atrayendo la atención de la prensa internacional y de los mandos militares del Pentágono.
 - **1 de julio de 1935 (18:06 horas):** Tras permanecer 653 horas y 34 minutos en el aire, el «Ole Miss» aterriza de forma segura en Meridian ante más de 30.000 personas, estableciendo una marca mundial imbatible para aviones de hélice convencionales.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 La hazaña de los hermanos Key demostró a nivel mundial la madurez técnica del reabastecimiento aéreo y la extraordinaria fiabilidad del motor Wright Whirlwind bajo condiciones de fatiga prolongada. El hito aceleró la modernización de los sistemas de transferencia de fluidos en vuelo en las fuerzas aéreas mundiales.
@@ -72,6 +69,7 @@ La hazaña de los hermanos Key demostró a nivel mundial la madurez técnica del
 - **Prueba de fatiga de materiales extrema:** La operación ininterrumpida de más de sesenta y un millones de revoluciones del motor radial Wright J-5 demostró a los ingenieros la increíble robustez de las plantas motrices de refrigeración por aire, acelerando el declive de los motores de refrigeración líquida complejos en la aviación civil de entreguerras.
 - **Servicio y condecoraciones en la Segunda Guerra Mundial:** Ambos hermanos sirvieron de forma valerosa como pilotos de bombarderos pesados en el Teatro del Pacífico durante la Segunda Guerra Mundial, siendo galardonados con prestigiosas condecoraciones como la Cruz de Vuelo Distinguido (DFC).
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 A casi un siglo de su histórica travesía, el récord establecido por los hermanos Al y Fred Key permanece como un hito imbatible en los anales de la aviación mundial convencional. Su herencia técnica y humana continúa inspirando el diseño y la seguridad en los de largo recorrido del siglo XXI.
@@ -81,7 +79,6 @@ A casi un siglo de su histórica travesía, el récord establecido por los herma
 - **Hito de la resistencia de la aviación clásica:** El vuelo de 653 horas y 34 minutos de los hermanos Key se mantuvo como la marca mundial absoluta e imbatible de resistencia aérea para aviones de hélice durante más de veinticuatro años, hasta ser superado en 1959 por el legendario vuelo ininterrumpido de 64 días en un Cessna 172. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1959/02/07/timm-cook-record-cessna172.html" style="color: #315fea; text-decoration: none;">efeméride dedicada a Robert Timm, John Cook y su histórico récord de resistencia en un Cessna 172</a> para más detalles.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -93,19 +90,17 @@ A casi un siglo de su histórica travesía, el récord establecido por los herma
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Se hace constar que el histórico vuelo de resistencia de los hermanos Al y Fred Key, completado el 1 de julio de 1935 tras 653 horas y 34 minutos en el aire, representó el tercer intento de la tripulación por batir la marca mundial. Las dos tentativas previas debieron ser abortadas debido a fallas mecánicas menores y condiciones meteorológicas adversas.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Certificado de récord original de la National Aeronautic Association (NAA) custodiado por el Smithsonian, archivos históricos del aeropuerto Key Field, registros de patentes del acoplamiento automático de A. D. Hunter (1935) y bitácoras del vuelo del Curtiss Robin Ole Miss de junio de 1935
+- **Timestamp de verificación:** 2026-09-07 12:00:40 CST
+- **Fuentes primarias/institucionales consultadas:** Certificado de récord original de la National Aeronautic Association (NAA) custodiado por el Smithsonian, archivos históricos del aeropuerto Key Field, registros de patentes del acoplamiento automático de A. D. Hunter (1935) y bitácoras del vuelo del Curtiss Robin Ole Miss de junio de 1935
 - **Discrepancias resueltas:** Se ha verificado y unificado la duración exacta del vuelo de resistencia en 653 horas y 34 minutos de conformidad con el certificado de registro oficial de la National Aeronautic Association (NAA), resolviendo la discrepancia con algunos reportes periodísticos de la época que redondeaban la cifra a 653 horas y 35 minutos. Asimismo, se unificó la distancia recorrida en la marca oficial de 52.320 millas terrestres.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

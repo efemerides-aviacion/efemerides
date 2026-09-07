@@ -14,16 +14,12 @@ image: 1938-08-14-record-vuelo-ny-berlin-focke-wulf-fw200.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1938-08-14-record-vuelo-ny-berlin-focke-wulf-fw200.webp" alt="La tripulación del Fw 200 Condor con flores, recibida en el aeropuerto de Tempelhof, con el empenaje del avión al fondo, el 14 de agosto de 1938">
   <figcaption class="post-caption">Walter Kober, Paul Dierberg, Alfred Henke y Rudolf von Moreau, recibidos en el aeropuerto de Tempelhof el 14 de agosto de 1938 tras el vuelo récord Berlín-Nueva York-Berlín; al fondo, el empenaje del Fw 200 Condor D-ACON Brandenburg. Fuente: Deutsche Lufthansa AG, vía This Day in Aviation.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 14 de agosto de 1938 aterrizó en Tempelhof el Focke-Wulf Fw 200 Condor D-ACON Brandenburg, tras cubrir sin escalas los 6.392 kilómetros que separan Nueva York de Berlín en poco menos de veinte horas. Tres días antes había llegado a Floyd Bennett Field desde Berlín en 24 horas y 56 minutos: era el primer avión más pesado que el aire que unía sin escalas ambas ciudades, y el primero en completar el doble cruce sin escalas en una misma operación. El doble vuelo, obra de un avión de línea diseñado por <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1898/02/24/nacimiento-kurt-tank.html" style="color: #315fea; text-decoration: none;">Kurt Tank</a> para Deutsche Luft Hansa, demostró que un aparato de ruedas podía tender sin escalas el puente atlántico que la aviación comercial de la época todavía servía con hidroaviones y escalas; el servicio regular sin escalas, sin embargo, tendría que esperar a la posguerra.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha que culmina el evento:** 14 de agosto de 1938, aterrizaje en Tempelhof del vuelo de regreso iniciado el 13 en Nueva York
@@ -35,7 +31,6 @@ image: 1938-08-14-record-vuelo-ny-berlin-focke-wulf-fw200.webp
 - **Diseño:** Kurt Tank, por encargo de Deutsche Luft Hansa de junio de 1936; primer vuelo del prototipo el 27 de julio de 1937
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 El verano de 1938 fue la estación dorada de los récords: pocas semanas antes, Howard Hughes había dado la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1938/07/14/vuelta-al-mundo-howard-hughes.html" style="color: #315fea; text-decoration: none;">vuelta al mundo en 91 horas</a>, y once años después del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">cruce del Atlántico por Charles Lindbergh</a>, el Atlántico seguía siendo la frontera mayor de la aviación comercial, hasta entonces dominio de los hidroaviones.
@@ -53,7 +48,6 @@ Mientras las líneas británicas y estadounidenses confiaban el océano a grande
 El Condor encarnó la idea del avión como puente entre pueblos que proclamaba la placa conmemorativa de la Böttcherstraße de Bremen: «En agosto de 1938 el Condor voló sin escalas Berlín-Nueva York y creó con ello un nuevo puente entre los pueblos». La misma máquina que simbolizó ese puente sería, tres años después, el azote de los convoyes aliados en el Atlántico.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 - **Junio de 1936:** Kurt Tank propone a Deutsche Luft Hansa un avión de línea de largo alcance, con tren de ruedas, para las rutas transoceánicas.
@@ -66,7 +60,6 @@ El Condor encarnó la idea del avión como puente entre pueblos que proclamaba l
 - **Noviembre de 1938:** el mismo D-ACON suma un nuevo vuelo récord de larga distancia, Berlín-Hanoi, que confirma las cualidades del modelo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 - **Primer puente aéreo sin escalas entre Europa y América:** el doble vuelo demostró que un avión de línea con tren de ruedas podía cubrir el Atlántico sin escalas en ambos sentidos; el servicio regular transatlántico, no obstante, lo inaugurarían un año después los hidroaviones de Pan American, con escalas, en la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1939/06/28/primer-servicio-transatlantico-pasajeros-panam.html" style="color: #315fea; text-decoration: none;">primera línea transatlántica de pasajeros</a>, y el tráfico de pasajeros sin escalas con aviones de ruedas solo se consolidaría después de la Segunda Guerra Mundial.
@@ -75,13 +68,11 @@ El Condor encarnó la idea del avión como puente entre pueblos que proclamaba l
 - **Permanencia del récord:** ningún avión de pasajeros de su clase con tren de ruedas superó las prestaciones del Condor en la ruta Berlín-Nueva York hasta la generación del Boeing 307 Stratoliner y el DC-4, ya en guerra.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 Ochenta y ocho años después, el doble vuelo del Brandenburg se recuerda como el momento en que un avión de ruedas demostró que el océano podía cruzarse de un tirón, proeza que hasta entonces solo se había ensayado como récord. El Fw 200 dejó tras de sí una doble memoria: la del puente civil entre Berlín y Nueva York que la propaganda quiso y la guerra deshizo, y la del azote militar de los convoyes; pero fue aquel agosto de 1938, con Kober, Dierberg, Henke y von Moreau recibidos con flores en Tempelhof, cuando un avión de línea demostró que el Atlántico podía cruzarse de un tirón, en ambos sentidos, y que el futuro del transporte intercontinental tenía ruedas y no flotadores.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 <div class="references">
@@ -94,11 +85,10 @@ Ochenta y ocho años después, el doble vuelo del Brandenburg se recuerda como e
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN), This Day in Aviation
+- **Timestamp de verificación:** 2026-09-07 12:00:40 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), This Day in Aviation
 - **Discrepancias resueltas:** la duración del vuelo de regreso figura como 19 horas y 47 minutos en Wikipedia (EN), 19 horas y 55 minutos en Wikipedia (ES) y 19 horas y 56 minutos en This Day in Aviation; el cuerpo redacta «poco menos de veinte horas» y el abanico de cifras consta en Datos verificados. El aeropuerto de salida en Berlín figura como Staaken en las fuentes del vuelo récord y como Tempelhof en algunas recopilaciones; se adopta Staaken para la ida, según Wikipedia y This Day in Aviation. La fecha del vuelo Berlín-Hanoi varía entre fuentes (20 y 28 de noviembre de 1938); se redactó sin día exacto.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

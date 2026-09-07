@@ -14,16 +14,12 @@ image: 1938-07-14-vuelta-al-mundo-howard-hughes.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1938-07-14-vuelta-al-mundo-howard-hughes.webp" alt="Lockheed 14 Super Electra NX18973 rodeado de multitud, con la matrícula visible en ala y deriva">
   <figcaption class="post-caption">El Lockheed Model 14-N2 Super Electra matrícula NX18973, rodeado por la multitud al término de la vuelta al mundo; la matrícula es visible en el ala y en la deriva. Fuente: Wikimedia Commons (Archivo Nacional de los Países Bajos).</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Entre el 10 y el 14 de julio de 1938, Howard Hughes y cuatro tripulantes completaron en un Lockheed 14 Super Electra una circunnavegación del hemisferio norte de 91 horas y 14 minutos, con escalas en París, Moscú, Omsk, Yakutsk, Fairbanks y Minneapolis. El vuelo rebajó en casi cuatro días la marca que Wiley Post mantenía desde 1933, demostró el estado del arte de la navegación y la radiocomunicación aeronáuticas, convirtió a Hughes en héroe nacional y le valió el Trofeo Collier de 1938.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha de culminación:** 14 de julio de 1938, 14:34 hora local, Floyd Bennett Field, Brooklyn, Nueva York
@@ -38,7 +34,6 @@ image: 1938-07-14-vuelta-al-mundo-howard-hughes.webp
 - **Reconocimientos:** Trofeo Collier de 1938 (entonces Aero Club Trophy) y Trofeo Harmon de 1938
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 Cuando emprendió la vuelta al mundo, Howard Hughes era un millonario excéntrico más conocido por su relación con Katharine Hepburn que por su aviación, pese a haber fijado en enero de 1937 el récord transcontinental de Los Ángeles a Newark en 7 horas, 28 minutos y 25 segundos con su H-1 Racer. La circunnavegación fue diseñada como demostración tecnológica: Lockheed cedió el aparato sin costo, convencida de que la publicidad del vuelo justificaba la inversión, y lo preparó durante dos meses en Burbank.
@@ -56,7 +51,6 @@ El Super Electra era un bimotor metálico de ala baja con tren retráctil y la c
 El bautizo del avión como «New York World's Fair 1939», acordado con Grover Whalen y los organizadores de la feria, muestra hasta qué punto el vuelo fue también una operación de promoción nacional e industrial: un triunfo del arte aeronáutico estadounidense, en la estela del ídolo de Hughes, Wiley Post, quien junto a Harold Gatty había <a href="https://efemerides-aviacion.github.io/efemerides/evento/1931/07/01/circunnavegacion-wiley-post-harold-gatty.html" style="color: #315fea; text-decoration: none;">pioneramente circunnavegado el globo en 1931</a> y fijado en solitario la marca de 1933 que Hughes venía a batir.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 - **Enero de 1937:** Hughes fija el récord transcontinental con el H-1 Racer; decide superar la marca global de su héroe, Wiley Post.
@@ -69,7 +63,6 @@ El bautizo del avión como «New York World's Fair 1939», acordado con Grover W
 - **Invierno de 1938-1939:** La National Aeronautic Association otorga a Hughes y sus compañeros el Aero Club Trophy —hoy Trofeo Collier— «por su vuelo epocal alrededor del mundo en 91 horas y 14 minutos»; Hughes recibe además el Trofeo Harmon.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 - **El récord de Post, superado por amplio margen:** las 186 horas de 1933 quedaron rebajadas en casi cuatro días; la prensa subrayó que el trecho neoyorquino-parisino se había volado en menos de la mitad del tiempo de Lindbergh once años antes.
@@ -78,13 +71,11 @@ El bautizo del avión como «New York World's Fair 1939», acordado con Grover W
 - **Reconocimiento institucional:** el <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1876/06/17/nacimiento-robert-joseph-collier-pionero-aviador.html" style="color: #315fea; text-decoration: none;">Trofeo Collier</a> de 1938 inscribió a Hughes en la lista mayor de la aeronáutica estadounidense, junto a nombres como los de Orville Wright y Charles Lindbergh.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 Ochenta y ocho años después, la vuelta al mundo de Hughes se recuerda como el último gran récord de la era dorada y como bisagra entre las circunnavegaciones de entreguerras y las hazañas militares de posguerra: en 1948 el B-29 <a href="https://efemerides-aviacion.github.io/efemerides/evento/1948/08/06/primera-circunnavegacion-lucky-lady-i-b29.html" style="color: #315fea; text-decoration: none;">Lucky Lady I repitió la gesta con sello de la Fuerza Aérea</a>, y en 1949 el B-50 <a href="https://efemerides-aviacion.github.io/efemerides/evento/1949/03/02/primera-circunnavegacion-alrededor-del-mundo.html" style="color: #315fea; text-decoration: none;">Lucky Lady II completó la primera circunnavegación aérea sin escalas</a>, que todavía cita el vuelo de Hughes como antecedente obligado. El NX18973, con su rótulo de la Feria Mundial de 1939, quedó como símbolo de un momento en que un particular, un avión de serie y cinco tripulantes podían aún firmar la mayor marca del planeta.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 <div class="references">
@@ -97,17 +88,15 @@ Ochenta y ocho años después, la vuelta al mundo de Hughes se recuerda como el 
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el carácter de «récord»:</strong> la Federación Aeronáutica Internacional exige a una circunnavegación cruzar todos los meridianos en un mismo sentido y cubrir al menos la longitud del Trópico de Cáncer; la ruta de Hughes, ceñida a las latitudes norte, quedó unos 12.900 kilómetros por debajo de ese mínimo, por lo que la FAI no la homologó como récord oficial —tampoco lo fueron, por el mismo motivo, los vuelos de Wiley Post—. Su vigencia histórica descansa en la marca nacional reconocida en Estados Unidos y en el Trofeo Collier de 1938.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN), This Day in Aviation, ICAO Postal History, Wikimedia Commons
+- **Timestamp de verificación:** 2026-09-07 12:00:40 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), This Day in Aviation, ICAO Postal History, Wikimedia Commons
 - **Discrepancias resueltas:** La duración total figura como 91 horas y 14 minutos en This Day in Aviation y en la cita del propio Trofeo Collier, y como «3 días, 19 horas y 17 minutos» en ICAO y Wikipedia; se adoptó la primera por ser la inscrita en el galardón. La distancia (23.612 km frente a 23.818 km según las fuentes) se redactó como «unos 23.800 kilómetros (las fuentes difieren)». El número de serie del aparato (1419 frente a 1491) se omitió por no ser esencial ni estar conciliado.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

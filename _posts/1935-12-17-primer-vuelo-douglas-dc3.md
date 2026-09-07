@@ -15,12 +15,10 @@ image: 1935-12-17-primer-vuelo-douglas-dc3.webp
   <figcaption class="post-caption">Este avión fue el primer DC-3, configurado como Douglas Sleeper Transport (DST), registro X14988. (Fuente: Douglas Aircraft Company / This Day in Aviation).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 17 de diciembre de 1935, el Douglas DC-3 realizó su primer vuelo en Santa Monica, California. Diseñado por la Douglas Aircraft Company para American Airlines, el DC-3 combinó velocidad, alcance y confort, convirtiéndose en el primer avión rentable solo con pasajeros y en un ícono de la aviación comercial y militar.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 17 de diciembre de 1935  
@@ -45,6 +43,7 @@ Su diseño metálico, ala baja y tren retráctil marcaron un estándar en la avi
 ### Entorno cultural
 El DC-3 se convirtió en símbolo de la edad de oro de la aviación y en protagonista de la Segunda Guerra Mundial como C-47 Skytrain.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - 1935: Primer vuelo del prototipo DST (X14988).  
 - 1936: Entrada en servicio con American Airlines.  
@@ -52,12 +51,14 @@ El DC-3 se convirtió en símbolo de la edad de oro de la aviación y en protago
 - 1941–1945: Militarizado como C-47 Skytrain/Dakota, con más de 10.000 unidades construidas.  
 - Posguerra: Miles de C-47 convertidos a DC-3 civiles impulsaron aerolíneas regionales.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 - Primer avión rentable solo con pasajeros.  
 - Reducción de accidentes gracias a su diseño robusto.  
 - Estableció estándares de diseño para futuras aeronaves.  
 - Papel crucial en la Segunda Guerra Mundial en transporte, evacuación y logística.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 Casi un siglo después, cientos de DC-3 siguen volando. Es considerado “el avión que lo cambió todo” y un ícono perdurable de la aviación mundial.
 
@@ -72,14 +73,15 @@ Casi un siglo después, cientos de DC-3 siguen volando. Es considerado “el avi
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> El primer vuelo fue realizado por el prototipo DST (Douglas Sleeper Transport), registro X14988, el 17 de diciembre de 1935. Algunas fuentes mencionan el DC-3 estándar, pero la verificación confirma que el vuelo inaugural correspondió a la variante DST.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** National Air and Space Museum, C.R. Smith Museum, This Day in Aviation, Hermes Air Transport Organisation  
+- **Timestamp de verificación:** 2026-09-07 12:00:40 CST
+- **Fuentes primarias/institucionales consultadas:** National Air and Space Museum, C.R. Smith Museum, This Day in Aviation, Hermes Air Transport Organisation  
 - **Discrepancias resueltas:** Confirmación de que el primer vuelo fue del DST X14988, no del DC-3 estándar.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
