@@ -17,13 +17,11 @@ redirect_from:
   <figcaption class="post-caption">Hanna Reitsch con la Cruz de Hierro y distintivo de aviadora de la Luftwaffe, circa 1941. Fuente: <a href="https://www.ecured.cu/Hanna_Reitsch" style="color: #315fea; text-decoration: none;">EcuRed</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Hanna Reitsch, nacida el 29 de marzo de 1912 en Hirschberg (hoy Jelenia Góra, Polonia), fue la primera piloto de helicóptero y una de las primeras mujeres piloto de pruebas en Alemania. Rompió más de 40 récords mundiales en planeadores y aviones motorizados. Durante la Segunda Guerra Mundial probó prototipos para la Luftwaffe, incluyendo el caza cohete Me 163 Komet y la bomba volante V-1 en vuelo tripulado. Es la única mujer condecorada con la Cruz de Hierro de 1.ª Clase.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 29 de marzo de 1912
 - **Lugar:** Hirschberg, Silesia, Imperio Alemán (actual Jelenia Góra, Polonia)
@@ -38,7 +36,6 @@ redirect_from:
 - **Aeronaves notables:** Fw 61, Me 163 Komet, Me 262, V-1 (Fieseler Fi 103), Fa 61 (autogiro)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 Hanna Reitsch nació en el Imperio Alemán dos años antes del inicio de la Primera Guerra Mundial. Creció en la convulsionada República de Weimar y alcanzó la fama durante el ascenso del nazismo, con el que colaboró activamente. Su vida refleja la complejidad de una aviadora de excepcional talento atrapada en el aparato propagandístico del Tercer Reich.
@@ -52,6 +49,7 @@ Alemania fue líder mundial en vuelo sin motor durante el período de entreguerr
 ### Entorno cultural
 El régimen nazi explotó la figura de Reitsch como símbolo de la «mujer alemana moderna»: valiente, disciplinada y al servicio del Estado. Aunque no era miembro del partido, aceptó su rol propagandístico y se convirtió en una figura pública cercana a Hitler, a quien admiraba.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 
 - **29 de marzo de 1912:** Nace Hanna Reitsch en Hirschberg, Silesia.
@@ -80,6 +78,7 @@ El régimen nazi explotó la figura de Reitsch como símbolo de la «mujer alema
 - **Récords femeninos de altitud:** Superó los 6.800 m en planeador y los 12.400 m en avión a reacción.
 - **Récord femenino de distancia** en vuelo sin motor (1937, Alpes).
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 
 - **Pionera técnica:** Demostró la viabilidad del vuelo bajo techo en helicóptero, probó el primer caza cohete operativo y fue la única persona en pilotar una V-1 en vuelo controlado.
@@ -87,12 +86,12 @@ El régimen nazi explotó la figura de Reitsch como símbolo de la «mujer alema
 - **Ejemplo de tenacidad:** Sufrió múltiples accidentes con fracturas, quemaduras y conmociones cerebrales, pero siempre retornó al vuelo.
 - **Legado controvertido:** A pesar de su habilidad técnica indiscutida, su colaboración con el nazismo y su negativa a condenarlo tras la guerra la convierten en una figura histórica compleja, admirada por sus logros pero cuestionada éticamente.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
 Hanna Reitsch es recordada como una de las aviadoras más audaces y técnicamente competentes del siglo XX. Su contribución al desarrollo de la aviación —especialmente en alas rotatorias, vuelo cohete y sistemas no tripulados— fue pionera. Sin embargo, su legado sigue siendo controvertido debido a su adhesión al nacionalsocialismo. Numerosos documentales y libros han explorado su vida, destacando tanto su destreza como su ambivalencia moral.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -104,11 +103,11 @@ Hanna Reitsch es recordada como una de las aviadoras más audaces y técnicament
     <li><a href="http://leandroaviacion.blogspot.com/2015/03/1938-hanna-reitsch-piloto-de-vuelo-sin.html" style="color: #315fea; text-decoration: none;">Leandro Aviación – Hanna Reitsch: piloto de vuelo sin motor y de pruebas</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), Britannica, EcuRed, Historias de la Historia, Leandro Aviación  
+- **Timestamp de verificación:** 2026-09-07 10:43:42 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Britannica, EcuRed, Historias de la Historia, Leandro Aviación  
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha de nacimiento (29 de marzo de 1912) y en los principales hitos. Se ha aclarado que Reitsch no era miembro del Partido Nazi pero colaboró activamente con el régimen.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”

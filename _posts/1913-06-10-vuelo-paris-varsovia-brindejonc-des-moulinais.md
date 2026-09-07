@@ -14,16 +14,12 @@ image: 1913-06-10-vuelo-paris-varsovia-brindejonc-des-moulinais.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1913-06-10-vuelo-paris-varsovia-brindejonc-des-moulinais.webp" alt="Marcel Brindejonc des Moulinais, aviador francés">
   <figcaption class="post-caption">Marcel Brindejonc des Moulinais, con su casco Roold, vencedor de la Copa Pommery tras el vuelo de París a Varsovia el 10 de junio de 1913; fuente: Gallica‑BNF / Le Télégramme.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 10 de junio de 1913, el aviador francés Marcel Brindejonc des Moulinais, de 21 años, despegó del aeródromo de Villacoublay a las 3:55 horas a bordo de su Morane-Saulnier H, un monoplano biplaza con motor Gnome de 80 caballos. Tras escalas en Wanne (Prusia) y Berlín (Johannisthal), aterrizó en Varsovia a las 17:15 horas, completando 1.382,8 kilómetros en 14 horas y 18 minutos. Su hazaña le valió la Copa Pommery, el más prestigioso trofeo de aviación de larga distancia de la época. Inmediatamente después emprendió un circuito aéreo de 4.800 kilómetros que lo llevó por Dwinsk, San Petersburgo, Reval, Estocolmo, Copenhague, La Haya y de regreso a París, siendo recibido triunfalmente en cada capital.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha del vuelo:** 10 de junio de 1913
@@ -43,7 +39,6 @@ image: 1913-06-10-vuelo-paris-varsovia-brindejonc-des-moulinais.webp
 - **Premio posterior:** Caballero de la Legión de Honor (7 de agosto de 1913) 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 La década de 1910 fue testigo de la rápida evolución de la aviación desde un pasatiempo de aventureros a una tecnología con aplicaciones militares y comerciales. Los vuelos de larga distancia capturaban la imaginación del público y los periódicos seguían cada hazaña con devoción deportiva.
@@ -60,6 +55,7 @@ Los aviones de 1913 eran frágiles estructuras de madera y tela. El Morane-Sauln
 
 El público seguía con fascinación las carras aéreas. El vuelo París-Varsovia se comparaba favorablemente con el Nord Express, el tren más rápido de Europa, que necesitaba 27 horas para cubrir el mismo trayecto. La juventud de Brindejonc (21 años) y su origen bretón añadían un componente romántico a su figura, convirtiéndolo en un héroe nacional al nivel de Garros o Morane.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **18 de febrero de 1892:** Nace Marcel-Georges Brindejonc des Moulinais en Plérin (Côtes-d'Armor), Bretaña, Francia.
@@ -112,6 +108,7 @@ El público seguía con fascinación las carras aéreas. El vuelo París-Varsovi
 
 - **6 de julio de 1922:** Sus restos son inhumados en el cementerio de Pleurtuit.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 - **Récord de distancia:** El vuelo estableció un nuevo récord mundial de distancia en un día, superando por 170 km la marca previa establecida por Ernest Guillaux (Biarritz-Kollum, 1.253 km).
@@ -122,6 +119,7 @@ El público seguía con fascinación las carras aéreas. El vuelo París-Varsovi
 
 - **Legión de Honor:** Su juventud (21 años) lo convirtió en el receptor más joven de la Legión de Honor en su época, subrayando la importancia que el Estado francés otorgaba a los pioneros de la aviación.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 Marcel Brindejonc des Moulinais fue considerado un héroe nacional en su tiempo, a la altura de Morane, Garros o Auguste. Su muerte accidental a manos de fuego amigo durante la Primera Guerra Mundial, sumada al paso de los años, ha hecho que su figura sea menos recordada que la de otros pioneros. Sin embargo, su vuelo París-Varsovia sigue siendo un hito en los anales de la aviación de larga distancia.
@@ -129,7 +127,6 @@ Marcel Brindejonc des Moulinais fue considerado un héroe nacional en su tiempo,
 El «aviador de Pleurtuit» (como se le apodaba) representa el espíritu de una época en que los pilotos despegaban en máquinas de madera y tela, sin más protección que su valor y sus gafas, desafiando tormentas, la niebla y la inmensidad del mar Báltico. Su circuito por ocho capitales europeas, realizado en menos de un mes, fue una proeza logística y técnica que anticipó la era de los vuelos comerciales internacionales.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 <div class="references">
@@ -144,17 +141,15 @@ El «aviador de Pleurtuit» (como se le apodaba) representa el espíritu de una 
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Existen pequeñas variaciones entre fuentes sobre la hora exacta de salida y la distancia homologada. El New York Times de la época cita salida a las 3:55, mientras que documentos franceses mencionan 3:37. La distancia homologada oficialmente fue de 1.382,8 km, aunque la prensa reportó cifras redondeadas (1.500 km/933 millas). La fecha de nacimiento también presenta variación: el 8 de febrero según documentos franceses, el 18 de febrero según otras fuentes. Se ha priorizado la documentación primaria francesa.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** The New York Times (1913), Wikipedia (EN/FR), Archivos franceses PDF, Bonhams
+- **Timestamp de verificación:** 2026-09-07 10:43:42 CST
+- **Fuentes primarias/institucionales consultadas:** The New York Times (1913), Wikipedia (EN/FR), Archivos franceses PDF, Bonhams
 - **Discrepancias resueltas:** Fecha de nacimiento (8 vs 18 de febrero): se usa 8 de febrero por ser la fecha en documentación primaria francesa; hora de salida (3:37 vs 3:55): se mantienen ambas en notas aclaratorias, priorizando la del NYT como fuente contemporánea.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -14,17 +14,13 @@ image: 1912-07-26-us-navy-primera-comunicacion-aire-mar.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1912-07-26-us-navy-primera-comunicacion-aire-mar.webp" alt="Pruebas experimentales de transmisión de radio desde la cabina de un biplano Wright Model B en 1911">
   <figcaption class="post-caption">Instalación experimental de telégrafo inalámbrico sobre la estructura de un biplano Wright Model B hacia 1911, arquitectura precursora de la radio aerotransportada B-1 empleada por la Armada en Annapolis. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Air_to_ground_experimental_radio_transmission,_Tanforan,_1911.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 26 de julio de 1912, sobre el curso del río Severn en las inmediaciones de la Academia Naval de los Estados Unidos en Annapolis (Maryland), la aviación naval marcó un hito revolucionario al realizar la primera transmisión Inalámbrica de radio exitosa desde un avión en vuelo hacia un buque de guerra posicionado en el mar. Pilotando el hidroavión Wright B-1 a una altitud de 91 metros (300 pies), el Teniente John Rodgers llevó a bordo al Alférez Charles H. Maddox, quien operó un compacto transmisor de radio de su propio diseño para enviar señales en código Morse recibidas con absoluta claridad por el torpedero USS <em>Stringham</em> (TB-19), anclado a 3 millas náuticas (5,5 km) de distancia.</p>
 <p>El histórico mensaje enviado por Maddox —<em>"We are off the water, going ahead full speed on a course for the Naval Academy"</em>— demostró la viabilidad técnica de integrar la radiotelegrafía a las plataformas aéreas militares sin poner en riesgo la estabilidad del vuelo. Superando severos problemas de peso, vibración y ruido electromagnético del motor, las pruebas extendidas del mismo día alcanzaron enlaces estables hasta una distancia de 15 millas náuticas (28 km), sentando los cimientos de la moderna aviónica de comunicación aire-superficie y la doctrina de reconocimiento aeronaval en tiempo real.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Fecha de la transmisión:** 26 de julio de 1912.
 - **Lugar:** Río Severn, inmediaciones de la Estación de Ensayos Aéreos de la Academia Naval en Annapolis, Maryland, Estados Unidos.
@@ -38,7 +34,6 @@ image: 1912-07-26-us-navy-primera-comunicacion-aire-mar.webp
 - **Alcance operacional verificado:** Conexión inicial confirmada a 5,5 km (3 millas náuticas) y cobertura máxima ampliada a 28 km (15 millas náuticas).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 El experimento de Annapolis se llevó a cabo en los años formativos de la aviación militar de los Estados Unidos, cuando la Armada exploraba métodos de señalización táctica para reemplazar las palomas mensajeras y las banderas de señales marítimas.
 
@@ -52,7 +47,6 @@ La instalación de un equipo de radio a bordo de las primitivas aeronaves de tel
 El campamento aeronáutico de Greenbury Point en Annapolis albergaba a una pequeña élite de aviadores navales que experimentaban de forma empírica en el cauce del río Severn. Aunque el experimento del 26 de julio demostró ser un éxito incuestionable, muchos pilotos de la época mostraron un escepticismo inicial debido al temor de que el peso de los cables y generadores limitara el techo de servicio o provocara incendios a bordo, retrasando la adopción masiva de radios estandarizadas hasta el estallido de la Primera Guerra Mundial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 La secuencia operativa documenta las fases de desarrollo del transmisor ligero y su exitosa validación en vuelo sobre la costa de Maryland.
 
@@ -65,35 +59,32 @@ La secuencia operativa documenta las fases de desarrollo del transmisor ligero y
 - **1934:** Tras 22 años de avances en la radiotelegrafía naval, el Secretario de la Armada de los Estados Unidos otorga un reconocimiento oficial (*Letter of Commendation*) al Capitán de Navío Charles H. Maddox por su histórica contribución técnica pionera de 1912.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 La prueba exitosa del 26 de julio de 1912 demostró formalmente por primera vez que las aeronaves navales podían actuar como plataformas integradas de exploración e inteligencia al servicio de los buques de superficie.
 
 A raíz de este experimento, el Oficial al Mando del destacamento naval, Comandante Henry C. Mustin, impulsó los primeros presupuestos oficiales para dotar a las futuras escuadrillas de la US Navy con radios aerotransportadas de serie, eliminando progresivamente los métodos visuales de señalización de la aviación embarcada.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 La hazaña de Rodgers y Maddox figura inscrita en los anales del *Naval History and Heritage Command* (NHHC) y del *U.S. Naval Institute* como la fecha de nacimiento de la comunicación electrónica en la aviación naval estadounidense.
 
 El concepto probado en Annapolis en 1912 sentó las bases operativas de la guerra centrada en redes que caracteriza a las agrupaciones de combate de portaaviones modernas, donde el enlace constante de datos entre aire y mar resulta indispensable para el control del espacio marítimo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 - <a href="https://www.marinelink.com/news/this-day-in-naval-history-july-26316253" style="color: #315fea; text-decoration: none;">MarineLink / Navy News Service: This Day in Naval History - First Airborne Radio Communications to Ship (26 July 1912)</a>
 - <a href="https://www.usni.org/magazines/proceedings/1944/april/discussions-comments-and-notes" style="color: #315fea; text-decoration: none;">U.S. Naval Institute (USNI Proceedings): Early Naval Airborne Radio Development Records</a>
 - <a href="https://www.history.navy.mil/content/dam/nhhc/research/histories/naval-aviation/pdf/PART01.PDF" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command — United States Naval Aviation 1910–1915, «A Few Pioneers»: 26 July 1912, Wright B-1, Rodgers y Maddox al Stringham</a>
 - <a href="https://en.wikipedia.org/wiki/United_States_naval_aviation" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — United States naval aviation</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La aeronave empleada en la prueba histórica fue el hidroavión Wright B-1 (número de serie B-1 de la Armada de EE. UU.), una versión modificada del Wright Model B terrestre adaptada con flotadores centrales para despegues acuáticos en el río Severn. En 1914, bajo el primer sistema de designación unificado de la Armada (Orden General N.° 88), este aparato histórico fue rebautizado con la matrícula AH-4. Asimismo, aunque la prueba fue pilotada por el Teniente John Rodgers, el diseño del equipo de radio y la operación manual de la clave de Morse en vuelo fueron ejecutados de forma directa por el Alférez Charles H. Maddox.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 12:00:00 CST  
+- **Timestamp de verificación:** 2026-09-07 10:43:42 CST
 - **Fuentes primarias/institucionales consultadas:** NHHC, PDF «A Few Pioneers» (entrada del 26 de julio de 1912: Wright B-1, Teniente John Rodgers, Charles H. Maddox, Stringham TB-19, ~1,5 millas); USNI Proceedings
 - **Fuentes secundarias de contraste:** MarineLink / Navy News Service; Wikipedia (EN) United States naval aviation
 - **Discrepancias resueltas:** Se precisó la nomenclatura de la nave (Wright B-1 / AH-4) y del buque torpedero receptor (USS Stringham TB-19).

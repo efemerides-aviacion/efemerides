@@ -17,13 +17,11 @@ redirect_from:
   <figcaption class="post-caption">Fotografía histórica de Marina Mijáilovna Raskova, Heroína de la Unión Soviética y pionera aviadora soviética, aparece en uniforme militar con boina roja de estrella roja, charreteras de navegante y cartuchera cruzada frente a un vagón militar. Fuente: Archivo soviético.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 28 de marzo de 1912 nació en Moscú Marina Mijáilovna Raskova (née Malinina), hija de profesores, inicialmente destinada a la ópera pero atraída por la aviación. En 1934 se convirtió en la primera mujer soviética diplomada como navegante aérea profesional e instructora. Estableció récords de vuelo y fundó los tres regimientos aéreos femeninos durante la Segunda Guerra Mundial, incluyendo las legendarias "Brujas de la Noche". Conocida como la "Amelia Earhart soviética", murió en combate en 1943.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 28 de marzo de 1912 (calendario juliano: 15 de marzo)
 - **Lugar:** Moscú, Imperio Ruso
@@ -37,7 +35,6 @@ redirect_from:
 - **Condecoraciones:** Héroe de la Unión Soviética, Orden de Lenin (dos veces), Orden de la Guerra Patria de 1.er grado
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 Marina Raskova nació en los años finales del Imperio Ruso, en una familia de intelectuales. Su padre, Mijaíl Malinin, era instructor de canto y su madre, Anna, profesora. La Revolución de 1917 transformó profundamente la sociedad, abriendo oportunidades para las mujeres en ámbitos tradicionalmente masculinos como la aviación. La Unión Soviética promovió activamente la incorporación femenina a la técnica y el deporte, viéndolo como símbolo de modernidad.
@@ -51,6 +48,7 @@ La aviación soviética de los años 30 vivió un rápido desarrollo. Diseños c
 ### Entorno cultural
 La figura de la aviadora era heroica en la URSS. Raskova, junto a Valentina Grizodubova y Polina Osipenko, formó el trío de aviadoras más célebre del país. Su libro *Zapiski shturmana* (Notas de una navegante, 1939) inspiró a miles de jóvenes a unirse a la aviación.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 
 - **28 de marzo de 1912:** Nace Marina Malinina en Moscú.
@@ -66,22 +64,24 @@ La figura de la aviadora era heroica en la URSS. Raskova, junto a Valentina Griz
 - **1942:** Funda y entrena tres regimientos: el 586.º de caza (Yak-1), el 587.º de bombardeo (Pe-2, luego 125.º Regimiento de Bombardeo de la Guardia) y el 588.º de bombardeo nocturno (Po-2), conocido como las *Brujas de la Noche*.
 - **4 de enero de 1943:** Raskova fallece cuando su Pe-2 se estrella cerca de Sarátov durante un vuelo de traslado en condiciones meteorológicas adversas. Es enterrada con honores en la Muralla del Kremlin.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 
 - **Pionera de la aviación femenina:** Raskova demostró que las mujeres podían volar en combate con la misma eficacia que los hombres. Sus tres regimientos acumularon más de 30.000 misiones de guerra y produjeron al menos 30 Heroínas de la Unión Soviética.
 - **Modelo de liderazgo:** Su capacidad para formar y comandar unidades desde cero en tiempo de guerra fue reconocida por sus contemporáneas. La historiadora Reina Pennington la califica como "la madre de la aviación militar femenina soviética".
 - **Legado simbólico:** Su figura fue utilizada por el régimen soviético como ejemplo de patriotismo y sacrificio. Tras su muerte, se erigieron monumentos y se nombraron calles en su honor.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
 Las *Brujas de la Noche* (588.º Regimiento de Bombardeo Nocturno) siguen siendo uno de los símbolos más potentes de la contribución soviética a la Segunda Guerra Mundial. Raskova, a pesar de no haber sobrevivido a la guerra, es recordada como la fundadora de la aviación militar femenina soviética. Su nombre figura en aeropuertos, museos y libros de historia. En 2018, el Banco de Rusia emitió una moneda conmemorativa en su honor.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <div class="note-box">
 	<p>Aunque Marina Raskova es ampliamente reconocida como Heroína de la Unión Soviética y fundadora de los tres regimientos aéreos femeninos que combatieron en la Gran Guerra Patria, <strong>no participó en combate directo como piloto de caza o bombardero</strong>. Su función fue estratégica y organizativa: seleccionó, entrenó y comandó las unidades desde el Cuartel General. Murió el 4 de enero de 1943 en un accidente aéreo durante un vuelo de traslado, no en acción de combate. Esta precisión no disminuye su importancia histórica, sino que la sitúa con exactitud como una de las grandes organizadoras militares del siglo XX.</p>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -93,11 +93,11 @@ Las *Brujas de la Noche* (588.º Regimiento de Bombardeo Nocturno) siguen siendo
     <li><a href="https://es.wikipedia.org/wiki/Archivo:Marina_Raskova_in_1938.jpg" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Imagen Marina Raskova 1938</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 11:07:10 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN/RU), Encyclopedia.com, War History Online  
+- **Timestamp de verificación:** 2026-09-07 10:43:42 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN/RU), Encyclopedia.com, War History Online  
 - **Discrepancias resueltas:** No se identificaron discrepancias significativas entre las fuentes sobre las fechas clave y logros. Se ha aclarado que Raskova no pilotó en combate sino que fundó y organizó los regimientos, y que su muerte fue por accidente de traslado, no por acción enemiga.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”

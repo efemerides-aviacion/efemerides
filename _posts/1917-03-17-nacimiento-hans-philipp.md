@@ -17,13 +17,11 @@ redirect_from:
   <figcaption class="post-caption">Hans Philipp con la Cruz de Caballero de la Cruz de Hierro, retrato oficial. Fecha: ~1942-1943. Fuente: Wikipedia.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 17 de marzo de 1917 nació en Meissen, Sajonia, Hans Philipp, quien se convertiría en uno de los más destacados ases de caza de la Luftwaffe durante la Segunda Guerra Mundial. Acreditado con 206 victorias aéreas en más de 500 misiones, obtuvo la mayoría en el Frente Oriental y recibió altas condecoraciones como la Cruz de Caballero con Hojas de Roble y Espadas. El 17 de marzo de 1943, en su 26 cumpleaños, alcanzó sus victorias 200 a 203, convirtiéndose en el segundo piloto alemán en superar las 200 y, temporalmente, en el máximo as de la Luftwaffe. Su trayectoria culminó con su muerte en combate el 8 de octubre de 1943, dejando una figura controvertida pero central en la historia de la aviación militar alemana.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 17 de marzo de 1917
 - **Lugar de nacimiento:** Meissen, Sajonia, Imperio Alemán
@@ -32,7 +30,6 @@ redirect_from:
 - **Fecha de fallecimiento:** 8 de octubre de 1943 (26 años), en combate aéreo cerca de Bremen, Alemania
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 Hans Philipp nació en los últimos años de la Primera Guerra Mundial, en una Alemania derrotada y humillada por el Tratado de Versalles. Su juventud transcurrió en la convulsa República de Weimar, un período de crisis económica, hiperinflación y tensiones políticas que sentaron las bases para el ascenso del nacionalsocialismo.
@@ -46,6 +43,7 @@ La aviación militar alemana experimentó un renacimiento secreto durante los a�
 ### Entorno cultural
 En la cultura militar alemana, el piloto de caza era una figura romántica, heredera de los "as" de la Gran Guerra como Manfred von Richthofen. La propaganda nazi cultivó esta imagen, presentando a los pilotos como héroes modernos, caballeros del aire que defendían a la patria con valor y destreza. Philipp creció en este ambiente, y su posterior éxito como as lo convertiría en uno de esos héroes mediáticos.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 
 - **17 de marzo de 1917:** Nace Hans Philipp en Meissen, Sajonia.
@@ -60,10 +58,12 @@ En la cultura militar alemana, el piloto de caza era una figura romántica, here
 - **1 de abril de 1943:** Nombrado comandante (Geschwaderkommodore) del Jagdgeschwader 1 "Oesau", unidad de defensa del Reich encargada de interceptar los bombardeos aliados.
 - **8 de octubre de 1943:** Durante un combate contra cazas estadounidenses P-47 Thunderbolt cerca de Bremen, su Focke-Wulf Fw 190 es derribado. Philipp se lanza en paracaídas, pero su paracaídas falla y fallece. Tenía 26 años.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 
 La muerte de Hans Philipp en combate, apenas siete meses después de haberse convertido en el segundo piloto en alcanzar las 200 victorias, conmocionó a la Luftwaffe y fue utilizada por la propaganda nazi como ejemplo de sacrificio por la patria. Su pérdida fue un duro golpe para el JG 1, una unidad clave en la defensa del Reich.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
 Hans Philipp ocupa un lugar destacado en la historia de la aviación militar:
@@ -94,7 +94,6 @@ Para el caso específico de Hans Philipp, los historiadores Mathews y Foreman, e
 En resumen, el organismo oficial era el **OKL**, y el proceso se basaba en el testimonio de testigos y, en menor medida, en la evidencia fotográfica. La apertura de los archivos ha permitido a los historiadores modernos refinar y, en algunos casos, corregir las cifras tradicionales.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -107,11 +106,11 @@ En resumen, el organismo oficial era el **OKL**, y el proceso se basaba en el te
     <li><a href="https://www.alexautographs.com/auction-lot/knights-cross-award-to-luftwaffe-ace-hans-philipp_DF345EDA2E" style="color: #315fea; text-decoration: none;">Alexander Historical Auctions – Knights Cross award to Hans Philipp</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/DE), EcuRed, FalkeEins, Alexander Historical Auctions  
+- **Timestamp de verificación:** 2026-09-07 10:45:08 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/DE), EcuRed, FalkeEins, Alexander Historical Auctions  
 - **Discrepancias resueltas:** Se ha aclarado que el número de victorias (206) es el tradicionalmente aceptado, pero investigaciones en archivos (Mathews & Foreman) documentan 193 victorias confirmadas más nueve no confirmadas. La diferencia se explica por la complejidad del sistema de confirmación de la Luftwaffe y las fuentes de posguerra.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
