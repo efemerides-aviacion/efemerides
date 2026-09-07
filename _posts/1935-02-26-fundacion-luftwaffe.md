@@ -15,12 +15,10 @@ image: 1935-02-26-fundacion-luftwaffe.webp
   <figcaption class="post-caption">Hermann Göring, comandante en jefe de la Luftwaffe, se dirige a un grupo de pilotos alemanes durante la Batalla de Inglaterra (julio-octubre 1940). Fuente: Bundesarchiv / IWM Collections.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 26 de febrero de 1935, Adolf Hitler ordenó la creación de la Luftwaffe, la fuerza aérea alemana, en desafío al Tratado de Versalles. Nombrando a Hermann Göring como su comandante, este acto formalizó un rearme que ya venía gestándose en secreto. La Luftwaffe se convirtió en un pilar fundamental de la estrategia de guerra relámpago y, para el inicio de la Segunda Guerra Mundial, era la fuerza aérea más poderosa de Europa. Su historia, marcada por éxitos iniciales y su posterior derrota, terminó con su disolución en 1946.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Datos verificados del evento
 - **Fecha:** 26 de febrero de 1935  
@@ -44,6 +42,7 @@ La Luftwaffe se benefició de programas secretos de entrenamiento en la Unión S
 ### Entorno cultural
 La aviación militar se convirtió en un símbolo del poderío nazi y en un instrumento de propaganda, con Göring como figura central.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 - **1920:** Disolución de las fuerzas aéreas alemanas por el Tratado de Versalles.  
 - **Década de 1920:** Entrenamiento secreto de pilotos en la URSS.  
@@ -54,9 +53,11 @@ La aviación militar se convirtió en un símbolo del poderío nazi y en un inst
 - **1940:** Derrota en la Batalla de Inglaterra.  
 - **1945–1946:** Colapso y disolución tras la derrota alemana.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 La Luftwaffe fue clave en la estrategia de Blitzkrieg, pero su fracaso en Inglaterra y la superioridad aliada revelaron sus limitaciones. Su historia refleja tanto el poder inicial como el colapso del proyecto nazi.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 Recordada como una de las fuerzas aéreas más poderosas de su tiempo, su legado está marcado por la innovación tecnológica y por los crímenes de guerra asociados a su actuación.
 
@@ -72,17 +73,15 @@ Recordada como una de las fuerzas aéreas más poderosas de su tiempo, su legado
   </ul>
 </div>
 
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La creación de la Luftwaffe en 1935 fue una violación directa del Tratado de Versalles, que prohibía a Alemania tener fuerzas aéreas militares. El decreto de Hitler formalizó un rearme que ya se venía gestando en secreto desde la década de 1920.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia ES/EN, History.com, USHMM, IWM  
+- **Timestamp de verificación:** 2026-09-07 10:46:34 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia ES/EN, History.com, USHMM, IWM  
 - **Discrepancias resueltas:** Confirmación de fecha exacta del decreto (26 feb 1935) y publicación oficial en marzo 1935.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

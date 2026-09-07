@@ -14,16 +14,12 @@ image: 1929-08-13-bautismo-de-fuego-de-la-aviacion-militar-venezolana.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1929-08-13-bautismo-de-fuego-de-la-aviacion-militar-venezolana.webp" alt="Ilustración de un Breguet 19 sobrevolando el Castillo de San Antonio de Cumaná">
   <figcaption class="post-caption">Ilustración: un Breguet 19 de la Escuela de Aviación Militar sobrevuela el Castillo de San Antonio de Cumaná, posición leal defendida por el General Enrique Tovar, durante las operaciones del 12 y 13 de agosto de 1929. Ilustración suministrada por el investigador.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Tras el desembarco en Cumaná de los expedicionarios del vapor Falke, el 11 de agosto de 1929, la Escuela de Aviación Militar envió desde Maracay escuadrillas de Breguet 19 que los días 12 y 13 de agosto bombardearon y ametrallaron los reductos rebeldes y sostuvieron el primer contrafuego antiaéreo de la historia venezolana. Fue la primera acción bélica de la aviación militar de Venezuela, nueve años después de su fundación, y demostró ante las autoridades el valor del avión como arma de guerra.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha que culmina el evento:** 13 de agosto de 1929; operaciones iniciadas el 12 de agosto
@@ -37,7 +33,6 @@ image: 1929-08-13-bautismo-de-fuego-de-la-aviacion-militar-venezolana.webp
 - **Contexto inmediato:** Expedición del Falke, desembarcada el 11 de agosto de 1929 al mando del General Román Delgado Chalbaud, muerto en el combate junto al General Emilio Fernández, presidente del estado Sucre
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 La Expedición del Falke fue el más serio intento insurreccional contra el régimen de Juan Vicente Gómez: preparada en Europa por la Junta Suprema de Liberación Nacional, fletó el viejo vapor alemán Falke —botado en Inglaterra en 1902 como Swift—, lo rebautizó General Anzoátegui al entrar en aguas venezolanas y desembarcó en Cumaná la madrugada del 11 de agosto de 1929. La muerte de Delgado Chalbaud y del General Emilio Fernández en el puente Guzmán Blanco convirtió la operación en un caos, pero los reductos rebeldes siguieron combatiendo dos días más.
@@ -55,7 +50,6 @@ La Escuela de Aviación Militar, <a href="https://efemerides-aviacion.github.io/
 Para la joven institución, criada entre vuelos de instrucción y raids de prestigio, la orden de volar a Cumaná fue el paso de la aviación deportiva y escolar a la aviación de guerra; el propio Gómez había proclamado que con esos aviones «no quedaría ningún lugar del país sin ser alcanzado por la aviación». En el bando contrario, la expedición llevaba el romanticismo de las montoneras decimonónicas: un vapor rebautizado con nombre de prócer y un plan de cabeza de puente que la realidad desmintió en cuarenta y ocho horas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 - **11 de agosto, madrugada:** El vapor, rebautizado General Anzoátegui, desembarca en Cumaná a los expedicionarios; caen Delgado Chalbaud y el General Emilio Fernández; el buque zarpa esa noche rumbo a Trinidad.
@@ -67,7 +61,6 @@ Para la joven institución, criada entre vuelos de instrucción y raids de prest
 - **13 de agosto, tarde:** Con el repliegue rebelde hacia el cerro Santa Ana termina la intervención aérea; las autoridades la reconocen como la primera acción bélica de la aviación militar venezolana.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 - **Bautismo de fuego del arma:** nueve años después de su creación, la aviación pasó de la instrucción al combate; la Memoria del Ministerio de Guerra y Marina de 1929 recogió las operaciones y su efecto sobre el mando.
@@ -76,13 +69,11 @@ Para la joven institución, criada entre vuelos de instrucción y raids de prest
 - **Nombres propios:** Lafannechère proseguiría su carrera venezolana con el primer vuelo nocturno de Maracay y la conquista de los Andes; Ríos Hernández moriría en 1931 al caer sobre el lago de Valencia; Landaeta Gil, <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1931/02/04/vicente-landaeta-gil-fallece.html" style="color: #315fea; text-decoration: none;">muerto ese mismo año en accidente</a>, daría nombre a la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1964/02/14/base-aerea-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">base aérea de Barquisimeto</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 Noventa y siete años después, el 12 y 13 de agosto de 1929 siguen siendo la fecha de nacimiento del empleo combativo del avión en Venezuela: la tradición de la fuerza aérea los recoge como su bautismo de fuego, y los nombres de Ríos, Landaeta, Villegas y de los instructores franceses encabezan la nómina de pioneros del arma. El episodio dejó además una lección permanente sobre el vínculo entre aviación y poder político: los mismos Breguet que no alcanzaron al Falke demostraron que ninguna provincia venezolana quedaría fuera del alcance del avión, cumpliéndose la sentencia de Gómez.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 <div class="references">
@@ -96,17 +87,15 @@ Noventa y siete años después, el 12 y 13 de agosto de 1929 siguen siendo la fe
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la intensidad del empleo aéreo:</strong> los registros especializados de la aviación venezolana describen bombardeo con bombas de 10 kilogramos, ametrallamiento, impactos de bala en el Breguet N.º 2 y un artillero herido por el primer contrafuego antiaéreo del país; en cambio, el Diccionario de Historia de Venezuela de la Fundación Empresas Polar califica la intervención de «simple ejercicio de reconocimiento». Se sigue la versión aeronáutica, documental y coetánea a la Memoria de Guerra y Marina de 1929, dejando constancia de la divergencia.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES), Fundación Empresas Polar, Redalyc (Procesos Históricos), Wikimedia Commons y documento FAV Ven del investigador
+- **Timestamp de verificación:** 2026-09-07 10:46:34 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), Fundación Empresas Polar, Redalyc (Procesos Históricos), Wikimedia Commons y documento FAV Ven del investigador
 - **Discrepancias resueltas:** La intensidad del combate aéreo diverge entre la tradición aeronáutica (bombardeo y contrafuego antiaéreo) y Polar (reconocimiento); se adopta la primera y se deja nota aclaratoria. El tonelaje del Falke (1.200 t en Polar, 1.600 t en el documento del investigador) y el día exacto de la escala en La Blanquilla (6 u 8 de agosto) se omitieron por no ser esenciales ni estar conciliados. El artillero aparece como Pousin, Ponsin o Poussin según las fuentes; se adopta Pousin, grafía del documento aeronáutico.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

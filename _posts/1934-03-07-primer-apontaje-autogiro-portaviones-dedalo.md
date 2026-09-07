@@ -15,12 +15,10 @@ image: 1934-03-07-primer-apontaje-autogiro-portaviones-dedalo.webp
   <figcaption class="post-caption">Despegue del autogiro C.30 de Juan de la Cierva desde la cubierta del portahidroaviones Dédalo (ex-Neuenfels), el 7 de marzo de 1934 en Valencia, España. Fuente: Revista General de Marina (abril 1934).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 7 de marzo de 1934, el inventor español Juan de la Cierva realizó el primer despegue y apontaje de la historia con una aeronave de ala giratoria sobre un buque. A bordo de un autogiro Cierva C.30, aterrizó y despegó desde la cubierta del portahidroaviones Dédalo, fondeado en Valencia, en una carrera de solo 24 metros. Este hito mundial demostró el potencial de las aeronaves con capacidad STOL (despegue y aterrizaje cortos) para la aviación naval, sentando un precedente crucial para el desarrollo de los helicópteros embarcados.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha del apontaje:** 7 de marzo de 1934  
@@ -45,15 +43,18 @@ El autogiro Cierva C.30 incorporaba el cabezal de rotor articulado, innovación 
 ### Entorno cultural
 La demostración reforzó la reputación internacional de Juan de la Cierva como pionero de la aviación rotatoria.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - **31 de enero de 1923:** el Teniente Alejandro Gómez Spencer completa en Cuatro Vientos el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1923/01/31/primer-circuito-cerrado-autogiro-c-4.html" style="color: #315fea; text-decoration: none;">primer vuelo en circuito cerrado del autogiro C.4</a>, hito fundacional del ala rotatoria.
 - **1928:** De la Cierva comienza a pilotar sus máquinas en exhibiciones internacionales.  
 - **1934, 7 mar:** Primer apontaje y despegue de un autogiro desde el Dédalo.  
 - **1934:** Baja definitiva del portahidroaviones Dédalo.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 El apontaje demostró la viabilidad de operaciones embarcadas con aeronaves de ala giratoria, anticipando el futuro uso de helicópteros en portaaviones.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 El autogiro consolidó la madurez técnica de De la Cierva y abrió camino a la aviación naval rotatoria, décadas antes de la llegada del helicóptero y del avión V/STOL.
 
@@ -69,14 +70,15 @@ El autogiro consolidó la madurez técnica de De la Cierva y abrió camino a la 
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Algunas fuentes difieren sobre si el autogiro C.30 fue pilotado directamente por Juan de la Cierva o por un piloto de pruebas británico en la demostración del Dédalo. La mayoría de registros contemporáneos atribuyen la hazaña al propio De la Cierva, aunque se reconoce la ambigüedad en testimonios posteriores.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia EN, Instituto de Historia y Cultura Naval, Museo del Aire, TodoColección, Hemeroteca ABC  
+- **Timestamp de verificación:** 2026-09-07 10:46:34 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia EN, Instituto de Historia y Cultura Naval, Museo del Aire, TodoColección, Hemeroteca ABC  
 - **Discrepancias resueltas:** Identidad del piloto en el apontaje del Dédalo  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

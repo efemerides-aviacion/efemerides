@@ -14,16 +14,12 @@ image: 1928-06-11-primer-vuelo-el-ente-primer-avion-impulsado-motor-cohete.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1928-06-11-primer-vuelo-el-ente-primer-avion-impulsado-motor-cohete.webp" alt="Lippisch Ente, primer avión cohete del mundo">
   <figcaption class="post-caption">Izquierda: el planeador experimental Lippisch Ente realizando en junio de 1928 el primer vuelo tripulado impulsado por cohetes; fuente: Wikipedia. Derecha: modelo del Lippisch Ente con sus dos motores cohete en la parte posterior, exhibido en el Deutsches Segelflugmuseum (Museo Alemán del Vuelo en Planeador) en Wasserkuppe, Alemania; fuente: Cortesía Deutsches Segelflugmuseum..</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 11 de junio de 1928, el Lippisch Ente se convirtió en el primer avión de tamaño completo propulsado por cohetes de la historia. Diseñado por Alexander Lippisch como un planeador sin cola de configuración canard, fue adquirido por Fritz von Opel y equipado con dos cohetes de pólvora negra Sander. Pilotado por Fritz Stamer desde la montaña Wasserkuppe en Alemania, el avión realizó un vuelo exitoso de 1.500 metros tras un primer intento fallido. En un tercer vuelo ese mismo día, la explosión de uno de los cohetes destruyó la aeronave, aunque Stamer resultó ileso. Este hito marcó el nacimiento de la propulsión aeroespacial y allanó el camino para futuros aviones cohete como el Messerschmitt Me 163 y el North American X-15.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha del vuelo histórico:** 11 de junio de 1928
@@ -43,7 +39,6 @@ image: 1928-06-11-primer-vuelo-el-ente-primer-avion-impulsado-motor-cohete.webp
 - **Resultado del tercer vuelo:** Aeronave destruida por incendio; piloto ileso
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 La década de 1920 fue un período de efervescencia tecnológica en Alemania, marcado por el entusiasmo por la cohetería y la aviación. La Sociedad Alemana de Navegación Espacial (VfR) comenzaba a gestarse, y pioneros como Hermann Oberth sentaban las bases teóricas de la propulsión por cohetes.
@@ -60,6 +55,7 @@ En 1928, la aviación convencional dominaba con motores de pistón y hélices. L
 
 La figura del «pionero audaz» dominaba el imaginario colectivo. El público seguía con fascinación las carreras de cohetes sobre raíles y los récords de velocidad. Von Opel, apodado «Rocket Fritz», entendió el valor publicitario de estos espectáculos tecnológicos. La apuesta por un avión cohete no era solo un experimento científico, sino también una declaración de intenciones sobre el futuro del transporte.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **1927:** Alexander Lippisch diseña el planeador original «Ente» como un velero sin cola con configuración canard (alas delanteras), lo que lo hacía particularmente adecuado para instalar motores en la parte trasera sin afectar la estabilidad.
@@ -76,6 +72,7 @@ La figura del «pionero audaz» dominaba el imaginario colectivo. El público se
 
 - **Septiembre de 1929:** Von Opel presenta el sucesor del Ente, el Opel RAK.1, un avión cohete diseñado específicamente para tal fin, pilotado por el propio von Opel en una demostración pública.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 Aunque el Ente fue destruido el mismo día de su éxito, las lecciones aprendidas fueron invaluables. El experimento demostró que un avión podía volar utilizando únicamente la reacción de gases, sin necesidad de hélices.
@@ -84,6 +81,7 @@ Aunque el Ente fue destruido el mismo día de su éxito, las lecciones aprendida
 - **Seguridad en vuelo:** El accidente del tercer vuelo evidenció los riesgos de la combustión inestable de los propelentes sólidos, un problema que años después se abordaría con los combustibles líquidos.
 - **Reacción en cadena:** Este éxito impulsó a Fritz von Opel a continuar sus experimentos, culminando en el Opel RAK.1 en 1929.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 La importancia del Lippisch Ente trasciende su breve existencia. Fue el eslabón perdido entre los cohetes de pólvora utilizados en la pirotecnia y los sofisticados aviones de alta velocidad que vinieron después.
@@ -93,7 +91,6 @@ La importancia del Lippisch Ente trasciende su breve existencia. Fue el eslabón
 - **Símbolo de colaboración:** El proyecto ejemplifica la colaboración multidisciplinar (industria automotriz, pirotecnia, aerodinámica) para lograr un objetivo común.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 <div class="references">
@@ -106,17 +103,15 @@ La importancia del Lippisch Ente trasciende su breve existencia. Fue el eslabón
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Existe discrepancia menor entre fuentes sobre si el segundo vuelo se considera el «primer vuelo exitoso» o el «segundo intento». Según la NASA y Wikipedia, el 11 de junio incluyó tres eventos: un primer fallo en tierra, un vuelo exitoso de 1.500 metros, y un tercer vuelo explosivo. Algunas fuentes en italiano citan el 1 de junio como fecha, pero la documentación mayoritaria y oficial confirma el 11 de junio de 1928 como la fecha correcta.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), NASA History, Britannica
+- **Timestamp de verificación:** 2026-09-07 10:46:34 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), NASA History, Britannica
 - **Discrepancias resueltas:** Confirmada fecha del 11 de junio de 1928 frente a posibles menciones del 1 de junio; aclarada secuencia de tres vuelos en un solo día.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

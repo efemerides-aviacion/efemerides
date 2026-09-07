@@ -14,15 +14,12 @@ image: 1933-04-03-primer-vuelo-sobre-everest.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1933-04-03-primer-vuelo-sobre-everest.webp" alt="Lord Clydesdale a los mandos del Westland PV-3 G-ACAZ aproximándose a la cima del Everest">
   <figcaption class="post-caption">Lord Clydesdale, a los mandos de un Westland PV-3 G-ACAZ, aproximándose a la cima del Everest, 3 de abril de 1933. Expedición aérea de Houston al Everest, vía National Geographic, publicado en infoaviacion.com.mx.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>El 3 de abril de 1933, dos biplanos británicos Westland PV-3 (G-ACAZ) y PV-6 (G-ACBR) de la Houston Mount Everest Flying Expedition sobrevolaron por primera vez la cima del Monte Everest (8.848 m), despegando desde Purnia, India. Pilotados por el Lord Clydesdale (Douglas Douglas-Hamilton) con Stewart Blacker, y David McIntyre con Sidney Bonnett, capturaron imágenes aéreas pese a hipoxia, frío extremo y vientos fuertes. Financiada por Lady Houston y liderada por Peregrine Fellowes, la hazaña abrió la exploración aérea del Himalaya.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Fecha del sobrevuelo:** 3 de abril de 1933  
 - **Lugar:** Monte Everest (Sagarmatha / Chomolungma), frontera Nepal‑Tíbet (entonces India británica)  
@@ -40,7 +37,6 @@ image: 1933-04-03-primer-vuelo-sobre-everest.webp
 - **Segundo vuelo complementario:** 19 de abril de 1933, con mejores condiciones meteorológicas  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 La década de 1930 fue un período de intensa competencia por conquistar los picos más altos del planeta. Tras el trágico intento de George Mallory y Andrew Irvine en 1924 (desaparecidos a unos 8.600 m), la cima del Everest seguía siendo inalcanzable por tierra. La aviación ofrecía una alternativa radical: superar la montaña por el aire.
@@ -54,6 +50,7 @@ El gran desafío técnico era hacer volar a 9.000 m con motores de pistón sin s
 ### Entorno cultural
 La expedición combinó el espíritu de los pioneros de la aviación con el del alpinismo. El vuelo fue cubierto por la prensa mundial y las fotografías resultantes se publicaron en *The Times*, *National Geographic* y otros medios. La imagen del avión frente a la cumbre se convirtió en un ícono de la época, comparándose con las gestas polares de Amundsen y Scott.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **1930–1932:** Se suceden intentos infructuosos de ascenso al Everest por la ruta norte del Tíbet (abierta temporalmente). Tras el cierre del Tíbet a expediciones extranjeras en 1931, la vía terrestre quedó bloqueada.  
@@ -68,6 +65,7 @@ La expedición combinó el espíritu de los pioneros de la aviación con el del 
 - **4 de abril de 1933:** Se realiza un vuelo adicional sobre el Kanchenjunga (tercera montaña más alta del mundo).  
 - **19 de abril de 1933:** Segundo sobrevuelo del Everest con condiciones climáticas más favorables, obteniendo fotografías de mayor calidad.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 - **Avance científico:** Las fotografías aéreas revelaron detalles de la topografía de la cumbre, los glaciares y las posibles rutas de ascenso. Fueron usadas posteriormente por la expedición británica de 1935 para planificar la ruta sur que culminaría en 1953.  
@@ -75,6 +73,7 @@ La expedición combinó el espíritu de los pioneros de la aviación con el del 
 - **Reconocimiento militar:** La experiencia sirvió para evaluar las capacidades de los motores Bristol en condiciones extremas, con implicaciones para la aviación militar británica en la década de 1930.  
 - **Repercusión social:** El éxito generó gran entusiasmo en Gran Bretaña y consolidó la imagen de Lady Houston como mecenas de la aviación. Sin embargo, también hubo críticas por el uso de aviones en una zona considerada sagrada por las poblaciones locales.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 El primer vuelo sobre el Everest es recordado como una de las grandes gestas de la aviación de entreguerras. Fue el primer uso exitoso de aeronaves para reconocimiento de alta montaña y un hito en la fotografía aérea. Los aviones originales (G-ACAZ y G-ACBR) sobrevivieron y actualmente se conservan en museos británicos: el G-ACAZ está en el **Museo de la RAF en Hendon**, y el G-ACBR se exhibe en el **Museo de la Ciencia de Londres** (aunque en algún momento se lo desmanteló parcialmente).  
@@ -82,7 +81,6 @@ El primer vuelo sobre el Everest es recordado como una de las grandes gestas de 
 En 2023, con motivo del 90 aniversario, se realizaron vuelos conmemorativos y se publicaron documentos inéditos de la expedición. La hazaña sigue siendo un símbolo de la audacia de los pioneros que combinaron el alpinismo y la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -97,16 +95,16 @@ En 2023, con motivo del 90 aniversario, se realizaron vuelos conmemorativos y se
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> En 1933 la altitud oficial del Everest era de 8.840 m; actualmente se acepta 8.848,86 m (medición de 2020). Las tripulaciones calcularon haber sobrevolado entre 9.100 y 9.200 m, confirmando que superaron la cumbre con margen. El fallo de oxígeno de Bonnett fue el único incidente grave; ambos aviones regresaron sin daños. Algunas fuentes mencionan un tercer avión (Westland Wapiti) que participó en misiones de reconocimiento, pero no sobrevoló la cumbre.</p>
   <p>Lady Houston murió en 1936; la expedición fue su último gran patrocinio aeronáutico. Las fotografías originales se conservan en el archivo de la Royal Geographical Society.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES), InfoAviación, Guinness World Records, This Day in Aviation, Lugares de Aventura, BWI Fly, IAF History  
+- **Timestamp de verificación:** 2026-09-07 10:46:34 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), InfoAviación, Guinness World Records, This Day in Aviation, Lugares de Aventura, BWI Fly, IAF History  
 - **Discrepancias resueltas:** Se confirmó la participación de dos aviones principales (PV-3 y PV-6) con las matrículas indicadas; se aclaró la ausencia de un tercer avión en el sobrevuelo final. La hora exacta del primer paso sobre la cumbre (≈10:10) se basa en relatos de los pilotos.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”

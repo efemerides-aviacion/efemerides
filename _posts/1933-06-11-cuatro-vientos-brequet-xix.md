@@ -14,18 +14,14 @@ image: 1933-06-11-cuatro-vientos-brequet-xix.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1933-06-11-cuatro-vientos-brequet-xix.webp" alt="Breguet XIX TR Super Bidón Cuatro Vientos">
   <figcaption class="post-caption">Multitud congregada en Camagüey, Cuba, recibiendo al avión Cuatro Vientos con los aviadores españoles Mariano Barberán y Joaquín Collar, tras su travesía transatlántica el 11 de junio de 1933; fuente: EcuRed / Gallica‑BNF.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 10 de junio de 1933, a las 4:40 horas, el avión «Cuatro Vientos» despegó de la base aérea de Tablada (Sevilla) con destino a Camagüey (Cuba). A bordo viajaban el Capitán Mariano Barberán (navegante) y el Teniente Joaquín Collar (piloto). El aparato, un Breguet XIX TR Super Bidón construido íntegramente por CASA en Getafe, fue diseñado específicamente para este raid con una capacidad de 5.300 litros de combustible y un motor Hispano-Suiza de 650 caballos. Tras 39 horas y 55 minutos de vuelo —32 de ellas sobre el Atlántico— y habiendo recorrido 7.320 kilómetros, el «Cuatro Vientos» aterrizó en Camagüey con apenas 100 litros de combustible en sus depósitos. La hazaña estableció un nuevo récord mundial de distancia en vuelo directo sobre el mar.</p>
 
 <p>El recibimiento en Cuba fue apoteósico. Barberán y Collar fueron agasajados durante diez días en La Habana. El 20 de junio de 1933 despegaron hacia la Ciudad de México, una etapa teóricamente más sencilla de 1.920 kilómetros. Nunca llegaron. A pesar de la mayor operación de búsqueda montada hasta entonces en México —con miles de personas, decenas de aviones y barcos—, solo se encontró una cámara de neumático que servía como salvavidas, identificada como perteneciente al avión. El misterio del «Cuatro Vientos» sigue sin resolverse 93 años después.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha del raid Sevilla-Camagüey:** 10-11 de junio de 1933
@@ -55,7 +51,6 @@ image: 1933-06-11-cuatro-vientos-brequet-xix.webp
 - **Único vestigio encontrado:** Cámara de neumático (salvavidas) hallada el 13 de julio de 1933 en la Barra de Tulpico, cerca de Chiltepec
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 La década de 1930 fue la era dorada de los grandes raids aéreos. Los vuelos transatlánticos representaban la máxima expresión del progreso tecnológico y del valor humano. En 1926, el Plus Ultra (Ramón Franco, Ruiz de Alda, Durán y Rada) había cruzado el Atlántico Sur desde Palos de la Frontera hasta Buenos Aires con escalas. Consulte la efeméride del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1926/02/10/vuelo-historico-plus-ultra.html" style="color: #315fea; text-decoration: none;">Vuelo histórico del hidroavión Plus Ultra</a> para más detalles. En 1927, Charles Lindbergh realizó el primer vuelo en solitario sin escalas Nueva York-París. Consulte la efeméride de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Lindbergh cruza el Atlántico en solitario sin escalas</a> para más detalles.  El reto siguiente era la ruta del Atlántico Central, la más larga sobre el mar abierto, desde Europa directamente a las Antillas.
@@ -76,6 +71,7 @@ La instrumentación, sin embargo, era completa para la época: dos brújulas, al
 
 El público seguía con fascinación estos raids. En México, se esperaba al Cuatro Vientos con una expectación sin precedentes: más de 60.000 personas —una décima parte de la población de la Ciudad de México en aquella época— se congregaron en el Aeródromo Militar de Balbuena el 21 de junio de 1933 para recibir a los aviadores españoles. El presidente Abelardo Rodríguez encabezaba la comitiva de autoridades.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 La siguiente cronología recoge los hitos principales del raid: desde la preparación técnica en España, pasando por las 39 horas y 55 minutos del vuelo Sevilla-Camagüey, la estancia en Cuba, la fatídica etapa final hacia México y las labores de búsqueda que movilizaron a miles de personas sin éxito.
@@ -136,6 +132,7 @@ La siguiente cronología recoge los hitos principales del raid: desde la prepara
 
 - **15 de julio:** Muere el voluntario Alfonso Morelos, empleado de comunicaciones, por la mordedura de una víbora mientras participaba en las labores de búsqueda en el cerro de San Martín (Puebla).
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 El raid del Cuatro Vientos tuvo repercusiones inmediatas en tres ámbitos principales: el deportivo (con el establecimiento de un nuevo récord mundial de distancia sobre el mar), el diplomático (con el acercamiento entre España, Cuba y México, truncado por la tragedia) y el operativo (con la mayor movilización de búsqueda aérea y terrestre realizada hasta entonces en México). A continuación se detallan estos aspectos.
@@ -160,6 +157,7 @@ A lo largo de 93 años, se han barajado múltiples hipótesis, ninguna confirmad
 
 4. **Problemas con el depósito de combustible:** La grieta reparada en Cuba podría haber fallado nuevamente en vuelo, provocando una pérdida total de combustible y un amerizaje forzoso en el Golfo.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 El «Cuatro Vientos» sigue siendo, 93 años después, uno de los grandes misterios de la aviación mundial. El vuelo Sevilla-Camagüey representa la mayor gesta aeronáutica española del período de entreguerras, opacada injustamente por la desaparición de sus protagonistas.
@@ -171,7 +169,6 @@ En México, el misterio ha alimentado leyendas y documentales. El más notable, 
 Poco antes de fallecer, Modesto Madariaga (el mecánico que no subió al avión en La Habana) declaró: «El Cuatro Vientos no desapareció. Sabemos dónde está. Pero hay cosas que es mejor no contar». El enigma permanece.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 <div class="references">
@@ -186,17 +183,15 @@ Poco antes de fallecer, Modesto Madariaga (el mecánico que no subió al avión 
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Existe una discrepancia menor entre fuentes sobre la distancia exacta del raid Sevilla-Camagüey. Wikipedia y la mayoría de fuentes académicas citan 7.320 km, mientras que algunas fuentes periodísticas mencionan 7.895 km. Ambas cifras aparecen en la documentación de la época y podrían deberse a diferencias en el método de cálculo (distancia en línea recta vs. ruta real). Por otro lado, la cámara de neumático hallada en Tulpico fue inicialmente descartada como perteneciente al avión por algunas fuentes, pero el análisis de Pirelli confirmó su fabricación en Manresa el 2 de noviembre de 1932, aunque sin poder certificar que fuera suministrada al Cuatro Vientos. Se ha optado por mantener el hallazgo como vestigio probable, no confirmado. La fecha de nacimiento de Collar es 25 de noviembre de 1906 según fuentes oficiales.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), EcuRed, Fundación ENAIRE, Archivo Histórico del Ejército del Aire (Biblioteca Virtual de Defensa), Dialnet (artículo 1172980), El Heraldo de León
+- **Timestamp de verificación:** 2026-09-07 10:46:34 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), EcuRed, Fundación ENAIRE, Archivo Histórico del Ejército del Aire (Biblioteca Virtual de Defensa), Dialnet (artículo 1172980), El Heraldo de León
 - **Discrepancias resueltas:** Distancia del raid (7.320 km vs. 7.895 km): se opta por la cifra de Wikipedia (7.320 km) por ser la más citada en fuentes académicas; fecha del despegue desde La Habana (5:55 vs. 8:45): se adopta la hora del informe oficial mexicano (5:55). La cámara de neumático se considera vestigio probable, no confirmado. 
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

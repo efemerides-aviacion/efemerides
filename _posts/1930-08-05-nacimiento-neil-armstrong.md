@@ -14,17 +14,13 @@ image: 1930-08-05-nacimiento-neil-armstrong.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1930-08-05-nacimiento-neil-armstrong.webp" alt="Retrato oficial de Neil Armstrong con traje espacial blanco, sosteniendo el casco, con la Luna como fondo">
   <figcaption class="post-caption">Retrato oficial de Neil Armstrong como comandante del Apolo 11, con el traje presurizado y el casco de visera dorada, ante una imagen de la Luna. La fotografía corresponde a los meses previos a la misión de julio de 1969. Fuente: <a href="https://www.nasa.gov/image-article/astronaut-neil-armstrong-born-84-years-ago-today/" style="color: #315fea; text-decoration: none;">NASA</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 5 de agosto de 1930 nació en Wapakoneta, en el estado de Ohio, Neil Alden Armstrong. Antes de convertirse en astronauta acumuló una trayectoria aeronáutica poco común: aviador naval con setenta y ocho misiones de combate en Corea, ingeniero aeronáutico por Purdue y piloto de pruebas en el desierto de California, donde voló siete veces el cohete experimental X-15.</p>
 <p>El 20 de julio de 1969, como comandante del Apolo 11, posó el módulo lunar <em>Eagle</em> en el Mar de la Tranquilidad y se convirtió en el primer ser humano que pisó la superficie de otro cuerpo celeste. Rehuyó después la notoriedad que aquel instante le procuró, se dedicó a la docencia universitaria y participó en la investigación de dos accidentes espaciales. Murió el 25 de agosto de 2012.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 
 - **Nombre completo:** Neil Alden Armstrong.
@@ -43,7 +39,6 @@ image: 1930-08-05-nacimiento-neil-armstrong.webp
 - **Récords homologados:** durante el Apolo 11 se establecieron cinco récords espaciales, ratificados por la Federación Aeronáutica Internacional en coordinación con la National Aeronautic Association de Estados Unidos y atribuidos a Armstrong como comandante: duración de actividad extravehicular en el espacio, 2 h 31 min 40 s; duración de actividad extravehicular sobre la superficie de un cuerpo celeste, 2 h 31 min 40 s; permanencia en órbita alrededor de un cuerpo celeste, 59 h 27 min 50 s; permanencia sobre la superficie de un cuerpo celeste, 21 h 36 min 21 s; y mayor masa posada sobre un cuerpo celeste, 7.326,9 kg.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 La trayectoria de Armstrong recorre en tres décadas el trayecto que va del avión de hélice al vuelo tripulado fuera de la atmósfera.
@@ -61,7 +56,6 @@ Su formación coincidió con el salto a la propulsión a reacción y con la expl
 El programa Apolo se desarrolló en plena competencia tecnológica entre Estados Unidos y la Unión Soviética, que había tomado la delantera con el primer satélite artificial y el primer vuelo orbital tripulado. El alunizaje se concibió como una demostración de capacidad nacional, y su retransmisión televisada convirtió a sus protagonistas en figuras públicas de alcance planetario. Armstrong nunca se acomodó a ese papel: interpretó el éxito como resultado del trabajo de cientos de miles de personas y evitó de forma sistemática capitalizarlo en beneficio propio.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Desarrollo Cronológico
 
 La secuencia recorre las etapas sucesivas de una carrera que enlaza la aviación naval, el vuelo experimental y la exploración lunar.
@@ -86,7 +80,6 @@ La secuencia recorre las etapas sucesivas de una carrera que enlaza la aviación
 - **25 de agosto de 2012:** fallece en Ohio a los 82 años.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Consecuencias e Impacto
 
 La elección de Armstrong para comandar el Apolo 11 no obedeció al azar ni a una preferencia simbólica, sino a un perfil profesional contrastado en situaciones límite.
@@ -98,7 +91,6 @@ Durante el descenso del *Eagle*, el ordenador de a bordo emitió alarmas y condu
 Las consecuencias del 20 de julio de 1969 desbordaron de inmediato el ámbito técnico. La retransmisión televisada alcanzó a una audiencia sin precedentes y consolidó la posición estadounidense en la competencia espacial. Para Armstrong supuso además una transformación personal que no había buscado: pasó de piloto de pruebas a figura pública mundial en el transcurso de unas horas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Legado
 
 Su nombre quedó asociado a un instante que la humanidad no ha vuelto a repetir en más de medio siglo: la primera huella humana sobre otro mundo.
@@ -112,7 +104,6 @@ En el plano deportivo y documental, su nombre figura en los registros de la <a h
 Su formación fue reconocida por la Universidad de Purdue, que conserva sus archivos, y su figura permanece ligada al programa de exploración lunar que la NASA ha retomado décadas después. La frase que pronunció al posar el pie sobre el regolito —«un pequeño paso para el hombre, un gran salto para la humanidad»— resume una carrera construida sobre la competencia técnica antes que sobre el gesto heroico.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 
 - <a href="https://www.nasa.gov/humans-in-space/astronauts/former-astronauts/former-astronaut-neil-a-armstrong/" style="color: #315fea; text-decoration: none;">NASA: biografía oficial del astronauta Neil A. Armstrong</a>
@@ -124,14 +115,14 @@ Su formación fue reconocida por la Universidad de Purdue, que conserva sus arch
 - <a href="https://en.wikipedia.org/wiki/Gemini_8" style="color: #315fea; text-decoration: none;">Gemini 8 — Wikipedia en inglés</a>
 - <a href="https://en.wikipedia.org/wiki/Rogers_Commission_Report" style="color: #315fea; text-decoration: none;">Informe de la Comisión Rogers — Wikipedia en inglés</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe discrepancia entre las fuentes sobre la edad a la que Armstrong realizó su primer vuelo como pasajero: los materiales divulgativos de la NASA la sitúan en los seis años, mientras que otras semblanzas hablan de los dos o de los cinco. Se ha optado por no consignar el dato. Sobre las condecoraciones del periodo coreano, la referencia enciclopédica en inglés precisa que recibió la Medalla del Aire por las primeras veinte misiones y dos estrellas doradas por las cuarenta siguientes, frente a las versiones que mencionan tres Medallas del Aire. En cuanto a la frase pronunciada al pisar la superficie lunar, la transmisión recibida en la Tierra no permitió distinguir con nitidez el artículo indeterminado que Armstrong sostuvo haber pronunciado, cuestión debatida durante décadas y que se refleja habitualmente escribiéndolo entre corchetes en las transcripciones. La hora del alunizaje admite dos formulaciones igualmente correctas según el huso empleado: 20 de julio de 1969 en hora del este de Estados Unidos y 21 de julio en tiempo universal.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 17:20:00 CST  
+- **Timestamp de verificación:** 2026-09-07 10:46:34 CST
 - **Fuentes primarias/institucionales consultadas:** NASA, biografía oficial del astronauta y artículo conmemorativo de su nacimiento; Universidad de Purdue, perfil institucional del cincuentenario del Apolo 11; Federación Aeronáutica Internacional, relación de récords homologados de la misión Apolo 11.
 - **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia a la biografía de James R. Hansen.
 - **Discrepancias resueltas:** se omitió la edad del primer vuelo como pasajero, por divergencia entre las fuentes; se consignaron las condecoraciones coreanas conforme al detalle de la referencia enciclopédica en inglés, frente a las versiones que mencionan tres Medallas del Aire; se recogieron las dos formulaciones horarias del alunizaje según el huso.
