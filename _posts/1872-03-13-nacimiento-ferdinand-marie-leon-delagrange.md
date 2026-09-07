@@ -88,6 +88,7 @@ Léon Delagrange ocupa un lugar destacado en la historia de la aviación por var
 - **Impulsor de aviadoras:** Su relación con Thérèse Peltier y su trato con <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1882/08/22/nacimiento-raymonde-de-laroche-aviadora-pionera-francesa.html" style="color: #315fea; text-decoration: none;">Raymonde de Laroche, primera mujer del mundo con licencia de piloto el 8 de marzo de 1910</a>, contribuyeron a la incorporación de la mujer a la aviación desde sus inicios.
 - **Memorial:** En Croix d'Hins, lugar del accidente, existe un monumento en su memoria. Una calle de Orléans lleva su nombre.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
 <p><strong>Nota sobre la numeración de brevets y fechas:</strong> El brevet de piloto Nº 3 de Delagrange corresponde a la numeración retroactiva establecida por el Aéro-Club de France en 1910, que ordenó a los primeros pilotos según la fecha de sus primeras habilitaciones. Delagrange volaba desde 1907 y cumplía los requisitos para ser considerado el tercer piloto titulado de Francia, tras Louis Blériot (Nº 1) y Glenn Curtiss (Nº 2, aunque estadounidense, recibió su brevet en Francia).</p>
 
@@ -95,7 +96,6 @@ Léon Delagrange ocupa un lugar destacado en la historia de la aviación por var
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -117,7 +117,7 @@ Léon Delagrange ocupa un lugar destacado en la historia de la aviación por var
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 09:42:34 CST
+- **Timestamp de verificación:** 2026-09-07 10:11:07 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN/FR), Early Aviators, HistoryNet, The First Air Races, Air Racing History, Aviatechno, Monash University, Invisible Bordeaux, CPA Bastille  
 - **Discrepancias resueltas:** Se documentó la diferencia entre la fecha de obtención del brevet (1909) y su numeración retroactiva (1910); se aclaró la hipótesis no confirmada sobre posible descendencia con Raymonde de Laroche  
 - **Nivel de confianza:** Alto  

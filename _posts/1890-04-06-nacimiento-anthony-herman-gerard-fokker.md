@@ -90,15 +90,15 @@ Anthony Fokker es recordado como uno de los más grandes innovadores de la aviac
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe ambigüedad sobre la autoría original del mecanismo sincronizador. Fuentes francesas atribuyen el concepto a Raymond Saulnier (1914), pero su diseño no funcionaba correctamente. Fokker perfeccionó un sistema práctico basado en un interruptor mecánico conectado al árbol de levas del motor, que fue implementado en el Fokker E.I en 1915. Algunas fuentes alegan que Fokker copió la idea tras examinar un avión francés capturado; otras sostienen que fue un desarrollo independiente. Esta efeméride no toma partido, pero reconoce que Fokker fue quien lo llevó a la producción exitosa y lo hizo famoso.</p>
   <p>Asimismo, el lugar exacto de nacimiento (Blitar) pertenecía entonces a las Indias Orientales Neerlandesas, hoy Indonesia. No existe controversia sobre la fecha de nacimiento (6 de abril de 1890).</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 09:42:34 CST
+- **Timestamp de verificación:** 2026-09-07 10:11:07 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Biografías y Vidas, Aero-Naves, New Netherland Institute, Smithsonian Books, MCN Biografías
 - **Discrepancias resueltas:** La controversia sobre la invención del sincronizador se documenta en nota aclaratoria sin tomar partido. No se encontraron discrepancias en fechas ni lugares de nacimiento/fallecimiento.
 - **Nivel de confianza:** Alto

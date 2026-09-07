@@ -137,14 +137,14 @@ De la memoria material sobrevive lo previsible: una escuela y un centro de congr
 - <a href="https://en.wikipedia.org/wiki/Hugo_Eckener" style="color: #315fea; text-decoration: none;">Hugo Eckener — Wikipedia en inglés</a>
 - <a href="https://es.wikipedia.org/wiki/Hugo_Eckener" style="color: #315fea; text-decoration: none;">Hugo Eckener — Wikipedia en español</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Algunas fuentes divergen sobre puntos concretos de esta biografía. El vuelo del LZ 1 que Eckener cubrió como periodista se identifica en unas relaciones como el segundo, realizado el 7 de octubre de 1900, y en otras simplemente como «los primeros vuelos» del LZ 1 y el LZ 2. Sobre su papel en la Primera Guerra Mundial, unas fuentes indican que formó a la mayoría de los pilotos de dirigible alemanes y otras precisan la cifra en más de cincuenta tripulaciones y unos mil hombres; Britannica añade que dirigió la construcción de ochenta y ocho dirigibles para la Marina, dato que no aparece en el resto de relaciones consultadas. El apodo que le dedicó Hermann Esser se traduce habitualmente como «director de la salchicha blanca voladora», con variantes en la atribución del cargo que este ocupaba en la jerarquía del partido. Sobre el registro de seguridad, la cifra de «más de un millón de millas» procede de la bibliografía sobre la compañía y no distingue entre aeronaves ni periodos concretos. El Trofeo Harmon figura concedido en 1928 en unas fuentes y en varias ediciones sucesivas en los registros de la propia distinción. La fotografía que ilustra esta efeméride se tomó en 1924, cuando Eckener tenía cincuenta y seis años, y no guarda relación con la fecha de su nacimiento.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 09:42:34 CST
+- **Timestamp de verificación:** 2026-09-07 10:11:07 CST
 - **Fuentes primarias/institucionales consultadas:** Library of Congress, División de Estampas y Fotografías, retrato de la National Photo Company fechado en octubre de 1924; U.S. Centennial of Flight Commission, ficha biográfica elaborada para el centenario del vuelo.
 - **Fuentes secundarias de contraste:** Airships.net, con la semblanza biográfica más detallada disponible en línea y el historial del LZ 127; Encyclopaedia Britannica; World History Encyclopedia, con el relato de la circunnavegación de 1929; Wikipedia en inglés y en español, con referencia a los trabajos de Schwensen, Adam y Syon.
 - **Discrepancias resueltas:** se precisó que Eckener cubrió como periodista el segundo vuelo del LZ 1 y no su vuelo inaugural; se optó por la formulación general sobre su labor de instrucción durante la guerra ante la divergencia de cifras entre fuentes; se descartó el dato sobre la dirección de la construcción de ochenta y ocho dirigibles navales, que solo consta en una fuente; se distinguió su papel como gestor y comandante del de diseñador estructural, atribuido a Ludwig Dürr.

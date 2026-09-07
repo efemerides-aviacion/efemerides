@@ -98,6 +98,7 @@ Raoul Lufbery ocupa un lugar de honor en la historia de la aviación militar:
 - **Memoriales:** El monumento a la Escadrille Lafayette en Marnes-la-Coquette incluye su tumba y es lugar de peregrinación para los amantes de la historia de la aviación.
 - **Museo Nacional de la USAF:** Exhibe objetos y documentación sobre su carrera, destacando su papel como pionero.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
 <p><strong>Nota sobre la nacionalidad de Lufbery:</strong> Aunque nació en Francia de padre estadounidense (lo que le otorgaba doble nacionalidad por derecho de sangre), Lufbery renunció a su nacionalidad francesa en 1905 para evitar el servicio militar obligatorio. Por ello, cuando llegó a Estados Unidos en 1907, era ciudadano estadounidense (por su padre) pero ya no francés. Su servicio en el Ejército de EE.UU. (1907-1909) consolidó legalmente esta ciudadanía, y fue como estadounidense que en 1914 se alistó en la Legión Extranjera Francesa. Esta es la razón por la que algunas fuentes indican que "obtuvo" la ciudadanía en ese período, cuando en realidad la recuperó o reactivó tras haber renunciado a la francesa.</p>
 
@@ -107,7 +108,6 @@ Raoul Lufbery ocupa un lugar de honor en la historia de la aviación militar:
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -126,7 +126,7 @@ Raoul Lufbery ocupa un lugar de honor en la historia de la aviación militar:
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 09:42:34 CST
+- **Timestamp de verificación:** 2026-09-07 10:11:07 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), National Museum of the USAF, Connecticut History, This Day in Aviation, National Aviation Hall of Fame, Purple Heart Mission, Badass of the Week  
 - **Discrepancias resueltas:** Se documentó la diferencia entre victorias confirmadas (17) y posibles victorias no confirmadas; se aclaró la doble nacionalidad y su consideración como primer as estadounidense; se añadió nota sobre las circunstancias de su muerte.  
 - **Nivel de confianza:** Alto  

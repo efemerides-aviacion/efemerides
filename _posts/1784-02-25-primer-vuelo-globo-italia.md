@@ -69,14 +69,14 @@ Andreani es recordado como el “Montgolfier milanés”, pionero de la aviació
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> El vuelo de Andreani fue el primer éxito en globo aerostático tripulado fuera de Francia, donde los hermanos Montgolfier y Pilâtre de Rozier habían realizado los primeros ascensos en 1783. La referencia a Francia subraya el carácter pionero del evento en suelo italiano.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 09:42:34 CST
+- **Timestamp de verificación:** 2026-09-07 10:11:07 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia IT/EN, Milano nei Secoli, Aerostati.it, Marco Rasch  
 - **Discrepancias resueltas:** Confirmación de fechas de vuelos (25 feb y 13 mar 1784).  
 - **Nivel de confianza:** Alto  

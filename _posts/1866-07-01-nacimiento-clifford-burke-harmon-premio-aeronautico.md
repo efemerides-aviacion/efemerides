@@ -88,17 +88,17 @@ A más de ochenta años de su fallecimiento, el nombre de Clifford B. Harmon per
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Se ha determinado fechar esta efeméride el <strong>1 de julio de 1866</strong> por rigurosidad científica e histórica, de conformidad con los registros civiles y conmemorativos de la National Aeronautic Association de los Estados Unidos. El nacimiento del pionero de la aviación Clifford Burke Harmon se produjo el 1 de julio de 1866 en Urbana, Ohio, siendo esta la fecha históricamente verídica para su conmemoración.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
 
 Para asegurar la rigurosidad biográfica y el control técnico de los datos presentados sobre la vida de Clifford B. Harmon, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-09-07 09:42:34 CST
+- **Timestamp de verificación:** 2026-09-07 10:11:07 CST
 - **Fuentes primarias/institucionales consultadas:** Base de datos histórica del National Aeronautic Association (NAA), archivos históricos del Aero Club de América, registros de patentes y biografías de los primeros aviadores estadounidenses de Early Aviators, y archivos notariales de la Ligue Internationale des Aviateurs de París
 - **Discrepancias resueltas:** Se validó que su licencia del Aero Club de América fue la número 6, consagrándose como la primera otorgada a un piloto de carácter enteramente amateur en la historia de los Estados Unidos.
 - **Nivel de confianza:** Alto

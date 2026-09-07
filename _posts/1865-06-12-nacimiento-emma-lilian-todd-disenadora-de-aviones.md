@@ -168,15 +168,15 @@ Aunque su avión solo logró un salto de 6 metros, Todd demostró que las mujere
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Existe una pequeña discrepancia entre fuentes sobre el año exacto de inicio de sus diseños aeronáuticos: algunas fuentes citan 1903, otras 1906. El artículo de The New York Times de 1909 menciona «los últimos tres años» como período de estudio aeronáutico, lo que apunta a 1906 como el año en que comenzó a diseñar aeroplanos, aunque su interés por «juguetes mecánicos y aeronáuticos» data de 1903. El nombre aparece indistintamente como Emma Lilian Todd, E. Lilian Todd o Lily Todd. El lugar exacto de sepultura en el cementerio Moravian de Nueva York está documentado pero no señalizado.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-07 09:42:34 CST
+- **Timestamp de verificación:** 2026-09-07 10:11:07 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), Early Aviators, AMA History Project, The New York Times (1909), IET, AeroTime
 - **Discrepancias resueltas:** La fecha de nacimiento (12 de junio) es consistente en todas las fuentes; el año de inicio del diseño se presenta como «1906 o antes» para reflejar la discrepancia documentada; se ha verificado el vuelo de 1910 como un «salto motorizado de 20 pies» en lugar de «vuelo sostenido».
 - **Nivel de confianza:** Alto
