@@ -38,6 +38,7 @@ image: 1955-06-02-fundacion-cosmodromo-baikonur.webp
 - **Lanzamientos totales:** más de 2.500 (récord mundial) 
 - **Hitos principales:** 
   - 4 de octubre de 1957: Lanzamiento del Sputnik 1 (primer satélite artificial)
+  - 12 de septiembre de 1959: Lanzamiento del Luna 2 (primer objeto humano en alcanzar la Luna)
   - 12 de abril de 1961: Lanzamiento del Vostok 1 (Yuri Gagarin, primer humano en el espacio)
   - 16 de junio de 1963: Lanzamiento del Vostok 6 (Valentina Tereshkova, primera mujer en el espacio)
   - 31 de enero de 1966: Lanzamiento del Luna 9 (primer aterrizaje suave en la Luna)
@@ -141,7 +142,7 @@ El Cosmódromo de Baikonur es un lugar de peregrinación para los entusiastas de
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-07 07:28:39 CST
+- **Timestamp de verificación:** 2026-09-07 07:55:30 CST
 - **Fuentes primarias/institucionales consultadas:** Russian Space Web, NASA, ESA, Smithsonian National Air and Space Museum, Wikipedia, The Diplomat
 - **Discrepancias resueltas:** Confirmación de la fecha de fundación (2 de junio de 1955) como fecha oficial de la directiva organizativa, distinta del decreto del 12 de febrero de 1955. Aclaración del engaño del nombre "Baikonur".
 - **Nivel de confianza:** Alto
