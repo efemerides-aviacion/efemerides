@@ -14,17 +14,13 @@ image: 1944-08-08-primer-vuelo-junkers-ju-287.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-08-08-primer-vuelo-junkers-ju-287.webp" alt="Vista lateral de un bombardero cuatrimotor a reacción con tren de aterrizaje fijo carenado y alas inclinadas hacia adelante, estacionado en una pista de hierba con varias personas junto al morro">
   <figcaption class="post-caption">El Junkers Ju 287 V1, matrícula de pruebas RS+RA, en el aeródromo de Brandis en agosto de 1944. Son visibles el tren de aterrizaje fijo con carenados, los dos turborreactores adosados a los costados del morro y los otros dos suspendidos bajo el ala. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Junkers_Ju_287_V1_side_view.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 8 de agosto de 1944, el jefe de pilotos de pruebas de Junkers, Siegfried Holzbauer, despegó del aeródromo de Brandis, cerca de Leipzig, a los mandos del Ju 287 V1. Era el primer avión a reacción de la historia con ala en flecha, y la flecha era invertida: las semialas apuntaban hacia adelante en lugar de hacia atrás.</p>
 <p>El aparato resultaba desconcertante a la vista. Su fuselaje procedía de un Heinkel He 177, la cola de un Junkers Ju 188, el tren principal de un Ju 352 y las ruedas de proa de un Consolidated B-24 Liberator derribado. Todo el tren quedó fijo y carenado, algo insólito en un reactor. Lo único enteramente nuevo era el ala, obra del equipo dirigido por Hans Wocke, que había elegido la flecha invertida para conservar el control de alabeo a baja velocidad, un problema serio con los turborreactores primitivos de la época. El Ju 287 nunca entró en producción y el programa terminó absorbido por la Unión Soviética, pero la fórmula que ensayó reapareció cuarenta años después.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha del primer vuelo:** 8 de agosto de 1944.
@@ -49,7 +45,6 @@ image: 1944-08-08-primer-vuelo-junkers-ju-287.webp
 - **Método de observación del flujo:** mechones de lana pegados al extradós del ala, filmados por una cámara cinematográfica montada sobre un trípode delante de la deriva.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 El Ju 287 pertenece a la última generación de proyectos alemanes, concebidos cuando la iniciativa estratégica ya se había perdido y la industria buscaba compensar la inferioridad numérica con superioridad técnica.
@@ -73,7 +68,6 @@ El Ju 287 se ha convertido en un habitual de las listas de aviones extraños, y 
 Esa lectura exagera lo que el aparato fue en realidad. El Ju 287 V1 era un banco de pruebas aerodinámico, no un arma: nunca llevó armamento ni bombas, y su velocidad máxima real, 558 kilómetros por hora, quedaba por debajo de la de los cazas aliados de hélice a los que el futuro bombardero debía escapar. Su valor no está en lo que pudo haber cambiado en la guerra, sino en los datos que aportó sobre una configuración alar que nadie había llevado antes al aire.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 La secuencia va del planteamiento del concepto a la desaparición del programa en manos soviéticas.
@@ -98,7 +92,6 @@ La secuencia va del planteamiento del concepto a la desaparición del programa e
 - **1949:** se ensaya el OKB-1 EF 140, versión muy ampliada del mismo concepto. Se abandona poco después.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 El resultado inmediato del programa fue un conjunto de datos, no un avión operativo.
@@ -110,7 +103,6 @@ La solución que se propuso —adelantar los motores bajo el borde de ataque par
 El impacto real fue de transferencia tecnológica, y benefició a quien capturó el material. La Unión Soviética se llevó a Wocke, a su equipo, los prototipos incompletos y el utillaje. El EF 131 que voló en 1947 era un Ju 287 con seis motores; el EF 140 de 1949, la misma célula con motores mayores. Ninguno prosperó, en parte por los mismos problemas de vibración alar y en parte porque, para entonces, la flecha convencional había demostrado ser el camino practicable y los soviéticos ya volaban sus propios reactores de diseño nacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 El Ju 287 dejó dos herencias de naturaleza muy distinta.
@@ -122,7 +114,6 @@ La segunda es conceptual y tardó cuarenta años en madurar. El obstáculo que d
 Queda una tercera lectura, menos técnica. El Ju 287 voló ocho meses antes del final de la guerra, cuando <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/07/18/primer-vuelo-messerschmitt-me262-v3.html" style="color: #315fea; text-decoration: none;">el Messerschmitt Me 262, primer reactor alemán en llegar al combate</a>, ya volaba desde hacía dos años y <a href="https://efemerides-aviacion.github.io/efemerides/evento/1943/03/05/primer-vuelo-gloster-meteor-reactor-britanico.html" style="color: #315fea; text-decoration: none;">el Gloster Meteor británico</a> estaba entrando en servicio. Que en ese momento Alemania dedicara recursos a un banco de pruebas aerodinámico dice algo sobre la desconexión entre la investigación y la situación militar. El conocimiento generado no benefició a quien lo pagó, sino a los ingenieros que lo trasladaron a otros países, entre ellos <a href="https://efemerides-aviacion.github.io/efemerides/evento/1946/04/24/primer-vuelo-mig-9.html" style="color: #315fea; text-decoration: none;">una Unión Soviética que estrenaba entonces sus primeros cazas a reacción</a>. Es el patrón de casi toda la tecnología aeronáutica alemana de 1945.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 - <a href="https://www.historynet.com/the-story-behind-one-of-the-oddest-airplanes-of-world-war-ii/" style="color: #315fea; text-decoration: none;">HistoryNet / <em>Aviation History</em>: «The Story Behind One of the Oddest Airplanes of World War II»</a>
@@ -136,14 +127,14 @@ Queda una tercera lectura, menos técnica. El Ju 287 voló ocho meses antes del 
 - <a href="https://en.wikipedia.org/wiki/Hans_Wocke" style="color: #315fea; text-decoration: none;">Hans Wocke — Wikipedia en inglés</a>
 - <a href="https://es.wikipedia.org/wiki/Junkers_Ju_287" style="color: #315fea; text-decoration: none;">Junkers Ju 287 — Wikipedia en español</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La fecha del primer vuelo presenta divergencias entre fuentes solventes. La documentación de Junkers y del Ministerio del Aire, seguida por los estudios monográficos recientes, fija el 8 de agosto de 1944; obras clásicas de los años setenta consignan el 16 de agosto y algunas publicaciones posteriores el 18 o el 22. Se ha adoptado la fecha documental. El número de vuelos del V1 se cifra en diecisiete en la mayor parte de las fuentes y en once en los estudios basados en los registros de la firma. Sobre la procedencia del empenaje, unas fuentes lo atribuyen a un Ju 188 y otras a un Ju 388, aeronaves emparentadas entre sí; sobre el fuselaje, se citan indistintamente las variantes A-3 y A-5 del He 177. Los cohetes de despegue se identifican como Walter HWK 109-500 o 109-501 según la fuente, con empujes unitarios que oscilan entre 1.200 y 1.500 kilogramos, y su número entre dos, tres y cuatro unidades. La velocidad máxima aparece citada como 558 kilómetros por hora a 6.000 metros en los datos de ensayo y como 780 kilómetros por hora en algunas recopilaciones, cifra que corresponde a las estimaciones del fabricante para los prototipos de serie con seis motores y no al V1 ensayado. Existe finalmente discrepancia sobre el destino del V1: la mayoría de las fuentes sostiene que fue destruido por el propio personal alemán en Brandis, mientras que otras afirman que resultó dañado por un bombardeo aliado en Rechlin.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:00:45 CST
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum, ficha del Grumman X-29A y artículo de la revista <em>Air &amp; Space</em> sobre la evolución del ala en flecha invertida; reproducción de los informes de túnel de viento de Junkers de agosto de 1944.
 - **Fuentes secundarias de contraste:** <em>Aviation History</em> vía HistoryNet, con el relato detallado de la campaña de ensayos; monografía documental de Jet and Rocket Aircraft of Nazi Germany, basada en la documentación oficial de Junkers y del Ministerio del Aire; Warbirds Resource Group; Aviastar; Wikipedia en inglés y en español.
 - **Discrepancias resueltas:** se adoptó el 8 de agosto de 1944 como fecha del primer vuelo, conforme a la documentación de la firma, frente al 16, el 18 y el 22 de agosto que consignan otras fuentes; se registró la divergencia sobre el número de vuelos, la procedencia del empenaje y del fuselaje, y el modelo y número de cohetes de despegue; se distinguió la velocidad realmente medida en el V1 de las estimaciones del fabricante para los prototipos de serie; se consignó la doble versión sobre la destrucción del prototipo.

@@ -14,17 +14,13 @@ image: 1946-08-08-primer-vuelo-convair-b36.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1946-08-08-primer-vuelo-convair-b36.webp" alt="Bombardero de seis motores de hélice propulsora despegando de una pista de hormigón, con el tren de aterrizaje extendido y una envergadura desproporcionada respecto al fuselaje">
   <figcaption class="post-caption">El prototipo Consolidated Vultee XB-36, número de serie 42-13570, despega de la pista de Fort Worth, Texas. Son visibles las seis hélices tripala en configuración propulsora, montadas en el borde de salida del ala, y el tren principal de rueda única. Fuente: <a href="https://www.thisdayinaviation.com/8-august-1946/convair-xb-36-4/" style="color: #315fea; text-decoration: none;">U.S. Air Force, vía This Day in Aviation</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 8 de agosto de 1946, poco después del mediodía, el prototipo XB-36 despegó de la pista de la factoría de Consolidated Vultee en Fort Worth, Texas, con Beryl Arthur Erickson al mando y G. S. «Gus» Green como copiloto. El vuelo duró treinta y ocho minutos y transcurrió sin incidencias, con el tren de aterrizaje extendido durante toda la prueba.</p>
 <p>El aparato era el mayor y más pesado avión que había volado hasta entonces: 70 metros de envergadura, seis motores radiales de veintiocho cilindros montados en configuración propulsora dentro del ala y una masa máxima superior a las 124 toneladas. Se había concebido en 1941 para bombardear Alemania desde bases norteamericanas si Gran Bretaña caía. Llegó cinco años tarde para esa misión, pero justo a tiempo para otra que nadie había imaginado cuando se dibujó: transportar las primeras armas termonucleares, demasiado grandes y pesadas para cualquier otro avión del arsenal estadounidense.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha:** 8 de agosto de 1946.
@@ -50,7 +46,6 @@ image: 1946-08-08-primer-vuelo-convair-b36.webp
 - **Servicio operativo:** de 1948 a 1959, en el Mando Aéreo Estratégico. Retirado el 12 de febrero de 1959.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 El XB-36 voló en el punto exacto de bisagra entre dos guerras: demasiado tarde para la que lo había engendrado y demasiado pronto para la que acabaría justificándolo.
@@ -74,7 +69,6 @@ Ninguna imagen resume mejor el desajuste generacional del B-36 que la fotografí
 El nombre con que se le conoce merece una precisión. «Peacemaker» salió de un concurso interno convocado por Convair entre sus empleados en 1949, con alusión deliberada al revólver Colt del Oeste. Recibió 813 propuestas y ganó esa, pero el nombre nunca fue adoptado oficialmente por la Fuerza Aérea: diversas organizaciones religiosas protestaron alegando que el único pacificador verdadero era Jesucristo, y el servicio prefirió no adoptarlo. Oficialmente, el avión nunca se llamó de otro modo que B-36.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 La secuencia abarca desde el requisito inicial hasta la retirada del tipo.
@@ -98,7 +92,6 @@ La secuencia abarca desde el requisito inicial hasta la retirada del tipo.
 - **30 de abril de 1959:** un B-36J vuela de Davis-Monthan al museo de la Fuerza Aérea en Ohio. Es el último vuelo de un B-36.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 El B-36 fue durante casi una década el único medio que Estados Unidos tenía para llevar una bomba atómica desde su propio territorio hasta el corazón de la Unión Soviética y regresar.
@@ -110,7 +103,6 @@ El aparato dio además juego como plataforma experimental. Se ensayaron con él 
 Nada de eso impidió que naciera obsoleto en un aspecto crucial. El B-36 fue concebido para volar por encima del alcance de la artillería antiaérea alemana y de los cazas de hélice. Cuando entró en servicio, los interceptores a reacción ya podían alcanzarlo, y sus 700 kilómetros por hora escasos lo dejaban a merced de cualquiera de ellos. La Fuerza Aérea lo consideró desde el principio una solución provisional a la espera de alternativas a reacción, y así fue: <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/04/15/primer-vuelo-yb-52-stratofortress.html" style="color: #315fea; text-decoration: none;">el YB-52 Stratofortress voló en abril de 1952</a> y en tres años empezó a sustituirlo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 El B-36 no dejó descendencia técnica. Su herencia es de otra naturaleza.
@@ -124,7 +116,6 @@ Queda también una lección sobre los tiempos de la ingeniería militar. Entre e
 De los 384 construidos sobreviven cuatro, repartidos entre museos de Ohio, Arizona, Nebraska y California. El tren principal de rueda única del prototipo que voló aquel 8 de agosto se conserva expuesto junto a uno de ellos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 - <a href="https://www.thisdayinaviation.com/8-august-1946/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «8 August 1946», con el detalle del primer vuelo, la tripulación y las especificaciones del prototipo</a>
@@ -137,14 +128,14 @@ De los 384 construidos sobreviven cuatro, repartidos entre museos de Ohio, Arizo
 - <a href="https://en.wikipedia.org/wiki/Convair_B-36_Peacemaker" style="color: #315fea; text-decoration: none;">Convair B-36 Peacemaker — Wikipedia en inglés</a>
 - <a href="https://es.wikipedia.org/wiki/Convair_B-36" style="color: #315fea; text-decoration: none;">Convair B-36 — Wikipedia en español</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes divergen en varios puntos. Sobre la duración del primer vuelo, el testimonio directo de Erickson publicado en 1992 la cifra en treinta y ocho minutos, mientras que numerosas recopilaciones posteriores consignan treinta y seis; se ha adoptado la del piloto. Sobre la hora, algunas publicaciones sitúan el despegue a primera hora de la mañana, pero el propio Erickson precisó que la tripulación estuvo lista a las cinco y que la autorización no llegó hasta pasado el mediodía. Sobre el número de ejemplares construidos se citan 383, 384 y 385 según la fuente y según se incluyan o no los prototipos. Las cifras de prestaciones varían de manera acusada porque suelen mezclar datos del prototipo con los de las versiones de serie de diez motores: la velocidad máxima estimada del XB-36 era de 558 kilómetros por hora, frente a los 700 del B-36J. Otro tanto ocurre con la carga de bombas, cifrada en 32.659 kilogramos en el diseño original del prototipo y en unos 39.000 en las versiones tardías. El número de supervivientes se consigna como cuatro o cinco según se contabilice o no material incompleto. Debe señalarse por último que el nombre «Peacemaker», universalmente empleado, nunca fue adoptado oficialmente por la Fuerza Aérea. La fotografía que ilustra esta efeméride muestra el prototipo 42-13570 despegando de Fort Worth, sin que pueda determinarse si corresponde al vuelo del 8 de agosto de 1946 o a otro posterior de la misma campaña de ensayos.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:00:45 CST
 - **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force, ficha del B-36J conservado en su colección; Air Force Materiel Command History Office, documento histórico sobre el programa y su personal; Air Force Historical Foundation; Code One Magazine, con el testimonio directo del piloto del primer vuelo.
 - **Fuentes secundarias de contraste:** This Day in Aviation, con las especificaciones detalladas del prototipo y la relación de tripulantes; <em>Aviation History</em> vía HistoryNet, con el origen del nombre y la valoración del programa; Pima Air and Space Museum; Wikipedia en inglés y en español, con referencia a las obras de Knaack, Jacobson y Jenkins.
 - **Discrepancias resueltas:** se adoptó la duración de treinta y ocho minutos que consta en el testimonio del piloto frente a los treinta y seis de otras recopilaciones; se precisó que el despegue tuvo lugar pasado el mediodía y no a primera hora; se distinguieron las prestaciones estimadas del prototipo de las medidas en las versiones de serie con diez motores; se aclaró que el nombre «Peacemaker» procede de un concurso interno del fabricante y nunca fue oficial; se registró la divergencia sobre el número de unidades construidas y de ejemplares conservados.

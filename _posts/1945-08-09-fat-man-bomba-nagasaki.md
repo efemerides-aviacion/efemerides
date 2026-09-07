@@ -14,17 +14,13 @@ image: 1945-08-09-fat-man-bomba-nagasaki.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1945-08-09-fat-man-bomba-nagasaki.webp" alt="Once tripulantes con uniforme de verano posando en fila ante el morro de un bombardero cuatrimotor plateado, con un rótulo en el suelo que identifica a cada uno por su nombre y grado">
   <figcaption class="post-caption">La tripulación del B-29 <em>Bockscar</em> fotografiada el 11 de agosto de 1945, dos días después de la misión sobre Nagasaki. El aparato no lleva todavía la decoración de morro que recibiría más tarde. En el centro, el Mayor Charles W. Sweeney, comandante de la aeronave; a su derecha, el Capitán Kermit K. Beahan, bombardero. Fuente: <a href="https://www.nationalmuseum.af.mil/Upcoming/Photos/igphoto/2000548756/" style="color: #315fea; text-decoration: none;">U.S. Air Force, National Museum of the United States Air Force</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 9 de agosto de 1945, a las 11:02 de la mañana hora local, el bombardero B-29 <em>Bockscar</em> lanzó sobre el valle de Urakami, en Nagasaki, la bomba de plutonio conocida como Fat Man. Detonó a unos 500 metros de altura con una potencia estimada de 21 kilotones. Fue el segundo y hasta hoy último empleo de un arma nuclear en un conflicto armado.</p>
 <p>Nagasaki no era el objetivo previsto. La misión tenía como blanco principal el arsenal de Kokura, y solo después de tres pasadas infructuosas sobre una ciudad cubierta de humo, con la artillería antiaérea acercándose y una avería en el sistema de combustible que había dejado inaccesibles casi dos mil litros de reserva, el Mayor Charles W. Sweeney puso rumbo al objetivo secundario. Allí las nubes también cubrían el punto de mira, hasta que una abertura momentánea permitió el lanzamiento visual que exigían las órdenes. El avión aterrizó en Okinawa con dos motores parados por falta de combustible.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha y hora de la detonación:** 9 de agosto de 1945, 11:02 hora de Japón.
@@ -51,7 +47,6 @@ image: 1945-08-09-fat-man-bomba-nagasaki.webp
 - **Aeronave conservada:** *Bockscar* se exhibe en el National Museum of the United States Air Force, en Dayton, Ohio.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 El ataque a Nagasaki se produjo en una ventana de tres días marcada por la meteorología, no por la diplomacia.
@@ -75,7 +70,6 @@ El nombre del arma no tenía intención simbólica. Los proyectos del laboratori
 El bombardeo de Nagasaki ocupa además un lugar distinto al de Hiroshima en la memoria colectiva. Ha recibido históricamente menos atención, pese a que la bomba fue más potente, y ese segundo plano ha alimentado el argumento más debatido sobre el episodio: si Hiroshima puede discutirse en términos de necesidad militar, la utilidad de un segundo ataque apenas setenta y dos horas después, sin margen real para que Tokio procesara el primero, resulta mucho más difícil de sostener.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 La secuencia recorre los días previos y las horas de la misión.
@@ -101,7 +95,6 @@ La secuencia recorre los días previos y las horas de la misión.
 - **2 de septiembre de 1945:** se firma el instrumento de rendición a bordo del USS *Missouri*.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 La cifra de víctimas nunca se ha establecido con exactitud, y no puede establecerse.
@@ -113,7 +106,6 @@ La destrucción fue menor que en Hiroshima pese a la mayor potencia del arma, y 
 En el plano estratégico, la relación entre el bombardeo y la rendición sigue discutiéndose. El emperador se impuso al alto mando el día 10, y el anuncio llegó el 15. Pero entre el 8 y el 9 de agosto se acumularon tres hechos —la entrada de la Unión Soviética en la guerra, la invasión de Manchuria y el segundo ataque nuclear— y la historiografía no ha logrado consenso sobre el peso relativo de cada uno. Quienes defienden la decisión argumentan que evitó la invasión terrestre prevista, con proyecciones de bajas de varios cientos de miles. Quienes la critican señalan que el intervalo de tres días no dio margen a Tokio para reaccionar al primer ataque, y que la elección de una ciudad como blanco de un arma de esa naturaleza plantea problemas jurídicos y morales que no se resuelven con el cálculo de bajas evitadas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 Ochenta y un años después, Nagasaki sigue siendo el último lugar del mundo donde se ha empleado un arma nuclear contra población.
@@ -125,7 +117,6 @@ En el plano técnico, Fat Man fue el punto de partida y no el final. El diseño 
 Queda por último la dimensión que la ciudad ha reivindicado por sí misma. Nagasaki mantiene desde hace décadas una posición activa en favor del desarme, sostenida por los *hibakusha*, los supervivientes de los bombardeos, cuyo testimonio ha sido el argumento más eficaz contra la normalización del arma nuclear. Su número disminuye cada año por razones biológicas, y esa desaparición plantea una pregunta abierta sobre la persistencia de la memoria cuando ya no queden testigos directos. El *Bockscar* se conserva en un museo de Ohio; la catedral de Urakami fue reconstruida en el mismo emplazamiento.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 - <a href="https://www.osti.gov/opennet/manhattan-project-history/Events/1945/nagasaki.htm" style="color: #315fea; text-decoration: none;">Departamento de Energía de Estados Unidos: «The Atomic Bombing of Nagasaki, August 9, 1945», historia oficial del Proyecto Manhattan</a>
@@ -139,14 +130,14 @@ Queda por último la dimensión que la ciudad ha reivindicado por sí misma. Nag
 - <a href="https://en.wikipedia.org/wiki/Bockscar" style="color: #315fea; text-decoration: none;">Bockscar — Wikipedia en inglés</a>
 - <a href="https://es.wikipedia.org/wiki/Bombardeos_at%C3%B3micos_sobre_Hiroshima_y_Nagasaki" style="color: #315fea; text-decoration: none;">Bombardeos atómicos sobre Hiroshima y Nagasaki — Wikipedia en español</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las cifras de víctimas divergen de manera muy acusada entre fuentes solventes, y ninguna puede considerarse definitiva. Para los muertos inmediatos se manejan valores aproximados de 35.000 a 40.000 en las fuentes estadounidenses de referencia, de 40.000 a 75.000 en otras recopilaciones y de hasta 74.000 en las estimaciones japonesas de posguerra; para el total hasta finales de 1945, entre 60.000 y 80.000; y para el cómputo a cinco años, cifras superiores a 100.000. La divergencia obedece a la destrucción de los registros civiles y a la dificultad de atribuir la mortalidad diferida por radiación. También difieren las fuentes en la altura de detonación, que se cifra en 1.650 pies —unos 503 metros— en la documentación del Proyecto Manhattan y en unos 1.800 pies en la ficha del museo de la Fuerza Aérea, y en la hora exacta del lanzamiento, situada entre las 10:58 y las 11:01, con la detonación a las 11:02. La potencia se estima en 21 kilotones, si bien la ficha del museo la aproxima a 20.000 toneladas equivalentes de TNT. Sobre la hora de despegue se citan las 03:47 y las 03:49. Debe señalarse por último que el arma no era propiedad de una tripulación fija: <em>Bockscar</em> era el aparato habitual del Capitán Frederick C. Bock, que aquel día voló la aeronave de observación, mientras Sweeney y su tripulación ocupaban el avión de Bock. La fotografía que ilustra esta efeméride se tomó el 11 de agosto de 1945, dos días después de la misión.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:00:45 CST
 - **Fuentes primarias/institucionales consultadas:** Departamento de Energía de Estados Unidos, historia oficial del Proyecto Manhattan, con referencia al informe del Manhattan Engineer District de 1947; National Museum of the United States Air Force, relato de la misión y ficha técnica del arma; Harry S. Truman Presidential Library; National Museum of Nuclear Science and History.
 - **Fuentes secundarias de contraste:** The National WWII Museum, con el relato de la misión y las cifras de víctimas; Pacific Wrecks, con el historial documentado de los B-29 Silverplate implicados; Wikipedia en inglés y en español.
 - **Discrepancias resueltas:** se consignaron los valores aproximados divergentes de víctimas en lugar de adoptar una cifra única, dada la imposibilidad material de establecerla; se registró la divergencia sobre la altura de detonación y sobre la hora del lanzamiento; se precisó que el error de puntería desplazó la detonación unos 2,4 kilómetros respecto al punto previsto; se aclaró la permuta de aeronaves entre las tripulaciones de Sweeney y Bock, origen de una confusión frecuente sobre qué avión lanzó el arma.

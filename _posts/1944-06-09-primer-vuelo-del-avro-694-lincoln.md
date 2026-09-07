@@ -14,16 +14,12 @@ image: 1944-06-09-primer-vuelo-del-avro-694-lincoln.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-06-09-primer-vuelo-del-avro-694-lincoln.webp" alt="Avro Lincoln prototipo PW925 en vuelo">
   <figcaption class="post-caption">El prototipo británico del Avro 694 Lincoln, serial PW925, primer ejemplar del modelo, fotografiado en un aeródromo de la RAF circa junio 1944. Fuente:Destinations Journey / RAF archives.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 9 de junio de 1944, el Capitán Harry Albert "Sam" Brown, piloto jefe de pruebas de Avro, realizó el primer vuelo del prototipo PW925 del Avro Type 694 Lincoln desde el aeropuerto de Ringway en Mánchester, Inglaterra. Concebido originalmente como una versión mejorada del Lancaster bajo las designaciones Lancaster Mk. IV y Mk. V, el Lincoln fue rediseñado como un bombardero pesado cuatrimotor de largo alcance en respuesta a la Especificación B.14/43 del Ministerio del Aire británico. Destinado a equipar a la "Tiger Force" de la Commonwealth para operaciones contra Japón en el Pacífico, el Lincoln entró en servicio en agosto de 1945, demasiado tarde para participar en la Segunda Guerra Mundial. No obstante, se convirtió en el último bombardero con motores de pistón de la RAF y sirvió en conflictos coloniales hasta su retiro definitivo en 1963.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha del primer vuelo:** 9 de junio de 1944
@@ -39,7 +35,6 @@ image: 1944-06-09-primer-vuelo-del-avro-694-lincoln.webp
 - **Unidades construidas:** 604 (incluyendo 3 prototipos y 54 construidos en Australia)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 A mediados de 1943, el curso de la Segunda Guerra Mundial comenzaba a inclinarse a favor de los Aliados. Sin embargo, la guerra en el Pacífico contra Japón aún se vislumbraba larga y costosa. La RAF carecía de un bombardero pesado con el alcance suficiente para operar desde bases lejanas contra el archipiélago japonés, una deficiencia que el Ministerio del Aire buscó solucionar con urgencia.
@@ -57,7 +52,6 @@ La aviación militar había evolucionado rápidamente desde 1939. El Lancaster, 
 La aviación bombardera ocupaba un lugar central en la estrategia bélica británica, simbolizada por las incursiones nocturnas sobre Alemania. La figura de los "as de los bombarderos" no existía como en la caza, pero los pilotos de pruebas, como Sam Brown, eran considerados héroes técnicos. La colaboración internacional también era clave: el Lincoln fue concebido no solo para la RAF, sino como la columna vertebral de la "Tiger Force", una fuerza de bombarderos pesados que integraría escuadrones del Reino Unido, Australia, Canadá y Nueva Zelanda.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 - **Diciembre de 1942:** El equipo de Roy Chadwick comienza a trabajar en una versión mejorada del Lancaster, inicialmente denominada Lancaster Mk. IV.
@@ -72,7 +66,6 @@ La aviación bombardera ocupaba un lugar central en la estrategia bélica britá
 - **Agosto de 1945:** El Escuadrón N.º 57 de la RAF recibe los primeros Lincolns operativos. La guerra termina antes de que puedan desplegarse contra Japón.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 El Lincoln se quedó fuera de la Segunda Guerra Mundial, pero su historia operativa fue extensa y diversa:
@@ -84,7 +77,6 @@ El Lincoln se quedó fuera de la Segunda Guerra Mundial, pero su historia operat
 - **Banco de pruebas de motores a reacción:** Numerosos Lincolns fueron modificados como bancos de pruebas para los primeros turborreactores y turbohélices británicos, incluyendo los Rolls-Royce Avon, Bristol Proteus, Armstrong Siddeley Python y Napier Nomad, contribuyendo decisivamente al desarrollo de la aviación a reacción.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 El Avro 694 Lincoln fue el último de los grandes bombarderos pesados con motores de pistón de la RAF. Aunque nunca lanzó bombas contra Japón, su legado es múltiple:
@@ -96,7 +88,6 @@ El Avro 694 Lincoln fue el último de los grandes bombarderos pesados con motore
 - **Símbolo del fin de una era:** El Lincoln representa la culminación de la tecnología de bombarderos con motores de pistón, inmediatamente superada por los reactores (los V-Bombers: Valiant, Victor y Vulcan) que iniciaron una nueva era en la estrategia de bombardeo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 <div class="references">
@@ -112,17 +103,15 @@ El Avro 694 Lincoln fue el último de los grandes bombarderos pesados con motore
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El Lincoln fue inicialmente concebido como una variante del Lancaster (Mk. IV y Mk. V), pero las modificaciones fueron tan profundas (envergadura aumentada en 5,5 m, fuselaje alargado, nueva planta motriz) que el Ministerio del Aire decidió reclasificarlo como un nuevo tipo. El prototipo PW925 voló sin torreta de morro ni equipo operativo completo, centrándose en las pruebas aerodinámicas.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES), Australian Aviation, WarHistory.org, RAF Museum, Canadian Warplane Heritage Museum, This Day in Aviation
+- **Timestamp de verificación:** 2026-09-07 12:00:45 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Australian Aviation, WarHistory.org, RAF Museum, Canadian Warplane Heritage Museum, This Day in Aviation
 - **Discrepancias resueltas:** Coincidencia unánime entre fuentes sobre la fecha (9 de junio de 1944). El lugar (Ringway) y el piloto (Sam Brown) están confirmados por fuentes múltiples. Las cifras de producción varían ligeramente (604 vs. 586), adoptándose la cifra más citada (604) que incluye los tres prototipos y la producción australiana.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

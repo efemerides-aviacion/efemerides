@@ -14,17 +14,13 @@ image: 1941-08-07-primer-vuelo-grumman-tbf-tbm-avenger.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1941-08-07-primer-vuelo-grumman-tbf-tbm-avenger.webp" alt="El prototipo Grumman XTBF-1 estacionado ante un hangar, con hélice tripala, tren de aterrizaje fijo desplegado y la torreta dorsal acristalada tras la cabina">
   <figcaption class="post-caption">El prototipo Grumman XTBF-1, el aparato que voló por primera vez el 7 de agosto de 1941. Se aprecian la torreta dorsal acristalada, la amplia bodega interna de armamento y el fuselaje de sección profunda que caracterizarían al Avenger. Fuente: <a href="https://www.thisdayinaviation.com/7-august-1941/12451l/" style="color: #315fea; text-decoration: none;">Ray Crupi Collection, vía This Day in Aviation</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 7 de agosto de 1941, el ingeniero jefe y piloto de pruebas de Grumman, Robert Leicester «Bob» Hall, despegó de Bethpage, en Long Island, a los mandos del XTBF-1, el prototipo del torpedero destinado a sustituir al ya obsoleto Douglas TBD Devastator. El vuelo fue breve: el aparato pesaba más de lo previsto, su centro de gravedad quedaba demasiado atrasado y resultaba inestable en guiñada. Hall regresó al aeródromo de inmediato.</p>
 <p>Aquellos defectos se corrigieron adelantando el motor, aligerando la estructura y añadiendo un filete triangular delante del estabilizador vertical. De ese diseño enmendado salió el Avenger, el avión monomotor más pesado producido durante la Segunda Guerra Mundial, del que se construyeron 9.839 unidades. Debutó en Midway con un resultado desastroso —cinco de seis aparatos derribados— y terminó siendo el torpedero más utilizado del conflicto, con participación en el hundimiento de los acorazados japoneses <em>Yamato</em> y <em>Musashi</em>.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha:** 7 de agosto de 1941.
@@ -46,7 +42,6 @@ image: 1941-08-07-primer-vuelo-grumman-tbf-tbm-avenger.webp
 - **Producción total:** 9.839 unidades, entre las fabricadas por Grumman con la designación TBF y las de la División Eastern Aircraft de General Motors, denominadas TBM.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 El encargo respondía a una urgencia identificada antes de la guerra: la Armada estadounidense sabía que su torpedero de primera línea había quedado atrás.
@@ -64,7 +59,6 @@ El Douglas TBD Devastator, introducido en 1935, había sido en su día el primer
 Los defectos detectados en aquel primer vuelo no eran anecdóticos. Un centro de gravedad atrasado y la inestabilidad en guiñada son problemas serios en un aparato destinado a lanzar torpedos, maniobra que exige volar recto, nivelado y a baja altura frente al fuego enemigo. La rapidez con que Grumman los corrigió —adelantando el motor y añadiendo el filete dorsal que se aprecia en las fotografías posteriores del prototipo— explica que el aparato pudiera entrar en producción en diciembre de aquel mismo año. La coincidencia de fechas resultó notable: la tarde del 7 de diciembre de 1941, mientras Grumman celebraba una ceremonia pública para inaugurar su nueva planta y presentar el TBF, la Armada japonesa atacaba Pearl Harbor. Las instalaciones se cerraron de inmediato ante el temor a un sabotaje, y el nombre elegido en octubre, «Vengador», adquirió un sentido que nadie había previsto.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 La secuencia recorre desde el encargo de los prototipos hasta la consagración del tipo en el Pacífico.
@@ -85,7 +79,6 @@ La secuencia recorre desde el encargo de los prototipos hasta la consagración d
 - **Décadas de 1950 y 1960:** el Avenger permanece en servicio en varias armadas y fuerzas aéreas, adaptado a la guerra antisubmarina, la alerta aérea temprana y usos civiles.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 El contraste entre el debut del tipo y su trayectoria posterior es uno de los más acusados de la aviación naval.
@@ -97,7 +90,6 @@ A partir de ahí, la evolución fue inversa. La robustez estructural que había 
 En el balance del conflicto, los Avenger participaron en el hundimiento de los acorazados *Yamato* y *Musashi*, los mayores jamás construidos, y se les atribuye la destrucción de una treintena de submarinos. La producción alcanzó 9.839 unidades, repartidas entre Grumman y la División Eastern Aircraft de General Motors, cifra que sitúa al aparato entre los aviones navales más numerosos de la historia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 El Avenger sobrevivió a la guerra para la que fue concebido y encontró en la posguerra funciones que sus diseñadores no habían imaginado.
@@ -111,7 +103,6 @@ Dos nombres asociados al tipo alcanzaron notoriedad ajena a la aeronáutica. Geo
 Del prototipo que voló aquel 7 de agosto no queda nada: el 00373 ardió en el aire diez meses después. Pero el filete dorsal que se le añadió tras aquel primer vuelo defectuoso permaneció en los 9.839 aparatos que le siguieron.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 - <a href="https://www.thisdayinaviation.com/7-august-1941/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «7 August 1941», con el detalle del primer vuelo, los defectos detectados y las correcciones aplicadas</a>
@@ -121,14 +112,14 @@ Del prototipo que voló aquel 7 de agosto no queda nada: el 00373 ardió en el a
 - <a href="https://en.wikipedia.org/wiki/Grumman_TBF_Avenger" style="color: #315fea; text-decoration: none;">Grumman TBF Avenger — Wikipedia en inglés</a>
 - <a href="https://es.wikipedia.org/wiki/Grumman_TBF_Avenger" style="color: #315fea; text-decoration: none;">Grumman TBF Avenger — Wikipedia en español</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El número de tripulantes del Avenger admite dos respuestas según la fase del programa. La configuración inicial del tipo preveía cuatro puestos —piloto, navegante, radiotelegrafista-artillero y artillero de torreta—, mientras que los aparatos de serie operaron con tres: piloto, artillero de torreta y radiotelegrafista-bombardero-artillero ventral. Ambas cifras figuran en fuentes solventes y no constituyen una contradicción, sino dos momentos distintos del diseño. Conviene precisar asimismo que la denominación «Avenger» se adoptó en octubre de 1941, con anterioridad al ataque a Pearl Harbor, pese a que la coincidencia con la ceremonia de presentación del 7 de diciembre haya alimentado la versión de que el nombre se eligió como respuesta al ataque. La designación TBM no corresponde a un modelo distinto, sino a los ejemplares construidos por la División Eastern Aircraft de General Motors bajo licencia, idénticos en lo esencial a los TBF de Grumman. La fotografía que ilustra esta efeméride muestra el prototipo XTBF-1, el aparato protagonista del hecho recordado, sin que conste que fuera tomada el día del primer vuelo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:00:45 CST
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum, ficha de colección del TBF-1 Avenger y artículo divulgativo de <em>Air and Space Quarterly</em>; Air & Space Forces Magazine.
 - **Fuentes secundarias de contraste:** This Day in Aviation, con los datos del prototipo, la planta motriz y las modificaciones posteriores al primer vuelo; Wikipedia en inglés y en español.
 - **Discrepancias resueltas:** se distinguió la configuración inicial de cuatro tripulantes de la de tres del modelo de serie, cifras que las fuentes presentan sin matizar; se precisó que el nombre «Avenger» se adoptó en octubre de 1941, antes del ataque a Pearl Harbor, frente a la versión que lo vincula a este; se consignó la designación del motor del prototipo, R-2600-8, distinta de la del R-2600-20 de las series posteriores que citan las recopilaciones generalistas.
