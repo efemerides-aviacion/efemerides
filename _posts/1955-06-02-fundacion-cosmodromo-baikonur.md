@@ -16,9 +16,10 @@ image: 1955-06-02-fundacion-cosmodromo-baikonur.webp
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Resumen Ejecutivo
-
-El 2 de junio de 1955, las autoridades soviéticas establecieron oficialmente el **Quinto Sitio de Pruebas de Investigación Científica** (NIIP-5), más conocido como el **Cosmódromo de Baikonur**, en la estepa de Kazajistán . Concebido originalmente como un polígono de pruebas para el misil balístico intercontinental R-7 de Serguéi Koroliov, su ubicación remota ofrecía aislamiento y seguridad para los ensayos . El decreto fundacional fue aprobado el 12 de febrero de 1955, y el 2 de junio se formalizó su estructura organizativa y de personal . Desde este cosmódromo, el 4 de octubre de 1957 despegó el **Sputnik 1**, el primer satélite artificial de la historia, inaugurando la era espacial . El 12 de abril de 1961, desde la misma plataforma (Gagarin's Start), el **Vostok 1** transportó a **Yuri Gagarin**, el primer ser humano en orbitar la Tierra . Baikonur ha sido el puerto de lanzamiento de miles de misiones, incluyendo el primer vuelo de una mujer al espacio (Valentina Tereshkova, 1963) y el primer vehículo de aterrizaje lunar (Luna 9, 1966) . Tras la disolución de la Unión Soviética, Baikonur quedó en territorio de la recién independizada Kazajistán y actualmente es operado por Rusia bajo un régimen de arrendamiento .
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 2 de junio de 1955, las autoridades soviéticas establecieron oficialmente el **Quinto Sitio de Pruebas de Investigación Científica** (NIIP-5), más conocido como el **Cosmódromo de Baikonur**, en la estepa de Kazajistán . Concebido originalmente como un polígono de pruebas para el misil balístico intercontinental R-7 de Serguéi Koroliov, su ubicación remota ofrecía aislamiento y seguridad para los ensayos . El decreto fundacional fue aprobado el 12 de febrero de 1955, y el 2 de junio se formalizó su estructura organizativa y de personal . Desde este cosmódromo, el 4 de octubre de 1957 despegó el **Sputnik 1**, el primer satélite artificial de la historia, inaugurando la era espacial . El 12 de abril de 1961, desde la misma plataforma (Gagarin's Start), el **Vostok 1** transportó a **Yuri Gagarin**, el primer ser humano en orbitar la Tierra . Baikonur ha sido el puerto de lanzamiento de miles de misiones, incluyendo el primer vuelo de una mujer al espacio (Valentina Tereshkova, 1963) y el primer vehículo de aterrizaje lunar (Luna 9, 1966) . Tras la disolución de la Unión Soviética, Baikonur quedó en territorio de la recién independizada Kazajistán y actualmente es operado por Rusia bajo un régimen de arrendamiento .</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -44,6 +45,10 @@ El 2 de junio de 1955, las autoridades soviéticas establecieron oficialmente el
   - 15 de noviembre de 1988: Lanzamiento del Buran (único vuelo del transbordador soviético)
   - 31 de octubre de 2000: Lanzamiento de la Soyuz TM-31 (primera tripulación de la ISS)
 - **Rampa de lanzamiento más famosa:** "Gagarin's Start" (Plataforma Nº 1)
+- **Ciudad satélite:** Leninsk (en honor a Lenin), hoy Baikonur, levantada para albergar a los trabajadores, científicos y militares del complejo, con amplios bulevares, zonas verdes y arquitectura típica soviética
+- **Población de la ciudad:** aproximadamente 39.000 habitantes (2016)
+- **Estatus legal:** "ciudad de importancia republicana" en Kazajistán, administrada conjuntamente por Rusia y Kazajistán según el acuerdo de arrendamiento
+- **Acceso:** la ciudad y el cosmódromo son zonas restringidas; se requiere autorización especial para visitarlos
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -65,7 +70,7 @@ El cosmódromo fue un secreto de estado durante décadas. Su verdadera ubicació
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Desarrollo Cronológico de Baikonur
+## Desarrollo Cronológico
 
 - **12 de febrero de 1955:** El gobierno soviético aprueba el decreto para la creación del "Quinto Sitio de Pruebas de Investigación Científica" (NIIP-5) .
 - **2 de junio de 1955:** Se establece oficialmente la estructura organizativa y de personal del cosmódromo .
@@ -73,6 +78,7 @@ El cosmódromo fue un secreto de estado durante décadas. Su verdadera ubicació
 - **15 de mayo de 1957:** Primer lanzamiento de prueba del misil R-7 (fallido).
 - **4 de octubre de 1957:** Lanzamiento del **Sputnik 1**, primer satélite artificial, utilizando un R-7 modificado .
 - **3 de noviembre de 1957:** Lanzamiento del Sputnik 2, con la perra Laika, primer ser vivo en orbitar la Tierra .
+- **12 de septiembre de 1959:** Lanzamiento de la sonda Luna 2, primer objeto humano en alcanzar otro cuerpo celeste: impactó contra la Luna el 13 de septiembre de 1959 (véase la <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1959/09/13/luna-2-primer-objeto-humano-en-tocar-la-luna.html" style="color: #315fea; text-decoration: none;">efeméride de la Luna 2</a>).
 - **12 de abril de 1961:** Lanzamiento del **Vostok 1** con Yuri Gagarin, primer ser humano en el espacio .
 - **1963:** Lanzamiento del Vostok 6 con Valentina Tereshkova, primera mujer en el espacio .
 - **1966:** Lanzamiento del Luna 9, primer aterrizaje suave en la Luna .
@@ -83,19 +89,6 @@ El cosmódromo fue un secreto de estado durante décadas. Su verdadera ubicació
 - **1995:** La ciudad satélite Leninsk es renombrada "Baikonur" .
 - **2000:** Primer lanzamiento de una tripulación hacia la Estación Espacial Internacional (ISS) .
 - **2020:** Lanzamiento de la misión Crew Dragon (SpaceX) desde Cabo Cañaveral, que no afecta el estatus de Baikonur como el cosmódromo más activo del mundo.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## La Ciudad de Baikonur (antigua Leninsk)
-
-La construcción del cosmódromo requirió la creación de una ciudad satélite para albergar a los trabajadores, científicos, militares y sus familias. La ciudad fue diseñada por el arquitecto G. M. Shchusev por encargo directo de Nikita Khrushchev .
-
-- **Nombre original:** Leninsk (en honor a Lenin) 
-- **Nombre actual:** Baikonur (desde 1995) 
-- **Población actual:** aproximadamente 39.000 habitantes (2016)
-- **Características:** Construida con amplios bulevares, zonas verdes y arquitectura típica soviética de la época.
-- **Estatus legal:** Tiene el estatus de "ciudad de importancia republicana" en Kazajistán, pero está administrada conjuntamente por Rusia y Kazajistán según el acuerdo de arrendamiento.
-- **Acceso:** La ciudad y el cosmódromo son zonas restringidas; se requiere autorización especial para visitarlos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -148,8 +141,8 @@ El Cosmódromo de Baikonur es un lugar de peregrinación para los entusiastas de
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST
-- **Fuentes primarias consultadas:** Russian Space Web, NASA, ESA, Smithsonian National Air and Space Museum, Wikipedia, The Diplomat
+- **Timestamp de verificación:** 2026-09-07 07:28:39 CST
+- **Fuentes primarias/institucionales consultadas:** Russian Space Web, NASA, ESA, Smithsonian National Air and Space Museum, Wikipedia, The Diplomat
 - **Discrepancias resueltas:** Confirmación de la fecha de fundación (2 de junio de 1955) como fecha oficial de la directiva organizativa, distinta del decreto del 12 de febrero de 1955. Aclaración del engaño del nombre "Baikonur".
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."
