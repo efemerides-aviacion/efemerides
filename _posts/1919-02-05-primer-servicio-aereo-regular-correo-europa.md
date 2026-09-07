@@ -15,12 +15,10 @@ image: 1919-02-05-primer-servicio-aereo-regular-correo-europa.webp
   <figcaption class="post-caption">Carga de paquetes postales en un LVG C.VI de la Deutsche Luft-Reederei (DLR) en condiciones de nieve, circa 1919. Fuente: Wikipedia "Deutsche Luft-Reederei".</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 5 de febrero de 1919, la Deutsche Luft-Reederei (DLR) inauguró desde Berlín-Johannisthal el primer servicio aéreo regular de correos y periódicos en Europa, con destino a Weimar, donde sesionaba la Asamblea Nacional. Utilizando biplanos AEG J.II convertidos de la guerra, el vuelo de dos horas redujo drásticamente el tiempo de entrega de la correspondencia. Este hito marcó el nacimiento de la aviación comercial en Alemania, sentó las bases para el transporte de pasajeros y dio origen al icónico logo de la grulla, que aún hoy identifica a su sucesora, Lufthansa.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha del primer vuelo:** 5 de febrero de 1919  
@@ -46,6 +44,7 @@ Se reutilizaron aviones militares adaptados para transporte civil, demostrando l
 ### Entorno cultural
 El vuelo inaugural simbolizó el inicio de la aviación civil en Alemania y en Europa.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - **1919, 5 feb:** Primer vuelo Berlín–Weimar con periódicos y correo.  
 - **1919, 6 feb:** Inicio de vuelos regulares, expansión hacia Leipzig.  
@@ -53,9 +52,11 @@ El vuelo inaugural simbolizó el inicio de la aviación civil en Alemania y en E
 - **1923:** Fusión con Deutscher Aero Lloyd.  
 - **1926:** Fundación de Deutsche Luft Hansa (actual Lufthansa).  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 El servicio aéreo postal demostró la eficiencia del transporte aéreo frente al terrestre, acelerando la transición hacia vuelos de pasajeros.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 De la DLR, Lufthansa heredó el logo de la grulla diseñado por Otto Firle en 1918, uno de los símbolos corporativos más antiguos aún en uso.
 
@@ -73,17 +74,15 @@ De la DLR, Lufthansa heredó el logo de la grulla diseñado por Otto Firle en 19
   </ul>
 </div>
 
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Algunas fuentes difieren sobre si el primer vuelo de la DLR fue el 5 o el 6 de febrero de 1919. La mayoría de registros oficiales y prensa contemporánea señalan el 5 de febrero como fecha inaugural, mientras que el 6 de febrero corresponde al inicio de los vuelos regulares.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Hannover Airport, Fotoarchiv Weimar, Berlin Geschichte, Airways Magazine, Lufthansa Group, MDR  
+- **Timestamp de verificación:** 2026-09-07 10:45:59 CST
+- **Fuentes primarias/institucionales consultadas:** Hannover Airport, Fotoarchiv Weimar, Berlin Geschichte, Airways Magazine, Lufthansa Group, MDR  
 - **Discrepancias resueltas:** Fecha inaugural (5 vs. 6 de febrero de 1919)  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

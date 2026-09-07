@@ -20,7 +20,6 @@ image: 1918-03-24-john-trollope-7-victoria-1-dia.webp
 <p>El 24 de marzo de 1918, el Capitán John Lightfoot Trollope (No. 43 Squadron RAF) derribó siete aeronaves alemanas en dos patrullas con su Sopwith Camel C8270: dos DFW C.V y un Albatros D.V por la mañana, más cuatro DFW adicionales por la tarde. Fue el primer piloto británico en lograr siete victorias en un solo día, una hazaña que le valió la Barra de la Cruz Militar. En total acumuló 18 derribos en 1918 antes de ser derribado y capturado cuatro días después, perdiendo el brazo izquierdo.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Fecha:** 24 de marzo de 1918
 - **Lugar:** Frente Occidental, sector de la gran ofensiva alemana (Operación Michael)
@@ -29,7 +28,6 @@ image: 1918-03-24-john-trollope-7-victoria-1-dia.webp
 - **Resultado inmediato:** Primer piloto británico en derribar siete aviones enemigos en un solo día, récord que le valió la Barra de la Cruz Militar y el reconocimiento como as excepcional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 En marzo de 1918, la Primera Guerra Mundial entraba en una fase crítica. El Tratado de Brest-Litovsk había liberado divisiones alemanas del frente oriental, y el Imperio Alemán lanzaba su última gran ofensiva de primavera (Operación Michael) con la esperanza de romper las líneas aliadas antes de la llegada masiva de tropas estadounidenses. En este contexto, la aviación jugaba un papel clave en reconocimiento, bombardeo y combate aéreo.
@@ -43,6 +41,7 @@ Los cazas biplanos como el Sopwith Camel (introducido en 1917) y el alemán Alba
 ### Entorno cultural
 La figura del "as" (piloto con cinco o más victorias) tenía una enorme carga simbólica. Los récords de derribos en un día generaban una admiración especial. Hasta entonces, ningún piloto británico había logrado siete victorias en 24 horas; los alemanes sí habían tenido casos aislados (como Werner Voss con ocho en un día). Trollope se convertiría en el primero de la RFC/RAF en alcanzar esa cifra.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **30 de mayo de 1897:** Nace John Lightfoot Trollope en Wallington, Surrey.
@@ -61,6 +60,7 @@ La figura del "as" (piloto con cinco o más victorias) tenía una enorme carga s
 - **Segunda Guerra Mundial:** Se reintegra al servicio, alcanzando el rango de Wing Commander (comandante de ala).
 - **21 de octubre de 1958:** Fallece en Hove, Sussex, a los 61 años.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 - **Reconocimiento:** Trollope recibió la Barra de la Cruz Militar (Military Cross and Bar) por su hazaña. Su récord de siete victorias en un día permaneció como el mayor logro diario de un piloto británico durante el resto de la guerra.
@@ -68,18 +68,17 @@ La figura del "as" (piloto con cinco o más victorias) tenía una enorme carga s
 - **Legado táctico:** Demostró la efectividad de las patrullas ofensivas agresivas con el Sopwith Camel, inspirando a otros pilotos del Escuadrón No. 43.
 - **Herida y fin de su carrera:** Su captura y amputación pusieron fin a una carrera meteórica de apenas tres meses de combate intensivo, en los que había acumulado 18 victorias confirmadas.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 John Lightfoot Trollope es recordado como uno de los ases más brillantes de la Primera Guerra Mundial. Su hazaña del 24 de marzo de 1918 lo convirtió en el primer piloto británico en alcanzar siete victorias en un solo día, un récord que solo igualarían más tarde otros pilotos (como William Bishop o Edward Mannock, pero nunca superado por un británico en la Gran Guerra). El Escuadrón No. 43 de la RAF continúa conmemorando sus logros, y su historia permanece como ejemplo de pericia, valor y sacrificio.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la cifra de victorias del 24 de marzo de 1918:</strong> Existe una discrepancia documentada en las fuentes históricas respecto al número exacto de derribos obtenidos por John Lightfoot Trollope ese día. La citación oficial para la Barra de su Cruz Militar, así como los boletines del Escuadrón No. 43, mencionan seis victorias: tres por la mañana y tres por la tarde. Sin embargo, investigaciones posteriores basadas en los informes de combate detallados y en los relatos personales de Trollope (incluyendo su carta a su madre) confirman un séptimo derribo ocurrido durante el regreso de la segunda patrulla, cuando atacó a un caza enemigo que combatía con un avión británico. Este derribo fue registrado y visto por el otro piloto británico, pero no fue incluido en la narración oficial de la condecoración, quizás por tratarse de una acción aislada fuera de las formaciones principales. Por esta razón, algunas fuentes (como <em>Above the Trenches</em> y la mayoría de las referencias aeronáuticas modernas) acreditan a Trollope con <strong>siete victorias</strong> en ese día, convirtiéndolo en el primer piloto británico en alcanzar esa cifra en 24 horas. En esta efeméride se ha optado por destacar la cifra de siete, respaldada por la investigación más exhaustiva, pero dejando constancia de la discrepancia original.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -94,11 +93,11 @@ John Lightfoot Trollope es recordado como uno de los ases más brillantes de la 
     <li><a href="https://en.wikipedia.org/wiki/1918_in_aviation" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – 1918 in aviation</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 11:07:10 CST  
-- **Fuentes primarias consultadas:** Afterburner, Wikipedia (EN), The Aerodrome, Airwar19141918, 43 Squadron Association Newsletter  
+- **Timestamp de verificación:** 2026-09-07 10:45:59 CST
+- **Fuentes primarias/institucionales consultadas:** Afterburner, Wikipedia (EN), The Aerodrome, Airwar19141918, 43 Squadron Association Newsletter  
 - **Discrepancias resueltas:** Se documentó la discrepancia entre 6 y 7 victorias en una nota aclaratoria, explicando que la cifra de 7 está respaldada por investigaciones modernas y relatos personales, mientras que la citación oficial mencionaba 6.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

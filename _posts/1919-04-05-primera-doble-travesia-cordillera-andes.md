@@ -14,16 +14,12 @@ image: 1919-04-05-primera-doble-travesia-cordillera-andes.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1919-04-05-primera-doble-travesia-cordillera-andes.webp" alt="Teniente Armando Cortínez junto a su Bristol M.1C en El Bosque">
   <figcaption class="post-caption">Teniente Armando Cortínez Mujica junto a su Bristol M.1C N° 4987 en el Aeródromo El Bosque, antes de emprender la doble travesía de la Cordillera de los Andes, 5 de abril de 1919. Fuente: Fuerza Aérea de Chile, “106 años de la doble travesía del Teniente Armando Cortínez” (fach.mil.cl).</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 5 de abril de 1919, el Teniente Armando Cortínez Mujica despegó desde el Aeródromo El Bosque (Santiago) en un Bristol M.1C sin autorización superior, cruzando la Cordillera de los Andes por el sector del Cerro Tupungato (Paso de la Cumbre), en conmemoración de la Batalla de Maipú. Aterrizó en el Departamento de Tupungato (Mendoza, Argentina) con daños menores en el tren de aterrizaje. Reparó el avión con fondos del gobierno chileno y regresó el 16 de abril, completando así la primera doble travesía aérea de los Andes. A pesar de la indisciplina inicial, el clamor popular y el éxito de la gesta le valieron el perdón y el ascenso a Capitán.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Fecha del primer cruce:** 5 de abril de 1919
 - **Fecha del regreso (segundo cruce):** 16 de abril de 1919
@@ -37,7 +33,6 @@ image: 1919-04-05-primera-doble-travesia-cordillera-andes.webp
 - **Consecuencia disciplinaria:** Arresto inicial, luego indultado por el Presidente y ascendido a Capitán
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 La aviación militar chilena daba sus primeros pasos a fines de la década de 1910. En diciembre de 1918, el Teniente Dagoberto Godoy había realizado el primer cruce simple de los Andes (Santiago – Mendoza) en un Bristol M.1C, demostrando la viabilidad de superar la cordillera por aire. Sin embargo, la hazaña de Cortínez fue más ambiciosa: volver a cruzar en sentido contrario, completando una travesía de ida y vuelta.
@@ -51,6 +46,7 @@ El Bristol M.1C era un caza monoplano británico de la Primera Guerra Mundial, d
 ### Entorno cultural
 Los pilotos militares de la época gozaban de un estatus romántico de “caballeros del aire”. La indisciplina era a veces tolerada si venía acompañada de gestos audaces. El caso de Cortínez ilustra esa dualidad: arrestado por desobediencia, pero aclamado como héroe.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **Diciembre de 1918:** El Teniente Dagoberto Godoy realiza el primer cruce simple de los Andes (Santiago – Mendoza) en un Bristol M.1C similar, abriendo la ruta.
@@ -61,7 +57,6 @@ Los pilotos militares de la época gozaban de un estatus romántico de “caball
 - **Posterior:** Al llegar, es arrestado por desobediencia. Sin embargo, la opinión pública y la prensa lo convierten en héroe. El Presidente de Chile lo indulta y lo asciende a Capitán.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 - **Reconocimiento a la aviación chilena:** La doble travesía consolidó el prestigio del Servicio de Aviación Militar de Chile, demostrando capacidad operativa en condiciones extremas.
@@ -70,13 +65,11 @@ Los pilotos militares de la época gozaban de un estatus romántico de “caball
 - **Legado patrimonial:** El Bristol M.1C original fue preservado (actualmente en el Museo Aeronáutico de la FACh). En 2022, el nieto de Cortínez, René Cortínez, donó reliquias históricas al Museo del Carmen de Maipú.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 El 5 de abril es conmemorado por la Fuerza Aérea de Chile y la Dirección General de Aeronáutica Civil (DGAC) como el “Día de la Doble Travesía de los Andes”. La gesta de Armando Cortínez es recordada como un ejemplo de audacia y patriotismo, y su nombre figura en la galería de héroes de la aviación chilena. El Bristol M.1C que pilotó representa un símbolo de los inicios de la aviación nacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -89,15 +82,15 @@ El 5 de abril es conmemorado por la Fuerza Aérea de Chile y la Dirección Gener
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Algunas fuentes indican que el regreso de Cortínez ocurrió el 16 de abril, mientras que otras mencionan el 17 de abril [NO CONFIRMADO]. La fecha del 16 de abril es la que figura en los registros oficiales de la FACh y en la DGAC. Asimismo, el vuelo se realizó sin autorización expresa, lo que motivó un arresto inicial, pero el carácter histórico de la gesta llevó a su indulto. La altitud exacta de cruce de la cordillera no está documentada; los registros indican que el vuelo superó los 4.000 m, sin especificar una cifra precisa.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
-- **Fuentes primarias consultadas:** FACh, DGAC, Museo Aeronáutico DGAC, TallyHo, Wikipedia, YouTube FACh
+- **Timestamp de verificación:** 2026-09-07 10:45:59 CST
+- **Fuentes primarias/institucionales consultadas:** FACh, DGAC, Museo Aeronáutico DGAC, TallyHo, Wikipedia, YouTube FACh
 - **Discrepancias resueltas:** La fecha exacta del regreso se ha fijado en 16 de abril según las fuentes oficiales chilenas. La discrepancia con la fecha del 17 de abril se documenta como [NO CONFIRMADO]. La altitud de cruce se indica como estimada (>4.000 m) sin precisar una cifra no documentada.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

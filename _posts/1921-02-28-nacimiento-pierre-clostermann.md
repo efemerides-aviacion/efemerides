@@ -16,14 +16,11 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1921-02-28-nacimiento-pierre-clostermann.webp" alt="Pierre Clostermann, as francés RAF, 1945">
   <figcaption class="post-caption">Pierre Clostermann (1945), as francés RAF con 33 victorias y condecoraciones (Légion d'honneur, Croix de Guerre). Fuente: Bundesarchiv / IWM.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>Pierre Clostermann nació el 28 de febrero de 1921 en Curitiba, Brasil, y se convirtió en el as de caza francés más célebre de la Segunda Guerra Mundial. Volando Spitfire y sobre todo Hawker Tempest en varios escuadrones de la RAF, alcanzó 33 victorias aéreas confirmadas y 5 probables según registros franceses, por lo que fue apodado “Premier chasseur de France”. Condecorado como Compagnon de la Libération, Grand’croix de la Légion d’honneur y DSO/DFC británicos, sus memorias <em>Le Grand Cirque</em> se transformaron en un clásico de la literatura aérea bélica.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 28 de febrero de 1921  
@@ -50,6 +47,7 @@ Clostermann voló aviones de última generación como el Hawker Tempest, que le 
 ### Entorno cultural
 Su figura se convirtió en símbolo nacional, y sus memorias <em>Le Grand Cirque</em> dieron voz a la experiencia de los pilotos de caza, consolidando su imagen como héroe.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 - **1921:** Nace en Curitiba, Brasil.  
 - **1942:** Se incorpora a la RAF en el Reino Unido.  
@@ -58,9 +56,11 @@ Su figura se convirtió en símbolo nacional, y sus memorias <em>Le Grand Cirque
 - **1945–1950s:** Publica <em>Le Grand Cirque</em>, se convierte en diputado y directivo aeronáutico.  
 - **2006:** Fallece en Montesquieu-des-Albères, Francia.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 Su palmarés lo convirtió en el as francés más destacado de la guerra, y sus relatos influyeron en la memoria colectiva de la aviación militar.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 Recordado como “Premier chasseur de France”, su nombre está asociado a la tradición de la aviación de caza y a la literatura bélica de referencia.
 
@@ -78,6 +78,7 @@ Recordado como “Premier chasseur de France”, su nombre está asociado a la t
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> El número de victorias de Pierre Clostermann varía según el criterio de cada fuerza aérea y los estudios posteriores:</p>
 
@@ -90,11 +91,10 @@ Recordado como “Premier chasseur de France”, su nombre está asociado a la t
 <p>La cifra de 33 se mantiene como la más difundida en Francia y en sus condecoraciones oficiales, pero no coincide con los criterios británicos ni con las verificaciones alemanas. Esta diferencia refleja la disparidad de métodos de contabilización y la dificultad de establecer un número único e indiscutible.</p>
 </div>
 
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia EN/ES/FR, Escuadrón Fénix, WWII Aces, Légion d'Honneur, FalkeEins  
+- **Timestamp de verificación:** 2026-09-07 10:45:59 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia EN/ES/FR, Escuadrón Fénix, WWII Aces, Légion d'Honneur, FalkeEins  
 - **Discrepancias resueltas:** Debate sobre número de victorias (33 confirmadas + 5 probables vs. 19 RAF vs. 15–18 verificables en archivos alemanes).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se

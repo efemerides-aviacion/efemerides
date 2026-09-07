@@ -14,17 +14,13 @@ image: 1921-08-03-primer-vuelo-aviacion-agricola.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1921-08-03-primer-vuelo-aviacion-agricola.webp" alt="Vista aérea del biplano esparciendo una estela de polvo insecticida sobre una parcela arbolada">
   <figcaption class="post-caption">Imagen exacta del hecho recordado: el biplano Curtiss deja una estela de arseniato de plomo en polvo sobre el catalpar durante el primer experimento mundial de fumigación aérea. Troy, Ohio, 3 de agosto de 1921. La fotografía procede del informe de John S. Houser publicado por la Estación Experimental Agrícola de Ohio en 1922. Fuente: <a href="https://commons.wikimedia.org/wiki/File:World_first_crop_duster_aircraft.jpg" style="color: #315fea; text-decoration: none;">Ohio Agricultural Experiment Station, vía Wikimedia Commons</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 3 de agosto de 1921, sobre una plantación de catalpas en Troy, en el estado de Ohio, un biplano Curtiss modificado en el campo experimental de McCook esparció arseniato de plomo en polvo sobre los árboles infestados por orugas. Fue el primer uso documentado de una aeronave más pesada que el aire para dispersar un producto fitosanitario.</p>
 <p>La operación duró menos de un minuto de descarga efectiva y resolvió en seis pasadas un problema que por tierra habría exigido días de trabajo. El experimento, concebido por técnicos agrícolas del estado y ejecutado por el Servicio Aéreo del Ejército, no buscaba una marca deportiva ni un récord: pretendía comprobar una hipótesis agronómica. Su éxito abrió una rama industrial completa que hoy trata decenas de millones de hectáreas cada año.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha:** 3 de agosto de 1921.
@@ -40,7 +36,6 @@ image: 1921-08-03-primer-vuelo-aviacion-agricola.webp
 - **Resultado inmediato:** mortandad prácticamente total de las orugas en el área tratada.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 El ensayo de Troy no nació de una ambición aeronáutica, sino de un problema forestal concreto que coincidió con la disponibilidad de medios técnicos ociosos.
@@ -58,7 +53,6 @@ El Curtiss Jenny era el biplano de instrucción más difundido del país, de est
 En 1921 la aviación se asociaba en el imaginario público a los récords, las exhibiciones y las hazañas individuales. Un vuelo de un minuto sobre un huerto no encajaba en ese relato. Sin embargo, el experimento anticipaba un cambio de mentalidad que acabaría siendo más profundo: la aeronave como herramienta de trabajo, evaluada por su rendimiento económico y no por la épica. Que el ensayo lo promoviera una estación experimental agrícola, y no un club aeronáutico ni un periódico patrocinador, resulta significativo de esa transición.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 La secuencia siguiente sitúa el ensayo entre sus antecedentes y las consecuencias industriales que desencadenó.
@@ -74,7 +68,6 @@ La secuencia siguiente sitúa el ensayo entre sus antecedentes y las consecuenci
 - **Décadas de 1950 y siguientes:** aparecen los primeros aviones concebidos desde el diseño para la aplicación aérea, con cabina elevada y ala baja, configuración que sigue vigente.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 Lo que el ensayo demostró no fue que un avión pudiera volar bajo, sino que la aplicación aérea era económicamente racional.
@@ -86,7 +79,6 @@ La consecuencia inmediata fue la aparición de un mercado. En apenas tres años 
 Hubo también una consecuencia menos celebrada. El producto empleado en Troy era un compuesto arsenical de elevada toxicidad, y la técnica nacía sin control alguno sobre la deriva de la nube. Los problemas de contaminación y de exposición humana que acompañarían a la aplicación aérea durante el siglo XX estaban ya presentes, en germen, en aquel primer vuelo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 La aviación agrícola es probablemente la aplicación civil del avión que menos atención histórica ha recibido en proporción a su magnitud real.
@@ -98,7 +90,6 @@ El campo de aplicación se amplió mucho más allá del insecticida original. La
 Queda por último la advertencia implícita. La historia de la aplicación aérea es también la de la progresiva regulación de sus riesgos: la sustitución de los compuestos arsenicales, el control de la deriva y las restricciones que jurisdicciones como la Unión Europea impusieron a la fumigación aérea a partir de 2009 por motivos ambientales y sanitarios. El vuelo de Troy inauguró simultáneamente una herramienta agrícola de enorme utilidad y un debate sobre sus efectos que continúa abierto.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 - <a href="https://en.wikipedia.org/wiki/Aerial_application" style="color: #315fea; text-decoration: none;">Aerial application — Wikipedia en inglés</a>
@@ -110,14 +101,14 @@ Queda por último la advertencia implícita. La historia de la aplicación aére
 - <a href="https://en.wikipedia.org/wiki/McCook_Field" style="color: #315fea; text-decoration: none;">McCook Field — Wikipedia en inglés</a>
 - <a href="https://en.wikipedia.org/wiki/Lead_arsenate" style="color: #315fea; text-decoration: none;">Lead arsenate — Wikipedia en inglés</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes discrepan sobre la variante exacta del biplano empleado: unas la identifican como Curtiss JN-4 y otras como JN-6, por lo que aquí se cita el aparato genéricamente como Curtiss Jenny modificado. También difieren en la fecha de inicio de las operaciones comerciales de fumigación aérea, situada entre 1923 y 1924 según la fuente, y en si debe atribuirse a la constitución de la empresa o a su primer trabajo efectivo; se ha adoptado 1924 y la localización de Macon, en Georgia, por ser lo que sostienen las referencias más precisas consultadas. Las cifras de superficie, cantidad de producto y duración de las descargas proceden del relato divulgado del experimento y presentan variaciones menores entre versiones. El plazo exacto en que se verificó la mortandad de las orugas oscila entre las 46 horas y los seis días según la fuente, por lo que se ha optado por no fijar una cifra concreta. La denominación «primer vuelo de la aviación agrícola» se refiere al primer uso documentado de una aeronave de ala fija para dispersar un producto fitosanitario; existe un antecedente de siembra aérea desde globo en Nueva Zelanda en 1906, recogido en el desarrollo cronológico.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 10:45:59 CST
 - **Fuentes primarias/institucionales consultadas:** informe de John S. Houser para la Ohio Agricultural Experiment Station (Monthly Bulletin 7, 1922), origen documental de las fotografías del experimento, consultado en Internet Archive.
 - **Fuentes secundarias de contraste:** Air &amp; Space Forces Magazine, Wikipedia en inglés (Aerial application; John A. Macready; Etienne Dormoy; McCook Field; Ceratomia catalpae; Lead arsenate).
 - **Discrepancias resueltas:** se citó el aparato como Curtiss Jenny sin precisar variante, por divergencia entre las fuentes entre JN-4 y JN-6; se adoptó 1924 y Macon, Georgia, como inicio de las operaciones comerciales, frente a la fecha de 1923 que ofrecen otras recopilaciones; se omitió fijar el plazo exacto de mortandad de las orugas por oscilar entre 46 horas y seis días según la fuente.

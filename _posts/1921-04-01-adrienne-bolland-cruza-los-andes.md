@@ -22,7 +22,6 @@ published: true
     El 1 de abril de 1921, la aviadora francesa Adrienne Bolland se convirtió en la primera mujer en cruzar la Cordillera de los Andes por vía aérea. Pilotando un biplano Caudron G.3 de 80 CV, despegó desde Mendoza y aterrizó en Santiago tras cuatro horas de vuelo, desafiando condiciones extremas. Su hazaña marcó un hito en la aviación femenina y en la historia de los vuelos andinos.
   </p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 1 de abril de 1921  
@@ -44,6 +43,7 @@ El Caudron G.3 era un biplano ligero, diseñado para reconocimiento en la Primer
 ### Entorno cultural
 La hazaña consolidó a Bolland como ícono femenino en la aviación, desafiando prejuicios de género y convenciones sociales de la época.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - Diciembre 1920: llegada de Bolland a Argentina.  
 - Preparación y escepticismo de pilotos locales.  
@@ -52,11 +52,13 @@ La hazaña consolidó a Bolland como ícono femenino en la aviación, desafiando
 - Vuelo guiado por referencias visuales.  
 - Aterrizaje exitoso en Santiago tras cuatro horas.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 - Publicidad para Caudron y su aeronave.  
 - Empoderamiento femenino en la aviación.  
 - Precedente para rutas aéreas andinas.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 Adrienne Bolland es recordada como una de las aviadoras más intrépidas de la historia, celebrada en Argentina y Chile como símbolo de audacia y resistencia.
 
@@ -73,8 +75,8 @@ Adrienne Bolland es recordada como una de las aviadoras más intrépidas de la h
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Documentos de la Société des Avions Caudron; reportes periodísticos de Clarín y La Gaceta  
+- **Timestamp de verificación:** 2026-09-07 10:45:59 CST
+- **Fuentes primarias/institucionales consultadas:** Documentos de la Société des Avions Caudron; reportes periodísticos de Clarín y La Gaceta  
 - **Discrepancias resueltas:** La efeméride se conmemora el 24 de noviembre, aunque el cruce real ocurrió el 1 de abril de 1921  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
