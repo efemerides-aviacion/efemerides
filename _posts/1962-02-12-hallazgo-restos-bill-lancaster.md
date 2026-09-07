@@ -15,12 +15,10 @@ image: 1962-02-12-hallazgo-restos-bill-lancaster.webp
   <figcaption class="post-caption">Bill Lancaster y el Southern Cross Minor; se desconoce la ubicación, pero lo más probable es que fuera en Lympne antes de su último vuelo. (Archivo Nacional de Australia). Fuente: <a href="https://airscapemag.com/2016/04/15/bill-lancaster/" style="color: #315fea; text-decoration: none;">Airscape Magazine – Anomaly on the horizon</a></figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 12 de febrero de 1962, una patrulla motorizada del ejército francés halló en el desierto de Tanezrouft (Argelia) el cuerpo momificado del aviador Bill Lancaster y los restos del Avro Avian IV "Southern Cross Minor", desaparecido desde 1933 durante un intento de récord Londres–Ciudad del Cabo.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 12 de febrero de 1962  
@@ -44,15 +42,18 @@ El Avro Avian IV era un avión ligero de madera y tela, con motor de baja potenc
 ### Entorno cultural
 Lancaster y Chubbie Miller fueron figuras mediáticas, reflejo de la época dorada de los vuelos de aventura.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - 12 de abril de 1933: Lancaster despega rumbo a Ciudad del Cabo.  
 - 20 de abril de 1933: muere en el desierto tras ocho días de supervivencia.  
 - 12 de febrero de 1962: patrulla francesa encuentra el cuerpo y el avión.  
 - 1975: los restos del avión son recuperados y trasladados al Queensland Museum, Brisbane.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 El hallazgo en 1962 cerró uno de los misterios más notorios de la aviación temprana. El diario de Lancaster se convirtió en testimonio histórico de resistencia y esperanza.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 Hoy se recuerda a Bill Lancaster como símbolo de los riesgos de la aviación pionera y de la pasión por los récords de distancia.
 
@@ -73,8 +74,8 @@ Hoy se recuerda a Bill Lancaster como símbolo de los riesgos de la aviación pi
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 16:47:34 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES/PT), HistoryNet, Acami, Airscape, AOPA  
+- **Timestamp de verificación:** 2026-09-07 12:00:55 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES/PT), HistoryNet, Acami, Airscape, AOPA  
 - **Discrepancias resueltas:** Fecha de hallazgo confirmada (12/02/1962); lugar exacto (Tanezrouft, ~274 km al sur de Reggane)  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

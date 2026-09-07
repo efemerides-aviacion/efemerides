@@ -15,12 +15,10 @@ image: 1956-02-17-primer-vuelo-yf104a-starfighter.webp
   <figcaption class="post-caption">Lockheed YF-104A Starfighter (s/n 55-2955), prototipo de servicio de pruebas, en pista antes de su primer vuelo el 17 de febrero de 1956 en Edwards AFB, pilotado por Herman ‘Fish’ Salmon. (Foto: John Eaves Blog / Lockheed records).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 17 de febrero de 1956, el piloto de pruebas Herman Richard “Fish” Salmon realizó el primer vuelo del YF-104A Starfighter (55-2955) en Edwards AFB. Este prototipo de servicio, equipado desde fábrica con el motor General Electric J79 y un fuselaje alargado para acomodarlo, pavimentó el camino para el interceptor Mach 2 F-104. Once días después, el mismo avión alcanzó Mach 2 en vuelo nivelado, consolidando su legado pese a su corta vida operativa hasta 1957.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 - **Fecha:** 17 de febrero de 1956  
@@ -44,16 +42,19 @@ El YF-104A introdujo alas trapezoidales de baja relación de aspecto, fuselaje a
 ### Entorno cultural
 El Starfighter se convirtió en símbolo de la era supersónica y en protagonista de múltiples fuerzas aéreas aliadas.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - 17 de febrero de 1956: Primer vuelo del YF-104A en Edwards AFB.  
 - 28 de febrero de 1956: El mismo avión alcanza Mach 2 en vuelo nivelado.  
 - 25 de abril de 1957: Destrucción del prototipo en Palmdale tras aterrizaje duro.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 - Validación del diseño supersónico de Clarence “Kelly” Johnson.  
 - Consolidación del F-104 como interceptor Mach 2.  
 - Influencia en la doctrina de combate aéreo de la Guerra Fría.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 El YF-104A (55-2955) es recordado con dos sobrenombres:  
 - **“Starfighter”**, nombre oficial del modelo F‑104, símbolo de la era supersónica.  
@@ -74,14 +75,15 @@ Herman “Fish” Salmon (1915–2008) es recordado como uno de los grandes pilo
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> El XF-104 voló con motor Wright J65, pero el YF-104A fue construido directamente con motor General Electric J79. El prototipo 55-2955 es recordado tanto por su nombre oficial “Starfighter” como por el apodo “Apple Knocker” tras su accidente en 1957.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, John Eaves Blog, 916 Starfighter, Wikipedia, Wisconsin Aviation Hall of Fame, Air Force Test Center  
+- **Timestamp de verificación:** 2026-09-07 12:00:55 CST
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, John Eaves Blog, 916 Starfighter, Wikipedia, Wisconsin Aviation Hall of Fame, Air Force Test Center  
 - **Discrepancias resueltas:** Confirmación del motor correcto (J79 desde fábrica en YF-104A) y aclaración de sobrenombres.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

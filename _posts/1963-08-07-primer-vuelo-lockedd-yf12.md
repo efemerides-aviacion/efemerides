@@ -14,17 +14,13 @@ image: 1963-08-07-primer-vuelo-lockedd-yf12.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1963-08-07-primer-vuelo-lockedd-yf12.webp" alt="El Lockheed YF-12A aterrizando en una pista del desierto con el paracaídas de frenado desplegado y montañas áridas al fondo">
   <figcaption class="post-caption">El primer Lockheed YF-12A, número de serie 60-6934, aterriza en Groom Lake, Nevada, con el paracaídas de frenado desplegado, tras su primer vuelo el 7 de agosto de 1963, pilotado por James D. Eastham. Fuente: <a href="https://www.thisdayinaviation.com/7-august-1963/lockheed-yf-12a-60-6934-first-flight-at-groom-lake-nevada-7-august-1963-with-test-pilot-james-d-eastham/" style="color: #315fea; text-decoration: none;">U.S. Air Force, vía This Day in Aviation</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 7 de agosto de 1963, el piloto de pruebas de Lockheed James D. Eastham despegó de la base secreta de Groom Lake, en Nevada, a los mandos del primer YF-12A, número de serie 60-6934. Era el prototipo de un interceptor capaz de volar por encima de Mach 3, derivado del avión de reconocimiento A-12 que la Agencia Central de Inteligencia mantenía en el mayor secreto.</p>
 <p>Solo se construyeron tres ejemplares. Nunca entraron en servicio: el pedido de 93 aparatos de serie quedó bloqueado durante tres años por el secretario de Defensa Robert McNamara y se canceló definitivamente en 1968. Aun así, el YF-12A estableció en 1965 récords mundiales de velocidad y altitud, sirvió de coartada pública para ocultar el programa de la Agencia y, tras su retirada militar, se convirtió en banco de pruebas de la NASA durante una década. Sigue siendo el mayor, más pesado y más rápido interceptor tripulado jamás construido.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha:** 7 de agosto de 1963.
@@ -45,7 +41,6 @@ image: 1963-08-07-primer-vuelo-lockedd-yf12.webp
 - **Revelación pública:** el presidente Lyndon B. Johnson anunció la existencia del aparato el 24 de febrero de 1964.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 El YF-12A no nació de un pliego de requisitos, sino del aprovechamiento de una célula que ya existía y de un sistema de armas que se había quedado sin avión.
@@ -63,7 +58,6 @@ Convertir un avión espía en interceptor exigía más que añadir armamento. El
 El aparato voló desde una base cuya existencia el Gobierno no reconocía, dentro de un programa clasificado, para probar un sistema destinado a un avión cancelado. Esa acumulación de secretos produjo una consecuencia paradójica: cuando los avistamientos del A-12 sobre Nevada empezaron a resultar difíciles de negar, la Casa Blanca decidió revelar la existencia del YF-12A precisamente para tener algo que enseñar. El 24 de febrero de 1964, Johnson anunció el aparato llamándolo «A-11», denominación que correspondía al diseño biplaza. La maniobra funcionó: cualquier destello a gran altitud sobre el desierto podía atribuirse en adelante al nuevo interceptor de la Fuerza Aérea, y no al programa de la Agencia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 La secuencia recorre desde la cancelación del interceptor que dejó libre el sistema de armas hasta el destino final de los tres ejemplares.
@@ -84,7 +78,6 @@ La secuencia recorre desde la cancelación del interceptor que dejó libre el si
 - **17 de noviembre de 1979:** el 60-6935, único superviviente, vuela hasta el Museo Nacional de la Fuerza Aérea en Wright-Patterson, Ohio, donde se conserva.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 El programa fracasó como adquisición militar y triunfó como demostración tecnológica, combinación poco frecuente.
@@ -98,7 +91,6 @@ El legado técnico se desplazó hacia otros programas. El radar AN/ASG-18 y el m
 Los récords de 1965 permanecieron poco tiempo en manos del YF-12A, pero solo porque los batió su propio pariente: el SR-71 Blackbird, desarrollado en paralelo sobre la misma célula.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 La segunda vida del YF-12A fue científica y duró más que la militar.
@@ -112,7 +104,6 @@ De los tres ejemplares construidos, uno se destruyó en tierra en 1966 y su mita
 La familia iniciada con <a href="https://efemerides-aviacion.github.io/efemerides/evento/1955/08/04/primer-vuelo-lockhedd-u2-dragon-lady.html" style="color: #315fea; text-decoration: none;">el U-2 en 1955</a> y continuada con el A-12 y el SR-71 tuvo en el YF-12A su rama armada. Ninguna otra aeronave tripulada ha superado sus cifras como interceptor, y sesenta años después el registro sigue en pie.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 - <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195777/lockheed-yf-12a/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: ficha del Lockheed YF-12A</a>
@@ -121,14 +112,14 @@ La familia iniciada con <a href="https://efemerides-aviacion.github.io/efemeride
 - <a href="https://en.wikipedia.org/wiki/Lockheed_YF-12" style="color: #315fea; text-decoration: none;">Lockheed YF-12 — Wikipedia en inglés</a>
 - <a href="https://es.wikipedia.org/wiki/Lockheed_YF-12" style="color: #315fea; text-decoration: none;">Lockheed YF-12 — Wikipedia en español</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El nombre del oficial de control de tiro que acompañó al Coronel Stephens en los récords de 1965 aparece en las fuentes como David Andre y como Daniel Andre; se ha adoptado la segunda forma, que es la que consigna la ficha oficial del Museo Nacional de la Fuerza Aérea. La conversión de la marca de altitud sostenida presenta también divergencias: los 80.257,86 pies homologados equivalen a 24.463 metros, cifra que algunas recopilaciones consignan erróneamente como 22.677 metros. La denominación «A-11» empleada por el presidente Johnson en su anuncio de febrero de 1964 no correspondía al aparato mostrado, sino a la designación interna del proyecto biplaza; la confusión fue deliberada en cuanto servía al propósito de encubrir el programa de reconocimiento. Conviene precisar por último que el llamado «YF-12C» no fue un cuarto ejemplar del tipo, sino el segundo SR-71A rebautizado con un número de serie ficticio. La fotografía que ilustra esta efeméride corresponde al aterrizaje del 60-6934 tras el vuelo recordado.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:00:55 CST
 - **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force, ficha del Lockheed YF-12A y del vuelo de récord de 1965; NASA, documentación gráfica del programa de investigación de crucero supersónico.
 - **Fuentes secundarias de contraste:** This Day in Aviation, con los datos del primer vuelo, los ensayos de armamento y el destino de los tres ejemplares; Wikipedia en inglés y en español, con referencia a las obras de Pace, Landis y Jenkins.
 - **Discrepancias resueltas:** se adoptó la forma «Daniel Andre» para el oficial de control de tiro del vuelo de récord, conforme a la ficha oficial del museo, frente a la variante «David Andre» de otras fuentes; se corrigió la conversión de la marca de altitud, 24.463 metros y no los 22.677 que figuran en algunas recopilaciones; se precisó que la designación «A-11» del anuncio presidencial no correspondía al aparato exhibido; se aclaró que el «YF-12C» era en realidad un SR-71A con número de serie ficticio.

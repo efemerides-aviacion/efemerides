@@ -14,17 +14,13 @@ image: 1956-08-09-primer-vuelo-fiat-g91.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1956-08-09-primer-vuelo-fiat-g91.webp" alt="Caza a reacción monomotor de camuflaje verde y gris rodando por una pista, con ala en flecha, depósitos subalares y escarapela tricolor italiana en el fuselaje">
   <figcaption class="post-caption">Un Fiat G.91R/1B de la Aeronautica Militare italiana, matrícula MM6377, en la base de Treviso-Sant'Angelo en mayo de 1987. La versión de serie conserva las líneas del prototipo que voló en 1956: ala en flecha de 37 grados, toma de aire frontal y fuselaje compacto. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Fiat_G91-R-1B,_Italy_-_Air_Force_JP6990484.jpg" style="color: #315fea; text-decoration: none;">Aldo Bidini, vía Wikimedia Commons (GFDL 1.2)</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 9 de agosto de 1956, el jefe de pilotos de pruebas de Fiat, Riccardo Bignamini, despegó del aeródromo de Caselle, en Turín, con el primer prototipo del G.91, designado NC.1. El aparato concurría al concurso NBMR-1 de la OTAN, convocado para dotar a las fuerzas aéreas de la Alianza de un cazabombardero ligero, barato y capaz de operar desde pistas de hierba o carreteras.</p>
 <p>El vuelo colocó al diseño italiano siete meses por delante del prototipo de Dassault y casi un año por delante del Breguet Taon. Esa ventaja resultó decisiva: en enero de 1958 el G.91 fue declarado vencedor y se convirtió en el único avión de combate que ha ganado un concurso común de la OTAN. El éxito industrial fue mucho más modesto que el técnico. Francia y el Reino Unido ignoraron el resultado y solo tres países lo adoptaron, pero el aparato sirvió durante casi cuatro décadas y fue el primer caza a reacción fabricado en Alemania tras la Segunda Guerra Mundial.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha:** 9 de agosto de 1956.
@@ -47,7 +43,6 @@ image: 1956-08-09-primer-vuelo-fiat-g91.webp
 - **Retirada:** 1993 en Portugal y 1995 en Italia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 El G.91 nació de un intento de la OTAN que no volvió a repetirse con éxito: unificar el equipamiento aéreo de la Alianza en torno a un solo aparato.
@@ -73,7 +68,6 @@ El G.91 pasó a la posteridad con un apodo, *Gina*, cuyo origen las fuentes expl
 Su presencia pública quedó ligada sobre todo a las Frecce Tricolori. La patrulla acrobática nacional italiana voló versiones específicas del G.91 durante casi dos décadas, y esa silueta compacta dibujando estelas tricolores es probablemente la imagen más reconocible del tipo, muy por encima de su papel como cazabombardero.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 La secuencia recorre desde la convocatoria del concurso hasta la retirada del tipo.
@@ -98,7 +92,6 @@ La secuencia recorre desde la convocatoria del concurso hasta la retirada del ti
 - **1993 y 1995:** retirada del servicio en Portugal e Italia, respectivamente.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 El G.91 ganó el concurso y perdió el mercado, y las dos cosas ocurrieron por razones ajenas al avión.
@@ -112,7 +105,6 @@ Alemania fue la excepción significativa y el mayor comprador. El programa inclu
 El único empleo real en combate fue portugués. La Fuerza Aérea Portuguesa recibió aparatos de segunda mano procedentes de la Luftwaffe y los utilizó en las guerras coloniales de Angola, Mozambique y Guinea hasta 1975, en misiones de apoyo aéreo cercano y contrainsurgencia. Ni Italia ni Alemania llegaron a emplearlo en operaciones de guerra.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 Setenta años después del vuelo de Caselle, el G.91 sigue siendo un caso único en la historia de la OTAN.
@@ -126,7 +118,6 @@ Queda también una herencia doctrinal. La idea de un aparato barato y robusto ca
 De la carrera del aparato sobrevive sobre todo la memoria italiana. Las Frecce Tricolori volaron el G.91 hasta comienzos de los años ochenta, y varios ejemplares se conservan en museos de Italia, Alemania, Portugal y Estados Unidos. Uno de los que sirvió con la patrulla acrobática, tras décadas expuesto en Seattle, regresó a Italia en 2021 para incorporarse a una colección nacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 - <a href="https://aviastar.org/gallery/g91.html" style="color: #315fea; text-decoration: none;">Aircraft Profile n.º 119: «Fiat G.91», monografía técnica con el detalle del programa de ensayos y la descripción estructural</a>
@@ -139,14 +130,14 @@ De la carrera del aparato sobrevive sobre todo la memoria italiana. Las Frecce T
 - <a href="https://fliegerhorst-oldenburg.de/wp-content/uploads/2019/07/Gina_die_kleine_Italienerin.pdf" style="color: #315fea; text-decoration: none;">Fliegerhorst Oldenburg: «Gina, die kleine Italienerin», monografía sobre el G.91 en la Luftwaffe</a>
 - <a href="https://svppbellum.blogspot.com/2018/11/fiat-aviazione-g-91.html" style="color: #315fea; text-decoration: none;">Si vis pacem, para bellum: «Fiat Aviazione G 91», con el origen del apodo y el desarrollo del G.91Y</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Varios datos de esta efeméride presentan divergencias entre fuentes solventes. La fecha de la pérdida del primer prototipo se consigna como 20 de febrero de 1957 en la bibliografía de referencia y en la ficha del concurso, pero como 26 o 27 de febrero en otras recopilaciones; se ha optado por citar solo el mes. El anuncio del resultado preliminar del concurso se fecha el 3 de junio de 1955 en unas fuentes y el 30 de junio en otras, y difieren igualmente en el orden de los proyectos seleccionados: algunas sitúan al G.91 en primer lugar y otras por detrás del Breguet Taon. El número de unidades construidas oscila entre 756 y 770 según se incluyan o no prototipos, preseries y producción bajo licencia. Las cifras de aparatos por operador varían de manera acusada porque unas fuentes contabilizan pedidos y otras entregas efectivas. Sobre el origen del apodo <em>Gina</em> conviven la atribución a la actriz Gina Lollobrigida y la derivación fonética de «G-ninety-one»; ambas sitúan su nacimiento entre los pilotos alemanes. La entrada en servicio se data en 1958 en las fichas técnicas, que remiten a la constitución de la unidad de evaluación italiana, y en 1961 en las descripciones del servicio operativo pleno. La fotografía que ilustra esta efeméride corresponde a un aparato de serie de 1987, no al prototipo del primer vuelo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:00:55 CST
 - **Fuentes primarias/institucionales consultadas:** Aircraft Profile n.º 119, monografía técnica contemporánea al servicio del tipo, con la descripción estructural y el detalle de la campaña de ensayos; documentación de la Luftwaffe recopilada en la monografía de Fliegerhorst Oldenburg.
 - **Fuentes secundarias de contraste:** Key Aero, con el contexto doctrinal del concurso; MiGFlug; Vintage Aviation News; Si vis pacem, para bellum; Wikipedia en inglés y en español, incluida la entrada específica sobre el concurso NBMR-1, con referencia a las obras de Angelucci, Matricardi, Apostolo y Niccoli.
 - **Discrepancias resueltas:** se citó solo el mes de la pérdida del primer prototipo ante la divergencia entre el 20 y el 26 o 27 de febrero de 1957; se recogió la doble datación del anuncio preliminar del concurso y la discrepancia sobre el orden de los proyectos seleccionados; se consignó el intervalo de 756 a 770 unidades producidas en lugar de una cifra única; se registraron las dos explicaciones documentadas del apodo <em>Gina</em>; se distinguió la fecha de las fichas técnicas de la de servicio operativo pleno.
