@@ -14,17 +14,13 @@ image: 1947-08-09-primer-vuelo-iae27-pulqui-i.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1947-08-09-primer-vuelo-iae27-pulqui-i.webp" alt="Avión a reacción monoplaza pintado enteramente de rojo, con toma de aire en el morro, ala baja recta y tren triciclo, expuesto en el interior de un hangar de museo">
   <figcaption class="post-caption">El prototipo I.Ae. 27 Pulqui I conservado en el Museo Nacional de Aeronáutica, en Morón. Mantiene el esquema de pintura roja original, con las escarapelas argentinas en el fuselaje y la bandera nacional en la deriva. Son visibles la toma de aire frontal, el ala baja prácticamente sin flecha y el tren triciclo retráctil. Fuente: <a href="https://commons.wikimedia.org/wiki/File:FMA_IAe27.jpg" style="color: #315fea; text-decoration: none;">Aeroprints.com, vía Wikimedia Commons (CC BY-SA 3.0)</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 9 de agosto de 1947, a las 17:25, el Teniente Primero Edmundo Osvaldo Weiss despegó de una pista de la Escuela Militar de Paracaidistas de Córdoba a los mandos del prototipo I.Ae. 27 Pulqui. Era el primer avión a reacción diseñado y construido en Latinoamérica, y situaba a Argentina entre el reducido grupo de países que habían llevado al aire un aparato de este tipo.</p>
 <p>El proyecto había arrancado el año anterior en el Instituto Aerotécnico de Córdoba, con un equipo de ingenieros argentinos al que se sumó el diseñador francés Émile Dewoitine, huido de su país acusado de colaboracionismo. El aparato voló poco más de un año después de iniciarse la fabricación de sus primeras piezas. Sus prestaciones quedaron por debajo de lo previsto —720 kilómetros por hora frente a los 850 esperados— y nunca pasó de la fase de ensayos. Solo se construyó un ejemplar, que se conserva restaurado en Morón.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha y hora:** 9 de agosto de 1947, a las 17:25.
@@ -50,7 +46,6 @@ image: 1947-08-09-primer-vuelo-iae27-pulqui-i.webp
 - **Conservación:** Museo Nacional de Aeronáutica «Brigadier Edmundo Civati Bernasconi», Morón, provincia de Buenos Aires. Declarado Bien de Interés Histórico Nacional por el Decreto 899/2015.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 El Pulqui pertenece a un momento singular: el de un país periférico que intentó saltarse una generación tecnológica entera.
@@ -76,7 +71,6 @@ El Pulqui fue concebido tanto como avión que como símbolo. Su pintura roja int
 Esa condición emblemática explica la carga política que el aparato arrastra hasta hoy en el debate argentino. Para unos representa la capacidad industrial que el país llegó a tener y perdió; para otros, un proyecto de prestigio desproporcionado respecto a los medios disponibles. El nombre elegido, tomado del mapudungun, añade una capa más: la reivindicación de una identidad americana en un proyecto ejecutado con motor británico y dirección técnica francesa.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 La secuencia abarca desde la creación del equipo hasta la retirada definitiva del prototipo.
@@ -99,7 +93,6 @@ La secuencia abarca desde la creación del equipo hasta la retirada definitiva d
 - **2015:** el Decreto 899/2015 declara al Pulqui y al Pulqui II bienes de interés histórico nacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 Como avión de combate, el Pulqui I fue un fracaso; como programa, cumplió su función.
@@ -113,7 +106,6 @@ El Pulqui I situó además a Argentina en un mapa muy reducido. En agosto de 194
 La continuidad, sin embargo, se rompió. El golpe de Estado de 1955 intervino la fábrica y dispersó al equipo técnico: varios de los ingenieros que habían trabajado en los dos Pulqui fueron cesados o marcharon al exilio. El Pulqui II tampoco llegó a producción en serie. La línea de desarrollo que aquel primer vuelo había abierto quedó cortada por razones ajenas a la ingeniería.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 Setenta y nueve años después, el Pulqui I sigue siendo el punto más alto que alcanzó la industria aeronáutica latinoamericana en el terreno del avión de combate.
@@ -127,7 +119,6 @@ De la herencia posterior queda poco material y mucho simbólico. La Fábrica Mil
 Queda por último la figura del piloto. Edmundo Weiss voló aquella tarde un aparato experimental, con un motor que nadie en el país había operado antes, desde una pista que no era la suya y sin más referencia que los cálculos de un equipo que estrenaba la disciplina. Que el vuelo transcurriera sin incidentes no fue un detalle menor: buena parte de los primeros reactores del mundo se cobraron prototipos y pilotos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 - <a href="https://www.argentina.gob.ar/defensa/gestion-cultural/monumentos/aeronave-pulqui-i" style="color: #315fea; text-decoration: none;">Ministerio de Defensa de la República Argentina: ficha de la aeronave Pulqui I como bien de interés histórico nacional</a>
@@ -139,14 +130,14 @@ Queda por último la figura del piloto. Edmundo Weiss voló aquella tarde un apa
 - <a href="https://es.wikipedia.org/wiki/I.Ae._27_Pulqui_I" style="color: #315fea; text-decoration: none;">I.Ae. 27 Pulqui I — Wikipedia en español</a>
 - <a href="https://en.wikipedia.org/wiki/FMA_I.Ae._27_Pulqui_I" style="color: #315fea; text-decoration: none;">FMA I.Ae. 27 Pulqui I — Wikipedia en inglés</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El puesto que corresponde al Pulqui I en la secuencia mundial de aviones a reacción varía según la fuente. La documentación oficial argentina lo sitúa en el noveno lugar, la Wikipedia en español en el octavo, y otras recopilaciones ofrecen cifras menores. La divergencia obedece al criterio de cómputo: si se contabilizan diseños experimentales, motores mixtos como el del Caproni Campini italiano o aparatos que emplearon motores extranjeros. En lo que todas coinciden es en que fue el primero de Latinoamérica. También difieren en la velocidad máxima alcanzada, cifrada en 720 kilómetros por hora en las fichas técnicas y en 750 en varias crónicas periodísticas. El armamento previsto se describe como dos cañones de 20 milímetros en unas fuentes y cuatro en otras; en ningún caso llegó a instalarse. La composición del equipo de diseño se atribuye a veces íntegramente a Dewoitine, cuando la documentación argentina lo presenta como incorporación posterior a un equipo ya constituido, y algunas relaciones añaden al italiano Cesare Pallavicino. La fecha de presentación ante Perón se consigna como 22 de septiembre en las fuentes principales y como 10 de octubre en alguna crónica. La fotografía que ilustra esta efeméride muestra el prototipo restaurado en su emplazamiento museístico actual, no en la fecha del primer vuelo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:00:50 CST
 - **Fuentes primarias/institucionales consultadas:** Ministerio de Defensa de la República Argentina, ficha oficial de la aeronave como bien de interés histórico nacional; Efemérides de la Fuerza Aérea Argentina en su edición de 2022; Boletín Oficial de la República Argentina, texto del Decreto 899/2015.
 - **Fuentes secundarias de contraste:** Aviastar, con la ficha técnica del tipo; AMILARG, con el detalle del equipo de proyecto y la configuración; La Nación; Wikipedia en español e inglés, con referencia a la <em>Historia de la industria aeronáutica argentina</em> de Francisco Halbritter.
 - **Discrepancias resueltas:** se consignó la divergencia sobre el puesto mundial del aparato, entre el octavo y el noveno según el criterio de cómputo; se adoptaron los 720 kilómetros por hora de las fichas técnicas frente a los 750 de las crónicas periodísticas; se registró la discrepancia sobre el número de cañones previstos y sobre la fecha de la exhibición ante el presidente; se precisó que Dewoitine se incorporó a un equipo ya constituido en lugar de dirigirlo desde el origen.

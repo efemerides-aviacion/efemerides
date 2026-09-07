@@ -20,7 +20,6 @@ image: 1948-03-22-primer-vuelo-t33-shooting-star.webp
 <p>El 22 de marzo de 1948, el piloto de pruebas Tony LeVier despegó a bordo del prototipo TP-80C (posteriormente redesignado TF-80C y finalmente T-33A) desde el aeropuerto de Lockheed en Burbank, California. Este avión era un derivado biplaza del caza F-80 Shooting Star, alargado para albergar una cabina en tándem. El vuelo inaugural marcó el nacimiento de un entrenador que se convertiría en el estándar mundial de transición a reactores durante la Guerra Fría, con más de 6.500 unidades construidas entre 1948 y 1959, operado por más de 30 países.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Fecha:** 22 de marzo de 1948
 - **Lugar:** Lockheed Aircraft Corporation, Burbank, California, Estados Unidos
@@ -29,7 +28,6 @@ image: 1948-03-22-primer-vuelo-t33-shooting-star.webp
 - **Resultado inmediato:** Primer vuelo exitoso del entrenador biplaza, que demostró la viabilidad de la conversión del caza F-80 para entrenamiento avanzado, sentando las bases para la producción en serie.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 Al finalizar la Segunda Guerra Mundial, la aviación militar iniciaba la transición hacia los turborreactores. Estados Unidos contaba con el Lockheed P-80 Shooting Star, el primer caza a reacción operativo de la USAF, pero carecía de un entrenador específico para que los pilotos experimentados en motores de pistón pudieran adaptarse a las características radicalmente distintas de los reactores.
@@ -43,6 +41,7 @@ Los primeros reactores como el P-80 habían demostrado su potencial, pero tambi�
 ### Entorno cultural
 Lockheed tenía una cultura de innovación impulsada por figuras como el diseñador Clarence "Kelly" Johnson y el piloto Tony LeVier. La compañía había desarrollado el P-80 en tiempo récord durante la guerra, y su enfoque de "skunk works" (equipos reducidos y autónomos) permitía adaptar rápidamente los diseños a nuevas necesidades sin esperar largos procesos contractuales.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **1944:** Primer vuelo del XP-80, el prototipo del caza que se convertiría en el F-80 Shooting Star, estableciendo a Lockheed como pionera en reactores estadounidenses.
@@ -58,6 +57,7 @@ Lockheed tenía una cultura de innovación impulsada por figuras como el diseña
 - **Décadas de 1970-1990:** Aunque reemplazado en la USAF por el Cessna T-37 Tweet y el Northrop T-38 Talon, el T-33 continúa en servicio en numerosas fuerzas aéreas de América Latina, Europa, Asia y África.
 - **Julio de 2017:** La Fuerza Aérea de Bolivia retira sus últimos T-33A operativos, poniendo fin a 69 años de servicio continuo del tipo en el mundo.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 - **Entrenamiento estandarizado:** El T-33 proporcionó un entrenamiento de transición seguro y efectivo, permitiendo a los pilotos dominar las características de vuelo de los reactores antes de pasar a cazas operativos.
@@ -65,6 +65,7 @@ Lockheed tenía una cultura de innovación impulsada por figuras como el diseña
 - **Adaptabilidad:** Su diseño robusto permitió versiones armadas para combate ligero, reconocimiento fotográfico, guerra electrónica y hasta como banco de pruebas de motores.
 - **Legado industrial:** Canadair y Kawasaki mantuvieron líneas de producción prologadas, generando empleo y transferencia tecnológica en sus respectivos países.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 El Lockheed T-33 Shooting Star es uno de los aviones militares más importantes del siglo XX por varias razones:
@@ -76,7 +77,6 @@ El Lockheed T-33 Shooting Star es uno de los aviones militares más importantes 
 - **Precursor de la aviación jet:** El T-33 fue el puente entre la generación de pilotos de hélice y la era de los cazas supersónicos, jugando un papel clave en la transición tecnológica de la aviación militar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -97,11 +97,11 @@ El Lockheed T-33 Shooting Star es uno de los aviones militares más importantes 
     <li><a href="https://www.youtube.com/watch?v=oRZiAujjUSg" style="color: #315fea; text-decoration: none;">Castle Air Museum – Lockheed T‑33 Shooting Star (video)</a></li>
   </ul>
 </div>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, Smithsonian NASM, Castle Air Museum, Hickory Aviation Museum, AOPA, Wikipedia (ES/EN)  
+- **Timestamp de verificación:** 2026-09-07 12:00:50 CST
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Smithsonian NASM, Castle Air Museum, Hickory Aviation Museum, AOPA, Wikipedia (ES/EN)  
 - **Discrepancias resueltas:** Se verificó la fecha del primer vuelo (22 de marzo de 1948) en múltiples fuentes, que coinciden. No se encontraron discrepancias significativas.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

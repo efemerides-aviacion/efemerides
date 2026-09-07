@@ -15,14 +15,11 @@ image: 1949-03-02-primera-circunnavegacion-alrededor-del-mundo.webp
   <figcaption class="post-caption">B-50A Superfortress ‘Lucky Lady II’ (46-010) recibe reabastecimiento en vuelo de KB-29M durante su circunnavegación sin escalas, feb-mar 1949. USAF / Wikimedia Commons.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 2 de marzo de 1949, el B-50A "Lucky Lady II" de la USAF completó la primera circunnavegación aérea sin escalas del mundo, tras 94 horas y 1 minuto de vuelo y 39.946 millas náuticas recorridas. Con cinco pilotos rotativos y cuatro reabastecimientos en vuelo por KB-29, demostró la nueva era del vuelo estratégico global. El récord validó el reabastecimiento aéreo como herramienta clave para operaciones de la Guerra Fría.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Fecha:** 2 de marzo de 1949  
 - **Lugar de partida y llegada:** Carswell AFB, Fort Worth, Texas  
@@ -34,7 +31,6 @@ image: 1949-03-02-primera-circunnavegacion-alrededor-del-mundo.webp
 - **Premios:** Trofeo Mackay, de la National Aeronautic Association, y Trofeo Air Age, después denominado Trofeo Hoyt S. Vandenberg  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 La misión de Lucky Lady II fue un hito en la aviación militar, demostrando que la USAF podía proyectar poder aéreo a escala global sin necesidad de escalas terrestres.
 
@@ -47,20 +43,22 @@ El reabastecimiento en vuelo se consolidó como técnica viable, permitiendo vue
 ### Entorno cultural
 El logro fue ampliamente difundido en prensa y reforzó la imagen de la aviación como herramienta de disuasión global.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - **1947:** Lucky Lady II establece récord de altitud para su clase.  
 - **1949, 26 feb:** Despegue desde Carswell AFB.  
 - **1949, 2 mar:** Aterrizaje tras circunnavegación sin escalas.  
 - **1950s:** El reabastecimiento aéreo se integra en operaciones estratégicas con B-52.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 El vuelo demostró la viabilidad del reabastecimiento aéreo como herramienta estratégica, marcando el inicio de la era de la aviación global.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 Lucky Lady II es recordada como pionera en vuelos de largo alcance, y su misión consolidó la doctrina de disuasión nuclear basada en bombarderos estratégicos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -74,7 +72,6 @@ Lucky Lady II es recordada como pionera en vuelos de largo alcance, y su misión
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Aunque todas las fuentes coinciden en que la misión del B-50A “Lucky Lady II” completó la primera circunnavegación aérea sin escalas el 2 de marzo de 1949, existen matices sobre cómo se define el logro.</p>
 
@@ -84,10 +81,9 @@ Lucky Lady II es recordada como pionera en vuelos de largo alcance, y su misión
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia EN/ES, FAI.org, Aviación Digital, Microsiervos, HistoryNet  
+- **Timestamp de verificación:** 2026-09-07 12:00:50 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia EN/ES, FAI.org, Aviación Digital, Microsiervos, HistoryNet  
 - **Discrepancias resueltas:** Debate sobre definición de “sin escalas” y comparación con vuelos previos.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

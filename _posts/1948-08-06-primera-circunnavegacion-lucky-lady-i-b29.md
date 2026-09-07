@@ -14,17 +14,13 @@ image: 1948-08-06-primera-circunnavegacion-lucky-lady-i-b29.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1948-08-06-primera-circunnavegacion-lucky-lady-i-b29.webp" alt="La tripulación completa del bombardero Boeing B-29 Lucky Lady posa en dos filas ante el morro del aparato, con el nombre pintado en grandes letras sobre el fuselaje">
   <figcaption class="post-caption">La tripulación al completo del Boeing B-29A-75-BN <em>Lucky Lady</em>, número de serie 44-62314, del 63.º Escuadrón de Bombardeo, 43.º Grupo de Bombardeo, ante el morro del aparato en 1948. El Teniente Arthur M. Neal fue su piloto durante la vuelta al mundo. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Lucky_Lady_I_crew.jpg" style="color: #315fea; text-decoration: none;">U.S. Air Force, dominio público</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 6 de agosto de 1948 aterrizaron en la base aérea de Davis-Monthan, en Arizona, los bombarderos Boeing B-29 Superfortress <em>Lucky Lady</em> y <em>Gas Gobbler</em>. Habían despegado de allí quince días antes, el 22 de julio, en un vuelo alrededor del mundo con el que la Fuerza Aérea de Estados Unidos, creada apenas once meses atrás, quiso demostrar que podía alcanzar cualquier punto del planeta.</p>
 <p>Partieron tres aparatos del 43.º Grupo de Bombardeo y solo regresaron dos. El tercero, el <em>Pride of Tucson</em>, se precipitó al golfo de Adén la noche del 27 de julio al perder el control en una tormenta poco después de despegar. Los dos supervivientes recorrieron unas 20.000 millas —cerca de 32.200 kilómetros— con ocho escalas y 103 horas y 50 minutos de vuelo efectivo. La experiencia acreditó el alcance global del bombardero, pero también la vulnerabilidad de un itinerario dependiente de bases intermedias, y aceleró la apuesta por el reabastecimiento en vuelo.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 
 - **Fecha de llegada:** 6 de agosto de 1948.
@@ -44,7 +40,6 @@ image: 1948-08-06-primera-circunnavegacion-lucky-lady-i-b29.webp
 - **Reabastecimiento:** ninguno en vuelo. Todo el combustible se cargó en tierra, en las escalas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 
 La misión no perseguía un récord de velocidad: era un ejercicio de proyección estratégica en el primer año de existencia de la Fuerza Aérea como servicio independiente.
@@ -62,7 +57,6 @@ El B-29 Superfortress era el bombardero de mayor alcance disponible, pero su rad
 La vuelta al mundo en avión conservaba un prestigio heredado de la etapa de los pioneros. El Servicio Aéreo del Ejército la había logrado por primera vez en 1924, en 175 días, y <a href="https://efemerides-aviacion.github.io/efemerides/evento/1931/07/01/circunnavegacion-wiley-post-harold-gatty.html" style="color: #315fea; text-decoration: none;">Wiley Post y Harold Gatty la redujeron a poco más de ocho días en 1931</a>. Para 1948 la aviación comercial ya cubría el trayecto en menos tiempo del que emplearon los B-29, circunstancia que restó lustre público a la hazaña. El propósito militar, sin embargo, era otro: no batir una marca, sino ensayar el despliegue de una unidad de bombardeo pesado a escala planetaria.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 
 El itinerario avanzó hacia el este y se vio alterado dos veces: primero por una avería, después por la pérdida de un aparato.
@@ -79,7 +73,6 @@ El itinerario avanzó hacia el este y se vio alterado dos veces: primero por una
 - **2 de marzo de 1949:** el B-50A *Lucky Lady II*, bautizado en honor del B-29 de 1948, completa <a href="https://efemerides-aviacion.github.io/efemerides/evento/1949/03/02/primera-circunnavegacion-alrededor-del-mundo.html" style="color: #315fea; text-decoration: none;">la primera circunnavegación aérea sin escalas de la historia</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 
 El resultado fue ambivalente: la misión probó lo que se proponía probar, pero al precio de exhibir con crudeza sus propias limitaciones.
@@ -93,7 +86,6 @@ La repercusión pública tampoco acompañó. La aviación comercial cubría ya l
 De ahí surgió la operación de 1949. La misma unidad, el 43.º, recibió los nuevos B-50 y los KB-29 cisterna, y el 2 de marzo de aquel año el *Lucky Lady II* completó la vuelta al mundo sin posarse en tierra, en 94 horas y 1 minuto. El nombre del nuevo aparato era un homenaje deliberado al B-29 que había cerrado el círculo el 6 de agosto de 1948.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 
 La misión de 1948 ocupa un lugar incómodo en la memoria aeronáutica: quedó eclipsada por la de su sucesora apenas siete meses después, y suele citarse solo como su antecedente.
@@ -105,7 +97,6 @@ La saga continuó una tercera vez. Del 16 al 18 de enero de 1957, tres Boeing B-
 Del *Lucky Lady* original apenas queda la fotografía de su tripulación ante el morro del aparato. Ni el B-29 de 1948 ni sus compañeros se conservaron; solo el fuselaje delantero del *Lucky Lady II* sobrevive, expuesto en el museo Planes of Fame de Chino, en California. La memoria del vuelo de 1948 permanece sobre todo en el nombre que se transmitió de una aeronave a la siguiente.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 
 - <a href="https://web.archive.org/web/20100907070919/http://www.airforcehistory.hq.af.mil/PopTopics/ladies.htm" style="color: #315fea; text-decoration: none;">Air Force History Support Office: «Lucky Ladies», relación oficial de las tres circunnavegaciones</a>
@@ -117,14 +108,14 @@ Del *Lucky Lady* original apenas queda la fotografía de su tripulación ante el
 - <a href="https://vintageaviationnews.com/warbird-articles/last-of-the-piston-bombers-surviving-examples-of-the-boeing-b-50.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News: «Last of the Piston Bombers: Surviving Examples of the Boeing B-50»</a>
 - <a href="https://en.wikipedia.org/wiki/Lucky_Lady_II" style="color: #315fea; text-decoration: none;">Lucky Lady II — Wikipedia en inglés</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El aparato fotografiado y su nombre requieren precisión. El B-29 llevaba pintado en el morro <em>Lucky Lady</em>, sin numeral; la denominación «Lucky Lady I» es retrospectiva y se generalizó cuando el B-50A de 1949 recibió el nombre de <em>Lucky Lady II</em> en su honor. Sobre el número de serie del aparato existen dos atribuciones: el registro de Joe Baugher y el pie de foto original de la Fuerza Aérea asignan el 44-62314 a la <em>Lucky Lady</em> —el primero señala que ese ejemplar llevó ambos nombres, <em>Gas Gobbler</em> y <em>Lucky Lady</em>—, mientras que otras publicaciones especializadas atribuyen el 44-62314 al <em>Gas Gobbler</em> y el 44-62304 a la <em>Lucky Lady</em>. Se ha seguido la primera atribución por coincidir con la leyenda de la fotografía oficial. Las cifras de víctimas del <em>Pride of Tucson</em> difieren notablemente entre fuentes: los partes de prensa de 1948 hablaron de seis muertos y varios desaparecidos; los archivos de accidentes consignan seis fallecidos sobre seis ocupantes en un caso y diecisiete sobre dieciocho en otro, este último con relación nominal completa. Todas coinciden en un único superviviente, por lo que se ha optado por no fijar una cifra. El número exacto de escalas coincide en ocho según todas las fuentes, pero su relación nominal procede del registro de números de serie y no de un documento oficial de la misión.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:00:50 CST
 - **Fuentes primarias/institucionales consultadas:** Air Force History Support Office, relación oficial «Lucky Ladies»; Air Force Historical Foundation; GlobalSecurity.org, historial del 43.º Ala de Bombardeo.
 - **Fuentes secundarias de contraste:** registro de números de serie de Joe Baugher, elaborado a partir de la obra de Robert A. Mann; Aviation Safety Network; Bureau of Aircraft Accidents Archives; Vintage Aviation News; Wikipedia en inglés; prensa estadounidense de julio de 1948 reproducida en las fichas de accidente.
 - **Discrepancias resueltas:** se adoptó el número de serie 44-62314 para la *Lucky Lady*, conforme al registro de Joe Baugher y a la leyenda de la fotografía oficial, frente a las publicaciones que lo asignan al *Gas Gobbler*; se renunció a fijar una cifra de víctimas del *Pride of Tucson* ante la divergencia entre las fuentes, consignando únicamente el dato en que todas coinciden; se precisó que la denominación «Lucky Lady I» es retrospectiva y no figuraba en el aparato; se distinguió esta misión con escalas de la circunnavegación sin escalas de 1949, con la que se confunde habitualmente.

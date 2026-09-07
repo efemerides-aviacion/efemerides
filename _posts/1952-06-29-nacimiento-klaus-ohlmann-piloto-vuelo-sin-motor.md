@@ -15,16 +15,12 @@ image: 1952-06-29-nacimiento-klaus-ohlmann-piloto-vuelo-sin-motor.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-06-29-nacimiento-klaus-ohlmann-piloto-vuelo-sin-motor.webp" alt="Klaus Ohlmann en vuelo en un planeador">
   <figcaption class="post-caption">Klaus Ohlmann en vuelo dentro de un planeador, 5 de julio de 2010. Fotografía de Cherpasc, licencia CC BY-SA 3.0 / GFDL, vía Wikimedia Commons.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 29 de junio de 1952 nació Klaus Ohlmann en Neustadt an der Aisch, Alemania. Aunque ejerció como dentista (Zahnarzt), su pasión por la aviación lo convirtió en uno de los pilotos de vuelo sin motor más destacados del mundo. Ha establecido más de 60 récords mundiales homologados por la FAI, entre ellos el vuelo sin motor de mayor distancia: 3.009 km desde el aeropuerto Chapelco de San Martín de los Andes (Argentina) el 21 de enero de 2003, junto a su copiloto Karl Rabeder. También fue el primer piloto en sobrevolar el Monte Everest en un planeador, el 28 de enero de 2014, y ha recibido prestigiosos reconocimientos como la Medalla Lilienthal de Planeo (2000) y la Medalla Louis Blériot (en varias ediciones, la última en 2023).</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 29 de junio de 1952
 - **Lugar de nacimiento:** Neustadt an der Aisch, Alemania
@@ -42,7 +38,6 @@ image: 1952-06-29-nacimiento-klaus-ohlmann-piloto-vuelo-sin-motor.webp
 - **Proyectos:** Fundador del Mountain Wave Project (1998), escuela de vuelo de montaña "Quo Vadis" en el sur de Francia
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 Klaus Ohlmann nació en la Alemania de posguerra de 1952, un país que reconstruía su industria y su sociedad mientras mantenía una sólida tradición de planeador. Desde los años veinte el vuelo sin motor había sido una escuela de pilotos y una forma accesible de practicar la aviación, especialmente en un territorio sin grandes extensiones planas y con montañas que generaban corrientes ascendientes. La década de 1950 coincidió con la transición de planeadores de madera y tela a estructuras más ligeras y aerodinámicas, sentando las bases para las futuras máquinas de alto rendimiento.
@@ -59,6 +54,7 @@ A lo largo de la vida de Ohlmann, el vuelo sin motor experimentó una revolució
 
 La figura del piloto de récords se consolidó en la cultura aeronáutica europea como una mezcla de deportista de élite, científico autodidacta y aventurero. Ohlmann encarnó ese arquetipo: se describe a sí mismo como un "meteorólogo aplicado" y combina su práctica profesional con expediciones científicas. La fundación del Mountain Wave Project en 1998 reflejó su interés por estudiar las ondas de montaña y hacer visibles las posibilidades del vuelo sin motor, uniendo ciencia, deporte y sensibilidad medioambiental.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 
 La trayectoria de Ohlmann muestra una progresión constante desde la formación académica hasta la búsqueda sistemática de récords internacionales, con un punto de inflexión a principios de los años 2000, cuando batió varios récords en Argentina y consolidó su reputación mundial.
@@ -80,19 +76,16 @@ La trayectoria de Ohlmann muestra una progresión constante desde la formación 
 - **2023:** Recibe la Medalla Louis Blériot por el récord de velocidad en avión eléctrico de 2022.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Consecuencias e Impacto
 
 La carrera de Ohlmann amplió los límites del vuelo sin motor. Su récord de 3.009 km demostró que un planeador podía recorrer distancias comparables a las de muchos vuelos con motor, siempre que el piloto dominara la meteorología y la navegación de precisión. El Mountain Wave Project, además de impulsar récords, generó datos científicos sobre ondas de montaña, turbulencia y cambio climático. El vuelo sobre el Everest en 2014 mostró las posibilidades de los planeadores de motor para la investigación de alta montaña y el monitoreo de glaciares. Por su parte, sus récords en aviones eléctricos han servido para visibilizar la aviación sostenible y han inspirado proyectos de propulsión eléctrica.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Legado
 
 Klaus Ohlmann es recordado como uno de los pilotos de planeador más exitosos de todos los tiempos. Más allá de los números, su legado radica en la demostración práctica de que el vuelo sin motor puede ser una herramienta científica y una plataforma de divulgación ambiental. Su escuela "Quo Vadis", en el sur de Francia, sigue formando pilotos, y sus conferencias internacionales transmiten una visión del planeador como vehículo de eficiencia energética y respeto a la atmósfera. Los récords que estableció, especialmente los de distancia y velocidad, permanecen en las bases de datos de la FAI como referencia para las generaciones actuales de pilotos de vuelo sin motor.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -109,16 +102,14 @@ Klaus Ohlmann es recordado como uno de los pilotos de planeador más exitosos de
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> El borrador de la invrstigación preliminar citaba tanto cuatro como siete títulos mundiales; se ha optado por señalar "múltiple campeón mundial" con la cifra de su sitio oficial (cuatro) e indicar que fuentes independientes más recientes lo elevan a siete. En cuanto al número total de récords, las fuentes oscilan entre "más de 60" (sitio oficial), 62 (perfil de patrocinio) y 66 (Aero Report, 2022); se ha adoptado la expresión "más de 60" como la más conservadora. La fecha del vuelo sobre el Everest aparece como 1 de febrero en Wikipedia y algunas fuentes secundarias, pero el propio Mountain Wave Project y reportes de la expedición la sitúan el 28 de enero de 2014; se ha usado esta última fecha.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Sitio oficial de Klaus Ohlmann, FAI, Wikipedia (EN), Aero Report, AOPA, Mountain Wave Project, Lange Aviation, Sustainable Skies
+- **Timestamp de verificación:** 2026-09-07 12:00:50 CST
+- **Fuentes primarias/institucionales consultadas:** Sitio oficial de Klaus Ohlmann, FAI, Wikipedia (EN), Aero Report, AOPA, Mountain Wave Project, Lange Aviation, Sustainable Skies
 - **Discrepancias resueltas:** Se aclaró la variación en el número de títulos mundiales y de récords; se adoptó la fecha del vuelo sobre el Everest del 28 de enero de 2014 basándose en el Mountain Wave Project.
 - **Datos no confirmados omitidos:** Total exacto de récords/títulos ante discrepancias entre fuentes primarias.
 - **Nivel de confianza:** Alto

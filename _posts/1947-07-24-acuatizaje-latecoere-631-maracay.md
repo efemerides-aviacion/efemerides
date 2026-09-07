@@ -14,17 +14,13 @@ image: 1947-07-24-acuatizaje-latecoere-631-maracay.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1947-07-24-acuatizaje-latecoere-631-maracay.webp" alt="Hidrocanoa comercial transatlántico de seis motores Latécoère 631 F-BDRB de Air France en agua">
   <figcaption class="post-caption">Hidrocanoa Latécoère 631 de Air France (matrícula F-BDRB), aeronave hermana e idéntica en diseño a la unidad F-BDRA que protagonizó el acuatizaje en el Lago de Valencia. Fuente: <a href="https://commons.wikimedia.org/wiki/File:F-BDRB.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 24 de julio de 1947 se registró una de las estampas más espectaculares de la historia de la aviación en Venezuela cuando el Latécoère 631 con matrícula F-BDRA, perteneciente a la aerolínea gala Air France, realizó un acuatizaje sobre las aguas del Lago de Valencia (también conocido como Lago de Tacarigua), en las inmediaciones de la ciudad de Maracay. La imponente nave, considerada en su momento el hidrocanoa comercial de pasajeros más grande del mundo, causó asombro entre los pobladores y autoridades locales al acuatizar en el lago para ejecutar labores técnicas y de atención a los pasajeros durante una escala de su red intercontinental.</p>
 <p>Proyectado antes de la Segunda Guerra Mundial por la firma francesa Latécoère para rutas transatlánticas de gran lujo, el hexamotor contaba con una envergadura de 57,43 metros, un peso máximo de 75.000 kg y capacidad para albergar hasta 46 pasajeros en elegantes camarotes con restaurante y bar de a bordo. Aunque la carrera comercial de los Latécoère 631 fue breve debido a accidentes trágicos posteriores y a la rápida consolidación de los aviones terrestres de largo alcance, la visita del F-BDRA inmortalizó la relevancia de Maracay como un punto clave en las rutas de la navegación hidroaérea internacional de mediados del siglo XX.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Datos verificados del evento
 - **Fecha del acuatizaje:** 24 de julio de 1947.
 - **Lugar:** Lago de Valencia (Lago de Tacarigua), Maracay, estado Aragua, Venezuela.
@@ -37,7 +33,6 @@ image: 1947-07-24-acuatizaje-latecoere-631-maracay.webp
 - **Rendimiento operacional:** Velocidad de crucero de 300 km/h y autonomía de vuelo de 6.000 km.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Contexto Histórico
 La llegada del Latécoère 631 a las aguas venezolanas en 1947 se produjo en el umbral entre la época dorada de los grandes hidroaviones transoceánicos y el surgimiento de la aviación comercial moderna basada en pistas terrestres de hormigón.
 
@@ -51,7 +46,6 @@ El Latécoère 631 representó la cúspide de la ingeniería de la aviación acu
 El concepto del viaje transatlántico en la década de 1940 emulaba el nivel de confort de los trasatlánticos marítimos. Los pasajeros del Latécoère 631 disponían de cabinas privadas con camas, salón de comedor central, cocina de alta gastronomía francesa y acabados en maderas nobles. Las fotografías de la nave descansando sobre el Lago de Valencia reflejaron el ideal romántico de la aviación transoceánica previa a la masificación de los vuelos comerciales jets.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Desarrollo Cronológico
 La trayectoria del Latécoère 631 comprende una cronología de audacia técnica y vicisitudes operacionales que marcaron su breve pero histórica presencia en las rutas internacionales.
 
@@ -64,35 +58,32 @@ La trayectoria del Latécoère 631 comprende una cronología de audacia técnica
 - **10 de septiembre de 1955:** El último Latécoère 631 en servicio de carga (F-BDRE, operado por la firma LATCO) se estrella en Camerún durante una tormenta tropical, clausurando de forma definitiva la historia operativa del modelo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Consecuencias e Impacto
 El exitoso acuatizaje del Latécoère 631 ratificó las condiciones hidrológicas y meteorológicas favorables del Lago de Valencia para soportar operaciones de aeronaves de gran tonelaje, estimulando el interés de los organismos de aviación civil de la época.
 
 Sin embargo, los elevados costos de mantenimiento de los motores hexamotores, sumados a la escasa flexibilidad de los puertos hidroaéreos frente a los nuevos aeropuertos con pistas pavimentadas (como Maiquetía o La Carlota), aceleraron el reemplazo definitivo de las hidrocanoas por tetramotores terrestres como el Lockheed Constellation y el Douglas DC-6 en las rutas venezolanas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
 La imagen del gigante Latécoère 631 posado suavemente en las aguas del Lago de Valencia perdura como un icono de la memoria gráfica de la aviación militar y civil en el estado Aragua.
 
 Documentado en archivos fotográficos e historiográficos nacionales como los de *HistoriaFAV* y *Aviación Venezolana en Retrospectiva*, el evento constituye un testimonio invalorable del papel de Venezuela como encrucijada estratégica de las grandes expediciones y líneas aéreas globales de la posguerra.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 - <a href="https://commons.wikimedia.org/wiki/File:F-BDRB.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons: Registro e imagen fotográfica del Latécoère 631 F-BDRB de Air France</a>
 - <a href="https://es.wikipedia.org/wiki/Lat%C3%A9co%C3%A8re_631" style="color: #315fea; text-decoration: none;">Wikipedia: Latécoère 631 (historial técnico, especificaciones y registro de flota)</a>
 - <a href="https://en.wikipedia.org/wiki/Lat%C3%A9co%C3%A8re_631" style="color: #315fea; text-decoration: none;">Wikipedia (en): Latécoère 631 (registro complementario de operaciones y accidentes)</a>
 - <a href="https://aviation-safety.net/wikibase/wiki.php?id=15722" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Latécoère 631</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La unidad que acuatizó en el Lago de Valencia el 24 de julio de 1947 corresponde al Latécoère 631 con número de construcción 3 y matrícula francesa F-BDRA, uno de los tres ejemplares operados directamente por la aerolínea nacional Air France antes del cese de sus vuelos comerciales con este modelo en 1948. Con sus 57,43 metros de envergadura, se mantuvo como el mayor hidrocanoa de transporte comercial jamás puesto en servicio de serie hasta su retiro definitivo a mediados de la década de 1950.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:00:50 CST
 - **Fuentes primarias/institucionales consultadas:** Direction Générale de l'Aviation Civile (DGAC Francia), Musée de l'Hydraviation (Biscarrosse), Archivo Histórico de la Aviación Militar Venezolana.
 - **Fuentes secundarias de contraste:** HistoriaFAV, Aviación Venezolana en Retrospectiva, Wikipedia.
 - **Discrepancias resueltas:** Se confirmó la matrícula individual exacta del hidrocanoa que acuatizó en Maracay (F-BDRA) y se integró como recurso gráfico la fotografía representativa de la unidad hermana F-BDRB según la preferencia editorial expresada.

@@ -14,17 +14,13 @@ image: 1951-01-27-nacimiento-owen-guillermo-crippa.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1951-01-27-nacimiento-owen-guillermo-crippa.webp" alt="Piloto naval con capucha de vuelo, bigote y chaqueta de cuero oscura, de pie junto al fuselaje camuflado de un reactor de entrenamiento">
   <figcaption class="post-caption">El Teniente de Navío Owen Guillermo Crippa junto a su Aermacchi MB-339A, con el esquema de camuflaje adoptado por la 1.ª Escuadrilla Aeronaval de Ataque durante el conflicto del Atlántico Sur. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Owen_Crippa_y_su_Aermacchi.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons, dominio público</a>.</figcaption>
 </figure>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 27 de enero de 1951 nació en Sarmiento, provincia de Santa Fe, Owen Guillermo Crippa, aviador naval de la Armada Argentina. Su nombre quedó ligado a una sola mañana: la del 21 de mayo de 1982, cuando despegó de Puerto Argentino con un avión de entrenamiento para comprobar si los británicos estaban desembarcando en el estrecho de San Carlos.</p>
 <p>Debía volar acompañado, pero el segundo aparato quedó en tierra por una avería durante el carreteo y Crippa salió solo. Encontró una fuerza anfibia de catorce buques en pleno desembarco. En lugar de limitarse a informar, atacó a la fragata HMS <em>Argonaut</em> con cohetes Zuni de 127 milímetros y cañones de 30 milímetros, escapó volando entre los buques —que no podían abrir fuego masivo sin alcanzarse entre sí— y regresó con un croquis de la posición de la flota. Ese croquis permitió planificar los ataques del resto de la jornada. La Armada Argentina lo distinguió con la Cruz al Heroico Valor en Combate.</p>
 </div>
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Datos verificados del evento
 
 - **Nombre completo:** Owen Guillermo Crippa.
@@ -46,7 +42,6 @@ image: 1951-01-27-nacimiento-owen-guillermo-crippa.webp
 - **Residencia:** Sunchales, provincia de Santa Fe.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 
 La acción de Crippa se entiende mal si se la separa de la situación concreta en que se produjo.
@@ -70,7 +65,6 @@ En la memoria argentina del conflicto, la acción de Crippa ocupa un lugar parti
 Los relatos posteriores han tendido a subrayar el heroísmo por encima del resultado militar, que fue modesto. Conviene el matiz: el daño material a la *Argonaut* fue limitado, y lo verdaderamente valioso de aquel vuelo fue la información que trajo de vuelta.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Desarrollo Cronológico
 
 La secuencia recorre desde su nacimiento hasta la repatriación del aparato con el que combatió.
@@ -96,7 +90,6 @@ La secuencia recorre desde su nacimiento hasta la repatriación del aparato con 
 - **24 de mayo de 2025:** el MB-339A 4-A-115 se presenta públicamente en Sunchales, junto al anuncio del museo interactivo que lo albergará.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Consecuencias e Impacto
 
 El valor militar de aquella mañana estuvo menos en el ataque que en lo que Crippa vio.
@@ -108,7 +101,6 @@ La aportación decisiva fue la información. Hasta ese vuelo, el mando argentino
 Hay también una lección incómoda sobre los medios. Un entrenador desarmado frente a una flota moderna no debería haber podido acercarse siquiera. Que lo lograra dice tanto de la audacia del piloto como de las carencias del dispositivo aéreo argentino, obligado a emplear aviones de instrucción en misiones de reconocimiento armado porque no disponía de otra cosa capaz de operar desde las islas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Legado
 
 Crippa es hoy una de las figuras más reconocidas de la aviación naval argentina, y su historia ha tenido un epílogo poco frecuente.
@@ -118,7 +110,6 @@ El avión con el que voló aquella mañana, el MB-339A matriculado 4-A-115, fue 
 Setenta y cinco años después de su nacimiento, la figura de Crippa se sostiene menos sobre el resultado de su ataque que sobre la decisión que lo precedió: encontrarse solo frente a catorce buques y elegir atacar en lugar de dar media vuelta. En la memoria argentina de Malvinas, ese instante ha quedado como emblema de una guerra librada casi siempre en inferioridad de medios.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Referencias Verificadas
 
 - <a href="https://fundacionmalvinas.org/anexo-x-avion-aermacchi-mb-339a/" style="color: #315fea; text-decoration: none;">Fundación Malvinas: «Anexo X. Avión Aermacchi MB-339A», con el detalle de matrículas, despliegues y operaciones de la 1.ª Escuadrilla</a>
@@ -129,6 +120,7 @@ Setenta y cinco años después de su nacimiento, la figura de Crippa se sostiene
 - <a href="https://www.infobae.com/sociedad/2022/05/22/estabamos-mentalizados-para-morir-owen-crippa-el-aviador-que-ataco-solo-a-la-flota-britanica-en-malvinas/" style="color: #315fea; text-decoration: none;">Infobae: entrevista a Owen Crippa, «Estábamos mentalizados para morir»</a>
 - <a href="https://www.rafaelanoticias.com/informacion-general/historico-llego-a-sunchales-el-aermacchi-con-el-que-crippa-ataco-a-la-flota-inglesa-en-malvinas.htm" style="color: #315fea; text-decoration: none;">Rafaela Noticias: la llegada del Aermacchi 4-A-115 a Sunchales en enero de 2025</a>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes divergen sobre el número de buques que Crippa encontró en el estrecho de San Carlos. La entrada de Wikipedia en español y varias crónicas periodísticas hablan de catorce; otras relaciones mencionan «más de veinte buques surtos en el estrecho», y algunas reconstrucciones cronológicas rebajan la cifra a los seis que el piloto habría localizado con certeza en el momento del ataque. Se ha adoptado la cifra de catorce por ser la más extendida, advirtiendo de que corresponde al conjunto de la fuerza anfibia avistada y no a buques atacados uno por uno.</p>
   <p>Existe también discrepancia sobre el alcance de los daños causados a la fragata HMS <em>Argonaut</em>. Algunas fuentes argentinas afirman que quedó «fuera de servicio» tras el ataque de Crippa, mientras que la reconstrucción británica y las relaciones más detalladas atribuyen su retirada del teatro de operaciones a los impactos de bomba recibidos horas después, en los ataques de los A-4B Skyhawk de la Fuerza Aérea Argentina. Se ha consignado que el ataque de Crippa causó daños en la superestructura y en el radar de tipo 965, sin poner el buque fuera de combate.</p>
@@ -136,9 +128,8 @@ Setenta y cinco años después de su nacimiento, la figura de Crippa se sostiene
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-07 12:00:50 CST
 - **Fuentes primarias/institucionales consultadas:** Fundación Malvinas, con la relación documental de matrículas, despliegues y operaciones de la 1.ª Escuadrilla Aeronaval de Ataque y con la reconstrucción del ataque a la fragata HMS *Argonaut*.
 - **Fuentes secundarias de contraste:** Wikipedia en español; La Voz; Infobae; Rafaela Noticias, con la cobertura de la repatriación del aparato.
 - **Discrepancias resueltas:** se corrigió la base de despegue, que fue Puerto Argentino y no Río Grande, conforme a la documentación de la Fundación Malvinas y al conjunto de las crónicas; se precisó que los catorce buques corresponden a la fuerza anfibia avistada y no a buques atacados individualmente; se distinguieron los daños causados por Crippa a la fragata *Argonaut* de los impactos de bomba que horas después la retiraron del combate; se añadió el número de serie 0766 del aparato y la circunstancia de la avería que dejó en tierra al segundo avión.
