@@ -18,7 +18,6 @@ image: 1923-01-31-primer-circuito-cerrado-autogiro-c-4.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
-
 <div class="highlight-box">
 <p>La tarde del 31 de enero de 1923, en el aeródromo de Cuatro Vientos (Madrid), el teniente de Ingenieros Alejandro Gómez Spencer pilotó el autogiro Cierva C.4 y completó tres vuelos, el último de los cuales describió un circuito cerrado de unos cuatro kilómetros en tres minutos treinta segundos, a más de veinticinco metros de altura. El Comandante Emilio Herrera Linares, jefe del Laboratorio Aerodinámico de Aeronáutica Militar, levantó acta oficial del vuelo al día siguiente.</p>
 <p>El C.4 era el cuarto prototipo del ingeniero murciano Juan de la Cierva y Codorníu, y fue la primera aeronave de ala rotatoria de la historia que realizó un vuelo sostenido y controlado. Dos semanas antes, el 17 de enero, el mismo aparato había cubierto en Getafe un «salto» de 183 metros que había demostrado que el invento funcionaba; el circuito de Cuatro Vientos lo convirtió en un verdadero avión. El principio técnico que lo hizo posible —la articulación de las palas del rotor mediante bisagras de batimiento— sigue siendo hoy la base de todos los helicópteros.</p>
@@ -86,7 +85,7 @@ El autogiro apareció en la prensa de todo el mundo como un «paracaídas autom�
 
 ## Consecuencias e Impacto
 
-El certificado de Herrera Linares convirtió al C.4 en el primer rotorcraft del mundo con un vuelo sostenido oficialmente reconocido. A partir de ese momento, el Ministerio de la Guerra español financió los prototipos siguientes y el invento comenzó a difundirse por Europa. En el plano técnico, la bisagra de batimiento resolvió el problema que había bloqueado durante décadas todos los intentos de vuelo con alas giratorias; en particular, abrió el camino a los rotores totalmente articulados que, combinados con el control cíclico y el colectivo desarrollados por los pioneros del helicóptero, permitirían los vuelos prácticos de Focke, Breguet y Sikorsky a finales de los años treinta.
+El certificado de Herrera Linares convirtió al C.4 en el primer rotorcraft del mundo con un vuelo sostenido oficialmente reconocido. A partir de ese momento, el Ministerio de la Guerra español financió los prototipos siguientes y el invento comenzó a difundirse por Europa. En el plano técnico, la bisagra de batimiento resolvió el problema que había bloqueado durante décadas todos los intentos de vuelo con alas giratorias; en particular, abrió el camino a los rotores totalmente articulados que, combinados con el control cíclico y el colectivo desarrollados por los pioneros del helicóptero, permitirían los vuelos prácticos de Focke, Breguet y Sikorsky a finales de los años treinta: el 14 de septiembre de 1939, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1939/09/14/primer-vuelo-sikorsky-vs-300.html" style="color: #315fea; text-decoration: none;">Vought-Sikorsky VS-300 de Igor Sikorsky</a> fijó en su primer vuelo la configuración de rotor único y rotor de cola que desde entonces domina el vuelo vertical.
 
 En el plano industrial, el éxito del C.4 llevó a Cierva a trasladar el centro de desarrollo al Reino Unido, donde en 1926 se fundó la Cierva Autogiro Company. Bajo licencia suya se construyeron autogiros en Francia, Alemania, Estados Unidos, Japón y la Unión Soviética; Harold Pitcairn, en Estados Unidos, desarrolló la línea PCA y compró los derechos para América, dando lugar a una industria propia que introdujo el correo aéreo en autogiro y los primeros apontajes.
 
@@ -126,7 +125,7 @@ El invento de Cierva está además emparentado con otras dos efemérides del cal
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-24 12:36:12 CST
+- **Timestamp de verificación:** 2026-09-08 13:08:27 CST
 - **Fuentes primarias/institucionales consultadas:** certificado de Emilio Herrera (1 feb 1923); Smithsonian/NASM; Museo del Aire de Cuatro Vientos; Real Academia de la Historia
 - **Discrepancias resueltas:** fecha del primer salto en Getafe (9 o 17 de enero, se adopta el 17); planta motriz (80 o 110 CV, se adopta el Le Rhône 9Ja de 110 CV); identidad de la imagen anterior (reemplazada, ya que mostraba un Cierva C.30 británico con matrícula K4230, no el C.4)
 - **Nivel de confianza:** Alto
