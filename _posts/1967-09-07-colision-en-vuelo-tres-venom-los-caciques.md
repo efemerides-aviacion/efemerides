@@ -49,9 +49,9 @@ image: 1967-09-07-colision-en-vuelo-tres-venom-los-caciques.webp
 
 El accidente pertenece a la etapa en que la FAV mantenía en servicio reactores británicos de la posguerra y los empleaba tanto en sus unidades de caza como en actividades de exhibición. El equipo «Los Caciques» operaba desde el Escuadrón de Caza C-34, integrado desde 1961 en el Grupo Aéreo de Caza N.º 12 «Grifos».
 
-### Entorno institucional
+### Entorno social
 
-La reorganización de 1961 reunió tres escuadrones de caza en el Grupo Aéreo de Caza N.º 12. Entre ellos se encontraba el C-34 «Caciques», antecedente institucional que también se explica en <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1961/07/27/creacion-grupo-aereo-caza-12-grifos.html" style="color: #315fea; text-decoration: none;">la efeméride de la creación del Grupo Aéreo de Caza N.º 12 «Grifos»</a>. La unidad tenía asiento en la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1955/12/09/inauguracion-base-aerea-el-libertador.html" style="color: #315fea; text-decoration: none;">Base Aérea «El Libertador»</a>, en Palo Negro.
+El equipo se insertaba en la vida cotidiana de una fuerza aérea en reorganización. La reorganización de 1961 reunió tres escuadrones de caza en el Grupo Aéreo de Caza N.º 12. Entre ellos se encontraba el C-34 «Caciques», antecedente institucional que también se explica en <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1961/07/27/creacion-grupo-aereo-caza-12-grifos.html" style="color: #315fea; text-decoration: none;">la efeméride de la creación del Grupo Aéreo de Caza N.º 12 «Grifos»</a>. La unidad tenía asiento en la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1955/12/09/inauguracion-base-aerea-el-libertador.html" style="color: #315fea; text-decoration: none;">Base Aérea «El Libertador»</a>, en Palo Negro.
 
 Según el relato de Fav Ven, el equipo de la temporada 1966-1967 incluía además al Capitán Florencio Hernández García, indicativo «Yoraco», cierra rombo habitual, y al Teniente Roger Blanco Castillo, indicativo «Macuto», reserva. Esa mañana no ocuparon un Venom: el cierra rombo lo voló Rubio.
 
@@ -124,7 +124,7 @@ La efeméride recuerda también una etapa concreta de la aviación militar venez
 
 La trazabilidad documental del texto queda resumida en los siguientes datos.
 
-- **Timestamp de verificación:** 2026-09-01 14:05:00 CST
+- **Timestamp de verificación:** 2026-09-08 15:40:02 CST
 - **Fuentes primarias/institucionales consultadas:** Luis Hernán Paredes, obra histórica de la serie «Ediciones históricas FAV» (pp. 27–28); testimonio retrospectivo de Luis Miguel Gasia G. publicado por FAV-Club; relato de la práctica de Oswaldo Plazola Gilly, adaptación publicada por Fav Ven; Fundación 10 de diciembre, obituario institucional.
 - **Fuentes secundarias de contraste:** Aviation Safety Network (registro 486229, calificación CR3 y basado en fuentes no oficiales); Aeroflight (historia de la unidad y sus aeronaves); nota editorial de FAV-Club.
 - **Discrepancias resueltas:** Las fuentes presentan distinto alcance al contar las aeronaves: Paredes resume la colisión de tres aviones, mientras FAV-Club y Fav Ven describen cinco participantes —cuatro en rombo y uno en función de «Solo»—; el post conserva esa distinción. El grado de Plazola en 1967 figura como Mayor en el relato de la práctica y como Teniente Coronel en FAV-Club. El nombre del gregario izquierdo aparece como Miguel Ángel González en Fav Ven y como José Miguel Ángel González en FAV-Club. Gasia y el relato de Plazola reconstruyen la maniobra con matices distintos; ambos se mantienen como testimonios, no como dictamen causal.

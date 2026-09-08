@@ -32,32 +32,15 @@ image: 1947-06-19-boyd-record-mundial-velocidad-p80r.webp
 - **Lugar:** Muroc Dry Lake (actualmente Base de la Fuerza Aérea Edwards), California
 - **Velocidad registrada:** 623,73 mph (1.004,2 km/h; 542,0 nudos)
 - **Récord anterior:** 616 mph (991 km/h) establecido por el Coronel Boyd en un P-80 en 1946
-- **Duración del vuelo:** La prueba consistió en dos pasadas de ida y vuelta sobre un circuito de 3 kilómetros
+- **Reglas de la homologación (FAI):** dos pasadas de ida y vuelta sobre un circuito de 3 kilómetros en direcciones opuestas para compensar el viento, a menos de 100 metros de altitud; la cifra oficial es el promedio de las cuatro pasadas, aunque la velocidad máxima puntual fue ligeramente superior
 - **Certificación:** Récord mundial de velocidad homologado por la Fédération Aéronautique Internationale (FAI)
 - **Estado actual:** El P-80R 44-85200 se exhibe en el National Museum of the United States Air Force en Dayton, Ohio
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Características del P-80R
-
-El P-80R era un XP-80B especialmente modificado para la caza del récord de velocidad. Las principales modificaciones incluían:
-
 - **Pérdida de peso:** Se eliminaron las seis ametralladoras de 12,7 mm, la munición y todo el equipo militar innecesario
 - **Alas acortadas:** La envergadura se redujo de 11,8 m a 11,3 m para disminuir la resistencia aerodinámica
 - **Cabina rediseñada:** Se instaló una cubierta tipo burbuja más pequeña y aerodinámica
 - **Admisión de aire:** Se modificó la entrada de aire para mejorar el flujo hacia el motor
 - **Motor mejorado:** Allison J33-A-35 con un nuevo sistema de postcombustión (afterburner)
 - **Tobera de empuje:** Se instaló una tobera de diámetro variable para optimizar el empuje a alta velocidad
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Albert G. Boyd: el piloto de pruebas más importante que quizás no conozcas
-
-El Coronel Albert G. Boyd (1902-1976) fue, según el historiador de la aviación Richard P. Hallion, el piloto de pruebas más importante del mundo en la década de 1940. A lo largo de su carrera, estableció numerosos récords en aviones como el P-80, el F-84 Thunderjet y el YF-86 Sabre.
-
-Boyd fundó y dirigió la División de Pruebas de Vuelo de la Fuerza Aérea en Wright Field, Ohio. Bajo su liderazgo, los pilotos de pruebas estadounidenses evaluaron todos los prototipos de cazas y bombarderos de posguerra, incluyendo el XB-47 Stratojet y el XB-52 Stratofortress. Fue el responsable de que Chuck Yeager —todavía un capitán con poca experiencia en vuelos de pruebas— fuera seleccionado para pilotar el X-1 en su histórico vuelo supersónico.
-
-A pesar de su importancia fundamental en los albores de la aviación a reacción, Boyd es mucho menos conocido que los pilotos a los que entrenó y supervisó.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -85,21 +68,12 @@ El público estadounidense seguía con fascinación los récords de velocidad. E
 - **22 de enero de 1946:** El Coronel William H. Councill realiza el primer vuelo transcontinental a reacción (Long Beach-Nueva York) en 4 horas y 13 minutos a bordo de un P-80A 
 - **1946:** El Coronel Albert G. Boyd establece un récord mundial de velocidad de 616 mph (991 km/h) en un P-80 estándar 
 - **19 de junio de 1947:** Boyd establece el récord de 623,73 mph (1.004,2 km/h) a bordo del P-80R en Muroc Dry Lake, California 
+- **19 de junio de 1947 (tras el aterrizaje):** los neumáticos, enfriados y quebradizos por la altura, estallaron al contacto con la pista; el aterrizaje se completó sin incidentes, según una anécdota relatada por fuentes cercanas al vuelo. 
 - **14 de octubre de 1947:** Chuck Yeager rompe la barrera del sonido a bordo del Bell X-1 (Boyd fue clave en la selección de Yeager para el programa)
 - **Septiembre de 1948:** El F-86 Sabre supera el récord de Boyd alcanzando 671 mph (1.080 km/h)
 - **1950:** Boyd es ascendido a general de brigada
 - **1957:** Boyd se retira de la Fuerza Aérea tras 31 años de servicio
 - **1976:** Fallece Albert G. Boyd
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El vuelo del récord
-
-El 19 de junio de 1947, Boyd despegó a bordo del P-80R desde la pista del lago seco de Muroc. Las reglas de la FAI exigían dos pasadas de ida y vuelta sobre un circuito de 3 kilómetros en direcciones opuestas para compensar los efectos del viento. El piloto debía mantener una altitud inferior a los 100 metros durante las pasadas.
-
-Boyd completó las pasadas a una velocidad media de 623,73 mph (1.004,2 km/h). La velocidad máxima alcanzada en algún momento fue ligeramente superior, pero la homologación oficial se basó en el promedio de las cuatro pasadas (dos en cada dirección).
-
-Una anécdota curiosa relatada por fuentes cercanas al vuelo: Boyd mencionó que las ruedas estaban tan frías por la altura que el caucho se había vuelto quebradizo. Al tocar tierra, los neumáticos estallaron al contacto con la pista, aunque el aterrizaje se completó sin incidentes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -114,6 +88,12 @@ El P-80R (44-85200) fue donado al National Museum of the United States Air Force
 ## Legado
 
 El Coronel Albert G. Boyd es recordado como el «padre de los pilotos de pruebas modernos». Formó y supervisó a una generación de aviadores legendarios, incluyendo a Chuck Yeager (primer piloto en romper la barrera del sonido), Pete Everest, Bob Hoover, Marion Carl, Fred Ascani y Tex Johnston. Bajo su liderazgo, la División de Pruebas de Vuelo de Wright Field estableció los estándares de seguridad y profesionalismo que rigen hasta hoy las pruebas de vuelo militares.
+
+El Coronel Albert G. Boyd (1902-1976) fue, según el historiador de la aviación Richard P. Hallion, el piloto de pruebas más importante del mundo en la década de 1940. A lo largo de su carrera, estableció numerosos récords en aviones como el P-80, el F-84 Thunderjet y el YF-86 Sabre.
+
+Boyd fundó y dirigió la División de Pruebas de Vuelo de la Fuerza Aérea en Wright Field, Ohio. Bajo su liderazgo, los pilotos de pruebas estadounidenses evaluaron todos los prototipos de cazas y bombarderos de posguerra, incluyendo el XB-47 Stratojet y el XB-52 Stratofortress. Fue el responsable de que Chuck Yeager —todavía un capitán con poca experiencia en vuelos de pruebas— fuera seleccionado para pilotar el X-1 en su histórico vuelo supersónico.
+
+A pesar de su importancia fundamental en los albores de la aviación a reacción, Boyd es mucho menos conocido que los pilotos a los que entrenó y supervisó.
 
 El P-80R, apodado «Racey» por sus modificaciones, permanece en exhibición en el National Museum of the United States Air Force junto a otros aviones de récord de la época. Boyd falleció en 1976, pero su nombre está grabado en los anales de la aviación como uno de los grandes pioneros de la era del jet.
 
@@ -138,13 +118,13 @@ El P-80R, apodado «Racey» por sus modificaciones, permanece en exhibición en 
   <p><strong>Nota aclaratoria:</strong> El récord se estableció el 19 de junio de 1947. Aunque posteriormente fue superado en múltiples ocasiones, el logro de Boyd fue histórico por ser la primera vez que un avión superó los 1.000 km/h. Algunas fuentes citan la velocidad como 623,8 mph (1.004,2 km/h) o 623,73 mph (1.003,8 km/h). La cifra oficial de la FAI es 1.004,2 km/h. El P-80R se construyó a partir del XP-80B 44-85200, no de un P-80A estándar. El Coronel Boyd también estableció el récord anterior de 616 mph (991 km/h) en 1946 con un P-80 estándar.</p>
 </div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">  
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** National Museum of the USAF, Wikipedia, Simbólico de Caza, This Day in Aviation, Air History, 1000 Aircraft Photos
+- **Timestamp de verificación:** 2026-09-08 15:37:56 CST  
+- **Fuentes primarias/institucionales consultadas:** National Museum of the USAF, Wikipedia, Simbólico de Caza, This Day in Aviation, Air History, 1000 Aircraft Photos
 - **Discrepancias resueltas:** Algunas fuentes citan la velocidad como 623,8 mph (1.004,2 km/h) o 623,73 mph (1.003,8 km/h). Se ha adoptado la cifra oficial del National Museum of the USAF. Se ha confirmado que la aeronave era un XP-80B modificado, no un P-80A estándar.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

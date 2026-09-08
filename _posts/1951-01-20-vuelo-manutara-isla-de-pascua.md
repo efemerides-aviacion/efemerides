@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "19 y 20 de enero de 1951 | Vuelo histórico del Manutara a Isla de Pascua"
+title: "20 de enero de 1951 | Vuelo histórico del Manutara a Isla de Pascua"
 date: 1951-01-20
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Chile
 operator: Fuerza Aérea de Chile (FACh)
 excerpt: "El hidroavión anfibio Manutara realizó el primer vuelo histórico entre el continente y la Isla de Pascua."
@@ -46,13 +46,19 @@ La travesía se realizó con navegación astronómica y de estima, en una época
 ### Entorno cultural
 El vuelo reforzó la conexión de Rapa Nui con el continente, integrando a la isla en la memoria colectiva chilena.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 - **18 de enero:** El Manutara vuela desde Quintero a La Florida escoltado por B‑25 Mitchell del Grupo N.º 8.  
 - **19 de enero, 19:20 horas:** Despegue hacia Isla de Pascua al atardecer.  
 - **20 de enero, 14:42 horas:** Arribo exitoso a Mataveri en la tarde.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 El vuelo abrió la ruta aérea hacia Rapa Nui, consolidando la soberanía chilena sobre la isla y facilitando su integración.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 El Manutara es recordado como símbolo de perseverancia y unión nacional. Su travesía es considerada uno de los hitos más importantes de la aviación chilena.
@@ -90,8 +96,8 @@ El Manutara es recordado como símbolo de perseverancia y unión nacional. Su tr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** Museo Aeronáutico DGAC; ASPCh; Club Aéreo de Santiago; Embajada de Australia; ADPrensa; Wikipedia; Patrimonio Cultural  
+- **Timestamp de verificación:** 2026-09-08 15:33:08 CST  
+- **Fuentes primarias/institucionales consultadas:** Museo Aeronáutico DGAC; ASPCh; Club Aéreo de Santiago; Embajada de Australia; ADPrensa; Wikipedia; Patrimonio Cultural  
 - **Discrepancias resueltas:** Distancia recorrida (2.047 vs 2.300 millas náuticas) y fecha de inicio (18 de enero como vuelo previo a La Serena).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

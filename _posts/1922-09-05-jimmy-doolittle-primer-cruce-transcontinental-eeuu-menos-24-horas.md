@@ -46,17 +46,19 @@ image: 1922-09-05-jimmy-doolittle-primer-cruce-transcontinental-eeuu-menos-24-ho
 
 En 1922, cruzar Estados Unidos por aire seguía siendo una empresa de navegación, resistencia y logística. El vuelo de Doolittle no inauguró la travesía continental, pero sí alteró de forma decisiva su escala temporal: demostró que un piloto, una aeronave adecuadamente preparada y un apoyo en tierra podían unir ambas costas antes de que transcurriera un día completo.
 
-### Del continente como expedición al continente como itinerario
+### Entorno social
 
 La referencia inevitable era el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1911/11/05/vin-fiz-primer-vuelo-transcontinental-estados-unidos.html" style="color: #315fea; text-decoration: none;">vuelo del Vin Fiz de Calbraith Perry Rodgers</a>, que había completado en 1911 el primer cruce aéreo de Estados Unidos tras cuarenta y nueve días, decenas de aterrizajes y repetidas reparaciones. Once años después, Doolittle afrontó el mismo desafío con una meta distinta: no solo llegar, sino hacerlo dentro de las veinticuatro horas.
 
-### El avión disponible y el problema del alcance
+### Entorno tecnológico
 
 El De Havilland DH-4 era el avión estadounidense más presente en el U.S. Army Air Service tras la Primera Guerra Mundial. Su versión DH-4B desplazaba el asiento del piloto hacia atrás y el depósito de combustible hacia delante, una modificación destinada a corregir problemas serios del diseño original. Aun así, su autonomía normal no permitía una travesía de costa a costa sin detenerse: el vuelo requería planificar cuidadosamente el combustible y convertir Kelly Field en una escala decisiva.
 
-### Un piloto que también preparaba la máquina
-
 Doolittle preparó el intento con el apoyo técnico de McCook Field, centro de ensayos del Air Service. Antes de partir realizó recorridos de prueba desde Kelly Field hacia San Diego y hacia Carlstrom Field, en Florida; registró el comportamiento del avión, consultó a los ingenieros sobre la modificación de los depósitos y obtuvo un indicador de viraje y alabeo que aún estaba en pruebas. Esa preparación no eliminó el mal tiempo, el cansancio ni las limitaciones instrumentales que encontraría durante el vuelo.
+
+### Entorno cultural
+
+En los primeros años de la década de 1920, los vuelos de larga distancia y los récords de velocidad concentraban la atención del público, y la prensa seguía cada nuevo intento como un acontecimiento deportivo nacional. La hazaña de Doolittle encajó en ese molde: al comprimir en poco menos de veinticuatro horas una expedición que en 1911 había requerido cuarenta y nueve días, el vuelo ofreció una medida tangible del progreso de la aviación y consolidó la notoriedad del piloto como aviador de récords. El contraste entre el Vin Fiz y el DH-4B —entre el continente como aventura y el continente como itinerario— quedó incorporado al relato posterior de la travesía.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -115,7 +117,7 @@ La proeza fue además una temprana muestra del perfil que definiría a Doolittle
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-29 10:09:30 CST
+- **Timestamp de verificación:** 2026-09-08 15:41:55 CST
 - **Fuentes primarias/institucionales consultadas:** National Museum of the U.S. Air Force (fichas del vuelo y del De Havilland DH-4); Air Force History and Museums Program; Air University Press; Library of Congress; Smithsonian National Air and Space Museum; San Diego Air &amp; Space Museum Archives.
 - **Fuentes secundarias de contraste:** Beaches Museum.
 - **Discrepancias resueltas:** (1) La fecha se publica el 5 de septiembre de 1922 por ser la culminación, aunque algunas fuentes identifican el hito con el 4, día del despegue. (2) El tiempo de vuelo se presenta como 21 horas y 20 minutos, cifra institucional redondeada; otras fuentes de la Fuerza Aérea indican 21 horas y 19 minutos. Se diferencia del tiempo transcurrido de 22 horas y 30 minutos. (3) La escala de Kelly Field figura como de 30 minutos en una biografía oficial y como de unos 70 minutos en una cronología de Air University; se consigna solo la única parada, sin fijar una duración.

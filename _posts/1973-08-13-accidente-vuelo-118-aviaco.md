@@ -3,7 +3,7 @@ layout: post
 title: "13 de agosto de 1973 | Accidente del vuelo 118 de Aviaco en Montrove"
 date: 1973-08-13
 categories: [accidente]
-author: Gilberto Vallenilla
+author: Enrique Pomares
 pais: España
 operator: Aviaco
 excerpt: "El 13 de agosto de 1973, el Caravelle EC-BIC Emilio Arrieta del vuelo 118 de Aviaco se estrelló en Montrove tras tres aproximaciones a La Coruña bajo niebla densa; murieron 85 personas a bordo y una en tierra. La tragedia acabó con las primas por aterrizar en condiciones adversas en España."
@@ -108,8 +108,8 @@ Cincuenta y tres años después, el monumento de San Amaro es el lugar donde las
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES y EN), Infobae España, El Español (Quincemil)
+- **Timestamp de verificación:** 2026-09-08 15:33:08 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES y EN), Infobae España, El Español (Quincemil)
 - **Discrepancias resueltas:** El número de aproximaciones figura como tres en Wikipedia y El Español y como cuatro en Infobae; se adoptan tres (dos motor y al aire y una tercera fatal). La distancia al alternativo de Santiago figura como 45 km en Wikipedia y 50 en El Español; se adopta 45. La hora del impacto se redacta como «poco después de las 11:39», confirmada a las 11:46, ante versiones de 11:40 a 11:45.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
