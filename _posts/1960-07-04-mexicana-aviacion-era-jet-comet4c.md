@@ -67,6 +67,7 @@ La exitosa entrada en servicio del de Havilland Comet 4C el 4 de julio de 1960 p
 - **Reducción radical de tiempos de viaje:** La introducción del Comet redujo a la mitad el tiempo de viaje entre la Ciudad de México y Los Ángeles (de más de siete horas en bimotores convencionales a solo tres horas de vuelo), estimulando de forma notable el comercio y el turismo internacional.
 - **Consolidación de la ASPA y derechos laborales:** El adiestramiento de los pilotos en el nuevo equipo de reacción sirvió para ratificar el primer contrato colectivo firmado con la Asociación Sindical de Pilotos Aviadores (ASPA), marcando un hito en la defensa de los derechos profesionales de las tripulaciones.
 - **Modernización de la infraestructura aeroportuaria:** El despegue regular de reactores pesados obligó a la Secretaría de Comunicaciones y Transportes (SCT) a adquirir y pavimentar con mayor resistencia las pistas y terminales de los aeropuertos nacionales de la época, asumiendo el control de las pistas que la aerolínea ya no podía mantener financieramente.
+- **Réplica de la competencia nacional:** El primado del jet mexicano tuvo réplica al año siguiente: en 1961, Aeronaves de México —la segunda aerolínea del país, <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1934/09/14/fundacion-aeronaves-de-mexico.html" style="color: #315fea; text-decoration: none;">fundada el 14 de septiembre de 1934</a> y rebautizada Aeroméxico en febrero de 1972— incorporó sus dos primeros Douglas DC-8, que empleó en rutas domésticas y hacia Nueva York.
 - **Paso al Boeing 727:** Las lecciones operativas obtenidas con los tres primeros aviones Comet 4C de la flota de Mexicana cimentaron la posterior adquisición y el inmenso éxito del trimotor Boeing 727 en las décadas de 1970 y 1980, convirtiendo a la aerolínea en la mayor operadora de reactores de Latinoamérica de su tiempo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -99,7 +100,7 @@ A más de seis décadas de su histórica inauguración, el vuelo del de Havillan
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación comercial de la era del reactor presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-09-07 12:00:55 CST
+- **Timestamp de verificación:** 2026-09-08 13:42:39 CST
 - **Fuentes primarias/institucionales consultadas:** Bitácoras de vuelo originales del De Havilland Comet 4C XA-NAS, archivos oficiales de la Secretaría de Comunicaciones y Transportes (SCT) de México de 1960, registros de contratos de la Asociación Sindical de Pilotos Aviadores (ASPA) y el catálogo de restauración de aeronaves del Museum of Flight de Seattle
 - **Discrepancias resueltas:** Se identificó y resolvió la discrepancia sobre el comandante en jefe del primer vuelo comercial (confirmando al Cap. Roberto Pini Pignol de conformidad con las bitácoras operativas, y precisando el papel histórico de Andrés Fabre Terán en la resolución del conflicto con la ASPA). Asimismo, se validó la duración exacta del vuelo de inauguración en exactamente tres horas y el número de pasajeros de pago en 81.
 - **Nivel de confianza:** Alto

@@ -15,11 +15,10 @@ image: 1958-05-30-primer-vuelo-mc-donell-douglas-dc8.webp
   <figcaption class="post-caption">El Douglas DC-8-11 N8008D despegando del aeropuerto de Long Beach, California, a las 10:10 a.m. del 30 de mayo de 1958, en su primer vuelo de pruebas, con el característico humo denso producto de la inyección de agua en los motores. Fuente: This Day in Aviation / Los Angeles Public Library.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Resumen Ejecutivo
-
-El 30 de mayo de 1958, el prototipo del **Douglas DC-8** (matrícula N8008D) realizó su primer vuelo desde el aeropuerto de Long Beach, California, a las 10:10 a.m., pilotado por **Arnold G. Heimerdinger**, acompañado por los copilotos **William M. Magruder** y **Paul H. Patten**, y el ingeniero de vuelo **Arthur E. Raymond**. El vuelo duró **2 horas y 10 minutos**, alcanzando una altitud de 11.000 pies y una velocidad máxima de 260 nudos (480 km/h), con los flaps y el tren de aterrizaje extendidos. Posteriormente, el avión fue llevado a la Base de la Fuerza Aérea Edwards para continuar el programa de pruebas. El DC-8 fue el **primer reactor comercial de Douglas** (McDonnell Douglas sería el resultado de una fusión posterior en 1967), diseñado para competir en el emergente mercado de los aviones a reacción de fuselaje estrecho frente al Boeing 707 y el Convair 880. Con **556 unidades construidas** entre 1958 y 1972, el DC-8 se consolidó como un avión exitoso, y en 1961 se convirtió en el **primer avión comercial en romper la barrera del sonido** (Mach 1.012 en vuelo de descenso).
-
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 30 de mayo de 1958, el prototipo del <strong>Douglas DC-8</strong> (matrícula N8008D) realizó su primer vuelo desde el aeropuerto de Long Beach, California, a las 10:10 a.m., pilotado por <strong>Arnold G. Heimerdinger</strong>, acompañado por los copilotos <strong>William M. Magruder</strong> y <strong>Paul H. Patten</strong>, y el ingeniero de vuelo <strong>Arthur E. Raymond</strong>. El vuelo duró <strong>2 horas y 10 minutos</strong>, alcanzando una altitud de 11.000 pies y una velocidad máxima de 260 nudos (480 km/h), con los flaps y el tren de aterrizaje extendidos. Posteriormente, el avión fue llevado a la Base de la Fuerza Aérea Edwards para continuar el programa de pruebas. El DC-8 fue el <strong>primer reactor comercial de Douglas</strong> (McDonnell Douglas sería el resultado de una fusión posterior en 1967), diseñado para competir en el emergente mercado de los aviones a reacción de fuselaje estrecho frente al Boeing 707 y el Convair 880. Con <strong>556 unidades construidas</strong> entre 1958 y 1972, el DC-8 se consolidó como un avión exitoso, y en 1961 se convirtió en el <strong>primer avión comercial en romper la barrera del sonido</strong> (Mach 1.012 en vuelo de descenso).</p>
+</div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
@@ -36,10 +35,14 @@ El 30 de mayo de 1958, el prototipo del **Douglas DC-8** (matrícula N8008D) rea
 - **Duración del vuelo:** 2 horas y 10 minutos 
 - **Altitud máxima alcanzada:** 11.000 pies (3.353 m) 
 - **Velocidad máxima durante el vuelo inaugural:** 260 nudos (480 km/h) con flaps y tren extendidos 
-- **Motores:** cuatro Pratt & Whitney JT3C-6 (15.800 lb de empuje cada uno) 
-- **Capacidad inicial:** hasta 177 pasajeros 
+- **Motores:** cuatro turborreactos Pratt & Whitney JT3C-6, 15.800 lb (70,0 kN) de empuje cada uno (con inyección de agua) 
+- **Capacidad inicial:** hasta 177 pasajeros en configuración de una clase 
 - **Producción total:** 556 unidades (1958-1972) 
-- **Primer avión comercial supersónico:** DC-8-43 (21 de agosto de 1961, Mach 1.012) 
+- **Primer avión comercial supersónico:** DC-8-43 (21 de agosto de 1961, Mach 1.012)
+- **Tripulación estándar del DC-8-10:** 3 (piloto, copiloto, ingeniero de vuelo)
+- **Dimensiones del DC-8-10:** longitud 150 pies 6 pulgadas (45,87 m); envergadura 142 pies 5 pulgadas (43,41 m); altura 42 pies 4 pulgadas (12,90 m)
+- **Peso máximo al despegue (MTOW):** 273.000 lb (123.830 kg)
+- **Prestaciones del DC-8-10:** velocidad de crucero Mach 0,82 (870 km/h); alcance 3.000 millas náuticas (5.500 km); techo de servicio 35.000 pies (10.600 m) 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -63,7 +66,7 @@ El DC-8 representaba la apuesta de Douglas por el futuro de los viajes aéreos. 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Programa DC-8
+## Desarrollo Cronológico
 
 - **15 de julio de 1954:** Primer vuelo del prototipo Boeing 367-80 (Dash 80), precursor del 707.
 - **7 de junio de 1955:** Douglas anuncia formalmente el programa DC-8, ofreciendo cuatro versiones iniciales del primer reactor comercial de la compañía.
@@ -79,32 +82,7 @@ El DC-8 representaba la apuesta de Douglas por el futuro de los viajes aéreos. 
 - **29 de agosto de 1966:** Primer vuelo del DC-8-62 (Super 62), versión de largo alcance.
 - **10 de abril de 1967:** Primer vuelo del DC-8-63 (Super 63), que combinaba el fuselaje del -61 con las alas del -62.
 - **1972:** Cese de la producción del DC-8 (última entrega en mayo de 1972), con un total de 556 unidades construidas.
-- **2001:** El prototipo original N8008D, que había volado para National Airlines, Trans International, Lufthansa, Canadian Pacific, Delta y Aeroméxico, fue desguazado en Marana, Arizona, tras haber sido almacenado desde 1982.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas del DC-8-10
-
-El Douglas DC-8-10 fue la versión inicial del reactor comercial de Douglas.
-
-- **Tripulación:** 3 (piloto, copiloto, ingeniero de vuelo)
-- **Capacidad de pasajeros:** hasta 177 en configuración de una clase
-- **Longitud:** 150 pies 6 pulgadas (45,87 m)
-- **Envergadura:** 142 pies 5 pulgadas (43,41 m)
-- **Altura:** 42 pies 4 pulgadas (12,90 m)
-- **Peso máximo al despegue (MTOW):** 273.000 lb (123.830 kg)
-- **Motores:** 4 × Pratt & Whitney JT3C-6 turborreactores, 15.800 lb (70,0 kN) de empuje cada uno (con inyección de agua)
-- **Velocidad de crucero:** Mach 0,82 (870 km/h)
-- **Alcance:** 3.000 millas náuticas (5.500 km)
-- **Techo de servicio:** 35.000 pies (10.600 m)
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Récord Supersónico del DC-8
-
-El 21 de agosto de 1961, un **Douglas DC-8-43** (versión con motores más potentes) pilotado por **William Magruder** (quien había sido copiloto en el primer vuelo) estableció un récord al superar la barrera del sonido. Durante una prueba en picado desde 52.000 pies (15.850 m), el avión alcanzó **Mach 1.012** (aproximadamente 1.062 km/h).
-
-Este fue el primer vuelo supersónico de un avión comercial civil y demostró el robusto margen de seguridad del diseño del DC-8. Las pruebas también incluyeron la activación de los inversores de empuje a Mach 1 y la verificación de que no había problemas de compresibilidad o aleteo a altas velocidades. El avión en cuestión fue posteriormente entregado a Canadian Pacific Air Lines.
+- **2001:** El prototipo original N8008D, que había volado para National Airlines, Trans International, Lufthansa, Canadian Pacific, Delta y <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1934/09/14/fundacion-aeronaves-de-mexico.html" style="color: #315fea; text-decoration: none;">Aeroméxico, la aerolínea fundada el 14 de septiembre de 1934 como Aeronaves de México</a>, fue desguazado en Marana, Arizona, tras haber sido almacenado desde 1982.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -112,7 +90,7 @@ Este fue el primer vuelo supersónico de un avión comercial civil y demostró e
 
 - **Competencia Boeing vs. Douglas:** El DC-8 llegó tarde al mercado (el Boeing 707 ya estaba volando desde diciembre de 1957 y entró en servicio en octubre de 1958). Sin embargo, logró vender 556 unidades frente a 1.010 del 707, una diferencia importante pero que consolidó a Douglas como el segundo fabricante de aviones comerciales del mundo.
 - **Innovación y versatilidad:** El DC-8 demostró ser un diseño excepcionalmente versátil, con versiones que incluyeron motores más potentes (JT4A), fuselajes alargados (Super 60), y más tarde, en la década de 1980, la conversión a motores turbofán de alta eficiencia (Serie 70), extendiendo su vida útil hasta bien entrada la década de 1980 e incluso 1990.
-- **Primer avión comercial supersónico:** La hazaña del 21 de agosto de 1961 fue un hito publicitario que demostró la robustez del DC-8 y su capacidad para volar de manera segura a velocidades supersónicas, aunque solo en descenso controlado.
+- **Primer avión comercial supersónico:** El 21 de agosto de 1961, un Douglas DC-8-43 (versión con motores más potentes) pilotado por William Magruder, que había sido copiloto en el primer vuelo, estableció un récord al superar la barrera del sonido: durante una prueba en picado desde 52.000 pies (15.850 m), el avión alcanzó Mach 1.012 (aproximadamente 1.062 km/h), en el primer vuelo supersónico de un avión comercial civil. Las pruebas también incluyeron la activación de los inversores de empuje a Mach 1 y la verificación de que no había problemas de compresibilidad o aleteo a altas velocidades. La hazaña fue un hito publicitario que demostró el robusto margen de seguridad del diseño del DC-8 y su capacidad para volar de manera segura a velocidades supersónicas, aunque solo en descenso controlado; el avión en cuestión fue posteriormente entregado a Canadian Pacific Air Lines.
 - **Legado de producción:** La producción del DC-8 se extendió desde 1958 hasta 1972, con 556 aviones construidos. Muchos de ellos continuaron volando como cargueros hasta la década de 2000, siendo el UPS (United Parcel Service) uno de los últimos operadores importantes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -153,8 +131,8 @@ El Douglas DC-8 fue un avión fundamental en la historia de la aviación comerci
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, Airways Magazine, Wikipedia (ES/EN), 1000AircraftPhotos
+- **Timestamp de verificación:** 2026-09-08 13:53:06 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Airways Magazine, Wikipedia (ES/EN), 1000AircraftPhotos
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (30 de mayo de 1958). Verificación de la tripulación y las condiciones del vuelo. Aclaración de la diferencia entre Douglas y McDonnell Douglas. Aclaración del récord supersónico (prueba de certificación, no diseño comercial).
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
