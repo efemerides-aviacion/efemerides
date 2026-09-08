@@ -826,7 +826,7 @@ image: 1894-03-27-rene-paul-fonck-as-primera-guerra-mundial.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1894-03-27-rene-paul-fonck-as-primera-guerra-mundial.webp" alt="René Paul Fonck, as francés de la Primera Guerra Mundial">
-  <figcaption class="post-caption">René Paul Fonck, as de ases de la aviación francesa con 75 victorias confirmadas, ca. 1918. Retrato autografiado original. Fuente: <a href="https://lesautographesdusiecle.com/aviation/12824-fonck-rene-1894-1953.html">Les Autographes du Siecle</a>.</figcaption>
+  <figcaption class="post-caption">René Paul Fonck, as de ases de la aviación francesa con 75 victorias confirmadas, ca. 1918. Retrato autografiado original. Fuente: <a href="https://lesautographesdusiecle.com/aviation/12824-fonck-rene-1894-1953.html" style="color: #315fea; text-decoration: none;">Les Autographes du Siecle</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -904,14 +904,14 @@ René Fonck sigue siendo el «as de ases» de la aviación aliada en la Primera 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Ren%C3%A9_Fonck">Wikipedia (ES) – René Fonck</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Fonck">Wikipedia (EN) – René Fonck</a></li>
-    <li><a href="https://prensaohf.com/2021/09/14/rene-fonck-1894-1953-el-as-de-ases-de-los-aiados-en-la-grande-guerre/">Prensa OHF – René Fonck (1894-1953) – El "As de Ases" de los Aliados</a></li>
-    <li><a href="https://www.fuerzasaereas.es/2012/12/rene-fonck-fue-el-piloto-de-caza-de-la.html">Fuerzas Aéreas – René Fonck, el As olvidado</a></li>
-    <li><a href="https://pantheon.world/profile/person/Ren%C3%A9_Fonck">Pantheon – René Fonck Biography</a></li>
-    <li><a href="https://www.firstworldwar.com/bio/fonck.htm">FirstWorldWar.com – Who's Who - Rene Fonck</a></li>
-    <li><a href="https://www.earlyaviators.com/efonck.htm">EarlyAviators – René Paul Fonck</a></li>
-    <li><a href="https://pt.wikipedia.org/wiki/Ren%C3%A9_Paul_Fonck">Wikipedia (PT) – René Paul Fonck</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Ren%C3%A9_Fonck" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – René Fonck</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Fonck" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – René Fonck</a></li>
+    <li><a href="https://prensaohf.com/2021/09/14/rene-fonck-1894-1953-el-as-de-ases-de-los-aiados-en-la-grande-guerre/" style="color: #315fea; text-decoration: none;">Prensa OHF – René Fonck (1894-1953) – El "As de Ases" de los Aliados</a></li>
+    <li><a href="https://www.fuerzasaereas.es/2012/12/rene-fonck-fue-el-piloto-de-caza-de-la.html" style="color: #315fea; text-decoration: none;">Fuerzas Aéreas – René Fonck, el As olvidado</a></li>
+    <li><a href="https://pantheon.world/profile/person/Ren%C3%A9_Fonck" style="color: #315fea; text-decoration: none;">Pantheon – René Fonck Biography</a></li>
+    <li><a href="https://www.firstworldwar.com/bio/fonck.htm" style="color: #315fea; text-decoration: none;">FirstWorldWar.com – Who's Who - Rene Fonck</a></li>
+    <li><a href="https://www.earlyaviators.com/efonck.htm" style="color: #315fea; text-decoration: none;">EarlyAviators – René Paul Fonck</a></li>
+    <li><a href="https://pt.wikipedia.org/wiki/Ren%C3%A9_Paul_Fonck" style="color: #315fea; text-decoration: none;">Wikipedia (PT) – René Paul Fonck</a></li>
   </ul>
 </div>
 
@@ -951,7 +951,7 @@ image: 1977-03-27-colision-dos-b747-los-rodeos.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1977-03-27-colision-dos-b747-los-rodeos.webp" alt="Representación 3D de la colisión de los Boeing 747 en Tenerife">
-  <figcaption class="post-caption">Representación en 3D de la colisión entre el Boeing 747‑206B de KLM (PH‑BUF, azul) y el Boeing 747‑121 de Pan Am (N736PA, gris) en la pista del Aeropuerto Los Rodeos (Tenerife), 27 de marzo de 1977. Fuente: <a href="https://www.xataka.com/transporte/1977-dos-boeing-747-colisionaron-aeropuerto-espana-fue-peor-accidente-aereo-historia">Xataka</a>.</figcaption>
+  <figcaption class="post-caption">Representación en 3D de la colisión entre el Boeing 747‑206B de KLM (PH‑BUF, azul) y el Boeing 747‑121 de Pan Am (N736PA, gris) en la pista del Aeropuerto Los Rodeos (Tenerife), 27 de marzo de 1977. Fuente: <a href="https://www.xataka.com/transporte/1977-dos-boeing-747-colisionaron-aeropuerto-espana-fue-peor-accidente-aereo-historia" style="color: #315fea; text-decoration: none;">Xataka</a>.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -1011,13 +1011,13 @@ El desastre de Tenerife se estudia en todas las escuelas de aviación como caso 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.xataka.com/transporte/1977-dos-boeing-747-colisionaron-aeropuerto-espana-fue-peor-accidente-aereo-historia">Xataka – 1977: dos Boeing 747 colisionaron en el aeropuerto Los Rodeos</a></li>
-    <li><a href="https://skybrary.aero/accidents-and-incidents/b742-b741-tenerife-canary-islands-spain-1977">SKYbrary – B742 / B741, Tenerife Canary Islands Spain, 1977</a></li>
-    <li><a href="https://www.rtve.es/noticias/20170327/tragedia-rodeos-40-anos-del-mayor-accidente-historia-aviacion-civil/1511407.shtml">RTVE – La tragedia de Los Rodeos: 40 años del mayor accidente</a></li>
-    <li><a href="https://simpleflying.com/tenerife-airport-disaster/">Simple Flying – The Story Of The Tenerife Airport Disaster</a></li>
-    <li><a href="https://guanches.org/Accidente_de_Los_Rodeos">Guanches.org – Accidente de Los Rodeos</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Accidente_de_avi%C3%B3n_en_Tenerife_de_1977">Wikipedia (ES) – Accidente de avión en Tenerife de 1977</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Desastre_a%C3%A9reo_de_Tenerife">Wikipedia (ES) – Desastre aéreo de Tenerife</a></li>
+    <li><a href="https://www.xataka.com/transporte/1977-dos-boeing-747-colisionaron-aeropuerto-espana-fue-peor-accidente-aereo-historia" style="color: #315fea; text-decoration: none;">Xataka – 1977: dos Boeing 747 colisionaron en el aeropuerto Los Rodeos</a></li>
+    <li><a href="https://skybrary.aero/accidents-and-incidents/b742-b741-tenerife-canary-islands-spain-1977" style="color: #315fea; text-decoration: none;">SKYbrary – B742 / B741, Tenerife Canary Islands Spain, 1977</a></li>
+    <li><a href="https://www.rtve.es/noticias/20170327/tragedia-rodeos-40-anos-del-mayor-accidente-historia-aviacion-civil/1511407.shtml" style="color: #315fea; text-decoration: none;">RTVE – La tragedia de Los Rodeos: 40 años del mayor accidente</a></li>
+    <li><a href="https://simpleflying.com/tenerife-airport-disaster/" style="color: #315fea; text-decoration: none;">Simple Flying – The Story Of The Tenerife Airport Disaster</a></li>
+    <li><a href="https://guanches.org/Accidente_de_Los_Rodeos" style="color: #315fea; text-decoration: none;">Guanches.org – Accidente de Los Rodeos</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Accidente_de_avi%C3%B3n_en_Tenerife_de_1977" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Accidente de avión en Tenerife de 1977</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Desastre_a%C3%A9reo_de_Tenerife" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Desastre aéreo de Tenerife</a></li>
   </ul>
 </div>
 
@@ -1114,13 +1114,13 @@ El vuelo del A380 con 100% SAF se inscribe en una serie de hitos que están tran
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.airbus.com/en/newsroom/press-releases/2022-03-first-a380-powered-by-100-sustainable-aviation-fuel-takes-to-the">Airbus – First A380 powered by 100% Sustainable Aviation Fuel takes to the skies</a></li>
-    <li><a href="https://www.aviacionline.com/el-airbus-a380-realizo-su-primer-vuelo-con-100-de-combustible-sostenible">AviaciónLine – El Airbus A380 realizó su primer vuelo con 100% de combustible sostenible</a></li>
-    <li><a href="https://www.velatia.com/es/blog/historico-despegue-de-un-airbus-380-con-combustible-saf-100-sostenible/">Velatia (ES) – Histórico despegue de un Airbus A380 con combustible SAF 100% sostenible</a></li>
-    <li><a href="https://www.neste.com/news/neste-enables-emirates-to-operate-world-s-first-airbus-a380-demonstration-flight-with-one-engine-powered-with-100-saf/">Neste – Neste enables Emirates to operate world’s first Airbus A380 demonstration flight with one engine powered with 100% SAF</a></li>
-    <li><a href="https://www.airnavradar.com/blog/first-airbus-a380-powered-by-100-sustainable-aviation-fuel-takes-off">AirNavRadar – First Airbus A380 powered by 100% Sustainable Aviation Fuel takes off</a></li>
-    <li><a href="https://www.thisisaerospace.com/articles/airbus-a380-100-saf-test/">ThisIsAerospace – Airbus A380 100% SAF test overview</a></li>
-    <li><a href="https://skiesmag.com/airbus-a380-100-saf-test-flight/">Skies Mag – First A380 powered by 100% SAF takes to the skies</a></li>
+    <li><a href="https://www.airbus.com/en/newsroom/press-releases/2022-03-first-a380-powered-by-100-sustainable-aviation-fuel-takes-to-the" style="color: #315fea; text-decoration: none;">Airbus – First A380 powered by 100% Sustainable Aviation Fuel takes to the skies</a></li>
+    <li><a href="https://www.aviacionline.com/el-airbus-a380-realizo-su-primer-vuelo-con-100-de-combustible-sostenible" style="color: #315fea; text-decoration: none;">AviaciónLine – El Airbus A380 realizó su primer vuelo con 100% de combustible sostenible</a></li>
+    <li><a href="https://www.velatia.com/es/blog/historico-despegue-de-un-airbus-380-con-combustible-saf-100-sostenible/" style="color: #315fea; text-decoration: none;">Velatia (ES) – Histórico despegue de un Airbus A380 con combustible SAF 100% sostenible</a></li>
+    <li><a href="https://www.neste.com/news/neste-enables-emirates-to-operate-world-s-first-airbus-a380-demonstration-flight-with-one-engine-powered-with-100-saf/" style="color: #315fea; text-decoration: none;">Neste – Neste enables Emirates to operate world’s first Airbus A380 demonstration flight with one engine powered with 100% SAF</a></li>
+    <li><a href="https://www.airnavradar.com/blog/first-airbus-a380-powered-by-100-sustainable-aviation-fuel-takes-off" style="color: #315fea; text-decoration: none;">AirNavRadar – First Airbus A380 powered by 100% Sustainable Aviation Fuel takes off</a></li>
+    <li><a href="https://www.thisisaerospace.com/articles/airbus-a380-100-saf-test/" style="color: #315fea; text-decoration: none;">ThisIsAerospace – Airbus A380 100% SAF test overview</a></li>
+    <li><a href="https://skiesmag.com/airbus-a380-100-saf-test-flight/" style="color: #315fea; text-decoration: none;">Skies Mag – First A380 powered by 100% SAF takes to the skies</a></li>
   </ul>
 </div>
 
@@ -1210,10 +1210,10 @@ Airbus es hoy uno de los dos grandes fabricantes de aviones comerciales del mund
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.airbus.com/en/who-we-are/our-history/the-first-half-century">Airbus – 50 Years of Airbus: The Journey of a European Icon</a></li>
-    <li><a href="https://www.flightglobal.com/flight-international/from-the-archive-december-1970/141655.article">FlightGlobal Archive – Airbus Industrie GIE Formation</a></li>
-    <li><a href="https://www.airbus.com/en/who-we-are/airbus-in-spain">Airbus Spain (CASA) – Historia de la industria aeronáutica española y su integración en Airbus</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Airbus">Wikipedia (EN) – Airbus</a></li>
+    <li><a href="https://www.airbus.com/en/who-we-are/our-history/the-first-half-century" style="color: #315fea; text-decoration: none;">Airbus – 50 Years of Airbus: The Journey of a European Icon</a></li>
+    <li><a href="https://www.flightglobal.com/flight-international/from-the-archive-december-1970/141655.article" style="color: #315fea; text-decoration: none;">FlightGlobal Archive – Airbus Industrie GIE Formation</a></li>
+    <li><a href="https://www.airbus.com/en/who-we-are/airbus-in-spain" style="color: #315fea; text-decoration: none;">Airbus Spain (CASA) – Historia de la industria aeronáutica española y su integración en Airbus</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Airbus" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Airbus</a></li>
   </ul>
 </div>
 
@@ -1302,13 +1302,13 @@ La cápsula Friendship 7 se exhibe en el Smithsonian National Air and Space Muse
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Mercury_Atlas_6">Wikipedia (ES) – Mercury Atlas 6</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Mercury-Atlas_6">Wikipedia (EN) – Mercury-Atlas 6</a></li>
-    <li><a href="https://www.nasa.gov/mission/mercury-atlas-6-friendship-7/">NASA – Mercury-Atlas 6: Friendship 7</a></li>
-    <li><a href="https://www.nasa.gov/history/friendship7/">NASA History – Friendship 7</a></li>
-    <li><a href="https://spacecenter.org/john-glenn-friendship-7-launched/">Space Center Houston – Friendship 7 launched</a></li>
-    <li><a href="https://airandspace.si.edu/collection-objects/capsule-mercury-ma-6/nasm_A19670176000">Smithsonian Air & Space – Friendship 7 capsule</a></li>
-    <li><a href="https://www.spaceline.org/united-states-manned-space-flight/mercury-program-index/mercury-ma-6-fact-sheet/">Spaceline – Mercury MA-6 Fact Sheet</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Mercury_Atlas_6" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Mercury Atlas 6</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Mercury-Atlas_6" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Mercury-Atlas 6</a></li>
+    <li><a href="https://www.nasa.gov/mission/mercury-atlas-6-friendship-7/" style="color: #315fea; text-decoration: none;">NASA – Mercury-Atlas 6: Friendship 7</a></li>
+    <li><a href="https://www.nasa.gov/history/friendship7/" style="color: #315fea; text-decoration: none;">NASA History – Friendship 7</a></li>
+    <li><a href="https://spacecenter.org/john-glenn-friendship-7-launched/" style="color: #315fea; text-decoration: none;">Space Center Houston – Friendship 7 launched</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/capsule-mercury-ma-6/nasm_A19670176000" style="color: #315fea; text-decoration: none;">Smithsonian Air & Space – Friendship 7 capsule</a></li>
+    <li><a href="https://www.spaceline.org/united-states-manned-space-flight/mercury-program-index/mercury-ma-6-fact-sheet/" style="color: #315fea; text-decoration: none;">Spaceline – Mercury MA-6 Fact Sheet</a></li>
   </ul>
 </div>
 
@@ -1397,11 +1397,11 @@ El secuestro del vuelo 648 de EgyptAir marcó un punto de inflexión en la perce
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/EgyptAir_Flight_648">Wikipedia (EN) – EgyptAir Flight 648</a></li>
-    <li><a href="https://aviation-safety.net/wikibase/327099">https://aviation-safety.net/wikibase/327099</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_648_de_EgyptAir">https://es.wikipedia.org/wiki/Vuelo_648_de_EgyptAir</a></li>
-    <li><a href="https://www.nbcnews.com/news/world/egyptair-hostage-drama-look-back-historic-hijackings-n547126">EgyptAir Hostage Drama: A Look Back at Historic Hijackings</a></li>
-    <li><a href="https://www.routeyou.com/es-mt/location/view/50611294">Vuelo 648 de EgyptAir</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/EgyptAir_Flight_648" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – EgyptAir Flight 648</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/327099" style="color: #315fea; text-decoration: none;">https://aviation-safety.net/wikibase/327099</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_648_de_EgyptAir" style="color: #315fea; text-decoration: none;">https://es.wikipedia.org/wiki/Vuelo_648_de_EgyptAir</a></li>
+    <li><a href="https://www.nbcnews.com/news/world/egyptair-hostage-drama-look-back-historic-hijackings-n547126" style="color: #315fea; text-decoration: none;">EgyptAir Hostage Drama: A Look Back at Historic Hijackings</a></li>
+    <li><a href="https://www.routeyou.com/es-mt/location/view/50611294" style="color: #315fea; text-decoration: none;">Vuelo 648 de EgyptAir</a></li>
   </ul>
 </div>
 
@@ -1493,10 +1493,10 @@ Vesna Vulović es recordada como la mujer que desafió lo imposible en la histor
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Vesna_Vulovi%C4%87">Wikipedia – Vesna Vulović</a></li>
-    <li><a href="https://www.guinnessworldrecords.com/world-records/highest-fall-survived-without-parachute">Guinness World Records – Highest fall survived without parachute</a></li>
-    <li><a href="https://www.infobae.com/america/mundo/2024/12/18/la-increible-historia-de-vesna-vulovic-la-azafata-que-sobrevivio-a-una-caida-libre-desde-10000-metros-de-altura-sin-paracaidas/">Infobae – Historia de Vesna Vulović</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Vesna_Vulovi%C4%87">Wikipedia (EN) – Vesna Vulović</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vesna_Vulovi%C4%87" style="color: #315fea; text-decoration: none;">Wikipedia – Vesna Vulović</a></li>
+    <li><a href="https://www.guinnessworldrecords.com/world-records/highest-fall-survived-without-parachute" style="color: #315fea; text-decoration: none;">Guinness World Records – Highest fall survived without parachute</a></li>
+    <li><a href="https://www.infobae.com/america/mundo/2024/12/18/la-increible-historia-de-vesna-vulovic-la-azafata-que-sobrevivio-a-una-caida-libre-desde-10000-metros-de-altura-sin-paracaidas/" style="color: #315fea; text-decoration: none;">Infobae – Historia de Vesna Vulović</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Vesna_Vulovi%C4%87" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Vesna Vulović</a></li>
   </ul>
 </div>
 
