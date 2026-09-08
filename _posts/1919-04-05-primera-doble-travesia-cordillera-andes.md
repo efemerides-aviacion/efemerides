@@ -60,7 +60,7 @@ Los pilotos militares de la época gozaban de un estatus romántico de “caball
 ## Consecuencias e Impacto
 
 - **Reconocimiento a la aviación chilena:** La doble travesía consolidó el prestigio del Servicio de Aviación Militar de Chile, demostrando capacidad operativa en condiciones extremas.
-- **Estímulo a la aeronáutica sudamericana:** La hazaña inspiró a otros pilotos en Argentina, Perú y Brasil a realizar cruces andinos y a establecer rutas postales aéreas.
+- **Estímulo a la aeronáutica sudamericana:** La hazaña inspiró a otros pilotos en Argentina, Perú y Brasil a realizar cruces andinos y a establecer rutas postales aéreas. Esa progresión de la aviación militar chilena sobre los Andes se prolongó en septiembre de 1922 con el <a href="{{ site.baseurl }}/evento/1922/09/14/raid-aereo-santiago-rio-de-janeiro.html" style="color: #315fea; text-decoration: none;">raid aéreo Santiago-Río de Janeiro</a>, que cruzó de nuevo la cordillera desde El Bosque y enlazó cuatro países.
 - **Carrera de Cortínez:** Ascendió a General de Brigada Aérea, convirtiéndose en una figura emblemática de la Fuerza Aérea de Chile.
 - **Legado patrimonial:** El Bristol M.1C original fue preservado (actualmente en el Museo Aeronáutico de la FACh). En 2022, el nieto de Cortínez, René Cortínez, donó reliquias históricas al Museo del Carmen de Maipú.
 
@@ -89,7 +89,7 @@ El 5 de abril es conmemorado por la Fuerza Aérea de Chile y la Dirección Gener
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 10:45:59 CST
+- **Timestamp de verificación:** 2026-09-08 07:32:32 CST
 - **Fuentes primarias/institucionales consultadas:** FACh, DGAC, Museo Aeronáutico DGAC, TallyHo, Wikipedia, YouTube FACh
 - **Discrepancias resueltas:** La fecha exacta del regreso se ha fijado en 16 de abril según las fuentes oficiales chilenas. La discrepancia con la fecha del 17 de abril se documenta como [NO CONFIRMADO]. La altitud de cruce se indica como estimada (>4.000 m) sin precisar una cifra no documentada.
 - **Nivel de confianza:** Alto

@@ -56,7 +56,7 @@ La hazaña consolidó a Bolland como ícono femenino en la aviación, desafiando
 ## Consecuencias e Impacto
 - Publicidad para Caudron y su aeronave.  
 - Empoderamiento femenino en la aviación.  
-- Precedente para rutas aéreas andinas.  
+- Precedente para rutas aéreas andinas: en septiembre de 1922, la aviación militar chilena cruzó la cordillera en sentido inverso, de Santiago a Mendoza, como primera etapa del <a href="{{ site.baseurl }}/evento/1922/09/14/raid-aereo-santiago-rio-de-janeiro.html" style="color: #315fea; text-decoration: none;">raid aéreo Santiago-Río de Janeiro</a>.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
@@ -75,7 +75,7 @@ Adrienne Bolland es recordada como una de las aviadoras más intrépidas de la h
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 10:45:59 CST
+- **Timestamp de verificación:** 2026-09-08 07:32:32 CST
 - **Fuentes primarias/institucionales consultadas:** Documentos de la Société des Avions Caudron; reportes periodísticos de Clarín y La Gaceta  
 - **Discrepancias resueltas:** La efeméride se conmemora el 24 de noviembre, aunque el cruce real ocurrió el 1 de abril de 1921  
 - **Nivel de confianza:** Alto  
