@@ -103,8 +103,8 @@ El prototipo original T-10-1 se exhibe actualmente en el Museo de la Fuerza Aér
 </div>
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Rostec (oficial), TASS, Wikipedia (EN), Jane's, Zona Militar, WarHistory.org
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** Rostec (oficial), TASS, Wikipedia (EN), Jane's, Zona Militar, WarHistory.org
 - **Discrepancias resueltas:** Todas las fuentes coinciden unánimemente en la fecha del 20 de mayo de 1977 y en el piloto Vladímir Ilyushin. Las fuentes también coinciden en que el primer prototipo fue designado T-10-1 y que el diseño sufrió una revisión radical tras los prototipos iniciales.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”

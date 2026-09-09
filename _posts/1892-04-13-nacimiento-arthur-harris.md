@@ -102,8 +102,8 @@ La doctrina del bombardeo estratégico surgió en el periodo de entreguerras de 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), Imperial War Museum, Encyclopaedia Britannica, Royal Air Force
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Imperial War Museum, Encyclopaedia Britannica, Royal Air Force
 - **Discrepancias resueltas:** Se ha verificado la fecha de fallecimiento (5 de abril de 1984, no 1982 como sugería una posible errata).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

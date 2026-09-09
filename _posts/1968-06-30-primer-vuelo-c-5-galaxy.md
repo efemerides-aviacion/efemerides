@@ -104,8 +104,8 @@ A más de cincuenta años de su primer vuelo, el Lockheed C-5 Galaxy continúa s
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Archivos técnicos de ingeniería de Lockheed Martin, registros de vuelos de prueba de la planta de Marietta de 1968, documentos de la USAF de control de adquisiciones de motores General Electric TF39, base de datos del National Museum of the United States Air Force y artículos históricos de Code One Magazine
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** Archivos técnicos de ingeniería de Lockheed Martin, registros de vuelos de prueba de la planta de Marietta de 1968, documentos de la USAF de control de adquisiciones de motores General Electric TF39, base de datos del National Museum of the United States Air Force y artículos históricos de Code One Magazine
 - **Discrepancias resueltas:** Se ha identificado y corregido el grave error del borrador de la investigación preliminar sobre los motores TF34, restaurando la especificación real e histórica de los motores de alta derivación TF39-GE-1C de General Electric. Asimismo, se unificó la tripulación a bordo durante el primer vuelo (cinco tripulantes de prueba de Lockheed y la USAF frente a los siete habituales de servicio operativo descritos en algunas fuentes generales).
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

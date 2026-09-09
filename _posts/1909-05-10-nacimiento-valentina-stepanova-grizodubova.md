@@ -162,8 +162,8 @@ Falleció en Moscú el 28 de abril de 1993, a la edad de 83 años. Fue enterrada
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
-- **Fuentes primarias consultadas:** GBUMAC (fuente rusa oficial), FAI (Fédération Aéronautique Internationale), Wikipedia (EN/IT/ES), Biblioclub Encyclopedia
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST
+- **Fuentes primarias/institucionales consultadas:** GBUMAC (fuente rusa oficial), FAI (Fédération Aéronautique Internationale), Wikipedia (EN/IT/ES), Biblioclub Encyclopedia
 - **Discrepancias resueltas:** La fecha de nacimiento está documentada como 10 de mayo de 1909 en el calendario gregoriano, que es la fecha oficial. Algunas fuentes occidentales pueden mostrar el 31 de enero de 1910 por diferencias en la conversión del calendario o errores. Sobre los récords, fuentes rusas oficiales (GBUMAC) confirman 5 récords en 1937 (en UT-1, UT-2 y AIR-12), mientras fuentes occidentales (FAI, Wikipedia) registran 7 récords totales. Grizodúbova fue la primera mujer en recibir el título de Héroe de la Unión Soviética, junto con su tripulación. Falleció el 28 de abril de 1993.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

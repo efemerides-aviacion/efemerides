@@ -138,8 +138,8 @@ El programa, que enfrentó retrasos y sobrecostos en sus inicios, ha demostrado 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 17:45:00 CST  
-- **Fuentes primarias consultadas:** Airbus (página oficial y comunicado de prensa), Wikipedia (EN/ES, incluida la página del motor TP400-D6), FlightGlobal, Defensa.com, New Atlas
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** Airbus (página oficial y comunicado de prensa), Wikipedia (EN/ES, incluida la página del motor TP400-D6), FlightGlobal, Defensa.com, New Atlas
 - **Discrepancias resueltas:** Duración del vuelo (3h 47min confirmada); matrículas (F-WWMT temporal, EC-404 definitiva de pruebas); potencia del motor (corregida a 11.000 shp / 8.200 kW); horas totales del MSN001 (1.448)
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

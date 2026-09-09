@@ -148,8 +148,8 @@ La batalla es recordada como **la mayor batalla de portaaviones de la historia**
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** U.S. Navy (NHHC), U.S. National Park Service, Pacific Wrecks, Wikipedia (Archived), Britannica
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** U.S. Navy (NHHC), U.S. National Park Service, Pacific Wrecks, Wikipedia (Archived), Britannica
 - **Discrepancias resueltas:** Las cifras de aviones japoneses destruidos varían entre 476 y 645 según las fuentes. Se ha optado por presentar el rango (550-645) para reflejar esta discrepancia, indicando que la mayoría de las fuentes coinciden en que la pérdida fue devastadora y superó ampliamente las pérdidas estadounidenses. Se ha aclarado el término "portaaviones ligeros" para evitar confusión.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

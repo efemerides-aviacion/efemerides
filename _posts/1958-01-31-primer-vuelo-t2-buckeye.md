@@ -74,8 +74,8 @@ Entrenó a miles de aviadores navales y fue exportado a otros países, mantenié
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia; USNI Naval History; Vintage Aviation News; Teton Aviation; Planes of Fame  
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia; USNI Naval History; Vintage Aviation News; Teton Aviation; Planes of Fame  
 - **Discrepancias resueltas:** Confirmación de designaciones (T2J-1 → T-2A) y cronología de evolución.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

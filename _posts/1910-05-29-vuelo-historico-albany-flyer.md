@@ -145,8 +145,8 @@ El presidente William H. Taft siguió el vuelo con gran interés y envió un men
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** Banks County Journal (1910), BBC Travel, Planes of Fame Air Museum, Time Magazine, Wikipedia, Daily Press, Epoxyworks
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** Banks County Journal (1910), BBC Travel, Planes of Fame Air Museum, Time Magazine, Wikipedia, Daily Press, Epoxyworks
 - **Discrepancias resueltas:** Confirmación de la fecha (29 de mayo de 1910) en fuentes primarias de la época. Verificación de la distancia (137-150 millas según la fuente). Aclaración del tiempo de vuelo (2 horas y 32 minutos, excluyendo parada).
 - **Nivel de confianza:** Alto (múltiples fuentes, incluyendo periódico contemporáneo de 1910, coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

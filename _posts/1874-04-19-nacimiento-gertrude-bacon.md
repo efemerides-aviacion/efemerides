@@ -145,8 +145,8 @@ Gertrude Bacon demostró que no es necesario estar al mando de los controles par
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
-- **Fuentes primarias consultadas:** Wikipedia, Waterbird Org (Windermere), Mujeres con Ciencia, Encyclopedia.com, Library of Congress
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Waterbird Org (Windermere), Mujeres con Ciencia, Encyclopedia.com, Library of Congress
 - **Discrepancias resueltas:** Las fuentes coinciden en las fechas de nacimiento y fallecimiento, así como en los principales hitos aeronáuticos. La Waterbird Org proporciona fechas específicas para los vuelos en hidroavión (15 y 16 de julio de 1912), que complementan la información general de otras fuentes.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

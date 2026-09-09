@@ -106,8 +106,8 @@ A pesar de su trágico final, Viasa permanece en la memoria colectiva de Venezue
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), IPS Noticias, El País, Simple Flying, FlightGlobal, Airways, CL Aviation Group, Travel Weekly
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), IPS Noticias, El País, Simple Flying, FlightGlobal, Airways, CL Aviation Group, Travel Weekly
 - **Discrepancias resueltas:** Se ha confirmado el número de vuelo (VA3735) y la ruta (Billund-Porlamar). No se ha podido confirmar la matrícula del DC-10 específico del último vuelo, por lo que se omite. Las cifras de empleados se presentan como [NO CONFIRMADO] por la variación entre fuentes. Se ha añadido información detallada sobre la privatización y las pérdidas económicas.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

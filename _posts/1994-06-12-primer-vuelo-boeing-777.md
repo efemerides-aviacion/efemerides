@@ -122,8 +122,8 @@ El primer Boeing 777, WA001, se exhibe actualmente en el Pima Air and Space Muse
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, FlightGlobal, Boeing Newsroom, Sun Sentinel (archivo histórico de 1994), Wikipedia
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, FlightGlobal, Boeing Newsroom, Sun Sentinel (archivo histórico de 1994), Wikipedia
 - **Discrepancias resueltas:** El borrador indicaba que el prototipo WA001 fue enviado al Museum of Flight en Seattle; se ha corregido al Pima Air and Space Museum (Tucson, Arizona) según múltiples fuentes primarias. Se ha añadido la altitud máxima alcanzada (19.000 pies) y los motores originales (PW4074) que no estaban especificados. Se ha corregido la redacción sobre la duración del vuelo inaugural para evitar ambigüedad.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

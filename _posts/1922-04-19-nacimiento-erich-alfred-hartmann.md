@@ -160,8 +160,8 @@ Hartmann falleció el 20 de septiembre de 1993 en Weil im Schönbuch, Alemania, 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
-- **Fuentes primarias consultadas:** Wikipedia (EN, GL), The Museum of Flight Archives, Guinness World Records, History Hit, SP's Aviation, La Vanguardia
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN, GL), The Museum of Flight Archives, Guinness World Records, History Hit, SP's Aviation, La Vanguardia
 - **Discrepancias resueltas:** Las fuentes coinciden en las fechas de nacimiento y fallecimiento, así como en la cifra de 352 victorias. El año exacto de su mudanza a China varía entre 1925 y 1926 según las fuentes; se ha optado por 1925. La cifra de misiones de combate varía entre 1.404 y 1.425 según la fuente; se ha priorizado la del archivo del Museo de Vuelo (1.404).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

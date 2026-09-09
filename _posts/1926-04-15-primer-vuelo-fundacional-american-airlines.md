@@ -138,8 +138,8 @@ El vuelo de Lindbergh el 15 de abril de 1926 es conmemorado por la aerolínea co
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST
-- **Fuentes primarias consultadas:** Wikipedia, American Airlines historia oficial (archivo), Encyclopaedia Britannica, Business Insider
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, American Airlines historia oficial (archivo), Encyclopaedia Britannica, Business Insider
 - **Discrepancias resueltas:** La fecha exacta de fundación varía según la fuente: el primer vuelo operativo (15 de abril de 1926) vs. la incorporación legal como American Airlines (11 de abril de 1934). Se ha priorizado el 15 de abril de 1926 por ser la fecha que la propia aerolínea conmemora y la más citada en fuentes históricas, aclarando la discrepancia en la nota aclaratoria.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

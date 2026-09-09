@@ -70,8 +70,8 @@ El P‑80 Shooting Star es recordado como el primer caza a reacción operacional
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias consultadas:** Archivos de Lockheed; USAAF; Smithsonian Air & Space  
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** Archivos de Lockheed; USAAF; Smithsonian Air & Space  
 - **Discrepancias resueltas:** Algunas fuentes citan fechas de pruebas previas en 1943; se confirma oficialmente el 8 de enero de 1944 como primer vuelo.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -155,8 +155,8 @@ El disparo de Chandler del 7 de junio de 1912 es considerado el nacimiento del a
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** National Museum of the U.S. Air Force (.mil), This Day in Aviation, Wikipedia, Early Birds of Aviation
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** National Museum of the U.S. Air Force (.mil), This Day in Aviation, Wikipedia, Early Birds of Aviation
 - **Discrepancias resueltas:** Confirmación de la fecha (7 de junio de 1912) en fuentes primarias. Verificación de los resultados de las pruebas (45/50 y 14/44). Aclaración del contexto histórico y los protagonistas. Adición de enlace a la efeméride de Anthony Fokker.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

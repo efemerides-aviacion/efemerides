@@ -151,8 +151,8 @@ El X-15 sigue siendo el avión tripulado más rápido y alto jamás construido. 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 17:20:00 CST  
-- **Fuentes primarias consultadas:** NASA (X-15 Chronology), This Day in Aviation, Wikipedia
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** NASA (X-15 Chronology), This Day in Aviation, Wikipedia
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (8 de junio de 1959) como vuelo de planeo. Verificación de la altitud de lanzamiento (37.550 pies) y la duración (4 minutos 56,6 segundos). Aclaración de la diferencia entre el primer vuelo (planeo) y el primer vuelo propulsado (17 de septiembre de 1959). Corrección del orden cronológico en la sección de desarrollo.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

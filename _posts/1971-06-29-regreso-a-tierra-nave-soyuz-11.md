@@ -112,8 +112,8 @@ La tripulación de la Soyuz 11 sigue siendo recordada como las únicas personas 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES), Russian Space Web, La Vanguardia, NASA, Astronautix
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Russian Space Web, La Vanguardia, NASA, Astronautix
 - **Discrepancias resueltas:** Se corrigió la fecha de la efeméride al 29 de junio de 1971 usando UTC, el estándar para eventos espaciales; se corrigió la hora de lanzamiento; se adoptó la altitud de despresurización de 168 km según informes técnicos; se omitió el dato no confirmado de “362 órbitas” del borrador de la investigación preliminar, empleando la cifra verificada de 383 órbitas; se señaló la variación en la ubicación exacta del aterrizaje según distintas fuentes.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

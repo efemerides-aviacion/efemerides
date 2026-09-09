@@ -132,8 +132,8 @@ El vuelo récord del 24 de mayo de 1991 sigue siendo estudiado en escuelas de av
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Guinness World Records, The Washington Post (1991), Jewish Telegraphic Agency (1991), JDC Archives, IDF Official Site, Wikipedia
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** Guinness World Records, The Washington Post (1991), Jewish Telegraphic Agency (1991), JDC Archives, IDF Official Site, Wikipedia
 - **Discrepancias resueltas:** Confirmación de la cifra oficial de Guinness (1.088) frente a variantes (1.087 y 1.122). Verificación de la fecha (24 de mayo de 1991) como el día del vuelo récord. Confirmación de la duración del vuelo (3 horas y 30 minutos) mediante fuentes periodísticas de la época.
 - **Nivel de confianza:** Alto (fuentes primarias institucionales y de prensa contemporánea coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

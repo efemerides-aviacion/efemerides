@@ -147,8 +147,8 @@ Walter Beech falleció en 1950, pero Olive Ann Beech continuó liderando la empr
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
-- **Fuentes primarias consultadas:** Britannica, Textron Aviation, Wikipedia (EN/ES), EcuRed, King Air Magazine, National Air and Space Museum, Kansas Historical Society
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST
+- **Fuentes primarias/institucionales consultadas:** Britannica, Textron Aviation, Wikipedia (EN/ES), EcuRed, King Air Magazine, National Air and Space Museum, Kansas Historical Society
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha de fundación (19 de abril de 1932) y en los nombres de los fundadores. Existe una ligera variación en la lista de socios fundadores: algunas fuentes incluyen a C.G. Yankey como vicepresidente e inversionista, mientras que otras lo omiten. Se ha optado por incluirlo basándose en fuentes especializadas de King Air Magazine.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

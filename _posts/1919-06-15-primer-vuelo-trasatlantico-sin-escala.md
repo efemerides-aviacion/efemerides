@@ -159,8 +159,8 @@ Alcock falleció apenas seis meses después, pero su nombre quedó grabado en la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** RAF Museum Collections, University of Cambridge, HistoryExtra, Science Museum Blog, RTE Century Ireland, The Irish Times, Wikipedia
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** RAF Museum Collections, University of Cambridge, HistoryExtra, Science Museum Blog, RTE Century Ireland, The Irish Times, Wikipedia
 - **Discrepancias resueltas:** La duración del vuelo varía entre 15h 57min (RAF Museum) y 16h 12min (HistoryExtra/Cambridge). Se han incluido ambas cifras. La distancia recorrida se ha ajustado a 1.890 millas (3.040 km) según la mayoría de las fuentes. Se ha confirmado que el aterrizaje fue en Derrygimla Bog (no simplemente «Clifden»).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

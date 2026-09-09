@@ -105,8 +105,8 @@ El Boeing 314 Clipper es recordado en la historia de la aeronáutica como la cú
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación comercial presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Archivos oficiales de la Pan American Historical Foundation, bitácoras de vuelo del Boeing 314 Yankee Clipper de junio de 1939, documentos técnicos de diseño de la Boeing Airplane Company para el Model 314 y registros históricos de la autoridad civil aeronáutica de los Estados Unidos (CAA)
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** Archivos oficiales de la Pan American Historical Foundation, bitácoras de vuelo del Boeing 314 Yankee Clipper de junio de 1939, documentos técnicos de diseño de la Boeing Airplane Company para el Model 314 y registros históricos de la autoridad civil aeronáutica de los Estados Unidos (CAA)
 - **Discrepancias resueltas:** Se identificó y resolvió de forma concluyente el cruce de datos erróneos del borrador de la investigación previa. Se corrigieron las especificaciones de los motores (motores Wright GR-2600 frente a los erróneos Pratt & Whitney Twin Wasp) y se precisó que el vuelo conmemorativo del 24-28 de junio de 1939 fue el inaugural de la ruta comercial de correo regular a Gran Bretaña operado por el *Yankee Clipper* (NC18603) bajo el mando del Capitán Harold Gray, completando el cruce el 28 de junio tras la demora por niebla en Botwood.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

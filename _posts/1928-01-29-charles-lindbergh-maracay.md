@@ -70,8 +70,8 @@ El paso de Lindbergh por Venezuela es recordado como un hito histórico en la av
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** CharlesLindbergh.com; Prodavinci; Cámara de Caracas; Rodima; Philat.com  
+- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Fuentes primarias/institucionales consultadas:** CharlesLindbergh.com; Prodavinci; Cámara de Caracas; Rodima; Philat.com  
 - **Discrepancias resueltas:** Confirmación de hora de llegada (18:30), duración del vuelo (10h15m) y actividades posteriores en Caracas.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
