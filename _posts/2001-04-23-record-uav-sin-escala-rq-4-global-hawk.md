@@ -153,8 +153,8 @@ El récord de distancia sin escala para un UAV certificado por la FAI en 2001 si
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** FAI (Fédération Aéronautique Internationale) - registro 18693, Guinness World Records, Wikipedia (EN/ES)
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** FAI (Fédération Aéronautique Internationale) - registro 18693, Guinness World Records, Wikipedia (EN/ES)
 - **Discrepancias resueltas:** La discrepancia sobre la fecha (23 vs 24 de abril) se ha resuelto priorizando la certificación oficial de la FAI y Guinness (23 de abril de 2001). El despegue fue el 22 de abril, el aterrizaje el 23 de abril. La duración del vuelo (23 horas 23 minutos) es consistente en todas las fuentes.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -138,8 +138,8 @@ El Airbus A320 N106US se exhibe en el **Sullenberger Aviation Museum** (anterior
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES), NTSB (informe oficial AAR-10/03), Aviation Safety Network, Britannica, SKYbrary
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), NTSB (informe oficial AAR-10/03), Aviation Safety Network, Britannica, SKYbrary
 - **Discrepancias resueltas:** Número de ocupantes (155, no 153); duración del vuelo (5 minutos, no 6); responsable de apertura de puerta trasera (no confirmado, se omite)
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -163,8 +163,8 @@ El avión siniestrado, N73711, fue reparado y devuelto al servicio por Aloha Air
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** NTSB (National Transportation Safety Board), Wikipedia (ES), SKYbrary, This Day in Aviation
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** NTSB (National Transportation Safety Board), Wikipedia (ES), SKYbrary, This Day in Aviation
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (28 de abril de 1988), la aeronave (Boeing 737-297 N73711) y la mayoría de los datos técnicos. El número exacto de ciclos de vuelo (89.680) está documentado en los archivos de la NTSB. La víctima mortal fue la auxiliar de vuelo Clarabelle Lansing. El capitán (Robert Schornstheimer) y la primera oficial (Madeleine Tompkins) sobrevivieron y continuaron sus carreras.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

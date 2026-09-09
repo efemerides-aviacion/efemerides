@@ -175,8 +175,8 @@ El accidente del vuelo QZ8501 es uno de los más graves en la historia de la avi
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** KNKT (informe final), Aviation Safety Network, Wikipedia (EN/ES), BBC News, Aviation Today, The Guardian, Kementerian Perhubungan RI, SKYbrary
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** KNKT (informe final), Aviation Safety Network, Wikipedia (EN/ES), BBC News, Aviation Today, The Guardian, Kementerian Perhubungan RI, SKYbrary
 - **Discrepancias resueltas:**
   - Horarios: Se ha unificado la información horaria en WIB (UTC+7) siguiendo el informe del KNKT.
   - Coordenadas del lugar del accidente: Las fuentes varían ligeramente; se han incluido las coordenadas del punto de impacto según el informe final.

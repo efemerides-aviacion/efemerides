@@ -129,8 +129,8 @@ El accidente del vuelo 518 de Santa Bárbara Airlines sigue siendo, hasta 2026, 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Aviation Safety Network, Wikipedia (ES), Simple Flying, IMDb, Plex
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Aviation Safety Network, Wikipedia (ES), Simple Flying, IMDb, Plex
 - **Discrepancias resueltas:** Categoría corregida (aviacion-accidente); tiempo de inicialización AHRS aclarado (28 segundos vs 3 minutos); altitud de impacto confirmada (3.810 m)
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

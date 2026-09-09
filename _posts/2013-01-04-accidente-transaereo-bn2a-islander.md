@@ -123,8 +123,8 @@ El caso sigue siendo un recordatorio de la importancia de la seguridad en la avi
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), Aviation Safety Network, La Vanguardia
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Aviation Safety Network, La Vanguardia
 - **Discrepancias resueltas:**
   - Fecha: confirmada como 4 de enero de 2013 en todas las fuentes.
   - Coordenadas aproximadas del lugar del accidente: 12 millas náuticas al noreste de Los Roques, según reportes de pescadores.

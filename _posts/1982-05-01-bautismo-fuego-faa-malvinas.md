@@ -194,8 +194,8 @@ El aeropuerto de San Julián, desde donde partieron muchas de aquellas misiones,
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** Noticias En Vuelo (FAA), Infobae, Gaceta Aeronautica, Fundación Malvinas, TN, Obispado Castrense
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Noticias En Vuelo (FAA), Infobae, Gaceta Aeronautica, Fundación Malvinas, TN, Obispado Castrense
 - **Discrepancias resueltas:** Las fuentes oficiales de la FAA coinciden en la fecha (1 de mayo de 1982), el horario (04:40), las bajas (14 caídos) y las operaciones (76 salidas). Se ha corregido la cifra de aeronaves perdidas de 7 a 5 (suma correcta: 2 Mirage IIIEA, 1 Dagger, 1 Canberra, 1 Pucará). Se ha aclarado en nota aclaratoria la diferencia entre las secciones TORO y TORNO.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

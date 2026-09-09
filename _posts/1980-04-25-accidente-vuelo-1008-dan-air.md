@@ -206,8 +206,8 @@ El vuelo 1008 de Dan Air es un recordatorio de que la seguridad aérea es un esf
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 16:47:34 CST
-- **Fuentes primarias consultadas:** Aviation Safety Network, Wikipedia (EN/ES), UK Parliament Hansard, EL PAÍS, BAAA-ACRO
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST
+- **Fuentes primarias/institucionales consultadas:** Aviation Safety Network, Wikipedia (EN/ES), UK Parliament Hansard, EL PAÍS, BAAA-ACRO
 - **Discrepancias resueltas:** Las fuentes coinciden en los datos principales: fecha 25 de abril de 1980, lugar Monte La Esperanza, 146 víctimas fatales. Existen discrepancias en las causas: el informe español enfatizó el error del capitán, mientras que el addendum británico señaló la ambigüedad de las instrucciones del ATC. El SEPLA añadió críticas adicionales sobre la selección de la pista y factores meteorológicos.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

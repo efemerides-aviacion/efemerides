@@ -67,8 +67,8 @@ Hoy son reconocidos como campeones mundiales de acrobacia aérea y embajadores d
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** FACh; Wikipedia; Hispaviación; Infodefensa  
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** FACh; Wikipedia; Hispaviación; Infodefensa  
 - **Discrepancias resueltas:** Confirmación de fechas de operación de los Cóndores de Plata (1958–1967) y creación oficial de los Halcones (1981).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

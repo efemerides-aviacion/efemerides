@@ -159,8 +159,8 @@ El primer prototipo T-1 continúa en servicio como avión de pruebas y desarroll
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Boeing MediaRoom, Wikipedia (ES/EN), Hispaviación, NAVAIR (.mil)
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Boeing MediaRoom, Wikipedia (ES/EN), Hispaviación, NAVAIR (.mil)
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (25 de abril de 2009), la duración (3 horas 31 minutos) y la altitud (25.000 pies). No se ha podido confirmar la identidad de los pilotos de pruebas que realizaron el vuelo inaugural.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

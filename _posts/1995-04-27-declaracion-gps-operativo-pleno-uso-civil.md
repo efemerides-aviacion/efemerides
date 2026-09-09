@@ -158,8 +158,8 @@ Con más de 30 satélites operativos en la actualidad (incluyendo los modernos G
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** GPS World, USCG Navigation Center, Royal Institute of Navigation, US Navy (.mil), DVIDS (.mil)
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** GPS World, USCG Navigation Center, Royal Institute of Navigation, US Navy (.mil), DVIDS (.mil)
 - **Discrepancias resueltas:** Las fuentes coinciden en que la declaración técnica de FOC ocurrió el 27 de abril de 1995, con el anuncio público formal el 17 de julio de 1995. La capacidad operativa inicial (IOC) fue declarada el 8 de diciembre de 1993. El General Thomas S. Moorman Jr. fue quien declaró el hito en 1995.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

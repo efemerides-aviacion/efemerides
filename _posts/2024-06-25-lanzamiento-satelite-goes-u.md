@@ -138,8 +138,8 @@ Con el lanzamiento del GOES-U, la NOAA y la NASA han completado una flota de sat
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** NOAA, NASA, EFE
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** NOAA, NASA, EFE
 - **Discrepancias resueltas:** Algunas fuentes citan la hora de despliegue a las 10:18 p.m. EDT, otras a las 9:56 p.m. EDT. Se ha optado por la hora de confirmación del despliegue de paneles solares (10:18 p.m.) como la más documentada.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

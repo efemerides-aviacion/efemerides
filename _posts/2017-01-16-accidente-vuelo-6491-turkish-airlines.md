@@ -163,8 +163,8 @@ El accidente del vuelo TK6491 es el peor desastre aéreo en la historia de Kirgu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES), Aviation Safety Network, BBC News, Al Jazeera, Reuters, Simple Flying, FlightGlobal
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Aviation Safety Network, BBC News, Al Jazeera, Reuters, Simple Flying, FlightGlobal
 - **Discrepancias resueltas:**
   - Víctimas: 39 confirmadas por el informe final de la CIAA (4 a bordo + 35 en tierra).
   - Operador: ACT Airlines (MyCargo Airlines) operando bajo wet lease para Turkish Airlines Cargo.

@@ -159,8 +159,8 @@ El accidente también mostró cómo una pequeña grieta en una pieza aparentemen
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** NTSB (informe oficial AAR-79-17), TIME Magazine (artículos de 1979), Wikipedia (EN/ES), La Opinión, Infobae
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** NTSB (informe oficial AAR-79-17), TIME Magazine (artículos de 1979), Wikipedia (EN/ES), La Opinión, Infobae
 - **Discrepancias resueltas:** Confirmación del número de víctimas (273 total) frente a variantes menores (277 en algunas fuentes periodísticas). Verificación de la secuencia exacta del accidente y la altitud máxima (325-350 pies) mediante el informe de la NTSB.
 - **Nivel de confianza:** Alto (fuentes institucionales y de prensa contemporánea coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

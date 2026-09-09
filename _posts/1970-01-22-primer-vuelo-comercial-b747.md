@@ -75,8 +75,8 @@ El Boeing 747 es recordado como la “Reina de los Cielos”, protagonista de la
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Pan Am Historical Foundation; Wikipedia; Northwestern University; This Day in Aviation; Airways; Airport History; CultureNow; University of Miami Digital Collections  
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Pan Am Historical Foundation; Wikipedia; Northwestern University; This Day in Aviation; Airways; Airport History; CultureNow; University of Miami Digital Collections  
 - **Discrepancias resueltas:** Confirmación de fecha exacta (22 de enero tras retraso del 21), matrícula del avión (N736PA) y cifra exacta de pasajeros (332 + 17 tripulantes = 349).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

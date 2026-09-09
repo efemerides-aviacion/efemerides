@@ -136,8 +136,8 @@ Hoy, el avión se encuentra en exposición en el Museo Aeronáutico de Maracay "
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST
-- **Fuentes primarias consultadas:** Aviación Civil, Wikimedia Commons, YouTube, Wikipedia, Flugzeuginfo, FavClubVen
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST
+- **Fuentes primarias/institucionales consultadas:** Aviación Civil, Wikimedia Commons, YouTube, Wikipedia, Flugzeuginfo, FavClubVen
 - **Discrepancias resueltas:** Se ha aclarado la existencia de un posible vuelo no oficial a finales de 1985, pero se ha priorizado la fecha del 17 de abril de 1986 como el primer vuelo oficial, por ser la más documentada y la que la Fuerza Aérea Venezolana conmemora.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

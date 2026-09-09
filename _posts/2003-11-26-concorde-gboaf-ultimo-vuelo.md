@@ -105,8 +105,8 @@ El Concorde G-BOAF es una pieza central del museo **Aerospace Bristol**, que abr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
-- **Fuentes primarias consultadas:** BBC News, The Telegraph, Aerospace Bristol, British Airways, Britannica, Wikipedia (EN, Concorde y G-BOAF)
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** BBC News, The Telegraph, Aerospace Bristol, British Airways, Britannica, Wikipedia (EN, Concorde y G-BOAF)
 - **Discrepancias resueltas:** Se ha confirmado que el G-BOAF es el último Concorde construido (serie 216) y el último en volar. Se ha diferenciado claramente entre el último vuelo comercial (24 de octubre de 2003) y el último vuelo de traslado (26 de noviembre de 2003). No se ha podido confirmar la tripulación completa del vuelo final, por lo que se omite o se marca como [NO CONFIRMADO].
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

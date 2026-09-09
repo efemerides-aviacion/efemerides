@@ -72,8 +72,8 @@ Recordado como símbolo de innovación y prestigio, el Concorde sigue siendo un 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia; Heritage Concorde; Airways; Business Insider; El Comercio; Transponder1200  
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia; Heritage Concorde; Airways; Business Insider; El Comercio; Transponder1200  
 - **Discrepancias resueltas:** Confirmación de rutas inaugurales (Río vía Dakar y Bahréin) y matrículas de los aviones (F‑BVFA y G‑BOAA).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

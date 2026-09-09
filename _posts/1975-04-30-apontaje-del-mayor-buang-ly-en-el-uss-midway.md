@@ -148,8 +148,8 @@ La frase de Chambers —"Mi abuela me susurraba al oído: 'Mira, idiota, no te e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** DVIDS, Naval History and Heritage Command, First Coast News, USS Midway Museum, Wikipedia
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** DVIDS, Naval History and Heritage Command, First Coast News, USS Midway Museum, Wikipedia
 - **Discrepancias resueltas:** La fecha del apontaje es el 30 de abril de 1975. Chambers se convirtió en el primer afroamericano en comandar un portaaviones en 1974, antes del apontaje. El avión se conserva en el Museo Nacional de Aviación Naval en Pensacola, Florida.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

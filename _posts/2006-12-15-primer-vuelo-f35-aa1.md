@@ -109,8 +109,8 @@ El prototipo AA-1, aunque ya no vuela, es una pieza histórica. Tras su retiro e
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST
-- **Fuentes primarias consultadas:** Lockheed Martin (comunicado oficial), F-35 official website, Wikipedia (EN/ES), FlightGlobal, National Museum of the US Air Force, Defense News, GAO
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST
+- **Fuentes primarias/institucionales consultadas:** Lockheed Martin (comunicado oficial), F-35 official website, Wikipedia (EN/ES), FlightGlobal, National Museum of the US Air Force, Defense News, GAO
 - **Discrepancias resueltas:** Duración del vuelo (38 minutos confirmada por Lockheed Martin). Se ha añadido información sobre la ubicación actual del AA-1 en el museo de la USAF. Se han corregido y actualizado las referencias rotas.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

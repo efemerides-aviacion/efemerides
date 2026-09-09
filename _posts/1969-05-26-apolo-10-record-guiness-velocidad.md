@@ -144,8 +144,8 @@ El récord de velocidad de Apolo 10 sigue siendo un hito en la historia de la ex
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Guinness World Records, NASA (Apollo 50th, Press Kit), Wikipedia (múltiples archivos), Lunar and Planetary Institute, AF.mil
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Guinness World Records, NASA (Apollo 50th, Press Kit), Wikipedia (múltiples archivos), Lunar and Planetary Institute, AF.mil
 - **Discrepancias resueltas:** Confirmación de la cifra oficial de velocidad (39.897 km/h) frente a variantes menores. Verificación de la fecha exacta del récord (26 de mayo de 1969) durante la fase de retorno. Aclaración de la discrepancia de 28.547 mph.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y Guinness World Records coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

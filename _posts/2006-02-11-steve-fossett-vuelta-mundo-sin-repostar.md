@@ -115,8 +115,8 @@ El récord de Steve Fossett en 2006 sigue siendo el vuelo sin escalas más largo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST
-- **Fuentes primarias consultadas:** Wikipedia (Fossett, GlobalFlyer), Guinness World Records, FAI, NBC News, Los Angeles Times, El Mundo, El País, National Air and Space Museum, Scaled Composites
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (Fossett, GlobalFlyer), Guinness World Records, FAI, NBC News, Los Angeles Times, El Mundo, El País, National Air and Space Museum, Scaled Composites
 - **Discrepancias resueltas:** Se ha adoptado la cifra oficial de 41.467,53 km ratificada por FAI/Guinness, aclarando las variaciones en nota aclaratoria. Se ha confirmado la matrícula N277SF. Se ha detallado el aterrizaje de emergencia y las condiciones extremas del vuelo.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

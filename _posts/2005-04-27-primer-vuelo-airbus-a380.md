@@ -155,8 +155,8 @@ El 27 de abril de 2005, el A380 despegó por primera vez. Más de dos décadas d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Fly News, Airbus (comunicado oficial), Aviacionline, Wikipedia, BBC News, EL PAÍS, Aerospace Global News
+- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Fly News, Airbus (comunicado oficial), Aviacionline, Wikipedia, BBC News, EL PAÍS, Aerospace Global News
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (27 de abril de 2005). La hora del despegue fue 10:29-10:30 (confirmado por múltiples fuentes). La duración del vuelo varía ligeramente (3h54m según SpaceNews, 3h52m según CARNOC); se incluye la discrepancia en la nota aclaratoria. El peso al despegue fue 421 toneladas (828.300 lb), no 420 o 430 como mencionan algunas fuentes.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
