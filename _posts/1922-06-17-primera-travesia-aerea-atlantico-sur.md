@@ -71,9 +71,7 @@ La prensa de ambos países siguió la expedición con gran expectación. Cada es
 - **1959:** Fallece Gago Coutinho a los 89 años
 - **2022, junio:** El Aeropuerto de Faro pasa a denominarse Aeropuerto Gago Coutinho en el centenario de la travesía
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La innovación: navegación aérea con sextante
+### La innovación: navegación aérea con sextante
 
 Por primera vez en la historia, un avión utilizó un sextante para su navegación. El sextante aeronáutico de Gago Coutinho incorporaba un horizonte artificial: un nivel de burbuja de aire que, visto a través de un sistema de espejos, ofrecía una referencia estable incluso cuando no se distinguía la línea del mar. Con este instrumento, Coutinho podía determinar la posición exacta del hidroavión midiendo la altura del sol o de las estrellas.
 
@@ -81,9 +79,7 @@ El corrector de ruta, otro invento de Coutinho, consistía en lanzar una bomba d
 
 Estos inventos revolucionaron la navegación aérea y fueron adoptados por la aviación mundial en las décadas siguientes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Los protagonistas
+### Los protagonistas
 
 Los dos hombres que hicieron posible esta gesta fueron el piloto Artur de Sacadura Cabral y el navegante Carlos Gago Coutinho. Sus trayectorias previas y posteriores a la travesía reflejan dos personalidades complementarias: el primero, audaz y visionario; el segundo, metódico e innovador.
 
@@ -99,9 +95,7 @@ Oficial naval, geógrafo y navegante experto. Inventó el sextante aeronáutico 
 
 El célebre pionero brasileño de la aviación estaba presente en la Bahía de Guanabara el día de la llegada para saludar personalmente a los aviadores portugueses.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Los hidroaviones Fairey III-D
+### Los hidroaviones Fairey III-D
 
 Los tres hidroaviones utilizados eran versiones especialmente modificadas del modelo británico Fairey III para extender su autonomía y resistencia:
 
@@ -162,7 +156,7 @@ La primera travesía aérea del Atlántico Sur es hoy una de las gestas más rec
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 13:37:19 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), Wikiwand (ES), Observador (PT), NCultura (PT)
 - **Discrepancias resueltas:** La hora exacta de salida de Lisboa varía entre las 7:00 a.m. y las 4:30 p.m. según las fuentes; se ha optado por la segunda por ser la más citada en las fuentes portuguesas. La distancia total recorrida se ha redondeado a 8.383 km según las fuentes oficiales portuguesas.
 - **Nivel de confianza:** Alto

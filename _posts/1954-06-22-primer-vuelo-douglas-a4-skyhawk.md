@@ -40,9 +40,7 @@ image: 1954-06-22-primer-vuelo-douglas-a4-skyhawk.webp
 - **Último retiro de EE. UU.:** 2003 (Armada), 1998 (Marines) 
 - **Estado actual:** El A-4 sigue en servicio activo en la Marina de Brasil (como AF-1), que en mayo de 2026 se convirtió en el último operador militar del Skyhawk tras el retiro de los A-4AR argentinos. Empresas privadas como Top Aces y Draken International también operan A-4 modernizados para entrenamiento militar.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas (A-4F Skyhawk)
+### Especificaciones Técnicas (A-4F Skyhawk)
 
 - **Tripulación:** 1 piloto (2 en versiones de entrenamiento) 
 - **Longitud:** 12,2 m (40,1 ft) 
@@ -93,9 +91,7 @@ El Skyhawk fue apodado «Heinemann's Hot Rod» (El Bólido de Heinemann) por su 
 - **2003:** Retiro de la Armada de EE. UU. 
 - **2026:** El A-4 sigue en servicio en la Marina de Brasil, que se convirtió en el último operador militar del Skyhawk tras el retiro de los A-4AR argentinos en mayo de 2026
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La filosofía de Heinemann: «Simplicate and Add Lightness»
+### La filosofía de Heinemann: «Simplicate and Add Lightness»
 
 Ed Heinemann fue uno de los diseñadores aeronáuticos más influyentes del siglo XX. Su filosofía, resumida en el lema «Simplicate and Add Lightness» (simplificar y añadir ligereza), era una reacción directa a la tendencia de la época de hacer aviones cada vez más pesados y complejos.
 
@@ -103,9 +99,7 @@ El Skyhawk fue el ejemplo perfecto de esta filosofía. Al reducir la envergadura
 
 Heinemann también simplificó la aviónica: los primeros Skyhawk carecían de radar y sistemas electrónicos complejos, confiando en la habilidad del piloto para la navegación y el bombardeo. Esto mantuvo el coste bajo y la fiabilidad alta.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Skyhawk en combate
+### El Skyhawk en combate
 
 El A-4 Skyhawk participó en algunos de los conflictos más importantes de la segunda mitad del siglo XX:
 
@@ -158,7 +152,7 @@ Apodado cariñosamente «Scooter», el Skyhawk es recordado por su fiabilidad, s
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 13:37:19 CST  
 - **Fuentes primarias/institucionales consultadas:** Smithsonian Institution, U.S. Naval Institute, The Skyhawk Association, Air & Space Forces Magazine, U.S. Navy Blue Angels, Zona Militar (2026), Infodefensa (2026), The War Zone (2026)
 - **Discrepancias resueltas:** Algunas fuentes citan el motor inicial como J65-W-2 o J65-W-4; se ha optado por la información del Smithsonian que especifica 7.200 lb de empuje para el prototipo. Las cifras de producción (2.960 unidades) son consistentes en todas las fuentes. Se ha actualizado el estado de servicio del A-4 en 2026 según fuentes de mayo de 2026.
 - **Nivel de confianza:** Alto

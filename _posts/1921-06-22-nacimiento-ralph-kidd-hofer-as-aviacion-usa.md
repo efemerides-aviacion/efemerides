@@ -58,14 +58,6 @@ Hofer era la antítesis del piloto de caza disciplinado. Su pelo largo (inusual 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Vida temprana
-
-Ralph Hofer nació como Ralph Halbrook en una granja cerca de Salem, Missouri. Su padre falleció cuando él era joven, y su madre se volvió a casar, adoptando él el apellido de su padrastro. Creció en circunstancias difíciles, lo que forjó su carácter independiente y rebelde. Antes de la guerra, estudió arte comercial en Chicago y fue boxeador aficionado en los Golden Gloves, una experiencia que le dio una disciplina física y una resistencia que le serían útiles en el combate aéreo.
-
-El 19 de julio de 1941, sin experiencia previa en aviación, se alistó impulsivamente en la Real Fuerza Aérea Canadiense (RCAF), completando su entrenamiento de vuelo en Canadá. En marzo de 1942, mientras estaba en entrenamiento, posó para una famosa fotografía de un anuncio de Coca-Cola, con la leyenda "Welcome Friend", que se hizo muy popular durante la guerra.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Desarrollo Cronológico
 
 - **22 de junio de 1921:** Nace Ralph Kidd Hofer en Salem, Missouri 
@@ -83,25 +75,25 @@ El 19 de julio de 1941, sin experiencia previa en aviación, se alistó impulsiv
 - **2 de julio de 1944:** Muere en combate durante una misión de escolta sobre Hungría, derribado por fuego antiaéreo mientras ametrallaba la base de Mostar Sud, Yugoslavia 
 - **1950:** Sus restos son repatriados a Estados Unidos y enterrados en el Cementerio Nacional de Jefferson Barracks, St. Louis, Misuri 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+### Vida temprana
 
-## El «Salem Representative»
+Ralph Hofer nació como Ralph Halbrook en una granja cerca de Salem, Missouri. Su padre falleció cuando él era joven, y su madre se volvió a casar, adoptando él el apellido de su padrastro. Creció en circunstancias difíciles, lo que forjó su carácter independiente y rebelde. Antes de la guerra, estudió arte comercial en Chicago y fue boxeador aficionado en los Golden Gloves, una experiencia que le dio una disciplina física y una resistencia que le serían útiles en el combate aéreo.
+
+El 19 de julio de 1941, sin experiencia previa en aviación, se alistó impulsivamente en la Real Fuerza Aérea Canadiense (RCAF), completando su entrenamiento de vuelo en Canadá. En marzo de 1942, mientras estaba en entrenamiento, posó para una famosa fotografía de un anuncio de Coca-Cola, con la leyenda "Welcome Friend", que se hizo muy popular durante la guerra.
+
+### El «Salem Representative»
 
 El P-51B Mustang de Hofer, número de serie 42-106924, con el código de cola QP-L, fue bautizado «Salem Representative» en honor a su ciudad natal. El avión era una de las máquinas más emblemáticas del 4th Fighter Group, y Hofer lo pilotó en sus misiones más peligrosas. En sus costados, se acumulaban las marcas de las victorias aéreas y terrestres, un testimonio de la eficacia del joven piloto.
 
 Hofer voló el «Salem Representative» en misiones de escolta de bombarderos sobre Alemania, Francia y Hungría, participando en algunas de las operaciones aéreas más importantes de la Segunda Guerra Mundial en Europa.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## El as del strafing
+### El as del strafing
 
 Hofer no solo destacó en el combate aéreo, sino que fue uno de los mejores «strafers» (especialistas en ametrallar objetivos en tierra) de la 8.ª Fuerza Aérea. Destruyó 14-15 aviones enemigos en tierra, atacando aeródromos y bases de la Luftwaffe en toda Europa.
 
 En una ocasión, durante los desembarcos del Día D, Hofer se vio obligado a aterrizar en la cabeza de playa de Normandía. Con la ayuda de las tropas aliadas, logró reparar su avión y volar de regreso a Inglaterra, llevando consigo recuerdos de guerra: un casco alemán y una copia de "Mein Kampf". Su habilidad para volar a baja altura y su agresividad en el ataque lo convirtieron en un piloto temido por los alemanes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Muerte en combate
+### Muerte en combate
 
 El 2 de julio de 1944, el 4th Fighter Group participó en una misión de escolta de bombarderos a Budapest, Hungría, junto a los 352nd y 325th Fighter Groups, volando desde bases en Foggia, Italia. Sobre el área de Budapest, encontraron una fuerza de Bf 109s. En el duro combate que siguió, cuatro P-51 fueron derribados. De los cuatro pilotos, dos fueron hechos prisioneros y dos murieron, siendo Hofer uno de ellos.
 
@@ -147,7 +139,7 @@ El «Salem Representative» es uno de los aviones más recordados del 4th Fighte
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 13:37:19 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, American Air Museum, Veteran Tributes, Grokipedia, Aces of WWII, Wikiwand, Aircrew Remembered
 - **Discrepancias resueltas:** Las cifras de victorias en tierra varían ligeramente entre 14 y 15 según las fuentes; se ha indicado el rango. El nombre de nacimiento (Halbrook) ha sido aclarado. Se ha detallado la causa exacta de su muerte (fuego antiaéreo mientras ametrallaba Mostar Sud) basándose en investigaciones posteriores.
 - **Nivel de confianza:** Alto

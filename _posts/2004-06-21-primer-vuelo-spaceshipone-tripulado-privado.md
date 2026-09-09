@@ -43,9 +43,7 @@ image: 2004-06-21-primer-vuelo-spaceshipone-tripulado-privado.webp
 - **Distinción:** Primer astronauta comercial con licencia de la FAA 
 - **Récord:** Primer vuelo espacial tripulado financiado con capital privado 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Especificaciones Técnicas (SpaceShipOne)
+### Especificaciones Técnicas (SpaceShipOne)
 
 - **Fabricante:** Scaled Composites
 - **Diseñador:** Burt Rutan
@@ -96,9 +94,7 @@ El vuelo del SpaceShipOne fue un evento mediático que capturó la atención mun
 - **4 de octubre de 2004:** SpaceShipOne gana el Premio Ansari X de 10 millones de dólares al completar dos vuelos espaciales en dos semanas con el equivalente a tres tripulantes a bordo 
 - **Posteriormente:** La nave es retirada y donada al National Air and Space Museum de Washington D.C. 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Las incidencias del vuelo
+### Las incidencias del vuelo
 
 El vuelo del SpaceShipOne no estuvo exento de problemas técnicos :
 
@@ -112,9 +108,7 @@ El vuelo del SpaceShipOne no estuvo exento de problemas técnicos :
 
 A pesar de estas dificultades, el vuelo se consideró un éxito rotundo. Como declaró Burt Rutan después del vuelo: *"La anomalía que tuvimos hoy fue el problema más serio de todo el programa, y el hecho de que nuestro sistema de respaldo funcionara y aterrizáramos perfectamente me hace sentir muy bien"*.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Los protagonistas
+### Los protagonistas
 
 Detrás del éxito del SpaceShipOne hubo tres figuras clave que hicieron posible lo que parecía imposible: un ingeniero visionario, un piloto intrépido y un inversor decidido. Cada uno de ellos desempeñó un papel fundamental en la conquista del espacio por parte de la iniciativa privada.
 
@@ -183,7 +177,7 @@ La influencia de SpaceShipOne puede rastrearse con claridad en la siguiente gene
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 13:37:19 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), El Mundo, El País, Computer Hoy, CNN, Wikipedia (flight 15P)
 - **Discrepancias resueltas:** La edad de Mike Melvill varía entre 62 y 63 años según las fuentes; se ha optado por 63 años por ser la más citada. La altitud exacta se confirma como 100,124 km. Se ha aclarado que el vuelo del 21 de junio fue una prueba de altitud para el Premio Ansari X, pero no fue un vuelo competitivo.
 - **Nivel de confianza:** Alto

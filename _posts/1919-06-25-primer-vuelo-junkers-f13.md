@@ -39,9 +39,7 @@ image: 1919-06-25-primer-vuelo-junkers-f13.webp
 - **Años de producción:** 1919-1932 
 - **Récord de altura:** 6.750 m con 8 personas a bordo (13 de septiembre de 1919) 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas (Junkers F-13)
+### Especificaciones Técnicas (Junkers F-13)
 
 - **Tripulación:** 2 pilotos (cabina semiabierta) 
 - **Capacidad de pasajeros:** 4 (cabina cerrada con calefacción) 
@@ -99,15 +97,11 @@ El F-13 era un avión de apariencia moderna y elegante. Su diseño, completament
 - **1932:** Cese de la producción; 332 unidades construidas 
 - **1938:** Los últimos F-13 de Lufthansa son retirados del servicio 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El récord de altura de septiembre de 1919
+### El récord de altura de septiembre de 1919
 
 El 13 de septiembre de 1919, apenas tres meses después de su primer vuelo, el prototipo "Herta" estableció un récord de altitud al alcanzar los **6.750 metros** (22.146 pies) con **ocho personas a bordo**, una hazaña notable para la época. El récord no fue oficialmente homologado por la FAI porque Alemania aún no era miembro de la federación internacional de aviación debido a las restricciones de la posguerra, pero Junkers aprovechó la hazaña para obtener una enorme publicidad para su nuevo avión.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Los operadores del F-13
+### Los operadores del F-13
 
 El Junkers F-13 fue un éxito de ventas internacional. Se vendió a más de 30 países.
 
@@ -130,9 +124,7 @@ El Junkers F-13 fue un éxito de ventas internacional. Se vendió a más de 30 p
 
 En 1922-1923, Hugo Junkers firmó un contrato con la Unión Soviética para producir el F-13 en una fábrica en Fili, cerca de Moscú (conocida como "Planta No. 22"). Algunos de estos aviones sirvieron en aerolíneas soviéticas y en el Ejército Rojo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El problema de las mangueras de combustible del JL-6
+### El problema de las mangueras de combustible del JL-6
 
 La versión estadounidense del F-13, producida bajo licencia por la Junkers-Larsen Corporation como JL-6, sufrió un problema crítico: las mangueras de combustible tendían a desconectarse durante maniobras bruscas. Esto provocaba fugas de combustible que a menudo se incendiaban, lo que generalmente resultaba en la destrucción del avión y la muerte de sus ocupantes. Tres de los seis JL-6 comprados por el Departamento de Correos de EE. UU. fueron destruidos de esta manera, aunque los mecánicos de Airmail lograron finalmente resolver el problema.
 
@@ -185,7 +177,7 @@ En 2021, un equipo de entusiastas completó la construcción de una réplica vol
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 13:37:19 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Junkers, Fly News, Smithsonian National Postal Museum, Deutsches Museum, PBS, Wikipedia (Archivado)
 - **Discrepancias resueltas:** El número de producción total varía entre 322 y 332 según las fuentes; se ha adoptado la cifra de 332 de This Day in Aviation. El nombre del primer prototipo era "Herta" (no "Annelise"), según la misma fuente. Se ha corregido en consecuencia.
 - **Nivel de confianza:** Alto

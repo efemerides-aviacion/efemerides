@@ -37,9 +37,7 @@ image: 1960-06-24-primer-vuelo-avro-hawker-748.webp
 - **Años de producción:** 1961-1988 
 - **Estado actual:** En servicio activo en varias fuerzas aéreas y aerolíneas 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas (Avro 748 Serie 1)
+### Especificaciones Técnicas (Avro 748 Serie 1)
 
 - **Tripulación:** 2-3 (pilotos + auxiliar de cabina)
 - **Capacidad de pasajeros:** 40-48
@@ -92,9 +90,7 @@ El Avro 748 fue el último diseño de Avro, una compañía que había producido 
 - **1984:** Lanzamiento del Super 748, con cabina modernizada y motores Dart 552-2 de mejor eficiencia 
 - **1986:** Cese de la producción en el Reino Unido (BAe 748), con 380 unidades construidas en total 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El diseño: pensado para operar en cualquier lugar
+### El diseño: pensado para operar en cualquier lugar
 
 El Avro 748 no era un avión de alta tecnología, sino un avión práctico, pensado para operar en las condiciones más difíciles:
 
@@ -103,9 +99,7 @@ El Avro 748 no era un avión de alta tecnología, sino un avión práctico, pens
 - **Hot and High:** Rendimiento optimizado para aeropuertos de gran altitud y climas cálidos (como los Andes o el Himalaya).
 - **Tiempo en tierra:** Sistema de escaleras plegables (airstairs), puertas de acceso delanteras y traseras, y un freno de hélice en el motor izquierdo que permitía el arranque autónomo. El tiempo mínimo de parada era de solo tres minutos, y podía convertirse de pasajeros a carga en 15 minutos con un equipo de 6 hombres.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Los prototipos
+### Los prototipos
 
 Se construyeron **cuatro prototipos** del Avro 748: dos para pruebas estáticas (estructura y fatiga) y dos para pruebas de vuelo.
 
@@ -113,9 +107,7 @@ El primer prototipo, **G-APZV (número de serie 1534)**, realizó el vuelo inaug
 
 El segundo prototipo, **G-ARAY (número de serie 1535)**, voló por primera vez el 10 de abril de 1961 y se convirtió en el prototipo de la Serie 2, equipado con motores Dart R.Da.7 Mk.530 de 1.910 shp.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Variantes y producción bajo licencia
+### Variantes y producción bajo licencia
 
 El éxito del Avro 748 dio lugar a numerosas variantes y a una producción bajo licencia que extendió su vida útil.
 
@@ -182,7 +174,7 @@ El 24 de junio de 1960, en un campo de aviación en Cheshire, un avión con una 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 13:37:19 CST  
 - **Fuentes primarias/institucionales consultadas:** Academic (ES), Wikiwand (ES), Wikipedia (EN), RAF Museum, Airways Magazine, Australian Aviation, AVIA PRO
 - **Discrepancias resueltas:** Algunas fuentes citan la producción total de la Serie 1 como 17, mientras que otras indican 18. La cifra más comúnmente aceptada para la producción total incluyendo todos los modelos y licencias es 380.
 - **Nivel de confianza:** Alto
