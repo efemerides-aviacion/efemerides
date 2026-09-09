@@ -3,7 +3,7 @@ layout: post
 title: "20 de febrero de 1962 | John Glenn, primer estadounidense en orbitar la Tierra"
 date: 1962-02-20
 categories: [espacial]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA – Proyecto Mercury
 excerpt: "El 20 de febrero de 1962, John H. Glenn Jr. se convirtió en el primer estadounidense en orbitar la Tierra a bordo de la cápsula Friendship 7, completando tres órbitas en 4 h 55 min."
@@ -74,7 +74,7 @@ La cápsula Friendship 7 se exhibe en el Smithsonian National Air and Space Muse
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA, Smithsonian NASM, Space Center Houston  
 - **Discrepancias resueltas:** Confirmación de duración exacta del vuelo y detalles de incidentes técnicos.  
 - **Nivel de confianza:** Alto  

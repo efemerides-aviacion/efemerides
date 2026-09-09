@@ -3,7 +3,7 @@ layout: post
 title: "10 de enero de 1954 | Descompresión explosiva del De Havilland Comet de BOAC"
 date: 1954-01-10
 categories: [accidente]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Italia / Reino Unido
 operator: BOAC
 excerpt: "Accidente del De Havilland Comet en ruta Roma–Londres por descompresión explosiva debida a fatiga estructural en zonas críticas del fuselaje."
@@ -81,7 +81,7 @@ El caso se estudia como referencia clave en ingeniería aeronáutica, destacando
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Aviation Safety Network; Encyclopaedia Britannica; Museum of Flight  
 - **Discrepancias resueltas:** Integración de hallazgos técnicos (fractura hacia afuera, sobrepresión interna, aberturas críticas) en causa oficial y contexto  
 - **Nivel de confianza:** Alto  

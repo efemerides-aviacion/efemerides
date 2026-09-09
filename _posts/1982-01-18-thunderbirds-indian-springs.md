@@ -3,7 +3,7 @@ layout: post
 title: "18 de enero de 1982 | Tragedia de los Thunderbirds en Indian Springs"
 date: 1982-01-18
 categories: [accidente]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: USAF Thunderbirds
 excerpt: "Cuatro Northrop T-38A Talon del equipo acrobático Thunderbirds se estrellaron en formación diamante durante un entrenamiento en Indian Springs, Nevada."
@@ -71,7 +71,7 @@ Los Thunderbirds regresaron a las exhibiciones en 1983, ya con aviones F‑16 Fi
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; Code7700; Aviation Safety Network; NY Times; Check-Six; Aviacionline  
 - **Discrepancias resueltas:** Confirmación de causa oficial (fallo mecánico en estabilizador del líder) y número exacto de víctimas (4 pilotos).  
 - **Nivel de confianza:** Alto  

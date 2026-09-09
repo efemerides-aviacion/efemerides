@@ -3,7 +3,7 @@ layout: post
 title: "25 de enero de 1959 | Primer vuelo transcontinental en jet de American Airlines"
 date: 1959-01-25
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: American Airlines
 excerpt: "El 25 de enero de 1959 American Airlines inauguró el primer servicio transcontinental regular en jet con un Boeing 707."
@@ -71,7 +71,7 @@ American Airlines operó 42 Boeing 707 hasta 1984; el N7503A voló hasta 1983, s
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation; UPI Archives; American Airlines News; Wikipedia; Transportation History  
 - **Discrepancias resueltas:** Confirmación de matrícula N7503A, hora exacta de despegue (09:05 PST) y duración de vuelos.  
 - **Nivel de confianza:** Alto  

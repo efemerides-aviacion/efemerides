@@ -3,7 +3,7 @@ layout: post
 title: "19 de enero de 1946 | Primer vuelo en planeo del Bell XS‑1"
 date: 1946-01-19
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: USAF / Bell Aircraft
 excerpt: "El Bell XS‑1 realizó su primer vuelo en planeo sin motor, lanzado desde un B‑29 sobre Pinecastle Army Airfield."
@@ -73,7 +73,7 @@ El Bell X‑1 es recordado como el primer avión en superar Mach 1 en vuelo nive
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA; Wikipedia; Vintage Aviation News; SPS Aviation; This Day in Aviation; Niagara Aerospace Museum  
 - **Discrepancias resueltas:** Algunas fuentes sitúan el primer planeo el 25 de enero de 1946; NASA y This Day in Aviation confirman el 19 de enero de 1946.  
 - **Nivel de confianza:** Alto  

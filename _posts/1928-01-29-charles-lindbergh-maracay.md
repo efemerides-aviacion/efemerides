@@ -3,7 +3,7 @@ layout: post
 title: "29 de enero de 1928 | Llegada de Charles Lindbergh a Maracay"
 date: 1928-01-29
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Venezuela
 operator: Ryan NYP Spirit of St. Louis
 excerpt: "El 29 de enero de 1928 Charles Lindbergh aterrizó en Maracay durante su gira de buena voluntad por América Latina."
@@ -70,7 +70,7 @@ El paso de Lindbergh por Venezuela es recordado como un hito histórico en la av
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** CharlesLindbergh.com; Prodavinci; Cámara de Caracas; Rodima; Philat.com  
 - **Discrepancias resueltas:** Confirmación de hora de llegada (18:30), duración del vuelo (10h15m) y actividades posteriores en Caracas.  
 - **Nivel de confianza:** Alto  

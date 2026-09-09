@@ -3,7 +3,7 @@ layout: post
 title: "5 de enero de 1918 | Nacimiento de Masamitsu Yoshioka, último superviviente japonés del ataque a Pearl Harbor"
 date: 1918-01-05
 categories: [nacimiento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: [Japón]
 excerpt: "Navegante del torpedero Nakajima B5N 'Kate' desde el portaaviones Sōryū en Pearl Harbor; último superviviente japonés del ataque (1918–2024)."
 image: 1918-01-05-nacimiento-masamitsu-yoshioka.webp
@@ -78,7 +78,7 @@ El ataque a Pearl Harbor transformó la guerra en el Pacífico y aceleró la ent
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Entrevista publicada (Japan Forward); obituarios corroborados (El Debate; Infobae/Washington Post); repositorio histórico (War History Online); síntesis especializada (Sandglass Patrol).  
 - **Discrepancias resueltas:** Variación toponímica del lugar de nacimiento (Noto/Notomachi) [NO CONFIRMADO hasta registro municipal]; detalle del año exacto de ingreso militar [NO CONFIRMADO].  
 - **Nivel de confianza:** Alto en fechas clave (nacimiento, fallecimiento, rol en Pearl Harbor); Medio en detalles biográficos de carrera por falta de documento primario público.  

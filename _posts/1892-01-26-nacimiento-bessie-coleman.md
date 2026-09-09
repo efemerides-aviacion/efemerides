@@ -3,7 +3,7 @@ layout: post
 title: "26 de enero de 1892 | Nacimiento de Bessie Coleman, primera mujer afroamericana con licencia internacional de piloto"
 date: 1892-01-26
 categories: [nacimiento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: —
 excerpt: "Bessie Coleman, primera mujer afroamericana y nativa americana en obtener una licencia internacional de piloto."
@@ -78,7 +78,7 @@ Recordada como pionera y símbolo de lucha contra la discriminación en la aviac
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; National Women's History Museum; Smithsonian Air & Space; PBS American Experience  
 - **Discrepancias resueltas:** Confirmación de fecha de nacimiento (26/01/1892) y fecha de obtención de licencia (15/06/1921).  
 - **Nivel de confianza:** Alto  

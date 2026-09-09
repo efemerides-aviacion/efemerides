@@ -3,7 +3,7 @@ layout: post
 title: "13 de enero de 1942 | Primera eyección desde un avión"
 date: 1942-01-13
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Alemania
 operator: Heinkel Flugzeugwerke
 excerpt: "El piloto de pruebas Helmut Schenk realizó la primera eyección documentada desde un avión en vuelo, utilizando un asiento eyectable en el Heinkel He 280."
@@ -69,7 +69,7 @@ La eyección de Schenk es recordada como el primer caso documentado en la histor
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:**  
   • This Day in Aviation – 13 January 1942 (Helmut Schenk, Heinkel He 280)  
   • Aircrew Remembered – World’s First Ejection Seat Success  

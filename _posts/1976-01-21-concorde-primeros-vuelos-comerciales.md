@@ -3,7 +3,7 @@ layout: post
 title: "21 de enero de 1976 | Primeros vuelos comerciales del Concorde"
 date: 1976-01-21
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Francia / Reino Unido
 operator: Air France / British Airways
 excerpt: "El Concorde inauguró simultáneamente su servicio comercial con vuelos de Air France y British Airways."
@@ -72,7 +72,7 @@ Recordado como símbolo de innovación y prestigio, el Concorde sigue siendo un 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; Heritage Concorde; Airways; Business Insider; El Comercio; Transponder1200  
 - **Discrepancias resueltas:** Confirmación de rutas inaugurales (Río vía Dakar y Bahréin) y matrículas de los aviones (F‑BVFA y G‑BOAA).  
 - **Nivel de confianza:** Alto  

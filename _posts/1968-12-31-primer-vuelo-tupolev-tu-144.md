@@ -3,7 +3,7 @@ layout: post
 title: "31 de diciembre de 1968 | Primer vuelo del Tupolev Tu-144"
 date: 1968-12-31
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Unión Soviética
 operator: Aeroflot / Tupolev
 excerpt: "Primer vuelo del Tupolev Tu-144, primer jet supersónico comercial del mundo (URSS), adelantándose al Concorde."
@@ -70,7 +70,7 @@ Hoy se conservan varios Tu‑144 en museos de Rusia y Alemania. Es recordado com
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; History.com; Vintage Aviation News  
 - **Discrepancias resueltas:** Variaciones en número de unidades construidas y hitos de servicio.  
 - **Nivel de confianza:** Alto  

@@ -3,7 +3,7 @@ layout: post
 title: "26 de enero de 1946 | Primer récord transcontinental en jet de William Councill"
 date: 1946-01-26
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: USAAF / USAF
 excerpt: "El Coronel William H. Councill estableció el primer récord transcontinental a reacción en EE.UU. con un Lockheed P‑80."
@@ -72,7 +72,7 @@ El vuelo de Councill es recordado como el primer récord transcontinental a reac
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation; Wikipedia; The New York Times; HistoryNet; WW2DB; Air Zoo  
 - **Discrepancias resueltas:** Se confirmó la fecha como 26 de enero de 1946.  
 - **Nivel de confianza:** Alto  

@@ -3,7 +3,7 @@ layout: post
 title: "28 de enero de 1986 | Accidente del Challenger STS‑51‑L"
 date: 1986-01-28
 categories: [espacial, accidente]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA
 excerpt: "El 28 de enero de 1986 el transbordador espacial Challenger se desintegró 73 segundos tras el despegue."
@@ -76,7 +76,7 @@ El Challenger es recordado como un símbolo de sacrificio en la exploración esp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA; Wikipedia; Britannica  
 - **Discrepancias resueltas:** Confirmación de causa técnica (O‑rings) y cronología exacta del accidente.  
 - **Nivel de confianza:** Alto  

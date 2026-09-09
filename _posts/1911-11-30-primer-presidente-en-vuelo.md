@@ -3,7 +3,7 @@ layout: post
 title: "30 de noviembre de 1911 | Primer Presidente en Vuelo"
 date: 1911-11-30
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: [México]
 operator: [George M. Dyott]
 excerpt: "Francisco I. Madero hace historia al convertirse en el primer jefe de Estado en el mundo en realizar un vuelo en avión, despegando desde los llanos de Balbuena."
@@ -59,7 +59,7 @@ Madero es recordado no solo por su papel democrático, sino como el primer "Pres
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Archivos SEDENA, Mediateca INAH.  
 - **Discrepancias resueltas:** Se confirmó la identidad del piloto y el modelo específico del monoplano.  
 - **Nivel de confianza:** Alto  

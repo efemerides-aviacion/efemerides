@@ -3,7 +3,7 @@ layout: post
 title: "31 de enero de 1958 | Primer vuelo del North American T-2 Buckeye"
 date: 1958-01-31
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: US Navy
 excerpt: "El 31 de enero de 1958 voló por primera vez el prototipo YT2J-1, luego designado T-2A Buckeye."
@@ -74,7 +74,7 @@ Entrenó a miles de aviadores navales y fue exportado a otros países, mantenié
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; USNI Naval History; Vintage Aviation News; Teton Aviation; Planes of Fame  
 - **Discrepancias resueltas:** Confirmación de designaciones (T2J-1 → T-2A) y cronología de evolución.  
 - **Nivel de confianza:** Alto  

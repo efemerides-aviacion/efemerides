@@ -3,7 +3,7 @@ layout: post
 title: "23 de enero de 1886 | Nacimiento de Luis Camilo Ramírez Rivas, primer piloto aviador venezolano"
 date: 1886-01-23
 categories: [nacimiento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Venezuela
 operator: —
 excerpt: "Luis Camilo Ramírez Rivas, primer piloto aviador y de guerra venezolano, héroe de la Primera Guerra Mundial."
@@ -88,7 +88,7 @@ Recordado como el primer piloto de guerra venezolano y héroe de la Primera Guer
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; Detalles de la Historia; Academia de Historia de Carabobo; Meer; El Carabobeño; South American Postcard  
 - **Discrepancias resueltas:** Confirmación de fecha de nacimiento (23 de enero de 1886) y circunstancias de muerte (Fez, 1935).  
 - **Nivel de confianza:** Alto  

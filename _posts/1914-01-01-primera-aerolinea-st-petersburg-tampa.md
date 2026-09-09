@@ -3,7 +3,7 @@ layout: post
 title: "1 de enero de 1914 | Primera aerolínea regular: St. Petersburg–Tampa Airboat Line"
 date: 1914-01-01
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: St. Petersburg–Tampa Airboat Line
 excerpt: "El 1 de enero de 1914 se inauguró la primera aerolínea regular del mundo con el Benoist XIV."
@@ -75,7 +75,7 @@ La creación de la St. Petersburg–Tampa Airboat Line respondió a la necesidad
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** IATA, Wikipedia, WUSF  
 - **Discrepancias resueltas:** Duración exacta del servicio (confirmado: enero–mayo 1914).  
 - **Nivel de confianza:** Alto  

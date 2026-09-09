@@ -3,7 +3,7 @@ layout: post
 title: "29 de noviembre de 1952 | Venezuela ratifica el control sobre el Archipiélago Los Monjes"
 date: 1952-11-29
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: [Venezuela]
 operator: [Fuerza Aérea Venezolana (FAV) / Armada Nacional]
 excerpt: "Venezuela ratifica su soberanía sobre el Archipiélago Los Monjes tras un intercambio diplomático con Colombia, apoyado por un despliegue de presencia aeronaval."
@@ -59,7 +59,7 @@ Hoy en día, el Archipiélago Los Monjes cuenta con presencia permanente de la A
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Archivos históricos de la Cancillería Venezolana y registros de la FAV.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “La información sobre aeronaves específicas de patrullaje en 1952 se mantiene generalizada debido a la clasificación de registros de la época”.

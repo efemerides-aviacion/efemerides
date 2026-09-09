@@ -3,7 +3,7 @@ layout: post
 title: "14 de enero de 1981 | Escuadrilla de Alta Acrobacia Halcones de Chile"
 date: 1981-01-14
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Chile
 operator: Fuerza Aérea de Chile (FACh)
 excerpt: "La Fuerza Aérea de Chile creó la Escuadrilla de Alta Acrobacia Halcones, sucesora de los Cóndores de Plata, consolidando su tradición acrobática."
@@ -67,7 +67,7 @@ Hoy son reconocidos como campeones mundiales de acrobacia aérea y embajadores d
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** FACh; Wikipedia; Hispaviación; Infodefensa  
 - **Discrepancias resueltas:** Confirmación de fechas de operación de los Cóndores de Plata (1958–1967) y creación oficial de los Halcones (1981).  
 - **Nivel de confianza:** Alto  

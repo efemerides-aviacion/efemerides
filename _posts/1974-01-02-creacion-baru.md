@@ -3,7 +3,7 @@ layout: post
 title: "2 de enero de 1974 | Creación de la Base Aérea Rafael Urdaneta en Maracaibo, estado Zulia, Venezuela"
 date: 1974-01-02
 categories: [fundacion]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Venezuela
 operator: Fuerza Aérea Venezolana
 excerpt: "El 2 de enero de 1974, por Resolución N° A-0011 del Ministro de la Defensa, General Gustavo Pardi Dávila, se creó la Base Aérea Rafael Urdaneta en el Aeropuerto Internacional de La Chinita, Maracaibo, estado Zulia, como instalación estratégica para la defensa aérea del occidente de Venezuela."
@@ -114,7 +114,7 @@ Cincuenta y dos años después de su creación, la Base Aérea Rafael Urdaneta s
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Paredes (Ediciones Históricas FAV, 1997); Museo del Transporte Caracas; Fuerza Aérea Venezolana, <em>Promociones Egresadas de la EAM 1921-1970</em> (Año Jubilar, 1970, pág. 28); Universidad Militar Bolivariana de Venezuela / Academia Militar de la Aviación Bolivariana, <em>Libro de Promociones 1920-2016</em> (2017, pág. 38)
 - **Discrepancias resueltas:** Wikipedia fecha la base en 1971; Paredes, el Museo del Transporte y la cuenta conmemorativa del Ejército Bolivariano documentan el 2 de enero de 1974. Se adopta la fecha de la fuente institucional con resolución específica. El apellido del primer comandante se corrige de «Alvarado» a «Navarro Villaroel» (una sola erre), grafía confirmada por dos publicaciones institucionales de la Fuerza Aérea: el folleto del Año Jubilar de 1970 y el libro de promociones de la AMB de 2017; los textos de Ochoa Vargas en Fav Ven usan «Villarroel» con dos erres y quedan como fuente secundaria.
 - **Datos no confirmados:** Autoridades civiles o militares asistentes al acto.

@@ -3,7 +3,7 @@ layout: post
 title: "24 de enero de 1932 | Récord París–Hanoi–París de Codos y Robida"
 date: 1932-01-24
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Francia
 operator: Paul Codos / Henri Robida
 excerpt: "Paul Codos y Henri Robida lograron un récord de velocidad en la ruta París–Hanoi–París con un Bréguet 330."
@@ -73,7 +73,7 @@ La hazaña se recuerda como uno de los grandes récords de la aviación francesa
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation; Wikipedia; SICP; Wonders of World Aviation; Centennial of Flight; FDRA Aéreo  
 - **Discrepancias resueltas:** Confirmación de horarios de salida y llegada, matrícula del avión (F‑AKEZ) y fecha exacta de récord (24/01/1932).  
 - **Nivel de confianza:** Alto  

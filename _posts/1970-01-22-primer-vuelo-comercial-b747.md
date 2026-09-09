@@ -3,7 +3,7 @@ layout: post
 title: "22 de enero de 1970 | Primer vuelo comercial del Boeing 747"
 date: 1970-01-22
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos / Reino Unido
 operator: Pan American World Airways
 excerpt: "El Boeing 747 entró en servicio comercial con Pan Am en la ruta Nueva York–Londres, inaugurando la era de los wide‑body."
@@ -75,7 +75,7 @@ El Boeing 747 es recordado como la “Reina de los Cielos”, protagonista de la
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Pan Am Historical Foundation; Wikipedia; Northwestern University; This Day in Aviation; Airways; Airport History; CultureNow; University of Miami Digital Collections  
 - **Discrepancias resueltas:** Confirmación de fecha exacta (22 de enero tras retraso del 21), matrícula del avión (N736PA) y cifra exacta de pasajeros (332 + 17 tripulantes = 349).  
 - **Nivel de confianza:** Alto  
