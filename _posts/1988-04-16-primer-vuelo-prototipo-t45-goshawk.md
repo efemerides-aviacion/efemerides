@@ -78,9 +78,7 @@ El programa recorrió una década larga desde el requerimiento inicial de la Arm
 - **Diciembre de 1997:** Se entrega el primer T-45C de serie.
 - **Noviembre de 2009:** Se entrega la unidad número 221, última de la producción.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El prototipo 162787
+### El prototipo 162787
 
 El primer Goshawk era, en apariencia, un Hawk crecido y reforzado; en la práctica, un avión sustancialmente distinto.
 
@@ -146,7 +144,7 @@ Con 221 unidades construidas entre 1988 y 2009, el Goshawk ha sido la puerta de 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-16 10:30:00 CST
+- **Timestamp de verificación:** 2026-09-09 08:13:24 CST
 - **Fuentes primarias/institucionales consultadas:** NAVAIR (ficha del T-45 Goshawk y nota del millón de horas de vuelo); United States Navy (fact file del T-45A)
 - **Fuentes secundarias de contraste:** Jane's All the World's Aircraft, Airforce Technology, Aviation Week, Wikipedia en inglés
 - **Discrepancias resueltas:** la fecha de entrada en servicio difiere entre fuentes publicadas, situada en 1991 por la Armada y NAVAIR y en 1992 por otros recuentos que toman como referencia la entrega de los primeros aviones de serie; se adopta el criterio institucional y se explicita la divergencia en nota aclaratoria

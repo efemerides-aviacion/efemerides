@@ -102,13 +102,13 @@ Del aparato original no queda nada: ardió en Berlín en 1943. Sobreviven una re
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://airandspace.si.edu/collection-objects/heinkel-von-ohain-hes-3b-turbojet-engine-reproduction/nasm_A19810039000">Smithsonian National Air and Space Museum – Heinkel (von Ohain) HeS 3B Turbojet Engine, ficha de colección A19810039000</a></li>
-    <li><a href="https://airandspace.si.edu/collection-archive/hans-von-ohain-collection/sova-nasm-1995-0059">Smithsonian National Air and Space Museum – Hans von Ohain Collection, NASM.1995.0059</a></li>
-    <li><a href="https://www.guinnessworldrecords.com/world-records/first-flight-by-a-jet-engined-aircraft">Guinness World Records – First flight by a jet-engined aircraft</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/erich-karl-warsitz/">This Day in Aviation – 27 August 1939, Heinkel He 178 V1</a></li>
-    <li><a href="https://www.historyofwar.org/articles/weapons_heinkel_he_178.html">History of War – Heinkel He 178</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Heinkel_He_178">Wikipedia (EN) – Heinkel He 178</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Erich_Warsitz">Wikipedia (EN) – Erich Warsitz</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/heinkel-von-ohain-hes-3b-turbojet-engine-reproduction/nasm_A19810039000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Heinkel (von Ohain) HeS 3B Turbojet Engine, ficha de colección A19810039000</a></li>
+    <li><a href="https://airandspace.si.edu/collection-archive/hans-von-ohain-collection/sova-nasm-1995-0059" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Hans von Ohain Collection, NASM.1995.0059</a></li>
+    <li><a href="https://www.guinnessworldrecords.com/world-records/first-flight-by-a-jet-engined-aircraft" style="color: #315fea; text-decoration: none;">Guinness World Records – First flight by a jet-engined aircraft</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/erich-karl-warsitz/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 27 August 1939, Heinkel He 178 V1</a></li>
+    <li><a href="https://www.historyofwar.org/articles/weapons_heinkel_he_178.html" style="color: #315fea; text-decoration: none;">History of War – Heinkel He 178</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Heinkel_He_178" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Heinkel He 178</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Erich_Warsitz" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Erich Warsitz</a></li>
   </ul>
 </div>
 
@@ -121,7 +121,7 @@ Del aparato original no queda nada: ardió en Berlín en 1943. Sobreviven una re
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-21 14:51:38 CST
+- **Timestamp de verificación:** 2026-09-09 08:13:24 CST
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum (ficha de colección del motor HeS 3B y archivo Hans von Ohain), Guinness World Records, U.S. Air Force (fotografía n.º 050602-F-1234P-002).
 - **Fuentes secundarias de contraste:** This Day in Aviation, History of War, Wikipedia (EN), Wikimedia Commons (ficha de licencia y autoría de la imagen).
 - **Discrepancias resueltas:** La duración del vuelo se consigna sin cifra cerrada, ante un rango de seis a quince minutos entre fuentes. La causa del final del vuelo —ingestión de ave frente a fallo o agotamiento de combustible— se omite por falta de respaldo primario. La velocidad de 598 km/h se atribuye a ensayos posteriores y no al vuelo inaugural. La identificación del prototipo se resolvió por las puntas de ala: redondeadas en el V1, que voló, y cuadradas en el V2, que no lo hizo con motor.

@@ -75,9 +75,7 @@ Antes de Kubis, las tareas de atender a los pasajeros recaían en los copilotos.
 - **6 de mayo de 1937:** El Hindenburg se incendia al aterrizar en Lakehurst, Nueva Jersey. Kubis, que estaba en el comedor, ayuda a los pasajeros a saltar y escapa por una ventana. Sobrevive al desastre y declara ante la investigación estadounidense 
 - **1979:** Fallece a los 90 años en Alemania 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Dos desastres, dos supervivencias
+### Dos desastres, dos supervivencias
 
 La carrera de Kubis estuvo marcada por dos de los accidentes más famosos de la historia de los dirigibles, y en ambos logró sobrevivir.
 
@@ -91,9 +89,7 @@ Kubis era el jefe de sobrecargos del Hindenburg en su fatídico vuelo del 6 de m
 
 Tras el accidente, Kubis declaró ante las autoridades estadounidenses, proporcionando un testimonio clave sobre los últimos momentos del Hindenburg y las condiciones a bordo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## El primer vuelo alrededor del mundo (1929)
+### El primer vuelo alrededor del mundo (1929)
 
 En 1929, Kubis participó como jefe de sobrecargos en el histórico vuelo del Graf Zeppelin alrededor del mundo. La aeronave despegó de Lakehurst, Nueva Jersey, el 8 de agosto de 1929 y regresó al mismo punto el 29 de agosto, tras 21 días, 5 horas y 31 minutos de vuelo. Fue el primer vuelo comercial alrededor del mundo, y Kubis fue testigo directo de una hazaña que capturó la imaginación del público global.
 
@@ -138,7 +134,7 @@ Kubis falleció en 1979 a los 90 años, habiendo sido testigo privilegiado de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 09:15:00 CST  
+- **Timestamp de verificación:** 2026-09-09 08:13:24 CST  
 - **Fuentes primarias/institucionales consultadas:** Guinness World Records
 - **Discrepancias resueltas:** Se ha corregido el enlace a Guinness World Records (de 91585 a 106512). Se ha actualizado el mes de contratación a «marzo de 1912» según la fuente oficial. Se ha aclarado que la experiencia de Kubis en hoteles de lujo fue previa a su contratación por DELAG. Se ha añadido enlace a la efeméride del Hindenburg.
 - **Nivel de confianza:** Alto

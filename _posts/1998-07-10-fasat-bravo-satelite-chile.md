@@ -11,7 +11,7 @@ image: 1998-07-10-fasat-bravo-satelite-chile.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1998-07-10-fasat-bravo-satelite-chile.webp" alt="Microsatélite chileno FASat-Bravo"><figcaption>Ilustración del satélite FASat‑Bravo, primer satélite chileno en órbita independiente, lanzado el 10 de julio de 1998 desde el cosmódromo de Baikonur, Kazajistán; fuente: <a href="https://www.cooperativaciencia.cl/ciencia/2023/07/10/fasat-bravo-el-satelite-chileno-que-estudio-el-pais/" style="color: #315fea; text-decoration: none;">Cooperativa Ciencia.</a></figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1998-07-10-fasat-bravo-satelite-chile.webp" alt="Microsatélite chileno FASat-Bravo"><figcaption class="post-caption">Ilustración del satélite FASat‑Bravo, primer satélite chileno en órbita independiente, lanzado el 10 de julio de 1998 desde el cosmódromo de Baikonur, Kazajistán; fuente: <a href="https://www.cooperativaciencia.cl/ciencia/2023/07/10/fasat-bravo-el-satelite-chileno-que-estudio-el-pais/" style="color: #315fea; text-decoration: none;">Cooperativa Ciencia.</a></figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
@@ -113,7 +113,7 @@ En la memoria aeroespacial de Chile, el FASat-Bravo permanece como el satélite 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-06 12:07:38 CST  
+- **Timestamp de verificación:** 2026-09-09 08:13:24 CST  
 - **Fuentes primarias/institucionales consultadas:** Museo Nacional Aeronáutico y del Espacio de Chile, Surrey Satellite Technology Ltd, eoPortal, documentación de Naciones Unidas consultada para contexto del experimento de ozono  
 - **Fuentes secundarias de contraste:** Icarito, Cooperativa Ciencia, Caracol Radio  
 - **Discrepancias resueltas:** Se mantuvo la condición de “primer satélite chileno en órbita independiente” para diferenciarlo del FASat-Alfa; se redondearon de manera conservadora la masa y algunos parámetros orbitales ante pequeñas variaciones entre fuentes  

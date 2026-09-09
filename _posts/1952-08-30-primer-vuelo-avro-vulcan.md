@@ -18,7 +18,6 @@ image: 1952-08-30-primer-vuelo-avro-vulcan.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
-
 <div class="highlight-box">
 <p>El sábado 30 de agosto de 1952, el prototipo Avro 698, matrícula VX770, despegó del aeródromo de Woodford (Cheshire) a los mandos del Comandante de Ala Roland «Roly» Falk, jefe de pilotos de pruebas de A. V. Roe. Falk voló solo, con traje de raya diplomática y casco. El aparato, pintado de blanco brillante, todavía no se llamaba Vulcan: era el Type 698, la apuesta más arriesgada de la especificación B.35/46 para un bombardero estratégico de reacción capaz de llevar el arma atómica británica.</p>
 <p>Los motores definitivos, los Bristol Olympus, no estaban listos. El VX770 despegó con cuatro turborreactores Rolls-Royce Avon RA.3 de 6.500 lbf (29 kN) de empuje cada uno, un depósito provisional en la bodega de bombas y un solo asiento eyectable, el del piloto. Tras varios circuitos sobre Woodford a unos 900 metros, Falk aterrizó sin novedad. Semanas después el gran delta apareció en Farnborough; el Air Council lo bautizó Vulcan, por el dios romano del fuego, y lo incorporó a la V-Force junto al Valiant y al Victor.</p>
@@ -129,7 +128,7 @@ Del VX770 no queda nada. El prototipo que Falk sacó de Woodford aquel sábado d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-25 05:53:24 CST
+- **Timestamp de verificación:** 2026-09-09 08:13:24 CST
 - **Fuentes primarias/institucionales consultadas:** RAF Museum (Kris Hendrix), RAF Museum / ADS Group (nota del 70.º aniversario), The National Archives / Coventry Archives (PA1716/7/1/3/25), Royal Aeronautical Society (<em>Journal of Aeronautical History</em> 2021/03)
 - **Fuentes secundarias de contraste:** Vulcan to the Sky Trust (testimonio de Peter Caldwell), Wikipedia (EN) «Avro Vulcan»
 - **Discrepancias resueltas:** la entrada en servicio se acota a julio de 1956 (230 OCU) frente al septiembre de 1956 del infobox de Wikipedia; el bautismo se sitúa en las semanas posteriores a Farnborough, sin forzar un día entre septiembre y octubre; se prefiere el testimonio presencial de Caldwell sobre el número de carenados del tren.

@@ -104,14 +104,14 @@ Francia ha conservado su memoria en el nomenclátor urbano —calles y una estac
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.fai.org/record/12391">Fédération Aéronautique Internationale – Ficha de récord n.º 12391, Jacqueline Auriol, Mirage III C, 22 de junio de 1962</a></li>
-    <li><a href="https://www.dassault-aviation.com/en/passion/news/book-vivre-et-voler/">Dassault Aviation – «Vivre et voler», reedición de la autobiografía de Jacqueline Auriol</a></li>
-    <li><a href="https://www.museeairespace.fr/aller-plus-haut/collections/dassault-mirage-iii-a/">Musée de l'Air et de l'Espace – Ficha de colección del Dassault Mirage III A</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/jacqueline-auriol/">This Day in Aviation – Jacqueline Auriol (5 de noviembre de 1917 – 11 de febrero de 2000)</a></li>
-    <li><a href="https://aviationsmilitaires.net/v3/kb/aircraft/show/2385/dassault-mirage-iii">AviationsMilitaires.net – Dassault Mirage III: historia y variantes</a></li>
-    <li><a href="https://www.air-journal.fr/2010-08-26-le-26-aout-1959-dans-le-ciel-jacqueline-auriol-vole-a-mach-2-510229.html">Air Journal – Le 26 août 1959 dans le ciel: Jacqueline Auriol vole à Mach 2</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Jacqueline_Auriol">Wikipedia (EN) – Jacqueline Auriol</a></li>
-    <li><a href="https://www.aerotime.aero/articles/28796-jacqueline-versus-jacqueline-a-supersonic-duel">AeroTime – Jacqueline versus Jacqueline: a supersonic duel</a></li>
+    <li><a href="https://www.fai.org/record/12391" style="color: #315fea; text-decoration: none;">Fédération Aéronautique Internationale – Ficha de récord n.º 12391, Jacqueline Auriol, Mirage III C, 22 de junio de 1962</a></li>
+    <li><a href="https://www.dassault-aviation.com/en/passion/news/book-vivre-et-voler/" style="color: #315fea; text-decoration: none;">Dassault Aviation – «Vivre et voler», reedición de la autobiografía de Jacqueline Auriol</a></li>
+    <li><a href="https://www.museeairespace.fr/aller-plus-haut/collections/dassault-mirage-iii-a/" style="color: #315fea; text-decoration: none;">Musée de l'Air et de l'Espace – Ficha de colección del Dassault Mirage III A</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/jacqueline-auriol/" style="color: #315fea; text-decoration: none;">This Day in Aviation – Jacqueline Auriol (5 de noviembre de 1917 – 11 de febrero de 2000)</a></li>
+    <li><a href="https://aviationsmilitaires.net/v3/kb/aircraft/show/2385/dassault-mirage-iii" style="color: #315fea; text-decoration: none;">AviationsMilitaires.net – Dassault Mirage III: historia y variantes</a></li>
+    <li><a href="https://www.air-journal.fr/2010-08-26-le-26-aout-1959-dans-le-ciel-jacqueline-auriol-vole-a-mach-2-510229.html" style="color: #315fea; text-decoration: none;">Air Journal – Le 26 août 1959 dans le ciel: Jacqueline Auriol vole à Mach 2</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Jacqueline_Auriol" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Jacqueline Auriol</a></li>
+    <li><a href="https://www.aerotime.aero/articles/28796-jacqueline-versus-jacqueline-a-supersonic-duel" style="color: #315fea; text-decoration: none;">AeroTime – Jacqueline versus Jacqueline: a supersonic duel</a></li>
   </ul>
 </div>
 
@@ -124,7 +124,7 @@ Francia ha conservado su memoria en el nomenclátor urbano —calles y una estac
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-21 13:45:00 CST
+- **Timestamp de verificación:** 2026-09-09 08:13:24 CST
 - **Fuentes primarias/institucionales consultadas:** Fédération Aéronautique Internationale (ficha de récord n.º 12391), Dassault Aviation, Musée de l'Air et de l'Espace (ficha de colección del Mirage III A 01, Le Bourget).
 - **Fuentes secundarias de contraste:** This Day in Aviation, AviationsMilitaires.net, Air Journal, AeroTime, Wikipedia (EN), Wikimedia Commons (ficha de licencia y autoría de la imagen).
 - **Discrepancias resueltas:** La fecha del récord con Mirage III C se fija el 22 de junio de 1962 conforme a la ficha de la FAI, frente a las publicaciones francesas que la sitúan en junio de 1959. La cifra de ese récord se consigna en 1.850,2 km/h según la FAI, frente a los 1.849 km/h de varias fuentes secundarias. El récord de 1963 se consigna en 2.038,70 km/h (FAI), frente a los 2.030 km/h de fuentes divulgativas. La fecha del primer paso de la barrera del sonido por Auriol varía entre el 3 y el 15 de agosto de 1953 según la fuente; se adopta el 15 de agosto, mayoritario en las publicaciones francesas.

@@ -90,9 +90,7 @@ El T-38 Talon ostenta varios títulos que aseguran su lugar en la historia:
 - **La NASA lo utiliza desde 1961:** Ininterrumpidamente como entrenador de astronautas, avión de persecución y enlace.
 - **Plataforma de récords:** En 1961, Jacqueline Cochran estableció ocho marcas mundiales de velocidad, altitud y distancia a bordo de un T-38A, entre ellas los 844,2 millas por hora (1.358,6 km/h) sobre circuito cerrado de 15 km, el 24 de agosto de aquel año.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Actualidad y relevo
+### Actualidad y relevo
 
 Sesenta y siete años después de aquel primer vuelo, el Talon sigue en las líneas de vuelo mientras se prepara su sustituto.
 
@@ -123,7 +121,7 @@ En la actualidad, el T-38 está siendo reemplazado gradualmente por el Boeing-Sa
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-16 10:05:00 CST
+- **Timestamp de verificación:** 2026-09-09 08:13:24 CST
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum (ficha del Northrop T-38 Talon); Airman Magazine, revista oficial de la United States Air Force
 - **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, GlobalMilitary.net, Warbird Alley, Super Sabre Society (referencia indirecta)
 - **Discrepancias resueltas:** las fuentes difieren sobre la fecha del primer vuelo, que unas sitúan el 10 de marzo de 1959 y otras el 10 de abril del mismo año, y sobre el lugar del despegue inicial, atribuido a la fábrica de Hawthorne o a la Base Aérea Edwards; ambas divergencias se explicitan en nota aclaratoria y se conserva la datación de marzo en el título y en los datos principales

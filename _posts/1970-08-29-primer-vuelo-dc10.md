@@ -18,7 +18,6 @@ image: 1970-08-29-primer-vuelo-dc10.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
-
 <div class="highlight-box">
 <p>El 29 de agosto de 1970, el prototipo del McDonnell Douglas DC-10, matrícula N10DC y número de serie 46500, despegó del aeropuerto de Long Beach (California) con destino a la base aérea de Edwards. Al mando iba el piloto de pruebas de la compañía Clifford L. Stout, con Harris C. Van Valkenburg como copiloto, John D. Chamberlain como ingeniero de vuelo y Shojun Yukawa como ingeniero de ensayos. El vuelo duró tres horas y treinta y seis minutos, durante las cuales el aparato alcanzó 300 nudos y 9.150 metros de altitud mientras se evaluaban sus características de vuelo y sus sistemas.</p>
 <p>Era el primer gran avión de pasajeros de <strong>fuselaje ancho</strong> construido por McDonnell Douglas, y el tercer trimotor de pasillo doble de la historia, después del Boeing 747, que había volado el año anterior. Concebido para rutas medias y largas con dos pasillos y entre 250 y 380 plazas, el DC-10 se convertiría en uno de los reactores más populares —y más controvertidos— de la era dorada de los grandes aviones comerciales.</p>
@@ -122,7 +121,7 @@ El prototipo N10DC, protagonista del vuelo del 29 de agosto de 1970, no se conse
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-24 09:23:31 CST
+- **Timestamp de verificación:** 2026-09-09 08:13:24 CST
 - **Fuentes primarias/institucionales consultadas:** NTSB (informe AAR-79-17), Federal Aviation Administration / Federal Register (SFAR 41), Pima Air & Space Museum
 - **Discrepancias resueltas:** la suspensión del certificado de tipo se acota a fechas y causas precisas (6 de junio a 13 de julio de 1979, tras el vuelo 191); se matiza la afirmación sobre la siniestralidad posterior del modelo para no presentarla como la menor de su categoría, sino como comparable a la de otros reactores anchos coetáneos tras las modificaciones.
 - **Nivel de confianza:** Alto

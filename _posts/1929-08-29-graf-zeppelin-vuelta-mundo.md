@@ -18,7 +18,6 @@ image: 1929-08-29-graf-zeppelin-vuelta-mundo.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
-
 <div class="highlight-box">
 <p>La mañana del 29 de agosto de 1929, el dirigible rígido alemán <em>LZ 127 Graf Zeppelin</em>, al mando del doctor <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1868/08/10/nacimiento-hugo-eckener-comandante-graf-zeppelin.html" style="color: #315fea; text-decoration: none;">Hugo Eckener</a>, aterrizó en la Estación Aeronaval de Lakehurst (Nueva Jersey) y cerró la primera circunnavegación del planeta realizada por una aeronave que transportaba pasajeros. Había partido del mismo muelle de amarre el 8 de agosto rumbo al este, con escalas en Friedrichshafen (Alemania), Tokio y Los Ángeles.</p>
 <p>El viaje, bautizado en alemán como <em>Weltfahrt</em> («viaje mundial»), cubrió 33.234 kilómetros en 21 días, 5 horas y 31 minutos, con un tiempo real de vuelo de 12 días, 12 horas y 13 minutos. Financiado en parte por el magnate periodístico estadounidense William Randolph Hearst, convirtió a Eckener en una celebridad internacional y demostró que el dirigible podía enlazar continentes con pasajeros y correo de pago.</p>
@@ -114,7 +113,7 @@ La <em>Weltfahrt</em> de 1929 permanece como la primera y única circunnavegaci�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
+- **Timestamp de verificación:** 2026-09-09 08:13:24 CST  
 - **Fuentes primarias/institucionales consultadas:** Federación Aeronáutica Internacional (FAI), Encyclopædia Britannica, U.S. Centennial of Flight Commission, Airship Heritage Trust
 - **Discrepancias resueltas:** fecha de partida (7 u 8 de agosto según zona horaria); punto de inicio y cierre del viaje (Lakehurst para la versión Hearst, Friedrichshafen para la alemana). Se adopta la versión Lakehurst-Lakehurst, culminada el 29 de agosto de 1929, que es la que conmemora la efeméride y coincide con el criterio editorial de fecha de culminación.
 - **Nivel de confianza:** Alto

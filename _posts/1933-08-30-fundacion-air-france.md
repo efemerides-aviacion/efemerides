@@ -18,7 +18,6 @@ image: 1933-08-30-fundacion-air-france.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
-
 <div class="highlight-box">
 <p>El 30 de agosto de 1933 se depositó en el tribunal de comercio del Sena el acta de constitución de la <strong>Société Air France</strong>, con un capital de 120 millones de francos y sede social en el número 2 de la rue Marbeuf de París, en los locales que hasta entonces ocupaba Air Orient. La nueva compañía nacional nació de la fusión de las cinco principales empresas de transporte aéreo francesas, impulsada por el ministro del Aire Pierre Cot para poner fin a una competencia ruinosamente fragmentada en plena crisis económica.</p>
 <p>Las cinco compañías aportaron una red de 37.825 kilómetros que unía Francia con Argel, Túnez, Casablanca, las capitales europeas, Beirut, Damasco, Saigón, Bangkok, Calcuta, Rangún y, por la ruta del Atlántico Sur, Santiago de Chile. El 7 de octubre de 1933, en el aeropuerto de Le Bourget, Pierre Cot inauguró oficialmente Air France y Ernest Roume, exgobernador colonial y último presidente de Air Orient, asumió la presidencia. El periodista Georges Raffalovitch había propuesto el nombre en una rueda de prensa el día de la constitución.</p>
@@ -122,7 +121,7 @@ El cartel de Dransy de 1933 que ilustra este post sigue siendo el emblema visual
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-24 14:54:34 CST
+- **Timestamp de verificación:** 2026-09-09 08:13:24 CST
 - **Fuentes primarias/institucionales consultadas:** Air France (sitio corporativo y dossier del 90 aniversario), Bibliothèque nationale de France / Gallica, Securities and Exchange Commission
 - **Discrepancias resueltas:** número de compañías fundadoras (cuatro fusiones inmediatas frente a cinco históricas, se adoptan cinco según Air France); año del nacimiento de Air France-KLM (2003 para el anuncio, 2004 para la constitución, se documentan ambos)
 - **Nivel de confianza:** Alto

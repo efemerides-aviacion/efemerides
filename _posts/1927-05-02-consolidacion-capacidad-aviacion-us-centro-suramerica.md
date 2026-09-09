@@ -69,9 +69,7 @@ La aviación en la década de 1920 cautivaba la imaginación del público. Tan s
 - **Marzo - abril de 1927:** Recorrido por Uruguay, Paraguay, Brasil, las Guayanas, Venezuela, las Antillas y la costa este de EE. UU.
 - **2 de mayo de 1927:** Llegada a Bolling Field, Washington D.C. El presidente Coolidge recibe a los aviadores y les otorga la Distinguished Flying Cross
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La tripulación
+### La tripulación
 
 La expedición estuvo compuesta por diez pilotos, dos por cada aeronave:
 
@@ -81,9 +79,7 @@ La expedición estuvo compuesta por diez pilotos, dos por cada aeronave:
 - ***Detroit:*** Capitán Clinton F. Woolsey y Teniente John W. Benton
 - ***St. Louis:*** Teniente Bernard S. Thompson y Teniente Leonard D. Weddington
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El accidente en Buenos Aires
+### El accidente en Buenos Aires
 
 El 26 de febrero de 1927, cuando los aviones se preparaban para aterrizar en el campo de aviación de El Palomar, provincia de Buenos Aires, el Detroit sufrió un desperfecto en el mecanismo que permitía bajar el tren de aterrizaje. Para solucionarlo, el Teniente Benton salió al ala con la intención de accionar manualmente los cables, una maniobra extremadamente arriesgada que le impedía usar paracaídas.
 
@@ -140,7 +136,7 @@ Los participantes del vuelo tuvieron destacadas carreras posteriores. Ira C. Eak
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-06 07:55:05 CST  
+- **Timestamp de verificación:** 2026-09-09 08:13:24 CST  
 - **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (Smithsonian), National Museum of the USAF (.mil), Aviation Safety Network, University of Texas at Dallas
 - **Discrepancias resueltas:** La información proporcionada por el usuario era mayormente correcta. Se precisa que el accidente involucró una colisión entre dos aviones, no dos accidentes separados. Los fallecidos (2) tripulaban el mismo avión (Detroit). La ruta de cruce de los Andes fue Valdivia-Bahía Blanca, no directamente a Buenos Aires. Las cifras de 35.200 km, 59 días de vuelo, 74 días de escalas y finalización el 2 de mayo de 1927 son completamente correctas.
 - **Nivel de confianza:** Alto
