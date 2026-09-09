@@ -65,8 +65,8 @@ El prototipo Sea Vampire LZ551/G se conserva en el Fleet Air Arm Museum en Yeovi
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Guinness World Records, This Day in Aviation, Fleet Air Arm Museum  
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Guinness World Records, This Day in Aviation, Fleet Air Arm Museum  
 - **Discrepancias resueltas:** Corrección de denominación errónea (“Sea Venom”) a Sea Vampire Mk.10.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

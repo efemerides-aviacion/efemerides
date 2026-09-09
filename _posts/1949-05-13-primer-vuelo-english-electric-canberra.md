@@ -201,8 +201,8 @@ Agradecemos al General Paredes Niño por su aporte y al Coronel Quintero por su 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 22:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), This Day in Aviation, Zona Militar, National Air and Space Museum, FAV Club (artículo de Omar Quintero), testimonio oral del General Paredes Niño.
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), This Day in Aviation, Zona Militar, National Air and Space Museum, FAV Club (artículo de Omar Quintero), testimonio oral del General Paredes Niño.
 - **Discrepancias resueltas en esta versión:** 
   - Se ha corregido la atribución del primer comandante del Grupo Nº13, asignándoselo al Mayor Fernando Paredes Bello (27 de julio de 1961).
   - Se ha precisado que en 1964 no todo el Grupo Nº13 se trasladó a Barquisimeto; el Comando del G13 y el Escuadrón B-39 permanecieron en Palo Negro.

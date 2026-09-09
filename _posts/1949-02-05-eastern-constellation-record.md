@@ -67,8 +67,8 @@ El récord de Eastern Air Lines fue un hito en la aviación comercial de posguer
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation; Aircraft Investigation; Wikipedia  
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation; Aircraft Investigation; Wikipedia  
 - **Discrepancias resueltas:** Confirmación de duración exacta del vuelo y tripulación.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

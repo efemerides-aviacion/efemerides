@@ -107,7 +107,7 @@ El 24 de junio de 1921, en el centenario de Carabobo, un joven piloto francés d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** FAV Club, Academia de la Historia del Estado Carabobo, Fundación Arquitectura y Ciudad, CLAC 
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** FAV Club, Academia de la Historia del Estado Carabobo, Fundación Arquitectura y Ciudad, CLAC 
 - **Nivel de confianza:** Medio
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

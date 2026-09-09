@@ -172,8 +172,8 @@ El 13 de octubre de 2022, se inauguró un busto en honor a Nikolai Sutyagin en e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST
-- **Fuentes primarias consultadas:** Wikipedia (EN), EcuRed, MiGavia, MiGFlug, History.ru, SimplePlanes
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), EcuRed, MiGavia, MiGFlug, History.ru, SimplePlanes
 - **Discrepancias resueltas:** Las fuentes rusas coinciden en 22 victorias para Sutyagin (Wikipedia, EcuRed, archivos). Las fuentes occidentales (como SimplePlanes) mencionan la controversia. Se ha optado por priorizar la cifra de los archivos rusos desclasificados. La fecha de nacimiento (5 de mayo de 1923) es consistente en todas las fuentes, así como la de fallecimiento (12 de noviembre de 1986). El busto fue inaugurado el 13 de octubre de 2022 en Nizhny Novgorod.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

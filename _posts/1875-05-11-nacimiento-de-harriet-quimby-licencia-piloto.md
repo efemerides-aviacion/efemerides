@@ -179,8 +179,8 @@ Hoy, Harriet Quimby sigue siendo un ejemplo de valentía, determinación y pasi�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 14:52:48 CST
-- **Fuentes primarias consultadas:** Wikipedia (ES), Encyclopaedia Britannica, BBC, Worldkings, Converse University, Chicago Tribune
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), Encyclopaedia Britannica, BBC, Worldkings, Converse University, Chicago Tribune
 - **Discrepancias resueltas:** La fecha de nacimiento aceptada es el 11 de mayo de 1875, no 1885 (la fecha que ella declaraba). El lugar de nacimiento más aceptado es Arcadia, Michigan, aunque existe controversia. La duración del vuelo del Canal varía entre 59 minutos y 1 hora 9 minutos (69 minutos); se incluyen ambas cifras. La causa del accidente no está esclarecida del todo; las fuentes mencionan la posibilidad de que el pasajero se moviera y desestabilizara el avión o una ráfaga de viento.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

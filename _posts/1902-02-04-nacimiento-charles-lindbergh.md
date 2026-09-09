@@ -70,8 +70,8 @@ El nacimiento de Lindbergh coincidió con el auge de la aviación temprana. Su v
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia; Britannica; Biography.com; CharlesLindbergh.com; Smithsonian; San Diego Air & Space Museum  
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia; Britannica; Biography.com; CharlesLindbergh.com; Smithsonian; San Diego Air & Space Museum  
 - **Discrepancias resueltas:** Confirmación de fecha y lugar de nacimiento, trayectoria inicial en aviación.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

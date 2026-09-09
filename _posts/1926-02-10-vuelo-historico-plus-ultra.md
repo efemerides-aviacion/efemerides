@@ -71,8 +71,8 @@ El rey Alfonso XIII donó el Plus Ultra a Argentina en 1926. Sirvió como avión
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN y ES), prensa española y argentina, ACAMI, Infobae, estudios académicos, Testdelayer, El Civismo, Monumentalnet  
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN y ES), prensa española y argentina, ACAMI, Infobae, estudios académicos, Testdelayer, El Civismo, Monumentalnet  
 - **Discrepancias resueltas:** destino final del avión (original en Argentina, réplica en Madrid)  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

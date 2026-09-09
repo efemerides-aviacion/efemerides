@@ -107,8 +107,8 @@ La Escuadrilla de Humo es un símbolo de la innovación y el espíritu pionero, 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Aerobatic Teams, Spotter, Viva Brazil
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Aerobatic Teams, Spotter, Viva Brazil
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (14 de mayo de 1952). La denominación oficial "Escuadrón de Demostración Aérea" se adoptó en 1982, no en su fundación. El número total de aeronaves iniciales se establece en 4.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

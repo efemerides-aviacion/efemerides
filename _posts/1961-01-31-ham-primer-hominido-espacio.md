@@ -79,8 +79,8 @@ HAM es recordado como el primer “astrochimp” y pionero de la exploración es
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST  
-- **Fuentes primarias consultadas:** NASA; Smithsonian; Britannica; Wikipedia; DNCR; Armed Forces Medical Museum  
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** NASA; Smithsonian; Britannica; Wikipedia; DNCR; Armed Forces Medical Museum  
 - **Discrepancias resueltas:** Confirmación de altitud máxima, duración exacta del vuelo y cronología post‑misión.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

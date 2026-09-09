@@ -72,8 +72,8 @@ La misión Luna 9 representó un hito en la exploración espacial, al demostrar 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST  
-- **Fuentes primarias consultadas:** NASA; ESA; RussianSpaceWeb; Smithsonian; BBC; Space.com  
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** NASA; ESA; RussianSpaceWeb; Smithsonian; BBC; Space.com  
 - **Discrepancias resueltas:** Confirmación de hora exacta de alunizaje y número de imágenes transmitidas.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

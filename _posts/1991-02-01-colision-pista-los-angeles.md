@@ -84,8 +84,8 @@ El accidente es recordado como un caso emblemático de “runway collision” y 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST  
-- **Fuentes primarias consultadas:** NTSB; FAA; SKYbrary; Wikipedia; Aviation Safety Network; Los Angeles Times  
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** NTSB; FAA; SKYbrary; Wikipedia; Aviation Safety Network; Los Angeles Times  
 - **Discrepancias resueltas:** Confirmación de número de víctimas y causas probables.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

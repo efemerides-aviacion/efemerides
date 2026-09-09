@@ -66,8 +66,8 @@ image: 1910-02-06-primer-vuelo-oficial-argentina-sudamerica.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia; La Nación; Todo Provincial; Latitud Argentina; Billiken; Early Aviators; Municipalidad Almirante Brown  
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia; La Nación; Todo Provincial; Latitud Argentina; Billiken; Early Aviators; Municipalidad Almirante Brown  
 - **Discrepancias resueltas:** Confirmación de fecha, lugar y homologación oficial del vuelo.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

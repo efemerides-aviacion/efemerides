@@ -67,8 +67,8 @@ El Silver Dart fue el resultado de los trabajos de la Aerial Experiment Associat
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Nova Scotia Archives, Parks Canada, Canada Aviation Museum  
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Nova Scotia Archives, Parks Canada, Canada Aviation Museum  
 - **Discrepancias resueltas:** Distancia recorrida (800–1.200 m) y velocidad aproximada (60–65 km/h).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -47,8 +47,8 @@ El vuelo supersónico de estos tres jóvenes oficiales marcó un hito en la hist
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** FAV (Facebook), testimonios en redes sociales, Wikipedia, documentación sobre el F‑86F Sabre  
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** FAV (Facebook), testimonios en redes sociales, Wikipedia, documentación sobre el F‑86F Sabre  
 - **Discrepancias resueltas:** Confirmación de fecha y nombres de los tres pilotos  
 - **Nivel de confianza:** Medio-Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

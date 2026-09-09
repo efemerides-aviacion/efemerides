@@ -70,8 +70,8 @@ El vuelo de Hawks y Grubb representó un hito en la aviación comercial y técni
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia; This Day in Aviation; Aviation Week  
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia; This Day in Aviation; Aviation Week  
 - **Discrepancias resueltas:** Confirmación de tiempo exacto de vuelo y rol de Oscar Grubb como ingeniero de vuelo.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -155,8 +155,8 @@ El "Pájaro Blanco" es un recordatorio de que, en la conquista del cielo, la his
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES), National Geographic, WarHistory.org, Chemins de mémoire, Daily Mail
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), National Geographic, WarHistory.org, Chemins de mémoire, Daily Mail
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del despegue (8 de mayo de 1927) y la hora (5:17 a.m.). La autonomía varía entre 40 y 42 horas. El peso al despegue fue de 5.000 kg. Las versiones sobre la ruta y posibles avistamientos posteriores varían, pero se presentan como teorías no confirmadas.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

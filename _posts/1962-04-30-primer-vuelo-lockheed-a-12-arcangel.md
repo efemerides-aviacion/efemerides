@@ -156,8 +156,8 @@ El primer prototipo, el artículo 121, completó un total de 322 vuelos y 418,2 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES), This Day in Aviation, Flight Test Historical Foundation, The War Zone, Aerial Visuals
+- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), This Day in Aviation, Flight Test Historical Foundation, The War Zone, Aerial Visuals
 - **Discrepancias resueltas:** Las fuentes presentan tres fechas para el primer vuelo: 25 de abril (vuelo no oficial durante taxi), 26 de abril (primer vuelo planificado de Lockheed) y 30 de abril de 1962 (vuelo oficial para la CIA). Esta efeméride conmemora la fecha del vuelo oficial para el cliente, que es la más relevante desde la perspectiva del programa OXCART. El piloto fue Louis Schalk.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
