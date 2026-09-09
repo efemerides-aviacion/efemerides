@@ -142,8 +142,8 @@ Joseph Vogel, director de Hipersónicos de Boeing, declaró: *"Este es un nuevo 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Boeing Newsroom, U.S. Air Force, Wikipedia (EN/ES), DVIDS, China Daily
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Boeing Newsroom, U.S. Air Force, Wikipedia (EN/ES), DVIDS, China Daily
 - **Discrepancias resueltas:** Confirmación de la duración del vuelo scramjet (140 segundos) frente a la duración total del vuelo autónomo (más de 200 segundos). Verificación del retraso de 24 horas por la presencia de un barco de carga. Confirmación del récord anterior de 12 segundos del X-43.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y de medios especializados coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

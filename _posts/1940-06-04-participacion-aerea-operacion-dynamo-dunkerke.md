@@ -147,8 +147,8 @@ El 4 de junio de 1940 no es solo la fecha en que terminó la evacuación de Dunk
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Imperial War Museum, Encyclopaedia Britannica, Infobae, World History Encyclopedia
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Imperial War Museum, Encyclopaedia Britannica, Infobae, World History Encyclopedia
 - **Discrepancias resueltas:** Confirmación de la fecha de finalización (4 de junio de 1940). Verificación del número total de evacuados (338.226). Aclaración de las pérdidas de la RAF y la Luftwaffe.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

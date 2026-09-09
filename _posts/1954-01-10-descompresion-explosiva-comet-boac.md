@@ -81,8 +81,8 @@ El caso se estudia como referencia clave en ingeniería aeronáutica, destacando
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias consultadas:** Aviation Safety Network; Encyclopaedia Britannica; Museum of Flight  
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Aviation Safety Network; Encyclopaedia Britannica; Museum of Flight  
 - **Discrepancias resueltas:** Integración de hallazgos técnicos (fractura hacia afuera, sobrepresión interna, aberturas críticas) en causa oficial y contexto  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

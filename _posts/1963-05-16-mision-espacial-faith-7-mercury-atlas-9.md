@@ -176,8 +176,8 @@ Gordon Cooper volaría de nuevo en agosto de 1965 como comandante de la misión 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** NASA (.gov), Smithsonian Institution, Encyclopedia Astronautica, Encyclopaedia Britannica
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** NASA (.gov), Smithsonian Institution, Encyclopedia Astronautica, Encyclopaedia Britannica
 - **Discrepancias resueltas:** La misión Faith 7 despegó el 15 de mayo de 1963 y amerizó el 16 de mayo de 1963, tras 34 horas, 19 minutos y 49 segundos en el espacio. El lanzamiento fue transmitido en vivo por televisión. Cooper fue el sexto estadounidense en el espacio y el último en volar solo en una misión orbital estadounidense.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

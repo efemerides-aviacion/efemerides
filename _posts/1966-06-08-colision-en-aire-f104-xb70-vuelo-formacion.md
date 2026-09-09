@@ -159,8 +159,8 @@ El accidente del 8 de junio de 1966 es recordado como una de las tragedias más 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 22:03:38 CST
-- **Fuentes primarias consultadas:** CLUI, Wikipedia, Aviation Safety Network, MiGFlug, Military.com
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST
+- **Fuentes primarias/institucionales consultadas:** CLUI, Wikipedia, Aviation Safety Network, MiGFlug, Military.com
 - **Discrepancias resueltas:** Confirmación de la fecha del accidente (8 de junio de 1966). Verificación de la altitud de vuelo (30.000 pies) y la secuencia del accidente. Aclaración de la causa (vórtice de estela del XB-70). Identificación de los tres protagonistas y sus destinos.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

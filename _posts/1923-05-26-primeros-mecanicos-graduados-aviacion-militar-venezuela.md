@@ -183,8 +183,8 @@ El legado de Salas Agelvis perdura en cada técnico que hoy mantiene las aeronav
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** Archivo Historias y Personajes FAV (Facebook), Freddy L. Pedrique (publicación), Noticias Defensa, Wikipedia (Caudron G.3), Froilán Ramos-Rodríguez (UCAB)
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Archivo Historias y Personajes FAV (Facebook), Freddy L. Pedrique (publicación), Noticias Defensa, Wikipedia (Caudron G.3), Froilán Ramos-Rodríguez (UCAB)
 - **Discrepancias resueltas:** Confirmación de la fecha de ingreso de Salas Agelvis (16/2/1921) y su calificación (99/100). Resolución parcial de la discrepancia sobre el año del vuelo de "La Chiva" (1923 vs 1924), mencionando ambas posibilidades en la nota aclaratoria.
 - **Datos no confirmados:** La fecha exacta del 26 de mayo de 1923 no ha sido verificada en fuentes externas independientes, pero es consistente con la cronología general documentada.
 - **Nivel de confianza:** Alto (múltiples fuentes, incluyendo archivos de historia de la FAV, coinciden en los datos biográficos y contextuales)

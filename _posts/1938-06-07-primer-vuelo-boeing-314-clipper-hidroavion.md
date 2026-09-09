@@ -206,8 +206,8 @@ El Boeing 314 Clipper es recordado como un icono de la "Edad de Oro de la Aviaci
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** HistoryLink, Airways Magazine, Wikipedia (EN/ES), San Diego Air & Space Museum, Boeing
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** HistoryLink, Airways Magazine, Wikipedia (EN/ES), San Diego Air & Space Museum, Boeing
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (7 de junio de 1938). Verificación de las especificaciones técnicas (envergadura 46,33 m, autonomía 5.633 km). Aclaración de las modificaciones posteriores (de deriva única a triple deriva). Adición de párrafo introductorio en la sección de especificaciones técnicas.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

@@ -157,8 +157,8 @@ El accidente del 27 de mayo de 1952 dejó una huella imborrable en la historia d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** Aviation Safety Network (ASN), Visconti Osorio (Calaméo, 2023), Archivo Historias y Personajes FAV, Freddy Pedrique, FAV Club, Fuerza Aérea Venezolana FAV (Facebook), Angel Magallanes
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Aviation Safety Network (ASN), Visconti Osorio (Calaméo, 2023), Archivo Historias y Personajes FAV, Freddy Pedrique, FAV Club, Fuerza Aérea Venezolana FAV (Facebook), Angel Magallanes
 - **Discrepancias resueltas:** Confirmación de la fecha y lugar del accidente mediante ASN. Verificación de la víctima en tierra. Confirmación de la supervivencia de Rafael Jelambi Terán mediante paracaídas desde 7.000 pies. Identificación de discrepancia sobre el tercer piloto (Berzares vs. Suárez Mier y Terán), documentada en nota aclaratoria.
 - **Nivel de confianza:** Alto (múltiples fuentes coinciden en los datos fundamentales; la discrepancia del tercer piloto está claramente documentada)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

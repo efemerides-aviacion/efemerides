@@ -182,8 +182,8 @@ El raid Roma-Tokyo es recordado como una de las grandes epopeyas aéreas del sig
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Panorama, La Stampa, South China Morning Post, Wikipedia italiano (Roberto Maretto)
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Panorama, La Stampa, South China Morning Post, Wikipedia italiano (Roberto Maretto)
 - **Discrepancias resueltas:** Confirmación de la fecha de llegada (31 de mayo de 1920) como fecha oficial de finalización del raid. Aclaración de la diferencia entre Ferrarin (vuelo completo) y Masiero (vuelo parcial). Verificación de las horas de vuelo (112 horas como cifra más aceptada). Incorporación de datos biográficos de Roberto Maretto.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

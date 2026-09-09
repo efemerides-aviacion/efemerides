@@ -142,8 +142,8 @@ Charles Rolls es recordado como un pionero del automovilismo y la aviación, y s
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Guinness World Records, English Heritage, TopGear, Wheels-Alive, Sociedad Aeronáutica
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Guinness World Records, English Heritage, TopGear, Wheels-Alive, Sociedad Aeronáutica
 - **Discrepancias resueltas:** Confirmación de la fecha (2 de junio de 1910) en todas las fuentes. Verificación de la aeronave (Wright Model A). Confirmación de la duración (95 minutos). Aclaración de la diferencia con el vuelo de Blériot.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

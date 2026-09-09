@@ -144,8 +144,8 @@ La Operación Focus es considerada una de las victorias aéreas más decisivas d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Jewish Virtual Library, Smithsonian Institution, The National Interest
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Jewish Virtual Library, Smithsonian Institution, The National Interest
 - **Discrepancias resueltas:** Confirmación de la fecha (5 de junio de 1967) y hora (07:45) del inicio de la operación. Verificación de las cifras de aviones destruidos (452) y pérdidas israelíes (19-46). Aclaración de la diferencia entre ataque preventivo y ataque preemptivo, definiendo este último como "acción preventiva ofensiva".
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

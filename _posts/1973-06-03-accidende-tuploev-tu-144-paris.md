@@ -166,8 +166,8 @@ El accidente del Tu-144 en París sigue siendo uno de los más trágicos y contr
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, Wikipedia (EN/ES), Aviation Safety Network, AeroMagazine, BAAA
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Wikipedia (EN/ES), Aviation Safety Network, AeroMagazine, BAAA
 - **Discrepancias resueltas:** Confirmación de la fecha (3 de junio de 1973) en todas las fuentes. Verificación del número de víctimas (14 total). Aclaración del papel del Mirage III R en la maniobra evasiva. Inclusión del enlace a la efeméride del primer vuelo del Tu-144 (31 de diciembre de 1968) como contexto histórico.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

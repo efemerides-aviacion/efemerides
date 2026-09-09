@@ -166,8 +166,8 @@ Frank Whittle es reconocido como uno de los grandes inventores del siglo XX. Su 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), Britannica, Royal Society, National Inventors Hall of Fame, Noticias de la Ciencia
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Britannica, Royal Society, National Inventors Hall of Fame, Noticias de la Ciencia
 - **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (1 de junio de 1907) en todas las fuentes. Aclaración de la controversia Whittle vs. von Ohain, reconociendo a ambos como coinventores. Verificación de la fecha del primer vuelo del Gloster E.28/39 (15 de mayo de 1941).
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -151,8 +151,8 @@ Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviaci
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-19 16:10:00 CST  
-- **Fuentes primarias consultadas:** Smithsonian National Air and Space Museum, Hawaii Aviation History (Archivo Oficial del Estado), Amelia Earhart Official Biography, Wikipedia (EN/ES), National Geographic, History.com
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum, Hawaii Aviation History (Archivo Oficial del Estado), Amelia Earhart Official Biography, Wikipedia (EN/ES), National Geographic, History.com
 - **Discrepancias resueltas:**
   - Distancia del vuelo: 2.408 millas según el registro oficial de la NAA; algunas fuentes citan 2.400 millas redondeadas.
   - Hora de despegue: 16:40 (hora de Hawái) confirmada por fuentes oficiales.

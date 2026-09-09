@@ -179,8 +179,8 @@ Los Thunderbirds son considerados **"los embajadores azules"** de la Fuerza Aér
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Code One Magazine, Wikipedia, Britannica, Homestead AFB, DVIDS, Pacific Wrecks
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Code One Magazine, Wikipedia, Britannica, Homestead AFB, DVIDS, Pacific Wrecks
 - **Discrepancias resueltas:** Confirmación de la fecha oficial de activación (1 de junio de 1953) frente a menciones de "mayo de 1953" en fuentes generalistas. Verificación del avión inicial (F-84G Thunderjet) y de la primera exhibición (16 de junio de 1953). Corrección de la fecha del accidente de 1982 (18 de enero, no "enero" sin día).
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales, incluyendo la Fuerza Aérea de EE. UU., coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

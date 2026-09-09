@@ -160,8 +160,8 @@ El Curtiss NC-4 es recordado como el primer avión en cruzar el océano Atlánti
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Naval History and Heritage Command (Navy.mil), Smithsonian Institution, United States Navy Memorial, Wikipedia, Guinness World Records, Britannica
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Naval History and Heritage Command (Navy.mil), Smithsonian Institution, United States Navy Memorial, Wikipedia, Guinness World Records, Britannica
 - **Discrepancias resueltas:** Confirmación de la fecha de llegada a Plymouth (31 de mayo de 1919). Verificación de la discrepancia en el tiempo total de vuelo (57h 16min vs. 53h 58min). Aclaración de la diferencia entre "primer cruce" (NC-4) y "primer cruce sin escalas" (Alcock y Brown).
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales, incluyendo la Armada de EE. UU., coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

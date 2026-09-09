@@ -154,8 +154,8 @@ El Grupo también comparte misiones de apoyo aéreo cercano, equipando sus aeron
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
-- **Fuentes primarias consultadas:** Presidencia de Venezuela, Fundación Arquitectura y Ciudad, Defensa.com, RNV, DiarioVea, Ciudad Valencia, Ciudad CCS, MPPEF, Últimas Noticias
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST
+- **Fuentes primarias/institucionales consultadas:** Presidencia de Venezuela, Fundación Arquitectura y Ciudad, Defensa.com, RNV, DiarioVea, Ciudad Valencia, Ciudad CCS, MPPEF, Últimas Noticias
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre la fecha del decreto (17 de abril de 1920) y la fecha de instalación (10 de diciembre de 1920). En cuanto al GEA-14 "Escorpiones", se ha documentado su existencia y misión actual, pero las fechas específicas de su fundación (1947) y reorganización (1960) no han podido ser verificadas con fuentes oficiales primarias, por lo que se presentan como investigación preliminar.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

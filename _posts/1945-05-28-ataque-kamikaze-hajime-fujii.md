@@ -171,8 +171,8 @@ Hajime Fujii fue ascendido póstumamente al rango de Mayor. Su nombre está insc
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** BioBioChile, Wikipedia (PT/DE/EN), War History Online, Navy Memorial, NavSource, Lost 52 Project
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** BioBioChile, Wikipedia (PT/DE/EN), War History Online, Navy Memorial, NavSource, Lost 52 Project
 - **Discrepancias resueltas:** Confirmación de la fecha y lugar del ataque (28 de mayo de 1945, Okinawa). Verificación del número de víctimas (158 según mayoría de fuentes). Documentación detallada de la tragedia familiar de Fujii. Identificación del avión como Kawasaki Ki-45 "Nick". Aclaración de la inconsistencia en las cifras de bajas (158 fallecidos + 52 heridos = 210, con 126 ilesos).
 - **Nivel de confianza:** Alto (múltiples fuentes, incluyendo investigación especializada del Lost 52 Project, coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

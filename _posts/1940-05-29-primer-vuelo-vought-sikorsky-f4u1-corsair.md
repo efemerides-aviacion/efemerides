@@ -173,8 +173,8 @@ El Corsair sigue siendo uno de los aviones más admirados por los entusiastas de
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, Wikipedia, National Air and Space Museum, Planes of Fame Air Museum, National Naval Aviation Museum
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Wikipedia, National Air and Space Museum, Planes of Fame Air Museum, National Naval Aviation Museum
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (29 de mayo de 1940) en todas las fuentes. Verificación de la producción total (12.571 unidades). Inclusión del apodo japonés "Whistling Death" y el apodo estadounidense "Ensign Eliminator".
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

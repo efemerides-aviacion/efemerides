@@ -109,8 +109,8 @@ El accidente del vuelo 5735 de China Eastern Airlines es, hasta la fecha, el peo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 11:07:10 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES), B737.org.uk, Aviation Safety Network, Reuters, BBC, Infobae  
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), B737.org.uk, Aviation Safety Network, Reuters, BBC, Infobae  
 - **Discrepancias resueltas:** Se aclaró en nota específica que la investigación oficial no ha concluido y que no existe informe final publicado a marzo de 2026. Se distinguió entre información verificada (datos de vuelo, víctimas, trayectoria) e hipótesis no confirmadas oficialmente.  
 - **Nivel de confianza:** Alto (para datos básicos del accidente); pendiente (para la causa oficial, que sigue sin determinarse).  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

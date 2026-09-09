@@ -71,8 +71,8 @@ Los Thunderbirds regresaron a las exhibiciones en 1983, ya con aviones F‑16 Fi
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia; Code7700; Aviation Safety Network; NY Times; Check-Six; Aviacionline  
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia; Code7700; Aviation Safety Network; NY Times; Check-Six; Aviacionline  
 - **Discrepancias resueltas:** Confirmación de causa oficial (fallo mecánico en estabilizador del líder) y número exacto de víctimas (4 pilotos).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

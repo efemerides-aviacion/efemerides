@@ -79,8 +79,8 @@ Recordado como el “Accidente de Palomares”, se convirtió en uno de los acci
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN); Boston University; Broken Arrow Project  
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN); Boston University; Broken Arrow Project  
 - **Discrepancias resueltas:** Confirmación del número de víctimas y dispersión de plutonio sobre 2 km² de terreno agrícola.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

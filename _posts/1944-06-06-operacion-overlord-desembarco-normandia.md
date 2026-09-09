@@ -165,8 +165,8 @@ El papel de la aviación en el Día D es estudiado en academias militares de tod
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, Air University (.mil), National Museum of the U.S. Air Force (.mil), Imperial War Museum, Sons of Liberty Museum
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Air University (.mil), National Museum of the U.S. Air Force (.mil), Imperial War Museum, Sons of Liberty Museum
 - **Discrepancias resueltas:** Confirmación del número de aeronaves aliadas (11.590) y salidas (14.674). Verificación de las pérdidas aéreas (127). Aclaración de la diferencia entre Overlord y Neptune. Inclusión de la Operación Fortitude como parte del contexto histórico.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

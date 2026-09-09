@@ -181,8 +181,8 @@ El Phantom II sigue siendo un símbolo del poderío aéreo estadounidense y un t
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, Wikipedia, National Naval Aviation Museum, Boeing Images, GlobalSecurity.org, Navy.mil, DVIDS
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Wikipedia, National Naval Aviation Museum, Boeing Images, GlobalSecurity.org, Navy.mil, DVIDS
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (27 de mayo de 1958) en todas las fuentes. Verificación de la cifra de récords (16 según fuentes de Boeing). Confirmación de la producción total (5.195 unidades) y el retiro final en 2024.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y de archivo coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

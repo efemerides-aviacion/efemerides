@@ -141,8 +141,8 @@ Oleg Kononenko es ya una leyenda viva de la exploración espacial. Su nombre se 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** El País, The Hill (AP), Heraldo, Phys.org (AP), GW2RU
+- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Fuentes primarias/institucionales consultadas:** El País, The Hill (AP), Heraldo, Phys.org (AP), GW2RU
 - **Discrepancias resueltas:** Confirmación de la fecha exacta del récord (5 de junio de 2024). Verificación del total acumulado de caminatas espaciales (7, 44h 30m). Aclaración de la diferencia entre récord de tiempo acumulado y récord de tiempo continuo. Actualización de datos post-regreso (total final 1.111 días).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."
