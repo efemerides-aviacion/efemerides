@@ -149,7 +149,7 @@ Aunque su vida fue breve, su influencia fue inmensa. El Russky Vityaz inspiró d
 
 Hoy, el legado del Russky Vityaz vive en todos los grandes aviones de pasajeros que surcan los cielos, desde los Boeing 747 hasta los Airbus A380. Ígor Sikorsky, el joven diseñador que desafió a los escépticos, emigraría a Estados Unidos tras la Revolución Rusa y fundaría la Sikorsky Aircraft Corporation, convirtiéndose en el pionero de los helicópteros modernos, pero jamás olvidó su primer gran éxito: el "Caballero Ruso".
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el nombre:</strong> El avión recibió varios nombres: inicialmente "Le Grand" (El Grande), luego "Bolshoi Baltisky" (El Gran Báltico) y finalmente "Russky Vityaz" (Caballero Ruso). En ruso: «Ру́сский ви́тязь».</p>
@@ -176,7 +176,7 @@ Hoy, el legado del Russky Vityaz vive en todos los grandes aviones de pasajeros 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Encyclopaedia Britannica, Sandglass Patrol, Aviastar.org
 - **Discrepancias resueltas:** Existe una discrepancia en la fecha del primer vuelo debido a los calendarios juliano y gregoriano (13 de mayo vs. 30 de abril). Las fuentes confirman el 13 de mayo de 1913 como la fecha del primer vuelo según el calendario gregoriano. El nombre del copiloto varía según la fuente, pero se ha priorizado a Aleksandr Alekhnovich, el más citado. Se ha aclarado la línea de tiempo entre la concepción del avión (1911) y el inicio de la construcción (principios de 1913) para evitar confusión.
 - **Nivel de confianza:** Alto

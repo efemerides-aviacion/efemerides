@@ -127,7 +127,7 @@ Aunque la aventura concluyó en 2019 cuando Breitling decidió no renovar su pat
 
 El Breitling Jet Team demostró que el patrocinio privado podía crear un equipo civil de élite, cuyo profesionalismo y calidad de vuelo rivalizaban con el de las patrullas militares. Su estela queda en los cielos azules que surcaron y en la memoria de los millones de espectadores que disfrutaron de sus exhibiciones.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la evolución de la flota:</strong> El equipo comenzó con 4 aviones en 2003, añadió 2 en 2004 y 3 en 2008, alcanzando una flota total de 9 jets. La formación de exhibición era de 7 aviones, más un "8º avión" dedicado a filmación aérea y como repuesto. La flota histórica completa del equipo (los 11 L-39 que habían pertenecido a Apache Aviation) fue vendida a Babcock en diciembre de 2024.</p>
@@ -152,7 +152,7 @@ El Breitling Jet Team demostró que el patrocinio privado podía crear un equipo
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, European Airshows, EDR Magazine, European Security & Defence
 - **Discrepancias resueltas:** Las fuentes coinciden en que el equipo fue establecido a principios de 2003 con cuatro aviones L-39. La formación de exhibición alcanzó 7 aviones en 2008, no en 2007. La flota histórica completa del equipo ascendía a 11 unidades, que fueron vendidas a Babcock en diciembre de 2024. La exhibición duraba entre 18 y 20 minutos.
 - **Nivel de confianza:** Alto

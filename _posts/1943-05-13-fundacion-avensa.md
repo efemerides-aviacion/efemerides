@@ -103,7 +103,7 @@ La historia de AVENSA es la historia de la moderna aviación comercial venezolan
 
 Su legado perdura en la memoria de quienes volaron en sus modernos aviones y en la nostalgia por la calidad de un servicio que fue un orgullo nacional. Los restos de su presencia, como mostradores azules y escaleras oxidadas, aún pueden verse en los aeropuertos del país como un eco de lo que fue la "aerolínea de Venezuela".
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -132,7 +132,7 @@ Su legado perdura en la memoria de quienes volaron en sus modernos aviones y en 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:14:26 CST
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), El Espectador de Caracas, Otilca Radio, y el documento suministrado por Enrique Pomares.
 - **Discrepancias resueltas:** Se ha confirmado que el apoyo inicial también incluyó a Mexicana de Aviación, tal como se menciona en el documento de Enrique Pomares y en fuentes académicas.
 - **Nivel de confianza:** Alto

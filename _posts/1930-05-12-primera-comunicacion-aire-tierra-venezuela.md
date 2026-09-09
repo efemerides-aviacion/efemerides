@@ -129,7 +129,7 @@ Los protagonistas de aquella jornada —Marcano, Pacanins y Beaujon— tuvieron 
 
 La Escuela de Radiotelegrafía Militar evolucionó hasta convertirse en la actual Escuela de Comunicaciones y Electrónica de la Fuerza Armada (ESCOELFA), que honra la memoria de Cecilio Arturo Beaujon como epónimo de sus programas de formación. La insignia al Instructor Académico que lleva su nombre es un testimonio del respeto y la admiración que despierta su legado.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha:</strong> La primera comunicación aire-tierra se llevó a cabo el 12 de mayo de 1930. La Escuela de Radiotelegrafía Militar había sido fundada originalmente en 1917, pero fue reactivada en 1930 para responder a las necesidades de la aviación militar.</p>
@@ -154,7 +154,7 @@ La Escuela de Radiotelegrafía Militar evolucionó hasta convertirse en la actua
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Documento fuente suministrado por Enrique Pomares, Fav Club Venezuela, Wikipedia (Enciclopedia El Mirador), Saber UCV
 - **Discrepancias resueltas:** La información proporcionada en el documento adjunto es consistente con las fuentes complementarias. Los detalles biográficos de Guillermo Pacanins fueron ampliados con fuentes externas. La fecha de la primera comunicación (12 de mayo de 1930) es consistente en todas las fuentes.
 - **Nivel de confianza:** Alto

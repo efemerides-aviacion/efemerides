@@ -150,7 +150,7 @@ La "globomanía" que siguió a este vuelo se extendió por toda Europa. Se fabri
 
 Pilâtre de Rozier, trágicamente, tiene el dudoso honor de ser la primera víctima fatal de un accidente de aviación. Su muerte en 1785 no empaña su legado como el primer aeronauta de la historia. Su nombre está inscrito junto al de los hermanos Montgolfier como los padres de la aerostación.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la altitud alcanzada:</strong> Las fuentes coinciden en que la altitud máxima fue de aproximadamente 910 metros (3.000 pies), aunque algunos relatos mencionan cifras ligeramente diferentes. La cifra de 3.000 pies es la más citada en las fuentes históricas y la que se ha adoptado en esta efeméride.</p>
@@ -177,7 +177,7 @@ Pilâtre de Rozier, trágicamente, tiene el dudoso honor de ser la primera víct
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Encyclopaedia Britannica, National Air and Space Museum, Smithsonian Libraries
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (21 de noviembre de 1783). La altitud (910 m), duración (25 min) y distancia (9 km) son consistentes en todas las fuentes consultadas.
 - **Nivel de confianza:** Alto

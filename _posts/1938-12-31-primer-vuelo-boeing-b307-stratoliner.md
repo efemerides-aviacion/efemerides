@@ -51,10 +51,10 @@ El B-307 Stratoliner es recordado como pionero en confort y seguridad aérea. Su
   </ul>
 </div>
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Boeing Historical Archives, Smithsonian NASM, Aviation History Online Museum  
 - **Discrepancias resueltas:** Algunas fuentes mencionan 1939 como fecha de primer vuelo; se priorizó 31 de diciembre de 1938 según registros de Boeing y Smithsonian.  
 - **Nivel de confianza:** Alto  

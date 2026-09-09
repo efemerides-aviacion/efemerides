@@ -121,7 +121,7 @@ La hazaña de Charles Furnas es a menudo una nota a pie de página en la histori
 
 Furnas encarna el espíritu de todos aquellos que, sin ser pilotos, hicieron posible la aviación. Su legado no es solo el de ser el primero en sentarse en el asiento de atrás, sino el de demostrar que volar era una experiencia que podía ser compartida, allanando el camino para la industria del transporte aéreo que hoy conecta el mundo. Hoy, el Wright Flyer III, restaurado a su configuración original, se exhibe en el Carillon Park en Dayton, Ohio, como testimonio de aquellos días pioneros.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el "primer pasajero":</strong> Si bien Charles Furnas es reconocido universalmente como el primer pasajero de un avión propulsado más pesado que el aire, existen registros de personas que volaron en planeadores o globos con anterioridad. Sin embargo, Furnas es el primero en hacerlo en un avión de ala fija con motor de combustión interna.</p>
@@ -146,7 +146,7 @@ Furnas encarna el espíritu de todos aquellos que, sin ser pilotos, hicieron pos
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Smithsonian Air & Space Magazine, National Air and Space Museum, This Day in Aviation, Wikipedia, DocsTeach (National Archives)
 - **Discrepancias resueltas:** Las fuentes son consistentes en la fecha (14 de mayo de 1908) y los detalles de los vuelos. La duración del primer vuelo varía ligeramente entre 28 y 29 segundos; se ha incluido el rango.
 - **Nivel de confianza:** Alto

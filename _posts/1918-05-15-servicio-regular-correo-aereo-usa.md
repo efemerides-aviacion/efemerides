@@ -159,7 +159,7 @@ El correo aéreo fue el verdadero banco de pruebas para la aviación civil. Los 
 
 Una placa conmemorativa erigida por el Aero Club de Washington en el lugar de la antigua pista de aterrizaje de Potomac Park (West Potomac Park, Washington D.C.) recuerda a los visitantes el lugar donde comenzó la historia del correo aéreo regular en los Estados Unidos. El error del Teniente Boyle y su avión S.C. 38262 inspiraron además el "Inverted Jenny", el sello postal más famoso y valioso del mundo, cuyo diseño presenta el avión de Boyle volando invertido.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el Teniente Boyle:</strong> El Segundo Teniente George Leroy Boyle fue el piloto seleccionado para el vuelo inaugural desde Washington. Se desorientó en la niebla y voló hacia el sur, aterrizando forzosamente en Waldorf, Maryland, a solo 20 millas de distancia. A pesar de su error, Boyle no fue castigado y continuó brevemente en el servicio. Un mes después, el 15 de junio de 1918, se casó con Margaret McChord, hija de un influyente juez, en una ceremonia en el Hotel Willard de Washington.</p>
@@ -185,7 +185,7 @@ Una placa conmemorativa erigida por el Aero Club de Washington en el lugar de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Air & Space Forces Magazine, National Postal Museum, Federal Aviation Administration
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (15 de mayo de 1918). Se ha añadido la información detallada de This Day in Aviation sobre el Teniente Boyle, el número de serie del avión (S.C. 38262) y la historia del "Inverted Jenny". Se ha corregido la descripción del incidente: Boyle aterrizó forzosamente, no "se estrelló".
 - **Nivel de confianza:** Alto

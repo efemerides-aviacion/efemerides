@@ -129,7 +129,7 @@ Se construyeron un total de 18 A-12, incluyendo prototipos y variantes como el Y
 
 El primer prototipo, el artículo 121, completó un total de 322 vuelos y 418,2 horas de vuelo. Hoy, se exhibe en el Blackbird Airpark adyacente a la Base de la Fuerza Aérea Edwards en Palmdale, California, junto a un SR-71 y un D-21.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las fechas del primer vuelo:</strong> Existen tres fechas importantes en la historia del primer vuelo del A-12. El primer vuelo no oficial (un "salto" durante pruebas de rodaje) ocurrió el 25 de abril de 1962. El primer vuelo planificado por Lockheed fue el 26 de abril de 1962. El vuelo oficial para la CIA como cliente fue el 30 de abril de 1962, que es la fecha que conmemoramos por la entrada formal del programa en su fase de pruebas.</p>
@@ -156,7 +156,7 @@ El primer prototipo, el artículo 121, completó un total de 322 vuelos y 418,2 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), This Day in Aviation, Flight Test Historical Foundation, The War Zone, Aerial Visuals
 - **Discrepancias resueltas:** Las fuentes presentan tres fechas para el primer vuelo: 25 de abril (vuelo no oficial durante taxi), 26 de abril (primer vuelo planificado de Lockheed) y 30 de abril de 1962 (vuelo oficial para la CIA). Esta efeméride conmemora la fecha del vuelo oficial para el cliente, que es la más relevante desde la perspectiva del programa OXCART. El piloto fue Louis Schalk.
 - **Nivel de confianza:** Alto

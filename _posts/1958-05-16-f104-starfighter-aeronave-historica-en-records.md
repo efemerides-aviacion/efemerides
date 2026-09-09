@@ -138,7 +138,7 @@ El logro del 16 de mayo de 1958, cuando el Capitán Irwin y el F-104A rompieron 
 
 Hoy, la aeronave 55-2969 "Queenie" no sobrevive. Fue modificada como un avión blanco no tripulado (QF-104) y fue derribada por un misil Falcon el 26 de enero de 1971 durante una misión de pruebas. Sin embargo, su legado perdura en los Starfighters preservados en museos de todo el mundo, y la leyenda del "misil con un hombre dentro" sigue inspirando a las nuevas generaciones de aviadores e ingenieros.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha del récord de velocidad:</strong> Aunque el Museo Nacional de la Fuerza Aérea de EE. UU. y GlobalSecurity.org indican el 18 de mayo de 1958, la fuente oficial de la FAI y el relato detallado de "This Day in Aviation" confirman que el récord se estableció el <strong>16 de mayo de 1958</strong>. El 18 de mayo puede referirse a la fecha en que se publicitó o certificó oficialmente el récord.</p>
@@ -173,7 +173,7 @@ Hoy, la aeronave 55-2969 "Queenie" no sobrevive. Fue modificada como un avión b
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-23 10:10:11 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** FAI (Fédération Aéronautique Internationale), expedientes 9058, 9107, 9080 y 5056; RAF Museum; National Museum of the USAF; Canadian Warplane Heritage Museum; Lockheed Horizons n.º 22 (diciembre de 1986), University of North Texas.
 - **Fuentes secundarias de contraste:** This Day in Aviation; Wings Over the Rockies; Wikipedia (中文), para las cifras de producción.
 - **Discrepancias resueltas:** (1) La discrepancia entre el 16 y el 18 de mayo como fecha del récord de velocidad se resuelve priorizando la fuente oficial de la FAI, que confirma el 16 de mayo de 1958; el 18 de mayo es la fecha de publicidad o certificación. (2) **Atribución de los récords de tiempo de ascenso:** se retiran del vuelo de Irwin las marcas de 3.000 m en 41,8 s y 25.000 m en 4 min 26,03 s, y la altitud máxima de 27.813 m, que una versión anterior de esta efeméride le adjudicaba siguiendo a fuentes divulgativas. Los expedientes 9107 y 9080 de la FAI acreditan esos dos tiempos a nombre del Teniente Einar K. Enevoldson, el 13 de diciembre de 1958 en Point Mugu, con el F-104A 56-762. El vuelo del 16 de mayo estableció un único récord mundial, el de velocidad (expediente 9058). (3) **Récord de altitud de mayo de 1958:** corresponde al Mayor Howard C. Johnson, 27.811 m el 7 de mayo con el YF-104A 55-2957 (expediente 5056), y no al vuelo de Irwin. (4) Las cifras de producción total del F-104 varían entre 2.578 y 2.580; ambas son aceptables.

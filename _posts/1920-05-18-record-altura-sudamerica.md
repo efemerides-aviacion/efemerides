@@ -129,7 +129,7 @@ La imagen del pequeño triplano Wasp desafiando las cumbres más altas de los An
 
 Hoy, la Fuerza Aérea Boliviana (FAB) conmemora cada 17 de abril el primer vuelo en Bolivia, y el 18 de mayo como el día en que un avión boliviano (aunque pilotado por un estadounidense) alcanzó un récord sudamericano de altura, demostrando al mundo que la aviación era posible en el corazón de Sudamérica.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la altitud alcanzada:</strong> Las fuentes consultadas indican que Hudson alcanzó "casi nueve mil metros de altitud". No se dispone de la cifra exacta, pero se confirma que sobrepasó en más de dos kilómetros la cumbre del Illimani (6.463 m), por lo que la altitud estimada es de aproximadamente 9.000 m (29.500 pies).</p>
@@ -154,7 +154,7 @@ Hoy, la Fuerza Aérea Boliviana (FAB) conmemora cada 17 de abril el primer vuelo
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** El Diario (Bolivia), Wikipedia, Agencia de Noticias Fides, Aviastar
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del récord (18 de mayo de 1920). La altitud exacta alcanzada no está documentada con precisión, pero se estima en aproximadamente 9.000 metros (29.500 pies). El rango de Hudson varía según la fuente (Teniente Coronel en Bolivia, lieutenant en EE. UU.). El nombre completo de la aeronave varía: Curtiss 18T-2 Wasp, Curtiss-Kirkham 18T-2.
 - **Nivel de confianza:** Alto

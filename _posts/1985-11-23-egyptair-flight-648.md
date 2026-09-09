@@ -35,12 +35,12 @@ image: 1985-11-23-egyptair-flight-648.webp
 - **Grupo responsable:** Organización Abu Nidal  
 - **Víctimas:** más de 50 fallecidos en la operación de rescate
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Contexto Histórico
 Durante la década de 1980, los secuestros aéreos se convirtieron en una amenaza recurrente en el transporte internacional. El caso del vuelo 648 de EgyptAir destacó por la violencia del desenlace y la participación de un grupo extremista palestino, lo que puso de relieve la vulnerabilidad de la aviación comercial frente al terrorismo.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Desarrollo Cronológico
 - **Despegue:** El vuelo partió de Atenas con destino a El Cairo.  
@@ -48,19 +48,19 @@ Durante la década de 1980, los secuestros aéreos se convirtieron en una amenaz
 - **Aterrizaje en Malta:** El avión fue obligado a aterrizar en el Aeropuerto Internacional de Malta.  
 - **Operación de rescate:** Fuerzas especiales intentaron liberar a los pasajeros, pero la intervención resultó en un elevado número de víctimas.  
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Consecuencias e Impacto
 - **Seguridad aérea:** El incidente impulsó nuevas medidas de seguridad en aeropuertos y protocolos de respuesta a secuestros.  
 - **Relaciones internacionales:** El caso generó tensiones diplomáticas entre Egipto, Malta y otros países involucrados.  
 - **Memoria histórica:** El vuelo 648 se convirtió en un símbolo de los riesgos del terrorismo aéreo en los años ochenta.  
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Legado
 El secuestro del vuelo 648 de EgyptAir marcó un punto de inflexión en la percepción global sobre la seguridad aérea. Las lecciones aprendidas influyeron en la creación de estándares internacionales más estrictos para la protección de pasajeros y tripulaciones.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Referencias Verificadas
 <div class="references">
@@ -76,10 +76,10 @@ El secuestro del vuelo 648 de EgyptAir marcó un punto de inflexión en la perce
 	<p><strong>Nota aclaratoria:</strong> Aunque este hecho terminó con un accidente y fatalidades, su naturaleza corresponde a un incidente de seguridad en la aviación (secuestro/terrorismo), no a un accidente aeronáutico. Por ello, se clasifica en la categoría de aviacion-seguridad y no en “aviacion-accidente”.</p>
 </div>
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, Aviation Safety Network, BBC News  
 - **Discrepancias resueltas:** Número de víctimas varía entre fuentes; se documenta como “más de 50” para consistencia.  
 - **Nivel de confianza:** alto  

@@ -132,7 +132,7 @@ El director de cine William Wyler, famoso por películas como "Ben-Hur", se alis
 
 El legado del "Memphis Belle" es perdurable. Su historia ha sido contada en libros, un popular largometraje de 1990, y el propio documental de 1944. Es el B-17 más famoso de la historia. Su restauración y exhibición en el Museo Nacional de la Fuerza Aérea de EE. UU. garantiza que las futuras generaciones puedan ver el icónico avión que simboliza el coraje y la resistencia de los hombres que sirvieron en la "Mighty Eighth". El "Memphis Belle" es un recordatorio tangible del costo humano de la guerra y de los aviadores que volaron hacia el peligro día tras día, cumpliendo con su deber.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el "mito" del primer B-17 en completar 25 misiones:</strong></p>
@@ -161,7 +161,7 @@ El legado del "Memphis Belle" es perdurable. Su historia ha sido contada en libr
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation, National Museum of the USAF (.mil), Wikipedia, The National WWII Museum
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha de la 25ª misión (17 de mayo de 1943). Se ha aclarado la diferencia entre el "Memphis Belle" y el "Hell's Angels" como el primer avión en completar 25 misiones (Hell's Angels, 13 de mayo de 1943) frente a la primera tripulación completa (Memphis Belle). Se ha corregido la información sobre el fallecimiento de la tripulación.
 - **Nivel de confianza:** Alto

@@ -154,7 +154,7 @@ El English Electric Canberra fue el primer bombardero a reacción de la Royal Ai
 
 Para Venezuela, el Canberra fue mucho más que un avión. Fue un símbolo de poderío y modernidad durante décadas, y sus pilotos, navegantes y personal de tierra son una fuente de orgullo nacional. La experiencia y los lazos forjados alrededor de este avión crearon una de las páginas más gloriosas de la Fuerza Aérea Venezolana.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha del primer vuelo:</strong> El primer vuelo del prototipo Canberra tuvo lugar el 13 de mayo de 1949.</p>
@@ -201,7 +201,7 @@ Agradecemos al General Paredes Niño por su aporte y al Coronel Quintero por su 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), This Day in Aviation, Zona Militar, National Air and Space Museum, FAV Club (artículo de Omar Quintero), testimonio oral del General Paredes Niño.
 - **Discrepancias resueltas en esta versión:** 
   - Se ha corregido la atribución del primer comandante del Grupo Nº13, asignándoselo al Mayor Fernando Paredes Bello (27 de julio de 1961).

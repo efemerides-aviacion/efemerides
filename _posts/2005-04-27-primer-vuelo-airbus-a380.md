@@ -102,7 +102,7 @@ El aterrizaje fue exitoso. Al bajar del avión, Jacques Rosay declaró: "Dentro 
 
 El evento fue seguido por miles de personas. Los laterales de las pistas estaban llenos de empleados de Airbus, invitados, personal del aeropuerto y aficionados. Se estima que unas 50.000 personas se congregaron en las inmediaciones del aeropuerto, y algunas acamparon la noche anterior para asegurar un buen lugar.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
@@ -114,7 +114,7 @@ El evento fue seguido por miles de personas. Los laterales de las pistas estaban
 
 - **Banco de pruebas tecnológico:** El prototipo MSN001 sigue en servicio como avión de pruebas y demostración de tecnologías. En 2025, todavía se utiliza para probar nuevas propulsiones y sistemas.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -128,7 +128,7 @@ En marzo de 2025, el prototipo MSN001 volvió a volar después de tres años en 
 
 El 27 de abril de 2005, el A380 despegó por primera vez. Más de dos décadas después, sigue siendo uno de los aviones más emblemáticos de la historia de la aviación.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la duración del vuelo:</strong> Las fuentes consultadas presentan una ligera discrepancia en la duración exacta del primer vuelo. SpaceNews indica 3 horas y 54 minutos, mientras que CARNOC (aviation news) indica 3 horas y 52 minutos. La diferencia se debe probablemente a la aproximación abortada para dejar paso a un helicóptero médico, que alargó ligeramente el vuelo.</p>
@@ -155,7 +155,7 @@ El 27 de abril de 2005, el A380 despegó por primera vez. Más de dos décadas d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Fly News, Airbus (comunicado oficial), Aviacionline, Wikipedia, BBC News, EL PAÍS, Aerospace Global News
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (27 de abril de 2005). La hora del despegue fue 10:29-10:30 (confirmado por múltiples fuentes). La duración del vuelo varía ligeramente (3h54m según SpaceNews, 3h52m según CARNOC); se incluye la discrepancia en la nota aclaratoria. El peso al despegue fue 421 toneladas (828.300 lb), no 420 o 430 como mencionan algunas fuentes.
 - **Nivel de confianza:** Alto

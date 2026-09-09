@@ -145,7 +145,7 @@ La hazaña de Rosillo, seguida dos días después por la de Parlá, inauguró un
 
 En julio de 2013, con motivo del centenario de estos vuelos, el Planetario de la Plaza Vieja en La Habana ofreció una conferencia conmemorativa, recordando a dos pioneros que, con su valor y determinación, se lanzaron al vacío sobre un mar tempestuoso para hacer historia.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el tipo de aeronave:</strong> Las fuentes periodísticas de la época mencionan que Rosillo voló un "Moissant aeroplane" (posiblemente Morane-Saulnier, ya que los hermanos Morane fabricaban monoplanos). Otras fuentes especializadas indican que el avión era un Morane-Saulnier.</p>
@@ -172,7 +172,7 @@ En julio de 2013, con motivo del centenario de estos vuelos, el Planetario de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Florida Historical Society, Salt Lake Tribune, The Lakeland Evening Telegram (Chronicling America - Library of Congress), Smithsonian Institution, Filatelia de Cuba
 - **Discrepancias resueltas:** Las fuentes periodísticas de la época (17 de mayo de 1913) confirman la fecha del vuelo. Wikipedia en inglés indica erróneamente el 13 de mayo de 1913 y una duración de 2 horas 8 minutos; se ha priorizado la información de las fuentes primarias contemporáneas al evento (2 horas 35 minutos). Se ha eliminado el enlace roto de Georgia Historic Newspapers y se ha añadido el enlace funcional de Chronicling America (Library of Congress).
 - **Nivel de confianza:** Alto

@@ -150,7 +150,7 @@ En 1991, fue incluida en el Salón de la Fama de la Aviación Nacional. En 2004,
 
 Hoy, Harriet Quimby sigue siendo un ejemplo de valentía, determinación y pasión por volar. Su vida, aunque breve, sirvió para demostrar al mundo que las mujeres podían dominar los cielos con la misma habilidad y audacia que los hombres.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha y lugar de nacimiento:</strong> Existe controversia sobre la fecha exacta de nacimiento de Harriet Quimby. Si bien la mayoría de las fuentes, incluida la Enciclopedia Británica, indican 1875, y en concreto el 11 de mayo, es la fecha más aceptada y la que se utiliza en esta efeméride. Algunas fuentes indican un posible nacimiento en Coldwater, Michigan, en lugar de Arcadia. En vida, Quimby declaraba haber nacido en 1885 en California, una reivindicación aceptada en su certificado de defunción.</p>
@@ -179,7 +179,7 @@ Hoy, Harriet Quimby sigue siendo un ejemplo de valentía, determinación y pasi�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:49:05 CST
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), Encyclopaedia Britannica, BBC, Worldkings, Converse University, Chicago Tribune
 - **Discrepancias resueltas:** La fecha de nacimiento aceptada es el 11 de mayo de 1875, no 1885 (la fecha que ella declaraba). El lugar de nacimiento más aceptado es Arcadia, Michigan, aunque existe controversia. La duración del vuelo del Canal varía entre 59 minutos y 1 hora 9 minutos (69 minutos); se incluyen ambas cifras. La causa del accidente no está esclarecida del todo; las fuentes mencionan la posibilidad de que el pasajero se moviera y desestabilizara el avión o una ráfaga de viento.
 - **Nivel de confianza:** Alto

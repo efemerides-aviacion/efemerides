@@ -108,7 +108,7 @@ La táctica empleada (avión explorador/avión de ataque) fue estudiada por las 
 
 El 4 de mayo de cada año, la Armada Argentina conmemora el "Día de la Aviación Naval", recordando no solo el ataque al Sheffield sino también a todos los caídos en el conflicto y a los pioneros que, desde 1916, construyeron una institución que supo estar a la altura de las circunstancias en el momento más crítico de su historia.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el Día de la Aviación Naval:</strong> La Aviación Naval Argentina fue fundada el <strong>11 de febrero de 1916</strong>. El 4 de mayo no es una nueva fundación, sino el día instituido para conmemorar el "bautismo de fuego" de la institución durante la Guerra de Malvinas. El ataque al HMS Sheffield es considerado su acción más emblemática y el hito que demostró su capacidad operativa al mundo.</p>
@@ -137,7 +137,7 @@ El 4 de mayo de cada año, la Armada Argentina conmemora el "Día de la Aviació
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Argentina.gob.ar, Wikipedia (ES/EN), Instituto Aeronaval, SSAFA
 - **Discrepancias resueltas:** Se aclara que la Aviación Naval Argentina fue fundada el 11 de febrero de 1916, no el 4 de mayo. El 4 de mayo es el "Día de la Aviación Naval", instituido en conmemoración del ataque al HMS Sheffield. El Sheffield se hundió el 10 de mayo de 1982, no el 4 de mayo.
 - **Nivel de confianza:** Alto

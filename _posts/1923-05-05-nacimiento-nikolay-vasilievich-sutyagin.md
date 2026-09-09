@@ -146,7 +146,7 @@ Con la caída de la Unión Soviética y la apertura parcial de los archivos, la 
 
 El 13 de octubre de 2022, se inauguró un busto en honor a Nikolai Sutyagin en el bulevar Mira de Nizhny Novgorod, como reconocimiento público a su contribución a la historia de la aviación rusa.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el número de victorias:</strong> Aunque las fuentes rusas modernas (como los archivos desclasificados) atribuyen oficialmente a Nikolai Sutyagin 22 victorias aéreas, esta cifra no es aceptada universalmente por todos los historiadores occidentales, que consideran que los sistemas de confirmación podrían haber sido menos rigurosos durante la guerra. Sin embargo, es indiscutible que fue uno de los pilotos más mortíferos y exitosos del conflicto. Las cifras de los archivos soviéticos son 149 salidas de combate, 66 combates aéreos y 22 victorias.</p>
@@ -172,7 +172,7 @@ El 13 de octubre de 2022, se inauguró un busto en honor a Nikolai Sutyagin en e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:49:05 CST
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), EcuRed, MiGavia, MiGFlug, History.ru, SimplePlanes
 - **Discrepancias resueltas:** Las fuentes rusas coinciden en 22 victorias para Sutyagin (Wikipedia, EcuRed, archivos). Las fuentes occidentales (como SimplePlanes) mencionan la controversia. Se ha optado por priorizar la cifra de los archivos rusos desclasificados. La fecha de nacimiento (5 de mayo de 1923) es consistente en todas las fuentes, así como la de fallecimiento (12 de noviembre de 1986). El busto fue inaugurado el 13 de octubre de 2022 en Nizhny Novgorod.
 - **Nivel de confianza:** Alto

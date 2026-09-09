@@ -165,7 +165,7 @@ El Norge alcanzó el Polo Norte en un vuelo de 15,5 horas desde Svalbard, y en t
 
 Umberto Nobile falleció en Roma el 30 de julio de 1978 a la edad de 93 años. Roald Amundsen pereció en junio de 1928 durante el rescate del Italia. Hoy, el nombre del Norge permanece grabado en la historia de la aviación y la exploración polar como el primer vuelo indiscutible sobre el techo del mundo.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la controversia con Richard Byrd:</strong> El 9 de mayo de 1926, Richard E. Byrd afirmó haber sobrevolado el Polo Norte en un avión Fokker, tres días antes que el Norge. Sin embargo, investigaciones posteriores, incluyendo el análisis de su diario de vuelo, indican que probablemente no alcanzó el objetivo. El vuelo del Norge, documentado con precisión y sin controversias, es considerado por la mayoría de los historiadores como el primer vuelo verificado sobre el Polo Norte.</p>
@@ -194,7 +194,7 @@ Umberto Nobile falleció en Roma el 30 de julio de 1978 a la edad de 93 años. R
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Treccani, Clarín, Público
 - **Discrepancias resueltas:** Las fuentes confirman que el Norge sobrevoló el Polo Norte el 12 de mayo de 1926 a la 01:25 GMT. La controversia sobre la reclamación de Byrd está documentada en las fuentes modernas. La tripulación total varió durante el viaje (14, 15 o 16 personas según las etapas), pero se sabe que 15-16 hombres estuvieron involucrados en el tramo final. La aeronave tenía 106 m de largo con un volumen de 19.000 m³ de hidrógeno.
 - **Nivel de confianza:** Alto

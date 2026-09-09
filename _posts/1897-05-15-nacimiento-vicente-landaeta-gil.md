@@ -56,7 +56,7 @@ El primer comandante de la unidad fue el Mayor (Av) Juan Ignacio Leyzeaga. La ba
 
 Para conocer más detalles sobre la creación de esta base, puede consultar la efeméride de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1964/02/14/base-aerea-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;"><strong>Fundación de la Base Aérea Teniente Vicente Landaeta Gil, Barquisimeto</strong></a> (14 de febrero de 1964).
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el accidente:</strong> El Teniente Vicente Landaeta Gil falleció el 4 de febrero de 1931 en un accidente aéreo en Barquisimeto, siendo el primer piloto militar venezolano en perder la vida en servicio. Los detalles de este suceso (aeronave, tripulación, investigaciones) pueden consultarse en la efeméride dedicada exclusivamente a ese evento, cuyo enlace se incluye en la sección correspondiente de este post.</p>
@@ -80,7 +80,7 @@ Para conocer más detalles sobre la creación de esta base, puede consultar la e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
+- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** ninguna gaceta ni expediente militar accesible
 - **Fuentes secundarias de contraste:** Wikipedia (Base Aérea Teniente Vicente Landaeta Gil); El Impulso; LaPatilla; Defensa.com
 - **Discrepancias resueltas:** El post se ha reenfocado en el nacimiento y la vida del personaje. Se ha integrado un enlace a la efeméride de la Escuela de Aviación Militar en el Contexto Histórico, y se han mantenido los enlaces al accidente y a la base aérea.
