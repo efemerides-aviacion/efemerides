@@ -54,6 +54,8 @@ El Cessna O-1 Bird Dog era un pequeño avión de observación monomotor, diseña
 
 La imagen del apontaje del Bird Dog se convirtió en un símbolo de la desesperación y el coraje humano en el fin de la guerra . El Capitán Chambers, al priorizar la vida humana sobre el equipo militar, arriesgó su carrera . Su decisión fue ampliamente reconocida años después como un ejemplo de liderazgo humanitario.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **23 de abril de 1975:** El USS Midway llega a la zona de operaciones frente a la costa de Vietnam del Sur .
@@ -67,9 +69,7 @@ La imagen del apontaje del Bird Dog se convirtió en un símbolo de la desespera
 - **07:53 del 30 de abril de 1975:** El último helicóptero del Cuerpo de Marines evacúa la embajada de EE. UU. en Saigón .
 - **Diciembre de 2020:** Chambers, entonces de 91 años, reflexionó sobre la decisión: "Mi abuela me susurraba al oído: 'Mira, idiota, no te enseñé a estar a cargo de nada y dejar que mujeres y niños se ahogaran'" .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El apontaje: una decisión humana
+### El apontaje: una decisión humana
 
 El Mayor Buang-Ly se encontraba en la isla de Con Son cuando recibió la noticia de la inminente caída de Saigón. Sin tiempo para planificar, localizó un Cessna O-1 Bird Dog de la Fuerza Aérea de Vietnam del Sur. Subió a su esposa y a sus cinco hijos, de edades comprendidas entre 1 y 6 años, en el pequeño avión de dos asientos . No había radios funcionales a bordo. Con combustible para apenas una hora, despegó hacia el mar .
 
@@ -95,9 +95,7 @@ Con la cubierta despejada, Chambers ordenó al Midway navegar a máxima velocida
 
 Tan pronto como el avión se detuvo, decenas de marineros vitorearon. Chambers se quitó sus alas de vuelo naval y las colocó en el uniforme de Buang-Ly . La tripulación del Midway "adoptó" a la familia y recaudó dinero para ayudarles a establecerse en Estados Unidos . Chambers nunca fue sometido a consejo de guerra; por el contrario, fue ascendido a contraalmirante .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Bird Dog en el Museo
+### El Bird Dog en el Museo
 
 El Cessna O-1 Bird Dog que Buang-Ly pilotó aquel día se encuentra en exposición permanente en el Museo Nacional de Aviación Naval (National Naval Aviation Museum) en la Estación Aérea Naval de Pensacola, Florida . Fue trasladado allí pocos meses después del apontaje, gracias a la gestión del Capitán Joe Cheshire .
 
@@ -148,7 +146,7 @@ La frase de Chambers —"Mi abuela me susurraba al oído: 'Mira, idiota, no te e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
 - **Fuentes primarias/institucionales consultadas:** DVIDS, Naval History and Heritage Command, First Coast News, USS Midway Museum, Wikipedia
 - **Discrepancias resueltas:** La fecha del apontaje es el 30 de abril de 1975. Chambers se convirtió en el primer afroamericano en comandar un portaaviones en 1974, antes del apontaje. El avión se conserva en el Museo Nacional de Aviación Naval en Pensacola, Florida.
 - **Nivel de confianza:** Alto

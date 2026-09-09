@@ -55,6 +55,8 @@ El desarrollo del motor Mikulin AM-3 fue clave para hacer viable el Tu-16. Inici
 
 La oficina de diseño de Andrei Tupolev era una de las más prestigiosas de la URSS. Había diseñado el Tu-4 (copia del B-29) y el Tu-95 (bombardero turbohélice de largo alcance). La competencia con otras oficinas (como la de Ilyushin, que presentó el Il-46) era intensa, y la obtención de contratos de producción dependía del éxito en las pruebas estatales.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **1948:** Inicia el desarrollo del motor Mikulin AM-3.
@@ -68,9 +70,7 @@ La oficina de diseño de Andrei Tupolev era una de las más prestigiosas de la U
 - **1954:** Entrada en servicio operativo con la designación Tu-16.
 - **1958:** Comienza la producción bajo licencia en China (Xi'an H-6).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El prototipo Tu-88: el nacimiento del Badger
+### El prototipo Tu-88: el nacimiento del Badger
 
 El 27 de abril de 1952, el piloto de pruebas Nikolái Rybko despegó en el prototipo "88-1" desde la base de pruebas de Tupolev. El vuelo inaugural duró apenas 12 minutos, tiempo suficiente para que Rybko evaluara las características básicas de manejo del avión. El Tu-88 superó la velocidad prevista (alcanzando 1.020 km/h) y, en pruebas posteriores, demostró una autonomía de 6.050 km, muy superior a los 3.000 km exigidos por el gobierno.
 
@@ -96,9 +96,7 @@ El programa de pruebas estatales en el Instituto de Investigación de la Fuerza 
 - **Techo de servicio:** 12.800 metros
 - **Peso máximo al despegue:** 72 toneladas
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El piloto: Nikolái S. Rybko
+### El piloto: Nikolái S. Rybko
 
 Nikolái S. Rybko fue el piloto de pruebas jefe de la oficina de diseño Tupolev en la década de 1950. Su nombre aparece en múltiples fuentes como el piloto del primer vuelo del Tu-88 el 27 de abril de 1952. Rybko también participó en las pruebas de otros aviones Tupolev, incluyendo el Tu-95 y el Tu-104 (el primer avión a reacción comercial soviético).
 
@@ -151,7 +149,7 @@ El legado del Tu-88/Tu-16 es, por tanto, uno de los más longevos de la historia
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Airvectors, FAS, The National Interest
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (27 de abril de 1952). El piloto fue N. S. Rybko (según fuentes rusas especializadas). La duración del primer vuelo (12 minutos) está documentada en fuentes de aviación rusas. La velocidad máxima alcanzada en pruebas fue de 1.020 km/h, superior a la prevista.
 - **Nivel de confianza:** Alto

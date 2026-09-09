@@ -57,6 +57,8 @@ El Reino Unido de la posguerra aún mantenía aspiraciones de ser una potencia g
 
 Los pilotos de la Royal Navy que volaron el Buccaneer desarrollaron un fuerte vínculo con el avión. Era conocido por su robustez, su capacidad para soportar las tensiones del vuelo constante a baja altitud y las duras condiciones de las operaciones en portaaviones. El Buccaneer era muy apreciado por sus cualidades de vuelo, y el sistema BLC les proporcionaba velocidades de aterrizaje más lentas que las que estaban acostumbrados en otros aviones.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **Julio de 1955:** Blackburn gana el concurso de la Royal Navy con su proyecto B.103
@@ -70,9 +72,7 @@ Los pilotos de la Royal Navy que volaron el Buccaneer desarrollaron un fuerte v�
 - **1991:** Los Buccaneers de la RAF participan en la Guerra del Golfo
 - **31 de marzo de 1994:** Retiro final del Buccaneer del servicio activo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El primer vuelo del NA.39
+### El primer vuelo del NA.39
 
 El 30 de abril de 1958 fue un día crucial para Blackburn Aircraft y para la aviación naval británica. Después de extensas pruebas en tierra en la fábrica de Brough, el prototipo XK486 fue trasladado a RAE Bedford, que disponía de una pista más larga adecuada para el primer vuelo.
 
@@ -80,9 +80,7 @@ El piloto de pruebas Derek Whitehead, un teniente comandante de la Royal Navy co
 
 El vuelo, que duró aproximadamente 30 minutos, se consideró un éxito. El avión demostró un buen control y estabilidad, allanando el camino para un extenso programa de pruebas. El prototipo XK486, con su característico morro romo que le valió el apodo "Banana Jet", era el primer paso hacia uno de los aviones de ataque naval más exitosos de la Guerra Fría.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Diseño e innovaciones técnicas
+### Diseño e innovaciones técnicas
 
 El Buccaneer incorporó varias características avanzadas que lo hicieron único.
 
@@ -98,17 +96,13 @@ Para operar desde los portaaviones de la Royal Navy, que tenían cubiertas de vu
 
 A pesar de sus muchas virtudes, el Buccaneer S.1 original estaba subalimentado por sus motores de Havilland Gyron Junior. Esta falta de potencia provocó varios accidentes durante los primeros años de servicio. La Royal Navy respondió rápidamente y ordenó la versión S.2, equipada con los mucho más potentes motores Rolls-Royce Spey.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Buccaneer S.2: la evolución definitiva
+### El Buccaneer S.2: la evolución definitiva
 
 El Buccaneer S.2, con sus motores Rolls-Royce Spey, supuso un salto cualitativo en el rendimiento. La mayor potencia resolvió los problemas de seguridad del S.1 y mejoró la capacidad de carga útil y el alcance. El S.2 presentaba tomas de aire de mayor tamaño y forma elíptica, y los motores Spey proporcionaban una fiabilidad muy superior.
 
 El S.2 se convirtió en la variante definitiva del Buccaneer, sirviendo tanto en la Royal Navy como, posteriormente, en la Royal Air Force. También fue la base del Buccaneer S.50, una versión de exportación para Sudáfrica. Los S.50 estaban equipados con motores cohete Bristol Siddeley BS.605 para proporcionar un empuje adicional en los aeródromos africanos de "alta temperatura y gran altitud" (hot and high), aunque en la práctica estos cohetes rara vez se utilizaron y finalmente se retiraron.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Servicio operativo
+### Servicio operativo
 
 El Buccaneer entró en servicio con la Royal Navy el 17 de julio de 1962. A lo largo de las décadas de 1960 y 1970, fue el pilar de la capacidad de ataque de la Fleet Air Arm, patrullando el Atlántico Norte y listo para enfrentarse a los buques de guerra soviéticos.
 
@@ -162,7 +156,7 @@ Hoy, varios Buccaneers se conservan en museos del Reino Unido y Sudáfrica, reco
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), BAE Systems, Global Security, 1000 Aircraft Photos
 - **Discrepancias resueltas:** La fecha del primer vuelo es consistente (30 de abril de 1958). El lugar del primer vuelo presenta una discrepancia (RAE Bedford vs Boscombe Down); se ha priorizado RAE Bedford por ser la fuente del fabricante. El piloto fue Derek Whitehead. El número de unidades construidas fue 211.
 - **Nivel de confianza:** Alto

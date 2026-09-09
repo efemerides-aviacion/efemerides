@@ -53,6 +53,8 @@ El desarrollo de grandes aeronaves de carga era un campo en rápida evolución. 
 
 La aviación comercial y militar estadounidense estaba en su "Edad de Oro". Los vuelos récord, los nuevos modelos de aviones y las hazañas de los pilotos llenaban las portadas de las revistas. El C-133 estableció varios récords no oficiales, incluyendo un vuelo sin escalas de 5.150 millas desde Japón a California en 17 horas y 20 minutos.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **1954:** La USAF emite el requisito SS402L para un sistema de soporte logístico de gran capacidad.
@@ -64,9 +66,7 @@ La aviación comercial y militar estadounidense estaba en su "Edad de Oro". Los 
 - **1961:** Finaliza la producción; se han construido 50 unidades (35 C-133A y 15 C-133B).
 - **1971:** La flota es retirada del servicio activo tras la introducción del C-5 Galaxy.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El primer vuelo: un comienzo sin prototipos
+### El primer vuelo: un comienzo sin prototipos
 
 El Douglas C-133 Cargomaster tuvo una característica singular en su desarrollo: **no se construyeron prototipos**. El primer ejemplar (54-0135) fue directamente una unidad de producción, un testimonio de la confianza de la USAF en el diseño de Douglas y de la urgencia por contar con el avión en servicio.
 
@@ -87,9 +87,7 @@ El C-133 era un coloso para su época:
 - **Peso máximo al despegue:** 130.000 kg (286.000 libras)
 - **Capacidad de carga:** 50.000 kg (110.000 libras) o 200 pasajeros
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Servicio operativo
+### Servicio operativo
 
 El C-133 Cargomaster entró en servicio en agosto de 1957 con el Military Air Transport Service (MATS) de la USAF. Durante sus quince años de vida operativa, el avión desempeñó misiones críticas que iban desde el transporte de misiles balísticos intercontinentales hasta el apoyo logístico en Vietnam y el traslado de cohetes para los programas espaciales Mercury, Gemini y Apollo. Su capacidad de carga sin precedentes lo convirtió en una pieza indispensable de la maquinaria militar y espacial estadounidense.
 
@@ -167,7 +165,7 @@ El C-133 Cargomaster es recordado como el único transporte estratégico turboh�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
 - **Fuentes primarias/institucionales consultadas:** National Museum of the USAF, Wikipedia (EN/FR/archivo), Vintage Aviation News, Flug Revue, Aviation Safety Network
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (23 de abril de 1956). Existe una ligera discrepancia en el número exacto de C-133A vs C-133B construidos (35/15 según el Museo de la USAF; 32/18 según otras fuentes). La cifra total de 50 unidades es consistente. La tripulación varía entre 4 y 6 miembros según la fuente.
 - **Nivel de confianza:** Alto

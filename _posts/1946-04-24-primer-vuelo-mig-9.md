@@ -60,6 +60,8 @@ A diferencia de los cazas occidentales, que utilizaban motores de flujo centríf
 
 La rivalidad entre las oficinas de diseño soviéticas (OKB) era intensa. Mikoyan-Gurevich (MiG) y Yakovlev (Yak) competían por el favor de Stalin y del gobierno. Ambos presentaron sus prototipos de cazas a reacción casi simultáneamente. Los dos prototipos competidores fueron trasladados al campo de pruebas de vuelo de Chkalovskaya en la primavera de 1946, donde ya esperaba el Yak-15. Según la tradición, se lanzó una moneda al aire para decidir qué avión volaría primero. El MiG ganó, y dos horas después voló el Yak.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **Febrero de 1945:** Stalin ordena en el Kremlin el desarrollo de cazas a reacción con motores alemanes capturados.
@@ -73,9 +75,7 @@ La rivalidad entre las oficinas de diseño soviéticas (OKB) era intensa. Mikoya
 - **1950:** El diseño se demuestra obsoleto frente al MiG-15, que utiliza el motor Rolls-Royce Nene copiado (RD-45).
 - **1952:** El MiG-9 es retirado del servicio en la URSS.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El primer vuelo: el nacimiento del MiG-9
+### El primer vuelo: el nacimiento del MiG-9
 
 El 24 de abril de 1946 fue un día histórico para la aviación soviética. El piloto de pruebas Alexéi Grinchik, sentado en la cabina del prototipo I-300 en el aeródromo de pruebas de Chkalovskaya (cerca de Moscú), recibió la orden de iniciar los motores RD-20. Eran las 9:44 de la mañana.
 
@@ -93,9 +93,7 @@ La solución inicial fue instalar un carenado rectangular hueco en el cañón N-
 
 La OTAN asignó al MiG-9 el nombre en código "Fargo". El origen de esta designación era arbitrario, como todas las designaciones OTAN para aviones soviéticos, que comenzaban con la letra "F" para los cazas (Fighter). Fargo fue simplemente el nombre asignado sin un significado especial.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Producción y servicio
+### Producción y servicio
 
 Entre 1947 y 1948, la Fábrica de Aeronaves de Moscú (GAZ-1) produjo 610 unidades del MiG-9, incluyendo el primer prototipo y variantes experimentales. Su servicio en la Fuerza Aérea Soviética fue breve: desde 1948 hasta 1952. Las limitaciones del diseño (sobre todo los problemas con los cañones y la obsolescencia de los motores RD-20) lo dejaron rápidamente relegado frente al MiG-15.
 
@@ -110,9 +108,7 @@ A partir del MiG-9 se desarrollaron múltiples versiones experimentales:
 - **I-320 (MiG-9FN):** Diseñado para usar un motor Rolls-Royce Nene importado, pero nunca se completó porque el MiG-15 utilizó el mismo motor y ofrecía un rendimiento superior.
 - **MiG-9UTI (Uchebno-Trenirovochnyy Istrebitel):** Versión biplaza de entrenamiento, diseñada para la transición de pilotos a los cazas a reacción con tren de aterrizaje triciclo. Entró en producción a partir de 1948, pero su desarrollo fue limitado porque el MiG-15 (con su propia versión de entrenamiento UTI) ya demostraba un rendimiento superior.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones (MiG-9 / FS / I-301)
+### Especificaciones (MiG-9 / FS / I-301)
 
 - **Tripulación:** 1
 - **Longitud:** 9,75 metros
@@ -178,7 +174,7 @@ El 24 de abril de 1946 sigue siendo una fecha emblemática en la historia de la 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), Britannica, EcuRed, Zona Militar, AviaStar, Skytamer, RussianWarrior
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (24 de abril de 1946). El "salto" del 19 de abril de 1946 se menciona en algunas fuentes como una prueba previa. La rivalidad MiG vs Yak y el lanzamiento de la moneda es una tradición ampliamente citada, aunque no documentada oficialmente. Se ha corregido la ubicación (Chkalovskaya en lugar de Ramenskoye) y se han precisado los detalles técnicos (apodo "Butterfly", transferencia de 372 unidades a China, etc.).
 - **Nivel de confianza:** Alto

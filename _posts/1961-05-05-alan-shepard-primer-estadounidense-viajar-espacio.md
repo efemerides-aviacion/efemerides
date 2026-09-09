@@ -60,6 +60,8 @@ El Proyecto Mercury fue el primer programa de vuelos espaciales tripulados de Es
 
 La imagen del astronauta Shepard, entrando en la cápsula y aguardando el lanzamiento durante horas debido a los retrasos meteorológicos, cautivó al público estadounidense. Su famosa frase durante el vuelo —"Todo está bien, ¿eh?" ("A-OK")— se convirtió en parte del léxico popular. El éxito de la misión no solo fue un triunfo técnico, sino también un poderoso mensaje de resiliencia y determinación en medio de la Guerra Fría.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Desarrollo Cronológico
 
 - **9 de abril de 1959:** La NASA presenta a los "Mercury 7", el primer grupo de astronautas estadounidenses, del cual Shepard forma parte
@@ -73,9 +75,7 @@ La imagen del astronauta Shepard, entrando en la cápsula y aguardando el lanzam
 - **8 de mayo de 1961:** El presidente John F. Kennedy otorga a Shepard la Medalla por Servicio Distinguido de la NASA
 - **25 de mayo de 1961:** Kennedy anuncia ante el Congreso el objetivo de llevar un hombre a la Luna antes del final de la década
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## El vuelo de Freedom 7
+### El vuelo de Freedom 7
 
 El 5 de mayo de 1961, después de dos días de intentos fallidos por las condiciones climáticas, Alan Shepard ascendió al cielo a bordo de su cápsula "Freedom 7". El cohete Redstone lo impulsó a una velocidad máxima de más de 8.200 km/h.
 
@@ -91,9 +91,7 @@ Tras 15 minutos y 28 segundos de vuelo, la cápsula Freedom 7 cayó en paracaíd
 
 El presidente John F. Kennedy seguía el vuelo de Shepard por televisión. Poco después, felicitó a los controladores de la misión desde la Casa Blanca. El éxito de la misión Freedom 7 impulsó el lanzamiento del programa espacial estadounidense a un ritmo frenético. Menos de tres semanas después, el 25 de mayo de 1961, Kennedy presentó al Congreso el objetivo de Estados Unidos de llevar un hombre a la Luna y traerlo de vuelta sano y salvo antes de que terminara la década.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Anécdotas del vuelo
+### Anécdotas del vuelo
 
 Más allá de los datos técnicos y las cifras, el vuelo de Alan Shepard dejó varias anécdotas que revelan el carácter humano de la misión, desde la incomodidad de una larga espera hasta el impresionante control fisiológico del astronauta en momentos de máxima tensión.
 
@@ -152,7 +150,7 @@ Shepard falleció el 21 de julio de 1998, a la edad de 74 años. Su legado perdu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA (.gov), Wikipedia, Space Center Houston, Revista Hacia el Espacio (AEM), El Mundo
 - **Discrepancias resueltas:** La duración del vuelo varía entre 15 minutos 22 segundos (fuentes iniciales) y 15 minutos 28 segundos (datos más precisos del informe de vuelo). Se ha priorizado la cifra de 15 minutos 28 segundos, que es la más utilizada en las fuentes actualizadas. La altitud máxima es consistente en todas las fuentes (187,5 km).
 - **Nivel de confianza:** Alto

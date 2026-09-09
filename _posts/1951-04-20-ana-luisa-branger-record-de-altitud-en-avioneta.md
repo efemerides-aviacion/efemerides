@@ -55,6 +55,8 @@ El Piper J-3 Cub era un avión ligero, sencillo y fiable, diseñado originalment
 
 Los récords de aviación en la década de 1950 eran cubiertos ampliamente por la prensa internacional. Las hazañas de pilotos como Branger no solo demostraban capacidad técnica, sino que también eran motivo de orgullo nacional. Venezuela, que entonces vivía un período de bonanza petrolera y modernización, celebraba a sus pioneros como símbolos de progreso.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **1918 (17 de junio):** Nace Ana Luisa de San José Branger Mordaing Long en Valencia, estado Carabobo, Venezuela.
@@ -64,9 +66,7 @@ Los récords de aviación en la década de 1950 eran cubiertos ampliamente por l
 - **20 de abril de 1951:** Desde Hybla Valley Airport, establece un nuevo récord mundial de altitud de 8.276 metros (27.152 pies), superando la marca de 25.000 pies del francés René Leduc.
 - **Décadas posteriores:** Branger continúa vinculada a la aviación y a la diplomacia. Su legado perdura como pionera de la aviación civil venezolana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El récord del 20 de abril de 1951: detalles técnicos y humanos
+### El récord del 20 de abril de 1951: detalles técnicos y humanos
 
 El 20 de abril de 1951, Ana Luisa Branger se preparaba para una hazaña que quedaría registrada en los anales de la aviación mundial.
 
@@ -94,9 +94,7 @@ La Fédération Aéronautique Internationale (FAI), organismo mundial que ratifi
 
 Es importante señalar que las fuentes periodísticas de la época y las enciclopedias divulgativas reportan la hazaña con cifras dispares: 28.820 pies (equivalente a 8.790 m) según El Nacional, y 26.820 pies según Aviation Week. Sin embargo, el registro oficial de la FAI establece la altitud en 8.276 m (27.152 pies). Esta diferencia puede deberse a métodos de medición distintos (altitud presión frente a altitud geopotencial) o a aproximaciones en la conversión de unidades. En esta efeméride se ha priorizado la cifra oficial de la FAI, por ser la entidad certificadora del récord.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Primer récord mundial (31 de marzo de 1950)
+### Primer récord mundial (31 de marzo de 1950)
 
 El 31 de marzo de 1950, Ana Luisa Branger ya había establecido un récord mundial de altitud desde Congressional Airport (Rockville, Maryland), alcanzando **7.469 metros (24.504 pies)** en la clase internacional de avionetas ligeras. Esta hazaña superó la marca anterior de 18.999 pies (5.791 m) establecida por la aviadora francesa Elizabeth Boselli. La prensa internacional cubrió ampliamente el evento, destacando el logro de la piloto venezolana.
 
@@ -152,7 +150,7 @@ El ejemplo de Ana Luisa Branger demuestra que la pasión por volar no entiende d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
 - **Fuentes primarias/institucionales consultadas:** FAI (Fédération Aéronautique Internationale) - registro oficial 10314, Aviation Week (30 de abril de 1951), Flying Magazine (agosto de 1950), Wikipedia (EN/ES), Venezolanos Ilustres, El Nacional, INAC Venezuela
 - **Discrepancias resueltas:** Se ha priorizado la cifra oficial de la FAI (8.276 m) sobre las cifras periodísticas dispares (28.820 y 26.820 pies) por ser la entidad certificadora del récord, con nota aclaratoria. El registro de la FAI describe la aeronave como «PA-18-150 Super Cub», designación de una variante posterior a 1951; se mantiene la identificación Piper PA-18 Super Cub, respaldada por la prensa de la época (Aviation Week, 30-abr-1951), y se precisa que el Cub Special con motor C-90-8F corresponde al récord de 1950. La fecha de nacimiento de Ana Luisa Branger no ha podido ser verificada con fuentes primarias, por lo que se omite del post o se presenta como no confirmada.
 - **Nivel de confianza:** Alto

@@ -61,6 +61,8 @@ El Douglas DC-3 era, en 1960, uno de los aviones comerciales más utilizados en 
 
 La figura del "pasajero rebelde" o del "secuestrador" era prácticamente desconocida para el público venezolano de 1960. Los vuelos eran percibidos como entornos seguros, y la idea de que un pasajero pudiera introducir un artefacto explosivo a bordo resultaba inimaginable. El atentado del vuelo 304 conmocionó a la sociedad venezolana y ocupó las primeras planas de los periódicos de la época. La investigación oficial, que no logró establecer de manera concluyente las motivaciones del atacante, dejó abiertas múltiples hipótesis que han alimentado el debate histórico hasta nuestros días.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
+
 ## Desarrollo Cronológico
 
 - **28 de abril de 1960, 07:30:** El Douglas DC-3 YV-C-AFE despega del Aeropuerto de Maiquetía con destino a Puerto Ayacucho, vía Calabozo y San Fernando de Apure.
@@ -71,9 +73,7 @@ La figura del "pasajero rebelde" o del "secuestrador" era prácticamente descono
 - **Posteriores al impacto:** La azafata Regine Marie Rachinel y dos pasajeros (José Chacín y Marcelina de Flores) sobreviven inicialmente al impacto y logran relatar lo sucedido, pero fallecen horas después a causa de sus heridas.
 - **Posteriores a la tragedia:** La Fuerza Aérea Venezolana construye un monumento en el lugar del accidente y coloca una placa en memoria de los tripulantes y pasajeros fallecidos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
-
-## El atentado: el primer secuestro con explosivos en Venezuela
+### El atentado: el primer secuestro con explosivos en Venezuela
 
 Un minuto antes del aterrizaje en Calabozo, el Comandante Medina Guerra recibió un papel, escrito por Lavinski, que decía: *"Yo soy un expropiado suicida, no queda más remedio que obedecer o estallaré el avión, mientras sostenga la palanca de la bomba, ¡pásalo!"*.
 
@@ -89,9 +89,7 @@ En lugar de ceder, Lavinski, que también llevaba consigo un libro titulado "Mue
 
 La robustez del fuselaje del DC-3 permitió que tres personas sobrevivieran al impacto inicial: la azafata Regine Marie Rachinel y los pasajeros José Chacín y Marcelina de Flores. Durante las horas siguientes, antes de sucumbir a sus heridas, lograron relatar a los equipos de rescate lo que había ocurrido. Gracias a sus testimonios, las autoridades pudieron reconstruir los hechos e identificar a Lavinski como el autor material del atentado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
-
-## Investigación y motivaciones
+### Investigación y motivaciones
 
 Las investigaciones oficiales no lograron determinar con certeza las motivaciones de Wjatheslav Lavinski para cometer el atentado.
 
@@ -109,9 +107,7 @@ Las investigaciones oficiales no lograron determinar con certeza las motivacione
 
 La nota de amenaza enviada por Lavinski a los pilotos fue encontrada en el bolsillo del uniforme del copiloto Tito Livio Parra, fallecido en la explosión. Esta evidencia fue clave para confirmar la naturaleza terrorista del siniestro y descartar fallos mecánicos o estructurales.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
-
-## Víctimas
+### Víctimas
 
 El vuelo 304 de Aeropostal transportaba a 13 personas: 3 tripulantes y 10 pasajeros. Todos fallecieron como consecuencia del atentado, aunque tres de ellos (la azafata Rachinel y dos pasajeros) sobrevivieron inicialmente al impacto y lograron relatar lo sucedido antes de sucumbir a sus heridas horas después.
 
@@ -189,7 +185,7 @@ Hoy, la matrícula YV-C-AFE ya no existe. El avión quedó destruido en el impac
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), FavClubVen (artículo del Coronel José Luis Ochoa Vargas), Plane Crash Info
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (28 de abril de 1960) y en la mayoría de los datos. El número de ocupantes varía ligeramente (13 según la mayoría, 10 según algunas fuentes). Se ha priorizado la cifra de 13 (3 tripulantes + 10 pasajeros). La hora del despegue fue a las 07:30 y la explosión a las 08:22. Los nombres de los tripulantes y pasajeros están documentados en el artículo del Coronel José Luis Ochoa Vargas.
 - **Nivel de confianza:** Alto

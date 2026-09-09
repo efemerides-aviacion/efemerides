@@ -53,6 +53,8 @@ El VC10 era un avión avanzado para su época. Incorporaba un sistema de control
 
 El VC10 fue recibido con entusiasmo en el Reino Unido como un símbolo de la ingeniería británica. Su elegante diseño, con la cola alta y las alas en flecha, lo hacían inconfundible. Aunque comercialmente no fue un éxito (solo se construyeron 54 unidades), el VC10 ganó una base de seguidores leales entre pasajeros y tripulaciones, que apreciaban su fiabilidad y confort .
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **1956:** BOAC comienza a estudiar los requisitos para un nuevo avión para rutas africanas 
@@ -69,9 +71,7 @@ El VC10 fue recibido con entusiasmo en el Reino Unido como un símbolo de la ing
 - **1 de abril de 1965:** Entrada en servicio del Super VC10 
 - **30 de septiembre de 2013:** Retiro del último VC10 del servicio activo de la RAF 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El VC10: diseño y características
+### El VC10: diseño y características
 
 El Vickers VC10 fue concebido como un avión de largo alcance para rutas "hot and high". Su diseño incluía varias características innovadoras que lo diferenciaban de sus competidores estadounidenses (Boeing 707 y Douglas DC-8).
 
@@ -94,9 +94,7 @@ Durante las pruebas de vuelo, se descubrió que la resistencia aerodinámica del
 
 El Super VC10 era una versión de fuselaje alargado (13 pies o 3,96 metros más largo) y mayor alcance. Estaba propulsado por motores Conway RCo.43 más potentes y tenía un depósito de combustible adicional en el estabilizador vertical. Voló por primera vez el 7 de mayo de 1964 y entró en servicio en abril de 1965 .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El vuelo inaugural a Lagos
+### El vuelo inaugural a Lagos
 
 El 29 de abril de 1964, el VC10 Type 1101 G-ARVJ (c/n 812), con la librea "Golden Speedbird" de BOAC, despegó del aeropuerto de Londres Heathrow con destino a Lagos, Nigeria. Este vuelo marcó la entrada oficial del VC10 en servicio comercial .
 
@@ -161,7 +159,7 @@ El 20 de septiembre de 2013, la RAF retiró el último VC10 en servicio activo, 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), London Air Travel, VC10.net, Alamy
 - **Discrepancias resueltas:** La fecha del Certificado de Aeronavegabilidad varía entre el 22 y 23 de abril de 1964; se ha priorizado el 23 de abril. El primer vuelo comercial fue el 29 de abril de 1964 confirmado por todas las fuentes. El avión G-ARVJ (c/n 812) fue el primero en operar la ruta Londres-Lagos.
 - **Nivel de confianza:** Alto

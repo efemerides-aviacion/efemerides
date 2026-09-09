@@ -57,6 +57,8 @@ El U-2 era un avión de reconocimiento de gran altitud diseñado por Lockheed Sk
 
 La propaganda jugó un papel crucial en este incidente. Jrushchov manejó la información con calculada precisión para maximizar la humillación de Estados Unidos. Durante seis días, ocultó que Powers estaba vivo, permitiendo que el gobierno estadounidense negara el vuelo de espionaje y presentara una coartada falsa (un avión meteorológico de la NASA extraviado). Luego, el 7 de mayo, reveló ante el Soviet Supremo que Powers estaba vivo y había confesado, exponiendo la mentira estadounidense ante el mundo.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **9 de abril de 1960:** Misión previa exitosa del piloto Bob Ericson (U-2C), sobrevolando Semipalatinsk, Tyuratam (Baikonur) y Saryshagan; detectado pero evadió a los MiG-19 y Su-9
@@ -71,9 +73,7 @@ La propaganda jugó un papel crucial en este incidente. Jrushchov manejó la inf
 - **19 de agosto de 1960:** Powers es sentenciado a 10 años de prisión (3 años de cárcel, 7 años de trabajos forzados) 
 - **10 de febrero de 1962:** Powers y el espía soviético Rudolf Abel son intercambiados en el Puente Glienicke (Berlín) 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La misión: Operation Grand Slam
+### La misión: Operation Grand Slam
 
 El 1 de mayo de 1960, Día Internacional de los Trabajadores, Francis Gary Powers despegó de la base de Badaber en Peshawar, Pakistán, a bordo de su U-2C "Article 360". Su misión, denominada "Operation Grand Slam", lo llevaría a atravesar la Unión Soviética de sur a norte, fotografiar instalaciones militares clave en los Montes Urales (incluyendo sitios de misiles ICBM cerca de Sverdlovsk y Plesetsk) y finalmente aterrizar en la base aérea militar de Bodø, Noruega.
 
@@ -85,9 +85,7 @@ La ruta discurría sobre el mar de Aral, la región de Semipalatinsk (centro de 
 
 Los soviéticos habían detectado vuelos de U-2 anteriores y estaban decididos a detener este a cualquier costo. Unidades de defensa aérea en Asia Central, Kazajistán, Siberia y los Urales fueron puestas en alerta roja. Se desplegaron cazas MiG-19, y los nuevos misiles tierra-aire S-75 Dvina se posicionaron estratégicamente. El Teniente General Yevgueny Savitsky ordenó a los comandantes de las unidades aéreas que atacaran la aeronave intrusa "por todos los medios" y la embistieran si fuera necesario.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El derribo: el avión que cayó del cielo
+### El derribo: el avión que cayó del cielo
 
 A cuatro horas de vuelo desde su despegue en Pakistán, Powers se aproximaba a la ciudad de Sverdlovsk cuando fue detectado por las defensas aéreas soviéticas.
 
@@ -107,9 +105,7 @@ El centro de comando de misiles tardó más de 30 minutos en confirmar que el U-
 
 Powers llevaba consigo una pequeña carga explosiva diseñada para destruir la cámara del avión en caso de ser derribado. Sin embargo, en la confusión y el pánico de la eyección, no logró activarla. Los restos del U-2, incluyendo su cámara de alta resolución y la mayor parte del equipo de vigilancia, cayeron prácticamente intactos en territorio soviético. También llevaba una moneda de un dólar de plata modificada que escondía una aguja impregnada con saxitoxina (derivada de mariscos) para suicidarse; Powers no la usó.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El encubrimiento y la mentira
+### El encubrimiento y la mentira
 
 El gobierno estadounidense no sabía que Powers había sobrevivido. Asumieron que el avión había sido destruido y Powers estaba muerto.
 
@@ -125,9 +121,7 @@ Jrushchov, que había estado planeando su movimiento desde el momento de la capt
 
 El 11 de mayo, Eisenhower asumió la responsabilidad personal por los vuelos de espionaje. Admitió públicamente la existencia del programa U-2, pero justificó la necesidad de espiar a la Unión Soviética para "evitar otro Pearl Harbor". Anunció la suspensión de nuevos vuelos sobre la URSS, pero no cumplió las exigencias de Jrushchov de disculparse y castigar a los responsables.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La Cumbre de París: el fracaso del desarme
+### La Cumbre de París: el fracaso del desarme
 
 La Cumbre de París, prevista para el 16 de mayo de 1960, debía ser un hito diplomático. Eisenhower, Jrushchov, de Gaulle y Macmillan se reunirían para discutir el desarme nuclear y la situación de Berlín, que se había convertido en un punto álgido de la Guerra Fría.
 
@@ -139,9 +133,7 @@ Jrushchov llegó a París exigiendo una disculpa pública de Estados Unidos por 
 
 De Gaulle sugirió una reunión privada para resolver la situación, pero Jrushchov la rechazó. El 17 de mayo, la cumbre fue oficialmente cancelada. Eisenhower nunca visitaría la Unión Soviética, y el sueño de la distensión en 1960 se desvaneció. La relación entre Estados Unidos y la Unión Soviética se deterioró aún más, intensificando las tensiones de la Guerra Fría.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El juicio y el canje de espías
+### El juicio y el canje de espías
 
 Powers fue juzgado en Moscú en agosto de 1960. Se declaró culpable de espionaje y fue condenado a diez años de prisión: tres años en una prisión común y siete años en un campo de trabajo.
 
@@ -198,7 +190,7 @@ Los restos del U-2 que Powers pilotaba se exhiben hoy en el Museo Central de la 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Aviation Week, Super Sabre Society, Los Angeles Times, BBC
 - **Discrepancias resueltas:** Las fuentes confirman que el derribo del MiG-19 fue por fuego amigo de la misma salva de misiles. Powers se eyectó después de que su avión fuera alcanzado. El intercambio de Powers por Abel ocurrió el 10 de febrero de 1962.
 - **Nivel de confianza:** Alto
