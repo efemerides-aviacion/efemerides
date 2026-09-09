@@ -78,8 +78,8 @@ El ataque a Pearl Harbor transformó la guerra en el Pacífico y aceleró la ent
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Entrevista publicada (Japan Forward); obituarios corroborados (El Debate; Infobae/Washington Post); repositorio histórico (War History Online); síntesis especializada (Sandglass Patrol).  
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** Entrevista publicada (Japan Forward); obituarios corroborados (El Debate; Infobae/Washington Post); repositorio histórico (War History Online); síntesis especializada (Sandglass Patrol).  
 - **Discrepancias resueltas:** Variación toponímica del lugar de nacimiento (Noto/Notomachi) [NO CONFIRMADO hasta registro municipal]; detalle del año exacto de ingreso militar [NO CONFIRMADO].  
 - **Nivel de confianza:** Alto en fechas clave (nacimiento, fallecimiento, rol en Pearl Harbor); Medio en detalles biográficos de carrera por falta de documento primario público.  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

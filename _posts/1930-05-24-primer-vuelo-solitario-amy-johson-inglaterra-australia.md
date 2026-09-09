@@ -139,8 +139,8 @@ El 24 de mayo de 1930 sigue siendo una fecha clave en la historia de la aviació
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** New Zealand Herald (archivo histórico de 1930), Dominion (archivo histórico de 1930), Science Museum de Londres, Longines
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** New Zealand Herald (archivo histórico de 1930), Dominion (archivo histórico de 1930), Science Museum de Londres, Longines
 - **Discrepancias resueltas:** Confirmación de la fecha de aterrizaje (24 de mayo de 1930) frente a la fecha de salida (5 de mayo de 1930). El vuelo duró 19 días, no 21 como algunas fuentes secundarias sugieren. Verificada la hora aproximada del aterrizaje mediante la prensa de la época.
 - **Nivel de confianza:** Alto (fuentes primarias de prensa contemporánea al evento y registros institucionales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

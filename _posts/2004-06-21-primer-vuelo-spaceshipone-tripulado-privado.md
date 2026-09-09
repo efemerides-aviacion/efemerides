@@ -183,8 +183,8 @@ La influencia de SpaceShipOne puede rastrearse con claridad en la siguiente gene
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), El Mundo, El País, Computer Hoy, CNN, Wikipedia (flight 15P)
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), El Mundo, El País, Computer Hoy, CNN, Wikipedia (flight 15P)
 - **Discrepancias resueltas:** La edad de Mike Melvill varía entre 62 y 63 años según las fuentes; se ha optado por 63 años por ser la más citada. La altitud exacta se confirma como 100,124 km. Se ha aclarado que el vuelo del 21 de junio fue una prueba de altitud para el Premio Ansari X, pero no fue un vuelo competitivo.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

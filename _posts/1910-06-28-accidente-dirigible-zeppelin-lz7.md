@@ -105,8 +105,8 @@ Hoy en día, el accidente del dirigible LZ 7 «Deutschland» es recordado como e
 
 Para garantizar la rigurosidad editorial y la trazabilidad de la información presentada, se detallan a continuación los metadatos de control técnico e histórico que respaldan este post:
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Base de datos histórica de la red de seguridad de la aviación (Aviation Safety Network - ASN), archivos históricos de DELAG y Luftschiffbau Zeppelin GmbH, artículos conmemorativos de la ciudad de Bad Iburg y de la Asociación del Bosque de Teutoburgo
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** Base de datos histórica de la red de seguridad de la aviación (Aviation Safety Network - ASN), archivos históricos de DELAG y Luftschiffbau Zeppelin GmbH, artículos conmemorativos de la ciudad de Bad Iburg y de la Asociación del Bosque de Teutoburgo
 - **Discrepancias resueltas:** Se ha clarificado la diferencia entre las cifras de ocupantes (algunas fuentes mencionan genéricamente 19 pasajeros correspondientes únicamente a los periodistas, mientras que el recuento oficial incluye a 24 pasajeros en total, sumando directivos de la compañía, además de los 8 tripulantes para un total de 32 personas a bordo). También se aclaró que los motores Daimler fueron recuperados y reutilizados en el zepelín LZ 8.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

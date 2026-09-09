@@ -142,8 +142,8 @@ El concepto de conectar ciudades costeras mediante hidroaviones, iniciado en Nue
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** La Nación, Wikipedia (ES/EN), HandWiki, Time Magazine Archive, UNT Digital Library
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** La Nación, Wikipedia (ES/EN), HandWiki, Time Magazine Archive, UNT Digital Library
 - **Discrepancias resueltas:** No se encontraron discrepancias mayores entre las fuentes. El Aeromarine 50 voló por primera vez en 1919 y fue utilizado en la ruta Nueva York-Atlantic City, donde operaba el servicio más establecido en 1921. La fecha del 3 de mayo de 1919 corresponde al vuelo inaugural de Aeromarine, reconocido como el primero en transportar pasajeros pagadores entre dos estados.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

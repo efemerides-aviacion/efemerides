@@ -149,8 +149,8 @@ El bombardeo de Guernica es recordado como un anticipo de los horrores que la av
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES), Anne Frank Stichting, Fundación Museo de la Paz de Gernika, Ministerio de Cultura de España, WW2 Database, ACAMI
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), Anne Frank Stichting, Fundación Museo de la Paz de Gernika, Ministerio de Cultura de España, WW2 Database, ACAMI
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (26 de abril de 1937) y el horario aproximado (16:20-19:40). El número de víctimas varía: el informe del Gobierno de Euzkadi cifró 1.654 muertos; investigaciones posteriores reducen la cifra a varios centenares. La mayoría de los historiadores actuales coinciden en que hubo centenares de víctimas civiles, aunque la cifra exacta sigue siendo debatida.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

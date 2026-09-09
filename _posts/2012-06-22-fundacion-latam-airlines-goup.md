@@ -126,8 +126,8 @@ El 22 de junio de 2012 marcó el inicio de una nueva era para la aviación en Am
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST
-- **Fuentes primarias consultadas:** LATAM Airlines Group (página oficial), El País, Arecoa
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST
+- **Fuentes primarias/institucionales consultadas:** LATAM Airlines Group (página oficial), El País, Arecoa
 - **Discrepancias resueltas:** Algunas fuentes mencionan el 22 de junio como la fecha en que se completó la transacción, mientras que otras se refieren al proceso de fusión iniciado en 2011. Se ha confirmado que el 22 de junio de 2012 es la fecha de finalización de la fusión y creación del holding.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

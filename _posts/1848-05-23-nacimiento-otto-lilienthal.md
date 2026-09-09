@@ -134,8 +134,8 @@ El legado de Otto Lilienthal perdura en numerosas instituciones y lugares conmem
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Britannica, Wikipedia (ES/DE/EN), Centro Aeroespacial Alemán (DLR), Atlas Obscura, Placas conmemorativas de Berlín
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** Britannica, Wikipedia (ES/DE/EN), Centro Aeroespacial Alemán (DLR), Atlas Obscura, Placas conmemorativas de Berlín
 - **Discrepancias resueltas:** Se ha verificado la fecha exacta de nacimiento (23 de mayo de 1848) en fuentes primarias. Se ha confirmado la existencia de la Montaña Voladora como colina artificial de 15 metros construida por Lilienthal en 1894. Se ha documentado el "Aparato de vuelo normal" como el primer aeroplano producido en serie.
 - **Nivel de confianza:** Alto (múltiples fuentes independientes coinciden en fechas, lugares y logros técnicos)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

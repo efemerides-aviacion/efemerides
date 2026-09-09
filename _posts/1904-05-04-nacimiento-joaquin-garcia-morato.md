@@ -198,8 +198,8 @@ Hoy, más de 85 años después de su muerte, Joaquín García-Morato sigue siend
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), Biplane Fighter Aces, Museo Aviación Militar Española, Apuntes sobre la marcha
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Biplane Fighter Aces, Museo Aviación Militar Española, Apuntes sobre la marcha
 - **Discrepancias resueltas:** La fecha de nacimiento (4 de mayo de 1904) es consistente en todas las fuentes. La fecha de concesión de la Laureada varía entre el 12 de mayo de 1937 y el 25 de mayo de 1937; se ha priorizado la primera. El número de victorias (40) es consistente. La distribución de victorias entre el Heinkel He 51 y el Fiat CR.32 está documentada en fuentes especializadas.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

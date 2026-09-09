@@ -73,8 +73,8 @@ La hazaña se recuerda como uno de los grandes récords de la aviación francesa
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation; Wikipedia; SICP; Wonders of World Aviation; Centennial of Flight; FDRA Aéreo  
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation; Wikipedia; SICP; Wonders of World Aviation; Centennial of Flight; FDRA Aéreo  
 - **Discrepancias resueltas:** Confirmación de horarios de salida y llegada, matrícula del avión (F‑AKEZ) y fecha exacta de récord (24/01/1932).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

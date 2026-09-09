@@ -176,8 +176,8 @@ El aeropuerto ha sido testigo de la historia de España: la Guerra Civil (durant
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
-- **Fuentes primarias consultadas:** Aena (página oficial), Wikipedia (ES), BBVA, La Razón, ABC, Sociedad Aeronáutica Española, EL PAÍS, Telemadrid
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST
+- **Fuentes primarias/institucionales consultadas:** Aena (página oficial), Wikipedia (ES), BBVA, La Razón, ABC, Sociedad Aeronáutica Española, EL PAÍS, Telemadrid
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre la apertura al tráfico (22 de abril de 1931), la inauguración pública (30 de abril de 1931) y el inicio de operaciones comerciales (15 de mayo de 1933). También se ha precisado que Jacobo Armijo fue el primer jefe/director, nombrado en mayo de 1931. Las fuentes coinciden en la superficie de los terrenos (entre 330 y 493 hectáreas) y en el costo de adquisición (730.000 pesetas).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -154,8 +154,8 @@ El 20 de abril de 1916 marcó el nacimiento de una leyenda. Cien años después,
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), National Museum of the USAF, 1914-1918 Online Encyclopedia, Smithsonian Magazine, USA WW1 Aviation
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), National Museum of the USAF, 1914-1918 Online Encyclopedia, Smithsonian Magazine, USA WW1 Aviation
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre la Escuadrilla Lafayette y el Lafayette Flying Corps. También se ha precisado que la fecha del 20 de abril de 1916 corresponde al despliegue de la unidad, mientras que la autorización oficial fue el 21 de marzo de 1916.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

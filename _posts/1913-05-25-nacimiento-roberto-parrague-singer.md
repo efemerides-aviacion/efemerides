@@ -142,8 +142,8 @@ Roberto Parragué Singer es recordado como el "pionero del cielo de Rapa Nui". S
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES), Fuerza Aérea de Chile (sitio oficial), Embajada de Australia en Chile, DGAC Chile, Senado de Chile (Diario de Sesiones 1996), El Rancagüino
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), Fuerza Aérea de Chile (sitio oficial), Embajada de Australia en Chile, DGAC Chile, Senado de Chile (Diario de Sesiones 1996), El Rancagüino
 - **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (25 de mayo de 1913) en fuentes institucionales. Verificación de la tripulación del Manutara mediante la fuente oficial de la FACH. Resolución de la discrepancia sobre el año del segundo vuelo (1959, no 1961). Añadido vuelo previo del 18 de enero de 1951.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y de prensa coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

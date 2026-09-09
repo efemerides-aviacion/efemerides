@@ -147,8 +147,8 @@ Hoy, el DN-1 es una nota al pie de página en la historia de la aviación naval,
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Naval History and Heritage Command (.mil), U.S. Naval Institute, Wikipedia (EN), Patriots Point Museum, Connecticut History, Florida Department of State
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** Naval History and Heritage Command (.mil), U.S. Naval Institute, Wikipedia (EN), Patriots Point Museum, Connecticut History, Florida Department of State
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del primer vuelo (20 de abril de 1917). Algunas fuentes indican dos motores originales de 140 hp cada uno; otras indican 80 hp cada uno. Se ha priorizado la información del U.S. Naval Institute (140 hp). También hay discrepancia sobre si el DN-1 fue designado retrospectivamente como Clase A; la nota aclaratoria explica que esta designación nunca fue oficial durante su vida operativa.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

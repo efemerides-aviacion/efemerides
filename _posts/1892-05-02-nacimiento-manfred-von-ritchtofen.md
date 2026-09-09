@@ -178,8 +178,8 @@ En 1925, el cuerpo de Richthofen fue exhumado y enterrado nuevamente en Berlín.
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), Britannica, Air & Space Forces Magazine, Ellsworth AFB (.mil), Australian War Memorial, San Diego Air & Space Museum
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Britannica, Air & Space Forces Magazine, Ellsworth AFB (.mil), Australian War Memorial, San Diego Air & Space Museum
 - **Discrepancias resueltas:** La fecha de nacimiento es consistente en todas las fuentes (2 de mayo de 1892). La controversia sobre su muerte está documentada; se presentan ambas teorías (Cap. Brown y fuego antiaéreo australiano) con la evidencia disponible. La mayoría de las victorias (80) es confirmada por todas las fuentes. La herida de cabeza sufrida el 6 de julio de 1917 es relevante para entender su error de juicio final.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

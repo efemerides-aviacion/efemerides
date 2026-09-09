@@ -163,8 +163,8 @@ El Fokker T-2 envejeció rápidamente, superado por los avances tecnológicos de
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** National Air and Space Museum (Smithsonian), National Museum of the USAF (.mil), Newsday, Air & Space Forces Magazine
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (Smithsonian), National Museum of the USAF (.mil), Newsday, Air & Space Forces Magazine
 - **Discrepancias resueltas:** La distancia varía entre 2.470 y 2.520 millas según la fuente (diferencia entre distancia en línea recta y distancia real volada). La hora de despegue varía entre 12:30 p.m. y 12:36 p.m. (se incluye el rango). La potencia del motor varía entre 408 hp y 420 hp (se incluye la cifra más común, 420 hp).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

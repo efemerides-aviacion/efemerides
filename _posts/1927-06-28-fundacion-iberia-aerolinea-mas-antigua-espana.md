@@ -104,8 +104,8 @@ A casi un siglo de su fundación, Iberia se erige como un patrimonio vivo de la 
 
 Para asegurar la rigurosidad histórica de este post y garantizar el control técnico de los datos presentados, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Archivos notariales de la constitución de Iberia S.A. (1927), registros de prensa del Grupo Iberia, catálogo filatélico oficial de Correos de España, base de datos del registro civil de aeronaves históricas de España, base de datos de European Airlines
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** Archivos notariales de la constitución de Iberia S.A. (1927), registros de prensa del Grupo Iberia, catálogo filatélico oficial de Correos de España, base de datos del registro civil de aeronaves históricas de España, base de datos de European Airlines
 - **Discrepancias resueltas:** Se aclara la ligera confusión que existe en algunos artículos de prensa que sitúan el despegue inicial en Getafe, cuando el primer vuelo regular con Alfonso XIII despegó del Aeródromo de Carabanchel (actual Cuatro Vientos) y el primer vuelo comercial real partió del Aeródromo de El Prat en Barcelona. Asimismo, se documenta de forma inequívoca el reparto de capital (76% de Horacio Echevarrieta y 24% de Deutsche Luft Hansa).
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

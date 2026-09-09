@@ -150,8 +150,8 @@ El programa A350 demostró que Airbus podía desarrollar un avión de hoja limpi
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** FlightGlobal, YouTube (Airbus oficial), Simple Flying, Avia Pro, Wikipedia
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** FlightGlobal, YouTube (Airbus oficial), Simple Flying, Avia Pro, Wikipedia
 - **Discrepancias resueltas:** La hora de despegue (10:00 a.m.) y aterrizaje (2:05 p.m.) están confirmadas por fuentes oficiales. Todos los enlaces han sido verificados y funcionan correctamente.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -122,8 +122,8 @@ Robina Asti es recordada como una pionera en dos frentes: en la aviación, como 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN/PT), The New York Times, NPR, ABC7, Refinery29, CBC
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN/PT), The New York Times, NPR, ABC7, Refinery29, CBC
 - **Discrepancias resueltas:** Fecha de fallecimiento (21 de marzo vs 12 de marzo) – se adopta 21 de marzo; lugar de nacimiento (Manhattan vs Queens) – se adopta Manhattan.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

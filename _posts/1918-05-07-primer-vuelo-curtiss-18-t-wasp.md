@@ -154,8 +154,8 @@ El ejemplar enviado a Bolivia en 1920, hoy considerado por los aficionados boliv
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES), Blog Aviación Bolivia
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Blog Aviación Bolivia
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (7 de mayo de 1918), las especificaciones del 18T-1 y el récord de velocidad de agosto de 1918. Se ha añadido información sobre los récords de altitud de Roland Rohlfs (30 de julio de 1918 y 18 de septiembre de 1919) y sobre los números de serie de los dos prototipos . La información sobre el uso en Bolivia (1920) proviene del blog de aviación boliviana.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

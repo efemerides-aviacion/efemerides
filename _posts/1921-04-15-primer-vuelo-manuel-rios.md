@@ -135,8 +135,8 @@ Su legado trasciende el hecho técnico: Ríos simboliza la voluntad venezolana d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** Libreta de Vuelo original del Capitán Manuel Simón Ríos Hernández, Coronel (AV) José Luis Ochoa Vargas, "Memoria y Cuenta del Ministerio de Guerra y Marina al 31 de diciembre de 1921"
+- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Fuentes primarias/institucionales consultadas:** Libreta de Vuelo original del Capitán Manuel Simón Ríos Hernández, Coronel (AV) José Luis Ochoa Vargas, "Memoria y Cuenta del Ministerio de Guerra y Marina al 31 de diciembre de 1921"
 - **Discrepancias resueltas:** La fecha del primer vuelo en solitario ha sido corregida de 14 a 15 de abril de 1921, basándose en la evidencia documental de la libreta de vuelo del piloto, citada por el Coronel José Luis Ochoa Vargas. Se ha añadido información sobre el cadete Juan Yepes, quien también voló solo el mismo día.
 - **Nivel de confianza:** Alto (con fuentes primarias documentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
