@@ -138,8 +138,8 @@ El prototipo original, el XF6F-1 que voló el 26 de junio de 1942, fue el humild
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, National Naval Aviation Museum, U.S. Naval Institute, Wikipedia, Air & Space Forces Magazine
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, National Naval Aviation Museum, U.S. Naval Institute, Wikipedia, Air & Space Forces Magazine
 - **Discrepancias resueltas:** Se ha verificado la fecha del primer vuelo (26 de junio de 1942) y la identidad del piloto (Robert Leicester Hall). Se ha aclarado la diferencia entre el motor original (Wright R-2600) y el motor definitivo (Pratt & Whitney R-2800) que entró en servicio con el XF6F-3. Se ha confirmado que el prototipo fue dado de baja en 1944.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

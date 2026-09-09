@@ -161,8 +161,8 @@ El legado del "Memphis Belle" es perdurable. Su historia ha sido contada en libr
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, National Museum of the USAF (.mil), Wikipedia, The National WWII Museum
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, National Museum of the USAF (.mil), Wikipedia, The National WWII Museum
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha de la 25ª misión (17 de mayo de 1943). Se ha aclarado la diferencia entre el "Memphis Belle" y el "Hell's Angels" como el primer avión en completar 25 misiones (Hell's Angels, 13 de mayo de 1943) frente a la primera tripulación completa (Memphis Belle). Se ha corregido la información sobre el fallecimiento de la tripulación.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

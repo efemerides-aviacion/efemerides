@@ -172,8 +172,8 @@ En julio de 2013, con motivo del centenario de estos vuelos, el Planetario de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Florida Historical Society, Salt Lake Tribune, The Lakeland Evening Telegram (Chronicling America - Library of Congress), Smithsonian Institution, Filatelia de Cuba
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** Florida Historical Society, Salt Lake Tribune, The Lakeland Evening Telegram (Chronicling America - Library of Congress), Smithsonian Institution, Filatelia de Cuba
 - **Discrepancias resueltas:** Las fuentes periodísticas de la época (17 de mayo de 1913) confirman la fecha del vuelo. Wikipedia en inglés indica erróneamente el 13 de mayo de 1913 y una duración de 2 horas 8 minutos; se ha priorizado la información de las fuentes primarias contemporáneas al evento (2 horas 35 minutos). Se ha eliminado el enlace roto de Georgia Historic Newspapers y se ha añadido el enlace funcional de Chronicling America (Library of Congress).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

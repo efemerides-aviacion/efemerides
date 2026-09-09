@@ -154,8 +154,8 @@ Hoy, la Fuerza Aérea Boliviana (FAB) conmemora cada 17 de abril el primer vuelo
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** El Diario (Bolivia), Wikipedia, Agencia de Noticias Fides, Aviastar
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** El Diario (Bolivia), Wikipedia, Agencia de Noticias Fides, Aviastar
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del récord (18 de mayo de 1920). La altitud exacta alcanzada no está documentada con precisión, pero se estima en aproximadamente 9.000 metros (29.500 pies). El rango de Hudson varía según la fuente (Teniente Coronel en Bolivia, lieutenant en EE. UU.). El nombre completo de la aeronave varía: Curtiss 18T-2 Wasp, Curtiss-Kirkham 18T-2.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

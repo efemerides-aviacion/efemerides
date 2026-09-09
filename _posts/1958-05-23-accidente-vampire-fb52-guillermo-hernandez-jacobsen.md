@@ -117,8 +117,8 @@ El legado del Capitán Hernández Jacobsen perdura así en dos dimensiones paral
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias consultadas:** Aviation Safety Network (ASN) - Wikibase 486208, La Protesta Militar (obituario, diciembre 2023), FAV Club
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** Aviation Safety Network (ASN) - Wikibase 486208, La Protesta Militar (obituario, diciembre 2023), FAV Club
 - **Discrepancias resueltas:** Se ha confirmado la fecha del accidente (23 de mayo de 1958) y la ubicación (Planta Eléctrica La Cabrera). Se ha confirmado el nombre completo "Luis Guillermo Hernández Jacobsen" mediante fuentes institucionales. Se ha verificado la existencia de la Promoción de 1987 que lleva su nombre y del hospital militar.
 - **Datos no confirmados:** Matrícula de la aeronave, hora del accidente, naturaleza de la misión, aeropuerto de salida/destino.
 - **Nivel de confianza:** Medio (el accidente está registrado en ASN con advertencia de fuentes no oficiales; el legado institucional está confirmado)

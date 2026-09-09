@@ -154,8 +154,8 @@ En total, se construyeron aproximadamente 229 unidades del Balliol (incluyendo p
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 17:45:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN), RAF Museum, Aviations Militaires, Aviation Safety Network
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), RAF Museum, Aviations Militaires, Aviation Safety Network
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre los dos prototipos: VL917 (accidente el 24 de marzo de 1948) y VL892 (primer vuelo exitoso con Mamba el 17 de mayo de 1948). El hito principal es el 17 de mayo de 1948, cuando el primer prototipo modificado se convirtió en el primer avión monomotor turbohélice del mundo en volar con éxito.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

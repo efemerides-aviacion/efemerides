@@ -79,8 +79,8 @@ El secuestro del vuelo 648 de EgyptAir marcó un punto de inflexión en la perce
 ---
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Aviation Safety Network, BBC News  
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Aviation Safety Network, BBC News  
 - **Discrepancias resueltas:** Número de víctimas varía entre fuentes; se documenta como “más de 50” para consistencia.  
 - **Nivel de confianza:** alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

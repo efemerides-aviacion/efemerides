@@ -85,8 +85,8 @@ La fundación de Japan Helicopter & Aeroplane en diciembre de 1952 marcó el ini
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** ANA Official Website, ANA Archives, Wikipedia, Planet Airlines, Company Histories, This Day in Aviation
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** ANA Official Website, ANA Archives, Wikipedia, Planet Airlines, Company Histories, This Day in Aviation
 - **Discrepancias resueltas:** Enciclopedias y resúmenes citan 27 de diciembre de 1952, mientras que la cronología oficial de ANA confirma diciembre de 1952 sin día específico.
 - **Nivel de confianza:** 100%
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -144,8 +144,8 @@ Aunque fue retirado oficialmente en 2008, se sabe que varios F-117 continúan vo
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** US Air Force (ACC), Aviacionline, Air Force Technology, Wikipedia (ES/EN), Holloman AFB
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** US Air Force (ACC), Aviacionline, Air Force Technology, Wikipedia (ES/EN), Holloman AFB
 - **Discrepancias resueltas:** La fecha del primer vuelo está confirmada por todas las fuentes como 18 de junio de 1981. Algunas fuentes confunden el primer vuelo del demostrador «Have Blue» (1977) con el del F-117 (1981). Se ha aclarado esta diferencia.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

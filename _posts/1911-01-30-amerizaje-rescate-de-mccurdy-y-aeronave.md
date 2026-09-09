@@ -82,8 +82,8 @@ El intento de McCurdy fue un hito en la aviación temprana, al combinar la ambic
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** The Salt Lake Tribune; Monroe County Public Library; Wikipedia; SmartAge.pl  
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** The Salt Lake Tribune; Monroe County Public Library; Wikipedia; SmartAge.pl  
 - **Discrepancias resueltas:** Distancia al amerizaje y detalles del premio cubano. Participación de los dos buques de la armada estadounidende.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

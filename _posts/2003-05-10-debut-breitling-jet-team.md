@@ -152,8 +152,8 @@ El Breitling Jet Team demostró que el patrocinio privado podía crear un equipo
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, European Airshows, EDR Magazine, European Security & Defence
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, European Airshows, EDR Magazine, European Security & Defence
 - **Discrepancias resueltas:** Las fuentes coinciden en que el equipo fue establecido a principios de 2003 con cuatro aviones L-39. La formación de exhibición alcanzó 7 aviones en 2008, no en 2007. La flota histórica completa del equipo ascendía a 11 unidades, que fueron vendidas a Babcock en diciembre de 2024. La exhibición duraba entre 18 y 20 minutos.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

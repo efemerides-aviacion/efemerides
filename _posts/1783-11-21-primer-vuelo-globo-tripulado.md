@@ -177,8 +177,8 @@ Pilâtre de Rozier, trágicamente, tiene el dudoso honor de ser la primera víct
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, Encyclopaedia Britannica, National Air and Space Museum, Smithsonian Libraries
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Encyclopaedia Britannica, National Air and Space Museum, Smithsonian Libraries
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (21 de noviembre de 1783). La altitud (910 m), duración (25 min) y distancia (9 km) son consistentes en todas las fuentes consultadas.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

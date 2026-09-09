@@ -164,8 +164,8 @@ Su tumba se encuentra junto a la de Manfred von Richthofen en el cementerio Inva
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), EcuRed, Deutsche Biographie, The New York Times (archivo 1941), Bundesarchiv
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), EcuRed, Deutsche Biographie, The New York Times (archivo 1941), Bundesarchiv
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha de nacimiento (26 de abril de 1896) y fallecimiento (17 de noviembre de 1941). Existe una pequeña discrepancia en el número de victorias (62 confirmadas por la mayoría, 60 según Flugsport de 1919). El expediente personal de Udet en la Bundesarchiv confirma las 62 victorias. Udet fue miembro del Partido Nazi (NSDAP) desde el 1 de mayo de 1933.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

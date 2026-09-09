@@ -129,8 +129,8 @@ Además, aunque Morquillas combatió en la Segunda Guerra Mundial con la Fuerza 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Wikiwand, MCN Biografías, Красные Соколы, Biblioteca Virtual de Defensa  
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Wikiwand, MCN Biografías, Красные Соколы, Biblioteca Virtual de Defensa  
 - **Discrepancias resueltas:** Se ha confirmado la cifra de 21 derribos, aunque se señala la imposibilidad de verificar individualmente cada victoria.  
 - **Datos no confirmados:** Listado detallado de las 21 victorias; posible existencia de victorias compartidas.  
 - **Nivel de confianza:** Alto  

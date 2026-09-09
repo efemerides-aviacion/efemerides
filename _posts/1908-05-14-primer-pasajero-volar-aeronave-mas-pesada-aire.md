@@ -146,8 +146,8 @@ Furnas encarna el espíritu de todos aquellos que, sin ser pilotos, hicieron pos
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Smithsonian Air & Space Magazine, National Air and Space Museum, This Day in Aviation, Wikipedia, DocsTeach (National Archives)
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** Smithsonian Air & Space Magazine, National Air and Space Museum, This Day in Aviation, Wikipedia, DocsTeach (National Archives)
 - **Discrepancias resueltas:** Las fuentes son consistentes en la fecha (14 de mayo de 1908) y los detalles de los vuelos. La duración del primer vuelo varía ligeramente entre 28 y 29 segundos; se ha incluido el rango.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

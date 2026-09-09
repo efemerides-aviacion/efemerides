@@ -185,8 +185,8 @@ Una placa conmemorativa erigida por el Aero Club de Washington en el lugar de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, Air & Space Forces Magazine, National Postal Museum, Federal Aviation Administration
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Air & Space Forces Magazine, National Postal Museum, Federal Aviation Administration
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (15 de mayo de 1918). Se ha añadido la información detallada de This Day in Aviation sobre el Teniente Boyle, el número de serie del avión (S.C. 38262) y la historia del "Inverted Jenny". Se ha corregido la descripción del incidente: Boyle aterrizó forzosamente, no "se estrelló".
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -179,8 +179,8 @@ Meyer Baldó es recordado como el único venezolano que combatió como as de caz
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES), BBC Mundo, EcuRed, Aviación Civil Venezuela, Early Birds of Aviation, Condecoraciones de Venezuela
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), BBC Mundo, EcuRed, Aviación Civil Venezuela, Early Birds of Aviation, Condecoraciones de Venezuela
 - **Discrepancias resueltas:** Se ha aclarado la diferencia en el número de victorias aéreas confirmadas (4 según fuentes principales, con 3 adicionales no confirmadas). También se ha precisado la variación en su nombre de pila (Carlos / Karl). La fecha de nacimiento (21 de abril de 1895) es consistente en todas las fuentes. Se ha corregido el rango de Meyer en la Fuerza Aérea Venezolana (teniente, no capitán), explicando por qué la condecoración lleva ese grado.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

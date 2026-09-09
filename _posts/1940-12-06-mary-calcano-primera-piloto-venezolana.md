@@ -67,8 +67,8 @@ Mary Calcaño es recordada como símbolo de perseverancia e innovación. Su hist
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Reportes de prensa de 2020–2021, archivos históricos citados en Wikipedia  
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Fuentes primarias/institucionales consultadas:** Reportes de prensa de 2020–2021, archivos históricos citados en Wikipedia  
 - **Discrepancias resueltas:** Confusión con la poeta María Calcaño; fechas de licencias confirmadas (1939 EE.UU., 1940 Venezuela).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

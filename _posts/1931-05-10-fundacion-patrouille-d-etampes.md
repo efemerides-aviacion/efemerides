@@ -151,8 +151,8 @@ El aeródromo de Étampes-Mondésir, hoy convertido en un aeródromo de aviació
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
-- **Fuentes primarias consultadas:** Actu.fr, AeroTime, Le Télégramme, Le Parisien, Cercle K2, Zone Militaire
+- **Timestamp de verificación:** 2026-09-09 10:32:55 CST
+- **Fuentes primarias/institucionales consultadas:** Actu.fr, AeroTime, Le Télégramme, Le Parisien, Cercle K2, Zone Militaire
 - **Discrepancias resueltas:** La Patrouille d’Étampes fue creada en 1931, siendo la fecha del 10 de mayo de 1931 aquella en que realizó su primera demostración pública en Orly. La fotografía emblemática de la patrulla data de 1935 y muestra los MS.225 posteriores, no los MS.230 originales. La patrulla es oficialmente reconocida como la más antigua del mundo en su categoría.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
