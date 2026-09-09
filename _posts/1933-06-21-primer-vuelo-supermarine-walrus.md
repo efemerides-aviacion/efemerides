@@ -39,9 +39,7 @@ image: 1933-06-21-primer-vuelo-supermarine-walrus.webp
 - **Producción total:** 740 unidades 
 - **Último retiro:** 1956 (Royal Navy), 1969 (otros operadores) 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas (Walrus Mk I)
+### Especificaciones Técnicas (Walrus Mk I)
 
 - **Tripulación:** 3-4 personas (piloto, observador/navegante, operador de radio y artillero) 
 - **Longitud:** 11,35 m (37 ft 2 in) 
@@ -90,17 +88,13 @@ El Walrus fue apodado «Shagbat» (algo así como «murciélago de mar») por su
 - **1944:** Cese de la producción; 740 unidades construidas 
 - **1956:** Último Walrus retirado del servicio activo por la Royal Navy 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El looping de Hendon
+### El looping de Hendon
 
 Cinco días después de su primer vuelo, el 26 de junio de 1933, el prototipo del Seagull V (con la matrícula N-1) fue presentado en el SBAC Show de Hendon, el evento anual de la Sociedad de Compañías Aeronáuticas Británicas. El piloto, Joseph «Mutt» Summers, decidió realizar una maniobra completamente inesperada: un looping completo con un hidroavión anfibio.
 
 El público, que incluía a R. J. Mitchell, observó asombrado cómo el avión ejecutaba la acrobacia. Summers había demostrado que la estructura del Seagull V, diseñada para soportar el estrés del lanzamiento desde catapulta, era lo suficientemente robusta para maniobras extremas. La hazaña no solo impresionó al público, sino que también convenció a los funcionarios de la Marina de la resistencia del diseño.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El servicio de rescate marítimo
+### El servicio de rescate marítimo
 
 La contribución más destacada del Walrus durante la Segunda Guerra Mundial fue en el rescate de aviadores y marineros caídos al mar. Los escuadrones de la RAF y la Fleet Air Arm dedicados a estas misiones operaban desde bases costeras, a menudo en condiciones climáticas adversas y bajo amenaza de ataque enemigo.
 
@@ -155,7 +149,7 @@ Hoy, los sobrevivientes —incluyendo uno en el Fleet Air Arm Museum de Yeovilto
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN/IT), Classic Warbirds, Naval Encyclopedia, La Segunda Guerra, Military History Fandom, FDRA
 - **Discrepancias resueltas:** Algunas fuentes citan el motor del prototipo como Bristol Jupiter IX, mientras que otras indican Pegasus. El motor de serie fue el Pegasus VI. Se ha aclarado la distinción.
 - **Nivel de confianza:** Alto

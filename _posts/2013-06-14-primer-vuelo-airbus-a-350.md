@@ -40,9 +40,7 @@ image: 2013-06-14-primer-vuelo-airbus-a-350.webp
 - **Pedidos en el momento del primer vuelo:** 613 unidades 
 - **Entrada en servicio:** 15 de enero de 2015 (con Qatar Airways) 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas del A350-900
+### Especificaciones Técnicas del A350-900
 
 - **Tripulación de cabina:** 2 pilotos
 - **Capacidad de pasajeros:** 300-350 (configuración típica de 3 clases) / hasta 440 en configuración densa
@@ -93,9 +91,7 @@ El primer vuelo del A350 se produjo tres días antes del Salón Aeronáutico de 
 - **15 de enero de 2015:** Entrada en servicio del A350-900 con Qatar Airways 
 - **2016:** Entrada en servicio del A350-1000 (versión de mayor capacidad) 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Vuelo: una prueba sin sobresaltos
+### El Vuelo: una prueba sin sobresaltos
 
 El primer vuelo del A350 se desarrolló con una normalidad sorprendente para un avión nuevo de estas características. Peter Chandler, jefe de pilotos de pruebas de Airbus, declaró tras el aterrizaje:
 
@@ -150,7 +146,7 @@ El programa A350 demostró que Airbus podía desarrollar un avión de hoja limpi
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
 - **Fuentes primarias/institucionales consultadas:** FlightGlobal, YouTube (Airbus oficial), Simple Flying, Avia Pro, Wikipedia
 - **Discrepancias resueltas:** La hora de despegue (10:00 a.m.) y aterrizaje (2:05 p.m.) están confirmadas por fuentes oficiales. Todos los enlaces han sido verificados y funcionan correctamente.
 - **Nivel de confianza:** Alto

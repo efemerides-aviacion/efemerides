@@ -62,9 +62,7 @@ La contratación de una misión francesa reflejaba la influencia cultural y mili
 - **1923:** Algunos instructores franceses comienzan a retirarse. La aviación nacional enfrenta dificultades por la inexperiencia de los pilotos venezolanos y problemas mecánicos.
 - **1929:** La misión francesa concluye su permanencia en Venezuela, siendo posteriormente relevada por misiones alemana (1930-1933) e italiana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La Misión Francesa: Composición y Perfiles
+### La Misión Francesa: Composición y Perfiles
 
 Gracias a fuentes documentales y fotográficas de la época, es posible identificar a varios de los integrantes de la misión francesa que sirvió en Venezuela entre 1920 y 1922:
 
@@ -80,9 +78,7 @@ Gracias a fuentes documentales y fotográficas de la época, es posible identifi
 
 Esta composición reflejaba una estrategia integral: no solo se traían pilotos instructores, sino también personal con experiencia en hidroaviones (clave para el litoral venezolano) y mecánicos especializados que podían mantener y reparar las aeronaves.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Rol de la Aviación Naval
+### El Rol de la Aviación Naval
 
 Un aspecto particularmente relevante de la misión francesa fue la inclusión de personal especializado en hidroaviones. El agregado militar francés en Caracas había señalado en 1919: *"Sin duda la aviación marítima o al menos mixta, sería la que rendiría los mayores servicios (tanto en paz como en la guerra) en un país que posee un largo litoral"*.
 
@@ -132,7 +128,7 @@ Cien años después, la Fuerza Aérea Venezolana (creada formalmente en 1946) ho
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
 - **Fuentes primarias/institucionales consultadas:** UCAB (documento académico), Forum PAGES 14-18 (archivo histórico francés), Infodefensa, Valores Patrios, Últimas Noticias
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre la fecha de la gestión diplomática (22 de mayo de 1920) y la instalación formal de la escuela (10 de diciembre de 1920). Se han cotejado las listas de integrantes de la misión francesa entre fuentes.
 - **Nivel de confianza:** Alto

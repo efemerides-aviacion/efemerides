@@ -71,9 +71,7 @@ El público estadounidense seguía con fascinación los avances de la carrera es
 - **15 de junio de 1960:** Fallo eléctrico en el satélite; cesa la transmisión de datos útiles 
 - **Década de 1960:** Nueve satélites adicionales de la serie TIROS continúan y expanden la misión 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Logros Científicos y Operativos
+### Logros Científicos y Operativos
 
 **Primera imagen televisada de la Tierra desde el espacio:** La primera imagen de TIROS-1, aunque borrosa, mostraba nubes finas sobre el territorio de Estados Unidos. Fue un momento histórico que demostró la viabilidad de observar el clima desde la órbita.
 
@@ -83,9 +81,7 @@ El público estadounidense seguía con fascinación los avances de la carrera es
 
 **Cobertura global:** Durante sus 78 días de operación, el satélite completó 1.302 órbitas y tomó aproximadamente 23.000 fotografías, de las cuales entre 19.000 y 22.000 fueron utilizables para análisis meteorológico.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Características Técnicas
+### Características Técnicas
 
 - **Forma:** Prisma de 18 lados
 - **Diámetro:** 106,7 cm (42 in)
@@ -145,7 +141,7 @@ TIROS-1 permanece en órbita como chatarra espacial, un testigo silencioso del p
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, Diario Público, Infosatellites, Channel3000
 - **Discrepancias resueltas:** La fecha del fallo eléctrico está confirmada como 15 de junio de 1960 en todas las fuentes consultadas. La duración exacta de la misión varía entre 75 y 90 días según las fuentes; se ha adoptado la cifra de 78 días por ser la más documentada.
 - **Nivel de confianza:** Alto

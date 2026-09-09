@@ -38,9 +38,7 @@ image: 1963-06-19-valentina-tereshkova-primera-mujer-viajo-espacio.webp
 - **Profesión previa:** Trabajadora textil en una fábrica de neumáticos y luego en una hilandería 
 - **Educación:** Ingeniera textil (por correspondencia) y posteriormente ingeniera aeroespacial 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Especificaciones de la nave Vostok 6
+### Especificaciones de la nave Vostok 6
 
 - **Tipo:** Cápsula espacial Vostok 3KA
 - **Masa:** 4.713 kg (aproximadamente)
@@ -86,9 +84,7 @@ La imagen de Tereshkova —joven, sonriente, de origen humilde— fue cuidadosam
 - **2003:** El 40 aniversario de su vuelo la encuentra aún activa en la política rusa
 - **2011:** Es elegida diputada de la Duma Estatal por el partido Rusia Unida
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## El vuelo de la Gaviota
+### El vuelo de la Gaviota
 
 A las 12:30 p.m. hora de Moscú del 16 de junio de 1963, la voz de Tereshkova cruzó los altavoces del centro de control: «¡Soy la Gaviota! Todo está bien». Su indicativo, Chayka, la acompañaría durante toda la misión.
 
@@ -157,7 +153,7 @@ A sus 89 años, se ha presentado a la reelección parlamentaria para un nuevo ma
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), El Economista, Wikipedia (EN)
 - **Discrepancias resueltas:** Se ha confirmado la fecha de aterrizaje (19 de junio de 1963) como fecha de culminación de la misión. El lanzamiento fue el 16 de junio de 1963.
 - **Nivel de confianza:** Alto

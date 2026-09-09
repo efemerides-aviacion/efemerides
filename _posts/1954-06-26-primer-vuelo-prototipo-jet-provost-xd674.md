@@ -37,9 +37,7 @@ image: 1954-06-26-primer-vuelo-prototipo-jet-provost-xd674.webp
 - **Retirada del servicio:** 1993 
 - **Producción total:** 734 unidades (todas las variantes) 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas (Jet Provost T.3)
+### Especificaciones Técnicas (Jet Provost T.3)
 
 - **Tripulación:** 2 pilotos (en tándem lateral)
 - **Longitud:** 9,89 m (32 ft 5 in) 
@@ -90,9 +88,7 @@ La Guerra Fría y la amenaza soviética mantenían a las fuerzas aéreas en esta
 - **1967:** Primer vuelo del Jet Provost T.5 (cabina presurizada) 
 - **1993:** El Jet Provost es retirado del servicio por la RAF 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El prototipo XD674
+### El prototipo XD674
 
 El prototipo del Jet Provost fue una pieza clave en el desarrollo del avión. Su número de serie, **XD674**, y su número de construcción, **PAC/84/001**, lo identifican como el primer ejemplar de la familia Jet Provost.
 
@@ -148,7 +144,7 @@ Hoy en día, varios Jet Provost continúan volando como propiedad privada, y el 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Aerial Visuals, Historical Marker Database
 - **Discrepancias resueltas:** Se ha verificado la fecha del primer vuelo (26 de junio de 1954) en múltiples fuentes. Se ha confirmado que el piloto fue Dick Wheldon. Se ha aclarado la diferencia entre las 201 unidades del T.3 y el total de 676 operadas por la RAF. 
 - **Nivel de confianza:** Alto

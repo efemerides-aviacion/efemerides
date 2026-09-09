@@ -35,9 +35,7 @@ image: 1953-05-25-george-welch-barrera-sonido-nivelado-f100-super-sabre.webp
 - **Significado:** Primer caza supersónico operacional de la USAF; inicio de la «Serie del Siglo» (Century Series)
 - **Consecuencias posteriores:** El F-100A entró en servicio en octubre de 1954, pero sufrió problemas de estabilidad que causaron múltiples accidentes 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## George S. Welch: El piloto detrás de la hazaña
+### George S. Welch: El piloto detrás de la hazaña
 
 George Schwartz Welch nació el 10 de mayo de 1918 en Wilmington, Delaware. Su nombre original era George Lewis Schwartz Jr., pero sus padres lo cambiaron durante la Primera Guerra Mundial debido al sentimiento antialemán. Estudió ingeniería mecánica en la Universidad de Purdue durante tres años antes de unirse al Cuerpo Aéreo del Ejército en 1939.
 
@@ -85,9 +83,7 @@ La imagen del piloto de pruebas se había convertido en un símbolo cultural de 
 - **Octubre de 1954:** El F-100A entra en servicio operacional con la USAF.
 - **12 de octubre de 1954 (Día de la Raza/Columbus Day):** Durante una prueba de alta velocidad, el F-100A-1-NA que pilotaba Welch se desintegra durante una maniobra de 7G a Mach 1,55 y 13.700 metros de altitud. Welch es encontrado aún en su asiento eyectable, pero es declarado muerto a su llegada al hospital.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El YF-100A Super Sabre: Primer caza supersónico de la USAF
+### El YF-100A Super Sabre: Primer caza supersónico de la USAF
 
 El F-100 Super Sabre fue el primero de la denominada «Serie del Siglo» (Century Series) de cazas estadounidenses, que incluía modelos como el F-101 Voodoo, F-102 Delta Dagger, F-104 Starfighter, F-105 Thunderchief y F-106 Delta Dart. Algunas de sus características más destacadas eran:
 
@@ -151,7 +147,7 @@ George S. Welch es recordado como uno de los pilotos de pruebas más audaces y t
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
 - **Fuentes primarias/institucionales consultadas:** Air Force Test Center (.mil), Super Sabre Society, Wikipedia (EN/ES), The National Interest, San Diego Air & Space Museum, Los Angeles Public Library
 - **Discrepancias resueltas:** Confirmación de la velocidad exacta (Mach 1,1 según fuente oficial USAF) frente a variantes (Mach 1,04 o 1,05). Verificación de que el vuelo ocurrió el 25 de mayo de 1953 y que fue el primer avión en alcanzar velocidad supersónica en su vuelo inaugural.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y de archivo coinciden en los datos fundamentales)

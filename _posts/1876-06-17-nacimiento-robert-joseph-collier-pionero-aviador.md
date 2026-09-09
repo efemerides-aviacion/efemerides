@@ -84,9 +84,7 @@ Collier era un personaje fascinante: millonario, editor, aviador, filántropo y 
 - **1944:** El nombre «Trofeo Collier» se oficializa 
 - **1984:** Collier es incluido póstumamente en el Aviation Hall of Fame de Nueva Jersey 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## El Trofeo Collier: legado de un pionero
+### El Trofeo Collier: legado de un pionero
 
 El Trofeo Collier —originalmente llamado Aero Club of America Trophy— fue encargado por Collier en 1910. Fabricado en plata y cobre, pesa 238 kg y fue diseñado por el escultor Ernest Wise Keyser. Representa un globo cautivo con una figura femenina alada que ofrece una corona de laurel.
 
@@ -108,9 +106,7 @@ Entre los galardonados más famosos se incluyen:
 
 El Trofeo Collier es considerado el máximo honor de la aeronáutica y la astronáutica estadounidense. Hoy se exhibe en el Museo Nacional del Aire y el Espacio del Smithsonian en Washington D.C.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Collier, el aviador
+### Collier, el aviador
 
 Collier no era solo un mecenas; era un aviador activo. Adquirió un Wright Model B en 1911 y aprendió a volar. Utilizó su avión para sobrevolar la construcción del Canal de Panamá y filmar el progreso de la obra. También participaba en cacerías de zorros a lomos de su caballo, pero llegaba al lugar de encuentro en su biplano, aterrizando en un campo cercano.
 
@@ -159,7 +155,7 @@ El Trofeo Collier es el eslabón que conecta los primeros años de la aviación 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, TimeNote, Smithsonian Institution
 - **Discrepancias resueltas:** La fecha exacta de fallecimiento varía entre el 8 y el 9 de noviembre de 1918; se ha optado por incluir ambas posibilidades. La cifra del peso del trofeo varía entre 225 y 238 kg; se ha optado por 238 kg según la fuente del Smithsonian. Se ha corregido la definición del trofeo para incluir explícitamente «astronáutica» y «naves espaciales».
 - **Nivel de confianza:** Alto

@@ -40,9 +40,7 @@ image: 1955-06-17-primer-vuelo-tupolev-tu-104-primer-avion-jet-exitoso.webp
 - **Retiro del servicio:** 1981-1986 
 - **Usuarios principales:** Aeroflot, ČSA (Checoslovaquia) 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas del Tu-104
+### Especificaciones Técnicas del Tu-104
 
 - **Tripulación:** 5-7 personas
 - **Capacidad de pasajeros:** 50-115 (según configuración)
@@ -98,9 +96,7 @@ El 22 de marzo de 1956, el líder soviético Nikita Jruschov viajó a Londres en
 - **1960:** Finaliza la producción (más de 200 unidades construidas) 
 - **1981-1986:** El Tu-104 es retirado definitivamente del servicio de Aeroflot 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Por qué el Tu-104 fue el «primer jet comercial exitoso»
+### Por qué el Tu-104 fue el «primer jet comercial exitoso»
 
 Aunque el de Havilland Comet voló por primera vez en 1949 y fue el primer reactor comercial de la historia, sufrió una crisis catastrófica entre 1954 y 1958. Tres accidentes fatales causados por fatiga de metal alrededor de las ventanas cuadradas llevaron a la retirada de la flota. El Comet no regresó al servicio comercial hasta 1958, tras un rediseño completo.
 
@@ -153,7 +149,7 @@ Hoy, varios ejemplares del Tu-104 se conservan en museos de aviación en Rusia y
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN, RU, ES), AeroHispanoBlog, GlobalSecurity, TsAGI
 - **Discrepancias resueltas:** Algunas fuentes indican que el primer vuelo fue el 17 de junio de 1955; otras mencionan el mismo día. La distancia de aterrizaje con paracaídas de frenado varía según la fuente (300-400 metros), pero el orden de magnitud es consistente. La cifra de unidades construidas varía entre 201 y 207; se ha optado por 201 por ser la más respaldada.
 - **Nivel de confianza:** Alto

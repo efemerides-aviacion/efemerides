@@ -39,9 +39,7 @@ image: 1924-06-23-primer-vuelo-transcontinental-costa-costa-usa.webp
 - **Propósito:** Demostrar la capacidad de movilización rápida de unidades aéreas 
 - **Premios:** Distinguished Service Cross y Distinguished Flying Cross 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas (Curtiss PW-8 Hawk)
+### Especificaciones Técnicas (Curtiss PW-8 Hawk)
 
 - **Tipo:** Caza monoplaza, biplano
 - **Motor:** Curtiss D-12 V-12 refrigerado por líquido, 435 hp 
@@ -87,9 +85,7 @@ La hazaña de Maughan fue una de las primeras en demostrar que el avión podía 
 - **23 de junio de 1924, 9:46 p.m.:** Aterriza en Crissy Field, San Francisco, justo antes del anochecer, completando el vuelo.
 - **1928:** El récord de Maughan es superado por Arthur Goebel, quien vuela sin escalas de costa a costa en 18 horas y 58 minutos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El vuelo de Maughan: la carrera contra el sol
+### El vuelo de Maughan: la carrera contra el sol
 
 La clave del éxito de Maughan fue una planificación meticulosa. Voló hacia el oeste, persiguiendo el sol, para maximizar las horas de luz diurna. El vuelo se programó para el solsticio de verano, el día más largo del año, para disponer de 20 horas de luz.
 
@@ -143,7 +139,7 @@ El término "dawn-to-dusk" se convirtió en sinónimo de velocidad y resistencia
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, Smithsonian Magazine, This Day in Aviation, Air & Space Forces Magazine, The New York Times, Smithsonian Institution
 - **Discrepancias resueltas:** Algunas fuentes indican que Maughan aterrizó justo antes del anochecer y otras justo después. La mayoría coincide en que el vuelo se considera "de amanecer a anochecer" porque el retraso fue por una avería mecánica, no por decisión del piloto. La distancia exacta varía ligeramente entre 2.670 y 2.700 millas; se ha utilizado la cifra más común.
 - **Nivel de confianza:** Alto
