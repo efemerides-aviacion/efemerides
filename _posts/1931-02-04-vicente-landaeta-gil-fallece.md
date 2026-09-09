@@ -3,7 +3,7 @@ layout: post
 title: "4 de febrero de 1931 | Vicente Landaeta Gil, primer aviador militar venezolano fallecido"
 date: 1931-02-04
 categories: [accidente]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Venezuela
 operator: Aviación Militar Venezolana
 excerpt: "El Teniente Vicente Landaeta Gil se convirtió en el primer aviador militar venezolano en fallecer en un accidente aéreo."
@@ -66,7 +66,7 @@ El accidente de <a href="https://efemerides-aviacion.github.io/efemerides/nacimi
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; El Impulso; Correo del Lara; El Nacional; FAV Club  
 - **Discrepancias resueltas:** Confirmación de aeronave, tripulación y circunstancias del accidente.  
 - **Nivel de confianza:** Alto  

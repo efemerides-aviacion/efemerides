@@ -3,7 +3,7 @@ layout: post
 title: "31 de enero de 1961 | HAM, primer homínido en el espacio"
 date: 1961-01-31
 categories: [espacial]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA – Mercury Program
 excerpt: "El chimpancé HAM se convirtió en el primer homínido en viajar al espacio y regresar con vida."
@@ -79,7 +79,7 @@ HAM es recordado como el primer “astrochimp” y pionero de la exploración es
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA; Smithsonian; Britannica; Wikipedia; DNCR; Armed Forces Medical Museum  
 - **Discrepancias resueltas:** Confirmación de altitud máxima, duración exacta del vuelo y cronología post‑misión.  
 - **Nivel de confianza:** Alto  

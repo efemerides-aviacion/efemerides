@@ -3,7 +3,7 @@ layout: post
 title: "1 de febrero de 1991 | Colisión en pista en Los Ángeles"
 date: 1991-02-01
 categories: [accidente]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: USAir / SkyWest Airlines
 excerpt: "Colisión en pista entre un Boeing 737-300 de USAir y un Fairchild Swearingen Metroliner de SkyWest en LAX."
@@ -84,7 +84,7 @@ El accidente es recordado como un caso emblemático de “runway collision” y 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** NTSB; FAA; SKYbrary; Wikipedia; Aviation Safety Network; Los Angeles Times  
 - **Discrepancias resueltas:** Confirmación de número de víctimas y causas probables.  
 - **Nivel de confianza:** Alto  

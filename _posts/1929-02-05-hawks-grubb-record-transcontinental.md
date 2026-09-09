@@ -3,7 +3,7 @@ layout: post
 title: "5 de febrero de 1929 | Récord transcontinental de Frank Hawks y Oscar Grubb"
 date: 1929-02-05
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: Lockheed Aircraft / Texaco
 excerpt: "Frank Hawks y Oscar Grubb establecieron el 4-5 de febrero de 1929 un nuevo récord transcontinental de Los Ángeles a Nueva York en un Lockheed Air Express NR7955, patrocinado por Texaco."
@@ -70,7 +70,7 @@ El vuelo de Hawks y Grubb representó un hito en la aviación comercial y técni
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; This Day in Aviation; Aviation Week  
 - **Discrepancias resueltas:** Confirmación de tiempo exacto de vuelo y rol de Oscar Grubb como ingeniero de vuelo.  
 - **Nivel de confianza:** Alto  

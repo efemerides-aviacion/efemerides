@@ -3,7 +3,7 @@ layout: post
 title: "4 de febrero de 1902 | Nacimiento de Charles Lindbergh, primer piloto en cruzar el Atlántico en solitario y sin escalas"
 date: 1902-02-04
 categories: [nacimiento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: Civil
 excerpt: "Charles Augustus Lindbergh nació el 4 de febrero de 1902 en Detroit, Michigan, y se convirtió en ícono mundial de la aviación con su histórico vuelo transatlántico en solitario de 1927."
@@ -70,7 +70,7 @@ El nacimiento de Lindbergh coincidió con el auge de la aviación temprana. Su v
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; Britannica; Biography.com; CharlesLindbergh.com; Smithsonian; San Diego Air & Space Museum  
 - **Discrepancias resueltas:** Confirmación de fecha y lugar de nacimiento, trayectoria inicial en aviación.  
 - **Nivel de confianza:** Alto  

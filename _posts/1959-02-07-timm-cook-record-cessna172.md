@@ -3,7 +3,7 @@ layout: post
 title: "7 de febrero de 1959 | Vuelo ininterrumpido de 64 días en Cessna 172"
 date: 1959-02-07
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: Hacienda Hotel / Cessna Aircraft
 excerpt: "Bob Timm y John Cook lograron el récord mundial de vuelo ininterrumpido de 64 días, 22 horas y 19 minutos en una Cessna 172 N9172B, patrocinada por el Hacienda Hotel de Las Vegas."
@@ -68,7 +68,7 @@ El vuelo de resistencia de Bob Timm y John Cook en la Cessna 172 Hacienda repres
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** Plane & Pilot; AOPA; Simple Flying; Avgeekery; FlySuperFly; General Aviation Album  
 - **Discrepancias resueltas:** Confirmación de duración exacta y matrícula de la aeronave.  
 - **Nivel de confianza:** Alto  

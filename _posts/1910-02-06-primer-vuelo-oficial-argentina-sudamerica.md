@@ -3,7 +3,7 @@ layout: post
 title: "6 de febrero de 1910 | Primer vuelo oficial en Argentina y Sudamérica"
 date: 1910-02-06
 categories: [evento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Argentina
 operator: Aero Club Argentino
 excerpt: "El 6 de febrero de 1910, Henri Brégi realizó el primer vuelo oficial controlado a motor en Argentina y Sudamérica, en un biplano Voisin de 60 HP sobre el hipódromo de Longchamps."
@@ -66,7 +66,7 @@ image: 1910-02-06-primer-vuelo-oficial-argentina-sudamerica.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; La Nación; Todo Provincial; Latitud Argentina; Billiken; Early Aviators; Municipalidad Almirante Brown  
 - **Discrepancias resueltas:** Confirmación de fecha, lugar y homologación oficial del vuelo.  
 - **Nivel de confianza:** Alto  

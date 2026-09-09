@@ -3,7 +3,7 @@ layout: post
 title: "12 de enero de 1879 | Nacimiento de Calbraith Perry Rodgers, autor de la primera travesía aérea de Estados Unidos"
 date: 1879-01-12
 categories: [nacimiento]
-author: [Enrique Pomares]
+author: Enrique Pomares
 pais: Estados Unidos
 operator: Calbraith Perry Rodgers
 excerpt: "Nacimiento de Calbraith Perry Rodgers, pionero de la aviación estadounidense, recordado por su vuelo transcontinental de 1911."
@@ -70,7 +70,7 @@ Rodgers es recordado como uno de los primeros héroes de la aviación estadounid
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-23 16:24:28 CST  
+- **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** Smithsonian NASM (Wright EX «Vin Fiz»); Smithsonian Archives; The Museum of Flight Archives (ficha de autoridad, vinculada al registro n80086393 de la Biblioteca del Congreso); Senator John Heinz History Center; placa conmemorativa de Pittsburgh recogida en The Historical Marker Database
 - **Fuentes secundarias de contraste:** Wright Brothers Aeroplane Company; Wikipedia (EN) Calbraith Perry Rodgers
 - **Discrepancias resueltas:** (1) **Nombre de los padres:** la versión anterior daba «Robert Perry Rodgers y María Calbraith», filiación que no sostiene ninguna fuente; se corrige a **Capitán Calbraith Perry Rodgers Sr. y Maria Holmes Chambers Rodgers**, coincidentes en el Museum of Flight, el Heinz History Center, la placa conmemorativa de Pittsburgh y Wikipedia. (2) **Fecha de fallecimiento:** la versión anterior daba el 10 de abril de 1912, en contradicción con la propia referencia citada al pie; la fecha correcta es el **3 de abril de 1912**. (3) **Descendencia:** se suprime el «hijo Calbraith Perry Rodgers Jr.»; el matrimonio con Mabel Avis Graves **no tuvo hijos**, y el sufijo Jr. corresponde al propio aviador respecto de su padre homónimo. (4) **Parentesco:** se precisa que Matthew Calbraith Perry era su bisabuelo y Oliver Hazard Perry su tío bisabuelo, en lugar del genérico «descendiente». (5) **Formación aeronáutica:** no se formó «tras asistir a demostraciones de los hermanos Wright», sino a raíz de la visita a su primo John Rodgers en Dayton en junio de 1911. (6) **Fechas del vuelo transcontinental:** se elimina del apartado de metadatos la fecha de culminación «10-dic-1911», errónea; la travesía concluyó el **5 de noviembre de 1911**, conforme al post específico de la efeméride.
