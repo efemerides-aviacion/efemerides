@@ -53,6 +53,8 @@ El Grumman F6F Hellcat había sido uno de los cazas más exitosos de la guerra, 
 
 La elección del nombre "Blue Angels" (Ángeles Azules) surgió de una visita del equipo a un club nocturno de Nueva York llamado "Blue Angel". El nombre evocaba la mística de la aviación naval y su conexión con el cielo. Los colores originales (azul marino oscuro con letras doradas) fueron elegidos por Voris para reflejar los colores institucionales de la Marina.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Desarrollo Cronológico
 
 - **24 de abril de 1946:** El Almirante Nimitz emite la directiva ordenando la creación de un equipo de exhibición aérea y selecciona a Butch Voris como Oficial a Cargo.
@@ -70,9 +72,7 @@ La elección del nombre "Blue Angels" (Ángeles Azules) surgió de una visita de
 - **1986:** Transición al McDonnell Douglas F/A-18 Hornet, coincidiendo con el 40 aniversario.
 - **2021:** Transición al Boeing F/A-18E/F Super Hornet y celebración del 75 aniversario.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## La fundación: el nacimiento de los Ángeles Azules
+### La fundación: el nacimiento de los Ángeles Azules
 
 El 24 de abril de 1946, el Almirante Chester W. Nimitz, quien había liderado la Armada estadounidense a la victoria en el Pacífico, emitió una directiva que cambiaría la historia de la aviación naval. La orden establecía la creación de un equipo de exhibición aérea dentro del Comando de Entrenamiento Naval para representar a la Armada en espectáculos aéreos.
 
@@ -96,9 +96,7 @@ Conscientes de que cualquier accidente podría significar el fin del proyecto, V
 
 El 15 de junio de 1946, el equipo realizó su primer espectáculo público en NAS Jacksonville. Un mes después, adoptaron el nombre "Blue Angels", inspirado en un club nocturno de Nueva York que el equipo había visitado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Aeronaves históricas del equipo
+### Aeronaves históricas del equipo
 
 Los Blue Angels han volado diez tipos de aeronaves de demostración a lo largo de su historia:
 
@@ -116,9 +114,7 @@ Los Blue Angels han volado diez tipos de aeronaves de demostración a lo largo d
 
 Además de los cazas, el equipo opera un avión de transporte conocido como "Fat Albert". El primer C-130 se unió al equipo en 1970. Tripulado por una dotación del Cuerpo de Marines de EE. UU., "Fat Albert" abre cada espectáculo con una demostración de las capacidades tácticas del C-130, incluyendo despegues de combate y aterrizajes cortos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Maniobras emblemáticas
+### Maniobras emblemáticas
 
 Los Blue Angels son famosos por sus maniobras de precisión. Entre las más conocidas se encuentran:
 
@@ -176,7 +172,7 @@ Los Blue Angels no son solo un equipo acrobático; son embajadores de la aviaci�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 14:26:52 CST  
 - **Fuentes primarias/institucionales consultadas:** The Sextant (U.S. Navy History), Congressional Record (.gov), Navy.mil, Marines.mil, Britannica, Wikipedia
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del 24 de abril de 1946 como la de la directiva fundacional. El primer espectáculo público fue el 15 de junio de 1946. La formación diamante fue introducida en agosto de 1947.
 - **Nivel de confianza:** Alto

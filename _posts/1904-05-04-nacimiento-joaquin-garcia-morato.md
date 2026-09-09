@@ -57,6 +57,8 @@ La aviación militar española en la década de 1920 utilizaba aviones obsoletos
 
 La década de 1930 fue la "Edad de Oro" de la aviación, con pilotos como Lindbergh (1927) y los récords de velocidad y distancia que fascinaban al público. García-Morato era una figura conocida en los círculos aeronáuticos por sus actuaciones acrobáticas. Frecuentemente invitado a concursos y festivales aéreos, era considerado uno de los mejores pilotos acrobáticos de España. Su técnica de pilotaje y sus conocimientos teóricos le valieron el respeto de sus colegas y superiores.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Desarrollo Cronológico
 
 - **8 de septiembre de 1920:** Ingresa en la Academia de Infantería de Toledo a los 16 años
@@ -79,9 +81,7 @@ La década de 1930 fue la "Edad de Oro" de la aviación, con pilotos como Lindbe
 - **4 de abril de 1939:** Fallece en accidente aéreo en Griñón durante una exhibición
 - **1950:** Se le concede, a título póstumo, el título de Conde del Jarama
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## La Patrulla Azul
+### La Patrulla Azul
 
 En diciembre de 1936, García-Morato recibió tres cazas Fiat CR.32, lo que le permitió operar de forma autónoma y formar su propia unidad. Nació así la Patrulla Azul, integrada por García-Morato, el Capitán Narciso Bermúdez de Castro y el Capitán Julio Salvador Díaz-Benjumea.
 
@@ -100,9 +100,7 @@ En abril de 1937, la Patrulla Azul se convirtió en la Escuadrilla de Caza 1-E-3
 
 Este grupo se convertiría en una de las unidades de caza más legendarias de la guerra. En el trofeo de guerra del grupo, un trozo de ala de un avión enemigo en el que se pintaban las siluetas de los aparatos derribados, figuran los nombres de los pilotos caídos del 2-G-3: trece nombres, entre ellos el del propio García-Morato, añadido tras su muerte. Este trofeo se conserva en el Museo del Aire de Madrid.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## La acción del Jarama (18 de febrero de 1937)
+### La acción del Jarama (18 de febrero de 1937)
 
 El momento cumbre de la carrera de García-Morato tuvo lugar durante la batalla del Jarama, en febrero de 1937. Ese día, Morato y su patrulla se enfrentaron a una fuerza enemiga enormemente superior.
 
@@ -120,9 +118,7 @@ Al ver el tremendo peligro que afrontaban los españoles, el capitán italiano N
 
 Por su valor en esta acción, García-Morato fue propuesto para la Cruz Laureada de San Fernando, la máxima condecoración militar española. Le fue concedida el 12 de mayo de 1937 y le fue impuesta por el General Kindelán en el aeródromo de campaña de Castejón del Puente el 18 de marzo de 1938. Fue el único piloto español que recibió esta distinción durante la guerra.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## El Fiat CR.32 "Chirri"
+### El Fiat CR.32 "Chirri"
 
 El avión con el que García-Morato logró la mayoría de sus victorias, y con el que más se le identifica, fue el Fiat CR.32, un biplano de caza italiano que los pilotos españoles apodaron "Chirri" por el característico sonido de su motor V-12 refrigerado por agua.
 
@@ -141,9 +137,7 @@ Su avión personal, con la matrícula 3-51, se convirtió en un símbolo. Llevab
 - **Autonomía:** 780 km
 - **Techo de servicio:** 8.800 m
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## La muerte del as
+### La muerte del as
 
 El 4 de abril de 1939, apenas tres días después de la finalización de la Guerra Civil (el 1 de abril, Franco declaró el fin de la contienda), García-Morato participaba en el aeródromo de Griñón (Toledo) en el rodaje de una película propagandística para los noticiarios. Realizaba maniobras acrobáticas a baja altura ante las cámaras.
 
@@ -198,7 +192,7 @@ Hoy, más de 85 años después de su muerte, Joaquín García-Morato sigue siend
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 14:26:52 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Biplane Fighter Aces, Museo Aviación Militar Española, Apuntes sobre la marcha
 - **Discrepancias resueltas:** La fecha de nacimiento (4 de mayo de 1904) es consistente en todas las fuentes. La fecha de concesión de la Laureada varía entre el 12 de mayo de 1937 y el 25 de mayo de 1937; se ha priorizado la primera. El número de victorias (40) es consistente. La distribución de victorias entre el Heinkel He 51 y el Fiat CR.32 está documentada en fuentes especializadas.
 - **Nivel de confianza:** Alto

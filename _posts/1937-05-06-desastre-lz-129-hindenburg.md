@@ -42,9 +42,7 @@ image: 1937-05-06-desastre-lz-129-hindenburg.webp
 - **Duración del incendio:** 32 segundos
 - **Propósito del vuelo:** Vuelo transatlántico Fráncfort-Nueva York (temporada 1937)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Especificaciones del LZ 129 Hindenburg
+### Especificaciones del LZ 129 Hindenburg
 
 El LZ 129 Hindenburg era una aeronave de dimensiones colosales para su época, superando en tamaño a cualquier avión comercial moderno y comparable al RMS Titanic en eslora. Sus principales características técnicas eran:
 
@@ -77,6 +75,8 @@ El Hindenburg había sido diseñado originalmente para utilizar helio, un gas in
 
 El desastre del Hindenburg fue uno de los primeros eventos catastróficos capturados en imágenes en movimiento y transmitido a una audiencia global. Varios equipos de noticieros estaban presentes en Lakehurst para cubrir la llegada del dirigible, incluyendo personal de Fox, Pathé, Hearst y Paramount. El reportero Herb Morrison, de la estación de radio WLS de Chicago, grabó su conmovedora transmisión en discos de aluminio. Su exclamación "Oh, the humanity!" ("¡Oh, la humanidad!") se convirtió en una de las frases más famosas e inquietantes de la historia de la radiodifusión.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Desarrollo Cronológico
 
 - **1931–1935:** Construcción del LZ 129 Hindenburg en Friedrichshafen
@@ -89,9 +89,7 @@ El desastre del Hindenburg fue uno de los primeros eventos catastróficos captur
 - **6 de mayo de 1937, 7:00 p.m.:** El Hindenburg inicia la maniobra de aterrizaje
 - **6 de mayo de 1937, 7:25 p.m. (aproximadamente):** Se avistan las primeras llamas en la popa; en 32 segundos, la aeronave queda destruida
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## El vuelo fatal (3-6 de mayo de 1937)
+### El vuelo fatal (3-6 de mayo de 1937)
 
 El Hindenburg despegó de Fráncfort el 3 de mayo de 1937 con 36 pasajeros y 61 tripulantes a bordo, un número superior al habitual porque varios aprendices se preparaban para servir en el nuevo Graf Zeppelin II, entonces en construcción. El vuelo enfrentó fuertes vientos en contra, lo que retrasó su llegada prevista para las 6:00 a.m. del 6 de mayo. El Capitán Max Pruss comunicó a la estación de Lakehurst que llegaría a las 6:00 p.m. Aunque el dirigible recuperó algo de tiempo y arribó hacia las 4:15 p.m., la cuadrilla de tierra (compuesta por 228 hombres) estaba preparada para las 6:00 p.m., y Pruss fue obligado a desviarse hacia el sureste mientras una tormenta se aproximaba.
 
@@ -115,17 +113,13 @@ El reportero Herb Morrison, de la estación WLS de Chicago, estaba grabando una 
 
 Aunque a menudo se cree que fue una transmisión en vivo, en realidad fue grabada en discos de aluminio para su posterior difusión.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Las víctimas y los sobrevivientes
+### Las víctimas y los sobrevivientes
 
 Treinta y cinco personas a bordo perdieron la vida en el desastre: 13 pasajeros y 22 tripulantes. Un miembro de la cuadrilla de tierra, el mecánico civil Allen Hagaman, también murió al ser alcanzado por restos en llamas, elevando el total a 36 víctimas. Sesenta y dos personas sobrevivieron.
 
 Entre los sobrevivientes hubo historias notables: una anciana descendió por la escalera de salida normal; Werner Franz, un camarero, fue salvado porque un tanque de lastre de agua estalló sobre él, mojándolo por completo; Eugen Bentele, un mecánico, fue expulsado por una de las puertas del motor y sobrevivió con solo quemaduras leves; tres niños fueron lanzados por su madre y atrapados por la cuadrilla de tierra. El Capitán Max Pruss sufrió quemaduras graves pero sobrevivió. Ernst Lehmann, director de operaciones de Zeppelin, que se encontraba a bordo, sucumbió a sus heridas al día siguiente.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Causas del desastre
+### Causas del desastre
 
 El incendio que destruyó el Hindenburg comenzó en la popa y se propagó en 32 segundos. A pesar de múltiples investigaciones oficiales realizadas por Estados Unidos y Alemania, la causa exacta nunca se determinó de manera concluyente. Sin embargo, se han propuesto varias teorías:
 
@@ -185,7 +179,7 @@ Hoy, el legado del Hindenburg perdura como un recordatorio de los riesgos inhere
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 14:26:52 CST  
 - **Fuentes primarias/institucionales consultadas:** World History Encyclopedia, Wikipedia, Britannica, National Archives, The Spectator
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha (6 de mayo de 1937), lugar (Lakehurst), número de víctimas fatales (36) y duración del incendio (32 segundos). La transmisión de Herb Morrison fue grabada, no transmitida en vivo.
 - **Nivel de confianza:** Alto

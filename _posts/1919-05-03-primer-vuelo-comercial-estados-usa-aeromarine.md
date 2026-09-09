@@ -34,9 +34,7 @@ image: 1919-05-03-primer-vuelo-comercial-estados-usa-aeromarine.webp
 - **Pasajeras pagadoras:** Mrs. J. A. Hoagland y Miss Ethel Hodges (primeras pasajeras en un vuelo comercial en América)
 - **Carga adicional:** Correo (primer servicio postal aéreo del continente americano)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones del Aeromarine 50
+### Especificaciones del Aeromarine 50
 
 - **Tripulación:** 2 pilotos
 - **Capacidad de pasajeros:** 3
@@ -67,6 +65,8 @@ El Aeromarine 50 era un hidroavión anfibio diseñado para el mercado civil de l
 
 La figura del piloto se había consolidado como un héroe moderno durante la guerra, y la aviación comercial comenzaba a ser vista como un símbolo de progreso. El vuelo de Robert Hewitt transportó a dos mujeres como primeras pasajeras pagadoras, reflejando la creciente participación de la mujer en la vida pública estadounidense de la posguerra.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **1917-1918:** Desarrollo del entrenador militar Aeromarine 40 para la Marina de EE. UU.
@@ -77,9 +77,7 @@ La figura del piloto se había consolidado como un héroe moderno durante la gue
 - **1923-1924:** Aeromarine abandona los servicios diarios entre Nueva York y Atlantic City por falta de rentabilidad
 - **1924:** Aeromarine Airways cesa sus operaciones
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El primer vuelo comercial interestatal
+### El primer vuelo comercial interestatal
 
 El 3 de mayo de 1919 marcó un hito en la historia de la aviación estadounidense. Ese día, el piloto Robert Hewitt despegó desde la costa de Nueva York a bordo de un Aeromarine 50 "S" Flying Boat con destino a Atlantic City, Nueva Jersey.
 
@@ -142,7 +140,7 @@ El concepto de conectar ciudades costeras mediante hidroaviones, iniciado en Nue
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 14:26:52 CST  
 - **Fuentes primarias/institucionales consultadas:** La Nación, Wikipedia (ES/EN), HandWiki, Time Magazine Archive, UNT Digital Library
 - **Discrepancias resueltas:** No se encontraron discrepancias mayores entre las fuentes. El Aeromarine 50 voló por primera vez en 1919 y fue utilizado en la ruta Nueva York-Atlantic City, donde operaba el servicio más establecido en 1921. La fecha del 3 de mayo de 1919 corresponde al vuelo inaugural de Aeromarine, reconocido como el primero en transportar pasajeros pagadores entre dos estados.
 - **Nivel de confianza:** Alto

@@ -57,6 +57,8 @@ La aviación militar en 1916 estaba en plena evolución. La Escuadrilla Lafayett
 
 Los pilotos de la Escuadrilla Lafayette forjaron una cultura única, mezcla de audacia juvenil, disciplina militar francesa y un espíritu casi romántico de caballeros del aire. Vivían intensamente, conscientes de su alta probabilidad de muerte. Adoptaron dos leones como mascotas, llamados "Whiskey" y "Soda", que se convirtieron en símbolos no oficiales de la unidad. Sus nombres —Lufbery, Rockwell, Prince, Chapman, Thaw— se volvieron legendarios.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Desarrollo Cronológico
 
 - **1914-1915:** Voluntarios estadounidenses sirven individualmente en unidades francesas.
@@ -71,9 +73,7 @@ Los pilotos de la Escuadrilla Lafayette forjaron una cultura única, mezcla de a
 - **8 de febrero de 1918:** La Escuadrilla Lafayette se disuelve.
 - **18 de febrero de 1918:** Sus miembros y equipos son transferidos al Servicio Aéreo del Ejército de EE. UU., formando el núcleo del 103rd Aero Squadron.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## La Fundación: detalles clave
+### La Fundación: detalles clave
 
 El 20 de abril de 1916 no fue una fecha elegida al azar. Representó el punto culminante de meses de gestiones diplomáticas y militares.
 
@@ -93,9 +93,7 @@ El comandante de la unidad fue el **Capitán Georges Thenault**, un oficial fran
 
 El nombre original, "Escuadrilla Americana", fue un poderoso gesto simbólico que, sin embargo, causó un incidente diplomático. El embajador alemán en Washington protestó formalmente, argumentando que una unidad militar que llevaba el nombre de una nación neutral era una violación de las leyes de neutralidad. Para evitar complicaciones, en diciembre de 1916 el gobierno francés renombró la unidad como **Escuadrilla Lafayette**, en honor al Marqués de Lafayette, el aristócrata francés que luchó junto a las colonias americanas durante su Guerra de Independencia. Este nombre era un guiño a la alianza histórica y mantenía el espíritu de la unidad sin ofender la neutralidad de Estados Unidos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Principales figuras de la Escuadrilla Lafayette
+### Principales figuras de la Escuadrilla Lafayette
 
 - **Capitán Georges Thenault (1887-1948):** El único comandante de la unidad. Sobrevivió a la guerra y eligió ser enterrado junto a sus hombres en el Monumento a la Escuadrilla Lafayette.
 - **<a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1885/03/14/nacimiento-raoul-lufbery.html" style="color: #315fea; text-decoration: none;">Gervais Raoul Lufbery</a> (1885-1918):** El "as de ases" de la escuadrilla, con 16 o 17 victorias confirmadas. Nacido en Francia, se convirtió en ciudadano estadounidense. Murió en combate en 1918 mientras servía en el 94th Aero Squadron.
@@ -154,7 +152,7 @@ El 20 de abril de 1916 marcó el nacimiento de una leyenda. Cien años después,
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST
+- **Timestamp de verificación:** 2026-09-09 14:26:52 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), National Museum of the USAF, 1914-1918 Online Encyclopedia, Smithsonian Magazine, USA WW1 Aviation
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre la Escuadrilla Lafayette y el Lafayette Flying Corps. También se ha precisado que la fecha del 20 de abril de 1916 corresponde al despliegue de la unidad, mientras que la autorización oficial fue el 21 de marzo de 1916.
 - **Nivel de confianza:** Alto

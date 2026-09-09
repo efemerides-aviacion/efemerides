@@ -58,6 +58,8 @@ El diseño del aeropuerto fue encargado al arquitecto Luis Gutiérrez Soto y al 
 
 La inauguración del aeropuerto fue un acontecimiento social y mediático. El 30 de abril de 1931, cientos de madrileños acudieron en automóviles, camionetas y otros medios de locomoción a Barajas para presenciar el primer aterrizaje oficial. La prensa de la época, como El Imparcial, La Época y ABC, cubrió ampliamente el evento, destacando que era el primer aeródromo español destinado exclusivamente a la aviación civil y al tráfico comercial nacional e internacional.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Desarrollo Cronológico
 
 - **1929:** Se inician los estudios para la construcción de un nuevo aeropuerto para Madrid. Se barajan las ubicaciones de Getafe, Carabanchel Alto, Vallecas y Barajas. Se elige Barajas por ser un "páramo yermo" de fácil explanación y con buena comunicación por carretera.
@@ -72,9 +74,7 @@ La inauguración del aeropuerto fue un acontecimiento social y mediático. El 30
 - **1965:** El aeropuerto cambia su nombre a Aeropuerto de Madrid-Barajas.
 - **2014:** Tras el fallecimiento del expresidente Adolfo Suárez, el aeropuerto pasa a denominarse Aeropuerto Adolfo Suárez Madrid-Barajas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## La apertura oficial: el 22 de abril de 1931
+### La apertura oficial: el 22 de abril de 1931
 
 El 22 de abril de 1931 es la fecha clave desde el punto de vista administrativo y legal. Apenas ocho días después de la proclamación de la Segunda República, el nuevo Gobierno Provisional, encabezado por Niceto Alcalá Zamora, tomó una de sus primeras decisiones en materia de infraestructuras aeronáuticas.
 
@@ -88,9 +88,7 @@ Esta decisión formalizó el nacimiento del aeropuerto como entidad operativa, a
 
 La elección de Barajas no fue casual. Cuatro eran los enclaves posibles para establecer el aeropuerto de Madrid: Getafe, Carabanchel Alto, Vallecas y Barajas. Se escogió este último porque era un "páramo yermo de unas 500 fanegas" (aproximadamente entre 330 y 493 hectáreas) con una "buena comunicación con la capital a través de la carretera de Francia". Los terrenos, libres de obstáculos, fueron adquiridos por 730.000 pesetas el 30 de julio de 1930.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## La inauguración pública: el 30 de abril de 1931
+### La inauguración pública: el 30 de abril de 1931
 
 Ocho días después de la apertura oficial al tráfico, el 30 de abril de 1931, se celebró la ceremonia pública de inauguración. Este evento fue el que capturó la imaginación popular y el que recogieron los periódicos de la época.
 
@@ -104,9 +102,7 @@ La inauguración fue todo un acontecimiento social. El diario La Época destacó
 
 Muchos de los asistentes recibieron ese día su "bautismo del aire", volando por primera vez en alguno de los aviones presentes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## El inicio de las operaciones comerciales: 1933
+### El inicio de las operaciones comerciales: 1933
 
 Aunque el aeropuerto estaba abierto al tráfico desde abril de 1931, las operaciones comerciales regulares tardaron dos años en comenzar.
 
@@ -176,7 +172,7 @@ El aeropuerto ha sido testigo de la historia de España: la Guerra Civil (durant
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST
+- **Timestamp de verificación:** 2026-09-09 14:26:52 CST
 - **Fuentes primarias/institucionales consultadas:** Aena (página oficial), Wikipedia (ES), BBVA, La Razón, ABC, Sociedad Aeronáutica Española, EL PAÍS, Telemadrid
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre la apertura al tráfico (22 de abril de 1931), la inauguración pública (30 de abril de 1931) y el inicio de operaciones comerciales (15 de mayo de 1933). También se ha precisado que Jacobo Armijo fue el primer jefe/director, nombrado en mayo de 1931. Las fuentes coinciden en la superficie de los terrenos (entre 330 y 493 hectáreas) y en el costo de adquisición (730.000 pesetas).
 - **Nivel de confianza:** Alto

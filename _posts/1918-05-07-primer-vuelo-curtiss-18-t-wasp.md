@@ -36,9 +36,7 @@ image: 1918-05-07-primer-vuelo-curtiss-18-t-wasp.webp
 - **Velocidad máxima registrada (agosto de 1918):** 262 km/h (163 mph) con carga militar completa
 - **Fecha de introducción:** Febrero de 1919
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones (Curtiss 18T-1 Wasp)
+### Especificaciones (Curtiss 18T-1 Wasp)
 
 El Curtiss 18T-1 Wasp presentaba un diseño extremadamente limpio y aerodinámico, con una construcción innovadora basada en laminado de madera.
 
@@ -78,6 +76,8 @@ El diseño "limpio" y la construcción en madera laminada fueron las caracterís
 
 En 1918, la industria aeronáutica estadounidense aún estaba en desarrollo. La mayoría de los cazas utilizados por las Fuerzas Expedicionarias Estadounidenses en Francia eran de diseño francés o británico (SPAD, Nieuport, SE.5). El Curtiss 18T representó un intento de crear un caza puramente estadounidense de alto rendimiento, aunque la guerra terminó antes de que pudiera entrar en producción.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **1917:** Curtiss inicia el diseño del 18T en respuesta a las necesidades de la Armada de los EE. UU.
@@ -91,17 +91,13 @@ En 1918, la industria aeronáutica estadounidense aún estaba en desarrollo. La 
 - **1922:** Un 18T-2 casi gana la Curtiss Marine Trophy Race, pero el piloto (Teniente Sanderson) se quedó sin combustible cerca de la línea de meta.
 - **1920:** Un Curtiss 18T (posiblemente el 18T-2 o una variante similar) es enviado a Bolivia, donde operó durante varios años.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Variantes
+### Variantes
 
 - **Model 18T o 18T-1 (Wasp/Kirkham):** Versión original de un solo vano (con un par de montantes por lado). Equipada con un motor Curtiss K-12 de 400 hp (298 kW). Designada "Kirkham" por la Armada de los EE. UU. Redesignada 18T-1 tras el desarrollo del 18T-2.
 - **Model 18T-2:** Versión mejorada con alas de dos vanos (con dos pares de montantes por lado, mayor envergadura). Las alas estaban ligeramente retrasadas (swept back). El fuselaje era 1,5 m (5 pies) más largo. Potencia adicional de 50 hp, aunque el techo de servicio era 610 m (2.000 pies) más bajo.
 - **Model 18B (Hornet):** Versión biplano del mismo concepto. El único prototipo volante (USAAS 40058, 'P-86') se estrelló durante las pruebas en McCook Field en el verano de 1919. Se entregó un segundo prototipo no volante para pruebas estáticas. No entró en producción.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Operadores
+### Operadores
 
 El Curtiss 18T fue utilizado principalmente como banco de pruebas y en competiciones aéreas, con una breve exportación a Bolivia:
 
@@ -154,7 +150,7 @@ El ejemplar enviado a Bolivia en 1920, hoy considerado por los aficionados boliv
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 14:26:52 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Blog Aviación Bolivia
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (7 de mayo de 1918), las especificaciones del 18T-1 y el récord de velocidad de agosto de 1918. Se ha añadido información sobre los récords de altitud de Roland Rohlfs (30 de julio de 1918 y 18 de septiembre de 1919) y sobre los números de serie de los dos prototipos . La información sobre el uso en Bolivia (1920) proviene del blog de aviación boliviana.
 - **Nivel de confianza:** Alto

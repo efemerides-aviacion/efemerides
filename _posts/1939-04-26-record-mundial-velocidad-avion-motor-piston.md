@@ -55,6 +55,8 @@ El motor de pistón había alcanzado su madurez tecnológica a finales de la dé
 
 La figura del piloto de pruebas era admirada como la del "superhombre" tecnológico. Fritz Wendel era un piloto experimentado que había establecido un récord mundial de velocidad en 1937 con un Messerschmitt Bf 113R (una versión modificada del Bf 109). Su nombre era conocido en los círculos aeronáuticos alemanes e internacionales. A pesar del peligro extremo de volar el Me 209 (Wendel describió la experiencia como "una lucha constante por mantener el control del avión"), aceptó el desafío con la determinación propia de un piloto de pruebas de la época.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **30 de marzo de 1939:** Hans Dieterle establece un nuevo récord mundial de velocidad con un Heinkel He 100 V8, alcanzando 746,6 km/h.
@@ -65,9 +67,7 @@ La figura del piloto de pruebas era admirada como la del "superhombre" tecnológ
 - **Septiembre de 1939:** Comienza la Segunda Guerra Mundial. El programa del Me 209 es cancelado porque el avión no era apto para combate.
 - **1969:** El piloto estadounidense Darryl Greenamyer supera el récord de Wendel (30 años después) con un Grumman F8F Bearcat modificado, alcanzando 777 km/h.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El avión: Messerschmitt Me 209 V1
+### El avión: Messerschmitt Me 209 V1
 
 El Messerschmitt Me 209 V1 fue un avión de récord puro, no un prototipo de caza. Aunque su designación sugería una continuidad con el Bf 109 (el caza estándar de la Luftwaffe), en realidad era un diseño completamente nuevo, optimizado exclusivamente para la velocidad.
 
@@ -86,9 +86,7 @@ El Daimler-Benz DB 601 ARJ era una versión especial del motor DB 601 que equipa
 
 Debido a su diseño extremo, el Me 209 era muy inestable a baja velocidad. El despegue y el aterrizaje eran especialmente peligrosos, requiriendo una pista larga y condiciones meteorológicas perfectas. Wendel describió el vuelo como "una lucha constante por mantener el control del avión".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El piloto: Fritz Wendel
+### El piloto: Fritz Wendel
 
 Friedrich "Fritz" Wendel (21 de febrero de 1915 - 9 de febrero de 1975) fue el piloto jefe de pruebas de Messerschmitt AG y uno de los aviadores más destacados de la Alemania nazi.
 
@@ -104,9 +102,7 @@ El 26 de abril de 1939, Wendel pilotó el Me 209 V1. Los preparativos para el vu
 
 Wendel continuó como piloto jefe de pruebas de Messerschmitt durante la Segunda Guerra Mundial. Voló el primer prototipo del Me 262 (el primer caza a reacción operativo del mundo) el 18 de abril de 1941 (con motor de pistón) y luego el 18 de julio de 1942 (con motores a reacción). Sobrevivió a la guerra y falleció en 1975.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La guerra de récords entre Heinkel y Messerschmitt
+### La guerra de récords entre Heinkel y Messerschmitt
 
 En la primavera de 1939, Heinkel y Messerschmitt protagonizaron una intensa competencia por el récord mundial de velocidad absoluta.
 
@@ -172,7 +168,7 @@ La marca de 755,14 km/h establecida por Wendel se mantuvo como el récord mundia
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 14:26:52 CST  
 - **Fuentes primarias/institucionales consultadas:** FAI (Fédération Aéronautique Internationale) - registro 8743, Wikipedia (EN/ES), This Day in Aviation, Flug Revue
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (26 de abril de 1939) y en la velocidad (755,14 km/h). La potencia exacta del motor DB 601 ARJ varía según las fuentes (entre 1.800 y 2.300 hp). Se ha optado por la cifra más alta comúnmente citada en fuentes especializadas.
 - **Nivel de confianza:** Alto

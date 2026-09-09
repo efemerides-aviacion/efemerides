@@ -38,9 +38,7 @@ image: 1923-05-03-primer-vuelo-transcontinental-new-york-san-diego.webp
 - **Pilotos:** Teniente John A. Macready y Teniente Oakley G. Kelly
 - **Reconocimientos:** Mackay Trophy (1923)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones del Fokker T-2 (Fokker F.IV)
+### Especificaciones del Fokker T-2 (Fokker F.IV)
 
 - **Fabricante:** Fokker (Países Bajos), ensamblado en EE. UU.
 - **Diseñadores:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1890/04/06/nacimiento-anthony-herman-gerard-fokker.html" style="color: #315fea; text-decoration: none;">Anthony Fokker</a> y Rheinhold Platz
@@ -70,6 +68,8 @@ El Fokker T-2 era un monoplano de transporte diseñado originalmente para 8‑10
 
 El vuelo fue cubierto por la prensa de todo el país. Los periódicos documentaron los avistamientos del T-2 sobre ciudades como Altoona (Pensilvania), Wheeling (Virginia Occidental), Indianápolis y Jefferson City (Misuri). A su llegada a San Diego, las sirenas de fábricas, barcos y embarcaciones navales sonaron en celebración, y multitudes vitorearon a los dos aviadores.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **1911:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1879/01/12/nacimiento-calbraith-perry-rodgers.html" style="color: #315fea; text-decoration: none;">Calbraith Perry Rodgers</a> realiza el primer vuelo transcontinental (con escalas) en 49 días.
@@ -80,9 +80,7 @@ El vuelo fue cubierto por la prensa de todo el país. Los periódicos documentar
 - **3 de mayo de 1923, 12:26 p.m. (hora del Pacífico):** Aterrizaje en Rockwell Field, San Diego.
 - **1923:** Macready y Kelly reciben el Mackay Trophy por su hazaña.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El vuelo: detalles humanos
+### El vuelo: detalles humanos
 
 El vuelo de Macready y Kelly no fue un paseo triunfal. Fue una lucha constante contra el peso, el clima, el ruido y la fatiga.
 
@@ -110,9 +108,7 @@ Sin radio, sin ayudas terrestres, sin mapas meteorológicos, los pilotos se guia
 
 Al aterrizar en Rockwell Field, San Diego, tras 26 horas y 50 minutos, el T-2 tenía solo 46 galones de combustible en sus tanques (aproximadamente una hora de autonomía). Si el clima empeoraba o los vientos se volvían contrarios, no habrían llegado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Los pilotos
+### Los pilotos
 
 John A. Macready nació en San Diego en 1887 y fue uno de los pilotos más notables de la historia de la aviación militar estadounidense. Ostenta el récord de ser el único piloto en ganar el Mackay Trophy en tres ocasiones (1921, 1922 y 1923). Macready fue el primer piloto en realizar un salto en paracaídas nocturno de emergencia, el segundo en volar un avión con cabina presurizada y el primero en realizar fumigación aérea de cultivos.
 
@@ -163,7 +159,7 @@ El Fokker T-2 envejeció rápidamente, superado por los avances tecnológicos de
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 14:26:52 CST  
 - **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (Smithsonian), National Museum of the USAF (.mil), Newsday, Air & Space Forces Magazine
 - **Discrepancias resueltas:** La distancia varía entre 2.470 y 2.520 millas según la fuente (diferencia entre distancia en línea recta y distancia real volada). La hora de despegue varía entre 12:30 p.m. y 12:36 p.m. (se incluye el rango). La potencia del motor varía entre 408 hp y 420 hp (se incluye la cifra más común, 420 hp).
 - **Nivel de confianza:** Alto

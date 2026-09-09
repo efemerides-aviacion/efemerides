@@ -55,6 +55,8 @@ Cuando Richthofen comenzó su carrera como piloto en 1915, la aviación militar 
 
 La figura del "as de la aviación" se consolidó durante la Primera Guerra Mundial como un héroe nacional. Richthofen fue el más famoso de todos, y su imagen fue intensamente utilizada por la propaganda alemana. El gobierno alemán lo convirtió en un símbolo de la superioridad tecnológica y el espíritu combativo alemán. Su decisión de pintar su avión de rojo fue una estrategia deliberada para ser reconocido tanto por sus aliados como por sus enemigos, creando una marca personal inconfundible.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Desarrollo Cronológico
 
 - **2 de mayo de 1892:** Nace Manfred von Richthofen en Breslavia, Silesia
@@ -72,9 +74,7 @@ La figura del "as de la aviación" se consolidó durante la Primera Guerra Mundi
 - **20 de abril de 1918:** Obtiene sus victorias 79 y 80
 - **21 de abril de 1918:** Es derribado y muere sobre Vaux-sur-Somme, Francia
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## La trayectoria militar: de la caballería al cielo
+### La trayectoria militar: de la caballería al cielo
 
 Richthofen comenzó la guerra como oficial de caballería, sirviendo en los Uhlanes, los famosos lanceros prusianos. Participó en las invasiones de Bélgica y Francia, y luego combatió en el frente oriental contra Rusia. Cuando la guerra de trincheras hizo obsoleta a la caballería, Richthofen se sintió frustrado. Su descontento fue tal que escribió en su solicitud de transferencia a la aviación: "No he ido a la guerra para recoger queso y huevos, sino para otro propósito".
 
@@ -90,9 +90,7 @@ En agosto de 1916, Richthofen conoció a Oswald Boelcke, el principal as alemán
 
 En enero de 1917, Richthofen asumió el mando de Jagdstaffel 11. Inmediatamente ordenó que su Albatros D.III fuera pintado completamente de rojo. Pronto, otros pilotos del escuadrón también pintaron sus aviones con colores brillantes, creando una formación que los británicos apodaron el "Circo Volante". Junto a sus pilotos, Richthofen dominó los cielos, utilizando tácticas disciplinadas en lugar de acrobacias arriesgadas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## El Barón Rojo y su máquina
+### El Barón Rojo y su máquina
 
 La asociación de Richthofen con el color rojo comenzó como una estrategia. Quería que sus aliados lo reconocieran en el aire y que sus enemigos supieran a quién se enfrentaban. El efecto psicológico fue inmediato.
 
@@ -108,9 +106,7 @@ El Fokker Dr.I triplano fue diseñado en respuesta al Sopwith Triplano británic
 
 Después de cada victoria confirmada, Richthofen encargaba una copa de plata a un joyero en Berlín, grabada con la fecha y el tipo de aeronave derribada. Continuó esta tradición hasta que tuvo 60 copas, momento en el que la escasez de plata en la Alemania bloqueada impidió seguir fabricándolas. Se negó a aceptar copas de metal común y cesó el pedido.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## La muerte del Barón Rojo
+### La muerte del Barón Rojo
 
 El 21 de abril de 1918, Richthofen persiguió a un Sopwith Camel pilotado por el teniente canadiense Wilfrid May sobre la región del Somme, adentrándose peligrosamente en territorio enemigo a baja altitud, una violación de sus propios principios tácticos.
 
@@ -178,7 +174,7 @@ En 1925, el cuerpo de Richthofen fue exhumado y enterrado nuevamente en Berlín.
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST
+- **Timestamp de verificación:** 2026-09-09 14:26:52 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Britannica, Air & Space Forces Magazine, Ellsworth AFB (.mil), Australian War Memorial, San Diego Air & Space Museum
 - **Discrepancias resueltas:** La fecha de nacimiento es consistente en todas las fuentes (2 de mayo de 1892). La controversia sobre su muerte está documentada; se presentan ambas teorías (Cap. Brown y fuego antiaéreo australiano) con la evidencia disponible. La mayoría de las victorias (80) es confirmada por todas las fuentes. La herida de cabeza sufrida el 6 de julio de 1917 es relevante para entender su error de juicio final.
 - **Nivel de confianza:** Alto
