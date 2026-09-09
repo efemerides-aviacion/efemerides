@@ -22,46 +22,7 @@ image: 1928-06-09-primer-vuelo-transpacifico-usa-australia.webp
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Contexto Histórico
-
-En la década de 1920, la aviación vivía su "edad de oro". El vuelo de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> sobre el Atlántico en mayo de 1927 había demostrado que los vuelos de larga distancia eran posibles. Sin embargo, el Pacífico, con sus enormes extensiones de mar abierto, seguía siendo un desafío formidable.
-
-### Entorno social
-
-Australia, una nación insular relativamente aislada del resto del mundo, veía en la aviación una promesa de conexión más rápida con América del Norte y Europa. La población seguía con enorme expectación los esfuerzos de los pioneros de la aviación. Kingsford Smith y Ulm, ambos veteranos de la Primera Guerra Mundial, encarnaban el espíritu aventurero de la época.
-
-### Entorno tecnológico
-
-Los aviones de 1928 eran frágiles y poco fiables para los estándares modernos. El Fokker F.VIIb/3m era un monoplano de madera y tela, con tres motores Wright Whirlwind. Carecía de cabina presurizada, sistemas de navegación modernos y asientos eyectables. La navegación se realizaba mediante sextante y mapas. La comunicación por radio era primordial, pero limitada.
-
-### Entorno cultural
-
-El éxito de Kingsford Smith fue celebrado como un triunfo del ingenio y la valentía australianos. Su hazaña inspiró a toda una generación y consolidó la idea de que Australia no estaba aislada, sino conectada al mundo por el aire. Su famosa frase al aterrizar se convirtió en parte de la leyenda.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Desarrollo Cronológico del Vuelo
-
-- **31 de mayo de 1928:** Despegue de Oakland Airfield, California, a bordo del Fokker F.VIIb/3m "Southern Cross".
-- **Primera etapa (Oakland → Hawái):** 27 horas y 25 minutos. El Southern Cross aterriza en Wheeler Field, Hawái.
-- **Segunda etapa (Hawái → Fiji):** 34 horas y 30 minutos. La distancia más larga sin escalas sobre mar abierto realizada hasta ese momento. El Southern Cross se convierte en el **primer avión en aterrizar en Fiji**.
-- **Tercera etapa (Fiji → Brisbane):** aproximadamente 21 horas y 43 minutos.
-- **9 de junio de 1928, aproximadamente 10:00:** El Southern Cross aterriza en Eagle Farm Aerodrome, Brisbane, Australia. La multitud estimada es de 25.000 a 26.000 personas.
-- **Al aterrizar:** Kingsford Smith pronuncia su famosa frase: *"Hello Aussies — my kingdom for a smoke" ("Hola australianos — mi reino por un cigarrillo")*.
-- **10 de junio de 1928:** Kingsford Smith y su tripulación vuelan a Sydney, donde **300.000 personas** se reúnen para recibirlos.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La Tripulación del Southern Cross
-
-- **Charles Kingsford Smith (1897-1935):** Piloto y comandante de la misión. Australiano, veterano de la Primera Guerra Mundial. Apodado "Smithy". Desapareció en el mar de Andamán en noviembre de 1935.
-- **Charles Ulm (1897-1934):** Copiloto. Australiano, también veterano de la guerra. Era el organizador y gestor financiero de la expedición. Desapareció cerca de Hawái en diciembre de 1934.
-- **Harry Lyon (1902-1980):** Navegante. Estadounidense. Utilizó un sextante para la navegación celestial durante el vuelo. Falleció el 18 de noviembre de 1980.
-- **James Warner (1891-1970):** Operador de radio. Estadounidense. Mantuvo comunicación constante con barcos y estaciones en tierra durante el vuelo. Falleció el 19 de diciembre de 1970.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas del Fokker F.VIIb/3m "Southern Cross"
+## Datos verificados del evento
 
 - **Fabricante:** Fokker (Países Bajos)
 - **Tipo:** Monoplano trimotor de transporte
@@ -81,7 +42,42 @@ El éxito de Kingsford Smith fue celebrado como un triunfo del ingenio y la vale
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Los Desafíos del Vuelo
+## Contexto Histórico
+
+En la década de 1920, la aviación vivía su "edad de oro". El vuelo de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> sobre el Atlántico en mayo de 1927 había demostrado que los vuelos de larga distancia eran posibles. Sin embargo, el Pacífico, con sus enormes extensiones de mar abierto, seguía siendo un desafío formidable.
+
+### Entorno social
+
+Australia, una nación insular relativamente aislada del resto del mundo, veía en la aviación una promesa de conexión más rápida con América del Norte y Europa. La población seguía con enorme expectación los esfuerzos de los pioneros de la aviación. Kingsford Smith y Ulm, ambos veteranos de la Primera Guerra Mundial, encarnaban el espíritu aventurero de la época.
+
+### Entorno tecnológico
+
+Los aviones de 1928 eran frágiles y poco fiables para los estándares modernos. El Fokker F.VIIb/3m era un monoplano de madera y tela, con tres motores Wright Whirlwind. Carecía de cabina presurizada, sistemas de navegación modernos y asientos eyectables. La navegación se realizaba mediante sextante y mapas. La comunicación por radio era primordial, pero limitada.
+
+### Entorno cultural
+
+El éxito de Kingsford Smith fue celebrado como un triunfo del ingenio y la valentía australianos. Su hazaña inspiró a toda una generación y consolidó la idea de que Australia no estaba aislada, sino conectada al mundo por el aire. Su famosa frase al aterrizar se convirtió en parte de la leyenda.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Desarrollo Cronológico
+
+- **31 de mayo de 1928:** Despegue de Oakland Airfield, California, a bordo del Fokker F.VIIb/3m "Southern Cross".
+- **Primera etapa (Oakland → Hawái):** 27 horas y 25 minutos. El Southern Cross aterriza en Wheeler Field, Hawái.
+- **Segunda etapa (Hawái → Fiji):** 34 horas y 30 minutos. La distancia más larga sin escalas sobre mar abierto realizada hasta ese momento. El Southern Cross se convierte en el **primer avión en aterrizar en Fiji**.
+- **Tercera etapa (Fiji → Brisbane):** aproximadamente 21 horas y 43 minutos.
+- **9 de junio de 1928, aproximadamente 10:00:** El Southern Cross aterriza en Eagle Farm Aerodrome, Brisbane, Australia. La multitud estimada es de 25.000 a 26.000 personas.
+- **Al aterrizar:** Kingsford Smith pronuncia su famosa frase: *"Hello Aussies — my kingdom for a smoke" ("Hola australianos — mi reino por un cigarrillo")*.
+- **10 de junio de 1928:** Kingsford Smith y su tripulación vuelan a Sydney, donde **300.000 personas** se reúnen para recibirlos.
+
+### La Tripulación del Southern Cross
+
+- **Charles Kingsford Smith (1897-1935):** Piloto y comandante de la misión. Australiano, veterano de la Primera Guerra Mundial. Apodado "Smithy". Desapareció en el mar de Andamán en noviembre de 1935.
+- **Charles Ulm (1897-1934):** Copiloto. Australiano, también veterano de la guerra. Era el organizador y gestor financiero de la expedición. Desapareció cerca de Hawái en diciembre de 1934.
+- **Harry Lyon (1902-1980):** Navegante. Estadounidense. Utilizó un sextante para la navegación celestial durante el vuelo. Falleció el 18 de noviembre de 1980.
+- **James Warner (1891-1970):** Operador de radio. Estadounidense. Mantuvo comunicación constante con barcos y estaciones en tierra durante el vuelo. Falleció el 19 de diciembre de 1970.
+
+### Los Desafíos del Vuelo
 
 La travesía del Pacífico estuvo llena de dificultades y riesgos:
 
@@ -91,9 +87,7 @@ La travesía del Pacífico estuvo llena de dificultades y riesgos:
 - **Ruido ensordecedor:** El ruido de los tres motores hacía imposible la comunicación verbal. Lyon y Warner escribían mensajes en trozos de papel para comunicarse con Smithy y Ulm.
 - **Navegación primitiva:** Lyon utilizaba un sextante para la navegación celestial, una habilidad que requería cielos despejados y una precisión milimétrica. Una nube podría haber desviado al avión cientos de kilómetros.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La Importancia del Equipo de Radio
+### La Importancia del Equipo de Radio
 
 El Southern Cross estaba equipado con un avanzado sistema de radio para la época: cuatro transmisores y tres receptores, alimentados por una turbina de aire (ram air turbine) montada en el fuselaje. La comunicación por radio fue crucial:
 
@@ -153,7 +147,7 @@ Charles Kingsford Smith es recordado como uno de los más grandes pioneros de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Timestamp de verificación:** 2026-09-09 14:00:03 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, Britannica, National Museum of Australia, Smithsonian, State Library of Queensland
 - **Discrepancias resueltas:** Confirmación de la fecha de llegada (9 de junio de 1928) y de partida (31 de mayo de 1928). Verificación de la distancia (11.585 km) y la duración (83 horas y 38 minutos). Aclaración de los roles de la tripulación y corrección de la información sobre las sillas de mimbre. Adición de fechas de fallecimiento de Lyon y Warner.
 - **Nivel de confianza:** Alto

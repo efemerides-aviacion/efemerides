@@ -22,6 +22,24 @@ image: 1959-06-08-primer-vuelo-north-american-x-15.webp
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+## Datos verificados del evento
+
+- **Fabricante:** North American Aviation
+- **Tripulación:** 1 piloto
+- **Longitud:** 49 pies 2 pulgadas (14,99 m)
+- **Envergadura:** 22 pies 4 pulgadas (6,81 m)
+- **Altura:** 13 pies 6 pulgadas (4,12 m)
+- **Peso vacío:** 14.600 lb (6.622 kg)
+- **Peso máximo al despegue:** 34.000 lb (15.195 kg)
+- **Motor principal:** Reaction Motors XLR99 (57.000 lbf de empuje) o 2 XLR11 (16.000 lbf)
+- **Velocidad máxima:** Mach 6,70 (4.520 mph / 7.274 km/h)
+- **Techo de servicio:** 354.200 pies (108 km)
+- **Alcance:** aproximadamente 280 millas (450 km)
+- **Construcción:** Aleación de níquel (Inconel-X 750) para soportar temperaturas extremas
+- **Sistema de control:** Cohetes de peróxido de hidrógeno para control de reacción (RCS) en el espacio
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
 
 El programa X-15 nació en plena Guerra Fría, cuando Estados Unidos y la Unión Soviética competían por explorar los límites de la atmósfera y desarrollar tecnologías para el vuelo espacial. En 1952, el Comité de Aerodinámica de NACA (precursor de la NASA) recomendó investigar vuelos a Mach 10 y altitudes de 12 a 50 millas .
@@ -40,7 +58,7 @@ El X-15 capturó la imaginación del público estadounidense. Sus pilotos, como 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Programa X-15
+## Desarrollo Cronológico
 
 - **Junio de 1952:** NACA recomienda investigar vuelos a Mach 10 y altitudes de 12-50 millas .
 - **Septiembre de 1955:** North American Aviation es seleccionada para desarrollar tres aviones X-15 .
@@ -60,27 +78,7 @@ El X-15 capturó la imaginación del público estadounidense. Sus pilotos, como 
 - **15 de noviembre de 1967:** Accidente fatal del X-15-3; fallece el Mayor Michael J. Adams .
 - **24 de octubre de 1968:** Último vuelo del X-15 (199ª misión) .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas del X-15
-
-- **Fabricante:** North American Aviation
-- **Tripulación:** 1 piloto
-- **Longitud:** 49 pies 2 pulgadas (14,99 m)
-- **Envergadura:** 22 pies 4 pulgadas (6,81 m)
-- **Altura:** 13 pies 6 pulgadas (4,12 m)
-- **Peso vacío:** 14.600 lb (6.622 kg)
-- **Peso máximo al despegue:** 34.000 lb (15.195 kg)
-- **Motor principal:** Reaction Motors XLR99 (57.000 lbf de empuje) o 2 XLR11 (16.000 lbf)
-- **Velocidad máxima:** Mach 6,70 (4.520 mph / 7.274 km/h)
-- **Techo de servicio:** 354.200 pies (108 km)
-- **Alcance:** aproximadamente 280 millas (450 km)
-- **Construcción:** Aleación de níquel (Inconel-X 750) para soportar temperaturas extremas
-- **Sistema de control:** Cohetes de peróxido de hidrógeno para control de reacción (RCS) en el espacio
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Los Pilotos del X-15 (12 pilotos, 199 vuelos)
+### Los Pilotos del X-15 (12 pilotos, 199 vuelos)
 
 - **Scott Crossfield (North American):** 14 vuelos, primer piloto del X-15 .
 - **Neil Armstrong (NASA):** 7 vuelos, luego primer hombre en la Luna .
@@ -99,9 +97,7 @@ Ocho de estos pilotos superaron las 50 millas (80 km), calificando como astronau
 
 <p>Entre los aviadores que darían proyección histórica al programa destacó Robert M. White, quien más tarde se convertiría en el primer piloto en superar Mach 4, Mach 5 y Mach 6 a los mandos del X-15.</p>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Vuelo de Planeo del 8 de junio de 1959
+### El Vuelo de Planeo del 8 de junio de 1959
 
 El primer vuelo del X-15 no fue propulsado. El motor cohete XLR99 aún no estaba listo, por lo que el X-15-1 fue equipado con dos motores XLR11 (16.000 lbf de empuje) para vuelos posteriores. En esta primera misión, el avión fue lanzado desde el B-52 a 37.550 pies y planeó de regreso a la base.
 
@@ -115,7 +111,7 @@ Crossfield evaluó las características de vuelo del avión, la estabilidad y lo
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Legado e Impacto
+## Consecuencias e Impacto
 
 El X-15 sigue siendo el avión tripulado más rápido y alto jamás construido. Sus contribuciones a la aeronáutica y la exploración espacial son invaluables.
 
@@ -123,6 +119,11 @@ El X-15 sigue siendo el avión tripulado más rápido y alto jamás construido. 
 - **Precursor del Transbordador Espacial:** Los datos sobre aerodinámica hipersónica, materiales resistentes al calor (Inconel) y sistemas de control de reacción (RCS) fueron fundamentales para el diseño del Space Shuttle .
 - **Formación de astronautas:** Ocho pilotos del X-15 se convirtieron en astronautas, incluyendo a Neil Armstrong, el primer hombre en la Luna .
 - **Laboratorio volador:** El X-15 realizó experimentos científicos, incluyendo estudios de la atmósfera superior, observación astronómica y pruebas de materiales .
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Legado
+
 - **Preservación histórica:** El X-15-1 (56-6670) se exhibe en el **National Air and Space Museum** en Washington D.C. . El X-15A-2 está en el **Museo Nacional de la Fuerza Aérea de EE. UU.** en Dayton, Ohio .
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -151,7 +152,7 @@ El X-15 sigue siendo el avión tripulado más rápido y alto jamás construido. 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Timestamp de verificación:** 2026-09-09 14:00:03 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA (X-15 Chronology), This Day in Aviation, Wikipedia
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (8 de junio de 1959) como vuelo de planeo. Verificación de la altitud de lanzamiento (37.550 pies) y la duración (4 minutos 56,6 segundos). Aclaración de la diferencia entre el primer vuelo (planeo) y el primer vuelo propulsado (17 de septiembre de 1959). Corrección del orden cronológico en la sección de desarrollo.
 - **Nivel de confianza:** Alto

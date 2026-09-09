@@ -22,6 +22,22 @@ image: 1966-06-08-colision-en-aire-f104-xb70-vuelo-formacion.webp
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
+## Datos verificados del evento
+
+- **Fabricante:** North American Aviation
+- **Tripulación:** 2 (piloto y copiloto)
+- **Longitud:** 185 pies (56,39 m)
+- **Envergadura:** 105 pies (32,00 m)
+- **Altura:** 30 pies (9,14 m)
+- **Peso máximo al despegue:** 542.000 lb (246.000 kg)
+- **Motores:** 6 × General Electric YJ93-GE-3 turbojet con postcombustión, 28.000 lbf cada uno
+- **Velocidad máxima:** Mach 3,1 (2.056 mph / 3.310 km/h)
+- **Techo de servicio:** 77.350 pies (23.580 m)
+- **Alcance:** 4.288 millas (6.901 km)
+- **Construcción:** Acero inoxidable, titanio y paneles de nido de abeja para soportar temperaturas extremas
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Contexto Histórico
 
 El XB-70 Valkyrie fue concebido en la década de 1950 como un bombardero supersónico de gran altitud capaz de volar a Mach 3 para evadir las defensas soviéticas. Su diseño incorporaba el concepto de **"compression lift"** (sustentación por compresión), utilizando la onda de choque generada por el morro para aumentar la sustentación.
@@ -40,7 +56,7 @@ La sesión de fotos del 8 de junio de 1966 fue organizada a petición de un repr
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Desarrollo Cronológico del Programa XB-70 y el Accidente
+## Desarrollo Cronológico
 
 - **1955:** North American Aviation y Boeing reciben contratos para la fase 1 del desarrollo del B-70.
 - **1957:** North American descubre el concepto de "compression lift" y rediseña el avión.
@@ -61,17 +77,13 @@ La sesión de fotos del 8 de junio de 1966 fue organizada a petición de un repr
 - **Impacto:** El XB-70 se estrella en el desierto, 12 millas al norte de Barstow, California.
 - **2 millas de distancia:** Los restos del F-104 caen a 2 millas del lugar del impacto.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Los Protagonistas
+### Los Protagonistas
 
 - **Joseph «Joe» Walker (1921-1966):** Jefe de Pilotos de Pruebas de la NASA. Voló el X-15 en 25 ocasiones y fue el único piloto del programa que superó los 100 km de altitud, la línea de Kármán, en dos vuelos: el 90, el 19 de julio de 1963, y el <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/08/22/joseph-walker-x-15-vuelo-91.html" style="color: #315fea; text-decoration: none;">91, el 22 de agosto de 1963, cuando alcanzó 354.200 pies (107,96 km)</a>, la mayor altitud de todo el programa. Aquellos dos vuelos lo convirtieron en la primera persona en llegar al espacio dos veces. Murió a los 45 años en la colisión.
 - **Alvin "Al" White (1918-2006):** Piloto de pruebas de North American Aviation. Había realizado 42 de los 46 vuelos del AV-2 antes del accidente. Sobrevivió eyectándose en la cápsula de escape, sufriendo heridas graves (su brazo fue aplastado por la cápsula antes de la eyección).
 - **Carl Cross (1925-1966):** Mayor de la USAF. Realizaba su **primer vuelo** en el XB-70. No pudo eyectarse y falleció en el impacto.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## La Formación de Aeronaves
+### La Formación de Aeronaves
 
 La formación del 8 de junio de 1966 incluía cinco aeronaves propulsadas por motores General Electric, más un Learjet 23 contratado para la fotografía aérea:
 
@@ -84,25 +96,7 @@ La formación del 8 de junio de 1966 incluía cinco aeronaves propulsadas por mo
 
 Todos los aviones de combate en la formación, excepto el Learjet, estaban propulsados por motores fabricados por General Electric.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Especificaciones Técnicas del XB-70 Valkyrie
-
-- **Fabricante:** North American Aviation
-- **Tripulación:** 2 (piloto y copiloto)
-- **Longitud:** 185 pies (56,39 m)
-- **Envergadura:** 105 pies (32,00 m)
-- **Altura:** 30 pies (9,14 m)
-- **Peso máximo al despegue:** 542.000 lb (246.000 kg)
-- **Motores:** 6 × General Electric YJ93-GE-3 turbojet con postcombustión, 28.000 lbf cada uno
-- **Velocidad máxima:** Mach 3,1 (2.056 mph / 3.310 km/h)
-- **Techo de servicio:** 77.350 pies (23.580 m)
-- **Alcance:** 4.288 millas (6.901 km)
-- **Construcción:** Acero inoxidable, titanio y paneles de nido de abeja para soportar temperaturas extremas
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## La Causa del Accidente: Vórtices de Estela
+### La Causa del Accidente: Vórtices de Estela
 
 En 1966, el fenómeno de los **vórtices de estela (wake vortices)** era poco comprendido. Hoy se sabe que son "mini-tornados" generados por las puntas de las alas de aeronaves grandes, especialmente en condiciones de alta sustentación.
 
@@ -122,7 +116,7 @@ La investigación de la USAF concluyó que Walker, desde su posición, probablem
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Legado e Impacto
+## Legado
 
 El accidente del 8 de junio de 1966 es recordado como una de las tragedias más impactantes en la historia de la aviación experimental. Destruyó el segundo prototipo del XB-70, el bombardero más avanzado de su época, y se cobró la vida de dos pilotos excepcionales.
 
@@ -159,7 +153,7 @@ El accidente del 8 de junio de 1966 es recordado como una de las tragedias más 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:50:11 CST
+- **Timestamp de verificación:** 2026-09-09 14:00:03 CST
 - **Fuentes primarias/institucionales consultadas:** CLUI, Wikipedia, Aviation Safety Network, MiGFlug, Military.com
 - **Discrepancias resueltas:** Confirmación de la fecha del accidente (8 de junio de 1966). Verificación de la altitud de vuelo (30.000 pies) y la secuencia del accidente. Aclaración de la causa (vórtice de estela del XB-70). Identificación de los tres protagonistas y sus destinos.
 - **Nivel de confianza:** Alto
