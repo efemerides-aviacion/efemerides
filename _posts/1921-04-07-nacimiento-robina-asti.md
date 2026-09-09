@@ -59,6 +59,8 @@ Asti se incorporó a la aviación naval en los albores de la guerra del Pacífic
 ### Entorno cultural
 La transición de Asti en 1976 ocurrió en una época de cambios sociales, pero aún con un profundo estigma hacia las personas trans. Su valentía al demandar al gobierno federal sentó precedentes legales importantes. A los 98 años fundó Cloud Dancers Foundation para apoyar a personas trans mayores, un grupo frecuentemente olvidado. Su legado fue reconocido en 2020 en la lista Out100 de las personas LGBTQ+ más influyentes del año.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Desarrollo Cronológico
 
 - **7 de abril de 1921:** Nace en Manhattan, Nueva York.
@@ -78,6 +80,7 @@ La transición de Asti en 1976 ocurrió en una época de cambios sociales, pero 
 - **23 de julio de 2020 (99 años):** Imparte una lección de vuelo en el Aeropuerto Municipal de Riverside (California). Ese día recibe dos récords Guinness: piloto activa de mayor edad e instructora de vuelo en actividad de mayor edad.
 - **21 de marzo de 2021:** Fallece en San Diego, California, en la casa de su hija, a los 99 años.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
@@ -86,14 +89,13 @@ La transición de Asti en 1976 ocurrió en una época de cambios sociales, pero 
 - **Récords Guinness:** Sus dos récords mundiales (piloto activa e instructora de vuelo de mayor edad) inspiraron a personas mayores de todo el mundo a no renunciar a sus pasiones.
 - **Cloud Dancers Foundation:** La fundación que creó continúa su labor, apoyando a personas trans mayores que a menudo sufren aislamiento y discriminación.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
 Robina Asti es recordada como una pionera en dos frentes: en la aviación, como una de las pocas mujeres piloto de la Segunda Guerra Mundial y la instructora de vuelo más longeva del mundo; y en el activismo, como una defensora incansable de los derechos de las personas transgénero. Su vida demuestra que nunca es tarde para vivir con autenticidad ni para luchar por la justicia. En palabras de Asti: "No se trata del dinero, sino del acto de humanidad, que es absolutamente necesario aquí".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Discrepancias encontradas y resueltas
+### Discrepancias encontradas y resueltas
 
 - **Fecha de fallecimiento:** La Wikipedia en español y Find a Grave indican el 21 de marzo de 2021. La Wikipedia en inglés y en portugués indican el 12 de marzo de 2021. Se adopta el 21 de marzo de 2021 (fuente: The New York Times, citado en Wikipedia).
 - **Lugar de nacimiento:** Algunas fuentes (IMDb) mencionan Queens; otras (Wikipedia) mencionan Manhattan. Se adopta Manhattan (Nueva York), por ser la fuente más autorizada.
@@ -115,6 +117,8 @@ Robina Asti es recordada como una pionera en dos frentes: en la aviación, como 
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una discrepancia en la fecha de fallecimiento de Robina Asti. La Wikipedia en español y Find a Grave indican el 21 de marzo de 2021, mientras que la Wikipedia en inglés y portugués indican el 12 de marzo de 2021. Se ha adoptado la fecha del 21 de marzo de 2021, respaldada por el obituario de The New York Times y el registro de Find a Grave. El lugar exacto de nacimiento también varía entre Manhattan (mayoría de fuentes) y Queens (IMDb). Se adopta Manhattan.</p>
 </div>
@@ -122,7 +126,7 @@ Robina Asti es recordada como una pionera en dos frentes: en la aviación, como 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST
+- **Timestamp de verificación:** 2026-09-09 14:53:22 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN/PT), The New York Times, NPR, ABC7, Refinery29, CBC
 - **Discrepancias resueltas:** Fecha de fallecimiento (21 de marzo vs 12 de marzo) – se adopta 21 de marzo; lugar de nacimiento (Manhattan vs Queens) – se adopta Manhattan.
 - **Nivel de confianza:** Alto

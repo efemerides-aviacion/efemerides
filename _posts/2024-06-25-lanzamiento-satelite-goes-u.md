@@ -40,9 +40,7 @@ image: 2024-06-25-lanzamiento-satelite-goes-u.webp
 - **Nuevo instrumento:** Compact Coronagraph-1 (CCOR-1) para observación del clima espacial 
 - **Confirmación de despliegue:** 10:18 p.m. EDT (separación y despliegue de paneles solares) 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Especificaciones Técnicas (GOES-U)
+### Especificaciones Técnicas (GOES-U)
 
 - **Altura:** ~6.1 m (20 pies) 
 - **Peso en el lanzamiento:** ~4.990 kg (11.000 lb) 
@@ -91,9 +89,7 @@ El lanzamiento del GOES-U fue cubierto ampliamente por los medios de comunicaci�
 - **29 de enero de 2025:** La NASA entrega GOES-19 a la NOAA 
 - **7 de abril de 2025:** GOES-19 se convierte en el satélite operacional GOES East, reemplazando a GOES-16 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## El legado de la serie GOES-R
+### El legado de la serie GOES-R
 
 La serie GOES-R ha sido un salto cualitativo en la observación meteorológica. Los satélites de esta serie proporcionan:
 
@@ -101,11 +97,15 @@ La serie GOES-R ha sido un salto cualitativo en la observación meteorológica. 
 - **Mapeo de rayos en tiempo real**, con datos que mejoran los avisos de tormentas severas y tornados hasta en un 60% 
 - **Monitoreo del clima espacial**, protegiendo las redes eléctricas, los satélites y las comunicaciones de las tormentas solares 
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Consecuencias e Impacto
 
 El lanzamiento exitoso del GOES-U asegura la continuidad de los datos meteorológicos críticos para la NOAA hasta bien entrada la década de 2030. El satélite GOES-19, junto con el GOES-18 (GOES West), proporciona una cobertura completa del hemisferio occidental, desde la costa oeste de África hasta Nueva Zelanda.
 
 La incorporación del CCOR-1 permite a la NOAA emitir avisos de clima espacial con 1 a 4 días de antelación, protegiendo infraestructuras críticas frente a las tormentas solares.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 
@@ -138,7 +138,7 @@ Con el lanzamiento del GOES-U, la NOAA y la NASA han completado una flota de sat
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 14:53:22 CST  
 - **Fuentes primarias/institucionales consultadas:** NOAA, NASA, EFE
 - **Discrepancias resueltas:** Algunas fuentes citan la hora de despliegue a las 10:18 p.m. EDT, otras a las 9:56 p.m. EDT. Se ha optado por la hora de confirmación del despliegue de paneles solares (10:18 p.m.) como la más documentada.
 - **Nivel de confianza:** Alto

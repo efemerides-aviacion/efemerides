@@ -54,6 +54,8 @@ El desarrollo del GPS requirió décadas de inversión tecnológica. Los satéli
 
 La década de 1990 fue testigo de la transición de tecnologías militares a aplicaciones civiles. El GPS se convirtió rápidamente en una herramienta indispensable para la navegación marítima (reemplazando a los sistemas de radiofaros tradicionales), la aviación general y comercial, la topografía, la agricultura de precisión y, más tarde, para los teléfonos móviles y aplicaciones de consumo. El General Thomas S. Moorman Jr., ex Vicejefe de Estado Mayor de la Fuerza Aérea, declaró en 1995: "Este es un hito importante. GPS se ha vuelto integral para nuestros combatientes y se está convirtiendo rápidamente en una verdadera utilidad para la comunidad civil".
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Desarrollo Cronológico
 
 - **1978:** Lanzamiento del primer satélite GPS (NAVSTAR-1).
@@ -67,9 +69,7 @@ La década de 1990 fue testigo de la transición de tecnologías militares a apl
 - **2010:** Se completa la modernización con satélites Block IIF.
 - **2018:** Lanzamiento del primer satélite GPS III, con mayor precisión y resistencia a interferencias.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## La declaración de capacidad operativa plena: significado
+### La declaración de capacidad operativa plena: significado
 
 La declaración de capacidad operativa plena (Full Operational Capability o FOC) del GPS el 27 de abril de 1995 fue el resultado de años de despliegue de satélites y pruebas de rendimiento. Este hito técnico confirmó que la constelación de 24 satélites Block II y IIA cumplía con todos los requisitos establecidos por el Departamento de Defensa de EE. UU., proporcionando cobertura global continua y fiable tanto para usuarios militares como civiles.
 
@@ -85,9 +85,7 @@ Existe una distinción importante entre la fecha en que el sistema alcanzó téc
 
 Antes de la FOC, el 8 de diciembre de 1993, el sistema GPS había alcanzado la Capacidad Operativa Inicial (IOC). En esa fecha, 24 satélites (incluyendo los primeros satélites Block I y Block II/IIA) estaban operando en sus órbitas asignadas, disponibles para uso de navegación y proporcionando el Servicio de Posicionamiento Estándar. La IOC representó el primer momento en que el sistema pudo ser utilizado operativamente, aunque aún no cumplía con todos los requisitos de rendimiento para la declaración de FOC.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Impacto en la aviación
+### Impacto en la aviación
 
 El GPS con capacidad operativa plena transformó radicalmente la navegación aérea, tanto comercial como general.
 
@@ -158,7 +156,7 @@ Con más de 30 satélites operativos en la actualidad (incluyendo los modernos G
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 14:53:22 CST  
 - **Fuentes primarias/institucionales consultadas:** GPS World, USCG Navigation Center, Royal Institute of Navigation, US Navy (.mil), DVIDS (.mil)
 - **Discrepancias resueltas:** Las fuentes coinciden en que la declaración técnica de FOC ocurrió el 27 de abril de 1995, con el anuncio público formal el 17 de julio de 1995. La capacidad operativa inicial (IOC) fue declarada el 8 de diciembre de 1993. El General Thomas S. Moorman Jr. fue quien declaró el hito en 1995.
 - **Nivel de confianza:** Alto

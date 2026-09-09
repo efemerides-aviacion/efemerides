@@ -59,6 +59,8 @@ El Boeing 737-800 era una de las aeronaves comerciales más exitosas del mundo, 
 
 El P-8A es parte de una tendencia más amplia en la aviación militar: el uso de plataformas comerciales "off-the-shelf" para misiones militares, en lugar de diseños puramente militares (como el P-3 Orion). Ejemplos como el KC-135 (basado en el Boeing 707) y el KC-46 (basado en el 767) demostraron las ventajas de este enfoque. Sin embargo, algunos puristas lamentaron el reemplazo del Orion, un avión clásico con diseño aerodinámico elegante y una larga historia operativa.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **2000:** La US Navy inicia estudios para reemplazar el P-3 Orion.
@@ -71,9 +73,7 @@ El P-8A es parte de una tendencia más amplia en la aviación militar: el uso de
 - **2013:** Primer despliegue operativo del P-8A.
 - **2020:** La Armada de EE. UU. completa la transición, retirando los últimos P-3C Orion.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El primer vuelo: el nacimiento del Poseidón
+### El primer vuelo: el nacimiento del Poseidón
 
 El 25 de abril de 2009 fue un día histórico para Boeing y para la aviación naval estadounidense. En la fábrica de Renton, Washington, donde se ensamblan los Boeing 737, el primer prototipo del P-8A Poseidon estaba listo para su bautismo de vuelo.
 
@@ -85,9 +85,7 @@ El vuelo inaugural no fue una entrega operativa a la US Navy, sino una fase inic
 
 Según el comunicado de prensa de Boeing del 27 de abril de 2009, el vuelo fue "completado con éxito", y el avión "demostró excelentes características de manejo y rendimiento".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Capacidades del P-8A Poseidon
+### Capacidades del P-8A Poseidon
 
 El P-8A Poseidon es mucho más que un 737 militarizado. Sus capacidades lo convierten en el avión de patrulla marítima más avanzado del mundo.
 
@@ -159,7 +157,7 @@ El primer prototipo T-1 continúa en servicio como avión de pruebas y desarroll
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 14:53:22 CST  
 - **Fuentes primarias/institucionales consultadas:** Boeing MediaRoom, Wikipedia (ES/EN), Hispaviación, NAVAIR (.mil)
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (25 de abril de 2009), la duración (3 horas 31 minutos) y la altitud (25.000 pies). No se ha podido confirmar la identidad de los pilotos de pruebas que realizaron el vuelo inaugural.
 - **Nivel de confianza:** Alto

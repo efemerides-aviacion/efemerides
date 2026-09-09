@@ -59,6 +59,8 @@ La FAA enfrentaba una asimetría tecnológica significativa. Los Mirage IIIEA y 
 
 Los cascos azules del escudo de la FAA se convirtieron en un emblema del valor argentino. Aquel 1 de mayo de 1982, la Fuerza Aérea forjó su identidad como institución probada en combate. Las consignas "Las Malvinas son argentinas" y "Que retumbe en cada garganta" se popularizaron, y el legado de los 55 caídos de la FAA se convirtió en un símbolo permanente del coraje nacional.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **30 de abril de 1982:** La flota británica se concentra a 400 km al noreste de Puerto Argentino; el Vicealmirante Woodward ordena iniciar el ataque
@@ -71,9 +73,7 @@ Los cascos azules del escudo de la FAA se convirtieron en un emblema del valor a
 - **Tarde noche 1 de mayo:** Canberra B-110 es derribado por Sea Harriers; tripulación (Teniente De Ibañez y Primer Teniente González) no puede ser rescatada
 - **Cierre del día:** Saldo de 76 salidas, 52 de combate, 14 caídos de la FAA
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La Operación Black Buck: el primer golpe británico
+### La Operación Black Buck: el primer golpe británico
 
 El 1 de mayo de 1982 a las 04:40, el bombardero Vulcan XM607 de la Royal Air Force, al mando del Teniente Martin Withers, inició su corrida final sobre la Base Aérea Militar (BAM) Malvinas en Puerto Argentino. La aeronave había recorrido 14.400 km (ida y vuelta) desde la isla Ascensión, asistida por once aviones Handley Page Victor K-2 de reabastecimiento en vuelo de los Escuadrones RAF 55 y 57.
 
@@ -85,17 +85,13 @@ Como consecuencia del ataque, los soldados clase 63 Guillermo Ubaldo García (I 
 
 Finalizado el ataque, los ingenieros del Escuadrón de Construcciones de la FAA trabajaron intensamente y lograron reparar la pista. Como medida de contra inteligencia, simularon varios cráteres mediante "manchas" realizadas con cemento fraguado y barro, engañando a la inteligencia británica que difundió noticias sobre la neutralización del aeródromo. En realidad, la pista se encontraba operativa en un cien por ciento.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El ataque a la BAM Cóndor
+### El ataque a la BAM Cóndor
 
 Mientras los artilleros antiaéreos argentinos se preparaban en la BAM Cóndor (Puerto Darwin), los Sea Harriers lanzaron un ataque sorpresivo contra la base. En ese momento, el Teniente Daniel Antonio Jukic, asistido por sus armeros y mecánicos, intentaba poner en marcha el avión Pucará A-527.
 
 Una bomba lanzada por un Sea Harrier impactó en el Pucará, provocando la muerte instantánea del Teniente Daniel Jukic y de los cabos principales Juan Rodríguez y Mario Duarte, y los cabos primeros José Maldonado, Agustín Montaño, Andrés Brashich, Miguel Carrizo y José Luis Peralta.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Los combates aéreos del 1 de mayo
+### Los combates aéreos del 1 de mayo
 
 El 1 de mayo de 1982 se produjeron los primeros combates aéreos entre la Fuerza Aérea Argentina y la Royal Navy. Pilotos de Mirage IIIEA y Dagger se enfrentaron a los Sea Harriers británicos en condiciones de asimetría tecnológica, marcando el inicio de la guerra aérea en el Atlántico Sur.
 
@@ -115,35 +111,25 @@ El I-015, con escaso combustible, intentó aterrizar en la BAM Malvinas, que se 
 
 Desde Río Grande despegó un M-5 Dagger con indicativo RUBIO (Primer Teniente José Leónidas Ardiles). Vectoreado por el radar de Malvinas, enfrentó a dos aviones enemigos. El piloto argentino fue el primero en ganar una posición ventajosa con su Dagger C-433 y disparó su misil Shafrir, que fue esquivado por el avión inglés. El otro Sea Harrier alcanzó al Dagger con un misil Sidewinder. El Primer Teniente Ardiles no logró eyectarse y falleció.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Los ataques navales de la FAA
+### Los ataques navales de la FAA
 
 Entre las 16:20 y las 17:50, llegaron sobre Malvinas 28 aviones agrupados en doce secciones/escuadrillas. Todas las aeronaves operaron al límite de su radio de acción y bajo malas condiciones meteorológicas, pero todos los aviones de combate salieron y regresaron sin novedades.
 
 La escuadrilla TORNO, al mando del Capitán Norberto Dimeglio (C-432), junto al Teniente Gustavo Aguirre Fajet (C-412) y el Primer Teniente César Román (C-407), fue la primera en localizar, atacar y averiar buques de la Task Force. Como resultado de los ataques, resultaron dañados el destructor HMS Glamorgan y las fragatas HMS Arrow y HMS Alacrity.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La artillería antiaérea argentina
+### La artillería antiaérea argentina
 
 Desde el portaaviones HMS Hermes partieron tres escuadrillas de Sea Harrier del Escuadrón Naval 800, que fueron interceptadas recibiendo un contraataque por parte de la artillería antiaérea argentina. La AAA logró derribar un Sea Harrier y dañar otro.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La evacuación aeromédica
+### La evacuación aeromédica
 
 Luego del ataque a la BAM Cóndor, el helicóptero CH-47 matrícula H-91 evacuó hacia Puerto Argentino a trece heridos que requerían tratamiento urgente. Durante el traslado falleció el Cabo Primero Miguel Ángel Carrizo, y luego, en el Hospital Conjunto, el Cabo Primero Andrés Brashich.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La primera misión de reabastecimiento
+### La primera misión de reabastecimiento
 
 Despegó de Río Gallegos el KC-130 Hércules matrícula TC-70 con indicativo PERRO. Esta fue la primera misión de reabastecimiento del conflicto, en la que asistió a cuatro Douglas A-4B Skyhawk de la escuadrilla TOPO.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La interceptación de los Canberra
+### La interceptación de los Canberra
 
 Desde Trelew partió la escuadrilla RIFLE, compuesta por tres bombarderos BMK Canberra (MK-62) para atacar los buques que bombardeaban las posiciones en Puerto Argentino. Una patrulla de Sea Harriers los interceptó y derribó al B-110 con misiles Sidewinder. Su tripulación, el Teniente Eduardo Jorge Raúl de Ibáñez y el Primer Teniente Mario Hipólito González, logró eyectarse, pero no pudo ser rescatada, falleciendo en aguas del Atlántico Sur.
 
@@ -194,7 +180,7 @@ El aeropuerto de San Julián, desde donde partieron muchas de aquellas misiones,
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 14:53:22 CST  
 - **Fuentes primarias/institucionales consultadas:** Noticias En Vuelo (FAA), Infobae, Gaceta Aeronautica, Fundación Malvinas, TN, Obispado Castrense
 - **Discrepancias resueltas:** Las fuentes oficiales de la FAA coinciden en la fecha (1 de mayo de 1982), el horario (04:40), las bajas (14 caídos) y las operaciones (76 salidas). Se ha corregido la cifra de aeronaves perdidas de 7 a 5 (suma correcta: 2 Mirage IIIEA, 1 Dagger, 1 Canberra, 1 Pucará). Se ha aclarado en nota aclaratoria la diferencia entre las secciones TORO y TORNO.
 - **Nivel de confianza:** Alto

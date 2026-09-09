@@ -57,6 +57,8 @@ El RQ-4 Global Hawk era una aeronave revolucionaria para su época. Con una enve
 
 El nombre "Southern Cross II" era un homenaje al Southern Cross, el avión pilotado por el aviador australiano Charles Kingsford Smith, que en 1928 realizó la primera travesía aérea del Pacífico (desde Oakland, California, hasta Brisbane, Australia). Este guiño histórico conectaba la hazaña del Global Hawk con la tradición de los grandes pioneros de la aviación.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **1995:** La Defense Advanced Research Projects Agency (DARPA) y la USAF lanzan el programa ACTD del Global Hawk.
@@ -67,9 +69,7 @@ El nombre "Southern Cross II" era un homenaje al Southern Cross, el avión pilot
 - **23 de abril de 2001 (fecha de certificación):** La FAI ratifica el récord de distancia absoluta sin escala para UAV.
 - **8 de junio de 2001:** El mismo Global Hawk realiza el vuelo de regreso desde Adelaida a Edwards AFB en 22 horas 18 minutos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El vuelo récord: "Southern Cross II"
+### El vuelo récord: "Southern Cross II"
 
 El 22 de abril de 2001, a las 4:48 a.m. hora del Pacífico, un RQ-4 Global Hawk despegó de la pista de Edwards Air Force Base, California, con destino a RAAF Base Edinburgh en Adelaida, Australia.
 
@@ -89,17 +89,13 @@ El vuelo transcurrió a una altitud de crucero de 65.000 pies (19.812 m), más d
 
 El 23 de abril de 2001, a las 8:41 p.m. hora estándar de Australia Central, el Global Hawk tocó tierra en la Base de la Real Fuerza Aérea Australiana en Edimburgo, Adelaida. Había recorrido 13.219,86 kilómetros en 23 horas y 23 minutos, estableciendo un nuevo récord mundial de distancia para un UAV.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La certificación del récord
+### La certificación del récord
 
 La Fédération Aéronautique Internationale (FAI), organismo mundial que ratifica los récords de aviación, certificó la hazaña en la categoría **U (Unmanned Aerial Vehicles)** con el número de identificación 18693. El récord fue ratificado para la clase **U-2 (Helicóptero)**, categoría de peso **11 (10.000 kg a menos de 50.000 kg)**, tipo de récord **"Distancia en línea recta"**.
 
 El récord se mantuvo vigente durante varios años, hasta que fue superado por otros UAV con capacidades de resistencia aún mayores, aunque el Global Hawk sigue siendo el primer UAV en cruzar el Pacífico sin escalas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La evaluación en Australia
+### La evaluación en Australia
 
 El vuelo no fue solo una demostración tecnológica. Formaba parte de un programa de evaluación de seis semanas del Global Hawk por parte de la Australian Defence Force (ADF). Durante su estancia en Australia, el Global Hawk realizó 11 misiones de vigilancia sobre territorio australiano, volando un total de 1,54 millones de kilómetros. La ADF evaluó su capacidad para realizar vigilancia marítima y costera, detectar el movimiento de buques en las vastas aproximaciones marítimas del norte y este de Australia.
 
@@ -153,7 +149,7 @@ El récord de distancia sin escala para un UAV certificado por la FAI en 2001 si
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 14:53:22 CST  
 - **Fuentes primarias/institucionales consultadas:** FAI (Fédération Aéronautique Internationale) - registro 18693, Guinness World Records, Wikipedia (EN/ES)
 - **Discrepancias resueltas:** La discrepancia sobre la fecha (23 vs 24 de abril) se ha resuelto priorizando la certificación oficial de la FAI y Guinness (23 de abril de 2001). El despegue fue el 22 de abril, el aterrizaje el 23 de abril. La duración del vuelo (23 horas 23 minutos) es consistente en todas las fuentes.
 - **Nivel de confianza:** Alto

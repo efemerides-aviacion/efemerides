@@ -60,6 +60,8 @@ El Boeing 727-46 era un trimotor a reacción de corto y medio alcance, ampliamen
 
 La cultura de la aviación en 1980 aún no había incorporado plenamente los conceptos de Crew Resource Management (CRM), que se popularizaron después de accidentes como el de Tenerife (1977) y este mismo. La jerarquía en cabina era rígida, y los copilotos a menudo dudaban en corregir abiertamente a los capitanes. En la cabina del vuelo 1008, se escucharon comentarios como "Bloody strange hold, isn't it?" (Un maldito patrón de espera extraño, ¿no?), que reflejaban la perplejidad de la tripulación ante las instrucciones del controlador, pero sin una intervención decisiva.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Desarrollo Cronológico
 
 - **09:22 UTC:** El vuelo 1008 despega del aeropuerto de Mánchester con destino a Tenerife Norte.
@@ -71,9 +73,7 @@ La cultura de la aviación en 1980 aún no había incorporado plenamente los con
 - **Activación del GPWS:** El sistema de advertencia de proximidad al terreno se activa. La tripulación inicia un ascenso de emergencia y un viraje pronunciado a la derecha.
 - **13:21:15 UTC:** La aeronave impacta contra la ladera del monte La Esperanza a una altitud de 5.450 pies (1.662 metros). Todos los ocupantes fallecen. La aeronave se desintegra, dejando un rastro de escombros de 350 metros de longitud.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## El accidente: factores desencadenantes
+### El accidente: factores desencadenantes
 
 El vuelo 1008 de Dan Air es un caso paradigmático de cómo una concatenación de pequeños errores y deficiencias —lo que en aviación se denomina el "modelo del queso suizo"— puede conducir a una tragedia.
 
@@ -120,9 +120,7 @@ La aeronave sobrevoló brevemente un valle, lo que desactivó temporalmente la a
 
 Fuente: Wikipedia
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Investigación y causas
+### Investigación y causas
 
 La investigación estuvo a cargo de la Comisión de Investigación española, con la participación activa de la Accidents Investigation Branch (AIB) británica, siguiendo los protocolos internacionales establecidos.
 
@@ -206,7 +204,7 @@ El vuelo 1008 de Dan Air es un recordatorio de que la seguridad aérea es un esf
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST
+- **Timestamp de verificación:** 2026-09-09 14:53:22 CST
 - **Fuentes primarias/institucionales consultadas:** Aviation Safety Network, Wikipedia (EN/ES), UK Parliament Hansard, EL PAÍS, BAAA-ACRO
 - **Discrepancias resueltas:** Las fuentes coinciden en los datos principales: fecha 25 de abril de 1980, lugar Monte La Esperanza, 146 víctimas fatales. Existen discrepancias en las causas: el informe español enfatizó el error del capitán, mientras que el addendum británico señaló la ambigüedad de las instrucciones del ATC. El SEPLA añadió críticas adicionales sobre la selección de la pista y factores meteorológicos.
 - **Nivel de confianza:** Alto

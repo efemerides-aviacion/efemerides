@@ -63,6 +63,8 @@ El Boeing 737 es uno de los aviones comerciales más exitosos de la historia. Su
 
 La cultura de mantenimiento de Aloha Airlines había sido criticada antes del accidente. La falta de recursos, la presión por mantener los aviones en servicio y la ausencia de una inspección exhaustiva de las áreas ocultas del fuselaje contribuyeron al desastre. La investigación de la NTSB destacó la "falta de conciencia" sobre la gravedad de la corrosión y la fatiga en aeronaves de alta utilización.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Desarrollo Cronológico
 
 - **1969:** El Boeing 737-297 N73711 es entregado a Aloha Airlines. Recibe el nombre de "Queen Liliuokalani".
@@ -73,9 +75,7 @@ La cultura de mantenimiento de Aloha Airlines había sido criticada antes del ac
 - **13:53:** A las 5 minutos de la descompresión, Schornstheimer contacta con el control de tráfico aéreo de Kahului, en la isla de Maui, y solicita un aterrizaje de emergencia.
 - **14:00:** Schornstheimer aterriza el avión en el aeropuerto de Kahului. El tren de aterrizaje principal se despliega, pero no se puede confirmar que esté asegurado. El aterrizaje es fuerte, y la aeronave se detiene en la pista. La única fallecida es la sobrecargo Clarabelle Lansing, quien fue expulsada de la aeronave durante la descompresión. El resto de los ocupantes (94 personas) sobrevive, con 65 heridos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Sucesos durante el vuelo
+### Sucesos durante el vuelo
 
 El desastre del vuelo 243 es un estudio de caso sobre fallo estructural, factores humanos y gestión de emergencias.
 
@@ -91,9 +91,7 @@ La pérdida de la sección del fuselaje fue violenta y repentina. La rápida des
 
 El Capitán Robert Schornstheimer y la primera oficial Madeleine Tompkins actuaron con una calma y profesionalismo excepcionales. A pesar de la falta de comunicación entre la cabina y la cabina de pasajeros, y de la exposición al viento huracanado, Schornstheimer inició una maniobra de descenso. La estructura del avión, aunque gravemente dañada, se mantuvo unida. Los controles de vuelo seguían funcionando, pero la aeronave se encontraba en una configuración aerodinámica desconocida. Con un conocimiento profundo del avión y una habilidad innata, logró estabilizar el Boeing 737 y dirigirse a la pista de aterrizaje más cercana. Su aterrizaje, aunque fuerte, evitó una catástrofe mayor.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Investigación y causas
+### Investigación y causas
 
 La Junta Nacional de Seguridad en el Transporte (NTSB) llevó a cabo una investigación exhaustiva. Tras un análisis detallado, la NTSB emitió su informe final (AAR-89-03) el 14 de junio de 1989.
 
@@ -163,7 +161,7 @@ El avión siniestrado, N73711, fue reparado y devuelto al servicio por Aloha Air
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 14:53:22 CST  
 - **Fuentes primarias/institucionales consultadas:** NTSB (National Transportation Safety Board), Wikipedia (ES), SKYbrary, This Day in Aviation
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (28 de abril de 1988), la aeronave (Boeing 737-297 N73711) y la mayoría de los datos técnicos. El número exacto de ciclos de vuelo (89.680) está documentado en los archivos de la NTSB. La víctima mortal fue la auxiliar de vuelo Clarabelle Lansing. El capitán (Robert Schornstheimer) y la primera oficial (Madeleine Tompkins) sobrevivieron y continuaron sus carreras.
 - **Nivel de confianza:** Alto

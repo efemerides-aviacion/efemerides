@@ -54,6 +54,8 @@ La aviación a reacción había revolucionado el diseño de aeronaves militares.
 
 La figura del piloto de pruebas se convirtió en un arquetipo del héroe moderno. Alvin M. "Tex" Johnston, conocido por su personalidad audaz y sus habilidades excepcionales, personificaba el espíritu de innovación y riesgo que caracterizaba a la industria aeronáutica de la posguerra.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **1945:** La Fuerza Aérea de EE.UU. emite los primeros requisitos para un bombardero intercontinental a reacción.
@@ -68,9 +70,7 @@ La figura del piloto de pruebas se convirtió en un arquetipo del héroe moderno
 - **1954:** Entra en producción el primer modelo operativo, el B-52A.
 - **1955:** El B-52B entra en servicio con el Comando Aéreo Estratégico (SAC).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El primer vuelo: detalles técnicos y humanos
+### El primer vuelo: detalles técnicos y humanos
 
 El 15 de abril de 1952 no fue un día cualquiera en el Boeing Field. El enorme prototipo YB-52, con sus ocho motores y sus alas en flecha, representaba la apuesta más audaz de la compañía por conquistar los cielos estratosféricos. Detrás de la hazaña estaban un avión revolucionario y un piloto legendario, cuya combinación marcaría el inicio de una era.
 
@@ -134,6 +134,8 @@ El primer vuelo del YB-52 el 15 de abril de 1952 no fue solo el nacimiento de un
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Aunque el XB-52 fue el primer prototipo diseñado, el YB-52 (matrícula 49-231) fue el primero en volar debido a daños en el sistema hidráulico del XB-52 durante pruebas en tierra en noviembre de 1951. El XB-52 realizó su primer vuelo el 2 de octubre de 1952. Por lo tanto, la fecha del 15 de abril de 1952 corresponde al primer vuelo del programa B-52, pero no del primer prototipo construido.</p>
 </div>
@@ -142,7 +144,7 @@ El primer vuelo del YB-52 el 15 de abril de 1952 no fue solo el nacimiento de un
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 14:53:22 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, This Day in Aviation, Boeing Media Room, HistoryLink, PlaneTags, Museum of Flight, Air Force Historical Foundation
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre el XB-52 y el YB-52, y por qué el segundo voló primero. Se ha incorporado la matrícula (49-231) y la hora exacta del despegue (11:08) según la fuente de This Day in Aviation. No se encontraron datos confirmados sobre altitud y velocidad máxima alcanzadas en el primer vuelo, por lo que se omitieron o marcaron como no confirmados.
 - **Nivel de confianza:** Alto
