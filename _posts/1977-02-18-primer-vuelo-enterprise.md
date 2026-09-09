@@ -69,8 +69,8 @@ Enterprise nunca voló al espacio, pero fue esencial para el éxito del programa
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** NASA, This Day in Aviation, Intrepid Museum  
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Fuentes primarias/institucionales consultadas:** NASA, This Day in Aviation, Intrepid Museum  
 - **Discrepancias resueltas:** Diferencia entre fecha de presentación (1976) y primer vuelo cautivo (1977).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

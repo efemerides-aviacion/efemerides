@@ -72,8 +72,8 @@ El vuelo es reconocido por Guinness World Records como el primer transporte ofic
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** National Postal Museum, PIB India, Guinness World Records  
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Fuentes primarias/institucionales consultadas:** National Postal Museum, PIB India, Guinness World Records  
 - **Discrepancias resueltas:** Variaciones en duración del vuelo (13 minutos confirmado).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

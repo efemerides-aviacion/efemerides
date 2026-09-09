@@ -133,8 +133,8 @@ Hoy, el XB-38 es una nota al pie en la extensa historia del B-17 Flying Fortress
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (inglés), Aerial Visuals (Airframe Dossier), Warbirds Resource Group
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (inglés), Aerial Visuals (Airframe Dossier), Warbirds Resource Group
 - **Discrepancias resueltas:** La mayoría de las fuentes indican que la tripulación sobrevivió al saltar, pero Aerial Visuals confirma un fallecido y un herido grave. Esta información se ha incluido con la debida nota aclaratoria. Las cifras de rendimiento (velocidad máxima, techo) han sido verificadas en fuentes técnicas. Se ha eliminado el enlace no funcional del archivo de Wayback.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

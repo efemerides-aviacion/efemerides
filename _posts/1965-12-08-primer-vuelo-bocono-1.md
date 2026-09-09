@@ -67,7 +67,7 @@ El Boconó I es considerado el primer avión diseñado y construido en Venezuela
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias consultadas:** Documentales históricos (YouTube, Dailymotion), archivos de aviación experimental  
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Fuentes primarias/institucionales consultadas:** Documentales históricos (YouTube, Dailymotion), archivos de aviación experimental  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

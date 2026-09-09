@@ -101,8 +101,8 @@ La cápsula Vostok 1 se exhibe en el Museo Estatal de Historia del Cosmos K. E. 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 11:07:10 CST
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), NASA, ESA, Britannica
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), NASA, ESA, Britannica
 - **Discrepancias resueltas:** Algunas fuentes mencionan una altitud máxima de 327 km; otras de 301 km. Se ha utilizado la cifra de 327 km, que es la más citada en las fuentes verificadas. El tiempo de vuelo es consistentemente 108 minutos en todas las fuentes.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”

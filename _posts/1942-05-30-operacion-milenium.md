@@ -154,8 +154,8 @@ La Operación Millennium (Milenio) es considerada un punto de inflexión en la g
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/FR/EN/IT), GEHM, Spartacus Educational
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/FR/EN/IT), GEHM, Spartacus Educational
 - **Discrepancias resueltas:** Confirmación de la fecha (30/31 de mayo de 1942), del número de aeronaves (1.047), de las víctimas (469-486) y de las pérdidas de la RAF (43). Corrección de la inconsistencia en las cifras de aeronaves del Mando Costero.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

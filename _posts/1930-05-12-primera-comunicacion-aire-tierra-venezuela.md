@@ -154,8 +154,8 @@ La Escuela de Radiotelegrafía Militar evolucionó hasta convertirse en la actua
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Documento fuente suministrado por Enrique Pomares, Fav Club Venezuela, Wikipedia (Enciclopedia El Mirador), Saber UCV
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Fuentes primarias/institucionales consultadas:** Documento fuente suministrado por Enrique Pomares, Fav Club Venezuela, Wikipedia (Enciclopedia El Mirador), Saber UCV
 - **Discrepancias resueltas:** La información proporcionada en el documento adjunto es consistente con las fuentes complementarias. Los detalles biográficos de Guillermo Pacanins fueron ampliados con fuentes externas. La fecha de la primera comunicación (12 de mayo de 1930) es consistente en todas las fuentes.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

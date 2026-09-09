@@ -179,8 +179,8 @@ El 18 de mayo de 1953, cuando su F-86 Sabre rompió la barrera del sonido sobre 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
-- **Fuentes primarias consultadas:** FAI (worldairsports.aero), National Museum of the USAF (.mil), Paul Garber Shrine, National WASP WWII Museum, Florida Department of State (.gov), Military Times, Guinness World Records
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST
+- **Fuentes primarias/institucionales consultadas:** FAI (worldairsports.aero), National Museum of the USAF (.mil), Paul Garber Shrine, National WASP WWII Museum, Florida Department of State (.gov), Military Times, Guinness World Records
 - **Discrepancias resueltas:** La fecha de nacimiento (11 de mayo de 1906) es consistente en todas las fuentes. La fecha del récord de velocidad y ruptura de la barrera del sonido es el 18 de mayo de 1953. La velocidad alcanzada varía ligeramente entre fuentes (652,5 mph / 1.050,15 km/h en el récord de 100 km; 649 mph / 1.044 km/h en la velocidad máxima en picado). Se ha incluido la información del programa WASP y las condecoraciones.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

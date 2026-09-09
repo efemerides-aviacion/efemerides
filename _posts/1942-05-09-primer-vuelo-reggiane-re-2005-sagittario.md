@@ -192,8 +192,8 @@ Hoy, ningún Re.2005 original sobrevive en condiciones de vuelo, aunque hay algu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES), Aviations Militaires, Tuttavia, War Thunder, Military Wikireading
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Aviations Militaires, Tuttavia, War Thunder, Military Wikireading
 - **Discrepancias resueltas:** Las fuentes coinciden mayoritariamente en la fecha del primer vuelo (9 de mayo de 1942). Existe una pequeña discrepancia sobre un posible vuelo el 7 de mayo, pero el vuelo oficial fue el 9 de mayo. Los datos de producción se recogen generalmente como 48 unidades. La designación correcta del prototipo fue MM.494. El piloto del primer vuelo fue Tullio de Prato.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

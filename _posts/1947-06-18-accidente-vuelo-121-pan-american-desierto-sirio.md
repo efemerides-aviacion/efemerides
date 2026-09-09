@@ -152,8 +152,8 @@ El "Clipper Eclipse" quedó destruido en el desierto sirio. El accidente es reco
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Aviation Safety Network (Flight Safety Foundation), Civil Aeronautics Board (CAB) – Informe final oficial, Bureau of Aircraft Accidents Archives (B3A), Clipper Connection, Medium.
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Aviation Safety Network (Flight Safety Foundation), Civil Aeronautics Board (CAB) – Informe final oficial, Bureau of Aircraft Accidents Archives (B3A), Clipper Connection, Medium.
 - **Discrepancias resueltas:** Se ha verificado y unificado la información sobre víctimas (15 fallecidos). Se ha confirmado la causa probable del accidente según el informe oficial de la CAB. Se ha detallado el papel de Roddenberry y el significado del término "deadheading". Se ha corregido el título y el excerpt para eliminar la palabra "heroica" aplicada al accidente. Se ha corregido la fecha al 18 de junio de 1947 según tu solicitud. Se ha reemplazado el enlace bloqueado de Aviation Safety Network por la URL alternativa funcional.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

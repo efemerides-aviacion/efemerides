@@ -194,8 +194,8 @@ Umberto Nobile falleció en Roma el 30 de julio de 1978 a la edad de 93 años. R
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), Treccani, Clarín, Público
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Treccani, Clarín, Público
 - **Discrepancias resueltas:** Las fuentes confirman que el Norge sobrevoló el Polo Norte el 12 de mayo de 1926 a la 01:25 GMT. La controversia sobre la reclamación de Byrd está documentada en las fuentes modernas. La tripulación total varió durante el viaje (14, 15 o 16 personas según las etapas), pero se sabe que 15-16 hombres estuvieron involucrados en el tramo final. La aeronave tenía 106 m de largo con un volumen de 19.000 m³ de hidrógeno.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

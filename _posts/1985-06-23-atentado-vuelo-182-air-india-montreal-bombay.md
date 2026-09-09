@@ -169,8 +169,8 @@ El 23 de junio de 2025, en el 40 aniversario del atentado, el ministro de Asunto
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, BBC News, EBSCO Research Starters, Wikiwand, CBC News
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, BBC News, EBSCO Research Starters, Wikiwand, CBC News
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (23 de junio de 1985), el número de víctimas (329) y la causa (bomba en el compartimiento de carga). El número de ciudadanos canadienses varía entre 280 y 288 según la fuente; la cifra más comúnmente citada es 280, que se ha utilizado.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

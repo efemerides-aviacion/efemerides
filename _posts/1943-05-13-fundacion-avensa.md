@@ -132,8 +132,8 @@ Su legado perdura en la memoria de quienes volaron en sus modernos aviones y en 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), El Espectador de Caracas, Otilca Radio, y el documento suministrado por Enrique Pomares.
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), El Espectador de Caracas, Otilca Radio, y el documento suministrado por Enrique Pomares.
 - **Discrepancias resueltas:** Se ha confirmado que el apoyo inicial también incluyó a Mexicana de Aviación, tal como se menciona en el documento de Enrique Pomares y en fuentes académicas.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

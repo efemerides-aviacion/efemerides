@@ -74,8 +74,8 @@ La cápsula Friendship 7 se exhibe en el Smithsonian National Air and Space Muse
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** NASA, Smithsonian NASM, Space Center Houston  
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Fuentes primarias/institucionales consultadas:** NASA, Smithsonian NASM, Space Center Houston  
 - **Discrepancias resueltas:** Confirmación de duración exacta del vuelo y detalles de incidentes técnicos.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

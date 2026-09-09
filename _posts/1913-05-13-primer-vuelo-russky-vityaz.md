@@ -176,8 +176,8 @@ Hoy, el legado del Russky Vityaz vive en todos los grandes aviones de pasajeros 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), Encyclopaedia Britannica, Sandglass Patrol, Aviastar.org
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Encyclopaedia Britannica, Sandglass Patrol, Aviastar.org
 - **Discrepancias resueltas:** Existe una discrepancia en la fecha del primer vuelo debido a los calendarios juliano y gregoriano (13 de mayo vs. 30 de abril). Las fuentes confirman el 13 de mayo de 1913 como la fecha del primer vuelo según el calendario gregoriano. El nombre del copiloto varía según la fuente, pero se ha priorizado a Aleksandr Alekhnovich, el más citado. Se ha aclarado la línea de tiempo entre la concepción del avión (1911) y el inicio de la construcción (principios de 1913) para evitar confusión.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

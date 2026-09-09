@@ -68,8 +68,8 @@ La BAEL continúa siendo la principal base aérea de Venezuela, albergando unida
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Resolución N.º 707 (Ministerio de la Defensa), registros de la Aviación Militar Bolivariana  
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Fuentes primarias/institucionales consultadas:** Resolución N.º 707 (Ministerio de la Defensa), registros de la Aviación Militar Bolivariana  
 - **Discrepancias resueltas:** Inicio de actividades en 1952 vs inauguración oficial en 1955.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

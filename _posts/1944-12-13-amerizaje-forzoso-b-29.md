@@ -75,8 +75,8 @@ El amerizaje del “Dat’s My Boy” es citado como un caso excepcional de supe
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias consultadas:** NARA, Mann (2007), Tillman (2012)  
+- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Fuentes primarias/institucionales consultadas:** NARA, Mann (2007), Tillman (2012)  
 - **Discrepancias resueltas:** Distancia del amerizaje y confirmación del número de serie.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
