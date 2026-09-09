@@ -82,9 +82,6 @@ La Escuadrilla de Humo es un símbolo de la innovación y el espíritu pionero, 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la denominación:</strong> Aunque el nombre popular "Esquadrilha da Fumaça (Escuadrilla de Humo)" se consolidó en 1953 con la instalación de los generadores de humo, la Fuerza Aérea Brasileña oficializó su nombre como <strong>Escuadrón de Demostración Aérea</strong> en 1982, tras la reactivación de la unidad. "Escuadrilla de Humo" sigue siendo, sin embargo, el nombre con el que es reconocida mundialmente.</p>
 <p><strong>Sobre la primera demostración de 1952:</strong> Algunas fuentes se refieren a 1954 como el año del primer vuelo, pero es una confusión con el año de la primera presentación pública con la nueva pintura oficial. Existe un consenso general en que la demostración del 14 de mayo de 1952 fue el evento fundacional, incluso antes de que se llamara Escuadrilla de Humo.</p>
@@ -107,7 +104,7 @@ La Escuadrilla de Humo es un símbolo de la innovación y el espíritu pionero, 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
+- **Timestamp de verificación:** 2026-09-09 12:34:42 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, Aerobatic Teams, Spotter, Viva Brazil
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (14 de mayo de 1952). La denominación oficial "Escuadrón de Demostración Aérea" se adoptó en 1982, no en su fundación. El número total de aeronaves iniciales se establece en 4.
 - **Nivel de confianza:** Alto

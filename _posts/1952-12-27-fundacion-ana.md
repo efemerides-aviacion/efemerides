@@ -35,14 +35,8 @@ image: 1952-12-27-fundacion-ana.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Contexto Histórico
 La fundación de Japan Helicopter & Aeroplane en diciembre de 1952 marcó el inicio de una nueva era en la aviación japonesa. En sus primeros años, la compañía operó helicópteros Bell 47D-1 para transporte y servicios aéreos. En 1957, tras su expansión y consolidación, adoptó el nombre All Nippon Airways (ANA), iniciando operaciones con aviones de ala fija.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -53,16 +47,10 @@ La fundación de Japan Helicopter & Aeroplane en diciembre de 1952 marcó el ini
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Impacto y legado
 - **Transformación sectorial:** De operaciones locales con helicópteros a aerolínea global.
 - **Innovación:** Introducción de aeronaves modernas como el Boeing 787 Dreamliner.
 - **Conectividad global:** Papel relevante en Star Alliance.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -81,11 +69,8 @@ La fundación de Japan Helicopter & Aeroplane en diciembre de 1952 marcó el ini
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
+- **Timestamp de verificación:** 2026-09-09 12:34:42 CST  
 - **Fuentes primarias/institucionales consultadas:** ANA Official Website, ANA Archives, Wikipedia, Planet Airlines, Company Histories, This Day in Aviation
 - **Discrepancias resueltas:** Enciclopedias y resúmenes citan 27 de diciembre de 1952, mientras que la cronología oficial de ANA confirma diciembre de 1952 sin día específico.
 - **Nivel de confianza:** 100%

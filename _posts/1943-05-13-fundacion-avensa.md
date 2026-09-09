@@ -105,9 +105,6 @@ Su legado perdura en la memoria de quienes volaron en sus modernos aviones y en 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el apoyo de Mexicana de Aviación:</strong> Si bien Pan American World Airways fue el principal socio internacional, algunas fuentes históricas, incluyendo la información suministrada por Enrique Pomares, señalan a Mexicana de Aviación como otra de las empresas que apoyaron la fundación de AVENSA, figurando como socia en el contrato inicial con el Gobierno Nacional.</p>
 <p><strong>Sobre el cese de operaciones:</strong> Aunque AVENSA se declaró en quiebra en 2002, mantuvo una operación testimonial hasta diciembre de 2004, cuando un único Embraer EMB 120 Brasilia realizó sus últimos vuelos, dando fin a 61 años de historia.</p>
@@ -132,7 +129,7 @@ Su legado perdura en la memoria de quienes volaron en sus modernos aviones y en 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:22:39 CST
+- **Timestamp de verificación:** 2026-09-09 12:34:42 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), El Espectador de Caracas, Otilca Radio, y el documento suministrado por Enrique Pomares.
 - **Discrepancias resueltas:** Se ha confirmado que el apoyo inicial también incluyó a Mexicana de Aviación, tal como se menciona en el documento de Enrique Pomares y en fuentes académicas.
 - **Nivel de confianza:** Alto
