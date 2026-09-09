@@ -82,9 +82,7 @@ A pesar de las restricciones oficiales, en la práctica existía una necesidad o
 - **1945:** Se retira formalmente del Ejército con el rango de coronel, tras 38 años de servicio 
 - **6 de septiembre de 1971:** Fallece en San Antonio, Texas, a los 82 años, siendo el último miembro vivo de la 1st Aviation Detachment
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El contexto de la certificación: la oposición del Departamento de Guerra
+### El contexto de la certificación: la oposición del Departamento de Guerra
 
 El logro de Burge fue extraordinario no solo por su dificultad técnica, sino porque ocurrió **contra la política explícita del Departamento de Guerra**. Cuando el Teniente Frank Lahm informó a sus superiores que había entrenado a un soldado de tropa como piloto, la respuesta fue que **no era política del Ejército entrenar soldados de tropa como aviadores**.
 
@@ -137,7 +135,7 @@ Su fotografía cuelga en el McDaniel Center de la Base Aérea de Kadena, en Jap�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 12:53:31 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, Early Aviators, National Museum of the US Air Force, Air University, Historical Marker Database, Minneapolis Air Reserve Station
 - **Discrepancias resueltas:** La fecha de certificación de Burge como piloto FAI es el 14 de junio de 1912. El certificado N.º 154 fue emitido en esa fecha. Su primer vuelo en solitario fue el 1 de marzo de 1912. El total de horas de vuelo (4.667 horas y 55 minutos) está confirmado por fuentes oficiales del Museo Nacional de la Fuerza Aérea.
 - **Nivel de confianza:** Alto

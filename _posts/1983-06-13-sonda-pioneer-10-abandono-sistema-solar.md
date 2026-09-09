@@ -72,9 +72,7 @@ La Pioneer 10 llevaba a bordo una placa de aluminio dorado de 15 × 23 centímet
 - **31 de marzo de 1997:** Finaliza oficialmente la misión científica de la Pioneer 10 
 - **23 de enero de 2003:** Última señal débil captada por la Deep Space Network (DSN) de la NASA, a 12.000 millones de kilómetros de la Tierra 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Descubrimientos y Logros Científicos
+### Descubrimientos y Logros Científicos
 
 La Pioneer 10 fue una nave de «primeras veces» en la historia de la exploración espacial:
 
@@ -136,7 +134,7 @@ La Pioneer 10 fue, en palabras de la NASA, «la primera nave en navegar por el m
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 12:53:31 CST  
 - **Fuentes primarias/institucionales consultadas:** El País (14/06/1983), La Vanguardia, Wikipedia, Última Hora, Agencia Espacial Mexicana, Muy Interesante, The New York Times (14/06/1983)
 - **Discrepancias resueltas:** Corregida distancia al Sol (4.522 millones de km vs 4.800 millones). Corregida velocidad actual (44.000 km/h vs 55.000 km/h). Corregida velocidad de lanzamiento (51.682 km/h vs 132.000 km/h). Corregida masa (258 kg vs 258,8 kg). Añadida hora exacta del cruce (5:00 a.m. PDT). Aclarada la situación de Plutón como planeta no más distante en 1983 debido a su órbita excéntrica.
 - **Nivel de confianza:** Alto

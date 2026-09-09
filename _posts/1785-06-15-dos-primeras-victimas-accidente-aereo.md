@@ -64,9 +64,7 @@ El objetivo de Rozier era emular la hazaña de Jean-Pierre Blanchard y John Jeff
 - **15 de junio de 1785 (inmediatamente después):** Un testigo presencial escribe una carta relatando el accidente: «el globo se incendió y cayó al suelo» 
 - **15 de junio de 1785:** Rozier y Romain se convierten en las primeras víctimas mortales de un accidente aéreo de la historia 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## El hombre detrás del accidente: Jean-François Pilâtre de Rozier
+### El hombre detrás del accidente: Jean-François Pilâtre de Rozier
 
 Rozier fue, en muchos sentidos, el primer héroe de la aviación. Nacido en Metz en 1754, estudió química y física, y se convirtió en un entusiasta de la aerostación. Su hazaña del 21 de noviembre de 1783 —el primer vuelo tripulado libre— lo inmortalizó. Luis XVI le concedió una pensión, y su nombre se difundió por toda Europa.
 
@@ -122,7 +120,7 @@ Estas tres efemérides —el primer vuelo tripulado (21 de noviembre de 1783), e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 12:53:31 CST  
 - **Fuentes primarias/institucionales consultadas:** Encyclopaedia Britannica, Wikipedia (ES/EN)
 - **Discrepancias resueltas:** Se ha verificado que Rozier fue el primer aeronauta de la historia (21 de noviembre de 1783) y también la primera víctima mortal de un accidente aéreo. El globo híbrido que diseñó se llama «rozière» en su honor.
 - **Nivel de confianza:** Alto

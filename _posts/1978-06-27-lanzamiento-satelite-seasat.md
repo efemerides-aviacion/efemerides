@@ -69,9 +69,7 @@ SEASAT representó la visión de una nueva era en la que la tecnología espacial
 - **1979-1982:** A pesar de su corta vida, el «Proyecto de Utilización de Datos de SEASAT» procesa y distribuye una cantidad ingente de información, generando descubrimientos científicos y demostrando su utilidad 
 - **2013:** La Instalación Satelital de Alaska libera por primera vez datos digitalizados del SAR de SEASAT, permitiendo nuevos análisis con tecnología moderna 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Instrumentos Científicos a Bordo
+### Instrumentos Científicos a Bordo
 
 El satélite llevaba cinco instrumentos diseñados para operar de forma simultánea y ofrecer una imagen sinóptica del océano.
 
@@ -131,7 +129,7 @@ El «proyecto fallido» que duró 106 días se convirtió en la base sobre la qu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 12:53:31 CST  
 - **Fuentes primarias/institucionales consultadas:** JPL/NASA, NASA Earthdata, ESA eoPortal, Wikipedia
 - **Discrepancias resueltas:** Se ha resuelto la discrepancia de la fecha de lanzamiento (26 vs 27 de junio de 1978), confirmando que la fecha UTC correcta es el 27 de junio de 1978, derivada de la hora local (26 de junio por la noche en California). Se ha añadido una explicación sobre el uso del UTC.
 - **Nivel de confianza:** Alto

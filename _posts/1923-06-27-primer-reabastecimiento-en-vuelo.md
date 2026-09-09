@@ -69,9 +69,7 @@ La aviación de la década de 1920 capturaba la imaginación del público. Los r
 - **1924:** El Capitán Smith y el Teniente Hine realizan demostraciones de reabastecimiento en vuelo para la prensa y el público
 - **1929:** El reabastecimiento en vuelo se convierte en una técnica establecida; el avión Question Mark permanece en el aire durante 150 horas utilizando la técnica
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El día del primer reabastecimiento
+### El día del primer reabastecimiento
 
 El 27 de junio de 1923, el cielo sobre Rockwell Field, San Diego, fue testigo de un experimento que cambiaría la historia de la aviación. El Capitán Lowell H. Smith despegó a bordo de un De Havilland DH-4B, mientras que el Teniente Virgil Hine pilotaba un DH-4B abastecedor. Un tercer avión, pilotado por el Teniente Muir S. Fairchild, actuaba como observador.
 
@@ -124,7 +122,7 @@ Lowell H. Smith fue ascendido a mayor y continuó su carrera en la aviación. Mu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 12:53:31 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation, San Diego Air & Space Museum, HistoryNet, Wikipedia
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del 27 de junio de 1923 para el primer reabastecimiento exitoso. Algunas fuentes mencionan que se transfirieron 75 galones de gasolina, mientras que otras citan 150 galones; la cifra de 75 galones para el primer intento es la más aceptada de conformidad con las bitácoras del Air Service de la USAF. La altitud del vuelo fue de aproximadamente 2.000 pies.
 - **Nivel de confianza:** Alto

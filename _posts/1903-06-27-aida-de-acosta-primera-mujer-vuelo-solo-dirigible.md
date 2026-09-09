@@ -68,9 +68,7 @@ El vuelo de Acosta ocurrió en un momento de efervescencia en la historia de la 
 - **Década de 1930:** Acosta revela públicamente por primera vez su hazaña, que sus padres habían ocultado 
 - **26 de mayo de 1962:** Fallece en Nueva York a los 77 años 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El vuelo de la primera mujer piloto
+### El vuelo de la primera mujer piloto
 
 El 27 de junio de 1903, Aida de Acosta realizó un vuelo que cambiaría su vida y la historia de la aviación. Tras recibir tres lecciones de vuelo de Santos-Dumont, la joven de 19 años se sintió preparada para pilotar el dirigible No. 9 en solitario.
 
@@ -123,7 +121,7 @@ El 27 de junio de 1903, Aida de Acosta demostró que el cielo no era un lugar ex
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 12:53:31 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN, FR), Cubanet, 1903 in science (Wikipedia)
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del vuelo (27 de junio de 1903) y en los detalles del evento. No se encontraron discrepancias significativas.
 - **Nivel de confianza:** Alto

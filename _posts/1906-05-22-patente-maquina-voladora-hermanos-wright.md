@@ -63,9 +63,7 @@ La cultura inventiva estadounidense de la época protegía las innovaciones medi
 - **1910-1917:** Estalla la «guerra de patentes» de la aviación. Los Wright demandan a Curtiss y a otras empresas. La batalla legal se intensifica tras la muerte de Wilbur en 1912.
 - **1917:** Al estallar la Primera Guerra Mundial, el gobierno de Estados Unidos interviene y crea un consorcio de patentes (Manufacturers Aircraft Association) para permitir la producción masiva de aviones sin litigios. La patente 821.393 se licencia colectivamente.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Descripción técnica de la patente
+### Descripción técnica de la patente
 
 La patente N.º 821.393 consta de varias reivindicaciones clave que definen el sistema de control:
 
@@ -118,7 +116,7 @@ La patente N.º 821.393 es uno de los documentos más importantes de la historia
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 12:53:31 CST  
 - **Fuentes primarias/institucionales consultadas:** WIPO, Google Patents, Psychology of Invention, Wikisource, Actualidad Aeroespacial, OEPM
 - **Discrepancias resueltas:** Confirmación de que la solicitud de patente es anterior (marzo de 1903) al primer vuelo motorizado (diciembre de 1903), lo que demuestra que los Wright priorizaron proteger su sistema de control antes de demostrarlo públicamente.
 - **Nivel de confianza:** Alto

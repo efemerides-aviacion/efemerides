@@ -77,9 +77,7 @@ Trippe fue un visionario que supo leer la demanda del público. Su creación de 
 - **3 de abril de 1981:** Fallece en Nueva York a los 81 años 
 - **1985:** Ronald Reagan le concede póstumamente la Medalla Presidencial de la Libertad 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## El legado del hombre que «encogió el mundo»
+### El legado del hombre que «encogió el mundo»
 
 Juan Trippe fue, en palabras de la revista Yale Alumni Magazine, el hombre que «encogió el mundo». Su visión convirtió a Pan American World Airways en la aerolínea más emblemática del siglo XX, y su legado perdura en cada vuelo comercial que despega hoy.
 
@@ -137,7 +135,7 @@ En reconocimiento a su legado, Trippe fue incluido en el Salón de la Fama de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 12:53:31 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, Encyclopaedia Britannica, Yale Alumni Magazine, UPI Archives, Smithsonian Online Virtual Archives
 - **Discrepancias resueltas:** La fecha de graduación de Yale varía entre 1921 y 1922 según las fuentes. La mayoría coincide en 1921. No hay discrepancia en su fecha de nacimiento (27 de junio de 1899) y muerte (3 de abril de 1981).
 - **Nivel de confianza:** Alto

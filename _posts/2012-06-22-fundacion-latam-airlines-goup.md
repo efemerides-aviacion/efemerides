@@ -68,9 +68,7 @@ La integración de dos culturas empresariales diferentes, la chilena y la brasil
 - **2020:** LATAM y sus filiales se acogen al Capítulo 11 de la ley estadounidense 
 - **2022:** LATAM emerge exitosamente del Capítulo 11 y se aprueba el joint venture con Delta Air Lines 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Las aerolíneas predecesoras
+### Las aerolíneas predecesoras
 
 Antes de la fusión de 2012, LAN y TAM eran dos de las aerolíneas más importantes de América Latina, con historias y trayectorias que reflejaban el desarrollo de la aviación comercial en sus respectivos países. LAN, la aerolínea más antigua de Chile, y TAM, que había crecido desde sus orígenes como una pequeña aerolínea regional brasileña, representaban dos modelos de negocio complementarios que, al fusionarse, crearían el gigante regional.
 
@@ -126,7 +124,7 @@ El 22 de junio de 2012 marcó el inicio de una nueva era para la aviación en Am
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST
+- **Timestamp de verificación:** 2026-09-09 12:53:31 CST
 - **Fuentes primarias/institucionales consultadas:** LATAM Airlines Group (página oficial), El País, Arecoa
 - **Discrepancias resueltas:** Algunas fuentes mencionan el 22 de junio como la fecha en que se completó la transacción, mientras que otras se refieren al proceso de fusión iniciado en 2011. Se ha confirmado que el 22 de junio de 2012 es la fecha de finalización de la fusión y creación del holding.
 - **Nivel de confianza:** Alto

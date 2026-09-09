@@ -76,9 +76,7 @@ La Primera Guerra Mundial transformó la aviación de herramienta de reconocimie
 - **1915, julio:** Obtiene su sexta y última victoria 
 - **1915, 31 de agosto:** Es abatido en combate cerca de Petit-Croix por el suboficial alemán Otto Kandulski, un antiguo alumno suyo 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Hazañas previas a la guerra
+### Hazañas previas a la guerra
 
 Antes de convertirse en as de la aviación, Pégoud ya había dejado una huella imborrable en la historia aeronáutica:
 
@@ -133,7 +131,7 @@ En Francia, su memoria perdura. Existe un monumento en su honor en Montferrat, s
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 12:53:31 CST  
 - **Fuentes primarias/institucionales consultadas:** Encyclopaedia Britannica, Early Aviators, Wikipedia (List of aces of aces), Military Wiki, John Wilson Manuscripts
 - **Discrepancias resueltas:** Corregido lugar de nacimiento (Montferrat), fecha de muerte (31 de agosto de 1915), lugar de muerte (Petit-Croix), causa de muerte (abatido por antiguo alumno Otto Kandulski). Se especifica que alcanzó 5 victorias (siendo el primer as) y luego una sexta. Matizado el primer looping (Nesterov fue el primero, Pégoud el segundo pero primero en volar invertido).
 - **Nivel de confianza:** Alto
