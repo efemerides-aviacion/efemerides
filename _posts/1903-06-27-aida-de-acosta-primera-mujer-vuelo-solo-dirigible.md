@@ -123,8 +123,8 @@ El 27 de junio de 1903, Aida de Acosta demostró que el cielo no era un lugar ex
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN, FR), Cubanet, 1903 in science (Wikipedia)
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN, FR), Cubanet, 1903 in science (Wikipedia)
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del vuelo (27 de junio de 1903) y en los detalles del evento. No se encontraron discrepancias significativas.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

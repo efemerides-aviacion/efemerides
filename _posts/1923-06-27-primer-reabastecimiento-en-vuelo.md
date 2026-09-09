@@ -124,8 +124,8 @@ Lowell H. Smith fue ascendido a mayor y continuó su carrera en la aviación. Mu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, San Diego Air & Space Museum, HistoryNet, Wikipedia
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, San Diego Air & Space Museum, HistoryNet, Wikipedia
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del 27 de junio de 1923 para el primer reabastecimiento exitoso. Algunas fuentes mencionan que se transfirieron 75 galones de gasolina, mientras que otras citan 150 galones; la cifra de 75 galones para el primer intento es la más aceptada de conformidad con las bitácoras del Air Service de la USAF. La altitud del vuelo fue de aproximadamente 2.000 pies.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

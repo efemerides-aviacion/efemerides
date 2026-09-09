@@ -145,8 +145,8 @@ TIROS-1 permanece en órbita como chatarra espacial, un testigo silencioso del p
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Diario Público, Infosatellites, Channel3000
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Diario Público, Infosatellites, Channel3000
 - **Discrepancias resueltas:** La fecha del fallo eléctrico está confirmada como 15 de junio de 1960 en todas las fuentes consultadas. La duración exacta de la misión varía entre 75 y 90 días según las fuentes; se ha adoptado la cifra de 78 días por ser la más documentada.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -148,8 +148,8 @@ Hoy en día, varios Jet Provost continúan volando como propiedad privada, y el 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES), Aerial Visuals, Historical Marker Database
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Aerial Visuals, Historical Marker Database
 - **Discrepancias resueltas:** Se ha verificado la fecha del primer vuelo (26 de junio de 1954) en múltiples fuentes. Se ha confirmado que el piloto fue Dick Wheldon. Se ha aclarado la diferencia entre las 201 unidades del T.3 y el total de 676 operadas por la RAF. 
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

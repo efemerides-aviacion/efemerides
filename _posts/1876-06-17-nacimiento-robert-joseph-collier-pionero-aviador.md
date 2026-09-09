@@ -159,8 +159,8 @@ El Trofeo Collier es el eslabón que conecta los primeros años de la aviación 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** Wikipedia, TimeNote, Smithsonian Institution
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, TimeNote, Smithsonian Institution
 - **Discrepancias resueltas:** La fecha exacta de fallecimiento varía entre el 8 y el 9 de noviembre de 1918; se ha optado por incluir ambas posibilidades. La cifra del peso del trofeo varía entre 225 y 238 kg; se ha optado por 238 kg según la fuente del Smithsonian. Se ha corregido la definición del trofeo para incluir explícitamente «astronáutica» y «naves espaciales».
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

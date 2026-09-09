@@ -127,8 +127,8 @@ El Gossamer Albatross original forma parte de la colección del Smithsonian Nati
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 18:15:00 CST  
-- **Fuentes primarias consultadas:** Smithsonian NASM, NASA, The New York Times (13/06/1979), Caltech Magazine, BBC News, Wikipedia
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Smithsonian NASM, NASA, The New York Times (13/06/1979), Caltech Magazine, BBC News, Wikipedia
 - **Discrepancias resueltas:** La duración exacta del vuelo varía entre 2h 49min y 2h 55min según las fuentes; se ha optado por 2h 49min respaldada por Caltech Magazine y el archivo del Smithsonian. La altitud media se presenta como rango (1,5-2,4 m) para reflejar las variaciones durante el vuelo.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

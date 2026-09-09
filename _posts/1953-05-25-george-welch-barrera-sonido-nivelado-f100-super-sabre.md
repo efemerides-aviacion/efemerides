@@ -151,8 +151,8 @@ George S. Welch es recordado como uno de los pilotos de pruebas más audaces y t
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Air Force Test Center (.mil), Super Sabre Society, Wikipedia (EN/ES), The National Interest, San Diego Air & Space Museum, Los Angeles Public Library
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Air Force Test Center (.mil), Super Sabre Society, Wikipedia (EN/ES), The National Interest, San Diego Air & Space Museum, Los Angeles Public Library
 - **Discrepancias resueltas:** Confirmación de la velocidad exacta (Mach 1,1 según fuente oficial USAF) frente a variantes (Mach 1,04 o 1,05). Verificación de que el vuelo ocurrió el 25 de mayo de 1953 y que fue el primer avión en alcanzar velocidad supersónica en su vuelo inaugural.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y de archivo coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

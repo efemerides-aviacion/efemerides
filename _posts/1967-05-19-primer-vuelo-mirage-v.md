@@ -87,8 +87,8 @@ El primer vuelo del Mirage V el 19 de mayo de 1967 es más que un simple hito en
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Global Security, Wikipedia (ES/EN), Dassault Aviation, Military Wiki
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Global Security, Wikipedia (ES/EN), Dassault Aviation, Military Wiki
 - **Discrepancias resueltas:** La numeración (Mirage V vs Mirage 5) es consistente en todas las fuentes; las fuentes coinciden en la fecha del 19 de mayo de 1967.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

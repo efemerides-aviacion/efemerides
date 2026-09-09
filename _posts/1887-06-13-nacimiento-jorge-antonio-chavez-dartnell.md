@@ -118,8 +118,8 @@ Su Blériot XI original —el «Gypaète»— sufrió graves daños en el accide
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Library of Congress, FranceArchives, Congreso Peruano, Wikipedia (ES/EN), EcuRed
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Library of Congress, FranceArchives, Congreso Peruano, Wikipedia (ES/EN), EcuRed
 - **Discrepancias resueltas:** Se ha confirmado la fecha de nacimiento del 13 de junio de 1887 frente a la errónea fecha del 13 de enero citada en fuentes no oficiales. La altitud del cruce alpino se ha ajustado a 2.650 metros. Se ha añadido el dato del nacimiento en el XVII Distrito de París y el nombre del avión («Gypaète»).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

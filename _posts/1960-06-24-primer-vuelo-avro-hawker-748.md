@@ -182,8 +182,8 @@ El 24 de junio de 1960, en un campo de aviación en Cheshire, un avión con una 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Academic (ES), Wikiwand (ES), Wikipedia (EN), RAF Museum, Airways Magazine, Australian Aviation, AVIA PRO
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Academic (ES), Wikiwand (ES), Wikipedia (EN), RAF Museum, Airways Magazine, Australian Aviation, AVIA PRO
 - **Discrepancias resueltas:** Algunas fuentes citan la producción total de la Serie 1 como 17, mientras que otras indican 18. La cifra más comúnmente aceptada para la producción total incluyendo todos los modelos y licencias es 380.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

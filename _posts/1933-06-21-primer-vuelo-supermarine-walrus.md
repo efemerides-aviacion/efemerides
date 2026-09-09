@@ -155,8 +155,8 @@ Hoy, los sobrevivientes —incluyendo uno en el Fleet Air Arm Museum de Yeovilto
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN/IT), Classic Warbirds, Naval Encyclopedia, La Segunda Guerra, Military History Fandom, FDRA
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN/IT), Classic Warbirds, Naval Encyclopedia, La Segunda Guerra, Military History Fandom, FDRA
 - **Discrepancias resueltas:** Algunas fuentes citan el motor del prototipo como Bristol Jupiter IX, mientras que otras indican Pegasus. El motor de serie fue el Pegasus VI. Se ha aclarado la distinción.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

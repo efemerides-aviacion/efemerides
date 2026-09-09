@@ -122,8 +122,8 @@ Estas tres efemérides —el primer vuelo tripulado (21 de noviembre de 1783), e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Encyclopaedia Britannica, Wikipedia (ES/EN)
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Encyclopaedia Britannica, Wikipedia (ES/EN)
 - **Discrepancias resueltas:** Se ha verificado que Rozier fue el primer aeronauta de la historia (21 de noviembre de 1783) y también la primera víctima mortal de un accidente aéreo. El globo híbrido que diseñó se llama «rozière» en su honor.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

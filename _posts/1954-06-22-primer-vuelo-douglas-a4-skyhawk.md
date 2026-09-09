@@ -158,8 +158,8 @@ Apodado cariñosamente «Scooter», el Skyhawk es recordado por su fiabilidad, s
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Smithsonian Institution, U.S. Naval Institute, The Skyhawk Association, Air & Space Forces Magazine, U.S. Navy Blue Angels, Zona Militar (2026), Infodefensa (2026), The War Zone (2026)
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Smithsonian Institution, U.S. Naval Institute, The Skyhawk Association, Air & Space Forces Magazine, U.S. Navy Blue Angels, Zona Militar (2026), Infodefensa (2026), The War Zone (2026)
 - **Discrepancias resueltas:** Algunas fuentes citan el motor inicial como J65-W-2 o J65-W-4; se ha optado por la información del Smithsonian que especifica 7.200 lb de empuje para el prototipo. Las cifras de producción (2.960 unidades) son consistentes en todas las fuentes. Se ha actualizado el estado de servicio del A-4 en 2026 según fuentes de mayo de 2026.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

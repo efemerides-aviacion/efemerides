@@ -137,8 +137,8 @@ Su fotografía cuelga en el McDaniel Center de la Base Aérea de Kadena, en Jap�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Early Aviators, National Museum of the US Air Force, Air University, Historical Marker Database, Minneapolis Air Reserve Station
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Early Aviators, National Museum of the US Air Force, Air University, Historical Marker Database, Minneapolis Air Reserve Station
 - **Discrepancias resueltas:** La fecha de certificación de Burge como piloto FAI es el 14 de junio de 1912. El certificado N.º 154 fue emitido en esa fecha. Su primer vuelo en solitario fue el 1 de marzo de 1912. El total de horas de vuelo (4.667 horas y 55 minutos) está confirmado por fuentes oficiales del Museo Nacional de la Fuerza Aérea.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

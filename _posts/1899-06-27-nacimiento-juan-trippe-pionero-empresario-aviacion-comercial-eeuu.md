@@ -137,8 +137,8 @@ En reconocimiento a su legado, Trippe fue incluido en el Salón de la Fama de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Encyclopaedia Britannica, Yale Alumni Magazine, UPI Archives, Smithsonian Online Virtual Archives
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Encyclopaedia Britannica, Yale Alumni Magazine, UPI Archives, Smithsonian Online Virtual Archives
 - **Discrepancias resueltas:** La fecha de graduación de Yale varía entre 1921 y 1922 según las fuentes. La mayoría coincide en 1921. No hay discrepancia en su fecha de nacimiento (27 de junio de 1899) y muerte (3 de abril de 1981).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

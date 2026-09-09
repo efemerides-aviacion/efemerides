@@ -162,8 +162,8 @@ La primera travesía aérea del Atlántico Sur es hoy una de las gestas más rec
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN), Wikiwand (ES), Observador (PT), NCultura (PT)
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), Wikiwand (ES), Observador (PT), NCultura (PT)
 - **Discrepancias resueltas:** La hora exacta de salida de Lisboa varía entre las 7:00 a.m. y las 4:30 p.m. según las fuentes; se ha optado por la segunda por ser la más citada en las fuentes portuguesas. La distancia total recorrida se ha redondeado a 8.383 km según las fuentes oficiales portuguesas.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -143,8 +143,8 @@ El término "dawn-to-dusk" se convirtió en sinónimo de velocidad y resistencia
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Smithsonian Magazine, This Day in Aviation, Air & Space Forces Magazine, The New York Times, Smithsonian Institution
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Smithsonian Magazine, This Day in Aviation, Air & Space Forces Magazine, The New York Times, Smithsonian Institution
 - **Discrepancias resueltas:** Algunas fuentes indican que Maughan aterrizó justo antes del anochecer y otras justo después. La mayoría coincide en que el vuelo se considera "de amanecer a anochecer" porque el retraso fue por una avería mecánica, no por decisión del piloto. La distancia exacta varía ligeramente entre 2.670 y 2.700 millas; se ha utilizado la cifra más común.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

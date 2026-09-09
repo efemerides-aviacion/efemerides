@@ -147,8 +147,8 @@ El «Salem Representative» es uno de los aviones más recordados del 4th Fighte
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, American Air Museum, Veteran Tributes, Grokipedia, Aces of WWII, Wikiwand, Aircrew Remembered
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, American Air Museum, Veteran Tributes, Grokipedia, Aces of WWII, Wikiwand, Aircrew Remembered
 - **Discrepancias resueltas:** Las cifras de victorias en tierra varían ligeramente entre 14 y 15 según las fuentes; se ha indicado el rango. El nombre de nacimiento (Halbrook) ha sido aclarado. Se ha detallado la causa exacta de su muerte (fuego antiaéreo mientras ametrallaba Mostar Sud) basándose en investigaciones posteriores.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -185,8 +185,8 @@ En 2021, un equipo de entusiastas completó la construcción de una réplica vol
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, Junkers, Fly News, Smithsonian National Postal Museum, Deutsches Museum, PBS, Wikipedia (Archivado)
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Junkers, Fly News, Smithsonian National Postal Museum, Deutsches Museum, PBS, Wikipedia (Archivado)
 - **Discrepancias resueltas:** El número de producción total varía entre 322 y 332 según las fuentes; se ha adoptado la cifra de 332 de This Day in Aviation. El nombre del primer prototipo era "Herta" (no "Annelise"), según la misma fuente. Se ha corregido en consecuencia.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

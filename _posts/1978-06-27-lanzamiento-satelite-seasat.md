@@ -131,8 +131,8 @@ El «proyecto fallido» que duró 106 días se convirtió en la base sobre la qu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** JPL/NASA, NASA Earthdata, ESA eoPortal, Wikipedia
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** JPL/NASA, NASA Earthdata, ESA eoPortal, Wikipedia
 - **Discrepancias resueltas:** Se ha resuelto la discrepancia de la fecha de lanzamiento (26 vs 27 de junio de 1978), confirmando que la fecha UTC correcta es el 27 de junio de 1978, derivada de la hora local (26 de junio por la noche en California). Se ha añadido una explicación sobre el uso del UTC.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

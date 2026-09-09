@@ -133,8 +133,8 @@ En Francia, su memoria perdura. Existe un monumento en su honor en Montferrat, s
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Encyclopaedia Britannica, Early Aviators, Wikipedia (List of aces of aces), Military Wiki, John Wilson Manuscripts
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Encyclopaedia Britannica, Early Aviators, Wikipedia (List of aces of aces), Military Wiki, John Wilson Manuscripts
 - **Discrepancias resueltas:** Corregido lugar de nacimiento (Montferrat), fecha de muerte (31 de agosto de 1915), lugar de muerte (Petit-Croix), causa de muerte (abatido por antiguo alumno Otto Kandulski). Se especifica que alcanzó 5 victorias (siendo el primer as) y luego una sexta. Matizado el primer looping (Nesterov fue el primero, Pégoud el segundo pero primero en volar invertido).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

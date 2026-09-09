@@ -153,8 +153,8 @@ Hoy, varios ejemplares del Tu-104 se conservan en museos de aviación en Rusia y
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN, RU, ES), AeroHispanoBlog, GlobalSecurity, TsAGI
+- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN, RU, ES), AeroHispanoBlog, GlobalSecurity, TsAGI
 - **Discrepancias resueltas:** Algunas fuentes indican que el primer vuelo fue el 17 de junio de 1955; otras mencionan el mismo día. La distancia de aterrizaje con paracaídas de frenado varía según la fuente (300-400 metros), pero el orden de magnitud es consistente. La cifra de unidades construidas varía entre 201 y 207; se ha optado por 201 por ser la más respaldada.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
