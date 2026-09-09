@@ -147,8 +147,8 @@ El último Doolittle Raider falleció en 2019 a la edad de 103 años. La hazaña
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Naval History and Heritage Command (.mil), Air Force Materiel Command (.mil), Wikipedia (EN/ES/PT), National Museum of the USAF
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** Naval History and Heritage Command (.mil), Air Force Materiel Command (.mil), Wikipedia (EN/ES/PT), National Museum of the USAF
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del 18 de abril de 1942. Existe una ligera variación en la distancia exacta del punto de lanzamiento (650-620 millas). Se ha priorizado la información del Naval History and Heritage Command (650 millas). También se ha aclarado la diferencia entre esta incursión y una misión de reconocimiento previa (15 de abril de 1942).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -71,8 +71,8 @@ American Airlines operó 42 Boeing 707 hasta 1984; el N7503A voló hasta 1983, s
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation; UPI Archives; American Airlines News; Wikipedia; Transportation History  
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation; UPI Archives; American Airlines News; Wikipedia; Transportation History  
 - **Discrepancias resueltas:** Confirmación de matrícula N7503A, hora exacta de despegue (09:05 PST) y duración de vuelos.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

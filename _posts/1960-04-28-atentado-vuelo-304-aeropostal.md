@@ -189,8 +189,8 @@ Hoy, la matrícula YV-C-AFE ya no existe. El avión quedó destruido en el impac
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES), FavClubVen (artículo del Coronel José Luis Ochoa Vargas), Plane Crash Info
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), FavClubVen (artículo del Coronel José Luis Ochoa Vargas), Plane Crash Info
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (28 de abril de 1960) y en la mayoría de los datos. El número de ocupantes varía ligeramente (13 según la mayoría, 10 según algunas fuentes). Se ha priorizado la cifra de 13 (3 tripulantes + 10 pasajeros). La hora del despegue fue a las 07:30 y la explosión a las 08:22. Los nombres de los tripulantes y pasajeros están documentados en el artículo del Coronel José Luis Ochoa Vargas.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

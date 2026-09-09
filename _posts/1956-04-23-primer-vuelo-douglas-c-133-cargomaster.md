@@ -167,8 +167,8 @@ El C-133 Cargomaster es recordado como el único transporte estratégico turboh�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** National Museum of the USAF, Wikipedia (EN/FR/archivo), Vintage Aviation News, Flug Revue, Aviation Safety Network
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** National Museum of the USAF, Wikipedia (EN/FR/archivo), Vintage Aviation News, Flug Revue, Aviation Safety Network
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (23 de abril de 1956). Existe una ligera discrepancia en el número exacto de C-133A vs C-133B construidos (35/15 según el Museo de la USAF; 32/18 según otras fuentes). La cifra total de 50 unidades es consistente. La tripulación varía entre 4 y 6 miembros según la fuente.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

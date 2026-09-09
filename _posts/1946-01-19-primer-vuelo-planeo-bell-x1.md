@@ -73,8 +73,8 @@ El Bell X‑1 es recordado como el primer avión en superar Mach 1 en vuelo nive
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** NASA; Wikipedia; Vintage Aviation News; SPS Aviation; This Day in Aviation; Niagara Aerospace Museum  
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** NASA; Wikipedia; Vintage Aviation News; SPS Aviation; This Day in Aviation; Niagara Aerospace Museum  
 - **Discrepancias resueltas:** Algunas fuentes sitúan el primer planeo el 25 de enero de 1946; NASA y This Day in Aviation confirman el 19 de enero de 1946.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

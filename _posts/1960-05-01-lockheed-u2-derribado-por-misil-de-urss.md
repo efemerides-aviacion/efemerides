@@ -198,8 +198,8 @@ Los restos del U-2 que Powers pilotaba se exhiben hoy en el Museo Central de la 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES), Aviation Week, Super Sabre Society, Los Angeles Times, BBC
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Aviation Week, Super Sabre Society, Los Angeles Times, BBC
 - **Discrepancias resueltas:** Las fuentes confirman que el derribo del MiG-19 fue por fuego amigo de la misma salva de misiles. Powers se eyectó después de que su avión fuera alcanzado. El intercambio de Powers por Abel ocurrió el 10 de febrero de 1962.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

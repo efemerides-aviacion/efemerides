@@ -162,8 +162,8 @@ Hoy, varios Buccaneers se conservan en museos del Reino Unido y Sudáfrica, reco
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN), BAE Systems, Global Security, 1000 Aircraft Photos
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), BAE Systems, Global Security, 1000 Aircraft Photos
 - **Discrepancias resueltas:** La fecha del primer vuelo es consistente (30 de abril de 1958). El lugar del primer vuelo presenta una discrepancia (RAE Bedford vs Boscombe Down); se ha priorizado RAE Bedford por ser la fuente del fabricante. El piloto fue Derek Whitehead. El número de unidades construidas fue 211.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

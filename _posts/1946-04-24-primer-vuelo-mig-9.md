@@ -178,8 +178,8 @@ El 24 de abril de 1946 sigue siendo una fecha emblemática en la historia de la 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES), Britannica, EcuRed, Zona Militar, AviaStar, Skytamer, RussianWarrior
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), Britannica, EcuRed, Zona Militar, AviaStar, Skytamer, RussianWarrior
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (24 de abril de 1946). El "salto" del 19 de abril de 1946 se menciona en algunas fuentes como una prueba previa. La rivalidad MiG vs Yak y el lanzamiento de la moneda es una tradición ampliamente citada, aunque no documentada oficialmente. Se ha corregido la ubicación (Chkalovskaya en lugar de Ramenskoye) y se han precisado los detalles técnicos (apodo "Butterfly", transferencia de 372 unidades a China, etc.).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

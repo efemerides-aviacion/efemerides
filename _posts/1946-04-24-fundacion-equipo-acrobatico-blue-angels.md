@@ -176,8 +176,8 @@ Los Blue Angels no son solo un equipo acrobático; son embajadores de la aviaci�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** The Sextant (U.S. Navy History), Congressional Record (.gov), Navy.mil, Marines.mil, Britannica, Wikipedia
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** The Sextant (U.S. Navy History), Congressional Record (.gov), Navy.mil, Marines.mil, Britannica, Wikipedia
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del 24 de abril de 1946 como la de la directiva fundacional. El primer espectáculo público fue el 15 de junio de 1946. La formación diamante fue introducida en agosto de 1947.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

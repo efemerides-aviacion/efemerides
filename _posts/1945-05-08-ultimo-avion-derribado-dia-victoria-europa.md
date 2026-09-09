@@ -111,8 +111,8 @@ El caso ilustra además la dificultad de establecer un «último derribo» defin
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 23:55:00 CST  
-- **Fuentes primarias consultadas:** USAF Historical Study 85, «USAF Credits for the Destruction of Enemy Aircraft, World War II» (1978), listado oficial de créditos aéreos de la USAAF. La entrada del 8 de mayo de 1945 se ha verificado en dos secciones independientes del documento: el listado cronológico y el índice alfabético de aviadores, coincidentes en nombre, grado, número de serie y unidad.
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** USAF Historical Study 85, «USAF Credits for the Destruction of Enemy Aircraft, World War II» (1978), listado oficial de créditos aéreos de la USAAF. La entrada del 8 de mayo de 1945 se ha verificado en dos secciones independientes del documento: el listado cronológico y el índice alfabético de aviadores, coincidentes en nombre, grado, número de serie y unidad.
 - **Discrepancias resueltas:** La atribución del derribo a un «K.L. Smith», extendida en fuentes secundarias, queda descartada por el registro oficial, que acredita a Kenneth L. Swift. Sobre la condición de «último derribo» no existe consenso absoluto: el episodio de Bad Rodach corresponde al frente occidental y al fuego aire-aire estadounidense, sin que ello excluya acciones posteriores en otros frentes ese mismo día.
 - **Datos no confirmados:** No se ha localizado documentación sobre el número de ocupantes del Siebel Si 204 ni sobre su suerte. La afirmación, presente en algunas versiones divulgadas, de que el aparato se estrelló sin supervivientes carece de respaldo documental y no se recoge en esta efeméride.
 - **Nivel de confianza:** Alto en la identidad del piloto, la unidad, la fecha y el crédito oficial, contrastados con fuente primaria. Medio en la hora exacta y en la condición de «último derribo», sostenidas por fuentes secundarias especializadas.

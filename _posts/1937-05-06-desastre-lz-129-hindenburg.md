@@ -185,8 +185,8 @@ Hoy, el legado del Hindenburg perdura como un recordatorio de los riesgos inhere
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** World History Encyclopedia, Wikipedia, Britannica, National Archives, The Spectator
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** World History Encyclopedia, Wikipedia, Britannica, National Archives, The Spectator
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha (6 de mayo de 1937), lugar (Lakehurst), número de víctimas fatales (36) y duración del incendio (32 segundos). La transmisión de Herb Morrison fue grabada, no transmitida en vivo.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

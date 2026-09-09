@@ -150,8 +150,8 @@ El Me 262 sigue siendo un símbolo del avance tecnológico alemán durante la Se
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), National Museum of the USAF, Flug Revue, WarHistory.org
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), National Museum of the USAF, Flug Revue, WarHistory.org
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre el primer vuelo con motor de pistón (18 de abril de 1941) y el primer vuelo con propulsión a reacción exitoso (18 de julio de 1942). También se ha documentado el intento fallido del 25 de marzo de 1942.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

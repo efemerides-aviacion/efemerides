@@ -69,8 +69,8 @@ La eyección de Schenk es recordada como el primer caso documentado en la histor
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:**  
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:**  
   • This Day in Aviation – 13 January 1942 (Helmut Schenk, Heinkel He 280)  
   • Aircrew Remembered – World’s First Ejection Seat Success  
   • History and Headlines – First Ejection Seat Used in Jet Fighter (Heinkel He 280)  

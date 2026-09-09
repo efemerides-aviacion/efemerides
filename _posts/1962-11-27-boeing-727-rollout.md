@@ -69,8 +69,8 @@ El prototipo N7001U se conserva en el Museum of Flight (Seattle), como pieza emb
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias consultadas:** Boeing; Museum of Flight; Smithsonian NASM  
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** Boeing; Museum of Flight; Smithsonian NASM  
 - **Discrepancias resueltas:** Confirmación de matrícula y cronología rollout/primer vuelo  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

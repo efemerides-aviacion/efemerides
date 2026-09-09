@@ -160,8 +160,8 @@ El 25 de mayo de 1959 nació una pionera. El 16 de septiembre de 1982, Theresa C
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** Congressional Record (GovInfo), BlackPast.org, Wikipedia, ABC News (ABC13 Houston, ABC7 Chicago), National Aeronautic Association (Airport Improvement), Lubbock Avalanche-Journal
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** Congressional Record (GovInfo), BlackPast.org, Wikipedia, ABC News (ABC13 Houston, ABC7 Chicago), National Aeronautic Association (Airport Improvement), Lubbock Avalanche-Journal
 - **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (25 de mayo de 1959) en fuentes oficiales del Congreso y BlackPast. Verificación del hito como "primera mujer afroamericana piloto de la USAF" mediante el Registro del Congreso. Se ha verificado la fecha de graduación como piloto (16 de septiembre de 1982) en múltiples fuentes independientes.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales, incluyendo el Congreso de EE. UU., y medios de comunicación coinciden en los datos fundamentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

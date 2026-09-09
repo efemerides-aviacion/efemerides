@@ -151,8 +151,8 @@ El legado del Tu-88/Tu-16 es, por tanto, uno de los más longevos de la historia
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES), Airvectors, FAS, The National Interest
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Airvectors, FAS, The National Interest
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (27 de abril de 1952). El piloto fue N. S. Rybko (según fuentes rusas especializadas). La duración del primer vuelo (12 minutos) está documentada en fuentes de aviación rusas. La velocidad máxima alcanzada en pruebas fue de 1.020 km/h, superior a la prevista.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

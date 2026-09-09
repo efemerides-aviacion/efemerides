@@ -152,8 +152,8 @@ Shepard falleció el 21 de julio de 1998, a la edad de 74 años. Su legado perdu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** NASA (.gov), Wikipedia, Space Center Houston, Revista Hacia el Espacio (AEM), El Mundo
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** NASA (.gov), Wikipedia, Space Center Houston, Revista Hacia el Espacio (AEM), El Mundo
 - **Discrepancias resueltas:** La duración del vuelo varía entre 15 minutos 22 segundos (fuentes iniciales) y 15 minutos 28 segundos (datos más precisos del informe de vuelo). Se ha priorizado la cifra de 15 minutos 28 segundos, que es la más utilizada en las fuentes actualizadas. La altitud máxima es consistente en todas las fuentes (187,5 km).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

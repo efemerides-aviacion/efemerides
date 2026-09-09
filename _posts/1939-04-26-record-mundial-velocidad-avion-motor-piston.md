@@ -172,8 +172,8 @@ La marca de 755,14 km/h establecida por Wendel se mantuvo como el récord mundia
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** FAI (Fédération Aéronautique Internationale) - registro 8743, Wikipedia (EN/ES), This Day in Aviation, Flug Revue
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** FAI (Fédération Aéronautique Internationale) - registro 8743, Wikipedia (EN/ES), This Day in Aviation, Flug Revue
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (26 de abril de 1939) y en la velocidad (755,14 km/h). La potencia exacta del motor DB 601 ARJ varía según las fuentes (entre 1.800 y 2.300 hp). Se ha optado por la cifra más alta comúnmente citada en fuentes especializadas.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

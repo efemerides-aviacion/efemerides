@@ -107,8 +107,8 @@ El atentado contra el "Kashmir Princess" es recordado como uno de los primeros a
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (EN/ES), Aviation Safety Network
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Aviation Safety Network
 - **Discrepancias resueltas:** Ninguna. Todas las fuentes coinciden en los datos fundamentales: fecha (11 de abril de 1955), aeronave (Lockheed L-749A Constellation VT-DEP "Kashmir Princess"), víctimas (16 fallecidos, 3 supervivientes), causa (bomba del Kuomintang) y objetivo (Zhou Enlai).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”

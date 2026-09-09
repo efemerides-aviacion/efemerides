@@ -152,8 +152,8 @@ El ejemplo de Ana Luisa Branger demuestra que la pasión por volar no entiende d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-29 14:00:00 CST  
-- **Fuentes primarias consultadas:** FAI (Fédération Aéronautique Internationale) - registro oficial 10314, Aviation Week (30 de abril de 1951), Flying Magazine (agosto de 1950), Wikipedia (EN/ES), Venezolanos Ilustres, El Nacional, INAC Venezuela
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** FAI (Fédération Aéronautique Internationale) - registro oficial 10314, Aviation Week (30 de abril de 1951), Flying Magazine (agosto de 1950), Wikipedia (EN/ES), Venezolanos Ilustres, El Nacional, INAC Venezuela
 - **Discrepancias resueltas:** Se ha priorizado la cifra oficial de la FAI (8.276 m) sobre las cifras periodísticas dispares (28.820 y 26.820 pies) por ser la entidad certificadora del récord, con nota aclaratoria. El registro de la FAI describe la aeronave como «PA-18-150 Super Cub», designación de una variante posterior a 1951; se mantiene la identificación Piper PA-18 Super Cub, respaldada por la prensa de la época (Aviation Week, 30-abr-1951), y se precisa que el Cub Special con motor C-90-8F corresponde al récord de 1950. La fecha de nacimiento de Ana Luisa Branger no ha podido ser verificada con fuentes primarias, por lo que se omite del post o se presenta como no confirmada.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

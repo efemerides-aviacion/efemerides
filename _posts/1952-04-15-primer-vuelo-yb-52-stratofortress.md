@@ -142,8 +142,8 @@ El primer vuelo del YB-52 el 15 de abril de 1952 no fue solo el nacimiento de un
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, This Day in Aviation, Boeing Media Room, HistoryLink, PlaneTags, Museum of Flight, Air Force Historical Foundation
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, This Day in Aviation, Boeing Media Room, HistoryLink, PlaneTags, Museum of Flight, Air Force Historical Foundation
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre el XB-52 y el YB-52, y por qué el segundo voló primero. Se ha incorporado la matrícula (49-231) y la hora exacta del despegue (11:08) según la fuente de This Day in Aviation. No se encontraron datos confirmados sobre altitud y velocidad máxima alcanzadas en el primer vuelo, por lo que se omitieron o marcaron como no confirmados.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

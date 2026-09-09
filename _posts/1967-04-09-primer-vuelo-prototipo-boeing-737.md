@@ -96,8 +96,8 @@ El primer vuelo del Boeing 737 el 9 de abril de 1967 marcó el nacimiento del «
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** HistoryLink.org, Boeing Historical Snapshot, Wikipedia (EN/ES)
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** HistoryLink.org, Boeing Historical Snapshot, Wikipedia (EN/ES)
 - **Discrepancias resueltas:** Se ha verificado la matrícula N73700 y la fecha exacta del primer vuelo. La duración exacta del vuelo (2h 30min) es consistente en todas las fuentes. Se omite la controversia sobre el retraso por fusible por falta de confirmación oficial.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

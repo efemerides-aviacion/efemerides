@@ -70,8 +70,8 @@ El RA001 “City of Everett” se conserva en el Museum of Flight en Seattle. El
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** HistoryLink; Boeing Images; Vintage Aviation News; Boeing 747 INFO Central; Alamy  
+- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Fuentes primarias/institucionales consultadas:** HistoryLink; Boeing Images; Vintage Aviation News; Boeing 747 INFO Central; Alamy  
 - **Discrepancias resueltas:** Confirmación de duración del vuelo y tripulación.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
