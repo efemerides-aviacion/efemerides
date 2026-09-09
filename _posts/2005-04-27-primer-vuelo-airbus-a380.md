@@ -59,6 +59,8 @@ El A380 incorporó innovaciones tecnológicas sin precedentes. Fue el primer avi
 
 El primer vuelo del A380 fue un acontecimiento mediático global. El aeropuerto de Toulouse-Blagnac se llenó de unas 50.000 personas, entre empleados de Airbus, aficionados, periodistas y curiosos que acamparon para presenciar el evento. El ayuntamiento de Toulouse instaló una pantalla gigante en la plaza central para que los ciudadanos pudieran seguir el vuelo. El evento fue comparado con el primer vuelo del Concorde en 1969.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **Finales de los años 80:** Airbus comienza los estudios conceptuales de un avión de muy alta capacidad.
@@ -72,9 +74,7 @@ El primer vuelo del A380 fue un acontecimiento mediático global. El aeropuerto 
 - **27 de abril de 2025:** Se cumplió el 20º aniversario del primer vuelo del A380.
 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El primer vuelo: detalles del evento
+### El primer vuelo: detalles del evento
 
 El 27 de abril de 2005, bajo un cielo despejado en Toulouse, el prototipo del A380 (MSN001), con matrícula F-WWOW, estaba listo para su bautismo de vuelo.
 
@@ -155,7 +155,7 @@ El 27 de abril de 2005, el A380 despegó por primera vez. Más de dos décadas d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
+- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
 - **Fuentes primarias/institucionales consultadas:** Fly News, Airbus (comunicado oficial), Aviacionline, Wikipedia, BBC News, EL PAÍS, Aerospace Global News
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (27 de abril de 2005). La hora del despegue fue 10:29-10:30 (confirmado por múltiples fuentes). La duración del vuelo varía ligeramente (3h54m según SpaceNews, 3h52m según CARNOC); se incluye la discrepancia en la nota aclaratoria. El peso al despegue fue 421 toneladas (828.300 lb), no 420 o 430 como mencionan algunas fuentes.
 - **Nivel de confianza:** Alto

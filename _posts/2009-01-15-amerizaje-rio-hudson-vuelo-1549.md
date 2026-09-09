@@ -68,6 +68,8 @@ El Airbus A320 fue el primer avión comercial con controles de vuelo fly-by-wire
 ### Entorno cultural
 El "Milagro del Hudson" se convirtió en un fenómeno cultural global. Inspiró libros (la autobiografía de Sullenberger *Highest Duty*, publicada en español como *Sully: Hazaña en el Hudson*), documentales (National Geographic) y la película *Sully* (2016), dirigida por Clint Eastwood y protagonizada por Tom Hanks. El episodio fue recreado en la serie *Mayday: Catástrofes aéreas* (temporada 10, episodio 5, titulado "Hudson River Runway").
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Desarrollo Cronológico
 
 - **Antes del vuelo:** El Capitán Sullenberger y el Primer Oficial Skiles, en su primera asignación juntos, realizan la inspección prevuelo. Skiles acumulaba solo 37 horas en A320.
@@ -105,9 +107,7 @@ El "Milagro del Hudson" se convirtió en un fenómeno cultural global. Inspiró 
 
 El Airbus A320 N106US se exhibe en el **Sullenberger Aviation Museum** (anteriormente Carolinas Aviation Museum) en Charlotte, Carolina del Norte, junto a los motores originales y el tobogán utilizado en la evacuación. El avión conserva las marcas del impacto y los daños del agua, como testimonio de uno de los momentos más extraordinarios de la historia de la aviación. El Capitán Sullenberger, retirado en 2010, se convirtió en asesor de seguridad aérea, conferenciante y autor. El accidente sigue siendo el amerizaje más exitoso de un avión comercial sin víctimas mortales, un récord que perdura hasta hoy.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Discrepancias encontradas y resueltas
+### Discrepancias encontradas y resueltas
 
 - **Número de ocupantes:** Reportes iniciales del 15 de enero de 2009 mencionaban 148 pasajeros y 5 tripulantes (153 total). El informe final de la NTSB y Wikipedia confirman 150 pasajeros + 5 tripulantes = 155 total. Se adopta la cifra oficial de la NTSB.
 - **Duración del vuelo:** Algunas fuentes indican que el amerizaje ocurrió 6 minutos después del despegue. Los datos del FDR indican que el despegue fue a las 15:24:56 y el amerizaje a las 15:30:00, lo que da 5 minutos y 4 segundos. Se adopta esta última.
@@ -138,7 +138,7 @@ El Airbus A320 N106US se exhibe en el **Sullenberger Aviation Museum** (anterior
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), NTSB (informe oficial AAR-10/03), Aviation Safety Network, Britannica, SKYbrary
 - **Discrepancias resueltas:** Número de ocupantes (155, no 153); duración del vuelo (5 minutos, no 6); responsable de apertura de puerta trasera (no confirmado, se omite)
 - **Nivel de confianza:** Alto

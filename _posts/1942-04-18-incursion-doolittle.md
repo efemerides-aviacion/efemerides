@@ -56,6 +56,8 @@ El desafío técnico era enorme: ningún bombardero terrestre había despegado j
 
 La incursión combinó por primera vez de manera masiva fuerzas del Ejército (USAAF) y la Armada (US Navy) en una operación conjunta. El Capitán de Navío Francis Low fue quien propuso la idea al observar B-25 despegando desde una pista con forma de cubierta de portaaviones. El Teniente Henry L. Miller, de la Armada, entrenó a los pilotos del Ejército en despegues ultracortos (menos de 150 metros).
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **Enero de 1942:** El Capitán Francis Low propone la idea de bombardear Japón con B-25 desde un portaaviones.
@@ -72,9 +74,7 @@ La incursión combinó por primera vez de manera masiva fuerzas del Ejército (U
 - **Diciembre de 1943:** Muere en cautiverio el cuarto tripulante capturado (Meder).
 - **Agosto de 1945:** Los cuatro tripulantes sobrevivientes son liberados.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La Incursión: detalles clave
+### La Incursión: detalles clave
 
 La incursión del 18 de abril de 1942 fue una operación compleja que combinó audacia, improvisación técnica y un riesgo extremo. Desde el despegue anticipado debido al avistamiento por un patrullero japonés, hasta los aterrizajes de emergencia en China y la Unión Soviética, cada fase de la misión presentó desafíos únicos que pusieron a prueba la pericia de las tripulaciones y la solidez del plan concebido por Doolittle.
 
@@ -147,7 +147,7 @@ El último Doolittle Raider falleció en 2019 a la edad de 103 años. La hazaña
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
 - **Fuentes primarias/institucionales consultadas:** Naval History and Heritage Command (.mil), Air Force Materiel Command (.mil), Wikipedia (EN/ES/PT), National Museum of the USAF
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del 18 de abril de 1942. Existe una ligera variación en la distancia exacta del punto de lanzamiento (650-620 millas). Se ha priorizado la información del Naval History and Heritage Command (650 millas). También se ha aclarado la diferencia entre esta incursión y una misión de reconocimiento previa (15 de abril de 1942).
 - **Nivel de confianza:** Alto

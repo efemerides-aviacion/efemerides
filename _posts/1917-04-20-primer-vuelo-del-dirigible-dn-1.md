@@ -58,6 +58,8 @@ La construcción de dirigibles en Estados Unidos era prácticamente inexistente 
 
 La prensa de la época siguió con gran interés el desarrollo del DN-1, presentándolo como una maravilla tecnológica. Se construyó un hangar flotante especialmente diseñado en Pensacola, una estructura imponente de metal corrugado con cortinas de lona, que causó sensación. La escritora Mildred Cram, que visitó la base en 1916, describió al DN-1 como un "larguísimo perro salchicha amarillo", blando y esponjoso al tacto.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **1 de junio de 1915:** La US Navy firma contrato con Connecticut Aircraft Company para la construcción del DN-1.
@@ -70,9 +72,7 @@ La prensa de la época siguió con gran interés el desarrollo del DN-1, present
 - **29 de abril de 1917:** Tercer vuelo. Ese mismo día, mientras era remolcado sobre el agua, la aeronave sufrió daños irreparables.
 - **Mayo de 1917:** La Marina decide que el DN-1 no vale la pena repararlo y es desguazado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El DN-1: detalles técnicos y humanos
+### El DN-1: detalles técnicos y humanos
 
 El DN-1 fue una aeronave ambiciosa para su época, pero su diseño y construcción presentaron múltiples problemas. Desde sus dimensiones y materiales hasta su planta motriz y los intentos de vuelo, cada aspecto del dirigible revelaba las limitaciones técnicas y la falta de experiencia de la Marina de EE. UU. en el campo de las aeronaves más ligeras que el aire.
 
@@ -147,7 +147,7 @@ Hoy, el DN-1 es una nota al pie de página en la historia de la aviación naval,
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
 - **Fuentes primarias/institucionales consultadas:** Naval History and Heritage Command (.mil), U.S. Naval Institute, Wikipedia (EN), Patriots Point Museum, Connecticut History, Florida Department of State
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del primer vuelo (20 de abril de 1917). Algunas fuentes indican dos motores originales de 140 hp cada uno; otras indican 80 hp cada uno. Se ha priorizado la información del U.S. Naval Institute (140 hp). También hay discrepancia sobre si el DN-1 fue designado retrospectivamente como Clase A; la nota aclaratoria explica que esta designación nunca fue oficial durante su vida operativa.
 - **Nivel de confianza:** Alto

@@ -51,6 +51,8 @@ El Caudron G.3 era un biplano de entrenamiento francés diseñado en 1913. Tení
 
 La figura del aviador era entonces objeto de admiración popular. Los vuelos pioneros —como el de Alberto Braniff en México (1910) o los de los hermanos Wright en Estados Unidos— despertaban un enorme interés mediático. En Venezuela, la prensa de la época siguió con atención los progresos de la Escuela de Aviación Militar, y el vuelo de Ríos fue celebrado como una hazaña patriótica.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **6 de enero de 1897:** Nace Manuel Simón Ríos Hernández en Altagracia de Orituco, estado Guárico, Venezuela.
@@ -61,9 +63,7 @@ La figura del aviador era entonces objeto de admiración popular. Los vuelos pio
 - **21 de junio de 1928:** Es ascendido a capitán por sus méritos como instructor de vuelo y por su participación en raids aéreos, entre ellos el Maracay-Calabozo-Barinas-Barquisimeto realizado en ese mismo año.
 - **24 de abril de 1931:** Fallece trágicamente en un accidente aéreo en el Lago de Valencia mientras pilotaba un Farman 190. Sus restos descansan en el Cementerio de Altagracia de Orituco.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El primer vuelo en solitario
+### El primer vuelo en solitario
 
 El 15 de abril de 1921, el Subteniente Manuel Simón Ríos Hernández se convirtió en el primer alumno de la Escuela de Aviación Militar en volar solo. La fecha quedó registrada en su libreta de vuelo personal, un documento que ha sido conservado y que constituye la prueba primaria de este hito.
 
@@ -135,7 +135,7 @@ Su legado trasciende el hecho técnico: Ríos simboliza la voluntad venezolana d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
 - **Fuentes primarias/institucionales consultadas:** Libreta de Vuelo original del Capitán Manuel Simón Ríos Hernández, Coronel (AV) José Luis Ochoa Vargas, "Memoria y Cuenta del Ministerio de Guerra y Marina al 31 de diciembre de 1921"
 - **Discrepancias resueltas:** La fecha del primer vuelo en solitario ha sido corregida de 14 a 15 de abril de 1921, basándose en la evidencia documental de la libreta de vuelo del piloto, citada por el Coronel José Luis Ochoa Vargas. Se ha añadido información sobre el cadete Juan Yepes, quien también voló solo el mismo día.
 - **Nivel de confianza:** Alto (con fuentes primarias documentales)

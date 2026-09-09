@@ -68,6 +68,8 @@ El EGPWS (Enhanced Ground Proximity Warning System) estaba operativo, pero sus f
 ### Entorno cultural
 El episodio de Mayday titulado "28 Seconds to Survive" (temporada 12, episodio 12) documentó el accidente y destacó la confianza excesiva de los pilotos, que habían realizado esa ruta innumerables veces y subestimaron los procedimientos de seguridad. El título hace referencia a que la batería solo estuvo encendida 28 segundos antes de que los pilotos comenzaran a rodar (se necesitaban 60 segundos como mínimo, aunque lo recomendado eran 3 minutos) [cita: IMDb].
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Desarrollo Cronológico
 
 - **21 de febrero de 2008, antes del vuelo:** Los pilotos llegan con retraso a la aeronave (aproximadamente 30 minutos después de que los pasajeros hubieran abordado). En lugar de realizar las listas de chequeo pre-vuelo, se apresuran a encender motores.
@@ -96,9 +98,7 @@ El episodio de Mayday titulado "28 Seconds to Survive" (temporada 12, episodio 1
 
 El accidente del vuelo 518 de Santa Bárbara Airlines sigue siendo, hasta 2026, el accidente más mortífero de un ATR 42 en la historia de la aviación (empatado o superado por otros accidentes según las fuentes). El episodio "28 Seconds to Survive" de Mayday ha mantenido vivo el recuerdo de la tragedia y ha servido como herramienta educativa para pilotos de todo el mundo. La lección principal es que ningún piloto, por experimentado que sea, debe apresurarse a omitir los procedimientos de seguridad estándar. El accidente también evidencia la necesidad de sistemas de respaldo redundantes y de una supervisión más estricta de las aerolíneas que operan en entornos geográficos complejos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Discrepancias encontradas y resueltas
+### Discrepancias encontradas y resueltas
 
 - **Número de ocupantes:** Todas las fuentes coinciden en 46 (43 pasajeros + 3 tripulantes). Sin embargo, IMDb menciona "43 passengers" (43 pasajeros), lo que es consistente con las 3 tripulantes.
 - **Tiempo de inicialización del AHRS:** El informe de ASN indica que se necesitaban 3 minutos de estabilización. El episodio de Mayday menciona "60 segundos" como mínimo, pero que los pilotos solo dieron 28 segundos. No hay contradicción real: 60 segundos era el mínimo para una inicialización básica, 3 minutos era lo recomendado para una estabilización completa.
@@ -129,7 +129,7 @@ El accidente del vuelo 518 de Santa Bárbara Airlines sigue siendo, hasta 2026, 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
 - **Fuentes primarias/institucionales consultadas:** Aviation Safety Network, Wikipedia (ES), Simple Flying, IMDb, Plex
 - **Discrepancias resueltas:** Categoría corregida (aviacion-accidente); tiempo de inicialización AHRS aclarado (28 segundos vs 3 minutos); altitud de impacto confirmada (3.810 m)
 - **Nivel de confianza:** Alto

@@ -55,6 +55,8 @@ La Legión Cóndor, creada por el régimen nazi para intervenir en España, util
 
 El día del bombardeo era lunes, día de mercado, lo que aumentó la presencia de civiles (campesinos de los alrededores) agrupados en el centro urbano. Los testimonios de los sobrevivientes describen el ataque como una "lluvia de fuego" que duró horas, con aviones que volaban a baja altura ametrallando a quienes huían. El corresponsal del Times, George Steer, fue el primero en informar al mundo del ataque, describiendo "una ciudad en llamas durante tres horas" y "el espanto de la población civil". Su reportaje, publicado el 28 de abril de 1937 en el Times y en el New York Times, conmocionó a la opinión pública internacional.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **31 de marzo de 1937:** Bombardeo de Durango por la Legión Cóndor (250 víctimas), considerado un antecedente directo de Guernica.
@@ -65,9 +67,7 @@ El día del bombardeo era lunes, día de mercado, lo que aumentó la presencia d
 - **19:00 horas:** Última oleada. Cazas y aviones de asalto (Heinkel He 51, Fiat CR-32) ametrallan a los civiles que huyen por las carreteras y campos.
 - **19:40 horas:** Finaliza el ataque. Guernica arde durante tres días. El centro histórico (el 85-90% de los edificios) ha quedado reducido a escombros.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El bombardeo: desarrollo y características
+### El bombardeo: desarrollo y características
 
 El bombardeo de Guernica fue una operación cuidadosamente planificada, no un ataque accidental. Las fuerzas sublevadas conocían la ubicación y el significado simbólico de la villa.
 
@@ -149,7 +149,7 @@ El bombardeo de Guernica es recordado como un anticipo de los horrores que la av
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), Anne Frank Stichting, Fundación Museo de la Paz de Gernika, Ministerio de Cultura de España, WW2 Database, ACAMI
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (26 de abril de 1937) y el horario aproximado (16:20-19:40). El número de víctimas varía: el informe del Gobierno de Euzkadi cifró 1.654 muertos; investigaciones posteriores reducen la cifra a varios centenares. La mayoría de los historiadores actuales coinciden en que hubo centenares de víctimas civiles, aunque la cifra exacta sigue siendo debatida.
 - **Nivel de confianza:** Alto

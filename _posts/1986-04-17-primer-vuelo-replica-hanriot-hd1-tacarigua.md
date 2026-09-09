@@ -56,6 +56,8 @@ La Escuela Técnica de la FAV contaba con talleres especializados en la reparaci
 
 El proyecto “Hanriot HD-1-ET” fue presentado como un hito de la ingeniería venezolana. La réplica fue bautizada “Tacarigua” en honor a los pueblos indígenas de los Valles de Aragua, uniendo la historia precolombina con la tecnología aeronáutica. El avión se convirtió en un símbolo del orgullo nacional y de la capacidad de la FAV para emprender proyectos complejos.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **1916:** Diseño original del Hanriot HD.1 en Francia.
@@ -67,9 +69,7 @@ El proyecto “Hanriot HD-1-ET” fue presentado como un hito de la ingeniería 
 - **Década de 1990:** El avión es retirado de vuelos activos y se integra al “Escuadrón Legendario” para demostraciones aéreas estáticas.
 - **1994:** La aeronave es trasladada al Museo Aeronáutico de Maracay, donde permanece en exposición.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Proyecto Hanriot HD-1-ET “Tacarigua”
+### El Proyecto Hanriot HD-1-ET “Tacarigua”
 
 El proyecto Hanriot HD-1-ET “Tacarigua” nació como una iniciativa de la Escuela Técnica de la Fuerza Aérea Venezolana para construir una réplica a escala real de un caza histórico, utilizando planos originales de 1916 y técnicas artesanales. Más que un simple ejercicio de restauración, el proyecto buscaba demostrar la capacidad técnica de la institución, honrar la memoria de los pioneros de la aviación venezolana y crear una pieza de museo que volara por sí misma. El resultado fue una aeronave que combinaba la fidelidad histórica con adaptaciones modernas, como un motor Lycoming de 150 hp, y que se convirtió en un símbolo del orgullo aeronáutico nacional.
 
@@ -136,7 +136,7 @@ Hoy, el avión se encuentra en exposición en el Museo Aeronáutico de Maracay "
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST
+- **Timestamp de verificación:** 2026-09-09 14:11:11 CST
 - **Fuentes primarias/institucionales consultadas:** Aviación Civil, Wikimedia Commons, YouTube, Wikipedia, Flugzeuginfo, FavClubVen
 - **Discrepancias resueltas:** Se ha aclarado la existencia de un posible vuelo no oficial a finales de 1985, pero se ha priorizado la fecha del 17 de abril de 1986 como el primer vuelo oficial, por ser la más documentada y la que la Fuerza Aérea Venezolana conmemora.
 - **Nivel de confianza:** Alto

@@ -54,6 +54,8 @@ Los primeros turborreactores enfrentaban enormes problemas: materiales inadecuad
 
 El piloto de pruebas Fritz Wendel era una figura respetada en la industria aeronáutica alemana. Había establecido un récord mundial de velocidad en 1939 con un Messerschmitt Me 209 (755 km/h). Su habilidad y experiencia serían cruciales para domar una aeronave revolucionaria que, incluso en su configuración provisional, presentaba características inéditas.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **Abril de 1939:** Comienza el diseño del proyecto P.1065, futuro Me 262.
@@ -66,9 +68,7 @@ El piloto de pruebas Fritz Wendel era una figura respetada en la industria aeron
 - **Abril de 1944:** El Me 262 entra en servicio operativo con la Luftwaffe.
 - **Mayo de 1945:** Fin de la guerra en Europa; se capturan numerosos Me 262 por los Aliados.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El primer vuelo del 18 de abril de 1941: detalles técnicos y humanos
+### El primer vuelo del 18 de abril de 1941: detalles técnicos y humanos
 
 El 18 de abril de 1941 no fue el debut del primer caza a reacción del mundo, sino el primer paso en su tortuoso desarrollo.
 
@@ -150,7 +150,7 @@ El Me 262 sigue siendo un símbolo del avance tecnológico alemán durante la Se
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), National Museum of the USAF, Flug Revue, WarHistory.org
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre el primer vuelo con motor de pistón (18 de abril de 1941) y el primer vuelo con propulsión a reacción exitoso (18 de julio de 1942). También se ha documentado el intento fallido del 25 de marzo de 1942.
 - **Nivel de confianza:** Alto

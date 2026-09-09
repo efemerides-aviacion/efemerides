@@ -68,6 +68,8 @@ Ambas aeronaves eran biplanos de madera y tela. El Farman F.60 Goliath era un bo
 ### Entorno cultural
 Este accidente, al ser el primero de su tipo entre aviones comerciales, conmocionó a la opinión pública y a la incipiente industria de la aviación civil. Demostró que el crecimiento del tráfico aéreo traía consigo nuevos riesgos que requerían regulación.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Desarrollo Cronológico
 
 - **7 de abril de 1922, antes del vuelo:** El DH.18A G-EAWO despega de Croydon (Londres) con destino a Le Bourget (París), transportando solo correo y dos tripulantes. Simultáneamente, el Goliath F-GEAD despega de Le Bourget con destino a Croydon, con tres pasajeros, un piloto y un mecánico.
@@ -91,9 +93,7 @@ Este accidente, al ser el primero de su tipo entre aviones comerciales, conmocio
 
 La colisión de Picardía de 1922 es recordada como el primer accidente de su tipo entre dos aviones comerciales, un hito lúgubre en la historia de la seguridad aérea. Las lecciones aprendidas —reglas de vuelo estandarizadas, mejor visibilidad para los pilotos y uso de radio— sentaron las bases para la regulación del tráfico aéreo moderno. La "regla de la derecha" en el aire, aunque hoy complementada con sistemas avanzados como el TCAS (Sistema de Alerta de Tráfico y Evitación de Colisiones), tiene su origen en esta tragedia ocurrida hace más de un siglo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Discrepancias encontradas y resueltas
+### Discrepancias encontradas y resueltas
 
 - **Número de víctimas:** Todas las fuentes coinciden en 7 víctimas mortales. No hay discrepancia.
 - **Identidad del auxiliar:** Las fuentes coinciden en que era un joven de apellido Hesterman. No se especifica su nombre de pila.
@@ -123,7 +123,7 @@ La colisión de Picardía de 1922 es recordada como el primer accidente de su ti
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN, FR, NO), Aviation Safety Network, Guinness World Records
 - **Discrepancias resueltas:** No se encontraron discrepancias significativas entre las fuentes. Todos los datos clave coinciden.
 - **Nivel de confianza:** Alto
