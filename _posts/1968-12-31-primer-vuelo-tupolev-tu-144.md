@@ -70,8 +70,8 @@ Hoy se conservan varios Tu‑144 en museos de Rusia y Alemania. Es recordado com
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia; History.com; Vintage Aviation News  
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia; History.com; Vintage Aviation News  
 - **Discrepancias resueltas:** Variaciones en número de unidades construidas y hitos de servicio.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

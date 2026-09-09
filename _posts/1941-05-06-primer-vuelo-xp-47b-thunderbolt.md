@@ -187,8 +187,8 @@ El primer vuelo del XP-47B el 6 de mayo de 1941, con Brabham luchando contra el 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, Super Sabre Society, Onet.pl, American Air Museum, EAA Chapter 1541
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Super Sabre Society, Onet.pl, American Air Museum, EAA Chapter 1541
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (6 de mayo de 1941). El piloto fue Lowery Lawson Brabham (también escrito Lowry P. Brabham). La velocidad máxima alcanzada en pruebas fue de 663 km/h con el motor limitado por una culata agrietada. El prototipo fue destruido el 4 de agosto de 1942.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

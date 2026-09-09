@@ -168,8 +168,8 @@ Milburn G. Apt es recordado como un pionero de los vuelos hipersónicos, cuyo sa
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), NASA (.gov), Edwards Air Force Base (.mil), Kansas Historical Society (.gov), Infobae
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), NASA (.gov), Edwards Air Force Base (.mil), Kansas Historical Society (.gov), Infobae
 - **Discrepancias resueltas:**
   - Fecha de nacimiento: 8 de abril vs 9 de abril de 1924 → Se utiliza el 9 de abril (fecha mayoritariamente documentada en fuentes oficiales).
   - Velocidad exacta: 3.377 km/h (Mach 3,196) es la cifra más consistente entre las fuentes.

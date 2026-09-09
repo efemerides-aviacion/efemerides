@@ -138,8 +138,8 @@ Jean Pierre Blanchard es recordado como uno de los pioneros de la aviación, y s
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Smithsonian Air & Space, Wikipedia (EN/ES), History Hit, EBSCO, Infobae, Encyclopaedia Britannica
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Smithsonian Air & Space, Wikipedia (EN/ES), History Hit, EBSCO, Infobae, Encyclopaedia Britannica
 - **Discrepancias resueltas:**
   - Fecha: confirmada como 7 de enero de 1785 en todas las fuentes.
   - Lugar de aterrizaje: algunas fuentes citan "Calais" de manera genérica; otras especifican "bosque de Guînes". Se incluye la ubicación exacta.

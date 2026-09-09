@@ -101,8 +101,8 @@ El éxito del 707 forzó a Douglas a acelerar el desarrollo de su DC-8, que vol�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** This Day in Aviation, Wikipedia (EN/ES), Encyclopaedia Britannica, Simple Flying
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Wikipedia (EN/ES), Encyclopaedia Britannica, Simple Flying
 - **Discrepancias resueltas:** Confirmación de la fecha (20 de diciembre de 1957) para el primer vuelo de producción del Boeing 707-120. Algunas fuentes confunden el vuelo del prototipo 367-80 (1954) con el primer vuelo de producción.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -59,8 +59,8 @@ Madero es recordado no solo por su papel democrático, sino como el primer "Pres
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** Archivos SEDENA, Mediateca INAH.  
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Archivos SEDENA, Mediateca INAH.  
 - **Discrepancias resueltas:** Se confirmó la identidad del piloto y el modelo específico del monoplano.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

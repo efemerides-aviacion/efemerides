@@ -123,8 +123,8 @@ El Whittle Unit no fue un motor perfecto, pero fue el primero. Su éxito en Rugb
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias consultadas:** Grace's Guide, Wikipedia (ES/EN)
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Grace's Guide, Wikipedia (ES/EN)
 - **Discrepancias resueltas:** Algunas fuentes mencionan el 13 de abril como fecha de la prueba, pero la mayoría de las fuentes autorizadas confirman el 12 de abril de 1937. Se ha adoptado esta última.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

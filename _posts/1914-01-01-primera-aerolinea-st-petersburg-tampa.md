@@ -75,8 +75,8 @@ La creación de la St. Petersburg–Tampa Airboat Line respondió a la necesidad
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias consultadas:** IATA, Wikipedia, WUSF  
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** IATA, Wikipedia, WUSF  
 - **Discrepancias resueltas:** Duración exacta del servicio (confirmado: enero–mayo 1914).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

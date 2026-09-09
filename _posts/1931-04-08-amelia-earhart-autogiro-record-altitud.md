@@ -120,8 +120,8 @@ Hoy, el Pitcairn PCA-2 es recordado como el primer autogiro certificado en Estad
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (Pitcairn PCA-2), Explore PA History, California Revealed, Wikipedia Archive (Canada.ca)
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (Pitcairn PCA-2), Explore PA History, California Revealed, Wikipedia Archive (Canada.ca)
 - **Discrepancias resueltas:**
   - Altitud: 18,415 pies vs 18,400 vs 18,451 → Se optó por 18,415 pies (cifra más documentada, respaldada por el New York Times del 9 de abril de 1931)
   - Lugar: Bryn Athyn vs Willow Grove → Ambas localizaciones son correctas; el campo de Pitcairn estaba en Bryn Athyn, cerca de Willow Grove

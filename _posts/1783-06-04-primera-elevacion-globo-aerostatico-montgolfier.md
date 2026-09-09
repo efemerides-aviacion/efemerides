@@ -131,8 +131,8 @@ El 4 de junio de 1783 es una fecha fundacional en la historia de la aviación. E
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Agencia SINC, Encyclopaedia Britannica, TC Columbia Library, ACAMI
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Agencia SINC, Encyclopaedia Britannica, TC Columbia Library, ACAMI
 - **Discrepancias resueltas:** Confirmación de la fecha (4 de junio de 1783) en todas las fuentes. Verificación del diámetro del globo (11 m) y el volumen (770-800 m³). Aclaración de la altitud alcanzada (1.600-2.000 m).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

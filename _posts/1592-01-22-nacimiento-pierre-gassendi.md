@@ -132,8 +132,8 @@ Pierre Gassendi es recordado como una figura puente entre la ciencia antigua y l
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), Encyclopaedia Britannica, Stanford Encyclopedia of Philosophy, The Galileo Project, Linda Hall Library
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Encyclopaedia Britannica, Stanford Encyclopedia of Philosophy, The Galileo Project, Linda Hall Library
 - **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (22 de enero de 1592) en fuentes primarias. Ampliación del contexto histórico y los detalles experimentales sobre la medición de la velocidad del sonido.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

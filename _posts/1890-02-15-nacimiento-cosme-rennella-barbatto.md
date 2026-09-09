@@ -77,8 +77,8 @@ Recordado como pionero de la aviación en dos países, su nombre está asociado 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 19:02:40 CST  
-- **Fuentes primarias consultadas:** Wikipedia ES/EN, FAE Ecuador, AviacionCivil.com.ve, El Universo, Rodolfo Pérez Pimentel  
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia ES/EN, FAE Ecuador, AviacionCivil.com.ve, El Universo, Rodolfo Pérez Pimentel  
 - **Discrepancias resueltas:** Variación en la grafía del apellido (Rennella/Renella); confirmación de fecha de nacimiento (15/02/1890) y fallecimiento (27/05/1938).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

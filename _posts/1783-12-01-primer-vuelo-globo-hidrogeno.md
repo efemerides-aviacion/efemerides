@@ -142,8 +142,8 @@ El vuelo de Charles y Robert es considerado el nacimiento del globo de gas moder
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN), National Geographic, RTVE, MeisterDrucke, Encyclopaedia Britannica
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), National Geographic, RTVE, MeisterDrucke, Encyclopaedia Britannica
 - **Discrepancias resueltas:**
   - Altitud del segundo ascenso: entre 3,000 y 3,500 metros según fuentes; se incluye el rango.
   - Identificación del acompañante: se confirma que fue Nicolas-Louis Robert, no Anne-Jean Robert.

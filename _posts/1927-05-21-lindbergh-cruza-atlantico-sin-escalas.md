@@ -102,8 +102,8 @@ La figura del «aviador-heroe» dominaba la cultura popular. Sin embargo, la may
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Smithsonian NASM, Britannica, Wikipedia (ES/EN), IMER
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Smithsonian NASM, Britannica, Wikipedia (ES/EN), IMER
 - **Discrepancias resueltas:** Confirmación de la distancia (5.810 km) y la duración (33h 30min) frente a otras fuentes que citan 33,5h o 33h 29m.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

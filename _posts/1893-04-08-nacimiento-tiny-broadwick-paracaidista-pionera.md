@@ -153,8 +153,8 @@ Tiny Broadwick es recordada como la **"Primera Dama del Paracaidismo"** (First L
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-17 17:31:53 CST
-- **Fuentes primarias consultadas:** National Air and Space Museum (Smithsonian), NCpedia/State Archives of North Carolina, NC DNCR (.gov), Museum of Women Pilots, Wikipedia (EN/PT), Parachutist Magazine
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST
+- **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (Smithsonian), NCpedia/State Archives of North Carolina, NC DNCR (.gov), Museum of Women Pilots, Wikipedia (EN/PT), Parachutist Magazine
 - **Discrepancias resueltas:**
   - Fecha del primer salto desde avión: 1912 vs 1913 → Se optó por 21 de junio de 1913 (fecha más citada), con nota aclaratoria.
   - Estatura: 1.42 m (4'8") según Wikipedia EN; 1.5 m (5') según Smithsonian → Se incluye el rango.

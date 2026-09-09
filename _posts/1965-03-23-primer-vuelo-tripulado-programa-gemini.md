@@ -108,8 +108,8 @@ La misión Gemini 3 es recordada por varios hitos:
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 19:10:00 CST  
-- **Fuentes primarias consultadas:** NASA (página oficial, galerías, transcripciones), Wikipedia (ES/EN), Smithsonian, Spaceline, medios generales  
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** NASA (página oficial, galerías, transcripciones), Wikipedia (ES/EN), Smithsonian, Spaceline, medios generales  
 - **Discrepancias resueltas:** Se aclaró en nota específica el incidente del sándwich y sus consecuencias reglamentarias, sin controversias mayores en los datos técnicos.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

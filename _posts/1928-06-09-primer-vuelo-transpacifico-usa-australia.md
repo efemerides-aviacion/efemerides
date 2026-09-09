@@ -153,8 +153,8 @@ Charles Kingsford Smith es recordado como uno de los más grandes pioneros de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Wikipedia, Britannica, National Museum of Australia, Smithsonian, State Library of Queensland
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, Britannica, National Museum of Australia, Smithsonian, State Library of Queensland
 - **Discrepancias resueltas:** Confirmación de la fecha de llegada (9 de junio de 1928) y de partida (31 de mayo de 1928). Verificación de la distancia (11.585 km) y la duración (83 horas y 38 minutos). Aclaración de los roles de la tripulación y corrección de la información sobre las sillas de mimbre. Adición de fechas de fallecimiento de Lyon y Warner.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

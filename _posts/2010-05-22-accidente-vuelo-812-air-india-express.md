@@ -135,8 +135,8 @@ El accidente del vuelo 812 de Air India Express sigue siendo uno de los más mor
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 20:30:00 CST  
-- **Fuentes primarias consultadas:** FlightGlobal, The Indian Express (investigación original), The Economic Times, The Week, Wikipedia (ES), Aviation Safety Network, BBC Mundo
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** FlightGlobal, The Indian Express (investigación original), The Economic Times, The Week, Wikipedia (ES), Aviation Safety Network, BBC Mundo
 - **Discrepancias resueltas:** Confirmación de la duración del sueño del capitán (1h 40min vs 1h 28min en CVR registrada). Verificación de que el radar de Mangalore estaba fuera de servicio como factor contribuyente. El número de víctimas (158) es consistente en todas las fuentes oficiales.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

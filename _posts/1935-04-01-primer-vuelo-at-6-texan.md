@@ -114,8 +114,8 @@ El North American AT-6 Texan es considerado por muchos historiadores como el mej
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-17 18:12:15 CST  
-- **Fuentes primarias consultadas:** Wikipedia, AMILARG, Air & Space Magazine, National Museum of the USAF, Smithsonian, T6 Harvard, Air Vectors, Warbird Registry, entre otras.  
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia, AMILARG, Air & Space Magazine, National Museum of the USAF, Smithsonian, T6 Harvard, Air Vectors, Warbird Registry, entre otras.  
 - **Discrepancias resueltas:** Se ha clarificado que el primer vuelo fue del NA-16 y no del AT-6 propiamente dicho, explicando la evolución del diseño.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”

@@ -105,8 +105,8 @@ Hoy en día, la hazaña de 1931 de Wiley Post y Harold Gatty es celebrada como u
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-08-18 19:45:00 CST  
-- **Fuentes primarias consultadas:** Archivos oficiales del Smithsonian National Air and Space Museum (NASM), registros oficiales de la National Aeronautic Association (NAA), bitácoras de vuelo del Lockheed Model 5C Vega Winnie Mae de julio de 1931, y artículos biográficos históricos de la AOPA
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Archivos oficiales del Smithsonian National Air and Space Museum (NASM), registros oficiales de la National Aeronautic Association (NAA), bitácoras de vuelo del Lockheed Model 5C Vega Winnie Mae de julio de 1931, y artículos biográficos históricos de la AOPA
 - **Discrepancias resueltas:** Se precisó que el punto de despegue y aterrizaje de la travesía de 1931 fue Roosevelt Field, y no Floyd Bennett Field, terminal aérea utilizada posteriormente por Post en su vuelo en solitario de 1933.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

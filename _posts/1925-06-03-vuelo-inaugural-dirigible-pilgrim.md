@@ -150,8 +150,8 @@ La góndola del Pilgrim, en el Smithsonian, es un testimonio de la era dorada de
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Smithsonian NASM, Blimpinfo, Goodyear, Airways Magazine, Wikipedia
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Smithsonian NASM, Blimpinfo, Goodyear, Airways Magazine, Wikipedia
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (3 de junio de 1925) en todas las fuentes. Verificación de los datos operativos (4.765 vuelos, 5.355 pasajeros, 2.880 horas). Aclaración del uso de hidrógeno en los primeros vuelos.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

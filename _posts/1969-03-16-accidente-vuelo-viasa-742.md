@@ -111,8 +111,8 @@ El vuelo 742 de Viasa permanece en la memoria colectiva de Venezuela como "La tr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias consultadas:** Wikipedia (ES/EN/PT), El Diario, El Zuliano Rajao, Vadeaviones, YankeeVictor400, Diario República, Diario Versión Final, Aviation Safety Network  
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN/PT), El Diario, El Zuliano Rajao, Vadeaviones, YankeeVictor400, Diario República, Diario Versión Final, Aviation Safety Network  
 - **Discrepancias resueltas:** Se aclaró en nota específica la participación de Avensa como propietaria de la aeronave y de la tripulación de vuelo, y la razón por la que el accidente es históricamente atribuido a Viasa.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -143,8 +143,8 @@ El 5 de junio de 1909 quedó grabado en la historia de la aviación como el día
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias consultadas:** Auckland Star (1909), Scientific American (1909), Media Storehouse, The Engineer, Encyclopédie Universalis
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Auckland Star (1909), Scientific American (1909), Media Storehouse, The Engineer, Encyclopédie Universalis
 - **Discrepancias resueltas:** Confirmación de la fecha exacta (5 de junio de 1909) frente a la mención errónea del 8 de junio en algunas fuentes. Verificación de la duración exacta (1h 7m 37s). Aclaración del contexto técnico entre monoplanos y biplanos.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

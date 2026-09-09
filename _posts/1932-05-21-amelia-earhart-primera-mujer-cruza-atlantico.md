@@ -97,8 +97,8 @@ El Lockheed Vega 5B de Earhart se exhibe en el Museo Nacional del Aire y el Espa
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-19 16:10:00 CST  
-- **Fuentes primarias consultadas:** Smithsonian NASM (colección y artículo editorial), Wikipedia (ES), Biografías y Vidas, RTVE
+- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Fuentes primarias/institucionales consultadas:** Smithsonian NASM (colección y artículo editorial), Wikipedia (ES), Biografías y Vidas, RTVE
 - **Discrepancias resueltas:** Confirmación de la duración del vuelo (14h 56min) frente a fuentes que redondean a 15h. Verificado el lugar exacto de aterrizaje (Culmore, cerca de Derry) y no la ciudad de París como plan original.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
