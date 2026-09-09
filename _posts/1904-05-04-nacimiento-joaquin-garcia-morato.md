@@ -171,7 +171,7 @@ La trágica ironía de su muerte, apenas tres días después del fin de la guerr
 
 Hoy, más de 85 años después de su muerte, Joaquín García-Morato sigue siendo el piloto español con más derribos confirmados en la historia, una leyenda viva de la aviación española.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la distribución de las victorias:</strong> De sus 40 victorias confirmadas, 4 las obtuvo volando un Heinkel He 51 y las 36 restantes con el Fiat CR.32 "Chirri". Durante la guerra derribó aviones de origen francés (Nieuport-Delage NiD 52, Potez 540), británico (Hawker Fury, Vickers Vildebeest) y soviético (Polikarpov I-15 "Chato", Polikarpov I-16 "Mosca" o "Rata", Polikarpov R-Z "Natasha", Tupolev SB-2 "Katiuska").</p>
@@ -198,7 +198,7 @@ Hoy, más de 85 años después de su muerte, Joaquín García-Morato sigue siend
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Biplane Fighter Aces, Museo Aviación Militar Española, Apuntes sobre la marcha
 - **Discrepancias resueltas:** La fecha de nacimiento (4 de mayo de 1904) es consistente en todas las fuentes. La fecha de concesión de la Laureada varía entre el 12 de mayo de 1937 y el 25 de mayo de 1937; se ha priorizado la primera. El número de victorias (40) es consistente. La distribución de victorias entre el Heinkel He 51 y el Fiat CR.32 está documentada en fuentes especializadas.
 - **Nivel de confianza:** Alto

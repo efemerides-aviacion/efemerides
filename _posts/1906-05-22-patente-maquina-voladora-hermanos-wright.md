@@ -109,7 +109,7 @@ La patente N.º 821.393 es uno de los documentos más importantes de la historia
   </ul>
 </div>
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una discrepancia histórica sobre la fecha exacta del primer vuelo motorizado de los Wright (17 de diciembre de 1903) y la fecha de concesión de la patente (22 de mayo de 1906). La solicitud fue presentada el 23 de marzo de 1903, nueve meses antes del vuelo de Kitty Hawk. Esto demuestra que los Wright ya habían resuelto el problema del control antes de volar con motor. La demora de más de tres años en la concesión se debió al escepticismo inicial de los examinadores de patentes.</p>
@@ -118,7 +118,7 @@ La patente N.º 821.393 es uno de los documentos más importantes de la historia
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** WIPO, Google Patents, Psychology of Invention, Wikisource, Actualidad Aeroespacial, OEPM
 - **Discrepancias resueltas:** Confirmación de que la solicitud de patente es anterior (marzo de 1903) al primer vuelo motorizado (diciembre de 1903), lo que demuestra que los Wright priorizaron proteger su sistema de control antes de demostrarlo públicamente.
 - **Nivel de confianza:** Alto

@@ -134,7 +134,7 @@ Hoy, varios VC10 se conservan en museos del Reino Unido, incluyendo el Brookland
 
 El 20 de septiembre de 2013, la RAF retiró el último VC10 en servicio activo, poniendo fin a más de 50 años de historia operativa de este icónico avión británico .
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el Certificado de Aeronavegabilidad:</strong> Las fuentes presentan una ligera discrepancia en la fecha del certificado: algunas indican el 22 de abril de 1964, otras el 23 de abril de 1964. La mayoría de las fuentes coinciden en que el primer vuelo comercial fue el 29 de abril de 1964 .</p>
@@ -161,7 +161,7 @@ El 20 de septiembre de 2013, la RAF retiró el último VC10 en servicio activo, 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), London Air Travel, VC10.net, Alamy
 - **Discrepancias resueltas:** La fecha del Certificado de Aeronavegabilidad varía entre el 22 y 23 de abril de 1964; se ha priorizado el 23 de abril. El primer vuelo comercial fue el 29 de abril de 1964 confirmado por todas las fuentes. El avión G-ARVJ (c/n 812) fue el primero en operar la ruta Londres-Lagos.
 - **Nivel de confianza:** Alto

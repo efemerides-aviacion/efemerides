@@ -114,7 +114,7 @@ La Aeromarine Plane and Motor Company desapareció como fabricante a mediados de
 
 El concepto de conectar ciudades costeras mediante hidroaviones, iniciado en Nueva York y Atlantic City, fue luego replicado en otras rutas como Miami-Nassau, Detroit-Cleveland, y en el servicio de la compañía a través del Lago Erie, demostrando la viabilidad del transporte aéreo regional. La experiencia de Aeromarine inspiraría a otros empresarios, incluyendo a Juan Trippe, fundador de Pan American World Airways, que adoptó muchos de los modelos de negocio inaugurados por Aeromarine.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre los inicios comerciales de Aeromarine:</strong> Si bien el vuelo del 3 de mayo de 1919 se considera el primer vuelo comercial entre dos estados de EE. UU. con pasajeros pagadores, Aeromarine West Indies Airways fue fundada formalmente en 1920. El servicio regular de Aeromarine Airways entre Nueva York y Atlantic City comenzó en 1921. El vuelo de 1919 fue un evento inaugural y demostrativo, no el inicio de un servicio regular.</p>
@@ -142,7 +142,7 @@ El concepto de conectar ciudades costeras mediante hidroaviones, iniciado en Nue
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** La Nación, Wikipedia (ES/EN), HandWiki, Time Magazine Archive, UNT Digital Library
 - **Discrepancias resueltas:** No se encontraron discrepancias mayores entre las fuentes. El Aeromarine 50 voló por primera vez en 1919 y fue utilizado en la ruta Nueva York-Atlantic City, donde operaba el servicio más establecido en 1921. La fecha del 3 de mayo de 1919 corresponde al vuelo inaugural de Aeromarine, reconocido como el primero en transportar pasajeros pagadores entre dos estados.
 - **Nivel de confianza:** Alto

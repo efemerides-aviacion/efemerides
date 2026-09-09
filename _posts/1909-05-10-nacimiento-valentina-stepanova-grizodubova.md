@@ -132,7 +132,7 @@ Valentina Grizodúbova, la "Amelia Earhart soviética", fue una pionera, una her
 
 Falleció en Moscú el 28 de abril de 1993, a la edad de 83 años. Fue enterrada con todos los honores en el cementerio de Novodévichi. Su legado perdura en una estatua en su honor frente al número 34 del bulevar Kutuzovsky en Moscú, y en numerosas calles que llevan su nombre en ciudades de la antigua Unión Soviética.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha de nacimiento:</strong> Existe una pequeña discrepancia en las fuentes sobre la fecha de nacimiento de Valentina Grizodúbova. Según el calendario juliano, en uso en el Imperio Ruso hasta 1918, nació el 27 de abril de 1909. Tras la adopción del calendario gregoriano, la fecha pasó a ser el 10 de mayo de 1909. Algunas fuentes occidentales, que a menudo utilizan fechas del calendario ajeno, citan erróneamente fechas como el 31 de enero de 1910. Esta efeméride se basa en la fecha oficial gregoriana reconocida por las autoridades rusas y la Wikipedia, que es el <strong>10 de mayo de 1909</strong>.</p>
@@ -162,7 +162,7 @@ Falleció en Moscú el 28 de abril de 1993, a la edad de 83 años. Fue enterrada
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST
 - **Fuentes primarias/institucionales consultadas:** GBUMAC (fuente rusa oficial), FAI (Fédération Aéronautique Internationale), Wikipedia (EN/IT/ES), Biblioclub Encyclopedia
 - **Discrepancias resueltas:** La fecha de nacimiento está documentada como 10 de mayo de 1909 en el calendario gregoriano, que es la fecha oficial. Algunas fuentes occidentales pueden mostrar el 31 de enero de 1910 por diferencias en la conversión del calendario o errores. Sobre los récords, fuentes rusas oficiales (GBUMAC) confirman 5 récords en 1937 (en UT-1, UT-2 y AIR-12), mientras fuentes occidentales (FAI, Wikipedia) registran 7 récords totales. Grizodúbova fue la primera mujer en recibir el título de Héroe de la Unión Soviética, junto con su tripulación. Falleció el 28 de abril de 1993.
 - **Nivel de confianza:** Alto

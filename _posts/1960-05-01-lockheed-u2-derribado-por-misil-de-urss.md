@@ -171,7 +171,7 @@ Francis Gary Powers regresó a Estados Unidos en 1962. Fue recibido con frialdad
 
 Los restos del U-2 que Powers pilotaba se exhiben hoy en el Museo Central de la Fuerza Aérea Rusa en Monino (cerca de Moscú). El Capitán Sergei Safronov fue condecorado póstumamente con la Orden de la Bandera Roja. Su muerte no fue revelada al público hasta mayo de 1990, durante la era de la glasnost.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el derribo del MiG-19:</strong> El misil que derribó al MiG-19 del Capitán Safronov provino de la misma salva de misiles S-75 lanzada contra el U-2 de Powers. Los transpondedores IFF de los MiG no habían sido cambiados a los nuevos códigos de mayo debido al feriado del 1 de mayo, por lo que el sistema de defensa aérea los identificó como objetivos hostiles.</p>
@@ -198,7 +198,7 @@ Los restos del U-2 que Powers pilotaba se exhiben hoy en el Museo Central de la 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Aviation Week, Super Sabre Society, Los Angeles Times, BBC
 - **Discrepancias resueltas:** Las fuentes confirman que el derribo del MiG-19 fue por fuego amigo de la misma salva de misiles. Powers se eyectó después de que su avión fuera alcanzado. El intercambio de Powers por Abel ocurrió el 10 de febrero de 1962.
 - **Nivel de confianza:** Alto

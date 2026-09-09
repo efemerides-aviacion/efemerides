@@ -135,7 +135,7 @@ El hecho de que un diseño que voló por primera vez en 1958 siguiera siendo un 
 
 Hoy, varios Buccaneers se conservan en museos del Reino Unido y Sudáfrica, recordando a las nuevas generaciones la era del ataque a baja altitud y el ingenio de la ingeniería aeronáutica británica. El apodo "Banana Jet" perdura como un afectuoso recordatorio de este avión único y característico.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el lugar del primer vuelo:</strong> Las fuentes presentan una discrepancia en el lugar del primer vuelo. La mayoría de las fuentes, incluyendo el fabricante BAE Systems, indican RAE Bedford. Algunas fuentes secundarias mencionan Boscombe Down. Se ha priorizado la información de BAE Systems por ser la fuente del fabricante.</p>
@@ -162,7 +162,7 @@ Hoy, varios Buccaneers se conservan en museos del Reino Unido y Sudáfrica, reco
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), BAE Systems, Global Security, 1000 Aircraft Photos
 - **Discrepancias resueltas:** La fecha del primer vuelo es consistente (30 de abril de 1958). El lugar del primer vuelo presenta una discrepancia (RAE Bedford vs Boscombe Down); se ha priorizado RAE Bedford por ser la fuente del fabricante. El piloto fue Derek Whitehead. El número de unidades construidas fue 211.
 - **Nivel de confianza:** Alto

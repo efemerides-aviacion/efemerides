@@ -159,7 +159,7 @@ La investigación del accidente impulsó el desarrollo de procedimientos de segu
 
 Hoy, el legado del Hindenburg perdura como un recordatorio de los riesgos inherentes a la exploración tecnológica y de cómo la búsqueda del progreso a veces se enfrenta a consecuencias trágicas e imprevistas.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las cifras de víctimas:</strong> Las fuentes coinciden en 35 fallecidos a bordo (13 pasajeros y 22 tripulantes) y un miembro de la cuadrilla de tierra fallecido, totalizando 36 víctimas. 62 personas sobrevivieron, la mayoría con quemaduras graves.</p>
@@ -185,7 +185,7 @@ Hoy, el legado del Hindenburg perdura como un recordatorio de los riesgos inhere
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** World History Encyclopedia, Wikipedia, Britannica, National Archives, The Spectator
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha (6 de mayo de 1937), lugar (Lakehurst), número de víctimas fatales (36) y duración del incendio (32 segundos). La transmisión de Herb Morrison fue grabada, no transmitida en vivo.
 - **Nivel de confianza:** Alto

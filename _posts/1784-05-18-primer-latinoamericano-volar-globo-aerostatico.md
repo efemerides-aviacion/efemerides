@@ -105,7 +105,7 @@ El 18 de mayo de 1784, José María Alfaro Guiles se elevó sobre los valles de 
 
 Hoy, en el lugar donde Alfaro despegó, se levanta un monumento conmemorativo en la ciudad de Xalapa. El Vivero "Los Berros", en la colonia del mismo nombre, conserva la memoria del hombre que se atrevió a volar cuando la aeronáutica aún estaba en pañales. La historia de José María Alfaro es un recordatorio de que la curiosidad y la innovación no conocen fronteras, y que América Latina también tiene sus pioneros en la conquista del cielo.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la primacía del vuelo:</strong> Aunque fuentes locales en Xalapa afirman que el vuelo de José María Alfaro fue el "primer vuelo en globo de América", es importante contextualizar que el primer vuelo en globo del continente americano podría haber ocurrido antes en otras latitudes (por ejemplo, en Brasil o Estados Unidos) según distintas interpretaciones históricas. Sin embargo, el vuelo de Alfaro el 18 de mayo de 1784 está documentado en la Gazeta de México y por historiadores locales, y ocurrió apenas seis meses después del primer vuelo tripulado de los Montgolfier (21 de noviembre de 1783). Lo que es indiscutible es que Alfaro fue el primer latinoamericano (hispanohablante) en volar en globo, y uno de los primeros en el mundo.</p>
@@ -131,7 +131,7 @@ Hoy, en el lugar donde Alfaro despegó, se levanta un monumento conmemorativo en
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 09:15:00 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** HNDM-UNAM (portal de la Gazeta de México); Diario de Xalapa / Rivera Cambas vía prensa local
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (18 de mayo de 1784). Las medidas del globo varían ligeramente (10 metros de altura vs. 18 varas de diámetro). Se ha optado por incluir ambas referencias en las notas aclaratorias.
 - **Nivel de confianza:** Alto

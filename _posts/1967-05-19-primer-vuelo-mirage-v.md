@@ -67,7 +67,7 @@ La relación franco-israelí era especialmente estrecha en el ámbito de la defe
 
 El primer vuelo del Mirage V el 19 de mayo de 1967 es más que un simple hito en la cronología de Dassault. Marcó el inicio de una nueva filosofía en el diseño de aeronaves militares: la de optimizar una célula probada para una misión principal de ataque terrestre, sacrificando la complejidad polivalente en aras de la simplicidad, el alcance y la carga de combate. Su historia está indisolublemente ligada a la geopolítica de Oriente Medio, y el embargo que sufrió dio origen, paradójicamente, a la industria aeronáutica independiente de Israel. Con más de 50 años de servicio en múltiples fuerzas aéreas, el Mirage V es testimonio de la robustez y el acierto del diseño original de Dassault, consolidándose como un clásico de la aviación militar de la segunda mitad del siglo XX.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Esta efeméride no incluye el nombre del piloto de pruebas en la sección "Datos verificados del evento" debido a que no se pudo confirmar fehacientemente quién realizó el primer vuelo. La documentación oficial de Dassault Aviation atribuye el vuelo a Hervé Leprince-Ringuet, pero el archivo histórico del fabricante carece de una declaración explícita al respecto. Otras fuentes mencionan a Jean-Marie Saget, quien fue jefe de pilotos de pruebas de Dassault y participó en los ensayos de todos los aviones de combate de la compañía. Ante la ausencia de confirmación concluyente, se ha optado por omitir el nombre del piloto, aplicando el principio editorial de que la omisión es preferible a la inclusión de un dato no verificado.</p>
 </div>
@@ -87,7 +87,7 @@ El primer vuelo del Mirage V el 19 de mayo de 1967 es más que un simple hito en
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** Global Security, Wikipedia (ES/EN), Dassault Aviation, Military Wiki
 - **Discrepancias resueltas:** La numeración (Mirage V vs Mirage 5) es consistente en todas las fuentes; las fuentes coinciden en la fecha del 19 de mayo de 1967.
 - **Nivel de confianza:** Alto

@@ -131,7 +131,7 @@ En 2020, el GPS cumplió 25 años de operación plena. La Fuerza Espacial de Est
 
 Con más de 30 satélites operativos en la actualidad (incluyendo los modernos GPS III), el sistema sigue evolucionando con nuevas señales civiles (L2C, L5) y mayor precisión. El legado del GPS es la transformación de la navegación y la sincronización global, un logro tecnológico que ha cambiado el mundo.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha del FOC:</strong> Existen dos fechas clave para la capacidad operativa plena del GPS: el <strong>27 de abril de 1995</strong>, cuando el sistema cumplió técnicamente todos los requisitos de rendimiento con 24 satélites en órbita, y el <strong>17 de julio de 1995</strong>, cuando la Fuerza Aérea de EE. UU. realizó el anuncio público formal. Esta efeméride conmemora la fecha técnica, que es la reconocida como el inicio de la operación plena del sistema.</p>
@@ -158,7 +158,7 @@ Con más de 30 satélites operativos en la actualidad (incluyendo los modernos G
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** GPS World, USCG Navigation Center, Royal Institute of Navigation, US Navy (.mil), DVIDS (.mil)
 - **Discrepancias resueltas:** Las fuentes coinciden en que la declaración técnica de FOC ocurrió el 27 de abril de 1995, con el anuncio público formal el 17 de julio de 1995. La capacidad operativa inicial (IOC) fue declarada el 8 de diciembre de 1993. El General Thomas S. Moorman Jr. fue quien declaró el hito en 1995.
 - **Nivel de confianza:** Alto

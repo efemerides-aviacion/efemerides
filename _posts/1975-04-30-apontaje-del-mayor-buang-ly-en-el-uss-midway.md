@@ -122,7 +122,7 @@ El Bird Dog sigue siendo una de las piezas más visitadas del Museo Nacional de 
 
 La frase de Chambers —"Mi abuela me susurraba al oído: 'Mira, idiota, no te enseñé a estar a cargo de nada y dejar que mujeres y niños se ahogaran'"— resume su filosofía: la vida humana siempre debe ser lo primero .
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha del apontaje:</strong> El apontaje del Bird Dog ocurrió el <strong>30 de abril de 1975</strong>, durante las horas finales de la Operación Frequent Wind .</p>
@@ -148,7 +148,7 @@ La frase de Chambers —"Mi abuela me susurraba al oído: 'Mira, idiota, no te e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** DVIDS, Naval History and Heritage Command, First Coast News, USS Midway Museum, Wikipedia
 - **Discrepancias resueltas:** La fecha del apontaje es el 30 de abril de 1975. Chambers se convirtió en el primer afroamericano en comandar un portaaviones en 1974, antes del apontaje. El avión se conserva en el Museo Nacional de Aviación Naval en Pensacola, Florida.
 - **Nivel de confianza:** Alto

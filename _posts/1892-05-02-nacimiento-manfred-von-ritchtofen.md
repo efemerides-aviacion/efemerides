@@ -149,7 +149,7 @@ La controversia sobre su muerte sigue siendo objeto de debate entre historiadore
 
 En 1925, el cuerpo de Richthofen fue exhumado y enterrado nuevamente en Berlín. Más tarde, fue exhumado nuevamente y enterrado en la tumba privada de la familia Richthofen en Wiesbaden. Hoy, su nombre está inscrito en la historia de la aviación, y su imagen (el piloto con el avión rojo) sigue siendo reconocible en todo el mundo, más de un siglo después de su muerte.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la controversia de su muerte:</strong> La muerte de Manfred von Richthofen sigue siendo objeto de debate. Aunque el capitán canadiense Roy Brown fue oficialmente acreditado con el derribo, la mayoría de las investigaciones modernas apuntan al fuego antiaéreo australiano como la causa más probable. El médico M. Geoffrey Miller, especialista en el caso, concluyó que "es más que probable que fuera Popkin quien disparó el tiro fatal".</p>
@@ -178,7 +178,7 @@ En 1925, el cuerpo de Richthofen fue exhumado y enterrado nuevamente en Berlín.
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Britannica, Air & Space Forces Magazine, Ellsworth AFB (.mil), Australian War Memorial, San Diego Air & Space Museum
 - **Discrepancias resueltas:** La fecha de nacimiento es consistente en todas las fuentes (2 de mayo de 1892). La controversia sobre su muerte está documentada; se presentan ambas teorías (Cap. Brown y fuego antiaéreo australiano) con la evidencia disponible. La mayoría de las victorias (80) es confirmada por todas las fuentes. La herida de cabeza sufrida el 6 de julio de 1917 es relevante para entender su error de juicio final.
 - **Nivel de confianza:** Alto

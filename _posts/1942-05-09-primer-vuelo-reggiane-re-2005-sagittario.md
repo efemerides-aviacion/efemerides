@@ -164,7 +164,7 @@ El historiador Bill Gunston lo calificó como uno de los mejores aviones de la S
 
 Hoy, ningún Re.2005 original sobrevive en condiciones de vuelo, aunque hay algunos ejemplares preservados en museos de Italia, incluyendo un fuselaje en el Museo Storico dell'Aeronautica Militare en Vigna di Valle, cerca de Roma. El diseño sigue siendo un favorito entre los entusiastas de la aviación y los modelistas, y ha sido recreado en varias plataformas de simulación de vuelo.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las fechas del primer vuelo:</strong> Aunque la mayoría de las fuentes coinciden en el 9 de mayo de 1942 como fecha del primer vuelo oficial, algunas fuentes mencionan un primer vuelo no oficial el 7 de mayo de 1942, seguido del vuelo oficial el 9 de mayo. La fecha más aceptada y repetida en las referencias consultadas es el 9 de mayo de 1942.</p>
@@ -192,7 +192,7 @@ Hoy, ningún Re.2005 original sobrevive en condiciones de vuelo, aunque hay algu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Aviations Militaires, Tuttavia, War Thunder, Military Wikireading
 - **Discrepancias resueltas:** Las fuentes coinciden mayoritariamente en la fecha del primer vuelo (9 de mayo de 1942). Existe una pequeña discrepancia sobre un posible vuelo el 7 de mayo, pero el vuelo oficial fue el 9 de mayo. Los datos de producción se recogen generalmente como 48 unidades. La designación correcta del prototipo fue MM.494. El piloto del primer vuelo fue Tullio de Prato.
 - **Nivel de confianza:** Alto

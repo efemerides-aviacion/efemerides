@@ -161,7 +161,7 @@ Su robustez era legendaria: pilotos como Robert Johnson regresaban a la base con
 
 El primer vuelo del XP-47B el 6 de mayo de 1941, con Brabham luchando contra el humo y la adversidad, fue el nacimiento de una leyenda. Aquel enorme "dinosaurio" superó todas las expectativas y se convirtió en uno de los aviones de combate más temidos por la Luftwaffe. Hoy, los Thunderbolts supervivientes se exhiben en museos de todo el mundo, recordando el ingenio y la potencia de la industria aeronáutica estadounidense en su hora más crítica.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las cifras de producción:</strong> Las fuentes varían ligeramente en el número total de P-47 construidos. La mayoría coincide en 15.683 unidades, aunque alguna fuente menciona 15.686. La diferencia no es significativa y ambas cifras reflejan la enorme escala de producción del Thunderbolt.</p>
@@ -187,7 +187,7 @@ El primer vuelo del XP-47B el 6 de mayo de 1941, con Brabham luchando contra el 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Super Sabre Society, Onet.pl, American Air Museum, EAA Chapter 1541
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (6 de mayo de 1941). El piloto fue Lowery Lawson Brabham (también escrito Lowry P. Brabham). La velocidad máxima alcanzada en pruebas fue de 663 km/h con el motor limitado por una culata agrietada. El prototipo fue destruido el 4 de agosto de 1942.
 - **Nivel de confianza:** Alto

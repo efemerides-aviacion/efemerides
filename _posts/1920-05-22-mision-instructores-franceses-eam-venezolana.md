@@ -123,7 +123,7 @@ Cien años después, la Fuerza Aérea Venezolana (creada formalmente en 1946) ho
   </ul>
 </div>
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes documentales coinciden en la fecha del oficio del 22 de mayo de 1920 como el inicio formal de la gestión diplomática para contratar la misión francesa. Sin embargo, la instalación efectiva de la Escuela de Aviación Militar ocurrió el 10 de diciembre de 1920, cuando los instructores franceses ya estaban en Venezuela. La composición exacta de la misión varía ligeramente entre fuentes: algunas mencionan a Robert Petit, Ludovit Pouget y Luis Rollin como los instructores principales, mientras que fuentes más detalladas identifican a un grupo más amplio que incluye a Fieschi, Teppe, Cerceaux, Guérin y Leys. Es posible que algunos de estos nombres correspondan a personal técnico o que la misión se desplegara en dos fases. La hora exacta de la firma del oficio N.º 854 no ha podido ser verificada.</p>
@@ -132,7 +132,7 @@ Cien años después, la Fuerza Aérea Venezolana (creada formalmente en 1946) ho
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** UCAB (documento académico), Forum PAGES 14-18 (archivo histórico francés), Infodefensa, Valores Patrios, Últimas Noticias
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre la fecha de la gestión diplomática (22 de mayo de 1920) y la instalación formal de la escuela (10 de diciembre de 1920). Se han cotejado las listas de integrantes de la misión francesa entre fuentes.
 - **Nivel de confianza:** Alto

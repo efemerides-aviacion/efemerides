@@ -128,7 +128,7 @@ La experiencia adquirida con el 18T influyó en los diseños de Curtiss en la d�
 
 El ejemplar enviado a Bolivia en 1920, hoy considerado por los aficionados bolivianos como "el avión más rápido de Bolivia en su época", es un testimonio del legado global de esta máquina pionera. Aunque los dos prototipos (A3325 y A3326) fueron destruidos en accidentes: el A3325 se estrelló durante una prueba y el A3326 sufrió una falla del cigüeñal, la fama del 18T perdura en los registros de aviación y en las colecciones de entusiastas .
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el nombre "Kirkham":</strong> El Curtiss 18T fue conocido por la Armada de los Estados Unidos como "Kirkham", en honor a Charles B. Kirkham, el diseñador asociado. Kirkham era un experto en motores y contribuyó significativamente al desarrollo del motor Curtiss K-12.</p>
@@ -154,7 +154,7 @@ El ejemplar enviado a Bolivia en 1920, hoy considerado por los aficionados boliv
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Blog Aviación Bolivia
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (7 de mayo de 1918), las especificaciones del 18T-1 y el récord de velocidad de agosto de 1918. Se ha añadido información sobre los récords de altitud de Roland Rohlfs (30 de julio de 1918 y 18 de septiembre de 1919) y sobre los números de serie de los dos prototipos . La información sobre el uso en Bolivia (1920) proviene del blog de aviación boliviana.
 - **Nivel de confianza:** Alto

@@ -150,7 +150,7 @@ La hazaña de Gordon Cooper demostró al mundo que los astronautas estadounidens
 
 Gordon Cooper volaría de nuevo en agosto de 1965 como comandante de la misión Gemini 5, estableciendo un nuevo récord de permanencia en el espacio de casi 8 días junto a Charles "Pete" Conrad. La cápsula Faith 7 se exhibe hoy en el Space Center Houston, en Texas, como testimonio del ingenio humano y la fe que impulsaron la conquista del espacio.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha del amerizaje:</strong> La misión Faith 7 despegó el 15 de mayo de 1963 y amerizó el 16 de mayo de 1963, tras 34 horas, 19 minutos y 49 segundos en el espacio. Esta efeméride conmemora la finalización exitosa de la misión, ocurrida el 16 de mayo de 1963.</p>
@@ -176,7 +176,7 @@ Gordon Cooper volaría de nuevo en agosto de 1965 como comandante de la misión 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA (.gov), Smithsonian Institution, Encyclopedia Astronautica, Encyclopaedia Britannica
 - **Discrepancias resueltas:** La misión Faith 7 despegó el 15 de mayo de 1963 y amerizó el 16 de mayo de 1963, tras 34 horas, 19 minutos y 49 segundos en el espacio. El lanzamiento fue transmitido en vivo por televisión. Cooper fue el sexto estadounidense en el espacio y el último en volar solo en una misión orbital estadounidense.
 - **Nivel de confianza:** Alto

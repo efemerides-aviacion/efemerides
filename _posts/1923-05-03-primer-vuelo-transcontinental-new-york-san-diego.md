@@ -137,7 +137,7 @@ Los historiadores coinciden en que este vuelo fue fundamental para abrir la imag
 
 El Fokker T-2 envejeció rápidamente, superado por los avances tecnológicos de la década de 1930. Sin embargo, su lugar en la historia está asegurado. El récord de Macready y Kelly no fue superado en velocidad hasta 1936, cuando Howard Hughes realizó la travesía en menos de 10 horas, y las aerolíneas no ofrecieron vuelos comerciales sin escalas de costa a costa hasta 1953. Pero el vuelo del T-2 abrió el camino. Como señaló Dorothy Cochrane, del Smithsonian: "La gente había estado atrapada cerca de su hogar durante siglos, la mayoría viviendo toda su vida a menos de 80 km de donde nacieron. Este vuelo fue uno de los pasos incrementales que abrieron el mundo para todos".
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la distancia recorrida:</strong> Las fuentes presentan una ligera discrepancia en la distancia exacta. El Smithsonian indica 2.470 millas, mientras que el Museo Nacional de la USAF indica 2.520 millas. Ambas cifras son correctas dependiendo de la ruta específica y el método de medición (distancia en línea recta vs. distancia real volada).</p>
@@ -163,7 +163,7 @@ El Fokker T-2 envejeció rápidamente, superado por los avances tecnológicos de
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (Smithsonian), National Museum of the USAF (.mil), Newsday, Air & Space Forces Magazine
 - **Discrepancias resueltas:** La distancia varía entre 2.470 y 2.520 millas según la fuente (diferencia entre distancia en línea recta y distancia real volada). La hora de despegue varía entre 12:30 p.m. y 12:36 p.m. (se incluye el rango). La potencia del motor varía entre 408 hp y 420 hp (se incluye la cifra más común, 420 hp).
 - **Nivel de confianza:** Alto

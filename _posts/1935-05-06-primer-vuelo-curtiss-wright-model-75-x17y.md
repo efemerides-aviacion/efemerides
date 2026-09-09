@@ -135,7 +135,7 @@ Aunque a menudo olvidado por el éxito arrollador de su "hermano mayor", el P-40
 
 El prototipo X17Y, tras ser modificado a la configuración Model 75B, continuó sirviendo como banco de pruebas hasta su baja. El registro civil del avión fue cancelado el 26 de abril de 1937 (lo que indica que la aeronave fue dada de baja). El destino final del prototipo es incierto. Hoy, el legado del Model 75 perdura en los P-36 conservados en museos de todo el mundo, incluido el National Museum of the United States Air Force en Dayton, Ohio.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las discrepancias en los datos del motor:</strong> Las fuentes presentan ligeras variaciones en la designación y potencia del motor original. Wikipedia indica un Wright XR-1670-5 de 900 hp, mientras que This Day in Aviation detalla un Wright GR1670A1 de 775 hp (830 hp al despegue). La discrepancia se debe probablemente a que el motor era un prototipo en desarrollo, con diferentes etapas de calibración. Se han incluido ambas referencias en la nota para reflejar la inconsistencia de las fuentes.</p>
@@ -162,7 +162,7 @@ El prototipo X17Y, tras ser modificado a la configuración Model 75B, continuó 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, This Day in Aviation, World War Photos, Flug Revue
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (6 de mayo de 1935) y el lugar (Buffalo, Nueva York). Existe discrepancia en la potencia del motor original (900 hp vs 775/830 hp). La velocidad máxima en las primeras pruebas fue de 452 km/h (281 mph). El registro civil X17Y fue emitido el 1 de junio de 1936 y cancelado el 26 de abril de 1937.
 - **Nivel de confianza:** Alto

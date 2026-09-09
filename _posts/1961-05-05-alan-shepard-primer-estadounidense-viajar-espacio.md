@@ -124,7 +124,7 @@ Shepard continuaría su carrera como Jefe de la Oficina de Astronautas de la NAS
 
 Shepard falleció el 21 de julio de 1998, a la edad de 74 años. Su legado perdura en cada astronauta estadounidense que ha viajado al espacio, en cada misión lunar exitosa del programa Apollo y en la Estación Espacial Internacional. La cápsula Freedom 7 se exhibe actualmente en el Museo Nacional del Aire y el Espacio del Smithsonian en Washington D.C., como testimonio del comienzo de la era espacial estadounidense.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el vuelo de Gagarin:</strong> Es importante destacar que el vuelo de Yuri Gagarin el 12 de abril de 1961 fue orbital, completando una vuelta completa alrededor de la Tierra durante 108 minutos, mientras que el vuelo de Shepard fue suborbital y duró 15 minutos. A pesar de ello, Freedom 7 fue la primera misión estadounidense en demostrar la capacidad de un astronauta para sobrevivir en el espacio y regresar para contarlo.</p>
@@ -152,7 +152,7 @@ Shepard falleció el 21 de julio de 1998, a la edad de 74 años. Su legado perdu
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA (.gov), Wikipedia, Space Center Houston, Revista Hacia el Espacio (AEM), El Mundo
 - **Discrepancias resueltas:** La duración del vuelo varía entre 15 minutos 22 segundos (fuentes iniciales) y 15 minutos 28 segundos (datos más precisos del informe de vuelo). Se ha priorizado la cifra de 15 minutos 28 segundos, que es la más utilizada en las fuentes actualizadas. La altitud máxima es consistente en todas las fuentes (187,5 km).
 - **Nivel de confianza:** Alto

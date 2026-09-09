@@ -165,7 +165,7 @@ El 1 de mayo de 1982, la Fuerza Aérea Argentina se bautizó en la sangre de sus
 
 El aeropuerto de San Julián, desde donde partieron muchas de aquellas misiones, fue renombrado en homenaje al Capitán José Daniel Vázquez, caído en la guerra. El legado de los combatientes del 1 de mayo de 1982 continúa inspirando a las nuevas generaciones de aviadores argentinos, y los principios de "fe en la victoria, superación de los límites y conciencia de la misión" siguen siendo la doctrina operativa de la Institución.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre el nombre "Bautismo de Fuego":</strong> El término "bautismo de fuego" se refiere a la primera vez que una unidad militar entra en combate real. Para la Fuerza Aérea Argentina, el 1 de mayo de 1982 constituyó ese momento histórico, en el que por primera vez sus pilotos y personal se enfrentaron a una potencia extranjera en situación de guerra.</p>
@@ -194,7 +194,7 @@ El aeropuerto de San Julián, desde donde partieron muchas de aquellas misiones,
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** Noticias En Vuelo (FAA), Infobae, Gaceta Aeronautica, Fundación Malvinas, TN, Obispado Castrense
 - **Discrepancias resueltas:** Las fuentes oficiales de la FAA coinciden en la fecha (1 de mayo de 1982), el horario (04:40), las bajas (14 caídos) y las operaciones (76 salidas). Se ha corregido la cifra de aeronaves perdidas de 7 a 5 (suma correcta: 2 Mirage IIIEA, 1 Dagger, 1 Canberra, 1 Pucará). Se ha aclarado en nota aclaratoria la diferencia entre las secciones TORO y TORNO.
 - **Nivel de confianza:** Alto

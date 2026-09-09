@@ -165,7 +165,7 @@ La historia del Capitán Alejandro Medina Guerra, un piloto formado en la Escuel
 
 Hoy, la matrícula YV-C-AFE ya no existe. El avión quedó destruido en el impacto. Sin embargo, su gemelo, el DC-3 YV-C-AKE, se conserva en el Museo Aeronáutico de Maracay como testimonio de una época en la que la aviación comercial venezolana conectaba el país, a veces a costa de la vida de sus tripulantes y pasajeros.
 
----
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre las motivaciones de Lavinski:</strong> Las investigaciones oficiales no lograron establecer de manera concluyente por qué Wjatheslav Lavinski decidió cometer el atentado. Se barajan diversas hipótesis: problemas económicos relacionados con la pérdida de un yate en 1950, un supuesto plan para atentar contra un funcionario, problemas de salud mental, un hecho de sangre cometido en Europa, o la combinación de varios de estos factores. El libro "Muerte en el Aire" encontrado en su poder sugiere premeditación.</p>
@@ -189,7 +189,7 @@ Hoy, la matrícula YV-C-AFE ya no existe. El avión quedó destruido en el impac
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), FavClubVen (artículo del Coronel José Luis Ochoa Vargas), Plane Crash Info
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (28 de abril de 1960) y en la mayoría de los datos. El número de ocupantes varía ligeramente (13 según la mayoría, 10 según algunas fuentes). Se ha priorizado la cifra de 13 (3 tripulantes + 10 pasajeros). La hora del despegue fue a las 07:30 y la explosión a las 08:22. Los nombres de los tripulantes y pasajeros están documentados en el artículo del Coronel José Luis Ochoa Vargas.
 - **Nivel de confianza:** Alto
