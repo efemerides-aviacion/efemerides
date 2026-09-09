@@ -69,9 +69,7 @@ Lilienthal operaba en un contexto donde la ciencia y la ingeniería alemanas goz
 - **1896, 9 de agosto:** Durante un vuelo de prueba con un nuevo diseño de planeador en la colina Gollenberg (Rhinow), el aparato se encabrita y Lilienthal pierde el control. Cae desde una altura de 15 metros, fracturándose la columna cervical.
 - **1896, 10 de agosto:** Fallece en la clínica de la Universidad de Berlín. Sus últimas palabras, según testigos, fueron: *"Deben hacerse sacrificios"* (en alemán: *"Opfer müssen gebracht werden"*).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Legado Técnico: El Aparato de Vuelo Normal
+### Legado Técnico: El Aparato de Vuelo Normal
 
 El "Aparato de vuelo normal" de Otto Lilienthal fue la culminación de sus años de experimentación y el primer avión de la historia fabricado en serie. Sus características principales eran:
 
@@ -95,7 +93,7 @@ Este diseño fue estudiado en detalle por los hermanos Wright, quienes lo recono
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Legado y memoria institucional
+## Legado
 
 El legado de Otto Lilienthal perdura en numerosas instituciones y lugares conmemorativos:
 
@@ -134,7 +132,7 @@ El legado de Otto Lilienthal perdura en numerosas instituciones y lugares conmem
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-09-09 13:47:23 CST  
 - **Fuentes primarias/institucionales consultadas:** Britannica, Wikipedia (ES/DE/EN), Centro Aeroespacial Alemán (DLR), Atlas Obscura, Placas conmemorativas de Berlín
 - **Discrepancias resueltas:** Se ha verificado la fecha exacta de nacimiento (23 de mayo de 1848) en fuentes primarias. Se ha confirmado la existencia de la Montaña Voladora como colina artificial de 15 metros construida por Lilienthal en 1894. Se ha documentado el "Aparato de vuelo normal" como el primer aeroplano producido en serie.
 - **Nivel de confianza:** Alto (múltiples fuentes independientes coinciden en fechas, lugares y logros técnicos)

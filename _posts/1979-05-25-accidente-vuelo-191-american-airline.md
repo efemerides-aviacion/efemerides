@@ -60,7 +60,7 @@ El accidente recibió una cobertura mediática sin precedentes. Una fotografía 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Desarrollo Cronológico del Accidente
+## Desarrollo Cronológico
 
 - **25 de mayo de 1979, 14:50 CDT:** El vuelo 191 recibe autorización para rodar hasta la pista 32R.
 - **15:02 CDT:** La aeronave inicia la carrera de despegue.
@@ -73,9 +73,7 @@ El accidente recibió una cobertura mediática sin precedentes. Una fotografía 
 - **Impacto:** El DC-10 se estrella en un campo abierto junto a un parque de remolques, chocando contra un hangar abandonado del antiguo Aeropuerto Ravenswood. Los tanques de combustible, que contenían 79.000 litros (21.000 galones) de combustible, explotan al impactar.
 - **Inmediatamente después:** El calor del fuego es tan intenso que los bomberos no pueden acercarse durante casi una hora. No hay sobrevivientes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## La Investigación y el Mantenimiento Deficiente
+### La Investigación y el Mantenimiento Deficiente
 
 La investigación de la NTSB determinó que la causa del accidente fue el mantenimiento inadecuado del pilón del motor número 1, realizado ocho semanas antes del siniestro. Este mantenimiento, que utilizaba un procedimiento no autorizado por McDonnell Douglas, causó una fractura por fatiga que pasó desapercibida durante las inspecciones posteriores y creció hasta la falla catastrófica ocurrida durante el despegue.
 
@@ -97,9 +95,7 @@ La investigación reveló que el problema no era aislado. Se inspeccionaron 138 
 
 Earl Russell Marshall, uno de los mecánicos de American Airlines que había participado en el mantenimiento del N110AA, **se suicidó la noche anterior a ser interrogado por los abogados** durante las investigaciones del accidente. Este trágico hecho añadió un elemento humano desgarrador a la ya devastadora historia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## La Inmovilización de la Flota DC-10
+### La Inmovilización de la Flota DC-10
 
 El 6 de junio de 1979, apenas 12 días después del accidente, la Administración Federal de Aviación (FAA) ordenó la **inmovilización de todos los DC-10 en servicio en Estados Unidos**. Fue la primera vez en la historia que la FAA inmovilizaba por completo una flota de aviones comerciales. La medida afectó a 138 aeronaves, que representaban aproximadamente el 12% de la capacidad de pasajeros del país.
 
@@ -159,7 +155,7 @@ El accidente también mostró cómo una pequeña grieta en una pieza aparentemen
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 13:47:23 CST  
 - **Fuentes primarias/institucionales consultadas:** NTSB (informe oficial AAR-79-17), TIME Magazine (artículos de 1979), Wikipedia (EN/ES), La Opinión, Infobae
 - **Discrepancias resueltas:** Confirmación del número de víctimas (273 total) frente a variantes menores (277 en algunas fuentes periodísticas). Verificación de la secuencia exacta del accidente y la altitud máxima (325-350 pies) mediante el informe de la NTSB.
 - **Nivel de confianza:** Alto (fuentes institucionales y de prensa contemporánea coinciden en los datos fundamentales)

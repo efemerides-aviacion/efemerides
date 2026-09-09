@@ -63,7 +63,7 @@ Claiborne creció en una familia militar, lo que le expuso desde temprana edad a
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Desarrollo Cronológico de la Vida y Carrera
+## Desarrollo Cronológico
 
 - **25 de mayo de 1959:** Nace Theresa Mae Claiborne en Emporia, Virginia, hija de Wayne Morris Sr. y Dorothy Claiborne.
 - **1977 (aprox.):** La familia se establece en Elk Grove, California, tras el retiro militar de su padre.
@@ -84,9 +84,7 @@ Claiborne creció en una familia militar, lo que le expuso desde temprana edad a
 - **2024, mayo:** Se retira de United Airlines tras 34 años. Su último vuelo comercial fue desde Lisboa, Portugal, a Newark Liberty International Airport, con un sobrevuelo de despedida.
 - **2024, agosto:** Es galardonada con el **Premio Katharine Wright Trophy** de la Asociación Nacional de Aeronáutica (NAA) por su contribución al éxito de otros en la aviación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Desafíos y Legado: "If You Can See It, You Can Be It"
+### Desafíos y Legado: "If You Can See It, You Can Be It"
 
 Claiborne enfrentó numerosos obstáculos a lo largo de su carrera, desde su altura hasta el racismo y sexismo sistémicos.
 
@@ -160,7 +158,7 @@ El 25 de mayo de 1959 nació una pionera. El 16 de septiembre de 1982, Theresa C
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
+- **Timestamp de verificación:** 2026-09-09 13:47:23 CST  
 - **Fuentes primarias/institucionales consultadas:** Congressional Record (GovInfo), BlackPast.org, Wikipedia, ABC News (ABC13 Houston, ABC7 Chicago), National Aeronautic Association (Airport Improvement), Lubbock Avalanche-Journal
 - **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (25 de mayo de 1959) en fuentes oficiales del Congreso y BlackPast. Verificación del hito como "primera mujer afroamericana piloto de la USAF" mediante el Registro del Congreso. Se ha verificado la fecha de graduación como piloto (16 de septiembre de 1982) en múltiples fuentes independientes.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales, incluyendo el Congreso de EE. UU., y medios de comunicación coinciden en los datos fundamentales)

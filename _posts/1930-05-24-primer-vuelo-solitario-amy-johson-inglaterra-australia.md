@@ -56,7 +56,7 @@ El vuelo de Johnson capturó la imaginación del público británico y mundial. 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Vuelo
+## Desarrollo Cronológico
 
 - **1930, 5 de mayo:** Amy Johnson despega del aeródromo de Croydon, Londres, a bordo del «Jason», un De Havilland Gipsy Moth de segunda mano que había adquirido con la ayuda de su padre y de Lord Wakefield.
 - **8 de mayo:** Llega a Constantinopla (actual Estambul) en la segunda etapa del vuelo. Una fuga en el depósito de combustible la retrasa, pero logra repararlo y continúa hacia Bagdad.
@@ -68,9 +68,7 @@ El vuelo de Johnson capturó la imaginación del público británico y mundial. 
 - **1930, 24 de mayo, aproximadamente 15:55:** El «Jason» aparece sobre Darwin. Un avión australiano sale a su encuentro y la escolta hasta el aeródromo. A su llegada, la espera una multitud entusiasta. El secretario de salud la interroga brevemente antes de permitirle salir del avión. El residente del gobierno australiano, Coronel Weddell, la recibe en nombre de la Commonwealth y del pueblo australiano.
 - **Después del aterrizaje:** Johnson es invitada al Ayuntamiento de Darwin, donde el alcalde Adams le ofrece una cálida bienvenida. Se canta por primera vez una canción titulada «Amy» en su honor. Posteriormente, Johnson declara que emprendió el vuelo para demostrar la seguridad de los aviones modernos y que no esperaba ninguna recompensa económica, aunque aceptó ofertas para narrar su historia.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El De Havilland Gipsy Moth «Jason»
+### El De Havilland Gipsy Moth «Jason»
 
 La aeronave utilizada por Amy Johnson fue un De Havilland DH.60 Gipsy Moth, un avión ligero biplaza de cabina abierta diseñado para la aviación deportiva y de entrenamiento. Fue construido en 1929 y Johnson lo adquirió de segunda mano con la ayuda financiera de su padre y de Lord Wakefield, fundador de la compañía de lubricantes Castrol.
 
@@ -89,9 +87,7 @@ La aeronave utilizada por Amy Johnson fue un De Havilland DH.60 Gipsy Moth, un a
 
 El «Jason» fue presentado a la nación y se exhibe en la Galería de Vuelo del Museo de la Ciencia de Londres, donde permanece como uno de los objetos más emblemáticos de la historia de la aviación británica.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Mapa del Vuelo
+### El Mapa del Vuelo
 
 El mapa original que Amy Johnson utilizó durante su vuelo se conserva en el East Riding Museums de Hull, Yorkshire, Inglaterra. Fabricado por Edward Stanford Ltd., es un mapa de lona en tres secciones que cubre la ruta desde Malaya hasta Australia. La ruta prevista está marcada con una línea roja, con las distancias y los posibles puntos de escala también anotados en rojo. Los rumbos de la brújula están marcados en azul. El mapa fue montado sobre un rodillo de madera, lo que permitía enrollarlo y desenrollarlo fácilmente desde la cabina abierta del Gipsy Moth para consultar la ruta durante el vuelo.
 
@@ -139,7 +135,7 @@ El 24 de mayo de 1930 sigue siendo una fecha clave en la historia de la aviació
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 13:47:23 CST  
 - **Fuentes primarias/institucionales consultadas:** New Zealand Herald (archivo histórico de 1930), Dominion (archivo histórico de 1930), Science Museum de Londres, Longines
 - **Discrepancias resueltas:** Confirmación de la fecha de aterrizaje (24 de mayo de 1930) frente a la fecha de salida (5 de mayo de 1930). El vuelo duró 19 días, no 21 como algunas fuentes secundarias sugieren. Verificada la hora aproximada del aterrizaje mediante la prensa de la época.
 - **Nivel de confianza:** Alto (fuentes primarias de prensa contemporánea al evento y registros institucionales)

@@ -60,7 +60,7 @@ Los astronautas de Apolo 10 se convirtieron en celebridades internacionales. Sta
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
-## Desarrollo Cronológico de la Misión
+## Desarrollo Cronológico
 
 - **18 de mayo de 1969, 11:49 a.m. EST (16:49 UTC):** Lanzamiento de Apolo 10 desde el Complejo de Lanzamiento 39B del Centro Espacial Kennedy, Florida
 - **18 de mayo de 1969, 2:28 p.m. EST (19:28 UTC):** Inyección translunar (TLI) – la nave comienza su viaje hacia la Luna
@@ -72,9 +72,7 @@ Los astronautas de Apolo 10 se convirtieron en celebridades internacionales. Sta
 - **26 de mayo de 1969 (durante el regreso):** La nave alcanza su velocidad máxima de 39.897 km/h al ser acelerada por la gravedad terrestre
 - **26 de mayo de 1969, 11:52 a.m. EST (16:52:23 UTC):** Amerizaje en el Océano Pacífico; la tripulación es recuperada por el USS Princeton
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## El Récord de Velocidad: Contexto Técnico
+### El Récord de Velocidad: Contexto Técnico
 
 El récord de velocidad de Apolo 10 se alcanzó durante la fase de retorno a la Tierra. Cuando el módulo de servicio encendió su motor para la inyección transearth (TEI), la nave espacial fue impulsada fuera de la órbita lunar y comenzó a acelerar bajo la influencia de la gravedad terrestre. Al acercarse a la Tierra, la velocidad aumentó hasta el máximo momentos antes de que la nave comenzara a desacelerar por el rozamiento atmosférico durante la reentrada.
 
@@ -144,7 +142,7 @@ El récord de velocidad de Apolo 10 sigue siendo un hito en la historia de la ex
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:22:05 CST  
+- **Timestamp de verificación:** 2026-09-09 13:47:23 CST  
 - **Fuentes primarias/institucionales consultadas:** Guinness World Records, NASA (Apollo 50th, Press Kit), Wikipedia (múltiples archivos), Lunar and Planetary Institute, AF.mil
 - **Discrepancias resueltas:** Confirmación de la cifra oficial de velocidad (39.897 km/h) frente a variantes menores. Verificación de la fecha exacta del récord (26 de mayo de 1969) durante la fase de retorno. Aclaración de la discrepancia de 28.547 mph.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y Guinness World Records coinciden en los datos fundamentales)

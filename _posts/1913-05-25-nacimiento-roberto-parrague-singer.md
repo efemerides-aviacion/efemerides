@@ -60,7 +60,7 @@ El vuelo de Parragué se inscribió en el espíritu de la época, dominado por l
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Desarrollo Cronológico de la Vida y Hazañas de Parragué
+## Desarrollo Cronológico
 
 - **1913, 25 de mayo:** Nace Roberto Parragué Singer en Santiago de Chile, hijo de Roberto Parragué y Elsa Singer.
 - **1929 (16 años):** Ingresa a la Armada de Chile como cadete en el buque escuela General Baquedano. En su primer viaje de instrucción visita Isla de Pascua, experiencia que marcaría su vida.
@@ -81,9 +81,7 @@ El vuelo de Parragué se inscribió en el espíritu de la época, dominado por l
 - **1965:** Realiza su cuarto y último viaje a Isla de Pascua en el Manutara II.
 - **1995, 24 de diciembre:** Fallece en Santiago de Chile a los 82 años.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## El Vuelo del Manutara: Primera Conexión Aérea con Rapa Nui
+### El Vuelo del Manutara: Primera Conexión Aérea con Rapa Nui
 
 El vuelo del 19 y 20 de enero de 1951 fue una proeza técnica y humana sin precedentes en la historia de la aviación chilena. El Consolidated PBY-5A Catalina, un avión anfibio fabricado originalmente para la patrulla marítima durante la Segunda Guerra Mundial, fue modificado para transportar combustible adicional en tanques suplementarios, lo que le permitía volar sostenidamente por 24 horas.
 
@@ -142,7 +140,7 @@ Roberto Parragué Singer es recordado como el "pionero del cielo de Rapa Nui". S
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
+- **Timestamp de verificación:** 2026-09-09 13:47:23 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), Fuerza Aérea de Chile (sitio oficial), Embajada de Australia en Chile, DGAC Chile, Senado de Chile (Diario de Sesiones 1996), El Rancagüino
 - **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (25 de mayo de 1913) en fuentes institucionales. Verificación de la tripulación del Manutara mediante la fuente oficial de la FACH. Resolución de la discrepancia sobre el año del segundo vuelo (1959, no 1961). Añadido vuelo previo del 18 de enero de 1951.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y de prensa coinciden en los datos fundamentales)
