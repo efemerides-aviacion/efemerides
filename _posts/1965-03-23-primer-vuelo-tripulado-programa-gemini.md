@@ -14,15 +14,17 @@ image: 1965-03-23-primer-vuelo-tripulado-programa-gemini.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1965-03-23-primer-vuelo-tripulado-programa-gemini.webp" alt="Gemini 3">
   <figcaption class="post-caption">Astronautas Virgil I. “Gus” Grissom (izquierda) y John W. Young en la cabina de Gemini 3 durante el primer vuelo tripulado del programa Gemini, el 23 de marzo de 1965. Créditos: NASA.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 23 de marzo de 1965, despegó Gemini 3, el primer vuelo tripulado del programa Gemini de la NASA, con los astronautas Virgil "Gus" Grissom como piloto comandante y John Young como piloto. La misión duró casi 5 horas, completando tres órbitas terrestres bajas y demostrando por primera vez maniobras orbitales tripuladas en EE.UU., usando el sistema OAMS para alterar la trayectoria. La nave, apodada "Molly Brown", fue lanzada desde Cabo Cañaveral en un cohete Titan II y logró una reentrada controlada con amerizaje en el Atlántico.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
-## Datos técnicos de la misión
+## Datos verificados del evento
 - **Fecha de lanzamiento:** 23 de marzo de 1965, 14:24 UTC
 - **Lugar de lanzamiento:** Complejo de Lanzamiento 19, Cabo Cañaveral, Florida
 - **Astronautas:** Virgil I. "Gus" Grissom (piloto comandante), John W. Young (piloto)
@@ -52,6 +54,8 @@ La nave Gemini era significativamente más avanzada que Mercury: podía transpor
 ### Entorno cultural
 La NASA cultivaba una imagen de precisión científica y heroísmo nacional. Los astronautas eran celebridades de alcance mundial, y cada misión era seguida en vivo por millones de personas. El apodo de la nave, "Molly Brown" (en honor al musical *The Unsinkable Molly Brown*), reflejaba el humor y la confianza de la tripulación, aunque la elección fue cuestionada por la rigurosidad de la NASA.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Desarrollo Cronológico
 
 - **18 de marzo de 1965:** Cinco días antes del lanzamiento de Gemini 3, el cosmonauta soviético Alexei Leonov realiza la primera caminata espacial de la historia durante la misión Voskhod 2, aumentando la presión sobre el programa estadounidense.
@@ -64,12 +68,16 @@ La NASA cultivaba una imagen de precisión científica y heroísmo nacional. Los
 - **19:17 UTC:** Gemini 3 ameriza en el Océano Atlántico, a 84 km del punto previsto. Un error de cálculo de reentrada provoca un desvío significativo, pero la nave y la tripulación son recuperadas por el portaaviones USS Intrepid en 1 hora y 22 minutos.
 - **Post-misión:** La cápsula es inspeccionada; el diseño del escudo térmico y los sistemas de reentrada se consideran validados. El incidente del sándwich es investigado por el Congreso y la NASA prohíbe formalmente introducir objetos no autorizados en vuelos espaciales.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Consecuencias e Impacto
 
 - **Validación de Gemini:** La misión demostró la viabilidad de la nave para vuelos de larga duración, maniobras orbitales y reentrada controlada, abriendo el camino para las misiones posteriores (Gemini 4 a 12) que probarían caminatas espaciales, acoplamiento y vuelos de 14 días.
 - **Lecciones de control de calidad:** El desvío en el amerizaje y el incidente del sándwich llevaron a mejoras en los procedimientos de navegación y en la disciplina de la tripulación.
 - **Carrera espacial:** Aunque la caminata espacial de Leonov había opacado el vuelo de Gemini 3 ante la opinión pública, la NASA estaba en el camino correcto para alcanzar la Luna, con tecnologías probadas que los soviéticos aún no dominaban (maniobras orbitales).
 - **Legado de la tripulación:** Grissom (que también había volado en Mercury) comandaría después Gemini 6 y el primer vuelo del Apolo (Apolo 1, donde pereció en el incendio de 1967). Young se convertiría en uno de los astronautas más veteranos, volando en Gemini 10, Apolo 10, Apolo 16 (caminó en la Luna) y el primer vuelo del transbordador espacial.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 
@@ -105,6 +113,7 @@ La misión Gemini 3 es recordada por varios hitos:
     <li><a href="https://www.nasa.gov/wp-content/uploads/2026/01/gt03-pao.pdf?emrc=8fee68" style="color: #315fea; text-decoration: none;">NASA – Transcripción no oficial de la misión Gemini-Titan 3 (23 mar 1965)</a></li>
   </ul>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control

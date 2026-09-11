@@ -14,15 +14,17 @@ image: 2022-03-21-vuelo-5735-china-eastern-airlines.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2022-03-21-vuelo-5735-china-eastern-airlines.webp" alt="Boeing 737-800 B-1791 de China Eastern Airlines">
   <figcaption class="post-caption">China Eastern Airlines Boeing 737-800 B-1791 en librea "Pavo Real de Yunnan", fotografiado por Dennis HK en el Aeropuerto Internacional de Shanghai Hongqiao (ZSPD). Tomada el 28 de junio de 2018 con Canon EOS 7D Mark II, este es el mismo avión que operó el Vuelo MU5735 el 21 de marzo de 2022 antes de su accidente fatal.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El vuelo MU5735 de China Eastern Airlines, un Boeing 737-800 (B-1791), despegó de Kunming hacia Guangzhou el 21 de marzo de 2022. A las 14:23 CST, descendió en picada desde 8.900 m e impactó contra una colina en Teng County, Guangxi, matando a 132 ocupantes (123 pasajeros, 9 tripulantes). La investigación preliminar descartó fallos mecánicos o clima adverso; datos de EE.UU. sugieren inputs intencionales en cabina, pero China no ha publicado informe final citando seguridad nacional.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Datos Técnicos Verificados
+## Datos verificados del evento
 - **Fecha del accidente:** 21 de marzo de 2022
 - **Lugar:** Teng County, región autónoma de Guangxi, China
 - **Ruta prevista:** Aeropuerto Internacional Kunming Changshui (KMG) - Aeropuerto Internacional Guangzhou Baiyun (CAN)
@@ -54,6 +56,8 @@ El Boeing 737-800 es un avión de pasillo único ampliamente probado, con más d
 ### Entorno cultural
 La aviación comercial en China es un símbolo de modernidad y eficiencia estatal. La respuesta a un accidente implica una coordinación entre la Administración de Aviación Civil de China (CAAC), las autoridades locales y la aerolínea. La transparencia en las investigaciones ha sido un tema recurrente, con periodistas y familiares demandando acceso a la información. El hecho de que el informe final no se haya publicado más de tres años después ha generado especulaciones y críticas internacionales.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Desarrollo Cronológico
 
 - **21 de marzo de 2022, 13:11 CST:** El vuelo MU5735 despega del Aeropuerto Internacional Kunming Changshui con destino a Guangzhou. A bordo viajan 123 pasajeros y 9 tripulantes (tres pilotos y seis auxiliares).
@@ -71,12 +75,16 @@ La aviación comercial en China es un símbolo de modernidad y eficiencia estata
 - **21 de marzo de 2025:** Tercer aniversario del accidente. Las familias de las víctimas realizan ceremonias privadas, mientras la CAAC reitera que la investigación "continúa" y que no hay plazo para la publicación del informe final.
 - **Marzo de 2026:** A cuatro años del accidente, no se ha publicado un informe final concluyente. La falta de transparencia ha generado críticas de expertos internacionales y organismos de víctimas.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Consecuencias e Impacto
 
 - **Para la aviación china:** El accidente rompió una racha de más de 10 años sin siniestros fatales en vuelos comerciales regulares. China ordenó la inspección de toda su flota de Boeing 737-800 (más de 1.200 aeronaves), sin que se detectaran anomalías generalizadas.
 - **Para Boeing:** Aunque inicialmente se especuló con un posible fallo técnico, los datos preliminares apuntaron a un factor humano, lo que alivió parcialmente la presión sobre el fabricante, que ya enfrentaba el escrutinio por el caso del 737 MAX.
 - **Para las familias:** La ausencia de un informe oficial ha prolongado el duelo y la incertidumbre. Las compensaciones económicas se resolvieron en 2022, pero las familias siguen exigiendo respuestas sobre las causas.
 - **Para la transparencia internacional:** El caso ha sido citado por organismos como la Asociación Internacional de Transporte Aéreo (IATA) como ejemplo de la necesidad de que las investigaciones de accidentes se publiquen íntegramente, independientemente de consideraciones nacionales, para mejorar la seguridad global.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
@@ -106,6 +114,7 @@ El accidente del vuelo 5735 de China Eastern Airlines es, hasta la fecha, el peo
     <li><a href="https://www.infobae.com/america/mundo/2022/03/22/accidente-aereo-en-china-familiares-de-las-victimas-visitan-el-lugar-del-siniestro-para-rendirles-homenaje/" style="color: #315fea; text-decoration: none;">Infobae – Accidente aéreo en China: familiares visitan el lugar del siniestro (22 Mar 2022)</a></li>
   </ul>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control

@@ -14,11 +14,14 @@ image: 2019-04-13-primer-vuelo-stratolaunch.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2019-04-13-primer-vuelo-stratolaunch.webp" alt="Stratolaunch Roc durante su primer vuelo en Mojave, California">
   <figcaption class="post-caption">El avión portacohetes de Stratolaunch, la aeronave más grande jamás construida, despega del Puerto Aéreo y Espacial de Mojave, en Mojave (California), durante su primer vuelo de prueba el 13 de abril de 2019. (Crédito de la imagen: Stratolaunch).</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 13 de abril de 2019, el Stratolaunch Roc, diseñado por Scaled Composites para Stratolaunch Systems, realizó su primer vuelo desde el Mojave Air & Space Port en California. Con una envergadura récord de 117 metros (385 pies), el avión voló durante 2 horas y 30 minutos, alcanzando una altitud de 17.000 pies (5.182 metros) y una velocidad máxima de 304 km/h (189 mph). Concebido originalmente como plataforma de lanzamiento aéreo para cohetes orbitales, representa un hito en la aviación espacial privada y se mantiene como el avión con la mayor envergadura jamás construida.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
@@ -81,7 +84,7 @@ El primer vuelo del Roc coincidió con una época de euforia tecnológica en Est
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Estado actual / Legado
+## Legado
 
 - **Situación operativa (2026):** El Stratolaunch Roc continúa en activo, realizando vuelos de prueba desde el Mojave Air & Space Port. Su misión principal es el lanzamiento aéreo del vehículo hipersónico Talon-A, un demostrador reutilizable diseñado para alcanzar velocidades superiores a Mach 6.
 

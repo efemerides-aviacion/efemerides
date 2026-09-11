@@ -14,6 +14,7 @@ image: 1982-01-18-thunderbirds-indian-springs.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1982-01-18-thunderbirds-indian-springs.webp" alt="Formación diamante de los Thunderbirds en T-38A Talon">
   <figcaption class="post-caption">Formación diamante de los Northrop T-38A Talon del equipo acrobático USAF “Thunderbirds” (líder #1, alas #2 y #3, slot #4) en vuelo durante una exhibición de los años setenta u ochenta, antes de la trágica colisión controlada en tierra del 18 de enero de 1982 en Indian Springs Air Force Auxiliary Field, Nevada.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
@@ -22,7 +23,8 @@ image: 1982-01-18-thunderbirds-indian-springs.webp
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-## Datos Técnicos Verificados
+
+## Datos verificados del evento
 - **Fecha del accidente:** 18 de enero de 1982  
 - **Lugar:** Indian Springs Air Force Auxiliary Field (Nevada, EE.UU.)  
 - **Unidad:** USAF Thunderbirds (equipo acrobático oficial)  
@@ -32,6 +34,7 @@ image: 1982-01-18-thunderbirds-indian-springs.webp
 - **Causa oficial (síntesis):** Fallo mecánico en el estabilizador del avión líder; los demás aviones siguieron la trayectoria hasta el impacto.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Contexto Histórico
 La tragedia marcó profundamente la historia de los Thunderbirds y de la aviación acrobática militar.
 
@@ -44,19 +47,26 @@ El Northrop T‑38A Talon era un entrenador supersónico utilizado por los Thund
 ### Entorno cultural
 La pérdida de toda la formación diamante en un solo evento se convirtió en un símbolo de disciplina y riesgo inherente a las exhibiciones acrobáticas.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Desarrollo Cronológico
 - Formación diamante inicia un bucle en baja altura.  
 - Fallo mecánico en el estabilizador del avión líder.  
 - Los tres aviones restantes siguen la trayectoria del líder.  
 - Impacto simultáneo contra el terreno en Indian Springs.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Consecuencias e Impacto
 El accidente llevó a la suspensión temporal de las actividades de los Thunderbirds y a la revisión de procedimientos de seguridad y mantenimiento.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 Los Thunderbirds regresaron a las exhibiciones en 1983, ya con aviones F‑16 Fighting Falcon, consolidando su prestigio internacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -70,6 +80,7 @@ Los Thunderbirds regresaron a las exhibiciones en 1983, ya con aviones F‑16 Fi
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; Code7700; Aviation Safety Network; NY Times; Check-Six; Aviacionline  

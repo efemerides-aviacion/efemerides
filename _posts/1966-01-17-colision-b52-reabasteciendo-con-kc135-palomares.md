@@ -14,6 +14,7 @@ image: 1966-01-17-colision-b52-reabasteciendo-con-kc135-palomares.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1966-01-17-colision-b52-reabasteciendo-con-kc135-palomares.webp" alt="B-52 repostando con KC-135">
   <figcaption class="post-caption">Maniobra de reabastecimiento aéreo entre un B-52 Stratofortress y un KC-135 Stratotanker durante Operation Chrome Dome, similar a las aeronaves involucradas en la colisión fatal del 17 de enero de 1966 sobre Palomares que liberó cuatro bombas nucleares." Fecha: Años 1960 (antes de 17/01/1966). Fuente: https://theaviationgeekclub.com/remembering-operation-chrome-dome-the-1960s-airborne-alert-missions-flown-by-b-52-strategic-bombers-armed-with-thermonuclear-weapons/</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
@@ -23,7 +24,7 @@ image: 1966-01-17-colision-b52-reabasteciendo-con-kc135-palomares.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Datos Técnicos Verificados
+## Datos verificados del evento
 - **Fecha del accidente:** 17 de enero de 1966  
 - **Lugar:** Palomares, Almería, España  
 - **Ruta prevista:** Patrulla estratégica del B‑52G en misión de disuasión nuclear  
@@ -49,6 +50,8 @@ La práctica del reabastecimiento en vuelo era rutinaria, pero implicaba riesgos
 ### Entorno cultural
 El accidente marcó la memoria colectiva en España y se convirtió en símbolo de los peligros de la Guerra Fría.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Desarrollo Cronológico
 - Maniobra de reabastecimiento en vuelo sobre Palomares.  
 - Colisión entre el B‑52G y el KC‑135.  
@@ -57,8 +60,12 @@ El accidente marcó la memoria colectiva en España y se convirtió en símbolo 
 - Dos bombas dispersaron plutonio sobre unos 2 km² de terreno agrícola.  
 - Operaciones de limpieza y recuperación prolongadas durante meses.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Consecuencias e Impacto
 El accidente reforzó la necesidad de protocolos más estrictos en operaciones nucleares y generó acuerdos bilaterales sobre seguridad aérea.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 Recordado como el “Accidente de Palomares”, se convirtió en uno de los accidentes nucleares más graves de la Guerra Fría, con repercusiones políticas y ambientales duraderas.

@@ -14,15 +14,17 @@ image: 2013-01-04-accidente-transaereo-bn2a-islander.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2013-01-04-accidente-transaereo-bn2a-islander.webp" alt="Britten-Norman BN-2A Islander YV2615 de Transaereo">
   <figcaption class="post-caption">Britten-Norman BN-2A Islander YV2615 de Transaereo, fotografiado en septiembre de 2011. Esta aeronave sufrió un accidente el 4 de enero de 2013 en la ruta Los Roques–Caracas, con 6 víctimas fatales. Fuente: <a href="https://www.jetphotos.com/photo/7210300" style="color: #315fea; text-decoration: none;">Jet Photos - Fotógrafo: Bruno Orofino</a>.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 4 de enero de 2013, el avión Britten-Norman BN-2A Islander matrícula YV2615, operado por la aerolínea venezolana Transaereo, desapareció en el mar Caribe mientras cubría la ruta Los Roques–Caracas. A bordo viajaban 6 personas, todas fallecidas, entre ellas el empresario italiano Vittorio Missoni, heredero de la firma de moda Missoni, su esposa Maurizia Castiglioni y el diseñador venezolano José Gregorio Álvarez. Tras una intensa búsqueda, restos del fuselaje fueron hallados en junio de 2013.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Datos del evento
+## Datos verificados del evento
 
 - **Fecha del accidente:** 4 de enero de 2013
 - **Lugar:** Mar Caribe, aproximadamente a 12 millas náuticas (22 km) al noreste del archipiélago de Los Roques, Venezuela

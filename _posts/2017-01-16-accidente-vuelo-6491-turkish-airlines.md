@@ -14,15 +14,17 @@ image: 2017-01-16-accidente-vuelo-6491-turkish-airlines.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2017-01-16-accidente-vuelo-6491-turkish-airlines.webp" alt="Boeing 747-412F TC-MCL de ACT Airlines">
   <figcaption class="post-caption">Boeing 747-412F (TC-MCL) de ACT Airlines en el aeropuerto de Maastricht Aachen. Este avión se estrelló cinco días después de que se tomara la foto, cuando realizaba el vuelo 6491 de Turkish Airlines. Fuente: <a href="https://en.wikipedia.org/wiki/Turkish_Airlines_Flight_6491" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Turkish Airlines Flight 6491</a>.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 16 de enero de 2017, el vuelo 6491 de Turkish Airlines Cargo, operado por ACT Airlines (MyCargo Airlines) con un Boeing 747-412F matrícula TC-MCL, se estrelló durante la aproximación al aeropuerto de Manas en Bishkek, Kirguistán. La aeronave impactó contra la aldea de Dacha-Suu, destruyendo aproximadamente 43 viviendas. Las cuatro personas a bordo (tres pilotos y un técnico de carga) fallecieron, junto con 35 residentes en tierra, totalizando 39 víctimas. La investigación determinó que la tripulación capturó una falsa senda de planeo del ILS (9° en lugar de 3°), ignoró las alertas del sistema GPWS y realizó un go-around demasiado tarde, a solo 58 pies sobre el nivel del suelo. La fatiga y la presión operativa fueron factores contribuyentes.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Datos del evento
+## Datos verificados del evento
 
 - **Fecha del accidente:** 16 de enero de 2017
 - **Lugar:** Aldea de Dacha-Suu, distrito de Alamüdün, a aproximadamente 1.5 km al oeste del aeropuerto de Manas, Bishkek, Kirguistán (coordenadas: 43°02′52″N 74°28′16″E)

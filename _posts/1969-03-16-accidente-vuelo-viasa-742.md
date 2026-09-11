@@ -14,15 +14,17 @@ image: 1969-03-16-accidente-vuelo-viasa-742.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1969-03-16-accidente-vuelo-viasa-742.webp" alt="McDonnell Douglas DC-9-32 de Viasa">
   <figcaption class="post-caption">El McDonnell Douglas DC‑9‑32 matrícula YV‑C‑AVD de VIASA, fotografiado en plataforma del Long Beach Municipal Airport (LGB), California, durante pruebas y alistamiento en febrero de 1969, pocas semanas antes del accidente de Maracaibo; imagen reproducida por cortesía de Werner Fischdick y publicada por Aviation Safety Network.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 16 de marzo de 1969, el vuelo 742 de Viasa, operado con el McDonnell Douglas DC‑9‑32 matrícula YV‑C‑AVD, se estrelló tras despegar de Grano de Oro, Maracaibo, por una combinación de sobrepeso, pista corta y altas temperaturas. El avión, propiedad de Avensa y arrendado a Viasa bajo modalidad wet lease, perdió el ala izquierda al impactar un poste y cayó sobre la urbanización La Trinidad. El siniestro causó 155 muertos, entre ocupantes y personas en tierra, además de numerosos heridos. Fue la peor tragedia aérea de Venezuela hasta ese momento y un hecho decisivo en el cuestionamiento operacional del aeropuerto de Grano de Oro.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Datos Técnicos Verificados
+## Datos verificados del evento
 - **Fecha del accidente:** 16 de marzo de 1969, aproximadamente a las 12:00 (mediodía)
 - **Lugar:** Entre el barrio Ziruma y la urbanización La Trinidad, Maracaibo, estado Zulia, Venezuela
 - **Ruta prevista:** Maiquetía (Caracas) – Maracaibo – Miami (Estados Unidos)
@@ -70,6 +72,8 @@ La aviación comercial gozaba de un enorme prestigio. Volar era un símbolo de p
 - **Impacto y caída:** El avión vuela a muy baja altura sobre el barrio Ziruma. El motor izquierdo choca contra un poste de electricidad cerca del antiguo Cine Capitolio. Una llama emerge del ala izquierda. Al inclinarse, los reflectores de una cancha de baloncesto rasgan los tanques de combustible, derramando gasolina sobre el sector. Segundos después, el ala impacta un segundo poste con dos transformadores, generando una chispa que provoca una explosión. El ala izquierda se desprende y la aeronave, fuera de control, se estrella invertida en una vereda de la urbanización La Trinidad . El motor izquierdo, desprendido, cae sobre la casa de la familia del voleibolista Lino Connell, matando a su esposa y tres hijos .
 - **Inmediatamente después:** Los equipos de rescate del aeropuerto y bomberos acuden al lugar. La magnitud de la tragedia es apocalíptica. No hay sobrevivientes a bordo. En menos de 24 horas, corresponsales de todo el mundo cubren el siniestro .
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Consecuencias e Impacto
 
 El vuelo 742 de Viasa fue, en su momento, el peor desastre aéreo de la historia de la humanidad en términos de víctimas fatales . Su impacto fue devastador en múltiples niveles:
@@ -78,6 +82,8 @@ El vuelo 742 de Viasa fue, en su momento, el peor desastre aéreo de la historia
 - **Deportivo:** El béisbol venezolano perdió a tres de sus figuras: Antonio Herrera Gutiérrez, propietario del equipo Cardenales de Lara; Carlos Santeliz, jugador de ese mismo equipo; y Néstor "Látigo" Chávez, lanzador de los Navegantes del Magallanes y prospecto de los Gigantes de San Francisco .
 - **Infraestructura:** La tragedia fue el detonante definitivo para el cierre del Aeropuerto Grano de Oro, cuya clausura ya se discutía desde años atrás por su ubicación en pleno centro de la ciudad. A los ocho meses, en noviembre de 1969, se inauguró el nuevo Aeropuerto Internacional de La Chinita, en una zona más alejada y segura .
 - **Seguridad aérea:** El accidente puso de relieve los riesgos de operar aviones de reacción de gran porte en aeropuertos rodeados de áreas urbanas y con pistas limitadas. Las investigaciones posteriores destacaron la importancia de realizar cálculos precisos de peso y balance, así como de contar con información meteorológica fiable.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
@@ -108,6 +114,7 @@ El vuelo 742 de Viasa permanece en la memoria colectiva de Venezuela como "La tr
     <li><a href="https://www.instagram.com/p/DHPoVSbR3lz/" style="color: #315fea; text-decoration: none;">Instagram @noticiaaldia – 56 años de la Tragedia de La Trinidad</a></li>
   </ul>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control

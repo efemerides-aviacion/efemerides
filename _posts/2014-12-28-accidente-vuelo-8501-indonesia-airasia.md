@@ -14,15 +14,17 @@ image: 2014-12-28-accidente-vuelo-8501-indonesia-airasia.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2014-12-28-accidente-vuelo-8501-indonesia-airasia.webp" alt="Airbus A320-200 (PK-AXC) de Indonesia AirAsia">
   <figcaption class="post-caption">Airbus A320-200 (PK-AXC) de Indonesia AirAsia aterrizando en el Aeropuerto Internacional Ngurah Rai, Tuban, Regencia de Badung, Bali. Ocho meses después, el PK-AXC se estrelló en el mar de Java. Fuente: <a href="https://es.wikipedia.org/wiki/Vuelo_8501_de_Indonesia_AirAsia" style="color: #315fea; text-decoration: none;">Wikipedia - Vuelo 8501 de Indonesia AirAsia</a>.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 28 de diciembre de 2014, el vuelo 8501 de Indonesia AirAsia, un Airbus A320-216 con matrícula PK-AXC, se estrelló en el mar de Java durante su ruta entre Surabaya (Indonesia) y Singapur. La aeronave transportaba 162 personas (155 pasajeros y 7 tripulantes), todas fallecidas. La investigación del Comité Nacional de Seguridad del Transporte de Indonesia (KNKT) concluyó que una avería repetitiva en el sistema de limitación del timón (Rudder Travel Limiter Unit), causada por una grieta en una soldadura, provocó múltiples alertas en cabina. La respuesta inadecuada de la tripulación, que incluyó el reinicio de los ordenadores de vuelo mediante interruptores automáticos, desactivó el piloto automático y cambió la ley de control de vuelo a Alternate Law, lo que derivó en una pérdida de control y una entrada en pérdida aerodinámica de la que no pudieron recuperarse.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Datos del evento
+## Datos verificados del evento
 
 - **Fecha del accidente:** 28 de diciembre de 2014
 - **Lugar:** Estrecho de Karimata, mar de Java, al sur de Borneo, Indonesia (coordenadas aproximadas: 3°37′23″S 109°42′43″E)
