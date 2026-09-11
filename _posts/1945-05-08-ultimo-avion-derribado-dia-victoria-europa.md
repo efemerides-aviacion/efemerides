@@ -17,6 +17,7 @@ image: 1945-05-08-ultimo-avion-derribado-dia-victoria-europa.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 8 de mayo de 1945, el Día de la Victoria en Europa (VE Day), cuando la rendición alemana estaba a punto de entrar en vigor a las 23:01 horas, un caza estadounidense P-38 Lightning pilotado por el Teniente Segundo Kenneth L. Swift, del 429.º Escuadrón de Caza, interceptó un avión de transporte alemán Siebel Si 204 tres millas al sureste de Bad Rodach, en Baviera. El registro oficial de la Fuerza Aérea de los Estados Unidos acredita a Swift la destrucción del aparato ese día. Es considerado por diversas fuentes historiográficas como el probable último avión alemán abatido por fuego aire-aire en el frente occidental antes del cese definitivo de las hostilidades.</p>
 </div>
@@ -116,3 +117,5 @@ El caso ilustra además la dificultad de establecer un «último derribo» defin
 - **Discrepancias resueltas:** La atribución del derribo a un «K.L. Smith», extendida en fuentes secundarias, queda descartada por el registro oficial, que acredita a Kenneth L. Swift. Sobre la condición de «último derribo» no existe consenso absoluto: el episodio de Bad Rodach corresponde al frente occidental y al fuego aire-aire estadounidense, sin que ello excluya acciones posteriores en otros frentes ese mismo día.
 - **Datos no confirmados:** No se ha localizado documentación sobre el número de ocupantes del Siebel Si 204 ni sobre su suerte. La afirmación, presente en algunas versiones divulgadas, de que el aparato se estrelló sin supervivientes carece de respaldo documental y no se recoge en esta efeméride.
 - **Nivel de confianza:** Alto en la identidad del piloto, la unidad, la fecha y el crédito oficial, contrastados con fuente primaria. Medio en la hora exacta y en la condición de «último derribo», sostenidas por fuentes secundarias especializadas.
+
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

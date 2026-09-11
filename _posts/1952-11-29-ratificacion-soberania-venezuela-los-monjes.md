@@ -14,19 +14,25 @@ image: 1952-11-29-ratificacion-soberania-venezuela-los-monjes.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-11-29-ratificacion-soberania-venezuela-los-monjes.webp" alt="Bandera de Venezuela izada en el Archipiélago LOs Monjes">
   <figcaption class="post-caption">Autoridades militares y civiles venezolanas izan oficialmente la bandera nacional en el territorio de Los Monjes, el 29 de noviembre de 1952, reafirmando así la soberanía de Venezuela. Marcos Pérez Jiménez, séptimo de izquierda a derecha, también se encuenta Luis Llovera Páez. Wikimedia Commons.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 29 de noviembre de 1952, mediante una nota diplomática emitida por la cancillería colombiana, se reconoció formalmente la soberanía de Venezuela sobre el Archipiélago Los Monjes. Este hito fue respaldado por patrullajes constantes de la Fuerza Aérea Venezolana para asegurar la integridad territorial en el Caribe.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Datos verificados del evento
 - **Fecha:** 29 de noviembre de 1952
 - **Lugar:** Archipiélago Los Monjes, Golfo de Venezuela
 - **Protagonistas:** Gobierno de Venezuela (Junta Militar) y Gobierno de Colombia (Roberto Urdaneta Arbeláez)
 - **Aeronave/empresa involucrada:** Unidades de reconocimiento de la Fuerza Aérea Venezolana (FAV)
 - **Resultado inmediato:** Reconocimiento internacional de la soberanía venezolana y establecimiento de vigilancia permanente.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
 El reconocimiento ocurrió bajo el mandato de la Junta de Gobierno en Venezuela. La disputa surgió cuando pescadores colombianos fueron avistados en la zona, lo que motivó una enérgica respuesta diplomática y militar de Caracas para clarificar los límites marítimos.
 ### Entorno social
@@ -36,18 +42,26 @@ La Fuerza Aérea Venezolana se encontraba en pleno proceso de transición a la e
 ### Entorno cultural
 La soberanía sobre "Los Monjes" se convirtió en un símbolo de la integridad territorial, reforzado por la narrativa oficial de protección de los recursos marítimos.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 1. **Incidentes iniciales:** Avistamientos de fragatas colombianas y embarcaciones menores en las cercanías del archipiélago.
 2. **Despliegue:** La FAV intensifica sobrevuelos de reconocimiento sobre el área de Los Monjes del Sur, del Norte y del Este.
 3. **Nota Diplomática:** El canciller de Colombia, Juan Uribe Holguín, entrega el documento que reconoce la soberanía venezolana.
 4. **Ocupación formal:** Venezuela establece un puesto de vigilancia y un faro para control de navegación.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 Este reconocimiento evitó un conflicto armado y definió las líneas de base para la delimitación de áreas marinas y submarinas en el Golfo de Venezuela, un área de alta importancia petrolera.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Legado
 Hoy en día, el Archipiélago Los Monjes cuenta con presencia permanente de la Armada y sobrevuelos de la Aviación Militar Bolivariana, siendo un bastión de la frontera marítima venezolana.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -57,7 +71,9 @@ Hoy en día, el Archipiélago Los Monjes cuenta con presencia permanente de la A
       <li><a href="https://es.wikipedia.org/wiki/Archipi%C3%A9lago_Los_Monjes" style="color: #315fea; text-decoration: none;">Wikipedia (ES) — Archipiélago Los Monjes</a></li>
   </ul>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Archivos históricos de la Cancillería Venezolana y registros de la FAV.  

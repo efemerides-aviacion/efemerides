@@ -17,6 +17,7 @@ image: 1979-06-12-primera-aeronave-propulsion-humana-cruzo-canal-la-mancha.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>El 12 de junio de 1979, el piloto Bryan Allen, de 26 años, completó el primer cruce del Canal de la Mancha en una aeronave de propulsión humana. El Gossamer Albatross, diseñado por el Dr. Paul MacCready, despegó de Folkestone (Inglaterra) —tras dos aplazamientos por vientos fuertes— y aterrizó en Cap Gris-Nez (Francia) tras recorrer 35,7 km en 2 horas y 49 minutos. La frágil máquina de 32 kg de peso y 29,77 metros de envergadura se mantenía a apenas 1,5 metros sobre el agua, impulsada exclusivamente por la fuerza de pedaleo de Allen. A pesar de sufrir deshidratación severa, calambres musculares y vientos contrarios —que requirieron atención médica al finalizar el vuelo—, el piloto logró la hazaña y, junto a MacCready, ganó el segundo Premio Kremer de £100.000 (equivalente a £639.000 en 2023). El vuelo demostró la viabilidad del vuelo humano de ultra‑baja potencia y sentó las bases tecnológicas para futuras aeronaves solares y de gran altitud.</p>
 </div>

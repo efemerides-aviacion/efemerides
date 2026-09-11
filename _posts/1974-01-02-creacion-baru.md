@@ -15,10 +15,11 @@ image: 1974-01-02-creacion-baru.webp
   <figcaption class="post-caption">North American Rockwell OV-10 Bronco, avión de ataque ligero y observación turbohélice, en exhibición a la entrada de la Base Aérea Rafael Urdaneta (BARU), Maracaibo. El Grupo Aéreo de Operaciones Especiales N.º 15 opera este tipo de aeronave desde la base.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
 <!-- ## Resumen ejecutivo -->
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 2 de enero de 1974, por Resolución N.º A-0011 del Ministro de la Defensa, General Gustavo Pardi Dávila, se creó la Base Aérea «General Rafael Urdaneta» en el Aeropuerto Internacional de La Chinita, Maracaibo, estado Zulia. Su denominación honra al General en Jefe Rafael Urdaneta, prócer zuliano de la independencia. La base consolidó la presencia de la aviación militar en el occidente de Venezuela, articulando funciones de defensa aérea, apoyo operativo y entrenamiento en una región estratégica por su frontera con Colombia, sus accesos al Lago de Maracaibo y sus rutas del Caribe.</p>
 </div>
@@ -105,6 +106,8 @@ Cincuenta y dos años después de su creación, la Base Aérea Rafael Urdaneta s
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> El artículo de Wikipedia sobre la Aviación Militar Bolivariana lista la Base Aérea Rafael Urdaneta con fecha 1971, sin citar la fuente de ese año. El libro del Coronel Paredes —publicación institucional de la FAV en su tercera edición corregida— documenta la creación el 2 de enero de 1974 por Resolución N.º A-0011, dato corroborado por el Museo del Transporte Caracas y por la cuenta conmemorativa del Ejército Bolivariano el 2 de enero. La diferencia puede deberse a que 1971 corresponde al inicio de obras o planificación, mientras que 1974 es la fecha del acto formal de creación por resolución ministerial. Se adopta la fecha de la fuente institucional por su especificidad y respaldo documental.</p>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota sobre el primer comandante:</strong> la identidad del primer comandante requiere precisión onomástica. Dos publicaciones institucionales de la propia Fuerza Aérea lo registran de la misma forma: el folleto <em>Promociones Egresadas de la Escuela de Aviación Militar de Venezuela, 1921-1970</em> (Año Jubilar de la Aviación Venezolana, 1970), en la página 28, y el <em>Libro de Promociones de la Academia Militar de la Aviación Bolivariana, 1920-2016</em> (Boca de Río, 2017), en la página 38, dan el apellido como <strong>Navarro Villaroel</strong>, con una sola erre. Ambas fuentes coinciden además en la grafía «Alfonso Lisandro» del nombre de pila; la publicación de 2017, transcrita de listas mecanografiadas antiguas, anota «Alfonzo Lizandro», variante menor de transcripción. Los relatos del Coronel José Luis Ochoa Vargas difundidos por Fav Ven escriben el apellido «Villarroel» con dos erres, pero se trata de fuentes secundarias de carácter conmemorativo. Por la autoridad y contemporaneidad de los registros institucionales, se adopta <strong>Alfonso Lisandro Navarro Villaroel</strong>. En 1975, al asumir el mando, ostentaba el grado de teniente coronel; pasó a retiro como coronel en 1987.</p>

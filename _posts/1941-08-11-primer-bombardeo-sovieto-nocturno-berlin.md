@@ -18,7 +18,6 @@ image: 1941-08-11-primer-bombardeo-sovieto-nocturno-berlin.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
-
 <div class="highlight-box">
 <p>La noche del 10 al 11 de agosto de 1941, catorce bombarderos Petlyakov Pe-8 despegaron del aeródromo de Pushkino, cerca de Leningrado, con Berlín como destino. Los mandaba el Comandante de Brigada Mikhail Vasilyevich Vodopyanov, al frente de la 81.ª División de Bombardeo de Largo Alcance, creada tres semanas antes por orden expresa de Stalin. Era la respuesta soviética a los bombardeos que la Luftwaffe había iniciado sobre Moscú el 21 de julio.</p>
 <p>El obstáculo no era la distancia sino la planta motriz. Para alcanzar Berlín y volver, Stalin había ordenado sustituir los motores de gasolina por diésel Charomskiy de largo alcance, una decisión que resultó desastrosa. Un Pe-8 se estrelló al despegar y murió toda su tripulación. Otro fue atacado por cazas soviéticos que lo tomaron por enemigo y rematado por la artillería antiaérea propia. Un tercero perdió dos motores sobre Polonia. Los que alcanzaron Berlín lanzaron sus bombas con escaso efecto material, y el regreso fue una dispersión de aterrizajes forzosos por media Europa oriental. Vodopyanov cayó en el sur de Estonia, en tierra de nadie. Fue relevado del mando, aunque no castigado, después de decirle a Stalin en el Kremlin que estaba dispuesto a arrancar aquellos motores con los dientes.</p>
@@ -123,6 +122,8 @@ Ochenta y cinco años después, lo que sobrevive de aquella noche es sobre todo 
 - <a href="https://es.wikipedia.org/wiki/Bombardeos_de_Berl%C3%ADn_en_la_Segunda_Guerra_Mundial" style="color: #315fea; text-decoration: none;">Bombardeos de Berlín en la Segunda Guerra Mundial — Wikipedia en español</a>
 - <a href="https://warthunder.com/en/news/768--en" style="color: #315fea; text-decoration: none;">«The Long Flight to Berlin: Soviet bombings of 1941», reseña histórica con el detalle de las averías de los motores diésel</a>
 - <a href="https://www.espacioaereo.net/2021/08/los-aviones-rusos-que-bombardearon.html" style="color: #315fea; text-decoration: none;">Espacio Aéreo: «Los aviones rusos que bombardearon Berlín en agosto de 1941»</a>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Las fuentes divergen de manera sustancial sobre el número de aparatos que alcanzaron Berlín. El parte que el propio Vodopyanov presentó a Stalin al día siguiente, recogido por la revista <em>Aviation History</em>, afirma que once aviones llegaron al objetivo, seis regresaron a su base, uno fue derribado por la artillería antiaérea propia, otro quedó desaparecido y el resto realizó aterrizajes forzosos por fallo de motor. La entrada de Wikipedia en inglés, apoyada en la obra del historiador Christer Bergström, sostiene en cambio que solo cuatro alcanzaron Berlín o sus alrededores y que de ellos únicamente dos regresaron a la base. Se ha optado por exponer la divergencia en lugar de elegir una cifra, dado que la primera versión procede del mando de la operación —parte interesada en el resultado— y la segunda de una revisión historiográfica posterior.</p>
