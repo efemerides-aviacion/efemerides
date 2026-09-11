@@ -14,11 +14,14 @@ image: 1907-06-01-nacimiento-frank-whittle.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1907-06-01-nacimiento-frank-whittle.webp" alt="Retrato de Sir Frank Whittle en uniforme de la RAF">
   <figcaption class="post-caption">Retrato oficial de Sir Frank Whittle en uniforme de la Royal Air Force, pionero británico del motor turborreactor, nacido el 1 de junio de 1907. Fuente: National Portrait Gallery / dominio público.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 1 de junio de 1907 nació en Coventry, Warwickshire, Inglaterra, **Frank Whittle**, el ingeniero y oficial de la Royal Air Force que inventó el motor turborreactor, una de las innovaciones más importantes del siglo XX . En 1928, siendo cadete de la RAF, presentó una tesis titulada *"Future Developments in Aircraft Design"* en la que demostraba matemáticamente que un motor de turbina de gas podía ser más eficiente a gran altitud que los motores de pistón convencionales . En 1930 patentó su diseño, pero el Ministerio del Aire británico lo rechazó por considerarlo impracticable . Sin financiación, su patente expiró en 1934. En 1935, con la ayuda de dos excompañeros de la RAF, fundó **Power Jets Ltd.** y, tras superar innumerables dificultades, logró hacer funcionar su **Whittle Unit (WU)** el 12 de abril de 1937, en una fábrica de Rugby, Inglaterra . Este fue el **primer turborreactor práctico del mundo**, un hito que inauguró la era del jet . En 1941, el Gloster E.28/39, propulsado por un motor Whittle, realizó el primer vuelo británico a reacción . Whittle fue nombrado Caballero (Sir) en 1948 y falleció el 9 de agosto de 1996 en Columbia, Maryland, a los 89 años .
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -58,7 +61,7 @@ La tesis de Whittle de 1928 fue recibida con escepticismo por el Ministerio del 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Desarrollo Cronológico de la Vida y Obra
+## Desarrollo Cronológico
 
 - **1 de junio de 1907:** Nace Frank Whittle en Coventry, Inglaterra .
 - **1923:** A los 15 años, se alista en la RAF como aprendiz mecánico .
@@ -82,9 +85,7 @@ La tesis de Whittle de 1928 fue recibida con escepticismo por el Ministerio del 
 - **1988:** Recibe la Medalla Nacional de la Ciencia de Estados Unidos .
 - **9 de agosto de 1996:** Fallece en Columbia, Maryland, a los 89 años .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## El Whittle Unit (WU): El Primer Motor Turborreactor
+### El Whittle Unit (WU): El Primer Motor Turborreactor
 
 La **Whittle Unit (WU)** fue el motor experimental construido por Power Jets Ltd. en colaboración con British Thomson-Houston (BTH). Su diseño estableció la configuración básica del turborreactor moderno.
 
@@ -101,9 +102,7 @@ La **Whittle Unit (WU)** fue el motor experimental construido por Power Jets Ltd
 
 A pesar de su carácter rudimentario y de los problemas de control de aceleración en las primeras pruebas, el WU demostró que el concepto era viable. El motor original se conserva en el **Science Museum de Londres** .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## La Controversia Whittle vs. Von Ohain
+### La Controversia Whittle vs. Von Ohain
 
 Independientemente, **Hans Joachim Pabst von Ohain** trabajaba en Alemania en un diseño similar. Su motor, el Heinkel HeS 3, impulsó el **Heinkel He 178**, que realizó su primer vuelo el **27 de agosto de 1939**, antes que el Gloster E.28/39 británico .
 

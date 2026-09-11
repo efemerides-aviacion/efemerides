@@ -14,11 +14,14 @@ image: 1940-06-04-participacion-aerea-operacion-dynamo-dunkerke.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1940-06-04-participacion-aerea-operacion-dynamo-dunkerke.webp" alt="The Withdrawal from Dunkirk">
   <figcaption class="post-caption">Ilustración titulada The Withdrawal from Dunkirk realizada en 1940 por Charles Ernest Cundall, que representa la evacuación de Dunkerque entre mayo y junio de 1940 durante la Segunda Guerra Mundial; fuente: Imperial War Museums / World History Encyclopedia.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 4 de junio de 1940 concluyó la **Operación Dynamo**, la evacuación aliada de Dunkerque, Francia, que entre el 26 de mayo y el 4 de junio rescató a **338.226 soldados** (198.000 británicos y 140.000 franceses y belgas) del cerco del ejército alemán. La **Royal Air Force (RAF)** desempeñó un papel crucial en la operación, proporcionando cobertura aérea a los buques de evacuación y a las tropas en las playas, enfrentándose a la **Luftwaffe** en una de las mayores batallas aéreas de la campaña de Francia. Aunque la RAF perdió **177 aviones**, su presencia impidió que la aviación alemana aniquilara a las fuerzas aliadas en las playas. El primer ministro **Winston Churchill** calificó la evacuación como un "milagro de liberación".
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -56,7 +59,7 @@ La evacuación de Dunkerque se convirtió en un mito fundacional en la cultura b
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico de la Operación
+## Desarrollo Cronológico
 
 - **10 de mayo de 1940:** Alemania invade Francia y los Países Bajos.
 - **20 de mayo de 1940:** Las fuerzas alemanas alcanzan el Canal de la Mancha, cercando a las tropas aliadas.
@@ -68,9 +71,7 @@ La evacuación de Dunkerque se convirtió en un mito fundacional en la cultura b
 - **4 de junio de 1940, 10:20:** El Contralmirante William Wake-Walker, último oficial británico en abandonar Dunkerque, declara finalizada la operación. La cifra final de evacuados es de **338.226 soldados**.
 - **4 de junio de 1940, tarde:** Winston Churchill pronuncia su discurso ante la Cámara de los Comunes, advirtiendo que "las guerras no se ganan con evacuaciones".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Papel de la Royal Air Force
+### El Papel de la Royal Air Force
 
 La contribución de la RAF fue decisiva para el éxito de la operación. El **Fighter Command**, bajo el mando del Mariscal del Aire Hugh Dowding, desplegó escuadrones desde el sur de Inglaterra para proporcionar cobertura aérea a los buques y a las tropas en las playas.
 
@@ -85,9 +86,7 @@ El principal desafío para la RAF era la distancia: los aviones volaban desde ba
 
 A pesar de que las tropas en tierra a menudo no veían a los aviones británicos (la batalla aérea ocurría a mayor altitud o sobre el mar), la presencia de la RAF fue fundamental para evitar que la Luftwaffe aniquilara a las fuerzas aliadas en las playas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Las "Little Ships" (Pequeñas Embarcaciones)
+### Las "Little Ships" (Pequeñas Embarcaciones)
 
 Uno de los aspectos más emblemáticos de la operación fue la participación de embarcaciones civiles. Ante la falta de suficientes buques de guerra, el Almirantazgo británico hizo un llamamiento a propietarios de yates, barcos de pesca, lanchas de salvamento y otras embarcaciones pequeñas.
 

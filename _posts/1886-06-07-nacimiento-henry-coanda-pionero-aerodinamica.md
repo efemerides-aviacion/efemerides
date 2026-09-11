@@ -14,11 +14,14 @@ image: 1886-06-07-nacimiento-henry-coanda-pionero-aerodinamica.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1886-06-07-nacimiento-henry-coanda-pionero-aerodinamica.webp" alt="Retrato de Henri Coandă">
   <figcaption class="post-caption">Retrato del ingeniero y académico rumano Henri Marie Coandă (1886‑1972), pionero de la aviación, precursor conceptual de la propulsión por reacción y descubridor del efecto Coandă. Fuente: Instituto Cultural Rumano (ICR).</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El **7 de junio de 1886** nació en Bucarest, Rumanía, **Henri Marie Coandă**, uno de los grandes pioneros de la aerodinámica y la aviación. Ingeniero, inventor y físico, Coandă diseñó el **Coandă-1910**, un avión sin hélice que la historiografía reconoce como el **primer avión de tamaño real concebido para propulsión por reacción**, aunque no consta que llegara a volar. Coandă también descubrió y dio nombre al **Efecto Coandă**, un fenómeno de dinámica de fluidos por el cual un chorro de gas o líquido tiende a adherirse a una superficie convexa, principio fundamental en aerodinámica, combustión y ventilación. A lo largo de su vida, registró unos **250 inventos** en campos tan diversos como la aeronáutica, la energía y el transporte. Falleció en Bucarest el **25 de noviembre de 1972**, a los 86 años.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -56,7 +59,7 @@ Coandă fue contemporáneo de otros grandes pioneros de la aviación temprana: l
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Desarrollo Cronológico de su Vida y Obra
+## Desarrollo Cronológico
 
 - **7 de junio de 1886:** Nace Henri Coandă en Bucarest, Rumanía.
 - **1904:** Ingresa en la Escuela Politécnica de Bucarest.
@@ -72,9 +75,7 @@ Coandă fue contemporáneo de otros grandes pioneros de la aviación temprana: l
 - **1970:** El aeropuerto de Bucarest-Otopeni es renombrado como **Aeropuerto Internacional Henri Coandă** en su honor.
 - **25 de noviembre de 1972:** Fallece en Bucarest a los 86 años.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## El Coandă-1910 y la controversia del primer vuelo a reacción
+### El Coandă-1910 y la controversia del primer vuelo a reacción
 
 El **Coandă-1910** fue un avión experimental diseñado por Henri Coandă durante su estancia en París. Su sistema de propulsión, sin hélice, era radicalmente distinto al de los aeroplanos de la época y le ha valido un lugar singular —y debatido— en la historia de la aviación.
 
@@ -91,9 +92,7 @@ El **Coandă-1910** fue un avión experimental diseñado por Henri Coandă duran
 
 **El supuesto accidente de 1910:** La versión según la cual el aparato, durante unas pruebas en Issy-les-Moulineaux en diciembre de 1910, rodó descontrolado y acabó incendiado por el calor de su propio chorro de escape procede del relato que el propio Coandă difundió a partir de 1956. No existe constancia contemporánea del episodio: ni *L'Aérophile*, ni *Le Figaro* ni *Flight* lo recogieron, pese a que Issy era el aeródromo más observado de París. Los planos que Coandă presentó en 1965 como prueba del vuelo resultaron alterados respecto a sus patentes originales. Por eso la historiografía actual niega el vuelo y la combustión de combustible en el flujo de aire, y reconoce en cambio al Coandă-1910 como «*the first full-size completed aeroplane designed for reaction propulsion*» («el primer avión de tamaño completo concebido para propulsión por reacción»), en palabras de Charles Harvard Gibbs-Smith.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## El Efecto Coandă
+### El Efecto Coandă
 
 El **Efecto Coandă** (o Efecto Coanda) es un fenómeno de dinámica de fluidos descubierto y nombrado por Henri Coandă. Se define como la tendencia de un chorro de fluido (líquido o gas) a adherirse a una superficie convexa.
 

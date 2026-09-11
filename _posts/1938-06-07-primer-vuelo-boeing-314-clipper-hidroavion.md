@@ -14,11 +14,14 @@ image: 1938-06-07-primer-vuelo-boeing-314-clipper-hidroavion.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1938-06-07-primer-vuelo-boeing-314-clipper-hidroavion.webp" alt="Boeing 314 Clipper en vuelo">
   <figcaption class="post-caption">El hidroavión de largo alcance Boeing 314 Clipper, fotografiado hacia 1938, uno de los más emblemáticos aviones de la era dorada de los vuelos transoceánicos. Fuente: Boeing Airplane Company / UW Special Collections (TRA1478), HistoryLink.org.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El **7 de junio de 1938**, el prototipo del **Boeing 314 Clipper** (matrícula NX18601) realizó su primer vuelo desde **Elliott Bay, Seattle, Washington**, pilotado por el legendario piloto de pruebas **Edmund T. "Eddie" Allen**. El vuelo duró **38 minutos** sobre Puget Sound, alcanzando una altitud de 1.500 pies. El avión, encargado por **Pan American Airways (Pan Am)** para establecer servicios regulares transatlánticos y transpacíficos, fue el hidroavión más grande y lujoso de su época. Con capacidad para hasta 74 pasajeros en configuración diurna o 40 en literas para vuelos nocturnos, el Clipper introdujo estándares de lujo nunca antes vistos en la aviación comercial: comedor con servicio de plata, chefs de hoteles de 4 estrellas y camarines separados. El 28 de junio de 1939, el Clipper se convirtió en el **primer avión comercial en cruzar el Atlántico con pasajeros** en la ruta Nueva York-Southampton. Se construyeron **12 unidades** (6 Model 314 y 6 Model 314A) entre 1938 y 1941. Ningún Clipper sobrevive hoy; todos fueron perdidos o desechados entre 1946 y 1951.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -38,9 +41,7 @@ El **7 de junio de 1938**, el prototipo del **Boeing 314 Clipper** (matrícula N
 - **Retiro:** 1946 (Pan Am y BOAC)
 - **Último Clipper desechado:** 1951
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas
+### Especificaciones Técnicas
 
 El Boeing 314 Clipper era una aeronave de dimensiones imponentes para su época, con un diseño que priorizaba la autonomía y el confort de los pasajeros. A continuación se presentan sus características técnicas más relevantes.
 
@@ -91,7 +92,7 @@ El Clipper fue bautizado con nombres emblemáticos: *Honolulu Clipper* (el proto
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Programa
+## Desarrollo Cronológico
 
 - **1935:** Pan American Airways identifica la necesidad de un hidroavión de largo alcance superior al Martin M-130.
 - **30 de junio de 1936:** Boeing firma contrato de **4,8 millones de dólares** con Pan Am para 6 hidrocanoas Model 314.
@@ -109,9 +110,7 @@ El Clipper fue bautizado con nombres emblemáticos: *Honolulu Clipper* (el proto
 - **1946:** Pan Am y BOAC retiran los Clippers; último vuelo comercial: 8-9 de abril de 1946 (Honolulu-San Francisco).
 - **1951:** El último Clipper superviviente es desechado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Los Problemas de Estabilidad y las Modificaciones
+### Los Problemas de Estabilidad y las Modificaciones
 
 El primer vuelo del 314 reveló problemas significativos de estabilidad direccional:
 
@@ -122,9 +121,7 @@ El primer vuelo del 314 reveló problemas significativos de estabilidad direccio
 
 **Anécdota:** George S. Schairer, un joven ingeniero de Consolidated Aircraft, vio una foto del prototipo en una revista aeronáutica y advirtió que la cola era demasiado pequeña. Su observación resultó profética.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Lujo del Clipper
+### El Lujo del Clipper
 
 El Boeing 314 ofrecía un nivel de lujo nunca antes visto en la aviación comercial:
 
@@ -137,9 +134,7 @@ El Boeing 314 ofrecía un nivel de lujo nunca antes visto en la aviación comerc
 
 El costo de un pasaje Nueva York-Southampton en 1939 era de **675 dólares** (equivalente a unos 15.000 dólares de 2025).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Los Clippers en la Segunda Guerra Mundial
+### Los Clippers en la Segunda Guerra Mundial
 
 Tras el ataque a Pearl Harbor en diciembre de 1941, todos los Clippers fueron requisados por el Ejército y la Armada de EE. UU. :
 

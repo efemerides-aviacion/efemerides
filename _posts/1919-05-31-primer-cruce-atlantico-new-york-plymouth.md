@@ -14,11 +14,14 @@ image: 1919-05-31-primer-cruce-atlantico-new-york-plymouth.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1919-05-31-primer-cruce-atlantico-new-york-plymouth.webp" alt="Hidroavión Curtiss NC-4 en vuelo">
   <figcaption class="post-caption">El hidroavión Curtiss NC-4 de la Armada de los Estados Unidos, número de serie A2294, durante su travesía transatlántica en mayo de 1919. El 31 de mayo de 1919 completó el primer cruce aéreo del Atlántico, llegando a Plymouth, Inglaterra. Fuente: National Naval Aviation Museum / dominio público.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 31 de mayo de 1919, el hidroavión Curtiss NC-4 de la Armada de los Estados Unidos aterrizó en Plymouth, Inglaterra, completando el primer cruce aéreo del océano Atlántico en la historia . La expedición había partido el 8 de mayo desde la Estación Aérea Naval de Rockaway, Nueva York, con tres hidroaviones (NC-1, NC-3 y NC-4) bajo el mando general del Comandante John H. Towers . Solo el NC-4, comandado por el Teniente Comandante Albert Cushing Read, logró completar la travesía completa . La ruta incluyó escalas en Massachusetts, Nueva Escocia, Terranova, las Azores, Lisboa y Ferrol, antes de llegar a Plymouth . El viaje duró 23 días, con un tiempo total de vuelo acumulado de 57 horas y 16 minutos (según el United States Navy Memorial) o 53 horas y 58 minutos (según Guinness World Records) sobre una distancia de 7.591 kilómetros (4.717 millas) . El NC-4 fue apoyado por 53 buques de la Armada de los Estados Unidos desplegados como una "cadena de estaciones" a lo largo de la ruta para ayudar en la navegación y el rescate .
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -64,7 +67,7 @@ La travesía del NC-4 fue una empresa masiva que involucró a 53 buques de la Ar
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Vuelo
+## Desarrollo Cronológico
 
 - **8 de mayo de 1919:** Los tres hidroaviones NC-1, NC-3 y NC-4 despegan de la Estación Aérea Naval de Rockaway, Nueva York .
 - **Primeras etapas:** Escalan en Chatham (Massachusetts) y Halifax (Nueva Escocia). NC-4 sufre problemas mecánicos y se retrasa .
@@ -77,9 +80,7 @@ La travesía del NC-4 fue una empresa masiva que involucró a 53 buques de la Ar
 - **30 de mayo:** NC-4 vuela desde Lisboa a Ferrol (España) .
 - **31 de mayo:** NC-4 vuela desde Ferrol a Plymouth, Inglaterra, con 10 buques de la Armada desplegados en la ruta final . A su llegada, recibe una escolta de aviones de la Royal Air Force y salvas de 21 disparos de un buque de guerra británico .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La Tripulación del NC-4
+### La Tripulación del NC-4
 
 El hidroavión NC-4 estaba tripulado por seis miembros, todos oficiales de la Armada de los Estados Unidos y de la Guardia Costera:
 
@@ -92,9 +93,7 @@ El hidroavión NC-4 estaba tripulado por seis miembros, todos oficiales de la Ar
 
 El comandante general de la expedición, el comandante **John H. Towers**, volaba en el NC-3 . El almirante **Marc Mitscher** (futuro comandante de la Task Force 58 en el Pacífico durante la Segunda Guerra Mundial) era el piloto del NC-1 .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas del Curtiss NC-4
+### Especificaciones Técnicas del Curtiss NC-4
 
 El Curtiss NC-4 era un hidroavión de patrulla diseñado por Glenn Curtiss y su equipo, con el fuselaje construido por la Herreshoff Manufacturing Corporation en Bristol, Rhode Island .
 

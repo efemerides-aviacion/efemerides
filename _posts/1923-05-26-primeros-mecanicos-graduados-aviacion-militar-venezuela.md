@@ -14,11 +14,14 @@ image: 1923-05-26-primeros-mecanicos-graduados-aviacion-militar-venezuela.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1923-05-26-primeros-mecanicos-graduados-aviacion-militar-venezuela.webp" alt="Caudron G.3 de la Aviación Militar Venezolana">
   <figcaption class="post-caption">Vista histórica de los primeros hangares y aeronaves de la Escuela de Aviación Militar en Maracay, escenario donde en 1923 se graduaron los primeros mecánicos aeronáuticos venezolanos, responsables del mantenimiento de los aviones iniciales de la flota; fuente: archivo histórico / dominio público.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 26 de mayo de 1923, Ernesto Salas Agelvis y Amador Nieto recibieron sus diplomas de suficiencia técnica, convirtiéndose en los primeros mecánicos aeronáuticos certificados por la Escuela de Aviación Militar de Venezuela . La graduación ocurrió en Maracay, sede de la naciente aviación militar, bajo la dirección del Ministerio de Guerra y Marina. Salas Agelvis, natural de San Antonio del Táchira (6 de diciembre de 1901), había ingresado a la Escuela el 16 de febrero de 1921 y obtuvo la máxima calificación de **99/100 puntos**, primer lugar entre los alumnos de su especialidad . En la misma promoción se graduaron pilotos históricos como Francisco Leonardi, Miguel Rodríguez, Manuel Ríos y Prisco Heuer . Años más tarde, en 1923 o 1924, Salas Agelvis lideró la construcción del avión **"La Chiva"** a partir de restos de aeronaves, una hazaña que convenció al General Juan Vicente Gómez de no cerrar la Escuela de Aviación Militar, salvando así la aviación venezolana de la extinción .
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -61,7 +64,7 @@ La graduación de los primeros técnicos venezolanos representó un paso decisiv
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico de la Aviación Militar Venezolana
+## Desarrollo Cronológico
 
 - **1912:** Primeras exhibiciones aéreas en Venezuela por el aviador estadounidense Frank Boland, sin continuidad institucional.
 - **1919:** El agregado militar francés en Caracas recomienda al gobierno venezolano el desarrollo de la aviación marítima.
@@ -75,9 +78,7 @@ La graduación de los primeros técnicos venezolanos representó un paso decisiv
 - **1923 (mismo año):** Se gradúan pilotos de la misma promoción, incluyendo a Francisco Leonardi, Miguel Rodríguez, Manuel Ríos y Prisco Heuer.
 - **1923-1924 (finales de 1922 según contexto):** El gobierno decide no renovar el contrato a la misión francesa y ordena cerrar la Escuela. Salas Agelvis y sus compañeros construyen el avión **"La Chiva"** a partir de restos, cuyo vuelo convence al General Gómez de mantener la aviación .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El avión "La Chiva" y cómo Salas Agelvis salvó la aviación venezolana
+### El avión "La Chiva" y cómo Salas Agelvis salvó la aviación venezolana
 
 A finales de 1922, el gobierno del General Juan Vicente Gómez decidió no renovar el contrato a la misión aeronáutica francesa y ordenó al personal de la Escuela de Aviación Militar que se preparara para retornar a sus cuarteles o a sus casas . La aviación militar venezolana estaba a punto de desaparecer.
 
@@ -89,9 +90,7 @@ El impacto fue inmediato. Aunque Gómez no hizo comentario alguno, su hijo Flore
 
 Gracias a Salas Agelvis, Nieto, Vivas, Segnini, Romero, Rodríguez y Florencio Gómez, la aviación militar venezolana se salvó de la extinción.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Trayectoria posterior de Ernesto Salas Agelvis
+### Trayectoria posterior de Ernesto Salas Agelvis
 
 Ernesto Salas Agelvis nació en San Antonio del Táchira el 6 de diciembre de 1901, hijo del Señor Ernesto Salas M. y Teresa Agelvis . Ingresó en la Escuela de Aviación Militar como Alumno Mecánico el 16 de febrero de 1921, obteniendo la máxima calificación de 99/100 puntos, primer lugar entre los alumnos de su especialidad .
 
@@ -114,9 +113,7 @@ Ernesto Salas Agelvis nació en San Antonio del Táchira el 6 de diciembre de 19
 
 **Fallecimiento:** 3 de marzo de 1970, en Maracay, Estado Aragua, a causa de un infarto. Las autoridades de la Aviación Militar y los alumnos de la Escuela Técnica FAV le rindieron honores como su Director Fundador y Pionero .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Caudron G.3 en Venezuela
+### El Caudron G.3 en Venezuela
 
 El Caudron G.3 fue el primer avión de la Aviación Militar Venezolana . Seis unidades de este modelo fueron adquiridas en Francia en 1920 para formar la primera flota de entrenamiento de la Escuela de Aviación Militar .
 

@@ -14,11 +14,14 @@ image: 1940-05-29-primer-vuelo-vought-sikorsky-f4u1-corsair.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1940-05-29-primer-vuelo-vought-sikorsky-f4u1-corsair.webp" alt="Prototipo Vought XF4U-1 Corsair en vuelo">
   <figcaption class="post-caption">El prototipo Vought-Sikorsky XF4U-1 Corsair (Bu. No. 1443) durante su primer vuelo el 29 de mayo de 1940 desde el aeropuerto municipal de Bridgeport, Connecticut. Fuente: This Day in Aviation / dominio público.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 29 de mayo de 1940, el prototipo XF4U-1 Corsair, número de oficina BuNo 1443, despegó del aeropuerto municipal de Bridgeport, Connecticut, con el piloto de pruebas Lyman A. Bullard Jr. a los mandos. Diseñado por el ingeniero Rex Buren Beisel para la Armada de los Estados Unidos, el Corsair introdujo innovaciones revolucionarias, incluyendo el motor radial Pratt & Whitney R-2800 Double Wasp de 1.850 caballos de fuerza que impulsaba la hélice más grande jamás instalada en un caza (13 pies y 1 pulgada de diámetro), y su característica ala de gaviota invertida que permitía el despegue desde portaaviones sin un tren de aterrizaje excesivamente largo. Con una producción total de 12.571 unidades entre 1942 y 1953, el Corsair se convirtió en uno de los cazas de pistón más producidos en la historia de Estados Unidos.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -59,7 +62,7 @@ El Corsair se ganó el respeto y el temor de sus adversarios. Los pilotos japone
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Programa Corsair
+## Desarrollo Cronológico
 
 - **1 de febrero de 1938:** La Armada de EE. UU. solicita propuestas para un nuevo caza embarcado
 - **Junio de 1938:** Vought gana la competencia con su diseño impulsado por el R-2800
@@ -73,9 +76,7 @@ El Corsair se ganó el respeto y el temor de sus adversarios. Los pilotos japone
 - **1953:** Último Corsair entregado a la Armada de EE. UU.; fin de la producción
 - **1979:** Honduras retira sus últimos Corsair, el retiro más tardío del modelo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Características Técnicas del F4U-1 Corsair
+### Características Técnicas del F4U-1 Corsair
 
 El Corsair era un caza monoplaza, monomotor, de ala baja, diseñado específicamente para operar desde portaaviones.
 
@@ -91,9 +92,7 @@ El Corsair era un caza monoplaza, monomotor, de ala baja, diseñado específicam
 - **Alcance:** 1.015 millas (1.633 km) con combustible interno
 - **Armamento:** seis ametralladoras Browning M2 de.50 pulgadas (12,7 mm) montadas en las alas (tres por ala); capacidad para hasta 4.000 lb (1.814 kg) de bombas o cohetes
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Los Apodos del Corsair
+### Los Apodos del Corsair
 
 El F4U Corsair fue conocido por varios apodos a lo largo de su carrera, tanto por sus aliados como por sus enemigos. Cada uno de ellos refleja un aspecto diferente de la reputación y las características de este legendario caza.
 
@@ -105,9 +104,7 @@ Los pilotos japoneses apodaron al Corsair "Whistling Death" debido al caracterí
 
 En sus inicios, el Corsair tenía fama de ser un avión difícil de volar, especialmente en las difíciles condiciones de aterrizaje en portaaviones. Las primeras versiones sufrían de una visibilidad pésima hacia adelante debido a la larga capota del motor y la posición del piloto, una tendencia a entrar en pérdida violenta a bajas velocidades, y un fuerte efecto de torsión del motor que complicaba el despegue. El apodo "Ensign Eliminator" surgió después de que el primer escuadrón de Corsair, el VF-12, recibiera sus aviones en octubre de 1942 y sufriera múltiples accidentes.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Corsair en Combate
+### El Corsair en Combate
 
 Aunque fue diseñado para la Armada, los primeros Corsair fueron asignados principalmente al Cuerpo de Marines de los Estados Unidos, que los operó desde bases terrestres en el Pacífico Sur. El VMF-124 fue el primer escuadrón de Marines en utilizar el Corsair en combate, en febrero de 1943.
 

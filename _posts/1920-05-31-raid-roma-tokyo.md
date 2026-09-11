@@ -14,11 +14,14 @@ image: 1920-05-31-raid-roma-tokyo.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1920-05-31-raid-roma-tokyo.webp" alt="Biplano Ansaldo SVA 9 durante el raid Roma-Tokyo">
   <figcaption class="post-caption">Mapa demostrativo del Raid Aéreo Roma‑Tokio, con la ruta marcada desde Roma hasta Tokio atravesando Europa y Asia, realizado por pilotos italianos en el histórico vuelo del 31 de mayo de 1920; fuente: Archivissima, “Il Raid Roma‑Tokyo: l’inizio di un’amicizia”.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 31 de mayo de 1920, los pilotos italianos **Arturo Ferrarin** y **Guido Masiero**, acompañados por los mecánicos **Gino Capannini** y **Roberto Maretto**, aterrizaron en Tokio tras recorrer 18.000 kilómetros desde Roma en 112 horas de vuelo. La expedición, conocida como el **Raid Roma-Tokyo**, fue ideada por el poeta y aviador **Gabriele D'Annunzio** junto al poeta japonés **Harukichi Shimoi** como un puente simbólico entre ambas naciones. Partió el 14 de febrero de 1920 desde el aeródromo de Centocelle en Roma con 11 aeronaves (4 Caproni y 7 Ansaldo SVA 9). Solo Ferrarin completó la totalidad del trayecto volando; Masiero se vio obligado a utilizar el tren entre Delhi y Calcuta y un barco entre Cantón y Shanghái tras accidentes. Los aviadores fueron recibidos por una multitud de más de 200.000 personas en el Parque Yoyogi de Tokio, y el emperador Hirohito declaró 42 días de fiesta nacional en honor a la hazaña.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -58,7 +61,7 @@ El raid fue celebrado como un símbolo del ingenio italiano. Todos los component
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Raid
+## Desarrollo Cronológico
 
 El raid Roma-Tokyo se desarrolló a lo largo de más de tres meses, con numerosas escalas y dificultades en cada etapa. A continuación se presenta la cronología de los hitos más importantes.
 
@@ -93,9 +96,7 @@ El raid Roma-Tokyo se desarrolló a lo largo de más de tres meses, con numerosa
 - **30 de mayo de 1920:** Ferrarin aterriza en **Osaka**. Masiero llega poco después.
 - **31 de mayo de 1920, tarde:** Ambos aviones aterrizan en el **Parque Yoyogi de Tokio** ante una multitud de más de 200.000 personas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Los Protagonistas
+### Los Protagonistas
 
 La hazaña del raid Roma-Tokyo fue posible gracias al valor y la determinación de cuatro hombres: dos pilotos y dos mecánicos. A continuación se presenta información biográfica de cada uno.
 
@@ -115,9 +116,7 @@ Acompañó a Ferrarin durante todo el raid, reparando el motor en innumerables o
 
 Nacido en Cadoneghe (cerca de Padua), compartió con Masiero las dificultades del viaje, incluyendo el accidente en Cantón y la travesía marítima hasta Shanghai. Falleció el **7 de febrero de 1942** en el hospital militar de Padua por enfermedad contraída en servicio, a los 49 años.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas del Ansaldo SVA 9
+### Especificaciones Técnicas del Ansaldo SVA 9
 
 El Ansaldo SVA 9 fue el biplano utilizado por Ferrarin y Masiero en el raid Roma-Tokyo.
 

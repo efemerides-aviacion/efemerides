@@ -14,11 +14,14 @@ image: 1910-06-02-primera-travesia-ida-vuelta-sin-escalas-canal-mancha.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1910-06-02-primera-travesia-ida-vuelta-sin-escalas-canal-mancha.webp" alt="Charles Rolls despegando en el vuelo sobre el Canal de la Mancha">
   <figcaption class="post-caption">Charles Rolls despegando en el histórico vuelo del 2 de junio de 1910, con el que logró la primera travesía de ida y vuelta sin escalas sobre el Canal de la Mancha. Fuente: Rolls-Royce / archivo histórico.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 2 de junio de 1910, **Charles Stewart Rolls**, cofundador de la emblemática marca de automóviles Rolls-Royce, se convirtió en la primera persona en realizar un vuelo de ida y vuelta sin escalas sobre el Canal de la Mancha. Despegó desde **Swingate Downs**, cerca de Dover, Inglaterra, a bordo de un **Wright Model A** (también conocido como Wright Flyer). Cruzó el canal hasta la costa francesa cerca de **Sangatte**, viró sobre la playa y regresó a Inglaterra, completando la travesía en aproximadamente **95 minutos**. Este hito, que duplicaba la dificultad del vuelo de Louis Blériot de 1909 (que solo había cruzado en una dirección), demostró la fiabilidad y resistencia de los primeros aviones. El vuelo le valió la **Medalla de Oro del Royal Aero Club**. Trágicamente, apenas seis semanas después, Rolls fallecería en un accidente aéreo en Bournemouth, convirtiéndose en el **primer británico en morir en un accidente de aviación motorizada**.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -57,7 +60,7 @@ Charles Rolls era considerado un "caballero aviador", un pionero aristocrático 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Vuelo
+## Desarrollo Cronológico
 
 - **2 de junio de 1910, aproximadamente 07:00:** Rolls despega de Swingate Downs, cerca de Dover, Inglaterra.
 - **Trayecto de ida:** Vuela sobre el Canal de la Mancha en dirección sureste, manteniendo una altitud baja para evitar las nubes.
@@ -67,17 +70,13 @@ Charles Rolls era considerado un "caballero aviador", un pionero aristocrático 
 - **Consecuencias inmediatas:** Es recibido por una multitud entusiasta y la prensa. El *Daily Mail* le entrega el premio de 10.000 libras, y el Royal Aero Club le otorga su Medalla de Oro.
 - **12 de julio de 1910 (seis semanas después):** Rolls participa en una exhibición aérea en Bournemouth. A bordo de un Wright Flyer, el estabilizador de cola se desprende del avión. Rolls se precipita desde 20 metros de altura, sufriendo una fractura de cráneo. Fallece horas después en el hospital local, a los 32 años.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Charles Rolls: El "Caballero Aviador"
+### Charles Rolls: El "Caballero Aviador"
 
 **Charles Stewart Rolls** nació el 27 de agosto de 1877 en Berkeley Square, Londres, en el seno de una familia aristocrática. Estudió en Eton College y en el Trinity College de Cambridge, donde se graduó en ingeniería mecánica y aplicada. Su pasión por la velocidad lo llevó al automovilismo; en 1902 estableció un récord de velocidad en tierra de 93 mph (150 km/h). En 1906, fundó **Rolls-Royce Limited** junto al ingeniero Henry Royce, combinando su talento comercial y social con la brillantez técnica de Royce.
 
 Rolls fue uno de los primeros británicos en volar. En 1908, se encontró con Wilbur Wright en Francia y quedó fascinado. Aprendió a volar en la escuela de vuelo de los hermanos Wright en Le Mans, Francia, y en 1909 obtuvo la licencia de piloto Nº 5 del Royal Aero Club. Fue el primer británico en realizar un vuelo circular (circuito cerrado) y el primero en cruzar el Canal de la Mancha y regresar.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Wright Model A
+### El Wright Model A
 
 El Wright Model A fue el primer avión producido en serie por los hermanos Wright, basado en su Flyer III de 1905.
 
