@@ -14,11 +14,14 @@ image: 1958-05-27-primer-vuelo-prototipo-yf4h1-phantom-ii.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1958-05-27-primer-vuelo-prototipo-yf4h1-phantom-ii.webp" alt="Prototipo McDonnell YF4H-1 Phantom II en su primer vuelo">
   <figcaption class="post-caption">El prototipo McDonnell YF4H-1 Phantom II, Bu. No. 142259 (originalmente designado XF4H-1), durante su primer vuelo el 27 de mayo de 1958, fotografiado con el tren de aterrizaje extendido. Fuente: This Day in Aviation / McDonnell Douglas Corporation.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 27 de mayo de 1958, el prototipo XF4H-1 (posteriormente redesignado YF4H-1) del McDonnell Douglas F-4 Phantom II realizó su vuelo inaugural desde Lambert Field en St. Louis, Missouri, con el piloto jefe de pruebas Robert C. Little a los controles. El vuelo duró 22 minutos y, aunque una fuga hidráulica impidió alcanzar velocidades supersónicas, sentó las bases para el desarrollo de uno de los cazas más importantes de la Guerra Fría. Originalmente concebido como un interceptor de defensa de flota para la Armada de los Estados Unidos, el Phantom II trascendió su propósito inicial para convertirse en un caza multirrol que serviría en la Armada, el Cuerpo de Marines, la Fuerza Aérea y las fuerzas aéreas de otros once países. A lo largo de su carrera, estableció 16 récords mundiales de velocidad, altitud y tiempo de ascenso, incluido un récord de altitud de 98.557 pies (30.040 metros) en diciembre de 1959. Con 5.195 unidades construidas entre 1958 y 1979, es el caza supersónico estadounidense más producido en la historia y un símbolo indiscutible del poder aéreo de la segunda mitad del siglo XX.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -56,7 +59,7 @@ El Phantom II fue apodado "Double Ugly" (doble feo) o "Rhino" (rinoceronte) por 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Programa F-4 Phantom II
+## Desarrollo Cronológico
 
 - **1953:** McDonnell Aircraft Corporation comienza a trabajar en un diseño avanzado de interceptor para la Armada estadounidense, basado en su experiencia con el F3H Demon.
 - **1954, 18 de septiembre:** La Armada emite la solicitud de propuestas para un interceptor supersónico de defensa de flota (designación inicial F4H).
@@ -75,9 +78,7 @@ El Phantom II fue apodado "Double Ugly" (doble feo) o "Rhino" (rinoceronte) por 
 - **1992:** El último F-4N en servicio de la Reserva Naval se retira.
 - **2024:** Corea del Sur retira sus últimos F-4E.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Vuelo Inaugural: 27 de Mayo de 1958
+### El Vuelo Inaugural: 27 de Mayo de 1958
 
 El prototipo XF4H-1, con número de serie Bu. No. 142259, fue pilotado por Robert C. Little, quien más tarde se convertiría en presidente de McDonnell Douglas. Little era un experimentado piloto de pruebas que había volado el F3H Demon y otros aviones de McDonnell. El plan original incluía alcanzar velocidades supersónicas durante el primer vuelo, pero una fuga en una línea hidráulica presurizada lo obligó a mantener el tren de aterrizaje extendido como precaución.
 
@@ -85,9 +86,7 @@ Con el tren extendido, la velocidad máxima del prototipo se limitó a 370 nudos
 
 Los dos prototipos YF4H-1 serían seguidos por 45 aviones de preproducción F4H-1F (F-4A) antes de que el primer modelo de producción en serie, el F-4B, entrara en servicio en 1961.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Los Récords del Phantom II
+### Los Récords del Phantom II
 
 En sus primeros años, el Phantom II estableció una asombrosa serie de récords mundiales que demostraron su capacidad sin igual:
 
@@ -100,9 +99,7 @@ En sus primeros años, el Phantom II estableció una asombrosa serie de récords
 
 Además, en 1961, el Phantom II ganó la prestigiosa **Copa Bendix** en una carrera transcontinental.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas (F-4B / F-4N)
+### Especificaciones Técnicas (F-4B / F-4N)
 
 - **Tripulación:** 2 (piloto y Oficial de Interceptación por Radar - RIO)
 - **Longitud:** 58 pies 3 pulgadas (17,75 m)
@@ -116,9 +113,7 @@ Además, en 1961, el Phantom II ganó la prestigiosa **Copa Bendix** en una carr
 - **Alcance:** 2.300 millas (3.700 km) con combustible externo
 - **Armamento:** hasta 16.000 lb (7.257 kg) de bombas en 5 puntos duros; misiles AIM-7 Sparrow y AIM-9 Sidewinder; modelos posteriores incluyeron cañón M61 Vulcan de 20 mm
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El F-4 Phantom II en Combate
+### El F-4 Phantom II en Combate
 
 El Phantom II vio un extenso servicio en la Guerra de Vietnam (1965-1973), donde sirvió como el principal caza de superioridad aérea y cazabombardero de la Armada, el Cuerpo de Marines y la Fuerza Aérea de EE. UU. Los F-4C de la Fuerza Aérea obtuvieron las primeras victorias aéreas estadounidenses de la guerra el 10 de julio de 1965, cuando dos Phantoms derribaron dos MiG-17 con misiles AIM-9 Sidewinder.
 

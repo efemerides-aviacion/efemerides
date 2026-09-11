@@ -17,9 +17,11 @@ image: 1963-05-16-mision-espacial-faith-7-mercury-atlas-9.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 16 de mayo de 1963, el astronauta L. Gordon Cooper amerizó en el Océano Pacífico a bordo de la cápsula Faith 7, completando la misión Mercury-Atlas 9. Con 22 órbitas alrededor de la Tierra y una duración de 34 horas y 20 minutos, fue el vuelo espacial estadounidense más largo hasta ese momento y la sexta y última misión tripulada del Proyecto Mercury. A pesar de los fallos en los sistemas automáticos durante las últimas órbitas, Cooper pilotó manualmente la cápsula para un amerizaje de precisión, demostrando la capacidad del ser humano para controlar una nave espacial en condiciones de emergencia.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
@@ -42,9 +44,7 @@ El 16 de mayo de 1963, el astronauta L. Gordon Cooper amerizó en el Océano Pac
 - **Inclinación orbital:** 32,5 grados
 - **Período orbital:** 88 minutos y 45 segundos
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Especificaciones de la nave Faith 7
+### Especificaciones de la nave Faith 7
 
 - **Fabricante:** McDonnell Aircraft Corporation
 - **Tipo:** Cápsula espacial monoplaza
@@ -76,7 +76,7 @@ Gordon Cooper, uno de los siete astronautas originales del Mercury, era un hombr
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
-## Desarrollo Cronológico de la Misión
+## Desarrollo Cronológico
 
 - **14 de mayo de 1963:** Primer intento de lanzamiento. Cooper pasa seis horas dentro de la cápsula antes de que la misión sea cancelada por problemas de radar en Bermuda y con el motor diésel de la torre de servicio.
 - **15 de mayo de 1963, 8:04 a.m. EDT (13:04:13 UTC):** Cooper despega desde el Complejo de Lanzamiento 14, Cabo Cañaveral, Florida. Wally Schirra es el "capcom" (comunicador con la cápsula) en el Centro de Control.
@@ -95,9 +95,7 @@ Gordon Cooper, uno de los siete astronautas originales del Mercury, era un hombr
 - **Aproximadamente 15 minutos después:** Faith 7 ameriza a solo 6 km (4 millas) del portaaviones de recuperación primario, el USS Kearsarge.
 - **15 minutos después del amerizaje:** Cooper es izado a bordo del USS Kearsarge. Se encuentra en buenas condiciones y puede caminar sin ayuda. Recibe una llamada telefónica de felicitación del presidente John F. Kennedy.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## La odisea de Cooper: el piloto que salvó la misión
+### La odisea de Cooper: el piloto que salvó la misión
 
 La misión Faith 7 demostró que un astronauta, con su entrenamiento y habilidad, podía ser el factor decisivo entre el éxito y el desastre.
 
@@ -117,9 +115,7 @@ Cooper alineó manualmente la cápsula utilizando una ventana de referencia que 
 
 El disparo fue casi perfecto. Faith 7 descendió a través de la atmósfera, y Cooper, aún en control manual, desplegó el paracaídas drogue y luego el paracaídas principal. A las 34 horas, 19 minutos y 49 segundos de haber despegado, la cápsula cayó en el Océano Pacífico a solo 4 millas del USS Kearsarge.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Los experimentos a bordo
+### Los experimentos a bordo
 
 Cooper llevó a cabo 11 experimentos durante su misión:
 

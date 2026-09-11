@@ -14,11 +14,14 @@ image: 1953-06-01-fundacion-grupo-acrobatico-thunderbirds.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1953-06-01-fundacion-grupo-acrobatico-thunderbirds.webp" alt="Aviones Republic F-84 Thunderjet del equipo Thunderbirds en la década de 1950">
   <figcaption class="post-caption">Aviones Republic F-84 Thunderjet del equipo acrobático de la U.S. Air Force Thunderbirds, fotografiados en la década de 1950 en la Base Aérea de Luke (Arizona), poco después de la fundación oficial del grupo el 1 de junio de 1953. Fuente: U.S. Air Force / archivo histórico.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 1 de junio de 1953, la Fuerza Aérea de los Estados Unidos activó oficialmente el **3600th Air Demonstration Team** en la Base Aérea de Luke, Arizona, dando origen a los **Thunderbirds**. El equipo fue creado tras el fin de la Guerra de Corea con la misión de demostrar al público estadounidense la seguridad, fiabilidad y maniobrabilidad de los aviones a reacción, que eran relativamente nuevos en la época. Estaba compuesto por **siete oficiales y veintidós soldados** de la base de Luke, hogar de la escuela de entrenamiento de vuelo avanzado de la USAF. Equipados inicialmente con cuatro cazas **Republic F-84G Thunderjet** , el equipo realizó su primera exhibición aérea el **16 de junio de 1953** en la Base Aérea de Williams, en Mesa, Arizona. Poco después adoptó el nombre **"Thunderbirds"** (Aves del Trueno), inspirado en la criatura legendaria de las culturas nativas del suroeste de Estados Unidos, símbolo de poder y fuerza sobrenatural.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -57,7 +60,7 @@ La elección del nombre "Thunderbirds" refleja la influencia de las culturas nat
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Desarrollo Cronológico de los Thunderbirds
+## Desarrollo Cronológico
 
 - **1953, 1 de junio:** Activación oficial del 3600th Air Demonstration Team en Luke AFB, Arizona.
 - **1953, 16 de junio:** Primera exhibición aérea del equipo en Williams AFB, Mesa, Arizona.
@@ -72,9 +75,7 @@ La elección del nombre "Thunderbirds" refleja la influencia de las culturas nat
 - **1983:** Transición al F-16 Fighting Falcon, que continúa en servicio.
 - **2023:** 70 aniversario de los Thunderbirds.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## La Tripulación Original (1953)
+### La Tripulación Original (1953)
 
 El equipo original de los Thunderbirds estaba compuesto por siete oficiales bajo el mando del **Mayor Dick Catledge**, quien había volado 28 misiones de combate en el P-38 Lightning durante la Segunda Guerra Mundial.
 
@@ -86,9 +87,7 @@ El equipo original de los Thunderbirds estaba compuesto por siete oficiales bajo
 
 La formación original era de cuatro aeronaves, que volaban en formación de diamante. Un quinto piloto actuaba como narrador y realizaba vuelos para prensa y VIP a bordo de un T-33 Shooting Star.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Aeronaves Utilizadas por los Thunderbirds
+### Aeronaves Utilizadas por los Thunderbirds
 
 - **Republic F-84G Thunderjet (1953-1954):** Primer reactor del equipo; caza-bombardero con capacidad nuclear.
 - **Republic F-84F Thunderstreak (1955):** Versión de ala en flecha del Thunderjet.
@@ -98,9 +97,7 @@ La formación original era de cuatro aeronaves, que volaban en formación de dia
 - **Northrop T-38 Talon (1974-1981):** Entrenador supersónico; usado para ahorrar combustible.
 - **Lockheed Martin F-16A/C Fighting Falcon (1983-presente):** Avión actual del equipo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Especificaciones Técnicas del Republic F-84G Thunderjet
+### Especificaciones Técnicas del Republic F-84G Thunderjet
 
 El F-84G fue el primer avión utilizado por los Thunderbirds y una de las aeronaves más importantes de la Guerra de Corea.
 
@@ -117,9 +114,7 @@ El F-84G fue el primer avión utilizado por los Thunderbirds y una de las aerona
 - **Capacidad nuclear:** Una bomba Mark 7
 - **Unidades construidas:** 7.524
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## El Significado del Nombre "Thunderbirds"
+### El Significado del Nombre "Thunderbirds"
 
 El nombre "Thunderbirds" fue adoptado poco después de la activación del equipo, influenciado por la fuerte presencia de la cultura nativa americana en el suroeste de Estados Unidos.
 

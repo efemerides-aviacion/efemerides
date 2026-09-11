@@ -15,11 +15,14 @@ image: 2010-05-26-primer-vuelo-boeing-x-51-waverider.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2010-05-26-primer-vuelo-boeing-x-51-waverider.webp" alt="Boeing X-51A WaveRider bajo el ala de un B-52 Stratofortress">
   <figcaption class="post-caption">El X-51A WaveRider acoplado bajo el ala de un B-52H Stratofortress antes de su histórico vuelo hipersónico. La aeronave fue liberada a aproximadamente 50.000 pies de altitud frente a la costa sur de California. Fuente: Fuerza Aérea de EE. UU. / Mike Cassidy.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 26 de mayo de 2010, el Boeing X-51A WaveRider, un demostrador de tecnología hipersónica no tripulado, realizó su primer vuelo de prueba sobre el Pacífico frente a la costa sur de California. Transportado bajo el ala de un bombardero B-52H Stratofortress despegado desde la Base de la Fuerza Aérea Edwards, el X-51A fue liberado a aproximadamente 50.000 pies (15.240 metros) de altitud. Un cohete acelerador sólido MGM-140 ATACMS impulsó el vehículo hasta Mach 4,8 antes de separarse. Luego, el motor scramjet SJY61 de Pratt & Whitney Rocketdyne se encendió, utilizando primero una mezcla de etileno y luego cambiando a combustible JP-7. El vuelo propulsado por scramjet duró **140 segundos** (más de 2 minutos), alcanzando una velocidad de **Mach 5** (aproximadamente 5.300 km/h) y una altitud de 70.000 pies (21.000 metros). Aunque el objetivo era alcanzar 300 segundos de vuelo propulsado, la prueba fue considerada un éxito rotundo, ya que superó por un amplio margen el récord anterior de 12 segundos establecido por la NASA X-43 en 2004. El programa fue una colaboración entre la Fuerza Aérea de EE. UU., DARPA, NASA, Boeing y Pratt & Whitney Rocketdyne.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -60,7 +63,7 @@ El X-51A fue apodado "WaveRider" en honor a los diseños aerodinámicos teórico
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Vuelo
+## Desarrollo Cronológico
 
 - **2005, 27 de septiembre:** El vehículo de demostración scramjet es designado oficialmente X-51.
 - **2006-2007:** Pruebas en tierra y en túneles de viento del motor scramjet en el Centro de Investigación Langley de la NASA.
@@ -75,9 +78,7 @@ El X-51A fue apodado "WaveRider" en honor a los diseños aerodinámicos teórico
 - **Pérdida de telemetría:** Controladores en tierra notan anomalías en algunos sensores y pierden la transmisión de datos. Se activa la autodestrucción del vehículo según lo planeado.
 - **Finalización de la misión:** El X-51A se destruye sobre el Océano Pacífico tras más de 200 segundos de vuelo autónomo total.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Motor Scramjet: La Clave del Éxito
+### El Motor Scramjet: La Clave del Éxito
 
 El corazón del X-51A WaveRider fue su motor **Pratt & Whitney Rocketdyne SJY61**, un scramjet (supersonic combustion ramjet) de combustión supersónica. A diferencia de los motores a reacción convencionales, que utilizan compresores para ralentizar el aire entrante a velocidades subsónicas, los scramjet mantienen el flujo de aire a velocidades supersónicas durante todo el proceso de combustión.
 

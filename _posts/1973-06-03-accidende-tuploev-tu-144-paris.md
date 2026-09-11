@@ -14,11 +14,14 @@ image: 1973-06-03-accidende-tuploev-tu-144-paris.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1973-06-03-accidende-tuploev-tu-144-paris.webp" alt="Tupolev Tu-144S CCCP-77102 en el Salón de París">
   <figcaption class="post-caption">El avión supersónico soviético Tupolev Tu-144S CCCP-77102, fotografiado en el Salón Aeronáutico de París el 3 de junio de 1973, poco antes del accidente que marcó la historia de la aviación. Fuente: This Day in Aviation / © Aris Pappas.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 3 de junio de 1973, el Tupolev Tu-144S de Aeroflot (matrícula СССР-77102) se desintegró en pleno vuelo durante su demostración en el 30° Salón Aeronáutico de París-Le Bourget, frente a una multitud estimada de 300.000 a 350.000 espectadores. La aeronave, segundo prototipo de producción del primer avión supersónico de pasajeros del mundo, cayó sobre el pueblo de Goussainville, destruyendo 15 casas. Murieron los seis tripulantes y ocho personas en tierra (cinco en el impacto y tres fallecidas posteriormente por heridas). El accidente, ocurrido en plena Guerra Fría, fue un duro golpe al prestigio del programa supersónico soviético, que buscaba demostrar su superioridad frente al Concorde anglo-francés. La investigación oficial atribuyó la causa a una maniobra evasiva brusca para evitar una colisión con un avión de reconocimiento francés Mirage III R que no coordinó su presencia.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -58,7 +61,7 @@ El accidente fue uno de los primeros desastres aéreos captados en video en tiem
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Desarrollo Cronológico del Accidente
+## Desarrollo Cronológico
 
 - **31 de diciembre de 1968:** Primer vuelo del prototipo del Tu-144, adelantándose al Concorde. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1968/12/31/primer-vuelo-tupolev-tu-144.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Tupolev Tu-144</a> para más detalles.
 - **5 de junio de 1969:** El Tu-144 supera por primera vez la barrera del sonido.
@@ -73,9 +76,7 @@ El accidente fue uno de los primeros desastres aéreos captados en video en tiem
 - **Impacto:** Los restos caen sobre el pueblo de Goussainville, destruyendo 15 casas. Los seis tripulantes mueren instantáneamente; cinco civiles en tierra mueren en el impacto y tres más fallecen posteriormente por heridas.
 - **Consecuencias inmediatas:** El salón es suspendido temporalmente. Las autoridades francesas y soviéticas inician una investigación conjunta.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## La Tripulación del Vuelo Fatal
+### La Tripulación del Vuelo Fatal
 
 - **Mikhail Kozlov** – Piloto al mando
 - **Vladimir Molchanov** – Copiloto
@@ -86,9 +87,7 @@ El accidente fue uno de los primeros desastres aéreos captados en video en tiem
 
 Mikhail Kozlov era uno de los pilotos de pruebas más experimentados de la Unión Soviética, con amplia experiencia en aviones de combate supersónicos. La tripulación fue condecorada póstumamente.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Especificaciones Técnicas del Tupolev Tu-144S
+### Especificaciones Técnicas del Tupolev Tu-144S
 
 - **Fabricante:** Tupolev OKB (Unión Soviética)
 - **Tripulación:** 3 (piloto, copiloto, ingeniero de vuelo) + personal de pruebas en vuelos de desarrollo
@@ -104,9 +103,7 @@ Mikhail Kozlov era uno de los pilotos de pruebas más experimentados de la Unió
 - **Primer vuelo supersónico:** 5 de junio de 1969
 - **Primer vuelo a Mach 2:** 26 de mayo de 1970
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## La Controversia sobre las Causas
+### La Controversia sobre las Causas
 
 La investigación franco-soviética concluyó oficialmente que la causa del accidente fue la maniobra evasiva brusca para evitar la colisión con un **Mirage III R** francés que realizaba un vuelo de reconocimiento no coordinado con la torre de control. Sin embargo, existen teorías alternativas:
 

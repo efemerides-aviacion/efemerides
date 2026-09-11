@@ -14,11 +14,14 @@ image: 1967-06-05-ataque-aereo-israel-guerra-seis-dias.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1967-06-05-ataque-aereo-israel-guerra-seis-dias.webp" alt="Aviones egipcios destruidos en tierra durante la Operación Focus">
   <figcaption class="post-caption">Aviones egipcios destruidos en tierra durante la Operación Focus, ataque aéreo israelí preventivo al inicio de la Guerra de los Seis Días el 5 de junio de 1967. Fuente: Wikipedia / dominio público.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El **5 de junio de 1967**, a las **07:45**, la Fuerza Aérea de Israel (IAF) lanzó la **Operación Focus** (*Mivtza Moked*), un ataque aéreo preventivo masivo contra las fuerzas aéreas árabes que inició la Guerra de los Seis Días. Israel desplegó **183 de sus 200 aeronaves operativas** en la primera oleada, dejando solo 12 cazas para defensa. Volando a baja altura (aproximadamente 18 metros sobre el Mediterráneo) para evitar la detección de los radares enemigos, los aviones israelíes destruyeron **197 aeronaves egipcias** en tierra en solo tres horas. En oleadas sucesivas durante el día, atacaron también bases aéreas en Jordania, Siria e Irak. Al final del primer día, las fuerzas aéreas de Egipto, Jordania y Siria, que sumaban unos 450 aviones, habían sido prácticamente aniquiladas. La superioridad aérea israelí permitió a sus fuerzas terrestres avanzar en el Sinaí, Cisjordania y los Altos del Golán con apoyo aéreo cercano y sin amenaza de la aviación enemiga.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -54,7 +57,7 @@ La Operación Focus se convirtió en un hito en la historia de la aviación mili
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico de la Operación
+## Desarrollo Cronológico
 
 - **Finales de mayo de 1967:** Aumento de tensiones; Egipto moviliza fuerzas en el Sinaí, cierra los Estrechos de Tirán.
 - **2 de junio de 1967:** El General Motti Hod, comandante de la IAF, recibe la orden de ejecutar la Operación Focus.
@@ -65,9 +68,7 @@ La Operación Focus se convirtió en un hito en la historia de la aviación mili
 - **Final del primer día:** La IAF ha destruido aproximadamente 450 aviones árabes. Israel pierde 19-46 aviones.
 - **6-10 de junio de 1967:** Con superioridad aérea asegurada, las fuerzas terrestres israelíes avanzan en el Sinaí, Cisjordania y los Altos del Golán.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Las Aeronaves de la Operación Focus
+### Las Aeronaves de la Operación Focus
 
 La Operación Focus involucró una variedad de aeronaves tanto del lado israelí como del lado árabe. A continuación se presentan los principales modelos utilizados por cada bando.
 
@@ -89,9 +90,7 @@ La Operación Focus involucró una variedad de aeronaves tanto del lado israelí
 - **Tu-16:** Bombardero estratégico. Utilizado por: Egipto, Irak.
 - **Il-28:** Bombardero ligero. Utilizado por: Egipto.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Elemento Sorpresa: La "Operación Diamante"
+### El Elemento Sorpresa: La "Operación Diamante"
 
 Un factor clave en el éxito de la Operación Focus fue la adquisición por parte del Mossad de un **MiG-21 iraquí** en 1966. Un piloto iraquí, Munir Redfa, fue convencido para desertar y volar el MiG-21 a Israel. Los israelíes estudiaron el caza soviético en detalle durante meses, volando el avión en condiciones de combate simuladas contra sus Mirage III. Esto permitió a la IAF desarrollar tácticas específicas para contrarrestar al MiG-21 y conocer sus vulnerabilidades. En 1967, cuando los MiG-21 iraquíes se desplegaron en ayuda de Egipto, la IAF ya sabía exactamente cómo derribarlos.
 

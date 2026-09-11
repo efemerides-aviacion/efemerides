@@ -14,11 +14,14 @@ image: 2024-06-05-oleg-kononenko-1000-dias-espacio.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2024-06-05-oleg-kononenko-1000-dias-espacio.webp" alt="Oleg Kononenko en la Estación Espacial Internacional">
   <figcaption class="post-caption">El cosmonauta ruso Oleg Kononenko, en primer plano, homenajeado por sus compañeros en la Estación Espacial Internacional al cumplir mil días acumulados en el espacio el 5 de junio de 2024. Fuente: ROSCOSMOS / Heraldo.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El **5 de junio de 2024**, el cosmonauta ruso **Oleg Kononenko**, de 59 años, se convirtió en la primera persona en acumular **1.000 días** en el espacio. El hito se alcanzó durante su **quinta misión** a la Estación Espacial Internacional (ISS), que comenzó el **15 de septiembre de 2023**. Kononenko ya había superado en febrero de 2024 el récord de tiempo acumulado en órbita de Gennady Padalka (878 días). Regresó a la Tierra el **23 de septiembre de 2024**, con un total acumulado final de **1.111 días** en el espacio, el récord más alto de la historia. El cosmonauta ha realizado **7 caminatas espaciales** con un total de **44 horas y 30 minutos** fuera de la ISS. Su logro consolida a Rusia como líder en misiones de larga duración y amplía el conocimiento sobre los efectos de la exposición prolongada al entorno espacial en el cuerpo humano.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
@@ -55,7 +58,7 @@ El récord de Kononenko fue cubierto por medios de comunicación de todo el mund
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
-## Desarrollo Cronológico de la Carrera de Kononenko
+## Desarrollo Cronológico
 
 - **21 de junio de 1964:** Nace Oleg Kononenko en Chardzhou, Turkmenistán (entonces República Socialista Soviética de Turkmenistán).
 - **1996:** Es seleccionado como cosmonauta del Centro de Entrenamiento de Cosmonautas Yuri Gagarin.
@@ -68,9 +71,7 @@ El récord de Kononenko fue cubierto por medios de comunicación de todo el mund
 - **5 de junio de 2024:** Alcanza los 1.000 días acumulados en el espacio.
 - **23 de septiembre de 2024:** Regresó a la Tierra tras completar su quinta misión. Su total acumulado final alcanzó los **1.111 días**, el récord más alto en la historia de los vuelos espaciales tripulados.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Las Misiones de Oleg Kononenko
+### Las Misiones de Oleg Kononenko
 
 - **Soyuz TMA-12 (Expedición 17) – 2008:** Duración 199 días. Función: Ingeniero de vuelo.
 - **Soyuz TMA-03M (Expediciones 30/31) – 2011-2012:** Duración 165 días. Función: Ingeniero de vuelo.
@@ -78,9 +79,7 @@ El récord de Kononenko fue cubierto por medios de comunicación de todo el mund
 - **Soyuz MS-11 (Expediciones 58/59) – 2018-2019:** Duración 204 días. Función: Comandante.
 - **Soyuz MS-24 (Expediciones 69/70/71) – 2023-2024:** Duración ~375 días. Función: Comandante.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-## Los Efectos de la Larga Estancia en el Espacio
+### Los Efectos de la Larga Estancia en el Espacio
 
 El cuerpo humano no está diseñado para vivir en microgravedad. Las misiones de Kononenko han contribuido significativamente a la investigación sobre los efectos de la exposición prolongada al espacio.
 

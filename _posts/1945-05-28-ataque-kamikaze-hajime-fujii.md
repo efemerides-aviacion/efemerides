@@ -18,9 +18,11 @@ image: 1945-05-28-ataque-kamikaze-hajime-fujii.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 28 de mayo de 1945, en las postrimerías de la Batalla de Okinawa, el Primer Teniente Hajime Fujii lideró un escuadrón de nueve aviones Kawasaki Ki-45 "Nick" de la 45.ª Unidad Shinbu en una misión kamikaze contra la flota estadounidense. Su objetivo era el destructor USS Drexler (DD-741), un buque de la clase Allen M. Sumner que operaba como estación de piquete radar. Al menos dos aviones impactaron contra el Drexler, que se hundió en menos de un minuto con la pérdida de 158 de sus 336 tripulantes. La historia de Fujii, sin embargo, trasciende el hecho militar: tras múltiples solicitudes rechazadas para unirse a los ataques suicidas por tener esposa e hijos, su esposa Fukuko se suicidó el 14 de diciembre de 1944 junto a sus dos hijas pequeñas, Kazuko (3 años) y Chieko (1 año), para liberarlo de sus obligaciones familiares. Con el camino despejado, Fujii fue aceptado y nombrado comandante de la unidad que él mismo bautizó "Kaishin" (Espíritu Alegre).
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -57,7 +59,7 @@ El código bushido ("el camino del guerrero") y el concepto de lealtad absoluta 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico de los Hechos
+## Desarrollo Cronológico
 
 La historia de Hajime Fujii y el hundimiento del USS Drexler se desarrolla en dos planos paralelos: la tragedia personal de su familia, que ocurrió meses antes del ataque, y la misión militar que culminó el 28 de mayo de 1945. A continuación se presenta la cronología de ambos eventos.
 
@@ -84,9 +86,7 @@ La historia de Hajime Fujii y el hundimiento del USS Drexler se desarrolla en do
 - **Inmediatamente después:** El USS Drexler escora violentamente a estribor y se hunde en menos de un minuto, con el hundimiento de proa primero.
 - **Bajas:** De los 336 tripulantes del Drexler, 158 fallecieron (según el registro del Navy Memorial, 168) y 52 resultaron heridos. Los 126 restantes resultaron ilesos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Características del USS Drexler (DD-741)
+### Características del USS Drexler (DD-741)
 
 El USS Drexler era un destructor de la clase Allen M. Sumner, una de las clases más numerosas de destructores construidos para la Armada de los Estados Unidos durante la Segunda Guerra Mundial.
 
@@ -105,9 +105,7 @@ El USS Drexler era un destructor de la clase Allen M. Sumner, una de las clases 
 
 El destructor fue nombrado en honor del Teniente Comandante Henry L. Drexler, un oficial naval estadounidense condecorado póstumamente con la Cruz de la Armada por su heroísmo durante la Primera Guerra Mundial.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La Controversia sobre los Aviones y Pilotos
+### La Controversia sobre los Aviones y Pilotos
 
 Durante más de sesenta años, hubo incertidumbre sobre qué aviones y qué pilotos hundieron el USS Drexler. Los registros oficiales de la Armada estadounidense presentaban información contradictoria, identificando a los aviones como "Dinahs" (reconocimiento), "Bettys" (bombarderos) o "Frances" (bombarderos).
 

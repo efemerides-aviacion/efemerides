@@ -14,11 +14,14 @@ image: 1952-05-27-accidente-jose-francisco-osorio.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-05-27-accidente-jose-francisco-osorio.webp" alt="De Havilland Vampire FB.Mk.52 de la Fuerza Aérea Venezolana">
   <figcaption class="post-caption">Un De Havilland Vampire FB.Mk.52 de la Fuerza Aérea Venezolana, similar a los involucrados en la colisión del 27 de mayo de 1952. Fuente: Fuerza Aerea Venezolana FAV / vía Facebook.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 27 de mayo de 1952, tres cazas De Havilland Vampire FB.Mk.52 del Escuadrón Aéreo de Caza Nro. 36 despegaron de la Base Aérea de Boca de Río en Maracay, estado Aragua, con la misión de realizar prácticas de maniobras para la conformación de un equipo acrobático con aviones a reacción. Durante las maniobras sobre el norte de Morón y las cercanías del Lago de Valencia, dos de las aeronaves colisionaron tras un "loop" y un "tonel por la izquierda". La aeronave del Subteniente (AV) Francisco José Osorio entró en barrena y se estrelló en el sector Los Guayos del estado Carabobo, pereciendo el joven piloto. El Subteniente (AV) Rafael Eduardo Jelambi Terán logró lanzarse en paracaídas desde 7.000 pies de altura, una acción que lo acredita como el primer piloto en utilizar un paracaídas desde un avión a reacción en Venezuela. Un tercer avión, que presentó fallas en el tren de aterrizaje, regresó a la base.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -58,7 +61,7 @@ La formación de un equipo acrobático con aviones a reacción era una iniciativ
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Desarrollo Cronológico del Accidente
+## Desarrollo Cronológico
 
 - **27 de mayo de 1952, horas de la mañana:** Tres cazas De Havilland Vampire FB.Mk.52 despegan de la Base Aérea de Boca de Río, Maracay, para realizar prácticas de maniobras acrobáticas.
 - **Área de maniobras:** Se desplazan hacia el norte de Morón y las cercanías del Lago de Valencia.
@@ -72,9 +75,7 @@ La formación de un equipo acrobático con aviones a reacción era una iniciativ
 - **Rescate y atención médica:** Jelambi es trasladado a un centro de salud con heridas de consideración. Los restos de Osorio son recuperados de entre los restos de su avión.
 - **Cobertura internacional:** El accidente es reportado por periódicos internacionales, como The Ottawa Journal, el 29 de mayo de 1952.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Los desafíos del entrenamiento en el Vampire
+### Los desafíos del entrenamiento en el Vampire
 
 El General de División (AV) Agustín Berzares Morales, quien según algunas fuentes fue el tercer piloto involucrado, relató años después las dificultades que enfrentaron los primeros aviadores venezolanos al transitar de los aviones de hélice a los reactores. Según su testimonio, los dos oficiales enviados a Inglaterra para entrenarse en el Vampire y regresar como instructores fueron destacados a otros destinos, dejando a los pilotos más destacados *"fungir como instructores sin tener en realidad la experiencia"*.
 
@@ -82,9 +83,7 @@ Esta falta de preparación contribuyó a dos accidentes casi fatales. El primero
 
 El propio Berzares protagonizó el segundo accidente. Al aterrizar con tanques auxiliares llenos, olvidó mantener 5.000 RPM durante la aproximación, impactó la rueda de nariz y la partió. Estas experiencias llevaron a la emisión de un boletín de obligatorio cumplimiento: en la maniobra de aterrizaje, mantener el acelerador abierto hasta 5.000 RPM. También se reglamentó un intervalo mínimo de 48 horas entre vuelos de aviones de hélice (como el P-47D) y reactores (Vampire) para evitar la "transferencia negativa" de hábitos de pilotaje.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Los Protagonistas
+### Los Protagonistas
 
 El accidente del 27 de mayo de 1952 involucró a tres pilotos del Escuadrón Aéreo de Caza Nro. 36 de la Fuerza Aérea Venezolana. Dos de ellos fueron protagonistas directos de la colisión, mientras que un tercero regresó a la base antes del accidente por fallas mecánicas. A continuación se presenta la información biográfica de cada uno.
 
