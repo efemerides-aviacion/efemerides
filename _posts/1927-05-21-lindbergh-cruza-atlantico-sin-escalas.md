@@ -14,11 +14,14 @@ image: 1927-05-21-lindbergh-cruza-atlantico-sin-escalas.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1927-05-21-lindbergh-cruza-atlantico-sin-escalas.webp" alt="Ryan NYP Spirit of St. Louis, avión de Charles Lindbergh">
   <figcaption class="post-caption">El avión Spirit of St. Louis (Ryan NYP) rodeado por una multitud en París tras el aterrizaje histórico de Charles Lindbergh el 21 de mayo de 1927, al completar el primer vuelo transatlántico en solitario y sin escalas. Fuente: Reddit, r/HistoryPorn.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 21 de mayo de 1927, Charles Lindbergh completó el primer vuelo en solitario y sin escalas sobre el océano Atlántico. Partió de Roosevelt Field, Nueva York, el 20 de mayo a las 07:52 hora local y aterrizó en el aeropuerto de Le Bourget, París, a las 22:22 del día siguiente. La travesía de 5.810 kilómetros duró 33 horas y 30 minutos. A bordo del <em>Spirit of St. Louis</em>, Lindbergh demostró la viabilidad de la aviación comercial de largo alcance y se convirtió en una de las figuras más célebres del siglo XX.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
@@ -51,7 +54,7 @@ La figura del «aviador-heroe» dominaba la cultura popular. Sin embargo, la may
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Vuelo
+## Desarrollo Cronológico
 
 - **1919:** El hotelero Raymond Orteig ofrece 25.000 dólares para el primer vuelo sin escalas entre Nueva York y París.
 - **Febrero de 1927:** Lindbergh, entonces piloto de correos aéreos, convence a un grupo de empresarios de San Luis (Misuri) para financiar el proyecto. Encarga a Ryan Airlines la construcción de un avión adaptado a sus especificaciones.
@@ -94,6 +97,8 @@ La figura del «aviador-heroe» dominaba la cultura popular. Sin embargo, la may
     <li><a href="https://www.imer.mx/4-de-febrero-de-1902-nace-charles-lindbergh/" style="color: #315fea; text-decoration: none;">IMER – 4 de febrero de 1902: Nace Charles Lindbergh</a></li>
   </ul>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existe una discrepancia menor entre fuentes sobre la distancia exacta del vuelo (entre 5.800 y 5.810 km) y las horas de salida/aterrizaje debido a la diferencia horaria entre Nueva York y París y a los métodos de medición de la época. Las cifras presentadas (5.810 km, salida 07:52 NY, llegada 22:22 París) son las más aceptadas por los historiadores aeronáuticos y coinciden con los registros del Smithsonian.</p>

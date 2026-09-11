@@ -16,15 +16,17 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1924-04-09-nacimiento-milburn-apt-x2.webp" alt="Milburn G. Apt junto al Bell X-2">
   <figcaption class="post-caption">El Capitán Milburn G. Apt posa junto al Bell X-2 "Starbuster" en la Base de la Fuerza Aérea Edwards, California, 1956. Apt se convertiría en el primer piloto en superar Mach 3 durante su primer y último vuelo en el X-2. Fuente: <a href="https://en.wikipedia.org/wiki/Milburn_Apt" style="color: #315fea; text-decoration: none;">Wikipedia / Milburn G. Apt</a>.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 9 de abril de 1924 nació en Buffalo, Kansas, Milburn Grant "Mel" Apt, capitán de la Fuerza Aérea de los Estados Unidos y piloto de pruebas. El 27 de septiembre de 1956, a bordo del Bell X-2 "Starbuster", se convirtió en el primer ser humano en superar Mach 3, alcanzando una velocidad récord de 3.377 km/h (Mach 3,196) a una altitud de 19.977 m. Trágicamente, durante la maniobra de regreso, la aeronave sufrió un acoplamiento inercial y perdió el control. Apt activó la cápsula de escape, pero falleció en el impacto. Su hazaña póstuma le valió la Cruz de Vuelo Distinguido y su nombre quedó grabado en la historia de la aviación como pionero de los vuelos hipersónicos.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Datos del evento
+## Datos verificados del evento
 
 - **Nombre completo:** Milburn Grant "Mel" Apt
 - **Fecha de nacimiento:** 9 de abril de 1924
@@ -152,6 +154,8 @@ Milburn G. Apt es recordado como un pionero de los vuelos hipersónicos, cuyo sa
     <li><a href="https://www.infobae.com/sociedad/2025/09/27/la-tragedia-segundos-despues-de-un-record-alcanzo-tres-veces-la-velocidad-del-sonido-pero-el-descenso-le-tendio-una-trampa/" style="color: #315fea; text-decoration: none;">Infobae – La tragedia segundos después de un récord (27 de septiembre de 2025)</a></li>
   </ul>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>

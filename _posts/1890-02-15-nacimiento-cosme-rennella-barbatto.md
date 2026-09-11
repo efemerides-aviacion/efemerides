@@ -16,6 +16,7 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1890-02-15-nacimiento-cosme-rennella-barbatto.webp" alt="Cosme Rennella Barbatto en uniforme de capitán aviador ecuatoriano">
   <figcaption class="post-caption">Cosme Rennella Barbatto en uniforme de capitán aviador ecuatoriano (circa 1920s–1930), con alas de piloto visibles. Pionero ESMA y FAV Venezuela.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
@@ -24,7 +25,8 @@ redirect_from:
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Datos biográficos
+
+## Datos verificados del evento
 - **Fecha de nacimiento:** 15 de febrero de 1890  
 - **Lugar de nacimiento:** Secondigliano, Nápoles, Italia  
 - **Fecha de fallecimiento:** 27 de mayo de 1938, Guayaquil, Ecuador  
@@ -32,6 +34,7 @@ redirect_from:
 - **Profesión:** Aviador militar, instructor, pionero de la aviación en Ecuador y Venezuela  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Contexto Histórico
 Cosme Rennella Barbatto es considerado uno de los grandes pioneros de la aviación en Sudamérica. Tras emigrar a Ecuador en 1906, obtuvo licencias de piloto en Francia y Estados Unidos en 1918.  
 
@@ -44,6 +47,8 @@ Operó aeronaves como el Farman F.40, con el cual realizó vuelos históricos en
 ### Entorno cultural
 Su figura se convirtió en símbolo de modernidad y progreso, inspirando generaciones de aviadores en Ecuador y Venezuela.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Desarrollo Cronológico
 - 1906: Emigró a Ecuador.  
 - 1918: Obtuvo licencias de piloto en Francia y Estados Unidos.  
@@ -52,13 +57,18 @@ Su figura se convirtió en símbolo de modernidad y progreso, inspirando generac
 - 1922: En Venezuela, importó tres Farman F.40 (V-1/2/3) para la naciente FAV; realizó vuelos de exhibición y correo Caracas–Maracay.  
 - 1938: Falleció en Guayaquil por ataque cardíaco.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Consecuencias e Impacto
 Rennella fue clave en la creación de la aviación militar ecuatoriana y en los primeros pasos de la aviación militar venezolana. Su legado se mantiene en instituciones como la ESMA “Cosme Rennella Barbatto”.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 Recordado como pionero de la aviación en dos países, su nombre está asociado a la fundación de la aviación militar ecuatoriana y a los primeros aviones de la Fuerza Aérea Venezolana.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -76,6 +86,7 @@ Recordado como pionero de la aviación en dos países, su nombre está asociado 
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia ES/EN, FAE Ecuador, AviacionCivil.com.ve, El Universo, Rodolfo Pérez Pimentel  

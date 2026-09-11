@@ -24,7 +24,7 @@ image: 1954-01-10-descompresion-explosiva-comet-boac.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Datos Técnicos Verificados
+## Datos verificados del evento
 - **Fecha del accidente:** 10 de enero de 1954  
 - **Lugar:** Próximo a la isla de Elba, Italia  
 - **Ruta prevista:** Roma–Londres  
@@ -62,6 +62,8 @@ El impacto mediático del desastre afectó la confianza en la tecnología a reac
 
 ## Consecuencias e Impacto
 El accidente llevó a la suspensión del Comet, revisiones de diseño y procedimientos de certificación que influyeron directamente en aeronaves posteriores como el Boeing 707 y el Douglas DC-8. El énfasis en pruebas de fatiga y en geometrías que evitan concentraciones de esfuerzos se integró al estándar industrial.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 El caso se estudia como referencia clave en ingeniería aeronáutica, destacando la relación entre diseño de aberturas, concentración de esfuerzos y fallas en fuselajes presurizados, con lecciones permanentes para la seguridad aérea.

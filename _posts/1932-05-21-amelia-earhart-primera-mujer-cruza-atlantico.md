@@ -14,11 +14,14 @@ image: 1932-05-21-amelia-earhart-primera-mujer-cruza-atlantico.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1932-05-21-amelia-earhart-primera-mujer-cruza-atlantico.webp" alt="Amelia Earhart junto a su Lockheed Vega 5B en Irlanda del Norte">
   <figcaption class="post-caption">Amelia Earhart junto a su avión Lockheed Vega 5B (matrícula NR7952) en Culmore, cerca de Derry (Londonderry), Irlanda del Norte, tras completar su histórico vuelo en solitario a través del Atlántico el 21 de mayo de 1932. Fuente: National Library of Ireland / This Day in Aviation.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 21 de mayo de 1932, Amelia Earhart se convirtió en la primera mujer en cruzar el océano Atlántico en solitario y sin escalas. Partió de Harbour Grace, Terranova, el 20 de mayo a las 19:30 hora local y aterrizó en una pradera cercana a Derry (Londonderry), Irlanda del Norte, aproximadamente 15 horas después. A bordo de su Lockheed Vega 5B, Earhart superó tormentas, hielo en las alas y fallos mecánicos para completar la segunda travesía transatlántica en solitario de la historia, cinco años después del vuelo de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a>.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
@@ -51,7 +54,7 @@ La figura de Earhart ya era conocida mundialmente desde 1928, cuando cruzó el A
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Vuelo
+## Desarrollo Cronológico
 
 - **18 de junio de 1928:** Amelia Earhart se convirtió en la primera mujer en cruzar el Océano Atlántico por aire como pasajera. Acompañó al piloto Wilmer Lower Stultz y al mecánico Louis Edward Gordon a bordo del Fokker F.VIIb/3m, NX4204, "Friendship". El avión despegó de Trepassey Harbor, en Terranova y Labrador, Canadá, y llegó a Burry Port, en la costa suroeste de Gales, 20 horas y 40 minutos después.La fama la persigue, pero ella insiste en que no ha hecho nada por sí misma.
 - **1931:** Adquiere el Lockheed Vega 5B (matrícula NR7952) y comienza a planificar su propio vuelo transatlántico en solitario.
@@ -89,6 +92,8 @@ El Lockheed Vega 5B de Earhart se exhibe en el Museo Nacional del Aire y el Espa
     <li><a href="https://www.rtve.es/television/20230911/amelia-earhart-aviacion-piloto/2455559.shtml" style="color: #315fea; text-decoration: none;">RTVE – Amelia Earhart, la primera piloto que sobrevoló el Atlántico</a></li>
   </ul>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existen discrepancias menores entre fuentes sobre la duración exacta del vuelo (14 horas 56 minutos vs. «aproximadamente 15 horas»). La altitud máxima y la distancia exacta también varían según la fuente. Las cifras presentadas coinciden con los registros del Smithsonian y del National Air and Space Museum. Earhart había planeado aterrizar en París, pero las condiciones meteorológicas adversas y el fallo en el escape del motor la desviaron a Irlanda del Norte.</p>

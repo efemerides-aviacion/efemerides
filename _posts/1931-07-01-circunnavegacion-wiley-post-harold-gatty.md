@@ -25,7 +25,7 @@ image: 1931-07-01-circunnavegacion-wiley-post-harold-gatty.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Datos de las plantillas y el evento
+## Datos verificados del evento
 - **Matrícula oficial de la aeronave:** `NR105W` (Lockheed Model 5C Vega), propiedad del petrolero F. C. Hall y bautizado en honor a su hija
 - **Especificaciones de la planta motriz:** Un motor radial sobrealimentado de una sola fila y nueve cilindros Pratt & Whitney Wasp C, con número de serie 3088, que entregaba una potencia de 420 CV a 2.000 rpm
 - **Itinerario global y etapas (14 escalas):** Cruce desde Nueva York hacia Harbour Grace (Canadá), Liverpool (Reino Unido), Hannover y Berlín (Alemania), Moscú, Novosibirsk, Irkutsk, Blagovéshchensk y Jabárovsk (Unión Soviética), Solomon, Nome y Fairbanks (Alaska), Edmonton (Canadá) y Cleveland (Ohio)
@@ -50,6 +50,8 @@ En el plano técnico, el Lockheed Vega representó el apogeo de los aviones de a
 ### Entorno cultural
 La era dorada de la aviación contemplaba con fascinación cómo los pilotos unían fronteras de manera casi mística, donde la prensa glorificaba de manera unánime el triunfo del piloto solitario o de los equipos compactos. El humorista Will Rogers, íntimo amigo de Wiley Post, ayudó a consolidar la simpatía colectiva hacia esta pareja de aviadores, escribiendo la introducción del célebre libro que publicaron tras su hazaña transoceánica.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 La travesía global de Post y Gatty se ejecutó como una operación de resistencia física y precisión navegacional milimétrica, la cual se detalla a continuación en sus fases más importantes:
@@ -64,6 +66,8 @@ La travesía global de Post y Gatty se ejecutó como una operación de resistenc
 - **30 de junio de 1931:** En Fairbanks, Alaska, la hélice dañada es sustituida de forma definitiva por una de repuesto, y el avión vuela hacia Edmonton, Canadá, en vísperas del regreso a Nueva York.
 - **1 de julio de 1931 (20:47 hora local):** Tras realizar una breve escala técnica en Cleveland, el Winnie Mae aterriza de manera triunfal en Roosevelt Field, Nueva York, estableciendo un asombroso récord mundial de ocho días, quince horas y cincuenta y un minutos.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 
 El exitoso regreso de Wiley Post y Harold Gatty demostró la indiscutible superioridad del monoplano monomotor frente a los grandes dirigibles de la época en términos de velocidad y maniobrabilidad intercontinental. El hito aceleró el desarrollo de la aviación comercial y los sistemas de posicionamiento geográfico.
@@ -72,6 +76,8 @@ El exitoso regreso de Wiley Post y Harold Gatty demostró la indiscutible superi
 - **Demostración de la fiabilidad del motor de émbolo:** Las ochenta y siete horas de operación de vuelo continuadas del motor radial Pratt & Whitney Wasp C sin fallas mayores demostraron a los ingenieros y aerolíneas que los motores a reacción de émbolo refrigerados por aire eran perfectamente aptos para sostener vuelos transoceánicos prolongados.
 - **Impulso al vuelo en solitario (1933):** Motivado por las críticas de quienes decían que el verdadero mérito era de su navegante Gatty, Wiley Post perfeccionó el Winnie Mae instalando los primeros prototipos de piloto automático y radiogoniómetro de la corporación Sperry, repitiendo la hazaña en solitario en 1933 con un nuevo récord de siete días y dieciocho horas.
 - **Desarrollo del traje de presión:** La experiencia en vuelos a gran altitud con el Winnie Mae impulsó a Post a colaborar con la empresa B.F. Goodrich en el desarrollo del primer traje de presión de la historia en 1934, abriendo el camino para la medicina aeroespacial y el posterior desarrollo de los trajes espaciales de la NASA.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 

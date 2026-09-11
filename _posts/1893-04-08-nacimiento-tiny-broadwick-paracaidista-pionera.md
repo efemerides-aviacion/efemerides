@@ -23,9 +23,10 @@ redirect_from:
 <div class="highlight-box">
 <p>El 8 de abril de 1893 nació Georgia Ann Thompson en Oxford, Carolina del Norte. Conocida como "Tiny" por su diminuto tamaño (1.42 m y 39 kg), se convertiría en una de las pioneras más audaces de la aviación. El 21 de junio de 1913 fue la primera mujer en saltar en paracaídas desde un avión. En 1914, durante una demostración para el Ejército de EE.UU., protagonizó la primera caída libre premeditada de la historia: al enredarse su línea estática en la cola del avión, decidió conscientemente cortarla con un cuchillo y abrir su paracaídas manualmente, demostrando que los pilotos podían abandonar aeronaves en emergencia sin necesidad de línea estática. Realizó más de 1.100 saltos antes de retirarse en 1922 y donó su paracaídas al Smithsonian en 1964.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Datos del evento
+## Datos verificados del evento
 
 - **Nombre completo:** Georgia Ann Thompson (posteriormente Broadwick, Jacobs y Brown)
 - **Fecha de nacimiento:** 8 de abril de 1893
@@ -140,6 +141,8 @@ Tiny Broadwick es recordada como la **"Primera Dama del Paracaidismo"** (First L
     <li><a href="https://parachutist.com/article/you-people-did-what-the-long-and-sometimes-crazy-history-of-skydiving-instructional-methods" style="color: #315fea; text-decoration: none;">Parachutist Magazine – Historia del sistema static-line y caída libre</a></li>
   </ul>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
