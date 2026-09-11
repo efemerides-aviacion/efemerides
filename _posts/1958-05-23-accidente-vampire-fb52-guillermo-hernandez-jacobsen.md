@@ -51,7 +51,19 @@ La transición de la aviación de pistón a la era del jet trajo consigo nuevos 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## El De Havilland Vampire FB.52
+## Desarrollo Cronológico
+
+La información disponible sobre las circunstancias exactas del accidente es limitada. Según el registro de Aviation Safety Network:
+
+- **Causa inmediata:** La aeronave impactó contra cables de alta tensión en las inmediaciones de la Planta Eléctrica La Cabrera.
+
+No se ha podido verificar con la información disponible:
+- La matrícula exacta de la aeronave.
+- La hora del accidente.
+- La naturaleza de la misión que realizaba (entrenamiento, traslado, patrullaje, etc.).
+- El aeropuerto de salida o destino previsto.
+
+### El De Havilland Vampire FB.52
 
 El De Havilland DH.100 Vampire fue un caza a reacción británico de la posguerra, caracterizado por su configuración de doble viga (twin-boom), que permitía instalar el motor de flujo centrífugo de Havilland Goblin en el fuselaje central. La versión FB.52 (Fighter-Bomber) incorporaba:
 
@@ -64,19 +76,10 @@ La Fuerza Aérea Venezolana operó el Vampire FB.52 desde finales de la década 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Desarrollo del Accidente
+## Consecuencias e Impacto
 
-La información disponible sobre las circunstancias exactas del accidente es limitada. Según el registro de Aviation Safety Network:
-
-- **Causa inmediata:** La aeronave impactó contra cables de alta tensión en las inmediaciones de la Planta Eléctrica La Cabrera.
 - **Consecuencias:** El impacto provocó la pérdida de control y la posterior destrucción total del Vampire.
 - **Víctima:** El Capitán (AV) Luis Guillermo Hernández Jacobsen falleció en el acto.
-
-No se ha podido verificar con la información disponible:
-- La matrícula exacta de la aeronave.
-- La hora del accidente.
-- La naturaleza de la misión que realizaba (entrenamiento, traslado, patrullaje, etc.).
-- El aeropuerto de salida o destino previsto.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
