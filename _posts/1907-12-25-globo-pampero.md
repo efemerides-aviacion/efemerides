@@ -16,7 +16,7 @@ image: 1907-12-25-globo-pampero.webp
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-<!-- ## Resumen Ejecutivo -->Globo aerostático ‘Pampero’ del Aero Club Argentino, antes de su histórico primer vuelo cruzando el Río de la Plata (Buenos Aires a Conchillas, Uruguay), 25 dic 1907. Wikipedia / Archivo ACA.
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>
     El 25 de diciembre de 1907, el globo aerostático Pampero realizó la primera travesía aérea sobre el Río de la Plata, uniendo Buenos Aires con la costa uruguaya. Este vuelo marcó un hito en la historia de la aerostática sudamericana y abrió camino a la exploración aérea en la región.
@@ -46,15 +46,21 @@ Los globos aerostáticos eran la principal herramienta de exploración aérea an
 ### Entorno cultural
 El vuelo del Pampero fue interpretado como símbolo de audacia y exploración, despertando entusiasmo en Argentina y Uruguay por la aviación.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 - 25 de diciembre de 1907: El globo Pampero despega desde Buenos Aires.  
 - Durante varias horas, cruza el Río de la Plata enfrentando vientos variables.  
 - Finalmente aterriza en San Nicolás, Uruguay, completando la primera travesía aérea de la región.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 - Consolidó a Jorge Newbery como pionero de la aviación argentina y sudamericana.  
 - Demostró la viabilidad de los vuelos aerostáticos en la región.  
 - Despertó interés creciente por la aviación motorizada en el Río de la Plata.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 El Pampero es recordado como símbolo de audacia y exploración. Su travesía marcó el inicio de la aviación en el Río de la Plata y abrió camino a futuros desarrollos aeronáuticos en Argentina y Uruguay.

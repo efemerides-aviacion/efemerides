@@ -17,6 +17,7 @@ image: 1887-06-13-nacimiento-jorge-antonio-chavez-dartnell.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>El 13 de junio de 1887 nació en París, en el número 55 de la Rue de la Faisanderie del XVII Distrito, Jorge Antonio Chávez Dartnell, el primer aviador en cruzar la cordillera de los Alpes. El 23 de septiembre de 1910, a los mandos de un frágil monoplano Blériot XI bautizado como «Gypaète» (Quebrantahuesos), despegó de Ried-Brig (Suiza) y, tras 51 minutos de vuelo a más de 2.650 metros de altitud, logró aterrizar del otro lado de la barrera alpina, en Domodossola (Italia). Sin embargo, al tocar tierra, un fuerte viento rompió las alas de su aeronave, precipitándose desde veinte metros de altura. Chávez falleció cuatro días después, el 27 de septiembre de 1910, a causa de sus heridas. Su última frase, recogida por testigos, fue: «Arriba, siempre arriba». Hoy, el Aeropuerto Internacional de Lima lleva su nombre, y su lema es el emblema de la Fuerza Aérea del Perú.</p>
 </div>

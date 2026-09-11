@@ -15,6 +15,8 @@ image: 1911-11-30-primer-presidente-en-vuelo.webp
   <figcaption class="post-caption">El presidente Francisco I. Madero (izquierda superior) junto al piloto George Dyott (derecha inferior) y el biplano Deperdussin (izquierda inferior), momentos antes de su histórico vuelo en los Llanos de Balbuena, Ciudad de México. (Crédito: Archivo INAH).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 30 de noviembre de 1911, el presidente mexicano Francisco I. Madero marcó un hito mundial al elevarse en un monoplano Moisant-Blériot, siendo el primer mandatario en funciones en experimentar el vuelo autopropulsado.</p>
 </div>
@@ -36,14 +38,20 @@ La aviación era una disciplina incipiente; los monoplanos tipo Blériot represe
 ### Entorno cultural
 El vuelo simbolizó la llegada del progreso y la "nueva era" que el maderismo prometía al país, rompiendo con el pasado tradicionalista.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 1. **Llegada:** Madero arriba a los llanos de Balbuena invitado por la escuela de aviación Moisant.
 2. **Preparación:** El piloto George M. Dyott prepara el monoplano mientras el gabinete presidencial observa.
 3. **Vuelo:** El avión despega y sobrevuela la zona por cerca de 12 minutos.
 4. **Aterrizaje:** Regreso seguro a tierra, donde Madero es ovacionado.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 A nivel internacional, el evento posicionó a México como un país pionero en el uso civil y gubernamental de la aviación. Inspiró la creación posterior de la Fuerza Aérea Mexicana.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 Madero es recordado no solo por su papel democrático, sino como el primer "Presidente Aviador", estableciendo un precedente que otros jefes de estado seguirían décadas después.

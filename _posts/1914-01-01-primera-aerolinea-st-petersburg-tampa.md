@@ -16,6 +16,8 @@ image: 1914-01-01-primera-aerolinea-st-petersburg-tampa.webp
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>La St. Petersburg–Tampa Airboat Line fue la primera aerolínea regular del mundo en utilizar aeronaves. Su vuelo inaugural el 1 de enero de 1914 marcó el inicio del transporte aéreo comercial.</p>
 </div>
@@ -46,15 +48,21 @@ La creación de la St. Petersburg–Tampa Airboat Line respondió a la necesidad
 - El evento fue celebrado como símbolo de modernidad y progreso.  
 - Tony Jannus se convirtió en figura histórica de la aviación.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 - 1913: Percival Fansler organiza la aerolínea con Thomas Benoist.  
 - 1914-01-01: Vuelo inaugural con Abram Pheil como pasajero.  
 - 1914-05-05: La aerolínea cesa operaciones tras cuatro meses de servicio.  
 - 1919-08-27: Cinco años después, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1919/08/27/lawson-c-2-vuelo-demostracion-costa-este.html" style="color: #315fea; text-decoration: none;">Lawson C-2</a> despega de Milwaukee como primer avión de línea estadounidense diseñado desde cero para pasajeros: una escala de transporte que la Airboat Line, con su hidroavión de un solo pasajero, no podía imaginar.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 - Inicio del transporte aéreo comercial regular.  
 - Inspiración para el desarrollo de aerolíneas modernas.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 - La Tony Jannus Distinguished Aviation Society conmemora cada año este hito.  

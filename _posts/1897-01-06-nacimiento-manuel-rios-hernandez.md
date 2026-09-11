@@ -19,6 +19,7 @@ redirect_from:
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 6 de enero de 1897 nació en Altagracia de Orituco, estado Guárico, Manuel Simón Ríos Hernández. Quedó huérfano siendo niño, lo recogió un sacerdote que lo llevó a Caracas, y ese acto de caridad acabó conduciéndolo a la Academia Militar y, de allí, a la primera promoción de la Escuela de Aviación Militar de Maracay.</p>
 <p>El 15 de abril de 1921 se convirtió en el primer venezolano que voló solo sobre el cielo de su país. Fue instructor de quienes vinieron después, participó en la primera misión de combate de la aviación venezolana y murió en un accidente en el lago de Valencia el 24 de abril de 1931, a los treinta y cuatro años. Llevan su nombre una base aérea, una plaza en su pueblo natal y el plan de estudios de los futuros oficiales aviadores.</p>
@@ -119,6 +120,8 @@ Hay algo elocuente en que el hombre cuya partida de nacimiento nadie ha logrado 
 - <a href="http://personajesdelorituco.blogspot.com/2006/04/manuel-simn-ros.html" style="color: #315fea; text-decoration: none;">Personajes del Orituco: ficha biográfica de Manuel Simón Ríos</a>
 - <a href="http://cuandovenezuelaestababiengobernada.blogspot.com/2015/12/aniversario-de-la-aviacion-venezolana.html" style="color: #315fea; text-decoration: none;">Transcripción del oficio del Director de la Escuela de Aviación comunicando el primer vuelo solo, y relación de los alumnos del primer curso de 1921</a>
 - <a href="http://amilitarusb.blogspot.com/p/primera-etapa.html" style="color: #315fea; text-decoration: none;">Cronología de la Aviación Militar Venezolana: adquisición del Caudron G.3 en 1920</a>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria sobre la fecha del primer vuelo:</strong> la mayoría de las fuentes secundarias sitúan el primer vuelo en solitario el 14 de abril de 1921. La efeméride correspondiente de este archivo adopta el 15 de abril sobre la base de la libreta de vuelo del propio piloto, citada por el Coronel (AV) José Luis Ochoa Vargas. Se mantiene aquí esa fecha por coherencia documental, dejando constancia de la divergencia.</p>

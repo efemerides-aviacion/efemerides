@@ -18,6 +18,7 @@ image: 1927-06-28-fundacion-iberia-aerolinea-mas-antigua-espana.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 28 de junio de 1927, se firmó en Madrid la escritura de constitución de Iberia, Compañía Aérea de Transportes, la primera línea aérea comercial de pasajeros del país. Impulsada por el célebre financiero de Getxo Horacio Echevarrieta como socio mayoritario, y contando con la alianza tecnológica y financiera de la aerolínea alemana Deutsche Luft Hansa, la nueva empresa nació con un capital social de 1.100.000 pesetas. Apenas unos meses más tarde, el 14 de diciembre de 1927, se llevó a cabo el vuelo inaugural entre Madrid y Barcelona con una flota de tres trimotores alemanes Rohrbach Ro VIII Roland, equipados con asientos de mimbre para diez ocupantes. Este hito no solo rompió el aislamiento de las comunicaciones internas de la península ibérica, sino que estableció las bases para el posterior desarrollo de la aviación comercial española moderna.</p>
 </div>
@@ -49,6 +50,8 @@ En el aspecto técnico, la industria aeronáutica comercial todavía daba sus pr
 ### Entorno cultural
 La aviación se convirtió en un potente símbolo de modernidad y cosmopolitismo en la cultura de entreguerras de los años veinte. Las aerolíneas nacientes no solo vendían rapidez en el desplazamiento, sino un estatus de exclusividad y lujo que se reflejaba en el cuidadoso servicio a bordo, donde los pasajeros, sentados en sillones de mimbre individuales, eran agasajados con comidas frías y licores durante el trayecto.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Desarrollo Cronológico
 
 La historia de Iberia en sus primeros años estuvo marcada por un rápido despegue regulatorio y técnico, seguido de una absorción forzosa por parte del Estado. A continuación, se detallan los hitos cronológicos más relevantes desde su constitución legal hasta su unificación en CLASSA:
@@ -62,6 +65,8 @@ La historia de Iberia en sus primeros años estuvo marcada por un rápido despeg
 - **29 de mayo de 1929:** Por orden del directorio militar, Iberia cesa formalmente sus operaciones independientes y se fusiona en el monopolio estatal CLASSA, aunque el nombre de la compañía permanece legalmente registrado.
 - **1937:** En plena Guerra Civil, la compañía vuelve a reactivarse bajo las directrices del bando nacional, recuperando su marca histórica e incorporando aviones Junkers Ju 52 de transporte.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Consecuencias e Impacto
 
 El nacimiento y consolidación temprana de Iberia tuvo profundas repercusiones en la conectividad del territorio nacional y en la estructuración de la industria aérea de España. Su creación demostró la viabilidad económica y social del transporte de pasajeros de forma regular en la península ibérica.
@@ -70,6 +75,8 @@ El nacimiento y consolidación temprana de Iberia tuvo profundas repercusiones e
 - **Consolidación industrial:** La entrada de Iberia aceleró la modernización de las infraestructuras de tierra, obligando a los aeródromos de Carabanchel y El Prat a incorporar mejores hangares, pistas de rodaje más amplias y sistemas de señalización para vuelos en condiciones de visibilidad reducida.
 - **Alianza hispano-alemana:** La estrecha colaboración financiera y tecnológica con Deutsche Luft Hansa no solo aportó aeronaves de última generación como el Rohrbach Roland y posteriormente el Junkers Ju 52, sino que permitió a los ingenieros y tripulaciones españolas formarse bajo los rigurosos estándares de seguridad y mantenimiento alemanes.
 - **Estatización de la aviación:** La rápida unificación de las aerolíneas privadas en CLASSA (1929) y el posterior monopolio de LAPE y de la Iberia nacionalizada (1944) marcaron un modelo de desarrollo dirigido por el Estado que caracterizó a la aviación comercial española durante el siglo XX.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
