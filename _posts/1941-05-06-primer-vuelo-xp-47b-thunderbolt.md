@@ -16,9 +16,12 @@ image: 1941-05-06-primer-vuelo-xp-47b-thunderbolt.webp
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Resumen Ejecutivo
+
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 6 de mayo de 1941, el prototipo XP-47B Thunderbolt despegó por primera vez desde Farmingdale, Nueva York, pilotado por Lowery L. Brabham, apenas ocho meses después de su encargo por el U.S. Army Air Forces. A pesar del humo en la cabina por aceite, el vuelo fue exitoso e impresionó por su tamaño y potencia. Este hito inició la producción del P-47, el caza más fabricado por Estados Unidos en la Segunda Guerra Mundial, con 15.683 unidades construidas.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -37,9 +40,7 @@ El 6 de mayo de 1941, el prototipo XP-47B Thunderbolt despegó por primera vez d
 - **Producción total del P-47:** 15.683 unidades
 - **Destino del prototipo:** Destruido en accidente el 4 de agosto de 1942
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones del XP-47B Thunderbolt
+### Especificaciones del XP-47B Thunderbolt
 
 El XP-47B era, en su momento, el caza monomotor más grande y pesado jamás construido en Estados Unidos, con un peso bruto casi el doble que el de sus contemporáneos. Su diseño giraba en torno al potente motor radial R-2800 Double Wasp y un complejo sistema de turbosobrealimentación.
 
@@ -76,6 +77,8 @@ El diseño del XP-47B fue una apuesta audaz del ingeniero jefe Alexander Kartvel
 
 El Thunderbolt se convirtió en un símbolo de la industria estadounidense: grande, potente y fabricado en cantidades masivas. Aunque inicialmente fue relegado a un segundo plano por el más maniobrable y de mayor alcance P-51 Mustang, el P-47 demostró ser un excelente escolta de bombarderos a gran altitud, un formidable cazabombardero de ataque a tierra, y el vehículo de los dos principales ases estadounidenses en el Teatro Europeo (Francis Gabreski y Robert S. Johnson).
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **Septiembre de 1939:** Republic Aviation envía al USAAC la propuesta del AP-10 (futuro XP-47).
@@ -89,9 +92,7 @@ El Thunderbolt se convirtió en un símbolo de la industria estadounidense: gran
 - **Enero de 1943:** Los primeros P-47C llegan a Inglaterra para entrar en combate.
 - **1941-1945:** Se producen 15.683 Thunderbolts en las fábricas de Republic en Farmingdale y Evansville, y por Curtiss-Wright en Buffalo, Nueva York.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El primer vuelo: "I think we’ve hit the jackpot!"
+### El primer vuelo: "I think we’ve hit the jackpot!"
 
 El 6 de mayo de 1941, un día lluvioso en Long Island, el piloto jefe de pruebas de Republic, Lowery Lawson Brabham, se preparaba para un vuelo que cambiaría el curso de la aviación militar estadounidense.
 
@@ -113,9 +114,7 @@ A pesar de la emoción inicial, las pruebas de vuelo revelaron que el motor R-28
 - **Velocidad a 4.745 m (15.600 pies):** 615 km/h (382 mph)
 - **Velocidad a 1.654 m (5.425 pies):** 554 km/h (344,5 mph)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El diseño de Kartveli: un caza monumental
+### El diseño de Kartveli: un caza monumental
 
 El XP-47B era radicalmente diferente a cualquier caza anterior de la USAAC. Su diseño estaba dictado por la necesidad de albergar un motor de 2.000 hp, un turbosobrealimentador de dos etapas General Electric, y la enorme cantidad de combustible y munición necesaria para misiones de escolta de bombarderos a gran altitud.
 
@@ -131,9 +130,7 @@ Debido al enorme diámetro de la hélice (3,7 m), el XP-47B necesitaba un tren d
 
 Cuando los pilotos vieron por primera vez las formas rotundas del XP-47B, con su enorme fuselaje y su capota redondeada, lo compararon con una jarra de leche. De ahí surgió el apodo eterno del Thunderbolt: "Jug". El propio Kartveli lo llamaba "un dinosaurio, pero un dinosaurio con buenas proporciones".
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El prototipo perdido: el fin del XP-47B
+### El prototipo perdido: el fin del XP-47B
 
 Tras completar las pruebas iniciales, el prototipo XP-47B fue devuelto a Republic para continuar con la fase de desarrollo de los modelos de producción. Su final fue trágico.
 

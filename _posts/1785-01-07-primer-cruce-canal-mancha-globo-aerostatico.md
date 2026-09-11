@@ -14,11 +14,13 @@ image: 1785-01-07-primer-cruce-canal-mancha-globo-aerostatico.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1785-01-07-primer-cruce-canal-mancha-globo-aerostatico.webp" alt="Jean Pierre Blanchard en globo aerostático">
   <figcaption class="post-caption">Grabado retrospectivo de Thomas Rowlandson (1794) que muestra el despegue del globo aerostático de Jean-Pierre Blanchard y John Jeffries desde Dover Castle hacia Guînes, el 7 de enero de 1785. Fuente: <a href="https://en.wikipedia.org/wiki/Jean-Pierre_Blanchard" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Jean-Pierre Blanchard</a>.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
-
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 <p>El 7 de enero de 1785, el aviador francés Jean Pierre Blanchard y el médico estadounidense John Jeffries lograron el primer cruce aéreo del Canal de la Mancha en globo aerostático. Partieron desde el Castillo de Dover, Inglaterra, y aterrizaron en el bosque de Guînes, cerca de Calais, Francia, tras un vuelo de aproximadamente 2 horas y 30 minutos. Durante la travesía de 37 km sobre el mar, el globo perdió altitud repetidamente, obligando a los aeronautas a arrojar lastre, provisiones, libros e incluso parte de su vestimenta para mantenerse en el aire. Esta hazaña marcó el inicio de los vuelos internacionales y consolidó el potencial del globo como medio de transporte aéreo.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

@@ -14,11 +14,13 @@ image: 1937-04-12-whittle-unit-primer-motor-jet.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1937-04-12-whittle-unit-primer-motor-jet.webp" alt="Whittle Unit (WU), primer turbojet de la historia">
   <figcaption class="post-caption">Whittle Unit (WU), el primer motor turborreactor del mundo, diseñado por Frank Whittle. Esta fotografía muestra el motor montado en un soporte de transporte o exhibición, no en el banco de pruebas original de Rugby. Fuente: <a href="https://www.gracesguide.co.uk/Power_Jets" style="color: #315fea; text-decoration: none;">Grace's Guide</a>.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
-
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 <p>El 12 de abril de 1937, en una fábrica de British Thomson-Houston (BTH) en Rugby, Inglaterra, el oficial de la Royal Air Force Frank Whittle puso en marcha por primera vez su Whittle Unit (WU), el primer motor turborreactor del mundo. A pesar de un inicio violento que hizo salir corriendo a los asistentes, el motor demostró su funcionalidad. Este hito, considerado el nacimiento de la era del jet, allanó el camino para el desarrollo de la aviación a reacción, aunque su importancia no fue reconocida plenamente hasta el inicio de la Segunda Guerra Mundial.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

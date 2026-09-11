@@ -15,11 +15,14 @@ image: 1925-06-03-vuelo-inaugural-dirigible-pilgrim.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1925-06-03-vuelo-inaugural-dirigible-pilgrim.webp" alt="Dirigible Goodyear Pilgrim en su vuelo inaugural">
   <figcaption class="post-caption">El dirigible Goodyear Pilgrim durante su vuelo inaugural el 3 de junio de 1925, primer dirigible construido por la compañía Goodyear y precursor de su famosa flota de blimps publicitarios. Fuente: Goodyear / archivo histórico.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 3 de junio de 1925, el **Pilgrim**, el primer dirigible construido por la Goodyear Tire & Rubber Company, realizó su vuelo inaugural desde su base en Akron, Ohio, pilotado por **Jack Yolton**. Diseñado por el ingeniero **Karl Arnstein**, el Pilgrim fue el primer dirigible comercial no rígido concebido para operar con **helio**, aunque sus primeros vuelos utilizaron hidrógeno por disponibilidad del gas. Menos de seis semanas después, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1925/07/17/pilgrim-primer-dirigible-comercial-con-helio.html" style="color: #315fea; text-decoration: none;">17 de julio de 1925 realizó su primer vuelo con helio</a>, paso decisivo que reforzó la seguridad del dirigible y abrió la etapa que definiría el futuro de los Goodyear Blimps. A lo largo de su vida operativa (1925-1931), el Pilgrim realizó **4.765 vuelos**, transportó **5.355 pasajeros** y acumuló **2.880 horas** de vuelo. Su góndola original se conserva en el **Museo Nacional del Aire y el Espacio del Smithsonian**.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -77,9 +80,7 @@ El Pilgrim se convirtió en un icono de la cultura estadounidense. Aparecía en 
 - **1931:** El Pilgrim es retirado del servicio, siendo reemplazado por un dirigible más grande y moderno, el "Defender".
 - **1931 en adelante:** La góndola del Pilgrim es donada al Smithsonian Institution, donde se exhibe en el Museo Nacional del Aire y el Espacio.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas del Pilgrim
+### Especificaciones Técnicas del Pilgrim
 
 - **Tipo:** Dirigible no rígido (blimp)
 - **Longitud:** 32,9 m (108 pies) 
@@ -94,9 +95,7 @@ El Pilgrim se convirtió en un icono de la cultura estadounidense. Aparecía en 
 - **Altura de la góndola (incluyendo rueda):** 3,2 m (10,5 pies)
 - **Ancho de la góndola:** 1,5 m (5 pies)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La Góndola del Pilgrim en el Smithsonian
+### La Góndola del Pilgrim en el Smithsonian
 
 La góndola del Pilgrim es una de las piezas más emblemáticas de la colección de aeronáutica temprana del Smithsonian. Se exhibe en el **Museo Nacional del Aire y el Espacio** en Washington D.C. La góndola conserva su configuración original, con la distintiva rueda de aterrizaje y la cabina cerrada.
 

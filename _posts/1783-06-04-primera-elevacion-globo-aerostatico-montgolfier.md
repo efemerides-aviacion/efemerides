@@ -14,11 +14,14 @@ image: 1783-06-04-primera-elevacion-globo-aerostatico-montgolfier.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1783-06-04-primera-elevacion-globo-aerostatico-montgolfier.webp" alt="Primera demostración pública del globo de los hermanos Montgolfier">
   <figcaption class="post-caption">Primera demostración pública de elevación de un globo aerostático por los hermanos Montgolfier, realizada en Annonay, Francia, el 4 de junio de 1783, ante una multitud de espectadores. Fuente: ACAMI / dominio público.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 4 de junio de 1783, los hermanos **Joseph-Michel** y **Jacques-Étienne Montgolfier** realizaron en la Place des Cordeliers de Annonay, Francia, la primera demostración pública de un globo aerostático de aire caliente. El globo, construido con lino forrado en papel, tenía aproximadamente **11 metros de diámetro** y un volumen de **770-800 m³**. Se elevó utilizando el calor generado por la quema de paja y lana en un brasero situado en su base. El vuelo, no tripulado, duró aproximadamente **10 minutos**, alcanzó una altitud estimada entre **1.600 y 2.000 metros** y recorrió unos **2 kilómetros** antes de aterrizar. Este hito, presenciado por autoridades locales y miembros de los Estados del Vivarais, marcó el nacimiento de la aeronáutica moderna y allanó el camino para los primeros vuelos tripulados que ocurrirían meses después.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -68,9 +71,7 @@ El éxito de la demostración desató la "globomanía" en Francia. Los globos se
 - **21 de noviembre de 1783:** Primer vuelo libre tripulado por Pilâtre de Rozier y el marqués d'Arlandes. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo tripulado en globo de aire caliente</a> para más detalles.
 - **1 de diciembre de 1783:** Primer vuelo tripulado en globo de hidrógeno (Charlière) por Jacques Charles y Nicolas-Louis Robert. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo tripulado en globo de hidrógeno</a> para más detalles.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas del Globo Montgolfier de 1783
+### Especificaciones Técnicas del Globo Montgolfier de 1783
 
 - **Fabricante:** Hermanos Montgolfier
 - **Material:** Lino forrado en papel (para hacerlo impermeable al aire caliente)

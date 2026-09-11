@@ -16,11 +16,14 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1957-12-20-primer-vuelo-boeing-707-120.webp" alt="Boeing 707-120 N708PA en su primer vuelo">
   <figcaption class="post-caption">El Boeing 707‑121 N708PA realizando su primer despegue el 20 de diciembre de 1957 a las 12:30 p.m., en una tarde lluviosa en el aeropuerto de Renton, Washington; fuente: This Day in Aviation, “20 December 1957” (Boeing).</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 20 de diciembre de 1957, el primer Boeing 707-120 de producción (matrícula N708PA) realizó su vuelo inaugural desde Renton Field, Washington, con los pilotos de prueba de Boeing a los mandos. El vuelo inicial duró aproximadamente **7 minutos** hasta Boeing Field, donde se realizaron verificaciones básicas de control y estabilidad. Este evento marcó el inicio de la era del chorro (“Jet Age”) para la aviación comercial estadounidense, transformando los viajes transcontinentales y consolidando a Boeing como líder en el mercado de transporte de pasajeros. El Boeing 707 se convertiría en el primero de los **1.010 aviones de la serie 707** construidos entre 1958 y 1979.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -53,6 +56,8 @@ El prototipo 367-80 (Dash 80) voló por primera vez el 15 de julio de 1954, demo
 
 La transición al jet representó modernidad y prestigio. El 707 se convirtió en un símbolo de la globalización y la accesibilidad del transporte aéreo. Su nombre se asoció a la cultura popular de la época, apareciendo en películas y canciones que celebraban la nueva era de la velocidad.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
 - **15 de julio de 1954:** Primer vuelo del prototipo Boeing 367-80 (Dash 80).
@@ -61,11 +66,15 @@ La transición al jet representó modernidad y prestigio. El 707 se convirtió e
 - **30 de mayo de 1958:** El Douglas DC-8, principal competidor del 707, realiza su primer vuelo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/30/primer-vuelo-mc-donell-douglas-dc8.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Douglas DC-8</a> para más detalles.
 - **26 de octubre de 1958:** Pan American World Airways introduce el Boeing 707 en servicio comercial con un vuelo Nueva York-París.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 
 - **Reducción de tiempos:** Los vuelos transatlánticos pasaron de 12 a aproximadamente 6 horas.
 - **Globalización:** El transporte aéreo se volvió accesible más allá de la élite, transformando los viajes de negocios y turismo.
 - **Estandarización técnica:** Introducción de motores turborreactores JT3C, luego evolucionados al JT3D turbofán, que se convirtieron en estándar de la industria.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 

@@ -14,11 +14,13 @@ image: 1592-01-22-nacimiento-pierre-gassendi.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1592-01-22-nacimiento-pierre-gassendi.webp" alt="Retrato de Pierre Gassendi">
   <figcaption class="post-caption">Retrato del sacerdote, filósofo, astrónomo y matemático francés Pierre Gassendi (1592-1655), pionero en la medición de la velocidad del sonido y renovador del atomismo epicúreo. Fuente: dominio público.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Resumen Ejecutivo
-
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 <p>Pierre Gassendi nació el 22 de enero de 1592 en Champtercier, Provenza, Francia. Sacerdote católico, filósofo, astrónomo y matemático, desempeñó un papel clave en la renovación del atomismo y el pensamiento científico del siglo XVII. Entre sus contribuciones más relevantes para la historia de la aviación destaca uno de los primeros intentos cuantitativos de medir la velocidad del sonido. Utilizando un cañón y estaciones de observación separadas por varias millas, obtuvo un valor aproximado de 478 metros por segundo y concluyó correctamente que dicha velocidad no dependía de la frecuencia del sonido. Este conocimiento, refinado posteriormente, se convertiría en un parámetro fundamental para el diseño de aeronaves, especialmente en el régimen supersónico. Gassendi también fue un observador astronómico activo, registrando el tránsito de Mercurio en 1631 y manteniendo una célebre correspondencia crítica con Descartes, defendiendo una visión mecanicista y atomista compatible con la fe cristiana.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -71,9 +73,7 @@ Gassendi fue una figura central en la República de las Letras del siglo XVII. M
 - **1649:** Publica "De vita, moribus, et doctrina Epicuri" (Sobre la vida, costumbres y doctrina de Epicuro), una defensa del atomismo.
 - **1655, 24 de octubre:** Fallece en París a los 63 años. Está enterrado en la iglesia de San Nicolás de los Campos (Saint-Nicolas-des-Champs).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## El Experimento de la Velocidad del Sonido
+### El Experimento de la Velocidad del Sonido
 
 El experimento de Gassendi para medir la velocidad del sonido fue notablemente simple para su época. Se situaba a una distancia conocida de un cañón (varias millas). Cuando observaba el fogonazo del disparo, iniciaba una medición del tiempo (posiblemente usando un péndulo o su propio pulso) y detenía la medición al escuchar la detonación. Dividiendo la distancia por el tiempo, calculó una velocidad aproximada de **478 metros por segundo**.
 

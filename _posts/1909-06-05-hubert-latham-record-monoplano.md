@@ -14,11 +14,14 @@ image: 1909-06-05-hubert-latham-record-monoplano.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1909-06-05-hubert-latham-record-monoplano.webp" alt="Hubert Latham en su Antoinette IV">
   <figcaption class="post-caption">Hubert Latham a bordo de su Antoinette IV, el 5 de junio de 1909, día en que estableció el récord de vuelo en monoplano de 1 hora, 7 minutos y 37 segundos en Mourmelon-le-Grand, Francia. Fuente: Hulton Archive / Getty Images.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 
 El 5 de junio de 1909, el aviador **Hubert Latham**, de 26 años, estableció un nuevo récord mundial al permanecer en el aire durante **1 hora, 7 minutos y 37 segundos** a bordo de su monoplano **Antoinette IV** en Mourmelon-le-Grand, Francia. Fue el primer vuelo de más de una hora realizado en un monoplano, batiendo todos los récords franceses hasta la fecha. El récord fue certificado oficialmente por más de cien oficiales presentes en el campamento militar de Châlons. Este hito demostró la viabilidad de los monoplanos para vuelos de larga duración, estableciendo a Latham como uno de los pioneros más importantes de la aviación temprana.
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -68,9 +71,7 @@ Latham era una figura colorida y popular. Conocido por su humor británico y su 
 - **25 de julio de 1909:** Louis Blériot cruza exitosamente el Canal de la Mancha, derrotando a Latham.
 - **25 de junio de 1912:** Latham fallece en África durante una cacería, a los 29 años.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Antoinette IV: Especificaciones Técnicas
+### El Antoinette IV: Especificaciones Técnicas
 
 - **Fabricante:** Société Antoinette (Francia)
 - **Diseñador:** Léon Levavasseur
@@ -84,9 +85,7 @@ Latham era una figura colorida y popular. Conocido por su humor británico y su 
 - **Velocidad máxima:** aproximadamente 75 km/h (46,6 mph)
 - **Estructura:** Madera y tela, con radiador integrado en la estructura del ala
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La Rivalidad: Monoplanos vs. Biplanos
+### La Rivalidad: Monoplanos vs. Biplanos
 
 En los albores de la aviación, existía una intensa competencia entre dos tipos de aeronaves:
 
