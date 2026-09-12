@@ -16,10 +16,10 @@ image: 1942-05-30-operacion-milenium.webp
   <figcaption class="post-caption">Ilustración oficial británica que recrea el bombardeo sobre Colonia durante la Operación Millennium (Milenio) la noche del 30 al 31 de mayo de 1942, con la catedral de la ciudad visible en el centro de la escena, la cual sobrevivió a pesar de recibir numerosos impactos. Fuente: WW2 Today / dominio público.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Resumen Ejecutivo
-
-La noche del 30 al 31 de mayo de 1942, el Comando de Bombarderos de la Royal Air Force (RAF) lanzó la **Operación Millennium (Milenio)** , el primer bombardeo de la historia que reunió más de 1.000 bombarderos contra un solo objetivo alemán: la ciudad de Colonia. Bajo el mando del Mariscal del Aire Arthur "Bomber" Harris, despegaron **1.047 aviones** de 14 tipos diferentes, incluyendo 292 cuatrimotores pesados y 754 bimotores. De ellos, 868 bombardearon el objetivo principal, lanzando **1.455 toneladas de bombas** (dos tercios incendiarias) en solo 90 minutos. El ataque devastó 600 acres de la ciudad, destruyó 13.010 viviendas, causó entre 469 y 486 muertos, 5.027 heridos y dejó a **45.132 personas sin hogar**. La RAF perdió 43 aeronaves (3,9% de la fuerza). La operación demostró la viabilidad del "bomber stream" (corriente de bombarderos) para saturar las defensas alemanas y marcó un punto de inflexión en la campaña de bombardeo estratégico aliado.
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>La noche del 30 al 31 de mayo de 1942, el Comando de Bombarderos de la Royal Air Force (RAF) lanzó la **Operación Millennium (Milenio)** , el primer bombardeo de la historia que reunió más de 1.000 bombarderos contra un solo objetivo alemán: la ciudad de Colonia. Bajo el mando del Mariscal del Aire Arthur "Bomber" Harris, despegaron **1.047 aviones** de 14 tipos diferentes, incluyendo 292 cuatrimotores pesados y 754 bimotores. De ellos, 868 bombardearon el objetivo principal, lanzando **1.455 toneladas de bombas** (dos tercios incendiarias) en solo 90 minutos. El ataque devastó 600 acres de la ciudad, destruyó 13.010 viviendas, causó entre 469 y 486 muertos, 5.027 heridos y dejó a **45.132 personas sin hogar**. La RAF perdió 43 aeronaves (3,9% de la fuerza). La operación demostró la viabilidad del "bomber stream" (corriente de bombarderos) para saturar las defensas alemanas y marcó un punto de inflexión en la campaña de bombardeo estratégico aliado.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -60,9 +60,13 @@ El raid introdujo dos innovaciones tácticas cruciales:
 
 **La controversia del Coastal Command:** La operación dependía de 250 aeronaves del Mando Costero de la RAF que la Royal Navy se negó a liberar, argumentando que la lucha contra los U-boats en el Atlántico era prioritaria. Ante esta negativa, Harris logró reclutar 49 aeronaves adicionales del Comando de Entrenamiento de Vuelo, alcanzando finalmente 1.047 bombarderos al sumar los Grupos de Entrenamiento N.º 91 y N.º 92 (369 aeronaves) y la fuerza de primera línea.
 
+### Entorno cultural
+
+El raid sobre Colonia fue también una operación de prestigio. Harris necesitaba demostrar que el bombardeo estratégico podía reunir mil aviones en una sola noche, y la cifra de 1.047 bombarderos se volvió titular de la prensa aliada tanto como trauma para la población alemana.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Ataque
+## Desarrollo Cronológico
 
 - **Finales de mayo de 1942:** Harris notifica a sus comandantes de grupo el plan y se cancela todo permiso.
 - **30 de mayo de 1942, 22:05 - 23:15:** El primero de los 1.047 bombarderos despega; el último a las 23:15.
@@ -71,9 +75,7 @@ El raid introdujo dos innovaciones tácticas cruciales:
 - **02:17:** El último bombardero abandona la zona.
 - **31 de mayo, amanecer:** La primera misión de reconocimiento fotográfico diurno con de Havilland Mosquito confirma la magnitud de la devastación.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Composición de la Fuerza de 1.047 Bombarderos
+### Composición de la Fuerza de 1.047 Bombarderos
 
 La fuerza de 1.047 bombarderos se distribuyó de la siguiente manera:
 
@@ -87,17 +89,13 @@ La fuerza de 1.047 bombarderos se distribuyó de la siguiente manera:
 
 En total, participaron **14 tipos diferentes de aeronaves**, alcanzando la cifra récord de 1.047 bombarderos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Heroísmo de Leslie Manser (Cruz Victoria)
+### El Heroísmo de Leslie Manser (Cruz Victoria)
 
 Uno de los episodios más notables de la operación fue el del Oficial de Vuelo **Leslie Thomas Manser**, del Escuadrón N.º 50, quien pilotaba un Avro Manchester. Mientras se aproximaba a Colonia, su avión fue fijado por los reflectores y alcanzado por la artillería antiaérea. A pesar de los daños, Manser continuó hacia el objetivo y lanzó sus bombas según lo previsto desde 2.300 metros.
 
 En el regreso, el motor de babor se incendió y el ala comenzó a arder. Manser ordenó a sus seis tripulantes que saltaran en paracaídas, pero él rechazó su propio paracaídas para mantener el control del avión el mayor tiempo posible y permitir que los demás escaparan. Tras ver a los oficiales saltar, el Manchester se estrelló en Bélgica, llevándose a Manser con él. Fue galardonado póstumamente con la **Cruz Victoria**, la más alta condecoración militar británica por valor frente al enemigo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Testimonio de Leonard Cheshire
+### El Testimonio de Leonard Cheshire
 
 El legendario piloto Leonard Cheshire, entonces un joven comandante de escuadrón, describió la escena sobre Colonia en su libro *Bomber Pilot* (1943):
 

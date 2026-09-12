@@ -40,9 +40,7 @@ image: 1942-05-09-primer-vuelo-reggiane-re-2005-sagittario.webp
 - **Unidades construidas:** 48 (incluyendo prototipos y versiones de preserie)
 - **Usuarios principales:** Regia Aeronautica, Aeronautica Nazionale Repubblicana, Luftwaffe
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones del Reggiane Re.2005 Sagittario
+### Especificaciones del Reggiane Re.2005 Sagittario
 
 El Re.2005 fue diseñado en torno al potente motor alemán Daimler-Benz DB 605, compartiendo esta configuración con los otros cazas de la Serie 5: el Macchi C.205 y el Fiat G.55.
 
@@ -73,23 +71,19 @@ El Re.2005 fue diseñado en torno al potente motor alemán Daimler-Benz DB 605, 
 
 El Reggiane Re.2005 Sagittario surgió en el contexto de la competencia italiana para desarrollar un nuevo caza que pudiera hacer frente a los aviones aliados que dominaban los cielos del Mediterráneo en 1941-1942. La Regia Aeronautica, necesitada de un caza moderno con prestaciones de altura superiores, lanzó un programa para desarrollar nuevos aviones alrededor del potente motor alemán Daimler-Benz DB 605, que estaba disponible bajo licencia para la industria italiana.
 
-### Los cazas italianos de la Serie 5
+### Entorno social
 
-El Re.2005 fue el último de los tres legendarios cazas italianos conocidos como la "Serie 5" en entrar en servicio, junto con el Macchi C.205 Veltro y el Fiat G.55 Centauro. Compartían el mismo motor DB 605 y todos demostraron ser excelentes cazas, capaces de enfrentarse en igualdad de condiciones con los Spitfire y Mustang aliados.
-
-### El diseño
-
-El desarrollo del Re.2005 comenzó en 1941, y el trabajo de diseño preliminar ya se había completado a finales de año, a pesar de que el avión era un diseño completamente nuevo e independiente de los proyectos Reggiane anteriores. El diseño fue liderado por Roberto Longhi, con la colaboración de los ingenieros Giuseppe Maraschini, Alessio, Toniolo y Pozzi. Maraschini, nacido en Milán en 1910 y formado en el Politecnico di Milano, fue una figura clave en el desarrollo del ala del Re.2005, diseñando una estructura de tres largueros en forma de "T" que proporcionaba una excelente rigidez y características aerodinámicas.
-
-El fuselaje era aerodinámicamente eficiente, con una sección trasera inusualmente estrecha que minimizaba la resistencia. Las alas semi-elípticas eran una de las características más distintivas del avión, y la estructura era totalmente metálica, con superficies de control cubiertas de tela.
+A finales de 1941, con los aviones aliados dominando los cielos del Mediterráneo, la Regia Aeronautica urgía el caza moderno prometido por la competencia nacional. El Re.2005, último de la Serie 5 en entrar en servicio junto al Macchi C.205 y el Fiat G.55, llegó a las unidades en la primavera de 1943, cuando la guerra aérea ya jugaba en contra.
 
 ### Entorno tecnológico
 
 El Re.2005 incorporaba tecnologías de vanguardia para su época: ala baja cantilever, tren de aterrizaje de vía ancha con retracción hacia las alas, rueda de cola retráctil (único caza italiano con esta característica), y un sistema hidráulico para operar los flaps. El motor DB 605 era uno de los más avanzados de su tiempo, con un sistema de inyección directa de combustible y una potencia excepcional a gran altitud.
 
-### El motor extraviado
+### Entorno cultural
 
-El Juicio del prototipo se retrasó considerablemente debido a un incidente curioso. La célula del prototipo estuvo lista en febrero de 1942, pero el motor DB 605 que debía instalarse se extravió en la confusa red ferroviaria italiana. Se cree que fue víctima de sabotaje por parte de trabajadores ferroviarios, y no fue encontrado hasta abril de 1942, en una estación de tren de Milán.
+El apodo Sagittario y la fama de la Serie 5 alimentaron la leyenda del caza italiano como máquina refinada, más celebrada por su excelencia técnica que por su peso en un conflicto que ya se decidía en otro lado.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -107,9 +101,21 @@ El Juicio del prototipo se retrasó considerablemente debido a un incidente curi
 - **8 de septiembre de 1943:** Armisticio de Cassibile. La mayoría de los Re.2005 construidos son destruidos o capturados por los alemanes.
 - **1943-1944:** Tras el armisticio, algunos Re.2005 sirven en la Aeronautica Nazionale Repubblicana (ANR) y otros son utilizados por la Luftwaffe para la defensa de Berlín.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+### Los cazas italianos de la Serie 5
 
-## El primer vuelo
+El Re.2005 fue el último de los tres legendarios cazas italianos conocidos como la "Serie 5" en entrar en servicio, junto con el Macchi C.205 Veltro y el Fiat G.55 Centauro. Compartían el mismo motor DB 605 y todos demostraron ser excelentes cazas, capaces de enfrentarse en igualdad de condiciones con los Spitfire y Mustang aliados.
+
+### El diseño
+
+El desarrollo del Re.2005 comenzó en 1941, y el trabajo de diseño preliminar ya se había completado a finales de año, a pesar de que el avión era un diseño completamente nuevo e independiente de los proyectos Reggiane anteriores. El diseño fue liderado por Roberto Longhi, con la colaboración de los ingenieros Giuseppe Maraschini, Alessio, Toniolo y Pozzi. Maraschini, nacido en Milán en 1910 y formado en el Politecnico di Milano, fue una figura clave en el desarrollo del ala del Re.2005, diseñando una estructura de tres largueros en forma de "T" que proporcionaba una excelente rigidez y características aerodinámicas.
+
+El fuselaje era aerodinámicamente eficiente, con una sección trasera inusualmente estrecha que minimizaba la resistencia. Las alas semi-elípticas eran una de las características más distintivas del avión, y la estructura era totalmente metálica, con superficies de control cubiertas de tela.
+
+### El motor extraviado
+
+El Juicio del prototipo se retrasó considerablemente debido a un incidente curioso. La célula del prototipo estuvo lista en febrero de 1942, pero el motor DB 605 que debía instalarse se extravió en la confusa red ferroviaria italiana. Se cree que fue víctima de sabotaje por parte de trabajadores ferroviarios, y no fue encontrado hasta abril de 1942, en una estación de tren de Milán.
+
+### El primer vuelo
 
 El 9 de mayo de 1942, en Reggio Emilia, el piloto de pruebas Tullio de Prato tomó los mandos del prototipo MM.494. El vuelo, que duró aproximadamente 5 minutos, se realizó con el tren de aterrizaje sin retraer por precaución. A pesar de ser un vuelo breve y cauto, fue suficiente para confirmar el enorme potencial del diseño.
 
@@ -121,17 +127,13 @@ El prototipo MM.494 sufrió una serie de percances en sus primeros meses de prue
 
 Posteriormente, durante las pruebas en Guidonia, el avión sufrió más problemas: una fuga en el sistema de refrigeración del motor roció al piloto con agua hirviendo, y los carenados del tren de aterrizaje se desprendieron durante una prueba en picado a velocidades cercanas a los 900 km/h, dañando la célula. Estos incidentes retrasaron considerablemente el programa de pruebas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La competencia con G.55 y C.205
+### La competencia con G.55 y C.205
 
 El Re.2005 compitió directamente con el Fiat G.55 y el Macchi C.205 por el contrato de producción de la Regia Aeronautica. Aunque algunos pilotos consideraban que el Re.2005 era el de mejor rendimiento (el as británico Group Captain Duncan Smith lo describió como "un avión soberbio, potente y magnífico"), el G.55 fue finalmente el elegido para la producción a gran escala porque era más fácil y rápido de fabricar, y su estructura era más robusta.
 
 Sin embargo, la Regia Aeronautica, reconociendo el potencial del Re.2005, realizó un pedido inicial de 750 unidades, una cifra optimista para la industria italiana en tiempos de guerra. Desgraciadamente, la producción se vio gravemente limitada por la capacidad industrial, los bombardeos aliados y la escasez de materias primas. Cuando Italia firmó el armisticio con los Aliados el 8 de septiembre de 1943, solo se habían completado 48 ejemplares.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El Re.2005 en combate
+### El Re.2005 en combate
 
 El bautismo de fuego del Re.2005 tuvo lugar el 2 de abril de 1943, cuando el prototipo MM.494, asignado a la 362ª Squadriglia (22º Gruppo) en Nápoles-Capodichino, fue lanzado en alerta para interceptar bombarderos aliados. El comandante del grupo, Mayor Vittorio Minguzzi, describió el avión como superior al Macchi C.202 en todos los aspectos.
 

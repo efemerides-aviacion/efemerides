@@ -16,7 +16,7 @@ image: 1916-05-20-nacimiento-aleksei-petrovich-maresiev.webp
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>El 20 de mayo de 1916 nació en Kámyshin, Imperio ruso, Alekséi Petróvich Marésiev, un piloto de caza soviético cuya historia trascendió lo militar para convertirse en leyenda. Derribado en 1942, sobrevivió dieciocho días arrastrándose con graves heridas hasta territorio amigo, pero la gangrena le costó la amputación de ambas piernas. Contra todo pronóstico, aprendió a caminar de nuevo con prótesis y regresó al combate, derribando siete aviones enemigos. Su vida inspiró la novela <em>Historia de un hombre verdadero</em> y se convirtió en un emblema de la resistencia humana.</p>
 </div>
@@ -42,14 +42,19 @@ image: 1916-05-20-nacimiento-aleksei-petrovich-maresiev.webp
 
 Alekséi Marésiev creció en una Rusia que atravesaba profundas transformaciones: la Revolución de Octubre de 1917, la guerra civil y la creación de la Unión Soviética. Su juventud coincidió con la industrialización acelerada impulsada por Stalin y con el auge de la aviación como símbolo del poderío soviético. Como muchos jóvenes de su generación, Marésiev soñaba con volar, pero su salud frágil (sufría de malaria y dolores reumáticos) inicialmente lo excluyó de la escuela de vuelo. No fue hasta 1937 que logró alistarse en el ejército, trabajando primero como mecánico y luego como instructor antes de graduarse finalmente como piloto en 1940.
 
+### Entorno social
+
+Marésiev nació en 1916 en Kámyshin, a orillas del Volga, en una Rusia que la Revolución de 1917 y la guerra civil partirían en dos. Su infancia transcurrió entre la escasez de la posguerra y la movilización de los primeros planes quinquenales, que ofrecían a los jóvenes de provincias el ejército y la pujante aviación como vía de ascenso.
+
 ### Entorno tecnológico
 La década de 1930 fue una era de rápida modernización de la aviación militar. La Unión Soviética desarrolló cazas como el Polikarpov I-16 (el caza monoplano de ala baja que volaba Marésiev cuando fue derribado) y, más tarde, el Yakovlev Yak-1, Yak-3 y Yak-9, que igualaron o superaron a los cazas alemanes. La guerra en el frente oriental se convirtió en un gigantesco laboratorio de tácticas aéreas y de superación humana en condiciones extremas.
 
-### Entorno social y cultural
+### Entorno cultural
 La Gran Guerra Patria (1941-1945) fue una lucha existencial para la URSS. Los pilotos soviéticos gozaban de un estatus heroico similar al de los cosmonautas en la década siguiente. En este contexto, la historia de Marésiev —el hombre que se negó a ser un inválido y volvió a combatir— resonó profundamente en una sociedad que necesitaba ejemplos de sacrificio y tenacidad. La escritura de Boris Polevoi, que transformó su vida en literatura, lo inmortalizó como arquetipo del «hombre soviético».
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-### Desarrollo cronológico de los hechos
+## Desarrollo Cronológico
 
 - **20 de mayo de 1916:** Nace Alekséi Marésiev en Kámyshin, a orillas del Volga. Su padre muere cuando él es aún un niño, y su madre lo cría junto a sus dos hermanos.
 
@@ -85,11 +90,15 @@ La Gran Guerra Patria (1941-1945) fue una lucha existencial para la URSS. Los pi
 
 - **18 de mayo de 2001:** Sufre un infarto y fallece en Moscú a los 84 años. La celebración anticipada por su 85.º cumpleaños, programada para esa misma tarde, se convirtió en un homenaje póstumo.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Consecuencias e Impacto
 
 El regreso de Marésiev al combate tuvo un profundo impacto moral en las filas soviéticas. Demostró que un piloto amputado podía ser igual de efectivo que uno sin discapacidad. Su ejemplo allanó el camino para que otros pilotos heridos solicitaran el regreso al servicio activo. Además, su hazaña fue utilizada por las autoridades soviéticas como herramienta propagandística para elevar la moral de las tropas y de la retaguardia.
 
 En términos tácticos, Marésiev acumuló siete victorias después de la amputación —tres de ellas en la decisiva batalla de Kursk—, lo que lo convirtió en uno de los pocos casos documentados de piloto de caza doble amputado que regresa a vuelo de combate.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 

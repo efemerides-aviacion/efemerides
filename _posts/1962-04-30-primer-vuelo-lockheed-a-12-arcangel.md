@@ -42,6 +42,10 @@ image: 1962-04-30-primer-vuelo-lockheed-a-12-arcangel.webp
 
 A finales de la década de 1950, el icónico avión espía U-2 de la CIA se había vuelto vulnerable a los nuevos radares soviéticos. El derribo del piloto Gary Powers el 1 de mayo de 1960 confirmó los peores temores: la Unión Soviética ya podía detectar y derribar al U-2. La CIA necesitaba un sucesor capaz de volar más alto (sobre 25.900 m o 85.000 pies), más rápido (Mach 3+) y con un perfil de radar reducido.
 
+### Entorno social
+
+En 1956, con el U-2 ya volando sobre la URSS, la CIA buscaba un sucesor más rápido y más alto. El derribo del avión de Gary Powers en mayo de 1960 volvió urgente el reemplazo y blindó el secreto del programa Archangel.
+
 ### Entorno tecnológico
 
 El A-12 incorporó innovaciones revolucionarias que lo adelantaron décadas a su tiempo. Estaba fabricado casi en su totalidad con titanio para soportar las temperaturas extremas generadas por el vuelo a Mach 3,2. También incorporó tecnologías furtivas (stealth) pioneras: formas de baja reflectividad de radar, materiales compuestos absorbentes y una pintura especial con pequeñas esferas de hierro ("iron ball paint") que reducían su sección transversal de radar. La CIA incluso investigó sistemas exóticos de "sigilo de plasma", como añadir cesio al combustible para ionizar los gases de escape o instalar cañones de electrones a bordo.
@@ -49,6 +53,8 @@ El A-12 incorporó innovaciones revolucionarias que lo adelantaron décadas a su
 ### Entorno cultural
 
 El desarrollo del A-12 fue uno de los proyectos más secretos de la Guerra Fría, con el nombre en clave "OXCART". Las pruebas se realizaron en Groom Lake, una instalación remota en el desierto de Nevada cuyo nombre real, "Área 51", se hizo famoso décadas después. Las tripulaciones apodaron al avión "Cygnus" (el Cisne), siguiendo la tradición de Lockheed de nombrar sus aeronaves con nombres de cuerpos celestes.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -65,9 +71,7 @@ El desarrollo del A-12 fue uno de los proyectos más secretos de la Guerra Fría
 - **9 de marzo de 1963:** Primer vuelo con dos motores J58
 - **Enero de 1964:** El piloto James Eastham lleva el artículo 121 a Mach 3,3, con 15 minutos de crucero sobre Mach 3,2
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Los vuelos previos al 30 de abril de 1962
+### Los vuelos previos al 30 de abril de 1962
 
 El camino hacia el vuelo oficial no fue sencillo. El A-12 60-6924 (Artículo 121), designado como el banco de pruebas principal para la aeronaveabilidad, había sido transportado a Groom Lake el 27 de febrero de 1962.
 
@@ -83,9 +87,7 @@ Al día siguiente, el 26 de abril, Lockheed realizó el primer vuelo planificado
 
 El 30 de abril de 1962, Schalk voló nuevamente el artículo 121, esta vez para el cliente: la Agencia Central de Inteligencia. En un vuelo de 59 minutos, alcanzó una velocidad máxima de 340 nudos (unos 630 km/h) y una altitud de 9.144 m (30.000 pies). Este es el vuelo oficialmente reconocido como el primer vuelo del A-12 para la CIA.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Diseño y características del A-12
+### Diseño y características del A-12
 
 El Lockheed A-12 fue una obra maestra de la ingeniería aeronáutica.
 
@@ -113,9 +115,9 @@ El derribo del U-2 hizo que la CIA priorizara la baja detectabilidad por radar. 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Servicio operativo y legado
+## Consecuencias e Impacto
 
-El A-12 tuvo una carrera operativa breve pero intensa. Aunque solo sirvió durante el programa OXCART de la CIA, su legado perdura en el SR-71 y en la tecnología furtiva que desarrolló para futuras generaciones de aviones espía.
+Las pruebas de 1962 desembocaron en una carrera operativa breve bajo el programa OXCART de la CIA y en una familia de sucesores Mach 3 encabezada por el SR-71.
 
 ### Operación Black Shield
 
@@ -124,6 +126,12 @@ El A-12 entró en servicio operativo en 1967. Desde la base de Okinawa, bajo la 
 ### Producción y retiro
 
 Se construyeron un total de 18 A-12, incluyendo prototipos y variantes como el YF-12 (interceptor) y el M-21 (lanzador del dron D-21). La CIA retiró los A-12 en 1968, cuando el SR-71 Blackbird (una versión más larga y de dos asientos desarrollada para la Fuerza Aérea) asumió las misiones de reconocimiento estratégico.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Legado
+
+El A-12 tuvo una carrera operativa breve pero intensa. Aunque solo sirvió durante el programa OXCART de la CIA, su legado perdura en el SR-71 y en la tecnología furtiva que desarrolló para futuras generaciones de aviones espía.
 
 ### El artículo 121 hoy
 

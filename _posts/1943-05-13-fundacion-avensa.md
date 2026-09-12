@@ -16,10 +16,10 @@ image: 1943-05-13-fundacion-avensa.webp
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Resumen Ejecutivo
-
-El 13 de mayo de 1943 se fundó AVENSA (Aerovías Venezolanas Sociedad Anónima), la aerolínea privada más importante e influyente de la historia de Venezuela. Nació del esfuerzo de los empresarios venezolanos John y Andrés Boulton, quienes lograron el apoyo de gigantes internacionales como Pan American World Airways y Mexicana de Aviación para firmar el contrato de explotación con el Gobierno Nacional. Comenzó sus operaciones en diciembre de ese mismo año y durante 61 años fue sinónimo de modernidad y progreso, conectando a Venezuela con el mundo.
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 13 de mayo de 1943 se fundó AVENSA (Aerovías Venezolanas Sociedad Anónima), la aerolínea privada más importante e influyente de la historia de Venezuela. Nació del esfuerzo de los empresarios venezolanos John y Andrés Boulton, quienes lograron el apoyo de gigantes internacionales como Pan American World Airways y Mexicana de Aviación para firmar el contrato de explotación con el Gobierno Nacional. Comenzó sus operaciones en diciembre de ese mismo año y durante 61 años fue sinónimo de modernidad y progreso, conectando a Venezuela con el mundo.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -37,9 +37,7 @@ El 13 de mayo de 1943 se fundó AVENSA (Aerovías Venezolanas Sociedad Anónima)
 - **Cese de operaciones:** 31 de diciembre de 2004
 - **Eslogan:** "La aerolínea de Venezuela"
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Aeronaves Emblemáticas de AVENSA
+### Aeronaves Emblemáticas de AVENSA
 
 A lo largo de su historia, AVENSA operó una de las flotas más modernas y variadas de América Latina, incluyendo:
 
@@ -57,13 +55,15 @@ La fundación de AVENSA se enmarca en el esfuerzo de modernización de Venezuela
 
 Venezuela experimentaba un crecimiento económico sin precedentes, lo que fomentaba el turismo nacional e internacional y la necesidad de un transporte rápido y eficiente. La creación de una aerolínea privada fuerte era vista como un paso natural hacia la modernidad.
 
-### Entorno de la aviación comercial
+### Entorno tecnológico
 
-AVENSA fue concebida desde un principio como una línea aérea moderna. Fue pionera en establecer vuelos diarios, incluyendo domingos y días festivos, y en introducir el servicio de azafatas a bordo. Su éxito inicial la llevó a convertirse en el principal operador del mercado de "cabotaje" (vuelos domésticos) en Venezuela.
+AVENSA nació con el Ford Trimotor y creció con los Douglas de hélice, del DC-3 al DC-6, hasta dar el salto al reactor con el Caravelle en 1964 y los DC-9 y DC-10.
 
-### El rol de Pan American World Airways
+### Entorno cultural
 
-La alianza estratégica con Pan American World Airways fue crucial para el despegue de AVENSA. La gigante estadounidense no solo aportó capital inicial, sino también su vasta experiencia operativa, estándares de seguridad y la formación de personal, lo que permitió a la aerolínea venezolana alcanzar estándares internacionales desde sus inicios.
+La aerolínea se volvió emblema de la Venezuela petrolera que se modernizaba. El avión diario dejó de ser aventura de pioneros para volverse servicio regular, y Maiquetía, su base, creció como la puerta aérea del país.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -80,9 +80,15 @@ La alianza estratégica con Pan American World Airways fue crucial para el despe
 - **2002:** Se declara en quiebra. La eficiencia de Santa Bárbara Airlines y la crisis económica del país llevan al cese de la mayoría de sus operaciones.
 - **31 de diciembre de 2004:** Cesa completamente sus operaciones.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+### Entorno de la aviación comercial
 
-## Servivensa (Servicios Avensa S.A.)
+AVENSA fue concebida desde un principio como una línea aérea moderna. Fue pionera en establecer vuelos diarios, incluyendo domingos y días festivos, y en introducir el servicio de azafatas a bordo. Su éxito inicial la llevó a convertirse en el principal operador del mercado de "cabotaje" (vuelos domésticos) en Venezuela.
+
+### El rol de Pan American World Airways
+
+La alianza estratégica con Pan American World Airways fue crucial para el despegue de AVENSA. La gigante estadounidense no solo aportó capital inicial, sino también su vasta experiencia operativa, estándares de seguridad y la formación de personal, lo que permitió a la aerolínea venezolana alcanzar estándares internacionales desde sus inicios.
+
+### Servivensa (Servicios Avensa S.A.)
 
 En 1978, AVENSA crea Servivensa, inicialmente concebida para prestar servicios de apoyo a la aerolínea matriz. Sin embargo, a partir del 21 de diciembre de 1990, se convirtió en una aerolínea regular de bajo costo, llegando a operar hasta 27 aviones en su flota.
 

@@ -16,10 +16,10 @@ image: 1910-05-29-vuelo-historico-albany-flyer.webp
   <figcaption class="post-caption">El Albany Flyer de Glenn Curtiss, fotografiado en 1910 durante una demostración pública, el mismo avión con el que realizó el histórico vuelo entre Albany y Nueva York el 29 de mayo de 1910; fuente: Glenn H. Curtiss Museum, “Albany Flyer”.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Resumen Ejecutivo
-
-El 29 de mayo de 1910, el pionero de la aviación Glenn Hammond Curtiss despegó de Albany, Nueva York, a las 7:03 de la mañana a bordo de su biplano "Albany Flyer" (también llamado "Hudson Flyer" y apodado "Rocking Chair" por su distintiva configuración de cables). Siguiendo el curso del río Hudson, realizó una parada cerca de Poughkeepsie y reanudó el vuelo, aterrizando en la isla de Manhattan a las 10:35. El tiempo total de vuelo fue de **2 horas y 32 minutos**, recorriendo **137 millas** (aproximadamente 220 km) a una velocidad media de **54,06 mph** (87 km/h). El vuelo, patrocinado por el periódico *New York World* de Joseph Pulitzer, le valió un premio de **10.000 dólares** (equivalentes a unos 250.000 dólares actuales). Más allá del récord, el vuelo fue crucial para financiar la defensa legal de Curtiss contra los hermanos Wright, quienes reclamaban derechos de patente sobre todos los aviones, y demostró la viabilidad de la aviación como medio de transporte de larga distancia.
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 29 de mayo de 1910, el pionero de la aviación Glenn Hammond Curtiss despegó de Albany, Nueva York, a las 7:03 de la mañana a bordo de su biplano "Albany Flyer" (también llamado "Hudson Flyer" y apodado "Rocking Chair" por su distintiva configuración de cables). Siguiendo el curso del río Hudson, realizó una parada cerca de Poughkeepsie y reanudó el vuelo, aterrizando en la isla de Manhattan a las 10:35. El tiempo total de vuelo fue de **2 horas y 32 minutos**, recorriendo **137 millas** (aproximadamente 220 km) a una velocidad media de **54,06 mph** (87 km/h). El vuelo, patrocinado por el periódico *New York World* de Joseph Pulitzer, le valió un premio de **10.000 dólares** (equivalentes a unos 250.000 dólares actuales). Más allá del récord, el vuelo fue crucial para financiar la defensa legal de Curtiss contra los hermanos Wright, quienes reclamaban derechos de patente sobre todos los aviones, y demostró la viabilidad de la aviación como medio de transporte de larga distancia.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -56,15 +56,13 @@ El "Albany Flyer" era un Curtiss Model D, un biplano de configuración "pusher" 
 
 A diferencia de los aviones de los hermanos Wright, que utilizaban un sistema de control de alabeo mediante torsión de alas (wing-warping), los diseños de Curtiss utilizaban alerones, una innovación que resultaría superior y se convertiría en el estándar de la industria. Esta diferencia tecnológica estaba en el centro del conflicto legal.
 
-### Entorno cultural y legal
+### Entorno cultural
 
-El vuelo de Curtiss no fue solo una proeza deportiva. Desde su exitoso vuelo de 1903, los hermanos Wright habían patentado agresivamente su tecnología y demandaban a cualquier otro aviador que intentara volar sin pagarles regalías, reclamando un monopolio virtual sobre todos los aviones. Curtiss era su principal objetivo. El premio de 10.000 dólares ofrecido por Joseph Pulitzer era vital para que Curtiss pudiera financiar su defensa legal. El vuelo se convirtió así en una batalla no solo por un récord, sino por el futuro mismo de la industria de la aviación.
-
-El propio presidente William H. Taft siguió el evento y envió un mensaje de felicitación que fue publicado en los periódicos. En él, Taft señaló: *"El Señor Wright me dijo en el momento del vuelo de diez millas desde Fort Meyer que la principal dificultad era volar sobre territorio desconocido. El Señor Curtiss parece haber superado esto, y me alegra que así sea"*.
+En 1910, la aviación era espectáculo y apuesta pública. El premio de 10.000 dólares por unir Albany y Nueva York convirtió el vuelo de Curtiss en acontecimiento seguido por la prensa, a la altura del duelo ferroviario que acabaría batiendo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del Vuelo
+## Desarrollo Cronológico
 
 - **29 de mayo de 1910, 7:03 a.m.:** Curtiss despega desde Albany bajo condiciones climáticas casi perfectas.
 - **Durante el vuelo (primer tramo):** Sigue el curso del río Hudson, con sus pronunciados acantilados (Palisades) y curvas. En un momento, cerca de Storm King, cerca de West Point, una ráfaga de viento golpea sus alas. El avión cae 40 pies (12 metros) y se inclina peligrosamente, pero Curtiss logra recuperar el control.
@@ -73,9 +71,13 @@ El propio presidente William H. Taft siguió el evento y envió un mensaje de fe
 - **10:35 a.m.:** Aterriza dentro de los límites de la isla de Manhattan. El tiempo total de vuelo (excluyendo la parada) es de **2 horas y 32 minutos**.
 - **Después del aterrizaje:** Curtiss se pone en contacto por teléfono con el *New York World* para reclamar oficialmente el premio. Luego, tras comprobar que su avión seguía en perfectas condiciones, realiza un vuelo de celebración alrededor de la isla de Manhattan, sobrevolando la Estatua de la Libertad, Battery Park (donde 10.000 personas se congregaron para verlo) y la tumba de Grant.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+### Entorno cultural y legal
 
-## El "Albany Flyer": Características técnicas
+El vuelo de Curtiss no fue solo una proeza deportiva. Desde su exitoso vuelo de 1903, los hermanos Wright habían patentado agresivamente su tecnología y demandaban a cualquier otro aviador que intentara volar sin pagarles regalías, reclamando un monopolio virtual sobre todos los aviones. Curtiss era su principal objetivo. El premio de 10.000 dólares ofrecido por Joseph Pulitzer era vital para que Curtiss pudiera financiar su defensa legal. El vuelo se convirtió así en una batalla no solo por un récord, sino por el futuro mismo de la industria de la aviación.
+
+El propio presidente William H. Taft siguió el evento y envió un mensaje de felicitación que fue publicado en los periódicos. En él, Taft señaló: *"El Señor Wright me dijo en el momento del vuelo de diez millas desde Fort Meyer que la principal dificultad era volar sobre territorio desconocido. El Señor Curtiss parece haber superado esto, y me alegra que así sea"*.
+
+### El "Albany Flyer": Características técnicas
 
 El Curtiss Model D, conocido en esta configuración específica como "Albany Flyer", "Hudson Flyer" o "Rocking Chair", era un avión biplano de configuración "pusher" (hélice propulsora).
 
@@ -96,7 +98,7 @@ El apodo "Rocking Chair" (mecedora) provino de los cables que conectaban las ala
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Legado e Impacto del Vuelo
+## Consecuencias e Impacto
 
 El vuelo del 29 de mayo de 1910 tuvo consecuencias de gran alcance, tanto para Curtiss como para la historia de la aviación.
 
@@ -106,13 +108,17 @@ El vuelo del 29 de mayo de 1910 tuvo consecuencias de gran alcance, tanto para C
 - **Demostración de la superioridad de los alerones:** El éxito de Curtiss ayudó a popularizar el uso de alerones, que eventualmente se convertirían en el método estándar para el control de alabeo en los aviones, en lugar del sistema de torsión de alas patentado por los Wright.
 - **Un récord efímero pero simbólico:** El tiempo de vuelo de Curtiss batió el récord ferroviario de la época (2 horas y 40 minutos) para el mismo trayecto y sirvió como punto de referencia para los futuros desarrollos de la aviación comercial.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La Reacción del presidente Taft
+### La Reacción del presidente Taft
 
 El presidente William H. Taft siguió el vuelo con gran interés y envió un mensaje que fue publicado en los periódicos de la época:
 
 > *"Estoy intensamente interesado en lo que el Señor Curtiss ha logrado. Parece que las maravillas de la aviación nunca cesarán... El Señor Wright me dijo en el momento del vuelo de diez millas desde Fort Meyer que la principal dificultad era volar sobre territorio desconocido. El Señor Curtiss parece haber superado esto, y me alegra que así sea. Su vuelo vivirá largo tiempo en nuestra memoria como el más grande"*.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Legado
+
+El vuelo de Albany quedó fijado en la memoria de la aviación como el primer enlace interurbano de larga distancia en Estados Unidos y una pieza temprana de la leyenda de Glenn Curtiss. El premio sostuvo su causa en la guerra de patentes, y la ruta del Hudson siguió citándose como la prueba de que el aeroplano podía disputarle al ferrocarril el transporte entre ciudades.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

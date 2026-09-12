@@ -38,9 +38,7 @@ image: 1935-05-06-primer-vuelo-curtiss-wright-model-75-x17y.webp
 - **Registro civil:** X17Y, emitido el 1 de junio de 1936, cancelado el 26 de abril de 1937
 - **Aeronaves derivadas:** P-36 Hawk (USAAC), H75A-1 (Francia), Mohawk Mk.I (Reino Unido), XP-40
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones del Curtiss Model 75 (prototipo original)
+### Especificaciones del Curtiss Model 75 (prototipo original)
 
 El Curtiss Model 75 fue un diseño radicalmente moderno para su época, rompiendo con la tradición de biplanos que había dominado la aviación militar hasta entonces.
 
@@ -63,6 +61,10 @@ El Curtiss Model 75 fue un diseño radicalmente moderno para su época, rompiend
 
 A mediados de la década de 1930, el Cuerpo Aéreo del Ejército de los Estados Unidos (USAAC) operaba principalmente biplanos como el Boeing P-26 Peashooter, que aunque moderno en su momento, ya quedaba obsoleto frente a los nuevos diseños monoplano que surgían en Europa, como el Hawker Hurricane y el Messerschmitt Bf 109. Consciente de la necesidad de un caza moderno, Curtiss-Wright inició en 1934 un proyecto de iniciativa privada: el Model 75.
 
+### Entorno social
+
+A mediados de la década de 1930, el USAAC presionaba por modernizar una flota de biplanos cada vez más superada por los monoplano europeos. Los fabricantes estadounidenses competían por los contratos militares con proyectos de iniciativa privada, y Curtiss-Wright apostó en 1934 sus propios recursos al Model 75 para no perder el tren del caza moderno.
+
 ### Entorno tecnológico
 
 El Model 75 incorporaba innovaciones significativas: construcción totalmente metálica (excepto las superficies de control, que mantenían el recubrimiento de tela), ala baja cantilever (sin soportes externos), tren de aterrizaje principal retráctil que giraba 90 grados para alojarse plano en el ala (un diseño patentado por Boeing, por el que Curtiss pagaba regalías), y cabina cerrada. La aerodinámica limpia y la reducción de la resistencia marcaron la diferencia con los biplanos de la generación anterior.
@@ -71,9 +73,7 @@ El Model 75 incorporaba innovaciones significativas: construcción totalmente me
 
 En la segunda mitad de la década de 1930, la opinión pública estadounidense, aunque mayoritariamente aislacionista, observaba con creciente preocupación el rearme de Alemania, Italia y Japón. La necesidad de modernizar las fuerzas armadas era evidente para los mandos militares, y el USAAC lanzó en 1935 un **concurso** para seleccionar un nuevo caza monoplano. El Model 75 de Curtiss fue uno de los principales contendientes, junto con el Seversky P-35.
 
-### Donovan R. Berlin: el diseñador
-
-Donovan Reese Berlin (1898-1982) fue uno de los ingenieros aeronáuticos más importantes de su generación. Había trabajado en Northrop Aircraft Company, donde contribuyó al diseño del Northrop Gamma y el Northrop Delta. Al unirse a Curtiss-Wright en 1934, aplicó las lecciones aprendidas sobre estructuras monocasco totalmente metálicas y diseño aerodinámico. Después del Model 75/P-36, Berlin lideraría el equipo que diseñó el P-40 Warhawk, el tercer caza más producido por Estados Unidos en la Segunda Guerra Mundial.
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -86,9 +86,11 @@ Donovan Reese Berlin (1898-1982) fue uno de los ingenieros aeronáuticos más im
 - **16 de junio de 1936:** El USAAC ordena tres prototipos Y1P-36
 - **1937:** El P-36A gana el concurso anual del USAAC y se ordenan 210 unidades
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+### Donovan R. Berlin: el diseñador
 
-## El primer vuelo
+Donovan Reese Berlin (1898-1982) fue uno de los ingenieros aeronáuticos más importantes de su generación. Había trabajado en Northrop Aircraft Company, donde contribuyó al diseño del Northrop Gamma y el Northrop Delta. Al unirse a Curtiss-Wright en 1934, aplicó las lecciones aprendidas sobre estructuras monocasco totalmente metálicas y diseño aerodinámico. Después del Model 75/P-36, Berlin lideraría el equipo que diseñó el P-40 Warhawk, el tercer caza más producido por Estados Unidos en la Segunda Guerra Mundial.
+
+### El primer vuelo
 
 El 6 de mayo de 1935, en la fábrica de Curtiss-Wright en Buffalo, Nueva York, el prototipo X17Y estaba listo para su bautismo de vuelo. La aeronave, con su distintivo esquema de construcción totalmente metálica y su tren retráctil, representaba un paso audaz hacia el futuro de los cazas estadounidenses.
 
@@ -96,9 +98,7 @@ El nombre del piloto de pruebas que realizó este vuelo no se menciona en las fu
 
 Sin embargo, el motor Wright XR-1670-5 (o GR1670A1, según las fuentes) demostró ser poco fiable. Este motor de desarrollo, que también equipó al Seversky SEV-S1, tenía problemas de fiabilidad que limitaban el rendimiento del prototipo.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El concurso con Seversky
+### El concurso con Seversky
 
 El 27 de mayo de 1935, apenas tres semanas después de su primer vuelo, el prototipo X17Y fue trasladado a Wright Field, Ohio, para participar en el **concurso** del USAAC por un nuevo caza monoplaza. El principal rival era el Seversky P-35, diseñado por Alexander Kartveli (quien más tarde diseñaría el P-47 Thunderbolt).
 
@@ -108,9 +108,7 @@ Cuando las pruebas se reanudaron en abril de 1936, el nuevo motor tampoco entreg
 
 Sin embargo, el USAAC, preocupado por la capacidad de Seversky para cumplir con los plazos de entrega y por la tensa situación internacional en Europa, decidió encargar a Curtiss tres prototipos de desarrollo, designados Y1P-36, el 16 de junio de 1936.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El éxito del P-36 Hawk
+### El éxito del P-36 Hawk
 
 El Y1P-36 (Model 75E) estaba propulsado por un motor Pratt & Whitney R-1830-13 Twin Wasp de 900 hp, más fiable y eficiente que los anteriores Wright. El nuevo motor, junto con las mejoras aerodinámicas, transformó el avión. En el concurso de 1937, el P-36A demostró un rendimiento notable y ganó el contrato para la producción en serie del P-36 Hawk, con un pedido inicial de 210 unidades.
 

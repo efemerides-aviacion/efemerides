@@ -15,9 +15,13 @@ image: 1977-05-20-primer-vuelo-sukhoi-su-27.webp
   <figcaption class="post-caption">El primer prototipo del Sukhoi Su-27, designado T-10-1, realizó su primer vuelo el 20 de mayo de 1977 en la base de Zhukovski, con el piloto de pruebas Vladímir Ilyushin a los mandos. Fuente: Rostec, Su-27: Five Facts About the Fighter.</figcaption>
 </figure>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>El 20 de mayo de 1977 despegó por primera vez el T-10-1, prototipo del Su-27, en la base aérea de Zhukovski, cerca de Moscú. Concebido como respuesta soviética al F-15 Eagle, el programa se enfrentó a numerosos obstáculos: los primeros prototipos sufrieron accidentes graves, y el diseño original tuvo que ser prácticamente rehecho desde cero. Sin embargo, el resultado fue uno de los cazas de superioridad aérea más capaces jamás construidos, cuya familia de derivados (Su-30, Su-33, Su-34, Su-35) sigue en producción y servicio activo décadas después.</p>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 - **Fecha:** 20 de mayo de 1977
@@ -28,17 +32,25 @@ image: 1977-05-20-primer-vuelo-sukhoi-su-27.webp
 - **Entrada en servicio:** 1985
 - **Producción total:** Más de 660 unidades (versiones iniciales)
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
 
 El desarrollo del Su-27 se enmarca en la intensa competencia tecnológica de la Guerra Fría. A finales de la década de 1960, Estados Unidos inició el desarrollo del F-15 Eagle, un caza de superioridad aérea que superaba a cualquier avión soviético existente. La Unión Soviética respondió con el programa PFI (*Perspektivnyi Frontovoy Istrebitel* — "Caza Frontal de Nueva Generación"), una iniciativa para crear un caza de largo alcance que pudiera igualar o superar a su rival estadounidense.
 
+### Entorno social
+
+A finales de la década de 1960, la industria aeronáutica soviética trabajaba bajo la presión de responder al nuevo caza estadounidense F-15. El encargo recayó en 1969 en la oficina de Pável Sujói, que debía dar a la Fuerza Aérea un interceptor de largo alcance capaz de recuperar la paridad.
+
 ### Entorno tecnológico
 La década de 1970 fue testigo de avances fundamentales en la aviación militar: los sistemas de control fly-by-wire (vuelo por cable), la integración de radar pulse-Doppler y el uso extensivo de aleaciones de titanio. El Su-27 fue concebido como una plataforma inherentemente inestable para maximizar su maniobrabilidad, lo que exigía un sofisticado sistema de control por cable sin respaldo mecánico, una primicia en la aviación soviética.
 
-### Entorno social y cultural
+### Entorno cultural
 Para la industria aeronáutica soviética, el Su-27 representaba una cuestión de orgullo nacional. Tras el éxito occidental del F-15 y el F-16, la Unión Soviética necesitaba demostrar que podía producir un caza de cuarta generación a la altura. El programa se convirtió en un símbolo de la capacidad tecnológica soviética y, tras la caída de la URSS, en uno de los productos de exportación más exitosos de la industria rusa.
 
-## Desarrollo cronológico de los hechos
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Desarrollo Cronológico
 
 - **1969:** Se inicia oficialmente el desarrollo del futuro Su-27 bajo la dirección de Pável Sujói, con el objetivo de superar al F-15 Eagle.
 
@@ -68,6 +80,8 @@ Para la industria aeronáutica soviética, el Su-27 representaba una cuestión d
 
 - **1989:** Durante el Salón Aeronáutico de París, el piloto Víktor Pugachov ejecuta por primera vez la maniobra "Pugachov's Cobra", demostrando la extraordinaria capacidad de control de ángulo de ataque del Su-27 y asombrando a la audiencia occidental.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 
 El Su-27 demostró ser no solo el contrapeso soviético al F-15, sino un diseño tan exitoso que sentó las bases de toda una familia de cazas. Sus puntos fuertes —gran autonomía, extraordinaria maniobrabilidad y capacidad de carga de combustible y armamento— lo convirtieron en una plataforma ideal para múltiples misiones.
@@ -80,6 +94,8 @@ Las versiones derivadas del diseño básico del Su-27 incluyen:
 
 El avión también estableció récords mundiales: una versión modificada designada P-42, construida a partir de un prototipo T-10, batió múltiples récords de ascenso en 1986 y 1987.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Legado
 
 El Su-27 es, junto al MiG-21 y el Su-57, uno de los aviones más representativos de la aviación militar rusa. Su diseño resultó tan acertado que, más de 45 años después de su primer vuelo, los derivados modernizados (Su-30SM, Su-35S) constituyen el núcleo de la Fuerza Aeroespacial Rusa.
@@ -87,6 +103,8 @@ El Su-27 es, junto al MiG-21 y el Su-57, uno de los aviones más representativos
 El Su-27 y sus derivados han sido operados por más de 15 países, incluyendo China (que produce su propia versión con licencia, la Shenyang J-11), India, Vietnam, Indonesia, Etiopía y Ucrania. Se han producido más de 1.600 unidades de toda la familia Flanker desde 1985.
 
 El prototipo original T-10-1 se exhibe actualmente en el Museo de la Fuerza Aérea Rusa en Monino, cerca de Moscú, como testimonio de uno de los programas de desarrollo aeronáutico más complejos y exitosos de la historia.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -101,6 +119,8 @@ El prototipo original T-10-1 se exhibe actualmente en el Museo de la Fuerza Aér
     <li><a href="https://warhistory.org/es/@msw/article/sukhoi-su-27-flanker-1977" style="color: #315fea; text-decoration: none;">WarHistory.org – Sukhoi Su-27 Flanker (1977)</a></li>
   </ul>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-09 10:01:52 CST  

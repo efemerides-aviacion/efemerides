@@ -16,10 +16,10 @@ image: 1909-05-10-nacimiento-valentina-stepanova-grizodubova.webp
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Resumen Ejecutivo
-
-El 10 de mayo de 1909 nació en Járkov Valentina Stepánovna Grizodúbova, una de las primeras mujeres piloto de la Unión Soviética. Hija de un pionero constructor de aviones, estableció múltiples récords mundiales en la década de 1930. Comandó el vuelo épico del "Rodina" en 1938, recorriendo 5.908,61 kilómetros sin escalas desde Moscú hasta el Lejano Oriente soviético. Fue galardonada como Héroe de la Unión Soviética y, décadas después, como Héroe del Trabajo Socialista. Durante la Gran Guerra Patria (1941-1945), comandó un regimiento de aviación de largo alcance, realizando unas 200 misiones de combate.
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 10 de mayo de 1909 nació en Járkov Valentina Stepánovna Grizodúbova, una de las primeras mujeres piloto de la Unión Soviética. Hija de un pionero constructor de aviones, estableció múltiples récords mundiales en la década de 1930. Comandó el vuelo épico del "Rodina" en 1938, recorriendo 5.908,61 kilómetros sin escalas desde Moscú hasta el Lejano Oriente soviético. Fue galardonada como Héroe de la Unión Soviética y, décadas después, como Héroe del Trabajo Socialista. Durante la Gran Guerra Patria (1941-1945), comandó un regimiento de aviación de largo alcance, realizando unas 200 misiones de combate.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -55,25 +55,9 @@ En 1929, Valentina se graduó en el Club de Vuelo de Penza de la organización p
 
 Desde 1934 hasta 1938 voló en un escuadrón de propaganda aérea bautizado con el nombre de Máximo Gorki . Durante este período, dominó múltiples tipos de aeronaves. En 1937 estableció cinco récords mundiales de aviación a bordo de aviones UT-1, UT-2 y AIR-12 : un récord de altitud en un hidroavión biplaza (3.267 metros el 15 de octubre de 1937), tres récords de velocidad y un récord de distancia en la ruta Moscú-Aktiubinsk (1.444,72 km) .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+### Entorno cultural
 
-## El vuelo del Rodina: la hazaña que la inmortalizó
-
-El 24 y 25 de septiembre de 1938, Valentina Grizodúbova, como comandante de vuelo, junto con Polina Osipenko como copiloto y Marina Raskova como navegante, realizó una proeza que la convertiría en una leyenda. A bordo del bimotor Túpolev ANT-37, bautizado con el nombre de "Rodina" (Patria), emprendieron un vuelo sin escalas desde Moscú al Lejano Oriente soviético.
-
-### El vuelo
-
-El vuelo, que duró 26 horas y 29 minutos, superó los 5.908,61 kilómetros de distancia en línea recta , estableciendo un nuevo récord mundial femenino de distancia sin escalas. La ruta cubrió 6.450 kilómetros en total . Las condiciones durante el trayecto fueron extremas: temperaturas bajo cero, problemas de comunicación, pérdida de visibilidad por las nubes, y un fallo del sistema de calefacción.
-
-### La angustiosa emergencia y el rescate
-
-Al aproximarse a su destino, una luz de emergencia indicó que solo quedaban 30 minutos de combustible. Sin visibilidad y sin poder localizar el aeródromo de Komsomolsk del Amur, Grizodúbova tomó la difícil decisión de realizar un aterrizaje forzoso en la taiga siberiana. Previendo un impacto peligroso para la navegante, cuya posición era en el morro del avión, ordenó a Raskova que saltara en paracaídas desde una altitud de aproximadamente 2.300 metros.
-
-Raskova aterrizó en la densa taiga. Perdió sus botas y su equipo de supervivencia en el salto, pero sobrevivió diez días en la naturaleza, alimentándose de bayas y agua de nieve derretida, hasta encontrar el camino de regreso al avión, que ya había sido localizado por los equipos de rescate. Milagrosamente, tanto Raskova como el resto de la tripulación sobrevivieron ilesos.
-
-### El reconocimiento
-
-A su regreso a Moscú, las tres aviadoras fueron recibidas como heroínas. Desfilaron en automóviles descubiertos hasta el Kremlin, donde fueron vitoreadas por una multitud entusiasta. El 2 de noviembre de 1938, las tres recibieron el título de Héroe de la Unión Soviética, siendo las primeras mujeres en la historia soviética en ser galardonadas con esta máxima condecoración. También recibieron un premio en metálico de 25.000 rublos.
+La década de 1930 convirtió a los aviadores en héroes populares de la URSS, y el escuadrón de propaganda Máximo Gorki llevó esa épica por los cielos del país. Grizodúbova, pianista formada en conservatorio antes que piloto, encarnó ese ideal. El vuelo del Rodina en 1938 y su estrella de Héroe de la Unión Soviética, primera mujer en recibirla, la fijaron en la memoria colectiva.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -101,9 +85,25 @@ A su regreso a Moscú, las tres aviadoras fueron recibidas como heroínas. Desfi
 - **6 de enero de 1986:** Galardonada con el título de Héroe del Trabajo Socialista (única mujer en recibir ambos títulos: Héroe de la URSS y Héroe del Trabajo Socialista) .
 - **28 de abril de 1993:** Fallece en Moscú a los 83 años. Es enterrada en el cementerio Novodévichi.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+### El vuelo del Rodina: la hazaña que la inmortalizó
 
-## La comandante de la guerra: liderazgo en combate
+El 24 y 25 de septiembre de 1938, Valentina Grizodúbova, como comandante de vuelo, junto con Polina Osipenko como copiloto y Marina Raskova como navegante, realizó una proeza que la convertiría en una leyenda. A bordo del bimotor Túpolev ANT-37, bautizado con el nombre de "Rodina" (Patria), emprendieron un vuelo sin escalas desde Moscú al Lejano Oriente soviético.
+
+### El vuelo
+
+El vuelo, que duró 26 horas y 29 minutos, superó los 5.908,61 kilómetros de distancia en línea recta , estableciendo un nuevo récord mundial femenino de distancia sin escalas. La ruta cubrió 6.450 kilómetros en total . Las condiciones durante el trayecto fueron extremas: temperaturas bajo cero, problemas de comunicación, pérdida de visibilidad por las nubes, y un fallo del sistema de calefacción.
+
+### La angustiosa emergencia y el rescate
+
+Al aproximarse a su destino, una luz de emergencia indicó que solo quedaban 30 minutos de combustible. Sin visibilidad y sin poder localizar el aeródromo de Komsomolsk del Amur, Grizodúbova tomó la difícil decisión de realizar un aterrizaje forzoso en la taiga siberiana. Previendo un impacto peligroso para la navegante, cuya posición era en el morro del avión, ordenó a Raskova que saltara en paracaídas desde una altitud de aproximadamente 2.300 metros.
+
+Raskova aterrizó en la densa taiga. Perdió sus botas y su equipo de supervivencia en el salto, pero sobrevivió diez días en la naturaleza, alimentándose de bayas y agua de nieve derretida, hasta encontrar el camino de regreso al avión, que ya había sido localizado por los equipos de rescate. Milagrosamente, tanto Raskova como el resto de la tripulación sobrevivieron ilesos.
+
+### El reconocimiento
+
+A su regreso a Moscú, las tres aviadoras fueron recibidas como heroínas. Desfilaron en automóviles descubiertos hasta el Kremlin, donde fueron vitoreadas por una multitud entusiasta. El 2 de noviembre de 1938, las tres recibieron el título de Héroe de la Unión Soviética, siendo las primeras mujeres en la historia soviética en ser galardonadas con esta máxima condecoración. También recibieron un premio en metálico de 25.000 rublos.
+
+### La comandante de la guerra: liderazgo en combate
 
 Cuando Alemania invadió la Unión Soviética en junio de 1941, Grizodúbova ya era una piloto consagrada. Se unió inmediatamente al esfuerzo bélico y, en mayo de 1942, fue nombrada comandante del 101º Regimiento de Aviación de Transporte .
 
