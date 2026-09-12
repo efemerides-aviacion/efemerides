@@ -33,6 +33,19 @@ image: 1972-12-22-rescate-andes-vuelo-571.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El accidente del Vuelo 571 el 13 de octubre de 1972 dejó a 16 jóvenes uruguayos aislados en condiciones extremas. La búsqueda oficial cesó el 21 de octubre. El 12 de diciembre, Parrado, Canessa y Vizintín iniciaron una marcha hacia el oeste; Vizintín regresó por falta de alimentos. El 20 de diciembre, Parrado y Canessa contactaron al arriero Sergio Catalán, quien alertó a las autoridades chilenas.
+### Entorno social
+
+Dieciséis jóvenes uruguayos quedaron aislados a 3.675 m tras el accidente del 13 de octubre, y la búsqueda oficial cesó el 21 de octubre. La marcha de Parrado, Canessa y Vizintín —con el regreso de Vizintín por falta de alimentos— y el encuentro con el arriero Sergio Catalán el 20 de diciembre activaron una operación binacional chileno-uruguaya que rescató a todos con vida.
+
+### Entorno tecnológico
+
+El Fairchild FH-227D yacía en Malargüe, Mendoza, y la búsqueda oficial había cesado el 21 de octubre: la marcha de diez días de Parrado y Canessa hasta Los Maitenes abrió la vía del rescate. Los helicópteros Bell UH-1H de la Fuerza Aérea Chilena operaron al límite en la alta montaña, con varias salidas el 22 de diciembre y la evacuación final el 23. El caso demostró los límites operativos de los helicópteros en altura y reactivó los protocolos SAR andinos.
+
+### Entorno cultural
+
+El «Milagro de los Andes» se convirtió en símbolo de resiliencia: el sitio del choque es hoy santuario con misa anual cada 22 de diciembre, y la historia inspiró una cobertura global sostenida hasta ‘Society of the Snow’ (2023). El canibalismo consensuado, absuelto por las autoridades y la Iglesia, quedó registrado como decisión extrema de supervivencia.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 - **20 dic 1972:** Parrado y Canessa llegan a Los Maitenes.  
@@ -40,8 +53,12 @@ El accidente del Vuelo 571 el 13 de octubre de 1972 dejó a 16 jóvenes uruguayo
 - **22 dic 1972:** Se rescatan 12 sobrevivientes en varias salidas.  
 - **23 dic 1972:** Se evacúan los últimos cuatro sobrevivientes y rescatistas.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 El rescate demostró los límites operativos de helicópteros en alta montaña y reactivó protocolos SAR andinos. El canibalismo consensuado fue absuelto por autoridades y la Iglesia. El evento generó cobertura global y estudios sobre supervivencia extrema.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 El “Milagro de los Andes” es recordado como símbolo de resiliencia y cooperación binacional. El sitio del choque es santuario con misa anual el 22 de diciembre. Inspiró obras como *Society of the Snow* (2023).
@@ -57,6 +74,8 @@ El “Milagro de los Andes” es recordado como símbolo de resiliencia y cooper
     <li><a href="https://time.com/6551709/society-of-the-snow-true-story-netflix/" style="color: #315fea; text-decoration: none;">TIME – The True Story Behind 'Society of the Snow'</a></li>
   </ul>
 </div>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Las fuentes difieren en el número de sobrevivientes rescatados el 22 de diciembre de 1972. Algunas mencionan únicamente a los seis evacuados en la primera salida de helicópteros, mientras que otras contabilizan el total de 12 personas evacuadas ese mismo día en varias tandas. El consenso más aceptado es que el 22 de diciembre se rescataron 12 sobrevivientes en total (6 en la primera operación y otros en vuelos adicionales), mientras que los últimos cuatro sobrevivientes junto con rescatistas fueron evacuados al amanecer del 23 de diciembre. De esta manera, la cifra final de sobrevivientes asciende a 16.</p>
@@ -68,5 +87,5 @@ El “Milagro de los Andes” es recordado como símbolo de resiliencia y cooper
 - **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, ASN, Britannica, Everything Everywhere Daily, TIME  
 - **Discrepancias resueltas:** Número de sobrevivientes rescatados el 22 de diciembre  
-- **Nivel de confianza:** Muy alto  
+- **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

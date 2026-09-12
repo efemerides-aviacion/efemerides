@@ -39,6 +39,19 @@ image: 1962-02-20-john-glenn-primer-astronauta-en-circundar-la-tierra.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Contexto Histórico
 La misión MA-6 fue la quinta tripulada del Proyecto Mercury y la primera orbital de EE.UU., en respuesta al éxito soviético con Yuri Gagarin (1961). Glenn se convirtió en héroe nacional y símbolo de la recuperación del prestigio espacial estadounidense.
+### Entorno social
+
+Tras el golpe del vuelo de Gagarin en 1961, Estados Unidos necesitaba una respuesta orbital: Glenn, a bordo de la quinta misión tripulada del Mercury, devolvió al país la confianza en su programa espacial y se convirtió en héroe nacional. Su prestigio posterior lo llevó a la política como senador y referente histórico.
+
+### Entorno tecnológico
+
+El Atlas LV-3B lanzó la Friendship 7 desde Cabo Cañaveral para tres órbitas en 4 h 55 min, pese al periscopio averiado, el control automático defectuoso —Glenn voló en manual— y la falsa alarma del escudo térmico en la reentrada. El amerizaje a 640 km de las Bahamas, con recuperación del USS Noa, validó los procedimientos de emergencia del Mercury.
+
+### Entorno cultural
+
+La cápsula Friendship 7 se exhibe en el Smithsonian National Air and Space Museum como uno de los hitos de la carrera espacial. Glenn regresó al espacio en 1998, a bordo del Discovery en la STS-95, cerrando un arco de casi cuatro décadas entre sus dos vuelos.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Desarrollo Cronológico
 - **1958:** Inicio del Proyecto Mercury.  
@@ -46,10 +59,14 @@ La misión MA-6 fue la quinta tripulada del Proyecto Mercury y la primera orbita
 - **20 feb 1962:** Glenn orbita la Tierra en Friendship 7.  
 - **1998:** Glenn regresa al espacio en STS-95 a bordo del transbordador Discovery.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Consecuencias e Impacto
 - **Político:** Restableció confianza en el programa espacial de EE.UU.  
 - **Tecnológico:** Validó sistemas de control manual y procedimientos de emergencia.  
 - **Cultural:** Glenn se convirtió en figura pública, senador y referente histórico.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 La cápsula Friendship 7 se exhibe en el Smithsonian National Air and Space Museum. La misión es considerada uno de los hitos más importantes de la carrera espacial.
@@ -67,6 +84,8 @@ La cápsula Friendship 7 se exhibe en el Smithsonian National Air and Space Muse
     <li><a href="https://www.spaceline.org/united-states-manned-space-flight/mercury-program-index/mercury-ma-6-fact-sheet/" style="color: #315fea; text-decoration: none;">Spaceline – Mercury MA-6 Fact Sheet</a></li>
   </ul>
 </div>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La alarma sobre el escudo térmico resultó ser falsa; Glenn mantuvo la calma y completó la reentrada con éxito. La cápsula Friendship 7 se conserva en el Smithsonian NASM.</p>

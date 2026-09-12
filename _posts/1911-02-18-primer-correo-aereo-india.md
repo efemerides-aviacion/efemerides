@@ -36,6 +36,19 @@ image: 1911-02-18-primer-correo-aereo-india.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 El evento se organizó durante la Exposición de Allahabad y la Kumbh Mela de 1911, como iniciativa para recaudar fondos para un albergue juvenil del reverendo W.E.S. Holland. Fue coordinado por Walter Windham, pionero británico de la aviación.
+### Entorno social
+
+La Exposición de Allahabad y la Kumbh Mela de 1911 reunieron a multitudes llegadas de toda India, y el vuelo se organizó como atracción benéfica: recaudar fondos para el albergue juvenil del reverendo W.E.S. Holland, bajo la coordinación de Walter Windham. Que entre los destinatarios estuvieran Jorge V y Jawaharlal Nehru muestra el alcance del gesto, dirigido a la vez a la autoridad colonial y a la sociedad india.
+
+### Entorno tecnológico
+
+El biplano Humber-Sommer, construido en Inglaterra en 1910 bajo licencia de Roger Sommer, despegó de un campo de polo en Allahabad y cruzó el río Yamuna hasta Naini: unos 10 km en 13 minutos con 6.500 cartas a bordo. El matasellos especial «First Aerial Post, 1911, U. P. Exhibition Allahabad», en magenta y negro, certificó cada pieza como parte del primer servicio oficial.
+
+### Entorno cultural
+
+El matasellos «First Aerial Post» convirtió cada carta en testimonio del primer servicio oficial. Guinness World Records reconoce el vuelo como el primero de su clase, y en 2011 India conmemoró el centenario con una hoja filatélica y la recreación del trayecto entre Allahabad y Naini.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 - **Previo al vuelo:** Se franquean las cartas y se aplica matasellos especial en magenta y negro.  
@@ -43,10 +56,14 @@ El evento se organizó durante la Exposición de Allahabad y la Kumbh Mela de 19
 - **18 de febrero de 1911:** Henri Pequet despega de un campo de polo en Allahabad y aterriza en Naini tras cruzar el río Yamuna.  
 - **Destinatarios destacados:** Entre los receptores estuvieron el rey Jorge V y Jawaharlal Nehru.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 - **Postal:** Inicio del servicio aéreo oficial en el mundo.  
 - **Social:** Recaudación de fondos para un albergue juvenil.  
 - **Histórico:** Precedente global para la aviación civil y el correo aéreo.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 El vuelo es reconocido por Guinness World Records como el primer transporte oficial de correo aéreo. En 2011, India conmemoró el centenario con una hoja filatélica y recreación del vuelo. Hoy se recuerda como un hito de la aviación mundial y de la historia postal.
@@ -65,6 +82,8 @@ El vuelo es reconocido por Guinness World Records como el primer transporte ofic
     <li><a href="https://gulfnews.com/lifestyle/how-the-worlds-first-airmail-was-delivered-1.1861582" style="color: #315fea; text-decoration: none;">Gulf News – How the world's first airmail was delivered</a></li>
   </ul>
 </div>
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Aunque hubo vuelos experimentales previos, este fue el primer transporte oficial reconocido de correo aéreo en el mundo.</p>

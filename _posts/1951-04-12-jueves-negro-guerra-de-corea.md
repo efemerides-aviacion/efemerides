@@ -41,6 +41,19 @@ Hasta abril de 1951, la Fuerza Aérea de Estados Unidos disfrutaba de una relati
 Sin embargo, la aparición de los cazas MiG-15 en el área noroccidental de Corea del Norte comenzó a invertir esa ventaja. El MiG-15, de diseño soviético con alas en flecha, era superior en velocidad, techo de vuelo y tasa de ascenso a los cazas estadounidenses de la época (F-80 Shooting Star y F-84 Thunderjet, ambos de alas rectas). Además, estaban pilotados por soviéticos con experiencia en combate durante la Segunda Guerra Mundial, aunque su participación se mantenía en secreto.
 
 El área entre el río Yalu (frontera con China) y Pyongyang fue bautizada por los pilotos de la ONU como "MiG Alley" (Callejón de los MiG). Allí, los MiG-15 despegaban desde bases ubicadas al otro lado del Yalu, en territorio chino, donde los aviones de la ONU tenían prohibido atacar.
+### Entorno social
+
+Los MiG-15 los pilotaban soviéticos con experiencia de la Segunda Guerra Mundial, vestidos con uniformes norcoreanos o chinos y con insignias norcoreanas en los aviones: la URSS negó oficialmente su participación durante décadas, hasta la desclasificación de los años 90. El secreto convirtió el combate en una guerra dentro de la guerra, librada por hombres cuya presencia no existía.
+
+### Entorno tecnológico
+
+El MiG-15, de alas en flecha, superaba en velocidad, techo y trepada a los F-80 y F-84 de alas rectas que escoltaban a los B-29, y penetró la escolta de un centenar de cazas. La USAF suspendió los bombardeos diurnos durante meses, aceleró el despliegue del F-86 Sabre —el único capaz de medirse con el MiG— y pasó a misiones nocturnas, mucho menos precisas.
+
+### Entorno cultural
+
+Los pilotos de la ONU bautizaron la zona entre el Yalu y Pyongyang como «MiG Alley», el Callejón de los MiG, y el 12 de abril quedó en la memoria de la USAF como el «Jueves Negro». Allí se libraron los primeros grandes duelos entre reactores de la historia y terminó la era del bombardero pesado diurno sin escolta adecuada.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -50,11 +63,15 @@ El área entre el río Yalu (frontera con China) y Pyongyang fue bautizada por l
 - **Resultado del combate:** Se pierden tres B-29 y otros siete resultan gravemente dañados. Los MiG-15 se retiran sin sufrir bajas.
 - **Consecuencias:** La Fuerza Aérea de Estados Unidos suspende casi por completo los bombardeos estratégicos diurnos sobre Corea del Norte durante varios meses, refuerza el despliegue de cazas F-86 Sabre (los únicos capaces de enfrentarse en igualdad de condiciones a los MiG-15) y aumenta las misiones de bombardeo nocturno.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 
 El "Jueves Negro" demostró que los bombarderos pesados B-29 no podían operar de día sin superioridad aérea absoluta frente a cazas a reacción modernos. La USAF se vio forzada a cambiar su doctrina de bombardeo estratégico diurno por misiones nocturnas, mucho menos precisas, y a acelerar el despliegue del F-86 Sabre para recuperar el control del aire en el Callejón de los MiG.
 
 El combate también confirmó que la Unión Soviética, aunque oficialmente no participaba en la guerra, estaba probando sus nuevas aeronaves y entrenando a sus pilotos en combate real contra la tecnología estadounidense.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 

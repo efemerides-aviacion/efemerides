@@ -38,6 +38,19 @@ image: 1944-12-13-amerizaje-forzoso-b-29.webp
 
 ## Contexto Histórico
 Los B-29 eran la punta de lanza de la ofensiva aérea contra Japón en 1944. Operaban desde bases en China y pronto desde las Marianas, enfrentando largas distancias y defensas antiaéreas intensas.
+### Entorno social
+
+Once hombres formaban la tripulación del «Dat’s My Boy», y su rescate íntegro por el destructor USS Cummings, tras una noche flotando en el Pacífico, se registró como un impulso moral en plena campaña aérea contra Japón. La tripulación completa regresó al servicio activo.
+
+### Entorno tecnológico
+
+El B-29 Superfortress era la punta de lanza de la ofensiva contra Japón, pero operaba al límite de su alcance desde Kunming, en China, antes del traslado a las Marianas: la falta de combustible tras el ataque a la planta Nakajima Musashi obligó al amerizaje. El caso demostró la necesidad de mejorar la coordinación de búsqueda y rescate (SAR) en el Pacífico.
+
+### Entorno cultural
+
+El apodo «Dat’s My Boy» (serie 42-63447) identificaba al avión ante su propia tripulación. Hundir el aparato antes del rescate evitó su captura. Amerizaje controlado, noche a flote y rescate íntegro de los once tripulantes: el episodio queda citado como caso excepcional de supervivencia.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Desarrollo Cronológico
 - 13 de diciembre de 1944: “Dat’s My Boy” participa en el ataque a la fábrica Nakajima Musashi.  
@@ -46,10 +59,14 @@ Los B-29 eran la punta de lanza de la ofensiva aérea contra Japón en 1944. Ope
 - Al día siguiente, la tripulación hunde el avión para evitar su captura.  
 - El USS Cummings rescata a los once tripulantes.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Consecuencias e Impacto
 - Ejemplo de la necesidad de mejorar la coordinación de búsqueda y rescate (SAR) en el Pacífico.  
 - Demostración de la preparación de las tripulaciones para emergencias extremas.  
 - El rescate fue un impulso moral en plena campaña aérea contra Japón.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 El amerizaje del “Dat’s My Boy” es citado como un caso excepcional de supervivencia y rescate exitoso en combate. Aunque el avión se perdió, la tripulación regresó al servicio activo.

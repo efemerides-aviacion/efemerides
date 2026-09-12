@@ -48,6 +48,19 @@ En noviembre de 1960, los perros Belka y Strelka orbitaron exitosamente a bordo 
 La rivalidad con Estados Unidos se intensificó. El presidente John F. Kennedy, electo en 1960, prometió que Estados Unidos pondría un hombre en la Luna antes de 1970 en respuesta a los éxitos soviéticos. El programa Mercury de la NASA estaba en marcha, pero aún no había realizado ningún vuelo orbital tripulado.
 
 Gagarin fue seleccionado entre 20 cosmonautas candidatos. Su estatura de 1,57 metros fue un factor determinante, ya que el reducido espacio interior de la cápsula Vostok apenas permitía el movimiento. Además, demostró excelentes cualidades físicas, psicológicas y un origen humilde (hijo de un carpintero campesino) que encajaba con la narrativa soviética del "hombre nuevo".
+### Entorno social
+
+Gagarin, hijo de un carpintero campesino, encarnaba al «hombre nuevo» soviético: seleccionado entre 20 candidatos por sus cualidades físicas y psicológicas —y por una estatura de 1,57 m que cabía en la Vostok—, regresó convertido en héroe mundial, Héroe de la Unión Soviética y condecorado con la Orden de Lenin. Al otro lado, el presidente Kennedy respondió prometiendo un hombre en la Luna antes de 1970.
+
+### Entorno tecnológico
+
+El vuelo culminó una escalera técnica: el Sputnik 1 en 1957, Laika a bordo del Sputnik 2, y Belka y Strelka regresando con vida en 1960 tras validar el soporte vital y la reentrada. La Vostok 1 orbitó a 327 km y 27.400 km/h durante 108 minutos, mientras el programa Mercury aún no lograba un vuelo orbital tripulado.
+
+### Entorno cultural
+
+El «¡Poyekhali!» («¡Vamos!») de Gagarin se volvió consigna planetaria, y la ONU declaró el 12 de abril Día Internacional de los Vuelos Espaciales Tripulados. La eyección a 7 km, ocultada durante décadas para cumplir los requisitos de la FAI, y la cápsula conservada en Kaluga completan la memoria material del vuelo.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Desarrollo Cronológico
 
@@ -61,6 +74,8 @@ Gagarin fue seleccionado entre 20 cosmonautas candidatos. Su estatura de 1,57 me
 - **08:05 UTC (11:05 hora de Moscú):** Gagarin aterriza cerca de Engels, óblast de Saratov, donde campesinos locales lo vieron descender.
 - **Respuesta de EE. UU.:** El presidente Kennedy acelera el programa Mercury. El 5 de mayo de 1961, Alan Shepard realiza el primer vuelo suborbital estadounidense.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Consecuencias e Impacto
 
 El vuelo de Gagarin fue una victoria propagandística arrolladora para la Unión Soviética. Demostró la superioridad tecnológica soviética en un momento clave de la Guerra Fría y golpeó la moral estadounidense.
@@ -68,6 +83,8 @@ El vuelo de Gagarin fue una victoria propagandística arrolladora para la Unión
 En respuesta, el presidente Kennedy anunció ante el Congreso el 25 de mayo de 1961 el objetivo de llevar un hombre a la Luna y traerlo de regreso sano y salvo antes de que terminara la década. Nació el programa Apolo.
 
 El vuelo de Gagarin también impulsó la cooperación internacional en la exploración espacial a largo plazo, aunque en ese momento estaba dominada por la rivalidad de superpotencias.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 

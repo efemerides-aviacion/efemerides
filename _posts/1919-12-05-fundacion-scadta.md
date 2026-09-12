@@ -35,6 +35,19 @@ image: 1919-12-05-fundacion-scadta.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Contexto Histórico
 Colombia enfrentaba enormes retos geográficos para el transporte en el siglo XX. El río Magdalena era la principal vía de comunicación, pero los viajes entre la costa y Bogotá podían tardar semanas. La aviación se presentó como solución, y SCADTA fue la primera compañía en consolidar rutas aéreas regulares con capital sólido y tecnología avanzada.
+### Entorno social
+
+A principios del siglo XX, viajar entre la costa colombiana y Bogotá por el río Magdalena podía tardar semanas, y las regiones del interior vivían aisladas del comercio y la comunicación nacional. La fundación en Barranquilla, con capital de empresarios colombianos como Ernesto Cortissoz y de socios alemanes como Werner Kammerer, unió el interés regional por romper ese aislamiento con la técnica aeronáutica europea.
+
+### Entorno tecnológico
+
+Los hidroaviones Junkers F-13 convirtieron el propio río Magdalena en pista de aterrizaje y permitieron rutas regulares sobre el agua: el correo aéreo de prueba de 1920 entre Barranquilla y Puerto Berrío abrió el camino a las rutas de 1921 hacia Girardot y Neiva. La compañía extendió después su técnica a la aerofotogrametría y el mapeo para la exploración petrolera y las fronteras.
+
+### Entorno cultural
+
+SCADTA se consolidó como la segunda aerolínea más antigua del mundo en operación continua, después de KLM, y Avianca celebra el 5 de diciembre de 1919 como su fecha de fundación. El centenario de 2019 reafirmó su papel de aerolínea bandera de Colombia y de pionera del transporte aéreo nacional.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 - **1919:** Fundación de SCADTA en Barranquilla.  
@@ -45,10 +58,14 @@ Colombia enfrentaba enormes retos geográficos para el transporte en el siglo XX
 - **Década de 1930:** Expansión a Estados Unidos y Venezuela.  
 - **1940:** Fusión con SACO para formar Avianca.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Consecuencias e Impacto
 - **Integración nacional:** Conectó regiones aisladas, fomentando comercio y comunicación.  
 - **Innovación:** Pionera en aerofotogrametría y mapeo para exploración petrolera y fronteras.  
 - **Geopolítica:** La influencia alemana generó preocupación en EE.UU., acelerando la nacionalización.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 Avianca celebra el 5 de diciembre de 1919 como su fecha de fundación. En 2019 conmemoró su centenario, reafirmando su papel como aerolínea bandera de Colombia y como una de las más antiguas del mundo en operación continua.

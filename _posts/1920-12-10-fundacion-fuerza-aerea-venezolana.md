@@ -34,6 +34,19 @@ image: 1920-12-10-fundacion-fuerza-aerea-venezolana.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Contexto Histórico
 En los años 20, Venezuela buscaba modernizar sus fuerzas armadas. La creación de la Escuela de Aviación Militar fue un paso estratégico, con apoyo de pilotos extranjeros y material aéreo francés que aportaron credibilidad técnica y visibilidad pública.
+### Entorno social
+
+En los años 20, el gobierno de Juan Vicente Gómez impulsó la modernización de las fuerzas armadas, y la Escuela de Aviación Militar de Maracay le dio visibilidad pública: las demostraciones de Cosme Renella llevaron el avión ante los venezolanos. La instalación formal del 10 de diciembre de 1920 marcó la entrada del país en la era de la aviación militar.
+
+### Entorno tecnológico
+
+Los Caudron G-3 franceses sirvieron de entrenadores para los primeros pilotos, y la instrucción quedó en manos de extranjeros: Renella aportó la experiencia bélica y Robert Petit la formación técnica y operativa. Los entrenamientos comenzaron el 11 de diciembre de 1920, al día siguiente de la instalación.
+
+### Entorno cultural
+
+Maracay quedó consagrada como cuna de la aviación militar venezolana, con el Decreto N.º 127 y el acta fundacional como documentos de origen. Cada 10 de diciembre, la hoy Aviación Militar Bolivariana celebra su aniversario en la fecha de aquella instalación.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 - **17 de abril de 1920:** Decreto N.º 127 crea la Escuela de Aviación Militar.  
@@ -47,10 +60,14 @@ En los años 20, Venezuela buscaba modernizar sus fuerzas armadas. La creación 
   - Cosme Renella: experiencia bélica y demostraciones públicas.  
   - Robert Petit: formación técnica y operativa de los primeros aviadores.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Consecuencias e Impacto
 - **Militar:** Base institucional de la aviación militar venezolana.  
 - **Institucional:** Desarrollo de programas de instrucción con influencia internacional.  
 - **Social y simbólico:** Entrada formal de Venezuela en la era de la aviación militar.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 La fecha de instalación se reconoce como el nacimiento oficial de la Fuerza Aérea Venezolana, hoy Aviación Militar Bolivariana, que celebra cada 10 de diciembre su aniversario.
