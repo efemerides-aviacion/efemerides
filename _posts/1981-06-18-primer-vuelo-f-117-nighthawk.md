@@ -37,9 +37,7 @@ image: 1981-06-18-primer-vuelo-f-117-nighthawk.webp
 - **Retiro oficial:** 22 de abril de 2008 
 - **Estado actual:** Retirado oficialmente, aunque se han reportado avistamientos en vuelo hasta 2025 para entrenamiento 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas (F-117A)
+### Especificaciones Técnicas (F-117A)
 
 - **Tripulación:** 1 piloto 
 - **Longitud:** 20,09 m (65 ft 11 in) 
@@ -92,9 +90,7 @@ El desarrollo del F-117 fue uno de los proyectos más secretos de la historia de
 - **22 de abril de 2008:** Retiro oficial del F-117 del servicio activo 
 - **2018-2025:** Se reportan avistamientos de F-117 en vuelo, utilizados para entrenamiento y pruebas 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El «Hopeless Diamond» y el origen del diseño
+### El «Hopeless Diamond» y el origen del diseño
 
 El aspecto angular y facetado del F-117 no fue una elección estética, sino una necesidad impuesta por la tecnología de la época. En la década de 1970, el poder de cómputo disponible era limitado. Los ordenadores solo podían simular el comportamiento de las ondas de radar sobre superficies planas, no sobre curvas complejas.
 
@@ -102,9 +98,7 @@ El primer diseño propuesto, apodado el «Hopeless Diamond» (Diamante sin Esper
 
 El demostrador tecnológico «Have Blue» voló por primera vez el 1 de diciembre de 1977. Aunque ambos prototipos se estrellaron (el HB1001 en mayo de 1978 y el HB1002 en julio de 1979), el programa fue considerado un éxito absoluto.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El primer vuelo del F-117
+### El primer vuelo del F-117
 
 El 18 de junio de 1981, apenas 31 meses después de la adjudicación del contrato, el prototipo YF-117A despegó de Groom Lake, en el Área 51, pilotado por Hal Farley. Las naves «Have Blue» eran más pequeñas y de cola inclinada hacia dentro; el F-117 presentaba colas inclinadas hacia fuera y una planta alar menos agresiva, cambios introducidos para mejorar el comportamiento en vuelo.
 
@@ -112,11 +106,15 @@ El vuelo fue un éxito, pero el programa continuó en el más absoluto secreto. 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## El legado del F-117
+## Consecuencias e Impacto
 
 El F-117 Nighthawk fue el primer avión furtivo operacional del mundo. Demostró su valía en combate durante la Guerra del Golfo de 1991, realizando el 31% de los ataques contra objetivos estratégicos en la primera noche de la guerra, a pesar de representar solo el 2,5% de la fuerza de ataque.
 
 El Nighthawk sentó las bases tecnológicas para los aviones furtivos que le siguieron: el bombardero B-2 Spirit, el caza F-22 Raptor y el F-35 Lightning II. Sin el F-117, ninguno de esos aviones existiría.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Legado
 
 Aunque fue retirado oficialmente en 2008, se sabe que varios F-117 continúan volando en 2025, utilizados como «aviones agresores» para entrenar a pilotos de F-22 y F-35 en la detección y combate contra objetivos furtivos. Su forma angular y su silueta negra permanecen como un ícono de la guerra aérea moderna y un testimonio del ingenio humano en la era de la Guerra Fría.
 

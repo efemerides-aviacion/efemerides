@@ -37,10 +37,7 @@ image: 1942-06-26-primer-vuelo-prototipo-grumman-xf6f-1-hellcat.webp
 - **Producción total:** 12.275 unidades del F6F Hellcat
 - **Periodo de producción:** 1942-1945
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-
-## Especificaciones Técnicas (F6F-3 Hellcat)
+### Especificaciones Técnicas (F6F-3 Hellcat)
 
 - **Tripulación:** 1 piloto
 - **Longitud:** 10,23 m (33 ft 7 in)
@@ -90,9 +87,7 @@ En el imaginario estadounidense, el Hellcat se convertiría en el símbolo de la
 - **1954:** El F6F-5N (versión de caza nocturna) es retirado del servicio
 - **1956:** Último Hellcat retirado del servicio de la Armada de EE. UU.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El prototipo y su piloto
+### El prototipo y su piloto
 
 El prototipo XF6F-1 (BuNo 02981) voló originalmente con un motor **Wright R-2600-10 Twin Cyclone** de 1.700 hp, una versión más potente del motor usado en el bombardero B-25 Mitchell. Las prestaciones no fueron las esperadas. El diseño del XF6F-1 exigía un motor de mayor potencia.
 
@@ -104,13 +99,17 @@ Robert Leicester Hall (1905-1991) fue una de las figuras más destacadas de la a
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## El legado del Hellcat
+## Consecuencias e Impacto
 
 El Hellcat fue el **caza embarcado más exitoso de la Segunda Guerra Mundial**. Con 12.275 unidades construidas , se convirtió en el avión de combate más producido a partir de una sola fábrica.
 
 Sus pilotos derribaron **5.156 aviones enemigos** (el 75% de las victorias aéreas de la Armada en el Pacífico). La tasa de eliminación fue de **19:1** (19 aviones enemigos derribados por cada Hellcat perdido), la más alta de cualquier caza de la guerra. Entre sus pilotos se encontraba el Capitán David McCampbell, el principal as de la Armada de EE. UU. con 34 derribos.
 
 El Hellcat no solo dominó los cielos del Pacífico, sino que **superó al Zero en casi todos los aspectos**: velocidad, potencia de fuego, blindaje y capacidad de supervivencia. El propio McCampbell declaró: «El Hellcat podía trepar más rápido, era más maniobrable... era una excelente plataforma de tiro... era más rápido que el Zero a determinadas altitudes».
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Legado
 
 El prototipo original, el XF6F-1 que voló el 26 de junio de 1942, fue el humilde comienzo de una de las leyendas más grandes de la aviación naval.
 
