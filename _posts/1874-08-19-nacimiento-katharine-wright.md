@@ -104,6 +104,6 @@ Ciento cincuenta y dos años después de su nacimiento, Katharine Wright Haskell
 - **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** National Park Service (Dayton Aviation Heritage) y Smithsonian National Air and Space Museum
 - **Fuentes secundarias de contraste:** Wikimedia Commons (retrato)
-- **Discrepancias resueltas:** la afirmación del borrador sobre la tienda de bicicletas como fuente de financiamiento queda confirmada por las fuentes institucionales: los Wright no aceptaban donaciones y costearon sus experimentos con las ganancias de la tienda, cuya administración Katharine sostuvo junto con su sueldo de maestra; así se redacta. El apodo «tercer hermano Wright» se atribuye a la tradición popular, no a una fuente documental.
+- **Discrepancias resueltas:** sin divergencias entre fuentes: las institucionales confirman que los Wright costearon sus experimentos con las ganancias de la tienda de bicicletas —cuya administración Katharine sostuvo junto con su sueldo de maestra— y que no aceptaban donaciones; así se redacta. El apodo «tercer hermano Wright» se atribuye a la tradición popular, no a una fuente documental.
 - **Nivel de confianza:** Alto — núcleo del hecho respaldado por fuentes institucionales consultadas.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

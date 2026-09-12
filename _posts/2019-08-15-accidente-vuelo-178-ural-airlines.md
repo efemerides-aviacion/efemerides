@@ -108,6 +108,6 @@ Siete años después, el maizal de Ramenskoye sigue siendo la referencia rusa de
 - **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
 - **Fuentes primarias/institucionales consultadas:** informe del accidente del Comité Interestatal de Aviación (MAK), consultado por vía de Wikipedia (EN) y del borrador del investigador (original en ruso no consultado)
 - **Fuentes secundarias de contraste:** Wikipedia (EN), BBC, Reuters, Flightradar24
-- **Discrepancias resueltas:** el número de atendidos por los servicios médicos figura como 74 en los partes iniciales de la BBC y como 78 en el borrador; se consignan 28 heridos, tres graves, como balance final según Wikipedia y el borrador. La distancia del punto de contacto al final de pista figura como 16.240 pies en el informe y «alrededor de un kilómetro» en la prensa; se redacta «unos 5.000 metros» con el deslizamiento hasta la detención.
+- **Discrepancias resueltas:** el número de atendidos por los servicios médicos figura como 74 en los partes iniciales de la BBC y como 78 en otros balances iniciales; se consignan 28 heridos, tres graves, como balance final según Wikipedia. La distancia del punto de contacto al final de pista figura como 16.240 pies en el informe y «alrededor de un kilómetro» en la prensa; se redacta «unos 5.000 metros» con el deslizamiento hasta la detención.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

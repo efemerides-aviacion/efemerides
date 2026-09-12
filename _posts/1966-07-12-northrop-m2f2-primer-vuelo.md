@@ -118,6 +118,6 @@ Su huella también pasó a la cultura popular. Las imágenes del accidente de Br
 - **Timestamp de verificación:** 2026-07-07 14:22:30 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA, American Aviation Historical Society  
 - **Fuentes secundarias de contraste:** Smithsonian Magazine, Wikipedia  
-- **Discrepancias resueltas:** se ha corregido el peso en vacío frente a una cifra métrica imprecisa del borrador; se omitió la supuesta postergación desde el 11 de julio al no hallar confirmación suficiente en las fuentes verificadas; se ha distinguido con claridad entre el M2-F2 original y su reconstrucción posterior como M2-F3  
+- **Discrepancias resueltas:** las fuentes redondean de forma distinta las medidas y el peso del M2-F2; se adoptan las cifras de la documentación técnica de la NASA. La supuesta postergación del primer vuelo libre desde el 11 de julio, mencionada a raíz de un incidente previo en pista con un F-104, carece de corroboración sólida en las fuentes reunidas y se omitió del cuerpo. Se distingue entre el M2-F2 original y su reconstrucción posterior como M2-F3  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

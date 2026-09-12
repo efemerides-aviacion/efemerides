@@ -115,6 +115,6 @@ A largo plazo, el raid quedó incorporado a la memoria de los grandes vuelos nac
 - **Timestamp de verificación:** 2026-07-07 11:02:04 CST  
 - **Fuentes primarias/institucionales consultadas:** Biblioteca Virtual de Defensa, Real Academia de la Historia, crónicas y hemeroteca de ABC, artículo retrospectivo de EL PAÍS  
 - **Fuentes secundarias de contraste:** Archivo Histórico de la Universidad de Málaga, Hispanopedia  
-- **Discrepancias resueltas:** fecha final del viaje resumida por algunas fuentes como llegada a Manila el 11 de julio frente a la secuencia más precisa de Aparri el 11 y Manila el 12; corrección del punto de salida, atribuido de forma aislada a Getafe pero situado de forma consistente en el entorno de Cuatro Vientos  
+- **Discrepancias resueltas:** fecha final del viaje resumida por algunas fuentes como llegada a Manila el 11 de julio frente a la secuencia más precisa de Aparri el 11 y Manila el 12; corrección del punto de salida, atribuido de forma aislada a Getafe pero situado de forma consistente en la zona de Cuatro Vientos  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

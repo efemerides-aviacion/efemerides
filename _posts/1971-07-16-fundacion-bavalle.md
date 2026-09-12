@@ -114,6 +114,6 @@ Por eso, la efeméride conserva valor histórico e institucional. Se presenta aq
 - **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
 - **Fuentes primarias/institucionales consultadas:** extracto de <em>Historia de la Aviación Militar Venezolana</em> (coronel [Av] Luis Hernán Paredes), publicaciones conmemorativas y memoriales vinculadas a la FAV  
 - **Fuentes secundarias de contraste:** ViVe Oriente, Fundación 10 de diciembre, publicaciones retrospectivas de Fav Ven suministradas por el investigador  
-- **Discrepancias resueltas:** se privilegió la fecha de inauguración solemne del 16 de julio de 1971 consignada por la obra de Luis Hernán Paredes, sin haberse localizado aún en acceso abierto el instrumento jurídico que formalizó la creación de la base  
+- **Discrepancias resueltas:** se privilegió la fecha de inauguración solemne del 16 de julio de 1971 consignada por la obra de Luis Hernán Paredes, sin haberse localizado aún el instrumento jurídico (gaceta, decreto o resolución) que formalizó la creación de la base. Algunas publicaciones retrospectivas añaden «López» al nombre del Teniente Del Valle García; se mantiene la forma de Paredes y del uso institucional  
 - **Nivel de confianza:** Medio  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
