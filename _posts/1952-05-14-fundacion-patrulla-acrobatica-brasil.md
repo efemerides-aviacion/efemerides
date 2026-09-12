@@ -17,9 +17,10 @@ image: 1952-05-14-fundacion-patrulla-acrobatica-brasil.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Resumen Ejecutivo
-
-El 14 de mayo de 1952, cuatro instructores de la entonces Escuela de Aeronáutica de la Fuerza Aérea Brasileña, en Campo dos Afonsos (Río de Janeiro), realizaron la primera demostración oficial de lo que se convertiría en la **Esquadrilha da Fumaça (Escuadrilla de Humo)**. Nacida como una iniciativa extraoficial de los propios pilotos en sus horas libres, la Escuadrilla de Humo se transformó con los años en el **Esquadrão de Demonstração Aérea (EDA) (Escuadrón de Demostración Aérea)** y hoy es reconocida como la patrulla acrobática más antigua de América Latina y una de las más veteranas del mundo. Sus aviones, caracterizados por generar una estela de humo de colores, se han presentado en más de 20 países y han realizado cerca de 4.000 demostraciones aéreas.
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 14 de mayo de 1952, cuatro instructores de la entonces Escuela de Aeronáutica de la Fuerza Aérea Brasileña, en Campo dos Afonsos (Río de Janeiro), realizaron la primera demostración oficial de lo que se convertiría en la **Esquadrilha da Fumaça (Escuadrilla de Humo)**. Nacida como una iniciativa extraoficial de los propios pilotos en sus horas libres, la Escuadrilla de Humo se transformó con los años en el **Esquadrão de Demonstração Aérea (EDA) (Escuadrón de Demostración Aérea)** y hoy es reconocida como la patrulla acrobática más antigua de América Latina y una de las más veteranas del mundo. Sus aviones, caracterizados por generar una estela de humo de colores, se han presentado en más de 20 países y han realizado cerca de 4.000 demostraciones aéreas.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -33,11 +34,6 @@ El 14 de mayo de 1952, cuatro instructores de la entonces Escuela de Aeronáutic
 - **Nombre popular adoptado posteriormente:** "Esquadrilha da Fumaça (Escuadrilla de Humo)", debido a los generadores de humo instalados en los aviones en 1953
 - **Nombre oficial actual:** Escuadrón de Demostración Aérea
 - **Sede actual:** Academia de la Fuerza Aérea, Pirassununga, São Paulo
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Aeronaves utilizadas a lo largo de la historia
-
 - **North American T-6 Texan (1952-1968):** Aeronave histórica que dio origen a la patrulla. En 1955, la Escuadrilla de Humo recibió cinco aviones de uso exclusivo con pintura distintiva (blanco, rojo y azul). Realizaron un total de 1.272 demostraciones.
 - **Fouga T-24 Super Magister (1968-1972):** Primer jet utilizado por la patrulla. Fueron retirados debido a las dificultades de mantenimiento en el clima tropical brasileño y la crisis del petróleo a finales de los años 70. Realizaron solo 46 demostraciones.
 - **Neiva T-25 Universal (1980-1982):** Se usó como avión de enlace y transición tras la reactivación de la patrulla en 1980.
@@ -46,7 +42,25 @@ El 14 de mayo de 1952, cuatro instructores de la entonces Escuela de Aeronáutic
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Hitos y cronología
+## Contexto Histórico
+
+En el inicio de la década de 1950, la Escuela de Aeronáutica de la Fuerza Aérea Brasileña se encontraba en Campo dos Afonsos, Río de Janeiro. Por iniciativa propia, un grupo de instructores de vuelo comenzó a entrenar maniobras acrobáticas en grupo durante sus horas libres. Su objetivo no era otro que motivar a los cadetes, demostrándoles las capacidades de los aviones en los que se formaban e inspirándolos a confiar en su entrenamiento.
+
+### Entorno social
+
+Instructores de Campo dos Afonsos entrenando acrobacia en horas libres para motivar cadetes: la iniciativa extraoficial gustó a la comitiva de 1952 y en 1955 el Ministro donó cinco T-6 de uso exclusivo, primer reconocimiento oficial.
+
+### Entorno tecnológico
+
+Del T-6 con tanques de óleo que escribió «FAB» sobre Copacabana en 1953 al Super Magister de 1968 —retirado por el clima tropical— y los Embraer Tucano (1983) y Super Tucano (2013), la patrulla recorrió la industria aeronáutica brasileña.
+
+### Entorno cultural
+
+De «Cambalhoteiros» a «Esquadrilha da Fumaça», de unidad oficial en 1963 a Escuadrón de Demostración Aérea en 1982: 4.000 demostraciones en más de 20 países, el récord de 11 aviones invertidos de 2002 y la «manobra Coração» la hicieron embajadora del país.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
+## Desarrollo Cronológico
 
 - **14 de mayo de 1952:** Primera demostración oficial de lo que sería la Escuadrilla de Humo, en Campo dos Afonsos (Río de Janeiro).
 - **1953:** Se incorporan los generadores de humo a los aviones T-6, naciendo el apodo "Esquadrilha da Fumaça (Escuadrilla de Humo)". La primera palabra escrita con humo fue la sigla "FAB" en el cielo de Copacabana.
@@ -60,17 +74,9 @@ El 14 de mayo de 1952, cuatro instructores de la entonces Escuela de Aeronáutic
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## El origen: instructores que querían inspirar
+## Consecuencias e Impacto
 
-En el inicio de la década de 1950, la Escuela de Aeronáutica de la Fuerza Aérea Brasileña se encontraba en Campo dos Afonsos, Río de Janeiro. Por iniciativa propia, un grupo de instructores de vuelo comenzó a entrenar maniobras acrobáticas en grupo durante sus horas libres. Su objetivo no era otro que motivar a los cadetes, demostrándoles las capacidades de los aviones en los que se formaban e inspirándolos a confiar en su entrenamiento.
-
-### La primera demostración y el humo distintivo
-
-El 14 de mayo de 1952, una comitiva extranjera visitó la escuela. Los instructores decidieron ofrecer una demostración especial, que se considera hoy el acto fundacional de la patrulla. El espectáculo gustó, pero se consideró que las maniobras eran difíciles de seguir para el público en tierra. Para solucionarlo, al año siguiente (1953) se instalaron tanques de óleo en los aviones T-6 para generar estelas de humo. El efecto fue un éxito rotundo, y el apodo "Esquadrilha da Fumaça (Escuadrilla de Humo)" fue adoptado cariñosamente por los cadetes y el público, reemplazando al anterior apodo de "Cambalhoteiros (voltereteros)".
-
-### Reconocimiento oficial e internacionalización
-
-El éxito de las presentaciones llevó a que, en 1955, el Ministro de Aeronáutica donara a la Escuadrilla de Humo cinco aviones T-6 de uso exclusivo, con una pintura distintiva. Este fue el primer reconocimiento oficial de la Fuerza Aérea. Con el tiempo, la fama de la Escuadrilla de Humo trascendió fronteras, y se convirtió en un embajador de la industria aeronáutica brasileña y del profesionalismo de sus militares, realizando giras por más de 20 países.
+La patrulla trascendió el espectáculo: vitrina de Embraer y de la Fuerza Aérea Brasileña en más de 20 países, semillero de vocaciones aeronáuticas y, desde 1982, unidad oficial de demostración con sede en Pirassununga.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

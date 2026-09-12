@@ -11,12 +11,13 @@ image: 1963-08-22-joseph-walker-x-15-vuelo-91.webp
 ---
 
 <figure>
-  <img src="/efemerides/assets/img/1963-08-22-joseph-walker-x-15-vuelo-91.webp" alt="El X-15 número 3, matrícula 56-6672, sobre el lecho seco del lago Rogers en la Base Aérea Edwards" style="width: 100%; height: auto;">
+  <img class="post-image" src="/efemerides/assets/img/1963-08-22-joseph-walker-x-15-vuelo-91.webp" alt="El X-15 número 3, matrícula 56-6672, sobre el lecho seco del lago Rogers en la Base Aérea Edwards" style="width: 100%; height: auto;">
   <figcaption class="post-caption">El X-15 número 3, con el número de serie 66672 rotulado en la deriva, sobre el lecho seco del lago en la Base Aérea Edwards, California. Es el aparato que Joe Walker llevó a 354.200 pies el 22 de agosto de 1963, la mayor altitud alcanzada en todo el programa. Fuente: NASA Dryden Flight Research Center. Imagen de dominio público.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 22 de agosto de 1963, a las 10:05 de la mañana, un bombardero B-52 soltó sobre el desierto de Nevada un avión negro de forma afilada con un hombre dentro. Once minutos después, Joseph Albert Walker aterrizaba sobre un lago seco de California tras haber estado a 107,96 kilómetros de altura, por encima de la frontera internacional del espacio. Era la segunda vez que lo lograba en poco más de un mes. Ningún ser humano lo había hecho dos veces antes que él, y su marca de altitud para un avión pilotado tardaría cuarenta y un años en ser superada.</p>
 </div>
@@ -42,13 +43,9 @@ image: 1963-08-22-joseph-walker-x-15-vuelo-91.webp
 
 ## Contexto Histórico
 
-### El avión que despegaba en el aire
+El vuelo 91 se entiende por la máquina, por la frontera que cruzó y por el hombre que la cruzó: el X-15 lanzado desde un B-52, las dos definiciones rivales del espacio y un piloto civil en un programa de militares.
 
-El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1959/06/08/primer-vuelo-north-american-x-15.html" style="color: #315fea; text-decoration: none;">North American X-15, que había volado por primera vez el 8 de junio de 1959</a>, no era un avión en el sentido corriente. No despegaba: lo soltaba un B-52 a trece kilómetros de altura. No tenía autonomía: su motor cohete quemaba amoníaco anhidro y oxígeno líquido durante poco más de un minuto y medio, y el resto del vuelo era una caída controlada. No aterrizaba en pista, sino sobre la costra de un lago seco del desierto de Mojave.
-
-Fue un programa conjunto de la NASA, la Fuerza Aérea y la Armada de Estados Unidos, con tres aparatos construidos por North American Aviation. Su misión era averiguar qué le ocurre a una máquina y a un ser humano en el vacío y a velocidades hipersónicas, un terreno que en 1959 nadie había pisado.
-
-### Dos definiciones distintas de la frontera del espacio
+### Entorno social
 
 En 1963 no existía una sola respuesta a la pregunta de dónde empieza el espacio, y la diferencia no era académica: determinaba quién era astronauta.
 
@@ -56,7 +53,13 @@ La **Fuerza Aérea estadounidense** situaba el límite en **50 millas**, unos 80
 
 Walker cruzó las 50 millas en tres ocasiones, pero solo en dos superó los 100 kilómetros: el 19 de julio y el 22 de agosto de 1963. Fueron **los dos únicos vuelos de todo el programa X-15** que rebasaron la línea de Kármán, y los pilotó el mismo hombre.
 
-### Un civil en un mundo de militares
+### Entorno tecnológico
+
+El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1959/06/08/primer-vuelo-north-american-x-15.html" style="color: #315fea; text-decoration: none;">North American X-15, que había volado por primera vez el 8 de junio de 1959</a>, no era un avión en el sentido corriente. No despegaba: lo soltaba un B-52 a trece kilómetros de altura. No tenía autonomía: su motor cohete quemaba amoníaco anhidro y oxígeno líquido durante poco más de un minuto y medio, y el resto del vuelo era una caída controlada. No aterrizaba en pista, sino sobre la costra de un lago seco del desierto de Mojave.
+
+Fue un programa conjunto de la NASA, la Fuerza Aérea y la Armada de Estados Unidos, con tres aparatos construidos por North American Aviation. Su misión era averiguar qué le ocurre a una máquina y a un ser humano en el vacío y a velocidades hipersónicas, un terreno que en 1959 nadie había pisado.
+
+### Entorno cultural
 
 Los astronautas de aquellos años eran oficiales militares seleccionados por sus fuerzas armadas. Walker no. Había sido piloto de caza en la Segunda Guerra Mundial y capitán del Ejército del Aire, pero en 1963 era un **empleado civil de la NASA**, físico de formación, piloto jefe de investigación del centro de Edwards.
 

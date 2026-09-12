@@ -42,21 +42,23 @@ image: 1926-04-15-primer-vuelo-fundacional-american-airlines.webp
 
 La década de 1920 marcó el inicio de la aviación comercial en Estados Unidos, impulsada por el servicio de correo aéreo que el gobierno federal comenzó a subcontratar a operadores privados tras la Ley de Correo Aéreo de 1925 (Kelly Act). En este entorno de consolidación, pequeñas aerolíneas regionales competían por obtener contratos postales que garantizaban ingresos estables, mientras los pasajeros aún eran una rareza. Fue en este contexto que la Robertson Aircraft Corporation de Misuri obtuvo la concesión para la ruta entre St. Louis y Chicago, contratando como piloto jefe a un joven aviador de 24 años llamado Charles A. Lindbergh, quien entonces trabajaba como piloto de acrobacias y mecánico.
 
-### Los inicios del correo aéreo en Estados Unidos
+### Entorno social
 
 En la década de 1920, la aviación comercial estadounidense estaba en su infancia. El servicio de correo aéreo, establecido por el gobierno federal en 1918, fue el motor que impulsó el desarrollo de las aerolíneas. La Ley de Correo Aéreo de 1925 (conocida como Kelly Act) permitió al gobierno contratar servicios de correo con operadores privados, lo que incentivó la creación de numerosas pequeñas aerolíneas en todo el país.
 
-### El pionero olvidado: Robertson Aircraft Corporation
+### Entorno tecnológico
 
-La Robertson Aircraft Corporation fue fundada en 1921 en Misuri por los hermanos Frank y William Robertson como un servicio general de vuelo y fabricación. En 1925, la compañía obtuvo uno de los primeros contratos de correo aéreo para la ruta entre St. Louis y Chicago. Para operar esta ruta, contrataron como piloto jefe a un joven aviador llamado Charles A. Lindbergh, quien entonces trabajaba como piloto de acrobacias y mecánico.
+El correo volaba en biplanos DH-4, a menudo de noche y sin instrumentos avanzados; una década después, el DC-3 —con la cabina ensanchada que exigió C.R. Smith— haría rentable el pasaje sin subsidios.
 
-### Lindbergh antes de la fama
+### Entorno cultural
 
 En 1926, Lindbergh tenía 24 años y ya era un piloto experimentado. Su trabajo para Robertson consistía en volar el correo en condiciones a menudo peligrosas, con escasa visibilidad y sin instrumentos avanzados. Esta experiencia forjaría su carácter y habilidad como aviador, preparándolo para el histórico vuelo transatlántico del Spirit of St. Louis en mayo de 1927, que lo catapultaría a la fama mundial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
+
+De la Robertson de 1921 a American Airlines en 1934, la cadena pasa por Colonial, The Aviation Corporation y American Airways: Frank y William Robertson obtuvieron en 1925 el contrato de St. Louis a Chicago y contrataron a Lindbergh como piloto jefe.
 
 ### 15 de abril de 1926: El vuelo inaugural
 
@@ -126,7 +128,6 @@ El vuelo de Lindbergh el 15 de abril de 1926 es conmemorado por la aerolínea co
     <li><a href="https://webarchiveweb.wayback.bac-lac.canada.ca/web/20210514185345/https:/en.wikipedia.org/wiki/American_Airlines" style="color: #315fea; text-decoration: none;">Wikipedia (archived) – American Airlines</a></li>
   </ul>
 </div>
-
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

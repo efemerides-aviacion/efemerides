@@ -35,10 +35,23 @@ image: 1944-12-07-fundacion-oaci-convenio-chicago.webp
 ## Contexto Histórico
 Al final de la Segunda Guerra Mundial, la aviación había evolucionado rápidamente y requería un marco legal uniforme. El Convenio de París de 1919 resultaba insuficiente, por lo que Estados Unidos convocó la Conferencia de Chicago para establecer reglas globales.
 
-### Principios fundamentales
+### Entorno social
+
+Al salir de la guerra, 52 Estados firmaron en Chicago un marco común bajo el principio de soberanía aérea:
+
 - **Soberanía aérea:** Cada Estado tiene control exclusivo sobre el espacio aéreo sobre su territorio.  
 - **Libertades del aire:** Se definieron acuerdos complementarios para sobrevuelo y escalas técnicas.  
 - **Creación de la OACI:** El Convenio dispuso la creación de un organismo permanente para administrar y actualizar las normas.  
+
+### Entorno tecnológico
+
+Del Convenio nacieron las Normas y Métodos Recomendados —hoy 19 anexos— y la homogeneización de equipos y prácticas en 193 Estados miembros, base de la seguridad operacional mundial.
+
+### Entorno cultural
+
+La OPACI provisional dio paso a la OACI el 6 de junio de 1947, con sede en Montreal desde 1946, y el 7 de diciembre se celebra como Día de la Aviación Civil Internacional.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 - **1 nov – 7 dic 1944:** Conferencia de Chicago.  
@@ -46,10 +59,14 @@ Al final de la Segunda Guerra Mundial, la aviación había evolucionado rápidam
 - **4 abril 1947:** Entrada en vigor del Convenio tras ratificación suficiente.  
 - **6 junio 1947:** Nace la OACI como organismo permanente.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Consecuencias e Impacto
 - **Normalización global:** Desarrollo de Normas y Métodos Recomendados (SARPs), hoy 19 anexos.  
 - **Seguridad operacional:** Homogeneización de prácticas y equipos en 193 Estados miembros.  
 - **Marco legal:** Base para tratados posteriores como el Protocolo de Montreal.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 La OACI, organismo especializado de la ONU, sigue siendo el foro principal de cooperación aeronáutica. El 7 de diciembre se celebra como el **Día de la Aviación Civil Internacional**. Su plan estratégico actual incluye seguridad, eficiencia y reducción de emisiones hacia 2050.
@@ -64,7 +81,6 @@ La OACI, organismo especializado de la ONU, sigue siendo el foro principal de co
     <li><a href="https://www.itaerea.es/becas-oaci" style="color: #315fea; text-decoration: none;">ITAérea – Qué es la OACI</a></li>
   </ul>
 </div>
-
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

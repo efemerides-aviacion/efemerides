@@ -14,10 +14,16 @@ image: 1938-12-31-primer-vuelo-boeing-b307-stratoliner.webp
   <figcaption class="post-caption">Boeing 307 Stratoliner prototipo (NX19901) en tierra durante pruebas previas a su presentación oficial el 31 de diciembre de 1938. Fotografía de archivo Boeing, publicada en Simple Flying (2023).</figcaption>
 </figure>
 
-## Resumen ejecutivo
-El 31 de diciembre de 1938, Boeing presentó al mundo el B-307 Stratoliner, derivado del bombardero B-17, que se convirtió en el primer avión comercial con cabina presurizada. Su versión militar de transporte, el C-75, abrió camino a operaciones de largo alcance en condiciones más seguras y confortables.
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Datos técnicos verificados
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 31 de diciembre de 1938, Boeing presentó al mundo el B-307 Stratoliner, derivado del bombardero B-17, que se convirtió en el primer avión comercial con cabina presurizada. Su versión militar de transporte, el C-75, abrió camino a operaciones de largo alcance en condiciones más seguras y confortables.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Datos verificados del evento
 - **Modelo:** Boeing B-307 Stratoliner  
 - **Versión militar:** C-75 (transporte)  
 - **Motores:** 4 × Wright Cyclone R-1820  
@@ -26,8 +32,24 @@ El 31 de diciembre de 1938, Boeing presentó al mundo el B-307 Stratoliner, deri
 - **Autonomía:** ~3,200 km  
 - **Innovación clave:** Primera cabina presurizada en servicio comercial
 
-## Contexto histórico específico
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Contexto Histórico
 En plena era de expansión de la aviación civil, Boeing buscaba superar las limitaciones de altitud y confort. El Stratoliner fue diseñado a partir de la célula del B-17, adaptado para pasajeros. La presurización permitió volar por encima de turbulencias y condiciones meteorológicas adversas, revolucionando la experiencia de vuelo.
+
+### Entorno social
+
+Presentado en Seattle el 31 de diciembre de 1938, en plena expansión de la aviación civil, el Stratoliner prometía a los pasajeros superar las limitaciones de altitud y confort heredadas de los aviones sin presurizar.
+
+### Entorno tecnológico
+
+La cabina presurizada —primera en servicio comercial— permitió volar por encima de turbulencias y mal tiempo con 33 pasajeros a 340 km/h, y su versión militar C-75 abrió el transporte estratégico de largo alcance.
+
+### Entorno cultural
+
+Pocos ejemplares y legado decisivo: del 377 Stratocruiser a los jets comerciales, con un B-307 restaurado en el Smithsonian, el Stratoliner fijó la presurización como estándar.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 - **1937:** Inicio del diseño, aprovechando la base del bombardero B-17.  
@@ -35,11 +57,17 @@ En plena era de expansión de la aviación civil, Boeing buscaba superar las lim
 - **31 de diciembre de 1938:** Primer vuelo exitoso en Seattle.  
 - **1940s:** Adaptación militar como C-75 durante la Segunda Guerra Mundial, usado para transporte estratégico.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 El Stratoliner introdujo la presurización como estándar en la aviación comercial. Aunque se fabricaron pocos ejemplares, su legado fue decisivo para el desarrollo de aviones como el Boeing 377 Stratocruiser y, más adelante, los jets comerciales.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Legado
 El B-307 Stratoliner es recordado como pionero en confort y seguridad aérea. Su innovación marcó el inicio de la aviación moderna, donde volar a gran altitud se convirtió en norma. Uno de los ejemplares restaurados se conserva en el Smithsonian National Air and Space Museum.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 <div class="references">

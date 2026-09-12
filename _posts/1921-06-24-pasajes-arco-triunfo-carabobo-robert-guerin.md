@@ -38,25 +38,23 @@ image: 1921-06-24-pasajes-arco-triunfo-carabobo-robert-guerin.webp
 
 El 24 de junio de 1921, Venezuela conmemoraba el centenario de la Batalla de Carabobo, la cual selló la independencia del país. El gobierno del General Juan Vicente Gómez organizó una fastuosa celebración que incluyó desfiles militares, discursos y la inauguración de un monumento emblemático en el mismo campo de batalla: el Arco de Carabobo. En este contexto de orgullo nacional, la naciente aviación militar venezolana, liderada por una misión francesa, buscaba demostrar su valía.
 
-### El Centenario de Carabobo
+### Entorno social
 
 El gobierno del General Juan Vicente Gómez, a pesar de ser una dictadura, organizó fastuosas celebraciones que incluyeron desfiles militares, discursos y la inauguración de un monumento emblemático en el mismo campo de batalla: el Arco de Carabobo.
 
-### La Misión Aeronáutica Francesa
+### Entorno tecnológico
 
 La aviación militar venezolana estaba en sus inicios. En 1920, el gobierno había contratado una misión aeronáutica francesa para establecer la Escuela de Aviación Militar y formar a los primeros pilotos del país. Como parte de este esfuerzo, arribaron a Venezuela 15 aviones Caudron G-3, biplanos de tela y madera, con una velocidad máxima de 100 km/h.
 
 Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1920/05/22/mision-instructores-franceses-eam-venezolana.html" style="color: #315fea; text-decoration: none;">efeméride dedicada a la contratación de la misión francesa</a> para conocer los detalles de esta gestión diplomática y la composición del equipo de instructores que llegó a Venezuela.
 
-### Robert Guerin y su papel en Venezuela
+### Entorno cultural
 
-Robert Guerin era un experimentado piloto de la Aeronavale francesa. Había sobrevivido a dos derribos durante la Primera Guerra Mundial y a doce días a la deriva en el Mar del Norte. Su experiencia lo convertía en un instructor ideal, aunque su juventud (28 años en 1921) lo hacía parecer un chico a los ojos de los oficiales venezolanos.
-
-Llegó a Venezuela en enero de 1921 y fue designado instructor de vuelo. Su papel era crucial para enseñar a los primeros aviadores venezolanos a dominar los frágiles aviones de la época.
+La proeza alimentó la leyenda: Gómez murmurando «anjá…umjú, muy bien», el historiador López celebrando el coraje del «muchacho» y Guerin al frente de Aeropostal hasta 1936 grabaron el vuelo en la memoria colectiva venezolana.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## El Vuelo a través del Arco de Carabobo
+## Desarrollo Cronológico
 
 El 24 de junio de 1921, la Escuadrilla de la Misión Francesa, compuesta por el Capitán Jean T. Fieschi, el Capitán Robert Petit, el Subteniente Georges Teppe y el Alférez de Navío Robert Guerin , recibió la orden de sobrevolar el campo de Carabobo durante la inauguración del Arco.
 
@@ -70,6 +68,12 @@ El historiador José David López, en su discurso de ingreso a la Academia de la
 
 > *"Aquel muchacho [Guerin] se convirtió en el protagonista de un acto de coraje y destreza insospechado para su edad, al lograr pasar el Arco de Carabobo, en un vuelo que hoy día parece extraído de la ficción. Demostró a todo el mundo que él era un experto piloto, no solo porque lo hizo, sino porque logró hacerlo en condiciones totalmente adversas."* 
 
+### Robert Guerin y su papel en Venezuela
+
+Robert Guerin era un experimentado piloto de la Aeronavale francesa. Había sobrevivido a dos derribos durante la Primera Guerra Mundial y a doce días a la deriva en el Mar del Norte. Su experiencia lo convertía en un instructor ideal, aunque su juventud (28 años en 1921) lo hacía parecer un chico a los ojos de los oficiales venezolanos.
+
+Llegó a Venezuela en enero de 1921 y fue designado instructor de vuelo. Su papel era crucial para enseñar a los primeros aviadores venezolanos a dominar los frágiles aviones de la época.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
@@ -77,6 +81,8 @@ El historiador José David López, en su discurso de ingreso a la Academia de la
 El vuelo de Guerin se convirtió rápidamente en una hazaña legendaria. Demostró la valentía y la habilidad de los pilotos de la Misión Francesa, pero también puso de manifiesto los riesgos de la aviación en sus inicios. La proeza contribuyó a popularizar la aviación en Venezuela, alimentando el sueño de conquistar los cielos.
 
 El General Gómez, según relata la fuente de FAV Club, no pudo evitar esconder una sonrisa y murmuró: *«anjá…umjú, muy bien»*. Luego le ordenó a su hijo Florencio: *«Averígüeme quién es ese piloto»*.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
