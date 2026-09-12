@@ -41,6 +41,7 @@ image: 1961-07-27-creacion-grupo-aereo-caza-12-grifos.webp
 
 ## Contexto Histórico
 
+El Grupo Aéreo de Caza N.º 12 «Grifos», creado el 27 de julio de 1961, ordenó bajo un mando único los escuadrones C-34, C-35 y C-36 en plena transición de los primeros reactores de posguerra hacia lo supersónico, y construyó desde el inicio una identidad de exigencia profesional resumida en su lema: «Superación».
 ### Entorno social
 
 A comienzos de la década de 1960, Venezuela reorganizaba sus instituciones militares y buscaba consolidar una estructura aérea capaz de responder a las necesidades de defensa del territorio. La concentración de los escuadrones de caza bajo grupos especializados permitió ordenar el mando, la instrucción y el mantenimiento de los aviones de combate.

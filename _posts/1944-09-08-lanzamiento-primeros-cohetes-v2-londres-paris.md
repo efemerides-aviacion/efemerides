@@ -39,6 +39,7 @@ image: 1944-09-08-lanzamiento-primeros-cohetes-v2-londres-paris.webp
 
 ## Contexto Histórico
 
+Los impactos del 8 de septiembre de 1944 en Maisons-Alfort y Chiswick inauguraron la era del arma balística: con el Reich en retirada en todos los frentes, la propaganda de Goebbels esgrimió las «armas de venganza» como revulsivo moral, mientras el A-4 de von Braun —fruto de una década de cohetería y del trabajo esclavo de Mittelbau-Dora— caía sobre sus blancos a velocidad supersónica, sin aviso audible.
 ### Entorno social
 En el otoño de 1944, el Tercer Reich se encontraba en franca retirada en todos los frentes. Tras el éxito del desembarco de Normandía y la liberación de París en agosto, los ejércitos aliados avanzaban inexorablemente hacia la frontera alemana, mientras que, en el este, el Ejército Rojo ganaba inmenso terreno. En este contexto de colapso inminente, la propaganda dirigida por Joseph Goebbels recurrió a las «armas de venganza» (Vergeltungswaffen) para intentar doblegar la moral británica y alentar a la desesperada población alemana.
 

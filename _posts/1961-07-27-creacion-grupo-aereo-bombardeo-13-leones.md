@@ -42,6 +42,7 @@ image: 1961-07-27-creacion-grupo-aereo-bombardeo-13-leones.webp
 
 ## Contexto Histórico
 
+La creación del Grupo Aéreo de Bombardeo N.º 13 «Leones» por Resuelto Ministerial N.º A-116, el 27 de julio de 1961, concentró bajo un mando especializado la capacidad ofensiva de la Fuerza Aérea Venezolana: reunió en El Libertador dos generaciones tecnológicas —el B-25 Mitchell de pistón y el Canberra de reacción— y dotó a la nueva organización de una identidad combativa propia.
 ### Entorno social
 
 La reorganización de la Fuerza Aérea Venezolana en 1961 respondió a la necesidad de concentrar bajo estructuras especializadas las capacidades de caza, transporte y bombardeo. En un país con un territorio extenso y una infraestructura aérea en expansión, el poder aéreo se consideraba también un instrumento de integración y presencia estatal.

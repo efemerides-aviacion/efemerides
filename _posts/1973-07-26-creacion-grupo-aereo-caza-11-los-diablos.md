@@ -42,6 +42,7 @@ image: 1973-07-26-creacion-grupo-aereo-caza-11-los-diablos.webp
 
 ## Contexto Histórico
 
+El Grupo Aéreo de Caza N.º 11 «Diablos», creado el 26 de julio de 1973 por Resolución N.º A-0027, concentró en El Libertador la apuesta supersónica venezolana —Mirage IIIEV, 5V y 5DV para interceptación, ataque y conversión— en una etapa de expansión petrolera, con los escuadrones 33 «Halcones» y 34 «Caciques» bajo el lema «Vencer o morir».
 ### Entorno social
 
 Durante los primeros años de la década de 1970, Venezuela experimentaba una etapa de expansión institucional y económica vinculada a sus ingresos petroleros. En ese marco, el Estado reforzó sus capacidades militares y concedió especial atención a la vigilancia del espacio aéreo y a la profesionalización de sus unidades de combate.

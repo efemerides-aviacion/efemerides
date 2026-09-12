@@ -41,6 +41,7 @@ image: 1961-07-27-creacion-grupo-aereo-transporte-6-pegasos.webp
 
 ## Contexto Histórico
 
+El Grupo Aéreo de Transporte N.º 6 «Pegasos», creado el 27 de julio de 1961 por Resolución Ministerial N.º A-116, nació para conectar por aire un territorio extenso y de difícil acceso: con los escuadrones T-1 y T-2 y la experiencia del C-47, asumió la movilidad de tropas, carga y paracaidistas bajo el lema «Todo tiempo, todo lugar».
 ### Entorno social
 
 Durante la segunda mitad del siglo XX, Venezuela necesitaba conectar un territorio extenso y con regiones de difícil acceso mediante una red de transporte aéreo capaz de movilizar personal, suministros y equipos. La Fuerza Aérea cumplía así una función que superaba el ámbito estrictamente bélico y contribuía a la integración territorial y a la respuesta ante emergencias.

@@ -41,6 +41,7 @@ image: 1935-07-28-primer-vuelo-boeing-b17-flying-fortress.webp
 
 ## Contexto Histórico
 
+El primer vuelo del Model 299 el 28 de julio de 1935, con Tower y Waite a bordo, respondió a la búsqueda de un bombardero multimotor de largo alcance en una década de rearme: heredaba soluciones del Boeing 247 civil y del XB-15 experimental, y la prensa le puso de inmediato el apodo que sería doctrina, «Flying Fortress».
 ### Entorno social
 
 En la década de 1930, las fuerzas aéreas buscaban aeronaves capaces de recorrer grandes distancias y transportar cargas de bombas más pesadas. La modernización militar se desarrollaba en un contexto de tensión internacional, aunque Estados Unidos aún no había entrado en la Segunda Guerra Mundial.

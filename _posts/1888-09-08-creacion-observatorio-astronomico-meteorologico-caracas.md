@@ -36,6 +36,7 @@ image: 1888-09-08-creacion-observatorio-astronomico-meteorologico-caracas.webp
 
 ## Contexto Histórico
 
+La creación del Observatorio Astronómico y Meteorológico de Caracas, por decreto del presidente Rojas Paúl el 8 de septiembre de 1888, se entiende en la confluencia de tres impulsos: un gobierno civil que buscaba pacificar el país mediante instituciones de cultura, una instrumentación científica europea que por fin permitía medir el cielo y el clima con precisión, y un positivismo ambiente que veía en la ciencia el motor del progreso nacional.
 ### Entorno social
 A finales del siglo XIX, Venezuela atravesaba una fase de consolidación de sus instituciones civiles tras períodos de gran turbulencia política. El gobierno del Doctor Juan Pablo Rojas Paúl se caracterizó por un marcado interés en la pacificación y el fomento de la educación y la cultura, que incluyó la creación de academias cívicas e instituciones que alejaran al país de su pasado predominantemente caudillista.
 

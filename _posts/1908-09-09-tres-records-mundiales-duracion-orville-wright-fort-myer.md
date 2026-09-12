@@ -40,6 +40,7 @@ image: 1908-09-09-tres-records-mundiales-duracion-orville-wright-fort-myer.webp
 
 ## Contexto Histórico
 
+Los tres récords del 9 de septiembre de 1908 —57:31 en solitario, 62:15 por encima de la hora, 6:24 con el Teniente Lahm de pasajero— coronaron los ensayos del Signal Corps en Fort Myer y trasladaron el aeroplano, en un solo día, del campo de pruebas a la conciencia nacional: la prensa convirtió a los Wright en celebridades, la Especificación N.º 486 puso el listón técnico y la fiebre europea de plusmarcas les dio el marco de rivalidad.
 ### Entorno social
 Los ensayos de Fort Myer fueron la primera demostración a gran escala de un aeroplano de los hermanos Wright ante el público de Estados Unidos, un país que había recibido con escepticismo las proezas de Kitty Hawk. El contrato firmado con el Ejército y el éxito simultáneo de Wilbur en Francia convirtieron a los hermanos en celebridades de la prensa. Las primeras sesiones de vuelo de septiembre, ante apenas unos cientos de espectadores, dieron paso a la jornada del día 9, que por la tarde reunió a multitudes de oficiales y civiles y a tres secretarios del gabinete del presidente Roosevelt: el salto del aeroplano del campo de pruebas a la conciencia nacional se consumó en un solo día.
 
