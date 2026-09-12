@@ -48,16 +48,19 @@ El ataque a Pearl Harbor transformó la guerra en el Pacífico y aceleró la ent
 ### Entorno cultural
 - La memoria pública de Pearl Harbor en Japón alterna narrativa militar y enfoques pacifistas; la figura de Yoshioka se inscribe en ese debate.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 - 1918: Nace en Japón.  
 - 1941: Participa como navegante del B5N “Kate” lanzado desde el Sōryū en la primera oleada sobre Pearl Harbor.  
 - Posguerra: Vida civil; apariciones en prensa y entrevistas [NO CONFIRMADO: detalle de trayectoria requiere fuentes adicionales].  
 - 2024: Fallece a los 106 años; señalado como último superviviente japonés del ataque.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 - Pearl Harbor consolidó el portaviones como plataforma decisiva de proyección aérea.  
 - El reconocimiento de Yoshioka como último superviviente cierra una generación vinculada directamente al ataque.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 - Obituarios y crónicas lo recogen como testigo de un punto de inflexión histórico.  
 - Su figura sirve para abordar memoria, responsabilidad y educación histórica [NO CONFIRMADO: citas textuales específicas pendientes de verificación primaria].

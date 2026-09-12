@@ -53,15 +53,18 @@ Se entrenó en aviones biplanos de la posguerra, como el Curtiss JN‑4D "Jenny"
 ### Entorno cultural
 Su figura trascendió como ícono cultural y pionera en la aviación, conocida por sus espectáculos de barnstorming.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 - **1920:** Viaja a Francia para entrenarse como piloto.  
 - **15 de junio de 1921:** Obtiene licencia internacional de piloto (FAI).  
 - **1922–1925:** Realiza espectáculos de acrobacias aéreas en EE.UU. y Europa.  
 - **30 de abril de 1926:** Fallece en accidente aéreo en Jacksonville, Florida.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 Su vida inspiró a nuevas generaciones de aviadores afroamericanos y mujeres en la aviación.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 Recordada como pionera y símbolo de lucha contra la discriminación en la aviación mundial.
 
