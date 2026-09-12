@@ -37,11 +37,6 @@ image: 1985-06-23-atentado-vuelo-182-air-india-montreal-bombay.webp
 - **Motivación:** Represalia por el asalto del Ejército indio al Templo Dorado de Amritsar (junio de 1984)   
 - **Atentado simultáneo:** Bomba en el Aeropuerto de Narita (Tokio), dirigida a otro vuelo de Air India; 2 muertos y 4 heridos   
 - **Condena:** Solo Inderjit Singh Reyat fue condenado (por fabricar las bombas); Malik y Bagri fueron absueltos en 2005   
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
-
-## Especificaciones Técnicas (Boeing 747-237B)
-
 - **Fabricante:** Boeing Commercial Airplanes  
 - **Modelo:** 747-237B  
 - **Número de serie:** MSN 21473 / Línea 330  
@@ -60,21 +55,21 @@ image: 1985-06-23-atentado-vuelo-182-air-india-montreal-bombay.webp
 
 El atentado contra el vuelo 182 de Air India fue el resultado de décadas de tensión entre el gobierno indio y el movimiento separatista sij que buscaba la creación de un estado independiente llamado **Khalistán** en la región del Punyab.
 
-### El Templo Dorado y la operación Blue Star (1984)
+### Entorno social
 
-El detonante inmediato del atentado fue la **Operación Blue Star**, una operación militar ordenada por la primera ministra Indira Gandhi en junio de 1984 para desalojar a militantes sij que se habían atrincherado en el **Templo Dorado de Amritsar**, el santuario más sagrado del sijismo. La operación causó cientos de muertos y fue considerada una profanación por la comunidad sij global.
+Décadas de tensión entre el gobierno indio y el separatismo sij del Punyab, que reclamaba el Khalistán, estallaron con la Operación Blue Star de junio de 1984 —el asalto al Templo Dorado de Amritsar—, el asesinato de Indira Gandhi el 31 de octubre y la ola antisij posterior; en el exilio canadiense, Babbar Khalsa preparó la venganza.
 
-### El asesinato de Indira Gandhi
+### Entorno tecnológico
 
-El 31 de octubre de 1984, Indira Gandhi fue asesinada a tiros por dos de sus guardaespaldas sij en represalia por la operación. Este asesinato desencadenó una ola de violencia antisij en la India, en la que miles de sij fueron asesinados en disturbios en todo el país.
+Una bomba en una maleta Samsonite con receptor Sanyo, transferida entre vuelos desde Vancouver, desintegró el 747 a 9.400 metros sin señal de emergencia; el mismo día otra bomba estalló en Narita. La cascada de errores del CSIS y la RCMP —156 grabaciones destruidas— y un juicio de 130 millones con una sola condena exhibieron los límites de la seguridad e inteligencia canadienses.
 
-### La respuesta de los extremistas sij en el exilio
+### Entorno cultural
 
-En Canadá, donde reside una de las comunidades sij más grandes fuera de la India, grupos extremistas como **Babbar Khalsa** comenzaron a planificar venganza. El movimiento Khalistán ganó fuerza, y los líderes de Babbar Khalsa en Vancouver —Talwinder Singh Parmar, Ripudaman Singh Malik, Ajaib Singh Bagri e Inderjit Singh Reyat— se convirtieron en los principales sospechosos del atentado.
+Mayor crimen masivo de Canadá y mayor tragedia aérea por terrorismo hasta el 11-S, el vuelo 182 vive en los memoriales de Ahakista y Vancouver y en el archivo McMaster de 2025; el homenaje de Jaishankar en el 40.º aniversario y el paralelo con Lockerbie lo mantienen como advertencia global.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
-## Desarrollo Cronológico del Atentado
+## Desarrollo Cronológico
 
 La planificación y ejecución del atentado contra el vuelo 182 de Air India fue un proceso meticuloso que involucró a varios individuos en diferentes continentes. Desde la compra de los billetes con nombres falsos hasta la colocación de las bombas en los aeropuertos de Vancouver y Tokio, cada paso fue cuidadosamente orquestado para maximizar el impacto del ataque.
 
@@ -103,9 +98,7 @@ La planificación y ejecución del atentado contra el vuelo 182 de Air India fue
 - **2005:** Malik y Bagri son absueltos de todos los cargos por falta de pruebas contundentes.  
 - **2010:** El informe final de la Comisión de Investigación, dirigida por el exjuez de la Corte Suprema John Major, concluye que una "serie en cascada de errores" del gobierno y los servicios de inteligencia canadienses permitió que el atentado tuviera lugar.  
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
-
-## Los protagonistas
+### Los protagonistas
 
 El atentado del vuelo 182 de Air India fue el resultado de la acción coordinada de varios individuos, algunos de los cuales actuaron como cerebros del ataque, otros como ejecutores materiales y otros como cómplices logísticos. A continuación se presentan los principales actores identificados por las investigaciones canadiense e india.
 

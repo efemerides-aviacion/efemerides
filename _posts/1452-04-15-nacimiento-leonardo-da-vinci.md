@@ -39,21 +39,25 @@ image: 1452-04-15-nacimiento-leonardo-da-vinci.webp
 
 ## Contexto Histórico
 
-### El Renacimiento y el surgimiento del "hombre universal"
+Nacido en Anchiano en 1452, Leonardo dedicó al vuelo más de 500 dibujos y 35.000 palabras: el contexto florentino, la ciencia disponible y el mecenazgo explican cómo y por qué.
 
-Leonardo da Vinci nació en una época de efervescencia cultural y científica conocida como el Renacimiento (siglos XIV-XVII). Este período, que tuvo su epicentro en Florencia, se caracterizó por el redescubrimiento de la ciencia y el arte clásicos, el humanismo y la creencia en la capacidad ilimitada del ser humano. Figuras como Miguel Ángel, Rafael, Brunelleschi y Maquiavelo coexistieron con Leonardo, creando un ambiente de competencia intelectual y creativa sin precedentes.
+### Entorno social
 
-### La ciencia del vuelo antes de Leonardo
+La Florencia del Quattrocento —humanismo, redescubrimiento clásico y competencia entre Miguel Ángel, Rafael, Brunelleschi o Maquiavelo— ofrecía al «hombre universal» su caldo de cultivo, y las cortes, como la de Ludovico Sforza desde 1482, el empleo: Leonardo llegó a Milán como ingeniero militar.
 
-En el siglo XV, el conocimiento de la aerodinámica era prácticamente inexistente. Desde la Antigüedad clásica, la leyenda de Dédalo e Ícaro simbolizaba el anhelo humano de volar, pero también sus peligros. En el mundo islámico, Abbas ibn Firnas había realizado un intento de vuelo en el siglo IX. En China, la cometa y el "helicóptero de bambú" (un juguete de rotor) existían desde hacía siglos. Sin embargo, no existía una teoría sistemática del vuelo. La mayoría de los intentos de vuelo humano previos a Leonardo se basaban en imitaciones rudimentarias de aves —construir alas y saltar desde torres— y solían terminar en fracaso.
+### Entorno tecnológico
 
-### El mecenazgo y la oportunidad
+Sin teoría del vuelo —Dédalo como mito, Firnas en el siglo IX, cometas y helicópteros de bambú en China—, Leonardo sistematizó la observación: del diseño de armas y fortificaciones pasó al reconocimiento aéreo y a las máquinas voladoras.
 
-Leonardo trabajó para poderosos mecenas que le permitieron explorar sus intereses más allá de la pintura. Durante su etapa en la corte de Ludovico Sforza, Duque de Milán (desde aproximadamente 1482), fue contratado como "ingeniero militar". Su trabajo incluía el diseño de armas, fortificaciones y máquinas de guerra. Fue en este contexto militar donde surgió su interés por el reconocimiento aéreo y, por extensión, por las máquinas voladoras.
+### Entorno cultural
+
+Dispersos a su muerte en 1519 por Melzi y rescatados desde Napoleón en 1795, los códices llegaron a Cayley, Lilienthal y los Wright; validados en 2000 y 2022 por réplicas volantes, fijaron a Leonardo como primer visionario aeronáutico.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Desarrollo Cronológico de sus Contribuciones Aeronáuticas
+## Desarrollo Cronológico
+
+De Milán al Códex de 1505, tres décadas de cuadernos —Manuscrito B, Códice Atlántico y Vuelo de las Aves— jalonan la madurez aeronáutica de Leonardo.
 
 ### 1485-1490: Primeros diseños de ornitópteros y el "tornillo aéreo"
 
@@ -75,9 +79,7 @@ En el **Códice Atlántico**, Leonardo escribió una nota intrigante: "Mañana p
     4. **Control por desplazamiento de peso:** Sugiere que un piloto podría controlar una máquina voladora cambiando su centro de gravedad, exactamente como lo harían los pioneros del planeador a finales del siglo XIX.
     5. **Estructuras ligeras:** Insiste en la necesidad de construir máquinas con materiales ligeros, una lección que los primeros aviadores aprenderían por las malas.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Análisis de sus Principales Invenciones Aeronáuticas
+### Análisis de sus Principales Invenciones Aeronáuticas
 
 Leonardo diseñó múltiples máquinas voladoras a lo largo de su vida, cada una con un enfoque y una inspiración diferentes. Aunque ninguna llegó a construirse en su época, todas compartían un enfoque metódico basado en la observación de la naturaleza. A continuación se analizan las tres invenciones más relevantes para la historia de la aviación.
 
@@ -107,6 +109,8 @@ Leonardo diseñó múltiples máquinas voladoras a lo largo de su vida, cada una
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
+
+Secretismo y dispersión retrasaron siglos el impacto: redescubiertos con los globos y planeadores, los códices inspiraron a los pioneros del XIX.
 
 ### El redescubrimiento tardío
 

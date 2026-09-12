@@ -52,15 +52,17 @@ image: 1988-08-28-desastre-ramstein-frecce-tricolori.webp
 
 El Flugtag de Ramstein era una institución. Lo que en 1955 había reunido a veinte mil curiosos se había convertido en los años ochenta en una cita de cientos de miles de personas, la mayor concentración anual de la región. En la mayor base estadounidense en suelo alemán, la exhibición funcionaba además como acto de amistad germano-estadounidense en plena Guerra Fría.
 
-### Entorno político
+### Entorno social
 
-La cita no era pacífica en lo político. El movimiento pacifista alemán llevaba años protestando contra los vuelos a baja cota y contra el propio Flugtag, con manifestaciones y sentadas. El pleno de la comarca de Kaiserslautern había pedido por unanimidad que la edición de 1988 se cancelase, alegando el peligro que suponía en una zona densamente poblada. El gobierno regional tomó nota de las protestas y mantuvo el acto, amparándose precisamente en las altas cifras de asistencia.
+El Flugtag pasó de 20.000 curiosos en 1955 a 300.000 en los ochenta, acto de amistad germano-estadounidense en plena Guerra Fría; pero el pacifismo protestaba contra la baja cota y el pleno de Kaiserslautern pidió por unanimidad cancelar la edición de 1988. El gobierno regional mantuvo el acto amparado en la asistencia.
 
-### La figura
+### Entorno tecnológico
 
-El *cardioide* era la maniobra insignia de las Frecce Tricolori. Los diez aparatos se separan en tres grupos: cinco dibujan la mitad izquierda de un corazón y cuatro la derecha, cruzándose en la punta inferior; un décimo avión, el solista, atraviesa después la figura por el centro, volando **en dirección al público** y pasando por encima de las dos formaciones. Exige una coordinación exacta al segundo, porque su margen de seguridad no es la distancia lateral, sino el tiempo.
+El cardioide exigía cruzar al segundo: cinco aviones un ala del corazón, cuatro la otra, y el solista atravesándolo hacia el público a 45 metros y 300 de las gradas, a 600-700 km/h. Autorizada tras el ensayo general, la geometría no dejaba margen; Nutarelli tiró a casi 10 g y no bastó.
 
-Que la figura se ejecutara apuntando a las gradas no fue un descuido: los responsables militares estadounidenses la habían **autorizado expresamente** tras verla en el ensayo general previo.
+### Entorno cultural
+
+Ramstein reescribió la seguridad acrobática mundial y dejó huella cultural: la banda Rammstein tomó su nombre, Brejcha —niño quemado entre el público— llegó a productor, y Rímini más dos memoriales custodian a las 70 víctimas. Solo Sknyliv 2002 superó su balance.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -79,9 +81,7 @@ Que la figura se ejecutara apuntando a las gradas no fue un descuido: los respon
 - **17 de septiembre de 1988:** muere en el Brooke Army Medical Center de Texas el Capitán **Kim Strader**, piloto del helicóptero sanitario, veinte días después del accidente y a causa de las quemaduras. Es la última víctima mortal.
 - **29 de agosto de 1988:** las autoridades alemanas **prohíben las exhibiciones acrobáticas** en todo el país al día siguiente de la catástrofe.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## La investigación: por qué llegó antes
+### La investigación: por qué llegó antes
 
 Las conclusiones técnicas fueron inusualmente sólidas para un accidente aéreo, por una razón sombría: había cientos de miles de testigos, decenas de ellos pilotos militares, y el suceso quedó registrado por innumerables cámaras fotográficas y de vídeo desde varios ángulos.
 
@@ -97,7 +97,7 @@ Las investigaciones señalaron también lo que estaba detrás del error humano: 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## El socorro: la segunda catástrofe
+### El socorro: la segunda catástrofe
 
 De las setenta víctimas mortales, **treinta y una murieron en el acto** —veintiocho de ellas alcanzadas por fragmentos del avión, por la alambrada de concertina arrastrada o por objetos del suelo—. Las demás fallecieron en los días y semanas siguientes, casi todas por quemaduras.
 

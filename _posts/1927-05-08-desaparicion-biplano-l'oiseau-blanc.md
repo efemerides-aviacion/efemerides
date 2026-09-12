@@ -39,13 +39,6 @@ image: 1927-05-08-desaparicion-biplano-l'oiseau-blanc.webp
 - **Rango máximo:** 7.000 km
 - **Último avistamiento confirmado:** Sobre Irlanda
 - **Estado:** Desaparecido, nunca encontrado
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Especificaciones del Levasseur PL.8
-
-El Levasseur PL.8 fue diseñado específicamente para el intento de cruce del Atlántico, basado en el modelo de reconocimiento naval PL.4 con importantes modificaciones.
-
 - **Tripulación:** 2 (sentados lado a lado en cabina abierta)
 - **Longitud:** 9,75 m (32 pies)
 - **Envergadura:** 15 m (49 pies)
@@ -60,15 +53,31 @@ El Levasseur PL.8 fue diseñado específicamente para el intento de cruce del At
 - **Autonomía:** 40 horas
 - **Techo de servicio:** 7.000 m (23.000 pies)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## La tripulación
+### La tripulación
 
 Charles Nungesser era el tercer as francés de la Primera Guerra Mundial, con 43 victorias aéreas confirmadas. Condecorado con la Legión de Honor y la Médaille Militaire, era conocido por su carácter temerario y sus múltiples heridas de guerra. François Coli era un veterano de guerra con experiencia en vuelos de larga distancia sobre el Mediterráneo, y era el especialista en navegación celestial de la misión.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## El vuelo: 8 de mayo de 1927
+## Contexto Histórico
+
+En mayo de 1927 la carrera por el Premio Orteig —25.000 dólares al primer vuelo sin escalas París-Nueva York— estaba en su punto álgido: Nungesser y Coli despegaron doce días antes de que Lindbergh se llevara el premio y la fama.
+
+### Entorno social
+
+Nungesser, tercer as francés con 43 victorias, Legión de Honor y fama temeraria, y Coli, veterano especialista en navegación celestial, encarnaban a los héroes de una Francia que siguió el vuelo con ediciones especiales —algunas anunciando falsamente la llegada— y acabó golpeada por el «Mystère de l'Oiseau Blanc».
+
+### Entorno tecnológico
+
+El PL.8, derivado del reconocimiento naval PL.4 y reforzado con casco para amerizar ante la Estatua de la Libertad, cargaba 4.025 litros para 5.000 kg al despegue con un Lorraine de 460 hp; sin radio, dependía solo de la navegación celestial de Coli, y lanzó su tren tras despegar de Le Bourget.
+
+### Entorno cultural
+
+Mayor misterio de la Era de los Pioneros —«el Everest de los misterios»—, el Pájaro Blanco vive en una calle de París, un sello de 1967, la estatua de Le Bourget y su tren conservado en el museo del mismo aeródromo.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Desarrollo Cronológico
 
 El 8 de mayo de 1927, a las 5:17 a.m., el L’Oiseau Blanc despegó de Le Bourget con un peso de 5.000 kg (casi el triple de su peso vacío). Las modificaciones realizadas por Levasseur incluían una cabina ensanchada para la tripulación, tanques de combustible adicionales (4.025 litros) y un fuselaje reforzado con forma de casco para permitir un amerizaje frente a la Estatua de la Libertad.
 
@@ -92,7 +101,13 @@ Decenas de miles de personas se congregaron en Battery Park, Manhattan, para pre
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## El misterio: teorías y hallazgos
+## Consecuencias e Impacto
+
+- **Charles Lindbergh y la historia:** El vuelo de Nungesser y Coli ocurrió doce días antes de que Charles Lindbergh despegara de Roosevelt Field, el 20 de mayo de 1927, para aterrizar en Le Bourget al día siguiente. Si bien Lindbergh se llevó el Premio Orteig y la fama, el misterio de L’Oiseau Blanc ha perdurado como una sombra sobre su récord.
+- **El fin de una era de héroes:** Nungesser era un héroe nacional en Francia; su desaparición fue un duro golpe. El "Mystère de l’Oiseau Blanc" es uno de los más duraderos de la aviación.
+- **Legado cultural:** Una calle en París lleva el nombre de los dos aviadores. Se emitió un sello postal conmemorativo en 1967 y una estatua en su honor se encuentra en el aeropuerto de Le Bourget.
+
+### El misterio: teorías y hallazgos
 
 Tras 42 horas de autonomía y sin noticias, se comprendió que el avión se había perdido. Se inició una búsqueda internacional sin éxito. Su desaparición se ha convertido en "el Everest de los misterios de la aviación". Las principales teorías son:
 
@@ -109,14 +124,6 @@ Tras 42 horas de autonomía y sin noticias, se comprendió que el avión se hab�
 ### El tren de aterrizaje
 
 La única pieza confirmada del L’Oiseau Blanc que se conserva es su tren de aterrizaje, que fue lanzado tras el despegue y recuperado. Se exhibe en el Museo del Aire y del Espacio de Le Bourget, en París, el mismo aeródromo del que despegó.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Consecuencias e Impacto
-
-- **Charles Lindbergh y la historia:** El vuelo de Nungesser y Coli ocurrió doce días antes de que Charles Lindbergh despegara de Roosevelt Field, el 20 de mayo de 1927, para aterrizar en Le Bourget al día siguiente. Si bien Lindbergh se llevó el Premio Orteig y la fama, el misterio de L’Oiseau Blanc ha perdurado como una sombra sobre su récord.
-- **El fin de una era de héroes:** Nungesser era un héroe nacional en Francia; su desaparición fue un duro golpe. El "Mystère de l’Oiseau Blanc" es uno de los más duraderos de la aviación.
-- **Legado cultural:** Una calle en París lleva el nombre de los dos aviadores. Se emitió un sello postal conmemorativo en 1967 y una estatua en su honor se encuentra en el aeropuerto de Le Bourget.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

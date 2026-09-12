@@ -37,11 +37,6 @@ image: 1943-06-16-accidente-XB-38-bombardero-experimental.webp
 - **Tripulación:** 10 personas 
 - **Víctimas:** Un piloto fallecido (paracaídas no se abrió); un tripulante gravemente herido 
 - **Destino del programa:** Cancelado tras el accidente 
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Especificaciones Técnicas del XB-38
-
 - **Tipo:** Bombardero estratégico experimental
 - **Tripulación:** 9-10 personas
 - **Longitud:** 22,56 m
@@ -58,13 +53,17 @@ image: 1943-06-16-accidente-XB-38-bombardero-experimental.webp
 
 El XB-38 Flying Fortress fue un proyecto experimental de la USAAF (Fuerzas Aéreas del Ejército de los Estados Unidos) concebido como una solución de contingencia durante la Segunda Guerra Mundial. La producción masiva del B-17 dependía de los motores radiales Wright R-1820 Cyclone, y el mando temía una posible escasez. La propuesta fue instalar motores Allison V-1710 —los mismos V-12 refrigerados por líquido que propulsaban a cazas como el P-38 Lightning, el P-39 Airacobra y el P-40 Warhawk— en un fuselaje de B-17E.
 
-### Origen del programa
+### Entorno social
 
-El contrato se firmó el 10 de julio de 1942 con la compañía Vega (subsidiaria de Lockheed), que completó la conversión del B-17E número 41-2401 en menos de un año.
+En 1942 la USAAF temía que la producción masiva del B-17 quedara estrangulada por la escasez de motores radiales Wright R-1820 Cyclone, y encargó a Vega —subsidiaria de Lockheed— una solución de contingencia: el contrato del 10 de julio de 1942 convirtió el B-17E 41-2401 en el XB-38 en menos de un año, en plena urgencia bélica.
 
-### Rendimiento contradictorio
+### Entorno tecnológico
 
-El XB-38 demostró ser más rápido que el B-17 estándar, alcanzando una velocidad máxima de 526 km/h, aproximadamente 64 km/h más que el B-17G. Sin embargo, su techo de servicio era significativamente más bajo —una desventaja crítica para un bombardero de gran altitud que debía operar por encima de la artillería antiaérea y los cazas enemigos.
+Cuatro Allison V-1710-89 V-12 refrigerados por líquido y turbosobrealimentados, de 1.425 hp cada uno —los mismos de los cazas P-38, P-39 y P-40—, dieron al XB-38 526 km/h, unos 64 km/h más que el B-17G, pero con un techo de 9.050 m significativamente más bajo: una desventaja crítica para un bombardero de gran altitud.
+
+### Entorno cultural
+
+Cancelado el 12 de agosto de 1943 —los Allison eran más necesarios en los cazas de primera línea—, el XB-38 quedó como nota al pie del B-17: el único intento de propulsarlo con motores en línea, sin ejemplar preservado, recordado como experimento audaz pero fallido.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -78,9 +77,7 @@ El XB-38 demostró ser más rápido que el B-17 estándar, alcanzando una veloci
 - **16 de junio de 1943:** La tripulación se ve forzada a saltar en paracaídas sobre Tipton, California. El avión se estrella y queda completamente destruido 
 - **12 de agosto de 1943:** Se cancela oficialmente el pedido de dos XB-38 adicionales. El programa se abandona 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## El Accidente: El noveno vuelo
+### El Accidente: El noveno vuelo
 
 El XB-38 había superado con éxito sus primeros vuelos de pruebas, aunque no sin contratiempos. Tras el primer vuelo del 19 de mayo de 1943, se detectaron fugas en las juntas de los colectores de escape, un problema común en los motores Allison que requería atención antes de continuar. Las reparaciones se completaron y las pruebas se reanudaron.
 

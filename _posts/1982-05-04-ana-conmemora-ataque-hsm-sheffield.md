@@ -45,17 +45,21 @@ image: 1982-05-04-ana-conmemora-ataque-hsm-sheffield.webp
 
 El 2 de abril de 1982, Argentina recuperó las Islas Malvinas mediante la Operación Rosario. En respuesta, el Reino Unido envió una Fuerza de Tareas Británica al Atlántico Sur. El 1 de mayo de 1982, aviones de la Fuerza Aérea Argentina (FAA) habían atacado la flota británica, dañando al HMS Sheffield en un bombardeo previo con bombas de fragmentación. Dos días después, el 2 de mayo, el submarino británico HMS Conqueror torpedeó y hundió el crucero ARA General Belgrano, causando 323 bajas argentinas y desatando una fuerte presión sobre la Aviación Naval para responder.
 
-### ¿Por qué el 4 de mayo es el Día de la Aviación Naval?
+### Entorno social
 
-Es importante aclarar que la Aviación Naval Argentina no se fundó el 4 de mayo. Su creación data del **11 de febrero de 1916**, cuando el presidente Victorino de la Plaza firmó el decreto que creó el Parque y Escuela de Aerostación y Aviación de la Armada en Fuerte Barragán. El 4 de mayo fue instituido como el **"Día de la Aviación Naval"** en conmemoración del bautismo de fuego de la institución en la Guerra de Malvinas, considerado el hito que demostró al mundo la capacidad operativa y el profesionalismo de los aviadores navales argentinos.
+Tras la Operación Rosario del 2 de abril y el hundimiento del Belgrano el 2 de mayo —323 bajas—, la presión sobre la Aviación Naval para responder era máxima; el 4 de mayo, bautismo de fuego, quedaría instituido como su día.
 
-### La génesis del ataque
+### Entorno tecnológico
 
-Tras el hundimiento del General Belgrano, el alto mando argentino autorizó una operación de represalia con los recién incorporados Super Étendard y misiles Exocet, un sistema de armas que revolucionaría la guerra naval. Los cinco Super Étendard habían sido adquiridos a Francia en 1981 junto con 14 misiles Exocet AM-39, y habían llegado a Argentina en marzo de 1982, apenas semanas antes del desembarco en Malvinas. Esta acción fue la primera vez que se empleaba en combate la innovadora táctica de la **combinación avión explorador-avión de ataque**, que demostró una eficacia sin precedentes al hundir al primer buque británico de la guerra.
+Cinco Super Étendard y 14 Exocet llegados de Francia en marzo de 1982, guiados por el radar del Neptune «Pelícano» y reabastecidos por el KC-130, atacaron en rasante a 30 metros: la combinación explorador-atacante hundió al primer buque británico de la guerra.
+
+### Entorno cultural
+
+Primera vez que un misil aire-superficie hundía un buque moderno, la acción se estudia en academias de todo el mundo; el pecio, tumba de guerra a 160 km de Puerto Argentino, y la efeméride anual honran a Bedacarratz, Mayora y los caídos desde 1916.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico del ataque
+## Desarrollo Cronológico
 
 - **07:50 del 4 de mayo de 1982:** El SP-2H Neptune 2-P-112 detecta al HMS Sheffield y otros buques británicos.
 - **09:45:** Los Super Étendard 3-A-202 (Bedacarratz) y 3-A-203 (Mayora) despegan de la Base Aeronaval de Río Grande, Tierra del Fuego.
@@ -67,9 +71,7 @@ Tras el hundimiento del General Belgrano, el alto mando argentino autorizó una 
 - **Tarde del 4 de mayo:** El Capitán James Salt ordena el abandono del buque ante el riesgo de que el fuego alcanzara el pañol de misiles Sea Dart.
 - **10 de mayo de 1982:** El Sheffield se hunde mientras era remolcado hacia las Georgias del Sur.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La misión: detalles tácticos
+### La misión: detalles tácticos
 
 La operación que hundió al Sheffield fue una obra maestra de planificación táctica, que combinó múltiples activos de la Armada y la Fuerza Aérea.
 

@@ -43,17 +43,17 @@ image: 1944-06-20-batalla-mar-filipinas-segunda-guerra-mundial.webp
 
 En junio de 1944, el teatro del Pacífico de la Segunda Guerra Mundial se encontraba en un momento crítico. Las fuerzas estadounidenses, tras una campaña de "salto de isla" que había capturado las Islas Marshall y las Gilbert, se preparaban para invadir las Islas Marianas, un archipiélago que Japón consideraba parte de su territorio nacional. La caída de Saipan, Tinian y Guam pondría las bases aéreas estadounidenses a menos de 2.400 kilómetros de Tokio, dentro del alcance de los nuevos bombarderos B-29 Superfortress. Para la Armada Imperial Japonesa, esta era la "batalla decisiva" (kantai kessen) para la que había entrenado durante décadas.
 
-### Antecedentes estratégicos
+### Entorno social
 
-En junio de 1944, la guerra en el Pacífico había llegado a un punto de inflexión. Las fuerzas estadounidenses, tras capturar las Islas Marshall y las Gilbert, se preparaban para invadir las Islas Marianas. Saipan, Tinian y Guam eran vitales para Japón, ya que su caída pondría Tokio al alcance de los nuevos bombarderos B-29. La Armada Imperial Japonesa, liderada por el Almirante Soemu Toyoda, lanzó la **Operación A-Go**, la "batalla decisiva" para la que había entrenado durante décadas.
+Tras Marshall y las Gilbert, EE.UU. apuntaba a Saipan, Tinian y Guam —a menos de 2.400 km de Tokio, al alcance del B-29—, y Japón jugaba su kantai kessen: Toyoda lanzó la Operación A-Go como la batalla decisiva entrenada durante décadas.
 
-### El "Z-Plan" y la inteligencia estadounidense
+### Entorno tecnológico
 
-Los japoneses habían desarrollado el "Z-Plan" para la batalla decisiva, que cayó en manos de los estadounidenses a través de guerrilleros filipinos en marzo de 1944. El Comandante Edwin Layton, jefe de inteligencia de la Flota del Pacífico, predijo con precisión la fuerza japonesa (nueve portaaviones) y el momento de la batalla, basándose en el descifrado de códigos (Ultra) y el análisis de tráfico. El Almirante Spruance, comandante de la 5ª Flota, estaba bien informado y preparado para la batalla.
+EE.UU. leyó el Z-Plan capturado y Layton predijo fuerza y momento por Ultra; en el aire, Hellcats con radar y pilotos de dos años de escuela frente a reclutas de tres meses en aviones sin blindaje ni autosellantes decidieron la «cacería».
 
-### La amenaza japonesa
+### Entorno cultural
 
-Los japoneses, comandados por el Vicealmirante Jisaburō Ozawa, contaban con nueve portaaviones (5 de flota y 4 ligeros), cinco acorazados y 450 aviones embarcados, más otros 300 con base en tierra. Sin embargo, la aviación naval japonesa era una sombra de la que había atacado Pearl Harbor. La mayoría de los pilotos experimentados habían muerto en las batallas de Midway, Guadalcanal y el Mar de Coral. Los reemplazos eran jóvenes y mal entrenados, con solo tres meses de instrucción frente a los dos años de entrenamiento de los pilotos estadounidenses. Los aviones japoneses, aunque maniobrables, carecían de blindaje y depósitos de combustible autosellantes. Por el contrario, los estadounidenses contaban con el caza F6F Hellcat, superior en velocidad, potencia de fuego y protección, y con pilotos bien entrenados.
+Última de las cinco grandes batallas de portaaviones, Filipinas dividió a la historiografía por la cautela de Spruance —proteger Saipan frente a aniquilar a Ozawa, en contraste con Halsey en Leyte— y dejó a los supervivientes, como el Zuikaku, reducidos a señuelos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -69,9 +69,7 @@ Los japoneses, comandados por el Vicealmirante Jisaburō Ozawa, contaban con nue
 - **20 de junio de 1944, noche:** Los aviones estadounidenses regresan a sus portaaviones al anochecer; muchos se quedan sin combustible y deben amerizar en la oscuridad. El Almirante Mitscher arriesga sus barcos y enciende todas las luces para guiar a sus pilotos, salvando a muchos 
 - **Posteriormente:** La Armada japonesa pierde la mayor parte de su aviación naval y nunca se recupera; el camino queda libre para la ocupación estadounidense de las Marianas 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La "Gran Cacería de Pavos de las Marianas"
+### La "Gran Cacería de Pavos de las Marianas"
 
 El apodo **"Gran Cacería de Pavos de las Marianas"** (Great Marianas Turkey Shoot) fue acuñado por un piloto estadounidense del USS Lexington, que comentó: *"¡Caramba, fue como una cacería de pavos como las de antes!"*. El nombre refleja la desproporcionada facilidad con la que los aviadores estadounidenses derribaron a sus oponentes.
 
@@ -79,9 +77,7 @@ El 19 de junio, la TF 58 tenía 15 portaaviones (7 de flota y 8 ligeros) y 450 c
 
 El Almirante Ozawa, que había ordenado a sus aviones dirigirse a Guam después del ataque, creyó erróneamente que muchos de ellos habían aterrizado allí, aunque en realidad la mayoría habían sido derribados. Esta confusión contribuyó a su decisión de mantener la posición y permitir un segundo ataque estadounidense al día siguiente.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El papel de los submarinos
+### El papel de los submarinos
 
 Los submarinos estadounidenses desempeñaron un papel decisivo en la batalla, hundiendo dos de los portaaviones japoneses más grandes y modernos:
 
@@ -91,9 +87,7 @@ Los submarinos estadounidenses desempeñaron un papel decisivo en la batalla, hu
 
 Estos hundimientos, logrados en el primer día de batalla, privaron a Japón de dos de sus portaaviones más valiosos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El "vuelo más allá de la oscuridad"
+### El "vuelo más allá de la oscuridad"
 
 El 20 de junio, los aviones de la TF 58 lanzaron un ataque de largo alcance contra la flota japonesa en retirada. 226 aviones despegaron, sabiendo que muchos no tendrían combustible para regresar y que el aterrizaje se haría de noche, una maniobra para la que no estaban entrenados. Los pilotos estadounidenses hundieron el portaaviones Hiyō y dos petroleros, pero al regresar, la noche los envolvió. Muchos se quedaron sin combustible.
 

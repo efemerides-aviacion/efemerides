@@ -42,27 +42,25 @@ image: 1923-05-05-nacimiento-nikolay-vasilievich-sutyagin.webp
 
 La fecha de nacimiento de Sutyagin (1923) lo sitúa en una generación formada en plena consolidación del Estado soviético bajo Stalin y durante la rápida industrialización del país. Al igual que muchos jóvenes soviéticos de su época, creció con la fascinación por la aviación, inspirado por las hazañas de pilotos como Valeri Chkalov.
 
-### Infancia y juventud
+### Entorno social
 
-Sutyagin nació en una familia campesina. Su infancia fue difícil; a los 11 años se mudó a Nizhny Novgorod (entonces llamada Gorki) para vivir con su abuela y ayudar a la familia, trabajando mientras estudiaba. En 1939 ingresó en el aeroclub de la ciudad, donde comenzó su formación aeronáutica en biplanos Polikarpov Po-2.
+Nacido en 1923 en la familia campesina de Smagino, Sutyagin creció bajo Stalin fascinado por Chkalov: a los 11 años vivía en Gorki con su abuela, trabajando y estudiando, y en 1939 entró en el aeroclub para volar biplanos Po-2.
 
-### Inicio de la carrera militar
+### Entorno tecnológico
 
-Tras el estallido de la Segunda Guerra Mundial, Sutyagin fue reclutado por el Ejército Rojo en marzo de 1941 y enviado a la Escuela de Pilotos de Aviación Militar de Chernígov. Con el avance alemán, la escuela fue evacuada a retaguardia, y Sutyagin completó su formación en agosto de 1942.
+Reclutado en marzo de 1941, se formó en Chernígov —evacuada ante el avance alemán— y sirvió en el Lejano Oriente con 13 vuelos sobre aeródromos japoneses en 1945; la era del reactor, con MiG-9, Yak-15 y MiG-15, lo seleccionó por sus condiciones físicas excepcionales.
 
-### Servicio en el Lejano Oriente y la Guerra contra Japón
+### Entorno cultural
 
-Destinado al Lejano Oriente soviético, Sutyagin sirvió en el 5º Regimiento de Aviación de Caza, preparado para una posible invasión japonesa que nunca llegó durante la guerra con Alemania. En agosto de 1945, participó en la breve guerra soviético-japonesa, realizando 13 vuelos de combate, tres de ellos misiones de reconocimiento sobre aeródromos japoneses. Aunque no se enfrentó a cazas enemigos, recibió su primera condecoración, la Orden de la Estrella Roja, por su labor.
+Héroe secreto —combatió como «Su Yan Gin» y su Estrella de Oro de 1951 ocultó 22 victorias—, su nombre emergió con los archivos: la historiografía rusa lo honra como primer as del reactor y Nizhny Novgorod le alzó un busto en 2022.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Entrenamiento en la era del reactor
+## Desarrollo Cronológico
 
 La posguerra supuso un cambio radical para la aviación soviética. La introducción de los cazas a reacción (MiG-9, Yak-15, y posteriormente el MiG-15) obligó a una selección estricta de pilotos, exigiendo condiciones físicas excepcionales. Sutyagin superó los rigurosos exámenes médicos y se dedicó al aprendizaje de los nuevos cazas a reacción, preparándose para un conflicto que, aunque desconocido, se consideraba inevitable.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## La Guerra de Corea: el despliegue secreto
+### La Guerra de Corea: el despliegue secreto
 
 El 25 de junio de 1950 estalló la Guerra de Corea. Aunque la Unión Soviética negó oficialmente su participación, Stalin autorizó el despliegue de unidades aéreas soviéticas para apoyar a las fuerzas norcoreanas y chinas, con la condición de que los pilotos volaran bajo insignias chinas o norcoreanas y que no pudieran ser capturados bajo ninguna circunstancia.
 
@@ -84,9 +82,7 @@ Entre junio de 1951 y febrero de 1952, Sutyagin realizó 149 misiones de combate
 
 El 10 de octubre de 1951, Sutyagin recibió el título de Héroe de la Unión Soviética (medalla Estrella de Oro) por sus primeros 7 derribos. Sin embargo, su identidad y sus logros permanecieron ocultos durante décadas, ya que la URSS negaba oficialmente su participación en la guerra. Sutyagin combatió bajo el nombre ficticio “Su Yan Gin” para ocultar su verdadera identidad.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Desempeño y Récord
+### Desempeño y Récord
 
 El desempeño de Nikolai Sutyagin durante la Guerra de Corea fue excepcional, incluso para los estándares de los ases soviéticos. Sus 149 misiones de combate y 66 combates aéreos en menos de nueve meses de despliegue le permitieron acumular un récord de 22 victorias confirmadas, la cifra más alta de todo el conflicto según los archivos rusos.
 
@@ -98,9 +94,23 @@ Según los archivos desclasificados, Sutyagin derribó oficialmente 22 aeronaves
 
 El sistema soviético de confirmación de victorias era estricto: dependía de testigos (otros pilotos) y de un elaborado sistema de equipos de búsqueda en tierra que debía localizar los restos de las aeronaves derribadas sobre territorio norcoreano o chino. Sutyagin reclamó 22 victorias y todas fueron confirmadas por este sistema.
 
+### Los honores tardíos
+
+A pesar de su hazaña, Sutyagin no fue condecorado por segunda vez con la Estrella de Oro. En enero de 1952 fue propuesto para recibir una segunda medalla de Héroe, pero la solicitud fue denegada, presumiblemente por el alto mando soviético para no llamar la atención sobre el papel de la URSS en la guerra.
+
+### Carrera posterior
+
+Sutyagin continuó su carrera militar. En 1956 se graduó de la Academia de la Fuerza Aérea (Monino) y en 1964 de la Academia Militar del Estado Mayor. Entre 1968 y 1970 comandó la Escuela Superior de Aviación Militar de Járkov. Posteriormente, cumplió misiones como asesor militar en Vietnam (durante la guerra de Vietnam) y en Alemania Oriental.
+
+Se retiró en 1978 con el grado de mayor general de aviación (equivalente a general de brigada). Falleció en Kiev el 12 de noviembre de 1986, a la edad de 63 años.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## La controversia de las victorias y la comparativa
+## Consecuencias e Impacto
+
+El paso de Sutyagin por Corea dejó un récord excepcional y una controversia historiográfica que los archivos desclasificados matizaron sin cerrar del todo.
+
+### La controversia de las victorias y la comparativa
 
 Las cifras de derribos de los pilotos soviéticos en Corea han sido objeto de debate entre historiadores de ambos lados durante décadas. Mientras los archivos rusos otorgan a Sutyagin 22 victorias, las fuentes occidentales tradicionalmente han cuestionado estas cifras. Para contextualizar su logro, resulta útil comparar su récord con el de otros ases destacados del conflicto.
 
@@ -126,19 +136,9 @@ Sutyagin es, con diferencia, el as con mejor puntuación de la Guerra de Corea s
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Posguerra y legado
+## Legado
 
 Tras su regreso de Corea, Sutyagin continuó su carrera militar, ascendiendo al rango de general de brigada y desempeñando roles clave como comandante de la Escuela Superior de Aviación Militar de Járkov y asesor militar en Vietnam y Alemania Oriental. Su legado, oculto durante décadas por el secretismo de la Guerra Fría, ha sido redescubierto tras la apertura de los archivos rusos.
-
-### Los honores tardíos
-
-A pesar de su hazaña, Sutyagin no fue condecorado por segunda vez con la Estrella de Oro. En enero de 1952 fue propuesto para recibir una segunda medalla de Héroe, pero la solicitud fue denegada, presumiblemente por el alto mando soviético para no llamar la atención sobre el papel de la URSS en la guerra.
-
-### Carrera posterior
-
-Sutyagin continuó su carrera militar. En 1956 se graduó de la Academia de la Fuerza Aérea (Monino) y en 1964 de la Academia Militar del Estado Mayor. Entre 1968 y 1970 comandó la Escuela Superior de Aviación Militar de Járkov. Posteriormente, cumplió misiones como asesor militar en Vietnam (durante la guerra de Vietnam) y en Alemania Oriental.
-
-Se retiró en 1978 con el grado de mayor general de aviación (equivalente a general de brigada). Falleció en Kiev el 12 de noviembre de 1986, a la edad de 63 años.
 
 ### El legado redescubierto
 

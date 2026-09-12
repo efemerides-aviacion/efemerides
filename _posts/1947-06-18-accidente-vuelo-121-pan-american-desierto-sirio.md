@@ -45,9 +45,7 @@ image: 1947-06-18-accidente-vuelo-121-pan-american-desierto-sirio.webp
 - **Primer oficial:** Robert Stanley McCoy (25 años, 3.178 horas de vuelo) 
 - **Tercer oficial (sin asignación):** Eugene Wesley "Gene" Roddenberry (25-26 años) 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## ¿Qué significa "deadheading"?
+### ¿Qué significa "deadheading"?
 
 El término **"deadheading"** (en español, algo así como "viaje en vacío" o "reposicionamiento") se utiliza en la aviación para referirse a un **miembro de la tripulación que viaja como pasajero en un vuelo, pero que está en servicio de la compañía**.
 
@@ -63,15 +61,17 @@ En este accidente, Roddenberry figuraba como "Tercer Oficial" en la lista de tri
 
 A mediados de la década de 1940, la aviación comercial experimentaba una transformación. Los grandes hidroaviones (los famosos "Clippers" de Pan Am) estaban siendo reemplazados por aviones terrestres más rápidos, eficientes y con mayor alcance.
 
-### Entorno tecnológico: El Lockheed Constellation
+### Entorno social
 
-El Lockheed L-049 Constellation, apodado "Connie", era la joya de la aviación comercial de posguerra. Podía transportar a más de 60 pasajeros a gran altitud gracias a su revolucionaria cabina presurizada. Tenía una velocidad de crucero de 270 nudos (unos 500 km/h) y características innovadoras como un tren de aterrizaje triciclo y hélices de paso reversible.
+A mediados de los años 40 la aviación comercial dejaba atrás los grandes hidroaviones Clippers de Pan Am por aviones terrestres más rápidos y de mayor alcance, y el Lockheed Constellation —la «Connie»— era la joya de esa posguerra: cabina presurizada para más de 60 pasajeros, tren triciclo y hélices de paso reversible.
 
-Sin embargo, sus motores radiales Wright R-3350 —los mismos que equipaban al bombardero B-29 Superfortress— eran notorios por su tendencia al sobrecalentamiento y los incendios, debido al uso de aleaciones de magnesio en el cárter que, una vez encendidas, ardían a temperaturas extremadamente altas.
+### Entorno tecnológico
 
-### Una aeronave con problemas previos
+Sus Wright R-3350 —los del B-29— eran notorios por el sobrecalentamiento y los incendios del magnesio del cárter, y el «Clipper Eclipse» ya avisaba: motor número 2 fallado en Gander con el cilindro 18 reemplazado, y fuga hidráulica reparada en Roma. Volaba a unos 270 nudos de crucero cuando la fatiga de metal sentenció el vuelo 121.
 
-El "Clipper Eclipse" ya había dado señales de problemas. Días antes del vuelo fatal, durante la etapa de ida de su viaje alrededor del mundo, un fallo en el motor número 2 lo obligó a regresar a Gander (Terranova) y retrasó el viaje dos días. El problema se atribuyó inicialmente a una falla en el anillo de pistón del cilindro número 18, que fue reemplazado. Más tarde, en Roma, se detectó una fuga de fluido hidráulico en el mismo motor, que requirió la instalación de una bomba de repuesto.
+### Entorno cultural
+
+El vuelo 121 pasó a la cultura por su superviviente más improbable: Gene Roddenberry, condecorado por la CAB por su heroísmo, abandonó la aviación en 1948 y creó Star Trek en 1966, convirtiendo la fragilidad vivida en el desierto sirio en metáfora de exploración y esperanza.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -90,9 +90,7 @@ El "Clipper Eclipse" ya había dado señales de problemas. Días antes del vuelo
 - **18 de junio de 1948:** La Junta de Aeronáutica Civil (CAB) publica su informe final, determinando que la causa probable fue un incendio iniciado al intentar poner la hélice en bandera tras la falla del cojinete de empuje del motor número 2.
 - **Mayo de 1948:** Gene Roddenberry renuncia a Pan Am y abandona la aviación comercial.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Gene Roddenberry: El héroe del vuelo 121
+### Gene Roddenberry: El héroe del vuelo 121
 
 Cuando el avión se detuvo tras el violento impacto, Roddenberry, el sobrecargo Anthony Volpe y la azafata Jane Bray comenzaron la evacuación a través del fuselaje roto. Con el fuego propagándose rápidamente, sabían que solo tenían segundos para sacar a todos.
 
