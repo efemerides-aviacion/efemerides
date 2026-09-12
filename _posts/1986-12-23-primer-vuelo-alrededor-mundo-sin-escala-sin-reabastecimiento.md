@@ -45,15 +45,18 @@ El Voyager pesaba apenas 426 kg vacío, pero cargaba más de 3.180 kg de combust
 ### Entorno cultural
 El vuelo fue considerado el “último gran hito de la aviación” y reforzó la reputación de Burt Rutan como innovador.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - **1981:** Idea del Voyager concebida por Burt Rutan.  
 - **1986, 14 dic:** Despegue desde Edwards.  
 - **1986, 23 dic:** Aterrizaje en Edwards tras circunnavegación sin reabastecimiento.  
 - **1987:** Exhibición permanente en el Museo Nacional del Aire y el Espacio.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 El vuelo demostró los límites de la ingeniería ligera y la resistencia humana, consolidando la aviación experimental como campo de innovación.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 El Voyager se exhibe en el Smithsonian y sigue siendo referencia en récords de aviación.
 
@@ -72,6 +75,7 @@ El Voyager se exhibe en el Smithsonian y sigue siendo referencia en récords de 
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Algunas fuentes difieren en la cifra exacta de distancia recorrida por el Voyager. Mientras que la FAI homologó 40.212 km, otras publicaciones mencionan cifras ligeramente distintas (entre 40.200 y 40.250 km). Se priorizó la cifra oficial de la FAI.</p>
 </div>
@@ -81,5 +85,5 @@ El Voyager se exhibe en el Smithsonian y sigue siendo referencia en récords de 
 - **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia EN/ES, NASM, NYT, El País, Smithsonian  
 - **Discrepancias resueltas:** Distancia oficial homologada por la FAI  
-- **Nivel de confianza:** Muy alto  
+- **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
