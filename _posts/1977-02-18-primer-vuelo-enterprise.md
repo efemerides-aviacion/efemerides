@@ -34,16 +34,34 @@ image: 1977-02-18-primer-vuelo-enterprise.webp
 ## Contexto Histórico
 Enterprise fue el primer orbitador construido del sistema Space Shuttle. Carecía de motores principales y escudo térmico completo, por lo que nunca estuvo certificado para vuelo orbital. Su misión fue validar aerodinámica, control y procedimientos de aterrizaje mediante el programa ALT (Approach and Landing Tests).
 
+### Entorno social
+
+La presentación pública en Palmdale (1976) y los vuelos sobre Edwards (1977) hicieron del Enterprise la cara visible del nuevo sistema reutilizable: un orbitador sin motores orbitales ni escudo completo, cuya misión era demostrar que el concepto volaba y aterrizaba.
+
+### Entorno tecnológico
+
+Sin tripulación en el primer cautivo «captive-inert» sobre el 747 NASA 905, Enterprise validó el manejo del conjunto Shuttle–747; siguieron tres cautivos tripulados y cinco vuelos libres sin propulsión. La campaña certificó la aerodinámica, el control y los procedimientos de aproximación y aterrizaje para Columbia, Challenger, Discovery y Atlantis.
+
+### Entorno cultural
+
+Exhibido hoy en el Intrepid de Nueva York como pieza central del Space Shuttle Pavilion, el Enterprise es monumento del programa Shuttle: el prototipo atmosférico sin el cual ningún orbitador habría volado.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 - **17 de septiembre de 1976:** Presentación pública del Enterprise en Palmdale, California.  
 - **18 de febrero de 1977:** Primer vuelo cautivo inerte sobre el 747 SCA en Edwards AFB.  
 - **1977:** Tres vuelos cautivos tripulados y cinco vuelos libres planeados, demostrando capacidad de vuelo y aterrizaje sin propulsión.  
 - **Décadas posteriores:** Usado en pruebas estructurales e integración en Marshall y Kennedy.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 - Validación del diseño aerodinámico del orbitador.  
 - Certificación de procedimientos de aproximación y aterrizaje.  
 - Base para el desarrollo de los orbitadores operativos Columbia, Challenger, Discovery y Atlantis.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 Enterprise nunca voló al espacio, pero fue esencial para el éxito del programa Shuttle. Actualmente se exhibe en el **Intrepid Sea, Air & Space Museum** de Nueva York como pieza central del Space Shuttle Pavilion.
@@ -62,6 +80,8 @@ Enterprise nunca voló al espacio, pero fue esencial para el éxito del programa
     <li><a href="https://intrepidmuseum.org/exhibitions/permanent-exhibitions/space-shuttle-pavilion" style="color: #315fea; text-decoration: none;">Intrepid Museum – Space Shuttle Pavilion</a></li>
   </ul>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Enterprise fue un prototipo atmosférico. Nunca voló al espacio, pero sus pruebas fueron esenciales para certificar el diseño de los orbitadores operativos.</p>

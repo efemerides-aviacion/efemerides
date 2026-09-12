@@ -35,6 +35,20 @@ image: 1982-02-19-primer-vuelo-boeing-757.webp
 ## Contexto Histórico
 El Boeing 757 fue concebido como reemplazo del 727, ofreciendo mayor capacidad y eficiencia. Su desarrollo paralelo con el 767 permitió compartir sistemas y entrenamiento. El prototipo N757A fue clave en la validación de la nueva generación de birreactores de pasillo único.
 
+### Entorno social
+
+Concebido como reemplazo del 727 con mayor capacidad y eficiencia, el 757 encontró su mercado: Eastern Air Lines lo estrenó en 1983 y 55 operadores volaron 1,050 unidades. Su producción entre 1981 y 2004 lo sostuvo dos décadas en servicio comercial.
+
+### Entorno tecnológico
+
+La cabina biplaza «glass cockpit» y un consumo ~20% menor que el 727 definieron su generación, desarrollada en paralelo con el 767 para compartir sistemas y entrenamiento. Capaz de pistas cortas y rutas largas, incluidas transatlánticas ETOPS, el birreactor cubrió un espectro inusual.
+
+### Entorno cultural
+
+Considerado uno de los aviones más exitosos de Boeing en su categoría, el 757 sobrevivió a su fábrica: terminado en 2004, sigue volando en aerolíneas y operaciones especiales. El propio N757A, tras el vuelo inaugural, sirvió de banco de pruebas, incluidos ensayos para el F-22 Raptor.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 - **1978:** Inicio del programa 757.  
 - **1982:** Primer vuelo del prototipo N757A.  
@@ -42,13 +56,19 @@ El Boeing 757 fue concebido como reemplazo del 727, ofreciendo mayor capacidad y
 - **1980s–2000s:** Producción de 1,050 unidades para 55 operadores.  
 - **Operaciones destacadas:** Rutas transatlánticas ETOPS, vuelos de medio y largo alcance.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 - **Eficiencia:** Reducción de consumo de combustible en ~20% frente al 727.  
 - **Versatilidad:** Capacidad para operar en aeropuertos con pistas cortas y rutas largas.  
 - **Legado:** Considerado uno de los aviones más exitosos de Boeing en su categoría.  
 
-### Estado actual
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Legado
 Aunque la producción terminó en 2004, el 757 sigue en servicio con varias aerolíneas y es valorado por su rendimiento en rutas transatlánticas y operaciones especiales. El prototipo N757A fue posteriormente usado como banco de pruebas, incluyendo ensayos para el F-22 Raptor.
+
+Las 1,050 unidades para 55 operadores, de Eastern Air Lines en 1983 a las rutas transatlánticas ETOPS, fijaron al 757 como uno de los aviones más exitosos de Boeing en su categoría.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
@@ -61,6 +81,8 @@ Aunque la producción terminó en 2004, el 757 sigue en servicio con varias aero
     <li><a href="https://secure.boeingimages.com/archive/757-200-Taxis-Toward-its-First-Flight-2F3XC5G9AB0.html" style="color: #315fea; text-decoration: none;">Boeing Images – 757-200 First Flight</a></li>
   </ul>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> El prototipo N757A fue posteriormente utilizado como banco de pruebas para programas avanzados, incluyendo ensayos del F-22. La producción total del 757 alcanzó 1,050 unidades entre 1981 y 2004.</p>

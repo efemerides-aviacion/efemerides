@@ -16,9 +16,10 @@ image: 1911-12-14-nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.webp
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Resumen Ejecutivo
-
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
 <p>El 14 de diciembre de 1911 nació en Dessau, Alemania, Hans Joachim Pabst von Ohain. Reconocido como coinventor del motor a reacción junto a Sir Frank Whittle, diseñó el Heinkel HeS 3, primer turborreactor funcional que impulsó al Heinkel He 178 en 1939, inaugurando la era del jet y revolucionando la aviación.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -40,6 +41,20 @@ image: 1911-12-14-nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.webp
 
 En los años 30, la aviación estaba limitada por la propulsión a hélice. Los motores de pistón alcanzaban sus límites físicos en términos de altitud y velocidad. Von Ohain abordó el problema desde la física y la termodinámica, buscando un diseño más simple que el de sus contemporáneos. Su colaboración con Ernst Heinkel, un pionero de la aviación alemana, permitió desarrollar el primer turborreactor funcional.
 
+### Entorno social
+
+En los años 30 la hélice tocaba su techo físico y la velocidad pedía otra física: von Ohain, doctorado en Gotinga en 1935, abordó el problema desde la termodinámica mientras Whittle, en Inglaterra, recorría un camino paralelo e independiente. El encuentro de 1966 en Washington los reconoció a ambos.
+
+### Entorno tecnológico
+
+Patente en 1936, financiación y talleres de Ernst Heinkel, prueba estática del HeS 1 con hidrógeno en 1937 y vuelo del He 178 con el HeS 3 en 1939: 360 kg de motor para 450 kg de empuje, de flujo centrífugo, más simple que los axiales de Whittle. La barrera del sonido dejó de ser un límite de motor.
+
+### Entorno cultural
+
+Coinventor del turborreactor junto a Whittle, von Ohain terminó su carrera en EE.UU. —Paperclip en 1947, Fuerza Aérea y NASA— con la Medalla Nacional de la Ciencia (1988) y la Medalla del Aire (1992). El jet comercial de los años 50, con cabinas presurizadas y materiales avanzados, desciende de su concepto.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Desarrollo Cronológico
 
 El camino de von Ohain hacia el primer motor a reacción funcional fue notablemente rápido. A continuación se presentan los hitos más importantes de su carrera.
@@ -49,6 +64,8 @@ El camino de von Ohain hacia el primer motor a reacción funcional fue notableme
 - **1937:** Prueba estática exitosa del HeS 1 (funcionaba con hidrógeno en lugar de queroseno).
 - **1939:** Vuelo histórico del Heinkel He 178, primer avión propulsado por un turborreactor (HeS 3).
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Consecuencias e Impacto
 
 El trabajo de von Ohain tuvo consecuencias de gran alcance para la aviación mundial.
@@ -56,6 +73,8 @@ El trabajo de von Ohain tuvo consecuencias de gran alcance para la aviación mun
 - **Eliminación de las limitaciones de velocidad de la hélice:** El motor a reacción permitió a los aviones superar la barrera del sonido, alcanzando velocidades y altitudes que los motores de pistón no podían lograr.
 - **Adaptación del concepto para la aviación comercial tras la guerra:** Los principios del turborreactor se aplicaron a los aviones de pasajeros, dando origen a la era del jet comercial en la década de 1950.
 - **Impulso a nuevas tecnologías:** El motor a reacción impulsó el desarrollo de cabinas presurizadas, sistemas de control de vuelo y materiales avanzados.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 

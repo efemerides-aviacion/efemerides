@@ -22,7 +22,7 @@ image: 1940-12-06-mary-calcano-primera-piloto-venezolana.webp
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Datos biográficos y técnicos
+## Datos verificados del evento
 - **Nombre completo:** María Asunción Calcaño Ruiz (Mary Keeler)  
 - **Nacimiento:** 15 de agosto de 1906, Ciudad Bolívar, Venezuela  
 - **Fallecimiento:** 17 de noviembre de 1992, Caracas, Venezuela  
@@ -35,6 +35,20 @@ image: 1940-12-06-mary-calcano-primera-piloto-venezolana.webp
 ## Contexto Histórico
 En los años 30 y 40, la aviación civil venezolana era incipiente y dominada por pilotos militares o extranjeros. La hazaña de Mary Calcaño rompió barreras de género y demostró que volar podía ser accesible y seguro para los ciudadanos comunes.
 
+### Entorno social
+
+En los años 30 y 40 volar en Venezuela era asunto de militares o extranjeros; que una mujer de Ciudad Bolívar obtuviera la licencia estadounidense en 1939 y la venezolana en 1940 rompió barreras de género y de acceso. Sus vuelos promocionales en Maracaibo y Ciudad Bolívar llevaron el avión ante el público del interior.
+
+### Entorno tecnológico
+
+Formada en EE.UU. con licencia privada No. 73.550 de la Civil Aeronautics Authority, Calcaño trajo su propio Piper Cub J3, transportado y ensamblado en Venezuela. La máquina ligera encarnaba su tesis: la aviación ligera como medio práctico y seguro.
+
+### Entorno cultural
+
+Fundadora de Ala Venezolana (1946), primer aeroclub civil del país, y cofundadora de SACA, primera escuela privada de aviación civil, Calcaño institucionalizó su pionerismo. Inspiró a Carolina Herrera de Molinari y a Ana Luisa Branger, y su memoria vive en archivos periodísticos y familiares.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 - **1939:** Obtiene licencia de piloto privado en EE.UU.  
 - **1939–1940:** Regresa a Venezuela con su propio avión, realiza vuelos promocionales en Maracaibo y Ciudad Bolívar.  
@@ -42,10 +56,14 @@ En los años 30 y 40, la aviación civil venezolana era incipiente y dominada po
 - **1946:** Funda Ala Venezolana, primer aeroclub civil del país.  
 - **Posteriormente:** Cofundadora de SACA, primera escuela privada de aviación civil.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 - Inspiró a otras mujeres como Carolina Herrera de Molinari y Ana Luisa Branger.  
 - Democratizó la formación aeronáutica en Venezuela.  
 - Promovió la aviación ligera como medio práctico y seguro de transporte.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 Mary Calcaño es recordada como símbolo de perseverancia e innovación. Su historia se mantiene viva en archivos periodísticos y familiares, inspirando a nuevas generaciones de pilotos venezolanos.
@@ -60,6 +78,8 @@ Mary Calcaño es recordada como símbolo de perseverancia e innovación. Su hist
     <li><a href="https://en.wikipedia.org/wiki/Mary_Calca%C3%B1o" style="color: #315fea; text-decoration: none;">Wikipedia – Mary Calcaño</a></li>
   </ul>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Se ha confirmado que María Asunción Calcaño Ruiz (Mary Calcaño) es la aviadora pionera, distinta de la poeta homónima. La licencia estadounidense fue obtenida en 1939 y la venezolana en 1940.</p>

@@ -35,10 +35,26 @@ image: 1928-02-22-herbert-hinkler-vuelo-solitario-inglaterra-australia.webp
 ## Contexto Histórico
 El vuelo de Hinkler fue un hito en la aviación mundial. Superó el récord de Kingsford Smith (con tripulación múltiple) y demostró que era posible realizar vuelos largos en solitario con aeronaves ligeras. Enfrentó tormentas, navegación manual con sextante y condiciones extremas.
 
+### Entorno social
+
+Quince días y 19 horas en solitario, con 20 paradas entre Croydon y Darwin, superaron el récord de Kingsford Smith —logrado con tripulación múltiple— y demostraron que las rutas aéreas imperiales entre el Reino Unido y Australia eran viables con aeronaves ligeras.
+
+### Entorno tecnológico
+
+El Avro 581E Avian G-EBOV, con un Cirrus II de 90 hp, cruzó 17.671 km con sextante y navegación manual, entre tormentas y condiciones extremas. La proeza validó al avión ligero como instrumento de larga distancia.
+
+### Entorno cultural
+
+El G-EBOV se conserva en el Queensland Museum y Bundaberg alberga el Hinkler Hall of Aviation: la memoria del vuelo vive en museos. Hinkler, muerto en 1933 en los Apeninos, quedó fijado como pionero australiano.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 - **7 feb 1928:** Despegue desde Croydon, Londres.  
 - **22 feb 1928:** Aterrizaje en Darwin tras 17.671 km.  
 - **1933:** Fallece en accidente aéreo en los Apeninos italianos.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 - **Viabilidad de rutas aéreas imperiales:** Demostró que vuelos UK–Australia eran posibles con aeronaves ligeras.  
@@ -46,6 +62,12 @@ El vuelo de Hinkler fue un hito en la aviación mundial. Superó el récord de K
 - **Legado:** Su Avro Avian G-EBOV se conserva en el Queensland Museum; Bundaberg alberga el Hinkler Hall of Aviation.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+## Legado
+
+El Avro Avian G-EBOV se conserva en el Queensland Museum y Bundaberg alberga el Hinkler Hall of Aviation. Muerto en 1933 en un accidente aéreo en los Apeninos italianos, Hinkler perdura como el pionero australiano que unió en solitario Inglaterra y Australia.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -58,6 +80,8 @@ El vuelo de Hinkler fue un hito en la aviación mundial. Superó el récord de K
     <li><a href="https://www.aahof.com.au/inductees/herbert-john-louis-%22bert%22-hinkler" style="color: #315fea; text-decoration: none;">Australian Aviation Hall of Fame – Bert Hinkler</a></li>
   </ul>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> El vuelo de Hinkler fue el primero en solitario entre Inglaterra y Australia. Cubrió 17.671 km en 15 días y 19 horas, con 20 paradas intermedias.</p>
