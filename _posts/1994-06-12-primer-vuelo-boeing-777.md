@@ -17,6 +17,7 @@ image: 1994-06-12-primer-vuelo-boeing-777.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>El 12 de junio de 1994, a las 11:45 a.m. hora local, el Boeing 777 realizó su primer vuelo desde Paine Field en Everett, Washington. El Capitán John E. Cashman —jefe de pilotos de pruebas de Boeing— y el copiloto Kenny Higgins —director de pruebas de vuelo— estuvieron al mando del prototipo N7771 (número de línea WA001) durante 3 horas y 48 minutos, el <strong>vuelo inaugural más prolongado de la historia de Boeing hasta ese momento</strong>, superando a todos los primeros vuelos anteriores de la compañía. El avión alcanzó una altitud máxima de 19.000 pies (5.791 metros) y completó todas las pruebas del plan de vuelo, incluyendo el apagado y reinicio de un motor en pleno vuelo. El 777 era el primer avión de Boeing con sistema fly-by-wire y el primer birreactor comercial certificado desde su entrada en servicio para operaciones ETOPS (Extended-range Twin-engine Operational Performance Standards) de 180 minutos.</p>
 </div>
@@ -124,6 +125,6 @@ El primer Boeing 777, WA001, se exhibe actualmente en el Pima Air and Space Muse
 
 - **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation, FlightGlobal, Boeing Newsroom, Sun Sentinel (archivo histórico de 1994), Wikipedia
-- **Discrepancias resueltas:** El borrador indicaba que el prototipo WA001 fue enviado al Museum of Flight en Seattle; se ha corregido al Pima Air and Space Museum (Tucson, Arizona) según múltiples fuentes primarias. Se ha añadido la altitud máxima alcanzada (19.000 pies) y los motores originales (PW4074) que no estaban especificados. Se ha corregido la redacción sobre la duración del vuelo inaugural para evitar ambigüedad.
+- **Discrepancias resueltas:** El destino del prototipo WA001 figura como Museum of Flight (Seattle) en unas versiones y como Pima Air and Space Museum (Tucson, Arizona) según múltiples fuentes primarias; se adopta Pima. Se consignan la altitud máxima alcanzada (19.000 pies) y los motores originales (PW4074).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

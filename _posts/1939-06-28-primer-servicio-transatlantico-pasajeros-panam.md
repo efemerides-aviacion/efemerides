@@ -50,6 +50,7 @@ En el ámbito de la ingeniería aeroespacial, la construcción de hidroaviones d
 ### Entorno cultural
 La era dorada de los hidroaviones «Clipper» de Pan Am cimentó un estilo de viaje sofisticado y de gran lujo que unía el transporte aéreo con el glamour de la navegación de primera clase. Los interiores estaban inspirados en los hoteles flotantes de la época, ofreciendo a los pasajeros comedor con mantelería de lino, habitaciones con camas plegables y un salón de observación que representó la cúspide de la elegancia.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 El vuelo del «Yankee Clipper» entre el 24 y el 28 de junio de 1939 coronó años de meticulosos preparativos y vuelos de prueba organizados por el presidente de Pan Am, Juan Trippe, y el Capitán Harold Gray. A continuación, se detallan los hitos cronológicos más significativos de este desarrollo y la posterior evolución de la ruta norteña:
@@ -64,6 +65,7 @@ El vuelo del «Yankee Clipper» entre el 24 y el 28 de junio de 1939 coronó añ
 - **28 de junio de 1939 (19:25 horas):** El *Yankee Clipper* ameriza de manera triunfal en Southampton, Gran Bretaña, tras cruzar Foynes, Irlanda, completando de manera exitosa la inauguración de la ruta del Atlántico Norte.
 - **8 de julio de 1939:** El *Yankee Clipper* realiza el primer vuelo regular exclusivamente de pasajeros en la ruta norteña, consolidando un puente aéreo comercial semanal entre Estados Unidos y Gran Bretaña.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 La puesta en marcha de la ruta norteña de pasajeros y correo regular en junio de 1939 consagró la superioridad del transporte aéreo frente a las tradicionales rutas marítimas transatlánticas. Su llegada abrió la conectividad semanal permanente del Atlántico Norte.
@@ -73,6 +75,7 @@ La puesta en marcha de la ruta norteña de pasajeros y correo regular en junio d
 - **Uso estratégico en la Segunda Guerra Mundial:** Al estallar el conflicto global, la flota de Boeing 314 de Pan Am fue parcialmente militarizada por la Marina y el Ejército de los Estados Unidos (bajo las designaciones B-314 y C-98), realizando misiones de transporte de alta prioridad para trasladar a líderes mundiales, incluido el presidente Franklin D. Roosevelt a la Conferencia de Casablanca de 1943.
 - **Declive de la era del hidroavión:** El rápido desarrollo de pistas de aterrizaje pavimentadas de gran longitud en todo el mundo durante la Segunda Guerra Mundial y el surgimiento de reactores terrestres de largo alcance (como el Douglas DC-4 y el Lockheed Constellation) marcaron el fin de la era comercial de los hidroaviones, los cuales fueron retirados de servicio de manera paulatina a finales de la década de 1940.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 El Boeing 314 Clipper es recordado en la historia de la aeronáutica como la cúspide del diseño de hidroaviones de pasajeros y el pionero supremo de los viajes transoceánicos de lujo. Su herencia continúa influyendo en la forma en que concebimos el confort y la exclusividad en los vuelos de largo recorrido del siglo XXI.
@@ -107,6 +110,6 @@ Para asegurar la rigurosidad científica de este post y garantizar el control de
 
 - **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
 - **Fuentes primarias/institucionales consultadas:** Archivos oficiales de la Pan American Historical Foundation, bitácoras de vuelo del Boeing 314 Yankee Clipper de junio de 1939, documentos técnicos de diseño de la Boeing Airplane Company para el Model 314 y registros históricos de la autoridad civil aeronáutica de los Estados Unidos (CAA)
-- **Discrepancias resueltas:** Se identificó y resolvió de forma concluyente el cruce de datos erróneos del borrador de la investigación previa. Se corrigieron las especificaciones de los motores (motores Wright GR-2600 frente a los erróneos Pratt & Whitney Twin Wasp) y se precisó que el vuelo conmemorativo del 24-28 de junio de 1939 fue el inaugural de la ruta comercial de correo regular a Gran Bretaña operado por el *Yankee Clipper* (NC18603) bajo el mando del Capitán Harold Gray, completando el cruce el 28 de junio tras la demora por niebla en Botwood.
+- **Discrepancias resueltas:** Los motores figuran como Wright GR-2600 frente a Pratt & Whitney Twin Wasp en datos erróneos cruzados; se adoptan los Wright GR-2600. Se precisó que el vuelo conmemorativo del 24-28 de junio de 1939 fue el inaugural de la ruta comercial de correo regular a Gran Bretaña operado por el *Yankee Clipper* (NC18603) bajo el mando del Capitán Harold Gray, completando el cruce el 28 de junio tras la demora por niebla en Botwood.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

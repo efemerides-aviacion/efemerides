@@ -34,6 +34,7 @@ image: 1928-01-29-charles-lindbergh-maracay.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
+El 29 de enero de 1928, Charles Lindbergh aterrizó en Maracay a bordo del Spirit of St. Louis tras 10 horas y 15 minutos desde Bogotá: recibido por el General Gómez y miles de ciudadanos, su escala venezolana —con homenaje a Bolívar en Caracas al día siguiente— convirtió la gira antillana en acontecimiento nacional.
 ### Entorno social
 La visita de Lindbergh fue un acontecimiento nacional, con multitudes que acudieron a recibirlo en Maracay y Caracas.
 
@@ -43,6 +44,7 @@ El *Spirit of St. Louis* era un monoplano Ryan NYP, símbolo de la aviación mod
 ### Entorno cultural
 La llegada de Lindbergh reforzó los lazos diplomáticos entre Venezuela y Estados Unidos, enmarcada en su gira de buena voluntad por América Latina.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - **20/05/1927:** 20-21/05/1927: Lindbergh realiza el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">primer vuelo transatlántico en solitario y sin escalas</a>, con despegue de Nueva York el 20 y llegada a París el 21.  
 - **1927–1928:** Gira de buena voluntad por América Latina.  
@@ -50,9 +52,11 @@ La llegada de Lindbergh reforzó los lazos diplomáticos entre Venezuela y Estad
 - **30/01/1928:** Traslado a Caracas, homenaje a Bolívar.  
 - **31/01/1928:** Partida hacia las Antillas.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 La visita consolidó la imagen de Lindbergh como héroe mundial de la aviación y fortaleció las relaciones diplomáticas entre Venezuela y EE.UU.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 El paso de Lindbergh por Venezuela es recordado como un hito histórico en la aviación y en las relaciones internacionales del país.
 

@@ -50,6 +50,7 @@ En el plano de la ingeniería aeroespacial, el diseño del C-5 Galaxy represent�
 ### Entorno cultural
 La cultura de la época dorada de la era espacial y la aviación de reacción contemplaba los proyectos gigantescos como una prueba del dominio humano sobre la naturaleza y la geografía. El C-5 Galaxy fue bautizado bajo esta narrativa de grandeza tecnológica de la posguerra, presentándose ante los medios de comunicación internacionales como una maravilla de la ingeniería estadounidense que unía la logística pesada con la velocidad del reactor.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 El desarrollo del Lockheed C-5 Galaxy representó una carrera contra el tiempo y un inmenso desafío financiero que culminó con su exitoso vuelo de prueba. A continuación, se detallan los hitos cronológicos más significativos desde la adjudicación del contrato hasta su primer despegue y posterior desarrollo:
@@ -63,6 +64,7 @@ El desarrollo del Lockheed C-5 Galaxy representó una carrera contra el tiempo y
 - **Diciembre de 1969:** La primera unidad operativa del C-5A Galaxy es entregada formalmente a la Fuerza Aérea de los Estados Unidos en la Base Aérea de Altus, Oklahoma, iniciando su servicio de transporte logístico.
 - **Enero de 1991 (Operación Tormenta del Desierto):** El C-5 se consolida como el pilar insustituible de la logística de transporte estratégico pesado de los Estados Unidos, realizando puentes aéreos masivos para desplazar tropas y pertrechos al Golfo Pérsico.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 La introducción del Lockheed C-5 Galaxy redefinió por completo la doctrina de movilidad estratégica militar y demostró que la aviación pesada era capaz de sostener operaciones intercontinentales masivas. Su entrada en servicio transformó la velocidad y la escala del transporte logístico global.
@@ -72,6 +74,7 @@ La introducción del Lockheed C-5 Galaxy redefinió por completo la doctrina de 
 - **Controversia financiera y estructural:** Los fallos estáticos de las alas y el sobrecosto millonario del programa obligaron a la USAF a reducir el pedido original de 115 unidades a solo 81 del modelo C-5A, y requirieron el costoso reemplazo preventivo de las alas de toda la flota en la década de 1980.
 - **Paso a la modernización:** Los aprendizajes obtenidos en las operaciones de la versión original C-5A sentaron las bases para la fabricación en la década de 1980 de la versión mejorada C-5B y la posterior conversión a la versión modernizada C-5M Super Galaxy.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 A más de cincuenta años de su primer vuelo, el Lockheed C-5 Galaxy continúa siendo el pilar supremo de la flota de transporte pesado de los Estados Unidos. Su asombrosa longevidad operativa demuestra la solidez fundamental de un diseño estructural y mecánico sin parangón en la historia de la aviación militar.
@@ -106,6 +109,6 @@ Para asegurar la rigurosidad científica de este post y garantizar el control de
 
 - **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
 - **Fuentes primarias/institucionales consultadas:** Archivos técnicos de ingeniería de Lockheed Martin, registros de vuelos de prueba de la planta de Marietta de 1968, documentos de la USAF de control de adquisiciones de motores General Electric TF39, base de datos del National Museum of the United States Air Force y artículos históricos de Code One Magazine
-- **Discrepancias resueltas:** Se ha identificado y corregido el grave error del borrador de la investigación preliminar sobre los motores TF34, restaurando la especificación real e histórica de los motores de alta derivación TF39-GE-1C de General Electric. Asimismo, se unificó la tripulación a bordo durante el primer vuelo (cinco tripulantes de prueba de Lockheed y la USAF frente a los siete habituales de servicio operativo descritos en algunas fuentes generales).
+- **Discrepancias resueltas:** Los motores figuran como TF34 en versiones erróneas y como TF39-GE-1C de General Electric, de alta derivación, en la documentación histórica; se adoptan estos últimos. Asimismo, se unificó la tripulación a bordo durante el primer vuelo (cinco tripulantes de prueba de Lockheed y la USAF frente a los siete habituales de servicio operativo descritos en algunas fuentes generales).
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

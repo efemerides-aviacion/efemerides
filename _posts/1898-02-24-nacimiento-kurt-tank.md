@@ -39,6 +39,7 @@ redirect_from:
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Contexto Histórico
+Kurt Tank nació el 24 de febrero de 1898 en Bromberg y se formó como ingeniero y piloto de pruebas en la Alemania de entreguerras: sus diseños —del Fw 190 al Ta 152 que lleva su prefijo— marcaron la aviación militar alemana, y su carrera continuó después de la guerra en Argentina con el Pulqui II y en la India con el HF-24 Marut.
 ### Entorno social
 Tank desarrolló su carrera en el periodo de entreguerras y durante la Segunda Guerra Mundial, en un entorno de fuerte competencia tecnológica.
 
@@ -48,6 +49,7 @@ Sus diseños marcaron un salto en la aviación militar alemana, con motores radi
 ### Entorno cultural
 Reconocido como visionario y audaz piloto de pruebas, su legado trascendió Alemania, influyendo en la aviación de Argentina e India.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 - 1898: Nace en Bromberg.  
 - 1924: Dipl.-Ing. en Berlín; trabaja en Rohrbach y Albatros.  
@@ -58,9 +60,11 @@ Reconocido como visionario y audaz piloto de pruebas, su legado trascendió Alem
 - 1960s: HF-24 Marut en India.  
 - 1983: Fallece en Múnich.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 Sus aviones fueron decisivos en la Luftwaffe y marcaron hitos en la aviación mundial. Su experiencia internacional consolidó su prestigio como diseñador global.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 Recordado como uno de los grandes ingenieros aeronáuticos del siglo XX, con aportes en tres continentes.
 
@@ -76,6 +80,7 @@ Recordado como uno de los grandes ingenieros aeronáuticos del siglo XX, con apo
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Aunque su grado universitario fue Dipl.-Ing. en electro-tecnología e ingeniería de máquinas (TH Berlín, 1924), Kurt Tank es reconocido universalmente como ingeniero aeronáutico por su vasta experiencia práctica en diseño de aviones, liderazgo en Focke-Wulf y títulos honoríficos como Prof. Dr.-Ing. E.h. otorgados en 1944–1945.</p>
 </div>
