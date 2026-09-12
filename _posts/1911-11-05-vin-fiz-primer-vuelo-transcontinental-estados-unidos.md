@@ -56,7 +56,11 @@ La aviación se consumía como espectáculo. Los pioneros vivían de exhibicione
 
 El Wright Model EX era una variante de exhibición derivada del Model R, con las alas acortadas para reducir la resistencia. Biplano monoplaza, 6,55 metros de longitud y 9,60 de envergadura, con un motor de cuatro cilindros en línea refrigerado por agua de apenas 30 caballos que movía dos hélices propulsoras por cadena. Velocidad máxima: unos 100 km/h. No llevaba instrumentos de navegación —ni siquiera una brújula— ni calefacción.
 
-### Entorno personal
+### Entorno cultural
+
+La travesía fue ante todo un espectáculo nacional: veinte mil personas recibieron a Rodgers en Pasadena y unas cincuenta mil lo vieron mojar las ruedas en el Pacífico, mientras la prensa narraba cada etapa como una carrera. El patrocinio de Armour —de tres a cinco dólares por milla y un tren de apoyo con el nombre del refresco— convirtió el vuelo en el primer gran negocio publicitario de la aviación, y el premio Hearst, aunque expirado, fijó el molde de los premios de periódico que financiaron a los pioneros.
+
+#### Entorno personal
 
 Rodgers había aprendido a volar aquel mismo año, con Orville Wright, en Huffman Prairie (Ohio). Obtuvo el certificado de piloto de la FAI, el número 49, el 7 de agosto de 1911: cuando despegó rumbo al Pacífico llevaba mes y medio como aviador titulado. Era además casi completamente sordo, en una época que no hacía concesiones a ello. Descendía de los Comodoros Oliver Hazard Perry y Matthew Calbraith Perry, y fue el primer particular a quien los hermanos Wright vendieron un avión.
 
@@ -77,9 +81,7 @@ Rodgers había aprendido a volar aquel mismo año, con Orville Wright, en Huffma
 - **12 de noviembre de 1911:** despega hacia el Pacífico —apenas 25 millas— y se estrella en Compton. Sufre heridas graves, entre ellas un tobillo roto.
 - **10 de diciembre de 1911:** repuesto, con una muleta atada al ala, aterriza en la playa de Long Beach ante unas cincuenta mil personas y mete las ruedas del Vin Fiz en el Pacífico.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Navegar sin brújula: «seguir la línea»
+### Navegar sin brújula: «seguir la línea»
 
 El Vin Fiz no llevaba un solo instrumento de navegación. Rodgers voló de pueblo en pueblo siguiendo las vías del ferrocarril, un método que los pioneros llamaban «seguir la línea» y que tenía un defecto evidente: de cuando en cuando escogía la vía equivocada y la seguía durante millas antes de aterrizar y descubrir que no estaba donde creía.
 
@@ -87,9 +89,7 @@ El tren de apoyo era la otra mitad del sistema. Armour financió un convoy —de
 
 A los mandos del mantenimiento estaba **Charlie Taylor**, el mecánico de los hermanos Wright —el hombre que había construido a mano el motor del Flyer de 1903—, contratado por 70 dólares a la semana para seguir el vuelo y dejar el avión en condiciones cada mañana.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El avión que llegó no era el que salió
+### El avión que llegó no era el que salió
 
 La estadística más elocuente de la travesía no es la distancia, sino lo que quedó del aparato. Entre los cinco accidentes graves, las dos explosiones de motor y las decenas de incidentes menores, el Vin Fiz hubo de ser reconstruido en ruta una y otra vez con las piezas que viajaban en el tren.
 

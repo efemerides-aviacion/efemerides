@@ -55,9 +55,22 @@ A principios de la década de 1930, la aviación comercial y ejecutiva estaba en
 Walter Beech ya era una figura conocida en la industria. Había cofundado Travel Air en 1924 junto a Lloyd Stearman y Clyde Cessna, y luego se había desempeñado como vicepresidente de Curtiss-Wright. Su esposa, Olive Ann Mellor, había sido su secretaria en Travel Air y se había ganado una reputación como administradora astuta. La prensa local siguió de cerca el regreso de los Beech a Wichita en abril de 1932, y Walter declaró a los periodistas que había vuelto para formar una nueva compañía y realizar "experimentos ambiciosos" que revolucionarían la aviación comercial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+## Desarrollo Cronológico
 
-## La Fundación: detalles relevantes
+- **19 de abril de 1932:** Se constituye legalmente la Beech Aircraft Company en Wichita, Kansas, con los cinco socios fundadores .
+- **4 de noviembre de 1932:** Primer vuelo del Beechcraft Model 17 Staggerwing, prototipo que alcanzó más de 200 mph .
+- **Junio de 1933:** Se vende la primera unidad del Modelo 17, salvando a la compañía de la bancarrota .
+- **1936:** Olive Ann Beech sugiere que la aviadora Louise Thaden compita en la carrera Bendix Trophy con un Staggerwing. Thaden gana la carrera, aportando gran publicidad a la compañía .
+- **1939-1945:** Durante la Segunda Guerra Mundial, Beechcraft produce más de 7.400 aviones para el esfuerzo bélico aliado, incluyendo 352 Staggerwing para las Fuerzas Aéreas del Ejército de EE.UU. y 67 para la Armada .
+- **1947:** Beechcraft introduce el Modelo 35 Bonanza, un monoplano de alto rendimiento que se convertiría en uno de los aviones más exitosos de la historia con más de 10.000 unidades construidas .
+- **1950:** Fallece Walter Beech; Olive Ann Beech asume la presidencia y se convierte en la primera mujer en liderar una empresa Fortune 500 .
+- **1964:** Beechcraft introduce el King Air Modelo 90, el primer turbopropulsor de cabina presurizada, que se convertiría en la línea de aviones ejecutivos más exitosa del mundo .
+- **1980:** Raytheon adquiere Beech Aircraft Corporation; Olive Ann Beech se retira en 1982. La compañía cambió de propietario varias veces (Raytheon, Goldman Sachs, Textron), pero la marca Beechcraft nunca desapareció.
+- **2014:** Textron Aviation (propietaria de Cessna) adquiere Beechcraft Corporation, que continúa como una marca del grupo Textron Aviation junto a Cessna y Hawker.
 
+### La Fundación: detalles relevantes
+
+El Beechcraft Model 17 nació en 1931 en el tablero de Ted Wells, empleado de Curtiss-Wright: el rechazo corporativo empujó a Walter Beech a renunciar, volver a Wichita con Olive Ann y fundar el 19 de abril de 1932, con 25.000 dólares y una planta inactiva de Cessna, la compañía que construiría el Staggerwing.
 ### El origen del diseño
 
 El germen del Beechcraft Model 17 nació en 1931, cuando Ted Wells, trabajando como ingeniero en Curtiss-Wright, dibujó los planos de un biplano de cabina cerrada con configuración de alas en flecha negativa. Wells creía que este diseño podía alcanzar los 200 mph, una velocidad excepcional para la época. Walter Beech, entonces vicepresidente de Curtiss-Wright, intentó convencer a la directiva de la compañía de que construyeran un prototipo, pero fue rechazado. Los ejecutivos argumentaron que no habría demanda para un biplano de cinco plazas tan caro y que la empresa debía concentrarse en aviones de transporte para las aerolíneas .
@@ -79,22 +92,6 @@ El equipo fundador de Beech Aircraft Company, constituido oficialmente el 19 de 
 ### Los primeros días
 
 La compañía comenzó a operar en una pequeña planta de Wichita, una antigua fábrica de Cessna que estaba inactiva. El capital inicial fue de solo 25.000 dólares. Los primeros meses fueron extremadamente difíciles. El Modelo 17 voló por primera vez el 4 de noviembre de 1932 , pero las ventas no llegaban. A mediados de 1933, la compañía estaba al borde de la insolvencia. La salvación llegó en junio de 1933, cuando se vendió el segundo Beechcraft construido. Esa única venta, por aproximadamente 8.000 dólares, mantuvo a flote a la empresa .
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Desarrollo Cronológico
-
-- **19 de abril de 1932:** Se constituye legalmente la Beech Aircraft Company en Wichita, Kansas, con los cinco socios fundadores .
-- **4 de noviembre de 1932:** Primer vuelo del Beechcraft Model 17 Staggerwing, prototipo que alcanzó más de 200 mph .
-- **Junio de 1933:** Se vende la primera unidad del Modelo 17, salvando a la compañía de la bancarrota .
-- **1936:** Olive Ann Beech sugiere que la aviadora Louise Thaden compita en la carrera Bendix Trophy con un Staggerwing. Thaden gana la carrera, aportando gran publicidad a la compañía .
-- **1939-1945:** Durante la Segunda Guerra Mundial, Beechcraft produce más de 7.400 aviones para el esfuerzo bélico aliado, incluyendo 352 Staggerwing para las Fuerzas Aéreas del Ejército de EE.UU. y 67 para la Armada .
-- **1947:** Beechcraft introduce el Modelo 35 Bonanza, un monoplano de alto rendimiento que se convertiría en uno de los aviones más exitosos de la historia con más de 10.000 unidades construidas .
-- **1950:** Fallece Walter Beech; Olive Ann Beech asume la presidencia y se convierte en la primera mujer en liderar una empresa Fortune 500 .
-- **1964:** Beechcraft introduce el King Air Modelo 90, el primer turbopropulsor de cabina presurizada, que se convertiría en la línea de aviones ejecutivos más exitosa del mundo .
-- **1980:** Raytheon adquiere Beech Aircraft Corporation; Olive Ann Beech se retira en 1982. La compañía cambió de propietario varias veces (Raytheon, Goldman Sachs, Textron), pero la marca Beechcraft nunca desapareció.
-- **2014:** Textron Aviation (propietaria de Cessna) adquiere Beechcraft Corporation, que continúa como una marca del grupo Textron Aviation junto a Cessna y Hawker.
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto

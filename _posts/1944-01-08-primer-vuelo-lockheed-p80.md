@@ -33,6 +33,7 @@ El 8 de enero de 1944, el prototipo Lockheed XP‑80 Shooting Star realizó su p
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
+El 8 de enero de 1944, el XP-80 de Kelly Johnson despegó de Muroc con Milo Burcham: con Alemania ya volando el Me 262, Estados Unidos aceleraba su propio caza a reacción —motor británico de partida, ala laminar— hacia el primer vuelo de un reactor operacional propio.
 ### Entorno social
 La Segunda Guerra Mundial impulsaba la carrera tecnológica. Alemania ya había probado el Messerschmitt Me 262, lo que motivó a EE.UU. a acelerar su propio programa.
 
@@ -42,6 +43,7 @@ El XP‑80 utilizó inicialmente el motor británico Halford H‑1B (Goblin), an
 ### Entorno cultural
 El vuelo fue símbolo del avance tecnológico estadounidense y del inicio de una nueva era en la aviación militar.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - 1943: inicio del proyecto XP‑80 en Lockheed.  
 - Noviembre 1943: entrega del primer fuselaje.  
@@ -49,11 +51,13 @@ El vuelo fue símbolo del avance tecnológico estadounidense y del inicio de una
 - 1945: introducción operacional como P‑80A Shooting Star.  
 - Década de 1950: derivados como el T‑33 y el F‑94 consolidan su legado.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 - Introducción de EE.UU. en la era del jet.  
 - Base para entrenadores y cazas posteriores.  
 - Participación en la Guerra de Corea.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 El P‑80 Shooting Star es recordado como el primer caza a reacción operacional estadounidense y precursor de generaciones de aviones de combate.
 

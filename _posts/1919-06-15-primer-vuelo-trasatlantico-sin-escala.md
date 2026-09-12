@@ -77,9 +77,7 @@ La rivalidad entre naciones por la conquista del aire estaba en su apogeo. El pr
 - **15 de junio de 1919 (tarde):** Son recibidos como héroes en Dublín; Winston Churchill, Secretario de Estado del Aire, les entrega el premio de £10.000 
 - **22 de junio de 1919:** El rey Jorge V los nombra caballeros en el Castillo de Windsor 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La odisea del vuelo: incidente por incidente
+### La odisea del vuelo: incidente por incidente
 
 El vuelo de Alcock y Brown fue una sucesión de emergencias que pondrían a prueba a cualquier aviador:
 
@@ -95,10 +93,9 @@ El vuelo de Alcock y Brown fue una sucesión de emergencias que pondrían a prue
 
 **El aterrizaje (6):** Al avistar la costa irlandesa, confundieron una ciénaga verde —Derrygimla Bog— con un campo de hierba. El avión aterrizó con fuerza, volcó y quedó atascado en el lodo, pero ambos pilotos salieron ilesos.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+### Los protagonistas
 
-## Los protagonistas
-
+El Vimy lo tripulaban el Capitán John Alcock, piloto de Manchester, y el Teniente Arthur Whitten Brown, navegante: juntos cruzaron el Atlántico en junio de 1919, ganaron las 10.000 libras del Daily Mail y fueron nombrados caballeros por Jorge V.
 ### Capitán John Alcock (1892-1919)
 
 Nacido en Manchester, Inglaterra, Alcock se interesó por la aviación a los 17 años y obtuvo su licencia de piloto en noviembre de 1912. Durante la Primera Guerra Mundial fue derribado sobre el mar frente a las costas de Turquía y pasó el resto de la guerra como prisionero. Tras su liberación, trabajó como piloto de pruebas para Vickers. Trágicamente, falleció el 18 de diciembre de 1919, apenas seis meses después de su hazaña, al estrellarse mientras pilotaba un avión en una exhibición aérea en París. Tenía 27 años.
