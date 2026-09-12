@@ -17,6 +17,7 @@ image: 1911-01-30-amerizaje-rescate-de-mccurdy-y-aeronave.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 30 de enero de 1911, el aviador canadiense J.A.D. McCurdy intentó el primer vuelo sin escalas entre Key West (Florida) y La Habana (Cuba) a bordo de un biplano Curtiss. Cuando se encontraba a solo 16 km de la costa cubana y tras dos horas de vuelo, una avería en el motor lo obligó a amerizar cerca de los destructores estadounidenses USS Terry y USS Paulding, que lo rescataron junto a su aeronave. Este operativo constituyó el primer rescate aéreo exitoso en el mar de la historia y, aunque el piloto no logró su objetivo, las autoridades cubanas le otorgaron el premio de 8.000 dólares por su hazaña.</p>
 </div>
@@ -51,6 +52,22 @@ El intento de McCurdy fue un hito en la aviación temprana, al combinar la ambic
 - El intento reforzó la idea de la aviación como medio de unión internacional.  
 - La presencia de autoridades cubanas y estadounidenses otorgó legitimidad política y cultural al evento.  
 - El rescate fue celebrado como símbolo de cooperación y valentía.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Desarrollo Cronológico
+- **Antes del intento:** J.A.D. McCurdy, piloto de pruebas de la casa Curtiss, prepara un biplano Curtiss Model D «Pusher» adaptado con flotadores para amerizar en caso de emergencia; la US Navy despliega destructores y torpederos en la ruta como apoyo.  
+- **30 de enero de 1911:** despega de Key West (Florida) rumbo a La Habana (Cuba), un trayecto previsto de 170 km sobre mar abierto.  
+- **El vuelo:** tras unas dos horas y 96 millas recorridas (~154 km), una fuga de aceite deja el motor fuera de servicio y McCurdy ameriza a unos 16 km de la costa cubana, a la vista de los buques de apoyo.  
+- **El rescate:** el bote salvavidas del destructor USS Terry recoge al aviador del agua; luego es llevado a bordo del USS Paulding, que intenta izar la aeronave dañada.  
+- **Después:** aunque el objetivo no se cumplió, las autoridades cubanas le reconocen oficialmente la hazaña y le otorgan el premio de 8.000 dólares.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Consecuencias e Impacto
+El episodio constituyó el primer rescate exitoso de un aviador en el mar por la US Navy y validó en la práctica la cooperación entre la aviación naciente y la Armada: los buques desplegados como apoyo pasaron de espectadores a protagonistas del salvamento. El premio cubano sentó el precedente de reconocer oficialmente un intento fallido por su valor técnico y simbólico, y la aeronave recuperada —reparada y empleada después en vuelos de exhibición en Cuba— demostró que un amerizaje forzoso no era forzosamente el final de un aeroplano.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 - Constituyó el primer rescate exitoso de un aviador en el mar por la US Navy.  

@@ -57,6 +57,8 @@ La aviación militar estaba en sus albores. En 1914, cuando estalló la guerra, 
 
 La figura del "as de la aviación" nació durante la Primera Guerra Mundial. Pilotos como Oswald Boelcke, Manfred von Richthofen y Ernst Udet se convirtieron en héroes nacionales en Alemania. La prensa difundía sus hazañas, y sus aviones, pintados con colores llamativos, eran fácilmente reconocibles. Meyer Baldó adoptó como insignia personal el dibujo de un perro babeante ("Bóxer Babeante") en su Fokker D.VII, una marca desafiante hacia sus enemigos.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Desarrollo Cronológico
 
 - **21 de abril de 1895:** Nace Carlos Otto Meyer Baldó en Maracaibo, Venezuela.
@@ -78,9 +80,7 @@ La figura del "as de la aviación" nació durante la Primera Guerra Mundial. Pil
 - **1931:** Ingresa a la Aviación Militar Venezolana como inspector e instructor, con el rango de teniente.
 - **27 de noviembre de 1933:** Fallece en un accidente aéreo en Maracay mientras realizaba acrobacias en un biplano Stearman C-3B.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Trayectoria en la Primera Guerra Mundial
+### Trayectoria en la Primera Guerra Mundial
 
 La participación de Carlos Meyer Baldó en la Gran Guerra fue un conjunto de casualidades y decisiones personales que lo llevaron desde la caballería hasta los cielos de Europa. Su origen venezolano, su ciudadanía alemana y su determinación lo convirtieron en el único latinoamericano en integrar el legendario "Circo Volante" del Barón Rojo.
 
@@ -113,9 +113,7 @@ Además, se le atribuyen tres derribos no confirmados y un derribo compartido co
 
 Meyer Baldó pintó en el fuselaje de su Fokker D.VII la figura de un perro babeante (un boxer), como un gesto desafiante hacia sus enemigos. Esta imagen se ha convertido en un símbolo asociado a su leyenda.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## Regreso a Venezuela y fundación de la Fuerza Aérea
+### Regreso a Venezuela y fundación de la Fuerza Aérea
 
 Tras la derrota alemana y un breve período de inestabilidad en la República de Weimar, Meyer Baldó decidió retornar a su tierra natal en 1926. Aunque al principio se dedicó a negocios familiares, su pasión por la aviación y su amistad con Florencio Gómez Núñez lo llevaron a convertirse en uno de los pilares de la naciente Aviación Militar Venezolana.
 
@@ -133,7 +131,13 @@ A pesar de las objeciones de algunos sectores militares (que veían con recelo s
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Muerte y legado
+## Consecuencias e Impacto
+
+Meyer Baldó quedó fijado como el único as de caza venezolano de la Primera Guerra Mundial: cuatro derribos confirmados —dos británicos y dos franceses—, dos Cruces de Hierro y una herida en combate en julio de 1917 de la que se recuperó para seguir volando. Su consecuencia más duradera, sin embargo, está en Venezuela: su experiencia de guerra, actualizada en Estados Unidos, se transfirió a la naciente Aviación Militar como inspector e instructor desde 1931, pese a las objeciones por haber servido a una potencia extranjera, llevar más de una década sin volar y chocar con el Tratado de Versalles. Ese puente entre el «Circo Volante» y Maracay lo convirtió en el eslabón vivo entre la aviación de combate europea y la fuerza aérea de su país natal.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
+## Legado
 
 El 27 de noviembre de 1933, un accidente aéreo en Maracay puso fin a la vida de este pionero. Sin embargo, su memoria perdura en la Fuerza Aérea Venezolana a través de múltiples honores que reconocen su contribución a la aviación nacional.
 

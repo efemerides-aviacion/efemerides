@@ -17,6 +17,7 @@ image: 1793-01-09-primer-vuelo-globo-estados-unidos.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 9 de enero de 1793, el aeronauta francés Jean-Pierre Blanchard realizó el primer vuelo en globo de la historia en América, despegando desde Filadelfia ante el presidente George Washington y otros futuros mandatarios. El vuelo duró 46 minutos, recorrió 24 km y portó la primera carta aérea de Estados Unidos.</p>
 </div>
@@ -56,6 +57,24 @@ El vuelo de Blanchard en Filadelfia marcó la llegada de la aerostación al cont
 - El aterrizaje cerca del "Roble Clement" en Nueva Jersey se convirtió en un símbolo local.
 - La aerostación se integró en la cultura ilustrada de finales del siglo XVIII.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Desarrollo Cronológico
+
+- **1785:** Jean-Pierre Blanchard protagoniza el primer cruce del Canal de la Mancha en globo, la hazaña que lo consagra como el aeronauta más célebre de Europa.  
+- **9 de enero de 1793, 10:00:** asciende desde el patio interior de la prisión de Walnut Street, en Filadelfia, ante el presidente George Washington y una multitud que incluye a los futuros presidentes John Adams, Thomas Jefferson, James Madison y James Monroe.  
+- **El vuelo:** 46 minutos y 24 km en dirección sudeste, a unos 366 metros de altura (1.200 pies), con instrumentos científicos y un perro a bordo; cruza el río Delaware por aire.  
+- **Aterrizaje:** desciende cerca de Deptford, en el condado de Gloucester (Nueva Jersey), donde lo auxilian agricultores locales; a las 18:30 está de vuelta en Filadelfia relatando el viaje a Washington.  
+- **La carta:** la misiva de presentación que Washington le confió antes de partir se convierte, al entregarse, en la primera carta transportada por aire en Estados Unidos.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Consecuencias e Impacto
+
+El vuelo hizo de la aerostación una causa de la nación naciente: el interés personal de los padres fundadores —Franklin había presenciado los primeros globos en París en 1783 y Washington pedía apoyo público para los aeronautas— ayudó a que los estadounidenses abrazaran las posibilidades del vuelo. La carta de Washington sentó el precedente del correo aéreo, el aterrizaje junto al «Roble Clement» dotó al episodio de un símbolo local duradero y la hazaña instaló la idea de que dominar el aire era un proyecto colectivo, no una curiosidad de feria.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Legado
 
 - Consolidó a Blanchard como pionero de la aeronáutica, tras su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html" style="color: #315fea; text-decoration: none;">cruce del Canal de la Mancha en 1785</a>.
@@ -77,6 +96,7 @@ El vuelo de Blanchard en Filadelfia marcó la llegada de la aerostación al cont
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Las fuentes difieren en la altura alcanzada por el globo (entre 366 y 1.768 metros). Esta efeméride adopta la cifra más conservadora (366 m) como referencia principal.</p>
 </div>

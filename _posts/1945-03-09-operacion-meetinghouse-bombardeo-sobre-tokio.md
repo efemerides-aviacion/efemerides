@@ -17,6 +17,7 @@ image: 1945-03-09-operacion-meetinghouse-bombardeo-sobre-tokio.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>La noche del 9 al 10 de marzo de 1945, la Operación Meetinghouse, liderada por el General Curtis LeMay, desató el bombardeo con explosivos convencionales más mortífero de la historia sobre Tokio. Casi 300 bombarderos B-29 lanzaron 1.665 toneladas de bombas incendiarias de napalm, provocando una tormenta de fuego que arrasó 41 km² de la ciudad y causó más de 100.000 víctimas mortales inmediatas, superando en número a Hiroshima o Nagasaki en su momento inicial.</p>
 </div>
@@ -49,6 +50,22 @@ El bombardeo de Tokio del 9 al 10 de marzo de 1945 fue el ataque aéreo convenci
 - La destrucción de templos, escuelas y centros comunitarios supuso un golpe simbólico y cultural, además de material.  
 - El trauma colectivo quedó marcado por relatos de supervivientes que describieron “ríos de fuego” y temperaturas insoportables.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Desarrollo Cronológico
+- **1944:** con las Islas Marianas en manos aliadas, los B-29 Superfortress quedan al alcance operativo del archipiélago japonés.  
+- **Principios de 1945:** el General Curtis LeMay asume el mando del XXI Mando de Bombardeo y cambia la táctica: ataques nocturnos a baja altitud (1.500–2.700 m) con bombas incendiarias, buscando quebrar la moral japonesa y forzar el fin de la guerra.  
+- **Noche del 9 al 10 de marzo de 1945:** más de 300 B-29 despegan de las Marianas rumbo a Tokio y descargan unas 1.665 toneladas de bombas incendiarias M-69 con napalm sobre los barrios populares de madera y papel.  
+- **Madrugada del 10:** los focos se fusionan en una tormenta de fuego que arrasa 41 km² de la capital, destruye 267.171 edificios y deja sin hogar a más de un millón de personas.  
+- **Balance:** unas 105.400 víctimas mortales inmediatas, la cifra más alta de cualquier bombardeo aéreo de la historia.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Consecuencias e Impacto
+Meetinghouse fue el bombardeo con explosivos convencionales más mortífero jamás ejecutado y un punto de giro en la táctica aérea aliada: validó el bombardeo incendiario nocturno a baja cota como método y arrasó buena parte de la industria, los ferrocarriles y la infraestructura de la capital japonesa. El golpe a la moral y a la base productiva, sumado al impulso psicológico que dio a las tropas aliadas, aceleró probablemente la victoria; en Tokio, la destrucción de templos, escuelas y centros comunitarios añadió al desastre material una herida cultural que los supervivientes transmitirían durante generaciones.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Legado
 - El ataque destruyó 41 km² de la capital y causó más de 100.000 muertes inmediatas.  
 - Fue el bombardeo aéreo más mortífero de la historia, pero quedó eclipsado en la memoria mundial por Hiroshima y Nagasaki.  
@@ -69,6 +86,7 @@ El bombardeo de Tokio del 9 al 10 de marzo de 1945 fue el ataque aéreo convenci
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> Las cifras de víctimas varían según las fuentes, oscilando entre 90.000 y 105.400 muertos. El área devastada se estima entre 25% y 30% de la ciudad. Esta efeméride adopta las cifras más actualizadas (2011) de la fuente primaria "Tokyo Memorial Hall (Yūshūkan"), que elevan el número de víctimas a 105.400 y el área destruida a 41 km².</p>
 </div>
