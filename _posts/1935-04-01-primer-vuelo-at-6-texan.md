@@ -35,7 +35,7 @@ image: 1935-04-01-primer-vuelo-at-6-texan.webp
 
 La década de 1930 fue un periodo de profunda transformación para la aviación militar estadounidense. El Cuerpo Aéreo del Ejército (USAAC) buscaba modernizar su flota, pasando de biplanos de madera y tela a monoplanos metálicos de mayor rendimiento. Paralelamente, la doctrina de entrenamiento evolucionaba hacia un concepto integral que permitiera a los pilotos transitar sin fricción desde la instrucción elemental hasta los cazas y bombarderos de última generación.
 
-### Entorno social y económico
+### Entorno social
 North American Aviation (NAA) fue fundada en 1928 y reorganizada en 1933 bajo la dirección de James H. "Dutch" Kindelberger y J. Lee Atwood. La empresa, ubicada inicialmente en Dundalk, Maryland, buscaba consolidarse en un mercado dominado por Boeing, Curtiss-Wright y Douglas. La especificación del USAAC para un nuevo entrenador básico (que luego evolucionaría a entrenador de combate básico) ofreció la oportunidad perfecta para demostrar su capacidad innovadora.
 
 ### Entorno tecnológico
@@ -43,6 +43,8 @@ El diseño del NA-16 incorporó innovaciones aerodinámicas y estructurales: ala
 
 ### Entorno cultural
 El espíritu de la aviación en los años treinta estaba marcado por el récord y la competición. North American apostó por un diseño simple pero evolutivo, priorizando la fiabilidad y la facilidad de producción. La rápida gestación del prototipo (apenas diez semanas desde los primeros bocetos hasta el primer vuelo) reflejó la agilidad de la compañía y su compromiso con las necesidades militares.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -57,9 +59,7 @@ El espíritu de la aviación en los años treinta estaba marcado por el récord 
 - **1949–1953:** Remanufactura de T-6G, con cabina modernizada y mejoras estructurales.
 - **1995:** Retiro oficial del último T-6 de la Fuerza Aérea Sudafricana, el último operador militar de la versión original.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Aeronaves y motores clave
+### Aeronaves y motores clave
 
 - **NA-16 (prototipo):** motor Wright R-975 Whirlwind de 400 hp. Primer vuelo en 1935. Tren de aterrizaje fijo y cabina abierta en tándem. Base de toda la familia.
 - **BT-9:** motor Wright R-975. Entrenador básico de producción entre 1936 y 1939. Tren fijo y cabina cerrada.

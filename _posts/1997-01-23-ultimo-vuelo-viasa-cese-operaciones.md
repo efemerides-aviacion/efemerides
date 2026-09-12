@@ -43,17 +43,17 @@ image: 1997-01-23-ultimo-vuelo-viasa-cese-operaciones.webp
 
 Viasa fue la aerolínea bandera de Venezuela durante 37 años, símbolo de modernidad y conexión internacional en una época dorada de la aviación venezolana.
 
-### Entorno social y económico
+### Entorno social
 Venezuela vivió en las décadas de 1960 y 1970 un auge económico impulsado por los altos precios del petróleo. Viasa se convirtió en un orgullo nacional, llevando el tricolor venezolano a destinos como Madrid, París, Londres, Frankfurt, Roma, Ámsterdam, Nueva York, Miami y Tokio. Para generaciones de venezolanos e inmigrantes europeos que llegaron al país en esos años, "viasar" se convirtió en sinónimo de volar con estilo y confianza. Sin embargo, el declive económico de la década de 1980 y las políticas de ajuste estructural del FMI afectaron gravemente la viabilidad de la aerolínea.
 
 ### Entorno tecnológico
 Viasa operó una de las flotas más modernas de América del Sur. En los años 60 contó con Convair 880 (el avión comercial más rápido de su época), DC-8 y DC-9. En los años 70 incorporó Boeing 747 y DC-10, y en los 80 añadió el Airbus A300. Sin embargo, mantener una flota diversa y de largo radio era extremadamente costoso, especialmente tras las crisis del petróleo de 1973 y 1979.
 
-### Entorno político y empresarial
-La historia de Viasa estuvo marcada por cambios de propiedad:
-- **1960-1975:** Empresa mixta con participación estatal mayoritaria (51%) y privada (49%).
-- **1975:** Nacionalizada por el gobierno de Carlos Andrés Pérez debido a dificultades financieras.
-- **1991:** Privatizada en el marco de las reformas neoliberales. Un consorcio liderado por Iberia (45%) y el Banco Provincial (15%) adquirió el 60% de las acciones, manteniendo el Estado venezolano el 40% restante.
+### Entorno cultural
+
+Viasa trascendió lo empresarial para instalarse en la cultura venezolana. Llevar el tricolor por medio mundo la volvió orgullo nacional, al punto que entre los venezolanos y los inmigrantes europeos de las décadas de 1960 y 1970 "viasar" se volvió sinónimo de volar, y su cierre en 1997 dejó una nostalgia que aún perdura.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -71,12 +71,22 @@ La historia de Viasa estuvo marcada por cambios de propiedad:
 - **8 de febrero de 1997:** Asamblea de accionistas. Iberia se niega a seguir inyectando capital y el Estado venezolano tampoco aporta fondos.
 - **Marzo de 1997:** Se acuerda la liquidación definitiva de la compañía.
 
+### Entorno político y empresarial
+La historia de Viasa estuvo marcada por cambios de propiedad:
+- **1960-1975:** Empresa mixta con participación estatal mayoritaria (51%) y privada (49%).
+- **1975:** Nacionalizada por el gobierno de Carlos Andrés Pérez debido a dificultades financieras.
+- **1991:** Privatizada en el marco de las reformas neoliberales. Un consorcio liderado por Iberia (45%) y el Banco Provincial (15%) adquirió el 60% de las acciones, manteniendo el Estado venezolano el 40% restante.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 
 - **Impacto social y laboral:** 2.400 trabajadores perdieron sus empleos de forma abrupta. Muchos pilotos y sobrecargos se enteraron del cierre por los medios de comunicación.
 - **Pérdida de conectividad internacional:** Venezuela quedó sin aerolínea bandera, lo que afectó su presencia internacional y el turismo receptivo. Otras aerolíneas (Iberia, Air France, American Airlines) absorbieron parte de las rutas, pero a precios más elevados.
 - **Crisis diplomática:** El cierre generó tensiones entre los gobiernos de Venezuela y España. El gobierno venezolano culpó a Iberia de la quiebra, mientras que Iberia señaló la falta de apoyo del socio estatal.
 - **Consecuencias legales:** Años después, en 2007, la Fiscalía General de Venezuela solicitó el inicio de un juicio contra los primeros sospechosos de la quiebra de Viasa.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
@@ -98,6 +108,8 @@ A pesar de su trágico final, Viasa permanece en la memoria colectiva de Venezue
     <li><a href="https://www.travelweekly.com/Travel-News/Airline-News/Viasa-Is-Unlikely-to-Resume-Service-Airline-Observers-Say" style="color: #315fea; text-decoration: none;">Travel Weekly – Viasa Is Unlikely to Resume Service</a></li>
   </ul>
 </div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> No se ha podido confirmar la matrícula específica del DC-10 que operó el último vuelo VA3735 (Billund-Porlamar). Algunas fuentes mencionan que el último servicio regular de DC-10 de Viasa fue operado por la matrícula YV-139C el 18 de enero de 1997, pero no se especifica si esa misma aeronave realizó el chárter final del 23 de enero. Tampoco se ha encontrado una fotografía específica de ese avión en ese vuelo. La imagen utilizada en esta efeméride corresponde a otro DC-10 de la flota de Viasa en fecha anterior (Zúrich, 1996) y se incluye a título ilustrativo. Las cifras de empleados afectados varían según la fuente (entre 2.250 y 2.400); se ha optado por la horquilla más amplia. La deuda con Iberia (151 millones de dólares) y las pérdidas acumuladas (144-188 millones) están documentadas en fuentes periodísticas de la época.</p>

@@ -48,17 +48,17 @@ A principios de la década de 1990, Etiopía se encontraba sumida en una guerra 
 
 La comunidad Beta Israel, de unos 20.000 miembros, había mantenido su identidad judía durante siglos en relativo aislamiento. Sin embargo, desde mediados de la década de 1970, las condiciones de vida se habían deteriorado drásticamente. La guerra civil y la hambruna agravaron la situación, y las organizaciones judías internacionales presionaban para lograr su evacuación.
 
-### Entorno político
-
-El gobierno israelí había intentado durante años negociar la salida de los judíos etíopes, pero el régimen de Mengistu solo permitía emigraciones limitadas a cambio de armamento. La situación cambió drásticamente el 22 de mayo de 1991, cuando el gobierno de Estados Unidos presionó al régimen etíope para permitir la salida de los judíos .
-
 ### Entorno tecnológico
 
 Los Boeing 747 de El Al fueron modificados para la operación: se retiraron todos los asientos para maximizar el espacio disponible. Las aeronaves de la Fuerza Aérea israelí (C-130 Hercules) también participaron en el operativo. Para evitar ser detectados y garantizar la seguridad, se pintaron sobre las marcas de identificación israelíes en todos los aviones.
 
+### Entorno cultural
+
+Para la comunidad Beta Israel, que había conservado su identidad judía durante siglos de aislamiento, el puente aéreo de mayo de 1991 tuvo una dimensión de retorno largamente esperado. Que dos niños nacieran durante el vuelo récord y que miles de evacuados llegaran a Tel Aviv en apenas 36 horas convirtió la operación en un símbolo moderno del regreso, celebrado tanto por los recién llegados como por quienes los recibieron.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico de la Operación
+## Desarrollo Cronológico
 
 - **22 de mayo de 1991:** El gobierno de Estados Unidos, a través de su embajador en Adís Abeba, presiona al régimen de Mengistu Haile Mariam para que permita la salida de los judíos etíopes. El acuerdo se alcanza en cuestión de horas .
 - **23 de mayo de 1991:** Se notifica a las comunidades judías etíopes que deben reunirse en la embajada israelí. Se pegan números en las frentes de los niños para mantener el control de los grupos familiares.
@@ -70,9 +70,11 @@ Los Boeing 747 de El Al fueron modificados para la operación: se retiraron todo
 - **24-25 de mayo de 1991 (36 horas):** Se completan 40 vuelos en total (24 de la Fuerza Aérea israelí y 10 de El Al, más 6 de aerolíneas etíopes). Se transportan 14.325 judíos etíopes a Israel.
 - **Llegada a Tel Aviv:** Los recién llegados son recibidos por altos funcionarios del gobierno israelí y la Agencia Judía. Muchos besan el suelo al salir del avión. Solo 195 personas requieren hospitalización.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+### Entorno político
 
-## El Récord Guinness y las Cifras Discrepantes
+El gobierno israelí había intentado durante años negociar la salida de los judíos etíopes, pero el régimen de Mengistu solo permitía emigraciones limitadas a cambio de armamento. La situación cambió drásticamente el 22 de mayo de 1991, cuando el gobierno de Estados Unidos presionó al régimen etíope para permitir la salida de los judíos .
+
+### El Récord Guinness y las Cifras Discrepantes
 
 Guinness World Records certificó oficialmente el récord con la cifra de **1.088 pasajeros** en un Boeing 747 de El Al el 24 de mayo de 1991.
 

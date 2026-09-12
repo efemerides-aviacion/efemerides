@@ -48,7 +48,7 @@ image: 2009-12-11-primer-vuelo-airbus-a400m-atlas.webp
 
 El A400M nació de la necesidad de Europa de un avión de transporte militar propio, independiente de los diseños estadounidenses como el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1954/08/23/primer-vuelo-c130-hercules.html" style="color: #315fea; text-decoration: none;">C-130 Hercules</a>, en producción ininterrumpida desde su primer vuelo en 1954. El programa enfrentó numerosos obstáculos, incluyendo disputas políticas, fallos técnicos y sobrecostos millonarios.
 
-### Entorno social y geopolítico
+### Entorno social
 Siete naciones europeas (Bélgica, Francia, Alemania, Luxemburgo, España, Turquía y Reino Unido) se comprometieron inicialmente a comprar 180 unidades. El programa fue gestionado por OCCAR (Organización para la Cooperación en materia de Armamento), una entidad europea de defensa. En 2009, cuando el A400M finalmente voló, algunos países (como Alemania) habían amenazado con cancelar sus pedidos debido a los retrasos y sobrecostos. España, sede de la línea de ensamblaje final en Sevilla, mantuvo un firme respaldo.
 
 ### Entorno tecnológico
@@ -60,6 +60,8 @@ El A400M incorpora innovaciones significativas:
 
 ### Entorno cultural
 El A400M es considerado el mayor programa de defensa cooperativo europeo. Su nombre "Atlas" (titán de la mitología griega que sostiene el cielo) evoca fuerza y fiabilidad. El apodo "Grizzly" para el prototipo fue elegido por los ingenieros como un guiño al oso pardo europeo, símbolo de robustez.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
@@ -91,7 +93,7 @@ El A400M es considerado el mayor programa de defensa cooperativo europeo. Su nom
 
 El Airbus A400M Atlas es hoy el avión de transporte militar más avanzado de Europa. Ha participado en misiones humanitarias (terremoto de Turquía-Siria 2023, evacuación de Afganistán 2021), operaciones militares (Mali, Iraq) y reabastecimiento aéreo de cazas Eurofighter, Rafale y Typhoon. El prototipo MSN001, conservado en el Museo Aeroscopia de Toulouse (junto al Concorde F-BVFB y al Airbus A380 MSN001), es un testimonio de la cooperación industrial europea y de la perseverancia ante la adversidad. En 2019, el A400M superó las 100.000 horas de vuelo; en 2024, las 200.000. El programa ha enfrentado críticas por costos (el precio unitario alcanzó los 150 millones de euros), pero sigue siendo un orgullo para la industria aeronáutica europea.
 
-## Estado actual del programa (2026)
+### Estado actual del programa (2026)
 
 El Airbus A400M Atlas ha consolidado su posición como el avión de transporte militar más avanzado de Europa. A marzo de 2026, el programa acumula los siguientes hitos:
 
@@ -107,9 +109,7 @@ El Airbus A400M Atlas ha consolidado su posición como el avión de transporte m
 
 El programa, que enfrentó retrasos y sobrecostos en sus inicios, ha demostrado su valía en misiones humanitarias, operaciones militares y reabastecimiento aéreo. Airbus Defence and Space continúa ofreciendo el A400M a nuevos clientes potenciales en Asia, Oriente Medio y Sudamérica, compitiendo directamente con el Lockheed Martin C-130J Super Hercules.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Discrepancias encontradas y resueltas
+### Discrepancias encontradas y resueltas
 
 - **Duración del vuelo:** Algunas fuentes mencionan "3 horas y 45 minutos"; otras "3 horas y 47 minutos". Se adopta la cifra de 3 horas 47 minutos, que es la más repetida en las fuentes oficiales.
 - **Matrícula del prototipo:** La matrícula temporal era F-WWMT (para vuelos de prueba). Posteriormente se le asignó EC-404 (matrícula española de pruebas). No hay contradicción, son dos matrículas en momentos distintos.
@@ -140,6 +140,6 @@ El programa, que enfrentó retrasos y sobrecostos en sus inicios, ha demostrado 
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
 - **Fuentes primarias/institucionales consultadas:** Airbus (página oficial y comunicado de prensa), Wikipedia (EN/ES, incluida la página del motor TP400-D6), FlightGlobal, Defensa.com, New Atlas
-- **Discrepancias resueltas:** Duración del vuelo (3h 47min confirmada); matrículas (F-WWMT temporal, EC-404 definitiva de pruebas); potencia del motor (corregida a 11.000 shp / 8.200 kW); horas totales del MSN001 (1.448)
+- **Discrepancias resueltas:** Duración del vuelo (3h 47min confirmada); matrículas sucesivas, temporal F-WWMT y española definitiva de pruebas; potencia del motor (11.000 shp / 8.200 kW); horas totales del MSN001 (1.448)
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

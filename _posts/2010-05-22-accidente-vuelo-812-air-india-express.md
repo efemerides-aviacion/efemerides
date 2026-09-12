@@ -49,12 +49,12 @@ Mangalore es una ciudad portuaria en el estado de Karnataka, con una alta densid
 ### Entorno tecnológico
 El Boeing 737-800 era un avión moderno (fabricado en 2007) y ampliamente utilizado en todo el mundo. Contaba con sistemas de alerta de proximidad al suelo (EGPWS) y grabadoras de datos de vuelo (FDR) y de voz en cabina (CVR). Sin embargo, el aeropuerto de Mangalore presentaba una configuración peligrosa: era un aeropuerto de «meseta» (table-top), construido en la cima de una colina, con la pista elevada y valles profundos en ambos extremos. La pista 24 tenía una longitud de 2.450 metros, insuficiente para detener un avión que aterrizara con exceso de velocidad o más allá del punto de toma de contacto previsto.
 
-### Entorno cultural y operacional
+### Entorno cultural
 En la aviación india de la época, existían preocupaciones recurrentes sobre la fatiga de los pilotos debido a los horarios irregulares y la alta demanda de vuelos nocturnos. El vuelo IX-812 operaba durante la "ventana de baja circadiana" (Window of Circadian Low, WOCL), el período entre las 02:00 y las 05:59, cuando la temperatura corporal, el estado de alerta y la capacidad de mantener la vigilia son más bajos. Además, el radar de área de Mangalore estaba fuera de servicio, lo que obligaba a los vuelos a seguir una aproximación más corta y exigente.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-## Desarrollo Cronológico del Accidente
+## Desarrollo Cronológico
 
 - **21 de mayo de 2010, 23:00 hora local (Dubái):** El vuelo 812 despega del Aeropuerto Internacional de Dubái con destino a Mangalore. La duración prevista del vuelo es de aproximadamente 3 horas y 30 minutos.
 - **Durante el vuelo:** La grabadora de voz en cabina (CVR) registra patrones de respiración típicos del sueño profundo del Capitán Zlatko Glušica. Permanece dormido durante al menos 1 hora y 40 minutos. La grabación captó ronquidos.
@@ -69,9 +69,7 @@ En la aviación india de la época, existían preocupaciones recurrentes sobre l
 - **06:24:28:** La aeronave atraviesa la valla perimetral, cae por un terraplén de 9 metros de profundidad y se desliza por un barranco boscoso. El avión se parte en varias secciones y explota en llamas.
 - **Rescate:** Solo 8 de los 166 ocupantes sobreviven. Ninguno de los supervivientes pertenece a la tripulación de vuelo o de cabina. Un superviviente, Mohammad Umer Farooqi, declaró que saltó del avión a través de un agujero en el fuselaje .
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-## Investigación y Causas
+### Investigación y Causas
 
 La investigación estuvo a cargo de una comisión de investigación judicial (Court of Inquiry) encabezada por el Mariscal del Aire (retirado) B. N. Gokhale, dependiente del Ministerio de Aviación Civil de India, con asistencia de la Junta de Seguridad en el Transporte de Canadá (TSB) y la Junta Nacional de Seguridad en el Transporte de Estados Unidos (NTSB). El informe final se publicó en abril de 2011.
 

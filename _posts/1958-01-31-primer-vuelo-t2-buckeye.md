@@ -39,12 +39,18 @@ image: 1958-01-31-primer-vuelo-t2-buckeye.webp
 ## Contexto Histórico
 El T-2 Buckeye representó un salto cualitativo en la formación de aviadores navales estadounidenses, al introducir un entrenador a reacción capaz de preparar pilotos para la transición a aeronaves de combate modernas y operaciones en portaaviones.
 
+### Entorno social
+
+A finales de la década de 1950, la marina estadounidense afrontaba en plena Guerra Fría la transición de la hélice a la reacción. Los pilotos navales pasaban de entrenadores básicos de pistón a cazas embarcados cada vez más exigentes, y la instrucción intermedia pedía un reactor noble y robusto, apto para preparar la futura operación en portaaviones que el Buckeye cubrió durante medio siglo.
+
 ### Entorno tecnológico
 - Primer entrenador jet básico/intermedio de la US Navy.  
 - Configuración robusta y sencilla, ideal para instrucción progresiva.  
 
 ### Entorno cultural
 Fue considerado un “trainer par excellence” por la Marina, ya que casi todos los aviadores navales estadounidenses pasaron por el Buckeye entre finales de los años 50 y 2008.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 - **1958:** Primer vuelo del prototipo YT2J-1.  
@@ -53,8 +59,12 @@ Fue considerado un “trainer par excellence” por la Marina, ya que casi todos
 - **Décadas siguientes:** Evolución a T-2B y T-2C.  
 - **2008:** Retirado y reemplazado por el T-45 Goshawk.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 El T-2 Buckeye consolidó la transición de la formación con aviones de hélice a jets, asegurando que generaciones de pilotos estuvieran preparados para operar cazas modernos en portaaviones.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 Entrenó a miles de aviadores navales y fue exportado a otros países, manteniéndose como símbolo de la formación naval durante medio siglo.
