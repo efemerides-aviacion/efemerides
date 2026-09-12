@@ -38,6 +38,8 @@ redirect_from:
 
 ## Contexto Histórico
 
+Arthur Harris nació en la Inglaterra victoriana tardía y mandó el Bomber Command en la época del bombardeo estratégico: su vida cruza el optimismo imperial de fin de siglo, la transformación del avión frágil de 1915 en el cuadrimotor de 1945 y la doctrina de Douhet y Trenchard que aplicó con una determinación sin precedentes.
+
 ### Entorno social
 Arthur Harris nació en la Inglaterra victoriana tardía, en una familia de clase media-alta. Su padre, George Harris, era funcionario del Servicio Civil de la India. La sociedad británica de finales del siglo XIX estaba dominada por el optimismo imperial y la confianza en el progreso tecnológico, pero también por rígidas estructuras de clase. Harris fue educado en la prestigiosa Sherborne School, aunque abandonó los estudios a los 16 años para emigrar a la actual Zambia (entonces Rodesia del Norte), donde trabajó como agricultor y buscador de oro.
 
@@ -79,7 +81,7 @@ La doctrina del bombardeo estratégico surgió en el periodo de entreguerras de 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Estado actual / Legado
+## Legado
 
 - **Monumento al Bomber Command (2012):** Inaugurado en Green Park, Londres, frente a Buckingham Palace. Harris aparece representado, pero su estatua en solitario (erigida en 1992 frente a la iglesia de St. Clement Danes) ha sido repetidamente vandalizada por grupos pacifistas.
 - **Revisión histórica:** Los historiadores actuales distinguen entre la necesidad de los bombardeos de 1942-1943 (cuando la invasión de Europa era inviable) y la cuestionable utilidad de incursiones como la de Dresde en 1945. La mayoría coincide en que Harris fue un comandante eficaz dentro de los parámetros de la guerra total, pero que careció de flexibilidad estratégica en la fase final del conflicto.

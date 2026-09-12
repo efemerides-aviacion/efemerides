@@ -55,7 +55,7 @@ La figura del "aeronauta" era una mezcla de científico, aventurero y showman. L
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Desarrollo Cronológico de sus Contribuciones Aeronáuticas
+## Desarrollo Cronológico
 
 - **1898:** Realiza su primera ascensión en globo acompañada por su padre, convirtiéndose en la primera mujer inglesa en hacer una ascensión "propiamente dicha" (es decir, no solo en un globo cautivo).
 
@@ -77,9 +77,9 @@ La figura del "aeronauta" era una mezcla de científico, aventurero y showman. L
 
 - **26 de agosto de 1919:** Se convierte en la primera mujer en volar en un servicio de línea aérea regular de Londres a Francia, en un bombardero Handley Page convertido.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+### Gertrude Bacon: perfil multidisciplinario
 
-## Gertrude Bacon: perfil multidisciplinario
+Gertrude Bacon no fue solo pasajera de globos, dirigibles, aviones e hidroaviones: fue conferencista y escritora de éxito, miembro de la Royal Astronomical Society y botánica junto a su padre, y usó su pluma y su voz para abrir el vuelo a las mujeres.
 
 ### La divulgadora científica
 

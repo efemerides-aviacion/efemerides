@@ -60,7 +60,7 @@ La Alemania nazi promovía la aviación como una actividad de élite y como prep
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Desarrollo Cronológico de su Vida y Carrera
+## Desarrollo Cronológico
 
 - **19 de abril de 1922:** Nace en Weissach, Württemberg, Alemania.
 - **1925-1929:** Vive con su familia en Changsha, China, donde su padre ejerce como médico.
@@ -86,9 +86,7 @@ La Alemania nazi promovía la aviación como una actividad de élite y como prep
 - **1970:** Se retira del servicio activo con el rango de Oberst (Coronel).
 - **20 de septiembre de 1993:** Fallece en Weil im Schönbuch, Alemania.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## El As de Ases: Táctica y Filosofía de Combate
+### El As de Ases: Táctica y Filosofía de Combate
 
 Lo que distinguió a Hartmann de otros ases no fue solo su número de victorias, sino el método y la filosofía con que las obtuvo. Desarrolló una táctica propia que maximizaba la sorpresa y minimizaba el riesgo, y mantuvo un código de conducta que protegió a sus compañeros y respetó a sus adversarios. Estas son las claves de su éxito.
 
@@ -162,6 +160,6 @@ Hartmann falleció el 20 de septiembre de 1993 en Weil im Schönbuch, Alemania, 
 
 - **Timestamp de verificación:** 2026-09-09 10:01:52 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN, GL), The Museum of Flight Archives, Guinness World Records, History Hit, SP's Aviation, La Vanguardia
-- **Discrepancias resueltas:** Las fuentes coinciden en las fechas de nacimiento y fallecimiento, así como en la cifra de 352 victorias. El año exacto de su mudanza a China varía entre 1925 y 1926 según las fuentes; se ha optado por 1925. La cifra de misiones de combate varía entre 1.404 y 1.425 según la fuente; se ha priorizado la del archivo del Museo de Vuelo (1.404).
+- **Discrepancias resueltas:** Las fuentes coinciden en las fechas de nacimiento y fallecimiento, así como en la cifra de 352 victorias. El año de la mudanza a China varía entre 1925 y 1926 (se consigna 1925). La cifra de misiones de combate varía entre mil cuatrocientas cuatro y 1.425 (se consigna la del archivo del Museo de Vuelo).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -16,9 +16,10 @@ image: 1912-06-07-primer-avion-ametralladora-charles-de-forest-chandler.webp
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
-
-El **7 de junio de 1912**, el Capitán **Charles deForest Chandler**, Jefe de la División de Aviación del Cuerpo de Señales del Ejército de los Estados Unidos, se convirtió en la primera persona en disparar una ametralladora montada en un avión. La prueba se realizó sobre **College Park, Maryland**, en un **Wright Model B** pilotado por el Teniente **Roy Carrington Kirtland**. El arma utilizada fue un prototipo de la **ametralladora Lewis**, diseñada por el Coronel **Isaac Newton Lewis**, notablemente más ligera que los modelos anteriores. Desde una altura de 30 metros, Chandler disparó contra un blanco blanco de 2 x 3 metros, alcanzándolo con **45 impactos de 50 disparos** (90% de precisión). Al día siguiente, repitió la prueba con **14 impactos de 44 disparos**. Este experimento demostró por primera vez que un avión podía portar y usar armamento automático en vuelo, sentando las bases para el desarrollo del caza armado que revolucionaría la guerra aérea durante la Primera Guerra Mundial.
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El **7 de junio de 1912**, el Capitán **Charles deForest Chandler**, Jefe de la División de Aviación del Cuerpo de Señales del Ejército de los Estados Unidos, se convirtió en la primera persona en disparar una ametralladora montada en un avión. La prueba se realizó sobre **College Park, Maryland**, en un **Wright Model B** pilotado por el Teniente **Roy Carrington Kirtland**. El arma utilizada fue un prototipo de la **ametralladora Lewis**, diseñada por el Coronel **Isaac Newton Lewis**, notablemente más ligera que los modelos anteriores. Desde una altura de 30 metros, Chandler disparó contra un blanco blanco de 2 x 3 metros, alcanzándolo con **45 impactos de 50 disparos** (90% de precisión). Al día siguiente, repitió la prueba con **14 impactos de 44 disparos**. Este experimento demostró por primera vez que un avión podía portar y usar armamento automático en vuelo, sentando las bases para el desarrollo del caza armado que revolucionaría la guerra aérea durante la Primera Guerra Mundial.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -35,6 +36,30 @@ El **7 de junio de 1912**, el Capitán **Charles deForest Chandler**, Jefe de la
 - **Resultado primera prueba:** 45 impactos de 50 disparos
 - **Resultado segunda prueba (8 de junio):** 14 impactos de 44 disparos
 - **Significado:** Primera demostración de disparo de ametralladora desde un avión
+
+### Especificaciones Técnicas
+
+A continuación se presentan las características técnicas de los dos elementos clave del experimento: la aeronave Wright Model B y la ametralladora Lewis utilizada por Chandler.
+
+### Wright Model B
+
+- **Fabricante:** Wright Company
+- **Tipo:** Biplano de observación
+- **Envergadura:** 12,2 m (40 pies)
+- **Longitud:** 9,4 m (31 pies)
+- **Motor:** Wright 4 cilindros en línea, 30-40 hp
+- **Velocidad máxima:** 65 km/h (40 mph)
+- **Tripulación:** 2 (piloto y observador)
+- **Configuración:** Tren de aterrizaje con ruedas; piloto y pasajero sentados en el borde de ataque del ala inferior
+
+### Ametralladora Lewis (prototipo de 1912)
+
+- **Calibre:**.30-06 Springfield (7,62 mm)
+- **Peso:** aproximadamente 12 kg (26 libras) sin cargador
+- **Cargador:** Tambor rotativo de 47 o 97 balas
+- **Principio:** Recarga por gas, enfriamiento por aire
+- **Cadencia de tiro:** 500-600 disparos por minuto
+- **Innovación:** Sistema de enfriamiento por aire que eliminaba la necesidad de agua, reduciendo significativamente el peso
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -66,9 +91,9 @@ El experimento de Chandler fue un hito en la transición del avión de "observad
 - **1915 (abril):** El piloto francés Roland Garros instala una ametralladora fija en su Morane-Saulnier L, utilizando deflectores de hélice para disparar a través del arco de la hélice.
 - **1915 (junio):** El piloto alemán Max Immelmann, en un Fokker E.I equipado con un sistema de sincronización de hélice (desarrollado por Anthony Fokker), obtiene la primera victoria aérea con un verdadero caza sincronizado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+### Protagonistas
 
-## Protagonistas
+Tres hombres hicieron la prueba del 7 de junio: el Capitán Chandler, Jefe de la División de Aviación, que disparó; el Teniente Kirtland, que pilotó el Wright Model B; y el Coronel Lewis, inventor del arma.
 
 ### Capitán Charles deForest Chandler (1878-1939)
 
@@ -81,32 +106,6 @@ Piloto del Wright Model B durante la prueba. Kirtland fue uno de los primeros pi
 ### Coronel Isaac Newton Lewis (1858-1931)
 
 Inventor de la ametralladora Lewis. Aunque el Ejército de EE. UU. rechazó inicialmente su diseño, la ametralladora Lewis fue adoptada por el Ejército británico en 1914 y se convirtió en una de las armas automáticas más utilizadas por los aliados durante la Primera Guerra Mundial, tanto en tierra como en el aire.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones Técnicas
-
-A continuación se presentan las características técnicas de los dos elementos clave del experimento: la aeronave Wright Model B y la ametralladora Lewis utilizada por Chandler.
-
-### Wright Model B
-
-- **Fabricante:** Wright Company
-- **Tipo:** Biplano de observación
-- **Envergadura:** 12,2 m (40 pies)
-- **Longitud:** 9,4 m (31 pies)
-- **Motor:** Wright 4 cilindros en línea, 30-40 hp
-- **Velocidad máxima:** 65 km/h (40 mph)
-- **Tripulación:** 2 (piloto y observador)
-- **Configuración:** Tren de aterrizaje con ruedas; piloto y pasajero sentados en el borde de ataque del ala inferior
-
-### Ametralladora Lewis (prototipo de 1912)
-
-- **Calibre:**.30-06 Springfield (7,62 mm)
-- **Peso:** aproximadamente 12 kg (26 libras) sin cargador
-- **Cargador:** Tambor rotativo de 47 o 97 balas
-- **Principio:** Recarga por gas, enfriamiento por aire
-- **Cadencia de tiro:** 500-600 disparos por minuto
-- **Innovación:** Sistema de enfriamiento por aire que eliminaba la necesidad de agua, reduciendo significativamente el peso
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

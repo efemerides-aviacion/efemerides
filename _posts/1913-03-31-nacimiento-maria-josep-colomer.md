@@ -52,6 +52,8 @@ La aviación española vivía su época dorada en las décadas de 1920 y 1930. E
 ### Entorno cultural
 En la España de 1931, que una mujer volara era un acontecimiento extraordinario. La obtención de su licencia fue portada de La Vanguardia el 22 de enero de 1931, y la Diputación de Barcelona le rindió un homenaje público . Su figura se convirtió en un símbolo de modernidad y emancipación femenina.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Desarrollo Cronológico
 
 - **1913 (31 de marzo):** Nace Maria Josep Colomer i Luque en Barcelona .
@@ -70,7 +72,15 @@ En la España de 1931, que una mujer volara era un acontecimiento extraordinario
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Reconocimientos y Legado
+## Consecuencias e Impacto
+
+La licencia de 1931 hizo de Colomer la tercera mujer piloto de España y la primera catalana, justo cuando se proclamaba la República, que sobrevoló con banderas republicanas. Como primera instructora del país formó pilotos, cofundó la Cooperativa de Trabajo Aéreo y la Escuela Catalana de Aviación, y durante la guerra formó a 70 pilotos de combate y voló misiones de abastecimiento, ambulancia aérea y propaganda. El exilio de 1939 cortó su carrera de vuelo para siempre: nunca volvió a pilotar profesionalmente.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
+## Legado
+
+Los homenajes a Colomer empezaron en vida y siguieron después de su muerte: el acto de la Generalitat en 2003, calles, jardines y una escuela con su nombre, un Airbus de Iberia bautizado «María Pepa Colomer» en 2023 y proyectos educativos que la visibilizan.
 
 ### Homenajes en vida
 En marzo de 2003, la Secretaría General del Deporte de la Generalitat de Cataluña organizó un acto de homenaje a su trayectoria, en el que participó la también aviadora Mercè Martí, quien la definió como «la proyección más internacional de la aviación y un punto de inflexión para las mujeres aviadoras» .

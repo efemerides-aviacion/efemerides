@@ -36,6 +36,20 @@ redirect_from:
 - **Años de servicio:** 1933 – 1948
 - **Victorias acreditadas:** 21 aparatos enemigos derribados
 
+### Aeronaves pilotadas
+
+Morquillas voló la progresión completa de la caza republicana: empezó como ametrallador-bombardero en el Breguet XIX, entró en combate con el Nieuport NiD-52 y se hizo especialista del Polikarpov I-15 «Chato», con el que logró sus victorias.
+
+
+### Breguet XIX
+Biplano de origen francés utilizado como bombardero ligero y avión de reconocimiento. Morquillas lo pilotó en los primeros meses de la guerra como ametrallador-bombardero. Aunque robusto y fiable, estaba obsoleto en 1936 frente a los modernos cazas enemigos.
+
+### Nieuport NiD-52
+Caza monoplaza de fabricación española (bajo licencia francesa), equipado con motor Hispano-Suiza de 500 hp y dos ametralladoras Vickers. Morquillas entró en combate con este aparato a partir de febrero de 1937, antes de recibir los cazas soviéticos.
+
+### Polikarpov I-15 «Chato»
+Caza biplano de origen soviético, con motor radial Shvetsov M-25 de 750 hp, cuatro ametralladoras PV-1 de 7,62 mm y una velocidad máxima de 362 km/h. Fue el avión emblemático de la aviación republicana y el principal instrumento de las victorias de Morquillas. Su excelente maniobrabilidad en combates cerrados y a baja altitud lo hacía muy efectivo, aunque su velocidad era inferior a la de los cazas alemanes e italianos. La escuadrilla de Morquillas fue la primera unidad española en operar este modelo (marzo de 1937).
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
@@ -50,6 +64,8 @@ La aviación militar española vivió una etapa de modernización en los años t
 
 ### Entorno cultural
 La Guerra Civil Española fue un conflicto de enorme intensidad ideológica. Morquillas, como la mayoría de los pilotos republicanos, combatió motivado por la defensa de la legalidad republicana y la lucha contra el fascismo. Tras la derrota, su exilio en la URSS y su posterior integración en el Ejército Rojo durante la Segunda Guerra Mundial continuaron esa misma lucha en un escenario más amplio.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
@@ -72,9 +88,9 @@ La Guerra Civil Española fue un conflicto de enorme intensidad ideológica. Mor
 - **Posguerra:** Reside en la ciudad de Tula, donde trabaja como director de una fábrica de hormigón armado.
 - **1 de diciembre de 1989:** Fallece en Tula a los 75 años.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+### Victorias acreditadas y condición de «as»
 
-## Victorias acreditadas y condición de «as»
+La historiografía atribuye a Morquillas 21 aparatos derribados, lo que lo sitúa entre los grandes ases de la aviación republicana, aunque la documentación de la época —que acreditaba las victorias a las unidades y se perdió en parte— impide detallar cada derribo.
 
 ### El sistema de acreditación en la aviación republicana
 
@@ -92,16 +108,15 @@ Es importante señalar que, aunque las fuentes coinciden en las 21 victorias, la
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Aeronaves pilotadas
+## Consecuencias e Impacto
 
-### Breguet XIX
-Biplano de origen francés utilizado como bombardero ligero y avión de reconocimiento. Morquillas lo pilotó en los primeros meses de la guerra como ametrallador-bombardero. Aunque robusto y fiable, estaba obsoleto en 1936 frente a los modernos cazas enemigos.
+Con 21 victorias acreditadas, Morquillas figura entre los principales ases de la aviación republicana: su escuadrilla fue la primera unidad española en operar el «Chato» y combatió en el Norte, Teruel, Extremadura y Barcelona. Enviado a la URSS en 1938, la derrota lo sorprendió allí y sirvió en la Fuerza Aérea Soviética como piloto de combate e instructor hasta 1948, con el grado de teniente coronel.
 
-### Nieuport NiD-52
-Caza monoplaza de fabricación española (bajo licencia francesa), equipado con motor Hispano-Suiza de 500 hp y dos ametralladoras Vickers. Morquillas entró en combate con este aparato a partir de febrero de 1937, antes de recibir los cazas soviéticos.
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-### Polikarpov I-15 «Chato»
-Caza biplano de origen soviético, con motor radial Shvetsov M-25 de 750 hp, cuatro ametralladoras PV-1 de 7,62 mm y una velocidad máxima de 362 km/h. Fue el avión emblemático de la aviación republicana y el principal instrumento de las victorias de Morquillas. Su excelente maniobrabilidad en combates cerrados y a baja altitud lo hacía muy efectivo, aunque su velocidad era inferior a la de los cazas alemanes e italianos. La escuadrilla de Morquillas fue la primera unidad española en operar este modelo (marzo de 1937).
+## Legado
+
+Morquillas vivió el resto de su vida en Tula, donde dirigió una fábrica de hormigón armado hasta su muerte en 1989. Su nombre figura junto a los de Bravo, Zambudio, Comas y García La Calle entre los grandes pilotos republicanos, con el respaldo de historiadores como Yenne, Shores y Permuy López.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
