@@ -52,6 +52,7 @@ El rollout simbolizó el avance tecnológico estadounidense y la ambición de Bo
 ## Consecuencias e Impacto
 El 727 se convirtió en uno de los modelos más vendidos de Boeing, habilitando operaciones en aeropuertos secundarios y transformando redes domésticas e internacionales. Su éxito comercial influenció el diseño y la planificación de rutas en múltiples aerolíneas.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 El prototipo N7001U se conserva en el Museum of Flight (Seattle), como pieza emblemática del impacto del 727 en la aviación comercial y su papel en la expansión del mercado a reacción.
 

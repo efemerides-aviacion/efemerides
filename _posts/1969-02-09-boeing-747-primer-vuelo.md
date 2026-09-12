@@ -42,6 +42,7 @@ El 747 introdujo el concepto de fuselaje ancho, motores más potentes y sistemas
 ### Entorno cultural
 El “Jumbo Jet” se convirtió en símbolo de la era del turismo masivo y la globalización, transformando la percepción del viaje aéreo.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - 1965: Pan Am solicita un avión de gran capacidad a Boeing.  
 - 1966: Inicio del programa 747 en Everett.  
@@ -49,9 +50,11 @@ El “Jumbo Jet” se convirtió en símbolo de la era del turismo masivo y la g
 - 30 de diciembre de 1969: Certificación FAA tras más de 1.400 horas de pruebas.  
 - 22 de enero de 1970: Entrada en servicio con Pan Am en la ruta Nueva York–Londres.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 El 747 revolucionó la economía de escala del transporte aéreo intercontinental, reduciendo costos por pasajero y aumentando la conectividad global.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 El RA001 “City of Everett” se conserva en el Museum of Flight en Seattle. El 747 se convirtió en un ícono cultural y tecnológico, con más de 1.500 unidades producidas en diversas versiones hasta el siglo XXI.
 

@@ -42,15 +42,18 @@ El Concorde podía volar a más del doble de la velocidad del sonido, reduciendo
 ### Entorno cultural
 El avión se convirtió en ícono de lujo y modernidad, asociado a la élite empresarial y cultural.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 - 21 de enero de 1976: Despegues simultáneos desde París y Londres.  
 - Air France inauguró la ruta a Río de Janeiro vía Dakar.  
 - British Airways inauguró la ruta a Bahréin.  
 - Posteriormente se añadieron rutas transatlánticas hacia Nueva York y Washington.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 El Concorde demostró la viabilidad del transporte supersónico de pasajeros, aunque limitado por costos y restricciones ambientales.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 Recordado como símbolo de innovación y prestigio, el Concorde sigue siendo un ícono de la aviación comercial.
 
