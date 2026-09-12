@@ -45,7 +45,7 @@ image: 2006-12-15-primer-vuelo-f35-aa1.webp
 
 El programa Joint Strike Fighter (JSF) fue concebido en la década de 1990 para reemplazar una amplia gama de aviones tácticos de la OTAN y aliados, incluyendo el F-16 Fighting Falcon, el A-10 Thunderbolt II, el F/A-18 Hornet, el AV-8B Harrier II y el Sea Harrier británico. Lockheed Martin compitió con Boeing por el contrato; en 2001, el X-35 de Lockheed fue declarado ganador frente al X-32 de Boeing.
 
-### Entorno social y geopolítico
+### Entorno social
 El F-35 representa el mayor esfuerzo de cooperación internacional en defensa. Nueve países socios contribuyeron financieramente al desarrollo (Nivel 1: Reino Unido; Nivel 2: Italia, Países Bajos; Nivel 3: Turquía, Canadá, Australia, Dinamarca, Noruega). Posteriormente se añadieron compradores como Israel, Japón, Corea del Sur, Polonia, Bélgica, Finlandia y Alemania. La exclusión de Turquía del programa (2019) tras la compra del sistema ruso S-400 fue una crisis diplomática significativa.
 
 ### Entorno tecnológico
@@ -58,6 +58,7 @@ El F-35 introdujo capacidades revolucionarias:
 ### Entorno cultural
 El F-35 ha sido objeto de controversia por sobrecostos (el programa superó el presupuesto original en más de 200 mil millones de dólares), retrasos (el primer despliegue operacional se retrasó hasta 2015) y problemas técnicos (casco HMDS que mostraba imágenes verdes, bloqueo del software, fiabilidad del motor). Sin embargo, con el tiempo ha madurado y es considerado el caza de quinta generación más avanzado y extendido del mundo.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **1996:** Lanzamiento del programa JSF.
@@ -102,6 +103,7 @@ El prototipo AA-1, aunque ya no vuela, es una pieza histórica. Tras su retiro e
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> La duración exacta del primer vuelo varía según la fuente (Lockheed Martin: 38 minutos; otras fuentes: “aproximadamente 35-40 minutos”). Se adopta el dato oficial de Lockheed Martin. El prototipo AA-1 corresponde a la variante F-35A (CTOL). Las cifras de coste total del programa JSF (1,7 billones de dólares) son estimaciones del GAO y del Pentágono; varían según el año y la metodología. La ubicación actual del AA-1 está confirmada por el National Museum of the USAF a partir de 2021, pero algunas fuentes indican que todavía estaba en pruebas estructurales hasta 2019; se considera confirmada su exhibición.</p>
 </div>

@@ -40,7 +40,7 @@ image: 1967-04-09-primer-vuelo-prototipo-boeing-737.webp
 
 A mediados de la década de 1960, Boeing ya dominaba el mercado de los aviones de fuselaje ancho y medio con los modelos 707 y 727. Sin embargo, en el segmento de los reactores bimotores de corto alcance para 60-100 pasajeros, la compañía se encontraba rezagada frente a sus competidores. El BAC 1-11 británico ya había realizado su vuelo de certificación y el Douglas DC-9 estaba a punto de hacerlo.
 
-### Entorno social y de mercado
+### Entorno social
 
 La década de 1960 fue testigo de la explosión del turismo de masas y la democratización del transporte aéreo. Las aerolíneas necesitaban aviones eficientes, rápidos y con capacidad para operar en aeropuertos de menor tamaño. En este contexto, Boeing comprendió que su futuro no solo dependía de los grandes transatlánticos, sino también de un «avión regional» fiable. Lufthansa, que sería el cliente de lanzamiento, ejerció una presión decisiva para aumentar la capacidad original del proyecto de 60 a 100 asientos.
 
@@ -54,6 +54,7 @@ La principal innovación estética y funcional fue la ubicación de los motores.
 
 El 737 recibió rápidamente el apodo de «Baby Boeing». Su diseño rechoncho (con un fuselaje casi tan ancho como largo en la versión -100) le valió también el apodo de «Fat Albert» entre los trabajadores de la fábrica. La cultura de producción de Boeing en los años 60 era la de la ingeniería de lápiz y papel, donde la experiencia acumulada en los programas 707 y 727 se volcó en la creación de un avión robusto y fácil de mantener.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **Mayo de 1964:** Boeing comienza los estudios de diseño de un pequeño reactor bimotor para complementar al 707 y 727.
@@ -64,6 +65,7 @@ El 737 recibió rápidamente el apodo de «Baby Boeing». Su diseño rechoncho (
 - **15 de diciembre de 1967:** La FAA otorga el certificado de aeronavegabilidad.
 - **10 de febrero de 1968:** Lufthansa introduce el 737 en servicio comercial regular.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
 
 - **Éxito comercial sin precedentes:** Aunque las ventas iniciales fueron lentas (solo 30 unidades del -100), la llegada de la versión -200 (más larga) y la crisis del petróleo de 1973 demostraron la eficiencia del diseño. Hoy es el avión comercial más producido de la historia.
@@ -71,6 +73,7 @@ El 737 recibió rápidamente el apodo de «Baby Boeing». Su diseño rechoncho (
 - **Estandarización de la configuración 3+3:** El 737 consolidó la disposición de seis asientos por fila como estándar de la industria para corto y medio radio.
 - **Longevidad operativa:** El diseño básico resultó tan sólido que permitió actualizaciones radicales décadas después: las generaciones «Classic» (1980s), «Next Generation» (1990s) y «MAX» (2010s).
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
 El primer vuelo del Boeing 737 el 9 de abril de 1967 marcó el nacimiento del «caballo de batalla» de la aviación comercial moderna. Más de 11.000 unidades han sido entregadas a lo largo de más de 55 años de producción continua, con miles más en pedido. El prototipo N73700, restaurado, se exhibe actualmente en el Museo de Vuelo de Seattle como testimonio del proyecto más exitoso de la historia aeronáutica. El 737 no solo transformó a Boeing, sino que democratizó el vuelo, conectando ciudades pequeñas y grandes con una eficiencia y fiabilidad inigualables.
@@ -89,6 +92,7 @@ El primer vuelo del Boeing 737 el 9 de abril de 1967 marcó el nacimiento del «
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
 <p><strong>Nota aclaratoria:</strong> La hora exacta del despegue no ha podido ser confirmada por fuentes primarias oficiales de Boeing. El dato de las 08:43 horas proviene de fuentes secundarias y se incluye a título contextual.</p>
 </div>

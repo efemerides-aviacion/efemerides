@@ -42,6 +42,7 @@ image: 1961-08-28-sageburner-record-velocidad-baja-cota.webp
 
 ## Contexto Histórico
 
+El 28 de agosto de 1961, el F4H-1F Sageburner de Hardisty y De Esch voló a 1.452,777 km/h a 38 metros sobre White Sands: la rama de baja cota del programa de récords del cincuentenario de la Aviación Naval, con la que la Marina demostraba que su nuevo Phantom dominaba los dos extremos de la envolvente.
 ### Entorno tecnológico
 
 Volar deprisa a gran altura es, en términos aerodinámicos, relativamente cómodo: el aire es tenue y opone poca resistencia. Volar deprisa **a ras de suelo** es lo contrario. El aire denso de baja cota multiplica la resistencia y las cargas estructurales, la turbulencia térmica sobre un desierto castiga al aparato, y cualquier oscilación de cabeceo se traduce de inmediato en metros de altura ganados o perdidos. A 1.450 km/h, el avión recorre más de cuatrocientos metros por segundo: a 38 metros del suelo, el margen para corregir un error se mide en fracciones de segundo.
@@ -70,9 +71,7 @@ El Phantom II era entonces una novedad radical: un caza embarcado grande y pesad
 - **22 de noviembre de 1961:** operación *Skyburner*. Un Phantom modificado con inyección de agua alcanza 2.585,425 km/h, récord absoluto de velocidad.
 - **5 de diciembre de 1961:** el Comandante George W. Ellis establece el récord de altitud en vuelo horizontal sostenido, 20.252 m.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El accidente del 18 de mayo y lo que se corrigió
+### El accidente del 18 de mayo y lo que se corrigió
 
 El primer intento no fracasó por falta de potencia ni por error de pilotaje. Falló un componente concreto: el **amortiguador de cabeceo**, el sistema que suaviza los movimientos del morro en el eje transversal o lateral.
 

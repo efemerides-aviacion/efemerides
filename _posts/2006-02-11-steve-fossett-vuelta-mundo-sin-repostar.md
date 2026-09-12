@@ -52,7 +52,7 @@ image: 2006-02-11-steve-fossett-vuelta-mundo-sin-repostar.webp
 
 Steve Fossett fue uno de los mayores aventureros y rompedores de récords del siglo XX y principios del XXI. Antes de 2006, ya había establecido más de 100 récords mundiales en aviación, globos aerostáticos, navegación y deportes de vela. En 2005, se convirtió en la primera persona en dar la vuelta al mundo en solitario sin escalas ni repostaje a bordo del GlobalFlyer, en 67 horas.
 
-### Entorno social y económico
+### Entorno social
 La hazaña de Fossett encarnaba el espíritu de la aviación experimental y de aventura de élite, financiada por patrocinadores privados (Virgin Atlantic) y la fortuna personal del piloto. En una época en que la aviación comercial se centraba en la eficiencia y el bajo costo, Fossett representaba la audacia de la era de los pioneros. Su desaparición en 2007 (declarado muerto legalmente en 2008) añadió una capa de misterio a su legado.
 
 ### Entorno tecnológico
@@ -61,6 +61,7 @@ El GlobalFlyer fue diseñado específicamente para vuelos de ultra largo alcance
 ### Entorno cultural
 Fossett era una celebridad mediática. Sus hazañas eran seguidas por millones de personas a través de cobertura en tiempo real. El vuelo de 2006 fue cubierto por cadenas como BBC, CNN, AP y agencias de todo el mundo. El patrocinio de Virgin Atlantic y la presencia de Richard Branson en el aterrizaje aportaron un componente de espectáculo y relaciones públicas.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **2002–2004:** Burt Rutan y su empresa Scaled Composites diseñan y construyen el GlobalFlyer para Fossett.
@@ -108,6 +109,7 @@ El récord de Steve Fossett en 2006 sigue siendo el vuelo sin escalas más largo
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> Existen ligeras variaciones en las cifras de distancia según la fuente (FAI/Guinness: 41.467,53 km; Associated Press: 42.467 km; otras fuentes: 41.842 km o 42.458 km). La cifra oficial ratificada por la FAI y Guinness World Records es 41.467,53 km (25.766,72 millas). La cifra de 26.389 millas (42.467 km) reportada por AP corresponde a la distancia total volada, pero incluye la desviación por la emergencia; la FAI ratifica la distancia desde el despegue hasta el punto de récord sobre Shannon (Irlanda). El vuelo no transportó pasajeros; fue un vuelo experimental con un único piloto.</p>
 </div>

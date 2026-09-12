@@ -43,6 +43,7 @@ image: 1957-08-28-canberra-wk163-record-mundial-altitud.webp
 
 ## Contexto Histórico
 
+El 28 de agosto de 1957, el Canberra B.2 WK163 despegó de Luton con Randrup y Shirley para homologar 21.430 metros ante la FAI: un ensayo del cohete Double Scorpion de Napier —encendido a 13.400 m, donde los Avon ya no respiraban— convertido en récord mundial en plena carrera de altitud de la Guerra Fría, y documentado como trabajo de ingeniería, no como exhibición.
 ### Entorno tecnológico
 
 El problema que resolvía el Double Scorpion era de física elemental: un turborreactor necesita aire, y a partir de cierta altura no queda suficiente para quemar combustible con provecho. El Canberra, con su ala ancha y poco cargada, ya volaba más alto que casi cualquier otro aparato de su tiempo —por encima de los 14.000 metros—, pero ahí se detenía. Un cohete, que lleva su propio oxidante, no depende del aire exterior. Napier lo concibió como un acelerador de emergencia para interceptores: un empujón para alcanzar deprisa a un bombardero que volara muy alto.
@@ -72,9 +73,7 @@ Napier insistió en un matiz que hoy resulta revelador: el vuelo **no fue una ex
 - **7 de mayo de 1958:** el Mayor Howard C. Johnson arrebata la marca al Canberra con un <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/16/f104-starfighter-aeronave-historica-en-records.html" style="color: #315fea; text-decoration: none;">Lockheed F-104 Starfighter, que alcanza los 27.811 metros</a>.
 - **1959:** cancelado el programa Scorpion. Los turborreactores habían mejorado lo suficiente como para hacer innecesario el cohete auxiliar.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El «rincón del ataúd»
+### El «rincón del ataúd»
 
 A 21.000 metros, el aire es tan tenue que un avión subsónico queda atrapado entre dos límites que se acercan hasta casi tocarse. Por debajo de cierta velocidad, el ala deja de sustentar y el aparato entra en pérdida. Por encima de otra, empiezan a formarse ondas de choque supersónicas sobre el ala y el fuselaje. Cuanto más se sube, más se estrecha la franja entre ambas. Los aerodinámicos llaman a esa zona *coffin corner*, el rincón del ataúd.
 

@@ -43,7 +43,7 @@ image: 2003-11-26-concorde-gboaf-ultimo-vuelo.webp
 
 El Concorde fue el único avión comercial supersónico exitoso del mundo, operado conjuntamente por British Airways y Air France desde 1976 hasta 2003. Su diseño, fruto de la cooperación anglo-francesa, representó un hito tecnológico sin precedentes.
 
-### Entorno social y económico
+### Entorno social
 El Concorde era símbolo de prestigio, lujo y velocidad. Sus billetes tenían precios muy elevados (un pasaje de ida y vuelta Londres-Nueva York costaba alrededor de 12.000 dólares en el año 2000), lo que lo convertía en un servicio de élite, accesible solo para celebridades, ejecutivos de alto nivel y viajeros adinerados. Sin embargo, tras los atentados del 11 de septiembre de 2001, la demanda de viajes aéreos de lujo cayó drásticamente. Además, el accidente del vuelo 4590 de Air France en julio de 2000 (el único accidente fatal del Concorde) dañó la confianza del público y obligó a costosas modificaciones de seguridad (neumáticos reforzados, blindaje de tanques de combustible).
 
 ### Entorno tecnológico
@@ -52,6 +52,7 @@ El Concorde podía volar a Mach 2,04 (≈2.179 km/h) a una altitud de crucero de
 ### Entorno cultural
 El Concorde era un icono global. Su silueta delta y su nariz abatible ("droop-snoot") lo hacían inconfundible. Su estela sónica (boom) generaba controversia medioambiental, pero también admiración. El retiro fue cubierto por medios de todo el mundo como el fin de una era. El G-BOAF, al ser el último construido, adquirió un valor simbólico especial.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
 - **1962, 29 de noviembre:** Firma del tratado anglo-francés para desarrollar el Concorde.
@@ -98,6 +99,7 @@ El Concorde G-BOAF es una pieza central del museo **Aerospace Bristol**, que abr
   </ul>
 </div>
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> El vuelo del 26 de noviembre de 2003 fue un vuelo de traslado (ferry flight) subsónico, no supersónico, y no transportó pasajeros. El último vuelo comercial supersónico con pasajeros de British Airways ocurrió el 24 de octubre de 2003 (Nueva York–Londres). El G-BOAF participó en esa fecha con un vuelo chárter especial. La fotografía sobre el puente de Clifton fue tomada por Lewis Whyld, entonces un aprendiz de fotógrafo de 19 años, y se ha convertido en una de las imágenes más emblemáticas del retiro del Concorde. La matrícula completa es G-BOAF, sin guiones adicionales. No se ha podido confirmar la lista completa de pilotos en el vuelo final, más allá del Capitán Mike Bannister.</p>
 </div>
