@@ -15,6 +15,7 @@ image: 1961-01-31-ham-primer-hominido-espacio.webp
   <figcaption class="post-caption">Primer plano del chimpancé Ham, el sujeto de pruebas del vuelo de ensayo Mercury-Redstone 2 (MR-2), mientras le dan de comer una manzana. Esta foto se tomó tras su exitosa recuperación en el océano Atlántico. Obsérvese que sigue sujeto a su sillón de vuelo especial. Fuente: <a href="https://nlsp.nasa.gov/view/lsdapub/lsda_image/IDP-LSDA_IMAGE-0000000000000851" style="color: #315fea; text-decoration: none;">Chimpanzee Ham After Mercury-Redstone 2 (MR-2) Flight</a>.
 </figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <!-- ## Resumen Ejecutivo -->
@@ -28,6 +29,7 @@ image: 1961-01-31-ham-primer-hominido-espacio.webp
 > Ambas expresiones se complementan: la primera aporta el contexto narrativo y oficial de la misión, mientras que la segunda detalla con precisión el vehículo espacial utilizado.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Datos verificados del evento
 - **Fecha:** 31 de enero de 1961  
 - **Lugar de lanzamiento:** LC‑5, Cabo Cañaveral, Florida  
@@ -41,16 +43,22 @@ image: 1961-01-31-ham-primer-hominido-espacio.webp
 - **Rescate:** Amerizó en el Atlántico y fue recuperado por el USS Donner  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Contexto Histórico
 El vuelo de HAM fue un paso crucial en el Programa Mercury, demostrando que un primate podía realizar tareas bajo condiciones extremas de vuelo espacial. Su desempeño validó la viabilidad de operaciones humanas en el espacio.
 
-### Entrenamiento
+### Entorno social
 - Capturado en Camerún y adquirido por la USAF en 1959.  
 - Entrenado en Holloman Aerospace Medical Center bajo Joseph V. Brady.  
 - Aprendió a responder a estímulos luminosos con palancas en menos de 5 segundos.  
 
-### Impacto científico
-HAM demostró que la respuesta neuromotora se mantenía en condiciones de ingravidez y estrés, con tiempos de reacción apenas más lentos que en tierra.
+### Entorno tecnológico
+El hardware era el del Programa Mercury en su configuración de ensayo: la cápsula Mercury número 5 sobre un cohete Redstone, lanzada desde la LC-5 de Cabo Cañaveral en una trayectoria suborbital que la llevó por encima de la línea Kármán y la devolvió al Atlántico.
+
+### Entorno cultural
+HAM dejó de ser un sujeto de pruebas para convertirse en una figura pública: los zoológicos donde vivió fueron su casa durante más de veinte años y su apodo de «astrochimp» sigue vivo en los materiales de los museos y de las instituciones que lo recuerdan.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Desarrollo Cronológico
 - **1959:** Inicio del entrenamiento en Nuevo México.  
@@ -59,10 +67,21 @@ HAM demostró que la respuesta neuromotora se mantenía en condiciones de ingrav
 - **1981–1983:** Trasladado al North Carolina Zoo.  
 - **19/01/1983:** Falleció a los 26 años; enterrado en el New Mexico Museum of Space History.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
+## Consecuencias e Impacto
+El ensayo dejó dos saldos: uno operativo, porque la cápsula recorrió 670 km y amerizó fuera del objetivo y hubo que recuperar a HAM en el Atlántico con el USS Donner, y otro técnico, sobre el rendimiento del sujeto una vez en ingravidez.
+
+### Impacto científico
+HAM demostró que la respuesta neuromotora se mantenía en condiciones de ingravidez y estrés, con tiempos de reacción apenas más lentos que en tierra.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Legado
 HAM es recordado como el primer “astrochimp” y pionero de la exploración espacial, abriendo el camino para los vuelos tripulados de Alan Shepard y John Glenn.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -78,6 +97,7 @@ HAM es recordado como el primer “astrochimp” y pionero de la exploración es
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA; Smithsonian; Britannica; Wikipedia; DNCR; Armed Forces Medical Museum  

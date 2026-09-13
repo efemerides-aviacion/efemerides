@@ -15,6 +15,7 @@ image: 1991-02-01-colision-pista-los-angeles.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1991-02-01-colision-pista-los-angeles.webp" alt="Boeing 737‑300 de USAir (arriba) y Fairchild Swearingen Metroliner de SkyWest (abajo).">
   <figcaption class="post-caption">Composición con un Boeing 737‑300 de USAir (arriba) y un Fairchild Swearingen Metroliner de SkyWest Airlines (abajo), similares a los aviones involucrados en la colisión en pista de Los Ángeles del 1 de febrero de 1991.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
@@ -44,6 +45,21 @@ image: 1991-02-01-colision-pista-los-angeles.webp
 ## Contexto Histórico
 La colisión en pista de Los Ángeles fue uno de los accidentes más graves en la historia de LAX y puso de relieve la necesidad de reforzar los procedimientos de control de tránsito aéreo y prevención de incursiones en pista.
 
+### Entorno social
+El accidente puso frente a frente a dos operadores y a dos poblaciones muy distintas: el pasaje de un 737 de USAir en la fase final de un vuelo comercial y los doce ocupantes de un Metroliner de SkyWest Airlines alineado para despegar. LAX operaba con varias pistas en servicio simultáneo y era la torre la que decidía quién entraba en cada una.
+
+### Entorno tecnológico
+Sobre el pavimento de la pista 24L se encontraron dos máquinas de masa y energía muy distintas: un Boeing 737‑3B7, reactor de pasillo único en fase de aterrizaje, y un Fairchild Swearingen Metroliner SA‑227‑AC, turbohélice regional detenido y alineado.
+
+### Entorno cultural
+La investigación se siguió como asunto público: el caso tuvo signatura propia en la agencia de seguridad del transporte y su informe final quedó en los archivos abiertos de la autoridad aeronáutica, con las lecciones incorporadas a sus bases de datos.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Desarrollo Cronológico
+- **1 de febrero de 1991, noche:** el vuelo 1493 de USAir, un Boeing 737‑3B7 (N388US), aterriza en la pista 24L de LAX con autorización de aproximación y aterrizaje mientras el vuelo 5569 de SkyWest, un Metroliner (N683AV), está autorizado a “line up and wait” en esa misma pista.
+- **Tras el impacto:** incendio y destrucción de ambas aeronaves, que acabaron contra una estación de bomberos desocupada; 35 fallecidos —12 del vuelo 5569 y 23 del vuelo 1493, de 89 personas a bordo— y decenas de heridos.
+
 ### Causas probables
 - Pérdida de conciencia situacional del controlador local.  
 - Autorizaciones incompatibles emitidas desde la torre.  
@@ -55,10 +71,17 @@ La colisión en pista de Los Ángeles fue uno de los accidentes más graves en l
 - Sistema ineficiente de tiras de progreso de vuelo.  
 - Ausencia de obligación para que las aeronaves en pista encendieran todas las luces externas.  
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Consecuencias e Impacto
+El accidente se tradujo en recomendaciones concretas para el aeropuerto y para el control de tránsito aéreo, recogidas tras la investigación.
+
 ### Consecuencias operacionales
 - Recomendación de usar pistas diferentes para despegues y aterrizajes en LAX.  
 - Mejora de medidas de prevención de incursiones en pista.  
 - Refuerzo de protocolos de redundancia en control de tránsito aéreo.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 El accidente es recordado como un caso emblemático de “runway collision” y figura en los estudios de seguridad operacional como ejemplo de la importancia de la conciencia situacional y la redundancia en los sistemas de control.

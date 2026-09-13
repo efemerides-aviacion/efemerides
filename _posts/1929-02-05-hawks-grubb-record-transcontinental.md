@@ -41,11 +41,25 @@ image: 1929-02-05-hawks-grubb-record-transcontinental.webp
 ## Contexto Histórico
 El vuelo de Hawks y Grubb representó un hito en la aviación comercial y técnica de finales de los años 20.
 
-### Innovaciones técnicas
+### Entorno social
+El intento fue una empresa privada con patrocinio: Texaco (The Texas Company) adquirió el avión y lo puso en la ruta, y junto al piloto voló un ingeniero de vuelo que era el supervisor del ensamblaje final en Lockheed, Oscar E. Grubb.
+
+### Entorno tecnológico
 - El Lockheed Air Express incorporaba el **NACA cowling**, una cubierta aerodinámica para motores radiales que reducía el arrastre y mejoraba la eficiencia.  
 - Este vuelo demostró públicamente la eficacia de la innovación, impulsando su adopción en la industria.  
 
-### Importancia del récord
+### Entorno cultural
+Las marcas transcontinentales se seguían a finales de los años veinte como un deporte público: el aparato volaba con los colores de su patrocinador y el registro se presentaba como lo que era, una demostración comercial tanto como deportiva.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Desarrollo Cronológico
+- **4 de febrero de 1929, 17:37:30 PST:** Frank Monroe Hawks y Oscar E. Grubb despegan de Metropolitan Field (Van Nuys Airport, Los Ángeles) con el Lockheed Model 3 Air Express NR7955 (s/n EX-2), monoplano de ala baja y cabina cerrada, con el radial Pratt & Whitney R-1340 Wasp de 410 hp.
+- **5 de febrero de 1929, 14:59:29 EST:** aterrizaje en Roosevelt Field, Long Island (Nueva York), tras ~3.900 km (2.430 millas) y 18 horas, 21 minutos y 59 segundos de vuelo, a una media de ~132 mph (212 km/h).
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Consecuencias e Impacto
 - Superó el tiempo de Arthur Goebel en 36 minutos.  
 - Consolidó la reputación de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/03/28/nacimiento-frank-hawks-record-velocidad.html" style="color: #315fea; text-decoration: none;">Frank Hawks</a> como piloto de récords y de Lockheed como fabricante innovador.  
 
