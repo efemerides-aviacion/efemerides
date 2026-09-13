@@ -66,7 +66,7 @@ El éxito de la demostración desató la "globomanía" en Francia. Los globos se
 
 - **1782:** Los hermanos Montgolfier comienzan sus experimentos con bolsas de papel y tela elevadas por aire caliente.
 - **4 de junio de 1783:** Primera demostración pública en Annonay, Francia, ante una multitud de autoridades locales.
-- **19 de septiembre de 1783:** Segunda demostración en Versalles ante el rey Luis XVI y la corte, con una oveja, un pato y un gallo como pasajeros.
+- **19 de septiembre de 1783:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/09/19/primer-vuelo-globo-con-seres-vivos-versalles.html" style="color: #315fea; text-decoration: none;">Segunda demostración en Versalles</a> ante el rey Luis XVI y la corte, con una oveja, un pato y un gallo como pasajeros.
 - **19 de octubre de 1783:** Primer vuelo tripulado en un globo cautivo (amarrado), con Jean-François Pilâtre de Rozier a bordo.
 - **21 de noviembre de 1783:** Primer vuelo libre tripulado por Pilâtre de Rozier y el marqués d'Arlandes. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo tripulado en globo de aire caliente</a> para más detalles.
 - **1 de diciembre de 1783:** Primer vuelo tripulado en globo de hidrógeno (Charlière) por Jacques Charles y Nicolas-Louis Robert. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo tripulado en globo de hidrógeno</a> para más detalles.
