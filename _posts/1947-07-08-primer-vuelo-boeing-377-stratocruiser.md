@@ -85,7 +85,7 @@ El primer vuelo del Stratocruiser abrió una nueva fase para Boeing en el mercad
 
 El Boeing 377 Stratocruiser ocupa un lugar singular en la historia de la aviación comercial. No fue el avión más numeroso ni el más duradero de su generación, pero sí uno de los más ambiciosos. Representó la culminación del gran cuatrimotor de pistón presurizado en Estados Unidos antes del salto definitivo al reactor comercial.
 
-Su legado también sobrevivió de manera indirecta. La robusta célula del Stratocruiser sirvió de base para conversiones posteriores tan célebres como los Pregnant Guppy y Super Guppy, aeronaves de transporte sobredimensionado que apoyarían programas espaciales y logísticos décadas después. Así, el vuelo del 8 de julio de 1947 no solo anticipó una etapa de lujo en la aviación comercial, sino también una cadena de desarrollos técnicos que trascendieron con mucho la carrera comercial del propio modelo.
+Su legado también sobrevivió de manera indirecta. La robusta célula del Stratocruiser sirvió de base para conversiones posteriores tan célebres como los <a href="https://efemerides-aviacion.github.io/efemerides/evento/1962/09/19/primer-vuelo-pregnant-guppy.html" style="color: #315fea; text-decoration: none;">Pregnant Guppy</a> y Super Guppy, aeronaves de transporte sobredimensionado que apoyarían programas espaciales y logísticos décadas después. Así, el vuelo del 8 de julio de 1947 no solo anticipó una etapa de lujo en la aviación comercial, sino también una cadena de desarrollos técnicos que trascendieron con mucho la carrera comercial del propio modelo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
