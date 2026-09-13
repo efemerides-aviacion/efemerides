@@ -16,14 +16,15 @@ image: 1926-05-12-primer-vuelo-verificado-dirigible-polo-norte.webp
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Resumen Ejecutivo
 
-El 12 de mayo de 1926, el dirigible Norge sobrevoló el Polo Norte en una travesía histórica entre Svalbard y Alaska. Fue una expedición internacional liderada por Roald Amundsen, con Umberto Nobile como piloto y diseñador de la aeronave. El vuelo es considerado el primer cruce aéreo verificado del Polo Norte en dirigible, marcando un hito en la exploración polar y demostrando el potencial de los dirigibles para la navegación en condiciones extremas.
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 12 de mayo de 1926, el dirigible Norge sobrevoló el Polo Norte en una travesía histórica entre Svalbard y Alaska. Fue una expedición internacional liderada por Roald Amundsen, con Umberto Nobile como piloto y diseñador de la aeronave. El vuelo es considerado el primer cruce aéreo verificado del Polo Norte en dirigible, marcando un hito en la exploración polar y demostrando el potencial de los dirigibles para la navegación en condiciones extremas.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-
 - **Fecha del sobrevuelo del Polo Norte:** 12 de mayo de 1926, 01:25 GMT
 - **Lugar de partida:** Ny-Ålesund, Svalbard (11 de mayo de 1926, 09:55)
 - **Lugar de llegada:** Teller, Alaska (14 de mayo de 1926)
@@ -39,10 +40,7 @@ El 12 de mayo de 1926, el dirigible Norge sobrevoló el Polo Norte en una traves
 - **Motores:** 3 × Maybach Mb.IV de 6 cilindros, 190 kW (260 hp) cada uno
 - **Velocidad máxima:** 115 km/h
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones del Norge
-
+### Especificaciones del Norge
 El Norge fue el primer dirigible semirrígido de la clase N diseñado y construido por Umberto Nobile a partir de 1923. Originalmente concebido como N-1, fue adquirido por Noruega y rebautizado como Norge (Noruega) para la expedición polar.
 
 - **Tipo:** Dirigible semirrígido (clase N)
@@ -59,10 +57,7 @@ El Norge fue el primer dirigible semirrígido de la clase N diseñado y construi
 - **Velocidad máxima:** 115 km/h (71 mph, 62 nudos)
 - **Alcance:** Aproximadamente 5.000 km
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## La tripulación del Norge
-
+### La tripulación del Norge
 La expedición contó con 16 hombres a bordo, incluyendo a los tres líderes y una diversidad de nacionalidades:
 
 - **Roald Amundsen (Noruega):** Líder de la expedición, explorador polar, primer hombre en alcanzar el Polo Sur (1911)
@@ -85,45 +80,20 @@ A bordo viajaba también **Titina**, el pequeño perro fox terrier de Nobile, qu
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
-
 Antes del Norge, la exploración polar combinaba expediciones terrestres, trineos y navegación marítima; el uso de un dirigible representó un salto tecnológico decisivo. La idea de volar sobre el Polo Norte había sido perseguida por Amundsen desde años antes, y el proyecto reunió cooperación noruega, italiana y estadounidense.
 
-### El escepticismo inicial
+### Entorno social
+La expedición fue una empresa de tres países: Noruega compró y rebautizó la aeronave, Italia puso el dirigible y a su piloto y diseñador, y Estados Unidos aportó a uno de los patrocinadores. A bordo iban dieciséis personas y tres mandos: Amundsen como jefe, Nobile a los mandos y Ellsworth como financiador.
 
-Amundsen había intentado previamente alcanzar el Polo Norte en 1925 con dos hidroaviones Dornier Wal, junto a Ellsworth y Riiser-Larsen, pero se vieron obligados a aterrizar a 280 km del objetivo y quedaron atrapados en el hielo durante 30 días. Tras ese fracaso, Amundsen buscó una nueva estrategia y contactó a Nobile, quien le convenció de que un dirigible era la mejor opción para cruzar el Ártico.
-
-### La preparación
-
+### Entorno tecnológico
 Nobile modificó su dirigible N-1 para adaptarlo a las condiciones extremas del Ártico, reforzando la estructura y mejorando la capacidad de combustible. Los noruegos compraron la aeronave y la rebautizaron como Norge. El viaje para sobrevolar el Polo Norte se inició en Roma el 29 de marzo de 1926, deteniéndose en Pulham (Inglaterra), Oslo (14 de abril) y Leningrado (actual San Petersburgo), antes de cruzar el Mar de Barents hacia Ny-Ålesund, Svalbard.
 
-### La competencia con Byrd
-
-En Ny-Ålesund, Nobile se encontró con Richard Evelyn Byrd, que preparaba su avión Fokker F.VII para intentar alcanzar el Polo Norte. Byrd despegó el 9 de mayo y regresó 16 horas después, afirmando haber sobrevolado el polo. Décadas más tarde, el diario de vuelo de Byrd reveló que las pruebas indicaban que no había alcanzado el objetivo, desacreditando su reclamación.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El vuelo sobre el Polo Norte
-
-El 11 de mayo de 1926, a las 09:55 horas, el Norge despegó de Ny-Ålesund, Svalbard, para el tramo final del viaje a través del hielo polar.
-
-### El momento histórico
-
-El 12 de mayo, a las 01:25 GMT, el Norge alcanzó el Polo Norte. En ese momento, la tripulación lanzó sobre el hielo las banderas de Noruega, Italia y Estados Unidos. Amundsen, sin embargo, recordó con desprecio que, gracias a Nobile, "el dirigible se había convertido en un vagón de circo aéreo".
-
-### Las dificultades del vuelo
-
-Durante el cruce del polo, el hielo acumulado sobre la envoltura del dirigible comenzó a causar problemas. Algunas piezas se rompieron y la cubierta fue agujereada por fragmentos de hielo expelidos por las hélices. Nobile informó que tuvieron que reparar muchos agujeros.
-
-Las comunicaciones por radio se interrumpieron durante el vuelo, y la tripulación solo pudo restablecer contacto al llegar a Teller, Alaska.
-
-### La llegada a Alaska
-
-El 14 de mayo, debido al empeoramiento del tiempo, la aeronave aterrizó en Teller, Alaska, en lugar de continuar hasta Nome como estaba previsto. El Norge había completado así la primera travesía aérea verificada del Polo Norte y se convertía en el primer aparato volador en realizar un trayecto entre Europa y América sobre el hielo polar.
+### Entorno cultural
+La travesía se leyó como asunto de tres banderas: la noruega, la italiana y la estadounidense se lanzaron sobre el hielo al pasar sobre el polo. Noruega financió la expedición e Italia hizo de ella un motivo de prestigio, y el viaje tuvo además una celebridad de cuatro patas: Titina, la fox terrier de Nobile, que lo hizo entero.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
-
 - **1925:** Amundsen telegrafía a Nobile para proponer una expedición al Polo Norte en dirigible
 - **Marzo de 1926:** Los noruegos compran el N-1 y lo rebautizan como Norge
 - **29 de marzo de 1926:** El Norge parte de Roma hacia el Ártico
@@ -137,28 +107,46 @@ El 14 de mayo, debido al empeoramiento del tiempo, la aeronave aterrizó en Tell
 - **1928:** Nobile lidera una segunda expedición polar con el dirigible Italia, que termina en un trágico accidente
 - **2000s:** Investigaciones posteriores demuestran que la reclamación de Byrd sobre el Polo Norte era fraudulenta, consolidando al Norge como el primer vuelo verificado
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+### El intento de 1925 con los Dornier Wal
+Amundsen había intentado previamente alcanzar el Polo Norte en 1925 con dos hidroaviones Dornier Wal, junto a Ellsworth y Riiser-Larsen, pero se vieron obligados a aterrizar a 280 km del objetivo y quedaron atrapados en el hielo durante 30 días. Tras ese fracaso, Amundsen buscó una nueva estrategia y contactó a Nobile, quien le convenció de que un dirigible era la mejor opción para cruzar el Ártico.
 
-## La controversia con Amundsen
+### El vuelo sobre el Polo Norte
+El 11 de mayo de 1926, a las 09:55 horas, el Norge despegó de Ny-Ålesund, Svalbard, para el tramo final del viaje a través del hielo polar.
 
-Tras el éxito de la expedición, surgió una disputa entre Nobile y Amundsen sobre quién merecía mayor crédito. La controversia se vio exacerbada por el gobierno fascista de Mussolini, que promovió a Nobile como un héroe nacional y destacó el genio de la ingeniería italiana.
+#### El momento histórico
 
-Amundsen, que esperaba ser el principal protagonista de la hazaña, se sintió menospreciado. La relación entre ambos se deterioró hasta el punto de la ruptura total. Sin embargo, en 1928, cuando el dirigible Italia de Nobile se estrelló en el Ártico, Amundsen no dudó en unirse a la misión de rescate, perdiendo la vida en el intento.
+El 12 de mayo, a las 01:25 GMT, el Norge alcanzó el Polo Norte. En ese momento, la tripulación lanzó sobre el hielo las banderas de Noruega, Italia y Estados Unidos. Amundsen, sin embargo, recordó con desprecio que, gracias a Nobile, "el dirigible se había convertido en un vagón de circo aéreo".
+
+#### Las dificultades del vuelo
+
+Durante el cruce del polo, el hielo acumulado sobre la envoltura del dirigible comenzó a causar problemas. Algunas piezas se rompieron y la cubierta fue agujereada por fragmentos de hielo expelidos por las hélices. Nobile informó que tuvieron que reparar muchos agujeros.
+
+Las comunicaciones por radio se interrumpieron durante el vuelo, y la tripulación solo pudo restablecer contacto al llegar a Teller, Alaska.
+
+#### La llegada a Alaska
+
+El 14 de mayo, debido al empeoramiento del tiempo, la aeronave aterrizó en Teller, Alaska, en lugar de continuar hasta Nome como estaba previsto. El Norge había completado así la primera travesía aérea verificada del Polo Norte y se convertía en el primer aparato volador en realizar un trayecto entre Europa y América sobre el hielo polar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
-
 - **Primer vuelo verificado sobre el Polo Norte:** La expedición del Norge demostró, sin lugar a dudas, que era posible alcanzar el Polo Norte por vía aérea.
 - **Descubrimientos geográficos:** El principal resultado científico fue la confirmación de la ausencia de tierras entre el Polo Norte y Point Barrow, Alaska.
 - **Avance en la meteorología polar:** Las observaciones meteorológicas realizadas sobre una región hasta entonces desconocida resultaron muy valiosas para la ciencia.
 - **Innovación tecnológica:** El vuelo demostró el potencial de los dirigibles para misiones de larga distancia en condiciones extremas.
 - **Legado polar:** La experiencia del Norge sentó las bases para la posterior exploración aérea del Ártico, aunque el trágico final de la expedición del Italia en 1928 frenó el desarrollo de los dirigibles polares.
 
+### La competencia con Byrd
+En Ny-Ålesund, Nobile se encontró con Richard Evelyn Byrd, que preparaba su avión Fokker F.VII para intentar alcanzar el Polo Norte. Byrd despegó el 9 de mayo y regresó 16 horas después, afirmando haber sobrevolado el polo. Décadas más tarde, el diario de vuelo de Byrd reveló que las pruebas indicaban que no había alcanzado el objetivo, desacreditando su reclamación.
+
+### La controversia con Amundsen
+Tras el éxito de la expedición, surgió una disputa entre Nobile y Amundsen sobre quién merecía mayor crédito. La controversia se vio exacerbada por el gobierno fascista de Mussolini, que promovió a Nobile como un héroe nacional y destacó el genio de la ingeniería italiana.
+
+Amundsen, que esperaba ser el principal protagonista de la hazaña, se sintió menospreciado. La relación entre ambos se deterioró hasta el punto de la ruptura total. Sin embargo, en 1928, cuando el dirigible Italia de Nobile se estrelló en el Ártico, Amundsen no dudó en unirse a la misión de rescate, perdiendo la vida en el intento.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
-
 El vuelo del Norge en mayo de 1926 es considerado el primer cruce aéreo **verificado** del Polo Norte. Aunque Byrd había reclamado la hazaña tres días antes, su afirmación fue desacreditada posteriormente al descubrirse que su informe de navegación se basaba en datos fraudulentos. El reconocimiento oficial recae, por tanto, en Amundsen, Nobile y Ellsworth.
 
 El Norge alcanzó el Polo Norte en un vuelo de 15,5 horas desde Svalbard, y en total recorrió 13.000 kilómetros en 171 horas, uniendo Roma y Alaska. La aeronave demostró que los dirigibles eran una herramienta viable para la exploración polar, aunque el posterior desastre del Italia en 1928 empañó estos logros y llevó al descrédito de Nobile.
@@ -176,7 +164,6 @@ Umberto Nobile falleció en Roma el 30 de julio de 1978 a la edad de 93 años. R
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
-
 <div class="references">
   <ul>
     <li><a href="https://es.wikipedia.org/wiki/Norge_(dirigible)" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Norge (dirigible)</a></li>
@@ -193,7 +180,6 @@ Umberto Nobile falleció en Roma el 30 de julio de 1978 a la edad de 93 años. R
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-
 - **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Treccani, Clarín, Público
 - **Discrepancias resueltas:** Las fuentes confirman que el Norge sobrevoló el Polo Norte el 12 de mayo de 1926 a la 01:25 GMT. La controversia sobre la reclamación de Byrd está documentada en las fuentes modernas. La tripulación total varió durante el viaje (14, 15 o 16 personas según las etapas), pero se sabe que 15-16 hombres estuvieron involucrados en el tramo final. La aeronave tenía 106 m de largo con un volumen de 19.000 m³ de hidrógeno.

@@ -16,14 +16,15 @@ image: 2003-05-10-debut-breitling-jet-team.webp
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Resumen Ejecutivo
 
-El 10 de mayo de 2003 debutó oficialmente el Breitling Jet Team en el Festival Aérien de Valenciennes, Francia, bajo patrocinio de Breitling tras el Khalifa Jet Team. Liderado por Jacques Bothelin desde Dijon, voló cuatro aviones Aero L-39 Albatros en su primera exhibición como el mayor equipo civil de jets de Europa. Marcó el inicio de 16 años de shows internacionales hasta 2019. 
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 10 de mayo de 2003 debutó oficialmente el Breitling Jet Team en el Festival Aérien de Valenciennes, Francia, bajo patrocinio de Breitling tras el Khalifa Jet Team. Liderado por Jacques Bothelin desde Dijon, voló cuatro aviones Aero L-39 Albatros en su primera exhibición como el mayor equipo civil de jets de Europa. Marcó el inicio de 16 años de shows internacionales hasta 2019. </p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-
 - **Fecha del debut oficial:** 10 de mayo de 2003
 - **Lugar:** Festival Aérien de Valenciennes, Francia
 - **Equipo:** Breitling Jet Team (anteriormente Khalifa Jet Team)
@@ -38,10 +39,7 @@ El 10 de mayo de 2003 debutó oficialmente el Breitling Jet Team en el Festival 
 - **Patrocinador:** Breitling SA
 - **Operador:** Apache Aviation
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones del Aero L-39C Albatros
-
+### Especificaciones del Aero L-39C Albatros
 El L-39 Albatros fue el avión utilizado por el Breitling Jet Team durante toda su existencia. Es un reactor de entrenamiento checoslovaco diseñado en la década de 1960, ampliamente utilizado por fuerzas aéreas de todo el mundo y muy apreciado en la aviación acrobática civil por su robustez y maniobrabilidad. 
 
 - **Fabricante:** Aero Vodochody (Checoslovaquia)
@@ -56,30 +54,30 @@ El L-39 Albatros fue el avión utilizado por el Breitling Jet Team durante toda 
 - **Alcance:** 978 km 
 - **Límite de fuerzas G:** +8 / -4 G 
 
+### La flota: 7 en el aire, 11 en la historia
+Una de las curiosidades del Breitling Jet Team es que, aunque volaba con 7 aviones en sus exhibiciones (la formación que el público veía en los festivales aéreos), la flota total del equipo a lo largo de su historia llegó a contar con hasta 9-11 unidades. 
+
+El equipo mantenía 7 L-39C para sus actuaciones, más un avión adicional conocido como el "8º avión", dedicado a tareas de filmación aérea, transporte de invitados de Breitling y como aeronave de repuesto en caso de problemas técnicos.  Ocasionalmente, este "8º avión" se unía a la formación para vuelos especiales o fotografías promocionales. 
+
+Por eso, cuando en diciembre de 2024 Babcock International adquirió la flota, el número ascendía a 11 aviones: era la flota histórica completa que Apache Aviation había acumulado durante los años de actividad del equipo. 
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
-
 El Breitling Jet Team tiene sus raíces en la larga trayectoria de Jacques Bothelin en el mundo de las patrullas acrobáticas. Desde 1980, Bothelin formó equipos bajo distintos patrocinadores. A lo largo de los años, lideró equipos como la Patrouille Martini (con aviones SF-260) y posteriormente con aviones PC-7 bajo patrocinios de ECCO, Adecco y Apaches.
 
-### La gestación del equipo
-
+### Entorno social
 En 2001-2002, Apache Aviation (la empresa de Bothelin) adquirió aviones L-39 Albatros y debutó como Khalifa Jet Team, inicialmente con dos o cuatro aviones, realizando 43 eventos en seis países europeos.
 
-### El nacimiento del Breitling Jet Team
+### Entorno tecnológico
+La plataforma era un reactor de entrenamiento militar: el L-39C Albatros checoslovaco, biplaza en tándem, con margen de +8 y -4 G y 910 km/h en picado, cifras de sobra para una rutina civil. Nacido para formar pilotos, conservaba los dos asientos en fila, aunque en exhibición cada avión volaba con uno solo.
 
-A principios de 2003, Khalifa se retiró del patrocinio. La firma de relojería suiza Breitling SA asumió el patrocinio, lo que permitió a la organización expandirse y relanzarse oficialmente como el Breitling Jet Team.  La inversión de Breitling permitió que el equipo pasara de 4 a 7 aviones en los años siguientes.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El debut en Valenciennes
-
-El 10 de mayo de 2003, el recién bautizado Breitling Jet Team se presentó ante el público en el Festival Aérien de Valenciennes, en el norte de Francia. Los cuatro L-39 Albatros surcaron los cielos franceses con una rutina de 18 a 20 minutos que incluía formaciones cerradas y maniobras sincronizadas. Este debut marcó el nacimiento del mayor equipo de exhibición civil de jets de Europa, un estatus que mantendría durante los siguientes 16 años. 
+### Entorno cultural
+La exhibición civil vivía del festival y del patrocinio: la rutina se acompañaba de música y de un narrador en directo, y una firma relojera suiza ponía nombre y dinero a cambio de ligar su marca a la precisión y la audacia. El resultado fue un equipo privado que volaba al nivel de las patrullas de los ejércitos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
-
 - **1980:** Jacques Bothelin comienza su carrera en la aviación acrobática con Patrouille Martini
 - **2001-2002:** Apache Aviation adquiere L-39 Albatros y debuta como Khalifa Jet Team
 - **Principios de 2003:** Khalifa se retira del patrocinio; Breitling SA asume el patrocinio
@@ -92,26 +90,15 @@ El 10 de mayo de 2003, el recién bautizado Breitling Jet Team se presentó ante
 - **2019:** Breitling no renueva el patrocinio; el equipo cesa sus actuaciones 
 - **Diciembre de 2024:** Once aviones L-39 (la práctica totalidad de la flota histórica del equipo) son vendidos a Babcock International para una academia de entrenamiento de pilotos en Dijon 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+### El nacimiento del Breitling Jet Team
+A principios de 2003, Khalifa se retiró del patrocinio. La firma de relojería suiza Breitling SA asumió el patrocinio, lo que permitió a la organización expandirse y relanzarse oficialmente como el Breitling Jet Team.  La inversión de Breitling permitió que el equipo pasara de 4 a 7 aviones en los años siguientes.
 
-## La flota: 7 en el aire, 11 en la historia
-
-Una de las curiosidades del Breitling Jet Team es que, aunque volaba con 7 aviones en sus exhibiciones (la formación que el público veía en los festivales aéreos), la flota total del equipo a lo largo de su historia llegó a contar con hasta 9-11 unidades. 
-
-El equipo mantenía 7 L-39C para sus actuaciones, más un avión adicional conocido como el "8º avión", dedicado a tareas de filmación aérea, transporte de invitados de Breitling y como aeronave de repuesto en caso de problemas técnicos.  Ocasionalmente, este "8º avión" se unía a la formación para vuelos especiales o fotografías promocionales. 
-
-Por eso, cuando en diciembre de 2024 Babcock International adquirió la flota, el número ascendía a 11 aviones: era la flota histórica completa que Apache Aviation había acumulado durante los años de actividad del equipo. 
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El espectáculo
-
-La exhibición del Breitling Jet Team era una coreografía aérea cuidadosamente orquestada. Con una duración de 18 a 20 minutos, combinaba sobrevuelos en formación cerrada, pases de frente, rutinas en solitario y maniobras sincronizadas, todo ello con música y narración en vivo.  Los pilotos volaban con sus reactores a escasos metros de distancia entre sí a velocidades de cientos de kilómetros por hora, en formaciones que exigían una concentración absoluta y una precisión milimétrica.
+### El debut en Valenciennes
+El 10 de mayo de 2003, el recién bautizado Breitling Jet Team se presentó ante el público en el Festival Aérien de Valenciennes, en el norte de Francia. Los cuatro L-39 Albatros surcaron los cielos franceses con una rutina de 18 a 20 minutos que incluía formaciones cerradas y maniobras sincronizadas. Este debut marcó el nacimiento del mayor equipo de exhibición civil de jets de Europa, un estatus que mantendría durante los siguientes 16 años. 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
-
 - **Mayor equipo civil de Europa:** Durante 17 años, el Breitling Jet Team fue el equipo de exhibición civil con jets más grande del continente, una referencia mundial en su categoría. 
 - **Embajador de la relojería suiza:** El equipo se convirtió en un icono de la marca Breitling, asociando los valores de precisión, rendimiento y audacia a la firma relojera.
 - **Expansión global:** El equipo realizó giras por todo el mundo, incluyendo Europa, Oriente Medio y Norteamérica, incluyendo una gira de dos años por EE. UU. y Canadá en 2015-2016. 
@@ -120,12 +107,14 @@ La exhibición del Breitling Jet Team era una coreografía aérea cuidadosamente
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
-
 El debut del Breitling Jet Team el 10 de mayo de 2003 en Valenciennes no fue el comienzo de un simple grupo de vuelo. Fue el nacimiento de una institución en la aviación acrobática civil. Durante 17 años, los reactores L-39, pintados con los colores de Breitling, fueron una atracción estelar en los festivals aéreos más importantes del mundo.
 
 Aunque la aventura concluyó en 2019 cuando Breitling decidió no renovar su patrocinio, el legado del equipo perdura.  En diciembre de 2024, el fabricante de defensa Babcock International adquirió los 11 L-39 que, a lo largo de los años, habían compuesto la flota histórica del equipo.  Los aviones serán utilizados en una academia de entrenamiento de pilotos de combate en Dijon, la misma base desde la que el Breitling Jet Team despegaba hacia el cielo.  El rugido de los motores de estas icónicas aeronaves no se apagará del todo.
 
 El Breitling Jet Team demostró que el patrocinio privado podía crear un equipo civil de élite, cuyo profesionalismo y calidad de vuelo rivalizaban con el de las patrullas militares. Su estela queda en los cielos azules que surcaron y en la memoria de los millones de espectadores que disfrutaron de sus exhibiciones.
+
+### El espectáculo
+La exhibición del Breitling Jet Team era una coreografía aérea cuidadosamente orquestada. Con una duración de 18 a 20 minutos, combinaba sobrevuelos en formación cerrada, pases de frente, rutinas en solitario y maniobras sincronizadas, todo ello con música y narración en vivo.  Los pilotos volaban con sus reactores a escasos metros de distancia entre sí a velocidades de cientos de kilómetros por hora, en formaciones que exigían una concentración absoluta y una precisión milimétrica.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -138,7 +127,6 @@ El Breitling Jet Team demostró que el patrocinio privado podía crear un equipo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
-
 <div class="references">
   <ul>
     <li><a href="https://en.wikipedia.org/wiki/Breitling_Jet_Team" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Breitling Jet Team</a></li>
@@ -151,7 +139,6 @@ El Breitling Jet Team demostró que el patrocinio privado podía crear un equipo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-
 - **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, European Airshows, EDR Magazine, European Security & Defence
 - **Discrepancias resueltas:** Las fuentes coinciden en que el equipo fue establecido a principios de 2003 con cuatro aviones L-39. La formación de exhibición alcanzó 7 aviones en 2008, no en 2007. La flota histórica completa del equipo ascendía a 11 unidades, que fueron vendidas a Babcock en diciembre de 2024. La exhibición duraba entre 18 y 20 minutos.
