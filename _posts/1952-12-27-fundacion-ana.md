@@ -16,7 +16,7 @@ image: 1952-12-27-fundacion-ana.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-<!-- ## Resumen ejecutivo -->
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
   <p>
     El 27 de diciembre de 1952 se establece Japan Helicopter & Aeroplane Transports Co., Ltd., empresa que daría origen a All Nippon Airways (ANA). Lo que comenzó como una pequeña compañía de helicópteros se transformó en una de las aerolíneas más grandes de Japón, reconocida mundialmente por su seguridad, innovación y servicio al cliente.
@@ -38,17 +38,33 @@ image: 1952-12-27-fundacion-ana.webp
 ## Contexto Histórico
 La fundación de Japan Helicopter & Aeroplane en diciembre de 1952 marcó el inicio de una nueva era en la aviación japonesa. En sus primeros años, la compañía operó helicópteros Bell 47D-1 para transporte y servicios aéreos. En 1957, tras su expansión y consolidación, adoptó el nombre All Nippon Airways (ANA), iniciando operaciones con aviones de ala fija.
 
+### Entorno social
+Los primeros servicios de la compañía fueron de helicóptero, dedicados al transporte y a los servicios aéreos por encargo. Desde esa base local, la empresa pasó a cubrir la demanda de pasajeros dentro de Japón y, más adelante, la conectividad internacional del país, con una cultura corporativa reconocida por su seguridad, su innovación y su servicio al cliente.
+
+### Entorno tecnológico
+La flota inicial fueron los helicópteros Bell 47D-1, con los que la empresa comenzó a operar en febrero de 1953. El paso al ala fija llegó con la expansión y la consolidación de la compañía: aviones de pasajeros que sustituyeron a los helicópteros ligeros y que, con el tiempo, incorporaron aeronaves modernas como el Boeing 787 Dreamliner.
+
+### Entorno cultural
+De aquella pequeña compañía de helicópteros de 1952 quedó el nombre All Nippon Airways, asociado a una de las aerolíneas más grandes de Japón y reconocida mundialmente por su seguridad, su innovación y su servicio al cliente. Su papel relevante en Star Alliance la instaló, además, en el mapa de la conectividad global.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Desarrollo y operaciones
+## Desarrollo Cronológico
+- **27 de diciembre de 1952:** se establece Japan Helicopter & Aeroplane Transports Co., Ltd., la empresa que daría origen a All Nippon Airways.
+- **Febrero de 1953:** inicio de operaciones con helicópteros Bell 47D-1.
+- **Diciembre de 1957:** cambio de nombre a All Nippon Airways Co., Ltd. e inicio de operaciones con aviones de ala fija.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
+## Consecuencias e Impacto
 - **Crecimiento:** ANA se convirtió rápidamente en una aerolínea clave en Japón.
 - **Evolución de flota:** De helicópteros ligeros a aviones de pasajeros.
 - **Consolidación:** Liderazgo en transporte aéreo nacional e internacional, con enfoque en innovación y seguridad.
+- **Transformación sectorial:** De operaciones locales con helicópteros a aerolínea global.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Impacto y legado
-- **Transformación sectorial:** De operaciones locales con helicópteros a aerolínea global.
+## Legado
 - **Innovación:** Introducción de aeronaves modernas como el Boeing 787 Dreamliner.
 - **Conectividad global:** Papel relevante en Star Alliance.
 
@@ -73,5 +89,5 @@ La fundación de Japan Helicopter & Aeroplane en diciembre de 1952 marcó el ini
 - **Timestamp de verificación:** 2026-09-09 12:34:42 CST  
 - **Fuentes primarias/institucionales consultadas:** ANA Official Website, ANA Archives, Wikipedia, Planet Airlines, Company Histories, This Day in Aviation
 - **Discrepancias resueltas:** Enciclopedias y resúmenes citan 27 de diciembre de 1952, mientras que la cronología oficial de ANA confirma diciembre de 1952 sin día específico.
-- **Nivel de confianza:** 100%
+- **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

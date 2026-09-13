@@ -17,14 +17,14 @@ image: 1783-11-21-primer-vuelo-globo-tripulado.webp
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
-
-El 21 de noviembre de 1783, a las 2:00 p.m., Jean-François Pilâtre de Rozier y el marqués François Laurent d'Arlandes se convirtieron en los primeros seres humanos en realizar un vuelo libre tripulado, ascendiendo a bordo de un globo de aire caliente diseñado por los hermanos Joseph-Michel y Jacques-Étienne Montgolfier. El vuelo despegó desde el Château de la Muette, en los alrededores de París, ante una multitud estimada de 400.000 personas, incluyendo al rey Luis XVI. Durante 25 minutos, los aeronautas recorrieron aproximadamente 9 kilómetros, alcanzando una altitud de unos 900 metros, hasta aterrizar entre dos molinos de viento en Butte-aux-Cailles.
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 21 de noviembre de 1783, a las 2:00 p.m., Jean-François Pilâtre de Rozier y el marqués François Laurent d'Arlandes se convirtieron en los primeros seres humanos en realizar un vuelo libre tripulado, ascendiendo a bordo de un globo de aire caliente diseñado por los hermanos Joseph-Michel y Jacques-Étienne Montgolfier. El vuelo despegó desde el Château de la Muette, en los alrededores de París, ante una multitud estimada de 400.000 personas, incluyendo al rey Luis XVI. Durante 25 minutos, los aeronautas recorrieron aproximadamente 9 kilómetros, alcanzando una altitud de unos 900 metros, hasta aterrizar entre dos molinos de viento en Butte-aux-Cailles.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-
 - **Fecha del primer vuelo tripulado:** 21 de noviembre de 1783
 - **Hora del despegue:** Aproximadamente 2:00 p.m.
 - **Lugar de salida:** Château de la Muette, cerca del Bois de Boulogne, París, Francia
@@ -43,9 +43,7 @@ El 21 de noviembre de 1783, a las 2:00 p.m., Jean-François Pilâtre de Rozier y
 - **Espectadores:** Estimados en 400.000 personas, incluyendo al rey Luis XVI
 - **Combustible:** Paja y lana quemadas en un brasero suspendido debajo del globo
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones del globo Montgolfier
+### Especificaciones del globo Montgolfier
 
 - **Tipo:** Globo de aire caliente (Montgolfière)
 - **Fabricante:** Hermanos Montgolfier, con la colaboración de Jean-Baptiste Réveillon (fabricante de papel pintado)
@@ -63,47 +61,24 @@ El 21 de noviembre de 1783, a las 2:00 p.m., Jean-François Pilâtre de Rozier y
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
-
 El siglo XVIII fue una época de grandes descubrimientos científicos, impulsada por la Ilustración. Figuras como el inglés Robert Boyle habían sentado las bases de la física de los gases, y los experimentos con la composición del aire estaban en pleno auge. Fue en este contexto que los hermanos Montgolfier, propietarios de una fábrica de papel en Annonay, al sur de Francia, comenzaron a experimentar con bolsas de papel y tela que se elevaban al ser llenadas con humo y aire caliente. Su descubrimiento accidental, al observar cómo las cenizas y el humo ascendían por la chimenea, les llevó a concebir la idea del globo aerostático.
 
-### Los experimentos previos
+### Entorno social
+Tras el éxito del vuelo con animales, el rey Luis XVI inicialmente propuso que dos criminales condenados a muerte fueran los primeros en volar, ofreciéndoles el indulto. Sin embargo, la intervención de Pilâtre de Rozier, un joven físico y químico que había participado en los experimentos previos, convenció al monarca de que el honor de ser el primer aeronauta debía recaer en personas de bien. Finalmente, se autorizó a de Rozier y al marqués d'Arlandes a realizar el vuelo.
 
+### Entorno tecnológico
 El camino hacia el primer vuelo tripulado estuvo marcado por una serie de experimentos exitosos que demostraron la viabilidad de la tecnología:
 
 - **4 de junio de 1783:** Los hermanos Montgolfier realizaron la primera demostración pública en Annonay. Un globo de lino forrado de papel, de 11 metros de diámetro, se elevó aproximadamente 1.000 metros y recorrió 2,4 kilómetros en 10 minutos ante una multitud asombrada. No llevaba tripulación.
 
 - **19 de septiembre de 1783:** En Versalles, ante el rey Luis XVI y su corte, los Montgolfier repitieron el experimento con un globo más grande. En esta ocasión, los pasajeros fueron una oveja, un pato y un gallo, en un experimento diseñado para evaluar los efectos de la altitud en un ser vivo. El vuelo duró 8 minutos y recorrió 3,2 kilómetros, y los animales aterrizaron sanos y salvos.
 
-### La preparación del vuelo tripulado
-
-Tras el éxito del vuelo con animales, el rey Luis XVI inicialmente propuso que dos criminales condenados a muerte fueran los primeros en volar, ofreciéndoles el indulto. Sin embargo, la intervención de Pilâtre de Rozier, un joven físico y químico que había participado en los experimentos previos, convenció al monarca de que el honor de ser el primer aeronauta debía recaer en personas de bien. Finalmente, se autorizó a de Rozier y al marqués d'Arlandes a realizar el vuelo.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El vuelo del 21 de noviembre de 1783
-
-La mañana del 21 de noviembre de 1783 amaneció fría y brumosa en París, pero una multitud de aproximadamente 400.000 personas se congregó en los jardines del Château de la Muette para ser testigo del histórico evento. Entre los asistentes se encontraba el rey Luis XVI, la reina María Antonieta, científicos, aristócratas y ciudadanos comunes.
-
-### El despegue
-
-El globo, de 22,86 metros de altura y 15,24 metros de diámetro, descansaba sobre una plataforma elevada. De Rozier y d'Arlandes ocuparon la galería circular de mimbre suspendida debajo de la abertura del globo. Un brasero de metal contenía paja y lana ardiendo, que calentaba el aire dentro de la enorme envoltura de tafetán barnizado.
-
-A las 2:00 p.m., se soltaron las amarras. El globo comenzó a ascender lentamente, ante la ovación de la multitud. Los aeronautas saludaron agitando banderas francesas.
-
-### El vuelo
-
-El globo se elevó hasta una altitud estimada de 910 metros (3.000 pies). Durante el trayecto, los aeronautas tuvieron que enfrentar varios desafíos. De Rozier era el responsable de avivar el fuego y agregar combustible para mantener la temperatura del aire, una tarea que implicaba el riesgo de incendiar la envoltura del globo con las chispas y cenizas. En varias ocasiones, las brasas comenzaron a chamuscar el tafetán, y los pilotos utilizaron esponjas empapadas en agua para apagar los pequeños incendios.
-
-El vuelo duró aproximadamente 25 minutos. El globo recorrió unos 9 kilómetros sobre los tejados de París, deslizándose suavemente hacia el suroeste, impulsado por el viento. Los aeronautas saludaban a los atónitos parisinos que los observaban desde las calles y azoteas.
-
-### El aterrizaje
-
-Finalmente, el globo descendió suavemente y aterrizó entre dos molinos de viento en la colina de Butte-aux-Cailles, en las afueras de París. De Rozier y d'Arlandes descendieron de la galería, exhaustos pero exultantes. La hazaña había sido completada. Podrían haber volado más lejos, pero las brasas del fuego ya estaban comenzando a chamuscar el globo, poniendo en riesgo la integridad de la aeronave.
+### Entorno cultural
+La aerostación se discutía entonces en las academias y en las calles de París: los experimentos con la composición del aire eran asunto público, y el ascenso de un ser humano venía a coronar la serie de pruebas con humo y aire caliente que los hermanos Montgolfier realizaban desde su fábrica de papel de Annonay.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
-
 - **4 de junio de 1783:** Primer vuelo público de un globo Montgolfier sin tripulación en Annonay 
 - **27 de agosto de 1783:** Jacques Charles lanza el primer globo de hidrógeno no tripulado en París
 - **19 de septiembre de 1783:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/09/19/primer-vuelo-globo-con-seres-vivos-versalles.html" style="color: #315fea; text-decoration: none;">Vuelo de un globo Montgolfier con animales (oveja, pato, gallo) en Versalles</a>, ante el rey Luis XVI 
@@ -112,26 +87,44 @@ Finalmente, el globo descendió suavemente y aterrizó entre dos molinos de vien
 - **7 de enero de 1785:** Jean-Pierre Blanchard y John Jeffries <a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html" style="color: #315fea; text-decoration: none;">cruzan el Canal de la Mancha en globo</a>  
 - **15 de junio de 1785:** Pilâtre de Rozier fallece al estrellarse su globo al intentar cruzar el Canal de la Mancha 
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+### El vuelo del 21 de noviembre de 1783
 
-## Los protagonistas
+La mañana del 21 de noviembre de 1783 amaneció fría y brumosa en París, pero una multitud de aproximadamente 400.000 personas se congregó en los jardines del Château de la Muette para ser testigo del histórico evento. Entre los asistentes se encontraba el rey Luis XVI, la reina María Antonieta, científicos, aristócratas y ciudadanos comunes.
 
-### Jean-François Pilâtre de Rozier (1754-1785)
+#### El despegue
+
+El globo, de 22,86 metros de altura y 15,24 metros de diámetro, descansaba sobre una plataforma elevada. De Rozier y d'Arlandes ocuparon la galería circular de mimbre suspendida debajo de la abertura del globo. Un brasero de metal contenía paja y lana ardiendo, que calentaba el aire dentro de la enorme envoltura de tafetán barnizado.
+
+A las 2:00 p.m., se soltaron las amarras. El globo comenzó a ascender lentamente, ante la ovación de la multitud. Los aeronautas saludaron agitando banderas francesas.
+
+#### El vuelo
+
+El globo se elevó hasta una altitud estimada de 910 metros (3.000 pies). Durante el trayecto, los aeronautas tuvieron que enfrentar varios desafíos. De Rozier era el responsable de avivar el fuego y agregar combustible para mantener la temperatura del aire, una tarea que implicaba el riesgo de incendiar la envoltura del globo con las chispas y cenizas. En varias ocasiones, las brasas comenzaron a chamuscar el tafetán, y los pilotos utilizaron esponjas empapadas en agua para apagar los pequeños incendios.
+
+El vuelo duró aproximadamente 25 minutos. El globo recorrió unos 9 kilómetros sobre los tejados de París, deslizándose suavemente hacia el suroeste, impulsado por el viento. Los aeronautas saludaban a los atónitos parisinos que los observaban desde las calles y azoteas.
+
+#### El aterrizaje
+
+Finalmente, el globo descendió suavemente y aterrizó entre dos molinos de viento en la colina de Butte-aux-Cailles, en las afueras de París. De Rozier y d'Arlandes descendieron de la galería, exhaustos pero exultantes. La hazaña había sido completada. Podrían haber volado más lejos, pero las brasas del fuego ya estaban comenzando a chamuscar el globo, poniendo en riesgo la integridad de la aeronave.
+
+### Los protagonistas
+Cuatro nombres sostienen la efeméride: los dos aeronautas que subieron a la barquilla y los dos hermanos que construyeron el globo.
+
+#### Jean-François Pilâtre de Rozier (1754-1785)
 
 Nacido en Metz, Francia, de Rozier fue un físico, químico y profesor de física y química. Fue una de las figuras centrales en los primeros experimentos aerostáticos, participando activamente en el diseño y las pruebas de los globos Montgolfier. Realizó varios ascensos en globo cautivo antes del vuelo libre, aprendiendo a controlar la aeronave. Su trágica muerte el 15 de junio de 1785, al intentar cruzar el Canal de la Mancha en un globo de su propio diseño (una combinación de globo de aire caliente y de hidrógeno), lo convirtió en el primer mártir de la aviación.
 
-### François Laurent le Vieux, marqués d'Arlandes (1742-1806)
+#### François Laurent le Vieux, marqués d'Arlandes (1742-1806)
 
 Aristócrata francés, oficial del ejército. Acompañó a de Rozier en el vuelo histórico. Su papel durante el vuelo fue auxiliar en las tareas de mantener el fuego. Después de la hazaña, continuó su carrera militar. Según algunas fuentes, falleció en 1806, posiblemente por suicidio.
 
-### Joseph-Michel Montgolfier (1740-1810) y Jacques-Étienne Montgolfier (1745-1799)
+#### Joseph-Michel Montgolfier (1740-1810) y Jacques-Étienne Montgolfier (1745-1799)
 
 Hijos de un próspero fabricante de papel de Annonay. Fueron los inventores del globo de aire caliente. Observando cómo las cenizas y el humo ascendían por la chimenea, concibieron la idea de que el aire caliente atrapado en una bolsa ligera podría elevarla. Aunque no participaron en el primer vuelo tripulado, su contribución a la aeronáutica es fundamental. Joseph-Michel también inventó la prensa hidráulica y mejoró la fabricación de papel.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
-
 - **Primer vuelo tripulado de la historia:** El 21 de noviembre de 1783 marcó el inicio de la aventura humana por conquistar el cielo, abriendo el camino a la aviación moderna.
 - **Popularización de la ciencia:** El éxito de los globos Montgolfier desató la "globomanía" en Francia y Europa, popularizando la ciencia y la experimentación.
 - **Reconocimiento institucional:** La Academia de Ciencias de Francia reconoció el logro de los Montgolfier, validando la aerostación como un campo de estudio serio.
@@ -141,7 +134,6 @@ Hijos de un próspero fabricante de papel de Annonay. Fueron los inventores del 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
-
 El 21 de noviembre de 1783 es una fecha fundacional en la historia de la aviación. Ese día, dos hombres demostraron que el vuelo humano era posible, anticipándose 120 años a los hermanos Wright. Aunque hoy los globos aerostáticos han sido superados en velocidad y utilidad por los aviones, siguen siendo un símbolo de la capacidad humana para soñar y superar los límites de lo posible.
 
 El Museo del Aire y del Espacio del Smithsonian conserva una medalla conmemorativa acuñada en 1783 que celebra este hito, con los bustos del rey Luis XVI y María Antonieta en el anverso, y la imagen de los dos globos (Montgolfier y Charlière) en el reverso. En París, el lugar de aterrizaje en Butte-aux-Cailles es recordado como el punto final de aquel vuelo pionero.
@@ -161,7 +153,6 @@ Pilâtre de Rozier, trágicamente, tiene el dudoso honor de ser la primera víct
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
-
 <div class="references">
   <ul>
     <li><a href="https://www.thisdayinaviation.com/21-november-1783/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 21 November 1783</a></li>
@@ -176,7 +167,6 @@ Pilâtre de Rozier, trágicamente, tiene el dudoso honor de ser la primera víct
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-
 - **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Encyclopaedia Britannica, National Air and Space Museum, Smithsonian Libraries
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (21 de noviembre de 1783). La altitud (910 m), duración (25 min) y distancia (9 km) son consistentes en todas las fuentes consultadas.

@@ -14,6 +14,7 @@ image: 1910-02-06-primer-vuelo-oficial-argentina-sudamerica.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1910-02-06-primer-vuelo-oficial-argentina-sudamerica.webp" alt="Henri Brégi en su biplano Voisin">
   <figcaption class="post-caption">Henri Brégi vuela su Voisin biplano sobre el hipódromo de Longchamps, provincia de Buenos Aires, durante el primer vuelo mecanizado y controlado de Sudamérica, 6 de febrero de 1910. Fuente: Archivo histórico argentino, reproducida en TodoProvincial (https://www.todoprovincial.com) y otros portales sobre el primer vuelo a motor en Longchamps.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
@@ -22,6 +23,7 @@ image: 1910-02-06-primer-vuelo-oficial-argentina-sudamerica.webp
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Datos verificados del evento
 - **Fecha del vuelo:** 6 de febrero de 1910  
 - **Lugar:** Hipódromo de Longchamps, Almirante Brown, Buenos Aires  
@@ -32,25 +34,40 @@ image: 1910-02-06-primer-vuelo-oficial-argentina-sudamerica.webp
 - **Homologación:** Aero Club Argentino certificó el vuelo como el primero oficial en Sudamérica (1911)  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
-### Antecedentes
-- Brégi llegó a Buenos Aires el 8 de enero de 1910 con dos biplanos Voisin (60 HP ENV y 50 HP Gnôme).  
-- Invitación del barón Antonio de Anchorena y Jorge Newbery, en el marco del Centenario de la Independencia.  
+Intentos previos en la región no habían sido exitosos: el vuelo de Henri Brégi (1888–1917) sobre el hipódromo de Longchamps, homologado por el Aero Club Argentino, fue el primero oficial controlado a motor de Argentina y de Sudamérica.
 
-### Detalles del vuelo
-- A las 17:35 hs realizó dos vueltas a la pista a 25 m de altura (~7 km).  
-- Posteriormente, un vuelo homologado de 8 min 45 s a 60 m de altura.  
+### Entorno social
+La visita se organizó por invitación del barón Antonio de Anchorena y Jorge Newbery, en el marco del Centenario de la Independencia, y el vuelo quedó homologado por el Aero Club Argentino.
 
-### Contexto regional
+### Entorno tecnológico
+El material llegó con el propio piloto: Brégi llegó a Buenos Aires el 8 de enero de 1910 con dos biplanos Voisin (60 HP ENV y 50 HP Gnôme). El vuelo oficial se realizó en el biplano Voisin con motor ENV de 60 HP.
+
+### Entorno cultural
+El vuelo se celebró en un hipódromo y ante unas 3.000 personas: la aviación llegaba a Sudamérica como espectáculo de masas, y la prensa del país lo recogería después como uno de sus hitos fundacionales.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Desarrollo Cronológico
+- **6 de febrero de 1910, 17:35 hs:** realizó dos vueltas a la pista a 25 m de altura (~7 km).
+- **6 de febrero de 1910:** posteriormente, un vuelo homologado de 8 min 45 s a 60 m de altura.
+- **1911:** el Aero Club Argentino certifica el vuelo como el primero oficial en Sudamérica.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Consecuencias e Impacto
 - Precedió vuelos similares en Brasil (Ricardo Paiva, 7 jul 1910) y Uruguay (Jorge Newbery, 18 ago 1910).  
-- Intentos previos en la región no habían sido exitosos.  
+- Impulsó la creación del aeródromo de Villa Lugano y la aviación militar en El Palomar.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 - Longchamps es reconocida como “Cuna de la Aviación Argentina”.  
 - Placa conmemorativa instalada en 1963 en el Country Club de Longchamps.  
-- Impulsó la creación del aeródromo de Villa Lugano y la aviación militar en El Palomar.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -65,6 +82,7 @@ image: 1910-02-06-primer-vuelo-oficial-argentina-sudamerica.webp
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; La Nación; Todo Provincial; Latitud Argentina; Billiken; Early Aviators; Municipalidad Almirante Brown  

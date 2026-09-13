@@ -14,6 +14,7 @@ image: 1926-02-10-vuelo-historico-plus-ultra.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1926-02-10-vuelo-historico-plus-ultra.webp" alt="El Plus Ultra tras amerizar en Buenos Aires">
   <figcaption class="post-caption">Vista aérea del hidroavión Dornier Do J Wal "Plus Ultra" (M-MWAL) amerizando en el Río de la Plata, Buenos Aires, rodeado de canoas locales el 10 de febrero de 1926, culminando el primer vuelo trasatlántico España-Sudamérica. Museo del Aire y prensa periodística</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
@@ -22,6 +23,7 @@ image: 1926-02-10-vuelo-historico-plus-ultra.webp
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Datos verificados del evento
 - **Fecha:** 10 de febrero de 1926  
 - **Lugar:** Río de la Plata, Buenos Aires, Argentina  
@@ -33,22 +35,40 @@ image: 1926-02-10-vuelo-historico-plus-ultra.webp
 - **Tiempo de vuelo acumulado:** ~59 h 40 min  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
 El vuelo del Plus Ultra fue una hazaña técnica y simbólica que reforzó los lazos entre España y América, marcando un hito en la aviación trasatlántica.
 
-### Recepción en Buenos Aires
+### Entorno social
 La llegada del hidroavión fue un acontecimiento multitudinario: escolta aérea argentina, recibimiento apoteósico, prensa con ediciones especiales y actos oficiales en honor a la tripulación.
 
-### Simbolismo político y cultural
+### Entorno tecnológico
+El aparato era un Dornier Do J Wal modificado para gran autonomía, con dos motores Napier Lion montados en tándem sobre el ala. Su condición de hidroavión le permitía amerizar en cada escala de la ruta, y la travesía se resolvió con unas 59 horas y 40 minutos de vuelo acumulado para cubrir entre 10.170 y 10.825 kilómetros.
+
+### Entorno cultural
 La gesta se presentó como continuidad de los viajes trasatlánticos iniciados por Colón desde Palos de la Frontera, y como símbolo de unión entre España y América.
 
-### Viabilidad de futuras rutas aéreas
-El vuelo buscaba explorar la posibilidad de establecer líneas de correo rápido entre España y Sudamérica, anticipando la era de las comunicaciones aéreas transatlánticas.
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-### Destino del avión
-El rey Alfonso XIII donó el Plus Ultra a Argentina en 1926. Sirvió como avión correo hasta 1936 y luego pasó al Museo de Luján. En los años 80 fue enviado a España para restauración, pero regresó a Argentina, donde permanece exhibido en el Museo del Transporte de Luján. En Madrid, el Museo del Aire conserva una réplica a tamaño real del hidroavión.
+## Desarrollo Cronológico
+- **22 de enero de 1926:** despegue de Palos de la Frontera.
+- **Etapas atlánticas:** Las Palmas, Porto Praia, Fernando de Noronha, Recife y Río de Janeiro, con amerizaje en cada escala.
+- **10 de febrero de 1926:** tramo final por Montevideo y amerizaje en el Río de la Plata, en Buenos Aires.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Consecuencias e Impacto
+El vuelo buscaba explorar la posibilidad de establecer líneas de correo rápido entre España y Sudamérica, anticipando la era de las comunicaciones aéreas transatlánticas. Con el amerizaje del 10 de febrero de 1926 quedó completado el primer vuelo trasatlántico entre España y Sudamérica.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Legado
+El rey Alfonso XIII donó el Plus Ultra a Argentina en 1926. Sirvió como avión correo hasta 1936 y luego pasó al Museo de Luján. En los años 80 fue enviado a España para restauración, pero regresó a Argentina, donde permanece exhibido en el Museo del Transporte de Luján. En Madrid, el Museo del Aire conserva una réplica a tamaño real del hidroavión.
+
+El nombre del hidroavión y los de su tripulación —Ramón Franco, Julio Ruiz de Alda, Juan Manuel Durán y Pablo Rada— quedaron ligados a aquella primera travesía.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -70,6 +90,7 @@ El rey Alfonso XIII donó el Plus Ultra a Argentina en 1926. Sirvió como avión
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN y ES), prensa española y argentina, ACAMI, Infobae, estudios académicos, Testdelayer, El Civismo, Monumentalnet  

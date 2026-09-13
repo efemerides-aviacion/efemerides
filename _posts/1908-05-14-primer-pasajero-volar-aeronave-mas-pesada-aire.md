@@ -16,14 +16,15 @@ image: 1908-05-14-primer-pasajero-volar-aeronave-mas-pesada-aire.webp
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Resumen Ejecutivo
 
-El 14 de mayo de 1908, Charles William Furnas se convirtió en el primer pasajero de la historia en volar a bordo de una aeronave motorizada más pesada que el aire. Ese día, en Kill Devil Hills, Kitty Hawk, Carolina del Norte, Furnas acompañó primero a Wilbur Wright y luego a Orville Wright en el Wright Flyer III, un biplano modificado de 1905. Este hito demostró que una máquina voladora podía transportar a una segunda persona, un requisito indispensable para que el invento de los hermanos Wright pudiera ser considerado para uso militar y comercial, allanando el camino para la aviación moderna.
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 14 de mayo de 1908, Charles William Furnas se convirtió en el primer pasajero de la historia en volar a bordo de una aeronave motorizada más pesada que el aire. Ese día, en Kill Devil Hills, Kitty Hawk, Carolina del Norte, Furnas acompañó primero a Wilbur Wright y luego a Orville Wright en el Wright Flyer III, un biplano modificado de 1905. Este hito demostró que una máquina voladora podía transportar a una segunda persona, un requisito indispensable para que el invento de los hermanos Wright pudiera ser considerado para uso militar y comercial, allanando el camino para la aviación moderna.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-
 - **Fecha del vuelo:** 14 de mayo de 1908
 - **Lugar:** Kill Devil Hills, Kitty Hawk, Carolina del Norte, Estados Unidos
 - **Pasajero:** Charles William Furnas (20 de diciembre de 1880 – 15 de octubre de 1941)
@@ -34,9 +35,7 @@ El 14 de mayo de 1908, Charles William Furnas se convirtió en el primer pasajer
 - **Importancia histórica:** Primer pasajero en un avión
 - **Otros logros de Furnas:** Primer ingeniero de vuelo a bordo, ayudó a desarrollar el primer avión militar, primera persona contratada en Estados Unidos por una empresa fabricante de aviones (Wright Cycle Company)
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones del Wright Flyer III (1908)
+### Especificaciones del Wright Flyer III (1908)
 
 El avión utilizado fue el Flyer III de 1905, la tercera máquina voladora diseñada por los hermanos Wright, modificada para incluir un segundo asiento y controles para un pasajero. Fue la primera aeronave práctica que desarrollaron, y sobre ella hicieron los vuelos de prueba para el Ejército de EE. UU.
 
@@ -53,30 +52,21 @@ El avión utilizado fue el Flyer III de 1905, la tercera máquina voladora dise�
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Charles William Furnas: el primer pasajero
+## Contexto Histórico
+Para 1908, los hermanos Wright ya habían realizado su primer vuelo en 1903, pero la hazaña no había sido reconocida mundialmente. El objetivo de los Wright en 1908 era convencer a los gobiernos de Estados Unidos y Francia de la viabilidad de su invento, vendiendo un avión práctico.
 
-Charles Furnas nació en Butler Township, Ohio, el 20 de diciembre de 1880. Antes de unirse a los Wright, sirvió en la Armada de los Estados Unidos como mecánico entre 1902 y 1906, donde adquirió habilidades que serían fundamentales para su trabajo posterior.
+### Entorno social
+El Ejército de los Estados Unidos había puesto como condición clave que el avión pudiera transportar a un pasajero, además del piloto, demostrando así su utilidad para tareas de reconocimiento.
 
-### El encuentro con los hermanos Wright
+### Entorno tecnológico
+El aparato de las pruebas era el Flyer III de 1905, modificado con un segundo asiento y controles para el pasajero, y los Wright lo habían validado durante semanas con sacos de arena en el lugar del acompañante.
 
-Furnas era un gran admirador de los hermanos Wright. En 1904, mientras estaba de permiso en la Armada, observó algunos de sus vuelos de prueba en Huffman Prairie. Al regresar a Dayton después de su baja, estableció un taller mecánico cerca de la tienda de bicicletas de los Wright, a quienes visitaba con frecuencia, ofreciendo su trabajo a cambio de que le enseñaran sobre aviación. Finalmente, fue contratado como mecánico, recibiendo su primer cheque de pago de los hermanos Wright el 11 de abril de 1908.
-
-### El viaje a Kitty Hawk
-
-Furnas viajó por su cuenta, sin ser invitado, más de 1.000 km (650 millas) desde Dayton, Ohio, hasta Kitty Hawk para estar presente en las pruebas. Llegó el 15 de abril de 1908, tomando por sorpresa a Wilbur Wright, quien lo puso a cargo de reconstruir el campamento para las pruebas de vuelo.
-
-### El vuelo histórico
-
-Durante semanas, los Wright realizaron pruebas con sacos de arena en el asiento del acompañante para simular el peso de un pasajero. El 14 de mayo de 1908, confiados en la máquina, decidieron llevar a un pasajero real. El honor recayó en Furnas, quien voló en dos ocasiones ese día: primero con Wilbur y luego, horas después, con Orville.
-
-### Después de los vuelos
-
-Furnas siguió trabajando para los Wright. Ayudó en la reconstrucción del avión tras el accidente del mismo día y se convirtió en empleado de tiempo completo. Sin embargo, tras el trágico accidente del 17 de septiembre de 1908, en el que murió el Teniente Thomas Selfridge durante una demostración para el Ejército, Furnas se distanció de los hermanos. Regresó a West Milton, Ohio, donde montó su propio garaje y un teatro de cine mudo, dedicándose a una vida alejada de la aviación.
+### Entorno cultural
+Las pruebas se seguían desde tierra, en el campamento que los Wright mantenían junto a las dunas de Kitty Hawk, y el asiento del acompañante cambió el carácter del espectáculo: por primera vez había un público que volaba. La noticia de aquellos vuelos de mayo de 1908 se difundió por todo el mundo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
-
 - **20 de diciembre de 1880:** Nace Charles William Furnas en Butler Township, Ohio.
 - **1902-1906:** Sirve como mecánico en la Armada de los Estados Unidos.
 - **1904:** Observa vuelos de prueba de los Wright en Huffman Prairie durante un permiso.
@@ -90,24 +80,32 @@ Furnas siguió trabajando para los Wright. Ayudó en la reconstrucción del avi�
 - **17 de septiembre de 1908:** Accidente fatal del Teniente Thomas Selfridge en Fort Myer, Virginia; Furnas abandona a los Wright poco después.
 - **15 de octubre de 1941:** Fallece Charles Furnas en el Hospital de Veteranos de Dayton, Ohio. Orville Wright asiste a su funeral.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El contexto histórico: el camino hacia el avión práctico
-
-Para 1908, los hermanos Wright ya habían realizado su primer vuelo en 1903, pero la hazaña no había sido reconocida mundialmente. El objetivo de los Wright en 1908 era convencer a los gobiernos de Estados Unidos y Francia de la viabilidad de su invento, vendiendo un avión práctico.
-
-### Los requisitos del Ejército de EE. UU.
-
-El Ejército de los Estados Unidos había puesto como condición clave que el avión pudiera transportar a un pasajero, además del piloto, demostrando así su utilidad para tareas de reconocimiento.
-
 ### El mismo día: un accidente tras el éxito
-
 Ese 14 de mayo, después de los vuelos históricos con Furnas, Wilbur intentó un vuelo más prolongado. Al errar el control de profundidad (elevator), se precipitó contra el suelo a gran velocidad. El avión quedó destruido, pero Wilbur salió ileso. Este accidente no hizo más que reafirmar la necesidad de seguir mejorando la máquina.
+
+### Charles William Furnas: el primer pasajero
+
+Charles Furnas nació en Butler Township, Ohio, el 20 de diciembre de 1880. Antes de unirse a los Wright, sirvió en la Armada de los Estados Unidos como mecánico entre 1902 y 1906, donde adquirió habilidades que serían fundamentales para su trabajo posterior.
+
+#### El encuentro con los hermanos Wright
+
+Furnas era un gran admirador de los hermanos Wright. En 1904, mientras estaba de permiso en la Armada, observó algunos de sus vuelos de prueba en Huffman Prairie. Al regresar a Dayton después de su baja, estableció un taller mecánico cerca de la tienda de bicicletas de los Wright, a quienes visitaba con frecuencia, ofreciendo su trabajo a cambio de que le enseñaran sobre aviación. Finalmente, fue contratado como mecánico, recibiendo su primer cheque de pago de los hermanos Wright el 11 de abril de 1908.
+
+#### El viaje a Kitty Hawk
+
+Furnas viajó por su cuenta, sin ser invitado, más de 1.000 km (650 millas) desde Dayton, Ohio, hasta Kitty Hawk para estar presente en las pruebas. Llegó el 15 de abril de 1908, tomando por sorpresa a Wilbur Wright, quien lo puso a cargo de reconstruir el campamento para las pruebas de vuelo.
+
+#### El vuelo histórico
+
+Durante semanas, los Wright realizaron pruebas con sacos de arena en el asiento del acompañante para simular el peso de un pasajero. El 14 de mayo de 1908, confiados en la máquina, decidieron llevar a un pasajero real. El honor recayó en Furnas, quien voló en dos ocasiones ese día: primero con Wilbur y luego, horas después, con Orville.
+
+#### Después de los vuelos
+
+Furnas siguió trabajando para los Wright. Ayudó en la reconstrucción del avión tras el accidente del mismo día y se convirtió en empleado de tiempo completo. Sin embargo, tras el trágico accidente del 17 de septiembre de 1908, en el que murió el Teniente Thomas Selfridge durante una demostración para el Ejército, Furnas se distanció de los hermanos. Regresó a West Milton, Ohio, donde montó su propio garaje y un teatro de cine mudo, dedicándose a una vida alejada de la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
-
 - **Demostración de viabilidad comercial:** El vuelo con pasajero demostró que el avión tenía aplicaciones prácticas más allá del deporte o la demostración, como el transporte de personal o carga.
 - **Impulso para la venta al Ejército:** El éxito en el transporte de una persona propició que el Ejército de EE. UU. firmara un contrato con los Wright por 25.000 dólares por un avión que pudiera volar una hora a 40 mph con un pasajero.
 - **Reconocimiento mundial:** Las noticias de estos vuelos, a pesar del accidente posterior, se difundieron por todo el mundo, consolidando la reputación de los Wright como pioneros de la aviación.
@@ -116,7 +114,6 @@ Ese 14 de mayo, después de los vuelos históricos con Furnas, Wilbur intentó u
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
-
 La hazaña de Charles Furnas es a menudo una nota a pie de página en la historia de la aviación, eclipsada por la gloria de los hermanos Wright. Sin embargo, su contribución fue fundamental. No solo fue el "primer pasajero", sino que fue un mecánico talentoso que ayudó a preparar los aviones, un "ingeniero de vuelo" pionero que operó los motores en el aire y un hombre cuya dedicación y riesgo allanaron el camino para la industria del transporte aéreo.
 
 Furnas encarna el espíritu de todos aquellos que, sin ser pilotos, hicieron posible la aviación. Su legado no es solo el de ser el primero en sentarse en el asiento de atrás, sino el de demostrar que volar era una experiencia que podía ser compartida, allanando el camino para la industria del transporte aéreo que hoy conecta el mundo. Hoy, el Wright Flyer III, restaurado a su configuración original, se exhibe en el Carillon Park en Dayton, Ohio, como testimonio de aquellos días pioneros.
@@ -131,7 +128,6 @@ Furnas encarna el espíritu de todos aquellos que, sin ser pilotos, hicieron pos
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
-
 <div class="references">
   <ul>
     <li><a href="https://www.smithsonianmag.com/air-space-magazine/first-airplane-passenger-180963107/" style="color: #315fea; text-decoration: none;">Smithsonian Air & Space Magazine - The First Airplane Passenger</a></li>
@@ -145,7 +141,6 @@ Furnas encarna el espíritu de todos aquellos que, sin ser pilotos, hicieron pos
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-
 - **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Smithsonian Air & Space Magazine, National Air and Space Museum, This Day in Aviation, Wikipedia, DocsTeach (National Archives)
 - **Discrepancias resueltas:** Las fuentes son consistentes en la fecha (14 de mayo de 1908) y los detalles de los vuelos. La duración del primer vuelo varía ligeramente entre 28 y 29 segundos; se ha incluido el rango.

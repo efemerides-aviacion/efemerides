@@ -14,13 +14,16 @@ image: 1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.webp" alt="Pilotos venezolanos reciben diploma tras romper la barrera del sonido">
   <figcaption class="post-caption">En la foto, Donald Wolfe representante de North American, entrega a los jóvenes pilotos (de izq. a der.) Pascual Azara Azara, Leonidas Marquina Dugarte y Braulio Martínez Zerpa el diploma y el pin que los acredita como miembros del Club Supersónico. Fuente: https://www.facebook.com/fuerzaaereavenezolana.fav</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 10 de febrero de 1955, tres Alféreces de la Escuela de Aviación Militar (EAM), en curso avanzado de vuelo con la Fuerza Aérea de los Estados Unidos (USAF), pasaron a la historia al convertirse en los primeros pilotos de la Fuerza Aérea Venezolana (FAV) en romper la temida “barrera sónica”. Lo hicieron a bordo de cazabombarderos North American F‑86F Sabre en los cielos de la Base Aérea Nellis, Nevada.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Datos verificados del evento
 - **Fecha:** 10 de febrero de 1955  
 - **Lugar:** Nellis Air Force Base, Nevada, EE.UU.  
@@ -29,10 +32,37 @@ image: 1955-02-10-primeros-pilotos-fav-rompieron-barrera-sonido.webp
 - **Reconocimiento:** Diploma y pin del *Club Supersónico*  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
-El vuelo supersónico de estos tres jóvenes oficiales marcó un hito en la historia de la aviación militar venezolana. La FAV recibió sus primeros F‑86F Sabre en 1955, convirtiéndose en la primera fuerza aérea latinoamericana en operar cazas capaces de superar Mach 1. El evento simbolizó la transición hacia la era del jet y consolidó la cooperación con la USAF.
+El vuelo supersónico de estos tres jóvenes oficiales marcó un hito en la historia de la aviación militar venezolana.
+
+### Entorno social
+Los tres pilotos eran Alféreces de la Escuela de Aviación Militar (EAM) en curso avanzado de vuelo con la Fuerza Aérea de los Estados Unidos (USAF). El episodio consolidó la cooperación con la USAF.
+
+### Entorno tecnológico
+La FAV recibió sus primeros F‑86F Sabre en 1955, convirtiéndose en la primera fuerza aérea latinoamericana en operar cazas capaces de superar Mach 1. El evento simbolizó la transición hacia la era del jet.
+
+### Entorno cultural
+Romper la “temida barrera sónica” era la frontera que separaba a los pilotos de élite: cruzarla daba entrada en el Club Supersónico, la distinción con la que North American acreditaba a quienes superaban Mach 1.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Desarrollo Cronológico
+- **10 de febrero de 1955:** los Alféreces Pascual Azara Azara, Leonidas Marquina Dugarte y Braulio Martínez Zerpa rompen la barrera del sonido en los cielos de la Base Aérea Nellis, Nevada, a bordo de cazabombarderos North American F‑86F Sabre.
+- **Aquel mismo día:** Donald Wolfe, representante de North American, entrega a los tres pilotos el diploma y el pin que los acredita como miembros del Club Supersónico.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Consecuencias e Impacto
+La Fuerza Aérea Venezolana entró con este vuelo en la era supersónica y los tres Alféreces quedaron como sus primeros pilotos en romper la barrera del sonido. El episodio se conserva en la memoria histórica de la institución, que lo difunde en sus propios canales como una de sus efemérides.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Legado
+Los nombres de Pascual Azara Azara, Leonidas Marquina Dugarte y Braulio Martínez Zerpa abren la lista de los pilotos venezolanos que superaron Mach 1, y la fotografía del acto en la Base Aérea Nellis, con el representante de North American entregándoles el diploma y el pin del Club Supersónico, sigue siendo la imagen del hito.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -46,6 +76,7 @@ El vuelo supersónico de estos tres jóvenes oficiales marcó un hito en la hist
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
 - **Fuentes primarias/institucionales consultadas:** FAV (Facebook), testimonios en redes sociales, Wikipedia, documentación sobre el F‑86F Sabre  

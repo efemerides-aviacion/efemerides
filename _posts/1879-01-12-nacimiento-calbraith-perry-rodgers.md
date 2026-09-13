@@ -16,6 +16,7 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1879-01-12-nacimiento-calbraith-perry-rodgers.webp" alt="Calbraith Perry Rodgers en el Vin Fiz Flyer">
   <figcaption class="post-caption">Calbraith Perry Rodgers en la cabina del Vin Fiz Flyer, con gafas de aviador y expresión resuelta. Fotografía tomada durante su etapa como pionero de la aviación estadounidense, 1911.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
@@ -24,7 +25,8 @@ redirect_from:
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Datos biográficos verificados
+
+## Datos verificados del evento
 - **Nombre completo:** Calbraith Perry Rodgers  
 - **Fecha de nacimiento:** 12 de enero de 1879  
 - **Lugar de nacimiento:** Pittsburgh, Pensilvania, Estados Unidos  
@@ -39,22 +41,38 @@ redirect_from:
 - **Sepultura:** Cementerio de Allegheny, Pittsburgh  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Contexto personal
-Rodgers creció en un entorno marcado por la tradición naval y el espíritu aventurero, aunque sin llegar a conocer a su padre: el Capitán Calbraith Perry Rodgers Sr., del 5.º Regimiento de Caballería, murió en el Territorio de Wyoming el 23 de agosto de 1878, cinco meses antes de que él naciera. Se crio con su madre y sus abuelos maternos en el acomodado barrio de Shadyside, en Pittsburgh, y pasaba los veranos en la finca familiar de Havre de Grace, en Maryland.  
 
-A los seis años contrajo escarlatina, que lo dejó sordo de un oído y con la audición muy mermada en el otro. La secuela le cerró la puerta de la carrera naval que habían seguido sus antepasados, pero no atenuó su afán de aventura: se volcó en la vela, la hípica, las motocicletas y el automovilismo. En 1902 se reunió en Nueva York con su madre y su hermana, y se hizo socio del New York Yacht Club. En 1906 se casó con Mabel Avis Graves; el matrimonio se estableció en Havre de Grace y no tuvo hijos. La aviación fue para él una extensión natural de esa misma pasión por el riesgo y la exploración.
+## Contexto Histórico
+Rodgers creció en un entorno marcado por la tradición naval y el espíritu aventurero, aunque sin llegar a conocer a su padre: el Capitán Calbraith Perry Rodgers Sr., del 5.º Regimiento de Caballería, murió en el Territorio de Wyoming el 23 de agosto de 1878, cinco meses antes de que él naciera.
+
+### Entorno social
+Se crio con su madre y sus abuelos maternos en el acomodado barrio de Shadyside, en Pittsburgh, y pasaba los veranos en la finca familiar de Havre de Grace, en Maryland. En 1902 se reunió en Nueva York con su madre y su hermana, y se hizo socio del New York Yacht Club. En 1906 se casó con Mabel Avis Graves; el matrimonio se estableció en Havre de Grace y no tuvo hijos.
+
+### Entorno tecnológico
+La aviación que descubrió en junio de 1911, al visitar a su primo John Rodgers en la fábrica de la Wright Company en Dayton (Ohio), se aprendía en días: noventa minutos de lecciones de vuelo con Orville Wright le bastaron para presentarse al examen, que superó el 7 de agosto de 1911 en Huffman Prairie. La Federación Aeronáutica Internacional lo licenció como el 49.º piloto del mundo, y la máquina con la que hizo su travesía fue el Wright Model EX “Vin Fiz Flyer”.
+
+### Entorno cultural
+A los seis años contrajo escarlatina, que lo dejó sordo de un oído y con la audición muy mermada en el otro. La secuela le cerró la puerta de la carrera naval que habían seguido sus antepasados, pero no atenuó su afán de aventura: se volcó en la vela, la hípica, las motocicletas y el automovilismo. La aviación fue para él una extensión natural de esa misma pasión por el riesgo y la exploración.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Hazaña destacada
+
+## Desarrollo Cronológico
 - **Agosto de 1911:** compitió en el Chicago International Aviation Meet, donde estableció varias marcas —entre ellas la de duración— y ganó 11.285 dólares en premios.  
 - **17 de septiembre – 5 de noviembre de 1911:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1911/11/05/vin-fiz-primer-vuelo-transcontinental-estados-unidos.html" style="color: #315fea; text-decoration: none;">primera travesía aérea de Norteamérica</a>, realizada con el Wright Model EX “Vin Fiz Flyer” entre Sheepshead Bay (Nueva York) y Pasadena (California), en cuarenta y nueve días y con más de setenta aterrizajes.  
 - Este logro consolidó su nombre en la historia de la aviación, aunque su vida se truncó cinco meses después: el 3 de abril de 1912 se estrelló en Long Beach durante una exhibición, en el mismo litoral donde había concluido su travesía. Tenía treinta y tres años.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
+## Consecuencias e Impacto
+La travesía de cuarenta y nueve días, con más de setenta aterrizajes entre Sheepshead Bay y Pasadena, fue la primera aérea de Norteamérica y demostró que un avión podía cruzar el continente. El Wright EX “Vin Fiz Flyer” con el que la voló se conserva en el Smithsonian, y las marcas y los 11.285 dólares en premios del Chicago International Aviation Meet de agosto de 1911 habían anunciado ya a un piloto de resistencia.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Legado
 Rodgers es recordado como uno de los primeros héroes de la aviación estadounidense. Su vida breve pero intensa refleja la transición de la aventura deportiva hacia la aviación como disciplina pionera. Su nombre permanece asociado al primer vuelo transcontinental y a la audacia de los primeros aviadores.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -69,6 +87,7 @@ Rodgers es recordado como uno de los primeros héroes de la aviación estadounid
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** Smithsonian NASM (Wright EX «Vin Fiz»); Smithsonian Archives; The Museum of Flight Archives (ficha de autoridad, vinculada al registro n80086393 de la Biblioteca del Congreso); Senator John Heinz History Center; placa conmemorativa de Pittsburgh recogida en The Historical Marker Database

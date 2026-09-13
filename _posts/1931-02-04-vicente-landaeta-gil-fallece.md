@@ -14,6 +14,7 @@ image: 1931-02-04-vicente-landaeta-gil-fallece.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1931-02-04-vicente-landaeta-gil-fallece.webp" alt="Retrato oficial del Teniente Vicente Landaeta Gil">
   <figcaption class="post-caption">Avión Farman F.190 de la Aviación Militar Venezolana, similar al del accidente en el que falleció el Teniente Vicente Landaeta Gil el 4 de febrero de 1931 en Barquisimeto. Fuente: Museo del Transporte de Caracas.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
@@ -22,6 +23,7 @@ image: 1931-02-04-vicente-landaeta-gil-fallece.webp
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Datos verificados del evento
 - **Fecha:** 4 de febrero de 1931  
 - **Lugar:** Campo de aviación de Barquisimeto, Venezuela  
@@ -34,23 +36,44 @@ image: 1931-02-04-vicente-landaeta-gil-fallece.webp
 - **Causa probable:** Pérdida de control por impericia o remolino descendente (“hoyo de aire”), según informe SAR 04-02-31 N° 01.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Contexto Histórico
 El accidente de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/05/15/nacimiento-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Vicente Landaeta Gil</a> marcó un hito en la historia de la aviación militar venezolana, al ser el primer siniestro fatal registrado en sus filas.
 
-### Homenajes
-- La <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1964/02/14/base-aerea-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Base Aérea Teniente Vicente Landaeta Gil (Balanda)</a> en Barquisimeto lleva su nombre desde 1964.  
-- Fue pionero de la Primera Promoción de Aviadores Militares venezolanos.  
+### Entorno social
+El vuelo formaba parte de las maniobras de la Aviación Militar Venezolana en el campo de aviación de Barquisimeto. A bordo del aparato iban cuatro militares: el Teniente Vicente Landaeta Gil como piloto, el Teniente Julio Fortoul, mecánico electricista, y los Subtenientes Alfredo García y Ángel Stoppello.
 
-### Cobertura periodística
+### Entorno tecnológico
+El Farman F.190, de fabricación francesa y pintado en verde oliva y marrón claro, era el aparato de las maniobras. La aproximación al campo de Barquisimeto se hizo en condiciones nubladas y de mal tiempo, el escenario en el que el avión se precipitó en picada y perdió el motor.
+
+### Entorno cultural
 - El accidente fue presenciado por cientos de personas.  
 - Fotografiado por Evaristo Reyes Yáñez, cuyas postales se agotaron rápidamente.  
 - Cubierto por los diarios *El Impulso* y *El Nuevo Diario*.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Desarrollo Cronológico
+- **4 de febrero de 1931:** en las maniobras de aterrizaje del campo de aviación de Barquisimeto, el Farman F.190 se precipita en picada, se desprende el motor y capota; muere el piloto, el Teniente Vicente Landaeta Gil.
+- **4 de febrero de 1931:** el informe SAR 04-02-31 N° 01 recoge el siniestro, el primero con víctima mortal registrado en la Aviación Militar Venezolana.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+## Consecuencias e Impacto
+Del accidente salió con vida la mayor parte de la tripulación: el Teniente Julio Fortoul resultó herido leve y los Subtenientes Alfredo García y Ángel Stoppello, ilesos. El informe SAR 04-02-31 N° 01 atribuyó la causa probable a una pérdida de control por impericia o a un remolino descendente, un «hoyo de aire».
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 - Su memoria permanece como símbolo de los riesgos asumidos por los primeros aviadores militares venezolanos.  
 - Su nombre está ligado a la consolidación de la aviación militar en el país.  
 
+### Homenajes
+- La <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1964/02/14/base-aerea-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Base Aérea Teniente Vicente Landaeta Gil (Balanda)</a> en Barquisimeto lleva su nombre desde 1964.  
+- Fue pionero de la Primera Promoción de Aviadores Militares venezolanos.  
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -65,6 +88,7 @@ El accidente de <a href="https://efemerides-aviacion.github.io/efemerides/nacimi
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; El Impulso; Correo del Lara; El Nacional; FAV Club  
