@@ -16,6 +16,7 @@ redirect_from:
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1902-02-04-nacimiento-charles-lindbergh.webp" alt="Charles Lindbergh joven">
   <figcaption class="post-caption">Charles Lindbergh en retrato de aviador joven (ca. 1925), antes de su histórico vuelo transatlántico en solitario del 20-21 de mayo de 1927.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
@@ -24,6 +25,7 @@ redirect_from:
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Datos verificados del evento
 - **Fecha de nacimiento:** 4 de febrero de 1902  
 - **Lugar:** Detroit, Michigan, Estados Unidos  
@@ -34,28 +36,45 @@ redirect_from:
 - **Carrera inicial:** barnstormer, paracaidista, mecánico, Army Air Service (1924)  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Contexto Histórico
 El nacimiento de Lindbergh coincidió con el auge de la aviación temprana. Su vida reflejó tanto el espíritu pionero como las complejidades de la época.
 
-### Inicios en aviación
+### Entorno social
+Hijo de Charles August Lindbergh y de Evangeline Lodge Land, vivió su infancia en una granja de Minnesota, donde mostró una temprana habilidad mecánica. Su formación lo llevó a la University of Wisconsin-Madison, a la ingeniería, que abandonó en 1922.
+
+### Entorno tecnológico
+La aviación que encontró era la de los excedentes de la guerra y los aparatos de escuela: se volaba solo por primera vez en un Curtiss Jenny y se hacía carrera pasando por el barnstorming, el paracaidismo, los talleres de mecánico y el Army Air Service, antes de que un monoplano construido para una sola travesía, el *Spirit of St. Louis*, permitiera cruzar el Atlántico de Nueva York a París sin escalas.
+
+### Entorno cultural
+Los vuelos de exhibición recorrían el país con material de la Gran Guerra y las travesías largas se seguían como gestas: en esa cultura del espectáculo aéreo se formó Lindbergh.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
+## Desarrollo Cronológico
+- **4 de febrero de 1902:** nace en Detroit, Michigan.
 - Fascinado por barnstormers y aviones de la Primera Guerra Mundial.  
 - Entrenamiento en Lincoln, Nebraska, en 1922.  
 - Primer vuelo solo en 1923.  
-
-### Hito mundial
+- **1924:** ingresa en el Army Air Service.
 - El 20-21 de mayo de 1927 realizó el primer vuelo transatlántico nonstop en solitario, de Nueva York a París, en el *Spirit of St. Louis*.  
-- Se convirtió en ícono global de la aviación.  
 
-### Controversias y vida posterior
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
+## Consecuencias e Impacto
+- Se convirtió en ícono global de la aviación.  
 - Secuestro y asesinato de su hijo en 1932, caso que conmocionó al mundo.  
 - Simpatías aislacionistas en los años previos a la Segunda Guerra Mundial.  
 - Posteriormente colaboró como consultor técnico en la industria aeronáutica y médica.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 - Figura emblemática de la aviación mundial.  
 - Reconocido en múltiples museos y homenajes, incluyendo el San Diego Air & Space Museum.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -69,6 +88,7 @@ El nacimiento de Lindbergh coincidió con el auge de la aviación temprana. Su v
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; Britannica; Biography.com; CharlesLindbergh.com; Smithsonian; San Diego Air & Space Museum  

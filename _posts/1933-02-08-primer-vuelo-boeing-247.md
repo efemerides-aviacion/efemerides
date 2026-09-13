@@ -14,6 +14,7 @@ image: 1933-02-08-primer-vuelo-boeing-247.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1933-02-08-primer-vuelo-boeing-247.webp" alt="Boeing 247 NC13300 en pruebas de vuelo">
   <figcaption class="post-caption">Prototipo del Boeing Modelo 247 NX13300 en vuelo, el innovador bimotor totalmente metálico y de tren retráctil que realizó su primer vuelo el 8 de febrero de 1933 desde Boeing Field, Seattle, y abrió una nueva etapa en la aviación comercial. This Day in Aviation, “8 February 1933”</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
@@ -42,13 +43,29 @@ image: 1933-02-08-primer-vuelo-boeing-247.webp
 ## Contexto Histórico
 El Boeing 247 inauguró la era de los aviones de línea modernos, ofreciendo mayor velocidad, seguridad y confort que sus predecesores. Su diseño marcó un estándar que influiría en toda la aviación comercial de los años treinta.
 
-### Desarrollo
-- Permitía cruzar Estados Unidos de costa a costa unas 8 horas más rápido que el Ford Trimotor o el Curtiss Condor.  
-- Ganó el **Collier Trophy de 1934** por su aporte al diseño aeronáutico.  
+### Entorno social
+La aviación comercial de los años treinta se medía en horas de vuelo y en regularidad: el 247 ofrecía diez plazas de pasaje más tres tripulantes, con piloto automático y botas de deshielo que hacían el viaje más llevadero.
 
-### Operación comercial
+### Entorno tecnológico
+Construcción totalmente metálica con estructura semimonocasco, ala en voladizo, tren de aterrizaje retráctil y hélices de paso variable: el prototipo NX13300 reunió en un solo aparato el salto respecto a modelos anteriores como el Ford Trimotor.
+
+### Entorno cultural
+El 247 fue presentado como el primer avión de línea moderno y acabó siendo la vara de medir del transporte de pasajeros de su década.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Desarrollo Cronológico
+- **8 de febrero de 1933:** primer vuelo del prototipo NX13300 desde Boeing Field, Seattle, con Leslie R. “Les” Tower y Louis C. Goldsmith a los mandos, en unos 40 minutos.
+- **Abril-mayo de 1933:** entrada en servicio en la ruta Seattle–Portland y otras líneas domésticas.
+- **1934:** gana el **Collier Trophy** por su aporte al diseño aeronáutico.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Consecuencias e Impacto
 - United Air Lines encargó 60 unidades, asegurándose la exclusividad inicial.  
-- Entró en servicio en abril-mayo de 1933 en la ruta Seattle–Portland y otras líneas domésticas.  
+- Permitía cruzar Estados Unidos de costa a costa unas 8 horas más rápido que el Ford Trimotor o el Curtiss Condor.  
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 - Aunque pronto fue superado por el Douglas DC‑2 y especialmente el DC‑3, el Boeing 247 estableció el modelo de avión de transporte bimotor moderno que dominaría el mercado durante la década.  

@@ -16,14 +16,15 @@ image: 1913-05-17-primer-vuelo-cayohueso-lahabana.webp
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-## Resumen Ejecutivo
 
-El 17 de mayo de 1913, el aviador cubano Domingo Rosillo del Toro realizó el primer vuelo exitoso entre Key West (Florida) y La Habana (Cuba), cruzando los 145 kilómetros (90 millas) del Estrecho de Florida en aproximadamente 2 horas y 35 minutos a bordo de un monoplano Morane-Saulnier. El vuelo, realizado a pesar de las adversas condiciones climáticas y del escepticismo de muchos, le valió un premio de 10.000 dólares ofrecido por el Ayuntamiento de La Habana. Solo dos días después, el 19 de mayo de 1913, otro aviador cubano, Agustín Parlá, repetiría la hazaña, consolidando a Cuba como un punto clave en el desarrollo de la aviación internacional.
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El 17 de mayo de 1913, el aviador cubano Domingo Rosillo del Toro realizó el primer vuelo exitoso entre Key West (Florida) y La Habana (Cuba), cruzando los 145 kilómetros (90 millas) del Estrecho de Florida en aproximadamente 2 horas y 35 minutos a bordo de un monoplano Morane-Saulnier. El vuelo, realizado a pesar de las adversas condiciones climáticas y del escepticismo de muchos, le valió un premio de 10.000 dólares ofrecido por el Ayuntamiento de La Habana. Solo dos días después, el 19 de mayo de 1913, otro aviador cubano, Agustín Parlá, repetiría la hazaña, consolidando a Cuba como un punto clave en el desarrollo de la aviación internacional.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-
 - **Fecha del vuelo:** 17 de mayo de 1913
 - **Hora de salida:** 5:35 a.m.
 - **Hora de llegada:** 8:10 a.m.
@@ -37,10 +38,7 @@ El 17 de mayo de 1913, el aviador cubano Domingo Rosillo del Toro realizó el pr
 - **Correspondencia transportada:** 8 cartas y varias tarjetas postales (aproximadamente 20)
 - **Antecedente:** J. A. D. McCurdy, un aviador canadiense, intentó el vuelo el 30 de enero de 1911, pero tuvo que amerizar a 16 km de La Habana
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Especificaciones del Morane-Saulnier (tipo utilizado)
-
+### Especificaciones del Morane-Saulnier (tipo utilizado)
 - **Fabricante:** Société Anonyme des Aéroplanes Morane-Saulnier (Francia)
 - **Tipo:** Monoplano de ala media
 - **Motor:** Motor rotativo Gnome de 50-80 hp (según versión)
@@ -52,49 +50,22 @@ El 17 de mayo de 1913, el aviador cubano Domingo Rosillo del Toro realizó el pr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
-
 A principios del siglo XX, la aviación vivía su "época heroica". Los vuelos de larga distancia eran proezas que capturaban la imaginación del público y atraían grandes premios en efectivo. El Ayuntamiento de La Habana, deseoso de conectar la isla con el continente y de fomentar el desarrollo de la aviación, ofreció un premio de 10.000 dólares al primer aviador que lograra cruzar el Estrecho de Florida entre Key West y la capital cubana.
 
 Un antecedente importante fue el intento fallido del aviador canadiense J. A. D. McCurdy el 30 de enero de 1911, quien tuvo que amerizar a 16 km de la costa cubana debido a una avería en el motor (puede consultar la efeméride dedicada al **<a href="https://efemerides-aviacion.github.io/efemerides/evento/1911/01/30/amerizaje-rescate-de-mccurdy-y-aeronave.html" style="color: #315fea; text-decoration: none;">amerizaje y rescate de McCurdy</a>**).
 
-### El contexto geopolítico
-
+### Entorno social
 Cuba, independizada de España en 1898, mantenía estrechos lazos económicos y políticos con Estados Unidos. La cercanía geográfica (apenas 145 km separan Key West de La Habana) hacía del vuelo un desafío técnico natural, pero también un poderoso símbolo de la conexión entre ambas naciones. Key West era, además, un punto estratégico: la terminal del East Coast Railroad, que conectaba la ciudad con el resto del país, la convertía en un lugar ideal para el despegue.
 
-### La preparación y los competidores
+### Entorno tecnológico
+Rosillo voló un monoplano de madera y tela adquirido en Estados Unidos, y la travesía se apoyó en medios de fortuna: un telegrama por radio al Castillo del Morro para confirmar el tiempo y varios buques de guerra cubanos patrullando la ruta como escolta para mantener el rumbo. Parlá disponía de un hidroavión Curtiss con flotadores, cuyos cables de sujeción rompió el mar antes de que pudiera despegar.
 
-Dos aviadores cubanos se prepararon para el desafío: **Domingo Rosillo del Toro** y **Agustín Parlá**. Ambos viajaron a Estados Unidos, adquirieron aeronaves y realizaron numerosas pruebas. Parlá, que contaba con un hidroavión Curtiss equipado con flotadores, era considerado por muchos el favorito. Rosillo, en cambio, pilotaba un monoplano Morane-Saulnier más convencional, con tren de aterrizaje de ruedas, lo que le obligaba a despegar desde tierra firme.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## El vuelo del 17 de mayo de 1913
-
-El 17 de mayo de 1913 amaneció con vientos fuertes y un mar agitado, condiciones que ponían en riesgo cualquier intento de vuelo.
-
-### La partida: un comienzo dramático
-
-Poco antes de las 5:30 a.m., cuando Rosillo se preparaba para despegar, Parlá envió una delegación a pedirle que aplazara el vuelo debido al mal tiempo. Rosillo se negó rotundamente. Según los periódicos de la época, Parlá, desesperado al ver que su rival se disponía a partir, tomó un revólver y amenazó con suicidarse si no lo dejaban volar. Sus amigos lo desarmaron.
-
-Parlá intentó despegar con su hidroavión, pero el viento era tan fuerte que la aeronave no pudo elevarse; las olas rompían sobre las alas y los cables que sujetaban los flotadores se rompieron por la tensión.
-
-Mientras tanto, Rosillo había enviado un telegrama por radio al Castillo del Morro, en La Habana, preguntando por las condiciones meteorológicas. La respuesta fue positiva: "Ideales". Rosillo exclamó: "Eso lo decide. Partiré, porque prometí hacer el vuelo antes del domingo, y lo haré o moriré en el intento".
-
-### El despegue y la travesía
-
-A las 5:35 a.m., Rosillo despegó desde los terrenos del East Coast Railroad, en Key West, ante una multitud que dudaba de que pudiera alzarse con el fuerte viento en contra. El avión ascendió a unos 30 metros de altura y, "con la gracia de una golondrina", se dirigió hacia el suroeste.
-
-Durante la travesía, Rosillo contó con la ayuda de una escolta naval: varios buques de guerra cubanos patrullaron la ruta para ayudarle a mantener el rumbo. El cielo estaba gris, cubierto de nubes de tormenta, y el mar, encrespado por el viento, se extendía amenazador debajo de él.
-
-### La llegada a La Habana
-
-A las 8:10 a.m., Rosillo apareció en el horizonte de La Habana, volando a una altitud de 600 metros (2.000 pies). La noticia de su partida se había difundido mediante tres disparos de cañón desde la fortaleza de La Cabaña. Prácticamente toda la población de la ciudad se había congregado en el malecón y en los muelles para recibirlo.
-
-Rosillo sobrevoló la ciudad y luego viró hacia el oeste, aterrizando en el Campo Columbia, una base militar. Fue recibido entre vítores y abrazos. Había recorrido 145 kilómetros en aproximadamente 2 horas y 35 minutos, y se había convertido en el primer hombre en volar desde Estados Unidos a Cuba.
+### Entorno cultural
+El intento se siguió como un acontecimiento popular en las dos orillas: en Key West la multitud dudaba de que el avión pudiera alzarse con el viento en contra, y en La Habana la partida se anunció con tres disparos de cañón desde la fortaleza de La Cabaña. Al aterrizar en el Campo Columbia, Rosillo fue recibido entre vítores y abrazos, y la prensa de la época recogió el vuelo como la primera conexión aérea entre Florida y Cuba.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
-
 - **30 de enero de 1911:** Intento fallido de J. A. D. McCurdy; ameriza a 16 km de La Habana y es rescatado por la Marina de EE. UU.
 - **Primeros meses de 1913:** Domingo Rosillo y Agustín Parlá viajan a Estados Unidos y adquieren sus aeronaves para competir por el premio.
 - **17 de mayo de 1913, 5:35 a.m.:** Rosillo despega de Key West.
@@ -102,10 +73,43 @@ Rosillo sobrevoló la ciudad y luego viró hacia el oeste, aterrizando en el Cam
 - **17 de mayo de 1913 (tras el aterrizaje):** Parlá intenta despegar, pero las malas condiciones climáticas le obligan a abortar el intento.
 - **19 de mayo de 1913:** Agustín Parlá logra realizar el vuelo, completando la travesía en 2 horas y 15 minutos.
 
+### La preparación y los competidores
+Dos aviadores cubanos se prepararon para el desafío: **Domingo Rosillo del Toro** y **Agustín Parlá**. Ambos viajaron a Estados Unidos, adquirieron aeronaves y realizaron numerosas pruebas. Parlá, que contaba con un hidroavión Curtiss equipado con flotadores, era considerado por muchos el favorito. Rosillo, en cambio, pilotaba un monoplano Morane-Saulnier más convencional, con tren de aterrizaje de ruedas, lo que le obligaba a despegar desde tierra firme.
+
+### El vuelo del 17 de mayo de 1913
+El 17 de mayo de 1913 amaneció con vientos fuertes y un mar agitado, condiciones que ponían en riesgo cualquier intento de vuelo.
+
+#### La partida: un comienzo dramático
+Poco antes de las 5:30 a.m., cuando Rosillo se preparaba para despegar, Parlá envió una delegación a pedirle que aplazara el vuelo debido al mal tiempo. Rosillo se negó rotundamente. Según los periódicos de la época, Parlá, desesperado al ver que su rival se disponía a partir, tomó un revólver y amenazó con suicidarse si no lo dejaban volar. Sus amigos lo desarmaron.
+
+Parlá intentó despegar con su hidroavión, pero el viento era tan fuerte que la aeronave no pudo elevarse; las olas rompían sobre las alas y los cables que sujetaban los flotadores se rompieron por la tensión.
+
+Mientras tanto, Rosillo había enviado un telegrama por radio al Castillo del Morro, en La Habana, preguntando por las condiciones meteorológicas. La respuesta fue positiva: "Ideales". Rosillo exclamó: "Eso lo decide. Partiré, porque prometí hacer el vuelo antes del domingo, y lo haré o moriré en el intento".
+
+#### El despegue y la travesía
+A las 5:35 a.m., Rosillo despegó desde los terrenos del East Coast Railroad, en Key West, ante una multitud que dudaba de que pudiera alzarse con el fuerte viento en contra. El avión ascendió a unos 30 metros de altura y, "con la gracia de una golondrina", se dirigió hacia el suroeste.
+
+Durante la travesía, Rosillo contó con la ayuda de una escolta naval: varios buques de guerra cubanos patrullaron la ruta para ayudarle a mantener el rumbo. El cielo estaba gris, cubierto de nubes de tormenta, y el mar, encrespado por el viento, se extendía amenazador debajo de él.
+
+#### La llegada a La Habana
+A las 8:10 a.m., Rosillo apareció en el horizonte de La Habana, volando a una altitud de 600 metros (2.000 pies). La noticia de su partida se había difundido mediante tres disparos de cañón desde la fortaleza de La Cabaña. Prácticamente toda la población de la ciudad se había congregado en el malecón y en los muelles para recibirlo.
+
+Rosillo sobrevoló la ciudad y luego viró hacia el oeste, aterrizando en el Campo Columbia, una base militar. Fue recibido entre vítores y abrazos. Había recorrido 145 kilómetros en aproximadamente 2 horas y 35 minutos, y se había convertido en el primer hombre en volar desde Estados Unidos a Cuba.
+
+### El segundo vuelo: Agustín Parlá (19 de mayo de 1913)
+El éxito de Rosillo no disuadió a Agustín Parlá. El 19 de mayo de 1913, apenas dos días después, Parlá despegó de Key West a bordo de un hidroavión Curtiss. A diferencia de Rosillo, que contó con apoyo naval, Parlá realizó la travesía sin ninguna ayuda en superficie, guiándose únicamente con una brújula. Completó el vuelo en 2 horas y 15 minutos.
+
+El Smithsonian Institution reconoce a Parlá como el primer cubano en volar desde Key West a La Habana, aunque la primicia histórica del primer cruce exitoso le pertenece a Rosillo por solo dos días.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## El correo transportado
+## Consecuencias e Impacto
+- **Hito de la aviación cubana:** El vuelo de Rosillo fue el primer gran logro internacional de un aviador cubano, situando a la isla en el mapa de la incipiente aviación mundial.
+- **Conexión entre Florida y Cuba:** El vuelo demostró la viabilidad de unir el continente con la isla por vía aérea, una ruta que décadas después se convertiría en una de las más transitadas por los turistas estadounidenses que visitaban Cuba.
+- **Correo aéreo:** Aunque no se conservan sobres, el vuelo transportó correspondencia oficial, constituyéndose en un antecedente fundamental del correo aéreo entre ambos países.
+- **Reconocimiento del mérito:** Rosillo recibió el premio de 10.000 dólares y se convirtió en un héroe nacional en Cuba. Continuó su carrera como piloto en España y en Cuba, donde falleció en 1957.
 
+### El correo transportado
 Además de la gloria y el premio en efectivo, Rosillo transportó correspondencia oficial, lo que convierte a este vuelo en un hito también para el correo aéreo cubano. Según el historiador Tomás Terry, las cartas iban dirigidas a altas personalidades, entre ellas:
 
 - Mayor General José Miguel Gómez, presidente de la República
@@ -120,25 +124,7 @@ No se conocen sobres con matasellos especial de este primer vuelo, lo que lo con
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## El segundo vuelo: Agustín Parlá (19 de mayo de 1913)
-
-El éxito de Rosillo no disuadió a Agustín Parlá. El 19 de mayo de 1913, apenas dos días después, Parlá despegó de Key West a bordo de un hidroavión Curtiss. A diferencia de Rosillo, que contó con apoyo naval, Parlá realizó la travesía sin ninguna ayuda en superficie, guiándose únicamente con una brújula. Completó el vuelo en 2 horas y 15 minutos.
-
-El Smithsonian Institution reconoce a Parlá como el primer cubano en volar desde Key West a La Habana, aunque la primicia histórica del primer cruce exitoso le pertenece a Rosillo por solo dos días.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Consecuencias e Impacto
-
-- **Hito de la aviación cubana:** El vuelo de Rosillo fue el primer gran logro internacional de un aviador cubano, situando a la isla en el mapa de la incipiente aviación mundial.
-- **Conexión entre Florida y Cuba:** El vuelo demostró la viabilidad de unir el continente con la isla por vía aérea, una ruta que décadas después se convertiría en una de las más transitadas por los turistas estadounidenses que visitaban Cuba.
-- **Correo aéreo:** Aunque no se conservan sobres, el vuelo transportó correspondencia oficial, constituyéndose en un antecedente fundamental del correo aéreo entre ambos países.
-- **Reconocimiento del mérito:** Rosillo recibió el premio de 10.000 dólares y se convirtió en un héroe nacional en Cuba. Continuó su carrera como piloto en España y en Cuba, donde falleció en 1957.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Legado
-
 El 17 de mayo de 1913, la frágil máquina de madera y tela pilotada por Domingo Rosillo demostró que el Estrecho de Florida no era una barrera insalvable, conectando por primera vez por aire el territorio continental de Estados Unidos con la isla de Cuba.
 
 La hazaña de Rosillo, seguida dos días después por la de Parlá, inauguró una era de conexiones aéreas que transformaría para siempre la economía y la sociedad de la región. Key West dejó de ser el punto más meridional de Estados Unidos para convertirse en una puerta de salida hacia el sur, y La Habana se consolidó como un destino internacional de primer orden.
@@ -157,7 +143,6 @@ En julio de 2013, con motivo del centenario de estos vuelos, el Planetario de la
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
-
 <div class="references">
   <ul>
     <li><a href="https://myfloridahistory.org/date-in-history/may-17-1913/florida-cuba" style="color: #315fea; text-decoration: none;">Florida Historical Society - From Florida to Cuba (17 May 1913)</a></li>
@@ -171,7 +156,6 @@ En julio de 2013, con motivo del centenario de estos vuelos, el Planetario de la
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-
 - **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
 - **Fuentes primarias/institucionales consultadas:** Florida Historical Society, Salt Lake Tribune, The Lakeland Evening Telegram (Chronicling America - Library of Congress), Smithsonian Institution, Filatelia de Cuba
 - **Discrepancias resueltas:** Las fuentes periodísticas de la época (17 de mayo de 1913) confirman la fecha del vuelo. Wikipedia en inglés indica erróneamente el 13 de mayo de 1913 y una duración de 2 horas 8 minutos; se ha priorizado la información de las fuentes primarias contemporáneas al evento (2 horas 35 minutos). Se ha eliminado el enlace roto de Georgia Historic Newspapers y se ha añadido el enlace funcional de Chronicling America (Library of Congress).

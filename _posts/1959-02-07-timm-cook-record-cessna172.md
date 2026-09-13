@@ -15,6 +15,7 @@ image: 1959-02-07-timm-cook-record-cessna172.webp
   <figcaption class="post-caption">La Cessna 172 N9172B recibe combustible en vuelo, desde una camioneta para lograr el récord de Timm y Cook (1958–1959). <a href="https://www.flysuperfly.com/blog/2023/6/9/the-64-day-nonstop-cessna-flight" style="color: #315fea; text-decoration: none;">Fuente: FlySuperFly</a>
   </figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
@@ -23,6 +24,7 @@ image: 1959-02-07-timm-cook-record-cessna172.webp
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Datos verificados del evento
 - **Periodo del vuelo:** 4 de diciembre de 1958 – 7 de febrero de 1959  
 - **Duración total:** 64 días, 22 horas, 19 minutos, 5 segundos  
@@ -36,17 +38,36 @@ image: 1959-02-07-timm-cook-record-cessna172.webp
 - **Reabastecimiento:** combustible transferido desde una camioneta en movimiento mediante mangueras elevadas  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
 El vuelo de resistencia de Bob Timm y John Cook en la Cessna 172 Hacienda representó una hazaña sin precedentes en la aviación ligera. Más allá de la marca técnica, fue un experimento de promoción y de ingeniería que demostró la capacidad de los aviones pequeños para permanecer en el aire durante semanas gracias a la innovación en reabastecimiento y modificaciones de cabina. La proeza capturó la atención pública y consolidó a la Cessna 172 como un ícono de fiabilidad, mientras que el récord permanece imbatido más de seis décadas después.
-### Modificaciones de la aeronave
+
+### Entorno social
+- Timm y Cook se turnaban al mando mientras el otro descansaba.  
+- Recibían comida preparada por el hotel y agua cada dos días.  
+- Suministros izados durante los contactos de reabastecimiento.  
+
+### Entorno tecnológico
 - Interior reducido para ahorrar peso.  
 - Instalación de cama, fregadero y piloto automático básico.  
 - Depósito ventral Sorenson con capacidad total de ~142 galones.  
 
-### Vida a bordo
-- Timm y Cook se turnaban al mando mientras el otro descansaba.  
-- Recibían comida preparada por el hotel y agua cada dos días.  
-- Suministros izados durante los contactos de reabastecimiento.  
+### Entorno cultural
+El reabastecimiento desde una camioneta en movimiento, con mangueras elevadas, convirtió el intento en una escena repetida durante los dos meses del vuelo: un automóvil y un aparato ligero circulando a la par, en la carretera y en el aire.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Desarrollo Cronológico
+- **4 de diciembre de 1958:** Bob Timm y John Cook despegan con la Cessna 172 N9172B, bautizada *Hacienda*, patrocinados por el Hacienda Hotel de Las Vegas.
+- **Durante 64 días:** reabastecimientos en vuelo, sin tomar tierra en ningún momento.
+- **7 de febrero de 1959:** aterrizaje tras 64 días, 22 horas, 19 minutos y 5 segundos en el aire y unas 150.000 millas recorridas, el equivalente a unas seis vueltas al mundo.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Consecuencias e Impacto
+La marca demostró que un avión ligero tripulado podía permanecer en el aire más de dos meses seguidos: ninguna aeronave de su clase la ha superado desde entonces.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 - Superó intentos previos como el vuelo de la Cessna 172 *The Old Scotchman*.  
@@ -54,6 +75,7 @@ El vuelo de resistencia de Bob Timm y John Cook en la Cessna 172 Hacienda repres
 - La aeronave se exhibe suspendida en el aeropuerto Harry Reid International (Las Vegas).  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -67,6 +89,7 @@ El vuelo de resistencia de Bob Timm y John Cook en la Cessna 172 Hacienda repres
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** Plane & Pilot; AOPA; Simple Flying; Avgeekery; FlySuperFly; General Aviation Album  

@@ -14,6 +14,7 @@ image: 1949-02-05-eastern-constellation-record.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1949-02-05-eastern-constellation-record.webp" alt="Lockheed L‑749A Constellation de Eastern Air Lines en vuelo">
   <figcaption class="post-caption">Eastern Air Lines Lockheed L-749A Constellation N115A, c/n 2610, "The Great Silver Fleet", en vuelo durante su récord transcontinental Los Ángeles–Nueva York (6h 17m 39s) establecido el 5 de febrero de 1949. Fuente: This Day in Aviation (https://www.thisdayinaviation.com/6-february-1949/).</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
@@ -22,6 +23,7 @@ image: 1949-02-05-eastern-constellation-record.webp
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Datos verificados del evento
 - **Fecha del récord:** 5 de febrero de 1949  
 - **Ruta:** Los Ángeles (Burbank) – Nueva York (LaGuardia)  
@@ -38,22 +40,40 @@ image: 1949-02-05-eastern-constellation-record.webp
   - Primer modelo de la familia Constellation capaz de cruzar el Atlántico sin escalas  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
 El récord de Eastern Air Lines fue un hito en la aviación comercial de posguerra.
 
-### Repercusión inmediata
+### Entorno social
+El récord se voló con tripulación de casa y bajo control federativo: el Comandante Fred E. Davis, el primer oficial M. L. Jordan y el ingeniero de vuelo E. L. Graham, jefe de ingenieros de Eastern, con el cronometraje supervisado por la National Aeronautic Association entre Burbank y LaGuardia.
+
+### Entorno tecnológico
+- El L‑749A representaba la evolución de la familia Constellation hacia vuelos de largo alcance.  
+- Su rendimiento consolidó la transición hacia la aviación comercial intercontinental.  
+
+### Entorno cultural
+La marca se midió cruzando el país y tres husos horarios, el formato con el que la aviación comercial de posguerra convertía un vuelo de línea en noticia: el Constellation N115A de "The Great Silver Fleet" dejaba de ser un avión para ser un récord.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Desarrollo Cronológico
+- **5 de febrero de 1949, 07:51:21 PST:** despegue de Los Ángeles (Burbank) del Lockheed L‑749A Constellation matrícula N115A.
+- **5 de febrero de 1949, 17:08:02 EST:** llegada a Nueva York (LaGuardia), con 6 horas y 17 minutos de vuelo y el cronometraje supervisado por la National Aeronautic Association.
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+## Consecuencias e Impacto
 - Al día siguiente, Eddie Rickenbacker (presidente de Eastern) anunció la compra de siete Constellation adicionales, cada uno valorado en más de un millón de dólares.  
 - El vuelo reforzó la imagen de Eastern como pionera en servicios rápidos y eficientes.  
 
-### Importancia técnica
-- El L‑749A representaba la evolución de la familia Constellation hacia vuelos de largo alcance.  
-- Su rendimiento consolidó la transición hacia la aviación comercial intercontinental.  
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 - El récord contribuyó a posicionar al Constellation como uno de los aviones más emblemáticos de la aviación civil de mediados del siglo XX.  
 - Eastern Air Lines se consolidó como una de las principales aerolíneas estadounidenses en la era dorada de la aviación.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -66,6 +86,7 @@ El récord de Eastern Air Lines fue un hito en la aviación comercial de posguer
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation; Aircraft Investigation; Wikipedia  
