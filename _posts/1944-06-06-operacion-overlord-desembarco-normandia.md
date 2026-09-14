@@ -16,9 +16,10 @@ image: 1944-06-06-operacion-overlord-desembarco-normandia.webp
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Resumen Ejecutivo
-
-El **6 de junio de 1944**, las fuerzas aliadas lanzaron la **Operación Overlord**, la mayor invasión anfibia y aeronaval de la historia. El desembarco en las playas de Normandía (Utah, Omaha, Gold, Juno y Sword) involucró a **156.000 soldados aliados** (73.000 estadounidenses, 83.000 británicos y canadienses). En apoyo de la operación participaron **11.590 aeronaves aliadas** que volaron **14.674 salidas** el día D. La superioridad aérea aliada fue abrumadora: la Luftwaffe solo pudo realizar **200-250 salidas** en todo el día. En las horas previas al desembarco anfibio, **24.000 paracaidistas** británicos, estadounidenses, canadienses y de la Francia libre fueron transportados en **casi 1.000 aviones C-47** para asegurar los flancos de la cabeza de playa. Las pérdidas aliadas en el aire fueron de **127 aeronaves**, mientras que la Luftwaffe perdió **24 aviones** en combate aéreo.
+<!-- ## Resumen Ejecutivo -->
+<div class="highlight-box">
+<p>El **6 de junio de 1944**, las fuerzas aliadas lanzaron la **Operación Overlord**, la mayor invasión anfibia y aeronaval de la historia. El desembarco en las playas de Normandía (Utah, Omaha, Gold, Juno y Sword) involucró a **156.000 soldados aliados** (73.000 estadounidenses, 83.000 británicos y canadienses). En apoyo de la operación participaron **11.590 aeronaves aliadas** que volaron **14.674 salidas** el día D. La superioridad aérea aliada fue abrumadora: la Luftwaffe solo pudo realizar **200-250 salidas** en todo el día. En las horas previas al desembarco anfibio, **24.000 paracaidistas** británicos, estadounidenses, canadienses y de la Francia libre fueron transportados en **casi 1.000 aviones C-47** para asegurar los flancos de la cabeza de playa. Las pérdidas aliadas en el aire fueron de **127 aeronaves**, mientras que la Luftwaffe perdió **24 aviones** en combate aéreo.</p>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -49,7 +50,7 @@ El desembarco de Normandía ocurrió después de casi cuatro años de ocupación
 
 Desde la caída de Francia en junio de 1940, el régimen nazi había sometido a Europa occidental a una ocupación brutal. La resistencia francesa operaba clandestinamente, y los líderes aliados (Churchill, Roosevelt y Stalin) habían acordado en la Conferencia de Teherán (noviembre-diciembre de 1943) abrir un segundo frente en Europa occidental para aliviar la presión sobre la Unión Soviética, que soportaba el grueso de la lucha contra Alemania en el frente oriental.
 
-### El engaño aliado: Operación Fortitude
+#### El engaño aliado: Operación Fortitude
 
 Un factor clave para el éxito del Día D fue el elaborado plan de engaño aliado, conocido como **Operación Fortitude**. Los aliados crearon un ejército ficticio (el Primer Grupo de Ejércitos de EE. UU., comandado por el General Patton) en el sureste de Inglaterra, con tanques inflables, cuarteles falsos y tráfico de radio ficticio. Para reforzar este engaño, aviones aliados bombardearon el **Paso de Calais** —la zona más estrecha del Canal de la Mancha— el 5 y 6 de junio de 1944, haciendo creer a los alemanes que la invasión principal ocurriría allí y no en Normandía. La inteligencia alemana, engañada por estos señuelos y por agentes dobles como el español Juan Pujol ("Garbo"), mantuvo dos divisiones panzer en Calais durante semanas después del Día D, impidiendo que reforzaran las playas de Normandía.
 
@@ -63,7 +64,7 @@ El Día D se ha convertido en un símbolo del heroísmo, el sacrificio y la coop
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Desarrollo Cronológico de la Operación Aérea
+## Desarrollo Cronológico
 
 - **Abril - junio de 1944:** Bombardeo sistemático del "Plan de Transporte" aliado contra ferrocarriles, puentes y aeródromos alemanes en Francia, aislando la península de Normandía.
 - **5 de junio, 22:00 - 6 de junio, 03:00:** Primera oleada de paracaidistas (24.000 hombres) lanzados desde casi 1.000 C-47 en la retaguardia alemana, asegurando puentes y cruces clave.
@@ -73,20 +74,18 @@ El Día D se ha convertido en un símbolo del heroísmo, el sacrificio y la coop
 - **Durante todo el día:** La Luftwaffe, enormemente superada en número, solo logra realizar 200-250 salidas, perdiendo 24 aviones en combate aéreo.
 - **Final del día:** Los aliados han establecido cabezas de playa en las cinco playas. Las pérdidas aéreas aliadas ascienden a 127 aeronaves.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Las Aeronaves del Día D
+### Las Aeronaves del Día D
 
 La Operación Overlord involucró una variedad de aeronaves aliadas con funciones específicas: desde cazas de superioridad aérea hasta bombarderos pesados y transportes de paracaidistas. A continuación se presentan los principales modelos utilizados.
 
-### Cazas de superioridad aérea y apoyo táctico
+#### Cazas de superioridad aérea y apoyo táctico
 
 - **P-51 Mustang (EE. UU.):** Caza de escolta de largo alcance; superioridad aérea.
 - **P-47 Thunderbolt (EE. UU.):** Caza-bombardero robusto; apoyo aéreo cercano.
 - **Spitfire (Reino Unido):** Caza de superioridad aérea; cobertura de las playas.
 - **Typhoon (Reino Unido):** Caza-bombardero; ataque a tierra con cohetes y cañones.
 
-### Bombarderos pesados y medios
+#### Bombarderos pesados y medios
 
 - **B-17 Flying Fortress (EE. UU.):** Bombardeo estratégico previo y de saturación.
 - **B-24 Liberator (EE. UU.):** Bombardeo estratégico previo y de saturación.
@@ -94,18 +93,18 @@ La Operación Overlord involucró una variedad de aeronaves aliadas con funcione
 - **B-26 Marauder (EE. UU.):** Bombardeo táctico de precisión a baja altitud.
 - **A-20 Havoc (EE. UU.):** Bombardeo táctico de precisión.
 
-### Transportes y planeadores
+#### Transportes y planeadores
 
 - **C-47 Skytrain / Dakota (EE. UU./Reino Unido):** Transporte de paracaidistas y remolque de planeadores.
 - **Waco CG-4A (EE. UU.):** Planeador de asalto para tropas y equipo ligero.
 - **Horsa (Reino Unido):** Planeador de asalto para tropas y equipo pesado (jeeps, cañones).
 
-### Aeronaves de reconocimiento
+#### Aeronaves de reconocimiento
 
 - **Spitfire PR (Reino Unido):** Reconocimiento fotográfico de alta velocidad.
 - **F-6 Mustang (EE. UU.):** Versión de reconocimiento del P-51.
 
-### Fuerzas Aéreas Alemanas (Luftwaffe)
+#### Fuerzas Aéreas Alemanas (Luftwaffe)
 
 - **Fw 190:** Caza-bombardero; apoyo aéreo.
 - **Bf 109:** Caza de superioridad aérea.
@@ -113,9 +112,7 @@ La Operación Overlord involucró una variedad de aeronaves aliadas con funcione
 - **Ju 88:** Bombardero y caza nocturno.
 - **Me 410:** Caza pesado.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-## Las "Franjas de Invasión"
+### Las "Franjas de Invasión"
 
 Todas las aeronaves aliadas que participaron en la Operación Overlord llevaban pintadas en alas y fuselaje **tres franjas blancas y dos negras** de 18 pulgadas de ancho (conocidas como "franjas de invasión" o *invasion stripes*). El propósito era permitir que los buques de la Armada y las tropas en tierra distinguieran fácilmente a los aviones aliados de los cazas enemigos, reduciendo así el riesgo de fuego amigo durante las frenéticas horas del desembarco. Fueron una de las medidas de identificación más efectivas de la guerra.
 

@@ -21,7 +21,7 @@ image: 1935-01-11-amelia-earhart-primer-vuelo-en-solitario.webp
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Datos del evento
+## Datos verificados del evento
 
 - **Fecha de despegue:** 11 de enero de 1935, 16:40 (hora local de Hawái)
 - **Fecha de aterrizaje:** 12 de enero de 1935, 13:10 (hora del Pacífico)
@@ -63,7 +63,7 @@ El Lockheed Vega 5B era una aeronave de vanguardia con fuselaje monocasco de mad
 
 Earhart ya era una celebridad mundial tras su cruce del Atlántico en solitario en 1932 (primera mujer en lograrlo). Este vuelo fue promocionado por la **Asociación de Plantadores de Azúcar de Hawái** (Hawaii Sugar Planters' Association) para demostrar que las islas no estaban "aisladas" del continente y para fomentar el turismo y el comercio. El vuelo también contó con el patrocinio de la **Purdue University**, donde Earhart trabajaba como consejera de carreras aeronáuticas.
 
-### Antecedentes: La carrera aérea Dole de 1927
+#### Antecedentes: La carrera aérea Dole de 1927
 
 Entre el 16 y el 18 de agosto de 1927, ocho aviones (con 16 aviadores) intentaron volar desde Oakland a Honolulu en la llamada "Carrera Aérea Dole", patrocinada por el magnate de la piña James D. Dole. Solo dos aeronaves completaron el vuelo; el resto se accidentaron o desaparecieron. Ocho aviadores perdieron la vida. Este desastre convirtió la ruta Hawái-California en un "cementerio de aviadores" y disuadió intentos posteriores durante casi una década. Earhart decidió enfrentar este desafío donde otros habían fallado.
 
@@ -111,7 +111,7 @@ El vuelo también es recordado como un paso crucial en la carrera de Earhart hac
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-## Vuelos relacionados de Amelia Earhart
+### Vuelos relacionados de Amelia Earhart
 
 Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviación:
 

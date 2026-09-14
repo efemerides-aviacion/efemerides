@@ -56,6 +56,8 @@ La aviación mundial estaba en plena evolución. Venezuela optó inicialmente po
 
 La figura del piloto aviador despertaba fascinación. El gobierno de Gómez promovió la aviación como una herramienta de unificación nacional y control territorial. La llegada de la misión francesa (1921-1929) y posteriormente la alemana (1930-1933) marcó las primeras décadas de formación de los pilotos venezolanos.
 
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Desarrollo Cronológico
 
 - **17 de abril de 1920:** Se dicta el decreto Nº 127 de creación de la Escuela de Aviación Militar.
@@ -72,27 +74,25 @@ La figura del piloto aviador despertaba fascinación. El gobierno de Gómez prom
 - **2006:** Se incorpora el Plan de Estudios "Simón Rodríguez" bajo instrucciones del presidente Hugo Chávez.
 - **2020:** Se conmemora el centenario de la creación de la escuela, ya denominada Academia Militar de la Aviación Bolivariana (AMAB).
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-## La Fundación: detalles relevantes
+### La Fundación: detalles relevantes
 
 El decreto Nº 127 del 17 de abril de 1920 fue el acto fundacional de la aviación venezolana, pero su puesta en marcha requirió una serie de pasos administrativos y logísticos que se desarrollaron en los meses siguientes. La adquisición del Fundo San Jacobo y la construcción de los hangares en la Base Aragua fueron parte de ese proceso de materialización, transformando el decreto en una realidad operativa que perdura hasta hoy.
 
-### El decreto y sus impulsores
+#### El decreto y sus impulsores
 
 El decreto Nº 127 fue firmado en Caracas por el presidente provisional Victoriano Márquez Bustillos, pero el verdadero impulsor fue el General Juan Vicente Gómez, quien desde su residencia en Las Delicias (Maracay) ejercía el poder absoluto. Gómez fue convencido por su hijo Florencio, quien había visto demostraciones aéreas en el extranjero.
 
 El decreto fundacional fue solo el primer paso. Para materializar la nueva escuela, el gobierno de Gómez adquirió el Fundo San Jacobo en Maracay, donde se construirían los hangares y el campo de aviación. El 10 de diciembre de ese mismo año, se inauguraron los primeros hangares en la Base Aragua, marcando el inicio físico de la aviación militar venezolana. Este lugar, donde hoy se erige el Museo Aeronáutico de Maracay, es recordado como la cuna de la aviación en el país.
 
-### Los primeros hangares y su arquitectura
+#### Los primeros hangares y su arquitectura
 
 El ingeniero Luis Guillermo Salas Díaz proyectó un conjunto de tres hangares de planta rectangular, utilizando vigas Howell de madera y láminas acanaladas de zinc adquiridas en Alemania. Estos hangares, ubicados en la zona "Base Aragua" (av. 19 de Abril, al lado de la Escuela Básica Militar Libertador), fueron inaugurados el 10 de diciembre de 1920. Con el tiempo se agregaron seis hangares más para talleres.
 
-### Las primeras aeronaves
+#### Las primeras aeronaves
 
 La escuela comenzó a operar con tres aviones Caudron G-3 adquiridos a Francia. A estos se sumarían dos hidroaviones Caudron G-4 bimotores en 1922, uno de ellos con flotadores para operar desde el Lago de Valencia. También se incorporaron aeronaves de las marcas Hanriot, Curtiss, Macchi y Salmson.
 
-### La instalación oficial
+#### La instalación oficial
 
 El 10 de diciembre de 1920 se llevó a cabo el acto de instalación de la escuela, presidido por el Coronel David López Henríquez. Esta fecha es considerada por algunas fuentes como el inicio efectivo de las operaciones de la aviación militar en Venezuela.
 
@@ -110,7 +110,7 @@ El 10 de diciembre de 1920 se llevó a cabo el acto de instalación de la escuel
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Legado y continuidad: El Grupo de Entrenamiento Aéreo N° 14 "Escorpiones"
+## Legado
 
 La tradición de formación de pilotos iniciada el 17 de abril de 1920 continúa viva en la actualidad a través del **Grupo de Entrenamiento Aéreo N° 14 (GEA-14) "Escorpiones"**, unidad heredera de esa misión centenaria.
 
@@ -136,7 +136,7 @@ El Grupo también comparte misiones de apoyo aéreo cercano, equipando sus aeron
     <li><a href="https://rnv.gob.ve/hoy-se-cumplen-98-anos-de-la-creacion-de-la-escuela-de-aviacion-militar/" style="color: #315fea; text-decoration: none;">RNV - Maduro recordó aniversario de la Escuela de Aviación Militar</a></li>
     <li><a href="https://diariovea.com.ve/tal-dia-como-hoy-fue-inaugurada-la-escuela-de-aviacion-militar-venezolana/" style="color: #315fea; text-decoration: none;">DiarioVea - Tal día como hoy fue inaugurada la Escuela de Aviación Militar Venezolana</a></li>
     <li><a href="https://www.ciudadvalencia.com.ve/maduro-reconoce-escuela-aviacion-militar/" style="color: #315fea; text-decoration: none;">Diario Ciudad Valencia - Pdte. Nicolás Maduro reconoce trayectoria de Escuela de la Aviación Militar</a></li>
-    <li><a href="http://ciudadccs.net/publicacion/16940-presidente-maduro-saluda-aniversario-de-escuela-de-aviacion-militar" style="color: #315fea; text-decoration: none;">Ciudad CCS - Presidente Maduro saluda aniversario de Escuela de Aviación Militar</a></li>
+    <li><a href="http://ciudadccs.net/publicacion/16940-presidente-maduro-saluda-aniversario-de-escuela-de-aviacion-militar" style="color: #315fea; text-decoration: none;">Ciudad CCS - presidente Maduro saluda aniversario de Escuela de Aviación Militar</a></li>
     <li><a href="https://www.mppef.gob.ve/venezuela-celebra-la-fundacion-de-la-escuela-de-la-aviacion-militar-de-la-patria/" style="color: #315fea; text-decoration: none;">MPPEF - Venezuela celebra la fundación de la Escuela de la Aviación Militar de la Patria</a></li>
     <li><a href="https://ultimasnoticias.com.ve/general/academia-militar-de-la-aviacion-bolivariana-celebra-100-anos/" style="color: #315fea; text-decoration: none;">Últimas Noticias - Academia Militar de la Aviación Bolivariana celebra 100 años</a></li>
     <li><a href="https://www.defensa.com/venezuela/aviacion-militar-venezuela-devuelve-operaciones-cuarto-avion-t" style="color: #315fea; text-decoration: none;">Defensa.com - La Aviación Militar de Venezuela devuelve a operaciones su cuarto avión Embraer T-27 Tucano (mención al GEA-14)</a></li>
