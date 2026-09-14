@@ -133,13 +133,17 @@ Queda por último el detalle que mejor resiste el paso del tiempo. Los primeros 
 
 ## Referencias Verificadas
 
-- <a href="https://www.argentina.gob.ar/noticias/10-de-agosto-dia-de-la-fuerza-aerea-argentina" style="color: #315fea; text-decoration: none;">Fuerza Aérea Argentina: «10 de Agosto: Día de la Fuerza Aérea Argentina», con el detalle de la financiación por suscripción popular y documentación gráfica de época</a>
-- <a href="https://www.argentina.gob.ar/fuerzaaerea/sobre-nosotros/nuestra-historia" style="color: #315fea; text-decoration: none;">Fuerza Aérea Argentina: «Nuestra historia», reseña oficial desde la aerostación militar de 1866</a>
-- <a href="http://www.eam.iua.edu.ar/eam/historia/" style="color: #315fea; text-decoration: none;">Escuela de Aviación Militar: cronología institucional oficial, con las etapas de disolución, reapertura y cambios de denominación</a>
-- <a href="https://elarcondelahistoria.com/la-escuela-de-aviacion-militar-1081912/" style="color: #315fea; text-decoration: none;">El Arcón de la Historia: «La Escuela de Aviación Militar (10/08/1912)», con la referencia documental del decreto y el ingreso de los primeros oficiales extranjeros</a>
-- <a href="https://amilarg.com.ar/amilarg.html" style="color: #315fea; text-decoration: none;">AMILARG: «El inicio de la aeronáutica argentina», con la publicación del decreto en el Boletín Militar 696</a>
-- <a href="https://www.gacetaeronautica.com/gaceta/wp-101/fotos-de-aeronaves-en-argentina-1-2/" style="color: #315fea; text-decoration: none;">Gaceta Aeronáutica: «Fotos de aeronaves en Argentina», sobre la actividad aérea concentrada en El Palomar entre 1912 y 1920</a>
-- <a href="https://es.wikipedia.org/wiki/Escuela_de_Aviaci%C3%B3n_Militar" style="color: #315fea; text-decoration: none;">Escuela de Aviación Militar — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.argentina.gob.ar/noticias/10-de-agosto-dia-de-la-fuerza-aerea-argentina" style="color: #315fea; text-decoration: none;">Fuerza Aérea Argentina: «10 de Agosto: Día de la Fuerza Aérea Argentina», con el detalle de la financiación por suscripción popular y documentación gráfica de época</a></li>
+    <li><a href="https://www.argentina.gob.ar/fuerzaaerea/sobre-nosotros/nuestra-historia" style="color: #315fea; text-decoration: none;">Fuerza Aérea Argentina: «Nuestra historia», reseña oficial desde la aerostación militar de 1866</a></li>
+    <li><a href="http://www.eam.iua.edu.ar/eam/historia/" style="color: #315fea; text-decoration: none;">Escuela de Aviación Militar: cronología institucional oficial, con las etapas de disolución, reapertura y cambios de denominación</a></li>
+    <li><a href="https://elarcondelahistoria.com/la-escuela-de-aviacion-militar-1081912/" style="color: #315fea; text-decoration: none;">El Arcón de la Historia: «La Escuela de Aviación Militar (10/08/1912)», con la referencia documental del decreto y el ingreso de los primeros oficiales extranjeros</a></li>
+    <li><a href="https://amilarg.com.ar/amilarg.html" style="color: #315fea; text-decoration: none;">AMILARG: «El inicio de la aeronáutica argentina», con la publicación del decreto en el Boletín Militar 696</a></li>
+    <li><a href="https://www.gacetaeronautica.com/gaceta/wp-101/fotos-de-aeronaves-en-argentina-1-2/" style="color: #315fea; text-decoration: none;">Gaceta Aeronáutica: «Fotos de aeronaves en Argentina», sobre la actividad aérea concentrada en El Palomar entre 1912 y 1920</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Escuela_de_Aviaci%C3%B3n_Militar" style="color: #315fea; text-decoration: none;">Escuela de Aviación Militar — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

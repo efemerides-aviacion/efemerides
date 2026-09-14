@@ -87,14 +87,18 @@ Dunning está enterrado en el cementerio de la iglesia de St Lawrence, en Bradfi
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://en.wikipedia.org/wiki/Edwin_Harris_Dunning" style="color: #315fea; text-decoration: none;">Edwin Harris Dunning — Wikipedia (en inglés)</a>
-- <a href="https://en.wikipedia.org/wiki/HMS_Furious_(47)" style="color: #315fea; text-decoration: none;">HMS Furious (47) — Wikipedia (en inglés)</a>
-- <a href="https://en.wikipedia.org/wiki/Sopwith_Pup" style="color: #315fea; text-decoration: none;">Sopwith Pup — Wikipedia (en inglés)</a>
-- <a href="https://www.iwm.org.uk/collections/item/object/205092012" style="color: #315fea; text-decoration: none;">Imperial War Museums, fotografía Q 110613: Squadron Commander E. H. Dunning tras el primer apontaje logrado en un portaaviones en navegación, HMS Furious, 2 de agosto de 1917</a>
-- <a href="https://www.royalnavy.mod.uk/news/2017/august/01/170801-flypast-on-centenary-of-dunnings-historic-landing" style="color: #315fea; text-decoration: none;">Royal Navy: «Flypast on centenary of Dunning's historic landing» (1 de agosto de 2017)</a>
-- <a href="https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-40791496" style="color: #315fea; text-decoration: none;">BBC News: «First plane landing on moving ship in Scapa Flow remembered» (1 de agosto de 2017)</a>
-- <a href="https://www.scotsman.com/news/historic-aircraft-landing-a-century-ago-in-orkney-remembered-1443720" style="color: #315fea; text-decoration: none;">The Scotsman: «Historic aircraft landing a century ago in Orkney remembered» (3 de agosto de 2017)</a>
-- <a href="https://en.wikipedia.org/wiki/Tondern_raid" style="color: #315fea; text-decoration: none;">Tondern raid — Wikipedia (en inglés)</a>
+<div class="references">
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Edwin_Harris_Dunning" style="color: #315fea; text-decoration: none;">Edwin Harris Dunning — Wikipedia (en inglés)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/HMS_Furious_(47)" style="color: #315fea; text-decoration: none;">HMS Furious (47) — Wikipedia (en inglés)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Sopwith_Pup" style="color: #315fea; text-decoration: none;">Sopwith Pup — Wikipedia (en inglés)</a></li>
+    <li><a href="https://www.iwm.org.uk/collections/item/object/205092012" style="color: #315fea; text-decoration: none;">Imperial War Museums, fotografía Q 110613: Squadron Commander E. H. Dunning tras el primer apontaje logrado en un portaaviones en navegación, HMS Furious, 2 de agosto de 1917</a></li>
+    <li><a href="https://www.royalnavy.mod.uk/news/2017/august/01/170801-flypast-on-centenary-of-dunnings-historic-landing" style="color: #315fea; text-decoration: none;">Royal Navy: «Flypast on centenary of Dunning's historic landing» (1 de agosto de 2017)</a></li>
+    <li><a href="https://www.bbc.com/news/uk-scotland-north-east-orkney-shetland-40791496" style="color: #315fea; text-decoration: none;">BBC News: «First plane landing on moving ship in Scapa Flow remembered» (1 de agosto de 2017)</a></li>
+    <li><a href="https://www.scotsman.com/news/historic-aircraft-landing-a-century-ago-in-orkney-remembered-1443720" style="color: #315fea; text-decoration: none;">The Scotsman: «Historic aircraft landing a century ago in Orkney remembered» (3 de agosto de 2017)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Tondern_raid" style="color: #315fea; text-decoration: none;">Tondern raid — Wikipedia (en inglés)</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

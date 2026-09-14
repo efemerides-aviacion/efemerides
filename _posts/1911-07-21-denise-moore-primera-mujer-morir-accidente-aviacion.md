@@ -71,10 +71,14 @@ Su memoria está preservada en los archivos históricos de la aviación mundial 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Referencias Verificadas
-- <a href="https://aviation-safety.net/wikibase/wiki.php?id=232322" style="color: #315fea; text-decoration: none;">Aviation Safety Network: Registro del accidente fatal del 21 de julio de 1911 en Étampes</a>
-- <a href="https://www.thisdayinaviation.com/21-july-1911/" style="color: #315fea; text-decoration: none;">This Day in Aviation: Reseña histórica sobre Denise Moore y el accidente del biplano Farman</a>
-- <a href="https://es.wikipedia.org/wiki/Denise_Moore" style="color: #315fea; text-decoration: none;">Wikipedia: Biografía de Denise Moore (artículo enciclopédico de contraste)</a>
-- <a href="https://en.wikipedia.org/wiki/Denise_Moore" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Denise Moore (E. Jane Wright / Cornesson; Étampes, 21 de julio de 1911)</a>
+<div class="references">
+  <ul>
+    <li><a href="https://aviation-safety.net/wikibase/wiki.php?id=232322" style="color: #315fea; text-decoration: none;">Aviation Safety Network: Registro del accidente fatal del 21 de julio de 1911 en Étampes</a></li>
+    <li><a href="https://www.thisdayinaviation.com/21-july-1911/" style="color: #315fea; text-decoration: none;">This Day in Aviation: Reseña histórica sobre Denise Moore y el accidente del biplano Farman</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Denise_Moore" style="color: #315fea; text-decoration: none;">Wikipedia: Biografía de Denise Moore (artículo enciclopédico de contraste)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Denise_Moore" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Denise Moore (E. Jane Wright / Cornesson; Étampes, 21 de julio de 1911)</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 <div class="note-box">

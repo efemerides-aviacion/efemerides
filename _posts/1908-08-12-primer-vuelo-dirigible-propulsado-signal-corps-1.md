@@ -113,14 +113,18 @@ Queda una última observación sobre las personas. Aquel 12 de agosto volaban ju
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://web.archive.org/web/20140714182816/http://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=665" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: «Baldwin Dirigible: U.S. Army's First Airship», ficha informativa</a>
-- <a href="https://www.thisdayinaviation.com/12-august-1908/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «12 August 1908», con el detalle constructivo y las prestaciones del aparato</a>
-- <a href="https://en.wikipedia.org/wiki/Signal_Corps_Dirigible_No._1" style="color: #315fea; text-decoration: none;">Signal Corps Dirigible No. 1 — Wikipedia en inglés</a>
-- <a href="https://en.wikipedia.org/wiki/Thomas_Scott_Baldwin" style="color: #315fea; text-decoration: none;">Thomas Scott Baldwin — Wikipedia en inglés</a>
-- <a href="https://en.wikipedia.org/wiki/Aeronautical_Division%2C_U.S._Signal_Corps" style="color: #315fea; text-decoration: none;">Aeronautical Division, U.S. Signal Corps — Wikipedia en inglés</a>
-- <a href="https://www.airandspaceforces.com/article/chronology-1903-1909/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine: cronología aeronáutica de 1903 a 1909</a>
-- <a href="https://digital.sciencehistory.org/works/02870w29b" style="color: #315fea; text-decoration: none;">Science History Institute: «Le Dirigeable Baldwin», documentación fotográfica del aparato</a>
-- <a href="https://welweb.org/ThenandNow/Baldwin.html" style="color: #315fea; text-decoration: none;">World Encyclopedia of Lighter-Than-Air: ficha del Baldwin Nº 8 y del SC-1</a>
+<div class="references">
+  <ul>
+    <li><a href="https://web.archive.org/web/20140714182816/http://www.nationalmuseum.af.mil/factsheets/factsheet.asp?id=665" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: «Baldwin Dirigible: U.S. Army's First Airship», ficha informativa</a></li>
+    <li><a href="https://www.thisdayinaviation.com/12-august-1908/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «12 August 1908», con el detalle constructivo y las prestaciones del aparato</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Signal_Corps_Dirigible_No._1" style="color: #315fea; text-decoration: none;">Signal Corps Dirigible No. 1 — Wikipedia en inglés</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Thomas_Scott_Baldwin" style="color: #315fea; text-decoration: none;">Thomas Scott Baldwin — Wikipedia en inglés</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Aeronautical_Division%2C_U.S._Signal_Corps" style="color: #315fea; text-decoration: none;">Aeronautical Division, U.S. Signal Corps — Wikipedia en inglés</a></li>
+    <li><a href="https://www.airandspaceforces.com/article/chronology-1903-1909/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine: cronología aeronáutica de 1903 a 1909</a></li>
+    <li><a href="https://digital.sciencehistory.org/works/02870w29b" style="color: #315fea; text-decoration: none;">Science History Institute: «Le Dirigeable Baldwin», documentación fotográfica del aparato</a></li>
+    <li><a href="https://welweb.org/ThenandNow/Baldwin.html" style="color: #315fea; text-decoration: none;">World Encyclopedia of Lighter-Than-Air: ficha del Baldwin Nº 8 y del SC-1</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

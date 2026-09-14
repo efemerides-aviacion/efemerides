@@ -92,14 +92,18 @@ Queda por último la advertencia implícita. La historia de la aplicación aére
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://en.wikipedia.org/wiki/Aerial_application" style="color: #315fea; text-decoration: none;">Aerial application — Wikipedia en inglés</a>
-- <a href="https://en.wikipedia.org/wiki/John_A._Macready" style="color: #315fea; text-decoration: none;">John A. Macready — Wikipedia en inglés</a>
-- <a href="https://en.wikipedia.org/wiki/Etienne_Dormoy" style="color: #315fea; text-decoration: none;">Etienne Dormoy — Wikipedia en inglés</a>
-- <a href="https://www.airandspaceforces.com/this-day-in-airpower/august-03-1921/" style="color: #315fea; text-decoration: none;">Air &amp; Space Forces Magazine: «August 03, 1921», en la sección This Day in Airpower</a>
-- <a href="https://archive.org/details/pamphletsonfores04ohiorich" style="color: #315fea; text-decoration: none;">John S. Houser, «The Airplane in Catalpa Sphinx Control», Ohio Agricultural Experiment Station, Monthly Bulletin 7 (1922), en Internet Archive</a>
-- <a href="https://en.wikipedia.org/wiki/Ceratomia_catalpae" style="color: #315fea; text-decoration: none;">Ceratomia catalpae — Wikipedia en inglés</a>
-- <a href="https://en.wikipedia.org/wiki/McCook_Field" style="color: #315fea; text-decoration: none;">McCook Field — Wikipedia en inglés</a>
-- <a href="https://en.wikipedia.org/wiki/Lead_arsenate" style="color: #315fea; text-decoration: none;">Lead arsenate — Wikipedia en inglés</a>
+<div class="references">
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Aerial_application" style="color: #315fea; text-decoration: none;">Aerial application — Wikipedia en inglés</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/John_A._Macready" style="color: #315fea; text-decoration: none;">John A. Macready — Wikipedia en inglés</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Etienne_Dormoy" style="color: #315fea; text-decoration: none;">Etienne Dormoy — Wikipedia en inglés</a></li>
+    <li><a href="https://www.airandspaceforces.com/this-day-in-airpower/august-03-1921/" style="color: #315fea; text-decoration: none;">Air &amp; Space Forces Magazine: «August 03, 1921», en la sección This Day in Airpower</a></li>
+    <li><a href="https://archive.org/details/pamphletsonfores04ohiorich" style="color: #315fea; text-decoration: none;">John S. Houser, «The Airplane in Catalpa Sphinx Control», Ohio Agricultural Experiment Station, Monthly Bulletin 7 (1922), en Internet Archive</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Ceratomia_catalpae" style="color: #315fea; text-decoration: none;">Ceratomia catalpae — Wikipedia en inglés</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/McCook_Field" style="color: #315fea; text-decoration: none;">McCook Field — Wikipedia en inglés</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lead_arsenate" style="color: #315fea; text-decoration: none;">Lead arsenate — Wikipedia en inglés</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

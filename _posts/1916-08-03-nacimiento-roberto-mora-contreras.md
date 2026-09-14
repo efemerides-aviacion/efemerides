@@ -103,12 +103,16 @@ En términos históricos, su vuelo de noviembre de 1948 marca el punto en que la
 
 ## Referencias Verificadas
 
-- <a href="https://favclubven.wordpress.com/2025/12/29/el-capitan-roberto-jose-mora-contreras-pionero-en-aviones-jet/" style="color: #315fea; text-decoration: none;">FAV-CLUB: «El Capitán Roberto José Mora Contreras, pionero en aviones jet», por Arturo Soto Loreto (2025)</a>
-- <a href="https://favgrupo.blogspot.com/2024/01/el-capitan-av-roberto-jose-mora.html" style="color: #315fea; text-decoration: none;">Fuerza Aérea Venezolana FAV (FAV Grupo): «El Capitán (Av) Roberto José Mora Contreras, pionero en aviones Jet», por Arturo C. Soto Loreto (17 de enero de 2024)</a>
-- <a href="https://es.wikipedia.org/wiki/Gloster_Meteor" style="color: #315fea; text-decoration: none;">Gloster Meteor — Wikipedia en español</a>
-- <a href="https://en.wikipedia.org/wiki/Gloster_Meteor" style="color: #315fea; text-decoration: none;">Gloster Meteor — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/De_Havilland_Vampire" style="color: #315fea; text-decoration: none;">De Havilland Vampire — Wikipedia en español</a>
-- <a href="https://es.wikipedia.org/wiki/Aviaci%C3%B3n_Militar_Bolivariana" style="color: #315fea; text-decoration: none;">Aviación Militar Bolivariana — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://favclubven.wordpress.com/2025/12/29/el-capitan-roberto-jose-mora-contreras-pionero-en-aviones-jet/" style="color: #315fea; text-decoration: none;">FAV-CLUB: «El Capitán Roberto José Mora Contreras, pionero en aviones jet», por Arturo Soto Loreto (2025)</a></li>
+    <li><a href="https://favgrupo.blogspot.com/2024/01/el-capitan-av-roberto-jose-mora.html" style="color: #315fea; text-decoration: none;">Fuerza Aérea Venezolana FAV (FAV Grupo): «El Capitán (Av) Roberto José Mora Contreras, pionero en aviones Jet», por Arturo C. Soto Loreto (17 de enero de 2024)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Gloster_Meteor" style="color: #315fea; text-decoration: none;">Gloster Meteor — Wikipedia en español</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Gloster_Meteor" style="color: #315fea; text-decoration: none;">Gloster Meteor — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/De_Havilland_Vampire" style="color: #315fea; text-decoration: none;">De Havilland Vampire — Wikipedia en español</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Aviaci%C3%B3n_Militar_Bolivariana" style="color: #315fea; text-decoration: none;">Aviación Militar Bolivariana — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">

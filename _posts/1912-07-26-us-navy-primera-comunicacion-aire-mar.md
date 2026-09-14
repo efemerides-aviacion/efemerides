@@ -72,10 +72,14 @@ El concepto probado en Annapolis en 1912 sentó las bases operativas de la guerr
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
-- <a href="https://www.marinelink.com/news/this-day-in-naval-history-july-26316253" style="color: #315fea; text-decoration: none;">MarineLink / Navy News Service: This Day in Naval History - First Airborne Radio Communications to Ship (26 July 1912)</a>
-- <a href="https://www.usni.org/magazines/proceedings/1944/april/discussions-comments-and-notes" style="color: #315fea; text-decoration: none;">U.S. Naval Institute (USNI Proceedings): Early Naval Airborne Radio Development Records</a>
-- <a href="https://www.history.navy.mil/content/dam/nhhc/research/histories/naval-aviation/pdf/PART01.PDF" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command — United States Naval Aviation 1910–1915, «A Few Pioneers»: 26 July 1912, Wright B-1, Rodgers y Maddox al Stringham</a>
-- <a href="https://en.wikipedia.org/wiki/United_States_naval_aviation" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — United States naval aviation</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.marinelink.com/news/this-day-in-naval-history-july-26316253" style="color: #315fea; text-decoration: none;">MarineLink / Navy News Service: This Day in Naval History - First Airborne Radio Communications to Ship (26 July 1912)</a></li>
+    <li><a href="https://www.usni.org/magazines/proceedings/1944/april/discussions-comments-and-notes" style="color: #315fea; text-decoration: none;">U.S. Naval Institute (USNI Proceedings): Early Naval Airborne Radio Development Records</a></li>
+    <li><a href="https://www.history.navy.mil/content/dam/nhhc/research/histories/naval-aviation/pdf/PART01.PDF" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command — United States Naval Aviation 1910–1915, «A Few Pioneers»: 26 July 1912, Wright B-1, Rodgers y Maddox al Stringham</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/United_States_naval_aviation" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — United States naval aviation</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

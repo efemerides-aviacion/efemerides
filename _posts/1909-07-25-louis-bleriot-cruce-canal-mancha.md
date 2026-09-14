@@ -71,11 +71,15 @@ En el lugar exacto del aterrizaje en Northfall Meadow, junto al Castillo de Dove
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
-- <a href="https://www.thisdayinaviation.com/25-july-1909/" style="color: #315fea; text-decoration: none;">This Day in Aviation: Reseña Fotográfica e Histórica del Vuelo de Louis Blériot (25 de julio de 1909)</a>
-- <a href="https://en.wikipedia.org/wiki/Bl%C3%A9riot_XI" style="color: #315fea; text-decoration: none;">Wikipedia: Blériot XI (historia del desarrollo, especificaciones y cruce del canal)</a>
-- <a href="https://airandspace.si.edu/collection-objects/bleriot-xi/nasm_A19500095000" style="color: #315fea; text-decoration: none;">Smithsonian NASM — Blériot XI (primer cruce aéreo del Canal, 25 de julio de 1909)</a>
-- <a href="https://www.arts-et-metiers.net/musee/lavion-de-lexploit-1909-louis-bleriot-traverse-la-manche" style="color: #315fea; text-decoration: none;">Musée des Arts et Métiers — L’avion de l’exploit: el Blériot XI original de la travesía (ingreso el 13 de octubre de 1909)</a>
-- <a href="https://www.loc.gov/item/2003662010/" style="color: #315fea; text-decoration: none;">Library of Congress — The channel flight. Blériot, July 25th 1909 (cromolitografía de H. Delaspre)</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.thisdayinaviation.com/25-july-1909/" style="color: #315fea; text-decoration: none;">This Day in Aviation: Reseña Fotográfica e Histórica del Vuelo de Louis Blériot (25 de julio de 1909)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Bl%C3%A9riot_XI" style="color: #315fea; text-decoration: none;">Wikipedia: Blériot XI (historia del desarrollo, especificaciones y cruce del canal)</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/bleriot-xi/nasm_A19500095000" style="color: #315fea; text-decoration: none;">Smithsonian NASM — Blériot XI (primer cruce aéreo del Canal, 25 de julio de 1909)</a></li>
+    <li><a href="https://www.arts-et-metiers.net/musee/lavion-de-lexploit-1909-louis-bleriot-traverse-la-manche" style="color: #315fea; text-decoration: none;">Musée des Arts et Métiers — L’avion de l’exploit: el Blériot XI original de la travesía (ingreso el 13 de octubre de 1909)</a></li>
+    <li><a href="https://www.loc.gov/item/2003662010/" style="color: #315fea; text-decoration: none;">Library of Congress — The channel flight. Blériot, July 25th 1909 (cromolitografía de H. Delaspre)</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

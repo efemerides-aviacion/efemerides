@@ -106,13 +106,17 @@ Queda también una lección técnica que el episodio dejó planteada y que la ae
 
 ## Referencias Verificadas
 
-- <a href="https://en.wikipedia.org/wiki/LZ_4" style="color: #315fea; text-decoration: none;">LZ 4 — Wikipedia en inglés</a>
-- <a href="https://www.thisdayinaviation.com/5-august-1908/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «5 August 1908», con fotografía del aparato destruido</a>
-- <a href="https://www.airships.net/blog/today-history-lz4-miracle-echterdingen/" style="color: #315fea; text-decoration: none;">Airships.net: «The crash of LZ-4 and the Miracle at Echterdingen», por Dan Grossman</a>
-- <a href="https://es.wikipedia.org/wiki/Luftschiffbau_Zeppelin" style="color: #315fea; text-decoration: none;">Luftschiffbau Zeppelin — Wikipedia en español</a>
-- <a href="https://es.wikipedia.org/wiki/Ferdinand_von_Zeppelin" style="color: #315fea; text-decoration: none;">Ferdinand von Zeppelin — Wikipedia en español</a>
-- <a href="https://es.wikipedia.org/wiki/Zeppelin" style="color: #315fea; text-decoration: none;">Zeppelin — Wikipedia en español</a>
-- <a href="https://en.wikipedia.org/wiki/DELAG" style="color: #315fea; text-decoration: none;">DELAG — Wikipedia en inglés</a>
+<div class="references">
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/LZ_4" style="color: #315fea; text-decoration: none;">LZ 4 — Wikipedia en inglés</a></li>
+    <li><a href="https://www.thisdayinaviation.com/5-august-1908/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «5 August 1908», con fotografía del aparato destruido</a></li>
+    <li><a href="https://www.airships.net/blog/today-history-lz4-miracle-echterdingen/" style="color: #315fea; text-decoration: none;">Airships.net: «The crash of LZ-4 and the Miracle at Echterdingen», por Dan Grossman</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Luftschiffbau_Zeppelin" style="color: #315fea; text-decoration: none;">Luftschiffbau Zeppelin — Wikipedia en español</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Ferdinand_von_Zeppelin" style="color: #315fea; text-decoration: none;">Ferdinand von Zeppelin — Wikipedia en español</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Zeppelin" style="color: #315fea; text-decoration: none;">Zeppelin — Wikipedia en español</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/DELAG" style="color: #315fea; text-decoration: none;">DELAG — Wikipedia en inglés</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
