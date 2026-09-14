@@ -104,18 +104,22 @@ Queda, con todo, una línea que sí llega hasta hoy. El primer brasileño que vo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://purl.pt/706" style="color: #315fea; text-decoration: none;">Biblioteca Nacional de Portugal: reproducción facsimilar del dibujo, la descripción y la petición de Gusmão a Juan V (1709), edición de 1917</a>
-- <a href="https://airandspace.si.edu/collection-objects/fig-flying-ship-p-297/nasm_A20140548000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: ficha del grabado «The Flying Ship» atribuido al proyecto de Gusmão</a>
-- <a href="https://www.bbml.org.uk/1709-first-demonstration-of-a-model-hot-air-balloon/" style="color: #315fea; text-decoration: none;">British Balloon Museum and Library: «1709 — First demonstration of a model hot air balloon»</a>
-- <a href="https://revistapesquisa.fapesp.br/proezas-de-um-padre-voador/" style="color: #315fea; text-decoration: none;">Revista Pesquisa FAPESP: «Proezas de um padre voador»</a>
-- <a href="https://historiadafab.rudnei.cunha.nom.br/2021/02/23/bartholomeu-lourenco-de-gusmao/" style="color: #315fea; text-decoration: none;">História da Força Aérea Brasileira: «Bartholomeu Lourenço de Gusmão, pioneiro da Aeronáutica»</a>
-- <a href="https://www.academiapaulistadeletras.org.br/patronos.asp?materia=145" style="color: #315fea; text-decoration: none;">Academia Paulista de Letras: semblanza de Bartolomeu Lourenço de Gusmão</a>
-- <a href="http://www.cclb.org.br/2023/08/30/bartolomeu-de-gusmao-primeiro-cientista-das-americas/" style="color: #315fea; text-decoration: none;">Conselho de Cidadania Luso-Brasileiro: «Bartolomeu de Gusmão, primeiro cientista das Américas»</a>
-- <a href="https://www.novomilenio.inf.br/santos/h0057f.htm" style="color: #315fea; text-decoration: none;">Novo Milênio: dossier documental sobre el padre volador y el destino de sus restos</a>
-- <a href="https://www.catholic.org/encyclopedia/view.php?id=5459" style="color: #315fea; text-decoration: none;">Catholic Encyclopedia: entrada «Bartholomeu Lourenço de Gusmão», sobre el carácter legendario de la persecución inquisitorial por sus experimentos</a>
-- <a href="https://pt.wikipedia.org/wiki/Bartolomeu_de_Gusm%C3%A3o" style="color: #315fea; text-decoration: none;">Bartolomeu de Gusmão — Wikipedia en portugués</a>
-- <a href="https://en.wikipedia.org/wiki/Bartolomeu_de_Gusm%C3%A3o" style="color: #315fea; text-decoration: none;">Bartolomeu de Gusmão — Wikipedia en inglés</a>
-- <a href="https://pt.wikipedia.org/wiki/Passarola" style="color: #315fea; text-decoration: none;">Passarola — Wikipedia en portugués</a>
+<div class="references">
+  <ul>
+    <li><a href="https://purl.pt/706" style="color: #315fea; text-decoration: none;">Biblioteca Nacional de Portugal: reproducción facsimilar del dibujo, la descripción y la petición de Gusmão a Juan V (1709), edición de 1917</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/fig-flying-ship-p-297/nasm_A20140548000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: ficha del grabado «The Flying Ship» atribuido al proyecto de Gusmão</a></li>
+    <li><a href="https://www.bbml.org.uk/1709-first-demonstration-of-a-model-hot-air-balloon/" style="color: #315fea; text-decoration: none;">British Balloon Museum and Library: «1709 — First demonstration of a model hot air balloon»</a></li>
+    <li><a href="https://revistapesquisa.fapesp.br/proezas-de-um-padre-voador/" style="color: #315fea; text-decoration: none;">Revista Pesquisa FAPESP: «Proezas de um padre voador»</a></li>
+    <li><a href="https://historiadafab.rudnei.cunha.nom.br/2021/02/23/bartholomeu-lourenco-de-gusmao/" style="color: #315fea; text-decoration: none;">História da Força Aérea Brasileira: «Bartholomeu Lourenço de Gusmão, pioneiro da Aeronáutica»</a></li>
+    <li><a href="https://www.academiapaulistadeletras.org.br/patronos.asp?materia=145" style="color: #315fea; text-decoration: none;">Academia Paulista de Letras: semblanza de Bartolomeu Lourenço de Gusmão</a></li>
+    <li><a href="http://www.cclb.org.br/2023/08/30/bartolomeu-de-gusmao-primeiro-cientista-das-americas/" style="color: #315fea; text-decoration: none;">Conselho de Cidadania Luso-Brasileiro: «Bartolomeu de Gusmão, primeiro cientista das Américas»</a></li>
+    <li><a href="https://www.novomilenio.inf.br/santos/h0057f.htm" style="color: #315fea; text-decoration: none;">Novo Milênio: dossier documental sobre el padre volador y el destino de sus restos</a></li>
+    <li><a href="https://www.catholic.org/encyclopedia/view.php?id=5459" style="color: #315fea; text-decoration: none;">Catholic Encyclopedia: entrada «Bartholomeu Lourenço de Gusmão», sobre el carácter legendario de la persecución inquisitorial por sus experimentos</a></li>
+    <li><a href="https://pt.wikipedia.org/wiki/Bartolomeu_de_Gusm%C3%A3o" style="color: #315fea; text-decoration: none;">Bartolomeu de Gusmão — Wikipedia en portugués</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Bartolomeu_de_Gusm%C3%A3o" style="color: #315fea; text-decoration: none;">Bartolomeu de Gusmão — Wikipedia en inglés</a></li>
+    <li><a href="https://pt.wikipedia.org/wiki/Passarola" style="color: #315fea; text-decoration: none;">Passarola — Wikipedia en portugués</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

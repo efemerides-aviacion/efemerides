@@ -99,17 +99,21 @@ Su figura ha alimentado además una producción literaria notable, con novelas i
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
 
-- <a href="https://jimmieangel.org/research-papers/" style="color: #315fea; text-decoration: none;">Jimmie Angel Historical Project, archivo histórico fundado en 1996 y dirigido por su curadora, Karen Angel: repertorio de investigaciones</a>
-- <a href="https://jimmieangel.org/wp-content/uploads/2024/07/Gonzalez-RESEARCH-PAPER-2023-English.pdf" style="color: #315fea; text-decoration: none;">Jorge M. González: «On the Trail of Angel Falls. Neither the Pacaraima Waterfall nor El Gran Salto del Caroní», 2023</a>
-- <a href="https://www.aviacioncivil.com.ve/el-avion-metal-aircraft-co-g-2-w-flamingo-rio-caroni/" style="color: #315fea; text-decoration: none;">Aviación Civil Venezuela: «El avión Metal Aircraft Co G-2-W Flamingo Río Caroní de Jimmie Angel»</a>
-- <a href="https://www.correodelcaroni.com/correo-de-ayer/la-avioneta-de-jimmy-angel-reposa-como-si-estuviera-lista-para-otro-despegue-en-ciudad-bolivar-desde-hace-41-anos/" style="color: #315fea; text-decoration: none;">Correo del Caroní: la entrega de la aeronave en Ciudad Bolívar el 26 de abril de 1980</a>
-- <a href="https://id.loc.gov/authorities/names/n00036574.html" style="color: #315fea; text-decoration: none;">Library of Congress, LC Name Authority File: registro de autoridad «Angel, Jimmy, 1899-1956» (n00036574)</a>
-- <a href="https://bibliofep.fundacionempresaspolar.org/dhv/entradas/a/angel-james-crawford/" style="color: #315fea; text-decoration: none;">Fundación Empresas Polar, Diccionario de Historia de Venezuela: entrada «Angel, James Crawford»</a>
-- <a href="https://historynet.com/aviators-angel-flight/" style="color: #315fea; text-decoration: none;">HistoryNet: «Angel Flight», reportaje de la revista Aviation History</a>
-- <a href="https://en.wikipedia.org/wiki/Jimmie_Angel" style="color: #315fea; text-decoration: none;">Jimmie Angel — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/James_Crawford_Angel" style="color: #315fea; text-decoration: none;">James Crawford Angel — Wikipedia en español</a>
-- <a href="https://es.wikipedia.org/wiki/Salto_%C3%81ngel" style="color: #315fea; text-decoration: none;">Salto Ángel — Wikipedia en español</a>
-- <a href="https://jimmieangel.org/angels-flight-book/" style="color: #315fea; text-decoration: none;">Karen Angel: «Angel's Flight – The Life of Jimmie Angel – American Aviator-Explorer – Discoverer of Angel Falls», 2019 (ISBN 978-1-4834-8948-3)</a>
+<div class="references">
+  <ul>
+    <li><a href="https://jimmieangel.org/research-papers/" style="color: #315fea; text-decoration: none;">Jimmie Angel Historical Project, archivo histórico fundado en 1996 y dirigido por su curadora, Karen Angel: repertorio de investigaciones</a></li>
+    <li><a href="https://jimmieangel.org/wp-content/uploads/2024/07/Gonzalez-RESEARCH-PAPER-2023-English.pdf" style="color: #315fea; text-decoration: none;">Jorge M. González: «On the Trail of Angel Falls. Neither the Pacaraima Waterfall nor El Gran Salto del Caroní», 2023</a></li>
+    <li><a href="https://www.aviacioncivil.com.ve/el-avion-metal-aircraft-co-g-2-w-flamingo-rio-caroni/" style="color: #315fea; text-decoration: none;">Aviación Civil Venezuela: «El avión Metal Aircraft Co G-2-W Flamingo Río Caroní de Jimmie Angel»</a></li>
+    <li><a href="https://www.correodelcaroni.com/correo-de-ayer/la-avioneta-de-jimmy-angel-reposa-como-si-estuviera-lista-para-otro-despegue-en-ciudad-bolivar-desde-hace-41-anos/" style="color: #315fea; text-decoration: none;">Correo del Caroní: la entrega de la aeronave en Ciudad Bolívar el 26 de abril de 1980</a></li>
+    <li><a href="https://id.loc.gov/authorities/names/n00036574.html" style="color: #315fea; text-decoration: none;">Library of Congress, LC Name Authority File: registro de autoridad «Angel, Jimmy, 1899-1956» (n00036574)</a></li>
+    <li><a href="https://bibliofep.fundacionempresaspolar.org/dhv/entradas/a/angel-james-crawford/" style="color: #315fea; text-decoration: none;">Fundación Empresas Polar, Diccionario de Historia de Venezuela: entrada «Angel, James Crawford»</a></li>
+    <li><a href="https://historynet.com/aviators-angel-flight/" style="color: #315fea; text-decoration: none;">HistoryNet: «Angel Flight», reportaje de la revista Aviation History</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Jimmie_Angel" style="color: #315fea; text-decoration: none;">Jimmie Angel — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/James_Crawford_Angel" style="color: #315fea; text-decoration: none;">James Crawford Angel — Wikipedia en español</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Salto_%C3%81ngel" style="color: #315fea; text-decoration: none;">Salto Ángel — Wikipedia en español</a></li>
+    <li><a href="https://jimmieangel.org/angels-flight-book/" style="color: #315fea; text-decoration: none;">Karen Angel: «Angel's Flight – The Life of Jimmie Angel – American Aviator-Explorer – Discoverer of Angel Falls», 2019 (ISBN 978-1-4834-8948-3)</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">

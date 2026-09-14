@@ -70,10 +70,14 @@ Más allá de sus contribuciones técnicas en la evolución del dirigible y el m
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
-- <a href="https://commons.wikimedia.org/wiki/File:Alberto_Santos-Dumont_portrait.jpg" style="color: #315fea; text-decoration: none;">Biblioteca del Congreso de los Estados Unidos / Wikimedia Commons: Retrato oficial de Alberto Santos Dumont</a>
-- <a href="https://www.centennialofflight.net/essay/Dictionary/Santos-Dumont/DI41.htm" style="color: #315fea; text-decoration: none;">Centennial of Flight Commission: Alberto Santos-Dumont Profile and Achievements</a>
-- <a href="https://en.wikipedia.org/wiki/Alberto_Santos-Dumont" style="color: #315fea; text-decoration: none;">Wikipedia: Alberto Santos-Dumont (artículo enciclopédico de contraste)</a>
-- <a href="https://airandspace.si.edu/stories/editorial/recognizing-figures-early-french-flight" style="color: #315fea; text-decoration: none;">Smithsonian NASM — Recognizing Figures in Early French Flight: Alberto Santos-Dumont (14-Bis, noviembre de 1906)</a>
+<div class="references">
+  <ul>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Alberto_Santos-Dumont_portrait.jpg" style="color: #315fea; text-decoration: none;">Biblioteca del Congreso de los Estados Unidos / Wikimedia Commons: Retrato oficial de Alberto Santos Dumont</a></li>
+    <li><a href="https://www.centennialofflight.net/essay/Dictionary/Santos-Dumont/DI41.htm" style="color: #315fea; text-decoration: none;">Centennial of Flight Commission: Alberto Santos-Dumont Profile and Achievements</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Alberto_Santos-Dumont" style="color: #315fea; text-decoration: none;">Wikipedia: Alberto Santos-Dumont (artículo enciclopédico de contraste)</a></li>
+    <li><a href="https://airandspace.si.edu/stories/editorial/recognizing-figures-early-french-flight" style="color: #315fea; text-decoration: none;">Smithsonian NASM — Recognizing Figures in Early French Flight: Alberto Santos-Dumont (14-Bis, noviembre de 1906)</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">

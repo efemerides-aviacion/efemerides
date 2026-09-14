@@ -90,13 +90,17 @@ Su trayectoria recuerda el carácter internacional de aquel pionerismo: se form�
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
-- <a href="https://dbe.rah.es/biografias/45322/benito-loygorri-y-pimentel" style="color: #315fea; text-decoration: none;">Real Academia de la Historia: «Benito Loygorri y Pimentel»</a>.
-- <a href="https://hemerotecadigital.bne.es/hd/es/viewer?id=7ead7ddf-1347-4b36-826b-678e6dad0dc4" style="color: #315fea; text-decoration: none;">Biblioteca Nacional de España: <em>España automóvil y aeronáutica</em>, 15 de junio de 1911, n.º 11</a>.
-- <a href="https://museo.abc.es/wp-content/uploads/2015/09/PASION-POR-VOLAR.pdf" style="color: #315fea; text-decoration: none;">Museo ABC, Aena e Iberia: <em>Pasión por volar</em> (2015), p. 40 y cronología de 1910-1911</a>.
-- <a href="https://fundacionenaire.es/conocimiento/el-inicio-de-la-aventura-aeronautica-en-espana/" style="color: #315fea; text-decoration: none;">Fundación ENAIRE: «El inicio de la aventura aeronáutica en España»</a>.
-- <a href="https://www.donostia.eus/DonostiaKultura/donostiateka/prensa/San%20Sebastian%20revista%20anual%20ilustrada/PDF/1962/01/20/0001.pdf" style="color: #315fea; text-decoration: none;">Biblioteca Municipal de San Sebastián: «Loygorri y la primera dama española del aire» (1962)</a>.
-- <a href="https://www.elcorreogallego.es/galicia/2011/07/15/seculo-aviacion-galicia-110847980.html" style="color: #315fea; text-decoration: none;">El Correo Gallego: «Un século de aviación en Galicia» (2011)</a>.
-- <a href="https://laconquistadelaire.com/2024/05/01/benito-loygorri-pimentel/" style="color: #315fea; text-decoration: none;">David Lavín Bordas: «Benito Loygorri Pimentel», <em>La Conquista del Aire</em> (2024)</a>.
+<div class="references">
+  <ul>
+    <li><a href="https://dbe.rah.es/biografias/45322/benito-loygorri-y-pimentel" style="color: #315fea; text-decoration: none;">Real Academia de la Historia: «Benito Loygorri y Pimentel»</a>.</li>
+    <li><a href="https://hemerotecadigital.bne.es/hd/es/viewer?id=7ead7ddf-1347-4b36-826b-678e6dad0dc4" style="color: #315fea; text-decoration: none;">Biblioteca Nacional de España: <em>España automóvil y aeronáutica</em>, 15 de junio de 1911, n.º 11</a>.</li>
+    <li><a href="https://museo.abc.es/wp-content/uploads/2015/09/PASION-POR-VOLAR.pdf" style="color: #315fea; text-decoration: none;">Museo ABC, Aena e Iberia: <em>Pasión por volar</em> (2015), p. 40 y cronología de 1910-1911</a>.</li>
+    <li><a href="https://fundacionenaire.es/conocimiento/el-inicio-de-la-aventura-aeronautica-en-espana/" style="color: #315fea; text-decoration: none;">Fundación ENAIRE: «El inicio de la aventura aeronáutica en España»</a>.</li>
+    <li><a href="https://www.donostia.eus/DonostiaKultura/donostiateka/prensa/San%20Sebastian%20revista%20anual%20ilustrada/PDF/1962/01/20/0001.pdf" style="color: #315fea; text-decoration: none;">Biblioteca Municipal de San Sebastián: «Loygorri y la primera dama española del aire» (1962)</a>.</li>
+    <li><a href="https://www.elcorreogallego.es/galicia/2011/07/15/seculo-aviacion-galicia-110847980.html" style="color: #315fea; text-decoration: none;">El Correo Gallego: «Un século de aviación en Galicia» (2011)</a>.</li>
+    <li><a href="https://laconquistadelaire.com/2024/05/01/benito-loygorri-pimentel/" style="color: #315fea; text-decoration: none;">David Lavín Bordas: «Benito Loygorri Pimentel», <em>La Conquista del Aire</em> (2024)</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

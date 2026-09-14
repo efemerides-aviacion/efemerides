@@ -114,12 +114,16 @@ Hay algo elocuente en que el hombre cuya partida de nacimiento nadie ha logrado 
 
 ## Referencias Verificadas
 
-- <a href="http://lavozdeoritucohistorialocal.blogspot.com/2023/05/capitan-manuel-rios-resumen-biografico.html" style="color: #315fea; text-decoration: none;">Carlos A. López Garcés, cronista municipal de Altagracia de Orituco: «Capitán Manuel Ríos, resumen biográfico», con la constancia de la ausencia de acta de nacimiento y partida de bautismo</a>
-- <a href="https://radio.otilca.org/manuel-rios-primer-piloto-venezolano-en-surcar-el-cielo-del-pais/" style="color: #315fea; text-decoration: none;">Otilca Radio: «Manuel Ríos, primer piloto venezolano en surcar el cielo del país»</a>
-- <a href="https://webdealta.info/?p=6755" style="color: #315fea; text-decoration: none;">Web de Alta: crónica del aniversario de la hazaña del Capitán Manuel Ríos</a>
-- <a href="http://personajesdelorituco.blogspot.com/2006/04/manuel-simn-ros.html" style="color: #315fea; text-decoration: none;">Personajes del Orituco: ficha biográfica de Manuel Simón Ríos</a>
-- <a href="http://cuandovenezuelaestababiengobernada.blogspot.com/2015/12/aniversario-de-la-aviacion-venezolana.html" style="color: #315fea; text-decoration: none;">Transcripción del oficio del Director de la Escuela de Aviación comunicando el primer vuelo solo, y relación de los alumnos del primer curso de 1921</a>
-- <a href="http://amilitarusb.blogspot.com/p/primera-etapa.html" style="color: #315fea; text-decoration: none;">Cronología de la Aviación Militar Venezolana: adquisición del Caudron G.3 en 1920</a>
+<div class="references">
+  <ul>
+    <li><a href="http://lavozdeoritucohistorialocal.blogspot.com/2023/05/capitan-manuel-rios-resumen-biografico.html" style="color: #315fea; text-decoration: none;">Carlos A. López Garcés, cronista municipal de Altagracia de Orituco: «Capitán Manuel Ríos, resumen biográfico», con la constancia de la ausencia de acta de nacimiento y partida de bautismo</a></li>
+    <li><a href="https://radio.otilca.org/manuel-rios-primer-piloto-venezolano-en-surcar-el-cielo-del-pais/" style="color: #315fea; text-decoration: none;">Otilca Radio: «Manuel Ríos, primer piloto venezolano en surcar el cielo del país»</a></li>
+    <li><a href="https://webdealta.info/?p=6755" style="color: #315fea; text-decoration: none;">Web de Alta: crónica del aniversario de la hazaña del Capitán Manuel Ríos</a></li>
+    <li><a href="http://personajesdelorituco.blogspot.com/2006/04/manuel-simn-ros.html" style="color: #315fea; text-decoration: none;">Personajes del Orituco: ficha biográfica de Manuel Simón Ríos</a></li>
+    <li><a href="http://cuandovenezuelaestababiengobernada.blogspot.com/2015/12/aniversario-de-la-aviacion-venezolana.html" style="color: #315fea; text-decoration: none;">Transcripción del oficio del Director de la Escuela de Aviación comunicando el primer vuelo solo, y relación de los alumnos del primer curso de 1921</a></li>
+    <li><a href="http://amilitarusb.blogspot.com/p/primera-etapa.html" style="color: #315fea; text-decoration: none;">Cronología de la Aviación Militar Venezolana: adquisición del Caudron G.3 en 1920</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

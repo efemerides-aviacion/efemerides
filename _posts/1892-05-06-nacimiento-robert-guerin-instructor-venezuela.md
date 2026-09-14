@@ -89,13 +89,17 @@ Su figura ilustra también un fenómeno más amplio: el de los aviadores europeo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
 
-- <a href="https://forum.pages14-18.com/viewtopic.php?f=30&t=47846" style="color: #315fea; text-decoration: none;">Forum PAGES 14-18: «Personnel français au Venezuela», con la ficha biográfica de Robert Octave Guerin aportada por el historiador Lucien Morareau</a>
-- <a href="https://favclubven.wordpress.com/2024/06/21/un-acto-de-valor-en-el-centenario-de-la-batalla-de-carabobo/" style="color: #315fea; text-decoration: none;">FAV-CLUB: «Un acto de valor en el Centenario de la batalla de Carabobo» (2024)</a>
-- <a href="http://cronicadeguanare.blogspot.com/2013/09/un-caudron-g3-aterriza-en-guanare-en-el.html" style="color: #315fea; text-decoration: none;">Crónicas y Cronistas de Wanauanare: «Un Caudron G.3 aterriza en Guanare en el año 1926»</a>
-- <a href="https://www.eluniversal.com/el-universal/150244/vicente-landaeta-gil-protagonizo-el-primer-accidente-de-aviacion-militar" style="color: #315fea; text-decoration: none;">El Universal: «Vicente Landaeta Gil protagonizó el primer accidente de aviación militar»</a>
-- <a href="https://es.wikipedia.org/wiki/Aviaci%C3%B3n_Militar_Bolivariana" style="color: #315fea; text-decoration: none;">Aviación Militar Bolivariana — Wikipedia en español</a>
-- <a href="https://en.wikipedia.org/wiki/Aeropostal_Alas_de_Venezuela" style="color: #315fea; text-decoration: none;">Aeropostal Alas de Venezuela — Wikipedia en inglés</a>
-- <a href="http://museodeltransportecaracas.blogspot.com/2013/08/cuantos-anos-tiene-la-aeropostal.html" style="color: #315fea; text-decoration: none;">Museo del Transporte de Caracas: «¿Cuántos años tiene la Aeropostal?»</a>
+<div class="references">
+  <ul>
+    <li><a href="https://forum.pages14-18.com/viewtopic.php?f=30&t=47846" style="color: #315fea; text-decoration: none;">Forum PAGES 14-18: «Personnel français au Venezuela», con la ficha biográfica de Robert Octave Guerin aportada por el historiador Lucien Morareau</a></li>
+    <li><a href="https://favclubven.wordpress.com/2024/06/21/un-acto-de-valor-en-el-centenario-de-la-batalla-de-carabobo/" style="color: #315fea; text-decoration: none;">FAV-CLUB: «Un acto de valor en el Centenario de la batalla de Carabobo» (2024)</a></li>
+    <li><a href="http://cronicadeguanare.blogspot.com/2013/09/un-caudron-g3-aterriza-en-guanare-en-el.html" style="color: #315fea; text-decoration: none;">Crónicas y Cronistas de Wanauanare: «Un Caudron G.3 aterriza en Guanare en el año 1926»</a></li>
+    <li><a href="https://www.eluniversal.com/el-universal/150244/vicente-landaeta-gil-protagonizo-el-primer-accidente-de-aviacion-militar" style="color: #315fea; text-decoration: none;">El Universal: «Vicente Landaeta Gil protagonizó el primer accidente de aviación militar»</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Aviaci%C3%B3n_Militar_Bolivariana" style="color: #315fea; text-decoration: none;">Aviación Militar Bolivariana — Wikipedia en español</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Aeropostal_Alas_de_Venezuela" style="color: #315fea; text-decoration: none;">Aeropostal Alas de Venezuela — Wikipedia en inglés</a></li>
+    <li><a href="http://museodeltransportecaracas.blogspot.com/2013/08/cuantos-anos-tiene-la-aeropostal.html" style="color: #315fea; text-decoration: none;">Museo del Transporte de Caracas: «¿Cuántos años tiene la Aeropostal?»</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">

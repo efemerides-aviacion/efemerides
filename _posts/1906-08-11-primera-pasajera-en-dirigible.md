@@ -100,12 +100,16 @@ Su figura se sitúa en una secuencia que continuaría en 1908 con Edith Berg, pr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://www.loc.gov/resource/sn85035720/1906-08-13/ed-2/?sp=8" style="color: #315fea; text-decoration: none;">Perth Amboy Evening News, 13 de agosto de 1906: «Night Trip in Airship», crónica detallada del vuelo (Chronicling America, Library of Congress)</a>
-- <a href="https://archive.org/stream/chronologyofamer00wash/chronologyofamer00wash_djvu.txt" style="color: #315fea; text-decoration: none;">U.S. Air Force, AFP 210-1-1, «Chronology of American Aerospace Events», entrada del 11 de agosto de 1906</a>
-- <a href="https://www.blimpinfo.com/history-2/this-mo-in-hist/this-mo-in-hist-aug/" style="color: #315fea; text-decoration: none;">The Lighter-Than-Air Society: «This Month in Buoyant Flight History – August»</a>
-- <a href="https://www.blimpinfo.com/wp-content/uploads/2012/01/The-Legend-of-CJS-Miller.pdf" style="color: #315fea; text-decoration: none;">George Stroupe: «King of the Road. The Legend of CJS Miller», semblanza biográfica del propietario del dirigible</a>
-- <a href="https://dommagazine.com/article/balloons-and-parachutes-remarkable-leo-stevens-1877-1944" style="color: #315fea; text-decoration: none;">«Of Balloons and Parachutes: The Remarkable A. Leo Stevens (1877-1944)», semblanza del aeronauta</a>
-- <a href="https://airandspace.si.edu/multimedia-gallery/si-98-15931jpg" style="color: #315fea; text-decoration: none;">National Air and Space Museum: A. Leo Stevens en su fábrica de globos, hacia 1915</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.loc.gov/resource/sn85035720/1906-08-13/ed-2/?sp=8" style="color: #315fea; text-decoration: none;">Perth Amboy Evening News, 13 de agosto de 1906: «Night Trip in Airship», crónica detallada del vuelo (Chronicling America, Library of Congress)</a></li>
+    <li><a href="https://archive.org/stream/chronologyofamer00wash/chronologyofamer00wash_djvu.txt" style="color: #315fea; text-decoration: none;">U.S. Air Force, AFP 210-1-1, «Chronology of American Aerospace Events», entrada del 11 de agosto de 1906</a></li>
+    <li><a href="https://www.blimpinfo.com/history-2/this-mo-in-hist/this-mo-in-hist-aug/" style="color: #315fea; text-decoration: none;">The Lighter-Than-Air Society: «This Month in Buoyant Flight History – August»</a></li>
+    <li><a href="https://www.blimpinfo.com/wp-content/uploads/2012/01/The-Legend-of-CJS-Miller.pdf" style="color: #315fea; text-decoration: none;">George Stroupe: «King of the Road. The Legend of CJS Miller», semblanza biográfica del propietario del dirigible</a></li>
+    <li><a href="https://dommagazine.com/article/balloons-and-parachutes-remarkable-leo-stevens-1877-1944" style="color: #315fea; text-decoration: none;">«Of Balloons and Parachutes: The Remarkable A. Leo Stevens (1877-1944)», semblanza del aeronauta</a></li>
+    <li><a href="https://airandspace.si.edu/multimedia-gallery/si-98-15931jpg" style="color: #315fea; text-decoration: none;">National Air and Space Museum: A. Leo Stevens en su fábrica de globos, hacia 1915</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

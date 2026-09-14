@@ -73,11 +73,15 @@ Su legado trasciende las fronteras de la aeronáutica, recordando que el verdade
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
-- <a href="https://www.womenshistory.org/education-resources/biographies/amelia-earhart" style="color: #315fea; text-decoration: none;">National Women's History Museum: Biografía Oficial de Amelia Earhart</a>
-- <a href="https://plainshumanities.unl.edu/encyclopedia/doc/egp.gen.011.html" style="color: #315fea; text-decoration: none;">University of Nebraska-Lincoln: Reseña Biográfica e Histórica de Amelia Earhart</a>
-- <a href="https://es.wikipedia.org/wiki/Amelia_Earhart" style="color: #315fea; text-decoration: none;">Wikipedia: Amelia Earhart (artículo enciclopédico de referencia)</a>
-- <a href="https://collections.lib.purdue.edu/aearhart/biography.php" style="color: #315fea; text-decoration: none;">Purdue University Libraries — Amelia Earhart Biographical Sketch (24 de julio de 1897, Atchison)</a>
-- <a href="https://airandspace.si.edu/collection-objects/medal-national-geographic-society-medal-amelia-earhart/nasm_A19640145000" style="color: #315fea; text-decoration: none;">Smithsonian NASM — National Geographic Society Medal, Amelia Earhart (nacimiento 24 de julio de 1897)</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.womenshistory.org/education-resources/biographies/amelia-earhart" style="color: #315fea; text-decoration: none;">National Women's History Museum: Biografía Oficial de Amelia Earhart</a></li>
+    <li><a href="https://plainshumanities.unl.edu/encyclopedia/doc/egp.gen.011.html" style="color: #315fea; text-decoration: none;">University of Nebraska-Lincoln: Reseña Biográfica e Histórica de Amelia Earhart</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Amelia_Earhart" style="color: #315fea; text-decoration: none;">Wikipedia: Amelia Earhart (artículo enciclopédico de referencia)</a></li>
+    <li><a href="https://collections.lib.purdue.edu/aearhart/biography.php" style="color: #315fea; text-decoration: none;">Purdue University Libraries — Amelia Earhart Biographical Sketch (24 de julio de 1897, Atchison)</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/medal-national-geographic-society-medal-amelia-earhart/nasm_A19640145000" style="color: #315fea; text-decoration: none;">Smithsonian NASM — National Geographic Society Medal, Amelia Earhart (nacimiento 24 de julio de 1897)</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">

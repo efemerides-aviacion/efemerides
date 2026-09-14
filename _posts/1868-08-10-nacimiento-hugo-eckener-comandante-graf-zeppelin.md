@@ -129,13 +129,17 @@ De la memoria material sobrevive lo previsible: una escuela y un centro de congr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
 
-- <a href="https://www.airships.net/airship-people/hugo-eckener/" style="color: #315fea; text-decoration: none;">Airships.net: semblanza biográfica de Hugo Eckener, con el detalle de su formación, su criterio operativo y su papel en la supervivencia de la compañía</a>
-- <a href="https://www.airships.net/lz127-graf-zeppelin/" style="color: #315fea; text-decoration: none;">Airships.net: historial del LZ 127 <em>Graf Zeppelin</em></a>
-- <a href="https://www.britannica.com/biography/Hugo-Eckener" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica: entrada biográfica de Hugo Eckener</a>
-- <a href="https://www.worldhistory.org/article/2804/graf-zeppelins-round-the-world-trip-of-1929/" style="color: #315fea; text-decoration: none;">World History Encyclopedia: «Graf Zeppelin's Round the World Trip of 1929»</a>
-- <a href="https://www.centennialofflight.net/essay/Dictionary/eckener/DI21.htm" style="color: #315fea; text-decoration: none;">U.S. Centennial of Flight Commission: ficha biográfica de Hugo Eckener</a>
-- <a href="https://en.wikipedia.org/wiki/Hugo_Eckener" style="color: #315fea; text-decoration: none;">Hugo Eckener — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Hugo_Eckener" style="color: #315fea; text-decoration: none;">Hugo Eckener — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.airships.net/airship-people/hugo-eckener/" style="color: #315fea; text-decoration: none;">Airships.net: semblanza biográfica de Hugo Eckener, con el detalle de su formación, su criterio operativo y su papel en la supervivencia de la compañía</a></li>
+    <li><a href="https://www.airships.net/lz127-graf-zeppelin/" style="color: #315fea; text-decoration: none;">Airships.net: historial del LZ 127 <em>Graf Zeppelin</em></a></li>
+    <li><a href="https://www.britannica.com/biography/Hugo-Eckener" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica: entrada biográfica de Hugo Eckener</a></li>
+    <li><a href="https://www.worldhistory.org/article/2804/graf-zeppelins-round-the-world-trip-of-1929/" style="color: #315fea; text-decoration: none;">World History Encyclopedia: «Graf Zeppelin's Round the World Trip of 1929»</a></li>
+    <li><a href="https://www.centennialofflight.net/essay/Dictionary/eckener/DI21.htm" style="color: #315fea; text-decoration: none;">U.S. Centennial of Flight Commission: ficha biográfica de Hugo Eckener</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Hugo_Eckener" style="color: #315fea; text-decoration: none;">Hugo Eckener — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Hugo_Eckener" style="color: #315fea; text-decoration: none;">Hugo Eckener — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
