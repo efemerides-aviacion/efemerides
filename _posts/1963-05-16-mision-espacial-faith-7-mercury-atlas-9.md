@@ -19,8 +19,7 @@ image: 1963-05-16-mision-espacial-faith-7-mercury-atlas-9.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-
-El 16 de mayo de 1963, el astronauta L. Gordon Cooper amerizó en el Océano Pacífico a bordo de la cápsula Faith 7, completando la misión Mercury-Atlas 9. Con 22 órbitas alrededor de la Tierra y una duración de 34 horas y 20 minutos, fue el vuelo espacial estadounidense más largo hasta ese momento y la sexta y última misión tripulada del Proyecto Mercury. A pesar de los fallos en los sistemas automáticos durante las últimas órbitas, Cooper pilotó manualmente la cápsula para un amerizaje de precisión, demostrando la capacidad del ser humano para controlar una nave espacial en condiciones de emergencia.
+<p>El 16 de mayo de 1963, el astronauta L. Gordon Cooper amerizó en el Océano Pacífico a bordo de la cápsula Faith 7, completando la misión Mercury-Atlas 9. Con 22 órbitas alrededor de la Tierra y una duración de 34 horas y 20 minutos, fue el vuelo espacial estadounidense más largo hasta ese momento y la sexta y última misión tripulada del Proyecto Mercury. A pesar de los fallos en los sistemas automáticos durante las últimas órbitas, Cooper pilotó manualmente la cápsula para un amerizaje de precisión, demostrando la capacidad del ser humano para controlar una nave espacial en condiciones de emergencia.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">

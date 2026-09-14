@@ -19,8 +19,7 @@ image: 1940-06-04-participacion-aerea-operacion-dynamo-dunkerke.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-
-El 4 de junio de 1940 concluyó la **Operación Dynamo**, la evacuación aliada de Dunkerque, Francia, que entre el 26 de mayo y el 4 de junio rescató a **338.226 soldados** (198.000 británicos y 140.000 franceses y belgas) del cerco del ejército alemán. La **Royal Air Force (RAF)** desempeñó un papel crucial en la operación, proporcionando cobertura aérea a los buques de evacuación y a las tropas en las playas, enfrentándose a la **Luftwaffe** en una de las mayores batallas aéreas de la campaña de Francia. Aunque la RAF perdió **177 aviones**, su presencia impidió que la aviación alemana aniquilara a las fuerzas aliadas en las playas. El primer ministro **Winston Churchill** calificó la evacuación como un "milagro de liberación".
+<p>El 4 de junio de 1940 concluyó la **Operación Dynamo**, la evacuación aliada de Dunkerque, Francia, que entre el 26 de mayo y el 4 de junio rescató a **338.226 soldados** (198.000 británicos y 140.000 franceses y belgas) del cerco del ejército alemán. La **Royal Air Force (RAF)** desempeñó un papel crucial en la operación, proporcionando cobertura aérea a los buques de evacuación y a las tropas en las playas, enfrentándose a la **Luftwaffe** en una de las mayores batallas aéreas de la campaña de Francia. Aunque la RAF perdió **177 aviones**, su presencia impidió que la aviación alemana aniquilara a las fuerzas aliadas en las playas. El primer ministro **Winston Churchill** calificó la evacuación como un "milagro de liberación".</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

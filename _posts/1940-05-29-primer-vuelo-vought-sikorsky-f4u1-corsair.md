@@ -19,8 +19,7 @@ image: 1940-05-29-primer-vuelo-vought-sikorsky-f4u1-corsair.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-
-El 29 de mayo de 1940, el prototipo XF4U-1 Corsair, número de oficina BuNo 1443, despegó del aeropuerto municipal de Bridgeport, Connecticut, con el piloto de pruebas Lyman A. Bullard Jr. a los mandos. Diseñado por el ingeniero Rex Buren Beisel para la Armada de los Estados Unidos, el Corsair introdujo innovaciones revolucionarias, incluyendo el motor radial Pratt & Whitney R-2800 Double Wasp de 1.850 caballos de fuerza que impulsaba la hélice más grande jamás instalada en un caza (13 pies y 1 pulgada de diámetro), y su característica ala de gaviota invertida que permitía el despegue desde portaaviones sin un tren de aterrizaje excesivamente largo. Con una producción total de 12.571 unidades entre 1942 y 1953, el Corsair se convirtió en uno de los cazas de pistón más producidos en la historia de Estados Unidos.
+<p>El 29 de mayo de 1940, el prototipo XF4U-1 Corsair, número de oficina BuNo 1443, despegó del aeropuerto municipal de Bridgeport, Connecticut, con el piloto de pruebas Lyman A. Bullard Jr. a los mandos. Diseñado por el ingeniero Rex Buren Beisel para la Armada de los Estados Unidos, el Corsair introdujo innovaciones revolucionarias, incluyendo el motor radial Pratt & Whitney R-2800 Double Wasp de 1.850 caballos de fuerza que impulsaba la hélice más grande jamás instalada en un caza (13 pies y 1 pulgada de diámetro), y su característica ala de gaviota invertida que permitía el despegue desde portaaviones sin un tren de aterrizaje excesivamente largo. Con una producción total de 12.571 unidades entre 1942 y 1953, el Corsair se convirtió en uno de los cazas de pistón más producidos en la historia de Estados Unidos.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

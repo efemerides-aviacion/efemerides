@@ -19,8 +19,7 @@ image: 1941-05-06-primer-vuelo-xp-47b-thunderbolt.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-
-El 6 de mayo de 1941, el prototipo XP-47B Thunderbolt despegó por primera vez desde Farmingdale, Nueva York, pilotado por Lowery L. Brabham, apenas ocho meses después de su encargo por el U.S. Army Air Forces. A pesar del humo en la cabina por aceite, el vuelo fue exitoso e impresionó por su tamaño y potencia. Este hito inició la producción del P-47, el caza más fabricado por Estados Unidos en la Segunda Guerra Mundial, con 15.683 unidades construidas.
+<p>El 6 de mayo de 1941, el prototipo XP-47B Thunderbolt despegó por primera vez desde Farmingdale, Nueva York, pilotado por Lowery L. Brabham, apenas ocho meses después de su encargo por el U.S. Army Air Forces. A pesar del humo en la cabina por aceite, el vuelo fue exitoso e impresionó por su tamaño y potencia. Este hito inició la producción del P-47, el caza más fabricado por Estados Unidos en la Segunda Guerra Mundial, con 15.683 unidades construidas.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

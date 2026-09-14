@@ -21,8 +21,7 @@ redirect_from:
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-
-El 20 de diciembre de 1957, el primer Boeing 707-120 de producción (matrícula N708PA) realizó su vuelo inaugural desde Renton Field, Washington, con los pilotos de prueba de Boeing a los mandos. El vuelo inicial duró aproximadamente **7 minutos** hasta Boeing Field, donde se realizaron verificaciones básicas de control y estabilidad. Este evento marcó el inicio de la era del chorro (“Jet Age”) para la aviación comercial estadounidense, transformando los viajes transcontinentales y consolidando a Boeing como líder en el mercado de transporte de pasajeros. El Boeing 707 se convertiría en el primero de los **1.010 aviones de la serie 707** construidos entre 1958 y 1979.
+<p>El 20 de diciembre de 1957, el primer Boeing 707-120 de producción (matrícula N708PA) realizó su vuelo inaugural desde Renton Field, Washington, con los pilotos de prueba de Boeing a los mandos. El vuelo inicial duró aproximadamente **7 minutos** hasta Boeing Field, donde se realizaron verificaciones básicas de control y estabilidad. Este evento marcó el inicio de la era del chorro (“Jet Age”) para la aviación comercial estadounidense, transformando los viajes transcontinentales y consolidando a Boeing como líder en el mercado de transporte de pasajeros. El Boeing 707 se convertiría en el primero de los **1.010 aviones de la serie 707** construidos entre 1958 y 1979.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

@@ -19,8 +19,7 @@ image: 1783-06-04-primera-elevacion-globo-aerostatico-montgolfier.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-
-El 4 de junio de 1783, los hermanos **Joseph-Michel** y **Jacques-Étienne Montgolfier** realizaron en la Place des Cordeliers de Annonay, Francia, la primera demostración pública de un globo aerostático de aire caliente. El globo, construido con lino forrado en papel, tenía aproximadamente **11 metros de diámetro** y un volumen de **770-800 m³**. Se elevó utilizando el calor generado por la quema de paja y lana en un brasero situado en su base. El vuelo, no tripulado, duró aproximadamente **10 minutos**, alcanzó una altitud estimada entre **1.600 y 2.000 metros** y recorrió unos **2 kilómetros** antes de aterrizar. Este hito, presenciado por autoridades locales y miembros de los Estados del Vivarais, marcó el nacimiento de la aeronáutica moderna y allanó el camino para los primeros vuelos tripulados que ocurrirían meses después.
+<p>El 4 de junio de 1783, los hermanos **Joseph-Michel** y **Jacques-Étienne Montgolfier** realizaron en la Place des Cordeliers de Annonay, Francia, la primera demostración pública de un globo aerostático de aire caliente. El globo, construido con lino forrado en papel, tenía aproximadamente **11 metros de diámetro** y un volumen de **770-800 m³**. Se elevó utilizando el calor generado por la quema de paja y lana en un brasero situado en su base. El vuelo, no tripulado, duró aproximadamente **10 minutos**, alcanzó una altitud estimada entre **1.600 y 2.000 metros** y recorrió unos **2 kilómetros** antes de aterrizar. Este hito, presenciado por autoridades locales y miembros de los Estados del Vivarais, marcó el nacimiento de la aeronáutica moderna y allanó el camino para los primeros vuelos tripulados que ocurrirían meses después.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

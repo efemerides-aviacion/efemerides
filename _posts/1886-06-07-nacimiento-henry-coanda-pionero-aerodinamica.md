@@ -19,8 +19,7 @@ image: 1886-06-07-nacimiento-henry-coanda-pionero-aerodinamica.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-
-El **7 de junio de 1886** nació en Bucarest, Rumanía, **Henri Marie Coandă**, uno de los grandes pioneros de la aerodinámica y la aviación. Ingeniero, inventor y físico, Coandă diseñó el **Coandă-1910**, un avión sin hélice que la historiografía reconoce como el **primer avión de tamaño real concebido para propulsión por reacción**, aunque no consta que llegara a volar. Coandă también descubrió y dio nombre al **Efecto Coandă**, un fenómeno de dinámica de fluidos por el cual un chorro de gas o líquido tiende a adherirse a una superficie convexa, principio fundamental en aerodinámica, combustión y ventilación. A lo largo de su vida, registró unos **250 inventos** en campos tan diversos como la aeronáutica, la energía y el transporte. Falleció en Bucarest el **25 de noviembre de 1972**, a los 86 años.
+<p>El **7 de junio de 1886** nació en Bucarest, Rumanía, **Henri Marie Coandă**, uno de los grandes pioneros de la aerodinámica y la aviación. Ingeniero, inventor y físico, Coandă diseñó el **Coandă-1910**, un avión sin hélice que la historiografía reconoce como el **primer avión de tamaño real concebido para propulsión por reacción**, aunque no consta que llegara a volar. Coandă también descubrió y dio nombre al **Efecto Coandă**, un fenómeno de dinámica de fluidos por el cual un chorro de gas o líquido tiende a adherirse a una superficie convexa, principio fundamental en aerodinámica, combustión y ventilación. A lo largo de su vida, registró unos **250 inventos** en campos tan diversos como la aeronáutica, la energía y el transporte. Falleció en Bucarest el **25 de noviembre de 1972**, a los 86 años.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

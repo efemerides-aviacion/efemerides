@@ -19,8 +19,7 @@ image: 1909-06-05-hubert-latham-record-monoplano.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-
-El 5 de junio de 1909, el aviador **Hubert Latham**, de 26 años, estableció un nuevo récord mundial al permanecer en el aire durante **1 hora, 7 minutos y 37 segundos** a bordo de su monoplano **Antoinette IV** en Mourmelon-le-Grand, Francia. Fue el primer vuelo de más de una hora realizado en un monoplano, batiendo todos los récords franceses hasta la fecha. El récord fue certificado oficialmente por más de cien oficiales presentes en el campamento militar de Châlons. Este hito demostró la viabilidad de los monoplanos para vuelos de larga duración, estableciendo a Latham como uno de los pioneros más importantes de la aviación temprana.
+<p>El 5 de junio de 1909, el aviador **Hubert Latham**, de 26 años, estableció un nuevo récord mundial al permanecer en el aire durante **1 hora, 7 minutos y 37 segundos** a bordo de su monoplano **Antoinette IV** en Mourmelon-le-Grand, Francia. Fue el primer vuelo de más de una hora realizado en un monoplano, batiendo todos los récords franceses hasta la fecha. El récord fue certificado oficialmente por más de cien oficiales presentes en el campamento militar de Châlons. Este hito demostró la viabilidad de los monoplanos para vuelos de larga duración, estableciendo a Latham como uno de los pioneros más importantes de la aviación temprana.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

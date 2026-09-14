@@ -19,8 +19,7 @@ image: 2024-06-05-oleg-kononenko-1000-dias-espacio.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-
-El **5 de junio de 2024**, el cosmonauta ruso **Oleg Kononenko**, de 59 años, se convirtió en la primera persona en acumular **1.000 días** en el espacio. El hito se alcanzó durante su **quinta misión** a la Estación Espacial Internacional (ISS), que comenzó el **15 de septiembre de 2023**. Kononenko ya había superado en febrero de 2024 el récord de tiempo acumulado en órbita de Gennady Padalka (878 días). Regresó a la Tierra el **23 de septiembre de 2024**, con un total acumulado final de **1.111 días** en el espacio, el récord más alto de la historia. El cosmonauta ha realizado **7 caminatas espaciales** con un total de **44 horas y 30 minutos** fuera de la ISS. Su logro consolida a Rusia como líder en misiones de larga duración y amplía el conocimiento sobre los efectos de la exposición prolongada al entorno espacial en el cuerpo humano.
+<p>El **5 de junio de 2024**, el cosmonauta ruso **Oleg Kononenko**, de 59 años, se convirtió en la primera persona en acumular **1.000 días** en el espacio. El hito se alcanzó durante su **quinta misión** a la Estación Espacial Internacional (ISS), que comenzó el **15 de septiembre de 2023**. Kononenko ya había superado en febrero de 2024 el récord de tiempo acumulado en órbita de Gennady Padalka (878 días). Regresó a la Tierra el **23 de septiembre de 2024**, con un total acumulado final de **1.111 días** en el espacio, el récord más alto de la historia. El cosmonauta ha realizado **7 caminatas espaciales** con un total de **44 horas y 30 minutos** fuera de la ISS. Su logro consolida a Rusia como líder en misiones de larga duración y amplía el conocimiento sobre los efectos de la exposición prolongada al entorno espacial en el cuerpo humano.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
