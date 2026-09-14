@@ -100,13 +100,17 @@ El sello emitido por Correos en octubre de 2025, con 72.000 ejemplares, lo incor
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
-- <a href="https://xn--realaeroclubdeespaa-d4b.org/biografia-de-heraclio-alfaro-fournier/" style="color: #315fea; text-decoration: none;">Real Aero Club de España: «Biografía de Heraclio Alfaro Fournier»</a> (piloto más joven del mundo 1911, Lakua 1914, MIT, homenaje 1953 y Socio de Honor).
-- <a href="https://www.eitb.eus/es/radio/radio-euskadi/programas/entre-calles/detalle/7411439/heraclio-alfaro-biografia-vitoriano-pionero-aviacion-piloto-joven-mundo/" style="color: #315fea; text-decoration: none;">EITB, programa <em>Entre Calles</em>: «Heraclio Alfaro Fournier: biografía de un vitoriano pionero de la aviación»</a> (16 años planeador, 17 a Francia, ingeniero en EE. UU.).
-- <a href="https://dbe.rah.es/biografias/21009/heraclio-alfaro-fournier" style="color: #315fea; text-decoration: none;">Real Academia de la Historia, <em>Diccionario Biográfico electrónico</em>: «Heraclio Alfaro Fournier»</a> (título de piloto n.º 11, primer aeroplano realizado en España, Salamanca 1914, Barcelona 1917-1919, homenaje de 1953).
-- <a href="https://es.wikipedia.org/wiki/Heraclio_Alfaro_Fournier" style="color: #315fea; text-decoration: none;">Wikipedia: «Heraclio Alfaro Fournier»</a> (cronología completa, familia Fournier, Dayton, X-13 de Doolittle, nacionalidad estadounidense).
-- <a href="https://www.elcorreo.com/alava/20131021/local/vitoria-tanto-aviacion-201310210914.html" style="color: #315fea; text-decoration: none;">El Correo (21-X-2013): «Vitoria y la aviación, una historia de amor»</a> (memoria de Ignacio Hidalgo de Cisneros sobre el «ACHA»).
-- <a href="https://www.elcorreo.com/alava/araba/aviador-vitoriano-heraclio-alfaro-inmortalizado-sello-correos-20251015122718-nt.html" style="color: #315fea; text-decoration: none;">El Correo (15-X-2025): «El aviador vitoriano Heraclio Alfaro, inmortalizado en un sello de Correos»</a> (1,85 €, 72.000 ejemplares, propuesta del COIAE).
-- <a href="https://commons.wikimedia.org/wiki/File:Heraclio_Fournier_-_fotograf%C3%ADa_de_Enrique_Guinea_Maqu%C3%ADbar.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons: ficha de la fotografía de Enrique Guinea Maquíbar</a> (dominio público, c. 1914, Arriaga al fondo).
+<div class="references">
+  <ul>
+    <li><a href="https://xn--realaeroclubdeespaa-d4b.org/biografia-de-heraclio-alfaro-fournier/" style="color: #315fea; text-decoration: none;">Real Aero Club de España — «Biografía de Heraclio Alfaro Fournier» (piloto más joven del mundo 1911, Lakua 1914, MIT, homenaje 1953 y Socio de Honor)</a></li>
+    <li><a href="https://dbe.rah.es/biografias/21009/heraclio-alfaro-fournier" style="color: #315fea; text-decoration: none;">Real Academia de la Historia, Diccionario Biográfico electrónico — «Heraclio Alfaro Fournier» (título de piloto n.º 11 del 8 de diciembre de 1911, primer aeroplano realizado en España, Salamanca 1914, Barcelona 1917-1919, homenaje de 1953)</a></li>
+    <li><a href="https://www.eitb.eus/es/radio/radio-euskadi/programas/entre-calles/detalle/7411439/heraclio-alfaro-biografia-vitoriano-pionero-aviacion-piloto-joven-mundo/" style="color: #315fea; text-decoration: none;">EITB, programa Entre Calles — «Heraclio Alfaro Fournier: biografía de un vitoriano pionero de la aviación» (16 años planeador, 17 a Francia, ingeniero en Estados Unidos)</a></li>
+    <li><a href="https://www.elcorreo.com/alava/20131021/local/vitoria-tanto-aviacion-201310210914.html" style="color: #315fea; text-decoration: none;">El Correo, 21-X-2013 — «Vitoria y la aviación, una historia de amor» (memoria de Ignacio Hidalgo de Cisneros sobre el «ACHA»)</a></li>
+    <li><a href="https://www.elcorreo.com/alava/araba/aviador-vitoriano-heraclio-alfaro-inmortalizado-sello-correos-20251015122718-nt.html" style="color: #315fea; text-decoration: none;">El Correo, 15-X-2025 — «El aviador vitoriano Heraclio Alfaro, inmortalizado en un sello de Correos» (1,85 €, 72.000 ejemplares, propuesta del COIAE)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Heraclio_Alfaro_Fournier" style="color: #315fea; text-decoration: none;">Wikipedia (ES) — «Heraclio Alfaro Fournier» (cronología completa, familia Fournier, Dayton, X-13 de Doolittle, nacionalidad estadounidense)</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Heraclio_Fournier_-_fotograf%C3%ADa_de_Enrique_Guinea_Maqu%C3%ADbar.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons — ficha de la fotografía de Enrique Guinea Maquíbar (imagen del post; dominio público, c. 1914, Arriaga al fondo)</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -117,7 +121,7 @@ El sello emitido por Correos en octubre de 2025, con 72.000 ejemplares, lo incor
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-14 06:57:42 CST  
+- **Timestamp de verificación:** 2026-09-14 07:16:43 CST  
 - **Fuentes primarias/institucionales consultadas:** Real Aero Club de España, Real Academia de la Historia, EITB (Ente Público de Radiotelevisión Vasca) y Wikimedia Commons.  
 - **Fuentes secundarias de contraste:** Wikipedia, El Correo (2013 y 2025) y Norte Exprés/EFE (2025).  
 - **Discrepancias resueltas:** (1) Fecha de fallecimiento: el 10 de agosto de 1962 (Real Aero Club de España, enciclopedia Auñamendi, artículo de Wikipedia) frente al 20 de agosto de 1962 que arrastra la ficha de Wikidata mostrada en el infobox de Wikipedia; se adopta el 10 de agosto. (2) Nombre del primer monoplano: «Alfaro I» (Real Aero Club, Auñamendi) frente a «Alfaro 2» en el resumen de la serie de sellos de Correos y alguna prensa; el post lo cita sin numeración. (3) Potencia del «Baby Motor»: unas fuentes dan 24 CV y otras 27 HP; se adopta «unos 24 CV».  
