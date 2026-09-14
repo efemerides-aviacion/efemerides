@@ -119,14 +119,18 @@ Ochenta y nueve años después de aquel despegue de Wolverhampton, el Defiant so
 
 ## Referencias Verificadas
 
-- <a href="https://www.iwm.org.uk/collections/item/object/205094366" style="color: #315fea; text-decoration: none;">Imperial War Museums: fotografía MH 5507, el prototipo K8310 ya con la torreta instalada</a>
-- <a href="https://www.awm.gov.au/collection/304465" style="color: #315fea; text-decoration: none;">Australian War Memorial: fotografía 304465 del K8310 con la torreta instalada y el carenado retráctil elevado</a>
-- <a href="https://boultonandpaul.com/boulton-paul-defiant/" style="color: #315fea; text-decoration: none;">Boulton and Paul: reseña histórica del P.82 Defiant, con detalle constructivo y de las variantes de remolque de blancos</a>
-- <a href="http://www.aeroflight.co.uk/aircraft/types/type-details/boulton-paul-defiant" style="color: #315fea; text-decoration: none;">Aeroflight: cronología del desarrollo del Defiant, con las fechas clave del programa</a>
-- <a href="https://www.classicwarbirds.co.uk/british-aircraft/boulton-paul-defiant.php" style="color: #315fea; text-decoration: none;">Classic Warbirds: ficha del Boulton Paul Defiant, con los ensayos de Martlesham Heath</a>
-- <a href="https://battleofbritain1940.com/british-aircraft-of-the-battle-of-britain/boulton-paul-defiant/" style="color: #315fea; text-decoration: none;">Battle of Britain 1940: el Defiant en la batalla de Inglaterra y el contraste de las cifras de derribos</a>
-- <a href="https://en.wikipedia.org/wiki/Boulton_Paul_Defiant" style="color: #315fea; text-decoration: none;">Boulton Paul Defiant — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Boulton_Paul_P.82_Defiant" style="color: #315fea; text-decoration: none;">Boulton Paul P.82 Defiant — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.iwm.org.uk/collections/item/object/205094366" style="color: #315fea; text-decoration: none;">Imperial War Museums: fotografía MH 5507, el prototipo K8310 ya con la torreta instalada</a></li>
+    <li><a href="https://www.awm.gov.au/collection/304465" style="color: #315fea; text-decoration: none;">Australian War Memorial: fotografía 304465 del K8310 con la torreta instalada y el carenado retráctil elevado</a></li>
+    <li><a href="https://boultonandpaul.com/boulton-paul-defiant/" style="color: #315fea; text-decoration: none;">Boulton and Paul: reseña histórica del P.82 Defiant, con detalle constructivo y de las variantes de remolque de blancos</a></li>
+    <li><a href="http://www.aeroflight.co.uk/aircraft/types/type-details/boulton-paul-defiant" style="color: #315fea; text-decoration: none;">Aeroflight: cronología del desarrollo del Defiant, con las fechas clave del programa</a></li>
+    <li><a href="https://www.classicwarbirds.co.uk/british-aircraft/boulton-paul-defiant.php" style="color: #315fea; text-decoration: none;">Classic Warbirds: ficha del Boulton Paul Defiant, con los ensayos de Martlesham Heath</a></li>
+    <li><a href="https://battleofbritain1940.com/british-aircraft-of-the-battle-of-britain/boulton-paul-defiant/" style="color: #315fea; text-decoration: none;">Battle of Britain 1940: el Defiant en la batalla de Inglaterra y el contraste de las cifras de derribos</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boulton_Paul_Defiant" style="color: #315fea; text-decoration: none;">Boulton Paul Defiant — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Boulton_Paul_P.82_Defiant" style="color: #315fea; text-decoration: none;">Boulton Paul P.82 Defiant — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

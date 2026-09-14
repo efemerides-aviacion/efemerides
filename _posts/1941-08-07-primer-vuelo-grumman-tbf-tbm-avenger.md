@@ -105,12 +105,16 @@ Del prototipo que voló aquel 7 de agosto no queda nada: el 00373 ardió en el a
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://www.thisdayinaviation.com/7-august-1941/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «7 August 1941», con el detalle del primer vuelo, los defectos detectados y las correcciones aplicadas</a>
-- <a href="https://airandspace.si.edu/collection-objects/grumman-tarpon-i-tbf-1-avenger/nasm_A19610117000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: ficha del Grumman Tarpon I (TBF-1 Avenger) de su colección</a>
-- <a href="https://airandspace.si.edu/air-and-space-quarterly/spring-2022/avenger" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: «The Avenger», en <em>Air and Space Quarterly</em></a>
-- <a href="https://www.airandspaceforces.com/this-day-in-airpower/august-07-1941/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine: efeméride del 7 de agosto de 1941</a>
-- <a href="https://en.wikipedia.org/wiki/Grumman_TBF_Avenger" style="color: #315fea; text-decoration: none;">Grumman TBF Avenger — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Grumman_TBF_Avenger" style="color: #315fea; text-decoration: none;">Grumman TBF Avenger — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.thisdayinaviation.com/7-august-1941/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «7 August 1941», con el detalle del primer vuelo, los defectos detectados y las correcciones aplicadas</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/grumman-tarpon-i-tbf-1-avenger/nasm_A19610117000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: ficha del Grumman Tarpon I (TBF-1 Avenger) de su colección</a></li>
+    <li><a href="https://airandspace.si.edu/air-and-space-quarterly/spring-2022/avenger" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: «The Avenger», en <em>Air and Space Quarterly</em></a></li>
+    <li><a href="https://www.airandspaceforces.com/this-day-in-airpower/august-07-1941/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine: efeméride del 7 de agosto de 1941</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Grumman_TBF_Avenger" style="color: #315fea; text-decoration: none;">Grumman TBF Avenger — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Grumman_TBF_Avenger" style="color: #315fea; text-decoration: none;">Grumman TBF Avenger — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

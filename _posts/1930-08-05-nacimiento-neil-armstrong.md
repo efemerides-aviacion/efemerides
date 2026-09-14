@@ -106,14 +106,18 @@ Su formación fue reconocida por la Universidad de Purdue, que conserva sus arch
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
 
-- <a href="https://www.nasa.gov/humans-in-space/astronauts/former-astronauts/former-astronaut-neil-a-armstrong/" style="color: #315fea; text-decoration: none;">NASA: biografía oficial del astronauta Neil A. Armstrong</a>
-- <a href="https://www.nasa.gov/image-article/astronaut-neil-armstrong-born-84-years-ago-today/" style="color: #315fea; text-decoration: none;">NASA: «Astronaut Neil A. Armstrong Born 84 Years Ago Today»</a>
-- <a href="https://www.purdue.edu/apollo11/neil-armstrong.php" style="color: #315fea; text-decoration: none;">Universidad de Purdue: perfil de Neil Armstrong en el cincuentenario del Apolo 11</a>
-- <a href="https://www.fai.org/news/fai-marks-50-years-humankinds-record-breaking-giant-leap" style="color: #315fea; text-decoration: none;">Federación Aeronáutica Internacional: «FAI marks 50 years since humankind’s record-breaking “giant leap”» (15 de julio de 2019)</a>
-- <a href="https://en.wikipedia.org/wiki/Neil_Armstrong" style="color: #315fea; text-decoration: none;">Neil Armstrong — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Neil_Armstrong" style="color: #315fea; text-decoration: none;">Neil Armstrong — Wikipedia en español</a>
-- <a href="https://en.wikipedia.org/wiki/Gemini_8" style="color: #315fea; text-decoration: none;">Gemini 8 — Wikipedia en inglés</a>
-- <a href="https://en.wikipedia.org/wiki/Rogers_Commission_Report" style="color: #315fea; text-decoration: none;">Informe de la Comisión Rogers — Wikipedia en inglés</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.nasa.gov/humans-in-space/astronauts/former-astronauts/former-astronaut-neil-a-armstrong/" style="color: #315fea; text-decoration: none;">NASA: biografía oficial del astronauta Neil A. Armstrong</a></li>
+    <li><a href="https://www.nasa.gov/image-article/astronaut-neil-armstrong-born-84-years-ago-today/" style="color: #315fea; text-decoration: none;">NASA: «Astronaut Neil A. Armstrong Born 84 Years Ago Today»</a></li>
+    <li><a href="https://www.purdue.edu/apollo11/neil-armstrong.php" style="color: #315fea; text-decoration: none;">Universidad de Purdue: perfil de Neil Armstrong en el cincuentenario del Apolo 11</a></li>
+    <li><a href="https://www.fai.org/news/fai-marks-50-years-humankinds-record-breaking-giant-leap" style="color: #315fea; text-decoration: none;">Federación Aeronáutica Internacional: «FAI marks 50 years since humankind’s record-breaking “giant leap”» (15 de julio de 2019)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Neil_Armstrong" style="color: #315fea; text-decoration: none;">Neil Armstrong — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Neil_Armstrong" style="color: #315fea; text-decoration: none;">Neil Armstrong — Wikipedia en español</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Gemini_8" style="color: #315fea; text-decoration: none;">Gemini 8 — Wikipedia en inglés</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Rogers_Commission_Report" style="color: #315fea; text-decoration: none;">Informe de la Comisión Rogers — Wikipedia en inglés</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">

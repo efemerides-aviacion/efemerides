@@ -115,13 +115,17 @@ Ochenta y cinco años después, lo que sobrevive de aquella noche es sobre todo 
 
 ## Referencias Verificadas
 
-- <a href="https://www.historynet.com/red-stars-over-berlin-march-98-aviation-history-feature/" style="color: #315fea; text-decoration: none;">«Red Stars Over Berlin», reportaje de la revista Aviation History con la crónica detallada de la operación y el parte de Vodopyanov ante Stalin</a>
-- <a href="https://en.wikipedia.org/wiki/Petlyakov_Pe-8" style="color: #315fea; text-decoration: none;">Petlyakov Pe-8 — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Petliakov_Pe-8" style="color: #315fea; text-decoration: none;">Petliakov Pe-8 — Wikipedia en español</a>
-- <a href="https://en.wikipedia.org/wiki/Mikhail_Vodopyanov" style="color: #315fea; text-decoration: none;">Mikhail Vodopyanov, comandante de la 81.ª División — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Bombardeos_de_Berl%C3%ADn_en_la_Segunda_Guerra_Mundial" style="color: #315fea; text-decoration: none;">Bombardeos de Berlín en la Segunda Guerra Mundial — Wikipedia en español</a>
-- <a href="https://warthunder.com/en/news/768--en" style="color: #315fea; text-decoration: none;">«The Long Flight to Berlin: Soviet bombings of 1941», reseña histórica con el detalle de las averías de los motores diésel</a>
-- <a href="https://www.espacioaereo.net/2021/08/los-aviones-rusos-que-bombardearon.html" style="color: #315fea; text-decoration: none;">Espacio Aéreo: «Los aviones rusos que bombardearon Berlín en agosto de 1941»</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.historynet.com/red-stars-over-berlin-march-98-aviation-history-feature/" style="color: #315fea; text-decoration: none;">«Red Stars Over Berlin», reportaje de la revista Aviation History con la crónica detallada de la operación y el parte de Vodopyanov ante Stalin</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Petlyakov_Pe-8" style="color: #315fea; text-decoration: none;">Petlyakov Pe-8 — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Petliakov_Pe-8" style="color: #315fea; text-decoration: none;">Petliakov Pe-8 — Wikipedia en español</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Mikhail_Vodopyanov" style="color: #315fea; text-decoration: none;">Mikhail Vodopyanov, comandante de la 81.ª División — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Bombardeos_de_Berl%C3%ADn_en_la_Segunda_Guerra_Mundial" style="color: #315fea; text-decoration: none;">Bombardeos de Berlín en la Segunda Guerra Mundial — Wikipedia en español</a></li>
+    <li><a href="https://warthunder.com/en/news/768--en" style="color: #315fea; text-decoration: none;">«The Long Flight to Berlin: Soviet bombings of 1941», reseña histórica con el detalle de las averías de los motores diésel</a></li>
+    <li><a href="https://www.espacioaereo.net/2021/08/los-aviones-rusos-que-bombardearon.html" style="color: #315fea; text-decoration: none;">Espacio Aéreo: «Los aviones rusos que bombardearon Berlín en agosto de 1941»</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

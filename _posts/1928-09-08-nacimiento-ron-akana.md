@@ -71,11 +71,15 @@ Noventa y ocho años después de su nacimiento, la dedicación inquebrantable de
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
-- <a href="https://www.nbcnews.com/business/travel/united-airlines-flight-attendant-83-lands-guinness-book-longest-tenure-flna972408" style="color: #315fea; text-decoration: none;">NBC News (2012) – United Airlines flight attendant, 83, lands in Guinness book for longest tenure</a>
-- <a href="https://www.indianeagle.com/travelbeats/landing-in-the-guinness-world-records/" style="color: #315fea; text-decoration: none;">Indian Eagle Travel Beats (2016) – US Flight Attendant Sets New Guinness World Record</a>
-- <a href="https://en.wikipedia.org/wiki/Ron_Akana" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Ron Akana</a>
-- <a href="https://www.yahoo.com/news/ap-photos-flight-attendants-63-years-sky-210118788.html" style="color: #315fea; text-decoration: none;">The Associated Press (2012) – AP PHOTOS: Flight attendant's 63 years in the sky (archivo fotográfico familiar y descripciones de la carrera, la ceremonia de 1950 y la despedida de 2012)</a>
-- <a href="https://www.cnn.com/travel/bette-nash-longest-serving-flight-attendant-death-hnk-intl" style="color: #315fea; text-decoration: none;">CNN (Karla Cripps, 2024) – Bette Nash, world's longest-serving flight attendant, dies at 88 (reserva la sucesión del récord Guinness y la marca de Akana en 63 años y 61 días)</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.nbcnews.com/business/travel/united-airlines-flight-attendant-83-lands-guinness-book-longest-tenure-flna972408" style="color: #315fea; text-decoration: none;">NBC News (2012) – United Airlines flight attendant, 83, lands in Guinness book for longest tenure</a></li>
+    <li><a href="https://www.indianeagle.com/travelbeats/landing-in-the-guinness-world-records/" style="color: #315fea; text-decoration: none;">Indian Eagle Travel Beats (2016) – US Flight Attendant Sets New Guinness World Record</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Ron_Akana" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Ron Akana</a></li>
+    <li><a href="https://www.yahoo.com/news/ap-photos-flight-attendants-63-years-sky-210118788.html" style="color: #315fea; text-decoration: none;">The Associated Press (2012) – AP PHOTOS: Flight attendant's 63 years in the sky (archivo fotográfico familiar y descripciones de la carrera, la ceremonia de 1950 y la despedida de 2012)</a></li>
+    <li><a href="https://www.cnn.com/travel/bette-nash-longest-serving-flight-attendant-death-hnk-intl" style="color: #315fea; text-decoration: none;">CNN (Karla Cripps, 2024) – Bette Nash, world's longest-serving flight attendant, dies at 88 (reserva la sucesión del récord Guinness y la marca de Akana en 63 años y 61 días)</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

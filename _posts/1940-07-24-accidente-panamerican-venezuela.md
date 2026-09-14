@@ -71,10 +71,14 @@ Su estudio histórico resalta la constante evolución de las normas de seguridad
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Referencias Verificadas
-- <a href="https://en.wikisource.org/wiki/Aviation_Accident_Report:_Pan_American_incident_near_Maracaibo,_Venezuela_on_24_July_1940" style="color: #315fea; text-decoration: none;">Wikisource: Informe Oficial de la Civil Aeronautics Board (CAB) sobre el Accidente de Maracaibo (1940)</a>
-- <a href="https://commons.m.wikimedia.org/wiki/File:CAB_Accident_Report,_Pan_American_incident_near_Maracaibo,_Venezuela_on_24_July_1940.pdf" style="color: #315fea; text-decoration: none;">Wikimedia Commons: Documento Oficial Digitalizado del Informe CAB en PDF</a>
-- <a href="https://rosap.ntl.bts.gov/view/dot/33014" style="color: #315fea; text-decoration: none;">U.S. Department of Transportation / ROSA P: Ficha de Registro de la Investigación de Accidentes Aéreos (1940)</a>
-- <a href="https://aviation-safety.net/database/record.php?id=19400724-0" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Pan American, Maracaibo, 24 July 1940</a>
+<div class="references">
+  <ul>
+    <li><a href="https://en.wikisource.org/wiki/Aviation_Accident_Report:_Pan_American_incident_near_Maracaibo,_Venezuela_on_24_July_1940" style="color: #315fea; text-decoration: none;">Wikisource: Informe Oficial de la Civil Aeronautics Board (CAB) sobre el Accidente de Maracaibo (1940)</a></li>
+    <li><a href="https://commons.m.wikimedia.org/wiki/File:CAB_Accident_Report,_Pan_American_incident_near_Maracaibo,_Venezuela_on_24_July_1940.pdf" style="color: #315fea; text-decoration: none;">Wikimedia Commons: Documento Oficial Digitalizado del Informe CAB en PDF</a></li>
+    <li><a href="https://rosap.ntl.bts.gov/view/dot/33014" style="color: #315fea; text-decoration: none;">U.S. Department of Transportation / ROSA P: Ficha de Registro de la Investigación de Accidentes Aéreos (1940)</a></li>
+    <li><a href="https://aviation-safety.net/database/record.php?id=19400724-0" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Pan American, Maracaibo, 24 July 1940</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 <div class="note-box">

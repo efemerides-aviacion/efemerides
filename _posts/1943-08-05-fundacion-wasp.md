@@ -117,14 +117,18 @@ Su huella profesional es igualmente concreta: las WASP acreditaron que una mujer
 
 ## Referencias Verificadas
 
-- <a href="https://airandspace.si.edu/stories/editorial/flying-homefront-women-airforce-service-pilots-wasp" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: «Flying on the Homefront: Women Airforce Service Pilots (WASP)», por Dorothy Cochrane</a>
-- <a href="https://www.nationalww2museum.org/war/articles/wasp-women-airforce-service-pilots" style="color: #315fea; text-decoration: none;">The National WWII Museum (Nueva Orleans): «WASP: Women Airforce Service Pilots»</a>
-- <a href="https://twu.edu/library/womans-collection/collections/women-airforce-service-pilots-official-archive/history/program-beginning/" style="color: #315fea; text-decoration: none;">Texas Woman's University, archivo oficial de las WASP: «Beginning of the WASP Program»</a>
-- <a href="https://twu.edu/library/womans-collection/collections/women-airforce-service-pilots-official-archive/history/" style="color: #315fea; text-decoration: none;">Texas Woman's University: archivo oficial de las WASP, sección de historia</a>
-- <a href="https://airandspace.si.edu/collection-archive/womens-air-force-service-pilots-wasp-collection/sova-nasm-1987-0077" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: Women Airforce Service Pilots (WASP) Collection</a>
-- <a href="https://www.historylink.org/File/20613" style="color: #315fea; text-decoration: none;">HistoryLink.org: «Women Airforce Service Pilots from Washington»</a>
-- <a href="https://en.wikipedia.org/wiki/Women_Airforce_Service_Pilots" style="color: #315fea; text-decoration: none;">Women Airforce Service Pilots — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Servicio_de_Mujeres_Pilotos_de_la_Fuerza_A%C3%A9rea" style="color: #315fea; text-decoration: none;">Servicio de Mujeres Pilotos de la Fuerza Aérea — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://airandspace.si.edu/stories/editorial/flying-homefront-women-airforce-service-pilots-wasp" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: «Flying on the Homefront: Women Airforce Service Pilots (WASP)», por Dorothy Cochrane</a></li>
+    <li><a href="https://www.nationalww2museum.org/war/articles/wasp-women-airforce-service-pilots" style="color: #315fea; text-decoration: none;">The National WWII Museum (Nueva Orleans): «WASP: Women Airforce Service Pilots»</a></li>
+    <li><a href="https://twu.edu/library/womans-collection/collections/women-airforce-service-pilots-official-archive/history/program-beginning/" style="color: #315fea; text-decoration: none;">Texas Woman's University, archivo oficial de las WASP: «Beginning of the WASP Program»</a></li>
+    <li><a href="https://twu.edu/library/womans-collection/collections/women-airforce-service-pilots-official-archive/history/" style="color: #315fea; text-decoration: none;">Texas Woman's University: archivo oficial de las WASP, sección de historia</a></li>
+    <li><a href="https://airandspace.si.edu/collection-archive/womens-air-force-service-pilots-wasp-collection/sova-nasm-1987-0077" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: Women Airforce Service Pilots (WASP) Collection</a></li>
+    <li><a href="https://www.historylink.org/File/20613" style="color: #315fea; text-decoration: none;">HistoryLink.org: «Women Airforce Service Pilots from Washington»</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Women_Airforce_Service_Pilots" style="color: #315fea; text-decoration: none;">Women Airforce Service Pilots — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Servicio_de_Mujeres_Pilotos_de_la_Fuerza_A%C3%A9rea" style="color: #315fea; text-decoration: none;">Servicio de Mujeres Pilotos de la Fuerza Aérea — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

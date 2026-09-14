@@ -70,10 +70,14 @@ Los registros históricos del siniestro son preservados internacionalmente por l
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Referencias Verificadas
-- <a href="https://www.airhistory.net/photo/647650/YV-ADI" style="color: #315fea; text-decoration: none;">AirHistory.net: Registro e Imagen Histórica del Lockheed 14-H2 Super Electra YV-ADI (Smithsonian Institution Archives)</a>
-- <a href="https://www.baaa-acro.com/crash/crash-lockheed-14-h2-super-electra-barcelona-14-killed" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives (BAAA): Crash of a Lockheed 14-H2 Super Electra in Barcelona (14 killed)</a>
-- <a href="https://asn.flightsafety.org/wikibase/339727" style="color: #315fea; text-decoration: none;">Aviation Safety Network (ASN): Record del accidente del Lockheed 14-H2 YV-ADI el 25 de julio de 1944</a>
-- <a href="https://es.wikipedia.org/wiki/L%C3%ADnea_Aeropostal_Venezolana" style="color: #315fea; text-decoration: none;">Wikipedia (ES) — Línea Aeropostal Venezolana</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.airhistory.net/photo/647650/YV-ADI" style="color: #315fea; text-decoration: none;">AirHistory.net: Registro e Imagen Histórica del Lockheed 14-H2 Super Electra YV-ADI (Smithsonian Institution Archives)</a></li>
+    <li><a href="https://www.baaa-acro.com/crash/crash-lockheed-14-h2-super-electra-barcelona-14-killed" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives (BAAA): Crash of a Lockheed 14-H2 Super Electra in Barcelona (14 killed)</a></li>
+    <li><a href="https://asn.flightsafety.org/wikibase/339727" style="color: #315fea; text-decoration: none;">Aviation Safety Network (ASN): Record del accidente del Lockheed 14-H2 YV-ADI el 25 de julio de 1944</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/L%C3%ADnea_Aeropostal_Venezolana" style="color: #315fea; text-decoration: none;">Wikipedia (ES) — Línea Aeropostal Venezolana</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 <div class="note-box">

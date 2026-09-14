@@ -72,10 +72,14 @@ Su efigie ha figurado históricamente en la moneda y en los billetes de diez sol
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a, #fbc02d, #f9a825);">
 ## Referencias Verificadas
-- <a href="https://comunicaciones.congreso.gob.pe/noticias/declaran-el-23-de-julio-de-cada-ano-dia-de-la-fuerza-aerea-del-peru/" style="color: #315fea; text-decoration: none;">Congreso de la República del Perú: Comunicado Oficial sobre el Día de la Fuerza Aérea del Perú</a>
-- <a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Abelardo_Qui%C3%B1ones" style="color: #315fea; text-decoration: none;">Wikipedia: José Abelardo Quiñones (artículo enciclopédico de referencia)</a>
-- <a href="https://es.wikipedia.org/wiki/Fuerza_A%C3%A9rea_del_Per%C3%BA" style="color: #315fea; text-decoration: none;">Wikipedia: Fuerza Aérea del Perú (historia y evolución institucional)</a>
-- <a href="https://www.gob.pe/fap" style="color: #315fea; text-decoration: none;">Gobierno del Perú — Fuerza Aérea del Perú</a>
+<div class="references">
+  <ul>
+    <li><a href="https://comunicaciones.congreso.gob.pe/noticias/declaran-el-23-de-julio-de-cada-ano-dia-de-la-fuerza-aerea-del-peru/" style="color: #315fea; text-decoration: none;">Congreso de la República del Perú: Comunicado Oficial sobre el Día de la Fuerza Aérea del Perú</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Jos%C3%A9_Abelardo_Qui%C3%B1ones" style="color: #315fea; text-decoration: none;">Wikipedia: José Abelardo Quiñones (artículo enciclopédico de referencia)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Fuerza_A%C3%A9rea_del_Per%C3%BA" style="color: #315fea; text-decoration: none;">Wikipedia: Fuerza Aérea del Perú (historia y evolución institucional)</a></li>
+    <li><a href="https://www.gob.pe/fap" style="color: #315fea; text-decoration: none;">Gobierno del Perú — Fuerza Aérea del Perú</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a, #fbc02d, #f9a825);">
 <div class="note-box">
