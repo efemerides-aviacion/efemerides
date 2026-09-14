@@ -112,13 +112,17 @@ Setenta y cinco años después de su nacimiento, la figura de Crippa se sostiene
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
 
-- <a href="https://fundacionmalvinas.org/anexo-x-avion-aermacchi-mb-339a/" style="color: #315fea; text-decoration: none;">Fundación Malvinas: «Anexo X. Avión Aermacchi MB-339A», con el detalle de matrículas, despliegues y operaciones de la 1.ª Escuadrilla</a>
-- <a href="https://fundacionmalvinas.org/el-ataque-a-la-fragata-britanica-hms-argonaut/" style="color: #315fea; text-decoration: none;">Fundación Malvinas: «El ataque a la fragata británica HMS Argonaut»</a>
-- <a href="https://es.wikipedia.org/wiki/Owen_Crippa" style="color: #315fea; text-decoration: none;">Owen Crippa — Wikipedia en español</a>
-- <a href="https://es.wikipedia.org/wiki/Cruz_al_Heroico_Valor_en_Combate" style="color: #315fea; text-decoration: none;">Cruz al Heroico Valor en Combate — Wikipedia en español</a>
-- <a href="https://www.lavoz.com.ar/politica/la-increible-historia-de-owen-crippa-el-piloto-que-desafio-solo-a-la-flota-britanica-en-malvinas/" style="color: #315fea; text-decoration: none;">La Voz: «La increíble historia de Owen Crippa», con el relato de la repatriación del aparato</a>
-- <a href="https://www.infobae.com/sociedad/2022/05/22/estabamos-mentalizados-para-morir-owen-crippa-el-aviador-que-ataco-solo-a-la-flota-britanica-en-malvinas/" style="color: #315fea; text-decoration: none;">Infobae: entrevista a Owen Crippa, «Estábamos mentalizados para morir»</a>
-- <a href="https://www.rafaelanoticias.com/informacion-general/historico-llego-a-sunchales-el-aermacchi-con-el-que-crippa-ataco-a-la-flota-inglesa-en-malvinas.htm" style="color: #315fea; text-decoration: none;">Rafaela Noticias: la llegada del Aermacchi 4-A-115 a Sunchales en enero de 2025</a>
+<div class="references">
+  <ul>
+    <li><a href="https://fundacionmalvinas.org/anexo-x-avion-aermacchi-mb-339a/" style="color: #315fea; text-decoration: none;">Fundación Malvinas: «Anexo X. Avión Aermacchi MB-339A», con el detalle de matrículas, despliegues y operaciones de la 1.ª Escuadrilla</a></li>
+    <li><a href="https://fundacionmalvinas.org/el-ataque-a-la-fragata-britanica-hms-argonaut/" style="color: #315fea; text-decoration: none;">Fundación Malvinas: «El ataque a la fragata británica HMS Argonaut»</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Owen_Crippa" style="color: #315fea; text-decoration: none;">Owen Crippa — Wikipedia en español</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Cruz_al_Heroico_Valor_en_Combate" style="color: #315fea; text-decoration: none;">Cruz al Heroico Valor en Combate — Wikipedia en español</a></li>
+    <li><a href="https://www.lavoz.com.ar/politica/la-increible-historia-de-owen-crippa-el-piloto-que-desafio-solo-a-la-flota-britanica-en-malvinas/" style="color: #315fea; text-decoration: none;">La Voz: «La increíble historia de Owen Crippa», con el relato de la repatriación del aparato</a></li>
+    <li><a href="https://www.infobae.com/sociedad/2022/05/22/estabamos-mentalizados-para-morir-owen-crippa-el-aviador-que-ataco-solo-a-la-flota-britanica-en-malvinas/" style="color: #315fea; text-decoration: none;">Infobae: entrevista a Owen Crippa, «Estábamos mentalizados para morir»</a></li>
+    <li><a href="https://www.rafaelanoticias.com/informacion-general/historico-llego-a-sunchales-el-aermacchi-con-el-que-crippa-ataco-a-la-flota-inglesa-en-malvinas.htm" style="color: #315fea; text-decoration: none;">Rafaela Noticias: la llegada del Aermacchi 4-A-115 a Sunchales en enero de 2025</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">

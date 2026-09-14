@@ -118,15 +118,19 @@ De los 384 construidos sobreviven cuatro, repartidos entre museos de Ohio, Arizo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://www.thisdayinaviation.com/8-august-1946/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «8 August 1946», con el detalle del primer vuelo, la tripulación y las especificaciones del prototipo</a>
-- <a href="https://www.codeonemagazine.com/article.html?item_id=160" style="color: #315fea; text-decoration: none;">Code One Magazine: entrevista a Beryl Arthur Erickson, piloto del primer vuelo, realizada en 1992</a>
-- <a href="https://afhistory.org/august-8-1946-2/" style="color: #315fea; text-decoration: none;">Air Force Historical Foundation: efeméride del primer vuelo del XB-36</a>
-- <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197636/convair-b-36j-peacemaker/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: ficha del Convair B-36J Peacemaker</a>
-- <a href="https://www.afmc.af.mil/News/Article-Display/Article/2381992/a-look-backpeacemaker-personnel/" style="color: #315fea; text-decoration: none;">Air Force Materiel Command History Office: «A Look Back… Peacemaker Personnel»</a>
-- <a href="https://historynet.com/the-peacemaker/" style="color: #315fea; text-decoration: none;">HistoryNet / <em>Aviation History</em>: «How Convair's Big B-36 Kept the Peace By Not Dropping the Bomb»</a>
-- <a href="https://pimaair.org/museum-aircraft/convair-b-36j/" style="color: #315fea; text-decoration: none;">Pima Air and Space Museum: ficha del Convair B-36J conservado en Tucson</a>
-- <a href="https://en.wikipedia.org/wiki/Convair_B-36_Peacemaker" style="color: #315fea; text-decoration: none;">Convair B-36 Peacemaker — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Convair_B-36" style="color: #315fea; text-decoration: none;">Convair B-36 — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.thisdayinaviation.com/8-august-1946/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «8 August 1946», con el detalle del primer vuelo, la tripulación y las especificaciones del prototipo</a></li>
+    <li><a href="https://www.codeonemagazine.com/article.html?item_id=160" style="color: #315fea; text-decoration: none;">Code One Magazine: entrevista a Beryl Arthur Erickson, piloto del primer vuelo, realizada en 1992</a></li>
+    <li><a href="https://afhistory.org/august-8-1946-2/" style="color: #315fea; text-decoration: none;">Air Force Historical Foundation: efeméride del primer vuelo del XB-36</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197636/convair-b-36j-peacemaker/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: ficha del Convair B-36J Peacemaker</a></li>
+    <li><a href="https://www.afmc.af.mil/News/Article-Display/Article/2381992/a-look-backpeacemaker-personnel/" style="color: #315fea; text-decoration: none;">Air Force Materiel Command History Office: «A Look Back… Peacemaker Personnel»</a></li>
+    <li><a href="https://historynet.com/the-peacemaker/" style="color: #315fea; text-decoration: none;">HistoryNet / <em>Aviation History</em>: «How Convair's Big B-36 Kept the Peace By Not Dropping the Bomb»</a></li>
+    <li><a href="https://pimaair.org/museum-aircraft/convair-b-36j/" style="color: #315fea; text-decoration: none;">Pima Air and Space Museum: ficha del Convair B-36J conservado en Tucson</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Convair_B-36_Peacemaker" style="color: #315fea; text-decoration: none;">Convair B-36 Peacemaker — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Convair_B-36" style="color: #315fea; text-decoration: none;">Convair B-36 — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

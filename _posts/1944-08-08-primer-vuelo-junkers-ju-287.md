@@ -116,16 +116,20 @@ Queda una tercera lectura, menos técnica. El Ju 287 voló ocho meses antes del 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://www.historynet.com/the-story-behind-one-of-the-oddest-airplanes-of-world-war-ii/" style="color: #315fea; text-decoration: none;">HistoryNet / <em>Aviation History</em>: «The Story Behind One of the Oddest Airplanes of World War II»</a>
-- <a href="https://jetandrocketaircraftofnazigermany.wordpress.com/junkers-ju-287/" style="color: #315fea; text-decoration: none;">Jet and Rocket Aircraft of Nazi Germany: ficha documental del Junkers Ju 287, con referencia a la documentación oficial del Ministerio del Aire y de Junkers</a>
-- <a href="https://www.smithsonianmag.com/air-space-magazine/wrong-turns-180961742/" style="color: #315fea; text-decoration: none;">Smithsonian <em>Air &amp; Space</em>: «Wrong Turns», sobre el ala en flecha invertida del Ju 287 al X-29</a>
-- <a href="https://airandspace.si.edu/collection-objects/grumman-x-29a/nasm_A19960005000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: ficha del Grumman X-29A</a>
-- <a href="https://www.aerospace-jack.com/01_ju287.htm" style="color: #315fea; text-decoration: none;">Aerospace Jack: Junkers Ju 287, con reproducción de los informes de túnel de viento de Junkers de agosto de 1944</a>
-- <a href="https://www.warbirdsresourcegroup.org/LRG/ju287.html" style="color: #315fea; text-decoration: none;">Warbirds Resource Group: ficha técnica del Junkers Ju 287</a>
-- <a href="https://www.aviastar.org/air/germany/ju-287.php" style="color: #315fea; text-decoration: none;">Aviastar: Junkers Ju 287</a>
-- <a href="https://en.wikipedia.org/wiki/Junkers_Ju_287" style="color: #315fea; text-decoration: none;">Junkers Ju 287 — Wikipedia en inglés</a>
-- <a href="https://en.wikipedia.org/wiki/Hans_Wocke" style="color: #315fea; text-decoration: none;">Hans Wocke — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Junkers_Ju_287" style="color: #315fea; text-decoration: none;">Junkers Ju 287 — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.historynet.com/the-story-behind-one-of-the-oddest-airplanes-of-world-war-ii/" style="color: #315fea; text-decoration: none;">HistoryNet / <em>Aviation History</em>: «The Story Behind One of the Oddest Airplanes of World War II»</a></li>
+    <li><a href="https://jetandrocketaircraftofnazigermany.wordpress.com/junkers-ju-287/" style="color: #315fea; text-decoration: none;">Jet and Rocket Aircraft of Nazi Germany: ficha documental del Junkers Ju 287, con referencia a la documentación oficial del Ministerio del Aire y de Junkers</a></li>
+    <li><a href="https://www.smithsonianmag.com/air-space-magazine/wrong-turns-180961742/" style="color: #315fea; text-decoration: none;">Smithsonian <em>Air &amp; Space</em>: «Wrong Turns», sobre el ala en flecha invertida del Ju 287 al X-29</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/grumman-x-29a/nasm_A19960005000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: ficha del Grumman X-29A</a></li>
+    <li><a href="https://www.aerospace-jack.com/01_ju287.htm" style="color: #315fea; text-decoration: none;">Aerospace Jack: Junkers Ju 287, con reproducción de los informes de túnel de viento de Junkers de agosto de 1944</a></li>
+    <li><a href="https://www.warbirdsresourcegroup.org/LRG/ju287.html" style="color: #315fea; text-decoration: none;">Warbirds Resource Group: ficha técnica del Junkers Ju 287</a></li>
+    <li><a href="https://www.aviastar.org/air/germany/ju-287.php" style="color: #315fea; text-decoration: none;">Aviastar: Junkers Ju 287</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Junkers_Ju_287" style="color: #315fea; text-decoration: none;">Junkers Ju 287 — Wikipedia en inglés</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Hans_Wocke" style="color: #315fea; text-decoration: none;">Hans Wocke — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Junkers_Ju_287" style="color: #315fea; text-decoration: none;">Junkers Ju 287 — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

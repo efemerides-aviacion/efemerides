@@ -71,10 +71,14 @@ Aunque el proyecto resultó un fracaso operativo, la investigación recopilada a
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
-- <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195748/republic-xf-84h/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: Ficha Técnica Oficial del Republic XF-84H</a>
-- <a href="https://www.guinnessworldrecords.com/world-records/633410-loudest-aircraft" style="color: #315fea; text-decoration: none;">Guinness World Records: Record Oficial - Loudest Aircraft (Republic XF-84H)</a>
-- <a href="https://es.wikipedia.org/wiki/Republic_XF-84H" style="color: #315fea; text-decoration: none;">Wikipedia: Republic XF-84H (artículo enciclopédico de referencia)</a>
-- <a href="https://en.wikipedia.org/wiki/Republic_XF-84H" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Republic XF-84H</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195748/republic-xf-84h/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: Ficha Técnica Oficial del Republic XF-84H</a></li>
+    <li><a href="https://www.guinnessworldrecords.com/world-records/633410-loudest-aircraft" style="color: #315fea; text-decoration: none;">Guinness World Records: Record Oficial - Loudest Aircraft (Republic XF-84H)</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Republic_XF-84H" style="color: #315fea; text-decoration: none;">Wikipedia: Republic XF-84H (artículo enciclopédico de referencia)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Republic_XF-84H" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Republic XF-84H</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

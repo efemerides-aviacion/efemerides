@@ -71,10 +71,14 @@ Documentado en archivos fotográficos e historiográficos nacionales como los de
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
-- <a href="https://commons.wikimedia.org/wiki/File:F-BDRB.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons: Registro e imagen fotográfica del Latécoère 631 F-BDRB de Air France</a>
-- <a href="https://es.wikipedia.org/wiki/Lat%C3%A9co%C3%A8re_631" style="color: #315fea; text-decoration: none;">Wikipedia: Latécoère 631 (historial técnico, especificaciones y registro de flota)</a>
-- <a href="https://en.wikipedia.org/wiki/Lat%C3%A9co%C3%A8re_631" style="color: #315fea; text-decoration: none;">Wikipedia (en): Latécoère 631 (registro complementario de operaciones y accidentes)</a>
-- <a href="https://aviation-safety.net/wikibase/wiki.php?id=15722" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Latécoère 631</a>
+<div class="references">
+  <ul>
+    <li><a href="https://commons.wikimedia.org/wiki/File:F-BDRB.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons: Registro e imagen fotográfica del Latécoère 631 F-BDRB de Air France</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Lat%C3%A9co%C3%A8re_631" style="color: #315fea; text-decoration: none;">Wikipedia: Latécoère 631 (historial técnico, especificaciones y registro de flota)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lat%C3%A9co%C3%A8re_631" style="color: #315fea; text-decoration: none;">Wikipedia (en): Latécoère 631 (registro complementario de operaciones y accidentes)</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/wiki.php?id=15722" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Latécoère 631</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

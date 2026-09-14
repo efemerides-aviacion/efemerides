@@ -121,14 +121,18 @@ Queda por último la figura del piloto. Edmundo Weiss voló aquella tarde un apa
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://www.argentina.gob.ar/defensa/gestion-cultural/monumentos/aeronave-pulqui-i" style="color: #315fea; text-decoration: none;">Ministerio de Defensa de la República Argentina: ficha de la aeronave Pulqui I como bien de interés histórico nacional</a>
-- <a href="https://www.argentina.gob.ar/sites/default/files/2022/09/efemerides_2022.pdf" style="color: #315fea; text-decoration: none;">Efemérides de la Fuerza Aérea Argentina, edición oficial de 2022</a>
-- <a href="https://www.boletinoficial.gob.ar/detalleAviso/primera/136218/20151222" style="color: #315fea; text-decoration: none;">Boletín Oficial de la República Argentina: Decreto 899/2015</a>
-- <a href="https://www.aviastar.org/air/argentina/fma_iae-27.php" style="color: #315fea; text-decoration: none;">Aviastar: ficha técnica del FMA I.Ae. 27 Pulqui</a>
-- <a href="https://amilarg.com.ar/pulqui-i.html" style="color: #315fea; text-decoration: none;">AMILARG: historial del Pulqui I, con el detalle del equipo de proyecto y la configuración del prototipo</a>
-- <a href="https://www.lanacion.com.ar/sociedad/se-cumplen-70-anos-del-primer-vuelo-del-pulqui-i-un-hito-historico-en-la-aviacion-argentina-nid2051822/" style="color: #315fea; text-decoration: none;">La Nación: «Se cumplen 70 años del primer vuelo del Pulqui I»</a>
-- <a href="https://es.wikipedia.org/wiki/I.Ae._27_Pulqui_I" style="color: #315fea; text-decoration: none;">I.Ae. 27 Pulqui I — Wikipedia en español</a>
-- <a href="https://en.wikipedia.org/wiki/FMA_I.Ae._27_Pulqui_I" style="color: #315fea; text-decoration: none;">FMA I.Ae. 27 Pulqui I — Wikipedia en inglés</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.argentina.gob.ar/defensa/gestion-cultural/monumentos/aeronave-pulqui-i" style="color: #315fea; text-decoration: none;">Ministerio de Defensa de la República Argentina: ficha de la aeronave Pulqui I como bien de interés histórico nacional</a></li>
+    <li><a href="https://www.argentina.gob.ar/sites/default/files/2022/09/efemerides_2022.pdf" style="color: #315fea; text-decoration: none;">Efemérides de la Fuerza Aérea Argentina, edición oficial de 2022</a></li>
+    <li><a href="https://www.boletinoficial.gob.ar/detalleAviso/primera/136218/20151222" style="color: #315fea; text-decoration: none;">Boletín Oficial de la República Argentina: Decreto 899/2015</a></li>
+    <li><a href="https://www.aviastar.org/air/argentina/fma_iae-27.php" style="color: #315fea; text-decoration: none;">Aviastar: ficha técnica del FMA I.Ae. 27 Pulqui</a></li>
+    <li><a href="https://amilarg.com.ar/pulqui-i.html" style="color: #315fea; text-decoration: none;">AMILARG: historial del Pulqui I, con el detalle del equipo de proyecto y la configuración del prototipo</a></li>
+    <li><a href="https://www.lanacion.com.ar/sociedad/se-cumplen-70-anos-del-primer-vuelo-del-pulqui-i-un-hito-historico-en-la-aviacion-argentina-nid2051822/" style="color: #315fea; text-decoration: none;">La Nación: «Se cumplen 70 años del primer vuelo del Pulqui I»</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/I.Ae._27_Pulqui_I" style="color: #315fea; text-decoration: none;">I.Ae. 27 Pulqui I — Wikipedia en español</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/FMA_I.Ae._27_Pulqui_I" style="color: #315fea; text-decoration: none;">FMA I.Ae. 27 Pulqui I — Wikipedia en inglés</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

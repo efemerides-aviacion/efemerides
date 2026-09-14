@@ -99,14 +99,18 @@ Del *Lucky Lady* original apenas queda la fotografía de su tripulación ante el
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://web.archive.org/web/20100907070919/http://www.airforcehistory.hq.af.mil/PopTopics/ladies.htm" style="color: #315fea; text-decoration: none;">Air Force History Support Office: «Lucky Ladies», relación oficial de las tres circunnavegaciones</a>
-- <a href="https://afhistory.org/22-jul-1948/" style="color: #315fea; text-decoration: none;">Air Force Historical Foundation: efeméride del 22 de julio de 1948</a>
-- <a href="https://www.globalsecurity.org/wmd/agency/43bw.htm" style="color: #315fea; text-decoration: none;">GlobalSecurity.org: historial del 43.º Ala de Bombardeo</a>
-- <a href="https://aviation-safety.net/wikibase/173909" style="color: #315fea; text-decoration: none;">Aviation Safety Network: ficha del accidente del B-29A 44-62309 en el golfo de Adén</a>
-- <a href="https://www.baaa-acro.com/crash/crash-boeing-b-29a-70-bn-superfortress-aden-6-killed" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives: accidente del Boeing B-29A-70-BN frente a Adén</a>
-- <a href="https://web.archive.org/web/2023/http://www.joebaugher.com/usaf_serials/1944_4.html" style="color: #315fea; text-decoration: none;">Joe Baugher: registro de números de serie de las USAAF y la USAF, serie 1944, con el itinerario del 44-62314</a>
-- <a href="https://vintageaviationnews.com/warbird-articles/last-of-the-piston-bombers-surviving-examples-of-the-boeing-b-50.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News: «Last of the Piston Bombers: Surviving Examples of the Boeing B-50»</a>
-- <a href="https://en.wikipedia.org/wiki/Lucky_Lady_II" style="color: #315fea; text-decoration: none;">Lucky Lady II — Wikipedia en inglés</a>
+<div class="references">
+  <ul>
+    <li><a href="https://web.archive.org/web/20100907070919/http://www.airforcehistory.hq.af.mil/PopTopics/ladies.htm" style="color: #315fea; text-decoration: none;">Air Force History Support Office: «Lucky Ladies», relación oficial de las tres circunnavegaciones</a></li>
+    <li><a href="https://afhistory.org/22-jul-1948/" style="color: #315fea; text-decoration: none;">Air Force Historical Foundation: efeméride del 22 de julio de 1948</a></li>
+    <li><a href="https://www.globalsecurity.org/wmd/agency/43bw.htm" style="color: #315fea; text-decoration: none;">GlobalSecurity.org: historial del 43.º Ala de Bombardeo</a></li>
+    <li><a href="https://aviation-safety.net/wikibase/173909" style="color: #315fea; text-decoration: none;">Aviation Safety Network: ficha del accidente del B-29A 44-62309 en el golfo de Adén</a></li>
+    <li><a href="https://www.baaa-acro.com/crash/crash-boeing-b-29a-70-bn-superfortress-aden-6-killed" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives: accidente del Boeing B-29A-70-BN frente a Adén</a></li>
+    <li><a href="https://web.archive.org/web/2023/http://www.joebaugher.com/usaf_serials/1944_4.html" style="color: #315fea; text-decoration: none;">Joe Baugher: registro de números de serie de las USAAF y la USAF, serie 1944, con el itinerario del 44-62314</a></li>
+    <li><a href="https://vintageaviationnews.com/warbird-articles/last-of-the-piston-bombers-surviving-examples-of-the-boeing-b-50.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News: «Last of the Piston Bombers: Surviving Examples of the Boeing B-50»</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lucky_Lady_II" style="color: #315fea; text-decoration: none;">Lucky Lady II — Wikipedia en inglés</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

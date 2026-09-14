@@ -119,16 +119,20 @@ Queda por último la dimensión que la ciudad ha reivindicado por sí misma. Nag
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://www.osti.gov/opennet/manhattan-project-history/Events/1945/nagasaki.htm" style="color: #315fea; text-decoration: none;">Departamento de Energía de Estados Unidos: «The Atomic Bombing of Nagasaki, August 9, 1945», historia oficial del Proyecto Manhattan</a>
-- <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196642/the-mission/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: «The Mission», relato oficial del vuelo del <em>Bockscar</em></a>
-- <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196220/fat-man-atomic-bomb/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: ficha técnica de la bomba atómica Fat Man</a>
-- <a href="https://ahf.nuclearmuseum.org/encyclopedia/bombings-hiroshima-and-nagasaki-1945/" style="color: #315fea; text-decoration: none;">National Museum of Nuclear Science and History: «Bombings of Hiroshima and Nagasaki, 1945»</a>
-- <a href="https://www.nationalww2museum.org/war/articles/bombing-nagasaki-august-9-1945" style="color: #315fea; text-decoration: none;">The National WWII Museum: «The Bombing of Nagasaki, August 9, 1945»</a>
-- <a href="https://www.trumanlibrary.gov/education/presidential-inquiries/atomic-bomb-august-6-1945" style="color: #315fea; text-decoration: none;">Harry S. Truman Presidential Library: documentación sobre la decisión de emplear la bomba atómica</a>
-- <a href="https://pacificwrecks.com/aircraft/b-29/44-27353.html" style="color: #315fea; text-decoration: none;">Pacific Wrecks: historial de los B-29 Silverplate del 509.º Grupo Compuesto</a>
-- <a href="https://en.wikipedia.org/wiki/Fat_Man" style="color: #315fea; text-decoration: none;">Fat Man — Wikipedia en inglés</a>
-- <a href="https://en.wikipedia.org/wiki/Bockscar" style="color: #315fea; text-decoration: none;">Bockscar — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Bombardeos_at%C3%B3micos_sobre_Hiroshima_y_Nagasaki" style="color: #315fea; text-decoration: none;">Bombardeos atómicos sobre Hiroshima y Nagasaki — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.osti.gov/opennet/manhattan-project-history/Events/1945/nagasaki.htm" style="color: #315fea; text-decoration: none;">Departamento de Energía de Estados Unidos: «The Atomic Bombing of Nagasaki, August 9, 1945», historia oficial del Proyecto Manhattan</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196642/the-mission/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: «The Mission», relato oficial del vuelo del <em>Bockscar</em></a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196220/fat-man-atomic-bomb/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: ficha técnica de la bomba atómica Fat Man</a></li>
+    <li><a href="https://ahf.nuclearmuseum.org/encyclopedia/bombings-hiroshima-and-nagasaki-1945/" style="color: #315fea; text-decoration: none;">National Museum of Nuclear Science and History: «Bombings of Hiroshima and Nagasaki, 1945»</a></li>
+    <li><a href="https://www.nationalww2museum.org/war/articles/bombing-nagasaki-august-9-1945" style="color: #315fea; text-decoration: none;">The National WWII Museum: «The Bombing of Nagasaki, August 9, 1945»</a></li>
+    <li><a href="https://www.trumanlibrary.gov/education/presidential-inquiries/atomic-bomb-august-6-1945" style="color: #315fea; text-decoration: none;">Harry S. Truman Presidential Library: documentación sobre la decisión de emplear la bomba atómica</a></li>
+    <li><a href="https://pacificwrecks.com/aircraft/b-29/44-27353.html" style="color: #315fea; text-decoration: none;">Pacific Wrecks: historial de los B-29 Silverplate del 509.º Grupo Compuesto</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Fat_Man" style="color: #315fea; text-decoration: none;">Fat Man — Wikipedia en inglés</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Bockscar" style="color: #315fea; text-decoration: none;">Bockscar — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Bombardeos_at%C3%B3micos_sobre_Hiroshima_y_Nagasaki" style="color: #315fea; text-decoration: none;">Bombardeos atómicos sobre Hiroshima y Nagasaki — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

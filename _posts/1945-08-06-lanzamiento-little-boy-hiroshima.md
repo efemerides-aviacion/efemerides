@@ -123,16 +123,20 @@ Ocho décadas después, el debate sobre la justificación del ataque continúa a
 
 ## Referencias Verificadas
 
-- <a href="https://www.osti.gov/opennet/manhattan-project-history/Events/1945/hiroshima.htm" style="color: #315fea; text-decoration: none;">Departamento de Energía de Estados Unidos: «The Atomic Bombing of Hiroshima, August 6, 1945», historia oficial del Proyecto Manhattan</a>
-- <a href="https://airandspace.si.edu/stories/editorial/75-years-ago-flight-enola-gay" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: «75 Years Ago: The Flight of the Enola Gay», por Jeremy Kinney</a>
-- <a href="https://www.nps.gov/articles/000/the-atomic-bombings-of-hiroshima-and-nagasaki.htm" style="color: #315fea; text-decoration: none;">National Park Service: cronología de los bombardeos atómicos de Hiroshima y Nagasaki</a>
-- <a href="https://ahf.nuclearmuseum.org/ahf/history/bombings-hiroshima-and-nagasaki-1945/" style="color: #315fea; text-decoration: none;">National Museum of Nuclear Science & History (Atomic Heritage Foundation): «Bombings of Hiroshima and Nagasaki — 1945»</a>
-- <a href="https://www.iwm.org.uk/history/second-world-war/victory/the-atomic-bombs-that-ended-the-second-world-war" style="color: #315fea; text-decoration: none;">Imperial War Museums: «The Atomic Bombs That Ended the Second World War»</a>
-- <a href="https://www.trumanlibrary.gov/education/presidential-inquiries/decision-drop-atomic-bomb" style="color: #315fea; text-decoration: none;">Harry S. Truman Library and Museum: «The Decision to Drop the Atomic Bomb»</a>
-- <a href="https://hpmmuseum.jp/?lang=eng" style="color: #315fea; text-decoration: none;">Museo Memorial de la Paz de Hiroshima</a>
-- <a href="https://en.wikipedia.org/wiki/Enola_Gay" style="color: #315fea; text-decoration: none;">Enola Gay — Wikipedia en inglés</a>
-- <a href="https://en.wikipedia.org/wiki/Little_Boy" style="color: #315fea; text-decoration: none;">Little Boy — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Bombardeos_at%C3%B3micos_de_Hiroshima_y_Nagasaki" style="color: #315fea; text-decoration: none;">Bombardeos atómicos de Hiroshima y Nagasaki — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.osti.gov/opennet/manhattan-project-history/Events/1945/hiroshima.htm" style="color: #315fea; text-decoration: none;">Departamento de Energía de Estados Unidos: «The Atomic Bombing of Hiroshima, August 6, 1945», historia oficial del Proyecto Manhattan</a></li>
+    <li><a href="https://airandspace.si.edu/stories/editorial/75-years-ago-flight-enola-gay" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: «75 Years Ago: The Flight of the Enola Gay», por Jeremy Kinney</a></li>
+    <li><a href="https://www.nps.gov/articles/000/the-atomic-bombings-of-hiroshima-and-nagasaki.htm" style="color: #315fea; text-decoration: none;">National Park Service: cronología de los bombardeos atómicos de Hiroshima y Nagasaki</a></li>
+    <li><a href="https://ahf.nuclearmuseum.org/ahf/history/bombings-hiroshima-and-nagasaki-1945/" style="color: #315fea; text-decoration: none;">National Museum of Nuclear Science & History (Atomic Heritage Foundation): «Bombings of Hiroshima and Nagasaki — 1945»</a></li>
+    <li><a href="https://www.iwm.org.uk/history/second-world-war/victory/the-atomic-bombs-that-ended-the-second-world-war" style="color: #315fea; text-decoration: none;">Imperial War Museums: «The Atomic Bombs That Ended the Second World War»</a></li>
+    <li><a href="https://www.trumanlibrary.gov/education/presidential-inquiries/decision-drop-atomic-bomb" style="color: #315fea; text-decoration: none;">Harry S. Truman Library and Museum: «The Decision to Drop the Atomic Bomb»</a></li>
+    <li><a href="https://hpmmuseum.jp/?lang=eng" style="color: #315fea; text-decoration: none;">Museo Memorial de la Paz de Hiroshima</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Enola_Gay" style="color: #315fea; text-decoration: none;">Enola Gay — Wikipedia en inglés</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Little_Boy" style="color: #315fea; text-decoration: none;">Little Boy — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Bombardeos_at%C3%B3micos_de_Hiroshima_y_Nagasaki" style="color: #315fea; text-decoration: none;">Bombardeos atómicos de Hiroshima y Nagasaki — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
