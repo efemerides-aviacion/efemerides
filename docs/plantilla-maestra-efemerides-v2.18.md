@@ -741,7 +741,7 @@ justifica ante el editor cómo se llegó a redactarlo.
 
 ```markdown
 ## Metadatos de Control
-- **Timestamp de verificación:** AAAA-MM-DD HH:MM:SS ZONA  
+- **Timestamp de verificación:** AAAA-MM-DD HH:MM:SS CST  [hora del editor, tomada con `TZ=America/Mexico_City date '+%Y-%m-%d %H:%M:%S CST'`; nunca el `date` crudo del entorno, que opera en UTC]
 - **Fuentes primarias/institucionales consultadas:** [lista breve]  
 - **Fuentes secundarias de contraste:** [lista breve; **nunca** el borrador preliminar del editor]  
 - **Discrepancias resueltas:** [resumen breve, **exclusivamente** de divergencias entre fuentes publicadas: cifras, fechas, husos, denominaciones. Nunca errores del borrador, enlaces caídos, incidencias del entorno ni comprobaciones rutinarias del flujo de trabajo. Si no hubo divergencias entre fuentes, se omite el campo]  
@@ -924,7 +924,7 @@ René Fonck sigue siendo el «as de ases» de la aviación aliada en la Primera 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-25 10:30:00 UTC  
+- **Timestamp de verificación:** 2026-03-25 10:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN/PT), Prensa OHF, Fuerzas Aéreas, FirstWorldWar.com, EarlyAviators, Pantheon  
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre las 75 victorias confirmadas oficialmente y las 142 reclamadas por Fonck, explicando el riguroso sistema francés de homologación.  
 - **Nivel de confianza:** Alto  
@@ -1030,7 +1030,7 @@ El desastre de Tenerife se estudia en todas las escuelas de aviación como caso 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-25 15:00:00 UTC  
+- **Timestamp de verificación:** 2026-03-25 15:00:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Xataka, SKYbrary, RTVE, Simple Flying, Guanches.org, Wikipedia  
 - **Discrepancias resueltas:** Algunas fuentes mencionan 583 fallecidos y 61 supervivientes (total 644 personas a bordo); otras cifran en 583/61 coincidentes. Se ha utilizado la cifra oficial del informe español.  
 - **Nivel de confianza:** Alto  
@@ -1133,7 +1133,7 @@ El vuelo del A380 con 100% SAF se inscribe en una serie de hitos que están tran
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-03-23 17:30:00 UTC  
+- **Timestamp de verificación:** 2026-03-23 17:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Airbus, AviaciónLine, Velatia, Neste, ThisIsAerospace, Skies Mag, AirNavRadar  
 - **Discrepancias resueltas:** No se identificaron discrepancias; todas las fuentes coinciden en la fecha (25 de marzo de 2022), el avión (MSN1) y las características del vuelo.  
 - **Nivel de confianza:** Alto  
@@ -1509,7 +1509,7 @@ Vesna Vulović es recordada como la mujer que desafió lo imposible en la histor
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #ef6c00);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-01-02 22:35:00 UTC  
+- **Timestamp de verificación:** 2026-01-02 22:35:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, Guinness World Records, Infobae  
 - **Discrepancias resueltas:** Debate sobre la altitud exacta de la caída; Guinness mantiene cifra oficial de 10.160 m  
 - **Nivel de confianza:** Alto  
@@ -1598,13 +1598,16 @@ image: 2003-02-01-accidente-transbordador-columbia-sts107.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
 
 ## Referencias Verificadas
+<div class="references">
+  <ul>
+    <li><a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente institucional 1 — «Título» (nota descriptiva)]</a></li>
+    <li><a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente institucional 2 — «Título» (nota descriptiva)]</a></li>
+    <li><a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente secundaria de contraste 1 — «Título» (nota descriptiva)]</a></li>
+    <li><a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente secundaria de contraste 2 — «Título» (nota descriptiva)]</a></li>
+  </ul>
+</div>
 
-- <a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente institucional 1]</a>
-- <a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente institucional 2]</a>
-- <a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente secundaria de contraste 1]</a>
-- <a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente secundaria de contraste 2]</a>
-
-<!-- Mínimo cuatro entradas, dos de ellas primarias o institucionales (regla maestra 14). -->
+<!-- Patrón normativo: <div class="references"><ul><li> como en los ejemplos por categoría. Mínimo cuatro entradas, dos de ellas primarias o institucionales (regla maestra 14). -->
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> [Matices necesarios.]</p>
@@ -1613,7 +1616,7 @@ image: 2003-02-01-accidente-transbordador-columbia-sts107.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** AAAA-MM-DD HH:MM:SS ZONA
+- **Timestamp de verificación:** AAAA-MM-DD HH:MM:SS CST  [hora del editor, `TZ=America/Mexico_City`]
 - **Fuentes primarias/institucionales consultadas:** [lista]
 - **Fuentes secundarias de contraste:** [lista]
 - **Discrepancias resueltas:** [resumen]
@@ -1703,13 +1706,16 @@ image: 1941-07-23-conmemoracion-dia-fuerza-aerea-peru.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a, #fbc02d, #f9a825);">
 
 ## Referencias Verificadas
+<div class="references">
+  <ul>
+    <li><a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente institucional 1 — «Título» (nota descriptiva)]</a></li>
+    <li><a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente institucional 2 — «Título» (nota descriptiva)]</a></li>
+    <li><a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente secundaria de contraste 1 — «Título» (nota descriptiva)]</a></li>
+    <li><a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente secundaria de contraste 2 — «Título» (nota descriptiva)]</a></li>
+  </ul>
+</div>
 
-- <a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente institucional 1]</a>
-- <a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente institucional 2]</a>
-- <a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente secundaria de contraste 1]</a>
-- <a href="https://ejemplo.com" style="color: #315fea; text-decoration: none;">[Fuente secundaria de contraste 2]</a>
-
-<!-- Mínimo cuatro entradas, dos de ellas primarias o institucionales (regla maestra 14). -->
+<!-- Patrón normativo: <div class="references"><ul><li> como en los ejemplos por categoría. Mínimo cuatro entradas, dos de ellas primarias o institucionales (regla maestra 14). -->
 
 <div class="note-box">
   <p><strong>Nota aclaratoria:</strong> [Distinción entre fecha fundacional y conmemorativa, grados militares, etc.]</p>
@@ -1718,7 +1724,7 @@ image: 1941-07-23-conmemoracion-dia-fuerza-aerea-peru.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #2e7d32, #66bb6a, #fbc02d, #f9a825);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** AAAA-MM-DD HH:MM:SS ZONA
+- **Timestamp de verificación:** AAAA-MM-DD HH:MM:SS CST  [hora del editor, `TZ=America/Mexico_City`]
 - **Fuentes primarias/institucionales consultadas:** [lista]
 - **Fuentes secundarias de contraste:** [lista]
 - **Discrepancias resueltas:** [resumen]

@@ -421,6 +421,8 @@ La regla limita la repetición de la misma URL, no la cantidad absoluta de enlac
 ### Timestamp
 El `Timestamp de verificación` debe generarse dinámicamente al concluir el procesamiento, reflejando la fecha y hora local exactas. No se deben reutilizar timestamps.
 
+La «hora local» es siempre la del editor (`America/Mexico_City`), nunca la del entorno de trabajo: los entornos sandbox operan en UTC y la salida directa de `date` provoca desfases de seis o siete horas. El sello se toma con `TZ=America/Mexico_City date '+%Y-%m-%d %H:%M:%S CST'` tras la última edición del post. La hora de los eventos narrados dentro del contenido (por ejemplo, expresiones en tiempo Zulú en efemérides espaciales) es independiente de este sello de control y no lo condiciona. *(Regla incorporada el 14 de septiembre de 2026, tras el alta 1893-09-20.)*
+
 ### Imágenes y notas
 Una imagen representativa debe identificarse como tal. Las notas y metadatos deben tratar únicamente aspectos históricos, técnicos o documentales; no deben describir cambios internos del flujo editorial ni sustituciones realizadas durante el trabajo. *(Ampliado en la v2.3: véase «Principio de documento limpio».)*
 
