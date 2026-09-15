@@ -87,11 +87,15 @@ La historia del Model 299 también dejó una lección permanente sobre la import
 
 ## Referencias Verificadas
 
-1. <a href="https://web.archive.org/web/20061208181449/http:/www.boeing.com/history/chronology/chron04.html" style="color: #315fea; text-decoration: none;">Boeing Historical Archives — Chronology, 1933-1938</a>.
-2. <a href="https://historylink.org/file/2004" style="color: #315fea; text-decoration: none;">HistoryLink.org — Boeing Flying Fortress B-17 prototype takes her maiden flight on July 28, 1935</a>.
-3. <a href="https://www.thisdayinaviation.com/28-july-1935/" style="color: #315fea; text-decoration: none;">This Day in Aviation — 28 July 1935</a>.
-4. <a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-boeing-model-299-xb-17.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News — First Flight of the Boeing Model 299 (XB-17)</a>.
-5. <a href="https://www.airandspaceforces.com/article/0813checklist/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine — The Checklist</a>.
+<div class="references">
+  <ul>
+    <li><a href="https://web.archive.org/web/20061208181449/http:/www.boeing.com/history/chronology/chron04.html" style="color: #315fea; text-decoration: none;">Boeing Historical Archives — Chronology, 1933-1938</a>.</li>
+    <li><a href="https://historylink.org/file/2004" style="color: #315fea; text-decoration: none;">HistoryLink.org — Boeing Flying Fortress B-17 prototype takes her maiden flight on July 28, 1935</a>.</li>
+    <li><a href="https://www.thisdayinaviation.com/28-july-1935/" style="color: #315fea; text-decoration: none;">This Day in Aviation — 28 July 1935</a>.</li>
+    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-boeing-model-299-xb-17.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News — First Flight of the Boeing Model 299 (XB-17)</a>.</li>
+    <li><a href="https://www.airandspaceforces.com/article/0813checklist/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine — The Checklist</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

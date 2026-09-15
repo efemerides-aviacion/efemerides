@@ -93,11 +93,15 @@ La fundación de 1951 también estableció la identidad histórica de JAL como s
 
 ## Referencias Verificadas
 
-1. <a href="https://www.jal.com/en/outline/history.html" style="color: #315fea; text-decoration: none;">Japan Airlines — History</a>.
-2. <a href="https://www.jal.com/en/company/jal_history/" style="color: #315fea; text-decoration: none;">Japan Airlines — Company History</a>.
-3. <a href="https://aviation.hawaii.gov/pioneer-airlines/japan-air-lines/" style="color: #315fea; text-decoration: none;">Hawaii Aviation — Japan Air Lines</a>.
-4. <a href="https://www.airwaysmag.com/new-post/japan-first-post-war-domestic-airline-service" style="color: #315fea; text-decoration: none;">Airways Magazine — Japan’s First Post-war Domestic Airline Service</a>.
-5. <a href="https://commons.wikimedia.org/wiki/File:Japan_Airlines_Martin_2-0-2_Mokusei_Air_Hostesses_25_October_1951.png" style="color: #315fea; text-decoration: none;">Japan Air Lines Martin 2-0-2 «Mokusei», Wikimedia Commons</a>.
+<div class="references">
+  <ul>
+    <li><a href="https://www.jal.com/en/outline/history.html" style="color: #315fea; text-decoration: none;">Japan Airlines — History</a>.</li>
+    <li><a href="https://www.jal.com/en/company/jal_history/" style="color: #315fea; text-decoration: none;">Japan Airlines — Company History</a>.</li>
+    <li><a href="https://aviation.hawaii.gov/pioneer-airlines/japan-air-lines/" style="color: #315fea; text-decoration: none;">Hawaii Aviation — Japan Air Lines</a>.</li>
+    <li><a href="https://www.airwaysmag.com/new-post/japan-first-post-war-domestic-airline-service" style="color: #315fea; text-decoration: none;">Airways Magazine — Japan’s First Post-war Domestic Airline Service</a>.</li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Japan_Airlines_Martin_2-0-2_Mokusei_Air_Hostesses_25_October_1951.png" style="color: #315fea; text-decoration: none;">Japan Air Lines Martin 2-0-2 «Mokusei», Wikimedia Commons</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

@@ -93,12 +93,16 @@ La efeméride también recuerda la dimensión internacional de la historia aeron
 
 ## Referencias Verificadas
 
-1. <a href="https://es.wikipedia.org/wiki/Carlos_Meyer_Bald%C3%B3" style="color: #315fea; text-decoration: none;">Wikipedia — Carlos Meyer Baldó</a>, utilizada como referencia de localización y contraste.
-2. <a href="https://www.venciclopedia.org/index.php?title=Carlos_Meyer_Bald%C3%B3" style="color: #315fea; text-decoration: none;">Venciclopedia — Carlos Meyer Baldó</a>.
-3. <a href="https://www.ecured.cu/Carlos_Meyer_Bald%C3%B3" style="color: #315fea; text-decoration: none;">EcuRed — Carlos Meyer Baldó</a>.
-4. <a href="https://www.aviacioncivil.com.ve/carlos-meyer-karl-meyer-nuestro-piloto-que-participo-en-la-primera-guerra-mundial/" style="color: #315fea; text-decoration: none;">Aviación Civil — Carlos Meyer / Karl Meyer</a>.
-5. <a href="https://www.jastaboelcke.de/aces/carlos_meyer_baldo/karl_meyer_bio.htm" style="color: #315fea; text-decoration: none;">Jasta Boelcke — Karl Meyer biography</a>.
-6. <a href="https://www.facebook.com/photo/?fbid=4361197910834302&amp;set=pcb.26673574415633118" style="color: #315fea; text-decoration: none;">FAV Ven — imagen atribuida a Carlos Meyer Baldó</a>.
+<div class="references">
+  <ul>
+    <li><a href="https://es.wikipedia.org/wiki/Carlos_Meyer_Bald%C3%B3" style="color: #315fea; text-decoration: none;">Wikipedia — Carlos Meyer Baldó</a>, utilizada como referencia de localización y contraste.</li>
+    <li><a href="https://www.venciclopedia.org/index.php?title=Carlos_Meyer_Bald%C3%B3" style="color: #315fea; text-decoration: none;">Venciclopedia — Carlos Meyer Baldó</a>.</li>
+    <li><a href="https://www.ecured.cu/Carlos_Meyer_Bald%C3%B3" style="color: #315fea; text-decoration: none;">EcuRed — Carlos Meyer Baldó</a>.</li>
+    <li><a href="https://www.aviacioncivil.com.ve/carlos-meyer-karl-meyer-nuestro-piloto-que-participo-en-la-primera-guerra-mundial/" style="color: #315fea; text-decoration: none;">Aviación Civil — Carlos Meyer / Karl Meyer</a>.</li>
+    <li><a href="https://www.jastaboelcke.de/aces/carlos_meyer_baldo/karl_meyer_bio.htm" style="color: #315fea; text-decoration: none;">Jasta Boelcke — Karl Meyer biography</a>.</li>
+    <li><a href="https://www.facebook.com/photo/?fbid=4361197910834302&amp;set=pcb.26673574415633118" style="color: #315fea; text-decoration: none;">FAV Ven — imagen atribuida a Carlos Meyer Baldó</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

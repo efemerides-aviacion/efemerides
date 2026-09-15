@@ -91,11 +91,15 @@ La combinación de velocidad, presurización, autonomía, ventanillas panorámic
 
 ## Referencias Verificadas
 
-1. <a href="http://www.vickersviscount.net/Pages_History/The_Turboprop_World-Beater_VISCOUNT.aspx" style="color: #315fea; text-decoration: none;">Vickers Viscount Network — The Turboprop World-Beater Viscount</a>.
-2. <a href="https://www.royalaviationmuseum.com/aircraft/vickers-viscount-vc2-model-757-cf-ths/" style="color: #315fea; text-decoration: none;">Royal Aviation Museum of Western Canada — Vickers Viscount VC2</a>.
-3. <a href="https://ingenium.ca/aviation/en/collection-highlight/vickers-757-viscount/" style="color: #315fea; text-decoration: none;">Ingenium / Canada Aviation and Space Museum — Vickers 757 Viscount</a>.
-4. <a href="https://airandspace.si.edu/collection-objects/engine-rolls-royce-dart-mk-510-turboprop-engine/nasm_A19690276000" style="color: #315fea; text-decoration: none;">National Air and Space Museum — Rolls-Royce Dart Mk. 510 Turboprop Engine</a>.
-5. <a href="https://pimaair.org/designation/744/" style="color: #315fea; text-decoration: none;">Pima Air & Space Museum — Vickers Viscount Model 744</a>.
+<div class="references">
+  <ul>
+    <li><a href="http://www.vickersviscount.net/Pages_History/The_Turboprop_World-Beater_VISCOUNT.aspx" style="color: #315fea; text-decoration: none;">Vickers Viscount Network — The Turboprop World-Beater Viscount</a>.</li>
+    <li><a href="https://www.royalaviationmuseum.com/aircraft/vickers-viscount-vc2-model-757-cf-ths/" style="color: #315fea; text-decoration: none;">Royal Aviation Museum of Western Canada — Vickers Viscount VC2</a>.</li>
+    <li><a href="https://ingenium.ca/aviation/en/collection-highlight/vickers-757-viscount/" style="color: #315fea; text-decoration: none;">Ingenium / Canada Aviation and Space Museum — Vickers 757 Viscount</a>.</li>
+    <li><a href="https://airandspace.si.edu/collection-objects/engine-rolls-royce-dart-mk-510-turboprop-engine/nasm_A19690276000" style="color: #315fea; text-decoration: none;">National Air and Space Museum — Rolls-Royce Dart Mk. 510 Turboprop Engine</a>.</li>
+    <li><a href="https://pimaair.org/designation/744/" style="color: #315fea; text-decoration: none;">Pima Air & Space Museum — Vickers Viscount Model 744</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

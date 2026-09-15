@@ -89,11 +89,15 @@ Aunque el RB-45C tuvo una carrera relativamente breve y fue sustituido por el RB
 
 ## Referencias Verificadas
 
-1. <a href="https://afhistory.org/july-29-1952/" style="color: #315fea; text-decoration: none;">Air Force Historical Foundation — July 29, 1952</a>.
-2. <a href="https://www.airandspaceforces.com/chronology-1950-1959/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine — Chronology: 1950-1959</a>.
-3. <a href="https://coldwar.org/RB-29/HTML/91stSRSHistory/04.02.91sthist.htm" style="color: #315fea; text-decoration: none;">The Cold War Museum — 91st SRS History, Chapter 4</a>.
-4. <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196105/north-american-b-45c-tornado/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force — North American B-45C Tornado</a>.
-5. <a href="https://www.airplanes-online.com/b45-tornado.htm" style="color: #315fea; text-decoration: none;">Airplanes Online — North American B-45 / RB-45 Tornado</a>.
+<div class="references">
+  <ul>
+    <li><a href="https://afhistory.org/july-29-1952/" style="color: #315fea; text-decoration: none;">Air Force Historical Foundation — July 29, 1952</a>.</li>
+    <li><a href="https://www.airandspaceforces.com/chronology-1950-1959/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine — Chronology: 1950-1959</a>.</li>
+    <li><a href="https://coldwar.org/RB-29/HTML/91stSRSHistory/04.02.91sthist.htm" style="color: #315fea; text-decoration: none;">The Cold War Museum — 91st SRS History, Chapter 4</a>.</li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196105/north-american-b-45c-tornado/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force — North American B-45C Tornado</a>.</li>
+    <li><a href="https://www.airplanes-online.com/b45-tornado.htm" style="color: #315fea; text-decoration: none;">Airplanes Online — North American B-45 / RB-45 Tornado</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

@@ -95,11 +95,15 @@ El avión original fue retirado y posteriormente entregado al Smithsonian Instit
 
 ## Referencias Verificadas
 
-1. <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196762/wright-1909-military-flyer/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force — Wright 1909 Military Flyer</a>.
-2. <a href="https://airandspace.si.edu/stories/editorial/worlds-first-military-airplane" style="color: #315fea; text-decoration: none;">National Air and Space Museum — The World’s First Military Airplane</a>.
-3. <a href="https://text-message.blogs.archives.gov/2019/03/19/the-united-states-army-buys-its-first-aeroplane-1909/" style="color: #315fea; text-decoration: none;">National Archives — The United States Army Buys Its First Aeroplane, 1909</a>.
-4. <a href="https://www.armyaviationmuseum.org/the-1909-wright-military-flyer/" style="color: #315fea; text-decoration: none;">U.S. Army Aviation Museum — The 1909 Wright Military Flyer</a>.
-5. <a href="https://www.wright-brothers.org/Information_Desk/Just_the_Facts/Airplanes/Military_Flyer.htm" style="color: #315fea; text-decoration: none;">Wright Brothers Aeroplane Company — 1909 Wright Military Flyer</a>.
+<div class="references">
+  <ul>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196762/wright-1909-military-flyer/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force — Wright 1909 Military Flyer</a>.</li>
+    <li><a href="https://airandspace.si.edu/stories/editorial/worlds-first-military-airplane" style="color: #315fea; text-decoration: none;">National Air and Space Museum — The World’s First Military Airplane</a>.</li>
+    <li><a href="https://text-message.blogs.archives.gov/2019/03/19/the-united-states-army-buys-its-first-aeroplane-1909/" style="color: #315fea; text-decoration: none;">National Archives — The United States Army Buys Its First Aeroplane, 1909</a>.</li>
+    <li><a href="https://www.armyaviationmuseum.org/the-1909-wright-military-flyer/" style="color: #315fea; text-decoration: none;">U.S. Army Aviation Museum — The 1909 Wright Military Flyer</a>.</li>
+    <li><a href="https://www.wright-brothers.org/Information_Desk/Just_the_Facts/Airplanes/Military_Flyer.htm" style="color: #315fea; text-decoration: none;">Wright Brothers Aeroplane Company — 1909 Wright Military Flyer</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

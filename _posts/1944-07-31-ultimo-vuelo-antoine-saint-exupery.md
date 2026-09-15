@@ -91,11 +91,15 @@ La localización de los restos frente a Marsella cerró una parte importante del
 
 ## Referencias Verificadas
 
-1. <a href="https://www.infobae.com/historias/2025/07/31/el-ultimo-vuelo-del-autor-de-el-principito-la-misteriosa-desaparicion-en-un-cielo-en-guerra-y-el-hallazgo-que-llevo-a-su-avion/" style="color: #315fea; text-decoration: none;">Infobae — El último vuelo del autor de *El Principito*</a>.
-2. <a href="https://www.sps-aviation.com/story/?id=3208&amp;h=Antoine-de-Saint-Exupandeacute%3Bry-1900-1944" style="color: #315fea; text-decoration: none;">SPS Aviation — Antoine de Saint-Exupéry (1900-1944)</a>.
-3. <a href="https://www.cbsnews.com/news/little-prince-mystery-solved/" style="color: #315fea; text-decoration: none;">CBS News — «Little Prince» Mystery Solved</a>.
-4. <a href="https://www.ghostbombers.com/JG200/Rippert/saint-ex_01.html" style="color: #315fea; text-decoration: none;">Ghostbombers — Rippert and Saint-Exupéry</a>, análisis crítico de la hipótesis del derribo alemán.
-5. <a href="https://www.nytimes.com/2004/04/11/opinion/saint-exupery-lands-at-last.html" style="color: #315fea; text-decoration: none;">The New York Times — Saint-Exupéry Lands at Last</a>.
+<div class="references">
+  <ul>
+    <li><a href="https://www.infobae.com/historias/2025/07/31/el-ultimo-vuelo-del-autor-de-el-principito-la-misteriosa-desaparicion-en-un-cielo-en-guerra-y-el-hallazgo-que-llevo-a-su-avion/" style="color: #315fea; text-decoration: none;">Infobae — El último vuelo del autor de *El Principito*</a>.</li>
+    <li><a href="https://www.sps-aviation.com/story/?id=3208&amp;h=Antoine-de-Saint-Exupandeacute%3Bry-1900-1944" style="color: #315fea; text-decoration: none;">SPS Aviation — Antoine de Saint-Exupéry (1900-1944)</a>.</li>
+    <li><a href="https://www.cbsnews.com/news/little-prince-mystery-solved/" style="color: #315fea; text-decoration: none;">CBS News — «Little Prince» Mystery Solved</a>.</li>
+    <li><a href="https://www.ghostbombers.com/JG200/Rippert/saint-ex_01.html" style="color: #315fea; text-decoration: none;">Ghostbombers — Rippert and Saint-Exupéry</a>, análisis crítico de la hipótesis del derribo alemán.</li>
+    <li><a href="https://www.nytimes.com/2004/04/11/opinion/saint-exupery-lands-at-last.html" style="color: #315fea; text-decoration: none;">The New York Times — Saint-Exupéry Lands at Last</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

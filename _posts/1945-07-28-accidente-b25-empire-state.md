@@ -95,11 +95,15 @@ La historia de Betty Lou Oliver, que sobrevivió a la caída de su ascensor desd
 
 ## Referencias Verificadas
 
-1. <a href="https://www.archives.nyc/blog/2019/10/18/the-empire-state-plane-crash-july-28-1945" style="color: #315fea; text-decoration: none;">NYC Department of Records and Information Services — The Empire State Plane Crash, July 28, 1945</a>.
-2. <a href="https://aviation-safety.net/wikibase/wiki.php?id=74693" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Accident North American B-25D-20 Mitchell 41-30577</a>.
-3. <a href="https://pacificwrecks.com/aircraft/b-25/41-30577.html" style="color: #315fea; text-decoration: none;">Pacific Wrecks — B-25D-20 «Old John Feather Merchant», serial number 41-30577</a>.
-4. <a href="https://www.military.com/history/time-army-bomber-crashed-empire-state-building-during-wwii.html" style="color: #315fea; text-decoration: none;">Military.com — The Time an Army Bomber Crashed into the Empire State Building During WWII</a>.
-5. <a href="https://www.cbsnews.com/newyork/news/empire-state-building-plane-crash-1945/" style="color: #315fea; text-decoration: none;">CBS News — 70 Years Ago Tuesday: 19 Killed When Plane Crashes Into Empire State Building</a>.
+<div class="references">
+  <ul>
+    <li><a href="https://www.archives.nyc/blog/2019/10/18/the-empire-state-plane-crash-july-28-1945" style="color: #315fea; text-decoration: none;">NYC Department of Records and Information Services — The Empire State Plane Crash, July 28, 1945</a>.</li>
+    <li><a href="https://aviation-safety.net/wikibase/wiki.php?id=74693" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Accident North American B-25D-20 Mitchell 41-30577</a>.</li>
+    <li><a href="https://pacificwrecks.com/aircraft/b-25/41-30577.html" style="color: #315fea; text-decoration: none;">Pacific Wrecks — B-25D-20 «Old John Feather Merchant», serial number 41-30577</a>.</li>
+    <li><a href="https://www.military.com/history/time-army-bomber-crashed-empire-state-building-during-wwii.html" style="color: #315fea; text-decoration: none;">Military.com — The Time an Army Bomber Crashed into the Empire State Building During WWII</a>.</li>
+    <li><a href="https://www.cbsnews.com/newyork/news/empire-state-building-plane-crash-1945/" style="color: #315fea; text-decoration: none;">CBS News — 70 Years Ago Tuesday: 19 Killed When Plane Crashes Into Empire State Building</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

@@ -88,11 +88,15 @@ La experiencia de 1935 anticipó los sistemas de aproximación y recuperación q
 
 ## Referencias Verificadas
 
-1. <a href="https://www.history.navy.mil/research/histories/ship-histories/danfs/l/langley-i.html" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command — Langley I (CV-1)</a>.
-2. <a href="https://www.thisdayinaviation.com/30-july-1935/" style="color: #315fea; text-decoration: none;">This Day in Aviation — 30 July 1935</a>.
-3. <a href="https://seahistory.org/wp-content/uploads/USS-LANGLEY-and-the-Centennial-of-US-Navy-Carrier-Aviation-by-David-F.-Winkler-PhD.pdf" style="color: #315fea; text-decoration: none;">Sea History — USS Langley and the Centennial of US Navy Carrier Aviation</a>.
-4. <a href="https://commons.wikimedia.org/wiki/File:Berliner-Joyce_OJ-2_of_VS-5.jpg" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command — Berliner-Joyce OJ-2 of VS-5</a>, Wikimedia Commons.
-5. <a href="https://multied.com/navy/chron/PART04/ipage_14.htm" style="color: #315fea; text-decoration: none;">Multied — U.S. Naval Aviation 1910-1995</a>.
+<div class="references">
+  <ul>
+    <li><a href="https://www.history.navy.mil/research/histories/ship-histories/danfs/l/langley-i.html" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command — Langley I (CV-1)</a>.</li>
+    <li><a href="https://www.thisdayinaviation.com/30-july-1935/" style="color: #315fea; text-decoration: none;">This Day in Aviation — 30 July 1935</a>.</li>
+    <li><a href="https://seahistory.org/wp-content/uploads/USS-LANGLEY-and-the-Centennial-of-US-Navy-Carrier-Aviation-by-David-F.-Winkler-PhD.pdf" style="color: #315fea; text-decoration: none;">Sea History — USS Langley and the Centennial of US Navy Carrier Aviation</a>.</li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Berliner-Joyce_OJ-2_of_VS-5.jpg" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command — Berliner-Joyce OJ-2 of VS-5</a>, Wikimedia Commons.</li>
+    <li><a href="https://multied.com/navy/chron/PART04/ipage_14.htm" style="color: #315fea; text-decoration: none;">Multied — U.S. Naval Aviation 1910-1995</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
