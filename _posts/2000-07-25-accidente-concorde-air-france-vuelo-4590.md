@@ -74,10 +74,14 @@ Pese a las costosas modificaciones de seguridad implementadas, la severa contrac
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Referencias Verificadas
-- <a href="https://en.wikipedia.org/wiki/Air_France_Flight_4590" style="color: #315fea; text-decoration: none;">Wikipedia: Air France Flight 4590 (artículo de referencia detallado sobre el accidente)</a>
-- <a href="https://www.lanacion.com.ar/lifestyle/concorde-a-22-anos-de-la-catastrofe-de-aviacion-que-sacudio-al-mundo-y-termino-con-los-vuelos-nid25072022/" style="color: #315fea; text-decoration: none;">La Nación: Concorde - A 22 años de la catástrofe de aviación que terminó con los vuelos supersónicos</a>
-- <a href="https://www.theguardian.com/world/2000/sep/01/concorde.jonhenley1" style="color: #315fea; text-decoration: none;">The Guardian: The final seconds of crashed Concorde (transcripción de cabina e investigación de la BEA)</a>
-- <a href="https://bea.aero/fileadmin/documents/docspa/2000/f-sc000725a/htm/f-sc000725a.html" style="color: #315fea; text-decoration: none;">BEA — Informe final, Concorde F-BTSC, 25 de julio de 2000</a>
+<div class="references">
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Air_France_Flight_4590" style="color: #315fea; text-decoration: none;">Wikipedia: Air France Flight 4590 (artículo de referencia detallado sobre el accidente)</a></li>
+    <li><a href="https://www.lanacion.com.ar/lifestyle/concorde-a-22-anos-de-la-catastrofe-de-aviacion-que-sacudio-al-mundo-y-termino-con-los-vuelos-nid25072022/" style="color: #315fea; text-decoration: none;">La Nación: Concorde - A 22 años de la catástrofe de aviación que terminó con los vuelos supersónicos</a></li>
+    <li><a href="https://www.theguardian.com/world/2000/sep/01/concorde.jonhenley1" style="color: #315fea; text-decoration: none;">The Guardian: The final seconds of crashed Concorde (transcripción de cabina e investigación de la BEA)</a></li>
+    <li><a href="https://bea.aero/fileadmin/documents/docspa/2000/f-sc000725a/htm/f-sc000725a.html" style="color: #315fea; text-decoration: none;">BEA — Informe final, Concorde F-BTSC, 25 de julio de 2000</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 <div class="note-box">

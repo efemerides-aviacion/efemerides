@@ -79,10 +79,14 @@ El sacrificio de la tripulación de la STS-107 es recordado en monumentos del Ce
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
 ## Referencias Verificadas
-- <a href="https://www.nasa.gov/history/columbia-chronology/" style="color: #315fea; text-decoration: none;">NASA History: Cronología Técnica Oficial del Accidente del Columbia</a>
-- <a href="https://www.nasa.gov/remembering-columbia-sts-107/" style="color: #315fea; text-decoration: none;">NASA Memorial: Tributo Oficial a la Tripulación de la Misión STS-107</a>
-- <a href="https://es.wikipedia.org/wiki/Accidente_del_transbordador_espacial_Columbia" style="color: #315fea; text-decoration: none;">Wikipedia: Accidente del transbordador espacial Columbia (artículo enciclopédico de referencia)</a>
-- <a href="https://www.nasa.gov/wp-content/uploads/2023/04/caib_report_volume1.pdf" style="color: #315fea; text-decoration: none;">NASA — Columbia Accident Investigation Board, Volume I</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.nasa.gov/history/columbia-chronology/" style="color: #315fea; text-decoration: none;">NASA History: Cronología Técnica Oficial del Accidente del Columbia</a></li>
+    <li><a href="https://www.nasa.gov/remembering-columbia-sts-107/" style="color: #315fea; text-decoration: none;">NASA Memorial: Tributo Oficial a la Tripulación de la Misión STS-107</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Accidente_del_transbordador_espacial_Columbia" style="color: #315fea; text-decoration: none;">Wikipedia: Accidente del transbordador espacial Columbia (artículo enciclopédico de referencia)</a></li>
+    <li><a href="https://www.nasa.gov/wp-content/uploads/2023/04/caib_report_volume1.pdf" style="color: #315fea; text-decoration: none;">NASA — Columbia Accident Investigation Board, Volume I</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
 <div class="note-box">

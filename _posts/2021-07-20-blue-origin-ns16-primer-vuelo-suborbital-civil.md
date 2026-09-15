@@ -74,10 +74,14 @@ Asimismo, el vuelo dejó un impacto imborrable en la cultura aeronáutica contem
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Referencias Verificadas
-- <a href="https://www.flickr.com/photos/nasafo/47085559171/" style="color: #315fea; text-decoration: none;">NASA Flight Opportunities / Flickr: Aterrizaje de la cápsula de tripulación New Shepard</a>
-- <a href="https://en.wikipedia.org/wiki/NS-16" style="color: #315fea; text-decoration: none;">Wikipedia: Blue Origin NS-16 (artículo enciclopédico de referencia)</a>
-- <a href="https://spacepolicyonline.com/news/wally-funk-gets-her-astronaut-pin-oh-and-jeff-bezos-too/" style="color: #315fea; text-decoration: none;">Space Policy Online: Análisis del vuelo tripulado NS-16 y el reconocimiento a Wally Funk</a>
-- <a href="https://www.blueorigin.com/news/first-human-flight-updates" style="color: #315fea; text-decoration: none;">Blue Origin — First Human Flight (NS-16)</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.flickr.com/photos/nasafo/47085559171/" style="color: #315fea; text-decoration: none;">NASA Flight Opportunities / Flickr: Aterrizaje de la cápsula de tripulación New Shepard</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/NS-16" style="color: #315fea; text-decoration: none;">Wikipedia: Blue Origin NS-16 (artículo enciclopédico de referencia)</a></li>
+    <li><a href="https://spacepolicyonline.com/news/wally-funk-gets-her-astronaut-pin-oh-and-jeff-bezos-too/" style="color: #315fea; text-decoration: none;">Space Policy Online: Análisis del vuelo tripulado NS-16 y el reconocimiento a Wally Funk</a></li>
+    <li><a href="https://www.blueorigin.com/news/first-human-flight-updates" style="color: #315fea; text-decoration: none;">Blue Origin — First Human Flight (NS-16)</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 <div class="note-box">

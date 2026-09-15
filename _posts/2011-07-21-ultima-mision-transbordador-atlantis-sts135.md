@@ -72,10 +72,14 @@ Su legado técnico incluye la puesta en órbita y reparación de grandes observa
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Referencias Verificadas
-- <a href="https://www.nasa.gov/mission/sts-135/" style="color: #315fea; text-decoration: none;">NASA Science: Página Oficial de la Misión STS-135 Atlantis</a>
-- <a href="https://www.nasa.gov/history/10-years-ago-sts-135-the-space-shuttles-grand-finale/" style="color: #315fea; text-decoration: none;">NASA History Division: 10 Years Ago - STS-135, the Space Shuttle's Grand Finale</a>
-- <a href="https://en.wikipedia.org/wiki/STS-135" style="color: #315fea; text-decoration: none;">Wikipedia: Misión STS-135 del Transbordador Espacial (artículo de referencia)</a>
-- <a href="https://airandspace.si.edu/collection-objects/space-shuttle-atlantis/nasm_A20120325000" style="color: #315fea; text-decoration: none;">Smithsonian NASM — Space Shuttle Atlantis</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.nasa.gov/mission/sts-135/" style="color: #315fea; text-decoration: none;">NASA Science: Página Oficial de la Misión STS-135 Atlantis</a></li>
+    <li><a href="https://www.nasa.gov/history/10-years-ago-sts-135-the-space-shuttles-grand-finale/" style="color: #315fea; text-decoration: none;">NASA History Division: 10 Years Ago - STS-135, the Space Shuttle's Grand Finale</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/STS-135" style="color: #315fea; text-decoration: none;">Wikipedia: Misión STS-135 del Transbordador Espacial (artículo de referencia)</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/space-shuttle-atlantis/nasm_A20120325000" style="color: #315fea; text-decoration: none;">Smithsonian NASM — Space Shuttle Atlantis</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 <div class="note-box">

@@ -111,14 +111,18 @@ Queda por último la memoria. La Universidad de Syracuse dedica cada año una se
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 ## Referencias Verificadas
 
-- <a href="https://www.gov.uk/aaib-reports/2-1990-boeing-747-121-n739pa-21-december-1988" style="color: #315fea; text-decoration: none;">Air Accidents Investigation Branch: informe 2/1990 sobre el accidente del Boeing 747-121 N739PA en Lockerbie</a>
-- <a href="https://libraryonline.erau.edu/online-full-text/ntsb/miscellaneous-reports/MR-02-90.pdf" style="color: #315fea; text-decoration: none;">Texto íntegro del informe 2/90 de la Air Accidents Investigation Branch</a>
-- <a href="https://www.fbi.gov/history/famous-cases/pan-am-103-bombing" style="color: #315fea; text-decoration: none;">Oficina Federal de Investigación: expediente histórico del atentado del vuelo 103 de Pan Am</a>
-- <a href="https://www.cia.gov/legacy/museum/exhibit/terrorist-bombing-of-pan-am-flight-103/" style="color: #315fea; text-decoration: none;">Agencia Central de Inteligencia: «Terrorist Bombing of Pan Am Flight 103»</a>
-- <a href="https://www.justice.gov/opa/pr/pan-am-flight-103-terrorist-suspect-custody-1988-bombing-over-lockerbie-scotland" style="color: #315fea; text-decoration: none;">Departamento de Justicia de Estados Unidos: detención del tercer acusado por el atentado</a>
-- <a href="https://remembrance.syr.edu/" style="color: #315fea; text-decoration: none;">Universidad de Syracuse: archivo conmemorativo del vuelo 103 de Pan Am</a>
-- <a href="https://en.wikipedia.org/wiki/Pan_Am_Flight_103" style="color: #315fea; text-decoration: none;">Pan Am Flight 103 — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Vuelo_103_de_Pan_Am" style="color: #315fea; text-decoration: none;">Vuelo 103 de Pan Am — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.gov.uk/aaib-reports/2-1990-boeing-747-121-n739pa-21-december-1988" style="color: #315fea; text-decoration: none;">Air Accidents Investigation Branch: informe 2/1990 sobre el accidente del Boeing 747-121 N739PA en Lockerbie</a></li>
+    <li><a href="https://libraryonline.erau.edu/online-full-text/ntsb/miscellaneous-reports/MR-02-90.pdf" style="color: #315fea; text-decoration: none;">Texto íntegro del informe 2/90 de la Air Accidents Investigation Branch</a></li>
+    <li><a href="https://www.fbi.gov/history/famous-cases/pan-am-103-bombing" style="color: #315fea; text-decoration: none;">Oficina Federal de Investigación: expediente histórico del atentado del vuelo 103 de Pan Am</a></li>
+    <li><a href="https://www.cia.gov/legacy/museum/exhibit/terrorist-bombing-of-pan-am-flight-103/" style="color: #315fea; text-decoration: none;">Agencia Central de Inteligencia: «Terrorist Bombing of Pan Am Flight 103»</a></li>
+    <li><a href="https://www.justice.gov/opa/pr/pan-am-flight-103-terrorist-suspect-custody-1988-bombing-over-lockerbie-scotland" style="color: #315fea; text-decoration: none;">Departamento de Justicia de Estados Unidos: detención del tercer acusado por el atentado</a></li>
+    <li><a href="https://remembrance.syr.edu/" style="color: #315fea; text-decoration: none;">Universidad de Syracuse: archivo conmemorativo del vuelo 103 de Pan Am</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Pan_Am_Flight_103" style="color: #315fea; text-decoration: none;">Pan Am Flight 103 — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_103_de_Pan_Am" style="color: #315fea; text-decoration: none;">Vuelo 103 de Pan Am — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 <div class="note-box">

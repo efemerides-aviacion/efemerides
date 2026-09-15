@@ -72,10 +72,14 @@ El hito recuerda la era en que la aviación comercial duplicó la velocidad del 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
-- <a href="https://www.history.com/this-day-in-history/october-24/the-concorde-makes-its-final-flight" style="color: #315fea; text-decoration: none;">HISTORY Channel: The Concorde Makes Its Final Commercial Flight (24 October 2003)</a>
-- <a href="http://news.bbc.co.uk/2/hi/uk_news/3209837.stm" style="color: #315fea; text-decoration: none;">BBC News: Cobertura Especial - Concorde Makes Final Flights (24 de octubre de 2003)</a>
-- <a href="https://www.thisdayinaviation.com/tag/british-airways/" style="color: #315fea; text-decoration: none;">This Day in Aviation: Reseña del Último Aterrizaje del Concorde G-BOAG en Heathrow</a>
-- <a href="https://en.wikipedia.org/wiki/Concorde" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Concorde</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.history.com/this-day-in-history/october-24/the-concorde-makes-its-final-flight" style="color: #315fea; text-decoration: none;">HISTORY Channel: The Concorde Makes Its Final Commercial Flight (24 October 2003)</a></li>
+    <li><a href="http://news.bbc.co.uk/2/hi/uk_news/3209837.stm" style="color: #315fea; text-decoration: none;">BBC News: Cobertura Especial - Concorde Makes Final Flights (24 de octubre de 2003)</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/british-airways/" style="color: #315fea; text-decoration: none;">This Day in Aviation: Reseña del Último Aterrizaje del Concorde G-BOAG en Heathrow</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Concorde" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Concorde</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

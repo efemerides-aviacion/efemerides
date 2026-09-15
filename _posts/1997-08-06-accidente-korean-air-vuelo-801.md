@@ -110,11 +110,15 @@ En Guam, un obelisco de mármol negro señala desde el 6 de agosto de 1998 el lu
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Referencias Verificadas
 
-- <a href="https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0001.pdf" style="color: #315fea; text-decoration: none;">Junta Nacional de Seguridad en el Transporte: informe NTSB/AAR-00/01, «Controlled Flight Into Terrain, Korean Air Flight 801»</a>
-- <a href="https://en.wikisource.org/wiki/Korean_Air_Flight_801_-_Aircraft_Accident_Report_(NTSB)/Executive_Summary" style="color: #315fea; text-decoration: none;">Resumen ejecutivo del informe NTSB/AAR-00/01, en Wikisource</a>
-- <a href="https://www.faa.gov/lessons_learned/transport_airplane/accidents/HL7468" style="color: #315fea; text-decoration: none;">Administración Federal de Aviación: ficha del accidente del HL7468 en «Lessons Learned From Transport Airplane Accidents»</a>
-- <a href="https://en.wikipedia.org/wiki/Korean_Air_Flight_801" style="color: #315fea; text-decoration: none;">Korean Air Flight 801 — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Vuelo_801_de_Korean_Air" style="color: #315fea; text-decoration: none;">Vuelo 801 de Korean Air — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.ntsb.gov/investigations/AccidentReports/Reports/AAR0001.pdf" style="color: #315fea; text-decoration: none;">Junta Nacional de Seguridad en el Transporte: informe NTSB/AAR-00/01, «Controlled Flight Into Terrain, Korean Air Flight 801»</a></li>
+    <li><a href="https://en.wikisource.org/wiki/Korean_Air_Flight_801_-_Aircraft_Accident_Report_(NTSB)/Executive_Summary" style="color: #315fea; text-decoration: none;">Resumen ejecutivo del informe NTSB/AAR-00/01, en Wikisource</a></li>
+    <li><a href="https://www.faa.gov/lessons_learned/transport_airplane/accidents/HL7468" style="color: #315fea; text-decoration: none;">Administración Federal de Aviación: ficha del accidente del HL7468 en «Lessons Learned From Transport Airplane Accidents»</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Korean_Air_Flight_801" style="color: #315fea; text-decoration: none;">Korean Air Flight 801 — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vuelo_801_de_Korean_Air" style="color: #315fea; text-decoration: none;">Vuelo 801 de Korean Air — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 <div class="note-box">
