@@ -86,13 +86,16 @@ En el cementerio zagrebino de Mirogoj, un monumento recuerda a parte de las víc
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Referencias Verificadas
-<ul>
-  <li><a href="https://assets.publishing.service.gov.uk/media/5422ffeeed915d1374000a11/9-1982_G-AWZT_and_YU-AJR.pdf" style="color: #315fea; text-decoration: none;">«Report on the accident of the Trident Three aircraft G-AWZT and the DC-9 aircraft YU-AJR above Zagreb VOR» — informe de la Comisión de Investigación de Accidentes de la Administración Federal de Aviación Civil de Yugoslavia (Beogrado, 25 de diciembre de 1976), reimpreso por Her Majesty's Stationery Office dentro de la colección de informes del AIB británico; PDF de 63 páginas en el repositorio oficial de publicaciones del Gobierno del Reino Unido, con la transcripción de las comunicaciones, los datos de los registradores y el estado del radar</a></li>
-  <li><a href="https://asn.flightsafety.org/asndb/329318" style="color: #315fea; text-decoration: none;">Aviation Safety Network (Flight Safety Foundation) — ficha del accidente del Trident G-AWZT: ocupantes y víctimas por aeronave, cinemática de la aproximación, citas textuales del informe oficial y enlace al PDF de la comisión</a></li>
-  <li><a href="https://ukaviation.aero/42-years-ago-today-british-airways-flight-in-mid-air-collision/" style="color: #315fea; text-decoration: none;">UK Aviation News (Nick Harding, 2018) — «42 Years ago today: British Airways flight in mid-air collision», crónica del suceso y del proceso judicial, con el resumen de las conclusiones del AIB</a></li>
-  <li><a href="https://commons.wikimedia.org/wiki/File:Trident_3_-_G-AWZT_-_tragic_ending_(39469585575).jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons — «Trident 3 - G-AWZT - tragic ending», fotografía de Mike McBey (CC BY 2.0) tomada en el aeropuerto de Edimburgo hacia 1974-1975, usada en la mitad superior de la composición</a></li>
-  <li><a href="https://commons.wikimedia.org/wiki/File:Inex-Adria_Aviopromet_McDonnell_Douglas_DC-9-32_YU-AJR.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons — «Inex-Adria Aviopromet McDonnell Douglas DC-9-32 YU-AJR», fotografía de Philip Pain (CC BY 2.0) tomada en Newcastle el 9 de mayo de 1976, usada en la mitad inferior de la composición</a></li>
-</ul>
+
+<div class="references">
+  <ul>
+    <li><a href="https://assets.publishing.service.gov.uk/media/5422ffeeed915d1374000a11/9-1982_G-AWZT_and_YU-AJR.pdf" style="color: #315fea; text-decoration: none;">«Report on the accident of the Trident Three aircraft G-AWZT and the DC-9 aircraft YU-AJR above Zagreb VOR» — informe de la Comisión de Investigación de Accidentes de la Administración Federal de Aviación Civil de Yugoslavia (Beogrado, 25 de diciembre de 1976), reimpreso por Her Majesty's Stationery Office dentro de la colección de informes del AIB británico; PDF de 63 páginas en el repositorio oficial de publicaciones del Gobierno del Reino Unido, con la transcripción de las comunicaciones, los datos de los registradores y el estado del radar</a></li>
+    <li><a href="https://asn.flightsafety.org/asndb/329318" style="color: #315fea; text-decoration: none;">Aviation Safety Network (Flight Safety Foundation) — ficha del accidente del Trident G-AWZT: ocupantes y víctimas por aeronave, cinemática de la aproximación, citas textuales del informe oficial y enlace al PDF de la comisión</a></li>
+    <li><a href="https://ukaviation.aero/42-years-ago-today-british-airways-flight-in-mid-air-collision/" style="color: #315fea; text-decoration: none;">UK Aviation News (Nick Harding, 2018) — «42 Years ago today: British Airways flight in mid-air collision», crónica del suceso y del proceso judicial, con el resumen de las conclusiones del AIB</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Trident_3_-_G-AWZT_-_tragic_ending_(39469585575).jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons — «Trident 3 - G-AWZT - tragic ending», fotografía de Mike McBey (CC BY 2.0) tomada en el aeropuerto de Edimburgo hacia 1974-1975, usada en la mitad superior de la composición</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Inex-Adria_Aviopromet_McDonnell_Douglas_DC-9-32_YU-AJR.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons — «Inex-Adria Aviopromet McDonnell Douglas DC-9-32 YU-AJR», fotografía de Philip Pain (CC BY 2.0) tomada en Newcastle el 9 de mayo de 1976, usada en la mitad inferior de la composición</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

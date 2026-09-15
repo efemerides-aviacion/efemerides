@@ -83,13 +83,16 @@ Quien se acerque a los supervivientes encontrará el mismo rasgo que descolocó 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
-<ul>
-  <li><a href="https://pimaair.org/museum-aircraft/north-american-f-107a/" style="color: #315fea; text-decoration: none;">Pima Air &amp; Space Museum (Tucson) — ficha oficial del aparato expuesto «North American F-107A», con cronología de servicio y préstamo de 1974</a></li>
-  <li><a href="https://www.thisdayinaviation.com/10-september-1956/" style="color: #315fea; text-decoration: none;">This Day in Aviation (Bryan R. Swopes) — crónica «10 September 1956: primer vuelo del F-107A», con ficha técnica de época, incidente del aterrizaje y fotografías de la USAF</a></li>
-  <li><a href="https://www.skytamer.com/NA-212_YF-107A.html" style="color: #315fea; text-decoration: none;">Skytamer — monografía de archivo «North American YF-107A Ultra Sabre (NA-212)», con fotografía de personal del Museo de la Fuerza Aérea del 55-5119</a></li>
-  <li><a href="https://aviationsmilitaires.net/v3/kb/aircraft/show/1068/north-american-f-107-ultra-sabre" style="color: #315fea; text-decoration: none;">Aviations Militaires — ficha del programa: duración de cuarenta y tres minutos del vuelo inaugural, Mach 1,03, Mach 2 del 3 de noviembre y transferencia a la NACA</a></li>
-  <li><a href="https://airplanes-online.com/f107a-ultra-sabre.htm" style="color: #315fea; text-decoration: none;">Airplanes-Online — «F-107A Ultra Sabre», con fotografías de personal del Museo Nacional de la Fuerza Aérea del 55-5119 y cronología de la cancelación de 1957</a></li>
-</ul>
+
+<div class="references">
+  <ul>
+    <li><a href="https://pimaair.org/museum-aircraft/north-american-f-107a/" style="color: #315fea; text-decoration: none;">Pima Air &amp; Space Museum (Tucson) — ficha oficial del aparato expuesto «North American F-107A», con cronología de servicio y préstamo de 1974</a></li>
+    <li><a href="https://www.thisdayinaviation.com/10-september-1956/" style="color: #315fea; text-decoration: none;">This Day in Aviation (Bryan R. Swopes) — crónica «10 September 1956: primer vuelo del F-107A», con ficha técnica de época, incidente del aterrizaje y fotografías de la USAF</a></li>
+    <li><a href="https://www.skytamer.com/NA-212_YF-107A.html" style="color: #315fea; text-decoration: none;">Skytamer — monografía de archivo «North American YF-107A Ultra Sabre (NA-212)», con fotografía de personal del Museo de la Fuerza Aérea del 55-5119</a></li>
+    <li><a href="https://aviationsmilitaires.net/v3/kb/aircraft/show/1068/north-american-f-107-ultra-sabre" style="color: #315fea; text-decoration: none;">Aviations Militaires — ficha del programa: duración de cuarenta y tres minutos del vuelo inaugural, Mach 1,03, Mach 2 del 3 de noviembre y transferencia a la NACA</a></li>
+    <li><a href="https://airplanes-online.com/f107a-ultra-sabre.htm" style="color: #315fea; text-decoration: none;">Airplanes-Online — «F-107A Ultra Sabre», con fotografías de personal del Museo Nacional de la Fuerza Aérea del 55-5119 y cronología de la cancelación de 1957</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

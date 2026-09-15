@@ -86,14 +86,17 @@ El secreto terminó cuando Boeing consideró que revelar la silueta ya no compro
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
-<ul>
-  <li><a href="https://boeing.mediaroom.com/2002-10-18-Boeing-Unveils-Bird-of-Prey-Stealth-Technology-Demonstrator" style="color: #315fea; text-decoration: none;">Boeing — «Boeing Unveils Bird of Prey Stealth Technology Demonstrator», comunicado del 18 de octubre de 2002: finalidad, periodo 1992-1999, financiación de 67 millones de dólares, 38 vuelos, dimensiones, prestaciones, procesos de fabricación y transferencia al X-45A</a></li>
-  <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196041/boeing-bird-of-prey/" style="color: #315fea; text-decoration: none;">Museo Nacional de la Fuerza Aérea de Estados Unidos — ficha oficial del Bird of Prey: misión de baja observabilidad, campaña, soluciones técnicas, componentes comerciales, prestaciones y donación del ejemplar</a></li>
-  <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196732/boeing-x-45a-j-ucas/" style="color: #315fea; text-decoration: none;">Museo Nacional de la Fuerza Aérea de Estados Unidos — ficha oficial del Boeing X-45A: uso de la investigación del Bird of Prey, terminación del primer demostrador en septiembre de 2000 y primer vuelo en mayo de 2002</a></li>
-  <li><a href="https://www.flightglobal.com/archive/2002/10/boeings-secret-bird-of-prey-emerges-from-phantom-works/" style="color: #315fea; text-decoration: none;">FlightGlobal — «Boeing’s secret Bird of Prey emerges from Phantom Works», 22 de octubre de 2002: análisis contemporáneo de la revelación, los 38 vuelos, el coste y las tecnologías demostradas</a></li>
-  <li><a href="https://athlonoutdoors.com/article/boeing-bird-of-prey/" style="color: #315fea; text-decoration: none;">Athlon Outdoors — «Boeing’s Stealth Bird of Prey»: reconstrucción especializada de la campaña, fecha exacta del primer vuelo, pilotos y comportamiento inicial del demostrador</a></li>
-  <li><a href="https://commons.wikimedia.org/wiki/File:Boeing_Bird_of_Prey_USAF.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons — «Boeing Bird of Prey USAF», fotografía oficial del Museo Nacional de la Fuerza Aérea de Estados Unidos, de dominio público en Estados Unidos, utilizada para ilustrar el post</a></li>
-</ul>
+
+<div class="references">
+  <ul>
+    <li><a href="https://boeing.mediaroom.com/2002-10-18-Boeing-Unveils-Bird-of-Prey-Stealth-Technology-Demonstrator" style="color: #315fea; text-decoration: none;">Boeing — «Boeing Unveils Bird of Prey Stealth Technology Demonstrator», comunicado del 18 de octubre de 2002: finalidad, periodo 1992-1999, financiación de 67 millones de dólares, 38 vuelos, dimensiones, prestaciones, procesos de fabricación y transferencia al X-45A</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196041/boeing-bird-of-prey/" style="color: #315fea; text-decoration: none;">Museo Nacional de la Fuerza Aérea de Estados Unidos — ficha oficial del Bird of Prey: misión de baja observabilidad, campaña, soluciones técnicas, componentes comerciales, prestaciones y donación del ejemplar</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196732/boeing-x-45a-j-ucas/" style="color: #315fea; text-decoration: none;">Museo Nacional de la Fuerza Aérea de Estados Unidos — ficha oficial del Boeing X-45A: uso de la investigación del Bird of Prey, terminación del primer demostrador en septiembre de 2000 y primer vuelo en mayo de 2002</a></li>
+    <li><a href="https://www.flightglobal.com/archive/2002/10/boeings-secret-bird-of-prey-emerges-from-phantom-works/" style="color: #315fea; text-decoration: none;">FlightGlobal — «Boeing’s secret Bird of Prey emerges from Phantom Works», 22 de octubre de 2002: análisis contemporáneo de la revelación, los 38 vuelos, el coste y las tecnologías demostradas</a></li>
+    <li><a href="https://athlonoutdoors.com/article/boeing-bird-of-prey/" style="color: #315fea; text-decoration: none;">Athlon Outdoors — «Boeing’s Stealth Bird of Prey»: reconstrucción especializada de la campaña, fecha exacta del primer vuelo, pilotos y comportamiento inicial del demostrador</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Boeing_Bird_of_Prey_USAF.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons — «Boeing Bird of Prey USAF», fotografía oficial del Museo Nacional de la Fuerza Aérea de Estados Unidos, de dominio público en Estados Unidos, utilizada para ilustrar el post</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

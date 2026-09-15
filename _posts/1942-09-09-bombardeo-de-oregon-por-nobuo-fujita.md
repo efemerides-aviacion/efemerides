@@ -84,13 +84,16 @@ Hoy un sendero interpretativo, el Bombsite Trail, conduce entre helechos y secuo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
-<ul>
-  <li><a href="https://oregontic.com/oregon-historical-markers/japanese-attack-on-oregon/" style="color: #315fea; text-decoration: none;">Oregon Travel Information Council — texto oficial del marcador histórico «Japanese Attack on Oregon», avenida Constitución, Brookings</a></li>
-  <li><a href="https://www.oregonencyclopedia.org/articles/brookings/" style="color: #315fea; text-decoration: none;">The Oregon Encyclopedia (Oregon Historical Society / Universidad Estatal de Portland) — entrada «Brookings»</a></li>
-  <li><a href="https://www.dvidshub.net/news/435846/bombing-oregon-80th-anniversary-japanese-attacks-state" style="color: #315fea; text-decoration: none;">Defense Visual Information Distribution Service — «The Bombing of Oregon: 80th Anniversary of the Japanese attacks on the State», Oficina de Asuntos Públicos de la Guardia Nacional de Oregón, 19 de noviembre de 2022</a></li>
-  <li><a href="https://www.history.com/this-day-in-history/september-9/japanese-bomb-u-s-mainland" style="color: #315fea; text-decoration: none;">History.com — «Japanese bomb U.S. mainland», This Day in History, 9 de septiembre de 1942</a></li>
-  <li><a href="https://ww2db.com/person_bio.php?person_id=508" style="color: #315fea; text-decoration: none;">World War II Database (C. Peter Chen) — biografía documental de Nobuo Fujita, con cronología de misiones de 1942</a></li>
-</ul>
+
+<div class="references">
+  <ul>
+    <li><a href="https://oregontic.com/oregon-historical-markers/japanese-attack-on-oregon/" style="color: #315fea; text-decoration: none;">Oregon Travel Information Council — texto oficial del marcador histórico «Japanese Attack on Oregon», avenida Constitución, Brookings</a></li>
+    <li><a href="https://www.oregonencyclopedia.org/articles/brookings/" style="color: #315fea; text-decoration: none;">The Oregon Encyclopedia (Oregon Historical Society / Universidad Estatal de Portland) — entrada «Brookings»</a></li>
+    <li><a href="https://www.dvidshub.net/news/435846/bombing-oregon-80th-anniversary-japanese-attacks-state" style="color: #315fea; text-decoration: none;">Defense Visual Information Distribution Service — «The Bombing of Oregon: 80th Anniversary of the Japanese attacks on the State», Oficina de Asuntos Públicos de la Guardia Nacional de Oregón, 19 de noviembre de 2022</a></li>
+    <li><a href="https://www.history.com/this-day-in-history/september-9/japanese-bomb-u-s-mainland" style="color: #315fea; text-decoration: none;">History.com — «Japanese bomb U.S. mainland», This Day in History, 9 de septiembre de 1942</a></li>
+    <li><a href="https://ww2db.com/person_bio.php?person_id=508" style="color: #315fea; text-decoration: none;">World War II Database (C. Peter Chen) — biografía documental de Nobuo Fujita, con cronología de misiones de 1942</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

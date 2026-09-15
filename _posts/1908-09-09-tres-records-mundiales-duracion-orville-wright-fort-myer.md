@@ -79,13 +79,16 @@ Aquel miércoles, un <a href="https://efemerides-aviacion.github.io/efemerides/n
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
-<ul>
-  <li><a href="https://www.upi.com/Archives/1908/09/09/Wright-shatters-airship-records/9951381418780/" style="color: #315fea; text-decoration: none;">United Press International — «Wright shatters airship records», despacho del 9 de septiembre de 1908</a></li>
-  <li><a href="https://www.army.mil/article/239519/the_u_s_army_takes_flight_with_signal_corps_no_1" style="color: #315fea; text-decoration: none;">U.S. Army — Susan Thompson, «The U.S. Army Takes Flight with Signal Corps No. 1», 30 de septiembre de 2020</a></li>
-  <li><a href="https://www.centennialofflight.net/chrono/log/1908FortMyer.htm" style="color: #315fea; text-decoration: none;">Peter M. Bowers — «Flight Log: 1908 Fort Myer, Va.», en Wilbur and Orville Wright: A Chronology, U.S. Centennial of Flight Commission</a></li>
-  <li><a href="https://www.centennialofflight.net/chrono/1908.htm" style="color: #315fea; text-decoration: none;">Jim Goss — «Wilbur and Orville Wright: A Chronology — 1908», U.S. Centennial of Flight Commission</a></li>
-  <li><a href="https://sova.si.edu/record/nasm.xxxx.0904" style="color: #315fea; text-decoration: none;">Archivos del National Air and Space Museum (Smithsonian) — «Fort Myer Army Trial Flight Photographs» de W. S. Clime, NASM.XXXX.0904</a></li>
-</ul>
+
+<div class="references">
+  <ul>
+    <li><a href="https://www.upi.com/Archives/1908/09/09/Wright-shatters-airship-records/9951381418780/" style="color: #315fea; text-decoration: none;">United Press International — «Wright shatters airship records», despacho del 9 de septiembre de 1908</a></li>
+    <li><a href="https://www.army.mil/article/239519/the_u_s_army_takes_flight_with_signal_corps_no_1" style="color: #315fea; text-decoration: none;">U.S. Army — Susan Thompson, «The U.S. Army Takes Flight with Signal Corps No. 1», 30 de septiembre de 2020</a></li>
+    <li><a href="https://www.centennialofflight.net/chrono/log/1908FortMyer.htm" style="color: #315fea; text-decoration: none;">Peter M. Bowers — «Flight Log: 1908 Fort Myer, Va.», en Wilbur and Orville Wright: A Chronology, U.S. Centennial of Flight Commission</a></li>
+    <li><a href="https://www.centennialofflight.net/chrono/1908.htm" style="color: #315fea; text-decoration: none;">Jim Goss — «Wilbur and Orville Wright: A Chronology — 1908», U.S. Centennial of Flight Commission</a></li>
+    <li><a href="https://sova.si.edu/record/nasm.xxxx.0904" style="color: #315fea; text-decoration: none;">Archivos del National Air and Space Museum (Smithsonian) — «Fort Myer Army Trial Flight Photographs» de W. S. Clime, NASM.XXXX.0904</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

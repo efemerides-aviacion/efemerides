@@ -89,14 +89,17 @@ La enseñanza aeronáutica más profunda fue que los supuestos de seguridad pued
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Referencias Verificadas
-<ul>
-  <li><a href="https://www.govinfo.gov/content/pkg/GPO-911REPORT/pdf/GPO-911REPORT.pdf" style="color: #315fea; text-decoration: none;">Comisión Nacional sobre Ataques Terroristas contra Estados Unidos — Informe de la Comisión del 11-S: cronología de los cuatro vuelos, secuestros, respuesta de la FAA y defensa aérea, planificación y recomendaciones</a></li>
-  <li><a href="https://www.archives.gov/files/research/9-11/staff-report-sept2005.pdf" style="color: #315fea; text-decoration: none;">Archivos Nacionales de Estados Unidos — informe de personal «The Four Flights: A Chronology»: secuencia detallada de los vuelos 11, 175, 77 y 93</a></li>
-  <li><a href="https://www.fbi.gov/history/cases-and-criminals/911-investigation" style="color: #315fea; text-decoration: none;">FBI — investigación del 11-S: identificación de los 19 secuestradores y desarrollo de PENTTBOM</a></li>
-  <li><a href="https://www.nist.gov/world-trade-center-investigation/about-investigation" style="color: #315fea; text-decoration: none;">Instituto Nacional de Estándares y Tecnología — investigación del World Trade Center: impactos, incendios, evacuación y secuencias probables de derrumbe</a></li>
-  <li><a href="https://www.fbi.gov/news/stories/remembering-911-attacks-20-years-ago-shaped-todays-fbi-082621" style="color: #315fea; text-decoration: none;">FBI — «Remembering 9/11»: víctimas, respuesta institucional, investigación y efectos duraderos sobre los intervinientes</a></li>
-  <li><a href="https://commons.wikimedia.org/wiki/File:World-Trade-Center_9-11.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons y Biblioteca del Congreso — fotografía anónima de la Torre Norte después del derrumbe de la Torre Sur, sin restricciones de copyright conocidas</a></li>
-</ul>
+
+<div class="references">
+  <ul>
+    <li><a href="https://www.govinfo.gov/content/pkg/GPO-911REPORT/pdf/GPO-911REPORT.pdf" style="color: #315fea; text-decoration: none;">Comisión Nacional sobre Ataques Terroristas contra Estados Unidos — Informe de la Comisión del 11-S: cronología de los cuatro vuelos, secuestros, respuesta de la FAA y defensa aérea, planificación y recomendaciones</a></li>
+    <li><a href="https://www.archives.gov/files/research/9-11/staff-report-sept2005.pdf" style="color: #315fea; text-decoration: none;">Archivos Nacionales de Estados Unidos — informe de personal «The Four Flights: A Chronology»: secuencia detallada de los vuelos 11, 175, 77 y 93</a></li>
+    <li><a href="https://www.fbi.gov/history/cases-and-criminals/911-investigation" style="color: #315fea; text-decoration: none;">FBI — investigación del 11-S: identificación de los 19 secuestradores y desarrollo de PENTTBOM</a></li>
+    <li><a href="https://www.nist.gov/world-trade-center-investigation/about-investigation" style="color: #315fea; text-decoration: none;">Instituto Nacional de Estándares y Tecnología — investigación del World Trade Center: impactos, incendios, evacuación y secuencias probables de derrumbe</a></li>
+    <li><a href="https://www.fbi.gov/news/stories/remembering-911-attacks-20-years-ago-shaped-todays-fbi-082621" style="color: #315fea; text-decoration: none;">FBI — «Remembering 9/11»: víctimas, respuesta institucional, investigación y efectos duraderos sobre los intervinientes</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:World-Trade-Center_9-11.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons y Biblioteca del Congreso — fotografía anónima de la Torre Norte después del derrumbe de la Torre Sur, sin restricciones de copyright conocidas</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 

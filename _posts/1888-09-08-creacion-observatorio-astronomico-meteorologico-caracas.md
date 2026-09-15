@@ -70,12 +70,15 @@ Reconocido en la actualidad como Observatorio Naval Cagigal (bajo la tutela del 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
-<ul>
-  <li><a href="https://saber.ucv.ve/bitstream/10872/16667/1/TEG%20Carlos%20R.%20Ferrer%20L..pdf" style="color: #315fea; text-decoration: none;">Universidad Central de Venezuela (UCV) – Desarrollo de la meteorología en Venezuela, Decreto en Gaceta Oficial N.º 4.431</a></li>
-  <li><a href="http://shn.mil.ve/" style="color: #315fea; text-decoration: none;">Servicio de Hidrografía y Navegación (SHN), Armada Bolivariana – Reseña histórica del Observatorio Naval Cagigal</a></li>
-  <li><a href="https://haimaneltroudi.com/observatorio-cagigal-testigo-de-la-evolucion-de-la-ciencia-en-venezuela/" style="color: #315fea; text-decoration: none;">Haiman El Troudi – Observatorio Cagigal testigo de la evolución de la ciencia en Venezuela</a></li>
-  <li><a href="https://www.actualidad-24.com/2015/09/primer-telescopio-observatorio-astronomico-Venezuela.html" style="color: #315fea; text-decoration: none;">Actualidad-24 – Primer Observatorio Astronómico de Venezuela</a></li>
-</ul>
+
+<div class="references">
+  <ul>
+    <li><a href="https://saber.ucv.ve/bitstream/10872/16667/1/TEG%20Carlos%20R.%20Ferrer%20L..pdf" style="color: #315fea; text-decoration: none;">Universidad Central de Venezuela (UCV) – Desarrollo de la meteorología en Venezuela, Decreto en Gaceta Oficial N.º 4.431</a></li>
+    <li><a href="http://shn.mil.ve/" style="color: #315fea; text-decoration: none;">Servicio de Hidrografía y Navegación (SHN), Armada Bolivariana – Reseña histórica del Observatorio Naval Cagigal</a></li>
+    <li><a href="https://haimaneltroudi.com/observatorio-cagigal-testigo-de-la-evolucion-de-la-ciencia-en-venezuela/" style="color: #315fea; text-decoration: none;">Haiman El Troudi – Observatorio Cagigal testigo de la evolución de la ciencia en Venezuela</a></li>
+    <li><a href="https://www.actualidad-24.com/2015/09/primer-telescopio-observatorio-astronomico-Venezuela.html" style="color: #315fea; text-decoration: none;">Actualidad-24 – Primer Observatorio Astronómico de Venezuela</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

@@ -75,12 +75,15 @@ Esta purga de cerebros aceleró dramáticamente la tecnología de ambos bloques.
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
-<ul>
-  <li><a href="https://airandspace.si.edu/stories/editorial/vengeance-weapon-2-70th-anniversary-v-2-campaign" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – “Vengeance Weapon 2”: 70th Anniversary of the V-2 Campaign</a></li>
-  <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196226/v-2-with-meillerwagen/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force – V-2 with Meillerwagen</a></li>
-  <li><a href="https://www.missiledefenseadvocacy.org/missile-threat-and-proliferation/combat-missile-launches/" style="color: #315fea; text-decoration: none;">Missile Defense Advocacy Alliance – Combat Launches (1944-1945: World War II)</a></li>
-  <li><a href="https://alondoninheritance.com/out-of-london/launch-and-landing-sites-of-the-first-v-2-on-london/" style="color: #315fea; text-decoration: none;">A London Inheritance – Launch And Landing Sites Of The First V-2 On London</a></li>
-</ul>
+
+<div class="references">
+  <ul>
+    <li><a href="https://airandspace.si.edu/stories/editorial/vengeance-weapon-2-70th-anniversary-v-2-campaign" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – “Vengeance Weapon 2”: 70th Anniversary of the V-2 Campaign</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196226/v-2-with-meillerwagen/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force – V-2 with Meillerwagen</a></li>
+    <li><a href="https://www.missiledefenseadvocacy.org/missile-threat-and-proliferation/combat-missile-launches/" style="color: #315fea; text-decoration: none;">Missile Defense Advocacy Alliance – Combat Launches (1944-1945: World War II)</a></li>
+    <li><a href="https://alondoninheritance.com/out-of-london/launch-and-landing-sites-of-the-first-v-2-on-london/" style="color: #315fea; text-decoration: none;">A London Inheritance – Launch And Landing Sites Of The First V-2 On London</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
