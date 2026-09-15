@@ -120,15 +120,19 @@ De la carrera del aparato sobrevive sobre todo la memoria italiana. Las Frecce T
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://aviastar.org/gallery/g91.html" style="color: #315fea; text-decoration: none;">Aircraft Profile n.º 119: «Fiat G.91», monografía técnica con el detalle del programa de ensayos y la descripción estructural</a>
-- <a href="https://en.wikipedia.org/wiki/NBMR-1" style="color: #315fea; text-decoration: none;">NBMR-1 — Wikipedia en inglés, con la relación de proyectos presentados y el desarrollo del concurso</a>
-- <a href="https://en.wikipedia.org/wiki/Fiat_G.91" style="color: #315fea; text-decoration: none;">Fiat G.91 — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Fiat_G.91" style="color: #315fea; text-decoration: none;">Fiat G.91 — Wikipedia en español</a>
-- <a href="https://www.key.aero/article/fiat-g91" style="color: #315fea; text-decoration: none;">Key Aero: «Fiat G.91», con el contexto de la conferencia de Lisboa de 1952 y la doctrina de apoyo aéreo cercano</a>
-- <a href="https://migflug.com/aircraft/fiat-g91/" style="color: #315fea; text-decoration: none;">MiGFlug: ficha del Fiat G.91, historia, especificaciones y empleo operativo</a>
-- <a href="https://vintageaviationnews.com/aviation-museum-news/frecce-tricolori-veteran-fiat-g-91-pan-returns-to-italy.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News: regreso a Italia de un G.91 PAN veterano de las Frecce Tricolori</a>
-- <a href="https://fliegerhorst-oldenburg.de/wp-content/uploads/2019/07/Gina_die_kleine_Italienerin.pdf" style="color: #315fea; text-decoration: none;">Fliegerhorst Oldenburg: «Gina, die kleine Italienerin», monografía sobre el G.91 en la Luftwaffe</a>
-- <a href="https://svppbellum.blogspot.com/2018/11/fiat-aviazione-g-91.html" style="color: #315fea; text-decoration: none;">Si vis pacem, para bellum: «Fiat Aviazione G 91», con el origen del apodo y el desarrollo del G.91Y</a>
+<div class="references">
+  <ul>
+    <li><a href="https://aviastar.org/gallery/g91.html" style="color: #315fea; text-decoration: none;">Aircraft Profile n.º 119: «Fiat G.91», monografía técnica con el detalle del programa de ensayos y la descripción estructural</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/NBMR-1" style="color: #315fea; text-decoration: none;">NBMR-1 — Wikipedia en inglés, con la relación de proyectos presentados y el desarrollo del concurso</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Fiat_G.91" style="color: #315fea; text-decoration: none;">Fiat G.91 — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Fiat_G.91" style="color: #315fea; text-decoration: none;">Fiat G.91 — Wikipedia en español</a></li>
+    <li><a href="https://www.key.aero/article/fiat-g91" style="color: #315fea; text-decoration: none;">Key Aero: «Fiat G.91», con el contexto de la conferencia de Lisboa de 1952 y la doctrina de apoyo aéreo cercano</a></li>
+    <li><a href="https://migflug.com/aircraft/fiat-g91/" style="color: #315fea; text-decoration: none;">MiGFlug: ficha del Fiat G.91, historia, especificaciones y empleo operativo</a></li>
+    <li><a href="https://vintageaviationnews.com/aviation-museum-news/frecce-tricolori-veteran-fiat-g-91-pan-returns-to-italy.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News: regreso a Italia de un G.91 PAN veterano de las Frecce Tricolori</a></li>
+    <li><a href="https://fliegerhorst-oldenburg.de/wp-content/uploads/2019/07/Gina_die_kleine_Italienerin.pdf" style="color: #315fea; text-decoration: none;">Fliegerhorst Oldenburg: «Gina, die kleine Italienerin», monografía sobre el G.91 en la Luftwaffe</a></li>
+    <li><a href="https://svppbellum.blogspot.com/2018/11/fiat-aviazione-g-91.html" style="color: #315fea; text-decoration: none;">Si vis pacem, para bellum: «Fiat Aviazione G 91», con el origen del apodo y el desarrollo del G.91Y</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

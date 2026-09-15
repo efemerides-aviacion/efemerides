@@ -107,12 +107,16 @@ El Apolo 15 fue la primera misión cuya tripulación no pasó cuarentena al regr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Referencias Verificadas
 
-- <a href="https://www.nasa.gov/mission/apollo-15/" style="color: #315fea; text-decoration: none;">NASA: página oficial de la misión Apolo 15</a>
-- <a href="https://www.nasa.gov/image-article/this-week-nasa-history-apollo-15-astronauts-deploy-first-lunar-roving-vehicle-july-31-1971/" style="color: #315fea; text-decoration: none;">NASA: «Apollo 15 Astronauts Deploy First Lunar Roving Vehicle», 31 de julio de 1971</a>
-- <a href="https://www.nasa.gov/history/50-years-ago-first-apollo-astronauts-to-drive-on-the-moon-took-final-cruise/" style="color: #315fea; text-decoration: none;">NASA: «50 Years Ago: First Apollo Astronauts to Drive on the Moon Took Final Cruise»</a>
-- <a href="https://airandspace.si.edu/collection-objects/command-module-apollo-15/nasm_A19760038000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: ficha del módulo de mando <em>Endeavour</em></a>
-- <a href="https://en.wikipedia.org/wiki/Apollo_15" style="color: #315fea; text-decoration: none;">Apollo 15 — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Apolo_15" style="color: #315fea; text-decoration: none;">Apolo 15 — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.nasa.gov/mission/apollo-15/" style="color: #315fea; text-decoration: none;">NASA: página oficial de la misión Apolo 15</a></li>
+    <li><a href="https://www.nasa.gov/image-article/this-week-nasa-history-apollo-15-astronauts-deploy-first-lunar-roving-vehicle-july-31-1971/" style="color: #315fea; text-decoration: none;">NASA: «Apollo 15 Astronauts Deploy First Lunar Roving Vehicle», 31 de julio de 1971</a></li>
+    <li><a href="https://www.nasa.gov/history/50-years-ago-first-apollo-astronauts-to-drive-on-the-moon-took-final-cruise/" style="color: #315fea; text-decoration: none;">NASA: «50 Years Ago: First Apollo Astronauts to Drive on the Moon Took Final Cruise»</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/command-module-apollo-15/nasm_A19760038000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: ficha del módulo de mando <em>Endeavour</em></a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Apollo_15" style="color: #315fea; text-decoration: none;">Apollo 15 — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Apolo_15" style="color: #315fea; text-decoration: none;">Apolo 15 — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 <div class="note-box">

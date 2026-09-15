@@ -105,12 +105,16 @@ Queda además una lección de método. El U-2 se diseñó, construyó y llevó a
 
 ## Referencias Verificadas
 
-- <a href="https://www.thisdayinaviation.com/1-august-1955/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «1 August 1955», con el relato del vuelo involuntario y del primer vuelo de pruebas del 4 de agosto</a>
-- <a href="https://en.wikipedia.org/wiki/Lockheed_U-2" style="color: #315fea; text-decoration: none;">Lockheed U-2 — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Lockheed_U-2" style="color: #315fea; text-decoration: none;">Lockheed U-2 — Wikipedia en español</a>
-- <a href="https://airandspace.si.edu/collection-objects/lockheed-u-2c/nasm_A19820380000" style="color: #315fea; text-decoration: none;">National Air and Space Museum, Smithsonian Institution: ficha del Lockheed U-2C</a>
-- <a href="https://swap.stanford.edu/was/20160311035101mp_/https://www.cia.gov/news-information/featured-story-archive/2015-featured-story-archive/area-51-u-2-and-the-accidental-test-flight.html" style="color: #315fea; text-decoration: none;">Central Intelligence Agency: «Area 51, U-2 and the Accidental Test Flight», versión archivada</a>
-- <a href="https://www.globalsecurity.org/org/news/2003/030130-dragonlady01.htm" style="color: #315fea; text-decoration: none;">Air Combat Command: «U-2's high-flying history as eye in the sky», reproducido por GlobalSecurity.org</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.thisdayinaviation.com/1-august-1955/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «1 August 1955», con el relato del vuelo involuntario y del primer vuelo de pruebas del 4 de agosto</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lockheed_U-2" style="color: #315fea; text-decoration: none;">Lockheed U-2 — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Lockheed_U-2" style="color: #315fea; text-decoration: none;">Lockheed U-2 — Wikipedia en español</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/lockheed-u-2c/nasm_A19820380000" style="color: #315fea; text-decoration: none;">National Air and Space Museum, Smithsonian Institution: ficha del Lockheed U-2C</a></li>
+    <li><a href="https://swap.stanford.edu/was/20160311035101mp_/https://www.cia.gov/news-information/featured-story-archive/2015-featured-story-archive/area-51-u-2-and-the-accidental-test-flight.html" style="color: #315fea; text-decoration: none;">Central Intelligence Agency: «Area 51, U-2 and the Accidental Test Flight», versión archivada</a></li>
+    <li><a href="https://www.globalsecurity.org/org/news/2003/030130-dragonlady01.htm" style="color: #315fea; text-decoration: none;">Air Combat Command: «U-2's high-flying history as eye in the sky», reproducido por GlobalSecurity.org</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

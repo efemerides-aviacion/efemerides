@@ -106,11 +106,15 @@ La familia iniciada con <a href="https://efemerides-aviacion.github.io/efemeride
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195777/lockheed-yf-12a/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: ficha del Lockheed YF-12A</a>
-- <a href="https://www.thisdayinaviation.com/7-august-1963/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «7 August 1963», con el detalle del primer vuelo y el destino de los tres ejemplares</a>
-- <a href="https://www.nasa.gov/image-article/yf-12a/" style="color: #315fea; text-decoration: none;">NASA: ficha gráfica del YF-12A en su programa de investigación de crucero supersónico</a>
-- <a href="https://en.wikipedia.org/wiki/Lockheed_YF-12" style="color: #315fea; text-decoration: none;">Lockheed YF-12 — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Lockheed_YF-12" style="color: #315fea; text-decoration: none;">Lockheed YF-12 — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195777/lockheed-yf-12a/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: ficha del Lockheed YF-12A</a></li>
+    <li><a href="https://www.thisdayinaviation.com/7-august-1963/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «7 August 1963», con el detalle del primer vuelo y el destino de los tres ejemplares</a></li>
+    <li><a href="https://www.nasa.gov/image-article/yf-12a/" style="color: #315fea; text-decoration: none;">NASA: ficha gráfica del YF-12A en su programa de investigación de crucero supersónico</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lockheed_YF-12" style="color: #315fea; text-decoration: none;">Lockheed YF-12 — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Lockheed_YF-12" style="color: #315fea; text-decoration: none;">Lockheed YF-12 — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

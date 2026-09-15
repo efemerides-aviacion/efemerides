@@ -72,10 +72,14 @@ Tras el accidente, el Boeing 767 C-GAUN fue reparado de emergencia en el propio 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Referencias Verificadas
-- <a href="https://www.cbc.ca/news/canada/manitoba/gimli-glider-35th-anniversary-1.4754039" style="color: #315fea; text-decoration: none;">CBC News: Reportaje Especial del 35.º Aniversario del Incidente del Gimli Glider</a>
-- <a href="https://time.com/archive/6700860/a-dead-stick-landing/" style="color: #315fea; text-decoration: none;">Time Magazine: Cobertura Periodística Original del Aterrizaje sin Motores del Vuelo 143</a>
-- <a href="https://en.wikipedia.org/wiki/Gimli_Glider" style="color: #315fea; text-decoration: none;">Wikipedia: Gimli Glider (artículo enciclopédico de referencia)</a>
-- <a href="https://www.faa.gov/sites/faa.gov/files/2024-12/AirCanada143_C-GAUN.pdf" style="color: #315fea; text-decoration: none;">FAA / Board of Inquiry — Air Canada Boeing 767 C-GAUN, Gimli, 23 July 1983 (informe Lockwood, 1985)</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.cbc.ca/news/canada/manitoba/gimli-glider-35th-anniversary-1.4754039" style="color: #315fea; text-decoration: none;">CBC News: Reportaje Especial del 35.º Aniversario del Incidente del Gimli Glider</a></li>
+    <li><a href="https://time.com/archive/6700860/a-dead-stick-landing/" style="color: #315fea; text-decoration: none;">Time Magazine: Cobertura Periodística Original del Aterrizaje sin Motores del Vuelo 143</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Gimli_Glider" style="color: #315fea; text-decoration: none;">Wikipedia: Gimli Glider (artículo enciclopédico de referencia)</a></li>
+    <li><a href="https://www.faa.gov/sites/faa.gov/files/2024-12/AirCanada143_C-GAUN.pdf" style="color: #315fea; text-decoration: none;">FAA / Board of Inquiry — Air Canada Boeing 767 C-GAUN, Gimli, 23 July 1983 (informe Lockwood, 1985)</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 <div class="note-box">

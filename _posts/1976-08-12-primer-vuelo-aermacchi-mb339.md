@@ -120,12 +120,16 @@ Queda por último la dimensión simbólica, que su diseñador no pudo prever. Un
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://en.wikipedia.org/wiki/Aermacchi_MB-339" style="color: #315fea; text-decoration: none;">Aermacchi MB-339 — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Aermacchi_MB-339" style="color: #315fea; text-decoration: none;">Aermacchi MB-339 — Wikipedia en español</a>
-- <a href="https://www.globalmilitary.net/aircraft/mb-339/" style="color: #315fea; text-decoration: none;">Global Military: ficha técnica del MB-339, con especificaciones, variantes y operadores</a>
-- <a href="https://aeropedia.com.au/content/macchi-mb-339cb/" style="color: #315fea; text-decoration: none;">Aeropedia, The Encyclopedia of Aircraft: matrículas de los prototipos I-NOVE e I-NINE</a>
-- <a href="https://www.thedrive.com/the-war-zone/40025/this-is-what-its-like-to-fly-italys-mb-339-jet-trainer" style="color: #315fea; text-decoration: none;">The War Zone: cómo se vuela el MB-339, relato en primera persona</a>
-- <a href="https://www.globalsecurity.org/military/world/europe/mb-339.htm" style="color: #315fea; text-decoration: none;">GlobalSecurity: ficha técnica y variantes del MB-339</a>
+<div class="references">
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Aermacchi_MB-339" style="color: #315fea; text-decoration: none;">Aermacchi MB-339 — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Aermacchi_MB-339" style="color: #315fea; text-decoration: none;">Aermacchi MB-339 — Wikipedia en español</a></li>
+    <li><a href="https://www.globalmilitary.net/aircraft/mb-339/" style="color: #315fea; text-decoration: none;">Global Military: ficha técnica del MB-339, con especificaciones, variantes y operadores</a></li>
+    <li><a href="https://aeropedia.com.au/content/macchi-mb-339cb/" style="color: #315fea; text-decoration: none;">Aeropedia, The Encyclopedia of Aircraft: matrículas de los prototipos I-NOVE e I-NINE</a></li>
+    <li><a href="https://www.thedrive.com/the-war-zone/40025/this-is-what-its-like-to-fly-italys-mb-339-jet-trainer" style="color: #315fea; text-decoration: none;">The War Zone: cómo se vuela el MB-339, relato en primera persona</a></li>
+    <li><a href="https://www.globalsecurity.org/military/world/europe/mb-339.htm" style="color: #315fea; text-decoration: none;">GlobalSecurity: ficha técnica y variantes del MB-339</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

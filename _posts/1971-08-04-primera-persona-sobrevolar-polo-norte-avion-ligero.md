@@ -96,14 +96,18 @@ Su aportación de fondo, sin embargo, no está en las vitrinas. Aquella travesí
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://www.thisdayinaviation.com/tag/sheila-scott-obe/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «11 June–4 August 1971: Sheila Scott, O.B.E.», con el itinerario completo y los registros FAI</a>
-- <a href="https://airandspace.si.edu/collection-archive/sheila-christine-hopkins-scott-journey-log-book/sova-nasm-xxxx-0863" style="color: #315fea; text-decoration: none;">National Air and Space Museum, Smithsonian Institution: cuaderno de bitácora de Sheila Christine Hopkins Scott, NASM.XXXX.0863</a>
-- <a href="https://en.wikipedia.org/wiki/Sheila_Scott" style="color: #315fea; text-decoration: none;">Sheila Scott — Wikipedia en inglés</a>
-- <a href="https://en.wikipedia.org/wiki/Piper_PA-23" style="color: #315fea; text-decoration: none;">Piper PA-23 Apache/Aztec — Wikipedia en inglés</a>
-- <a href="https://commons.wikimedia.org/wiki/File:SheilaScott_Mythre_1971.jpg" style="color: #315fea; text-decoration: none;">NASA, Great Images in NASA: ficha de la fotografía de Sheila Scott con el <em>Mythre</em>, vía Wikimedia Commons</a>
-- <a href="https://en.wikipedia.org/wiki/Nimbus_program" style="color: #315fea; text-decoration: none;">Programa Nimbus — Wikipedia en inglés</a>
-- <a href="https://en.wikipedia.org/wiki/Ninety-Nines" style="color: #315fea; text-decoration: none;">The Ninety-Nines — Wikipedia en inglés</a>
-- <a href="https://www.bbc.com/news/articles/c3rz377w5y8o" style="color: #315fea; text-decoration: none;">BBC News: reportaje sobre la aviadora de Worcester y su trayectoria</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.thisdayinaviation.com/tag/sheila-scott-obe/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «11 June–4 August 1971: Sheila Scott, O.B.E.», con el itinerario completo y los registros FAI</a></li>
+    <li><a href="https://airandspace.si.edu/collection-archive/sheila-christine-hopkins-scott-journey-log-book/sova-nasm-xxxx-0863" style="color: #315fea; text-decoration: none;">National Air and Space Museum, Smithsonian Institution: cuaderno de bitácora de Sheila Christine Hopkins Scott, NASM.XXXX.0863</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Sheila_Scott" style="color: #315fea; text-decoration: none;">Sheila Scott — Wikipedia en inglés</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Piper_PA-23" style="color: #315fea; text-decoration: none;">Piper PA-23 Apache/Aztec — Wikipedia en inglés</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:SheilaScott_Mythre_1971.jpg" style="color: #315fea; text-decoration: none;">NASA, Great Images in NASA: ficha de la fotografía de Sheila Scott con el <em>Mythre</em>, vía Wikimedia Commons</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Nimbus_program" style="color: #315fea; text-decoration: none;">Programa Nimbus — Wikipedia en inglés</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Ninety-Nines" style="color: #315fea; text-decoration: none;">The Ninety-Nines — Wikipedia en inglés</a></li>
+    <li><a href="https://www.bbc.com/news/articles/c3rz377w5y8o" style="color: #315fea; text-decoration: none;">BBC News: reportaje sobre la aviadora de Worcester y su trayectoria</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

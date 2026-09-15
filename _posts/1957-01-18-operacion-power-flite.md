@@ -98,11 +98,15 @@ Queda además una lección sobre la naturaleza de estas demostraciones. De los c
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 
-- <a href="https://www.thisdayinaviation.com/16-january-1957/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «16–18 January 1957», con el detalle de los aparatos, las tripulaciones y los reabastecimientos</a>
-- <a href="https://web.archive.org/web/20100907070919/http://www.airforcehistory.hq.af.mil/PopTopics/ladies.htm" style="color: #315fea; text-decoration: none;">Air Force History Support Office: «Lucky Ladies», relación oficial de las tres circunnavegaciones</a>
-- <a href="https://en.wikipedia.org/wiki/Operation_Power_Flite" style="color: #315fea; text-decoration: none;">Operation Power Flite — Wikipedia en inglés, con la relación nominal de las tres tripulaciones</a>
-- <a href="https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress" style="color: #315fea; text-decoration: none;">Boeing B-52 Stratofortress — Wikipedia en inglés</a>
-- <a href="https://es.wikipedia.org/wiki/Boeing_B-52_Stratofortress" style="color: #315fea; text-decoration: none;">Boeing B-52 Stratofortress — Wikipedia en español</a>
+<div class="references">
+  <ul>
+    <li><a href="https://www.thisdayinaviation.com/16-january-1957/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «16–18 January 1957», con el detalle de los aparatos, las tripulaciones y los reabastecimientos</a></li>
+    <li><a href="https://web.archive.org/web/20100907070919/http://www.airforcehistory.hq.af.mil/PopTopics/ladies.htm" style="color: #315fea; text-decoration: none;">Air Force History Support Office: «Lucky Ladies», relación oficial de las tres circunnavegaciones</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Operation_Power_Flite" style="color: #315fea; text-decoration: none;">Operation Power Flite — Wikipedia en inglés, con la relación nominal de las tres tripulaciones</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress" style="color: #315fea; text-decoration: none;">Boeing B-52 Stratofortress — Wikipedia en inglés</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Boeing_B-52_Stratofortress" style="color: #315fea; text-decoration: none;">Boeing B-52 Stratofortress — Wikipedia en español</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">

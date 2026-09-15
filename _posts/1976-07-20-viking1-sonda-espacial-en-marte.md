@@ -73,10 +73,14 @@ Las miles de fotografías en alta resolución transmitidas por el orbitador y el
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Referencias Verificadas
-- <a href="https://science.nasa.gov/mission/viking/" style="color: #315fea; text-decoration: none;">NASA Science: Misión Oficial del Programa Viking</a>
-- <a href="https://www.jpl.nasa.gov/missions/viking-1/" style="color: #315fea; text-decoration: none;">NASA JPL: Resumen Misión Viking 1 y Galería Fotográfica de Chryse Planitia</a>
-- <a href="https://es.wikipedia.org/wiki/Viking_1" style="color: #315fea; text-decoration: none;">Wikipedia: Misión Viking 1 (artículo enciclopédico de contraste)</a>
-- <a href="https://en.wikipedia.org/wiki/Viking_1" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Viking 1</a>
+<div class="references">
+  <ul>
+    <li><a href="https://science.nasa.gov/mission/viking/" style="color: #315fea; text-decoration: none;">NASA Science: Misión Oficial del Programa Viking</a></li>
+    <li><a href="https://www.jpl.nasa.gov/missions/viking-1/" style="color: #315fea; text-decoration: none;">NASA JPL: Resumen Misión Viking 1 y Galería Fotográfica de Chryse Planitia</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Viking_1" style="color: #315fea; text-decoration: none;">Wikipedia: Misión Viking 1 (artículo enciclopédico de contraste)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Viking_1" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Viking 1</a></li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 <div class="note-box">
