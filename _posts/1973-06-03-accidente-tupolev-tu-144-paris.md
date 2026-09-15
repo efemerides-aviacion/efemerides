@@ -7,11 +7,12 @@ author: Enrique Pomares
 pais: Unión Soviética
 operator: Aeroflot
 excerpt: "El 3 de junio de 1973, el Tupolev Tu-144S soviético (СССР-77102) se desintegró en vuelo durante su demostración en el 30° Salón Aeronáutico de París-Le Bourget, frente a más de 300.000 espectadores. Murieron los seis tripulantes y ocho personas en tierra, en uno de los accidentes más impactantes de la era supersónica."
-image: 1973-06-03-accidende-tuploev-tu-144-paris.webp
+image: 1973-06-03-accidente-tupolev-tu-144-paris.webp
+redirect_from: /accidente/1973/06/03/accidende-tuploev-tu-144-paris.html
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1973-06-03-accidende-tuploev-tu-144-paris.webp" alt="Tupolev Tu-144S CCCP-77102 en el Salón de París">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1973-06-03-accidente-tupolev-tu-144-paris.webp" alt="Tupolev Tu-144S CCCP-77102 en el Salón de París">
   <figcaption class="post-caption">El avión supersónico soviético Tupolev Tu-144S CCCP-77102, fotografiado en el Salón Aeronáutico de París el 3 de junio de 1973, poco antes del accidente que marcó la historia de la aviación. Fuente: This Day in Aviation / © Aris Pappas.</figcaption>
 </figure>
 

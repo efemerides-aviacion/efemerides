@@ -7,12 +7,13 @@ author: Enrique Pomares
 pais: Reino Unido
 operator: N/A (aviadora independiente)
 excerpt: "El 24 de mayo de 1930, la aviadora británica Amy Johnson aterrizó en Darwin, Australia, tras 19 días y 17.700 kilómetros de vuelo, convirtiéndose en la primera mujer en volar en solitario desde Inglaterra hasta Australia. A bordo de su De Havilland Gipsy Moth «Jason», superó tormentas, averías y aterrizajes forzosos en una hazaña que la consagró como una de las grandes pioneras de la aviación."
-image: 1930-05-24-primer-vuelo-solitario-amy-johson-inglaterra-australia.webp
+image: 1930-05-24-primer-vuelo-solitario-amy-johnson-inglaterra-australia.webp
+redirect_from: /evento/1930/05/24/primer-vuelo-solitario-amy-johson-inglaterra-australia.html
 
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1930-05-24-primer-vuelo-solitario-amy-johson-inglaterra-australia.webp" alt="Amy Johnson frente a su avión Gipsy Moth Jason">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1930-05-24-primer-vuelo-solitario-amy-johnson-inglaterra-australia.webp" alt="Amy Johnson frente a su avión Gipsy Moth Jason">
   <figcaption class="post-caption">Amy Johnson llega a Darwin en su DH60G, G-AAAH, el 24 de mayo de 1930. Fuente: This Day in Aviation.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

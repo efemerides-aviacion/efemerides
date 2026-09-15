@@ -7,11 +7,12 @@ author: Enrique Pomares
 pais: Unión Soviética
 operator: Fuerzas Aéreas Soviéticas (VVS)
 excerpt: "Stalin ordenó bombardear Berlín con los únicos cuatrimotores soviéticos. Los motores diésel que debían darles alcance causaron más bajas que la defensa alemana."
-image: 1941-08-11-primer-bombardeo-sovieto-nocturno-berlin.webp
+image: 1941-08-11-primer-bombardeo-sovietico-nocturno-berlin.webp
+redirect_from: /evento/1941/08/11/primer-bombardeo-sovieto-nocturno-berlin.html
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1941-08-11-primer-bombardeo-sovieto-nocturno-berlin.webp" alt="Bombardero cuatrimotor soviético en vuelo sobre un cielo nublado, visto de perfil, con la góndola acristalada bajo el morro">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1941-08-11-primer-bombardeo-sovietico-nocturno-berlin.webp" alt="Bombardero cuatrimotor soviético en vuelo sobre un cielo nublado, visto de perfil, con la góndola acristalada bajo el morro">
   <figcaption class="post-caption">Un TB-7 en vuelo, en fotografía fechada en 1941. El aparato, redenominado Pe-8 al año siguiente, fue el único bombardero pesado cuatrimotor que la Unión Soviética produjo durante la guerra. Fuente: <a href="https://commons.wikimedia.org/wiki/File:%D0%A2%D0%91-7_%D0%B2_%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%B5.jpg" style="color: #315fea; text-decoration: none;">Ministerio de Defensa de la Federación Rusa (Mil.ru), CC BY 4.0</a>.</figcaption>
 </figure>
 
