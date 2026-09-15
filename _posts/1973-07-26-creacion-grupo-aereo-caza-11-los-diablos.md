@@ -89,11 +89,15 @@ La permanencia del sobrenombre «Diablos», de su identidad visual y del lema «
 
 ## Referencias Verificadas
 
-1. <a href="https://www.calameo.com/read/00640765909dc9facb91e" style="color: #315fea; text-decoration: none;">Francisco Efraín Visconti Osorio — <em>El primer medio siglo de vida del histórico, ejemplar y referencial Grupo Aéreo de Caza N.º 11</em></a>.
-2. <a href="https://aeroflight.co.uk/waf/americas/venezuela/AirForce/Venezuela-af-GAC11.htm" style="color: #315fea; text-decoration: none;">Aeroflight — Historia del Grupo Aéreo de Caza 11 «Diablos»</a>.
-3. <a href="https://www.defensa.com/venezuela/sukhoi-30-mk2-venezuela-cumplen-10-anos-servicio" style="color: #315fea; text-decoration: none;">Defensa.com — Los Sukhoi Su-30MK2 de Venezuela cumplen diez años en servicio</a>, 16 de noviembre de 2016.
-4. <a href="https://talcualdigital.com/voa-aviones-sukhoi-de-venezuela-tendrian-menos-horas-de-vuelo-que-el-promedio/" style="color: #315fea; text-decoration: none;">TalCual / Voz de América — Aviones Sukhoi de Venezuela tendrían menos horas de vuelo que el promedio</a>, 11 de julio de 2023.
-5. <a href="https://www.infodefensa.com/texto-diario/mostrar/3133877/venezuela-adquirira-13-nuevos-aviones-combate-rusos-sukhoi-30" style="color: #315fea; text-decoration: none;">Infodefensa — Venezuela adquirirá 13 nuevos aviones de combate rusos Sukhoi Su-30</a>.
+<div class="references">
+  <ul>
+    <li><a href="https://www.calameo.com/read/00640765909dc9facb91e" style="color: #315fea; text-decoration: none;">Francisco Efraín Visconti Osorio — <em>El primer medio siglo de vida del histórico, ejemplar y referencial Grupo Aéreo de Caza N.º 11</em></a>.</li>
+    <li><a href="https://aeroflight.co.uk/waf/americas/venezuela/AirForce/Venezuela-af-GAC11.htm" style="color: #315fea; text-decoration: none;">Aeroflight — Historia del Grupo Aéreo de Caza 11 «Diablos»</a>.</li>
+    <li><a href="https://www.defensa.com/venezuela/sukhoi-30-mk2-venezuela-cumplen-10-anos-servicio" style="color: #315fea; text-decoration: none;">Defensa.com — Los Sukhoi Su-30MK2 de Venezuela cumplen diez años en servicio</a>, 16 de noviembre de 2016.</li>
+    <li><a href="https://talcualdigital.com/voa-aviones-sukhoi-de-venezuela-tendrian-menos-horas-de-vuelo-que-el-promedio/" style="color: #315fea; text-decoration: none;">TalCual / Voz de América — Aviones Sukhoi de Venezuela tendrían menos horas de vuelo que el promedio</a>, 11 de julio de 2023.</li>
+    <li><a href="https://www.infodefensa.com/texto-diario/mostrar/3133877/venezuela-adquirira-13-nuevos-aviones-combate-rusos-sukhoi-30" style="color: #315fea; text-decoration: none;">Infodefensa — Venezuela adquirirá 13 nuevos aviones de combate rusos Sukhoi Su-30</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

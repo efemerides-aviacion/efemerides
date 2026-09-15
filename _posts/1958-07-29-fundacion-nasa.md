@@ -94,12 +94,16 @@ El acto del 29 de julio de 1958 también estableció un modelo de agencia civil 
 
 ## Referencias Verificadas
 
-1. <a href="https://www.nasa.gov/history/65-years-ago-the-national-aeronautics-and-space-act-of-1958-creates-nasa/" style="color: #315fea; text-decoration: none;">NASA — 65 Years Ago: The National Aeronautics and Space Act of 1958 Creates NASA</a>.
-2. <a href="https://www.nasa.gov/image-article/nasas-origins/" style="color: #315fea; text-decoration: none;">NASA — NASA’s Origins</a>.
-3. <a href="https://www.nasa.gov/history/national-aeronautics-and-space-act-of-1958-unamended/" style="color: #315fea; text-decoration: none;">NASA — National Aeronautics and Space Act of 1958, Unamended</a>.
-4. <a href="https://www.eisenhowerlibrary.gov/research/online-documents/early-history-and-development-national-aeronautics-and-space" style="color: #315fea; text-decoration: none;">Eisenhower Presidential Library — Early History and Development of the National Aeronautics and Space Administration</a>.
-5. <a href="https://www.archives.gov/news/topics/nasa-60th-anniversary" style="color: #315fea; text-decoration: none;">National Archives — Celebrating NASA’s 60th Anniversary</a>.
-6. <a href="https://www.visitthecapitol.gov/artifact/bill-establish-national-aeronautics-and-space-administration-june-16-1958" style="color: #315fea; text-decoration: none;">U.S. Capitol Visitor Center — Bill to Establish NASA, June 16, 1958</a>.
+<div class="references">
+  <ul>
+    <li><a href="https://www.nasa.gov/history/65-years-ago-the-national-aeronautics-and-space-act-of-1958-creates-nasa/" style="color: #315fea; text-decoration: none;">NASA — 65 Years Ago: The National Aeronautics and Space Act of 1958 Creates NASA</a>.</li>
+    <li><a href="https://www.nasa.gov/image-article/nasas-origins/" style="color: #315fea; text-decoration: none;">NASA — NASA’s Origins</a>.</li>
+    <li><a href="https://www.nasa.gov/history/national-aeronautics-and-space-act-of-1958-unamended/" style="color: #315fea; text-decoration: none;">NASA — National Aeronautics and Space Act of 1958, Unamended</a>.</li>
+    <li><a href="https://www.eisenhowerlibrary.gov/research/online-documents/early-history-and-development-national-aeronautics-and-space" style="color: #315fea; text-decoration: none;">Eisenhower Presidential Library — Early History and Development of the National Aeronautics and Space Administration</a>.</li>
+    <li><a href="https://www.archives.gov/news/topics/nasa-60th-anniversary" style="color: #315fea; text-decoration: none;">National Archives — Celebrating NASA’s 60th Anniversary</a>.</li>
+    <li><a href="https://www.visitthecapitol.gov/artifact/bill-establish-national-aeronautics-and-space-administration-june-16-1958" style="color: #315fea; text-decoration: none;">U.S. Capitol Visitor Center — Bill to Establish NASA, June 16, 1958</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

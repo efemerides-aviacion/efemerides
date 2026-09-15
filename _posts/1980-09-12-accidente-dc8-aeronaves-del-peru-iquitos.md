@@ -94,10 +94,14 @@ La fotografía previa de un DC-8 de Aeronaves del Perú permite recordar la aero
 
 ## Referencias Verificadas
 
-1. <a href="https://asn.flightsafety.org/wikibase/328254" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Accident Douglas DC-8-33F N715UA</a>.
-2. <a href="https://www.baaa-acro.com/crash/crash-douglas-dc-8-33f-iquitos-3-killed" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives — Crash of a Douglas DC-8-33F in Iquitos</a>.
-3. <a href="https://www.airhistory.net/photo/228624/N715UA" style="color: #315fea; text-decoration: none;">AirHistory.net — Aircraft Photo of N715UA</a>.
-4. <a href="https://commons.wikimedia.org/wiki/File:JAL_Cargo_Douglas_DC-8-55CF_Jet_Trader_Silagi-1.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons — Douglas DC-8 carguero de Aeronaves del Perú</a>.
+<div class="references">
+  <ul>
+    <li><a href="https://asn.flightsafety.org/wikibase/328254" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Accident Douglas DC-8-33F N715UA</a>.</li>
+    <li><a href="https://www.baaa-acro.com/crash/crash-douglas-dc-8-33f-iquitos-3-killed" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives — Crash of a Douglas DC-8-33F in Iquitos</a>.</li>
+    <li><a href="https://www.airhistory.net/photo/228624/N715UA" style="color: #315fea; text-decoration: none;">AirHistory.net — Aircraft Photo of N715UA</a>.</li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:JAL_Cargo_Douglas_DC-8-55CF_Jet_Trader_Silagi-1.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons — Douglas DC-8 carguero de Aeronaves del Perú</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

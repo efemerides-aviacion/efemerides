@@ -88,11 +88,15 @@ Más allá de las sucesivas sustituciones de aeronaves, el legado central de los
 
 ## Referencias Verificadas
 
-1. **Ochoa Vargas, José Luis, Coronel (Av.).** Artículo histórico sobre la creación y trayectoria del Grupo Aéreo de Caza N.º 12 «Grifos», amparado en: **Paredes, Luis Hernán, Coronel (Av.), <em>Historia de la Aviación Militar Venezolana</em>, 3.ª edición, tomo II, 1997.**
-2. <a href="https://www.defensa.com/venezuela/cazas-f-16-aviacion-militar-venezuela-interceptan-neutralizan" style="color: #315fea; text-decoration: none;">Defensa.com — Cazas F-16 de la Aviación Militar de Venezuela interceptan y neutralizan una aeronave</a>, 24 de marzo de 2023.
-3. <a href="https://www.aeroflight.co.uk/ops/mil/venezuela/venezuelan-air-force-order-of-battle.htm" style="color: #315fea; text-decoration: none;">Aeroflight — Venezuelan Air Force Order of Battle</a>.
-4. <a href="https://www.facebook.com/story.php?story_fbid=487191094959952&amp;id=100010071971769&amp;rdid=HnmjM0yBwbaoOYFW#" style="color: #315fea; text-decoration: none;">FAV Ven — Publicación conmemorativa del aniversario del Grupo Aéreo de Caza N.º 12</a>.
-5. <a href="https://www.facebook.com/photo/?fbid=487172378295157" style="color: #315fea; text-decoration: none;">FAV Ven — Collage histórico de las aeronaves operadas por el Grupo Aéreo de Caza N.º 12</a>.
+<div class="references">
+  <ul>
+    <li>**Ochoa Vargas, José Luis, Coronel (Av.).** Artículo histórico sobre la creación y trayectoria del Grupo Aéreo de Caza N.º 12 «Grifos», amparado en: **Paredes, Luis Hernán, Coronel (Av.), <em>Historia de la Aviación Militar Venezolana</em>, 3.ª edición, tomo II, 1997.**</li>
+    <li><a href="https://www.defensa.com/venezuela/cazas-f-16-aviacion-militar-venezuela-interceptan-neutralizan" style="color: #315fea; text-decoration: none;">Defensa.com — Cazas F-16 de la Aviación Militar de Venezuela interceptan y neutralizan una aeronave</a>, 24 de marzo de 2023.</li>
+    <li><a href="https://www.aeroflight.co.uk/ops/mil/venezuela/venezuelan-air-force-order-of-battle.htm" style="color: #315fea; text-decoration: none;">Aeroflight — Venezuelan Air Force Order of Battle</a>.</li>
+    <li><a href="https://www.facebook.com/story.php?story_fbid=487191094959952&amp;id=100010071971769&amp;rdid=HnmjM0yBwbaoOYFW#" style="color: #315fea; text-decoration: none;">FAV Ven — Publicación conmemorativa del aniversario del Grupo Aéreo de Caza N.º 12</a>.</li>
+    <li><a href="https://www.facebook.com/photo/?fbid=487172378295157" style="color: #315fea; text-decoration: none;">FAV Ven — Collage histórico de las aeronaves operadas por el Grupo Aéreo de Caza N.º 12</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

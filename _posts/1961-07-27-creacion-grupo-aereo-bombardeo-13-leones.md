@@ -90,11 +90,15 @@ Aunque la denominación de bombardeo dejó de emplearse con la llegada de los Su
 
 ## Referencias Verificadas
 
-1. **Ochoa Vargas, José Luis, Coronel (Av.).** Artículo histórico sobre la creación y trayectoria del Grupo Aéreo de Bombardeo N.º 13 «Leones», amparado en: **Paredes, Luis Hernán, Coronel (Av.), <em>Historia de la Aviación Militar Venezolana</em>, 3.ª edición, tomo II, 1997.**
-2. <a href="https://favclubven.wordpress.com/2025/04/17/mencion-honorifica/" style="color: #315fea; text-decoration: none;">FAV Club Venezuela — Mención honorífica</a>, con información histórica sobre operaciones del sistema Canberra del Grupo N.º 13.
-3. <a href="https://www.infodefensa.com/texto-diario/mostrar/2949394/venezuela-dupla-f-16-30-factor-disuasivo" style="color: #315fea; text-decoration: none;">Infodefensa — Venezuela: la dupla F-16 y Su-30, el factor disuasivo</a>, sobre la posterior operación del Grupo N.º 13 como unidad de caza.
-4. <a href="https://x.com/History_FlightV/status/1155251936855306240" style="color: #315fea; text-decoration: none;">History_FlightV — Creación del Grupo Aéreo de Bombardeo N.º 13 «Leones»</a>.
-5. <a href="https://www.facebook.com/photo.php?fbid=486931254985936&amp;type=3&amp;rdid=D15NCadRCKXP79Ak&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19GVTbeynY%2F#" style="color: #315fea; text-decoration: none;">FAV Ven — Collage histórico del Grupo Aéreo de Bombardeo N.º 13 «Leones»</a>.
+<div class="references">
+  <ul>
+    <li>**Ochoa Vargas, José Luis, Coronel (Av.).** Artículo histórico sobre la creación y trayectoria del Grupo Aéreo de Bombardeo N.º 13 «Leones», amparado en: **Paredes, Luis Hernán, Coronel (Av.), <em>Historia de la Aviación Militar Venezolana</em>, 3.ª edición, tomo II, 1997.**</li>
+    <li><a href="https://favclubven.wordpress.com/2025/04/17/mencion-honorifica/" style="color: #315fea; text-decoration: none;">FAV Club Venezuela — Mención honorífica</a>, con información histórica sobre operaciones del sistema Canberra del Grupo N.º 13.</li>
+    <li><a href="https://www.infodefensa.com/texto-diario/mostrar/2949394/venezuela-dupla-f-16-30-factor-disuasivo" style="color: #315fea; text-decoration: none;">Infodefensa — Venezuela: la dupla F-16 y Su-30, el factor disuasivo</a>, sobre la posterior operación del Grupo N.º 13 como unidad de caza.</li>
+    <li><a href="https://x.com/History_FlightV/status/1155251936855306240" style="color: #315fea; text-decoration: none;">History_FlightV — Creación del Grupo Aéreo de Bombardeo N.º 13 «Leones»</a>.</li>
+    <li><a href="https://www.facebook.com/photo.php?fbid=486931254985936&amp;type=3&amp;rdid=D15NCadRCKXP79Ak&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19GVTbeynY%2F#" style="color: #315fea; text-decoration: none;">FAV Ven — Collage histórico del Grupo Aéreo de Bombardeo N.º 13 «Leones»</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

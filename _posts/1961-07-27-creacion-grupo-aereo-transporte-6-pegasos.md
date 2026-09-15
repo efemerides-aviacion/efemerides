@@ -89,10 +89,14 @@ El legado de los «Pegasos» no se limita a sus modelos de avión. También comp
 
 ## Referencias Verificadas
 
-1. **Ochoa Vargas, José Luis, Coronel (Av.).** Artículo histórico sobre la creación y trayectoria del Grupo Aéreo de Transporte N.º 6 «Pegasos», amparado en: **Paredes, Luis Hernán, Coronel (Av.), <em>Historia de la Aviación Militar Venezolana</em>, 3.ª edición, tomo II, 1997.**
-2. <a href="https://www.defensa.com/laminas-historicas/grupo-aereo-transporte-no-6-fuerza-aerea-venezolana" style="color: #315fea; text-decoration: none;">Defensa.com — Grupo Aéreo de Transporte N.º 6 de la Fuerza Aérea Venezolana</a>, 27 de febrero de 2021.
-3. <a href="https://www.infodefensa.com/texto-diario/mostrar/3462726/venezuela-aviacion-militar-transporte" style="color: #315fea; text-decoration: none;">Infodefensa — Venezuela y el reto de mantener operativa su aviación militar de transporte</a>, 12 de julio de 2022.
-4. <a href="https://www.infodefensa.com/texto-diario/mostrar/3125269/aviacion-militar-venezuela-recupera-avion-c-130h-helicoptero-cougar" style="color: #315fea; text-decoration: none;">Infodefensa — La Aviación Militar de Venezuela recupera un avión C-130H y un helicóptero Cougar</a>.
+<div class="references">
+  <ul>
+    <li>**Ochoa Vargas, José Luis, Coronel (Av.).** Artículo histórico sobre la creación y trayectoria del Grupo Aéreo de Transporte N.º 6 «Pegasos», amparado en: **Paredes, Luis Hernán, Coronel (Av.), <em>Historia de la Aviación Militar Venezolana</em>, 3.ª edición, tomo II, 1997.**</li>
+    <li><a href="https://www.defensa.com/laminas-historicas/grupo-aereo-transporte-no-6-fuerza-aerea-venezolana" style="color: #315fea; text-decoration: none;">Defensa.com — Grupo Aéreo de Transporte N.º 6 de la Fuerza Aérea Venezolana</a>, 27 de febrero de 2021.</li>
+    <li><a href="https://www.infodefensa.com/texto-diario/mostrar/3462726/venezuela-aviacion-militar-transporte" style="color: #315fea; text-decoration: none;">Infodefensa — Venezuela y el reto de mantener operativa su aviación militar de transporte</a>, 12 de julio de 2022.</li>
+    <li><a href="https://www.infodefensa.com/texto-diario/mostrar/3125269/aviacion-militar-venezuela-recupera-avion-c-130h-helicoptero-cougar" style="color: #315fea; text-decoration: none;">Infodefensa — La Aviación Militar de Venezuela recupera un avión C-130H y un helicóptero Cougar</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

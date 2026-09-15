@@ -93,10 +93,14 @@ La fotografía previa al accidente preserva la identidad del avión y evita conv
 
 ## Referencias Verificadas
 
-1. <a href="https://aviation-safety.net/wikibase/328286" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Accident Douglas DC-8-43F OB-R-1143</a>.
-2. <a href="https://www.baaa-acro.com/index.php/crash/crash-douglas-dc-8-43f-mexico-city-8-killed" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives — Crash of a Douglas DC-8-43F in Mexico City</a>.
-3. <a href="https://www.airhistory.net/photo/624237" style="color: #315fea; text-decoration: none;">AirHistory.net — Aircraft Photo of OB-R-1143, Douglas DC-8-43(F)</a>.
-4. <a href="https://www.airteamimages.com/douglas-dc-8_OB-R-1143_aeronaves-del-peru_139885" style="color: #315fea; text-decoration: none;">AirTeamImages — Douglas DC-8 OB-R-1143, Aeronaves del Perú</a>.
+<div class="references">
+  <ul>
+    <li><a href="https://aviation-safety.net/wikibase/328286" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Accident Douglas DC-8-43F OB-R-1143</a>.</li>
+    <li><a href="https://www.baaa-acro.com/index.php/crash/crash-douglas-dc-8-43f-mexico-city-8-killed" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives — Crash of a Douglas DC-8-43F in Mexico City</a>.</li>
+    <li><a href="https://www.airhistory.net/photo/624237" style="color: #315fea; text-decoration: none;">AirHistory.net — Aircraft Photo of OB-R-1143, Douglas DC-8-43(F)</a>.</li>
+    <li><a href="https://www.airteamimages.com/douglas-dc-8_OB-R-1143_aeronaves-del-peru_139885" style="color: #315fea; text-decoration: none;">AirTeamImages — Douglas DC-8 OB-R-1143, Aeronaves del Perú</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

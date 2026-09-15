@@ -91,12 +91,16 @@ Para All Nippon Airways, el accidente se convirtió en una referencia central de
 
 ## Referencias Verificadas
 
-1. <a href="https://aviation-safety.net/asndb/330758" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Accident Boeing 727-281 JA8329</a>.
-2. <a href="https://asn.flightsafety.org/reports/1971/19710730_B722_JA8329.pdf" style="color: #315fea; text-decoration: none;">Informe final de la investigación — JA8329 / F-86F 92-7932</a>.
-3. <a href="https://www.jstage.jst.go.jp/article/jjsass1969/21/238/21_238_689/_pdf/-char/ja" style="color: #315fea; text-decoration: none;">Journal of the Japan Society for Aeronautical and Space Sciences — análisis técnico del accidente</a>.
-4. <a href="https://japannews.yomiuri.co.jp/politics/defense-security/20250131-236360/" style="color: #315fea; text-decoration: none;">The Japan News — 1971 Japan Plane Crash Prompted New Safety Rules</a>.
-5. <a href="https://commons.wikimedia.org/wiki/File:JA8329_Boeing_727-281_All_Nippon_Airways,_Tokyo_International,_May_1971.jpg" style="color: #315fea; text-decoration: none;">Nobuo Oyama — Boeing 727 JA8329, Wikimedia Commons</a>.
-6. <a href="https://commons.wikimedia.org/wiki/File:Mitsubishi_F-86_Sabre_92-7932_seen_at_Matsushima_Airbase,_25_July_1971.jpg" style="color: #315fea; text-decoration: none;">Y. Toda — Mitsubishi F-86F 92-7932, Wikimedia Commons</a>.
+<div class="references">
+  <ul>
+    <li><a href="https://aviation-safety.net/asndb/330758" style="color: #315fea; text-decoration: none;">Aviation Safety Network — Accident Boeing 727-281 JA8329</a>.</li>
+    <li><a href="https://asn.flightsafety.org/reports/1971/19710730_B722_JA8329.pdf" style="color: #315fea; text-decoration: none;">Informe final de la investigación — JA8329 / F-86F 92-7932</a>.</li>
+    <li><a href="https://www.jstage.jst.go.jp/article/jjsass1969/21/238/21_238_689/_pdf/-char/ja" style="color: #315fea; text-decoration: none;">Journal of the Japan Society for Aeronautical and Space Sciences — análisis técnico del accidente</a>.</li>
+    <li><a href="https://japannews.yomiuri.co.jp/politics/defense-security/20250131-236360/" style="color: #315fea; text-decoration: none;">The Japan News — 1971 Japan Plane Crash Prompted New Safety Rules</a>.</li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:JA8329_Boeing_727-281_All_Nippon_Airways,_Tokyo_International,_May_1971.jpg" style="color: #315fea; text-decoration: none;">Nobuo Oyama — Boeing 727 JA8329, Wikimedia Commons</a>.</li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Mitsubishi_F-86_Sabre_92-7932_seen_at_Matsushima_Airbase,_25_July_1971.jpg" style="color: #315fea; text-decoration: none;">Y. Toda — Mitsubishi F-86F 92-7932, Wikimedia Commons</a>.</li>
+  </ul>
+</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
