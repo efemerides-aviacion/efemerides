@@ -92,7 +92,7 @@ El recuerdo del vuelo inaugural de 1946 se preserva en la memoria histórica de 
 ## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://www.iberia.com" style="color: #315fea; text-decoration: none;">Iberia Líneas Aéreas de España – Archivo Histórico: «75 años conectando Europa y América Latina: el primer vuelo trasatlántico Madrid-Buenos Aires de 1946»</a></li>
+    <li><a href="https://grupo.iberia.es/pressrelease/details/13398" style="color: #315fea; text-decoration: none;">Iberia Líneas Aéreas de España (Portal Corporativo) – «Iberia, 75 años comprometidos con América Latina: el 22 de septiembre de 1946 se establecían los primeros vuelos comerciales entre Europa y América Latina»</a></li>
     <li><a href="https://www.mivau.gob.es/recursos_mfom/pdf/525244E1-340D-4D18-9BA7-A5F13AE2B528/142528/Fe28_33.pdf" style="color: #315fea; text-decoration: none;">Ministerio de Transportes, Movilidad y Agenda Urbana (Gobierno de España) – «70 años del primer vuelo comercial Madrid-Buenos Aires de Iberia (1946–2016)»</a></li>
     <li><a href="https://www.clarin.com/viajes/madrid-buenos-aires-36-horas-4-escalas-primer-vuelo-transatlantico-iberia-hace-75-anos_0_3YAtmfaBp.html" style="color: #315fea; text-decoration: none;">Clarín (Sección Viajes) – «Madrid-Buenos Aires en 36 horas y 4 escalas: el primer vuelo transatlántico de Iberia hace 75 años»</a></li>
     <li><a href="https://fly-news.es/aviacion-comercial/iberia-75-anos-latinoamerica/" style="color: #315fea; text-decoration: none;">Fly News (Luis Calvo) – «Iberia: 75 años en Latinoamérica y los Douglas DC-4 de largo radio»</a></li>
