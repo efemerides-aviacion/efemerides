@@ -53,7 +53,7 @@ Pégoud provenía de una familia humilde del sureste de Francia. Antes de dedica
 
 Los aviones de la época eran frágiles estructuras de madera y tela, con motores de poca potencia y controles rudimentarios. Pégoud voló principalmente el Morane-Saulnier tipo H y el Nieuport 10, ambos monoplanos. Sus primeras victorias las obtuvo como piloto de un biplano Maurice Farman, donde su artillero Le Rendu disparaba la ametralladora.
 
-El armamento era otro desafío: al inicio de la guerra, los aviones no llevaban ametralladoras fijas. Pégoud utilizó deflectores en las hélices —placas metálicas que desviaban los impactos—, un sistema ideado por Roland Garros que permitía disparar hacia adelante sin destruir la propia hélice.
+El armamento era otro desafío: al inicio de la guerra, los aviones no llevaban ametralladoras fijas. Pégoud utilizó deflectores en las hélices —placas metálicas que desviaban los impactos—, un sistema ideado por <a href="https://efemerides-aviacion.github.io/efemerides/evento/1913/09/23/roland-garros-primera-travesia-aerea-del-mediterraneo.html" style="color: #315fea; text-decoration: none;">Roland Garros</a> que permitía disparar hacia adelante sin destruir la propia hélice.
 
 ### Entorno cultural
 

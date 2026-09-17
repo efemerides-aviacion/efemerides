@@ -88,7 +88,7 @@ El experimento de Chandler fue un hito en la transición del avión de "observad
 - **7 de junio de 1912, College Park, Maryland:** Chandler y Kirtland realizan la primera prueba. El Teniente Kirtland pilota el Wright Model B mientras Chandler dispara la ametralladora Lewis contra un blanco en tierra. Resultado: 45 impactos de 50 disparos.
 - **8 de junio de 1912:** Segunda prueba. Resultado: 14 impactos de 44 disparos.
 - **1914 (agosto):** Estalla la Primera Guerra Mundial. En las primeras semanas, pilotos franceses y alemanes se disparan con pistolas y rifles desde sus aviones.
-- **1915 (abril):** El piloto francés Roland Garros instala una ametralladora fija en su Morane-Saulnier L, utilizando deflectores de hélice para disparar a través del arco de la hélice.
+- **1915 (abril):** El piloto francés <a href="https://efemerides-aviacion.github.io/efemerides/evento/1913/09/23/roland-garros-primera-travesia-aerea-del-mediterraneo.html" style="color: #315fea; text-decoration: none;">Roland Garros</a> instala una ametralladora fija en su Morane-Saulnier L, utilizando deflectores de hélice para disparar a través del arco de la hélice.
 - **1915 (junio):** El piloto alemán Max Immelmann, en un Fokker E.I equipado con un sistema de sincronización de hélice (desarrollado por Anthony Fokker), obtiene la primera victoria aérea con un verdadero caza sincronizado.
 
 ### Protagonistas
