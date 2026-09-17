@@ -1,4 +1,5 @@
 # Guía del validador estructural de efemérides
+> Última actualización: 2026-09-17 (alineación con Manual de Estilo v1.16)
 
 ## Finalidad
 
@@ -31,6 +32,8 @@ tools/efemerides-linter.sh /ruta/al/post.md --solo-rangos
 - Código `2`: invocación incorrecta o archivo inexistente.
 
 Los avisos no equivalen por sí solos a una aprobación editorial. La imagen debe localizarse para que sus dimensiones sean comprobadas efectivamente.
+
+Desde el 2026-09-17 el validador emite además un `[AVISO]` léxico cuando el cuerpo del post contiene cualquier forma del verbo «adolecer» (adolece, adolecía, adolecer, adolezca…; Manual de Estilo v1.16, § 4.2): el verbo es correcto aplicado a personas, por lo que el aviso exige lectura humana y no computa como fallo.
 
 ## Normas de mantenimiento
 

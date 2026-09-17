@@ -1,10 +1,11 @@
 #!/usr/bin/env bash
 # ============================================================================
 # efemerides-linter.sh — Validador estructural de posts de efemérides
-# Normas auditadas: Plantilla Maestra v2.18 · Manual de Estilo v1.15 ·
+# Normas auditadas: Plantilla Maestra v2.18 · Manual de Estilo v1.16 ·
 # Instrucciones de Procesar v2.14 · Instrucciones de Formato v2.15 ·
 # anexo y registro de excepciones de rangos/tratamientos.
-# Reconstruido el 2026-09-03; alineado y preparado para versionado el 2026-09-05.
+# Reconstruido el 2026-09-03; alineado y preparado para versionado el 2026-09-05;
+# alineado con Manual v1.16 (aviso léxico «adolecer», todas sus formas, § 4.2) el 2026-09-17.
 #
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
@@ -272,7 +273,7 @@ if [ -n "$BAD_TRAT" ]; then
     n="${l%%:*}"; frag=$(sed 's/^[0-9]*://' <<<"$l" | grep -oE "($TRAT_RE) +[A-ZÁÉÍÓÚ][a-záéíóú]+" | head -1)
         BFILE=$(basename "$FILE")
     if MOT=$(exc_hit "$BFILE" "$frag"); then printf '[AVISO]   Excepción D1-a/D2-a en línea %s: «%s» — %s\n' "$n" "$frag" "$MOT"; continue; fi
-fail "Tratamiento en minúscula ante nombre propio (línea $n): «$frag» — mayúscula inicial (Manual v1.15 § 4.3, decisión D2-a)"
+fail "Tratamiento en minúscula ante nombre propio (línea $n): «$frag» — mayúscula inicial (Manual v1.16 § 4.3, decisión D2-a)"
   done <<<"$BAD_TRAT"
 else
   ok "Tratamientos honoríficos capitalizados ante nombre propio (D2-a)"
@@ -286,10 +287,22 @@ if [ -n "$BAD_CIVIL" ]; then
     n="${l%%:*}"; frag=$(sed 's/^[0-9]*://' <<<"$l" | grep -oE "($CIVIL_RE) +[A-ZÁÉÍÓÚ][a-záéíóú]+" | head -1)
         BFILE=$(basename "$FILE")
     if MOT=$(exc_hit "$BFILE" "$frag"); then printf '[AVISO]   Excepción D1-a/D2-a en línea %s: «%s» — %s\n' "$n" "$frag" "$MOT"; continue; fi
-fail "Cargo civil capitalizado ante nombre propio (línea $n): «$frag» — minúscula (Manual v1.15 § 4.3, decisión D1-a)"
+fail "Cargo civil capitalizado ante nombre propio (línea $n): «$frag» — minúscula (Manual v1.16 § 4.3, decisión D1-a)"
   done <<<"$BAD_CIVIL"
 else
   ok "Cargos civiles en minúscula ante nombre propio (D1-a)"
+fi
+
+# ------------------------------- Léxico: «adolecer» aplicado a máquinas (Manual v1.16 § 4.2)
+# Aviso, no fallo: la regla es léxica y exige lectura humana (el verbo es válido para personas).
+ADOLECE=$(grep -niE 'adolec|adolezc' <<<"$BODY" || true)   # todas las formas del verbo
+if [ -n "$ADOLECE" ]; then
+  while IFS= read -r l; do
+    n="${l%%:*}"; frag=$(sed 's/^[0-9]*://' <<<"$l" | grep -oiE '[a-záéíóú]*adole[cz][a-záéíóú]*' | head -1)
+    printf '[AVISO]   Verbo «adolecer» en el cuerpo (línea %s del cuerpo): «%s» — reservado a personas, no a aeronaves ni sistemas (Manual v1.16 § 4.2)\n' "$n" "$frag"
+  done <<<"$ADOLECE"
+else
+  ok "Sin formas de «adolecer» aplicadas a máquinas (Manual v1.16 § 4.2)"
 fi
 
 # ------------------------------------------------------ Imagen al tamaño (12)
