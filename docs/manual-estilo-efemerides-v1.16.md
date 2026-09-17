@@ -1,6 +1,6 @@
 # Manual de Estilo de Efemérides
-> Edición consolidada: 2026-09-03  
-> Versión: v1.15
+> Edición consolidada: 2026-09-17  
+> Versión: v1.16
 
 ---
 
@@ -65,7 +65,11 @@ Las cabeceras normativas deben mantenerse exactamente en su forma oficial.
 - español neutro;
 - precisión técnica sin jerga excesiva;
 - evitar calcos torpes del inglés;
-- traducir citas o expresiones completas si se incluyen.
+- traducir citas o expresiones completas si se incluyen;
+- el verbo *adolecer* se reserva a personas: no se aplica a aeronaves, motores,
+  estructuras ni sistemas (*el Blériot XI adolecía de una estructura frágil* es
+  incorrecto; se escribe *tenía*, *presentaba* o *sufría de*). Acuerdo del editor,
+  recogido por escrito el 17-09-2026 con motivo del alta 1910-09-23.
 
 ### 4.3 Grados militares, jerarquías de aviación y tratamientos
 
@@ -468,6 +472,7 @@ investigador (14 de agosto de 2026).
   imágenes (§ 9.1).
 - escribir en minúscula un grado, una jerarquía de aviación o un tratamiento honorífico que precede inmediatamente a un nombre propio (§ 4.3);
 - capitalizar cargos u oficios civiles ante nombre propio, o escribir en minúscula el plural de grado que encabeza una lista de nombres (§ 4.3, decisiones D1-a y D2-a de 2026-09-03);
+- aplicar el verbo *adolecer* a una máquina, aeronave o sistema (§ 4.2).
 
 ---
 
@@ -692,3 +697,12 @@ v2.14 e Instrucciones de Procesar v2.14.
 - Nuevo anexo normativo citado: `docs/anexo-comparacion-tratamientos-y-rangos.md` (comparación de pautas aportada por el editor el 03-09-2026, reproducida verbatim).
 
 Alineadas en la misma fecha: Plantilla Maestra v2.18 (regla maestra 5) e Instrucciones de Formato v2.15 (apartado de rangos). Instrucciones de Procesar v2.14: sin novedad.
+
+---
+
+## 27. Actualizaciones editoriales v1.16 — 2026-09-17
+
+- **§ 4.2, viñeta nueva:** el verbo *adolecer* queda reservado a personas y no se aplica a aeronaves, motores, estructuras ni sistemas. Acuerdo antiguo del editor que no constaba por escrito en ningún rector; detectado al revisar el alta 1910-09-23 (Jorge Chávez, cruce de los Alpes), donde el borrador decía «adolecía de una estructura alar…» y se corrigió antes de publicar. El corpus publicado (575 posts) no contiene ninguna ocurrencia.
+- **§ 13, viñeta nueva de errores** remitiendo a § 4.2.
+
+Edición puntual ordenada por el editor el 17-09-2026; la moratoria sobre los demás rectores se mantiene. Plantilla Maestra v2.18, Instrucciones de Formato v2.15 e Instrucciones de Procesar v2.14: sin novedad.
