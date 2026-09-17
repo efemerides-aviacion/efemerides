@@ -88,7 +88,7 @@ En Italia, Suiza y Francia se erigieron monumentos en su honor: en Domodossola (
 
 ## Legado
 
-Jorge Chávez Dartnell es considerado el máximo héroe de la aviación civil peruana. Su legado trasciende lo aeronáutico y se ha convertido en un símbolo nacional de superación y valentía. Cada 23 de septiembre, Perú celebra el «Día de la Aviación Civil» en conmemoración del cruce de los Alpes.
+Jorge Chávez Dartnell es considerado el máximo héroe de la aviación civil peruana. Su legado trasciende lo aeronáutico y se ha convertido en un símbolo nacional de superación y valentía. Cada 23 de septiembre, Perú celebra el «Día de la Aviación Nacional» en conmemoración del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1910/09/23/jorge-chavez-primer-cruce-aereo-de-los-alpes.html" style="color: #315fea; text-decoration: none;">cruce de los Alpes</a>.
 
 El Aeropuerto Internacional Jorge Chávez de Lima Metropolitana, inaugurado en 1960 y principal terminal aérea del país, lleva su nombre. El lema de la Fuerza Aérea del Perú, «Arriba, siempre arriba», es un homenaje directo a sus últimas palabras. En Francia, Suiza e Italia es conocido como «Géo Chavez».
 
