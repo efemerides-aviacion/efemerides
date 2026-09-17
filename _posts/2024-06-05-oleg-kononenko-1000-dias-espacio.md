@@ -68,7 +68,7 @@ El récord de Kononenko fue cubierto por medios de comunicación de todo el mund
 - **4 de febrero de 2024:** Supera el récord de Gennady Padalka (878 días acumulados).
 - **15 de septiembre de 2023 - 23 de septiembre de 2024:** Quinta misión (Soyuz MS-24 / Expediciones 69/70/71).
 - **5 de junio de 2024:** Alcanza los 1.000 días acumulados en el espacio.
-- **23 de septiembre de 2024:** Regresó a la Tierra tras completar su quinta misión. Su total acumulado final alcanzó los **1.111 días**, el récord más alto en la historia de los vuelos espaciales tripulados.
+- **23 de septiembre de 2024:** <a href="https://efemerides-aviacion.github.io/efemerides/espacial/2024/09/23/oleg-kononenko-regreso-record-1111-dias-espacio.html" style="color: #315fea; text-decoration: none;">Regresó a la Tierra en la Soyuz MS-25</a> tras completar su quinta misión. Su total acumulado final alcanzó los **1.111 días**, el récord más alto en la historia de los vuelos espaciales tripulados.
 
 ### Las Misiones de Oleg Kononenko
 
