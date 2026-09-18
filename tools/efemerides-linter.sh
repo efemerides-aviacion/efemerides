@@ -5,7 +5,8 @@
 # Instrucciones de Procesar v2.14 · Instrucciones de Formato v2.15 ·
 # anexo y registro de excepciones de rangos/tratamientos.
 # Reconstruido el 2026-09-03; alineado y preparado para versionado el 2026-09-05;
-# alineado con Manual v1.16 (aviso léxico «adolecer», todas sus formas, § 4.2) el 2026-09-17.
+# alineado con Manual v1.16 (aviso léxico «adolecer», todas sus formas, § 4.2) el 2026-09-17;
+# radio de las auditorías 9 y 10 ampliado a cualquier mención de «borrador» (reglas maestras 6 y 8) el 2026-09-17.
 #
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
@@ -217,7 +218,7 @@ for f in "Timestamp de verificación" "Fuentes primarias/institucionales consult
 done
 grep -qE '\*\*Nivel de confianza:\*\* (Alto|Medio|Bajo)' <<<"$META" && ok "Metadatos: nivel de confianza válido" || fail "Metadatos: Nivel de confianza debe ser Alto / Medio / Bajo"
 grep -qi "años transcurridos" <<<"$META" && fail "Metadatos: contiene 'Años transcurridos' (prohibido — integrate en ## Legado)" || ok "Metadatos: sin campo 'Años transcurridos'"
-grep -q "borrador preliminar" <<<"$META" && fail "Metadatos: cita el borrador preliminar (regla maestra 6)" || ok "Metadatos: no cita el borrador preliminar"
+grep -qi "borrador" <<<"$META" && fail "Metadatos: cita el borrador preliminar (regla maestra 6; radio: la palabra «borrador» en cualquier formulación)" || ok "Metadatos: no cita el borrador preliminar"
 # Discrepancias: solo divergencias entre fuentes publicadas — advertencia de revisión
 DISC=$(grep '\*\*Discrepancias resueltas:\*\*' <<<"$META")
 if [ -n "$DISC" ]; then
@@ -231,7 +232,16 @@ else
 fi
 
 # --------------------------------------------- Principio de documento limpio (10)
-grep -q "borrador preliminar" <<<"$BODY" && fail "El post menciona el borrador preliminar (regla maestra 8)" || ok "Sin menciones al borrador preliminar"
+# Radio: la palabra «borrador» en cualquier formulación («borrador de la investigación preliminar», «borrador del investigador»…), no solo la fórmula derogada (corr. 2026-09-17, lote BORR-01).
+BORR=$(grep -niE 'borrador' <<<"$BODY" || true)
+if [ -n "$BORR" ]; then
+  while IFS= read -r l; do
+    n="${l%%:*}"; frag=$(sed 's/^[0-9]*://' <<<"$l" | grep -oiE '.{0,40}borrador.{0,40}' | head -1)
+    fail "El post menciona el borrador preliminar (línea $n del cuerpo): «$frag» — regla maestra 8, Manual v1.16 § 8.3"
+  done <<<"$BORR"
+else
+  ok "Sin menciones al borrador preliminar"
+fi
 grep -qE '\[citation:[0-9]+\]|\[VERIFICADO\]' <<<"$BODY" && fail "Marcadores automáticos presentes ([citation:X] / [VERIFICADO])" || ok "Sin marcadores automáticos"
 grep -qiE "pendiente de revisi[oó]n|mayor resoluci[oó]n disponible" <<<"$BODY" && fail "Hay líneas de estado del documento o notas de resolución (prohibidas)" || ok "Sin líneas de estado ni notas de resolución"
 
