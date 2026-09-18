@@ -95,12 +95,12 @@ La colisión aérea del Gran Cañón de 1956 sigue siendo recordada como el acci
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 <div class="note-box">
-<p><strong>Nota aclaratoria:</strong> El borrador de la investigación preliminar citaba la altitud de la colisión como 20.000 pies; las fuentes técnicas y el informe de la CAB sitúan el impacto a 21.000 pies (6.400 m). Ese mismo borrador también afirmaba que el accidente dio lugar a la creación del NTSB; en realidad, la investigación fue realizada por la Civil Aeronautics Board (CAB) ya que el NTSB se creó como organismo independiente en 1967. El desastre sí impulsó directamente la creación de la Federal Aviation Agency en 1958, renombrada posteriormente como Federal Aviation Administration.</p>
+<p><strong>Nota aclaratoria:</strong> Algunas fuentes divulgativas citan la altitud de la colisión como 20.000 pies; las fuentes técnicas y el informe de la CAB sitúan el impacto a 21.000 pies (6.400 m). También se afirma con frecuencia que el accidente dio lugar a la creación del NTSB; en realidad, la investigación fue realizada por la Civil Aeronautics Board (CAB) ya que el NTSB se creó como organismo independiente en 1967. El desastre sí impulsó directamente la creación de la Federal Aviation Agency en 1958, renombrada posteriormente como Federal Aviation Administration.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 12:00:55 CST
+- **Timestamp de verificación:** 2026-09-17 18:04:14 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), FAA, HistoryNet, Admiral Cloudberg
 - **Discrepancias resueltas:** Se corrigió la altitud de colisión a 21.000 pies; se aclaró que el NTSB no fue creado directamente por el accidente, sino la Federal Aviation Agency en 1958; se verificaron los nombres de las tripulaciones de ambas aeronaves; se adoptó la cifra de 128 fallecidos según fuentes oficiales.
 - **Nivel de confianza:** Alto

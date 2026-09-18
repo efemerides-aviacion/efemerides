@@ -109,15 +109,15 @@ Su huella también pasó a la cultura popular. Las imágenes del accidente de Br
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> El borrador de investigación preliminar incorporaba que el primer vuelo libre estaba previsto para el 11 de julio y se pospuso por un incidente previo en pista con un F-104. No he encontrado una corroboración suficientemente sólida y específica de ese detalle en las fuentes finalmente reunidas, por lo que se ha omitido del cuerpo principal. Además, algunas fuentes redondean de forma ligeramente distinta las medidas y velocidades del M2-F2; en esta efeméride se han adoptado cifras coherentes con la documentación técnica y los resúmenes históricos más repetidos.</p>
+  <p><strong>Nota aclaratoria:</strong> Algunas fuentes redondean de forma ligeramente distinta las medidas y velocidades del M2-F2; en esta efeméride se han adoptado cifras coherentes con la documentación técnica y los resúmenes históricos más repetidos.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-07 14:22:30 CST  
+- **Timestamp de verificación:** 2026-09-17 18:04:14 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA, American Aviation Historical Society  
 - **Fuentes secundarias de contraste:** Smithsonian Magazine, Wikipedia  
-- **Discrepancias resueltas:** las fuentes redondean de forma distinta las medidas y el peso del M2-F2; se adoptan las cifras de la documentación técnica de la NASA. La supuesta postergación del primer vuelo libre desde el 11 de julio, mencionada a raíz de un incidente previo en pista con un F-104, carece de corroboración sólida en las fuentes reunidas y se omitió del cuerpo. Se distingue entre el M2-F2 original y su reconstrucción posterior como M2-F3  
+- **Discrepancias resueltas:** las fuentes redondean de forma distinta las medidas y el peso del M2-F2; se adoptan las cifras de la documentación técnica de la NASA. Se distingue entre el M2-F2 original y su reconstrucción posterior como M2-F3  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -116,14 +116,14 @@ El primer Boeing 777, WA001, se exhibe actualmente en el Pima Air and Space Muse
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> El borrador de la investigación preliminar indicaba incorrectamente que el prototipo WA001 (primer Boeing 777) fue enviado al Museum of Flight en Seattle. Según fuentes verificadas (FlightGlobal, This Day in Aviation, Pima Air and Space Museum), el avión fue vendido a Cathay Pacific en 2000, voló comercialmente hasta 2018 y fue donado al <strong>Pima Air and Space Museum en Tucson, Arizona</strong>, donde se exhibe actualmente. La altitud máxima alcanzada durante el primer vuelo fue de 19.000 pies (5.791 metros), no especificada en el borrador. Los motores originales eran Pratt & Whitney PW4074, no los GE90 que posteriormente equiparían otras versiones.</p>
+  <p><strong>Nota aclaratoria:</strong> Algunas fuentes indican que el prototipo WA001 (primer Boeing 777) fue enviado al Museum of Flight en Seattle. Según fuentes verificadas (FlightGlobal, This Day in Aviation, Pima Air and Space Museum), el avión fue vendido a Cathay Pacific en 2000, voló comercialmente hasta 2018 y fue donado al <strong>Pima Air and Space Museum en Tucson, Arizona</strong>, donde se exhibe actualmente. La altitud máxima alcanzada durante el primer vuelo fue de 19.000 pies (5.791 metros). Los motores originales eran Pratt & Whitney PW4074, no los GE90 que posteriormente equiparían otras versiones.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Timestamp de verificación:** 2026-09-17 18:04:14 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation, FlightGlobal, Boeing Newsroom, Sun Sentinel (archivo histórico de 1994), Wikipedia
 - **Discrepancias resueltas:** El destino del prototipo WA001 figura como Museum of Flight (Seattle) en unas versiones y como Pima Air and Space Museum (Tucson, Arizona) según múltiples fuentes primarias; se adopta Pima. Se consignan la altitud máxima alcanzada (19.000 pies) y los motores originales (PW4074).
 - **Nivel de confianza:** Alto

@@ -99,7 +99,7 @@ El Boeing 314 Clipper es recordado en la historia de la aeronáutica como la cú
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Se ha corregido un error técnico y geográfico crítico presente en el borrador de investigación preliminar. El borrador listaba erróneamente los motores como cuatro Pratt & Whitney R-1830-92 Twin Wasp de 1.200 CV (especificaciones correspondientes al Martin M-130); en realidad, el Boeing 314 estaba propulsado por cuatro potentes motores radiales Wright GR-2600 Twin Cyclone de 1.500 CV cada uno. Asimismo, se aclara que la fecha de esta efeméride (28 de junio de 1939) conmemora el exitoso amarizaje final del <em>Yankee Clipper</em> en Southampton, Gran Bretaña, completando de forma triunfal la inauguración de la ruta comercial del Atlántico Norte tras despegar el 24 de junio de 1939 desde Nueva York y verse demorado tres días por niebla en Terranova.</p>
+  <p><strong>Nota aclaratoria:</strong> Algunas fuentes secundarias atribuyen al Boeing 314 cuatro motores Pratt & Whitney R-1830 Twin Wasp de 1.200 CV, que corresponden en realidad al Martin M-130; el Boeing 314 estaba propulsado por cuatro motores radiales Wright GR-2600 Twin Cyclone de 1.500 CV cada uno. Asimismo, se aclara que la fecha de esta efeméride (28 de junio de 1939) conmemora el exitoso amarizaje final del <em>Yankee Clipper</em> en Southampton, Gran Bretaña, completando de forma triunfal la inauguración de la ruta comercial del Atlántico Norte tras despegar el 24 de junio de 1939 desde Nueva York y verse demorado tres días por niebla en Terranova.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -108,8 +108,8 @@ El Boeing 314 Clipper es recordado en la historia de la aeronáutica como la cú
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación comercial presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Timestamp de verificación:** 2026-09-17 18:04:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Archivos oficiales de la Pan American Historical Foundation, bitácoras de vuelo del Boeing 314 Yankee Clipper de junio de 1939, documentos técnicos de diseño de la Boeing Airplane Company para el Model 314 y registros históricos de la autoridad civil aeronáutica de los Estados Unidos (CAA)
-- **Discrepancias resueltas:** Los motores figuran como Wright GR-2600 frente a Pratt & Whitney Twin Wasp en datos erróneos cruzados; se adoptan los Wright GR-2600. Se precisó que el vuelo conmemorativo del 24-28 de junio de 1939 fue el inaugural de la ruta comercial de correo regular a Gran Bretaña operado por el *Yankee Clipper* (NC18603) bajo el mando del Capitán Harold Gray, completando el cruce el 28 de junio tras la demora por niebla en Botwood.
+- **Discrepancias resueltas:** Los motores figuran como Wright GR-2600 en la documentación técnica y como Pratt & Whitney Twin Wasp en fuentes secundarias que los confunden con los del Martin M-130; se adoptan los Wright GR-2600. Se precisó que el vuelo conmemorativo del 24-28 de junio de 1939 fue el inaugural de la ruta comercial de correo regular a Gran Bretaña operado por el *Yankee Clipper* (NC18603) bajo el mando del Capitán Harold Gray, completando el cruce el 28 de junio tras la demora por niebla en Botwood.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

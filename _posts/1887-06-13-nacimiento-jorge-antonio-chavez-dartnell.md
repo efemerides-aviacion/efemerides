@@ -112,14 +112,14 @@ Su Blériot XI original —el «Gypaète»— sufrió graves daños en el accide
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Existe una discrepancia documentada sobre la fecha de nacimiento de Jorge Chávez Dartnell. Algunas fuentes no oficiales citan el 13 de enero de 1887, pero los registros de alta autoridad —Library of Congress, FranceArchives, Congreso Peruano y la mayoría de las fuentes oficiales peruanas— confirman el <strong>13 de junio de 1887</strong> como fecha correcta. La altitud alcanzada durante el cruce alpino se registra en fuentes como «más de 2.650 metros» (8.694 pies), aunque el borrador de la investigación preliminar mencionaba 6.600 pies; se ha adoptado la cifra más respaldada por las fuentes primarias. El premio del Aero Club de Italia fue de 20.000 dólares de la época, y el avión fue bautizado como «Gypaète» (Quebrantahuesos).</p>
+  <p><strong>Nota aclaratoria:</strong> Existe una discrepancia documentada sobre la fecha de nacimiento de Jorge Chávez Dartnell. Algunas fuentes no oficiales citan el 13 de enero de 1887, pero los registros de alta autoridad —Library of Congress, FranceArchives, Congreso Peruano y la mayoría de las fuentes oficiales peruanas— confirman el <strong>13 de junio de 1887</strong> como fecha correcta. La altitud alcanzada durante el cruce alpino se registra en las fuentes más solventes como «más de 2.650 metros» (8.694 pies); otras publicaciones dan cifras inferiores, y se ha adoptado la más respaldada por las fuentes primarias. El premio del Aero Club de Italia fue de 20.000 dólares de la época, y el avión fue bautizado como «Gypaète» (Quebrantahuesos).</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:32:33 CST  
+- **Timestamp de verificación:** 2026-09-17 18:04:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Library of Congress, FranceArchives, Congreso Peruano, Wikipedia (ES/EN), EcuRed
 - **Discrepancias resueltas:** Se ha confirmado la fecha de nacimiento del 13 de junio de 1887 frente a la errónea fecha del 13 de enero citada en fuentes no oficiales. La altitud del cruce alpino se ha ajustado a 2.650 metros. Se ha añadido el dato del nacimiento en el XVII Distrito de París y el nombre del avión («Gypaète»).
 - **Nivel de confianza:** Alto

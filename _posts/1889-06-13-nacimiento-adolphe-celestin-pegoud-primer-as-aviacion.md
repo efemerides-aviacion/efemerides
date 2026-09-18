@@ -124,14 +124,14 @@ En Francia, su memoria perdura. Existe un monumento en su honor en Montferrat, s
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> El borrador de la investigación preliminar contenía varias imprecisiones que han sido corregidas en esta versión final. El lugar de nacimiento de Pégoud es <strong>Montferrat (Isère)</strong>, no Montélimar. La fecha de su muerte es el <strong>31 de agosto de 1915</strong>, no el 25 de septiembre. Fue abatido en <strong>Petit-Croix</strong> por el suboficial alemán Otto Kandulski, un antiguo alumno suyo, no por fuego amigo. Sus victorias confirmadas son <strong>6</strong>, alcanzando la quinta el 28 de abril de 1915, fecha en que se convirtió en el primer as. En cuanto al primer looping de la historia, el ruso Pyotr Nesterov lo realizó el 9 de septiembre de 1913; Pégoud lo hizo doce días después, el 21 de septiembre de 1913, pero fue el primero en realizarlo en ambas direcciones y en volar invertido de forma intencionada. El término «as» fue acuñado por la prensa francesa para describir a Pégoud tras alcanzar las cinco victorias.</p>
+  <p><strong>Nota aclaratoria:</strong> Algunas publicaciones divulgativas sitúan el nacimiento de Pégoud en Montélimar, su muerte el 25 de septiembre de 1915 o la atribuyen a fuego amigo; los registros y las fuentes de referencia confirman que nació en <strong>Montferrat (Isère)</strong>, que murió el <strong>31 de agosto de 1915</strong> y que fue abatido en <strong>Petit-Croix</strong> por el suboficial alemán Otto Kandulski, un antiguo alumno suyo. Sus victorias confirmadas son <strong>6</strong>; alcanzó la quinta el 28 de abril de 1915, fecha en que se convirtió en el primer as. En cuanto al primer looping de la historia, el ruso Pyotr Nesterov lo realizó el 9 de septiembre de 1913; Pégoud lo hizo doce días después, el 21 de septiembre de 1913, pero fue el primero en realizarlo en ambas direcciones y en volar invertido de forma intencionada. El término «as» fue acuñado por la prensa francesa para describir a Pégoud tras alcanzar las cinco victorias.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:53:31 CST  
+- **Timestamp de verificación:** 2026-09-17 18:04:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Encyclopaedia Britannica, Early Aviators, Wikipedia (List of aces of aces), Military Wiki, John Wilson Manuscripts
 - **Discrepancias resueltas:** Corregido lugar de nacimiento (Montferrat), fecha de muerte (31 de agosto de 1915), lugar de muerte (Petit-Croix), causa de muerte (abatido por antiguo alumno Otto Kandulski). Se especifica que alcanzó 5 victorias (siendo el primer as) y luego una sexta. Matizado el primer looping (Nesterov fue el primero, Pégoud el segundo pero primero en volar invertido).
 - **Nivel de confianza:** Alto

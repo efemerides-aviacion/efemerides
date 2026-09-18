@@ -103,12 +103,12 @@ Klaus Ohlmann es recordado como uno de los pilotos de planeador más exitosos de
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <div class="note-box">
-<p><strong>Nota aclaratoria:</strong> El borrador de la invrstigación preliminar citaba tanto cuatro como siete títulos mundiales; se ha optado por señalar "múltiple campeón mundial" con la cifra de su sitio oficial (cuatro) e indicar que fuentes independientes más recientes lo elevan a siete. En cuanto al número total de récords, las fuentes oscilan entre "más de 60" (sitio oficial), 62 (perfil de patrocinio) y 66 (Aero Report, 2022); se ha adoptado la expresión "más de 60" como la más conservadora. La fecha del vuelo sobre el Everest aparece como 1 de febrero en Wikipedia y algunas fuentes secundarias, pero el propio Mountain Wave Project y reportes de la expedición la sitúan el 28 de enero de 2014; se ha usado esta última fecha.</p>
+<p><strong>Nota aclaratoria:</strong> Las fuentes citan tanto cuatro como siete títulos mundiales; se ha optado por señalar "múltiple campeón mundial" con la cifra de su sitio oficial (cuatro) e indicar que fuentes independientes más recientes lo elevan a siete. En cuanto al número total de récords, las fuentes oscilan entre "más de 60" (sitio oficial), 62 (perfil de patrocinio) y 66 (Aero Report, 2022); se ha adoptado la expresión "más de 60" como la más conservadora. La fecha del vuelo sobre el Everest aparece como 1 de febrero en Wikipedia y algunas fuentes secundarias, pero el propio Mountain Wave Project y reportes de la expedición la sitúan el 28 de enero de 2014; se ha usado esta última fecha.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 12:00:50 CST
+- **Timestamp de verificación:** 2026-09-17 18:04:14 CST
 - **Fuentes primarias/institucionales consultadas:** Sitio oficial de Klaus Ohlmann, FAI, Wikipedia (EN), Aero Report, AOPA, Mountain Wave Project, Lange Aviation, Sustainable Skies
 - **Discrepancias resueltas:** Se aclaró la variación en el número de títulos mundiales y de récords; se adoptó la fecha del vuelo sobre el Everest del 28 de enero de 2014 basándose en el Mountain Wave Project.
 - **Datos no confirmados omitidos:** Total exacto de récords/títulos ante discrepancias entre fuentes primarias.

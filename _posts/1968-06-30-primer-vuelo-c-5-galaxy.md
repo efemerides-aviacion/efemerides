@@ -98,7 +98,7 @@ A más de cincuenta años de su primer vuelo, el Lockheed C-5 Galaxy continúa s
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Se ha corregido un error técnico crítico presente en el borrador de investigación preliminar, el cual listaba de manera equivocada los motores del C-5 Galaxy como cuatro pequeños turbofáns General Electric TF34-GE-100A de 10.000 libras de empuje cada uno (un motor ligero diseñado para aviones de ataque como el A-10 Thunderbolt II). En realidad, el Lockheed C-5A original que voló el 30 de junio de 1968 estaba propulsado por cuatro colosales motores turbofán de alto índice de derivación <strong>General Electric TF39-GE-1C</strong>, capaces de generar entre 41.000 y 43.000 libras de empuje unitario (182-191 kN) cada uno, lo que representaba un empuje total combinado de más de 164.000 lbf (730 kN), indispensable para levantar esta aeronave de más de trescientas cincuenta toneladas de peso.</p>
+  <p><strong>Nota aclaratoria:</strong> Algunas fuentes secundarias atribuyen al C-5 Galaxy cuatro turbofán General Electric TF34-GE-100A de 10.000 libras de empuje, un motor ligero destinado a aviones como el A-10 Thunderbolt II. El Lockheed C-5A original que voló el 30 de junio de 1968 estaba propulsado por cuatro colosales motores turbofán de alto índice de derivación <strong>General Electric TF39-GE-1C</strong>, capaces de generar entre 41.000 y 43.000 libras de empuje unitario (182-191 kN) cada uno, lo que representaba un empuje total combinado de más de 164.000 lbf (730 kN), indispensable para levantar esta aeronave de más de trescientas cincuenta toneladas de peso.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -107,8 +107,8 @@ A más de cincuenta años de su primer vuelo, el Lockheed C-5 Galaxy continúa s
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Timestamp de verificación:** 2026-09-17 18:04:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Archivos técnicos de ingeniería de Lockheed Martin, registros de vuelos de prueba de la planta de Marietta de 1968, documentos de la USAF de control de adquisiciones de motores General Electric TF39, base de datos del National Museum of the United States Air Force y artículos históricos de Code One Magazine
-- **Discrepancias resueltas:** Los motores figuran como TF34 en versiones erróneas y como TF39-GE-1C de General Electric, de alta derivación, en la documentación histórica; se adoptan estos últimos. Asimismo, se unificó la tripulación a bordo durante el primer vuelo (cinco tripulantes de prueba de Lockheed y la USAF frente a los siete habituales de servicio operativo descritos en algunas fuentes generales).
+- **Discrepancias resueltas:** Los motores figuran como TF34 en algunas fuentes secundarias y como TF39-GE-1C de General Electric, de alta derivación, en la documentación histórica; se adoptan estos últimos. Asimismo, se unificó la tripulación a bordo durante el primer vuelo (cinco tripulantes de prueba de Lockheed y la USAF frente a los siete habituales de servicio operativo descritos en algunas fuentes generales).
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
