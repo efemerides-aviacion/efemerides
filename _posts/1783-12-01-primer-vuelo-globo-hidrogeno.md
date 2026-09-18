@@ -109,7 +109,7 @@ El vuelo de Charles y Robert es considerado el nacimiento del globo de gas moder
 
 - **Ley de Charles:** Jacques Charles es recordado en la física por la **Ley de Charles** (o Ley de los volúmenes), formulada en 1787: "A presión constante, el volumen de un gas ideal es directamente proporcional a su temperatura absoluta". Aunque no fue el único descubridor (Joseph Louis Gay-Lussac publicó una ley similar), su nombre quedó asociado al principio.
 
-- **Precursor de los dirigibles:** Los principios de control de altitud mediante válvula y lastre desarrollados por Charles fueron utilizados posteriormente por Alberto Santos-Dumont, Ferdinand von Zeppelin y otros pioneros de los dirigibles.
+- **Precursor de los dirigibles:** Los principios de control de altitud mediante válvula y lastre desarrollados por Charles fueron utilizados posteriormente por Alberto Santos-Dumont, Ferdinand von Zeppelin y otros pioneros de los dirigibles. Sesenta y nueve años después de este vuelo, el aeróstato dejó de ser un vehículo a merced del viento cuando Henri Giffard voló el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1852/09/24/henri-giffard-primer-dirigible-propulsado-gobernable.html" style="color: #315fea; text-decoration: none;">primer dirigible propulsado y gobernable</a>.
 
 - **Museo de las Artes y los Oficios (París):** Una réplica del globo de Charles se exhibe en el Musée des Arts et Métiers de París, junto con instrumentos originales de la época.
 
@@ -147,7 +147,7 @@ El vuelo de Charles y Robert es considerado el nacimiento del globo de gas moder
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Timestamp de verificación:** 2026-09-18 08:06:42 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), National Geographic, RTVE, MeisterDrucke, Encyclopaedia Britannica
 - **Discrepancias resueltas:**
   - Altitud del segundo ascenso: entre 3,000 y 3,500 metros según fuentes; se incluye el rango.

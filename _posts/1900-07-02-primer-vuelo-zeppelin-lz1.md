@@ -34,7 +34,7 @@ image: 1900-07-02-primer-vuelo-zeppelin-lz1.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
 
-A finales del siglo XIX, la ingeniería aeronáutica se encontraba en una encrucijada donde los globos libres tradicionales eran incapaces de navegar contra las corrientes del viento. Aunque pioneros como Henri Giffard y Alberto Santos-Dumont desarrollaron los primeros dirigibles de envoltura flexible, la idea de un gigantesco aerostato de estructura rígida de aluminio parecía una quimera técnicamente inviable y peligrosa.
+A finales del siglo XIX, la ingeniería aeronáutica se encontraba en una encrucijada donde los globos libres tradicionales eran incapaces de navegar contra las corrientes del viento. Aunque pioneros como Henri Giffard —quien en 1852 voló el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1852/09/24/henri-giffard-primer-dirigible-propulsado-gobernable.html" style="color: #315fea; text-decoration: none;">primer dirigible propulsado y gobernable</a>— y Alberto Santos-Dumont desarrollaron los primeros dirigibles de envoltura flexible, la idea de un gigantesco aerostato de estructura rígida de aluminio parecía una quimera técnicamente inviable y peligrosa.
 
 ### Entorno social
 La sociedad del Imperio alemán del cambio de siglo vivía bajo una intensa fe en el progreso científico y la consolidación del poder industrial. A pesar de que el conde Ferdinand von Zeppelin fue obligado a retirarse del ejército en 1890, dedicó toda su fortuna e influencia social a convencer a los industriales y al gobierno de que los dirigibles rígidos revolucionarían la comunicación y el comercio del nuevo siglo.
@@ -98,7 +98,7 @@ El conde Ferdinand von Zeppelin y su primer dirigible LZ 1 permanecen en la hist
 
 Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación presentada, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-09-07 10:25:07 CST
+- **Timestamp de verificación:** 2026-09-18 08:06:42 CST
 - **Fuentes primarias/institucionales consultadas:** Archivos oficiales de la compañía Luftschiffbau Zeppelin GmbH, bitácoras de de vuelos de los ensayos sobre el lago de Constanza de julio y octubre de 1900, documentos de patentes de aluminio de la empresa de Carl Berg, y los reportes históricos conservados en el Museo Zeppelin de Friedrichshafen
 - **Discrepancias resueltas:** Se identificó y aclaró la pequeña inconsistencia en los informes de duración del primer vuelo (algunas fuentes generales citan veinte minutos de vuelo aproximados, mientras que las bitácoras oficiales de la tripulación registran exactamente diecisiete minutos y cuarenta y tres segundos de vuelo efectivo antes del aterrizaje forzoso, adoptándose los dieciocho minutos como la cifra redondeada más aceptada). Asimismo, se validó la potencia unitaria real de los primeros motores Daimler de cuatro cilindros en 14,2 CV de fuerza.
 - **Nivel de confianza:** Alto
