@@ -43,7 +43,7 @@ https://api.github.com/repos/efemerides-aviacion/efemerides/branches/restauracio
 Debe enumerar nominalmente los seis rectores y sus versiones:
 
 1. `docs/plantilla-maestra-efemerides-v2.18.md`
-2. `docs/instrucciones-formato-efemerides-v2.15.md`
+2. `docs/instrucciones-formato-efemerides-v2.16.md`
 3. `docs/instrucciones-procesar-efemerides-v2.14.md`
 4. `docs/manual-estilo-efemerides-v1.16.md`
 5. `docs/anexo-comparacion-tratamientos-y-rangos.md`

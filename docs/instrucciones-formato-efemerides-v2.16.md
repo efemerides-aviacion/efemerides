@@ -1,6 +1,6 @@
 # Instrucciones de formato de salida para efemérides
-> Última actualización: 2026-09-03  
-> Versión: v2.15
+> Última actualización: 2026-09-20  
+> Versión: v2.16
 
 ---
 
@@ -332,28 +332,39 @@ Debe ser explícito y justificado por la robustez de las fuentes:
 
 ## MENSAJES DE COMMIT PARA GITHUB DESKTOP
 
-El editor aplica y empuja los commits con **GitHub Desktop**; la entrega del
-investigador consiste en los archivos finales listos para copiar al clon y el
-mensaje separado en los dos campos de la interfaz. No se entregan parches
-`git am` ni commits construidos en el clon del entorno.
+El editor aplica y empuja los commits con **GitHub Desktop**. El investigador
+no construye commits ni parches `git am` en su clon: su entrega consiste en
+los archivos finales listos para copiar al clon del editor.
 
-Formato obligatorio (vigente desde el 12 de agosto de 2026; quedan derogados el
-prefijo `feat(efemerides):` y el cierre Categoría/País):
-- **Resumen (Summary):** frase descriptiva en español que nombra el cambio
-  («Nueva efeméride: …», «Estandarización de títulos de la categoría …»,
-  «Corrección de líneas divisorias de la categoría … (tanda X de Y)»).
-- **Descripción (Description):** viñetas con los archivos añadidos o
-  reemplazados (ruta dentro del repo) y las notas pertinentes: procedencia y
-  licencia de la imagen, enlaces internos nuevos y documento base de la
-  investigación.
+### Formato obligatorio de los datos del commit (normalizado el 20-09-2026)
+
+Los datos del commit se entregan en el chat en **dos bloques de texto**
+separados y etiquetados, siempre con la misma forma:
+
+- **Bloque 1 — Summary:** una sola línea. En altas, con el patrón
+  `Alta AAAA-MM-DD: <hito corto>`; en tandas y correcciones, frase
+  descriptiva en español que nombra el cambio.
+- **Bloque 2 — Description:** un máximo de dos viñetas. En altas: la primera
+  describe post, imagen, linter y ecos; la segunda, referencias,
+  discrepancias y enlaces cruzados.
+
+La tabla file-a-file (rutas dentro del repo, bytes, SHAs, blobs) se entrega
+solo en el TXT y el chat de la entrega, nunca dentro del mensaje. Quedan
+derogados el prefijo `feat(efemerides):`, el cierre Categoría/País y la
+redacción del 12-08-2026 que incluía rutas de archivo en la Description.
+
+### Momento de entrega
+
+Los datos del commit se entregan **únicamente cuando el editor los pide**,
+tras revisar el post y una vez respondidas sus observaciones o sugerencias,
+si las hubo. Proponerlos antes o por iniciativa propia queda prohibido. El
+commit representa así la **incorporación inicial limpia** del post al
+repositorio, no una sucesión de microajustes.
 
 Tandas: cuando un cambio homogéneo alcance muchos archivos (auditorías de
 títulos, normalización de separadores), se agrupa en tandas cronológicas de
 alrededor de diez archivos, cada una con su propio mensaje; la efeméride nueva
 viaja siempre en un commit único con su imagen.
-
-### Regla editorial nueva
-El commit debe proponerse **después** de la revisión del usuario o de la incorporación de sus correcciones, de modo que represente la **incorporación inicial limpia** del post al repositorio, no una sucesión de microajustes.
 
 ---
 
@@ -604,3 +615,18 @@ Instrucciones de Procesar v2.14.
 El documento del editor «Comparación de tratamientos y rangos» (pautas RAE / uso periodístico / protocolo venezolano) queda anexado a `docs/` como referencia normativa, citado desde la Plantilla Maestra v2.18 (regla maestra 5), el Manual de Estilo v1.15 (§ 4.3) y este apartado, como fundamento de la desviación expresa frente a la pauta RAE.
 
 Alineadas en la misma fecha: Plantilla Maestra v2.18 y Manual de Estilo v1.15; Instrucciones de Procesar v2.14, sin novedad.
+
+## ACTUALIZACIONES DE FORMATO V2.16 — 2026-09-20
+
+### Normalización de los datos del commit (sección «Mensajes de commit para GitHub Desktop»)
+
+La sección se reescribe con el formato vigente: dos bloques de texto en el
+chat —Summary (una línea) y Description (máx. dos viñetas)— con contenido fijo
+por bloque, y entrega únicamente a petición del editor tras su revisión y la
+respuesta a sus observaciones. La tabla file-a-file queda fuera del mensaje
+(chat/TXT). Motivo: el investigador entregaba los datos del commit con formas
+distintas en cada sesión; orden del editor del 20-09-2026, que levanta la
+moratoria solo para esta enmienda. Queda derogada la redacción del 12-08-2026
+que incluía rutas de archivo en la Description.
+
+Demás rectores: sin novedad.
