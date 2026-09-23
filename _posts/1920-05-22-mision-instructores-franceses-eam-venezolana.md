@@ -42,7 +42,7 @@ El final de la Primera Guerra Mundial (1918) dejó a Europa devastada pero tambi
 Venezuela vivía bajo el régimen de Juan Vicente Gómez (1908-1935), un período de centralización del poder y modernización del Estado. El descubrimiento y explotación del petróleo a partir de 1914 generó ingresos fiscales sin precedentes, permitiendo al gobierno gomecista invertir en infraestructura, fuerzas armadas y tecnología. La creación de una aviación militar respondía tanto a necesidades estratégicas como a la voluntad de proyectar una imagen de modernidad y progreso.
 
 ### Entorno tecnológico
-La aviación militar había evolucionado rápidamente durante la Gran Guerra. En 1914, los aviones eran frágiles máquinas de observación; en 1918, existían cazas especializados, bombarderos y aviones de reconocimiento. Venezuela, que carecía completamente de infraestructura aeronáutica, necesitaba no solo aviones sino también instructores, mecánicos y técnicos que pudieran transferir ese conocimiento. La experiencia previa del país era mínima: en 1912, el aviador estadounidense Frank Boland había realizado exhibiciones en Caracas, pero no hubo continuidad.
+La aviación militar había evolucionado rápidamente durante la Gran Guerra. En 1914, los aviones eran frágiles máquinas de observación; en 1918, existían cazas especializados, bombarderos y aviones de reconocimiento. Venezuela, que carecía completamente de infraestructura aeronáutica, necesitaba no solo aviones sino también instructores, mecánicos y técnicos que pudieran transferir ese conocimiento. La experiencia previa del país era mínima: en 1912, el aviador estadounidense <a href="https://efemerides-aviacion.github.io/efemerides/evento/1912/09/29/primer-vuelo-frank-boland-venezuela.html" style="color: #315fea; text-decoration: none;">Frank Boland</a> había realizado exhibiciones en Caracas, pero no hubo continuidad.
 
 ### Entorno cultural
 La contratación de una misión francesa reflejaba la influencia cultural y militar de Francia en América Latina. Desde el siglo XIX, las élites venezolanas admiraban la cultura francesa. Tras la Primera Guerra Mundial, la reputación de la aviación francesa (con ases como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1894/03/27/nacimiento-rene-paul-fonck-as-primera-guerra-mundial.html" style="color: #315fea; text-decoration: none;">René Fonck</a> o Georges Guynemer) era indiscutible. Además, el agregado militar francés en Caracas había recomendado específicamente la aviación marítima para Venezuela, dado su extenso litoral.
@@ -56,7 +56,7 @@ La contratación de una misión francesa reflejaba la influencia cultural y mili
 - **1920, 17 de abril:** El gobierno de Juan Vicente Gómez decreta la creación de la Escuela de Aviación Militar, con sede en Maracay. Se asignan 350.000 bolívares para su estructuración.
 - **1920, 22 de mayo:** El Ministro de Guerra y Marina comunica al Ministro de Relaciones Exteriores la instrucción presidencial de solicitar a Francia, por vía diplomática, la contratación de una misión de instructores aeronáuticos franceses. La misión debía incluir jefe piloto, instructores, mecánicos y personal especializado en hidroaviones.
 - **1920, 21 de junio:** Se publica el Reglamento Orgánico de la Escuela de Aviación Militar, que establece los cursos de pilotaje, mecánica, observación y fotografía aérea.
-- **1920, diciembre:** Llegan a Venezuela los primeros instructores franceses. El Coronel David López Enríquez asume la dirección de la Escuela de Aviación Militar. Los primeros alumnos venezolanos incluyen a Juan Yépez, Antonio Villegas, Francisco Leonardi, Ovilio Díaz, Julio Fortoul, Luis Rondón, Alfredo García, Jesús Paúl, Elías Sayago, Amador Nieto y Juan Lucero.
+- **1920, diciembre:** Llegan a Venezuela los primeros instructores franceses. El Coronel David López Henríquez asume la dirección de la Escuela de Aviación Militar. Los primeros alumnos venezolanos incluyen a Juan Yépez, Antonio Villegas, Francisco Leonardi, Ovilio Díaz, Julio Fortoul, Luis Rondón, Alfredo García, Jesús Paúl, Elías Sayago, Amador Nieto y Juan Lucero.
 - **1920-1922:** La misión francesa opera en Venezuela, entrenando a los primeros pilotos militares venezolanos.
 - **1922:** Se establece la Base-Escuela de Aviación Marítima de Punta Palmita en el Lago de Valencia, dotada de hidroaviones Caudron G.4 y Farman F.40 bajo la supervisión del Alférez de Navío Robert Guérin.
 - **1923:** Algunos instructores franceses comienzan a retirarse. La aviación nacional enfrenta dificultades por la inexperiencia de los pilotos venezolanos y problemas mecánicos.
@@ -102,7 +102,7 @@ La gestión iniciada el 22 de mayo de 1920 es un hito fundamental en la historia
 
 Los nombres de los instructores franceses, rescatados de archivos históricos y foros especializados, merecen ser recordados como los primeros formadores de la aviación militar venezolana. Robert Guérin, en particular, no solo cumplió su misión sino que se quedó en Venezuela, se nacionalizó y contribuyó a fundar la aviación civil en el país.
 
-Cien años después, la Fuerza Aérea Venezolana (creada formalmente en 1946) honra este legado. El 22 de mayo de 1920 marca el momento en que Venezuela, consciente de su necesidad de tecnología y conocimiento, miró a Francia para construir desde cero una de las instituciones que transformaría la defensa y la conectividad del país.
+Ciento seis años después, la Fuerza Aérea Venezolana (creada formalmente en 1946) honra este legado. El 22 de mayo de 1920 marca el momento en que Venezuela, consciente de su necesidad de tecnología y conocimiento, miró a Francia para construir desde cero una de las instituciones que transformaría la defensa y la conectividad del país.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -128,8 +128,8 @@ Cien años después, la Fuerza Aérea Venezolana (creada formalmente en 1946) ho
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
+- **Timestamp de verificación:** 2026-09-23 09:44:10 CST  
 - **Fuentes primarias/institucionales consultadas:** UCAB (documento académico), Forum PAGES 14-18 (archivo histórico francés), Infodefensa, Valores Patrios, Últimas Noticias
-- **Discrepancias resueltas:** Se ha aclarado la diferencia entre la fecha de la gestión diplomática (22 de mayo de 1920) y la instalación formal de la escuela (10 de diciembre de 1920). Se han cotejado las listas de integrantes de la misión francesa entre fuentes.
+- **Discrepancias resueltas:** Se ha aclarado la diferencia entre la fecha de la gestión diplomática (22 de mayo de 1920) y la instalación formal de la escuela (10 de diciembre de 1920). Se han cotejado las listas de integrantes de la misión francesa entre fuentes. Grafía del apellido del primer director de la Escuela: «David López Henríquez» en el estudio de Froilán Ramos-Rodríguez (UCAB) y en la reseña histórica militar, frente a «David López Enríquez» en Wikipedia y en las páginas que de ella derivan; se adopta «Henríquez», forma que emplea la fuente documental citada en estas Referencias.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
