@@ -1,6 +1,6 @@
 # Manual de Estilo de Efemérides
-> Edición consolidada: 2026-09-17  
-> Versión: v1.16
+> Edición consolidada: 2026-09-23  
+> Versión: v1.17
 
 ---
 
@@ -108,6 +108,19 @@ Los **cargos y oficios civiles van en minúscula incluso ante nombre propio**:
 la aerolínea*, *el presidente Juan Pablo Rojas Paúl*. Decisión D1-a del editor
 (2026-09-03): se mantiene la regla vigente y se armonizan hacia ella las
 correlaciones capitalizadas heredadas.
+
+**Excepción institucional (D1-b, decisión del editor del 23-09-2026).** Cuando el
+cargo u oficio civil encabeza una denominación institucional capitalizada, se
+escribe con mayúscula inicial cualquiera que sea su posición respecto al nombre
+propio: *Presidente de la República*, *Ministro de Guerra y Marina*, *Inspector
+General de Aviación*, *Secretario General de la OEA*. Rige antepuesto (*el
+Presidente de la República, General Juan Vicente Gómez*) y también en aposición
+posterior al nombre (*firmado por el Doctor Rafael Caldera, Presidente de la
+República*). Fuera de ese supuesto permanece íntegra la minúscula de D1-a: ante
+nombre propio sin institución (*el presidente Juan Pablo Rojas Paúl*) y en uso
+genérico (*el propio presidente*). La distinción no atiende a la jerarquía del
+cargo, sino a que la denominación institucional forme parte del nombre oficial
+del órgano.
 
 **Fundamento de la desviación respecto a la Ortografía de la RAE** —que
 prescribe minúscula uniforme para grados, jerarquías y tratamientos—: es una
@@ -228,6 +241,18 @@ Usar HTML inline:
   necesario un enlace desde posts ya publicados (y viceversa), se añade el
   enlace recíproco mediante commit de corrección (caso de los tres hermanos
   Wright, 14 de agosto de 2026).
+
+---
+
+### 6.4 Enlaces externos en el cuerpo
+Los enlaces a museos, archivos, repositorios, instituciones y fuentes
+documentales se reservan a `## Referencias Verificadas` y al `<figcaption>` que
+acredita la fuente de la imagen. En el cuerpo narrativo solo se admiten enlaces
+internos a otras efemérides del proyecto y, excepcionalmente, un enlace externo
+cuando el destino sea el objeto mismo del relato (página oficial del aparato,
+del organismo o de la norma citada) y no una fuente de contraste. Decisión del
+editor del 23-09-2026, que recoge la observación del 22-09 sobre enlaces a
+Museum of Flying y NASM insertos en prosa.
 
 ---
 
@@ -472,7 +497,9 @@ investigador (14 de agosto de 2026).
   imágenes (§ 9.1).
 - escribir en minúscula un grado, una jerarquía de aviación o un tratamiento honorífico que precede inmediatamente a un nombre propio (§ 4.3);
 - capitalizar cargos u oficios civiles ante nombre propio, o escribir en minúscula el plural de grado que encabeza una lista de nombres (§ 4.3, decisiones D1-a y D2-a de 2026-09-03);
-- aplicar el verbo *adolecer* a una máquina, aeronave o sistema (§ 4.2).
+- aplicar el verbo *adolecer* a una máquina, aeronave o sistema (§ 4.2);
+- escribir en minúscula un cargo civil que encabeza una denominación institucional capitalizada, o en mayúscula un cargo civil fuera de ese supuesto (§ 4.3, D1-a y D1-b);
+- insertar en el cuerpo narrativo enlaces externos a museos, archivos, repositorios o instituciones que corresponden a `## Referencias Verificadas` o al `<figcaption>` (§ 6.4).
 
 ---
 
@@ -492,6 +519,8 @@ investigador (14 de agosto de 2026).
 - [ ] ¿Los metadatos evitan citar el borrador preliminar como fuente de contraste?
 - [ ] ¿Los metadatos reflejan honestamente el nivel de certeza?
 - [ ] ¿Se respetó exactamente lo que el editor pidió en esta ronda?
+- [ ] ¿Los cargos civiles ante denominación institucional capitalizada llevan mayúscula, y minúscula en todo otro uso (§ 4.3, D1-a y D1-b)?
+- [ ] ¿Quedan los enlaces externos institucionales o documentales fuera del cuerpo narrativo (§ 6.4)?
 
 ---
 
@@ -706,3 +735,13 @@ Alineadas en la misma fecha: Plantilla Maestra v2.18 (regla maestra 5) e Instruc
 - **§ 13, viñeta nueva de errores** remitiendo a § 4.2.
 
 Edición puntual ordenada por el editor el 17-09-2026; la moratoria sobre los demás rectores se mantiene. Plantilla Maestra v2.18, Instrucciones de Formato v2.15 e Instrucciones de Procesar v2.14: sin novedad.
+
+---
+
+## 28. Actualizaciones editoriales v1.17 — 2026-09-23
+
+- **§ 4.3, párrafo nuevo (D1-b):** excepción institucional por la que el cargo civil se capitaliza cuando encabeza una denominación institucional capitalizada, en cualquier posición respecto al nombre propio; fuera de ese supuesto rige íntegra la minúscula de D1-a. Decisión del editor del 23-09-2026 al resolver la propuesta del 22-09.
+- **§ 6.4 nueva:** los enlaces externos a museos, archivos, repositorios, instituciones y fuentes documentales se reservan a `## Referencias Verificadas` y al `<figcaption>` que acredita la imagen; en el cuerpo narrativo solo se admiten enlaces internos y, excepcionalmente, el externo que sea el objeto mismo del relato.
+- **§ 13 y § 14:** dos viñetas de errores y dos comprobaciones nuevas, remitiendo a § 4.3 y § 6.4.
+
+Alineadas en la misma fecha: Plantilla Maestra v2.19 e Instrucciones de Formato v2.17; Instrucciones de Procesar v2.14, sin novedad.

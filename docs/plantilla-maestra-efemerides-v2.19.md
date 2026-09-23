@@ -1,10 +1,12 @@
 # Documento Maestro de Plantillas de Efemérides de Aviación
-> Última actualización: 2026-09-03  
-> Versión: v2.18
+> Última actualización: 2026-09-23  
+> Versión: v2.19
 
 ---
 
 ## Nota sobre esta versión
+
+**Novedad de la v2.19.** Dos decisiones del editor del 23-09-2026, que resuelven las propuestas pendientes del 22-09: (a) la **regla maestra 5** incorpora la excepción institucional **D1-b**, por la que el cargo civil se capitaliza cuando encabeza una denominación institucional capitalizada, en cualquier posición respecto al nombre propio; (b) la **regla maestra 2** reserva los enlaces externos a museos, archivos, repositorios, instituciones y fuentes documentales a `## Referencias Verificadas` y al `<figcaption>` que acredita la imagen, admitiendo en el cuerpo narrativo solo enlaces internos y, excepcionalmente, el externo que sea el objeto mismo del relato. En paralelo: Manual de Estilo v1.17 (§ 4.3 y § 6.4) e Instrucciones de Formato v2.17. Instrucciones de Procesar v2.14: sin novedad. Registro de la versión anterior debajo.
 
 **Novedad de la v2.18.** Reescritura de la **regla maestra 5**, aprobada por el editor el
 03-09-2026 a raíz de su «Comparación de tratamientos y rangos», que se incorpora como
@@ -197,6 +199,7 @@ Dentro del cuerpo del post, las referencias internas o externas integradas en p�
 - No usar enlaces Markdown en mitad del texto si rompen la armonía visual.
 - No usar subrayado por defecto.
 - Verificar siempre la sintaxis correcta de `href`.
+- Los enlaces a museos, archivos, repositorios, instituciones y fuentes documentales se reservan a `## Referencias Verificadas` y al `<figcaption>` que acredita la fuente de la imagen; en el cuerpo narrativo solo se admiten enlaces internos y, excepcionalmente, el externo que sea el objeto mismo del relato (decisión del editor del 23-09-2026).
 
 **Correcto ✅**
 ```html
@@ -239,6 +242,8 @@ Ante nombre propio inmediato, mayúscula inicial en:
 - el plural que encabeza una lista de nombres propios: `los Tenientes Gómez y Ramírez`, `los Mayores Squier y Wallace`.
 
 Sin nombre propio: minúscula. Cargos y oficios civiles: minúscula siempre, incluso ante nombre propio (*el ingeniero civil Gustavo Heny*, *el presidente Juan Pablo Rojas Paúl*) —decisión D1-a, en vigor desde el primer Manual y reconfirmada el 2026-09-03—.
+
+**Excepción institucional (D1-b, decisión del editor del 23-09-2026).** El cargo civil se capitaliza cuando encabeza una denominación institucional capitalizada (`Presidente de la República`, `Ministro de Guerra y Marina`, `Inspector General de Aviación`), antepuesto al nombre propio o en aposición posterior; en cualquier otro uso rige la minúscula de D1-a.
 
 **Desviación deliberada de la pauta RAE** (que prescribe minúscula uniforme): el proyecto sigue el protocolo venezolano y el uso periodístico de referencia, documentados en `docs/anexo-comparacion-tratamientos-y-rangos.md`. El Manual de Estilo § 4.3 desarrolla la regla y el linter la audita.
 

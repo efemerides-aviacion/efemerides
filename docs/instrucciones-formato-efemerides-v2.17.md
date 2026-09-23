@@ -1,6 +1,6 @@
 # Instrucciones de formato de salida para efemérides
-> Última actualización: 2026-09-20  
-> Versión: v2.16
+> Última actualización: 2026-09-23  
+> Versión: v2.17
 
 ---
 
@@ -94,6 +94,11 @@ editor sustituyó los enlaces a mano copiándolos del navegador.
 
 ---
 
+### 5) Enlaces externos en el cuerpo
+Los enlaces a museos, archivos, repositorios, instituciones y fuentes documentales se reservan a `## Referencias Verificadas` y al `<figcaption>` que acredita la fuente de la imagen. En el cuerpo narrativo solo se admiten enlaces internos a otras efemérides del proyecto y, excepcionalmente, un enlace externo cuando el destino sea el objeto mismo del relato (página oficial del aparato, del organismo o de la norma citada) y no una fuente de contraste.
+
+Motivo: observación del editor del 22-09-2026 sobre enlaces a Museum of Flying y NASM insertos en prosa; adoptada como norma el 23-09-2026.
+
 ## FORMATO DE CIFRAS NUMÉRICAS
 
 - miles con **punto**;
@@ -140,6 +145,7 @@ antes de hoy» y cualquier mención de aniversario.
 - El plural que encabeza una lista de nombres conserva la mayúscula: `los Tenientes Gómez y Ramírez`.
 - Tratamientos honoríficos y académicos (`Doctor`, `Licenciado`, `Señor`, `Señora`, `Señorita` y femeninos): mayúscula al preceder inmediatamente al nombre propio (`Doctor Juan Pablo Rojas Paúl`), minúscula en cualquier otro uso —decisión D2-a del editor, 2026-09-03—.
 - Cargos y oficios civiles: minúscula siempre, incluso con nombre propio (`el ingeniero civil Gustavo Heny`, `el presidente Juan Pablo Rojas Paúl`) —decisión D1-a—.
+- **Excepción institucional (D1-b, decisión del editor del 23-09-2026):** mayúscula inicial del cargo civil cuando encabeza una denominación institucional capitalizada (`Presidente de la República`, `Ministro de Guerra y Marina`, `Inspector General de Aviación`), en cualquier posición respecto al nombre propio, incluida la aposición posterior; minúscula en todo otro uso, conforme a D1-a.
 - La capitalización de grados y tratamientos se aparta deliberadamente de la Ortografía de la RAE por el protocolo venezolano de referencia; fundamento y tabla comparativa: `docs/anexo-comparacion-tratamientos-y-rangos.md`. Rige el Manual de Estilo § 4.3 (v1.15); el linter lo audita.
 
 ### Precisión nominal
@@ -392,7 +398,9 @@ viaja siempre en un commit único con su imagen.
 - líneas de estado del documento o notas sobre resolución de imágenes en el
   post;
 - citar el borrador preliminar entre las fuentes de contraste de los metadatos;
-- entregar un post con menos de cuatro referencias verificadas.
+- entregar un post con menos de cuatro referencias verificadas;
+- escribir en minúscula un cargo civil que encabeza una denominación institucional capitalizada, o en mayúscula un cargo civil fuera de ese supuesto (D1-a y D1-b);
+- insertar en el cuerpo narrativo enlaces externos a museos, archivos, repositorios o instituciones que deben vivir en `## Referencias Verificadas` o en el `<figcaption>` (apartado 5 de «Enlaces»).
 
 ---
 
@@ -630,3 +638,15 @@ moratoria solo para esta enmienda. Queda derogada la redacción del 12-08-2026
 que incluía rutas de archivo en la Description.
 
 Demás rectores: sin novedad.
+
+---
+
+## ACTUALIZACIONES DE FORMATO V2.17 — 2026-09-23
+
+### Excepción institucional D1-b (apartado «Rangos, nombres y estilo histórico»)
+Se incorpora la viñeta D1-b: el cargo civil se capitaliza cuando encabeza una denominación institucional capitalizada, en cualquier posición respecto al nombre propio; fuera de ese supuesto rige íntegra la minúscula de D1-a. Decisión del editor del 23-09-2026 al resolver la propuesta del 22-09, motivada por su propia corrección en el alta 1912-09-29 («Presidente de la República, General Juan Vicente Gómez»).
+
+### Enlaces externos en el cuerpo (apartado 5 de «Enlaces: norma editorial vigente»)
+Se reserva los enlaces a museos, archivos, repositorios, instituciones y fuentes documentales a `## Referencias Verificadas` y al `<figcaption>` que acredita la imagen; en el cuerpo narrativo solo se admiten enlaces internos y, excepcionalmente, el externo que sea el objeto mismo del relato. Se añaden dos viñetas a la lista de errores frecuentes y dos comprobaciones al Manual v1.17 (§ 14).
+
+Alineadas en la misma fecha: Plantilla Maestra v2.19 y Manual de Estilo v1.17; Instrucciones de Procesar v2.14, sin novedad.
