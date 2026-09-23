@@ -87,6 +87,8 @@ El F-35 ha sido objeto de controversia por sobrecostos (el programa superó el p
 
 El prototipo AA-1, aunque ya no vuela, es una pieza histórica. Tras su retiro en 2011, fue utilizado para pruebas estructurales en la base de la Fuerza Aérea de Edwards (California). En 2021, fue trasladado al **National Museum of the United States Air Force** en Dayton, Ohio, donde se exhibe en la galería de desarrollo de aeronaves de investigación. El F-35, a pesar de las controversias iniciales, se ha convertido en el pilar de la OTAN y los aliados de EE. UU. para las próximas décadas. Su capacidad de evolución mediante actualizaciones de software (bloques 4, 5 y futuros) asegura que seguirá siendo relevante frente a amenazas emergentes.
 
+El apelativo «Lightning II» recuperaba, además, uno que ya había llevado de manera no oficial el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1990/09/29/primer-vuelo-lockheed-yf22.html" style="color: #315fea; text-decoration: none;">YF-22</a> de 1990, antes de recaer en este programa.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas

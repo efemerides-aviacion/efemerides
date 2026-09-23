@@ -94,6 +94,8 @@ Cincuenta y dos años después, el F-16 sigue en producción y en servicio en m�
 
 Aquella hora y media no fue el primer instante en que las ruedas dejaron el suelo —eso había ocurrido el 20 de enero—, pero sí el vuelo con el que el programa se presentó al mundo. De un caza ligero pensado para el combate diurno salió el Fighting Falcon.
 
+General Dynamics, la casa que construyó este demostrador, integraría después, junto a Lockheed y Boeing, el equipo industrial del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1990/09/29/primer-vuelo-lockheed-yf22.html" style="color: #315fea; text-decoration: none;">YF-22</a>.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas

@@ -81,6 +81,7 @@ El éxito del vuelo inaugural tuvo un impacto inmediato sobre la credibilidad de
 
 - **Validación del concepto furtivo en gran bombardero:** el vuelo probó que una gran aeronave de ala volante y baja observabilidad podía operar con éxito.
 - **Refuerzo del programa industrial:** Northrop consolidó su posición como contratista principal de una de las plataformas más avanzadas de su tiempo.
+- **Deriva hacia el concurso de cazas:** Northrop, fortalecida por el B-2, concurriría junto a McDonnell Douglas al concurso de caza avanzado con el YF-23, batido en 1991 por el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1990/09/29/primer-vuelo-lockheed-yf22.html" style="color: #315fea; text-decoration: none;">YF-22</a>.
 - **Continuidad del ensayo operacional:** el primer vuelo abrió la fase extensa de pruebas necesarias para convertir el prototipo en un sistema militar plenamente utilizable.
 - **Cambio doctrinal:** el B-2 fortaleció la idea de que la penetración estratégica del futuro dependería tanto de la invisibilidad relativa como del alcance y la carga bélica.
 - **Proyección simbólica internacional:** desde ese momento, el B-2 se convirtió en una señal visible de la superioridad tecnológica aérea de Estados Unidos al final de la Guerra Fría.

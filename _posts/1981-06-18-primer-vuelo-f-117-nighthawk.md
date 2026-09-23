@@ -112,6 +112,8 @@ El F-117 Nighthawk fue el primer avión furtivo operacional del mundo. Demostró
 
 El Nighthawk sentó las bases tecnológicas para los aviones furtivos que le siguieron: el bombardero B-2 Spirit, el caza F-22 Raptor y el F-35 Lightning II. Sin el F-117, ninguno de esos aviones existiría.
 
+En el terreno de la superioridad aérea, esa herencia tomó forma en el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1990/09/29/primer-vuelo-lockheed-yf22.html" style="color: #315fea; text-decoration: none;">YF-22</a>, el demostrador furtivo que alzó el vuelo en 1990 y del que descendería el F-22 Raptor.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado

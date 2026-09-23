@@ -59,6 +59,8 @@ El vuelo de 1903 transformó la percepción de lo posible, sentando las bases pa
 ## Legado
 El Wright Flyer original se conserva en el Museo Nacional del Aire y el Espacio del Smithsonian. El sitio de Kill Devil Hills es hoy el Monumento Nacional a los Hermanos Wright, tributo al inicio de la era aérea.
 
+La fecha sigue siendo el reloj de la aviación: el 17 de diciembre de 1990, al completarse las pruebas de altos ángulos de ataque del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1990/09/29/primer-vuelo-lockheed-yf22.html" style="color: #315fea; text-decoration: none;">YF-22</a>, se cumplían ochenta y siete años de aquellos doce segundos.
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
 <div class="references">

@@ -86,6 +86,8 @@ Para la industria aeronáutica soviética, el Su-27 representaba una cuestión d
 
 El Su-27 demostró ser no solo el contrapeso soviético al F-15, sino un diseño tan exitoso que sentó las bases de toda una familia de cazas. Sus puntos fuertes —gran autonomía, extraordinaria maniobrabilidad y capacidad de carga de combustible y armamento— lo convirtieron en una plataforma ideal para múltiples misiones.
 
+La alarma que suscitó en Occidente explicaría, años más tarde, el requisito del caza furtivo de superioridad aérea cuyo demostrador alzó el vuelo en 1990: el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1990/09/29/primer-vuelo-lockheed-yf22.html" style="color: #315fea; text-decoration: none;">YF-22</a>.
+
 Las versiones derivadas del diseño básico del Su-27 incluyen:
 - **Su-30:** Versión biplaza de superioridad aérea y ataque.
 - **Su-33 (Su-27K):** Versión embarcada para portaaviones.
