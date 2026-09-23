@@ -1,12 +1,15 @@
 #!/usr/bin/env bash
 # ============================================================================
 # efemerides-linter.sh — Validador estructural de posts de efemérides
-# Normas auditadas: Plantilla Maestra v2.18 · Manual de Estilo v1.16 ·
-# Instrucciones de Procesar v2.14 · Instrucciones de Formato v2.15 ·
+# Normas auditadas: Plantilla Maestra v2.19 · Manual de Estilo v1.17 ·
+# Instrucciones de Procesar v2.14 · Instrucciones de Formato v2.17 ·
 # anexo y registro de excepciones de rangos/tratamientos.
 # Reconstruido el 2026-09-03; alineado y preparado para versionado el 2026-09-05;
 # alineado con Manual v1.16 (aviso léxico «adolecer», todas sus formas, § 4.2) el 2026-09-17;
-# radio de las auditorías 9 y 10 ampliado a cualquier mención de «borrador» (reglas maestras 6 y 8) el 2026-09-17.
+# radio de las auditorías 9 y 10 ampliado a cualquier mención de «borrador» (reglas maestras 6 y 8) el 2026-09-17;
+# alineado con Plantilla Maestra v2.19 · Manual de Estilo v1.17 · Instrucciones de Formato v2.17 el 2026-09-24
+# (nuevas auditorías [AVISO]: cargo civil en minúscula ante denominación capitalizada — Manual v1.17 § 4.3,
+# decisión D1-b — y reserva de enlaces externos — Manual v1.17 § 6.4).
 #
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
@@ -261,6 +264,50 @@ else
   ok "Sin enlaces internos (nada que auditar)"
 fi
 
+# ------------------------------------------ Reserva de enlaces externos (Manual v1.17 § 6.4)
+# Aviso, no fallo: los enlaces externos institucionales/documentales solo van en
+# «## Referencias Verificadas» y en <figcaption>; excepción: el externo que sea objeto del relato.
+# El canónico absoluto https://efemerides-aviacion.github.io/efemerides/... es interno (regla 18).
+SITE_INTERNAL='https://efemerides-aviacion.github.io/efemerides/'
+EXT_RAW=$(grep -noE '<a href="[^"]+"' <<<"$BODY" || true)
+if [ -n "$EXT_RAW" ]; then
+  REFS_LN=$(grep -nxF '## Referencias Verificadas' <<<"$BODY" | head -1 | cut -d: -f1)
+  REFS_END=$(awk -v s="${REFS_LN:-0}" 'NR>s && /^## /{print NR; exit}' <<<"$BODY")
+  [ -z "$REFS_END" ] && REFS_END=$(grep -c '' <<<"$BODY")
+  FC_RANGES=""; FC_START=""
+  while IFS= read -r fc_l; do
+    [ -z "$fc_l" ] && continue
+    fc_n="${fc_l%%:*}"; fc_t="${fc_l#*:}"
+    case "$fc_t" in *'<figcaption'*) FC_START="$fc_n" ;; esac
+    case "$fc_t" in *'</figcaption>'*) [ -n "$FC_START" ] && FC_RANGES="${FC_RANGES}${FC_START}:${fc_n} "; FC_START="" ;; esac
+  done <<<"$(grep -n -e '<figcaption' -e '</figcaption>' <<<"$BODY")"
+  EXT_N=0
+  while IFS= read -r m; do
+    [ -z "$m" ] && continue
+    e_ln="${m%%:*}"; e_tag="${m#*:}"
+    e_url="${e_tag#<a href=\"}"; e_url="${e_url%\"}"
+    case "$e_url" in
+      "$SITE_INTERNAL"*) continue ;;
+      http://*|https://*) ;;
+      *) continue ;;
+    esac
+    e_ok=0
+    if [ -n "${REFS_LN:-}" ] && [ "$e_ln" -ge "$REFS_LN" ] && [ "$e_ln" -le "$REFS_END" ]; then e_ok=1; fi
+    if [ "$e_ok" -eq 0 ]; then
+      for r in $FC_RANGES; do
+        a="${r%%:*}"; b="${r##*:}"
+        [ "$e_ln" -ge "$a" ] && [ "$e_ln" -le "$b" ] && { e_ok=1; break; }
+      done
+    fi
+    if [ "$e_ok" -eq 0 ]; then
+      EXT_N=$((EXT_N+1))
+      # línea +1: alineada con el censo de detección (24-sep); ver nota en la auditoría D1-b
+      printf '[AVISO]   Enlace externo en el cuerpo fuera de «Referencias Verificadas» y <figcaption> (línea %s del cuerpo): %s — (Manual v1.17 § 6.4: externo institucional/documental solo en referencias y leyendas; excepción: el externo que sea objeto del relato)\n' "$((e_ln+1))" "$e_url"
+    fi
+  done <<<"$EXT_RAW"
+  [ "$EXT_N" -eq 0 ] && ok "Sin enlaces externos en el cuerpo fuera de referencias y <figcaption> (Manual v1.17 § 6.4)"
+fi
+
 # ------------------------------------------------- Grados militares (regla 5)
 RANK_RE='teniente de nav[ií]o|tenient[ea]s?|subtenient[ea]s?|alférez|alfereces?|capitanes?|capitán|capitan|coronel(es)?|mayor(es)?|general(es)?|brigadier(es)?|almirantes?|sargent[oa]s?|cab[oa]s?|comodor[oa]s?|primer oficial|oficial(es)? primero'
 BAD_RANK=$(grep -nE "(^|[^A-Za-zÁÉÍÓÚáéíóúÑñ])($RANK_RE) +(\([A-Za-záéíóúñÑÁÉÍÓÚ.]+\) +)?[A-ZÁÉÍÓÚ][a-záéíóú]+" "$FILE" || { [ $? -ge 2 ] && GREP_ERR="$GREP_ERR grep"; true; })
@@ -302,6 +349,69 @@ fail "Cargo civil capitalizado ante nombre propio (línea $n): «$frag» — min
 else
   ok "Cargos civiles en minúscula ante nombre propio (D1-a)"
 fi
+
+# ------------------- Cargo civil en minúscula ante denominación capitalizada (D1-b)
+# Aviso, no fallo: la regla exige juicio (¿denominación institucional, topónimo, país u otro?).
+# Escaneo sobre el cuerpo completo: la denominación puede saltar de línea (fidelidad al censo
+# de detección del 24-sep, donde \s incluye el salto de línea); cada ocurrencia de cargo se
+# evalúa independientemente y la denominación se recorta si desborda sobre otro cargo.
+# Números de línea alineados con el censo: su cuerpo arranca con el salto de línea que cierra
+# el frontmatter, de modo que la 1.ª línea de contenido es la línea 2 (saltos previos al cargo + 2).
+# Corpus pre-23-sep: desviaciones congeladas y documentadas (no-retroactividad) — el aviso las hace visibles.
+CARGOS_RE='presidente|presidentes|presidenta|presidentas|ministro|ministros|ministra|ministras|director|directores|directora|directoras|secretario|secretarios|secretaria|secretarias|gobernador|gobernadores|gobernadora|gobernadoras|superintendente|superintendentes|intendente|intendentes'
+CARGOS_PLAIN='presidente presidentes presidenta presidentas ministro ministros ministra ministras director directores directora directoras secretario secretarios secretaria secretarias gobernador gobernadores gobernadora gobernadoras superintendente superintendentes intendente intendentes'
+RE_D1B_SCAN="(^|[^a-zA-Z])($CARGOS_RE)([[:space:]]|$)"
+RE_D1B_TAIL="^[[:space:]]+(de|del)([[:space:]]+(la|el|los|las|un|una))?[[:space:]]+([A-ZÁÉÍÓÚÜÑ][A-Za-zÁÉÍÓÚÜÑa-záéíóúüñ0-9'’-]*)([[:space:]]+[A-Za-zÁÉÍÓÚÜÑa-záéíóúüñ0-9'’&-]{1,30})?([[:space:]]+[A-Za-zÁÉÍÓÚÜÑa-záéíóúüñ0-9'’&-]{1,30})?([[:space:]]+[A-Za-zÁÉÍÓÚÜÑa-záéíóúüñ0-9'’&-]{1,30})?([[:space:]]+[A-Za-zÁÉÍÓÚÜÑa-záéíóúüñ0-9'’&-]{1,30})?"
+K_MUS='museo|archivo|biblioteca|galería|galeria|memoriam|colección|coleccion'
+K_MIL='fuerza aérea|fuerza aerea|ejército|ejercito|armada|air force|army|navy|corps|escuadrill|marina'
+K_GOB='república|gobiern|congreso|senado|corte|palacio|nación|estado|distrito|ministerio|intendencia|municipal|alcald|prefectur|provincia|comuna|departament|presidencia|concejo|cámara|guerra|defensa|relaciones exteriores|asuntos exteriores|exterior|transporte|comunicaciones|consejo|corona|cementerio|nasa|naca'
+K_EMP='company|corp|inc|ltd|& son|aerol[ií]nea|airline|airways|corporation|aviasa|conviasa|aviaco|varig|viasa|panam|pan am|delta|united|boeing|goodyear|douglas|mcdonnell|eastern|bea|orient'
+K_ORG='club|league|association|sociedad|federaci[oó]n|comisi[oó]n|comit[eé]|academia|universidad|instituto|hospital|banco|gazette|observatorio|académica|escuela|servicio|sección|society|detachment|aéronautique|ninety|skies|birch'
+trunc_cargo() { # recorta la denominación si desborda sobre otro cargo (fidelidad al censo)
+  local w out=""
+  for w in $1; do
+    case " $CARGOS_PLAIN " in *" $w "*) break ;; esac
+    out+="${out:+ }$w"
+  done
+  [ -n "$out" ] || out="${1%% *}"
+  printf '%s' "$out"
+}
+D1B_N=0
+d1b_consumed=0
+rest="$BODY"
+while [[ -n "$rest" && "$rest" =~ $RE_D1B_SCAN ]]; do
+  d1b_full="${BASH_REMATCH[0]}"; d1b_cargo="${BASH_REMATCH[2]}"
+  d1b_prefix="${rest%%"$d1b_full"*}"
+  d1b_adv=$(( ${#d1b_prefix} + ${#d1b_full} ))
+  d1b_tail="${rest:$d1b_adv}"
+  # el patrón de escaneo consumió el espacio (o salto de línea) tras el cargo;
+  # el censo evalúa el texto a partir de ese carácter, así que se reintroduce
+  [ "$d1b_adv" -lt "${#rest}" ] && d1b_tail=" $d1b_tail"
+  if [[ "$d1b_tail" =~ $RE_D1B_TAIL ]]; then
+    D1B_N=$((D1B_N+1))
+    # grupos: 1=de/del 2=« art» 3=artículo 4=1.ª palabra 5-8=palabras 2-5 (el artículo es grupo capturante)
+    d1b_denom="${BASH_REMATCH[4]}${BASH_REMATCH[5]}${BASH_REMATCH[6]}${BASH_REMATCH[7]}${BASH_REMATCH[8]}"
+    d1b_denom=$(trunc_cargo "$d1b_denom")
+    # línea (conv. censo) = saltos de línea previos al inicio del cargo + 2
+    # (posición absoluta en el cuerpo, no en el resto ya consumido)
+    d1b_blen=0
+    [[ "$d1b_full" != "${d1b_cargo}"* ]] && d1b_blen=1
+    d1b_pre="${BODY:0:$(( d1b_consumed + ${#d1b_prefix} + d1b_blen ))}"
+    d1b_nls="${d1b_pre//[!$'\n']/}"
+    d1b_low=$(tr 'ABCDEFGHIJKLMNOPQRSTUVWXYZÁÉÍÓÚÜÑ' 'abcdefghijklmnopqrstuvwxyzáéíóúüñ' <<<"$d1b_denom")
+    d1b_tipo="REVISAR (topónimo u otro)"
+    if [[ " $d1b_low " =~ $K_MUS ]]; then d1b_tipo="museo/archivo"
+    elif [[ " $d1b_low " =~ $K_MIL ]]; then d1b_tipo="militar"
+    elif [[ " $d1b_low " =~ $K_GOB ]] || [[ " $d1b_low " == *" cia "* ]]; then d1b_tipo="gobierno/estatal"
+    elif [[ " $d1b_low " =~ $K_EMP ]] || [[ "$d1b_low" == *"s.a."* ]] || [[ " $d1b_low " == *" nnaa "* ]]; then d1b_tipo="empresa"
+    elif [[ " $d1b_low " =~ $K_ORG ]]; then d1b_tipo="organización"
+    fi
+    printf '[AVISO]   Cargo civil en minúscula ante denominación capitalizada (línea %s del cuerpo): «%s %s» — %s (Manual v1.17 § 4.3, decisión D1-b: capitalizar el cargo ante denominación institucional)\n' "$(( ${#d1b_nls} + 2 ))" "$d1b_cargo" "$d1b_denom" "$d1b_tipo"
+  fi
+  d1b_consumed=$(( d1b_consumed + d1b_adv ))
+  rest="$d1b_tail"
+done
+[ "$D1B_N" -eq 0 ] && ok "Sin cargo civil en minúscula ante denominación capitalizada (D1-b, Manual v1.17 § 4.3)"
 
 # ------------------------------- Léxico: «adolecer» aplicado a máquinas (Manual v1.16 § 4.2)
 # Aviso, no fallo: la regla es léxica y exige lectura humana (el verbo es válido para personas).
