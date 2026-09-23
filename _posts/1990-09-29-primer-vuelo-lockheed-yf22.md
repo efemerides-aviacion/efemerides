@@ -71,7 +71,7 @@ La secuencia que condujo al despegue del 29 de septiembre de 1990 y a la campañ
 - **11 de diciembre de 1990:** Los dos YF-22 vuelan en formación por primera vez.
 - **17 de diciembre de 1990:** Concluyen las pruebas de altos ángulos de ataque: el avión alcanza los 60 grados de incidencia manteniendo el control pleno, en una jornada que coincidía con el octogésimo séptimo aniversario del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">primer vuelo de los hermanos Wright</a>.
 - **28 de diciembre de 1990:** Se cierra la fase de vuelos de prueba de la demostración y validación, con 74 vuelos y 91,6 horas acumuladas entre los dos prototipos.
-- **23 de abril de 1991:** El secretario de la Fuerza Aérea, Donald Rice, anuncia la victoria del equipo Lockheed; el diseño se valora más sólido técnicamente, de menor riesgo y mejor gestionado, mientras que el YF-23 se reconoce más furtivo y rápido pero menos ágil.
+- **23 de abril de 1991:** El Secretario de la Fuerza Aérea, Donald Rice, anuncia la victoria del equipo Lockheed; el diseño se valora más sólido técnicamente, de menor riesgo y mejor gestionado, mientras que el YF-23 se reconoce más furtivo y rápido pero menos ágil.
 - **Agosto de 1991:** El equipo ganador recibe el contrato de desarrollo a escala completa, por un valor inicial cercano a los 11.000 millones de dólares.
 - **9 de abril de 1997:** En la presentación del primer F-22 de serie, bautizado «Spirit of America», el avión recibe su nombre oficial: Raptor.
 - **7 de septiembre de 1997:** Vuela por primera vez el F-22 de producción, heredero directo del demostrador de 1990.
