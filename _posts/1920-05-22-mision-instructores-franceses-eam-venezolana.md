@@ -36,7 +36,7 @@ image: 1920-05-22-mision-instructores-franceses-eam-venezolana.webp
 
 ## Contexto Histórico
 
-El final de la Primera Guerra Mundial (1918) dejó a Europa devastada pero también generó un superávit de pilotos y técnicos aeronáuticos altamente experimentados. Francia, en particular, emergió como una de las potencias aéreas victoriosas, con una industria aeronáutica desarrollada y un cuerpo de aviadores veteranos disponibles para ser contratados en el extranjero.
+La Primera Guerra Mundial (1914-1918) dejó a Europa devastada y, con ella, un superávit de pilotos y técnicos aeronáuticos altamente experimentados. Francia, en particular, emergió como una de las potencias aéreas victoriosas, con una industria aeronáutica desarrollada y un cuerpo de aviadores veteranos disponibles para ser contratados en el extranjero.
 
 ### Entorno social
 Venezuela vivía bajo el régimen de Juan Vicente Gómez (1908-1935), un período de centralización del poder y modernización del Estado. El descubrimiento y explotación del petróleo a partir de 1914 generó ingresos fiscales sin precedentes, permitiendo al gobierno gomecista invertir en infraestructura, fuerzas armadas y tecnología. La creación de una aviación militar respondía tanto a necesidades estratégicas como a la voluntad de proyectar una imagen de modernidad y progreso.
@@ -53,7 +53,7 @@ La contratación de una misión francesa reflejaba la influencia cultural y mili
 
 - **1912:** Primeras exhibiciones aéreas en Venezuela por el aviador estadounidense Frank Boland, sin continuidad institucional.
 - **1919:** El agregado militar francés en Caracas recomienda al gobierno venezolano el desarrollo de la aviación marítima, señalando su utilidad para la vigilancia del extenso litoral venezolano.
-- **1920, 17 de abril:** El gobierno de Juan Vicente Gómez decreta la creación de la Escuela de Aviación Militar, con sede en Maracay. Se asignan 350.000 bolívares para su estructuración.
+- **1920, 17 de abril:** El gobierno de Juan Vicente Gómez decreta la fundación de la Escuela de Aviación Militar; la sede será Maracay y el presupuesto inicial, 350.000 bolívares.
 - **1920, 22 de mayo:** El Ministro de Guerra y Marina comunica al Ministro de Relaciones Exteriores la instrucción presidencial de solicitar a Francia, por vía diplomática, la contratación de una misión de instructores aeronáuticos franceses. La misión debía incluir jefe piloto, instructores, mecánicos y personal especializado en hidroaviones.
 - **1920, 21 de junio:** Se publica el Reglamento Orgánico de la Escuela de Aviación Militar, que establece los cursos de pilotaje, mecánica, observación y fotografía aérea.
 - **1920, diciembre:** Llegan a Venezuela los primeros instructores franceses. El Coronel David López Henríquez asume la dirección de la Escuela de Aviación Militar. Los primeros alumnos venezolanos incluyen a Juan Yépez, Antonio Villegas, Francisco Leonardi, Ovilio Díaz, Julio Fortoul, Luis Rondón, Alfredo García, Jesús Paúl, Elías Sayago, Amador Nieto y Juan Lucero.
