@@ -48,7 +48,7 @@ Las exhibiciones y las competencias deportivas congregaban multitudes en los aer
 Los aviones de competición del periodo, como el Morane-Borel asociado a sus marcas de velocidad, empujaban al límite la potencia de los motores y la resistencia de las células. Superar las 100 millas por hora (160 km/h) en vuelo exigía máquinas ligeras y potentes; el Caudron G.3 con el que aterrizó sobre la azotea de las Galerías Lafayette mostró, además, hasta qué punto el avión podía ya operar fuera de los aeródromos.
 
 ### Entorno cultural
-Los récords de velocidad y trofeos como el Gordon Bennett —que Védrines ganó en Chicago en 1912— alimentaron una cultura deportiva de la aviación. Las hazañas aéreas se leían como emblemas de la modernidad y el progreso, percepción que Védrines reforzó al integrar el avión en la vida urbana y en la cultura popular.
+Los récords de velocidad y trofeos como el Gordon Bennett —instituido originalmente para la aerostación con la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1906/09/30/primera-copa-aeronautica-gordon-bennett-paris.html" style="color: #315fea; text-decoration: none;">primera Copa Gordon Bennett de 1906</a> y extendido a los aeroplanos en 1909, certamen que Védrines ganó en Chicago en 1912— alimentaron una cultura deportiva de la aviación. Las hazañas aéreas se leían como emblemas de la modernidad y el progreso, percepción que Védrines reforzó al integrar el avión en la vida urbana y en la cultura popular.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
