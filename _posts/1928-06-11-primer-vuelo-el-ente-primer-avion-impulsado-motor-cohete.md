@@ -70,7 +70,7 @@ La figura del «pionero audaz» dominaba el imaginario colectivo. El público se
 
 - **11 de junio de 1928, tercer intento:** El equipo decide encender ambos cohetes simultáneamente para obtener mayor empuje. Uno de los cohetes explota, perforando ambas alas e incendiando la aeronave. A pesar de los daños y las llamas, el cohete intacto impulsa el avión hacia el aire. Stamer logra realizar un aterrizaje de emergencia desde unos 20 metros de altura y abandona la nave, que queda completamente calcinada.
 
-- **Septiembre de 1929:** Von Opel presenta el sucesor del Ente, el Opel RAK.1, un avión cohete diseñado específicamente para tal fin, pilotado por el propio von Opel en una demostración pública.
+- **30 de septiembre de 1929:** Von Opel presenta el sucesor del Ente, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1929/09/30/primer-vuelo-publico-avion-cohete-opel-sander-rak1.html" style="color: #315fea; text-decoration: none;">Opel-Sander RAK.1</a>, un avión cohete diseñado específicamente para tal fin, pilotado por el propio von Opel en una demostración pública.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
