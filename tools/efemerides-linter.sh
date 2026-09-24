@@ -7,7 +7,7 @@
 # Reconstruido el 2026-09-03; alineado y preparado para versionado el 2026-09-05;
 # alineado con Manual v1.16 (aviso léxico «adolecer», todas sus formas, § 4.2) el 2026-09-17;
 # radio de las auditorías 9 y 10 ampliado a cualquier mención de «borrador» (reglas maestras 6 y 8) el 2026-09-17;
-# alineado con Plantilla Maestra v2.19 · Manual de Estilo v1.17 · Instrucciones de Formato v2.17 el 2026-09-24
+# alineado con Plantilla Maestra v2.19 · Manual de Estilo v1.17 · Instrucciones de Formato v2.17 el 2026-09-23
 # (nuevas auditorías [AVISO]: cargo civil en minúscula ante denominación capitalizada — Manual v1.17 § 4.3,
 # decisión D1-b — y reserva de enlaces externos — Manual v1.17 § 6.4).
 #
@@ -301,7 +301,7 @@ if [ -n "$EXT_RAW" ]; then
     fi
     if [ "$e_ok" -eq 0 ]; then
       EXT_N=$((EXT_N+1))
-      # línea +1: alineada con el censo de detección (24-sep); ver nota en la auditoría D1-b
+      # línea +1: alineada con el censo de detección (23-sep); ver nota en la auditoría D1-b
       printf '[AVISO]   Enlace externo en el cuerpo fuera de «Referencias Verificadas» y <figcaption> (línea %s del cuerpo): %s — (Manual v1.17 § 6.4: externo institucional/documental solo en referencias y leyendas; excepción: el externo que sea objeto del relato)\n' "$((e_ln+1))" "$e_url"
     fi
   done <<<"$EXT_RAW"
@@ -353,7 +353,7 @@ fi
 # ------------------- Cargo civil en minúscula ante denominación capitalizada (D1-b)
 # Aviso, no fallo: la regla exige juicio (¿denominación institucional, topónimo, país u otro?).
 # Escaneo sobre el cuerpo completo: la denominación puede saltar de línea (fidelidad al censo
-# de detección del 24-sep, donde \s incluye el salto de línea); cada ocurrencia de cargo se
+# de detección del 23-sep, donde \s incluye el salto de línea); cada ocurrencia de cargo se
 # evalúa independientemente y la denominación se recorta si desborda sobre otro cargo.
 # Números de línea alineados con el censo: su cuerpo arranca con el salto de línea que cierra
 # el frontmatter, de modo que la 1.ª línea de contenido es la línea 2 (saltos previos al cargo + 2).
