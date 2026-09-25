@@ -1,6 +1,6 @@
 # Protocolo de continuidad entre sesiones
 
-> Propuesta operativa preparada el 5 de septiembre de 2026. No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
+> Propuesta operativa preparada el 5 de septiembre de 2026 y actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`. No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
 
 ## Principio
 
@@ -42,22 +42,23 @@ https://api.github.com/repos/efemerides-aviacion/efemerides/branches/restauracio
 
 Debe enumerar nominalmente los seis rectores y sus versiones:
 
-1. `docs/plantilla-maestra-efemerides-v2.18.md`
-2. `docs/instrucciones-formato-efemerides-v2.16.md`
+1. `docs/plantilla-maestra-efemerides-v2.19.md`
+2. `docs/instrucciones-formato-efemerides-v2.17.md`
 3. `docs/instrucciones-procesar-efemerides-v2.14.md`
-4. `docs/manual-estilo-efemerides-v1.16.md`
+4. `docs/manual-estilo-efemerides-v1.17.md`
 5. `docs/anexo-comparacion-tratamientos-y-rangos.md`
 6. `docs/excepciones-rangos-y-tratamientos.md`
 
 Debe registrar también:
 
 - si sigue vigente la moratoria de versiones;
-- ruta y versión del linter;
-- ruta del archivo de excepciones legible por máquina;
-- hash SHA-256 de las herramientas que no estén versionadas;
-- forma de recuperarlas si faltan en el workspace.
+- ruta y versión del linter: `tools/efemerides-linter.sh`;
+- ruta del archivo de excepciones legible por máquina: `tools/efemerides-rangos-excepciones.txt`;
+- ruta del detector de ecos versionado: `tools/eco7.py`;
+- hash SHA-256 de cada herramienta vigente;
+- forma de recuperar cualquier herramienta excepcional que todavía no esté versionada.
 
-Una herramienta obligatoria no puede depender únicamente de `/home/user`. Mientras no esté versionada, debe adjuntarse al abrir la sesión o conservarse junto al documento de estado.
+`tools/eco7.py` es la fuente de verdad del detector de ecos desde su incorporación al repositorio el 25 de septiembre de 2026. No debe depender de una copia única en `/home/user/herramientas/`, de un adjunto ni de un equipo local. La copia versionada se recupera con el sparse-checkout de `tools/`. Si el archivo falta, su hash difiere del registrado o no supera las comprobaciones de apertura, debe reconstruirse el clon desde el HEAD remoto antes de auditar contenido.
 
 ### 3. Trabajo cerrado y publicado en la jornada
 
@@ -108,8 +109,7 @@ Configuración reconstruible recomendada:
 
 ```text
 /home/user/
-  efemerides/                         clon disperso de consulta
-  efemerides-linter.sh                solo mientras no esté versionado
+  efemerides/                         clon disperso de consulta; incluye docs, _posts y tools
   en-proceso/
     post/                              entregables de texto pendientes
     img/                               imágenes pendientes
@@ -124,14 +124,14 @@ git clone --filter=blob:none --no-checkout \
   https://github.com/efemerides-aviacion/efemerides.git efemerides
 
 git -C efemerides sparse-checkout init --cone
-git -C efemerides sparse-checkout set docs _posts
+git -C efemerides sparse-checkout set docs _posts tools
 git -C efemerides checkout restauracion-efemerides-3
 ```
 
 Reglas:
 
 - nunca materializar `assets/img`;
-- no asumir que el `.git` o los archivos locales sobreviven a un chat nuevo;
+- no asumir que el `.git` o los archivos locales sobreviven a un chat nuevo; las herramientas obligatorias deben recuperarse desde `tools/` en el HEAD remoto;
 - `en-proceso/` se purga solo después de confirmar publicación y cotejo;
 - las carpetas de resguardo solo se eliminan por orden del editor;
 - el agente no hace commit ni push;
@@ -159,9 +159,10 @@ No debe convertirse en un historial acumulativo de todo el proyecto.
 3. Reconstruir el clon disperso con la rama explícita.
 4. Confirmar que `assets/img` no se materializó.
 5. Leer íntegramente los seis rectores antes de aceptar una efeméride.
-6. Restaurar y comprobar el linter y su archivo de excepciones.
-7. Verificar recuento de `_posts`, calendario y pendientes.
-8. Informar cualquier ausencia o divergencia antes de producir contenido.
+6. Comprobar el linter, su archivo de excepciones y el detector versionado `tools/eco7.py`.
+7. Verificar la sintaxis y ayuda del detector con `python3 -m py_compile tools/eco7.py` y `python3 tools/eco7.py --help`; contrastar su SHA-256 con el estado vigente.
+8. Verificar recuento de `_posts`, calendario y pendientes.
+9. Informar cualquier ausencia o divergencia antes de producir contenido.
 
 Si no es posible acceder al repositorio, los rectores o una herramienta obligatoria, debe indicarse expresamente y suspenderse cualquier entrega que dependa de ellos.
 
@@ -187,5 +188,5 @@ Antes de entregarlo debe comprobarse:
 - los nombres y versiones de rectores coinciden con la rama;
 - el HEAD coincide con la API;
 - las rutas de recuperación son completas;
-- ninguna herramienta obligatoria queda referida solo por una ruta local efímera;
+- ninguna herramienta obligatoria queda referida solo por una ruta local efímera; `tools/eco7.py` está presente, su sintaxis es válida y su SHA-256 coincide con el estado vigente;
 - el documento sustituido queda identificado claramente.
