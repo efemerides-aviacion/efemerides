@@ -73,6 +73,7 @@ El desarrollo del motor a reacción por parte de Frank Whittle fue un proceso la
 - **Junio de 1937:** Segunda prueba del WU, que funciona de manera estable durante 20 minutos.
 - **1938:** Se construye y prueba el segundo motor (WU Mk II).
 - **1941:** El motor Whittle W.1X impulsa el primer vuelo del Gloster E.28/39, el primer avión a reacción británico.
+- **1 de octubre de 1942:** la tecnología de Whittle llega al vuelo estadounidense: dos turborreactores General Electric I-A derivados de sus diseños impulsan el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/10/01/primer-vuelo-bell-xp59a-airacomet.html" style="color: #315fea; text-decoration: none;">Bell XP-59A Airacomet, primer reactor estadounidense en volar</a>.
 - **1944:** Entra en servicio el Gloster Meteor, primer caza a reacción aliado de la historia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -125,7 +126,7 @@ El Whittle Unit no fue un motor perfecto, pero fue el primero. Su éxito en Rugb
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Timestamp de verificación:** 2026-09-25 09:55:07 CST  
 - **Fuentes primarias/institucionales consultadas:** Grace's Guide, Wikipedia (ES/EN)
 - **Discrepancias resueltas:** Algunas fuentes mencionan el 13 de abril como fecha de la prueba, pero la mayoría de las fuentes autorizadas confirman el 12 de abril de 1937. Se ha adoptado esta última.
 - **Nivel de confianza:** Alto
