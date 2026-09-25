@@ -59,7 +59,7 @@ La fundación de Pacific Aero Products Co. fue el resultado de una secuencia muy
 
 - **1915:** William Boeing profundiza su interés por la aviación y colabora con George Conrad Westervelt en el diseño de un hidroavión propio.
 - **15 de junio de 1916:** el B&W, primer avión construido por Boeing y Westervelt, realiza su vuelo inaugural.
-- **15 de julio de 1916:** William E. Boeing funda en Seattle la Pacific Aero Products Co.
+- **15 de julio de 1916:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1881/10/01/nacimiento-william-boeing-fundador-boeing.html" style="color: #315fea; text-decoration: none;">William E. Boeing</a> funda en Seattle la Pacific Aero Products Co.
 - **Finales de 1916:** la compañía continúa el desarrollo de aeronaves propias mientras busca abrirse paso en un mercado todavía pequeño e incierto.
 - **Primavera de 1917:** la firma adopta el nombre Boeing Airplane Co. y reorganiza su estructura en un contexto ya condicionado por la entrada de Estados Unidos en la Primera Guerra Mundial.
 - **1917:** la empresa concentra su crecimiento en las instalaciones del río Duwamish, asociadas posteriormente a la célebre Red Barn.
