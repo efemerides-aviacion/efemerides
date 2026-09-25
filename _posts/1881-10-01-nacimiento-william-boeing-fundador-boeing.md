@@ -81,7 +81,7 @@ La apuesta postal de 1927, con sus 25 Model 40A entre San Francisco y Chicago, d
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
-Galardonado con la medalla Daniel Guggenheim en 1934 e ingresado en el National Aviation Hall of Fame en 1966, diez años después de su muerte, Boeing figura entre los pioneros consagrados de la aviación estadounidense. Su primera factoría, el granero rojo de Seattle, se conserva en el Museum of Flight, donde cuelga una réplica del B&W y se custodian sus papeles personales; el aeródromo del condado mantiene el nombre de Boeing Field.
+Galardonado con la medalla Daniel Guggenheim en 1934 e ingresado en el National Aviation Hall of Fame en 1966, diez años después de su muerte, Boeing figura entre los pioneros consagrados de la aviación estadounidense. El Museum of Flight preserva su primera factoría, el granero rojo de Seattle, exhibe una réplica del B&W y custodia sus papeles personales; el aeródromo del condado mantiene el nombre de Boeing Field.
 
 Ciento cuarenta y cinco años después de su nacimiento en Detroit, el apellido anglicanizado de un inmigrante westfaliano rotula aviones en todos los continentes y da nombre a la empresa que él fundó con el hidroavión B&W.
 
@@ -110,7 +110,7 @@ Ciento cuarenta y cinco años después de su nacimiento en Detroit, el apellido 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-25 05:31:57 CST  
+- **Timestamp de verificación:** 2026-09-25 08:41:05 CST  
 - **Fuentes primarias/institucionales consultadas:** Archives at The Museum of Flight (guía de los papeles de William E. Boeing Sr.); Boeing.com (artículo histórico, 27 de febrero de 2026); National Aviation Hall of Fame (ficha de enshrinee); retrato fotográfico SDASM (dominio público) vía Wikimedia Commons  
 - **Fuentes secundarias de contraste:** HistoryLink.org (ensayo 8023); Immigrant Entrepreneurship del German Historical Institute; Encyclopedia.com; Wikipedia (EN)  
 - **Discrepancias resueltas:** (1) Año del traslado al oeste: HistoryLink (1902) frente al Museum of Flight, el GHI, Encyclopedia.com y Wikipedia (1903); se adopta 1903. (2) Nombre de constitución: «Pacific Aero Products» (Boeing.com, Museum of Flight, HistoryLink, GHI y Encyclopedia.com) frente a «Pacific Airplane Company» (NAHF y Wikipedia); se adopta la primera forma. (3) Se omitieron por desacuerdo entre fuentes: año de compra de Aldarra (1942/1946), año de nacimiento del hijo (1922/1923), número de hermanos (2/3), año del encuentro con Westervelt (~1911/1914), apellido del piloto de exhibición de 1915 (Maroney/Maroney) y mes de la cancelación del correo aéreo (febrero/marzo de 1934, redactado como «principios de 1934»).  
