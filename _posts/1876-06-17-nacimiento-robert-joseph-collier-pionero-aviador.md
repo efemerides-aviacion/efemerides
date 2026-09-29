@@ -19,7 +19,7 @@ image: 1876-06-17-nacimiento-robert-joseph-collier-pionero-aviador.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 17 de junio de 1876 nació en Nueva York Robert Joseph Collier, una figura clave en los albores de la aviación estadounidense. Heredero de la editorial P. F. Collier & Son y editor de la influyente revista Collier's Weekly, Collier fue también un apasionado aviador. Amigo personal de Orville Wright, director de la Wright Company y presidente del Aero Club of America, utilizó su fortuna y su influencia para promover el vuelo. En 1911, prestó su propio Wright Model B al Ejército de los Estados Unidos, que lo utilizó para una de las primeras misiones de reconocimiento aéreo en la frontera con México. Ese mismo año, instituyó un trofeo anual para galardonar «el mayor logro en aeronáutica o astronáutica en Estados Unidos». Hoy, ese trofeo lleva su nombre —el Trofeo Collier— y es considerado el máximo honor de la aeronáutica y la astronáutica estadounidense. Desde 1911, el trofeo ha sido otorgado anualmente (con pocas excepciones durante las guerras mundiales) a los logros más destacados de la aeronáutica o la astronáutica estadounidense, abarcando tanto los aviones como las naves espaciales. Collier falleció prematuramente en 1918, a los 42 años, pero su legado perdura en el premio más codiciado por pilotos, ingenieros, astronautas y diseñadores de aeronaves y naves espaciales.</p>
+  <p>El 17 de junio de 1876 nació en Nueva York Robert Joseph Collier, una figura clave en los albores de la aviación estadounidense. Heredero de la editorial P. F. Collier & Son y editor de la influyente revista Collier's Weekly, Collier fue también un apasionado aviador. Amigo personal de Orville Wright, ocupó un puesto directivo en la Wright Company y presidió el Aero Club of America; utilizó su fortuna y su influencia para promover el vuelo. En 1911, prestó su propio Wright Model B al Ejército de los Estados Unidos, que lo utilizó para una de las primeras misiones de reconocimiento aéreo en la frontera con México. Ese mismo año, instituyó un trofeo anual para galardonar «el mayor logro en aeronáutica o astronáutica en Estados Unidos». Hoy, ese trofeo lleva su nombre —el Trofeo Collier— y es considerado el máximo honor de la aeronáutica y la astronáutica estadounidense. Desde 1911, el trofeo ha sido otorgado anualmente (con pocas excepciones durante las guerras mundiales) a los logros más destacados de la aeronáutica o la astronáutica estadounidense, abarcando tanto los aviones como las naves espaciales. Collier falleció prematuramente en 1918, a los 42 años, pero su legado perdura en el premio más codiciado por pilotos, ingenieros, astronautas y diseñadores de aeronaves y naves espaciales.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -34,7 +34,7 @@ image: 1876-06-17-nacimiento-robert-joseph-collier-pionero-aviador.webp
 - **Profesión:** Editor, publicista, filántropo 
 - **Empresa:** P. F. Collier & Son (heredero y presidente) 
 - **Publicación:** Collier's Weekly (editor) 
-- **Cargos en aviación:** Presidente del Aero Club of America, director de la Wright Company 
+- **Actividad institucional:** presidió el Aero Club of America y ocupó un cargo directivo en la Wright Company 
 - **Aeronave propia:** Wright Model B (1911) 
 - **Trofeo instituido:** Aero Club of America Trophy (1911), renombrado posteriormente como **Trofeo Collier** 
 - **Primer galardonado:** Glenn Curtiss (1911) 
@@ -46,43 +46,33 @@ image: 1876-06-17-nacimiento-robert-joseph-collier-pionero-aviador.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
-
-En las primeras décadas del siglo XX, la aviación era un campo de aventureros, ingenieros visionarios y millonarios excéntricos. Los hermanos Wright habían realizado su primer vuelo en 1903, pero aún pasaría mucho tiempo antes de que volar fuera una actividad común. Los aeródromos eran campos de tierra, los aviones eran frágiles estructuras de madera y tela, y los pilotos eran considerados héroes temerarios.
+La aviación estadounidense pasó rápidamente de las exhibiciones a las primeras aplicaciones militares. Collier la impulsó desde la prensa y los clubes, aportando recursos privados cuando los aviones aún eran frágiles y la utilidad del vuelo estaba en discusión.
 
 ### Entorno social
-
-Collier pertenecía a la élite adinerada de Nueva York. Era hijo de Peter Fenelon Collier, un inmigrante irlandés que había construido un imperio editorial basado en publicaciones católicas y, más tarde, en la revista Collier's Weekly. Robert heredó no solo la fortuna sino también una posición social privilegiada. Su matrimonio con Sara Steward Van Alen, nieta de William Backhouse Astor Jr., lo vinculó aún más a la alta sociedad estadounidense.
+Heredero de una editorial neoyorquina, Collier combinó actividad empresarial, vida pública y afición por el vuelo. Su riqueza le permitió relacionarse con constructores y pilotos, mientras su revista difundía noticias de una tecnología que todavía no formaba parte del transporte cotidiano. Los vínculos familiares y la muerte de su hijo, ya consignados en los datos biográficos, pertenecen a la esfera privada de esa trayectoria.
 
 ### Entorno tecnológico
-
-Collier fue testigo y protagonista de los años más emocionantes de la aviación temprana. En 1911, adquirió un Wright Model B, uno de los primeros aviones producidos en serie por la Wright Company. Este avión tenía una envergadura de 11,6 metros, un motor de 30-35 caballos de potencia y una velocidad máxima de unos 65 km/h. Era, para los estándares de la época, una máquina avanzada. Collier prestó este avión al Ejército de los Estados Unidos, que lo asignó al Teniente Benjamin Foulois (uno de los primeros pilotos militares). Foulois y el piloto civil Phil Parmalee utilizaron el avión para patrullar la frontera entre Estados Unidos y México —una de las primeras misiones de reconocimiento aéreo del Ejército.
+En 1911, el Wright Model B se encontraba entre los primeros aviones de producción en serie. Su préstamo al Ejército permitió ensayar reconocimiento aéreo en la frontera con México, donde los pilotos comprobaron tanto el alcance de la observación desde el aire como las limitaciones de una máquina de madera, tela y baja velocidad.
 
 ### Entorno cultural
-
-Collier era un personaje fascinante: millonario, editor, aviador, filántropo y miembro de la alta sociedad. También fue conocido por sus relaciones con mujeres prominentes, incluyendo a la showgirl Evelyn Nesbit. Su vida personal —incluyendo su matrimonio con Sara Van Alen y la trágica muerte de su hijo recién nacido— refleja las luces y sombras de la élite de la Edad Dorada.
+La prensa, los concursos y las exhibiciones ayudaron a convencer al público de que la aviación podía ser algo más que un espectáculo. Collier respaldó esa transición con un premio que reconocía logros técnicos y daba visibilidad a sus autores; su trabajo reunió la promoción editorial, el mecenazgo y la experiencia directa de pilotar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
-- **17 de junio de 1876:** Nace Robert Joseph Collier en Nueva York 
-- **1894:** Se gradúa de Georgetown University con un A.B., ganando la Medalla Merrick de la Sociedad Filodémica; compone el himno de la universidad 
-- **1894-1896:** Estudia un año en Harvard University y un año en Oxford University 
-- **1898:** Se incorpora a Collier's Weekly como editor y publicista 
-- **1902, 26 de julio:** Se casa con Sara Steward Van Alen en Newport, Rhode Island 
-- **1903, 22-24 de abril:** Su único hijo, Robert Jr., nace prematuramente y fallece dos días después 
-- **1909:** Fallece su padre, Peter Fenelon Collier; Robert se convierte en presidente de P. F. Collier & Son 
-- **1910:** Como presidente del Aero Club of America, encarga la fabricación de un trofeo de 238 kg diseñado por Ernest Wise Keyser 
-- **1911:** Collier presta su Wright Model B al Ejército de EE. UU.; los Tenientes Benjamin Foulois y Phil Parmalee lo utilizan para patrullar la frontera con México, estrellándose en el Río Grande (sin consecuencias graves) 
-- **1911:** Se otorga el primer Trofeo Collier a Glenn Curtiss por su trabajo en hidroaviones 
-- **1911:** Collier utiliza su avión para filmar la construcción del Canal de Panamá 
-- **1913:** Encarga un hidroavión en un temprano intento de cruzar el Atlántico 
-- **1914, agosto:** Sufre una grave intoxicación por uremia por insuficiencia renal en su casa de verano en Raquette Lake, Nueva York; es trasladado inconsciente a Nueva York en un tren privado 
-- **1918, 8 de noviembre:** Regresa a Nueva York tras haber estado reportando la Primera Guerra Mundial en Francia. El General John J. Pershing había cancelado sus credenciales de prensa y le ordenó regresar a casa. Esa misma noche, sufre un ataque cardíaco mientras cenaba y fallece. Tenía 42 años. 
-- **1918, 12 de noviembre:** Su funeral se celebra en la Iglesia de San Juan Bautista en Nueva York; los portadores del féretro incluyen a Orville Wright, Condé Nast, Finley Peter Dunne y Joseph P. Kennedy 
-- **1922:** El Aero Club of America se disuelve; la National Aeronautic Association (NAA) asume la administración del trofeo, que pasa a llamarse extraoficialmente Trofeo Robert J. Collier 
-- **1944:** El nombre «Trofeo Collier» se oficializa 
-- **1984:** Collier es incluido póstumamente en el Aviation Hall of Fame de Nueva Jersey 
+- **17 de junio de 1876:** nace en Nueva York.
+- **1894–1896:** se gradúa en Georgetown y completa estancias de estudio en Harvard y Oxford.
+- **1898:** se incorpora a *Collier's Weekly* como editor y publicista.
+- **1902–1903:** se casa con Sara Steward Van Alen; su hijo Robert Jr. nace prematuramente y fallece dos días después.
+- **1909:** muere su padre y Collier queda al frente de la editorial familiar P. F. Collier & Son.
+- **1910:** encarga el trofeo de plata y cobre diseñado por Ernest Wise Keyser.
+- **1911:** presta su Wright Model B al Ejército. Benjamin Foulois y Phil Parmalee lo usan para patrullar la frontera con México; el aparato se estrella en el Río Grande sin consecuencias graves. Ese año, Glenn Curtiss recibe el primer premio y Collier filma las obras del Canal de Panamá desde el aire.
+- **1913:** encarga un hidroavión con la intención de cruzar el Atlántico; el proyecto no se concreta.
+- **1914:** sufre una grave intoxicación por uremia y es trasladado desde Raquette Lake a Nueva York.
+- **8 de noviembre de 1918:** regresa de Francia, donde había reportado la guerra, y muere esa noche de un ataque cardíaco. Su funeral se celebra cuatro días después.
+- **1922 y 1944:** tras la disolución del Aero Club of America, la National Aeronautic Association asume la administración; el nombre «Trofeo Collier» se oficializa en 1944.
+- **1984:** recibe una inclusión póstuma en el Aviation Hall of Fame de Nueva Jersey.
 
 ### El Trofeo Collier: legado de un pionero
 
@@ -108,29 +98,21 @@ El Trofeo Collier es considerado el máximo honor de la aeronáutica y la astron
 
 ### Collier, el aviador
 
-Collier no era solo un mecenas; era un aviador activo. Adquirió un Wright Model B en 1911 y aprendió a volar. Utilizó su avión para sobrevolar la construcción del Canal de Panamá y filmar el progreso de la obra. También participaba en cacerías de zorros a lomos de su caballo, pero llegaba al lugar de encuentro en su biplano, aterrizando en un campo cercano.
-
-Su pasión por la aviación era tan conocida que en 1913 encargó un hidroavión con la intención de cruzar el Atlántico —un intento que nunca llegó a materializarse. Aunque no completó el cruce, fue uno de los primeros en concebir la idea de vuelos transoceánicos regulares.
+Collier pilotaba por afición y utilizó su Wright Model B para filmar desde el aire la construcción del Canal de Panamá. En 1913 encargó un hidroavión para intentar un cruce transatlántico, proyecto que no llegó a realizarse. Su interés por las travesías largas anticipó debates sobre rutas oceánicas, aunque la tecnología disponible aún no permitía convertir esa idea en un servicio regular.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
+El premio que Collier impulsó creó un mecanismo duradero para reconocer avances técnicos y mantenerlos visibles ante el público. Su trayectoria también mostró que la aviación estadounidense dependió de alianzas entre clubes, fabricantes, prensa y fuerzas armadas, no solo de los pilotos que volaban los aparatos.
 
-El impacto más visible de Collier en la aviación es, sin duda, el Trofeo que lleva su nombre. Durante más de un siglo, ha reconocido los logros más significativos de la aeronáutica y la astronáutica estadounidense, incentivando la innovación y la excelencia en ambos campos.
-
-Pero su contribución no se limitó al trofeo. Como presidente del Aero Club of America, fue un activo promotor de la aviación civil en unos años en que volar era aún una actividad marginal. Prestó su propio avión al Ejército en un momento crítico, contribuyendo a la creación de la aviación militar estadounidense.
-
-Además, Collier fue un filántropo que apoyó causas más allá de la aviación. Fue uno de los impulsores de la Lincoln Farm Association, que recaudó fondos para comprar la granja natal de Abraham Lincoln en Kentucky, convirtiéndola en un parque nacional.
+El préstamo del Model B permitió ensayar observación aérea en una frontera activa y acercó la experiencia civil a las necesidades del Ejército. Collier, por su parte, empleó su revista y sus recursos para documentar una tecnología que todavía debía demostrar su utilidad práctica.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
+Robert Joseph Collier murió a los 42 años, pero la institución que ayudó a crear continuó reuniendo reconocimientos de la aviación y la exploración espacial. Su antigua propiedad de Wickatunk, Nueva Jersey, fue donada por su esposa y hoy alberga la Collier High School.
 
-Robert Joseph Collier falleció joven, a los 42 años, pero su legado ha perdurado por más de un siglo. Cada año, la National Aeronautic Association entrega el Trofeo Collier a «el mayor logro en aeronáutica o astronáutica en Estados Unidos».
-
-Su antigua propiedad en Wickatunk, Nueva Jersey (Rest Hill), donde tenía su propia pista de aterrizaje, fue donada por su esposa a las Hermanas del Buen Pastor y hoy es la **Collier High School**, que lleva su nombre.
-
-El Trofeo Collier es el eslabón que conecta los primeros años de la aviación —frágiles biplanos de madera y tela— con la era espacial y los vuelos comerciales masivos. Es un recordatorio de que la visión y la generosidad de un editor millonario ayudaron a impulsar la industria que hoy conecta el mundo y explora el espacio.
+La permanencia de su nombre en ese premio conecta sus primeros años de vuelo con hitos posteriores de la aeronáutica estadounidense. También recuerda el papel de editores y patrocinadores que financiaron pruebas, amplificaron los resultados y contribuyeron a que el público siguiera el desarrollo de una industria nueva.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -155,7 +137,7 @@ El Trofeo Collier es el eslabón que conecta los primeros años de la aviación 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
+- **Timestamp de verificación:** 2026-09-29 16:35:02 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, TimeNote, Smithsonian Institution
 - **Discrepancias resueltas:** La fecha exacta de fallecimiento varía entre el 8 y el 9 de noviembre de 1918; se ha optado por incluir ambas posibilidades. La cifra del peso del trofeo varía entre 225 y 238 kg; se ha optado por 238 kg según la fuente del Smithsonian. Se ha corregido la definición del trofeo para incluir explícitamente «astronáutica» y «naves espaciales».
 - **Nivel de confianza:** Alto

@@ -35,34 +35,48 @@ redirect_from:
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Contexto Histórico
-Ellyson fue pionero de la aviación naval estadounidense, en un momento en que la aviación apenas comenzaba a integrarse en las fuerzas armadas. Su formación con Glenn Curtiss y sus vuelos en hidroaviones marcaron el inicio de la aviación embarcada en la US Navy.
+La Armada estadounidense empezó a explorar la aviación cuando el avión todavía era una tecnología experimental. En 1910–1911 no existía una doctrina naval definida: la Marina debía decidir si una aeronave podía operar desde el agua, despegar junto a un buque y prestar servicios útiles a una flota.
 
 ### Entorno social
-La aviación era vista como una innovación experimental, y la Marina estadounidense buscaba explorar su potencial en operaciones marítimas.
+Ellyson ingresó en la Academia Naval en 1901 y se graduó en 1905. Antes de pasar a la aviación sirvió en submarinos; en enero de 1911 recibió órdenes de presentarse en el campamento de Glenn Curtiss en North Island, California. Su traslado muestra cómo la Marina recurrió a oficiales con experiencia marítima para probar una especialidad que aún no tenía carrera ni escuela propias.
 
 ### Entorno tecnológico
-Ellyson probó el hidroavión Curtiss A-1 Triad, primer avión diseñado para operar desde agua, tierra y portaaviones improvisados. Sus vuelos demostraron la viabilidad de la aviación naval.
+Los primeros hidroaviones debían resolver problemas de flotación, equilibrio y despegue con superficies de agua cambiantes. El Curtiss A-1 Triad reunía ruedas y flotadores para operar en tierra, agua y aire. Ellyson participó en ensayos de motor, estabilidad, comunicaciones y lanzamiento, en una etapa en que los pilotos también aprendían a reparar las máquinas que volaban. Con un presupuesto inicial de 25.000 dólares, la Marina debía usar cada prueba para valorar qué funciones justificaban nuevas compras.
 
 ### Entorno cultural
-Su designación como Navy Air Pilot No. 1 y la entrega de las alas de oro en 1918 consolidaron símbolos que aún hoy identifican a los aviadores navales.
+La inversión pública llegó después de demostraciones que buscaban convencer a marinos y legisladores. El Capitán Washington Irving Chambers organizó las pruebas y defendió una partida federal para experimentar con aviación naval. El Congreso asignó 25.000 dólares en marzo de 1911; el servicio considera el 8 de mayo, fecha en que Chambers encargó los primeros aparatos, como el nacimiento oficial de la aviación de la Marina. Ellyson fue uno de los pilotos que convirtió esa apuesta presupuestaria en vuelos, datos y procedimientos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
-- **1885:** Nace en Richmond, Virginia.  
-- **1901–1905:** Estudios en la Academia Naval.  
-- **1910–1911:** Entrenamiento con Glenn Curtiss; primer vuelo en enero de 1911.  
-- **1914:** Designado Navy Air Pilot No. 1.  
-- **1918:** Recibe las primeras alas de oro de la US Navy.  
-- **1917–1918:** Servicio en guerra antisubmarina durante la Primera Guerra Mundial.  
-- **1928:** Fallece en accidente aéreo en la bahía de Chesapeake.  
+- **27 de febrero de 1885:** nace en Richmond, Virginia.
+- **1901–1905:** cursa estudios en la Academia Naval y se gradúa como oficial.
+- **2 de enero de 1911:** se presenta ante Glenn Curtiss en North Island para recibir instrucción. La oferta de Curtiss de formar a un aviador naval permitió iniciar el programa antes de que la Marina tuviera aeronaves propias.
+- **1911:** participa en las pruebas de los hidroaviones Curtiss. El A-1 Triad, equipado con un motor de 50 caballos, sirve para ensayar despegues y aterrizajes en agua y tierra. Curtiss pilota el primer vuelo del aparato el 1 de julio; Ellyson vuela en él después, una vez iniciada su instrucción. Así se separa el vuelo inaugural del A-1 del aprendizaje del oficial.
+- **Verano de 1911:** registra más de cincuenta vuelos y once horas de actividad en el A-1. Las pruebas incluyen aterrizajes nocturnos, vuelos de larga distancia sobre agua y experimentos para transmitir señales por radio desde el aire.
+- **31 de julio de 1912:** una primera prueba de catapulta con el A-1 termina cuando el avión se libera antes de tiempo y cae al río Severn; Ellyson sobrevive. El episodio aporta información para rediseñar el soporte y el mecanismo.
+- **12 de noviembre de 1912:** pilota un Curtiss A-3 desde una catapulta revisada en el Washington Navy Yard. El ensayo resulta exitoso y establece un precedente para lanzar aeronaves sin una cubierta de vuelo.
+- **1914–1915:** la Marina formaliza los títulos de sus aviadores. La numeración asigna a Ellyson el certificado Navy Air Pilot No. 1 con fecha retroactiva de 1914; los primeros certificados se distribuyen en enero de 1915. La fecha de designación y la de expedición, por tanto, no coinciden.
+- **1917–1918:** sirve en tareas antisubmarinas durante la Primera Guerra Mundial y recibe la Navy Cross.
+- **1918:** recibe las primeras alas de oro entregadas por la Marina a sus aviadores.
+- **27 de febrero de 1928:** muere en un accidente aéreo; tenía 43 años.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
-Ellyson estableció las bases de la aviación naval estadounidense, siendo referente para generaciones de pilotos. Su legado se refleja en la tradición de las alas de oro y en la expansión de la aviación embarcada.
+El trabajo de Ellyson no consistió en un solo récord, sino en convertir vuelos de prueba en procedimientos que la Marina pudiera repetir. Los ensayos del A-1 ayudaron a establecer qué podía hacer un hidroavión, cuánto trabajo de mantenimiento exigía y cómo trasladar un aparato entre el agua, la costa y un buque.
+
+Las pruebas de lanzamiento desde catapulta fueron igualmente importantes. El intento fallido de 1912 reveló el riesgo de una salida prematura; el vuelo posterior del A-3 demostró que el dispositivo podía impulsar un avión sin una pista convencional. Esa solución extendió la aviación naval más allá de los campos costeros y abrió una vía para operar desde embarcaciones menores y buques, antes de que existieran portaaviones.
+
+La contribución también fue institucional: la Marina pasó de depender de acuerdos individuales con fabricantes a comprar aviones, financiar pruebas y crear designaciones y formación propias. Ellyson participó en esa transición como piloto de ensayo, instructor y oficial operativo.
+
+La bitácora de las pruebas del A-1 daba a la Marina datos comparables sobre duración, mantenimiento y comportamiento de los aparatos. Los ensayos de radio y de vuelo nocturno ampliaron además la pregunta más allá del despegue: qué podía hacer una aeronave para transmitir información y operar cuando la visibilidad era limitada. Ese conjunto de pruebas ayudó a convertir demostraciones aisladas en criterios para entrenar pilotos y evaluar equipos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
-Recordado como el primer aviador naval de Estados Unidos, su nombre figura en memoriales y archivos históricos como pionero de la aviación militar.
+Ellyson ocupa el primer lugar en la numeración histórica de los aviadores navales estadounidenses. Su carrera vinculó la experimentación inicial en North Island con las pruebas de lanzamiento desde catapulta y el servicio antisubmarino de la guerra.
+
+La institución que lo formó conservó su memoria en registros, colecciones y memoriales navales; las alas de oro que recibió en 1918 siguen siendo un emblema de la profesión. Su trayectoria recuerda que la aviación naval no nació con una flota aérea ya definida: se construyó mediante pruebas en el agua, accidentes, reparaciones y decisiones de oficiales que aprendían mientras volaban.
+
+Ellyson fue recordado no solo por ser el primero en la lista, sino por participar en los ensayos que dieron contenido práctico a esa nueva categoría naval. Sus vuelos y las pruebas de catapulta enlazaron el periodo de experimentación con una profesión que después tendría escuelas, credenciales y aeronaves diseñadas para operar desde el mar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
@@ -81,7 +95,7 @@ Recordado como el primer aviador naval de Estados Unidos, su nombre figura en me
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 09:42:20 CST
+- **Timestamp de verificación:** 2026-09-29 16:35:08 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, US Navy, Library of Congress, HistoryHit, USNI  
 - **Discrepancias resueltas:** Confirmación de fechas de designación (1914) y entrega de alas de oro (1918).  
 - **Nivel de confianza:** Alto  

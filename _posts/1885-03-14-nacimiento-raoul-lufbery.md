@@ -46,13 +46,13 @@ redirect_from:
 Raoul Lufbery vivió en una época de transición entre el fin del siglo XIX y la Primera Guerra Mundial, un período que vio el nacimiento de la aviación y su rápida transformación en arma de guerra. Su vida itinerante y su doble herencia cultural lo sitúan como un puente entre Europa y América en los albores de la aviación militar.
 
 ### Entorno social
-La Francia de finales del siglo XIX era una sociedad en reconstrucción tras la derrota en la guerra franco-prusiana (1870), con un fuerte sentimiento nacionalista. Para 1914, el estallido de la Gran Guerra movilizaría a toda una generación. En Estados Unidos, la expansión hacia el Pacífico y la guerra hispano-estadounidense (1898) habían forjado una nueva generación de soldados profesionales con experiencia colonial.
+La Francia de la Tercera República seguía marcada por la pérdida de Alsacia y Lorena y por los debates nacionales que dejó la guerra de 1870. Para 1914, el estallido de la Gran Guerra movilizaría a toda una generación. En Estados Unidos, la expansión hacia el Pacífico y la guerra hispano-estadounidense (1898) habían forjado una nueva generación de soldados profesionales con experiencia colonial.
 
 ### Entorno tecnológico
 La aviación daba sus primeros pasos. Los hermanos Wright volaron en 1903, y para 1910-1914 los aviones eran ya máquinas capaces de realizar exhibiciones y primeros servicios postales. Durante la guerra, la tecnología aeronáutica avanzó a un ritmo vertiginoso: los frágiles biplanos de 1914 se convirtieron en cazas especializados como el Nieuport 11, el SPAD VII y el Nieuport 28, con motores más potentes y armamento sincronizado.
 
 ### Entorno cultural
-La figura del aviador adquirió un halo romántico y heroico desde los primeros tiempos. Los pioneros eran celebrados como artistas del aire. Durante la guerra, los ases de caza (Guynemer, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1894/03/27/nacimiento-rene-paul-fonck-as-primera-guerra-mundial.html" style="color: #315fea; text-decoration: none;">Fonck</a>, Richthofen) se convirtieron en héroes nacionales, y sus hazañas eran seguidas con pasión por la prensa. La Escadrille Lafayette, integrada por voluntarios estadounidenses antes de la entrada de EE.UU. en la guerra, tuvo un enorme valor simbólico y propagandístico.
+La figura del aviador adquirió un halo romántico y heroico desde los primeros tiempos. Los diarios publicaban los derribos y alimentaban la rivalidad entre escuadrillas. Entre los ases de caza figuraron Guynemer, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1894/03/27/nacimiento-rene-paul-fonck-as-primera-guerra-mundial.html" style="color: #315fea; text-decoration: none;">Fonck</a> y Richthofen. La Escadrille Lafayette reunió a voluntarios estadounidenses mientras Washington mantenía la neutralidad; su actividad adquirió un valor simbólico y propagandístico para Francia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
@@ -69,8 +69,8 @@ La figura del aviador adquirió un halo romántico y heroico desde los primeros 
 - **1915:** Es transferido a la Aéronautique Militaire como mecánico. Sirve en la Escadrille VB 106, participando en misiones de reconocimiento.
 - **Mayo de 1916:** Completa su entrenamiento como piloto en Nieuport. Se une a la Escadrille N.124, conocida como Escadrille Lafayette, integrada por voluntarios estadounidenses.
 - **30 de julio de 1916:** Derriba su primer avión enemigo en Verdún.
-- **Octubre de 1916:** Alcanza su quinta victoria, convirtiéndose en el primer as de la Escadrille Lafayette y uno de los primeros ases estadounidenses.
-- **1917:** Acumula victorias, llegando a 16 confirmadas con Francia. En noviembre, tras la entrada de EE.UU. en la guerra, es comisionado como mayor en el U.S. Army Air Service.
+- **Octubre de 1916:** al sumar cinco derribos confirmados, se convierte en el primer piloto de su unidad en alcanzar la categoría de as y en uno de los primeros estadounidenses en obtenerla.
+- **1917:** Acumula victorias, llegando a 16 confirmadas con Francia. En noviembre, cuando Estados Unidos se suma al conflicto, es comisionado como mayor en el U.S. Army Air Service.
 - **Primavera de 1918:** Asume el mando del 94th Aero Squadron ("Hat in the Ring"). Actúa como instructor y mentor de jóvenes pilotos, entre ellos Eddie Rickenbacker, futuro as máximo estadounidense.
 - **Abril de 1918:** Obtiene su 17ª y última victoria confirmada, la primera para el 94th Squadron.
 - **19 de mayo de 1918:** Durante un combate cerca de Maron, Francia, su Nieuport 28 es alcanzado y se incendia. Sin paracaídas, Lufbery se lanza al vacío desde unos 200 metros de altura y fallece en el acto. Tenía 33 años.
@@ -89,13 +89,11 @@ La muerte de Lufbery, en la cima de su fama, conmocionó a la aviación aliada. 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
-Raoul Lufbery ocupa un lugar de honor en la historia de la aviación militar:
-
 - **Primer as estadounidense:** Aunque la mayoría de sus victorias fueron con Francia, se le considera el primer gran as de caza de Estados Unidos.
 - **Nombre de aeródromos:** En su honor, el Aeródromo de Lufbery (hoy Base Aérea 136) en Francia llevó su nombre.
 - **National Aviation Hall of Fame:** Ingresó en 1998, reconociendo su contribución a la aviación.
 - **Cultura popular:** Su vida ha sido objeto de documentales y películas, incluyendo "Major Raoul Lufbery: Fighter Ace" (2018).
-- **Memoriales:** El monumento a la Escadrille Lafayette en Marnes-la-Coquette incluye su tumba y es lugar de peregrinación para los amantes de la historia de la aviación.
+- **Memoriales:** El monumento de Marnes-la-Coquette reúne su tumba y las de otros miembros de la unidad, y recibe a visitantes interesados en la historia de la aviación.
 - **Museo Nacional de la USAF:** Exhibe objetos y documentación sobre su carrera, destacando su papel como pionero.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -126,7 +124,7 @@ Raoul Lufbery ocupa un lugar de honor en la historia de la aviación militar:
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 10:11:07 CST
+- **Timestamp de verificación:** 2026-09-29 16:35:09 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), National Museum of the USAF, Connecticut History, This Day in Aviation, National Aviation Hall of Fame, Purple Heart Mission, Badass of the Week  
 - **Discrepancias resueltas:** Se documentó la diferencia entre victorias confirmadas (17) y posibles victorias no confirmadas; se aclaró la doble nacionalidad y su consideración como primer as estadounidense; se añadió nota sobre las circunstancias de su muerte.  
 - **Nivel de confianza:** Alto  

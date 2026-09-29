@@ -26,14 +26,12 @@ image: 1881-10-01-nacimiento-william-boeing-fundador-boeing.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
-- **Fecha:** 1 de octubre de 1881
-- **Lugar de nacimiento:** Detroit, Míchigan, Estados Unidos
-- **Nombre completo:** William Edward Boeing (Detroit, 1881 – Puget Sound, 1956), empresario maderero y pionero de la aviación estadounidense; fundador de la compañía aeronáutica que lleva su nombre
-- **Origen familiar:** hijo de Wilhelm Böing, inmigrante westfaliano llegado en 1868 que amasó una fortuna con la madera y el hierro de Minnesota, y de la vienesa Marie Ortmann
-- **Formación:** internado en Vevey (Suiza); escuela preparatoria en Nueva Inglaterra; estudios de ingeniería en la escuela Sheffield de Yale, abandonados sin graduarse
-- **Salto al oeste:** en 1903 se estableció en Hoquiam (estado de Washington), donde fundó las madereras Greenwood Timber Company y Boeing & McCrimmon; en 1908 trasladó su residencia a Seattle
-- **Entrada en la aviación:** aprendió a volar en 1915; impulsó y financió el hidroavión B&W (primer vuelo, 15 de junio de 1916) y constituyó la Pacific Aero Products Co. el 15 de julio de 1916
-- **Muerte:** 28 de septiembre de 1956, de un ataque al corazón a bordo de su yate Taconite en Puget Sound (estado de Washington), tres días antes de cumplir 75 años
+- **Fecha y lugar de nacimiento:** 1 de octubre de 1881, Detroit, Míchigan.
+- **Nombre completo:** William Edward Boeing.
+- **Padres:** Wilhelm Böing, inmigrante de Westfalia, y Marie Ortmann, originaria de Viena.
+- **Formación:** internado en Vevey, escuela preparatoria en Nueva Inglaterra y estudios de ingeniería en Yale, que dejó antes de graduarse.
+- **Perfil profesional:** empresario maderero, piloto y fundador de una compañía aeronáutica.
+- **Fallecimiento:** 28 de septiembre de 1956, tres días antes de cumplir 75 años.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -48,6 +46,10 @@ Estados Unidos vivía la llamada Edad Dorada: la Guerra de Secesión quedaba tre
 ### Entorno tecnológico
 
 Faltaban más de dos décadas para el primer vuelo con motor de los hermanos Wright: la aeronáutica de 1881 era la de los globos, con los planeadores aún en fase de tanteo, mientras el motor de combustión interna apenas salía de la infancia —Nikolaus Otto había patentado su ciclo de cuatro tiempos cinco años antes—. En el mar, el vapor y el acero desplazaban a la vela; en tierra, el teléfono y la luz eléctrica empezaban a transformar las ciudades.
+
+La geografía de Seattle, con lagos y ensenadas protegidas, favorecía las pruebas de hidroaviones y facilitaba su traslado desde el agua.
+
+La industria maderera de Hoquiam conectaba la explotación forestal con aserraderos y transporte marítimo. La experiencia de Boeing en ese negocio le dio capital y conocimientos de producción antes de entrar en un sector aeronáutico que todavía dependía de talleres pequeños y contratos públicos.
 
 ### Entorno cultural
 
@@ -110,9 +112,9 @@ Ciento cuarenta y cinco años después de su nacimiento en Detroit, el apellido 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-25 08:41:05 CST  
-- **Fuentes primarias/institucionales consultadas:** Archives at The Museum of Flight (guía de los papeles de William E. Boeing Sr.); Boeing.com (artículo histórico, 27 de febrero de 2026); National Aviation Hall of Fame (ficha de enshrinee); retrato fotográfico SDASM (dominio público) vía Wikimedia Commons  
-- **Fuentes secundarias de contraste:** HistoryLink.org (ensayo 8023); Immigrant Entrepreneurship del German Historical Institute; Encyclopedia.com; Wikipedia (EN)  
-- **Discrepancias resueltas:** (1) Año del traslado al oeste: HistoryLink (1902) frente al Museum of Flight, el GHI, Encyclopedia.com y Wikipedia (1903); se adopta 1903. (2) Nombre de constitución: «Pacific Aero Products» (Boeing.com, Museum of Flight, HistoryLink, GHI y Encyclopedia.com) frente a «Pacific Airplane Company» (NAHF y Wikipedia); se adopta la primera forma. (3) Se omitieron por desacuerdo entre fuentes: año de compra de Aldarra (1942/1946), año de nacimiento del hijo (1922/1923), número de hermanos (2/3), año del encuentro con Westervelt (~1911/1914), apellido del piloto de exhibición de 1915 (Maroney/Maroney) y mes de la cancelación del correo aéreo (febrero/marzo de 1934, redactado como «principios de 1934»).  
-- **Nivel de confianza:** Alto  
-- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”
+- **Timestamp de verificación:** 2026-09-29 16:35:05 CST
+- **Fuentes primarias/institucionales consultadas:** Museum of Flight Archives; Boeing; National Aviation Hall of Fame; SDASM/Wikimedia Commons.
+- **Fuentes secundarias de contraste:** HistoryLink; German Historical Institute; Encyclopedia.com; Wikipedia (EN).
+- **Discrepancias resueltas:** se adoptan 1903 para el traslado al oeste y «Pacific Aero Products Co.» para la empresa; se omiten fechas biográficas menores que las fuentes no concilian.
+- **Nivel de confianza:** Alto.
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

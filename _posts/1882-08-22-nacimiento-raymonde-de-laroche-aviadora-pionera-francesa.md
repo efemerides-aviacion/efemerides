@@ -26,17 +26,12 @@ image: 1882-08-22-nacimiento-raymonde-de-laroche-aviadora-pionera-francesa.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
-
-- **Fecha de nacimiento:** 22 de agosto de 1882, en el número 61 de la rue de la Verrerie, cuarto distrito de París, Francia
-- **Nombre real:** Élisa Léontine Deroche; «Raymonde de Laroche» fue su nombre artístico de actriz
-- **Padres:** Charles François Deroche, fontanero, y Christine Calydon Gaillard
-- **Primer vuelo en solitario:** 22 de octubre de 1909, en Châlons, sobre un biplano Voisin monoplaza, tras instrucción vinculada a Charles Voisin
-- **Licencia de piloto:** número 36 del Aéro-Club de France, expedida el 8 de marzo de 1910; primera concedida a una mujer en el mundo
-- **El título de baronesa:** nunca lo tuvo. Se lo atribuyó la prensa aeronáutica, y la revista británica *Flight* lo empleó ya en su crónica del 30 de octubre de 1909
-- **Coupe Femina:** obtenida el 25 de noviembre de 1913 por un vuelo sin escalas de más de cuatro horas
-- **Primera Guerra Mundial:** al prohibírsele volar, sirvió como conductora militar, trasladando oficiales entre la retaguardia y el frente
-- **Fallecimiento:** 18 de julio de 1919, en el aeródromo de Le Crotoy (Somme), al estrellarse el avión experimental que copilotaba, una variante civil del Caudron G.3; murió también el piloto, Barrault
-- **Sepultura:** cementerio del Père-Lachaise, París
+- **Fecha de nacimiento:** 22 de agosto de 1882.
+- **Lugar:** 61 rue de la Verrerie, cuarto distrito de París.
+- **Nombre real:** Élisa Léontine Deroche; «Raymonde de Laroche» fue su nombre artístico.
+- **Padres:** Charles François Deroche, fontanero, y Christine Calydon Gaillard.
+- **Primer oficio:** actriz de teatro antes de acercarse a la aviación.
+- **Fallecimiento:** 18 de julio de 1919, a los 36 años.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -120,10 +115,9 @@ Conviene recordar, por último, quién fue en realidad: no una baronesa, sino la
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-
-- **Timestamp de verificación:** 2026-08-17 05:38:41 CST
-- **Fuentes primarias/institucionales consultadas:** Library of Congress, ficha catalográfica y negativo original de la George Grantham Bain Collection (LC-DIG-ggbain-20940, signatura LC-B2-3740-6); Smithsonian National Air and Space Museum
-- **Fuentes secundarias de contraste:** This Day in Aviation, Wikipedia en inglés, Aeromuseo
-- **Discrepancias resueltas:** la primacía en el pilotaje por una mujer se disputa entre Deroche y Thérèse Peltier, sin documentación firme para esta última; el otorgante de la Coupe Femina figura como el Aéro-Club de France en unas fuentes y como la revista *Femina* en otras; las marcas de altitud de junio de 1919 se publicaron con cifras divergentes y no fueron homologadas por la Fédération Aéronautique Internationale, que no reconoció récords femeninos hasta 1929. Todas se explican en nota aclaratoria
-- **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Timestamp de verificación:** 2026-09-29 16:35:07 CST
+- **Fuentes primarias/institucionales consultadas:** Library of Congress; Smithsonian National Air and Space Museum.
+- **Fuentes secundarias de contraste:** This Day in Aviation; Wikipedia (EN); Aeromuseo.
+- **Discrepancias resueltas:** primacía del primer vuelo, otorgante de la Coupe Femina y carácter no homologado de las marcas de altitud, explicados en la nota aclaratoria.
+- **Nivel de confianza:** Alto.
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

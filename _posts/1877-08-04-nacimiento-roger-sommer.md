@@ -25,55 +25,44 @@ image: 1877-08-04-nacimiento-roger-sommer.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
-
-- **Fecha de nacimiento:** 4 de agosto de 1877.
-- **Lugar:** Pierrepont, Meurthe-et-Moselle, Francia.
-- **Nombre:** Roger Sommer.
-- **Fallecimiento:** 14 de abril de 1965 en Sainte-Maxime (Var), a los 87 años.
-- **Nacionalidad:** francesa; hijo de Alfred Sommer, industrial belga del fieltro establecido en Mouzon (Ardenas).
-- **Formación:** escuela nacional superior de artes y oficios de Châlons; tres años de milicia en el primer regimiento de ingenieros desde 1896.
-- **Hito asociado:** récord mundial de duración de vuelo, 7 de agosto de 1909 sobre el campamento de Châlons-sur-Marne: 2 h 27 min 15 s, con despegue a las 3 h 14 y aterrizaje a las 5 h 41; decimoctava tentativa, homologada por los comisarios del Aéro-Club de France.
-- **Registro anterior:** Wilbur Wright, 2 h 20 min 25 s, el 31 de diciembre de 1908 en Le Mans.
+- **Nacimiento:** 4 de agosto de 1877 en Pierrepont, Meurthe-et-Moselle, Francia.
+- **Nombre y nacionalidad:** Roger Sommer, francés; su padre Alfred era un industrial belga del fieltro establecido en Mouzon.
+- **Fallecimiento:** 14 de abril de 1965, Sainte-Maxime (Var).
+- **Formación:** escuela de artes y oficios de Châlons y servicio en el primer regimiento de ingenieros.
+- **Récord destacado:** 2 h 27 min 15 s de vuelo, el 7 de agosto de 1909, sobre Châlons; superó la marca anterior de Wilbur Wright.
 - **Brevet:** n.º 29 del Aéro-Club de France, 15 de enero de 1910.
-- **Escuela y talleres:** aeródromo de Sedan-Douzy creado en 1909 como campo de pruebas de sus talleres, con escuela de pilotaje abierta a continuación; hangares en el campamento de Châlons y en Mouzon.
-- **Producción:** 182 aviones entre 1909 y 1912 (183 según las Archives départementales des Ardennes).
-- **Distinciones:** caballero de la Legión de Honor (1911); oficial por decreto del 20 de agosto de 1931.
+- **Actividad industrial:** talleres y escuela de pilotaje en Sedan-Douzy; fabricó biplanos y aviones de reconocimiento.
+- **Producción:** 182 aparatos según una fuente secundaria; 183 según las Archives départementales des Ardennes.
+- **Distinciones:** caballero de la Legión de Honor en 1911 y oficial en 1931.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
-
-Sommer no nació en la aviación: llegó a ella con capital, cultura técnica y apetito de competición. El negocio familiar —el fieltro de Mouzon— pagó los hangares; la escuela de ingenieros, las manos; el pedaleo y los circuitos del automóvil, la falta de miedo.
+Sommer llegó a la aviación desde la industria y el deporte. El negocio familiar del fieltro le dio recursos para construir; su formación técnica y la experiencia como ciclista y automovilista le aportaron destreza para trabajar con máquinas y competir.
 
 ### Entorno social
-
-La aviación francesa de 1909 era una empresa de industriales y deportistas con público y prensa. En el campamento de Châlons, adonde la autoridad militar invitó a instalarse a los aviadores a finales de 1908, Henri Farman y Gabriel Voisin levantaron los primeros hangares; el de Sommer se les unió en la primavera de 1909. Las reuniones de aviación multiplicaban los premios, periódicos como *Le Matin* seguían cada raid con mapas y el Aéro-Club de France homologaba los récords y expedía los brevets: el n.º 29, el de Sommer, es del 15 de enero de 1910, cuando la numeración del club acababa de nacer.
+En 1909, la actividad aeronáutica francesa reunía fabricantes, pilotos y periodistas alrededor de campamentos de vuelo y reuniones públicas. Sommer instaló un hangar en Châlons y más tarde organizó en Sedan-Douzy un campo de pruebas con taller y escuela. Las instituciones deportivas, entre ellas el Aéro-Club de France, homologaban marcas y expedían licencias; los periódicos convertían cada intento en noticia.
 
 ### Entorno tecnológico
-
-El biplano Farman de 1909 —empuje, hélice trasera, planos de cola— apenas tenía instrumentos: volar dos horas era un problema de motor, de mezcla y de pulso. El rotativo Gnome de 50 caballos, que movería también los aparatos construidos por Sommer, cambió la escala del vuelo en aquel verano. Los récords caían en cadena: el 1 de agosto Sommer firmó el récord francés de duración (1 h 50 min 30 s) y seis días después el mundial; tres semanas más tarde, en Reims, su propio maestro Henri Farman voló 180 km en 3 h 4 min 56 s y se lo quitó.
+Los primeros biplanos Farman eran estructuras ligeras con pocos instrumentos. La duración dependía de la fiabilidad del motor, la mezcla de combustible y la capacidad del piloto para sostener el control durante horas. El motor rotativo Gnome, de 50 caballos, permitió elevar el rendimiento de los aparatos de la época y también se incorporó a diseños construidos por Sommer.
 
 ### Entorno cultural
-
-1909 fue el año en que el avión se volvió espectáculo: la Grande Semaine de la Champagne, celebrada en Reims del 22 al 29 de agosto, consagró a los pilotos como héroes de portada y atrajo a industriales, apostadores y multitudes. Sommer venía de ese mundo: ciclista y automovilista antes que aviador, era del linaje de los campeones que cambiaron de máquina sin cambiar de oficio. Su fortuna le permitió hacer lo que los Wright no hacían con los ajenos: vender el aparato, enseñar a volarlo y fabricar series enteras.
+Las reuniones internacionales del verano de 1909 atrajeron a multitudes e industriales, mientras los récords daban a los pilotos notoriedad pública. Sommer formó parte de una generación que no solo volaba: también fabricaba máquinas, enseñaba a pilotarlas y buscaba compradores para sostener la actividad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
-La fecha que se conmemora es el nacimiento; la carrera que le da sentido empieza treinta y un años después.
+El nacimiento de Sommer precedió tres décadas de aviación francesa; el récord de duración en Châlons lo convirtió en figura pública.
 
 - **4 de agosto de 1877:** nace en Pierrepont (Meurthe-et-Moselle); crece en Mouzon, donde su padre dirige la fábrica familiar de fieltro.
-- **1896:** se alista por tres años en el primer regimiento de ingenieros; después cursa estudios de ingeniería en la escuela de artes y oficios de Châlons.
+- **1896:** se incorpora por tres años al cuerpo de ingenieros y, al salir, continúa su formación técnica.
 - **Finales de 1908 – primavera de 1909:** monta su hangar en el campamento de Châlons, se hace alumno de Henri Farman y se eleva en su primer intento a finales de junio de 1909.
 - **1 de agosto de 1909:** récord francés de duración: 1 h 50 min 30 s sobre biplano Farman en Châlons.
-- **2 de agosto de 1909:** vuela de Bouy a Suippes y gana el trofeo Buinette.
-- **7 de agosto de 1909:** récord mundial de duración: 2 h 27 min 15 s, con despegue a las 3 h 14 y aterrizaje a las 5 h 41, arrebatando la marca a Wilbur Wright (2 h 20 min 25 s, del 31 de diciembre de 1908, en Le Mans).
+- **7 de agosto de 1909:** récord mundial de duración: 2 h 27 min 15 s; supera la marca que Wilbur Wright había fijado en Le Mans.
 - **Del 22 al 29 de agosto de 1909:** Grande Semaine de la Champagne, en Reims: séptimo del Gran Premio de la Champagne de distancia. El día 27, Henri Farman le arrebata el récord con 180 km en 3 h 4 min 56 s; el 29, Sommer lleva de pasajera a la británica <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1874/04/19/nacimiento-gertrude-bacon.html" style="color: #315fea; text-decoration: none;">Gertrude Bacon</a>, primera mujer de su país en volar en un avión.
 - **1909:** crea el aeródromo de Sedan-Douzy como campo de pruebas de sus talleres y abre enseguida una escuela de pilotaje; los alumnos obtienen el «brevet Sommer» homologado por el Aéro-Club de France.
 - **15 de enero de 1910:** recibe su propio brevet, el n.º 29 del Aéro-Club de France.
-- **15 de mayo de 1910:** raid Mouzon–Charleville ida y vuelta, unos 80 km en 1 h 10; *Le Matin* publicó dos días después el mapa del trayecto.
-- **29 de mayo de 1910:** Charleville–Verdun ida y vuelta: 240 km sobre biplano.
 - **1910:** Humber construye en Inglaterra biplanos Sommer bajo licencia; en Francia, la belga <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1877/07/10/nacimiento-helene-dutrieu.html" style="color: #315fea; text-decoration: none;">Hélène Dutrieu</a> cuenta los aparatos Sommer entre sus primeras máquinas de ensayo.
 - **26 de enero de 1911:** dos récords mundiales en un día —vuelo con pasajeros a campo través y peso transportado— volando de Douzy a Romilly y de vuelta con cinco pasajeros sobre un biplano Sommer con motor Gnome de 50 CV; en marzo llegó a llevar doce.
 - **18 de febrero de 1911:** un biplano Humber-Sommer de licencia inglesa transporta <a href="https://efemerides-aviacion.github.io/efemerides/evento/1911/02/18/primer-correo-aereo-india.html" style="color: #315fea; text-decoration: none;">el primer correo aéreo oficial de la historia</a>: 6.500 cartas de Allahabad a Naini, en la India, pilotado por Henri Pequet.
@@ -86,18 +75,16 @@ La fecha que se conmemora es el nacimiento; la carrera que le da sentido empieza
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
+El récord de agosto de 1909 tuvo un efecto inmediato: la duración del vuelo empezó a medirse como una disciplina abierta a la mejora, no como una demostración aislada. Sommer aprendió con Henri Farman, superó la marca de Wilbur Wright y, semanas después, vio cómo su maestro la llevaba más lejos. Esa competencia aceleró la evolución de motores, estructuras y métodos de entrenamiento.
 
-El récord del 7 de agosto de 1909 tuvo un valor simbólico inmediato: ocho meses después de que Wilbur Wright fijara la marca en Le Mans, un industrial francés formado en la escuela de Farman la superó y la retuvo veinte días, hasta que el propio Farman la llevó a otra escala en Reims. La duración dejó de ser una hazaña excepcional para convertirse en una disciplina que se aprende, se fabrica y se repite: precisamente el oficio que Sommer instaló en las Ardenas.
-
-Su aportación más durable fue industrial. El aeródromo de Sedan-Douzy, con talleres y escuela, llevó la aviación a un departamento fronterizo y formó pilotos con brevet homologado; la licencia concedida a Humber hizo de su biplano uno de los primeros diseños franceses producidos en el extranjero, y así su máquina acabó franqueando el primer correo aéreo oficial de la historia en la India. La crisis de 1912–1913 —accidentes mortales de personas cercanas, pedidos que se desploman— fue también una lección temprana de la volatilidad del sector, que Sommer resolvió del único modo posible: volviendo a la industria que nunca lo había abandonado.
+Su impacto más duradero fue industrial. El campo de Sedan-Douzy unió pruebas, fabricación y formación; la licencia de sus biplanos permitió que diseños Sommer se construyeran en Inglaterra, y uno de ellos quedó asociado al transporte del primer correo aéreo oficial. Cuando los pedidos disminuyeron y los accidentes redujeron la actividad, regresó a la empresa familiar de fieltro y diversificó la producción.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
+El aeródromo de Sedan-Douzy conserva el nombre de Roger-Sommer, y el Musée des Débuts de l'Aviation de Douzy expone una reconstrucción a tamaño real de uno de sus biplanos. La memoria local combina así el récord con el trabajo de taller y la escuela que abrió.
 
-Ciento cuarenta y nueve años después de su nacimiento, el aeródromo de Sedan-Douzy sigue operativo con el nombre de Roger-Sommer, y el Musée des Débuts de l'Aviation de Douzy conserva su memoria con un biplano Sommer de 1910 reconstruido a tamaño real, junto a los fondos fotográficos de la familia. Amigo de Roland Garros, Sommer fue además padre del piloto de automovilismo Raymond Sommer, uno de los nombres grandes del deporte motor francés de entreguerras.
-
-Sus máquinas tuvieron una vida más viajera que la del propio constructor: el Humber-Sommer que llevó el correo de Allahabad a Naini vuela hoy en la memoria filatélica de la India, y un fuselaje de monoplano Sommer sirvió de cuerpo al autogiro con el que Juan de la Cierva cambió la teoría del vuelo en Getafe. Pocos pioneros que abandonaron la aviación tan pronto dejaron huella tan repartida.
+Sus aparatos también siguieron circulando fuera de Francia: el Humber-Sommer participó en el correo aéreo de India y un fuselaje de su diseño sirvió para el autogiro Cierva C.4. Sommer se retiró de la aviación relativamente pronto, pero su carrera unió deporte, industria y enseñanza en una etapa en que cada uno de esos oficios todavía se estaba inventando.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -124,10 +111,9 @@ Sus máquinas tuvieron una vida más viajera que la del propio constructor: el H
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-
-- **Timestamp de verificación:** 2026-08-26 06:22:47 CST
-- **Fuentes primarias/institucionales consultadas:** Musée des Débuts de l'Aviation de Douzy; Musées Grand Est; Archives départementales des Ardennes (documento del mes); Bibliothèque nationale de France, Gallica (*Le Matin*, 17-may-1910); Aéroclub du Béarn; Library of Congress, colección George Grantham Bain (imagen del post)
-- **Fuentes secundarias de contraste:** Air-Journal (2014); Wikipédia en francés; Hérodote (cronología de la escuela Wright de Pau)
-- **Discrepancias resueltas:** primacía de la escuela de pilotaje (Douzy frente a Pont-Long/Pau, 1909); 182 frente a 183 aviones construidos; encuadre del récord («Grande Semaine de la Champagne» frente a vuelos del campamento de Châlons); fecha del brevet n.º 29 (15-ene-1910; la página del museo anticipa 1909).
-- **Nivel de confianza:** Alto en el nacimiento (4-ago-1877, Pierrepont), el récord del 7-ago-1909 y el fallecimiento (14-abr-1965); Medio en la fecha exacta de apertura de la escuela de Douzy y en el número de aparatos construidos.
-- **Cláusula final:** Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].
+- **Timestamp de verificación:** 2026-09-29 16:35:03 CST
+- **Fuentes primarias/institucionales consultadas:** Musée Sommer; Musées Grand Est; Archives départementales des Ardennes; BnF/Gallica; Library of Congress; Aéroclub du Béarn
+- **Fuentes secundarias:** Air-Journal; Wikipédia (francés); Hérodote
+- **Discrepancias:** primacía de la escuela (Douzy/Pont-Long); 182 o 183 aparatos; encuadre del récord y fecha del brevet n.º 29.
+- **Nivel de confianza:** Alto para nacimiento, récord y fallecimiento; medio para apertura de la escuela y total de producción.
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

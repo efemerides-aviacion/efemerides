@@ -43,33 +43,50 @@ redirect_from:
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
-Rodgers creció en un entorno marcado por la tradición naval y el espíritu aventurero, aunque sin llegar a conocer a su padre: el Capitán Calbraith Perry Rodgers Sr., del 5.º Regimiento de Caballería, murió en el Territorio de Wyoming el 23 de agosto de 1878, cinco meses antes de que él naciera.
+Rodgers creció entre dos tradiciones que no llegó a heredar de forma directa. Su padre, oficial de caballería, murió antes de que él naciera; la familia materna lo crió en Pittsburgh y en Havre de Grace. Una escarlatina infantil le dañó la audición y frustró su expectativa de seguir una carrera militar, pero no su gusto por la velocidad y los desafíos.
 
 ### Entorno social
-Se crio con su madre y sus abuelos maternos en el acomodado barrio de Shadyside, en Pittsburgh, y pasaba los veranos en la finca familiar de Havre de Grace, en Maryland. En 1902 se reunió en Nueva York con su madre y su hermana, y se hizo socio del New York Yacht Club. En 1906 se casó con Mabel Avis Graves; el matrimonio se estableció en Havre de Grace y no tuvo hijos.
+En la juventud navegó, practicó la hípica y se interesó por los automóviles. La aviación llegó cuando ya era adulto, en un periodo en que los exhibicionistas y las carreras aéreas atraían a inversores, fabricantes y multitudes. Su éxito posterior no dependió solo de pilotar: necesitó patrocinio, personal de mantenimiento y una red ferroviaria capaz de llevar herramientas y repuestos a través del país.
 
 ### Entorno tecnológico
-La aviación que descubrió en junio de 1911, al visitar a su primo John Rodgers en la fábrica de la Wright Company en Dayton (Ohio), se aprendía en días: noventa minutos de lecciones de vuelo con Orville Wright le bastaron para presentarse al examen, que superó el 7 de agosto de 1911 en Huffman Prairie. La Federación Aeronáutica Internacional lo licenció como el 49.º piloto del mundo, y la máquina con la que hizo su travesía fue el Wright Model EX “Vin Fiz Flyer”.
+En 1911, el Wright Model EX combinaba una estructura de madera con recubrimiento de tela; era ligero, pero vulnerable a fallas y daños de aterrizaje. Una travesía continental exigía más que autonomía: había que localizar terrenos aptos, conseguir combustible, reparar piezas y seguir una ruta sin instrumentos modernos de navegación. La tripulación de apoyo que acompañó a Rodgers resolvía parte de esos problemas desde un tren que avanzaba por tierra.
 
 ### Entorno cultural
-A los seis años contrajo escarlatina, que lo dejó sordo de un oído y con la audición muy mermada en el otro. La secuela le cerró la puerta de la carrera naval que habían seguido sus antepasados, pero no atenuó su afán de aventura: se volcó en la vela, la hípica, las motocicletas y el automovilismo. La aviación fue para él una extensión natural de esa misma pasión por el riesgo y la exploración.
+El editor William Randolph Hearst ofreció 50.000 dólares al primer aviador que cruzara Estados Unidos en menos de treinta días. El desafío mezclaba deporte, prensa y publicidad, y convirtió una expedición peligrosa en un acontecimiento nacional. Rodgers obtuvo el respaldo de Armour & Company, que promocionaba una bebida de uva llamada Vin Fiz; el nombre comercial pasó al avión y acompañó la cobertura periodística del vuelo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
-- **Agosto de 1911:** compitió en el Chicago International Aviation Meet, donde estableció varias marcas —entre ellas la de duración— y ganó 11.285 dólares en premios.  
-- **17 de septiembre – 5 de noviembre de 1911:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1911/11/05/vin-fiz-primer-vuelo-transcontinental-estados-unidos.html" style="color: #315fea; text-decoration: none;">primera travesía aérea de Norteamérica</a>, realizada con el Wright Model EX “Vin Fiz Flyer” entre Sheepshead Bay (Nueva York) y Pasadena (California), en cuarenta y nueve días y con más de setenta aterrizajes.  
-- Este logro consolidó su nombre en la historia de la aviación, aunque su vida se truncó cinco meses después: el 3 de abril de 1912 se estrelló en Long Beach durante una exhibición, en el mismo litoral donde había concluido su travesía. Tenía treinta y tres años.  
+- **Agosto de 1911:** participa en el Chicago International Aviation Meet, establece varias marcas y gana 11.285 dólares en premios.
+- **10 de septiembre de 1911:** compra a la Wright Company un biplano Model EX de cuatro cilindros y 35 caballos. Armour & Company patrocina la expedición y aporta el nombre Vin Fiz.
+- **17 de septiembre de 1911:** despega de Sheepshead Bay, Nueva York, para intentar ganar el premio de Hearst. Un tren de apoyo lleva mecánicos, repuestos y herramientas para atender las averías.
+- **Septiembre–noviembre de 1911:** el avión sufre accidentes y reparaciones; la falta de una brújula fiable y los retrasos por mantenimiento alargan el recorrido. Rodgers continúa a pesar de quedar fuera del plazo de treinta días.
+- **5 de noviembre de 1911:** llega a Pasadena tras cuarenta y nueve días y más de setenta aterrizajes; alcanza California, aunque queda fuera del plazo del premio.
+- **10 de diciembre de 1911:** en Long Beach, rueda el Vin Fiz hasta el Pacífico, hito final que los relatos del Museum of Flight y del Heinz History Center distinguen de su llegada a Pasadena.
+- **3 de abril de 1912:** muere en un accidente durante una exhibición en Long Beach, California, tras chocar su avión con aves. Tenía 33 años.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
-La travesía de cuarenta y nueve días, con más de setenta aterrizajes entre Sheepshead Bay y Pasadena, fue la primera aérea de Norteamérica y demostró que un avión podía cruzar el continente. El Wright EX “Vin Fiz Flyer” con el que la voló se conserva en el Smithsonian, y las marcas y los 11.285 dólares en premios del Chicago International Aviation Meet de agosto de 1911 habían anunciado ya a un piloto de resistencia.
+La <a href="https://efemerides-aviacion.github.io/efemerides/evento/1911/11/05/vin-fiz-primer-vuelo-transcontinental-estados-unidos.html" style="color: #315fea; text-decoration: none;">primera travesía aérea de Norteamérica</a> probó que un avión podía recorrer el continente, pero también mostró la distancia entre un vuelo de exhibición y una ruta sostenida: cada avance dependía de inspecciones, reparaciones y coordinación en tierra. La red del tren de apoyo formó parte de la expedición tanto como el piloto y el aparato.
 
+Rodgers no cumplió la condición de treinta días y perdió el premio, pero la prensa siguió la aventura hasta el Pacífico. La llegada de multitudes a Pasadena convirtió el vuelo en un espectáculo nacional y afianzó la idea del avión como medio capaz de conectar costas, aun cuando la infraestructura de transporte aéreo regular todavía no existía.
+
+Tras su muerte, su viuda entregó el Vin Fiz al Smithsonian. La documentación reunida por el Museo Nacional del Aire y el Espacio conserva recortes, fotografías y folletos que permiten reconstruir la expedición y su recepción pública.
+
+
+
+El trayecto fue una sucesión de etapas, no un vuelo continuo: el equipo debía encontrar dónde aterrizar, revisar la estructura y organizar cada reanudación. Ese ritmo convirtió al tren de apoyo en un taller móvil y permitió que el aparato siguiera avanzando después de incidentes que, sin asistencia, habrían terminado la expedición.
+
+Las fuentes describen dos hitos distintos: el aterrizaje en Pasadena el 5 de noviembre y el traslado del aparato hasta Long Beach, donde el 10 de diciembre Rodgers lo condujo al agua del Pacífico. Separar la llegada a California del acto final junto al océano evita confundir el término de la travesía con el punto alcanzado semanas después.
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
-Rodgers es recordado como uno de los primeros héroes de la aviación estadounidense. Su vida breve pero intensa refleja la transición de la aventura deportiva hacia la aviación como disciplina pionera. Su nombre permanece asociado al primer vuelo transcontinental y a la audacia de los primeros aviadores.
+La huella de Rodgers está ligada a una travesía que exigió persistencia más que velocidad: el viaje duró semanas, acumuló reparaciones y terminó después del plazo del premio, pero completó el primer cruce aéreo continental estadounidense. Su participación en el Chicago International Aviation Meet anticipó la combinación de competición, patrocinio comercial y espectáculo que acompañaría a la aviación civil.
+
+El avión y los materiales de archivo conservaron el recuerdo de la expedición, mientras su ciudad natal lo recuerda como un aviador de Pittsburgh que transformó una apuesta publicitaria en una prueba de resistencia.
+
+El archivo del Vin Fiz conserva, junto con la historia del piloto, el papel del patrocinio comercial y del apoyo ferroviario en los primeros intentos de vuelo a escala continental.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -89,9 +106,9 @@ Rodgers es recordado como uno de los primeros héroes de la aviación estadounid
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
-- **Fuentes primarias/institucionales consultadas:** Smithsonian NASM (Wright EX «Vin Fiz»); Smithsonian Archives; The Museum of Flight Archives (ficha de autoridad, vinculada al registro n80086393 de la Biblioteca del Congreso); Senator John Heinz History Center; placa conmemorativa de Pittsburgh recogida en The Historical Marker Database
-- **Fuentes secundarias de contraste:** Wright Brothers Aeroplane Company; Wikipedia (EN) Calbraith Perry Rodgers
-- **Discrepancias resueltas:** (1) **Nombre de los padres:** la versión anterior daba «Robert Perry Rodgers y María Calbraith», filiación que no sostiene ninguna fuente; se corrige a **Capitán Calbraith Perry Rodgers Sr. y Maria Holmes Chambers Rodgers**, coincidentes en el Museum of Flight, el Heinz History Center, la placa conmemorativa de Pittsburgh y Wikipedia. (2) **Fecha de fallecimiento:** la versión anterior daba el 10 de abril de 1912, en contradicción con la propia referencia citada al pie; la fecha correcta es el **3 de abril de 1912**. (3) **Descendencia:** se suprime el «hijo Calbraith Perry Rodgers Jr.»; el matrimonio con Mabel Avis Graves **no tuvo hijos**, y el sufijo Jr. corresponde al propio aviador respecto de su padre homónimo. (4) **Parentesco:** se precisa que Matthew Calbraith Perry era su bisabuelo y Oliver Hazard Perry su tío bisabuelo, en lugar del genérico «descendiente». (5) **Formación aeronáutica:** no se formó «tras asistir a demostraciones de los hermanos Wright», sino a raíz de la visita a su primo John Rodgers en Dayton en junio de 1911. (6) **Fechas del vuelo transcontinental:** se elimina del apartado de metadatos la fecha de culminación «10-dic-1911», errónea; la travesía concluyó el **5 de noviembre de 1911**, conforme al post específico de la efeméride.
-- **Nivel de confianza:** Alto  
+- **Timestamp de verificación:** 2026-09-29 16:35:04 CST
+- **Fuentes primarias/institucionales consultadas:** Smithsonian NASM; Smithsonian Archives; Museum of Flight Archives; Senator John Heinz History Center; Historical Marker Database
+- **Fuentes secundarias de contraste:** Wright Brothers Aeroplane Company; Wikipedia (EN)
+- **Discrepancias resueltas:** Se corrigieron filiación, parentescos, descendencia, formación aeronáutica y fechas de la travesía y del fallecimiento según las fuentes citadas.
+- **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -26,15 +26,11 @@ image: 1885-09-04-nacimiento-benito-loygorri-primer-espanol-licencia-piloto.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
-- **Fecha de nacimiento:** 4 de septiembre de 1885.
-- **Lugar de nacimiento:** Biarritz, Francia.
-- **Fallecimiento:** 1 de febrero de 1976, Madrid, España.
-- **Nacionalidad:** Española.
-- **Formación:** Ingeniero industrial; en 1909 se trasladó a Francia para realizar prácticas de pilotaje en la escuela Voisin de Mourmelon, cerca de Reims.
-- **Título de piloto:** Piloto aviador número 1 de España, fechado el 30 de agosto de 1910 y reconocido dentro del sistema de la Federación Aeronáutica Internacional (FAI); fue la primera licencia confirmada por el Real Aero Club de España.
-- **Aeronave de formación:** Biplano Henri Farman con motor Gnôme de 50 CV refrigerado por aire.
-- **Actividad aeronáutica:** Piloto de exhibición, representante de la casa Farman y proveedor de los primeros aeroplanos adquiridos por el Ejército español.
-- **Actividad profesional posterior:** Gerente de General Motors Peninsular para España y Portugal entre 1932 y 1949.
+- **Nacimiento:** 4 de septiembre de 1885 en Biarritz, Francia.
+- **Nombre completo:** Benito Loygorri Pimentel.
+- **Fallecimiento:** 1 de febrero de 1976, Madrid.
+- **Nacionalidad y profesión:** español, ingeniero industrial y pionero de la aviación.
+- **Actividad posterior:** representante y directivo de empresas industriales; gerente de General Motors Peninsular para España y Portugal entre 1932 y 1949.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -76,9 +72,9 @@ La trayectoria de Loygorri enlazó el aprendizaje francés de 1909 con una inten
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
-La licencia de Loygorri abrió en España la nómina de pilotos de aeroplano titulados. Su participación en el concurso de San Sebastián, apenas semanas después de obtenerla, hizo visible ante el público la presencia de un piloto español en una disciplina hasta entonces protagonizada en la península por aviadores extranjeros.
+La credencial de 1910 situó a Loygorri al comienzo de la aviación titulada en España. Sus exhibiciones mostraron al público que un piloto formado en el extranjero podía volar en campos peninsulares y participar en actos civiles y militares.
 
-Su papel no se limitó a las exhibiciones. La sociedad que representaba a Farman suministró al Ejército español dos Henri Farman y un Maurice Farman, aparatos vinculados a la formación de los primeros pilotos militares nacionales. También su llegada a Cuatro Vientos en marzo de 1911 quedó asociada a los comienzos del primer aeródromo militar español. Esta temprana incorporación del aeroplano a la instrucción militar precedió al <a href="https://efemerides-aviacion.github.io/efemerides/evento/1913/12/17/primer-bombardeo-aereo-espana-marruecos.html" style="color: #315fea; text-decoration: none;">primer bombardeo aéreo militar español en Marruecos (1913)</a>, muestra de la rápida evolución de la aviación militar española.
+Como representante de Farman, facilitó la llegada de aeronaves que sirvieron para formar a los primeros pilotos del Ejército. Su actividad en Cuatro Vientos quedó vinculada a la instalación de la aviación militar en España, antes del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1913/12/17/primer-bombardeo-aereo-espana-marruecos.html" style="color: #315fea; text-decoration: none;">primer bombardeo aéreo militar español en Marruecos (1913)</a>. La secuencia ilustra la rapidez con que el aeroplano pasó de las exhibiciones a tareas oficiales.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -111,7 +107,7 @@ Su trayectoria recuerda el carácter internacional de aquel pionerismo: se form�
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-29 09:49:38 CST  
+- **Timestamp de verificación:** 2026-09-29 16:35:10 CST
 - **Fuentes primarias/institucionales consultadas:** Real Academia de la Historia, Biblioteca Nacional de España, Museo ABC / Aena / Iberia, Fundación ENAIRE y Biblioteca Municipal de San Sebastián.  
 - **Fuentes secundarias de contraste:** El Correo Gallego y La Conquista del Aire.  
 - **Discrepancias resueltas:** Se separó la cronología del concurso de San Sebastián (septiembre-octubre de 1910) de los eventos españoles documentados para 1911; se explicitó la diferencia entre las formulaciones publicadas sobre la expedición y la confirmación de la licencia.  
