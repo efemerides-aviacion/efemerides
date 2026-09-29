@@ -61,7 +61,6 @@ El vuelo de Blanchard en Filadelfia marcó la llegada de la aerostación al cont
 
 ## Desarrollo Cronológico
 
-- **1785:** Jean-Pierre Blanchard protagoniza el primer cruce del Canal de la Mancha en globo, la hazaña que lo consagra como el aeronauta más célebre de Europa.  
 - **9 de enero de 1793, 10:00:** asciende desde el patio interior de la prisión de Walnut Street, en Filadelfia, ante el presidente George Washington y una multitud que incluye a los futuros presidentes John Adams, Thomas Jefferson, James Madison y James Monroe.  
 - **El vuelo:** 46 minutos y 24 km en dirección sudeste, a unos 366 metros de altura (1.200 pies), con instrumentos científicos y un perro a bordo; cruza el río Delaware por aire.  
 - **Aterrizaje:** desciende cerca de Deptford, en el condado de Gloucester (Nueva Jersey), donde lo auxilian agricultores locales; a las 18:30 está de vuelta en Filadelfia relatando el viaje a Washington.  
@@ -104,7 +103,7 @@ El vuelo hizo de la aerostación una causa de la nación naciente: el interés p
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
+- **Timestamp de verificación:** 2026-09-29 14:33:07 CST
 - **Fuentes primarias/institucionales consultadas:** FAA; Wikipedia EN; Smithsonian; National Archives; Signal Corps Association
 - **Discrepancias resueltas:** Altura del vuelo y lugar exacto de aterrizaje
 - **Nivel de confianza:** Alto

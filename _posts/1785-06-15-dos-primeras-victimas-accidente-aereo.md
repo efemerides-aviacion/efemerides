@@ -19,7 +19,7 @@ image: 1785-06-15-dos-primeras-victimas-accidente-aereo.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 15 de junio de 1785, el aerostato híbrido diseñado por Jean-François Pilâtre de Rozier —conocido como «rozière»— se incendió en el aire sobre la localidad de Wimereux, en la costa del Canal de la Mancha (Francia). Rozier, de 31 años, acompañado por Pierre Romain, de 27-28 años, pereció en la caída. Este accidente, ocurrido apenas 18 meses después del primer vuelo tripulado libre de la historia (21 de noviembre de 1783), fue la primera tragedia aérea documentada. Rozier, que había sido el primer ser humano en elevarse en un globo aerostático sin ataduras, se convirtió también, paradójicamente, en la primera víctima mortal de la aventura del aire. Su nombre quedó inmortalizado en el tipo de aerostato que diseñó: la «rozière», un globo híbrido que combinaba hidrógeno y aire caliente.</p>
+<p>El 15 de junio de 1785, el globo híbrido de Pilâtre de Rozier y Pierre Romain se incendió durante una tentativa de travesía hacia Inglaterra. La combinación de aire caliente e hidrógeno buscaba unir dos métodos de sustentación, pero dejó el fuego demasiado cerca del gas inflamable. Ambos ocupantes murieron en la caída cerca de Wimereux. El accidente quedó registrado en una carta de testigo y marcó un episodio temprano de la seguridad aerostática.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -38,63 +38,59 @@ image: 1785-06-15-dos-primeras-victimas-accidente-aereo.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
-
-El accidente de Rozier y Romain ocurrió en los albores de la aviación, cuando los globos aerostáticos eran la única forma de vuelo tripulado. La fiebre por conquistar el aire se había desatado apenas dos años antes.
+La tragedia ocurrió cuando los aeronautas buscaban una ruta entre Francia e Inglaterra y el público seguía con entusiasmo los desafíos de la aerostación.
 
 ### Entorno social
 
-La década de 1780 fue testigo del nacimiento de la aerostación. Los hermanos Montgolfier realizaron sus primeros vuelos con animales en 1783, y el propio Rozier participó en el primer vuelo tripulado libre el 21 de noviembre de 1783. La sociedad europea se maravillaba con estas «máquinas voladoras», que representaban el triunfo de la ciencia y la técnica sobre los límites naturales.
+Los vuelos eran espectáculos con patrocinio, prensa y premios. Para los aeronautas, completar una travesía sobre el Canal ofrecía prestigio y posibles recompensas; la competencia entre diseños aceleró pruebas que no siempre contaban con procedimientos de seguridad.
 
 ### Entorno tecnológico
 
-La aeronave de Rozier era un diseño híbrido innovador pero peligroso. Combinaba dos tecnologías: una montgolfiera inferior de aire caliente —que proporcionaba sustentación mediante fuego— y un globo superior de hidrógeno —un gas extremadamente inflamable. El contacto entre el fuego abierto de la montgolfiera y el hidrógeno era un riesgo constante. Este diseño, conocido hoy como «rozière», sigue existiendo en la actualidad, aunque con sistemas de seguridad mucho más avanzados.
+El aparato de Rozier reunía dos envolventes: una cámara inferior calentada por fuego y otra superior con hidrógeno. La combinación buscaba regular la elevación con calor y prolongar el vuelo con gas, pero dejaba una fuente de ignición cerca de una sustancia inflamable. La separación y el control de las llamas eran insuficientes.
 
 ### Entorno cultural
 
-El objetivo de Rozier era emular la hazaña de Jean-Pierre Blanchard y John Jeffries, que apenas cinco meses antes (7 de enero de 1785) se habían convertido en los primeros hombres en cruzar el Canal de la Mancha en globo, volando desde Inglaterra a Francia (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html" style="color: #315fea; text-decoration: none;">ver efeméride</a>). Rozier quería repetir la gesta en dirección contraria —de Francia a Inglaterra— y hacerlo con su propio diseño de globo híbrido. La rivalidad entre aeronautas era intensa, y los premios económicos —como el que ofrecía la Academia de Ciencias de Francia— incentivaban la competición. Rozier, que había sido el primer hombre en volar libremente el 21 de noviembre de 1783 (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">ver efeméride</a>), buscaba ahora otro hito que consolidara su lugar en la historia de la aerostación.
+El intento respondía al cruce completado meses antes por Blanchard y Jeffries (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html" style="color: #315fea; text-decoration: none;">ver efeméride</a>). Rozier quería llegar a Inglaterra desde Francia, en dirección contraria. Su experiencia en ascensiones anteriores está recogida en la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">ver efeméride</a> correspondiente.
+
+La competencia entre aeronautas estaba impulsada por la atención de la prensa y por premios ofrecidos por instituciones científicas. El viaje de Blanchard y Jeffries, de Inglaterra a Francia, había demostrado que el Canal podía cruzarse en globo; Rozier planeó invertir el sentido y llegar a la costa británica desde territorio francés. La presión por lograr un nuevo hito convivía con la incertidumbre sobre cómo controlar una aeronave sin motor.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Desarrollo Cronológico
+- **Primer semestre de 1785:** Rozier y Romain preparan una aeronave híbrida para cruzar el Canal hacia Inglaterra.
+- **15 de junio, 7:00:** despegan desde la costa cercana a Boulogne-sur-Mer.
+- **Unos treinta minutos después:** el globo se incendia cuando se encuentra a varios cientos de metros de altura y cae cerca de Wimereux.
+- **16 de junio:** una carta de un testigo describe la combustión y el impacto; el documento ofrece uno de los relatos más próximos al suceso.
 
-- **21 de noviembre de 1783:** Rozier y el marqués d'Arlandes realizan el primer vuelo tripulado libre de la historia en una montgolfiera de los hermanos Montgolfier, sobrevolando París durante 25 minutos y recorriendo 9 kilómetros 
-- **7 de enero de 1785:** Jean-Pierre Blanchard y John Jeffries cruzan el Canal de la Mancha en globo desde Inglaterra hasta Francia 
-- **15 de junio de 1785, 7:00 a.m.:** Rozier y Romain despegan desde la costa francesa (cerca de Boulogne-sur-Mer) con la intención de cruzar el Canal hacia Inglaterra 
-- **15 de junio de 1785, 7:30 a.m.:** Cuando el globo se encuentra a unos 450 metros de altura y a unas tres millas de distancia de la costa, se incendia y cae en picado 
-- **15 de junio de 1785 (inmediatamente después):** Un testigo presencial escribe una carta relatando el accidente: «el globo se incendió y cayó al suelo» 
-- **15 de junio de 1785:** Rozier y Romain se convierten en las primeras víctimas mortales de un accidente aéreo de la historia 
+### Pilâtre de Rozier y el diseño híbrido
 
-### El hombre detrás del accidente: Jean-François Pilâtre de Rozier
+Nacido en Metz en 1754, Rozier se formó en física y química, enseñó ambas materias y participó en los experimentos de los primeros globos. Su notoriedad le permitió acceder a una pensión real y emprender proyectos propios. La experiencia en demostraciones le dio confianza para concebir un aparato que combinara dos formas de sustentación.
 
-Rozier fue, en muchos sentidos, el primer héroe de la aviación. Nacido en Metz en 1754, estudió química y física, y se convirtió en un entusiasta de la aerostación. Su hazaña del 21 de noviembre de 1783 —el primer vuelo tripulado libre— lo inmortalizó. Luis XVI le concedió una pensión, y su nombre se difundió por toda Europa.
+Pierre Romain compartió el viaje como compañero de barquilla. El sistema dependía de una llama abierta bajo una envolvente con gas inflamable; el incendio reveló que el diseño no mantenía ambas fuentes separadas. La secuencia exacta de la ignición no quedó establecida con certeza, pero el fuego y la caída causaron la muerte de los dos ocupantes.
 
-Pero Rozier no se conformó. Quería ir más allá. Diseñó su propio globo híbrido, que combinaba la altitud que podía alcanzar el hidrógeno con la controlabilidad que proporcionaba el aire caliente. La idea era poder maniobrar el globo y no ser simple pasajero del viento.
-
-Irónicamente, el mismo diseño que debía darle control fue el que causó su muerte. El fuego necesario para calentar el aire de la montgolfiera inferior entró en contacto con el hidrógeno del globo superior, provocando la explosión. La «rozière» —como se conoce hoy este tipo de globo— sigue siendo utilizada, pero con sistemas de separación y seguridad que no existían en el siglo XVIII.
+Antes de asumir el cruce, Rozier había acumulado experiencia como profesor y divulgador. Su interés por la química le llevó a ensayar una solución distinta a los globos convencionales. Romain se sumó como compañero de la tentativa; los registros disponibles ofrecen menos detalles biográficos de él, pero confirman que ocupaba la barquilla cuando ocurrió la caída.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
+La muerte de dos aeronautas conmocionó al público y puso de relieve los riesgos de combinar materiales combustibles con fuentes de calor. Las cartas y crónicas del accidente circularon en una prensa que hasta entonces había celebrado sobre todo los logros de los globos.
 
-El accidente conmocionó a Francia y a Europa. Rozier era una celebridad nacional, el primer hombre que había volado sin ataduras. Su muerte demostró que el cielo no era un lugar seguro, incluso para los más experimentados.
+Un testigo escribió que el aparato «se incendió y cayó como una piedra». Su carta describió además el estado de las víctimas tras el impacto; la diferencia entre ambas observaciones quedó recogida en la fuente, aunque los relatos posteriores no siempre reprodujeron sus palabras con la misma precisión.
 
-La prensa de la época cubrió ampliamente el suceso. Una carta de un testigo presencial, fechada el 16 de junio de 1785, describe minuciosamente cómo el globo se incendió y cayó «como una piedra». El testimonio añade que, al golpear el suelo, el cuerpo de Romain quedó carbonizado, mientras que Rozier «estaba igual que la persona más serena, sin embargo estaba muerto».
+El caso se convirtió en una advertencia para quienes diseñaban aparatos híbridos. Las soluciones posteriores dependieron de separar físicamente los compartimentos, proteger las llamas y mejorar el control del combustible. La investigación técnica avanzó con lentitud, pero la tragedia quedó incorporada a la discusión sobre seguridad aeronáutica.
 
-El accidente también planteó preguntas sobre la seguridad de los vuelos en globo y sobre la responsabilidad de los aeronautas. Aunque la aerostación continuó desarrollándose, el desastre de Rozier sirvió como advertencia: la innovación tecnológica podía ser mortal.
+El testimonio también distinguió el momento del incendio del impacto contra el suelo, aunque no pudo establecer qué pieza falló primero. Esa limitación documental impidió reconstruir una causa mecánica única; las explicaciones posteriores suelen señalar la proximidad entre llama y gas como el riesgo decisivo, no como una secuencia probada en todos sus detalles.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
+El nombre de Rozier pasó a designar una familia de globos híbridos que se utiliza con diseños y procedimientos distintos a los de 1785. La tumba de los dos aeronautas se encuentra en Wimereux, cerca del lugar del accidente; una placa local recuerda a las víctimas, aunque Romain aparece con menor frecuencia en las narraciones populares.
 
-Jean-François Pilâtre de Rozier es recordado como el primer aeronauta de la historia y, paradójicamente, como la primera víctima mortal de un accidente aéreo. Su nombre está inscrito en el Museo del Aire y del Espacio de París-Le Bourget y en la historia de la aviación.
+La memoria del suceso ilustra un rasgo de la primera aerostación: la innovación, el espectáculo y el riesgo avanzaban juntos. Rozier y Romain son recordados por la fatalidad, pero su historia también permite reconstruir las decisiones técnicas de una etapa en la que los constructores aún aprendían a separar sustentación, calor y combustible.
 
-El tipo de globo que diseñó —la «rozière»— se sigue utilizando hoy en día para vuelos de larga distancia y competiciones aerostáticas. Los globos rozière modernos han resuelto el problema de seguridad que mató a Rozier: separan físicamente el gas inflamable del fuego, permitiendo vuelos seguros de semanas de duración.
+Las rozières actuales separan físicamente los compartimentos de gas y la fuente de calor y se diseñan para vuelos de larga duración. Esa evolución técnica no elimina todo riesgo, pero muestra cómo el accidente pasó a formar parte del aprendizaje sobre arquitectura de envolventes y manejo de combustible.
 
-Rozier también da nombre a calles, plazas y escuelas en varias ciudades francesas. Su tumba se encuentra en el cementerio de Wimereux, cerca del lugar donde cayó. Una placa conmemorativa en la localidad recuerda el primer accidente aéreo de la historia y a sus dos víctimas.
-
-Pierre Romain, menos conocido que su compañero de vuelo, comparte con Rozier el triste honor de haber sido los primeros en morir persiguiendo el sueño de volar.
-
-Estas tres efemérides —el primer vuelo tripulado (21 de noviembre de 1783), el primer cruce del Canal (7 de enero de 1785) y el primer accidente mortal (15 de junio de 1785)— forman una trilogía fundacional de la aviación. Rozier fue protagonista de la primera y víctima de la tercera. Blanchard y Jeffries, por su parte, completaron la hazaña que Rozier intentaba emular cuando perdió la vida. Juntos, estos tres hitos ilustran la rápida evolución —y los riesgos— de la aerostación en sus primeros años.
+Pierre Romain tenía entre 27 y 28 años según las fuentes, pero los registros conservan pocos datos sobre su vida previa. Nombrarlo junto a Rozier evita reducir el episodio a la biografía de una sola figura y reconoce que ambos asumieron el mismo peligro en la barquilla.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -120,7 +116,7 @@ Estas tres efemérides —el primer vuelo tripulado (21 de noviembre de 1783), e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:53:31 CST  
+- **Timestamp de verificación:** 2026-09-29 14:33:06 CST
 - **Fuentes primarias/institucionales consultadas:** Encyclopaedia Britannica, Wikipedia (ES/EN)
 - **Discrepancias resueltas:** Se ha verificado que Rozier fue el primer aeronauta de la historia (21 de noviembre de 1783) y también la primera víctima mortal de un accidente aéreo. El globo híbrido que diseñó se llama «rozière» en su honor.
 - **Nivel de confianza:** Alto

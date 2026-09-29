@@ -19,92 +19,75 @@ image: 1784-05-18-primer-latinoamericano-volar-globo-aerostatico.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 18 de mayo de 1784, José María Alfaro Guiles, un maestro veracruzano, erudito e inventor, se convirtió en el primer latinoamericano en volar a bordo de un globo aerostático. La hazaña tuvo lugar en Xalapa, Nueva España (actual México), apenas un año después del primer vuelo de los hermanos Montgolfier en Francia. Alfaro construyó su propio globo de aire caliente de aproximadamente 10 metros de altura, con capacidad para dos personas, utilizando materiales impermeables y basándose en las escasas noticias que llegaban de Europa. El vuelo recorrió unos 9 kilómetros desde Los Berros (Xalapa) hasta el actual municipio de Coatepec, alcanzando una altura de aproximadamente 800 metros.</p>
+<p>El maestro veracruzano José María Alfaro Guiles construyó un globo y realizó una ascensión en Xalapa en mayo de 1784. La prensa de la época recogió la noticia al día siguiente y consignó medidas de la envolvente; crónicas posteriores sitúan el trayecto entre Los Berros y Coatepec. La biografía de Alfaro es escasa, pero la documentación local conserva un episodio singular de experimentación científica en Nueva España.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-- **Fecha del vuelo:** 18 de mayo de 1784
-- **Lugar de salida:** Los Berros, Xalapa, Nueva España (actual México)
-- **Lugar de llegada:** Cofradía de San José, actual municipio de Coatepec, Veracruz
-- **Distancia recorrida:** Aproximadamente 9 kilómetros
-- **Altitud alcanzada:** Aproximadamente 800 metros sobre el nivel del suelo
-- **Aeronave:** Globo aerostático de aire caliente (construcción propia)
-- **Dimensiones del globo:** Aproximadamente 10 metros de altura, 18 varas castellanas (unos 15 metros) de diámetro
-- **Capacidad:** 2 personas
-- **Material:** Tejido impermeable, fuego en el interior para generar aire caliente
-- **Piloto/Pasajero:** José María Alfaro Guiles
-- **Antecedente mundial:** Primer vuelo de los hermanos Montgolfier (Francia, 1783)
-- **Difusión:** La Gazeta de México publicó la noticia el 19 de mayo de 1784
+- **Fecha:** 18 de mayo de 1784.
+- **Salida y llegada:** Los Berros, Xalapa, a la Cofradía de San José, Coatepec.
+- **Protagonista:** José María Alfaro Guiles, maestro e inventor veracruzano.
+- **Aeronave:** globo de aire caliente construido por Alfaro.
+- **Dimensiones referidas:** unos 10 m de alto y 18 varas castellanas de diámetro.
+- **Recorrido y altura estimados:** cerca de 9 km y 800 m.
+- **Registro impreso:** noticia publicada en la *Gazeta de México* al día siguiente.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
-El 21 de noviembre de 1783, en París, Jean-François Pilâtre de Rozier y el marqués François Laurent d'Arlandes realizaron el primer vuelo tripulado de la historia a bordo de un globo aerostático de aire caliente diseñado por los hermanos Joseph-Michel y Jacques-Étienne Montgolfier. La noticia conmocionó a Europa y se extendió rápidamente por el mundo, aunque las comunicaciones de la época eran lentas. Apenas diez días después, el 1 de diciembre de 1783, el físico francés Jacques Charles y el ingeniero Nicolas-Louis Robert realizaron el primer vuelo tripulado en globo de hidrógeno, demostrando la superioridad de este gas para vuelos de larga duración.
-
-Las noticias de ambos hitos llegaron a Nueva España meses después, inspirando a Alfaro a emular la hazaña. Apenas seis meses después de aquellos primeros vuelos, en una remota provincia del Virreinato de Nueva España, un ingenioso maestro veracruzano logró replicar la hazaña con sus propios medios.
+En Nueva España, las noticias científicas europeas viajaban en impresos y correspondencia, no mediante una industria aeronáutica. El caso de Xalapa muestra cómo un lector con habilidades prácticas podía convertir información escasa en un ensayo propio.
 
 ### Entorno social
-En 1784, Nueva España vivía bajo el dominio del Imperio Español. La Ilustración había llegado a las colonias americanas, y los criollos educados comenzaban a interesarse por los avances científicos europeos. La ciudad de Xalapa, enclavada en las montañas del estado de Veracruz, era un importante centro comercial y cultural. Sin embargo, distaba mucho de ser un centro tecnológico: no existía una industria aeronáutica propiamente dicha, ni ingenieros especializados, ni materiales avanzados para la construcción de aeronaves. Alfaro construyó su globo con conocimientos autodidactas y recursos locales.
 
-#### El personaje: José María Alfaro Guiles
-Poco se sabe de la vida de Alfaro más allá de esta hazaña. Era maestro de profesión, erudito de las artes y la ingeniería, y también se le atribuye la reparación del reloj de la Catedral de Xalapa, una maquinaria manufacturada en Londres. Su capacidad para comprender principios aeronáuticos complejos con información limitada lo convierte en un pionero visionario. "El mérito de Alfaro deriva de haber construido su propio globo a partir de las pocas noticias que se tenían en el continente, cuando aún no se contaba con las herramientas propias de lo que sería la aeronáutica", según relatos históricos.
+Xalapa era una localidad comercial y administrativa en una ruta importante entre la costa y el altiplano. Alfaro trabajaba como maestro y tenía fama de erudito; también se le atribuye la reparación del reloj de la Catedral de Xalapa, maquinaria fabricada en Londres. Su biografía está poco documentada, por lo que conviene distinguir esos datos de los relatos posteriores que amplificaron su figura.
 
 ### Entorno tecnológico
-Alfaro experimentó durante meses con pequeños globos de papel utilizando distintas técnicas y materiales. Por las noches, lanzaba estos globos, similares a los que hoy conocemos como "globos de cantoya", para estudiar el comportamiento del aire y la dirección del viento.
 
-Finalmente, construyó un globo de grandes dimensiones: aproximadamente 10 metros de altura y 15 metros de diámetro (18 varas castellanas). El material era impermeable para retener el aire caliente, y en su interior se generaba fuego para calentar el aire y proporcionar sustentación. La estructura tenía capacidad para dos personas.
+El inventor recurrió a tela, papel, impermeabilizantes y calor, materiales disponibles localmente. Antes de construir una envolvente grande, ensayó con pequeños globos de papel para observar su comportamiento, en ocasiones de noche para seguir mejor su ascenso y la dirección del viento. La experiencia no dependió de talleres especializados ni de una red de ingenieros; se apoyó en destreza manual y en la adaptación de principios conocidos por noticias impresas.
 
 ### Entorno cultural
-La aerostación llegó a Nueva España por los papeles: las noticias de los vuelos de París corrieron meses después y la hazaña de Alfaro tuvo eco impreso al día siguiente, cuando la Gazeta de México publicó la nota del globo fabricado en Xalapa. El ascenso se siguió como un acontecimiento público, con la multitud reunida en las llanuras de Los Berros, y acabó recogido en las crónicas locales.
+
+Los lectores criollos seguían con interés la filosofía natural y los avances técnicos que llegaban desde Europa. Una experiencia de vuelo hecha en una provincia virreinal podía funcionar como demostración de que la curiosidad científica no estaba limitada a las cortes europeas. La prensa local y la memoria de Xalapa conservaron el episodio, aunque las fuentes discrepan en algunos detalles.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
-- **21 de noviembre de 1783:** Pilâtre de Rozier y el marqués d'Arlandes <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">realizan el primer vuelo tripulado de la historia en un globo Montgolfier, en París, Francia</a>  
-- **1 de diciembre de 1783:** Jacques Charles y Nicolas-Louis Robert realizan el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">primer vuelo tripulado en globo de hidrógeno</a>  
-- **25 de febrero de 1784:** Paolo Andreani realiza <a href="https://efemerides-aviacion.github.io/efemerides/evento/1784/02/25/primer-vuelo-globo-italia.html" style="color: #315fea; text-decoration: none;">el primer vuelo tripulado en globo aerostático sobre suelo italiano</a>  
-- **Principios de 1784:** José María Alfaro comienza sus experimentos con pequeños globos de papel en Xalapa  
-- **18 de mayo de 1784:** Alfaro realiza el primer vuelo en globo aerostático de América Latina, recorriendo 9 km desde Xalapa hasta Coatepec  
-- **19 de mayo de 1784:** La Gazeta de México publica la noticia del evento  
-- **7 de enero de 1785:** Jean-Pierre Blanchard y John Jeffries realizan el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html" style="color: #315fea; text-decoration: none;">primer cruce aéreo del Canal de la Mancha en globo aerostático</a>, un hito en la aviación internacional  
-- **9 de enero de 1793:** Jean-Pierre Blanchard realiza el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1793/01/09/primer-vuelo-globo-estados-unidos.html" style="color: #315fea; text-decoration: none;">primer vuelo en globo en Estados Unidos</a> en Filadelfia, ante el presidente George Washington  
+- **21 de noviembre de 1783:** Pilâtre de Rozier y d'Arlandes <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">realizan el primer vuelo tripulado de la historia en un globo Montgolfier, en París, Francia</a>.
+- **1 de diciembre de 1783:** Jacques Charles y Nicolas-Louis Robert realizan el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">primer vuelo tripulado en globo de hidrógeno</a>.
+- **25 de febrero de 1784:** Paolo Andreani realiza <a href="https://efemerides-aviacion.github.io/efemerides/evento/1784/02/25/primer-vuelo-globo-italia.html" style="color: #315fea; text-decoration: none;">el ensayo aerostático de Paolo Andreani</a>.
+- **Primeros meses de 1784:** Alfaro ensaya pequeños globos y prepara una envolvente capaz de sostener a un pasajero.
+- **18 de mayo de 1784:** el veracruzano se eleva desde Los Berros y desciende en el municipio vecino de Coatepec. La crónica local recuerda los aplausos de quienes vieron crecer la envolvente antes de la partida.
+- **19 de mayo:** la *Gazeta de México* comunica que Alfaro había fabricado un globo y da cuenta de sus dimensiones. La nota decía: «Quedase fabricado en este pueblo un globo aerostato semejante al que expresan semejantes gacetas de Madrid, trabajado por José María Alfaro: consta con 18 varas castellanas y se cree tenga el efecto que se desea, según el arreglo y cuidado con que se ha construido, lo que se avisará al público».
+- **7 de enero de 1785:** Blanchard y Jeffries completan el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1785/01/07/primer-cruce-canal-mancha-globo-aerostatico.html" style="color: #315fea; text-decoration: none;">primer cruce aéreo del Canal de la Mancha en globo aerostático</a>.
+- **9 de enero de 1793:** en Filadelfia, Blanchard realiza la ascensión que quedó registrada como <a href="https://efemerides-aviacion.github.io/efemerides/evento/1793/01/09/primer-vuelo-globo-estados-unidos.html" style="color: #315fea; text-decoration: none;">primer vuelo en globo en Estados Unidos</a>, ante George Washington.
 
-### El vuelo histórico
-El 18 de mayo de 1784, una multitud se congregó en las llanuras de Los Berros, en las afueras de Xalapa, para presenciar la temeraria acción del maestro veracruzano. Según la crónica de "Xalapa Antiguo", "la gente expectante, al ver que el globo logró su tamaño, comenzó a aplaudir sin parar, la mitad de la hazaña estaba realizada".
+La noticia impresa no afirmaba todavía que el vuelo hubiera concluido; empleaba una fórmula cautelosa y prometía ampliar la información. Esa distancia entre el anuncio previo y las crónicas posteriores es relevante: parte de los detalles del trayecto se transmitió por relatos locales, mientras que la *Gazeta* conserva una constancia cercana a los hechos.
 
-Alfaro se elevó solo (o posiblemente acompañado) a bordo del globo. El viento lo condujo suavemente a través de los valles y montañas de la región. El vuelo duró lo suficiente para recorrer aproximadamente 9 kilómetros, aterrizando en la cofradía de San José, en el actual municipio de Coatepec. La altitud máxima alcanzada fue de unos 800 metros sobre el nivel del suelo.
-
-#### La publicación en la Gazeta de México
-Al día siguiente, 19 de mayo de 1784, la Gazeta de México publicó una nota anunciando el evento. El texto rezaba:
-
-> "Quedase fabricado en este pueblo un globo aerostato semejante al que expresan semejantes gacetas de Madrid, trabajado por José María Alfaro: consta con 18 varas castellanas y se cree tenga el efecto que se desea, según el arreglo y cuidado con que se ha construido, lo que se avisará al público".
+La misma cautela explica por qué las fuentes no coinciden en la ocupación de la barquilla. Algunas narraciones dicen que Alfaro voló solo; otras dejan abierta la posibilidad de que lo acompañara alguien. El dato más sólido es que la envolvente fue construida por él y se elevó desde Xalapa, mientras que las medidas y el itinerario exactos deben leerse como aproximados.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
-- **Primer vuelo en América Latina:** La hazaña de Alfaro fue la primera en el continente americano (exceptuando posibles vuelos previos no documentados) y una de las primeras en el mundo, apenas seis meses después de los Montgolfier.
-- **Demostración de autosuficiencia tecnológica:** Alfaro construyó su globo sin acceso directo a la tecnología europea, basándose únicamente en noticias escritas y su propio ingenio.
-- **Inspiración para la aeronáutica en México:** Aunque no hubo una continuación inmediata de los vuelos en globo, el hecho demostró que la ciencia y la tecnología europeas podían replicarse en las colonias americanas.
-- **Reconocimiento histórico:** La hazaña fue documentada por historiadores como Manuel Rivera Cambas en su obra "La Historia antigua y moderna de Jalapa".
+El registro de la *Gazeta de México* convirtió el ensayo de Alfaro en una noticia contemporánea, no solo en una tradición oral. La descripción destaca la fabricación local y la cautela del redactor, que todavía esperaba saber si el artefacto daría el resultado deseado.
+
+La hazaña mostró que era posible reproducir técnicas aerostáticas lejos de los centros europeos, utilizando recursos propios y conocimientos obtenidos por lectura. No se consolidó una escuela ni una secuencia inmediata de vuelos en Nueva España. La escasez de documentos biográficos ayuda a explicar por qué el episodio fue recuperado sobre todo por historiadores regionales; su valor reside tanto en la experiencia técnica como en la circulación del saber.
+
+La prensa contemporánea, el recuerdo municipal y los estudios regionales forman capas documentales distintas; juntas permiten reconstruir el acontecimiento sin atribuir a Alfaro una infraestructura que no existía en la provincia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
-El 18 de mayo de 1784, José María Alfaro Guiles se elevó sobre los valles de Xalapa en un globo de su propia creación. Fue, sin duda, el primer latinoamericano en surcar los cielos a bordo de una aeronave más ligera que el aire. Su hazaña, ocurrida apenas seis meses después del primer vuelo de los hermanos Montgolfier en París, demuestra que el espíritu pionero de la aeronáutica no se limitaba a Europa, sino que florecía también en el Nuevo Mundo.
+La memoria de Alfaro se conserva principalmente en Xalapa. En la zona de Los Berros existe un monumento y un espacio público asociado con el despegue; cronistas e historiadores locales han recogido la noticia de la *Gazeta de México* y la han incorporado a la historia de la ciencia mexicana.
 
-Hoy, en el lugar donde Alfaro despegó, se levanta un monumento conmemorativo en la ciudad de Xalapa. El Vivero "Los Berros", en la colonia del mismo nombre, conserva la memoria del hombre que se atrevió a volar cuando la aeronáutica aún estaba en pañales. La historia de José María Alfaro es un recordatorio de que la curiosidad y la innovación no conocen fronteras, y que América Latina también tiene sus pioneros en la conquista del cielo.
+Las afirmaciones de prioridad deben formularse con precisión. La documentación disponible permite reconocer a Alfaro como pionero latinoamericano en un vuelo aerostático, mientras que las fechas y los registros de otros países americanos requieren comparación. La singularidad del caso no depende de exagerar su alcance: fue un ensayo construido por un maestro veracruzano, conocido por una fuente impresa de su tiempo. En la historiografía local, el vuelo también funciona como un ejemplo de iniciativa técnica fuera de las capitales virreinales.
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+La conmemoración local ayuda a situar el hecho en un paisaje concreto: el valle, los caminos que conectaban Xalapa con Coatepec y el espacio abierto de Los Berros. Más que una historia de aparatos conservados —no se conoce una máquina original—, es un relato sostenido por noticias impresas y por la memoria de la comunidad.
 
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre la primacía del vuelo:</strong> Aunque fuentes locales en Xalapa afirman que el vuelo de José María Alfaro fue el "primer vuelo en globo de América", es importante contextualizar que el primer vuelo en globo del continente americano podría haber ocurrido antes en otras latitudes (por ejemplo, en Brasil o Estados Unidos) según distintas interpretaciones históricas. Sin embargo, el vuelo de Alfaro el 18 de mayo de 1784 está documentado en la Gazeta de México y por historiadores locales, y ocurrió apenas seis meses después del primer vuelo tripulado de los Montgolfier (21 de noviembre de 1783). Lo que es indiscutible es que Alfaro fue el primer latinoamericano (hispanohablante) en volar en globo, y uno de los primeros en el mundo.</p>
-<p><strong>Sobre la construcción del globo:</strong> Las fuentes difieren en el tamaño del globo (10 metros de altura o 18 varas castellanas de diámetro, unos 15 metros). Las medidas exactas no están documentadas con precisión, pero todas coinciden en que era una aeronave de gran tamaño para la época.</p>
-<p><strong>Sobre la imagen que acompaña esta efeméride:</strong> No se conservan representaciones gráficas originales del vuelo de José María Alfaro. La imagen utilizada es una ilustración generada mediante inteligencia artificial, inspirada en las descripciones históricas del evento y en el contexto de la aviación pionera del siglo XVIII. Su propósito es puramente ilustrativo.</p>
-</div>
+Manuel Rivera Cambas incluyó el episodio en *La Historia antigua y moderna de Jalapa*. La comparación entre esa crónica y la breve noticia contemporánea permite distinguir lo que se publicó en 1784 de lo que la memoria regional añadió después; esa diferencia preserva el mérito de Alfaro sin presentar como certeza detalles que las fuentes no fijan.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 
 ## Referencias Verificadas
 <div class="references">
@@ -119,9 +102,22 @@ Hoy, en el lugar donde Alfaro despegó, se levanta un monumento conmemorativo en
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+
+
+
+<div class="note-box">
+<p><strong>Nota aclaratoria sobre la primacía del vuelo:</strong> Aunque fuentes locales en Xalapa afirman que el vuelo de José María Alfaro fue el "primer vuelo en globo de América", es importante contextualizar que el primer vuelo en globo del continente americano podría haber ocurrido antes en otras latitudes (por ejemplo, en Brasil o Estados Unidos) según distintas interpretaciones históricas. Sin embargo, el vuelo de Alfaro el 18 de mayo de 1784 está documentado en la Gazeta de México y por historiadores locales, y ocurrió apenas seis meses después del primer vuelo tripulado de los Montgolfier (21 de noviembre de 1783). Lo que es indiscutible es que Alfaro fue el primer latinoamericano (hispanohablante) en volar en globo, y uno de los primeros en el mundo.</p>
+<p><strong>Sobre la construcción del globo:</strong> Las fuentes difieren en el tamaño del globo (10 metros de altura o 18 varas castellanas de diámetro, unos 15 metros). Las medidas exactas no están documentadas con precisión, pero todas coinciden en que era una aeronave de gran tamaño para la época.</p>
+<p><strong>Sobre la imagen que acompaña esta efeméride:</strong> No se conservan representaciones gráficas originales del vuelo de José María Alfaro. La imagen utilizada es una ilustración generada mediante inteligencia artificial, inspirada en las descripciones históricas del evento y en el contexto de la aviación pionera del siglo XVIII. Su propósito es puramente ilustrativo.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
-- **Fuentes primarias/institucionales consultadas:** HNDM-UNAM (portal de la Gazeta de México); Diario de Xalapa / Rivera Cambas vía prensa local
-- **Discrepancias resueltas:** Las fuentes coinciden en la fecha (18 de mayo de 1784). Las medidas del globo varían ligeramente (10 metros de altura vs. 18 varas de diámetro). Se ha optado por incluir ambas referencias en las notas aclaratorias.
+- **Timestamp de verificación:** 2026-09-29 14:33:04 CST
+- **Fuentes primarias/institucionales consultadas:** HNDM-UNAM; *Gazeta de México*; Diario de Xalapa.
+- **Fuentes secundarias de contraste:** Rivera Cambas; prensa local veracruzana.
+- **Discrepancias resueltas:** las fuentes difieren en las dimensiones; se conservan ambas medidas como aproximadas.
 - **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."
+

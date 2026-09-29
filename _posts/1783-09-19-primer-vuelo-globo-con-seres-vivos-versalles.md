@@ -98,9 +98,10 @@ La escena vive en museos y colecciones de todo el mundo: el Smithsonian custodia
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-13 05:27:12 CST
-- **Fuentes primarias/institucionales consultadas:** Smithsonian NASM, Museums Victoria, Linda Hall Library, Anderson Abruzzo International Balloon Museum Foundation, Guinness World Records
-- **Fuentes secundarias de contraste:** Wikipedia (EN)
-- **Discrepancias resueltas:** (1) el tejido de la envolvente: tafetán con barniz de alumbre (Wikipedia) frente a lienzo de algodón con papel (Guinness); el post consigna papel reforzado con tela; (2) duración, distancia y altitud varían ligeramente entre fuentes (8–10 minutos, 3–4 km, 500–600 m); el post sigue el pie del grabado de época (8 minutos, 1.700 toesas ≈ 3,3 km) y la altitud de consenso (≈500 m); (3) el volumen de 37.500 pies cúbicos equivale a unos 1.060 m³ en la equivalencia usada por la literatura (≈1.285 m³ en pies de rey estrictos).
+- **Timestamp de verificación:** 2026-09-29 14:33:02 CST
+- **Fuentes primarias/institucionales consultadas:** Smithsonian NASM; Museums Victoria; Linda Hall Library; Anderson Abruzzo Balloon Museum; Guinness World Records.
+- **Fuente secundaria de contraste:** Wikipedia (EN).
+- **Discrepancias resueltas:** varían las cifras de la envolvente, el recorrido y la altura; se priorizan el grabado de 1783 y la altitud de consenso.
 - **Nivel de confianza:** Alto
-- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”
+- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."
+

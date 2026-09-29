@@ -16,90 +16,71 @@ image: 1709-08-08-primer-aerostato-de-la-historia.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 8 de agosto de 1709, en dependencias de la Casa da Índia de Lisboa, el sacerdote luso-brasileño Bartolomeu Lourenço de Gusmão hizo elevarse un pequeño globo de papel calentado por una llama ante el rey Juan V de Portugal, la reina María Ana de Austria, el nuncio apostólico Michelangelo Conti —futuro papa Inocencio XIII— y buena parte del cuerpo diplomático acreditado en la corte. El artefacto ascendió hasta el techo de la sala, se mantuvo suspendido y descendió sin incidentes.</p>
-<p>Fue la última y más lograda de una serie de pruebas realizadas aquel mes de agosto, y la que quedó fijada como fecha fundacional de la aerostación. Setenta y cuatro años antes de que los hermanos Montgolfier repitieran el principio en Annonay, Gusmão había demostrado en público que un ingenio construido por el hombre podía sostenerse en el aire por el solo efecto de la diferencia de densidades. No llegó a construir la máquina tripulada que había prometido al rey, y su nombre desapareció de la historia de la aeronáutica durante más de un siglo.</p>
+<p>En agosto de 1709, Bartolomeu Lourenço de Gusmão presentó en Lisboa un modelo de papel que se elevó mediante aire calentado. La exhibición ante Juan V convirtió una prueba breve en noticia cortesana y dio al inventor un privilegio real. El proyecto no pasó a transportar personas, pero dejó un antecedente documentado de la aerostación; la famosa *Passarola* que circuló en estampas no era el globo ensayado. Su historia posterior quedó mezclada con reivindicaciones de prioridad y relatos legendarios.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
-
 - **Fecha:** 8 de agosto de 1709.
-- **Lugar:** dependencias de la Casa da Índia, en el complejo del Paço da Ribeira, Lisboa, Reino de Portugal.
-- **Autor de la experiencia:** Bartolomeu Lourenço de Gusmão, presbítero secular nacido en la villa de Santos, capitanía de São Vicente, Brasil colonial, en diciembre de 1685.
-- **Testigos de rango:** el rey Juan V de Portugal; la reina María Ana de Austria; el infante Francisco; el nuncio apostólico en Lisboa, cardenal Michelangelo Conti, elegido papa en 1721 con el nombre de Inocencio XIII; el 3.º marqués de Fontes; miembros del cuerpo diplomático y de la corte.
-- **Naturaleza del ingenio:** globo de papel pardo grueso, de tamaño reducido, con una escudilla de barro encastrada en una bandeja de madera encerada en la que ardía material combustible.
-- **Principio físico:** empuje aerostático. El aire calentado en el interior de la envolvente reduce su densidad respecto al aire ambiente y genera sustentación, conforme al principio de Arquímedes.
-- **Resultado:** el globo se elevó, permaneció suspendido y descendió suavemente sin quemarse.
-- **Antecedente jurídico:** por alvará de 19 de abril de 1709, Juan V concedió a Gusmão el privilegio exclusivo sobre su «instrumento de andar por el aire», con pena de muerte para quien lo copiara o interfiriera, además de una cátedra de matemáticas en la Universidad de Coímbra dotada con 600.000 reales.
-- **Ensayos previos de aquel mes:** el 3 de agosto el globo ardió antes de despegar; el 5 de agosto se elevó unos cuatro metros y fue derribado por criados que temían que prendiera los cortinajes.
-- **Prueba posterior:** el 3 de octubre de 1709 un prototipo mayor, lanzado desde la Casa da Índia, alcanzó gran altura al aire libre.
-- **Distancia temporal con los Montgolfier:** 74 años. Joseph-Michel y Jacques-Étienne Montgolfier realizaron su primera demostración pública en Annonay el 4 de junio de 1783.
-- **Difusión europea:** las estampas de la llamada *Passarola*, una barca alada con esferas metálicas y velamen, circularon por media Europa desde 1709 y no representan el aparato realmente ensayado.
-- **Obra escrita:** *Manifesto sumário para os que ignoram poder-se navegar pelo elemento do ar*, publicado en 1709.
+- **Lugar:** Casa da Índia, complejo del Paço da Ribeira, Lisboa.
+- **Autor:** Bartolomeu Lourenço de Gusmão, sacerdote nacido en Santos, Brasil colonial.
+- **Testigos principales:** Juan V, María Ana de Austria, el nuncio Michelangelo Conti y miembros de la corte.
+- **Ingenio:** envolvente pequeña de papel, bandeja y recipiente de barro con combustible.
+- **Principio:** calentamiento del aire para obtener empuje aerostático.
+- **Resultado:** el modelo ascendió dentro de la sala y descendió sin quemarse.
+- **Privilegio real:** concedido por Juan V el 19 de abril de 1709 para un «instrumento de andar por el aire».
+- **Texto del autor:** *Manifesto sumário para os que ignoram poder-se navegar pelo elemento do ar* (1709).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
-
-La experiencia de 1709 no ocurrió en un laboratorio, sino en el salón de un palacio, y esa circunstancia explica tanto su repercusión inmediata como su posterior olvido.
+Lisboa reunía las condiciones para que una demostración técnica se convirtiera en asunto de prestigio real: la monarquía patrocinaba proyectos y buscaba acortar distancias con sus dominios ultramarinos.
 
 ### Entorno social
 
-El Portugal de Juan V vivía la primera bonanza del oro de Minas Gerais, un flujo de riqueza que el monarca destinó a la construcción monumental y al mecenazgo científico y artístico. La corte de Lisboa recibía con curiosidad a quien prometiera prestigio para la Corona, y un ingenio capaz de recorrer doscientas leguas diarias tocaba directamente el problema estratégico del imperio: la lentitud de las comunicaciones con Brasil, África y la India. La petición que Gusmão elevó al rey en abril de 1709 no vendía un juguete, sino un instrumento de gobierno para transmitir órdenes, socorrer plazas sitiadas y cartografiar los dominios ultramarinos.
+El oro llegado de Minas Gerais sostenía la política de Juan V y sus encargos monumentales. Una máquina capaz de trasladar mensajes o socorrer plazas ofrecía una promesa de utilidad imperial, además de brillo cortesano. En su petición, Gusmão llegó a atribuir a su proyecto la posibilidad de recorrer doscientas leguas diarias y de transmitir órdenes a Brasil, África o la India.
 
-Esa misma corte, sin embargo, era un medio hostil para un joven nacido en la colonia. Gusmão fue objeto de sátiras y coplas que lo presentaban como un iluminado que distraía al rey con fantasías, y la maledicencia acabó pesando más que la demostración física. Al mismo tiempo, el Santo Oficio vigilaba con atención los orígenes familiares de los letrados de origen brasileño, y sobre él pesaron finalmente sospechas ajenas por completo a la aerostación.
+El inventor, nacido en Brasil, se movía en una sociedad donde el origen colonial podía alimentar burlas y sospechas. Las sátiras lo retrataban como un iluminado que distraía al monarca, y el acceso a cargos dependía del favor de la Corona. Las sospechas inquisitoriales que más tarde lo obligaron a huir no estuvieron relacionadas con las pruebas aerostáticas.
 
 ### Entorno tecnológico
 
-El principio que Gusmão aplicó llevaba diecinueve siglos formulado. Arquímedes había establecido que un cuerpo sumergido en un fluido experimenta un empuje igual al peso del fluido desplazado, pero nadie lo había llevado al aire de manera pública y verificable. En la Europa del cambio de siglo el debate sobre el vuelo giraba en torno a dos vías: la imitación mecánica del ala batiente, heredada de Leonardo, y las propuestas de vacío parcial del jesuita Francesco Lana de Terzi, que en 1670 había imaginado una barca sostenida por esferas de cobre vaciadas de aire, inviables porque la presión atmosférica las habría aplastado.
-
-Gusmão eligió el camino practicable. Su envolvente de papel y su escudilla de combustible resolvían el problema con los materiales de una cocina, sin necesidad de metalurgia fina ni de química de gases. La limitación era igualmente evidente: sin control de la deriva, sin capacidad de carga y con una fuente de calor a llama abierta bajo una envolvente de papel, el artefacto era tan prometedor como peligroso.
+El empuje de los fluidos era conocido desde la Antigüedad, pero su aplicación al aire seguía siendo hipotética. Francesco Lana de Terzi había imaginado en 1670 una embarcación suspendida por esferas de cobre vacías, impracticables ante la presión atmosférica. Gusmão escogió una solución distinta: una envolvente ligera y una fuente de calor. El papel y el fuego eran accesibles, aunque la combinación también planteaba riesgos y no ofrecía dirección ni carga útil.
 
 ### Entorno cultural
 
-El público que asistió a la demostración no disponía de un marco para interpretarla. Lo que vio fue un objeto que subía solo, y esa imagen se leyó en clave de prodigio antes que de física. De ahí el apodo de *padre voador* y las acusaciones de brujería que circularon por las calles de Lisboa.
-
-La iconografía hizo el resto. El dibujo de la *Passarola* —una embarcación con alas, timón, velas y esferas magnéticas— fue elaborado deliberadamente para despistar a los curiosos y atribuir la ascensión al magnetismo, entonces explicación universal de lo inexplicable. La estampa se copió en toda Europa y terminó sustituyendo al hecho: durante generaciones, Gusmão fue recordado por una máquina absurda que nunca existió, y no por el globo de papel que sí voló.
+El público interpretó la elevación desde marcos muy distintos: para unos era una curiosidad, para otros un prodigio. El apodo *padre voador* y las acusaciones de brujería circularon por Lisboa. La imagen de la *Passarola*, difundida como una nave fantástica con alas, esferas metálicas y velamen, eclipsó el pequeño globo realmente ensayado. Esa estampa alimentó relatos que mezclaron hechos, sátira y leyenda.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
+La documentación sitúa la experiencia dentro de una secuencia de solicitudes, ensayos fallidos y una demostración palaciega.
 
-La secuencia abarca desde la solicitud del privilegio real hasta la última ascensión documentada del año.
-
-- **Abril de 1709:** Gusmão dirige a Juan V una petición de privilegio sobre un «instrumento de andar por el aire» capaz de cubrir doscientas leguas diarias, con aplicaciones militares, comerciales y de comunicación imperial. El Desembargo do Paço informa favorablemente.
-- **19 de abril de 1709:** se publica el alvará que concede el privilegio exclusivo al solicitante y a sus herederos, añade la pena de muerte para los infractores y le otorga la cátedra de Prima de Matemáticas de la Universidad de Coímbra con 600.000 reales de renta. El rey le franquea además su quinta de Alcântara para construir y ensayar el aparato.
-- **24 de junio de 1709:** fecha prevista para la primera demostración pública. No llega a celebrarse.
-- **3 de agosto de 1709:** primer intento ante la corte. El globo de papel arde antes de despegar.
-- **5 de agosto de 1709:** segundo intento. El aeróstato, alimentado por alcohol en combustión en una escudilla, se eleva unos cuatro metros. Dos criados lo derriban por temor a que incendie los cortinajes de la sala.
-- **Entre el 5 y el 8 de agosto de 1709:** se realizan nuevas pruebas en distintas dependencias del palacio y en espacios abiertos contiguos. En una de ellas el globo vuela libremente hasta chocar contra la cornisa de una torre y arder al caer.
-- **8 de agosto de 1709:** demostración definitiva en la Casa da Índia, ante el rey, la reina, el nuncio Conti, el infante Francisco, el marqués de Fontes, el cuerpo diplomático y la corte. El globo asciende hasta el techo, se sostiene en el aire y baja suavemente sin quemarse.
-- **Semanas siguientes:** el rey nombra a Gusmão canónigo y confirma su cátedra. La noticia se difunde por las cancillerías europeas; el nuncio Conti la remite por escrito a la Secretaría de Estado del Vaticano.
-- **3 de octubre de 1709:** ascensión al aire libre de un prototipo mayor lanzado desde la Casa da Índia. Alcanza gran altura, permanece suspendido y desciende sin estrépito.
-- **1710 en adelante:** Gusmão no vuelve a ensayar en público. Se dedica a la enseñanza, a la diplomacia y a la criptografía al servicio de la Corona.
+- **Abril de 1709:** Gusmão pide al rey un privilegio para su proyecto de navegación aérea; el expediente recibe informe favorable.
+- **19 de abril:** Juan V concede exclusividad al inventor y autoriza su acceso a recursos de la Corona. El alvará contempla sanciones severas para quien copiara el instrumento y le abre una cátedra de matemáticas en Coímbra.
+- **24 de junio:** fecha prevista para una presentación que no llega a realizarse.
+- **3 de agosto:** una primera prueba ante la corte fracasa cuando el modelo se incendia antes de elevarse.
+- **5 de agosto:** el globo sube unos metros; criados lo derriban por temor a que prenda los cortinajes.
+- **Entre el 5 y el 8 de agosto:** se documentan ensayos adicionales en estancias y espacios próximos al palacio; uno de los modelos vuela hasta una cornisa y se quema al caer.
+- **8 de agosto:** la demostración en la Casa da Índia resulta estable: el aparato llega al techo de la sala, permanece suspendido y desciende.
+- **Semanas siguientes:** Gusmão obtiene nuevos reconocimientos y la noticia circula por redes diplomáticas; el nuncio Conti informa a Roma.
+- **3 de octubre:** un prototipo mayor, lanzado al aire libre desde la Casa da Índia, alcanza gran altura y vuelve a tierra.
+- **Desde 1710:** no se documentan nuevas ascensiones públicas del inventor; se dedica a tareas eclesiásticas, académicas y diplomáticas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
+La exhibición aumentó el prestigio personal de Gusmão y le abrió puertas en la corte. En 1720 participó en la fundación de la Academia Real de Historia Portuguesa; dos años después llegó a capellán real y continuó al servicio de la Corona.
 
-El efecto inmediato de la demostración fue de prestigio personal, no de desarrollo técnico.
+No surgió un programa de desarrollo sostenido. Los modelos carecían de sistema de dirección, no transportaban personas y empleaban una llama junto a materiales combustibles. La noticia también se transmitió de forma desigual: circularon grabados sensacionalistas con la *Passarola*, mientras que las explicaciones físicas del inventor tuvieron menos alcance.
 
-Gusmão obtuvo lo que había pedido: privilegio exclusivo, renta, cátedra y acceso permanente a la corte. En 1720 fue uno de los cincuenta fundadores de la Academia Real de Historia Portuguesa y en 1722 llegó a capellán del rey. Pero la línea de investigación se detuvo. Los globos exhibidos no soportaban peso, no podían gobernarse y constituían un riesgo evidente de incendio en un palacio lleno de textiles. Nadie en Lisboa vio en ellos el embrión de un medio de transporte, y el propio inventor, hostigado por las sátiras, no insistió.
-
-La transmisión del hallazgo se produjo por el canal equivocado. Lo que viajó por Europa no fue el informe del nuncio ni el manifiesto que Gusmão publicó explicando el empuje, sino la estampa de la *Passarola*, reeditada durante décadas como curiosidad exótica. Cuando los Montgolfier hicieron público su globo en 1783, la conexión con Lisboa ya se había perdido: solo tres años después, en octubre de 1786, un diario londinense recogía la reivindicación portuguesa del hallazgo, mezclada con episodios legendarios que la volvían poco creíble.
-
-El final de Gusmão contribuyó al olvido. Investigado por el Santo Oficio por motivos ajenos a sus experimentos, huyó de Portugal en septiembre de 1724 y murió en Toledo, en el Hospital de la Misericordia, el 18 de noviembre de aquel mismo año, a los treinta y ocho. Antes de partir destruyó sus papeles. La ausencia de manuscritos autógrafos sobre la máquina voladora es la razón principal de que, durante generaciones, buena parte de la historiografía aeronáutica prefiriera ignorarlo.
+Las reclamaciones portuguesas de prioridad reaparecieron cuando otros globos se hicieron conocidos en Europa. La distancia entre la experiencia de Lisboa y la aerostación práctica posterior explica por qué su antecedente fue discutido durante generaciones.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
+La recuperación de Gusmão se apoyó en documentos conservados fuera de Portugal. Su tumba en Toledo fue localizada en 1856; en 1917 se publicó en Lausana una reproducción facsimilar de la petición real y del dibujo asociado con su proyecto. Esa edición, basada en piezas halladas en archivos vaticanos, continúa siendo una base para la investigación histórica.
 
-La recuperación de Gusmão fue lenta y llegó primero por vía documental.
+En 2004, parte de sus restos fue trasladada a la catedral de São Paulo. La Fuerza Aérea Brasileña lo adoptó como patrono de sus capellanes; aeropuertos de Río de Janeiro y Lisboa han llevado su nombre o exhibido homenajes a su figura. José Saramago lo convirtió en personaje de *Memorial del convento*, donde la *Passarola* adquiere una vida literaria.
 
-Su tumba en la iglesia de San Román de Toledo, perdida durante más de un siglo, fue identificada en 1856. En 1917 se publicó en Lausana la reproducción facsimilar del dibujo, la descripción y la petición dirigida a Juan V, halladas en los archivos vaticanos, edición que hoy conserva y difunde la Biblioteca Nacional de Portugal y que constituye la base documental de todo estudio serio sobre el asunto. Parte de sus restos fue trasladada a Brasil y reposa desde 2004 en la cripta de la catedral metropolitana de São Paulo. Ese mismo año fue designado patrono de los capellanes de la Fuerza Aérea Brasileña.
+La denuncia inquisitorial que sufrió data de 1724 y se refería a un cargo religioso, no a sus ensayos. La versión que lo presenta perseguido por volar se popularizó en una publicación londinense de 1786, cuando Portugal reclamaba prioridad frente a noticias de Francia. Reconocer la anticipación de Gusmão no confunde su prueba de modelo con la invención práctica posterior. La <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/06/04/primera-elevacion-globo-aerostatico-montgolfier.html" style="color: #315fea; text-decoration: none;">demostración de los hermanos Montgolfier en Annonay</a> y <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">el primer vuelo tripulado de noviembre de aquel año</a> pertenecen a otra etapa. Casi dos siglos después, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1873/07/20/nacimiento-alberto-santos-dumont.html" style="color: #315fea; text-decoration: none;">Alberto Santos Dumont</a> trabajó en un desafío que el experimento lisboeta no resolvió: gobernar la trayectoria.
 
-En el terreno simbólico, su nombre volvió pronto. En 1936 el aeropuerto construido en Río de Janeiro para operar con los dirigibles alemanes recibió el nombre de Bartolomeu de Gusmão, y una estatua suya recibe hoy a los pasajeros del aeropuerto Humberto Delgado de Lisboa. La literatura hizo el resto: José Saramago lo convirtió en uno de los tres personajes centrales de *Memorial del convento*, donde la *Passarola* llega a surcar de verdad los cielos de Mafra.
-
-Conviene deshacer, llegados aquí, el equívoco más extendido sobre este episodio: la idea de que la Inquisición ahogó el invento tras declarar a su autor aliado del diablo. La denuncia ante el Santo Oficio existió, pero se presentó en 1724, quince años después de las ascensiones, y por un cargo enteramente distinto: judaizar. En ese intervalo la Corona lo hizo canónigo, catedrático, académico y capellán real, difícilmente compatible con una persecución por sus experimentos. El relato legendario tiene fecha y lugar de nacimiento conocidos: un artículo del <em>Daily Universal Register</em> de Londres —futuro <em>The Times</em>— del 20 de octubre de 1786, publicado tres años después del vuelo de los Montgolfier, cuando los eruditos portugueses reclamaron para su país la prioridad del hallazgo. Aquel texto reunía ya todos los elementos que la divulgación repetiría durante dos siglos: el pueblo llamándolo brujo, el terror inquisitorial, la quema de los manuscritos y la huida disfrazado. La historiografía lo tiene por añadido tardío desde hace más de un siglo, y el análisis moderno de los fondos de la Torre do Tombo apunta a las rivalidades cortesanas y a la campaña de los libelistas como causa real de su caída. Lo que detuvo el desarrollo del aeróstato fue mucho más prosaico: no servía para transportar nada, no se podía gobernar y quemaba.
-
-La cuestión de fondo sigue siendo la misma que en 1709. La <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/06/04/primera-elevacion-globo-aerostatico-montgolfier.html" style="color: #315fea; text-decoration: none;">demostración de los hermanos Montgolfier en Annonay</a> y, sobre todo, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">el primer vuelo tripulado de noviembre de aquel año</a> tuvieron consecuencias inmediatas porque llegaron a una Europa preparada para explotarlas. El experimento de Lisboa, aislado y sin continuidad, se quedó en la categoría de anticipación. Reconocerle a Gusmão la prioridad no equivale a disputarles a los Montgolfier la invención práctica del globo: son dos hechos distintos, separados por tres cuartos de siglo y por un contexto industrial y científico incomparable.
-
-Queda, con todo, una línea que sí llega hasta hoy. El primer brasileño que voló lo hizo en un salón de Lisboa con un globo de papel; casi dos siglos después, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1873/07/20/nacimiento-alberto-santos-dumont.html" style="color: #315fea; text-decoration: none;">Alberto Santos Dumont</a> retomó en París el problema que Gusmão había dejado sin resolver: no elevarse, sino dirigir el vuelo.
+El episodio debe leerse a partir de los documentos disponibles y no de las reconstrucciones visuales posteriores. La petición al monarca prueba que existía un proyecto de navegación aérea; el grabado fantástico no demuestra que la nave representada hubiese sido fabricada. Mantener separados ambos registros permite reconocer el experimento sin convertirlo en una leyenda de vuelo tripulado.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
@@ -128,10 +109,10 @@ Queda, con todo, una línea que sí llega hasta hoy. El primer brasileño que vo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 10:11:07 CST
-- **Fuentes primarias/institucionales consultadas:** Biblioteca Nacional de Portugal, reproducción facsimilar de la petición y el dibujo remitidos a Juan V, hallados en los archivos vaticanos; Smithsonian National Air and Space Museum, ficha de la estampa dieciochesca de la máquina voladora; British Balloon Museum and Library; Academia Paulista de Letras y Conselho de Cidadania Luso-Brasileiro.
-- **Fuentes secundarias de contraste:** Revista Pesquisa FAPESP; portal História da Força Aérea Brasileira; dossier documental de Novo Milênio; Wikipedia en portugués e inglés, con referencia a la *História Geral da Aeronáutica Brasileira* del INCAER.
-- **Discrepancias resueltas:** se consignó la divergencia entre las fuentes sobre el emplazamiento exacto de la ascensión del 8 de agosto y sobre el número total de ensayos realizados aquel mes; se precisó la condición de presbítero secular frente a la atribución habitual de jesuita; se corrigió la edad del protagonista en 1709; se registró la doble fecha de su fallecimiento; se descartó la formulación de algunas publicaciones según la cual se habría demostrado el vuelo de un objeto más pesado que el aire; se identificó como leyenda de origen tardío la persecución inquisitorial por los experimentos aerostáticos, atribuible a un artículo londinense de 1786, frente a la denuncia real de 1724 por un cargo distinto.
-- **Datos no confirmados:** la altura exacta alcanzada por el globo el 8 de agosto y la duración de la ascensión, que las relaciones de la época no cuantifican.
+- **Timestamp de verificación:** 2026-09-29 14:33:01 CST
+- **Fuentes primarias/institucionales consultadas:** Biblioteca Nacional de Portugal; Smithsonian NASM; British Balloon Museum and Library; Academia Paulista de Letras.
+- **Fuentes secundarias de contraste:** FAPESP; História da Força Aérea Brasileira; Novo Milênio; Wikipedia (PT/EN).
+- **Discrepancias resueltas:** varían el lugar preciso, el número de ensayos y la fecha de muerte; se distingue la denuncia de 1724 del relato tardío de persecución por volar.
 - **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."
+
