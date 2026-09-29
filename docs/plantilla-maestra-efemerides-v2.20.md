@@ -1,10 +1,12 @@
 # Documento Maestro de Plantillas de Efemérides de Aviación
-> Última actualización: 2026-09-23  
-> Versión: v2.19
+> Última actualización: 2026-09-29  
+> Versión: v2.20
 
 ---
 
 ## Nota sobre esta versión
+
+**Novedad de la v2.20.** Dos decisiones del editor del 29-09-2026, a raíz del alta 1931-10-05 (*Miss Veedol*): (a) la **regla maestra 16** codifica el **principio de asignación única** («un dato, una sección») fuera del `Resumen Ejecutivo` —con delimitación de la función exclusiva de cada bloque del post— y fija la **banda de extensión para lectura móvil** (1.150–1.500 palabras narrativas, tope recomendado de 1.550; 14–18 KB por archivo `.md`), de aplicación **no retroactiva** a las nuevas altas desde el 29-09-2026; (b) la **regla maestra 17** devuelve `## Metadatos de Control` a su formato telegráfico original (65–120 palabras, tope de 150): las listas de fuentes consignan solo nombres breves de instituciones o medios y `Discrepancias resueltas` se resume en una línea, sin repetir títulos, autores, signaturas ni descripciones de `## Referencias Verificadas`. En paralelo: Manual de Estilo v1.18 (§ 5 y § 10), Instrucciones de Formato v2.18, `tools/efemerides-linter.sh` y `docs/guia-del-linter.md`. Instrucciones de Procesar v2.14: sin novedad. Registro de la versión anterior debajo.
 
 **Novedad de la v2.19.** Dos decisiones del editor del 23-09-2026, que resuelven las propuestas pendientes del 22-09: (a) la **regla maestra 5** incorpora la excepción institucional **D1-b**, por la que el cargo civil se capitaliza cuando encabeza una denominación institucional capitalizada, en cualquier posición respecto al nombre propio; (b) la **regla maestra 2** reserva los enlaces externos a museos, archivos, repositorios, instituciones y fuentes documentales a `## Referencias Verificadas` y al `<figcaption>` que acredita la imagen, admitiendo en el cuerpo narrativo solo enlaces internos y, excepcionalmente, el externo que sea el objeto mismo del relato. En paralelo: Manual de Estilo v1.17 (§ 4.3 y § 6.4) e Instrucciones de Formato v2.17. Instrucciones de Procesar v2.14: sin novedad. Registro de la versión anterior debajo.
 
@@ -484,6 +486,33 @@ Cuando el hito se extiende a lo largo de varios días (travesía, récord, misi�
 
 **Origen.** Earhart transcontinental: despegue el 24 de agosto de 1932, aterrizaje el 25; la URL y el post son del 25. El 24 responde 404.
 
+### 16) Extensión y asignación única por sección
+
+**Principio de asignación única («un dato, una sección»).** Fuera de la síntesis inicial del `Resumen Ejecutivo`, **ningún hecho, cifra técnica, modificación de aeronave, episodio del viaje ni premio o distinción se repite en otra sección del post**. Cada bloque cumple su función una sola vez:
+
+- **`excerpt` (YAML):** una frase (≈30–45 palabras) útil para SEO y listados, sin datos secundarios.
+- **`<figcaption>`:** describe solo lo visible en la imagen y acredita su fuente documental, sin adelantar la crónica técnica ni los episodios del vuelo.
+- **`Resumen Ejecutivo` (100–130 palabras, máximo dos párrafos):** núcleo del hito (quién, cuándo, dónde, en qué aeronave y por qué es histórico); es la única sección cuya información esencial se desarrolla después con detalle.
+- **`Datos verificados del evento` (140–190 palabras):** ficha telegráfica (fecha, hito, ruta o lugar, aeronave, tripulación, operador, duración/distancia o cifras clave), sin prosa explicativa.
+- **`Contexto Histórico` (380–480 palabras entre introducción y las tres subsecciones):** antecedentes previos en la introducción; trayectoria anterior de los protagonistas en `### Entorno social`; diseño, motorización y modificaciones técnicas **previas** al suceso en `### Entorno tecnológico` —donde se concentran las cifras de capacidad, pesos y modificaciones, que no se repiten en la cronología—; marco deportivo, mediático, político o institucional previo en `### Entorno cultural`, sin narrar por adelantado episodios del viaje ni el cobro de premios.
+- **`Desarrollo Cronológico` (300–400 palabras, 5 a 7 hitos fechados):** secuencia temporal de las etapas y maniobras hasta la culminación, sin reexplicar el diseño técnico ni los antecedentes biográficos.
+- **`Consecuencias e Impacto` (150–210 palabras):** efectos inmediatos o de corto plazo.
+- **`Legado` (110–160 palabras):** proyección a largo plazo, trayectoria posterior de los protagonistas hasta su fallecimiento y memoria material o institucional vigente.
+
+**Banda de extensión para lectura móvil (no retroactiva).** El cuerpo narrativo (desde el comentario del `Resumen Ejecutivo` hasta el final de `## Legado`, descontadas etiquetas HTML y URLs) se mantiene en **1.150–1.500 palabras**, con óptimo en torno a 1.300 y **tope recomendado de 1.550 palabras**, equivalente a un archivo `.md` completo de **14–18 KB**. Rige para las nuevas altas desde el 29-09-2026 y **no** obliga a editar el corpus ya publicado.
+
+**Origen.** Alta 1931-10-05 (*Miss Veedol*): el editor advirtió redundancias semánticas de título y pasajes repetidos entre secciones, y pidió fijar una pauta de concisión para lectura en teléfono inteligente, sin efecto retroactivo.
+
+### 17) Metadatos de Control telegráficos
+
+`## Metadatos de Control` se redacta en viñetas breves (orientativamente **65–120 palabras**, tope recomendado de **150**), conforme a la plantilla normativa de este documento:
+
+- las listas `Fuentes primarias/institucionales consultadas` y `Fuentes secundarias de contraste` consignan **solo nombres breves** de instituciones, archivos, museos o publicaciones, separados por comas o punto y coma;
+- **no** se repiten títulos de artículos, nombres de autores, signaturas detalladas, fechas de consulta ni descripciones que ya constan en `## Referencias Verificadas`;
+- `Discrepancias resueltas` se resume en **una sola línea** (máximo ≈40 palabras) para dejar constancia telegráfica de divergencias numéricas, de fecha o de denominación entre fuentes publicadas; si la divergencia ya se explicó en la `Nota aclaratoria`, basta remitir a ella sin duplicarla.
+
+**Origen.** Auditoría del 29-09-2026: el corpus tiene una mediana de 110 palabras de metadatos, mientras que altas recientes de investigación extensa (1914-10-05, 1931-10-05, 1967-10-03) llegaron a 240–308 palabras por acumulación de descripciones propias de las referencias.
+
 ---
 
 ## Estructura universal del post
@@ -746,13 +775,15 @@ justifica ante el editor cómo se llegó a redactarlo.
 
 ```markdown
 ## Metadatos de Control
-- **Timestamp de verificación:** AAAA-MM-DD HH:MM:SS CST  [hora del editor, tomada con `TZ=America/Mexico_City date '+%Y-%m-%d %H:%M:%S CST'`; nunca el `date` crudo del entorno, que opera en UTC]
-- **Fuentes primarias/institucionales consultadas:** [lista breve]  
-- **Fuentes secundarias de contraste:** [lista breve; **nunca** el borrador preliminar del editor]  
-- **Discrepancias resueltas:** [resumen breve, **exclusivamente** de divergencias entre fuentes publicadas: cifras, fechas, husos, denominaciones. Nunca errores del borrador, enlaces caídos, incidencias del entorno ni comprobaciones rutinarias del flujo de trabajo. Si no hubo divergencias entre fuentes, se omite el campo]  
+- **Timestamp de verificación:** AAAA-MM-DD HH:MM:SS CST  [hora del editor con `TZ=America/Mexico_City`; nunca el `date` crudo del entorno (UTC)]
+- **Fuentes primarias/institucionales consultadas:** [nombres breves separados por comas o punto y coma]  
+- **Fuentes secundarias de contraste:** [nombres breves; **nunca** el borrador del editor]  
+- **Discrepancias resueltas:** [una sola línea: divergencias entre fuentes publicadas —cifras, fechas, husos, denominaciones—; se omite si no hubo ninguna]  
 - **Nivel de confianza:** Alto / Medio / Bajo  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
 ```
+
+**Extensión y alcance (regla maestra 17).** Las viñetas conservan su valor telegráfico: **no** repiten títulos de artículos, autores, signaturas ni descripciones de `## Referencias Verificadas`, ni justifican el proceso de investigación. El desarrollo completo de la norma vive en el Manual de Estilo (§ 10) y en las Instrucciones de Formato; el linter mide la extensión de la sección.
 
 ---
 
@@ -1903,3 +1934,22 @@ de agosto, levantando parcialmente la moratoria del 21-08.
 | Versión | Fecha | Descripción |
 | :--- | :--- | :--- |
 | v2.17 | 2026-08-28 | Regla maestra 11 extendida a categorías dobles (un segmento de ruta por categoría, en el orden del YAML). Alineación con Instrucciones de Formato v2.14, Manual de Estilo v1.14 e Instrucciones de Procesar v2.14. |
+| v2.18 | 2026-09-03 | Regla maestra 5 reescrita: lista enunciativa de grados, plural de grado ante lista de nombres y regulación de tratamientos honoríficos (D2-a), con anexo comparativo normativo en `docs/`. |
+| v2.19 | 2026-09-23 | Regla maestra 5 con la excepción institucional D1-b; regla maestra 2 con la reserva de enlaces externos a `## Referencias Verificadas` y `<figcaption>`. |
+| v2.20 | 2026-09-29 | Regla maestra 16: asignación única por sección y banda de extensión para lectura móvil (1.150–1.500 palabras narrativas; tope 1.550), no retroactiva. Regla maestra 17: Metadatos de Control telegráficos (65–120 palabras, tope 150). |
+
+---
+
+## Reglas incorporadas en la versión v2.20 — 2026-09-29
+
+### Regla maestra 16: extensión y asignación única por sección
+
+El alta 1931-10-05 (*Miss Veedol*, primer vuelo transpacífico sin escalas) se entregó con 1.530 palabras narrativas y con pasajes repetidos entre secciones: la advertencia del editor del 29-09-2026 pidió fijar una pauta de concisión para lectura en teléfono inteligente y una regla estricta de no repetición fuera del `Resumen Ejecutivo`. La regla delimita la función exclusiva de cada bloque (con bandas orientativas por sección), prohíbe repetir hechos, cifras técnicas, episodios o premios fuera de la síntesis inicial, y fija la banda de 1.150–1.500 palabras narrativas por post. El corpus publicado queda congelado: la norma rige solo para nuevas altas.
+
+### Regla maestra 17: Metadatos de Control telegráficos
+
+La auditoría del 29-09-2026 sobre las altas recientes mostró metadatos de 240–308 palabras (mediana del corpus: 110), con las listas de fuentes reproduciendo títulos, autores y signaturas propios de `## Referencias Verificadas`. La regla devuelve la sección a su forma telegráfica: nombres breves de instituciones o medios, una línea concisa de `Discrepancias resueltas` y tope recomendado de 150 palabras.
+
+### Alineación
+
+Manual de Estilo v1.18 (§ 5 y § 10), Instrucciones de Formato v2.18 (pautas de repetición y apartado de metadatos), `tools/efemerides-linter.sh` (auditorías nuevas de extensión narrativa y de extensión de metadatos, en modo `[AVISO]`) y `docs/guia-del-linter.md`. Instrucciones de Procesar v2.14: sin novedad.

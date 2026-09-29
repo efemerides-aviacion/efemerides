@@ -1,6 +1,6 @@
 # Protocolo de continuidad entre sesiones
 
-> Propuesta operativa preparada el 5 de septiembre de 2026 y actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`. No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
+> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, y actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos. No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
 
 ## Principio
 
@@ -42,10 +42,10 @@ https://api.github.com/repos/efemerides-aviacion/efemerides/branches/restauracio
 
 Debe enumerar nominalmente los seis rectores y sus versiones:
 
-1. `docs/plantilla-maestra-efemerides-v2.19.md`
-2. `docs/instrucciones-formato-efemerides-v2.17.md`
+1. `docs/plantilla-maestra-efemerides-v2.20.md`
+2. `docs/instrucciones-formato-efemerides-v2.18.md`
 3. `docs/instrucciones-procesar-efemerides-v2.14.md`
-4. `docs/manual-estilo-efemerides-v1.17.md`
+4. `docs/manual-estilo-efemerides-v1.18.md`
 5. `docs/anexo-comparacion-tratamientos-y-rangos.md`
 6. `docs/excepciones-rangos-y-tratamientos.md`
 
@@ -57,6 +57,8 @@ Debe registrar también:
 - ruta del detector de ecos versionado: `tools/eco7.py`;
 - hash SHA-256 de cada herramienta vigente;
 - forma de recuperar cualquier herramienta excepcional que todavía no esté versionada.
+
+Desde la enmienda del 29-09-2026 el linter informa además de tres magnitudes del post, todas en modo `[AVISO]` y sin efecto retroactivo: la extensión narrativa (banda 1.150–1.500 palabras, tope de 1.550; Manual v1.18 § 5.10), las repeticiones de 7-gramas entre secciones fuera del `Resumen Ejecutivo` (Manual v1.18 § 5) y la extensión de `## Metadatos de Control` (tope recomendado de 150 palabras; Manual v1.18 § 10). Los avisos se anotan en el cierre de la jornada solo cuando un alta nueva los activa.
 
 `tools/eco7.py` es la fuente de verdad del detector de ecos desde su incorporación al repositorio el 25 de septiembre de 2026. No debe depender de una copia única en `/home/user/herramientas/`, de un adjunto ni de un equipo local. La copia versionada se recupera con el sparse-checkout de `tools/`. Si el archivo falta, su hash difiere del registrado o no supera las comprobaciones de apertura, debe reconstruirse el clon desde el HEAD remoto antes de auditar contenido.
 

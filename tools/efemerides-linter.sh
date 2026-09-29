@@ -9,7 +9,11 @@
 # radio de las auditorías 9 y 10 ampliado a cualquier mención de «borrador» (reglas maestras 6 y 8) el 2026-09-17;
 # alineado con Plantilla Maestra v2.19 · Manual de Estilo v1.17 · Instrucciones de Formato v2.17 el 2026-09-23
 # (nuevas auditorías [AVISO]: cargo civil en minúscula ante denominación capitalizada — Manual v1.17 § 4.3,
-# decisión D1-b — y reserva de enlaces externos — Manual v1.17 § 6.4).
+# decisión D1-b — y reserva de enlaces externos — Manual v1.17 § 6.4);
+# alineado con Plantilla Maestra v2.20 · Manual de Estilo v1.18 · Instrucciones de Formato v2.18 el 2026-09-29
+# (nuevas auditorías [AVISO]: extensión narrativa 1.150–1.550 palabras — Manual v1.18 § 5.10 —, repeticiones
+# de 7-gramas entre secciones fuera del Resumen Ejecutivo — Manual v1.18 § 5 — y extensión de los Metadatos
+# de Control — Manual v1.18 § 10 —; las tres son no retroactivas y no computan como fallo).
 #
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
@@ -438,6 +442,67 @@ if [ -n "$IMG_FILE" ] && command -v identify >/dev/null 2>&1; then
     || fail "Imagen $DIMS — [$CATS] exige $WANT (regla maestra 12)"
 else
   printf '[AVISO]   Imagen no localizada en el entorno (auditar dims. manualmente: %s)\n' "${IMG_LINE}"
+fi
+
+# --------------------------------- Extensión narrativa (Manual v1.18 § 5.10)
+# Aviso, no fallo: la banda de 1.150–1.500 palabras narrativas (tope recomendado
+# de 1.550) rige para las nuevas altas desde el 29-09-2026 y no tiene efecto
+# retroactivo sobre el corpus publicado, que registra 194 posts por encima del
+# tope congelados por la no-retroactividad del 23-09-2026.
+# Medición: del comentario del Resumen Ejecutivo al encabezado «## Referencias
+# Verificadas», descontadas las etiquetas HTML.
+NARR=$(awk '/<!-- *## Resumen Ejecutivo/{f=1} f && /^## Referencias Verificadas$/{f=0} f' <<<"$BODY")
+if [ -n "$NARR" ]; then
+  NARR_WC=$(sed -e 's/<[^>]*>//g' <<<"$NARR" | wc -w)
+  if [ "$NARR_WC" -le 1500 ]; then
+    ok "Extensión narrativa: $NARR_WC palabras (banda 1.150–1.500, Manual v1.18 § 5.10)"
+  elif [ "$NARR_WC" -le 1550 ]; then
+    printf '[AVISO]   Extensión narrativa: %s palabras — por encima del óptimo de 1.500, dentro del tope recomendado de 1.550 (Manual v1.18 § 5.10; no retroactivo)\n' "$NARR_WC"
+  else
+    printf '[AVISO]   Extensión narrativa: %s palabras — supera el tope recomendado de 1.550; condensar según «un dato, una sección» (Manual v1.18 § 5.10; no retroactivo: el corpus anterior al 29-09-2026 queda congelado)\n' "$NARR_WC"
+  fi
+else
+  printf '[AVISO]   Extensión narrativa: no se localizó el bloque del Resumen Ejecutivo (revisar la cabecera del cuerpo)\n'
+fi
+
+# ------------------ Repeticiones entre secciones (Manual v1.18 § 5, «un dato, una sección»)
+# Aviso, no fallo: mide los 7-gramas idénticos compartidos por dos o más secciones
+# del propio post, excluidas «Resumen Ejecutivo» (síntesis permitida y única sección
+# que puede anticipar el contenido), «Referencias Verificadas» y «Metadatos de Control».
+# El radio de 7 palabras es el mismo del detector de ecos de la casa (tools/eco7.py).
+# Los topónimos, denominaciones institucionales y citas de época repetidos pueden ser
+# legítimos: el aviso exige lectura humana y no computa como fallo.
+REP_RAW=$(awk '
+  /^## /{ sec=$0; sub(/^## /,"",sec); next }
+  { if (sec!="Referencias Verificadas" && sec!="Metadatos de Control" && sec!="Resumen Ejecutivo" && sec!="") print sec "|" $0 }
+' <<<"$BODY" \
+  | sed -e 's/<[^>]*>//g' -e 's/[^A-Za-zÁÉÍÓÚÜÑáéíóúüñ |]/ /g' -e 's/  */ /g' \
+  | awk -F'|' '{ n=split($2,a," "); for(i=1;i<=n-6;i++){ s=""; for(j=i;j<i+7;j++) s=s" "a[j]; print $1 "|"s } }' \
+  | sort -u \
+  | awk -F'|' '{ c[$2]=c[$2] "|" $1; n[$2]++ } END{ for(g in n) if(n[g]>=2) print n[g] "|" g "|" c[g] }' \
+  | sort -t'|' -k1,1rn)
+REP_N=0
+[ -n "$REP_RAW" ] && REP_N=$(grep -c . <<<"$REP_RAW")
+if [ "$REP_N" -eq 0 ]; then
+  ok "Sin repeticiones entre secciones (7-gramas idénticos fuera del Resumen Ejecutivo, Manual v1.18 § 5)"
+else
+  printf '[AVISO]   Repeticiones entre secciones: %s 7-grama(s) compartido(s) fuera del Resumen Ejecutivo — revisar si son repeticiones reales o denominaciones legítimas (Manual v1.18 § 5, «un dato, una sección»; no retroactivo)\n' "$REP_N"
+  head -5 <<<"$REP_RAW" | while IFS='|' read -r r_cnt r_gram r_secs; do
+    printf '           ×%s «%s» — secciones: %s\n' "$r_cnt" "${r_gram# }" "$(tr '|' ',' <<<"${r_secs#|}" | sed 's/^,//')"
+  done
+  [ "$REP_N" -gt 5 ] && printf '           … y %s 7-grama(s) más con el mismo criterio\n' "$((REP_N-5))"
+fi
+
+# ----------------------- Extensión de «Metadatos de Control» (Manual v1.18 § 10)
+# Aviso, no fallo: tope recomendado de 150 palabras para las viñetas telegráficas
+# (mediana del corpus: 110 palabras; altas recientes de investigación extensa: 236–308).
+if [ -n "$META" ]; then
+  META_WC=$(sed -e 's/<[^>]*>//g' <<<"$META" | wc -w)
+  if [ "$META_WC" -le 150 ]; then
+    ok "Metadatos de Control: $META_WC palabras (≤150 recomendado, Manual v1.18 § 10)"
+  else
+    printf '[AVISO]   Metadatos de Control: %s palabras — superan el tope recomendado de 150; enumerar solo nombres breves de fuentes y resumir «Discrepancias resueltas» en una línea, sin duplicar «Referencias Verificadas» (Manual v1.18 § 10)\n' "$META_WC"
+  fi
 fi
 
 # ------------------------------------------------------------------ Veredicto

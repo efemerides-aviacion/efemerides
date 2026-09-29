@@ -1,6 +1,6 @@
 # Manual de Estilo de Efemérides
-> Edición consolidada: 2026-09-23  
-> Versión: v1.17
+> Edición consolidada: 2026-09-29  
+> Versión: v1.18
 
 ---
 
@@ -177,27 +177,40 @@ rama el 28-08-2026 («eje transversal o lateral»).
 
 ---
 
-## 5. Reglas de repetición
+## 5. Reglas de repetición, asignación única y extensión
+
+### Principio de asignación única («un dato, una sección»)
+Fuera de la síntesis inicial del `Resumen Ejecutivo` (100–130 palabras, máximo dos párrafos), **ningún hecho, cifra técnica, modificación de aeronave, episodio del viaje ni premio o distinción debe repetirse en otra sección del post**. Cada bloque cumple una función exclusiva una sola vez:
 
 ### 5.1 Excerpt
-Debe ser breve y útil para SEO/listado.
+Una sola frase breve (≈30–45 palabras), útil para SEO y listado, sin datos secundarios.
 
-### 5.2 Resumen Ejecutivo
-Debe condensar el hecho y ampliarlo ligeramente.
+### 5.2 Pie de foto (`<figcaption>`)
+Describe únicamente lo visible en la imagen y acredita su fuente documental, sin adelantar la crónica técnica ni los episodios del vuelo.
 
-### 5.3 Datos verificados
-Debe aportar lo factual sin copiar el Resumen Ejecutivo.
+### 5.3 Resumen Ejecutivo
+Condensa el núcleo del hito (quién, cuándo, dónde, en qué aeronave y por qué es histórico) en 100–130 palabras, sin copiar literalmente el `excerpt`. Es la única sección cuya información esencial se desarrolla después con detalle en el cuerpo.
 
-### 5.4 Desarrollo Cronológico
-Es el espacio preferente para hitos fechados y para un posible enlace cruzado interno.
+### 5.4 Datos verificados
+Ficha telegráfica de referencia rápida (140–190 palabras: Fecha, Hito, Ruta/Lugar, Aeronave, Tripulación/Protagonistas, Operador, Duración/Distancia o cifras clave), sin párrafos explicativos ni duplicación de la prosa de otras secciones.
 
-### 5.5 Consecuencias e Impacto
-Expone efectos inmediatos o cercanos.
+### 5.5 Contexto Histórico
+Entre el párrafo introductorio y sus tres subsecciones obligatorias suma orientativamente 380–480 palabras:
+- **Introducción:** estado de la cuestión y antecedentes históricos previos al hecho (espacio preferente para enlaces internos de contexto).
+- **`### Entorno social`:** biografía previa y formación de los protagonistas u organización antes del hito.
+- **`### Entorno tecnológico`:** adquisición, diseño, motorización y modificaciones técnicas de la aeronave o sistema **antes** del suceso; las especificaciones de capacidad, pesos y modificaciones se concentran aquí y no se repiten en la cronología.
+- **`### Entorno cultural`:** marco deportivo, mediático, político o institucional previo que motivó el suceso, **sin narrar por adelantado** episodios del viaje ni el cobro de premios.
 
-### 5.6 Legado
-Expone la proyección a largo plazo.
+### 5.6 Desarrollo Cronológico
+Secuencia estrictamente temporal de las etapas y maniobras del evento hasta su culminación (300–400 palabras, de 5 a 7 hitos fechados), sin volver a explicar el diseño técnico del aparato ni los antecedentes biográficos ya expuestos en `## Contexto Histórico`.
 
-### 5.7 Distancia temporal con el presente
+### 5.7 Consecuencias e Impacto
+Expone los efectos inmediatos o de corto plazo (150–210 palabras: recompensas y condecoraciones recibidas, destino ulterior del ejemplar, apertura de rutas o cambios normativos inmediatos).
+
+### 5.8 Legado
+Expone la proyección a largo plazo (110–160 palabras: trayectoria posterior de los protagonistas hasta su fallecimiento y memoria material o institucional vigente en museos, archivos, aeropuertos, monumentos o hermanamientos).
+
+### 5.9 Distancia temporal con el presente
 Las efemérides se publican **el mismo día y el mismo mes del hito**. Cuando el
 texto menciona los años transcurridos —habitualmente en `## Legado`—, la cifra
 es un entero exacto:
@@ -209,6 +222,9 @@ años transcurridos = año de publicación − año del hito
 El año de publicación se toma del campo `fecha_publicacion` del borrador. Se
 emplea la cifra exacta, no la redondeada: para un hito de 1945 publicado en 2026,
 «ochenta y un años después», nunca «ochenta años después».
+
+### 5.10 Extensión orientativa para lectura móvil (no retroactiva)
+Para asegurar una lectura ágil en pantalla de teléfono inteligente, el cuerpo narrativo del post (desde `<!-- ## Resumen Ejecutivo -->` hasta el final de `## Legado`, descontadas las etiquetas HTML y las URLs) debe situarse en una banda de **1.150 a 1.500 palabras** (óptimo en torno a la mediana histórica del corpus, ≈1.300 palabras, y tope máximo recomendado de **1.550 palabras**), lo que corresponde a un archivo `.md` completo de **14 a 18 KB**. Esta norma rige para las nuevas altas a partir del 29-09-2026 y no tiene efecto retroactivo sobre los 608 posts ya publicados.
 
 ---
 
@@ -438,6 +454,11 @@ fundamento: «núcleo del hecho respaldado por convergencia de fuentes
 secundarias independientes; sin fuentes primarias accesibles». Precisión del
 investigador (14 de agosto de 2026).
 
+### Brevedad de las viñetas (máximo 150 palabras)
+`## Metadatos de Control` debe redactarse en viñetas telegráficas (extensión total orientativa de **65 a 120 palabras**, tope recomendado de **150 palabras**):
+- **`Fuentes primarias/institucionales consultadas` y `Fuentes secundarias de contraste`:** enumeran únicamente los nombres breves de las instituciones, archivos, museos o publicaciones separados por comas o punto y coma (p. ej., `Smithsonian NASM, Washington State University Libraries (Cage 112), Washington State Magazine`), sin repetir títulos de artículos, nombres de autores, signaturas detalladas ni descripciones que ya constan en `## Referencias Verificadas`.
+- **`Discrepancias resueltas`:** se resume en **una sola línea concisa** (máximo ≈40 palabras) para dejar constancia telegráfica de divergencias numéricas, de fecha o de denominación entre fuentes publicadas; si la divergencia principal ya se explicó al lector en la `Nota aclaratoria`, basta remitir a ella brevemente sin duplicar la explicación.
+
 ---
 
 ## 11. Flujo de trabajo recomendado
@@ -485,7 +506,7 @@ investigador (14 de agosto de 2026).
 - tratar la descripción libre de una ficha de repositorio colaborativo como si
   fuera una fuente publicada en discrepancia (§ 8.6);
 - redondear a la baja los años transcurridos desde el hito, o calcularlos
-  sobre un año de publicación distinto del real (§ 5.7).
+  sobre un año de publicación distinto del real (§ 5.9).
 - dar por buena una URL porque responde, sin comprobar que su contenido
   corresponde al sujeto de la efeméride (§ 8.6);
 - enlazar en el `<figure>` una ficha de archivo que retrata a otra persona,
@@ -499,7 +520,9 @@ investigador (14 de agosto de 2026).
 - capitalizar cargos u oficios civiles ante nombre propio, o escribir en minúscula el plural de grado que encabeza una lista de nombres (§ 4.3, decisiones D1-a y D2-a de 2026-09-03);
 - aplicar el verbo *adolecer* a una máquina, aeronave o sistema (§ 4.2);
 - escribir en minúscula un cargo civil que encabeza una denominación institucional capitalizada, o en mayúscula un cargo civil fuera de ese supuesto (§ 4.3, D1-a y D1-b);
-- insertar en el cuerpo narrativo enlaces externos a museos, archivos, repositorios o instituciones que corresponden a `## Referencias Verificadas` o al `<figcaption>` (§ 6.4).
+- insertar en el cuerpo narrativo enlaces externos a museos, archivos, repositorios o instituciones que corresponden a `## Referencias Verificadas` o al `<figcaption>` (§ 6.4);
+- repetir fuera del `Resumen Ejecutivo` hechos, cifras técnicas, episodios cronológicos o premios entre distintas secciones del post, o superar las 1.550 palabras narrativas (§ 5);
+- redactar `## Metadatos de Control` con textos largos (>150 palabras) o duplicando en sus listas de fuentes los títulos, autores y descripciones de `## Referencias Verificadas` (§ 10).
 
 ---
 
@@ -521,6 +544,8 @@ investigador (14 de agosto de 2026).
 - [ ] ¿Se respetó exactamente lo que el editor pidió en esta ronda?
 - [ ] ¿Los cargos civiles ante denominación institucional capitalizada llevan mayúscula, y minúscula en todo otro uso (§ 4.3, D1-a y D1-b)?
 - [ ] ¿Quedan los enlaces externos institucionales o documentales fuera del cuerpo narrativo (§ 6.4)?
+- [ ] ¿Cada dato o episodio aparece en una sola sección fuera del `Resumen Ejecutivo` y el cuerpo narrativo se mantiene dentro de las 1.150–1.550 palabras (§ 5)?
+- [ ] ¿`## Metadatos de Control` usa viñetas telegráficas (≤150 palabras) sin repetir títulos ni descripciones de `## Referencias Verificadas` (§ 10)?
 
 ---
 
@@ -745,3 +770,13 @@ Edición puntual ordenada por el editor el 17-09-2026; la moratoria sobre los de
 - **§ 13 y § 14:** dos viñetas de errores y dos comprobaciones nuevas, remitiendo a § 4.3 y § 6.4.
 
 Alineadas en la misma fecha: Plantilla Maestra v2.19 e Instrucciones de Formato v2.17; Instrucciones de Procesar v2.14, sin novedad.
+
+---
+
+## 29. Actualizaciones editoriales v1.18 — 2026-09-29
+
+- **§ 5 reescrita y ampliada («Reglas de repetición, asignación única y extensión»):** codifica el principio de asignación única («un dato, una sección») fuera del `Resumen Ejecutivo`, delimita el papel exclusivo de cada sección y fija en § 5.10 la banda orientativa para lectura móvil (1.150–1.500 palabras narrativas, tope de 1.550; 14–18 KB por archivo `.md`), sin efecto retroactivo sobre los 608 posts ya publicados. Decisión del editor del 29-09-2026 tras el alta 1931-10-05 (*Miss Veedol*).
+- **§ 10, subapartado nuevo («Brevedad de las viñetas»):** `## Metadatos de Control` recupera su formato telegráfico original (65–120 palabras, tope de 150), enumerando en las fuentes únicamente nombres breves de instituciones o medios sin duplicar `## Referencias Verificadas` y resumiendo `Discrepancias resueltas` en una línea concisa.
+- **§ 13 y § 14:** dos viñetas de errores y dos comprobaciones nuevas, remitiendo a § 5 y § 10.
+
+Alineadas en la misma fecha: Plantilla Maestra v2.20, Instrucciones de Formato v2.18, `tools/efemerides-linter.sh` y `docs/guia-del-linter.md`; Instrucciones de Procesar v2.14, sin novedad.

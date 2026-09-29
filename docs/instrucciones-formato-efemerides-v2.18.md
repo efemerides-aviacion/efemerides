@@ -1,6 +1,6 @@
 # Instrucciones de formato de salida para efemérides
-> Última actualización: 2026-09-23  
-> Versión: v2.17
+> Última actualización: 2026-09-29  
+> Versión: v2.18
 
 ---
 
@@ -313,26 +313,36 @@ Debe ser explícito y justificado por la robustez de las fuentes:
 - `Medio`
 - `Bajo`
 
+### Brevedad de las viñetas (máximo 150 palabras)
+`## Metadatos de Control` debe mantenerse en formato telegráfico (orientativamente **65 a 120 palabras**, máximo recomendado **150 palabras**):
+- **`Fuentes primarias/institucionales consultadas` y `Fuentes secundarias de contraste`:** consignan únicamente los nombres breves de las instituciones, archivos, museos o publicaciones separados por comas o punto y coma, sin repetir títulos de artículos, nombres de autores, signaturas detalladas ni descripciones ya incluidos en `## Referencias Verificadas`.
+- **`Discrepancias resueltas`:** se resume en **una sola línea concisa** (máximo ≈40 palabras) para dejar constancia telegráfica de divergencias numéricas, de fecha o de denominación entre fuentes publicadas; si la divergencia principal ya se explicó en la `Nota aclaratoria`, basta remitir a ella brevemente sin duplicarla.
+
 ---
 
-## PAUTAS DE REDACCIÓN PARA EVITAR REPETICIONES
+## PAUTAS DE REDACCIÓN PARA EVITAR REPETICIONES Y EXTENSIÓN DEL POST
 
 ### Jerarquía de la información
-- **Excerpt (YAML):** la versión más breve.
-- **Resumen Ejecutivo:** síntesis ampliada.
-- **Cuerpo:** desarrollo interpretativo y cronológico.
+- **Excerpt (YAML):** la versión más breve (≈30–45 palabras).
+- **Resumen Ejecutivo:** síntesis ejecutiva ampliada (100–130 palabras).
+- **Cuerpo:** desarrollo interpretativo y cronológico con **asignación única por sección**.
 
-### Reglas por sección
+### Principio de asignación única («un dato, una sección»)
+Fuera de la síntesis inicial del `Resumen Ejecutivo`, **ningún hecho, cifra técnica, modificación de aeronave, episodio del viaje ni premio o distinción se repite en otra sección del post**:
 - **Excerpt:** no incluir datos secundarios.
-- **Resumen Ejecutivo:** no repetir literalmente el excerpt.
-- **Datos verificados del evento:** evitar repetir lo ya dicho en el resumen.
-- **Contexto Histórico:** no duplicar la cronología principal.
-- **Desarrollo Cronológico:** concentrar hitos y fechas.
-- **Consecuencias e Impacto:** efectos inmediatos o de corto plazo.
-- **Legado:** efectos de largo plazo, memoria o influencia histórica.
+- **Pie de foto (`<figcaption>`):** describe solo la escena de la imagen y acredita su fuente, sin adelantar la crónica técnica ni el relato del vuelo.
+- **Resumen Ejecutivo:** condensa el núcleo del hito sin repetir literalmente el excerpt.
+- **Datos verificados del evento (140–190 palabras):** ficha telegráfica de identificación y cifras oficiales, sin prosa explicativa.
+- **Contexto Histórico (380–480 palabras entre introducción y las tres subsecciones):** expone los antecedentes previos (introducción), la trayectoria previa de los protagonistas (`### Entorno social`), el diseño y las modificaciones técnicas del aparato **antes** del suceso (`### Entorno tecnológico`, donde se concentran las cifras de capacidad, pesos y modificaciones para no repetirlas en la cronología) y el marco deportivo, mediático o político previo (`### Entorno cultural`), sin narrar por adelantado episodios del viaje ni el cobro de premios.
+- **Desarrollo Cronológico (300–400 palabras, 5 a 7 hitos fechados):** concentra en orden temporal las etapas y maniobras del evento hasta su culminación, sin reexplicar el diseño técnico del avión ni los antecedentes biográficos.
+- **Consecuencias e Impacto (150–210 palabras):** efectos inmediatos o de corto plazo (recompensas recibidas, destino ulterior del ejemplar, apertura de rutas o cambios normativos inmediatos).
+- **Legado (110–160 palabras):** trayectoria posterior de los protagonistas hasta su fallecimiento y memoria material o institucional vigente (museos, archivos, aeropuertos, monumentos).
+
+### Extensión orientativa para lectura móvil (no retroactiva)
+El cuerpo narrativo (desde `<!-- ## Resumen Ejecutivo -->` hasta el final de `## Legado`, descontadas etiquetas HTML y URLs) se sitúa en una banda de **1.150 a 1.500 palabras** (óptimo ≈1.300 palabras, tope recomendado de **1.550 palabras**), equivalente a un archivo `.md` completo de **14 a 18 KB**. Esta norma rige para las nuevas altas a partir del 29-09-2026 y no obliga a editar el corpus ya publicado.
 
 ### Regla de oro
-> La misma información no debe aparecer redactada de la misma manera en dos secciones diferentes del cuerpo del post.
+> Fuera del `Resumen Ejecutivo`, cada dato, modificación técnica, episodio cronológico o consecuencia vive en una sola sección del post.
 
 ---
 
@@ -400,7 +410,9 @@ viaja siempre en un commit único con su imagen.
 - citar el borrador preliminar entre las fuentes de contraste de los metadatos;
 - entregar un post con menos de cuatro referencias verificadas;
 - escribir en minúscula un cargo civil que encabeza una denominación institucional capitalizada, o en mayúscula un cargo civil fuera de ese supuesto (D1-a y D1-b);
-- insertar en el cuerpo narrativo enlaces externos a museos, archivos, repositorios o instituciones que deben vivir en `## Referencias Verificadas` o en el `<figcaption>` (apartado 5 de «Enlaces»).
+- insertar en el cuerpo narrativo enlaces externos a museos, archivos, repositorios o instituciones que deben vivir en `## Referencias Verificadas` o en el `<figcaption>` (apartado 5 de «Enlaces»);
+- repetir fuera del `Resumen Ejecutivo` hechos, cifras técnicas, episodios cronológicos o premios entre distintas secciones del post, o superar las 1.550 palabras narrativas;
+- redactar `## Metadatos de Control` con textos largos (>150 palabras) o duplicando en sus listas de fuentes los títulos, autores y descripciones de `## Referencias Verificadas`.
 
 ---
 
@@ -650,3 +662,15 @@ Se incorpora la viñeta D1-b: el cargo civil se capitaliza cuando encabeza una d
 Se reserva los enlaces a museos, archivos, repositorios, instituciones y fuentes documentales a `## Referencias Verificadas` y al `<figcaption>` que acredita la imagen; en el cuerpo narrativo solo se admiten enlaces internos y, excepcionalmente, el externo que sea el objeto mismo del relato. Se añaden dos viñetas a la lista de errores frecuentes y dos comprobaciones al Manual v1.17 (§ 14).
 
 Alineadas en la misma fecha: Plantilla Maestra v2.19 y Manual de Estilo v1.17; Instrucciones de Procesar v2.14, sin novedad.
+
+---
+
+## ACTUALIZACIONES DE FORMATO V2.18 — 2026-09-29
+
+### Asignación única por sección y banda de extensión para lectura móvil (apartado «Pautas de redacción para evitar repeticiones y extensión del post»)
+Se codifica el principio «un dato, una sección» fuera del `Resumen Ejecutivo`, delimitando la función exclusiva de cada bloque, y se fija la banda orientativa no retroactiva de 1.150–1.500 palabras narrativas (tope de 1.550 palabras; 14–18 KB por archivo `.md`) para lectura ágil en smartphone. Decisión del editor del 29-09-2026 tras el alta 1931-10-05 (*Miss Veedol*).
+
+### Brevedad de las viñetas en «Metadatos de Control» (máximo 150 palabras)
+`## Metadatos de Control` recupera su formato telegráfico (65–120 palabras, tope de 150): las listas de fuentes consignan solo nombres cortos de instituciones o medios sin duplicar `## Referencias Verificadas`, y `Discrepancias resueltas` se resume en una sola línea concisa.
+
+Alineadas en la misma fecha: Plantilla Maestra v2.20, Manual de Estilo v1.18, `tools/efemerides-linter.sh` y `docs/guia-del-linter.md`; Instrucciones de Procesar v2.14, sin novedad.
