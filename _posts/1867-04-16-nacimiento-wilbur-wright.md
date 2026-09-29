@@ -19,7 +19,7 @@ image: 1867-04-16-nacimiento-wilbur-wright.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 16 de abril de 1867 nació en Millville, Indiana, Wilbur Wright, tercer hijo del obispo Milton Wright y de Susan Koerner, y hermano mayor de Orville y Katharine. Un golpe de palo que le arrancó los dientes en 1886 le cerró Yale y le abrió la biblioteca de su padre; de allí salió el autodidacta que en 1899 escribió al Smithsonian pidiendo toda la literatura del vuelo, que ideó el alabeo por torsión, que probó doscientos perfiles alares en un túnel de viento de trastienda y que el 17 de diciembre de 1903 pilotó el vuelo más largo del día fundacional: 852 pies en 59 segundos. Primer presidente de la Wright Company, murió de fiebre tifoidea el 30 de mayo de 1912, a los 45 años: «una vida corta, llena de consecuencias», anotó su padre.</p>
+<p>El 16 de abril de 1867 nació en Millville, Indiana, Wilbur Wright, tercer hijo del obispo Milton Wright y de Susan Koerner, y hermano mayor de Orville y Katharine. Un golpe de palo que le arrancó los dientes en 1886 le cerró Yale y le abrió la biblioteca de su padre; de allí salió el autodidacta que en 1899 escribió al Smithsonian pidiendo toda la literatura del vuelo, que ideó el alabeo por torsión, que probó doscientos perfiles alares en un túnel de viento de trastienda y que el 17 de diciembre de 1903 pilotó el vuelo más largo del día fundacional: 852 pies en 59 segundos. Primer Presidente de la Wright Company, murió de fiebre tifoidea el 30 de mayo de 1912, a los 45 años: «una vida corta, llena de consecuencias», anotó su padre.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -31,7 +31,7 @@ image: 1867-04-16-nacimiento-wilbur-wright.webp
 - **Formación truncada:** buen estudiante de matemáticas y ciencias; el accidente de «shinny» del invierno de 1885-1886, que le costó los dientes, lo dejó tres años en casa cuidando a su madre tuberculosa y lo formó en la biblioteca paterna; doctorados honorarios póstumos por la invención del avión
 - **Oficios:** imprenta (West Side News, Evening Item y el Dayton Tattler del poeta Paul Laurence Dunbar) y, desde 1892, la Wright Cycle Company
 - **Hito mayor:** con Orville, el primer vuelo propulsado, controlado y sostenido del 17 de diciembre de 1903 en Kitty Hawk; Wilbur pilotó el cuarto y más largo del día, 852 pies en 59 segundos; en 1905 el Flyer III de Huffman Prairie fue el primer avión práctico
-- **Dirección de la empresa:** tras las demostraciones europeas de 1908 en Le Mans y Pau, primer presidente de la Wright Company desde 1909, con Katharine en la junta directiva
+- **Dirección de la empresa:** tras las demostraciones europeas de 1908 en Le Mans y Pau, primer Presidente de la Wright Company desde 1909, con Katharine en la junta directiva
 - **Honores:** exaltado al National Aviation Hall of Fame en 1962 y al National Inventors Hall of Fame en 1975
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -67,8 +67,8 @@ La muerte de <a href="https://efemerides-aviacion.github.io/efemerides/nacimient
 - **17 de diciembre de 1903:** Orville pilota el primer vuelo; Wilbur, el cuarto y más largo: 852 pies en 59 segundos.
 - **1905:** el Flyer III vuela en círculo hasta 39 minutos en Huffman Prairie: el primer avión práctico.
 - **1908:** mientras Orville prueba para el Ejército en Fort Myer, Wilbur vuela en Le Mans y Pau y disuelve el escepticismo europeo.
-- **1909:** primer presidente de la Wright Company, con Katharine en la junta directiva; el Wright Military Flyer es el primer avión militar del mundo.
-- **30 de mayo de 1912:** muere de fiebre tifoidea en Dayton; su padre anota en el diario: «una vida corta, llena de consecuencias».
+- **1909:** primer Presidente de la Wright Company, con Katharine en la junta directiva; el Wright Military Flyer es el primer avión militar del mundo.
+- **30 de mayo de 1912:** muere de fiebre tifoidea en Dayton, a los 45 años; es sepultado en Woodland Cemetery.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -82,7 +82,7 @@ La muerte de <a href="https://efemerides-aviacion.github.io/efemerides/nacimient
 
 ## Legado
 
-Ciento cincuenta y nueve años después de su nacimiento, Wilbur Wright sigue siendo el hermano mayor que tomó la delantera: el que escribió la carta, el que torció el ala, el que corrió junto al Flyer mientras Orville despegaba y el que, al fin del día fundacional, demostró con 59 segundos de vuelo que la máquina obedecía. Murió antes de ver el avión en guerra y en paz, pero su padre lo dijo todo en una línea del diario: una vida corta, llena de consecuencias. En cada despegue de cada aeropuerto del mundo despega también, callado, el muchacho de Millville que perdió los dientes y ganó el cielo.
+A siglo y medio de su nacimiento, Wilbur Wright sigue siendo el hermano mayor que tomó la delantera: el que escribió la carta, el que torció el ala, el que corrió junto al Flyer mientras Orville despegaba y el que, al fin del día fundacional, demostró con 59 segundos de vuelo que la máquina obedecía. Murió antes de ver el avión en guerra y en paz, pero su padre lo dijo todo en una línea del diario: una vida corta, llena de consecuencias. En cada despegue de cada aeropuerto del mundo despega también, callado, el muchacho de Millville que perdió los dientes y ganó el cielo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -102,7 +102,7 @@ Ciento cincuenta y nueve años después de su nacimiento, Wilbur Wright sigue si
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 16:30:00 CST  
+- **Timestamp de verificación:** 2026-09-29 15:47:03 CST
 - **Fuentes primarias/institucionales consultadas:** National Park Service; Library of Congress (Wright Papers Timeline); Smithsonian NASM; NASA (biografía de Wilbur)
 - **Fuentes secundarias de contraste:** Wikimedia Commons (retrato)
 - **Discrepancias resueltas:** el agresor del accidente de 1885-1886, Oliver Crook Haugh, figura ajusticiado en 1906 por el asesinato de sus padres según el NPS; el dato se omite del cuerpo por no aportar al hilo de la efeméride. La presidencia de la Wright Company y el cargo directivo de Katharine quedan armonizados con el post de esta última.

@@ -47,7 +47,7 @@ Lafayette, Indiana, vivió el 16 de agosto de 1859 una fiesta pública: multitud
 
 ### Entorno tecnológico
 
-El globo tripulado tenía entonces 76 años, desde el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">primer vuelo tripulado en globo aerostático de 1783</a>, y Wise era su gran innovador americano: había construido el primer globo que, roto en el aire, se plegaba como paracaídas —probado de improviso a 13.000 pies sobre Easton en 1838—, inventado el panel de rasgado para el desinflado controlado y observado, antes que nadie, ese «gran río de aire que siempre sopla de oeste a este» que siglos después se llamaría corriente en chorro. En mayo de 1859, meses antes del correo, voló el globo de hidrógeno «Smithsonian» atravesando una nube de tormenta, con observaciones que su amigo Joseph Henry juzgó «de gran valor».
+La aerostación tripulada llevaba 76 años de historia cuando Wise emprendió el viaje postal. La referencia del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">primer vuelo tripulado en globo aerostático de 1783</a> permite situar ese antecedente. Wise diseñó un sistema para plegar la envoltura tras una rotura y un panel de rasgado para el descenso controlado; el primero se puso a prueba a 13.000 pies sobre Easton en 1838. En mayo de 1859 cruzó una tormenta en el globo de hidrógeno «Smithsonian» y compartió observaciones que Joseph Henry consideró valiosas.
 
 ### Entorno cultural
 
@@ -80,7 +80,7 @@ Las cartas voladas tenían antecedentes ilustres: sobre Londres, el médico John
 
 ## Legado
 
-Ciento sesenta y siete años después, el vuelo del Júpiter se recuerda como el acta de nacimiento del correo aéreo estadounidense: un globo de gas, una bolsa cerrada y un aeronauta que miraba el cielo como una carretera. Wise, que publicó *System of Aeronautics* (1850) y *Through the Air* (1873), dio nombre en 1918 al campamento de aerostación del Ejército, Camp John Wise, en San Antonio, Texas; y su «gran río de aire» anticipó la corriente en chorro que hoy cruza los aviones comerciales. Lafayette y Crawfordsville conservan la memoria del día en que el correo aprendió a volar, y la multitud de la fotografía del 16 de agosto sigue ahí, con los sombreros al aire, mirando hacia arriba.
+El vuelo del Júpiter conserva su lugar como antecedente del correo aéreo oficial estadounidense: una bolsa postal cerrada viajó en globo, aunque el viento obligó a completar el trayecto por ferrocarril. La escena de Lafayette recuerda el momento en que el servicio postal confió correspondencia a una aeronave. Wise, que publicó *System of Aeronautics* (1850) y *Through the Air* (1873), dio nombre en 1918 al campamento de aerostación del Ejército, Camp John Wise, en San Antonio, Texas; y su «gran río de aire» anticipó la corriente en chorro que hoy cruza los aviones comerciales. Lafayette y Crawfordsville conservan la memoria del día en que el correo aprendió a volar, y la multitud de la fotografía del 16 de agosto sigue ahí, con los sombreros al aire, mirando hacia arriba.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -100,9 +100,9 @@ Ciento sesenta y siete años después, el vuelo del Júpiter se recuerda como el
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 16:30:00 CST  
-- **Fuentes primarias/institucionales consultadas:** Smithsonian National Postal Museum («First U.S. Airmail» y «Fad to Fundamental»)
-- **Fuentes secundarias de contraste:** Wikipedia (EN) John Wise y Airmail; Tippecanoe County Historical Association
-- **Discrepancias resueltas:** la distancia del vuelo figura como 25 millas (40 km) en Wikipedia y como unas 30 millas en el Smithsonian; se redacta «unas 30 millas (unos 40 km)». Sobre la entrega del correo, el Smithsonian dice que Wise la pasó al aterrizar a un agente postal del ferrocarril, y la fuente local de Tippecanoe que la bajó en paracaídas y fue recogida; se adopta la versión del Smithsonian por institucional, quedando la otra como variante local. La hora de despegue «2:00 p.m.» no consta en las fuentes leídas y se omite. La imagen corresponde al ascenso de demostración del 16 de agosto, no al vuelo del correo, y así se declara en el pie.
+- **Timestamp de verificación:** 2026-09-29 15:47:00 CST
+- **Fuentes primarias/institucionales consultadas:** Smithsonian National Postal Museum; Tippecanoe County Historical Association.
+- **Fuentes secundarias de contraste:** Wikipedia (EN), John Wise y correo aéreo.
+- **Discrepancias resueltas:** Se mantiene «unas 30 millas (unos 40 km)» ante las variantes de distancia; el Smithsonian registra la entrega al agente ferroviario y se descarta la versión local del descenso en paracaídas. Se omite la hora no documentada. La imagen muestra la demostración del 16 de agosto, no el vuelo postal.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -38,7 +38,7 @@ image: 1871-08-19-nacimiento-orville-wright.webp
 
 ## Contexto Histórico
 
-Orville nació en la casa de un obispo que viajaba por las iglesias de los United Brethren y de una madre que reparaba juguetes; en esa casa entró en 1878 un helicóptero de juguete de Alphonse Pénaud que voló hasta el techo y no dejó dormir a dos hermanos. De la imprenta y de la bicicleta saldría el avión: el mismo taller, las mismas herramientas, la misma sociedad de dos.
+La familia Wright combinaba los viajes religiosos de Milton con la curiosidad mecánica de Susan. En 1878, un juguete de Alphonse Pénaud trepó hasta el techo y avivó el interés de Orville y Wilbur; la imprenta y el taller de bicicletas les dieron después un espacio para probar ideas.
 
 ### Entorno social
 
@@ -46,7 +46,7 @@ El Dayton de Orville era una ciudad de talleres donde un muchacho que abandonó 
 
 ### Entorno tecnológico
 
-La muerte de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1848/05/23/nacimiento-otto-lilienthal.html" style="color: #315fea; text-decoration: none;">Otto Lilienthal, pionero de la aviación</a>, en 1896 y los modelos de Langley empujaron a los hermanos al problema del vuelo; la respuesta fue el método: túnel de viento, datos propios y el control de tres ejes —alabeo por torsión, cabeceo y guiñada— que todavía gobierna toda máquina voladora. La experiencia de la bicicleta les enseñó el equilibrio como acto continuo, y las dunas de Kitty Hawk les dieron viento constante y soledad. La <a href="https://efemerides-aviacion.github.io/efemerides/evento/1906/05/22/patente-maquina-voladora-hermanos-wright.html" style="color: #315fea; text-decoration: none;">patente de la máquina voladora de 1906</a> blindó el invento; las giras de 1908 y 1909 en América y Europa enseñaron al mundo a volar.
+La muerte de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1848/05/23/nacimiento-otto-lilienthal.html" style="color: #315fea; text-decoration: none;">Otto Lilienthal, pionero de la aviación</a> y los modelos de Langley llevaron a los hermanos a estudiar el vuelo mediante pruebas propias. Orville aplicó al taller su destreza mecánica; Kitty Hawk ofreció espacio abierto y vientos constantes. La <a href="https://efemerides-aviacion.github.io/efemerides/evento/1906/05/22/patente-maquina-voladora-hermanos-wright.html" style="color: #315fea; text-decoration: none;">patente de la máquina voladora de 1906</a> protegió el diseño, mientras las demostraciones de 1908 y 1909 presentaron el avión al público.
 
 ### Entorno cultural
 
@@ -61,7 +61,7 @@ Orville, callado hasta el punto de no hablar en la dedicatoria del memorial de K
 - **1889-1890:** con Ed Sines imprime The Midget y luego el West Side News; los hermanos construyen sus propias prensas.
 - **1892:** funda con Wilbur la Wright Cycle Company, taller y fábrica de bicicletas que financiará el avión.
 - **1899-1902:** leen todo lo volado, observan aves y prueban planeadores en Kitty Hawk; nace el control de tres ejes.
-- **17 de diciembre de 1903:** a las 10:35, Orville pilota el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">primer vuelo del Wright Flyer</a>: 120 pies en 12 segundos; ese día, cuatro vuelos, el último de Wilbur, 852 pies en 59 segundos.
+- **17 de diciembre de 1903:** en Kitty Hawk, Orville pilota el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">primer vuelo del Wright Flyer</a>; el último de los cuatro vuelos de ese día queda a cargo de Wilbur.
 - **Octubre de 1905:** el Flyer III vuela 39 minutos en círculo: el primer avión práctico.
 - **17 de septiembre de 1908:** en Fort Myer, durante las pruebas para el Ejército que terminarían en la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1909/08/02/primera-compra-gubernamental-avion.html" style="color: #315fea; text-decoration: none;">primera compra gubernamental de un avión, el 2 de agosto de 1909</a>, el accidente que mata al Teniente Thomas Selfridge hiere de gravedad a Orville, primer muerto de la aviación a motor.
 - **24 de octubre de 1911:** récord mundial de planeo en Kitty Hawk: 9 minutos y 45 segundos, diez años invicto.
@@ -101,7 +101,7 @@ Ciento cincuenta y cinco años después de su nacimiento, Orville Wright sigue s
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 16:30:00 CST  
+- **Timestamp de verificación:** 2026-09-29 15:47:05 CST
 - **Fuentes primarias/institucionales consultadas:** National Park Service; Library of Congress (Wright Papers Timeline); Smithsonian NASM
 - **Fuentes secundarias de contraste:** Wikimedia Commons (retrato); Wikipedia (EN) Wright brothers
 - **Discrepancias resueltas:** el orden de nacimiento figura como «cuarto hijo» en unas fuentes y «sexto de siete» en el NPS (dos hermanos muertos en la infancia); se redactan ambos datos conciliados. El récord de planeo de 1911 se fecha el 24 de octubre conforme al NPS.

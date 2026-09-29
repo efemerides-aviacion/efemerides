@@ -22,18 +22,15 @@ image: 1866-07-01-nacimiento-clifford-burke-harmon-premio-aeronautico.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Datos verificados del evento
 - **Fecha de fallecimiento:** 25 de junio de 1945 (78 años) en Cannes, Francia
-- **Récord de aviador aficionado:** Primer piloto amateur estadounidense en obtener el certificado de vuelo número 6 del Aero Club de América en 1910 (las primeras cinco licencias se otorgaron a profesionales de la aviación)
 - **Hito aeronáutico sobre el agua (1910):** Primer vuelo de cruce sin escalas sobre el Long Island Sound (de Mineola, Long Island a Stamford, Connecticut), recorriendo la distancia en 2 horas y 3 minutos a bordo de un biplano Farman
 - **Récord de permanencia en globo (1909):** Vuelo de resistencia en globo aerostático desde San Luis, Misuri a Edina, Misuri, permaneciendo en el aire durante 48 horas continuas
-- **Organización internacional fundada (1925):** Creación de la *Ligue Internationale des Aviateurs* en París, Francia, de la cual fue elegido como su primer presidente
-- **Establecimiento de los trofeos (1926):** Creación de los prestigiosos Trofeos Harmon (*Harmon Trophies*) para reconocer de manera anual la pericia y habilidad de pilotaje individual destacada en todo el mundo
 - **Categorías del galardón internacional:** Aviador (*Aviator*), Aviadora (*Aviatrix*), Aeronauta (*Aeronaut*) y, a partir de 1969, Astronauta (*Astronaut*)
 - **Iniciativa por la paz internacional:** Intento de creación de una fuerza aérea pacifista internacional ante la Sociedad de las Naciones llamada «Alas de Plata de la Paz» (*Silver Wings of Peace*)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Contexto Histórico
 
-A finales del siglo XIX y principios del XX, el desarrollo de la aeronáutica se encontraba en una fase experimental y aristocrática, impulsada por personas ricas con espíritu de aventura. Antes de que el avión se consolidara como una herramienta militar y comercial estable, las demostraciones aéreas y los vuelos deportivos de exhibición eran la única vía para financiar y perfeccionar esta nueva tecnología.
+En la transición entre la aerostación y los primeros aeroplanos, los vuelos de exhibición reunían a inversores, clubes y pilotos en torno a una tecnología todavía experimental. Harmon ingresó en ese mundo como promotor inmobiliario y aeronauta, con medios para financiar sus pruebas y atraer atención pública.
 
 ### Entorno social
 La alta sociedad estadounidense de la *Gilded Age* (la Edad Dorada) y del inicio de la Belle Époque veía en la aviación un pasatiempo de gran exclusividad y prestigio, similar a las regatas de yates o al automovilismo. Los primeros clubes de vuelo en Long Island y París eran puntos de encuentro de la élite industrial y financiera, donde se fraguaban tanto las marcas deportivas como las alianzas empresariales.
@@ -71,7 +68,7 @@ La visión filantrópica de Clifford B. Harmon y la creación de sus trofeos int
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
-A más de ochenta años de su fallecimiento, el nombre de Clifford B. Harmon permanece indisolublemente unido a los hitos de mayor prestigio en la historia de la navegación aérea mundial. Su idealismo pacífico y su pasión por el vuelo continúan inspirando a las nuevas generaciones de aeronautas.
+El legado de Harmon se conserva en los premios que llevan su nombre y en la comunidad planificada que promovió en el valle del Hudson. Su proyecto de reconocimiento internacional unió la destreza del piloto con una aspiración de cooperación entre países.
 
 - **Los Trofeos Harmon en la actualidad:** El trofeo de aeronauta (*Harmon Aeronaut Trophy*) continúa presentándose anualmente bajo los auspicios de la National Aeronautic Association (NAA) de los Estados Unidos, siendo considerado el máximo galardón para el de vuelos en globo y dirigible.
 - **El desarrollo urbano de Harmon-on-Hudson:** El legado de su exitosa carrera inmobiliaria con la empresa Wood, Harmon & Company se conserva en la villa de Harmon-on-Hudson (hoy parte de Croton-on-Hudson, Nueva York), una comunidad planificada que destaca por su trazado suburbano moderno y su conectividad ferroviaria.
@@ -98,7 +95,7 @@ A más de ochenta años de su fallecimiento, el nombre de Clifford B. Harmon per
 
 Para asegurar la rigurosidad biográfica y el control técnico de los datos presentados sobre la vida de Clifford B. Harmon, se establecen los siguientes metadatos editoriales:
 
-- **Timestamp de verificación:** 2026-09-07 10:11:07 CST
+- **Timestamp de verificación:** 2026-09-29 15:47:02 CST
 - **Fuentes primarias/institucionales consultadas:** Base de datos histórica del National Aeronautic Association (NAA), archivos históricos del Aero Club de América, registros de patentes y biografías de los primeros aviadores estadounidenses de Early Aviators, y archivos notariales de la Ligue Internationale des Aviateurs de París
 - **Discrepancias resueltas:** Se validó que su licencia del Aero Club de América fue la número 6, consagrándose como la primera otorgada a un piloto de carácter enteramente amateur en la historia de los Estados Unidos.
 - **Nivel de confianza:** Alto

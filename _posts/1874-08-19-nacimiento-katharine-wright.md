@@ -26,19 +26,18 @@ image: 1874-08-19-nacimiento-katharine-wright.webp
 
 ## Datos verificados del evento
 
-- **Nacimiento:** 19 de agosto de 1874 en la residencia Wright de Hawthorne Street, Dayton, Ohio; exactamente tres años después de Orville; la menor de los cinco hijos supervivientes del obispo Milton Wright y Susan Koerner
-- **Fallecimiento:** 3 de marzo de 1929 en Kansas City, de neumonía; sepultada con sus padres y su hermano Wilbur en el cementerio Woodland de Dayton
-- **Formación:** Central High School de Dayton; Oberlin College (1893-1898), única hermana Wright con título universitario; profesora de latín e inglés en Steele High School hasta 1908
-- **Rol en la empresa de volar:** al frente de la casa desde la muerte de su madre en 1889; desde los veranos de Kitty Hawk (1901), administró la Wright Cycle Company, empacó suministros y llevó la correspondencia oficial y la prensa; los Wright no aceptaban donaciones: los experimentos se pagaron con la tienda y con su sueldo de maestra
-- **Después del vuelo:** dejó la enseñanza en septiembre de 1908 para cuidar a Orville, herido en el accidente de Fort Myer que mató al Teniente Thomas Selfridge; en 1909 acompañó a sus hermanos a Europa como representante de la Wright Company y recibió la Legión de Honor de Francia; tras la muerte de Wilbur (1912) asumió un cargo directivo en la Wright Company —presidida por Orville—, que este vendió en 1915
-- **Vida cívica:** sufragista, presidente de la Young Women's League de Dayton; el 24 de octubre de 1914 marchó con unas 1.300 manifestantes, junto a Orville y al obispo Milton, por la enmienda del voto femenino en Ohio
-- **Matrimonio:** con Henry J. Haskell, editor de Kansas City, el 20 de noviembre de 1926 en Oberlin; la boda rompió su relación con Orville hasta la víspera de su muerte
+- **Nacimiento:** 19 de agosto de 1874, en Dayton, Ohio; la menor de los cinco hijos supervivientes de Milton y Susan Wright.
+- **Fallecimiento:** 3 de marzo de 1929, en Kansas City, Missouri, a causa de neumonía; fue sepultada en Woodland Cemetery, Dayton.
+- **Formación:** Central High School de Dayton y Oberlin College (1893-1898), donde obtuvo un título universitario. Después enseñó latín e inglés en Steele High School hasta 1908.
+- **Entorno familiar:** hija del obispo Milton Wright y de Susan Koerner; hermana de Wilbur y Orville.
+- **Matrimonio:** se casó con Henry J. Haskell en noviembre de 1926, en Oberlin.
+
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
-Katharine nació en la casa de un obispo itinerante y de una madre que murió cuando ella tenía quince años, dejándole el hogar por herencia. De esa casa saldría el avión, y de sus manos, la casa que sostuvo al avión: mientras Wilbur y Orville perseguían el vuelo, Katharine enseñaba latín, llevaba las cuentas y contestaba el correo de medio mundo.
+La vida adulta de Katharine transcurrió entre las obligaciones familiares y el trabajo de una empresa de bicicletas que terminó financiando los experimentos de vuelo. Mientras sus hermanos viajaban a Kitty Hawk, ella mantuvo en Dayton la continuidad cotidiana de la familia y del negocio.
 
 ### Entorno social
 
@@ -56,18 +55,17 @@ La llamaron el «tercer hermano Wright», y Europa la trató como a una celebrid
 
 ## Desarrollo Cronológico
 
-- **19 de agosto de 1874:** nace en Dayton, Ohio, Katharine Wright, tercera en la fila de los pequeños, trece años menor que Reuchlin, el mayor.
-- **1889:** muere Susan Koerner (su madre); Katharine, de quince años, asume la administración del hogar.
-- **1893-1898:** estudia en Oberlin College y se gradúa; única hermana Wright con título universitario.
-- **1898 en adelante:** profesora de latín e inglés en Steele High School, Dayton.
-- **Desde 1901:** con los veranos de Wilbur y Orville en Kitty Hawk, Katharine administra la Wright Cycle Company, empaca suministros, lleva la correspondencia oficial y atiende a la prensa; la tienda y su sueldo financian los experimentos.
-- **Diciembre de 1903:** mientras el Flyer vuela en Kitty Hawk, Katharine sostiene en Dayton la tienda, la casa y la familia.
-- **Septiembre de 1908:** tras el accidente de Fort Myer que mata a Selfridge y hiere a Orville, deja la enseñanza para cuidarlo; nunca vuelve al aula.
-- **1909:** acompaña a sus hermanos a Europa; actúa como representante de la Wright Company; recibe la Legión de Honor.
-- **24 de octubre de 1914:** marcha en Dayton por el voto femenino junto a unas 1.300 manifestantes, Orville y el obispo Milton.
-- **1912-1915:** a la muerte de Wilbur, Katharine asume un cargo directivo en la Wright Company, presidida por Orville; permanece en él hasta que este vende la compañía en 1915.
-- **20 de noviembre de 1926:** se casa en Oberlin con Henry J. Haskell; Orville rompe con ella.
-- **3 de marzo de 1929:** muere de neumonía en Kansas City, reconciliada con Orville días antes; es sepultada en Woodland Cemetery.
+- **19 de agosto de 1874:** nace en la residencia de Hawthorne Street, Dayton; es la hermana menor de Wilbur y Orville, y trece años menor que Reuchlin, el mayor de los hermanos.
+- **1889:** después de la muerte de Susan Koerner, asume nuevas responsabilidades en el hogar a los quince años, mientras su padre seguía viajando por sus obligaciones religiosas.
+- **1893-1898:** cursa estudios en Oberlin College y obtiene su título universitario.
+- **Desde 1901:** mientras sus hermanos pasan los veranos en Kitty Hawk, mantiene en Dayton la actividad diaria de la tienda de bicicletas.
+- **Septiembre de 1908:** deja el aula para cuidar a Orville, gravemente herido en el accidente de Fort Myer, que también causó la muerte del Teniente Thomas Selfridge. No volvió a la enseñanza.
+- **1909:** acompaña a sus hermanos en la gira europea como representante de la Wright Company; conversa con periodistas y recibe la Legión de Honor francesa.
+- **1912-1915:** tras la muerte de Wilbur, ocupa un cargo directivo en la Wright Company, presidida por Orville, hasta que su hermano vende la empresa.
+- **24 de octubre de 1914:** marcha en Dayton por el sufragio femenino junto a unas 1.300 personas, Orville y su padre.
+- **20 de noviembre de 1926:** se casa con Henry J. Haskell; la decisión provoca un distanciamiento temporal con Orville.
+- **1929:** se reconcilia con su hermano pocos días antes de morir.
+
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -77,11 +75,19 @@ La llamaron el «tercer hermano Wright», y Europa la trató como a una celebrid
 - **Una sufragista en la casa del vuelo:** su marcha de 1914 con Orville y el obispo por el voto femenino en Ohio ligó la primera aviación a la primera ciudadanía de las mujeres americanas.
 - **El silencio de Orville:** la ruptura por su matrimonio y el deshielo en el lecho de muerte resumen la deuda imposible de la familia: el hermano que no aceptó compartirla fue el mismo que pidió enterrarla en Dayton.
 
+Su aporte fue principalmente organizativo, financiero y público, no de diseño. Sin embargo, mantener la tienda, la correspondencia y la vida doméstica no era un apoyo periférico: daba continuidad a un trabajo que exigía herramientas, viajes y años de experimentación antes de generar ingresos. La división familiar del trabajo ayuda a explicar por qué el relato centrado únicamente en los dos pilotos dejó a Katharine en segundo plano.
+
+La gira europea convirtió una maestra de Dayton en representante pública de una compañía que negociaba licencias y contratos. Esa función exigía traducir las aspiraciones de los Wright a interlocutores que no conocían sus años de pruebas; el trabajo de Katharine enlazó el taller familiar con una industria que empezaba a operar a escala internacional.
+
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
-Ciento cincuenta y dos años después de su nacimiento, Katharine Wright Haskell ocupa por fin el lugar que la memoria le regateó: el Smithsonian y el Servicio de Parques Nacionales la retratan como la pieza que hizo posible el vuelo de sus hermanos, y Dayton la recuerda maestra, sufragista y administradora de un milagro doméstico. «No contribuyó a los asuntos técnicos», concede el museo; «creó las condiciones que hicieron posible el avión». En esa frase cabe entera: la hermana que sostuvo la casa mientras la casa del mundo aprendía a volar.
+En Dayton, Katharine Wright Haskell ocupa el lugar que la memoria le regateó: el Smithsonian y el Servicio de Parques Nacionales la retratan como la pieza que hizo posible el vuelo de sus hermanos, y Dayton la recuerda maestra, sufragista y administradora de un milagro doméstico. «No contribuyó a los asuntos técnicos», concede el museo; «creó las condiciones que hicieron posible el avión». En esa frase cabe entera: la hermana que sostuvo la casa mientras la casa del mundo aprendía a volar.
+
+La atención reciente de instituciones como el Smithsonian y el Servicio de Parques Nacionales corrige una narración que había medido la contribución casi exclusivamente por los planos o los mandos de vuelo. En el caso de Katharine, la historia también depende de quién organizó los recursos, representó a la empresa y sostuvo el trabajo cotidiano.
+
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -101,7 +107,7 @@ Ciento cincuenta y dos años después de su nacimiento, Katharine Wright Haskell
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-09-29 15:47:09 CST
 - **Fuentes primarias/institucionales consultadas:** National Park Service (Dayton Aviation Heritage) y Smithsonian National Air and Space Museum
 - **Fuentes secundarias de contraste:** Wikimedia Commons (retrato)
 - **Discrepancias resueltas:** sin divergencias entre fuentes: las institucionales confirman que los Wright costearon sus experimentos con las ganancias de la tienda de bicicletas —cuya administración Katharine sostuvo junto con su sueldo de maestra— y que no aceptaban donaciones; así se redacta. El apodo «tercer hermano Wright» se atribuye a la tradición popular, no a una fuente documental.
