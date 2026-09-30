@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # ============================================================================
 # efemerides-linter.sh — Validador estructural de posts de efemérides
-# Normas auditadas: Plantilla Maestra v2.19 · Manual de Estilo v1.17 ·
-# Instrucciones de Procesar v2.14 · Instrucciones de Formato v2.17 ·
+# Normas auditadas: Plantilla Maestra v2.20 · Manual de Estilo v1.18 ·
+# Instrucciones de Procesar v2.14 · Instrucciones de Formato v2.18 ·
 # anexo y registro de excepciones de rangos/tratamientos.
 # Reconstruido el 2026-09-03; alineado y preparado para versionado el 2026-09-05;
 # alineado con Manual v1.16 (aviso léxico «adolecer», todas sus formas, § 4.2) el 2026-09-17;
