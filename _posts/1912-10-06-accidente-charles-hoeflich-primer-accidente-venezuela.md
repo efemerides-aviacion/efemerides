@@ -18,7 +18,7 @@ image: 1912-10-06-accidente-charles-hoeflich-primer-accidente-venezuela.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El domingo 6 de octubre de 1912, en el hipódromo El Paraíso de Caracas, Charles Hoeflich sufre el primer siniestro aéreo registrado en Venezuela al capotear su biplano Boland convencional al final de la pista durante una carrera organizada por el periódico El Universal. El piloto resulta con contusiones leves; su compañero Frank Boland, en el biplano «sin-cola» Bluebird, completa la carrera y se lleva el trofeo. Este acontecimiento, ocurrido apenas una semana después del primer vuelo exitoso en el país, revela tanto la fragilidad de la aviación pionera como el entusiasmo popular por la conquista del aire.</p>
+<p>El domingo 6 de octubre de 1912, en el hipódromo El Paraíso de Caracas, Charles Hoeflich sufre el primer siniestro aéreo registrado en Venezuela al capotear su biplano Boland convencional al final de la pista durante una carrera organizada por el periódico El Universal. El piloto resulta con contusiones leves; su compañero Frank Boland, en el biplano «sin-cola» Bluebird, completa la carrera y se lleva el trofeo. Este acontecimiento, ocurrido apenas una semana después del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1912/09/29/primer-vuelo-frank-boland-venezuela.html" style="color: #315fea; text-decoration: none;">primer vuelo de Frank Boland sobre Venezuela</a>, revela tanto la fragilidad de la aviación pionera como el entusiasmo popular por la conquista del aire.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -83,7 +83,7 @@ El accidente del 6 de octubre de 1912 tuvo repercusiones inmediatas y duraderas 
 
 El impacto mediático fue inmediato: la cobertura periodística del accidente, lejos de disuadir el entusiasmo popular, amplificó el interés por la aviación. Las ventas de <em>El Universal</em> aumentaron significativamente durante las semanas siguientes, y la competencia entre periódicos por la primicia aeronáutica aceleró la modernización de la prensa escrita.
 
-En el ámbito político y militar, el gobierno de Gómez, atento a las lecciones de la Primera Guerra Mundial en Europa, comenzó a valorar la aviación como instrumento de soberanía y control territorial. El siniestro apresuró las gestiones para establecer un centro de formación de aviadores militares, que finalmente cristalizó en 1920 con la puesta en marcha de la Escuela de Aviación Militar en Maracay.
+En el ámbito político y militar, la Primera Guerra Mundial (1914–1918) transformó el papel de la aviación y forma parte del contexto internacional posterior al accidente. En Venezuela, la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">Escuela de Aviación Militar</a> se creó mediante el decreto N.º 127, fechado el 17 de abril de 1920, casi ocho años después del accidente, durante el gobierno de Juan Vicente Gómez. Su instalación oficial en Maracay tuvo lugar el 10 de diciembre de ese año.
 
 En cuanto a la percepción pública, lejos de generar rechazo, el accidente alimentó la fascinación popular. La imagen del biplano volcado se reprodujo en postales, litografías y postales conmemorativas que circularon por todo el país, transformando el fracaso técnico en símbolo de valentía y audacia.
 
@@ -122,7 +122,7 @@ Es reconocido por la historiografía —Guzmán Perales, Schael & Capecchi— co
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-30 10:14:00 CST
+- **Timestamp de verificación:** 2026-09-30 09:56:13 CST
 - **Fuentes primarias/institucionales consultadas:** Hemeroteca <em>El Universal</em> (AGN), Colección Irausquín (AGN), <em>Sobrevuelo 1785–2021</em> (Fundación Empresas Polar), <em>Historia de la Aviación en Venezuela</em> (Guzmán Perales)
 - **Fuentes secundarias de contraste:** Aeroclub Valencia, Aviación Civil Venezuela, Ciudad CCS, El Impulso, BiblioFEP
 - **Nivel de confianza:** Alto
