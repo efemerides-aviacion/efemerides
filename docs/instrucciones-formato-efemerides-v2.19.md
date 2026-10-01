@@ -1,6 +1,6 @@
 # Instrucciones de formato de salida para efemérides
-> Última actualización: 2026-09-29  
-> Versión: v2.18
+> Última actualización: 2026-10-01  
+> Versión: v2.19
 
 ---
 
@@ -365,7 +365,7 @@ separados y etiquetados, siempre con la misma forma:
   discrepancias y enlaces cruzados.
 
 La tabla file-a-file (rutas dentro del repo, bytes, SHAs, blobs) se entrega
-solo en el TXT y el chat de la entrega, nunca dentro del mensaje. Quedan
+solo en el chat de la entrega, nunca dentro del mensaje. Quedan
 derogados el prefijo `feat(efemerides):`, el cierre Categoría/País y la
 redacción del 12-08-2026 que incluía rutas de archivo en la Description.
 
@@ -674,3 +674,12 @@ Se codifica el principio «un dato, una sección» fuera del `Resumen Ejecutivo`
 `## Metadatos de Control` recupera su formato telegráfico (65–120 palabras, tope de 150): las listas de fuentes consignan solo nombres cortos de instituciones o medios sin duplicar `## Referencias Verificadas`, y `Discrepancias resueltas` se resume en una sola línea concisa.
 
 Alineadas en la misma fecha: Plantilla Maestra v2.20, Manual de Estilo v1.18, `tools/efemerides-linter.sh` y `docs/guia-del-linter.md`; Instrucciones de Procesar v2.14, sin novedad.
+
+---
+
+## ACTUALIZACIONES DE FORMATO V2.19 — 2026-10-01
+
+### Supresión del TXT en la entrega de los datos del commit (apartado «Mensajes de commit para GitHub Desktop»)
+El TXT de entrega queda suprimido: la tabla file-a-file (rutas dentro del repo, bytes, SHAs, blobs) se entrega únicamente en el chat, junto con los dos bloques del mensaje. Orden del editor del 01-10-2026, que levanta la moratoria solo para esta enmienda; motivo: el editor no descarga los TXT, no forman parte del repositorio y desaparecen al limpiar el espacio de trabajo del asistente.
+
+Alineadas en la misma fecha: `tools/efemerides-linter.sh` (cabecera, sin auditorías nuevas), `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`; Plantilla Maestra v2.20, Manual de Estilo v1.18 e Instrucciones de Procesar v2.14, sin novedad.

@@ -1,5 +1,5 @@
 # Guía del validador estructural de efemérides
-> Última actualización: 2026-09-29 (alineación con Plantilla Maestra v2.20 · Manual de Estilo v1.18 · Instrucciones de Formato v2.18; tres auditorías [AVISO] nuevas: extensión narrativa, repeticiones de 7-gramas entre secciones y extensión de los Metadatos de Control)
+> Última actualización: 2026-10-01 (alineación de la referencia de versión con Instrucciones de Formato v2.19; sin auditorías nuevas). Actualización anterior: 2026-09-29 (alineación con Plantilla Maestra v2.20 · Manual de Estilo v1.18 · Instrucciones de Formato v2.18; tres auditorías [AVISO] nuevas: extensión narrativa, repeticiones de 7-gramas entre secciones y extensión de los Metadatos de Control)
 
 ## Finalidad
 

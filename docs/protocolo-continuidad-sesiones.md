@@ -1,6 +1,6 @@
 # Protocolo de continuidad entre sesiones
 
-> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, y actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos. No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
+> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, y actualizada el 1 de octubre de 2026 para registrar la versión v2.19 del rector de Formato (supresión del TXT en la entrega de los datos del commit). No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
 
 ## Principio
 
@@ -43,7 +43,7 @@ https://api.github.com/repos/efemerides-aviacion/efemerides/branches/restauracio
 Debe enumerar nominalmente los seis rectores y sus versiones:
 
 1. `docs/plantilla-maestra-efemerides-v2.20.md`
-2. `docs/instrucciones-formato-efemerides-v2.18.md`
+2. `docs/instrucciones-formato-efemerides-v2.19.md`
 3. `docs/instrucciones-procesar-efemerides-v2.14.md`
 4. `docs/manual-estilo-efemerides-v1.18.md`
 5. `docs/anexo-comparacion-tratamientos-y-rangos.md`

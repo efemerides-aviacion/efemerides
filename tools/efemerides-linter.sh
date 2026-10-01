@@ -2,7 +2,7 @@
 # ============================================================================
 # efemerides-linter.sh — Validador estructural de posts de efemérides
 # Normas auditadas: Plantilla Maestra v2.20 · Manual de Estilo v1.18 ·
-# Instrucciones de Procesar v2.14 · Instrucciones de Formato v2.18 ·
+# Instrucciones de Procesar v2.14 · Instrucciones de Formato v2.19 ·
 # anexo y registro de excepciones de rangos/tratamientos.
 # Reconstruido el 2026-09-03; alineado y preparado para versionado el 2026-09-05;
 # alineado con Manual v1.16 (aviso léxico «adolecer», todas sus formas, § 4.2) el 2026-09-17;
@@ -13,7 +13,9 @@
 # alineado con Plantilla Maestra v2.20 · Manual de Estilo v1.18 · Instrucciones de Formato v2.18 el 2026-09-29
 # (nuevas auditorías [AVISO]: extensión narrativa 1.150–1.550 palabras — Manual v1.18 § 5.10 —, repeticiones
 # de 7-gramas entre secciones fuera del Resumen Ejecutivo — Manual v1.18 § 5 — y extensión de los Metadatos
-# de Control — Manual v1.18 § 10 —; las tres son no retroactivas y no computan como fallo).
+# de Control — Manual v1.18 § 10 —; las tres son no retroactivas y no computan como fallo);
+# alineado con Instrucciones de Formato v2.19 el 2026-10-01
+# (supresión del TXT en la entrega de los datos del commit; sin auditorías nuevas).
 #
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
