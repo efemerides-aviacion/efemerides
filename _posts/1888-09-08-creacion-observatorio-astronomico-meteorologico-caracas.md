@@ -36,7 +36,7 @@ image: 1888-09-08-creacion-observatorio-astronomico-meteorologico-caracas.webp
 
 ## Contexto Histórico
 
-La creación del Observatorio Astronómico y Meteorológico de Caracas, por decreto del presidente Rojas Paúl el 8 de septiembre de 1888, se entiende en la confluencia de tres impulsos: un gobierno civil que buscaba pacificar el país mediante instituciones de cultura, una instrumentación científica europea que por fin permitía medir el cielo y el clima con precisión, y un positivismo ambiente que veía en la ciencia el motor del progreso nacional.
+El decreto dictado el 8 de septiembre de 1888 por el presidente Rojas Paúl se entiende en la confluencia de tres impulsos: un gobierno civil que buscaba pacificar el país mediante instituciones de cultura, una instrumentación científica europea que por fin permitía medir el cielo y el clima con precisión, y un positivismo ambiente que veía en la ciencia el motor del progreso nacional.
 ### Entorno social
 A finales del siglo XIX, Venezuela atravesaba una fase de consolidación de sus instituciones civiles tras períodos de gran turbulencia política. El gobierno del Doctor Juan Pablo Rojas Paúl se caracterizó por un marcado interés en la pacificación y el fomento de la educación y la cultura, que incluyó la creación de academias cívicas e instituciones que alejaran al país de su pasado predominantemente caudillista.
 
@@ -60,7 +60,7 @@ El positivismo y la fe en la ciencia como motor del progreso dominaban el pensam
 ## Consecuencias e Impacto
 La fundación del observatorio marcó el punto de partida indiscutible para la recolección sistemática de datos climáticos en el territorio venezolano. Mucho antes de que existiera la aviación motorizada, los primeros regímenes de vientos y presiones barométricas comenzaron a ser archivados y analizados metódicamente en la Colina Cagigal.
 
-Cuando la aviación dio sus primeros pasos en el país en la década de 1910 y se consolidó orgánicamente con la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">fundación de la Escuela de Aviación Militar de Venezuela en 1920</a>, la actividad aeronáutica naciente dependió profundamente de estos registros para comprender el complejo clima tropical y la orografía nacional. El observatorio aportó la base científica indispensable que más tarde daría forma a las instituciones de meteorología aeronáutica, elemento crítico para la seguridad de los vuelos.
+Cuando la aviación dio sus primeros pasos en el país en la década de 1910 y se consolidó orgánicamente con la apertura de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">Escuela de Aviación Militar de Venezuela en 1920</a>, la actividad aeronáutica naciente dependió profundamente de estos registros para comprender el complejo clima tropical y la orografía nacional. El observatorio aportó la base científica indispensable que más tarde daría forma a las instituciones de meteorología aeronáutica, elemento crítico para la seguridad de los vuelos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -83,7 +83,7 @@ Reconocido en la actualidad como Observatorio Naval Cagigal (bajo la tutela del 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
+- **Timestamp de verificación:** 2026-10-01 15:21:32 CST
 - **Fuentes primarias/institucionales consultadas:** Gaceta Oficial N.º 4.431 (referencia histórica en UCV) y portal oficial del SHN.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** «Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]».

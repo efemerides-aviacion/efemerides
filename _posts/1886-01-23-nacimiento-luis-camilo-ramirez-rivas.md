@@ -20,7 +20,7 @@ redirect_from:
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>Luis Camilo Ramírez Rivas nació el 23 de enero de 1886 en Caracas y se convirtió en el primer piloto aviador venezolano al obtener su brevet en Francia en 1913. Combatió en la Primera Guerra Mundial con la Legión Extranjera Francesa, donde alcanzó el grado de teniente coronel y recibió condecoraciones internacionales. Tras la guerra regresó como héroe e inspiró la creación de la Escuela de Aviación Militar en 1920.</p>
+<p>Luis Camilo Ramírez Rivas nació el 23 de enero de 1886 en Caracas y se convirtió en el primer piloto aviador venezolano al obtener su brevet en Francia en 1913. Combatió en la Primera Guerra Mundial con la Legión Extranjera Francesa, donde alcanzó el grado de teniente coronel y recibió condecoraciones internacionales. Tras la guerra regresó como héroe y su ejemplo alentó la Escuela de Aviación Militar que Venezuela abrió en 1920.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -64,7 +64,7 @@ Su trayectoria inspiró orgullo nacional y la institucionalización de la aviaci
 - 1912–1913: Obtiene brevet de piloto civil, primer venezolano en lograrlo.  
 - 1914–1918: Participa en la Primera Guerra Mundial en la Legión Extranjera.  
 - 1918: Regresa a Venezuela como héroe.  
-- 1920: Inspiración para la fundación de la Escuela de Aviación Militar.  
+- 1920: Su gesta anima la apertura de la escuela venezolana de aviación militar.  
 - 1933: Adopta nacionalidad francesa.  
 - 1935: Muere asesinado en Fez, Marruecos.  
 
@@ -91,7 +91,7 @@ Recordado como el primer piloto de guerra venezolano y héroe de la Primera Guer
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
+- **Timestamp de verificación:** 2026-10-01 15:16:55 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; Detalles de la Historia; Academia de Historia de Carabobo; Meer; El Carabobeño; South American Postcard  
 - **Discrepancias resueltas:** Confirmación de fecha de nacimiento (23 de enero de 1886) y circunstancias de muerte (Fez, 1935).  
 - **Nivel de confianza:** Alto  

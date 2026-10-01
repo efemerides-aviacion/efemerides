@@ -19,14 +19,14 @@ image: 1887-06-13-nacimiento-jorge-antonio-chavez-dartnell.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 13 de junio de 1887 nació en París, en el número 55 de la Rue de la Faisanderie del XVII Distrito, Jorge Antonio Chávez Dartnell, el primer aviador en cruzar la cordillera de los Alpes. El 23 de septiembre de 1910, a los mandos de un frágil monoplano Blériot XI bautizado como «Gypaète» (Quebrantahuesos), despegó de Ried-Brig (Suiza) y, tras 51 minutos de vuelo a más de 2.650 metros de altitud, logró aterrizar del otro lado de la barrera alpina, en Domodossola (Italia). Sin embargo, al tocar tierra, un fuerte viento rompió las alas de su aeronave, precipitándose desde veinte metros de altura. Chávez falleció cuatro días después, el 27 de septiembre de 1910, a causa de sus heridas. Su última frase, recogida por testigos, fue: «Arriba, siempre arriba». Hoy, el Aeropuerto Internacional de Lima lleva su nombre, y su lema es el emblema de la Fuerza Aérea del Perú.</p>
+  <p>El 13 de junio de 1887 nació en París, en el número 55 de la Rue de la Faisanderie del XVII Distrito, Jorge Antonio Chávez Dartnell, el primer aviador en cruzar la cordillera de los Alpes. El 23 de septiembre de 1910, a bordo de un frágil monoplano Blériot XI bautizado como «Gypaète» (Quebrantahuesos), despegó de Ried-Brig (Suiza) y, tras 51 minutos de vuelo a más de 2.650 metros de altitud, logró aterrizar del otro lado de la barrera alpina, en Domodossola (Italia). Sin embargo, al tocar tierra, un fuerte viento rompió las alas de su aeronave, precipitándose desde veinte metros de altura. Chávez falleció cuatro días después, el 27 de septiembre de 1910, a causa de sus heridas. Su última frase, recogida por testigos, fue: «Arriba, siempre arriba». Hoy, el Aeropuerto Internacional de Lima lleva su nombre, y su lema es el emblema de la Fuerza Aérea del Perú.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
-- **Fecha de nacimiento:** 13 de junio de 1887 
+- **Nacimiento:** 13 de junio de 1887 
 - **Lugar de nacimiento:** París, Francia (XVII Distrito, Rue de la Faisanderie 55) 
 - **Nombre completo:** Jorge Antonio Chávez Dartnell (en francés: Georges Antoine Chavez) 
 - **Nacionalidad:** Peruano (inscrito en el Consulado Peruano de París) 
@@ -34,7 +34,7 @@ image: 1887-06-13-nacimiento-jorge-antonio-chavez-dartnell.webp
 - **Estudios:** Escuela Violet de Electricidad y Mecánica Industrial (École d'Électricité et de Mécanique Industrielle, Paris) — título de ingeniero en 1908 
 - **Fecha de muerte:** 27 de septiembre de 1910 
 - **Lugar de muerte:** Domodossola, Italia 
-- **Causa de muerte:** Accidente aéreo tras lograr el primer cruce de los Alpes; un fuerte viento rompió las alas del Blériot XI a veinte metros de altura durante el aterrizaje 
+- **Causa de muerte:** Accidente aéreo tras lograr el primer cruce de los Alpes; un fuerte viento rompió las alas del Blériot XI durante el aterrizaje, a unos veinte metros del suelo 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -58,7 +58,7 @@ El desafío de cruzar los Alpes en avión fue lanzado por el Aero Club de Italia
 
 ## Desarrollo Cronológico
 
-- **1884:** La familia Chávez Dartnell emigra a Francia tras la Guerra del Pacífico 
+- **1884:** La familia Chávez Dartnell se radica en Francia, concluida la Guerra del Pacífico 
 - **13 de junio de 1887:** Nace Jorge Antonio Chávez Dartnell en París 
 - **1908:** Se gradúa como ingeniero por la Escuela Violet de París 
 - **Febrero de 1910:** Ingresa a la escuela de aviación de Henry y Maurice Farman 
@@ -66,7 +66,7 @@ El desafío de cruzar los Alpes en avión fue lanzado por el Aero Club de Italia
 - **Marzo de 1910:** Obtiene su licencia internacional de piloto (brevete número 32)
 - **1910:** Participa en competiciones aéreas en Biarritz, Niza, Tours, Lyon, Budapest, Rouen y Champagne 
 - **8 de agosto de 1910:** Establece un récord de altura de 1.755 metros en Blackpool (Inglaterra) 
-- **8 de septiembre de 1910:** Establece un récord mundial de altura de 2.680 metros en Issy-les-Moulineaux, Francia 
+- **8 de septiembre de 1910:** Marca en Issy-les-Moulineaux (Francia) un nuevo tope mundial de altura: 2.680 metros 
 - **23 de septiembre de 1910, 13:28 horas:** Despega de Ried-Brig (Suiza) para cruzar los Alpes. Tras 51 minutos de vuelo, pasa el Paso del Simplón a más de 2.650 metros de altitud y se convierte en el primer hombre en franquear la barrera alpina por aire 
 - **23 de septiembre de 1910, al atardecer:** Al intentar aterrizar en Domodossola (Italia), un fuerte viento rompe las alas de su Blériot XI a veinte metros de altura, precipitándose contra el suelo. Chávez sufre graves heridas 
 - **27 de septiembre de 1910:** Fallece en Domodossola a causa de un shock hipovolémico irreversible por pérdida de sangre 
@@ -88,7 +88,7 @@ En Italia, Suiza y Francia se erigieron monumentos en su honor: en Domodossola (
 
 ## Legado
 
-Jorge Chávez Dartnell es considerado el máximo héroe de la aviación civil peruana. Su legado trasciende lo aeronáutico y se ha convertido en un símbolo nacional de superación y valentía. Cada 23 de septiembre, Perú celebra el «Día de la Aviación Nacional» en conmemoración del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1910/09/23/jorge-chavez-primer-cruce-aereo-de-los-alpes.html" style="color: #315fea; text-decoration: none;">cruce de los Alpes</a>.
+Jorge Chávez Dartnell es considerado el máximo héroe de la aviación civil peruana. Su legado trasciende lo aeronáutico y se ha convertido en un símbolo nacional de superación y valentía. Cada 23 de septiembre, el Perú conmemora el «Día de la Aviación Nacional» en recuerdo del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1910/09/23/jorge-chavez-primer-cruce-aereo-de-los-alpes.html" style="color: #315fea; text-decoration: none;">cruce de los Alpes</a>.
 
 El Aeropuerto Internacional Jorge Chávez de Lima Metropolitana, inaugurado en 1960 y principal terminal aérea del país, lleva su nombre. El lema de la Fuerza Aérea del Perú, «Arriba, siempre arriba», es un homenaje directo a sus últimas palabras. En Francia, Suiza e Italia es conocido como «Géo Chavez».
 
@@ -119,8 +119,8 @@ Su Blériot XI original —el «Gypaète»— sufrió graves daños en el accide
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-17 18:04:14 CST  
+- **Timestamp de verificación:** 2026-10-01 15:03:56 CST
 - **Fuentes primarias/institucionales consultadas:** Library of Congress, FranceArchives, Congreso Peruano, Wikipedia (ES/EN), EcuRed
-- **Discrepancias resueltas:** Se ha confirmado la fecha de nacimiento del 13 de junio de 1887 frente a la errónea fecha del 13 de enero citada en fuentes no oficiales. La altitud del cruce alpino se ha ajustado a 2.650 metros. Se ha añadido el dato del nacimiento en el XVII Distrito de París y el nombre del avión («Gypaète»).
+- **Discrepancias resueltas:** Fecha de nacimiento: 13 de junio de 1887 (registros oficiales) frente a 13 de enero (fuentes no oficiales); altitud del cruce fijada en 2.650 metros, la cifra más respaldada.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

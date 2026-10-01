@@ -36,7 +36,7 @@ redirect_from:
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
-Cosme Rennella Barbatto es considerado uno de los grandes pioneros de la aviación en Sudamérica. Tras emigrar a Ecuador en 1906, obtuvo licencias de piloto en Francia y Estados Unidos en 1918.  
+Cosme Rennella Barbatto figura entre los pioneros de la aviación en Sudamérica. Tras emigrar a Ecuador en 1906, obtuvo licencias de piloto en Francia y Estados Unidos en 1918.  
 
 ### Entorno social
 Su labor se desarrolló en un período en que la aviación era incipiente en América Latina, con escasos recursos y gran dependencia de aeronaves importadas.
@@ -51,7 +51,7 @@ Su figura se convirtió en símbolo de modernidad y progreso, inspirando generac
 
 ## Desarrollo Cronológico
 - 1906: Emigró a Ecuador.  
-- 1918: Obtuvo licencias de piloto en Francia y Estados Unidos.  
+- 1918: Obtiene sus brevets de pilotaje en Francia y los Estados Unidos.  
 - 1919: Fundó la Escuela de Aviación Militar (ESMA) en Guayaquil.  
 - 1920: Primer vuelo Guayaquil–Quito en Farman F.40.  
 - 1922: En Venezuela, importó tres Farman F.40 (V-1/2/3) para la naciente FAV; realizó vuelos de exhibición y correo Caracas–Maracay.  
@@ -88,8 +88,8 @@ Recordado como pionero de la aviación en dos países, su nombre está asociado 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Timestamp de verificación:** 2026-10-01 15:04:00 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia ES/EN, FAE Ecuador, AviacionCivil.com.ve, El Universo, Rodolfo Pérez Pimentel  
-- **Discrepancias resueltas:** Variación en la grafía del apellido (Rennella/Renella); confirmación de fecha de nacimiento (15/02/1890) y fallecimiento (27/05/1938).  
+- **Discrepancias resueltas:** Variación en la grafía del apellido (Rennella/Renella) según las fuentes.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

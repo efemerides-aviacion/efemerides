@@ -55,10 +55,10 @@ La llegada de la misión francesa consolidó un modelo pedagógico y doctrinal d
 La trayectoria de Guerin puede reconstruirse a partir de hitos documentados a ambos lados del Atlántico.
 
 - **6 de mayo de 1892:** nace en Montmartin-sur-Mer (Mancha, Francia).
-- **28 de abril de 1917:** obtiene el brevet de piloto de la Marina n.º 254 en Fréjus-Saint-Raphaël.
+- **28 de abril de 1917:** obtiene en Fréjus-Saint-Raphaël su brevet de la aviación naval francesa (n.º 254).
 - **12 de julio de 1917:** obtiene el brevet de piloto terrestre n.º 6.139 en Étampes.
-- **1917-1918:** sirve en los Centros de Aviación Marítima de Bône, en Argelia, y de Platéali, en Grecia.
-- **Enero de 1921:** llega a Venezuela con la Misión Aeronáutica Francesa, cuya <a href="https://efemerides-aviacion.github.io/efemerides/evento/1920/05/22/mision-instructores-franceses-eam-venezolana.html" style="color: #315fea; text-decoration: none;">contratación se había gestionado por vía diplomática desde mayo de 1920</a>, e inicia su labor como instructor en la Escuela de Aviación Militar de Maracay, junto a Georges Alphonse Teppe y bajo el mando del Capitán Jean Toussaint Fieschi.
+- **1917-1918:** sirve en destinos de la aviación marítima: Bône (Argelia) y Platéali (Grecia).
+- **Enero de 1921:** llega a Venezuela con la Misión Aeronáutica Francesa, cuya <a href="https://efemerides-aviacion.github.io/efemerides/evento/1920/05/22/mision-instructores-franceses-eam-venezolana.html" style="color: #315fea; text-decoration: none;">contratación se había gestionado por vía diplomática desde mayo de 1920</a>, donde inicia su labor como instructor en la Escuela de Aviación Militar de Maracay, al lado de Georges Alphonse Teppe y bajo el mando del Capitán Jean Toussaint Fieschi.
 - **Marzo y abril de 1921:** participa en la instrucción de los primeros alumnos, que comienzan practicando el rodaje en un Caudron G.3 de alas recortadas antes de intentar el despegue.
 - **24 de junio de 1921:** protagoniza el episodio recogido en <a href="https://efemerides-aviacion.github.io/efemerides/evento/1921/06/24/pasajes-arco-triunfo-carabobo-robert-guerin.html" style="color: #315fea; text-decoration: none;">la hazaña aérea del Centenario de Carabobo</a>, cuando continúa el vuelo hacia el campo de batalla pese a las condiciones adversas.
 - **1922:** organiza una Base Escuela de Aviación Marítima en el lago de Valencia, dotada con Caudron G.4 y Farman F.40, precedente de la posterior aviación naval venezolana.
@@ -108,9 +108,9 @@ Su figura ilustra también un fenómeno más amplio: el de los aviadores europeo
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 10:25:07 CST
+- **Timestamp de verificación:** 2026-10-01 15:04:03 CST
 - **Fuentes primarias/institucionales consultadas:** ficha biográfica de Lucien Morareau (ARDHAN) en el Forum PAGES 14-18; telegrama de prensa de 1926 reproducido por el cronista de Guanare a partir de la obra de Quintero García.
 - **Fuentes secundarias de contraste:** FAV-CLUB, El Universal, Museo del Transporte de Caracas, Wikipedia en español e inglés.
-- **Discrepancias resueltas:** se corrigió la fecha de nacimiento de 3 de agosto de 1897 a 6 de mayo de 1892, conforme a la única fuente especializada con datos de estado civil y por coherencia con las fechas de obtención de sus brevets; se dejó constancia de la divergencia entre el grado francés de maestre piloto y la designación venezolana de Alférez de Navío; se adoptó el 20 de marzo de 1926 como fecha del vuelo a Guanare según el telegrama de la época.
+- **Discrepancias resueltas:** fecha de nacimiento (6 de mayo de 1892 frente a 3 de agosto de 1897), grado (maestre piloto frente a Alférez de Navío) y fecha del vuelo a Guanare (20 frente a 26 de marzo de 1926); criterios en la Nota aclaratoria.
 - **Nivel de confianza:** Medio
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -19,7 +19,7 @@ image: 1888-09-12-nacimiento-grover-loening-primer-titulo-aeronautica-eeuu.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 12 de septiembre de 1888 nació en Bremen, en el Imperio alemán, Grover Cleveland Loening, hijo de un cónsul estadounidense destinado en aquella ciudad hanseática. Debía su nombre al presidente que había nombrado a su padre. Formado en la Universidad de Columbia, en 1910 recibió allí un posgrado en aeronáutica que las instituciones que custodian su memoria consideran el primero concedido en Estados Unidos, apenas siete años después del vuelo de los hermanos Wright.</p>
+<p>El 12 de septiembre de 1888 nació en Bremen, en el Imperio alemán, Grover Cleveland Loening, hijo de un cónsul estadounidense destinado en aquella ciudad hanseática. Debía su nombre al presidente que había nombrado a su padre. Formado en la Universidad de Columbia, en 1910 recibió allí un posgrado en aeronáutica que las instituciones que custodian su memoria consideran el primero concedido en Estados Unidos, apenas siete años después de que volaran los hermanos Wright.</p>
 <p>Su carrera enlazó el taller artesanal con la industria moderna: fue ingeniero jefe de la fábrica de los Wright en Dayton, ingeniero aeronáutico jefe del Ejército en San Diego y, desde 1917, fundador de su propia empresa. Le debe la aviación el tren de aterrizaje retráctil práctico del anfibio, el sistema patentado de arriostramiento rígido de ala y una escuela de ingenieros de la que saldrían los fundadores de Grumman. Murió en Florida el 29 de febrero de 1976.</p>
 </div>
 
@@ -33,7 +33,7 @@ image: 1888-09-12-nacimiento-grover-loening-primer-titulo-aeronautica-eeuu.webp
 - **Fallecimiento:** 29 de febrero de 1976, Coconut Grove, Florida, Estados Unidos
 - **Formación:** B.S., Columbia University (1908); M.A. en aeronáutica, Columbia University (1910)
 - **Tesis de maestría:** publicada como *Monoplanes and Biplanes: Their Design, Construction and Operation* (Nueva York: Munn & Co., 1911, 331 páginas)
-- **Cargos principales:** ingeniero jefe de Queen Aeroplane Co. (1911-1912); ingeniero jefe y gerente general de Wright Co., Dayton (1913-1914); ingeniero aeronáutico jefe de la Sección de Aviación del Cuerpo de Señales del Ejército de Estados Unidos, San Diego (1914-1916); vicepresidente y gerente general de Sturtevant Aeroplane Co. (1916-1917); presidente de Loening Aeronautical Engineering Corp. (desde 1917)
+- **Cargos principales:** ingeniero jefe de Queen Aeroplane Co. (1911-1912); ingeniero jefe y gerente general de Wright Co., Dayton (1913-1914); ingeniero aeronáutico jefe de la Sección de Aviación del Cuerpo de Señales estadounidense, San Diego (1914-1916); vicepresidente y gerente general de Sturtevant Aeroplane Co. (1916-1917); Presidente de Loening Aeronautical Engineering Corp. (desde 1917)
 - **Aportes técnicos:** arriostramiento rígido de ala patentado; primer tren de aterrizaje retráctil práctico en anfibios; casco corto de hidrocanoa
 - **Distinciones:** Trofeos Wright y Collier (1921); Medalla al Mérito (1948); Medalla Egleston de Columbia (1949); Trofeo Conmemorativo Hermanos Wright (1950); Medalla Daniel Guggenheim (1960); Salón Nacional de la Fama de la Aviación (1969)
 
@@ -65,7 +65,7 @@ La trayectoria de Loening puede leerse como una sucesión de puestos que lo situ
 - **1911-1912:** ejerce como ingeniero jefe de la Queen Aeroplane Company de Nueva York, dedicada a construir Blériot para pilotos de exhibición.
 - **1912:** construye su Aeroboat, ensayo temprano de hidrocanoa con el que explora el casco corto.
 - **1913-1914:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1871/08/19/nacimiento-orville-wright.html" style="color: #315fea; text-decoration: none;">Orville Wright</a>, que cinco años antes había batido en Fort Myer <a href="https://efemerides-aviacion.github.io/efemerides/evento/1908/09/09/tres-records-mundiales-duracion-orville-wright-fort-myer.html" style="color: #315fea; text-decoration: none;">tres récords mundiales de duración en un solo día</a>, lo contrata como ingeniero jefe y gerente de la fábrica de la Wright Company en Dayton.
-- **1914-1916:** es nombrado ingeniero aeronáutico jefe de la Sección de Aviación del Cuerpo de Señales del Ejército, en San Diego.
+- **1914-1916:** es nombrado ingeniero aeronáutico jefe de la sección aeronáutica del Cuerpo de Señales, con destino en San Diego.
 - **1915:** publica *Military Aeroplanes*, manual de instrucción que los ejércitos aliados adoptaron durante la Primera Guerra Mundial.
 - **1916-1917:** vicepresidente y gerente general de la Sturtevant Aeroplane Company, en Boston.
 - **1917:** funda en Nueva York la Loening Aeronautical Engineering Corporation, con contratos del Ejército y de la Armada.
@@ -91,7 +91,7 @@ Hubo además un efecto industrial que no figura en ningún catálogo de aeronave
 
 ## Legado
 
-Ciento treinta y ocho años después de su nacimiento, la figura de Loening conserva un valor que excede el de sus aeronaves. Fue el primero que convirtió el vuelo en una credencial académica estadounidense, y con ello ayudó a fundar el oficio mismo del ingeniero aeronáutico en su país.
+A ciento treinta y ocho años de su nacimiento, la figura de Loening conserva un valor que excede el de sus aeronaves. Fue el primero que convirtió el vuelo en una credencial académica estadounidense, y con ello ayudó a fundar el oficio mismo del ingeniero aeronáutico en su país.
 
 Su vida profesional se prolongó medio siglo más allá de la fábrica. Retirado de la manufactura en 1938, ejerció como consultor del gobierno y de la industria: asesoró a la Junta de Producción de Guerra, presidió trabajos sobre helicópteros en la NACA, fue director pionero de Pan American Airways y participó en el estudio del helipuerto sobre el edificio de esa compañía en Manhattan, una temprana tentativa de movilidad aérea urbana. Escribió hasta el final: su último libro, dedicado a la historia del anfibio que llevaba su nombre, apareció en 1973.
 
@@ -120,9 +120,9 @@ El reconocimiento institucional acompañó esa continuidad. La Medalla Guggenhei
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-06 07:09:06 CST
+- **Timestamp de verificación:** 2026-10-01 15:03:59 CST
 - **Fuentes primarias/institucionales consultadas:** Library of Congress (Manuscript Division, finding aid MSS30437 y registro de catálogo mm79030437), National Aviation Hall of Fame, Columbia Engineering, San Diego Air and Space Museum
 - **Fuentes secundarias de contraste:** The New York Times (obituario de 1976), American Aviation Historical Society
-- **Discrepancias resueltas:** fecha de fallecimiento (30 de abril de 1976 en el registro archivístico frente al 29 de febrero de 1976 en el obituario contemporáneo y en los registros de los salones de la fama); denominación y año del título de Columbia (maestría en aeronáutica de 1910 frente a las variantes «ingeniería aeronáutica», «ciencia aeronáutica» y la mención MS'11 en la propia cronología de la escuela); contraparte de la fusión de 1928 (Keystone Aircraft frente a Curtiss-Wright)
+- **Discrepancias resueltas:** tres divergencias explicadas en la Nota aclaratoria: fecha del fallecimiento, denominación y año del título de Columbia y contraparte de la fusión de 1928
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

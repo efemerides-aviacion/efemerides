@@ -19,7 +19,7 @@ image: 1886-06-07-nacimiento-henry-coanda-pionero-aerodinamica.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El **7 de junio de 1886** nació en Bucarest, Rumanía, **Henri Marie Coandă**, uno de los grandes pioneros de la aerodinámica y la aviación. Ingeniero, inventor y físico, Coandă diseñó el **Coandă-1910**, un avión sin hélice que la historiografía reconoce como el **primer avión de tamaño real concebido para propulsión por reacción**, aunque no consta que llegara a volar. Coandă también descubrió y dio nombre al **Efecto Coandă**, un fenómeno de dinámica de fluidos por el cual un chorro de gas o líquido tiende a adherirse a una superficie convexa, principio fundamental en aerodinámica, combustión y ventilación. A lo largo de su vida, registró unos **250 inventos** en campos tan diversos como la aeronáutica, la energía y el transporte. Falleció en Bucarest el **25 de noviembre de 1972**, a los 86 años.</p>
+<p>El **7 de junio de 1886** nació en Bucarest, Rumanía, **Henri Marie Coandă**, uno de los grandes pioneros de la aerodinámica y la aviación. Ingeniero, inventor y físico, Coandă diseñó el **Coandă-1910**, un avión sin hélice que la historiografía reconoce como el **primer aparato de tamaño completo proyectado para propulsión por reacción**, aunque no hay constancia de que llegara a volar. Coandă también descubrió y dio nombre al **Efecto Coandă**, un fenómeno de dinámica de fluidos por el cual un chorro de gas o líquido tiende a adherirse a una superficie convexa, principio fundamental en aerodinámica, combustión y ventilación. A lo largo de su vida, registró unos **250 inventos** en campos tan diversos como la aeronáutica, la energía y el transporte. Falleció en Bucarest el **25 de noviembre de 1972**, a los 86 años.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -32,7 +32,7 @@ image: 1886-06-07-nacimiento-henry-coanda-pionero-aerodinamica.webp
 - **Nacionalidad:** Rumana
 - **Profesión:** Ingeniero aeronáutico, inventor, físico
 - **Educación:** École Nationale Supérieure de l'Aéronautique et de l'Espace (SUPAERO), París
-- **Invento principal:** Coandă-1910, primer avión de tamaño real concebido para propulsión por reacción (no consta que llegara a volar)
+- **Invento principal:** Coandă-1910, primer aparato de tamaño completo proyectado para propulsión por reacción (sin constancia de vuelo)
 - **Descubrimiento:** Efecto Coandă (fenómeno de dinámica de fluidos)
 - **Patentes y diseños:** aproximadamente 250 inventos
 - **Padre:** Constantin Coandă (general, profesor de matemáticas, Primer Ministro de Rumanía)
@@ -50,7 +50,7 @@ Rumanía, a finales del siglo XIX, era un país en proceso de modernización y e
 
 ### Entorno tecnológico
 
-En 1886, cuando Coandă nació, la aviación era todavía un sueño. Los hermanos Wright realizarían su primer vuelo recién en 1903. Coandă estudió en la **École Nationale Supérieure de l'Aéronautique et de l'Espace (SUPAERO)** de París, la primera escuela de ingeniería aeronáutica del mundo. Allí absorbió los conocimientos más avanzados de su tiempo y comenzó a experimentar con nuevas formas de propulsión. El **Coandă-1910**, presentado en el Salón de Aeronáutica de París, fue la culminación de este período de efervescencia técnica.
+En 1886, cuando Coandă nació, la aviación era todavía un sueño. Los hermanos Wright realizarían su primer vuelo recién en 1903. Coandă estudió en **SUPAERO**, la primera escuela de ingeniería aeronáutica del mundo, establecida en París. Allí absorbió los conocimientos más avanzados de su tiempo y comenzó a experimentar con nuevas formas de propulsión. El **Coandă-1910**, presentado en el Salón de Aeronáutica de París, fue la culminación de este período de efervescencia técnica.
 
 ### Entorno cultural
 
@@ -64,7 +64,7 @@ Coandă fue contemporáneo de otros grandes pioneros de la aviación temprana: l
 - **1904:** Ingresa en la Escuela Politécnica de Bucarest.
 - **1905:** Se traslada a Berlín para estudiar en la Escuela de Artillería e Ingeniería.
 - **1907:** Se matricula en la Universidad de Lieja (Bélgica).
-- **1908:** Se traslada a París y se matricula en la recién creada SUPAERO (École Nationale Supérieure de l'Aéronautique et de l'Espace).
+- **1908:** Se traslada a París y se matricula en la recién creada SUPAERO.
 - **1910 (octubre-noviembre):** Presenta el **Coandă-1910** en el Segundo Salón Internacional de la Aeronáutica de París, celebrado en el Grand Palais del 15 de octubre al 2 de noviembre; es el único aparato expuesto sin hélice. Los supuestos ensayos de Issy-les-Moulineaux en diciembre de 1910 —que, según esa versión, concluyeron en incendio— proceden del relato que el propio Coandă difundió a partir de 1956 y carecen de constancia contemporánea.
 - **1911:** Coandă se convierte en director técnico de la Bristol Aeroplane Company en el Reino Unido.
 - **1914-1918 (Primera Guerra Mundial):** Colabora con el esfuerzo bélico francés en el diseño de aeronaves.
@@ -118,7 +118,7 @@ El **Efecto Coandă** (o Efecto Coanda) es un fenómeno de dinámica de fluidos 
 
 ## Legado
 
-Henri Coandă es recordado como uno de los grandes pioneros de la aviación y la aerodinámica. Su nombre está inscrito en la historia de la tecnología por dos contribuciones fundamentales: el primer avión de tamaño real concebido para propulsión por reacción y el descubrimiento del efecto que lleva su nombre.
+Henri Coandă ocupa un lugar propio entre los pioneros de la aviación y la aerodinámica. Su nombre está inscrito en la historia de la tecnología por dos contribuciones fundamentales: el Coandă-1910, hito fundacional de la propulsión por reacción, y el descubrimiento del efecto que lleva su nombre.
 
 - **Aeropuerto Internacional Henri Coandă:** El aeropuerto de Bucarest-Otopeni (OTP), el principal del país, fue rebautizado en su honor en 1970.
 - **Museo y colecciones:** El Smithsonian National Air and Space Museum conserva el fondo *Henri Coanda Papers [Stine]*, integrado por los papeles del propio inventor.
@@ -154,9 +154,9 @@ Henri Coandă es recordado como uno de los grandes pioneros de la aviación y la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-22 06:12:42 CST  
+- **Timestamp de verificación:** 2026-10-01 15:03:55 CST
 - **Fuentes primarias/institucionales consultadas:** Instituto Cultural Rumano (ICR), National Air and Space Museum (Smithsonian) – fondo *Henri Coanda Papers [Stine]*, Aeroportul Henri Coandă, Gibbs-Smith (1960, Science Museum), Winter (1980, NASM).  
 - **Fuentes secundarias de contraste:** Wikipedia (EN/ES, biografía de Henri Coandă y artículo Coandă-1910).  
 - **Discrepancias resueltas:** Sobre el Coandă-1910 se adopta la posición de Gibbs-Smith y Winter —primer avión de tamaño real concebido para propulsión por reacción, sin que conste que llegara a volar— frente a la versión del vuelo de 1910 difundida por el propio Coandă a partir de 1956.  
-- **Nivel de confianza:** Alto en los datos biográficos, el Efecto Coandă y la condición de pionero conceptual de la propulsión por reacción; el supuesto vuelo de 1910 se descarta conforme a la historiografía (Gibbs-Smith y Winter).  
+- **Nivel de confianza:** Alto.  
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

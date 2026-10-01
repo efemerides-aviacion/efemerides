@@ -19,7 +19,7 @@ image: 1888-06-16-nacimiento-heinrich-kubis-primer-sobrecargo-del-mundo.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 16 de junio de 1888 nació en Alemania Heinrich Kubis, la persona que pasaría a la historia como el primer asistente de vuelo (sobrecargo) del mundo. Contratado en 1912 por la aerolínea alemana DELAG —considerada la primera aerolínea de pasajeros de la historia—, Kubis comenzó su carrera a bordo del dirigible LZ 10 Schwaben, atendiendo a los pasajeros en la ruta Berlín-Friedrichshafen. Su labor consistía en servir comidas y bebidas, velar por la comodidad de los viajeros y confiscar encendedores y fósforos por seguridad. Ascendió a jefe de sobrecargos del Graf Zeppelin y del Hindenburg, liderando un equipo de hasta quince personas. Sobrevivió al incendio del Schwaben (1912) y, décadas después, al desastre del Hindenburg (1937), del que escapó saltando por una ventana tras ayudar a evacuar a los pasajeros. Kubis falleció en 1979 a los 90 años, habiendo sido testigo privilegiado de las primeras siete décadas de la aviación comercial.</p>
+  <p>El 16 de junio de 1888 nació en Alemania Heinrich Kubis, reconocido hoy como el primer asistente de vuelo (sobrecargo) del mundo. Contratado en 1912 por la aerolínea alemana DELAG —considerada la primera aerolínea de pasajeros de la historia—, Kubis comenzó su carrera a bordo del dirigible LZ 10 Schwaben, atendiendo a los pasajeros en la ruta Berlín-Friedrichshafen. Su labor consistía en servir comidas y bebidas, velar por la comodidad de los viajeros y confiscar encendedores y fósforos por seguridad. Ascendió a jefe de sobrecargos del Graf Zeppelin y del Hindenburg, liderando un equipo de hasta quince personas. Sobrevivió al incendio del Schwaben (1912) y, décadas después, al desastre del Hindenburg (1937), del que escapó saltando por una ventana tras ayudar a evacuar a los pasajeros. Kubis falleció en 1979 a los 90 años, habiendo sido testigo privilegiado de las primeras siete décadas de la aviación comercial.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -30,7 +30,7 @@ image: 1888-06-16-nacimiento-heinrich-kubis-primer-sobrecargo-del-mundo.webp
 - **Lugar de nacimiento:** Alemania 
 - **Fecha de muerte:** 1979 (90-91 años) 
 - **Nacionalidad:** Alemana 
-- **Profesión previa:** Camarero en hoteles de lujo: Hôtel Ritz (París) y Carlton Hotel (Londres) 
+- **Profesión previa:** Camarero del Hôtel Ritz (París) y del Carlton Hotel (Londres) 
 - **Primer empleo en aviación:** Contratado por DELAG en marzo de 1912 como asistente de vuelo a bordo del dirigible LZ-10 Schwaben 
 - **Primera aerolínea:** DELAG (Deutsche Luftschiffahrts-Aktiengesellschaft), fundada en 1909 
 - **Primera ruta:** Berlín – Friedrichshafen, Alemania 
@@ -44,7 +44,7 @@ image: 1888-06-16-nacimiento-heinrich-kubis-primer-sobrecargo-del-mundo.webp
 
 ## Contexto Histórico
 
-A principios del siglo XX, la aviación comercial estaba en su infancia. Los aviones apenas podían transportar un puñado de pasajeros en vuelos cortos y rudimentarios. Pero había otra tecnología que prometía viajes más cómodos y de mayor alcance: los dirigibles rígidos (zeppelines), desarrollados por el conde Ferdinand von Zeppelin en Alemania.
+A principios del siglo XX, la aviación comercial daba todavía sus primeros pasos. Los aviones apenas podían transportar un puñado de pasajeros en vuelos cortos y rudimentarios. Pero había otra tecnología que prometía viajes más cómodos y de mayor alcance: los dirigibles rígidos (zeppelines), desarrollados por el conde Ferdinand von Zeppelin en Alemania.
 
 ### Entorno social
 
@@ -70,7 +70,7 @@ Antes de Kubis, las tareas de atender a los pasajeros recaían en los copilotos.
 - **28 de junio de 1912:** El LZ-10 Schwaben se incendia en su hangar; Kubis sobrevive sin heridas graves 
 - **1912-1914:** Continúa su carrera en otros dirigibles de DELAG 
 - **1914-1918:** Primera Guerra Mundial; la aviación comercial se paraliza 
-- **1920s-1930s:** Kubis asciende a jefe de sobrecargos (purser) del Graf Zeppelin y del Hindenburg, liderando equipos de hasta 15 personas 
+- **1920s-1930s:** Kubis asciende a purser del Graf Zeppelin y después del Hindenburg, al frente de equipos de hasta 15 personas 
 - **1929:** Participa en el histórico vuelo del Graf Zeppelin alrededor del mundo 
 - **6 de mayo de 1937:** El Hindenburg se incendia al aterrizar en Lakehurst, Nueva Jersey. Kubis, que estaba en el comedor, ayuda a los pasajeros a saltar y escapa por una ventana. Sobrevive al desastre y declara ante la investigación estadounidense 
 - **1979:** Fallece a los 90 años en Alemania 
@@ -81,7 +81,7 @@ La carrera de Kubis estuvo marcada por dos de los accidentes más famosos de la 
 
 ### El incendio del LZ-10 Schwaben (28 de junio de 1912)
 
-El Schwaben fue el primer dirigible de DELAG diseñado específicamente para el transporte de pasajeros. El 28 de junio de 1912, mientras estaba estacionado en su hangar en Düsseldorf, se incendió y fue destruido. Kubis, que se encontraba a bordo, logró escapar sin heridas graves. El accidente no detuvo su carrera.
+El Schwaben fue el primer dirigible de DELAG concebido para llevar pasajeros. El 28 de junio de 1912, mientras estaba estacionado en su hangar en Düsseldorf, se incendió y fue destruido. Kubis, que se encontraba a bordo, logró escapar sin heridas graves. El accidente no detuvo su carrera.
 
 ### El desastre del Hindenburg (6 de mayo de 1937)
 
@@ -91,7 +91,7 @@ Tras el accidente, Kubis declaró ante las autoridades estadounidenses, proporci
 
 ### El primer vuelo alrededor del mundo (1929)
 
-En 1929, Kubis participó como jefe de sobrecargos en el histórico vuelo del Graf Zeppelin alrededor del mundo. La aeronave despegó de Lakehurst, Nueva Jersey, el 8 de agosto de 1929 y regresó al mismo punto el 29 de agosto, tras 21 días, 5 horas y 31 minutos de vuelo. Fue el primer vuelo comercial alrededor del mundo, y Kubis fue testigo directo de una hazaña que capturó la imaginación del público global.
+En 1929, Kubis participó como jefe de sobrecargos en el histórico vuelo del Graf Zeppelin alrededor del mundo. La aeronave despegó de Lakehurst, Nueva Jersey, el 8 de agosto de 1929 y regresó al mismo punto el 29 de agosto, tras 21 días con 5 horas y 31 minutos de vuelo. Fue el primer vuelo comercial alrededor del mundo, y Kubis fue testigo directo de una hazaña que capturó la imaginación del público global.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -105,11 +105,11 @@ Aunque la carrera de Kubis se desarrolló en dirigibles, su legado trascendió a
 
 ## Legado
 
-Heinrich Kubis es reconocido por la historia como el primer asistente de vuelo (sobrecargo) del mundo. Su contratación por DELAG en 1912 marca el nacimiento de una profesión que hoy emplea a cientos de miles de personas en todo el mundo. Los tripulantes de cabina de pasajeros (TCP) son responsables de la seguridad y el bienestar de los pasajeros a bordo, siguiendo los pasos de aquel camarero alemán que un día subió a un dirigible para servir café y terminaría sobreviviendo a dos de los mayores desastres aéreos de su tiempo.
+La historia acredita a Heinrich Kubis como el primer asistente de vuelo (sobrecargo) del mundo. Su contratación por DELAG en 1912 marca el nacimiento de una profesión que hoy emplea a cientos de miles de personas en todo el mundo. Los tripulantes de cabina de pasajeros (TCP) son responsables de la seguridad y el bienestar de los pasajeros a bordo, siguiendo los pasos de aquel camarero alemán que un día subió a un dirigible para servir café y terminaría sobreviviendo a dos de los mayores desastres aéreos de su tiempo.
 
 Un abridor de cartas de marfil con la inscripción "Kapt. Heinrich Kubis" fue encontrado años después del desastre del Hindenburg; la abreviatura "Kapt." correspondía al título de jefe de sobrecargos (purser), un rango equivalente al de capitán en el servicio a bordo.
 
-Kubis falleció en 1979 a los 90 años, habiendo sido testigo privilegiado de la evolución del transporte aéreo, desde los frágiles dirigibles de 1912 hasta los jets comerciales de la década de 1970. Su legado perdura en cada vuelo comercial que despega cada día, con tripulaciones de cabina dedicadas a la seguridad y el servicio de los pasajeros.
+Kubis falleció en 1979 a los 90 años, habiendo sido testigo privilegiado de la evolución del transporte aéreo, desde los frágiles dirigibles de 1912 hasta los jets comerciales de la década de 1970. Su herencia acompaña hoy cada vuelo comercial, en las tripulaciones de cabina dedicadas a la seguridad y el servicio del pasaje.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -134,8 +134,8 @@ Kubis falleció en 1979 a los 90 años, habiendo sido testigo privilegiado de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:13:24 CST  
+- **Timestamp de verificación:** 2026-10-01 15:05:39 CST
 - **Fuentes primarias/institucionales consultadas:** Guinness World Records
-- **Discrepancias resueltas:** Se ha corregido el enlace a Guinness World Records (de 91585 a 106512). Se ha actualizado el mes de contratación a «marzo de 1912» según la fuente oficial. Se ha aclarado que la experiencia de Kubis en hoteles de lujo fue previa a su contratación por DELAG. Se ha añadido enlace a la efeméride del Hindenburg.
+- **Discrepancias resueltas:** alcance del título «Kapt.» (jefe de sobrecargos, no capitán de aeronave) y mes exacto de la contratación en DELAG; detalle en la Nota aclaratoria.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
