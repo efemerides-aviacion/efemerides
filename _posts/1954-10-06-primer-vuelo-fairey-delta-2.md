@@ -78,9 +78,9 @@ A corto plazo, el FD2 siguió siendo una plataforma de investigación, no un pro
 
 ## Legado
 
-La trayectoria posterior de WG774 lo llevó a una nueva configuración. Desde 1959 fue reconstruido como BAC 221 para contribuir a las pruebas del ala delta ojival vinculadas al programa Concorde. La transformación dio a la célula una segunda función experimental: explorar a alta velocidad una geometría distinta, en lugar de continuar como Fairey Delta 2 en su forma original. El RAF Museum y la necrológica de Peter Twiss sitúan ese trabajo dentro de la investigación que apoyó el desarrollo del transporte supersónico británico, sin presentarlo como origen único de Concorde.
+La trayectoria posterior de WG774 lo llevó a una nueva configuración. Fue reconstruido como BAC 221 para contribuir a las pruebas del ala delta ojival vinculadas al programa Concorde. La transformación dio a la célula una segunda función experimental: explorar a alta velocidad una geometría distinta, en lugar de continuar como Fairey Delta 2 en su forma original. El RAF Museum y la necrológica de Peter Twiss sitúan ese trabajo dentro de la investigación que apoyó el desarrollo del transporte supersónico británico, sin presentarlo como origen único de Concorde.
 
-Twiss dejó de volar el FD2 después de 1958 y pasó a Fairey Marine, donde continuó su carrera en el ámbito náutico; murió en 2011, a los 90 años. El otro prototipo, WG777, se conserva en el RAF Museum Midlands. La supervivencia de ambos ejemplares en museos mantiene visible la dimensión material de un programa que combinó investigación, riesgo y transferencia de conocimientos.
+Twiss dejó de volar el FD2 después de 1958 y pasó a Fairey Marine, donde continuó su carrera en el ámbito náutico; murió en 2011, a los 90 años. El otro prototipo, WG777, se conserva en el RAF Museum Midlands, y WG774, ya como BAC 221, se exhibe en el Fleet Air Arm Museum, en Yeovilton. La supervivencia de ambos ejemplares en museos mantiene visible la dimensión material de un programa que combinó investigación, riesgo y transferencia de conocimientos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -95,6 +95,7 @@ Twiss dejó de volar el FD2 después de 1958 y pasó a Fairey Marine, donde cont
     <li><a href="https://www.flightglobal.com/archive/2006/03/50-years-ago-16-mar-1956/" style="color: #315fea; text-decoration: none;">Flight International – Speed Record, 16 March 1956</a></li>
     <li><a href="https://collection.sciencemuseumgroup.org.uk/objects/co202203/model-of-fairey-delta-2-aircraft" style="color: #315fea; text-decoration: none;">Science Museum Group – Model of Fairey Delta 2 aircraft</a></li>
     <li><a href="https://www.theguardian.com/technology/2011/sep/02/peter-twiss-obituary" style="color: #315fea; text-decoration: none;">The Guardian – Peter Twiss obituary</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Fairey_Delta_2" style="color: #315fea; text-decoration: none;">Wikipedia – Fairey Delta 2</a></li>
   </ul>
 </div>
 
@@ -107,9 +108,9 @@ Twiss dejó de volar el FD2 después de 1958 y pasó a Fairey Marine, donde cont
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-30 11:18:59 CST  
+- **Timestamp de verificación:** 2026-10-01 08:32:03 CST  
 - **Fuentes primarias/institucionales consultadas:** RAF Museum, Imperial War Museums, Flight International, Science Museum Group.  
-- **Fuentes secundarias de contraste:** The Guardian.  
+- **Fuentes secundarias de contraste:** The Guardian y Wikipedia.  
 - **Discrepancias resueltas:** Diferencia entre la conversión de 1.132 mph publicada por RAF Museum y su redondeo aritmético; véase la nota.  
 - **Nivel de confianza:** Alto.  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
