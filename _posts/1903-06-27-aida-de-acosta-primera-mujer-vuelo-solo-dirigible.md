@@ -19,7 +19,7 @@ image: 1903-06-27-aida-de-acosta-primera-mujer-vuelo-solo-dirigible.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 27 de junio de 1903, Aida de Acosta, una joven estadounidense de 19 años que se encontraba de visita en París, realizó un vuelo que pasaría a la historia. A bordo del dirigible No. 9 de Alberto Santos-Dumont, despegó desde el centro de París y voló durante una hora y media hasta el Château de Bagatelle, en el Bois de Boulogne. Santos-Dumont, que había sido su instructor en solo tres lecciones, la siguió en bicicleta por tierra, animándola y dándole instrucciones. Al aterrizar, el pionero brasileño de la aviación la felicitó con la célebre frase: «Mademoiselle, vous êtes la première aero-chauffeuse du monde!» («Señorita, usted es la primera mujer piloto del mundo!»). Con este vuelo, Acosta se convirtió en la primera mujer en pilotar una aeronave motorizada en solitario, un hito logrado casi seis meses antes del primer vuelo de los hermanos Wright.</p>
+  <p>El 27 de junio de 1903, Aida de Acosta, una joven estadounidense de 19 años que se encontraba de visita en París, realizó un vuelo que pasaría a la historia. A bordo del dirigible No. 9 de Alberto Santos-Dumont, despegó desde el centro de París y voló durante una hora y media hasta el Château de Bagatelle, en el Bois de Boulogne. Santos-Dumont, que había sido su instructor en solo tres lecciones, la siguió en bicicleta por tierra, animándola y dándole instrucciones. Al aterrizar, el pionero brasileño de la aviación la felicitó con la célebre frase: «Mademoiselle, vous êtes la première aero-chauffeuse du monde!» («Señorita, usted es la primera mujer piloto del mundo!»). Con este vuelo, Acosta se convirtió en la primera mujer en pilotar una aeronave motorizada en solitario, un hito logrado medio año antes de que los hermanos Wright despegaran en Kitty Hawk.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -32,9 +32,9 @@ image: 1903-06-27-aida-de-acosta-primera-mujer-vuelo-solo-dirigible.webp
 - **Lugar de salida:** París, Francia 
 - **Lugar de llegada:** Château de Bagatelle, Bois de Boulogne, París 
 - **Duración del vuelo:** 1 hora y 30 minutos 
-- **Instrucción:** Tres lecciones de vuelo impartidas por el propio Santos-Dumont 
+- **Instrucción:** Tres lecciones de vuelo impartidas por el propio Santos-Dumont antes del despegue 
 - **Primera en la historia:** Primera mujer en pilotar una aeronave motorizada en solitario 
-- **Contexto temporal:** Casi seis meses antes del primer vuelo de los hermanos Wright (17 de diciembre de 1903) 
+- **Contexto temporal:** el despegue de los Wright en Kitty Hawk llegaría apenas medio año después, el 17 de diciembre de 1903 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -48,13 +48,13 @@ Aida de Acosta pertenecía a una familia acomodada de origen cubano-estadouniden
 
 ### Entorno tecnológico
 
-Los dirigibles de la época eran aeronaves más ligeras que el aire, propulsadas por motores de combustión y controladas mediante timones y hélices. El No. 9 de Santos-Dumont era uno de los más avanzados de su tiempo, permitiendo vuelos controlados sobre la ciudad. Acosta solo necesitó tres lecciones para dominar los controles.
+Los dirigibles de la época eran aeronaves más ligeras que el aire, propulsadas por motores de combustión y controladas mediante timones y hélices. El No. 9 de Santos-Dumont figuraba entre los dirigibles más perfeccionados del momento, y permitía vuelos controlados sobre la ciudad. Acosta solo necesitó tres lecciones para dominar los controles.
 
 ### Entorno cultural
 
 Santos-Dumont era conocido por su carácter abierto y su disposición a compartir sus conocimientos. Fue precisamente esa generosidad la que permitió a Acosta, una joven que había visto dirigibles por primera vez durante su estancia en París, aprender a pilotar y realizar su histórico vuelo.
 
-El vuelo de Acosta ocurrió en un momento de efervescencia en la historia de la aviación. Apenas unos meses después, el 17 de diciembre de 1903, los hermanos Wright lograrían el primer vuelo sostenido y controlado de un avión más pesado que el aire. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">efeméride dedicada al primer vuelo de los hermanos Wright</a> para más detalles sobre aquel hito que transformó para siempre la historia de la humanidad.
+El vuelo de Acosta ocurrió en un momento de efervescencia en la historia de la aviación. Apenas unos meses después, el 17 de diciembre de 1903, los hermanos Wright protagonizarían en Kitty Hawk el despegue que cambió la historia del avión. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">efeméride dedicada al primer vuelo de los hermanos Wright</a> para más detalles sobre aquel hito que transformó para siempre la historia de la humanidad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -67,8 +67,6 @@ El vuelo de Acosta ocurrió en un momento de efervescencia en la historia de la 
 - **Tras el vuelo:** Santos-Dumont la aclama como la primera «aero-chauffeuse» del mundo 
 - **Década de 1930:** Acosta revela públicamente por primera vez su hazaña, que sus padres habían ocultado 
 - **26 de mayo de 1962:** Fallece en Nueva York a los 77 años 
-
-### El vuelo de la primera mujer piloto
 
 El 27 de junio de 1903, Aida de Acosta realizó un vuelo que cambiaría su vida y la historia de la aviación. Tras recibir tres lecciones de vuelo de Santos-Dumont, la joven de 19 años se sintió preparada para pilotar el dirigible No. 9 en solitario.
 
@@ -92,11 +90,11 @@ En la década de 1930, Acosta decidió hacer público su vuelo por primera vez, 
 
 ## Legado
 
-Aida de Acosta fue la primera mujer en pilotar una aeronave motorizada en solitario, un logro que la sitúa en la historia de la aviación junto a los grandes pioneros.
+La gesta del dirigible No. 9 sitúa a Acosta entre los grandes pioneros del aire, aunque su vuelo permaneciera oculto durante décadas.
 
 Además de su contribución a la aviación, Acosta tuvo una destacada carrera en el ámbito de la salud ocular. Sufriendo de glaucoma, y gracias al tratamiento del oftalmólogo William H. Wilmer, fundó el primer banco de ojos de Estados Unidos y fue directora ejecutiva del Eye-Bank for Sight Restoration en Nueva York. Su vida es un testimonio de cómo una mujer de su época desafió las convenciones en dos campos tan distintos como la aviación y la medicina.
 
-El 27 de junio de 1903, Aida de Acosta demostró que el cielo no era un lugar exclusivo para los hombres, abriendo el camino a todas las mujeres que, décadas después, seguirían sus pasos en la conquista del aire.
+Con su hazaña, demostró que el cielo no era un lugar exclusivo para los hombres y abrió el camino a las mujeres que, décadas después, seguirían sus pasos en la conquista del aire.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -121,7 +119,7 @@ El 27 de junio de 1903, Aida de Acosta demostró que el cielo no era un lugar ex
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:53:31 CST  
+- **Timestamp de verificación:** 2026-10-01 16:43:19 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN, FR), Cubanet, 1903 in science (Wikipedia)
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del vuelo (27 de junio de 1903) y en los detalles del evento. No se encontraron discrepancias significativas.
 - **Nivel de confianza:** Alto

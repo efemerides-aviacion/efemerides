@@ -36,7 +36,7 @@ redirect_from:
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Contexto Histórico
 
-La década de 1920 fue la «época dorada» de la aviación acrobática en Estados Unidos. Tras la Primera Guerra Mundial, muchos pilotos militares encontraron trabajo en espectáculos itinerantes (*flying circuses*), donde realizaban maniobras extremas para entusiasmar al público. En ese ambiente nació la figura de la *wing walker* (caminante de alas), que desafiaba la gravedad subiendo sobre las alas de biplanos en vuelo.
+La década de 1920 fue la edad de oro de la acrobacia aérea en Estados Unidos. Tras la Primera Guerra Mundial, muchos pilotos militares encontraron trabajo en espectáculos itinerantes (*flying circuses*), donde realizaban maniobras extremas para entusiasmar al público. En ese ambiente nació la figura de la *wing walker* (caminante de alas), que desafiaba la gravedad subiendo sobre las alas de biplanos en vuelo.
 
 ### Entorno social
 Las «flappers» y la liberación femenina de los años 20 abrieron espacios para mujeres audaces, pero la aviación seguía siendo un campo mayoritariamente masculino. Gladys Ingle rompió barreras al ser no solo piloto, sino protagonista de las acrobacias más arriesgadas, compitiendo de igual a igual con sus compañeros varones.
@@ -63,7 +63,7 @@ Los *flying circuses* recorrían pueblos de EE.UU. ofreciendo un espectáculo qu
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
 
-- **Pionera de la aviación femenina:** Ingle demostró que las mujeres podían realizar las mismas proezas extremas que los hombres, en una época en que la aviación acrobática era considerada territorio masculino.
+- **Pionera de la aviación femenina:** Ingle demostró que las mujeres podían realizar las mismas proezas extremas que los hombres, cuando la acrobacia aérea era considerada territorio masculino.
 - **Icono mediático:** Sus fotografías y noticieros la convirtieron en una figura conocida en todo EE.UU. El famoso cambio de rueda en el aire fue inmortalizado en prensa y cine.
 - **Seguridad y legado técnico:** Aunque las acrobacias eran extremadamente peligrosas, Ingle sobrevivió a varios accidentes y nunca perdió la compostura, afirmando que «nunca sentía miedo». Su profesionalismo influyó en los estándares de seguridad posteriores para especialistas aéreos.
 - **Preservación histórica:** Sus películas y fotografías se conservan en instituciones como el Smithsonian National Air and Space Museum.
@@ -71,7 +71,7 @@ Los *flying circuses* recorrían pueblos de EE.UU. ofreciendo un espectáculo qu
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
-Gladys Ingle es recordada como una de las grandes *wing walkers* de la época dorada de la aviación acrobática. Su nombre aparece junto a otros pioneros como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1892/01/26/nacimiento-bessie-coleman.html" style="color: #315fea; text-decoration: none;">Bessie Coleman</a>, Amelia Earhart y los pilotos de los *flying circuses*. Aunque hoy menos conocida que algunos de sus contemporáneos, su imagen cambiando una rueda en pleno vuelo sigue siendo un símbolo del valor y la destreza en la historia de la aviación.
+Gladys Ingle es recordada como una de las grandes *wing walkers* de la acrobacia aérea estadounidense. Su nombre aparece junto a otros pioneros como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1892/01/26/nacimiento-bessie-coleman.html" style="color: #315fea; text-decoration: none;">Bessie Coleman</a>, Amelia Earhart y los pilotos de los *flying circuses*. Aunque hoy menos conocida que algunos de sus contemporáneos, su imagen cambiando una rueda en pleno vuelo sigue siendo un símbolo del valor y la destreza en la historia de la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
@@ -88,7 +88,7 @@ Gladys Ingle es recordada como una de las grandes *wing walkers* de la época do
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 10:25:07 CST
+- **Timestamp de verificación:** 2026-10-01 16:43:12 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Brady Carlson, Vintag.es, Bygonely, Billiken  
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha de nacimiento (28 de marzo de 1899) y en la hazaña del cambio de rueda (1926). No se encontraron discrepancias significativas.  
 - **Nivel de confianza:** Alto  

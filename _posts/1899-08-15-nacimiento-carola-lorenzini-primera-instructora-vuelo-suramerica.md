@@ -27,11 +27,11 @@ image: 1899-08-15-nacimiento-carola-lorenzini-primera-instructora-vuelo-surameri
 ## Datos verificados del evento
 
 - **Fecha de nacimiento:** 15 de agosto de 1899, Empalme San Vicente (hoy Alejandro Korn), provincia de Buenos Aires, Argentina
-- **Fallecimiento:** 23 de noviembre de 1941, aeródromo Presidente Rivadavia de Morón, a los 42 años, durante una exhibición acrobática
+- **Fallecimiento:** 23 de noviembre de 1941, aeródromo de Morón, a los 42 años, durante una exhibición acrobática
 - **Nombre completo:** Carolina Elena Lorenzini
 - **Familia:** hija de José Lorenzini y Luisa Piana; séptima de ocho hermanos
 - **Licencias:** brevet de aviador civil en 1933; habilitación de instructora de vuelo en agosto de 1940, primera mujer con ese título en América del Sur; licencia de servicio público comercial (categoría C) en 1941
-- **Récords:** récord femenino sudamericano de altura, 5.381 metros en un Ae.C.3 de cabina cerrada (31 de marzo de 1935); cruce del Río de la Plata en solitario; raíd por las catorce provincias argentinas (marzo-abril de 1940)
+- **Récords:** altura femenina sudamericana (1935), cruce del Río de la Plata en solitario y raíd por las catorce provincias argentinas (marzo-abril de 1940)
 - **Apodos:** «Aviadora Gaucha» y «Paloma Gaucha», por su atuendo criollo de bombachas, botas y campera de cuero
 - **Reconocimientos:** medalla de oro de la Aviación Militar Argentina; portadas de *El Gráfico*; sello del Correo Argentino de 2001
 
@@ -59,15 +59,15 @@ El apodo de «Paloma Gaucha» la definió ante el público: bombachas criollas, 
 
 La trayectoria de Lorenzini cabe en poco más de una década de vuelo y en una vida de 42 años.
 
-- **15 de agosto de 1899:** nace en Empalme San Vicente, hoy Alejandro Korn, provincia de Buenos Aires.
+- **15 de agosto de 1899:** nace en Empalme San Vicente (hoy Alejandro Korn).
 - **1925:** campeona de atletismo.
 - **1931:** tras reiterados pedidos, el Aero Club Argentino de Seis de Septiembre (hoy Morón) la admite.
 - **1933:** obtiene el carné de aviadora civil.
 - **31 de marzo de 1935:** bate el récord femenino sudamericano de altura, 5.381 metros, en el Ae.C.3 de cabina cerrada; la Aviación Militar le entrega la medalla de oro.
-- **13 de noviembre de 1935 o 1936:** cruza el Río de la Plata en solitario; compete con Isabel Gladisz; ambas llegan a Montevideo. Las fuentes institucionales no coinciden en el año.
+- **13 de noviembre de 1935 o 1936:** atraviesa el Río de la Plata sin compañía; compite con Isabel Gladisz; ambas llegan a Montevideo. Las fuentes institucionales no coinciden en el año.
 - **23 de septiembre de 1938:** portada de *El Gráfico*.
 - **24 de marzo–21 de abril de 1940:** raíd que une las catorce provincias argentinas, en un Focke-Wulf prestado por decreto, con cierre en Morón.
-- **Agosto de 1940:** habilitación de instructora de vuelo, primera mujer con ese título en América del Sur.
+- **Agosto de 1940:** obtiene la habilitación de instructora de vuelo.
 - **Abril de 1941:** licencia de categoría C para transporte de pasajeros.
 - **23 de noviembre de 1941, hacia las 16:00:** en exhibición en Morón, a bordo de un Focke-Wulf LV-DDC, falla el cálculo de altura en una maniobra acrobática y muere en el acto.
 
@@ -107,7 +107,7 @@ Ciento veintisiete años después de su nacimiento, Lorenzini da nombre a calles
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-19 12:00:00 CST
+- **Timestamp de verificación:** 2026-10-01 16:43:15 CST
 - **Fuentes primarias/institucionales consultadas:** Fuerza Aérea Argentina (Dirección de Estudios Históricos); Mujeres Bonaerenses (Gobierno de la Provincia de Buenos Aires).
 - **Fuentes secundarias de contraste:** Criterio Online; Infobae; Wikipedia (ES); Wikipedia (EN), solo para documentar la errata de 1889.
 - **Discrepancias resueltas:** 1889 (EN) frente a 1899 (fuentes en español e institucionales); cruce del Plata en 1935 (FAA) frente a 1936 (Mujeres Bonaerenses).

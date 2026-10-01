@@ -31,17 +31,17 @@ image: 1897-05-15-nacimiento-vicente-landaeta-gil.webp
 - **Fallecimiento:** 4 de febrero de 1931 (33 años), Barquisimeto, estado Lara, Venezuela
 - **Rango:** Teniente (ascendido póstumamente)
 - **Promoción:** Primera Promoción de Aviadores Militares de Venezuela
-- **Base que lleva su nombre:** Base Aérea Teniente Vicente Landaeta Gil (Barquisimeto, estado Lara), inaugurada el 14 de febrero de 1964
+- **Base que lleva su nombre:** Base Aérea Teniente Vicente Landaeta Gil, en Barquisimeto (estado Lara), inaugurada en 1964
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
-La Escuela de Aviación Militar de Venezuela, donde Vicente Landaeta Gil se formaría como piloto, fue creada por decreto el 17 de abril de 1920 e instalada oficialmente el 10 de diciembre de ese mismo año en Maracay (puede consultar la efeméride completa sobre la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;"><strong>Fundación de la Escuela de Aviación Militar de Venezuela</strong></a>). La Primera Promoción de Aviadores Militares, de la cual Landaeta Gil fue un miembro distinguido, egresó de esta escuela.
+La Escuela de Aviación Militar de Venezuela, donde Vicente Landaeta Gil se formaría como piloto, fue creada por decreto el 17 de abril de 1920 e instalada en Maracay ese mismo diciembre (puede consultar la efeméride completa sobre la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;"><strong>Fundación de la Escuela de Aviación Militar de Venezuela</strong></a>). La Primera Promoción de Aviadores Militares, de la cual Landaeta Gil fue un miembro distinguido, egresó de esta escuela.
 
 ### Entorno social
 
-La Escuela de Aviación Militar, creada por decreto el 17 de abril de 1920 e instalada en Maracay el 10 de diciembre, formó a la Primera Promoción de Aviadores Militares: pertenecer a ella daba prestigio y exigía valor ante los frágiles aviones de madera y tela.
+Pertenecer a la Primera Promoción de Aviadores Militares daba prestigio y exigía valor: los frágiles biplanos de madera y tela de la época no perdonaban errores.
 
 ### Entorno tecnológico
 
@@ -49,15 +49,15 @@ Los biplanos de entrenamiento de la época —madera y tela, sin la fiabilidad p
 
 ### Entorno cultural
 
-El nombre del pionero quedó inmortalizado en la Base Aérea Teniente Vicente Landaeta Gil de Barquisimeto, inaugurada el 14 de febrero de 1964 y sede de los Grupos Aéreos de Bombardeo 13 y Caza 12, que en 2026 celebró su 62.º aniversario.
+El nombre del pionero quedó inmortalizado en la base de Barquisimeto que lleva su nombre, inaugurada en 1964 y sede de los Grupos Aéreos de Bombardeo 13 y Caza 12, que en 2026 celebró su 62.º aniversario.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
-Aunque los registros históricos no han preservado detalles extensos sobre su vida temprana ni su carrera militar, se sabe que Landaeta Gil fue uno de los primeros oficiales en abrazar la nueva arma aérea. Pertenecer a la primera promoción de aviadores militares venezolanos implicaba un enorme prestigio, pero también un gran riesgo. Los frágiles aviones de madera y tela de la época exigían pericia y valor.
+Aunque los registros históricos no han preservado detalles extensos sobre su vida temprana ni su carrera militar, se sabe que Landaeta Gil fue uno de los primeros oficiales en abrazar la nueva arma aérea, en tiempos en que cada despegue era un acto de fe.
 
-Su trágica muerte el 4 de febrero de 1931, en un accidente aéreo en Barquisimeto, lo convirtió en el primer piloto militar venezolano en perder la vida en servicio. Para conocer los detalles de ese suceso, puede consultar la efeméride dedicada al <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1931/02/04/vicente-landaeta-gil-fallece.html" style="color: #315fea; text-decoration: none;"><strong>primer aviador militar venezolano en fallecer en un accidente aéreo</strong></a> (4 de febrero de 1931).
+Su trágica muerte en servicio el 4 de febrero de 1931 lo convirtió en el primer mártir del arma aérea venezolana. Los detalles del suceso pueden consultarse en la efeméride dedicada a <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1931/02/04/vicente-landaeta-gil-fallece.html" style="color: #315fea; text-decoration: none;"><strong>la muerte de Landaeta Gil en 1931</strong></a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -69,18 +69,11 @@ La muerte de Landaeta Gil, primer piloto militar venezolano caído en servicio, 
 
 ## Legado
 
-El nombre de Vicente Landaeta Gil fue inmortalizado el 14 de febrero de 1964, cuando se inauguró oficialmente la **Base Aérea Teniente Vicente Landaeta Gil (Balanda)** en Barquisimeto, estado Lara. Esta base militar fue concebida como una infraestructura con todos los servicios para garantizar la movilización y operatividad de los sistemas de armas de la Aviación Militar Bolivariana.
+El nombre de Vicente Landaeta Gil fue inmortalizado el 14 de febrero de 1964, cuando se inauguró oficialmente la **Base Aérea Teniente Vicente Landaeta Gil**, conocida como Balanda, en Barquisimeto, estado Lara. Esta base militar fue concebida como una infraestructura con todos los servicios para garantizar la movilización y operatividad de los sistemas de armas de la Aviación Militar Bolivariana.
 
 El primer comandante de la unidad fue el Mayor (Av) Juan Ignacio Leyzeaga. La base ha sido sede de importantes unidades aéreas, entre ellas el Grupo Aéreo de Bombardeo N.º 13 (con aviones B-25 Mitchell), el Grupo Aéreo de Caza N.º 12 (con aviones F-86K, F-86F y posteriormente CF-5/VF-5), y el Escuadrón de Policía Aérea. El 27 de abril de 2026, la base celebró su 62 aniversario, consolidándose como un símbolo vivo de la unión y la formación de aviadores en el país.
 
 Para conocer más detalles sobre la creación de esta base, puede consultar la efeméride de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1964/02/14/base-aerea-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;"><strong>Fundación de la Base Aérea Teniente Vicente Landaeta Gil, Barquisimeto</strong></a> (14 de febrero de 1964).
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre el accidente:</strong> El Teniente Vicente Landaeta Gil falleció el 4 de febrero de 1931 en un accidente aéreo en Barquisimeto, siendo el primer piloto militar venezolano en perder la vida en servicio. Los detalles de este suceso (aeronave, tripulación, investigaciones) pueden consultarse en la efeméride dedicada exclusivamente a ese evento, cuyo enlace se incluye en la sección correspondiente de este post.</p>
-<p><strong>Sobre la base aérea:</strong> La Base Aérea Teniente Vicente Landaeta Gil es también conocida popularmente como "Balanda". Fue construida en 1964 y su nombre es un homenaje al pionero de la aviación militar venezolana.</p>
-</div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -97,11 +90,19 @@ Para conocer más detalles sobre la creación de esta base, puede consultar la e
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<div class="note-box">
+<p><strong>Nota aclaratoria sobre el accidente:</strong> El Teniente Vicente Landaeta Gil falleció el 4 de febrero de 1931 en un accidente aéreo en Barquisimeto, siendo el primer piloto militar venezolano en perder la vida en servicio. Los detalles de este suceso (aeronave, tripulación, investigaciones) pueden consultarse en la efeméride dedicada exclusivamente a ese evento, cuyo enlace se incluye en la sección correspondiente de este post.</p>
+<p><strong>Sobre la base aérea:</strong> La Base Aérea Teniente Vicente Landaeta Gil es también conocida popularmente como "Balanda". Fue construida en 1964 y su nombre es un homenaje al pionero de la aviación militar venezolana.</p>
+</div>
+
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
+- **Timestamp de verificación:** 2026-10-01 16:43:11 CST
 - **Fuentes primarias/institucionales consultadas:** ninguna gaceta ni expediente militar accesible
 - **Fuentes secundarias de contraste:** Wikipedia (Base Aérea Teniente Vicente Landaeta Gil); El Impulso; LaPatilla; Defensa.com
-- **Discrepancias resueltas:** El post se ha reenfocado en el nacimiento y la vida del personaje. Se ha integrado un enlace a la efeméride de la Escuela de Aviación Militar en el Contexto Histórico, y se han mantenido los enlaces al accidente y a la base aérea.
+- **Discrepancias resueltas:** Sin divergencias documentales relevantes; los detalles del accidente y de la base aérea se remiten a sus efemérides propias.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

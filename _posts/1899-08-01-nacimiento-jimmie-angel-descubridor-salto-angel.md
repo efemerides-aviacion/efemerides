@@ -33,7 +33,7 @@ image: 1899-08-01-nacimiento-jimmie-angel-descubridor-salto-angel.webp
 - **Aterrizaje en el Auyantepui:** 9 de octubre de 1937, acompañado por su segunda esposa Marie, Gustavo Heny y Miguel Delgado.
 - **Salto Ángel:** 979 metros de altura total y 807 metros de caída libre ininterrumpida, la mayor del mundo. Denominación pemón: *Churún Vena*, donde *vená* significa «cascada» y Churún es el río en cuyo cauce vierte.
 - **Ubicación de la cascada:** Auyantepui, Parque Nacional Canaima, estado Bolívar (Venezuela).
-- **Destino de sus restos:** incinerado y depositado el 15 de diciembre de 1957 en el Portal of the Folded Wings Shrine to Aviation, en Burbank, California. Su viuda retiró después las cenizas de aquel emplazamiento para esparcirlas sobre el Salto Ángel el 2 de julio de 1960, cumpliendo su voluntad.
+- **Destino de sus restos:** incinerado y depositado en el Portal of the Folded Wings (Burbank, California); en 1960 sus cenizas fueron esparcidas sobre el Salto Ángel, cumpliendo su voluntad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Contexto Histórico
@@ -42,11 +42,11 @@ La biografía de Angel pertenece a una categoría de aviadores que hoy resulta d
 
 ### Entorno social
 
-En la década de 1920, la aviación estadounidense vivía la etapa de los *barnstormers*, pilotos itinerantes que recorrían el país ofreciendo acrobacias y vuelos de bautismo con aparatos excedentes de la Primera Guerra Mundial. De ese ambiente procedía Angel. La transición natural de aquellos aviadores fue el trabajo por contrato en lugares remotos, donde el avión era el único medio de acceso razonable. América del Sur, con vastas regiones inexploradas y una fiebre persistente por el oro y el diamante, ofrecía ese mercado.
+En la década de 1920, la aviación estadounidense vivía la etapa de los *barnstormers*, pilotos itinerantes que recorrían el país ofreciendo acrobacias y vuelos de bautismo con aparatos excedentes de la Primera Guerra Mundial. De ese ambiente procedía Angel. Su salida natural fue el trabajo por contrato en regiones remotas; América del Sur, con zonas inexploradas y fiebre del oro y el diamante, ofrecía ese mercado.
 
 ### Entorno tecnológico
 
-El avión hizo posible en horas lo que por tierra exigía semanas de expedición. Los Tepuyes de la Gran Sabana —mesetas de paredes verticales que se elevan cientos de metros sobre la selva— eran prácticamente inaccesibles desde el suelo, pero podían sobrevolarse. Esa capacidad convirtió a la aviación en herramienta de reconocimiento geográfico. El aparato empleado en 1937, un monoplano metálico de ocho plazas, disponía de autonomía suficiente para operar lejos de toda infraestructura. Contaba con equipo de radio, pero el enlace con el campamento base situado en las faldas del Auyantepui se perdió, circunstancia decisiva en el desenlace de aquella expedición.
+El avión hizo posible en horas lo que por tierra exigía semanas de expedición. Los Tepuyes de la Gran Sabana —mesetas de paredes verticales que se elevan cientos de metros sobre la selva— eran prácticamente inaccesibles desde el suelo, pero podían sobrevolarse. Esa capacidad convirtió a la aviación en herramienta de reconocimiento geográfico. El monoplano metálico de ocho plazas empleado en 1937 podía operar lejos de toda infraestructura, aunque perdió el enlace por radio con el campamento base del Auyantepui, circunstancia decisiva en el desenlace.
 
 ### Entorno cultural
 
@@ -61,18 +61,17 @@ La secuencia siguiente recorre desde su nacimiento hasta el cumplimiento de su �
 - **12 de septiembre de 1918:** se inscribe en el registro de reclutamiento para la Primera Guerra Mundial. Diversos testimonios orales lo situaron después en el 94.º Grupo de Persecución en Francia, pero la inscripción es el único dato documentado de su relación con el conflicto.
 - **Década de 1920:** adopta el diminutivo «Jimmie» y desarrolla su actividad como piloto de exhibición en Estados Unidos. Comienza a trabajar por contrato en expediciones de prospección.
 - **16 de noviembre de 1933:** volando solo en el cañón del Churún en busca de un yacimiento mineral, Angel avista la cascada y anota el hallazgo en su cuaderno de vuelo. Sus relatos sobre una «caída de una milla» no fueron creídos.
-- **1935:** lleva en vuelo sobre la cascada a Durand Hall y a L. R. Dennison, primeros testigos de su existencia. Ese mismo año el geólogo petrolero estadounidense Francis «Shorty» Martin la fotografía desde el aire y levanta mapas de su ubicación.
-- **1937:** en una reunión en Caracas entre Angel, el geólogo petrolero estadounidense Francis «Shorty» Martin y el ingeniero civil y explorador venezolano Gustavo «Cabuya» Heny, este último propone llamar Salto Ángel a la cascada, al comprobar que carecía de nombre y que Angel la mencionaba constantemente.
+- **1935:** lleva en vuelo sobre la cascada a Durand Hall y a L. R. Dennison, primeros testigos de su existencia; ese año el geólogo Francis «Shorty» Martin la fotografía y cartografía desde el aire.
+- **1937:** en una reunión en Caracas con el geólogo Francis «Shorty» Martin y el explorador Gustavo «Cabuya» Heny, este propone llamar Salto Ángel a la cascada, que carecía de nombre.
 - **9 de octubre de 1937:** Angel aterriza sobre la cima del Auyantepui con *El Río Caroní*. El aparato clava el morro al hundirse las ruedas en el terreno blando y queda inutilizado.
 - **Octubre de 1937:** los cuatro ocupantes, ilesos y bien aprovisionados, descienden del Tepuy en once días de marcha hasta alcanzar Kamarata.
 - **1939:** el Gobierno venezolano adopta oficialmente la denominación Salto Ángel. Ese mismo año se publican las primeras fotografías de la cascada.
-- **1949:** la fotoperiodista estadounidense Ruth Robertson reúne los fondos, organiza y dirige la primera expedición que alcanza la base de la cascada y realiza su medición oficial. Su guía es el ingeniero letón-venezolano Aleksandrs «Alejandro» Laime. El relato y las fotografías se publican en *National Geographic*.
+- **1949:** Ruth Robertson organiza y dirige la primera expedición que alcanza la base de la cascada y la mide oficialmente, guiada por el ingeniero letón-venezolano Alejandro Laime; el relato se publica en *National Geographic*.
 - **17 de abril de 1956:** sufre una lesión en la cabeza al aterrizar en David, provincia de Chiriquí, Panamá.
 - **8 de diciembre de 1956:** fallece en el Hospital Gorgas tras ocho meses de dolencias sucesivas.
-- **2 de julio de 1960:** su viuda, sus dos hijos y dos amigos esparcen sus cenizas sobre el Salto Ángel, cumpliendo su voluntad.
+- **2 de julio de 1960:** su viuda, sus dos hijos y dos amigos esparcen sus cenizas sobre la cascada, cumpliendo la voluntad del piloto.
 - **Febrero de 1970:** *El Río Caroní* es desmontado y descendido del Auyantepui por la Fuerza Aérea Venezolana, tras treinta y tres años en la cima, y trasladado a Maracay para su restauración.
-- **1970-1980:** el aparato original se restaura en los talleres de Maracay, donde además se construye una réplica. La reclamación del estado Bolívar para que la aeronave regresara a la región determinó que fuera la réplica la que quedara en el Museo Aeronáutico.
-- **26 de abril de 1980:** el avión original es entregado en Ciudad Bolívar, en un acto celebrado en el parque Leonardo Ruiz Pineda. Años después se trasladó al jardín situado frente al terminal del aeropuerto Tomás de Heres, donde permanece a la intemperie.
+- **1970-1980:** el aparato se restaura en Maracay y se construye una réplica, que queda en el Museo Aeronáutico; el original es entregado en Ciudad Bolívar el 26 de abril de 1980 y hoy permanece a la intemperie junto al aeropuerto Tomás de Heres.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
@@ -83,7 +82,7 @@ La odisea de los cuatro expedicionarios descendiendo a pie de un Tepuy, incomuni
 
 La consecuencia toponímica llegó en 1939, cuando el Gobierno venezolano oficializó el nombre de Salto Ángel. Es un caso poco frecuente: un accidente geográfico de primer orden mundial bautizado con el apellido de un piloto extranjero que lo avistó por casualidad mientras buscaba otra cosa.
 
-La medición realizada en 1949 por la expedición que organizó y dirigió Ruth Robertson aportó el dato que convirtió el hallazgo en récord verificado: 979 metros de altura total y 807 de caída libre ininterrumpida, la mayor conocida del planeta.
+La medición realizada en 1949 por la expedición de Ruth Robertson convirtió el hallazgo en récord verificado: la mayor caída libre ininterrumpida conocida del planeta.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
@@ -92,7 +91,7 @@ Pocos aviadores han dejado una huella tan literal: su apellido figura en los map
 
 El Parque Nacional Canaima, que alberga la cascada, fue declarado Patrimonio de la Humanidad por la Unesco en 1994, y el Salto Ángel es hoy uno de los principales referentes turísticos y simbólicos de Venezuela. Los pemón que habitan el valle de Kamarata, junto al Auyantepui, llaman a la cascada *Churún Vena*. El nombre *Kerepakupai vená*, difundido a partir de 2009, designa en la cartografía histórica un sector del noroeste del Auyantepui alejado del salto, y no es la denominación que emplean los pemón.
 
-*El Río Caroní* fue declarado monumento nacional venezolano en 1964, cuando aún permanecía sobre el Auyantepui. El aparato original, recuperado en 1970 y restaurado en Maracay, se expone desde 1980 en Ciudad Bolívar, hoy frente al terminal del aeropuerto Tomás de Heres; la réplica construida durante aquellos trabajos fue la que quedó en el Museo Aeronáutico de Maracay. Es el único Metal Aircraft Flamingo que se conserva en el mundo, y su exposición a la intemperie ha motivado reiteradas peticiones de historiadores aeronáuticos venezolanos para dotarlo de un resguardo adecuado, respaldadas por la junta directiva del Jimmie Angel Historical Project.
+*El Río Caroní* fue declarado monumento nacional venezolano en 1964, cuando aún permanecía sobre el Auyantepui. Es el único Metal Aircraft Flamingo que se conserva en el mundo, y su exposición a la intemperie en Ciudad Bolívar ha motivado reiteradas peticiones de historiadores aeronáuticos venezolanos para dotarlo de un resguardo adecuado, respaldadas por la junta directiva del Jimmie Angel Historical Project.
 
 Su figura ha alimentado además una producción literaria notable, con novelas inspiradas en su vida publicadas en Italia, España y Venezuela. Desde 1996 existe el Jimmie Angel Historical Project, fundado por su sobrina Karen Angel con el propósito expreso de separar los hechos documentados de las numerosas leyendas acumuladas en torno a él, y de contribuir a la conservación de su avión.
 
@@ -124,10 +123,10 @@ Su figura ha alimentado además una producción literaria notable, con novelas i
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 10:25:07 CST
-- **Fuentes primarias/institucionales consultadas:** Jimmie Angel Historical Project, archivo documental fundado en 1996 y dedicado a la investigación sobre el aviador, con revisión directa del texto por su curadora, Karen Angel; Jorge M. González, «On the Trail of Angel Falls», 2023, con reproducción del cuaderno de vuelo de Angel y de la entrevista de 1949 a Ernesto Sánchez La Cruz; Library of Congress, LC Name Authority File (registro n00036574); Fundación Empresas Polar, Diccionario de Historia de Venezuela.
-- **Fuentes secundarias de contraste:** Aviación Civil Venezuela, con la reconstrucción documental del destino de la aeronave; Correo del Caroní, con la reseña del acto de entrega de 1980; Wikipedia en inglés y en español; HistoryNet (revista Aviation History).
-- **Discrepancias resueltas:** se descartaron los avistamientos atribuidos a Ernesto Sánchez La Cruz en 1910 y a Cardona Puig y Mundó Freixas en 1927, conforme a la documentación primaria que sitúa sus respectivas cascadas en la Sierra Pacaraima y en el curso del Caroní; se corrigió la denominación pemón, que es *Churún Vena* y no *Kerepakupai vená*, nombre este último que la cartografía histórica aplica a un sector distinto del Auyantepui; se atribuyó a Ruth Robertson la organización y dirección de la expedición de 1949, frente a la versión que la presenta como financiada por la National Geographic Society; se distinguió el aparato original, expuesto en Ciudad Bolívar desde 1980, de la réplica conservada en el Museo Aeronáutico de Maracay.
-- **Datos no confirmados:** la fecha exacta del traslado del aparato original desde el parque Leonardo Ruiz Pineda hasta su emplazamiento actual frente al terminal aeroportuario.
+- **Timestamp de verificación:** 2026-10-01 16:43:14 CST
+- **Fuentes primarias/institucionales consultadas:** Jimmie Angel Historical Project (curadora Karen Angel); Jorge M. González, «On the Trail of Angel Falls» (2023); Library of Congress (n00036574); Fundación Empresas Polar, Diccionario de Historia de Venezuela.
+- **Fuentes secundarias de contraste:** Aviación Civil Venezuela; Correo del Caroní; Wikipedia EN/ES; HistoryNet.
+- **Discrepancias resueltas:** se descartan los avistamientos previos de 1910 y 1927 conforme a documentación primaria; denominación pemón *Churún Vena*; expedición de 1949 organizada y dirigida por Ruth Robertson; aparato original en Ciudad Bolívar, réplica en el Museo Aeronáutico de Maracay.
+- **Datos no confirmados:** fecha del traslado del aparato desde el parque Ruiz Pineda a su emplazamiento actual.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

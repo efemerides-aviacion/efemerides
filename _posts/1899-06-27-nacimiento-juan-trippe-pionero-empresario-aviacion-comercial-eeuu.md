@@ -40,7 +40,7 @@ image: 1899-06-27-nacimiento-juan-trippe-pionero-empresario-aviacion-comercial-e
 
 ## Contexto Histórico
 
-A principios del siglo XX, la aviación era un juego de pioneros y aventureros. El vuelo de los hermanos Wright en 1903 era apenas un recuerdo, y el cruce del Atlántico por <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> en 1927 aún estaba por ocurrir. Los aviones eran frágiles, el transporte aéreo era un lujo para unos pocos, y las aerolíneas apenas comenzaban a esbozarse.
+En los albores del siglo XX, volar seguía siendo cosa de pioneros y aventureros. El vuelo de los hermanos Wright en 1903 era apenas un recuerdo, y el cruce del Atlántico por <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> en 1927 aún estaba por ocurrir. Los aviones eran frágiles, el transporte aéreo era un lujo para unos pocos, y las aerolíneas apenas comenzaban a esbozarse.
 
 ### Entorno social
 
@@ -52,7 +52,7 @@ Trippe entendió que la tecnología era la clave. Promovió el desarrollo de los
 
 ### Entorno cultural
 
-Trippe fue un visionario que supo leer la demanda del público. Su creación de la clase turista en 1945 redujo drásticamente el precio de los billetes, abriendo el mundo a millones de viajeros. Su legado cultural es inmenso: Pan Am se convirtió en un símbolo de glamour y aventura, y su imagen ha perdurado en películas, series y el imaginario popular.
+Trippe fue un visionario que supo leer la demanda del público. Su apuesta por la clase turista abarató drásticamente los billetes y ensanchó el mercado del viaje aéreo. Su legado cultural es inmenso: Pan Am se convirtió en un símbolo de glamour y aventura, y su imagen ha perdurado en películas, series y el imaginario popular.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -69,25 +69,15 @@ Trippe fue un visionario que supo leer la demanda del público. Su creación de 
 - **1939:** Pan Am inaugura el primer servicio regular transatlántico con el «Yankee Clipper» 
 - **1945:** Crea la clase turista, abaratando los viajes aéreos 
 - **1946:** Funda InterContinental Hotels para alojar a los pasajeros de Pan Am 
-- **1955:** Pan Am se convierte en la primera aerolínea en encargar jets comerciales (Boeing 707) 
+- **1955:** Pan Am se convierte en la primera aerolínea en pedir jets comerciales (Boeing 707) 
 - **1958:** Primer vuelo de un jet de Pan Am (Nueva York-París) 
 - **1965:** Trippe pide a Boeing un avión más grande que el 707; nace el 747 
 - **1966:** Pan Am encarga 25 Boeing 747, siendo el cliente de lanzamiento 
-- **1968:** Trippe se retira como presidente de Pan Am 
+- **1968:** Trippe se retira como Presidente de Pan Am 
 - **3 de abril de 1981:** Fallece en Nueva York a los 81 años 
 - **1985:** Ronald Reagan le concede póstumamente la Medalla Presidencial de la Libertad 
 
-### El legado del hombre que «encogió el mundo»
-
-Juan Trippe fue, en palabras de la revista Yale Alumni Magazine, el hombre que «encogió el mundo». Su visión convirtió a Pan American World Airways en la aerolínea más emblemática del siglo XX, y su legado perdura en cada vuelo comercial que despega hoy.
-
-**Democratización del vuelo:** La creación de la clase turista en 1945 redujo el coste de un billete transatlántico a la mitad, abriendo el mundo a millones de viajeros. Su idea inicial no fue bien recibida por la industria, pero Trippe la implementó de todos modos, demostrando que el público quería volar barato.
-
-**El nacimiento del Jumbo:** En 1965, Trippe llamó a su amigo Bill Allen, presidente de Boeing, y le pidió un avión «mucho más grande que el 707». El resultado fue el Boeing 747, que se convirtió en el icono de la aviación comercial. Pan Am fue el cliente de lanzamiento, encargando 25 unidades en 1966.
-
-**El primer jet comercial:** Trippe fue el primero en encargar jets comerciales en 1955. El 26 de octubre de 1958, el primer Boeing 707 de Pan Am voló de Nueva York a París, inaugurando una nueva era de velocidad y eficiencia.
-
-**Los Clippers y la conquista de los océanos:** Antes de los jets, Trippe utilizó hidroaviones («Clippers») para cruzar los océanos. El «China Clipper» cruzó el Pacífico en 1935, y el «Yankee Clipper» abrió la ruta del Atlántico en 1939. Estas aeronaves, con sus nombres evocadores, se convirtieron en símbolos de la aventura y el progreso.
+Yale Alumni Magazine lo llamó el hombre que «encogió el mundo»: la clase turista de 1945, rechazada al principio por la industria, redujo a la mitad el coste del billete transatlántico y demostró que el público quería volar barato; en 1965, una llamada a su amigo Bill Allen, Presidente de Boeing, bastó para pedir un avión «mucho más grande que el 707», origen del 747.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -103,9 +93,9 @@ En el ámbito geopolítico, Pan Am fue una herramienta de la política exterior 
 
 ## Legado
 
-Juan Trippe es recordado como uno de los grandes visionarios de la aviación, junto a nombres como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1905/12/24/nacimiento-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes</a>, Eddie Rickenbacker y C.R. Smith.. Su legado no es solo una aerolínea, sino la transformación de los viajes aéreos en un bien de consumo masivo.
+Juan Trippe es recordado como uno de los grandes visionarios de la aviación, junto a nombres como <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1905/12/24/nacimiento-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes</a>, Eddie Rickenbacker y C.R. Smith. Su legado no es solo una aerolínea, sino la transformación de los viajes aéreos en un bien de consumo masivo.
 
-Pan American World Airways, que en su apogeo fue la aerolínea más famosa del mundo, desapareció en 1991 , pero su nombre y su imagen perduran en la cultura popular. El logotipo azul de Pan Am sigue siendo reconocible, y la aerolínea ha aparecido en innumerables películas y series.
+Pan American World Airways, que en su apogeo fue la aerolínea más famosa del mundo, desapareció en 1991, pero su nombre y su imagen perduran en la cultura popular. El logotipo azul de Pan Am sigue siendo reconocible, y la aerolínea ha aparecido en innumerables películas y series.
 
 La influencia de Trippe se puede ver en todos los aspectos de la aviación moderna: en la clase turista, en los aviones de fuselaje ancho, en la conectividad global que damos por sentada. Su frase, pronunciada al pedir el 747, «si lo construyes, lo compraré», resume su filosofía: la audacia de imaginar un futuro diferente y la determinación de hacerlo realidad.
 
@@ -135,7 +125,7 @@ En reconocimiento a su legado, Trippe fue incluido en el Salón de la Fama de la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:53:31 CST  
+- **Timestamp de verificación:** 2026-10-01 16:43:13 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, Encyclopaedia Britannica, Yale Alumni Magazine, UPI Archives, Smithsonian Online Virtual Archives
 - **Discrepancias resueltas:** La fecha de graduación de Yale varía entre 1921 y 1922 según las fuentes. La mayoría coincide en 1921. No hay discrepancia en su fecha de nacimiento (27 de junio de 1899) y muerte (3 de abril de 1981).
 - **Nivel de confianza:** Alto

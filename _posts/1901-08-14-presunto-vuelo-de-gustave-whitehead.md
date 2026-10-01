@@ -21,14 +21,14 @@ image: 1901-08-14-presunto-vuelo-de-gustave-whitehead.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
 
-- **Fecha de la reclamación:** 14 de agosto de 1901; crónica publicada el 18 de agosto en el Bridgeport Sunday Herald
+- **Fecha de la reclamación:** 14 de agosto de 1901; crónica del Bridgeport Sunday Herald del 18 de agosto
 - **Protagonista:** Gustave Whitehead (Gustav Albin Weisskopf; Leutershausen, Baviera, 1 de enero de 1874 – Bridgeport, Connecticut, 10 de octubre de 1927)
 - **Aeronave reclamada:** monoplane No. 21, de alas de murciélago, con dos motores: uno para el tren en tierra y otro para las hélices
 - **Alcance reclamado:** media milla (unos 800 metros) a unos 15 metros de altura, con aterrizaje sin daños
 - **Difusión:** la crónica, firmada como testimonio ocular, fue reproducida por más de un centenar de periódicos de Estados Unidos y del extranjero
-- **Reclamaciones posteriores:** vuelos de dos y siete millas sobre el estrecho de Long Island en enero de 1902, con el No. 22
-- **Estado historiográfico:** no probado. La corriente mayoritaria —Smithsonian, FAI y la mayor parte de los historiadores de la aviación— reconoce como primer vuelo sostenido y controlado de un aparato más pesado que el aire el de los hermanos Wright en Kitty Hawk, el 17 de diciembre de 1903
-- **Reconocimientos de la reclamación:** la edición centenaria de Jane's All the World's Aircraft (2013) y el estado de Connecticut, en el mismo año, dieron por bueno el vuelo de 1901
+- **Reclamaciones posteriores:** vuelos de enero de 1902 con el No. 22, sobre el estrecho de Long Island
+- **Estado historiográfico:** no probado. La corriente mayoritaria —Smithsonian, FAI e historiadores de la aviación— mantiene el hito en Kitty Hawk, el 17 de diciembre de 1903
+- **Reconocimientos de la reclamación:** la edición centenaria del anuario Jane's y el estado de Connecticut dieron por bueno, ambas en 2013, el vuelo de 1901
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Contexto Histórico
@@ -52,10 +52,10 @@ La pregunta por «quién voló primero» se convirtió en asunto de orgullo esta
 
 - **1 de enero de 1874:** nace Gustav Albin Weisskopf en Leutershausen, Baviera; emigrado a Estados Unidos en 1893, angliza su nombre como Gustave Whitehead.
 - **1896-1897:** trabaja para la Boston Aeronautical Society y construye planeadores de tipo Lilienthal; en 1897 muestra a un reportero del New York Herald un triplano copia del diseño de Chanute y Herring y una segunda máquina de alas de murciélago.
-- **14 de agosto de 1901:** según la crónica publicada el 18 de agosto por el Bridgeport Sunday Herald, Whitehead vuela media milla a unos 15 metros de altura en su No. 21, en Fairfield, con aterrizaje sin daños.
+- **14 de agosto de 1901:** según la crónica del Herald publicada cuatro días después, Whitehead vuela media milla a unos 15 metros de altura en su No. 21, en Fairfield, sin daños al aterrizar.
 - **Enero de 1902:** cartas publicadas en American Inventor atribuyen al No. 22 vuelos de dos y siete millas sobre el estrecho de Long Island.
 - **Septiembre de 1903:** Scientific American visita a Whitehead en Bridgeport y lo encuentra ensayando con un planeador triplano obsoleto, sin rastro de las máquinas que habrían volado.
-- **17 de diciembre de 1903:** los hermanos Wright realizan en Kitty Hawk el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">primer vuelo sostenido y controlado de un aparato más pesado que el aire</a>, documentado ante testigos y con fotografía.
+- **17 de diciembre de 1903:** los hermanos Wright realizan en Kitty Hawk el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">vuelo inaugural de su Flyer</a>, documentado ante testigos y con fotografía.
 - **1927:** Whitehead muere en Bridgeport en relativa oscuridad, sin que ninguna de sus máquinas posteriores a 1902 hubiera volado.
 - **1934-1937:** declaraciones juradas recogidas primero por Louis Darvarich y luego por la investigadora Stella Randolph reavivan la reclamación; en 1936, James Dickie, citado como testigo en la crónica de 1901, declara no haber presenciado vuelo alguno y creer la historia imaginaria.
 - **2013:** el editor de Jane's All the World's Aircraft, Paul Jackson, acredita a Whitehead como primero en volar; Connecticut lo reconoce por ley; el Smithsonian responde con el análisis de Tom Crouch que rechaza la reclamación.
@@ -93,7 +93,7 @@ Ciento veinticinco años después, Whitehead sigue siendo el «primero» de Conn
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-07 10:25:07 CST
+- **Timestamp de verificación:** 2026-10-01 16:43:18 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), National Air and Space Museum (editorial de Tom Crouch)
 - **Discrepancias resueltas:** la divergencia central —Connecticut y Jane's (2013) frente a Smithsonian, FAI y la historiografía mayoritaria— no se resuelve a favor de ninguna: se presenta la reclamación como reclamación y se consigna el veredicto «no probado» en nota aclaratoria. El número de declaraciones juradas varía entre fuentes (más de diez, trece, veinte testigos entrevistados); se redactó sin cifra cerrada.
 - **Nivel de confianza:** Alto para la existencia de la reclamación y de la controversia; <strong>insuficiente para el vuelo como hecho</strong>.
