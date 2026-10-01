@@ -32,136 +32,82 @@ image: 1895-04-21-nacimiento-carlos-meyer-baldo.webp
 - **Fallecimiento:** 27 de noviembre de 1933 (38 años), Maracay, estado Aragua, Venezuela
 - **Nacionalidad:** Venezolana (con ciudadanía alemana por herencia paterna)
 - **Rango militar:** Teniente (Luftstreitkräfte) / Teniente (Fuerza Aérea Venezolana)
-- **Unidades en la Primera Guerra Mundial:** Dragoner Regiment König Karl I von Rumänien Nr.9 (caballería), Flieger Abteilung 201 (reconocimiento), Jagdstaffel 11 (Jasta 11), Jagdstaffel 4 (Jasta 4)
-- **Unidad célebre:** Jagdgeschwader 1 (JG1) – "El Circo Volante de Richthofen"
-- **Victorias confirmadas:** 4 derribos (según fuentes principales)
-- **Victorias no confirmadas:** 3 adicionales
-- **Condecoraciones:** Cruz de Hierro (2.ª Clase), Cruz de Hierro (1.ª Clase), Cruz Hanseática (versión Hamburgo), Copa de Honor al Vencedor de Combates Aéreos
+- **Unidades en la Primera Guerra Mundial:** Dragoner Regiment König Karl I von Rumänien Nr.9 (caballería), Flieger Abteilung 201 (reconocimiento), Jagdstaffel 11 y Jagdstaffel 4
+- **Unidad célebre:** Jagdgeschwader 1 (JG1), «El Circo Volante de Richthofen»
+- **Victorias confirmadas:** 4 derribos, más 3 no confirmados
+- **Condecoraciones:** Cruz de Hierro de 1.ª y 2.ª Clase, Cruz Hanseática (Hamburgo), Copa de Honor al Vencedor de Combates Aéreos
 - **Papel en Venezuela:** Inspector e instructor de la Fuerza Aérea Venezolana (desde 1931, con el grado de Teniente)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
-A finales del siglo XIX, Venezuela era un país de contrastes: mientras el interior vivía sumido en guerras civiles y caudillismos, la región de Zulia experimentaba un auge económico gracias al café y, más tarde, al petróleo. La presencia de inmigrantes europeos, especialmente alemanes e italianos, era significativa en Maracaibo, atraídos por las oportunidades comerciales. En este entorno cosmopolita nació Carlos Meyer Baldó, hijo de un próspero comerciante alemán y una madre de origen colombo-venezolano.
+A finales del siglo XIX, Venezuela era un país de contrastes: mientras el interior vivía sumido en guerras civiles y caudillismos, la región de Zulia experimentaba un auge económico gracias al café y, más tarde, al petróleo. La presencia de inmigrantes europeos, especialmente alemanes e italianos, era significativa en Maracaibo. En ese entorno cosmopolita nació Carlos Meyer Baldó, hijo de un próspero comerciante alemán y una madre de origen colombo-venezolano.
 
 ### Entorno social
 
-La familia Meyer Baldó era parte de la élite comercial zuliana. Su padre, Johannes Ludwig Karl Meyer Groeve, había llegado a Venezuela como empleado de firmas exportadoras de café y luego se convirtió en productor independiente. En 1908, cuando Carlos tenía 13 años, la familia decidió emigrar a Alemania, estableciéndose en Hamburgo. Este traslado sería determinante para el futuro del joven, pues lo puso en el camino de la Primera Guerra Mundial.
+La familia Meyer Baldó era parte de la élite comercial zuliana. Su padre, Johannes Ludwig Karl Meyer Groeve, había llegado a Venezuela como empleado de firmas exportadoras de café y luego se convirtió en productor independiente. En 1908, cuando Carlos tenía 13 años, la familia decidió emigrar a Alemania, estableciéndose en Hamburgo. Ese traslado sería determinante: lo puso en el camino de la Primera Guerra Mundial.
 
 ### Entorno tecnológico
 
-La aviación militar estaba en sus albores. En 1914, cuando estalló la guerra, los aviones eran frágiles estructuras de madera y tela, con motores de apenas 80 a 100 hp. Los pilotos carecían de paracaídas (no se introdujeron hasta 1917) y los enfrentamientos se libraban a menos de 50 metros de distancia, con ametralladoras sincronizadas que disparaban a través de la hélice. Meyer Baldó voló en cazas como el Albatros D.V, el Fokker Dr.I (triplano) y el Fokker D.VII, considerado por muchos el mejor caza de la guerra.
+En 1914, al estallar la guerra, la aviación militar estaba en sus albores: los aparatos eran estructuras frágiles de madera y tela movidas por motores de apenas 80 a 100 caballos, los pilotos carecían de paracaídas —no se introdujeron hasta 1917— y los combates se libraban a menos de 50 metros, con ametralladoras sincronizadas que disparaban a través de la hélice. Meyer Baldó voló el Albatros D.V, el Fokker Dr.I triplano y el Fokker D.VII, para muchos el caza más logrado de la contienda.
 
 ### Entorno cultural
 
-La figura del "as de la aviación" nació durante la Primera Guerra Mundial. Pilotos como Oswald Boelcke, Manfred von Richthofen y Ernst Udet se convirtieron en héroes nacionales en Alemania. La prensa difundía sus hazañas, y sus aviones, pintados con colores llamativos, eran fácilmente reconocibles. Meyer Baldó adoptó como insignia personal el dibujo de un perro babeante ("Bóxer Babeante") en su Fokker D.VII, una marca desafiante hacia sus enemigos.
+La figura del as nació durante la Gran Guerra: pilotos como Oswald Boelcke, Manfred von Richthofen y Ernst Udet se convirtieron en héroes nacionales alemanes, y sus aviones, pintados con colores llamativos, eran fácilmente reconocibles. Meyer Baldó adoptó como insignia personal un perro babeante (el «Bóxer Babeante») en el fuselaje de su Fokker D.VII, un gesto desafiante hacia el enemigo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
-- **21 de abril de 1895:** Nace Carlos Otto Meyer Baldó en Maracaibo, Venezuela.
-- **1899:** La familia Meyer Baldó se muda a Caracas.
-- **1908:** La familia emigra a Hamburgo, Alemania.
-- **28 de julio de 1914:** Comienza la Primera Guerra Mundial. Meyer se presenta como voluntario en el ejército alemán.
-- **Noviembre de 1914:** Es destinado al frente oriental como cabo del Regimiento de Caballería Dragones Nr.9.
-- **1916:** Solicita su ingreso a la Escuela de Aviación del Ejército Alemán (Luftstreitkräfte).
-- **Enero de 1917:** Culmina su entrenamiento como piloto. Es destinado al escuadrón de reconocimiento Flieger Abteilung 201 en el frente occidental.
-- **1 de julio de 1917:** Es asignado al Jagdstaffel 11 (Jasta 11), el escuadrón de élite de Manfred von Richthofen.
-- **31 de julio de 1917:** Obtiene su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1917/07/31/carlos-meyer-baldo-primer-derribo.html" style="color: #315fea; text-decoration: none;">primer derribo confirmado: un R.E.8 británico sobre Flandes, Bélgica</a>.
-- **Diciembre de 1917:** Es transferido al Jagdstaffel 4 (Jasta 4), también parte del "Circo Volante".
-- **28 de junio de 1918:** Derriba al SPAD S.XIII del as francés René Montrion (11 victorias).
-- **15 de julio de 1918:** Derriba otro SPAD S.XIII francés.
-- **18 de julio de 1918:** Derriba un Sopwith Camel, alcanzando su cuarta victoria confirmada y consolidándose como as de caza.
-- **19 de septiembre de 1918:** Es enviado como instructor a la Escuela de Escuadrones de Caza Nr. II en Nivelles, Bélgica.
-- **11 de noviembre de 1918:** Fin de la guerra. Meyer se encuentra en Alemania, donde participa en labores de defensa durante la revolución espartaquista.
-- **1926:** Retorna a Venezuela.
-- **1931:** Ingresa a la Aviación Militar Venezolana como inspector e instructor, con el rango de teniente.
-- **27 de noviembre de 1933:** Fallece en un accidente aéreo en Maracay mientras realizaba acrobacias en un biplano Stearman C-3B.
+- **21 de abril de 1895:** nace Carlos Otto Meyer Baldó en Maracaibo.
+- **1899:** la familia se muda a Caracas.
+- **1908:** la familia emigra a Hamburgo.
+- **28 de julio de 1914:** comienza la guerra; Meyer se presenta como voluntario en el ejército alemán.
+- **Noviembre de 1914:** destinado al frente oriental como cabo del Regimiento de Caballería Dragones Nr.9.
+- **1916:** solicita su ingreso en la aviación del ejército (Luftstreitkräfte).
+- **Enero de 1917:** culmina el entrenamiento de piloto y pasa al escuadrón de reconocimiento Flieger Abteilung 201, en el frente occidental.
+- **1 de julio de 1917:** pasa al escuadrón de élite de Manfred von Richthofen, el Jagdstaffel 11 (Jasta 11).
+- **31 de julio de 1917:** logra su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1917/07/31/carlos-meyer-baldo-primer-derribo.html" style="color: #315fea; text-decoration: none;">primer derribo confirmado: un R.E.8 británico sobre Flandes, Bélgica</a>.
+- **Diciembre de 1917:** transferido al Jagdstaffel 4, también parte del «Circo Volante».
+- **28 de junio de 1918:** derriba el SPAD S.XIII del as francés René Montrion.
+- **15-18 de julio de 1918:** derriba otro SPAD S.XIII y un Sopwith Camel; con este último alcanza su cuarta victoria confirmada.
+- **19 de septiembre de 1918:** enviado como instructor a la Escuela de Escuadrones de Caza Nr. II en Nivelles, Bélgica.
+- **11 de noviembre de 1918:** armisticio; participa después en labores de defensa durante la revolución espartaquista.
+- **1926:** retorna a Venezuela.
+- **1931:** ingresa en la Aviación Militar Venezolana como inspector e instructor, con el rango de teniente.
+- **27 de noviembre de 1933:** muere en un accidente aéreo en Maracay mientras realizaba acrobacias en un biplano Stearman C-3B.
 
-### Trayectoria en la Primera Guerra Mundial
+### De la caballería al Circo Volante
 
-La participación de Carlos Meyer Baldó en la Gran Guerra fue un conjunto de casualidades y decisiones personales que lo llevaron desde la caballería hasta los cielos de Europa. Su origen venezolano, su ciudadanía alemana y su determinación lo convirtieron en el único latinoamericano en integrar el legendario "Circo Volante" del Barón Rojo.
+Cuando Alemania declaró la guerra, Meyer Baldó tenía 19 años y la ciudadanía alemana heredada de su padre lo obligaba al servicio militar. Se alistó como voluntario en el Regimiento de Caballería Dragones Nr.9 y combatió contra los rusos en la Batalla de Lodz, méritos que le valieron la Cruz Hanseática y el ascenso a teniente; los jinetes habían quedado inútiles entre trincheras y pidió el pase a la aviación. Aceptado en 1917 en el Jagdstaffel 11 de Richthofen, combatió en el Jagdgeschwader 1, el «Circo Volante» llamado así por los colores llamativos de sus aviones y su rapidez para cambiar de frente en trenes especiales: Meyer fue el único latinoamericano en esa unidad de élite, donde se codeó con Richthofen, con Ernst Udet y con Hermann Göring.
 
-### De la caballería a la aviación
+### Las victorias
 
-Cuando Alemania declaró la guerra en agosto de 1914, Meyer Baldó tenía 19 años. A pesar de su origen venezolano, su ciudadanía alemana (heredada de su padre) lo obligaba a prestar servicio militar. Se alistó como voluntario en el Regimiento de Caballería Dragones Nr.9 y fue enviado al frente oriental, donde combatió contra los rusos en la Batalla de Lodz (actual Polonia). Su desempeño le valió la Cruz Hanseática y el ascenso a teniente.
+Su primer derribo, durante la Tercera Batalla de Ypres, fue el biplano de observación R.E.8 pilotado por el Teniente A. J. Longton, hazaña que le valió la Copa de Honor. Las cuatro victorias confirmadas —dos británicas y dos francesas— se completaron en el verano de 1918; las fuentes le atribuyen además tres derribos no confirmados y uno compartido con Georg von der Osten. El fuselaje de su Fokker D.VII llevaba pintado el «Bóxer Babeante», la insignia que lo distinguía en el aire.
 
-Sin embargo, la guerra de trincheras y la aparición de ametralladoras hicieron obsoleta a la caballería. Meyer, seducido por los aviones militares, solicitó su transferencia a la aviación.
+### El retorno a Venezuela
 
-### El Circo Volante de Richthofen
-
-En 1917, Meyer fue aceptado en el **Jagdstaffel 11 (Jasta 11)** , el escuadrón de caza comandado por el legendario **Manfred von Richthofen**, el Barón Rojo. Este escuadrón, junto con los Jasta 4, 6 y 10, formaba el **Jagdgeschwader 1 (JG1)** , conocido popularmente como el "Circo Volante" por los colores llamativos de sus aviones y su capacidad de moverse rápidamente entre frentes utilizando trenes especiales.
-
-Meyer fue el único latinoamericano en formar parte de esta unidad de élite. Allí se codeó con los mejores ases alemanes: el propio Richthofen, Ernst Udet (el segundo as alemán con 62 victorias) y Hermann Göring, quien más tarde sería un alto jerarca del régimen nazi.
-
-### Las victorias aéreas
-
-El 31 de julio de 1917, durante la Tercera Batalla de Ypres en Bélgica, Meyer logró su primer derribo confirmado: un biplano de observación RE.8 de la Real Fuerza Aérea británica, pilotado por el Teniente A. J. Longton. Por esta hazaña recibió la Copa de Honor al Vencedor de Combates Aéreos.
-
-Sus victorias confirmadas incluyen cuatro derribos documentados:
-
-- Un RE.8 británico el 31 de julio de 1917 en Flandes, Bélgica.
-- El SPAD S.XIII del as francés René Montrion (11 victorias) el 28 de junio de 1918 en Corcy, Francia.
-- Un SPAD S.XIII francés el 15 de julio de 1918.
-- Un Sopwith Camel el 18 de julio de 1918 durante la Segunda Batalla del Marne.
-
-Además, se le atribuyen tres derribos no confirmados y un derribo compartido con su compañero Georg von der Osten. En total, algunas fuentes le asignan 7 derribos, aunque el estándar para ser considerado "as" es de 5 victorias confirmadas. La mayoría de los historiadores le reconocen 4 confirmadas y 3 no confirmadas.
-
-### La insignia del "Bóxer Babeante"
-
-Meyer Baldó pintó en el fuselaje de su Fokker D.VII la figura de un perro babeante (un boxer), como un gesto desafiante hacia sus enemigos. Esta imagen se ha convertido en un símbolo asociado a su leyenda.
-
-### Regreso a Venezuela y fundación de la Fuerza Aérea
-
-Tras la derrota alemana y un breve período de inestabilidad en la República de Weimar, Meyer Baldó decidió retornar a su tierra natal en 1926. Aunque al principio se dedicó a negocios familiares, su pasión por la aviación y su amistad con Florencio Gómez Núñez lo llevaron a convertirse en uno de los pilares de la naciente Aviación Militar Venezolana.
-
-### El retorno
-
-Tras la derrota alemana en 1918, Meyer permaneció algunos años en Hamburgo, donde su padre había fallecido en 1921. La inestabilidad política y económica de la República de Weimar lo motivaron a retornar a Venezuela en 1926. Se instaló en Caracas, donde trabajó en negocios familiares y como administrador de una hacienda.
-
-### El encuentro con Florencio Gómez Núñez
-
-En un evento social, Meyer conoció a **Florencio Gómez Núñez**, hijo del dictador **Juan Vicente Gómez**. Florencio era un apasionado de la aviación y uno de los principales impulsores de la creación de una fuerza aérea en Venezuela. Convenció a Meyer de que sus habilidades eran necesarias en el país.
-
-### Ingreso a la Aviación Militar Venezolana
-
-A pesar de las objeciones de algunos sectores militares (que veían con recelo su pasado al servicio de una potencia extranjera), Meyer ingresó a la recién creada Aviación Militar Venezolana en 1931, con el rango de **teniente**. Fue enviado a Estados Unidos para actualizar sus conocimientos y, a su regreso, se desempeñó como inspector e instructor de vuelo en Maracay.
+Tras la derrota y unos años en la inestable República de Weimar —su padre había fallecido en 1921—, regresó en 1926 y se ocupó de negocios familiares y de la administración de una hacienda. En un acto social conoció a Florencio Gómez Núñez, hijo del dictador Juan Vicente Gómez y apasionado impulsor de una fuerza aérea nacional, que lo convenció de volver a volar. Pese al recelo de algunos sectores por su servicio a una potencia extranjera, en 1931 ingresó como teniente en la recién creada Aviación Militar Venezolana; fue enviado a Estados Unidos a actualizar conocimientos y ejerció de inspector e instructor en Maracay.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
-Meyer Baldó quedó fijado como el único as de caza venezolano de la Primera Guerra Mundial: cuatro derribos confirmados —dos británicos y dos franceses—, dos Cruces de Hierro y una herida en combate en julio de 1917 de la que se recuperó para seguir volando. Su consecuencia más duradera, sin embargo, está en Venezuela: su experiencia de guerra, actualizada en Estados Unidos, se transfirió a la naciente Aviación Militar como inspector e instructor desde 1931, pese a las objeciones por haber servido a una potencia extranjera, llevar más de una década sin volar y chocar con el Tratado de Versalles. Ese puente entre el «Circo Volante» y Maracay lo convirtió en el eslabón vivo entre la aviación de combate europea y la fuerza aérea de su país natal.
+Meyer Baldó quedó fijado como el único as de caza venezolano de la Primera Guerra Mundial: cuatro derribos confirmados, dos Cruces de Hierro y una herida en combate en julio de 1917 de la que se recuperó para seguir volando. Su consecuencia más duradera está en Venezuela: su experiencia de guerra, actualizada en Estados Unidos, se transfirió a la naciente Aviación Militar como inspector e instructor desde 1931, pese a las objeciones por haber servido a una potencia extranjera, llevar más de una década sin volar y chocar con el Tratado de Versalles. Ese puente entre el «Circo Volante» y Maracay lo convirtió en el eslabón vivo entre la aviación de combate europea y la fuerza aérea de su país natal.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
-El 27 de noviembre de 1933, un accidente aéreo en Maracay puso fin a la vida de este pionero. Sin embargo, su memoria perdura en la Fuerza Aérea Venezolana a través de múltiples honores que reconocen su contribución a la aviación nacional.
+El 27 de noviembre de 1933, Meyer Baldó despegó de Maracay en un biplano Stearman C-3B acompañado por el mecánico Héctor Arias; durante una acrobacia se desprendió el plano superior derecho, el aparato entró en barrena y ambos murieron en el acto. Tenía 38 años y no dejó hijos.
 
-### El accidente fatal
+Su memoria perdura en la Fuerza Aérea Venezolana a través de varios reconocimientos:
 
-El 27 de noviembre de 1933, Meyer Baldó despegó desde Maracay a bordo de un biplano Stearman C-3B, acompañado por el mecánico Héctor Arias. Durante una acrobacia aérea, el plano superior derecho de la aeronave se desprendió, causando que el avión entrara en barrena y se estrellara contra el suelo. Ambos ocupantes fallecieron en el acto. Meyer tenía 38 años y no dejó hijos.
-
-### Honores
-
-El legado de Carlos Meyer Baldó perdura en Venezuela a través de múltiples reconocimientos:
-
-- La **Orden al Mérito Aeronáutico "Teniente Carlos Meyer Baldó"** fue creada el 7 de octubre de 1968. Esta condecoración lleva el grado de Teniente porque ese fue el rango con el que Meyer sirvió en la Fuerza Aérea Venezolana.
-- La primera promoción de pilotos egresada el 28 de diciembre de 1947 recibió su nombre.
-- Un teatro en la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1974/01/02/creacion-baru.html" style="color: #315fea; text-decoration: none;">Base Aérea General Rafael Urdaneta</a> de Maracaibo lleva su nombre.
-- Un busto en su honor se encuentra en el Museo Aeronáutico de Maracay.
-
-Meyer Baldó es recordado como el único venezolano que combatió como as de caza en la Primera Guerra Mundial y como uno de los pioneros fundamentales de la aviación militar en Venezuela.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre las victorias aéreas:</strong> Existe una discrepancia entre las fuentes consultadas sobre el número exacto de derribos confirmados de Carlos Meyer Baldó. La Wikipedia en español y la BBC mencionan <strong>4 victorias confirmadas y 3 no confirmadas</strong> (total 7), mientras que otras fuentes indican un número menor. En esta efeméride se han priorizado los datos de la Wikipedia en español y de la BBC por ser las fuentes más detalladas y consistentes.</p>
-<p><strong>Sobre su nombre y rango:</strong> Aunque su nombre de pila registrado al nacer fue Carlos Otto, fue bautizado como Karl Otto en la Iglesia Santa Lucía de Maracaibo el 24 de abril de 1896. Ambas variantes son utilizadas en las fuentes históricas. En cuanto a su rango en la Fuerza Aérea Venezolana, Meyer Baldó ingresó como <strong>teniente</strong>, no como capitán, como lo indican algunas fuentes. Por eso la Orden al Mérito Aeronáutico lleva el grado de Teniente.</p>
-</div>
+- La **Orden al Mérito Aeronáutico «Teniente Carlos Meyer Baldó»**, creada el 7 de octubre de 1968, lleva ese grado porque fue el rango con que sirvió en la aviación nacional.
+- La primera promoción de pilotos, egresada el 28 de diciembre de 1947, recibió su nombre.
+- Un teatro de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1974/01/02/creacion-baru.html" style="color: #315fea; text-decoration: none;">Base Aérea General Rafael Urdaneta</a> de Maracaibo lleva su nombre.
+- El Museo Aeronáutico de Maracay conserva un busto en su memoria.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -181,10 +127,18 @@ Meyer Baldó es recordado como el único venezolano que combatió como as de caz
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<div class="note-box">
+<p><strong>Nota aclaratoria sobre las victorias aéreas:</strong> Existe una discrepancia entre las fuentes consultadas sobre el número exacto de derribos confirmados de Carlos Meyer Baldó. La Wikipedia en español y la BBC mencionan <strong>4 victorias confirmadas y 3 no confirmadas</strong> (total 7), mientras que otras fuentes indican un número menor. En esta efeméride se han priorizado los datos de la Wikipedia en español y de la BBC por ser las fuentes más detalladas y consistentes.</p>
+<p><strong>Sobre su nombre y rango:</strong> Aunque su nombre de pila registrado al nacer fue Carlos Otto, fue bautizado como Karl Otto en la Iglesia Santa Lucía de Maracaibo el 24 de abril de 1896. Ambas variantes son utilizadas en las fuentes históricas. En cuanto a su rango en la Fuerza Aérea Venezolana, Meyer Baldó ingresó como <strong>teniente</strong>, no como capitán, como lo indican algunas fuentes. Por eso la Orden al Mérito Aeronáutico lleva el grado de Teniente.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), BBC Mundo, EcuRed, Aviación Civil Venezuela, Early Birds of Aviation, Condecoraciones de Venezuela
-- **Discrepancias resueltas:** Se ha aclarado la diferencia en el número de victorias aéreas confirmadas (4 según fuentes principales, con 3 adicionales no confirmadas). También se ha precisado la variación en su nombre de pila (Carlos / Karl). La fecha de nacimiento (21 de abril de 1895) es consistente en todas las fuentes. Se ha corregido el rango de Meyer en la Fuerza Aérea Venezolana (teniente, no capitán), explicando por qué la condecoración lleva ese grado.
+- **Timestamp de verificación:** 2026-10-01 15:58:29 CST
+- **Fuentes primarias/institucionales consultadas:** BBC Mundo; Wikipedia (ES); EcuRed; Aviación Civil Venezuela.
+- **Fuentes secundarias de contraste:** Early Birds of Aviation; Condecoraciones de Venezuela; Venezolanos Ilustres.
+- **Discrepancias resueltas:** cifra de victorias (4 confirmadas y 3 no confirmadas según BBC y Wikipedia ES); nombre de pila (Carlos/Karl); rango en Venezuela (teniente, no capitán), que da el grado a la condecoración.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

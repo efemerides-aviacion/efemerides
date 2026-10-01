@@ -52,7 +52,7 @@ La carrera de Hawks coincidió con la maduración del avión como máquina de ve
 
 ### Entorno cultural
 
-En la edad dorada de la aviación, el piloto de récords era una estrella: los vuelos se anunciaban, se cronometraban y salían en los periódicos. Hawks lo entendió como nadie. Con el patrocinio de Texaco, sus marcas eran a la vez proezas deportivas y publicidad, y su lema —«no lo envíe por correo, envíelo por Hawks»— definió una época.
+En la edad dorada de la aviación, el piloto de récords era una estrella: los vuelos se anunciaban, se cronometraban y salían en los periódicos. Hawks lo entendió como nadie: con el patrocinio de Texaco, sus marcas eran a la vez proezas deportivas y campaña publicitaria, y el correo urgente encontró en él a su mejor escaparate.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -76,7 +76,7 @@ En la edad dorada de la aviación, el piloto de récords era una estrella: los v
 
 ## Consecuencias e Impacto
 
-Los récords de Hawks no solo batieron cronómetros: vendieron aviación. Su vuelo de mayo de 1935 en el Northrop Gamma se tradujo en pedidos del avión de ataque Gamma 2E para la aviación militar estadounidense, y su alianza con Texaco demostró que una marca podía financiar la velocidad aérea a cambio de publicidad, un modelo que definiría la aviación de entreguerras.
+Los récords de Hawks no solo batieron cronómetros: vendieron aviación. Su vuelo de mayo de 1935 en el Northrop Gamma se tradujo en encargos del avión de ataque Gamma 2E para la aviación militar estadounidense, y su alianza con Texaco demostró que una marca podía financiar la velocidad aérea a cambio de publicidad, un modelo que definiría la aviación de entreguerras.
 
 Su muerte, en cambio, mostró el reverso de aquella edad dorada: el piloto de récords que había sobrevivido a más de doscientos vuelos cronometrados falleció probando un aparato experimental, recordatorio de que en los años treinta volar rápido seguía siendo una apuesta.
 
@@ -113,9 +113,9 @@ Su aeronave más célebre, el Travel Air Type R «Texaco 13», se conserva en el
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-23 09:37:55 CST  
+- **Timestamp de verificación:** 2026-10-01 15:58:34 CST
 - **Fuentes primarias/institucionales consultadas:** San Diego Air &amp; Space Museum Archives (retrato), Museum of Science and Industry de Chicago (Texaco 13), State Library of New South Wales (retrato de 1937).  
 - **Fuentes secundarias de contraste:** Wikipedia (EN), This Day in Aviation.  
-- **Discrepancias resueltas:** La cifra de 214 récords punto a punto es la comúnmente citada; se distingue de los récords homologados por la FAI. El récord transcontinental del 4-5 de febrero de 1929 se conmemora en efeméride propia (fecha de culminación, 5 de febrero). La fecha y el lugar de fallecimiento (23 de agosto de 1938, East Aurora) coinciden en las fuentes y en la descripción del retrato de los archivos del museo.  
+- **Discrepancias resueltas:** la cifra de 214 récords punto a punto se distingue de las marcas homologadas por la FAI; el récord transcontinental del 4-5 de febrero de 1929 tiene efeméride propia; fecha y lugar de fallecimiento coinciden en las fuentes.
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

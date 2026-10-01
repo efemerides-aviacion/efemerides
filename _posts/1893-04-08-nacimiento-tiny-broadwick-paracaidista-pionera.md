@@ -40,13 +40,13 @@ redirect_from:
 - **Primera caída libre premeditada:** 1914, demostración para el Ejército de EE.UU. en San Diego. Aunque no fue planeada (ocurrió por un enredo de la línea estática), Tiny decidió conscientemente cortar la línea y abrir su paracaídas manualmente, demostrando la viabilidad del sistema de apertura manual.
 - **Total de saltos:** Más de 1.100
 - **Retiro:** 1922
-- **Reconocimientos:** Miembro de Early Birds of Aviation; Miembro honoraria de la 82ª División Aerotransportada; Premio Pioneer Aviation del gobierno de EE.UU.; Medalla John Glenn
+- **Reconocimientos:** Miembro de Early Birds of Aviation; miembro honoraria de la 82ª División Aerotransportada; Premio Pioneer Aviation; Medalla John Glenn
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
-En los albores del siglo XX, la aviación era un campo de experimentación y riesgo. Los hermanos Wright habían volado por primera vez solo diez años antes del salto histórico de Tiny Broadwick desde un avión. Las mujeres tenían un papel muy limitado en la tecnología y el deporte extremo, lo que hace aún más notable la trayectoria de Broadwick.
+Cuando Tiny Broadwick empezó a saltar, la aviación era todavía una atracción de feria, tan peligrosa como incierta. Los hermanos Wright habían volado por primera vez solo diez años antes de su salto histórico desde un avión. Las mujeres tenían un papel muy limitado en la tecnología y el deporte extremo, lo que hace aún más notable su trayectoria.
 
 ### Entorno social
 
@@ -76,12 +76,7 @@ La figura del "barnstormer" (piloto/acróbata ambulante) era popular en las feri
 
 - **21 de junio de 1913 (20 años):** Se convierte en la **primera mujer en saltar en paracaídas desde un avión**. El vuelo despega desde el campo de aviación de Griffith Park en Los Ángeles. Tiny va suspendida de un asiento trampa detrás del ala del biplano de Martin. A 610 m (2,000 pies) de altitud, libera el mecanismo y cae, abriendo su paracaídas automáticamente mediante línea estática. Aterriza sana y salva en Griffith Park.
 
-- **1914 (21 años):** El Ejército de EE.UU., preocupado por la alta mortalidad de pilotos sin sistemas de escape, solicita a Tiny que demuestre el paracaídas. Realiza cuatro saltos en North Island, San Diego.
-
-    - **El cuarto salto** sale mal: la línea estática se enreda en la cola del avión. El viento agita su pequeño cuerpo y no puede regresar a la cabina.
-    - **Respuesta de Tiny:** Saca un cuchillo, corta la línea, cae en **caída libre** y luego tira manualmente de la línea acortada para abrir el paracaídas.
-    - **Importancia:** Es la **primera caída libre premeditada** de la historia (first premeditated free-fall parachute jump). Aunque no fue planificada como parte del espectáculo (ocurrió por accidente al enredarse la línea estática), la decisión consciente de Tiny de cortar la línea y abrir manualmente su paracaídas demostró al Ejército de EE.UU. que un piloto podía abandonar una aeronave en emergencia sin necesidad de una línea estática conectada al avión.
-    - **Precisión histórica:** El primer salto en caída libre intencional (planificado desde el inicio) se atribuye a Leslie Irvin, quien el 28 de abril de 1919 saltó deliberadamente desde un avión con la intención de caer antes de abrir su paracaídas.
+- **1914 (21 años):** El Ejército de EE.UU., preocupado por la alta mortalidad de pilotos sin sistemas de escape, le pide que demuestre el paracaídas. Realiza cuatro saltos en North Island, San Diego. En el cuarto, la línea estática se enreda en la cola del avión y no puede regresar a la cabina: saca un cuchillo, la corta, cae en **caída libre** y abre el paracaídas tirando manualmente de la línea acortada. Es la **primera caída libre premeditada** de la historia: demuestra al Ejército que un piloto puede abandonar una aeronave en emergencia sin línea estática.
 
 - **1914 (mismo año):** Se convierte en la primera mujer en saltar en paracaídas sobre una masa de agua (Lago Míchigan).
 
@@ -101,7 +96,7 @@ La figura del "barnstormer" (piloto/acróbata ambulante) era popular en las feri
 
 - **Demostración al Ejército de EE.UU. (1914):** Su exitosa demostración en San Diego convenció a las autoridades militares, aunque de manera reticente, de que los paracaídas eran viables como sistemas de escape. El Ejército adquirió unidades para pruebas.
 
-- **Demostración del concepto de caída libre premeditada:** El incidente con la línea estática enredada llevó a Tiny a tomar la decisión consciente de cortar la línea y abrir manualmente su paracaídas. Esto demostró, por primera vez, que un paracaídas podía abrirse en caída libre sin línea estática. Aunque no fue planificada (sino una respuesta a una emergencia), esta acción es reconocida por las fuentes históricas como la "primera caída libre premeditada". El primer salto intencional de caída libre planificado desde el inicio se atribuye a Leslie Irvin (1919).
+- **Demostración del concepto de caída libre premeditada:** el incidente de la línea estática llevó a Tiny a tomar la decisión consciente de cortarla y abrir manualmente el paracaídas: por primera vez se demostró que podía abrirse en caída libre sin línea estática. La precisión frente al salto intencional planificado se detalla en la nota aclaratoria.
 
 - **Legado para los paracaidistas militares:** Charles Broadwick, usando los principios demostrados por Tiny, continuó desarrollando el paracaídas tipo mochila con línea estática. Durante la Segunda Guerra Mundial, este sistema fue utilizado por los paracaidistas estadounidenses para despliegues masivos desde baja altitud.
 
@@ -115,7 +110,7 @@ Tiny Broadwick es recordada como la **"Primera Dama del Paracaidismo"** (First L
 
 - **Pionera femenina:** Rompió barreras de género en un campo dominado por hombres, demostrando que el valor y la habilidad no tienen género.
 
-- **Innovadora técnica:** Su caída libre premeditada de 1914 (una decisión consciente ante una emergencia) es reconocida por fuentes históricas como un hito pionero. Demostró que un paracaídas podía abrirse manualmente en caída libre, sentando las bases para el desarrollo del ripcord. El primer salto intencional de caída libre planificado desde el inicio fue realizado por Leslie Irvin en 1919.
+- **Innovadora técnica:** Su caída libre premeditada de 1914 (una decisión consciente ante una emergencia) es reconocida por las fuentes históricas como un hito pionero: demostró que un paracaídas podía abrirse manualmente en caída libre y abrió el camino del sistema de apertura manual o ripcord.
 
 - **Reconocimientos institucionales:** Es una de las pocas mujeres miembros de los **Early Birds of Aviation** (organización que agrupa a los pioneros de la aviación anteriores a 1916). Recibió el **Premio Pioneer Aviation** del gobierno de EE.UU. y la **Medalla John Glenn**.
 
@@ -123,7 +118,7 @@ Tiny Broadwick es recordada como la **"Primera Dama del Paracaidismo"** (First L
 
 - **Memoria perdurable:** En febrero de 2006, el condado de Vance, Carolina del Norte, nombró un tramo de la Henderson Outer Loop en su honor. También existe una calle Broadwick en Rancho Domínguez, California.
 
-- **Preservación histórica:** Su paracaídas original se exhibe en el **National Air and Space Museum** del Smithsonian en Washington D.C.
+- **Preservación histórica:** Su paracaídas original se conserva en las colecciones del **National Air and Space Museum** (Smithsonian), en Washington D.C.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -156,12 +151,8 @@ Tiny Broadwick es recordada como la **"Primera Dama del Paracaidismo"** (First L
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:35:35 CST
-- **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (Smithsonian), NCpedia/State Archives of North Carolina, NC DNCR (.gov), Museum of Women Pilots, Wikipedia (EN/PT), Parachutist Magazine
-- **Discrepancias resueltas:**
-  - Fecha del primer salto desde avión: 1912 vs 1913 → Se optó por 21 de junio de 1913 (fecha más citada), con nota aclaratoria.
-  - Estatura: 1.42 m (4'8") según Wikipedia EN; 1.5 m (5') según Smithsonian → Se incluye el rango.
-  - Número de saltos: varía entre 1.000 y 1.100 → Se usa "más de 1.100" (fuente NCpedia).
-  - **Precisión terminológica:** Se corrigió el término "caída libre planificada" por "caída libre premeditada", ya que el evento no fue planificado con antelación sino una decisión consciente ante una emergencia. Se añadió nota aclaratoria diferenciando este hito del primer salto intencional de caída libre (Leslie Irvin, 1919).
+- **Timestamp de verificación:** 2026-10-01 15:58:26 CST
+- **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (Smithsonian); NCpedia/State Archives of North Carolina; NC DNCR (.gov); Museum of Women Pilots; Parachutist Magazine.
+- **Discrepancias resueltas:** fecha del primer salto desde avión (1912 frente a 1913; se adopta el 21 de junio de 1913); estatura (1.42-1.5 m); número de saltos («más de 1.100», NCpedia); terminología «caída libre premeditada» frente a «planificada», diferenciada del salto intencional de Leslie Irvin (1919). Criterios en la nota aclaratoria.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."

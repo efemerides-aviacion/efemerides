@@ -19,7 +19,7 @@ image: 1892-06-02-nacimiento-miguel-rodriguez-ravelo-pionero-amv.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 2 de junio de 1892 nació en Villa de Cura, Estado Aragua, Miguel Rodríguez Ravelo, hijo del General Elías Rodríguez y de Concepción Ravelo. Se incorporó en 1921 al primer grupo de alumnos de la Escuela de Aviación Militar de Maracay, en condición de civil, y obtuvo el diploma de piloto aquel mismo año.</p>
+<p>El 2 de junio de 1892 nació en Villa de Cura, Estado Aragua, Miguel Rodríguez Ravelo, hijo del General Elías Rodríguez y de Concepción Ravelo. Se incorporó en 1921 al primer grupo de alumnos de la Escuela de Aviación Militar (Maracay), en condición de civil, y obtuvo el diploma de piloto aquel mismo año.</p>
 <p>Su carrera abarcó los dos mundos de la aviación venezolana. Fue piloto de prueba del aparato que los mecánicos de Maracay reconstruyeron con despojos y que salvó a la Escuela del cierre; se formó en Estados Unidos tras una sanción disciplinaria; figuró entre los cinco pilotos militares fundadores de la Línea Aeropostal Venezolana en 1934; y el 1.º de octubre de 1937 se convirtió en el primer oficial piloto al mando del Regimiento de Aviación N.º 1. Murió el 9 de junio de 1938 probando en Maracay uno de los North American NA-16 cuya compra él mismo había impulsado. Desde 1940, la escuela de aviación civil de Venezuela lleva su nombre.</p>
 </div>
 
@@ -31,7 +31,7 @@ image: 1892-06-02-nacimiento-miguel-rodriguez-ravelo-pionero-amv.webp
 - **Padres:** General Elías Rodríguez y Concepción Ravelo
 - **Familia:** casado con Trina Abreu, con quien tuvo cuatro hijos: Consuelo, Gerardo, Marcos y Regina
 - **Apodo:** «El Catirito», que empleaba el propio Juan Vicente Gómez
-- **Formación:** ingresa a la Escuela de Aviación Militar el 27 de enero de 1921, en el primer grupo de alumnos y en condición de civil; diploma definitivo de piloto el 20 de septiembre de 1921, con ascenso a Subteniente
+- **Formación:** ingresa a la Escuela de Aviación Militar el 27 de enero de 1921, con el primer grupo de alumnos y en condición de civil; diploma definitivo de piloto el 20 de septiembre de 1921, con ascenso a Subteniente
 - **Formación en el extranjero:** diploma de la Curtiss School of Aviation el 22 de agosto de 1927; licencia de piloto de transporte e instructor en Estados Unidos
 - **Servicio:** Aviación Militar de Venezuela; grado de Mayor; comandante del Grupo de Aviación «Venezuela» desde 1936 y del Regimiento de Aviación N.º 1 desde el 1.º de octubre de 1937, primer oficial piloto en ejercer ese cargo
 - **Aviación civil:** uno de los cinco pilotos militares fundadores de la Línea Aeropostal Venezolana en 1934
@@ -63,16 +63,16 @@ Entre los aviadores de la época, Rodríguez quedó como modelo de tenacidad y d
 Su vida recorre los primeros veinte años de la aviación venezolana, desde los aparatos de tela y madera hasta los entrenadores metálicos.
 
 - **2 de junio de 1892:** nace en Villa de Cura, Estado Aragua.
-- **23 de diciembre de 1901:** con nueve años se incorpora en su pueblo natal al paso de la Fuerza Expedicionaria del Ejército Restaurador comandada por Juan Vicente Gómez.
-- **27 de enero de 1921:** ingresa como civil al primer grupo de alumnos de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">Escuela de Aviación Militar, creada por decreto del 17 de abril de 1920</a>.
-- **1921:** realiza su primer vuelo solo en un Caudron G-3 y obtiene el diploma definitivo de piloto el 20 de septiembre, con ascenso a Subteniente.
+- **23 de diciembre de 1901:** con nueve años se suma en su pueblo natal a la columna del Ejército Restaurador que comandaba Juan Vicente Gómez.
+- **27 de enero de 1921:** ingresa como civil al primer grupo de alumnos de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">Escuela de Aviación Militar, fundada el 17 de abril de 1920</a>.
+- **1921:** realiza su primer vuelo solo en un Caudron G-3 y recibe el título definitivo de piloto el 20 de septiembre, con ascenso a Subteniente.
 - **30 de julio de 1923:** asciende a Teniente tras su vuelo sobre Caracas en un Hanriot HD-1.
-- **Hacia 1924:** ante la falta de aeronaves que estuvo a punto de cerrar la Escuela, un grupo de mecánicos recompone un Caudron G-3 con piezas de varios aparatos, bautizado «La Chiva»; Rodríguez lo vuela como piloto de prueba y demostración, y el Gobierno desiste de clausurar el instituto.
-- **19 de marzo de 1927:** en una misión de vuelo entre Maracay y Villa de Cura desvía su Caudron G-3 hacia Los Teques, donde realiza varios pases sobre la casa en que se celebraba el cumpleaños de José Vicente Gómez; es reportado por el director de la Escuela, Coronel David López Henríquez, y remitido arrestado al Cuartel Sucre.
-- **22 de agosto de 1927:** tras decidir retirarse de la aviación militar y viajar a Estados Unidos, obtiene el diploma de la Curtiss School of Aviation e ingresa en una línea postal estadounidense.
+- **Hacia 1924:** ante la falta de aeronaves que casi clausura el plantel, un grupo de mecánicos recompone un Caudron G-3 con piezas de varios aparatos, bautizado «La Chiva»; Rodríguez lo vuela como piloto de prueba y demostración, y el Gobierno desiste de cerrarlo.
+- **19 de marzo de 1927:** en una misión de vuelo entre Maracay y Villa de Cura desvía su Caudron G-3 hacia Los Teques, donde realiza varios pases sobre la casa en que se celebraba el cumpleaños de José Vicente Gómez; es reportado por el Director de la Escuela, Coronel David López Henríquez, y remitido arrestado al Cuartel Sucre.
+- **22 de agosto de 1927:** tras decidir retirarse de la aviación militar y viajar a Estados Unidos, se diploma en la Curtiss School of Aviation e ingresa en una línea postal de ese país.
 - **27 de noviembre de 1928:** el Gobierno venezolano lo designa representante técnico en la conferencia de aeronáutica civil de Washington.
 - **18 de junio de 1930:** autorizado por Gómez, regresa a Venezuela y se reincorpora a la Escuela de Aviación Militar, donde aplica las técnicas aprendidas en el extranjero.
-- **1934:** con el grado de Capitán, figura entre los cinco pilotos militares fundadores de la Línea Aeropostal Venezolana.
+- **1934:** con el grado de Capitán, figura entre los militares que fundan la Línea Aeropostal Venezolana.
 - **23 de diciembre de 1935:** capitanea el hidroavión Junkers «Bolívar» para rescatar a las autoridades del Estado Zulia; en el regreso nocturno, una falla de motor provoca el choque contra unos manglares cerca de Tucacas y el incendio del aparato, del que evacúa a los pasajeros entre las llamas.
 - **30 de enero de 1936:** creado el Regimiento de Aviación N.º 1, asume el mando del Grupo de Aviación «Venezuela», su unidad táctica.
 - **1.º de octubre de 1937:** es nombrado comandante del Regimiento de Aviación N.º 1, primer oficial piloto en ocupar el cargo, y promueve la compra de aeronaves modernas en el mercado estadounidense.
@@ -84,9 +84,9 @@ Su vida recorre los primeros veinte años de la aviación venezolana, desde los 
 
 ## Consecuencias e Impacto
 
-- **Un mártir del arma naciente:** la muerte del comandante del Regimiento N.º 1, en el vuelo de prueba del avión que él mismo había gestionado, conmocionó a la aviación nacional y al Gobierno. Sus honras fúnebres fueron encabezadas por el presidente de la República, General Eleazar López Contreras, acompañado del ministro de Guerra y Marina, Coronel Isaías Medina Angarita.
+- **Un mártir del arma naciente:** la muerte del comandante del Regimiento N.º 1, en el vuelo de prueba del avión que él mismo había gestionado, conmocionó a la aviación nacional y al Gobierno. Sus honras fúnebres fueron encabezadas por el Presidente de la República, General Eleazar López Contreras, acompañado del Ministro de Guerra y Marina, Coronel Isaías Medina Angarita.
 - **El nombre de una escuela:** los fundadores de la Escuela de Aviación Civil escogieron su nombre para rendirle tributo; de aquella institución desciende el actual Centro de Instrucción de Aeronáutica Civil «May. (Av) Miguel Rodríguez», dependiente del Instituto Nacional de Aeronáutica Civil.
-- **Promociones con su nombre:** la promoción de pilotos y especialistas egresada de la Escuela de Aviación Militar el 27 de diciembre de 1942 llevó su nombre, y fue la primera promoción de esa escuela en recibir una denominación distintiva.
+- **Promociones con su nombre:** la promoción de pilotos y especialistas egresada de esa escuela el 27 de diciembre de 1942 llevó su nombre, y fue la primera en recibir una denominación distintiva.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -114,16 +114,16 @@ Fue el civil que entró en el primer curso de Maracay, el piloto que se jugó el
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> las fuentes discrepan sobre la fecha del vuelo no autorizado sobre Los Teques. El Coronel (Av) José Luis Ochoa Vargas lo sitúa el 19 de marzo de 1927 y precisa que Rodríguez fue arrestado en el Cuartel Sucre y que a continuación decidió retirarse de la aviación militar para formarse en Estados Unidos; FAV-Club lo fecha el 19 de marzo de 1925 y describe una baja por indisciplina seguida de exilio. Este texto adopta la cronología de Ochoa, coherente con el diploma de la Curtiss School of Aviation obtenido en agosto de 1927 y con la autorización de regreso al país en junio de 1930. Del mismo modo, la Escuela de Aviación Civil registra a Raúl Sierralta Osorio como su primer director, mientras que FAV-Club atribuye ese cargo al Mayor Víctor Sandoval Mendoza, por lo que el nombre se omite en el cuerpo del texto.</p>
+  <p><strong>Nota aclaratoria:</strong> las fuentes discrepan sobre la fecha del vuelo no autorizado sobre Los Teques. El Coronel (Av) José Luis Ochoa Vargas lo sitúa el 19 de marzo de 1927 y precisa que Rodríguez fue arrestado en el Cuartel Sucre y que a continuación decidió retirarse de la aviación militar para formarse en Estados Unidos; FAV-Club lo fecha el 19 de marzo de 1925 y describe una baja por indisciplina seguida de exilio. Este texto adopta la cronología de Ochoa, coherente con el diploma de la Curtiss School of Aviation obtenido en agosto de 1927 y con la autorización de regreso al país en junio de 1930. Del mismo modo, la Escuela de Aviación Civil registra a Raúl Sierralta Osorio como su primer Director, mientras que FAV-Club atribuye ese cargo al Mayor Víctor Sandoval Mendoza, por lo que el nombre se omite en el cuerpo del texto.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-16 12:39:41 CST
-- **Fuentes primarias/institucionales consultadas:** Alfonso Littuma Arízaga, «Historia Comparada de la Aviación Militar Venezolana (1920-1947)», Ediciones Históricas FAV, obra de la Dirección de Historia de la Fuerza Aérea Venezolana; Coronel (Av) José Luis Ochoa Vargas, con base en «Nuestra Aviación 1920-1970» del Teniente Coronel (Av) Guillermo Pacanins Acevedo y en «Mis apuntes sobre la aviación venezolana» de Florencio Gómez Núñez
-- **Fuentes secundarias de contraste:** Centro de Instrucción de Aeronáutica Civil, FAV-Club
-- **Discrepancias resueltas:** la fecha del vuelo sobre Los Teques difiere entre fuentes publicadas, situada el 19 de marzo de 1927 por Ochoa y el 19 de marzo de 1925 por FAV-Club; se adopta la primera por su coherencia con la cronología posterior documentada y se explicita la divergencia en nota aclaratoria. El primer director de la Escuela de Aviación Civil figura como Raúl Sierralta Osorio en el CIAC y como Víctor Sandoval Mendoza en FAV-Club, por lo que se omite el nombre
+- **Timestamp de verificación:** 2026-10-01 15:58:25 CST
+- **Fuentes primarias/institucionales consultadas:** Littuma Arízaga, «Historia Comparada de la Aviación Militar Venezolana» (Ediciones Históricas FAV); Coronel (Av) José Luis Ochoa Vargas.
+- **Fuentes secundarias de contraste:** Centro de Instrucción de Aeronáutica Civil; FAV-Club.
+- **Discrepancias resueltas:** fecha del vuelo sobre Los Teques (19 de marzo de 1927 según Ochoa frente a 1925 según FAV-Club; se adopta 1927); primer Director de la Escuela de Aviación Civil (Sierralta Osorio frente a Sandoval Mendoza; se omite). Criterios en la nota aclaratoria.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

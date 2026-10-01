@@ -17,7 +17,7 @@ image: 1895-12-21-nacimiento-donald-hudson.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>Donald Hudson nació el 21 de diciembre de 1895 en Topeka, Kansas y se convirtió en as estadounidense de la Primera Guerra Mundial con 6 victorias confirmadas en el 27th Aero Squadron. En 1919 llegó a Bolivia con su Curtiss Wasp, realizando el primer vuelo oficial del país y batiendo récords de altitud sobre La Paz. Su legado lo consagra como pionero de la aviación sudamericana.</p>
+<p>Nacido en Topeka (Kansas) el 21 de diciembre de 1895, Donald Hudson se convirtió en as estadounidense de la Primera Guerra Mundial con 6 victorias confirmadas en el 27th Aero Squadron. En 1919 llegó a Bolivia con su Curtiss Wasp, realizando el primer vuelo oficial del país y batiendo récords de altitud sobre La Paz. Su legado lo consagra como pionero de la aviación sudamericana.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Datos verificados del evento
@@ -51,7 +51,7 @@ Hudson fue visto como símbolo de progreso y modernidad, inspirando a los primer
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Consecuencias e Impacto
-Su experiencia internacional permitió a Bolivia dar un salto cualitativo en aviación, integrando prácticas modernas y demostrando la viabilidad de vuelos en condiciones extremas.
+Su experiencia internacional permitió a Bolivia dar un salto cualitativo en aviación, integrando prácticas modernas y probando que podía volarse a gran altura sobre los Andes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
@@ -75,7 +75,7 @@ Donald Hudson es recordado como as de la Gran Guerra y pionero de la aviación a
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 10:25:07 CST
+- **Timestamp de verificación:** 2026-10-01 15:58:31 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia EN/ES, The Aerodrome, Historias Bolivia   
 - **Discrepancias resueltas:** Número de victorias aéreas en la Primera Guerra Mundial y atribución del primer vuelo en Bolivia  
 - **Nivel de confianza:** Alto  

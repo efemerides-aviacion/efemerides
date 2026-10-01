@@ -22,7 +22,7 @@ redirect_from:
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 6 de enero de 1897 nació en Altagracia de Orituco, estado Guárico, Manuel Simón Ríos Hernández. Quedó huérfano siendo niño, lo recogió un sacerdote que lo llevó a Caracas, y ese acto de caridad acabó conduciéndolo a la Academia Militar y, de allí, a la primera promoción de la Escuela de Aviación Militar de Maracay.</p>
-<p>El 15 de abril de 1921 se convirtió en el primer venezolano que voló solo sobre el cielo de su país. Fue instructor de quienes vinieron después, participó en la primera misión de combate de la aviación venezolana y murió en un accidente en el lago de Valencia el 24 de abril de 1931, a los treinta y cuatro años. Llevan su nombre una base aérea, una plaza en su pueblo natal y el plan de estudios de los futuros oficiales aviadores.</p>
+<p>El 15 de abril de 1921 se convirtió en el primer venezolano que voló sin compañía por el cielo de su país. Fue instructor de quienes vinieron después, participó en la primera misión de combate de la aviación venezolana y murió en un accidente en el lago de Valencia el 24 de abril de 1931, a los treinta y cuatro años. Llevan su nombre una base aérea, una plaza en su pueblo natal y el plan de estudios de los futuros oficiales aviadores.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -49,7 +49,7 @@ Ríos pertenece a esa clase de figuras fundacionales cuya biografía documentada
 
 ### Entorno social
 
-Venezuela vivía bajo el régimen de Juan Vicente Gómez, presidente entre 1908 y 1935, empeñado en construir un ejército profesional que sustituyera a los caudillos regionales. La aviación encajaba en ese proyecto: era moderna, vistosa y servía para vigilar un territorio inmenso y mal comunicado.
+Venezuela vivía bajo el régimen de Juan Vicente Gómez, en el poder entre 1908 y 1935, empeñado en construir un ejército profesional que sustituyera a los caudillos regionales. La aviación encajaba en ese proyecto: era moderna, vistosa y servía para vigilar un territorio inmenso y mal comunicado.
 
 El origen de Ríos contrasta con el de la mayoría de los oficiales de su tiempo. No procedía de una familia acomodada de Caracas ni de una estirpe militar. Su padre era un maestro albañil contratado en las obras de una hacienda de Altagracia; quedó huérfano a corta edad y fue un sacerdote quien se hizo cargo de él y lo llevó a la capital a estudiar. El cronista municipal de Altagracia de Orituco, Carlos A. López Garcés, dejó constancia de algo revelador: **el acta de nacimiento no aparece** en los libros del Registro Civil del municipio, y tampoco existe partida de bautismo en la parroquia entre 1896 y 1903. La fecha del 6 de enero de 1897 procede de su biógrafo Francisco Alcides Jaime, que no indicó de dónde la tomó.
 
@@ -75,9 +75,9 @@ La secuencia recorre desde su nacimiento hasta los homenajes póstumos.
 - **17 de abril de 1920:** se crea la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1920/04/17/fundacion-escuela-aviacion-militar-venezuela.html" style="color: #315fea; text-decoration: none;">Escuela de Aviación Militar</a> en Maracay.
 - **22 de mayo de 1920:** llega la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1920/05/22/mision-instructores-franceses-eam-venezolana.html" style="color: #315fea; text-decoration: none;">misión de instructores franceses</a> que formará a la primera promoción.
 - **27 de enero de 1921:** ingresa en el curso de pilotaje procedente del Ejército, con el grado de Subteniente. Comparte aula con los civiles Miguel Rodríguez, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/05/15/nacimiento-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Vicente Landaeta Gil</a> y Prisco Heuer Lares.
-- **15 de abril de 1921:** realiza el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1921/04/15/primer-vuelo-manuel-rios.html" style="color: #315fea; text-decoration: none;">primer vuelo en solitario de un venezolano</a> en el cielo nacional, a bordo de un Caudron G.3.
-- **24 de junio de 1921:** sobrevuela el Campo de Carabobo en el centenario de la batalla, primer piloto venezolano en hacerlo.
-- **20 de septiembre de 1921:** obtiene el Diploma de Piloto Aviador tras el vuelo Maracay-Villa de Cura-Maracay, junto a Francisco Leonardi, Julio Fortoul y Miguel Rodríguez.
+- **15 de abril de 1921:** realiza el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1921/04/15/primer-vuelo-manuel-rios.html" style="color: #315fea; text-decoration: none;">primer vuelo solo de un venezolano</a> por el cielo nacional, a bordo de un Caudron G.3.
+- **24 de junio de 1921:** sobrevuela el Campo de Carabobo al cumplirse un siglo de la batalla, primer piloto venezolano en hacerlo.
+- **20 de septiembre de 1921:** obtiene el Diploma de Piloto Aviador tras la ruta Maracay-Villa de Cura-Maracay, junto a Francisco Leonardi, Julio Fortoul y Miguel Rodríguez.
 - **19 de diciembre de 1923:** participa en una exhibición aérea por el aniversario de la Causa Rehabilitadora.
 - **Marzo de 1924:** asciende a Teniente.
 - **28 de octubre de 1924:** es designado para integrar la misión venezolana que viaja al Perú por el centenario de la batalla de Ayacucho. Pilota un avión peruano en la parada aérea de Lima, con lo que se convierte en el primer venezolano que vuela en otro país, y recibe la Orden del Sol del Perú. En la misma delegación viaja el Teniente <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1895/04/21/nacimiento-carlos-meyer-baldo.html" style="color: #315fea; text-decoration: none;">Carlos Meyer Baldó</a>.
@@ -104,9 +104,9 @@ La secuencia recorre desde su nacimiento hasta los homenajes póstumos.
 
 ## Legado
 
-Ciento veintinueve años después de su nacimiento, el nombre de Manuel Ríos sigue presente en la aviación venezolana de una forma que pocos pioneros alcanzan.
+A ciento veintinueve años de su nacimiento, el nombre de Manuel Ríos sigue presente en la aviación venezolana de una forma que pocos pioneros alcanzan.
 
-La **Base Aérea Capitán Manuel Ríos**, entre Chaguaramas y El Sombrero, en el estado Guárico, lleva su nombre. También una **plaza** en el sector La Playera de Altagracia de Orituco, con un monumento que incorpora un ejemplar de avión. La **promoción** de oficiales egresada el 18 de diciembre de 1943 se bautizó con su nombre, y desde 1976 el **plan de estudios** que rige la formación de los futuros oficiales aviadores en la Academia Militar de la Aviación se denomina en su honor.
+La **Base Aérea Capitán Manuel Ríos**, entre Chaguaramas y El Sombrero, en el estado Guárico, lleva su nombre. También una **plaza** en el sector La Playera de Altagracia de Orituco, con un monumento que incorpora un ejemplar de avión. La **promoción** de oficiales egresada el 18 de diciembre de 1943 se bautizó con su nombre, y desde 1976 el **plan de estudios** con que se forma a los oficiales aviadores de la Academia Militar de la Aviación lleva su nombre.
 
 Hay algo elocuente en que el hombre cuya partida de nacimiento nadie ha logrado encontrar acabara dando nombre al documento que ordena la formación de todos los pilotos militares venezolanos.
 
@@ -137,10 +137,10 @@ Hay algo elocuente en que el hombre cuya partida de nacimiento nadie ha logrado 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias/institucionales consultadas:** crónica municipal de Altagracia de Orituco por Carlos A. López Garcés, con verificación directa de los libros del Registro Civil y de la parroquia Nuestra Señora de Altagracia; transcripción del oficio del Director de la Escuela de Aviación Militar comunicando el primer vuelo en solitario.
-- **Fuentes secundarias de contraste:** Otilca Radio; Web de Alta; Personajes del Orituco; cronología de la Aviación Militar Venezolana.
-- **Discrepancias resueltas:** se sustituye la fórmula «primer aviador venezolano», que colisionaba con la primacía de Luis Camilo Ramírez Rivas, por la formulación precisa «primer venezolano en volar solo en el cielo nacional», conforme al conjunto de las fuentes consultadas, que emplean sistemáticamente esa distinción. Se hace constar la divergencia entre el 14 y el 15 de abril de 1921 como fecha del primer vuelo, y la ausencia de registro civil y eclesiástico que respalde la fecha de nacimiento.
-- **Datos no confirmados:** los nombres de sus padres; la identidad del sacerdote que se hizo cargo de él; la fecha exacta de su egreso de la Academia Militar; el modelo del avión siniestrado en 1931, que las fuentes citan como Farman 190 con reservas; la fecha exacta de la fotografía, acotada entre marzo de 1924 y junio de 1928 por el grado que muestran las hombreras.
+- **Timestamp de verificación:** 2026-10-01 15:58:33 CST
+- **Fuentes primarias/institucionales consultadas:** crónica municipal de Altagracia de Orituco (López Garcés, con verificación del Registro Civil y libros parroquiales); oficio del Director de la Escuela de Aviación Militar.
+- **Fuentes secundarias de contraste:** Otilca Radio; Web de Alta; Personajes del Orituco.
+- **Discrepancias resueltas:** fórmula «primer venezolano en volar solo en el cielo nacional» (colisión con Ramírez Rivas); fecha del primer vuelo (se adopta el 15 de abril por la libreta de vuelo); ausencia de registro civil y eclesiástico del nacimiento.
+- **Datos no confirmados:** nombres de sus padres; identidad del sacerdote; fecha de egreso de la Academia Militar; modelo del avión siniestrado en 1931 (Farman 190, con reservas); fecha exacta de la fotografía.
 - **Nivel de confianza:** Medio-alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

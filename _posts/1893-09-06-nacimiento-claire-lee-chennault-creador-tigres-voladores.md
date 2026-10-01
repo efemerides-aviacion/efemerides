@@ -11,8 +11,8 @@ image: 1893-09-06-nacimiento-claire-lee-chennault-creador-tigres-voladores.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1893-09-06-nacimiento-claire-lee-chennault-creador-tigres-voladores.webp" alt="Retrato de Claire Lee Chennault con el uniforme de Mayor General de las Fuerzas Aéreas del Ejército de los Estados Unidos">
-  <figcaption class="post-caption">Claire Lee Chennault, retrato oficial como Mayor General de las Fuerzas Aéreas del Ejército de los Estados Unidos, durante la Segunda Guerra Mundial. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Claire_L._Chennault.jpg" style="color: #315fea; text-decoration: none;">Departamento de Guerra de los Estados Unidos / Wikimedia Commons</a>.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1893-09-06-nacimiento-claire-lee-chennault-creador-tigres-voladores.webp" alt="Retrato de Claire Lee Chennault con el uniforme de Mayor General de las Fuerzas Aéreas del Ejército estadounidense">
+  <figcaption class="post-caption">Claire Lee Chennault, retrato oficial como Mayor General de las Fuerzas Aéreas del Ejército estadounidense, durante la Segunda Guerra Mundial. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Claire_L._Chennault.jpg" style="color: #315fea; text-decoration: none;">Departamento de Guerra de los Estados Unidos / Wikimedia Commons</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -20,7 +20,7 @@ image: 1893-09-06-nacimiento-claire-lee-chennault-creador-tigres-voladores.webp
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 6 de septiembre de 1893 nació en Commerce, Texas, Claire Lee Chennault, el oficial y estratega estadounidense que creó los Tigres Voladores. Retirado del ejército en 1937 por una sordera progresiva y por sus desacuerdos con la doctrina oficial, se convirtió en asesor de Chiang Kai-shek y reorganizó la aviación de combate china. En 1941 levantó el American Volunteer Group (AVG), conocido como los Tigres Voladores, el grupo de pilotos voluntarios que defendió China de la aviación japonesa y operó en el teatro de China, Birmania e India.</p>
-<p>El AVG entró en combate el 20 de diciembre de 1941, trece días después del ataque a Pearl Harbor, y en sus siete meses de vida destruyó 296 aeronaves japonesas según la cifra del Museo Nacional de la Fuerza Aérea de los Estados Unidos. Cuando el grupo se integró en las Fuerzas Aéreas del Ejército, Chennault volvió al servicio activo y comandó la 14.ª Fuerza Aérea en China hasta el final de la guerra.</p>
+<p>El AVG entró en combate el 20 de diciembre de 1941, trece días después del ataque a Pearl Harbor, y en sus siete meses de vida destruyó 296 aeronaves japonesas según la cifra del Museo Nacional de la Fuerza Aérea de los Estados Unidos. Cuando el grupo se integró en las Fuerzas Aéreas del Ejército estadounidense, Chennault volvió al servicio activo y comandó la 14.ª Fuerza Aérea en China hasta el final de la guerra.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -31,7 +31,7 @@ image: 1893-09-06-nacimiento-claire-lee-chennault-creador-tigres-voladores.webp
 - **Lugar:** Commerce, Texas, Estados Unidos.
 - **Fallecimiento:** 27 de julio de 1958, Nueva Orleans, Luisiana, Estados Unidos.
 - **Nacionalidad:** estadounidense.
-- **Servicio:** Servicio Aéreo del Ejército de los Estados Unidos (1918–1926); Cuerpo Aéreo del Ejército (1926–1937); asesor y director de escuela de vuelo de la Fuerza Aérea China (1937–1942); Fuerzas Aéreas del Ejército de los Estados Unidos (1942–1945).
+- **Servicio:** Servicio Aéreo del Ejército de los Estados Unidos (1918–1926); Cuerpo Aéreo del Ejército (1926–1937); asesor y director de escuela de vuelo de la Fuerza Aérea China (1937–1942); Fuerzas Aéreas del Ejército estadounidense (1942–1945).
 - **Mandos:** 19.º Escuadrón de Caza en Hawái; 1.er Grupo de Voluntarios Estadounidenses (AVG, «Tigres Voladores», 1941–1942); China Air Task Force (1942–1943); 14.ª Fuerza Aérea (1943–1945).
 - **Aeronaves emblemáticas:** Curtiss P-40 (Tomahawk B/C y, desde 1942, Kittyhawk E), el caza con el que operó el AVG.
 - **Rango:** Mayor General al retirarse en 1945; grado honorífico de Teniente General en julio de 1958.
@@ -49,11 +49,11 @@ Nacido en el sur rural de la posguerra de Secesión, hijo de un granjero, Chenna
 
 ### Entorno tecnológico
 
-En los años treinta, el Cuerpo Aéreo del Ejército de los Estados Unidos apostaba por el bombardeo de gran altitud. Chennault defendía la caza de persecución: interceptar al bombardero antes de que llegara a su objetivo. Su equipo acrobático «Three Men on the Flying Trapeze» demostraba las maniobras de los cazas en las carreras aéreas nacionales, y su tratado de 1935 recogía esa doctrina. La sordera acumulada por los años de cabina abierta y el desacuerdo con sus superiores lo llevaron al retiro en 1937.
+En los años treinta, el Cuerpo Aéreo del Ejército estadounidense apostaba por el bombardeo de gran altitud. Chennault defendía la caza de persecución: interceptar al bombardero antes de que llegara a su objetivo. Su equipo acrobático «Three Men on the Flying Trapeze» demostraba las maniobras de los cazas en las carreras aéreas nacionales, y su tratado de 1935 recogía esa doctrina. La sordera acumulada por los años de cabina abierta y el desacuerdo con sus superiores lo llevaron al retiro en 1937.
 
 ### Entorno cultural
 
-En 1937 China estaba en guerra con Japón y su aviación había quedado diezmada. Chennault, contratado como asesor de Chiang Kai-shek, se instaló en Kunming y reconstruyó la escuela de pilotos de la Fuerza Aérea China siguiendo el modelo estadounidense. Los voluntarios que reunió en 1941 lo llamaban «el Viejo», por su edad y su rostro curtido por los años de cabina abierta. La prensa bautizó al grupo como los Tigres Voladores tras sus primeras victorias, y el morro de tiburón pintado en los P-40 se convirtió en uno de los emblemas más reconocibles de la guerra.
+En 1937 China estaba en guerra con Japón y su aviación había quedado diezmada. Chennault, contratado como asesor de Chiang Kai-shek, se instaló en Kunming y reconstruyó la escuela de pilotos de la Fuerza Aérea China siguiendo el modelo estadounidense. Los voluntarios que reunió en 1941 lo llamaban «el Viejo», por su edad y su rostro curtido por los años de cabina abierta. La prensa bautizó al grupo como los Tigres Voladores tras sus primeras victorias, y el morro de tiburón pintado en los P-40 pasó a ser una de las imágenes más reconocibles de la guerra.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -79,7 +79,7 @@ En 1937 China estaba en guerra con Japón y su aviación había quedado diezmada
 - **Julio–octubre de 1945:** abandona el mando y regresa a Estados Unidos; se retira el 31 de octubre de 1945.
 - **1946:** regresa a China y organiza la Civil Air Transport (CAT), aerolínea que apoyó al gobierno nacionalista y de la que derivó la Air America.
 - **18 de julio de 1958:** la Fuerza Aérea de los Estados Unidos le otorga el grado honorífico de Teniente General; nueve días después, el 27 de julio, fallece en Nueva Orleans. Es sepultado en el Cementerio Nacional de Arlington.
-- **1972:** ingreso en el National Aviation Hall of Fame.
+- **1972:** ingresa en el salón de la fama de la aviación estadounidense.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -93,7 +93,7 @@ El grupo fue también la semilla de la fuerza aérea regular en el teatro: al di
 
 ## Legado
 
-Ciento treinta y tres años después de su nacimiento, el nombre de Chennault sigue unido al de los Tigres Voladores y a la imagen del P-40 de morro de tiburón, uno de los emblemas más perdurables de la aviación de la Segunda Guerra Mundial. Su defensa del caza, marginada en los años treinta, se impuso en la práctica del combate aéreo del conflicto.
+A ciento treinta y tres años del nacimiento de Chennault, su nombre sigue unido al de los Tigres Voladores y a la imagen del P-40 de morro de tiburón, uno de los emblemas más perdurables de la aviación de la Segunda Guerra Mundial. Su defensa del caza, marginada en los años treinta, se impuso en la práctica del combate aéreo del conflicto.
 
 Su memoria vive en varios homenajes: la base que llevó su nombre en Lake Charles, Luisiana (hoy Chennault International Airport), el museo de aviación Chennault en Monroe, Luisiana, monumentos en Taipei y Baton Rouge, y los marcadores históricos de su Commerce natal, entre ellos, desde 2015, el primer marcador estatal bilingüe en chino de Texas. Fue consagrado en el National Aviation Hall of Fame en 1972 y reposa en el Cementerio Nacional de Arlington.
 
@@ -125,9 +125,9 @@ Su memoria vive en varios homenajes: la base que llevó su nombre en Lake Charle
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
+- **Timestamp de verificación:** 2026-10-01 15:58:27 CST
 - **Fuentes primarias/institucionales consultadas:** Fuerza Aérea de los Estados Unidos (biografía oficial); National Museum of the United States Air Force (fichas «Maj. Gen. Claire Chennault» y «14th Air Force in China»); Texas State Historical Association (Handbook of Texas); National Aviation Hall of Fame
 - **Fuentes secundarias de contraste:** Encyclopaedia Britannica; Wikipedia (artículos «Claire Lee Chennault» y «Flying Tigers»); Air &amp; Space Forces Magazine
-- **Discrepancias resueltas:** año de nacimiento, 1893 frente a 1890; cómputo de los días entre Pearl Harbor y el primer combate del AVG, trece frente a doce según el huso horario; derribos del AVG, 296 según el Museo Nacional de la Fuerza Aérea frente a 297 según otras fuentes.
+- **Discrepancias resueltas:** año de nacimiento (1893 frente a 1890); días entre Pearl Harbor y el primer combate del AVG (trece frente a doce, por huso horario); derribos del AVG (296 frente a 297).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].
