@@ -6,83 +6,88 @@ categories: [evento]
 author: Enrique Pomares
 pais: España
 operator: N/A
-excerpt: "El 5 de septiembre de 1909, el valenciano Juan Olivert Serra se elevó unos decímetros sobre el campo de maniobras de Paterna (Valencia) a los mandos del biplano Brunet-Olivert, el primer aeroplano motorizado que voló en España."
+excerpt: "El ensayo de Juan Olivert en Paterna, con el biplano construido por Gaspar Brunet, se conmemora el 5 de septiembre de 1909. Su breve elevación figura como inicio del vuelo motorizado español, aunque las fuentes discrepan en la fecha alternativa y en la calificación del recorrido."
 image: 1909-09-05-juan-olivert-primer-vuelo-motorizado-espana.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1909-09-05-juan-olivert-primer-vuelo-motorizado-espana.webp" alt="Réplica del biplano Brunet-Olivert de 1909 expuesta en un museo">
-  <figcaption class="post-caption">Réplica del aeroplano Brunet-Olivert, con el que Juan Olivert Serra realizó el 5 de septiembre de 1909, en Paterna (Valencia), el primer vuelo motorizado de España. La réplica fue construida en 2003 y se expone en el Museu de les Ciències Príncipe Felipe de Valencia. Foto: <a href="https://commons.wikimedia.org/wiki/File:Olivert-Brunet_aircraft_(1909)_20100107_760.jpeg" style="color: #315fea; text-decoration: none;">Antramir, vía Wikimedia Commons</a>, CC BY-SA 3.0.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1909-09-05-juan-olivert-primer-vuelo-motorizado-espana.webp" alt="Réplica del Brunet-Olivert suspendida en el interior de un museo">
+  <figcaption class="post-caption">Réplica del Brunet-Olivert expuesta en el Museu de les Ciències Príncipe Felipe, en Valencia, construida en 2003 según la ficha de <a href="https://commons.wikimedia.org/wiki/File:Olivert-Brunet_aircraft_(1909)_20100107_760.jpeg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>. Foto atribuida a Antramir, 7 de enero de 2010; <a href="https://creativecommons.org/licenses/by-sa/3.0/" style="color: #315fea; text-decoration: none;">CC BY-SA 3.0</a>. Adaptación de encuadre y formato de la fotografía original.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 5 de septiembre de 1909, el estudiante valenciano de ingeniería industrial Juan Olivert Serra se alzó del suelo a bordo del biplano Brunet-Olivert en el campo de maniobras del Regimiento de Artillería Montado N.º 11, en Paterna (Valencia). Fue un salto breve —unos cuarenta metros a escasos decímetros de altura, según las crónicas— que terminó con el aparato caído en una acequia, pero que está considerado el primer vuelo de un aeroplano motorizado realizado en España.</p>
-<p>El biplano había sido diseñado por el ingeniero Gaspar Brunet Viadera, profesor de Olivert, construido en Barcelona y completado con un motor Anzani de 25 CV financiado por el Ayuntamiento de Valencia tras su exhibición en la Exposición Regional Valenciana de 1909. La proeza, ejecutada por un pionero civil ajeno a las estructuras militares, abrió la historia de la aviación motorizada en el país.</p>
+<p>La prueba del Brunet-Olivert en Paterna se recuerda como un episodio fundacional de la aviación española. Juan Olivert pilotó el aparato durante un recorrido muy corto, habitualmente fechado el 5 de septiembre de 1909, que terminó con daños al tocar tierra.</p>
+<p>El reconocimiento conmemorativo no elimina las reservas documentales: circula una datación en noviembre, las longitudes varían y una guía municipal reciente evita equiparar el ensayo a un vuelo completo. El relato conserva esas diferencias sin cambiar la fecha del calendario.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
-- **Fecha:** 5 de septiembre de 1909
-- **Lugar:** campo de maniobras del Regimiento de Artillería Montado N.º 11, Paterna (Valencia), España
-- **Protagonista:** Juan Olivert Serra (Cullera, Valencia, 1888 – Madrid, 23 de junio de 1949), estudiante de ingeniería industrial y vicepresidente de la Sección de Aviación del Círculo de Bellas Artes de Valencia
-- **Aeronave:** aeroplano Brunet-Olivert, biplano diseñado por el ingeniero industrial Gaspar Brunet Viadera y construido en los talleres Rosell i Vilalta de Barcelona
-- **Planta motriz:** motor Anzani de 25 CV con hélice, costeados por el Ayuntamiento de Valencia
-- **Vuelo:** despegue no planeado durante una prueba de rodadura; recorridos unos 40 metros en el aire a unos decímetros de altura, durante menos de un minuto
-- **Desenlace:** el aparato se precipitó contra el margen de una acequia y sufrió desperfectos considerables
-- **Condición histórica:** primer vuelo de un aeroplano motorizado en España y primera vez que un avión diseñado y construido en el país voló sobre él
+La ficha recoge las identidades y el escenario compartidos por los relatos, antes de detallar sus divergencias.
+
+- **Fecha adoptada:** 5 de septiembre de 1909, conforme a la conmemoración del centenario.
+- **Lugar:** terreno militar de Paterna, Valencia.
+- **Piloto y promotor:** Juan Olivert Serra, estudiante de ingeniería industrial procedente de Cullera.
+- **Colaborador técnico:** Gaspar Brunet Viadera, ingeniero y profesor.
+- **Máquina:** biplano Brunet-Olivert, construido en Barcelona.
+- **Carácter:** ensayo civil en un campo de maniobras; no una operación de una unidad aérea militar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-El año de 1909 fue el de la eclosión europea de la aviación: el 25 de julio, Louis Blériot cruzó el Canal de la Mancha y desató una fiebre continental por el vuelo motorizado. España seguía aquellos acontecimientos con atención creciente. En febrero, el rey Alfonso XIII visitó en Pau la escuela de Wilbur Wright, y entre enero y marzo el Coronel Vives y el Capitán Kindelán recorrieron Europa por encargo del Ejército para estudiar el potencial militar de dirigibles y aeroplanos.
+La iniciativa combina aprendizaje técnico, patrimonio particular y atención pública hacia las nuevas máquinas voladoras.
 
 ### Entorno social
 
-La opinión pública española vivía la «psicosis por volar» que describieron los periódicos del momento. Las grandes exposiciones servían de escaparate a la técnica aeronáutica, y los círculos culturales organizaban secciones de aviación que agrupaban a entusiastas y patrocinadores. Valencia era uno de los focos de esa efervescencia, con la Exposición Regional de 1909 como centro de gravedad.
+Olivert aportó recursos familiares a un proyecto que superaba el simple entretenimiento. La Exposición Regional Valenciana ofreció un escaparate para presentar el aparato y obtener apoyos. Emplear después un terreno del Ejército no convierte al piloto en militar ni permite afirmar que su trabajo careciera de cualquier colaboración institucional.
 
 ### Entorno tecnológico
 
-El aeroplano Brunet-Olivert era un biplano de configuración clásica en la estela de los pioneros franceses, con mandos y superficies de una máquina de taller más que de fábrica. Su motor Anzani de 25 CV pertenecía a la misma generación de propulsores ligeros que habían hecho posibles los saltos pioneros europeos. Construirlo exigió combinar el diseño de un ingeniero, los talleres barceloneses de Rosell i Vilalta y el patrimonio personal de Olivert.
+Los talleres Rosell i Vilalta montaron el diseño, al que se incorporó un motor Anzani de unos 25 caballos según la bibliografía del aeroplano. La prueba debía revelar si la estructura, la potencia disponible y el manejo permitían separarse del suelo. Un salto a baja altura podía mostrar sustentación sin acreditar todavía la capacidad de mantener circuitos y aterrizar de forma repetible.
+
+La guía didáctica del Ayuntamiento de Madrid atribuye el diseño a Brunet. Esa identificación se adopta con reserva, porque la crónica de EFE del centenario distribuye los papeles de modo diferente, dando mayor protagonismo de diseñador al alumno.
 
 ### Entorno cultural
 
-En su Cullera natal, la afición de Olivert por el aire le había valido desde niño el apodo de «el Volaoret». La hazaña de un estudiante de ingeniería industrial que construía y pilotaba su propio aparato, sin respaldo militar ni escuela de pilotos, encarnaba el tipo de pionerismo individual que la prensa de época convirtió en relato popular y que la memoria valenciana ha conservado hasta hoy.
+El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1909/07/25/louis-bleriot-cruce-canal-mancha.html" style="color: #315fea; text-decoration: none;">cruce de Blériot entre Francia e Inglaterra</a> había dado una dimensión internacional a los desafíos aeronáuticos de aquel verano. En Valencia, la imagen del aficionado que comprometía recursos propios se incorporó a una memoria local del progreso. El apodo «el Volaoret» expresa esa asociación del personaje con su aspiración a volar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **1888:** Nace Juan Olivert Serra en Cullera (Valencia), en el seno de una familia de propietarios agrícolas acomodada.
-- **1908–1909:** Estudiante de ingeniería industrial en Barcelona, Olivert conoce a su profesor Gaspar Brunet Viadera e invierte parte de su patrimonio en la construcción de un aeroplano biplano diseñado por este, montado en los talleres de Rosell i Vilalta.
-- **1909:** El aparato, aún sin motorizar, se exhibe en el Pabellón de Industrias de la Exposición Regional Valenciana. El Ayuntamiento de Valencia patrocina la compra del motor Anzani de 25 CV y de la hélice que lo completan.
-- **25 de julio de 1909:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1909/07/25/louis-bleriot-cruce-canal-mancha.html" style="color: #315fea; text-decoration: none;">Louis Blériot cruza el Canal de la Mancha</a> y enciende la fiebre aviadora europea del verano en que Olivert prepara su máquina.
-- **5 de septiembre de 1909:** En el campo de maniobras de Paterna, con una numerosa concurrencia de público, Olivert inicia las pruebas. En uno de los recorridos de rodadura el aparato se alzó, voló unos 40 metros a escasos decímetros del suelo y, al caer, chocó contra el margen de una acequia y quedó seriamente dañado. La prensa valenciana celebra la proeza como el primer vuelo motorizado realizado en España.
-- **30 de agosto de 1910:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1885/09/04/nacimiento-benito-loygorri-primer-espanol-licencia-piloto.html" style="color: #315fea; text-decoration: none;">Benito Loygorri obtiene el título de piloto aviador n.º 1 de España</a>, primer reconocimiento oficial de la FAI a un piloto español, apenas un año después del salto de Olivert.
-- **1910–1911:** El Ministerio de la Guerra compra los primeros aeroplanos de origen francés y nace oficialmente la aviación militar española; en febrero de 1911 comienza a operar el aeródromo de Cuatro Vientos.
-- **17 de diciembre de 1913:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1913/12/17/primer-bombardeo-aereo-espana-marruecos.html" style="color: #315fea; text-decoration: none;">Los aeroplanos españoles realizan el primer bombardeo aéreo de su historia en Marruecos</a>, cuatro años después del salto de Paterna.
-- **23 de junio de 1949:** Fallece en Madrid Juan Olivert Serra.
-- **2009:** El centenario del vuelo se conmemora con actos oficiales y con una emisión filatélica de Correos.
+La secuencia distingue la preparación, el ensayo y su recuperación conmemorativa, sin convertir los avances posteriores en consecuencias automáticas de un único salto.
+
+- **Preparación del proyecto:** durante sus estudios en Barcelona, Olivert colabora con su profesor y financia la construcción del aparato.
+- **Exhibición valenciana:** la máquina se presenta al público antes de disponer del conjunto propulsor definitivo; el Ayuntamiento de Valencia participa en la financiación de motor y hélice.
+- **Prueba en Paterna:** el biplano se eleva brevemente y termina en una zanja o acequia, con desperfectos. Los relatos permiten hablar de algunas decenas de metros, no de una distancia medida con precisión uniforme.
+- **1910:** la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1885/09/04/nacimiento-benito-loygorri-primer-espanol-licencia-piloto.html" style="color: #315fea; text-decoration: none;">licencia obtenida por Benito Loygorri</a> corresponde a otra cuestión: la acreditación de un piloto, distinta de la prioridad de un ensayo anterior.
+- **Etapa posterior:** el empleo de aeroplanos por el Ejército abre un desarrollo operativo propio; el episodio tratado en <a href="https://efemerides-aviacion.github.io/efemerides/evento/1913/12/17/primer-bombardeo-aereo-espana-marruecos.html" style="color: #315fea; text-decoration: none;">la entrada sobre bombardeos en Marruecos</a> pertenece a ese marco, no a una prolongación demostrada del proyecto de Olivert.
+- **4 de septiembre de 2009:** los entonces Príncipes de Asturias participan en Paterna en la apertura de los actos del centenario, recogida por EFE.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Nacimiento de la aviación motorizada española:** el salto de Paterna demostró que un aeroplano construido en el país podía volar sobre él, un hito que la historiografía aeronáutica española reconoce como el punto de partida de la aviación de motor nacional.
-- **Impulso institucional:** en los dos años siguientes el Ministerio de la Guerra adquirió los primeros aeroplanos y creó oficialmente la aviación militar, con el aeródromo de Cuatro Vientos en operaciones desde febrero de 1911.
-- **Proyección del pionerismo civil:** la hazaña de Olivert, ajena a la esfera militar, consolidó el papel de los pioneros civiles y de los círculos de aficionados en los orígenes de la aeronáutica española.
-- **Reconocimiento de época:** la prensa valenciana recogió el vuelo como una proeza y asoció el nombre de Olivert al nacimiento de la aviación en el país, reputación que los actos del centenario de 2009 confirmaron.
+El resultado mostró tanto una posibilidad técnica como los límites de una iniciativa experimental.
+
+- **Sustentación y control:** separarse momentáneamente del terreno no equivalía a disponer de una aeronave lista para un uso continuado.
+- **Fragilidad del proyecto:** los daños dificultaron la continuidad; no hay base para describir una explotación comercial o militar nacida inmediatamente de aquella jornada.
+- **Reconocimiento público:** la memoria regional incorporó el episodio a la historia de la técnica, aunque la terminología de «primer vuelo» dependa del criterio utilizado para definirlo.
+
+La importancia del pionero no requiere establecer una causalidad directa entre su ensayo y todas las adquisiciones militares de los años siguientes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El salto de Paterna figura hoy en toda la cronología de la aviación española como el primer vuelo motorizado del país. Del aeroplano Brunet-Olivert se conservan dos réplicas a escala real: una en el Museo de Aeronáutica y Astronáutica del Ministerio de Defensa, en Cuatro Vientos (Madrid), y otra en el Museu de les Ciències Príncipe Felipe de Valencia, construida en 2003. En Cullera, la memoria de «el Volaoret» ha dado nombre a calles y equipamientos, y el centenario de 2009 fue celebrado con emisiones filatélicas y actos institucionales. Ciento diecisiete años después, aquella elevación de unos decímetros sobre un campo de artillería valenciano sigue siendo el acto fundacional de la aviación motorizada en España.
+Las reproducciones del aparato conservan soluciones constructivas que una fotografía difícilmente permite entender. La pieza de Valencia, mostrada en la imagen, y la presencia del Brunet-Olivert en el recorrido didáctico de Cuatro Vientos hacen posible estudiar la experimentación española con objetos a escala real.
+
+La conmemoración y la crítica documental pueden convivir. Recordar un antecedente no obliga a borrar la diferencia entre un salto, un vuelo controlado prolongado y un programa regular de operaciones.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -90,28 +95,29 @@ El salto de Paterna figura hoy en toda la cronología de la aviación española 
 
 <div class="references">
   <ul>
-    <li><a href="https://web.archive.org/web/20140922082243/http://www.ejercitodelaire.mde.es/ea/pag?idDoc=848901395B96CDB5C12574480046E38B" style="color: #315fea; text-decoration: none;">Ejército del Aire — Cronología histórica 1900-1909, entrada del primer vuelo con motor en España (Paterna, Valencia)</a></li>
-    <li><a href="https://museo.abc.es/wp-content/uploads/2015/09/PASION-POR-VOLAR.pdf" style="color: #315fea; text-decoration: none;">Museo ABC — «600. Pasión por volar», catálogo con la semblanza de Juan Olivert y el vuelo del 5 de septiembre de 1909</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Juan_Olivert_Serra" style="color: #315fea; text-decoration: none;">Wikipedia (ES) — Juan Olivert Serra</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Aeroplano_Brunet-Olivert" style="color: #315fea; text-decoration: none;">Wikipedia (ES) — Aeroplano Brunet-Olivert</a></li>
-    <li><a href="https://www.elperiodicodearagon.com/cultura/entender-con-la-historia/2026/06/28/zaragoza-cielo-nacio-aeropuerto-capital-131852701.html" style="color: #315fea; text-decoration: none;">El Periódico de Aragón — «De Zaragoza al cielo: así nació el aeropuerto de la capital aragonesa» (28 de junio de 2026)</a></li>
-    <li><a href="https://www.sellosfilatelicos.com/2016/12/sello-centenario-del-primer-vuelo-motor.html" style="color: #315fea; text-decoration: none;">Sellos Filatélicos — Sello del centenario del primer vuelo a motor en España (2009)</a></li>
+    <li><a href="https://www.madrid.es/UnidadesDescentralizadas/EducacionyJuventud/ActividadesEducativasComplementarias/MadridUnLibroAbierto/BibliotecaDigital/ficheros/MuseoDeAeron%C3%A1uticayAstron%C3%A1utica.pdf" style="color: #315fea; text-decoration: none;">Ayuntamiento de Madrid — Agudín y García, guion didáctico del Museo de Aeronáutica y Astronáutica, 2026, p. 17</a></li>
+    <li><a href="https://www.apave-es.org/biblioteca/miscelaneas/index_cronograma.php" style="color: #315fea; text-decoration: none;">Asociación de Pilotos Veteranos de España — Cronograma Aeronáutico, variante del 5 de noviembre</a></li>
+    <li><a href="https://www.elconfidencial.com/espana/2009-09-04/los-principes-abren-en-paterna-los-actos-del-centenario-de-aviacion-en-espana_1065771/" style="color: #315fea; text-decoration: none;">EFE, en El Confidencial — inauguración de los actos del centenario en Paterna, 4 de septiembre de 2009</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Aeroplano_Brunet-Olivert" style="color: #315fea; text-decoration: none;">Wikipedia — Aeroplano Brunet-Olivert; cita indirecta de la Guía del Museo de 2014</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/File:Olivert-Brunet_aircraft_(1909)_20100107_760.jpeg" style="color: #315fea; text-decoration: none;">Wikimedia Commons — fotografía y licencia de la réplica valenciana</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Juan_Olivert_Serra" style="color: #315fea; text-decoration: none;">Wikipedia — Juan Olivert Serra; preparación y patrocinio del proyecto</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> La cronología oficial del Ejército del Aire registra esta efeméride con fecha de 5 de noviembre de 1909, mientras que la prensa de época, la historiografía valenciana y los actos del centenario de 2009 la sitúan el 5 de septiembre; se adopta aquí la fecha mayoritaria. Sobre la longitud del salto, la Guía del Museo de Aeronáutica y Astronáutica del Ministerio de Defensa consigna algo más de 30 metros, frente a los 40-50 metros de las crónicas periodísticas. Existe además divergencia en la autoría del diseño: la citada cronología militar lo atribuye a Olivert con construcción de Brunet, mientras la guía del museo y la historiografía especializada sostienen que el aparato fue diseñado por Gaspar Brunet Viadera, criterio que se sigue en este post.</p>
+<p><strong>Reservas documentales:</strong> APAVE fecha el episodio el 05/11/1909, frente al día de septiembre que sustenta el centenario. EFE habla de 50 m; la guía municipal de 2026 menciona unos 45 m y dudas sobre un vuelo completo. La cifra de algo más de 30 m atribuida a la guía de Defensa de 2014 se conoce aquí por la cita de Wikipedia, no por lectura directa de sus páginas 26–27. No se resuelven estas diferencias por simple mayoría.</p>
+<p><strong>Autoría:</strong> se sigue la atribución técnica de la guía municipal, sin ocultar que EFE describe el biplano como diseño de Olivert con ayuda de Brunet. La ficha enciclopédica presenta además una errata visible en el año; no se usa esa transcripción aislada para alterar el calendario.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-30 06:57:38 CST  
-- **Fuentes primarias/institucionales consultadas:** Ejército del Aire (cronología histórica 1900-1909); Ministerio de Defensa (Guía del Museo de Aeronáutica y Astronáutica, 2014, pp. 26-27); Museo ABC (catálogo «600. Pasión por volar»)  
-- **Fuentes secundarias de contraste:** Wikipedia (ES, fichas de Juan Olivert Serra y del aeroplano Brunet-Olivert); El Periódico de Aragón; Sellos Filatélicos (emisión del centenario)  
-- **Discrepancias resueltas:** Fecha del vuelo en la cronología del Ejército del Aire (05-XI-1909) frente al 5 de septiembre de las restantes fuentes; longitud del salto (algo más de 30 m según la Guía del Museo frente a 40-50 m de las crónicas); autoría del diseño (Olivert según la cronología militar, Brunet según la guía del museo y la historiografía); prioridad del vuelo frente a la reclamación posterior del piloto francés Julien Mamet (Barcelona, 1910), resuelta a favor de Olivert por la investigación histórica y el centenario de 2009  
-- **Nivel de confianza:** Alto  
-- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
+- **Timestamp de verificación:** 2026-10-02 14:43:30 CST
+- **Fuentes primarias/institucionales consultadas:** Ayuntamiento de Madrid; APAVE, cronología asociativa.
+- **Fuentes secundarias de contraste:** EFE; Wikipedia; Commons.
+- **Discrepancias resueltas:** Día alternativo, longitud, alcance del vuelo y autoría: reservas expresas, sin cierre.
+- **Nivel de confianza:** Medio
+- **Cláusula final:** «Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]».
