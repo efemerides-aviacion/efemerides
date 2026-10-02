@@ -1,130 +1,92 @@
 ---
 layout: post
-title: "7 de junio de 1912 | El primer disparo de ametralladora desde un avión"
+title: "7 de junio de 1912 | Chandler ensaya una ametralladora Lewis desde un avión"
 date: 1912-06-07
 categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Cuerpo de Señales del Ejército de los Estados Unidos
-excerpt: "El 7 de junio de 1912, el Capitán Charles deForest Chandler se convirtió en la primera persona en disparar una ametralladora desde un avión. A bordo de un Wright Model B, sobre College Park, Maryland, alcanzó un blanco en tierra con 45 de 50 disparos, demostrando la viabilidad del avión como plataforma de combate y anticipando el desarrollo de la aviación militar moderna."
+excerpt: "Charles deForest Chandler ensayó una ametralladora Lewis desde un Wright B en College Park. Las pruebas de dos jornadas tuvieron blancos, alturas y resultados distintos; la identificación del piloto presenta versiones contrapuestas."
 image: 1912-06-07-primer-avion-ametralladora-charles-de-forest-chandler.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1912-06-07-primer-avion-ametralladora-charles-de-forest-chandler.webp" alt="Charles deForest Chandler y Roy C. Kirtland en un Wright Model B">
-  <figcaption class="post-caption">Fotografía histórica de Charles deForest Chandler y Roy C. Kirtland en un Wright Model B, asociada al primer disparo de una ametralladora desde un avión en College Park, Maryland, el 7 de junio de 1912. Fuente: Early Birds of Aviation.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1912-06-07-primer-avion-ametralladora-charles-de-forest-chandler.webp" alt="Chandler con una ametralladora Lewis y Kirtland sentados en un Wright B">
+  <figcaption class="post-caption">Chandler, con la Lewis, y Kirtland en un Wright B. La misma fotografía aparece recortada en <a href="https://www.guns.com/news/2012/10/05/lewis-machine-gun" style="color: #315fea; text-decoration: none;">Guns.com</a>, con procedencia atribuida a Wikipedia. No acredita quién pilotó el ensayo inicial ni una licencia de reutilización.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El **7 de junio de 1912**, el Capitán **Charles deForest Chandler**, Jefe de la División de Aviación del Cuerpo de Señales del Ejército de los Estados Unidos, se convirtió en la primera persona en disparar una ametralladora montada en un avión. La prueba se realizó sobre **College Park, Maryland**, en un **Wright Model B** pilotado por el Teniente **Roy Carrington Kirtland**. El arma utilizada fue un prototipo de la **ametralladora Lewis**, diseñada por el Coronel **Isaac Newton Lewis**, notablemente más ligera que los modelos anteriores. Desde una altura de 30 metros, Chandler disparó contra un blanco blanco de 2 x 3 metros, alcanzándolo con **45 impactos de 50 disparos** (90% de precisión). Al día siguiente, repitió la prueba con **14 impactos de 44 disparos**. Este experimento demostró por primera vez que un avión podía portar y usar armamento automático en vuelo, sentando las bases para el desarrollo del caza armado que revolucionaría la guerra aérea durante la Primera Guerra Mundial.</p>
+<p>La cuestión del ensayo era práctica: comprobar si un arma automática podía dispararse desde una plataforma en movimiento y alcanzar un objetivo terrestre. El resultado aportó una demostración temprana de esa posibilidad, sin convertir inmediatamente al aeroplano empleado en un caza operativo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
-- **Fecha del disparo:** 7 de junio de 1912
-- **Lugar:** College Park, Maryland, Estados Unidos
-- **Protagonista:** Capitán Charles deForest Chandler (Cuerpo de Señales del Ejército de EE. UU.)
-- **Piloto:** Teniente Roy Carrington Kirtland
-- **Aeronave:** Wright Model B (biplano de observación)
-- **Arma:** Ametralladora Lewis (prototipo), calibre.30-06 Springfield
-- **Altura del disparo:** aproximadamente 30 metros (100 pies)
-- **Blanco:** 2 x 3 metros (6,5 x 9,8 pies)
-- **Resultado primera prueba:** 45 impactos de 50 disparos
-- **Resultado segunda prueba (8 de junio):** 14 impactos de 44 disparos
-- **Significado:** Primera demostración de disparo de ametralladora desde un avión
-
-### Especificaciones Técnicas
-
-A continuación se presentan las características técnicas de los dos elementos clave del experimento: la aeronave Wright Model B y la ametralladora Lewis utilizada por Chandler.
-
-### Wright Model B
-
-- **Fabricante:** Wright Company
-- **Tipo:** Biplano de observación
-- **Envergadura:** 12,2 m (40 pies)
-- **Longitud:** 9,4 m (31 pies)
-- **Motor:** Wright 4 cilindros en línea, 30-40 hp
-- **Velocidad máxima:** 65 km/h (40 mph)
-- **Tripulación:** 2 (piloto y observador)
-- **Configuración:** Tren de aterrizaje con ruedas; piloto y pasajero sentados en el borde de ataque del ala inferior
-
-### Ametralladora Lewis (prototipo de 1912)
-
-- **Calibre:**.30-06 Springfield (7,62 mm)
-- **Peso:** aproximadamente 12 kg (26 libras) sin cargador
-- **Cargador:** Tambor rotativo de 47 o 97 balas
-- **Principio:** Recarga por gas, enfriamiento por aire
-- **Cadencia de tiro:** 500-600 disparos por minuto
-- **Innovación:** Sistema de enfriamiento por aire que eliminaba la necesidad de agua, reduciendo significativamente el peso
+- **Fecha inicial:** 7 de junio de 1912.
+- **Campo de pruebas:** College Park, Maryland, Estados Unidos.
+- **Tirador:** Capitán Charles deForest Chandler.
+- **Aeronave:** Wright Model B del Ejército estadounidense.
+- **Arma:** ametralladora Lewis.
+- **Tipo de actividad:** ensayo de tiro aire–tierra, no combate.
+- **Piloto de la primera prueba:** atribución discutida en las fuentes consultadas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-El experimento de Chandler ocurrió en un momento en que la aviación militar aún estaba en su infancia y el potencial del avión como arma ofensiva no era evidente.
+La escuela militar exploraba aplicaciones nuevas para un medio cuyo empleo operativo aún estaba en desarrollo.
 
 ### Entorno social
 
-En 1912, los aviones se consideraban principalmente herramientas de reconocimiento y observación, no plataformas de combate. La mayoría de los oficiales militares eran escépticos sobre el valor táctico del avión armado. Sin embargo, pioneros como el General Billy Mitchell en Estados Unidos y Giulio Douhet en Italia ya vislumbraban el potencial ofensivo del poder aéreo. El Ejército de EE. UU. había establecido una escuela de aviación en College Park, Maryland, en 1911 (el primer aeródromo militar del país), para entrenar pilotos y experimentar con aplicaciones militares del avión.
+La aviación militar estadounidense exploraba usos de observación, fotografía y comunicaciones. Incorporar un arma planteaba otra clase de problema: el vuelo debía mantenerse mientras un segundo ocupante apuntaba y soportaba las exigencias del disparo.
+
+No se trataba de demostrar por primera vez que una persona podía llevar un arma de fuego al aire. La importancia atribuida por el museo de la Fuerza Aérea corresponde específicamente al empleo de una ametralladora desde un avión.
+
+Chandler dirigía la actividad aeronáutica de la escuela de College Park. Su experiencia incluía tanto globos como aparatos de motor. La breve noticia biográfica reproducida por Early Birds lo sitúa dentro del grupo de oficiales que organizó los comienzos de esa formación.
 
 ### Entorno tecnológico
 
-La ametralladora Lewis era una innovación clave. Diseñada por el Coronel Isaac Newton Lewis, pesaba solo 12 kg (26 libras), mucho menos que las ametralladoras Maxim contemporáneas (que superaban los 60 kg). Su cargador de tambor rotativo y su sistema de enfriamiento por aire la hacían ideal para montaje en aeronaves. El Wright Model B era un biplano de observación con una velocidad máxima de 65 km/h (40 mph), pilotado por el Teniente Kirtland.
+La disposición propulsora del Wright dejaba un sector de tiro por delante de los ocupantes sin una hélice frontal que atravesara la trayectoria. Esta configuración evitaba en aquella prueba un problema que sería central en otros diseños: coordinar los disparos con el movimiento de las palas.
+
+La Lewis era un arma relativamente ligera para su categoría. No se había integrado en un sistema completo de puntería y combate aéreo. Sostenerla y dirigirla desde un asiento abierto exigía coordinar al tirador con quien controlaba el avión.
 
 ### Entorno cultural
 
-El experimento de Chandler fue un hito en la transición del avión de "observador" a "combatiente". Aunque no condujo inmediatamente a la adopción generalizada de aviones armados (la doctrina militar aún era escéptica), anticipó la transformación decisiva que ocurriría durante la Primera Guerra Mundial (1914-1918). Solo dos años después, al estallar la guerra, pilotos franceses y alemanes ya estaban disparándose con pistolas y rifles desde sus cabinas, y en 1915 aparecerían los primeros cazas con ametralladoras sincronizadas.
+Las fotografías de oficiales experimentando con máquinas y equipos contribuían a presentar la aviación como una especialidad militar. La escuela era a la vez un lugar de aprendizaje y de demostraciones, sin que cada experiencia condujera necesariamente a una compra o a la adopción de una doctrina.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **1911:** El Ejército de EE. UU. establece una escuela de aviación en College Park, Maryland. Chandler, como Jefe de la División de Aviación, supervisa las operaciones.
-- **1911-1912:** El Coronel Isaac Newton Lewis desarrolla su ametralladora ligera, buscando un comprador en el Ejército de EE. UU. (aunque inicialmente es rechazada, sería adoptada por el Ejército británico en 1914).
-- **7 de junio de 1912, College Park, Maryland:** Chandler y Kirtland realizan la primera prueba. El Teniente Kirtland pilota el Wright Model B mientras Chandler dispara la ametralladora Lewis contra un blanco en tierra. Resultado: 45 impactos de 50 disparos.
-- **8 de junio de 1912:** Segunda prueba. Resultado: 14 impactos de 44 disparos.
-- **1914 (agosto):** Estalla la Primera Guerra Mundial. En las primeras semanas, pilotos franceses y alemanes se disparan con pistolas y rifles desde sus aviones.
-- **1915 (abril):** El piloto francés <a href="https://efemerides-aviacion.github.io/efemerides/evento/1913/09/23/roland-garros-primera-travesia-aerea-del-mediterraneo.html" style="color: #315fea; text-decoration: none;">Roland Garros</a> instala una ametralladora fija en su Morane-Saulnier L, utilizando deflectores de hélice para disparar a través del arco de la hélice.
-- **1915 (junio):** El piloto alemán Max Immelmann, en un Fokker E.I equipado con un sistema de sincronización de hélice (desarrollado por Anthony Fokker), obtiene la primera victoria aérea con un verdadero caza sincronizado.
+En la primera jornada se extendió en tierra una tela de seis por siete pies, aproximadamente 1,8 por 2,1 metros. Según el National Museum of the U.S. Air Force, la pasada se realizó a 250 pies de altura, unos 76 metros, y el blanco recibió cinco impactos. La ficha no proporciona un total de disparos que permita calcular un porcentaje para ese ensayo.
 
-### Protagonistas
+Al día siguiente se utilizó una superficie mucho más alargada, de seis por cincuenta y cuatro pies, aproximadamente 1,8 por 16,5 metros. Desde 550 pies, cerca de 168 metros, se dispararon 44 proyectiles y 14 alcanzaron el objetivo, de acuerdo con la misma fuente.
 
-Tres hombres hicieron la prueba del 7 de junio: el Capitán Chandler, Jefe de la División de Aviación, que disparó; el Teniente Kirtland, que pilotó el Wright Model B; y el Coronel Lewis, inventor del arma.
-
-### Capitán Charles deForest Chandler (1878-1939)
-
-Oficial del Cuerpo de Señales del Ejército de EE. UU., Chandler fue el primer Jefe de la División de Aviación (predecesora del Cuerpo Aéreo del Ejército de EE. UU.). Fue un pionero de la aviación militar, supervisando el desarrollo de tácticas y tecnologías aéreas. Además de este experimento, Chandler fue instrumental en la creación de la Escuela de Aviación de College Park. Se retiró como coronel en 1920.
-
-### Teniente Roy Carrington Kirtland (1874-1941)
-
-Piloto del Wright Model B durante la prueba. Kirtland fue uno de los primeros pilotos militares de EE. UU. y más tarde alcanzó el rango de Mayor General. La Base de la Fuerza Aérea Kirtland en Albuquerque, Nuevo México, lleva su nombre.
-
-### Coronel Isaac Newton Lewis (1858-1931)
-
-Inventor de la ametralladora Lewis. Aunque el Ejército de EE. UU. rechazó inicialmente su diseño, la ametralladora Lewis fue adoptada por el Ejército británico en 1914 y se convirtió en una de las armas automáticas más utilizadas por los aliados durante la Primera Guerra Mundial, tanto en tierra como en el aire.
+No son resultados directamente intercambiables. Cambiaron las dimensiones del blanco y la altura, por lo que sumar aciertos o presentar un único porcentaje eliminaría información necesaria para interpretar la prueba.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Demostración de viabilidad:** Probó que un avión podía portar y disparar armamento automático sin comprometer la estabilidad o el control.
-- **Precursor del caza armado:** El experimento anticipó el desarrollo del avión de caza, que se convertiría en un arma decisiva durante la Primera Guerra Mundial.
-- **Impulso al desarrollo de ametralladoras ligeras:** La prueba validó el concepto de ametralladoras ligeras para aviación, impulsando el desarrollo de modelos como la Lewis, la Vickers y, posteriormente, la Browning.
-- **Influencia en la doctrina militar:** Aunque el Ejército de EE. UU. no adoptó inmediatamente aviones armados, el experimento influyó en los debates doctrinales sobre el poder aéreo.
+El tiro no impidió mantener el vuelo y produjo impactos observables sobre una referencia terrestre. Ese era un resultado experimental concreto; no medía todavía la eficacia contra otra aeronave ni la posibilidad de repetirlo en condiciones de combate.
+
+El museo describe la recepción poco entusiasta del Estado Mayor, que todavía consideraba el reconocimiento como la función apropiada de los aviones. Tampoco basta la existencia de esta prueba para explicar por sí sola las decisiones posteriores de adquisición de armamento en distintos países.
+
+Los problemas de puntería, instalación, alimentación y entrenamiento siguieron exigiendo desarrollo. El paso desde una ametralladora transportada a un avión armado de servicio fue un proceso, no un cambio completado en una tarde.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El disparo de Chandler del 7 de junio de 1912 es considerado el nacimiento del avión de combate. Aunque el concepto no maduró hasta la Primera Guerra Mundial, este experimento demostró que el avión podía ser más que un simple observador: podía ser un arma.
+La imagen de los dos oficiales con el arma se convirtió en una representación reconocible del comienzo del armamento aeronáutico. Precisamente por esa difusión conviene separar la escena fotografiada de la identificación de cada participante en cada salida.
 
-- **College Park Aviation Museum:** El aeródromo de College Park, donde se realizó la prueba, es ahora el aeródromo más antiguo del mundo en funcionamiento continuo (desde 1909). Alberga un museo dedicado a la historia de la aviación, con exhibiciones sobre Chandler y el primer disparo de ametralladora.
-- **Legado de Chandler:** Charles deForest Chandler es recordado como uno de los pioneros de la aviación militar estadounidense. Su nombre está inscrito en el Salón de la Fama del Aire y el Espacio de EE. UU.
-- **La ametralladora Lewis:** Se convirtió en el arma estándar de los cazas aliados durante la Primera Guerra Mundial, utilizada en aviones como el Sopwith Camel, el S.E.5a y el Nieuport 17.
+Otras soluciones siguieron caminos distintos. La <a href="https://efemerides-aviacion.github.io/efemerides/evento/1913/09/23/roland-garros-primera-travesia-aerea-del-mediterraneo.html" style="color: #315fea; text-decoration: none;">efeméride de la travesía mediterránea de Roland Garros</a> sitúa a otro aviador de esa generación, cuya trayectoria posterior se relacionó con el tiro frontal; no describe este experimento estadounidense. La <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1890/04/06/nacimiento-anthony-herman-gerard-fokker.html" style="color: #315fea; text-decoration: none;">biografía de Anthony Fokker</a> aborda el desarrollo de mecanismos de sincronización.
+
+El valor de College Park reside en un ensayo documentado y cuantificable. Su interpretación mejora al conservar las condiciones de cada pasada y reconocer lo que la documentación disponible todavía no permite decidir.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -132,30 +94,27 @@ El disparo de Chandler del 7 de junio de 1912 es considerado el nacimiento del a
 
 <div class="references">
   <ul>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197442/machine-gun-fired-from-an-airplane/" style="color: #315fea; text-decoration: none;">National Museum of the U.S. Air Force – Machine Gun Fired from an Airplane</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/wright-model-b/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 7 June 1912</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Charles_deForest_Chandler" style="color: #315fea; text-decoration: none;">Wikipedia – Charles deForest Chandler</a></li>
-    <li><a href="https://earlyaviators.com/echandl1.htm" style="color: #315fea; text-decoration: none;">Early Birds of Aviation – Charles deForest Chandler</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Lewis_gun" style="color: #315fea; text-decoration: none;">Wikipedia – Lewis gun</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197442/machine-gun-fired-from-an-airplane/" style="color: #315fea; text-decoration: none;">National Museum of the U.S. Air Force: Machine Gun Fired from an Airplane</a></li>
+    <li><a href="https://www.kirtland.af.mil/About-Us/Kirtland-AFB-History/Base-History/" style="color: #315fea; text-decoration: none;">Kirtland Air Force Base: historia oficial y semblanza de Roy C. Kirtland</a></li>
+    <li><a href="https://dmairfield.org/people/kirtland_rc/index.html" style="color: #315fea; text-decoration: none;">Davis-Monthan Airfield Register: investigación sobre Kirtland y atribución a Milling</a></li>
+    <li><a href="https://earlyaviators.com/echandl1.htm" style="color: #315fea; text-decoration: none;">Early Birds of Aviation: Charles deForest Chandler, fotografía y noticia biográfica</a></li>
+    <li><a href="https://www.guns.com/news/2012/10/05/lewis-machine-gun" style="color: #315fea; text-decoration: none;">Kristin Alberts, Guns.com: reproducción parcial de la fotografía de Chandler y Kirtland</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Notas aclaratorias:</strong></p>
-  <p><strong>1. ¿Fue realmente el "primer" disparo desde un avión?</strong> Existen registros de disparos de armas de fuego (rifles y pistolas) desde aviones antes de 1912, pero el experimento de Chandler fue el <strong>primer disparo de una ametralladora</strong> (arma de fuego automática) desde un avión. Además, fue la primera prueba documentada, oficial y sistemática realizada por el Ejército de EE. UU. para evaluar la viabilidad del avión armado.</p>
-  <p><strong>2. La ametralladora Lewis en EE. UU. vs. Reino Unido:</strong> Aunque el Ejército de EE. UU. rechazó inicialmente la ametralladora Lewis, el gobierno británico la adoptó en 1914, y se convirtió en el arma automática estándar de la infantería y la aviación británicas durante la Primera Guerra Mundial. El Ejército de EE. UU. finalmente adoptó la Lewis (en calibre.30-06) en 1917.</p>
-  <p><strong>3. El papel de Thomas De Witt Milling:</strong> El Teniente Thomas De Witt Milling también participó en las pruebas de ametralladoras en College Park en junio de 1912, aunque no fue el protagonista del primer disparo. Milling fue uno de los primeros pilotos militares de EE. UU. y más tarde se convirtió en un destacado instructor de vuelo.</p>
-  <p><strong>4. Relación con otras efemérides:</strong> Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1890/04/06/nacimiento-anthony-herman-gerard-fokker.html" style="color: #315fea; text-decoration: none;">efeméride de nacimiento de Anthony Fokker</a> para más detalles sobre el pionero que perfeccionó el sistema de sincronización de ametralladoras, un avance clave en la evolución del avión de caza durante la Primera Guerra Mundial.</p>
+<p><strong>Atribución abierta:</strong> la base militar identifica a Kirtland como piloto del primer disparo; Davis-Monthan sostiene que Milling voló y fecha su propia imagen de Kirtland en la jornada siguiente. Esa datación no se transfiere automáticamente a la toma de cabecera. No se dispone aquí del parte original que permita cerrar la diferencia. La fuente gráfica citada tampoco acredita expresamente una licencia libre de reproducción.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
-- **Fuentes primarias/institucionales consultadas:** National Museum of the U.S. Air Force (.mil), This Day in Aviation, Wikipedia, Early Birds of Aviation
-- **Discrepancias resueltas:** Confirmación de la fecha (7 de junio de 1912) en fuentes primarias. Verificación de los resultados de las pruebas (45/50 y 14/44). Aclaración del contexto histórico y los protagonistas. Adición de enlace a la efeméride de Anthony Fokker.
-- **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]."
+- **Timestamp de verificación:** 2026-10-02 15:34:58 CST
+- **Fuentes primarias/institucionales consultadas:** National Museum of the USAF; Kirtland AFB, historia oficial.
+- **Fuentes secundarias de contraste:** Davis-Monthan Airfield Register; Early Birds; Guns.com, imagen.
+- **Discrepancias resueltas:** Condiciones de tiro diferenciadas según el museo. Kirtland/Milling: versiones incompatibles no resueltas; licencia gráfica no acreditada.
+- **Nivel de confianza:** Alto en fecha y datos del museo; reserva sobre el piloto.
+- **Cláusula final:** «Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]».

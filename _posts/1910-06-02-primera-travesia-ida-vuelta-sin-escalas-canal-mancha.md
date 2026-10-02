@@ -5,111 +5,85 @@ date: 1910-06-02
 categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido
-operator: Rolls-Royce Limited
-excerpt: "El 2 de junio de 1910, Charles Stewart Rolls, cofundador de Rolls-Royce, se convirtió en la primera persona en realizar un vuelo de ida y vuelta sin escalas sobre el Canal de la Mancha. A bordo de un Wright Model A, despegó desde Swingate Downs cerca de Dover, cruzó hasta la costa francesa cerca de Sangatte y regresó a Inglaterra tras 95 minutos de vuelo, demostrando la fiabilidad de la aviación pionera."
+operator: Charles Stewart Rolls (iniciativa privada)
+excerpt: "Charles Rolls enlazó ambas costas del canal de la Mancha sin aterrizar en Francia. El recorrido de regreso amplió el alcance de las demostraciones sobre el mar."
 image: 1910-06-02-primera-travesia-ida-vuelta-sin-escalas-canal-mancha.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1910-06-02-primera-travesia-ida-vuelta-sin-escalas-canal-mancha.webp" alt="Charles Rolls despegando en el vuelo sobre el Canal de la Mancha">
-  <figcaption class="post-caption">Charles Rolls despegando en el histórico vuelo del 2 de junio de 1910, con el que logró la primera travesía de ida y vuelta sin escalas sobre el Canal de la Mancha. Fuente: Rolls-Royce / archivo histórico.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1910-06-02-primera-travesia-ida-vuelta-sin-escalas-canal-mancha.webp" alt="Biplano de Charles Rolls elevándose ante varios observadores">
+  <figcaption class="post-caption">Despegue del biplano de Rolls, reproducido en el homenaje del fabricante al vuelo de 1910. Fuente: <a href="https://www.wheels-alive.co.uk/rolls-royce-pays-tribute-to-founders-pioneering-flight-of-2nd-june-1910/" style="color: #315fea; text-decoration: none;">Wheels Alive, comunicado de Rolls-Royce</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 2 de junio de 1910, **Charles Stewart Rolls**, cofundador de la emblemática marca de automóviles Rolls-Royce, se convirtió en la primera persona en realizar un vuelo de ida y vuelta sin escalas sobre el Canal de la Mancha. Despegó desde **Swingate Downs**, cerca de Dover, Inglaterra, a bordo de un **Wright Model A** (también conocido como Wright Flyer). Cruzó el canal hasta la costa francesa cerca de **Sangatte**, viró sobre la playa y regresó a Inglaterra, completando la travesía en aproximadamente **95 minutos**. Este hito, que duplicaba la dificultad del vuelo de Louis Blériot de 1909 (que solo había cruzado en una dirección), demostró la fiabilidad y resistencia de los primeros aviones. El vuelo le valió la **Medalla de Oro del Royal Aero Club**. Trágicamente, apenas seis semanas después, Rolls fallecería en un accidente aéreo en Bournemouth, convirtiéndose en el **primer británico en morir en un accidente de aviación motorizada**.</p>
+<p>La travesía de una costa a otra ya tenía antecedentes; la novedad consistía en volver con el mismo aparato, sin detenerse al otro lado. Charles Stewart Rolls convirtió esa posibilidad en una demostración de autonomía y navegación, todavía muy distante de un servicio regular de pasajeros.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
-- **Fecha del vuelo:** 2 de junio de 1910
-- **Lugar de despegue y aterrizaje:** Swingate Downs, cerca de Dover, Inglaterra
-- **Punto de retorno:** Costa francesa cerca de Sangatte (Paso de Calais)
-- **Protagonista:** Charles Stewart Rolls (1877-1910)
-- **Aeronave:** Wright Model A (Wright Flyer), biplano de diseño de los hermanos Wright
-- **Motor:** Wright 4 cilindros, aproximadamente 30-40 caballos de fuerza
-- **Distancia total recorrida:** aproximadamente 84 km (52 millas)
-- **Duración del vuelo:** aproximadamente 95 minutos (1 hora y 35 minutos)
-- **Altitud alcanzada:** desconocida (baja altitud sobre el mar)
-- **Resultado:** Primer vuelo de ida y vuelta sin escalas sobre el Canal de la Mancha
-- **Premio:** Medalla de Oro del Royal Aero Club
-- **Fallecimiento de Rolls:** 12 de julio de 1910, Bournemouth, Inglaterra
+- **Fecha:** 2 de junio de 1910.
+- **Itinerario:** Dover–costa de Sangatte–Dover, sobre el canal de la Mancha.
+- **Piloto:** Charles Stewart Rolls, británico.
+- **Aeronave:** biplano de tipo Wright, con hélices propulsoras.
+- **Modalidad:** ida y retorno sin escala intermedia.
+- **Duración aproximada:** 95 minutos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-El vuelo de Rolls ocurrió en un momento de gran efervescencia en la aviación pionera, apenas siete años después del primer vuelo de los hermanos Wright en Kitty Hawk.
+El recorrido se preparó en un ambiente donde el deporte, la empresa y las demostraciones técnicas compartían protagonistas.
 
 ### Entorno social
 
-La "fiebre de la aviación" se había extendido por Europa tras el exitoso cruce del Canal de la Mancha por Louis Blériot el 25 de julio de 1909. El público estaba fascinado con los aviones, y los periódicos seguían cada hazaña con gran interés. Rolls era ya una celebridad como cofundador de Rolls-Royce (con Henry Royce en 1906), y su participación en la aviación atrajo aún más atención mediática. El vuelo fue patrocinado por el periódico *Daily Mail*, que ofreció un premio de 10.000 libras esterlinas por el primer cruce del canal en ambas direcciones.
+Los vuelos de Louis Blériot y Jacques de Lesseps habían mostrado que el estrecho podía salvarse con un aeroplano. El nuevo objetivo exigía conservar suficiente combustible para regresar y afrontar de nuevo el tramo marítimo. La llegada a territorio extranjero dejaba de ser la meta: pasaba a convertirse en un punto de viraje.
+
+Rolls procedía del automovilismo y de la aerostación. Había participado en la creación del Royal Aero Club y acumulado experiencia en globos antes de interesarse por los aparatos de los hermanos Wright. Su asociación comercial con Henry Royce, iniciada en 1904, le proporcionó notoriedad, pero no convierte esta iniciativa personal en una operación de transporte de la empresa.
+
+El aviador había obtenido en 1910 el segundo certificado británico de piloto de aeroplano. Los preparativos incluían colaboradores en tierra, un lugar de salida acondicionado y la revisión del motor, los cables y los largueros. La espera meteorológica formaba parte del trabajo: no bastaba con disponer de una máquina capaz de despegar.
 
 ### Entorno tecnológico
 
-Los aviones de 1910 eran extremadamente rudimentarios. El Wright Model A era un biplano de madera y tela, sin cabina cerrada, que exponía al piloto a las inclemencias del tiempo y al viento. El motor de 4 cilindros desarrollaba entre 30 y 40 caballos de fuerza, apenas suficiente para mantener el vuelo. La navegación era visual y dependía de puntos de referencia en tierra. Rolls no llevaba brújula ni instrumentos de vuelo; se guiaba por la costa y, según algunos relatos, por un pequeño espejo para ver hacia atrás. El vuelo sobre el agua era especialmente peligroso, ya que un amerizaje forzoso en el Canal casi con certeza resultaría fatal.
+La disposición propulsora dejaba al piloto expuesto por delante de buena parte de la estructura. Para una emergencia sobre el agua se prepararon elementos de flotación y un salvavidas; eran precauciones de supervivencia, no medios que transformasen el aparato en un hidroavión.
+
+<em>Flight</em> describe una salida desde un carril junto al cobertizo de Broadlees. Esa instalación, el ajuste mecánico y la selección de una tarde favorable fueron tan importantes como la capacidad nominal del biplano. El resultado no demuestra que cualquier jornada o cualquier máquina equivalente ofreciera el mismo margen de seguridad.
 
 ### Entorno cultural
 
-Charles Rolls era considerado un "caballero aviador", un pionero aristocrático que combinaba su pasión por la velocidad con una educación privilegiada (estudió en Eton y Cambridge). Su muerte trágica a los 32 años lo convirtió en un mártir de la aviación británica, y su legado quedó inmortalizado en la marca que cofundó.
+La crónica de <em>Flight</em> distingue ese esfuerzo de las versiones sensacionalistas publicadas después. Incluso advierte que circularon relatos sobre familiares supuestamente presentes y un telegrama real cuyo contenido no se había hecho público. La cobertura contemporánea tampoco debe aceptarse sin examinar quién observó cada detalle.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **2 de junio de 1910, aproximadamente 07:00:** Rolls despega de Swingate Downs, cerca de Dover, Inglaterra.
-- **Trayecto de ida:** Vuela sobre el Canal de la Mancha en dirección sureste, manteniendo una altitud baja para evitar las nubes.
-- **Llegada a Francia:** Avista la costa francesa cerca de Sangatte (Paso de Calais), el mismo punto donde había aterrizado Blériot en 1909.
-- **Retorno:** Rolls vira sobre la playa francesa y emprende el regreso a Inglaterra sin tocar tierra.
-- **Aproximadamente 08:35:** Rolls aterriza de vuelta en Swingate Downs, completando el primer vuelo de ida y vuelta sin escalas sobre el Canal de la Mancha en 95 minutos.
-- **Consecuencias inmediatas:** Es recibido por una multitud entusiasta y la prensa. El *Daily Mail* le entrega el premio de 10.000 libras, y el Royal Aero Club le otorga su Medalla de Oro.
-- **12 de julio de 1910 (seis semanas después):** Rolls participa en una exhibición aérea en Bournemouth. A bordo de un Wright Flyer, el estabilizador de cola se desprende del avión. Rolls se precipita desde 20 metros de altura, sufriendo una fractura de cráneo. Fallece horas después en el hospital local, a los 32 años.
+Tras ensayos y aplazamientos en la zona de salida, el despegue se produjo hacia las 18:30. La cronología publicada por <em>Flight</em> utiliza hora inglesa y atribuye el registro al Capitán Moore, de los Royal Engineers.
 
-### Charles Rolls: El "Caballero Aviador"
+El aparato salió sobre el agua y alcanzó el litoral francés. Rolls penetró brevemente tierra adentro y dejó caer un mensaje dirigido al Aero Club de Francia, antes de invertir el rumbo. No hubo aterrizaje, repostaje ni cambio de piloto en esa parte del recorrido.
 
-**Charles Stewart Rolls** nació el 27 de agosto de 1877 en Berkeley Square, Londres, en el seno de una familia aristocrática. Estudió en Eton College y en el Trinity College de Cambridge, donde se graduó en ingeniería mecánica y aplicada. Su pasión por la velocidad lo llevó al automovilismo; en 1902 estableció un récord de velocidad en tierra de 93 mph (150 km/h). En 1906, fundó **Rolls-Royce Limited** junto al ingeniero Henry Royce, combinando su talento comercial y social con la brillantez técnica de Royce.
-
-Rolls fue uno de los primeros británicos en volar. En 1908, se encontró con Wilbur Wright en Francia y quedó fascinado. Aprendió a volar en la escuela de vuelo de los hermanos Wright en Le Mans, Francia, y en 1909 obtuvo la licencia de piloto Nº 5 del Royal Aero Club. Fue el primer británico en realizar un vuelo circular (circuito cerrado) y el primero en cruzar el Canal de la Mancha y regresar.
-
-### El Wright Model A
-
-El Wright Model A fue el primer avión producido en serie por los hermanos Wright, basado en su Flyer III de 1905.
-
-- **Fabricante:** Wright Company (Hermanos Wright)
-- **Tripulación:** 1 piloto
-- **Configuración:** Biplano de madera y tela, con control de alabeo mediante "wing warping" (torsión de alas)
-- **Motor:** Wright 4 cilindros en línea, 30-40 hp
-- **Hélice:** Dos hélices de madera de dos palas, impulsadas por un solo motor mediante cadenas
-- **Velocidad máxima:** aproximadamente 65 km/h (40 mph)
-- **Envergadura:** 11,0 m (36 pies)
-- **Longitud:** 8,5 m (28 pies)
-- **Peso:** aproximadamente 340 kg (750 lb)
-
-Rolls voló un Wright Model A modificado, posiblemente con pequeñas mejoras en el motor y la estructura.
+La costa británica volvió a quedar bajo el avión alrededor de las 20:02. Después de evolucionar sobre el castillo de Dover, aterrizó junto al punto de partida aproximadamente a las 20:06. El cruce de la línea costera y el contacto final con el suelo son momentos distintos: confundirlos altera la duración de la operación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Hito de resistencia:** El vuelo demostró que los aviones podían volar durante más de 90 minutos sin repostar y cubrir distancias considerables sobre el mar, abriendo la posibilidad de vuelos internacionales de larga distancia.
-- **Legado de Rolls:** Su muerte temprana a los 32 años lo convirtió en un mártir de la aviación británica. El vuelo del 2 de junio consolidó su reputación como pionero y aventurero, una imagen que Rolls-Royce ha mantenido viva hasta el día de hoy.
-- **Inspiración para futuros pilotos:** Rolls demostró que la aviación no era solo un deporte de riesgo, sino una actividad seria que requería habilidad, preparación y valentía. Su ejemplo inspiró a una generación de jóvenes británicos a unirse al Royal Flying Corps durante la Primera Guerra Mundial.
-- **Récord Guinness:** El vuelo de Rolls está registrado en el Guinness World Records como el primer cruce doble del Canal de la Mancha por una aeronave.
+La prensa británica presentó el resultado como una recuperación de prestigio frente a los avances franceses. Ese lenguaje competitivo pertenece al ambiente de la época, no constituye una medida técnica de superioridad nacional.
+
+El Royal Aero Club acordó concederle su medalla de oro. También recibió una felicitación de Jorge V. En cambio, no corresponde atribuirle las 10.000 libras de un supuesto premio del <em>Daily Mail</em>: el testimonio periodístico consultado subraya precisamente la ausencia de incentivo monetario para este vuelo.
+
+La recepción pública mostraba cuánto valor se concedía a una demostración breve pero visible. No consta en estas fuentes que el itinerario diera lugar inmediatamente a una línea comercial ni a una certificación general de fiabilidad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-Charles Rolls es recordado como un pionero del automovilismo y la aviación, y su legado perdura en la marca Rolls-Royce, que sigue siendo sinónimo de excelencia, innovación y lujo.
+El éxito quedó muy próximo al final de su vida. El 12 de julio sufrió un accidente mortal durante un concurso en Bournemouth, al desprenderse parte de la cola de su avión. El fabricante y English Heritage lo recuerdan como el primer británico fallecido en un accidente de aviación motorizada.
 
-- **Placa conmemorativa:** Una placa azul de English Heritage marca la casa de Rolls en Mayfair, Londres, y otra placa conmemora su hazaña en Dover.
-- **Monumento en Bournemouth:** Un obelisco en la ciudad donde falleció recuerda su trágico accidente.
-- **Legado en la aviación británica:** El espíritu pionero de Rolls influyó en el desarrollo de la aviación en el Reino Unido. Su amigo y socio de negocios, Claude Johnson, continuó apoyando la aviación después de su muerte.
-- **La "Medalla Rolls-Royce":** La Royal Aeronautical Society otorga una medalla con su nombre a contribuciones destacadas a la aeronáutica.
+La placa azul de Conduit Street, inaugurada en 2010, sitúa su memoria en el espacio donde había desarrollado su actividad empresarial. Esa conmemoración reúne dos facetas que conviene distinguir: promotor del automóvil y participante directo en la experimentación aeronáutica. Su aportación al paso marítimo fue un recorrido continuo de retorno, no el descubrimiento de la ruta ni la inauguración de una red de transporte.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -117,31 +91,27 @@ Charles Rolls es recordado como un pionero del automovilismo y la aviación, y s
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Charles_Rolls" style="color: #315fea; text-decoration: none;">Wikipedia – Charles Rolls</a></li>
-    <li><a href="https://www.guinnessworldrecords.de/world-records/667661-first-double-crossing-of-the-english-channel-by-aircraft" style="color: #315fea; text-decoration: none;">Guinness World Records – First double-crossing of the English Channel by aircraft</a></li>
-    <li><a href="https://www.english-heritage.org.uk/visit/blue-plaques/charles-rolls/" style="color: #315fea; text-decoration: none;">English Heritage – Charles Rolls Blue Plaque</a></li>
-    <li><a href="https://www.topgear.es/noticias/no-solo-ruedas/charles-rolls-canal-mancha-653415" style="color: #315fea; text-decoration: none;">TopGear – Charles Rolls y el Canal de la Mancha</a></li>
-    <li><a href="https://www.wheels-alive.co.uk/rolls-royce-pays-tribute-to-founders-pioneering-flight-of-2nd-june-1910/" style="color: #315fea; text-decoration: none;">Wheels-Alive – Rolls-Royce tribute to Charles Rolls</a></li>
-    <li><a href="https://www.sociedadaeronautica.org/el-primer-hombre-que-cruzo-volando-el-canal-de-la-mancha/" style="color: #315fea; text-decoration: none;">Sociedad Aeronáutica – El primer hombre que cruzó volando el Canal de la Mancha</a></li>
+    <li><a href="https://archive.org/details/Flight_International_Magazine_1910-06-11-pdf" style="color: #315fea; text-decoration: none;">Flight, 11 de junio de 1910: crónica del doble cruce y acuerdos del Royal Aero Club</a></li>
+    <li><a href="https://www.english-heritage.org.uk/visit/blue-plaques/charles-rolls/" style="color: #315fea; text-decoration: none;">English Heritage: Charles Rolls, ficha de la placa azul</a></li>
+    <li><a href="https://www.press.rolls-roycemotorcars.com/rolls-royce-motor-cars-pressclub/article/detail/T0340433EN/the-honourable-charles-stewart-rolls-27-august-1877-%E2%80%93-12-july-1910" style="color: #315fea; text-decoration: none;">Rolls-Royce Motor Cars: semblanza de su cofundador, 2021</a></li>
+    <li><a href="https://www.wheels-alive.co.uk/rolls-royce-pays-tribute-to-founders-pioneering-flight-of-2nd-june-1910/" style="color: #315fea; text-decoration: none;">Wheels Alive: reproducción del homenaje corporativo de 2020</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Notas aclaratorias:</strong></p>
-  <p><strong>1. Louis Blériot y Charles Rolls:</strong> El 25 de julio de 1909, Louis Blériot realizó el primer cruce del Canal de la Mancha en una sola dirección (Francia a Inglaterra). Rolls fue el primero en completar la travesía de ida y vuelta sin escalas, duplicando la dificultad y demostrando mayor resistencia.</p>
-  <p><strong>2. Duración del vuelo:</strong> Las fuentes coinciden en que el vuelo duró aproximadamente 95 minutos. Algunas citan 93 o 94 minutos; la diferencia es mínima y se debe a la imprecisión de los cronómetros de la época.</p>
-  <p><strong>3. La muerte de Rolls:</strong> El accidente de Rolls en Bournemouth el 12 de julio de 1910 ocurrió durante una exhibición aérea. El estabilizador de cola de su Wright Flyer se desprendió en pleno vuelo. Fue el primer británico en morir en un accidente de aviación motorizada.</p>
-  <p><strong>4. Rolls-Royce y la aviación:</strong> Aunque Rolls falleció temprano, la compañía que cofundó se convertiría en una de las principales fabricantes de motores de aviación del mundo, especialmente famosa por sus motores Merlin que impulsaron al Spitfire y al Hurricane durante la Batalla de Inglaterra.</p>
+<p><strong>Precisiones:</strong> la fuente de época sitúa la salida por la tarde. Se redondea el tiempo total y se separa el regreso sobre tierra del aterrizaje. La designación del aparato varía entre Wright y Short-Wright; no se infiere una configuración exacta a partir de una denominación abreviada.</p>
+<p><strong>Imagen:</strong> la reproducción corporativa permite identificar la escena, pero no ofrece aquí una licencia libre inequívoca. Se conserva el archivo sin certificar su autorización de reutilización.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia, Guinness World Records, English Heritage, TopGear, Wheels-Alive, Sociedad Aeronáutica
-- **Discrepancias resueltas:** Confirmación de la fecha (2 de junio de 1910) en todas las fuentes. Verificación de la aeronave (Wright Model A). Confirmación de la duración (95 minutos). Aclaración de la diferencia con el vuelo de Blériot.
-- **Nivel de confianza:** Alto (múltiples fuentes institucionales coinciden en los datos fundamentales)
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Timestamp de verificación:** 2026-10-02 15:34:58 CST
+- **Fuentes primarias/institucionales consultadas:** Flight (1910); English Heritage; Rolls-Royce Motor Cars.
+- **Fuentes secundarias de contraste:** Wheels Alive, republicación corporativa; no testimonio independiente.
+- **Discrepancias resueltas:** Horarios según Flight; distinción entre arribo costero y aterrizaje. Designación del biplano y licencia de la foto no cerradas.
+- **Nivel de confianza:** Alto para el recorrido; reservas indicadas.
+- **Cláusula final:** «Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]».

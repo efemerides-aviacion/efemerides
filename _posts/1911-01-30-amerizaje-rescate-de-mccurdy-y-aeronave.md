@@ -6,101 +6,105 @@ categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos / Cuba
 operator: J.A.D. McCurdy / Curtiss
-excerpt: "El 30 de enero de 1911, John Alexander Douglas McCurdy intentó el primer vuelo sin escalas entre Key West y La Habana. Tras una avería, amerizó y fue rescatado por la US Navy, en el primer operativo exitoso de rescate aéreo en el mar."
+excerpt: "Una pérdida de aceite interrumpió el intento de McCurdy de llegar desde Florida a Cuba. Los buques de apoyo recuperaron al piloto y su biplano, en operaciones que deben distinguirse."
 image: 1911-01-30-amerizaje-rescate-de-mccurdy-y-aeronave.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-01-30-amerizaje-rescate-de-mccurdy-y-aeronave.webp" alt="Rescate de McCurdy tras amerizaje en 1911">
-  <figcaption class="post-caption">Rescate de J.A.D. McCurdy y de su aeronave por el bote salvavidas del USS Terry tras amerizaje forzoso de su biplano Curtiss con flotadores, en intento de vuelo Key West (Florida) a La Habana (Cuba), 30 de enero de 1911. Monroe County Public Library, Florida Keys.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-01-30-amerizaje-rescate-de-mccurdy-y-aeronave.webp" alt="Marineros junto al biplano de McCurdy durante su recuperación desde el mar">
+  <figcaption class="post-caption">Embarcaciones de auxilio junto al avión de McCurdy. <a href="https://www.keyslibraries.org/post/january-30-2025" style="color: #315fea; text-decoration: none;">Monroe County Public Library, Florida Keys History Center</a>; donación de Warren Henderson. No se identifica al fotógrafo.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 30 de enero de 1911, el aviador canadiense J.A.D. McCurdy intentó el primer vuelo sin escalas entre Key West (Florida) y La Habana (Cuba) a bordo de un biplano Curtiss. Cuando se encontraba a solo 16 km de la costa cubana y tras dos horas de vuelo, una avería en el motor lo obligó a amerizar cerca de los destructores estadounidenses USS Terry y USS Paulding, que lo rescataron junto a su aeronave. Este operativo constituyó el primer rescate aéreo exitoso en el mar de la historia y, aunque el piloto no logró su objetivo, las autoridades cubanas le otorgaron el premio de 8.000 dólares por su hazaña.</p>
+<p>El intento de atravesar el estrecho de Florida no alcanzó su meta por aire, pero el dispositivo naval preparado a lo largo del recorrido permitió auxiliar al aviador. El episodio combina un amerizaje de emergencia, el rescate de una persona y el izado de una máquina: no fueron una sola maniobra ni necesariamente obra del mismo buque.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-- **Fecha:** 30 de enero de 1911  
-- **Lugar:** Entre Key West (Florida) y La Habana (Cuba)  
-- **Piloto:** John Alexander Douglas McCurdy  
-- **Aeronave:** Biplano Curtiss con flotadores  
-- **Duración del vuelo:** ~2 horas  
-- **Trayectoria:** 170 km previstos; amerizaje a 16 km de La Habana  
-- **Resultado inmediato:** Primer rescate aéreo exitoso en el mar por la US Navy  
+
+- **Fecha:** 30 de enero de 1911.
+- **Ruta pretendida:** Key West, Florida, hacia La Habana, Cuba.
+- **Piloto:** John Alexander Douglas McCurdy, canadiense.
+- **Aparato:** biplano Curtiss provisto de elementos de flotación.
+- **Resultado:** llegada a las proximidades de Cuba y descenso al agua; aviador ileso.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
-El intento de McCurdy fue un hito en la aviación temprana, al combinar la ambición de un vuelo internacional con la participación de la Armada estadounidense en labores de seguridad y rescate.
+
+El apoyo desde la superficie era una parte esencial de la preparación del recorrido marítimo.
 
 ### Entorno social
-- El vuelo despertó gran interés en Cuba y Estados Unidos, con autoridades y público expectantes.  
-- El presidente cubano José Miguel Gómez presenció el rescate y felicitó personalmente a McCurdy.  
-- El premio de 8.000 dólares ofrecido por Cuba reflejaba el valor simbólico de conectar ambos países por aire.
+
+Las demostraciones sobre el mar planteaban dificultades distintas a las exhibiciones sobre un campo. Una avería podía dejar al piloto sin terreno donde aterrizar. En este caso se dispusieron destructores a lo largo de la ruta, tanto como referencias visibles como para prestar auxilio.
+
+McCurdy formaba parte del entorno de la aviación Curtiss. El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1910/05/29/vuelo-historico-albany-flyer.html" style="color: #315fea; text-decoration: none;">recorrido Albany–Nueva York de 1910</a> permite situar el interés por las distancias largas sin confundir aquella operación sobre el Hudson con esta tentativa internacional.
 
 ### Entorno tecnológico
-- El biplano Curtiss fue adaptado con flotadores para amerizar en caso de emergencia.  
-- La US Navy desplegó destructores y torpederos como apoyo, mostrando la integración temprana de aviación y marina.  
-- La avería del motor por fuga de aceite evidenció la fragilidad de la tecnología aeronáutica de la época.
+
+La flotación añadida ofrecía una posibilidad de permanecer sobre el agua después del descenso. No eliminaba el riesgo mecánico ni garantizaba que el avión pudiera despegar desde el mar. La disponibilidad de embarcaciones próximas era una protección complementaria, no una prestación del aparato.
 
 ### Entorno cultural
-- El intento reforzó la idea de la aviación como medio de unión internacional.  
-- La presencia de autoridades cubanas y estadounidenses otorgó legitimidad política y cultural al evento.  
-- El rescate fue celebrado como símbolo de cooperación y valentía.
+
+En La Habana, la expectativa llevó a los espectadores a azoteas y puntos elevados próximos al puerto. El despacho contemporáneo describe la inquietud que siguió a la demora de la llegada y la circulación de rumores antes de conocerse el rescate.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
-- **Antes del intento:** J.A.D. McCurdy, piloto de pruebas de la casa Curtiss, prepara un biplano Curtiss Model D «Pusher» adaptado con flotadores para amerizar en caso de emergencia; la US Navy despliega destructores y torpederos en la ruta como apoyo.  
-- **30 de enero de 1911:** despega de Key West (Florida) rumbo a La Habana (Cuba), un trayecto previsto de 170 km sobre mar abierto.  
-- **El vuelo:** tras unas dos horas y 96 millas recorridas (~154 km), una fuga de aceite deja el motor fuera de servicio y McCurdy ameriza a unos 16 km de la costa cubana, a la vista de los buques de apoyo.  
-- **El rescate:** el bote salvavidas del destructor USS Terry recoge al aviador del agua; luego es llevado a bordo del USS Paulding, que intenta izar la aeronave dañada.  
-- **Después:** aunque el objetivo no se cumplió, las autoridades cubanas le reconocen oficialmente la hazaña y le otorgan el premio de 8.000 dólares.
+
+El vuelo comenzó por la mañana y avanzó en condiciones que la prensa describió como favorables. Cuando estaba cerca de su destino, una pérdida de lubricante obligó a cortar la potencia y descender. <em>The Salt Lake Tribune</em> atribuyó el escape a una rotura del cárter.
+
+El aviador quedó a flote a unas diez millas de La Habana, según esa crónica. El bote del USS Terry lo recogió; después pasó al USS Paulding. Este último intervino en la recuperación del aeroplano, que sufrió daños durante el intento de izarlo.
+
+La escuadra continuó hacia el puerto cubano. El despacho del día siguiente refiere que McCurdy participó después en una exhibición con otro aparato. Ese detalle evita interpretar la recuperación material como prueba de que su propia máquina hubiera quedado inmediatamente utilizable.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
-El episodio constituyó el primer rescate exitoso de un aviador en el mar por la US Navy y validó en la práctica la cooperación entre la aviación naciente y la Armada: los buques desplegados como apoyo pasaron de espectadores a protagonistas del salvamento. El premio cubano sentó el precedente de reconocer oficialmente un intento fallido por su valor técnico y simbólico, y la aeronave recuperada —reparada y empleada después en vuelos de exhibición en Cuba— demostró que un amerizaje forzoso no era forzosamente el final de un aeroplano.
+
+El salvamento permitió que una interrupción del vuelo no acabara en pérdida humana. También mostró que rescatar al tripulante era una tarea diferente de conservar intacta la aeronave.
+
+La cobertura periodística anunció marcas de distancia sobre el agua. Sus expresiones de prioridad deben leerse con cautela: el mismo artículo contiene estimaciones del recorrido y afirmaciones generales que no equivalen a una homologación internacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
-- Constituyó el primer rescate exitoso de un aviador en el mar por la US Navy.  
-- Aunque McCurdy no completó el vuelo, se le reconoció oficialmente la hazaña y se le otorgó el premio.  
-- El episodio anticipó la importancia de la seguridad aérea y los protocolos de rescate marítimo.  
+
+La fotografía conservada por la biblioteca de los cayos de Florida aporta una pieza visual sobre la operación naval. Contrastarla con el relato contemporáneo ayuda a evitar que la identificación del destructor que recogió al hombre se extienda sin más al buque que recibió el avión.
+
+El interés histórico está en la combinación de preparación, flotabilidad y auxilio de superficie. No se presenta como el nacimiento demostrado de todos los servicios modernos de búsqueda y rescate, ni como el primer salvamento marítimo de un aviador en el mundo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
+
 <div class="references">
   <ul>
-    <li><a href="https://newspapers.lib.utah.edu/details?id=14202120" style="color: #315fea; text-decoration: none;">The Salt Lake Tribune (31 Ene 1911) – Oversea Flight Records Broken</a></li>
-    <li><a href="https://www.keyslibraries.org/post/january-30-2026" style="color: #315fea; text-decoration: none;">Monroe County Public Library – Entrada histórica 2026</a></li>
-    <li><a href="https://www.keyslibraries.org/post/january-30-2025" style="color: #315fea; text-decoration: none;">Monroe County Public Library – Entrada histórica 2025</a></li>
-    <li><a href="https://en.wikipedia.org/w/index.php?diff=637086" style="color: #315fea; text-decoration: none;">Wikipedia – 1911 (primer rescate aéreo en el mar)</a></li>
-    <li><a href="https://www.smartage.pl/j-a-douglas-mccurdy-i-historyczny-lot-na-kube/" style="color: #315fea; text-decoration: none;">SmartAge.pl – McCurdy i historyczny lot na Kubę</a></li>
+    <li><a href="https://newspapers.lib.utah.edu/details?id=14202120" style="color: #315fea; text-decoration: none;">The Salt Lake Tribune, 31 de enero de 1911: Oversea Flight Records Broken, pp. 1 y 3</a></li>
+    <li><a href="https://www.keyslibraries.org/post/january-30-2025" style="color: #315fea; text-decoration: none;">Monroe County Public Library: efeméride y fotografía de la recuperación</a></li>
+    <li><a href="https://archive.org/details/Flight_International_Magazine_1911-02-04-pdf" style="color: #315fea; text-decoration: none;">Flight, 4 de febrero de 1911: noticia del intento de McCurdy</a></li>
+    <li><a href="https://www.smartage.pl/j-a-douglas-mccurdy-i-historyczny-lot-na-kube/" style="color: #315fea; text-decoration: none;">SmartAge: relato retrospectivo del vuelo a Cuba, utilizado para contraste</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-
-	<p><strong>Nota aclaratoria:</strong> Algunas fuentes difieren en la distancia exacta al punto de amerizaje (10 vs. 16 km de la costa cubana). Esta efeméride adopta la cifra más citada en reportes contemporáneos: ~10 millas (16 km).</p>
-	<p>Las fuentes históricas, incluyendo los reportes de prensa de la época como <em>The Salt Lake Tribune</em> (31 de enero de 1911), indican que el rescate directo de la vida del aviador J.A.D. McCurdy fue realizado por el <strong>bote salvavidas del destructor USS Terry</strong>, que lo recogió del agua tras su amerizaje. Posteriormente, McCurdy fue llevado a bordo del <strong>USS Paulding</strong>, que intentó izar su aeronave dañada. Esta distinción explica por qué algunas fuentes y fotografías de la época (como la de R. W. Harrison) asocian el evento con el USS Paulding, mientras que los reportes contemporáneos atribuyen el salvamento de la persona al USS Terry. Ambos buques desempeñaron un papel crucial en este hito, considerado el primer rescate aéreo exitoso en el mar por parte de la Armada de los Estados Unidos.</p>
-  <p><strong>Conexión con el vuelo del Albany Flyer:</strong> La aeronave utilizada por McCurdy era un biplano Curtiss Model D "Pusher", similar al famoso <a href="https://efemerides-aviacion.github.io/efemerides/evento/1910/05/29/vuelo-historico-albany-flyer.html" style="color: #315fea; text-decoration: none;">Albany Flyer" con el que Glenn Curtiss realizó el primer vuelo interurbano de larga distancia en Estados Unidos en mayo de 1910</a>. Según el Planes of Fame Air Museum, el avión original fue dañado durante el intento de vuelo de McCurdy y posteriormente reparado para vuelos de exhibición en Cuba, tras lo cual su paradero es desconocido.</p>
+<p><strong>Contraste:</strong> frente al relato de SmartAge sobre una explosión de cilindros, se sigue la pérdida de aceite descrita por la prensa contemporánea. La separación de funciones entre los destructores procede del despacho de La Habana, no de una deducción obtenida solo de la fotografía. Las diez millas son una estimación periodística; no se convierten en una coordenada exacta.</p>
+<p><strong>Derechos gráficos:</strong> el archivo identifica al donante, no al fotógrafo; tampoco se ha verificado una autorización libre de reutilización. La foto conservada no demuestra por sí misma una prioridad mundial.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
-- **Fuentes primarias/institucionales consultadas:** The Salt Lake Tribune; Monroe County Public Library; Wikipedia; SmartAge.pl  
-- **Discrepancias resueltas:** Distancia al amerizaje y detalles del premio cubano. Participación de los dos buques de la armada estadounidende.  
-- **Nivel de confianza:** Alto  
-- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
+
+- **Timestamp de verificación:** 2026-10-02 15:34:58 CST
+- **Fuentes primarias/institucionales consultadas:** Salt Lake Tribune; Flight; Monroe County Public Library.
+- **Fuentes secundarias de contraste:** SmartAge, contrastado y no seguido en su explicación mecánica.
+- **Discrepancias resueltas:** Rescate personal y recuperación material diferenciados según la crónica. Pérdida de aceite frente a explosión retrospectiva; derechos gráficos pendientes.
+- **Nivel de confianza:** Alto en el rescate; reservas en mediciones y derechos.
+- **Cláusula final:** «Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]».

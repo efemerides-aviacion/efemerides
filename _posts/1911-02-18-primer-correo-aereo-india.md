@@ -5,94 +5,107 @@ date: 1911-02-18
 categories: [evento]
 author: Enrique Pomares
 pais: India
-operator: Humber-Sommer biplano / Henri Pequet
-excerpt: "El 18 de febrero de 1911, Henri Pequet realizó el primer vuelo oficial de correo aéreo del mundo en India, transportando unas 6,500 cartas desde Allahabad a Naini en 13 minutos."
+operator: Henri Pequet / organización postal de la exposición de Allahabad
+excerpt: "Henri Pequet llevó correspondencia autorizada desde Allahabad hasta Naini. Fue un hito del correo por aeroplano, distinto de los transportes postales anteriores en globo."
 image: 1911-02-18-primer-correo-aereo-india.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-02-18-primer-correo-aereo-india.webp" alt="Primer vuelo oficial de correo aéreo en India, 1911">
-  <figcaption class="post-caption">Henri Pequet en su biplano Humber-Sommer, usado el 18 de febrero de 1911 para el primer correo aéreo oficial entre Allahabad y Naini, India. Smithsonian National Postal Museum, “World's First Official Air Mail by Airplane, India, 1911.
-</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1911-02-18-primer-correo-aereo-india.webp" alt="Henri Pequet en el asiento de un biplano de estructura descubierta">
+  <figcaption class="post-caption">Pequet y el biplano del transporte postal, en una fotografía publicada por <a href="https://postalmuseum.si.edu/collections/object-spotlight/worlds-first-official-air-mail-by-airplane-india-1911" style="color: #315fea; text-decoration: none;">Smithsonian National Postal Museum</a>. Imagen facilitada por Pradip Jain; no consta aquí una licencia libre.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 18 de febrero de 1911, el piloto francés Henri Pequet realizó el primer vuelo oficial de correo aéreo del mundo en un biplano Humber-Sommer. Transportó unas 6,500 cartas desde Allahabad a Naini en un trayecto de 13 minutos, marcando el inicio de la aviación civil en India y estableciendo un precedente global en el servicio postal aéreo.</p>
+<p>Una exhibición aeronáutica incorporó una tarea concreta: llevar una saca de correspondencia al otro lado del río. La autorización postal distinguió esta operación de una simple entrega privada y convirtió cartas y tarjetas mataselladas en testimonios del recorrido.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Datos verificados del evento
-- **Fecha:** 18 de febrero de 1911  
-- **Lugar:** De Allahabad (Prayagraj) a Naini, India  
-- **Distancia:** Aproximadamente 10 km  
-- **Duración del vuelo:** 13 minutos  
-- **Piloto:** Henri Pequet, 23 años  
-- **Aeronave:** Biplano Humber-Sommer  
-- **Carga transportada:** 6,500 cartas y tarjetas con matasellos especial “First Aerial Post, 1911, U.P. Exhibition Allahabad”  
-- **Resultado inmediato:** Primer transporte oficial de correo aéreo del mundo  
+
+- **Fecha:** 18 de febrero de 1911.
+- **Lugar:** Allahabad, hoy Prayagraj, y Naini, India bajo administración británica.
+- **Aviador:** Henri Pequet, francés.
+- **Aeronave:** biplano Humber.
+- **Carga:** varios miles de piezas postales; recuento no unificado.
+- **Alcance del hito:** transporte oficial de correo mediante un avión.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
-El evento se organizó durante la Exposición de Allahabad y la Kumbh Mela de 1911, como iniciativa para recaudar fondos para un albergue juvenil del reverendo W.E.S. Holland. Fue coordinado por Walter Windham, pionero británico de la aviación.
+
+La operación postal aprovechó la concentración de visitantes y la presencia de aeroplanos en una exposición.
+
 ### Entorno social
 
-La Exposición de Allahabad y la Kumbh Mela de 1911 reunieron a multitudes llegadas de toda India, y el vuelo se organizó como atracción benéfica: recaudar fondos para el albergue juvenil del reverendo W.E.S. Holland, bajo la coordinación de Walter Windham. Que entre los destinatarios estuvieran Jorge V y Jawaharlal Nehru muestra el alcance del gesto, dirigido a la vez a la autoridad colonial y a la sociedad india.
+La Exposición de las Provincias Unidas coincidió con la celebración del Kumbh Mela. Los vuelos de demostración atrajeron a numerosos visitantes y ofrecieron la ocasión de organizar un envío especial. No se inauguró con ello una red diaria de reparto aéreo.
+
+Pequet aportó la experiencia de pilotaje. El museo atribuye la organización a Walter Windham. El comunicado del Ministerio de Comunicaciones relaciona la recaudación extraordinaria con los alojamientos estudiantiles Oxford and Cambridge de la ciudad.
 
 ### Entorno tecnológico
 
-El biplano Humber-Sommer, construido en Inglaterra en 1910 bajo licencia de Roger Sommer, despegó de un campo de polo en Allahabad y cruzó el río Yamuna hasta Naini: unos 10 km en 13 minutos con 6.500 cartas a bordo. El matasellos especial «First Aerial Post, 1911, U. P. Exhibition Allahabad», en magenta y negro, certificó cada pieza como parte del primer servicio oficial.
+El aparato pertenecía a la generación de biplanos ligeros relacionados con los diseños de Sommer. Puede consultarse la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1877/08/04/nacimiento-roger-sommer.html" style="color: #315fea; text-decoration: none;">biografía del constructor y aviador Roger Sommer</a>. La capacidad de carga imponía una selección del peso transportado, muy diferente de la de los cargueros posteriores.
 
 ### Entorno cultural
 
-El matasellos «First Aerial Post» convirtió cada carta en testimonio del primer servicio oficial. Guinness World Records reconoce el vuelo como el primero de su clase, y en 2011 India conmemoró el centenario con una hoja filatélica y la recreación del trayecto entre Allahabad y Naini.
+El matasellos representaba un avión y mencionaba la exposición. Aunque se asocia habitualmente a tinta magenta, los coleccionistas entrevistados por PTI también documentan impresiones negras. Ese detalle material interesa para identificar los ejemplares, no para asignarles automáticamente autenticidad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
-- **Previo al vuelo:** Se franquean las cartas y se aplica matasellos especial en magenta y negro.  
-- **1910:** Humber construye en Inglaterra, bajo licencia del aviador e industrial francés <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1877/08/04/nacimiento-roger-sommer.html" style="color: #315fea; text-decoration: none;">Roger Sommer</a>, el biplano que pilotará Pequet en Allahabad.  
-- **18 de febrero de 1911:** Henri Pequet despega de un campo de polo en Allahabad y aterriza en Naini tras cruzar el río Yamuna.  
-- **Destinatarios destacados:** Entre los receptores estuvieron el rey Jorge V y Jawaharlal Nehru.  
+
+La correspondencia se reunió antes de la salida y recibió una marca especial asociada a la exposición. El recargo benéfico coexistía con la tramitación postal de los envíos.
+
+Por la tarde, el piloto despegó con la saca, atravesó el Yamuna y aterrizó cerca de Naini. Las narraciones consultadas sitúan el trayecto en torno a trece minutos. Un empleado recibió el correo para incorporarlo a los medios ordinarios de distribución.
+
+La etapa aérea no equivalía al viaje completo de cada carta. Después continuaron los traslados por tierra, ferrocarril o barco hacia los destinatarios correspondientes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
-- **Postal:** Inicio del servicio aéreo oficial en el mundo.  
-- **Social:** Recaudación de fondos para un albergue juvenil.  
-- **Histórico:** Precedente global para la aviación civil y el correo aéreo.  
+
+La experiencia mostró una colaboración posible entre promotores de exhibiciones y administración postal. El vuelo proporcionó publicidad; las marcas y el tratamiento de la saca le dieron una función verificable que iba más allá del espectáculo.
+
+Los sobres conservados interesan también por sus destinatarios, sellos y tintas. La investigación filatélica permite estudiar esas piezas sin suponer que todas las reproducciones conmemorativas sean documentos que efectivamente viajaron.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
-El vuelo es reconocido por Guinness World Records como el primer transporte oficial de correo aéreo. En 2011, India conmemoró el centenario con una hoja filatélica y recreación del vuelo. Hoy se recuerda como un hito de la aviación mundial y de la historia postal.
+
+El cincuentenario y el centenario motivaron emisiones postales recordatorias. El reportaje de PTI recoge testimonios de coleccionistas que preservan ejemplares y estudian la circulación de las tarjetas firmadas por el aviador.
+
+El National Postal Museum delimita la prioridad de este episodio: ya había correo oficial transportado en globo, incluido un antecedente estadounidense de 1859. La innovación reconocida en la India corresponde al uso del aeroplano, no a cualquier modalidad de envío por el aire.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
+
 <div class="references">
   <ul>
-    <li><a href="https://postalmuseum.si.edu/collections/object-spotlight/worlds-first-official-air-mail-by-airplane-india-1911" style="color: #315fea; text-decoration: none;">National Postal Museum (SI) – World's First Official Air Mail by Airplane, India, 1911</a></li>
-    <li><a href="https://en.m.wikipedia.org/w/index.php?title=Henri_Pequet&oldid=571771213" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Henri Pequet</a></li>
-    <li><a href="https://theprint.in/india/when-the-worlds-first-airmail-took-flight-during-1911-kumbh-in-up/2508685/" style="color: #315fea; text-decoration: none;">ThePrint – World's first airmail flight during 1911 Kumbh</a></li>
-    <li><a href="https://telanganatoday.com/when-the-first-airmail-took-flight-during-1911-kumbh-in-up" style="color: #315fea; text-decoration: none;">Telangana Today – First airmail flight</a></li>
-    <li><a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2104087" style="color: #315fea; text-decoration: none;">Gobierno de India (PIB) – World's First Air Mail Service</a></li>
-    <li><a href="https://www.guinnessworldrecords.com/world-records/106718-first-airmail-flight" style="color: #315fea; text-decoration: none;">Guinness World Records – First airmail flight</a></li>
-    <li><a href="https://www.pib.gov.in/newsite/erelcontent.aspx?relid=69345" style="color: #315fea; text-decoration: none;">Gobierno de India (PIB) – 100 Years of Civil Aviation in India</a></li>
-    <li><a href="https://gulfnews.com/lifestyle/how-the-worlds-first-airmail-was-delivered-1.1861582" style="color: #315fea; text-decoration: none;">Gulf News – How the world's first airmail was delivered</a></li>
+    <li><a href="https://postalmuseum.si.edu/collections/object-spotlight/worlds-first-official-air-mail-by-airplane-india-1911" style="color: #315fea; text-decoration: none;">Smithsonian National Postal Museum: World’s First Official Air Mail by Airplane, India, 1911</a></li>
+    <li><a href="https://www.pib.gov.in/PressReleasePage.aspx?PRID=2104087" style="color: #315fea; text-decoration: none;">Ministerio de Comunicaciones de India, PIB: conmemoración del vuelo, 17 de febrero de 2025</a></li>
+    <li><a href="https://www.pib.gov.in/newsite/erelcontent.aspx?relid=69345" style="color: #315fea; text-decoration: none;">PIB: 100 Years of Civil Aviation in India, apartado de 1911</a></li>
+    <li><a href="https://theprint.in/india/when-the-worlds-first-airmail-took-flight-during-1911-kumbh-in-up/2508685/" style="color: #315fea; text-decoration: none;">Kunal Dutt, PTI / ThePrint: testimonios filatélicos, 24 de febrero de 2025</a></li>
   </ul>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-
 <div class="note-box">
-<p><strong>Nota aclaratoria:</strong> Aunque hubo vuelos experimentales previos, este fue el primer transporte oficial reconocido de correo aéreo en el mundo.</p>
+<p><strong>Cifras no cerradas:</strong> el museo estadounidense indica unas 6.000 piezas y cinco millas; los comunicados indios citan 6.500 y seis millas. El texto ministerial de 2025 menciona además quince kilómetros, sin conciliar ambas distancias. No se transforma esta divergencia en una equivalencia exacta ni se declara resuelta por el carácter institucional de las fuentes.</p>
+<p><strong>Imagen:</strong> «cortesía de» identifica a quien facilitó la reproducción; no equivale a dominio público. Se mantiene el archivo y se deja abierta la comprobación de sus derechos.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
-- **Fuentes primarias/institucionales consultadas:** National Postal Museum, PIB India, Guinness World Records  
-- **Discrepancias resueltas:** Variaciones en duración del vuelo (13 minutos confirmado).  
-- **Nivel de confianza:** Alto  
-- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
+
+- **Timestamp de verificación:** 2026-10-02 15:34:58 CST
+- **Fuentes primarias/institucionales consultadas:** Smithsonian National Postal Museum; PIB, comunicados de 2011 y 2025.
+- **Fuentes secundarias de contraste:** PTI/ThePrint, reportaje con coleccionistas.
+- **Discrepancias resueltas:** Carga y distancias divergentes en museo/PIB, sin conciliación artificial. Prioridad delimitada al avión. Licencia de la fotografía abierta.
+- **Nivel de confianza:** Alto en fecha y operación; recuentos abiertos.
+- **Cláusula final:** «Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]».
