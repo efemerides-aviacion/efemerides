@@ -1,6 +1,12 @@
 # Instrucciones de formato de salida para efemérides
-> Última actualización: 2026-10-01  
-> Versión: v2.19
+> Última actualización: 2026-10-02  
+> Versión: v2.20
+
+---
+
+## NOTA SOBRE ESTA VERSIÓN
+
+**Novedad de la v2.20.** Corrección de coherencia ordenada por el editor el 02-10-2026: una viñeta histórica de la actualización v2.1 que prohibía mencionar imágenes en el commit inicial queda marcada expresamente como superada. La regla vigente permanece en «Mensajes de commit para GitHub Desktop»: en las altas, la primera viñeta de la Description describe post, imagen, linter y ecos; la segunda, referencias, discrepancias y enlaces cruzados. Las rutas, bytes, SHA y blobs se entregan en la tabla file-a-file del chat y no dentro del mensaje; no se genera TXT. En paralelo: Plantilla Maestra v2.21, Instrucciones de Procesar v2.15, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Manual de Estilo v1.18: sin novedad.
 
 ---
 
@@ -437,7 +443,7 @@ viaja siempre en un commit único con su imagen.
 - Separar con claridad hecho confirmado, reclamación histórica, hipótesis y dato no confirmado.
 - Si la imagen no corresponde al instante exacto, declararlo en el pie y, cuando sea necesario, en la nota aclaratoria.
 - No mencionar sustituciones de imagen ni detalles internos del flujo en notas o metadatos.
-- No proponer commits antes de la solicitud expresa del editor; el commit inicial debe representar incorporación formal, sin mencionar imágenes.
+- No proponer commits antes de la solicitud expresa del editor; el commit inicial debe representar incorporación formal, sin mencionar imágenes. *(Superado en v2.20: la Description sí describe la imagen conforme al formato obligatorio vigente; se mantiene la prohibición de relatar cambios internos del flujo.)*
 - Aplicar miles con punto, decimales con coma y conversiones métricas pertinentes.
 
 ---
@@ -683,3 +689,15 @@ Alineadas en la misma fecha: Plantilla Maestra v2.20, Manual de Estilo v1.18, `t
 El TXT de entrega queda suprimido: la tabla file-a-file (rutas dentro del repo, bytes, SHAs, blobs) se entrega únicamente en el chat, junto con los dos bloques del mensaje. Orden del editor del 01-10-2026, que levanta la moratoria solo para esta enmienda; motivo: el editor no descarga los TXT, no forman parte del repositorio y desaparecen al limpiar el espacio de trabajo del asistente.
 
 Alineadas en la misma fecha: `tools/efemerides-linter.sh` (cabecera, sin auditorías nuevas), `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`; Plantilla Maestra v2.20, Manual de Estilo v1.18 e Instrucciones de Procesar v2.14, sin novedad.
+
+---
+
+## ACTUALIZACIONES DE FORMATO V2.20 — 2026-10-02
+
+### Coherencia de la política de commits
+
+La prohibición absoluta de mencionar imágenes, conservada en el registro histórico de la v2.1, queda marcada como superada. La sección normativa vigente «Mensajes de commit para GitHub Desktop» no cambia de fondo: en las altas, la primera viñeta de la Description describe post, imagen, linter y ecos; la segunda, referencias, discrepancias y enlaces cruzados. La tabla file-a-file permanece fuera del mensaje y se entrega únicamente en el chat, sin TXT. Continúa prohibido relatar sustituciones, incidencias y otros cambios internos del flujo editorial.
+
+### Alineación
+
+Plantilla Maestra v2.21, Instrucciones de Procesar v2.15, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Manual de Estilo v1.18: sin novedad.

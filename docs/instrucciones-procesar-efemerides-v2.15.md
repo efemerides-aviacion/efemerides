@@ -1,6 +1,12 @@
 # Documento de Instrucciones Editoriales para Procesar Efemérides de Aviación
-> Última actualización: 2026-08-28  
-> Versión: v2.14
+> Última actualización: 2026-10-02  
+> Versión: v2.15
+
+---
+
+## NOTA SOBRE ESTA VERSIÓN
+
+**Novedad de la v2.15.** Corrección de coherencia ordenada por el editor el 02-10-2026: el flujo de commit deja de remitir a Formato v2.8 y pasa a las Instrucciones de Formato vigentes —Formato v2.20 en esta actualización—. Se elimina la instrucción obsoleta de colocar rutas dentro de la Description y la prohibición absoluta de mencionar imágenes. Para las altas rige la Description de dos viñetas de Formato: post, imagen, linter y ecos; luego referencias, discrepancias y enlaces cruzados. Se mantiene la prohibición de relatar cambios internos del flujo. Plantilla Maestra v2.21; Manual de Estilo v1.18: sin novedad.
 
 ---
 
@@ -308,12 +314,19 @@ Ese commit debe funcionar como la **incorporación formal** del post al reposito
 
 ### Formato obligatorio
 El commit se aplica y empuja con **GitHub Desktop**. La entrega consiste en los
-archivos finales listos para copiar al clon y el mensaje en los dos campos de
-la interfaz, conforme a «Mensajes de commit para GitHub Desktop» de las
-Instrucciones de Formato (v2.8):
-- **Resumen (Summary):** frase descriptiva en español que nombra el cambio.
-- **Descripción (Description):** viñetas con archivos (ruta en el repo) y notas
-  pertinentes (imagen y licencia, enlaces internos, documento base).
+archivos finales listos para copiar al clon y los datos definidos por la sección
+«Mensajes de commit para GitHub Desktop» de las Instrucciones de Formato
+vigentes —Formato v2.20 en esta actualización—:
+
+- **Resumen (Summary):** una sola línea. En altas sigue el patrón
+  `Alta AAAA-MM-DD: <hito corto>`; en tandas y correcciones, una frase
+  descriptiva en español que nombre el cambio.
+- **Descripción (Description):** un máximo de dos viñetas. En altas, la primera
+  describe post, imagen, linter y ecos; la segunda, referencias, discrepancias
+  y enlaces cruzados.
+
+La tabla file-a-file —rutas dentro del repositorio, bytes, SHA y blobs— se
+entrega únicamente en el chat y nunca dentro del mensaje. No se genera TXT.
 
 Quedan derogados el prefijo `feat(efemerides): ...` y el cierre Categoría/País.
 No se entregan parches `git am` ni commits construidos en el clon del entorno.
@@ -406,6 +419,8 @@ asume como estado vigente. Práctica registrada los días 27 y 28 de agosto de
 | v2.11 | 2026-08-20 | Tamaño de casa 800×1000 / 1200×675; se permite ampliar. |
 | v2.12 | 2026-08-20 | Nombre de imagen = post; conteo de refs; hechos pluridiarios en la culminación. |
 | v2.13 | 2026-08-21 | Alineación con la Plantilla Maestra v2.16 y el Manual de Estilo v1.13 (renumeración de § 8: la verificación de contenido pasa de § 8.4 a § 8.6). Sin cambios de fondo. |
+| v2.14 | 2026-08-28 | Entrega de altas individuales sin ZIP y comprobación del estado publicado por cotejo de contenido, encuadre y cotas. |
+| v2.15 | 2026-10-02 | Flujo de commit alineado con Formato v2.20 y Plantilla v2.21: dos bloques en chat, tabla file-a-file fuera del mensaje, sin TXT y sin prohibición de mencionar la imagen; se mantiene la exclusión de cambios internos del flujo. |
 
 
 ---
@@ -430,7 +445,7 @@ Una imagen representativa debe identificarse como tal. Las notas y metadatos deb
 Antes de redactar, verificar que fecha, tema, título, nombre del archivo, `date` del YAML y URL pública sean coherentes. Toda discrepancia debe resolverse o documentarse.
 
 ### Commit inicial
-No proponer un commit hasta que el editor lo solicite expresamente. El commit inicial representa la incorporación formal limpia del post y no debe mencionar imágenes ni cambios internos del flujo.
+No proponer un commit hasta que el editor lo solicite expresamente. El commit inicial representa la incorporación formal limpia del post y no debe mencionar imágenes ni cambios internos del flujo. *(Superado en v2.15: la Description se rige por las Instrucciones de Formato vigentes y sí describe la imagen; se mantiene únicamente la prohibición de relatar cambios internos del flujo.)*
 
 ### Categorías incorporadas
 Se reconocen también `conmemoracion` y la combinación `[espacial, accidente]`, con sus divisores visuales específicos.
@@ -675,3 +690,15 @@ pipeline (md5 no).
 
 Alineadas en la misma fecha: Plantilla Maestra v2.17, Instrucciones de Formato
 v2.14 y Manual de Estilo v1.14.
+
+---
+
+## ACTUALIZACIONES DE PROCESAMIENTO V2.15 — 2026-10-02
+
+### Alineación del flujo de commit
+
+La sección «Flujo de commit» deja de remitir a Formato v2.8 y adopta la regla vigente de Formato v2.20: Summary de una línea, Description de hasta dos viñetas y tabla file-a-file exclusivamente en el chat. En las altas, la primera viñeta describe post, imagen, linter y ecos; la segunda, referencias, discrepancias y enlaces cruzados. La regla heredada que prohibía mencionar imágenes queda derogada; continúa prohibido relatar sustituciones, incidencias y otros cambios internos del flujo editorial.
+
+### Alineación
+
+Plantilla Maestra v2.21, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Instrucciones de Formato v2.20 y Manual de Estilo v1.18: sin novedad.

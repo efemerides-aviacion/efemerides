@@ -1,10 +1,12 @@
 # Documento Maestro de Plantillas de Efemérides de Aviación
-> Última actualización: 2026-09-29  
-> Versión: v2.20
+> Última actualización: 2026-10-02  
+> Versión: v2.21
 
 ---
 
 ## Nota sobre esta versión
+
+**Novedad de la v2.21.** Corrección de coherencia ordenada por el editor el 02-10-2026: la sección «Política de commits» deja de prohibir toda mención de la imagen y remite a las Instrucciones de Formato vigentes para la composición del Summary, la Description y la tabla file-a-file. Se conserva la prohibición de relatar cambios internos del flujo. La corrección alinea esta Plantilla con Formato v2.20 y con Procesar v2.15; no modifica la estructura del post, las reglas de contenido ni las auditorías del linter. En paralelo se actualizan la cabecera de `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Manual de Estilo v1.18: sin novedad. Registro de la versión anterior debajo.
 
 **Novedad de la v2.20.** Dos decisiones del editor del 29-09-2026, a raíz del alta 1931-10-05 (*Miss Veedol*): (a) la **regla maestra 16** codifica el **principio de asignación única** («un dato, una sección») fuera del `Resumen Ejecutivo` —con delimitación de la función exclusiva de cada bloque del post— y fija la **banda de extensión para lectura móvil** (1.150–1.500 palabras narrativas, tope recomendado de 1.550; 14–18 KB por archivo `.md`), de aplicación **no retroactiva** a las nuevas altas desde el 29-09-2026; (b) la **regla maestra 17** devuelve `## Metadatos de Control` a su formato telegráfico original (65–120 palabras, tope de 150): las listas de fuentes consignan solo nombres breves de instituciones o medios y `Discrepancias resueltas` se resume en una línea, sin repetir títulos, autores, signaturas ni descripciones de `## Referencias Verificadas`. En paralelo: Manual de Estilo v1.18 (§ 5 y § 10), Instrucciones de Formato v2.18, `tools/efemerides-linter.sh` y `docs/guia-del-linter.md`. Instrucciones de Procesar v2.14: sin novedad. Registro de la versión anterior debajo.
 
@@ -1807,7 +1809,7 @@ Debe reflejar la fecha y hora local exactas de finalización del documento y no 
 El pie debe distinguir entre imagen exacta, imagen anterior, imagen posterior e imagen representativa. Si la fuente bloquea la descarga, se debe informar de manera expresa.
 
 ### Política de commits
-El commit inicial solo se entrega tras solicitud expresa. Debe representar la incorporación formal limpia del post, sin mencionar imágenes ni cambios internos del flujo.
+El commit inicial solo se entrega tras solicitud expresa. Debe representar la incorporación formal limpia del post, sin mencionar imágenes ni cambios internos del flujo. *(Superado en v2.21: la Description se rige por las Instrucciones de Formato vigentes y sí describe la imagen; se mantiene únicamente la prohibición de relatar cambios internos del flujo.)*
 
 ### Cifras
 Miles con punto, decimales con coma y conversiones métricas cuando resulten pertinentes.
@@ -1937,6 +1939,7 @@ de agosto, levantando parcialmente la moratoria del 21-08.
 | v2.18 | 2026-09-03 | Regla maestra 5 reescrita: lista enunciativa de grados, plural de grado ante lista de nombres y regulación de tratamientos honoríficos (D2-a), con anexo comparativo normativo en `docs/`. |
 | v2.19 | 2026-09-23 | Regla maestra 5 con la excepción institucional D1-b; regla maestra 2 con la reserva de enlaces externos a `## Referencias Verificadas` y `<figcaption>`. |
 | v2.20 | 2026-09-29 | Regla maestra 16: asignación única por sección y banda de extensión para lectura móvil (1.150–1.500 palabras narrativas; tope 1.550), no retroactiva. Regla maestra 17: Metadatos de Control telegráficos (65–120 palabras, tope 150). |
+| v2.21 | 2026-10-02 | Política de commits alineada con Formato v2.20: la Description puede y debe mencionar la imagen conforme al patrón vigente; rutas, bytes, SHAs y blobs permanecen en la tabla file-a-file del chat. Se mantiene la prohibición de relatar cambios internos del flujo. |
 
 ---
 
@@ -1953,3 +1956,17 @@ La auditoría del 29-09-2026 sobre las altas recientes mostró metadatos de 240�
 ### Alineación
 
 Manual de Estilo v1.18 (§ 5 y § 10), Instrucciones de Formato v2.18 (pautas de repetición y apartado de metadatos), `tools/efemerides-linter.sh` (auditorías nuevas de extensión narrativa y de extensión de metadatos, en modo `[AVISO]`) y `docs/guia-del-linter.md`. Instrucciones de Procesar v2.14: sin novedad.
+
+---
+
+## Corrección de coherencia v2.21 — 2026-10-02
+
+### Política de commits
+
+La prohibición absoluta de mencionar imágenes, heredada de la v2.1, queda sustituida por una remisión dinámica a la sección «Mensajes de commit para GitHub Desktop» de las Instrucciones de Formato vigentes. En Formato v2.20, la primera viñeta de la Description de un alta describe post, imagen, linter y ecos; la segunda resume referencias, discrepancias y enlaces cruzados. Las rutas, bytes, SHA y blobs se consignan únicamente en la tabla file-a-file del chat y nunca dentro del mensaje del commit.
+
+La incorporación debe seguir siendo formal y limpia: no relata sustituciones de imagen, intentos fallidos, incidencias del entorno ni otros cambios internos del flujo editorial.
+
+### Alineación
+
+Instrucciones de Procesar v2.15, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Instrucciones de Formato v2.20 y Manual de Estilo v1.18: sin novedad.
