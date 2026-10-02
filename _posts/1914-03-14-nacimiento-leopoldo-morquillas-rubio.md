@@ -1,152 +1,111 @@
 ---
 layout: post
-title: "14 de marzo de 1914 | Nacimiento de Leopoldo Morquillas Rubio, as de la aviación republicana española"
+title: "14 de marzo de 1914 | Nacimiento de Leopoldo Morquillas Rubio, piloto republicano español"
 date: 1914-03-14
 categories: [nacimiento]
 author: Enrique Pomares
 pais: España / Unión Soviética
 operator: Fuerzas Aéreas de la República Española (FARE) / Fuerza Aérea Soviética (VVS)
-excerpt: "Leopoldo Morquillas Rubio, nacido el 14 de marzo de 1914 en Tarragona, fue uno de los principales ases de la aviación republicana con 21 derribos. Exiliado en la URSS, combatió en la Segunda Guerra Mundial con el Ejército Rojo y alcanzó el grado de teniente coronel."
+excerpt: "Morquillas pasó de ametrallador a piloto y mando de cazas durante la guerra española. Su posterior carrera soviética prolongó una trayectoria marcada por el conflicto y el exilio."
 image: 1914-03-14-nacimiento-leopoldo-morquillas-rubio.webp
 redirect_from:
   - /nacimiento/1914/03/14/leopoldo-morquillas-rubio.html
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1914-03-14-nacimiento-leopoldo-morquillas-rubio.webp" alt="Leopoldo Morquillas Rubio">
-  <figcaption class="post-caption">Leopoldo Morquillas Rubio (Tarragona, 14 de marzo de 1914 – Tula, 1 de diciembre de 1989), piloto republicano y posteriormente teniente coronel del Ejército Rojo soviético. Retrato ca. década de 1930. Fuente: <a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=307261" style="color: #315fea; text-decoration: none;">Biblioteca Virtual de Defensa (España)</a>.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1914-03-14-nacimiento-leopoldo-morquillas-rubio.webp" alt="Retrato de Leopoldo Morquillas Rubio con indumentaria de vuelo">
+  <figcaption class="post-caption">Leopoldo Morquillas en Santander, 1937, según el pie de la fotografía publicada en el artículo de Rafael de Madariaga, <em>Aeroplano</em> n.º 13. <a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=307261" style="color: #315fea; text-decoration: none;">Biblioteca Virtual de Defensa</a>. Recorte del retrato; fotógrafo y licencia no identificados.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>Leopoldo Morquillas Rubio nació el 14 de marzo de 1914 en Tarragona. Fue uno de los principales ases de la aviación republicana durante la Guerra Civil Española, con 21 aparatos enemigos derribados. Tras el exilio en la Unión Soviética, combatió en la Segunda Guerra Mundial integrado en la Fuerza Aérea Soviética (VVS), alcanzando el grado de teniente coronel. Falleció en Tula el 1 de diciembre de 1989.</p>
+<p>Leopoldo Morquillas Rubio desarrolló su carrera de combate en la aviación republicana española y continuó su vida profesional en la Unión Soviética. Su trayectoria permite distinguir funciones que a menudo se confunden: servir a bordo como ametrallador-bombardero no era todavía ejercer de piloto. La formación posterior y el mando de unidades de caza explican su reconocimiento como uno de los aviadores destacados del bando republicano. Las victorias que le atribuyen los repertorios deben presentarse como créditos históricos, sin convertirlos en un recuento independiente de pérdidas enemigas.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
-- **Fecha de nacimiento:** 14 de marzo de 1914
-- **Lugar:** Tarragona, España
-- **Fallecimiento:** 1 de diciembre de 1989 (75 años), Tula, RSFS de Rusia, Unión Soviética
-- **Nacionalidad:** Española (posteriormente residente en la URSS)
-- **Ocupación:** Piloto militar, as de la aviación, instructor de vuelo
-- **Rango:** Teniente coronel (tanto en las FARE como en la VVS)
-- **Lealtad:** Segunda República Española / Unión Soviética
-- **Conflictos:** Guerra Civil Española (1936-1939), Segunda Guerra Mundial (1941-1945)
-- **Años de servicio:** 1933 – 1948
-- **Victorias acreditadas:** 21 aparatos enemigos derribados
 
-### Aeronaves pilotadas
-
-Morquillas voló la progresión completa de la caza republicana: empezó como ametrallador-bombardero en el Breguet XIX, entró en combate con el Nieuport NiD-52 y se hizo especialista del Polikarpov I-15 «Chato», con el que logró sus victorias.
-
-
-### Breguet XIX
-Biplano de origen francés utilizado como bombardero ligero y avión de reconocimiento. Morquillas lo pilotó en los primeros meses de la guerra como ametrallador-bombardero. Aunque robusto y fiable, estaba obsoleto en 1936 frente a los modernos cazas enemigos.
-
-### Nieuport NiD-52
-Caza monoplaza de fabricación española (bajo licencia francesa), equipado con motor Hispano-Suiza de 500 hp y dos ametralladoras Vickers. Morquillas entró en combate con este aparato a partir de febrero de 1937, antes de recibir los cazas soviéticos.
-
-### Polikarpov I-15 «Chato»
-Caza biplano de origen soviético, con motor radial Shvetsov M-25 de 750 hp, cuatro ametralladoras PV-1 de 7,62 mm y una velocidad máxima de 362 km/h. Fue el avión emblemático de la aviación republicana y el principal instrumento de las victorias de Morquillas. Su excelente maniobrabilidad en combates cerrados y a baja altitud lo hacía muy efectivo, aunque su velocidad era inferior a la de los cazas alemanes e italianos. La escuadrilla de Morquillas fue la primera unidad española en operar este modelo (marzo de 1937).
+- **Nacimiento:** 14 de marzo de 1914, Tarragona.
+- **Fallecimiento:** 1 de diciembre de 1989, Tula, Unión Soviética.
+- **Actividad:** piloto militar y mando de unidades de caza.
+- **Servicios:** aviación republicana española y aviación soviética.
+- **Grado final en la URSS:** teniente coronel de aviación, según la biografía del Ejército del Aire.
+- **Créditos atribuidos en España:** 21 victorias, cifra de los repertorios secundarios.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
-Leopoldo Morquillas Rubio nació en 1914, en vísperas de la Primera Guerra Mundial, y creció en una España que atravesaba profundas convulsiones sociales y políticas. Su juventud coincidió con la dictadura de Primo de Rivera y la posterior proclamación de la Segunda República (1931), un período de apertura y modernización que facilitó el desarrollo de la aviación militar española.
+La guerra aceleró la formación y promoción de personal procedente de empleos subalternos. Una carrera aérea podía atravesar destinos, escuelas y funciones muy diferentes antes de llegar a la jefatura de una unidad operativa.
 
 ### Entorno social
-Procedente de una familia de tradición militar, Morquillas se sintió atraído desde joven por la aeronáutica, una rama entonces en pleno desarrollo y asociada a la modernidad y el prestigio. Su incorporación a la Aeronáutica Militar en 1933, a los 19 años, refleja tanto su vocación personal como las oportunidades que ofrecía la República a las nuevas generaciones.
+
+La experiencia inicial de Morquillas fue la de un voluntario que realizaba tareas de servicio en tierra y buscaba oportunidades para volar. Rafael de Madariaga recoge sus recuerdos del mantenimiento cotidiano de los aparatos y de los vuelos como acompañante. Ese aprendizaje no debe transformarse retrospectivamente en una cualificación de piloto que aún no tenía.
 
 ### Entorno tecnológico
-La aviación militar española vivió una etapa de modernización en los años treinta, con la incorporación de nuevos modelos de aeronaves nacionales y extranjeras. Sin embargo, al estallar la Guerra Civil en 1936, la República sufrió una aguda inferioridad tecnológica frente a los sublevados, que contaban con el apoyo de la Alemania nazi y la Italia fascista. La llegada de aviones soviéticos como el Polikarpov I-15 «Chato» y el I-16 «Mosca» permitió equilibrar parcialmente la balanza.
+
+Los Breguet XIX empleados al comienzo del conflicto requerían distinguir al piloto del tripulante encargado de armas y bombardeo. Después, la transición a cazas Nieuport y Polikarpov I-15 exigía otra preparación. La variedad de modelos ayuda a comprender por qué la experiencia de vuelo previa no suprimía la necesidad de pasar por una escuela.
 
 ### Entorno cultural
-La Guerra Civil Española fue un conflicto de enorme intensidad ideológica. Morquillas, como la mayoría de los pilotos republicanos, combatió motivado por la defensa de la legalidad republicana y la lucha contra el fascismo. Tras la derrota, su exilio en la URSS y su posterior integración en el Ejército Rojo durante la Segunda Guerra Mundial continuaron esa misma lucha en un escenario más amplio.
+
+Las memorias de los aviadores conservaron experiencias que los partes operativos no describían del mismo modo. El Archivo General de la Región de Murcia cataloga dos entregas de «Personales recuerdos y opiniones», publicadas en Alas Gloriosas en 1983. La ficha acredita la existencia y localización del texto, no permite atribuirle cualquier afirmación sobre la guerra.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
-- **1914 (14 de marzo):** Nace Leopoldo Morquillas Rubio en Tarragona, en el seno de una familia con tradición militar.
-- **1933:** Se incorpora a la Aeronáutica Militar Española, siendo destinado inicialmente al aeródromo de El Prat de Llobregat (Barcelona).
-- **Julio de 1936:** Al estallar la Guerra Civil, se encuentra destinado en la Base Aérea de Getafe (Madrid).
-- **Primeros meses de la guerra:** Opera como ametrallador-bombardero en los antiguos biplanos Breguet XIX.
-- **Diciembre de 1936:** Realiza cursos de pilotaje en la Escuela de La Ribera, junto a otros futuros ases como Zarauza o Zambudio.
-- **Febrero de 1937:** Entra en combate con los cazas Nieuport NiD-52, operando desde Reus y posteriormente desde Andújar (Jaén).
-- **Marzo de 1937:** Su escuadrilla se convierte en la primera unidad española en operar los Polikarpov I-15 «Chatos» de origen soviético.
-- **Mayo de 1937:** Es enviado con dos escuadrillas de «Chatos» a Santander para apoyar a las fuerzas republicanas en el Frente Norte.
-- **Finales de agosto de 1937:** Tras la caída de Bilbao y Santander, regresa a la zona central y es destinado a la defensa aérea de Barcelona.
-- **Finales de 1937 – principios de 1938:** Al frente de la 2.ª Escuadrilla de «Chatos», participa en varias operaciones durante la Batalla de Teruel.
-- **Junio de 1938:** Sustituye temporalmente a Juan Comas al frente del Grupo 26 de Caza.
-- **Julio de 1938:** Se traslada al sur para apoyar a las fuerzas republicanas en el Frente de Extremadura.
-- **Septiembre de 1938:** Es enviado a la Unión Soviética para realizar un curso avanzado de aviación en Lipetsk.
-- **1939 (final de la guerra):** La derrota republicana le sorprende en la URSS, donde permanece exiliado.
-- **1941-1945 (Segunda Guerra Mundial):** Se integra en la Fuerza Aérea Soviética (VVS) como piloto de combate e instructor. Alcanza el grado de teniente coronel.
-- **1948:** Se retira del servicio activo.
-- **Posguerra:** Reside en la ciudad de Tula, donde trabaja como director de una fábrica de hormigón armado.
-- **1 de diciembre de 1989:** Fallece en Tula a los 75 años.
-
-### Victorias acreditadas y condición de «as»
-
-La historiografía atribuye a Morquillas 21 aparatos derribados, lo que lo sitúa entre los grandes ases de la aviación republicana, aunque la documentación de la época —que acreditaba las victorias a las unidades y se perdió en parte— impide detallar cada derribo.
-
-### El sistema de acreditación en la aviación republicana
-
-Durante la Guerra Civil Española, la confirmación de victorias aéreas era un proceso complejo. A diferencia de otros conflictos, la documentación oficial republicana solía atribuir los derribos a las escuadrillas o grupos en su conjunto, en lugar de a pilotos individuales. Esta práctica, unida a la destrucción parcial de los archivos al final de la guerra, dificulta la reconstrucción precisa de los logros individuales.
-
-### Las 21 victorias de Morquillas
-
-A pesar de estas limitaciones, existe un amplio consenso historiográfico en atribuir a Leopoldo Morquillas Rubio **21 aparatos enemigos derribados**, lo que lo sitúa entre los principales ases de la aviación republicana . Diversas fuentes especializadas, como las obras de William Yenne, Christopher F. Shores y Rafael A. Permuy López, respaldan esta cifra.
-
-Morquillas combatió en los frentes más importantes de la guerra: Norte, Centro, Teruel, Extremadura y la defensa de Barcelona. Sus victorias se obtuvieron principalmente pilotando el Polikarpov I-15 «Chato», un caza biplano de origen soviético del que fue un consumado especialista.
-
-### Controversias y precisiones
-
-Es importante señalar que, aunque las fuentes coinciden en las 21 victorias, la falta de documentación primaria exhaustiva impide conocer con detalle la lista de derribos individuales. Algunos historiadores consideran que esta cifra podría incluir tanto victorias en solitario como compartidas, una práctica común en la aviación republicana. No obstante, su condición de «as» (piloto con cinco o más derribos) es indiscutible, y su nombre figura junto a los de otros grandes pilotos republicanos como José María Bravo, Miguel Zambudio, Juan Comas o Andrés García La Calle.
+- **1933–1934:** ingresó como voluntario en la Aviación Militar y pasó por El Prat y Logroño. El aprendizaje incluyó tareas vinculadas con distintos servicios técnicos.
+- **1936:** estando de permiso en Madrid se incorporó a Getafe. Participó en misiones de los antiguos biplanos como ametrallador-bombardero, acompañado por pilotos responsables de su conducción.
+- **Diciembre de 1936–enero de 1937:** realizó el curso de La Ribera. La biografía institucional sitúa su suelta el 13 de enero, después de ocho horas de doble mando.
+- **Campaña de 1937:** pasó por Reus y Andújar, se entrenó en el I-15 y combatió en el norte. A finales de mayo asumió la jefatura de los Chatos de aquel frente. Tras la pérdida de Bilbao continuó en Santander y posteriormente fue destinado a la protección de Barcelona.
+- **1938:** mandó una escuadrilla durante la campaña de Teruel y ejerció temporalmente la jefatura del Grupo 26. En septiembre marchó a la escuela táctica de Lipetsk; su salida fue anterior al final de la guerra española.
+- **Etapa soviética:** actuó como instructor y participó en la guerra contra la Alemania nazi. Terminada la contienda desarrolló una carrera civil en la ciudad donde fijó su residencia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
-Con 21 victorias acreditadas, Morquillas figura entre los principales ases de la aviación republicana: su escuadrilla fue la primera unidad española en operar el «Chato» y combatió en el Norte, Teruel, Extremadura y Barcelona. Enviado a la URSS en 1938, la derrota lo sorprendió allí y sirvió en la Fuerza Aérea Soviética como piloto de combate e instructor hasta 1948, con el grado de teniente coronel.
+Su ascenso muestra cómo la necesidad de personal y la experiencia de combate alteraron trayectorias previstas en tiempo de paz. No basta explicar esa promoción por la suma de victorias: también intervinieron la capacidad de organización y la responsabilidad de dirigir a otros pilotos.
+
+El desplazamiento hacia el este cambió de nuevo el marco de su actividad. La formación recibida y transmitida fuera de España prolongó una experiencia que, para muchos republicanos, quedó unida a la imposibilidad de regresar tras la derrota.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
-Morquillas vivió el resto de su vida en Tula, donde dirigió una fábrica de hormigón armado hasta su muerte en 1989. Su nombre figura junto a los de Bravo, Zambudio, Comas y García La Calle entre los grandes pilotos republicanos, con el respaldo de historiadores como Yenne, Shores y Permuy López.
+La reconstrucción de su carrera depende de combinar documentación institucional, testimonios personales y estudios posteriores. El artículo de Aeroplano conserva una imagen del aviador en el frente septentrional y fragmentos de sus recuerdos; la ficha archivística murciana muestra otra vía de preservación de esa memoria.
+
+Las cifras de combate y los datos biográficos requieren fuentes de alcance adecuado. La ausencia de un balance soviético detallado en las referencias disponibles no demuestra que no lograra victorias en aquel escenario. Tampoco corresponde presentar un libro mencionado por una enciclopedia como si hubiera sido consultado directamente.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
+
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Leopoldo_Morquillas_Rubio" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Leopoldo Morquillas Rubio</a></li>
-    <li><a href="https://www.wikiwand.com/es/Leopoldo_Morquillas_Rubio" style="color: #315fea; text-decoration: none;">Wikiwand – Leopoldo Morquillas Rubio</a></li>
-    <li><a href="https://pt.wikipedia.org/wiki/Leopoldo_Rubio" style="color: #315fea; text-decoration: none;">Wikipedia (PT) – Leopoldo Rubio</a></li>
-    <li><a href="https://www.mcnbiografias.com/app-bio/do/show?key=morquillas-rubio-leopoldo" style="color: #315fea; text-decoration: none;">MCN Biografías – Leopoldo Morquillas Rubio</a></li>
-    <li><a href="https://aviadoresrepublicanos.blogspot.com/2019/07/leopoldo-morquillas-rubio.html" style="color: #315fea; text-decoration: none;">Blog Aviadores Republicanos – Leopoldo Morquillas Rubio</a></li>
-    <li><a href="https://www.airaces.narod.ru/spane/morkquil.htm" style="color: #315fea; text-decoration: none;">Красные Соколы (Red Falcons) – Leopoldo Morquillas Rubio</a></li>
-    <li><a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=307261" style="color: #315fea; text-decoration: none;">Biblioteca Virtual de Defensa – Retrato de Leopoldo Morquillas Rubio</a></li>
-    <li><a href="https://turismoweb.carm.es/archivoGeneral/arg.detalle_documento?idDetalle=5706258" style="color: #315fea; text-decoration: none;">Archivo General de la Región de Murcia – Artículo "Personales recuerdos y opiniones" (1983)</a></li>
+    <li><a href="https://web.archive.org/web/20131203152559/http://www.ejercitodelaire.mde.es/ea/pag?idDoc=0411B74D87D3873EC1257A3F004356A3&amp;idRef=3107D968FDC491C8C1257AAF00452F83" style="color: #315fea; text-decoration: none;">Ejército del Aire — Morquillas Rubio, Leopoldo: datos vitales; copia archivada del 3 de diciembre de 2013.</a></li>
+    <li><a href="https://web.archive.org/web/20171011022107/http://www.ejercitodelaire.mde.es/ea/pag?idDoc=0411B74D87D3873EC1257A3F004356A3&amp;idRef=EDB0B4B271DDA482C1257AAF00452F84" style="color: #315fea; text-decoration: none;">Ejército del Aire — biografía de Morquillas; copia archivada del 11 de octubre de 2017.</a></li>
+    <li><a href="https://bibliotecavirtual.defensa.gob.es/BVMDefensa/es/catalogo_imagenes/grupo.do?path=307261" style="color: #315fea; text-decoration: none;">Rafael de Madariaga Fernández — Leopoldo Morquillas y una tumba en el Cáucaso, Aeroplano n.º 13 (1995); página inicial y retrato, Biblioteca Virtual de Defensa.</a></li>
+    <li><a href="https://turismoweb.carm.es/archivoGeneral/arg.detalle_documento?idDetalle=5706258" style="color: #315fea; text-decoration: none;">Archivo General de la Región de Murcia — FM,10579/99; ficha de Personales recuerdos y opiniones, boletines 25 y 26 de 1983.</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Leopoldo_Morquillas_Rubio" style="color: #315fea; text-decoration: none;">Wikipedia en español — Leopoldo Morquillas Rubio; contraste y cifra de victorias atribuida.</a></li>
   </ul>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Las cifras de victorias aéreas durante la Guerra Civil Española deben ser interpretadas con cautela. A diferencia de otros conflictos, la documentación oficial republicana no siempre individualizaba los derribos, y muchos archivos se perdieron durante la guerra o en el posterior exilio republicano. La cifra de **21 derribos** atribuida a Morquillas es la más aceptada por la historiografía especializada, pero no es posible determinar con exactitud cuántas de esas victorias fueron en solitario y cuántas compartidas con otros pilotos. Tampoco existe un registro detallado de los tipos de aeronaves derribadas.</p>
+  <p><strong>Nota aclaratoria:</strong> Los datos vitales se apoyan en la ficha archivada del Ejército del Aire. Aeroplano sitúa su incorporación «a comienzos de 1933», con dieciocho años: esa edad es compatible con un ingreso anterior a su cumpleaños y no constituye una contradicción probada. La jefatura del grupo fue accidental, no un mando permanente durante toda la campaña. La página inicial de la revista y el catálogo de Murcia tienen alcances distintos: este último no ofrece el texto del testimonio.</p>
 </div>
-
-Además, aunque Morquillas combatió en la Segunda Guerra Mundial con la Fuerza Aérea Soviética, no hay constancia de que se le atribuyan victorias adicionales en ese conflicto. Su papel en la VVS fue principalmente como instructor y piloto de combate, pero los archivos soviéticos no registran derribos confirmados durante la «Gran Guerra Patria».
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:32:55 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia, Wikiwand, MCN Biografías, Красные Соколы, Biblioteca Virtual de Defensa  
-- **Discrepancias resueltas:** Se ha confirmado la cifra de 21 derribos, aunque se señala la imposibilidad de verificar individualmente cada victoria.  
-- **Datos no confirmados:** Listado detallado de las 21 victorias; posible existencia de victorias compartidas.  
-- **Nivel de confianza:** Alto  
-- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”
+- **Timestamp de verificación:** 2026-10-02 16:55:10 CST  
+- **Fuentes primarias/institucionales consultadas:** Ejército del Aire; Biblioteca Virtual de Defensa; Archivo General de la Región de Murcia.  
+- **Fuentes secundarias de contraste:** Wikipedia en español.  
+- **Discrepancias resueltas:** Ametrallador y piloto diferenciados; mando accidental precisado; sin inferencias negativas sobre créditos soviéticos.  
+- **Nivel de confianza:** Alto en datos vitales y secuencia española; detalle limitado sobre la etapa soviética.  
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
