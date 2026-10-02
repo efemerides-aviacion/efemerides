@@ -6,134 +6,93 @@ categories: [nacimiento]
 author: Enrique Pomares
 pais: Reino Unido
 operator: Royal Air Force (RAF) / Power Jets Ltd.
-excerpt: "El 1 de junio de 1907 nació en Coventry, Inglaterra, Frank Whittle, el oficial de la RAF cuyo invento del motor turborreactor revolucionó la aviación. Su Whittle Unit (WU), probada con éxito el 12 de abril de 1937, fue el primer turborreactor práctico del mundo, allanando el camino para la era del jet y transformando para siempre la aviación militar y comercial."
+excerpt: "Frank Whittle impulsó el desarrollo británico del turborreactor, desde la propuesta patentada hasta los motores de vuelo, en una trayectoria marcada por ensayos, dificultades financieras y colaboración industrial."
 image: 1907-06-01-nacimiento-frank-whittle.webp
 ---
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1907-06-01-nacimiento-frank-whittle.webp" alt="Retrato de Sir Frank Whittle en uniforme de la RAF">
-  <figcaption class="post-caption">Retrato oficial de Sir Frank Whittle en uniforme de la Royal Air Force, pionero británico del motor turborreactor, nacido el 1 de junio de 1907. Fuente: National Portrait Gallery / dominio público.</figcaption>
+  <figcaption class="post-caption">Sir Frank Whittle en uniforme de la Royal Air Force. Fuente: National Portrait Gallery / dominio público.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 1 de junio de 1907 nació en Coventry, Warwickshire, Inglaterra, **Frank Whittle**, el ingeniero y oficial de la Royal Air Force que inventó el motor turborreactor, una de las innovaciones más importantes del siglo XX . En 1928, siendo cadete de la RAF, presentó una tesis titulada *"Future Developments in Aircraft Design"* en la que demostraba matemáticamente que un motor de turbina de gas podía ser más eficiente a gran altitud que los motores de pistón convencionales . En 1930 patentó su diseño, pero el Ministerio del Aire británico lo rechazó por considerarlo impracticable . Sin financiación, su patente expiró en 1934. En 1935, con la ayuda de dos excompañeros de la RAF, fundó **Power Jets Ltd.** y, tras superar innumerables dificultades, logró hacer funcionar su **Whittle Unit (WU)** el 12 de abril de 1937, en una fábrica de Rugby, Inglaterra . Este fue el **primer turborreactor práctico del mundo**, un hito que inauguró la era del jet . En 1941, el Gloster E.28/39, propulsado por un motor Whittle, realizó el primer vuelo británico a reacción . Whittle fue nombrado Caballero (Sir) en 1948 y falleció el 9 de agosto de 1996 en Columbia, Maryland, a los 89 años .</p>
+<p>Frank Whittle nació en Coventry el 1 de junio de 1907. Su experiencia como mecánico, piloto y oficial británico se combinó con la formación científica para plantear una propulsión que prescindía de la hélice. Convertir esa idea en una máquina operativa exigió años de ensayos y una financiación que no llegó de inmediato.</p>
+<p>Su contribución pertenece a una historia de desarrollos paralelos: Hans von Ohain trabajó de forma independiente en Alemania. Whittle impulsó la línea británica del turborreactor y vio cómo pasaba del banco experimental al avión. La dimensión de su obra se aprecia tanto en ese cambio técnico como en las dificultades de transformar una patente en un programa industrial.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
-- **Fecha de nacimiento:** 1 de junio de 1907
-- **Lugar de nacimiento:** Coventry, Warwickshire, Inglaterra, Reino Unido
-- **Fallecimiento:** 9 de agosto de 1996 (89 años), Columbia, Maryland, Estados Unidos
-- **Nacionalidad:** Británica
-- **Profesión:** Ingeniero aeronáutico, oficial de la Royal Air Force (RAF)
-- **Educación:** RAF Cranwell, Universidad de Cambridge (maestría en 1937)
-- **Rango militar:** Comodoro del Aire (Air Commodore)
-- **Patente del motor turborreactor:** 16 de enero de 1930 (Nº 347.206)
-- **Prueba exitosa del Whittle Unit (WU):** 12 de abril de 1937, Rugby, Inglaterra
-- **Primer vuelo del Gloster E.28/39:** 15 de mayo de 1941 (primer avión a reacción británico)
-- **Primer vuelo del Gloster Meteor:** 5 de marzo de 1943 (primer caza a reacción aliado)
-- **Condecoraciones:** Knight Bachelor (1948), Orden del Imperio Británico (CBE, 1947), Orden del Baño (CB, 1947)
-- **Empresa fundada:** Power Jets Ltd. (marzo de 1936)
+- **Nacimiento:** 1 de junio de 1907.
+- **Lugar:** Coventry, Warwickshire, Inglaterra, Reino Unido.
+- **Padres:** Moses Whittle y Sara Alice Whittle.
+- **Nacionalidad:** británica.
+- **Profesión:** ingeniero aeronáutico y aviador militar.
+- **Servicio:** Royal Air Force (RAF) (Real Fuerza Aérea británica).
+- **Formación:** aprendizaje mecánico, RAF College Cranwell y estudios de ingeniería en Cambridge.
+- **Grado al retirarse:** comodoro del aire.
+- **Campo de trabajo:** turbinas de gas aplicadas a la propulsión aeronáutica.
+- **Proyecto empresarial:** Power Jets Ltd.
+- **Alcance del hito:** pionero de la línea británica del turborreactor; su prioridad de concepción y patente debe distinguirse de la prioridad del primer avión que voló con esta propulsión.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
-El nacimiento de Frank Whittle ocurrió en una época de profundos cambios tecnológicos, cuando la aviación comenzaba a despegar y la Primera Guerra Mundial estaba a punto de estallar.
+Whittle creció en un entorno donde la mecánica formaba parte de la vida cotidiana. La industria de Coventry y el oficio de su padre ofrecían una aproximación material a los problemas: una máquina debía poder construirse, funcionar y mantenerse. Esa experiencia acompañó después su formación como piloto y sus cálculos sobre el vuelo a mayor velocidad y altitud.
 
 ### Entorno social
 
-La Inglaterra de principios del siglo XX era el centro del Imperio Británico y una potencia industrial en plena expansión. Coventry, ciudad natal de Whittle, era un importante centro de la industria mecánica y de la fabricación de bicicletas y automóviles. Whittle provenía de una familia modesta; su padre era mecánico e inventor, lo que le inculcó desde temprano el interés por las máquinas. A los 15 años, Whittle abandonó la escuela y se unió a la RAF como aprendiz mecánico, demostrando una habilidad excepcional que le valió una beca para ingresar a la Esc de Oficiales de la RAF Cranwell .
+Su ingreso en la aviación militar comenzó por el aprendizaje técnico, no por una posición de prestigio. La habilidad demostrada en ese itinerario le permitió pasar a la formación de oficiales. Más adelante ejerció como instructor y piloto de pruebas. Conocía, por tanto, las exigencias del aparato en servicio además de las posibilidades de un diseño sobre el papel.
+
+Los estudios universitarios ampliaron esa base práctica. En Cambridge pudo trabajar con herramientas matemáticas y termodinámicas más rigurosas, mientras buscaba apoyos para desarrollar el motor. Su trayectoria enlaza dos mundos que a menudo se presentan separados: el taller y la investigación académica.
 
 ### Entorno tecnológico
 
-En la década de 1920, la aviación dependía exclusivamente de motores de pistón y hélices, que se acercaban a sus límites físicos en términos de altitud y velocidad. Los motores refrigerados por aire y líquido competían por lograr mayor potencia, pero las hélices perdían eficacia a gran altitud y velocidad. La idea de un motor de turbina de gas para propulsar aviones era considerada una utopía por la mayoría de los ingenieros. Whittle fue uno de los primeros en abordar el problema desde una perspectiva matemática, demostrando que el motor a reacción era no solo viable sino superior a gran altitud.
+La propulsión dominante empleaba un motor alternativo que hacía girar una hélice. El turborreactor proponía otro recorrido energético: comprimir aire, añadir combustible, quemarlo y expandir los gases para accionar una turbina y producir empuje por el escape. Mantener ese ciclo requería que compresor, combustión y turbina funcionaran de manera compatible.
+
+El enfoque de Whittle favorecía un compresor centrífugo. El problema no se resolvía con una sola pieza novedosa: había que controlar temperaturas, pérdidas, caudal y resistencia de los materiales. Una demostración en banco tampoco garantizaba que el motor tuviera peso, fiabilidad y prestaciones suficientes para instalarlo en un avión.
 
 ### Entorno cultural
 
-La tesis de Whittle de 1928 fue recibida con escepticismo por el Ministerio del Aire. El ingeniero A. A. Griffith, figura establecida en el campo de las turbinas, favorecía diseños de turbina axial mucho más complejos y desestimó el enfoque de Whittle, calificándolo de impracticable . Esta oposición institucional retrasó el desarrollo del motor a reacción en Gran Bretaña varios años. Whittle tuvo que luchar contra la burocracia, la falta de financiación y el ridículo público de algunos sectores de la industria aeronáutica .
+El Ministerio del Aire y parte de la industria recibieron la propuesta con escepticismo. Las inversiones existentes se concentraban en sistemas conocidos, mientras el nuevo concepto exigía aceptar riesgos de desarrollo. La posición crítica de ingenieros establecidos y las dificultades económicas limitaron su avance inicial.
+
+La patente ofrecía protección jurídica, pero no financiaba las pruebas. La diferencia entre reconocer una idea y sostener un programa de investigación ayuda a explicar por qué transcurrieron varios años entre la formulación del proyecto y su demostración práctica. No fue un invento que pasara sin interrupciones de la mesa de dibujo al servicio militar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
-- **1 de junio de 1907:** Nace Frank Whittle en Coventry, Inglaterra .
-- **1923:** A los 15 años, se alista en la RAF como aprendiz mecánico .
-- **1926:** Obtiene una beca para ingresar a la Escuela de Oficiales de la RAF Cranwell .
-- **1928:** Presenta su tesis *"Future Developments in Aircraft Design"* en la RAF Cranwell, sentando las bases teóricas del motor a reacción .
-- **16 de enero de 1930:** Whittle presenta la patente Nº 347.206 para su motor turborreactor .
-- **1932:** La patente es concedida, pero el Ministerio del Aire la rechaza por considerarla impracticable .
-- **1934:** La patente expira por falta de pago de la cuota anual. Whittle sufre un colapso nervioso debido al agotamiento .
-- **1935:** Dos excompañeros de la RAF, Rolf Dudley-Williams y James Collingwood Tinling, contactan a Whittle para formar una empresa. Obtienen un préstamo bancario de 2.000 libras de O.T. Falk & Partners .
-- **27 de marzo de 1936:** Se constituye formalmente **Power Jets Ltd.** en Londres .
-- **Junio de 1936:** Power Jets firma un contrato con British Thomson-Houston (BTH) en Rugby para la construcción del WU (Whittle Unit) .
-- **12 de abril de 1937:** Primera prueba exitosa del WU en el banco de BTH en Rugby. Whittle anota en su diario: *"Primera vez que un motor de este tipo ha funcionado con éxito"* .
-- **Junio de 1937:** Segunda prueba del WU, que funciona de manera estable durante 20 minutos .
-- **1941, 15 de mayo:** El Gloster E.28/39, propulsado por un motor Whittle W.1X, realiza su primer vuelo en RAF Cranwell, el primer avión a reacción británico .
-- **1943, 5 de marzo:** Primer vuelo del Gloster Meteor, propulsado por motores basados en los diseños de Whittle .
-- **1944:** Power Jets es nacionalizada por el gobierno británico. Whittle se convierte en asesor técnico .
-- **1947:** Es nombrado Comandante de la Orden del Imperio Británico (CBE) y Compañero de la Orden del Baño (CB) .
-- **1948:** Es nombrado Caballero (Sir) por sus contribuciones a la aviación. Recibe un pago de 100.000 libras del gobierno británico como gratificación .
-- **1953:** Whittle se retira de la RAF por razones de salud y se traslada a Estados Unidos .
-- **1976:** Es incluido en el International Air & Space Hall of Fame .
-- **1988:** Recibe la Medalla Nacional de la Ciencia de Estados Unidos .
-- **9 de agosto de 1996:** Fallece en Columbia, Maryland, a los 89 años .
+Los principales pasos del proyecto británico muestran una transición gradual desde la propuesta individual hacia el trabajo de una empresa y sus colaboradores industriales.
 
-### El Whittle Unit (WU): El Primer Motor Turborreactor
-
-La **Whittle Unit (WU)** fue el motor experimental construido por Power Jets Ltd. en colaboración con British Thomson-Houston (BTH). Su diseño estableció la configuración básica del turborreactor moderno.
-
-**Características técnicas del WU:**
-
-- **Tipo:** Turbojet de flujo centrífugo
-- **Compresor:** Centrífugo de doble cara (19 pulgadas de diámetro)
-- **Cámara de combustión:** Única, de flujo directo
-- **Turbina:** Axial de una sola etapa
-- **Relación de presión:** 4:1 (muy superior a los 2,5:1 de la época)
-- **Peso:** Menos de 454 kg
-- **Empuje diseñado:** aproximadamente 625 kg
-- **Combustible:** queroseno
-
-A pesar de su carácter rudimentario y de los problemas de control de aceleración en las primeras pruebas, el WU demostró que el concepto era viable. El motor original se conserva en el **Science Museum de Londres** .
-
-### La Controversia Whittle vs. Von Ohain
-
-Independientemente, **Hans Joachim Pabst von Ohain** trabajaba en Alemania en un diseño similar. Su motor, el Heinkel HeS 3, impulsó el **Heinkel He 178**, que realizó su primer vuelo el **27 de agosto de 1939**, antes que el Gloster E.28/39 británico .
-
-Hoy, ambos son reconocidos como **coinventores del motor a reacción**, con contribuciones paralelas y significativas:
-
-- **Whittle** fue el primero en patentar el concepto (1930) y en desarrollar un motor práctico (1937)
-- **Von Ohain** fue el primero en lograr un vuelo exitoso con un avión a reacción (1939)
-
-Ambos coincidieron en una visita histórica en 1966 y mantuvieron una relación de respeto mutuo. Whittle declaró: *"Estoy seguro de que nuestro trabajo fue independiente; él no sabía nada del mío, ni yo del suyo"* .
-
-Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1911/12/14/nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #315fea; text-decoration: none;">efeméride de nacimiento de Hans von Ohain</a> para más detalles sobre su vida y contribuciones.
+- **1928–1930:** expone sus ideas sobre el futuro del diseño aeronáutico al concluir su formación de oficial y presenta después una solicitud de patente para la propulsión por turbina. La protección legal y la aceptación técnica no avanzan al mismo ritmo.
+- **1936:** Whittle y sus socios constituyen Power Jets. El respaldo privado permite encargar la construcción de un motor de ensayo a British Thomson-Houston, en Rugby. La firma convierte la propuesta en un proyecto con fabricación, instalaciones y obligaciones económicas concretas.
+- **12 de abril de 1937:** comienza a funcionar el conjunto experimental conocido como Whittle Unit. La <a href="https://efemerides-aviacion.github.io/efemerides/evento/1937/04/12/whittle-unit-primer-motor-jet.html" style="color: #315fea; text-decoration: none;">efeméride dedicada al ensayo de Rugby</a> desarrolla el episodio técnico. Aquí importa su efecto sobre la carrera del inventor: ya podía mostrar una máquina y no solo defender un cálculo.
+- **1939:** el desarrollo alemán alcanza el vuelo con el Heinkel He 178. La investigación de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1911/12/14/nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #315fea; text-decoration: none;">Hans von Ohain</a> constituye una línea independiente y obliga a distinguir prioridades según se hable de patente, ensayo terrestre o utilización en el aire.
+- **15 de mayo de 1941:** despega el Gloster E.28/39 con el motor W.1. La instalación demuestra que la propuesta británica puede propulsar una aeronave, una exigencia diferente de hacerla funcionar en un banco estático.
+- **1943–1944:** el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1943/03/05/primer-vuelo-gloster-meteor-reactor-britanico.html" style="color: #315fea; text-decoration: none;">programa Gloster Meteor</a> lleva esta familia tecnológica al ámbito del caza. Power Jets pasa al control estatal en 1944, cuando el desarrollo ya está ligado a las necesidades de producción de la guerra.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
-- **Nacimiento de la aviación a reacción:** La prueba del WU demostró que el concepto era viable, abriendo la puerta a una nueva era de velocidad y altitud en la aviación .
-- **Revolución industrial:** El motor de reacción transformó no solo la aviación militar y comercial, sino también la industria energética (turbinas de gas para generación eléctrica) .
-- **Cambio en la estrategia militar:** Durante la Segunda Guerra Mundial, el desarrollo del motor a reacción fue considerado un secreto de máxima prioridad por los aliados. El Gloster Meteor fue desplegado para interceptar los cohetes V-1 alemanes .
-- **Legado industrial:** Power Jets fue nacionalizada en 1944, y sus patentes y conocimientos se integraron en el National Gas Turbine Establishment. Rolls-Royce, que inicialmente se mostró escéptica, se convirtió en una de las líderes mundiales en motores de turbina gracias a la tecnología de Whittle .
+El paso a la fabricación en serie alteró el lugar del inventor dentro del proyecto. Las exigencias de producción y de servicio excedían las posibilidades de un pequeño equipo experimental: requerían fabricantes capaces de mantener tolerancias, resolver problemas de materiales y reproducir motores fiables. La adopción militar no fue únicamente el triunfo de una teoría, sino también un proceso industrial.
+
+El Meteor operó durante la guerra contra las bombas volantes V-1. Su empleo ilustró las posibilidades de la nueva propulsión, aunque no convirtió de inmediato a todos los aviones existentes en obsoletos. Los motores alternativos continuaron atendiendo otras misiones, y los reactores necesitaron un desarrollo prolongado para ampliar su utilidad.
+
+Para Whittle, el reconocimiento oficial llegó acompañado de una reorganización de su vida profesional. En 1948 se retiró del servicio, recibió el título de caballero y una gratificación de cien mil libras. Estos honores no deben confundirse con las fechas de constitución de la empresa o con el momento de sus primeros ensayos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
-Frank Whittle es reconocido como uno de los grandes inventores del siglo XX. Su legado perdura en cada avión a reacción que surca los cielos.
+En 1953 publicó su relato autobiográfico, <em>Jet: The Story of a Pioneer</em>. Años después se trasladó a Estados Unidos; el National Inventors Hall of Fame fecha ese traslado en 1976 y recoge su vinculación a la investigación y la docencia naval. Su experiencia pasó así del desarrollo industrial a la transmisión de conocimiento.
 
-- **12 de abril de 1937:** Whittle puso en marcha con éxito su Whittle Unit (WU), el primer motor turborreactor práctico del mundo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1937/04/12/whittle-unit-primer-motor-jet.html" style="color: #315fea; text-decoration: none;">efeméride del primer motor a reacción exitoso en banco de pruebas</a> para más detalles.
-- **5 de marzo de 1943:** El Gloster Meteor, propulsado por motores basados en los diseños de Whittle, realizó su primer vuelo. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1943/03/05/primer-vuelo-gloster-meteor-reactor-britanico.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo del Gloster Meteor</a> para más detalles.
-
-- **Honores póstumos:** Una base aérea de la RAF en Cambridgeshire lleva su nombre (RAF Whittle). El Science Museum de Londres exhibe el WU original. En 2002, la BBC lo incluyó en su lista de los "100 Greatest Britons" .
-- **Películas y documentales:** Su historia ha sido documentada en numerosos documentales, incluyendo "The Jet Engine: Frank Whittle" (2014) y "The Race for the Jet" (2020) .
+Murió en Columbia, Maryland, en agosto de 1996, a los ochenta y nueve años. La memoria biográfica de la Royal Society adopta el día 9; otras referencias consignan el 8, divergencia que permanece documentada. Su archivo y las historias de la turbina conservan el recorrido de una innovación colectiva en la que su iniciativa tuvo un papel decisivo, sin borrar las aportaciones independientes ni el trabajo de quienes la hicieron fabricable.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -141,31 +100,26 @@ Frank Whittle es reconocido como uno de los grandes inventores del siglo XX. Su 
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Frank_Whittle" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Frank Whittle</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Frank_Whittle" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Frank Whittle</a></li>
-    <li><a href="https://www.britannica.com/biography/Frank-Whittle" style="color: #315fea; text-decoration: none;">Britannica – Sir Frank Whittle</a></li>
-    <li><a href="https://royalsocietypublishing.org/doi/10.1098/rsbm.1998.0028" style="color: #315fea; text-decoration: none;">Royal Society – Sir Frank Whittle (1907-1996)</a></li>
-    <li><a href="https://www.invent.org/inductees/frank-whittle" style="color: #315fea; text-decoration: none;">National Inventors Hall of Fame – Frank Whittle</a></li>
-    <li><a href="https://noticiasdelaciencia.com/archive/50908/sir-frank-whittle-el-ingeniero-que-revoluciono-la-aviacion-con-el-motor-a-reaccion" style="color: #315fea; text-decoration: none;">Noticias de la Ciencia – Sir Frank Whittle</a></li>
+    <li><a href="https://royalsocietypublishing.org/doi/10.1098/rsbm.1998.0028" style="color: #315fea; text-decoration: none;">Royal Society — G. B. R. Feilden y William Hawthorne: Sir Frank Whittle, memoria biográfica, 1998</a></li>
+    <li><a href="https://www.invent.org/inductees/frank-whittle" style="color: #315fea; text-decoration: none;">National Inventors Hall of Fame — Frank Whittle</a></li>
+    <li><a href="https://www.britannica.com/biography/Frank-Whittle" style="color: #315fea; text-decoration: none;">Encyclopaedia Britannica — Sir Frank Whittle</a></li>
+    <li><a href="https://centreforscientificarchives.co.uk/catalogues/sir-frank-whittle/" style="color: #315fea; text-decoration: none;">Centre for Scientific Archives — catálogo de los documentos de Sir Frank Whittle</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
-  <p><strong>Notas aclaratorias:</strong></p>
-  <p><strong>1. La controversia Whittle vs. Von Ohain:</strong> Frank Whittle patentó el motor turborreactor en 1930, pero las dificultades financieras y la falta de apoyo institucional retrasaron su desarrollo. Hans von Ohain, trabajando independientemente en Alemania, diseñó el Heinkel HeS 3, que impulsó el Heinkel He 178 en su primer vuelo el 27 de agosto de 1939, antes que el Gloster E.28/39 británico. Hoy, ambos son reconocidos como coinventores del motor a reacción.</p>
-  <p><strong>2. El Whittle Unit (WU):</strong> El primer motor de Whittle, conocido como Whittle Unit (WU) o WU Mk I, fue probado en banco el 12 de abril de 1937 en las instalaciones de British Thomson-Houston (BTH) en Rugby, Inglaterra. El motor original se conserva en el Science Museum de Londres.</p>
-  <p><strong>3. Reconocimiento tardío:</strong> Aunque Whittle fue nombrado Caballero en 1948, su contribución no fue plenamente reconocida por el gobierno británico hasta 1944, cuando Power Jets fue nacionalizada. En 1948, recibió una gratificación de 100.000 libras "ex gratia" (sin admitir responsabilidad legal).</p>
-  <p><strong>4. Primer vuelo del Gloster E.28/39:</strong> Aunque el vuelo oficial fue el 15 de mayo de 1941, hubo un despegue no oficial de 50 metros el 14 de mayo de 1941. La mayoría de las fuentes coinciden en el 15 de mayo como fecha oficial del primer vuelo.</p>
+  <p><strong>Nota aclaratoria:</strong> Whittle y von Ohain desarrollaron sus motores de manera independiente. Una prioridad en patentes o ensayos de banco no equivale al primer vuelo de un avión a reacción. Sobre el fallecimiento, la memoria de la Royal Society indica el 9 de agosto de 1996, mientras Britannica y el National Inventors Hall of Fame consignan el 8; la divergencia no se presenta como resuelta.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), Britannica, Royal Society, National Inventors Hall of Fame, Noticias de la Ciencia
-- **Discrepancias resueltas:** Confirmación de la fecha de nacimiento (1 de junio de 1907) en todas las fuentes. Aclaración de la controversia Whittle vs. von Ohain, reconociendo a ambos como coinventores. Verificación de la fecha del primer vuelo del Gloster E.28/39 (15 de mayo de 1941).
-- **Nivel de confianza:** Alto (múltiples fuentes institucionales coinciden en los datos fundamentales)
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Timestamp de verificación:** 2026-10-02 14:01:25 CST
+- **Fuentes primarias/institucionales consultadas:** Royal Society; National Inventors Hall of Fame; Centre for Scientific Archives.
+- **Fuentes secundarias de contraste:** Encyclopaedia Britannica.
+- **Datos no confirmados:** día de fallecimiento; las fuentes discrepan entre el 8 y el 9 de agosto de 1996.
+- **Nivel de confianza:** Alto
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

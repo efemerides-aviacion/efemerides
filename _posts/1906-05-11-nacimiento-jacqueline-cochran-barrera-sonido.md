@@ -6,169 +6,114 @@ categories: [nacimiento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Fuerza Aérea de los Estados Unidos (USAF) / Aviación civil
-excerpt: "El 11 de mayo de 1906 nació en Muscogee, Florida, Jacqueline Cochran, una de las aviadoras más importantes del siglo XX. Fue la primera mujer en romper la barrera del sonido (18 de mayo de 1953) y la fundadora del programa WASP durante la Segunda Guerra Mundial. Al momento de su muerte, ostentaba más récords de velocidad, distancia y altitud que cualquier otro piloto, hombre o mujer."
+excerpt: "Jacqueline Cochran destacó en las carreras aéreas, dirigió el programa WASP y alcanzó hitos supersónicos que ampliaron la presencia femenina en la aviación del siglo XX."
 image: 1906-05-11-nacimiento-jacqueline-cochran-barrera-sonido.webp
 ---
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1906-05-11-nacimiento-jacqueline-cochran-barrera-sonido.webp" alt="Jacqueline Cochran en uniforme de la Fuerza Aérea de EE. UU.">
-  <figcaption class="post-caption">Jacqueline Cochran, retratada en uniforme de la Fuerza Aérea de EE. UU. hacia 1943, en una fotografía histórica atribuida a la U.S. Air Force / AFHRA y reproducida en la página de la City of Pensacola dedicada a su biografía. Fuente: City of Pensacola, “Jacqueline Cochran” / imagen de archivo de la USAF.</figcaption>
+  <figcaption class="post-caption">Jacqueline Cochran en uniforme, en el retrato histórico difundido por la City of Pensacola. Fuente: City of Pensacola / archivo de la U.S. Air Force.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>Jacqueline Cochran nació el 11 de mayo de 1906 en Muscogee, Florida, en el seno de una familia humilde, y se convirtió en una de las aviadoras más importantes del siglo XX. Fue la primera mujer en superar la velocidad del sonido (18 de mayo de 1953) y dejó una huella decisiva en la aviación militar y deportiva. Fundó y dirigió el programa WASP (Women Airforce Service Pilots) durante la Segunda Guerra Mundial, y al momento de su muerte ostentaba más récords de velocidad, distancia y altitud que cualquier otro piloto, hombre o mujer.</p>
+<p>Jacqueline Cochran nació en Florida el 11 de mayo de 1906 y desarrolló una carrera que abarcó las competiciones de pistón, la organización de pilotos civiles durante la guerra y las marcas de velocidad a reacción. El 18 de mayo de 1953 atravesó el umbral supersónico con un Sabre canadiense sobre California. Ese logro se sumaba a una trayectoria deportiva iniciada dos décadas antes.</p>
+<p>Su importancia no se limita a los récords. Al frente de las Women Airforce Service Pilots participó en un programa que empleó a mujeres para volar aeronaves militares sin concederles entonces condición militar. Su biografía permite seguir tanto los avances técnicos del vuelo como las restricciones profesionales que afrontaron sus contemporáneas.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
-- **Fecha de nacimiento:** 11 de mayo de 1906
-- **Lugar:** Muscogee, Florida, Estados Unidos
-- **Nombre de nacimiento:** Bessie Lee Pittman
-- **Fallecimiento:** 9 de agosto de 1980 (74 años), Indio, California
-- **Cónyuge:** Floyd Bostwick Odlum (millonario estadounidense, fallecido en 1976)
-- **Licencia de piloto:** 1932 (obtenida en solo tres semanas de entrenamiento)
-- **Hito principal:** 18 de mayo de 1953 – primera mujer en romper la barrera del sonido
-- **Aeronave del récord:** Canadair F-86 Sabre Mk.3 (préstamo de la Fuerza Aérea Canadiense)
-- **Velocidad alcanzada:** 1.050,15 km/h (652,5 mph) en el vuelo récord de 100 km
-- **Velocidad máxima en el picado:** 1.044 km/h (649 mph) – Mach 1,06
-- **Rango en la Fuerza Aérea:** Coronel (Reserva de la Fuerza Aérea de EE. UU.)
-- **Condecoraciones:** Medalla por Servicio Distinguido del Ejército (DSM), Legión al Mérito, Cruz de Vuelo Distinguido (tres veces)
-- **Fallecimiento:** 9 de agosto de 1980 en Indio, California
 
-### Especificaciones del F-86 Sabre
-El F-86 Sabre fue el primer caza a reacción de ala en flecha de la Fuerza Aérea de los Estados Unidos y el avión con el que Cochran rompió la barrera del sonido.
-
-- **Fabricante:** North American Aviation
-- **Tipo:** Caza a reacción monoplaza
-- **Primer vuelo:** 1 de octubre de 1947
-- **Motor:** General Electric J47-GE-13 (turborreactor, 5.200 lb de empuje)
-- **Velocidad máxima:** 1.046 km/h (650 mph)
-- **Techo de servicio:** 14.000 m (46.000 pies)
-- **Alcance:** 1.850 km (1.150 millas)
-- **Armamento:** 6 ametralladoras Browning M2 de 12,7 mm (.50 cal)
-- **Ala en flecha:** 35 grados (diseño inspirado en investigaciones aerodinámicas alemanas de la Segunda Guerra Mundial)
+- **Nacimiento:** 11 de mayo de 1906, Muscogee, Florida, Estados Unidos.
+- **Nombre de nacimiento:** Bessie Lee Pittman.
+- **Nombre profesional:** Jacqueline Cochran; conocida también como Jackie.
+- **Nacionalidad:** estadounidense.
+- **Actividad:** aviadora de competición, empresaria y organizadora de programas de vuelo.
+- **Ámbitos de servicio:** aviación civil y Reserva de la Fuerza Aérea estadounidense.
+- **Grado alcanzado:** coronel de la reserva.
+- **Especialidades deportivas:** velocidad, distancia y altitud; marcas obtenidas en distintas aeronaves y categorías, no un único récord absoluto.
+- **Relevancia histórica:** trayectoria que conecta las carreras de entreguerras con los ensayos de aviones a reacción y la ampliación de oportunidades para las aviadoras.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
-Jacqueline Cochran nació el 11 de mayo de 1906 en Muscogee, Florida, en el seno de una familia extremadamente pobre. Era la menor de cinco hijos de Mary (Grant) y Ira Pittman, un trabajador aserradero que se mudaba constantemente en busca de empleo. Fue colocada en acogida por una familia local a una edad temprana y, desde su adolescencia, trabajó en peluquerías para ganarse la vida. A pesar de su educación formal limitada, poseía una inteligencia y una voluntad inquebrantables. Adoptó el apellido Cochran de su primer esposo, Robert Cochran.
+
+La biografía de Cochran transcurrió durante una transformación del oficio de piloto. Las competiciones y exhibiciones de entreguerras ofrecían oportunidades fuera de las carreras militares, pero exigían recursos para adquirir aparatos, mantenerlos y desplazarse. Para una mujer, el rendimiento debía abrir puertas que las estructuras profesionales no ofrecían en igualdad de condiciones.
 
 ### Entorno social
-En 1932, su segundo esposo, el millonario inversor Floyd Odlum, le sugirió que aprender a volar sería una buena manera de expandir su negocio de cosméticos, que operaba bajo el nombre "Wings Cosmetics". Cochran se tomó la sugerencia en serio. Obtuvo su licencia de piloto en solo tres semanas, aunque tuvo que solicitar un examen oral en lugar del examen escrito debido a su pobre nivel de alfabetización.
 
-#### El encuentro con Amelia Earhart
-Rápidamente, Cochran se hizo amiga de Amelia Earhart, la aviadora más famosa de su época. Earhart la animó a seguir adelante y la describió como una "mujer de gran espíritu". Aunque Cochran era menos conocida por el público general que Earhart, sus logros en las carreras aéreas eran igual de impresionantes.
+Procedía de un medio humilde y recibió una educación formal limitada. Trabajó en el sector de la belleza antes de consolidar su actividad empresarial. La aviación apareció como un instrumento para ampliar ese negocio: Floyd Odlum le sugirió que aprender a pilotar facilitaría sus desplazamientos comerciales. La relación entre iniciativa empresarial y deporte aéreo fue decisiva para sostener sus proyectos.
+
+Aprendió a volar en 1932, con un periodo de instrucción de tres semanas. La FAI recuerda que solicitó realizar oralmente el examen por sus dificultades con la lectura. Ese comienzo no encaja con una carrera de formación académica convencional, sino con el aprendizaje práctico y el aprovechamiento de oportunidades concretas.
 
 ### Entorno tecnológico
-Su carrera atravesó tres generaciones de máquinas: el Seversky AP-7 de pistón con el que ganó la Bendix de 1938, el turborreactor F-86 Sabre de ala en flecha con el que superó Mach 1 en 1953 y el F-104G Starfighter con el que llegó a Mach 2 en 1964. Las marcas se medían en un tramo cerrado de cien kilómetros y se ganaban en picado, a 45.000 pies, con el combustible justo para dos pasadas.
+
+Los aparatos que utilizaría pertenecían a generaciones muy diferentes. Un avión de carreras con motor de pistón y hélice planteaba problemas distintos de los de un reactor de ala en flecha. La adaptación no consistía únicamente en volar más deprisa: cambiaban la gestión del combustible, las maniobras y los límites aerodinámicos.
+
+También es necesario distinguir las pruebas deportivas. La velocidad media homologada sobre un circuito cerrado no describe por sí sola la velocidad máxima de un picado. El número de Mach expresa una relación con la velocidad local del sonido, que depende de las condiciones atmosféricas. Comparar esas magnitudes como si fueran mediciones equivalentes impide comprender el alcance de cada marca.
 
 ### Entorno cultural
-El reconocimiento tenía formas muy visibles en su época: trofeos con nombre propio —el Harmon, que la distinguió como mejor aviadora del mundo en 1938—, los títulos de «Aviatriz de la Década» y «Aviatriz del Siglo», una presidencia de la FAI y, al final, el Salón de la Fama Nacional de la Aviación. Las carreras aéreas —la MacRobertson de Londres a Melbourne, la Bendix— eran el escaparate donde una piloto se hacía un nombre.
+
+Las carreras MacRobertson y Bendix daban visibilidad internacional a pilotos y fabricantes. Los trofeos y las homologaciones convertían una actuación individual en un resultado público susceptible de comparación. Cochran encontró en ese entorno una vía para construir reputación, mientras su amistad con Amelia Earhart la vinculaba a otras mujeres que buscaban ampliar su presencia en la actividad aérea.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
-- **1906 (11 de mayo):** Nace Bessie Lee Pittman en Muscogee, Florida.
-- **1932:** Obtiene su licencia de piloto en solo tres semanas y conoce a su futuro esposo, Floyd Odlum.
-- **1934:** Compite en su primera carrera internacional (MacRobertson Air Race, Londres-Melbourne).
-- **1935:** Establece Jacqueline Cochran Cosmetics y compite en la Bendix Race (3er puesto).
-- **1937:** Establece un nuevo récord de velocidad femenino transcontinental.
-- **1938:** Gana la Bendix Race y recibe el Trofeo Harmon. Establece un récord de altitud (9.132 m / 30.052 pies).
-- **1939:** Escribe a Eleanor Roosevelt proponiendo la creación de un cuerpo femenino de pilotos para esfuerzos de defensa nacional. Se convierte en la primera mujer en volar un caza (P-35) en la Bendix Race.
-- **1940:** Primera mujer en pilotar un bombardero (Lockheed Hudson V) a través del Atlántico.
-- **1941:** Se une a la British Air Transport Auxiliary (ATA) para apoyar el esfuerzo bélico británico.
-- **1942:** El General Henry "Hap" Arnold la nombra directora del Women's Flying Training Detachment (WFTD) para entrenar a pilotas para el ejército estadounidense.
-- **1943:** El WFTD se fusiona con la Women's Auxiliary Ferrying Squadron (WAFS) de Nancy Love para formar las Women Airforce Service Pilots (WASP). Cochran es nombrada directora. Recibe el Trofeo Harmon por tercera vez.
-- **1945:** Recibe la Medalla por Servicio Distinguido del Ejército por su dirección del programa WASP.
-- **1948:** Se une a la Reserva de la Fuerza Aérea de los Estados Unidos como teniente coronel.
-- **1950:** Nombrada "Aviatriz de la Década" por el Comité de Premios de Aviación Internacional Harmon.
-- **1951:** Asciende a coronel en la Reserva de la Fuerza Aérea.
-- **1952:** Se convierte en la primera mujer en pilotar un jet a través del Atlántico Norte en un F-86 Sabre.
-- **18 de mayo de 1953:** Establece un récord mundial de velocidad de 1.050,15 km/h (652,5 mph) en un F-86 Sabre y se convierte en la primera mujer en romper la barrera del sonido.
-- **1958:** Se convierte en la primera mujer presidente de la Federación Aeronáutica Internacional (FAI) (mandato hasta 1960).
-- **1961:** Nombrada "Aviatriz del Siglo" por la FAI. Establece una serie de récords de velocidad en el F-104 Starfighter.
-- **1964 (3 de junio):** Establece un récord mundial de velocidad femenino de 2.300 km/h (1.429 mph) en un F-104 Starfighter, más del doble de la velocidad del sonido (Mach 2).
-- **1971:** Es incluida en el Salón de la Fama de la Aviación Nacional.
-- **1980 (9 de agosto):** Fallece en su casa de Indio, California.
 
-### La pasión por las carreras
-Cochran quedó fascinada con las carreras aéreas. Su primera carrera internacional fue la MacRobertson Air Race de 1934, de Londres a Melbourne, Australia. En 1935, estableció Jacqueline Cochran Cosmetics y entró en su primera Bendix Race, quedando en tercer lugar. En 1938, ganó la prestigiosa Bendix Race, volando un Seversky AP-7 desde Burbank, California, hasta Cleveland en 8 horas, 10 minutos y 31 segundos, a una velocidad media de 402 km/h (250 mph). Ese mismo año, fue galardonada con su primer Trofeo Harmon como la mejor aviadora del mundo.
+La trayectoria se organiza en sus principales etapas deportivas y de servicio, sin confundir las marcas obtenidas sobre circuitos con los vuelos supersónicos.
 
-### El récord de velocidad y la barrera del sonido
-El 18 de mayo de 1953, Jacqueline Cochran se propuso batir el récord mundial de velocidad sobre 100 km establecido por el Coronel Fred Ascani (1.023,04 km/h). Pilotando un Canadair F-86 Sabre Mk.3 prestado por la Fuerza Aérea Canadiense, realizó dos pasadas sobre un circuito de 100 km en Rogers Dry Lake, California.
-
-#### La carrera contra el sonido
-
-En su autobiografía, Cochran recordó: "Solo tendría dos oportunidades para establecer mi récord, porque ese era todo el combustible que podía llevar el avión. Si todo iba bien, tendría un margen de dos minutos de combustible después de dos pasadas completas". Sabía que no solo necesitaba superar a Ascani; también podía convertirse en la primera mujer en romper la barrera del sonido. Chuck Yeager, el primer hombre en romperla (1947), la acompañó en un avión de persecución.
-
-Alcanzando una altitud de 45.000 pies (13.716 m), Cochran realizó un "split S", un picado en el que las fuerzas G empujan la sangre hacia la cabeza y el cuerpo, una maniobra que muchos pilotos encuentran desagradable. Face down and diving at Mach 1, with blood surging to her brain, she pulled out of the dive through the sound barrier. Ella sintió las ondas de choque chocar contra la cubierta del avión y escuchó dos fuertes explosiones sónicas.
-
-#### El récord confirmado
-
-Cochran alcanzó una velocidad máxima de 1.044 km/h (649 mph) en el picado, superando Mach 1,06. Su velocidad media en las dos pasadas fue de 1.050,15 km/h (652,5 mph), batiendo el récord de Ascani por 27 km/h. Se convirtió así en la primera mujer en romper la barrera del sonido y en la poseedora de un nuevo récord mundial de velocidad.
-
-#### El Mach 2 y los récords posteriores
-
-Cochran no se detuvo ahí. El 3 de junio de 1964, pilotando un F-104G Starfighter, estableció un récord mundial de velocidad femenino de 2.300 km/h (1.429 mph), más del doble de la velocidad del sonido (Mach 2). Se convirtió así en la primera mujer en alcanzar Mach 2. Ese mismo año, estableció récords adicionales de velocidad sobre 15 km y 100 km. En 1967, a la edad de 61 años, estableció sus últimos 8 récords de velocidad en un F-104, demostrando que su pasión por volar era inquebrantable.
+- **1934–1935:** participa en la carrera MacRobertson entre Londres y Melbourne y después en la Bendix. El National WASP WWII Museum sitúa en 1935 su primer Trofeo Harmon y el tercer puesto de aquella participación en la Bendix.
+- **1 de septiembre de 1938:** gana la Bendix con un Seversky AP-7. Recorre la ruta entre Burbank y Cleveland en 8 horas, 10 minutos y 31 segundos, según la reconstrucción del museo. El triunfo consolida su posición entre los principales competidores de la época.
+- **1939–1942:** propone a Eleanor Roosevelt emplear aviadoras en tareas de defensa. Tras su experiencia británica con la Air Transport Auxiliary (ATA) (Auxiliar de Transporte Aéreo), regresa a Estados Unidos y asume la dirección del Women's Flying Training Detachment (WFTD) (Destacamento de Entrenamiento de Vuelo Femenino), a petición del General Henry H. Arnold.
+- **5 de agosto de 1943:** el programa de formación se fusiona con la Women's Auxiliary Ferrying Squadron (WAFS) (Escuadrón Auxiliar Femenino de Traslado), encabezada por Nancy Love. Nacen las Women Airforce Service Pilots (WASP) (Pilotos Femeninas del Servicio de la Fuerza Aérea), con Cochran en la dirección. No eran una unidad de combatientes ni sus integrantes tenían estatus militar.
+- **18 de mayo de 1953:** con un Canadair Sabre prestado por la Fuerza Aérea Canadiense, registra 1.050,15 km/h sobre cien kilómetros en Rogers Dry Lake. La FAI documenta asimismo el cruce de la barrera acústica ese día, acompañado por Chuck Yeager desde otro aparato. El perfil supersónico y el circuito cronometrado son aspectos que deben distinguirse.
+- **1958–1964:** preside la Fédération Aéronautique Internationale (FAI) (Federación Aeronáutica Internacional) durante dos años. En mayo de 1964 alcanza Mach 2 con un Lockheed F-104G Starfighter, dentro de una nueva serie de marcas de velocidad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
-- **Primera mujer en romper la barrera del sonido:** Un hito técnico y simbólico que demostró que las mujeres podían pilotar los aviones más avanzados de la era del jet, en igualdad de condiciones con los hombres.
-- **Pionera en la aviación militar femenina:** Como directora de las WASP, Cochran demostró que las mujeres eran pilotos capaces de realizar las mismas misiones de transporte de aeronaves que los hombres.
-- **Récords imbatibles:** En el momento de su muerte, en 1980, ostentaba más récords de velocidad, distancia y altitud que cualquier otro piloto, hombre o mujer. La mayoría de ellos aún no habían sido superados.
-- **Reconocimiento internacional:** Fue la primera mujer presidente de la Federación Aeronáutica Internacional (FAI) y fue nombrada "Aviatriz del Siglo" en 1961.
-- **Legado perdurable:** El programa WASP allanó el camino para la integración de las mujeres en la Fuerza Aérea de los Estados Unidos, que no ocurrió oficialmente hasta 1977.
+
+El programa femenino aportó una capacidad operativa considerable durante la guerra. Sus participantes transportaron aeronaves, remolcaron blancos y realizaron otras misiones no combatientes; el balance divulgado por el Smithsonian asciende a sesenta millones de millas y treinta y ocho fallecidas. La experiencia mostró que el acceso al pilotaje no dependía de una limitación técnica ligada al sexo, sino también de decisiones de reclutamiento y organización.
+
+La disolución de las WASP, en diciembre de 1944, puso de manifiesto el límite de aquel reconocimiento. Haber manejado equipos militares no les daba automáticamente los beneficios o los honores reservados al personal uniformado. En 1945 Cochran recibió la Medalla por Servicio Distinguido del Ejército por su labor de dirección, pero el reconocimiento individual no resolvía la situación colectiva.
+
+En el deporte aéreo, sus resultados de posguerra ampliaron la presencia femenina en una actividad estrechamente vinculada a fabricantes, fuerzas aéreas y centros de ensayos. La comparación reglada de las prestaciones ofrecía una evidencia más precisa que las valoraciones generales sobre quién podía pilotar los aparatos más avanzados.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
-Jacqueline Cochran fue una mujer que desafió todas las probabilidades. Hija de una familia pobre del sur de Estados Unidos, con una educación formal limitada, escaló posiciones hasta convertirse en la aviadora más condecorada y respetada del mundo. Superó las barreras de género en una época en la que la aviación era un club casi exclusivamente masculino y batió récords que incluso los mejores pilotos varones envidiaban.
 
-Su trabajo al frente de las WASP no solo contribuyó al esfuerzo bélico aliado durante la Segunda Guerra Mundial, sino que también demostró al mundo que las mujeres poseían las habilidades y la determinación para pilotar los aviones más complejos del ejército estadounidense. Las WASP fueron las precursoras de las futuras generaciones de mujeres piloto en la Fuerza Aérea de los EE. UU., que no se integraron oficialmente hasta 1977, décadas después de la disolución del programa.
+Cochran murió en Indio, California, el 9 de agosto de 1980. La FAI la recuerda por la extraordinaria acumulación de marcas que conservaba al fallecer. Ese balance no significa que todos sus récords fueran de una misma clase ni que continúen vigentes: expresa la amplitud de una carrera prolongada.
 
-El 18 de mayo de 1953, cuando su F-86 Sabre rompió la barrera del sonido sobre el desierto de Mojave, Cochran no solo estableció un récord; envió un mensaje claro y contundente: el cielo no tiene género. Su legado perdura en cada mujer que viste el uniforme de piloto en las fuerzas aéreas de todo el mundo y en cada aviadora que sueña con superar los límites de la velocidad y la altura.
-
-### Las WASP: el legado militar de Cochran
-Con el estallido de la Segunda Guerra Mundial en 1939, Cochran escribió a Eleanor Roosevelt, esposa del presidente Franklin D. Roosevelt, para proponer la creación de un cuerpo femenino de pilotos para apoyar a las fuerzas armadas en caso de emergencia nacional. Su propuesta fue inicialmente rechazada, por lo que en 1941 Cochran se alistó en la British Air Transport Auxiliary (ATA), donde reclutó a otras 25 pilotos estadounidenses para servir en Inglaterra.
-
-Su éxito en la ATA llamó la atención del General Henry "Hap" Arnold, comandante de las Fuerzas Aéreas del Ejército de los Estados Unidos (USAAF). En 1942, Arnold la nombró directora del Women's Flying Training Detachment (WFTD) con sede en el aeródromo municipal de Howard Hughes en Houston, Texas. Simultáneamente, la experimentada piloto Nancy Love dirigía la Women's Auxiliary Ferrying Squadron (WAFS). Para eliminar la duplicidad de esfuerzos, en 1943 ambas organizaciones se fusionaron para formar las Women Airforce Service Pilots (WASP), con Cochran como directora y Love como jefa de las operaciones de transporte.
-
-Bajo el liderazgo de Cochran, más de 1.000 mujeres pilotos se graduaron en el programa WASP en Avenger Field, Texas. Las WASP volaron más de 60 millones de millas, transportando todo tipo de aeronaves militares (78 tipos diferentes), incluyendo los cazas P-51 Mustang, P-39 Airacobra y P-63 Kingcobra, así como los bombarderos B-17 Flying Fortress y B-29 Superfortress. Aunque 38 WASP perdieron la vida en servicio, no recibieron beneficios militares porque fueron consideradas personal civil, no militar. El programa WASP fue disuelto en diciembre de 1944. En 1945, Cochran recibió la Medalla por Servicio Distinguido del Ejército por su liderazgo, la más alta condecoración no combatiente.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre la fecha del récord de velocidad:</strong> 18 de mayo de 1953. La Federación Aeronáutica Internacional (FAI) y Guinness World Records registran esta fecha exacta como la del récord de velocidad y el primer vuelo supersónico de una mujer.</p>
-<p><strong>Sobre la diferencia entre "romper la barrera del sonido" y "velocidad supersónica sostenida":</strong> Cochran superó Mach 1 en un picado (maniobra split S), mientras que Chuck Yeager lo logró en vuelo nivelado el 14 de octubre de 1947 a bordo del Bell X-1. El récord de Cochran fue validado por la FAI, pero a diferencia de Yeager, su vuelo supersónico no fue sostenido en nivel. Para lograrlo, Cochran requeriría un avión más avanzado, como el F-104 Starfighter, con el que alcanzó Mach 2 en 1964.</p>
-<p><strong>Sobre su nombre de nacimiento:</strong> Nació como Bessie Lee Pittman. Adoptó el apellido Cochran de su primer esposo, Robert Cochran. El apodo "Jackie", un nombre típicamente masculino en su época, fue elegido por ella al iniciar su carrera en la aviación para ser tomada más en serio en un mundo dominado por hombres.</p>
-<p><strong>Sobre el F-86 Sabre:</strong> La versión utilizada por Cochran era un Canadair F-86 Sabre Mk.3, prestado por la Fuerza Aérea Canadiense. Su motor era un General Electric J47-GE-13.</p>
-</div>
+La memoria de las aviadoras de guerra siguió una evolución propia. En 1977 las WASP obtuvieron reconocimiento militar retroactivo; no fue el año de una supuesta incorporación inicial de todas las mujeres a la Fuerza Aérea. En 2010 recibieron la Medalla de Oro del Congreso. Museos y archivos conservan sus uniformes, fotografías y testimonios, que permiten estudiar conjuntamente el servicio prestado y las barreras institucionales que lo acompañaron.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
+
 <div class="references">
   <ul>
-    <li><a href="https://worldairsports.aero/news/anniversary-jacqueline-cochran-sound-barrier" style="color: #315fea; text-decoration: none;">FAI - 70th Anniversary of Jacqueline Cochran breaking sound barrier</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/2381869/women-in-the-air-force-displays-in-world-war-ii-gallery/" style="color: #315fea; text-decoration: none;">National Museum of the USAF - Women in the Air Force (WASP)</a></li>
-    <li><a href="https://paulgarbershrine.org/jacqueline-cochran/" style="color: #315fea; text-decoration: none;">Paul Garber Shrine - Jacqueline Cochran (Inducted 1968)</a></li>
-    <li><a href="https://waspmuseum.org/avenger-news/jackie-cochran-and-the-need-for-speed-by-julia-lauria-blum/" style="color: #315fea; text-decoration: none;">National WASP WWII Museum - Jackie Cochran and the Need for Speed</a></li>
-    <li><a href="https://dos.fl.gov/historical/museums/historical-museums/united-connections/women-in-history/jacqueline-cochran/" style="color: #315fea; text-decoration: none;">Florida Department of State - Jacqueline Cochran</a></li>
-    <li><a href="https://valor.militarytimes.com/hero/46292/" style="color: #315fea; text-decoration: none;">Military Times - Jacqueline Cochran (Awards)</a></li>
-    <li><a href="https://www.guinnessworldrecords.com/world-records/first-person-to-break-the-sound-barrier-(female)" style="color: #315fea; text-decoration: none;">Guinness World Records - First person to break the sound barrier (female)</a></li>
+    <li><a href="https://www.fai.org/news/anniversary-jacqueline-cochran-sound-barrier" style="color: #315fea; text-decoration: none;">FAI — 70 years since Jacqueline Cochran became first woman to break sound barrier</a></li>
+    <li><a href="https://waspmuseum.org/avenger-news/jackie-cochran-and-the-need-for-speed-by-julia-lauria-blum/" style="color: #315fea; text-decoration: none;">National WASP WWII Museum — Jackie Cochran and the Need for Speed, Julia Lauria-Blum</a></li>
+    <li><a href="https://dos.fl.gov/historical/museums/historical-museums/united-connections/women-in-history/jacqueline-cochran/" style="color: #315fea; text-decoration: none;">Florida Department of State — Jacqueline Cochran</a></li>
+    <li><a href="https://airandspace.si.edu/stories/editorial/women-wings-legacy-wasp" style="color: #315fea; text-decoration: none;">National Air and Space Museum — Women with Wings: The Legacy of the WASP</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<div class="note-box">
+  <p><strong>Nota aclaratoria:</strong> El registro de 1.050,15 km/h corresponde a la prueba sobre cien kilómetros y no debe confundirse con una velocidad máxima instantánea. La FAI fecha el primer vuelo supersónico femenino el 18 de mayo de 1953 y sitúa el logro de Mach 2 en mayo de 1964. El reconocimiento militar retroactivo concedido a las WASP en 1977 es distinto del ingreso de nuevas promociones de mujeres en programas de formación militar.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST
-- **Fuentes primarias/institucionales consultadas:** FAI (worldairsports.aero), National Museum of the USAF (.mil), Paul Garber Shrine, National WASP WWII Museum, Florida Department of State (.gov), Military Times, Guinness World Records
-- **Discrepancias resueltas:** La fecha de nacimiento (11 de mayo de 1906) es consistente en todas las fuentes. La fecha del récord de velocidad y ruptura de la barrera del sonido es el 18 de mayo de 1953. La velocidad alcanzada varía ligeramente entre fuentes (652,5 mph / 1.050,15 km/h en el récord de 100 km; 649 mph / 1.044 km/h en la velocidad máxima en picado). Se ha incluido la información del programa WASP y las condecoraciones.
+
+- **Timestamp de verificación:** 2026-10-02 14:01:25 CST
+- **Fuentes primarias/institucionales consultadas:** FAI; National WASP WWII Museum; Florida Department of State; Smithsonian NASM.
 - **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
