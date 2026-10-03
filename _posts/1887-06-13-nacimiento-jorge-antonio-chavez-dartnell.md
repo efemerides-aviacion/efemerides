@@ -61,9 +61,9 @@ El desafío de cruzar los Alpes en avión fue lanzado por el Aero Club de Italia
 - **1884:** La familia Chávez Dartnell se radica en Francia, concluida la Guerra del Pacífico 
 - **13 de junio de 1887:** Nace Jorge Antonio Chávez Dartnell en París 
 - **1908:** Se gradúa como ingeniero por la Escuela Violet de París 
-- **Febrero de 1910:** Ingresa a la escuela de aviación de Henry y Maurice Farman 
-- **28 de febrero de 1910:** Realiza su primer vuelo en Reims a los mandos de un biplano Farman, permaneciendo en el aire 1 hora y 42 minutos bajo supervisión de instructores
-- **Marzo de 1910:** Obtiene su licencia internacional de piloto (brevete número 32)
+- **5 de febrero de 1910:** Comienza su formación como alumno-piloto en la escuela Farman de Mourmelon, con instrucción en un biplano Voisin
+- **15 de febrero de 1910:** Obtiene la licencia de piloto número 32 del Aéro-Club de France tras diez días de aprendizaje
+- **28 de febrero de 1910:** Efectúa sobre el campamento de Châlons su primer vuelo en solitario fuera de la escuela
 - **1910:** Participa en competiciones aéreas en Biarritz, Niza, Tours, Lyon, Budapest, Rouen y Champagne 
 - **8 de agosto de 1910:** Establece un récord de altura de 1.755 metros en Blackpool (Inglaterra) 
 - **8 de septiembre de 1910:** Marca en Issy-les-Moulineaux (Francia) un nuevo tope mundial de altura: 2.680 metros 
@@ -103,24 +103,25 @@ Su Blériot XI original —el «Gypaète»— sufrió graves daños en el accide
     <li><a href="https://id.loc.gov/authorities/names/n97008394.html" style="color: #315fea; text-decoration: none;">Library of Congress – Chávez, Jorge, 1887-1910</a></li>
     <li><a href="https://francearchives.gouv.fr/fr/agent/664302393" style="color: #315fea; text-decoration: none;">FranceArchives – Chavez Dartnell, Jorge (1887-1910)</a></li>
     <li><a href="https://www2.congreso.gob.pe/sicr/tradocestproc/clproley2001.nsf/pley/86FAED5DEBEA68BA05256D25005CF93A" style="color: #315fea; text-decoration: none;">Congreso Peruano – Reseña biográfica de Jorge Chávez</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Jorge_Ch%C3%A1vez" style="color: #315fea; text-decoration: none;">Wikipedia – Jorge Chávez</a></li>
-    <li><a href="https://www.ecured.cu/Jorge_Ch%C3%A1vez" style="color: #315fea; text-decoration: none;">EcuRed – Jorge Chávez</a></li>
-    <li><a href="https://en.m.wikipedia.org/wiki/Jorge_Ch%C3%A1vez_Dartnell" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Jorge Chávez Dartnell</a></li>
+    <li><a href="https://cdn.www.gob.pe/uploads/document/file/6985439/6023434-boletin-jorge-chavez-2024(2).pdf" style="color: #315fea; text-decoration: none;">Fuerza Aérea del Perú – Boletín Natalicio de Jorge Chávez Dartnell, edición 2024</a></li>
+    <li><a href="https://aviatechno.net/brevets/images_brevets.php?image=32" style="color: #315fea; text-decoration: none;">Aviatechno – Géo Chavez, brevet de piloto n.º 32</a></li>
+    <li><a href="https://www.air-journal.fr/2025-02-28-le-28-fevrier-1910-dans-le-ciel-geo-chavez-enfin-seul-dans-son-aeroplane-5261266.html" style="color: #315fea; text-decoration: none;">Air Journal – El vuelo en solitario de Géo Chavez del 28 de febrero de 1910</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Existe una discrepancia documentada sobre la fecha de nacimiento de Jorge Chávez Dartnell. Algunas fuentes no oficiales citan el 13 de enero de 1887, pero los registros de alta autoridad —Library of Congress, FranceArchives, Congreso Peruano y la mayoría de las fuentes oficiales peruanas— confirman el <strong>13 de junio de 1887</strong> como fecha correcta. La altitud alcanzada durante el cruce alpino se registra en las fuentes más solventes como «más de 2.650 metros» (8.694 pies); otras publicaciones dan cifras inferiores, y se ha adoptado la más respaldada por las fuentes primarias. El premio del Aero Club de Italia fue de 20.000 dólares de la época, y el avión fue bautizado como «Gypaète» (Quebrantahuesos).</p>
+  <p><strong>Nota aclaratoria:</strong> Existe una discrepancia documentada sobre la fecha de nacimiento de Jorge Chávez Dartnell. Algunas fuentes no oficiales citan el 13 de enero de 1887, pero los registros de alta autoridad —Library of Congress, FranceArchives, Congreso Peruano y la mayoría de las fuentes oficiales peruanas— confirman el <strong>13 de junio de 1887</strong> como fecha correcta. La altitud alcanzada durante el cruce alpino se registra en las fuentes más solventes como «más de 2.650 metros» (8.694 pies); otras publicaciones dan cifras inferiores, y se conserva el valor con mayor apoyo en la documentación primaria. El premio del Aero Club de Italia fue de 20.000 dólares de la época, y el avión fue bautizado como «Gypaète» (Quebrantahuesos).</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-01 15:03:56 CST
-- **Fuentes primarias/institucionales consultadas:** Library of Congress, FranceArchives, Congreso Peruano, Wikipedia (ES/EN), EcuRed
-- **Discrepancias resueltas:** Fecha de nacimiento: 13 de junio de 1887 (registros oficiales) frente a 13 de enero (fuentes no oficiales); altitud del cruce fijada en 2.650 metros, la cifra más respaldada.
+- **Timestamp de verificación:** 2026-10-03 13:22:44 CST
+- **Fuentes primarias/institucionales consultadas:** Fuerza Aérea del Perú, Congreso de la República del Perú, Library of Congress, FranceArchives
+- **Fuentes secundarias de contraste:** Aviatechno, Air Journal
+- **Discrepancias resueltas:** Nacimiento: 13 de junio de 1887; cruce: más de 2.650 metros; formación Farman: inicio práctico el 5 de febrero, licencia n.º 32 el 15 y primer vuelo en solitario fuera de la escuela el 28. Se omite la duración del vuelo del día 28 por divergencia entre fuentes.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
