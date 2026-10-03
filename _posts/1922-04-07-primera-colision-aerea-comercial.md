@@ -33,8 +33,7 @@ image: 1922-04-07-primera-colision-aerea-comercial.webp
 - **Matrícula (primera):** F-GEAD
 - **Número de serie (primera):** 23
 - **Operador (primera):** Compagnie des Grands Express Aériens (CGEA)
-- **Origen (primera):** Aeropuerto de Le Bourget, París, Francia
-- **Destino (primera):** Aeropuerto de Croydon, Londres, Reino Unido
+- **Itinerario (primera):** Le Bourget (París)–Croydon (Londres)
 - **Tripulación (primera):** 2 (piloto M. Mire y mecánico)
 - **Pasajeros (primera):** 3
 - **Víctimas (primera):** 5
@@ -42,8 +41,7 @@ image: 1922-04-07-primera-colision-aerea-comercial.webp
 - **Matrícula (segunda):** G-EAWO
 - **Número de serie (segunda):** DH.18/4
 - **Operador (segunda):** Daimler Hire Limited (transferido desde Instone Air Line)
-- **Origen (segunda):** Aeropuerto de Croydon, Londres, Reino Unido
-- **Destino (segunda):** Aeropuerto de Le Bourget, París, Francia
+- **Itinerario (segunda):** Croydon (Londres)–Le Bourget (París)
 - **Tripulación (segunda):** 2 (Teniente R. E. Duke, piloto; Hesterman, auxiliar)
 - **Pasajeros (segunda):** 0 (solo correo)
 - **Víctimas (segunda):** 2
@@ -57,7 +55,7 @@ image: 1922-04-07-primera-colision-aerea-comercial.webp
 
 ## Contexto Histórico
 
-Tras la Primera Guerra Mundial (1914-1918), la demanda de aeronaves militares y pilotos cayó drásticamente. Francia y Gran Bretaña, al igual que otras naciones, impulsaron la creación de una industria de aviación civil, adaptando diseños militares a usos comerciales.
+Terminado el conflicto mundial de 1914 a 1918, la demanda de aeronaves militares y pilotos cayó drásticamente. Francia y Gran Bretaña, al igual que otras naciones, impulsaron la creación de una industria de aviación civil, adaptando diseños militares a usos comerciales.
 
 ### Entorno social
 La ruta Londres-París era la más concurrida de Europa, operada por varias compañías. El 2 de abril de 1922, Daimler Hire Limited había comenzado a operar en esta ruta con el DH.18A G-EAWO, apenas cinco días antes del accidente. El avión francés transportaba a una pareja estadounidense en su luna de miel, lo que añadió una nota trágica al suceso.
@@ -73,7 +71,7 @@ Este accidente, al ser el primero de su tipo entre aviones comerciales, conmocio
 ## Desarrollo Cronológico
 
 - **7 de abril de 1922, antes del vuelo:** El DH.18A G-EAWO despega de Croydon (Londres) con destino a Le Bourget (París), transportando solo correo y dos tripulantes. Simultáneamente, el Goliath F-GEAD despega de Le Bourget con destino a Croydon, con tres pasajeros, un piloto y un mecánico.
-- **Aproximadamente a las 14:00 horas:** Ambos aviones vuelan a 150 metros de altitud en condiciones de niebla y llovizna, siguiendo la misma línea de ferrocarril como referencia de navegación.
+- **Aproximadamente a las 14:00 horas:** Ambos aviones vuelan a 150 metros de altitud en condiciones de niebla y llovizna, guiándose en sentidos opuestos por el mismo trazado ferroviario.
 - **Impacto:** Los dos aviones se encuentran frontalmente en la niebla, sin tiempo para maniobras evasivas. El DH.18A pierde un ala y la cola, impactando primero contra el suelo. El Goliath se estrella unos minutos después.
 - **Rescate:** Los lugareños acuden rápidamente al lugar. Encuentran a todas las víctimas fallecidas, excepto al joven auxiliar Hesterman, que está gravemente herido. Es trasladado al pueblo cercano, pero muere a causa de sus heridas.
 - **Informes iniciales:** Los primeros reportes de prensa afirmaron erróneamente que el piloto británico era el superviviente.
@@ -91,11 +89,11 @@ Este accidente, al ser el primero de su tipo entre aviones comerciales, conmocio
 
 ## Legado
 
-La colisión de Picardía de 1922 es recordada como el primer accidente de su tipo entre dos aviones comerciales, un hito lúgubre en la historia de la seguridad aérea. Las lecciones aprendidas —reglas de vuelo estandarizadas, mejor visibilidad para los pilotos y uso de radio— sentaron las bases para la regulación del tráfico aéreo moderno. La "regla de la derecha" en el aire, aunque hoy complementada con sistemas avanzados como el TCAS (Sistema de Alerta de Tráfico y Evitación de Colisiones), tiene su origen en esta tragedia ocurrida hace más de un siglo.
+La colisión de Picardía de 1922 es recordada como el primer accidente de su tipo entre dos aviones comerciales, un antecedente trágico de la seguridad del transporte aéreo. Las lecciones aprendidas —reglas de vuelo estandarizadas, mejor visibilidad para los pilotos y uso de radio— sentaron las bases para la regulación del tráfico aéreo moderno. La "regla de la derecha" en el aire, aunque hoy complementada con sistemas avanzados como el TCAS (Sistema de Alerta de Tráfico y Evitación de Colisiones), tiene su origen en esta tragedia ocurrida hace más de un siglo.
 
 ### Discrepancias encontradas y resueltas
 
-- **Número de víctimas:** Todas las fuentes coinciden en 7 víctimas mortales. No hay discrepancia.
+- **Víctimas:** Las referencias coinciden en siete fallecidos.
 - **Identidad del auxiliar:** Las fuentes coinciden en que era un joven de apellido Hesterman. No se especifica su nombre de pila.
 - **Altitud de vuelo:** Coinciden en 150 metros (492 pies). No hay discrepancia.
 - **Nombre del piloto francés:** Las fuentes lo identifican como "M. Mire" (Monsieur Mire). No se especifica su nombre de pila.
@@ -123,7 +121,7 @@ La colisión de Picardía de 1922 es recordada como el primer accidente de su ti
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
+- **Timestamp de verificación:** 2026-10-03 15:30:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN, FR, NO), Aviation Safety Network, Guinness World Records
 - **Discrepancias resueltas:** No se encontraron discrepancias significativas entre las fuentes. Todos los datos clave coinciden.
 - **Nivel de confianza:** Alto

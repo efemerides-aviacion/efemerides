@@ -73,7 +73,7 @@ Hofer era la antítesis del piloto de caza disciplinado. Su pelo largo (inusual 
 - **23 de mayo de 1944:** Promovido a primer teniente 
 - **28 de mayo de 1944:** Obtiene su última victoria aérea en una misión sobre Budapest, derribando dos FW 190 
 - **2 de julio de 1944:** Muere en combate durante una misión de escolta sobre Hungría, derribado por fuego antiaéreo mientras ametrallaba la base de Mostar Sud, Yugoslavia 
-- **1950:** Sus restos son repatriados a Estados Unidos y enterrados en el Cementerio Nacional de Jefferson Barracks, St. Louis, Misuri 
+- **1950:** Sus restos regresan a Estados Unidos y reciben sepultura en Jefferson Barracks, St. Louis, Misuri 
 
 ### Vida temprana
 
@@ -85,7 +85,7 @@ El 19 de julio de 1941, sin experiencia previa en aviación, se alistó impulsiv
 
 El P-51B Mustang de Hofer, número de serie 42-106924, con el código de cola QP-L, fue bautizado «Salem Representative» en honor a su ciudad natal. El avión era una de las máquinas más emblemáticas del 4th Fighter Group, y Hofer lo pilotó en sus misiones más peligrosas. En sus costados, se acumulaban las marcas de las victorias aéreas y terrestres, un testimonio de la eficacia del joven piloto.
 
-Hofer voló el «Salem Representative» en misiones de escolta de bombarderos sobre Alemania, Francia y Hungría, participando en algunas de las operaciones aéreas más importantes de la Segunda Guerra Mundial en Europa.
+Hofer voló el «Salem Representative» en misiones de escolta de bombarderos sobre Alemania, Francia y Hungría, participando en varias de las principales operaciones aéreas del conflicto europeo.
 
 ### El as del strafing
 
@@ -103,15 +103,15 @@ Según las investigaciones, Hofer no fue derribado en el combate aéreo, sino mi
 
 ## Consecuencias e Impacto
 
-La muerte de Hofer fue una pérdida significativa para el 4th Fighter Group. Su legado como piloto de combate y strafer perdura. Su nombre está inscrito en el Cementerio Nacional de Jefferson Barracks, y su historia es recordada en los anales de la aviación militar estadounidense.
+La muerte de Hofer fue una pérdida significativa para el 4th Fighter Group. Su trayectoria como piloto de combate y especialista en ataques a tierra sigue siendo una referencia histórica para la aviación estadounidense.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
-Ralph Kidd Hofer es recordado como uno de los ases más singulares y efectivos de la Segunda Guerra Mundial. Con 15 victorias aéreas y 14-15 aviones destruidos en tierra, fue un piloto temido por la Luftwaffe y admirado por sus compañeros. Su estilo de vida —pelo largo, camiseta de fútbol, indisciplina radiofónica— lo convirtió en una figura legendaria dentro del 4th Fighter Group.
+Ralph Kidd Hofer ocupa un lugar singular entre los ases estadounidenses de la Segunda Guerra Mundial. Con 15 victorias aéreas y 14-15 aviones destruidos en tierra, fue un piloto temido por la Luftwaffe y admirado por sus compañeros. Su estilo de vida —pelo largo, camiseta de fútbol, indisciplina radiofónica— lo convirtió en una figura legendaria dentro del 4th Fighter Group.
 
-El «Salem Representative» es uno de los aviones más recordados del 4th Fighter Group, y la historia de su piloto sigue siendo contada entre los entusiastas de la aviación. Hofer está enterrado en el Cementerio Nacional de Jefferson Barracks, en St. Louis, Misuri (Sección 79, Tumbas 254-256, en una fosa común). En 2014, Hofer fue honrado por el Congreso de los Estados Unidos, junto con otros ases de la aviación, con la Medalla de Oro del Congreso.
+El «Salem Representative» es uno de los aviones más recordados del 4th Fighter Group, y la historia de su piloto sigue siendo contada entre los entusiastas de la aviación. Hofer descansa en una fosa común de Jefferson Barracks, St. Louis, Misuri (Sección 79, Tumbas 254-256). En 2014 recibió, junto con otros ases, la Medalla de Oro otorgada por el poder legislativo federal.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -139,7 +139,7 @@ El «Salem Representative» es uno de los aviones más recordados del 4th Fighte
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 13:37:19 CST  
+- **Timestamp de verificación:** 2026-10-03 15:30:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, American Air Museum, Veteran Tributes, Grokipedia, Aces of WWII, Wikiwand, Aircrew Remembered
 - **Discrepancias resueltas:** Las cifras de victorias en tierra varían ligeramente entre 14 y 15 según las fuentes; se ha indicado el rango. El nombre de nacimiento (Halbrook) ha sido aclarado. Se ha detallado la causa exacta de su muerte (fuego antiaéreo mientras ametrallaba Mostar Sud) basándose en investigaciones posteriores.
 - **Nivel de confianza:** Alto

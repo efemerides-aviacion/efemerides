@@ -117,9 +117,9 @@ La proeza fue además una temprana muestra del perfil que definiría a Doolittle
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-08 15:41:55 CST
-- **Fuentes primarias/institucionales consultadas:** National Museum of the U.S. Air Force (fichas del vuelo y del De Havilland DH-4); Air Force History and Museums Program; Air University Press; Library of Congress; Smithsonian National Air and Space Museum; San Diego Air &amp; Space Museum Archives.
+- **Timestamp de verificación:** 2026-10-03 15:30:14 CST  
+- **Fuentes primarias/institucionales consultadas:** National Museum of the U.S. Air Force; Air Force History and Museums Program; Air University Press; Library of Congress; Smithsonian; San Diego Air &amp; Space Museum.
 - **Fuentes secundarias de contraste:** Beaches Museum.
-- **Discrepancias resueltas:** (1) La fecha se publica el 5 de septiembre de 1922 por ser la culminación, aunque algunas fuentes identifican el hito con el 4, día del despegue. (2) El tiempo de vuelo se presenta como 21 horas y 20 minutos, cifra institucional redondeada; otras fuentes de la Fuerza Aérea indican 21 horas y 19 minutos. Se diferencia del tiempo transcurrido de 22 horas y 30 minutos. (3) La escala de Kelly Field figura como de 30 minutos en una biografía oficial y como de unos 70 minutos en una cronología de Air University; se consigna solo la única parada, sin fijar una duración.
+- **Discrepancias resueltas:** Se adopta el día 5 y 21 h 20 min de vuelo frente a 21 h 19 min; la escala única se mantiene sin duración por variar entre 30 y 70 minutos.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

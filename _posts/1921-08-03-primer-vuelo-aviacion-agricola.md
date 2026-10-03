@@ -17,7 +17,7 @@ image: 1921-08-03-primer-vuelo-aviacion-agricola.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 3 de agosto de 1921, sobre una plantación de catalpas en Troy, en el estado de Ohio, un biplano Curtiss modificado en el campo experimental de McCook esparció arseniato de plomo en polvo sobre los árboles infestados por orugas. Fue el primer uso documentado de una aeronave más pesada que el aire para dispersar un producto fitosanitario.</p>
+<p>El 3 de agosto de 1921, sobre una plantación de catalpas en Troy, en el estado de Ohio, un biplano Curtiss modificado en el campo experimental de McCook esparció arseniato de plomo en polvo sobre los árboles infestados por orugas. Fue el primer uso documentado de un avión para dispersar un producto fitosanitario.</p>
 <p>La operación duró menos de un minuto de descarga efectiva y resolvió en seis pasadas un problema que por tierra habría exigido días de trabajo. El experimento, concebido por técnicos agrícolas del estado y ejecutado por el Servicio Aéreo del Ejército, no buscaba una marca deportiva ni un récord: pretendía comprobar una hipótesis agronómica. Su éxito abrió una rama industrial completa que hoy trata decenas de millones de hectáreas cada año.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -32,7 +32,7 @@ image: 1921-08-03-primer-vuelo-aviacion-agricola.webp
 - **Producto empleado:** arseniato de plomo en polvo, unas 175 libras (unos 79 kilogramos).
 - **Plaga combatida:** oruga de la esfinge de la catalpa (*Ceratomia catalpae*).
 - **Perfil de vuelo:** seis pasadas a una altura aproximada de 20 a 35 pies (entre 6 y 11 metros) sobre las copas.
-- **Promotores del ensayo:** la Estación Experimental Agrícola de Ohio, con el entomólogo John S. Houser, en colaboración con el Cuerpo de Señales del Ejército.
+- **Promotores del ensayo:** el entomólogo John S. Houser y la institución agrícola experimental de Ohio, con apoyo del Cuerpo de Señales del Ejército.
 - **Resultado inmediato:** mortandad prácticamente total de las orugas en el área tratada.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -107,14 +107,14 @@ Queda por último la advertencia implícita. La historia de la aplicación aére
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Las fuentes discrepan sobre la variante exacta del biplano empleado: unas la identifican como Curtiss JN-4 y otras como JN-6, por lo que aquí se cita el aparato genéricamente como Curtiss Jenny modificado. También difieren en la fecha de inicio de las operaciones comerciales de fumigación aérea, situada entre 1923 y 1924 según la fuente, y en si debe atribuirse a la constitución de la empresa o a su primer trabajo efectivo; se ha adoptado 1924 y la localización de Macon, en Georgia, por ser lo que sostienen las referencias más precisas consultadas. Las cifras de superficie, cantidad de producto y duración de las descargas proceden del relato divulgado del experimento y presentan variaciones menores entre versiones. El plazo exacto en que se verificó la mortandad de las orugas oscila entre las 46 horas y los seis días según la fuente, por lo que se ha optado por no fijar una cifra concreta. La denominación «primer vuelo de la aviación agrícola» se refiere al primer uso documentado de una aeronave de ala fija para dispersar un producto fitosanitario; existe un antecedente de siembra aérea desde globo en Nueva Zelanda en 1906, recogido en el desarrollo cronológico.</p>
+  <p><strong>Precisiones documentales:</strong> No hay unanimidad sobre la variante exacta del biplano empleado: unas la identifican como Curtiss JN-4 y otras como JN-6, por lo que aquí se cita el aparato genéricamente como Curtiss Jenny modificado. También difieren en la fecha de inicio de las operaciones comerciales de fumigación aérea, situada entre 1923 y 1924 según la fuente, y en si debe atribuirse a la constitución de la empresa o a su primer trabajo efectivo; se ha adoptado 1924 y la localización de Macon, en Georgia, por ser lo que sostienen las referencias más precisas consultadas. Las cifras de superficie, cantidad de producto y duración de las descargas proceden del relato divulgado del experimento y presentan variaciones menores entre versiones. El plazo exacto en que se verificó la mortandad de las orugas oscila entre las 46 horas y los seis días según la fuente, por lo que el texto evita precisar ese intervalo. La denominación «primer vuelo de la aviación agrícola» se refiere al primer uso documentado de una aeronave de ala fija para dispersar un producto fitosanitario; existe un antecedente de siembra aérea desde globo en Nueva Zelanda en 1906, recogido en el desarrollo cronológico.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 10:45:59 CST
-- **Fuentes primarias/institucionales consultadas:** informe de John S. Houser para la Ohio Agricultural Experiment Station (Monthly Bulletin 7, 1922), origen documental de las fotografías del experimento, consultado en Internet Archive.
-- **Fuentes secundarias de contraste:** Air &amp; Space Forces Magazine, Wikipedia en inglés (Aerial application; John A. Macready; Etienne Dormoy; McCook Field; Ceratomia catalpae; Lead arsenate).
-- **Discrepancias resueltas:** se citó el aparato como Curtiss Jenny sin precisar variante, por divergencia entre las fuentes entre JN-4 y JN-6; se adoptó 1924 y Macon, Georgia, como inicio de las operaciones comerciales, frente a la fecha de 1923 que ofrecen otras recopilaciones; se omitió fijar el plazo exacto de mortandad de las orugas por oscilar entre 46 horas y seis días según la fuente.
+- **Timestamp de verificación:** 2026-10-03 15:30:14 CST  
+- **Fuentes primarias/institucionales consultadas:** John S. Houser, Ohio Agricultural Experiment Station, 1922.
+- **Fuentes secundarias de contraste:** Air &amp; Space Forces Magazine; Wikipedia en inglés.
+- **Discrepancias resueltas:** Variante JN-4/JN-6 no cerrada; operaciones comerciales fijadas en Macon en 1924; plazo de mortandad omitido por variar entre 46 horas y seis días.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

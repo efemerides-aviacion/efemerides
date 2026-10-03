@@ -32,7 +32,7 @@ image: 1921-08-18-nacimiento-lidia-litviak-as-combate-union-sovietica.webp
 - **Unidades:** Grupo de Aviación n.º 122 de Marina Raskova; 586.º Regimiento de Aviación de Caza; 437.º Regimiento; 9.º Regimiento de Guardias; y 296.º Regimiento, luego 73.º de Guardias
 - **Hito mayor:** el 13 de septiembre de 1942, sobre Stalingrado, derribó un Ju 88 y un Bf 109 en un solo vuelo: primera mujer en derribar un avión enemigo; el piloto alemán, el as Erwin Meier, no creyó haber caído ante una mujer hasta que ella le relató el combate jugada a jugada
 - **Palmarés:** 12 victorias individuales y 3 compartidas según la mayoría de las fuentes (otras cuentan 11+3 o 12+2); récord femenino jamás superado, junto al de Katia Budanova, la otra as soviética
-- **Honores:** Orden de la Estrella Roja, Orden de la Bandera Roja, Orden de la Guerra Patria de 1.ª clase, medalla por la Defensa de Stalingrado y Héroe de la Unión Soviética póstuma en 1990
+- **Honores:** Orden de la Guerra Patria de 1.ª clase; Orden de la Estrella Roja; Orden de la Bandera Roja; medalla por la Defensa de Stalingrado; título póstumo de Héroe de la Unión Soviética en 1990
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -63,7 +63,7 @@ El grupo que la llevó al frente fue obra de <a href="https://efemerides-aviacio
 - **Octubre de 1941:** Marina Raskova recibe autorización para formar tres regimientos femeninos; Litviak ingresa en el Grupo de Aviación n.º 122.
 - **1942:** asignada al 586.º Regimiento de Aviación de Caza, defiende los cielos de Sarátov con 55 vuelos de combate.
 - **10 de septiembre de 1942:** transferida con otras siete pilotos al frente de Stalingrado, al 437.º Regimiento.
-- **13 de septiembre de 1942:** en su tercera misión derriba un Ju 88 y el Bf 109 del as Erwin Meier: primera mujer en derribar un avión enemigo.
+- **13 de septiembre de 1942:** en su tercera misión derriba un Ju 88 y el Bf 109 de Erwin Meier, primicia femenina en el combate aéreo.
 - **Octubre de 1942-enero de 1943:** sirve en el 9.º Regimiento de Guardias, entre los ases más famosos de la URSS.
 - **Enero de 1943:** pasa al 296.º Regimiento (73.º de Guardias desde marzo), su hogar de combate; vuela de ala de Aleksei Solomatin.
 - **11 de febrero de 1943:** en una batalla de cuatro Yak contra 29 aviones enemigos, derriba un Ju 87 y comparte un Fw 190 con su Comandante Baránov.
@@ -85,7 +85,7 @@ El grupo que la llevó al frente fue obra de <a href="https://efemerides-aviacio
 
 ## Legado
 
-Ciento cinco años después de su nacimiento, la «Rosa Blanca de Stalingrado» es la patrona laica de las mujeres que combaten en el aire: su lirio blanco, su cuello de cabritilla cosido de las botas y su Yak sobre el Volga alimentan libros —como la biografía de Bill Yenne de 2013—, juegos y memoriales. Murió como temía, desaparecida sin rastro, y volvió como lo que fue: la pequeña piloto de cojines y bloques de madera que derribó doce aviones enemigos y obligó a un as alemán con tres cruces de hierro a aceptar, jugada a jugada, que lo había vencido una mujer de 21 años.
+Más de un siglo después, la «Rosa Blanca de Stalingrado» es la patrona laica de las mujeres que combaten en el aire: su lirio blanco, su cuello de cabritilla cosido de las botas y su Yak sobre el Volga alimentan libros —como la biografía de Bill Yenne de 2013—, juegos y memoriales. Murió como temía, desaparecida sin rastro, y volvió como lo que fue: la pequeña piloto de cojines y bloques de madera que derribó doce aviones enemigos y obligó a un as alemán con tres cruces de hierro a aceptar, jugada a jugada, que lo había vencido una mujer de 21 años.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -104,9 +104,9 @@ Ciento cinco años después de su nacimiento, la «Rosa Blanca de Stalingrado» 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 09:15:00 CST  
-- **Fuentes primarias/institucionales consultadas:** ninguna disponible para el período; la contrastación se apoyó en las secundarias siguientes
-- **Fuentes secundarias de contraste:** Wikipedia (EN); Encyclopedia.com; WW2DB
-- **Discrepancias resueltas:** el palmarés figura como 12+3, 11+3 o 12+2 según autores; se redacta «12 individuales y 3 compartidas según la mayoría de las fuentes». La primera victoria femenina se atribuye a Litviak el 13 de septiembre de 1942 (archivos soviéticos) y por algunos historiadores a Valeria Jomiakova el 24 de septiembre; se adopta Litviak con nota en el cuerpo. El derribo adicional del 14 de septiembre (probable Hans Fuss) y el del 27 se omiten del conteo por no alterar el récord ni estar conciliados. La condecoración póstuma se fecha en 1990 sin día exacto por prudencia.
-- **Nivel de confianza:** Alto — núcleo del hecho respaldado por convergencia de fuentes secundarias independientes; sin fuentes primarias accesibles, como se declara arriba.
+- **Timestamp de verificación:** 2026-10-03 15:30:14 CST  
+- **Fuentes primarias/institucionales consultadas:** ninguna accesible para el período.
+- **Fuentes secundarias de contraste:** Wikipedia en inglés; Encyclopedia.com; WW2DB.
+- **Discrepancias resueltas:** Se adopta 12+3 y la primicia de Litviak del 13 de septiembre; se omiten derribos no conciliados y se fecha el honor póstumo solo en 1990.
+- **Nivel de confianza:** Alto por convergencia de fuentes secundarias independientes.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

@@ -73,7 +73,7 @@ La prensa de ambos países siguió la expedición con gran expectación. Cada es
 
 ### La innovación: navegación aérea con sextante
 
-Por primera vez en la historia, un avión utilizó un sextante para su navegación. El sextante aeronáutico de Gago Coutinho incorporaba un horizonte artificial: un nivel de burbuja de aire que, visto a través de un sistema de espejos, ofrecía una referencia estable incluso cuando no se distinguía la línea del mar. Con este instrumento, Coutinho podía determinar la posición exacta del hidroavión midiendo la altura del sol o de las estrellas.
+Por primera vez en la historia, un avión utilizó un sextante para su navegación. El sextante de Coutinho integraba una burbuja en el sistema óptico para sustituir la línea visible del mar por una referencia estable. Con este instrumento, Coutinho podía determinar la posición exacta del hidroavión midiendo la altura del sol o de las estrellas.
 
 El corrector de ruta, otro invento de Coutinho, consistía en lanzar una bomba de humo al agua y medir el tiempo que tardaba el barco de acompañamiento —situado a popa— en alcanzar el punto de impacto. Con ese dato, calculaban el efecto de los vientos laterales y corregían la trayectoria.
 
@@ -149,14 +149,14 @@ La primera travesía aérea del Atlántico Sur es hoy una de las gestas más rec
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> La fecha de salida de Lisboa varía según las fuentes: algunas indican el 30 de marzo de 1922 a las 7:00 a.m., mientras que otros documentos señalan las 4:30 p.m. del mismo día. Las cifras de distancia y duración del vuelo también presentan ligeras variaciones entre fuentes, pero las aquí presentadas son las más aceptadas por los historiadores de la aviación portuguesa. Los nombres completos de los aviadores son: Artur de Sacadura Freire Cabral (1881-1924) y Carlos Viegas Gago Coutinho (1869-1959). El hidroavión Fairey III-D utilizado para la primera etapa fue el F.400, especialmente modificado para la travesía.</p>
+  <p><strong>Nota aclaratoria:</strong> La fecha de salida de Lisboa varía según las fuentes: algunas indican el 30 de marzo de 1922 a las 7:00 a.m., mientras que otros documentos señalan las 4:30 p.m. del mismo día. Las cifras de distancia y duración del vuelo también presentan ligeras variaciones entre fuentes, y aquí se adoptan los valores predominantes en la historiografía aeronáutica portuguesa. Los nombres completos de los aviadores son: Artur de Sacadura Freire Cabral (1881-1924) y Carlos Viegas Gago Coutinho (1869-1959). El hidroavión Fairey III-D utilizado para la primera etapa fue el F.400, especialmente modificado para la travesía.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 13:37:19 CST  
+- **Timestamp de verificación:** 2026-10-03 15:30:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), Wikiwand (ES), Observador (PT), NCultura (PT)
 - **Discrepancias resueltas:** La hora exacta de salida de Lisboa varía entre las 7:00 a.m. y las 4:30 p.m. según las fuentes; se ha optado por la segunda por ser la más citada en las fuentes portuguesas. La distancia total recorrida se ha redondeado a 8.383 km según las fuentes oficiales portuguesas.
 - **Nivel de confianza:** Alto

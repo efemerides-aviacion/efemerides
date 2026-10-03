@@ -31,14 +31,14 @@ image: 1921-05-09-sobrevuelo-plaza-toros-caracas-caudron-g3.webp
 - **Aeronaves:** tres biplanos Caudron G.3
 - **Unidad:** Escuela de Aviación Militar (Maracay)
 - **Tipo de hecho:** demostración aérea / sobrevuelo ceremonial
-- **Antecedentes inmediatos:** creación de la Escuela el 17 de abril de 1920; llegada de Caudron G.3 en 1920; primer vuelo en Maracay el 30 de octubre de 1920; primer vuelo en solitario de un piloto venezolano el 15 de abril de 1921 (Subteniente Manuel Ríos)
+- **Antecedentes inmediatos:** creación de la Escuela el 17 de abril de 1920; llegada de Caudron G.3 en 1920; primer vuelo en Maracay el 30 de octubre de 1920; primera salida individual del Subteniente Manuel Ríos el 15 de abril de 1921
 - **Contexto del día en el coso:** el Nuevo Circo celebró el 9 de mayo de 1921 una corrida de gran concurso; el sobrevuelo se inscribe en esa jornada pública
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-La aviación militar venezolana nació el 17 de abril de 1920, con la Escuela de Aviación Militar en Maracay. Los primeros aparatos fueron Caudron G.3 franceses, tras las demostraciones del aviador italiano <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1890/02/15/nacimiento-cosme-rennella-barbatto.html" style="color: #315fea; text-decoration: none;">Cosme Rennella</a>.
+Venezuela instituyó su aviación militar el 17 de abril de 1920 y estableció en Maracay el centro de formación. Los primeros aparatos fueron Caudron G.3 franceses, tras las demostraciones del aviador italiano <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1890/02/15/nacimiento-cosme-rennella-barbatto.html" style="color: #315fea; text-decoration: none;">Cosme Rennella</a>.
 
 ### Entorno social
 
@@ -58,7 +58,7 @@ La figura del aviador era nueva y admirada. El sobrevuelo no era un ejercicio t�
 
 La jornada del 9 de mayo se entiende sobre el primer año de la Escuela.
 
-- **17 de abril de 1920:** creación de la Escuela de Aviación Militar en Maracay.
+- **17 de abril de 1920:** decreto inaugural del plantel militar de vuelo instalado en Maracay.
 - **Septiembre de 1920:** llegada de Caudron G.3 de fábrica, según el recuento de flota más citado.
 - **30 de octubre de 1920:** primer vuelo en Maracay.
 - **15 de abril de 1921:** primer vuelo en solitario del Subteniente Manuel Ríos.
@@ -75,7 +75,7 @@ El pasaje sobre el coso hizo visible el proyecto de Maracay en el centro de Cara
 
 ## Legado
 
-Ciento cinco años después, el sobrevuelo queda como una de las primeras imágenes públicas de la aviación militar venezolana. Un Caudron G.3 se conserva en el Museo Aeronáutico de Maracay. La placa fotográfica de Manrique sigue siendo el documento visual del 9 de mayo.
+Ciento cinco años después, el sobrevuelo queda como una de las primeras imágenes públicas de la aviación militar venezolana. El Museo Aeronáutico de Maracay exhibe un Caudron G.3. La placa fotográfica de Manrique sigue siendo el documento visual del 9 de mayo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -100,7 +100,7 @@ Ciento cinco años después, el sobrevuelo queda como una de las primeras imáge
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-19 12:00:00 CST
+- **Timestamp de verificación:** 2026-10-03 15:30:14 CST  
 - **Fuentes primarias/institucionales consultadas:** no se localizó un parte oficial del sobrevuelo del 9 de mayo. El ancla institucional del tipo y de la escuela es indirecta (flota y misión descritas en FAV-CLUB a partir de documentación de la época).
 - **Fuentes secundarias de contraste:** Wikipedia (ES/EN) sobre el G.3; post de Cosme Rennella ya publicado.
 - **Discrepancias resueltas:** tamaño de la compra de G.3 (6 frente a 3–15); nombres de los tres pilotos del 9 de mayo, no cerrados.

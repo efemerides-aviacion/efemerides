@@ -12,12 +12,12 @@ image: 1922-01-24-nacimiento-bob-hoover-piloto-de-pilotos.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1922-01-24-nacimiento-bob-hoover-piloto-de-pilotos.webp" alt="Bob Hoover joven, con traje de vuelo y paracaídas, subiendo a la cabina de un F-100D Super Sabre">
-  <figcaption class="post-caption">Bob Hoover en sus años de piloto de pruebas de la Fuerza Aérea de los Estados Unidos, subiendo a un F-100D Super Sabre en la década de 1950. Fuente: U.S. Air Force, vía The New York Times.</figcaption>
+  <figcaption class="post-caption">Bob Hoover durante su etapa de ensayos para la aviación militar estadounidense, subiendo a un F-100D Super Sabre en la década de 1950. Fuente: U.S. Air Force, vía The New York Times.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 24 de enero de 1922 nació en Nashville, Tennessee, Robert Anderson Hoover, Bob Hoover, a quien Jimmy Doolittle llamó «el mejor hombre de palanca y timón que jamás haya vivido» y a quien Air & Space/Smithsonian colocó tercero entre los mejores aviadores de la historia. Piloto de caza en la Segunda Guerra Mundial, derribado y fugado de un campo de prisioneros en un Fw 190 robado; piloto de pruebas en el alba supersónica, con el programa Bell X-1; y acróbata de festivales aéreos durante casi cincuenta años, Hoover voló más de trescientos tipos de aeronaves y dejó para siempre el apodo que lo define: el piloto de pilotos.</p>
+<p>El 24 de enero de 1922 nació en Nashville, Tennessee, Robert Anderson Hoover, Bob Hoover, a quien Jimmy Doolittle llamó «el mejor hombre de palanca y timón que jamás haya vivido» y a quien Air & Space/Smithsonian colocó tercero entre los mejores aviadores de la historia. Aviador de combate durante la guerra, derribado y fugado de un campo de prisioneros en un Fw 190 robado; piloto de pruebas en el alba supersónica, con el programa Bell X-1; y acróbata de festivales aéreos durante casi cincuenta años, Hoover voló más de trescientos tipos de aeronaves y dejó para siempre el apodo que lo define: el piloto de pilotos.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Datos verificados del evento
@@ -27,7 +27,7 @@ image: 1922-01-24-nacimiento-bob-hoover-piloto-de-pilotos.webp
 - **Nombre completo:** Robert Anderson Hoover
 - **Servicio:** 1940-1950; Guardia Nacional de Tennessee, US Army Air Forces y USAF; grado de First Lieutenant; unidades: 52nd Fighter Group y Flight Evaluation Group
 - **Condecoraciones:** Distinguished Flying Cross, Soldier's Medal for Valor, Air Medal con hojas de roble, Purple Heart y Croix de guerre francesa
-- **Hitos que lo definen:** fuga del Stalag Luft 1 en un Focke-Wulf Fw 190 requisado al enemigo; piloto de reserva del programa Bell X-1 y piloto de escolta en el vuelo de Mach 1 del 14 de octubre de 1947; casi cincuenta años de acrobacia de exhibición hasta su retiro en 1999
+- **Hitos que lo definen:** fuga del Stalag Luft 1 en un Focke-Wulf Fw 190 requisado al enemigo; reserva del programa Bell X-1 y escolta del histórico vuelo supersónico del 14 de octubre de 1947; casi cincuenta años de acrobacia de exhibición hasta su retiro en 1999
 - **Reconocimientos mayores:** National Aviation Hall of Fame (1988), Aerospace Walk of Honor (1992), Wright Brothers Memorial Trophy (2014) y Trofeo del National Air and Space Museum (2007)
 - **Apodo universal:** «the pilot's pilot», el piloto de pilotos
 
@@ -56,7 +56,7 @@ En la posguerra, los festivales aéreos convirtieron a los acróbatas en estrell
 - **1942-1943:** tras un derribo accidental por fuego amigo en Florida, sirve en Casablanca y luego en el 52nd Fighter Group, equipado con Spitfire.
 - **9 de febrero de 1944:** en su misión número 58 o 59 según las fuentes, su Spitfire Mark V cae ante un Fw 190 de la Jagdgeschwader 2 frente a la costa sur de Francia; Hoover pasa más de un año en el Stalag Luft 1 de Barth.
 - **Primavera de 1945:** en la confusión de un motín, escapa con otros dos prisioneros, requisa un Fw 190 de reconocimiento con el tanque lleno, despega sin carretear y vuela sin paracaídas hasta un campo junto al Zuiderzee, donde granjeros holandeses lo creen alemán hasta que llega un camión británico.
-- **1946-1947:** destinado a Wilbur Wright Field, se gradúa de la escuela de pilotos de pruebas y traba amistad con Chuck Yeager; será su piloto de reserva en el programa Bell X-1 y volará la escolta en P-80 durante el vuelo de Mach 1 del 14 de octubre de 1947.
+- **1946-1947:** destinado a Wilbur Wright Field, completa la formación de ensayos en vuelo y traba amistad con Chuck Yeager; será su piloto de reserva en el programa Bell X-1 y volará la escolta en P-80 durante el vuelo de Mach 1 del 14 de octubre de 1947.
 - **1948-1953:** deja la fuerza aérea, pasa por Allison y por North American Aviation; en Corea instruye a pilotos en el bombardeo en picado con el F-86 y vuela misiones reales sobre territorio enemigo.
 - **Década de 1950:** demuestra el FJ-2 Fury, el F-86 Sabre y el F-100 Super Sabre ante unidades activas, de reserva y de la Guardia Nacional, y fija récords transcontinentales y de tiempo de ascenso.
 - **1960-1999:** medio siglo de festivales con el P-51 Mustang, el amarillo Ole Yeller y, desde 1973, el Shrike Commander con el que apaga ambos motores en pleno número, sirve té helado en un tonel de 1 G y aterriza rueda a rueda sin reiniciar los motores.
@@ -75,7 +75,7 @@ En la posguerra, los festivales aéreos convirtieron a los acróbatas en estrell
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
-Ciento cuatro años después de su nacimiento, Bob Hoover sigue siendo el piloto de pilotos: el tercero en la lista de Air & Space/Smithsonian, el décimo en los 51 Héroes de la Aviación de Flying, el único presidente en dos mandatos de la Society of Experimental Test Pilots y el hombre de quien Doolittle dijo que era el mejor stick-and-rudder que jamás haya vivido. Su Shrike Commander descansa en el Udvar-Hazy Center y su nombre bautiza desde 2007 el Bob Hoover Freedom of Flight Award; pero su legado verdadero vuela todavía en cada festival aéreo donde un piloto, apagados los motores, vuelve a la pista rueda a rueda y aterriza como si la física fuera una cortesía.
+Ciento cuatro años después de su nacimiento, Bob Hoover sigue siendo el piloto de pilotos: el tercero en la lista de Air & Space/Smithsonian, el décimo en los 51 Héroes de la Aviación de Flying, la única persona que presidió dos veces la asociación de pilotos de pruebas experimentales y el hombre de quien Doolittle dijo que era el mejor stick-and-rudder que jamás haya vivido. Su Shrike Commander descansa en el Udvar-Hazy Center y su nombre bautiza desde 2007 el Bob Hoover Freedom of Flight Award; pero su legado verdadero vuela todavía en cada festival aéreo donde un piloto, apagados los motores, vuelve a la pista rueda a rueda y aterriza como si la física fuera una cortesía.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Referencias Verificadas
@@ -94,7 +94,7 @@ Ciento cuatro años después de su nacimiento, Bob Hoover sigue siendo el piloto
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-07 10:45:59 CST
+- **Timestamp de verificación:** 2026-10-03 15:30:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), National Air and Space Museum, National Aviation Hall of Fame
 - **Discrepancias resueltas:** el número de misiones de combate figura como 58 en el Smithsonian y 59 en otras fuentes; se redacta «58 o 59 según las fuentes». La duración del cautiverio figura como 15 meses y medio en el Smithsonian y 16 meses en otras fuentes; se redacta «más de un año».
 - **Nivel de confianza:** Alto

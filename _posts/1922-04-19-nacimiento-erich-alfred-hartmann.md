@@ -26,8 +26,7 @@ image: 1922-04-19-nacimiento-erich-alfred-hartmann.webp
 
 ## Datos verificados del evento
 
-- **Fecha de nacimiento:** 19 de abril de 1922
-- **Lugar:** Weissach, Württemberg, Alemania
+- **Nacimiento:** Weissach, Württemberg, Alemania, el 19 de abril de 1922
 - **Fallecimiento:** 20 de septiembre de 1993 (71 años), Weil im Schönbuch, Alemania
 - **Apodos:** "Bubi" (el niño), "El Diablo Negro" (por los soviéticos), "El Caballero Rubio de Alemania"
 - **Servicio:** Luftwaffe (1940-1945), Bundeswehr (1956-1970)
@@ -77,7 +76,7 @@ La Alemania nazi promovía la aviación como una actividad de élite y como prep
 - **1 de marzo de 1944:** Alcanza las 202 victorias.
 - **2 de marzo de 1944:** Derriba 10 aviones en un día y recibe la Cruz de Caballero con Hojas de Roble.
 - **4 de julio de 1944:** Alcanza las 250 victorias.
-- **24 de agosto de 1944:** Alcanza las 300 victorias. Recibe la Cruz de Caballero con Hojas de Roble, Espadas y Diamantes, la más alta condecoración militar alemana.
+- **24 de agosto de 1944:** Alcanza las 300 victorias y recibe los Diamantes para su Cruz de Caballero, ya distinguida con Hojas de Roble y Espadas.
 - **8 de mayo de 1945:** Derriba su último avión (un Yakovlev Yak-7) y se rinde a las fuerzas estadounidenses.
 - **1945-1955:** Permanece cautivo en campos de prisioneros soviéticos, condenado a 25 años de trabajos forzados.
 - **1955:** Es liberado y regresa a Alemania Occidental.
@@ -86,31 +85,17 @@ La Alemania nazi promovía la aviación como una actividad de élite y como prep
 - **1970:** Se retira del servicio activo con el rango de Oberst (Coronel).
 - **20 de septiembre de 1993:** Fallece en Weil im Schönbuch, Alemania.
 
-### El As de Ases: Táctica y Filosofía de Combate
+### Táctica y filosofía de combate
 
-Lo que distinguió a Hartmann de otros ases no fue solo su número de victorias, sino el método y la filosofía con que las obtuvo. Desarrolló una táctica propia que maximizaba la sorpresa y minimizaba el riesgo, y mantuvo un código de conducta que protegió a sus compañeros y respetó a sus adversarios. Estas son las claves de su éxito.
+Hartmann resumía su método como «Observa-Decide-Ataca-Retírate»: evitaba combates prolongados, se aproximaba sin ser visto, disparaba desde menos de 50 metros y rompía el contacto antes de la reacción enemiga. El tulipán negro pintado en el morro de su Bf 109 G-6 originó entre los soviéticos el apodo de «Diablo Negro».
 
-### La táctica "Observa-Decide-Ataca-Retírate"
-
-Hartmann desarrolló una táctica de combate que luego enseñó a sus compañeros: "Observa-Decide-Ataca-Retírate" (en alemán: "Sehen – Entscheiden – Angreifen – Rückzug"). En lugar de enredarse en maniobras prolongadas, Hartmann prefería acercarse sigilosamente al enemigo, atacar a quemarropa (desde menos de 50 metros), y retirarse antes de que el adversario pudiera reaccionar.
-
-### El "Diablo Negro" y su Bf 109
-
-Hartmann pintó la trompa de su Messerschmitt Bf 109 G-6 con un diseño de tulipán negro, que los pilotos soviéticos llegaron a reconocer y temer. Este diseño, que cubría la hélice y la entrada de aire del motor, se convirtió en su marca personal. Los soviéticos lo apodaron "El Diablo Negro de la Frontera Sur".
-
-### Nunca perdió a un compañero de ala
-
-A pesar de su increíble número de victorias, Hartmann siempre afirmó que su mayor orgullo era no haber perdido nunca a un compañero de escuadrilla (wingman) en combate. En un entorno donde la tasa de mortalidad de los pilotos de caza era extremadamente alta, esta declaración subraya su habilidad no solo como cazador, sino como líder y protector de su equipo.
-
-### Los 16 aterrizajes forzosos
-
-A lo largo de su carrera, Hartmann se vio obligado a realizar aterrizajes forzosos en 16 ocasiones. Ninguno de ellos fue resultado directo del fuego enemigo. La mayoría se debió a esquirlas de los aviones que acababa de derribar (que dañaban su propio motor o fuselaje) o a fallos mecánicos. Hartmann nunca fue herido en combate.
+Consideraba su mayor logro no haber perdido a un compañero de ala. Sus dieciséis aterrizajes forzosos se debieron sobre todo a esquirlas de los aparatos atacados o a fallos mecánicos, no a impactos directos; tampoco resultó herido en combate. Esa combinación de sorpresa, tiro cercano y protección de la formación explica tanto su palmarés como su reputación de líder.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
-- **Récord imbatible:** Los 352 derribos de Hartmann son el récord más alto de la historia del combate aéreo. Ningún piloto, alemán o aliado, se ha acercado siquiera a esta cifra. El segundo lugar lo ocupa Gerhard Barkhorn (301 victorias), también de la Luftwaffe.
+- **Récord imbatible:** Las 352 victorias de Hartmann constituyen la mayor marca acreditada en combate aéreo. Ningún piloto, alemán o aliado, se ha acercado siquiera a esta cifra. El segundo lugar lo ocupa Gerhard Barkhorn (301 victorias), también de la Luftwaffe.
 
 - **Controversia histórica:** Las cifras de derribos de los ases alemanes han sido objeto de debate. Los críticos señalan que el sistema de verificación alemán era menos riguroso que el de los Aliados. Sin embargo, los defensores argumentan que los pilotos alemanes realizaban un promedio de misiones mucho mayor que sus contrapartes aliadas, y que el Frente Oriental (donde Hartmann obtuvo la mayoría de sus victorias) era un teatro de operaciones con una densidad aérea mucho mayor.
 
@@ -132,12 +117,7 @@ Hartmann falleció el 20 de septiembre de 1993 en Weil im Schönbuch, Alemania, 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre las 352 victorias:</strong> La cifra de 352 derribos es la más aceptada por los historiadores y está respaldada por los Archivos Federales Alemanes (Bundesarchiv). Sin embargo, existen discrepancias menores entre las fuentes: algunas mencionan 345 victorias sobre aviones soviéticos y 7 sobre estadounidenses (total 352), mientras que otras presentan el total sin desglosar. El Guinness World Records también reconoce a Hartmann como el as de la aviación con el mayor número de derribos en la Segunda Guerra Mundial. También es importante señalar que Hartmann nunca fue derribado por fuego enemigo directo; sus 16 aterrizajes forzosos se debieron a esquirlas de los aviones que derribaba o a fallos mecánicos.</p>
-<p><strong>Nota sobre su cautiverio:</strong> Aunque Hartmann se rindió voluntariamente a las fuerzas estadounidenses el 8 de mayo de 1945, los acuerdos aliados de Yalta establecían que los prisioneros de guerra debían ser entregados al país contra el que habían combatido. Dado que Hartmann había pasado toda la guerra derribando aviones soviéticos en el Frente Oriental, fue entregado a la Unión Soviética el 24 de mayo de 1945, donde permaneció encarcelado durante 10 años.</p>
-</div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Referencias Verificadas
 
@@ -156,9 +136,16 @@ Hartmann falleció el 20 de septiembre de 1993 en Weil im Schönbuch, Alemania, 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
+<div class="note-box">
+<p><strong>Nota aclaratoria sobre las 352 victorias:</strong> La historiografía adopta mayoritariamente la cifra de 352 derribos, respaldada por los Archivos Federales Alemanes (Bundesarchiv). Sin embargo, existen discrepancias menores entre las fuentes: algunas mencionan 345 victorias sobre aviones soviéticos y 7 sobre estadounidenses (total 352), mientras que otras presentan el total sin desglosar. El Guinness World Records también reconoce a Hartmann como el as de la aviación con el mayor número de derribos en la Segunda Guerra Mundial. También es importante señalar que Hartmann nunca fue derribado por fuego enemigo directo; sus 16 aterrizajes forzosos se debieron a esquirlas de los aviones que derribaba o a fallos mecánicos.</p>
+<p><strong>Nota sobre su cautiverio:</strong> Aunque Hartmann se rindió voluntariamente a las fuerzas estadounidenses el 8 de mayo de 1945, los acuerdos aliados de Yalta establecían que los prisioneros de guerra debían ser entregados al país contra el que habían combatido. Dado que Hartmann había pasado toda la guerra derribando aviones soviéticos en el Frente Oriental, fue entregado a la Unión Soviética el 24 de mayo de 1945, donde permaneció encarcelado durante 10 años.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST
+- **Timestamp de verificación:** 2026-10-03 15:30:14 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN, GL), The Museum of Flight Archives, Guinness World Records, History Hit, SP's Aviation, La Vanguardia
 - **Discrepancias resueltas:** Las fuentes coinciden en las fechas de nacimiento y fallecimiento, así como en la cifra de 352 victorias. El año de la mudanza a China varía entre 1925 y 1926 (se consigna 1925). La cifra de misiones de combate varía entre mil cuatrocientas cuatro y 1.425 (se consigna la del archivo del Museo de Vuelo).
 - **Nivel de confianza:** Alto
