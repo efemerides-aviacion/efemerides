@@ -18,14 +18,14 @@ image: 1988-12-21-atentado-pan-am-103-lockerbie.webp
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>A las 19:02:50 UTC del 21 de diciembre de 1988, un artefacto explosivo improvisado oculto en un radiocasete detonó en la bodega delantera del vuelo 103 de Pan American World Airways, que volaba a 31.000 pies rumbo a Nueva York. El Boeing 747-121 matrícula N739PA, bautizado <em>Clipper Maid of the Seas</em>, se desintegró en el aire sobre la localidad escocesa de Lockerbie apenas treinta y ocho minutos después de despegar de Londres-Heathrow.</p>
-<p>Murieron las 259 personas a bordo y otras once vecinas de Lockerbie, sobre cuyas casas cayó la sección alar cargada de combustible. El balance de 270 víctimas convirtió el atentado en el peor acto terrorista cometido en suelo británico y en el ataque más letal contra ciudadanos estadounidenses hasta septiembre de 2001. La investigación, que levantó la mayor escena del crimen registrada hasta entonces, condujo a la condena de un agente de inteligencia libio y transformó los procedimientos de seguridad de la aviación civil en todo el mundo.</p>
+<p>Murieron las 259 personas a bordo y otras once vecinas de Lockerbie, sobre cuyas casas cayó la sección alar cargada de combustible. El balance de 270 víctimas convirtió el atentado en el peor acto terrorista cometido en suelo británico y en el ataque más letal contra ciudadanos estadounidenses hasta septiembre de 2001. La investigación, que levantó la mayor escena del crimen registrada hasta entonces, condujo a la condena de un agente de inteligencia libio y transformó los procedimientos de seguridad de la aviación civil mundial.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 ## Datos verificados del evento
 
 - **Fecha y hora:** 21 de diciembre de 1988, 19:02:50 UTC. La última respuesta del radar secundario se recibió instantes antes de las 19:03.
 - **Lugar:** Lockerbie, Dumfriesshire (Escocia), en las coordenadas 55°07' N, 003°21' O.
-- **Aeronave:** Boeing 747-121, matrícula **N739PA**, número de fabricación 19646, bautizada *Clipper Maid of the Seas*. Fue el decimoquinto Boeing 747 construido y voló por primera vez el 25 de enero de 1970.
+- **Aeronave:** Boeing 747-121, matrícula **N739PA**, número de fabricación 19646, bautizada *Clipper Maid of the Seas*. Fue el decimoquinto Boeing 747 construido; su primer vuelo data del 25 de enero de 1970.
 - **Motores:** cuatro Pratt & Whitney JT9D-7A.
 - **Horas acumuladas:** 72.464 horas de vuelo y 16.497 ciclos. Prestó servicio toda su vida operativa en Pan Am.
 - **Vuelo:** PA103 / PAA103, indicativo *Clipper 103*, en la ruta Fráncfort-Londres-Nueva York-Detroit. El tramo intercontinental cubría Londres-Heathrow a Nueva York-Kennedy.
@@ -33,9 +33,9 @@ image: 1988-12-21-atentado-pan-am-103-lockerbie.webp
 - **Altitud de crucero:** nivel de vuelo 310, unos 31.000 pies o 9.450 metros, alcanzado a las 18:56.
 - **Ocupantes:** 259 personas. Dieciséis tripulantes —tres de cabina de mando y trece auxiliares de vuelo— y 243 pasajeros.
 - **Víctimas:** 259 a bordo y once residentes de Lockerbie. Total de 270 fallecidos. Otras dos personas en tierra resultaron heridas de gravedad.
-- **Comandante:** James B. MacQuarrie, 55 años, 10.910 horas de vuelo, 4.107 de ellas en Boeing 747.
-- **Primer oficial:** Raymond R. Wagner, 52 años, 11.855 horas de vuelo, 5.517 en Boeing 747.
-- **Mecánico de vuelo:** Jerry D. Avritt, 46 años, 8.068 horas de vuelo, 487 en Boeing 747.
+- **Comandante:** James B. MacQuarrie, 55 años, 10.910 horas de vuelo, 4.107 en el Boeing 747.
+- **Primer oficial:** Raymond R. Wagner, 52 años, 11.855 horas de vuelo, 5.517 en el Boeing 747.
+- **Mecánico de vuelo:** Jerry D. Avritt, 46 años, 8.068 horas de vuelo, 487 en el Boeing 747.
 - **Artefacto:** explosivo plástico oculto en un radiocasete Toshiba, transportado en una maleta Samsonite dentro de un contenedor de la bodega delantera.
 - **Daños estructurales:** la detonación abrió un orificio de unos 50 centímetros en el costado izquierdo del fuselaje. La sección de morro y cabina de mando se separó del resto en un plazo de tres segundos y cayó entera en un campo de Tundergarth.
 - **Impacto en tierra:** las alas se estrellaron en el extremo sur de Lockerbie y abrieron un cráter de unos 560 metros cúbicos. Los 108.862 kilogramos de combustible cargados al despegue alimentaron una bola de fuego. Veintiuna viviendas tuvieron que ser demolidas.
@@ -53,7 +53,7 @@ Diciembre de 1988 fue un mes de regresos navideños. El pasaje del vuelo 103 est
 
 ### Entorno tecnológico
 
-El control del equipaje facturado en 1988 distaba mucho de los estándares actuales. No existía la obligación de inspeccionar el cien por cien de las maletas ni de garantizar que cada bulto viajara acompañado de su pasajero. Los equipajes en tránsito procedentes de otros vuelos, como los que se transbordaron en Fráncfort, se cargaban con controles mínimos. Tres años antes, <a href="https://efemerides-aviacion.github.io/efemerides/seguridad/1985/06/23/atentado-vuelo-182-air-india-montreal-bombay.html" style="color: #315fea; text-decoration: none;">el atentado contra el vuelo 182 de Air India</a> había destruido otro Boeing 747 mediante una bomba oculta en una maleta facturada, sin que las lecciones de aquel caso se hubieran traducido en cambios efectivos. El artefacto de Lockerbie aprovechó precisamente esa brecha. Un detalle técnico resultó decisivo en la investigación posterior: dos meses antes del atentado, la policía de Alemania Occidental había incautado a un grupo armado palestino una bomba oculta en un radiocasete del mismo modelo, lo que permitió reconocer el procedimiento.
+El control del equipaje facturado en 1988 distaba mucho de los estándares actuales. No existía la obligación de inspeccionar el cien por cien de las maletas ni de garantizar que cada bulto viajara acompañado de su pasajero. Los equipajes en tránsito procedentes de otros vuelos, como los que se transbordaron en Fráncfort, se cargaban con controles mínimos. Tres años antes, <a href="https://efemerides-aviacion.github.io/efemerides/seguridad/1985/06/23/atentado-vuelo-182-air-india-montreal-bombay.html" style="color: #315fea; text-decoration: none;">otro Boeing 747, el del vuelo 182 de Air India, había sido destruido</a> por una bomba oculta en una maleta facturada, sin que las lecciones de aquel caso se hubieran traducido en cambios efectivos. El artefacto de Lockerbie aprovechó precisamente esa brecha. Un detalle técnico resultó decisivo en la investigación posterior: dos meses antes del atentado, la policía de Alemania Occidental había incautado a un grupo armado palestino una bomba oculta en un radiocasete del mismo modelo, lo que permitió reconocer el procedimiento.
 
 ### Entorno cultural
 
@@ -106,7 +106,7 @@ En el ámbito de la investigación criminal, la cooperación entre la policía d
 
 El caso judicial sigue abierto casi cuatro décadas después. La condena de al-Megrahi ha sido cuestionada por parte de las familias y por juristas que consideran endeble la prueba principal, y su liberación por razones humanitarias en 2009 provocó una controversia diplomática considerable. El procesamiento de un tercer acusado en 2020 reabrió una vía que muchos daban por cerrada.
 
-Queda por último la memoria. La Universidad de Syracuse dedica cada año una semana del calendario académico al recuerdo de sus treinta y cinco estudiantes, concede becas a alumnos del instituto de Lockerbie y celebra un oficio el 21 de diciembre a la hora exacta de la detonación. En Escocia, un jardín conmemorativo recuerda a las 270 víctimas. Hasta los atentados del 11 de septiembre de 2001, Lockerbie fue el episodio de terrorismo aéreo más letal de la historia.
+Queda por último la memoria. La Universidad de Syracuse dedica cada año una semana del calendario académico al recuerdo de sus treinta y cinco estudiantes, concede becas a alumnos del instituto de Lockerbie y celebra un oficio el 21 de diciembre a la hora exacta de la detonación. En Escocia, un jardín conmemorativo recuerda a las 270 víctimas. Hasta septiembre de 2001, Lockerbie fue el episodio de terrorismo aéreo más letal de la historia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 ## Referencias Verificadas
@@ -132,9 +132,9 @@ Queda por último la memoria. La Universidad de Syracuse dedica cada año una se
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 ## Metadatos de Control
 - **Timestamp de verificación:** 2026-09-07 12:02:32 CST
-- **Fuentes primarias/institucionales consultadas:** Air Accidents Investigation Branch del Departamento de Transporte británico, informe 2/90 de 6 de agosto de 1990, con los datos de la aeronave, la tripulación, la carga, la secuencia de desintegración y los daños en tierra; Oficina Federal de Investigación; Agencia Central de Inteligencia; Departamento de Justicia de Estados Unidos; Universidad de Syracuse.
-- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia a las actas del proceso de Camp Zeist y a la prensa contemporánea.
-- **Discrepancias resueltas:** se adoptaron los datos de tripulación del informe oficial, que consigna 10.910 horas de vuelo del comandante frente a las 11.000 de las versiones divulgativas, y que identifica a los tres tripulantes técnicos con nombre completo; se corrigió la composición de la cabina de pasaje, trece auxiliares de vuelo según el informe frente a catorce en otras fuentes; se precisó que el peso de combustible al despegue fue de 108.862 kilogramos y no la cifra redondeada que circula en las recopilaciones; se consignó el intervalo de 340 a 450 gramos de explosivo ante la ausencia de una cifra única; se recogieron las dos cuantías de indemnización publicadas.
-- **Datos no confirmados:** la cantidad exacta de explosivo; el punto preciso en que la maleta con el artefacto se incorporó al circuito de equipajes, cuestión debatida en el proceso judicial.
+- **Fuentes primarias/institucionales consultadas:** Air Accidents Investigation Branch (informe 2/90); Oficina Federal de Investigación; Agencia Central de Inteligencia; Departamento de Justicia de Estados Unidos; Universidad de Syracuse.
+- **Fuentes secundarias de contraste:** Wikipedia (en y es); actas del proceso de Camp Zeist; prensa contemporánea.
+- **Discrepancias resueltas:** datos del informe oficial (10.910 horas del comandante frente a 11.000 divulgativas; 108.862 kg de combustible); cabina, explosivo e indemnización: véase la nota aclaratoria.
+- **Datos no confirmados:** cantidad exacta de explosivo; incorporación de la maleta al circuito de equipajes.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
