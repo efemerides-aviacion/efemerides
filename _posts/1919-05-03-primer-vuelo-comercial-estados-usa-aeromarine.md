@@ -12,7 +12,7 @@ image: 1919-05-03-primer-vuelo-comercial-estados-usa-aeromarine.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1919-05-03-primer-vuelo-comercial-estados-usa-aeromarine.webp" alt="Hidroavión Aeromarine 50 en vuelo sobre la costa">
-  <figcaption class="post-caption">Aeromarine Model 50 Flying Boat, similar al utilizado en el primer vuelo comercial entre Nueva York y Atlantic City, el 3 de mayo de 1919. Foto de un hidroavión Aeromarine de 1919, propiedad de la colección de su sitio web de aeronaves históricas, Flying Machines.</figcaption>
+  <figcaption class="post-caption">Aeromarine Model 50 Flying Boat, del mismo tipo que efectuó el vuelo comercial entre Nueva York y Atlantic City el 3 de mayo de 1919. Foto de un hidroavión Aeromarine de 1919, propiedad de la colección de su sitio web de aeronaves históricas, Flying Machines.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -26,13 +26,13 @@ image: 1919-05-03-primer-vuelo-comercial-estados-usa-aeromarine.webp
 ## Datos verificados del evento
 
 - **Fecha del vuelo:** 3 de mayo de 1919
-- **Lugar de salida:** Costa de Nueva York (estado de Nueva York), Estados Unidos
-- **Lugar de llegada:** Atlantic City, estado de Nueva Jersey, Estados Unidos
+- **Salida:** litoral del estado de Nueva York, Estados Unidos
+- **Destino:** Atlantic City, Nueva Jersey, Estados Unidos
 - **Distancia:** Aproximadamente 200 km (124 millas)
 - **Aeronave:** Aeromarine Model 50 "S" Flying Boat (hidroavión)
 - **Piloto:** Robert Hewitt
 - **Pasajeras pagadoras:** Mrs. J. A. Hoagland y Miss Ethel Hodges (primeras pasajeras en un vuelo comercial en América)
-- **Carga adicional:** Correo (primer servicio postal aéreo del continente americano)
+- **Carga adicional:** sacos de correspondencia
 
 ### Especificaciones del Aeromarine 50
 
@@ -40,7 +40,7 @@ image: 1919-05-03-primer-vuelo-comercial-estados-usa-aeromarine.webp
 - **Capacidad de pasajeros:** 3
 - **Envergadura (superior):** 14,78 m (48 ft 6 in)
 - **Envergadura (inferior):** 11,48 m (37 ft 8 in)
-- **Altura:** 3,84 m (12 ft 7 in)
+- **Altura total:** 12 ft 7 in (3,84 m)
 - **Peso vacío:** 1.034 kg (2.280 lb)
 - **Peso bruto:** 1.361 kg (3.000 lb)
 - **Motor:** 1 × Aeromarine V-8 (130 hp / 97 kW)
@@ -51,11 +51,11 @@ image: 1919-05-03-primer-vuelo-comercial-estados-usa-aeromarine.webp
 
 ## Contexto Histórico
 
-A finales de la Primera Guerra Mundial (1914-1918), la aviación experimentó un desarrollo tecnológico acelerado. Los aviones, que al inicio del conflicto eran frágiles estructuras de madera y tela, evolucionaron hacia diseños más robustos y fiables. Los hidroaviones, en particular, fueron ampliamente utilizados para patrullaje antisubmarino y reconocimiento marítimo. Al finalizar la guerra, excedentes de aeronaves y pilotos capacitados quedaron disponibles para usos civiles, creando las condiciones para el nacimiento de la aviación comercial.
+Durante el conflicto mundial de 1914-1918, la técnica aeronáutica avanzó con rapidez. Los aviones, que al inicio del conflicto eran frágiles estructuras de madera y tela, evolucionaron hacia diseños más robustos y fiables. Los hidroaviones, en particular, fueron ampliamente utilizados para patrullaje antisubmarino y reconocimiento marítimo. Al finalizar la guerra, excedentes de aeronaves y pilotos capacitados quedaron disponibles para usos civiles, creando las condiciones para el nacimiento de la aviación comercial.
 
 ### Entorno social
 
-En la América de la posguerra, 1919 fue un año de transición. La Primera Guerra Mundial había terminado hacía apenas siete meses, y el país se adaptaba a la realidad de la paz. El turismo comenzaba a popularizarse, y la idea de viajar por aire era vista como una aventura moderna y emocionante. El vuelo entre Nueva York y Atlantic City, un popular destino vacacional costero, conectaba dos centros neurálgicos de la vida social y económica estadounidense. Aunque el servicio de Aeromarine solo duró unos años (hasta 1923-1924) por falta de rentabilidad, sentó un precedente importante.
+En la América de la posguerra, 1919 fue un año de transición. El armisticio se había firmado apenas siete meses antes y el país se adaptaba a la paz. El turismo comenzaba a popularizarse, y la idea de viajar por aire era vista como una aventura moderna y emocionante. El vuelo entre Nueva York y Atlantic City, un popular destino vacacional costero, conectaba dos centros neurálgicos de la vida social y económica estadounidense. Aunque el servicio de Aeromarine solo duró unos años (hasta 1923-1924) por falta de rentabilidad, sentó un precedente importante.
 
 ### Entorno tecnológico
 
@@ -79,7 +79,7 @@ La figura del piloto se había consolidado como un héroe moderno durante la gue
 
 ### El primer vuelo comercial interestatal
 
-El 3 de mayo de 1919 marcó un hito en la historia de la aviación estadounidense. Ese día, el piloto Robert Hewitt despegó desde la costa de Nueva York a bordo de un Aeromarine 50 "S" Flying Boat con destino a Atlantic City, Nueva Jersey.
+El 3 de mayo de 1919 abrió una etapa para el transporte aéreo estadounidense. Ese día, el piloto Robert Hewitt despegó desde la costa de Nueva York a bordo de un Aeromarine 50 "S" Flying Boat con destino a Atlantic City, Nueva Jersey.
 
 ### El contexto del vuelo
 
@@ -99,7 +99,7 @@ Además de los pasajeros, el vuelo transportó sacos de correo, lo que lo convir
 
 - **Pionero de la aviación comercial estadounidense:** El vuelo de Hewitt demostró que era viable transportar pasajeros y correo por aire entre ciudades de diferentes estados, sentando las bases para la industria de las aerolíneas.
 - **Precedente para Aeromarine Airways:** La experiencia acumulada con este vuelo llevó a la creación de Aeromarine West Indies Airways (luego Aeromarine Airways), que en 1920 inauguró el primer servicio internacional regular de pasajeros de EE. UU. (Key West-La Habana) y fue pionera en servicios como el primer ticket office, primeras etiquetas de equipaje y primera película a bordo en un vuelo de Chicago en agosto de 1921.
-- **Establecimiento del modelo de negocio:** La combinación de correo, pasajeros y carga se convertiría en el estándar de la industria, demostrando que los ingresos por correo podían subsidiar el transporte de pasajeros hasta que el mercado madurara.
+- **Establecimiento del modelo de negocio:** La combinación de correspondencia, viajeros y carga se volvió una práctica general del sector y demostró que los ingresos por correo podían subsidiar el transporte de pasajeros hasta que el mercado madurara.
 - **Reconocimiento al mérito:** Por su papel pionero en la aviación, el Aeromarine 50 fue reconocido como una aeronave de importancia histórica, y sus especificaciones y contribución al desarrollo de la aviación comercial estadounidense se destacan en fuentes especializadas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -114,13 +114,7 @@ El concepto de conectar ciudades costeras mediante hidroaviones, iniciado en Nue
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre los inicios comerciales de Aeromarine:</strong> Si bien el vuelo del 3 de mayo de 1919 se considera el primer vuelo comercial entre dos estados de EE. UU. con pasajeros pagadores, Aeromarine West Indies Airways fue fundada formalmente en 1920. El servicio regular de Aeromarine Airways entre Nueva York y Atlantic City comenzó en 1921. El vuelo de 1919 fue un evento inaugural y demostrativo, no el inicio de un servicio regular.</p>
-<p><strong>Sobre la ruta y la distancia:</strong> La distancia entre Nueva York y Atlantic City es de aproximadamente 200 km, pero el vuelo real pudo haber sido más largo dependiendo de las condiciones meteorológicas y de la ruta específica seguida por el hidroavión, que probablemente voló cerca de la costa.</p>
-<p><strong>Sobre el Aeromarine 50:</strong> El Aeromarine 50 era un derivado civil del entrenador militar Aeromarine 40, y era conocido también como "Limousine Flying Boat" por su cabina cerrada y acabados de lujo.</p>
-</div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -138,9 +132,17 @@ El concepto de conectar ciudades costeras mediante hidroaviones, iniciado en Nue
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<div class="note-box">
+<p><strong>Nota aclaratoria sobre los inicios comerciales de Aeromarine:</strong> Si bien el vuelo del 3 de mayo de 1919 se considera el primer vuelo comercial entre dos estados de EE. UU. con pasajeros pagadores, Aeromarine West Indies Airways fue fundada formalmente en 1920. El servicio regular de Aeromarine Airways entre Nueva York y Atlantic City comenzó en 1921. El vuelo de 1919 fue un evento inaugural y demostrativo, no el inicio de un servicio regular.</p>
+<p><strong>Sobre la ruta y la distancia:</strong> La distancia entre Nueva York y Atlantic City es de aproximadamente 200 km, pero el vuelo real pudo haber sido más largo dependiendo de las condiciones meteorológicas y de la ruta específica seguida por el hidroavión, que probablemente voló cerca de la costa.</p>
+<p><strong>Sobre el Aeromarine 50:</strong> El Aeromarine 50 era un derivado civil del entrenador militar Aeromarine 40, y era conocido también como "Limousine Flying Boat" por su cabina cerrada y acabados de lujo.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:26:52 CST  
+- **Timestamp de verificación:** 2026-10-03 14:08:15 CST
 - **Fuentes primarias/institucionales consultadas:** La Nación, Wikipedia (ES/EN), HandWiki, Time Magazine Archive, UNT Digital Library
 - **Discrepancias resueltas:** No se encontraron discrepancias mayores entre las fuentes. El Aeromarine 50 voló por primera vez en 1919 y fue utilizado en la ruta Nueva York-Atlantic City, donde operaba el servicio más establecido en 1921. La fecha del 3 de mayo de 1919 corresponde al vuelo inaugural de Aeromarine, reconocido como el primero en transportar pasajeros pagadores entre dos estados.
 - **Nivel de confianza:** Alto

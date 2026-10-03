@@ -65,11 +65,11 @@ La travesía del R34 combinó preparación militar, resistencia mecánica y capa
 
 - **2 de julio de 1919:** el R34 despega desde East Fortune, Escocia, con rumbo a Norteamérica.
 - **2-6 de julio de 1919:** durante la travesía de ida, la tripulación afronta mal tiempo, vientos en contra y diversos problemas técnicos, incluida una fuga reparada con chicle y una lámina de cobre.
-- **6 de julio de 1919:** el dirigible aterriza en Mineola, Long Island, tras completar en 108 horas y 12 minutos el primer cruce aéreo del Atlántico en sentido este-oeste.
+- **6 de julio de 1919:** el dirigible aterriza en Mineola, Long Island, después de 108 horas y 12 minutos; concluye así una inédita travesía aérea transatlántica hacia occidente.
 - **Estancia en Estados Unidos:** la tripulación es recibida con honores, se entrevista con el presidente Woodrow Wilson y reabastece el dirigible para el regreso.
 - **Noche del 9 al 10 de julio de 1919:** el R34 inicia el vuelo de retorno desde Mineola, en una salida adelantada por la amenaza de mal tiempo.
 - **10-13 de julio de 1919:** el regreso resulta más rápido que la ida gracias a condiciones más favorables, aunque uno de los motores sufre una avería por rotura de biela.
-- **13 de julio de 1919, 6:57 a. m.:** el R34 aterriza en Pulham, Norfolk, culminando el primer doble cruce del Atlántico por una aeronave.
+- **13 de julio de 1919, 6:57 a. m.:** el R34 aterriza en Pulham, Norfolk, y cierra su recorrido transatlántico de ida y vuelta.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -79,7 +79,7 @@ La culminación del doble cruce tuvo efectos inmediatos tanto en el plano simbó
 
 - **Consagración internacional:** la tripulación del R34 fue recibida como protagonista de una proeza histórica a ambos lados del Atlántico.
 - **Demostración técnica:** el vuelo probó que un dirigible rígido podía unir Europa y Norteamérica y regresar con éxito, superando dificultades meteorológicas y mecánicas importantes.
-- **Prestigio británico:** el Reino Unido reforzó su imagen como potencia aeronáutica en un momento de intensa competencia tecnológica internacional.
+- **Prestigio británico:** el Reino Unido reforzó su imagen como potencia aeronáutica en plena rivalidad tecnológica internacional.
 - **Impulso al debate sobre el transporte aéreo oceánico:** la gesta alimentó la idea de que los dirigibles podían convertirse en medios viables para grandes rutas intercontinentales.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -109,13 +109,13 @@ Aunque los aviones terminarían imponiéndose como medio dominante en las rutas 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Algunas fuentes resumen la salida del regreso como ocurrida el 9 de julio y otras la sitúan entre la noche del 9 y la madrugada del 10, diferencia que no altera el hecho principal de esta efeméride: la culminación del viaje el 13 de julio en Pulham. También existe alguna variación menor en la cifra exacta de la duración del retorno entre ciertos resúmenes históricos, pero la formulación de 75 horas y 3 minutos es la más repetida en las fuentes verificadas consultadas.</p>
+  <p><strong>Nota aclaratoria:</strong> Algunas fuentes resumen la salida del regreso como ocurrida el 9 de julio y otras la sitúan entre la noche del 9 y la madrugada del 10, diferencia que no altera el hecho principal de esta efeméride: la culminación del viaje el 13 de julio en Pulham. También existe alguna variación menor en la cifra exacta de la duración del retorno entre ciertos resúmenes históricos, pero se adoptan 75 horas y 3 minutos por ser el valor predominante en el material contrastado.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-10-03 14:08:15 CST
 - **Fuentes primarias/institucionales consultadas:** Royal Air Force, Cradle of Aviation Museum, BBC News  
 - **Fuentes secundarias de contraste:** This Day in Aviation, The History Press, Wikipedia  
 - **Discrepancias resueltas:** se distinguió entre la culminación del doble cruce el 13 de julio y las diferencias menores sobre la hora exacta de salida del viaje de regreso; se mantuvo la duración del retorno en 75 horas y 3 minutos por ser la cifra más consistente en las fuentes contrastadas  

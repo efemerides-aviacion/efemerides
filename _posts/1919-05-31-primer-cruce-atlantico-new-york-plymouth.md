@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Armada de los Estados Unidos (US Navy)
-excerpt: "El 31 de mayo de 1919, el hidroavión Curtiss NC-4 de la Armada de los Estados Unidos llegó a Plymouth, Inglaterra, completando el primer cruce aéreo del océano Atlántico en la historia. La travesía, que comenzó el 8 de mayo desde Nueva York, cubrió 7.591 kilómetros en 23 días, con un tiempo total de vuelo de 57 horas y 16 minutos, y contó con el apoyo de 53 buques de la Armada desplegados como 'cadena de estaciones' para navegación y rescate."
+excerpt: "El 31 de mayo de 1919, el Curtiss NC-4 llegó a Plymouth después de enlazar por aire Nueva York y Europa en varias etapas. La expedición recorrió 7.591 kilómetros en 23 días y utilizó 53 buques de apoyo para orientación y rescate."
 image: 1919-05-31-primer-cruce-atlantico-new-york-plymouth.webp
 ---
 
@@ -19,115 +19,70 @@ image: 1919-05-31-primer-cruce-atlantico-new-york-plymouth.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 31 de mayo de 1919, el hidroavión Curtiss NC-4 de la Armada de los Estados Unidos aterrizó en Plymouth, Inglaterra, completando el primer cruce aéreo del océano Atlántico en la historia . La expedición había partido el 8 de mayo desde la Estación Aérea Naval de Rockaway, Nueva York, con tres hidroaviones (NC-1, NC-3 y NC-4) bajo el mando general del Comandante John H. Towers . Solo el NC-4, comandado por el Teniente Comandante Albert Cushing Read, logró completar la travesía completa . La ruta incluyó escalas en Massachusetts, Nueva Escocia, Terranova, las Azores, Lisboa y Ferrol, antes de llegar a Plymouth . El viaje duró 23 días, con un tiempo total de vuelo acumulado de 57 horas y 16 minutos (según el United States Navy Memorial) o 53 horas y 58 minutos (según Guinness World Records) sobre una distancia de 7.591 kilómetros (4.717 millas) . El NC-4 fue apoyado por 53 buques de la Armada de los Estados Unidos desplegados como una "cadena de estaciones" a lo largo de la ruta para ayudar en la navegación y el rescate .</p>
+<p>El 31 de mayo de 1919, el Curtiss NC-4 de la Armada estadounidense terminó en Plymouth una travesía aérea escalonada iniciada en Nueva York el día 8. De los tres hidroaviones que emprendieron la expedición de John H. Towers, solo la máquina comandada por Albert Cushing Read alcanzó Europa y continuó hasta Inglaterra. El recorrido, con escalas en Canadá, las Azores, Portugal y España, constituyó la primera conexión del Atlántico por un avión y contó con una extensa red naval de orientación y rescate.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-
-- **Fecha de llegada a Plymouth:** 31 de mayo de 1919
-- **Fecha de partida:** 8 de mayo de 1919, desde Naval Air Station Rockaway, Nueva York 
-- **Aeronave:** Curtiss NC-4, número de serie A2294 
-- **Tripulación del NC-4:** 
-  - Teniente Comandante Albert Cushing Read (comandante)
-  - Teniente Comandante Walter Hinton
-  - Teniente Comandante Elmer F. Stone (guardia costera)
-  - Teniente James L. Breese
-  - Teniente (grado menor) Herbert C. Rodd
-  - Ingeniero de vuelo Eugene S. Rhoads
-- **Comandante general de la expedición:** Comandante John H. Towers 
-- **Otras aeronaves participantes:** NC-1 (forzado a amarizar, luego hundido) y NC-3 (dañado, llegó a Azores remolcado pero no volvió a volar) 
-- **Escalas principales:** Chatham (Massachusetts), Halifax (Nueva Escocia), Trepassey (Terranova), Horta (Azores), Ponta Delgada (Azores), Lisboa (Portugal), Ferrol (España) 
-- **Distancia total recorrida:** 7.591 km (4.717 millas) 
-- **Duración total del viaje:** 23 días 
-- **Tiempo total de vuelo acumulado:** 57 horas 16 minutos (según el United States Navy Memorial) o 53 horas 58 minutos (según Guinness World Records) 
-- **Velocidad máxima:** 85 mph (136 km/h) 
-- **Buques de apoyo:** 53 buques de la Armada de EE. UU. desplegados como "station ships" 
-- **Premios:** Read recibió la Navy Distinguished Service Medal; el resto de la tripulación recibió la Navy Cross; en 1929, toda la tripulación recibió la Medalla de Oro del Congreso 
+- **Salida y llegada:** 8 de mayo de 1919, Rockaway (Nueva York); 31 de mayo, Plymouth (Inglaterra)
+- **Aeronave:** Curtiss NC-4 A2294
+- **Comandante:** Teniente Comandante Albert Cushing Read
+- **Tripulación:** Walter Hinton, Elmer F. Stone, James L. Breese, Herbert C. Rodd y Eugene S. Rhoads
+- **Jefe de la expedición:** Comandante John H. Towers
+- **Otros aparatos:** NC-1 y NC-3, retirados tras amarizajes durante la etapa oceánica
+- **Escalas principales:** Chatham, Halifax, Trepassey, Horta, Ponta Delgada, Lisboa y Ferrol
+- **Recorrido:** 7.591 km (4.717 millas) en 23 días
+- **Tiempo acumulado de vuelo:** 57 h 16 min según el United States Navy Memorial; 53 h 58 min según Guinness World Records
+- **Apoyo:** 53 buques destinados a navegación y rescate
+- **Planta motriz:** tres Liberty L-12 de 400 hp cada uno
+- **Prestaciones:** velocidad máxima de 85 mph (136 km/h), alcance de 2.532 km y techo de 2.500 pies (762 m)
+- **Dimensiones y masa máxima:** 38,4 m de envergadura, 20,8 m de longitud y 11.968 kg al despegue
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
-
-El vuelo del NC-4 ocurrió en un momento crucial para la aviación naval, cuando la Armada de los Estados Unidos buscaba demostrar la viabilidad de los hidroaviones para misiones de largo alcance sobre el océano.
+La Armada estadounidense había impulsado los hidroaviones NC para patrulla oceánica y, terminada la Primera Guerra Mundial, quiso probar su alcance mediante una expedición a Europa.
 
 ### Entorno social
 
-El final de la Primera Guerra Mundial (1918) dejó un ambiente de optimismo tecnológico y competencia por establecer récords de aviación. Los dirigibles y aviones competían por ser los primeros en cruzar el Atlántico, un desafío que se consideraba la "última frontera" de la aviación. El vuelo del NC-4 fue seguido con gran interés por la prensa y el público. Su llegada a Plymouth fue recibida con salvas de 21 disparos de un buque de guerra británico, una escolta de aviones de la Royal Air Force y grandes multitudes . Aunque el vuelo de Alcock y Brown (sin escalas) dos semanas después recibiría mayor atención pública, el NC-4 conservó el mérito de ser el primero en cruzar el Atlántico por aire .
+En 1919 varias iniciativas competían por atravesar el Atlántico. La prensa seguía tanto a aviones como a dirigibles y presentaba el océano como una prueba decisiva para la nueva técnica. El proyecto naval combinó prestigio nacional con una demostración operativa de gran escala. Su carácter militar permitía movilizar recursos que ningún equipo privado podía reunir. A la vez, la duración y las numerosas escalas hicieron que el público identificara con mayor facilidad la hazaña directa de Alcock y Brown, realizada dos semanas más tarde.
 
 ### Entorno tecnológico
 
-Los hidroaviones Curtiss NC (apodados "Nancy Boats") fueron diseñados originalmente durante la Primera Guerra Mundial para patrullar contra submarinos alemanes . El requisito de diseño exigía que los aviones pudieran volar desde Estados Unidos hasta Europa con sus propios medios, ya que no había espacio de transporte disponible en los buques . El NC-4 estaba propulsado por tres motores Liberty L-12 de 12 cilindros y 400 caballos de fuerza cada uno, montados en una configuración de dos tractores y un propulsor . Tenía una envergadura de 38,4 metros y una longitud de 20,8 metros . Su velocidad máxima era de 136 km/h y su techo de servicio de solo 762 metros (2.500 pies) .
+Los “Nancy Boats” nacieron para vigilar submarinos y debían poder llegar a Europa por sus propios medios, pues durante la guerra faltaba espacio para transportarlos en buques. Glenn Curtiss y su equipo desarrollaron el diseño, y la Herreshoff Manufacturing Corporation construyó el casco del NC-4 en Rhode Island. La disposición de dos motores tractores y uno propulsor permitía sostener una máquina de gran tamaño, pero el bajo techo operativo la exponía a la niebla y al estado del mar.
 
 ### Entorno cultural
 
-La travesía del NC-4 fue una empresa masiva que involucró a 53 buques de la Armada de los Estados Unidos desplegados a lo largo de la ruta como "station ships", iluminados por la noche para guiar a los aviadores . Esta "cadena de estaciones" representó un hito en la navegación aérea de largo alcance y sentó las bases para las futuras rutas transatlánticas. El vuelo también fue un acontecimiento diplomático, ya que el NC-4 fue recibido con honores en Portugal y en el Reino Unido, simbolizando la alianza entre ambas naciones.
+Los buques de apoyo formaban piquetes sucesivos, transmitían posiciones y encendían luces durante la noche. Estaban separados aproximadamente por 50 millas náuticas y podían lanzar señales luminosas para orientar a las tripulaciones. Esa organización convirtió el trayecto en una empresa conjunta de aviación y flota, además de un acontecimiento diplomático en Portugal, España y el Reino Unido.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
+- **8 de mayo:** NC-1, NC-3 y NC-4 parten de la estación aeronaval de Rockaway y avanzan por Chatham y Halifax.
+- **15 de mayo:** las tres máquinas se reúnen en Trepassey, Terranova.
+- **16-17 de mayo:** despegan hacia las Azores. La niebla obliga a NC-1 y NC-3 a posarse en el océano. El mercante griego <em>SS Ionia</em> rescata a los ocupantes del NC-1, que se hunde días después. Towers conduce el NC-3 sobre la superficie durante unos 370 km hasta las islas; los daños impiden que vuelva a despegar.
+- **17 de mayo:** el NC-4 llega a Horta después de 15 h 18 min.
+- **20 de mayo:** el NC-4 intenta salir desde Ponta Delgada hacia Lisboa, pero una avería lo obliga a regresar. Las reparaciones y el mal tiempo retrasan una semana la continuación.
+- **27 de mayo:** Read reanuda la etapa con trece buques como referencias y ameriza en el Tajo tras 9 h 43 min. Con ello queda enlazada por aire la costa norteamericana con Europa.
+- **30 de mayo:** el hidroavión vuela de Lisboa a Ferrol.
+- **31 de mayo:** cubre el tramo final hasta Plymouth, guiado por diez navíos. Aeroplanos británicos lo escoltan y un buque saluda su llegada con 21 disparos.
 
-- **8 de mayo de 1919:** Los tres hidroaviones NC-1, NC-3 y NC-4 despegan de la Estación Aérea Naval de Rockaway, Nueva York .
-- **Primeras etapas:** Escalan en Chatham (Massachusetts) y Halifax (Nueva Escocia). NC-4 sufre problemas mecánicos y se retrasa .
-- **15 de mayo:** Los tres aviones llegan a Trepassey, Terranova .
-- **16 de mayo, 18:00:** Los tres aviones despegan de Trepassey hacia las Azores, la etapa más larga del viaje (aproximadamente 1.900 km) .
-- **Durante la travesía (17 de mayo):** Una densa niebla causa la pérdida de visibilidad. NC-1 y NC-3 se ven forzados a amarizar en el océano. NC-1 sufre daños irreparables y se hunde tres días después; su tripulación es rescatada por el buque griego SS Ionia . NC-3, con problemas mecánicos, se desplazó sobre el agua (remolcado) durante 370 km hasta las Azores, pero quedó inservible .
-- **17 de mayo, tarde:** NC-4 llega a Horta, isla de Faial, Azores, después de 15 horas y 18 minutos de vuelo .
-- **20 de mayo:** NC-4 despega hacia Lisboa, pero sufre problemas mecánicos y debe regresar a Ponta Delgada, Azores .
-- **27 de mayo:** NC-4 despega nuevamente hacia Lisboa, con 13 buques de la Armada desplegados como estaciones de navegación . Tras 9 horas y 43 minutos de vuelo, aterriza en el estuario del Tajo en Lisboa, convirtiéndose en el primer avión en cruzar el Atlántico por aire .
-- **30 de mayo:** NC-4 vuela desde Lisboa a Ferrol (España) .
-- **31 de mayo:** NC-4 vuela desde Ferrol a Plymouth, Inglaterra, con 10 buques de la Armada desplegados en la ruta final . A su llegada, recibe una escolta de aviones de la Royal Air Force y salvas de 21 disparos de un buque de guerra británico .
-
-### La Tripulación del NC-4
-
-El hidroavión NC-4 estaba tripulado por seis miembros, todos oficiales de la Armada de los Estados Unidos y de la Guardia Costera:
-
-- **Teniente Comandante Albert Cushing Read** – Comandante del NC-4
-- **Teniente Comandante Walter Hinton** – Piloto
-- **Teniente Comandante Elmer F. Stone** – Piloto (Guardia Costera de EE. UU.)
-- **Teniente James L. Breese** – Piloto
-- **Teniente (grado menor) Herbert C. Rodd** – Piloto
-- **Ingeniero de vuelo Eugene S. Rhoads** – Jefe de mecánicos
-
-El comandante general de la expedición, el comandante **John H. Towers**, volaba en el NC-3 . El almirante **Marc Mitscher** (futuro comandante de la Task Force 58 en el Pacífico durante la Segunda Guerra Mundial) era el piloto del NC-1 .
-
-### Especificaciones Técnicas del Curtiss NC-4
-
-El Curtiss NC-4 era un hidroavión de patrulla diseñado por Glenn Curtiss y su equipo, con el fuselaje construido por la Herreshoff Manufacturing Corporation en Bristol, Rhode Island .
-
-- **Tripulación:** 6
-- **Longitud:** 20,8 m (820 pulgadas)
-- **Envergadura:** 38,4 m (1.512 pulgadas)
-- **Altura:** 7,49 m
-- **Peso vacío:** 7.200 kg
-- **Peso máximo al despegue:** 11.968 kg
-- **Motores:** 3 × Liberty L-12 de 12 cilindros, 400 hp cada uno (configuración: dos tractores, uno propulsor)
-- **Velocidad máxima:** 136 km/h (85 mph)
-- **Alcance:** 2.532 km
-- **Techo de servicio:** 762 m (2.500 ft)
-- **Primer vuelo:** 30 de abril de 1919 
+El NC-4 había sufrido retrasos mecánicos antes de Terranova y durante un tramo llegó separado de las otras unidades. Su permanencia en la misión permitió continuar cuando las dos máquinas inicialmente mejor situadas quedaron fuera de servicio. La combinación de escalas, reparaciones, partes meteorológicos y asistencia marítima fue tan importante como la autonomía del aparato. La llegada a Lisboa consumó el cruce geográfico; el avance a Ferrol y Plymouth completó el itinerario público previsto.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
+La expedición comprobó que un avión podía enlazar ambos lados del Atlántico mediante etapas coordinadas. Para la aviación naval validó los hidroaviones de largo alcance y el empleo de una red marítima como ayuda de navegación y salvamento. También reveló el coste de aquel método: la seguridad dependía de una flota extensa, de escalas preparadas y de reparaciones sobre la marcha. Por ello, el éxito no equivalía todavía a una ruta comercial autosuficiente, pero aportó experiencia en planificación oceánica y cooperación entre aire y mar.
 
-- **Primer cruce transatlántico de la historia:** El NC-4 demostró que el vuelo a través del Atlántico era posible, estableciendo las bases para las futuras rutas aéreas comerciales .
-- **Demostración de la aviación naval:** La Armada de los Estados Unidos probó la viabilidad de los hidroaviones para misiones de largo alcance, así como la utilidad de una "cadena de estaciones" navales para apoyar vuelos oceánicos .
-- **Apoyo logístico sin precedentes:** La operación involucró a 53 buques de la Armada, demostrando la capacidad de coordinación naval en misiones de aviación .
-- **Reconocimiento internacional:** Read recibió la Navy Distinguished Service Medal (entonces la segunda condecoración más alta de la Armada, por encima de la Navy Cross); el resto de la tripulación recibió la Navy Cross . En 1929, toda la tripulación recibió la Medalla de Oro del Congreso .
-- **Eclipsado por Alcock y Brown:** Dos semanas después, el 14-15 de junio de 1919, John Alcock y Arthur Whitten Brown completaron el primer cruce transatlántico sin escalas (16 horas, 12 minutos), eclipsando en la memoria popular el logro del NC-4 .
+Read recibió la Navy Distinguished Service Medal y los demás tripulantes la Navy Cross; en 1929 el Congreso concedió su Medalla de Oro a todo el grupo. El 14 y 15 de junio de 1919, Alcock y Brown realizaron el vuelo transatlántico sin escalas. Su logro fue distinto y más breve, y terminó eclipsando en la memoria popular la compleja operación del NC-4.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
+El mérito del NC-4 corresponde a la primera travesía atlántica completa de un avión, aunque no fue directa ni continua. Esa precisión permite distinguirla del vuelo sin escalas de Alcock y Brown y del posterior viaje de ida y vuelta del dirigible R34.
 
-El Curtiss NC-4 es recordado como el primer avión en cruzar el océano Atlántico, un hito que allanó el camino para la aviación comercial transatlántica y para los vuelos de largo alcance.
-
-- **Ubicación actual del NC-4:** Fue donado al Smithsonian Institution en 1920, pero solo se exhibió el fuselaje. En 1974, el Smithsonian lo cedió en préstamo permanente al Museo Nacional de Aviación Naval en Pensacola, Florida, donde se exhibe completamente restaurado .
-- **El NC-4 vs. Alcock y Brown:** Aunque Alcock y Brown fueron los primeros en cruzar el Atlántico sin escalas, el NC-4 fue el primero en completar el cruce, siendo un logro de navegación escalonada que requirió una coordinación logística masiva .
-- **Condecoraciones adicionales:** Albert Read fue ascendido a contraalmirante (Rear Admiral) y falleció el 10 de octubre de 1967 . Su tumba se encuentra en el Cementerio Nacional de Arlington .
-- **Reconocimiento en la cultura popular:** El vuelo del NC-4 aparece en la historia de la aviación como el "primer cruce", aunque a menudo es olvidado por el público general. En 1969, en el 50 aniversario, el NC-4 fue exhibido en el National Mall en Washington D.C. antes de ser trasladado a Pensacola .
+El Smithsonian recibió el aparato en 1920 y durante años mostró únicamente el fuselaje. Una restauración posterior permitió reunir de nuevo el conjunto completo. Desde 1974 se conserva, mediante préstamo permanente, en el National Naval Aviation Museum de la ciudad floridana de Pensacola. En 1969, con motivo del cincuentenario, fue mostrado en el National Mall de Washington antes de volver a su sede museística.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -158,7 +113,7 @@ El Curtiss NC-4 es recordado como el primer avión en cruzar el océano Atlánti
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Timestamp de verificación:** 2026-10-03 14:08:15 CST
 - **Fuentes primarias/institucionales consultadas:** Naval History and Heritage Command (Navy.mil), Smithsonian Institution, United States Navy Memorial, Wikipedia, Guinness World Records, Britannica
 - **Discrepancias resueltas:** Confirmación de la fecha de llegada a Plymouth (31 de mayo de 1919). Verificación de la discrepancia en el tiempo total de vuelo (57h 16min vs. 53h 58min). Aclaración de la diferencia entre "primer cruce" (NC-4) y "primer cruce sin escalas" (Alcock y Brown).
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales, incluyendo la Armada de EE. UU., coinciden en los datos fundamentales)

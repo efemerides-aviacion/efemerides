@@ -46,87 +46,52 @@ image: 1919-06-15-primer-vuelo-trasatlantico-sin-escala.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
-
-En abril de 1913, el periódico londinense Daily Mail ofreció un premio de £10.000 «al aviador que primero cruce el Atlántico en un aeroplano desde cualquier punto de Estados Unidos, Canadá o Newfoundland hasta cualquier punto de Gran Bretaña o Irlanda en 72 horas consecutivas». La competición quedó suspendida durante la Primera Guerra Mundial y se reanudó en 1918.
+En abril de 1913, el diario londinense <em>Daily Mail</em> reservó 10.000 libras para quien volara entre Norteamérica y Gran Bretaña o Irlanda dentro de un plazo máximo de 72 horas. La competición se suspendió durante la Primera Guerra Mundial y volvió a abrirse tras el armisticio.
 
 ### Entorno social
 
-La hazaña de Alcock y Brown llegó en un momento en que la aviación aún era vista como una empresa casi suicida. Solo seis meses antes del vuelo, un intento del aviador estadounidense Harry Hawker había fracasado, y la opinión pública dudaba de que fuera posible cruzar el Atlántico en un aparato más pesado que el aire. El éxito de Alcock y Brown demostró que el vuelo trasatlántico era viable y abrió las puertas a la aviación comercial de larga distancia.
+Atravesar el océano seguía pareciendo una empresa extrema. El intento de Harry Hawker había terminado en un rescate marítimo pocas semanas antes, y no existía una ruta aérea regular que sirviera de referencia. Los competidores debían organizar combustible, meteorología y navegación astronómica sin disponer de aeródromos alternativos sobre el trayecto. Alcock y Brown buscaban demostrar que un avión podía cubrir de una vez la distancia entre los dos continentes.
 
 ### Entorno tecnológico
 
-El Vickers Vimy era un bombardero pesado diseñado para la Primera Guerra Mundial, pero el conflicto terminó antes de que pudiera entrar en servicio. Con una envergadura de 20,7 metros y una longitud de 13 metros, el biplano estaba propulsado por dos motores Rolls-Royce Eagle VIII de 360 caballos cada uno. Para el vuelo trasatlántico, Vickers modificó el avión: se eliminó el equipamiento militar y se añadieron tanques de combustible adicionales para transportar 3.600 litros (865 galones) de gasolina. La cabina era abierta, lo que exponía a los pilotos a temperaturas extremas de hasta -55 °C.
+El Vickers Vimy había sido concebido como bombardero pesado, aunque el fin del conflicto impidió su empleo operativo. Medía 20,7 m de envergadura y 13 m de longitud, y llevaba dos Rolls-Royce Eagle VIII de 360 hp. Para la travesía se retiró el equipo militar y se instalaron depósitos capaces de alojar unos 3.600 litros de gasolina. La cabina abierta dejaba a los tripulantes expuestos al frío y a la precipitación; algunos relatos sitúan la temperatura mínima en torno a −55 °C. Tampoco existía un puesto aislado para el navegante, que debía efectuar observaciones y cálculos junto al piloto en medio del ruido y el viento.
 
 ### Entorno cultural
 
-La rivalidad entre naciones por la conquista del aire estaba en su apogeo. El premio del Daily Mail había atraído a varios competidores, incluyendo equipos británicos, estadounidenses y australianos. Alcock y Brown, ambos veteranos de guerra, representaban el espíritu de la aviación británica de posguerra: técnicamente competentes, valientes y decididos a demostrar su superioridad.
+Equipos británicos, estadounidenses y australianos aspiraban al premio. Ambos protagonistas eran veteranos y antiguos prisioneros de guerra; su candidatura reunió la experiencia de Alcock como piloto de pruebas de Vickers y la formación de Brown como ingeniero y navegante.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
+- **Principios de 1919:** Alcock se incorpora al proyecto de Vickers y Brown acepta el puesto de navegante.
+- **14 de junio, 13:45:** el Vimy despega de un campo improvisado en St. John’s y supera por poco los árboles del extremo.
+- **17:20:** se rompe la hélice del dínamo; quedan sin radio, intercomunicador y calefacción.
+- **Durante la noche:** la fractura de un escape impide hablar y la niebla limita las observaciones de Brown.
+- **15 de junio, hacia las 03:00:** una tormenta de nieve congela instrumentos, carburadores y superficies, con riesgo para la sustentación.
+- **Antes del amanecer:** Alcock recupera el aparato de dos descensos en espiral que lo acercan al mar.
+- **08:40:** confunden Derrygimla Bog con terreno firme; el tren se hunde y el avión capota, pero ninguno resulta herido.
+- **Ese mismo día:** Winston Churchill entrega las 10.000 libras a los aviadores.
+- **22 de junio:** Jorge V los nombra caballeros en Windsor.
 
-- **Abril de 1913:** El Daily Mail ofrece el premio de £10.000 para el primer vuelo trasatlántico sin escalas en menos de 72 horas 
-- **1918:** Finaliza la Primera Guerra Mundial; la competición se reanuda 
-- **Principios de 1919:** Alcock, piloto de pruebas de Vickers, se interesa por el desafío. La compañía le asigna a Brown como navegante tras un encuentro casual en las oficinas de Weybridge 
-- **14 de junio de 1919, 1:45 p.m.:** Despegue desde un campo improvisado en St. John's, Newfoundland, evitando por poco las copas de los árboles 
-- **14 de junio de 1919, 5:20 p.m.:** El generador eléctrico (dínamo) falla a las 3 horas y 35 minutos de vuelo; pierden calefacción, radio e intercomunicador 
-- **14 de junio de 1919, primeras horas de la noche:** Un tubo de escape se rompe; el estruendo ensordecedor imposibilita cualquier comunicación hablada entre los pilotos 
-- **15 de junio de 1919, 3:00 a.m.:** Entran en una tormenta de nieve; los instrumentos se congelan y el avión acumula hielo en las alas 
-- **15 de junio de 1919, horas previas al amanecer:** Alcock pierde el control del avión en dos ocasiones, entrando en picado en espiral y casi chocando contra el mar 
-- **15 de junio de 1919, 8:40 a.m.:** Avistan la costa irlandesa. Confunden una ciénaga verde cerca de Clifden con un campo de hierba y aterrizan de emergencia, volcando el avión pero saliendo ilesos 
-- **15 de junio de 1919 (tarde):** Son recibidos como héroes en Dublín; Winston Churchill, Secretario de Estado del Aire, les entrega el premio de £10.000 
-- **22 de junio de 1919:** El rey Jorge V los nombra caballeros en el Castillo de Windsor 
+La nubosidad impidió usar el sextante durante buena parte del recorrido, por lo que Brown combinó las escasas observaciones disponibles con brújula, estima y cálculo de deriva. La formación de hielo afectó los instrumentos y amenazó tanto la sustentación como la alimentación de los motores.
 
-### La odisea del vuelo: incidente por incidente
+Alcock, nacido en Manchester en 1892, había aprendido a volar antes de la guerra, fue derribado cerca de Turquía y pasó el resto del conflicto como prisionero. Después trabajó para Vickers. Murió en un accidente aéreo el 18 de diciembre de 1919. Brown, nacido en Glasgow en 1886, era ingeniero eléctrico y había servido como observador del Real Cuerpo Aéreo. También fue derribado y permaneció cautivo durante 18 meses; sobrevivió a Alcock casi tres décadas y falleció en 1948.
 
-El vuelo de Alcock y Brown fue una sucesión de emergencias que pondrían a prueba a cualquier aviador:
-
-**Fallo del generador (1):** A las 3 horas y 35 minutos de vuelo, la hélice del dínamo —un pequeño generador eólico que proporcionaba energía— se rompió. Esto dejó a la tripulación sin calefacción en una cabina abierta, sin comunicación por radio y, lo que es peor, sin el intercomunicador.
-
-**Ruptura del tubo de escape (2):** Poco después, un tubo de escape se fracturó. El estruendo era tan ensordecedor que los pilotos no podían oírse mutuamente sin el intercomunicador, pero como este también había fallado, quedaron sin posibilidad de comunicación hablada durante el resto del vuelo.
-
-**Tormenta de nieve (3):** A las 3:00 a.m., el avión se adentró en una tormenta de nieve. Los instrumentos se congelaron, las alas acumularon hielo (poniendo en riesgo la sustentación) y los pilotos quedaron empapados por la lluvia en la cabina abierta.
-
-**Pérdida de control (4):** En dos ocasiones, Alcock perdió el control del avión. En ambas, el Vimy entró en un picado en espiral hacia el mar, y en ambas Alcock logró recuperar el control a escasos metros del agua. Brown recordaría más tarde que en un momento parecía que estaban volando boca abajo.
-
-**Navegación a ciegas (5):** Durante tres cuartas partes del vuelo, Brown no pudo usar su sextante debido a la espesa niebla, y tuvo que guiarse únicamente por la brújula.
-
-**El aterrizaje (6):** Al avistar la costa irlandesa, confundieron una ciénaga verde —Derrygimla Bog— con un campo de hierba. El avión aterrizó con fuerza, volcó y quedó atascado en el lodo, pero ambos pilotos salieron ilesos.
-
-### Los protagonistas
-
-El Vimy lo tripulaban el Capitán John Alcock, piloto de Manchester, y el Teniente Arthur Whitten Brown, navegante: juntos cruzaron el Atlántico en junio de 1919, ganaron las 10.000 libras del Daily Mail y fueron nombrados caballeros por Jorge V.
-### Capitán John Alcock (1892-1919)
-
-Nacido en Manchester, Inglaterra, Alcock se interesó por la aviación a los 17 años y obtuvo su licencia de piloto en noviembre de 1912. Durante la Primera Guerra Mundial fue derribado sobre el mar frente a las costas de Turquía y pasó el resto de la guerra como prisionero. Tras su liberación, trabajó como piloto de pruebas para Vickers. Trágicamente, falleció el 18 de diciembre de 1919, apenas seis meses después de su hazaña, al estrellarse mientras pilotaba un avión en una exhibición aérea en París. Tenía 27 años.
-
-### Teniente Arthur Whitten Brown (1886-1948)
-
-Nacido en Glasgow, Brown era ingeniero eléctrico de formación. Durante la guerra sirvió como observador en el Real Cuerpo Aéreo y fue derribado sobre Francia, pasando 18 meses como prisionero de guerra. Su encuentro con Alcock en las oficinas de Vickers fue casual: Brown estaba trabajando en la oficina de patentes de la compañía cuando se enteró del proyecto y se ofreció como navegante. Sobrevivió a Alcock por casi 30 años y falleció en 1948.
-
-### Twinkletoes, el gato de la suerte
-
-Ambos pilotos llevaban mascotas de la suerte: Alcock llevaba un gato de juguete llamado «Lucky Jim», y Brown llevaba «Twinkletoes». Twinkletoes se exhibe actualmente en el RAF Museum de Cosford y puede ser «adoptado» mediante el programa de adopción de artefactos del museo. El termo que utilizaron para tomar té caliente durante el vuelo también se conserva en el RAF Museum.
+Llevaron pequeños gatos de juguete como amuletos: “Lucky Jim” pertenecía a Alcock y “Twinkletoes” a Brown. Este último, junto con el termo empleado durante el viaje, forma parte de las colecciones del RAF Museum.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
+El premio y el nombramiento real dieron reconocimiento inmediato a los dos tripulantes. Multitudes los recibieron durante el viaje por Irlanda y Gran Bretaña, y unas 250.000 personas acudieron a su llegada a Londres.
 
-El éxito de Alcock y Brown tuvo repercusiones inmediatas. Winston Churchill les entregó personalmente el cheque del Daily Mail el mismo día del aterrizaje. Una semana después, el rey Jorge V los nombró caballeros, una distinción inusual para civiles.
-
-La multitud los recibió con entusiasmo: en Irlanda, los vitorearon en cada estación de tren de camino a Dublín; a su llegada a Holyhead (Gales) fueron recibidos por una multitud; en Londres, un cuarto de millón de personas se alinearon en las calles para ver su llegada.
-
-El vuelo demostró que el cruce del Atlántico en avión era posible, lo que aceleró el desarrollo de la aviación comercial de larga distancia. Aunque no se estableció una ruta regular inmediata, el éxito de Alcock y Brown inspiró a otros aviadores, incluyendo a Charles Lindbergh, que ocho años después (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">ver efeméride</a>) completó el primer vuelo en solitario sin escalas entre Nueva York y París.
+La travesía probó la viabilidad de un enlace oceánico directo, aunque no produjo de inmediato una línea regular. El transporte de casi doscientas cartas añadió una dimensión postal a la demostración, y los fallos de generación eléctrica, escape y protección contra hielo ofrecieron lecciones concretas para máquinas posteriores. Su experiencia orientó nuevos proyectos de gran alcance y antecedió al vuelo solitario de Charles Lindbergh entre Nueva York y París en 1927 (<a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">ver efeméride</a>).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
+El Vickers Vimy original se conserva en la galería Flight del Science Museum londinense. La pequeña hélice del dínamo averiado fue entregada al responsable de la estación Marconi de Clifden y reapareció en una subasta celebrada en 2023.
 
-El Vickers Vimy de Alcock y Brown se exhibe actualmente en el Museo de la Ciencia de Londres (Science Museum) en la galería de vuelo, restaurado a su estado original. La hélice del dínamo que falló durante el vuelo fue regalada por los pilotos al jefe de la estación Marconi de Clifden y salió a subasta en 2023.
-
-El legado de Alcock y Brown perdura en la historia de la aviación como los primeros en lograr lo que parecía imposible: cruzar el océano Atlántico sin escalas. Aunque <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Lindbergh</a> ha recibido mayor reconocimiento popular por su vuelo en solitario de 1927, los historiadores señalan que la hazaña de Alcock y Brown —con 16 horas de duración, en condiciones meteorológicas adversas y con equipos de navegación rudimentarios— fue técnicamente más desafiante.
-
-Alcock falleció apenas seis meses después, pero su nombre quedó grabado en la historia. Brown, más longevo, vivió para ver cómo la aviación trasatlántica se convertía en algo rutinario. El vuelo que realizaron es recordado como uno de los hitos más importantes de la historia de la aviación.
+El vuelo mantiene una identidad propia frente a otros cruces de 1919: el NC-4 llegó antes a Europa mediante escalas, mientras Alcock y Brown efectuaron el primer trayecto transatlántico continuo en avión. Su navegación con instrumentos limitados y meteorología adversa convirtió aquella marca en una referencia técnica para los vuelos oceánicos posteriores.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -156,7 +121,7 @@ Alcock falleció apenas seis meses después, pero su nombre quedó grabado en la
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Timestamp de verificación:** 2026-10-03 14:08:15 CST
 - **Fuentes primarias/institucionales consultadas:** RAF Museum Collections, University of Cambridge, HistoryExtra, Science Museum Blog, RTE Century Ireland, The Irish Times, Wikipedia
 - **Discrepancias resueltas:** La duración del vuelo varía entre 15h 57min (RAF Museum) y 16h 12min (HistoryExtra/Cambridge). Se han incluido ambas cifras. La distancia recorrida se ha ajustado a 1.890 millas (3.040 km) según la mayoría de las fuentes. Se ha confirmado que el aterrizaje fue en Derrygimla Bog (no simplemente «Clifden»).
 - **Nivel de confianza:** Alto

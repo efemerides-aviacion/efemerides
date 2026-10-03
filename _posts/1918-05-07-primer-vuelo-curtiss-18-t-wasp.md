@@ -31,9 +31,9 @@ image: 1918-05-07-primer-vuelo-curtiss-18-t-wasp.webp
 - **Tipo:** Caza biplaza triplano
 - **Fabricante:** Curtiss Engineering Corporation
 - **Diseñador asociado:** Charles B. Kirkham
-- **Usuario principal:** Armada de los Estados Unidos (US Navy)
+- **Operador naval:** US Navy (Armada estadounidense)
 - **Motor:** Curtiss K-12 de 400 hp (298 kW)
-- **Velocidad máxima registrada (agosto de 1918):** 262 km/h (163 mph) con carga militar completa
+- **Prestación máxima registrada (agosto de 1918):** 163 mph (262 km/h) llevando la carga bélica reglamentaria
 - **Fecha de introducción:** Febrero de 1919
 
 ### Especificaciones (Curtiss 18T-1 Wasp)
@@ -41,17 +41,17 @@ image: 1918-05-07-primer-vuelo-curtiss-18-t-wasp.webp
 El Curtiss 18T-1 Wasp presentaba un diseño extremadamente limpio y aerodinámico, con una construcción innovadora basada en laminado de madera.
 
 - **Tripulación:** 2
-- **Longitud:** 7,11 m (23 pies 4 pulgadas)
+- **Longitud:** 23 pies 4 pulgadas (7,11 m)
 - **Envergadura:** 9,75 m (32 pies 0 pulgadas)
 - **Altura:** 3,10 m (10 pies 2 pulgadas)
-- **Superficie alar:** 26,8 m² (288 pies cuadrados)
-- **Peso vacío:** 898 kg (1.980 libras)
+- **Superficie de las alas:** 288 pies cuadrados (26,8 m²)
+- **Masa en vacío:** 1.980 libras (898 kg)
 - **Peso bruto:** 1.383 kg (3.050 libras)
 - **Planta motriz:** 1 × Curtiss K-12 V-12 refrigerado por agua, 298 kW (400 hp)
 - **Hélices:** 2 palas, paso fijo
 - **Velocidad máxima:** 262 km/h (163 mph)
 - **Autonomía:** 5 horas 54 minutos
-- **Techo de servicio:** 7.000 m (23.000 pies)
+- **Techo operativo publicado:** 23.000 pies (7.000 m)
 - **Tiempo de ascenso:** 3.800 m (12.500 pies) en 10 minutos
 - **Armamento:**
   - 2 × ametralladoras Marlin Rockwell M1917/M1918 de 7,62 mm (0,300 in) sincronizadas en el morro
@@ -74,7 +74,7 @@ El diseño "limpio" y la construcción en madera laminada fueron las caracterís
 
 ### Entorno cultural
 
-En 1918, la industria aeronáutica estadounidense aún estaba en desarrollo. La mayoría de los cazas utilizados por las Fuerzas Expedicionarias Estadounidenses en Francia eran de diseño francés o británico (SPAD, Nieuport, SE.5). El Curtiss 18T representó un intento de crear un caza puramente estadounidense de alto rendimiento, aunque la guerra terminó antes de que pudiera entrar en producción.
+En 1918, la industria aeronáutica estadounidense aún estaba en desarrollo. La mayoría de los cazas utilizados por las Fuerzas Expedicionarias Estadounidenses en Francia eran de diseño francés o británico (SPAD, Nieuport, SE.5). El Curtiss 18T representó un intento de crear un caza puramente estadounidense de alto rendimiento, pero el armisticio llegó antes de su posible fabricación en serie.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -82,10 +82,10 @@ En 1918, la industria aeronáutica estadounidense aún estaba en desarrollo. La 
 
 - **1917:** Curtiss inicia el diseño del 18T en respuesta a las necesidades de la Armada de los EE. UU.
 - **7 de mayo de 1918:** Primer vuelo del prototipo Curtiss 18T-1.
-- **30 de julio de 1918:** El piloto Roland Rohlfs establece un récord mundial de altitud de 9.241 m (30.318 pies) .
-- **Agosto de 1918:** El mismo piloto establece un récord mundial de velocidad de 262 km/h (163 mph) con carga militar completa a bordo del 18T-1.
+- **30 de julio de 1918:** Roland Rohlfs eleva la plusmarca mundial de altura a 9.241 m (30.318 pies).
+- **Agosto de 1918:** El mismo piloto alcanza 262 km/h (163 mph) a bordo del 18T-1 con su dotación militar completa.
 - **1919:** Se desarrolla la versión mejorada 18T-2, con alas de dos vanos (con dos pares de montantes por lado, mayor envergadura) y 50 hp adicionales.
-- **18 de septiembre de 1919:** Roland Rohlfs establece un nuevo récord mundial de altitud de 9.577 m (31.421 pies) con el 18T-2 .
+- **18 de septiembre de 1919:** Con el 18T-2, Rohlfs lleva la marca de altura hasta 9.577 m (31.421 pies).
 - **1919 (verano):** El prototipo del 18B Hornet (versión biplano) se estrella durante las pruebas en McCook Field, Dayton, Ohio.
 - **Febrero de 1919:** Fecha oficial de introducción (aunque la guerra ya había terminado).
 - **1922:** Un 18T-2 casi gana la Curtiss Marine Trophy Race, pero el piloto (Teniente Sanderson) se quedó sin combustible cerca de la línea de meta.
@@ -118,7 +118,7 @@ El Curtiss 18T fue utilizado principalmente como banco de pruebas y en competici
 
 ## Legado
 
-El Curtiss 18T Wasp fue uno de los aviones más rápidos de su época, un brillante ejemplo de la ingeniería aeronáutica estadounidense durante la Primera Guerra Mundial. Aunque el fin de la guerra impidió su producción en masa, su diseño avanzado y sus récords de velocidad y altitud dejaron una huella en la historia de la aviación. El 18T demostró que Estados Unidos podía diseñar y construir cazas de alto rendimiento comparables a los mejores diseños europeos de la época.
+El Curtiss 18T Wasp fue uno de los aviones más rápidos de su época, un brillante ejemplo de la ingeniería aeronáutica estadounidense durante la Primera Guerra Mundial. Aunque el fin de la guerra impidió su producción en masa, su diseño avanzado y sus marcas de velocidad y altura le dieron un lugar propio en la evolución aeronáutica. El 18T demostró que Estados Unidos podía diseñar y construir cazas de alto rendimiento comparables a los mejores diseños europeos de la época.
 
 La experiencia adquirida con el 18T influyó en los diseños de Curtiss en la década de 1920, incluyendo el desarrollo de hidroaviones de carreras que ganarían la prestigiosa Copa Schneider en 1923. El 18T-2, con su diseño "limpio" y su construcción de madera laminada, allanó el camino para futuros aviones de competición y cazas navales.
 
@@ -126,14 +126,7 @@ El ejemplar enviado a Bolivia en 1920, hoy considerado por los aficionados boliv
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre el nombre "Kirkham":</strong> El Curtiss 18T fue conocido por la Armada de los Estados Unidos como "Kirkham", en honor a Charles B. Kirkham, el diseñador asociado. Kirkham era un experto en motores y contribuyó significativamente al desarrollo del motor Curtiss K-12.</p>
-<p><strong>Sobre la designación 18T vs 18T-1:</strong> El prototipo original fue designado inicialmente como Curtiss 18T. Tras el desarrollo de la versión mejorada 18T-2, el modelo original fue redesignado retroactivamente como 18T-1 para distinguirlo. En la práctica, ambos términos se refieren a la misma aeronave básica. La Armada de los EE. UU. adquirió dos ejemplares: el A3325 (convertido posteriormente en 18T-2) y el A3326 (que permaneció como 18T-1) .</p>
-<p><strong>Sobre el uso en Bolivia:</strong> Un Curtiss 18T (posiblemente un 18T-2 o una variante similar) fue enviado a Bolivia en 1920. Durante varios años, fue el avión más rápido de la Fuerza Aérea de Bolivia, participando en desfiles y misiones de reconocimiento.</p>
-<p><strong>Sobre el 18B Hornet:</strong> La versión biplano del 18T, conocida como 18B "Hornet", fue evaluada por el Servicio Aéreo del Ejército de los EE. UU. (USAAS) como 'P-86'. El único prototipo volante se estrelló en McCook Field en el verano de 1919, y el programa fue cancelado.</p>
-</div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -148,9 +141,18 @@ El ejemplar enviado a Bolivia en 1920, hoy considerado por los aficionados boliv
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<div class="note-box">
+<p><strong>Nota aclaratoria sobre el nombre "Kirkham":</strong> El Curtiss 18T fue conocido por la Armada de los Estados Unidos como "Kirkham", en honor a Charles B. Kirkham, el diseñador asociado. Kirkham era un experto en motores y contribuyó significativamente al desarrollo del motor Curtiss K-12.</p>
+<p><strong>Sobre la designación 18T vs 18T-1:</strong> El prototipo original fue designado inicialmente como Curtiss 18T. Tras el desarrollo de la versión mejorada 18T-2, el modelo original fue redesignado retroactivamente como 18T-1 para distinguirlo. En la práctica, ambos términos se refieren a la misma aeronave básica. La Armada de los EE. UU. adquirió dos ejemplares: el A3325 (convertido posteriormente en 18T-2) y el A3326 (que permaneció como 18T-1) .</p>
+<p><strong>Sobre el uso en Bolivia:</strong> Un Curtiss 18T (posiblemente un 18T-2 o una variante similar) fue enviado a Bolivia en 1920. Durante varios años, fue el avión más rápido de la Fuerza Aérea de Bolivia, participando en desfiles y misiones de reconocimiento.</p>
+<p><strong>Sobre el 18B Hornet:</strong> La versión biplano del 18T, conocida como 18B "Hornet", fue evaluada por el USAAS estadounidense bajo la identificación 'P-86'. El único prototipo volante se estrelló en McCook Field en el verano de 1919, y el programa fue cancelado.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:26:52 CST  
+- **Timestamp de verificación:** 2026-10-03 14:08:15 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Blog Aviación Bolivia
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (7 de mayo de 1918), las especificaciones del 18T-1 y el récord de velocidad de agosto de 1918. Se ha añadido información sobre los récords de altitud de Roland Rohlfs (30 de julio de 1918 y 18 de septiembre de 1919) y sobre los números de serie de los dos prototipos . La información sobre el uso en Bolivia (1920) proviene del blog de aviación boliviana.
 - **Nivel de confianza:** Alto

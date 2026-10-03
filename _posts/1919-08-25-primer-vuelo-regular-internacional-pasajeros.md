@@ -64,7 +64,7 @@ El 25 de agosto no fue un vuelo aislado: fue el primer día de un horario.
 - **5 de octubre de 1916:** Holt Thomas constituye Aircraft Transport and Travel.
 - **15 de julio de 1919:** vuelo de prueba Hendon–Le Bourget (Shaw, DH.9, un pasajero chárter).
 - **25 de agosto de 1919:** se levanta la veda civil; Lawford sale de Hounslow hacia París en el G-EAJC; Patteson cubre el DH.16 del horario.
-- **Noviembre de 1919:** primer contrato británico de correo aéreo civil para AT&amp;T.
+- **Noviembre de 1919:** el servicio postal británico confía a AT&amp;T un contrato para transportar correspondencia por aire.
 - **29 de marzo de 1920:** las operaciones de aduana de Londres pasan a Croydon.
 - **17 de mayo de 1920:** un DH.16 de AT&amp;T (G-EALU) opera el primer servicio de KLM Londres–Ámsterdam.
 - **17 de diciembre de 1920:** último servicio de AT&amp;T.
@@ -75,7 +75,7 @@ El 25 de agosto no fue un vuelo aislado: fue el primer día de un horario.
 
 La línea demostró que un horario diario sobre el Canal era posible sin esperar a aviones nuevos: bastaba convertir bombarderos. Compitió de inmediato con Handley Page y, al poco, con compañías francesas subvencionadas. La falta de ayuda estatal británica acabó con AT&amp;T en dieciséis meses, pero la ruta Londres–París no se apagó: pasó a Daimler, Imperial Airways y, en última instancia, a British Airways.
 
-Dos días después, el 27 de agosto, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1919/08/27/lawson-c-2-vuelo-demostracion-costa-este.html" style="color: #315fea; text-decoration: none;">Lawson C-2</a> despegaba de Milwaukee como primer avión de línea diseñado desde cero en Estados Unidos para transportar pasajeros: el camino opuesto —diseño nuevo frente a conversión—, aunque con igual fracaso comercial.
+Dos días después, el 27 de agosto, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1919/08/27/lawson-c-2-vuelo-demostracion-costa-este.html" style="color: #315fea; text-decoration: none;">Lawson C-2</a> partía desde Milwaukee; era un avión de transporte concebido desde cero en Estados Unidos para llevar pasajeros: el camino opuesto —diseño nuevo frente a conversión—, aunque con igual fracaso comercial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -107,7 +107,7 @@ Ciento siete años después, el 25 de agosto de 1919 sigue siendo la fecha que B
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 06:24:00 CST
+- **Timestamp de verificación:** 2026-10-03 14:08:15 CST
 - **Fuentes primarias/institucionales consultadas:** National Museums Scotland; Airfields of Britain Conservation Trust; Historic Croydon Airport.
 - **Fuentes secundarias de contraste:** Key.aero (Ransted, 2019); Wikipedia (EN).
 - **Discrepancias resueltas:** DH.4A G-EAJC (Lawford) frente a DH.16 G-EACT (Patteson); «primer internacional» frente a Farman París–Bruselas (22-mar-1919); grafía Patteson/Patterson.

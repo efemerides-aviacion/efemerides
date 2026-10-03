@@ -60,7 +60,7 @@ La secuencia de hitos que enmarca el apontaje permite situarlo en su lugar exact
 - **9 de mayo de 1912:** el Comandante <a href="https://en.wikipedia.org/wiki/Charles_Rumney_Samson" style="color: #315fea; text-decoration: none;">Charles Rumney Samson</a> despega desde el acorazado HMS <em>Hibernia</em> en navegación, primer despegue desde un buque en movimiento.
 - **26 de junio de 1917:** entra en servicio el HMS <em>Furious</em> con su hangar y su cubierta de vuelo de proa.
 - **2 de agosto de 1917:** Dunning aproxima por babor, sobrepasa el puente y la chimenea, desliza el aparato lateralmente hasta alinearlo con la plataforma y corta motor para dejarlo caer sobre la cubierta, donde los marineros destacados al efecto lo sujetan. Queda consumado el primer apontaje sobre un buque en movimiento.
-- **7 de agosto de 1917:** en una nueva jornada de pruebas, Dunning repite la maniobra con éxito. En un intento posterior del mismo día, el aparato queda descolocado en la aproximación, el motor rotativo se ahoga al iniciar la maniobra de motor y al aire, y el avión cae al mar por la amura de estribor. Inconsciente, el piloto se ahoga en la cabina.
+- **7 de agosto de 1917:** en una nueva jornada de pruebas, Dunning repite la maniobra con éxito. En un intento posterior del mismo día, el aparato queda descolocado en la aproximación, el motor rotativo se ahoga cuando intenta recuperar altura y el avión cae al mar por la amura de estribor. Inconsciente, el piloto se ahoga en la cabina.
 - **Noviembre de 1917:** el <em>Furious</em> regresa a los astilleros para sustituir la torre de popa por una segunda cubierta, destinada a la recuperación de aeronaves.
 - **19 de julio de 1918:** siete Sopwith Camel despegan del <em>Furious</em> y atacan los cobertizos de zepelines de Tondern, primer ataque aéreo lanzado desde un buque portaaviones.
 
@@ -69,7 +69,7 @@ La secuencia de hitos que enmarca el apontaje permite situarlo en su lugar exact
 
 El efecto inmediato del vuelo fue disipar una duda de principio: la recuperación de aeronaves en la mar dejó de ser una hipótesis para convertirse en un problema de ingeniería.
 
-El Almirantazgo valoró la demostración como una fuente de datos de primer orden y ordenó continuar los ensayos, lo que condujo directamente a la jornada del 7 de agosto y a la muerte del piloto. La comunicación oficial dirigida a su familia, reproducida en la placa conmemorativa de la iglesia de St Lawrence, en Bradfield (Essex), reconoció que el ejercicio "hará que los aeroplanos resulten indispensables para una flota y, posiblemente, revolucione la guerra naval".
+El Almirantazgo valoró la demostración como una fuente de datos de primer orden y ordenó continuar los ensayos, lo que condujo directamente a la jornada del 7 de agosto y a la muerte del piloto. La comunicación oficial dirigida a su familia, reproducida en una placa conmemorativa de Bradfield (Essex), reconoció que el ejercicio "hará que los aeroplanos resulten indispensables para una flota y, posiblemente, revolucione la guerra naval".
 
 En el plano operativo, las conclusiones fueron severas. El sucesor de Dunning al frente del grupo aéreo del <em>Furious</em>, Frederick Rutland, repitió la maniobra y suspendió después los ensayos, informando al Almirantazgo de que la esperanza media de un piloto que aterrizase de ese modo no superaría los diez apontajes, y solo con buen tiempo. La turbulencia generada por la chimenea y la superestructura hacía inviable el procedimiento como práctica ordinaria. La respuesta fue estructural: primero la habilitación de una cubierta de recuperación a popa —igualmente insatisfactoria por la estela de aire caliente y las turbulencias— y, más adelante, la reconstrucción completa del buque con cubierta corrida.
 
@@ -107,9 +107,9 @@ Dunning está enterrado en el cementerio de la iglesia de St Lawrence, en Bradfi
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 10:45:59 CST
-- **Fuentes primarias/institucionales consultadas:** Imperial War Museums (fotografía Q 110613, colección Howe T E B, Air Commodore); Royal Navy (nota informativa del centenario, 2017).
-- **Fuentes secundarias de contraste:** Wikipedia en inglés (Edwin Harris Dunning; HMS Furious (47); Sopwith Pup; Tondern raid), BBC News, The Scotsman.
-- **Discrepancias resueltas:** se corrigió la longitud de la cubierta de vuelo de proa del HMS <em>Furious</em>, fijada en unos 160 pies (49 metros) y no en 70 metros; se contrastó la secuencia de intentos del 7 de agosto de 1917 y la atribución de los números de serie N6453 y N6452; se descartó la fecha alternativa del 3 de agosto que aparece en alguna base de datos secundaria, por contradecir al conjunto de fuentes institucionales.
+- **Timestamp de verificación:** 2026-10-03 14:08:15 CST
+- **Fuentes primarias/institucionales consultadas:** Imperial War Museums; Royal Navy.
+- **Fuentes secundarias de contraste:** Wikipedia en inglés; BBC News; The Scotsman.
+- **Discrepancias resueltas:** cubierta de proa (160 pies); secuencia del 7 de agosto; matrículas N6453/N6452; descarte de la fecha alternativa del 3 de agosto.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

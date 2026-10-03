@@ -49,11 +49,11 @@ Los pilotos militares de la época gozaban de un estatus romántico de “caball
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
 
-- **Diciembre de 1918:** El Teniente Dagoberto Godoy realiza el primer cruce simple de los Andes (Santiago – Mendoza) en un Bristol M.1C similar, abriendo la ruta.
+- **Diciembre de 1918:** El Teniente Dagoberto Godoy abre la ruta en sentido único al atravesar la cordillera hacia territorio argentino con un Bristol M.1C.
 - **5 de abril de 1919, primeras horas:** Cortínez despega desde El Bosque sin comunicar su plan a sus superiores. Vuela hacia el este, enfrentando vientos y bajas temperaturas.
-- **Mediodía del 5 de abril:** Logra cruzar la cordillera por el sector del Cerro Tupungato (Paso de la Cumbre) y aterriza en el Departamento de Tupungato, cerca de Mendoza, con daños en el tren de aterrizaje.
+- **Mediodía del 5 de abril:** Supera la cordillera por las inmediaciones del Tupungato, toma tierra en el departamento homónimo y la aeronave resulta averiada.
 - **6 al 15 de abril:** Cortínez repara su avión con ayuda de mecánicos y fondos autorizados por el gobierno chileno tras conocerse la noticia.
-- **16 de abril de 1919:** Despega desde Mendoza y retorna a Santiago, completando la primera doble travesía aérea de la Cordillera de los Andes.
+- **16 de abril de 1919:** Despega desde Mendoza y retorna a Santiago; culmina así el trayecto aéreo de ida y regreso sobre los Andes.
 - **Posterior:** Al llegar, es arrestado por desobediencia. Sin embargo, la opinión pública y la prensa lo convierten en héroe. El Presidente de Chile lo indulta y lo asciende a Capitán.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -67,7 +67,7 @@ Los pilotos militares de la época gozaban de un estatus romántico de “caball
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
-El 5 de abril es conmemorado por la Fuerza Aérea de Chile y la Dirección General de Aeronáutica Civil (DGAC) como el “Día de la Doble Travesía de los Andes”. La gesta de Armando Cortínez es recordada como un ejemplo de audacia y patriotismo, y su nombre figura en la galería de héroes de la aviación chilena. El Bristol M.1C que pilotó representa un símbolo de los inicios de la aviación nacional.
+La FACh y la Dirección General de Aeronáutica Civil (DGAC) conmemoran el 5 de abril como el “Día de la Doble Travesía de los Andes”. La gesta de Armando Cortínez es recordada como un ejemplo de audacia y patriotismo, y su nombre figura en la galería de héroes de la aviación chilena. El Bristol M.1C que pilotó representa un símbolo de los inicios de la aviación nacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas
@@ -84,12 +84,12 @@ El 5 de abril es conmemorado por la Fuerza Aérea de Chile y la Dirección Gener
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Algunas fuentes indican que el regreso de Cortínez ocurrió el 16 de abril, mientras que otras mencionan el 17 de abril [NO CONFIRMADO]. La fecha del 16 de abril es la que figura en los registros oficiales de la FACh y en la DGAC. Asimismo, el vuelo se realizó sin autorización expresa, lo que motivó un arresto inicial, pero el carácter histórico de la gesta llevó a su indulto. La altitud exacta de cruce de la cordillera no está documentada; los registros indican que el vuelo superó los 4.000 m, sin especificar una cifra precisa.</p>
+  <p><strong>Nota aclaratoria:</strong> Existe una divergencia documental: unas fuentes sitúan el regreso de Cortínez el 16 de abril y otras lo fechan el día 17 [NO CONFIRMADO]. La fecha del 16 de abril es la que figura en los registros oficiales de la FACh y en la DGAC. Asimismo, el vuelo se realizó sin autorización expresa, lo que motivó un arresto inicial, pero el carácter histórico de la gesta llevó a su indulto. La altitud exacta de cruce de la cordillera no está documentada; los registros indican que el vuelo superó los 4.000 m, sin especificar una cifra precisa.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-08 07:32:32 CST
+- **Timestamp de verificación:** 2026-10-03 14:08:15 CST
 - **Fuentes primarias/institucionales consultadas:** FACh, DGAC, Museo Aeronáutico DGAC, TallyHo, Wikipedia, YouTube FACh
 - **Discrepancias resueltas:** La fecha exacta del regreso se ha fijado en 16 de abril según las fuentes oficiales chilenas. La discrepancia con la fecha del 17 de abril se documenta como [NO CONFIRMADO]. La altitud de cruce se indica como estimada (>4.000 m) sin precisar una cifra no documentada.
 - **Nivel de confianza:** Alto

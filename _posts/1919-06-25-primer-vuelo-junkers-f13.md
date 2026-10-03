@@ -99,7 +99,7 @@ El F-13 era un avión de apariencia moderna y elegante. Su diseño, completament
 
 ### El récord de altura de septiembre de 1919
 
-El 13 de septiembre de 1919, apenas tres meses después de su primer vuelo, el prototipo "Herta" estableció un récord de altitud al alcanzar los **6.750 metros** (22.146 pies) con **ocho personas a bordo**, una hazaña notable para la época. El récord no fue oficialmente homologado por la FAI porque Alemania aún no era miembro de la federación internacional de aviación debido a las restricciones de la posguerra, pero Junkers aprovechó la hazaña para obtener una enorme publicidad para su nuevo avión.
+El 13 de septiembre de 1919, tres meses después del estreno del tipo, el prototipo "Herta" estableció un récord de altitud al alcanzar los **6.750 metros** (22.146 pies) con **ocho personas a bordo**, una hazaña notable para la época. El récord no fue oficialmente homologado por la FAI porque Alemania aún no era miembro de la federación internacional de aviación debido a las restricciones de la posguerra, pero Junkers aprovechó la hazaña para obtener una enorme publicidad para su nuevo avión.
 
 ### Los operadores del F-13
 
@@ -142,13 +142,13 @@ El Junkers F-13 sentó las bases de la aviación comercial moderna:
 
 ## Legado
 
-El Junkers F-13 es considerado el padre de los aviones de pasajeros modernos. Fue el primer avión diseñado específicamente para el transporte de pasajeros con una filosofía de confort, seguridad y eficiencia.
+El Junkers F-13 constituye un referente temprano del avión de línea moderno. Su concepción integró desde el origen comodidad, seguridad y eficiencia para el servicio de pasajeros.
 
 Aunque solo se construyeron 332 unidades, su influencia fue inmensa. Hugo Junkers, que había comenzado su carrera construyendo calderas y radiadores, demostró que el futuro de la aviación estaba en el metal. El F-13 fue el primero de una larga línea de aviones Junkers que incluiría el famoso Ju 52 "Tante Ju" y el Ju 87 "Stuka".
 
-El F-13 allanó el camino para la aviación comercial moderna, y su legado perdura en cada avión de pasajeros que surca los cielos. Su diseño, con su ala cantilever y su cabina cerrada, se convertiría en el estándar de la industria durante décadas.
+El F-13 allanó el camino para la aviación comercial moderna, y su legado perdura en cada avión de pasajeros que surca los cielos. Su ala cantilever y su cabina cerrada anticiparon soluciones que la industria adoptó durante décadas.
 
-En 2021, un equipo de entusiastas completó la construcción de una réplica volable del Junkers F-13, que voló por primera vez el 30 de agosto de 2021 en Schwenningen am Neckar, Alemania. Esta réplica, denominada "Airliner", rinde homenaje a este avión pionero y mantiene vivo su legado.
+En 2021, un equipo de entusiastas completó una réplica aeronavegable del Junkers F-13. El aparato se estrenó en vuelo el 30 de agosto de ese año en Schwenningen am Neckar, Alemania. Esta réplica, denominada "Airliner", rinde homenaje a este avión pionero y mantiene vivo su legado.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -177,7 +177,7 @@ En 2021, un equipo de entusiastas completó la construcción de una réplica vol
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 13:37:19 CST  
+- **Timestamp de verificación:** 2026-10-03 14:08:15 CST
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Junkers, Fly News, Smithsonian National Postal Museum, Deutsches Museum, PBS, Wikipedia (Archivado)
 - **Discrepancias resueltas:** El número de producción total varía entre 322 y 332 según las fuentes; se ha adoptado la cifra de 332 de This Day in Aviation. El nombre del primer prototipo era "Herta" (no "Annelise"), según la misma fuente. Se ha corregido en consecuencia.
 - **Nivel de confianza:** Alto
