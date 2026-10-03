@@ -12,22 +12,21 @@ image: 1920-04-17-fundacion-escuela-aviacion-militar-venezuela.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1920-04-17-fundacion-escuela-aviacion-militar-venezuela.webp" alt="Hangares de la Escuela de Aviación Militar en Maracay, 1920">
-  <figcaption class="post-caption">Hangares de la recién creada Escuela de Aviación Militar en Maracay, estado Aragua, hacia 1920. Estas instalaciones, diseñadas por el ingeniero Luis Guillermo Salas Díaz, albergaron los primeros aviones Caudron G-3 de la aviación venezolana. Fuente: Fundación Arquitectura y Ciudad.</figcaption>
+  <figcaption class="post-caption">Hangares de la nueva institución aeronáutica militar en Maracay, estado Aragua, hacia 1920. Estas instalaciones, diseñadas por el ingeniero Luis Guillermo Salas Díaz, albergaron los primeros aviones Caudron G-3 de la aviación venezolana. Fuente: Fundación Arquitectura y Ciudad.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 17 de abril de 1920, el presidente provisional Victoriano Márquez Bustillos, por decreto Nº 127 y por orden del General Juan Vicente Gómez, se creó la Escuela de Aviación Militar de Venezuela. Este hito marcó el nacimiento formal de la aviación militar en el país, con sede en Maracay, estado Aragua. La escuela comenzó a operar con instructores y aeronaves francesas (Caudron G-3) y fue instalada oficialmente el 10 de diciembre de 1920. Con el tiempo, esta institución se transformaría en la actual Academia Militar de la Aviación Bolivariana (AMAB), formando a generaciones de pilotos y defensores del espacio aéreo venezolano durante más de un siglo.</p>
+<p>El 17 de abril de 1920, el presidente provisional Victoriano Márquez Bustillos, mediante el decreto n.º 127 y por orden del General Juan Vicente Gómez, dejó constituida la Escuela de Aviación Militar de Venezuela. El acto dio origen institucional al componente aéreo venezolano, con sede en Maracay, estado Aragua. La escuela comenzó a operar con instructores y aeronaves francesas (Caudron G-3) y fue instalada oficialmente el 10 de diciembre de 1920. Con el tiempo, esta institución se transformaría en la actual Academia Militar de la Aviación Bolivariana (AMAB), formando a generaciones de pilotos y defensores del espacio aéreo venezolano durante más de un siglo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
-- **Fecha del decreto de creación:** 17 de abril de 1920
-- **Decreto:** Nº 127
+- **Acto fundacional:** Decreto n.º 127, suscrito el 17 de abril de 1920
 - **Lugar de firma:** Caracas, Venezuela
 - **Presidente provisional:** Victoriano Márquez Bustillos
 - **Ordenante real:** General Juan Vicente Gómez (quien ejercía el poder fáctico desde Maracay)
@@ -41,12 +40,12 @@ image: 1920-04-17-fundacion-escuela-aviacion-militar-venezuela.webp
 
 ## Contexto Histórico
 
-A finales de la segunda década del siglo XX, la aviación militar ya había demostrado su importancia estratégica durante la Primera Guerra Mundial (1914-1918). Venezuela, gobernada con mano firme por el General Juan Vicente Gómez desde Maracay, no era ajena a estos avances tecnológicos. Influenciado por su hijo Florencio Gómez Núñez, un entusiasta de la naciente arma aérea, Gómez decidió dotar al país de una escuela que formara pilotos militares.
+Al terminar la segunda década del siglo XX, el conflicto mundial de 1914 a 1918 ya había probado la importancia estratégica de la aviación militar. Venezuela, gobernada con mano firme por el General Juan Vicente Gómez desde Maracay, no era ajena a estos avances tecnológicos. Influenciado por su hijo Florencio Gómez Núñez, un entusiasta de la naciente arma aérea, Gómez decidió dotar al país de una escuela que formara pilotos militares.
 
 
 ### Entorno social
 
-En 1920, Venezuela tenía una población estimada de 2,3 millones de habitantes. El país vivía bajo un régimen dictatorial que, sin embargo, impulsaba la modernización de las fuerzas armadas y las comunicaciones. La creación de una escuela de aviación fue vista como un símbolo de progreso y poder.
+En 1920, Venezuela tenía una población estimada de 2,3 millones de habitantes. El país vivía bajo un régimen dictatorial que, sin embargo, promovía la renovación militar y de las comunicaciones. La creación de una escuela de aviación fue vista como un símbolo de progreso y poder.
 
 ### Entorno tecnológico
 
@@ -60,7 +59,7 @@ La figura del piloto aviador despertaba fascinación. El gobierno de Gómez prom
 
 ## Desarrollo Cronológico
 
-- **17 de abril de 1920:** Se dicta el decreto Nº 127 de creación de la Escuela de Aviación Militar.
+- **17 de abril de 1920:** Se emite en Caracas el instrumento n.º 127 que funda la escuela militar de vuelo.
 - **21 de junio de 1920:** El Congreso promulga la Ley de Aviación y el Ministerio de Guerra y Marina aprueba el Reglamento Orgánico de la Escuela.
 - **26 de junio de 1920:** Adquisición del Fundo San Jacobo en Maracay, donde se construirían los hangares y el campo de aviación. 
 - **10 de diciembre de 1920:** Se instala oficialmente la Escuela en Maracay, en un acto presidido por el Coronel David López Henríquez. Se inauguran tres hangares diseñados por el ingeniero Luis Guillermo Salas Díaz.
@@ -68,11 +67,10 @@ La figura del piloto aviador despertaba fascinación. El gobierno de Gómez prom
 - **1930-1933:** Misión aeronáutica alemana aporta hidroaviones Junkers Bremen.
 - **1936:** Se construye un edificio de aulas diseñado por el arquitecto Carlos Guinand Sandoz.
 - **1943:** Arriban los primeros técnicos de Estados Unidos.
-- **10 de octubre de 1947:** Se establece oficialmente el Grupo de Entrenamiento Aéreo como componente operativo de la Escuela.
 - **1968:** Se crea el Comando Aéreo de Instrucción para revisar los programas académicos.
 - **10 de diciembre de 1963:** Los hangares originales se convierten en el Museo Aeronáutico de Maracay.
 - **2006:** Se incorpora el Plan de Estudios "Simón Rodríguez" bajo instrucciones del presidente Hugo Chávez.
-- **2020:** Se conmemora el centenario de la creación de la escuela, ya denominada Academia Militar de la Aviación Bolivariana (AMAB).
+- **2020:** La institución, ya identificada por las siglas AMAB, conmemora el centenario del decreto.
 
 ### La Fundación: detalles relevantes
 
@@ -118,7 +116,7 @@ La unidad tiene dos hitos fundacionales en su historia:
 
 - **10 de octubre de 1947:** Se establece oficialmente el Grupo de Entrenamiento Aéreo, integrándose como componente operativo de la Escuela de Aviación Militar. Esta es considerada su fecha de creación original.
 
-- **17 de abril de 1960:** El Grupo recibe su organización actual y estructura definitiva, adoptando su identidad operativa plena como GEA-14 "Escorpiones". Por ello, la unidad conmemora su aniversario institucional junto a la Escuela de Aviación Militar en esta fecha.
+- **17 de abril de 1960:** El Grupo recibe su organización actual y estructura definitiva, adoptando su identidad operativa plena como GEA-14 "Escorpiones". Por ello, la unidad conmemora en esa fecha su aniversario institucional junto con el del plantel militar de vuelo.
 
 Actualmente, el GEA-14 "Escorpiones" opera desde la **Base Aérea Escuela Mariscal Antonio José de Sucre (BASUCRE)** en Boca de Río, Maracay, estado Aragua. Sus unidades aéreas incluyen el Escuadrón Primario N° 141 (con aviones Aermacchi SF-260) y el Escuadrón Básico N° 142 (con aviones Embraer EMB-312 Tucano), cumpliendo la misión de formar a los pilotos militares venezolanos.
 
@@ -154,8 +152,8 @@ El Grupo también comparte misiones de apoyo aéreo cercano, equipando sus aeron
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:50:11 CST
-- **Fuentes primarias/institucionales consultadas:** Presidencia de Venezuela, Fundación Arquitectura y Ciudad, Defensa.com, RNV, DiarioVea, Ciudad Valencia, Ciudad CCS, MPPEF, Últimas Noticias
-- **Discrepancias resueltas:** Se ha aclarado la diferencia entre la fecha del decreto (17 de abril de 1920) y la fecha de instalación (10 de diciembre de 1920). En cuanto al GEA-14 "Escorpiones", se ha documentado su existencia y misión actual, pero las fechas específicas de su fundación (1947) y reorganización (1960) no han podido ser verificadas con fuentes oficiales primarias, por lo que se presentan como investigación preliminar.
+- **Timestamp de verificación:** 2026-10-03 14:54:57 CST  
+- **Fuentes primarias/institucionales consultadas:** Presidencia; Fundación Arquitectura y Ciudad; Defensa.com; RNV; DiarioVea; Ciudad Valencia; Ciudad CCS; MPPEF; Últimas Noticias.
+- **Discrepancias resueltas:** Se distinguen decreto (17 de abril) e instalación (10 de diciembre); las fechas atribuidas al GEA-14 en 1947 y 1960 carecen de confirmación oficial primaria.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

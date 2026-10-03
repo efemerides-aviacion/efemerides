@@ -12,7 +12,7 @@ image: 1919-08-27-lawson-c-2-vuelo-demostracion-costa-este.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1919-08-27-lawson-c-2-vuelo-demostracion-costa-este.webp" alt="El Lawson C-2 en el aeródromo de Bolling, Washington D. C., el 19 de septiembre de 1919">
-  <figcaption class="post-caption">El Lawson C-2 en el aeródromo de Bolling, Washington D. C., el 19 de septiembre de 1919, a su llegada tras el vuelo de demostración iniciado en Milwaukee el 27 de agosto. La toma no corresponde al instante del despegue. Fuente: <a href="https://www.loc.gov/item/2016827171/" style="color: #315fea; text-decoration: none;">National Photo Company, Library of Congress</a> (dominio público).</figcaption>
+  <figcaption class="post-caption">El Lawson C-2 en el aeródromo de Bolling, Washington D. C., el 19 de septiembre de 1919, a su llegada tras el vuelo de demostración iniciado en Milwaukee el 27 de agosto. La toma no corresponde al instante del despegue. Procedencia: <a href="https://www.loc.gov/item/2016827171/" style="color: #315fea; text-decoration: none;">Library of Congress, colección National Photo Company</a> (dominio público).</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -61,13 +61,13 @@ Lawson era tanto ingeniero como vendedor. Se proclamaba «creador de aeronaves m
 ## Desarrollo Cronológico
 
 - **1 de enero de 1914:** había comenzado a operar la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1914/01/01/primera-aerolinea-st-petersburg-tampa.html" style="color: #315fea; text-decoration: none;">primera aerolínea regular del mundo, la St. Petersburg–Tampa Airboat Line</a>, con un hidroavión de un solo pasajero. El C-2 aspiraba a otra escala: un avión de línea de gran capacidad.
-- **1919 (comienzos):** Lawson funda en Milwaukee la Lawson Air Line Transportation Company.
+- **Comienzos de 1919:** Lawson constituye en Wisconsin su empresa de transporte aéreo.
 - **Agosto de 1919:** se completa el C-2, que Lawson llama «airliner» («avión de línea»).
 - **27 de agosto de 1919:** el C-2 despega del aeropuerto Butler de Milwaukee en su vuelo de demostración a la costa este, con 16 pasajeros a bordo. Milwaukee registra con ello su primer vuelo comercial.
 - **13 de septiembre de 1919:** el C-2 llega a Nueva York; Lawson es noticia de portada en el *New York Times*.
 - **19 de septiembre de 1919:** el aparato llega a Washington D. C., donde varios senadores suben a bordo; la National Photo Company lo fotografía en el aeródromo de Bolling ese mismo día.
 - **1920:** Lawson emprende un trimotor mayor, el L-4, con capacidad para decenas de pasajeros y correo.
-- **Comienzos de los años veinte:** el L-4 se estrella en su primer vuelo de prueba; el proyecto de aerolínea de Lawson se desvanece y el C-2, sin compradores, deja de volar.
+- **Comienzos de los años veinte:** el L-4 sufre un accidente durante el estreno; el proyecto de aerolínea de Lawson se desvanece y el C-2, sin compradores, deja de volar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -112,9 +112,9 @@ Lawson quedó como precursor: el hombre que, antes que nadie en su país, dibuj�
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-22 07:42:46 CST  
-- **Fuentes primarias/institucionales consultadas:** Library of Congress (National Photo Company), National Air and Space Museum (Smithsonian), Milwaukee Mitchell International Airport, U.S. Centennial of Flight Commission.  
-- **Fuentes secundarias de contraste:** Wikipedia (EN), HistoryNet, The Spokesman-Review, Milwaukee Magazine.  
-- **Discrepancias resueltas:** La fecha del 27 de agosto se fija por la historia institucional del aeropuerto de Milwaukee (partida del vuelo de demostración); el primer despegue no tiene fecha unánime (el Spokesman-Review lo sitúa el 28 de agosto y otras fuentes, de forma genérica, en agosto de 1919). La capacidad se consigna en «hasta 26 pasajeros» (diseño) frente a los 16 que viajaron en la demostración. Sobre la primacía, se distingue el diseño estadounidense desde cero (C-2, primer avión de línea multimotor del país) del precedente mundial en servicio (Farman F.60 Goliath, nacido como bombardero).  
+- **Timestamp de verificación:** 2026-10-03 14:54:57 CST  
+- **Fuentes primarias/institucionales consultadas:** Library of Congress; Smithsonian; Milwaukee Mitchell International Airport; U.S. Centennial of Flight Commission.
+- **Fuentes secundarias de contraste:** Wikipedia en inglés; HistoryNet; The Spokesman-Review; Milwaukee Magazine.
+- **Discrepancias resueltas:** Se adopta el 27 de agosto para la partida demostrativa, aunque el primer despegue aparece fechado el 28 o solo en agosto; se distinguen capacidad de diseño (26) y ocupación real (16), así como la primacía estadounidense del C-2 frente al precedente mundial del Farman F.60.
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

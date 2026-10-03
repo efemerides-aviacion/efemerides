@@ -44,11 +44,11 @@ image: 1920-05-31-raid-roma-tokyo.webp
 
 ## Contexto Histórico
 
-El raid Roma-Tokyo ocurrió en el contexto de la posguerra de la Primera Guerra Mundial, cuando la aviación buscaba demostrar su capacidad para conectar continentes.
+El raid Roma-Tokyo surgió tras el conflicto mundial, cuando los aviadores buscaban probar que podían enlazar continentes.
 
 ### Entorno social
 
-La Primera Guerra Mundial (1914-1918) había demostrado el potencial militar de la aviación, pero también dejó un excedente de pilotos entrenados y aeronaves que buscaban nuevos desafíos. El período de entreguerras fue una época de grandes raids aéreos que buscaban establecer récords de distancia y conectar naciones. El raid Roma-Tokyo fue concebido por el poeta Gabriele D'Annunzio, quien ya había realizado el famoso "Vuelo sobre Viena" en 1918.
+La contienda de 1914 a 1918 probó el potencial militar del avión y dejó numerosos pilotos entrenados y máquinas disponibles para nuevos desafíos. El período de entreguerras fue una época de grandes raids aéreos que buscaban establecer récords de distancia y conectar naciones. El raid Roma-Tokyo fue concebido por el poeta Gabriele D'Annunzio, quien ya había realizado el famoso "Vuelo sobre Viena" en 1918.
 
 ### Entorno tecnológico
 
@@ -62,7 +62,7 @@ El raid fue celebrado como un símbolo del ingenio italiano. Todos los component
 
 ## Desarrollo Cronológico
 
-El raid Roma-Tokyo se desarrolló a lo largo de más de tres meses, con numerosas escalas y dificultades en cada etapa. A continuación se presenta la cronología de los hitos más importantes.
+El recorrido se prolongó durante más de tres meses y acumuló escalas, averías y accidentes.
 
 ### Preparación y salida (febrero 1920)
 
@@ -138,14 +138,14 @@ El Ansaldo SVA 9 fue el biplano utilizado por Ferrarin y Masiero en el raid Roma
 
 - **Primer raid aéreo entre Europa y Asia:** La hazaña demostró que era posible conectar continentes por aire, allanando el camino para las futuras rutas aéreas comerciales.
 - **Reconocimiento internacional:** Ferrarin fue recibido por el emperador Hirohito, quien le obsequió una espada de samurái. El gobierno japonés decretó 42 días de fiesta nacional.
-- **Legado industrial:** El raid demostró la fiabilidad de la industria aeronáutica italiana, ya que todos los componentes de los aviones eran de fabricación nacional.
+- **Legado industrial:** La expedición proyectó internacionalmente la industria aeronáutica italiana y el origen nacional de sus materiales.
 - **Inspiración cultural:** Ferrarin apareció en la película de animación *Porco Rosso* de Hayao Miyazaki, ambientada en la Italia de entreguerras. En 1970, Alitalia bautizó su segundo Boeing 747 como "Arturo Ferrarin".
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El raid Roma-Tokyo es recordado como una de las grandes epopeyas aéreas del siglo XX. Ferrarin y Masiero se convirtieron en héroes nacionales en Italia y Japón, y su hazaña sigue siendo estudiada como un ejemplo de determinación y resistencia.
+El raid Roma-Tokyo permanece entre las grandes expediciones aéreas del siglo XX. Ferrarin y Masiero se convirtieron en héroes nacionales en Italia y Japón, y su hazaña sigue siendo estudiada como un ejemplo de determinación y resistencia.
 
 - **El avión de Ferrarin:** Permaneció en Japón expuesto en el Museo Imperial de Tokio hasta su destrucción durante un bombardeo estadounidense en 1945.
 - **Reconocimiento póstumo:** Ferrarin fue condecorado con la Medalla de Oro al Valor Aeronáutico. Una base aérea en Guidonia lleva su nombre.
@@ -180,7 +180,7 @@ El raid Roma-Tokyo es recordado como una de las grandes epopeyas aéreas del sig
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Timestamp de verificación:** 2026-10-03 14:54:57 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, Panorama, La Stampa, South China Morning Post, Wikipedia italiano (Roberto Maretto)
 - **Discrepancias resueltas:** Confirmación de la fecha de llegada (31 de mayo de 1920) como fecha oficial de finalización del raid. Aclaración de la diferencia entre Ferrarin (vuelo completo) y Masiero (vuelo parcial). Verificación de las horas de vuelo (112 horas como cifra más aceptada). Incorporación de datos biográficos de Roberto Maretto.
 - **Nivel de confianza:** Alto

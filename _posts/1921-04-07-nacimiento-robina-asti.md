@@ -39,16 +39,14 @@ redirect_from:
 - **Carrera civil:** Instructora de vuelo; vicepresidenta de fondos de inversión en E.W. Axe (antes de su transición)
 - **Matrimonios:** Evangeline Diaz-Perez (1958, separación amistosa tras su transición); Norwood Patten (2004, fallecido en 2012)
 - **Hijos:** 4 (uno fallecido en la infancia)
-- **Récords Guinness (julio de 2020):** Piloto activa de mayor edad; instructora de vuelo en actividad de mayor edad
+- **Récords Guinness (julio de 2020):** dos marcas de longevidad en actividad, como piloto e instructora
 - **Activismo destacado:** Eliminación del examen físico interno obligatorio para pilotos transgénero (FAA); demanda exitosa contra el Seguro Social (Lambda Legal); fundadora de Cloud Dancers Foundation (2019)
-- **Documental:** "Flying Solo: A Transgender Widow Fights Discrimination" (2015)
-- **TEDx:** "War Stories and a Woman's Changes" (2016)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
-Robina Asti nació en una época en la que la aviación aún era una aventura para pioneros y las personas transgénero eran invisibles para la sociedad y la ley. Su vida abarcó casi un siglo de transformaciones tecnológicas y sociales.
+Cuando nació Robina Asti, la aviación conservaba un carácter pionero y las personas transgénero carecían de reconocimiento social y jurídico. Su vida abarcó casi un siglo de transformaciones tecnológicas y sociales.
 
 ### Entorno social
 Nacida en el seno de una familia modesta (su padre era boxeador peso pluma), Asti creció en Greenwich Village, un barrio de Nueva York conocido por su diversidad cultural. Desde adolescente mostró talento para la ingeniería eléctrica, reparando radios en su vecindario. La Gran Depresión y la Segunda Guerra Mundial marcaron su juventud.
@@ -93,7 +91,7 @@ La transición de Asti en 1976 ocurrió en una época de cambios sociales, pero 
 
 ## Legado
 
-Robina Asti es recordada como una pionera en dos frentes: en la aviación, como una de las pocas mujeres piloto de la Segunda Guerra Mundial y la instructora de vuelo más longeva del mundo; y en el activismo, como una defensora incansable de los derechos de las personas transgénero. Su vida demuestra que nunca es tarde para vivir con autenticidad ni para luchar por la justicia. En palabras de Asti: "No se trata del dinero, sino del acto de humanidad, que es absolutamente necesario aquí".
+Robina Asti es recordada como una pionera en dos frentes: en la aviación, por su servicio naval durante la Segunda Guerra Mundial y por su longevidad como instructora; y en el activismo, como una defensora incansable de los derechos de las personas transgénero. Su vida demuestra que nunca es tarde para vivir con autenticidad ni para luchar por la justicia. En palabras de Asti: "No se trata del dinero, sino del acto de humanidad, que es absolutamente necesario aquí".
 
 ### Discrepancias encontradas y resueltas
 
@@ -120,13 +118,13 @@ Robina Asti es recordada como una pionera en dos frentes: en la aviación, como 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Existe una discrepancia en la fecha de fallecimiento de Robina Asti. La Wikipedia en español y Find a Grave indican el 21 de marzo de 2021, mientras que la Wikipedia en inglés y portugués indican el 12 de marzo de 2021. Se ha adoptado la fecha del 21 de marzo de 2021, respaldada por el obituario de The New York Times y el registro de Find a Grave. El lugar exacto de nacimiento también varía entre Manhattan (mayoría de fuentes) y Queens (IMDb). Se adopta Manhattan.</p>
+  <p><strong>Nota aclaratoria:</strong> Existe una discrepancia en la fecha de fallecimiento de Robina Asti. La Wikipedia en español y Find a Grave sitúan el fallecimiento el día 21; las ediciones inglesa y portuguesa lo fechan el 12 de marzo de 2021. Se adopta el 21 de marzo de 2021, respaldado por el obituario de The New York Times y el registro de Find a Grave. El lugar exacto de nacimiento también varía entre Manhattan (mayoría de fuentes) y Queens (IMDb). Se adopta Manhattan.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 14:53:22 CST
+- **Timestamp de verificación:** 2026-10-03 14:54:57 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN/PT), The New York Times, NPR, ABC7, Refinery29, CBC
 - **Discrepancias resueltas:** Fecha de fallecimiento (21 de marzo vs 12 de marzo) – se adopta 21 de marzo; lugar de nacimiento (Manhattan vs Queens) – se adopta Manhattan.
 - **Nivel de confianza:** Alto

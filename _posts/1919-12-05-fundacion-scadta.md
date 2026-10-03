@@ -45,7 +45,7 @@ Los hidroaviones Junkers F-13 convirtieron el propio río Magdalena en pista de 
 
 ### Entorno cultural
 
-SCADTA se consolidó como la segunda aerolínea más antigua del mundo en operación continua, después de KLM, y Avianca celebra el 5 de diciembre de 1919 como su fecha de fundación. El centenario de 2019 reafirmó su papel de aerolínea bandera de Colombia y de pionera del transporte aéreo nacional.
+La continuidad corporativa permite a Avianca vincular su origen con la SCADTA de 1919. El centenario reafirmó en Colombia la memoria de aquella empresa como pionera del transporte aéreo nacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -91,7 +91,7 @@ Avianca celebra el 5 de diciembre de 1919 como su fecha de fundación. En 2019 c
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Timestamp de verificación:** 2026-10-03 14:54:57 CST  
 - **Fuentes primarias/institucionales consultadas:** Documentos corporativos de Avianca, artículos académicos y prensa especializada  
 - **Discrepancias resueltas:** Diferencia entre fundación de SCADTA (1919) y formación de Avianca (1940) aclarada.  
 - **Nivel de confianza:** Alto  

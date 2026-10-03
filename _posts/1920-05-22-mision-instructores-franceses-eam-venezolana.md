@@ -18,7 +18,7 @@ image: 1920-05-22-mision-instructores-franceses-eam-venezolana.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 22 de mayo de 1920, el Ministro de Guerra y Marina de Venezuela comunicó al Ministro de Relaciones Exteriores la instrucción presidencial de gestionar ante Francia la contratación de una misión de instructores aeronáuticos franceses. Esta decisión, adoptada solo cinco semanas después del decreto de creación de la Escuela de Aviación Militar (17 de abril de 1920), buscaba dotar a la naciente institución de personal técnico calificado. La misión francesa, compuesta por veteranos pilotos de la Primera Guerra Mundial, incluía un jefe piloto, instructores de vuelo, mecánicos especialistas y personal para hidroaviones. Su llegada marcó el inicio efectivo de la aviación militar en Venezuela.</p>
+<p>El 22 de mayo de 1920, el Ministro de Guerra y Marina de Venezuela comunicó al Ministro de Relaciones Exteriores la instrucción presidencial de gestionar ante Francia la contratación de una misión de instructores aeronáuticos franceses. La decisión, tomada cinco semanas después del instrumento del 17 de abril de 1920 que fundó la Escuela de Aviación Militar, buscaba dotar a la naciente institución de personal técnico calificado. La misión francesa, compuesta por veteranos pilotos de la Primera Guerra Mundial, incluía un jefe piloto, instructores de vuelo, mecánicos especialistas y personal para hidroaviones. Su llegada marcó el inicio efectivo de la aviación militar en Venezuela.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -26,7 +26,7 @@ image: 1920-05-22-mision-instructores-franceses-eam-venezolana.webp
 - **Fecha del oficio diplomático:** 22 de mayo de 1920
 - **Lugar:** Caracas, Venezuela
 - **Protagonistas:** Gobierno de Juan Vicente Gómez (presidencia ejercida por Victorino Márquez Bustillos); Ministro de Guerra y Marina; Ministro de Relaciones Exteriores
-- **Contexto normativo:** Decreto de creación de la Escuela de Aviación Militar del 17 de abril de 1920
+- **Contexto normativo:** instrumento fundacional de la escuela, emitido el 17 de abril de 1920
 - **País contratado:** Francia
 - **Composición solicitada de la misión:** 1 jefe piloto, 1 suboficial piloto, 1 suboficial piloto de hidroaviones, 1 mecánico especialista en aviación (jefe de taller), 1 mecánico montador de aviones
 - **Presupuesto inicial asignado:** 350.000 bolívares
@@ -53,10 +53,10 @@ La contratación de una misión francesa reflejaba la influencia cultural y mili
 
 - **1912:** Primeras exhibiciones aéreas en Venezuela por el aviador estadounidense Frank Boland, sin continuidad institucional.
 - **1919:** El agregado militar francés en Caracas recomienda al gobierno venezolano el desarrollo de la aviación marítima, señalando su utilidad para la vigilancia del extenso litoral venezolano.
-- **1920, 17 de abril:** El gobierno de Juan Vicente Gómez decreta la fundación de la Escuela de Aviación Militar; la sede será Maracay y el presupuesto inicial, 350.000 bolívares.
+- **17 de abril de 1920:** El gobierno dispone crear en Maracay una escuela militar de vuelo y le asigna 350.000 bolívares.
 - **1920, 22 de mayo:** El Ministro de Guerra y Marina comunica al Ministro de Relaciones Exteriores la instrucción presidencial de solicitar a Francia, por vía diplomática, la contratación de una misión de instructores aeronáuticos franceses. La misión debía incluir jefe piloto, instructores, mecánicos y personal especializado en hidroaviones.
-- **1920, 21 de junio:** Se publica el Reglamento Orgánico de la Escuela de Aviación Militar, que establece los cursos de pilotaje, mecánica, observación y fotografía aérea.
-- **1920, diciembre:** Llegan a Venezuela los primeros instructores franceses. El Coronel David López Henríquez asume la dirección de la Escuela de Aviación Militar. Los primeros alumnos venezolanos incluyen a Juan Yépez, Antonio Villegas, Francisco Leonardi, Ovilio Díaz, Julio Fortoul, Luis Rondón, Alfredo García, Jesús Paúl, Elías Sayago, Amador Nieto y Juan Lucero.
+- **21 de junio de 1920:** Se publica el reglamento orgánico del plantel, con cursos de pilotaje, mecánica, observación y fotografía aérea.
+- **1920, diciembre:** Llegan a Venezuela los primeros instructores franceses. El Coronel David López Henríquez queda al frente del plantel. Los primeros alumnos venezolanos incluyen a Juan Yépez, Antonio Villegas, Francisco Leonardi, Ovilio Díaz, Julio Fortoul, Luis Rondón, Alfredo García, Jesús Paúl, Elías Sayago, Amador Nieto y Juan Lucero.
 - **1920-1922:** La misión francesa opera en Venezuela, entrenando a los primeros pilotos militares venezolanos.
 - **1922:** Se establece la Base-Escuela de Aviación Marítima de Punta Palmita en el Lago de Valencia, dotada de hidroaviones Caudron G.4 y Farman F.40 bajo la supervisión del Alférez de Navío Robert Guérin.
 - **1923:** Algunos instructores franceses comienzan a retirarse. La aviación nacional enfrenta dificultades por la inexperiencia de los pilotos venezolanos y problemas mecánicos.
@@ -64,19 +64,9 @@ La contratación de una misión francesa reflejaba la influencia cultural y mili
 
 ### La Misión Francesa: Composición y Perfiles
 
-Gracias a fuentes documentales y fotográficas de la época, es posible identificar a varios de los integrantes de la misión francesa que sirvió en Venezuela entre 1920 y 1922:
+La nómina reúne nueve integrantes. Fernand Ponsin, Robert Guérin y Georges Leys aparecen junto con Georges Alphonse Teppe, Jean-Toussaint Fieschi, Luis Rollin, Ludovit Pouget, Fernand Cerceaux y Robert Petit. Las fuentes no asignan con igual precisión todas sus funciones.
 
-- **Robert Petit** – Piloto instructor. Veterano de la Primera Guerra Mundial. Brevetado el 19 de diciembre de 1917 en Avord. Tres citaciones, Legión de Honor, Cruz de Guerra. Posteriormente instructor en la escuela Caudron y en Orán.
-- **Ludovit Pouget** – Piloto instructor. Contratado como personal de instrucción según registros de la Escuela de Aviación Militar.
-- **Luis Rollin** – Piloto instructor. Contratado como personal de instrucción. Su nombre aparece en las nóminas de la misión francesa.
-- **Robert Guérin** – Piloto de hidroaviones (Aeronavale). Alférez de navío. Veterano de la Primera Guerra Mundial. Brevetado piloto terrestre (1917) y de hidroaviones (1918). Sirvió en las bases aeronavales de Bône (Argelia) y Platéali (Grecia). Tras su misión en Venezuela, se estableció en Caracas, se nacionalizó venezolano y fue uno de los fundadores de la aviación civil en el país.
-- **Jean-Toussaint Fieschi** – Posible jefe de la misión. Aparece como figura central en la fotografía de la misión de 1920.
-- **Georges Alphonse Teppe** – Personal técnico o instructor. Identificado en la fotografía de la misión.
-- **Fernand Cerceaux** – Personal técnico o instructor. Identificado en la fotografía de la misión.
-- **Georges Leys** – Personal técnico o instructor. Identificado en la fotografía de la misión.
-- **Fernand Ponsin** – Mecánico y observador. Segundo maestre mecánico. Veterano de la Primera Guerra Mundial (brevetado observador en 1917). Sirvió en Bône y Bizerta. Regresó a Francia tras su misión en Venezuela.
-
-Esta composición reflejaba una estrategia integral: no solo se traían pilotos instructores, sino también personal con experiencia en hidroaviones (clave para el litoral venezolano) y mecánicos especializados que podían mantener y reparar las aeronaves.
+Petit, piloto instructor brevetado en Avord en 1917, recibió tres citaciones, la Legión de Honor y la Cruz de Guerra; luego enseñó en Caudron y Orán. Pouget y Rollin fueron instructores, mientras Fieschi aparece como posible jefe. Teppe, Cerceaux y Leys cubrieron apoyo técnico o docente. Guérin, Alférez de Navío habilitado para vuelo terrestre e hidroaviones en 1917 y 1918, sirvió en Bône y Platéali; luego adoptó la nacionalidad venezolana y participó en el desarrollo de la aviación civil. Ponsin, segundo maestre mecánico y observador brevetado en 1917, sirvió en Bône y Bizerta antes de regresar a Francia. El conjunto permitía combinar enseñanza de vuelo, mantenimiento y operación marítima.
 
 ### El Rol de la Aviación Naval
 
@@ -98,11 +88,11 @@ Siguiendo esta recomendación, la misión incluyó al Alférez de Navío Robert 
 
 ## Legado
 
-La gestión iniciada el 22 de mayo de 1920 es un hito fundamental en la historia de la aviación venezolana. Sin la contratación de la misión francesa, la recién creada Escuela de Aviación Militar habría carecido del personal calificado necesario para formar a los primeros pilotos. La decisión reflejó una planificación estatal coherente: decreto de creación (abril), contratación de instructores (mayo), reglamento orgánico (junio) e instalación formal de la escuela (diciembre de 1920).
+La gestión iniciada el 22 de mayo de 1920 es un hito fundamental en la historia de la aviación venezolana. Sin la misión francesa, el nuevo plantel militar de vuelo habría carecido de personal calificado para formar a sus primeros pilotos. La decisión reflejó una planificación estatal coherente: decreto de creación (abril), contratación de instructores (mayo), reglamento orgánico (junio) e instalación formal de la escuela (diciembre de 1920).
 
 Los nombres de los instructores franceses, rescatados de archivos históricos y foros especializados, merecen ser recordados como los primeros formadores de la aviación militar venezolana. Robert Guérin, en particular, no solo cumplió su misión sino que se quedó en Venezuela, se nacionalizó y contribuyó a fundar la aviación civil en el país.
 
-Ciento seis años después, la Fuerza Aérea Venezolana (creada formalmente en 1946) honra este legado. El 22 de mayo de 1920 marca el momento en que Venezuela, consciente de su necesidad de tecnología y conocimiento, miró a Francia para construir desde cero una de las instituciones que transformaría la defensa y la conectividad del país.
+Más de un siglo después, la institución aérea autónoma constituida en 1946 conserva este legado. El 22 de mayo de 1920 marca el momento en que Venezuela, consciente de su necesidad de tecnología y conocimiento, miró a Francia para construir desde cero una de las instituciones que transformaría la defensa y la conectividad del país.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -128,8 +118,8 @@ Ciento seis años después, la Fuerza Aérea Venezolana (creada formalmente en 1
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-23 09:44:10 CST  
-- **Fuentes primarias/institucionales consultadas:** UCAB (documento académico), Forum PAGES 14-18 (archivo histórico francés), Infodefensa, Valores Patrios, Últimas Noticias
-- **Discrepancias resueltas:** Se ha aclarado la diferencia entre la fecha de la gestión diplomática (22 de mayo de 1920) y la instalación formal de la escuela (10 de diciembre de 1920). Se han cotejado las listas de integrantes de la misión francesa entre fuentes. Grafía del apellido del primer Director de la Escuela: «David López Henríquez» en el estudio de Froilán Ramos-Rodríguez (UCAB) y en la reseña histórica militar, frente a «David López Enríquez» en Wikipedia y en las páginas que de ella derivan; se adopta «Henríquez», forma que emplea la fuente documental citada en estas Referencias.
+- **Timestamp de verificación:** 2026-10-03 14:54:57 CST  
+- **Fuentes primarias/institucionales consultadas:** UCAB; Forum PAGES 14-18; Infodefensa; Valores Patrios; Últimas Noticias.
+- **Discrepancias resueltas:** Se distinguen gestión diplomática (22 de mayo) e instalación (10 de diciembre), se coteja la composición variable de la misión y se adopta «David López Henríquez» según la fuente documental.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

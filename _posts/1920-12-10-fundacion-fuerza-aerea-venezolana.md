@@ -12,7 +12,7 @@ image: 1920-12-10-fundacion-fuerza-aerea-venezolana.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1920-12-10-fundacion-fuerza-aerea-venezolana.webp" alt="Acta fundacional y avión Caudron G-3">
-  <figcaption class="post-caption">A la izquierda, el Acta o Decreto de Fundación de la Escuela de Aviación Militar; a la derecha, el Caudron G-3, entrenador de los primeros pilotos venezolanos. (Fuente: Biblioteca Nacional de Venezuela / Aviación Militar Bolivariana).</figcaption>
+  <figcaption class="post-caption">A la izquierda, el acta o decreto que fundó el plantel militar de vuelo; a la derecha, el Caudron G-3, entrenador de los primeros pilotos venezolanos. (Fuente: Biblioteca Nacional de Venezuela / Aviación Militar Bolivariana).</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -26,17 +26,17 @@ image: 1920-12-10-fundacion-fuerza-aerea-venezolana.webp
 - **Fecha:** 10 de diciembre de 1920  
 - **Lugar:** Maracay, Estado Aragua, Venezuela  
 - **Institución creada:** Escuela de Aviación Militar (origen de la Fuerza Aérea Venezolana)  
-- **Decreto fundacional:** N.º 127, firmado el 17 de abril de 1920  
+- **Antecedente jurídico:** instrumento n.º 127, suscrito en abril de 1920  
 - **Protagonistas:** Juan Vicente Gómez, Victoriano Márquez Bustillos, Florencio Gómez Núñez, Jiménez Rebolledo, Cosme Renella, Robert Petit  
 - **Aeronaves iniciales:** Aviones franceses (Caudron G-3) para instrucción y demostraciones  
 - **Resultado inmediato:** Inicio oficial y estructurado de la aviación militar venezolana  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Contexto Histórico
-En los años 20, Venezuela buscaba modernizar sus fuerzas armadas. La creación de la Escuela de Aviación Militar fue un paso estratégico, con apoyo de pilotos extranjeros y material aéreo francés que aportaron credibilidad técnica y visibilidad pública.
+Al comenzar la década de 1920, Venezuela buscaba renovar su organización militar. El establecimiento del plantel aeronáutico fue un paso estratégico, respaldado por pilotos extranjeros y material francés que aportaron credibilidad técnica y visibilidad pública.
 ### Entorno social
 
-En los años 20, el gobierno de Juan Vicente Gómez impulsó la modernización de las fuerzas armadas, y la Escuela de Aviación Militar de Maracay le dio visibilidad pública: las demostraciones de Cosme Renella llevaron el avión ante los venezolanos. La instalación formal del 10 de diciembre de 1920 marcó la entrada del país en la era de la aviación militar.
+En esa década, el gobierno de Juan Vicente Gómez promovió la renovación castrense, y el plantel aeronáutico de Maracay le dio visibilidad pública: las demostraciones de Cosme Renella llevaron el avión ante los venezolanos. La instalación formal del 10 de diciembre de 1920 marcó la entrada del país en la era de la aviación militar.
 
 ### Entorno tecnológico
 
@@ -65,7 +65,7 @@ Maracay quedó consagrada como cuna de la aviación militar venezolana, con el D
 ## Consecuencias e Impacto
 - **Militar:** Base institucional de la aviación militar venezolana.  
 - **Institucional:** Desarrollo de programas de instrucción con influencia internacional.  
-- **Social y simbólico:** Entrada formal de Venezuela en la era de la aviación militar.  
+- **Social y simbólico:** Incorporación pública del país al empleo castrense del avión.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -94,7 +94,7 @@ La fecha de instalación se reconoce como el nacimiento oficial de la Fuerza Aé
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:14:26 CST  
+- **Timestamp de verificación:** 2026-10-03 14:54:57 CST  
 - **Fuentes primarias/institucionales consultadas:** Decreto N.º 127 (Gaceta Oficial), crónicas de prensa de diciembre 1920  
 - **Discrepancias resueltas:** Diferencia entre fecha de decreto y fecha de instalación.  
 - **Nivel de confianza:** Medio–Alto  

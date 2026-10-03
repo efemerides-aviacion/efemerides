@@ -13,7 +13,7 @@ image: 1920-09-24-nacimiento-richard-bong-as-de-ases-estadounidense.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1920-09-24-nacimiento-richard-bong-as-de-ases-estadounidense.webp" alt="Retrato oficial del Mayor Richard I. Bong con la Medalla de Honor al cuello, ante una bandera estadounidense y un mapa del Pacífico, hacia diciembre de 1944">
-  <figcaption class="post-caption">Retrato oficial del Mayor Richard I. Bong con la Medalla de Honor, tomado hacia diciembre de 1944 por un fotógrafo oficial de las Fuerzas Aéreas del Ejército de los Estados Unidos (USAAF). Es la imagen exacta del protagonista. Fuente: af.mil vía <a href="https://commons.wikimedia.org/wiki/File:Richard_Bong_photo_portrait_head_and_shoulders.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>, dominio público.</figcaption>
+  <figcaption class="post-caption">Retrato oficial del Mayor Richard I. Bong con la Medalla de Honor, tomado hacia diciembre de 1944 por un fotógrafo oficial de la USAAF. Procedencia: af.mil vía <a href="https://commons.wikimedia.org/wiki/File:Richard_Bong_photo_portrait_head_and_shoulders.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>, dominio público.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -30,11 +30,11 @@ image: 1920-09-24-nacimiento-richard-bong-as-de-ases-estadounidense.webp
 - **Fecha:** 24 de septiembre de 1920
 - **Lugar de nacimiento:** Superior, Wisconsin; la familia se estableció en la granja de Poplar, Wisconsin, donde transcurrió su infancia
 - **Protagonista:** Richard Ira Bong, «Dick», primero de nueve hijos de Carl Bong, inmigrante sueco, y Dora Bryce, estadounidense de ascendencia escocesa e inglesa
-- **Formación temprana:** Poplar High School y Central High School de Superior (promoción de 1938); Superior State Teachers College, donde se inscribió en el Civilian Pilot Training Program federal y tomó clases privadas hasta que la autoridad aeronáutica de Estados Unidos le expidió la licencia de piloto privado
-- **Ingreso al servicio:** 29 de mayo de 1941, como cadete de aviación del Army Air Corps; alas de piloto y grado de segundo teniente el 19 de enero de 1942
-- **Carrera de combate:** 49th Fighter Squadron del 14th Fighter Group en el Pacífico Suroccidental; 40 victorias aéreas confirmadas, siete probables y once aviones dañados en unas 500 horas de combate, todas las victorias con el P-38 Lightning
-- **Medalla de Honor:** otorgada por los combates del 10 de octubre al 15 de noviembre de 1944 (G.O. No. 90, 8 de diciembre de 1944) y entregada por el General Douglas MacArthur en Tacloban el 12 de diciembre de 1944
-- **Muerte:** 6 de agosto de 1945, en North Hollywood (California), durante un vuelo de aceptación del P-80A 44-85048; sepultado en Poplar, Wisconsin
+- **Formación temprana:** escuelas de Poplar y Superior; estudios superiores, instrucción federal y licencia privada de piloto antes del alistamiento
+- **Ingreso al servicio:** Army Air Corps, mayo de 1941; graduación como piloto militar en enero de 1942
+- **Balance de combate:** 40 victorias confirmadas, siete probables y once aparatos dañados en unas 500 horas; todos los derribos fueron obtenidos con el P-38 Lightning
+- **Medalla de Honor:** concedida por sus acciones de octubre y noviembre de 1944; Douglas MacArthur se la impuso en Tacloban
+- **Muerte:** accidente de aceptación de un P-80A en California, el 6 de agosto de 1945; sepultura en Poplar
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -44,15 +44,15 @@ La infancia de Bong transcurrió en el Wisconsin rural de entreguerras, un paisa
 
 ### Entorno social
 
-En la granja de Poplar, el joven Bong descubrió los aviones viendo pasar los aparatos del correo aéreo que servían la residencia de verano del presidente Calvin Coolidge en Superior. La Depresión no apagó aquella vocación: en el Superior State Teachers College se inscribió en el Civilian Pilot Training Program, el plan federal que desde 1939 formó a miles de pilotos civiles, y pagó clases privadas de vuelo antes de alistarse como cadete de aviación en mayo de 1941, cuando el país todavía no había entrado en la guerra.
+En la granja de Poplar, Bong observaba los aviones del correo que atendían la residencia veraniega de Calvin Coolidge en Superior. Ya en el Superior State Teachers College ingresó al programa federal de formación civil y pagó clases privadas. Se alistó como cadete en mayo de 1941, antes de la entrada estadounidense en la guerra.
 
 ### Entorno tecnológico
 
-Bong llegó al Pacífico en el momento en que el Lockheed P-38 Lightning, el bimotor de doble botalón armado con cañón y ametralladoras en el morro, se convertía en el avión de los ases estadounidenses. Su táctica personal —acercarse al blanco hasta distancias mínimas para compensar una puntería que él mismo juzgaba mediocre— solo era posible con la potencia de fuego y la resistencia estructural del Lightning, y definió buena parte de su leyenda. Al final de su vida, esa misma trayectoria lo situó en la frontera tecnológica siguiente: la de los cazas a reacción.
+Bong llegó al Pacífico cuando el Lockheed P-38 Lightning, bimotor de doble botalón con las armas concentradas en el morro, se convertía en montura de los ases estadounidenses. Solía acercarse al blanco hasta distancias mínimas, táctica favorecida por la potencia y resistencia del avión. Su último destino lo llevó a la tecnología siguiente: los cazas a reacción.
 
 ### Entorno cultural
 
-El «as de ases» fue una figura central de la cultura de guerra estadounidense: los 40 derribos de Bong lo convirtieron en héroe de giras de bonos, en rostro de portada y en protagonista de una boda con su novia de toda la vida, Marge Vattendahl, que en 1945 acaparó la atención del país. La estela del muchacho rubio y modesto de Wisconsin, que bautizó su P-38 con el nombre de «Marge», alimentó un imaginario de héroe sencillo y cercano que su muerte prematura, el mismo día del bombardeo de Hiroshima, convirtió en mito nacional.
+Los 40 derribos hicieron del «as de ases» un héroe de giras de bonos y portadas. En 1945 su boda con Marge Vattendahl atrajo la atención nacional; el P-38 del aviador llevaba el nombre de ella. Su imagen modesta y la muerte coincidente con el bombardeo de Hiroshima consolidaron el mito.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -112,9 +112,9 @@ El «as de ases» fue una figura central de la cultura de guerra estadounidense:
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-18 08:36:44 CST  
-- **Fuentes primarias/institucionales consultadas:** U.S. Air Force (af.mil, cita oficial de la Medalla de Honor); Richard I. Bong Veterans Historical Center; National Aviation Hall of Fame; retrato oficial USAAF vía Wikimedia Commons  
-- **Fuentes secundarias de contraste:** Wikipedia (EN); Jon Guttman en HistoryNet; This Day in Aviation  
-- **Discrepancias resueltas:** (1) Lugar de nacimiento: la biografía mayoritaria (Wikipedia, Find a Grave) sitúa el nacimiento en Superior (Wisconsin) y la crianza en Poplar, mientras que la cita oficial de la Medalla de Honor consigna «Birth: Poplar, Wis.»; se adopta Superior para el nacimiento y Poplar para la infancia y el alistamiento. (2) El número de Air Medals varía entre 14 y 15 según las síntesis consultadas; se ha evitado fijar la cifra en el cuerpo del post.  
+- **Timestamp de verificación:** 2026-10-03 14:54:57 CST  
+- **Fuentes primarias/institucionales consultadas:** U.S. Air Force; Richard I. Bong Veterans Historical Center; National Aviation Hall of Fame; retrato USAAF.
+- **Fuentes secundarias de contraste:** Wikipedia en inglés; HistoryNet; This Day in Aviation.
+- **Discrepancias resueltas:** Se adopta Superior como lugar de nacimiento y Poplar para crianza y alistamiento; se omite el total de Air Medals por variar entre 14 y 15.
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”

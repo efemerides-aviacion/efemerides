@@ -18,7 +18,7 @@ image: 1921-04-15-primer-vuelo-manuel-rios.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 15 de abril de 1921, el Subteniente Manuel Ríos Hernández realizó el primer vuelo en solitario de un piloto militar venezolano desde el Campo de Aviación de Maracay. A bordo de un avión Caudron G.3, sobrevoló Maracay, Cagua, Villa de Cura y San Juan de los Morros, regresando al punto de partida en presencia de instructores franceses y autoridades militares. Este vuelo marcó el inicio formal de la aviación militar en Venezuela y consolidó a Ríos como el primer piloto venezolano en volar solo sobre el cielo nacional.</p>
+<p>El 15 de abril de 1921, el Subteniente Manuel Ríos Hernández despegó sin instructor desde el aeródromo de Maracay. Con un Caudron G.3 recorrió Cagua, Villa de Cura y San Juan de los Morros antes de regresar, bajo la observación de instructores franceses y autoridades. La salida acreditó la formación autónoma del primer alumno militar venezolano.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -31,13 +31,13 @@ image: 1921-04-15-primer-vuelo-manuel-rios.webp
 - **Aeronave:** Caudron G.3 (avión de entrenamiento y observación francés)
 - **Ruta:** Maracay – Cagua – Villa de Cura – San Juan de los Morros – Maracay
 - **Duración del vuelo:** No especificada en la libreta de vuelo
-- **Contexto:** Primer vuelo en solitario de un militar venezolano tras la creación de la Escuela de Aviación Militar
+- **Contexto:** Primer ejercicio individual de un militar venezolano después de establecerse el plantel aeronáutico
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-La aviación militar venezolana tuvo sus orígenes en las primeras décadas del siglo XX, impulsada por la necesidad de modernizar las fuerzas armadas y por el entusiasmo mundial hacia los vuelos. El gobierno venezolano, bajo la influencia de instructores franceses, creó la Escuela de Aviación Militar en 1920, estableciendo su base principal en Maracay, ciudad cercana a Caracas que se convertiría en el centro neurálgico de la aviación nacional.
+La aviación militar venezolana surgió al comenzar el siglo XX, impulsada por el propósito de renovar el ejército y por el entusiasmo mundial hacia los vuelos. El gobierno venezolano, bajo la influencia de instructores franceses, creó la Escuela de Aviación Militar en 1920, estableciendo su base principal en Maracay, ciudad cercana a Caracas que se convertiría en el centro neurálgico de la aviación nacional.
 
 ### Entorno social
 
@@ -45,7 +45,7 @@ Venezuela atravesaba entonces un período de consolidación del poder central ba
 
 ### Entorno tecnológico
 
-El Caudron G.3 era un biplano de entrenamiento francés diseñado en 1913. Tenía una estructura de madera y tela, una envergadura de 13,40 metros y estaba propulsado por un motor rotativo Le Rhône de 80 caballos de fuerza. Su velocidad máxima apenas alcanzaba los 115 km/h, pero su estabilidad y facilidad de manejo lo convirtieron en el avión estándar para la formación de pilotos en muchos países. Venezuela adquirió varias unidades de este modelo para equipar su incipiente escuela.
+El modelo francés Caudron G.3, diseñado en 1913, combinaba configuración biplana, estructura de madera y tela, 13,40 metros de envergadura y un Le Rhône rotativo de 80 hp. Su velocidad máxima apenas alcanzaba los 115 km/h, pero su estabilidad y facilidad de manejo lo convirtieron en el avión estándar para la formación de pilotos en muchos países. Venezuela adquirió varias unidades de este modelo para equipar su incipiente escuela.
 
 ### Entorno cultural
 
@@ -57,15 +57,15 @@ La figura del aviador era entonces objeto de admiración popular. Los vuelos pio
 
 - **6 de enero de 1897:** Nace Manuel Simón Ríos Hernández en Altagracia de Orituco, estado Guárico, Venezuela.
 - **1916-1920:** Ríos sirve en el Ejército venezolano, destacándose por su disciplina y capacidad.
-- **27 de enero de 1921:** Ingresa como subteniente a la Escuela de Aviación Militar de Maracay, junto con otros oficiales seleccionados.
-- **15 de abril de 1921:** Realiza su primer vuelo en solitario a bordo de un Caudron G.3, siendo el primer militar venezolano en lograrlo. El vuelo cubre las poblaciones de Cagua, Villa de Cura y San Juan de los Morros, y es presenciado por instructores franceses y autoridades locales.
-- **20 de septiembre de 1921:** Obtiene su diploma de piloto militar tras completar el vuelo Maracay-Villa de Cura-Maracay, siendo evaluado favorablemente por sus instructores.
+- **27 de enero de 1921:** Ingresa como subteniente al plantel aeronáutico de Maracay junto con otros oficiales seleccionados.
+- **15 de abril de 1921:** Despega sin acompañante en un Caudron G.3 y completa un circuito por Cagua, Villa de Cura y San Juan de los Morros ante instructores y autoridades.
+- **20 de septiembre de 1921:** Obtiene su diploma militar tras completar un circuito desde Maracay hacia Villa de Cura y de regreso, con evaluación favorable.
 - **21 de junio de 1928:** Es ascendido a capitán por sus méritos como instructor de vuelo y por su participación en raids aéreos, entre ellos el Maracay-Calabozo-Barinas-Barquisimeto realizado en ese mismo año.
 - **24 de abril de 1931:** Fallece trágicamente en un accidente aéreo en el Lago de Valencia mientras pilotaba un Farman 190. Sus restos descansan en el Cementerio de Altagracia de Orituco.
 
-### El primer vuelo en solitario
+### La salida individual
 
-El 15 de abril de 1921, el Subteniente Manuel Simón Ríos Hernández se convirtió en el primer alumno de la Escuela de Aviación Militar en volar solo. La fecha quedó registrada en su libreta de vuelo personal, un documento que ha sido conservado y que constituye la prueba primaria de este hito.
+La libreta personal de Ríos registra el 15 de abril de 1921 como la jornada en que pasó a pilotar sin instructor. Ese documento conservado constituye la evidencia primaria del hito.
 
 ### Los otros pioneros del mismo día
 
@@ -78,7 +78,7 @@ El mismo 15 de abril de 1921, el cadete Juan Yepes, alumno civil de la Escuela, 
 
 ### El avión: Caudron G.3
 
-El Caudron G.3 era un biplano de entrenamiento francés diseñado en 1913. Tenía una estructura de madera y tela, una envergadura de 13,40 metros y estaba propulsado por un motor rotativo Le Rhône de 80 caballos de fuerza. Su velocidad máxima apenas alcanzaba los 115 km/h, pero su estabilidad y facilidad de manejo lo convirtieron en el avión estándar para la formación de pilotos en muchos países.
+El modelo ofrecía estabilidad y manejo predecible, cualidades apropiadas para que los alumnos progresaran hasta el pilotaje sin instructor.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -96,23 +96,18 @@ El Caudron G.3 era un biplano de entrenamiento francés diseñado en 1913. Tení
 
 ## Legado
 
-El Capitán Manuel Ríos Hernández es recordado como el primer piloto militar venezolano en volar solo sobre el cielo de su país. Su nombre está inscrito en la historia de la aviación nacional y ha sido homenajeado de múltiples formas:
+El Capitán Manuel Ríos Hernández ocupa un lugar fundador entre los aviadores militares del país. Su memoria recibió varios homenajes:
 
-- La **Base Aérea Capitán Manuel Ríos** en El Sombrero, estado Guárico, lleva su nombre.
+- La base aérea situada en El Sombrero, estado Guárico, lleva el nombre de Capitán Manuel Ríos.
 - Una **plaza** en Altagracia de Orituco (su ciudad natal) está dedicada a su memoria.
-- La **Promoción** de oficiales egresada del Instituto el 18 de diciembre de 1943 fue bautizada con su nombre.
+- Los oficiales egresados del instituto el 18 de diciembre de 1943 adoptaron su nombre para la promoción.
 - El **"Plan de Estudio"** que rige la formación académica y militar de los futuros oficiales aviadores en la Academia Militar de la Aviación Bolivariana está denominado en su honor desde 1976.
 
-Su legado trasciende el hecho técnico: Ríos simboliza la voluntad venezolana de conquistar el cielo con medios propios, superando las limitaciones de una industria aeronáutica incipiente. Su trágica muerte en 1931, mientras entrenaba a nuevos pilotos, subrayó los riesgos de la aviación pionera y la entrega de quienes construyeron sus cimientos.
+Su legado trasciende el hecho técnico: Ríos simboliza la voluntad venezolana de conquistar el cielo con medios propios, superando las limitaciones de una industria aeronáutica incipiente. Su muerte en 1931, mientras entrenaba a nuevos pilotos, recordó el peligro asumido por quienes construyeron aquella aviación inicial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre la fecha:</strong> Múltiples fuentes secundarias reportaron erróneamente el primer vuelo en solitario del Subteniente Manuel Ríos el 14 de abril de 1921. Sin embargo, la revisión de la <strong>Libreta de Vuelo original del piloto</strong>, conservada en archivos de la aviación militar venezolana y citada por el Coronel (AV) José Luis Ochoa Vargas (egresado de la Promoción de Oficiales de la Fuerza Aérea Venezolana en julio de 1968), confirma que la fecha correcta es el <strong>15 de abril de 1921</strong>. Esta efeméride ha sido actualizada para reflejar el dato primario verificado.</p>
-<p>El mismo día (15 de abril de 1921), el cadete Juan Yepes también realizó su primer vuelo en solitario, convirtiéndose en el segundo alumno en lograrlo, según consta en la "Memoria y Cuenta del Ministerio de Guerra y Marina al 31 de diciembre de 1921".</p>
-</div>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
@@ -133,10 +128,17 @@ Su legado trasciende el hecho técnico: Ríos simboliza la voluntad venezolana d
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<div class="note-box">
+<p><strong>Nota aclaratoria:</strong> Varias fuentes secundarias fecharon la salida individual de Ríos el 14 de abril. La libreta original del aviador, conservada en archivos institucionales y referida por José Luis Ochoa Vargas —oficial graduado en julio de 1968—, confirma el día <strong>15 de abril de 1921</strong>; por ello se adopta esa fecha.</p>
+<p>La Memoria y Cuenta de Guerra y Marina correspondiente a 1921 sitúa también ese día el vuelo solo del cadete Juan Yepes, segundo alumno en completar el ejercicio.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
-- **Fuentes primarias/institucionales consultadas:** Libreta de Vuelo original del Capitán Manuel Simón Ríos Hernández, Coronel (AV) José Luis Ochoa Vargas, "Memoria y Cuenta del Ministerio de Guerra y Marina al 31 de diciembre de 1921"
-- **Discrepancias resueltas:** La fecha del primer vuelo en solitario ha sido corregida de 14 a 15 de abril de 1921, basándose en la evidencia documental de la libreta de vuelo del piloto, citada por el Coronel José Luis Ochoa Vargas. Se ha añadido información sobre el cadete Juan Yepes, quien también voló solo el mismo día.
+- **Timestamp de verificación:** 2026-10-03 14:54:57 CST  
+- **Fuentes primarias/institucionales consultadas:** Libreta de vuelo de Manuel Ríos; José Luis Ochoa Vargas; Memoria y Cuenta de Guerra y Marina de 1921.
+- **Discrepancias resueltas:** La libreta fija el ejercicio individual el 15, no el 14 de abril; la Memoria y Cuenta sitúa ese mismo día la salida posterior de Juan Yepes.
 - **Nivel de confianza:** Alto (con fuentes primarias documentales)
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
