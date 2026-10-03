@@ -11,8 +11,8 @@ image: 2009-10-09-lcross-doble-impacto-cabeus-agua-polo-sur-lunar.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/2009-10-09-lcross-doble-impacto-cabeus-agua-polo-sur-lunar.webp" alt="Ilustración de artista de la etapa Centaur y de la sonda LCROSS en su aproximación final al polo sur de la Luna">
-  <figcaption class="post-caption">Ilustración de artista distribuida por la NASA en 2008: la etapa superior Centaur, en primer plano, y la sonda LCROSS descienden hacia el lugar del impacto en el polo sur lunar. La escena es una recreación, no una fotografía del suceso del 9 de octubre de 2009. Fuente: <a href="https://commons.wikimedia.org/wiki/File:LCROSS_Centaur.jpg" style="color: #315fea; text-decoration: none;">NASA / Wikimedia Commons</a>.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/2009-10-09-lcross-doble-impacto-cabeus-agua-polo-sur-lunar.webp" alt="Ilustración de artista de la sonda LCROSS y de la etapa Centaur en su aproximación final al polo sur de la Luna">
+  <figcaption class="post-caption">Ilustración de artista distribuida por la NASA en 2008: la sonda LCROSS, en primer plano, y la etapa superior Centaur, por delante, descienden hacia el lugar del impacto en el polo sur lunar. La escena es una recreación, no una fotografía del suceso del 9 de octubre de 2009. Fuente: <a href="https://commons.wikimedia.org/wiki/File:LCROSS_Centaur.jpg" style="color: #315fea; text-decoration: none;">NASA / Wikimedia Commons</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
