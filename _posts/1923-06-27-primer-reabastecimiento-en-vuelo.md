@@ -71,19 +71,19 @@ La aviación de la década de 1920 capturaba la imaginación del público. Los r
 
 ### El día del primer reabastecimiento
 
-El 27 de junio de 1923, el cielo sobre Rockwell Field, San Diego, fue testigo de un experimento que cambiaría la historia de la aviación. El Capitán Lowell H. Smith despegó a bordo de un De Havilland DH-4B, mientras que el Teniente Virgil Hine pilotaba un DH-4B abastecedor. Un tercer avión, pilotado por el Teniente Muir S. Fairchild, actuaba como observador.
+El 27 de junio de 1923, el cielo sobre Rockwell Field, San Diego, acogió un ensayo decisivo para ampliar la autonomía aérea. El Capitán Lowell H. Smith despegó a bordo de un De Havilland DH-4B, mientras que el Teniente Virgil Hine pilotaba un DH-4B abastecedor. Un tercer avión, pilotado por el Teniente Muir S. Fairchild, actuaba como observador.
 
 El sistema de reabastecimiento consistía en una manguera de 15,24 metros (50 pies) que colgaba del avión abastecedor. El Sargento Frank R. Yungk, en el avión receptor, alcanzó la manguera, la enganchó al receptáculo de su avión y abrió la válvula. La gravedad hizo el resto: la gasolina fluyó desde el tanque del avión abastecedor hacia el tanque del avión receptor.
 
-El primer intento transfirió 75 galones de gasolina y 5 galones de aceite. Durante el vuelo, realizaron cinco transferencias exitosas, demostrando la viabilidad de la técnica. Smith y Hine no solo habían logrado el reabastecimiento en vuelo, sino que habían establecido los principios básicos del método que se usaría durante décadas: el avión receptor se coloca por debajo y detrás del abastecedor, y la gravedad o una bomba impulsan el combustible.
+El primer intento transfirió 75 galones de gasolina y 5 galones de aceite. Durante el vuelo, realizaron cinco transferencias exitosas, demostrando la viabilidad de la técnica. El ensayo fijó una geometría que perduraría durante décadas: el avión receptor se coloca por debajo y detrás del abastecedor, y la gravedad o una bomba impulsan el combustible.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-El éxito del 27 de junio de 1923 tuvo consecuencias inmediatas y de largo alcance. El 22-23 de agosto de 1923, Smith (ahora piloto receptor) y el Teniente John Richter establecieron un récord de resistencia al permanecer en el aire durante 37 horas y 16 minutos, realizando 16 reabastecimientos en vuelo. El mismo avión, pilotado por Smith y el Teniente Gordon M. Thomas, repitió la hazaña el 25-26 de agosto, volando 36 horas y 57 minutos.
+El éxito del 27 de junio de 1923 tuvo consecuencias inmediatas y de largo alcance. El 22-23 de agosto de 1923, Smith (ahora piloto receptor) y el Teniente John Richter establecieron un récord de resistencia al permanecer en el aire durante 37 horas y 16 minutos, realizando 16 reabastecimientos en vuelo. El mismo receptor, con Smith y Gordon M. Thomas, repitió la prueba el 25-26 de agosto, volando 36 horas y 57 minutos.
 
-El récord establecido por Smith y Richter no solo demostró la viabilidad del reabastecimiento en vuelo, sino que probó que un avión podía permanecer en el aire durante días si se le suministraba combustible, aceite y provisiones desde el exterior.
+La marca de Smith y Richter confirmó que el abastecimiento exterior podía prolongar el vuelo mientras llegaran combustible, aceite y provisiones.
 
 Este principio fue fundamental para el desarrollo de aviones de largo alcance y, en particular, para la aviación comercial transatlántica y transpacífica que se desarrollaría en las décadas siguientes. El vuelo en solitario de Charles Lindbergh en 1927, que cruzó el Atlántico sin escalas, fue una de las hazañas más emblemáticas que demostraron el potencial de la aviación de largo alcance. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">efeméride dedicada a Lindbergh y su histórico cruce del Atlántico</a> para más detalles.
 
@@ -91,9 +91,7 @@ Este principio fue fundamental para el desarrollo de aviones de largo alcance y,
 
 ## Legado
 
-El reabastecimiento en vuelo se convirtió en una técnica fundamental para la aviación militar y civil. Durante la Segunda Guerra Mundial, permitió a los bombarderos y cazas estadounidenses y británicos operar a larga distancia, y fue crucial para la campaña de bombardeo sobre Alemania y Japón.
-
-En la posguerra, el reabastecimiento en vuelo se convirtió en una capacidad estratégica de la Fuerza Aérea de los Estados Unidos, permitiendo la proyección de poder global. Hoy en día, todas las fuerzas aéreas modernas disponen de esta capacidad.
+En la posguerra, el reabastecimiento aéreo se convirtió en capacidad estratégica de la Fuerza Aérea estadounidense y amplió el radio de acción de bombarderos, transportes y cazas. Distintas fuerzas aéreas adoptaron después sistemas normalizados para sostener misiones de gran alcance.
 
 El método desarrollado por Smith, Hine y los ingenieros del Air Service Engineering Division (esencialmente, una manguera arrastrada por el avión abastecedor y enganchada por el receptor) siguió siendo la base del reabastecimiento en vuelo durante décadas, hasta la llegada de sistemas más avanzados como la sonda y la cesta, y el método de la pértiga (boom).
 

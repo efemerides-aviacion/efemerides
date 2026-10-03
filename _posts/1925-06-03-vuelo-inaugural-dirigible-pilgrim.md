@@ -13,14 +13,14 @@ image: 1925-06-03-vuelo-inaugural-dirigible-pilgrim.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1925-06-03-vuelo-inaugural-dirigible-pilgrim.webp" alt="Dirigible Goodyear Pilgrim en su vuelo inaugural">
-  <figcaption class="post-caption">El dirigible Goodyear Pilgrim durante su vuelo inaugural el 3 de junio de 1925, primer dirigible construido por la compañía Goodyear y precursor de su famosa flota de blimps publicitarios. Fuente: Goodyear / archivo histórico.</figcaption>
+  <figcaption class="post-caption">El dirigible Goodyear Pilgrim en la jornada de estreno del 3 de junio de 1925, primer dirigible construido por la compañía Goodyear y precursor de su famosa flota de blimps publicitarios. Fuente: Goodyear / archivo histórico.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 3 de junio de 1925, el **Pilgrim**, el primer dirigible construido por la Goodyear Tire & Rubber Company, realizó su vuelo inaugural desde su base en Akron, Ohio, pilotado por **Jack Yolton**. Diseñado por el ingeniero **Karl Arnstein**, el Pilgrim fue el primer dirigible comercial no rígido concebido para operar con **helio**, aunque sus primeros vuelos utilizaron hidrógeno por disponibilidad del gas. Menos de seis semanas después, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1925/07/17/pilgrim-primer-dirigible-comercial-con-helio.html" style="color: #315fea; text-decoration: none;">17 de julio de 1925 realizó su primer vuelo con helio</a>, paso decisivo que reforzó la seguridad del dirigible y abrió la etapa que definiría el futuro de los Goodyear Blimps. A lo largo de su vida operativa (1925-1931), el Pilgrim realizó **4.765 vuelos**, transportó **5.355 pasajeros** y acumuló **2.880 horas** de vuelo. Su góndola original se conserva en el **Museo Nacional del Aire y el Espacio del Smithsonian**.</p>
+<p>El 3 de junio de 1925 despegó por primera vez el **Pilgrim**, primer dirigible construido por Goodyear, con **Jack Yolton** a los mandos desde Akron, Ohio. Diseñado por el ingeniero **Karl Arnstein**, el Pilgrim fue el primer dirigible comercial no rígido concebido para operar con **helio**, aunque sus primeros vuelos utilizaron hidrógeno por disponibilidad del gas. Seis semanas más tarde, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1925/07/17/pilgrim-primer-dirigible-comercial-con-helio.html" style="color: #315fea; text-decoration: none;">17 de julio de 1925 estrenó el helio</a>, gas no inflamable que orientaría la flota posterior de Goodyear. Entre 1925 y 1931 acumuló **2.880 horas**, llevó **5.355 pasajeros** y completó **4.765 operaciones**. El Smithsonian conserva la góndola.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -28,8 +28,8 @@ image: 1925-06-03-vuelo-inaugural-dirigible-pilgrim.webp
 ## Datos verificados del evento
 
 - **Fecha del primer vuelo:** 3 de junio de 1925
-- **Lugar:** Akron, Ohio, Estados Unidos
-- **Aeronave:** Goodyear Pilgrim (dirigible no rígido / blimp)
+- **Lugar:** instalaciones de Goodyear en Akron (Ohio)
+- **Aeronave:** Pilgrim, dirigible no rígido de Goodyear
 - **Piloto:** Jack Yolton
 - **Diseñador:** Karl Arnstein (ingeniero jefe de Goodyear)
 - **Longitud:** 32,9 m (108 pies)
@@ -37,17 +37,17 @@ image: 1925-06-03-vuelo-inaugural-dirigible-pilgrim.webp
 - **Volumen:** 1.980 m³ (70.000 pies cúbicos)
 - **Gas de elevación:** Diseñado para helio; primeros vuelos con hidrógeno
 - **Capacidad de pasajeros:** 2 (piloto + 1 pasajero en la góndola original)
-- **Operaciones totales (1925-1931):** 4.765 vuelos, 5.355 pasajeros, 2.880 horas de vuelo
+- **Actividad entre 1925 y 1931:** 2.880 horas; 4.765 operaciones; 5.355 pasajeros
 - **Bautizo:** 18 de julio de 1925 (por la esposa de P. W. Litchfield, presidente de Goodyear)
 - **Primer inflado con helio:** 17 de julio de 1925
 - **Retiro:** 1931 (reemplazado por el blimp "Defender")
-- **Estado actual:** La góndola original se conserva en el Smithsonian National Air and Space Museum
+- **Conservación:** góndola depositada en la colección aeronáutica del Smithsonian
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-El vuelo del Pilgrim ocurrió en un momento de expansión de la industria de los dirigibles en Estados Unidos, impulsada por la disponibilidad de helio y el interés comercial en la publicidad aérea.
+El Pilgrim apareció cuando el helio y la publicidad aérea abrían un mercado estadounidense para dirigibles comerciales.
 
 ### Entorno social
 
@@ -58,7 +58,7 @@ La década de 1920 fue testigo del auge de la aviación comercial y la publicida
 El Pilgrim fue diseñado por **Karl Arnstein**, un ingeniero aeronáutico checo-estadounidense que había trabajado en la construcción de dirigibles rígidos (zeppelines) en Alemania antes de emigrar a Estados Unidos. Arnstein incorporó varias innovaciones en el Pilgrim:
 
 - **Góndola con cables internos:** A diferencia de la suspensión exterior convencional, los cables de suspensión de la góndola estaban alojados internamente, reduciendo la resistencia aerodinámica.
-- **Rueda de aterrizaje:** En lugar de los sacos amortiguadores utilizados en dirigibles anteriores, el Pilgrim incorporó una rueda de aterrizaje, facilitando las operaciones en tierra.
+- **Rueda de aterrizaje:** Sustituyó los apoyos amortiguadores tradicionales y facilitó las maniobras en tierra.
 - **Diseño para helio:** Fue el primer dirigible comercial diseñado específicamente para usar helio como gas de elevación (no inflamable, a diferencia del hidrógeno), aunque la escasez inicial de helio obligó a usar hidrógeno en sus primeros vuelos.
 
 ### Entorno cultural
@@ -69,12 +69,12 @@ El Pilgrim se convirtió en un icono de la cultura estadounidense. Aparecía en 
 
 ## Desarrollo Cronológico
 
-- **1910s:** Goodyear comienza a experimentar con globos y dirigibles, colaborando con el ejército estadounidense durante la Primera Guerra Mundial.
+- **1910s:** Goodyear experimenta con globos y dirigibles y suministra material aerostático durante la guerra mundial.
 - **1924:** Goodyear decide construir su propio dirigible comercial para publicidad y relaciones públicas. El diseño se encarga a Karl Arnstein.
 - **Finales de mayo de 1925:** Se completa la construcción del Pilgrim en la planta de Goodyear en Akron, Ohio.
 - **3 de junio de 1925, aproximadamente 18:00:** Primer vuelo del Pilgrim, pilotado por Jack Yolton. El vuelo dura aproximadamente 20 minutos y alcanza una altitud de 300 metros (1.000 pies).
-- **17 de julio de 1925:** El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1925/07/17/pilgrim-primer-dirigible-comercial-con-helio.html" style="color: #315fea; text-decoration: none;">Pilgrim realiza su primer vuelo con helio</a>, en sustitución del hidrógeno utilizado durante su etapa inicial.
-- **18 de julio de 1925:** El Pilgrim es bautizado oficialmente en una ceremonia pública. La madrina es la esposa de P. W. Litchfield, presidente de Goodyear.
+- **17 de julio de 1925:** El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1925/07/17/pilgrim-primer-dirigible-comercial-con-helio.html" style="color: #315fea; text-decoration: none;">Pilgrim vuela ya inflado con helio</a> y abandona el hidrógeno de la etapa inicial.
+- **18 de julio de 1925:** Una ceremonia pública formaliza el bautizo al día siguiente.
 - **1925-1931:** El Pilgrim opera como embajador aéreo de Goodyear, participando en desfiles, eventos deportivos y vuelos promocionales en todo Estados Unidos.
 - **1931:** El Pilgrim es retirado del servicio, siendo reemplazado por un dirigible más grande y moderno, el "Defender".
 - **1931 en adelante:** La góndola del Pilgrim es donada al Smithsonian Institution, donde se exhibe en el Museo Nacional del Aire y el Espacio.
@@ -90,18 +90,18 @@ El Pilgrim se convirtió en un icono de la cultura estadounidense. Aparecía en 
 - **Hélice:** Una hélice de madera de dos palas
 - **Velocidad máxima:** aproximadamente 65 km/h (40 mph)
 - **Góndola:** Cerrada, con capacidad para piloto y un pasajero; fabricada con tubos de acero y tela.
-- **Peso vacío (aproximado):** 1.360 kg (3.000 lb)
-- **Altura de la góndola (incluyendo rueda):** 3,2 m (10,5 pies)
+- **Peso vacío aproximado:** 3.000 lb (1.360 kg)
+- **Góndola, altura con rueda:** 3,2 m (10,5 pies)
 - **Ancho de la góndola:** 1,5 m (5 pies)
 
 ### La Góndola del Pilgrim en el Smithsonian
 
-La góndola del Pilgrim es una de las piezas más emblemáticas de la colección de aeronáutica temprana del Smithsonian. Se exhibe en el **Museo Nacional del Aire y el Espacio** en Washington D.C. La góndola conserva su configuración original, con la distintiva rueda de aterrizaje y la cabina cerrada.
+El Smithsonian preserva la góndola como pieza de aeronáutica temprana. Mantiene la cabina cerrada y la rueda que distinguió al diseño.
 
 - **Número de inventario:** A19330024000 
 - **Material:** Tubos de acero recubiertos de tela
 - **Dimensiones:** 3,2 m de alto, 1,5 m de ancho
-- **Característica distintiva:** La rueda de aterrizaje, que reemplazó a los sacos amortiguadores utilizados en dirigibles anteriores.
+- **Característica distintiva:** rueda inferior en vez de los sacos de apoyo de diseños anteriores.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -116,7 +116,7 @@ La góndola del Pilgrim es una de las piezas más emblemáticas de la colección
 
 ## Legado
 
-El Pilgrim es recordado como el "abuelo" de todos los Goodyear Blimps. Su vuelo inaugural el 3 de junio de 1925 inició una tradición que perdura hasta hoy. La marca Goodyear ha operado más de 20 dirigibles a lo largo de su historia, desde el Pilgrim hasta el actual Goodyear Blimp (modelo Zeppelin NT). El Pilgrim, aunque modesto en tamaño y prestaciones, estableció los estándares de seguridad, innovación y espíritu público que caracterizan a la compañía.
+El Pilgrim es recordado como el "abuelo" de todos los Goodyear Blimps. Su primer despegue, el 3 de junio de 1925, inició una tradición que perdura hasta hoy. La marca Goodyear ha operado más de 20 dirigibles a lo largo de su historia, desde el Pilgrim hasta el actual Goodyear Blimp (modelo Zeppelin NT). El Pilgrim, aunque modesto en tamaño y prestaciones, estableció los estándares de seguridad, innovación y espíritu público que caracterizan a la compañía.
 
 La góndola del Pilgrim, en el Smithsonian, es un testimonio de la era dorada de los dirigibles y de la visión de Goodyear de utilizar la tecnología aeronáutica para conectar con el público.
 
@@ -137,11 +137,7 @@ La góndola del Pilgrim, en el Smithsonian, es un testimonio de la era dorada de
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Notas aclaratorias:</strong></p>
-  <p><strong>1. ¿Por qué usó hidrógeno en lugar de helio?</strong> El Pilgrim fue diseñado para usar helio, un gas noble no inflamable, pero el helio era escaso y caro en 1925 (la principal fuente era el yacimiento de gas natural de Dexter, Kansas). Los primeros vuelos se realizaron con hidrógeno, más económico y disponible, aunque inflamable. El 17 de julio de 1925, el Pilgrim fue inflado por primera vez con helio.</p>
-  <p><strong>2. El "Pilgrim" y los Goodyear Blimps actuales:</strong> El Pilgrim fue el primero de una larga serie de dirigibles Goodyear. Los modelos actuales (Zeppelin NT) son dirigibles semirrígidos, mucho más grandes y sofisticados, pero mantienen la misma función publicitaria y de relaciones públicas que estableció el Pilgrim.</p>
-  <p><strong>3. ¿Dónde se exhibe el Pilgrim?</strong> La góndola original del Pilgrim se encuentra en el Museo Nacional del Aire y el Espacio del Smithsonian en Washington D.C. (National Mall). El resto del dirigible (la envoltura) fue desechado después de su retiro en 1931.</p>
-  <p><strong>4. Karl Arnstein:</strong> Arnstein fue un pionero en el diseño de dirigibles. Antes de trabajar en Goodyear, había participado en la construcción de los famosos zeppelines alemanes (incluyendo el LZ 126, que se convirtió en el USS Los Angeles de la Armada estadounidense). Su experiencia fue fundamental para el éxito del Pilgrim y de los dirigibles posteriores de Goodyear.</p>
+  <p><strong>Notas aclaratorias:</strong> El aparato nació para helio, pero comenzó con hidrógeno por coste y disponibilidad; el cambio se efectuó el 17 de julio de 1925. Los Goodyear actuales son Zeppelin NT semirrígidos, aunque conservan la función pública iniciada por el Pilgrim. El Smithsonian guarda únicamente la góndola original; la envoltura fue desechada tras el retiro. Karl Arnstein había trabajado en dirigibles alemanes, incluido el LZ 126, antes de incorporarse a Goodyear.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

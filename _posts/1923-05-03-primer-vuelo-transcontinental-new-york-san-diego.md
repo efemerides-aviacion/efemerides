@@ -27,8 +27,8 @@ image: 1923-05-03-primer-vuelo-transcontinental-new-york-san-diego.webp
 ## Datos verificados del evento
 
 - **Fecha de llegada:** 3 de mayo de 1923 (despegue el 2 de mayo a las 12:30‑12:36 p.m.)
-- **Lugar de salida:** Roosevelt Field, Long Island, Nueva York
-- **Lugar de llegada:** Rockwell Field, San Diego, California
+- **Punto inicial:** el aeródromo Roosevelt, situado en Long Island, estado de Nueva York
+- **Destino:** Rockwell Field, San Diego (California)
 - **Distancia:** 2.470‑2.520 millas (3.976‑4.055 km)
 - **Duración:** 26 horas, 50 minutos, 38.6 segundos
 - **Velocidad media:** 93 mph (150 km/h)
@@ -54,91 +54,52 @@ image: 1923-05-03-primer-vuelo-transcontinental-new-york-san-diego.webp
 
 ## Contexto Histórico
 
-En la década de 1920, apenas 20 años después del primer vuelo de los hermanos Wright, la aviación aún estaba en su infancia. Los aviones eran estructuras frágiles de madera, tela y alambre, propulsados por motores de fiabilidad dudosa. No existían sistemas de navegación modernos, ni comunicaciones por radio, ni mapas meteorológicos fiables. En este contexto, la idea de volar sin escalas de costa a costa parecía casi una locura.
+Dos décadas después de los primeros vuelos controlados, cruzar Estados Unidos sin escala seguía exigiendo una máquina cargada al límite, navegación visual y más de un día de resistencia continua.
 
 ### Entorno social
 
-La Primera Guerra Mundial había terminado hacía cinco años, y Estados Unidos emergía como una potencia económica y tecnológica. El público estaba fascinado por la aviación, y los pilotos eran vistos como héroes modernos. El vuelo de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Lindbergh</a> aún estaba cuatro años en el futuro (1927), pero la carrera por establecer récords de distancia y resistencia ya estaba en marcha. El Servicio Aéreo del Ejército apoyaba esta empresa para demostrar el potencial militar y comercial de la aviación.
+Estados Unidos salía de la Primera Guerra Mundial como potencia industrial y el público seguía los récords aéreos como demostraciones de progreso. El Servicio Aéreo respaldó el proyecto para exhibir utilidad militar y comercial; el cruce de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Lindbergh</a> aún quedaba cuatro años adelante.
 
 ### Entorno tecnológico
 
-El Fokker T-2 era un monoplano de transporte diseñado originalmente para 8‑10 pasajeros. Para la travesía, fue modificado en McCook Field, Dayton, Ohio, con tanques de combustible adicionales que aumentaron su capacidad total a 725 galones (410 en el ala, 185 en la cabina, más el estándar de 130). El peso al despegue alcanzó las 10.850 libras (4.932 kg), llevando el avión al límite de sus capacidades. Los pilotos disponían de un juego de controles en la cabina para turnarse, pero solo el piloto del asiento delantero podía ver hacia dónde iban.
+El transporte Fokker recibió 725 galones de combustible: 410 en el ala, 185 en la cabina y 130 del sistema original. Con 4.932 kg al despegue, solo el puesto delantero tenía visibilidad; un segundo mando en la cabina permitía alternar pilotos.
 
 ### Entorno cultural
 
-El vuelo fue cubierto por la prensa de todo el país. Los periódicos documentaron los avistamientos del T-2 sobre ciudades como Altoona (Pensilvania), Wheeling (Virginia Occidental), Indianápolis y Jefferson City (Misuri). A su llegada a San Diego, las sirenas de fábricas, barcos y embarcaciones navales sonaron en celebración, y multitudes vitorearon a los dos aviadores.
+Los avistamientos sobre Pensilvania, Virginia Occidental, Indiana y Misuri alimentaron la cobertura periodística. En San Diego, sirenas y multitudes celebraron una travesía que reducía el continente a poco más de un día.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **1911:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1879/01/12/nacimiento-calbraith-perry-rodgers.html" style="color: #315fea; text-decoration: none;">Calbraith Perry Rodgers</a> realiza el primer vuelo transcontinental (con escalas) en 49 días.
-- **1922:** Primer intento fallido de Macready y Kelly (de costa oeste a este, abortado por niebla en las montañas).
-- **1922:** Segundo intento fallido (sobre Indianápolis, el motor se caló por una grieta en la camisa de agua).
-- **22‑23 de abril de 1923:** Macready y Kelly establecen un récord mundial de resistencia de 36 horas sobre McCook Field.
-- **2 de mayo de 1923, 12:30‑12:36 p.m.:** Despegue de Roosevelt Field, Long Island.
-- **3 de mayo de 1923, 12:26 p.m. (hora del Pacífico):** Aterrizaje en Rockwell Field, San Diego.
-- **1923:** Macready y Kelly reciben el Mackay Trophy por su hazaña.
+- **1911:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1879/01/12/nacimiento-calbraith-perry-rodgers.html" style="color: #315fea; text-decoration: none;">Calbraith Perry Rodgers</a> completa el primer cruce transcontinental con escalas, en 49 días.
+- **1922:** Macready y Kelly abortan un intento oeste-este por niebla; otro termina sobre Indianápolis al fallar la camisa de agua del motor.
+- **22-23 de abril de 1923:** establecen 36 horas de resistencia sobre McCook Field.
+- **2 de mayo, 12:30-12:36:** salen de Roosevelt Field. El T-2 utiliza toda la pista y se sostiene apenas sobre el terreno hasta consumir combustible.
+- **Noche del 2 al 3:** atraviesan lluvia y tormentas. Se orientan por brújula, estima, vías férreas y referencias terrestres, sin radio ni información meteorológica en tiempo real.
+- **3 de mayo, 12:26 del Pacífico:** aterrizan en Rockwell Field tras 26 h 50 min 38,6 s; quedan 46 galones, cerca de una hora de autonomía.
+- **1923:** reciben el Mackay Trophy.
 
-### El vuelo: detalles humanos
+El ruido del Liberty impedía hablar. Los aviadores se enviaban notas mediante un cordel y avisaban moviendo la palanca entre las rodillas del compañero. Para relevarse, uno asumía los mandos traseros mientras el otro se arrastraba por un paso estrecho hacia el puesto delantero.
 
-El vuelo de Macready y Kelly no fue un paseo triunfal. Fue una lucha constante contra el peso, el clima, el ruido y la fatiga.
-
-### Un despegue peligroso
-
-El T-2, cargado hasta el límite con 725 galones de combustible, pesaba 4.932 kg al despegue. Al iniciar la carrera en la pista de Roosevelt Field, el avión se negaba a elevarse. Llegó al final de la pista de una milla de largo sin haber despegado, enfrentándose a un barranco de 6 metros de profundidad. Fue solo al llegar al borde que el T-2 logró volverse aerotransportado, ganando altura lentamente y rozando los hangares del campo adyacente.
-
-### La lucha por la altitud
-
-Durante las primeras horas, el avión apenas podía mantener el vuelo a nivel de las copas de los árboles. Los pilotos volaron peligrosamente bajos, esquivando cables de telégrafo y chimeneas, hasta que el consumo de combustible aligeró el avión lo suficiente como para ganar altura. A lo largo de la noche, atravesaron tormentas y lluvias, con una visibilidad mínima.
-
-### La comunicación por notas
-
-El motor Liberty V-12, montado justo delante de la cabina abierta del piloto, producía un ruido ensordecedor que hacía imposible cualquier conversación. Para comunicarse, los pilotos idearon un sistema ingenioso: cuando el piloto en el asiento delantero sentía que la palanca de control se movía entre sus rodillas, sabía que debía buscar una nota atada a un cordel que llegaba desde la cabina trasera.
-
-### El cambio de puestos: arrastrándose por un túnel
-
-El T-2 era originalmente un avión monoplaza (el piloto se sentaba a la izquierda del motor). Para esta misión, se instalaron controles en la cabina trasera (donde normalmente viajaban los pasajeros). Durante el vuelo, los dos tenientes se turnaban al mando, pero el cambio de puestos implicaba que el piloto que iba a tomar los controles debía arrastrarse a través de un angosto túnel desde la cabina trasera hasta el puesto delantero, ¡en pleno vuelo y con el avión sin piloto momentáneamente!
-
-### La navegación primitiva
-
-Sin radio, sin ayudas terrestres, sin mapas meteorológicos, los pilotos se guiaban mediante navegación por estima (dead reckoning): calculaban su posición a partir de puntos de referencia fijos en el suelo, complementando con una simple brújula magnética y mapas de ferrocarril. Dorothy Cochrane, curadora del Smithsonian, describió la hazaña como "una serie de pasos incrementales que abrieron el mundo para todos, condensando el tiempo, el espacio y la distancia".
-
-### El combustible justo
-
-Al aterrizar en Rockwell Field, San Diego, tras 26 horas y 50 minutos, el T-2 tenía solo 46 galones de combustible en sus tanques (aproximadamente una hora de autonomía). Si el clima empeoraba o los vientos se volvían contrarios, no habrían llegado.
-
-### Los pilotos
-
-John A. Macready nació en San Diego en 1887 y fue uno de los pilotos más notables de la historia de la aviación militar estadounidense. Ostenta el récord de ser el único piloto en ganar el Mackay Trophy en tres ocasiones (1921, 1922 y 1923). Macready fue el primer piloto en realizar un salto en paracaídas nocturno de emergencia, el segundo en volar un avión con cabina presurizada y el primero en realizar fumigación aérea de cultivos.
-
-Oakley G. Kelly nació en Pensilvania en 1891. Junto con el Teniente Muir S. Fairchild, tuvo la idea original del vuelo transcontinental sin escalas y desempeñó un papel crucial en la modificación del Fokker T-2. Ambos pilotos se retiraron como coroneles, y Macready fue incluido en el Salón de la Fama de la Aviación Nacional.
+Macready, triple ganador del Mackay Trophy, había experimentado con vuelos de altura y aplicaciones agrícolas; Kelly participó con Muir S. Fairchild en la idea y en la preparación del aparato. Ambos terminaron sus carreras como coroneles.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Avance de la aviación comercial:** El vuelo demostró que era posible atravesar el continente en menos de 27 horas, un tiempo récord para la época, abriendo la puerta al desarrollo de rutas aéreas comerciales.
-- **Reclutamiento y prestigio militar:** La hazaña elevó la moral del Servicio Aéreo del Ejército y demostró su capacidad técnica al público estadounidense.
-- **Inspiración para Lindbergh:** Charles Lindbergh, que cuatro años después volaría de Nueva York a París, siguió de cerca los intentos de Macready y Kelly. El vuelo transcontinental de 1923 demostró que los vuelos de larga distancia eran técnicamente factibles.
-- **El T-2 en la Smithsonian:** El Fokker T-2 original fue donado a la Smithsonian Institution y estuvo expuesto durante décadas; actualmente se encuentra en depósito.
+- **Capacidad técnica:** el vuelo probó que una aeronave podía unir ambas costas en menos de 27 horas sin repostar.
+- **Prestigio militar:** dio visibilidad al trabajo de ingeniería y planificación del Servicio Aéreo.
+- **Transporte futuro:** ofreció una referencia para rutas de gran alcance y para los récords que siguieron.
+- **Preservación:** el Fokker T-2 ingresó en la colección del Smithsonian.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El 3 de mayo de 1923, cuando Macready aterrizó el T-2 en Rockwell Field, la aviación dio un salto cualitativo. Lo que comenzó como una apuesta de dos tenientes del Ejército se convirtió en un hito que demostró que el cielo no tenía fronteras internas.
+El cruce mostró al público y a los inversores una nueva escala de tiempo y distancia. El T-2 quedó pronto superado, pero ninguna travesía estadounidense mejoró su marca hasta que Howard Hughes bajó de diez horas en 1936; el servicio comercial directo entre ambas costas llegó en 1953.
 
-Los historiadores coinciden en que este vuelo fue fundamental para abrir la imaginación del público y de los inversores a la posibilidad de los viajes aéreos comerciales. En palabras de Joshua Stoff, curador del Museo de la Aviación Cradle of Aviation, "antes de este vuelo no había aerolíneas, no había aviones de línea. Este es el vuelo que hizo que la gente comenzara a pensar en las posibilidades".
-
-El Fokker T-2 envejeció rápidamente, superado por los avances tecnológicos de la década de 1930. Sin embargo, su lugar en la historia está asegurado. El récord de Macready y Kelly no fue superado en velocidad hasta 1936, cuando Howard Hughes realizó la travesía en menos de 10 horas, y las aerolíneas no ofrecieron vuelos comerciales sin escalas de costa a costa hasta 1953. Pero el vuelo del T-2 abrió el camino. Como señaló Dorothy Cochrane, del Smithsonian: "La gente había estado atrapada cerca de su hogar durante siglos, la mayoría viviendo toda su vida a menos de 80 km de donde nacieron. Este vuelo fue uno de los pasos incrementales que abrieron el mundo para todos".
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre la distancia recorrida:</strong> Las fuentes presentan una ligera discrepancia en la distancia exacta. El Smithsonian indica 2.470 millas, mientras que el Museo Nacional de la USAF indica 2.520 millas. Ambas cifras son correctas dependiendo de la ruta específica y el método de medición (distancia en línea recta vs. distancia real volada).</p>
-<p><strong>Sobre el nombre del avión:</strong> El avión fue fabricado originalmente como Fokker F.IV, número de serie 5142, comprado por el Servicio Aéreo del Ejército en junio de 1922 y redesignado como Transporte Aéreo Número 2 (Air Service Transport 2, o T-2). El T-2 que realizó el vuelo histórico es el mismo que se conserva en la Smithsonian.</p>
-</div>
+La aeronave se conserva en el Smithsonian. Su valor histórico reside en haber unido modificaciones de combustible, navegación elemental y resistencia humana en una misión que transformó una ruta de semanas en 26 horas y 50 minutos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -153,6 +114,12 @@ El Fokker T-2 envejeció rápidamente, superado por los avances tecnológicos de
     <li><a href="https://www.airandspaceforces.com/this-day-in-airpower/may-02-1923/" style="color: #315fea; text-decoration: none;">Air & Space Forces Magazine - This Day in Airpower (May 2, 1923)</a></li>
     <li><a href="https://paperspast.natlib.govt.nz/newspapers/TS19230505.2.41" style="color: #315fea; text-decoration: none;">Papers Past (Nueva Zelanda) - Non-Stop Flight (5 de mayo de 1923)</a></li>
   </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+<div class="note-box">
+<p><strong>Precisiones documentales:</strong> El Smithsonian publica 2.470 millas y la ficha de la USAF, 2.520; la diferencia responde al método de medición y se mantiene como rango. El aparato nació como Fokker F.IV n.º 5142, fue adquirido en 1922 y redesignado Air Service Transport 2. Es el ejemplar preservado por el Smithsonian.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

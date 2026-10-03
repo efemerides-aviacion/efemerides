@@ -34,7 +34,7 @@ image: 1923-05-05-nacimiento-nikolay-vasilievich-sutyagin.webp
 - **Aeronave emblemática:** Mikoyan-Gurevich MiG-15
 - **Victorias confirmadas (fuentes rusas):** 22 derribos
 - **Controversia:** Fuentes occidentales cuestionan la cifra, sugiriendo un número inferior
-- **Condecoraciones:** Héroe de la Unión Soviética (Estrella de Oro), Orden de Lenin, tres Órdenes de la Bandera Roja, Orden de la Guerra Patria de 1.er grado, Orden de la Bandera Roja del Trabajo, Orden de la Estrella Roja
+- **Condecoraciones:** Héroe de la Unión Soviética (Estrella de Oro), Orden de Lenin, tres Órdenes de la Bandera Roja, Orden de la Guerra Patria (primera clase), Orden de la Bandera Roja del Trabajo, Orden de la Estrella Roja
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -58,100 +58,34 @@ Héroe secreto —combatió como «Su Yan Gin» y su Estrella de Oro de 1951 ocu
 
 ## Desarrollo Cronológico
 
-La posguerra supuso un cambio radical para la aviación soviética. La introducción de los cazas a reacción (MiG-9, Yak-15, y posteriormente el MiG-15) obligó a una selección estricta de pilotos, exigiendo condiciones físicas excepcionales. Sutyagin superó los rigurosos exámenes médicos y se dedicó al aprendizaje de los nuevos cazas a reacción, preparándose para un conflicto que, aunque desconocido, se consideraba inevitable.
+- **1934-1941:** vive en Gorki, combina trabajo y estudios, entra en el aeroclub en 1939 y es reclutado en marzo de 1941. La escuela de Chernígov se evacua ante la invasión alemana.
+- **1942-1945:** sirve como piloto de caza en el Lejano Oriente y realiza trece salidas contra aeródromos japoneses durante la campaña de 1945.
+- **Posguerra:** pasa de los cazas de hélice a MiG-9, Yak-15 y MiG-15.
+- **Marzo de 1951:** el 17.º Regimiento de la 303.ª División se desplaza en secreto a China para apoyar a norcoreanos y chinos bajo insignias ajenas.
+- **14 de junio:** cumple su primera misión en Corea; el **19 de junio** obtiene la primera victoria sobre un F-86, después de seguirlo en picado y disparar a corta distancia.
+- **10 de octubre:** recibe el título de Héroe de la Unión Soviética por sus siete victorias iniciales.
+- **Junio de 1951-febrero de 1952:** suma 149 salidas, 66 combates y 22 victorias registradas por el sistema soviético. Las fuentes suelen distribuirlas entre F-86, F-84 y Gloster Meteor. No resulta herido ni derribado.
+- **Enero de 1952:** se propone una segunda Estrella de Oro, que no es concedida.
+- **1956-1978:** se gradúa en Monino y, en 1964, en la academia del Estado Mayor; dirige el centro superior de aviación militar de Járkov entre 1968 y 1970, sirve como asesor en Vietnam y Alemania Oriental y se retira como mayor general.
+- **12 de noviembre de 1986:** fallece en Kiev.
 
-### La Guerra de Corea: el despliegue secreto
-
-El 25 de junio de 1950 estalló la Guerra de Corea. Aunque la Unión Soviética negó oficialmente su participación, Stalin autorizó el despliegue de unidades aéreas soviéticas para apoyar a las fuerzas norcoreanas y chinas, con la condición de que los pilotos volaran bajo insignias chinas o norcoreanas y que no pudieran ser capturados bajo ninguna circunstancia.
-
-### La llegada a la península
-
-En marzo de 1951, Sutyagin, como parte del 17º Regimiento de Aviación de Caza de la 303ª División de Aviación de Caza, fue trasladado en secreto a China y luego a la base aérea de Mukden (Shenyang), cerca de la frontera con Corea.
-
-### El primer combate
-
-Sutyagin realizó su primera misión de combate el 14 de junio de 1951. El 19 de junio de 1951, abrió su cuenta de combate al derribar un F-86 Sabre estadounidense, el caza más avanzado de la USAF en ese momento. La descripción de esa primera victoria, conservada en los archivos, muestra a un piloto metódico y audaz:
-
-> “Me desvié de la formación y noté que un par de F-86 se acercaba a nuestra cola. Ataqué. Comencé un giro de combate a izquierdas, solté los frenos de aire y reduje la potencia, y luego me puse tras los Sabre. Estaban picando para escapar. Los seguí en picado. Tras salir del picado, la pareja enemiga giró a la derecha, luego a la izquierda y comenzó a ganar altitud. Eso redujo la distancia entre nosotros. Cuando la distancia se redujo a 150-200 metros, abrí fuego contra el Sabre enemigo y lo derribé.”
-
-### El rey del MiG
-
-Entre junio de 1951 y febrero de 1952, Sutyagin realizó 149 misiones de combate, participó en 66 combates aéreos y derribó oficialmente 22 aviones enemigos, la mayoría de ellos F-86 Sabre (20 según la mayoría de las fuentes), además de dos F-84 Thunderjets y dos Gloster Meteor australianos. Nunca fue herido ni derribado.
-
-### El héroe secreto
-
-El 10 de octubre de 1951, Sutyagin recibió el título de Héroe de la Unión Soviética (medalla Estrella de Oro) por sus primeros 7 derribos. Sin embargo, su identidad y sus logros permanecieron ocultos durante décadas, ya que la URSS negaba oficialmente su participación en la guerra. Sutyagin combatió bajo el nombre ficticio “Su Yan Gin” para ocultar su verdadera identidad.
-
-### Desempeño y Récord
-
-El desempeño de Nikolai Sutyagin durante la Guerra de Corea fue excepcional, incluso para los estándares de los ases soviéticos. Sus 149 misiones de combate y 66 combates aéreos en menos de nueve meses de despliegue le permitieron acumular un récord de 22 victorias confirmadas, la cifra más alta de todo el conflicto según los archivos rusos.
-
-### Los derribos
-
-Según los archivos desclasificados, Sutyagin derribó oficialmente 22 aeronaves enemigas durante la Guerra de Corea. La mayoría fueron cazas F-86 Sabre estadounidenses, complementados con algunos F-84 Thunderjet y Gloster Meteor de la Real Fuerza Aérea Australiana.
-
-### Sistema de confirmación
-
-El sistema soviético de confirmación de victorias era estricto: dependía de testigos (otros pilotos) y de un elaborado sistema de equipos de búsqueda en tierra que debía localizar los restos de las aeronaves derribadas sobre territorio norcoreano o chino. Sutyagin reclamó 22 victorias y todas fueron confirmadas por este sistema.
-
-### Los honores tardíos
-
-A pesar de su hazaña, Sutyagin no fue condecorado por segunda vez con la Estrella de Oro. En enero de 1952 fue propuesto para recibir una segunda medalla de Héroe, pero la solicitud fue denegada, presumiblemente por el alto mando soviético para no llamar la atención sobre el papel de la URSS en la guerra.
-
-### Carrera posterior
-
-Sutyagin continuó su carrera militar. En 1956 se graduó de la Academia de la Fuerza Aérea (Monino) y en 1964 de la Academia Militar del Estado Mayor. Entre 1968 y 1970 comandó la Escuela Superior de Aviación Militar de Járkov. Posteriormente, cumplió misiones como asesor militar en Vietnam (durante la guerra de Vietnam) y en Alemania Oriental.
-
-Se retiró en 1978 con el grado de mayor general de aviación (equivalente a general de brigada). Falleció en Kiev el 12 de noviembre de 1986, a la edad de 63 años.
+La URSS negó su participación en la guerra y Sutyagin utilizó el nombre encubierto «Su Yan Gin». La confirmación soviética exigía testigos y, cuando era posible, localización terrestre de restos; aun así, la comparación con registros occidentales mantiene abierto el debate sobre atribuciones concretas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
-El paso de Sutyagin por Corea dejó un récord excepcional y una controversia historiográfica que los archivos desclasificados matizaron sin cerrar del todo.
+Los archivos rusos sitúan a Sutyagin al frente de los ases de Corea con 22 victorias, seguido por Evgeni Pepelyaev con 19. En el recuento estadounidense, Joseph McConnell obtuvo 16 y James Jabara 15. Las diferencias responden a sistemas de confirmación, combates con reclamaciones múltiples, propaganda y décadas de secreto documental.
 
-### La controversia de las victorias y la comparativa
-
-Las cifras de derribos de los pilotos soviéticos en Corea han sido objeto de debate entre historiadores de ambos lados durante décadas. Mientras los archivos rusos otorgan a Sutyagin 22 victorias, las fuentes occidentales tradicionalmente han cuestionado estas cifras. Para contextualizar su logro, resulta útil comparar su récord con el de otros ases destacados del conflicto.
-
-### Discrepancias con fuentes occidentales
-
-Mientras que los archivos soviéticos otorgan 22 victorias a Sutyagin, las fuentes occidentales tradicionalmente han cuestionado estas cifras, rebajándolas a menudo a menos de 10. Estas discrepancias se explican por varios factores:
-- **El factor propagandístico:** Ambas partes inflaron sus propias cifras y minimizaron las pérdidas durante la guerra.
-- **Reglas de confirmación:** Los sistemas de confirmación no eran exactamente equivalentes.
-- **Las leyes del secreto:** Durante décadas, los archivos soviéticos permanecieron cerrados, y los pilotos soviéticos ni siquiera podían revelar que habían volado en Corea.
-
-Con la desclasificación de los archivos rusos, se ha confirmado que Sutyagin derribó 22 aeronaves, según los registros oficiales soviéticos.
-
-### Comparativa con otros ases
-
-- **Nikolai Sutyagin (URSS):** 22 victorias
-- **Evgeni Pepelyaev (URSS):** 19 victorias
-- **Joseph C. McConnell (EE. UU.):** 16 victorias
-- **James Jabara (EE. UU.):** 15 victorias
-- **George Davis (EE. UU.):** 14 victorias
-- **Lev Shchukin (URSS):** 13 victorias
-
-Sutyagin es, con diferencia, el as con mejor puntuación de la Guerra de Corea según los registros soviéticos.
+La apertura de fondos soviéticos confirmó el despliegue y el palmarés oficial ruso, pero no hizo universal la atribución de cada pérdida. Por ello, el texto conserva la cifra de 22 como registro soviético, no como consenso absoluto entre historiadores.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
-Tras su regreso de Corea, Sutyagin continuó su carrera militar, ascendiendo al rango de general de brigada y desempeñando roles clave como comandante de la Escuela Superior de Aviación Militar de Járkov y asesor militar en Vietnam y Alemania Oriental. Su legado, oculto durante décadas por el secretismo de la Guerra Fría, ha sido redescubierto tras la apertura de los archivos rusos.
+Sutyagin desarrolló después una larga carrera de mando y asesoría. La revelación de la participación soviética devolvió su nombre a la historia pública del combate a reacción, aunque fuera de Rusia sigue siendo menos conocido que McConnell o Jabara.
 
-### El legado redescubierto
-
-Con la caída de la Unión Soviética y la apertura parcial de los archivos, la verdadera dimensión de los ases soviéticos de Corea, liderados por Nikolai Sutyagin, comenzó a ser reconocida en Occidente. Aunque su nombre sigue siendo menos conocido que el de pilotos estadounidenses como McConnell o Jabara, en la historiografía aeronáutica rusa ocupa un lugar de honor.
-
-El 13 de octubre de 2022, se inauguró un busto en honor a Nikolai Sutyagin en el bulevar Mira de Nizhny Novgorod, como reconocimiento público a su contribución a la historia de la aviación rusa.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre el número de victorias:</strong> Aunque las fuentes rusas modernas (como los archivos desclasificados) atribuyen oficialmente a Nikolai Sutyagin 22 victorias aéreas, esta cifra no es aceptada universalmente por todos los historiadores occidentales, que consideran que los sistemas de confirmación podrían haber sido menos rigurosos durante la guerra. Sin embargo, es indiscutible que fue uno de los pilotos más mortíferos y exitosos del conflicto. Las cifras de los archivos soviéticos son 149 salidas de combate, 66 combates aéreos y 22 victorias.</p>
-<p><strong>Sobre el nombre en clave “Su Yan Gin”:</strong> Para ocultar su identidad y la intervención soviética en Corea, Sutyagin y otros pilotos soviéticos adoptaron nombres coreanos o chinos ficticios. Sutyagin combatió como el “capitán” o “as” Su Yan Gin.</p>
-</div>
+Nizhny Novgorod inauguró un busto suyo el 13 de octubre de 2022. La conmemoración reúne sus dos identidades históricas: oficial soviético de alta graduación y combatiente cuya presencia en Corea permaneció clasificada.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -166,6 +100,13 @@ El 13 de octubre de 2022, se inauguró un busto en honor a Nikolai Sutyagin en e
     <li><a href="https://history.ru/read/articles/general-mayor-aviacii-sutyagin-nikolay-vasilevich" style="color: #315fea; text-decoration: none;">History.ru - Бюст генерал-майору авиации Н.В.Сутягину</a></li>
     <li><a href="https://www.simpleplanes.com/a/36sDr8/Mikoyan-Gurevich-MiG-15Bis-KPAF" style="color: #315fea; text-decoration: none;">SimplePlanes - Nikolai Sutyagin profile</a></li>
   </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
+<div class="note-box">
+<p><strong>Precisiones sobre el palmarés:</strong> Las fuentes rusas atribuyen a Sutyagin 22 victorias en 149 salidas y 66 combates; parte de la historiografía occidental propone cifras menores. Se conserva el registro oficial ruso con esa salvedad.</p>
+<p><strong>Identidad encubierta:</strong> Voló como «Su Yan Gin» para ocultar la intervención soviética. El alias aparece transcrito de distintas maneras.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">

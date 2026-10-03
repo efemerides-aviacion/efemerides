@@ -29,8 +29,8 @@ image: 1924-06-23-primer-vuelo-transcontinental-costa-costa-usa.webp
 - **Fecha del vuelo:** 23 de junio de 1924
 - **Piloto:** Teniente Russell L. Maughan, del Servicio Aéreo del Ejército de EE. UU. 
 - **Aeronave:** Curtiss PW-8 Hawk (número de serie 24-204) 
-- **Lugar de salida:** Mitchel Field, Long Island, Nueva York
-- **Lugar de llegada:** Crissy Field, Presidio de San Francisco, California
+- **Salida:** Mitchel Field (Long Island, estado de Nueva York)
+- **Llegada:** Crissy Field, en el Presidio de San Francisco (California)
 - **Distancia:** 2.670 millas (4.297 km) 
 - **Tiempo total de tránsito:** 21 horas, 48 minutos 
 - **Tiempo de vuelo real:** 18 horas, 20 minutos 
@@ -57,7 +57,7 @@ image: 1924-06-23-primer-vuelo-transcontinental-costa-costa-usa.webp
 
 ## Contexto Histórico
 
-En la década de 1920, el Servicio Aéreo del Ejército de EE. UU. luchaba por su supervivencia y presupuesto. El General Billy Mitchell, un visionario de la aviación, buscaba demostrar al Congreso el poder y la utilidad de las fuerzas aéreas.
+En la década de 1920, la aviación del Ejército estadounidense disputaba presupuesto y continuidad institucional. El General Billy Mitchell, un visionario de la aviación, buscaba demostrar al Congreso el poder y la utilidad de las fuerzas aéreas.
 
 ### Entorno social
 
@@ -65,7 +65,7 @@ La aviación capturaba la imaginación del público, y los récords de vuelo era
 
 ### Entorno tecnológico
 
-Los aviones de la época eran frágiles y con poca autonomía. Un caza como el PW-8 necesitaba repostar cada pocas cientos de millas. El desafío de Maughan era cubrir una distancia de 2.670 millas antes del anochecer, lo que requería volar a altas velocidades de manera sostenida y realizar paradas técnicas muy rápidas.
+Los cazas disponibles combinaban estructuras ligeras con autonomía limitada. Un caza como el PW-8 necesitaba repostar cada pocas cientos de millas. El desafío de Maughan era cubrir una distancia de 2.670 millas antes del anochecer, lo que requería volar a altas velocidades de manera sostenida y realizar paradas técnicas muy rápidas.
 
 ### Entorno cultural
 
@@ -112,7 +112,7 @@ El vuelo estableció nuevos récords de tiempo, distancia y velocidad media para
 
 El Teniente Russell L. Maughan, un piloto de pruebas condecorado, es recordado por su hazaña pionera. El vuelo "de amanecer a anochecer" fue un hito en la aviación estadounidense que demostró el potencial de los aviones para acortar distancias y conectar el país. Aunque su récord fue superado pocos años después, Maughan abrió el camino para los vuelos transcontinentales comerciales y el desarrollo de la aviación militar moderna.
 
-El término "dawn-to-dusk" se convirtió en sinónimo de velocidad y resistencia, y la hazaña de Maughan es recordada como uno de los grandes momentos de la aviación de los años 20. El avión que pilotó, el Curtiss PW-8, se conserva en el Smithsonian National Air and Space Museum, como testimonio de una época en la que los pilotos desafiaban los límites de la tecnología y de la luz del día.
+El término "dawn-to-dusk" se convirtió en sinónimo de velocidad y resistencia, y la hazaña de Maughan es recordada como uno de los grandes momentos de la aviación de los años 20. El Smithsonian conserva el Curtiss PW-8 que pilotó, testimonio de una época en la que los aviadores desafiaban los límites de la tecnología y de la luz del día.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -132,7 +132,7 @@ El término "dawn-to-dusk" se convirtió en sinónimo de velocidad y resistencia
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> El vuelo se realizó el <strong>23 de junio de 1924</strong>. La duración total del vuelo fue de 21 horas y 48 minutos, de las cuales 18 horas y 20 minutos fueron de vuelo real. Aunque algunos titulares de la época mencionan que Maughan aterrizó justo antes del anochecer, otras fuentes indican que lo hizo justo después. El récord se estableció como "de amanecer a anochecer" porque el retraso en Dayton fue por una avería mecánica, no por una decisión del piloto.</p>
+  <p><strong>Nota aclaratoria:</strong> El recorrido consumió 21 horas y 48 minutos, con 18 horas y 20 minutos en el aire. Las crónicas sitúan la llegada inmediatamente antes o después del anochecer; se mantiene la denominación «de amanecer a anochecer» porque la demora principal se debió a la avería de Dayton.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">

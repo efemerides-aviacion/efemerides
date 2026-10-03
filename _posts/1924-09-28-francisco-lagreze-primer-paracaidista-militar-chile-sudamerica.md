@@ -12,14 +12,14 @@ image: 1924-09-28-francisco-lagreze-primer-paracaidista-militar-chile-sudamerica
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1924-09-28-francisco-lagreze-primer-paracaidista-militar-chile-sudamerica.webp" alt="De Havilland DH-9 y el Teniente Francisco Lagreze descendiendo en paracaídas sobre El Bosque en 1924">
-  <figcaption class="post-caption">El biplano De Havilland DH-9 y, debajo, el Teniente Francisco Lagreze Pérez descendiendo en paracaídas sobre el Aeródromo Militar de El Bosque, Santiago, el 28 de septiembre de 1924. Fotografía de la época conservada por el Museo Nacional Aeronáutico y del Espacio de Chile. Fuente: <a href="https://museoaeronautico.dgac.gob.cl/2020/09/24/59-efemeride-teniente-francisco-lagreze-primer-paracaidista/" style="color: #315fea; text-decoration: none;">Museo Nacional Aeronáutico y del Espacio de Chile</a>.</figcaption>
+  <figcaption class="post-caption">El biplano De Havilland DH-9 y, debajo, el Teniente Francisco Lagreze Pérez descendiendo en paracaídas sobre el Aeródromo Militar de El Bosque, Santiago, el 28 de septiembre de 1924. Fotografía de época resguardada por el museo aeronáutico nacional chileno. Fuente: <a href="https://museoaeronautico.dgac.gob.cl/2020/09/24/59-efemeride-teniente-francisco-lagreze-primer-paracaidista/" style="color: #315fea; text-decoration: none;">MNAE de Chile</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>La mañana del <strong>28 de septiembre de 1924</strong>, en el <strong>Aeródromo Militar de El Bosque, Santiago</strong>, el <strong>Teniente de Ejército Francisco Lagreze Pérez</strong>, oficial del Regimiento Coquimbo comisionado en la Escuela de Aviación Militar, se lanzó desde un biplano <strong>De Havilland DH-9</strong> pilotado por el <strong>Teniente Oscar Herreros Walker</strong> y se convirtió en el <strong>primer paracaidista militar chileno y sudamericano</strong>.</p>
+<p>La mañana del <strong>28 de septiembre de 1924</strong>, en el <strong>Aeródromo Militar de El Bosque, Santiago</strong>, el <strong>Teniente de Ejército Francisco Lagreze Pérez</strong>, oficial del Regimiento Coquimbo destinado temporalmente en El Bosque, se lanzó desde un biplano <strong>De Havilland DH-9</strong> pilotado por el <strong>Teniente Oscar Herreros Walker</strong> y se convirtió en el <strong>primer paracaidista militar chileno y sudamericano</strong>.</p>
 <p>El salto, realizado desde unos <strong>700 a 1.000 metros</strong> con un paracaídas de seda del ingeniero alemán <strong>Otto Heinecke</strong>, fue presenciado por el Ministro de Guerra, el Inspector General de Aviación y la plana mayor de la Escuela. Tras unos segundos de caída libre y un descenso de unos tres minutos, Lagreze aterrizó con una ligera dislocación de tobillo y marcó el inicio del paracaidismo militar en Chile y en la región.</p>
 </div>
 
@@ -29,14 +29,14 @@ image: 1924-09-28-francisco-lagreze-primer-paracaidista-militar-chile-sudamerica
 
 - **Fecha:** 28 de septiembre de 1924, mañana, alrededor de las 10:30 horas
 - **Lugar:** Aeródromo Militar de El Bosque, Santiago, Chile
-- **Protagonista:** Teniente de Ejército Francisco Lagreze Pérez, oficial del Regimiento Coquimbo, comisionado en la Escuela de Aviación Militar, luego Comandante de Aviación
-- **Piloto del avión portador:** Teniente Oscar Herreros Walker (citado también como Óscar Herreros Walker), Escuela de Aviación Militar
-- **Aeronave:** biplano De Havilland DH-9, biplaza, motor en línea, utilizado por la Escuela de Aviación Militar de Chile
+- **Protagonista:** Teniente de Ejército Francisco Lagreze Pérez, oficial del Regimiento Coquimbo destinado en El Bosque, luego Comandante de Aviación
+- **Piloto del avión portador:** Teniente Oscar Herreros Walker, citado también como Óscar Herreros Walker
+- **Aeronave:** De Havilland DH-9 biplaza, con motor en línea y en dotación en El Bosque
 - **Paracaídas:** modelo de seda diseñado por el ingeniero alemán Otto Heinecke, llegado a Chile en 1924 para promocionar su invento
-- **Altura de lanzamiento:** 700 metros según La Voz del Norte y FACH, 1.000 metros según Museo Nacional Aeronáutico y del Espacio (MNAE) y DGAC
+- **Altura de lanzamiento:** 700 metros según La Voz del Norte y FACH; 1.000 según MNAE y DGAC
 - **Desarrollo del salto:** presentación militar ante el General Luis Contreras Sotomayor, autorización del Contraalmirante Luis Gómez Carreño, ascenso con Heinecke como instructor a bordo, salto al espacio, caída libre de algunos segundos, apertura del velamen (canopia) en forma de hongo, descenso de unos tres minutos y aterrizaje con flexión de piernas sobre piedra suelta que provocó ligera dislocación de tobillo
 - **Autoridades presentes:** Contraalmirante Luis Gómez Carreño, Ministro de Guerra; General Luis Contreras Sotomayor, Inspector General de Aviación; Capitán Federico Barahona Walton, Director de la Escuela de Aviación; Presidentes de la Corte Suprema y de la Corte de Apelaciones, autoridades civiles y militares
-- **Hito:** primer salto en paracaídas realizado por un chileno en territorio nacional y primer paracaidista militar de Chile y Sudamérica, reconocido por el Museo Nacional Aeronáutico y del Espacio, la DGAC y la Fuerza Aérea de Chile
+- **Hito:** primer salto en paracaídas realizado por un chileno en territorio nacional y primer paracaidista militar de Chile y Sudamérica, reconocido por organismos aeronáuticos oficiales de Chile
 - **Segundo voluntario del programa Heinecke:** Piloto Aviador Naval Agustín Alcayaga Jorquera, salto sobre el mar el 11 de noviembre de 1924
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -47,7 +47,7 @@ Durante 1924 el ingeniero alemán Otto Heinecke recorrió Sudamérica para demos
 
 ### Entorno social
 
-La aviación militar chilena, organizada en torno a la Escuela de Aviación Militar de El Bosque y al Servicio de Aviación Naval, buscaba profesionalizarse y dotarse de medios de seguridad. La presencia del Ministro de Guerra y de los Presidentes de las Cortes en el aeródromo muestra el interés político por la demostración. La prensa de la época, como La Nación del 30 de septiembre de 1924, difundió el salto como prueba de valentía y modernidad.
+La aviación militar chilena, articulada entre El Bosque y el Servicio de Aviación Naval, buscaba profesionalizarse y dotarse de medios de seguridad. La presencia del Ministro de Guerra y de los Presidentes de las Cortes en el aeródromo muestra el interés político por la demostración. La prensa de la época, como La Nación del 30 de septiembre de 1924, difundió el salto como prueba de valentía y modernidad.
 
 ### Entorno tecnológico
 
@@ -68,7 +68,7 @@ El gesto de Lagreze fue interpretado como acto de honor militar. Su nieto Franci
 - **30 de septiembre de 1924:** el diario La Nación publica crónica del salto y anuncia nuevo salto programado para el 5 de octubre en Campos de Sports de Ñuñoa.
 - **11 de noviembre de 1924:** el Piloto Aviador Naval Agustín Alcayaga Jorquera realiza el segundo salto del programa Heinecke, sobre el mar.
 - **1924–1932:** Lagreze continúa carrera militar; es reconocido como primer aviador militar en aterrizar en La Serena y jefe del aeródromo de Ovalle; el 25 de mayo de 1932 sufre grave accidente aéreo en el Cajón del Maipo.
-- **27 de septiembre de 2024:** en el Museo Nacional Aeronáutico y del Espacio se conmemora el centenario con ceremonia encabezada por la Federación Chilena de Paracaidismo, DGAC y FACH, presentación del libro “Paracaidismo en Chile, 100 años” del historiador Héctor Alarcón Carrasco y palabras del nieto Francisco Riveros Lagreze.
+- **27 de septiembre de 2024:** el museo aeronáutico nacional conmemora el centenario con ceremonia encabezada por la Federación Chilena de Paracaidismo, DGAC y FACH, presentación del libro “Paracaidismo en Chile, 100 años” del historiador Héctor Alarcón Carrasco y palabras del nieto Francisco Riveros Lagreze.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -83,7 +83,7 @@ El gesto de Lagreze fue interpretado como acto de honor militar. Su nieto Franci
 
 ## Legado
 
-Ciento dos años después, el salto de El Bosque sigue siendo recordado como el acto fundacional del paracaidismo en Chile. El Museo Nacional Aeronáutico y del Espacio conserva fotografías del descenso, el paracaídas Heinecke y la reseña biográfica del Teniente Lagreze Pérez. La Federación Chilena de Paracaidismo, presidida en 2024 por Patricio Candia Morales, lo reconoce como origen de la disciplina organizada.
+Ciento dos años después, el salto de El Bosque sigue siendo recordado como el acto fundacional del paracaidismo en Chile. El museo aeronáutico chileno conserva fotografías del descenso, el paracaídas Heinecke y la reseña biográfica del Teniente Lagreze Pérez. La Federación Chilena de Paracaidismo, presidida en 2024 por Patricio Candia Morales, lo reconoce como origen de la disciplina organizada.
 
 El centenario de 2024 reunió a familiares, historiadores y autoridades aeronáuticas en el MNAE y dio lugar a la publicación de “Paracaidismo en Chile, 100 años”. La figura de Lagreze, sepultado en el cementerio de La Serena y a veces descrita como héroe olvidado, fue reivindicada como ejemplo de valentía técnica y honor militar, en paralelo a otros pioneros del aire chileno.
 
@@ -105,7 +105,7 @@ El centenario de 2024 reunió a familiares, historiadores y autoridades aeronáu
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Las fuentes coinciden en el hecho central —28 de septiembre de 1924, El Bosque, Teniente Francisco Lagreze Pérez con DH-9 del Teniente Oscar Herreros Walker y paracaídas Otto Heinecke como primer paracaidista militar chileno y sudamericano—, pero difieren en altura: el Museo Nacional Aeronáutico y del Espacio y la DGAC publican 1.000 metros, mientras La Voz del Norte y la FACH citan 700 metros; la hora se precisa como mañana y 10:30 horas en WikicharliE a partir de La Nación del 30 de septiembre de 1924. La grafía del piloto aparece como Oscar Herreros Walker y Óscar Herreros Walker. La denominación de la entidad aparece como Inspección General de Aviación en algunas crónicas antiguas y como Inspectoría General de Aviación en la normativa vigente del MNAE y FACH, forma que se adopta. Se adoptan ambas alturas como variantes de medición y se consigna la grafía sin tilde por ser la más frecuente en fuentes institucionales del MNAE.</p>
+  <p><strong>Nota aclaratoria:</strong> La documentación converge en fecha, lugar, protagonistas, DH-9 y paracaídas Heinecke, pero publica dos alturas: 1.000 metros en MNAE/DGAC y 700 en FACH/La Voz del Norte. La hora de 10:30 procede de la recopilación hemerográfica de La Nación. También varían Oscar/Óscar Herreros e Inspección/Inspectoría General; se conservan Oscar e Inspectoría por su uso institucional.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -113,8 +113,8 @@ El centenario de 2024 reunió a familiares, historiadores y autoridades aeronáu
 ## Metadatos de Control
 
 - **Timestamp de verificación:** 2026-09-22 06:40:51 CST
-- **Fuentes primarias/institucionales consultadas:** Museo Nacional Aeronáutico y del Espacio de Chile — Efeméride Teniente Francisco Lagreze (2021) y Ceremonia centenario (2024); Fuerza Aérea de Chile — Ceremonia 100 años primer salto (2024); DGAC — Museo Aeronáutico conmemoró 100 años (2024).
-- **Fuentes secundarias de contraste:** La Voz del Norte — 95 años primer salto chileno y sudamericano (2019); WikicharliE — Paracaidismo en Chile 28 sep 1924 (hemeroteca La Nación 30 sep 1924).
-- **Discrepancias resueltas:** Altura 1.000 m vs 700 m tratada como variante de medición entre MNAE/DGAC y FACH/La Voz; hora 10:30 vs mañana genérica; grafía Oscar vs Óscar Herreros Walker; Inspección vs Inspectoría General de Aviación. Se adoptan ambas alturas como redondeos del mismo salto y se adopta Inspectoría como forma vigente.
+- **Fuentes primarias/institucionales consultadas:** MNAE; FACH; DGAC.
+- **Fuentes secundarias de contraste:** La Voz del Norte; WikicharliE con hemeroteca de La Nación.
+- **Discrepancias resueltas:** Altura de 700 o 1.000 m; hora precisa o genérica; Oscar/Óscar; Inspección/Inspectoría. Se conservan ambas alturas y la forma institucional Inspectoría.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -27,76 +27,63 @@ image: 1924-09-28-primera-circunnavegacion-aerea-douglas-world-cruiser.webp
 
 ## Datos verificados del evento
 
-- **Fecha de culminación:** 28 de septiembre de 1924, 13:20 hora local de Seattle (Sand Point Field, hoy Magnuson Park)
-- **Lugar de partida y llegada:** Sand Point, Seattle, Washington, Estados Unidos
-- **Organizador:** US Army Air Service (precursor de la US Air Force), jefe del proyecto Mayor General Mason M. Patrick
-- **Aeronave:** Douglas World Cruiser (DWC), derivado del torpedero Douglas DT-2, biplano biplaza abierto, estructura de tubo de acero y abeto Sitka con recubrimiento de tela, motor Liberty V-12 de 420 hp (423 hp en ficha del Smithsonian), hélice de madera, capacidad de combustible ampliada de 115 a 644 galones estadounidenses (435 a 2.438 litros), tren intercambiable ruedas / flotadores, dos radiadores (tropical y templado)
-- **Flota inicial:** 5 aparatos construidos (1 prototipo para pruebas y 4 de expedición), coste de serie 192.684 dólares; 15 motores Liberty de repuesto, 14 juegos de flotadores y repuestos para dos aviones distribuidos en escalas; último entregado el 11 de marzo de 1924
-- **Tripulaciones titulares:**
-  - <em>Seattle</em> (No. 1): Mayor Frederick L. Martin (piloto y comandante de vuelo) y Sargento Alva Harvey (mecánico)
-  - <em>Chicago</em> (No. 2): Teniente Lowell H. Smith (piloto, segundo comandante, luego comandante tras la pérdida del Seattle) y Teniente Primero Leslie P. Arnold (copiloto / mecánico)
-  - <em>Boston</em> (No. 3): Teniente Primero Leigh P. Wade (piloto) y Sargento Henry H. Ogden (mecánico)
-  - <em>New Orleans</em> (No. 4): Teniente Erik H. Nelson (piloto) y Teniente John Harding Jr. (copiloto / mecánico)
-  - Prototipo <em>Boston II</em> (23-1210, luego P318): empleado como reemplazo en Inglaterra tras la pérdida del Boston
-- **Ruta:** oeste desde Seattle → Columbia Británica → Alaska → Aleutianas → Japón → China → Indochina Francesa → Siam (Tailandia) → Birmania → India → Persia → Asia Menor → Balcanes → Francia (París el 14 de julio, Día de la Bastilla) → Inglaterra → Orcadas → Islandia → Groenlandia → Labrador → Boston → Washington D. C. → costa a costa hasta Seattle
-- **Cifras de la expedición:** 175 días (6 de abril a 28 de septiembre), 27.553 millas / 44.085 km según Smithsonian y Boeing Images (otras fuentes redondean a 27.550 millas / 44.342 km), tiempo en el aire 371 horas 11 minutos (algunas crónicas citan 363 horas 7 minutos por distinto cómputo de tramos), 74 paradas, 22 a 28 países según criterio de sobrevuelo / escala, velocidad media ~112 km/h (70 mph), techo 10.000 pies (3.048 m)
-- **Bajas materiales:** Seattle destruido el 30 de abril de 1924 en montaña cerca de Port Moller, península de Alaska, en niebla; tripulación rescatada tras 11 días de marcha. Boston amerizaje forzoso por fallo de bomba de aceite el 3 de agosto de 1924 entre Islas Orcadas y Feroe, volcó y se hundió; tripulación rescatada por el crucero ligero USS Richmond
-- **Supervivientes que cierran la vuelta:** Chicago y New Orleans, acompañados en el último tramo continental por Boston II
-- **Reconocimientos inmediatos:** 50.000 personas en Sand Point el 28 de septiembre, desfile en Seattle, recepción del presidente Calvin Coolidge en Bolling Field, Mackay Trophy 1924 al vuelo más meritorio y Distinguished Service Medal del Congreso a los ocho participantes en febrero de 1925
+- **Culminación:** 28 de septiembre de 1924, 13:20, en Sand Point, Seattle; salida del mismo punto el 6 de abril.
+- **Organizador:** US Army Air Service, bajo el Mayor General Mason M. Patrick.
+- **Aeronave:** Douglas World Cruiser, derivado del DT-2; biplano biplaza con motor Liberty V-12 de 420 hp, 644 galones y tren intercambiable de ruedas o flotadores.
+- **Flota:** cuatro aparatos de expedición y un prototipo. Quince motores, catorce juegos de flotadores y repuestos quedaron distribuidos en la ruta.
+- **Tripulaciones:** <em>Seattle</em>, Frederick L. Martin y Alva Harvey; <em>Chicago</em>, Lowell H. Smith y Leslie P. Arnold; <em>Boston</em>, Leigh P. Wade y Henry H. Ogden; <em>New Orleans</em>, Erik H. Nelson y John Harding Jr.
+- **Ruta:** Seattle, Alaska, Aleutianas, Japón, China, Indochina, Siam, Birmania, India, Persia, Asia Menor, Balcanes, Francia, Reino Unido, Islandia, Groenlandia, Labrador, costa oriental estadounidense y regreso transcontinental.
+- **Cifras adoptadas:** 175 días, 27.553 millas (44.085 km), 371 h 11 min y 74 escalas; las fuentes ofrecen cómputos alternativos.
+- **Pérdidas:** el <em>Seattle</em> chocó en Alaska el 30 de abril; Martin y Harvey caminaron once días. El <em>Boston</em> amerizó por fallo de aceite el 3 de agosto y se hundió tras el rescate de su tripulación.
+- **Finalistas:** <em>Chicago</em> y <em>New Orleans</em>; el prototipo <em>Boston II</em> acompañó parte del regreso.
+- **Reconocimientos:** recepción multitudinaria, Mackay Trophy de 1924 y Distinguished Service Medal para los ocho participantes.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-En 1923, tras los cruces del Atlántico de la US Navy NC-4 y de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1919/06/15/primer-vuelo-trasatlantico-sin-escala.html" style="color: #315fea; text-decoration: none;">Alcock y Brown en 1919</a>, la circunnavegación completa se había convertido en el siguiente desafío lógico. Reino Unido, Francia, Italia, Portugal y Argentina anunciaban proyectos propios. El US Army Air Service, impulsado por el Brigadier General Billy Mitchell como demostración de poder aéreo y prestigio nacional, obtuvo del Congreso la aprobación de un “World Flight” y encargó a Donald Douglas, en Santa Mónica, una aeronave capaz de operar desde tierra y agua sin modificar estructura.
+Tras los cruces atlánticos de la NC-4 y de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1919/06/15/primer-vuelo-trasatlantico-sin-escala.html" style="color: #315fea; text-decoration: none;">Alcock y Brown</a>, varios países preparaban vueltas al mundo. El Ejército estadounidense aprobó su World Flight y encargó a Donald Douglas una máquina capaz de operar desde tierra y agua.
 
 ### Entorno social
 
-Estados Unidos vivía la “Golden Age of Aviation”. El público seguía por prensa y noticiarios cada etapa. Cada escala —desde pescadores japoneses hasta multitudes en Calcuta, París y Londres— se convirtió en acto diplomático. El Departamento de Guerra coordinó permisos de sobrevuelo en más de veinte países y desplegó buques de la US Navy y de la Guardia Costera como balizas y apoyo en el Pacífico, con depósitos de combustible, aceite y repuestos preposicionados meses antes.
+El Departamento de Guerra negoció permisos y preposicionó combustible, repuestos y buques. Las escalas se transformaron en actos diplomáticos seguidos por prensa y noticiarios.
 
 ### Entorno tecnológico
 
-El DWC era un biplano robusto, sin radio, sin paracaídas ni chalecos salvavidas para ahorrar peso, con instrumentación mínima —altímetro, brújula magnética y manómetros—. La navegación se hacía por estima, con cartas, relojes y referencias visuales de buques. Las tripulaciones volaban con trajes forrados de piel de 11 libras contra lluvia helada, ventiscas y calor tropical. Los motores debían revisarse y cambiarse cinco veces y las alas dos veces a lo largo de la ruta. La posibilidad de cambiar en campo de ruedas a flotadores permitió continuar donde no había aeródromos.
+Los DWC carecían de radio, paracaídas y chalecos para ahorrar peso. Brújulas, relojes, cartas, referencias visuales y buques guiaban la navegación. Los cambios de motores, alas y tren permitieron atravesar climas árticos, tropicales y desérticos.
 
 ### Entorno cultural
 
-La expedición consolidó la idea del avión como tecnología global. Douglas Aircraft, hasta entonces proveedor de torpederos DT-2, aseguró su futuro con el lema “First Around the World – First the World Around”. El Chicago se convirtió en icono: donado al Smithsonian en 1925, hoy preside la galería <em>Barron Hilton Pioneers of Flight</em>. El New Orleans se conserva en el Museum of Flying de Santa Mónica.
+La expedición dio a Douglas el lema «First Around the World». El <em>Chicago</em> ingresó en el Smithsonian y el <em>New Orleans</em> quedó como pieza histórica de la compañía en Santa Mónica.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **Julio de 1923:** el US War Department anuncia que dos oficiales explorarán una ruta para un vuelo alrededor del mundo en 1924. Se encarga a Donald Douglas el desarrollo del DWC sobre la base del DT-2.
-- **Noviembre de 1923:** primer vuelo del prototipo DWC. Pruebas satisfactorias el 19 de noviembre en McCook Field.
-- **11 de marzo de 1924:** entrega del último de los cuatro aparatos de expedición.
-- **17 de marzo de 1924:** los cuatro DWC despegan de Clover Field, Santa Mónica, California, en vuelos de traslado hacia Seattle, con escalas de entrenamiento. El 19 de marzo aterrizan tres de ellos en Vancouver Barracks Aerodrome (hoy Pearson Field), Washington.
-- **6 de abril de 1924, ~08:30:** salida oficial desde Sand Point, Seattle, con flotadores. El Seattle queda rezagado por avería de motor.
-- **30 de abril de 1924:** el Seattle se estrella contra una ladera en niebla cerca de Port Moller, Alaska. Martin y Harvey sobreviven y caminan 11 días hasta Port Moller. El Teniente Lowell H. Smith asume el mando.
-- **Mayo de 1924:** cruce del Pacífico Norte por la cadena de las Aleutianas con apoyo de buques de la US Navy preposicionados cada pocos cientos de millas. Llegada a Japón el 22 de mayo, primera travesía aérea del Pacífico Norte lograda.
-- **Junio de 1924:** tránsito por China, Hong Kong, Indochina Francesa —el Chicago ameriza en una laguna del golfo de Tonkín el 11 de junio por fuga en cilindro y recibe motor de Saigón—, Siam, Birmania e India. Del 26 al 30 de junio gran mantenimiento en Calcuta: cambio de motores, alas y sustitución de flotadores por ruedas para tramo terrestre.
-- **Julio de 1924:** cruce de Oriente Medio, Asia Menor y Balcanes. 14 de julio llegada a Le Bourget, París, en pleno Día de la Bastilla, escoltados por la aviación francesa y recibidos por el Ministerio del Aire.
-- **Agosto de 1924:** vuelo a Inglaterra, Escocia y Orcadas. 3 de agosto el Boston cae al mar por fallo de bomba de aceite entre Orcadas y Feroe; Wade y Ogden son rescatados por el USS Richmond, el avión se hunde. El prototipo Boston II es enviado desde Estados Unidos y se une en Inglaterra.
-- **Septiembre de 1924:** travesía del Atlántico Norte vía Islandia, Groenlandia y Labrador; llegada a Boston, Washington D. C. —recepción del presidente Calvin Coolidge— y vuelo triunfal costa a costa. El 28 de septiembre aterrizaje en Vancouver Barracks como última escala y, horas después, amerizaje final en Sand Point, Seattle, ante 50.000 espectadores.
+- **Julio-noviembre de 1923:** el War Department estudia la ruta; Douglas adapta el DT-2 y el prototipo vuela en noviembre.
+- **11-19 de marzo de 1924:** se entrega el último aparato y la flota se traslada desde Santa Mónica hacia Seattle.
+- **6 de abril:** cuatro DWC salen de Sand Point con flotadores.
+- **30 de abril:** el <em>Seattle</em> se pierde cerca de Port Moller; Lowell Smith asume el mando.
+- **Mayo:** los tres restantes cruzan Aleutianas y Pacífico Norte con apoyo naval y llegan a Japón el día 22.
+- **Junio:** atraviesan China e Indochina; una avería obliga al <em>Chicago</em> a recibir motor nuevo. En Calcuta cambian motores, alas y flotadores por ruedas.
+- **14 de julio:** llegan a Le Bourget durante la fiesta nacional francesa tras cruzar Oriente Medio y los Balcanes.
+- **3 de agosto:** el <em>Boston</em> cae al Atlántico entre Orcadas y Feroe. El USS <em>Richmond</em> rescata a Wade y Ogden; el prototipo <em>Boston II</em> se incorpora después.
+- **Septiembre:** cruzan Islandia, Groenlandia y Labrador; reciben homenajes en Boston y Washington y vuelan hacia el oeste.
+- **28 de septiembre:** <em>Chicago</em> y <em>New Orleans</em> regresan a Sand Point ante unas 50.000 personas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Prueba de concepto logístico:** la expedición demostró que un sistema global de abastecimiento, permisos diplomáticos y apoyo naval podía sostener operaciones aéreas intercontinentales, base para futuras rutas comerciales.
-- **Avance técnico:** validó el tren intercambiable ruedas-flotadores, la fiabilidad del Liberty V-12 en climas extremos y la navegación por estima con apoyo de buques, lecciones aplicadas a hidroaviones y bombarderos posteriores.
-- **Prestigio industrial:** Douglas Aircraft pasó de fabricante de torpederos a referente internacional; su lema “First Around the World” apuntaló contratos posteriores.
-- **Doctrina militar:** reforzó la tesis de Billy Mitchell sobre el poder aéreo como instrumento estratégico, en un momento en que el US Army Air Service buscaba autonomía.
-- **Reconocimiento humano:** los ocho aviadores recibieron la Distinguished Service Medal —primera vez por logro no combativo— y el Mackay Trophy de 1924. La prensa mundial dedicó portadas y noticiarios al regreso.
+La expedición validó una red mundial de permisos, depósitos, repuestos y apoyo naval para operaciones aéreas intercontinentales. También probó el tren intercambiable y la resistencia del Liberty en ambientes extremos. El éxito proyectó a Douglas como fabricante internacional y reforzó los argumentos de Billy Mitchell sobre el valor estratégico de la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-Ciento dos años después, el vuelo de 1924 sigue siendo la referencia fundacional de la circunnavegación aérea. Su tiempo —175 días— fue recortado a 91 horas por <a href="https://efemerides-aviacion.github.io/efemerides/evento/1938/07/14/vuelta-al-mundo-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes en 1938</a>, a 45 horas y 19 minutos por un B-52 con reabastecimiento en 1957 y a horas por reactores comerciales actuales, pero ninguna hazaña posterior igualó su incertidumbre.
+El <em>Chicago</em> se exhibe en el National Air and Space Museum y el <em>New Orleans</em> permanece preservado en Santa Mónica. Réplicas y actos en Seattle, Dayton y California recordaron el centenario en 2024.
 
-Los dos supervivientes materiales lo recuerdan: el <em>Chicago</em> se exhibe en el National Air and Space Museum de Washington D. C., restaurado entre 1971 y 1974, y el <em>New Orleans</em> pasó por el Natural History Museum de Los Ángeles, el National Museum of the US Air Force y hoy se conserva en el Museum of Flying de Santa Mónica. El centenario de 2024 fue conmemorado en Seattle, Santa Mónica y Dayton con vuelos de réplicas como el <em>Seattle II</em>.
-
-Para la historia de la aviación, la vuelta de 1924 probó que el cielo daba la vuelta completa y que un biplano abierto, sin radio, podía unir continentes. Ciento dos años después, cada vuelo intercontinental sigue esa estela logística.
+La marca de 175 días descendió a 91 horas con <a href="https://efemerides-aviacion.github.io/efemerides/evento/1938/07/14/vuelta-al-mundo-howard-hughes.html" style="color: #315fea; text-decoration: none;">Howard Hughes en 1938</a>. Sin embargo, la vuelta de 1924 sigue siendo fundacional por haber conectado continentes con biplanos abiertos, navegación elemental y una infraestructura global creada para la misión.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -116,7 +103,7 @@ Para la historia de la aviación, la vuelta de 1924 probó que el cielo daba la 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Las fuentes primarias coinciden en el hecho central —salida 6 de abril de 1924 de Sand Point y regreso 28 de septiembre de 1924 tras 175 días, con solo Chicago y New Orleans completando la vuelta—, pero difieren en redondeos de distancia, tiempo y número de países: Smithsonian y Boeing Images dan 27.553 millas (44.085 km) y 371 h 11 min; NPS y algunas crónicas del Army citan 26.345 millas y 363 h 07 min por distinto cómputo de tramos de traslado; ICAO y Museo de Vuelo redondean a 27.550 millas; el conteo de países varía entre 22 (aterrizajes con escala) y 28 (incluyendo sobrevuelos y apoyo logístico). Se adoptan 27.553 millas / 371 h 11 min del artefacto preservado Chicago como referencia institucional y se consignan variantes como criterios de medición. La fecha de regreso figura como 28 de septiembre en la mayoría de fuentes; una ficha del NPS la lista como 29 por huso horario de cierre administrativo.</p>
+  <p><strong>Precisiones documentales:</strong> Hay acuerdo sobre la salida del 6 de abril, el regreso del 28 de septiembre, 175 días y dos aparatos finalistas. Smithsonian publica 27.553 millas y 371 h 11 min; NPS ofrece 26.345 millas y 363 h 07 min por un cómputo distinto de traslados. ICAO redondea 27.550 millas. El total de países varía de 22 a 28 según se cuenten escalas, sobrevuelos o apoyo logístico. Se adopta la ficha institucional del <em>Chicago</em>.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -124,8 +111,8 @@ Para la historia de la aviación, la vuelta de 1924 probó que el cielo daba la 
 ## Metadatos de Control
 
 - **Timestamp de verificación:** 2026-09-22 05:11:15 CST
-- **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum — Douglas World Cruiser Chicago (NASM A19250008000); National Park Service — First Flight Around the World: Douglas World Cruisers at Pearson Field; ICAO — Aerial Circumnavigation Records.
-- **Fuentes secundarias de contraste:** Museum of Flying — Around the World in the Douglas World Cruiser; This Day in Aviation — 6 April 1924; Simple Flying — 100 Years On: First Aerial Circumnavigation.
-- **Discrepancias resueltas:** Distancias 27.553 mi (44.085 km) vs 27.550 mi vs 26.345 mi vs 44.342 km tratadas como redondeos y distinto cómputo de tramos; tiempos 371 h 11 min vs 363 h 07 min por inclusión/exclusión de vuelos de traslado Santa Mónica–Seattle; países 22 vs 28 por criterio escala vs sobrevuelo; fecha 28 vs 29 septiembre por huso administrativo. Se adopta referencia Smithsonian para distancia y tiempo del Chicago.
+- **Fuentes primarias/institucionales consultadas:** Smithsonian; National Park Service; ICAO.
+- **Fuentes secundarias de contraste:** Museum of Flying; This Day in Aviation; Simple Flying.
+- **Discrepancias resueltas:** Se adopta 27.553 mi y 371 h 11 min; otros cómputos excluyen traslados. El número de países depende del criterio y la fecha administrativa puede figurar como día 29.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
