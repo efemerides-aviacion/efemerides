@@ -38,7 +38,7 @@ image: 1988-12-21-atentado-pan-am-103-lockerbie.webp
 - **Mecánico de vuelo:** Jerry D. Avritt, 46 años, 8.068 horas de vuelo, 487 en Boeing 747.
 - **Artefacto:** explosivo plástico oculto en un radiocasete Toshiba, transportado en una maleta Samsonite dentro de un contenedor de la bodega delantera.
 - **Daños estructurales:** la detonación abrió un orificio de unos 50 centímetros en el costado izquierdo del fuselaje. La sección de morro y cabina de mando se separó del resto en un plazo de tres segundos y cayó entera en un campo de Tundergarth.
-- **Impacto en tierra:** las alas se estrellaron en el extremo sur de Lockerbie y abrieron un cráter de unos 560 metros cúbicos. Los 108.862 kilogramos de combustible cargados al despegue alimentaron una bola de fuego. Veintiuna viviendas hubieron de ser demolidas.
+- **Impacto en tierra:** las alas se estrellaron en el extremo sur de Lockerbie y abrieron un cráter de unos 560 metros cúbicos. Los 108.862 kilogramos de combustible cargados al despegue alimentaron una bola de fuego. Veintiuna viviendas tuvieron que ser demolidas.
 - **Dispersión de restos:** dos regueros de fragmentos, el más largo de unos 130 kilómetros, hasta la costa oriental de Inglaterra.
 - **Informe técnico:** Aircraft Accident Report 2/90, de la Air Accidents Investigation Branch británica, publicado el 6 de agosto de 1990.
 
