@@ -1,135 +1,84 @@
 ---
 layout: post
-title: "20 de abril de 1916 | Fundación de la Escuadrilla Lafayette"
+title: "20 de abril de 1916 | Despliegue de la escuadrilla que recibiría el nombre Lafayette"
 date: 1916-04-20
 categories: [fundacion]
 author: Enrique Pomares
 pais: Francia / Estados Unidos
 operator: Aéronautique Militaire (Francia)
-excerpt: "El 20 de abril de 1916 se desplegó la Escuadrilla Lafayette (originalmente Escuadrilla Americana N.124), una unidad de caza formada por pilotos voluntarios estadounidenses que volaron para Francia durante la Primera Guerra Mundial, antes de la entrada oficial de Estados Unidos en el conflicto."
+excerpt: "La N.124, inicialmente llamada Escadrille Américaine, fue destinada al frente bajo mando francés. Su denominación Lafayette llegó en diciembre de ese año."
 image: 1916-04-20-fundacion-escuadrilla-lafayette.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1916-04-20-fundacion-escuadrilla-lafayette.webp" alt="Miembros de la Escuadrilla Lafayette en 1917">
-  <figcaption class="post-caption">La Escuadrilla Lafayette en julio de 1917. De pie, de izquierda a derecha: Soubiron, Doolittle, Campbell, Persons, Bridgman, Dugan, MacMonagle, Lowell, Willis, Jones, Peterson y de Maison-Rouge (subcomandante francés). Sentados, de izquierda a derecha, están Hill, Masson con «Soda», Thaw, Thenault (el comandante francés), Lufbery con «Whiskey», Johnson, Bigelow y Rockwell. (Fotografía de la Fuerza Aérea de los Estados Unidos).</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1916-04-20-fundacion-escuadrilla-lafayette.webp" alt="Grupo de aviadores de la Escuadrilla Lafayette junto a sus mascotas en 1917">
+  <figcaption class="post-caption">Integrantes de la Escuadrilla Lafayette en julio de 1917, con los leones Whiskey y Soda. Reproducción conservada por el <a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196755/escadrille-lafayette/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force</a>, identificada como 050405-F-1234P-018. No muestra la plantilla inicial de 1916.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>La Escuadrilla Lafayette fue una unidad de caza formada por voluntarios estadounidenses que volaron para Francia durante la Primera Guerra Mundial. Su creación en abril de 1916 simbolizó el compromiso franco-estadounidense antes de la entrada oficial de EE. UU. en el conflicto. La unidad obtuvo amplia notoriedad por su valor simbólico, su presencia en el frente occidental y su legado en la historia de la aviación militar. Su memoria quedó preservada en el Lafayette Flying Corps y en el memorial conmemorativo asociado a la unidad.</p>
+<p>El 20 de abril de 1916 quedó destinada al frente una unidad francesa con pilotos voluntarios de Estados Unidos, país todavía neutral. Conocida inicialmente como Escadrille Américaine, adoptaría meses después el nombre Lafayette. El episodio fue relevante por su dimensión militar y diplomática, aunque conviene separar la pequeña escuadrilla del conjunto más amplio de estadounidenses que volaron para Francia. También son distintos el despliegue de abril y su primera misión, que la historia del museo de la USAF fecha en mayo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
-- **Fecha de despliegue:** 20 de abril de 1916
-- **Lugar:** Luxeuil-les-Bains, Francia
-- **Denominación original:** Escuadrilla Americana N.124 (Escadrille Américaine N.124)
-- **Denominación final (desde diciembre de 1916):** Escuadrilla Lafayette (Escadrille de Lafayette)
-- **Comandante:** Capitán Georges Thenault (francés)
-- **Número de pilotos estadounidenses:** 38 sirvieron en la unidad central
-- **Pilotos franceses adjuntos:** 5 (incluyendo al subcomandante Alfred de Laage de Meux)
-- **Aeronaves utilizadas:** Nieuport 11, Nieuport 17, Nieuport 24, Nieuport 27 y posteriormente SPAD VII y SPAD XIII
-- **Emblema:** Cabeza de un guerrero sioux (originalmente un jefe seminola, cambiado a sioux en abril de 1917)
-- **Victorias confirmadas:** 57 derribos (fuente del National Museum of the USAF)
-- **Bajas de la escuadrilla:** 9 pilotos muertos en combate
-- **Período de servicio activo:** 20 de abril de 1916 – 18 de febrero de 1918
+- **Hito conmemorado:** incorporación al servicio de primera línea, 20 de abril de 1916.
+- **Destino:** Luxeuil-les-Bains, Francia.
+- **Identificador:** N.124; la letra correspondía a su equipo Nieuport.
+- **Mando:** Capitán Georges Thenault, oficial francés.
+- **Plantilla estadounidense inicial:** siete pilotos.
+- **Total acumulado de estadounidenses asignados:** 38, no presentes todos desde el comienzo.
+- **Dependencia:** aviación militar francesa, no una fuerza estadounidense desplegada oficialmente.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
-Cuando estalló la Primera Guerra Mundial en 1914, Estados Unidos mantenía una estricta política de neutralidad. Sin embargo, muchos jóvenes estadounidenses, movidos por ideales románticos o por lazos culturales con Francia, se sintieron atraídos a unirse al esfuerzo bélico aliado. Algunos se alistaron en la Legión Extranjera Francesa, en los servicios de ambulancias o, más tarde, en la recién creada aviación militar. Antes incluso de que se formara una unidad exclusivamente estadounidense, voluntarios como Kiffin Rockwell, Norman Prince, William Thaw y Elliott Cowdin ya habían servido como pilotos en diversas escuadrillas francesas. Su experiencia y su insistencia fueron cruciales para convencer al gobierno francés de que creara una unidad compuesta íntegramente por pilotos estadounidenses.
+Francia combatía desde 1914 y recibía voluntarios extranjeros mientras Washington mantenía la neutralidad. Crear una unidad identificable reunía hombres ya vinculados a la causa aliada y proporcionaba una imagen pública de esa solidaridad.
 
 ### Entorno social
 
-Francia, agotada por tres años de guerra de trincheras, recibió con entusiasmo a estos voluntarios. Su presencia era un poderoso símbolo de solidaridad internacional y una herramienta de propaganda invaluable. La prensa francesa y estadounidense siguió con fascinación las hazañas de estos "caballeros del aire", creando una leyenda que perdura hasta hoy. El nombre de la unidad fue cambiado de "Escuadrilla Americana" a "Escuadrilla Lafayette" en diciembre de 1916, después de que el gobierno alemán protestara oficialmente ante Estados Unidos por violar su neutralidad al permitir que una unidad "americana" combatiera contra Alemania.
+Algunos aspirantes procedían de la Legión Extranjera o de servicios de ambulancias; otros se incorporaron directamente desde la vida civil. La nacionalidad de la mayoría de sus pilotos no eliminaba la estructura francesa: los mandos y el personal de apoyo formaban parte de ella. El voluntariado tampoco equivalía a una decisión de guerra del gobierno de origen.
 
 ### Entorno tecnológico
 
-La aviación militar en 1916 estaba en plena evolución. La Escuadrilla Lafayette comenzó operando con el Nieuport 11, un caza biplano ágil y maniobrero conocido como "Bébé", que fue el primer avión diseñado específicamente para el combate aéreo. Más tarde, la unidad recibió el Nieuport 17, una versión mejorada y más potente, y finalmente los SPAD VII y XIII, aviones más robustos y rápidos que se adaptaban mejor a las tácticas de combate de la época. El emblema icónico de la unidad era una cabeza de guerrero sioux, que aparecía pintada en los fuselajes de sus aeronaves.
+El caza ligero permitía patrullar e interceptar, pero su rendimiento dependía del tiempo, la disponibilidad de motores y la fiabilidad de las armas. El análisis de los diarios realizado por el Smithsonian recoge jornadas sin vuelos y frecuentes encasquillamientos. Esos registros corrigen la impresión de una sucesión incesante de duelos aéreos.
 
 ### Entorno cultural
 
-Los pilotos de la Escuadrilla Lafayette forjaron una cultura única, mezcla de audacia juvenil, disciplina militar francesa y un espíritu casi romántico de caballeros del aire. Vivían intensamente, conscientes de su alta probabilidad de muerte. Adoptaron dos leones como mascotas, llamados "Whiskey" y "Soda", que se convirtieron en símbolos no oficiales de la unidad. Sus nombres —Lufbery, Rockwell, Prince, Chapman, Thaw— se volvieron legendarios.
+La denominación americana generó una objeción diplomática alemana por su aparente incompatibilidad con la neutralidad estadounidense. El nombre del marqués de Lafayette ofreció una referencia histórica a la cooperación entre ambos países sin identificar la unidad con una intervención oficial de Washington.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
-- **1914-1915:** Voluntarios estadounidenses sirven individualmente en unidades francesas.
-- **21 de marzo de 1916:** El Departamento Aeronáutico Francés autoriza oficialmente la formación de la Escuadrilla Americana (N.124).
-- **20 de abril de 1916:** La unidad se despliega en Luxeuil-les-Bains, Francia. Esta fecha es considerada la de su fundación.
-- **13 de mayo de 1916:** Primera patrulla de combate de la escuadrilla, en el sector de Verdún.
-- **18 de mayo de 1916:** Kiffin Rockwell obtiene la primera victoria aérea de la unidad.
-- **23 de junio de 1916:** Victor Chapman se convierte en el primer piloto de la escuadrilla en morir en combate.
-- **Septiembre de 1916:** La unidad es trasladada a Bar-le-Duc, más cerca del frente.
-- **Diciembre de 1916:** Por protesta alemana, la unidad cambia su nombre a Escuadrilla Lafayette.
-- **1917:** La unidad opera en múltiples frentes, endureciéndose como fuerza de combate cohesiva.
-- **8 de febrero de 1918:** La Escuadrilla Lafayette se disuelve.
-- **18 de febrero de 1918:** Sus miembros y equipos son transferidos al Servicio Aéreo del Ejército de EE. UU., formando el núcleo del 103rd Aero Squadron.
-
-### La Fundación: detalles clave
-
-El 20 de abril de 1916 no fue una fecha elegida al azar. Representó el punto culminante de meses de gestiones diplomáticas y militares.
-
-### Los impulsores: Norman Prince y Dr. Edmund L. Gros
-
-El principal impulsor fue **Norman Prince**, un joven abogado de Boston que ya volaba con la aviación francesa. Junto con el **Dr. Edmund L. Gros**, director del Servicio de Ambulancias Americano, convencieron al gobierno francés del valor propagandístico y militar de una unidad compuesta exclusivamente por pilotos estadounidenses.
-
-### El despliegue inicial
-
-La unidad fue desplegada inicialmente en **Luxeuil-les-Bains**, una localidad al este de París. Este aeródromo se convirtió en el hogar de los primeros 38 pilotos estadounidenses que formarían el núcleo de la Escuadrilla Lafayette. Desde allí, la unidad fue trasladada rápidamente a Bar-le-Duc, más cerca del frente de batalla, para entrar en acción.
-
-### El primer comandante: Capitán Georges Thenault
-
-El comandante de la unidad fue el **Capitán Georges Thenault**, un oficial francés que demostró una paciencia y comprensión notables al liderar a estos voluntarios independientes y, a menudo, imprudentes. Su habilidad para canalizar su agresividad y su cuidado personal por sus hombres fueron fundamentales para el éxito y la leyenda de la escuadrilla.
-
-### El cambio de nombre y la polémica
-
-El nombre original, "Escuadrilla Americana", fue un poderoso gesto simbólico que, sin embargo, causó un incidente diplomático. El embajador alemán en Washington protestó formalmente, argumentando que una unidad militar que llevaba el nombre de una nación neutral era una violación de las leyes de neutralidad. Para evitar complicaciones, en diciembre de 1916 el gobierno francés renombró la unidad como **Escuadrilla Lafayette**, en honor al Marqués de Lafayette, el aristócrata francés que luchó junto a las colonias americanas durante su Guerra de Independencia. Este nombre era un guiño a la alianza histórica y mantenía el espíritu de la unidad sin ofender la neutralidad de Estados Unidos.
-
-### Principales figuras de la Escuadrilla Lafayette
-
-- **Capitán Georges Thenault (1887-1948):** El único comandante de la unidad. Sobrevivió a la guerra y eligió ser enterrado junto a sus hombres en el Monumento a la Escuadrilla Lafayette.
-- **<a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1885/03/14/nacimiento-raoul-lufbery.html" style="color: #315fea; text-decoration: none;">Gervais Raoul Lufbery</a> (1885-1918):** El "as de ases" de la escuadrilla, con 16 o 17 victorias confirmadas. Nacido en Francia, se convirtió en ciudadano estadounidense. Murió en combate en 1918 mientras servía en el 94th Aero Squadron.
-- **Kiffin Yates Rockwell (1892-1916):** Obtuvo la primera victoria aérea de la unidad. Murió en combate en septiembre de 1916. Era conocido por su agresividad y su profundo compromiso con la causa francesa.
-- **Norman Prince (1887-1916):** Co-fundador de la escuadrilla y uno de sus pilotos más exitosos. Murió en un accidente aéreo en octubre de 1916.
-- **William "Bill" Thaw (1893-1934):** Considerado el primer piloto estadounidense en la guerra. Sirvió en la Legión Extranjera antes de unirse a la aviación.
-- **Victor Chapman (1890-1916):** Primer piloto de la escuadrilla en morir en combate. Fue derribado sobre Verdún el 23 de junio de 1916.
+- **Preparación:** voluntarios y promotores, entre ellos el Doctor Edmund Gros, defendieron ante las autoridades francesas la agrupación de pilotos americanos.
+- **Mayo de 1916:** la primera misión se sitúa el día 13. Cinco días después, Kiffin Rockwell obtuvo la primera victoria atribuida a la formación, contra un avión de reconocimiento alemán.
+- **23 de junio:** Victor Chapman murió durante una acción aérea, convirtiéndose en su primer piloto perdido en combate.
+- **Incorporaciones posteriores:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1885/03/14/nacimiento-raoul-lufbery.html" style="color: #315fea; text-decoration: none;">Raoul Lufbery</a> destacó entre quienes se sumaron a la unidad después de sus primeros integrantes.
+- **Diciembre:** se adoptó la designación Lafayette.
+- **1917:** la entrada de Estados Unidos en la guerra abrió el camino a la incorporación de los voluntarios a su propio servicio aéreo.
+- **Febrero de 1918:** aviones, equipo y buena parte de los pilotos pasaron a la estructura estadounidense asociada al 103rd Aero Squadron.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
-- **Propaganda y moral:** La hazaña de la Escuadrilla Lafayette fue un fenómeno mediático. Los periódicos de todo Estados Unidos cubrieron sus gestas, creando una leyenda que ayudó a cambiar la opinión pública estadounidense a favor de la intervención en la guerra.
+El valor de estos aviadores no se limitó a las victorias que se les atribuyeron. Al constituirse nuevas unidades estadounidenses, su experiencia de combate podía transmitirse a pilotos recién llegados. Habían aprendido procedimientos, reconocido riesgos y trabajado dentro de una organización que llevaba años operando en el frente.
 
-- **El Lafayette Flying Corps:** El éxito de la escuadrilla inspiró a cientos de estadounidenses a alistarse. El Lafayette Flying Corps (LFC) fue una organización paraguas que agrupaba a todos los estadounidenses que volaron para Francia, ya fuera en la Escuadrilla Lafayette o en otras unidades. En total, 265 voluntarios estadounidenses sirvieron en el LFC.
-
-- **Semilla del poder aéreo estadounidense:** Cuando Estados Unidos entró oficialmente en la guerra en 1917, los veteranos de la Escuadrilla Lafayette y del LFC proporcionaron al recién formado Servicio Aéreo del Ejército de EE. UU. una base de pilotos con experiencia de combate invaluable. El 103rd Aero Squadron, heredero directo de la Escuadrilla Lafayette, continuó su legado en el frente.
-
-- **Legado diplomático:** La unidad se convirtió en un símbolo perdurable de la amistad franco-estadounidense. En 1928, se inauguró el Monumento a la Escuadrilla Lafayette en Marnes-la-Coquette, cerca de París, donde descansan los restos de 49 pilotos del LFC, incluido el Comandante Thenault, quien pidió ser enterrado con sus hombres.
+El llamado Lafayette Flying Corps no fue una escuadrilla adicional desplegada como un solo cuerpo. Era una denominación colectiva para los americanos del servicio francés, distribuidos en distintas unidades. Confundir ambos conjuntos infla las cifras de personal y de bajas de la N.124.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
-La Escuadrilla Lafayette fue mucho más que una unidad militar. Fue un símbolo de idealismo, valor y amistad internacional. Su recuerdo ha perdurado en libros, películas (como "Lafayette Escadrille" de 1958) y en el nombre de la Base Aérea de la Fuerza Aérea Francesa en Luxeuil (Base Aérienne 116 Luxeuil-Saint Sauveur), que rinde homenaje a la unidad.
+El cementerio memorial de Marnes-la-Coquette, dedicado en 1928, recuerda a ese colectivo más amplio. Sus 68 sarcófagos representan a los aviadores del Flying Corps muertos durante la contienda; no deben interpretarse como 68 miembros de la escuadrilla enterrados allí. La ABMC indica que la cripta contiene los restos de 49 de aquellos aviadores y de dos mandos franceses.
 
-El Lafayette Flying Corps, con sus 265 voluntarios, 51 muertos en combate y 159 victorias aéreas, dejó una huella indeleble en la historia de la aviación. La escuadrilla original, con sus 38 pilotos y 57 derribos, sigue siendo el núcleo legendario de esa gesta.
-
-El 20 de abril de 1916 marcó el nacimiento de una leyenda. Cien años después, en 2016, Francia y Estados Unidos conmemoraron el centenario de la fundación de la Escuadrilla Lafayette, honrando a los hombres que, con sus frágiles aviones de madera y tela, forjaron un vínculo inquebrantable entre dos naciones.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria:</strong> Existe una distinción importante entre la <strong>Escuadrilla Lafayette</strong> (Escadrille de Lafayette) y el <strong>Lafayette Flying Corps</strong>. La Escuadrilla Lafayette fue una unidad específica (N.124) que operó bajo mando francés con 38 pilotos estadounidenses. El Lafayette Flying Corps es un término colectivo que abarca a todos los estadounidenses (265 en total) que sirvieron como pilotos en diversas unidades de la aviación francesa durante la Primera Guerra Mundial, incluyendo a los de la Escuadrilla Lafayette. Decir que un piloto sirvió en el Lafayette Flying Corps no implica necesariamente que sirviera en la Escuadrilla Lafayette.</p>
-<p>La fecha del 20 de abril de 1916 corresponde al despliegue inicial de la unidad en Luxeuil-les-Bains. Algunas fuentes mencionan el 21 de marzo de 1916 como la fecha de autorización oficial por parte del gobierno francés. La efeméride se conmemora el 20 de abril por ser la fecha en que la unidad comenzó efectivamente sus operaciones.</p>
-</div>
+Otra parte del legado es documental. Los diarios de operaciones de Thenault conservados por el Smithsonian permiten estudiar patrullas, averías y meteorología, además de enfrentamientos. Su existencia ofrece una base más rica que la simple comparación de puntuaciones individuales.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -137,23 +86,25 @@ El 20 de abril de 1916 marcó el nacimiento de una leyenda. Cien años después,
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Escuadrilla_Lafayette" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Escuadrilla Lafayette</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Lafayette_Escadrille" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Lafayette Escadrille</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196755/escadrille-lafayette/" style="color: #315fea; text-decoration: none;">National Museum of the U.S. Air Force - Escadrille Lafayette</a></li>
-    <li><a href="https://webarchiveweb.wayback.bac-lac.canada.ca/web/20180116093327/https://encyclopedia.1914-1918-online.net/article/lafayette_escadrille" style="color: #315fea; text-decoration: none;">1914-1918 Online Encyclopedia - Lafayette Escadrille</a></li>
-    <li><a href="https://www.smithsonianmag.com/air-space-magazine/a-piece-of-lafayette-escadrille-history-146541846/" style="color: #315fea; text-decoration: none;">Smithsonian Magazine - A Piece of Lafayette Escadrille History</a></li>
-    <li><a href="https://airandspace.si.edu/stories/editorial/operational-logs-lafayette-escadrille" style="color: #315fea; text-decoration: none;">Smithsonian Air and Space Museum - Operational Logs of the Lafayette Escadrille</a></li>
-    <li><a href="https://www.usaww1.com/Lafayette_Escadrille.php5" style="color: #315fea; text-decoration: none;">USA WW1 Aviation - Lafayette Escadrille</a></li>
-    <li><a href="https://www.lejsl.com/culture-loisirs/2021/04/20/20-avril-1916-le-tout-premier-deploiement-de-l-escadrille-lafayette" style="color: #315fea; text-decoration: none;">Le Journal de Saône-et-Loire - 20 avril 1916 : déploiement Escadrille Lafayette</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197457/escadrille-americaine/" style="color: #315fea; text-decoration: none;">National Museum of the USAF — Escadrille Americaine; siete pilotos iniciales, despliegue y primeras misiones.</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196755/escadrille-lafayette/" style="color: #315fea; text-decoration: none;">National Museum of the USAF — Escadrille Lafayette; transferencia, balance y fotografía.</a></li>
+    <li><a href="https://airandspace.si.edu/stories/editorial/operational-logs-lafayette-escadrille" style="color: #315fea; text-decoration: none;">Smithsonian, National Air and Space Museum — Chris Cottrill, Operational Logs of the Lafayette Escadrille (2016).</a></li>
+    <li><a href="https://www.abmc.gov/cemeteries-memorials/about-lafayette-escadrille-memorial-cemetery/" style="color: #315fea; text-decoration: none;">American Battle Monuments Commission — historia y composición del memorial Lafayette.</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
-## Metadatos de Control
+<div class="note-box">
+  <p><strong>Nota aclaratoria:</strong> Las síntesis no usan siempre «creación» para el mismo momento: una cosa es organizar la unidad, otra destinarla al frente y otra adoptar su nombre definitivo. También difieren los balances de combate: el museo de la USAF recoge 57 victorias y nueve pilotos muertos, mientras el artículo del Smithsonian ofrece 39 derribos hasta el 22 de diciembre de 1917 y 14 muertos en servicio o en combate. Son períodos y categorías diferentes. No se suman ni se presentan como magnitudes directamente equivalentes.</p>
+</div>
 
-- **Timestamp de verificación:** 2026-09-09 14:26:52 CST
-- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), National Museum of the USAF, 1914-1918 Online Encyclopedia, Smithsonian Magazine, USA WW1 Aviation
-- **Discrepancias resueltas:** Se ha aclarado la diferencia entre la Escuadrilla Lafayette y el Lafayette Flying Corps. También se ha precisado que la fecha del 20 de abril de 1916 corresponde al despliegue de la unidad, mientras que la autorización oficial fue el 21 de marzo de 1916.
-- **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
+## Metadatos de Control
+- **Timestamp de verificación:** 2026-10-02 18:18:21 CST  
+- **Fuentes primarias/institucionales consultadas:** National Museum of the USAF; Smithsonian; ABMC.  
+- **Fuentes secundarias de contraste:** Ninguna.  
+- **Discrepancias resueltas:** Despliegue, primera misión y cambio de nombre separados; balances no homologados.  
+- **Nivel de confianza:** Alto  
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
