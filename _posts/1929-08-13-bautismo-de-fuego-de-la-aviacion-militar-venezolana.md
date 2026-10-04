@@ -27,7 +27,7 @@ image: 1929-08-13-bautismo-de-fuego-de-la-aviacion-militar-venezolana.webp
 - **Unidades empleadas:** Breguet 19 de la Escuela de Aviación Militar, Campo de Aviación de Maracay
 - **Tripulaciones del 12 de agosto:** Breguet N.º 2, Capitán Gastón Lafannechère con el artillero Marcel Pousin; N.º 4, Capitán <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/01/06/nacimiento-manuel-rios-hernandez.html" style="color: #315fea; text-decoration: none;">Manuel Simón Ríos Hernández</a>; N.º 5, Teniente <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/05/15/nacimiento-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Vicente Landaeta Gil</a>
 - **Tripulación del 13 de agosto:** Breguet N.º 1, Teniente Antonio María Villegas con el Teniente de Navío Roberto Guérin, jefe de la Misión Francesa, como observador-artillero
-- **Mando de la Escuela:** Coronel David López Henríquez, director de la Escuela de Aviación Militar
+- **Mando de la Escuela:** el director, Coronel David López Henríquez
 - **Armamento empleado:** bombas de 10 kilogramos y ametralladoras Vickers y Lewis de 7,7 mm
 - **Bajas propias:** artillero Marcel Pousin, herido en la mano derecha por esquirlas; Breguet N.º 2 con dos impactos en el ala inferior derecha y uno en el fuselaje
 - **Contexto inmediato:** Expedición del Falke, desembarcada el 11 de agosto de 1929 al mando del General Román Delgado Chalbaud, muerto en el combate junto al General Emilio Fernández, presidente del estado Sucre
@@ -56,7 +56,7 @@ Para la joven institución, criada entre vuelos de instrucción y raids de prest
 - **11 de agosto, noche:** El Coronel López Henríquez recibe la orden de preparar una misión para localizar y bombardear al Falke.
 - **12 de agosto, 05:00:** Despegan de Maracay tres Breguet 19 armados con bombas de 10 kilogramos y ametralladoras.
 - **12 de agosto, mañana:** La escuadrilla no halla al Falke en el mar y cambia el objetivo: bombardea y ametralla los reductos rebeldes que aún combaten en Cumaná y hostiga a los que asedian el Castillo de San Antonio, defendido por el General Enrique Tovar.
-- **12 de agosto, retorno:** Desde tierra se responde al fuego por primera vez en la historia venezolana: el Breguet N.º 2 aterriza en Maracay con dos impactos en el ala inferior derecha y uno en el fuselaje; el artillero Pousin recibe esquirlas en la mano derecha.
+- **12 de agosto, retorno:** Desde tierra se responde al fuego por primera vez en la historia venezolana: el Breguet N.º 2 aterriza en Maracay con tres impactos repartidos entre ala y fuselaje, y el artillero Pousin herido en la mano.
 - **13 de agosto:** Despega el Breguet N.º 1 con Villegas y Guérin; ataca el reducto que amenaza el Castillo de San Antonio y verifica la retirada de los insurgentes.
 - **13 de agosto, tarde:** Con el repliegue rebelde hacia el cerro Santa Ana termina la intervención aérea; las autoridades la reconocen como la primera acción bélica de la aviación militar venezolana.
 
@@ -94,7 +94,7 @@ Noventa y siete años después, el 12 y 13 de agosto de 1929 siguen siendo la fe
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-07 10:46:34 CST
+- **Timestamp de verificación:** 2026-10-04 17:11:57 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), Fundación Empresas Polar, Redalyc (Procesos Históricos), Wikimedia Commons y documento FAV Ven del investigador
 - **Discrepancias resueltas:** La intensidad del combate aéreo diverge entre la tradición aeronáutica (bombardeo y contrafuego antiaéreo) y Polar (reconocimiento); se adopta la primera y se deja nota aclaratoria. El tonelaje del Falke (1.200 t en Polar, 1.600 t en el documento del investigador) y el día exacto de la escala en La Blanquilla (6 u 8 de agosto) se omitieron por no ser esenciales ni estar conciliados. El artillero aparece como Pousin, Ponsin o Poussin según las fuentes; se adopta Pousin, grafía del documento aeronáutico.
 - **Nivel de confianza:** Alto

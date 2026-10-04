@@ -19,8 +19,8 @@ image: 1930-09-02-primer-vuelo-sin-escalas-paris-nueva-york.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 2 de septiembre de 1930, a las 19:12 horas (hora local de Nueva York, 23:12 GMT), el biplano Breguet 19 Super Bidon «Point d'Interrogation» tomó tierra en el aeródromo de Curtiss Field, en Valley Stream (Long Island), pilotado por Dieudonné Costes y navegado por Maurice Bellonte. Habían despegado del aeródromo de París-Le Bourget a las 09:58 GMT del 1 de septiembre, culminando en 37 horas y 18 minutos la primera travesía transatlántica directa y sin escalas en sentido este-oeste entre París y Nueva York.</p>
-<p>La victoria de la tripulación francesa resolvió el desafío más exigente de la aviación intercontinental de entreguerras: volar en sentido contrario a los vientos dominantes del Atlántico Norte, una barrera meteorológica que en mayo de 1927 se había cobrado las vidas de Charles Nungesser y François Coli a bordo de <em>L'Oiseau Blanc</em>. Más de 25.000 personas, con Charles Lindbergh a la cabeza en la pista de aterrizaje, brindaron un recibimiento apoteósico a los aviadores galos tras haber recorrido unos 6.200 km sorteando nieblas cerradas sobre Terranova y tormentas en Nueva Escocia.</p>
+<p>El 2 de septiembre de 1930, el biplano Breguet 19 Super Bidon «Point d'Interrogation» tomó tierra en Curtiss Field (Valley Stream, Long Island) a las 19:12 hora local de Nueva York (23:12 GMT), pilotado por Dieudonné Costes y navegado por Maurice Bellonte. Habían despegado de París-Le Bourget a las 09:58 GMT del 1 de septiembre y completaron en 37 horas y 18 minutos la primera travesía transatlántica directa y sin escalas, de este a oeste, entre París y Nueva York.</p>
+<p>La tripulación francesa venció el desafío más exigente de la aviación intercontinental de entreguerras: volar contra los vientos dominantes del Atlántico Norte, barrera que en mayo de 1927 se había cobrado la vida de Charles Nungesser y François Coli a bordo de <em>L'Oiseau Blanc</em>. Más de 25.000 personas, con Charles Lindbergh a la cabeza en la pista, recibieron a los aviadores galos tras unos 6.200 km de nieblas sobre Terranova y tormentas en Nueva Escocia.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -49,7 +49,7 @@ El recuerdo de la tragedia de mayo de 1927 pesaba en la conciencia de la socieda
 
 ### Entorno tecnológico
 
-Cruzar el Atlántico hacia América obligaba a remontar de manera constante vientos dominantes de proa que restaban entre 30 y 50 km/h de velocidad de avance respecto al suelo, extendiendo el vuelo por encima de las 35 horas frente a las 33 horas y media que le habían bastado a Lindbergh en dirección este. Para sortear esa penalización, Louis Breguet rediseñó el afamado modelo 19 hasta concebir el Super Bidon: alargó la envergadura del plano superior hasta los 18,30 metros, ensanchó el fuselaje central para alojar colosales tanques estructurales de combustible y adaptó el motor Hispano-Suiza 12Nb de 650 CV para garantizar un consumo optimizado a baja altitud. Al despegar de Le Bourget, el aparato pesaba 6.375 kg, de los cuales más del 60 % correspondían a gasolina y aceite lubricante.
+Cruzar el Atlántico hacia América obligaba a remontar vientos dominantes de proa que restaban de 30 a 50 km/h de avance sobre el suelo, alargando el vuelo más de 35 horas frente a las 33 y media de Lindbergh hacia el este. Para sortear esa penalización, Louis Breguet rediseñó el afamado modelo 19 hasta concebir el Super Bidon: alargó la envergadura del plano superior hasta los 18,30 metros, ensanchó el fuselaje central para alojar colosales tanques estructurales y adaptó el Hispano-Suiza 12Nb de 650 CV para un consumo optimizado a baja altitud. Al despegar, el aparato pesaba 6.375 kg, con más del 60 % de gasolina y aceite.
 
 ### Entorno cultural
 
@@ -64,29 +64,29 @@ El duelo transatlántico entre las capitales simbolizaba la hermandad y la emula
 - **13 de julio de 1929:** Costes y Bellonte intentan por primera vez la travesía París–Nueva York en el *Point d'Interrogation*, pero deben virar en redondo y aterrizar en Villacoublay tras volar 17 horas al topar con vientos contrarios insalvables sobre las Azores.
 - **27 al 29 de septiembre de 1929:** como demostración palmaria de la autonomía del aparato, Costes y Bellonte baten el récord mundial de distancia en línea recta volando 7.905 km sin escalas desde París hasta Tsitsihar, en Manchuria.
 - **31 de agosto de 1930:** el ingeniero meteorólogo André Viaut certifica una ventana de calma relativa con vientos de cola moderados en el primer tercio del Atlántico; Costes y Bellonte autorizan el llenado máximo de combustible.
-- **1 de septiembre de 1930, 09:58 GMT (10:58 hora de París):** el *Point d'Interrogation* despega de Le Bourget tras una larga carrera de rodaje de casi un kilómetro sobre la pista acondicionada, poniendo proa hacia la costa de Normandía.
-- **Noche del 1 al 2 de septiembre:** la aeronave asciende a 3.000 metros de altitud sobre el océano. Bellonte calcula la posición y mantiene el rumbo sirviéndose del sextante de burbuja con las estrellas y enlaces radiotelegráficos periódicos con buques mercantes en alta mar.
-- **2 de septiembre, mediodía:** los vientos de proa arrecian y reducen la velocidad a 120 km/h. Al aproximarse a las costas de Terranova y Nueva Escocia, densas masas de niebla ciegan el horizonte. Costes se ve obligado a descender a menos de 100 metros sobre el oleaje y trazar un desvío de más de 150 km hacia el sur para esquivar una tempestad antes de virar de nuevo al oeste sobre el golfo de Maine.
+- **1 de septiembre de 1930, 09:58 GMT (10:58 hora de París):** el *Point d'Interrogation* despega de Le Bourget tras una carrera de rodaje de casi un kilómetro por la pista acondicionada, con proa a la costa de Normandía.
+- **Noche del 1 al 2 de septiembre:** la aeronave asciende a 3.000 metros sobre el océano. Bellonte calcula la posición y mantiene el rumbo con el sextante de burbuja y las estrellas, y con enlaces radiotelegráficos con buques mercantes.
+- **2 de septiembre, mediodía:** los vientos de proa arrecian y reducen la velocidad a 120 km/h. Al aproximarse a las costas de Terranova y Nueva Escocia, densas masas de niebla ciegan el horizonte. Costes desciende a menos de 100 metros sobre el oleaje y traza un desvío de más de 150 km al sur para esquivar la tempestad, antes de virar al oeste sobre el golfo de Maine.
 - **2 de septiembre, 18:30 horas (hora local):** el biplano sobrevuela la bahía de Boston y enfila la línea costera de Connecticut hacia el estado de Nueva York.
 - **2 de septiembre, 19:12 horas (hora de Nueva York, 23:12 GMT):** tras 37 horas y 18 minutos de permanencia ininterrumpida en el aire, el *Point d'Interrogation* aterriza con suavidad en Curtiss Field (Valley Stream, Long Island). Charles Lindbergh acude inmediatamente al encuentro de los pilotos franceses a pie de escala.
-- **4 de septiembre de 1930:** la ciudad de Nueva York rinde a Costes y Bellonte un apoteósico desfile triunfal en Broadway con lluvia de confeti ante millones de personas, siendo condecorados por el alcalde Jimmy Walker y recibidos en Washington D.C. por el presidente Herbert Hoover.
-- **1938:** la aeronave original F-AIRR es cedida formalmente al Musée de l'Air et de l'Espace de Francia, donde permanece preservada.
+- **4 de septiembre de 1930:** Nueva York les rinde un desfile triunfal por Broadway con lluvia de confeti, son condecorados por el alcalde Jimmy Walker y recibidos en Washington D.C. por el presidente Herbert Hoover.
+- **1938:** la aeronave original F-AIRR se cede al museo aeronáutico de Le Bourget, donde permanece preservada.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-El éxito del *Point d'Interrogation* demostró que el océano Atlántico podía ser franqueado en ambos sentidos con margen de seguridad y rigor técnico, despejando el camino hacia las futuras líneas comerciales regulares. Al completar la ruta París–Nueva York contra el flujo de los vientos alisios y las corrientes en chorro polares, Francia se adjudicó la última gran corona pendiente de la era de los raids transatlánticos pioneros.
+El éxito del *Point d'Interrogation* demostró que el Atlántico podía franquearse en ambos sentidos con seguridad y rigor, despejando el camino de las líneas comerciales regulares. Al completar la ruta contra los alisios y las corrientes en chorro polar, Francia se adjudicó la última gran corona de la era de los raids pioneros.
 
-El vuelo consolidó a nivel internacional la maestría tecnológica de la industria aeronáutica francesa: los motores Hispano-Suiza demostraron una fiabilidad mecánica insuperable al girar sin interrupción ni sobrecalentamiento durante casi 40 horas bajo regímenes variables, mientras que el diseño aerodinámico del fuselaje ensanchado de Louis Breguet confirmó las virtudes de las aleaciones ligeras de duraluminio. En el plano diplomático, el éxito contribuyó a disipar el amargo sentimiento dejado por la pérdida de *L'Oiseau Blanc* tres años antes y afianzó los lazos de fraternidad entre Francia y los Estados Unidos en un periodo de crecientes turbulencias económicas mundiales.
+El vuelo consolidó la maestría de la industria aeronáutica francesa: los Hispano-Suiza giraron casi 40 horas sin interrupción ni sobrecalentamiento bajo regímenes variables, y el diseño del fuselaje ensanchado de Louis Breguet confirmó las virtudes del duraluminio. En lo diplomático, ayudó a disipar el amargo sentir por la pérdida de *L'Oiseau Blanc* y afianzó los lazos entre Francia y los Estados Unidos en plena turbulencia económica mundial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-Noventa y seis años después de su hazaña, el vuelo del *Point d'Interrogation* perdura en los manuales de historia aeronáutica como la obra cumbre del raid transatlántico clásico de entreguerras. La perfecta conjunción entre la pericia de vuelo del piloto Dieudonné Costes y la navegación instrumental y meteorológica de Maurice Bellonte anticipó el trabajo en equipo multipersonal que rige las tripulaciones comerciales contemporáneas.
+Noventa y seis años después, el vuelo del *Point d'Interrogation* perdura como la obra cumbre del raid transatlántico clásico de entreguerras. La conjunción entre la pericia de Costes y la navegación instrumental de Maurice Bellonte anticipó el trabajo en equipo de las tripulaciones comerciales actuales.
 
-La emblemática aeronave biplano de color rojo escarlata, con su famoso signo de interrogación intacto en el fuselaje, se exhibe permanentemente en el Gran Hall del Musée de l'Air et de l'Espace en el Aeropuerto de París-Le Bourget, en el mismo aeródromo desde donde despegó hacia la gloria en 1930. Maurice Bellonte, quien sobrevivió a su compañero de vuelo y falleció en 1984 a los 87 años, reposa en el cementerio parisino de Passy a escasa distancia de Costes, sellando en la memoria francesa el recuerdo indisociable de los dos pioneros que vencieron el Atlántico hacia el poniente.
+La emblemática aeronave roja, con su signo de interrogación intacto, se exhibe en el Gran Hall del Musée de l'Air et de l'Espace de Le Bourget, junto al mismo aeródromo desde donde despegó en 1930. Maurice Bellonte, que sobrevivió a su compañero y falleció en 1984 a los 87 años, reposa en el cementerio de Passy a escasa distancia de Costes: la memoria francesa selló el recuerdo de los dos pioneros que vencieron el Atlántico hacia el poniente.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -104,14 +104,14 @@ La emblemática aeronave biplano de color rojo escarlata, con su famoso signo de
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-<p><strong>Nota aclaratoria:</strong> las fuentes históricas presentan una leve divergencia en el cronometraje final del tiempo de vuelo transcurrido entre el despegue de Le Bourget y el toque de ruedas en Curtiss Field: mientras que el registro de la Federación Aeronáutica Francesa y la prensa generalista de la época consignaron 37 horas y 18 minutos de vuelo, algunos registros técnicos de cabina y resúmenes museísticos anglosajones citan 37 horas y 12 minutos, diferencia atribuible a la toma de contacto visual sobre Long Island frente a la detención completa del motor en la plataforma de Valley Stream. Asimismo, el aeródromo de destino figuró contemporáneamente bajo la doble denominación de Curtiss Field y Valley Stream Airport antes de su posterior absorción urbana.</p>
+<p><strong>Nota aclaratoria:</strong> existe una leve divergencia entre las fuentes en el cronometraje final del tiempo de vuelo transcurrido entre el despegue de Le Bourget y el toque de ruedas en Curtiss Field: mientras que el registro de la Federación Aeronáutica Francesa y la prensa generalista de la época consignaron 37 horas y 18 minutos de vuelo, algunos registros técnicos de cabina y resúmenes museísticos anglosajones citan 37 horas y 12 minutos, diferencia atribuible a la toma de contacto visual sobre Long Island frente a la detención completa del motor en la plataforma de Valley Stream. Asimismo, el aeródromo de destino figuró contemporáneamente bajo la doble denominación de Curtiss Field y Valley Stream Airport antes de su posterior absorción urbana.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-27 14:20:00 CST
+- **Timestamp de verificación:** 2026-10-04 17:11:57 CST
 - **Fuentes primarias/institucionales consultadas:** Musée de l'Air et de l'Espace (Le Bourget); Smithsonian National Air and Space Museum; Bibliothèque nationale de France (Gallica / prensa histórica); Fédération Aéronautique Internationale (registros de récords).
 - **Fuentes secundarias de contraste:** Archivos de prensa y fondos fotográficos de la Library of Congress (Bain Collection) y Air-Journal.
 - **Discrepancias resueltas:** Tiempo de vuelo exacto (37 h 18 min homologados frente a 37 h 12 min de contacto inicial de costa; se aclara en nota); denominación del punto de aterrizaje (Curtiss Field en Valley Stream, Long Island).

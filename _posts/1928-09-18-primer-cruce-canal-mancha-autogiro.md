@@ -19,7 +19,7 @@ image: 1928-09-18-primer-cruce-canal-mancha-autogiro.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El martes 18 de septiembre de 1928, el ingeniero español Juan de la Cierva, de 32 años, despegó del aeródromo londinense de Croydon a los mandos de su autogiro C.8L-II, matrícula G-EBYY, y cruzó el Canal de la Mancha hasta Le Bourget, junto a París. Le acompañaba como pasajero el periodista francés Henri Bouché, director de la revista L'Aéronautique. El tramo sobre el agua, de unos 40 kilómetros, le llevó 18 minutos, a 1.219 metros de altitud.</p>
+  <p>El martes 18 de septiembre de 1928, el ingeniero Juan de la Cierva, de 32 años, despegó del aeródromo londinense de Croydon a los mandos de su autogiro C.8L-II, matrícula G-EBYY, y cruzó el Canal de la Mancha hasta Le Bourget, junto a París. Le acompañaba como pasajero el periodista francés Henri Bouché, director de la revista L'Aéronautique. El tramo sobre el agua, de unos 40 kilómetros, le llevó 18 minutos, a 1.219 metros de altitud.</p>
   <p>Era la primera vez que un aparato de ala giratoria cruzaba el Canal, y el primer vuelo internacional de un autogiro. La travesía convirtió a Cierva en una celebridad mundial, abrió la puerta a las licencias de fabricación en Europa y Estados Unidos, y demostró que el vuelo en autorrotación había dejado de ser un experimento para convertirse en una forma práctica de viajar.</p>
 </div>
 
@@ -28,7 +28,7 @@ image: 1928-09-18-primer-cruce-canal-mancha-autogiro.webp
 ## Datos verificados del evento
 - **Fecha del vuelo:** martes 18 de septiembre de 1928
 - **Ruta:** aeródromo de Croydon (Londres, Reino Unido) – Le Bourget (París, Francia)
-- **Tramo sobre el mar:** unas 25 millas (40 km), en 18 minutos, a 4.000 pies (1.219 m) de altitud
+- **Tramo sobre el mar:** unas 25 millas (40 km), en 18 minutos, a 1.219 metros de altitud (4.000 pies)
 - **Piloto:** Juan de la Cierva y Codorníu (Murcia, 1895 – Croydon, 1936), ingeniero de caminos e inventor del autogiro
 - **Pasajero:** el periodista francés Henri Bouché, director de la revista L'Aéronautique
 - **Aeronave:** autogiro Cierva C.8L-II (Avro Type 617), matrícula G-EBYY; ejemplar único de su versión, construido para el Comodoro del Aire James G. Weir, presidente de la compañía
@@ -82,7 +82,7 @@ El Canal convirtió al autogiro en un producto: en meses pasó de la mesa del in
 
 En la década siguiente se construyeron unos 500 autogiros en todo el mundo. El diseño siguió madurando: en 1932 el rotor de mando directo eliminó alerones y alitas, y en 1934 un dispositivo de despegue vertical acercó el autogiro al helicóptero verdadero. En Estados Unidos el aparato vivió sus años dorados, con hitos como el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1931/04/08/amelia-earhart-autogiro-record-altitud.html" style="color: #315fea; text-decoration: none;">récord de altitud de Amelia Earhart en autogiro</a> del 8 de abril de 1931, con 18.415 pies (5.615 m), y el aterrizaje de un autogiro en el jardín de la Casa Blanca el 22 de abril de 1931, en la ceremonia en que el presidente Herbert Hoover entregó el trofeo Collier a Pitcairn. En España, el propio Cierva firmó el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1934/03/07/primer-apontaje-autogiro-portaviones-dedalo.html" style="color: #315fea; text-decoration: none;">primer apontaje de un autogiro en el portahidroaviones Dédalo</a> el 7 de marzo de 1934, con un despegue de solo 24 metros.
 
-Cierva no vio la madurez del helicóptero: murió el 9 de diciembre de 1936 en un accidente aéreo en Croydon. Su G-EBYY se conserva en el Museo del Aire y del Espacio de Le Bourget, el mismo aeródromo donde aterrizó aquel septiembre, y el C.8W de Pitcairn en el Museo Nacional del Aire y del Espacio de Washington. Noventa y ocho años después, el cruce sigue siendo la demostración fundadora del autogiro: un rotor que gira libre en autorrotación, movido por el aire en vez de por un motor, también puede unir dos países.
+Cierva no vio la madurez del helicóptero: murió el 9 de diciembre de 1936 en un accidente aéreo en Croydon. Su G-EBYY se conserva en el Museo del Aire y del Espacio de Le Bourget, el mismo aeródromo donde aterrizó aquel septiembre, y el C.8W de Pitcairn en la colección aeronáutica del Smithsonian, en Washington. Noventa y ocho años después, el cruce sigue siendo la demostración fundadora del autogiro: un rotor que gira libre en autorrotación, movido por el aire en vez de por un motor, también puede unir dos países.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -108,9 +108,9 @@ Cierva no vio la madurez del helicóptero: murió el 9 de diciembre de 1936 en u
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-12 05:54:57 CST  
-- **Fuentes primarias/institucionales consultadas:** Real Academia de la Historia (Historia Hispánica), ficha biográfica de Juan de la Cierva y Codorníu; U.S. Centennial of Flight Commission, ensayo «The Contributions of the Autogyro»; Fundación Séneca, efeméride del cruce del Canal; Vertical Flight Society (Vertipedia), hito del primer cruce en ala giratoria, con remisión a Brooks (Smithsonian Institution Press, 1988)  
-- **Fuentes secundarias de contraste:** HistoryNet / Aviation History, «Juan de la Cierva: Autogiro Genius»; Wikipedia (EN), entrada «Cierva C.8»; Wikipedia (ES), entrada «Cierva C.8»  
-- **Discrepancias resueltas:** (1) constitución de la Cierva Autogiro Company: 1925 según la U.S. Centennial of Flight Commission frente al 24 de marzo de 1926 según Vertipedia; el post no fecha la constitución. (2) Apellido del pasajero: «Boucher» en el pie de la agencia Meurisse frente a «Henri Bouché» en Vertipedia y Wikipedia; se sigue Bouché. (3) Primer vuelo en autogiro en Estados Unidos: 18 de diciembre de 1928 según Wikipedia (EN) frente al 19 de diciembre según HistoryNet y la Centennial of Flight; el post consigna solo el mes.  
+- **Timestamp de verificación:** 2026-10-04 17:11:57 CST  
+- **Fuentes primarias/institucionales consultadas:** Real Academia de la Historia, ficha de Juan de la Cierva; U.S. Centennial of Flight Commission, «The Contributions of the Autogyro»; Fundación Séneca, efeméride del cruce; Vertical Flight Society (Vertipedia, remite a Brooks, 1988)  
+- **Fuentes secundarias de contraste:** HistoryNet, «Autogiro Genius»; Wikipedia (EN y ES), «Cierva C.8»  
+- **Discrepancias resueltas:** (1) constitución de la Cierva Autogiro Company: 1925 vs. 24 de marzo de 1926; el post no la fecha. (2) «Boucher» (Meurisse) vs. «Bouché» (Vertipedia y Wikipedia); se sigue Bouché. (3) primer vuelo en autogiro en EE. UU.: 18 vs. 19 de diciembre de 1928; solo se consigna el mes.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

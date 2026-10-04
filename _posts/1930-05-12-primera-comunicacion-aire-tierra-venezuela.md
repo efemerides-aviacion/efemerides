@@ -19,7 +19,7 @@ image: 1930-05-12-primera-comunicacion-aire-tierra-venezuela.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 12 de mayo de 1930 se realizó en Venezuela la primera comunicación aire-tierra de la Aviación Militar, entre un avión Breguet 19 Nro. 2 y estaciones de comunicaciones en tierra. El episodio marcó un avance importante en la integración entre vuelo y radiotelegrafía militar. La operación se desarrolló en Maracay y quedó vinculada al impulso técnico de Cecilio Arturo Beaujon, quien diseñó los planes de estudio de la reactivada Escuela de Radiotelegrafía Militar y lideró la construcción de las estaciones terrenas.</p>
+<p>El 12 de mayo de 1930 se realizó en Venezuela la primera comunicación aire-tierra de la Aviación Militar, entre un avión Breguet 19 Nro. 2 y estaciones de comunicaciones en tierra. El episodio marcó un avance importante en la integración entre vuelo y radiotelegrafía militar. La operación, en Maracay, quedó vinculada al impulso de Cecilio Arturo Beaujon, quien diseñó los planes de la reactivada Escuela de Radiotelegrafía Militar y dirigió la construcción de las estaciones terrenas.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -30,34 +30,32 @@ image: 1930-05-12-primera-comunicacion-aire-tierra-venezuela.webp
 - **Aeronave:** Breguet 19 Nro. 2
 - **Piloto:** Alférez de Navío Jorge Marcano
 - **Radio operador:** Especialista Guillermo Pacanins Acevedo (quien luego egresaría como piloto)
-- **Impulsor técnico:** Ing. Cecilio Arturo Beaujon (diseñó los planes de estudio, construyó las estaciones y operó la estación móvil)
-- **Estaciones en tierra:** Estación fija en los hangares de Maracay y estación móvil en una camioneta ubicada en la hacienda El Trompillo
+- **Impulsor técnico:** Ing. Cecilio Arturo Beaujon (diseñó los planes, construyó las estaciones y operó la estación móvil)
+- **Estaciones en tierra:** fija en los hangares de Maracay y móvil, en una camioneta, en la hacienda El Trompillo
 - **Contexto institucional:** Reactivación de la Escuela de Radiotelegrafía Militar, fundada originalmente en 1917
 - **Autorización:** Oficio Nro. 471 del 24 de octubre de 1929 del Coronel David López Henríquez al General Juan Vicente Gómez
 
 ### Los protagonistas
-La primera comunicación aire-tierra del 12 de mayo de 1930 contó con tres figuras fundamentales cuyas trayectorias profesionales marcaron la historia de la aviación y las comunicaciones en Venezuela. El piloto Jorge Marcano, el radio operador Guillermo Pacanins y el ingeniero Cecilio Arturo Beaujon desempeñaron roles complementarios que hicieron posible este hito.
+Tres figuras hicieron posible el hito: el piloto Jorge Marcano, el radiotelegrafista Guillermo Pacanins y el ingeniero Cecilio Arturo Beaujon.
 
 #### Jorge Marcano
 
-Piloto del Breguet 19 en la histórica misión, Marcano se destacó por su habilidad de vuelo y su carácter decidido. Según el testimonio de Pacanins, era conocido por "retozar con los aviones" y realizar maniobras acrobáticas. Su carrera posterior lo llevó a ocupar la Dirección de la Escuela de Aviación Militar.
+Piloto del Breguet en la misión, Marcano era conocido por "retozar con los aviones" y hacer acrobacias, según el testimonio de Pacanins; su carrera terminó al frente de la Escuela de Aviación Militar.
 
 #### Guillermo Pacanins Acevedo
 
-Nacido en La Guaira el 27 de febrero de 1909, Pacanins fue un militar, político y diplomático venezolano. Ingresó a la Escuela de Aviación Militar de Maracay en 1924, realizó el curso de mecánica y el de especialista en radiotelegrafía, egresando como Suboficial en la primera promoción de esta especialidad en 1929. El 12 de febrero de 1932 egresó de la Academia de Aviación Militar con el grado de Subteniente.
+Nacido en La Guaira el 27 de febrero de 1909, Pacanins fue militar, político y diplomático. En 1924 ingresó en la Escuela de Aviación Militar radicada en Maracay, donde cursó mecánica y radiotelegrafía, y egresó como Suboficial en la primera promoción de la especialidad, en 1929; en 1932 pasó a la Academia de Aviación Militar como Subteniente.
 
-Entre 1937 y 1940, bajo la presidencia de Eleazar López Contreras, fue designado Director de la Escuela de Aviación Militar. Fue fundador de la primera escuela de aviación civil privada en Venezuela, llamada Servicios Aéreos C.A. (SACA), en La Carlota.
-
-En el ámbito político, fue Gobernador del Distrito Federal entre 1950 y 1958 y Presidente de la Línea Aeropostal Venezolana (LAV) entre 1948 y 1950. Falleció en Caracas el 23 de junio de 1992.
+Dirigió la Escuela de Aviación Militar entre 1937 y 1940 y fundó la primera escuela de aviación civil privada del país, Servicios Aéreos C.A. (SACA), en La Carlota. Fue Gobernador del Distrito Federal (1950–1958) y Presidente de la Línea Aeropostal Venezolana (LAV, 1948–1950); falleció en Caracas el 23 de junio de 1992.
 
 #### Cecilio Arturo Beaujon
 
-Ingeniero de comunicaciones contratado para reactivar la Escuela de Radiotelegrafía Militar. Fue el responsable de los planes de estudio, la construcción de las estaciones de tierra y los equipos aéreos, y la operación de la estación móvil en El Trompillo. La Escuela de Comunicaciones y Electrónica de la Fuerza Armada (ESCOELFA) lo reconoce como su segundo Director Histórico. La Insignia al Instructor Académico lleva su nombre, y el Curso de Formación de Suboficiales Profesionales de Carrera Nro. 24, egresado en julio de 1997, fue bautizado en su honor.
+Ingeniero de comunicaciones contratado para reactivar la Escuela de Radiotelegrafía Militar: preparó los planes de estudio, construyó las estaciones de tierra y los equipos aéreos y operó la estación móvil de El Trompillo. La Escuela de Comunicaciones y Electrónica de la Fuerza Armada (ESCOELFA) lo reconoce como segundo Director Histórico; la Insignia al Instructor Académico y el Curso de Suboficiales Profesionales Nro. 24 (1997) llevan su nombre.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
-La base técnica del hecho se remonta a la Escuela de Radiotelegrafía Militar fundada el 27 de junio de 1917 en Puerto Cabello, a bordo del crucero Mariscal Sucre de la Armada Nacional. El 11 de enero de 1920, el instituto, sus alumnos y su Director, Teniente de Primera Clase Antonio Eloy Toro Key, pasaron a depender del Ministerio de Fomento, organismo que administraba las comunicaciones nacionales, interrumpiendo temporalmente su vinculación con la aviación.
+La base técnica del hecho se remonta a la Escuela de Radiotelegrafía Militar fundada el 27 de junio de 1917 en Puerto Cabello, a bordo del crucero Mariscal Sucre de la Armada Nacional. El 11 de enero de 1920, el instituto, sus alumnos y su Director, Teniente de Primera Clase Antonio Eloy Toro Key, pasaron a depender del Ministerio de Fomento, que administraba las comunicaciones nacionales, separándose temporalmente de la aviación.
 
 ### Entorno social
 Tal situación motivó al Coronel David López Henríquez, Director de la Escuela de Aviación Militar, a oficiar al General Juan Vicente Gómez, mediante nota Nro. 471 del 24 de octubre de 1929, solicitando la reactivación de una nueva Escuela de Radiotelegrafía Militar para formar especialistas en esta área. La solicitud fue aprobada en los siguientes términos:
@@ -68,7 +66,7 @@ Tal situación motivó al Coronel David López Henríquez, Director de la Escuel
 Luego de este receso, la aviación presentaba graves problemas para el control y asistencia al vuelo, el cual era muy deficiente y dependía exclusivamente del Telégrafo Nacional para el reporte de salida y llegada de los aviones. Esta situación se agravó cuando el Gobierno Nacional adquirió para la Aviación Militar los aviones Breguet 19, los cuales traían equipos de onda larga, pero no existían las estaciones en tierra ni el personal entrenado para explotar estas facilidades.
 
 #### La implementación técnica
-Para lograr los fines, se contrató al Ingeniero de Comunicaciones Cecilio Arturo Beaujon, quien preparó los planes de estudio e inició la construcción de estaciones de tierra y equipos aéreos, instalando en los hangares un taller y comenzando él personalmente a dictar las clases. También en el taller se prestaban servicios a la Marina, tomando a su cargo la construcción e instalación de facilidades en las unidades navales.
+Para lograrlo se contrató al Ingeniero de Comunicaciones Cecilio Arturo Beaujon, que trazó el plan de formación, levantó las estaciones en tierra y a bordo y abrió un taller en los hangares —atendiendo también a la Marina—, donde impartió las primeras clases.
 
 ### Entorno cultural
 La Venezuela de 1930 estaba gobernada por el General Juan Vicente Gómez, el Benemérito, y sus cuadros militares salían del Ejército y de la Marina: la enseñanza de la radiotelegrafía había empezado en 1917 sobre la cubierta de un crucero, y los oficiales que volaban terminaban también de gobernadores o al frente de la Línea Aeropostal Venezolana.
@@ -83,15 +81,15 @@ La Venezuela de 1930 estaba gobernada por el General Juan Vicente Gómez, el Ben
 - **12 de mayo de 1930:** Primera comunicación aire-tierra exitosa entre un Breguet 19 y las estaciones de Maracay y El Trompillo
 - **1932:** Guillermo Pacanins egresa como Subteniente de la Escuela de Aviación Militar
 - **1933:** Pacanins es designado piloto de la recién creada Línea Aeropostal Venezolana
-- **1937-1940:** Pacanins se desempeña como Director de la Escuela de Aviación Militar
+- **1937-1940:** Pacanins dirige la Escuela de Aviación Militar
 - **Julio de 1997:** ESCOELFA bautiza el Curso de Formación de Suboficiales Nro. 24 con el nombre de Cecilio Arturo Beaujon
 
 ### El vuelo del 12 de mayo de 1930
-La primera comunicación aire-tierra se llevó a cabo el 12 de mayo de 1930 entre el avión Breguet 19 Nro. 2, la estación fija de los hangares y una estación móvil instalada en una camioneta. La estación móvil, manejada por el Ingeniero Beaujon, se situó en la hacienda "El Trompillo", donde se encontraba el General Gómez. En Maracay se encontraba el Ministro de Guerra y Marina, General Tobías Uribe.
+El enlace del 12 de mayo conectó el Breguet 19 Nro. 2 con la estación fija de los hangares de Maracay y con la estación móvil instalada en una camioneta de la hacienda "El Trompillo", donde se hallaba el General Gómez; en Maracay atendía el titular de la Guerra y Marina, General Tobías Uribe.
 
 #### La tripulación
 
-El avión fue pilotado por el Alférez de Navío Jorge Marcano, quien luego desarrollaría una prestigiosa carrera operacional y llegaría a ser Director de la Escuela de Aviación Militar. El radio operador fue el especialista Guillermo Pacanins Acevedo, quien se había graduado como radiotelegrafista en el primer grupo antes de ser seleccionado para el curso de pilotaje.
+El avión fue pilotado por el Alférez de Navío Jorge Marcano, quien luego llegó a jefatura de la Escuela de Aviación Militar; la radio corrió a cargo del especialista Guillermo Pacanins Acevedo, egresado de la primera promoción de radiotelegrafía.
 
 #### El testimonio de Pacanins
 
@@ -101,31 +99,30 @@ Guillermo Pacanins relató en su libro la experiencia de aquel vuelo histórico:
 
 #### El significado del evento
 
-A pesar del contratiempo técnico (la pérdida de la antena durante las maniobras acrobáticas de Marcano), la comunicación se consideró un éxito. Demostró la viabilidad de integrar la radiotelegrafía en las operaciones aéreas militares, sentando las bases para el control y asistencia de vuelos que tanto necesitaba la aviación nacional.
+El contratiempo de la antena no empañó el éxito: quedó demostrada la viabilidad de integrar la radiotelegrafía en las operaciones aéreas militares, base del control y la asistencia de vuelos que tanto necesitaba la aviación nacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 - **Modernización de las comunicaciones aéreas:** Este hito permitió superar la dependencia del Telégrafo Nacional, estableciendo un sistema de comunicación directa durante los vuelos.
-- **Formación de especialistas:** La reactivación de la Escuela de Radiotelegrafía Militar permitió la formación de personal técnico calificado, cuyos egresados sirvieron en la aviación y la marina.
-- **Precedente institucional:** La experiencia adquirida sentó las bases para el desarrollo posterior de los sistemas de comunicaciones en la Fuerza Aérea Venezolana.
-- **Legado en ESCOELFA:** La actual Escuela de Comunicaciones y Electrónica de la Fuerza Armada es la heredera directa de aquella primera escuela, manteniendo viva la tradición iniciada en 1917 y consolidada en 1930 con la gestión de Beaujon.
+- **Formación de especialistas:** La reapertura de la Escuela de Radiotelegrafía Militar formó especialistas calificados cuyos egresados sirvieron en la aviación y en la marina.
+- **Precedente institucional:** Aquella experiencia sentó las bases de los sistemas de comunicaciones de la Fuerza Aérea Venezolana.
+- **Legado en ESCOELFA:** La actual ESCOELFA es heredera directa de aquella primera escuela, con la tradición iniciada en 1917 y consolidada en 1930 por Beaujon.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
-El 12 de mayo de 1930 quedó registrado como un hito fundamental en la historia de la aviación venezolana. La primera comunicación aire-tierra no solo resolvió un problema operativo inmediato (la falta de control y asistencia a los vuelos), sino que inauguró toda una tradición de formación técnica y desarrollo tecnológico en el país.
+El 12 de mayo de 1930 quedó registrado como hito fundamental de la aviación venezolana: no solo resolvió la falta de control y asistencia de los vuelos, sino que inauguró una tradición de formación técnica y desarrollo tecnológico.
 
-Los protagonistas de aquella jornada —Marcano, Pacanins y Beaujon— tuvieron destacadas carreras que influyeron profundamente en la aviación militar y civil venezolana. Pacanins, en particular, pasó de ser un joven radiotelegrafista a Director de la Escuela de Aviación Militar y, más tarde, a figura prominente en la aviación comercial.
+Marcano, Pacanins y Beaujon tuvieron carreras destacadas en la aviación militar y civil: Pacanins pasó de radiotelegrafista a jefe de la Escuela de Aviación Militar y a figura prominente de la aviación comercial.
 
-La Escuela de Radiotelegrafía Militar evolucionó hasta convertirse en la actual Escuela de Comunicaciones y Electrónica de la Fuerza Armada (ESCOELFA), que honra la memoria de Cecilio Arturo Beaujon como epónimo de sus programas de formación. La insignia al Instructor Académico que lleva su nombre es un testimonio del respeto y la admiración que despierta su legado.
+De aquella primera escuela nació la actual ESCOELFA, que honra la memoria de Cecilio Arturo Beaujon como epónimo de sus programas de formación; su insignia al Instructor Académico testimonia el respeto a su legado.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-<p><strong>Nota aclaratoria sobre la fecha:</strong> La primera comunicación aire-tierra se llevó a cabo el 12 de mayo de 1930. La Escuela de Radiotelegrafía Militar había sido fundada originalmente en 1917, pero fue reactivada en 1930 para responder a las necesidades de la aviación militar.</p>
+<p><strong>Nota aclaratoria sobre la fecha:</strong> La Escuela de Radiotelegrafía Militar se fundó originalmente en 1917 y fue reactivada en 1930 para responder a las necesidades de la aviación militar.</p>
 <p><strong>Sobre los Breguet 19:</strong> Estos aviones fueron adquiridos por el Gobierno Nacional y traían equipos de onda larga, cuya operación en tierra requería estaciones especializadas y personal entrenado, inexistentes antes de 1930.</p>
-<p><strong>Sobre el testimonio de Pacanins:</strong> El relato de Pacanins sobre la interrupción de la comunicación por la pérdida de la antena durante las maniobras acrobáticas es una anécdota clave que humaniza el evento y refleja el espíritu pionero de aquellos aviadores.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -143,7 +140,7 @@ La Escuela de Radiotelegrafía Militar evolucionó hasta convertirse en la actua
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
+- **Timestamp de verificación:** 2026-10-04 17:11:57 CST  
 - **Fuentes primarias/institucionales consultadas:** Documento fuente suministrado por Enrique Pomares, Fav Club Venezuela, Wikipedia (Enciclopedia El Mirador), Saber UCV
 - **Discrepancias resueltas:** La información proporcionada en el documento adjunto es consistente con las fuentes complementarias. Los detalles biográficos de Guillermo Pacanins fueron ampliados con fuentes externas. La fecha de la primera comunicación (12 de mayo de 1930) es consistente en todas las fuentes.
 - **Nivel de confianza:** Alto

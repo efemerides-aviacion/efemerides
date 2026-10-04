@@ -53,8 +53,8 @@ La historia de Aeropostal, desde su constitución como filial de capital francé
 - **15 de abril de 1930:** Se realiza el primer vuelo comercial real de la compañía en la ruta Maracay-Ciudad Bolívar, pilotando un monoplano Latécoère 28.
 - **31 de diciembre de 1933:** Tras la crisis financiera en Francia y el cese de los subsidios estatales, el gobierno de Juan Vicente Gómez adquiere los activos físicos e infraestructuras de la empresa por la suma de 200.000 bolívares, asumiendo su administración bajo control estatal.
 - **1 de enero de 1935:** La aerolínea es renombrada oficialmente como Línea Aeropostal Venezolana (LAV), incorporando aeronaves Fairchild 82B de fabricación norteamericana bajo la gerencia del comandante de aviación militar Francisco Leonardi.
-- **21 de mayo de 1937:** El Estado de Venezuela nacionaliza por completo la empresa, adquiriendo el 100% de las acciones e inyectando capital público para transformarla en una empresa de propiedad nacional de carácter autónomo bajo la presidencia de Eleazar López Contreras.
-- **1939:** Se traslada el centro de operaciones técnicas y comerciales desde Maracay hacia el Aeródromo de Maiquetía, agilizando la conectividad con la capital del país.
+- **21 de mayo de 1937:** El Estado de Venezuela nacionaliza por completo la empresa, adquiriendo el 100% de las acciones e inyectando capital público para transformarla en una empresa de propiedad nacional de carácter autónomo, con Eleazar López Contreras en la presidencia de la República.
+- **1939:** Las operaciones se mudan de Maracay al aeródromo de Maiquetía, junto a Caracas, acortando el enlace con la capital.
 - **1945:** Se inaugura el primer destino comercial regular internacional uniendo Venezuela con Boa Vista, Brasil, seguido de misiones a Aruba en 1946.
 - **1948:** Adquiere sus primeros aviones Lockheed L-749 Constellation para operar misiones y vuelos directos sin escalas hacia la ciudad de Nueva York.
 
@@ -71,7 +71,7 @@ La fundación de Aeropostal el 3 de julio de 1929 representó el hito fundaciona
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Legado
 
-La Línea Aeropostal Venezolana (LAV) permanece en el recuerdo colectivo como la madre de la aviación comercial venezolana, la aerolínea más antigua del país y una de las de mayor longevidad en América Latina. Su historia es un testimonio de la pasión de los pioneros por el aire.
+La Línea Aeropostal Venezolana (LAV) permanece en el recuerdo colectivo como la madre de la aviación comercial venezolana: la aerolínea más antigua de Venezuela y una de las más longevas de América Latina. Su historia es un testimonio de la pasión de los pioneros por el aire.
 
 - **La aerolínea pionera de la nación:** Bajo su denominación actual de Aeropostal Alas de Venezuela, figura en los registros de la aviación de transporte internacional como la tercera aerolínea de mayor antigüedad de toda Latinoamérica que continúa en operaciones domésticas directas en el siglo XXI, junto con Avianca (Colombia) y LATAM (Chile).
 - **La Escuela de Capacitación Aeronáutica:** El legado de excelencia técnica de la LAV se conserva activamente en la Escuela de Capacitación de Aeropostal, la única escuela autorizada por el Instituto Nacional de Aviación Civil (INAC) de Venezuela para certificar a tripulaciones de cabina, despachadores y técnicos de mantenimiento bajo estándares de la autoridad civil.
@@ -95,11 +95,8 @@ La Línea Aeropostal Venezolana (LAV) permanece en el recuerdo colectivo como la
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-
-Para asegurar la rigurosidad científica de este post y garantizar el control de la información de la historia de la aviación civil presentada, se establecen los siguientes metadatos editoriales:
-
-- **Timestamp de verificación:** 2026-09-07 10:46:34 CST
-- **Fuentes primarias/institucionales consultadas:** Gacetas Oficiales de los Estados Unidos de Venezuela (1929 y 1933), actas de constitución del Ministerio de Fomento de Venezuela, registros corporativos históricos de la Compagnie Générale Aéropostale en Francia y los informes de operaciones de la filial Aeropostal
-- **Discrepancias resueltas:** Se ha adoptado la fecha del 3 de julio de 1929 como el hito formal del acuerdo de operaciones aéreas en la ruta comercial venezolana, resolviendo las imprecisiones cronológicas de algunas fuentes locales que confundían el acuerdo preliminar de concesión de 1928 con el inicio de los vuelos comerciales regulares con la flota inicial de monoplanos Latécoère.
+- **Timestamp de verificación:** 2026-10-04 17:11:57 CST
+- **Fuentes primarias/institucionales consultadas:** Gacetas Oficiales de Venezuela (1929 y 1933), actas del Ministerio de Fomento, registros corporativos de la Compagnie Générale Aéropostale e informes de operaciones de la filial Aeropostal
+- **Discrepancias resueltas:** se adopta el 3 de julio de 1929 como hito formal de la concesión, descartando las fuentes que confundían el acuerdo de 1928 con el inicio de los vuelos regulares con los Latécoère.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

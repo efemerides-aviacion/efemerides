@@ -28,11 +28,11 @@ image: 1930-10-04-primer-aterrizaje-servicio-regular-sikorsky-s-38-campo-aviacio
 ## Datos verificados del evento
 
 - **Fecha:** sábado 4 de octubre de 1930.
-- **Hecho:** primer aterrizaje de una aeronave de servicio comercial regular en el Campo de Aviación de La Guaira.
+- **Hecho:** la primera aeronave de servicio comercial regular en aterrizar en el campo de tierra de Maiquetía.
 - **Aeronave:** un anfibio Sikorsky S-38 de Pan American Airways, bimotor de casco de hidrocanoa y ala alta; matrícula y tripulación del vuelo no constan.
 - **Operador:** Pan American Airways Inc.
 - **Lugar:** Campo de Aviación de La Guaira, sector Mare (Cabo Blanco), cerca de Maiquetía, litoral central de Venezuela; terrenos de la familia Luy.
-- **Resultado:** el campo de tierra quedó abierto al tráfico regular de la compañía; la reseña oficial del aeropuerto data de este aterrizaje el nacimiento de la aviación civil internacional en Venezuela.
+- **Resultado:** el campo de tierra quedó abierto al tráfico regular de la compañía; la reseña oficial del aeropuerto sitúa en este hecho el arranque de la aviación civil internacional venezolana.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -46,7 +46,7 @@ Llegar a Caracas desde el exterior significaba entonces entre cinco y diez días
 
 ### Entorno tecnológico
 
-El Sikorsky S-38 era un anfibio bimotor de casco de hidrocanoa y ala alta, con una doble cola montada sobre dos botalones: podía posarse en el agua y, con su tren de aterrizaje, operar también desde campos de tierra. Era obra de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1939/09/14/primer-vuelo-sikorsky-vs-300.html" style="color: #315fea; text-decoration: none;">Igor Sikorsky, cuyo helicóptero VS-300 realizaría su primer vuelo el 14 de septiembre de 1939</a>, y Pan American lo había convertido en el caballo de batalla de sus rutas caribeñas: sus marcas P.A.A. cubrían el ala de los aparatos que enlazaban islas y costas sin aeródromos. En Venezuela, la aviación comercial alternaba entre el campo militar de Maracay, los aeródromos petroleros y los lagos, ríos y radas donde los hidroaviones acuatizaban; la pista de tierra de Maiquetía era la excepción, no la regla.
+El Sikorsky S-38 era un anfibio bimotor de ala alta sobre un casco de hidrocanoa, con una doble cola montada sobre dos botalones: podía posarse en el agua y, con su tren de aterrizaje, operar también desde campos de tierra. Era obra de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1939/09/14/primer-vuelo-sikorsky-vs-300.html" style="color: #315fea; text-decoration: none;">Igor Sikorsky, cuyo helicóptero VS-300 realizaría su primer vuelo el 14 de septiembre de 1939</a>, y Pan American lo había convertido en el caballo de batalla de sus rutas caribeñas: sus marcas P.A.A. cubrían el ala de los aparatos que enlazaban islas y costas sin aeródromos. En Venezuela, la aviación comercial alternaba entre el campo militar de Maracay, los aeródromos petroleros y los lagos, ríos y radas donde los hidroaviones acuatizaban; la pista de tierra de Maiquetía era la excepción, no la regla.
 
 ### Entorno cultural
 
@@ -84,7 +84,7 @@ Noventa y seis años después, el campo que abrió aquel sábado de octubre de 1
 
 - **El aeropuerto.** Entre 1940 y 1945, Pan American hizo entrega de los aeropuertos de Maiquetía, Maturín y Maracaibo; el aeródromo de aquel aterrizaje es hoy el aeropuerto Internacional de Maiquetía «Simón Bolívar», heredero directo de la franja de la familia Luy.
 - **El método.** La fórmula de Pan American —escalas sobre el agua donde no había pistas y campos de tierra donde el tráfico los exigía, como el de La Guaira— se convirtió en el patrón de las rutas aéreas comerciales entre Estados Unidos y la Sudamérica de entreguerras.
-- **La fecha.** La reseña oficial del aeropuerto conserva el 4 de octubre de 1930 como el día del primer aterrizaje de una aeronave de servicio regular en el campo, la piedra inaugural de la aviación civil internacional en Venezuela.
+- **La fecha.** La reseña oficial del aeropuerto conserva el 4 de octubre de 1930 como la fecha del hecho, la piedra inaugural del vuelo civil internacional venezolano.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -111,10 +111,10 @@ Noventa y seis años después, el campo que abrió aquel sábado de octubre de 1
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-28 07:33:47 CST.
-- **Fuentes primarias/institucionales consultadas:** INAC, Instituto Nacional de Aeronáutica Civil de Venezuela, «Historia de la Aviación en Venezuela» (2016); Reseña histórica del Aeropuerto Internacional de Maiquetía «Simón Bolívar» (IAIM); Museo del Transporte de Caracas, «62 años después resucitan el aeropuerto de Puerto Cabello» (2014).
-- **Fuentes secundarias de contraste:** Prodavinci (José Alberto Olivar, 2021); Motum Magazine (2026); cronología del aeropuerto de Maiquetía, maiquetia.blogspot.com (2010).
-- **Discrepancias resueltas:** (1) el INAC fecha el inicio de los vuelos de Pan American «desde Maiquetía» el 6 de mayo de 1930, mientras la reseña oficial del aeropuerto data el primer aterrizaje de servicio regular en el campo el 4 de octubre de 1930; el Museo del Transporte documenta aquellos vuelos de mayo de 1930 como escalas sobre el agua en la costa, por lo que el 6 de mayo se adopta como inicio del servicio de la compañía en Venezuela y el 4 de octubre como fecha del primer aterrizaje de servicio regular en el campo. (2) El arriendo de los terrenos de la familia Luy se fecha el 19 de agosto de 1930 en la cronología del aeropuerto, en 1933 en Prodavinci y «en los años veinte» en la reseña oficial; se adopta el arriendo de agosto de 1930, coetáneo del hecho. (3) La recomendación del terreno de Cabo Blanco por Charles Lindbergh se fecha en 1929 en la reseña oficial, en la cronología del aeropuerto y en el INAC (su vuelo experimental del 26 de septiembre de 1929), mientras dos reseñas la sitúan en 1928, año de su gira de buena voluntad a Venezuela; se adopta 1929.
-- **Datos no confirmados:** matrícula del aparato y composición de la tripulación del vuelo del 4 de octubre de 1930.
+- **Timestamp de verificación:** 2026-10-04 17:11:57 CST.
+- **Fuentes primarias/institucionales consultadas:** INAC, «Historia de la Aviación en Venezuela» (2016); reseña del Aeropuerto de Maiquetía «Simón Bolívar»; Museo del Transporte de Caracas (2014).
+- **Fuentes secundarias de contraste:** Prodavinci (Olivar, 2021); Motum Magazine (2026); cronología de maiquetia.blogspot.com (2010).
+- **Discrepancias resueltas:** (1) INAC: inicio de servicio el 6-05-1930 (aún escalas sobre el agua); primer aterrizaje regular en el campo, el 4-10-1930 (reseña). (2) arriendo Luy: 19-08-1930 vs. 1933 vs. «años veinte»; se adopta 1930. (3) recomendación de Cabo Blanco: 1929 (vuelo de Lindbergh del 26-09-1929) vs. 1928; se adopta 1929.
+- **Sin confirmar:** matrícula y tripulación del vuelo del 4-10-1930.
 - **Nivel de confianza:** Alto.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

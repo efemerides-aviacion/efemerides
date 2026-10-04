@@ -54,8 +54,8 @@ Las marcas transcontinentales se seguían a finales de los años veinte como un 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
-- **4 de febrero de 1929, 17:37:30 PST:** Frank Monroe Hawks y Oscar E. Grubb despegan de Metropolitan Field (Van Nuys Airport, Los Ángeles) con el Lockheed Model 3 Air Express NR7955 (s/n EX-2), monoplano de ala baja y cabina cerrada, con el radial Pratt & Whitney R-1340 Wasp de 410 hp.
-- **5 de febrero de 1929, 14:59:29 EST:** aterrizaje en Roosevelt Field, Long Island (Nueva York), tras ~3.900 km (2.430 millas) y 18 horas, 21 minutos y 59 segundos de vuelo, a una media de ~132 mph (212 km/h).
+- **4 de febrero de 1929, 17:37:30 PST:** Frank Monroe Hawks y Oscar E. Grubb despegan del aeropuerto de Van Nuys, en Los Ángeles, a bordo del Air Express NR7955 (s/n EX-2), con su radial Wasp de 410 hp.
+- **5 de febrero de 1929, 14:59:29 EST:** aterrizan en el Roosevelt Field de Long Island, en Nueva York, tras las 2.430 millas y 18 horas, 21 minutos y 59 segundos de vuelo, a una media de ~132 mph (212 km/h).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -84,7 +84,7 @@ Las marcas transcontinentales se seguían a finales de los años veinte como un 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
+- **Timestamp de verificación:** 2026-10-04 17:11:57 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; This Day in Aviation; Aviation Week  
 - **Discrepancias resueltas:** Confirmación de tiempo exacto de vuelo y rol de Oscar Grubb como ingeniero de vuelo.  
 - **Nivel de confianza:** Alto  
