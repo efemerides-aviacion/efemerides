@@ -49,7 +49,7 @@ La hazaña recibió amplia cobertura de prensa y atrajo multitudes en Le Bourget
 - **4 de enero de 1932, 06:40 (París – Le Bourget):** Despegue inicial rumbo a Hanoi en el Bréguet Bre.330 F‑AKEZ.  
 - **11 de enero de 1932, 16:30 (Hanoi):** Llegada tras 7 días, 9 horas y 50 minutos de vuelo.  
 - **20 de enero de 1932, 06:40 (Hanoi):** Inicio del vuelo de regreso vía Calcuta, Karachi, Basora, Atenas, Roma y Marsella.  
-- **24 de enero de 1932, 03:55 (París – Le Bourget):** Aterrizaje final, récord de velocidad en la ruta Hanoi–París con un tiempo de 3 días, 4 horas y 17 minutos.  
+- **24 de enero de 1932, 03:55 (París – Le Bourget):** Aterrizaje final en Le Bourget con récord de la travesía Hanoi–París: 3 días, 4 horas y 17 minutos.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Consecuencias e Impacto
@@ -76,7 +76,7 @@ La hazaña se recuerda como uno de los grandes récords de la aviación francesa
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 11:09:14 CST  
+- **Timestamp de verificación:** 2026-10-04 17:41:08 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation; Wikipedia; SICP; Wonders of World Aviation; Centennial of Flight; FDRA Aéreo  
 - **Discrepancias resueltas:** Confirmación de horarios de salida y llegada, matrícula del avión (F‑AKEZ) y fecha exacta de récord (24/01/1932).  
 - **Nivel de confianza:** Alto  

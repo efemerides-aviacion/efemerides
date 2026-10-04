@@ -31,7 +31,7 @@ image: 1932-08-18-auguste-piccard-primero-en-observar-curvatura-tierra-desde-glo
 - **Cota y récord:** 16.201 m (53.153 pies) alcanzados a las 12:12; récord mundial de altitud FAI, expediente n.º 6590, sobre la marca anterior del propio Piccard
 - **Vuelo:** 12 horas; aterrizaje poco después de las 15:15 cerca del lago de Garda, en el norte de Italia; durante el ascenso la temperatura interior bajó a −15 °C
 - **Aeronave:** globo de hidrógeno de tela algodonosa engomada, 14.158 m³ de volumen máximo y unos 680 kg, de 30,2 m de diámetro a plena expansión; gondola esférica de aluminio de 2,14 m de diámetro, dos escotillas y siete ojos de buey, pintada mitad blanca y mitad negra, con reciclaje de aire tipo Dräger
-- **Antecedente esencial:** 27 de mayo de 1931, Augsburgo: con Paul Kipfer, 15.781 m (FAI n.º 10634), primeros humanos en la estratosfera y primera observación de la curvatura de la Tierra, según la FAI «casi con toda certeza por primera vez»
+- **Antecedente esencial:** 27 de mayo de 1931, Augsburgo: con Paul Kipfer, 15.781 m (FAI n.º 10634); con dicha ascensión, la FAI da por «casi con toda certeza» la primera observación humana de la curvatura de la Tierra
 - **Patrocinio y honores:** expedición financiada por el Fonds de la Recherche Scientifique (FNRS) de Bélgica; Alberto I, rey de los belgas, nombró a Piccard Commandeur y a Cosyns Chevalier de l'Ordre de Léopold
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -96,9 +96,9 @@ Noventa y cuatro años después, la esfera de aluminio del segundo ascenso cuelg
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
+- **Timestamp de verificación:** 2026-10-04 17:41:08 CST  
 - **Fuentes primarias/institucionales consultadas:** FAI (expedientes de récord 6590 y 10634, citados por This Day in Aviation); ficha de colección de la ETH-Bibliothek (imagen)
 - **Fuentes secundarias de contraste:** This Day in Aviation, Wikipedia (inglés)
-- **Discrepancias resueltas:** la primera observación de la curvatura de la Tierra corresponde al ascenso del 27 de mayo de 1931 con Paul Kipfer (la FAI la da por «casi con toda certeza» la primera); el vuelo del 18 de agosto de 1932 la consolida y fija el récord de 16.201 m, y así se jerarquiza en título y cuerpo. La fecha de cesión de la gondola al Science Museum se omite por no constar con precisión en las fuentes leídas.
-- **Nivel de confianza:** Alto — núcleo del hecho respaldado por expedientes institucionales (FAI 6590 y 10634) y convergencia de fuentes secundarias independientes; imagen con ficha de colección de la ETH-Bibliothek verificada.
+- **Discrepancias resueltas:** la primera observación de la curvatura corresponde al ascenso del 27-05-1931 con Paul Kipfer (FAI: «casi con toda certeza»); el del 18-08-1932 consolida el hecho y fija el récord de 16.201 m, jerarquizado en título y cuerpo. Se omite la fecha de cesión de la gondola al Science Museum por no constar.
+- **Nivel de confianza:** Alto — expedientes FAI 6590 y 10634 y convergencia de fuentes independientes; imagen con ficha ETH-Bibliothek verificada.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

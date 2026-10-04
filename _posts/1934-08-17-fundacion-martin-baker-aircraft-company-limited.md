@@ -29,8 +29,8 @@ image: 1934-08-17-fundacion-martin-baker-aircraft-company-limited.webp
 - **Fecha de constitución:** 17 de agosto de 1934, como The Martin-Baker Aircraft Company Limited, con sede en Denham, Buckinghamshire, Inglaterra; precedida en 1929 por el taller Martin's Aircraft Works
 - **Fundadores:** James Martin (1893-1981), ingeniero autodidacta del condado de Down, Irlanda, y el Capitán Valentine Baker (1888-1942), piloto de guerra e instructor; con ayuda financiera del periodista y aviador Francis Francis
 - **Primera producción:** el MB 1 (G-ADCS), biplaza de ala baja volado en 1935, y un autogiro de Raoul Hafner; siguieron los cazas MB 2 (1938), MB 3 (1942), MB 5 (1944) y proyectos hasta el MB 7
-- **Giro histórico:** tras la muerte de Baker el 12 de septiembre de 1942 en el MB 3, la seguridad del piloto pasó a ser el foco de la empresa; en 1944 el Ministerio de Producción de Aeronaves le encargó estudiar el escape asistido de los cazas
-- **Hito del asiento eyectable:** primer disparo con muñeco el 20 de enero de 1945 y primer viaje vivo de Bernard Lynch cuatro días después; primera eyección en vuelo el 24 de julio de 1946 desde un Gloster Meteor a 320 mph y 8.000 pies sobre Chalgrove; primera vida salvada el 30 de mayo de 1949 por «Jo» Lancaster desde un Armstrong Whitworth A.W.52
+- **Giro histórico:** tras la muerte de Baker el 12 de septiembre de 1942 en el MB 3, la seguridad del piloto pasó a ser el foco de la empresa; en 1944 el Ministerio de Producción de Aeronaves le encargó el estudio del escape asistido para cazas
+- **Hito del asiento eyectable:** primer disparo con muñeco el 20 de enero de 1945 y, cuatro días después, el primer salto humano en pruebas, a cargo de Bernard Lynch; primera eyección en vuelo el 24-07-1946, con 320 mph y 8.000 pies sobre Chalgrove; primera vida salvada el 30-05-1949 por «Jo» Lancaster desde un Armstrong Whitworth A.W.52
 - **Vigencia:** empresa familiar dirigida por los hijos gemelos de Sir James Martin desde 1979; asientos en 93 fuerzas aéreas y más de 200 tipos de ala fija y rotatoria, incluido el F-35 Lightning II; la compañía cifra en más de 7.800 las vidas salvadas desde 1945
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -41,7 +41,7 @@ Martin-Baker nació en la Inglaterra que aún volaba en biplanos y madera, de la
 
 ### Entorno social
 
-Denham, en el campo de Buckinghamshire, acogió primero el taller de 1929 y luego la sociedad limitada de 1934; sus edificios de la época de la guerra llegaron a albergar aviadores alemanes capturados, y allí sigue la empresa, familiar y terca en su control de calidad: cada componente que puede, lo fabrica en casa. Desde el otoño de 1979 la dirigen los hijos gemelos de Sir James Martin, y su aeródromo de pruebas, Chalgrove en Oxfordshire, continúa viendo despegar los Meteor que la compañía mantiene volando como bancos de ensayo de eyección.
+Denham, en el campo de Buckinghamshire, acogió primero el taller de 1929 y luego la sociedad limitada de 1934; sus edificios de la época de la guerra llegaron a albergar aviadores alemanes capturados, y allí sigue la empresa, familiar y terca en su control de calidad: cada componente que puede, lo fabrica en casa. Desde el otoño de 1979 la dirigen los gemelos de Sir James Martin, y su aeródromo de pruebas, Chalgrove en Oxfordshire, continúa viendo despegar los Meteor que la compañía mantiene volando como bancos de ensayo de eyección.
 
 ### Entorno tecnológico
 
@@ -101,9 +101,9 @@ Noventa y dos años después de su constitución, Martin-Baker sigue siendo lo q
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
+- **Timestamp de verificación:** 2026-10-04 17:41:08 CST  
 - **Fuentes primarias/institucionales consultadas:** Martin-Baker (cronología oficial «Our History»)
 - **Fuentes secundarias de contraste:** Wikipedia (inglés), Encyclopedia.com (International Directory of Company Histories)
-- **Discrepancias resueltas:** las fuentes difieren sobre el papel de Baker en 1929 —cofundador del taller frente a incorporación de 1934 según el directorio empresarial—; se redacta taller de 1929 con Baker presente y constitución de la sociedad limitada el 17 de agosto de 1934. La cifra de vidas salvadas varía con la fecha de corte (7.000 en 2003, 7.360 en 2011, más de 7.800 según la compañía en 2026); se redacta «más de 7.800» atribuido a la compañía. La primera vida salvada se fecha el 30 de mayo de 1949 (Lancaster, A.W.52), conforme al sitio oficial y al directorio.
+- **Discrepancias resueltas:** las fuentes difieren sobre Baker en 1929 —cofundador del taller o incorporación de 1934—; se redacta taller de 1929 con Baker presente y sociedad limitada constituida el 17-08-1934. Las vidas salvadas varían con el corte (7.000 en 2003; 7.360 en 2011; «más de 7.800», compañía, 2026): se redacta «más de 7.800». Primera vida salvada: 30-05-1949 (Lancaster A.W.52).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

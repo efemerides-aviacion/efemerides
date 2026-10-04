@@ -38,13 +38,13 @@ image: 1931-02-04-vicente-landaeta-gil-fallece.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
-El accidente de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/05/15/nacimiento-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Vicente Landaeta Gil</a> marcó un hito en la historia de la aviación militar venezolana, al ser el primer siniestro fatal registrado en sus filas.
+El accidente de <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1897/05/15/nacimiento-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Vicente Landaeta Gil</a> marcó un hito para la aviación militar del país, al ser el primer siniestro fatal registrado en sus filas.
 
 ### Entorno social
-El vuelo formaba parte de las maniobras de la Aviación Militar Venezolana en el campo de aviación de Barquisimeto. A bordo del aparato iban cuatro militares: el Teniente Vicente Landaeta Gil como piloto, el Teniente Julio Fortoul, mecánico electricista, y los Subtenientes Alfredo García y Ángel Stoppello.
+El vuelo formaba parte de las maniobras de la Aviación Militar Venezolana en el campo de aviación de Barquisimeto. A bordo del aparato iban cuatro militares: el Teniente Vicente Landaeta Gil como piloto, el Teniente Julio Fortoul, mecánico electricista, y dos subtenientes, García y Stoppello.
 
 ### Entorno tecnológico
-El Farman F.190, de fabricación francesa y pintado en verde oliva y marrón claro, era el aparato de las maniobras. La aproximación al campo de Barquisimeto se hizo en condiciones nubladas y de mal tiempo, el escenario en el que el avión se precipitó en picada y perdió el motor.
+El Farman F.190, de fabricación francesa y pintado en verde oliva y marrón claro, era el aparato de las maniobras. La aproximación al campo de Barquisimeto se hizo con temporal y cielo cubierto, el escenario en el que el avión se precipitó en picada y perdió el motor.
 
 ### Entorno cultural
 - El accidente fue presenciado por cientos de personas.  
@@ -60,7 +60,7 @@ El Farman F.190, de fabricación francesa y pintado en verde oliva y marrón cla
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
-Del accidente salió con vida la mayor parte de la tripulación: el Teniente Julio Fortoul resultó herido leve y los Subtenientes Alfredo García y Ángel Stoppello, ilesos. El informe SAR 04-02-31 N° 01 atribuyó la causa probable a una pérdida de control por impericia o a un remolino descendente, un «hoyo de aire».
+Del accidente salió con vida la mayor parte de la tripulación: el Teniente Julio Fortoul resultó herido leve; los otros dos subtenientes salieron ilesos. El informe SAR 04-02-31 N° 01 atribuyó la causa probable a una pérdida de control por impericia o a un remolino descendente, un «hoyo de aire».
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -70,7 +70,7 @@ Del accidente salió con vida la mayor parte de la tripulación: el Teniente Jul
 
 ### Homenajes
 - La <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1964/02/14/base-aerea-vicente-landaeta-gil.html" style="color: #315fea; text-decoration: none;">Base Aérea Teniente Vicente Landaeta Gil (Balanda)</a> en Barquisimeto lleva su nombre desde 1964.  
-- Fue pionero de la Primera Promoción de Aviadores Militares venezolanos.  
+- Integró la primera promoción de aviadores del cuerpo.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -90,7 +90,7 @@ Del accidente salió con vida la mayor parte de la tripulación: el Teniente Jul
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 11:23:02 CST  
+- **Timestamp de verificación:** 2026-10-04 17:41:08 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia; El Impulso; Correo del Lara; El Nacional; FAV Club  
 - **Discrepancias resueltas:** Confirmación de aeronave, tripulación y circunstancias del accidente.  
 - **Nivel de confianza:** Alto  

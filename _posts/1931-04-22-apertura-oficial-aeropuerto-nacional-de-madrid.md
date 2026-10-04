@@ -12,7 +12,7 @@ image: 1931-04-22-apertura-oficial-aeropuerto-nacional-de-madrid.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1931-04-22-apertura-oficial-aeropuerto-nacional-de-madrid.webp" alt="Acto de inauguración pública del Aeropuerto Nacional de Madrid">
-  <figcaption class="post-caption">Acto de inauguración pública del Aeropuerto Nacional de Madrid en Barajas, 30 de abril de 1931. Fuente: UrbanCidades, con cita de El Imparcial y La Época.</figcaption>
+  <figcaption class="post-caption">Acto de inauguración pública en el Aeropuerto Nacional de Madrid (Barajas), 30 de abril de 1931. Fuente: UrbanCidades, con cita de El Imparcial y La Época.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -36,7 +36,7 @@ image: 1931-04-22-apertura-oficial-aeropuerto-nacional-de-madrid.webp
 - **Ingeniero:** Carlos de los Álamos y de la Cueva (marqués de los Álamos)
 - **Primer jefe/director:** Jacobo Armijo y Fernández de Alarcón (teniente coronel)
 - **Fecha de inauguración pública (primer aterrizaje):** 30 de abril de 1931
-- **Primer avión en aterrizar (ceremonia):** Procedente de Getafe, pilotado por el Comandante Ramón Franco Bahamonde (jefe superior de Aeronáutica)
+- **Primer avión en aterrizar (ceremonia):** un aparato de Getafe al mando del Comandante Ramón Franco Bahamonde (jefe superior de Aeronáutica)
 - **Inicio de operaciones comerciales regulares:** 15 de mayo de 1933
 - **Primera línea comercial:** Madrid-Barcelona, operada por LAPE (Líneas Aéreas Postales Españolas)
 
@@ -52,11 +52,11 @@ La dictadura de Primo de Rivera (1923-1930) había impulsado la modernización d
 
 ### Entorno tecnológico
 
-El diseño del aeropuerto fue encargado al arquitecto Luis Gutiérrez Soto y al ingeniero Carlos de los Álamos y de la Cueva (marqués de los Álamos). La terminal principal, con su planta ligeramente curvada imitando las alas de un avión, se concibió como una terraza desde la que el público podía contemplar las maniobras aéreas. El conjunto de edificaciones (hangares, garaje, taller, sala de espera y el "Avión Club") evocaba más un club náutico o de campo que un aeropuerto, pero para la época representaba la modernidad y la fascinación por la aviación. La pista, inicialmente de hierba, era un amplio espacio circular con un gran letrero "Madrid" en el centro como referencia visual para los pilotos.
+El diseño del aeropuerto fue encargado al arquitecto Luis Gutiérrez Soto y al ingeniero Carlos de los Álamos, marqués de los Álamos. La terminal principal, con su planta ligeramente curvada imitando las alas de un avión, se concibió como una terraza desde la que el público podía contemplar las maniobras aéreas. El conjunto de edificaciones (hangares, garaje, taller, sala de espera y el "Avión Club") evocaba más un club náutico o de campo que un aeropuerto, pero para la época representaba la modernidad y la fascinación por la aviación. La pista, inicialmente de hierba, era un amplio espacio circular con un gran letrero "Madrid" en el centro como referencia visual para los pilotos.
 
 ### Entorno cultural
 
-La inauguración del aeropuerto fue un acontecimiento social y mediático. El 30 de abril de 1931, cientos de madrileños acudieron en automóviles, camionetas y otros medios de locomoción a Barajas para presenciar el primer aterrizaje oficial. La prensa de la época, como El Imparcial, La Época y ABC, cubrió ampliamente el evento, destacando que era el primer aeródromo español destinado exclusivamente a la aviación civil y al tráfico comercial nacional e internacional.
+La inauguración del aeropuerto fue un acontecimiento social y mediático. El 30 de abril de 1931, cientos de madrileños acudieron a Barajas en todo tipo de vehículos para presenciar el primer aterrizaje oficial; La Época destacó que «fueron muchísimas las personas que […] acudieron al aeródromo para presenciar el acto», y muchos asistentes vivieron allí su «bautismo del aire». La prensa de la época, como El Imparcial, La Época y ABC, cubrió ampliamente el evento, destacando que era el primer aeródromo español destinado exclusivamente a la aviación civil y al tráfico comercial nacional e internacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -64,59 +64,15 @@ La inauguración del aeropuerto fue un acontecimiento social y mediático. El 30
 
 - **1929:** Se inician los estudios para la construcción de un nuevo aeropuerto para Madrid. Se barajan las ubicaciones de Getafe, Carabanchel Alto, Vallecas y Barajas. Se elige Barajas por ser un "páramo yermo" de fácil explanación y con buena comunicación por carretera.
 - **30 de julio de 1930:** Se firma la compra de los terrenos (unas 500 fanegas) en Barajas por un valor de 730.000 pesetas.
-- **1930-1931:** Se construyen las primeras instalaciones: edificio terminal (diseñado por Luis Gutiérrez Soto), hangares, garaje, taller y el Avión Club.
-- **22 de abril de 1931:** El Gobierno Provisional de la II República, a propuesta de la Junta Central de Aeropuertos, publica una orden en la Gaceta de Madrid abriendo oficialmente el "Aeropuerto Nacional de Madrid" al tráfico aéreo público.
-- **30 de abril de 1931:** Se realiza la inauguración pública. Un avión procedente de Getafe, pilotado por el Comandante Ramón Franco Bahamonde (jefe superior de Aeronáutica), aterriza en Barajas ante la mirada de cientos de madrileños y autoridades.
+- **1930-1931:** Se construyen las primeras instalaciones: edificio terminal (obra del arquitecto Luis Gutiérrez Soto), hangares, garaje, taller y el Avión Club.
+- **22 de abril de 1931:** El Gobierno Provisional de la II República, a propuesta de la Junta Central de Aeropuertos, publica una orden en la Gaceta de Madrid abriendo oficialmente el "Aeropuerto Nacional de Madrid" al tráfico aéreo público; mientras duraran las obras, el Aeródromo de Getafe seguiría prestando servicio a las líneas aéreas.
+- **30 de abril de 1931:** Se realiza la inauguración pública. Un avión salido del aeródromo de Getafe con el Comandante Ramón Franco Bahamonde a los mandos (jefe superior de Aeronáutica y hermano del futuro dictador Francisco Franco) aterriza en Barajas tras un vuelo de menos de 30 kilómetros, ante la mirada de cientos de madrileños y autoridades.
 - **Mayo de 1931:** Es destinado el primer personal al aeropuerto, siendo nombrado jefe provisional Jacobo Armijo y Fernández de Alarcón.
 - **24 de abril de 1933:** Se publica la orden ministerial que autoriza el inicio de las operaciones comerciales regulares.
-- **15 de mayo de 1933:** Un trimotor Fokker VII/3M de LAPE (Líneas Aéreas Postales Españolas) aterriza en Barajas, marcando el inicio del tráfico aéreo comercial regular. La primera línea fue Madrid-Barcelona.
+- **15 de mayo de 1933:** Un trimotor Fokker VII/3M de LAPE (Líneas Aéreas Postales Españolas) aterriza en Barajas, marcando el inicio del tráfico aéreo comercial regular con la primera línea, Madrid-Barcelona; LAPE, compañía estatal, daría más tarde origen a Iberia. Los billetes costaban 150 pesetas a Barcelona y 125 a Sevilla.
 - **1933:** Bajo la dirección del Teniente Coronel Jacobo de Armijo, se operaron 378 vuelos que transportaron a 2.873 pasajeros.
 - **1965:** El aeropuerto cambia su nombre a Aeropuerto de Madrid-Barajas.
 - **2014:** Tras el fallecimiento del expresidente Adolfo Suárez, el aeropuerto pasa a denominarse Aeropuerto Adolfo Suárez Madrid-Barajas.
-
-### La apertura oficial: el 22 de abril de 1931
-
-El 22 de abril de 1931 es la fecha clave desde el punto de vista administrativo y legal. Apenas ocho días después de la proclamación de la Segunda República, el nuevo Gobierno Provisional, encabezado por Niceto Alcalá Zamora, tomó una de sus primeras decisiones en materia de infraestructuras aeronáuticas.
-
-### La orden de la Gaceta de Madrid
-
-A propuesta de la Junta Central de Aeropuertos, la Gaceta de Madrid publicó una orden por la cual se abría al tráfico aéreo público el "Aeropuerto Nacional de Madrid". Esta orden estipulaba que, mientras no se terminaran las obras del nuevo aeropuerto, el Aeródromo de Getafe seguiría prestando servicios a las líneas aéreas.
-
-Esta decisión formalizó el nacimiento del aeropuerto como entidad operativa, aunque aún no se hubiera realizado la ceremonia pública de inauguración.
-
-### La ubicación: un páramo junto a Barajas
-
-La elección de Barajas no fue casual. Cuatro eran los enclaves posibles para establecer el aeropuerto de Madrid: Getafe, Carabanchel Alto, Vallecas y Barajas. Se escogió este último porque era un "páramo yermo de unas 500 fanegas" (aproximadamente entre 330 y 493 hectáreas) con una "buena comunicación con la capital a través de la carretera de Francia". Los terrenos, libres de obstáculos, fueron adquiridos por 730.000 pesetas el 30 de julio de 1930.
-
-### La inauguración pública: el 30 de abril de 1931
-
-Ocho días después de la apertura oficial al tráfico, el 30 de abril de 1931, se celebró la ceremonia pública de inauguración. Este evento fue el que capturó la imaginación popular y el que recogieron los periódicos de la época.
-
-### El primer aterrizaje oficial
-
-El primer avión en aterrizar en Barajas fue un aparato procedente de Getafe, pilotado por el Comandante Ramón Franco Bahamonde (hermano del futuro dictador Francisco Franco y, en ese momento, jefe superior de Aeronáutica). El vuelo, que cubrió menos de 30 kilómetros, fue un acto simbólico que inauguró oficialmente las instalaciones.
-
-### La fiesta en Barajas
-
-La inauguración fue todo un acontecimiento social. El diario La Época destacó que "fueron muchísimas las personas que, en automóviles, camionetas y otros medios de locomoción, acudieron al aeródromo para presenciar el acto". El Imparcial anunciaba el evento con el siguiente titular: "Hoy a las cuatro y media de la tarde, se verificará la inauguración del aeropuerto nacional de Madrid... Está destinado a uso de aviación civil y tráfico aéreo comercial y particular, tanto nacional como internacional".
-
-Muchos de los asistentes recibieron ese día su "bautismo del aire", volando por primera vez en alguno de los aviones presentes.
-
-### El inicio de las operaciones comerciales: 1933
-
-Aunque el aeropuerto estaba abierto al tráfico desde abril de 1931, las operaciones comerciales regulares tardaron dos años en comenzar.
-
-### La orden ministerial de 1933
-
-El 24 de abril de 1933 se publicó la orden ministerial que autorizaba el inicio de los vuelos comerciales, entrando en vigor el 15 de mayo de ese año.
-
-### El primer vuelo comercial
-
-El 15 de mayo de 1933, un trimotor Fokker VII/3M de la compañía LAPE (Líneas Aéreas Postales Españolas) aterrizó en Barajas, procedente de Barcelona, marcando el inicio oficial del tráfico aéreo comercial regular en el aeropuerto. LAPE era la compañía estatal que posteriormente daría origen a Iberia.
-
-### Los primeros destinos y cifras
-
-Las primeras líneas regulares operadas por LAPE fueron Madrid-Barcelona y Madrid-Sevilla. Los billetes tenían un costo de 150 pesetas para Barcelona y 125 pesetas para Sevilla. En ese año 1933, bajo la dirección del Teniente Coronel Jacobo Armijo y Fernández de Alarcón (primer director del aeropuerto), se operaron 378 vuelos que transportaron a 2.873 pasajeros.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -141,9 +97,9 @@ El aeropuerto ha sido testigo de la historia de España: la Guerra Civil (durant
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
-<p><strong>Nota aclaratoria sobre las fechas:</strong> Existen tres fechas clave en la historia del Aeropuerto de Madrid-Barajas:</p>
+<p><strong>Nota aclaratoria sobre las fechas:</strong> El aeropuerto de Madrid-Barajas se rige por tres fechas determinantes:</p>
 <ul>
-  <li><strong>22 de abril de 1931:</strong> Apertura oficial al tráfico aéreo mediante orden publicada en la Gaceta de Madrid. Es la fecha administrativa de "fundación" del aeropuerto.</li>
+  <li><strong>22 de abril de 1931:</strong> la orden publicada en la Gaceta de Madrid abre el aeropuerto al tráfico aéreo; es la fecha administrativa de "fundación" del recinto.</li>
   <li><strong>30 de abril de 1931:</strong> Inauguración pública con el primer aterrizaje (vuelo simbólico desde Getafe). Es la fecha que recogen los periódicos de la época.</li>
   <li><strong>15 de mayo de 1933:</strong> Inicio de las operaciones comerciales regulares (primer vuelo de pasajeros de LAPE).</li>
 </ul>
@@ -172,7 +128,7 @@ El aeropuerto ha sido testigo de la historia de España: la Guerra Civil (durant
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:26:52 CST
+- **Timestamp de verificación:** 2026-10-04 17:41:08 CST
 - **Fuentes primarias/institucionales consultadas:** Aena (página oficial), Wikipedia (ES), BBVA, La Razón, ABC, Sociedad Aeronáutica Española, EL PAÍS, Telemadrid
 - **Discrepancias resueltas:** Se ha aclarado la diferencia entre la apertura al tráfico (22 de abril de 1931), la inauguración pública (30 de abril de 1931) y el inicio de operaciones comerciales (15 de mayo de 1933). También se ha precisado que Jacobo Armijo fue el primer jefe/director, nombrado en mayo de 1931. Las fuentes coinciden en la superficie de los terrenos (entre 330 y 493 hectáreas) y en el costo de adquisición (730.000 pesetas).
 - **Nivel de confianza:** Alto

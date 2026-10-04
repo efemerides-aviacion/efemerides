@@ -51,8 +51,8 @@ El nombre elegido para la escuadrilla invocaba el Sol de Mayo, emblema nacional 
 
 ## Desarrollo Cronológico
 - **Junio de 1933:** el Ae.T.1 «General San Martín» se incorpora a la escuadrilla «Sol de Mayo» con misión de avión comando.
-- **3 de octubre de 1933:** la escuadrilla despega de El Palomar rumbo a Río de Janeiro: nueve aviones de la Fábrica Militar de Aviones y el Junkers K.43 Nº 102 de apoyo; la ruta contempla etapas intermedias.
-- **En el Brasil:** el raid participa de la visita presidencial. Justo llega a Río de Janeiro el 7 de octubre y firma con Vargas doce convenios, entre ellos el Pacto Antibélico y el de aeronavegación.
+- **3 de octubre de 1933:** la escuadrilla despega de El Palomar rumbo a Río de Janeiro: nueve aeronaves de la Fábrica Militar de Aviones y el Junkers K.43 Nº 102 de apoyo; la ruta contempla etapas intermedias.
+- **En el Brasil:** el raid participa de la visita presidencial. Justo arriba a Río el 7 de octubre y firma con Vargas doce convenios, entre ellos el Pacto Antibélico y el de aeronavegación.
 - **Regreso:** la escuadrilla cubre el tramo Río–Montevideo–El Palomar y el Ae.T.1 aterriza en El Palomar el 18 de octubre sin inconvenientes. Durante el vuelo de regreso, el Junkers K.43 se detiene en Paranaguá para auxiliar a otro aparato y sufre desperfectos irreparables: es desarmado y transportado por mar hasta Buenos Aires.
 - **Balance:** 4.650 kilómetros recorridos entre la ida y la vuelta.
 
@@ -69,7 +69,7 @@ El raid demostró fuera de las fronteras lo que la industria aeronáutica argent
 
 ## Legado
 - **Efeméride institucional:** la Dirección de Estudios Históricos conmemora cada 3 de octubre el «Primer vuelo internacional de una escuadrilla argentina».
-- **El historiador:** Zuloaga ascendió a general de brigada el 31 de diciembre de 1940 y comandó la aviación militar; en marzo de 1948 publicó *La victoria de las alas*, de 386 páginas, primera historia integral de la aviación argentina. Murió en 1975.
+- **El historiador:** Zuloaga ascendió a general de brigada el 31 de diciembre de 1940 y comandó la aviación militar; en marzo de 1948 publicó *La victoria de las alas* (386 páginas), la crónica completa de la aviación argentina. Murió en 1975.
 - **La estirpe de la Fábrica:** tras los Ae., la Fábrica Militar de Aviones daría los Pulqui I y II, el Pucará y el Pampa.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -96,11 +96,11 @@ El raid demostró fuera de las fronteras lo que la industria aeronáutica argent
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-27 09:16:58 CST  
-- **Fuentes primarias/institucionales consultadas:** Dirección de Estudios Históricos (FAA), efeméride del 3 de octubre con fecha, mando y composición de la escuadrilla; Fuerza Aérea Argentina, reseña oficial «Nuestra historia» con la creación de la FMA, el raid de 1932 y la ruta del «vuelo de confraternidad»; Asociación Tripulantes de Transporte Aéreo, historia de la aviación militar de transporte con bibliografía de la Historia de la FAA (DEH, 1997).
-- **Fuentes secundarias de contraste:** Vladimiro Cettolo en Aviones en Argentina, con el historial y los datos técnicos del Ae.T.1; Gaceta Aeronáutica, con la semblanza de Zuloaga; La Nación, con la visita presidencial de Justo a Vargas.
-- **Discrepancias resueltas:** se siguió a la DEH (coronel) frente a una fuente secundaria que da a Zuloaga como teniente coronel en 1933; se fijó el primer vuelo del Ae.T.1 el 18 de mayo de 1933 (Cettolo y ATTA) frente al 15 de abril que da un blog sin aparato crítico; se distinguió la primacía calificada de 1933 del raid de 1932, con nota al lector.
-- **Datos no confirmados:** las ciudades de las etapas intermedias; la fecha exacta del arribo a Río de Janeiro; la identidad individual de los Ae.C.1 y Ae.C.2 y las tripulaciones de los seis Ae.M.E.1.
-- **Imagen:** formación de Ae.M.E.1 en El Palomar (Foto BAM El Palomar, vía Aviones en Argentina); fotografía oficial argentina de c. 1933, dominio público por antigüedad (Ley 11.723, art. 34); recorte de 1.200 × 675 desde el original de 1.200 × 768 con la franja de créditos excluida y el crédito preservado en el pie.
+- **Timestamp de verificación:** 2026-10-04 17:41:08 CST
+- **Fuentes primarias/institucionales consultadas:** efeméride DEH-FAA; Fuerza Aérea Argentina, «Nuestra historia»; Asociación Tripulantes de Transporte Aéreo (ATTA).
+- **Fuentes secundarias de contraste:** Cettolo, Aviones en Argentina; Gaceta Aeronáutica; La Nación.
+- **Discrepancias resueltas:** rango de Zuloaga en 1933 (coronel, según DEH); primer vuelo del Ae.T.1 el 18-05-1933 (Cettolo y ATTA) frente al 15-04 de un blog; primacía de 1933 distinguida del raid de 1932.
+- **Datos no confirmados:** ciudades de las etapas intermedias; fecha exacta del arribo a Río; identidad de los Ae.C.1/Ae.C.2 y tripulaciones de los Ae.M.E.1.
+- **Imagen:** Ae.M.E.1 en El Palomar (Foto BAM, vía Aviones en Argentina), c. 1933, dominio público por antigüedad (Ley 11.723, art. 34); recorte 1.200×675 con crédito en pie.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

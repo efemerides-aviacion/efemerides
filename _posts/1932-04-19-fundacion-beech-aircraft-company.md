@@ -33,7 +33,7 @@ image: 1932-04-19-fundacion-beech-aircraft-company.webp
 - **Capital inicial:** 25.000 dólares
 - **Instalaciones iniciales:** Una pequeña planta en Wichita (antigua fábrica inactiva de Cessna)
 - **Primer modelo:** Beechcraft Model 17 Staggerwing (primer vuelo: 4 de noviembre de 1932)
-- **Primera venta:** Junio de 1933 (salvó a la compañía de la bancarrota)
+- **Primera venta:** Junio de 1933 (segunda unidad construida, unos 8.000 dólares; salvó a la compañía de la bancarrota)
 - **Denominación actual:** Beechcraft (marca de Textron Aviation desde 2014)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -48,7 +48,7 @@ Wichita, Kansas, ya se perfilaba como la "Capital Aérea del Mundo" (Air Capital
 
 ### Entorno tecnológico
 
-A principios de la década de 1930, la aviación comercial y ejecutiva estaba en plena transición. Los biplanos de estructura mixta (madera y tela) aún dominaban, pero comenzaban a aparecer los monoplanos metálicos. Ted Wells, el ingeniero jefe de Beech, había diseñado en 1931, mientras trabajaba para Curtiss-Wright, un innovador biplano de cabina cerrada con alas en flecha negativa (negative stagger), donde el ala inferior está más adelantada que la superior. Esta configuración mejoraba la visibilidad del piloto y reducía la resistencia aerodinámica.
+A principios de la década de 1930, la aviación comercial y ejecutiva vivía una época de cambios. Los biplanos de estructura mixta (madera y tela) aún dominaban, pero comenzaban a aparecer los monoplanos metálicos. Ted Wells, el ingeniero jefe de Beech, había diseñado en 1931, mientras trabajaba para Curtiss-Wright, un innovador biplano de cabina cerrada con alas en flecha negativa (negative stagger), donde el ala inferior está más adelantada que la superior. Esta configuración mejoraba la visibilidad del piloto y reducía la resistencia aerodinámica.
 
 ### Entorno cultural
 
@@ -62,36 +62,12 @@ Walter Beech ya era una figura conocida en la industria. Había cofundado Travel
 - **Junio de 1933:** Se vende la primera unidad del Modelo 17, salvando a la compañía de la bancarrota .
 - **1936:** Olive Ann Beech sugiere que la aviadora Louise Thaden compita en la carrera Bendix Trophy con un Staggerwing. Thaden gana la carrera, aportando gran publicidad a la compañía .
 - **1939-1945:** Durante la Segunda Guerra Mundial, Beechcraft produce más de 7.400 aviones para el esfuerzo bélico aliado, incluyendo 352 Staggerwing para las Fuerzas Aéreas del Ejército de EE.UU. y 67 para la Armada .
-- **1947:** Beechcraft introduce el Modelo 35 Bonanza, un monoplano de alto rendimiento que se convertiría en uno de los aviones más exitosos de la historia con más de 10.000 unidades construidas .
-- **1950:** Fallece Walter Beech; Olive Ann Beech asume la presidencia y se convierte en la primera mujer en liderar una empresa Fortune 500 .
+- **1947:** Beechcraft introduce el Modelo 35 Bonanza, un monoplano de alto rendimiento que se convertiría en un clásico de la aviación privada, con una producción que rebasó las diez mil unidades .
+- **1950:** Fallece Walter Beech; Olive Ann Beech asume la presidencia: primera mujer al frente de una empresa del ranking Fortune 500 .
 - **1964:** Beechcraft introduce el King Air Modelo 90, el primer turbopropulsor de cabina presurizada, que se convertiría en la línea de aviones ejecutivos más exitosa del mundo .
 - **1980:** Raytheon adquiere Beech Aircraft Corporation; Olive Ann Beech se retira en 1982. La compañía cambió de propietario varias veces (Raytheon, Goldman Sachs, Textron), pero la marca Beechcraft nunca desapareció.
 - **2014:** Textron Aviation (propietaria de Cessna) adquiere Beechcraft Corporation, que continúa como una marca del grupo Textron Aviation junto a Cessna y Hawker.
 
-### La Fundación: detalles relevantes
-
-El Beechcraft Model 17 nació en 1931 en el tablero de Ted Wells, empleado de Curtiss-Wright: el rechazo corporativo empujó a Walter Beech a renunciar, volver a Wichita con Olive Ann y fundar el 19 de abril de 1932, con 25.000 dólares y una planta inactiva de Cessna, la compañía que construiría el Staggerwing.
-### El origen del diseño
-
-El germen del Beechcraft Model 17 nació en 1931, cuando Ted Wells, trabajando como ingeniero en Curtiss-Wright, dibujó los planos de un biplano de cabina cerrada con configuración de alas en flecha negativa. Wells creía que este diseño podía alcanzar los 200 mph, una velocidad excepcional para la época. Walter Beech, entonces vicepresidente de Curtiss-Wright, intentó convencer a la directiva de la compañía de que construyeran un prototipo, pero fue rechazado. Los ejecutivos argumentaron que no habría demanda para un biplano de cinco plazas tan caro y que la empresa debía concentrarse en aviones de transporte para las aerolíneas .
-
-### La decisión de fundar Beech
-
-Ante la negativa de Curtiss-Wright, Walter Beech tomó una decisión radical: renunciar y fundar su propia compañía. Su esposa Olive Ann lo apoyó incondicionalmente. Como recordaría más tarde, "Walter prefería arriesgarse al fracaso construyendo el biplano de Wells que desvanecerse detrás de un escritorio corporativo" . La pareja se mudó de regreso a Wichita, la ciudad donde habían prosperado anteriormente.
-
-### Los socios fundadores
-
-El equipo fundador de Beech Aircraft Company, constituido oficialmente el 19 de abril de 1932, estaba integrado por :
-
-- **Walter H. Beech** – Presidente. Aportó su experiencia industrial y liderazgo.
-- **Olive Ann Beech** – Secretaria. Aportó su capacidad en administración y finanzas.
-- **Ted A. Wells** – Vicepresidente de Ingeniería. Fue el responsable del diseño del Modelo 17.
-- **K.K. Shaul** – Tesorero. Se encargó de la gestión financiera.
-- **C.G. Yankey** – Vicepresidente e inversionista. Aportó capital inicial.
-
-### Los primeros días
-
-La compañía comenzó a operar en una pequeña planta de Wichita, una antigua fábrica de Cessna que estaba inactiva. El capital inicial fue de solo 25.000 dólares. Los primeros meses fueron extremadamente difíciles. El Modelo 17 voló por primera vez el 4 de noviembre de 1932 , pero las ventas no llegaban. A mediados de 1933, la compañía estaba al borde de la insolvencia. La salvación llegó en junio de 1933, cuando se vendió el segundo Beechcraft construido. Esa única venta, por aproximadamente 8.000 dólares, mantuvo a flote a la empresa .
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
@@ -102,7 +78,7 @@ La compañía comenzó a operar en una pequeña planta de Wichita, una antigua f
 
 - **Contribución al esfuerzo bélico:** Beechcraft produjo miles de aviones para las fuerzas aliadas durante la Segunda Guerra Mundial, incluyendo el Staggerwing (como UC-43 y GB) y el AT-7 Navigator (entrenador de navegación) .
 
-- **Legado femenino en la industria:** Olive Ann Beech se convirtió en un modelo de liderazgo femenino en una industria dominada por hombres. Fue la primera mujer en liderar una empresa Fortune 500 y recibió el Trofeo Conmemorativo Wright Brothers en 1980 .
+- **Legado femenino en la industria:** Olive Ann Beech se convirtió en un modelo de liderazgo femenino en una industria dominada por hombres. Fue la primera mujer en presidir una empresa del Fortune 500 y recibió el Trofeo Conmemorativo Wright Brothers en 1980 .
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -110,15 +86,15 @@ La compañía comenzó a operar en una pequeña planta de Wichita, una antigua f
 
 Beechcraft es, junto a Cessna y Piper, una de las tres grandes marcas de la aviación general estadounidense. Fundada en el peor momento de la Gran Depresión, la compañía sobrevivió gracias a la visión de sus fundadores y a la calidad excepcional de sus productos.
 
-El Modelo 17 Staggerwing es considerado uno de los biplanos más bellos jamás construidos y una obra maestra del diseño aeronáutico. El Bonanza, con su distintiva cola en V, sigue siendo un ícono de la aviación privada. El King Air, del cual se han construido miles de unidades, es el turbopropulsor ejecutivo más exitoso de la historia y continúa en producción después de más de 50 años .
+El Modelo 17 Staggerwing es considerado uno de los biplanos más bellos jamás construidos y una obra maestra del diseño aeronáutico. El Bonanza, con su distintiva cola en V, sigue siendo la imagen de la aviación privada. El King Air, del cual se han construido miles de unidades, es el turbopropulsor ejecutivo más exitoso de la historia y continúa en producción después de más de 50 años .
 
 Walter Beech falleció en 1950, pero Olive Ann Beech continuó liderando la empresa hasta 1982, consolidando el legado de su esposo y construyendo el suyo propio. Hoy, Beechcraft es una marca de Textron Aviation, con sede en Wichita, Kansas, y sigue produciendo aviones que llevan el sello de calidad y excelencia que los Beech establecieron hace más de 90 años.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
-<p><strong>Nota aclaratoria sobre la fecha de fundación:</strong> Aunque el 19 de abril de 1932 es la fecha oficial de constitución de Beech Aircraft Company, los Beech habían regresado a Wichita a principios de abril y la compañía comenzó a operar inmediatamente después de la constitución legal. El primer vuelo del prototipo del Modelo 17 ocurrió el 4 de noviembre de 1932, pero la compañía ya existía desde abril. Algunas fuentes mencionan también al inversionista C.G. Yankey como vicepresidente, aunque no siempre aparece en todas las listas de fundadores.</p>
-<p><strong>Sobre Olive Ann Beech:</strong> Aunque nunca aprendió a volar, Olive Ann Beech fue la estratega financiera y administrativa que permitió a la compañía sobrevivir a la Depresión y prosperar durante la guerra. Fue la primera mujer en liderar una empresa Fortune 500 y recibió numerosos reconocimientos a lo largo de su carrera.</p>
+<p><strong>Nota aclaratoria sobre la constitución:</strong> Aunque el 19 de abril de 1932 es la fecha oficial de constitución de Beech Aircraft Company, los Beech habían regresado a Wichita a principios de abril y la compañía comenzó a operar inmediatamente después de la constitución legal. El primer vuelo del prototipo del Modelo 17 ocurrió el 4 de noviembre de 1932, pero la compañía ya existía desde abril. Algunas fuentes mencionan también al inversionista C.G. Yankey como vicepresidente, aunque no siempre aparece en todas las listas de fundadores.</p>
+<p><strong>Sobre Olive Ann Beech:</strong> Aunque nunca aprendió a volar, Olive Ann Beech fue la estratega financiera y administrativa que permitió a la compañía sobrevivir a la Depresión y prosperar durante la guerra. Alcanzó la presidencia de una empresa Fortune 500 y recibió numerosos reconocimientos a lo largo de su carrera. Recordaría después que «Walter prefería arriesgarse al fracaso construyendo el biplano de Wells que desvanecerse detrás de un escritorio corporativo».</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -144,7 +120,7 @@ Walter Beech falleció en 1950, pero Olive Ann Beech continuó liderando la empr
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST
+- **Timestamp de verificación:** 2026-10-04 17:41:08 CST
 - **Fuentes primarias/institucionales consultadas:** Britannica, Textron Aviation, Wikipedia (EN/ES), EcuRed, King Air Magazine, National Air and Space Museum, Kansas Historical Society
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha de fundación (19 de abril de 1932) y en los nombres de los fundadores. Existe una ligera variación en la lista de socios fundadores: algunas fuentes incluyen a C.G. Yankey como vicepresidente e inversionista, mientras que otras lo omiten. Se ha optado por incluirlo basándose en fuentes especializadas de King Air Magazine.
 - **Nivel de confianza:** Alto

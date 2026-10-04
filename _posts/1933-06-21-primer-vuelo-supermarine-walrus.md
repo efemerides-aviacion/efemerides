@@ -65,11 +65,11 @@ En el periodo de entreguerras, las armadas de las potencias mundiales competían
 
 ### Entorno tecnológico
 
-El Walrus era un diseño avanzado para su época. Supermarine, bajo la dirección de R. J. Mitchell, había ganado prestigio con sus hidroaviones de competición en la Copa Schneider. Mitchell aplicó su experiencia en aerodinámica y construcción metálica al diseño del Seagull V. El uso de un motor en configuración propulsora (con la hélice trasera) protegía la hélice del agua salada y permitía a la tripulación acceder a la proa sin peligro.
+El Walrus era un diseño puntero para su época. Supermarine, bajo la dirección de R. J. Mitchell, había ganado prestigio con sus hidroaviones de competición en la Copa Schneider. Mitchell aplicó su experiencia en aerodinámica y construcción metálica al diseño del Seagull V. El motor iba en posición propulsora, con la hélice trasera: ello la protegía del agua salada y dejaba la proa libre para la tripulación.
 
 ### Entorno cultural
 
-El Walrus fue apodado «Shagbat» (algo así como «murciélago de mar») por sus tripulaciones, en referencia a su aspecto poco elegante pero funcional. También se le llamaba «Steam-pigeon» (paloma de vapor) por el vapor que producía el agua al golpear el motor caliente. A pesar de su apariencia, era un avión extremadamente robusto, diseñado para soportar el estrés del lanzamiento desde catapulta y las duras condiciones del mar.
+El Walrus fue apodado «Shagbat» (algo así como «murciélago de mar») por sus tripulaciones, en referencia a su aspecto poco elegante pero funcional. También se le llamaba «Steam-pigeon» (paloma de vapor) por el vapor que producía el agua al golpear el motor caliente. A pesar de su apariencia, era un avión extremadamente robusto, apto para aguantar el esfuerzo del lanzamiento por catapulta y las duras condiciones del mar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -84,13 +84,13 @@ El Walrus fue apodado «Shagbat» (algo así como «murciélago de mar») por su
 - **1935:** La Royal Navy encarga los primeros Walrus Mk I (12 unidades) 
 - **1936:** Primer vuelo del Walrus Mk I de producción (K5772) 
 - **1939-1945:** El Walrus sirve en todos los frentes de la Segunda Guerra Mundial, principalmente en rescate marítimo, reconocimiento y patrulla antisubmarina 
-- **1940:** Primer vuelo del Walrus Mk II (con casco de madera para ahorrar aluminio), fabricado por Saunders-Roe 
+- **1940:** Primer vuelo del Walrus Mk II (casco en madera por escasez de aluminio), fabricado por Saunders-Roe 
 - **1944:** Cese de la producción; 740 unidades construidas 
 - **1956:** Último Walrus retirado del servicio activo por la Royal Navy 
 
 ### El looping de Hendon
 
-Cinco días después de su primer vuelo, el 26 de junio de 1933, el prototipo del Seagull V (con la matrícula N-1) fue presentado en el SBAC Show de Hendon, el evento anual de la Sociedad de Compañías Aeronáuticas Británicas. El piloto, Joseph «Mutt» Summers, decidió realizar una maniobra completamente inesperada: un looping completo con un hidroavión anfibio.
+Cinco días después del estreno, el 26 de junio de 1933, el prototipo del Seagull V (con la matrícula N-1) fue presentado en el SBAC Show de Hendon, el evento anual de la Sociedad de Compañías Aeronáuticas Británicas. El piloto, Joseph «Mutt» Summers, decidió realizar una maniobra completamente inesperada: un looping completo con un hidroavión anfibio.
 
 El público, que incluía a R. J. Mitchell, observó asombrado cómo el avión ejecutaba la acrobacia. Summers había demostrado que la estructura del Seagull V, diseñada para soportar el estrés del lanzamiento desde catapulta, era lo suficientemente robusta para maniobras extremas. La hazaña no solo impresionó al público, sino que también convenció a los funcionarios de la Marina de la resistencia del diseño.
 
@@ -142,14 +142,14 @@ Hoy, los sobrevivientes —incluyendo uno en el Fleet Air Arm Museum de Yeovilto
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Esta efeméride conmemora el <strong>primer vuelo</strong> del prototipo del Supermarine Walrus (originalmente Seagull V), que tuvo lugar el 21 de junio de 1933. El avión recibió su nombre «Walrus» tras ser adoptado por la Royal Navy. La configuración de motor en posición propulsora (trasera) era inusual para la época, pero se eligió para proteger la hélice y facilitar las operaciones de amarre en el mar.</p>
+  <p><strong>Nota aclaratoria:</strong> La efeméride celebra el <strong>primer vuelo</strong> del prototipo del Supermarine Walrus (originalmente Seagull V), que tuvo lugar el 21 de junio de 1933. El avión recibió su nombre «Walrus» tras ser adoptado por la Royal Navy. La configuración de motor en posición propulsora (trasera) era inusual para la época, pero se eligió para proteger la hélice y facilitar las operaciones de amarre en el mar.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
+- **Timestamp de verificación:** 2026-10-04 17:41:08 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN/IT), Classic Warbirds, Naval Encyclopedia, La Segunda Guerra, Military History Fandom, FDRA
 - **Discrepancias resueltas:** Algunas fuentes citan el motor del prototipo como Bristol Jupiter IX, mientras que otras indican Pegasus. El motor de serie fue el Pegasus VI. Se ha aclarado la distinción.
 - **Nivel de confianza:** Alto
