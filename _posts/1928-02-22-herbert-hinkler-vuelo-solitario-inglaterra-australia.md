@@ -45,7 +45,7 @@ El Avro 581E Avian G-EBOV, con un Cirrus II de 90 hp, cruzó 17.671 km con sexta
 
 ### Entorno cultural
 
-El G-EBOV se conserva en el Queensland Museum y Bundaberg alberga el Hinkler Hall of Aviation: la memoria del vuelo vive en museos. Hinkler, muerto en 1933 en los Apeninos, quedó fijado como pionero australiano.
+La hazaña fue recordada menos por la máquina que por el piloto: la navegación sin más ayuda que un sextante y veinte escalas resume el estilo del vuelo solitario de la época.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -59,12 +59,11 @@ El G-EBOV se conserva en el Queensland Museum y Bundaberg alberga el Hinkler Hal
 ## Consecuencias e Impacto
 - **Viabilidad de rutas aéreas imperiales:** Demostró que vuelos UK–Australia eran posibles con aeronaves ligeras.  
 - **Inspiración:** Consolidó la reputación de Hinkler como pionero australiano.  
-- **Legado:** Su Avro Avian G-EBOV se conserva en el Queensland Museum; Bundaberg alberga el Hinkler Hall of Aviation.  
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
-El Avro Avian G-EBOV se conserva en el Queensland Museum y Bundaberg alberga el Hinkler Hall of Aviation. Muerto en 1933 en un accidente aéreo en los Apeninos italianos, Hinkler perdura como el pionero australiano que unió en solitario Inglaterra y Australia.
+El Avro Avian G-EBOV se conserva en el Queensland Museum y Bundaberg alberga el Hinkler Hall of Aviation. Su nombre quedó ligado al vuelo que unió en solitario Inglaterra y Australia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -89,7 +88,7 @@ El Avro Avian G-EBOV se conserva en el Queensland Museum y Bundaberg alberga el 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Timestamp de verificación:** 2026-10-04 15:52:22 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation, State Library Queensland, Australian Dictionary of Biography  
 - **Discrepancias resueltas:** Confirmación de distancia, duración y fecha exacta de llegada a Darwin.  
 - **Nivel de confianza:** Alto  

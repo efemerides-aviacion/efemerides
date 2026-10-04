@@ -20,7 +20,7 @@ image: 1927-06-28-fundacion-iberia-aerolinea-mas-antigua-espana.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 28 de junio de 1927, se firmó en Madrid la escritura de constitución de Iberia, Compañía Aérea de Transportes, la primera línea aérea comercial de pasajeros del país. Impulsada por el célebre financiero de Getxo Horacio Echevarrieta como socio mayoritario, y contando con la alianza tecnológica y financiera de la aerolínea alemana Deutsche Luft Hansa, la nueva empresa nació con un capital social de 1.100.000 pesetas. Apenas unos meses más tarde, el 14 de diciembre de 1927, se llevó a cabo el vuelo inaugural entre Madrid y Barcelona con una flota de tres trimotores alemanes Rohrbach Ro VIII Roland, equipados con asientos de mimbre para diez ocupantes. Este hito no solo rompió el aislamiento de las comunicaciones internas de la península ibérica, sino que estableció las bases para el posterior desarrollo de la aviación comercial española moderna.</p>
+<p>El 28 de junio de 1927, se firmó en Madrid la escritura de constitución de Iberia, Compañía Aérea de Transportes, la primera línea aérea comercial de pasajeros del país. Impulsada por el célebre financiero de Getxo Horacio Echevarrieta como socio mayoritario, y contando con la alianza tecnológica y financiera de la aerolínea alemana Deutsche Luft Hansa, la nueva empresa nació con un capital social de 1.100.000 pesetas. Apenas unos meses más tarde, el 14 de diciembre de 1927, se llevó a cabo el vuelo inaugural entre Madrid y Barcelona con una flota de tres trimotores alemanes Rohrbach Ro VIII Roland, equipados con asientos de mimbre para diez ocupantes. Este hito no solo rompió el aislamiento de las comunicaciones internas de la península ibérica, sino que abrió el camino de la aviación comercial española moderna.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
@@ -30,7 +30,7 @@ image: 1927-06-28-fundacion-iberia-aerolinea-mas-antigua-espana.webp
 - **Reparto de capital inicial:** 76% aportado por Horacio Echevarrieta (836.000 pesetas) y 24% aportado por la compañía estatal alemana Deutsche Luft Hansa (264.000 pesetas)
 - **Matrículas de los trimotores iniciales:** `M-CACA` (cambiada rápidamente a `M-CAAC` el 21 de diciembre de 1927 por motivos de cacofonía), `M-CBBB` y `M-CCCC`
 - **Características técnicas de la aeronave:** Monoplano de ala alta Rohrbach Ro VIII Roland I, propulsado por tres motores BMW IV de refrigeración por agua con una potencia de 230 kW cada uno
-- **Rendimiento operativo:** Velocidad de crucero de 170 km/h, techo de servicio de 4.300 metros y un peso máximo al despegue de 5.265 kg
+- **Rendimiento operativo:** Velocidad de crucero de 170 km/h, techo de servicio de 4.300 metros; peso al despegue, 5.265 kg
 - **Costo de las tarifas de lanzamiento:** 163 pesetas por el trayecto sencillo Madrid-Barcelona, y 300 pesetas por el billete de ida y vuelta
 - **Primeros aeródromos utilizados:** Aeródromo de Carabanchel (actual Madrid-Cuatro Vientos) y el Aeródromo de El Prat (Barcelona)
 - **Fusión posterior y monopolio (1929):** Integración obligatoria de la aerolínea en CLASSA (*Compañía de Líneas Aéreas Subvencionadas S.A.*) por mandato del Directorio Militar de Miguel Primo de Rivera
@@ -102,17 +102,15 @@ A casi un siglo de su fundación, Iberia se erige como un patrimonio vivo de la 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Uno de los hechos históricos más curiosos de los inicios de la aerolínea concierne a la matrícula original de su primer avión trimotor Rohrbach Roland. En un principio, el avión recibió la matrícula <em>M-CACA</em>; sin embargo, al advertir la connotación escatológica y poco afortunada que este nombre de registro tenía en idioma español, la dirección de la compañía gestionó con extrema rapidez el cambio de siglas apenas una semana después (el 21 de diciembre de 1927), quedando registrado de forma definitiva como <em>M-CAAC</em>.</p>
+  <p><strong>Nota aclaratoria:</strong> Un detalle singular de los inicios de la aerolínea concierne a la matrícula original de su primer avión trimotor Rohrbach Roland. En un principio, el avión recibió la matrícula <em>M-CACA</em>; sin embargo, al advertir la connotación escatológica y poco afortunada que este nombre de registro tenía en idioma español, la dirección de la compañía gestionó con extrema rapidez el cambio de siglas apenas una semana después (el 21 de diciembre de 1927), quedando registrado de forma definitiva como <em>M-CAAC</em>.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-Para asegurar la rigurosidad histórica de este post y garantizar el control técnico de los datos presentados, se establecen los siguientes metadatos editoriales:
-
-- **Timestamp de verificación:** 2026-09-09 08:52:37 CST  
-- **Fuentes primarias/institucionales consultadas:** Archivos notariales de la constitución de Iberia S.A. (1927), registros de prensa del Grupo Iberia, catálogo filatélico oficial de Correos de España, base de datos del registro civil de aeronaves históricas de España, base de datos de European Airlines
-- **Discrepancias resueltas:** Se aclara la ligera confusión que existe en algunos artículos de prensa que sitúan el despegue inicial en Getafe, cuando el primer vuelo regular con Alfonso XIII despegó del Aeródromo de Carabanchel (actual Cuatro Vientos) y el primer vuelo comercial real partió del Aeródromo de El Prat en Barcelona. Asimismo, se documenta de forma inequívoca el reparto de capital (76% de Horacio Echevarrieta y 24% de Deutsche Luft Hansa).
+- **Timestamp de verificación:** 2026-10-04 15:52:22 CST  
+- **Fuentes primarias/institucionales consultadas:** archivos notariales de Iberia S.A. (1927), prensa del Grupo Iberia, catálogo filatélico de Correos de España, European Airlines
+- **Discrepancias resueltas:** el primer vuelo regular despegó de Carabanchel (no de Getafe) y el comercial de El Prat; capital: 76% Echevarrieta, 24% Deutsche Luft Hansa.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

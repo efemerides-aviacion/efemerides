@@ -18,7 +18,7 @@ image: 1925-07-13-fundacion-western-airlines.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 13 de julio de 1925 quedó incorporada Western Air Express en California bajo la presidencia de Harris “Pop” Hanshue. Aquella empresa, nacida en plena expansión del correo aéreo estadounidense tras la Air Mail Act de 1925, sería el embrión de la futura Western Airlines, una de las compañías más influyentes en la historia de la aviación comercial del oeste de Estados Unidos.</p>
+<p>El 13 de julio de 1925 quedó incorporada Western Air Express en California bajo la presidencia de Harris “Pop” Hanshue. Aquella empresa, nacida en plena expansión del correo aéreo estadounidense tras la Air Mail Act de 1925, sería el embrión de la futura Western Airlines, una de las grandes aerolíneas del oeste de Estados Unidos.</p>
 <p>Aunque las operaciones no comenzaron hasta abril de 1926, la fecha fundacional de 1925 marca el punto de partida institucional de una aerolínea que se desarrolló desde el transporte de correo con aviones Douglas M-2, pasó por una breve amalgama en el origen de TWA (1930–1934) y se consolidó como Western Airlines hasta su integración en Delta Air Lines el 1 de abril de 1987.</p>
 </div>
 
@@ -44,7 +44,7 @@ image: 1925-07-13-fundacion-western-airlines.webp
 
 ## Contexto Histórico
 
-La fundación de Western Air Express se produjo en un momento decisivo para la aviación estadounidense. En los años veinte, las autoridades federales empezaban a transferir parte del transporte de correo a operadores privados, una medida que acabaría impulsando el nacimiento de varias de las grandes aerolíneas del país.
+La fundación de Western Air Express se dio en un periodo decisivo para la aviación estadounidense. En los años veinte, las autoridades federales empezaban a transferir parte del transporte de correo a operadores privados, una medida que acabaría impulsando el nacimiento de varias de las grandes aerolíneas del país.
 
 ### Entorno social
 Estados Unidos vivía una etapa de fuerte modernización económica y tecnológica. El correo aéreo comenzaba a percibirse no solo como un experimento audaz, sino como un servicio útil para conectar regiones vastas y todavía mal articuladas por otros medios rápidos de transporte. En ese contexto, el oeste norteamericano ofrecía tanto grandes oportunidades como enormes desafíos operativos.
@@ -126,10 +126,10 @@ La fecha del 13 de julio de 1925, por tanto, no solo señala una incorporación 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-07-09 12:00:00 CST  
+- **Timestamp de verificación:** 2026-10-04 15:52:22 CST  
 - **Fuentes primarias/institucionales consultadas:** Delta Flight Museum, Los Angeles Times, Encyclopædia Britannica  
-- **Fuentes secundarias de contraste:** Simple Flying, Aerodacious, Washington County Historical Society, Wikipedia (Western Airlines; Pacific Northern Airlines)  
-- **Ampliación documental (2026-07-09):** se incorporaron, tras contraste con fuentes confiables, los hitos de fusión con TAT/TWA (1930), separación y reindependencia (1934, con mención del breve nombre General Air Lines), fusión con Pacific Northern Airlines (1967), y el detalle de la adquisición por Delta en 1986 con integración operativa el 1 de abril de 1987 (hubs LAX y Salt Lake City).  
-- **Discrepancias resueltas:** se distinguió la fundación de Western Air Express en 1925 del uso posterior del nombre Western Air Lines/Western Airlines; se separó con claridad la fecha de constitución de la compañía y el inicio de operaciones en 1926; se rechazó formular el servicio de pasajeros de 1926 como “el primero de EE. UU.” sin matiz, por ser un superlativo discutible; se mantuvo la secuencia fundación → adjudicación CAM-4 → operaciones, sin presentar el contrato como causa previa a la incorporación  
+- **Fuentes secundarias de contraste:** Simple Flying, Aerodacious, Washington County Historical Society, Wikipedia  
+- **Ampliación documental (2026-07-09):** hitos de fusión con TAT/TWA (1930), nombre breve General Air Lines (1934), fusión con Pacific Northern Airlines (1967) y adquisición por Delta (1987).  
+- **Discrepancias resueltas:** se distingue la fundación de Western Air Express (1925) del nombre posterior Western Airlines; se separa la constitución de 1925 de las operaciones de 1926 y se matiza el superlativo del servicio de pasajeros de 1926; se mantiene la secuencia fundación → CAM-4 → operaciones.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

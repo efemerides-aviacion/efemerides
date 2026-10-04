@@ -43,7 +43,7 @@ El vuelo del Plus Ultra fue una hazaña técnica y simbólica que reforzó los l
 La llegada del hidroavión fue un acontecimiento multitudinario: escolta aérea argentina, recibimiento apoteósico, prensa con ediciones especiales y actos oficiales en honor a la tripulación.
 
 ### Entorno tecnológico
-El aparato era un Dornier Do J Wal modificado para gran autonomía, con dos motores Napier Lion montados en tándem sobre el ala. Su condición de hidroavión le permitía amerizar en cada escala de la ruta, y la travesía se resolvió con unas 59 horas y 40 minutos de vuelo acumulado para cubrir entre 10.170 y 10.825 kilómetros.
+El aparato era un hidroavión bimotor con los motores en tándem sobre el ala, preparado para etapas de largo alcance. Su condición de hidroavión le permitía amerizar en cada escala de la ruta, y la travesía se resolvió con unas 59 horas y 40 minutos de vuelo acumulado para cubrir entre 10.170 y 10.825 kilómetros.
 
 ### Entorno cultural
 La gesta se presentó como continuidad de los viajes trasatlánticos iniciados por Colón desde Palos de la Frontera, y como símbolo de unión entre España y América.
@@ -92,7 +92,7 @@ El nombre del hidroavión y los de su tripulación —Ramón Franco, Julio Ruiz 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Timestamp de verificación:** 2026-10-04 15:52:22 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN y ES), prensa española y argentina, ACAMI, Infobae, estudios académicos, Testdelayer, El Civismo, Monumentalnet  
 - **Discrepancias resueltas:** destino final del avión (original en Argentina, réplica en Madrid)  
 - **Nivel de confianza:** Alto  

@@ -12,14 +12,14 @@ image: 1927-05-08-desaparicion-biplano-l'oiseau-blanc.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1927-05-08-desaparicion-biplano-l'oiseau-blanc.webp" alt="El biplano Levasseur PL.8 'L’Oiseau Blanc' en el aeropuerto de Le Bourget">
-  <figcaption class="post-caption">El biplano Levasseur PL.8 "L’Oiseau Blanc" en el aeropuerto de Le Bourget, antes de su vuelo hacia Nueva York, 8 de mayo de 1927. Fuente: This Day in Aviation.</figcaption>
+  <figcaption class="post-caption">Vista del aparato en Le Bourget antes de su vuelo hacia Nueva York, 8 de mayo de 1927. Fuente: This Day in Aviation.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 8 de mayo de 1927, el biplano L’Oiseau Blanc (Levasseur PL.8), pilotado por los aviadores franceses Charles Nungesser y François Coli, despegó de París con destino a Nueva York en un intento de primer vuelo transatlántico sin escalas, pero nunca llegó a su destino y se convirtió en uno de los mayores misterios de la aviación. Menos de dos semanas después, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> sin escalas desde Nueva York hasta París, llevándose el Orteig Prize.</p>
+<p>El 8 de mayo de 1927, el biplano L’Oiseau Blanc (Levasseur PL.8), pilotado por los aviadores franceses Charles Nungesser y François Coli, despegó de París con destino a Nueva York en un intento de primer vuelo transatlántico sin escalas, pero nunca llegó a su destino y pasó a uno de los enigmas célebres de la aviación. Menos de dos semanas después, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1927/05/21/lindbergh-cruza-atlantico-sin-escalas.html" style="color: #315fea; text-decoration: none;">Charles Lindbergh</a> sin escalas desde Nueva York hasta París, llevándose el Orteig Prize.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -31,31 +31,26 @@ image: 1927-05-08-desaparicion-biplano-l'oiseau-blanc.webp
 - **Lugar de salida:** Aeropuerto de Le Bourget, París, Francia
 - **Destino previsto:** Nueva York, Estados Unidos (amerizaje frente a la Estatua de la Libertad)
 - **Aeronave:** Levasseur PL.8-01, apodada "L’Oiseau Blanc" (El Pájaro Blanco)
-- **Tripulación:** Charles Nungesser (piloto) y François Coli (navegante)
-- **Motor:** Lorraine-Dietrich 12Eb Courlis W-12, 460 hp
+- **Tripulación:** Charles Nungesser (piloto) y François Coli (navegante), sentados lado a lado en cabina abierta
 - **Capacidad de combustible:** 4.025 litros
 - **Peso al despegue:** 5.000 kg
 - **Autonomía estimada:** 40 horas (42 horas según otras fuentes)
 - **Rango máximo:** 7.000 km
 - **Último avistamiento confirmado:** Sobre Irlanda
 - **Estado:** Desaparecido, nunca encontrado
-- **Tripulación:** 2 (sentados lado a lado en cabina abierta)
 - **Longitud:** 9,75 m (32 pies)
 - **Envergadura:** 15 m (49 pies)
 - **Altura:** 3,89 m (12 pies 9 pulgadas)
 - **Superficie alar:** 60,9 m²
 - **Peso vacío:** 1.905 kg
-- **Peso bruto:** 5.000 kg
 - **Planta motriz:** 1 × Lorraine 12Eb Courlis W-12 refrigerado por agua, 340 kW (460 hp)
 - **Velocidad máxima:** 193 km/h (120 mph)
 - **Velocidad de crucero:** 165 km/h (103 mph)
-- **Alcance:** 7.000 km (4.300 millas)
-- **Autonomía:** 40 horas
 - **Techo de servicio:** 7.000 m (23.000 pies)
 
 ### La tripulación
 
-Charles Nungesser era el tercer as francés de la Primera Guerra Mundial, con 43 victorias aéreas confirmadas. Condecorado con la Legión de Honor y la Médaille Militaire, era conocido por su carácter temerario y sus múltiples heridas de guerra. François Coli era un veterano de guerra con experiencia en vuelos de larga distancia sobre el Mediterráneo, y era el especialista en navegación celestial de la misión.
+Charles Nungesser era el tercer as francés de la Primera Guerra Mundial, con 43 victorias aéreas confirmadas. Condecorado con la Legión de Honor y la Médaille Militaire, era conocido por su carácter temerario y sus múltiples heridas de guerra. François Coli era un veterano de guerra con experiencia en largas travesías del Mediterráneo, y era el especialista en navegación celestial de la misión.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -79,7 +74,7 @@ Mayor misterio de la Era de los Pioneros —«el Everest de los misterios»—, 
 
 ## Desarrollo Cronológico
 
-El 8 de mayo de 1927, a las 5:17 a.m., el L’Oiseau Blanc despegó de Le Bourget con un peso de 5.000 kg (casi el triple de su peso vacío). Las modificaciones realizadas por Levasseur incluían una cabina ensanchada para la tripulación, tanques de combustible adicionales (4.025 litros) y un fuselaje reforzado con forma de casco para permitir un amerizaje frente a la Estatua de la Libertad.
+El 8 de mayo de 1927, a las 5:17 a.m., el L’Oiseau Blanc despegó de Le Bourget con un peso de 5.000 kg (casi el triple de su peso vacío). Las modificaciones realizadas por Levasseur incluían una cabina ensanchada para la tripulación, tanques de combustible adicionales (4.025 litros) y un fuselaje reforzado con forma de casco para el amerizaje previsto.
 
 ### La ruta planificada
 
@@ -162,7 +157,7 @@ El "Pájaro Blanco" es un recordatorio de que, en la conquista del cielo, la his
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:49:05 CST  
+- **Timestamp de verificación:** 2026-10-04 15:52:22 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), National Geographic, WarHistory.org, Chemins de mémoire, Daily Mail
 - **Discrepancias resueltas:** Todas las fuentes coinciden en la fecha del despegue (8 de mayo de 1927) y la hora (5:17 a.m.). La autonomía varía entre 40 y 42 horas. El peso al despegue fue de 5.000 kg. Las versiones sobre la ruta y posibles avistamientos posteriores varían, pero se presentan como teorías no confirmadas.
 - **Nivel de confianza:** Alto

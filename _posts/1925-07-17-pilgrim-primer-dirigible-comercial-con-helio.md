@@ -44,7 +44,7 @@ image: 1925-07-17-pilgrim-primer-dirigible-comercial-con-helio.webp
 
 ## Contexto Histórico
 
-El vuelo del <em>Pilgrim</em> con helio tuvo lugar en un momento en que la aviación más ligera que el aire intentaba encontrar una forma segura y comercialmente útil de sobrevivir después de la Primera Guerra Mundial. Los dirigibles seguían ofreciendo una combinación atractiva de vuelo silencioso, estabilidad relativa y capacidad de exhibición pública, pero la inflamabilidad del hidrógeno seguía siendo una amenaza estructural para cualquier proyecto civil duradero.
+El vuelo del <em>Pilgrim</em> con helio tuvo lugar en un momento en que los dirigibles civiles intentaban encontrar una forma segura y comercialmente útil de sobrevivir después de la Primera Guerra Mundial. Los dirigibles seguían ofreciendo una combinación atractiva de vuelo silencioso, estabilidad relativa y capacidad de exhibición pública, pero la inflamabilidad del hidrógeno seguía siendo una amenaza estructural para cualquier proyecto civil duradero.
 
 ### Entorno social
 Durante la década de 1920, el público estadounidense observaba con fascinación toda forma de transporte aéreo. Los aviones y dirigibles despertaban curiosidad, prestigio y expectativas comerciales. Las empresas no solo competían por vender tecnología, sino también por convencer a la sociedad de que volar podía ser seguro, útil y parte de la vida moderna. En ese clima, Goodyear entendió que un dirigible pequeño, visible y relativamente accesible podía servir tanto para relaciones públicas como para experimentación operativa.
@@ -86,7 +86,7 @@ El primer vuelo del <em>Pilgrim</em> con helio produjo un efecto inmediato sobre
 
 El legado del <em>Pilgrim</em> es mucho mayor que el de un pequeño dirigible experimental. Su vuelo con helio de julio de 1925 demostró que los blimps podían convertirse en herramientas más seguras de promoción, transporte ligero y entrenamiento, y sentó la base de una tradición que Goodyear mantendría durante un siglo.
 
-A largo plazo, el <em>Pilgrim</em> ocupa un lugar privilegiado en la historia de la aviación más ligera que el aire porque representa una transición real entre la experimentación y la explotación civil continuada. También dejó una herencia material concreta: su góndola se conserva en el Smithsonian como testimonio de una etapa pionera en la evolución de los dirigibles estadounidenses.
+A largo plazo, el <em>Pilgrim</em> ocupa un lugar privilegiado entre los dirigibles civiles de los años veinte porque representa una transición real entre la experimentación y la explotación civil continuada. También dejó una herencia material concreta: su góndola se conserva en el Smithsonian como testimonio de una etapa pionera en la evolución de los dirigibles estadounidenses.
 
 Por eso, el 17 de julio de 1925 no recuerda simplemente un vuelo más. Recuerda el momento en que una tecnología todavía vulnerable encontró una formulación más segura y comercialmente viable. El <em>Pilgrim</em>, en ese primer vuelo con helio, ayudó a definir la identidad histórica del blimp moderno.
 
@@ -112,7 +112,7 @@ Por eso, el 17 de julio de 1925 no recuerda simplemente un vuelo más. Recuerda 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
+- **Timestamp de verificación:** 2026-10-04 15:52:22 CST  
 - **Fuentes primarias/institucionales consultadas:** Goodyear, Smithsonian National Air and Space Museum  
 - **Fuentes secundarias de contraste:** Signal Akron, Airships.net
 - **Discrepancias resueltas:** se distinguió entre el primer vuelo con hidrógeno, el primer vuelo con helio y la configuración posterior del dirigible mostrada en varias imágenes históricas  

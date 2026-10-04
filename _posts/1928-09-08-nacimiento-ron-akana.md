@@ -19,7 +19,7 @@ image: 1928-09-08-nacimiento-ron-akana.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 8 de septiembre de 1928 nació en Honolulu, Hawái, Ronald Byrd Akana, quien dejaría una huella imborrable en la historia de la aviación comercial. Akana dedicó sesenta y tres años de su vida a servir como auxiliar de vuelo para United Airlines, acumulando un estimado de 200 millones de millas voladas y obteniendo el reconocimiento del Guinness World Records al momento de su jubilación en 2012.</p>
+<p>El 8 de septiembre de 1928 nació en Honolulu, Hawái, Ronald Byrd Akana, quien dejaría una huella imborrable en la aviación comercial. Akana dedicó sesenta y tres años de su vida a servir como auxiliar de vuelo para United Airlines, acumulando un estimado de 200 millones de millas voladas y obteniendo el reconocimiento del Guinness World Records al momento de su jubilación en 2012.</p>
 </div>
 
 
@@ -46,7 +46,7 @@ A finales de la década de 1940, el transporte aéreo comercial experimentaba un
 Esa época de transformación cabe medirla en aeronaves: las grandes presurizadas abrían vuelos transoceánicos e intercontinentales más cómodos, y los primeros servicios de Akana volaron el Pacífico en Boeing Stratocruiser, por rutas que la compañía abría entonces ante él: el archivo familiar dejó constancia fotográfica de su presencia, junto a sus compañeros de tripulación, en la ceremonia con que Honolulu agasajó el 9 de octubre de 1950 el vuelo inaugural de United hacia Los Ángeles, con el rey y la reina de la Semana de Aloha como anfitriones. Sesenta y tres años después de aquel primer servicio, la hoja de vida del sobrecargo —calculada en unos 200 millones de millas según las estimaciones con que Guinness certificó su marca, y en torno a las diez mil travesías del Pacífico según la emisora NPR— abarcaba el paso de los motores de pistón a la era del chorro, del DC-8 al Boeing 747, y de ahí a los 757 y 767 con que se retiró: la evolución entera de la aviación comercial estadounidense, servida a bordo por una sola persona.
 
 ### Entorno cultural
-Volaba entonces una sociedad que se vestía para embarcar, y Akana atravesó también ese cambio: fue testigo, resumía en la prensa al retirarse, del paso de pasajeros «de arreglarse a vestirse con soltura», de las comidas de a bordo mejorando hasta volverse servicio de restaurante, de las primeras películas proyectadas en el avión, de la prohibición federal de fumar en los vuelos y de la seguridad endurecida tras los atentados de 2001. A bordo cruzó a figuras del espectáculo de su época, y su casa fue la cultura del aloha con que Hawái recibía al mundo: en su último vuelo, en agosto de 2012, la tripulación —entre la cual estaba su hija Jean Akana-Lewis, veterana ya de más de dos décadas en United— lo despidió en Denver obsequiándole un collar de flores, antes de cerrar la carrera en el estado donde la había iniciado, con último aterrizaje en Kauai. La consagración de ese modo de entender el oficio llegó esa misma semana: Guinness World Records le envió la placa que lo reconocía como el auxiliar de vuelo con la carrera más prolongada del mundo, y su nombre selló el libro de récords el octubre siguiente.
+Volaba entonces una sociedad que se vestía para embarcar, y Akana atravesó también ese cambio: fue testigo, resumía en la prensa al retirarse, del paso de pasajeros «de arreglarse a vestirse con soltura», de las comidas de a bordo mejorando hasta volverse servicio de restaurante, de las primeras películas proyectadas en el avión, de la prohibición federal de fumar en los vuelos y de la seguridad endurecida tras los atentados de 2001. A bordo cruzó a figuras del espectáculo de su época, y su casa fue la cultura del aloha con que Hawái recibía al mundo: en su último vuelo, en agosto de 2012, la tripulación —entre la cual estaba su hija Jean Akana-Lewis, veterana ya de más de dos décadas en United— lo despidió en Denver obsequiándole un collar de flores, antes de cerrar la carrera en el estado donde la había iniciado, con último aterrizaje en Kauai. La consagración de ese modo de entender el oficio llegó esa misma semana: Guinness World Records le envió la placa que certificaba la trayectoria más longeva del gremio, y su nombre selló el libro de récords el octubre siguiente.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -66,7 +66,7 @@ La extensa trayectoria de Akana es un testimonio vivo del desarrollo de la aviac
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
-Noventa y ocho años después de su nacimiento, la dedicación inquebrantable de Ron Akana permanece como un hito de profesionalismo y hospitalidad en el aire. Sus más de 200 millones de millas recorridas sentaron un precedente histórico que redefinió los límites de longevidad laboral en el sector aeronáutico.
+Casi un siglo después de su nacimiento, la dedicación inquebrantable de Ron Akana permanece como un hito de profesionalismo y hospitalidad en el aire. Sus más de 200 millones de millas recorridas sentaron un precedente histórico que redefinió los límites de longevidad laboral en el sector aeronáutico.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -90,7 +90,7 @@ Noventa y ocho años después de su nacimiento, la dedicación inquebrantable de
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-03 14:02:30 CST  
+- **Timestamp de verificación:** 2026-10-04 15:52:22 CST  
 - **Fuentes primarias/institucionales consultadas:** Archivos de Guinness World Records (referenciados en prensa), obituarios y registros de United Airlines citados en NBC News; Associated Press, NBC News, NPR y CNN leídos íntegramente en la armonización del 3 de septiembre de 2026.
 - **Discrepancias resueltas:** Múltiples fuentes desactualizadas continúan citando a Akana como el poseedor vigente del récord Guinness. Se verificó que el récord fue batido por Bette Nash en 2021, lo cual se clarifica en la Nota Aclaratoria. El destino del vuelo de retiro figura en una breve de radio como Honolulu, mientras que Associated Press, NBC y la prensa de viajes lo documentan como Denver–Kauai; se adopta este último.
 - **Nivel de confianza:** Alto

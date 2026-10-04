@@ -12,13 +12,13 @@ image: 1927-05-02-consolidacion-capacidad-aviacion-us-centro-suramerica.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1927-05-02-consolidacion-capacidad-aviacion-us-centro-suramerica.webp" alt="Avión Loening OA-1A San Francisco">
-  <figcaption class="post-caption">El Loening OA-1A 'San Francisco', el único de los cinco aviones que completó la travesía sin sufrir averías mecánicas. Se conserva en el Museo Nacional del Aire y el Espacio (Udvar-Hazy Center). Fuente: Smithsonian</figcaption>
+  <figcaption class="post-caption">El Loening OA-1A 'San Francisco', el único de los cinco aviones que completó la travesía sin sufrir averías mecánicas. El ejemplar se conserva en el Centro Udvar-Hazy de Virginia. Fuente: Smithsonian</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 2 de mayo de 1927 culminó en Bolling Field, Washington D.C., el vuelo Panamericano de Buena Voluntad del Ejército de Estados Unidos, una travesía de 35.200 kilómetros realizada por cinco aviones anfibios Loening OA-1A. La expedición, que partió de San Antonio, Texas, el 21 de diciembre de 1926, recorrió México, América Central, el Canal de Panamá, y la costa oeste de Sudamérica hasta Valdivia (Chile), cruzó los Andes hasta Bahía Blanca (Argentina), y retornó por la costa atlántica a través del Caribe. El viaje duró 59 días de vuelo, intercalados con 74 días de mantenimiento y ceremonias diplomáticas. Diez pilotos participaron en la misión, cuyo propósito era fomentar buenas relaciones con América Latina, promover la aviación comercial y mapear rutas aéreas estratégicas.</p>
+<p>El 2 de mayo de 1927 culminó en Bolling Field, Washington D.C., el vuelo Panamericano de Buena Voluntad del Ejército de Estados Unidos, una travesía de 35.200 kilómetros realizada por cinco aviones anfibios Loening OA-1A. La expedición partió de San Antonio, Texas, el 21 de diciembre de 1926, siguió México, América Central, el Canal de Panamá y la costa oeste de Sudamérica, cruzó los Andes hasta Bahía Blanca (Argentina) y retornó por el Caribe. El viaje duró 59 días de vuelo, con 74 días de mantenimiento y ceremonias diplomáticas. Diez pilotos participaron en la misión, cuyo propósito era fomentar buenas relaciones con América Latina, promover la aviación comercial y mapear rutas aéreas estratégicas.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -36,9 +36,9 @@ image: 1927-05-02-consolidacion-capacidad-aviacion-us-centro-suramerica.webp
 - **Tripulación por avión:** 2 pilotos (10 en total)
 - **Nombres de los aviones:** New York, San Antonio, San Francisco, Detroit, St. Louis
 - **Comandante de la expedición:** Mayor Herbert A. Dargue
-- **Aeronave que completó todas las etapas:** San Francisco (Capitán Ira C. Eaker y Teniente Muir S. Fairchild)
+- **Aeronave que completó todas las etapas:** San Francisco (Eaker y Fairchild)
 - **Accidente:** 26 de febrero de 1927, colisión del Detroit y el New York en El Palomar, Buenos Aires
-- **Fallecidos:** Capitán Clinton F. Woolsey y Teniente John W. Benton (tripulación del Detroit)
+- **Fallecidos:** Woolsey y Benton (tripulación del Detroit)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -85,13 +85,11 @@ El 26 de febrero de 1927, cuando los aviones se preparaban para aterrizar en el 
 
 Mientras Benton realizaba esta operación, el Detroit se desvió de su curso y colisionó con el New York, pilotado por el Mayor Dargue. Ambas aeronaves quedaron enganchadas y cayeron en picada. Dargue y su copiloto, el Teniente Whitehead, lograron lanzarse en paracaídas y sobrevivieron. En el Detroit, el Capitán Woolsey tuvo la oportunidad de saltar, pero optó por permanecer junto a su compañero Benton, que no podía usar su paracaídas. Ambos murieron al impactar contra el suelo.
 
-A pesar de la tragedia, el secretario de Guerra autorizó la continuación del vuelo. El New York fue reemplazado, y los ocho pilotos restantes completaron la travesía con los cuatro aviones supervivientes.
+Tras la tragedia, el secretario de Guerra autorizó la continuación del vuelo. El New York fue reemplazado y el resto de la escuadrilla completó la travesía.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
-
-El regreso a Bolling Field tuvo efectos inmediatos en los tres planos que la misión se había propuesto.
 
 - **Diplomático:** el presidente Calvin Coolidge recibió a los aviadores en persona y les impuso la Distinguished Flying Cross. Los actos oficiales celebrados en cada una de las escalas cumplieron el propósito de acercamiento con América Latina que había motivado la expedición.
 - **Operacional:** los ocho pilotos supervivientes completaron la travesía con cuatro aeronaves tras la pérdida del *Detroit* y el *New York*, y demostraron que un anfibio militar podía sostener una campaña de 133 días sin apoyo logístico especializado, con el mantenimiento a cargo de las propias tripulaciones.
@@ -105,9 +103,9 @@ El regreso a Bolling Field tuvo efectos inmediatos en los tres planos que la mis
 
 El mayor legado de esta travesía fue pionero en la apertura de rutas aéreas comerciales. Cuando Pan American World Airways comenzó sus servicios a Sudamérica aproximadamente dos años después, la compañía seleccionó sus estaciones siguiendo un patrón basado en la ruta del Vuelo de Buena Voluntad. Los conocimientos adquiridos sobre navegación, meteorología y las condiciones de los aeródromos en la región resultaron invaluables.
 
-El San Francisco, la única aeronave que completó todas las etapas del recorrido sin interrupciones, fue transferido al Smithsonian Institution en diciembre de 1927 y restaurado por el Museo Nacional del Aire y el Espacio entre 1964 y 1965. Actualmente se exhibe en el Udvar-Hazy Center en Chantilly, Virginia.
+El San Francisco, la única aeronave que completó todas las etapas del recorrido sin interrupciones, fue transferido al Smithsonian Institution en diciembre de 1927, restaurado entre 1964 y 1965 y exhibido hoy en el Udvar-Hazy Center de Chantilly, Virginia.
 
-Los participantes del vuelo tuvieron destacadas carreras posteriores. Ira C. Eaker y Muir S. Fairchild alcanzaron el grado de general durante la Segunda Guerra Mundial.
+Los participantes del vuelo tuvieron destacadas carreras posteriores. Eaker y Fairchild, la tripulación del San Francisco, alcanzaron el grado de general durante la Segunda Guerra Mundial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -136,7 +134,7 @@ Los participantes del vuelo tuvieron destacadas carreras posteriores. Ira C. Eak
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 08:13:24 CST  
+- **Timestamp de verificación:** 2026-10-04 15:52:22 CST  
 - **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (Smithsonian), National Museum of the USAF (.mil), Aviation Safety Network, University of Texas at Dallas
 - **Discrepancias resueltas:** La información proporcionada por el usuario era mayormente correcta. Se precisa que el accidente involucró una colisión entre dos aviones, no dos accidentes separados. Los fallecidos (2) tripulaban el mismo avión (Detroit). La ruta de cruce de los Andes fue Valdivia-Bahía Blanca, no directamente a Buenos Aires. Las cifras de 35.200 km, 59 días de vuelo, 74 días de escalas y finalización el 2 de mayo de 1927 son completamente correctas.
 - **Nivel de confianza:** Alto
