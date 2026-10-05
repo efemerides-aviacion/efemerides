@@ -68,7 +68,7 @@ La evacuación de Dunkerque se convirtió en un mito fundacional en la cultura b
 - **1 de junio de 1940:** El bombardeo alemán alcanza su punto máximo; la Luftwaffe realiza cientos de salidas. La RAF responde con la misma intensidad.
 - **2-3 de junio de 1940:** Se evacuan las últimas tropas británicas. Miles de soldados franceses son rescatados en las noches siguientes.
 - **4 de junio de 1940, 10:20:** El Contralmirante William Wake-Walker, último oficial británico en abandonar Dunkerque, declara finalizada la operación. La cifra final de evacuados es de **338.226 soldados**.
-- **4 de junio de 1940, tarde:** Winston Churchill pronuncia su discurso ante la Cámara de los Comunes, advirtiendo que "las guerras no se ganan con evacuaciones".
+- **4 de junio de 1940, tarde:** Churchill pronuncia ante la Cámara de los Comunes su discurso sobre la hora de mayor prueba de la nación.
 
 ### El Papel de la Royal Air Force
 
@@ -136,7 +136,7 @@ El 4 de junio de 1940 no es solo la fecha en que terminó la evacuación de Dunk
 <div class="note-box">
   <p><strong>Notas aclaratorias:</strong></p>
   <p><strong>1. La fecha del 4 de junio de 1940:</strong> La Operación Dynamo comenzó el 26 de mayo de 1940. Aunque la mayoría de las tropas británicas fueron evacuadas antes del 3 de junio, el 4 de junio se considera la fecha de finalización oficial de la operación, cuando el Contralmirante William Wake-Walker, último oficial británico en abandonar Dunkerque, declaró terminada la evacuación. Ese mismo día, Churchill pronunció su discurso ante la Cámara de los Comunes.</p>
-  <p><strong>2. Pérdidas de la RAF vs. pérdidas de la Luftwaffe:</strong> Las cifras varían ligeramente según las fuentes. El Imperial War Museum indica 177 aviones de la RAF perdidos (127 del Fighter Command) y 240 aviones de la Luftwaffe perdidos. Otras fuentes mencionan 106 aviones de la RAF y 140-150 de la Luftwaffe. Las cifras presentadas son las más aceptadas por la historiografía.</p>
+  <p><strong>2. Pérdidas de la RAF vs. pérdidas de la Luftwaffe:</strong> Los datos difieren según la fuente consultada. El Imperial War Museum indica 177 aviones de la RAF perdidos (127 del Fighter Command) y 240 aviones de la Luftwaffe perdidos. Otras fuentes mencionan 106 aviones de la RAF y 140-150 de la Luftwaffe. Las cifras presentadas son las más aceptadas por la historiografía.</p>
   <p><strong>3. El papel de la RAF en la operación:</strong> Aunque las tropas en tierra a menudo no veían a los aviones británicos (la batalla aérea se libraba a mayor altitud), la presencia de la RAF fue fundamental para mantener a raya a la Luftwaffe. El historiador Stephen Bungay señala que la Luftwaffe fue contenida por la RAF, y que sin esa cobertura aérea, el número de evacuados habría sido significativamente menor.</p>
   <p><strong>4. El discurso de Churchill:</strong> El famoso discurso "We shall fight on the beaches" fue pronunciado el 4 de junio de 1940, no el mismo día de la finalización de la evacuación, sino al día siguiente (Churchill informó a la Cámara de los Comunes sobre los resultados de la operación). La efeméride respeta esta cronología histórica.</p>
 </div>
@@ -145,7 +145,7 @@ El 4 de junio de 1940 no es solo la fecha en que terminó la evacuación de Dunk
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Timestamp de verificación:** 2026-10-04 19:04:53 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, Imperial War Museum, Encyclopaedia Britannica, Infobae, World History Encyclopedia
 - **Discrepancias resueltas:** Confirmación de la fecha de finalización (4 de junio de 1940). Verificación del número total de evacuados (338.226). Aclaración de las pérdidas de la RAF y la Luftwaffe.
 - **Nivel de confianza:** Alto

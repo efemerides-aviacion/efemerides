@@ -41,11 +41,11 @@ image: 1939-04-26-record-mundial-velocidad-avion-motor-piston.webp
 
 ## Contexto Histórico
 
-A finales de la década de 1930, la Alemania nazi impulsaba una intensa competencia tecnológica entre sus fabricantes de aviones, en el marco de una carrera armamentística que buscaba la supremacía aérea. Heinkel y Messerschmitt, los dos principales diseñadores de cazas, se disputaban el récord mundial de velocidad absoluta. Esta "guerra de récords" no solo respondía a motivos de prestigio industrial, sino también a la propaganda del régimen, que presentaba estos logros como demostraciones de la superioridad tecnológica alemana.
+A finales de la década de 1930, la Alemania nazi impulsaba una intensa competencia tecnológica entre sus fabricantes de aviones, en el marco de una carrera armamentística que buscaba la supremacía aérea. Heinkel y Messerschmitt, los dos principales diseñadores de cazas, se disputaban el récord mundial de velocidad absoluta. Esta «guerra de récords» mezclaba prestigio industrial y propaganda del régimen.
 
 ### Entorno social
 
-La Alemania de 1939 estaba completamente movilizada bajo el régimen nacionalsocialista. La propaganda nazi exaltaba cualquier logro tecnológico como prueba de la superioridad de la "raza aria" y del Führerprinzip. Los récords de velocidad aérea eran presentados como hazañas heroicas en la prensa controlada por el Ministerio de Propaganda de Joseph Goebbels. La población alemana seguía con fascinación estos eventos, que alimentaban el orgullo nacional en vísperas de la Segunda Guerra Mundial (que comenzaría apenas cuatro meses después, el 1 de septiembre de 1939).
+La Alemania de 1939 estaba completamente movilizada bajo el régimen nacionalsocialista. La propaganda nazi exaltaba cualquier logro tecnológico como prueba de la superioridad de la "raza aria" y del Führerprinzip. Los récords de velocidad aérea eran presentados como hazañas heroicas en la prensa controlada por el Ministerio de Propaganda de Joseph Goebbels. La población alemana seguía con fascinación estos eventos, que alimentaban el orgullo nacional pocos meses antes del estallido de la guerra.
 
 ### Entorno tecnológico
 
@@ -53,7 +53,7 @@ El motor de pistón había alcanzado su madurez tecnológica a finales de la dé
 
 ### Entorno cultural
 
-La figura del piloto de pruebas era admirada como la del "superhombre" tecnológico. Fritz Wendel era un piloto experimentado que había establecido un récord mundial de velocidad en 1937 con un Messerschmitt Bf 113R (una versión modificada del Bf 109). Su nombre era conocido en los círculos aeronáuticos alemanes e internacionales. A pesar del peligro extremo de volar el Me 209 (Wendel describió la experiencia como "una lucha constante por mantener el control del avión"), aceptó el desafío con la determinación propia de un piloto de pruebas de la época.
+La figura del piloto de pruebas era admirada como la del "superhombre" tecnológico. Fritz Wendel ya ostentaba desde 1937 un récord mundial de velocidad con un Messerschmitt Bf 113R (modificación del Bf 109). A pesar del peligro extremo de volar el Me 209 (Wendel describió la experiencia como "una lucha constante por mantener el control del avión"), aceptó el desafío con la determinación propia de un piloto de pruebas de la época.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -62,7 +62,7 @@ La figura del piloto de pruebas era admirada como la del "superhombre" tecnológ
 - **30 de marzo de 1939:** Hans Dieterle establece un nuevo récord mundial de velocidad con un Heinkel He 100 V8, alcanzando 746,6 km/h.
 - **Abril de 1939:** Messerschmitt acelera las pruebas del Me 209 V1 para recuperar el récord.
 - **26 de abril de 1939, mañana:** Primer intento de récord. Wendel realiza el primer vuelo de calentamiento, pero las condiciones no son óptimas.
-- **26 de abril de 1939, tarde:** Segundo intento. Wendel despega y realiza el recorrido de 3 kilómetros a una velocidad media de 755,14 km/h. El vuelo es extremadamente peligroso debido a la inestabilidad del avión y al sobrecalentamiento del motor.
+- **26 de abril de 1939, tarde:** Segundo intento. Wendel despega y realiza el recorrido de 3 kilómetros a una velocidad media de 755,14 km/h. El vuelo, peligrosísimo, exige lo mejor del piloto.
 - **Inmediatamente después del vuelo:** La FAI homologa el récord. La prensa alemana difunde la noticia como un gran triunfo tecnológico.
 - **Septiembre de 1939:** Comienza la Segunda Guerra Mundial. El programa del Me 209 es cancelado porque el avión no era apto para combate.
 - **1969:** El piloto estadounidense Darryl Greenamyer supera el récord de Wendel (30 años después) con un Grumman F8F Bearcat modificado, alcanzando 777 km/h.
@@ -84,39 +84,31 @@ El Daimler-Benz DB 601 ARJ era una versión especial del motor DB 601 que equipa
 
 ### El problema del despegue y aterrizaje
 
-Debido a su diseño extremo, el Me 209 era muy inestable a baja velocidad. El despegue y el aterrizaje eran especialmente peligrosos, requiriendo una pista larga y condiciones meteorológicas perfectas. Wendel describió el vuelo como "una lucha constante por mantener el control del avión".
+Debido a su diseño extremo, el Me 209 era muy inestable a baja velocidad. El despegue y el aterrizaje eran especialmente peligrosos, requiriendo una pista larga y condiciones meteorológicas perfectas. Wendel lo describió como un combate constante con los mandos.
 
 ### El piloto: Fritz Wendel
 
-Friedrich "Fritz" Wendel (21 de febrero de 1915 - 9 de febrero de 1975) fue el piloto jefe de pruebas de Messerschmitt AG y uno de los aviadores más destacados de la Alemania nazi.
+Friedrich "Fritz" Wendel (21 de febrero de 1915 - 9 de febrero de 1975) fue el piloto jefe de pruebas de Messerschmitt AG.
 
 ### Carrera temprana
 
-Wendel se unió a Messerschmitt en 1936 como piloto de pruebas. En 1937, estableció su primer récord mundial de velocidad (que luego perdió ante Heinkel). Era conocido por su habilidad excepcional y su sangre fría, cualidades esenciales para volar aviones experimentales extremadamente peligrosos.
+Wendel se unió a Messerschmitt en 1936; su récord de 1937 terminó en manos de Heinkel. Su habilidad excepcional y su sangre fría eran esenciales para volar aviones experimentales extremadamente peligrosos.
 
 ### El récord de 1939
 
-El 26 de abril de 1939, Wendel pilotó el Me 209 V1. Los preparativos para el vuelo fueron complejos: el motor DB 601 ARJ era delicado y debía calentarse gradualmente antes del despegue. El vuelo duró apenas unos minutos, pero la tensión fue extrema. Wendel se enfrentó a vibraciones severas, sobrecalentamiento del motor y una inestabilidad a alta velocidad que hacía que el avión fuera difícil de controlar. A pesar de todo, logró completar el recorrido de 3 kilómetros a una velocidad media de 755,14 km/h.
+Los preparativos fueron complejos: el motor era delicado y debía calentarse gradualmente. Wendel afrontó vibraciones severas y sobrecalentamiento en un avión difícil de controlar, y aun así completó los 3 kilómetros a 755,14 km/h.
 
 ### Legado dentro de Messerschmitt
 
-Wendel continuó como piloto jefe de pruebas de Messerschmitt durante la Segunda Guerra Mundial. Voló el primer prototipo del Me 262 (el primer caza a reacción operativo del mundo) el 18 de abril de 1941 (con motor de pistón) y luego el 18 de julio de 1942 (con motores a reacción). Sobrevivió a la guerra y falleció en 1975.
-
-### La guerra de récords entre Heinkel y Messerschmitt
-
-En la primavera de 1939, Heinkel y Messerschmitt protagonizaron una intensa competencia por el récord mundial de velocidad absoluta.
+Wendel continuó como piloto jefe de pruebas de Messerschmitt durante la Segunda Guerra Mundial. Voló el primer prototipo del Me 262 (el primer caza a reacción operativo del mundo) el 18 de abril de 1941 (con motor de pistón) y ya el 18 de julio de 1942 con su planta a reacción. Sobrevivió a la guerra y falleció en 1975.
 
 ### El récord de Heinkel (30 de marzo de 1939)
 
 El 30 de marzo de 1939, el piloto de Heinkel, Hans Dieterle, alcanzó 746,6 km/h a bordo de un Heinkel He 100 V8. Este récord fue presentado por la propaganda nazi como un logro de la industria alemana, pero para Messerschmitt fue una afrenta que debía ser respondida.
 
-### La respuesta de Messerschmitt (26 de abril de 1939)
-
-Menos de un mes después, Fritz Wendel superó la marca de Dieterle con el Me 209 V1, alcanzando 755,14 km/h. La FAI homologó el récord, y Messerschmitt recuperó la supremacía en la "guerra de récords".
-
 ### El contexto político
 
-La competencia entre Heinkel y Messerschmitt no era solo comercial; también respondía a presiones políticas. Hitler y Göring (comandante en jefe de la Luftwaffe) favorecían a ciertos fabricantes, y los récords de velocidad eran utilizados como argumentos para obtener contratos de producción.
+La competencia entre Heinkel y Messerschmitt no era solo comercial; también respondía a presiones políticas. Hitler y Göring favorecían a ciertos fabricantes, y los récords de velocidad eran utilizados como argumentos para obtener contratos de producción.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -126,9 +118,7 @@ La competencia entre Heinkel y Messerschmitt no era solo comercial; también res
 
 - **Propaganda nazi:** El récord fue hábilmente explotado por el Ministerio de Propaganda para demostrar la superioridad tecnológica alemana en vísperas de la guerra.
 
-- **Sin aplicación militar:** Pese a su velocidad récord, el Me 209 no era apto para combate. El avión era inestable, difícil de controlar y sufría problemas de sobrecalentamiento. La versión militar (Me 209 V4) no alcanzó el rendimiento esperado y el proyecto fue cancelado.
-
-- **Longevidad del récord:** La marca de Wendel se mantuvo vigente durante 30 años, hasta 1969, cuando el estadounidense Darryl Greenamyer la superó con un Grumman F8F Bearcat modificado.
+- **Sin aplicación militar:** Pese a su velocidad récord, el Me 209 no era apto para combate: inestable y con sobrecalentamiento. La versión militar (Me 209 V4) no alcanzó lo esperado y el proyecto se canceló.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -138,15 +128,13 @@ El récord de Fritz Wendel con el Messerschmitt Me 209 V1 representa el punto cu
 
 El Me 209 V1 no sobrevive. Se desconoce el paradero del avión después de la Segunda Guerra Mundial. Probablemente fue desguazado o destruido durante el conflicto.
 
-El nombre de Fritz Wendel está inscrito en los anales de la aviación como uno de los pilotos de pruebas más importantes de la historia alemana. Además de su récord de velocidad con el Me 209, fue el primer piloto en volar el caza a reacción Me 262.
-
-La marca de 755,14 km/h establecida por Wendel se mantuvo como el récord mundial de velocidad absoluta para aviones con motor de pistón durante tres décadas, un testimonio de la ingeniería extrema aplicada a un diseño optimizado exclusivamente para la velocidad.
+El nombre de Fritz Wendel sigue siendo referencia entre los pilotos de pruebas de la aviación alemana.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-<p><strong>Nota aclaratoria sobre el nombre Me 209:</strong> El Messerschmitt Me 209 no debe confundirse con el Me 209 de la Segunda Guerra Mundial (a veces denominado Me 209-II), que fue un prototipo de caza basado en el Bf 109 y que no tuvo relación con el avión de récord de 1939. El avión de 1939 fue un diseño completamente nuevo, optimizado exclusivamente para la velocidad.</p>
-<p><strong>Sobre la duración del récord:</strong> La marca de Wendel (755,14 km/h) se mantuvo como récord mundial absoluto para aviones con motor de pistón durante 30 años, hasta que Darryl Greenamyer alcanzó 777 km/h en 1969 con un Grumman F8F Bearcat modificado (Rare Bear). Este segundo récord, a su vez, sigue vigente en la actualidad.</p>
+<p><strong>Nota aclaratoria sobre el nombre Me 209:</strong> El Messerschmitt Me 209 no debe confundirse con el Me 209 de la Segunda Guerra Mundial (a veces denominado Me 209-II), que fue un prototipo de caza basado en el Bf 109 y que no tuvo relación con el avión de récord de 1939. El avión de 1939 partió de cero, con la velocidad como única prioridad.</p>
+<p><strong>Sobre la duración del récord:</strong> La marca de Wendel siguió vigente hasta 1969, cuando Darryl Greenamyer alcanzó 777 km/h con un Bearcat modificado; esa segunda marca aún no ha sido superada.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -168,7 +156,7 @@ La marca de 755,14 km/h establecida por Wendel se mantuvo como el récord mundia
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:26:52 CST  
+- **Timestamp de verificación:** 2026-10-04 19:04:53 CST  
 - **Fuentes primarias/institucionales consultadas:** FAI (Fédération Aéronautique Internationale) - registro 8743, Wikipedia (EN/ES), This Day in Aviation, Flug Revue
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (26 de abril de 1939) y en la velocidad (755,14 km/h). La potencia exacta del motor DB 601 ARJ varía según las fuentes (entre 1.800 y 2.300 hp). Se ha optado por la cifra más alta comúnmente citada en fuentes especializadas.
 - **Nivel de confianza:** Alto

@@ -43,7 +43,7 @@ La sociedad de entreguerras contemplaba con gran interés los veloces progresos 
 En el plano técnico, la transición hacia aviones completamente metálicos con fuselajes hidrodinámicos de alta resistencia permitió superar las limitaciones de los antiguos hidroaviones de madera y tela. Dornier, pionero indiscutible en la construcción de canoas voladoras metálicas, diseñó el Do 24 incorporando un ala tipo parasol sostenida por montantes y aletas estabilizadoras de quilla laterales, lo que eliminaba la necesidad de los vulnerables flotadores de ala y proporcionaba una estabilidad inigualable.
 
 ### Entorno cultural
-La cultura de la época dorada de los hidroaviones consagró a estas colosales aeronaves como yates voladores de la ciencia moderna, capaces de realizar misiones tanto militares como de salvamento humanitario. El Dornier Do 24 se convirtió en una leyenda de la aviación de entreguerras y de la Segunda Guerra Mundial, ganándose el respeto de pilotos de ambos bandos debido a su capacidad probada para operar en mares donde ningún otro avión podía amerizar.
+La fiebre de los hidroaviones consagró a estas colosales aeronaves como yates voladores de la ciencia moderna, capaces de realizar misiones tanto militares como de salvamento humanitario. El Dornier Do 24 se convirtió en una leyenda de la aviación de entreguerras y de la Segunda Guerra Mundial, ganándose el respeto de pilotos de ambos bandos debido a su capacidad probada para operar en mares donde ningún otro avión podía amerizar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Desarrollo Cronológico
@@ -68,12 +68,12 @@ El éxito operacional del Dornier Do 24 demostró con creces la solidez del dise
 - **Establecimiento de la doctrina de rescate aire-mar:** La Luftwaffe utilizó con éxito el Do 24 en sus escuadrones de salvamento (*Seenotstaffeln*) en todos los teatros de la guerra (desde el Ártico y el mar del Norte hasta el Mediterráneo y el mar Negro), rescatando a miles de pilotos caídos de ambos bandos gracias a su capacidad real para operar en mares embravecidos con olas de hasta un metro de altura.
 - **Impulso a la producción de licencias internacionales:** La invasión de Holanda y Francia obligó a descentralizar la producción, consolidando la fabricación bajo licencia en plantas holandesas y francesas que, tras la liberación, continuaron fabricando el Do 24 de manera independiente para dar soporte y repuestos a las flotas de la posguerra.
 - **Contribución aliada en el Teatro del Pacífico:** Los hidroaviones Do 24K operados por los neerlandeses y posteriormente por los australianos en el Pacífico demostraron ser excelentes plataformas de ataque ligero de superficie y transporte de tropas de largo alcance, logrando éxitos notables como el hundimiento de destructores enemigos.
-- **Estándar de longevidad en España:** El gobierno español operó una flota de Do 24 comprados a Alemania en misiones de búsqueda y rescate en el Mediterráneo, permaneciendo en servicio activo regular hasta 1972, lo que representó uno de los periodos de servicio operativo más largos de cualquier avión de la era de la Segunda Guerra Mundial.
+- **Estándar de longevidad en España:** El gobierno español operó una flota de Do 24 comprados a Alemania en misiones de búsqueda y rescate en el Mediterráneo, permaneciendo en servicio activo regular hasta 1972, lo que representó uno de los periodos de servicio operativo más largos de cualquier avión de su época.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
-El Dornier Do 24 es recordado hoy en la historia de la aeronáutica como uno de los hidroaviones más eficientes y exitosos de la historia de la aviación de entreguerras. Su diseño de ingeniería e innovaciones continúan influyendo en las investigaciones y diseños de canoas voladoras del siglo XXI.
+El Dornier Do 24 figura hoy entre los hidroaviones más eficientes y exitosos de la aviación de entreguerras. Su diseño de ingeniería e innovaciones continúan influyendo en las investigaciones y diseños de canoas voladoras del siglo XXI.
 
 - **Exposición en museos mundiales:** Varios ejemplares restaurados del Dornier Do 24 se conservan con orgullo en exposiciones permanentes de museos aeronáuticos de renombre, como el Technik Museum de Speyer en Alemania, el Museo del Aire de Cuatro Vientos en Madrid y el Museo de la Fuerza Aérea de Suecia, sirviendo de inspiración para investigadores del mundo.
 - **El proyecto del Dornier Do 24 ATT:** En las décadas de 1980 y 2000, el nieto del fundador, Iren Dornier, modificó y repotenció un fuselaje histórico de Do 24 instalando tres modernos turbohélices Pratt & Whitney Canada PT6A y alas avanzadas de tecnología moderna, volando el Do 24 ATT de demostraciones técnicas para validar la longevidad del diseño original.
@@ -98,10 +98,8 @@ El Dornier Do 24 es recordado hoy en la historia de la aeronáutica como uno de 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 
-Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación presentada, se establecen los siguientes metadatos editoriales:
-
-- **Timestamp de verificación:** 2026-09-07 12:00:40 CST
-- **Fuentes primarias/institucionales consultadas:** Archivos oficiales de la compañía Dornier Flugzeugwerke, bitácoras de vuelos de los ensayos sobre el lago de Constanza de julio de 1937, contratos de adquisición de la Armada Real de los Países Bajos de 1936, e informes de homologación del centro de pruebas de Travemünde de la Luftwaffe
-- **Discrepancias resueltas:** Se ha identificado y resuelto de forma absoluta la discrepancia sobre las fechas de los primeros vuelos de los prototipos, confirmando que el Do 24 V3 con motores Wright Cyclone despegó por primera vez el 3 de julio de 1937, adelantándose al prototipo V1 (con motores Junkers Jumo diésel), el cual realizó su primer vuelo el 10 de enero de 1938.
+- **Timestamp de verificación:** 2026-10-04 19:04:53 CST
+- **Fuentes primarias/institucionales consultadas:** archivos Dornier Flugzeugwerke; bitácoras de los ensayos sobre el lago de Constanza (julio de 1937); contratos de la Armada Real neerlandesa (1936); homologación del centro de Travemünde
+- **Discrepancias resueltas:** se confirma que el V3 (Wright Cyclone) voló primero, el 3 de julio de 1937, y que el V1 (Junkers Jumo diésel) siguió el 10 de enero de 1938.
 - **Nivel de confianza:** Alto
 - **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

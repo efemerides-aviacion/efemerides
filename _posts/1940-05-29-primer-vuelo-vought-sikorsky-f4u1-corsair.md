@@ -31,7 +31,7 @@ image: 1940-05-29-primer-vuelo-vought-sikorsky-f4u1-corsair.webp
 - **Prototipo:** Vought-Sikorsky XF4U-1 Corsair, Bureau Number (Bu. No.) 1443
 - **Piloto:** Lyman A. Bullard Jr. (jefe de pilotos de pruebas de Vought-Sikorsky)
 - **Diseñador:** Rex Buren Beisel
-- **Motor:** Pratt & Whitney R-2800 Double Wasp, radial de 18 cilindros, 1.850 hp 
+- **Motor:** R-2800 Double Wasp (Pratt & Whitney), radial de 18 cilindros, 1.850 hp 
 - **Hélice:** Hamilton Standard Hydromatic, tres palas de aluminio macizo, 13 pies 1 pulgada (4,0 m) de diámetro 
 - **Velocidad máxima del prototipo:** 405 mph (652 km/h) en pruebas 
 - **Producción total:** 12.571 unidades (1942-1953) 
@@ -43,7 +43,7 @@ image: 1940-05-29-primer-vuelo-vought-sikorsky-f4u1-corsair.webp
 
 ## Contexto Histórico
 
-El vuelo del prototipo XF4U-1 ocurrió en un momento crucial de la historia mundial. El 29 de mayo de 1940, mientras el Corsair realizaba su vuelo inaugural en Connecticut, las fuerzas alemanas estaban culminando la Batalla de Dunkerque, y la Segunda Guerra Mundial se intensificaba rápidamente en Europa.
+El vuelo del prototipo XF4U-1 llegó en pleno trance bélico europeo. El 29 de mayo de 1940, mientras el Corsair realizaba su vuelo inaugural en Connecticut, las fuerzas alemanas estaban culminando la Batalla de Dunkerque, y la Segunda Guerra Mundial se intensificaba rápidamente en Europa.
 
 ### Entorno social
 
@@ -57,7 +57,7 @@ El ala también estaba construida con una combinación de metal y tela detrás d
 
 ### Entorno cultural
 
-El Corsair se ganó el respeto y el temor de sus adversarios. Los pilotos japoneses lo apodaron "Whistling Death" (Muerte Silbante) debido al característico silbido que producía el aire al entrar en las tomas de refrigeración del motor durante el vuelo a alta velocidad.
+El Corsair se ganó el respeto y el temor de sus adversarios. Los pilotos japoneses lo apodaron "Whistling Death" (Muerte Silbante) por el silbido que emitía a alta velocidad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -93,11 +93,11 @@ El Corsair era un caza monoplaza, monomotor, de ala baja, diseñado específicam
 
 ### Los Apodos del Corsair
 
-El F4U Corsair fue conocido por varios apodos a lo largo de su carrera, tanto por sus aliados como por sus enemigos. Cada uno de ellos refleja un aspecto diferente de la reputación y las características de este legendario caza.
+Dos apodos resumen su reputación entre aliados y enemigos.
 
 ### "Whistling Death" (Muerte Silbante)
 
-Los pilotos japoneses apodaron al Corsair "Whistling Death" debido al característico silbido que producía durante el vuelo a alta velocidad. Este sonido provenía del aire que entraba en las tomas de refrigeración del motor ubicadas en el borde de ataque de las alas cerca del fuselaje. Para los pilotos japoneses, ese silbido era a menudo lo último que escuchaban antes de ser abatidos.
+El sonido provenía del aire que entraba en las tomas de refrigeración del motor, en el borde de ataque de las alas cerca del fuselaje. Para los pilotos japoneses, ese silbido era a menudo lo último que escuchaban antes de ser abatidos.
 
 ### "Ensign Eliminator" (Eliminador de Alféreces)
 
@@ -105,13 +105,13 @@ En sus inicios, el Corsair tenía fama de ser un avión difícil de volar, espec
 
 ### El Corsair en Combate
 
-Aunque fue diseñado para la Armada, los primeros Corsair fueron asignados principalmente al Cuerpo de Marines de los Estados Unidos, que los operó desde bases terrestres en el Pacífico Sur. El VMF-124 fue el primer escuadrón de Marines en utilizar el Corsair en combate, en febrero de 1943.
+Aunque fue diseñado para la Armada, los primeros Corsair fueron asignados al Cuerpo de Marines, que los operó desde tierra. El VMF-124 fue el primer escuadrón de Marines en utilizar el Corsair en combate, en febrero de 1943.
 
 El Corsair demostró ser un caza excepcional, especialmente en el combate aéreo contra el Mitsubishi A6M Zero. Era más rápido, más robusto y podía sumergirse más rápido que su oponente japonés. Los pilotos de Corsair desarrollaron tácticas específicas que explotaban las ventajas de su avión: atacar en picado, disparar, y usar la velocidad para alejarse, evitando el combate cerrado en el que el Zero era superior.
 
-Al final de la Segunda Guerra Mundial, los Corsair habían acumulado 2.140 victorias aéreas con una tasa de pérdida de 11:1. El avión también demostró ser un excelente cazabombardero, capaz de transportar 4.000 libras de bombas o cohetes.
+Al cierre de la guerra, los Corsair acumulaban 2.140 victorias aéreas con una tasa de pérdida de 11:1; además, transportaban hasta 4.000 libras de bombas o cohetes.
 
-Durante la Guerra de Corea (1950-1953), el Corsair volvió a ver combate, esta vez principalmente como avión de apoyo aéreo cercano y ataque al suelo. Operando junto a los nuevos cazas a reacción, el Corsair demostró que los aviones de pistón todavía tenían un papel importante en la guerra moderna.
+En la Guerra de Corea, entre 1950 y 1953, el Corsair volvió a combate como avión de apoyo cercano y ataque al suelo, demostrando que los de pistón aún servían junto a los cazas a reacción.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -121,7 +121,7 @@ Durante la Guerra de Corea (1950-1953), el Corsair volvió a ver combate, esta v
 - **Longevidad excepcional:** Sirvió desde 1942 hasta 1953 en la Armada de EE. UU., y hasta 1979 en la Fuerza Aérea de Honduras
 - **Legado en combate:** Acumuló 2.140 victorias aéreas en la Segunda Guerra Mundial y sirvió extensamente en la Guerra de Corea
 - **Innovación técnica:** El ala de gaviota invertida y el motor R-2800 sentaron las bases para futuros diseños de cazas de alta potencia
-- **Influencia cultural:** El Corsair se convirtió en un ícono cultural, inmortalizado en la serie de televisión *Los Tigres Voladores* (Baa Baa Black Sheep)
+- **Influencia cultural:** el aparato se volvió icono de la cultura popular de posguía, ligado al Escuadrón Negro de los Marines
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -131,15 +131,11 @@ El F4U Corsair es considerado por muchos historiadores como uno de los mejores c
 
 ### El Corsair en la cultura popular: "Los Tigres Voladores"
 
-Para muchas generaciones, el F4U Corsair es inseparable de la serie de televisión **"Los Tigres Voladores"** (*Baa Baa Black Sheep* / *Black Sheep Squadron*), emitida por NBC entre el 21 de septiembre de 1976 y el 1 de septiembre de 1978. Protagonizada por Robert Conrad como el Mayor Greg "Pappy" Boyington, la serie seguía las aventuras del Escuadrón Negro (VMF-214) de los Marines de EE. UU. en el Pacífico durante la Segunda Guerra Mundial. Los Corsair F4U alquilados a propietarios privados eran los verdaderos protagonistas, y sus rugidos característicos se convirtieron en parte de la banda sonora de la infancia de millones de televidentes. La serie, aunque muy libremente basada en hechos reales (el propio Boyington la describió como "ficción basada en la realidad"), popularizó al Corsair como ningún otro avión de su época.
+Para muchas generaciones, el F4U Corsair es inseparable de la serie de televisión **"Los Tigres Voladores"** (*Baa Baa Black Sheep* / *Black Sheep Squadron*), emitida por NBC entre el 21 de septiembre de 1976 y el 1 de septiembre de 1978. Protagonizada por Robert Conrad como el Mayor Greg "Pappy" Boyington, la serie seguía las aventuras del Escuadrón Negro (VMF-214) de los Marines de EE. UU. en el Pacífico durante la Segunda Guerra Mundial. Los Corsair F4U alquilados a propietarios privados eran los verdaderos protagonistas, y sus rugidos característicos se convirtieron en parte de la banda sonora de la infancia de millones de televidentes. La serie, aunque muy libremente basada en hechos reales, popularizó al Corsair como ningún otro avión de su época.
 
 ### Museos y aviones sobrevivientes
 
-Numerosos Corsair se conservan en museos de todo el mundo. El **Museo Nacional del Aire y el Espacio del Smithsonian** tiene un F4U-1D en su colección. El **Planes of Fame Air Museum** en Chino, California, opera un F4U-1 Bu. No. 17799 en condiciones de vuelo. Hoy en día, aproximadamente 50 Corsair siguen en condiciones de volar, apareciendo regularmente en exhibiciones aéreas alrededor del mundo.
-
-### El Corsair en la actualidad
-
-El Corsair sigue siendo uno de los aviones más admirados por los entusiastas de la aviación. Su distintiva silueta, su motor rugiente, y su historia legendaria lo convierten en una estrella perpetua en los museos y espectáculos aéreos. El rugido de su motor R-2800 y su característico silbido siguen siendo reconocibles instantáneamente por cualquier aficionado a la aviación.
+Unos cincuenta Corsair perviven en colecciones de todo el planeta: el **Smithsonian** conserva un F4U-1D y el **Planes of Fame Air Museum** (Chino, California) mantiene en vuelo un F4U-1 Bu. No. 17799, presente en exhibiciones aéreas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -159,17 +155,17 @@ El Corsair sigue siendo uno de los aviones más admirados por los entusiastas de
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Notas aclaratorias:</strong></p>
-  <p><strong>1. Discrepancia en las cifras de producción:</strong> Las fuentes presentan ligeras variaciones en el número total de Corsair construidos. La mayoría coincide en <strong>12.571 unidades</strong> , aunque algunas citan 12.800. La cifra de 12.571 es la más aceptada, proveniente de la Enciclopedia de Aviación Naval del Dr. Norman Polmar.</p>
-  <p><strong>2. El primer aterrizaje en portaaviones:</strong> Aunque el Corsair fue diseñado para operar desde portaaviones, los primeros modelos presentaban problemas de visibilidad durante la aproximación y una recuperación brusca del tren de aterrizaje. Por ello, los Corsair fueron asignados inicialmente al Cuerpo de Marines para operar desde bases terrestres. Los problemas se resolvieron en modelos posteriores, y el Corsair finalmente demostró ser un excelente avión embarcado.</p>
-  <p><strong>3. La serie "Los Tigres Voladores":</strong> La serie se emitió originalmente como <em>Baa Baa Black Sheep</em> y fue retitulada <em>Black Sheep Squadron</em> para su sindicación. Aunque popular, los historiadores advierten que la serie toma muchas licencias creativas y no debe considerarse un relato históricamente preciso del Escuadrón Negro o de la vida de Pappy Boyington. Boyington, que fue asesor técnico de la serie, comentó que era "ficción basada en la realidad" y que ningún personaje regular excepto él mismo existió realmente.</p>
+  <p><strong>Notas y precisiones:</strong></p>
+  <p><strong>Discrepancia en las cifras de producción:</strong> la mayoría de las fuentes coincide en <strong>12.571 unidades</strong>, aunque algunas citan 12.800; se adopta 12.571, según la Enciclopedia de Aviación Naval del Dr. Norman Polmar.</p>
+  <p><strong>El primer aterrizaje en portaaviones:</strong> los primeros modelos tuvieron problemas de visibilidad y de tren; por ello el Corsair fue asignado inicialmente al Cuerpo de Marines. Los modelos posteriores los resolvieron.</p>
+  <p><strong>La serie "Los Tigres Voladores":</strong> se emitió como <em>Baa Baa Black Sheep</em> y fue retitulada <em>Black Sheep Squadron</em> para su sindicación; los historiadores advierten que toma muchas licencias con el Escuadrón Negro y con Boyington —asesor técnico de la serie—, que la llamó "ficción basada en la realidad".</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Timestamp de verificación:** 2026-10-04 19:04:53 CST  
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Wikipedia, National Air and Space Museum, Planes of Fame Air Museum, National Naval Aviation Museum
 - **Discrepancias resueltas:** Confirmación de la fecha del primer vuelo (29 de mayo de 1940) en todas las fuentes. Verificación de la producción total (12.571 unidades). Inclusión del apodo japonés "Whistling Death" y el apodo estadounidense "Ensign Eliminator".
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales coinciden en los datos fundamentales)

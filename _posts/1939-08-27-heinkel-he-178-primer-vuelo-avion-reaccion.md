@@ -19,7 +19,7 @@ image: 1939-08-27-heinkel-he-178-primer-vuelo-avion-reaccion.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 27 de agosto de 1939, el Flugkapitän Erich Warsitz despegó del aeródromo de Rostock-Marienehe a los mandos del Heinkel He 178 V1 y realizó el primer vuelo de la historia de un avión propulsado exclusivamente por un turborreactor. El aparato voló un breve circuito sobre el campo y aterrizó sin novedad. La era del reactor había comenzado.</p>
+<p>El 27 de agosto de 1939, el Flugkapitän Erich Warsitz despegó del aeródromo de Rostock-Marienehe a los mandos del Heinkel He 178 V1 y protagonizó el vuelo inaugural de la aviación a reacción. El aparato voló un breve circuito y regresó sin contratiempos. La era del reactor había comenzado.</p>
 <p>No asistió ningún representante del Ministerio del Aire ni hubo cámaras de prensa. El He 178 era una iniciativa privada de Ernst Heinkel, deliberadamente mantenida al margen de la administración, con un motor diseñado por el físico Hans von Ohain. Cinco días después, Alemania invadía Polonia y el mundo tenía otras preocupaciones.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -53,7 +53,9 @@ Von Ohain había llegado a Heinkel en 1936 recién doctorado por la Universidad 
 
 El primer motor de von Ohain, el HeS 1, funcionó en banco a comienzos de 1937 alimentado con hidrógeno gaseoso. De él derivó el HeS 3B, que ya empleaba combustible líquido y fue el que voló. Su arquitectura —inductor axial, compresor centrífugo, cámaras de combustión de flujo invertido y turbina radial— quedó documentada por el Smithsonian a partir de los planos del propio von Ohain.
 
-El He 178 llevaba la toma de aire en el morro y la tobera en la cola, con el conducto pasando bajo la cabina. Esa disposición se convertiría en el patrón de casi todos los reactores monomotores posteriores. El fuselaje era metálico y el ala, de madera.
+El He 178 tomaba el aire por el morro y expulsaba por la tobera de la cola, con el conducto pasando bajo la cabina. Esa disposición se convertiría en el patrón de casi todos los reactores monomotores posteriores. El fuselaje era metálico y el ala, de madera.
+
+Detrás del He 178 estaban Ernst Heinkel y el físico Hans von Ohain, cuyo motor HeS 3B —primer turborreactor práctico de la historia— se había encendido en bancos de pruebas en 1937. Heinkel financió el programa en secreto y exigió el mayor sigilo al equipo: el prototipo se montó en instalaciones vedadas incluso a otros directivos de la casa. La elección del aeródromo de Rostock-Marienehe para el ensayo respondió al mismo ocultamiento, lejos de los circuitos habituales de la prensa. Warsitz, piloto de casa con amplia experiencia en ensayos, conocía los límites de lo que se le pedía en un aparato sin precedentes.
 
 ### Entorno cultural
 
@@ -115,15 +117,15 @@ Del aparato original no queda nada: ardió en Berlín en 1943. Sobreviven una re
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Las fuentes discrepan en varios detalles del vuelo. La duración se cifra entre seis y quince minutos según la publicación; las más numerosas hablan de unos seis. Sobre su final circulan dos versiones: unas fuentes atribuyen el regreso a la ingestión de un ave que dañó el motor, y otras a un fallo de la bomba de combustible o al agotamiento de este; ninguna de las dos está respaldada por documentación primaria accesible, por lo que aquí se consigna únicamente que el aparato completó un circuito y aterrizó sin novedad. La hora del despegue también varía entre las fuentes, que la sitúan tanto a primera hora de la mañana como al final de la tarde. En cuanto a la velocidad, los 598 km/h que suelen citarse corresponden a ensayos posteriores y no a este primer vuelo, en el que el tren permaneció extendido y no se exploró la envolvente. Por último, conviene distinguir dos prototipos: el V1, de puntas de ala redondeadas, es el que voló el 27 de agosto; el V2, de puntas cuadradas y alas mayores, aparece con frecuencia en fotografías atribuidas por error al vuelo inaugural y nunca voló con motor.</p>
+  <p><strong>Nota aclaratoria:</strong> Entre las fuentes hay discrepancias en varios detalles del vuelo. La duración se cifra entre seis y quince minutos según la publicación; las más numerosas hablan de unos seis. Sobre su final circulan dos versiones: unas fuentes atribuyen el regreso a la ingestión de un ave que dañó el motor, y otras a un fallo de la bomba de combustible o al agotamiento de este; ninguna de las dos está respaldada por documentación primaria accesible, por lo que aquí se consigna únicamente que el aparato completó un circuito y aterrizó sin novedad. La hora del despegue también varía entre las fuentes, que la sitúan tanto a primera hora de la mañana como al final de la tarde. En cuanto a la velocidad, los 598 km/h que suelen citarse corresponden a ensayos posteriores y no a este primer vuelo, en el que el tren permaneció extendido y no se exploró la envolvente. Por último, conviene distinguir dos prototipos: el V1, de puntas de ala redondeadas, es el que voló el 27 de agosto; el V2, de puntas cuadradas y alas mayores, aparece con frecuencia en fotografías atribuidas por error al vuelo inaugural y nunca voló con motor.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 08:13:24 CST
+- **Timestamp de verificación:** 2026-10-04 19:04:53 CST
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum (ficha de colección del motor HeS 3B y archivo Hans von Ohain), Guinness World Records, U.S. Air Force (fotografía n.º 050602-F-1234P-002).
 - **Fuentes secundarias de contraste:** This Day in Aviation, History of War, Wikipedia (EN), Wikimedia Commons (ficha de licencia y autoría de la imagen).
-- **Discrepancias resueltas:** La duración del vuelo se consigna sin cifra cerrada, ante un rango de seis a quince minutos entre fuentes. La causa del final del vuelo —ingestión de ave frente a fallo o agotamiento de combustible— se omite por falta de respaldo primario. La velocidad de 598 km/h se atribuye a ensayos posteriores y no al vuelo inaugural. La identificación del prototipo se resolvió por las puntas de ala: redondeadas en el V1, que voló, y cuadradas en el V2, que no lo hizo con motor.
-- **Nivel de confianza:** Alto en el hecho principal, la fecha, el lugar, el piloto y el motor, respaldados por fuentes institucionales. Medio en los pormenores del desarrollo del vuelo.
+- **Discrepancias resueltas:** duración sin cifra cerrada (rango 6–15 min); final del vuelo omitido por falta de respaldo primario; los 598 km/h corresponden a ensayos posteriores; prototipo volado: V1 de puntas redondeadas (V2, de puntas cuadradas, no voló con motor).
+- **Nivel de confianza:** Alto (hecho principal, fecha, lugar, piloto y motor); Medio en los pormenores del vuelo.
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
