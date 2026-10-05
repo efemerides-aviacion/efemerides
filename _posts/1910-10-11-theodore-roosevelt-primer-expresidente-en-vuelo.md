@@ -70,7 +70,7 @@ Las ferias aéreas funcionaban a la vez como laboratorio, negocio y espectáculo
 
 El efecto inmediato fue mediático y simbólico, no administrativo. La presencia de una figura conocida en una exhibición acercó al público un medio todavía asociado con pericia, riesgo y espectáculo. La cobertura dio visibilidad a la aviación, pero el episodio no creó por sí solo una norma ni un cambio técnico inmediato. La notoriedad del acto no debe confundirse con la adopción institucional del avión ni con la madurez del transporte aéreo.
 
-La importancia histórica también depende de la precisión del rótulo. La fórmula abreviada «primer presidente en volar» puede confundir a quien había ocupado la presidencia con quien todavía la ejercía. El episodio se entiende mejor como hito biográfico y mediático, y no como una primera misión oficial del Ejecutivo. Distinguir los dos sentidos permite reconocer la notoriedad del vuelo sin atribuirle un carácter gubernamental que no tuvo. Así se separan los viajes simbólicos de antiguos mandatarios de los vuelos realizados por jefes de Estado que continuaban en funciones. Así se separan los viajes simbólicos de antiguos mandatarios de los vuelos realizados por jefes de Estado que continuaban en funciones.
+La importancia histórica también depende de la precisión del rótulo. La fórmula abreviada «primer presidente en volar» puede confundir a quien había ocupado la presidencia con quien todavía la ejercía. El episodio se entiende mejor como hito biográfico y mediático, y no como una primera misión oficial del Ejecutivo. Distinguir los dos sentidos permite reconocer la notoriedad del vuelo sin atribuirle un carácter gubernamental que no tuvo. Así se separan los viajes simbólicos de antiguos mandatarios de los vuelos realizados por jefes de Estado que continuaban en funciones.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -106,7 +106,7 @@ Hoxsey murió el 31 de diciembre de 1910 en un accidente al intentar superar su 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-05 08:18:48 CST
+- **Timestamp de verificación:** 2026-10-05 08:50:54 CST
 - **Fuentes primarias/institucionales consultadas:** Library of Congress, UPI Archives, Smithsonian National Air and Space Museum, White House Historical Association, U.S. Centennial of Flight Commission
 - **Fuentes secundarias de contraste:** Wright-Brothers.org, This Day in Aviation
 - **Discrepancias resueltas:** Se adopta Type AB (Smithsonian) y se registra la variante Model B en la nota.
