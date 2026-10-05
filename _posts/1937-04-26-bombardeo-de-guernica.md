@@ -41,7 +41,7 @@ image: 1937-04-26-bombardeo-de-guernica.webp
 
 ## Contexto Histórico
 
-El bombardeo de Guernica se enmarca en la Campaña del Norte dentro de la Guerra Civil Española (1936-1939), específicamente en el avance de las fuerzas sublevadas sobre el País Vasco, que buscaban romper la resistencia republicana y el control de la zona vasca. La villa, de apenas unos 5.000 habitantes, era un centro económico y simbólico de la tradición vasca, pero no albergaba objetivos militares estratégicos centrales, lo que ha reforzado la interpretación de ataque a la población civil más que a objetivos tácticos. En marzo de 1937 se inicia la Campaña del Norte: las fuerzas sublevadas, apoyadas por aviación alemana e italiana, avanzan desde Navarra y el norte de Castilla hacia el País Vasco, con bombardeos previos como el de Durango (31 de marzo de 1937), que ya muestran una estrategia de ataque aéreo sobre núcleos urbanos.
+El bombardeo de Guernica se enmarca en la Campaña del Norte dentro de la Guerra Civil Española (1936-1939), específicamente en el avance de las fuerzas sublevadas sobre el País Vasco, que buscaban romper la resistencia republicana y el control de la zona vasca. La villa era un centro económico y simbólico de la tradición vasca, pero no albergaba objetivos militares estratégicos centrales, lo que ha reforzado la interpretación de ataque a la población civil más que a objetivos tácticos. En marzo de 1937 se inicia la Campaña del Norte: las fuerzas sublevadas, apoyadas por aviación alemana e italiana, avanzan desde Navarra y el norte de Castilla hacia el País Vasco, con bombardeos previos sobre núcleos urbanos.
 
 ### Entorno social
 
@@ -53,7 +53,7 @@ La Legión Cóndor, creada por el régimen nazi para intervenir en España, util
 
 ### Entorno cultural
 
-El día del bombardeo era lunes, día de mercado, lo que aumentó la presencia de civiles (campesinos de los alrededores) agrupados en el centro urbano. Los testimonios de los sobrevivientes describen el ataque como una "lluvia de fuego" que duró horas, con aviones que volaban a baja altura ametrallando a quienes huían. El corresponsal del Times, George Steer, fue el primero en informar al mundo del ataque, describiendo "una ciudad en llamas durante tres horas" y "el espanto de la población civil". Su reportaje, publicado el 28 de abril de 1937 en el Times y en el New York Times, conmocionó a la opinión pública internacional.
+El día del bombardeo era lunes, día de mercado, lo que aumentó la presencia de civiles (campesinos de los alrededores) agrupados en el centro urbano. Los testimonios de los sobrevivientes describen el ataque como una "lluvia de fuego" que duró horas, con aviones que volaban a baja altura ametrallando a quienes huían. El corresponsal del Times, George Steer, publicó el 28 de abril su crónica; el reportaje conmocionó a la opinión pública internacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -71,26 +71,17 @@ El día del bombardeo era lunes, día de mercado, lo que aumentó la presencia d
 
 El bombardeo de Guernica fue una operación cuidadosamente planificada, no un ataque accidental. Las fuerzas sublevadas conocían la ubicación y el significado simbólico de la villa.
 
-### Los actores y las aeronaves
-
-Las fuerzas atacantes estuvieron compuestas por:
-
-- **Legión Cóndor alemana:** Aportó la mayoría de los bombarderos (Junkers Ju 52, Heinkel He 111, Dornier Do 17) y cazas (Heinkel He 51, Messerschmitt Bf 109).
-- **Aviación Legionaria italiana:** Aportó bombarderos Savoia-Marchetti S-79 y cazas Fiat CR-32.
-
-El número total de aeronaves implicadas varía según las fuentes (entre 30 y 51), pero todas coinciden en que fue un ataque masivo para la época.
-
 ### Las horas de horror
 
-El ataque se prolongó durante aproximadamente tres horas y media (de 16:20 a 19:40 horas), dividido en varias oleadas sucesivas. Los bombarderos lanzaron entre 31 y 50 toneladas de bombas, un alto porcentaje de las cuales eran incendiarias.
+El ataque duró tres horas y media, dividido en varias oleadas sucesivas.
 
-Las bombas incendiarias (de 1 kg y proyectiles de aluminio con termita) estaban diseñadas específicamente para provocar incendios de alta temperatura de difícil extinción. El viento que soplaba ese día propagó las llamas rápidamente por el casco urbano, construido en gran parte con madera.
+El viento propagó rápidamente las llamas por el casco urbano, construido en gran parte con madera.
 
 ### El objetivo: destruir Guernica
 
 A diferencia de los bombardeos tácticos (dirigidos contra instalaciones militares o fábricas), el ataque a Guernica fue claramente un bombardeo de terror con objetivos civiles: destruir la villa para minar la moral de la resistencia vasca y probar nuevas tácticas de guerra aérea.
 
-No había objetivos militares relevantes en Guernica. No había fábricas de armamento, ni concentraciones de tropas republicanas, ni nudos de comunicaciones estratégicos (el puente de Renteria, el único objetivo de valor táctico, no fue destruido). El ataque se centró en el centro urbano, especialmente en el día de mercado, cuando la concentración de civiles era máxima.
+Guernica no tenía fábricas ni tropas; el puente de Renteria, único objetivo de valor táctico, no llegó a destruirse. El ataque se centró en el centro urbano, el día de mercado, con los civiles concentrados.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -98,7 +89,7 @@ No había objetivos militares relevantes en Guernica. No había fábricas de arm
 
 - **Destrucción material:** El 85-90% de los edificios de Guernica quedaron destruidos o gravemente dañados. La ciudad tardó años en reconstruirse.
 
-- **Víctimas civiles:** Las cifras son controvertidas. El Gobierno de Euzkadi (vasco) cifró 1.600 víctimas mortales en su momento. Investigaciones posteriores han reducido la cifra a varios centenares (entre 200 y 300), pero todas coinciden en que hubo muchas víctimas civiles, incluyendo mujeres, niños y ancianos. El informe del Gobierno vasco de 1937 contabilizó 1.654 cadáveres recuperados en la zona, una cifra que no incluye desaparecidos.
+- **Víctimas civiles:** Las cifras son controvertidas. El Gobierno de Euzkadi (vasco) cifró 1.600 víctimas mortales en su momento. Investigaciones posteriores la reducen a varios centenares, con consenso en que hubo muchas víctimas civiles. El informe de 1937 contabilizó 1.654 cadáveres recuperados, sin incluir desaparecidos.
 
 - **Reacción internacional:** El bombardeo conmocionó al mundo. El corresponsal del Times, George Steer, informó con detalle de la masacre. La prensa internacional (incluyendo el New York Times, Le Figaro, y Pravda) condenó el ataque. La República Española lo denunció en la Sociedad de Naciones, aunque la organización no tomó medidas efectivas.
 
@@ -108,7 +99,7 @@ No había objetivos militares relevantes en Guernica. No había fábricas de arm
 
 ## Legado
 
-El bombardeo de Guernica trascendió su propio horror inmediato para convertirse en un símbolo perdurable de la barbarie de la guerra aérea contra la población civil. Su impacto se extendió a la cultura, el arte y la memoria histórica colectiva, inspirando una de las obras pictóricas más famosas del siglo XX y consolidándose como un hito en la denuncia de los crímenes de guerra.
+El bombardeo de Guernica trascendió su horror inmediato para convertirse en un símbolo perdurable de la guerra aérea contra la población civil, inspirando una de las obras pictóricas más famosas del siglo XX.
 
 ### El cuadro de Picasso
 
@@ -125,7 +116,7 @@ El bombardeo de Guernica es recordado como un anticipo de los horrores que la av
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-<p><strong>Nota aclaratoria sobre el número de víctimas:</strong> Las cifras de víctimas del bombardeo de Guernica han sido objeto de controversia histórica. El informe del Gobierno de Euzkadi de 1937 cifró 1.654 víctimas mortales. Investigaciones posteriores (como la del historiador Jesús de la Fuente) redujeron la cifra a unos 250-300 muertos, excluyendo desaparecidos. La mayoría de los historiadores actuales coinciden en que hubo <strong>centenares</strong> de víctimas civiles, aunque la cifra exacta sigue siendo debatida.</p>
+<p><strong>Nota aclaratoria sobre el número de víctimas:</strong> Las cifras de víctimas son objeto de controversia: 1.654 en el informe del Gobierno de Euzkadi (1937); unos 250-300 según Jesús de la Fuente, excluyendo desaparecidos; consenso historiográfico en <strong>centenares</strong> de víctimas civiles.</p>
 <p><strong>Sobre la autoría del bombardeo:</strong> Aunque la Legión Cóndor alemana fue la principal ejecutora del ataque, la operación fue planificada conjuntamente con el alto mando franquista y contó con la participación de la aviación italiana. El General Queipo de Llano, jefe de las fuerzas sublevadas en Andalucía, declaró a la prensa: "He destruido Guernica".</p>
 </div>
 
@@ -149,7 +140,7 @@ El bombardeo de Guernica es recordado como un anticipo de los horrores que la av
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
+- **Timestamp de verificación:** 2026-10-04 18:29:43 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), Anne Frank Stichting, Fundación Museo de la Paz de Gernika, Ministerio de Cultura de España, WW2 Database, ACAMI
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (26 de abril de 1937) y el horario aproximado (16:20-19:40). El número de víctimas varía: el informe del Gobierno de Euzkadi cifró 1.654 muertos; investigaciones posteriores reducen la cifra a varios centenares. La mayoría de los historiadores actuales coinciden en que hubo centenares de víctimas civiles, aunque la cifra exacta sigue siendo debatida.
 - **Nivel de confianza:** Alto

@@ -25,7 +25,7 @@ image: 1935-05-06-primer-vuelo-curtiss-wright-model-75-x17y.webp
 
 ## Datos verificados del evento
 
-- **Fecha del primer vuelo:** 6 de mayo de 1935
+- **Fecha del primer vuelo:** 6-05-1935 (piloto de pruebas no identificado en las fuentes)
 - **Lugar:** Buffalo, Nueva York, Estados Unidos
 - **Prototipo:** Curtiss-Wright Model 75, registro civil X17Y, número de serie 11923
 - **Diseñador jefe:** Donovan Reese Berlin (ex Northrop Aircraft Company)
@@ -37,29 +37,14 @@ image: 1935-05-06-primer-vuelo-curtiss-wright-model-75-x17y.webp
 - **Tren de aterrizaje:** Retráctil, con patente de Boeing (rotación de 90 grados)
 - **Registro civil:** X17Y, emitido el 1 de junio de 1936, cancelado el 26 de abril de 1937
 - **Aeronaves derivadas:** P-36 Hawk (USAAC), H75A-1 (Francia), Mohawk Mk.I (Reino Unido), XP-40
-
-### Especificaciones del Curtiss Model 75 (prototipo original)
-
-El Curtiss Model 75 fue un diseño radicalmente moderno para su época, rompiendo con la tradición de biplanos que había dominado la aviación militar hasta entonces.
-
-- **Tripulación:** 1
-- **Longitud:** Aproximadamente 8,7 m (28 pies 6 pulgadas)
-- **Envergadura:** 11,4 m (37 pies 4 pulgadas)
-- **Altura:** Aproximadamente 2,8 m (9 pies)
-- **Superficie alar:** 21,9 m² (236 pies cuadrados)
-- **Peso vacío:** Aproximadamente 2.100 kg (4.630 lb)
-- **Peso bruto:** Aproximadamente 2.660 kg (5.860 lb)
-- **Planta motriz:** 1 × Wright GR1670A1 radial de 14 cilindros en doble estrella, 830 hp (619 kW)
-- **Velocidad máxima:** 452 km/h (281 mph) a 3.050 m (10.000 pies)
-- **Alcance:** 860 km (534 millas)
-- **Techo de servicio:** 9.150 m (30.000 pies)
-- **Armamento previsto:** 1 × ametralladora de 12,7 mm (.50 cal) y 1 × de 7,62 mm (.30 cal), sincronizadas para disparar a través de la hélice
+- **Dimensiones:** longitud 8,7 m; envergadura 11,4 m; altura 2,8 m; peso vacío 2.100 kg; alcance 860 km; techo 9.150 m
+- **Armamento previsto:** una ametralladora de 12,7 mm y una de 7,62 mm, sincronizadas a través de la hélice
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-A mediados de la década de 1930, el Cuerpo Aéreo del Ejército de los Estados Unidos (USAAC) operaba principalmente biplanos como el Boeing P-26 Peashooter, que aunque moderno en su momento, ya quedaba obsoleto frente a los nuevos diseños monoplano que surgían en Europa, como el Hawker Hurricane y el Messerschmitt Bf 109. Consciente de la necesidad de un caza moderno, Curtiss-Wright inició en 1934 un proyecto de iniciativa privada: el Model 75.
+A mediados de la década de 1930, la aviación de persecución del Ejército estadounidense (USAAC) operaba principalmente biplanos como el Boeing P-26 Peashooter, que aunque moderno en su momento, ya quedaba obsoleto frente a los nuevos diseños monoplano que surgían en Europa, como el Hawker Hurricane y el Messerschmitt Bf 109. Consciente de la necesidad de un caza moderno, Curtiss-Wright inició en 1934 un proyecto de iniciativa privada: el Model 75.
 
 ### Entorno social
 
@@ -77,49 +62,24 @@ En la segunda mitad de la década de 1930, la opinión pública estadounidense, 
 
 ## Desarrollo Cronológico
 
-- **1934:** Curtiss-Wright inicia el diseño del Model 75 como iniciativa privada
+- **1934:** Curtiss-Wright inicia el diseño del Model 75 como iniciativa privada, con Berlin al frente (autor del Gamma y el Delta en Northrop)
 - **Noviembre de 1934:** Comienza la construcción del prototipo
 - **6 de mayo de 1935:** Primer vuelo del prototipo X17Y en Buffalo, Nueva York
-- **27 de mayo de 1935:** El prototipo es trasladado a Wright Field, Ohio, para participar en el concurso del USAAC por un nuevo caza monoplaza
-- **1935-1936:** Aprovechando el retraso por el accidente del Seversky, Curtiss reemplaza el motor por un Wright XR-1820-39 Cyclone de 950 hp y rediseña el fuselaje
-- **Abril de 1936:** Vuelo de evaluación final. El Seversky P-35 es declarado ganador, pero Curtiss recibe un contrato por tres prototipos Y1P-36
-- **16 de junio de 1936:** El USAAC ordena tres prototipos Y1P-36
+- **27 de mayo de 1935:** el prototipo es enviado a Wright Field (Ohio) para participar en el concurso del USAAC por un nuevo caza monoplaza
+- **1935-1936:** aprovechando el retraso por el accidente del Seversky, Curtiss cambia el poco fiable motor Wright por un Wright XR-1820-39 Cyclone de 950 hp y rediseña el fuselaje con ventanas traseras en concha
+- **16 de junio de 1936:** tras el vuelo de evaluación final de abril, el Seversky P-35 —contrato inicial de 77 unidades— es declarado ganador y el USAAC encarga a Curtiss tres prototipos Y1P-36
 - **1937:** El P-36A gana el concurso anual del USAAC y se ordenan 210 unidades
-
-### Donovan R. Berlin: el diseñador
-
-Donovan Reese Berlin (1898-1982) fue uno de los ingenieros aeronáuticos más importantes de su generación. Había trabajado en Northrop Aircraft Company, donde contribuyó al diseño del Northrop Gamma y el Northrop Delta. Al unirse a Curtiss-Wright en 1934, aplicó las lecciones aprendidas sobre estructuras monocasco totalmente metálicas y diseño aerodinámico. Después del Model 75/P-36, Berlin lideraría el equipo que diseñó el P-40 Warhawk, el tercer caza más producido por Estados Unidos en la Segunda Guerra Mundial.
-
-### El primer vuelo
-
-El 6 de mayo de 1935, en la fábrica de Curtiss-Wright en Buffalo, Nueva York, el prototipo X17Y estaba listo para su bautismo de vuelo. La aeronave, con su distintivo esquema de construcción totalmente metálica y su tren retráctil, representaba un paso audaz hacia el futuro de los cazas estadounidenses.
-
-El nombre del piloto de pruebas que realizó este vuelo no se menciona en las fuentes consultadas. Durante las primeras pruebas de vuelo, el Model 75 alcanzó una velocidad de 452 km/h (281 mph) a 3.050 metros (10.000 pies), una cifra muy competitiva para la época.
-
-Sin embargo, el motor Wright XR-1670-5 (o GR1670A1, según las fuentes) demostró ser poco fiable. Este motor de desarrollo, que también equipó al Seversky SEV-S1, tenía problemas de fiabilidad que limitaban el rendimiento del prototipo.
-
-### El concurso con Seversky
-
-El 27 de mayo de 1935, apenas tres semanas después de su primer vuelo, el prototipo X17Y fue trasladado a Wright Field, Ohio, para participar en el **concurso** del USAAC por un nuevo caza monoplaza. El principal rival era el Seversky P-35, diseñado por Alexander Kartveli (quien más tarde diseñaría el P-47 Thunderbolt).
-
-El destino intervino a favor de Curtiss. Durante el traslado, el prototipo de Seversky se accidentó, retrasando el inicio de las pruebas. Curtiss aprovechó el tiempo para reemplazar el poco fiable motor Wright XR-1670 por un Wright XR-1820-39 Cyclone de 950 hp y rediseñar el fuselaje, añadiendo las características ventanas traseras con forma de concha (scalloped windows) que mejorarían la visibilidad trasera del piloto. El prototipo modificado fue redesignado Model 75B, mientras que la versión original pasó a llamarse retroactivamente Model 75D.
-
-Cuando las pruebas se reanudaron en abril de 1936, el nuevo motor tampoco entregó toda su potencia, y el Model 75B solo alcanzó 459 km/h (285 mph). El Seversky P-35, aunque también con problemas de rendimiento, fue declarado ganador por ser más económico y recibió un contrato inicial por 77 unidades.
-
-Sin embargo, el USAAC, preocupado por la capacidad de Seversky para cumplir con los plazos de entrega y por la tensa situación internacional en Europa, decidió encargar a Curtiss tres prototipos de desarrollo, designados Y1P-36, el 16 de junio de 1936.
 
 ### El éxito del P-36 Hawk
 
-El Y1P-36 (Model 75E) estaba propulsado por un motor Pratt & Whitney R-1830-13 Twin Wasp de 900 hp, más fiable y eficiente que los anteriores Wright. El nuevo motor, junto con las mejoras aerodinámicas, transformó el avión. En el concurso de 1937, el P-36A demostró un rendimiento notable y ganó el contrato para la producción en serie del P-36 Hawk, con un pedido inicial de 210 unidades.
-
-Aunque el P-36 fue rápidamente superado por el P-40 Warhawk y otros cazas más potentes al inicio de la Segunda Guerra Mundial, tuvo un papel destacado en la Batalla de Francia (donde los Hawk 75 franceses derribaron más de 230 aviones alemanes) y en la defensa de Pearl Harbor (donde unos pocos P-36 lograron despegar y enfrentarse a los japoneses).
+El Y1P-36 (Model 75E) cambió a un Pratt & Whitney R-1830 Twin Wasp de 900 hp, más fiable que los Wright anteriores; en el concurso de 1937 el P-36A ganó la producción en serie con un pedido inicial de 210 unidades. Superado pronto por el P-40, el P-36 brilló en la Batalla de Francia —los Hawk 75 franceses derribaron más de 230 aviones alemanes— y despegó para enfrentar a los japoneses en Pearl Harbor.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
 - **Éxito de exportación:** Aunque el USAAC solo compró 215 P-36, Curtiss exportó más de 900 unidades de exportación del Hawk 75 a países como Francia, Reino Unido (como Mohawk Mk.I), Países Bajos, Noruega, Finlandia, China y otros. Finlandia, en particular, utilizó el Hawk 75 con gran éxito contra la Unión Soviética, produciendo varios ases con este avión.
-- **Base del P-40 Warhawk:** El décimo P-36 de producción fue modificado con un motor lineal refrigerado por líquido Allison V-1710, dando origen al prototipo XP-40, que se convertiría en el icónico P-40 Warhawk, uno de los cazas más emblemáticos de la Segunda Guerra Mundial.
+- **Base del P-40 Warhawk:** El décimo P-36 de producción fue modificado con un motor lineal refrigerado por líquido Allison V-1710, dando origen al prototipo XP-40, que se convertiría en el icónico P-40 Warhawk, uno de los aviones más recordados de aquel conflicto.
 - **Innovación técnica:** El diseño de ala baja, tren retráctil y construcción totalmente metálica estableció nuevos estándares que serían adoptados por todos los cazas estadounidenses de la generación siguiente (P-38, P-39, P-40, P-47, P-51).
 - **Doctrina de combate:** La experiencia adquirida con el P-36 influyó en la doctrina de combate del USAAC, preparando a los pilotos y comandantes para la era de los monoplanos de alta velocidad.
 
@@ -131,15 +91,15 @@ El Curtiss-Wright Model 75 fue el primer caza monoplano moderno de construcción
 
 Aunque a menudo olvidado por el éxito arrollador de su "hermano mayor", el P-40 Warhawk, el P-36 fue un diseño fundamental en la historia de la aviación. Demostró la viabilidad de las nuevas tecnologías y allanó el camino para los cazas estadounidenses que ganarían la guerra.
 
-El prototipo X17Y, tras ser modificado a la configuración Model 75B, continuó sirviendo como banco de pruebas hasta su baja. El registro civil del avión fue cancelado el 26 de abril de 1937 (lo que indica que la aeronave fue dada de baja). El destino final del prototipo es incierto. Hoy, el legado del Model 75 perdura en los P-36 conservados en museos de todo el mundo, incluido el National Museum of the United States Air Force en Dayton, Ohio.
+El prototipo X17Y, tras ser modificado a la configuración Model 75B, continuó sirviendo como banco de pruebas hasta su baja. El registro civil del avión fue cancelado el 26 de abril de 1937 (lo que indica que la aeronave fue dada de baja). El destino final del prototipo es incierto. Hoy, el legado del Model 75 perdura en los P-36 conservados por medio mundo, al menos en el National Museum of the United States Air Force en Dayton, Ohio. El mismo equipo de Berlin diseñaría después el P-40.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-<p><strong>Nota aclaratoria sobre las discrepancias en los datos del motor:</strong> Las fuentes presentan ligeras variaciones en la designación y potencia del motor original. Wikipedia indica un Wright XR-1670-5 de 900 hp, mientras que This Day in Aviation detalla un Wright GR1670A1 de 775 hp (830 hp al despegue). La discrepancia se debe probablemente a que el motor era un prototipo en desarrollo, con diferentes etapas de calibración. Se han incluido ambas referencias en la nota para reflejar la inconsistencia de las fuentes.</p>
+<p><strong>Nota aclaratoria sobre las discrepancias en los datos del motor:</strong> Las fuentes varían en designación y potencia del motor original: Wright XR-1670-5 de 900 hp (Wikipedia) frente a Wright GR1670A1 de 775 hp, 830 al despegue (This Day in Aviation); quizá por etapas de calibración de un prototipo en desarrollo.</p>
 <p><strong>Sobre la designación Model 75D y Model 75B:</strong> Tras la modificación del prototipo con el motor Cyclone y las ventanas traseras, la versión original (con el motor R-1670) fue redesignada retroactivamente como Model 75D, mientras que la versión modificada pasó a denominarse Model 75B. Algunas fuentes también mencionan una variante Model 75A reservada para la exportación.</p>
 <p><strong>Sobre el tren de aterrizaje:</strong> El ingenioso mecanismo que rotaba las patas del tren principal 90 grados para plegar las ruedas planas en el ala fue diseñado originalmente por Boeing, que recibió regalías por cada avión fabricado con este sistema, incluyendo el Model 75 y el posterior P-40.</p>
-<p><strong>Sobre el registro civil:</strong> El registro civil X17Y fue emitido el 1 de junio de 1936 para permitir las pruebas del prototipo. Su cancelación el 26 de abril de 1937 indica que la aeronave fue dada de baja del registro civil (posiblemente transferida al ejército, desguazada, o su registro fue modificado).</p>
+<p><strong>Sobre el registro civil:</strong> El registro X17Y se emitió el 1-06-1936 para las pruebas y se canceló el 26-04-1937: la aeronave quedó dada de baja del registro civil (posiblemente transferida al ejército o desguazada).</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -160,7 +120,7 @@ El prototipo X17Y, tras ser modificado a la configuración Model 75B, continuó 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 12:07:10 CST  
+- **Timestamp de verificación:** 2026-10-04 18:29:43 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, This Day in Aviation, World War Photos, Flug Revue
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (6 de mayo de 1935) y el lugar (Buffalo, Nueva York). Existe discrepancia en la potencia del motor original (900 hp vs 775/830 hp). La velocidad máxima en las primeras pruebas fue de 452 km/h (281 mph). El registro civil X17Y fue emitido el 1 de junio de 1936 y cancelado el 26 de abril de 1937.
 - **Nivel de confianza:** Alto

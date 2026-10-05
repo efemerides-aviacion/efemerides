@@ -103,18 +103,16 @@ Noventa y un años después, la efeméride no reivindica un récord de velocidad
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> La imagen muestra la «Santander» EC-CBB al inicio del raid, junto al mar, y no el aterrizaje en Boca del Río. Gómez Núñez avista el avión a las 11:00; la nota de <em>El Sol</em> del 16 de julio de 1935, recogida por Dupouy, da las 10:15 y añade el grito «¡Viva Gómez!», ausente del capítulo del testigo. El cruce Bathurst–Natal queda en el 20 de mayo (lunes) en el relato de Dupouy; Sánchez Méndez escribe «lunes 21 de mayo», fecha que en 1935 cayó en martes. El 12 de mayo figura como intento abortado por nubes; el despegue efectivo desde La Albericia es el 13. No se ha encontrado una fuente primaria que acredite, sin matiz, que Pombo fuese el primer piloto español en llegar a Venezuela; el post se atiene a la escala verificada del 15 de julio.</p>
+  <p><strong>Nota aclaratoria:</strong> La imagen muestra la «Santander» EC-CBB al inicio del raid, junto al mar, y no el aterrizaje en Boca del Río. Gómez Núñez avista el avión a las 11:00; la nota de <em>El Sol</em> del 16 de julio de 1935, recogida por Dupouy, da las 10:15 y añade el grito «¡Viva Gómez!», ausente del capítulo del testigo. El cruce Bathurst–Natal queda en el 20 de mayo (lunes) en el relato de Dupouy; Sánchez Méndez escribe «lunes 21 de mayo», fecha que en 1935 cayó en martes. El 12 de mayo figura como intento abortado por nubes; el despegue efectivo desde La Albericia es el 13. El post no da por acreditado, sin matiz, que Pombo fuese el primer piloto español en llegar a Venezuela; se atiene a la escala verificada del 15 de julio.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-La trazabilidad documental del texto queda resumida en los siguientes datos.
-
-- **Timestamp de verificación:** 2026-09-01 14:35:00 CST
+- **Timestamp de verificación:** 2026-10-04 18:29:43 CST
 - **Fuentes primarias/institucionales consultadas:** Florencio Gómez Núñez, <em>Mis Apuntes sobre la Aviación Venezolana</em> (1970), testimonio presencial; Real Aero Club de España / José Sánchez Méndez; obituario de <em>El País</em> (1985).
-- **Fuentes secundarias de contraste:** Fernando Llorente Jiménez (Museo Aviación Militar Española); Rafael Dupouy Gómez (compilación del capítulo de Gómez Núñez y cita de <em>El Sol</em>, 16 de julio de 1935); Cantabria Directa.
-- **Discrepancias resueltas:** Hora de llegada a Maracay (10:15 en <em>El Sol</em> frente a avistamiento a las 11:00 en Gómez Núñez); fecha del cruce del Atlántico Sur (20 frente a 21 de mayo); colores de la avioneta (rojo y blanco en Dupouy y Llorente; blanco y azul en Sánchez Méndez); salida de Santander (intento del 12 y despegue del 13).
+- **Fuentes secundarias de contraste:** Fernando Llorente Jiménez (Museo Aviación Militar Española); Rafael Dupouy Gómez (compilación y cita de <em>El Sol</em>, 16 de julio de 1935); Cantabria Directa.
+- **Discrepancias resueltas:** hora de llegada a Maracay (10:15 en <em>El Sol</em> frente a 11:00 en Gómez Núñez); cruce del Atlántico Sur (20 frente a 21 de mayo); colores de la avioneta (rojo-blanco en Dupouy y Llorente; blanco-azul en Sánchez Méndez); salida de Santander (intento del 12 y despegue del 13).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -26,79 +26,68 @@ image: 1935-09-17-primer-vuelo-junkers-ju-87-stuka.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-- **Fecha del primer vuelo:** 17 de septiembre de 1935
-- **Lugar:** Dessau, Alemania, en la factoría de Junkers
-- **Prototipo:** Junkers Ju 87 V1, número de obra 4921 (matrícula civil posterior D-UBYR); construido por AB Flygindustri en Suecia y trasladado a Alemania en secreto a fines de 1934
+- **Primer vuelo:** 17 de septiembre de 1935, Dessau (factoría de Junkers)
+- **Prototipo:** Junkers Ju 87 V1, número de obra 4921 (matrícula civil posterior D-UBYR)
 - **Piloto:** Willi Neuenhofen, piloto jefe de pruebas de Junkers
 - **Diseñador:** el ingeniero Hermann Pohlmann y su equipo
-- **Motor del prototipo:** Rolls-Royce Kestrel V-12 de 640 hp, importado del Reino Unido
-- **Configuración del V1:** doble deriva cuadrada, abandonada tras el accidente de 1936; ala en gaviota invertida y tren de aterrizaje fijo carenado
+- **Motor:** Rolls-Royce Kestrel V-12 de 640 hp (importado)
+- **Configuración del V1:** doble deriva cuadrada, abandonada tras el accidente de 1936
 - **Programa:** Sturzbomber-Programm del Reichsluftfahrtministerium (RLM) (Ministerio del Aire alemán)
 - **Bautismo de fuego:** 1937, con la Legión Cóndor durante la Guerra Civil española
 - **Producción:** unos 6.000 ejemplares de todas las versiones, entre 1936 y agosto de 1944
-- **Nombre:** «Stuka», contracción de Sturzkampfflugzeug («avión de combate en picado»)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-En 1935 la Alemania nazi rompió abiertamente las ataduras aéreas del Tratado de Versalles: en febrero se fundó la Luftwaffe y el rearme pasó del secreto al desafío público. La nueva fuerza aérea necesitaba un avión que la artillería no podía darle, una pieza capaz de acompañar a las tropas y de colocar una bomba sobre un objetivo puntual en lugar de sembrarlas sobre una zona. Esa fue la casilla que el RLM reservó al bombardero en picado, y la que Junkers llevaba cubriendo desde 1933 con el diseño de Pohlmann.
+En 1935 la Alemania nazi rompió abiertamente las ataduras aéreas del Tratado de Versalles: en febrero se fundó la Luftwaffe y el rearme pasó del secreto al desafío público. La nueva fuerza aérea necesitaba un avión que la artillería no podía darle: capaz de acompañar a las tropas y de colocar una bomba sobre un objetivo puntual. Esa fue la casilla que el RLM reservó al bombardero en picado.
 
 ### Entorno social
-El rearme era a la vez doctrina militar y política industrial: daba trabajo a las fábricas, uniforme a una generación criada en la derrota de 1918 y argumento al régimen. La Luftwaffe, creada por decreto en febrero de aquel mismo año, creció deprisa y con hambre de aparatos modernos. El bombardero en picado encajaba en la promesa de una guerra corta y decidida desde el aire, y encontró en Ernst Udet —as de la Gran Guerra convertido en inspector de cazas y bombarderos en picado— a su valedor dentro del mando.
+El rearme era a la vez doctrina militar y política industrial: daba trabajo a las fábricas, uniforme a una generación criada en la derrota de 1918 y argumento al régimen. El bombardero en picado encajaba en la promesa de una guerra corta y decidida desde el aire, y encontró en Ernst Udet —as de la Gran Guerra convertido en inspector de cazas y bombarderos en picado— a su valedor dentro del mando.
 
 ### Entorno tecnológico
-La idea era sencilla y exigente: picar casi en vertical, a unos 85 grados, soltar la bomba en la línea de la gravedad y recuperarse. Para lograrlo el Ju 87 reunió un ala en gaviota invertida de doble larguero, un tren fijo carenado —Pohlmann prefería lo simple y robusto a lo retráctil—, frenos de picado bajo el borde de ataque y un sistema de recuperación automática que sacaba al avión del picado aunque el piloto se desvaneciera por la fuerza g. Una horquilla basculante separaba la bomba del fuselaje al soltarla. Como el motor Junkers Jumo aún no estaba disponible, el prototipo voló con un Kestrel británico: diez se habían encargado en abril de 1934.
+La idea era sencilla y exigente: picar casi en vertical, a unos 85 grados, soltar la bomba en la línea de la gravedad y recuperarse. Para lograrlo el Ju 87 reunió un ala en gaviota invertida de doble larguero, un tren fijo carenado, frenos de picado bajo el borde de ataque y un sistema de recuperación automática que sacaba al avión del picado aunque el piloto se desvaneciera por la fuerza g. 
 
 ### Entorno cultural
-El Stuka terminó siendo algo más que un avión: fue el emblema sonoro de las victorias alemanas de 1939 a 1942. Las sirenas montadas en el tren —el Lärmgerät oficial, las «trompetas de Jericó» del sobrenombre— convertían cada picado en un aviso psicológico antes que en un ataque, y el historiador Antony Beevor consideró al aparato el arma de mayor importancia psicológica de cuantas ensayó la Legión Cóndor en España. El mito duró lo que la superioridad aérea que lo protegía.
+El Stuka fue el emblema sonoro de las victorias alemanas de 1939 a 1942: las sirenas montadas en el tren —el Lärmgerät oficial, las «trompetas de Jericó» del sobrenombre— convertían cada picado en un aviso psicológico antes que en un ataque. El mito duró lo que la superioridad aérea que lo protegía.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
-- **1933:** el equipo de Hermann Pohlmann inicia en Junkers el diseño del bombardero en picado, dentro del Sturzbomber-Programm. Era la misma casa de Dessau que dieciséis años atrás había abierto la era del avión comercial metálico con <a href="https://efemerides-aviacion.github.io/efemerides/evento/1919/06/25/primer-vuelo-junkers-f13.html" style="color: #315fea; text-decoration: none;">el primer vuelo del Junkers F-13, el 25 de junio de 1919</a>.
-- **19 de abril de 1934:** Junkers encarga en el Reino Unido diez motores Rolls-Royce Kestrel para los prototipos, a la espera del motor nacional.
-- **Mayo de 1934:** en el campo de artillería de Jüterbog, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1896/04/26/nacimiento-ernst-udet.html" style="color: #315fea; text-decoration: none;">Ernst Udet, el segundo as alemán de la Primera Guerra Mundial</a>, demuestra el bombardeo en picado con un Curtiss Goshawk traído de Estados Unidos: pica desde 1.000 metros y suelta sus bombas de un kilo a 100 metros del suelo, en una exhibición que divide al mando pero impone la doctrina.
-- **Fines de 1934:** el primer prototipo, construido por AB Flygindustri en Suecia, es trasladado a Alemania en secreto.
-- **26 de febrero de 1935:** Adolf Hitler decreta la creación de <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1935/02/26/fundacion-luftwaffe.html" style="color: #315fea; text-decoration: none;">la Luftwaffe, fundada aquel mismo febrero de 1935</a>, la fuerza aérea que haría del Stuka su artillería volante.
-- **17 de septiembre de 1935:** el Ju 87 V1, número de obra 4921, realiza su primer vuelo en Dessau con Willi Neuenhofen a los mandos, con motor Kestrel y doble deriva. El parte de vuelo solo anotó un problema: el radiador, demasiado pequeño, recalentaba el motor.
+- **Abril–mayo de 1934:** Junkers encarga en el Reino Unido diez motores Rolls-Royce Kestrel para los prototipos, a la espera del motor nacional, y en Jüterbog, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1896/04/26/nacimiento-ernst-udet.html" style="color: #315fea; text-decoration: none;">Ernst Udet</a> demuestra el bombardeo en picado con un Curtiss Goshawk: pica desde 1.000 metros y suelta bombas de un kilo a 100 metros del suelo; la exhibición impone la doctrina.
+- **Fines de 1934:** el primer prototipo, construido en Suecia, llega a Alemania en secreto.
+- **17 de septiembre de 1935:** el Ju 87 V1 (n.º de obra 4921) realiza su primer vuelo en Dessau con Willi Neuenhofen a los mandos; el parte de vuelo solo anotó que el radiador recalentaba el motor.
 - **24 de enero de 1936:** el V1 se estrella en Kleutsch, junto a Dresde, durante un ensayo de picado: entró en barrena invertida y las derivas dobles, demasiado débiles, colapsaron. Mueren Neuenhofen y su ingeniero de vuelo, Heinrich Kreft. El accidente impone la deriva única y el refuerzo del fuselaje.
-- **25 de febrero de 1936:** vuela el segundo prototipo, el V2, ya con deriva única.
-- **27 de marzo de 1936:** primer vuelo del tercer prototipo, el V3.
-- **9 y 10 de junio de 1936:** el RLM ordena suspender el desarrollo en favor del rival Heinkel He 118; Udet anula la orden al día siguiente y el programa sigue adelante.
-- **27 de julio de 1936:** Udet estrella el prototipo del He 118 en un picado y declara vencedor del concurso al Stuka.
-- **6 de agosto de 1936:** el cuarto prototipo, un Ju 87 A-0, desembarca en Cádiz desde el carguero Usaramo entre los primeros aviones enviados a los sublevados; encuadrado en la escuadrilla experimental VJ/88 con el código 29-1, será evaluado en combate.
-- **1937:** bautismo de fuego: el prototipo destinado en España opera con la VJ/88 en la ofensiva nacionalista contra Bilbao, y la experiencia convence al mando de la precisión del aparato.
-- **Primavera de 1937:** esa misma primavera, la Legión Cóndor arrasaba <a href="https://efemerides-aviacion.github.io/efemerides/evento/1937/04/26/bombardeo-de-guernica.html" style="color: #315fea; text-decoration: none;">Guernica, bombardeada el 26 de abril de 1937</a> con Junkers Ju 52, Heinkel He 111 y Dornier Do 17, los tipos que documenta la propia efeméride del ataque; el Stuka seguía siendo entonces un prototipo en evaluación.
-- **Enero de 1938:** llegan a España los tres primeros Ju 87A de serie, empleados en la ofensiva de Aragón y Levante; en octubre regresan a Alemania.
-- **Mayo de 1938:** los Stuka de la Legión ensayan en cuatro pueblos del Maestrazgo el bombardeo de precisión con la bomba de 500 kilos, la mayor empleada en la contienda, para la que el avión debía prescindir de su artillero trasero: el 25 de mayo caen tres bombas sobre Benasal, con 13 muertos; Ares del Maestre recibe nueve bombas, con 16 muertos, y Villar de Canes tres muertos.
+- **25 de febrero y 27 de marzo de 1936:** vuelan el V2, ya con deriva única, y el V3.
+- **Junio–julio de 1936:** el RLM ordena suspender el desarrollo en favor del rival Heinkel He 118 y Udet la anula al día siguiente; el 27 de julio, tras estrellar el prototipo del He 118 en un picado, declara vencedor del concurso al Stuka.
+- **6 de agosto de 1936:** el cuarto prototipo, un Ju 87 A-0, desembarca en Cádiz desde el carguero Usaramo entre los primeros aviones enviados a los sublevados; la escuadrilla experimental VJ/88 (código 29-1) lo evaluará en combate.
+- **1937:** bautismo de fuego con la VJ/88 en la ofensiva de Bilbao —la experiencia convence al mando de la precisión del aparato—, en la misma primavera en que la Legión Cóndor arrasaba <a href="https://efemerides-aviacion.github.io/efemerides/evento/1937/04/26/bombardeo-de-guernica.html" style="color: #315fea; text-decoration: none;">Guernica, bombardeada el 26 de abril de 1937</a> con Junkers Ju 52, Heinkel He 111 y Dornier Do 17; el Stuka seguía siendo un prototipo en evaluación.
+- **1938:** en enero llegan los tres primeros Ju 87A y vuelan en Aragón y Levante hasta octubre; en mayo, los Stuka de la Legión ensayan en el Maestrazgo el bombardeo con la bomba de 500 kilos —la mayor de la contienda—: el 25 de mayo caen tres bombas sobre Benasal (13 muertos), nueve sobre Ares del Maestre (16 muertos) y tres sobre Villar de Canes.
 - **Enero de 1939:** tres Ju 87B regresan a España para la ofensiva de Cataluña y el 21 de enero atacan el puerto de Barcelona; en esas operaciones se producen las únicas bajas de tripulantes de Stuka de la contienda.
-- **1939:** entre los pilotos que vuelan el Ju 87 en sus ensayos figura <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1912/03/29/nacimiento-hanna-reitsch.html" style="color: #315fea; text-decoration: none;">Hanna Reitsch, que aquel año probaba prototipos militares como el Stuka</a>.
-- **15 de agosto de 1939:** catástrofe de Neuhammer, en Silesia: durante una demostración ante la cúpula de la Luftwaffe, trece Stuka que picaban tras su jefe a través de las nubes se estrellan contra el suelo; mueren los 26 tripulantes.
-- **1 de septiembre de 1939:** el Stuka lanza las primeras bombas de la Segunda Guerra Mundial: tres Ju 87 mandados por Bruno Dilley atacan a las 04:26 los accesos a los puentes de Dirschau, sobre el Vístula. Ese mismo día, tres oleadas de Stuka arrasan la localidad polaca de Wieluń.
-- **Mayo-junio de 1940:** en Francia y los Países Bajos, el Stuka resulta decisivo en la ruptura de Sedán y en el avance de la Blitzkrieg, siempre que la Luftwaffe domina el cielo.
-- **18 de agosto de 1940:** sobre Inglaterra se quiebra el mito: dieciséis Stuka caen en un solo día y el aparato es retirado del bombardeo sobre Gran Bretaña tras perder 59 aviones y dejar otros 33 dañados en seis semanas de operaciones, un mes antes de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1940/09/15/dia-de-la-batalla-de-inglaterra.html" style="color: #315fea; text-decoration: none;">el Día de la Batalla de Inglaterra, el 15 de septiembre de 1940</a>.
-- **1941-1944:** relegado a los teatros donde conserva la superioridad aérea, el Stuka rinde como avión de apoyo y cazacarros en el frente oriental —la versión G monta dos cañones de 37 mm bajo las alas—, mientras la producción continúa hasta agosto de 1944.
+- **15 de agosto de 1939:** catástrofe de Neuhammer, en Silesia: durante una demostración ante oficiales, trece Stuka que picaban tras su jefe a través de las nubes se estrellan contra el suelo; mueren los 26 tripulantes.
+- **1 de septiembre de 1939:** el Stuka lanza las primeras bombas de la Segunda Guerra Mundial: tres Ju 87 de Bruno Dilley atacan a las 04:26 los accesos a los puentes de Dirschau, sobre el Vístula; ese mismo día, tres oleadas arrasan Wieluń.
+- **1940:** decisivo en Sedán y en el avance de la Blitzkrieg mientras la Luftwaffe domina el cielo; sobre Inglaterra se quiebra el mito el 18 de agosto: dieciséis Stuka caen en un solo día y el aparato se retira tras perder 59 aviones y dejar otros 33 dañados en seis semanas.
+- **1941-1944:** relegado a los teatros con superioridad aérea, rinde como apoyo y cazacarros en el frente oriental —la versión G monta dos cañones de 37 mm bajo las alas—, con producción hasta agosto de 1944.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-La consecuencia inmediata del primer vuelo fue una familia de aviones: del V1 de doble deriva y motor británico se pasó al Ju 87A de serie con motor Jumo 210 y al Ju 87B definitivo, con Jumo 211 de inyección, dos ametralladoras fijas y una trasera móvil. Las primeras entregas a la Luftwaffe llegaron en la primavera de 1937 y sustituyeron a los biplanos Henschel Hs 123. España había servido de banco de pruebas: precisión verificada, tripulaciones fogueadas y un informe de lecciones que ningún polígono podía dar.
+La consecuencia inmediata del primer vuelo fue una familia de aviones: del V1 se pasó al Ju 87A de serie (Jumo 210) y al Ju 87B definitivo (Jumo 211 de inyección, dos ametralladoras fijas y una trasera móvil). Las primeras entregas llegaron en la primavera de 1937 y sustituyeron a los biplanos Henschel Hs 123. España había servido de banco de pruebas: precisión verificada y tripulaciones fogueadas.
 
-La segunda consecuencia fue doctrinal y duró menos. En Polonia y en Francia el Stuka demostró que el apoyo aéreo de precisión podía decidir una batalla terrestre; sobre Inglaterra demostró lo contrario con la misma contundencia: sin superioridad aérea, su escasa velocidad y su pobre defensa lo convertían en presa de los cazas. La Luftwaffe se quedó sin avión de ataque de precisión sobre Gran Bretaña y el Stuka quedó confinado a los cielos permisivos del Mediterráneo, los Balcanes y el frente oriental.
+La segunda consecuencia fue doctrinal y duró menos. En Polonia y Francia demostró que el apoyo de precisión podía decidir una batalla; sobre Inglaterra, lo contrario: sin superioridad aérea, su velocidad y su pobre defensa lo hacían presa de los cazas. Sobre Gran Bretaña la Luftwaffe se quedó sin ataque de precisión, y el Stuka se confinó a los cielos permisivos del Mediterráneo, los Balcanes y el frente oriental.
 
-En el plano industrial, el programa sostuvo a Junkers en el centro del rearme aéreo alemán y produjo, entre 1936 y agosto de 1944, unos 6.000 aparatos en ocho versiones básicas y decenas de modificaciones, del bombardero en picado al cazacarros y al remolcador de planeadores.
+En el plano industrial, el programa sostuvo a Junkers en el rearme aéreo alemán y produjo, entre 1936 y agosto de 1944, unos 6.000 aparatos en ocho versiones básicas, del bombardero en picado al cazacarros y al remolcador de planeadores.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-Noventa y un años después de aquel despegue en Dessau, el Stuka sigue siendo el avión más reconocible de la Segunda Guerra Mundial: el ala en gaviota invertida, el tren con polainas y la sirena del picado forman una silueta que no necesita siglas. Su piloto más famoso, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1916/07/02/nacimiento-hans-ulrich-rudel.html" style="color: #315fea; text-decoration: none;">Hans-Ulrich Rudel, el aviador más condecorado de Alemania</a>, encarna la segunda vida del aparato como cazacarros del frente oriental, con los cañones de 37 mm bajo las alas.
+Noventa y un años después de aquel despegue en Dessau, el Stuka sigue siendo el avión más reconocible de la Segunda Guerra Mundial: el ala en gaviota invertida, el tren con polainas y la sirena del picado forman una silueta que no necesita siglas. Su piloto más famoso, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1916/07/02/nacimiento-hans-ulrich-rudel.html" style="color: #315fea; text-decoration: none;">Hans-Ulrich Rudel</a>, encarna la segunda vida del aparato como cazacarros del frente oriental.
 
-En la segunda mitad de la guerra el Ju 87 quedó obsoleto como bombardero diurno y terminó sus días como bombardero nocturno, mientras las versiones de asalto del Focke-Wulf Fw 190 lo sustituían. De los miles construidos solo sobreviven completos dos ejemplares: el Ju 87G-2 número 494083 del RAF Museum de Hendon, capturado en Alemania en mayo de 1945, y el Ju 87R-2 tropical número 5954 del Museo de Ciencia e Industria de Chicago.
+En la segunda mitad de la guerra el Ju 87 quedó obsoleto como bombardero diurno y terminó sus días como bombardero nocturno, mientras las versiones de asalto del Focke-Wulf Fw 190 lo sustituían. De los miles construidos solo sobreviven completos dos: el Ju 87G-2 n.º 494083 del RAF Museum de Hendon (capturado en mayo de 1945) y el Ju 87R-2 tropical n.º 5954 del Museo de Ciencia e Industria de Chicago.
 
-El Stuka dejó además una lección que los ejércitos no han soltado: que la precisión del apoyo aéreo decide batallas, y que ningún avión de ataque sobrevive sin el dominio del aire que lo cubre.
+El Stuka dejó una lección que los ejércitos no han soltado: que la precisión del apoyo aéreo decide batallas, y que ningún avión de ataque sobrevive sin el dominio del aire que lo cubre.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -124,9 +113,9 @@ El Stuka dejó además una lección que los ejércitos no han soltado: que la pr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-11 14:53:48 CST  
+- **Timestamp de verificación:** 2026-10-04 18:29:43 CST
 - **Fuentes primarias/institucionales consultadas:** Royal Air Force Museum, historial individual del Junkers Ju-87G-2 494083 (78/AF/657); State Aviation Museum de Ucrania, nota del 90.º aniversario del Ju 87  
-- **Fuentes secundarias de contraste:** This Day in Aviation, entrada «Junkers Ju 87 B-1 Stuka»; Wikipedia (EN), entrada «Junkers Ju 87»; Warfare History Network, «The Stuka» de Richard Rule; La Vanguardia / Historia y Vida, «La aviación: una nueva amenaza en la Guerra Civil española» de Joaquín Armada; Classic Warbirds, «Junkers Ju 87»  
-- **Discrepancias resueltas:** (1) año del bautismo de fuego: 1936 según el Museo Estatal de Aviación de Ucrania (año de llegada del prototipo a España) frente a 1937 según Wikipedia, Warfare History Network y La Vanguardia con Beevor (empleo con la VJ/88 en la ofensiva de Bilbao); se sigue 1937. (2) Producción total: 5.709 ejemplares según el RAF Museum y «más de 5.700» según Classic Warbirds, frente a unos 6.000 según Wikipedia y «más de 6.000» según el museo ucraniano; se consigna la cifra redonda. (3) Entrada en servicio: 1936 según la ficha de Wikipedia frente a la primavera de 1937 según Classic Warbirds (con las primeras entregas) y Warfare History Network (diez A-1 a principios de 1937); se sigue 1937. (4) Nombre del piloto del primer vuelo: Willi, Willy o Wilhelm Neuenhofen según la fuente; se usa Willi.  
+- **Fuentes secundarias de contraste:** This Day in Aviation; Wikipedia (EN); Warfare History Network («The Stuka», R. Rule); La Vanguardia / Historia y Vida (J. Armada); Classic Warbirds  
+- **Discrepancias resueltas:** (1) bautismo de fuego: se sigue 1937 (VJ/88, ofensiva de Bilbao) frente a 1936 (llegada del prototipo); (2) producción: se consigna la cifra redonda (5.709–6.000 según fuente); (3) entrada en servicio: se sigue 1937; (4) piloto del primer vuelo: se usa Willi (frente a Willy/Wilhelm Neuenhofen).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -17,7 +17,7 @@ image: 1935-01-11-amelia-earhart-primer-vuelo-en-solitario.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 11 de enero de 1935, Amelia Earhart despegó de Wheeler Field, Honolulu, para realizar una de las travesías más peligrosas de la aviación de la época: cruzar el Océano Pacífico desde Hawái hasta California. A bordo de su Lockheed Vega 5B (matrícula NR-965Y), apodado "Little Red Bus", recorrió 2.408 millas (3.875 km) en 18 horas y 15 minutos. Este vuelo no solo consolidó su estatus como pionera, sino que demostró la viabilidad de rutas transoceánicas de larga distancia, superando el desastroso historial de la carrera aérea Dole de 1927, donde varios aviadores perdieron la vida intentando el mismo trayecto.</p>
+<p>El 11 de enero de 1935, Amelia Earhart despegó de Wheeler Field, Honolulu, para realizar una de las travesías más peligrosas de la aviación de la época: cruzar el Océano Pacífico desde Hawái hasta California. A bordo de su Lockheed Vega 5B (matrícula NR-965Y), apodado "Little Red Bus", recorrió 3.875 km (2.408 millas) en 18 horas y 15 minutos. Este vuelo no solo consolidó su estatus como pionera, sino que demostró la viabilidad de rutas transoceánicas de larga distancia, superando el desastroso historial de la carrera aérea Dole de 1927, donde varios aviadores perdieron la vida intentando el mismo trayecto.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -27,18 +27,13 @@ image: 1935-01-11-amelia-earhart-primer-vuelo-en-solitario.webp
 - **Fecha de aterrizaje:** 12 de enero de 1935, 13:10 (hora del Pacífico)
 - **Lugar de despegue:** Wheeler Field, Honolulu, Hawái (territorio de EE.UU.)
 - **Lugar de aterrizaje:** Aeropuerto de Oakland, California, Estados Unidos
-- **Protagonista:** Amelia Mary Earhart (1897–1937)
-- **Aeronave:** Lockheed Vega 5B
-- **Matrícula:** NR-965Y
-- **Nombre de la aeronave:** "Little Red Bus"
-- **Fabricante:** Lockheed Aircraft Corporation
-- **Año de fabricación:** 1930
+- **Protagonista y aeronave:** Amelia Mary Earhart (1897–1937) y su Lockheed Vega 5B «Little Red Bus», matrícula NR-965Y; fabricante Lockheed Aircraft Corporation, año de fabricación 1930
 - **Motor:** Pratt & Whitney Wasp C (450 hp)
 - **Velocidad de crucero:** Aproximadamente 210 km/h (130 mph)
 - **Distancia recorrida:** 2.408 millas (3.875 km)
 - **Duración del vuelo:** 18 horas y 15 minutos
 - **Combustible transportado:** 1.060 litros (280 galones) en tanques adicionales
-- **Resultado inmediato:** Vuelo exitoso; Earhart se convirtió en la primera persona en volar en solitario la ruta Hawái-California
+- **Resultado inmediato:** vuelo exitoso; Earhart cruza en solitario por primera vez la ruta Hawái-California
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -73,7 +68,7 @@ Entre el 16 y el 18 de agosto de 1927, ocho aviones (con 16 aviadores) intentaro
 
 - **Enero de 1935 (días previos):** Earhart realiza vuelos de prueba alrededor de las islas Hawái para familiarizarse con el comportamiento del Lockheed Vega cargado con combustible adicional.
 
-- **11 de enero de 1935, 16:40 (hora local de Hawái):** Despegue desde Wheeler Field, Honolulu, bajo condiciones climáticas adversas. Había llovizna y nubes bajas, lo que complicó la salida. Earhart describió el despegue como "pesado" debido a los tanques llenos.
+- **11 de enero de 1935, 16:40 (hora hawaiana):** Despegue desde Wheeler Field, Honolulu, bajo condiciones climáticas adversas. Había llovizna y nubes bajas, lo que complicó la salida. Earhart describió el despegue como "pesado" debido a los tanques llenos.
 
 - **Durante el vuelo:** Mantuvo contacto radial constante con estaciones en Hawái y luego en la costa oeste. Earhart incluso escuchó transmisiones de radio comerciales para entretenimiento y orientación, sintonizando estaciones de San Francisco cuando se acercaba al continente. Durante la noche, voló a través de tormentas y enfrentó vientos cruzados.
 
@@ -91,7 +86,7 @@ Entre el 16 y el 18 de agosto de 1927, ocho aviones (con 16 aviadores) intentaro
 
 - **Récord de distancia sobre agua:** Este fue el vuelo en solitario más largo sobre agua realizado por una mujer hasta esa fecha.
 
-- **Impulso a la aviación comercial:** El vuelo demostró que los vuelos regulares sobre el Pacífico eran técnicamente factibles, allanando el camino para las rutas comerciales que se establecerían en la década siguiente (Pan American World Airways comenzó vuelos regulares a Hawái en 1936).
+- **Impulso comercial:** el vuelo demostró que los vuelos regulares sobre el Pacífico eran técnicamente factibles, allanando el camino para las rutas comerciales que se establecerían en la década siguiente (Pan American World Airways comenzó vuelos regulares a Hawái en 1936).
 
 - **Legado mediático:** La cobertura periodística del vuelo fue masiva. Earhart apareció en portadas de revistas y diarios de todo el mundo, consolidando su imagen como "la primera dama del aire".
 
@@ -105,7 +100,7 @@ Este vuelo reafirmó el uso de instrumentos de radio navegación y la capacidad 
 - **19 de abril de 1935:** Los Ángeles → Ciudad de México (primer vuelo en solitario en esta ruta)
 - **8 de mayo de 1935:** Ciudad de México → Newark (récord de velocidad en ruta transcontinental)
 
-La aeronave utilizada, el Lockheed Vega 5B "Little Red Bus" (matrícula NR-965Y), es hoy una pieza clave en la colección del **Museo Nacional del Aire y el Espacio del Smithsonian** (National Air and Space Museum) en Washington D.C., donde se exhibe junto a otros aviones históricos.
+La aeronave utilizada en la travesía es hoy una pieza clave en la colección del **Museo Nacional del Aire y el Espacio del Smithsonian** (National Air and Space Museum) en Washington D.C., en exposición permanente con otros aviones históricos.
 
 El vuelo también es recordado como un paso crucial en la carrera de Earhart hacia su objetivo final: circunnavegar el mundo. Dos años después, en 1937, Earhart intentaría su vuelta al mundo, desapareciendo en el Pacífico central.
 
@@ -115,11 +110,11 @@ El vuelo también es recordado como un paso crucial en la carrera de Earhart hac
 
 Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviación:
 
-- **8 de abril de 1931:** Estableció un  <a href="https://efemerides-aviacion.github.io/efemerides/evento/1931/04/08/amelia-earhart-autogiro-record-altitud.html" style="color: #315fea; text-decoration: none;">récord mundial femenino de altitud en autogiro (18.415 pies / 5.615 m) a bordo de un Pitcairn PCA-2.</a>.
+- **8 de abril de 1931:** Estableció un  <a href="https://efemerides-aviacion.github.io/efemerides/evento/1931/04/08/amelia-earhart-autogiro-record-altitud.html" style="color: #315fea; text-decoration: none;">se alzó con el récord femenino de altitud en autogiro, con el Pitcairn PCA-2</a>.
 
 - **20 de mayo – 21 de mayo de 1932:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/05/21/amelia-earhart-primera-mujer-cruza-atlantico.html" style="color: #315fea; text-decoration: none;">Primer vuelo en solitario de una mujer a través del Atlántico (Newfoundland → Irlanda)</a>, por el que recibió la Distinguished Flying Cross del Congreso de EE.UU.
 
-- **24-25 de agosto de 1932:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/08/25/amelia-earhart-vuelo-transcontinental-la-nj.html" style="color: #315fea; text-decoration: none;">Primer vuelo solitario y sin escalas de una mujer de costa a costa</a> (Los Ángeles → Newark), 19 horas y 5 minutos, en el Vega NR7952.
+- **24-25 de agosto de 1932:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/08/25/amelia-earhart-vuelo-transcontinental-la-nj.html" style="color: #315fea; text-decoration: none;">primer cruce en solitario de costa a costa</a> (Los Ángeles → Newark), 19 horas y 5 minutos, en el Vega NR7952.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -151,7 +146,7 @@ Amelia Earhart realizó otros vuelos históricos que marcaron hitos en la aviaci
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Timestamp de verificación:** 2026-10-04 18:29:43 CST
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum, Hawaii Aviation History (Archivo Oficial del Estado), Amelia Earhart Official Biography, Wikipedia (EN/ES), National Geographic, History.com
 - **Discrepancias resueltas:**
   - Distancia del vuelo: 2.408 millas según el registro oficial de la NAA; algunas fuentes citan 2.400 millas redondeadas.
