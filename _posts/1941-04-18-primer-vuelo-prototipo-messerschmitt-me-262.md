@@ -18,117 +18,76 @@ image: 1941-04-18-primer-vuelo-prototipo-messerschmitt-me-262.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 18 de abril de 1941, el prototipo Messerschmitt Me 262 V1 realizó su primer vuelo en Augsburg, Alemania, pilotado por Fritz Wendel. Debido a que los motores turborreactores BMW 003 previstos no estaban listos, la aeronave fue equipada provisionalmente con un motor de pistón Junkers Jumo 210G de 700 hp montado en el morro, que impulsaba una hélice convencional. Este vuelo, de aproximadamente 20 minutos de duración, permitió probar la célula y las características de vuelo del futuro caza a reacción. El verdadero vuelo con propulsión a chorro no ocurriría hasta el 18 de julio de 1942, con el prototipo V3 equipado con motores Junkers Jumo 004. El Me 262 pasaría a la historia como el primer caza a reacción operativo del mundo, aunque su entrada en combate no se produjo hasta 1944.</p>
+<p>El 18 de abril de 1941, el Messerschmitt Me 262 V1 efectuó su primer vuelo en Augsburg con Fritz Wendel a los mandos. Los motores BMW 003 previstos aún no estaban disponibles, así que un Jumo 210G de pistón, montado en el morro, impulsó la aeronave mediante una hélice. El ensayo inició la evaluación de la célula, no el vuelo de un jet: la propulsión a reacción se probaría más tarde y con otros prototipos. El programa desembocó en el primer caza a reacción que entró en servicio, aunque demasiado tarde para cambiar el desenlace de la guerra.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-
-- **Fecha del primer vuelo:** 18 de abril de 1941
-- **Lugar:** Aeródromo de Augsburg, Alemania
-- **Prototipo:** Me 262 V1 (designación de fábrica), código de radio PC+UA
-- **Piloto:** Fritz Wendel (piloto de pruebas jefe de Messerschmitt)
-- **Motor utilizado:** Junkers Jumo 210G (motor de pistón, 700 hp)
-- **Configuración:** Motor en el morro impulsando hélice; sin motores a reacción instalados
-- **Duración del vuelo:** Aproximadamente 20 minutos (no confirmado en fuentes)
-- **Velocidad máxima alcanzada:** 400 km/h
-- **Número de vuelos con motor de pistón:** 47 vuelos, acumulando más de 20 horas de vuelo
-- **Primer vuelo con propulsión a reacción:** 25 de marzo de 1942 (con motores BMW 003, fallaron) / 18 de julio de 1942 (con motores Junkers Jumo 004, exitoso)
+- **Fecha:** 18 de abril de 1941.
+- **Lugar:** aeródromo de Messerschmitt en Augsburg, Alemania.
+- **Prototipo:** Me 262 V1, código de fábrica PC+UA.
+- **Piloto de pruebas:** Fritz Wendel.
+- **Motor durante el primer vuelo:** Junkers Jumo 210G, de pistón, instalado en el morro y conectado a una hélice.
+- **Motores de reacción previstos:** dos BMW 003; todavía no estaban listos para el ensayo inaugural.
+- **Duración:** las fuentes consultadas discrepan o no ofrecen una cifra consistente; se omite.
+- **Hito:** el vuelo inaugural del programa en 1941 se distingue de las pruebas con reactores de 1942; la fecha exacta de la primera prueba propulsada a chorro queda abierta en la nota.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-A finales de la década de 1930, la aviación mundial se preparaba para un salto tecnológico: la propulsión a reacción. Alemania, bajo el régimen nacionalsocialista, invirtió fuertemente en el desarrollo de turborreactores, consciente de que la superioridad aérea sería clave en el conflicto que se avecinaba. En abril de 1939, Messerschmitt recibió el encargo de diseñar un caza alrededor de los motores axiales que BMW estaba desarrollando. El proyecto, inicialmente denominado P.1065, se convertiría en el Me 262.
+El proyecto P.1065 nació mientras varios fabricantes europeos exploraban cómo convertir el turborreactor, todavía experimental, en una aeronave militar útil. Messerschmitt recibió el encargo de diseñar una célula alrededor de dos motores axiales BMW. La configuración de ala en flecha moderada y góndolas bajo las alas buscaba equilibrar velocidad, armamento y espacio para el combustible.
 
 ### Entorno social
 
-La Alemania de 1941 se encontraba en el apogeo de su expansión militar. La Luftwaffe dominaba los cielos de Europa y la propaganda nazi promovía la idea de una tecnología superior. El desarrollo del Me 262 era visto como un arma secreta que podría asegurar la victoria. Sin embargo, las disputas internas entre líderes como Hermann Göring y Adolf Hitler, así como las interferencias políticas, retrasarían significativamente el programa.
+En 1941 Alemania se encontraba en plena expansión militar. La Luftwaffe exigía aviones en cantidades crecientes, mientras el Ministerio de Aviación del Reich debía distribuir materiales y mano de obra entre programas rivales. Las autoridades esperaban que una tecnología novedosa aportara ventaja, pero los plazos de un prototipo no coincidían con las urgencias de una guerra que ya se extendía por Europa.
+
+El desarrollo del Me 262 también dependía de negociaciones entre fabricantes, organismos estatales y mandos militares. Las discusiones sobre prioridades y requisitos podían modificar el programa, pero la dificultad más inmediata era industrial: los motores de reacción necesitaban materiales resistentes al calor y una fabricación de precisión que la industria aún no dominaba a gran escala.
 
 ### Entorno tecnológico
 
-Los primeros turborreactores enfrentaban enormes problemas: materiales inadecuados para las turbinas, compresores inestables y baja confiabilidad. Los BMW 003 previstos para el Me 262 apenas alcanzaban 260 kg de empuje en pruebas de banco, muy por debajo de lo requerido. Junkers, por su parte, desarrollaba el Jumo 004, que eventualmente se convertiría en el motor que impulsaría al Me 262. Mientras tanto, Messerschmitt decidió avanzar probando la célula con un motor de pistón convencional.
+El turborreactor ofrecía una relación distinta entre potencia y velocidad que los motores de pistón, pero sus compresores, turbinas y cámaras de combustión tenían una vida útil corta. Las aleaciones disponibles se deterioraban con temperaturas elevadas, y las unidades BMW experimentaban problemas de fiabilidad. La estructura del Me 262 podía probarse antes de que esa planta motriz estuviera resuelta.
+
+El motor convencional instalado temporalmente en el morro permitía mover el prototipo, mientras las góndolas bajo las alas alojaban más adelante los reactores. Esa solución añadía peso y resistencia, y el tren de cola no era la configuración definitiva que tendría el avión de serie. Aun así, daba a los ingenieros la oportunidad de estudiar controles, estabilidad y comportamiento aerodinámico sin esperar a la maduración de las turbinas.
+
+La prueba inicial no reproducía las cargas ni la distribución de empuje que aparecerían con los motores definitivos. Sus resultados servían para evaluar la célula, pero no permitían dar por resuelta la integración de las turbinas, el consumo o el comportamiento a velocidades mayores. Cada cambio de planta motriz obligaba a revisar el equilibrio del avión y a ampliar el programa de ensayos. Por eso, el primer despegue fue un paso del desarrollo, no la certificación de un caza listo para operar.
 
 ### Entorno cultural
 
-El piloto de pruebas Fritz Wendel era una figura respetada en la industria aeronáutica alemana. Había establecido un récord mundial de velocidad en 1939 con un Messerschmitt Me 209 (755 km/h). Su habilidad y experiencia serían cruciales para domar una aeronave revolucionaria que, incluso en su configuración provisional, presentaba características inéditas.
+El Me 262 se convirtió después en símbolo de la «arma milagrosa» alemana, etiqueta que puede ocultar el largo trabajo de ingeniería y las limitaciones productivas que rodearon su desarrollo. En 1941, no era todavía un avión de combate ni una respuesta inmediata a la situación militar. Era un prototipo que reunía una célula ambiciosa con componentes que avanzaban a ritmos distintos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **Abril de 1939:** Comienza el diseño del proyecto P.1065, futuro Me 262.
-- **Octubre de 1939:** Se solicitan los primeros tres prototipos.
-- **Julio de 1940:** La RLM ordena 20 prototipos del P.1065.
-- **Febrero de 1941:** Comienza la construcción del Me 262 V1.
-- **18 de abril de 1941:** Primer vuelo del Me 262 V1 con motor de pistón Jumo 210G, pilotado por Fritz Wendel.
-- **25 de marzo de 1942:** Primer intento de vuelo con motores BMW 003; ambos fallan y Wendel aterriza usando solo el motor de pistón.
-- **18 de julio de 1942:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/07/18/primer-vuelo-messerschmitt-me262-v3.html" style="color: #315fea; text-decoration: none;">Primer vuelo del prototipo Messerschmitt Me 262 V3</a>, ya equipado con motores Junkers Jumo 004 y plenamente propulsado a reacción.
-- **Abril de 1944:** El Me 262 entra en servicio operativo con la Luftwaffe.
-- **Mayo de 1945:** Fin de la guerra en Europa; se capturan numerosos Me 262 por los Aliados.
+La historia del Me 262 requiere separar el primer vuelo del V1 y las pruebas de propulsión a reacción realizadas después con distintos prototipos.
 
-### El primer vuelo del 18 de abril de 1941: detalles técnicos y humanos
-
-El 18 de abril de 1941 no fue el debut del primer caza a reacción del mundo, sino el primer paso en su tortuoso desarrollo.
-
-### La aeronave: Me 262 V1 (PC+UA)
-
-El primer prototipo era un diseño avanzado para su época: alas en flecha (inicialmente ligeras, luego acentuadas), fuselaje aerodinámico y dos góndolas bajo las alas para los futuros motores a reacción. Como los BMW 003 no estaban listos, los ingenieros instalaron un motor de pistón Junkers Jumo 210G de 700 hp en el morro, impulsando una hélice de dos palas. El tren de aterrizaje era convencional (rueda de cola), no triciclo como en la mayoría de los jets posteriores.
-
-### El piloto: Fritz Wendel
-
-Friedrich "Fritz" Wendel (1915-1975) fue el piloto de pruebas jefe de Messerschmitt. En 1939 había batido el récord mundial de velocidad a bordo de un Me 209, alcanzando 755 km/h. Su experiencia y sangre fría serían determinantes para el éxito del programa Me 262.
-
-### El vuelo
-
-Según el informe de vuelo Nº 496/1, clasificado como secreto en su momento, Wendel despegó tras una carrera de aproximadamente 600-700 metros. El motor Jumo 210G, sobrecalentado por pruebas previas en tierra, mostró problemas de temperatura: el agua de refrigeración hervía inmediatamente después del despegue y la temperatura del aceite superó los límites permitidos (92°C). Wendel voló con potencia reducida para no dañar el motor, alcanzando una velocidad máxima de 400 km/h.
-
-A pesar de los problemas, Wendel evaluó positivamente la estabilidad de la aeronave. Señaló que la respuesta a los mandos era buena y que las características de vuelo a baja velocidad eran aceptables: con flaps retraídos, la aeronave comenzaba a tambalear a 170-175 km/h, y con flaps extendidos, a 130 km/h.
-
-El Me 262 V1 realizó un total de 47 vuelos con el motor de pistón, acumulando más de 20 horas de vuelo, antes de ser equipado con los BMW 003 en septiembre de 1941.
-
-### El intento fallido del 25 de marzo de 1942
-
-El 25 de marzo de 1942, Wendel intentó el primer vuelo con propulsión a reacción. El V1 mantenía el Jumo 210G en el morro por seguridad. Ambos BMW 003 fallaron poco después del despegue debido a la rotura de los álabes del compresor. Solo gracias al motor de pistón, Wendel pudo completar un circuito y aterrizar de vuelta en Augsburg. Este incidente demostró la sabiduría de mantener el motor de pistón como respaldo.
-
-### El verdadero primer vuelo a reacción
-
-El 18 de julio de 1942, el prototipo Me 262 V3, equipado con dos motores Junkers Jumo 004 (que demostraron ser más confiables que los BMW), realizó su primer vuelo exitoso con propulsión a chorro, pilotado nuevamente por Fritz Wendel.
+- **1938–1939:** Messerschmitt prepara la propuesta P.1065 y recibe el encargo de desarrollar un caza bimotor alrededor de las unidades BMW.
+- **1940:** se construyen los primeros prototipos; las demoras de la planta motriz impiden que el V1 salga al aire con los turborreactores previstos.
+- **18 de abril de 1941:** Fritz Wendel pilota el V1 en su primer vuelo. Un motor Jumo de pistón proporciona el empuje y permite comprobar la célula.
+- **25 de marzo de 1942:** Fritz Wendel prueba en vuelo los BMW P.3302, motores experimentales precursores del BMW 003, instalados en el V1. La versión habitual describe la pérdida de ambos reactores y el regreso con ayuda del Jumo 210G; Flug Revue, al analizar el informe 692/12, cuestiona esa secuencia porque el documento no menciona el motor de pistón. El desacuerdo queda abierto (véase nota).
+- **18–19 de julio de 1942:** el V3 vuela con dos Jumo 004. La RAF, el National Museum of the U.S. Air Force y Flug Revue dan el día 18; el Smithsonian sitúa el primer despegue con reacción el 19. La diferencia de fecha queda abierta (véase nota).
+- **1944:** el tipo comienza a operar con unidades de la Luftwaffe. Su despliegue queda condicionado por la disponibilidad de combustible, pilotos y aeródromos.
+- **1945:** los Aliados capturan y estudian aviones y documentos del programa; el conflicto termina antes de que el Me 262 pueda alterar el equilibrio estratégico.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Hito tecnológico:** El Me 262 demostró las ventajas del vuelo a reacción: velocidad superior (unos 900 km/h), mayor tasa de ascenso y capacidad de operar a mayor altitud que cualquier caza de pistón contemporáneo.
+Los primeros ensayos permitieron que el equipo de Messerschmitt desarrollara la célula mientras BMW y Junkers trabajaban en sus motores. La separación de tareas aceleró algunas pruebas, pero no eliminó el cuello de botella: el avión no podía cumplir su función de caza hasta disponer de dos turborreactores fiables y producirlos en número suficiente.
 
-- **Cambio en el diseño de cazas:** El éxito del Me 262 (a pesar de su llegada tardía) demostró que el futuro de la aviación de combate era a reacción. Todos los países desarrollaron sus propios jets después de la guerra, basándose en la experiencia alemana.
+En combate, la velocidad del Me 262 complicó la intercepción por cazas de pistón y obligó a los Aliados a adaptar sus tácticas, especialmente durante las fases de aterrizaje y despegue. Sin embargo, su influencia operacional fue limitada por la cantidad de aparatos disponibles, el desgaste de las turbinas, la escasez de combustible y las decisiones de mando. La idea de que podía revertir por sí solo la guerra exagera lo que un aparato avanzado podía conseguir en una economía sometida a bombardeos y restricciones.
 
-- **Influencia en los Aliados:** Los Me 262 capturados fueron estudiados extensamente por Estados Unidos, la Unión Soviética y el Reino Unido. El diseño de alas en flecha influyó en jets de posguerra como el F-86 Sabre y el MiG-15.
-
-- **Limitaciones operativas:** A pesar de su superioridad técnica, el Me 262 llegó demasiado tarde y en muy pocas unidades (aproximadamente 1.430 construidas) para cambiar el curso de la guerra. Sufrió además por la falta de combustible, pilotos entrenados y el ataque aliado a sus bases.
+Tras la contienda, ejemplares capturados fueron trasladados a Estados Unidos, el Reino Unido y la Unión Soviética para evaluación técnica. Sus datos se incorporaron al estudio de la aviación a reacción, junto con los de otros prototipos alemanes y aliados.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El Messerschmitt Me 262 es reconocido universalmente como el primer caza a reacción operativo del mundo. Aunque su primer vuelo fue modesto, con un motor de pistón, ese 18 de abril de 1941 marcó el comienzo de una nueva era en la aviación militar.
+El Me 262 suele describirse como el primer caza a reacción operativo. Esa definición se refiere a su entrada en servicio, no al primer avión que voló con un reactor ni al ensayo inicial del prototipo V1. Precisar las etapas evita fundir en una sola efeméride hitos separados por más de un año.
 
-Hoy, solo unos pocos Me 262 originales sobreviven en museos de todo el mundo. El National Museum of the United States Air Force en Dayton, Ohio, posee un ejemplar del Me 262A Schwalbe. También se han construido réplicas modernas propulsadas por motores General Electric J85, que vuelan en exhibiciones aéreas.
-
-El Me 262 sigue siendo un símbolo del avance tecnológico alemán durante la Segunda Guerra Mundial, así como un recordatorio de cómo la innovación puede ser frenada por decisiones políticas y limitaciones industriales.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre las fechas del primer vuelo:</strong> Existen tres fechas clave en la historia del Me 262:</p>
-<ul>
-  <li><strong>18 de abril de 1941:</strong> Primer vuelo del prototipo V1 con motor de pistón Junkers Jumo 210G (sin motores a reacción).</li>
-  <li><strong>25 de marzo de 1942:</strong> Primer intento de vuelo con motores BMW 003, que fallaron; el piloto aterrizó usando el motor de pistón de respaldo.</li>
-  <li><strong>18 de julio de 1942:</strong> Primer vuelo exitoso con propulsión a reacción, con el prototipo V3 equipado con motores Junkers Jumo 004.</li>
-</ul>
-<p>La efeméride del 18 de abril de 1941 conmemora el primer vuelo del programa Me 262, aunque no haya sido con propulsión a chorro. Esa es la fecha que figura en todas las fuentes históricas como la del "primer vuelo" del avión.</p>
-</div>
+Hoy sobreviven ejemplares en museos y colecciones, entre ellos uno conservado por el National Museum of the United States Air Force y otro perteneciente al Smithsonian National Air and Space Museum. El avión sigue atrayendo interés por su velocidad y configuración, pero también permite observar la distancia entre una innovación de laboratorio y un sistema de armas que pueda mantenerse y producirse.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -143,15 +102,24 @@ El Me 262 sigue siendo un símbolo del avance tecnológico alemán durante la Se
     <li><a href="https://en.wikipedia.org/wiki/Fritz_Wendel" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Fritz Wendel (piloto de pruebas)</a></li>
     <li><a href="https://warhistory.org/@msw/article/me-262-schwalbe-i" style="color: #315fea; text-decoration: none;">WarHistory.org - Me 262 Schwalbe I</a></li>
     <li><a href="https://www.flugrevue.de/klassiker/so-erlebten-testpiloten-den-strahljaeger-messerschmitt-me-262/" style="color: #315fea; text-decoration: none;">Flug Revue - So erlebten Testpiloten die Messerschmitt Me 262 (en alemán)</a></li>
-  </ul>
+      <li><a href="https://airandspace.si.edu/collection-objects/messerschmitt-me-262-a-1a-schwalbe-swallow/nasm_A19600328000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum – Messerschmitt Me 262 A-1a Schwalbe, ficha de colección</a></li>
+    <li><a href="https://www.raf.mod.uk/what-we-do/centre-for-air-and-space-power-studies/aspr/apr-vol4-iss2-4-pdf/" style="color: #315fea; text-decoration: none;">RAF Centre for Air and Space Power Studies – “The Messerschmitt 262 Jet Fighter: Missed Opportunity or Impossible Dream?” (PDF)</a></li>
+</ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+<div class="note-box">
+<p><strong>Nota documental:</strong> Para el ensayo del V1 del 25 de marzo de 1942, el estudio del RAF Centre for Air and Space Power Studies y WarHistory.org describen los BMW P.3302 (antecesores del BMW 003) apagándose y el regreso con el Jumo 210G. En cambio, Flug Revue (2022), al examinar el informe de vuelo 692/12, observa que el documento no menciona el motor de pistón y cuestiona esa reconstrucción. Se conservan ambas versiones sin adjudicarlas.</p>
+<p>Para el primer vuelo del V3 con Jumo 004, el National Museum of the U.S. Air Force, la RAF y Flug Revue indican el 18 de julio de 1942; la ficha del Smithsonian National Air and Space Museum indica el 19 de julio para el primer despegue propulsado por reactores. La discrepancia de un día queda abierta. La referencia al Me 262 como primer caza a reacción operativo describe su entrada en servicio, no uno de estos vuelos de prueba.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-
-- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), National Museum of the USAF, Flug Revue, WarHistory.org
-- **Discrepancias resueltas:** Se ha aclarado la diferencia entre el primer vuelo con motor de pistón (18 de abril de 1941) y el primer vuelo con propulsión a reacción exitoso (18 de julio de 1942). También se ha documentado el intento fallido del 25 de marzo de 1942.
-- **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Timestamp de verificación:** 2026-10-05 12:13:57 CST
+- **Fuentes primarias/institucionales consultadas:** National Museum of the U.S. Air Force; Smithsonian National Air and Space Museum; RAF Centre for Air and Space Power Studies.
+- **Fuentes secundarias de contraste:** Flug Revue; WarHistory.org; Wikipedia (EN/ES).
+- **Discrepancias:** quedan abiertas la lectura del vuelo del V1 del 25 de marzo de 1942 (informe 692/12 frente al relato con Jumo 210G auxiliar) y la fecha del primer vuelo a reacción del V3 (18/19 de julio de 1942).
+- **Nivel de confianza:** Alto para el vuelo inicial del V1; medio para la secuencia y fecha de las pruebas a reacción.
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

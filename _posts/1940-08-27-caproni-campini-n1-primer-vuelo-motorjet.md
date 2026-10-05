@@ -66,7 +66,7 @@ Cuando el N.1 voló, Italia llevaba dos meses en guerra. El vuelo se anunció co
 
 ## Desarrollo Cronológico
 
-- **Octubre de 1910:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1886/06/07/nacimiento-henry-coanda-pionero-aerodinamica.html" style="color: #315fea; text-decoration: none;">Henri Coandă, nacido en 1886</a>, expone en el Salón de París un aparato con *turbo-propulseur*, primer avión de tamaño real concebido para propulsión por reacción. No consta que llegara a volar.
+- **Octubre de 1910:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1886/06/07/nacimiento-henry-coanda-pionero-aerodinamica.html" style="color: #315fea; text-decoration: none;">Henri Coandă, nacido en 1886</a>, presenta en el Salón de París su sistema *turbo-propulseur* y un aparato de demostración sin hélice. Las fuentes discuten si el prototipo llegó a despegar; la nota conserva esa diferencia.
 - **1931:** Campini presenta a la Regia Aeronautica su informe sobre el *termojet*.
 - **Abril de 1932:** demostración en Venecia de una embarcación propulsada por chorro.
 - **1934:** la Regia Aeronautica aprueba dos prototipos y un fuselaje de ensayos.
@@ -98,7 +98,7 @@ Ochenta y seis años después, el Caproni Campini N.1 se recuerda menos por lo q
 
 Aun así, el aparato voló, transportó correo y llevó pasajero, cosas que ningún reactor alemán o británico hizo en aquellas fechas. Fue el primer avión a reacción del mundo en volar con dos personas a bordo y el primero en trasladar correo aéreo.
 
-Un ejemplar completo se conserva en el Museo Storico dell'Aeronautica Militare de Vigna di Valle, junto al lago de Bracciano. El fuselaje empleado en los ensayos estáticos se exhibe en el Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci de Milán. Del otro prototipo se perdió el rastro en Inglaterra a finales de los años cuarenta.
+Una célula del avión se conserva en la colección aeronáutica de Vigna di Valle, junto al lago de Bracciano. El fuselaje empleado en los ensayos estáticos se exhibe en el Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci de Milán. Del otro prototipo se perdió el rastro en Inglaterra a finales de los años cuarenta.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -117,15 +117,16 @@ Un ejemplar completo se conserva en el Museo Storico dell'Aeronautica Militare d
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Sobre la fecha, la práctica totalidad de las fuentes sitúa el primer vuelo el 27 de agosto de 1940; solo alguna publicación aislada da el 28. Sobre la designación, el aparato recibió oficialmente el nombre <em>N.1</em>, mientras que las siglas <em>C.C.1</em> y <em>C.C.2</em> se generalizaron después de la guerra y no constan en documentos de la época, lo que explica que una misma máquina aparezca citada de varias formas. Las fuentes tampoco coinciden en qué ejemplar se conserva: la bibliografía italiana identifica el conservado en Vigna di Valle como el segundo prototipo (n.º de construcción 4850, matrícula MM488) y sitúa el desguace del primero en Inglaterra hacia 1949, mientras que otras publicaciones y el propio inventario del museo lo rotulan como MM487. Por último, conviene precisar el alcance del hito: el N.1 empleaba un motorreactor, en el que un motor de pistón acciona el compresor, y no un turborreactor como el del Heinkel He 178. En cuanto al Coandă-1910, su autor sostuvo en los años cincuenta que había volado en diciembre de 1910 y que su motor quemaba combustible en el flujo de aire; los historiadores Charles Harvard Gibbs-Smith y Frank H. Winter refutaron ambas afirmaciones por ausencia de cualquier constancia contemporánea, y hoy se acepta que el aparato fue el primer avión de tamaño real concebido para propulsión por reacción, sin que conste que llegara a volar.</p>
+<p><strong>Nota documental:</strong> Las fuentes no son uniformes sobre la fecha exacta del vuelo: la ficha del museo tecnológico de Milán y la mayoría de las reseñas dan el 27 de agosto de 1940; alguna publicación aislada indica el día 28. El título conserva la fecha de la fila canónica T21, pero el desacuerdo se registra sin zanjarlo. También varían la nomenclatura retrospectiva —N.1, C.C.1 o C.C.2— y la identificación del aparato preservado: publicaciones aeronáuticas mencionan el segundo prototipo, construcción 4850/MM488, mientras otras fichas lo asocian a MM487. No se elige una serialización en esta nota.</p>
+<p>El vuelo de 1910 atribuido por Henri Coandă a su demostrador también permanece discutido. En declaraciones posteriores, Coandă afirmó que el aparato había volado; los historiadores Charles Harvard Gibbs-Smith y Frank H. Winter señalaron la ausencia de documentación contemporánea que respalde ese episodio y discreparon con la explicación técnica. El texto trata el aparato como antecedente de diseño, no como vuelo comprobado; no resuelve la controversia.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 08:13:24 CST
-- **Fuentes primarias/institucionales consultadas:** Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci (ficha del fuselaje de ensayos), Museo Storico dell'Aeronautica Militare de Vigna di Valle (inventario de colección).
-- **Fuentes secundarias de contraste:** Wikipedia (EN e IT), Aviation Museum Europe, Wikimedia Commons (ficha de licencia y autoría de la imagen).
-- **Discrepancias resueltas:** La fecha se fija el 27 de agosto de 1940, mayoritaria en las fuentes, frente al 28 que da alguna publicación aislada. La identificación del ejemplar conservado en Vigna di Valle difiere entre la bibliografía italiana (segundo prototipo, MM488) y otras fuentes (MM487); se consigna la divergencia sin resolverla. La designación N.1 se antepone a las siglas C.C.1 y C.C.2, posteriores a la guerra. Sobre el Coandă-1910 se adopta la posición de Gibbs-Smith y Winter frente a las afirmaciones que el propio Coandă formuló en los años cincuenta.
-- **Nivel de confianza:** Alto en la fecha, el lugar, el piloto, la arquitectura del motor y el carácter del hito. Medio en la identificación de los ejemplares conservados.
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Timestamp de verificación:** 2026-10-05 12:13:57 CST
+- **Fuentes primarias/institucionales consultadas:** Museo Nazionale della Scienza e della Tecnologia Leonardo da Vinci; inventario del Museo Storico dell'Aeronautica Militare.
+- **Fuentes secundarias de contraste:** Aviation Museum Europe; Wikipedia (EN/IT); ficha de Wikimedia Commons para la imagen.
+- **Discrepancias:** se mantienen en la nota las diferencias sobre el ejemplar conservado, la nomenclatura histórica y el alcance del antecedente Coandă.
+- **Nivel de confianza:** Medio.
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

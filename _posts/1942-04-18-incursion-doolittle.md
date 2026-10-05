@@ -12,119 +12,83 @@ image: 1942-04-18-incursion-doolittle.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1942-04-18-incursion-doolittle.webp" alt="B-25 despegando del USS Hornet">
-  <figcaption class="post-caption">EE. UU./Japón: El Teniente Coronel James «Jimmy» Doolittle realiza un despegue a toda potencia en un bombardero medio B-25 Mitchell desde la cubierta del USS Hornet, a 1.046 km de Japón, para llevar a cabo la «incursión Doolittle» contra Tokio, el 18 de abril de  1942. (Foto: Pictures from History/Universal Images Group a través de Getty Images).</figcaption>
+  <figcaption class="post-caption">EE. UU./Japón: El Teniente Coronel James «Jimmy» Doolittle realiza un despegue a toda potencia en un bombardero medio B-25 Mitchell desde la cubierta del USS Hornet, para llevar a cabo la «incursión Doolittle» contra Tokio, el 18 de abril de 1942. (Foto: Pictures from History/Universal Images Group a través de Getty Images).</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 18 de abril de 1942, dieciséis bombarderos B-25 Mitchell despegaron desde la cubierta del portaaviones USS Hornet (CV-8) para realizar el primer bombardeo aéreo estadounidense sobre Japón. La incursión, liderada por el Teniente Coronel James H. "Jimmy" Doolittle, fue concebida como una respuesta directa al ataque japonés contra Pearl Harbor del 7 de diciembre de 1941. Aunque el daño material fue limitado, la misión demostró que el archipiélago japonés era vulnerable a ataques aéreos, elevó la moral estadounidense y provocó profundas consecuencias estratégicas en la guerra del Pacífico.</p>
+<p>El 18 de abril de 1942, dieciséis bombarderos B-25 Mitchell despegaron del portaaviones USS Hornet para atacar objetivos en Japón. La operación, dirigida por James H. «Jimmy» Doolittle, fue el primer bombardeo estadounidense del archipiélago japonés. Un patrullero enemigo avistó a la fuerza antes de alcanzar el punto previsto, y el lanzamiento se adelantó, ampliando la distancia que las tripulaciones debían cubrir. El daño material fue limitado, pero la incursión elevó la moral en Estados Unidos y llevó a Japón a reforzar la defensa de sus islas.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-
-- **Fecha del ataque:** 18 de abril de 1942
-- **Lugar:** Tokio, Yokohama, Nagoya, Kobe, Osaka y Yokosuka, Japón
-- **Aeronaves:** 16 North American B-25B Mitchell (bombarderos medios)
-- **Portaaviones:** USS Hornet (CV-8) (lanzamiento); USS Enterprise (CV-6) (escolta)
-- **Comandante de la misión:** Teniente Coronel James H. "Jimmy" Doolittle (USAAF)
-- **Comandante del grupo naval:** Vicealmirante William F. "Bull" Halsey Jr.
-- **Tripulaciones:** 80 aviadores (52 oficiales, 28 suboficiales y soldados)
-- **Punto de lanzamiento:** Aprox. 1.046 km (650 millas) al este de Tokio
-- **Objetivos:** Instalaciones militares e industriales (estrictamente prohibido bombardear el Palacio Imperial)
-- **Bajas estadounidenses:** 3 muertos durante la misión (dos ahogados al caer su avión al mar, uno fallecido al saltar en paracaídas); 8 capturados por los japoneses (de los cuales 3 fueron ejecutados, 1 murió por enfermedad en cautiverio y 4 fueron liberados al final de la guerra)
-- **Bajas japonesas:** Aprox. 50 muertos, 400 heridos
-- **Consecuencias en China:** Aprox. 250.000 civiles chinos asesinados por el ejército japonés en represalia
+- **Fecha:** 18 de abril de 1942.
+- **Fuerza aérea:** dieciséis bombarderos medios North American B-25B Mitchell, cada uno con cinco tripulantes.
+- **Portaaviones de lanzamiento:** USS *Hornet* (CV-8); el USS *Enterprise* (CV-6) proporcionó cobertura naval junto a otros buques.
+- **Comandante de la misión aérea:** Teniente Coronel James H. Doolittle, oficial de aviación del Ejército estadounidense.
+- **Comandante de la fuerza naval:** Vicealmirante William F. Halsey.
+- **Objetivos:** instalaciones militares e industriales en Tokio y otras ciudades japonesas; la orden prohibía atacar el Palacio Imperial.
+- **Punto de salida:** más de mil kilómetros al este de Japón, después de que un patrullero transmitiera una alerta.
+- **Destino de las tripulaciones:** la mayoría intentó alcanzar territorio chino; un avión aterrizó en la Unión Soviética.
+- **Resultado inmediato:** daño físico limitado, gran repercusión psicológica y represalias japonesas en China.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-El 7 de diciembre de 1941, Japón atacó sorpresivamente la base naval de Pearl Harbor en Hawái, destruyendo gran parte de la flota estadounidense del Pacífico y arrastrando a Estados Unidos a la Segunda Guerra Mundial. En los meses siguientes, las fuerzas japonesas avanzaron imparablemente por el sudeste asiático y el Pacífico. La moral estadounidense estaba por los suelos. El presidente Franklin D. Roosevelt exigió a sus comandantes militares una respuesta inmediata que demostrara a Japón y al mundo que Estados Unidos podía golpear el corazón del Imperio japonés.
+El ataque japonés a Pearl Harbor, el 7 de diciembre de 1941, llevó a Estados Unidos a la guerra y dejó a la población estadounidense a la espera de una respuesta. En los meses siguientes, Japón avanzó por el Pacífico y el sudeste asiático, mientras la flota estadounidense reorganizaba sus fuerzas. El gobierno buscaba una acción que mostrara que el territorio japonés podía ser alcanzado, aun cuando no estuviera disponible una campaña convencional desde bases cercanas.
 
 ### Entorno social
 
-La sociedad estadounidense, conmocionada por Pearl Harbor, necesitaba un símbolo de esperanza y resistencia. La incursión Doolittle fue presentada por la prensa como una hazaña heroica, y sus tripulantes se convirtieron en héroes nacionales. Doolittle, que creía que la misión había sido un fracaso y esperaba ser sometido a consejo de guerra, recibió en cambio la Medalla de Honor y fue ascendido a general de brigada.
+La propuesta respondía a una necesidad militar y a una demanda pública de iniciativa. El presidente Franklin D. Roosevelt pidió a sus mandos explorar una operación de largo alcance, y el éxito se mediría tanto por el efecto sobre la moral como por el daño a instalaciones. Las tripulaciones sabían que se trataba de una misión de ida sin una pista amiga prevista para el regreso inmediato; muchas dependerían de la ayuda de civiles chinos.
 
 ### Entorno tecnológico
 
-El desafío técnico era enorme: ningún bombardero terrestre había despegado jamás de un portaaviones. La solución fue utilizar el B-25 Mitchell, un bimotor mediano con suficiente alcance (2.400 km) y capacidad de carga (900 kg de bombas). Se le instalaron tanques de combustible adicionales, se redujo su armamento defensivo (solo dos ametralladoras calibre .50 y una .30) y se pintaron barras de escoba en la cola para simular ametralladoras. 
+Un bombardero terrestre podía transportar más combustible y carga que un avión embarcado, pero su envergadura y tren de aterrizaje complicaban el despegue desde una cubierta corta. El B-25 fue seleccionado por su tamaño relativamente compacto y su alcance. Para la misión se aligeraron equipos, se añadieron depósitos de combustible y se modificó la carga de armas. Las tripulaciones practicaron despegues cortos en una pista de entrenamiento que reproducía las dimensiones de un portaaviones.
+
+La tarea imponía un equilibrio estrecho entre distancia, bombas y margen de combustible. Los aviones no estaban diseñados para operar de manera habitual desde portaaviones; la cubierta del *Hornet* se convirtió en una pista de lanzamiento, no en una base a la que los bombarderos pudieran regresar después del ataque.
+
+El despegue dependía también de la maniobra del buque y de la separación entre aparatos. El portaaviones debía orientar su cubierta al viento para ayudar a los B-25 a alcanzar velocidad, mientras las tripulaciones calculaban combustible para una travesía que no contemplaba volver al punto de partida. Al adelantarse el lanzamiento, se redujo aún más el margen disponible para completar el tramo hasta las zonas de aterrizaje previstas.
 
 ### Entorno cultural
 
-La incursión combinó por primera vez de manera masiva fuerzas del Ejército (USAAF) y la Armada (US Navy) en una operación conjunta. El Capitán de Navío Francis Low fue quien propuso la idea al observar B-25 despegando desde una pista con forma de cubierta de portaaviones. El Teniente Henry L. Miller, de la Armada, entrenó a los pilotos del Ejército en despegues ultracortos (menos de 150 metros).
+La misión requirió coordinación entre la Armada y el cuerpo de aviación del Ejército, que utilizaban mandos y procedimientos propios. El capitán de navío Francis Low planteó que bombarderos medianos podían despegar de un portaaviones si lo hacían desde suficiente longitud de cubierta. Henry L. Miller, instructor naval, enseñó a las tripulaciones a controlar el B-25 durante la aceleración y la salida.
+
+La prensa presentó a los aviadores como héroes antes de conocer el destino de cada tripulación. La propia misión se mantuvo en secreto y su relato público se construyó después, a partir de partes militares, recuerdos de los participantes y los efectos sufridos por la población en China.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **Enero de 1942:** El Capitán Francis Low propone la idea de bombardear Japón con B-25 desde un portaaviones.
-- **Febrero de 1942:** El Teniente Coronel Jimmy Doolittle es seleccionado para planificar y liderar la misión.
-- **Marzo de 1942:** Entrenamiento intensivo de las tripulaciones en Eglin Field, Florida, en despegues desde pistas de 150 metros.
-- **31 de marzo - 1 de abril de 1942:** Los 16 B-25 son cargados en el USS Hornet en Alameda, California.
-- **2 de abril de 1942:** El Hornet zarpa con destino al Pacífico central.
-- **13 de abril de 1942:** El Hornet se encuentra con el USS Enterprise y su Task Force 16 al mando del Almirante Halsey.
-- **18 de abril de 1942, 07:38:** La fuerza es avistada por el barco patrullero japonés Nitto Maru Nº 23, que es hundido, pero alcanza a transmitir una alerta por radio.
-- **18 de abril de 1942, 08:20:** Doolittle despega en el primer B-25. En la siguiente hora despegan los otros 15.
-- **18 de abril de 1942, aprox. 14:00:** Los bombarderos alcanzan Japón y atacan objetivos en Tokio, Yokohama, Nagoya, Kobe, Osaka y Yokosuka.
-- **18 de abril de 1942, noche:** Las tripulaciones intentan llegar a las zonas seguras en China. La mayoría se estrella o es abandonada en paracaídas.
-- **15 de octubre de 1942:** Ejecución de tres tripulantes capturados por los japoneses (Hallmark, Farrow y Spatz).
-- **Diciembre de 1943:** Muere en cautiverio el cuarto tripulante capturado (Meder).
-- **Agosto de 1945:** Los cuatro tripulantes sobrevivientes son liberados.
+La fuerza se preparó para un lanzamiento más cercano a Japón de lo que exigía una operación normal desde una cubierta de portaaviones.
 
-### La Incursión: detalles clave
-
-La incursión del 18 de abril de 1942 fue una operación compleja que combinó audacia, improvisación técnica y un riesgo extremo. Desde el despegue anticipado debido al avistamiento por un patrullero japonés, hasta los aterrizajes de emergencia en China y la Unión Soviética, cada fase de la misión presentó desafíos únicos que pusieron a prueba la pericia de las tripulaciones y la solidez del plan concebido por Doolittle.
-
-### El despegue anticipado
-
-El plan original contemplaba lanzar los bombarderos a 800 km (500 millas) de la costa japonesa. Sin embargo, a las 07:38 del 18 de abril, el destructor USS Nashville detectó y hundió al patrullero Nitto Maru Nº 23, que había transmitido una alerta por radio a Tokio. Temiendo un ataque aéreo japonés contra el grupo naval (que incluía a los dos únicos portaaviones operativos de la flota del Pacífico), el Almirante Halsey ordenó el lanzamiento inmediato, a 1.046 km (650 millas) de Japón, 10 horas antes y 250 millas más lejos de lo previsto.
-
-### Los objetivos y la ejecución
-
-Las tripulaciones tenían órdenes estrictas de no bombardear civiles ni el Palacio Imperial. Los objetivos eran exclusivamente militares e industriales: acerías, refinerías, astilleros, fábricas de municiones y depósitos de combustible. Cada B-25 llevaba cuatro bombas de 227 kg (500 libras), tres de alto poder explosivo y una incendiaria. Algunas llevaban medallas de "amistad" otorgadas por Japón antes de la guerra, atadas a las bombas como mensaje simbólico.
-
-Los bombarderos encontraron poca resistencia antiaérea y solo algunos cazas. Un B-25 dañó al portaaviones Ryuho, en construcción en Yokosuka, retrasando su finalización. La mayoría de los aviones logró impactar sus objetivos.
-
-### Las bajas y el cautiverio
-
-De los 80 tripulantes, tres murieron durante la misión: dos ahogados al caer su avión al mar y uno al saltar en paracaídas sobre China. Ocho fueron capturados por los japoneses. De ellos, el Teniente William G. Farrow, el Teniente Dean E. Hallmark y el Soldado Harold A. Spatz fueron ejecutados el 15 de octubre de 1942. El Teniente Robert J. Meder murió de enfermedad el 1 de diciembre de 1943. Los cuatro restantes (Teniente Robert L. Hite, Teniente George Barr, Teniente Chase Nielsen y Cabo Jacob DeShazer) sobrevivieron en cautiverio y fueron liberados en agosto de 1945.
-
-### El avión que aterrizó en Rusia
-
-Un B-25, pilotado por el Capitán Edward J. York, no pudo llegar a China y aterrizó en Vladivostok, en la Unión Soviética. Como la URSS mantenía un pacto de neutralidad con Japón, el avión fue confiscado y la tripulación internada durante 13 meses. Finalmente escaparon a través de Irán y regresaron a Estados Unidos.
-
-### Las represalias contra China
-
-En los tres meses siguientes a la incursión, el ejército japonés lanzó la campaña de Zhejiang-Jiangxi, masacrando a aproximadamente 250.000 civiles chinos en las zonas que habían ayudado a los pilotos estadounidenses a escapar. Unas 23.000 personas fueron ejecutadas en represalia directa por la ayuda prestada a los Doolittle Raiders.
+- **Enero de 1942:** Francis Low propone la idea de usar bombarderos B-25 para atacar el archipiélago desde un portaaviones.
+- **Marzo de 1942:** las tripulaciones entrenan en Eglin Field, Florida, con despegues cortos y modificaciones de sus aeronaves.
+- **31 de marzo–1 de abril:** los B-25 se cargan a bordo del *Hornet* en Alameda, California; el portaaviones inicia su travesía al Pacífico.
+- **13 de abril:** el *Hornet* se reúne con el *Enterprise* y los buques de la fuerza de cobertura dirigida por Halsey.
+- **18 de abril, por la mañana:** un patrullero japonés avista la formación y transmite una alerta. Ante el riesgo de ser atacados, Halsey ordena el lanzamiento antes de lo planeado.
+- **18 de abril, desde las 08:20:** Doolittle despega primero; los otros quince B-25 abandonan la cubierta durante la hora siguiente y se dirigen hacia sus blancos asignados.
+- **18 de abril, tarde y noche:** los aviones atacan objetivos en varias ciudades y continúan hacia China o la Unión Soviética. Las tripulaciones afrontan falta de combustible, mal tiempo y aterrizajes de emergencia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Impacto moral en EE. UU.:** La noticia de la incursión elevó drásticamente la moral estadounidense. Doolittle, que creía que la misión había sido un desastre y esperaba un consejo de guerra, fue recibido como un héroe y recibió la Medalla de Honor.
+Los bombarderos alcanzaron instalaciones industriales, portuarias y militares, pero la operación no causó daños estratégicos comparables con los bombardeos posteriores. Su principal efecto en Estados Unidos fue elevar la moral: la misión mostró que Japón no podía considerar invulnerable su territorio. En Japón, la incursión impulsó una revisión de la defensa aérea y dio nuevo peso a las propuestas de ampliar el perímetro defensivo en el Pacífico.
 
-- **Impacto estratégico en Japón:** La incursión demostró que el territorio japonés era vulnerable. El Almirante Isoroku Yamamoto, que ya había propuesto atacar Midway, utilizó la incursión para convencer al Estado Mayor de la Marina de la necesidad de esa operación. La Batalla de Midway (4-7 de junio de 1942) resultó en una derrota decisiva para Japón, que perdió cuatro portaaviones y cambió el curso de la guerra del Pacífico.
+La misión tuvo un alto coste humano. Varios aviones se estrellaron o fueron abandonados al agotarse el combustible; una tripulación aterrizó en territorio soviético y fue internada. Ocho aviadores quedaron en manos japonesas: tres fueron ejecutados, uno murió en cautiverio y cuatro sobrevivieron hasta su liberación. La historia de los demás dependió en buena medida de la ayuda de habitantes chinos.
 
-- **Redistribución de fuerzas japonesas:** La incursión obligó a Japón a destinar escuadrones de caza a la defensa del territorio nacional, debilitando sus fuerzas en otros frentes.
-
-- **Daño material limitado:** Aunque el daño a las instalaciones japonesas fue mínimo en comparación con los posteriores bombardeos con B-29, el efecto psicológico fue inmenso. Los japoneses no pudieron evitar que 16 bombarderos enemigos sobrevolaran su capital.
+La represalia japonesa en las regiones que facilitaron la huida de los aviadores causó una catástrofe civil. Una leyenda fotográfica del National Museum of the U.S. Air Force afirma que las fuerzas japonesas ejecutaron hasta 250.000 chinos en represalia por la incursión y la ayuda prestada a las tripulaciones. El artículo conserva esa cifra como estimación máxima atribuida a la institución, no como recuento de víctimas de un solo ataque aéreo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-La incursión Doolittle es recordada como una de las misiones más audaces de la Segunda Guerra Mundial. Demostró la capacidad de Estados Unidos para planificar y ejecutar operaciones complejas y arriesgadas. Jimmy Doolittle se convirtió en uno de los aviadores más célebres de la historia, y sus hombres, los "Doolittle Raiders", mantuvieron una tradición anual de reunión que continuó hasta 2013, cuando los últimos cuatro sobrevivientes (Richard Cole, Robert Hite, Edward Saylor y David Thatcher) decidieron poner fin a los encuentros.
+Los tripulantes fueron conocidos como los Doolittle Raiders. Sus reuniones anuales mantuvieron viva la memoria de una operación en la que la aviación embarcada y los bombarderos del Ejército trabajaron juntos de una forma inédita. En 2013, los cuatro Raiders que aún vivían acordaron cerrar la tradición del brindis por sus compañeros caídos; el último superviviente murió en 2019.
 
-El último Doolittle Raider falleció en 2019 a la edad de 103 años. La hazaña ha sido inmortalizada en el cine, con la película "Treinta segundos sobre Tokio" (1944) y en la más reciente "Pearl Harbor" (2001). El USS Hornet (CV-8), que lanzó a los Raiders, fue hundido en la Batalla de las Islas Santa Cruz el 27 de octubre de 1942, pero su nombre fue heredado por otro portaaviones, el USS Hornet (CV-12), que hoy es un museo en Alameda, California, donde se puede visitar una exhibición dedicada a los Doolittle Raiders.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria:</strong> La incursión Doolittle fue la primera operación en la que bombarderos terrestres despegaron de un portaaviones para atacar territorio enemigo. Sin embargo, no fue la primera incursión aérea sobre Japón. El 15 de abril de 1942, tres días antes, un hidroavión Consolidated PBY Catalina (con matrícula P-3) lanzado desde un submarino sobrevoló Tokio en una misión de reconocimiento fotográfico, pero no arrojó bombas. La incursión Doolittle fue la primera en arrojar bombas sobre territorio japonés. También es importante destacar que las bajas japonesas incluyeron civiles, ya que algunas bombas impactaron fuera de los objetivos militares debido a las condiciones adversas del vuelo.</p>
-</div>
+La incursión dejó una lección estratégica distinta de su balance de daños: una fuerza pequeña podía producir efectos políticos desproporcionados, aunque sus aeronaves no dispusieran de una ruta segura de regreso. También abrió una controversia duradera sobre la relación entre el éxito simbólico y el sufrimiento de la población china que ayudó a las tripulaciones.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -134,21 +98,31 @@ El último Doolittle Raider falleció en 2019 a la edad de 103 años. La hazaña
   <ul>
     <li><a href="https://en.wikipedia.org/wiki/Doolittle_Raid" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Doolittle Raid</a></li>
     <li><a href="https://es.wikipedia.org/wiki/Incursi%C3%B3n_Doolittle" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Incursión Doolittle</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196266/messerschmitt-me-262a-schwalbe/" style="color: #315fea; text-decoration: none;">National Museum of the U.S. Air Force - Doolittle Tokyo Raiders</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195853/escape-and-evasion-accounts/" style="color: #315fea; text-decoration: none;">National Museum of the U.S. Air Force – Escape and Evasion Accounts (Doolittle Raiders)</a></li>
     <li><a href="https://www.history.navy.mil/content/history/nhhc/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/halsey-doolittle-raid.html" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command - Halsey-Doolittle Raid</a></li>
     <li><a href="https://www.history.navy.mil:443/news-and-events/news/2023/nhm-041823.html" style="color: #315fea; text-decoration: none;">Navy History Matters - Doolittle Raid (April 18, 1942)</a></li>
     <li><a href="https://www.afmc.af.mil/News/Article-Display/Article/3364744/the-doolittle-raiders-remembering-the-mission" style="color: #315fea; text-decoration: none;">Air Force Materiel Command - The Doolittle Raiders: Remembering the Mission</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Jimmy_Doolittle" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Jimmy Doolittle</a></li>
-    <li><a href="https://pt.wikipedia.org/wiki/Ataque_Doolittle" style="color: #315fea; text-decoration: none;">Wikipedia (PT) - Ataque Doolittle</a></li>
-  </ul>
+      <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196211/doolittle-raid/" style="color: #315fea; text-decoration: none;">National Museum of the U.S. Air Force – Doolittle Raid</a></li>
+    <li><a href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-004/h-004-4.html" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command – H-004-4: The Doolittle Raid (“Shangri-La”)</a></li>
+    <li><a href="https://www.history.navy.mil/research/histories/ship-histories/danfs/t/thresher-i.html" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command – USS Thresher (SS-200), DANFS</a></li>
+    <li><a href="https://www.dvidshub.net/news/260304/doolittle-and-his-raiders-part-2-one-way-trip-mass-communication-specialist-2nd-class-charlotte-c-oliver-defense" style="color: #315fea; text-decoration: none;">Defense Media Activity (DVIDS) – Doolittle and His Raiders Part 2: A One-Way Trip</a></li>
+</ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+<div class="note-box">
+<p><strong>Nota documental:</strong> El NHHC describe la incursión como el primer ataque aéreo estadounidense a las islas principales japonesas y registra órdenes estrictas de no bombardear el Palacio Imperial. La historia naval oficial del USS <em>Thresher</em> atribuye al submarino la recopilación de datos meteorológicos y patrullas periscópicas frente a Honshu; no documenta el supuesto vuelo fotográfico de un PBY Catalina desde un submarino el 15 de abril. Al no localizar respaldo para esa versión, se omite sin negar otras tareas de reconocimiento naval.</p>
+<p>Las fuentes consultadas discrepan sobre la distancia del lanzamiento: el NHHC cifra la posición en unas 650 millas de Japón; DVIDS/Defense Media Activity consigna 650 millas náuticas. La leyenda de la imagen en esta copia omite el número y el cuerpo conserva solo una distancia superior a 1.000 km, sin adjudicar la diferencia.</p>
+<p>Sobre China, una leyenda fotográfica del National Museum of the U.S. Air Force afirma que las fuerzas japonesas ejecutaron hasta 250.000 chinos en represalia por la incursión y la ayuda prestada a las tripulaciones. El artículo conserva esa cifra como estimación máxima atribuida a la institución, no como recuento de víctimas de un solo ataque; la fuente consultada no ofrece un desglose temporal o geográfico más preciso.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-
-- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
-- **Fuentes primarias/institucionales consultadas:** Naval History and Heritage Command (.mil), Air Force Materiel Command (.mil), Wikipedia (EN/ES/PT), National Museum of the USAF
-- **Discrepancias resueltas:** Las fuentes coinciden en la fecha del 18 de abril de 1942. Existe una ligera variación en la distancia exacta del punto de lanzamiento (650-620 millas). Se ha priorizado la información del Naval History and Heritage Command (650 millas). También se ha aclarado la diferencia entre esta incursión y una misión de reconocimiento previa (15 de abril de 1942).
-- **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Timestamp de verificación:** 2026-10-05 12:13:57 CST
+- **Fuentes primarias/institucionales consultadas:** Naval History and Heritage Command (Halsey-Doolittle Raid, H-Gram 004-4 y ficha del USS Thresher); Navy History Matters; Air Force Materiel Command; National Museum of the U.S. Air Force; Defense Media Activity (DVIDS).
+- **Fuentes secundarias de contraste:** Wikipedia (EN/ES).
+- **Discrepancias:** se retiró la afirmación no respaldada por las fuentes consultadas sobre un PBY lanzado desde un submarino el 15 de abril; se conserva sin adjudicar la diferencia de 650 millas frente a 650 millas náuticas y se delimita la estimación institucional sobre las represalias en China.
+- **Nivel de confianza:** Medio.
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

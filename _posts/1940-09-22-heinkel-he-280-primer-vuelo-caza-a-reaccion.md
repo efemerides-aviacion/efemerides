@@ -19,76 +19,75 @@ image: 1940-09-22-heinkel-he-280-primer-vuelo-caza-a-reaccion.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 22 de septiembre de 1940, el primer prototipo del Heinkel He 280 realizó su primer vuelo desde la estación de pruebas de Rechlin. No voló con sus propios motores: los dos turborreactores HeS 8 que habrían de impulsarlo seguían en desarrollo, y en su lugar colgaban bajo el ala dos cuerpos aerodinámicos de lastre. Arrastrado por un Heinkel He 111, el aparato lo pilotó el ingeniero de vuelo Paul Bader, que tras la separación a 4.000 metros de altura aterrizó sin novedad en el campo de origen.</p>
-<p>Y era un caza. El He 280 fue el primero de la historia concebido desde su diseño como avión de caza a reacción, y seis meses después su segundo prototipo volaría bajo propulsión propia. Nunca llegaría a entrar en servicio —el ministerio de aviación del Reich abandonó el programa en marzo de 1943—, pero su primer vuelo precedió en más de un año al primer despegue a reacción del Messerschmitt Me 262, el caza que sí combatió, y sus ensayos dieron a la aviación el primer asiento eyectable.</p>
+<p>El 22 de septiembre de 1940, el Heinkel He 280 V1 salió al aire en un ensayo remolcado: sus motores a reacción aún no estaban listos, por lo que dos cuerpos aerodinámicos ocupaban su lugar bajo las alas. El vuelo demostró que la célula podía despegar, soltarse del avión remolcador y aterrizar. La estructura del He 280, concebida para operar con reactores, se convirtió en la primera de su clase en despegar; el programa no llegó al servicio, aunque ensayó soluciones que después se volverían habituales en la aviación de reacción.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-- **Fecha:** 22 de septiembre de 1940
-- **Lugar:** Erprobungsstelle Rechlin, estación de pruebas de la Luftwaffe (Pomerania, Reich)
-- **Aeronave:** Heinkel He 280 V1 (primer prototipo), marca de pruebas DL+AS
-- **Piloto:** Flugbaumeister Paul Bader (a bordo del He 280 V1)
-- **Piloto del remolcador:** Hans Deutschmann (Heinkel He 111)
-- **Propulsión durante el vuelo:** ninguna —dos cuerpos aerodinámicos de lastre en lugar de los dos turborreactores Heinkel HeS 8, aún en desarrollo
-- **Tipo de vuelo:** ensayo remolcado por un He 111; una vez soltado a 4.000 metros de altitud, el V1 aterrizó por sus propios medios
-- **Primer vuelo con motor:** 30 de marzo de 1941 —He 280 V2, piloto Fritz Schäfer, Rostock-Marienehe
-- **Propulsión definitiva:** dos turborreactores Heinkel HeS 8A (RLM 109-001), 750 kp (aproximadamente 7,4 kN) de empuje estático cada uno
-- **Envergadura:** 12,20 m · **Longitud:** 10,40 m · **Altura:** 3,06 m
-- **Armamento (proyecto):** tres cañones MG 151 de 20 mm
-- **Hito:** primer vuelo del primer caza a reacción: un avión concebido desde su diseño para la propulsión a chorro
+- **Fecha conmemorada:** 22 de septiembre de 1940.
+- **Aeronave:** Heinkel He 280 V1, primer prototipo del caza bimotor.
+- **Naturaleza del vuelo:** remolcado; el aparato no llevaba sus turborreactores operativos.
+- **Propulsión prevista:** dos Heinkel HeS 8 montados en góndolas bajo las alas.
+- **Piloto:** Paul Bader según el archivo de Heinkel y varias fuentes especializadas; otras publicaciones atribuyen el vuelo a Fritz Schäfer.
+- **Lugar:** la mayoría de las fuentes especializadas identifica la estación de pruebas de Rechlin; algunas sitúan el ensayo en Rostock-Marienehe.
+- **Remolcador:** un Heinkel He 111, con Hans Deutschmann citado como piloto en el relato más detallado.
+- **Alcance del hito:** ensayo de un caza preparado para reactores; no fue la primera aeronave impulsada por turborreactor ni un vuelo propulsado del He 280.
+- **Programa posterior:** el diseño llegó a la fase de vuelos propulsados, pero no alcanzó producción ni servicio operacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-En 1940, con la guerra sobre Gran Bretaña convertida en un combate de desgaste, la caza aérea de pistones rozaba los límites de su tecnología. En medio de esa coyuntura, un prototipo del Báltico salió al aire con algo que ningún caza del planeta tenía: un diseño concebido desde el primer día para la propulsión a chorro. Para ese primer vuelo, eso sí, voló sin motor.
+Al concluir los años treinta, varios fabricantes alemanes exploraban una generación de aviones que no dependería de hélices. Heinkel había apoyado el trabajo de Hans von Ohain y, tras el vuelo del He 178, decidió llevar la idea a un caza. El proyecto, iniciado bajo una designación interna previa al He 280, quedó dirigido por Robert Lusser.
 
 ### Entorno social
 
-La guerra contra Inglaterra lo dominaba todo. Una semana antes, el 15 de septiembre de 1940, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1940/09/15/dia-de-la-batalla-de-inglaterra.html" style="color: #315fea; text-decoration: none;">las formaciones de la Luftwaffe cayeron sobre Londres en el mayor ataque diurno de la guerra: la jornada que se convertiría en el Día de la Batalla de Inglaterra</a>, y Hitler acababa de posponer la Operación Sea Lion (León Marino), la invasión. En ese contexto, el Ministerio de Aviación del Reich (RLM) solo valoraba los cazas que se pudieran entregar en serie y enseguida: el Bf 109 y, de inmediato, el Fw 190. Un caza a reacción era una apuesta a largo plazo sin sitio en los planes de producción de 1940, y el He 280 se desarrollaba sobre todo como iniciativa propia de la empresa: el proyecto interno, nacido a fines de 1939 con el nombre de He 180, avanzaba al margen de las prioridades ministeriales, dirigido por el diseñador Robert Lusser. En los círculos de la industria, y en la órbita de Ernst Udet y Erhard Milch, lo miraban como el puente entre el Fw 190 y lo que Messerschmitt ya probaba en paralelo: el Me 262.
+La guerra aérea sobre Europa dio urgencia a las propuestas de alto rendimiento, aunque el Ministerio de Aviación del Reich privilegiaba los modelos que podían entregarse pronto. La producción dependía de motores, metales, fábricas y mano de obra sometidos a prioridades militares. Un caza experimental podía atraer la atención de los responsables, pero competía por recursos con aparatos ya aceptados y con necesidades inmediatas de la Luftwaffe.
+
+Heinkel siguió desarrollando el concepto por iniciativa empresarial antes de obtener el respaldo pleno del ministerio. La decisión reflejaba una cultura industrial en la que los fabricantes buscaban demostrar sus propias soluciones a las autoridades. La rivalidad con Messerschmitt no fue solo una carrera de prestigio: ambos proyectos afrontaban la misma dificultad, convertir motores experimentales en una planta motriz fiable y producible.
 
 ### Entorno tecnológico
 
-La propulsión a chorro era aún una ciencia de poquísimo vuelo. Un año antes, el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1939/08/27/heinkel-he-178-primer-vuelo-avion-reaccion.html" style="color: #315fea; text-decoration: none;">Heinkel He 178 inauguraba la era del reactor</a>: quedó demostrado que un avión podía sostenerse en el aire solo con el empuje de un chorro de gases, aunque su único motor, metido en el fuselaje, limitaba el empuje disponible. En Gran Bretaña, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1937/04/12/whittle-unit-primer-motor-jet.html" style="color: #315fea; text-decoration: none;">Frank Whittle llevaba ya funcionando su turborreactor propio desde el 12 de abril de 1937</a>. De su lado, en Heinkel, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1911/12/14/nacimiento-hans-von-ohain-pionero-propulsion-a-reaccion.html" style="color: #315fea; text-decoration: none;">Hans von Ohain, nacido en 1911</a>, preparaba la siguiente generación de motores. El He 280 apostó por la vía contraria a la del He 178: dos turborreactores HeS 8A, de 750 kp de empuje cada uno, montados en túneles alares aerodinámicos, más un tren triciclo entonces inusual. La célula estaba lista en el verano de 1940; los motores, no. La solución que la historia recordaría fue colgar lastre en lugar de las turbinas y volar el prototipo como planeador remolcado.
+El He 280 difería del He 178 en la distribución de sus motores. En vez de alojar una sola turbina dentro del fuselaje, empleaba dos unidades en góndolas alares, con un tren de aterrizaje triciclo. Esa disposición prometía mayor empuje y dejaba libre el espacio central, pero también multiplicaba los problemas de integración: vibraciones, temperatura, combustible y duración limitada de los primeros motores.
+
+La célula del primer prototipo estuvo lista antes que los HeS 8. Por eso, el equipo pudo comprobar parte de la aerodinámica sin esperar a la propulsión definitiva: sustituyó temporalmente los motores por cuerpos de lastre y usó un remolcador para elevar el avión. No era una demostración de velocidad ni de combate; era una prueba progresiva de estabilidad, control y aterrizaje.
 
 ### Entorno cultural
 
-La fábrica de Heinkel se había forjado una reputación de velocidad y de atrevimiento privado: el He 178 se había construido en secreto, sin conocimiento del ministerio, y el caza a reacción continuaba esa misma cultura de la apuesta ingenieril, con los pilotos de ensayo —los Flugbaumeister— como protagonistas absolutos. En el Reich dos casas grandes trabajaban a ciegas la una de la otra en cazas a reacción, cada una convencida de llegar primero ante el RLM; esa carrera silenciosa, de la cual este primer vuelo era un capítulo temprano, decidiría la face del caza reactivo alemán de los dos últimos años de guerra. La imagen de un planeador de metal arrastrado por un bombardero, con lastre donde deberían ir los motores, concentraba el espíritu de la época: una tecnología que nacía a golpes de ensayo, en plena batalla aérea.
+Los pilotos de prueba y los ingenieros ocupaban una posición central en la cultura aeronáutica alemana de la época. Los vuelos experimentales se convertían en argumentos ante el RLM, que decidía qué programas merecían prioridad. La imagen de un caza sin motor remolcado por un bombardero sintetiza esa etapa: el diseño prometía una ruptura tecnológica, mientras los componentes necesarios todavía se construían y ensayaban por separado.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **Finales de 1939:** Heinkel arranca el proyecto de caza a reacción con la denominación interna He 180. Robert Lusser dirige el diseño: dos motores bajo el ala y tren triciclo.
-- **27 de agosto de 1939:** el vuelo del He 178 ya había demostrado la tecnología y, a la vez, su límite.
-- **Verano de 1940:** la célula del He 280 V1 está lista; los dos turborreactores HeS 8 siguen sin entregar.
-- **15 de septiembre de 1940:** sobre Londres cae la ofensiva diurna más grande de la guerra; la Batalla de Inglaterra está en lo más alto.
-- **22 de septiembre de 1940:** primer vuelo. El V1, remolcado por un He 111, sale de Rechlin como planeador con cuerpos aerodinámicos de lastre. Paul Bader vuela el He 280; Hans Deutschmann comanda el remolcador. Suelta a 4.000 metros de altitud, la aeronave regresa y aterriza sin novedad.
-- **30 de marzo de 1941:** el V2, a las órdenes de Fritz Schäfer, vuela por primera vez bajo el empuje de sus dos turborreactores HeS 8, en Rostock-Marienehe.
-- **5 de abril de 1941:** Paul Bader realiza un vuelo de demostración ante Ernst Udet y otros funcionarios del RLM.
-- **18 de abril de 1941:** sale al aire el programa rival: el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1941/04/18/primer-vuelo-prototipo-messerschmitt-me-262.html" style="color: #315fea; text-decoration: none;">Messerschmitt Me 262, cuyo prototipo V1 vuela por primera vez en Augsburg con motor de pistón, porque los reactores BMW 003 no estaban listos</a>.
-- **13 de enero de 1942:** durante un ensayo, el He 280 protagoniza <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/01/13/primera-eyeccion-desde-avion.html" style="color: #315fea; text-decoration: none;">la primera eyección de emergencia de la aviación</a>: el piloto, el Flugkapitän Helmut Schenk, sale ileso al usar el primer asiento eyectable del mundo.
-- **22 de diciembre de 1942:** el V3 libra un combate simulado ante funcionarios del RLM contra un Focke-Wulf Fw 190 y demuestra la superioridad cualitativa del caza a reacción.
-- **27 de marzo de 1943:** Erhard Milch, inspector general de la Luftwaffe, ordena abandonar el programa He 280: el RLM apuesta por el Me 262, con su ala de flecha y sus Jumo 004. Del programa quedan solo los nueve prototipos construidos entre 1940 y 1943.
+El recorrido del He 280 separa tres hitos que a menudo se confunden: la concepción como caza, el ensayo remolcado y el vuelo con sus propios reactores.
+
+- **27 de agosto de 1939:** el Heinkel He 178 demuestra en secreto que un avión puede volar con un turborreactor. El resultado impulsa a la empresa a explorar una aplicación de combate.
+- **Finales de 1939:** el equipo de Robert Lusser inicia el proyecto de caza que desembocará en el He 280. Se selecciona una configuración bimotora con unidades bajo las alas.
+- **Verano de 1940:** la estructura del V1 está disponible, pero las turbinas no. La preparación del prototipo se adapta para permitir pruebas remolcadas.
+- **22 de septiembre de 1940:** el V1 se separa del He 111 y completa el ensayo inaugural. Las fuentes discrepan sobre el piloto y el aeródromo; la nota conserva ambas versiones documentadas.
+- **30 de marzo o 2 de abril de 1941:** el segundo prototipo realiza el primer vuelo con propulsión propia, según la cronología adoptada por distintas publicaciones. También difieren las fuentes sobre la fecha exacta; no se zanja aquí la discrepancia.
+- **13 de enero de 1942 o 1943:** durante un ensayo del programa se prueba un asiento eyectable; las referencias consultadas no coinciden en el año del episodio.
+- **27 de marzo de 1943:** el RLM cancela el desarrollo del He 280 y concentra los recursos en el Me 262, que ya había avanzado hacia una combinación de motores más favorable a la producción.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-La batería de vuelos remolcados —solo el V7 sumó 115 remolques— validó la célula, el tren triciclo y el comportamiento de vuelo antes de que llegaran los motores. El primer vuelo con propulsión propia, el 30 de marzo de 1941, confirmó el concepto: el He 280 podía volar con sus dos reactores. Los prototipos posteriores, que probaron además el BMW 003, el Jumo 004 e incluso el Argus As 014, siguieron ampliando la envolvente; el V5 llegó a registrar 820 km/h en picado, una cifra que ningún caza de pistones de la época alcanzaba.
+Los ensayos del He 280 aportaron información sobre la disposición de motores bajo las alas, el tren triciclo y las cualidades de una célula preparada para velocidades superiores a las de los cazas convencionales. La aeronave también permitió explorar sistemas de seguridad para pilotos de prueba. Esos aportes se produjeron durante un programa corto y no equivalen a una influencia directa y exclusiva sobre todos los cazas posteriores.
 
-El motor era el punto débil. El HeS 8 nunca alcanzó la fiabilidad que el programa exigía: se sobrecalentaba, vivía poco y el RLM empujó a Heinkel a cambiar de unidad (HeS 011, BMW 003), todas ellas también retrasadas. La demostración de diciembre de 1942 convenció al ministerio de la superioridad del concepto, pero el aleteo del estabilizador a alta velocidad, la falta de flecha en el ala —que dejaba un número de Mach crítico inferior al del Me 262— y los retrasos motores sellaron la carrera interna. El 27 de marzo de 1943, Milch ordenó abandonar el He 280, y la energía de Heinkel se volcó al proyecto de bombardero rápido cuatrimotor P.1068 (He 343). Ningún prototipo llegó a servicio operativo: el avión que fundó la categoría se quedó en laboratorio.
+El principal obstáculo fue industrial. Los primeros HeS 8 ofrecían poco tiempo entre revisiones y sufrían dificultades de temperatura y fiabilidad; los motores alternativos disponibles también se retrasaron. Mientras Heinkel resolvía ese problema, el Me 262 recibió mayor atención oficial. El Ministerio terminó por favorecer el programa que veía con más posibilidades de convertirse en una fuerza operativa, aunque su propio calendario también resultó complejo.
 
-No todo quedó perdido. El asiento eyectable que debutó en el incidente de enero de 1942 entró en el equipo estándar de la aviación militar y salvó cientos de vidas en el resto de la guerra y en el conflicto que siguió. Y los datos de los ensayos del He 280 —motores en túneles alares, tren triciclo, picados sobre los 800 km/h— formaron parte del fondo común de todo caza a reacción que vino después.
+La cancelación dejó al He 280 como prototipo de investigación. Sus prestaciones y sus pruebas contribuyeron al conocimiento técnico de la época, pero no hubo una unidad de combate, doctrina operacional ni producción en serie asociada con el tipo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-Ochenta y seis años después, el primer vuelo del He 280 marca el momento en que el caza a reacción nació como categoría: el primero de la historia concebido para volar con propulsión a chorro estaba en el aire veintidós meses antes del primer vuelo a reacción del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/07/18/primer-vuelo-messerschmitt-me262-v3.html" style="color: #315fea; text-decoration: none;">Messerschmitt Me 262, cuyo prototipo V3 voló íntegramente con dos Jumo 004 el 18 de julio de 1942 y acabaría por ser el primer caza a reacción operativo</a>. El Me 262 entró en combate en 1944 y cerró la guerra; el He 280 nunca salió de la estación de pruebas, y su nombre solo lo conocen los especialistas. Y sin embargo, sin aquel vuelo de planeador la historia del caza a reacción empezaría veintidós meses más tarde.
+El He 280 conserva un lugar singular en la historia porque materializó una categoría antes de que existieran las condiciones para explotarla. Fue diseñado como caza de reacción y voló antes de que las turbinas pudieran impulsarlo; sus pruebas motorizadas llegaron después, y el desarrollo fue abandonado antes de la entrada en combate.
 
-Ninguno de los nueve prototipos combatió. Los últimos se perdieron o fueron capturados al fin de la guerra: el V3 cayó en manos aliadas en mayo de 1945, en el aeródromo de Wien-Schwechat, cerca de Viena. Lo que queda del He 280 no es una célula, sino una idea: los motores bajo el ala, el tren triciclo, el asiento eyectable. Racionalidades que toda la aviación de reacción posterior heredó como propias, sin acordarse del planeador que las llevó primero al aire.
+Ninguna de las células construidas llegó a conservarse como avión de museo. Su historia depende de documentos de empresa, fotografías y relatos técnicos que no siempre coinciden en fechas, nombres o lugares. Esa cautela forma parte del legado: la innovación aeronáutica rara vez avanza mediante un único vuelo, y distinguir cada etapa evita atribuir al He 280 un servicio que nunca tuvo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -108,14 +107,14 @@ Ninguno de los nueve prototipos combatió. Los últimos se perdieron o fueron ca
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> El vuelo conmemorado (22 de septiembre de 1940) fue un ensayo remolcado sin motor: los dos turborreactores HeS 8 no estaban listos, y bajo el ala, como sustituto de las turbinas, colgaban dos cuerpos aerodinámicos de lastre. El primer vuelo del He 280 bajo propulsión a chorro propia se produjo seis meses después, el 30 de marzo de 1941, con el segundo prototipo (V2) y a los mandos de Fritz Schäfer. Varias publicaciones atribuyen el vuelo de septiembre de 1940 a Schäfer, lo sitúan en Rostock-Marienehe y fechazan el primer vuelo con motor el 2 de abril de 1941; la mayoría de la literatura especializada sigue la versión que aquí se consigna. La apelación de «primer caza a reacción del mundo» reservada al He 280 se refiere al primer avión de caza diseñado desde su concepción para la propulsión a chorro en volar: el He 280 nunca entró en servicio operativo, y el primer caza a reacción en combatir fue el Messerschmitt Me 262, desde 1944. Del mismo modo, las fuentes difieren en la fecha de la primera eyección de emergencia con asiento eyectable (13 de enero de 1942 o 13 de enero de 1943); este texto la consigna en enero de 1942.</p>
+<p><strong>Nota aclaratoria:</strong> Las fuentes no ofrecen una sola versión de los primeros ensayos. El archivo de Heinkel conservado por el Deutsches Museum y varias referencias especializadas atribuyen el vuelo remolcado del V1 a Paul Bader y lo sitúan en Rechlin el 22 de septiembre de 1940; otras publicaciones mencionan a Fritz Schäfer o Rostock-Marienehe. También varían la fecha del primer vuelo con reactores (30 de marzo o 2 de abril de 1941) y el año del ensayo de eyección (1942 o 1943). Este post registra esas diferencias sin resolverlas. El vuelo de septiembre fue remolcado y no debe confundirse con el posterior ensayo propulsado.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-16 07:46:15 CST
-- **Fuentes primarias/institucionales consultadas:** Deutsches Museum (archivo de empresa Ernst Heinkel Flugzeugwerke, 1933–1945), San Diego Air & Space Museum (archivo fotográfico, colección Ray Wagner, imagen n.º 43936269).
-- **Fuentes secundarias de contraste:** Defense Media Network (Robert F. Dorr), LuftArchiv.de (Bert Hartmann), Wikipedia (DE) y (EN), y la ficha de Wikimedia Commons de la imagen (licencia y autoría).
-- **Discrepancias resueltas:** 1) Naturaleza y atribución del primer vuelo: la mayoría de la literatura especializada consigna el vuelo del 22 de septiembre de 1940 como ensayo remolcado sin motor (V1, Paul Bader; remolcador He 111, Hans Deutschmann; Rechlin) y el primer vuelo bajo propulsión a chorro el 30 de marzo de 1941 (V2, Fritz Schäfer); frente a la versión de algunas publicaciones —Schäfer como piloto del vuelo de 1940, Rostock-Marienehe como base y 2 de abril de 1941 como fecha del primer vuelo con motor— se consigna la mayoritaria. 2) Empuje estático del HeS 8A: 750 kp (aproximadamente 7,4 kN) en fuentes de lengua alemana y en el archivo del Deutsches Museum, frente a unos 5,9 kN (aproximadamente 600 kp) en algunas publicaciones en inglés —se consigna la cifra de 750 kp. 3) Eyección de emergencia con asiento eyectable: la mayoría de las fuentes la fecha el 13 de enero de 1942; algunas fuentes alemanas la sitúan el 13 de enero de 1943 —se consigna enero de 1942 sin pormenorizar el mecanismo.
-- **Nivel de confianza:** Alto.
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Timestamp de verificación:** 2026-10-05 12:13:57 CST
+- **Fuentes primarias/institucionales consultadas:** Deutsches Museum (archivo de Heinkel); San Diego Air & Space Museum.
+- **Fuentes secundarias de contraste:** Defense Media Network; LuftArchiv.de; Wikipedia (DE/EN).
+- **Discrepancias:** piloto y lugar del vuelo de 1940, fecha del primer vuelo motorizado y año de la eyección permanecen abiertos en la nota.
+- **Nivel de confianza:** Medio.
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

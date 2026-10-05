@@ -20,97 +20,75 @@ redirect_from: /evento/1941/08/11/primer-bombardeo-sovieto-nocturno-berlin.html
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>La noche del 10 al 11 de agosto de 1941, catorce bombarderos Petlyakov Pe-8 despegaron del aeródromo de Pushkino, cerca de Leningrado, con Berlín como destino. Los mandaba el Comandante de Brigada Mikhail Vasilyevich Vodopyanov, al frente de la 81.ª División de Bombardeo de Largo Alcance, creada tres semanas antes por orden expresa de Stalin. Era la respuesta soviética a los bombardeos que la Luftwaffe había iniciado sobre Moscú el 21 de julio.</p>
-<p>El obstáculo no era la distancia sino la planta motriz. Para alcanzar Berlín y volver, Stalin había ordenado sustituir los motores de gasolina por diésel Charomskiy de largo alcance, una decisión que resultó desastrosa. Un Pe-8 se estrelló al despegar y murió toda su tripulación. Otro fue atacado por cazas soviéticos que lo tomaron por enemigo y rematado por la artillería antiaérea propia. Un tercero perdió dos motores sobre Polonia. Los que alcanzaron Berlín lanzaron sus bombas con escaso efecto material, y el regreso fue una dispersión de aterrizajes forzosos por media Europa oriental. Vodopyanov cayó en el sur de Estonia, en tierra de nadie. Fue relevado del mando, aunque no castigado, después de decirle a Stalin en el Kremlin que estaba dispuesto a arrancar aquellos motores con los dientes.</p>
+<p>En la noche del 10 al 11 de agosto de 1941, una fuerza soviética de largo alcance atacó Berlín con bombarderos TB-7, más tarde denominados Pe-8. La operación, ordenada tras los bombardeos alemanes sobre Moscú, buscaba demostrar que la capital del Reich tampoco estaba fuera de alcance. El resultado material fue limitado y los problemas mecánicos, la defensa propia y las pérdidas de navegación dificultaron el regreso. Las fuentes discrepan sobre cuántos aparatos despegaron y cuántos llegaron al objetivo; ambas cifras se exponen sin escoger una versión.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-
-- **Fecha:** noche del 10 al 11 de agosto de 1941.
-- **Base de partida:** aeródromo de Pushkino, en las proximidades de Leningrado (hoy San Petersburgo).
-- **Objetivo:** Berlín, capital del Tercer Reich.
-- **Unidad:** 81.ª División de Bombardeo de Largo Alcance, constituida en virtud de la orden n.º 0052 del Comisariado del Pueblo para la Defensa de la URSS, de 15 de julio de 1941.
-- **Al mando:** Comandante de Brigada Mikhail Vasilyevich Vodopyanov, Héroe de la Unión Soviética, que voló en la operación.
-- **Aeronaves:** Petlyakov Pe-8 (denominado entonces TB-7) del 432.º Regimiento de Bombardeo Pesado, acompañados por Yermolayev Yer-2 del 420.º Regimiento de Bombardeo de Largo Alcance.
-- **Aparatos que despegaron:** catorce Pe-8, de los dieciocho inicialmente asignados. Cuatro quedaron fuera de servicio por averías de motor antes de la operación.
-- **Planta motriz:** motores diésel Charomskiy ACh-30, designados M-40, instalados por orden de Stalin para aumentar la autonomía.
-- **Distancia:** unos 1.700 kilómetros entre ida y vuelta.
-- **Precedente inmediato:** la Aviación Naval soviética había bombardeado Berlín en la noche del 7 al 8 de agosto de 1941 con bombarderos bimotores DB-3F desde la isla de Saaremaa. La operación del 10 al 11 de agosto fue la primera realizada con bombarderos pesados cuatrimotores.
-- **Motivo:** represalia por los bombardeos de la Luftwaffe sobre Moscú, iniciados en la noche del 21 de julio de 1941 en virtud de la Directiva 33 de Hitler.
-- **Pérdidas del mes:** siete Pe-8 en agosto de 1941, lo que dejó al regimiento inoperativo.
+- **Noche de la operación:** del 10 al 11 de agosto de 1941.
+- **Aeródromo de partida:** Pushkino, cerca de Leningrado.
+- **Objetivo:** Berlín.
+- **Unidad:** 81.ª División de Bombardeo de Largo Alcance, bajo el mando de Mikhail Vodopyanov.
+- **Aeronaves:** bombarderos TB-7, denominados Pe-8 desde 1942, con apoyo de bimotores Yer-2.
+- **Regimiento principal:** 432.º Regimiento de Bombardeo Pesado.
+- **Número de Pe-8:** las fuentes citadas ofrecen cifras distintas de aparatos asignados y de los que despegaron; la diferencia se mantiene abierta en la nota documental.
+- **Antecedente:** una incursión de la Aviación Naval soviética contra Berlín se había realizado del 7 al 8 de agosto con bombarderos bimotores.
+- **Planta motriz:** algunos de los aparatos de la operación llevaban motores diésel Charomskiy M-40.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-La operación se explica menos por el cálculo militar que por la necesidad política de responder a un golpe.
+La invasión alemana de la Unión Soviética, iniciada en junio de 1941, obligó a desplazar fuerzas y recursos hacia el frente terrestre. La aviación soviética sufrió pérdidas severas durante las primeras semanas y sus unidades de bombardeo de largo alcance contaban con pocos aviones capaces de alcanzar objetivos distantes. En ese escenario, una operación contra Berlín tenía un valor político que superaba el daño material que podía infligir una formación reducida.
 
 ### Entorno social
 
-Cuando la Luftwaffe bombardeó Moscú por primera vez, en la noche del 21 de julio de 1941, ciento veintisiete aparatos alemanes descargaron un centenar de toneladas de explosivo y decenas de miles de bombas incendiarias sobre la capital. El propósito declarado era la represalia; el real, quebrar la moral de la población antes de que llegara la Wehrmacht. El efecto fue el contrario: los bombardeos endurecieron la disposición de los moscovitas a resistir.
+Los bombardeos alemanes sobre Moscú, iniciados en julio, dieron a la dirigencia soviética una razón inmediata para responder. Las autoridades buscaban mostrar a la población que el adversario podía ser alcanzado en su propia capital, aun cuando la situación militar en tierra fuera desfavorable. La prensa y la propaganda presentaron la incursión como señal de resistencia; ese mensaje no debe confundirse con una evaluación del efecto sobre la industria alemana.
 
-Stalin necesitaba responder, y responder donde se notara. Un mes antes había perdido la mayor parte de su fuerza aérea en tierra durante los primeros días de la Operación Barbarroja, el frente retrocedía sin pausa y la Unión Soviética necesitaba una demostración de que aún podía golpear. Bombardear Berlín no iba a alterar el curso de la guerra, pero permitía decir que se había hecho.
+La operación también implicó una presión excepcional sobre las tripulaciones. Los aviadores debían cruzar largas distancias de noche, sobre territorio en guerra, y regresar con instrumentos y ayudas de navegación limitados. Una avería podía dejar a una aeronave sin margen para alcanzar una base amiga. Los aterrizajes forzosos dispersos que siguieron forman parte del balance humano del intento.
 
 ### Entorno tecnológico
 
-El problema soviético era estructural. Tras observar la guerra civil española, Stalin y el alto mando habían concluido que el bombardeo estratégico no valía la inversión, y la industria aeronáutica se reorganizó para producir aparatos monomotores y bimotores. El desarrollo de grandes aviones de largo alcance quedó prácticamente detenido.
+El TB-7 era el único bombardero pesado cuatrimotor soviético producido durante la guerra. Se había diseñado para cubrir grandes distancias, pero la flota era pequeña y sus motores convencionales consumían mucho combustible. Para ampliar el radio de acción, algunos ejemplares recibieron motores diésel de bajo consumo; esa solución prometía alcance, aunque la fiabilidad mecánica resultó insuficiente para una misión tan exigente.
 
-En el verano de 1941 solo tres tipos podían alcanzar Berlín: el Ilyushin Il-4, el Yermolayev Yer-2 y el Petlyakov Pe-8. Este último era el único cuatrimotor que la Unión Soviética llegó a producir durante la guerra, y apenas se habían construido unas decenas. Para ganar autonomía se sustituyeron sus motores de gasolina por diésel Charomskiy, más económicos en consumo pero mucho menos fiables. La decisión, tomada por el propio Stalin, resultó ser el factor determinante del desastre: la mayoría de las bajas de la operación no las causó el enemigo, sino las averías.
+Los aparatos del grupo no compartían todos la misma configuración. Variaban los motores, el estado de mantenimiento y la disponibilidad de equipos. La misión requería combinar varias formaciones y mantener un rumbo nocturno preciso, pero la coordinación entre bombarderos, escoltas y defensas propias fue imperfecta. La posibilidad de ser confundidos con aviones enemigos añadió peligro sobre el Báltico.
 
 ### Entorno cultural
 
-El bombardeo tenía un destinatario simbólico preciso. Hermann Göring había proclamado en 1939 que si una sola bomba caía sobre territorio alemán podían llamarle Meyer. La Royal Air Force ya había desmentido la bravata en agosto de 1940, y la aviación naval soviética lo hizo de nuevo el 7 de agosto de 1941. Que ahora llegaran también los cuatrimotores del Ejército Rojo añadía un matiz: no era una incursión de castigo puntual, sino la afirmación de que la Unión Soviética conservaba capacidad estratégica.
+El raid se inscribió en una tradición de ataques de represalia y demostraciones de alcance. Antes de la operación de los TB-7, la aviación naval soviética había llevado bombarderos bimotores hasta Berlín. La salida de aviones pesados del Ejército añadía una dimensión diferente: presentaba la capacidad de proyección de una fuerza que había tenido que reorganizarse tras el ataque alemán.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-La secuencia recorre desde la decisión política hasta la liquidación de la campaña.
+La secuencia muestra el paso de una orden de represalia a una operación con consecuencias técnicas y de mando.
 
-- **15 de julio de 1941:** la orden n.º 0052 del Comisariado del Pueblo para la Defensa crea la 81.ª División de Bombardeo de Largo Alcance, concentrando los escasos aparatos pesados disponibles.
-- **19 de julio de 1941:** la Directiva 33 de Hitler ordena el bombardeo de Moscú.
-- **21 de julio de 1941:** primera incursión alemana sobre la capital soviética. Ciento veintisiete aparatos de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1935/02/26/fundacion-luftwaffe.html" style="color: #315fea; text-decoration: none;">Luftwaffe</a> lanzan un centenar de toneladas de bombas durante cinco horas. Las defensas antiaéreas y más de trescientos reflectores dispersan las formaciones.
-- **7 y 8 de agosto de 1941:** la Aviación Naval soviética bombardea Berlín desde la isla de Saaremaa con bombarderos bimotores DB-3F. Es la primera incursión soviética sobre la capital alemana.
-- **10 de agosto de 1941, tarde:** de los dieciocho Pe-8 asignados, cuatro han quedado fuera de servicio por averías de motor antes de iniciarse la operación.
-- **10 de agosto de 1941, 21:15:** despegan los catorce Pe-8 de Pushkino. Al mismo tiempo salen escuadrones de Il-4 desde Saaremaa y una escuadrilla de Yer-2 del 420.º Regimiento.
-- **Inmediatamente después del despegue:** el aparato del Mayor Konstantin P. Yegorov pierde dos motores del mismo lado y se estrella. Muere toda la tripulación.
-- **Sobre el Báltico:** el avión del Capitán Aleksandr N. Tyagunin es atacado por cazas Polikarpov I-16 de la Aviación Naval soviética y rematado por la artillería antiaérea propia. Cae al mar frente a Tallin.
-- **Sobre Polonia:** un tercer Pe-8 pierde dos motores.
-- **Madrugada del 11 de agosto:** los aparatos que alcanzan Berlín lanzan sus bombas de forma dispersa sobre distintos puntos de la ciudad. El avión de Vodopyanov sufre el fallo de un motor a doce minutos del objetivo; bombardea pese a ello y la artillería antiaérea alemana le perfora un depósito de combustible.
-- **Regreso:** Vodopyanov aterriza de emergencia en el sur de Estonia, en tierra de nadie entre las líneas. Otros aparatos toman tierra donde pueden; algunos se estrellan en Finlandia y Estonia. Un Pe-8 desorientado sobre Finlandia es derribado por la antiaérea cerca de Helsinki y solo sobreviven dos tripulantes.
-- **12 de agosto de 1941:** Vodopyanov comparece en el Kremlin ante Stalin y da cuenta de la operación. Reclama motores fiables y radiobalizas de retorno. Es relevado del mando y sustituido por el Coronel Aleksandr E. Golovanov, pero no sancionado: una semana después se le asigna la prueba de motores radiales Shvetsov M-82 en sustitución de los diésel.
-- **1 de septiembre de 1941:** Golovanov, que no considera a los Pe-8 capacitados para la misión, dirige a tres de ellos en una incursión sobre Königsberg, esta sí plenamente lograda.
-- **Del 4 al 5 de septiembre de 1941:** última incursión de la campaña. Los DB-3F navales han realizado diez salidas sobre Berlín antes de que Saaremaa deba evacuarse ante el avance alemán.
-- **Finales de 1941:** los Pe-8 supervivientes se reequipan con motores Mikulin AM-35A, de menor alcance pero mucho más fiables. El regimiento pasa a denominarse 746.º Regimiento Aéreo Independiente de Largo Alcance el 3 de diciembre.
-- **Mayo de 1942:** un Pe-8 traslada al comisario del pueblo para Asuntos Exteriores, Vyacheslav Mólotov, de Moscú a Escocia y de allí a Washington, sobrevolando territorio bajo control alemán sin incidentes.
+- **15 de julio de 1941:** una orden del Comisariado del Pueblo para la Defensa organiza la 81.ª División de Bombardeo de Largo Alcance y concentra los escasos bombarderos pesados disponibles.
+- **21 de julio:** la Luftwaffe efectúa una de sus primeras incursiones nocturnas sobre Moscú. El episodio precipita la demanda soviética de un ataque contra la capital alemana.
+- **7–8 de agosto:** aviones de la Aviación Naval bombardean Berlín desde bases insulares del Báltico; ese ataque precede a la operación del Ejército.
+- **10 de agosto, tarde y noche:** las tripulaciones se reúnen en Pushkino. Los aviones disponibles salen en dirección oeste; la cifra exacta de aparatos varía entre las fuentes.
+- **Durante el trayecto:** se registran averías y pérdidas de orientación. Un bombardero es atacado por cazas soviéticos que lo confunden con un aparato enemigo, y otros realizan aterrizajes de emergencia.
+- **Madrugada del 11 de agosto:** los aviones que alcanzan el área de Berlín lanzan sus cargas. El bombardeo no concentra daños de gran escala y las tripulaciones inician el retorno con poco combustible y varios motores afectados.
+- **12 de agosto:** Vodopyanov informa del resultado ante Stalin. Después es apartado del mando de la división, aunque permanece en servicio; las autoridades revisan tanto la organización de la misión como la elección de motores.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-El balance material de la operación fue insignificante y el político, considerable.
+El ataque no destruyó de manera significativa la capacidad industrial de Berlín. Su efecto más visible fue político y propagandístico: demostró que las fuerzas soviéticas podían llevar una incursión hasta la capital alemana en un momento de fuertes reveses en el frente oriental. El alcance simbólico, sin embargo, no compensó las pérdidas de aviones y tripulaciones ni los problemas de coordinación.
 
-Las bombas cayeron dispersas y el daño en Berlín resultó menor. En el conjunto de la campaña de 1941, las incursiones soviéticas sobre la capital alemana descargaron algo más de treinta y seis toneladas de explosivo, una cifra irrisoria comparada con lo que la Royal Air Force y las fuerzas aéreas estadounidenses harían después. Ninguna de aquellas noches alteró la capacidad industrial ni militar del Reich.
+La experiencia obligó a revisar la preparación de las misiones de largo alcance. Las averías mostraron que un consumo menor no era ventaja suficiente si los motores no podían sostener un vuelo de varias horas. También revelaron fallos de navegación y comunicación, y el riesgo de que las defensas amigas atacaran aeronaves propias. Las fuentes no coinciden en el balance exacto de la noche; por ello, la nota distingue el parte del comandante de las reconstrucciones posteriores.
 
-El coste, en cambio, fue alto. Siete Pe-8 se perdieron solo en agosto de 1941, y la causa principal no fue el enemigo sino los motores diésel que debían haber hecho posible la misión. El regimiento quedó inoperativo. Entre agosto de 1941 y mayo de 1942 realizaría doscientas veintiséis salidas y perdería catorce bombarderos, de los cuales solo cinco en combate; el resto, por fallos de motor.
-
-El valor de la operación fue de otro orden. Demostró que el Reich era vulnerable en un momento en que la Wehrmacht avanzaba sin freno por territorio soviético, y proporcionó a la propaganda un argumento que la población necesitaba. También reactivó el interés soviético por la aviación de largo alcance: la Aviación de Largo Alcance, disuelta en septiembre de 1941, resucitó en marzo de 1942 bajo el mando de Golovanov, el mismo oficial que había sustituido a Vodopyanov.
-
-Hay una consecuencia menos citada y bastante reveladora. Cuando Vodopyanov denunció ante Stalin, en presencia de mariscales y dirigentes del Partido, que aquellos motores costaban aviones y tripulaciones, estaba criticando una decisión del propio Stalin apenas cuatro años después del apogeo de las purgas. Fue relevado del mando, pero no detenido ni fusilado: se le encomendó probar los motores que él mismo reclamaba. Poco después se instalaron en las bases de la VVS las radiobalizas que había pedido.
+La campaña contra Berlín continuó con otras unidades y con aparatos de distintas configuraciones. El TB-7 no se convirtió en una plataforma numerosa, pero las experiencias de 1941 contribuyeron a cambiar la política de motores y la organización de la aviación de largo alcance soviética.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-La incursión del 11 de agosto de 1941 pertenece a una categoría precisa: la del bombardeo cuyo objetivo real no está en el terreno sino en la moral de quien lo ordena y de quien lo sufre.
+La operación recuerda los límites de una orden política cuando la disponibilidad técnica y la coordinación no están a la altura de la distancia. El ataque sobre Berlín tuvo valor como demostración de alcance y como respuesta moral, pero no fue un bombardeo capaz de alterar por sí solo el curso de la guerra.
 
-Ocho meses después, Estados Unidos haría algo muy semejante con la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/04/18/incursion-doolittle.html" style="color: #315fea; text-decoration: none;">incursión Doolittle sobre Tokio</a>: pocos aparatos, daño material escaso, pérdida de casi toda la fuerza empleada y un efecto psicológico desproporcionado respecto al esfuerzo. La diferencia es que la operación estadounidense se recuerda y la soviética apenas figura fuera de la bibliografía especializada.
-
-El Pe-8 no tuvo mejor suerte que la misión. Se construyeron noventa y tres ejemplares en total, una cifra minúscula frente a los millares de Lancaster británicos o de Fortalezas Volantes estadounidenses. La Unión Soviética concentró su industria en la aviación táctica, que era la que necesitaba el frente, y renunció de hecho al bombardeo estratégico durante toda la guerra. Cuando Berlín cayó, en 1945, no lo hizo bajo las bombas soviéticas sino ante el Ejército Rojo, manzana por manzana.
-
-Ochenta y cinco años después, lo que sobrevive de aquella noche es sobre todo una lección sobre los límites de la voluntad política frente a la realidad técnica. Stalin podía ordenar que se bombardeara Berlín y ordenar los motores que debían hacerlo posible, pero no podía ordenar que aquellos motores funcionaran. La mayoría de los hombres que no volvieron a Pushkino murieron por eso.
+El TB-7/Pe-8 permaneció como un aparato singular: complejo, producido en cantidades reducidas y empleado tanto en misiones de largo alcance como en tareas de transporte. La noche de agosto de 1941 es una de sus acciones más conocidas, aunque las fuentes sigan discutiendo sus cifras. Conservar esa diferencia documental resulta más preciso que reducir una operación con varios informes a un solo número.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -131,18 +109,16 @@ Ochenta y cinco años después, lo que sobrevive de aquella noche es sobre todo 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Las fuentes divergen de manera sustancial sobre el número de aparatos que alcanzaron Berlín. El parte que el propio Vodopyanov presentó a Stalin al día siguiente, recogido por la revista <em>Aviation History</em>, afirma que once aviones llegaron al objetivo, seis regresaron a su base, uno fue derribado por la artillería antiaérea propia, otro quedó desaparecido y el resto realizó aterrizajes forzosos por fallo de motor. La entrada de Wikipedia en inglés, apoyada en la obra del historiador Christer Bergström, sostiene en cambio que solo cuatro alcanzaron Berlín o sus alrededores y que de ellos únicamente dos regresaron a la base. Se ha optado por exponer la divergencia en lugar de elegir una cifra, dado que la primera versión procede del mando de la operación —parte interesada en el resultado— y la segunda de una revisión historiográfica posterior.</p>
-  <p>Existe también discrepancia sobre el número de aparatos que despegaron: la mayoría de las fuentes indican catorce Pe-8, mientras que la entrada de Wikipedia en inglés menciona ocho aparatos con motores M-40 del 432.º Regimiento. Se ha consignado la cifra de catorce por ser la mayoritaria y la que recoge la crónica más detallada.</p>
-  <p>Sobre la fecha, las fuentes alternan entre el 10 y el 11 de agosto según sitúen la referencia en el despegue o en el bombardeo. La operación comenzó en la tarde-noche del día 10 y las bombas cayeron sobre Berlín en la madrugada del 11. El rango del Comandante de Brigada Vodopyanov aparece en algunas fuentes como Mayor General; se ha empleado la denominación *kombrig* que consignan las referencias más precisas.</p>
+<p><strong>Nota documental:</strong> La cifra de Pe-8 que despegó no es uniforme: el parte atribuido a Vodopyanov y varias fuentes indican catorce, mientras la entrada inglesa de Wikipedia basada en otra reconstrucción describe ocho aparatos del 432.º Regimiento. También difiere el número que llegó a Berlín: el parte del comandante habla de once; una revisión posterior citada en la misma fuente enciclopédica sitúa cuatro sobre la ciudad o sus alrededores. Se mantienen ambas versiones, con su procedencia, sin dirimirlas. El ataque naval del 7–8 de agosto fue anterior y utilizó bombarderos bimotores; esta efeméride trata del raid de bombarderos pesados de la noche siguiente.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias/institucionales consultadas:** Ministerio de Defensa de la Federación Rusa, fondo fotográfico sobre el TB-7; revista *Aviation History*, «Red Stars Over Berlin», con la transcripción del parte de Vodopyanov ante Stalin.
-- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, esta primera apoyada en Christer Bergström, *Barbarossa—The Air Battle: July–December 1941*, y en Yefim Gordon; Espacio Aéreo; reseña histórica de War Thunder sobre la campaña de 1941.
-- **Discrepancias resueltas:** se expuso, sin resolverla, la divergencia entre las once aeronaves que Vodopyanov declaró sobre el objetivo y las cuatro que consigna la revisión historiográfica posterior; se fijó en catorce el número de Pe-8 que despegaron, frente a los ocho que menciona una de las fuentes; se distinguió el bombardeo naval del 7 al 8 de agosto, primero de la guerra sobre Berlín, del bombardeo pesado del 10 al 11, primero realizado con cuatrimotores.
-- **Datos no confirmados:** el tonelaje exacto lanzado sobre Berlín en esta incursión concreta, que las fuentes consultadas no desglosan del total de la campaña; el número preciso de tripulantes fallecidos en el conjunto de la operación.
-- **Nivel de confianza:** Medio-alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Timestamp de verificación:** 2026-10-05 12:13:57 CST
+- **Fuentes primarias/institucionales consultadas:** Ministerio de Defensa de la Federación Rusa (fondo fotográfico); *Aviation History* (reproducción del parte de Vodopyanov).
+- **Fuentes secundarias de contraste:** HistoryNet; Wikipedia (EN/ES); War Thunder; Espacio Aéreo.
+- **Discrepancias:** la cifra del parte de Vodopyanov y la revisión posterior sobre aparatos que despegaron o llegaron al objetivo se conservan sin resolver; se distingue el ataque naval previo del de bombarderos pesados.
+- **Datos no confirmados:** el tonelaje exacto lanzado en esta operación y el número total de tripulantes fallecidos.
+- **Nivel de confianza:** Medio.
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
