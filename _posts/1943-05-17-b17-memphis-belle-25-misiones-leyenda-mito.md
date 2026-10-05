@@ -1,158 +1,115 @@
 ---
 layout: post
-title: "17 de mayo de 1943 | El B-17 Memphis Belle completa sus 25 misiones"
+title: "17 de mayo de 1943 | La tripulación del Memphis Belle completa 25 misiones"
 date: 1943-05-17
 categories: [evento]
 author: Enrique Pomares
-pais: Estados Unidos
-operator: 8ª Fuerza Aérea del Ejército de los EE. UU. (USAAF)
-excerpt: "El 17 de mayo de 1943, el Boeing B-17F Flying Fortress 'Memphis Belle' y su tripulación completaron su 25ª misión de combate sobre Europa, atacando la base de submarinos de Lorient, Francia. Este hito los convirtió en la primera tripulación completa en completar una gira de combate, y el avión se convirtió en un icono de la guerra aérea."
+pais: Estados Unidos / Reino Unido
+operator: Eighth Air Force, United States Army Air Forces (USAAF) (Octava Fuerza Aérea de las Fuerzas Aéreas del Ejército de los Estados Unidos)
+excerpt: "El 17 de mayo de 1943, la tripulación del B-17 Memphis Belle completó su misión de combate número 25; ese día, el avión llevaba 24 misiones, distinción esencial para separar la hazaña de sus hombres del récord de la aeronave."
 image: 1943-05-17-b17-memphis-belle-25-misiones-leyenda-mito.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1943-05-17-b17-memphis-belle-25-misiones-leyenda-mito.webp" alt="B-17 Memphis Belle en vuelo">
-  <figcaption class="post-caption">Tripulación del B-17 Memphis Belle tras completar su 25ª misión, 17 de mayo de 1943. Fuente: U.S. Air Force / This Day in Aviation.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1943-05-17-b17-memphis-belle-25-misiones-leyenda-mito.webp" alt="Tripulación del Memphis Belle tras completar sus misiones">
+  <figcaption class="post-caption">Los diez integrantes de la tripulación del Memphis Belle junto al bombardero, tras completar su misión 25 el 17 de mayo de 1943. Foto de la Fuerza Aérea de Estados Unidos, reproducida por <a href="https://www.thisdayinaviation.com/17-may-1943/" style="color: #315fea; text-decoration: none;">This Day in Aviation</a>.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 17 de mayo de 1943, el B-17F "Memphis Belle" (número de serie 41-24485) y su tripulación, al mando del Capitán Robert K. Morgan, completaron su 25ª misión de combate contra la Europa ocupada por los nazis. La misión número 25 fue un ataque a la base de submarinos de Lorient, Francia. Este hito significaba el final de su "gira de combate", un logro notable dado el altísimo riesgo que corrían los bombarderos pesados de la 8ª Fuerza Aérea en 1943. Convertida en un símbolo de la resistencia y la potencia aérea estadounidense, la tripulación y el avión regresaron a Estados Unidos para protagonizar una exitosa gira de venta de bonos de guerra, inmortalizando la leyenda del "Memphis Belle".</p>
+<p>El 17 de mayo de 1943, los diez integrantes de la tripulación del B-17 Memphis Belle completaron su misión de combate número 25. El logro pertenece a los aviadores: el avión llevaba 24 misiones ese día y alcanzó su propia salida número 25 el 19 de mayo, con otra tripulación. La distinción se pierde con facilidad porque el nombre del aparato y el de sus tripulantes quedaron unidos en la prensa, el documental y la memoria popular. El Memphis Belle tampoco fue el primer B-17 en completar 25 misiones; el Hell’s Angels del 303.º Grupo de Bombardeo alcanzó ese umbral el 13 de mayo. La fecha conmemora el retorno de la tripulación, no una cifra atribuible al avión en esa jornada.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-- **Fecha de la 25ª misión:** 17 de mayo de 1943
-- **Aeronave:** Boeing B-17F-10-BO Flying Fortress, número de serie 41-24485
-- **Nombre:** Memphis Belle
-- **Unidad:** 324º Escuadrón de Bombardeo, 91º Grupo de Bombardeo (Pesado), VIII Comando de Bombardeo
-- **Base:** RAF Bassingbourn, Cambridgeshire, Inglaterra
-- **Comandante del avión:** Capitán Robert Knight Morgan
-- **Tripulación:** 10 miembros
-- **Objetivo de la 25ª misión:** Base de submarinos de Kéroman, Lorient, Francia
-- **Estado de la aeronave tras la misión:** Retirada del combate
-- **Posterioridad:** Gira de bonos de guerra por Estados Unidos (junio de 1943 - principios de 1944)
-- **Documental:** "Memphis Belle: A Story of a Flying Fortress" (1944), dirigido por William Wyler
 
-### Especificaciones del Boeing B-17F Flying Fortress
-El B-17F Flying Fortress fue la columna vertebral de la campaña de bombardeos diurnos de la USAAF en Europa.
-
-- **Tripulación:** 10 (piloto, copiloto, navegante, bombardero, ingeniero/artillero de torreta dorsal, artillero de radio, dos artilleros de cintura, artillero de cola, artillero de la torreta ventral (esférica))
-- **Longitud:** 22,78 m (74 pies 8,9 pulgadas)
-- **Envergadura:** 31,63 m (103 pies 9,375 pulgadas)
-- **Altura:** 5,19 m (19 pies 1 pulgada)
-- **Superficie alar:** 132,48 m² (1.426 pies cuadrados)
-- **Peso máximo al despegue:** 29.484 kg (65.000 lb)
-- **Planta motriz:** 4 × Wright Cyclone R-1820-65 (G666A) radiales de 9 cilindros, sobrealimentados, 1.200 hp (895 kW) cada uno al despegue
-- **Velocidad máxima:** 481 km/h (299 mph) a 7.620 m (25.000 pies), (523 km/h / 325 mph con potencia de emergencia)
-- **Velocidad de crucero:** 322 km/h (200 mph)
-- **Alcance:** 4.941 km (3.070 millas) con combustible normal; 2.092 km (1.300 millas) con carga de bombas de 2.722 kg (6.000 lb)
-- **Techo de servicio:** 11.430 m (37.500 pies)
-- **Armamento:** 13 ametralladoras Browning AN-M2 de calibre .50 (12,7 mm)
-- **Capacidad de bombas:** 2.722 kg (6.000 lb) en misiones de largo alcance; máxima de 9.434 kg (20.800 lb) en distancias cortas
-
-### La tripulación de la 25ª misión
-- **Piloto:** Capitán Robert K. Morgan
-- **Copiloto:** Teniente James A. Verinis
-- **Navegante:** Capitán Charles B. Leighton
-- **Bombardero:** Teniente Robert Hanson
-- **Ingeniero / Torreta dorsal:** Sargento Técnico Harold P. Loch
-- **Operador de radio / Artillero:** Sargento Técnico Robert J. Kenyon
-- **Artilleros de cintura:** Sargento Cecil H. Scott y Sargento Casmer A. Nastal
-- **Artillero de torreta ventral:** Sargento John P. Quinlan
-- **Artillero de cola:** Sargento Clarence E. Winchell
+- **Fecha conmemorada:** 17 de mayo de 1943.
+- **Hito:** la tripulación del Memphis Belle completó su misión de combate número 25.
+- **Aeronave:** Boeing B-17F Flying Fortress, número de serie 41-24485.
+- **Unidad:** 324.º Escuadrón de Bombardeo, 91.º Grupo de Bombardeo, Octava Fuerza Aérea.
+- **Jefe de tripulación:** Capitán Robert K. Morgan.
+- **Tripulación:** diez aviadores; sus 25 salidas no se realizaron todas en el mismo avión.
+- **Registro de la aeronave el 17 de mayo:** 24 misiones completadas.
+- **Misión 25 del avión:** 19 de mayo de 1943, con otra tripulación.
+- **Referencia comparativa:** el B-17 Hell’s Angels había completado su misión 25 el 13 de mayo de 1943.
+- **Primera misión del avión:** 7 de noviembre de 1942, sobre Brest, Francia.
+- **Alcance:** no se consigna aquí el objetivo de la salida del día 17; el dato central es el cómputo separado de personas y aparato.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
-A principios de 1943, la campaña de bombardeos diurnos de la 8ª Fuerza Aérea sobre la Europa ocupada era una empresa inmensamente peligrosa. Las tripulaciones de los B-17 se enfrentaban a una dura oposición de los cazas de la Luftwaffe y a una densa artillería antiaérea (flak). Las pérdidas eran tan elevadas que completar una gira de 25 misiones era una hazaña poco común. Completar 25 misiones suponía el fin del período de servicio activo para la tripulación, que era entonces enviada de vuelta a Estados Unidos.
+
+Durante la campaña aérea diurna sobre Europa, las tripulaciones estadounidenses de bombarderos pesados volaban una sucesión de misiones contra objetivos defendidos por cazas y artillería antiaérea. La vuelta de cada salida dependía de la aeronave, del estado de sus sistemas, de las condiciones del tiempo y de la coordinación entre los diez puestos de la tripulación. En 1943, completar un período de servicio de 25 misiones se consideraba un umbral para regresar a Estados Unidos. El Memphis Belle se hizo célebre porque su tripulación alcanzó ese límite y porque la historia fue documentada para el público en plena guerra.
 
 ### Entorno social
-La dotación era fija y volaba junta: diez hombres con los empleos repartidos entre la cabina, la navegación, el bombardeo y las torretas, del Capitán Robert K. Morgan al artillero de cola, encuadrados en el 324º Escuadrón de Bombardeo del 91º Grupo (Pesado) y con base en RAF Bassingbourn, Cambridgeshire.
+
+La tripulación estaba integrada por diez especialistas con responsabilidades diferentes: piloto, copiloto, navegante, bombardero, ingenieros, operadores de radio y artilleros. La imagen pública del grupo a menudo pone el foco en el comandante, pero la supervivencia del avión dependía de la coordinación de todos y del mantenimiento realizado en tierra entre vuelos. Cada misión generaba una tensión entre la obligación de cumplir el objetivo asignado y la necesidad de conservar el aparato y la vida de quienes iban a bordo. El umbral de 25 salidas formaba parte de esa organización del servicio y determinaba el momento en que muchos aviadores podían dejar el teatro de operaciones.
 
 ### Entorno tecnológico
-El aparato era un B-17F-10-BO, número de serie 41-24485: cuatro radiales Wright Cyclone R-1820-65 de 1.200 hp, trece ametralladoras Browning AN-M2 del .50 y un techo de servicio de 11.430 m, la fórmula con la que la USAAF sostenía su campaña de bombardeo diurno sobre la Europa ocupada.
+
+El B-17F era un bombardero pesado de cuatro motores diseñado para transportar una carga de bombas y defenderse con armamento distribuido por el fuselaje. Las tripulaciones dependían de comunicaciones internas, navegación, sistemas de oxígeno y procedimientos de formación para mantenerse juntas durante trayectos prolongados. Ningún dispositivo eliminaba el riesgo: los daños podían afectar mandos, motores o superficies de control, y las reparaciones debían realizarse con rapidez para que el avión regresara a la línea de vuelo. El Memphis Belle no era técnicamente distinto de otros B-17 de su unidad; su singularidad histórica se construyó en torno a la secuencia de servicio de su tripulación y al registro de sus misiones.
 
 ### Entorno cultural
-Los bombarderos llevaban nombre propio y el morro pintado: era la cultura de las tripulaciones de la 8ª Fuerza Aérea, que bautizaban sus aparatos y los adornaban con las chicas de las revistas populares, de modo que cada avión tenía una identidad que el público podía reconocer y seguir.
 
-#### El origen del nombre
-El nombre "Memphis Belle" fue elegido por el piloto, el Capitán Robert K. Morgan, en honor a su novia de entonces, Margaret Polk, que vivía en Memphis, Tennessee. Morgan quedó cautivado por una película titulada "Lady for a Night" protagonizada por una goleta llamada "Memphis Belle". Decidió ponerle ese nombre a su B-17 y pidió al artista del grupo, el Cabo Anthony L. Starcer, que pintara a una "Petty Girl" en el morro, basándose en los populares diseños de la revista Esquire del ilustrador George Petty.
+La prensa estadounidense convirtió el regreso de la tripulación en una historia de resistencia y esperanza, útil para las campañas de bonos de guerra. El avión recibió un nombre propio, arte en el morro y una identidad visual que el público podía recordar. La película documental de William Wyler amplió ese relato al mostrar las condiciones de vuelo y la cooperación dentro del bombardero. Esa fama tuvo un efecto simplificador: el nombre «Memphis Belle» terminó designando a la vez el avión, sus tripulantes y una hazaña colectiva, aunque los registros de vuelo no asignen el mismo número de misiones a personas y aeronave.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
-- **15 de julio de 1942:** El Capitán Morgan toma posesión del B-17F 41-24485.
-- **31 de agosto de 1942:** El avión es asignado al 324º Escuadrón de Bombardeo, 91º Grupo de Bombardeo en Bangor, Maine.
-- **14 de septiembre de 1942:** El avión parte hacia Inglaterra a través de la ruta del Atlántico Norte.
-- **7 de noviembre de 1942:** Primera misión de combate del Memphis Belle (contra Brest).
-- **17 de mayo de 1943:** Completa su 25ª misión, atacando la base de submarinos de Lorient.
-- **9 de junio de 1943:** La tripulación vuela el Memphis Belle de regreso a Estados Unidos.
-- **Julio de 1943 - principios de 1944:** Gira de bonos de guerra por todo el país.
-- **Abril de 1944:** Estreno del documental "Memphis Belle: A Story of a Flying Fortress".
-- **1945-1946:** El avión es almacenado, esperando ser desguazado.
-- **1946:** La ciudad de Memphis compra el avión por 350 dólares y lo exhibe en un pedestal durante décadas.
-- **2005:** La Fuerza Aérea de EE. UU. recupera el avión para restaurarlo.
-- **17 de mayo de 2018:** El avión completamente restaurado se exhibe en el Museo Nacional de la Fuerza Aérea de EE. UU. en Dayton, Ohio, exactamente 75 años después de su última misión.
+
+La secuencia que dio origen a la leyenda se entiende al seguir por separado el historial de la tripulación y el del avión. Las fechas y los cómputos que se presentan abajo se apoyan en los registros del museo y de los archivos nacionales.
+
+- **7 de noviembre de 1942:** el Memphis Belle realizó su primera misión de combate con el 91.º Grupo de Bombardeo en Inglaterra. En los meses siguientes, la tripulación de Morgan acumuló salidas dentro de una campaña en la que las bajas, los daños y la disponibilidad de aviones podían alterar la composición de cada tripulación.
+- **13 de mayo de 1943:** el B-17 Hell’s Angels del 303.º Grupo alcanzó primero el umbral de 25 misiones de un avión, según el B-17 Museum. Este antecedente es independiente del cómputo posterior de los aviadores del Memphis Belle.
+- **17 de mayo de 1943:** los diez integrantes de la tripulación de Morgan completaron su salida de combate número 25. El avión que llevaba su nombre registró entonces 24 misiones, porque el total personal de la tripulación incluía salidas realizadas en otros aparatos.
+- **19 de mayo de 1943:** el Memphis Belle realizó su misión 25 con otra tripulación. Ese dato cierra la diferencia de dos días entre el logro de los aviadores y el registro del aparato.
+- **Junio de 1943:** el avión y su tripulación regresaron a Estados Unidos para participar en una gira de promoción de bonos de guerra. El aparato fue recibido como símbolo de una misión de combate concluida con éxito.
+- **1944:** el documental *Memphis Belle: A Story of a Flying Fortress*, dirigido por William Wyler, llevó a las salas de cine imágenes tomadas durante el servicio de combate y dio mayor alcance público a la historia.
+- **Décadas posteriores:** el bombardero pasó por un largo proceso de conservación y restauración antes de ser expuesto en el National Museum of the United States Air Force, en Dayton, Ohio.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
-- **Ícono del esfuerzo bélico:** El "Memphis Belle" se convirtió en un poderoso símbolo de la campaña de bombardeo aliada y del sacrificio de las tripulaciones aéreas.
-- **Éxito de la gira de bonos:** La gira ayudó a recaudar miles de millones de dólares para financiar el esfuerzo de guerra.
-- **Documental histórico:** La película de Wyler sigue siendo un testimonio invaluable de la guerra aérea.
-- **Mito vs. Realidad:** La historia del "Memphis Belle" como el primer B-17 en completar 25 misiones es un mito popular que persiste, aunque el avión y su tripulación fueron de los primeros y su historia fue inmortalizada por la eficaz campaña publicitaria.
 
-### El documental de William Wyler
-El director de cine William Wyler, famoso por películas como "Ben-Hur", se alistó en la USAAF y se propuso filmar un documental sobre una tripulación de bombardero. Junto a su equipo de rodaje, Wyler voló en varias misiones peligrosas para capturar la crudeza del combate aéreo. Las imágenes de la cabina del "Memphis Belle" y de otros B-17, incluyendo las del interior del bombardero durante una misión real, se convirtieron en el corazón del documental de 45 minutos "Memphis Belle: A Story of a Flying Fortress", estrenado en abril de 1944. La película es considerada uno de los mejores documentales bélicos jamás realizados, mostrando sin concesiones el estrés y el peligro que enfrentaban las tripulaciones.
+El regreso de los aviadores proporcionó a las autoridades una historia visible de la campaña aérea y permitió que el público asociara el esfuerzo bélico con rostros, nombres y una aeronave reconocible. La gira de bonos de guerra convirtió el logro en una pieza de comunicación nacional, mientras que la película de Wyler ofreció una representación más directa de los riesgos y de la cooperación dentro de un bombardero. Esa visibilidad no debe llevar a presentar al Memphis Belle como el primer avión en alcanzar el umbral: el Hell’s Angels lo había hecho antes. Tampoco debe trasladarse automáticamente el total de misiones de la tripulación al aparato. La diferencia entre ambos registros es parte de la historia documentada, no un detalle menor de numeración.
 
-### Un mito matizado: el primer avión vs. la primera tripulación completa
-Aunque el "Memphis Belle" se convirtió en el símbolo por excelencia de las 25 misiones, no fue el primer B-17 en lograrlo como aeronave. Ese honor pertenece a otro B-17F, el "Hell's Angels" (41-24577), del 358º Escuadrón de Bombardeo, que completó su 25ª misión el 13 de mayo de 1943, cuatro días antes que el Memphis Belle. El "Hell's Angels" continuó volando hasta completar 48 misiones y sobrevivió a la guerra, aunque fue desguazado en 1945.
-
-Sin embargo, el Memphis Belle y su **tripulación completa** fueron los primeros en regresar a Estados Unidos como grupo, habiendo completado su gira de combate. La fama del "Memphis Belle" se debe al documental de William Wyler y a la campaña de relaciones públicas que convirtió a su tripulación en un símbolo patrio, algo que el "Hell's Angels" no tuvo.
+La celebridad de la aeronave ofreció una manera comprensible de acercar una campaña aérea compleja al público, pero una historia individual no representa a todas las tripulaciones. Muchos aviadores no regresaron y numerosos aparatos cumplieron misiones sin convertirse en emblemas nacionales. Leer la película y la gira como instrumentos de memoria y movilización permite conservar su importancia sin confundir la visibilidad de un bombardero con un balance completo de la guerra aérea.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
-El legado del "Memphis Belle" es perdurable. Su historia ha sido contada en libros, un popular largometraje de 1990, y el propio documental de 1944. Es el B-17 más famoso de la historia. Su restauración y exhibición en el Museo Nacional de la Fuerza Aérea de EE. UU. garantiza que las futuras generaciones puedan ver el icónico avión que simboliza el coraje y la resistencia de los hombres que sirvieron en la "Mighty Eighth". El "Memphis Belle" es un recordatorio tangible del costo humano de la guerra y de los aviadores que volaron hacia el peligro día tras día, cumpliendo con su deber.
 
-### El destino de la tripulación tras la guerra
-- **Robert K. Morgan:** Se convirtió en piloto de pruebas y luego en piloto de línea de Northwest Airlines. Falleció en 2004, siendo el último miembro original de la tripulación en morir.
-- **James A. Verinis:** Permaneció en la Fuerza Aérea, retirándose como teniente coronel. Falleció en 2003.
-- **Otros miembros:** La mayoría de la tripulación regresó a la vida civil, algunos continuaron en la aviación, y otros llevaron vidas más privadas.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre el "mito" del primer B-17 en completar 25 misiones:</strong></p>
-<ul>
-  <li><strong>Primer avión (como aeronave):</strong> El B-17F "Hell's Angels" (41-24577) completó 25 misiones el 13 de mayo de 1943, cuatro días antes que el Memphis Belle. Llegó a volar 48 misiones y sobrevivió a la guerra, aunque fue desguazado en 1945.</li>
-  <li><strong>Primera tripulación completa (todos los miembros originales):</strong> La tripulación del Memphis Belle fue la primera en completar 25 misiones y regresar a Estados Unidos como grupo (con la mayoría de sus miembros originales). El Hell's Angels, aunque el avión voló más misiones, tuvo cambios en su tripulación a lo largo del camino.</li>
-  <li><strong>Fama y reconocimiento:</strong> El Memphis Belle se convirtió en el ícono porque fue seleccionado para el documental de William Wyler y la posterior gira de bonos de guerra, lo que el Hell's Angels no tuvo.</li>
-</ul>
-<p>Por lo tanto, el Memphis Belle fue el segundo avión en alcanzar 25 misiones, pero el primero en tener una tripulación completa que regresó como grupo, y su fama se debe principalmente a la campaña publicitaria que lo acompañó.</p>
-</div>
+El Memphis Belle se conserva como una de las aeronaves más reconocibles de la aviación militar estadounidense y como objeto central de una narrativa de guerra que mezcló servicio, prensa y cine. Su restauración permitió devolver al avión una presencia material en el museo, mientras que los fondos audiovisuales de los Archivos Nacionales preservan imágenes filmadas por Wyler y su equipo. La leyenda sigue siendo más precisa cuando distingue el logro de los diez tripulantes del historial de la aeronave y reconoce que el Hell’s Angels llegó antes a 25 misiones. Esa lectura no disminuye la importancia del 17 de mayo: identifica exactamente qué personas alcanzaron el umbral y en qué momento. 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
+
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/17-may-1943/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 17 May 1943</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196252/boeing-b-17f-memphis-belle/" style="color: #315fea; text-decoration: none;">National Museum of the USAF - Boeing B-17F Memphis Belle</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Memphis_Belle_(aircraft)" style="color: #315fea; text-decoration: none;">Wikipedia - Memphis Belle (aircraft)</a></li>
-    <li><a href="https://www.nationalww2museum.org/war/articles/belle-of-the-skies-the-legacy-of-the-memphis-belle" style="color: #315fea; text-decoration: none;">The National WWII Museum - Belle of the Skies: The Legacy of the Memphis Belle</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/article/1506245/the-memphis-belle-american-icon/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force — Memphis Belle</a></li>
+    <li><a href="https://unwritten-record.blogs.archives.gov/2018/05/16/memphis-belle-the-75th-anniversary-of-the-25th-mission/" style="color: #315fea; text-decoration: none;">National Archives and Records Administration — aniversario de la misión 25</a></li>
+    <li><a href="https://www.b17museum.ch/news_e.php?id=175" style="color: #315fea; text-decoration: none;">B-17 Museum — historial de misiones del Memphis Belle y del Hell’s Angels</a></li>
+    <li><a href="https://www.thisdayinaviation.com/17-may-1943/" style="color: #315fea; text-decoration: none;">This Day in Aviation — misión 25 de la tripulación del Memphis Belle</a></li>
+    <li><a href="https://catalog.archives.gov/id/4523496" style="color: #315fea; text-decoration: none;">National Archives Catalog — película de William Wyler</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<div class="note-box">
+<p><strong>Nota sobre los cómputos:</strong> el National Museum of the United States Air Force y la National Archives and Records Administration distinguen la misión 25 de la tripulación, el 17 de mayo, de la misión 25 del avión, el 19 de mayo con otro grupo de aviadores. El B-17 Museum presenta en su introducción la salida número 25 del Memphis Belle el día 17, pero su tabla registra 24 misiones el 17 y la número 25 el 19. Se conserva la distinción respaldada por las fuentes institucionales y no se consigna el objetivo de la salida del día 17.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
-- **Fuentes primarias/institucionales consultadas:** This Day in Aviation, National Museum of the USAF (.mil), Wikipedia, The National WWII Museum
-- **Discrepancias resueltas:** Las fuentes coinciden en la fecha de la 25ª misión (17 de mayo de 1943). Se ha aclarado la diferencia entre el "Memphis Belle" y el "Hell's Angels" como el primer avión en completar 25 misiones (Hell's Angels, 13 de mayo de 1943) frente a la primera tripulación completa (Memphis Belle). Se ha corregido la información sobre el fallecimiento de la tripulación.
-- **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+
+- **Timestamp de verificación:** 2026-10-05 16:45:42 CST  
+- **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force; National Archives and Records Administration.  
+- **Fuentes secundarias de contraste:** B-17 Museum; This Day in Aviation.  
+- **Discrepancias resueltas:** se separan las 25 misiones de la tripulación (17 de mayo) y las del avión (19 de mayo).  
+- **Nivel de confianza:** Alto.  
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -1,119 +1,85 @@
 ---
 layout: post
-title: "20 de junio de 1944 | La Batalla del Mar de Filipinas destruye la aviación naval japonesa"
+title: "20 de junio de 1944 | Culmina la batalla del Mar de Filipinas"
 date: 1944-06-20
 categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos / Japón
-operator: U.S. Navy / IJN
-excerpt: "El 20 de junio de 1944, la Batalla del Mar de Filipinas concluyó con una victoria estadounidense decisiva que destruyó la capacidad operativa de la aviación naval japonesa en la Segunda Guerra Mundial. Conocida como la 'Gran Cacería de Pavos de las Marianas', fue la mayor batalla entre portaaviones de la historia."
+operator: United States Navy (U.S. Navy) (Armada de Estados Unidos) / Imperial Japanese Navy (Armada Imperial Japonesa)
+excerpt: "La batalla del Mar de Filipinas culminó el 20 de junio de 1944, tras dos días de combates aeronavales iniciados el 19; el ataque final estadounidense alcanzó a la flota japonesa en retirada."
 image: 1944-06-20-batalla-mar-filipinas-segunda-guerra-mundial.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-06-20-batalla-mar-filipinas-segunda-guerra-mundial.webp" alt="Aviones TBF Avenger y SB2C Helldiver de la Task Force 58 en ruta para atacar durante la Batalla del Mar de Filipinas, 20 de junio de 1944">
-  <figcaption class="post-caption">Aviones torpederos Grumman TBF Avenger y bombarderos en picado Curtiss SB2C Helldiver de la Task Force 58, en ruta para atacar a la flota japonesa durante la Batalla del Mar de Filipinas, el 20 de junio de 1944 (foto publicada oficialmente el 30 de junio de 1944); fuente: U.S. Navy / NHHC (80‑G‑238021).</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1944-06-20-batalla-mar-filipinas-segunda-guerra-mundial.webp" alt="Aeronaves embarcadas de Estados Unidos durante la campaña de las Marianas">
+  <figcaption class="post-caption">Aeronaves de la Armada de Estados Unidos en operaciones en el Pacífico durante la campaña de las Marianas; imagen de archivo asociada al teatro de guerra. Fuente: Naval History and Heritage Command.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>La Batalla del Mar de Filipinas, librada entre el 19 y el 20 de junio de 1944, fue el mayor enfrentamiento entre portaaviones de la historia y supuso el fin de la aviación naval japonesa como fuerza ofensiva en la Segunda Guerra Mundial. La Armada Imperial Japonesa, que había lanzado la operación A-Go para defender las Islas Marianas, perdió tres portaaviones, cientos de aviones y a la mayoría de sus pilotos entrenados. Los estadounidenses, con pilotos mejor preparados, aviones superiores y el uso de radar, convirtieron la batalla en una "cacería de pavos", derribando más de 400 aviones japoneses en combate aéreo. El 20 de junio, un ataque de largo alcance de la Task Force 58 hundió el portaaviones Hiyō, y los aviones estadounidenses regresaron a sus portaaviones en la oscuridad, en un episodio conocido como el "vuelo más allá de la oscuridad". La victoria selló el destino de las Marianas y dejó a la Armada japonesa sin capacidad de lanzar grandes operaciones con portaaviones.</p>
+<p>La batalla del Mar de Filipinas se libró el 19 y 20 de junio de 1944, durante la campaña estadounidense para conquistar las islas Marianas. El 20 de junio, la fuerza de portaaviones estadounidense lanzó un ataque de largo alcance contra la flota japonesa en retirada, tras lo cual recuperó sus aviones de noche con dificultades y pérdidas. El combate del día anterior —popularizado como el «Gran tiro al pavo de las Marianas»— había desgastado severamente la aviación embarcada japonesa. Las fuentes no publican un recuento idéntico de aeronaves perdidas: el National Park Service informa 480, mientras un estudio del Naval History and Heritage Command estima unas 476 con un alcance de cómputo más explícito. La diferencia se conserva en lugar de fundirse en una cifra única.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
-- **Fechas:** 19-20 de junio de 1944 
-- **Lugar:** Mar de Filipinas, al oeste de las Islas Marianas 
-- **Nombre popular:** "Gran Cacería de Pavos de las Marianas" (Great Marianas Turkey Shoot) 
-- **Comandante japonés:** Vicealmirante Jisaburō Ozawa (Flota Móvil) 
-- **Comandantes estadounidenses:** Almirante Raymond Spruance (5ª Flota) y Vicealmirante Marc Mitscher (Task Force 58) 
-- **Fuerzas estadounidenses:** 7 portaaviones de flota (grandes, con capacidad para 80-100 aviones), 8 portaaviones ligeros (más pequeños, con capacidad para 30-50 aviones), 7 acorazados, 956 aviones 
-- **Fuerzas japonesas:** 5 portaaviones de flota (grandes), 4 portaaviones ligeros (más pequeños), 5 acorazados, 450 aviones embarcados y 300 terrestres 
-- **Pérdidas japonesas:** 3 portaaviones de flota hundidos (Taihō, Shōkaku, Hiyō), 2 petroleros, 550-645 aviones destruidos, ~2.987 muertos 
-- **Pérdidas estadounidenses:** 123 aviones destruidos, 109 muertos 
-- **Resultado:** Victoria estadounidense decisiva; destrucción de la aviación naval japonesa 
+- **Fechas:** 19–20 de junio de 1944; el 20 de junio fue la culminación de la batalla.
+- **Área:** aguas al oeste de las islas Marianas, en el Pacífico central.
+- **Bandos:** flota móvil japonesa bajo el mando del Vicealmirante Jisaburō Ozawa frente a las fuerzas de portaaviones de Estados Unidos.
+- **Marco operacional:** operación japonesa A-Go, en respuesta al desembarco estadounidense en Saipán.
+- **Combate aéreo principal:** 19 de junio, con ataques japoneses interceptados por cazas y defensas estadounidenses.
+- **Acción naval:** submarinos estadounidenses hundieron los portaaviones Taihō y Shōkaku durante la batalla.
+- **Ataque del 20 de junio:** aeronaves estadounidenses alcanzaron al grupo japonés en retirada y hundieron el portaaviones Hiyō.
+- **Nombre popular:** «Gran tiro al pavo de las Marianas» se refiere sobre todo al combate aéreo del 19 de junio, no a cada fase de los dos días.
+- **Cómputo de pérdidas:** las instituciones publican 480 y alrededor de 476 aeronaves japonesas perdidas, con alcances distintos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-En junio de 1944, el teatro del Pacífico de la Segunda Guerra Mundial se encontraba en un momento crítico. Las fuerzas estadounidenses, tras una campaña de "salto de isla" que había capturado las Islas Marshall y las Gilbert, se preparaban para invadir las Islas Marianas, un archipiélago que Japón consideraba parte de su territorio nacional. La caída de Saipan, Tinian y Guam pondría las bases aéreas estadounidenses a menos de 2.400 kilómetros de Tokio, dentro del alcance de los nuevos bombarderos B-29 Superfortress. Para la Armada Imperial Japonesa, esta era la "batalla decisiva" (kantai kessen) para la que había entrenado durante décadas.
+La batalla ocurrió cuando las fuerzas estadounidenses desembarcaron en Saipán y amenazaron posiciones japonesas en las Marianas. Para Japón, la defensa del archipiélago ofrecía una oportunidad de frenar el avance estadounidense y obligarlo a combatir lejos de sus bases. La operación A-Go reunió a la flota móvil con fuerzas aéreas procedentes de portaaviones y de bases terrestres. Estados Unidos respondió con una fuerza de portaaviones que podía coordinar exploración, defensa y ataques a larga distancia. El encuentro fue así una disputa por las Marianas y, a la vez, un choque entre sistemas de aviación naval con distintos niveles de experiencia y capacidad de reposición.
 
 ### Entorno social
 
-Tras Marshall y las Gilbert, EE.UU. apuntaba a Saipan, Tinian y Guam —a menos de 2.400 km de Tokio, al alcance del B-29—, y Japón jugaba su kantai kessen: Toyoda lanzó la Operación A-Go como la batalla decisiva entrenada durante décadas.
+Las tripulaciones de ambos bandos operaban desde portaaviones en condiciones de alta exigencia: despegues y aterrizajes sobre cubierta, largas misiones de búsqueda y combate, y escasas oportunidades de rescate en mar abierto. La experiencia de los pilotos japoneses se había reducido por pérdidas acumuladas en campañas anteriores y por la dificultad de sustituir aviadores veteranos. Estados Unidos, en cambio, disponía de una estructura de entrenamiento más amplia y podía rotar personal y aeronaves. La disparidad no anuló el valor individual de los aviadores ni la incertidumbre táctica; sí influyó en la capacidad de cada flota para absorber pérdidas y sostener nuevas salidas.
 
 ### Entorno tecnológico
 
-EE.UU. leyó el Z-Plan capturado y Layton predijo fuerza y momento por Ultra; en el aire, Hellcats con radar y pilotos de dos años de escuela frente a reclutas de tres meses en aviones sin blindaje ni autosellantes decidieron la «cacería».
+Los portaaviones estadounidenses coordinaban radares de detección, dirección de cazas y defensa antiaérea de la flota. Los cazas Grumman F6F Hellcat podían interceptar los ataques antes de que alcanzaran a los buques, mientras los grupos aéreos japoneses debían cubrir distancias grandes desde varias bases y portaaviones. La búsqueda de objetivos, la comunicación entre unidades y el combustible disponible condicionaban el resultado tanto como las prestaciones de cada modelo. Al día siguiente, la distancia hasta la flota japonesa llevó a los aviadores estadounidenses a realizar un ataque al límite de su autonomía y regresar de noche, una fase que expuso nuevos riesgos incluso después de alcanzar el blanco.
 
 ### Entorno cultural
 
-Última de las cinco grandes batallas de portaaviones, Filipinas dividió a la historiografía por la cautela de Spruance —proteger Saipan frente a aniquilar a Ozawa, en contraste con Halsey en Leyte— y dejó a los supervivientes, como el Zuikaku, reducidos a señuelos.
+El apodo popular de la jornada se difundió para describir el balance favorable de los cazas estadounidenses durante el 19 de junio. La metáfora transmitía una imagen de superioridad y fue ampliamente reproducida, pero puede reducir una operación compleja a una frase triunfal. La batalla incluyó submarinos, aeronaves de reconocimiento, unidades de tierra, ataques de largo alcance y accidentes durante el retorno. También fue un episodio de gran pérdida humana y material para Japón. La denominación popular es útil si se acota a la jornada de combate aéreo que la originó y no sustituye el nombre ni el periodo completo de la batalla.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **15 de junio de 1944:** Las fuerzas estadounidenses desembarcan en Saipan 
-- **17 de junio de 1944:** La flota japonesa se reagrupa al oeste del Mar de Filipinas y completa el reabastecimiento 
-- **18 de junio de 1944:** La Task Force 58 (TF 58) del Vicealmirante Marc Mitscher se forma cerca de Saipan para enfrentar a los japoneses 
-- **19 de junio de 1944, 09:00 horas:** Comienza la batalla. El submarino USS Albacore (SS-218) torpedea y hunde el portaaviones Taihō, el buque insignia de Ozawa 
-- **19 de junio de 1944:** El submarino USS Cavalla (SS-244) torpedea y hunde el portaaviones Shōkaku 
-- **19 de junio de 1944, durante todo el día:** Cuatro oleadas de aviones japoneses (326 aviones) atacan la TF 58. Los cazas Hellcat estadounidenses, con apoyo de radar, derriban aproximadamente 224 aviones en lo que se conoce como la "Gran Cacería de Pavos de las Marianas" 
-- **20 de junio de 1944, tarde:** 226 aviones estadounidenses despegan en un ataque de largo alcance contra la flota japonesa en retirada, hundiendo el portaaviones Hiyō y dos petroleros 
-- **20 de junio de 1944, noche:** Los aviones estadounidenses regresan a sus portaaviones al anochecer; muchos se quedan sin combustible y deben amerizar en la oscuridad. El Almirante Mitscher arriesga sus barcos y enciende todas las luces para guiar a sus pilotos, salvando a muchos 
-- **Posteriormente:** La Armada japonesa pierde la mayor parte de su aviación naval y nunca se recupera; el camino queda libre para la ocupación estadounidense de las Marianas 
+La batalla fue una serie de acciones conectadas por la invasión de las Marianas. La secuencia a continuación destaca los movimientos que condujeron a la culminación del 20 de junio.
 
-### La "Gran Cacería de Pavos de las Marianas"
-
-El apodo **"Gran Cacería de Pavos de las Marianas"** (Great Marianas Turkey Shoot) fue acuñado por un piloto estadounidense del USS Lexington, que comentó: *"¡Caramba, fue como una cacería de pavos como las de antes!"*. El nombre refleja la desproporcionada facilidad con la que los aviadores estadounidenses derribaron a sus oponentes.
-
-El 19 de junio, la TF 58 tenía 15 portaaviones (7 de flota y 8 ligeros) y 450 cazas Hellcat. Los japoneses lanzaron 326 aviones en cuatro oleadas. Los Hellcat, guiados por control de radar desde los portaaviones, los interceptaron a distancia. En lugar de enfrentarse a pilotos entrenados, los estadounidenses encontraron a jóvenes reclutas japoneses que volaban aviones obsoletos, con poco blindaje y depósitos de combustible sin protección. Los Hellcat derribaron aproximadamente 224 aviones japoneses en combate aéreo, perdiendo solo unos pocos de los suyos.
-
-El Almirante Ozawa, que había ordenado a sus aviones dirigirse a Guam después del ataque, creyó erróneamente que muchos de ellos habían aterrizado allí, aunque en realidad la mayoría habían sido derribados. Esta confusión contribuyó a su decisión de mantener la posición y permitir un segundo ataque estadounidense al día siguiente.
-
-### El papel de los submarinos
-
-Los submarinos estadounidenses desempeñaron un papel decisivo en la batalla, hundiendo dos de los portaaviones japoneses más grandes y modernos:
-
-- **USS Albacore (SS-218):** El 19 de junio, el Albacore disparó seis torpedos contra el portaaviones Taihō, el buque insignia de la Flota Móvil de Ozawa y el portaaviones más grande y moderno de Japón. Un torpedo impactó, provocando una serie de explosiones que finalmente hundieron la nave.
-
-- **USS Cavalla (SS-244):** Ese mismo día, el Cavalla torpedeó al portaaviones Shōkaku, un veterano de Pearl Harbor y de la Batalla del Mar de Coral. El Shōkaku se hundió tras más de una hora de lucha, llevándose a más de 1.200 tripulantes.
-
-Estos hundimientos, logrados en el primer día de batalla, privaron a Japón de dos de sus portaaviones más valiosos.
-
-### El "vuelo más allá de la oscuridad"
-
-El 20 de junio, los aviones de la TF 58 lanzaron un ataque de largo alcance contra la flota japonesa en retirada. 226 aviones despegaron, sabiendo que muchos no tendrían combustible para regresar y que el aterrizaje se haría de noche, una maniobra para la que no estaban entrenados. Los pilotos estadounidenses hundieron el portaaviones Hiyō y dos petroleros, pero al regresar, la noche los envolvió. Muchos se quedaron sin combustible.
-
-En un acto de audacia, el Almirante Mitscher ordenó a sus portaaviones que encendieran todas sus luces, a pesar del riesgo de atraer submarinos japoneses, para guiar a sus pilotos. Esta decisión, conocida como el **"vuelo más allá de la oscuridad"** o **"vuelo hacia la noche"**, salvó a muchos aviadores, aunque 86 aviones se perdieron (la mayoría por amerizaje forzoso en el mar). La mayoría de las tripulaciones fueron rescatadas.
+- **15 de junio de 1944:** fuerzas estadounidenses desembarcaron en Saipán y abrieron la campaña terrestre de las Marianas. La amenaza a las islas llevó al alto mando japonés a activar un plan para confrontar a la flota de invasión.
+- **18 de junio:** las fuerzas navales se aproximaron al área de combate y los mandos prepararon búsquedas aéreas para localizar al adversario. La zona de operaciones se extendía varios cientos de millas al oeste de Saipán, por lo que los informes de exploración eran decisivos para fijar la posición de la flota enemiga.
+- **19 de junio:** comenzó la principal jornada de combate aéreo. Oleadas japonesas se dirigieron contra la fuerza estadounidense y fueron interceptadas por cazas, radares y fuego antiaéreo; el episodio dio origen al apodo del «Gran tiro al pavo».
+- **19 de junio:** los submarinos estadounidenses Albacore y Cavalla atacaron a la flota japonesa mientras se desarrollaba el combate aéreo. La acción submarina se sumó a las pérdidas aéreas de la jornada.
+- **20 de junio:** la flota japonesa se retiró hacia el oeste. Tras localizarla, aviones estadounidenses emprendieron una salida de largo alcance y atacaron al grupo naval, hundiendo el portaaviones Hiyō.
+- **Noche del 20 de junio:** los aviones estadounidenses regresaron a sus portaaviones después de la puesta del sol. Las cubiertas se iluminaron para facilitar los aterrizajes, aunque varios aparatos se perdieron durante la recuperación o al quedarse sin combustible.
+- **Después del combate:** la flota móvil japonesa se retiró hacia el oeste y dejó de amenazar de inmediato la invasión de Saipán. La campaña terrestre continuó tras la batalla naval: Saipán fue declarada asegurada el 9 de julio y las operaciones por el resto de las Marianas siguieron durante agosto.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-La Batalla del Mar de Filipinas fue una **victoria estadounidense decisiva** que **destruyó la capacidad operativa de la aviación naval japonesa**. Las pérdidas japonesas fueron catastróficas:
+La derrota debilitó de manera profunda la aviación embarcada japonesa y redujo su capacidad para disputar el control del aire en las campañas posteriores. La pérdida de tres portaaviones, junto con pilotos y aeronaves, fue difícil de reemplazar en un sistema que ya tenía problemas de entrenamiento y reposición. Estados Unidos conservó la iniciativa naval y pudo sostener la ofensiva sobre las Marianas, aunque el ataque de regreso nocturno mostró que la superioridad táctica no eliminaba los riesgos operacionales. La batalla no significó el fin de la aviación naval japonesa, que aún participaría en combates posteriores, pero alteró el equilibrio de fuerzas en el Pacífico. El resultado inmediato favoreció la protección de la invasión y abrió camino a bases aéreas más próximas al territorio japonés.
 
-- **Portaaviones:** Hundidos tres portaaviones de flota (Taihō, Shōkaku, Hiyō).
-- **Aviones:** Destruidos entre 550 y 645 aviones, la mayoría en combate aéreo.
-- **Pilotos:** Se perdió a la mayoría de los pilotos experimentados que quedaban, y los reemplazos no tenían la preparación necesaria.
-
-La Armada Imperial Japonesa ya no pudo realizar grandes operaciones ofensivas con portaaviones. La batalla fue descrita como **"la última de cinco grandes batallas entre portaaviones"** entre EE. UU. y Japón. El resultado fue el **fin del poder de ataque de los portaaviones japoneses**.
-
-**La controversia de Spruance:** El Almirante Spruance fue criticado por no perseguir agresivamente a la flota japonesa en retirada, argumentando que perdió la oportunidad de destruirla por completo. Sin embargo, su prioridad era proteger el desembarco en Saipan, y su cautela contrasta con la imprudencia del Almirante Halsey en la Batalla del Golfo de Leyte.
+El episodio mostró también que la ventaja estadounidense dependía de una cadena de detección, coordinación entre portaaviones, dirección de cazas y recuperación de aeronaves, no solo de la calidad individual de los aviones. La retirada japonesa fue grave, pero no equivalió a la desaparición inmediata de su poder militar ni cerró la campaña. Mantener esa distinción evita transformar una victoria decisiva en una afirmación de destrucción total.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-La Batalla del Mar de Filipinas marcó el **final de los portaaviones japoneses como una fuerza de combate efectiva**. Los cuatro portaaviones que sobrevivieron (incluyendo el Zuikaku) fueron utilizados más tarde como señuelos en la Batalla del Golfo de Leyte. La victoria estadounidense aseguró el control de las Marianas, y Saipan, Tinian y Guam cayeron en manos estadounidenses. Con las Marianas, los bombarderos B-29 estadounidenses pudieron atacar el corazón de Japón.
-
-La batalla es recordada como **la mayor batalla de portaaviones de la historia** , y el "Gran Cacería de Pavos de las Marianas" se estudia como un ejemplo de cómo la tecnología, el entrenamiento y la estrategia pueden convertir una batalla en una derrota abrumadora. La **destrucción de la aviación naval japonesa** significó que Japón ya no podría desafiar la supremacía aérea estadounidense en el Pacífico, allanando el camino para la invasión de Filipinas y, finalmente, la derrota de Japón.
+El Mar de Filipinas se recuerda como una batalla decisiva de la guerra aeronaval del Pacífico, pero su estudio requiere separar el combate aéreo del 19 de junio de la batalla completa, que culminó al día siguiente. Los recuentos de aeronaves japonesas perdidas varían porque no todas las fuentes cuentan los mismos tipos de aviones ni los mismos escenarios de destrucción. La memoria del combate también incluye a las tripulaciones que no regresaron y a quienes realizaron aterrizajes nocturnos bajo presión. Para entender el episodio, la imagen popular del «tiro al pavo» debe coexistir con la cronología de la flota, la acción submarina y la operación que permitió a Estados Unidos consolidar su avance en las Marianas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -121,29 +87,25 @@ La batalla es recordada como **la mayor batalla de portaaviones de la historia**
 
 <div class="references">
   <ul>
-    <li><a href="https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1944/battle-philippine-sea.html" style="color: #315fea; text-decoration: none;">U.S. Navy – Battle of the Philippine Sea Overview</a></li>
-    <li><a href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-032/h-032-1.html" style="color: #315fea; text-decoration: none;">U.S. Navy – H-Gram 032: Operation Forager and Battle of Philippine Sea</a></li>
-    <li><a href="https://www.nps.gov/amme/learn/historyculture/battle-of-the-philippine-sea.htm" style="color: #315fea; text-decoration: none;">U.S. National Park Service – Battle of the Philippine Sea</a></li>
-    <li><a href="https://pacificwrecks.com/battle/battle-of-the-philippine-sea.html" style="color: #315fea; text-decoration: none;">Pacific Wrecks – Battle of the Philippine Sea</a></li>
-    <li><a href="https://eresources.nlb.gov.sg/webarchives/wayback/20110302220653/http://en.wikipedia.org/wiki/Battle_of_the_Philippine_Sea" style="color: #315fea; text-decoration: none;">Wikipedia (Archived) – Battle of the Philippine Sea</a></li>
-    <li><a href="https://www.history.navy.mil/content/history/nhhc/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1944/battle-philippine-sea/philippine-sea-photos.html" style="color: #315fea; text-decoration: none;">U.S. Navy – Philippine Sea Photo Gallery</a></li>
-    <li><a href="https://webarchiveweb.wayback.bac-lac.canada.ca/web/20240508130820/https://en.wikipedia.org/wiki/Battle_of_the_Philippine_Sea" style="color: #315fea; text-decoration: none;">Wikipedia (Archived) – Battle of the Philippine Sea (Detailed)</a></li>
-    <li><a href="https://www.britannica.com/event/Battle-of-the-Philippine-Sea" style="color: #315fea; text-decoration: none;">Britannica – Battle of the Philippine Sea</a></li>
+    <li><a href="https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1944/battle-philippine-sea.html" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command — batalla del Mar de Filipinas</a></li>
+    <li><a href="https://www.nps.gov/amme/learn/historyculture/battle-of-the-philippine-sea.htm" style="color: #315fea; text-decoration: none;">National Park Service — batalla del Mar de Filipinas</a></li>
+    <li><a href="https://www.history.navy.mil/about-us/leadership/director/directors-corner/h-grams/h-gram-032.html" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command — H-Gram 032</a></li>
+    <li><a href="https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1944/battle-philippine-sea/turkey-shoot.html" style="color: #315fea; text-decoration: none;">Naval History and Heritage Command — «Gran tiro al pavo de las Marianas»</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> La batalla se libró entre el 19 y el 20 de junio de 1944. Esta efeméride se centra en el <strong>20 de junio</strong> como fecha de la culminación de la batalla, cuando el ataque de largo alcance de la TF 58 hundió el portaaviones <em>Hiyō</em> y dos petroleros, y los aviones estadounidenses realizaron el famoso "vuelo más allá de la oscuridad". Las cifras de pérdidas varían ligeramente entre fuentes: la Armada de EE. UU. indica 476 aviones japoneses destruidos, mientras que otras fuentes elevan la cifra a más de 600. Las pérdidas estadounidenses son consistentes en torno a 123 aviones y 109 muertos. Los "portaaviones ligeros" mencionados en las fuerzas son portaaviones de menor tamaño y capacidad, diseñados para escolta y apoyo, con capacidad para 30-50 aviones.</p>
+<p><strong>Nota sobre las pérdidas aéreas:</strong> el National Park Service informa 480 aeronaves japonesas perdidas. El H-Gram 032 del Naval History and Heritage Command estima unas 476 y explicita que su cómputo incluye aparatos destruidos en el aire y en tierra, entre ellos aeronaves de exploración y aviación naval basada en tierra. Las dos cifras no se presentan como equivalentes: reflejan alcances de recuento publicados distintos y no se resuelve aquí una cifra única.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
-- **Fuentes primarias/institucionales consultadas:** U.S. Navy (NHHC), U.S. National Park Service, Pacific Wrecks, Wikipedia (Archived), Britannica
-- **Discrepancias resueltas:** Las cifras de aviones japoneses destruidos varían entre 476 y 645 según las fuentes. Se ha optado por presentar el rango (550-645) para reflejar esta discrepancia, indicando que la mayoría de las fuentes coinciden en que la pérdida fue devastadora y superó ampliamente las pérdidas estadounidenses. Se ha aclarado el término "portaaviones ligeros" para evitar confusión.
-- **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Timestamp de verificación:** 2026-10-05 16:45:42 CST  
+- **Fuentes primarias/institucionales consultadas:** Naval History and Heritage Command; National Park Service.  
+- **Discrepancias resueltas:** Ninguna; 480 y aproximadamente 476 permanecen atribuidos con sus alcances.  
+- **Nivel de confianza:** Medio.  
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
