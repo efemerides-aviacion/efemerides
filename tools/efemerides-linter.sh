@@ -18,6 +18,7 @@
 # (supresión del TXT en la entrega de los datos del commit; sin auditorías nuevas).
 # alineado con Plantilla Maestra v2.21 · Instrucciones de Formato v2.20 · Instrucciones de Procesar v2.15 el 2026-10-02
 # (corrección documental del flujo de commit; sin cambios de código ni auditorías nuevas).
+# Recuento descriptivo de extensión actualizado el 2026-10-06; sin cambios funcionales.
 #
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
@@ -451,8 +452,10 @@ fi
 # --------------------------------- Extensión narrativa (Manual v1.18 § 5.10)
 # Aviso, no fallo: la banda de 1.150–1.500 palabras narrativas (tope recomendado
 # de 1.550) rige para las nuevas altas desde el 29-09-2026 y no tiene efecto
-# retroactivo sobre el corpus publicado, que registra 194 posts por encima del
-# tope congelados por la no-retroactividad del 23-09-2026.
+# retroactivo sobre el corpus publicado.
+# Con este método, la fotografía del commit 3778d3c3b440 (2026-09-29; 608 posts)
+# registra 167 posts por encima de 1.550; el HEAD cbc4443e29e3 (2026-10-06;
+# 624 posts) registra 70.
 # Medición: del comentario del Resumen Ejecutivo al encabezado «## Referencias
 # Verificadas», descontadas las etiquetas HTML.
 NARR=$(awk '/<!-- *## Resumen Ejecutivo/{f=1} f && /^## Referencias Verificadas$/{f=0} f' <<<"$BODY")
