@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "8 de mayo de 1945 | Probable último derribo de un avión alemán en el frente occidental durante el VE Day"
+title: "8 de mayo de 1945 | Dos candidaturas al último avión alemán abatido en el frente occidental"
 date: 1945-05-08
 categories: [evento]
 author: Enrique Pomares
 pais: Alemania / Estados Unidos
 operator: Luftwaffe / USAAF
-excerpt: "El 8 de mayo de 1945, horas antes de la entrada en vigor del alto el fuego, un caza P-38 Lightning estadounidense abatió un Siebel Si 204 alemán cerca de Bad Rodach (Baviera). Es considerado el probable último derribo aire-aire de un avión de la Luftwaffe en el frente occidental durante la Segunda Guerra Mundial."
+excerpt: "El 8 de mayo de 1945, un P-38 recibió crédito por abatir un Si 204 cerca de Rodach. Otro registro describe un Ju 88 alcanzado por fuego antiaéreo horas antes; no fue un derribo aire-aire."
 image: 1945-05-08-ultimo-avion-derribado-dia-victoria-europa.webp
 ---
 
@@ -15,107 +15,97 @@ image: 1945-05-08-ultimo-avion-derribado-dia-victoria-europa.webp
   <figcaption class="post-caption">Un Siebel Si 204, avión ligero bimotor de transporte y entrenamiento, del mismo tipo que el abatido el 8 de mayo de 1945 en Baviera. La imagen no corresponde al aparato derribado. Fuente: <a href="https://commons.wikimedia.org/wiki/Category:Siebel_Si_204" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 8 de mayo de 1945, el Día de la Victoria en Europa (VE Day), cuando la rendición alemana estaba a punto de entrar en vigor a las 23:01 horas, un caza estadounidense P-38 Lightning pilotado por el Teniente Segundo Kenneth L. Swift, del 429.º Escuadrón de Caza, interceptó un avión de transporte alemán Siebel Si 204 tres millas al sureste de Bad Rodach, en Baviera. El registro oficial de la Fuerza Aérea de los Estados Unidos acredita a Swift la destrucción del aparato ese día. Es considerado por diversas fuentes historiográficas como el probable último avión alemán abatido por fuego aire-aire en el frente occidental antes del cese definitivo de las hostilidades.</p>
+<p>El 8 de mayo de 1945, día de la Victoria en Europa, un P-38 estadounidense recibió crédito por abatir un Siebel Si 204 al sureste de Rodach, Baviera. La historia del 474.º Grupo de Caza atribuye el derribo a Kenneth L. Swift hacia las 20:05, antes de la entrada en vigor del alto el fuego. El caso suele citarse como candidato al último derribo aire-aire de un avión alemán en el frente occidental. El Museo Nacional del Aire y el Espacio describe otro episodio del día: un Ju 88 que cayó tras ser alcanzado por fuego antiaéreo. Son hechos de categorías distintas; las fuentes no permiten cerrar una candidatura única para todos los derribos del 8 de mayo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
-- **Fecha:** 8 de mayo de 1945 (VE Day)
-- **Lugar:** 3 millas al sureste de Bad Rodach, Baviera, Alemania
-- **Aeronave estadounidense:** Lockheed P-38 Lightning
-- **Piloto:** Teniente Segundo Kenneth L. Swift, número de serie A000773467
-- **Unidad:** 429.º Escuadrón de Caza, 474.º Grupo de Caza, IX Fuerza Aérea (USAAF)
-- **Aeronave alemana:** Siebel Si 204, transporte ligero bimotor
-- **Crédito oficial:** 1,00 (destrucción completa), teatro europeo de operaciones
-- **Hora:** hacia las 20:05, según la historia del 474.º Grupo de Caza
-- **Contexto temporal:** El alto el fuego entró en vigor a las 23:01 horas del mismo día
-- **Estatus histórico:** Citado por múltiples fuentes como el probable último avión alemán derribado en combate aéreo en el frente occidental
+- **Fecha:** 8 de mayo de 1945, Día de la Victoria en Europa.
+- **Candidatura aire-aire:** un P-38 Lightning de la USAAF abatió un Siebel Si 204 cerca de Rodach, Baviera, según la historia del 474.º Grupo de Caza.
+- **Piloto atribuido:** Kenneth L. Swift, del 429.º Escuadrón de Caza; la historia de unidad sitúa el hecho hacia las 20:05.
+- **Candidatura distinta:** el Museo Nacional del Aire y el Espacio describe un Ju 88 abatido por fuego antiaéreo ese mismo día, a una hora anterior.
+- **Cese de hostilidades:** la capitulación alemana entró en vigor a las 23:01, hora de Europa Central.
+- **Clasificación:** el caso del Si 204 se presenta como una atribución de derribo entre aeronaves; el del Ju 88 no se clasifica como victoria aire-aire.
+- **Resultado histórico:** las fuentes permiten identificar dos episodios, no establecer una lista completa y unánime del último avión alemán abatido en el frente occidental.
+- **Alcance:** la afirmación se limita al teatro occidental y a los sucesos documentados para el 8 de mayo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-El 8 de mayo de 1945 marcó el final oficial de la Segunda Guerra Mundial en Europa. La capitulación alemana, firmada el 7 de mayo en Reims por el General Alfred Jodl, entró en vigor a las 23:01 horas (hora de Europa Central) del 8 de mayo. Para los Aliados occidentales, esa fecha quedó establecida como el Día de la Victoria en Europa (VE Day), mientras que la Unión Soviética, por diferencia horaria, fijó la celebración el 9 de mayo.
-
-En las últimas semanas del conflicto, el Tercer Reich se encontraba en un colapso administrativo y militar total. Berlín había caído el 2 de mayo, y Adolf Hitler se había suicidado el 30 de abril. No obstante, la Luftwaffe continuó realizando misiones aisladas, principalmente de enlace y evacuación, para trasladar personal militar y heridos desde zonas que serían capturadas por el avance del Ejército Rojo.
+La rendición alemana fue firmada en Reims el 7 de mayo y fijó el cese de las hostilidades para la noche siguiente. Durante el 8 de mayo aún quedaban horas de operaciones y comunicaciones incompletas. Por eso, el Día de la Victoria en Europa no debe imaginarse como un instante único en el que todos los frentes quedaron inmediatamente silenciosos: los registros de unidades continuaron consignando misiones y reclamaciones hasta la entrada efectiva en vigor de la capitulación.
 
 ### Entorno social
 
-La población alemana vivía el fin de la guerra entre el desconcierto y el miedo a la ocupación. Miles de soldados y civiles intentaban desplazarse hacia el oeste para evitar caer en manos soviéticas. Los vuelos de evacuación eran una de las pocas vías de escape para altos mandos y heridos graves.
+En las últimas semanas del Reich, soldados y civiles se desplazaban hacia el oeste para evitar la captura soviética, mientras unidades alemanas intentaban evacuar personal y mantener enlaces entre posiciones en desintegración. Los aviones de transporte, como el Si 204, tenían una función distinta de la de los cazas: podían trasladar personas y suministros, pero su vulnerabilidad en vuelo los exponía a interceptaciones. El derribo atribuido a Swift se produjo en ese contexto de colapso, cuando seguían existiendo movimientos aéreos pese a la inminente terminación formal de la guerra.
 
 ### Entorno tecnológico
 
-El Siebel Si 204 era un avión ligero bimotor de transporte y entrenamiento, desarrollado a partir del Siebel Fh 104 Hallore y fabricado bajo licencia en Francia por la SNCAN y en el Protectorado de Bohemia y Moravia por Aero y BMM. Hasta enero de 1945 se completaron 1.216 unidades. En los últimos meses de la guerra, estos aparatos se empleaban en misiones de enlace, evacuación sanitaria y transporte de personal, sin capacidad ofensiva significativa.
+El P-38 Lightning era un caza bimotor de largo alcance empleado por la USAAF en Europa. Un Si 204, en cambio, era un transporte y entrenador bimotor. No eran adversarios equivalentes en función ni armamento, y la descripción de un encuentro debe atribuirse a los registros que la narran. La historia del 474.º Grupo de Caza vincula a Swift con el derribo del transporte; el estudio de la Fuerza Aérea y otras fuentes aportan el marco de las operaciones del día.
 
-El P-38 Lightning, por su parte, era uno de los cazas más reconocibles de la USAAF, de configuración bimotor y doble botalón. El 474.º Grupo de Caza fue el único grupo del norte de Europa que terminó la guerra volando el P-38: mantuvo el tipo desde su activación, en agosto de 1943, hasta el final de las hostilidades.
+El episodio del Ju 88 mencionado por el Smithsonian pertenece a otro mecanismo de pérdida: el aparato cayó tras ser alcanzado por fuego desde tierra. Aunque ambas aeronaves terminaran destruidas en el mismo día, el término «derribo aire-aire» corresponde solo al caso en que una aeronave enemiga causa la pérdida de otra en combate aéreo. La distinción es esencial para evitar que una candidatura se use como prueba de otra.
 
 ### Entorno cultural
 
-El VE Day simbolizó en los países aliados la liberación del yugo nazi. Las celebraciones masivas en Londres, París y Nueva York contrastaron con la confusión de los últimos combates, donde soldados y aviadores seguían arriesgando sus vidas hasta minutos antes del alto el fuego.
+La expresión «último avión derribado» resume una pregunta atractiva, pero depende de qué se cuente: el último derribo acreditado a un piloto, el último aparato perdido por fuego enemigo, el último enfrentamiento entre aeronaves o el último siniestro ocurrido antes del alto el fuego. Los documentos disponibles no siempre registran esos hechos con la misma precisión temporal ni emplean categorías comparables. La conmemoración del VE Day añade una frontera simbólica que puede hacer parecer definitivo un resultado que, en realidad, exige matices sobre hora, unidad y causa.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **7 de mayo de 1945, 02:41:** La rendición incondicional alemana es firmada en Reims, Francia. El texto ordena a todas las fuerzas bajo control alemán cesar las operaciones ofensivas a las 23:01 horas del 8 de mayo.
-- **8 de mayo de 1945, mañana:** Mientras la Octava Fuerza Aérea lanza su última misión sobre Europa, arrojando octavillas sobre Dunkerque, el combate continúa en otros sectores del continente.
-- **8 de mayo de 1945, hacia las 20:05:** El Teniente Segundo Kenneth L. Swift, del 429.º Escuadrón de Caza, localiza un Siebel Si 204 tres millas al sureste de Bad Rodach, en Baviera, y lo abate. Es su única victoria aérea de la guerra.
-- **8 de mayo de 1945, 23:01:** Entra en vigor el alto el fuego en toda Europa, finalizando oficialmente las hostilidades.
-- **9 de mayo de 1945:** El 474.º Grupo de Caza, uno de los pocos que seguían operando, continúa prestando apoyo aéreo táctico al Primer Ejército de los Estados Unidos desde su base R-2, en Bad Langensalza.
+- **7 de mayo de 1945:** representantes alemanes firmaron en Reims el instrumento de rendición. El documento dispuso que las fuerzas alemanas cesaran las hostilidades a las 23:01 del día siguiente, hora de Europa Central. La firma se produjo en Reims y fijó un horario de cese posterior, de modo que una reclamación del día siguiente todavía podía corresponder a una acción anterior a la entrada en vigor de la rendición.
+- **8 de mayo, durante la tarde:** unidades aéreas aliadas y alemanas seguían activas en sectores donde la información sobre el cese no había llegado de manera simultánea. Los partes posteriores registraron pérdidas y reclamaciones que deben ordenarse con sus propios horarios.
+- **8 de mayo, 14:37 aproximadamente:** la fuente del Museo Nacional del Aire y el Espacio describe un Ju 88 que fue alcanzado por fuego antiaéreo y cayó. Ese episodio ocurrió antes del crédito al P-38, pero no constituye una victoria aire-aire. El Smithsonian describe el Ju 88 a partir de un episodio con defensas terrestres; por ello su cronología no contradice automáticamente la reclamación de un caza en combate aire-aire.
+- **8 de mayo, hacia las 20:05:** la historia del 474.º Grupo de Caza atribuye a Kenneth L. Swift la destrucción de un Si 204 con su P-38, cerca de Rodach. La atribución es la base de la candidatura al último derribo aire-aire. La historia de unidad ofrece el crédito y el lugar, pero la afirmación no funciona como censo de todas las pérdidas aéreas del teatro en ese día.
+- **8 de mayo, noche:** las unidades recibieron y aplicaron las órdenes de cese conforme a la hora fijada en el instrumento de rendición. El cambio no convierte en una sola categoría los casos documentados durante el día.
+- **Después de la guerra:** historias de unidades y relatos conmemorativos popularizaron la expresión «último derribo». La comparación con el Ju 88 llevó a distinguir entre el último crédito aire-aire y otros aviones abatidos por defensas terrestres. La palabra «último» depende del criterio usado: victoria acreditada a un piloto, aeronave perdida por acción enemiga o aparato abatido por cualquier causa. Las fuentes consultadas no ofrecen una lista única que resuelva todas esas categorías.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Un combate sin efecto militar:** El derribo no tuvo incidencia alguna en el resultado de la guerra, ya decidido. Su interés es simbólico: la violencia se prolongó hasta las últimas horas del conflicto.
-- **La disputa sobre el último derribo:** No existe consenso absoluto. En el bando alemán, se atribuye la última victoria de la Luftwaffe al Oberleutnant Fritz Stehle, del 2./JG 7, sobre Checoslovaquia esa misma tarde. La última victoria británica se había producido tres días antes, el 5 de mayo, cuando una patrulla de Spitfire XIV del Escuadrón 130 abatió otro Siebel Si 204 al oeste de Hamburgo. El episodio de Bad Rodach es el más citado como último derribo aire-aire estadounidense en el frente occidental.
-- **Balance del 474.º Grupo de Caza:** Entre el 25 de abril de 1944 y el 8 de mayo de 1945, la unidad realizó 12.954 salidas, lanzó 3.920 toneladas de bombas y se le acreditó la destrucción de 113 aviones en el aire y otros 90 en tierra.
+El efecto inmediato de ambos episodios fue la pérdida de aeronaves en las últimas horas de una guerra que estaba por terminar. El crédito atribuido al P-38 aporta un registro de combate aire-aire; el caso del Ju 88 muestra que el fuego antiaéreo también podía causar una pérdida aérea ese día. No se deben sumar ni ordenar como si fueran el mismo tipo de acción.
+
+La distinción modifica el alcance de la afirmación histórica. Si se pregunta por el último avión alemán abatido por fuego enemigo en general, el Ju 88 y otros episodios deben considerarse; si la pregunta se limita al último derribo entre aeronaves, la reclamación atribuida a Swift es una candidatura posterior. Las fuentes no permiten cerrar el debate con una certeza superior a la documentación conservada, por lo que la fecha se presenta como una conmemoración del caso y no como resolución universal.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El derribo del Siebel Si 204 cerca de Bad Rodach, ocurrido el mismo día de la capitulación alemana, se recuerda como un episodio menor pero elocuente del fin de la guerra en Europa: incluso cuando la paz era ya un hecho inminente y estaba fijada su hora exacta, la maquinaria militar seguía en marcha.
+El último día de la guerra aérea en Europa pone de relieve la distancia entre una fecha simbólica y el ritmo real de las operaciones militares. También muestra cómo una frase breve puede borrar diferencias entre derribo, pérdida por fuego antiaéreo y accidente. La candidatura del Si 204 conserva valor como registro de una acción atribuida a un piloto aliado, pero no elimina la necesidad de revisar otros partes del mismo día.
 
-Para Kenneth L. Swift fue su primera y única victoria de la Segunda Guerra Mundial. Su carrera continuó después del conflicto: voló el North American F-86 Sabre durante la Guerra de Corea, donde sumó un segundo derribo, alcanzó el grado de mayor y llegó a ejercer como instructor en la Fuerza Aérea alemana, la misma cuyo último avión había abatido en 1945.
-
-El caso ilustra además la dificultad de establecer un «último derribo» definitivo en un conflicto que no terminó de forma simultánea en todos los frentes, sino de manera fragmentada y a lo largo de varios días.
+La conclusión más sólida es limitada: el 8 de mayo se registraron distintos episodios de aeronaves alemanas abatidas o perdidas. El Si 204 de Swift es una candidatura al último derribo aire-aire conocido en el frente occidental; el Ju 88 alcanzado desde tierra es un caso diferente y no se convierte en dogfight por aparecer en la misma discusión.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
 
 <div class="references">
-<ul>
-<li><a href="https://www.ibiblio.org/hyperwar/AAF/AAFHS/AAFHS-85.pdf" style="color: #315fea; text-decoration: none;">USAF Historical Study 85, «USAF Credits for the Destruction of Enemy Aircraft, World War II», Albert F. Simpson Historical Research Center y Office of Air Force History, 1978</a>. Registro oficial de créditos aéreos: acredita a SWIFT KENNETH L, 2LT, número de serie A000773467, 429 FTR SQ, teatro europeo, un crédito el 08 05 45.</li>
-<li><a href="https://warfarehistorynetwork.com/article/u-s-474th-fighter-group-1944-1945/" style="color: #315fea; text-decoration: none;">Patrick J. Chaisson, «Lightnings on the Deck», <em>WWII History</em>, abril de 2020, Warfare History Network</a>. Historia del 474.º Grupo de Caza, con la hora del derribo y el balance operativo de la unidad.</li>
-<li><a href="https://theaviationgeekclub.com/final-dogfight-may-8-1945-who-scored-the-last-aerial-victory-of-the-air-war-in-europe/" style="color: #315fea; text-decoration: none;">Dario Leone, «Final Dogfight – May 8, 1945: Who scored the last aerial victory of the air war in Europe?», The Aviation Geek Club</a>, basado en la obra <em>Spitfires Over Berlin</em>, de Dan Sharp. Detalla el escuadrón, el lugar y la trayectoria posterior de Swift.</li>
-<li><a href="https://www.9af.org/474th-fighter-group.cfm" style="color: #315fea; text-decoration: none;">Ficha histórica del 474th Fighter Group, Ninth Air Force Association</a>. Constitución, activación, despliegue y operaciones de la unidad hasta el VE Day.</li>
-<li><a href="https://www.historyofwar.org/air/units/USAAF/474th_Fighter_Group.html" style="color: #315fea; text-decoration: none;">«474th Fighter Group (USAAF)», History of War</a>. Cronología de la unidad y confirmación del empleo continuado del P-38 Lightning.</li>
-<li><a href="https://en.wikipedia.org/wiki/Siebel_Si_204" style="color: #315fea; text-decoration: none;">«Siebel Si 204», Wikipedia en inglés</a>. Datos de desarrollo, producción y uso operativo del tipo.</li>
-</ul>
+  <ul>
+    <li><a href="https://www.dafhistory.af.mil/Portals/16/documents/Studies/51-100/AFD-090601-121.pdf" style="color: #315fea; text-decoration: none;">Air Force Historical Studies: <em>USAF Study 85</em>, operaciones aéreas en Europa</a></li>
+    <li><a href="https://www.9af.org/474th-fighter-group.cfm" style="color: #315fea; text-decoration: none;">Historia del 474.º Grupo de Caza: misiones del 8 de mayo de 1945</a></li>
+    <li><a href="https://warfarehistorynetwork.com/article/u-s-474th-fighter-group-1944-1945/" style="color: #315fea; text-decoration: none;">Warfare History Network: el 474.º Grupo de Caza y el crédito atribuido a Swift</a></li>
+    <li><a href="https://airandspace.si.edu/stories/editorial/last-american-aerial-victory-europe" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: el caso del Ju 88 alcanzado por fuego antiaéreo</a></li>
+  </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> La identidad del piloto aparece con frecuencia como «2nd Lt. K.L. Smith» en fuentes en línea. Se trata de una errata: la entrada figura así en la ficha enciclopédica del Siebel Si 204, y de ahí ha sido copiada por numerosos sitios. El registro oficial de la Fuerza Aérea de los Estados Unidos, citado como fuente por esa misma ficha, consigna <strong>SWIFT KENNETH L</strong>, con el número de serie A000773467 y asignado al 429.º Escuadrón de Caza; el apellido Smith no aparece asociado a ningún crédito de esa fecha y unidad. Debe advertirse asimismo que el registro oficial acredita la destrucción del aparato, pero no recoge la hora del combate, el tipo de avión abatido ni la suerte de sus ocupantes: esos datos proceden de las fuentes secundarias citadas y, en el caso del número de víctimas, no se ha localizado constancia documental.</p>
+  <p><strong>Nota aclaratoria:</strong> no se presenta una candidatura única como resuelta. El Si 204 atribuido al P-38 de Swift corresponde a un posible último derribo aire-aire; el Ju 88 descrito por el Smithsonian se perdió tras ser alcanzado por fuego antiaéreo y no fue un derribo aire-aire. Las fuentes documentan sucesos de categorías distintas y no permiten convertirlos en una sola secuencia definitiva.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:08:20 CST  
-- **Fuentes primarias/institucionales consultadas:** USAF Historical Study 85, «USAF Credits for the Destruction of Enemy Aircraft, World War II» (1978), listado oficial de créditos aéreos de la USAAF. La entrada del 8 de mayo de 1945 se ha verificado en dos secciones independientes del documento: el listado cronológico y el índice alfabético de aviadores, coincidentes en nombre, grado, número de serie y unidad.
-- **Discrepancias resueltas:** La atribución del derribo a un «K.L. Smith», extendida en fuentes secundarias, queda descartada por el registro oficial, que acredita a Kenneth L. Swift. Sobre la condición de «último derribo» no existe consenso absoluto: el episodio de Bad Rodach corresponde al frente occidental y al fuego aire-aire estadounidense, sin que ello excluya acciones posteriores en otros frentes ese mismo día.
-- **Datos no confirmados:** No se ha localizado documentación sobre el número de ocupantes del Siebel Si 204 ni sobre su suerte. La afirmación, presente en algunas versiones divulgadas, de que el aparato se estrelló sin supervivientes carece de respaldo documental y no se recoge en esta efeméride.
-- **Nivel de confianza:** Alto en la identidad del piloto, la unidad, la fecha y el crédito oficial, contrastados con fuente primaria. Medio en la hora exacta y en la condición de «último derribo», sostenidas por fuentes secundarias especializadas.
-
-- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
+- **Timestamp de verificación:** 2026-10-05 20:49:12 CST
+- **Fuentes primarias/institucionales consultadas:** Air Force Historical Studies; Smithsonian National Air and Space Museum.
+- **Fuentes de contraste:** 474th Fighter Group; Warfare History Network.
+- **Discrepancias:** candidaturas distintas según se trate de combate aire-aire o fuego antiaéreo; abiertas.
+- **Nivel de confianza:** Medio en el crédito del Si 204; alto en la distinción entre ambos mecanismos.
+- **Cláusula final:** Cuando una afirmación relevante no pudo confirmarse, se omitió o se marcó como [NO CONFIRMADO].

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "9 de agosto de 1945 | Fat Man sobre Nagasaki, el último ataque nuclear de la historia"
+title: "9 de agosto de 1945 | Fat Man detona sobre Nagasaki"
 date: 1945-08-09
 categories: [evento]
 author: Enrique Pomares
-pais: Estados Unidos
+pais: Japón / Estados Unidos
 operator: 509th Composite Group, United States Army Air Forces
-excerpt: "El B-29 Bockscar lanzó sobre el valle de Urakami la segunda bomba atómica empleada en guerra, tras fallar el objetivo principal."
+excerpt: "El B-29 Bockscar lanzó Fat Man sobre Nagasaki después de no poder atacar Kokura. Las cifras de hora, altura y víctimas varían según la fuente y el periodo de referencia conocido."
 image: 1945-08-09-fat-man-bomba-nagasaki.webp
 ---
 
@@ -14,137 +14,107 @@ image: 1945-08-09-fat-man-bomba-nagasaki.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1945-08-09-fat-man-bomba-nagasaki.webp" alt="Once tripulantes con uniforme de verano posando en fila ante el morro de un bombardero cuatrimotor plateado, con un rótulo en el suelo que identifica a cada uno por su nombre y grado">
   <figcaption class="post-caption">La tripulación del B-29 <em>Bockscar</em> fotografiada el 11 de agosto de 1945, dos días después de la misión sobre Nagasaki. El aparato no lleva todavía la decoración de morro que recibiría más tarde. En el centro, el Mayor Charles W. Sweeney, comandante de la aeronave; a su derecha, el Capitán Kermit K. Beahan, bombardero. Fuente: <a href="https://www.nationalmuseum.af.mil/Upcoming/Photos/igphoto/2000548756/" style="color: #315fea; text-decoration: none;">U.S. Air Force, National Museum of the United States Air Force</a>.</figcaption>
 </figure>
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 9 de agosto de 1945, a las 11:02 de la mañana hora local, el bombardero B-29 <em>Bockscar</em> lanzó sobre el valle de Urakami, en Nagasaki, la bomba de plutonio conocida como Fat Man. Detonó a unos 500 metros de altura con una potencia estimada de 21 kilotones. Fue el segundo y hasta hoy último empleo de un arma nuclear en un conflicto armado.</p>
-<p>Nagasaki no era el objetivo previsto. La misión tenía como blanco principal el arsenal de Kokura, y solo después de tres pasadas infructuosas sobre una ciudad cubierta de humo, con la artillería antiaérea acercándose y una avería en el sistema de combustible que había dejado inaccesibles casi dos mil litros de reserva, el Mayor Charles W. Sweeney puso rumbo al objetivo secundario. Allí las nubes también cubrían el punto de mira, hasta que una abertura momentánea permitió el lanzamiento visual que exigían las órdenes. El avión aterrizó en Okinawa con dos motores parados por falta de combustible.</p>
+<p>El 9 de agosto de 1945, el B-29 <em>Bockscar</em> lanzó la bomba de plutonio Fat Man sobre Nagasaki, después de que nubes y humo impidieran una identificación visual suficiente de Kokura, el objetivo primario. La detonación ocurrió a las 11:02 según la hora japonesa y devastó el valle de Urakami. La ciudad registró 73.884 fallecidos y 74.909 heridos hasta finales de ese año; otras fuentes separan las víctimas inmediatas de las posteriores. Fue el segundo y, hasta hoy, último uso de un arma nuclear en guerra. Su peso en la decisión japonesa de rendirse se discute junto con la entrada soviética en la guerra y el ataque a Hiroshima.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Datos verificados del evento
 
-- **Fecha y hora de la detonación:** 9 de agosto de 1945, 11:02 hora de Japón.
-- **Lugar:** valle de Urakami, Nagasaki, isla de Kyushu, Japón.
-- **Altura de detonación:** aproximadamente 500 metros.
-- **Potencia:** unos 21 kilotones, en torno a un 40 por ciento superior a la de la bomba de Hiroshima.
-- **Arma:** Fat Man, artefacto de implosión con núcleo de plutonio. Unos 4.670 kilogramos de masa, 3,25 metros de longitud y 1,52 metros de diámetro.
-- **Principio de funcionamiento:** una esfera subcrítica de plutonio rodeada de una carcasa hueca de explosivo convencional. Numerosos detonadores dispuestos en su superficie se accionan simultáneamente para comprimir el núcleo, aumentar su densidad y llevarlo al estado supercrítico.
-- **Aeronave:** Boeing B-29 Superfortress *Bockscar*, número de serie 44-27297, número táctico 77, de la modificación Silverplate.
-- **Unidad:** 393.er Escuadrón de Bombardeo, 509.º Grupo Compuesto.
-- **Comandante de la aeronave:** Mayor Charles W. Sweeney, jefe del 393.er Escuadrón.
-- **Copiloto:** Teniente Primero Charles Donald Albury, comandante habitual de la tripulación C-15.
-- **Bombardero:** Capitán Kermit K. Beahan.
-- **Responsable del arma:** Comandante Frederick L. Ashworth, de la Armada.
-- **Despegue:** North Field, isla de Tinian, hacia las 03:47 hora local.
-- **Intercambio de aeronaves:** Sweeney y el Capitán Frederick C. Bock permutaron aviones para no tener que desmontar el instrumental científico de *The Great Artiste*, que repitió su papel de aeronave de observación con Bock al mando. De ahí que *Bockscar* volara con una tripulación que no era la suya.
-- **Objetivo principal:** arsenal de Kokura. Descartado tras tres pasadas sin visibilidad del punto de mira, por humo procedente del bombardeo convencional de Yawata del día anterior.
-- **Incidencias técnicas:** el arma se armó en vuelo diez minutos después del despegue para permitir presurizar la cabina; una bomba de trasvase averiada dejó inaccesible el combustible de reserva; una de las aeronaves de escolta no acudió al punto de encuentro, lo que obligó a esperar cerca de una hora.
-- **Altitud de lanzamiento:** unos 8.800 metros.
-- **Población de Nagasaki aquel día:** unas 263.000 personas, incluidos unos 240.000 residentes japoneses, 9.000 militares y 400 prisioneros de guerra.
-- **Objetivos industriales:** la bomba detonó entre las dos plantas principales de Mitsubishi, la de acero y armamento al sur y la de torpedos de Urakami al norte, a unos 2,4 kilómetros del punto de mira previsto.
-- **Viviendas:** de las 52.000 existentes en la ciudad, 14.000 quedaron destruidas y 5.400 gravemente dañadas. Solo el 12 por ciento salió indemne.
-- **Aterrizaje:** campo de Yontan, Okinawa, con dos motores parados por agotamiento de combustible y sin autorización de la torre.
-- **Aeronave conservada:** *Bockscar* se exhibe en el National Museum of the United States Air Force, en Dayton, Ohio.
+- **Fecha:** 9 de agosto de 1945.
+- **Hora de detonación:** alrededor de las 11:02, hora local de Japón; algunos registros usan el horario de Tinián.
+- **Lugar:** valle de Urakami, Nagasaki, Japón.
+- **Aeronave:** Boeing B-29 <em>Bockscar</em>, número de serie 44-27297.
+- **Tripulación al mando:** Mayor Charles W. Sweeney; el bombardero era el Capitán Kermit K. Beahan.
+- **Arma:** Fat Man, dispositivo de implosión con núcleo de plutonio.
+- **Altura:** aproximadamente 500 metros, con diferencias menores entre las cifras publicadas.
+- **Potencia:** estimada alrededor de 21 kilotones; algunas fichas la redondean a 20.000 toneladas de TNT.
+- **Objetivo primario:** Kokura; la tripulación se dirigió al objetivo secundario, Nagasaki.
+- **Víctimas:** la ciudad informa 73.884 muertes y 74.909 heridos a fines de 1945; otras fuentes distinguen las muertes inmediatas de los fallecimientos posteriores.
+- **Importancia:** segundo y último uso de un arma nuclear en un conflicto armado hasta la fecha.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
 
-El ataque a Nagasaki se produjo en una ventana de tres días marcada por la meteorología, no por la diplomacia.
+El ataque ocurrió tres días después de Hiroshima, en medio de una crisis militar y política. Japón no había anunciado su rendición; la Unión Soviética declaró la guerra e inició operaciones en Manchuria el 8 de agosto. La segunda bomba estaba preparada para una nueva misión y el pronóstico meteorológico favorecía adelantarla. El objetivo primario era Kokura, con Nagasaki como alternativa si el primer blanco no podía identificarse visualmente.
 
 ### Entorno social
 
-Japón había recibido el ultimátum de Potsdam el 26 de julio y no había respondido a la destrucción de Hiroshima con una oferta de rendición. Los bombardeos convencionales continuaban. El 8 de agosto, la Unión Soviética declaró la guerra a Japón e invadió Manchuria, lo que eliminaba la última esperanza de Tokio de una mediación soviética.
+Nagasaki era un centro industrial y portuario rodeado por colinas que separaban sus barrios. El valle de Urakami concentraba fábricas, talleres y una parte importante de la comunidad cristiana de la ciudad. La población había vivido alertas y ataques convencionales, y algunas personas se encontraban fuera de sus hogares por evacuaciones. Las cifras de víctimas fueron difíciles de fijar: edificios destruidos, registros civiles perdidos, desplazamientos y muertes por radiación en los meses posteriores complicaron el recuento.
 
-En Nagasaki, la ciudad había sufrido bombardeos convencionales menores que provocaron una evacuación parcial, sobre todo de escolares. Aquella mañana había sonado una alarma temprana y se había dado el cese de alerta antes de que llegara el B-29, de modo que la población había abandonado los refugios. El valle de Urakami concentraba además la mayor comunidad católica de Japón, descendiente de los cristianos ocultos de los siglos XVI y XVII, con su catedral a escasos centenares de metros del hipocentro.
+La memoria de Nagasaki ha quedado a menudo subordinada en la atención pública a la de Hiroshima, pese a que el ataque causó una segunda devastación nuclear en un intervalo breve. Los testimonios de sobrevivientes y las evaluaciones de la ciudad permiten ver un panorama distinto del que ofrecen los informes de misión: la pérdida de hogares, hospitales y redes de apoyo, así como las secuelas que no terminaron cuando el avión regresó a su base.
 
 ### Entorno tecnológico
 
-Fat Man y la bomba de Hiroshima respondían a dos soluciones físicas distintas. El uranio 235 permitía un mecanismo de cañón, sencillo y tan fiable que se empleó sin ensayo previo. El plutonio no lo admitía: se predetonaría antes de alcanzar la criticidad. La alternativa fue la implosión, que exige comprimir una esfera de plutonio de manera perfectamente simétrica mediante lentes de explosivo convencional detonadas en microsegundos. Era el problema de ingeniería más difícil del proyecto, y la razón de que <a href="https://efemerides-aviacion.github.io/efemerides/evento/1945/07/16/trinity-primera-explosion-nuclear.html" style="color: #315fea; text-decoration: none;">el ensayo Trinity del 16 de julio</a> resultara imprescindible: el artefacto probado en Alamogordo era, en lo esencial, el mismo diseño que se lanzó sobre Nagasaki.
+Fat Man utilizaba un mecanismo de implosión. A diferencia del diseño de tipo cañón de Little Boy, requería comprimir el material fisible de forma simétrica mediante explosivos convencionales. El ensayo Trinity del 16 de julio había probado un dispositivo de implosión; el arma lanzada sobre Nagasaki pertenecía a esa familia tecnológica. Las fuentes estiman su potencia cerca de 21 kilotones, aunque algunas fichas institucionales la redondean a 20.000 toneladas equivalentes de TNT.
 
-El vector planteaba sus propias exigencias. Los B-29 Silverplate llevaban una modificación profunda: bodega adaptada, blindaje y armamento defensivo aligerados, hélices reversibles y motores con inyección de combustible. Aun así, la misión operó al límite de su autonomía, y la avería de una bomba de trasvase bastó para poner en riesgo el regreso.
+El B-29 <em>Bockscar</em> formaba parte del 509.º Grupo Compuesto, una unidad preparada para misiones especiales. El avión operó con una tripulación que no era la habitual de la aeronave, debido a un intercambio con <em>The Great Artiste</em> para mantener instalado el instrumental de observación. Durante el vuelo surgió además una avería en el sistema de transferencia de combustible, lo que restringió el margen para esperar sobre los objetivos y regresar a una base segura.
 
 ### Entorno cultural
 
-El nombre del arma no tenía intención simbólica. Los proyectos del laboratorio se habían bautizado como Thin Man y Fat Man por la contextura de sus carcasas, con alusión a personajes de novela y cine negro. Esa banalidad nominal contrasta con la magnitud de lo ocurrido y explica en parte la incomodidad posterior con esa terminología.
-
-El bombardeo de Nagasaki ocupa además un lugar distinto al de Hiroshima en la memoria colectiva. Ha recibido históricamente menos atención, pese a que la bomba fue más potente, y ese segundo plano ha alimentado el argumento más debatido sobre el episodio: si Hiroshima puede discutirse en términos de necesidad militar, la utilidad de un segundo ataque apenas setenta y dos horas después, sin margen real para que Tokio procesara el primero, resulta mucho más difícil de sostener.
+El nombre «Fat Man» era una designación de proyecto y no una descripción del efecto sobre la ciudad. Tras Hiroshima, la posibilidad de una segunda bomba enfrentó a los planificadores con una decisión urgente, mientras el gobierno japonés evaluaba condiciones de rendición y la Unión Soviética entraba en la guerra. La explicación de por qué Japón se rindió no depende de un solo factor: historiadores y fuentes oficiales discuten el peso de los dos ataques nucleares, la ofensiva soviética y la situación interna del gobierno japonés.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
-La secuencia recorre los días previos y las horas de la misión.
-
-- **16 de julio de 1945:** el ensayo Trinity valida el diseño de implosión en Alamogordo, Nuevo México.
-- **25 de julio de 1945:** la orden de Truman autoriza el empleo de bombas adicionales tan pronto estén disponibles. No se requerirá ninguna autorización posterior.
-- **6 de agosto de 1945:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1945/08/06/lanzamiento-little-boy-hiroshima.html" style="color: #315fea; text-decoration: none;">el <em>Enola Gay</em> lanza Little Boy sobre Hiroshima</a>. Japón no ofrece la rendición.
-- **7 de agosto de 1945:** se decide en Guam emplear la segunda bomba. El pronóstico anuncia varios días de mal tiempo tras una breve ventana favorable, por lo que la misión se adelanta.
-- **8 de agosto de 1945:** la Unión Soviética declara la guerra a Japón e invade Manchuria.
-- **9 de agosto de 1945, 03:47:** *Bockscar* despega de North Field, en Tinian, con Fat Man a bordo.
-- **Diez minutos después del despegue:** Sweeney ordena armar el arma para poder presurizar la cabina y ascender por encima de las tormentas eléctricas.
-- **Durante el ascenso:** se detecta la avería de la bomba de trasvase. El combustible de reserva queda inaccesible durante toda la misión.
-- **Sobre Yakushima:** la formación espera cerca de una hora el encuentro con las dos aeronaves de escolta. Una de ellas no llega nunca.
-- **Media mañana, sobre Kokura:** el humo del bombardeo de Yawata del día anterior cubre el punto de mira. Se efectúan tres pasadas sin conseguir el avistamiento. La artillería antiaérea se aproxima y se detecta actividad de cazas japoneses.
-- **Decisión de Sweeney:** con el combustible al límite, se abandona Kokura y se pone rumbo al objetivo secundario. La ciudad quedará conocida en Japón por la expresión «la suerte de Kokura».
-- **Sobre Nagasaki:** el centro urbano también está cubierto. Ashworth propone el lanzamiento por radar, menos preciso, pese a que las órdenes exigen avistamiento visual.
-- **11:01 aproximadamente:** una abertura momentánea en las nubes permite a Beahan identificar el terreno. Se libera el arma.
-- **11:02:** Fat Man detona sobre el valle de Urakami, a unos 2,4 kilómetros al noroeste del punto de mira previsto.
-- **Poco después:** un tripulante describe la onda de choque sobre el avión como si el aparato «estuviera siendo golpeado con un poste telefónico».
-- **Primera hora de la tarde:** *Bockscar* alcanza Yontan, en Okinawa, incapaz de llegar a Iwo Jima. Sweeney aterriza sin autorización tras lanzar bengalas de emergencia. Dos motores se paran por falta de combustible.
-- **10 de agosto de 1945:** el emperador se impone al alto mando y ordena ofrecer la rendición.
-- **15 de agosto de 1945:** Hirohito anuncia la capitulación por radio.
-- **2 de septiembre de 1945:** se firma el instrumento de rendición a bordo del USS *Missouri*.
+- **16 de julio de 1945:** la prueba Trinity confirmó el funcionamiento de un dispositivo de implosión en Nuevo México. Ese ensayo proporcionó datos sobre el principio utilizado por Fat Man. El ensayo de Trinity empleó un dispositivo de implosión de plutonio; la bomba transportada a Nagasaki compartía ese principio, aunque cada arma tenía su propia configuración.
+- **6 de agosto:** el <em>Enola Gay</em> lanzó Little Boy sobre Hiroshima. El gobierno japonés no anunció inmediatamente la rendición y la planificación de una segunda misión continuó. La continuidad de las operaciones y la ausencia de una rendición anunciada llevaron a preparar la siguiente bomba disponible, mientras las autoridades japonesas deliberaban bajo presión militar y política.
+- **8 de agosto:** la Unión Soviética declaró la guerra a Japón y comenzó la ofensiva en Manchuria. En paralelo, los responsables estadounidenses preparaban el siguiente vuelo con la bomba de plutonio disponible. La ofensiva soviética alteró rápidamente la situación estratégica en Asia. La declaración de guerra y el avance en Manchuria coincidieron con la preparación técnica de la misión desde las Marianas.
+- **9 de agosto, antes del amanecer:** el <em>Bockscar</em> despegó de Tinián con Fat Man a bordo. La tripulación se encontró con problemas de combustible y esperó a las aeronaves que debían reunirse con ella. Problemas en el sistema de combustible redujeron el margen de seguridad; esperar a la aeronave de observación consumió parte del tiempo y del combustible disponible.
+- **Mañana, sobre Kokura:** humo y nubosidad impidieron una identificación visual satisfactoria del objetivo primario. Tras varias pasadas y con combustible limitado, Sweeney puso rumbo a Nagasaki, el objetivo alternativo. La orden requería identificación visual del blanco. La tripulación pasó varias veces por la zona, pero humo y nubosidad mantuvieron a Kokura fuera de condiciones adecuadas para soltar el arma.
+- **Alrededor de las 11:02, hora local:** una abertura en las nubes permitió una referencia visual y Beahan lanzó el arma sobre el valle de Urakami. El B-29 regresó con combustible crítico y aterrizó en Okinawa antes de continuar hacia Tinián.
+- **15 de agosto y 2 de septiembre:** Hirohito anunció la aceptación de la rendición y representantes japoneses firmaron después el instrumento formal; estos hitos no atribuyen por sí solos una causa única a la decisión.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 
-La cifra de víctimas nunca se ha establecido con exactitud, y no puede establecerse.
+La explosión destruyó una parte extensa de Nagasaki y mató o hirió a decenas de miles de personas. El informe municipal registra 73.884 fallecidos y 74.909 heridos hasta finales de 1945; otros documentos ofrecen recuentos distintos para las muertes inmediatas. Estas cifras describen periodos diferentes y no deben compararse sin explicar qué se contabiliza.
 
-Las estimaciones más aceptadas sitúan entre 35.000 y 40.000 los muertos inmediatos, con unos 60.000 heridos graves. Para finales de 1945 la cifra rondaba los 70.000, y en el plazo de cinco años el total atribuible al bombardeo superó ampliamente los 100.000. La imprecisión no es negligencia historiográfica: los registros civiles ardieron, la administración municipal desapareció y la mortalidad diferida por radiación se prolongó durante décadas, con perfiles de causalidad imposibles de deslindar.
+En el plano político, el ataque coincidió con la entrada de la Unión Soviética en la guerra y la invasión de Manchuria. El emperador Hirohito intervino para aceptar la rendición días después, pero no existe consenso historiográfico sobre el peso relativo de cada acontecimiento. Fat Man no fue el final de la guerra por sí sola; fue uno de varios hechos que aceleraron la crisis decisiva del gobierno japonés y dejó consecuencias humanas y ambientales de largo plazo.
 
-La destrucción fue menor que en Hiroshima pese a la mayor potencia del arma, y por razones geográficas. Las colinas que enmarcan el valle de Urakami confinaron la onda expansiva, y el error de puntería, que desplazó la detonación hacia la zona industrial, preservó el centro comercial y residencial situado más al sur. Dentro del área afectada, sin embargo, la devastación fue total: prácticamente nada quedó en pie en un radio de ochocientos metros, y un informe prefectural consignó que hombres y animales murieron casi instantáneamente en el primer kilómetro. La catedral de Urakami quedó destruida y la comunidad católica de Nagasaki perdió una parte sustancial de sus miembros.
-
-En el plano estratégico, la relación entre el bombardeo y la rendición sigue discutiéndose. El emperador se impuso al alto mando el día 10, y el anuncio llegó el 15. Pero entre el 8 y el 9 de agosto se acumularon tres hechos —la entrada de la Unión Soviética en la guerra, la invasión de Manchuria y el segundo ataque nuclear— y la historiografía no ha logrado consenso sobre el peso relativo de cada uno. Quienes defienden la decisión argumentan que evitó la invasión terrestre prevista, con proyecciones de bajas de varios cientos de miles. Quienes la critican señalan que el intervalo de tres días no dio margen a Tokio para reaccionar al primer ataque, y que la elección de una ciudad como blanco de un arma de esa naturaleza plantea problemas jurídicos y morales que no se resuelven con el cálculo de bajas evitadas.
+El balance municipal de fin de año y las estimaciones de mortalidad inmediata tienen periodos de referencia distintos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Legado
 
-Ochenta y un años después, Nagasaki sigue siendo el último lugar del mundo donde se ha empleado un arma nuclear contra población.
+Nagasaki mantiene memoriales, museos y programas de educación por la paz, y sus sobrevivientes han documentado los efectos del ataque durante décadas. La ciudad utiliza el recuento de víctimas hasta finales de 1945 como una medida histórica, no como un censo exacto de cada muerte. La diferencia entre ese total y los cálculos de fallecimientos inmediatos refleja periodos y métodos distintos.
 
-Esa es la estadística que define el episodio. Desde el 9 de agosto de 1945 se han fabricado decenas de miles de cabezas nucleares, se han ensayado más de dos mil, se han atravesado crisis que estuvieron cerca de desencadenar un intercambio, y ninguna se ha vuelto a emplear en guerra. La disuasión que nació en aquellos tres días de agosto ha funcionado hasta ahora, y toda la arquitectura de control de armamentos posterior —el tratado de no proliferación, las moratorias de ensayos, los acuerdos bilaterales de reducción— se construyó sobre la evidencia de lo que ocurrió en Hiroshima y Nagasaki.
-
-En el plano técnico, Fat Man fue el punto de partida y no el final. El diseño de implosión resultó ser la vía practicable: de las ocho primeras armas nucleares estadounidenses, siete derivaron de él, y el principio sigue siendo la base del elemento primario de las armas termonucleares actuales. La bomba de uranio de tipo cañón que se empleó en Hiroshima, en cambio, quedó como un callejón sin salida técnico, demasiado ineficiente en el aprovechamiento del material fisible.
-
-Queda por último la dimensión que la ciudad ha reivindicado por sí misma. Nagasaki mantiene desde hace décadas una posición activa en favor del desarme, sostenida por los *hibakusha*, los supervivientes de los bombardeos, cuyo testimonio ha sido el argumento más eficaz contra la normalización del arma nuclear. Su número disminuye cada año por razones biológicas, y esa desaparición plantea una pregunta abierta sobre la persistencia de la memoria cuando ya no queden testigos directos. El *Bockscar* se conserva en un museo de Ohio; la catedral de Urakami fue reconstruida en el mismo emplazamiento.
+El <em>Bockscar</em> se conserva en el National Museum of the United States Air Force. La aeronave expuesta y los restos reconstruidos de la ciudad encarnan dos registros que conviven: el de una operación aérea y el de una población que debió reconstruir su vida tras una destrucción nuclear. La precisión sobre la hora y las estimaciones evita presentar aproximaciones como certezas absolutas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://www.osti.gov/opennet/manhattan-project-history/Events/1945/nagasaki.htm" style="color: #315fea; text-decoration: none;">Departamento de Energía de Estados Unidos: «The Atomic Bombing of Nagasaki, August 9, 1945», historia oficial del Proyecto Manhattan</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196642/the-mission/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: «The Mission», relato oficial del vuelo del <em>Bockscar</em></a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196220/fat-man-atomic-bomb/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: ficha técnica de la bomba atómica Fat Man</a></li>
-    <li><a href="https://ahf.nuclearmuseum.org/encyclopedia/bombings-hiroshima-and-nagasaki-1945/" style="color: #315fea; text-decoration: none;">National Museum of Nuclear Science and History: «Bombings of Hiroshima and Nagasaki, 1945»</a></li>
-    <li><a href="https://www.nationalww2museum.org/war/articles/bombing-nagasaki-august-9-1945" style="color: #315fea; text-decoration: none;">The National WWII Museum: «The Bombing of Nagasaki, August 9, 1945»</a></li>
-    <li><a href="https://www.trumanlibrary.gov/education/presidential-inquiries/atomic-bomb-august-6-1945" style="color: #315fea; text-decoration: none;">Harry S. Truman Presidential Library: documentación sobre la decisión de emplear la bomba atómica</a></li>
-    <li><a href="https://pacificwrecks.com/aircraft/b-29/44-27353.html" style="color: #315fea; text-decoration: none;">Pacific Wrecks: historial de los B-29 Silverplate del 509.º Grupo Compuesto</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Fat_Man" style="color: #315fea; text-decoration: none;">Fat Man — Wikipedia en inglés</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Bockscar" style="color: #315fea; text-decoration: none;">Bockscar — Wikipedia en inglés</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Bombardeos_at%C3%B3micos_sobre_Hiroshima_y_Nagasaki" style="color: #315fea; text-decoration: none;">Bombardeos atómicos sobre Hiroshima y Nagasaki — Wikipedia en español</a></li>
+    <li><a href="https://www.osti.gov/opennet/manhattan-project-history/Events/1945/nagasaki.htm" style="color: #315fea; text-decoration: none;">Departamento de Energía de Estados Unidos: historia del bombardeo de Nagasaki</a></li>
+    <li><a href="https://www.city.nagasaki.lg.jp/uploaded/attachment/65319.pdf" style="color: #315fea; text-decoration: none;">Ciudad de Nagasaki: informe de daños y víctimas</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196642/the-mission/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: misión del <em>Bockscar</em></a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/196220/fat-man-atomic-bomb/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: ficha de Fat Man</a></li>
+    <li><a href="https://www.nps.gov/articles/000/the-atomic-bombings-of-hiroshima-and-nagasaki.htm" style="color: #315fea; text-decoration: none;">National Park Service: los bombardeos atómicos de Japón</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Las cifras de víctimas divergen de manera muy acusada entre fuentes solventes, y ninguna puede considerarse definitiva. Para los muertos inmediatos se manejan valores aproximados de 35.000 a 40.000 en las fuentes estadounidenses de referencia, de 40.000 a 75.000 en otras recopilaciones y de hasta 74.000 en las estimaciones japonesas de posguerra; para el total hasta finales de 1945, entre 60.000 y 80.000; y para el cómputo a cinco años, cifras superiores a 100.000. La divergencia obedece a la destrucción de los registros civiles y a la dificultad de atribuir la mortalidad diferida por radiación. También difieren las fuentes en la altura de detonación, que se cifra en 1.650 pies —unos 503 metros— en la documentación del Proyecto Manhattan y en unos 1.800 pies en la ficha del museo de la Fuerza Aérea, y en la hora exacta del lanzamiento, situada entre las 10:58 y las 11:01, con la detonación a las 11:02. La potencia se estima en 21 kilotones, si bien la ficha del museo la aproxima a 20.000 toneladas equivalentes de TNT. Sobre la hora de despegue se citan las 03:47 y las 03:49. Debe señalarse por último que el arma no era propiedad de una tripulación fija: <em>Bockscar</em> era el aparato habitual del Capitán Frederick C. Bock, que aquel día voló la aeronave de observación, mientras Sweeney y su tripulación ocupaban el avión de Bock. La fotografía que ilustra esta efeméride se tomó el 11 de agosto de 1945, dos días después de la misión.</p>
+  <p><strong>Nota aclaratoria:</strong> las fuentes difieren en la hora cuando usan la referencia de Tinián, una hora adelantada respecto a Japón; aquí se indica 11:02 como hora local. La altura se expresa aproximadamente en torno a 500 metros —la documentación del Proyecto Manhattan da 1.650 pies y la ficha del museo de la Fuerza Aérea, cerca de 1.800—. La potencia se estima en 21 kilotones, aunque el museo la redondea a 20.000 toneladas de TNT. Las 73.884 muertes del informe de Nagasaki corresponden al balance hasta finales de 1945 y no al recuento inmediato.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 12:00:45 CST
-- **Fuentes primarias/institucionales consultadas:** Departamento de Energía de Estados Unidos, historia oficial del Proyecto Manhattan, con referencia al informe del Manhattan Engineer District de 1947; National Museum of the United States Air Force, relato de la misión y ficha técnica del arma; Harry S. Truman Presidential Library; National Museum of Nuclear Science and History.
-- **Fuentes secundarias de contraste:** The National WWII Museum, con el relato de la misión y las cifras de víctimas; Pacific Wrecks, con el historial documentado de los B-29 Silverplate implicados; Wikipedia en inglés y en español.
-- **Discrepancias resueltas:** se consignaron los valores aproximados divergentes de víctimas en lugar de adoptar una cifra única, dada la imposibilidad material de establecerla; se registró la divergencia sobre la altura de detonación y sobre la hora del lanzamiento; se precisó que el error de puntería desplazó la detonación unos 2,4 kilómetros respecto al punto previsto; se aclaró la permuta de aeronaves entre las tripulaciones de Sweeney y Bock, origen de una confusión frecuente sobre qué avión lanzó el arma.
-- **Datos no confirmados:** el número exacto de prisioneros de guerra aliados fallecidos en el ataque, que las fuentes sitúan entre ocho y trece sin coincidencia documental.
-- **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+
+- **Timestamp de verificación:** 2026-10-05 20:49:12 CST
+- **Fuentes primarias/institucionales consultadas:** Departamento de Energía; Ciudad de Nagasaki; USAF Museum; NPS.
+- **Fuentes de contraste:** National WWII Museum; documentación municipal.
+- **Discrepancias:** hora, altura, potencia y periodos de víctimas; atribuidas en la nota.
+- **Nivel de confianza:** Alto en misión y fecha; cifras de efectos como estimaciones.
+- **Cláusula final:** Cuando una afirmación relevante no pudo confirmarse, se omitió o se marcó como [NO CONFIRMADO].

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "21 de agosto de 1944 | Primer vuelo del Grumman F-8F Bearcat, el último caza de pistón de la US Navy"
+title: "21 de agosto de 1944 | Primer vuelo del Grumman F8F Bearcat"
 date: 1944-08-21
 categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Grumman / U.S. Navy
-excerpt: "El 21 de agosto de 1944 voló en Bethpage el primer prototipo del Grumman F-8F Bearcat, el último caza de motor de pistón de la US Navy: más ligero, más rápido y trepador que el Hellcat, primer avión de los Blue Angels y favorito de Neil Armstrong."
+excerpt: "El prototipo XF8F-1 Bearcat fue concebido como interceptor embarcado de gran trepada y tamaño compacto. El Museo Nacional de Aviación Naval fecha su primer vuelo el 21 de agosto de 1944; otra fuente institucional da el 31."
 image: 1944-08-21-primer-vuelo-grumman-f8f-bearcat.webp
 ---
 
@@ -15,68 +15,73 @@ image: 1944-08-21-primer-vuelo-grumman-f8f-bearcat.webp
   <figcaption class="post-caption">El prototipo Grumman XF8F-1 Bearcat en vuelo hacia 1944, muy probablemente el Bu. No. 90460 que realizó el primer vuelo el 21 de agosto de 1944. Fotografía de la U.S. Navy, dominio público, vía Wikimedia Commons.</figcaption>
 </figure>
 
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 21 de agosto de 1944, en Bethpage, Nueva York, el ingeniero jefe y piloto de pruebas de Grumman, Robert Leicester Hall, despegó con el primero de los dos prototipos XF8F-1 Bearcat, Bu. No. 90460. Era la respuesta de Grumman a la pregunta de cómo meter un interceptor de altísimo rendimiento en los portaaviones pequeños de la US Navy: veinte por ciento más ligero y cincuenta millas por hora más rápido que el Hellcat, con una trepada que ningún caza de pistón igualaba. Llegó tarde para la guerra, pero se volvió el primer avión de los Blue Angels y el caza de pistón favorito de quienes volaron de todo, incluido Neil Armstrong.</p>
+<p>El Grumman XF8F-1 Bearcat fue diseñado como interceptor embarcado de alta prestación para portaaviones de distintos tamaños. El Museo Nacional de Aviación Naval y This Day in Aviation sitúan su primer vuelo el 21 de agosto de 1944, con Robert Leicester Hall a los mandos; CAF Southern California publica el día 31. Se mantiene el 21 como fecha canónica, sin ocultar la diferencia. El Bearcat llegó demasiado tarde para combatir en la Segunda Guerra Mundial. Su desarrollo produjo un caza compacto para la posguerra, aunque las cifras de producción varían según se cuente el contrato, los aviones militares y los ejemplares civiles.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
-- **Fecha y lugar:** 21 de agosto de 1944, Bethpage, Nueva York; primer vuelo del primero de los dos prototipos XF8F-1, Bu. No. 90460
-- **Piloto:** Robert Leicester Hall, ingeniero jefe y piloto de pruebas de Grumman
-- **Concepto:** interceptor ligero de alto rendimiento para operar desde los portaaviones pequeños de la US Navy; 20 % más ligero y 50 mph más rápido que el Hellcat, con trepada inicial de 4.465 pies por minuto
-- **Planta motriz:** Pratt & Whitney Double Wasp R-2800-22 de 2.100 caballos al despegue, con hélice cuatripala Aero Products de 3,76 m
-- **Precio del peso:** armamento reducido a cuatro ametralladoras de 12,7 mm y menos combustible que el Hellcat, con menor radio de acción
-- **Destino del prototipo:** el 90460 se estrelló el 18 de marzo de 1945 en la bahía de Chesapeake durante pruebas de tiro en Patuxent River; su piloto desapareció
-- **Producción:** 1.265 Bearcat entre 1945 y 1949; el F8F-2 cambió las ametralladoras por cuatro cañones de 20 mm
+- **Fecha canónica del primer vuelo:** 21 de agosto de 1944, según el Museo Nacional de Aviación Naval y This Day in Aviation.
+- **Fecha alternativa:** 31 de agosto de 1944, publicada por CAF Southern California.
+- **Aeronave:** Grumman XF8F-1 Bearcat, prototipo de un caza embarcado monomotor.
+- **Lugar:** Bethpage, Long Island, estado de Nueva York.
+- **Piloto de pruebas:** Robert Leicester Hall, ingeniero jefe y piloto de Grumman.
+- **Prototipo citado por This Day in Aviation:** BuNo 90460. La ficha de NARA asociada a la imagen del post solo lo cataloga como un Bearcat en vuelo producido en 1944 y no confirma el número de serie.
+- **Propósito:** interceptor compacto para portaaviones, con prioridad en velocidad y trepada.
+- **Contrato de producción:** la Marina encargó inicialmente 2.023 aparatos en octubre de 1944; tras el fin de la guerra, el museo naval informa una reducción a 1.236.
+- **Unidades construidas:** las fuentes consultadas citan 1.263 Bearcat más dos ejemplares civiles, o 1.265 en total.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-En 1943 la US Navy quería un caza que cupiera en los portaaviones de escolta más pequeños y que aun así pudiera trepar hasta interceptar cualquier amenaza antes que nadie. Grumman respondió con una paradoja: tomar el motor del Hellcat y quitarle todo lo que no fuera motor, ala y piloto.
+En 1943, la Marina necesitaba mantener la defensa aérea de sus grupos de portaaviones y ampliar la capacidad de operar desde cubiertas más pequeñas. El F6F Hellcat ya estaba en producción, pero la experiencia de combate y el crecimiento de la aviación naval planteaban la necesidad de un interceptor más ligero, con ascenso rápido y buenas prestaciones a baja y media altura. El F8F nació para ocupar ese espacio, no como sustituto inmediato de todos los cazas existentes.
 
 ### Entorno social
 
-El Bearcat nació con la guerra casi ganada y llegó a ella tarde: ningún Bearcat disparó en la Segunda Guerra Mundial. Pero en la posguerra fue el caza que enseñó a volar en formación acrobática a los <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1946/04/24/fundacion-equipo-acrobatico-blue-angels.html" style="color: #315fea; text-decoration: none;">Blue Angels, fundados en 1946</a>, que lo volaron como primer avión del equipo, y terminó en las aviaciones de Francia e Indochina, donde combatió de verdad.
+El desarrollo estuvo ligado al ritmo acelerado de la industria estadounidense durante la guerra. Grumman debía atender a la vez pedidos de Hellcat y Tigercat, además de nuevos diseños. La empresa y la Marina coordinaron el trabajo para que el Bearcat pasara con rapidez del proyecto al ensayo. Robert Leicester Hall, piloto de pruebas e ingeniero de Grumman, participó en esa evaluación inicial. La corta distancia entre concepción y vuelo fue posible por la experiencia acumulada con otros cazas navales, no porque el aparato estuviera libre de pruebas o ajustes posteriores.
 
 ### Entorno tecnológico
 
-El Bearcat era la destilación del Hellcat: mismo motor Double Wasp sobrealimentado, pero veinte por ciento menos de peso, ala de planta afilada y célula tan fuerte como la de su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/06/26/primer-vuelo-prototipo-grumman-xf6f-1-hellcat.html" style="color: #315fea; text-decoration: none;">predecesor, cuyo prototipo XF6F-1 había volado en 1942</a>. El resultado: 719 km/h a 28.000 pies y una trepada que lo ponía a 20.000 pies en poco más de ocho minutos; el último y más fino caza de pistón que llevó la US Navy.
+El XF8F-1 combinó un fuselaje pequeño con el motor radial Pratt & Whitney R-2800 Double Wasp. Esa relación entre potencia y masa favorecía la aceleración y la trepada, aunque implicaba compromisos de combustible, armamento y alcance. El Museo Nacional de Aviación Naval describe un diseño cuyo peso normal se mantuvo por debajo del Hellcat y cuyo objetivo era superar a ese avión en prestaciones. La reducción de masa también llevó a estudiar puntas alares desprendibles como protección frente a cargas excesivas; el sistema no pasó a los aviones de serie.
+
+La configuración estaba pensada para el entorno de cubierta: tren de aterrizaje robusto, gancho de apontaje, alas plegables y cabina con buena visibilidad. La primera versión de producción llevaba ametralladoras; variantes posteriores adoptaron cañones. Esas diferencias impiden trasladar automáticamente las características de un F8F-2 o F8F-2P al XF8F-1 que voló como prototipo.
 
 ### Entorno cultural
 
-Los pilotos que volaron de todo solían elegir al Bearcat: Neil Armstrong lo llamó su avión favorito de todos los tiempos. Y sin embargo el Bearcat vivió eclipsado por el jet que lo sustituyó; su gloria quedó en la memoria de quienes midieron, con él, lo último que un caza de pistón pudo ser.
+El Bearcat se convirtió en una de las últimas expresiones del caza naval de pistón justo cuando la propulsión a reacción comenzaba a transformar la aviación. Su diseño no perseguía la mayor carga de armas ni el mayor radio de acción; buscaba un aparato pequeño y ascendente que pudiera proteger a la flota. El final de la guerra redujo los pedidos y acortó el periodo en que podía ser el caza más moderno de su tipo. Esa transición explica tanto su breve presencia de primera línea como su prolongada vida en equipos de demostración y en operadores extranjeros.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **26 de junio de 1942:** vuela el prototipo XF6F-1 Hellcat, la base de la que partirá el Bearcat.
-- **1943:** la US Navy pide un interceptor ligero para portaaviones pequeños; Grumman diseña el G-58 Bearcat.
-- **21 de agosto de 1944:** Robert Leicester Hall realiza el primer vuelo del XF8F-1 Bu. No. 90460 en Bethpage, Nueva York.
-- **18 de marzo de 1945:** el prototipo se estrella en la bahía de Chesapeake durante pruebas de tiro; su piloto desaparece.
-- **1945-1949:** Grumman produce 1.265 Bearcat; el F8F-2 estrena cañones de 20 mm.
-- **1946:** los Blue Angels adoptan el F8F-1 como primer avión del equipo.
-- **1949-1950:** la US Navy retira el Bearcat de primera línea ante el jet; Francia lo lleva a Indochina, donde combate hasta 1956.
+- **27 de noviembre de 1943:** la Marina encargó dos prototipos XF8F-1. El requisito era obtener un interceptor de gran rendimiento que no dependiera de operar únicamente desde los portaaviones de mayor tamaño. La orden inicial refleja que la Marina aceleró el programa antes de terminar el diseño de detalle, apoyándose en la experiencia de Grumman con cazas navales.
+- **Primera mitad de 1944:** Grumman completó el primer prototipo y preparó las pruebas en Bethpage. El diseño incorporaba el motor R-2800 y una célula más compacta que la del Hellcat; las prestaciones previstas todavía debían comprobarse en vuelo.
+- **21 de agosto de 1944:** el Museo Nacional de Aviación Naval y This Day in Aviation sitúan ese día el vuelo inaugural de Hall. Este es el día adoptado por la efeméride y por el registro canónico de la tanda. El primer vuelo inauguró una fase de evaluación; no significa que el prototipo hubiese completado de inmediato las pruebas de servicio embarcado ni que todas las variantes compartieran su configuración.
+- **31 de agosto de 1944:** CAF Southern California publica esta fecha alternativa. La discrepancia no queda aclarada por las páginas institucionales y secundarias consultadas, de modo que no se presenta como resuelta por una mera mayoría de referencias.
+- **6 de octubre de 1944:** la Marina contrató 2.023 F8F de producción. Los ensayos y las decisiones de configuración continuaron mientras Grumman preparaba la fabricación en serie. El contrato nominal no equivale al número de aparatos finalmente aceptados ni a los ejemplares civiles que algunas fuentes contabilizan aparte.
+- **Mayo–agosto de 1945:** el primer escuadrón de flota recibió Bearcat en mayo. La guerra terminó antes de que el avión entrara en combate con la Marina estadounidense; la cancelación de pedidos redujo la cantidad que se construiría. La fecha de primer vuelo publicada también varía entre fuentes, por lo que se conserva con atribución y no como consenso unánime.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **El techo del pistón:** el Bearcat cerró la era del caza de pistón con las mejores cifras de trepada de su generación; ningún pistón posterior lo superó en servicio embarcado.
-- **Imagen de la Navy de posguerra:** como primer avión de los Blue Angels, el Bearcat pintó de azul y oro la vitrina de la US Navy entre 1946 y 1949.
-- **Segunda vida en Indochina:** los Bearcat franceses, con sus alas de recambio en plena campaña, dieron al Bearcat la guerra que Estados Unidos no le dio.
+El primer vuelo abrió la etapa de pruebas de un caza que respondió a una necesidad concreta: subir con rapidez, maniobrar bien y ocupar menos espacio que los modelos navales anteriores. Las cifras promocionales sobre velocidad y trepada deben leerse como resultados de una variante, una condición de ensayo y un punto de comparación determinados; no como una única medida aplicable a todos los Bearcat.
+
+La guerra terminó antes de que el F8F combatiera con la Marina de los Estados Unidos. En la posguerra equipó escuadrones navales y fue utilizado por los Blue Angels durante varios años. En el mercado civil, ejemplares modificados pasaron a competir en carreras aéreas. La producción, por su parte, exige distinguir entre el pedido contractual, el total de F8F construidos y los dos aparatos civiles que algunas fuentes contabilizan aparte.
+
+Los recuentos contractuales y de construcción deben mantenerse separados al evaluar la escala real del programa.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-Ochenta y dos años después de aquel primer vuelo en Bethpage, el Bearcat sigue siendo la respuesta de los entendidos cuando se pregunta por el mejor caza de pistón jamás construido: el último de su estirpe en la US Navy, el primero de los Blue Angels y el favorito de Neil Armstrong. El prototipo que voló Hall descansa hoy en el fondo de la bahía de Chesapeake, localizado hace poco por el sonar de la NOAA; arriba, en cada meeting aéreo, un Bearcat amarillo y azul sigue trepando como aquella mañana de agosto de 1944.
+El Bearcat suele recordarse como uno de los cazas de pistón navales de mayor rendimiento, pero su historia también muestra la rapidez con que cambió la tecnología entre 1944 y la posguerra. Su carrera operacional fue breve frente a la de los reactores, aunque el aparato siguió en servicio extranjero y en manos de operadores civiles. La imagen pública del modelo quedó asociada tanto a la aviación embarcada como a las carreras de velocidad.
+
+La diferencia entre las fechas de primer vuelo y entre los totales de producción no modifica su papel general, pero sí aconseja indicar qué fuente y qué forma de conteo se emplean. La memoria del F8F es más sólida cuando se separan los prototipos, las variantes de serie y los ejemplares civiles.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -84,20 +89,26 @@ Ochenta y dos años después de aquel primer vuelo en Bethpage, el Bearcat sigue
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/21-august-1944/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 21 August 1944 (XF8F-1 Bearcat, primer vuelo)</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:Grumman_XF8F-1_Bearcat_in_flight,_circa_in_1944_(153724640).jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons - Grumman XF8F-1 Bearcat en vuelo, c. 1944 (U.S. Navy)</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Grumman_F8F_Bearcat" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Grumman F8F Bearcat</a></li>
-    <li><a href="https://airandspace.si.edu/collection-objects/grumman-f8f-2-bearcat-conquest-i/nasm_A19770989000" style="color: #315fea; text-decoration: none;">Smithsonian NASM — Grumman F8F-2 Bearcat «Conquest I»</a></li>
+    <li><a href="https://navalaviationmuseum.org/f8f-2p-bearcat/nggallery/image/f8f03/" style="color: #315fea; text-decoration: none;">Museo Nacional de Aviación Naval: historia del F8F Bearcat</a></li>
+    <li><a href="https://catalog.archives.gov/id/153724640" style="color: #315fea; text-decoration: none;">National Archives and Records Administration: fotografía catalogada como F8F Bearcat en vuelo, NAID 153724640</a></li>
+    <li><a href="https://www.thisdayinaviation.com/21-august-1944/" style="color: #315fea; text-decoration: none;">This Day in Aviation: vuelo inaugural del XF8F-1</a></li>
+    <li><a href="https://www.cafsocal.com/our-aircrafts/our-aircraft-and-history/gruman-f8f-2-bearcat/" style="color: #315fea; text-decoration: none;">CAF Southern California: ficha histórica del F8F-2</a></li>
   </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+<div class="note-box">
+  <p><strong>Nota aclaratoria:</strong> el Museo Nacional de Aviación Naval y This Day in Aviation sitúan el primer vuelo el 21 de agosto de 1944; CAF Southern California indica el 31. También se publican cifras diferentes: el museo naval cifra en 1.236 el pedido reducido tras la guerra, mientras CAF y This Day in Aviation describen 1.263 aviones militares más dos civiles, o 1.265 en total. Se conserva cada cifra con su alcance, sin confundir contrato y producción efectiva.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 09:15:00 CST  
-- **Fuentes primarias/institucionales consultadas:** ninguna accesible de forma directa para el evento
-- **Fuentes secundarias de contraste:** This Day in Aviation; Wikipedia (EN)
-- **Discrepancias resueltas:** la identificación del avión fotografiado como el prototipo 90460 es «muy probable» según la ficha de Commons; el pie se redacta con esa reserva. La cifra de 1.265 Bearcat producidos y los datos de prestaciones se toman de This Day in Aviation.
-- **Nivel de confianza:** Alto — núcleo del hecho respaldado por convergencia de fuentes secundarias independientes; sin primarias accesibles, como se declara arriba.
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Timestamp de verificación:** 2026-10-05 20:49:12 CST
+- **Fuentes primarias/institucionales consultadas:** Museo Nacional de Aviación Naval; NARA.
+- **Fuentes de contraste:** This Day in Aviation; CAF Southern California.
+- **Discrepancias:** 21/31 de agosto y total contractual frente a unidades construidas; quedan atribuidas.
+- **Nivel de confianza:** Alto en el diseño y servicio general; medio en la fecha inaugural y el conteo final.
+- **Cláusula final:** Cuando una afirmación relevante no pudo confirmarse, se omitió o se marcó como [NO CONFIRMADO].
