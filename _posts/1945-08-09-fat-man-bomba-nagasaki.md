@@ -112,7 +112,7 @@ El <em>Bockscar</em> se conserva en el National Museum of the United States Air 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-05 20:49:12 CST
+- **Timestamp de verificación:** 2026-10-06 05:47:33 CST
 - **Fuentes primarias/institucionales consultadas:** Departamento de Energía; Ciudad de Nagasaki; USAF Museum; NPS.
 - **Fuentes de contraste:** National WWII Museum; documentación municipal.
 - **Discrepancias:** hora, altura, potencia y periodos de víctimas; atribuidas en la nota.

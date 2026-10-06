@@ -103,7 +103,7 @@ La conclusión más sólida es limitada: el 8 de mayo se registraron distintos e
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-05 20:49:12 CST
+- **Timestamp de verificación:** 2026-10-06 05:47:33 CST
 - **Fuentes primarias/institucionales consultadas:** Air Force Historical Studies; Smithsonian National Air and Space Museum.
 - **Fuentes de contraste:** 474th Fighter Group; Warfare History Network.
 - **Discrepancias:** candidaturas distintas según se trate de combate aire-aire o fuego antiaéreo; abiertas.

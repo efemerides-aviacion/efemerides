@@ -64,7 +64,6 @@ La aviación a reacción se asoció en la posguerra con velocidad, modernidad y 
 ## Desarrollo Cronológico
 
 - **1945, etapa de posguerra:** la Royal Navy inició pruebas para conocer el comportamiento de aviones a reacción en el entorno de portaaviones. Las experiencias de pista permitían evaluar el avión, pero no reproducían el movimiento del buque ni la corta distancia de recuperación. La cubierta planteaba retos distintos de una pista terrestre: velocidad relativa al viento, longitud de carrera y recuperación mediante cable debían evaluarse como un ciclo coordinado.
-- **2 de octubre de 1945:** el Imperial War Museums conserva un registro fotográfico del Sea Vampire LZ551/G en Heston, durante la etapa de pruebas en tierra. Esa fase precedió a la operación desde el HMS <em>Ocean</em>. 
 - **Antes del ensayo de diciembre:** el Ryan FR-1 Fireball ya había demostrado que un avión con planta motriz combinada de pistón y reacción podía apontar. Su arquitectura híbrida no resolvía la cuestión de operar un avión impulsado exclusivamente por un jet. La experiencia con el FR-1 ofrecía un contraste útil: demostraba que una planta híbrida podía apuntar, pero no respondía si un reactor puro podía completar por sí solo la operación de cubierta.
 - **3 de diciembre de 1945:** Eric Brown llevó el Sea Vampire LZ551/G al HMS <em>Ocean</em>. El aparato realizó despegues y recuperaciones en la cubierta, con el uso de los sistemas del portaaviones. La secuencia fue significativa porque incluyó tanto el despegue como la recuperación a bordo; no se trató únicamente de que el avión pasara sobre la cubierta a baja altura.
 - **Durante las pruebas:** el avión efectuó apontajes con el gancho de detención y volvió a despegar. Los registros del Imperial War Museums describen la captura del cable de detención y sitúan el ensayo dentro de la historia temprana de los reactores embarcados. El cable de detención absorbía la energía del aterrizaje y permitía frenar dentro del espacio disponible. El ensayo aportó datos operativos además de confirmar que el avión podía aproximarse a velocidad de reactor.
@@ -95,7 +94,7 @@ El episodio también muestra cómo se construyen los hitos aeronáuticos. La pal
 <div class="references">
   <ul>
     <li><a href="https://www.iwm.org.uk/collections/item/object/1060007217" style="color: #315fea; text-decoration: none;">Imperial War Museums: registro WPN 246 del Sea Vampire y sus pruebas embarcadas</a></li>
-    <li><a href="https://www.iwm.org.uk/collections/item/object/205161736" style="color: #315fea; text-decoration: none;">Imperial War Museums: registro A 30634 del Sea Vampire LZ551/G en Heston</a></li>
+    <li><a href="https://www.guinnessworldrecords.es/world-records/first-landing-on-an-aircraft-carrier" style="color: #315fea; text-decoration: none;">Guinness World Records: primer apontaje de un jet en un portaaviones</a></li>
     <li><a href="https://www.thisdayinaviation.com/3-december-1945/" style="color: #315fea; text-decoration: none;">This Day in Aviation: pruebas del Sea Vampire en el HMS <em>Ocean</em></a></li>
     <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-jet-takeoff-and-landing-on-aircraft-carrier.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News: primer despegue y apontaje de un reactor puro</a></li>
   </ul>
@@ -111,9 +110,9 @@ El episodio también muestra cómo se construyen los hitos aeronáuticos. La pal
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-05 20:49:12 CST
-- **Fuentes primarias/institucionales consultadas:** Imperial War Museums, registros WPN 246 y A 30634.
-- **Fuentes de contraste:** This Day in Aviation; Vintage Aviation News.
+- **Timestamp de verificación:** 2026-10-06 05:47:33 CST
+- **Fuentes primarias/institucionales consultadas:** Imperial War Museums, registro WPN 246.
+- **Fuentes de contraste:** Guinness World Records; This Day in Aviation; Vintage Aviation News.
 - **Discrepancias:** alcance del término «primero» frente al precedente híbrido del FR-1; precisado como reactor puro.
 - **Nivel de confianza:** Alto en fecha, aeronave, piloto y buque; alto en la distinción de propulsión.
 - **Cláusula final:** Cuando una afirmación relevante no pudo confirmarse, se omitió o se marcó como [NO CONFIRMADO].

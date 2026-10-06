@@ -27,9 +27,9 @@ image: 1944-08-21-primer-vuelo-grumman-f8f-bearcat.webp
 - **Fecha canónica del primer vuelo:** 21 de agosto de 1944, según el Museo Nacional de Aviación Naval y This Day in Aviation.
 - **Fecha alternativa:** 31 de agosto de 1944, publicada por CAF Southern California.
 - **Aeronave:** Grumman XF8F-1 Bearcat, prototipo de un caza embarcado monomotor.
-- **Lugar:** Bethpage, Long Island, estado de Nueva York.
+- **Lugar:** Bethpage, Long Island, estado de Nueva York, donde Grumman realizaba vuelos de prueba.
 - **Piloto de pruebas:** Robert Leicester Hall, ingeniero jefe y piloto de Grumman.
-- **Prototipo citado por This Day in Aviation:** BuNo 90460. La ficha de NARA asociada a la imagen del post solo lo cataloga como un Bearcat en vuelo producido en 1944 y no confirma el número de serie.
+- **Prototipo citado por This Day in Aviation:** BuNo 90460.
 - **Propósito:** interceptor compacto para portaaviones, con prioridad en velocidad y trepada.
 - **Contrato de producción:** la Marina encargó inicialmente 2.023 aparatos en octubre de 1944; tras el fin de la guerra, el museo naval informa una reducción a 1.236.
 - **Unidades construidas:** las fuentes consultadas citan 1.263 Bearcat más dos ejemplares civiles, o 1.265 en total.
@@ -90,7 +90,7 @@ La diferencia entre las fechas de primer vuelo y entre los totales de producció
 <div class="references">
   <ul>
     <li><a href="https://navalaviationmuseum.org/f8f-2p-bearcat/nggallery/image/f8f03/" style="color: #315fea; text-decoration: none;">Museo Nacional de Aviación Naval: historia del F8F Bearcat</a></li>
-    <li><a href="https://catalog.archives.gov/id/153724640" style="color: #315fea; text-decoration: none;">National Archives and Records Administration: fotografía catalogada como F8F Bearcat en vuelo, NAID 153724640</a></li>
+    <li><a href="https://airandspace.si.edu/collection-objects/grumman-f8f-2-bearcat-conquest-i/nasm_A19770989000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum: ficha del F8F-2 Bearcat</a></li>
     <li><a href="https://www.thisdayinaviation.com/21-august-1944/" style="color: #315fea; text-decoration: none;">This Day in Aviation: vuelo inaugural del XF8F-1</a></li>
     <li><a href="https://www.cafsocal.com/our-aircrafts/our-aircraft-and-history/gruman-f8f-2-bearcat/" style="color: #315fea; text-decoration: none;">CAF Southern California: ficha histórica del F8F-2</a></li>
   </ul>
@@ -106,8 +106,8 @@ La diferencia entre las fechas de primer vuelo y entre los totales de producció
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-05 20:49:12 CST
-- **Fuentes primarias/institucionales consultadas:** Museo Nacional de Aviación Naval; NARA.
+- **Timestamp de verificación:** 2026-10-06 05:47:33 CST
+- **Fuentes primarias/institucionales consultadas:** Museo Nacional de Aviación Naval; Smithsonian National Air and Space Museum.
 - **Fuentes de contraste:** This Day in Aviation; CAF Southern California.
 - **Discrepancias:** 21/31 de agosto y total contractual frente a unidades construidas; quedan atribuidas.
 - **Nivel de confianza:** Alto en el diseño y servicio general; medio en la fecha inaugural y el conteo final.

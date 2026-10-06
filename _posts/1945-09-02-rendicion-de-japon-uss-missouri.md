@@ -106,7 +106,7 @@ La ceremonia también sigue siendo objeto de análisis por su dimensión jurídi
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-05 20:49:12 CST
+- **Timestamp de verificación:** 2026-10-06 05:47:33 CST
 - **Fuentes primarias/institucionales consultadas:** NARA; NHHC; Smithsonian National Air and Space Museum; Truman Library.
 - **Discrepancias:** 09:03/09:04 y recuentos del sobrevuelo; atribuidos y no uniformados.
 - **Nivel de confianza:** Alto en documento y firmantes; medio en hora de inicio y cifras aéreas.

@@ -109,7 +109,7 @@ La ciudad mantiene memoriales, archivos y actos anuales de conmemoración. El he
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-05 20:49:12 CST
+- **Timestamp de verificación:** 2026-10-06 05:47:33 CST
 - **Fuentes primarias/institucionales consultadas:** Departamento de Energía; Ciudad de Hiroshima; NPS; NARA.
 - **Fuentes de contraste:** estudios institucionales sobre la misión y el arma.
 - **Discrepancias:** hora según huso, altura, potencia y estimación de víctimas; atribuidas.

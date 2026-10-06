@@ -93,7 +93,6 @@ La memoria de Tokio conserva testimonios de supervivientes y registros instituci
     <li><a href="https://nsarchive.gwu.edu/document/28509-document-8-headquarters-xxi-bomber-command-tactical-mission-report-mission-no-40" style="color: #315fea; text-decoration: none;">National Security Archive: informe táctico de la misión 40, 10 de marzo de 1945</a></li>
     <li><a href="https://www.nationalww2museum.org/war/articles/hellfire-earth-operation-meetinghouse" style="color: #315fea; text-decoration: none;">The National WWII Museum: Operación Meetinghouse</a></li>
     <li><a href="https://www.trumanlibraryinstitute.org/wwii-80-tokyo-fire-raids/" style="color: #315fea; text-decoration: none;">Truman Library Institute: estimación de víctimas de los ataques incendiarios</a></li>
-    <li><a href="https://www.loc.gov/item/95502498/" style="color: #315fea; text-decoration: none;">Library of Congress: fotografía aérea de los efectos de ataques incendiarios en Tokio</a></li>
   </ul>
 </div>
 
@@ -107,8 +106,8 @@ La memoria de Tokio conserva testimonios de supervivientes y registros instituci
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-05 20:49:12 CST
-- **Fuentes primarias/institucionales consultadas:** USSBS; National Security Archive; Library of Congress; The National WWII Museum.
+- **Timestamp de verificación:** 2026-10-06 05:47:33 CST
+- **Fuentes primarias/institucionales consultadas:** USSBS; National Security Archive; The National WWII Museum.
 - **Fuentes de contraste:** Truman Library Institute.
 - **Discrepancias:** estimaciones de víctimas y fecha local frente a fecha operacional; atribuidas en el texto.
 - **Nivel de confianza:** Alto en la operación; medio en el número total de víctimas.

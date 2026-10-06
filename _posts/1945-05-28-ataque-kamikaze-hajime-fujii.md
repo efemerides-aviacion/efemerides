@@ -109,7 +109,7 @@ Ambas memorias se cruzan en la fecha del 28 de mayo, pero no todos los detalles 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-05 20:49:12 CST
+- **Timestamp de verificación:** 2026-10-06 05:47:33 CST
 - **Fuentes primarias/institucionales consultadas:** Museo de la Paz de Chiran; NHHC; DANFS.
 - **Fuentes de contraste:** Lost 52 Project; War History Online.
 - **Discrepancias:** 158/168 fallecidos; identidad del avión que impactó al <em>Drexler</em> no establecida.

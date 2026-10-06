@@ -92,7 +92,7 @@ La historia del prototipo también recuerda que los avances aeronáuticos rara v
     <li><a href="https://aviamuseum.com.ua/en/news/news/museum-news/1320-junkers-ju-287-80-years-of-the-first-jet-aircraft-with-forward-swept-wings" style="color: #315fea; text-decoration: none;">Museo Estatal de Aviación de Ucrania: cronología y ensayos del Ju 287 V1</a></li>
     <li><a href="https://www.nasa.gov/wp-content/uploads/2015/04/Sweeping_Forward.pdf" style="color: #315fea; text-decoration: none;">NASA, Frederick A. Johnsen: <em>Sweeping Forward</em>, antecedentes del ala en flecha invertida</a></li>
     <li><a href="https://historynet.com/the-story-behind-one-of-the-oddest-airplanes-of-world-war-ii/" style="color: #315fea; text-decoration: none;">HistoryNet: historia y vuelos de prueba del Junkers Ju 287</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:Junkers_Ju_287_V1_side_view.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons: ficha del archivo fotográfico del Ju 287 V1</a></li>
+    <li><a href="https://www.smithsonianmag.com/air-space-magazine/wrong-turns-180961742/" style="color: #315fea; text-decoration: none;">Smithsonian Air &amp; Space: evolución del ala en flecha invertida</a></li>
   </ul>
 </div>
 
@@ -106,9 +106,9 @@ La historia del prototipo también recuerda que los avances aeronáuticos rara v
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-10-05 20:49:12 CST
+- **Timestamp de verificación:** 2026-10-06 05:47:33 CST
 - **Fuentes primarias/institucionales consultadas:** Museo Estatal de Aviación de Ucrania; NASA.
-- **Fuentes de contraste:** HistoryNet; Wikimedia Commons.
+- **Fuentes de contraste:** HistoryNet; Smithsonian Air & Space.
 - **Discrepancias:** fecha del primer vuelo (8, 16 o 22 de agosto) y atribución del piloto; quedan atribuidas, no resueltas.
 - **Nivel de confianza:** Alto en la configuración experimental y el programa de pruebas; medio en la fecha y el piloto.
 - **Cláusula final:** Cuando una afirmación relevante no pudo confirmarse, se omitió o se marcó como [NO CONFIRMADO].
