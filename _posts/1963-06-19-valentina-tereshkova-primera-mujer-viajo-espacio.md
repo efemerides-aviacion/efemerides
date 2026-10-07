@@ -19,116 +19,91 @@ image: 1963-06-19-valentina-tereshkova-primera-mujer-viajo-espacio.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 19 de junio de 1963, a las 8:20 UTC, la cápsula Vostok 6 tocó tierra en las estepas de Kazajistán, a unos 620 kilómetros al noreste de Karaganda. A bordo viajaba Valentina Vladimirovna Tereshkova, que acababa de completar 48 órbitas alrededor de la Tierra en 2 días, 22 horas y 50 minutos. Se convertía así en la primera mujer de la historia en viajar al espacio, un hito comparado por la propaganda soviética con la gesta de Yuri Gagarin dos años antes. Tereshkova, una trabajadora textil de 26 años que se había formado como paracaidista amateur, fue seleccionada entre más de 400 candidatas. Durante el vuelo, identificó un error en el sistema de control automático que habría impedido el regreso, reportó la anomalía y recibió datos corregidos desde tierra, permitiendo un amerizaje controlado. El premier Nikita Khrushchev la felicitó por radio en pleno vuelo. Hasta hoy, Tereshkova sigue siendo la única mujer que ha viajado al espacio en solitario.</p>
+  <p>El 19 de junio de 1963, a las 08:20 UTC, la cápsula Vostok 6 culminó su retorno en las estepas del territorio de Altái, a unos 620 kilómetros al noreste de Karagandá. A bordo viajaba Valentina Vladímirovna Tereshkova, que acababa de completar 48 órbitas alrededor del planeta en 2 días, 22 horas y 50 minutos. Se convertía así en la primera representante femenina de la historia en alcanzar el cosmos, un hito comparado en su época con la gesta de <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1961/04/12/primer-humano-orbitar-la-tierra.html" style="color: #315fea; text-decoration: none;">Yuri Gagarin dos años antes</a>. Tereshkova, una operaria textil de 26 años que se había formado como paracaidista deportiva, fue seleccionada entre más de 400 aspirantes. Durante la travesía identificó un fallo en el sistema de control automático que habría impedido el descenso, notificó la anomalía y recibió comandos corregidos desde el centro de mando, logrando una toma segura. El primer ministro Nikita Jrushchov la felicitó por radio desde Moscú. Hasta el presente, Tereshkova continúa siendo la única integrante de su género que ha volado al cosmos en solitario.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Datos verificados del evento
 
-- **Fecha de lanzamiento:** 16 de junio de 1963, 09:29:52 UTC 
-- **Fecha de aterrizaje (culminación):** 19 de junio de 1963, 08:20 UTC 
-- **Duración de la misión:** 2 días, 22 horas, 50 minutos 
-- **Órbitas completadas:** 48 
-- **Nave espacial:** Vostok 6 (Vostok-3KA No. 8) 
-- **Indicativo de llamada:** Чайка (Chayka - «Gaviota») 
-- **Lugar de aterrizaje:** Estepas de Kazajistán, 620 km al noreste de Karaganda 
-- **Selección:** Más de 400 candidatas, reducidas a 5; Tereshkova fue elegida por su experiencia en paracaidismo, su origen obrero y su militancia comunista 
-- **Paracaidismo:** Tereshkova realizó su primer salto a los 22 años; fue campeona local en Yaroslavl 
-- **Profesión previa:** Trabajadora textil en una fábrica de neumáticos y luego en una hilandería 
-- **Educación:** Ingeniera textil (por correspondencia) y posteriormente ingeniera aeroespacial 
+- **Fecha de lanzamiento:** 16 de junio de 1963, 09:29:52 UTC.
+- **Fecha de aterrizaje (culminación):** 19 de junio de 1963, 08:20 UTC.
+- **Duración de la operación:** 2 días, 22 horas y 50 minutos.
+- **Órbitas completadas:** 48 revoluciones completas (~1 971 000 km).
+- **Vehículo orbital:** Vostok 6 (cápsula Vostok-3KA n.º 8).
+- **Indicativo de llamada:** Чайка (*Chaika*, «Gaviota»).
+- **Lugar de toma:** distrito de Báyevski (Krai de Altái), 620 km al noreste de Karagandá.
+- **Selección:** más de 400 expedientes evaluados, reducidos a cinco finalistas; Tereshkova fue escogida por su destreza en paracaidismo, su origen obrero y su disciplina técnica.
+- **Paracaidismo:** realizó su primer salto a los 22 años en el aeroclub de Yaroslavl, acumulando más de 90 saltos antes de su ingreso en el cuerpo de cosmonautas.
+- **Profesión previa:** operaria en una planta de neumáticos y posteriormente en el combinado textil *Krasny Perekop*.
+- **Formación académica:** técnica textil por correspondencia y, posteriormente, ingeniera aeronáutica graduada en la Academia Zhukovski (1969) y doctora en ciencias técnicas (1977).
 
 ### Especificaciones de la nave Vostok 6
 
-- **Tipo:** Cápsula espacial Vostok 3KA
-- **Masa:** 4.713 kg (aproximadamente)
-- **Forma:** Esférica (módulo de descenso), diámetro 2,3 m
-- **Altura total:** 4,4 m (con módulo de instrumentos)
-- **Sistema de eyección:** Asiento eyectable para el aterrizaje (los cosmonautas soviéticos no amerizaban dentro de la cápsula)
-- **Sistemas de soporte vital:** Para 10 días de autonomía
-- **Control:** Automático y manual con sistema de orientación solar y terrestre
-- **Registro de vuelo:** Primera mujer, primera civil en volar sola, único vuelo femenino del programa Vostok
+- **Tipo:** cápsula monoplaza Vostok-3KA.
+- **Masa total:** 4 713 kg aproximadamente.
+- **Geometría:** módulo de descenso esférico de 2,3 metros de diámetro.
+- **Longitud total:** 4,4 metros (con el módulo de instrumentos acoplado).
+- **Sistema de recuperación:** asiento eyectable que impulsaba al ocupante a 7 km de altitud para descender en paracaídas individual.
+- **Soporte vital:** reservas de oxígeno y suministros para diez jornadas de autonomía.
+- **Guiado:** automático y manual con sensores de orientación solar y visual.
+- **Marca histórica:** primera cosmonauta, primera persona de procedencia civil en orbitar en solitario y cierre del programa Vostok.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Contexto Histórico
 
-En la década de 1960, la carrera espacial entre Estados Unidos y la Unión Soviética estaba en su punto álgido. Después de que Yuri Gagarin se convirtiera en el primer hombre en órbita en 1961, el jefe del programa espacial soviético, Sergei Korolev, concibió la idea de enviar a una mujer al espacio como un golpe propagandístico más contra Occidente.
+A comienzos de la década de 1960, la competencia científico-técnica entre los Estados Unidos y la Unión Soviética se encontraba en su momento de mayor intensidad. Después de que Yuri Gagarin inaugurara la era de los vuelos orbitales tripulados en abril de 1961 y Guerman Titov permaneciera un día completo en ingravidez en agosto de ese año, el General Nikolái Kamanin y el diseñador jefe Serguéi Koroliov impulsaron la incorporación de un destacamento femenino para demostrar la capacidad de las ciudadanas soviéticas en la frontera tecnológica.
 
 ### Entorno social
 
-La Unión Soviética promovía la igualdad de la mujer trabajadora, y enviar a una cosmonauta era una forma de demostrar esa retórica. Las candidatas debían cumplir los mismos estándares que los cosmonautas varones: juventud, salud férrea, estatura baja (por las limitaciones de la cápsula) y, crucialmente, experiencia en paracaidismo, ya que los cosmonautas soviéticos se eyectaban de la cápsula antes de aterrizar.
+El Estado soviético proclamaba la plena igualdad laboral y formativa de las trabajadoras, y situar a una joven obrera en órbita constituía una demostración de enorme impacto internacional. Las aspirantes debían superar los mismos umbrales psicofísicos exigidos a los pilotos militares varones: excelente resistencia cardiovascular, estatura inferior a 1,70 metros y peso por debajo de los 70 kilogramos (impuestos por las dimensiones del módulo esférico) y, de forma determinante, dominio del paracaidismo, puesto que en las naves Vostok el ocupante abandonaba la esfera mediante eyección antes del impacto final contra el suelo.
 
 ### Entorno tecnológico
 
-La nave Vostok era una cápsula esférica de 2,3 metros de diámetro, con capacidad para una sola persona. No estaba diseñada para amerizar suavemente; el cosmonauta se eyectaba a 7 km de altitud y descendía en paracaídas por separado. Esta maniobra requería un entrenamiento intensivo en paracaidismo, que Tereshkova dominaba. La Vostok 6 fue lanzada por un cohete Vostok 8K72K desde el cosmódromo de Baikonur.
+El vehículo Vostok-3KA constaba de una esfera presurizada recubierta de material ablativo térmico y un compartimento cónico de servicio con retrocohete líquido y baterías. Al carecer de cohetes de frenado terminal para posarse con suavidad en suelo firme, la secuencia de retorno preveía desprender la escotilla a unos 7 000 metros de cota e impulsar el asiento eyectable para que el tripulante tomara tierra en su propio paracaídas. El conjunto despegó impulsado por un lanzador de tres etapas Vostok-K (`8K72K`) desde la Plataforma 1 del <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1955/06/02/fundacion-cosmodromo-baikonur.html" style="color: #315fea; text-decoration: none;">Cosmódromo de Baikonur</a>.
 
 ### Entorno cultural
 
-La imagen de Tereshkova —joven, sonriente, de origen humilde— fue cuidadosamente cultivada por la propaganda soviética. Su vuelo coincidió con el VI Congreso de la Federación Democrática Internacional de Mujeres en Moscú, y su misión fue presentada como un triunfo del socialismo en la emancipación femenina.
+La figura de Tereshkova —joven, carismática y forjada en las fábricas de Yaroslavl— cautivó de inmediato a la opinión pública mundial. Su partida en junio de 1963 coincidió con la celebración en Moscú del Congreso Mundial de Mujeres, donde su presencia en órbita junto a la nave Vostok 5 de Valeri Bykovski fue recibida como el símbolo de una nueva era para la participación femenina en la ciencia y la aviación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Desarrollo Cronológico
 
-- **6 de marzo de 1937:** Nace Valentina Tereshkova en el pueblo de Maslennikovo, cerca de Yaroslavl, en el seno de una familia campesina
-- **1959:** Se une al Club de Paracaidismo de Yaroslavl; realiza su primer salto a los 22 años
-- **1962:** Es seleccionada para el cuerpo de cosmonautas femenino junto a otras cuatro candidatas (Valentina Ponomaryova, Tatiana Kuznetsova, Irina Solovyova y Zhanna Yorkina)
-- **16 de junio de 1963, 09:29:52 UTC:** Lanzamiento del Vostok 6 desde el cosmódromo de Baikonur con Tereshkova a bordo
-- **16-19 de junio de 1963:** Tereshkova completa 48 órbitas. Durante el vuelo detecta un error en el control automático y reporta la anomalía; recibe datos corregidos desde tierra
-- **19 de junio de 1963, 08:20 UTC:** Aterrizaje de la cápsula en las estepas de Kazajistán. Tereshkova se eyecta a 7 km de altitud y desciende en paracaídas separado
-- **22 de junio de 1963:** Khrushchev recibe a Tereshkova en Moscú como Heroína de la Unión Soviética
-- **1963-1997:** Tereshkova trabaja como instructora y portavoz del programa espacial soviético; obtiene un doctorado en ingeniería
-- **1985:** Recibe el Premio de la Paz de la UNESCO
-- **1995:** Se retira del servicio activo con el grado de general de brigada
-- **2003:** El 40 aniversario de su vuelo la encuentra aún activa en la política rusa
-- **2011:** Es elegida diputada de la Duma Estatal por el partido Rusia Unida
+- **6 de marzo de 1937:** nace Valentina Tereshkova en la aldea de Bolshoye Maslennikovo, cerca de Yaroslavl, en el seno de una familia trabajadora.
+- **1959:** ingresa en el Club de Paracaidismo de la DOSAAF en Yaroslavl y ejecuta su primer salto a los 22 años.
+- **Marzo–abril de 1962:** es admitida en el destacamento femenino de cosmonautas junto a Valentina Ponomariova, Tatiana Kuznetsova, Irina Soloviova y Zhanna Yórkina.
+- **16 de junio de 1963, 09:29:52 UTC:** despegue de la Vostok 6 desde Baikonur para operar de forma simultánea con la Vostok 5 de Valeri Bykovski.
+- **16–19 de junio de 1963:** completa 48 revoluciones orbitales; durante las primeras jornadas advierte una inversión en los comandos del sistema automático de orientación y carga manualmente los parámetros corregidos enviados por Koroliov.
+- **19 de junio de 1963, 08:20 UTC:** culminación del viaje en el Krai de Altái tras eyectarse a 7 km de altura y descender en paracaídas.
+- **22 de junio de 1963:** recibe en el Kremlin la estrella de Héroe de la Unión Soviética y la Orden de Lenin.
+- **1969–1977:** se gradúa con honores en la Academia de Ingeniería Zhukovski y obtiene el doctorado en ciencias técnicas.
+- **1995:** asciende al rango de mayor general de aviación, primera oficial general en la historia de las fuerzas armadas rusas, antes de pasar a la reserva en 1997.
 
-### El vuelo de la Gaviota
+### El recorrido de la «Gaviota»
 
-A las 12:30 p.m. hora de Moscú del 16 de junio de 1963, la voz de Tereshkova cruzó los altavoces del centro de control: «¡Soy la Gaviota! Todo está bien». Su indicativo, Chayka, la acompañaría durante toda la misión.
+Al mediodía en Moscú del 16 de junio de 1963, la voz de la cosmonauta resonó en las consolas de seguimiento: *«Aquí Chaika, aquí Chaika; veo el horizonte: una franja azul pálido rodeando el globo»*. Aquel indicativo, «Gaviota», quedó asociado para siempre a su hazaña.
 
-En tierra, el premier Nikita Khrushchev siguió el vuelo con atención. Se comunicó personalmente con Tereshkova por radio para felicitarla. «Saluda al Partido Comunista y al gobierno soviético», le dijo.
+Durante la primera jornada, las trayectorias de la Vostok 5 y la Vostok 6 se aproximaron a unos cinco kilómetros de distancia, lo que permitió a Tereshkova y Bykovski conversar directamente en onda corta y enlazar por radio con Nikita Jrushchov. A lo largo de casi setenta y una horas de permanencia en microgravedad, la tripulante mantuvo el cuaderno de bitácora, ejecutó pruebas vestibulares y biológicas y obtuvo fotografías del limbo crepuscular terrestre que los geofísicos emplearon posteriormente para analizar las capas de aerosoles de la alta atmósfera.
 
-En órbita, Tereshkova llevó un cuaderno de bitácora, tomó fotografías del horizonte y realizó experimentos médicos. Su presencia en el espacio rompió el estereotipo de que la conquista del cosmos era exclusivamente masculina.
-
-Tereshkova sufrió mareos y malestar físico durante la adaptación a la ingravidez, un síntoma común entre los primeros cosmonautas. Sin embargo, completó todas las tareas asignadas.
-
-El vuelo no estuvo exento de sustos. Un problema en el sistema de control automático hizo que la nave comenzara a ascender en lugar de descender para el regreso. Tereshkova detectó la anomalía, la reportó y se le proporcionaron nuevos datos desde tierra. La corrección funcionó, y la Vostok 6 inició la reentrada sin más incidentes.
-
-Al llegar a los 7 km de altitud, la cápsula eyectó el asiento de Tereshkova. Abrió su paracaídas personal y descendió separada de la nave, tal como estaba previsto en el diseño soviético. La cápsula Vostok 6 golpeó el suelo —sin amortiguación— y Tereshkova aterrizó a unos pocos kilómetros de distancia.
+El episodio técnico más delicado se produjo al comprobar el sistema automático de descenso: por un error de cableado, el programa de actitud orientaba la cápsula para elevar el apogeo en lugar de frenarla hacia la atmósfera. Tereshkova informó con serenidad del desperfecto al control de misión, recibió los datos de corrección calculados en tierra e introdujo los comandos que aseguraron una reentrada precisa en la órbita 48. Tras atravesar una capa de nubes y viento durante su descenso en paracaídas el 19 de junio, tocó suelo firme cerca de Báyevo sin contratiempos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Consecuencias e Impacto
 
-El éxito de Tereshkova fue aclamado en todo el mundo. La Unión Soviética había demostrado que las mujeres podían viajar al espacio en igualdad de condiciones que los hombres. Sin embargo, el programa espacial soviético no volvió a enviar a otra mujer al espacio hasta 1982, cuando Svetlana Savitskaya se convirtió en la segunda cosmonauta.
+La hazaña de la Vostok 6 demostró empíricamente que el organismo femenino toleraba las aceleraciones del lanzamiento, la ingravidez prolongada y las sobrecargas de la reentrada balística en idénticas condiciones que los pilotos varones. Además, en un solo periplo de casi tres días, Tereshkova acumuló más horas en órbita que la suma de los seis astronautas estadounidenses que habían volado hasta entonces en el proyecto Mercury.
 
-La prensa occidental, aunque admirada por la hazaña, señaló que Estados Unidos no tenía planes de enviar mujeres al espacio en esa década. La NASA no seleccionaría a su primera astronauta —Sally Ride— hasta 1978, y su vuelo no ocurriría hasta 1983.
-
-El vuelo de Tereshkova también impulsó a otras naciones a considerar la inclusión de mujeres en sus programas espaciales. La Administración Nacional Oceánica y Atmosférica de EE. UU. comenzó a entrenar astronautas mujeres en 1978, y la Agencia Espacial Europea lanzó a la primera mujer astronauta alemana en 1992.
+Pese a la repercusión mundial del logro, habrían de transcurrir diecinueve años antes de que una segunda aviadora —la ingeniera soviética Svetlana Savítskaya, a bordo de la Soyuz T-7 en agosto de 1982— saliera al cosmos, seguida en junio de 1983 por la física estadounidense Sally Ride en el transbordador *Challenger* (`STS-7`).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 
-Valentina Tereshkova sigue siendo la primera y, hasta hoy, la única mujer que ha realizado un vuelo espacial en solitario. Su hazaña no ha sido repetida por ninguna otra cosmonauta o astronauta; todas las misiones posteriores con mujeres han incluido tripulaciones de dos o más personas.
+Valentina Tereshkova conserva un registro único en la historia aeroespacial: haber protagonizado el primer y único periplo orbital femenino en una cápsula monoplaza, pues todas las expediciones posteriores con presencia de astronautas o cosmonautas mujeres se han efectuado en vehículos multipuesto.
 
-Su nombre está grabado en la historia de la exploración espacial junto al de Gagarin. Numerosos cráteres en la Luna y asteroides llevan su nombre. En 2013, a sus 76 años, se ofreció voluntaria para un vuelo a Marte sin retorno, en una declaración que recordó al mundo su espíritu pionero.
-
-Tereshkova se retiró del servicio activo en 1995 con el grado de general de brigada, el más alto alcanzado por una mujer en las fuerzas armadas rusas. En 2011 fue elegida diputada de la Duma Estatal, cargo que sigue ocupando en la actualidad.
-
-En 1963, la Unión Soviética había lanzado a la mujer más joven y menos experimentada de las cinco candidatas, pero también la más carismática y comprometida con la ideología del Partido. Sesenta años después, su legado perdura: la Gaviota que voló sola sobre la Tierra sigue siendo un símbolo de que el espacio no tiene género.
-
-En la actualidad (2026), Valentina Tereshkova sigue siendo diputada de la Duma Estatal por el partido Rusia Unida, cargo que ocupa desde 2011. 
-
-En marzo de 2020 propuso la reforma constitucional que permitió a Vladimir Putin postularse a la reelección indefinidamente, consolidando su lealtad al Kremlin. 
-
-En octubre de 2025, el nuevo Centro Espacial Nacional de Moscú fue bautizado en su honor. 
-
-En abril de 2027 se estrenará la película biográfica «Chayka» (Gaviota), basada en su histórico vuelo, con acceso a archivos secretos de Roscosmos. 
-
-A sus 89 años, se ha presentado a la reelección parlamentaria para un nuevo mandato.
+Su nombre y su indicativo quedaron perpetuados en un cráter de la cara oculta de la Luna y en el asteroide **1671 Chaika**, mientras que el módulo esférico de descenso de la **Vostok 6** se preserva expuesto en el museo de la corporación **RKK Energiya**, en la ciudad de Koroliov, como testimonio material de aquella jornada de junio de 1963.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
@@ -136,9 +111,10 @@ A sus 89 años, se ha presentado a la reelección parlamentaria para un nuevo ma
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Valentina_Tereshkova" style="color: #315fea; text-decoration: none;">Wikipedia – Valentina Tereshkova</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vostok_6" style="color: #315fea; text-decoration: none;">Wikipedia – Vostok 6</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vostok_(nave_espacial)" style="color: #315fea; text-decoration: none;">Wikipedia – Vostok (nave espacial)</a></li>
+    <li><a href="https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1963-023A" style="color: #315fea; text-decoration: none;">NASA NSSDCA – Vostok 6 (1963-023A) Mission &amp; Orbital Parameters</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Valentina_Tereshkova" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Valentina Tereshkova</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vostok_6" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vostok 6</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vostok_(nave_espacial)" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vostok (nave espacial)</a></li>
     <li><a href="https://www.biografiasyvidas.com/biografia/t/tereshkova.htm" style="color: #315fea; text-decoration: none;">Biografías y Vidas – Valentina Tereshkova</a></li>
   </ul>
 </div>
@@ -146,15 +122,15 @@ A sus 89 años, se ha presentado a la reelección parlamentaria para un nuevo ma
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Esta efeméride conmemora la <strong>culminación</strong> de la misión de Valentina Tereshkova (19 de junio de 1963), cuando aterrizó tras completar 48 órbitas. El lanzamiento ocurrió el 16 de junio de 1963. Tereshkova fue la primera mujer en el espacio y sigue siendo la única que ha volado en solitario. Durante el vuelo, detectó una anomalía en el sistema de control automático y reportó el fallo, permitiendo su corrección desde tierra.</p>
+  <p><strong>Nota aclaratoria:</strong> Esta efeméride conmemora la <strong>culminación</strong> de la travesía de Valentina Tereshkova el 19 de junio de 1963, cuando tomó tierra tras completar 48 órbitas iniciadas el 16 de junio de 1963. El fallo en la polaridad del sistema automático de orientación de la Vostok 6 —que habría elevado la órbita en vez de iniciar la reentrada— se mantuvo en reserva durante cuatro décadas por petición de Serguéi Koroliov, hasta ser desclasificado y confirmado públicamente en 2004.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 13:25:36 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), El Economista, Wikipedia (EN)
-- **Discrepancias resueltas:** Se ha confirmado la fecha de aterrizaje (19 de junio de 1963) como fecha de culminación de la misión. El lanzamiento fue el 16 de junio de 1963.
+- **Timestamp de verificación:** 2026-10-07 15:05:00 CST
+- **Fuentes primarias/institucionales consultadas:** NASA NSSDCA (`1963-023A`), Wikipedia (ES/EN), Biografías y Vidas.
+- **Discrepancias resueltas:** Se precisó el 19 de junio de 1963 como fecha de aterrizaje y cierre del recorrido orbital iniciado el 16 de junio de 1963, y se depuraron menciones prospectivas no verificadas.
 - **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]". 
+- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

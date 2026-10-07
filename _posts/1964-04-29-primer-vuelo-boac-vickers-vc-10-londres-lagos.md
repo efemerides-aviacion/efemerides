@@ -16,129 +16,72 @@ image: 1964-04-29-primer-vuelo-boac-vickers-vc-10-londres-lagos.webp
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 29 de abril de 1964, BOAC inauguró el servicio comercial del Vickers VC10 con el vuelo de G-ARVJ desde Londres Heathrow a Lagos, Nigeria, marcando el debut del avión británico en rutas africanas "altas y calientes". Este hito ocurrió días después de obtener el Certificado de Aeronavegabilidad el 23 de abril de 1964. El VC10, con cuatro motores Rolls-Royce Conway, destacaba por su rendimiento en aeropuertos exigentes .</p>
+<p>El 29 de abril de 1964, la aerolínea británica <strong>British Overseas Airways Corporation (BOAC)</strong> inauguró el servicio comercial regular del cuatrirreactor <strong>Vickers VC10</strong> (Tipo 1101) mediante el enlace directo entre el aeropuerto de Londres-Heathrow y el de Lagos-Ikeja, en Nigeria, operado por la aeronave matriculada <strong>G-ARVJ</strong>.</p>
+<p>Seis días después de obtener su Certificado de Aeronavegabilidad británico el 23 de abril de 1964, el modelo estrenaba en las exigentes rutas africanas de pistas cortas, elevadas y cálidas (<em>hot and high</em>) su singular configuración de cuatro turbofanes Rolls-Royce Conway agrupados en pares a los lados de la cola y su estabilizador en «T», consolidándose como uno de los reactores de largo alcance más apreciados por los pasajeros y más longevos en su posterior etapa militar con la Real Fuerza Aérea británica.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
-- **Fecha del primer vuelo comercial:** 29 de abril de 1964 
-- **Ruta:** Londres Heathrow (LHR) → Lagos, Nigeria (LOS) 
-- **Aeronave:** Vickers VC10 Type 1101, matrícula G-ARVJ, número de construcción (c/n) 812
-- **Operador:** British Overseas Airways Corporation (BOAC) 
-- **Librea:** "Golden Speedbird" [citado en la información proporcionada]
-- **Certificado de Aeronavegabilidad:** 23 de abril de 1964 
-- **Motores:** 4 × Rolls-Royce Conway RCo.42 turbofans, 93.4 kN (21.000 lb) de empuje cada uno 
-- **Producción total del VC10:** 54 unidades (1962-1970) 
-- **Unidades BOAC:** 12 VC10 Standard y 17 Super VC10 
+- **Fecha:** 29 de abril de 1964.
+- **Ruta inaugural:** Aeropuerto de Londres-Heathrow (`LHR`), Reino Unido → Aeropuerto de Lagos-Ikeja (`LOS`), Nigeria (~5 000 km).
+- **Aeronave:** Vickers-Armstrongs VC10 Serie Estándar (Tipo 1101), matrícula **G-ARVJ** (número de construcción `812`), librea *Golden Speedbird*.
+- **Operador:** British Overseas Airways Corporation (**BOAC**).
+- **Configuración de cabina:** 109 plazas (16 asientos en primera clase y 93 en clase turista).
+- **Planta motriz:** cuatro turbofanes **Rolls-Royce Conway RCo.42 Mk 540** de `90,6 kN` (`20 370 lbf`) de empuje unitario dispuestos en góndolas traseras pareadas.
+- **Dimensiones y pesos:** longitud `48,36 m`; envergadura `44,55 m`; superficie alar `264,9 m²`; peso máximo al despegue `141 520 kg`.
+- **Prestaciones:** velocidad de crucero `933 km/h` (Mach 0,86); techo de servicio `13 105 m`; carrera de despegue notablemente inferior a la de los cuatrirreactores convencionales de su generación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-El Vickers VC10 fue diseñado específicamente para satisfacer las necesidades de BOAC en las rutas del "Imperio Medio" (Middle-East Empire) hacia África y Asia. A finales de la década de 1950, BOAC necesitaba un avión capaz de operar en aeropuertos con pistas cortas y altas temperaturas (llamados "hot and high"), condiciones comunes en las colonias británicas africanas . La decisión de diseñar un avión británico en lugar de comprar el Boeing 707 fue tanto tecnológica como política: se buscaba mantener la capacidad de diseño aeronáutico del Reino Unido .
+A finales de la década de 1950, mientras BOAC inauguraba <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/10/04/primer-servicio-comercial-transatlantico-reactores-dh-comet-4-boac.html" style="color: #315fea; text-decoration: none;">los enlaces regulares transatlánticos operados por el reactor de Havilland Comet 4</a> e incorporaba el Boeing 707-436 para el Atlántico Norte, la compañía afrontaba severas limitaciones operativas en su extensa red meridional hacia África, Oriente Medio y Asia.
 
 ### Entorno social
 
-La década de 1960 fue una época de transición para el Reino Unido. El Imperio Británico se desmantelaba gradualmente, pero las rutas aéreas hacia África y Asia seguían siendo vitales para el comercio y los lazos culturales. Nigeria, que obtuvo su independencia en 1960, seguía siendo un socio comercial importante. El vuelo inaugural a Lagos simbolizaba la conexión continuada entre la metrópoli y sus antiguas colonias .
+En plena etapa de transición poscolonial de la Mancomunidad Británica (*Commonwealth*), el mantenimiento de enlaces aéreos rápidos entre Londres y las capitales africanas y asiáticas revestía una importancia política y comercial estratégica para el Reino Unido. Al mismo tiempo, el Gobierno británico buscaba sostener la capacidad de su propia industria aeronáutica frente a la creciente hegemonía de los fabricantes estadounidenses Boeing y Douglas.
 
 ### Entorno tecnológico
 
-El VC10 era un avión avanzado para su época. Incorporaba un sistema de control de vuelo automático cuádruple redundante, que permitía aterrizajes completamente automáticos en condiciones de visibilidad cero . Su diseño con cuatro motores en la parte trasera del fuselaje (en lugar de en las alas) lo hacía más silencioso en cabina, ya que todos los pasajeros se sentaban delante de los motores. BOAC lo describió como "triumphantly swift, silent, serene" (triunfalmente rápido, silencioso y sereno) .
+Aeropuertos clave de las rutas imperiales —como Kano, Nairobi, Entebbe, Johannesburgo o Karachi— combinaban pistas relativamente cortas con gran altitud o temperaturas tropicales que reducían drásticamente el empuje de los primeros reactores con motores suspendidos bajo las alas. Para responder al pliego de BOAC, el equipo de **Vickers-Armstrongs** en Weybridge, dirigido por sir George Edwards, agrupó los cuatro turbofanes **Rolls-Royce Conway** en dos góndolas dobles a ambos lados del fuselaje posterior y adoptó un empenaje en «T». Esta disposición dejaba el ala completamente limpia para instalar *slats* de borde de ataque y *flaps* Fowler en toda la envergadura, elevaba las tomas de aire lejos de piedras o residuos de pista y situaba los motores detrás de la cabina presurizada, reduciendo al mínimo el ruido interior.
 
 ### Entorno cultural
 
-El VC10 fue recibido con entusiasmo en el Reino Unido como un símbolo de la ingeniería británica. Su elegante diseño, con la cola alta y las alas en flecha, lo hacían inconfundible. Aunque comercialmente no fue un éxito (solo se construyeron 54 unidades), el VC10 ganó una base de seguidores leales entre pasajeros y tripulaciones, que apreciaban su fiabilidad y confort .
+BOAC convirtió esa suavidad acústica y la elegante silueta del aparato en el eje de su célebre campaña publicitaria *«Triumphantly swift, silent, serene»* («Triunfalmente veloz, silencioso y sereno»). Aunque la rápida ampliación de las pistas en los aeropuertos internacionales durante los años sesenta permitió operar allí al Boeing 707 sin penalizaciones y limitó la producción total del VC10 a **54 ejemplares**, el avión conquistó la preferencia del público y obtuvo índices de ocupación superiores a los de sus competidores en las mismas líneas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **1956:** BOAC comienza a estudiar los requisitos para un nuevo avión para rutas africanas 
-- **Enero de 1958:** BOAC firma un contrato por 35 VC10 [información proporcionada]
-- **1959:** Vickers lanza formalmente el programa VC10
-- **15 de abril de 1962:** El prototipo G-ARTA sale de la fábrica de Weybridge 
-- **29 de junio de 1962:** Primer vuelo del prototipo VC10, pilotado por G.R. "Jock" Bryce y Brian Trubshaw, desde Brooklands a Wisley 
-- **1963:** Se introducen mejoras aerodinámicas (puntas de ala Küchemann y carenados "cola de castor") para reducir la resistencia 
-- **8 de febrero de 1964:** Un VC10 cruza el Atlántico hacia Montreal 
-- **22-23 de abril de 1964:** Se concede el Certificado de Aeronavegabilidad 
-- **29 de abril de 1964:** Primer vuelo comercial de BOAC: Londres (Heathrow) a Lagos (Nigeria) con el G-ARVJ 
-- **2 de mayo de 1964:** Vuelo inaugural a Accra (Ghana) 
-- **7 de mayo de 1964:** Primer vuelo del Super VC10 (versión de fuselaje alargado) 
-- **1 de abril de 1965:** Entrada en servicio del Super VC10 
-- **30 de septiembre de 2013:** Retiro del último VC10 del servicio activo de la RAF 
-
-### El VC10: diseño y características
-
-El Vickers VC10 fue concebido como un avión de largo alcance para rutas "hot and high". Su diseño incluía varias características innovadoras que lo diferenciaban de sus competidores estadounidenses (Boeing 707 y Douglas DC-8).
-
-### La configuración de motores
-
-A diferencia de la mayoría de los aviones comerciales de la época, los cuatro motores Rolls-Royce Conway del VC10 se montaban en pares a cada lado de la cola del fuselaje. Esta disposición ofrecía varias ventajas: reducía el ruido en cabina (todos los pasajeros iban delante de los motores), permitía un ala más limpia aerodinámicamente y facilitaba el mantenimiento de los motores con el avión en tierra .
-
-### El rendimiento "hot and high"
-
-El VC10 fue diseñado específicamente para operar desde aeropuertos con pistas cortas y condiciones de altas temperaturas y baja densidad del aire, comunes en África (por ejemplo, Nairobi y Lagos). Su capacidad de despegue y aterrizaje en distancias cortas era superior a la del Boeing 707, lo que lo hacía ideal para las rutas imperiales de BOAC .
-
-### Las mejoras aerodinámicas
-
-Durante las pruebas de vuelo, se descubrió que la resistencia aerodinámica del VC10 era mayor de lo calculado. Para solucionarlo, los ingenieros introdujeron varias modificaciones:
-- **Puntas de ala Küchemann** (alas curvadas hacia arriba), que aumentaban la superficie alar y reducían la resistencia 
-- **Carenados "cola de castor"** (beaver-tail) entre los pares de motores, que mejoraban el flujo de aire 
-- **Revisión del timón de cola** para mejorar el control direccional 
-
-### La versión Super VC10
-
-El Super VC10 era una versión de fuselaje alargado (13 pies o 3,96 metros más largo) y mayor alcance. Estaba propulsado por motores Conway RCo.43 más potentes y tenía un depósito de combustible adicional en el estabilizador vertical. Voló por primera vez el 7 de mayo de 1964 y entró en servicio en abril de 1965 .
-
-### El vuelo inaugural a Lagos
-
-El 29 de abril de 1964, el VC10 Type 1101 G-ARVJ (c/n 812), con la librea "Golden Speedbird" de BOAC, despegó del aeropuerto de Londres Heathrow con destino a Lagos, Nigeria. Este vuelo marcó la entrada oficial del VC10 en servicio comercial .
-
-Seis días antes, el 23 de abril de 1964, el VC10 había recibido su Certificado de Aeronavegabilidad, tras un programa de pruebas que incluyó vuelos a Nairobi, Jartum, Roma, Kano, Adén, Salisbury y Beirut, así como un cruce transatlántico a Montreal el 8 de febrero de 1964 .
-
-El avión, bautizado por BOAC como "Swift, Silent, Serene", ofrecía a los pasajeros un nivel de confort superior al de sus competidores. La disposición de los motores en la cola reducía significativamente el ruido en cabina. La configuración de asientos era de 16 en primera clase y 93 en clase turista .
-
-### Nigeria Airways
-
-Al día siguiente del vuelo inaugural, el 30 de abril de 1964, Nigeria Airways inició servicios con un VC10 alquilado de BOAC. Aunque Nigeria Airways había planeado comprar sus propios VC10, problemas financieros le impidieron hacerlo, optando por el alquiler de aviones de BOAC .
+- **Enero de 1958:** BOAC formaliza el pedido inicial de 35 aeronaves VC10 a Vickers-Armstrongs.
+- **15 de abril de 1962:** salida de planta (*roll-out*) en Weybridge del prototipo Tipo 1100 matriculado **G-ARTA**.
+- **29 de junio de 1962:** despegue inaugural del prototipo `G-ARTA` desde la corta pista de Brooklands hasta Wisley, a los mandos de G. R. «Jock» Bryce y Brian Trubshaw.
+- **1963:** introducción de mejoras aerodinámicas tras los ensayos en túnel y en aire, incluyendo puntas alares tipo Küchemann y carenados traseros de perfil «cola de castor» (*beaver-tail*) entre las toberas para reducir la resistencia parásita.
+- **23 de abril de 1964:** otorgamiento del Certificado de Aeronavegabilidad tras completar más de mil horas de pruebas en rutas hacia Nairobi, Jartum, Kano, Adén, Salisbury, Beirut y Montreal.
+- **29 de abril de 1964:** servicio comercial inaugural de BOAC entre Londres-Heathrow y Lagos con el ejemplar **G-ARVJ** (`c/n 812`).
+- **30 de abril y 2 de mayo de 1964:** inicio de operaciones en régimen de fletamento para *Nigeria Airways* y apertura del enlace a Acra (Ghana).
+- **7 de mayo de 1964 y 1 de abril de 1965:** estreno en el aire y posterior entrada en servicio en la ruta Londres–Nueva York de la versión alargada **Super VC10** (Tipo 1151, de `52,32 m` de longitud y motores Conway RCo.43).
+- **25 de septiembre de 2013:** baja definitiva de los últimos VC10 de transporte y reabastecimiento en el aire de la Real Fuerza Aérea británica (RAF).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Rutas africanas consolidadas:** El VC10 demostró su valía en las rutas africanas de BOAC, operando con fiabilidad en condiciones exigentes. El vuelo a Lagos fue seguido por servicios a Accra (Ghana) el 2 de mayo de 1964 .
-
-- **Expansión de la red de BOAC:** El éxito inicial llevó a BOAC a desplegar el VC10 en rutas hacia Oriente Medio, Asia y Australia. El Super VC10 se utilizó en rutas transatlánticas hacia Estados Unidos .
-
-- **Récord de velocidad transatlántica:** El VC10 ostenta el récord del cruce transatlántico más rápido realizado por un avión de pasajeros subsónico, con un tiempo de 5 horas y 1 minuto, un récord que solo fue superado por el Concorde .
-
-- **Uso militar prolongado:** Aunque BOAC retiró el VC10 en 1981, la Real Fuerza Aérea Británica (RAF) continuó operando versiones de transporte y reabastecimiento en vuelo (VC10 C.1 y K.2, K.3, K.4) hasta el 20 de septiembre de 2013 .
+- **Consolidación de las rutas africanas y orientales:** los doce VC10 estándar (Tipo 1101) y los diecisiete Super VC10 (Tipo 1151) de BOAC —además de los ejemplares operados por *British United Airways*, *Ghana Airways*, *East African Airways* y *Gulf Aviation*— aseguraron enlaces de alta fiabilidad en aeródromos donde ningún otro cuatrirreactor contemporáneo igualaba sus márgenes de ascenso inicial ni su baja velocidad de aproximación sobre umbrales cortos.
+- **Innovación en aproximaciones automáticas:** equipado con un sistema de mando de vuelo triplicado desarrollado por Elliott Brothers, el modelo protagonizó tempranos ensayos de aterrizaje automático guiado por instrumentos que complementaron el programa británico encabezado por <a href="https://efemerides-aviacion.github.io/efemerides/evento/1965/06/10/primer-aterrizaje-automatico-trident.html" style="color: #315fea; text-decoration: none;">el Hawker Siddeley Trident en junio de 1965</a>.
+- **Marca transatlántica subsónica:** el 29 de marzo de 1979, al despedirse de las líneas regulares de British Airways, el Super VC10 **G-ASGC** cubrió el trayecto entre Nueva York-JFK y Glasgow-Prestwick en **5 horas y 1 minuto** a una velocidad respecto al suelo de 1 118 km/h, registro transatlántico que para aviones comerciales de pasajeros únicamente fue superado por reactores supersónicos como <a href="https://efemerides-aviacion.github.io/efemerides/evento/1969/03/02/primer-vuelo-concorde-001-toulouse.html" style="color: #315fea; text-decoration: none;">el Concorde</a>.
+- **Medio siglo de servicio militar:** adquiridos por la RAF tanto de nueva construcción (`VC10 C.1`, asignados al Escuadrón N.º 10 en RAF Brize Norton desde 1966) como procedentes de las flotas civiles retiradas y convertidos por British Aerospace en aviones cisterna de tres puntos de trasvase (`K.2, K.3, K.4 y C.1K`), los VC10 sostuvieron las operaciones expedicionarias británicas en el Atlántico Sur (1982), el golfo Pérsico (1991), los Balcanes, Irak y Afganistán durante casi cinco décadas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El Vickers VC10 es recordado como uno de los aviones comerciales más bellos y elegantes jamás construidos. Su distintiva configuración de motores en la cola y su capacidad para operar en pistas cortas lo convirtieron en un diseño único .
-
-Aunque comercialmente fue superado por el Boeing 707 y Douglas DC-8, que vendieron miles de unidades frente a las 54 del VC10, el avión ganó un lugar especial en el corazón de los entusiastas de la aviación. Su ruidoso rugido característico, producido por los cuatro motores Conway, era reconocible al instante.
-
-El legado del VC10 perdura en el récord de velocidad transatlántica subsónica que todavía mantiene. También perdura en la memoria de quienes volaron en él: BOAC lo describió como "triunfalmente rápido, silencioso y sereno" .
-
-Hoy, varios VC10 se conservan en museos del Reino Unido, incluyendo el Brooklands Museum (donde se realizó el primer vuelo), el Imperial War Museum Duxford y el RAF Museum Cosford. El prototipo Super VC10 también se conserva en el Aeropuerto de East Midlands.
-
-El 20 de septiembre de 2013, la RAF retiró el último VC10 en servicio activo, poniendo fin a más de 50 años de historia operativa de este icónico avión británico .
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre el Certificado de Aeronavegabilidad:</strong> Las fuentes presentan una ligera discrepancia en la fecha del certificado: algunas indican el 22 de abril de 1964, otras el 23 de abril de 1964. La mayoría de las fuentes coinciden en que el primer vuelo comercial fue el 29 de abril de 1964 .</p>
-<p><strong>Sobre el G-ARVJ:</strong> Este avión fue el primero de los 12 VC10 Standard entregados a BOAC. Fue entregado el 23 de abril de 1964, voló a Lagos el 29 de abril, y posteriormente operó para BOAC y British Airways hasta principios de la década de 1980.</p>
-<p><strong>Sobre el nombre "Golden Speedbird":</strong> La librea "Golden Speedbird" era el esquema de pintura característico de BOAC en la década de 1960, que presentaba un pájaro dorado estilizado en el fuselaje.</p>
-</div>
+Recordado como una de las realizaciones estéticas y estructurales más brillantes de la ingeniería aeronáutica europea del siglo XX, el Vickers VC10 dejó una huella indeleble entre las tripulaciones y los viajeros que conocieron la serenidad de su cabina y el inconfundible bramido exterior de sus cuatro turbofanes Conway. Hoy cuatro ejemplares completos preservados en museos británicos —entre ellos el `G-ARVM` en el Brooklands Museum de Weybridge, el `G-ASGC` en el Imperial War Museum de Duxford, el `XR808` en el Museo de la RAF en Cosford y el `ZA147` en Cornwall— testimonian el apogeo del diseño intercontinental concebido a orillas del río Wey.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -146,21 +89,26 @@ El 20 de septiembre de 2013, la RAF retiró el último VC10 en servicio activo, 
 
 <div class="references">
   <ul>
-    <li><a href="https://en.m.wikipedia.org/wiki/Vickers_Super_VC10" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Vickers VC10</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Vickers_VC10" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Vickers VC10</a></li>
-    <li><a href="https://londonairtravel.com/category/british-airways/page/24/" style="color: #315fea; text-decoration: none;">London Air Travel - BA100: 33. Swift, Silent, Serene, The BOAC VC10</a></li>
-    <li><a href="https://vc10.net/History/Timeline.html" style="color: #315fea; text-decoration: none;">VC10.net - Timeline</a></li>
-    <li><a href="https://www.alamyimages.fr/british-aerospace-vickers-armstrong-bac-vc10-2166-230-gav-image6214305.html" style="color: #315fea; text-decoration: none;">Alamy - Vickers VC10 prototype G-ARTA</a></li>
-    <li><a href="https://www.airports-worldwide.com/articles/article1419.php" style="color: #315fea; text-decoration: none;">Airports Worldwide - Vickers VC10</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Vickers_VC10" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Vickers VC10</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Vickers_VC10" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Vickers VC10</a></li>
+    <li><a href="https://londonairtravel.com/2019/05/05/the-boac-vickers-vc10/" style="color: #315fea; text-decoration: none;">London Air Travel – Swift, Silent, Serene: The BOAC VC10</a></li>
+    <li><a href="https://vc10.net/History/Timeline.html" style="color: #315fea; text-decoration: none;">VC10.net – A Little VC10derness: Historical Timeline</a></li>
+    <li><a href="https://www.airports-worldwide.com/articles/article1419.php" style="color: #315fea; text-decoration: none;">Airports Worldwide – Vickers VC10</a></li>
   </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+<div class="note-box">
+<p><strong>Nota aclaratoria:</strong> El Certificado de Aeronavegabilidad sin restricciones para transporte público del Vickers VC10 fue emitido por el Air Registration Board británico el 23 de abril de 1964 (algunas crónicas fechan la firma técnica el día 22), seis jornadas antes del servicio comercial inaugural a Lagos del 29 de abril. El protagonista de aquel estreno, el <strong>G-ARVJ</strong> (c/n <code>812</code>), sirvió en BOAC hasta 1974 y fue reconvertido a partir de 1978 en avión cisterna <strong>VC10 K.2</strong> (matrícula militar <strong>ZA143</strong>) del Escuadrón N.º 101 de la RAF en Brize Norton, donde permaneció en activo hasta el año 2000.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), London Air Travel, VC10.net, Alamy
-- **Discrepancias resueltas:** La fecha del Certificado de Aeronavegabilidad varía entre el 22 y 23 de abril de 1964; se ha priorizado el 23 de abril. El primer vuelo comercial fue el 29 de abril de 1964 confirmado por todas las fuentes. El avión G-ARVJ (c/n 812) fue el primero en operar la ruta Londres-Lagos.
+- **Timestamp de verificación:** 2026-10-07 15:12:00 CST
+- **Fuentes primarias/institucionales consultadas:** VC10.net, London Air Travel, Wikipedia (EN/ES), Brooklands Museum.
+- **Discrepancias resueltas:** Se precisó la fecha del Certificado de Aeronavegabilidad (22–23 de abril de 1964) y el historial completo del ejemplar inaugural `G-ARVJ` (`c/n 812` / `ZA143`).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

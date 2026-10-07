@@ -19,106 +19,95 @@ image: 1965-03-23-primer-vuelo-tripulado-programa-gemini.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 23 de marzo de 1965, despegó Gemini 3, el primer vuelo tripulado del programa Gemini de la NASA, con los astronautas Virgil "Gus" Grissom como piloto comandante y John Young como piloto. La misión duró casi 5 horas, completando tres órbitas terrestres bajas y demostrando por primera vez maniobras orbitales tripuladas en EE.UU., usando el sistema OAMS para alterar la trayectoria. La nave, apodada "Molly Brown", fue lanzada desde Cabo Cañaveral en un cohete Titan II y logró una reentrada controlada con amerizaje en el Atlántico.</p>
+<p>El 23 de marzo de 1965 despegó desde el Complejo 19 de Cabo Kennedy la astronave <strong>Gemini 3</strong>, primera expedición con ocupantes de la segunda generación de cápsulas espaciales de la NASA, tripulada por el comandante <strong>Virgil I. «Gus» Grissom</strong> y el piloto <strong>John W. Young</strong>. La travesía se prolongó durante 4 horas, 52 minutos y 31 segundos a lo largo de tres órbitas terrestres bajas e inauguró las maniobras de traslación orbital activa mediante el sistema <strong>OAMS</strong>, alterando voluntariamente por primera vez la altitud y el plano de inclinación de un vehículo tripulado. Bautizada extraoficialmente <em>«Molly Brown»</em> e impulsada por un lanzador Titan II, culminó con un amerizaje en el Atlántico que dejó expedito el camino tecnológico hacia el <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1969/07/20/alunizaje-apolo11.html" style="color: #315fea; text-decoration: none;">alunizaje del Apolo 11</a>.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Datos verificados del evento
-- **Fecha de lanzamiento:** 23 de marzo de 1965, 14:24 UTC
-- **Lugar de lanzamiento:** Complejo de Lanzamiento 19, Cabo Cañaveral, Florida
-- **Astronautas:** Virgil I. "Gus" Grissom (piloto comandante), John W. Young (piloto)
-- **Tripulación de respaldo:** Walter M. Schirra Jr., Thomas P. Stafford
-- **Vehículo lanzador:** Titan II GLV
-- **Nave espacial:** Gemini SC3, apodada "Molly Brown"
-- **Duración de la misión:** 4 horas, 52 minutos, 31 segundos
-- **Órbitas completadas:** 3
-- **Apogeo inicial:** 224 km
-- **Perigeo inicial:** 161 km
-- **Peso al lanzamiento:** 3.236,9 kg
-- **Amerizaje:** 23 de marzo de 1965, 19:17 UTC, Océano Atlántico (22°26′N 70°51′O)
-- **Estado:** Nave principal exhibida en el National Air and Space Museum, Smithsonian Institution
+
+- **Fecha de lanzamiento:** 23 de marzo de 1965, 14:24:00 UTC (09:24 hora local de Florida).
+- **Fecha de amerizaje:** 23 de marzo de 1965, 19:16:31 UTC.
+- **Duración y órbitas:** 4 horas, 52 minutos y 31 segundos; 3 revoluciones completas alrededor de la Tierra.
+- **Vehículo y lanzador:** cápsula biplaza McDonnell `SC-3` (*Molly Brown*, `COSPAR 1965-024A`) sobre cohete Martin **Titan II GLV** (`GT-3`).
+- **Tripulación:** comandante Virgil I. «Gus» Grissom (USAF) y piloto John W. Young (US Navy).
+- **Lugar de partida:** Complejo de Lanzamiento 19 (`LC-19`), Estación de la Fuerza Aérea de Cabo Kennedy, Florida.
+- **Recuperación:** océano Atlántico occidental (`22°26′N, 70°51′O`), a cargo del portaaviones **USS *Intrepid* (`CVS-11`)**.
+- **Maniobras con el sistema OAMS:** circularización de `161,2 × 224,2 km` a `158 × 169 km` (1.ª vuelta), cambio de plano orbital de `0,02°` (2.ª vuelta) y descenso del perigeo a `72 km` (3.ª vuelta).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Contexto Histórico
 
-A mediados de la década de 1960, la carrera espacial entre Estados Unidos y la Unión Soviética alcanzaba su punto más álgido. El programa Mercury había puesto al primer estadounidense en órbita (John Glenn, 1962), pero la Unión Soviética mantenía la delantera en hitos significativos: primer satélite (Sputnik, 1957), primer hombre en el espacio (Yuri Gagarin, 1961) y, apenas cinco días antes del lanzamiento de Gemini 3, la primera caminata espacial por Alexei Leonov (18 de marzo de 1965).
+Tras el inicio de la presencia estadounidense en el cosmos con el salto suborbital de <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1961/05/05/alan-shepard-primer-estadounidense-viajar-espacio.html" style="color: #315fea; text-decoration: none;">Alan Shepard el 5 de mayo de 1961</a> y el cierre del Proyecto Mercury en mayo de 1963 con las 22 órbitas de Gordon Cooper en <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/05/16/mision-espacial-faith-7-mercury-atlas-9.html" style="color: #315fea; text-decoration: none;">la cápsula Faith 7 (Mercury-Atlas 9)</a>, la NASA necesitaba validar las técnicas de encuentro, acoplamiento, paseo extravehicular y permanencia prolongada indispensables para viajar a la Luna.
 
 ### Entorno social
-Estados Unidos vivía bajo la presión de cumplir el ambicioso objetivo del presidente John F. Kennedy de poner un hombre en la Luna antes de que terminara la década. El programa Gemini era el puente tecnológico entre Mercury y Apolo: debía probar maniobras orbitales, acoplamiento, caminatas espaciales y resistencia humana en el espacio durante períodos prolongados.
+
+En plena competencia por la primacía aeroespacial, cinco días antes del despegue de Grissom y Young —el 18 de marzo de 1965— el cosmonauta soviético Alexéi Leónov había efectuado la primera caminata en el vacío desde la nave Vosjod 2. Ante la opinión pública internacional, el estreno del nuevo biplaza estadounidense debía demostrar que la arquitectura norteamericana poseía la maniobrabilidad y precisión de guiado necesarias para superar la ventaja inicial soviética.
 
 ### Entorno tecnológico
-La nave Gemini era significativamente más avanzada que Mercury: podía transportar dos astronautas en lugar de uno, contaba con un sistema de maniobras orbitales (OAMS) que permitía cambiar la órbita, tenía capacidad de reentrada controlada mediante ordenadores de a bordo, y utilizaba un cohete Titan II de combustible hipergólico (más potente que el Atlas de Mercury). El control de la misión en Cabo Cañaveral y la red de estaciones de seguimiento global (Manned Space Flight Network) eran esenciales para el éxito.
+
+Fabricada por **McDonnell Aircraft** en San Luis bajo la dirección técnica de Jim Chamberlin, la nueva cápsula duplicaba el volumen habitable de la Mercury y agrupaba los propulsores, tanques hipergólicos y suministros eléctricos en un módulo adaptador trasero separable antes de la reentrada. Su innovación fundamental residía en los dieciséis propulsores del **Sistema de Maniobra y Control de Actitud Orbital (OAMS)** y en el ordenador digital de a bordo **IBM**, que permitían al piloto trasladarse en los tres ejes espaciales y modificar su propia trayectoria orbital, además de contar con asientos eyectables y un lanzador **Titan II** de encendido hipergólico instantáneo.
 
 ### Entorno cultural
-La NASA cultivaba una imagen de precisión científica y heroísmo nacional. Los astronautas eran celebridades de alcance mundial, y cada misión era seguida en vivo por millones de personas. El apodo de la nave, "Molly Brown" (en honor al musical *The Unsinkable Molly Brown*), reflejaba el humor y la confianza de la tripulación, aunque la elección fue cuestionada por la rigurosidad de la NASA.
+
+Fiel al sentido del humor de los aviadores de pruebas, Gus Grissom bautizó la cápsula como ***Molly Brown***, en alusión al musical de Broadway *The Unsinkable Molly Brown* («La insumergible Molly Brown») y al hundimiento accidental de su cápsula Mercury *Liberty Bell 7* en julio de 1961. Cuando los directivos de la agencia le pidieron cambiar el nombre por otro más formal y Grissom sugirió llamarla ***Titanic***, los responsables aceptaron mantener *Molly Brown*, aunque suprimieron los bautismos informales hasta el programa Apolo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Desarrollo Cronológico
 
-- **18 de marzo de 1965:** Cinco días antes del lanzamiento de Gemini 3, el cosmonauta soviético Alexei Leonov realiza la primera caminata espacial de la historia durante la misión Voskhod 2, aumentando la presión sobre el programa estadounidense.
-- **23 de marzo de 1965, 14:24 UTC:** El cohete Titan II despega desde el Complejo de Lanzamiento 19 en Cabo Cañaveral. Es la primera vez que Estados Unidos lanza una nave espacial con dos tripulantes.
-- **Durante el ascenso:** Grissom y Young experimentan aceleraciones de hasta 7,7 G. El vuelo es nominal; la separación de la primera etapa ocurre sin problemas.
-- **En órbita:** Una vez en órbita baja, los astronautas realizan la primera maniobra orbital tripulada de Estados Unidos. Usando el sistema OAMS (Orbit Attitude and Maneuvering System), modifican la trayectoria: tras una primera ignición que cambia el apogeo de 224 km a 228 km, realizan una segunda maniobra de circularización que estabiliza la órbita en aproximadamente 225 × 225 km. También prueban el sistema de guiado y control, demostrando la capacidad de la nave Gemini para cambiar su trayectoria en el espacio.
-- **El sándwich de contrabando:** A mitad del vuelo, John Young saca de su traje un sándwich de carne en conserva (corned beef) que había introducido de contrabando. Grissom toma un bocado. Las migas flotan en la cabina, generando preocupación por posibles daños a los instrumentos. El incidente provocaría una investigación del Congreso y normas más estrictas sobre objetos personales en vuelos.
-- **17:17 UTC:** Tras completar tres órbitas, la tripulación recibe la orden de reentrada. El sistema de retrocohetes se activa durante 2 minutos, desacelerando la nave.
-- **17:30 UTC:** La nave ingresa en la atmósfera terrestre. El escudo térmico soporta temperaturas de hasta 2.200 °C. Se despliega el paracaídas de freno a 12.800 m y el paracaídas principal a 3.000 m.
-- **19:17 UTC:** Gemini 3 ameriza en el Océano Atlántico, a 84 km del punto previsto. Un error de cálculo de reentrada provoca un desvío significativo, pero la nave y la tripulación son recuperadas por el portaaviones USS Intrepid en 1 hora y 22 minutos.
-- **Post-misión:** La cápsula es inspeccionada; el diseño del escudo térmico y los sistemas de reentrada se consideran validados. El incidente del sándwich es investigado por el Congreso y la NASA prohíbe formalmente introducir objetos no autorizados en vuelos espaciales.
+- **18 de marzo de 1965:** Alexéi Leónov completa la primera salida extravehicular de la historia en la Vosjod 2, elevando la expectación mundial ante la inminente respuesta estadounidense.
+- **23 de marzo de 1965, 14:24:00 UTC:** el lanzador **Titan II** despega desde el Complejo 19 de Cabo Kennedy y sitúa a Grissom y Young en una órbita elíptica inicial de `161,2 × 224,2 km`.
+- **15:57 UTC (final de la 1.ª órbita):** sobre el estado de Texas, Grissom acciona durante **75 segundos** los propulsores del sistema **OAMS**, reduciendo la velocidad en `15,5 m/s` y transformando la trayectoria en una órbita casi circular de `158 × 169 km` (primera maniobra de cambio orbital ejecutada por un vehículo tripulado).
+- **Segunda órbita:** mientras supervisan los experimentos biológicos y de reentrada, John Young entrega a Grissom un **sándwich de carne en conserva (*corned beef*)** guardado en el bolsillo de su traje; tras un par de bocados, lo guardan de inmediato para evitar que las migas de pan de centeno floten hacia los paneles eléctricos. Poco después ejecutan un encendido lateral que desplaza el plano orbital en `0,02°`.
+- **Tercera órbita y frenado:** a las 18:51 UTC reducen con el OAMS el perigeo a solo **72 kilómetros** —cota que garantizaba el retorno natural a la atmósfera aun en caso de fallo de los retrocohetes principales— y accionan la secuencia de retrofrenado sobre el Pacífico.
+- **19:16:31 UTC:** tras una reentrada en la que la sustentación de la cápsula resultó menor a la estimada en túnel de viento y una brusca sacudida al desplegarse el paracaídas principal que quebró el visor del casco de Grissom contra el tablero, la *Molly Brown* ameriza en el Atlántico a `84 km` del punto previsto y sus tripulantes son izados a bordo del portaaviones **USS *Intrepid***.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Consecuencias e Impacto
 
-- **Validación de Gemini:** La misión demostró la viabilidad de la nave para vuelos de larga duración, maniobras orbitales y reentrada controlada, abriendo el camino para las misiones posteriores (Gemini 4 a 12) que probarían caminatas espaciales, acoplamiento y vuelos de 14 días.
-- **Lecciones de control de calidad:** El desvío en el amerizaje y el incidente del sándwich llevaron a mejoras en los procedimientos de navegación y en la disciplina de la tripulación.
-- **Carrera espacial:** Aunque la caminata espacial de Leonov había opacado el vuelo de Gemini 3 ante la opinión pública, la NASA estaba en el camino correcto para alcanzar la Luna, con tecnologías probadas que los soviéticos aún no dominaban (maniobras orbitales).
-- **Legado de la tripulación:** Grissom (que también había volado en Mercury) comandaría después Gemini 6 y el primer vuelo del Apolo (Apolo 1, donde pereció en el incendio de 1967). Young se convertiría en uno de los astronautas más veteranos, volando en Gemini 10, Apolo 10, Apolo 16 (caminó en la Luna) y el primer vuelo del transbordador espacial.
+- **Nacimiento del pilotaje orbital activo:** la jornada del **23 de marzo de 1965** puso fin a la etapa en que los cosmonautas y astronautas viajaban como pasajeros en órbitas balísticas fijas, demostrando la capacidad de cambiar de altura y de plano a voluntad.
+- **Despliegue de la serie GT-4 a GT-12:** la validación del cohete Titan II, del ordenador IBM y del módulo OAMS permitió encadenar nueve expediciones tripuladas adicionales en apenas veinte meses (junio de 1965 a noviembre de 1966), en las que la NASA conquistó el encuentro y el acoplamiento en órbita.
+- **Trayectoria de los protagonistas:** Grissom fue designado posteriormente comandante del *Apolo 1* (donde perdió la vida en el incendio de pruebas en plataforma el 27 de enero de 1967), mientras que Young completó seis salidas al espacio, caminó sobre la Luna en el *Apolo 16* (1972) y comandó el estreno del transbordador *Columbia* (`STS-1`, 1981).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 
-La misión Gemini 3 es recordada por varios hitos:
+Recordada tanto por inaugurar los vehículos multipuesto norteamericanos como por el célebre episodio del sándwich de carne en conserva, la misión del **23 de marzo de 1965** consolidó el papel del Centro de Naves Espaciales Tripuladas de Houston y de la red mundial de estaciones de seguimiento (*Manned Space Flight Network*). Los experimentos ejecutados a bordo por Grissom y Young —entre ellos la inyección de agua en la capa de plasma ionizado durante el descenso para restablecer las comunicaciones por radio en la fase de bloqueo térmico y el ensayo de radiación sobre cultivos celulares en microgravedad— abrieron nuevas líneas de investigación aplicada.
 
-- **Primera tripulación de dos personas de EE.UU.:** Abrió la era de las misiones con capacidad de interacción y trabajo en equipo en órbita.
-- **Primeras maniobras orbitales tripuladas de EE.UU.:** Demostraron que un astronauta podía cambiar la órbita de su nave, una capacidad esencial para el acoplamiento y los vuelos lunares.
-- **La insumergible "Molly Brown":** El apodo de la nave, aunque inicialmente controvertido, se convirtió en un símbolo del espíritu práctico y el humor de los primeros astronautas.
-- **Exhibición:** La cápsula Gemini 3 se exhibe en el National Air and Space Museum del Smithsonian Institution en Washington D.C., junto a otras naves históricas.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre el incidente del sándwich:</strong> El sándwich de carne en conserva (corned beef) introducido por John Young en la cabina de Gemini 3 causó un incidente menor que, sin embargo, tuvo consecuencias significativas. Las migas flotantes en gravedad cero podrían haber obstruido instrumentos o afectar sistemas eléctricos. La NASA y el Congreso investigaron el hecho, y a partir de entonces se implementaron normas estrictas sobre qué objetos podían llevar los astronautas en vuelos espaciales. Grissom y Young, sin embargo, no recibieron sanciones disciplinarias formales; el episodio fue tratado con humor en las entrevistas posteriores y se ha convertido en una anécdota icónica de los primeros años de la NASA.</p>
-</div>
+Tras servir en pruebas térmicas adicionales después de su recuperación en el Atlántico, la cápsula **SC-3 (*Molly Brown*)** fue transferida al Instituto Smithsoniano y se conserva hoy expuesta al público en el memorial dedicado a **Gus Grissom** en el **Spring Mill State Park** de Mitchell (Indiana), como testimonio material del primer vehículo espacial de la historia capaz de modificar su órbita bajo el control directo de sus pilotos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Referencias Verificadas
+
 <div class="references">
   <ul>
     <li><a href="https://es.wikipedia.org/wiki/Gemini_3" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – Gemini 3</a></li>
     <li><a href="https://en.wikipedia.org/wiki/Gemini_3" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – Gemini 3</a></li>
-    <li><a href="https://www.nasa.gov/mission/gemini-iii/" style="color: #315fea; text-decoration: none;">NASA – Gemini III (página oficial misión)</a></li>
-    <li><a href="https://www.nasa.gov/history/60-years-ago-gemini-iii-americas-first-two-person-flight/" style="color: #315fea; text-decoration: none;">NASA – 60 años: Gemini III primer vuelo tripulado</a></li>
-    <li><a href="https://www.nasa.gov/image-article/march-23-1965-launch-of-first-crewed-gemini-flight/" style="color: #315fea; text-decoration: none;">NASA – Lanzamiento 23 marzo 1965 Gemini 3</a></li>
-    <li><a href="https://www.nasa.gov/gallery/gemini-iii/" style="color: #315fea; text-decoration: none;">NASA – Galería Gemini III</a></li>
-    <li><a href="https://laopinion.com/2022/03/23/nasa-gemini-3-la-primera-nave-con-2-astronautas/" style="color: #315fea; text-decoration: none;">La Opinión – NASA Gemini 3 primera nave 2 astronautas</a></li>
+    <li><a href="https://www.nasa.gov/mission/gemini-iii/" style="color: #315fea; text-decoration: none;">NASA – Gemini III (página oficial)</a></li>
+    <li><a href="https://www.nasa.gov/history/60-years-ago-gemini-iii-americas-first-two-person-flight/" style="color: #315fea; text-decoration: none;">NASA – 60 Years Ago: Gemini III, America's First Two-Person Flight</a></li>
+    <li><a href="https://www.nasa.gov/image-article/march-23-1965-launch-of-first-crewed-gemini-flight/" style="color: #315fea; text-decoration: none;">NASA – March 23, 1965: Launch of First Crewed Gemini Flight</a></li>
     <li><a href="https://www.spaceline.org/united-states-manned-space-flight/gemini-mission-program-index/gemini-3-fact-sheet/" style="color: #315fea; text-decoration: none;">Spaceline – Gemini 3 Fact Sheet</a></li>
-    <li><a href="https://eduardogarciallama.lanasa.net/historias-de-viajeros/2015/04/10/gemini-3-la-insumergible-molly-brown/index.html" style="color: #315fea; text-decoration: none;">Eduardo García Llama – Gemini 3 la insumergible Molly Brown</a></li>
-    <li><a href="https://www.si.edu/object/capsule-gemini-3:nasm_A19710063000" style="color: #315fea; text-decoration: none;">Smithsonian – Cápsula Gemini 3</a></li>
-    <li><a href="https://www.clarin.com/estados-unidos/gemini-iii-primer-vuelo-nasa-personas_0_pCHMu8SlEN.html" style="color: #315fea; text-decoration: none;">Clarín – Gemini III, el primer vuelo de la NASA de dos personas</a></li>
-    <li><a href="https://www.nasa.gov/wp-content/uploads/2026/01/gt03-pao.pdf?emrc=8fee68" style="color: #315fea; text-decoration: none;">NASA – Transcripción no oficial de la misión Gemini-Titan 3 (23 mar 1965)</a></li>
+    <li><a href="https://www.si.edu/object/capsule-gemini-3:nasm_A19710063000" style="color: #315fea; text-decoration: none;">Smithsonian NASM – Capsule, Gemini 3</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
+<div class="note-box">
+<p><strong>Nota aclaratoria sobre el incidente del sándwich:</strong> El bocadillo de carne en conserva (<em>corned beef</em>) adquirido en Cocoa Beach por Wally Schirra y llevado en el bolsillo del traje por John Young suscitó una interpelación en el Comité de Asignaciones de la Cámara de Representantes de los Estados Unidos, cuyos legisladores cuestionaron el riesgo de las migas en microgravedad y el posible descuido de las pruebas de alimentos liofilizados oficiales. El administrador de la NASA, James E. Webb, implantó a raíz de ello un control estricto de los objetos personales embarcados en cabina.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
-- **Fuentes primarias/institucionales consultadas:** NASA (página oficial, galerías, transcripciones), Wikipedia (ES/EN), Smithsonian, Spaceline, medios generales  
-- **Discrepancias resueltas:** Se aclaró en nota específica el incidente del sándwich y sus consecuencias reglamentarias, sin controversias mayores en los datos técnicos.  
-- **Nivel de confianza:** Alto  
+
+- **Timestamp de verificación:** 2026-10-07 15:20:00 CST
+- **Fuentes primarias/institucionales consultadas:** NASA (`NASA SP-4203`, `MSC-G-R-65-2`), Smithsonian NASM (`A19710063000`), Spaceline y Wikipedia (EN/ES).
+- **Discrepancias resueltas:** Se precisaron los parámetros exactos de las tres maniobras orbitales con el sistema OAMS y se ubicó la nota aclaratoria en su posición normativa posterior a las referencias.
+- **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

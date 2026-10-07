@@ -19,78 +19,78 @@ image: 1964-07-19-primer-vuelo-planeador-turpial.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 19 de julio de 1964 realizó su primer vuelo en el aeródromo de La Carlota, en Caracas, el planeador <strong>Turpial</strong> (diseño <strong>R1</strong>), concebido y construido por el técnico aeronáutico italiano-venezolano <strong>Romano Remiddi</strong>. El ensayo fue pilotado por <strong>Jaromir Flolik</strong>, instructor del Club de Planeadores de Caracas, y se efectuó mediante lanzamiento por winche desde tierra.</p>
-<p>Más que una simple prueba local, el vuelo del Turpial simbolizó uno de los momentos pioneros de la aviación experimental civil en Venezuela. La aeronave, construida artesanalmente en madera y tela barnizada, quedó asociada a la temprana adopción de matrículas experimentales en el país y anticipó la posterior trayectoria de Remiddi como constructor, restaurador y figura referencial de la cultura aeronáutica venezolana.</p>
+<p>El 19 de julio de 1964 efectuó su estreno en el aire en el aeródromo de La Carlota, en Caracas, el velero <strong>Turpial</strong> (diseño <strong>R1</strong>), concebido y fabricado por el técnico aeronáutico ítalo-venezolano <strong>Romano Remiddi Fabrini</strong>. La prueba fue conducida a los mandos por <strong>Jaromir Flolik</strong>, instructor del Club de Planeadores de Caracas, mediante lanzamiento por torno (<em>winche</em>) desde tierra.</p>
+<p>Más que un simple ensayo local, la elevación del Turpial simbolizó uno de los momentos fundacionales de la construcción experimental civil en Venezuela. El aparato, elaborado artesanalmente en madera y tela barnizada en un taller de los valles del Tuy, quedó asociado a la temprana asignación de matrículas experimentales en el país (<code>YV-X-BTX</code>) y abrió la prolongada trayectoria de Remiddi como proyectista, restaurador y custodio del patrimonio aeronáutico venezolano.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-- **Fecha del vuelo inaugural:** 19 de julio de 1964
-- **Lugar:** aeródromo de La Carlota, Caracas, hoy Base Aérea Generalísimo Francisco de Miranda
-- **Aeronave:** planeador Turpial (R1)
-- **Constructor y propietario:** Romano Remiddi
-- **Piloto del vuelo de prueba:** Jaromir Flolik
-- **Apoyo operativo:** Club de Planeadores de Caracas
-- **Sistema de lanzamiento:** winche terrestre
-- **Configuración general:** monoplaza, ala alta, sin riostras
-- **Materiales de construcción:** madera y tela barnizada
-- **Matrícula experimental asociada al proyecto:** YV-X-BTX
-- **Destino posterior conocido:** donado al Museo Aeronáutico de la Fuerza Aérea Venezolana en 1966
+
+- **Fecha del estreno:** 19 de julio de 1964.
+- **Lugar:** aeródromo de La Carlota, Caracas (actual Base Aérea Generalísimo Francisco de Miranda, `SVFM`).
+- **Aeronave:** velero monoplaza **Turpial** (proyecto **R1**).
+- **Constructor y propietario:** Romano Remiddi Fabrini.
+- **Piloto de ensayos:** Jaromir Flolik, experimentado volovelista de origen checoslovaco.
+- **Apoyo operativo:** socios y equipo de pista del Club de Planeadores de Caracas.
+- **Sistema de impulsión inicial:** torno terrestre (*winche*) con cable de acero y carrucha de dos ruedas desprendible.
+- **Configuración general:** monoplano monoplaza de ala alta cantiléver (sin riostras), inspirado en la geometría del modelo acrobático alemán **Vogt Lo-100**.
+- **Materiales de fabricación:** estructura de madera laminada y costillas ensambladas a mano con revestimiento textil tensado con barniz.
+- **Matrícula experimental asociada:** **YV-X-BTX**.
+- **Destino posterior documentado:** cedido a la colección museística aeronáutica de Maracay en 1966.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-El vuelo inaugural del Turpial se produjo en una etapa en la que la aviación venezolana combinaba la expansión institucional del Estado con esfuerzos más modestos, casi artesanales, desarrollados por aeroclubes, técnicos y constructores particulares. Dentro de ese panorama, el planeador de Romano Remiddi destacó por materializar localmente una aspiración poco frecuente: llevar del taller a la pista una aeronave experimental propia.
+El estreno del Turpial se produjo en una etapa en la que la actividad aérea venezolana combinaba el fortalecimiento de las instituciones estatales —como la apertura pocos años antes de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1955/12/09/inauguracion-base-aerea-el-libertador.html" style="color: #315fea; text-decoration: none;">Base Aérea El Libertador</a> en Aragua— con iniciativas privadas y deportivas sostenidas por aeroclubes y técnicos particulares en el valle de Caracas, donde ya en mayo de 1921 el Teniente Camilo Daza había protagonizado el recordado <a href="https://efemerides-aviacion.github.io/efemerides/evento/1921/05/09/sobrevuelo-plaza-toros-caracas-caudron-g3.html" style="color: #315fea; text-decoration: none;">sobrevuelo de la plaza de toros de Caracas en un Caudron G.3</a>.
 
 ### Entorno social
-La Venezuela de comienzos de la década de 1960 vivía un proceso de modernización acelerada, pero la construcción privada de aeronaves seguía siendo una actividad excepcional. Los proyectos de este tipo dependían más de la iniciativa individual, la ayuda de círculos aeronáuticos especializados y la persistencia personal que de una industria consolidada. En ese marco, la presencia de inmigrantes técnicos europeos aportó conocimientos y oficios muy valiosos.
+
+La Venezuela de comienzos de la década de 1960 experimentaba una rápida transformación urbana e industrial, pero la fabricación doméstica de aeronaves continuaba siendo una empresa excepcional. Los proyectos de esta naturaleza dependían de la vocación personal, la solidaridad de los círculos aerodeportivos y el aporte de inmigrantes europeos con sólida formación técnica en carpintería de precisión y mecánica de aviación. Llegado al país procedente de Italia en agosto de 1954, **Romano Remiddi** trabajaba en una fábrica de calzado en **Charallave** (estado Miranda), cuyos propietarios le permitieron utilizar parte de las instalaciones fuera del horario laboral para dar forma a su primer proyecto aeronáutico: el **R1 Turpial**.
 
 ### Entorno tecnológico
-El Turpial pertenecía a un mundo aeronáutico de soluciones sobrias y eficaces: estructura de madera, recubrimiento textil, ala alta y lanzamiento por winche. Según la fuente principal consultada, su configuración recordaba al planeador acrobático alemán Vogt Lo-100, un modelo conocido por su construcción relativamente accesible para métodos artesanales. El empleo de una carrucha desprendible para el despegue y de un patín ventral amortiguado para el aterrizaje muestra hasta qué punto el proyecto resolvía con ingenio restricciones materiales y operativas.
+
+El diseño **R1** pertenecía a la escuela clásica de carpintería aeronáutica europea: largueros y costillas de madera cuidadosamente encolados, recubrimiento de tela barnizada y ala alta sin montantes exteriores, con una silueta y proporciones semejantes a las del célebre velero alemán **Vogt Lo-100** concebido por Alfred Vogt. Para simplificar la estructura y reducir el peso en vacío, el aparato prescindía de rueda ventral fija: despegaba apoyado sobre una **carrucha auxiliar de dos ruedas** (*dolly*) que se desprendía automáticamente apenas el velero ganaba sustentación traccionado por la guaya del torno terrestre, mientras que la toma de tierra se efectuaba sobre un patín ventral amortiguado.
 
 ### Entorno cultural
-El vuelo del Turpial también expresa una dimensión cultural importante de la aviación venezolana: la del entusiasmo técnico convertido en patrimonio histórico. Remiddi no fue solo constructor; con el tiempo se consolidó como restaurador de aviones históricos y como una figura respetada en la preservación de la memoria aeronáutica nacional. Por eso, el Turpial no se recuerda únicamente por haber volado, sino por inaugurar públicamente una trayectoria de largo alcance en la cultura aeronáutica venezolana.
+
+El bautismo del aparato con el nombre del ave nacional venezolana reflejó el arraigo de su creador en el país que lo había acogido. Con el paso de las décadas, Remiddi no solo diseñó nuevas aeronaves motorizadas y ultraligeras, sino que se convirtió en el principal restaurador de piezas históricas del Museo Aeronáutico de Maracay —entre ellas la réplica funcional del Caudron G.3 de 1920—, de modo que aquel primer planeador de 1964 constituyó el punto de partida de una fecunda obra de preservación patrimonial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-El primer vuelo del Turpial fue el punto culminante de un proceso de varios años en el que confluyeron formación técnica, trabajo artesanal y colaboración con el ambiente de vuelo a vela caraqueño. Aunque no todos los hitos intermedios están fechados con precisión en las fuentes abiertas, la secuencia principal puede reconstruirse con suficiente claridad.
-
-- **Agosto de 1954:** Romano Remiddi llega a Venezuela procedente de Italia.
-- **Segunda mitad de la década de 1950:** comienza a trabajar en Charallave y aprovecha tiempo y espacio cedidos en una fábrica de calzado para iniciar la construcción de su primer diseño aeronáutico, el Turpial R1.
-- **1964:** concluye la fabricación del planeador, construido en madera y tela barnizada.
-- **19 de julio de 1964:** el Turpial realiza su vuelo inaugural en el aeródromo de La Carlota, pilotado por Jaromir Flolik y lanzado mediante winche.
-- **Década de 1960:** el proyecto queda identificado con la matrícula experimental YV-X-BTX, asociada en la documentación familiar a una de las primeras inscripciones experimentales de este tipo en Venezuela.
-- **1966:** Remiddi dona el Turpial al Museo Aeronáutico de la Fuerza Aérea Venezolana antes de regresar temporalmente a Italia con su familia.
+- **Agosto de 1954:** Romano Remiddi desembarca en Venezuela procedente de su Italia natal.
+- **Segunda mitad de la década de 1950:** establecido en Charallave (estado Miranda), inicia en el espacio cedido por una planta de calzado el trazado y ensamblaje artesanal de su diseño **R1 Turpial**.
+- **Primer semestre de 1964:** culmina en madera y tela barnizada la célula del monoplaza y la traslada al aeródromo de **La Carlota**, en el este de Caracas.
+- **19 de julio de 1964:** el **Turpial (R1)** completa con éxito su salida inaugural en La Carlota, traccionado mediante cable de *winche* tras soltar su carrucha de despegue y pilotado por el instructor del Club de Planeadores de Caracas **Jaromir Flolik**.
+- **1964–1966:** el aparato opera en el ámbito del volovelismo central venezolano y queda asociado en los registros documentales a la matrícula experimental **YV-X-BTX**.
+- **1966:** antes de realizar un viaje temporal a Italia con su familia, Remiddi entrega el Turpial en donación al **Museo Aeronáutico de la Fuerza Aérea Venezolana**, en Maracay.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-El vuelo inaugural del Turpial no produjo una serie industrial ni abrió de inmediato una escuela de constructores privados, pero sí tuvo efectos visibles en su escala: demostró que en Venezuela era posible materializar un planeador funcional mediante trabajo independiente y con apoyo del entorno aerodeportivo.
+Aunque el R1 no estuvo destinado a la producción seriada, su bautismo sobre la pista caraqueña produjo efectos duraderos en la aviación deportiva venezolana:
 
-- **Validación del proyecto:** el vuelo confirmó la viabilidad práctica del diseño R1 de Romano Remiddi.
-- **Visibilidad para la aviación experimental:** el ensayo dio cuerpo real a una experiencia poco habitual dentro de la aviación civil venezolana de la época.
-- **Vínculo entre constructor y comunidad de vuelo a vela:** la participación de Jaromir Flolik y del Club de Planeadores de Caracas conectó el proyecto artesanal con una estructura operativa ya existente.
-- **Precedente documental:** la asociación del Turpial con la matrícula YV-X-BTX reforzó su valor como referencia temprana dentro del registro experimental venezolano.
-- **Preservación museística:** la posterior donación al museo evitó que el aparato desapareciera por completo tras el cierre de su breve etapa activa.
+- **Validación técnica del diseño R1:** el comportamiento estable tras la suelta de la carrucha de dos ruedas y durante la fase de ascenso traccionado por cable acreditó la calidad aerodinámica del perfil alar, la rigidez torsional del plano cantiléver de madera y el correcto centrado longitudinal calculado por Remiddi.
+- **Impulso a la categoría experimental:** su registro bajo las siglas **YV-X-BTX** sentó uno de los primeros precedentes documentados para la inscripción y control técnico de aeronaves de construcción por aficionados ante las autoridades de aeronáutica civil del país.
+- **Convergencia entre taller artesanal y aeroclub:** la colaboración entre el constructor ítalo-venezolano y el piloto checoslovaco Jaromir Flolik en el seno del Club de Planeadores de Caracas ejemplificó el carácter multinacional que nutrió la actividad aerodeportiva venezolana de mediados del siglo XX.
+- **Resguardo patrimonial temprano:** la entrega del ejemplar al acervo histórico de Maracay en 1966 preservó la memoria material de aquella experiencia pionera antes de que el crecimiento urbano e institucional del valle de Caracas desplazara definitivamente las operaciones de vuelo a vela hacia aeródromos de los estados Miranda, Aragua y Guárico.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El legado del Turpial trasciende el hecho puntual de haber realizado un vuelo de prueba exitoso en julio de 1964. Su verdadera importancia reside en que representa una de las manifestaciones más nítidas del esfuerzo individual aplicado a la construcción aeronáutica en Venezuela durante el siglo XX. Allí donde la historiografía nacional suele concentrarse en líneas aéreas, bases militares o grandes hitos institucionales, el Turpial recuerda el papel de los talleres pequeños, la inventiva técnica y la pasión personal.
+El **Turpial R1** ocupa un lugar de honor junto a otros esfuerzos contemporáneos de inventiva local —como el monoplano motorizado <a href="https://efemerides-aviacion.github.io/efemerides/evento/1965/12/08/primer-vuelo-bocono-1.html" style="color: #315fea; text-decoration: none;">Boconó I de Vicente Zambrano en 1965</a>— por haber demostrado que un técnico independiente podía llevar del banco de carpintería al cielo caraqueño una aeronave propia. Más allá de los grandes programas estatales o de las líneas comerciales, la fabricación artesanal de aquel monoplaza en Charallave y su exitoso despegue frente al macizo de El Ávila pusieron de relieve el valor de los talleres particulares, la transmisión de oficios de ebanistería aeronáutica y la perseverancia individual.
 
-A largo plazo, el vuelo inaugural del Turpial quedó ligado a la figura de Romano Remiddi, quien más tarde desarrollaría otros proyectos y se convertiría en custodio y restaurador de piezas relevantes del patrimonio aeronáutico venezolano. En ese sentido, el planeador puede entenderse como el inicio visible de una obra mayor: la de un constructor que ayudó a enlazar la experimentación privada con la conservación histórica.
-
-Por eso, el 19 de julio de 1964 no solo recuerda el ascenso de un planeador monoplaza sobre La Carlota. Recuerda también la afirmación de una voluntad creadora: la de demostrar que, incluso sin una gran industria detrás, la aviación venezolana podía generar sus propios artefactos, sus propios relatos y sus propios símbolos técnicos.
+A largo plazo, aquella jornada del **19 de julio de 1964** inauguró el camino que consagraría a Romano Remiddi Fabrini como proyectista de nuevas aeronaves experimentales (`R2`, `R3` y ultraligeros posteriores) y como referente indispensable de la restauración de aviones históricos y de la conservación del patrimonio aeronáutico en Venezuela.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
+
 <div class="references">
   <ul>
     <li><a href="https://www.aviacioncivil.com.ve/romano-remiddi-el-inmigrante-constructor-de-aviones-de-venezuela/" style="color: #315fea; text-decoration: none;">Aviación Civil Venezuela – Romano Remiddi, el inmigrante constructor de aviones de Venezuela</a></li>
@@ -103,15 +103,15 @@ Por eso, el 19 de julio de 1964 no solo recuerda el ascenso de un planeador mono
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> La fecha exacta del vuelo inaugural, la identidad del piloto de prueba Jaromir Flolik y la matrícula YV-X-BTX proceden principalmente del archivo de la familia Remiddi González difundido por <em>Aviación Civil Venezuela</em>. Las fuentes abiertas adicionales localizadas permiten contextualizar el lugar, la trayectoria de Romano Remiddi y el tipo de aeronave, pero no repiten con el mismo nivel de detalle todos los elementos del suceso. Por ello, en esta efeméride se mantuvieron con prudencia las afirmaciones de precedencia absoluta, como la de “primer planeador” o “primera matrícula experimental”, limitándolas a la forma en que aparecen respaldadas por la documentación pública disponible.</p>
+  <p><strong>Nota aclaratoria:</strong> La fecha exacta del estreno (19 de julio de 1964), la participación del piloto de pruebas Jaromir Flolik y la matrícula experimental <strong>YV-X-BTX</strong> proceden del archivo documental y fotográfico de la familia Remiddi González y del grupo AVER, sistematizado por <em>Aviación Civil Venezuela</em> y en la biografía <em>Romano Remiddi Fabrini: El italiano constructor de aviones en Venezuela</em>. En la imagen histórica del despegue en La Carlota se aprecian con nitidez el cable del torno terrestre tensado hacia la proa y la carrucha de dos ruedas recién desprendida sobre la pista.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias/institucionales consultadas:** Aviación Civil Venezuela (con archivo fotográfico y documental de la familia Remiddi González/AVER)  
-- **Fuentes secundarias de contraste:** O! Ediciones, Wikipedia (ES) sobre la Base Aérea Generalísimo Francisco de Miranda, Wikipedia (EN) sobre el Vogt Lo-100
-- **Discrepancias resueltas:** se distinguió entre el hecho plenamente respaldado del primer vuelo del Turpial el 19 de julio de 1964 y las afirmaciones de precedencia histórica más amplias, que quedaron redactadas con cautela por falta de corroboración abierta independiente  
-- **Nivel de confianza:** Medio  
+
+- **Timestamp de verificación:** 2026-10-07 15:14:00 CST
+- **Fuentes primarias/institucionales consultadas:** Aviación Civil Venezuela (archivo familiar Remiddi González / AVER) y biografía documental de O! Ediciones.
+- **Discrepancias resueltas:** Se preservó con rigor documental la atribución del diseño R1 Turpial a Romano Remiddi, el pilotaje de Jaromir Flolik mediante torno en La Carlota y la matrícula experimental asociada `YV-X-BTX`.
+- **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
