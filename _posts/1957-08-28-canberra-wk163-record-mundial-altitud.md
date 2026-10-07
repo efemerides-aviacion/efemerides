@@ -19,9 +19,10 @@ image: 1957-08-28-canberra-wk163-record-mundial-altitud.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 28 de agosto de 1957, a las 17:26, despegó del aeropuerto de Luton un English Electric Canberra B.2 con matrícula militar WK163. A los mandos iba Michael Randrup, jefe de pilotos de pruebas de D. Napier and Son, acompañado por Walter Shirley, ingeniero jefe de desarrollo de la firma. El avión no era un bombardero ordinario: en su bodega llevaba un motor cohete Napier Double Scorpion, alimentado con peróxido de hidrógeno y queroseno.</p>
+<p>El 28 de agosto de 1957, a las 17:26, despegó del aeropuerto de Luton un English Electric Canberra B.2 con matrícula militar <strong>WK163</strong>. A los mandos iba Michael Randrup, jefe de pilotos de pruebas de D. Napier and Son, acompañado por Walter Shirley, ingeniero jefe de desarrollo de la firma. El avión no era un bombardero ordinario: en su bodega llevaba un motor cohete Napier Double Scorpion, alimentado con peróxido de hidrógeno y queroseno.</p>
 <p>Randrup llevó el aparato a 13.400 metros solo con sus dos turborreactores Rolls-Royce Avon, redujo gases y encendió el cohete. Tres minutos después había ganado casi 8.000 metros más. El Canberra culminó en <strong>21.430 metros</strong>, marca homologada por la Federación Aeronáutica Internacional como récord mundial de altitud. El aparato aterrizó en Luton a las 18:12, cuarenta y seis minutos después de despegar.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
@@ -32,7 +33,7 @@ image: 1957-08-28-canberra-wk163-record-mundial-altitud.webp
 - **Piloto:** Michael Randrup, jefe de pilotos de pruebas de D. Napier and Son Ltd.
 - **Observador de vuelo:** Walter Shirley, ingeniero jefe de desarrollo de Napier
 - **Altitud homologada:** **21.430 m** (unos 70.310 pies)
-- **Homologación:** FAI, expediente n.º 9843; clase C (aviones con motor), subclase C-1 (terrestres), grupo 3 (turborreactor)
+- **Homologación:** expediente FAI n.º 9843 (clase C-1 de aeronaves terrestres propulsadas por turborreactor)
 - **Planta motriz:** dos turborreactores Rolls-Royce Avon RA.3 Mk. 101 de 2.948 kgf (6.500 lbf) cada uno
 - **Motor auxiliar:** cohete Napier Double Scorpion NSc D1-2, de peróxido de hidrógeno de alta concentración y queroseno
 - **Altitud de encendido del cohete:** unos 13.400 m (44.000 pies)
@@ -43,7 +44,8 @@ image: 1957-08-28-canberra-wk163-record-mundial-altitud.webp
 
 ## Contexto Histórico
 
-El 28 de agosto de 1957, el Canberra B.2 WK163 despegó de Luton con Randrup y Shirley para homologar 21.430 metros ante la FAI: un ensayo del cohete Double Scorpion de Napier —encendido a 13.400 m, donde los Avon ya no respiraban— convertido en récord mundial en plena carrera de altitud de la Guerra Fría, y documentado como trabajo de ingeniería, no como exhibición.
+A finales de agosto de 1957, el programa de ensayos en vuelo que la casa británica D. Napier and Son desarrollaba en el aeródromo de Luton alcanzó su cota culminante cuando el bombardero biturbina Canberra B.2 `WK163`, dotado de un motor cohete auxiliar en la bodega ventral, trepó hasta la estratosfera sobre el canal de la Mancha para batir por más de mil trescientos metros la marca mundial de altitud vigente desde 1955.
+
 ### Entorno tecnológico
 
 El problema que resolvía el Double Scorpion era de física elemental: un turborreactor necesita aire, y a partir de cierta altura no queda suficiente para quemar combustible con provecho. El Canberra, con su ala ancha y poco cargada, ya volaba más alto que casi cualquier otro aparato de su tiempo —por encima de los 14.000 metros—, pero ahí se detenía. Un cohete, que lleva su propio oxidante, no depende del aire exterior. Napier lo concibió como un acelerador de emergencia para interceptores: un empujón para alcanzar deprisa a un bombardero que volara muy alto.
@@ -73,15 +75,7 @@ Napier insistió en un matiz que hoy resulta revelador: el vuelo **no fue una ex
 - **7 de mayo de 1958:** el Mayor Howard C. Johnson arrebata la marca al Canberra con un <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/16/f104-starfighter-aeronave-historica-en-records.html" style="color: #315fea; text-decoration: none;">Lockheed F-104 Starfighter, que alcanza los 27.811 metros</a>.
 - **1959:** cancelado el programa Scorpion. Los turborreactores habían mejorado lo suficiente como para hacer innecesario el cohete auxiliar.
 
-### El «rincón del ataúd»
-
-A 21.000 metros, el aire es tan tenue que un avión subsónico queda atrapado entre dos límites que se acercan hasta casi tocarse. Por debajo de cierta velocidad, el ala deja de sustentar y el aparato entra en pérdida. Por encima de otra, empiezan a formarse ondas de choque supersónicas sobre el ala y el fuselaje. Cuanto más se sube, más se estrecha la franja entre ambas. Los aerodinámicos llaman a esa zona *coffin corner*, el rincón del ataúd.
-
-Los cálculos previos dieron a Randrup un margen de **quince nudos**, unos 28 km/h, entre una cosa y la otra. Napier lo expresó en sus propios términos: en el punto más alto, la velocidad de pérdida y la velocidad máxima segura estaban separadas por unas 20 millas por hora, y cada metro adicional habría estrechado más ese pasillo.
-
-Cuando el altímetro pasó de 70.000 pies, el Canberra **todavía subía** a unos 2.400 metros por minuto. No fue el motor lo que puso el límite, sino el comportamiento del avión: Randrup niveló, apagó el cohete e inició el descenso.
-
-La cabina estaba presurizada, pero ambos tripulantes volaron con equipo de protección diseñado con el Instituto de Medicina Aeronáutica de la RAF en Farnborough: casco parcialmente presurizado y un chaleco inflable que se activaba solo si fallaba la presurización.
+En torno a los 21.000 metros, la baja densidad atmosférica colocó al Canberra en el llamado «rincón del ataúd» (*coffin corner*), donde la velocidad de entrada en pérdida y el límite de compresibilidad supersónica del ala recta estaban separados por un margen de apenas **quince nudos** (unos 28 km/h). Aunque al rebasar los 70.000 pies el avión seguía ascendiendo a razón de 2.400 metros por minuto, fue ese estrechísimo pasillo aerodinámico —y no el agotamiento del propulsor— lo que llevó a Randrup a nivelar, cortar el cohete e iniciar el descenso, protegidos ambos tripulantes por cascos parcialmente presurizados y chalecos inflables diseñados con el Instituto de Medicina Aeronáutica de la RAF en Farnborough.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -101,11 +95,12 @@ El WK163 sobrevivió a todos los aparatos con los que compitió. Tras el récord
 
 Es, con toda probabilidad, el único avión conservado que ostentó un récord mundial de altitud y todavía lleva escrita en el fuselaje la cifra que lo consiguió. Hoy está al cuidado del Vulcan To The Sky Trust.
 
-La familia Canberra, en conjunto, acumuló veintidós récords mundiales de altura, velocidad punto a punto y distancia. Y su descendencia sigue en el aire: la versión estadounidense construida bajo licencia por Martin, el B-57, continúa volando con la NASA como plataforma de investigación a gran altitud, más de setenta años después del primer vuelo del prototipo británico.
+La familia Canberra, en conjunto, acumuló veintidós récords mundiales de altura, velocidad punto a punto y distancia. Y su descendencia sigue en el aire: la versión estadounidense construida bajo licencia por Martin, el B-57, continúa volando con la NASA como plataforma de investigación a gran altitud, más de siete décadas después del estreno del Canberra original.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
+
 <div class="references">
   <ul>
     <li><a href="https://www.fai.org/record/9843" style="color: #315fea; text-decoration: none;">Fédération Aéronautique Internationale — Record File n.º 9843, Michael Randrup (GBR), altitud 21.430 m, 28 de agosto de 1957</a></li>
@@ -129,9 +124,10 @@ La familia Canberra, en conjunto, acumuló veintidós récords mundiales de altu
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-23 06:14:49 CST
-- **Fuentes primarias/institucionales consultadas:** Fédération Aéronautique Internationale (expediente de récord n.º 9843, con clase, subclase, grupo, tripulación y motorización); Napier Power Heritage Trust (archivo del fabricante del motor, con fotografías fechadas del programa y el diploma del récord); Vulcan To The Sky Trust (institución depositaria del aparato).
-- **Fuentes secundarias de contraste:** This Day in Aviation (horas de despegue y aterrizaje, motorización detallada, biografías de Randrup y Shirley), Wikipedia (EN).
-- **Discrepancias resueltas:** La cifra del récord se consigna en el valor homologado por la FAI, 21.430 m, y se documenta en nota la convivencia con las cifras en pies (70.310 y 70.308). Se verificó que la altitud de encendido del cohete se cita como 44.000 pies en las fuentes británicas y como 45.000 en algunas secundarias; se adopta la primera, coincidente entre el archivo de Napier y This Day in Aviation. Se delimitó el alcance de la marca frente al vuelo del Bell X-2 de 1956, de categoría distinta por tratarse de un avión soltado en vuelo.
-- **Nivel de confianza:** Alto. El hecho, la fecha, la cifra, el aparato y la tripulación constan en el registro de la FAI y en el archivo del propio fabricante del motor.
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+
+- **Timestamp de verificación:** 2026-10-07 09:57:00 CST
+- **Fuentes primarias/institucionales consultadas:** Fédération Aéronautique Internationale (expediente `9843`), Napier Power Heritage Trust y Vulcan To The Sky Trust.
+- **Fuentes secundarias de contraste:** This Day in Aviation (`28 August 1957` y `29 August 1955`) y Wikipedia (`Napier Scorpion`).
+- **Discrepancias resueltas:** Se adopta la cifra oficial de la FAI de 21.430 m (con la equivalencia británica de 70.310 pies en nota), la cota de encendido del cohete de 44.000 pies (13.400 m) y la distinción reglamentaria respecto al avión cohete Bell X-2 lanzado desde nodriza.
+- **Nivel de confianza:** Alto
+- **Cláusula final:** «Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]».

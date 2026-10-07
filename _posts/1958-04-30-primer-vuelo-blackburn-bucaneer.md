@@ -16,126 +16,70 @@ image: 1958-04-30-primer-vuelo-blackburn-bucaneer.webp
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 30 de abril de 1958, el Blackburn Buccaneer realizó su primer vuelo desde RAE Bedford, pilotado por Derek Whitehead. Este avanzado avión de ataque naval británico fue diseñado para misiones de penetración a muy baja altitud contra buques enemigos durante la Guerra Fría. Su configuración única, con bodega de armas interna y frenos aerodinámicos en la cola, marcó un hito en la ingeniería aeronáutica de la Royal Navy.</p>
+<p>El 30 de abril de 1958, a las 12:57 horas, el Teniente Comandante <strong>Derek John «Sailor» Whitehead</strong> despegó de la pista del Royal Aircraft Establishment (RAE) en Bedford a los mandos del prototipo <strong>Blackburn B.103 / N.A.39</strong> matrícula <code>XK486</code>, origen del avión de ataque naval <strong>Blackburn Buccaneer</strong>. La salida inaugural duró treinta y nueve minutos y confirmó la docilidad y eficacia de los frenos aerodinámicos de cono de cola de un birreactor concebido específicamente para penetrar por debajo del horizonte de radar de los cruceros soviéticos.</p>
+<p>Dotado de un fuselaje diseñado según la regla del área, sistema de soplado de capa límite (BLC) para apontar en portaaviones británicos de cubierta corta y una bodega ventral rotatoria capaz de lanzar cargas nucleares o convencionales a ras de las olas, el Buccaneer superó la falta de potencia de su primera versión con motores Gyron Junior al incorporar en el modelo <strong>S.2</strong> las turbinas Rolls-Royce Spey, manteniéndose en primera línea en la Royal Navy y la Royal Air Force hasta 1994.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
-- **Fecha del primer vuelo:** 30 de abril de 1958
-- **Lugar:** RAE Bedford (Royal Aircraft Establishment), Bedfordshire, Inglaterra
-- **Prototipo:** Blackburn NA.39, matrícula XK486, número de construcción B3-01-58
-- **Piloto:** Derek Whitehead (Teniente Comandante)
-- **Horario:** 12:57 pm
-- **Duración del vuelo:** Aproximadamente 30 minutos
-- **Motores originales:** 2 × de Havilland Gyron Junior 101 (3.221 kg / 7.100 lb de empuje cada uno)
-- **Longitud:** 19,33 m
-- **Envergadura:** 13,41 m
-- **Peso máximo al despegue:** 28.100 kg
-- **Unidades construidas:** 211 (incluyendo 2 prototipos)
-- **Entrada en servicio:** 17 de julio de 1962 (Royal Navy)
-- **Retiro del servicio:** 31 de marzo de 1994
+- **Fecha y hora del primer vuelo:** miércoles 30 de abril de 1958, a las 12:57 horas (duración aproximada de 30 a 39 minutos).
+- **Lugar:** aeródromo del Royal Aircraft Establishment (RAE) en Bedford (Thurleigh), Bedfordshire, Inglaterra, adonde el avión había sido trasladado por carretera desde la factoría de Brough.
+- **Prototipo:** Blackburn B.103 (`N.A.39`), matrícula militar `XK486` (número de construcción `B3-01-58`), primero de un lote inicial de veinte ejemplares de desarrollo.
+- **Piloto:** Lieutenant Commander Derek John «Sailor» Whitehead (1925–2010), piloto jefe de pruebas de Blackburn Aircraft Limited.
+- **Planta motriz (prototipo y versión S.1):** dos turborreactores de Havilland Gyron Junior DGJ.1 (Mk.101) de 7.100 libras (31,6 kN) de empuje unitario, sustituidos en la versión definitiva **Buccaneer S.2** por dos turbofán Rolls-Royce Spey Mk.101 de 11.100 libras (49,4 kN).
+- **Dimensiones y pesos (serie S.2):** 19,33 m de longitud, 13,41 m de envergadura, 4,97 m de altura y peso máximo al despegue de 28.123 kg (62.000 libras).
+- **Producción y ciclo operativo:** 211 ejemplares construidos (incluidos los veinte N.A.39 de desarrollo); entrada en servicio en el 801 Naval Air Squadron de la Royal Navy el 17 de julio de 1962 y retiro definitivo en la RAF el 31 de marzo de 1994.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-A principios de la década de 1950, la Marina soviética introdujo los cruceros clase Sverdlov, rápidos, fuertemente armados y construidos en gran número. Representaban una grave amenaza para las rutas marítimas de la OTAN en el Atlántico. En lugar de construir una nueva clase de buques de guerra propios, la Royal Navy decidió contrarrestar esta amenaza con un avión de ataque especializado que pudiera operar desde sus portaaviones.
+A comienzos de la década de 1950, la entrada en servicio en la Armada soviética de los rápidos cruceros artillados de la clase *Sverdlov*, respaldados por centenares de submarinos oceánicos, planteó al Almirantazgo británico una amenaza crítica para los convoyes del Atlántico Norte. Sin presupuesto para construir una nueva flota de grandes cruceros de superficie, la Royal Navy optó por neutralizar esos buques mediante un avión de ataque embarcado capaz de lanzar un arma nuclear táctica por debajo de la cobertura de los radares y de la artillería antiaérea naval.
 
 ### Entorno tecnológico
 
-El concepto de ataque a baja altitud era radical en los años 1950. La idea era que el Buccaneer volara a apenas 60 metros sobre el nivel del mar, explotando el horizonte del radar del buque enemigo para minimizar la oportunidad de ser detectado y derribado. Para lograr esto, el avión incorporó tecnologías avanzadas como el área ruling para mejorar la aerodinámica, un sistema de control de la capa límite (BLC) que soplaba aire comprimido sobre los alerones para reducir la velocidad de aterrizaje, y una bodega de bombas rotatoria interna similar a la del English Electric Canberra.
+En junio de 1952, el Ministerio de Abastecimiento emitió la especificación naval **N.A.39** (*Naval Aircraft 39*), que pedía un birreactor biplaza capaz de volar a Mach 0,85 a menos de 60 metros (200 pies) sobre la superficie del mar con un radio de combate de 400 millas náuticas. El equipo de Blackburn en Brough, liderado por el diseñador jefe Barry P. Laight, concibió el proyecto **B.103** reuniendo tres innovaciones fundamentales: un fuselaje entallado según la regla del área de Whitcomb para eliminar el pico de resistencia transónica (cuya silueta abombada y el acrónimo secreto *BANA*, *Blackburn Advanced Naval Aircraft*, inspiraron el apodo de *«Banana Jet»*), una **bodega de bombas rotatoria** en el vientre que giraba 180° en vuelo para exponer la carga sólo durante breves segundos sin la turbulencia de unas compuertas convencionales, y un sistema integral de **control de capa límite (BLC)** que sangraba aire caliente de los motores sobre el borde de ataque alar, los flaps y el estabilizador para reducir la velocidad de apontaje en unos veinticinco nudos.
 
 ### Entorno social
 
-El Reino Unido de la posguerra aún mantenía aspiraciones de ser una potencia global. La Royal Navy, que en su día había sido la más grande del mundo, se enfrentaba a recortes presupuestarios pero seguía comprometida con la defensa de las rutas marítimas del Atlántico Norte. El Buccaneer era un símbolo de la determinación británica de mantener una capacidad de ataque creíble contra la amenaza soviética. Debido a la estricta naturaleza secreta de su desarrollo, el proyecto recibió el nombre en clave "BANA" (Blackburn Advanced Naval Aircraft), que derivó en el apodo "Banana Jet" por la forma curvada de su fuselaje.
+El programa nació bajo un estricto secreto militar en un Reino Unido que reestructuraba sus fuerzas armadas tras el Libro Blanco de Defensa de 1957, documento que un año antes había puesto a prueba al <a href="https://efemerides-aviacion.github.io/efemerides/evento/1957/04/04/primer-vuelo-english-electric-lightning.html" style="color: #315fea; text-decoration: none;">interceptor supersónico English Electric P.1B Lightning</a>. Aunque aquel recorte canceló numerosos proyectos aeronáuticos, el N.A.39 sobrevivió porque ningún misil guiado de la época podía sustituir a un avión tripulado en la localización y destrucción de formaciones navales móviles en alta mar, relevando en las misiones de ataque marítimo a plataformas de primera generación derivadas del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1949/05/13/primer-vuelo-english-electric-canberra.html" style="color: #315fea; text-decoration: none;">bombardero táctico English Electric Canberra</a>.
 
 ### Entorno cultural
 
-Los pilotos de la Royal Navy que volaron el Buccaneer desarrollaron un fuerte vínculo con el avión. Era conocido por su robustez, su capacidad para soportar las tensiones del vuelo constante a baja altitud y las duras condiciones de las operaciones en portaaviones. El Buccaneer era muy apreciado por sus cualidades de vuelo, y el sistema BLC les proporcionaba velocidades de aterrizaje más lentas que las que estaban acostumbrados en otros aviones.
+Dentro de la *Fleet Air Arm* y, años más tarde, de la Royal Air Force, el Buccaneer forjó una reputación legendaria por su solidez estructural: construido como si estuviera «tallado en un bloque macizo de acero» para soportar la turbulencia extrema del vuelo rasante sobre el océano, ofrecía a sus tripulaciones una estabilidad libre de sacudidas a quinientos nudos a ras del agua que pocos cazas supersónicos podían igualar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **Julio de 1955:** Blackburn gana el concurso de la Royal Navy con su proyecto B.103
-- **1956:** Se construyen prototipos y maquetas a gran escala para pruebas en túnel de viento
-- **30 de abril de 1958:** Primer vuelo del prototipo NA.39 XK486 desde RAE Bedford, pilotado por Derek Whitehead
-- **1959:** Primeras pruebas de apontaje en el portaaviones HMS Victorious
-- **17 de julio de 1962:** Entrada en servicio del Buccaneer S.1 con la Royal Navy
-- **1963:** Primer vuelo del Buccaneer S.2 con motores Rolls-Royce Spey
-- **Octubre de 1962:** Sudáfrica ordena 16 Buccaneer S.50
-- **1970:** La RAF comienza a recibir Buccaneers transferidos por la Royal Navy
-- **1991:** Los Buccaneers de la RAF participan en la Guerra del Golfo
-- **31 de marzo de 1994:** Retiro final del Buccaneer del servicio activo
-
-### El primer vuelo del NA.39
-
-El 30 de abril de 1958 fue un día crucial para Blackburn Aircraft y para la aviación naval británica. Después de extensas pruebas en tierra en la fábrica de Brough, el prototipo XK486 fue trasladado a RAE Bedford, que disponía de una pista más larga adecuada para el primer vuelo.
-
-El piloto de pruebas Derek Whitehead, un teniente comandante de la Royal Navy con amplia experiencia, tomó los mandos. A las 12:57 pm, el NA.39 despegó. Durante el vuelo, se probaron los frenos aerodinámicos de cola, que resultaron tan efectivos que el avión de persecución (una Meteor) sobrepasó al Buccaneer cuando estos se desplegaron.
-
-El vuelo, que duró aproximadamente 30 minutos, se consideró un éxito. El avión demostró un buen control y estabilidad, allanando el camino para un extenso programa de pruebas. El prototipo XK486, con su característico morro romo que le valió el apodo "Banana Jet", era el primer paso hacia uno de los aviones de ataque naval más exitosos de la Guerra Fría.
-
-### Diseño e innovaciones técnicas
-
-El Buccaneer incorporó varias características avanzadas que lo hicieron único.
-
-### La bodega de bombas rotatoria
-
-Una de las características más distintivas del Buccaneer era su bodega de bombas rotatoria de cuatro posiciones. Situada en el vientre del avión, consistía en un tambor cilíndrico que giraba sobre su eje para alinear cada bomba o depósito de combustible con la abertura de lanzamiento en el momento preciso de soltarlo. Esto permitía llevar una carga útil de cuatro bombas de 454 kg (1.000 lb) o un depósito de combustible adicional sin aumentar la resistencia aerodinámica.
-
-### El sistema de control de la capa límite (BLC)
-
-Para operar desde los portaaviones de la Royal Navy, que tenían cubiertas de vuelo más cortas que las de sus homólogos estadounidenses, el Buccaneer necesitaba excelentes características de despegue y aterrizaje. El sistema BLC extraía aire comprimido de los motores y lo soplaba sobre los alerones y flaps, generando una sustentación adicional a bajas velocidades y reduciendo significativamente la distancia de aterrizaje.
-
-### La falta de potencia inicial del S.1
-
-A pesar de sus muchas virtudes, el Buccaneer S.1 original estaba subalimentado por sus motores de Havilland Gyron Junior. Esta falta de potencia provocó varios accidentes durante los primeros años de servicio. La Royal Navy respondió rápidamente y ordenó la versión S.2, equipada con los mucho más potentes motores Rolls-Royce Spey.
-
-### El Buccaneer S.2: la evolución definitiva
-
-El Buccaneer S.2, con sus motores Rolls-Royce Spey, supuso un salto cualitativo en el rendimiento. La mayor potencia resolvió los problemas de seguridad del S.1 y mejoró la capacidad de carga útil y el alcance. El S.2 presentaba tomas de aire de mayor tamaño y forma elíptica, y los motores Spey proporcionaban una fiabilidad muy superior.
-
-El S.2 se convirtió en la variante definitiva del Buccaneer, sirviendo tanto en la Royal Navy como, posteriormente, en la Royal Air Force. También fue la base del Buccaneer S.50, una versión de exportación para Sudáfrica. Los S.50 estaban equipados con motores cohete Bristol Siddeley BS.605 para proporcionar un empuje adicional en los aeródromos africanos de "alta temperatura y gran altitud" (hot and high), aunque en la práctica estos cohetes rara vez se utilizaron y finalmente se retiraron.
-
-### Servicio operativo
-
-El Buccaneer entró en servicio con la Royal Navy el 17 de julio de 1962. A lo largo de las décadas de 1960 y 1970, fue el pilar de la capacidad de ataque de la Fleet Air Arm, patrullando el Atlántico Norte y listo para enfrentarse a los buques de guerra soviéticos.
-
-Cuando la Royal Navy retiró sus últimos grandes portaaviones a finales de la década de 1970, los Buccaneers de la Armada fueron transferidos a la Royal Air Force. La RAF, que originalmente había rechazado el Buccaneer en favor del supersónico BAC TSR-2, se encontró necesitando un avión de ataque a baja altitud después de que tanto el TSR-2 como su reemplazo planificado, el F-111K, fueran cancelados.
-
-El Buccaneer demostró su valía en combate durante la Guerra del Golfo de 1991, realizando misiones de ataque de precisión, a menudo designando objetivos para los Tornado. También sirvió en la Fuerza Aérea Sudafricana, donde participó en la Guerra Fronteriza de Sudáfrica en Angola.
+- **Junio de 1952 y julio de 1955:** tras la emisión del requisito N.A.39, el Ministerio de Abastecimiento selecciona en julio de 1955 la propuesta B.103 de Blackburn frente al Armstrong Whitworth AW.168 y encarga veinte aviones de desarrollo.
+- **Marzo y 30 de abril de 1958:** el primer prototipo (`XK486`) es transportado por carretera desde la fábrica de Brough hasta la pista larga de RAE Bedford, de donde despega el 30 de abril a las 12:57 horas con Derek Whitehead a los mandos; durante el vuelo se ensayan los pétalos del freno aerodinámico del cono de cola, tan eficaces que el Gloster Meteor de escolta rebasa de inmediato al prototipo.
+- **19 de enero de 1960 y agosto de 1960:** tras completarse los primeros apontajes de prueba a bordo del portaaviones HMS *Victorious*, el Ministerio adopta oficialmente el nombre de **Buccaneer**.
+- **23 de enero y 17 de julio de 1962:** vuela el primer **Buccaneer S.1** de serie y seis meses después se declara operativo el 801 Naval Air Squadron en RNAS Lossiemouth.
+- **17 de mayo de 1963 y octubre de 1965:** para solventar la falta de empuje de los motores Gyron Junior del S.1 —que impedía despegar con carga máxima sin viento en cubierta—, alza el vuelo el prototipo del **Buccaneer S.2** equipado con turbofán Rolls-Royce Spey, que entra en servicio naval en 1965; ese mismo año Sudáfrica recibe dieciséis **Buccaneer S.50** provistos de un cohete auxiliar Bristol Siddeley BS.605 para despegar en aeródromos cálidos y elevados.
+- **1969–1978:** tras la cancelación del bombardero táctico BAC TSR-2 y de la compra del General Dynamics F-111K, la **Royal Air Force** incorpora los Buccaneer S.2B y recibe progresivamente los aparatos de la Armada al darse de baja el último gran portaaviones británico, el HMS *Ark Royal*, en 1978.
+- **Enero–febrero de 1991 y 31 de marzo de 1994:** desplegados de urgencia en la **Guerra del Golfo** (Operación Granby), doce Buccaneer S.2B de la RAF completan 218 misiones de combate designando objetivos mediante láser Pave Spike para los Panavia Tornado y lanzando bombas guiadas, antes de su retiro definitivo en marzo de 1994.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Capacidad de disuasión naval:** El Buccaneer proporcionó a la Royal Navy una capacidad de ataque creíble contra los buques de guerra soviéticos durante más de dos décadas.
-- **Longevidad excepcional:** Diseñado en la década de 1950, el Buccaneer permaneció en servicio activo hasta 1994, un período de más de 30 años.
-- **Servicio en la RAF:** El Buccaneer llenó un vacío crítico en la capacidad de ataque de la RAF después de la cancelación del TSR-2 y el F-111K.
-- **Combatiente probado:** El Buccaneer demostró su valía en combate real durante la Guerra del Golfo de 1991.
+La entrada en servicio del Buccaneer —especialmente a partir de la variante S.2 con motores Rolls-Royce Spey, que incrementaron el empuje en más de un cincuenta por ciento y redujeron drásticamente el consumo específico— dotó a los portaaviones británicos HMS *Victorious*, *Hermes*, *Eagle* y *Ark Royal* de una capacidad de ataque nuclear y convencional de largo alcance sin parangón en las marinas europeas.
+
+Irónicamente, el avión que la Royal Air Force había desdeñado en la década de 1950 por ser subsónico terminó salvando la capacidad de interdicción profunda y ataque marítimo de la propia RAF durante más de veinte años tras el fiasco político del TSR-2 y del F-111K, demostrando en ejercicios internacionales como *Red Flag* en Nevada que un perfil de vuelo rasante a menos de treinta metros de altura seguía siendo sumamente difícil de interceptar para las defensas antiaéreas modernas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El Blackburn Buccaneer es recordado como uno de los grandes aviones de ataque naval de la era de la Guerra Fría. Su robustez, sus características de vuelo a baja altitud y su fiabilidad le valieron el cariño de las tripulaciones que lo volaron.
+Con treinta y seis años de carrera operativa entre su vuelo inaugural de abril de 1958 y su despedida en Lossiemouth en marzo de 1994, el Blackburn Buccaneer fue el último diseño propio de la histórica casa fundada por Robert Blackburn en 1909 (integrada poco después en Hawker Siddeley y posteriormente en British Aerospace).
 
-El hecho de que un diseño que voló por primera vez en 1958 siguiera siendo un activo de combate eficaz en la Guerra del Golfo de 1991 es un testimonio de la calidad de su diseño original. Aunque a menudo se le considera un avión infravalorado, eclipsado por otros más glamurosos, el Buccaneer desempeñó un papel crucial en el mantenimiento de la paz durante las décadas más tensas de la Guerra Fría.
-
-Hoy, varios Buccaneers se conservan en museos del Reino Unido y Sudáfrica, recordando a las nuevas generaciones la era del ataque a baja altitud y el ingenio de la ingeniería aeronáutica británica. El apodo "Banana Jet" perdura como un afectuoso recordatorio de este avión único y característico.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre el lugar del primer vuelo:</strong> Las fuentes presentan una discrepancia en el lugar del primer vuelo. La mayoría de las fuentes, incluyendo el fabricante BAE Systems, indican RAE Bedford. Algunas fuentes secundarias mencionan Boscombe Down. Se ha priorizado la información de BAE Systems por ser la fuente del fabricante.</p>
-<p><strong>Sobre el apodo "Banana Jet":</strong> Durante su desarrollo secreto, el proyecto se denominó "BANA" (Blackburn Advanced Naval Aircraft), que derivó en el apodo "Banana Jet" por la forma curvada de su fuselaje.</p>
-<p><strong>Sobre el número de unidades construidas:</strong> Las fuentes coinciden en 211 unidades (incluyendo prototipos).</p>
-</div>
+Hoy se conservan más de una veintena de ejemplares completos en el Reino Unido y Sudáfrica —algunos de ellos mantenidos en condición de rodaje vivo con sus alas plegables, su bodega rotatoria y sus aerofrenos de cola operativos—, testimonio perdurable de una de las células de ataque a baja cota más resistentes de toda la Guerra Fría.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -143,21 +87,26 @@ Hoy, varios Buccaneers se conservan en museos del Reino Unido y Sudáfrica, reco
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Blackburn_Buccaneer" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Blackburn Buccaneer</a></li>
-    <li><a href="http://www.1000aircraftphotos.com/Contributions/GauthierDavidJ/12342.htm" style="color: #315fea; text-decoration: none;">1000 Aircraft Photos - Buccaneer S.Mk.1 XK486</a></li>
-    <li><a href="https://www.baesystems.com/sites/Satellite?c=BAEHeritage_C&childpagename=UK%2FBAELayout&cid=1434584088992&d=Touch&pagename=UKWrapper" style="color: #315fea; text-decoration: none;">BAE Systems - Blackburn Buccaneer</a></li>
-    <li><a href="http://wayback.archive-it.org/all/20140327024650/http://en.wikipedia.org/wiki/Blackburn_Buccaneer" style="color: #315fea; text-decoration: none;">Wikipedia (archive) - Blackburn Buccaneer</a></li>
-    <li><a href="https://www.strijdbewijs.nl/vliegtuigen/buccaneer.htm" style="color: #315fea; text-decoration: none;">Strijdbewijs - Blackburn Buccaneer (Dutch)</a></li>
-    <li><a href="https://premium.globalsecurity.org/military/world/europe/buccaneer-specs.htm" style="color: #315fea; text-decoration: none;">Global Security - Buccaneer Specifications</a></li>
+    <li><a href="https://www.baesystems.com/en/heritage/blackburn-buccaneer" style="color: #315fea; text-decoration: none;">BAE Systems Heritage — «Blackburn Buccaneer»: historia oficial del fabricante sobre el programa B.103 / N.A.39 y el vuelo en RAE Bedford</a></li>
+    <li><a href="http://www.1000aircraftphotos.com/Contributions/GauthierDavidJ/12342.htm" style="color: #315fea; text-decoration: none;">1000 Aircraft Photos — «Blackburn B-103 Buccaneer S.Mk.1 (XK486)»</a></li>
+    <li><a href="https://premium.globalsecurity.org/military/world/europe/buccaneer-specs.htm" style="color: #315fea; text-decoration: none;">GlobalSecurity — «Buccaneer Specifications and Development»</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Blackburn_Buccaneer" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Blackburn Buccaneer</a></li>
   </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+<div class="note-box">
+  <p><strong>Nota aclaratoria:</strong> El primer vuelo del prototipo <code>XK486</code> tuvo lugar en el aeródromo de <strong>RAE Bedford (Thurleigh)</strong>, adonde la célula había sido llevada por carretera desde la factoría de Brough porque la pista de la fábrica resultaba demasiado corta para el estreno de un avión con sistema de soplado de capa límite aún no ensayado en el aire (algunas fuentes secundarias citan por error Boscombe Down). La duración del vuelo aparece redondeada a 30 minutos en resúmenes generales y precisada en 39 minutos en los registros históricos de Blackburn/BAE Systems. Los 211 ejemplares construidos comprenden los 20 N.A.39 de desarrollo, 40 S.1, 84 S.2 para la Royal Navy, 46 S.2B de nueva construcción para la RAF, 16 S.50 para Sudáfrica y células de ensayo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN), BAE Systems, Global Security, 1000 Aircraft Photos
-- **Discrepancias resueltas:** La fecha del primer vuelo es consistente (30 de abril de 1958). El lugar del primer vuelo presenta una discrepancia (RAE Bedford vs Boscombe Down); se ha priorizado RAE Bedford por ser la fuente del fabricante. El piloto fue Derek Whitehead. El número de unidades construidas fue 211.
+- **Timestamp de verificación:** 2026-10-07 10:00:00 CST
+- **Fuentes primarias/institucionales consultadas:** BAE Systems Heritage (`Blackburn Buccaneer`) y archivo fotográfico de Blackburn Aircraft Ltd.
+- **Fuentes secundarias de contraste:** 1000 Aircraft Photos (`XK486`), GlobalSecurity y Wikipedia (`Blackburn Buccaneer`).
+- **Discrepancias resueltas:** Se fija RAE Bedford como lugar del vuelo inaugural conforme a BAE Systems frente a las menciones aisladas de Boscombe Down, y se documenta en nota el rango de duración (30–39 minutos) y el desglose de las 211 unidades fabricadas.
 - **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Cláusula final:** «Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]».
