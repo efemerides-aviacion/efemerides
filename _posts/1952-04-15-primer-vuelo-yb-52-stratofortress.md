@@ -1,122 +1,80 @@
 ---
 layout: post
-title: "15 de abril de 1952 | Primer vuelo del Boeing YB-52 Stratofortress"
+title: "15 de abril de 1952 | Primer vuelo del prototipo Boeing YB-52 Stratofortress"
 date: 1952-04-15
 categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
-operator: Boeing / Fuerza Aérea de los Estados Unidos
-excerpt: "El 15 de abril de 1952, el prototipo YB-52 Stratofortress despegó del aeropuerto Boeing Field en Seattle, pilotado por el legendario Alvin M. 'Tex' Johnston, marcando el inicio de la carrera del bombardero estratégico más longevo de la historia de la aviación."
+operator: Boeing Airplane Company / United States Air Force
+excerpt: "El 15 de abril de 1952 despegó desde Boeing Field, en Seattle, el prototipo Boeing YB-52 Stratofortress (matrícula 49-231) con Alvin M. «Tex» Johnston y el Teniente Coronel Guy M. Townsend a los mandos, dando inicio a la historia operativa del bombardero estratégico más longevo de la aviación."
 image: 1952-04-15-primer-vuelo-yb-52-stratofortress.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-04-15-primer-vuelo-yb-52-stratofortress.webp" alt="YB-52 Stratofortress en su primer vuelo sobre Seattle">
-  <figcaption class="post-caption">El Boeing YB-52 Stratofortress, con matrícula 49-231, despega del Boeing Field a las 11:08 de la mañana del 15 de abril de 1952. Fuente: Colección de Robert F. Dorr / This Day in Aviation.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-04-15-primer-vuelo-yb-52-stratofortress.webp" alt="El prototipo Boeing YB-52 Stratofortress matrícula 49-231 en vuelo con sus ocho motores turborreactores bajo las alas y cúpula tipo burbuja">
+  <figcaption class="post-caption">El segundo prototipo construido pero primero en volar, el Boeing YB-52 Stratofortress (número de serie de la USAF 49-231), fotografiado en vuelo con la característica cúpula en tándem tipo caza de los dos ejemplares experimentales iniciales. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Boeing_YB-52_in_flight.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a> / U.S. Air Force (dominio público).</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 15 de abril de 1952, el prototipo YB-52 Stratofortress despegó del Boeing Field en Seattle, Washington, pilotado por el célebre piloto de pruebas Alvin M. "Tex" Johnston. Este vuelo histórico, con una duración aproximada de dos horas, marcó el nacimiento de un bombardero estratégico que redefinió el poder aéreo estadounidense durante la Guerra Fría. El YB-52 presentaba innovaciones radicales para su época: ocho motores turborreactores en cuatro góndolas subalares, alas con un barrido de 35 grados inspiradas en el exitoso B-47 Stratojet, y un tren de aterrizaje de bicicleta con ruedas de apoyo en las puntas de las alas. Aunque el prototipo XB-52 había sido el primero en diseñarse, el YB-52 fue el que realmente voló primero debido a daños en el XB-52 durante pruebas en tierra. Este evento inició una historia operativa que se extiende por más de siete décadas, consolidando al B-52 como el bombardero estratégico con el servicio continuo más largo en la historia de la aviación.</p>
+  <p>El <strong>15 de abril de 1952</strong>, a las 11:09 horas locales, despegó desde la pista de Boeing Field (Seattle, Washington) el prototipo <strong>Boeing YB-52 Stratofortress</strong> (matrícula de la USAF <code>49-231</code>), tripulado por el jefe de pilotos de ensayos del fabricante, <strong>Alvin M. «Tex» Johnston</strong>, y el <strong>Teniente Coronel Guy M. Townsend</strong>, del Centro de Pruebas de Vuelo de la Fuerza Aérea.</p>
+  <p>Durante un vuelo inaugural de 2 horas y 21 minutos hasta la base aérea de Larson, en Moses Lake, el gran octomotor de ala en flecha validó en el aire la combinación de la aerodinámica de alta velocidad con los nuevos turborreactores de doble rotor axial Pratt &amp; Whitney YJ57-P-3, dando comienzo a la trayectoria del bombardero pesado más longevo de la historia aeronáutica.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
-- **Fecha del primer vuelo:** 15 de abril de 1952
-- **Hora del despegue:** 11:08 (hora local)
-- **Lugar:** Boeing Field, Seattle, Washington, Estados Unidos
-- **Prototipo:** YB-52 (segundo prototipo, matrícula 49-231; el XB-52 voló el 2 de octubre de 1952)
-- **Piloto:** Alvin M. "Tex" Johnston (piloto jefe de pruebas de Boeing)
-- **Duración del vuelo:** Aproximadamente 2 horas
-- **Tripulación:** Piloto, copiloto e ingenieros de vuelo
-- **Altitud máxima alcanzada:** Información no confirmada
-- **Velocidad máxima alcanzada:** Información no confirmada
-- **Configuración del prototipo:** Ocho turborreactores Pratt & Whitney J57-P-1W, alas en flecha de 35 grados, envergadura de 56,4 metros (185 pies)
+- **Fecha y hora del primer vuelo:** 15 de abril de 1952, despegue a las 11:09 PST y aterrizaje a las 13:30 PST (2 horas y 21 minutos de duración).
+- **Trayecto:** Boeing Field, Seattle (Washington) → Larson Air Force Base, Moses Lake (Washington).
+- **Aeronave:** prototipo Boeing YB-52 Stratofortress (modelo interno 464-67, número de serie de la USAF `49-231` / `49-0231`), segundo ejemplar construido pero primero en volar.
+- **Tripulación:** Alvin M. «Tex» Johnston (aviador jefe de ensayos de Boeing) y Teniente Coronel Guy M. Townsend (USAF).
+- **Planta motriz:** ocho turborreactores de flujo axial y doble compresor Pratt &amp; Whitney YJ57-P-3 de 38,7 kN (8.700 lbf) de empuje unitario, agrupados de dos en dos en cuatro góndolas subalares suspendidas.
+- **Dimensiones básicas:** 48,03 m (157 pies 7 pulgadas) de longitud, 56,39 m (185 pies) de envergadura con flecha alar de 35° y 371,6 m² (4.000 pies cuadrados) de superficie alar.
+- **Producción total de la serie (1952–1962):** 744 ejemplares construidos en las plantas de Seattle y Wichita (desde los prototipos XB-52/YB-52 hasta el último B-52H entregado en octubre de 1962).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-Al finalizar la Segunda Guerra Mundial, Estados Unidos emergió como una superpotencia en un mundo que rápidamente se dividió en dos bloques enfrentados: el capitalista liderado por EE.UU. y el comunista liderado por la Unión Soviética. La Guerra Fría (1947-1991) impuso la necesidad de desarrollar sistemas de armas capaces de disuadir a un enemigo con capacidad nuclear. En este contexto, la Fuerza Aérea de los Estados Unidos requería un bombardero intercontinental que pudiera alcanzar objetivos en la Unión Soviética desde bases en territorio norteamericano, volando a gran altitud y velocidad.
+El nacimiento del B-52 respondió a la búsqueda por parte de las Fuerzas Aéreas estadounidenses, desde finales de 1945, de un bombardero estratégico capaz de alcanzar objetivos intercontinentales a velocidades subsónicas altas sin depender de bases avanzadas en el extranjero.
 
 ### Entorno social
 
-La década de 1950 estuvo marcada por el temor a una guerra nuclear. El público estadounidense vivía bajo la sombra de posibles ataques soviéticos, mientras el gobierno promovía la construcción de refugios antiaéreos y ejercicios de defensa civil. El desarrollo de bombarderos como el B-52 era presentado como una garantía de seguridad nacional y una muestra del poderío tecnológico estadounidense.
+A comienzos de la década de 1950, el estallido de la Guerra de Corea y el desarrollo del arsenal nuclear soviético convirtieron al Mando Aéreo Estratégico (SAC), dirigido por el General Curtis E. LeMay, en el pilar central de la doctrina de disuasión de Estados Unidos. Aunque el gigantesco <a href="https://efemerides-aviacion.github.io/efemerides/evento/1946/08/08/primer-vuelo-convair-b36.html" style="color: #315fea; text-decoration: none;">Convair B-36 Peacemaker</a> de propulsión mixta y el birreactor de alcance medio Boeing B-47 Stratojet cubrían las necesidades inmediatas, la vulnerabilidad de los aviones de hélice frente a los nuevos interceptores a reacción exigía disponer cuanto antes de un reactor de alcance intercontinental.
 
 ### Entorno tecnológico
 
-La aviación a reacción había revolucionado el diseño de aeronaves militares. El exitoso B-47 Stratojet, con sus alas en flecha de 35 grados y motores suspendidos en góndolas bajo las alas, demostró las ventajas de esta configuración. Boeing aprovechó esta experiencia para diseñar un bombardero mucho más grande y de mayor alcance. Los motores turborreactores Pratt & Whitney J57, con una potencia sin precedentes, hicieron posible el vuelo a gran altitud y velocidad.
+Durante más de dos años (1946–1948), los proyectos sucesivos de Boeing dentro de la familia Model 464 se concibieron como aviones de ala recta o moderadamente aflechada propulsados por cuatro turbopropulsores Wright XT35 Typhoon, ya que los primeros turborreactores consumían demasiado combustible para cruzar los océanos. En octubre de 1948, cuando el equipo de ingenieros de Boeing encabezado por Edward C. Wells, George Schairer, Vaughn Blumenthal, Maynard Pennell, Bob Withington y Art Carlsen acudió a Wright-Patterson Air Force Base (Dayton, Ohio) para presentar el diseño turbohélice Model 464-35, el Coronel Pete Warden les advirtió el jueves 21 de octubre que la Fuerza Aérea descartaría los turbopropulsores si era posible proyectar un bombardero puro a reacción en torno al nuevo motor axial de doble compresor Pratt &amp; Whitney XJ57 (JT3). Encerrados de viernes a domingo en la habitación de su alojamiento en el Hotel Van Cleve de Dayton con reglas de cálculo, papel vegetal y madera de balsa para esculpir una maqueta de escritorio, los seis proyectistas entregaron el lunes 25 de octubre una memoria técnica de 33 páginas que definía el Model 464-49: un gran avión con planos aflechados a 35 grados y ocho turborreactores colgados en cuatro góndolas dobles subalares.
 
 ### Entorno cultural
 
-La figura del piloto de pruebas se convirtió en un arquetipo del héroe moderno. Alvin M. "Tex" Johnston, conocido por su personalidad audaz y sus habilidades excepcionales, personificaba el espíritu de innovación y riesgo que caracterizaba a la industria aeronáutica de la posguerra.
+Los dos prototipos iniciales (XB-52 `49-230` y YB-52 `49-231`) incorporaban una estrecha cabina presurizada con los dos pilotos sentados en tándem bajo una larga cúpula transparente de burbuja similar a la del B-47, junto a un tren de aterrizaje principal compuesto por cuatro carros dobles en tándem dentro del fuselaje —capaces de orientarse hasta 20 grados a cada lado para aterrizar aproados al viento cruzado— y dos ruedines estabilizadores en las puntas alares. Tras examinar la maqueta y los prototipos, el General LeMay exigió sustituir en los aviones de serie aquella cúpula en fila por una cabina convencional con piloto y copiloto sentados lado a lado para mejorar la coordinación en misiones de más de veinte horas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **1945:** La Fuerza Aérea de EE.UU. emite los primeros requisitos para un bombardero intercontinental a reacción.
-- **1946:** Boeing presenta su diseño inicial, el Model 462, con motores de hélice y turbohélices.
-- **1948:** El diseño evoluciona al Model 464-35, ya con ocho turborreactores y alas en flecha.
-- **14 de octubre de 1950:** La Fuerza Aérea ordena la construcción de dos prototipos: XB-52 y YB-52.
-- **1951:** Comienza la construcción de los prototipos en la planta de Boeing en Seattle.
-- **Noviembre de 1951:** El XB-52 sufre daños en el sistema hidráulico durante pruebas en tierra, lo que retrasa su primer vuelo.
-- **15 de abril de 1952, 11:08:** El YB-52 (matrícula 49-231) despega en su vuelo inaugural desde Boeing Field, pilotado por Tex Johnston.
-- **30 de agosto de 1952:** el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/08/30/primer-vuelo-avro-vulcan.html" style="color: #315fea; text-decoration: none;">prototipo Avro Vulcan VX770 realiza su primer vuelo en Woodford</a>, el otro gran bombardero estratégico de reacción de aquel año.
-- **2 de octubre de 1952:** El XB-52 realiza su primer vuelo, una vez reparado.
-- **1954:** Entra en producción el primer modelo operativo, el B-52A.
-- **1955:** El B-52B entra en servicio con el Comando Aéreo Estratégico (SAC).
-
-### El primer vuelo: detalles técnicos y humanos
-
-El 15 de abril de 1952 no fue un día cualquiera en el Boeing Field. El enorme prototipo YB-52, con sus ocho motores y sus alas en flecha, representaba la apuesta más audaz de la compañía por conquistar los cielos estratosféricos. Detrás de la hazaña estaban un avión revolucionario y un piloto legendario, cuya combinación marcaría el inicio de una era.
-
-### La aeronave: YB-52 (matrícula 49-231)
-
-El YB-52 era un coloso para su época: 56,4 metros de envergadura, 48 metros de longitud y 12,4 metros de altura. Su peso máximo al despegue superaba las 176 toneladas. La configuración de ocho motores Pratt & Whitney J57-P-1W, dispuestos en cuatro góndolas de dos motores cada una, proporcionaba un empuje total de más de 34.000 kilogramos.
-
-El tren de aterrizaje era una innovación necesaria: cuatro patas principales dispuestas en tándem (dos a cada lado de la línea central del fuselaje), más dos pequeñas ruedas estabilizadoras en las puntas de las alas. Esta configuración de "bicicleta" permitía que las alas en flecha, muy largas y flexibles, no se arrastraran por el suelo.
-
-La cabina, en la que viajaban dos pilotos lado a lado y un ingeniero de vuelo detrás, era presurizada para operar a gran altitud. El bombardero llevaba una tripulación total de cinco personas: piloto, copiloto, navegante, bombardero y operador de sistemas de defensa.
-
-### El piloto: Alvin M. "Tex" Johnston
-
-Tex Johnston era en 1952 el piloto jefe de pruebas de Boeing. Nacido en 1914 en Kansas, había sido piloto de combate durante la Segunda Guerra Mundial y se unió a Boeing en 1948. Era conocido por su habilidad excepcional y su personalidad extrovertida. En 1955, ganaría fama mundial al realizar un barril (roll) completo a baja altura con el prototipo del Boeing 367-80, el antepasado del KC-135 y el Boeing 707.
-
-Para el vuelo del YB-52, Johnston estaba acompañado por el copiloto Guy M. Townsend y un equipo de ingenieros.
-
-### El vuelo
-
-El 15 de abril de 1952, a las 11:08 de la mañana, el YB-52 rodó hacia la pista del Boeing Field. El despegue fue normal, aunque Johnston notó que el avión requería más pista de la prevista debido a que los motores aún no alcanzaban su empuje nominal. Una vez en el aire, la aeronave se comportó de manera estable, superando las expectativas de los ingenieros.
-
-El vuelo duró aproximadamente dos horas. Johnston evaluó la respuesta de los controles, la estabilidad longitudinal y lateral, y el comportamiento de los motores en diferentes regímenes. Aunque se detectaron algunos problemas menores (vibraciones en ciertos componentes y fugas hidráulicas), el resultado fue considerado un éxito rotundo.
-
-El aterrizaje fue igualmente exitoso, aunque la gran masa del avión y la ausencia de frenos de disco eficientes (se usaban paracaídas de frenado) hicieron que la carrera de aterrizaje fuera larga.
+- **Junio de 1946–octubre de 1948:** Boeing recibe el contrato de estudio preliminar y, tras el rediseño del Hotel Van Cleve en Dayton (21–25 de octubre de 1948), adopta definitivamente la configuración de ala en flecha y ocho turborreactores J57.
+- **29 de noviembre de 1951:** el primer prototipo construido, el XB-52 (`49-230`), sale de la nave de montaje de Seattle cubierto con lonas en plena noche, pero durante una prueba de presurización en tierra sufre la rotura de un conducto neumático de aire sangrado de alta presión que daña gravemente el sector posterior del plano derecho y obliga a devolverlo a fábrica para una larga reparación.
+- **15 de marzo de 1952:** sale de planta el segundo prototipo, el **YB-52 (`49-231`)**, dotado ya de varios equipos operativos de bombardeo.
+- **15 de abril de 1952:** tras las pruebas de rodaje a alta velocidad, «Tex» Johnston y el Teniente Coronel Townsend despegan de Boeing Field a las 11:09 horas en el YB-52 `49-231`; debido a una válvula defectuosa que impide retraer uno de los estabilizadores laterales del tren y a una pequeña fuga de aceite en un motor, cumplen casi todo el recorrido inaugural de 141 minutos con el tren desplegado antes de tomar tierra sin contratiempos en Larson AFB (Moses Lake), en el mismo año en que volaron por primera vez el prototipo soviético <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/04/27/primer-vuelo-prototipo-sovietico-tu-88.html" style="color: #315fea; text-decoration: none;">Tupolev Tu-88</a> y el bombardero británico de ala en delta <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/08/30/primer-vuelo-avro-vulcan.html" style="color: #315fea; text-decoration: none;">Avro Vulcan</a>.
+- **2 de octubre de 1952:** una vez reparado su plano, el primer prototipo XB-52 (`49-230`) completa finalmente su propio vuelo inaugural.
+- **5 de agosto de 1954 y 29 de junio de 1955:** despega el primer ejemplar de preproducción B-52A con cabina lado a lado y al año siguiente entra en servicio operativo el B-52B con el Ala de Bombardeo Pesado N.º 93 en Castle AFB (California).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Disuasión nuclear durante la Guerra Fría:** El B-52 se convirtió en el pilar del Comando Aéreo Estratégico (SAC) de EE.UU. Durante décadas, mantuvo una presencia constante en el aire (Operación Chrome Dome) con armas nucleares a bordo, listo para responder a un ataque soviético.
-
-- **Capacidad de bombardeo convencional:** Más allá de su rol nuclear, el B-52 demostró una versatilidad excepcional en conflictos convencionales: Vietnam (1965-1973), Tormenta del Desierto (1991), Afganistán (2001), Irak (2003) y las campañas contra ISIS (2014-2017). Su capacidad de carga (hasta 31,5 toneladas de bombas) y su resistencia en vuelo (más de 15 horas sin reabastecimiento) lo convierten en un arma única.
-
-- **Innovaciones tecnológicas:** El B-52 introdujo o perfeccionó tecnologías que luego se aplicarían en otros aviones: alas en flecha de gran ángulo, tren de aterrizaje de bicicleta, sonda de reabastecimiento en vuelo en el morro, sistemas de navegación inercial y defensa electrónica.
-
-- **Longevidad sin precedentes:** La Fuerza Aérea de EE.UU. planea mantener el B-52 en servicio hasta la década de 2050, lo que significará más de 90 años de servicio continuo (desde 1955 hasta al menos 2050). Ningún otro avión militar de combate ha alcanzado esta longevidad.
+La excelente respuesta de mando demostrada por el YB-52 el 15 de abril de 1952 llevó a la Fuerza Aérea a ordenar su producción a gran escala antes incluso de que concluyera el programa de ensayos. Capaz de volar a más de 1.000 km/h a cotas de 15.000 metros y de reabastecerse en el aire mediante los nuevos aviones cisterna a reacción Boeing KC-135 Stratotanker derivados del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1954/07/15/primer-vuelo-boeing-367-80-dash80.html" style="color: #315fea; text-decoration: none;">prototipo Boeing 367-80</a>, el Stratofortress demostró su alcance global en enero de 1957 durante <a href="https://efemerides-aviacion.github.io/efemerides/evento/1957/01/18/operacion-power-flite.html" style="color: #315fea; text-decoration: none;">la Operación Power Flite</a>, cuando tres B-52B circunnavegaron el globo sin escalas empleando 45 horas y 19 minutos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El B-52 Stratofortress es uno de los aviones más emblemáticos de la historia de la aviación. Su silueta inconfundible —ocho motores humeantes, alas en flecha que se comban en vuelo, fuselaje alargado— es reconocible en todo el mundo.
-
-Actualmente, la Fuerza Aérea de EE.UU. opera 76 B-52H (la versión más moderna), que serán reequipados con nuevos motores Rolls-Royce F130 en el programa Commercial Engine Replacement Program (CERP), extendiendo su vida útil hasta bien entrado el siglo XXI.
-
-El primer vuelo del YB-52 el 15 de abril de 1952 no fue solo el nacimiento de un avión. Fue el comienzo de una leyenda que sigue escribiéndose más de 70 años después.
+El prototipo YB-52 `49-231` acumuló más de 780 horas de vuelos de ensayo antes de ser entregado en enero de 1958 al Museo de la Fuerza Aérea en Dayton (Ohio), aunque a mediados de la década de 1960 tanto él como el XB-52 acabaron siendo desguazados en la base de Chanute (Illinois) dentro de un plan de embellecimiento de las instalaciones. En cambio, la estirpe que inauguró aquel 15 de abril de 1952 ha superado todas las previsiones de la ingeniería aeronáutica: setenta y cuatro años después de su primer despegue, la flota de B-52H —sometida hoy a remotorización y modernización electrónica hacia el estándar B-52J— continúa en primera línea con el objetivo de alcanzar un siglo completo de servicio activo hacia la década de 2050.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -124,28 +82,27 @@ El primer vuelo del YB-52 el 15 de abril de 1952 no fue solo el nacimiento de un
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Boeing B-52 Stratofortress</a></li>
-    <li><a href="https://www.thisdayinaviation.com/15-april-1952/" style="color: #315fea; text-decoration: none;">This Day in Aviation - 15 April 1952 YB-52 first flight</a></li>
-    <li><a href="https://boeing.mediaroom.com/2002-04-12-Boeing-U.S.-Air-Force-Celebrate-B-52-Stratofortress-Golden-Anniversary" style="color: #315fea; text-decoration: none;">Boeing Media Room - B-52 Stratofortress Golden Anniversary</a></li>
-    <li><a href="https://www.historylink.org/file/3565" style="color: #315fea; text-decoration: none;">HistoryLink - YB-52 Stratofortress first flight Boeing Field</a></li>
-    <li><a href="https://planetags.com/blogs/planetags-blog/born-to-last-the-story-of-the-boeing-b-52-stratofortress" style="color: #315fea; text-decoration: none;">PlaneTags - Born to Last: Boeing B-52 Stratofortress</a></li>
-    <li><a href="https://www.museumofflight.org/exhibits-and-events/aircraft/boeing-b-52g-stratofortress" style="color: #315fea; text-decoration: none;">Museum of Flight - Boeing B-52G Stratofortress</a></li>
-    <li><a href="https://afhistory.org/april-15-1952/" style="color: #315fea; text-decoration: none;">Air Force Historical Foundation - April 15, 1952</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195826/boeing-yb-52-stratofortress/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force – «Boeing YB-52 Stratofortress»</a></li>
+    <li><a href="https://www.boeing.com/history/products/b-52-stratofortress.page" style="color: #315fea; text-decoration: none;">Boeing Historical Archives – «B-52 Stratofortress Historical Snapshot»</a></li>
+    <li><a href="https://www.thisdayinaviation.com/15-april-1952/" style="color: #315fea; text-decoration: none;">This Day in Aviation – «15 April 1952: First Flight of the Boeing YB-52 Stratofortress (49-231)»</a></li>
+    <li><a href="https://www.historylink.org/File/3384" style="color: #315fea; text-decoration: none;">HistoryLink.org (Washington State History) – «Boeing YB-52 Stratofortress jet bomber makes its maiden flight on April 15, 1952»</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Boeing_B-52_Stratofortress" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – «Boeing B-52 Stratofortress»</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-<p><strong>Nota aclaratoria:</strong> Aunque el XB-52 fue el primer prototipo diseñado, el YB-52 (matrícula 49-231) fue el primero en volar debido a daños en el sistema hidráulico del XB-52 durante pruebas en tierra en noviembre de 1951. El XB-52 realizó su primer vuelo el 2 de octubre de 1952. Por lo tanto, la fecha del 15 de abril de 1952 corresponde al primer vuelo del programa B-52, pero no del primer prototipo construido.</p>
+  <p><strong>Nota aclaratoria:</strong> aunque por nomenclatura el <strong>XB-52 (49-230)</strong> fue el primer prototipo fabricado, los daños estructurales sufridos en su ala durante una prueba neumática en tierra en noviembre de 1951 retrasaron su primer despegue hasta el <strong>2 de octubre de 1952</strong>. Por esa razón, el primer ejemplar de toda la familia Stratofortress en volar fue el segundo prototipo, el <strong>YB-52 (49-231)</strong>, el <strong>15 de abril de 1952</strong>.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:53:22 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia, This Day in Aviation, Boeing Media Room, HistoryLink, PlaneTags, Museum of Flight, Air Force Historical Foundation
-- **Discrepancias resueltas:** Se ha aclarado la diferencia entre el XB-52 y el YB-52, y por qué el segundo voló primero. Se ha incorporado la matrícula (49-231) y la hora exacta del despegue (11:08) según la fuente de This Day in Aviation. No se encontraron datos confirmados sobre altitud y velocidad máxima alcanzadas en el primer vuelo, por lo que se omitieron o marcaron como no confirmados.
-- **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Timestamp de verificación:** 2026-10-07 08:05:00 CST  
+- **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force, Boeing Historical Archives, HistoryLink.org  
+- **Fuentes de contraste:** This Day in Aviation, Wikipedia (EN)  
+- **Discrepancias resueltas:** se explica por qué el segundo prototipo YB-52 (`49-231`) voló cinco meses y medio antes que el primer prototipo XB-52 (`49-230`).  
+- **Nivel de confianza:** Alto  
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

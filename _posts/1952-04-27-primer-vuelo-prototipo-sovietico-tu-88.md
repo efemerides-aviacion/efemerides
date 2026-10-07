@@ -1,135 +1,83 @@
 ---
 layout: post
-title: "27 de abril de 1952 | Primer vuelo del prototipo soviético Tu-88, base del futuro Tupolev Tu-16"
+title: "27 de abril de 1952 | Primer vuelo del prototipo soviético Tu-88, origen del Tupolev Tu-16"
 date: 1952-04-27
 categories: [evento]
 author: Enrique Pomares
-pais: Unión Soviética (URSS)
-operator: Tupolev OKB / Fuerza Aérea Soviética (VVS)
-excerpt: "El 27 de abril de 1952 realizó su primer vuelo el prototipo soviético Tu-88 (designación interna 'Aircraft N'), que tras un exitoso programa de pruebas se convertiría en el bombardero estratégico Tupolev Tu-16, uno de los aviones militares más importantes de la Guerra Fría."
+pais: Unión Soviética
+operator: Oficina de Diseño Experimental Túpolev (OKB-156) / Fuerza Aérea Soviética
+excerpt: "El 27 de abril de 1952 despegó del aeródromo de Zhukovski el prototipo «Avión 88» (Tu-88) con Nikolái Rybko al mando: el exitoso ensayo inaugural dio origen al bombardero estratégico birreactor Tupolev Tu-16 y al avión comercial Tu-104."
 image: 1952-04-27-primer-vuelo-prototipo-sovietico-tu-88.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-04-27-primer-vuelo-prototipo-sovietico-tu-88.webp" alt="Tupolev Tu-16 en vuelo">
-  <figcaption class="post-caption">Tupolev Tu-16 en vuelo, aproximadamente dos años después del primer vuelo del prototipo Tu-88, efectuado el 27 de abril de 1952. Fuente: This Day in Aviation.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1952-04-27-primer-vuelo-prototipo-sovietico-tu-88.webp" alt="Bombardero estratégico birreactor soviético Tupolev Tu-16 fotografiado en vuelo">
+  <figcaption class="post-caption">Ejemplar de serie del bombardero estratégico birreactor Tupolev Tu-16 (código OTAN «Badger») en vuelo. Su prototipo directo, designado internamente como «Avión 88» (<em>Samoliot 88</em>) o Tu-88 por la OKB-156, efectuó su vuelo inaugural en Zhukovski el 27 de abril de 1952. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Tupolev_Tu-16_in_flight.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a> / Departamento de Defensa de EE. UU. (dominio público).</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 27 de abril de 1952 realizó su primer vuelo el prototipo soviético Tu-88, base del futuro Tupolev Tu-16, con N. S. Rybko al mando. El programa nació a partir de trabajos iniciados por la oficina Tupolev en 1950 y fue impulsado por la necesidad soviética de un bombardero a reacción de largo alcance. Tras sus ensayos iniciales, el modelo fue aprobado para producción en diciembre de 1952 y entró en servicio operativo en 1954 como Tu-16, recibiendo la designación OTAN Badger-A.</p>
+  <p>El <strong>27 de abril de 1952</strong>, desde la pista del Instituto de Investigación de Vuelo (LII) en Zhukovski, cerca de Moscú, despegó por primera vez el prototipo soviético <strong>«Avión 88» (Tu-88)</strong>, tripulado por una dotación de ensayos encabezada por el piloto de pruebas <strong>Nikolái Stepánovich Rybko</strong>. Desarrollado por la oficina de diseño <strong>OKB-156</strong> de <strong>Andréi Nikoláyevich Túpolev</strong> bajo la dirección técnica de <strong>Serguéi Mijáilovich Yeger</strong> y <strong>Dmitri Serguéyevich Markov</strong>, el avión combinó un ala en flecha de 35 grados con dos enormes turborreactores de flujo axial <strong>Mikulin AM-3</strong> empotrados en los encastres alares.</p>
+  <p>Aquel vuelo de doce minutos inició la trayectoria del bombardero estratégico y avión de ataque marítimo <strong>Tupolev Tu-16</strong> (código OTAN <em>Badger</em>), del que se fabricaron más de 1.500 ejemplares en la Unión Soviética —además de su producción en China como <strong>Xi'an H-6</strong>, todavía en activo en el siglo XXI— y cuya célula sirvió de base directa para el primer reactor comercial soviético, el <strong>Tupolev Tu-104</strong>.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
-- **Fecha del primer vuelo:** 27 de abril de 1952
-- **Lugar:** URSS (probablemente el aeródromo de Zhukovsky, cerca de Moscú)
-- **Designación del prototipo:** Tu-88 ("Aircraft N" / Type 88)
-- **Piloto de pruebas:** Nikolái S. Rybko (N. S. Rybko)
-- **Duración del primer vuelo:** 12 minutos
-- **Velocidad máxima alcanzada:** 1.020 km/h (superior a la prevista)
-- **Autonomía:** 6.050 km (muy superior a los 3.000 km solicitados)
-- **Motor:** Dos turborreactores Mikulin AM-3 (85,3 kN de empuje cada uno)
-- **Aprobación para producción:** Diciembre de 1952
-- **Entrada en servicio:** 1954, con la designación Tu-16 y nombre OTAN Badger-A
-- **Unidades construidas:** 1.509 (todas las variantes)
+- **Fecha del estreno en vuelo:** 27 de abril de 1952 (duración de 12 minutos).
+- **Lugar:** aeródromo del Instituto de Investigación de Vuelo (LII) en Rámenskoye / Zhukovski, óblast de Moscú (Unión Soviética).
+- **Aeronave:** primer prototipo *Samoliot 88* («Avión 88» / `88/1`), conocido como **Tupolev Tu-88**, precursor directo del **Tupolev Tu-16** (designación OTAN: *Badger*).
+- **Oficina de diseño:** OKB-156 de Andréi Nikoláyevich Túpolev (jefe del proyecto preliminar: Serguéi M. Yeger; ingeniero jefe del programa: Dmitri S. Markov).
+- **Piloto de pruebas al mando:** Nikolái Stepánovich Rybko (al frente de una tripulación de pruebas de fábrica integrada por segundo piloto, navegante, operador de radio e ingeniero de vuelo).
+- **Planta motriz del prototipo:** dos turborreactores de flujo axial Mikulin AM-3 de 85,8 kN (8.750 kgf) de empuje máximo unitario (sustituidos en serie por los RD-3M / AM-3M de 93,2 kN / 9.500 kgf).
+- **Dimensiones básicas (configuración de serie Tu-16):** 34,80 m de longitud, 33,00 m de envergadura, 164,65 m² de superficie alar, velocidad máxima de 1.050 km/h y alcance operativo de 5.925–7.200 km.
+- **Producción total en la URSS (1953–1963):** 1.507 a 1.509 unidades fabricadas en las plantas n.º 22 (Kazán), n.º 1 (Kúibyshev) y n.º 64 (Vorónezh).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-A finales de la década de 1940, la Unión Soviética se enfrentaba a un desafío estratégico: la necesidad de un bombardero a reacción de largo alcance que pudiera competir con los diseños occidentales. Estados Unidos ya operaba el Boeing B-47 Stratojet (primer vuelo en 1947) y desarrollaba el B-52 Stratofortress. La URSS, que hasta entonces dependía del Tu-4 (una copia del B-29 Superfortress con motores de pistón), necesitaba dar el salto tecnológico a la propulsión a reacción para mantener la paridad estratégica en la Guerra Fría.
+A finales de la década de 1940, la aviación de largo alcance de la Unión Soviética dependía todavía del cuatrimotor de pistón Tupolev Tu-4 —copia por ingeniería inversa del Boeing B-29—, cuya velocidad y techo de servicio habían quedado superados por la aparición de los primeros cazas e interceptores a reacción occidentales.
 
 ### Entorno social
 
-La Unión Soviética de principios de la década de 1950 vivía bajo el régimen de Stalin, en plena consolidación de su imperio tras la Segunda Guerra Mundial. La posesión de la bomba atómica (desde 1949) y la necesidad de un medio de entrega efectivo impulsaban el desarrollo de bombarderos estratégicos. El prestigio nacional y la capacidad de disuasión frente a Estados Unidos eran prioridades absolutas del régimen.
+Mientras los bombarderos tácticos birreactores Ilyushin Il-28 cubrían el teatro de corto alcance, el Consejo de Ministros soviético exigió en junio de 1948 y mediante la resolución oficial del 10 de junio de 1950 un bombardero a reacción de radio medio e intermedio capaz de transportar hasta 9.000 kg de bombas convencionales o las nuevas armas termonucleares a velocidades cercanas a los 1.000 km/h. El proyecto enfrentó en sana competencia técnica a la oficina veterana de Andréi Túpolev (OKB-156) con la recién reabierta oficina de Vladímir Myasíshchev (OKB-23) y con los estudios de Serguéi Ilyushin (Il-46).
 
 ### Entorno tecnológico
 
-El desarrollo del motor Mikulin AM-3 fue clave para hacer viable el Tu-16. Iniciado en 1948, este turborreactor se convirtió en el más potente del mundo en su momento, con 85,3 kN de empuje. El prototipo "82" (1949), primer avión soviético de ala en flecha, sirvió como banco de pruebas para las soluciones aerodinámicas que luego se aplicarían al Tu-88. El diseño de ala en flecha (barrido de 35 grados) era esencial para reducir la resistencia aerodinámica a altas velocidades.
+Dos avances técnicos desarrollados en Moscú entre 1949 y 1951 hicieron viable el proyecto «88». Por un lado, los ensayos aerodinámicos del Instituto Central de Aerohidrodinámica (TsAGI) definieron una planta alar de gran alargamiento con 35 grados de flecha en el interior y 37 grados en los paneles exteriores, equipada con dos góndolas carenadas en el borde de fuga en las que se recogían hacia atrás los carros principales de cuatro ruedas del tren de aterrizaje, dejando libre de mecanismos el espesor del plano para alojar combustible y la gran bodega central del fuselaje. Por otro lado, el motorista Aleksandr Mikulin puso a punto el gigantesco turborreactor de flujo axial de un solo eje AM-3, capaz de entregar por sí solo casi tres veces el empuje de los motores centrífugos derivados del Rolls-Royce Nene. Al empotrar dos de esas turbinas a ambos lados de la raíz alar junto al fuselaje —con góndolas semiexternas que protegían la cabina y los largueros—, Túpolev logró la potencia necesaria con sólo dos motores.
 
 ### Entorno cultural
 
-La oficina de diseño de Andrei Tupolev era una de las más prestigiosas de la URSS. Había diseñado el Tu-4 (copia del B-29) y el Tu-95 (bombardero turbohélice de largo alcance). La competencia con otras oficinas (como la de Ilyushin, que presentó el Il-46) era intensa, y la obtención de contratos de producción dependía del éxito en las pruebas estatales.
+El programa avanzó en paralelo con los grandes reactores estratégicos de ambos bloques durante 1952: el primer despegue del Tu-88 en Zhukovski se produjo apenas doce días después del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/04/15/primer-vuelo-yb-52-stratofortress.html" style="color: #315fea; text-decoration: none;">vuelo inaugural del Boeing YB-52 Stratofortress</a> en Seattle y cuatro meses antes del estreno del bombardero británico <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/08/30/primer-vuelo-avro-vulcan.html" style="color: #315fea; text-decoration: none;">Avro Vulcan</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **1948:** Inicia el desarrollo del motor Mikulin AM-3.
-- **1949:** Primer vuelo del prototipo "82" (avión de ala en flecha), precursor conceptual del Tu-16.
-- **1950:** Tupolev OKB comienza el trabajo en los prototipos Tu-88 ("Aircraft N").
-- **27 de abril de 1952:** Primer vuelo del prototipo Tu-88, con N. S. Rybko al mando. Duración: 12 minutos. Velocidad alcanzada: 1.020 km/h.
-- **Abril - octubre de 1952:** Pruebas de fábrica (46 vuelos). Se detectan problemas de peso excesivo.
-- **13 de noviembre de 1952:** El prototipo es entregado para pruebas estatales en el Instituto de Investigación de la Fuerza Aérea (NII VVS).
-- **Diciembre de 1952:** Aprobación para producción en serie.
-- **Marzo - septiembre de 1953:** Pruebas de fábrica del segundo prototipo ("88-2"), que incorpora reducciones de peso (5 toneladas menos).
-- **1954:** Entrada en servicio operativo con la designación Tu-16.
-- **1958:** Comienza la producción bajo licencia en China (Xi'an H-6).
-
-### El prototipo Tu-88: el nacimiento del Badger
-
-El 27 de abril de 1952, el piloto de pruebas Nikolái Rybko despegó en el prototipo "88-1" desde la base de pruebas de Tupolev. El vuelo inaugural duró apenas 12 minutos, tiempo suficiente para que Rybko evaluara las características básicas de manejo del avión. El Tu-88 superó la velocidad prevista (alcanzando 1.020 km/h) y, en pruebas posteriores, demostró una autonomía de 6.050 km, muy superior a los 3.000 km exigidos por el gobierno.
-
-### El motor Mikulin AM-3
-
-El corazón del Tu-88 eran dos turborreactores Mikulin AM-3 (también designados RD-3M). Con un empuje de 85,3 kN cada uno, fueron los motores más potentes del mundo en su momento. Desarrollados por el diseñador Alexander Mikulin desde 1948, utilizaban un compresor axial de dos cuerpos (un estado de baja presión y ocho de alta presión). Tenían una longitud de 5,38 metros y un peso de 3.100 kg. Su diseño se basaba parcialmente en los motores Rolls-Royce Nene y Derwent adquiridos por la URSS en 1947.
-
-Al despegue, los AM-3 giraban a 4.650 rpm y producían su máxima potencia. La duración de vida de las primeras versiones era de solo 100 horas, lo que fue un problema operativo. Versiones posteriores (AM-3M-500) alcanzaron una vida útil de 500 horas entre revisiones.
-
-### Los dos prototipos
-
-Se construyeron dos prototipos principales:
-
-- **"88-1":** El primer prototipo, volado por Rybko el 27 de abril de 1952. Presentaba sobrepeso (sobrecargado de equipos) y problemas con el armamento secundario.
-- **"88-2":** Segundo prototipo, aligerado en 5 toneladas al eliminar "factores de seguridad excesivos" y simplificar sistemas. Voló por primera vez en marzo de 1953 y fue la base para la producción en serie.
-
-### Las pruebas estatales
-
-El programa de pruebas estatales en el Instituto de Investigación de la Fuerza Aérea (NII VVS) demostró las capacidades del Tu-16:
-
-- **Velocidad máxima:** 992 km/h (con carga de 3 toneladas de bombas)
-- **Alcance:** 5.760 km (con 3 toneladas de bombas)
-- **Techo de servicio:** 12.800 metros
-- **Peso máximo al despegue:** 72 toneladas
-
-### El piloto: Nikolái S. Rybko
-
-Nikolái S. Rybko fue el piloto de pruebas jefe de la oficina de diseño Tupolev en la década de 1950. Su nombre aparece en múltiples fuentes como el piloto del primer vuelo del Tu-88 el 27 de abril de 1952. Rybko también participó en las pruebas de otros aviones Tupolev, incluyendo el Tu-95 y el Tu-104 (el primer avión a reacción comercial soviético).
-
-Su figura, aunque menos conocida que la de otros pilotos de pruebas soviéticos (como Ivan Dzyuba o Yuri Garnaev), fue fundamental para el éxito del programa Tu-16. Su informe tras el primer vuelo destacó la estabilidad del avión y la necesidad de reducir peso.
+- **1949–10 de junio de 1950:** el equipo preliminar de Serguéi Yeger elabora los estudios «486» y «491»; el gobierno soviético aprueba formalmente el desarrollo de dos prototipos del proyecto **«Avión 88» (Tu-88)** bajo la dirección de Dmitri Markov.
+- **Julio de 1951–enero de 1952:** tras superarse la inspección oficial de la maqueta a escala real, la planta experimental n.º 156 de Moscú completa la primera célula (`88/1`) y la traslada por carretera desmontada hasta el aeródromo del LII en Zhukovski.
+- **27 de abril de 1952:** Nikolái Rybko despega de Zhukovski al mando del prototipo `88/1` y realiza un vuelo de doce minutos con el tren de aterrizaje extendido, comprobando la estabilidad longitudinal y la respuesta inmediata de las dos turbinas Mikulin AM-3.
+- **Mayo–noviembre de 1952:** durante las pruebas de fábrica y estatales, el primer prototipo alcanza una velocidad máxima de 1.020 km/h y un techo de 12.800 m, aunque su peso en vacío superior al calculado reduce el alcance inicial a 4.920 km frente a los 6.000 km exigidos.
+- **Diciembre de 1952–6 de abril de 1953:** el gobierno ordena la fabricación en serie bajo la designación militar **Tu-16** en la factoría n.º 22 de Kazán, mientras en Zhukovski despega el segundo prototipo rediseñado (`88/2`), aligerado en más de cinco toneladas de estructura y capaz ya de cubrir 6.050 km de radio total.
+- **1 de mayo de 1954:** nueve Tu-16 de las primeras series sobrevuelan la Plaza Roja de Moscú durante el desfile del Primero de Mayo, revelando el nuevo bombardero ante los agregados militares occidentales.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Primer bombardero estratégico a reacción soviético masivamente producido:** El Tu-16 fue el primer bombardero a reacción de la URSS en alcanzar una producción en serie significativa (1.509 unidades).
+La entrada en servicio del Tu-16 en 1954 dotó tanto a la Aviación de Largo Alcance (ADD) como a la Aviación Naval Soviética (AV-MF) de su primera plataforma birreactora polivalente de gran radio de acción. Además de lanzar bombas nucleares y convencionales —un Tu-16A ejecutó el ensayo de la primera bomba termonuclear soviética de dos etapas RDS-37 en noviembre de 1955—, el modelo se transformó en el vector principal de los primeros misiles de crucero antibuque de largo alcance (series KS-1 *Komet*, KSR-2 y K-10S), así como en avión cisterna de reabastecimiento por punta de plano, plataforma de reconocimiento electrónico y perturbador de radares.
 
-- **Plataforma multimisión versátil:** El Tu-16 dio lugar a decenas de variantes: bombardero estratégico (Tu-16A), lanzador de misiles antibuque (Tu-16K), avión de reconocimiento marítimo (Tu-16R), cisterna (Tu-16N), guerra electrónica (Tu-16 Elka), torpedero (Tu-16T), etc.
-
-- **Primer avión soviético lanzador de misiles antibuque:** Las variantes del Tu-16 fueron los primeros aviones soviéticos en llevar misiles antibuque (AS-1 Kennel, AS-2 Kipper, AS-5 Kelt, AS-6 Kingfish), anticipando el enfoque de la aviación naval soviética en la guerra antisuperficie.
-
-- **Base para el Tu-104:** El fuselaje del Tu-16 sirvió como base para el Tupolev Tu-104, el segundo avión a reacción comercial del mundo (después del De Havilland Comet) y el primero en alcanzar producción en serie significativa.
+En el terreno civil, Andréi Túpolev aprovechó las alas, la cola, las góndolas de tren y los motores del Tu-16 acoplados a un nuevo fuselaje presurizado de mayor diámetro para crear en tiempo récord el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1955/06/17/primer-vuelo-tupolev-tu-104-primer-avion-jet-exitoso.html" style="color: #315fea; text-decoration: none;">Tupolev Tu-104</a> (estrenado en el aire el 17 de junio de 1955), que durante el bienio 1956–1958 operó como el único avión comercial a reacción en servicio regular en el mundo tras la suspensión de los primeros Comet británicos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El Tupolev Tu-16 fue uno de los bombarderos estratégicos más importantes de la Guerra Fría. Sirvió en la Fuerza Aérea Soviética, la Aviación Naval Soviética, y las fuerzas aéreas de Egipto, Irak, Indonesia y otros países. Fue utilizado en combate en la Guerra de los Seis Días (1967), la Guerra de Desgaste (1969-1970), la Guerra de Yom Kippur (1973), la Guerra Irán-Irak (1980-1988) y las guerras de Afganistán e Irak.
-
-Aunque la mayoría de los Tu-16 fueron retirados del servicio ruso en la década de 1990 tras el fin de la Guerra Fría, la versión producida bajo licencia en China, el Xi'an H-6, continúa en servicio activo y sigue produciéndose en versiones modernizadas (como el H-6K). China comenzó la producción bajo licencia en 1959, y el primer H-6 fabricado localmente voló en diciembre de 1968. Actualmente, la Fuerza Aérea del Ejército Popular de Liberación (PLAAF) opera más de 120 H-6 en diversas variantes, incluyendo lanzadores de misiles de crucero.
-
-El legado del Tu-88/Tu-16 es, por tanto, uno de los más longevos de la historia de la aviación. Un diseño nacido en los inicios de la Guerra Fría sigue siendo relevante más de 70 años después, un testimonio de la calidad de la ingeniería de Tupolev.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre las designaciones:</strong> El prototipo se denominó Tu-88 ("Aircraft N" o "Type 88") durante el desarrollo. Tras ser aprobado para producción en diciembre de 1952, recibió la designación oficial Tu-16. La designación OTAN es Badger-A para la versión básica de bombardeo.</p>
-<p><strong>Sobre la producción en China:</strong> China comenzó la producción bajo licencia del Tu-16 en 1959, designándolo Xi'an H-6. El primer H-6 fabricado localmente voló en diciembre de 1968. Variantes modernizadas como el H-6K continúan en producción activa, y se estima que la PLAAF opera más de 120 ejemplares en la actualidad.</p>
-</div>
+Retirado de las fuerzas rusas en 1993 tras cuatro décadas de patrullas sobre el Atlántico, el Pacífico y el Ártico, el diseño nacido del prototipo Tu-88 ha protagonizado una segunda vida extraordinaria en Asia. A raíz del acuerdo de transferencia tecnológica firmado con Pekín en septiembre de 1957, la factoría china de Xi'an emprendió la producción bajo licencia del modelo como **Xi'an H-6** (primer vuelo chino en 1959). Profundamente modernizado en el siglo XXI con motores turbofán de bajo consumo, aviónica digital y capacidad para portar misiles de crucero e hipersónicos de largo alcance (variantes H-6K y H-6N), el descendiente directo de aquel prototipo volado en Zhukovski el 27 de abril de 1952 continúa en producción y servicio operativo más de setenta años después de su estreno.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -137,20 +85,26 @@ El legado del Tu-88/Tu-16 es, por tanto, uno de los más longevos de la historia
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Tupolev_Tu-16" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Tupolev Tu-16</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/T%C3%BApolev_Tu-16" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Túpolev Tu-16</a></li>
-    <li><a href="https://airvectors.net/avtu16_1.html" style="color: #315fea; text-decoration: none;">Airvectors - Tu-16 Origins / Tu-16 Bombers, Tankers, & Missile Carriers</a></li>
-    <li><a href="https://nuke.fas.org/guide/russia/bomber/tu-16.htm" style="color: #315fea; text-decoration: none;">FAS - Tu-16 BADGER (Tupolev)</a></li>
-    <li><a href="https://nationalinterest.org/blog/buzz/russias-tupolev-tu-16-bomber-complete-history-208748" style="color: #315fea; text-decoration: none;">The National Interest - Russia's Tupolev Tu-16 Bomber: A Complete History</a></li>
+    <li><a href="https://tupolev.ru/en/planes/tu-16/" style="color: #315fea; text-decoration: none;">PJSC Tupolev (archivo histórico oficial de la oficina de diseño) – «Tu-16 (Aircraft 88)»</a></li>
+    <li><a href="https://fas.org/nuke/guide/russia/bomber/tu-16.htm" style="color: #315fea; text-decoration: none;">Federation of American Scientists (FAS) – «Tu-16 Badger (Tupolev)»</a></li>
+    <li><a href="https://www.globalsecurity.org/wmd/world/russia/tu-16.htm" style="color: #315fea; text-decoration: none;">GlobalSecurity.org – «Tu-88 / Tu-16 Badger Historical Background &amp; Specifications»</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Tupolev_Tu-16" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – «Tupolev Tu-16»</a></li>
   </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+<div class="note-box">
+  <p><strong>Nota aclaratoria:</strong> dentro de la nomenclatura interna de la OKB-156 de Andréi Túpolev, los proyectos en fase experimental recibían un número de fábrica (<em>Samoliot 88</em> o «Avión 88», citado también como <strong>Tu-88</strong>) distinto de la denominación oficial que les asignaba la Fuerza Aérea Soviética al aprobar su producción en serie (<strong>Tu-16</strong>). El código de identificación <em>Badger</em> («Tejón») le fue adjudicado por el Comité de Coordinación de Estándares de la OTAN tras su presentación pública sobre Moscú en mayo de 1954.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Airvectors, FAS, The National Interest
-- **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (27 de abril de 1952). El piloto fue N. S. Rybko (según fuentes rusas especializadas). La duración del primer vuelo (12 minutos) está documentada en fuentes de aviación rusas. La velocidad máxima alcanzada en pruebas fue de 1.020 km/h, superior a la prevista.
-- **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Timestamp de verificación:** 2026-10-07 08:05:00 CST  
+- **Fuentes primarias/institucionales consultadas:** PJSC Tupolev (archivo oficial sobre el proyecto «Avión 88» / Tu-16), Federation of American Scientists (FAS)  
+- **Fuentes de contraste:** GlobalSecurity.org, Wikipedia (EN)  
+- **Discrepancias resueltas:** se aclara la correspondencia entre la designación interna de prototipo («Avión 88» / Tu-88), la denominación militar de serie (Tu-16) y el nombre codificado por la OTAN (*Badger*).  
+- **Nivel de confianza:** Alto  
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

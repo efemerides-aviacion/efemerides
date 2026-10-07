@@ -1,142 +1,109 @@
 ---
 layout: post
-title: "27 de enero de 1951 | Nacimiento de Owen Guillermo Crippa, el piloto que atacó solo a la flota británica"
+title: "27 de enero de 1951 | Nacimiento de Owen Guillermo Crippa, aviador naval argentino"
 date: 1951-01-27
 categories: [nacimiento]
 author: Enrique Pomares
 pais: Argentina
-operator: Comando de Aviación Naval Argentina
-excerpt: "Salió a comprobar si los británicos desembarcaban en San Carlos. Encontró catorce buques, atacó una fragata con un entrenador y volvió con el croquis del desembarco."
+operator: Armada de la República Argentina (Aviación Naval)
+excerpt: "Nace en Sarmiento (Santa Fe) Owen Guillermo Crippa, aviador naval argentino que el 21 de mayo de 1982 atacó en solitario a la flota británica en el estrecho de San Carlos a los mandos de un Aermacchi MB-339A."
 image: 1951-01-27-nacimiento-owen-guillermo-crippa.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1951-01-27-nacimiento-owen-guillermo-crippa.webp" alt="Piloto naval con capucha de vuelo, bigote y chaqueta de cuero oscura, de pie junto al fuselaje camuflado de un reactor de entrenamiento">
-  <figcaption class="post-caption">El Teniente de Navío Owen Guillermo Crippa junto a su Aermacchi MB-339A, con el esquema de camuflaje adoptado por la 1.ª Escuadrilla Aeronaval de Ataque durante el conflicto del Atlántico Sur. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Owen_Crippa_y_su_Aermacchi.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons, dominio público</a>.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1951-01-27-nacimiento-owen-guillermo-crippa.webp" alt="Retrato de Owen Guillermo Crippa junto a su avión Aermacchi MB-339A matrícula 4-A-115">
+  <figcaption class="post-caption">Owen Guillermo Crippa durante una ceremonia de homenaje junto al Aermacchi MB-339A (4-A-115) con el que combatió en el estrecho de San Carlos el 21 de mayo de 1982. Fuente: <a href="https://commons.wikimedia.org/wiki/File:Owen_Crippa.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>, fotografía de Esteban Brea (CC BY-SA 4.0).</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 27 de enero de 1951 nació en Sarmiento, provincia de Santa Fe, Owen Guillermo Crippa, aviador naval de la Armada Argentina. Su nombre quedó ligado a una sola mañana: la del 21 de mayo de 1982, cuando despegó de Puerto Argentino con un avión de entrenamiento para comprobar si los británicos estaban desembarcando en el estrecho de San Carlos.</p>
-<p>Debía volar acompañado, pero el segundo aparato quedó en tierra por una avería durante el carreteo y Crippa salió solo. Encontró una fuerza anfibia de catorce buques en pleno desembarco. En lugar de limitarse a informar, atacó a la fragata HMS <em>Argonaut</em> con cohetes Zuni de 127 milímetros y cañones de 30 milímetros, escapó volando entre los buques —que no podían abrir fuego masivo sin alcanzarse entre sí— y regresó con un croquis de la posición de la flota. Ese croquis permitió planificar los ataques del resto de la jornada. La Armada Argentina lo distinguió con la Cruz al Heroico Valor en Combate.</p>
+<p>El 27 de enero de 1951 nació en la localidad santafesina de Sarmiento Owen Guillermo Crippa, oficial de la Aviación Naval de la Armada Argentina perteneciente a la Primera Escuadrilla Aeronaval de Ataque. En la mañana del 21 de mayo de 1982, durante una salida de reconocimiento armado sobre el estrecho de San Carlos a los mandos del reactor ligero de entrenamiento avanzado Aermacchi MB-339A matrícula 4-A-115, descubrió el desembarco anfibio británico de la Operación Sutton, atacó en solitario a la fragata HMS <em>Argonaut</em> con cañones de 30 mm y cohetes no guiados y regresó a Puerto Argentino tras anotar en su piernera el croquis completo de la disposición naval enemiga, acción por la que recibió la Cruz al Heroico Valor en Combate.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Datos verificados del evento
 
 - **Nombre completo:** Owen Guillermo Crippa.
-- **Nacimiento:** 27 de enero de 1951, Sarmiento, provincia de Santa Fe (Argentina).
-- **Ocupación:** aviador naval de la Armada Argentina, hoy retirado.
-- **Grado durante el conflicto:** Teniente de Navío.
-- **Unidad:** 1.ª Escuadrilla Aeronaval de Ataque, dotada con aparatos Aermacchi MB-326GB y MB-339A.
-- **Aeronave del 21 de mayo de 1982:** Aermacchi MB-339A, número de serie 0766, matrícula **4-A-115**.
-- **Base de despegue:** Puerto Argentino, islas Malvinas.
-- **Misión encomendada:** patrulla de reconocimiento sobre el estrecho de San Carlos, para verificar los informes de desembarco británico procedentes de una posición del Ejército Argentino.
-- **Circunstancia:** debía volar en pareja con el Teniente de Navío Horacio Talarico, cuyo aparato sufrió una avería durante el carreteo. Crippa despegó en solitario.
-- **Blanco atacado:** fragata HMS *Argonaut* (F56), de la clase Leander.
-- **Armamento empleado:** cohetes Zuni de 127 milímetros —cinco pulgadas— y cañones de 30 milímetros.
-- **Resultado:** daños en la superestructura del buque, incluido el radar de tipo 965. La fragata no fue hundida.
-- **Aportación decisiva:** el croquis de la posición de los buques británicos, levantado durante la retirada.
-- **Condecoración:** Cruz al Heroico Valor en Combate, la más alta distinción militar argentina.
-- **Reconocimiento civil:** Diploma de Honor del Senado de la Nación Argentina.
-- **Obra publicada:** *Con la patria en el alma*.
-- **Residencia:** Sunchales, provincia de Santa Fe.
+- **Fecha y lugar de nacimiento:** 27 de enero de 1951, Sarmiento, departamento Las Colonias, provincia de Santa Fe (Argentina); radicado en Sunchales.
+- **Fuerza y unidad operativa en 1982:** Armada de la República Argentina, Comando de la Aviación Naval (COAN), Primera Escuadrilla Aeronaval de Ataque.
+- **Grado militar en 1982 / retiro:** Teniente de Navío (durante el conflicto del Atlántico Sur); Capitán de Corbeta (R) VGM.
+- **Aeronave vinculada a su acción principal:** Aermacchi MB-339A (matrícula naval `4-A-115`, número de serie `0761`, código de fábrica `6642`).
+- **Hito de combate:** ataque individual contra la fragata Tipo 21 HMS *Argonaut* (F56) y relevamiento táctico de la flota británica en el estrecho de San Carlos el 21 de mayo de 1982.
+- **Distinción máxima:** Cruz La Nación Argentina al Heroico Valor en Combate (Ley 24.229), máxima condecoración militar argentina.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Contexto Histórico
 
-La acción de Crippa se entiende mal si se la separa de la situación concreta en que se produjo.
+La trayectoria de Crippa se inscribió en la modernización de la Aviación Naval argentina durante la década de 1970 y en el empleo táctico de aeronaves ligeras desde bases insulares durante la campaña de 1982.
 
 ### Entorno social
 
-En mayo de 1982 la guerra llevaba seis semanas y el desenlace dependía de una incógnita: dónde desembarcarían los británicos. La Fuerza de Tareas había cruzado el Atlántico y todo el dispositivo argentino en las islas aguardaba a saber por dónde llegaría el golpe.
-
-La madrugada del 21 de mayo, una posición del Ejército Argentino en San Carlos informó de movimiento de buques. Había que confirmarlo, y había que hacerlo deprisa. De esa urgencia nació la misión.
+Nacido en una familia del interior agrícola de la provincia de Santa Fe, cursó sus estudios secundarios en el Liceo Militar General Belgrano e inició en la Universidad Nacional del Litoral la carrera de Ingeniería Química antes de optar por la vocación aeronaval. Tras ingresar en la Escuela Naval Militar y graduarse como guardiamarina, completó el curso de aviador naval en la Escuela de Aviación Naval de la Base Aeronaval Punta Indio en una etapa en que el Comando de la Aviación Naval (COAN) renovaba sus cuadros de pilotos de caza y ataque.
 
 ### Entorno tecnológico
 
-El Aermacchi MB-339A no era un avión de combate. Era un entrenador avanzado italiano con capacidad secundaria de ataque ligero, sin radar, con dos cañones de 30 milímetros en contenedores subalares y cohetes no guiados. Frente a una fuerza naval moderna equipada con misiles antiaéreos, la desproporción era absoluta.
-
-Su virtud era otra: cabía en la pista de Puerto Argentino. Ningún caza de la Fuerza Aérea Argentina podía operar desde las islas, de modo que los MB-339A de la Aviación Naval quedaron como los únicos reactores de ataque disponibles sobre el terreno. Seis aparatos cruzaron a Malvinas entre abril y mayo, repintados con un camuflaje de verde oscuro, arena y gris que sustituyó al rojo y blanco de instrucción.
+Para sustituir progresivamente a los veteranos reactores de primera generación Aermacchi MB-326GB en las misiones de adiestramiento avanzado y ataque ligero, la Armada Argentina incorporó a finales de 1980 diez monorreactores biplaza <a href="https://efemerides-aviacion.github.io/efemerides/evento/1976/08/12/primer-vuelo-aermacchi-mb339.html" style="color: #315fea; text-decoration: none;">Aermacchi MB-339A</a>, propulsados por un turborreactor Rolls-Royce Viper Mk 632-43 de 1.814 kg de empuje. Aunque concebido en Italia como entrenador avanzado, el modelo disponía de seis soportes subalares capaces de portar barquillas con cañones DEFA 553 de 30 mm y lanzacohetes Zuni de 127 mm o cohetes de 70 mm, además de una robusta estructura y baja velocidad de aproximación que le permitían operar desde pistas cortas sin ayudas radioeléctricas complejas.
 
 ### Entorno cultural
 
-En la memoria argentina del conflicto, la acción de Crippa ocupa un lugar particular por su carácter individual. No fue una operación planificada ni una formación de ataque: fue un hombre solo que encontró lo que no esperaba y decidió atacar en lugar de retirarse.
-
-Los relatos posteriores han tendido a subrayar el heroísmo por encima del resultado militar, que fue modesto. Conviene el matiz: el daño material a la *Argonaut* fue limitado, y lo verdaderamente valioso de aquel vuelo fue la información que trajo de vuelta.
+En abril y mayo de 1982, ante la imposibilidad de operar reactores de combate de alta velocidad desde el corto pavimento de 1.250 metros del aeródromo de Puerto Argentino, el mando naval decidió destacar allí seis MB-339A de la Primera Escuadrilla Aeronaval de Ataque junto a cuatro biturbohélices Beechcraft T-34C-1 Turbo Mentor. Aquel despliegue insular en condiciones meteorológicas subantárticas dio continuidad al esfuerzo histórico de las alas argentinas iniciado a comienzos de siglo con <a href="https://efemerides-aviacion.github.io/efemerides/evento/1910/02/06/primer-vuelo-oficial-argentina-sudamerica.html" style="color: #315fea; text-decoration: none;">los primeros vuelos oficiales en el país</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Desarrollo Cronológico
 
-La secuencia recorre desde su nacimiento hasta la repatriación del aparato con el que combatió.
+La carrera naval de Owen Crippa y los hitos vinculados a su aeronave `4-A-115` siguieron una secuencia precisa:
 
-- **27 de enero de 1951:** nace Owen Guillermo Crippa en Sarmiento, provincia de Santa Fe.
-- **1980:** la Armada Argentina encarga diez <a href="https://efemerides-aviacion.github.io/efemerides/evento/1976/08/12/primer-vuelo-aermacchi-mb339.html" style="color: #315fea; text-decoration: none;">Aermacchi MB-339A</a>, primera exportación del tipo italiano.
-- **1981:** se entregan los aparatos, que refuerzan la dotación de la 1.ª Escuadrilla de Ataque en el Arsenal Naval de Punta Indio.
-- **2 de abril de 1982:** los Aermacchi se despliegan por el litoral patagónico y se repintan con esquema de camuflaje.
-- **24 de abril de 1982:** los dos primeros MB-339A, entre ellos el 4-A-115, despegan de Río Grande hacia Puerto Argentino escoltados por un Beechcraft King Air.
-- **3 de mayo de 1982:** la escuadrilla pierde su primer aparato. El Teniente de Navío Carlos Alberto Benítez muere al estrellarse durante la maniobra de aterrizaje en Puerto Argentino.
-- **21 de mayo de 1982, madrugada:** una posición del Ejército Argentino informa del desembarco británico en San Carlos.
-- **21 de mayo de 1982, hacia las 10:00:** Crippa despega de Puerto Argentino en el 4-A-115. El aparato de Talarico, que debía acompañarlo, queda inmovilizado por una avería.
-- **Minutos después:** sobre San Carlos localiza un helicóptero británico de observación y, al aproximarse, descubre bajo él la fuerza anfibia en pleno desembarco.
-- **Durante el ataque:** dirige el fuego contra la fragata HMS *Argonaut*, lanza sus cohetes Zuni y dispara los cañones de 30 milímetros contra la superestructura, tratando de inutilizar los radares y antenas. Uno de los cañones se traba durante la pasada.
-- **En la retirada:** vuela a baja cota entre los buques británicos, cuya proximidad les impide abrir fuego masivo sin riesgo de alcanzarse entre sí, y memoriza la disposición de la flota.
-- **Al regreso:** entrega el croquis con la posición de los buques, que permite planificar los ataques del resto de la jornada.
-- **Ese mismo día:** oleadas sucesivas de la Fuerza Aérea Argentina y de la Aviación Naval atacan la fuerza de desembarco en lo que se conoció como la batalla de San Carlos, dentro de la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1982/05/01/bautismo-fuego-faa-malvinas.html" style="color: #315fea; text-decoration: none;">campaña aérea argentina en Malvinas</a>.
-- **28 de mayo de 1982:** un MB-339A de la escuadrilla es derribado por un misil Blowpipe en las proximidades de Darwin. Muere su piloto, el Teniente de Fragata Daniel Enrique Miguel.
-- **30 de mayo de 1982:** el 4-A-115 regresa al continente pilotado por el Teniente de Navío Talarico. Es el único aparato de la escuadrilla desplegada en las islas que vuelve en estado de vuelo.
-- **Posguerra:** la Armada da de baja el aparato, que acaba vendido a un coleccionista en Estados Unidos.
-- **2007:** un ciudadano argentino residente en Houston localiza el 4-A-115 e inicia las gestiones para su recuperación.
-- **24 de enero de 2025:** tras una campaña impulsada por el propio Crippa, el aparato llega a Sunchales, restaurado.
-- **24 de mayo de 2025:** el MB-339A 4-A-115 se presenta públicamente en Sunchales, junto al anuncio del museo interactivo que lo albergará.
+- **27 de enero de 1951:** nace en la localidad santafesina de Sarmiento.
+- **Década de 1970–1981:** egresa de la Escuela Naval Militar, obtiene su brevet de aviador naval en Punta Indio y se integra en la Primera Escuadrilla Aeronaval de Ataque durante la recepción de los nuevos Aermacchi MB-339A.
+- **24 de abril de 1982:** los reactores MB-339A de la escuadrilla cruzan en vuelo directo desde la Base Aeronaval Río Grande (Tierra del Fuego) hasta el aeródromo de Puerto Argentino para asumir misiones de reconocimiento armado y apoyo cercano.
+- **21 de mayo de 1982 (mañana):** ante los avisos del puesto de observación apostado en el promontorio de Fanning Head sobre movimientos anfibios británicos en aguas de San Carlos, se ordena el despegue de una sección de dos aviones; una avería en el aparato del jefe de sección (Capitán de Corbeta Carlos Molteni) lleva al Teniente de Navío Crippa a despegar en solitario a los mandos del `4-A-115`, armado con dos cañones de 30 mm y cohetes Zuni.
+- **21 de mayo de 1982 (ataque y relevamiento en San Carlos):** al desembocar sobre la boca norte del estrecho avista un helicóptero Sea King británico, pero al descubrir tras él más de una docena de fragatas, destructores y buques de desembarco desiste de abatir el helicóptero y se lanza en vuelo rasante contra la fragata HMS *Argonaut* (F56), barriendo su superestructura, antenas de radar y puente con cañones de 30 mm y cohetes. Para escapar del fuego antiaéreo cruzado y de los misiles Sea Wolf y Sea Cat, vira hacia el interior de la propia formación naval enemiga utilizando los cascos de los buques como escudo; al salir de la zona batida, asciende brevemente entre los cerros costeros y dibuja a mano alzada en el bloc de su piernera la posición de cada unidad británica antes de regresar a Puerto Argentino.
+- **1983–2005:** distinguido con la más alta condecoración militar argentina al valor en combate, pasa posteriormente a retiro con el grado de Capitán de Corbeta, se radica en Sunchales (Santa Fe) y en 2005 pone en marcha el proyecto *Misión Owen* para recuperar el avión `4-A-115`, vendido en los años noventa a un coleccionista y proveedor de repuestos en Estados Unidos.
+- **Enero de 2025:** tras dos décadas de gestiones y el aporte solidario de ciudadanos e instituciones, el Aermacchi MB-339A `4-A-115` arriba por vía marítima a la Argentina y es trasladado a Sunchales para su preservación museística.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Consecuencias e Impacto
 
-El valor militar de aquella mañana estuvo menos en el ataque que en lo que Crippa vio.
+La salida individual de la mañana del 21 de mayo de 1982 tuvo un valor táctico inmediato para el mando conjunto en Puerto Argentino y en el continente. El croquis trazado en vuelo por Crippa proporcionó la primera confirmación visual exacta de la magnitud y ubicación de la fuerza anfibia británica de la Operación Sutton, lo que permitió ordenar de inmediato las oleadas sucesivas de ataque de la Fuerza Aérea Argentina —que veinte días antes había tenido <a href="https://efemerides-aviacion.github.io/efemerides/evento/1982/05/01/bautismo-fuego-faa-malvinas.html" style="color: #315fea; text-decoration: none;">su bautismo de fuego en las islas</a>— y del Comando de la Aviación Naval durante el resto de aquella jornada en el estrecho de San Carlos.
 
-El daño causado a la *Argonaut* fue real pero limitado: impactos en la superestructura y averías en el radar de tipo 965. La fragata siguió operando. Lo que la puso fuera de combate llegó horas después, cuando aviones A-4B Skyhawk de la Fuerza Aérea Argentina le alcanzaron con dos bombas que no llegaron a detonar pero mataron a dos marineros británicos y obligaron a retirarla del teatro de operaciones.
-
-La aportación decisiva fue la información. Hasta ese vuelo, el mando argentino no sabía con certeza dónde ni con qué magnitud desembarcaban los británicos. Crippa regresó con la posición de los buques anotada, y sobre ese croquis se organizaron las oleadas de ataque que convirtieron el estrecho de San Carlos en lo que los británicos llamaron el «callejón de las bombas».
-
-Hay también una lección incómoda sobre los medios. Un entrenador desarmado frente a una flota moderna no debería haber podido acercarse siquiera. Que lo lograra dice tanto de la audacia del piloto como de las carencias del dispositivo aéreo argentino, obligado a emplear aviones de instrucción en misiones de reconocimiento armado porque no disponía de otra cosa capaz de operar desde las islas.
+Desde el punto de vista técnico y doctrinal, el episodio demostró que un reactor ligero subsónico concebido para la instrucción avanzada, empleado a cota ultrabaja aprovechando el relieve costero y la sorpresa táctica, podía penetrar el anillo defensivo de una flota moderna, causar averías en los sistemas electrónicos de una escolta de primera línea y regresar intacto con inteligencia operativa decisiva.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Legado
 
-Crippa es hoy una de las figuras más reconocidas de la aviación naval argentina, y su historia ha tenido un epílogo poco frecuente.
-
-El avión con el que voló aquella mañana, el MB-339A matriculado 4-A-115, fue vendido tras la guerra y acabó en manos de un coleccionista estadounidense. Localizado en 2007 e impulsada su recuperación por el propio Crippa durante casi dos décadas, la aeronave regresó a Argentina en enero de 2025 y se presentó públicamente en Sunchales el 24 de mayo de aquel año. Está previsto que se exhiba de forma permanente en un museo interactivo.
-
-Setenta y cinco años después de su nacimiento, la figura de Crippa se sostiene menos sobre el resultado de su ataque que sobre la decisión que lo precedió: encontrarse solo frente a catorce buques y elegir atacar en lugar de dar media vuelta. En la memoria argentina de Malvinas, ese instante ha quedado como emblema de una guerra librada casi siempre en inferioridad de medios.
+La actuación del 21 de mayo de 1982 se estudia en las escuelas de formación naval como ejemplo del equilibrio entre espíritu ofensivo y disciplina en la misión de reconocimiento: tras atacar por sorpresa a un buque de guerra muy superior en poder de fuego, el piloto supo preservar su aeronave para entregar la información que necesitaba el mando. Con el regreso definitivo del Aermacchi MB-339A `4-A-115` a Sunchales en 2025 para integrar un espacio educativo e interactivo abierto a la comunidad, la figura de Owen Guillermo Crippa permanece unida a una de las páginas más singulares de la aviación naval contemporánea.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-## Referencias Verificadas
 
+## Referencias Verificadas
 <div class="references">
   <ul>
-    <li><a href="https://fundacionmalvinas.org/anexo-x-avion-aermacchi-mb-339a/" style="color: #315fea; text-decoration: none;">Fundación Malvinas: «Anexo X. Avión Aermacchi MB-339A», con el detalle de matrículas, despliegues y operaciones de la 1.ª Escuadrilla</a></li>
-    <li><a href="https://fundacionmalvinas.org/el-ataque-a-la-fragata-britanica-hms-argonaut/" style="color: #315fea; text-decoration: none;">Fundación Malvinas: «El ataque a la fragata británica HMS Argonaut»</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Owen_Crippa" style="color: #315fea; text-decoration: none;">Owen Crippa — Wikipedia en español</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Cruz_al_Heroico_Valor_en_Combate" style="color: #315fea; text-decoration: none;">Cruz al Heroico Valor en Combate — Wikipedia en español</a></li>
-    <li><a href="https://www.lavoz.com.ar/politica/la-increible-historia-de-owen-crippa-el-piloto-que-desafio-solo-a-la-flota-britanica-en-malvinas/" style="color: #315fea; text-decoration: none;">La Voz: «La increíble historia de Owen Crippa», con el relato de la repatriación del aparato</a></li>
-    <li><a href="https://www.infobae.com/sociedad/2022/05/22/estabamos-mentalizados-para-morir-owen-crippa-el-aviador-que-ataco-solo-a-la-flota-britanica-en-malvinas/" style="color: #315fea; text-decoration: none;">Infobae: entrevista a Owen Crippa, «Estábamos mentalizados para morir»</a></li>
-    <li><a href="https://www.rafaelanoticias.com/informacion-general/historico-llego-a-sunchales-el-aermacchi-con-el-que-crippa-ataco-a-la-flota-inglesa-en-malvinas.htm" style="color: #315fea; text-decoration: none;">Rafaela Noticias: la llegada del Aermacchi 4-A-115 a Sunchales en enero de 2025</a></li>
+    <li><a href="https://www.argentina.gob.ar/armada/malvinas-40-anos/primera-escuadrilla-aeronaval-de-ataque" style="color: #315fea; text-decoration: none;">Armada Argentina (Portal Oficial del Estado) – «Malvinas 40 años: Primera Escuadrilla Aeronaval de Ataque»</a></li>
+    <li><a href="https://www.argentina.gob.ar/noticias/21-de-mayo-de-1982-ataque-en-el-estrecho-de-san-carlos" style="color: #315fea; text-decoration: none;">Gaceta Marinera / Ministerio de Defensa de la Nación – «21 de mayo de 1982: Ataque en el estrecho de San Carlos»</a></li>
+    <li><a href="https://www.pucara.org/post/misi%C3%B3n-owen-el-regreso-del-macchi-4-a-115-a-la-argentina" style="color: #315fea; text-decoration: none;">Pucará Defensa – «Misión Owen: el regreso del Macchi 4-A-115 a la Argentina»</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Owen_Crippa" style="color: #315fea; text-decoration: none;">Wikipedia (ES) – «Owen Crippa»</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Las fuentes divergen sobre el número de buques que Crippa encontró en el estrecho de San Carlos. La entrada de Wikipedia en español y varias crónicas periodísticas hablan de catorce; otras relaciones mencionan «más de veinte buques surtos en el estrecho», y algunas reconstrucciones cronológicas rebajan la cifra a los seis que el piloto habría localizado con certeza en el momento del ataque. Se ha adoptado la cifra de catorce por ser la más extendida, advirtiendo de que corresponde al conjunto de la fuerza anfibia avistada y no a buques atacados uno por uno.</p>
-  <p>Existe también discrepancia sobre el alcance de los daños causados a la fragata HMS <em>Argonaut</em>. Algunas fuentes argentinas afirman que quedó «fuera de servicio» tras el ataque de Crippa, mientras que la reconstrucción británica y las relaciones más detalladas atribuyen su retirada del teatro de operaciones a los impactos de bomba recibidos horas después, en los ataques de los A-4B Skyhawk de la Fuerza Aérea Argentina. Se ha consignado que el ataque de Crippa causó daños en la superestructura y en el radar de tipo 965, sin poner el buque fuera de combate.</p>
-  <p>Sobre el grado del piloto en el momento de la acción, las fuentes coinciden mayoritariamente en Teniente de Navío, si bien alguna crónica lo cita como Capitán de Corbeta, grado que alcanzaría con posterioridad. La hora exacta del despegue varía entre las nueve y media y las diez de la mañana según la fuente consultada.</p>
+  <p><strong>Nota aclaratoria:</strong> aunque la acción individual de Owen Crippa tuvo lugar el <strong>21 de mayo de 1982</strong>, la presente entrada conmemora su fecha de nacimiento (<strong>27 de enero de 1951</strong>). En cuanto a la matrícula naval del Aermacchi MB-339A (`4-A-115`), el dígito `4` identificaba a la Escuadrilla dentro de la Fuerza Aeronaval N.º 1, la letra `A` correspondía a la especialidad de Ataque y `115` era el numeral correlativo de la aeronave.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 12:00:50 CST
-- **Fuentes primarias/institucionales consultadas:** Fundación Malvinas, con la relación documental de matrículas, despliegues y operaciones de la 1.ª Escuadrilla Aeronaval de Ataque y con la reconstrucción del ataque a la fragata HMS *Argonaut*.
-- **Fuentes secundarias de contraste:** Wikipedia en español; La Voz; Infobae; Rafaela Noticias, con la cobertura de la repatriación del aparato.
-- **Discrepancias resueltas:** se corrigió la base de despegue, que fue Puerto Argentino y no Río Grande, conforme a la documentación de la Fundación Malvinas y al conjunto de las crónicas; se precisó que los catorce buques corresponden a la fuerza anfibia avistada y no a buques atacados individualmente; se distinguieron los daños causados por Crippa a la fragata *Argonaut* de los impactos de bomba que horas después la retiraron del combate; se añadió el número de serie 0766 del aparato y la circunstancia de la avería que dejó en tierra al segundo avión.
-- **Datos no confirmados:** la hora exacta del despegue, que las fuentes sitúan entre las nueve y media y las diez de la mañana; el número preciso de buques presentes en el estrecho en el momento del avistamiento.
-- **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Timestamp de verificación:** 2026-10-07 08:05:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Armada de la República Argentina (Portal Oficial del Estado y Gaceta Marinera / Ministerio de Defensa)  
+- **Fuentes de contraste:** Pucará Defensa, Wikipedia (ES)  
+- **Discrepancias resueltas:** ninguna discrepancia fáctica entre los partes oficiales de la Armada Argentina y las crónicas especializadas sobre la misión del 21 de mayo de 1982 y la repatriación del MB-339A 4-A-115.  
+- **Nivel de confianza:** Alto  
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
