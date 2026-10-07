@@ -19,7 +19,7 @@ image: 1976-09-06-desercion-viktor-belenko-mig25-foxbat.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 6 de septiembre de 1976, el Teniente Viktor Belenko, piloto de las Fuerzas de Defensa Aérea Soviéticas, desertó volando un interceptor MiG-25 «Foxbat» desde el Lejano Oriente soviético hasta el aeropuerto civil de Hakodate, en la isla japonesa de Hokkaido. Era la primera vez que Occidente podía examinar de cerca el caza más temido del arsenal soviético: el director de la CIA, George H. W. Bush, lo calificó como una «bonanza de inteligencia».</p>
+<p>El 6 de septiembre de 1976, el Teniente Viktor Belenko, piloto de las Fuerzas de Defensa Aérea Soviéticas, desertó volando un interceptor MiG-25 «Foxbat» desde el Lejano Oriente soviético hasta el aeropuerto civil de Hakodate, en la isla japonesa de Hokkaido. Era la primera vez que Occidente podía examinar de cerca el caza más temido del arsenal soviético: el Director de la CIA, George H. W. Bush, lo calificó como una «bonanza de inteligencia».</p>
 <p>Belenko pidió asilo político en Estados Unidos y lo obtuvo. La aeronave fue desmontada y estudiada a fondo por especialistas japoneses y estadounidenses, que descubrieron que el Foxbat no era el «supercaza» que Occidente había temido, y devuelta a la Unión Soviética en treinta cajones. El piloto se convirtió en ciudadano estadounidense, trabajó como consultor aeronáutico y falleció en 2023.</p>
 </div>
 
@@ -62,7 +62,7 @@ Las deserciones de pilotos del bloque soviético tenían tradición: en 1953, do
 - **Aterrizaje:** con el combustible casi agotado, Belenko localiza el aeropuerto de Hakodate, al sur de Hokkaido, y lo rodea tres veces. En la aproximación casi choca con un Boeing 727 que despegaba. La pista es corta para el interceptor: despliega el paracaídas de frenado, el neumático del tren delantero revienta y el avión se detiene 240 metros más allá del umbral, ante la antena del localizador, con unos 30 segundos de combustible.
 - **Hacia las 14:10:** Belenko dispara su pistola de servicio al aire para mantener a distancia a los curiosos; la policía llega, cierra el aeropuerto y lo detiene por violar el espacio aéreo japonés y por tenencia de arma. Ante los interrogadores pide asilo político en Estados Unidos.
 - **7–9 de septiembre de 1976:** trasladado a Tokio, el 8 de septiembre Washington anuncia la concesión del asilo; al día siguiente un funcionario de la embajada soviética intenta convencerlo de que regrese, sin éxito, y esa misma noche Belenko vuela a Estados Unidos en un vuelo de Northwest Orient.
-- **Septiembre de 1976:** especialistas japoneses y estadounidenses examinan el avión; el 25 de septiembre un C-5 Galaxy de la Fuerza Aérea de los Estados Unidos lo traslada de Hakodate a la base de Hyakuri, donde se desmonta y estudia a fondo.
+- **Septiembre de 1976:** especialistas japoneses y estadounidenses examinan el avión; el 25 de septiembre un transporte pesado C-5 Galaxy de la USAF lo traslada de Hakodate a la base de Hyakuri, donde se desmonta y estudia a fondo.
 - **2 de octubre de 1976:** Japón anuncia la devolución del aparato en cajones desde el puerto de Hitachi y factura a la URSS 40.000 dólares por el embalaje y los daños en la pista de Hakodate. Moscú exige recogerlo con un Antonov An-22; Tokio se niega y la URSS acepta las condiciones el 22 de octubre.
 - **15 de noviembre de 1976:** el avión sale de Hitachi en 30 cajones a bordo del carguero soviético *Taigonos* y llega a Vladivostok unos tres días después. Los técnicos soviéticos denuncian 20 piezas faltantes, entre ellas el material fílmico del vuelo, y reclaman a Japón 10 millones de dólares; ninguna de las dos facturas llegó a pagarse.
 - **14 de octubre de 1980:** el presidente Jimmy Carter firma la ley privada 96-62, que concede la ciudadanía estadounidense a Belenko.
@@ -82,7 +82,7 @@ La deserción generó una crisis a tres bandas entre Japón, la Unión Soviétic
 
 Cincuenta años después del aterrizaje en Hakodate, la deserción de Belenko sigue siendo uno de los episodios más célebres de la Guerra Fría y un caso de estudio sobre el valor de la inteligencia técnica. La Unión Soviética endureció sus medidas antideserción y desarrolló el MiG-25PD y, más adelante, el MiG-31; Occidente corrigió sus estimaciones sobre el Foxbat. El propio Belenko coescribió su autobiografía, *MiG Pilot* (1980), trabajó como consultor aeronáutico y falleció en 2023.
 
-Hoy un MiG-25RB de la misma familia se exhibe en el Museo Nacional de la Fuerza Aérea de los Estados Unidos, recordando al avión que Occidente tardó doce años en ver de cerca, y que un piloto entregó en una tarde sobre una pista civil japonesa.
+Hoy un MiG-25RB de la misma familia se conserva en el recinto museístico de la Fuerza Aérea en Wright-Patterson (Dayton), recordando al avión que Occidente tardó doce años en ver de cerca, y que un piloto entregó en una tarde sobre una pista civil japonesa.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -109,7 +109,7 @@ Hoy un MiG-25RB de la misma familia se exhibe en el Museo Nacional de la Fuerza 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-31 07:07:06 CST
+- **Timestamp de verificación:** 2026-10-07 17:10:00 CST
 - **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force (ficha del MiG-25); Association for Diplomatic Studies and Training (historia oral de Nicholas Platt)
 - **Fuentes secundarias de contraste:** Wikipedia (artículos «Defection of Viktor Belenko» y «Viktor Belenko»); *The Telegraph* (obituario, 2023); 19FortyFive (2026)
 - **Discrepancias resueltas:** número de disparos de advertencia tras el aterrizaje; base de desmontaje del avión (Hyakuri frente a Chitose); grado militar (Teniente frente a teniente primero).

@@ -56,7 +56,7 @@ El desafío tenía nombre y dueño desde 1959, cuando el industrial británico H
 
 ## Desarrollo Cronológico
 
-- **1959:** Henry Kremer instituye el premio que lleva su nombre, administrado por la Royal Aeronautical Society, para el primer vuelo de propulsión humana que complete un circuito en ocho entre dos postes separados por media milla, salvando una barrera de tres metros al comienzo y al final.
+- **1959:** Henry Kremer instituye el galardón que lleva su nombre para el primer avión de propulsión muscular que complete un recorrido en ocho entre dos postes distantes media milla, franqueando un listón de tres metros en el despegue y antes del aterrizaje.
 - **1973:** ante la falta de candidatos con éxito, Kremer eleva la dotación a 50.000 libras y suprime la restricción de nacionalidad. Se contabilizarían más de cincuenta intentos oficiales antes de que alguien lo consiguiera.
 - **Mediados de los setenta:** Paul MacCready, campeón mundial de vuelo a vela y fundador de AeroVironment, se interesa por el problema. Observando el vuelo de los buitres concibe la idea rectora: construir un avión tan grande y tan ligero que vuele muy despacio, aunque su resistencia aerodinámica sea alta.
 - **Primera versión, Pasadena:** un aparato de concepto que voló una sola vez, en el aparcamiento del Rose Bowl.
@@ -85,7 +85,7 @@ El Condor no fue un final, sino el primer eslabón de una cadena. Menos de dos a
 
 De la misma raíz salió después la aviación solar. Sustituir al ciclista por células fotovoltaicas resultó natural en un avión que apenas necesitaba potencia, y de ahí nacieron el Gossamer Penguin y el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1981/07/07/solar-challenger-cruce-canal.html" style="color: #315fea; text-decoration: none;">Solar Challenger, que cruzó el Canal impulsado solo por el sol</a>. Esa línea desembocó, ya en los años noventa, en los aviones no tripulados de gran altitud Pathfinder y Helios que AeroVironment desarrolló para la NASA, capaces de permanecer en vuelo a decenas de miles de pies alimentados exclusivamente por energía solar.
 
-Queda además una lección de método que trasciende la aeronáutica. El equipo de MacCready ganó un premio que llevaba dieciocho años sin dueño no porque dispusiera de más medios que sus rivales, sino porque construyó un avión tan barato y tan fácil de reparar que podía permitirse romperlo. Mientras otros equipos tardaban meses en rehacer una estructura de madera, el Condor volaba de nuevo en pocas horas gracias al tubo de aluminio y la cinta adhesiva. Aquella capacidad de equivocarse deprisa —223 vuelos hasta el bueno— fue tan decisiva como la envergadura del ala.
+Queda además una lección de método que trasciende la aeronáutica. El equipo de MacCready conquistó el trofeo no por disponer de mayores recursos que sus rivales, sino por concebir una estructura de tubo de aluminio y cinta adhesiva tan sencilla de reparar que permitía aprender de cada accidente en cuestión de horas: aquella capacidad de iterar rápido —223 vuelos hasta el definitivo— resultó tan decisiva como la envergadura del ala.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -111,7 +111,7 @@ Queda además una lección de método que trasciende la aeronáutica. El equipo 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 14:40:00 CST  
+- **Timestamp de verificación:** 2026-10-07 17:14:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum; California Office of Historic Preservation; NASA Armstrong Flight Research Center; AeroVironment; Caltech Magazine  
 - **Fuentes secundarias de contraste:** WIRED; documentación sobre los premios Kremer  
 - **Discrepancias resueltas:** duración del vuelo —7 min 27,5 s según el Smithsonian, frente a 6 min 22 s en la placa del hito histórico de California—; se explica en la nota aclaratoria que la segunda cifra corresponde al circuito y la primera al vuelo completo. Denominación del lugar: las fuentes alternan «Shafter Airport» y «Minter Field», nombres del mismo aeródromo del condado de Kern.  

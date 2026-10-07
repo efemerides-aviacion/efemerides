@@ -6,7 +6,7 @@ categories: [accidente]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: American Airlines
-excerpt: "El 25 de mayo de 1979, el vuelo 191 de American Airlines, un McDonnell Douglas DC-10-10, se estrelló segundos después de despegar del aeropuerto O'Hare de Chicago. La pérdida del motor izquierdo por un mantenimiento deficiente provocó la muerte de 273 personas, convirtiéndose en el accidente aéreo más letal en la historia de Estados Unidos."
+excerpt: "En la tarde del 25 de mayo de 1979, un McDonnell Douglas DC-10-10 que cubría el servicio 191 de American Airlines se estrelló segundos después de despegar del aeropuerto O'Hare de Chicago. La pérdida del motor izquierdo por un mantenimiento deficiente provocó la muerte de 273 personas, convirtiéndose en el accidente aéreo más letal en la historia de Estados Unidos."
 image: 1979-05-25-accidente-vuelo-191-american-airline.webp
 ---
 
@@ -18,7 +18,7 @@ image: 1979-05-25-accidente-vuelo-191-american-airline.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 25 de mayo de 1979, el vuelo 191 de American Airlines, un McDonnell Douglas DC-10-10 (matrícula N110AA) con 258 pasajeros y 13 tripulantes, despegó de la pista 32R del aeropuerto O'Hare de Chicago con destino a Los Ángeles. Durante la rotación, el motor número 1 (izquierdo) y su pilón se separaron del ala, volcando sobre ella y cayendo a la pista. La aeronave continuó ascendiendo hasta unos 325-350 pies (99-107 metros) de altura, pero la pérdida del motor había dañado el borde de ataque del ala izquierda y había cortado las líneas hidráulicas que mantenían extendidos los slats (dispositivos hipersustentadores). Sin esa presión, los slats exteriores del ala izquierda se retrajeron por la fuerza del aire, aumentando la velocidad de entrada en pérdida de ese lado mientras el ala derecha seguía generando sustentación normal. La aeronave entró en pérdida asimétrica, se inclinó 112 grados hacia la izquierda y se estrelló en un campo abierto a 1.400 metros del final de la pista, chocando contra un hangar abandonado e incendiándose. Murieron los 271 ocupantes y dos personas en tierra, totalizando 273 víctimas, la cifra más alta en un accidente aéreo individual en la historia de Estados Unidos.</p>
+<p>En la tarde del 25 de mayo de 1979, el McDonnell Douglas DC-10-10 matrícula N110AA que operaba el servicio 191 de American Airlines con 258 pasajeros y 13 tripulantes despegó de la pista 32R del aeropuerto O'Hare de Chicago con destino a Los Ángeles. Durante la rotación, el motor número 1 (izquierdo) y su pilón se separaron del ala, volcando sobre ella y cayendo a la pista. La aeronave continuó ascendiendo hasta unos 325-350 pies (99-107 metros) de altura, pero la pérdida del motor había dañado la sección frontal de la semiala izquierda y había cortado las líneas hidráulicas que mantenían extendidos los slats (dispositivos hipersustentadores). Sin esa presión, los slats exteriores del ala izquierda se retrajeron por la fuerza del aire, aumentando la velocidad de entrada en pérdida de ese lado mientras el ala derecha seguía generando sustentación normal. La aeronave entró en pérdida asimétrica, se inclinó 112 grados hacia la izquierda y se estrelló en un campo abierto a 1.400 metros del final de la pista, chocando contra un hangar abandonado e incendiándose. Murieron los 271 ocupantes y dos personas en tierra, totalizando 273 víctimas, la cifra más alta en un accidente aéreo individual en la historia de Estados Unidos.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -62,69 +62,27 @@ El accidente recibió una cobertura mediática sin precedentes. Una fotografía 
 
 ## Desarrollo Cronológico
 
-- **25 de mayo de 1979, 14:50 CDT:** El vuelo 191 recibe autorización para rodar hasta la pista 32R.
-- **15:02 CDT:** La aeronave inicia la carrera de despegue.
-- **Durante la rotación (aproximadamente 15:04):** El motor número 1 y su pilón se separan del ala izquierda. El supervisor de mantenimiento Robert Graham, que observaba desde tierra, declaró: *"El motor subió por encima del ala y rodó hacia atrás hasta la pista... No golpeó la parte superior del ala; más bien siguió la trayectoria clara del flujo de aire, hacia arriba y sobre la parte superior del ala, luego por debajo de la cola"*.
-- **Inmediatamente después:** La separación del motor corta las líneas hidráulicas que controlan los slats del ala izquierda y daña un tramo de 1 metro del borde de ataque. También falla el bus eléctrico número 1, dejando inoperativos los instrumentos del capitán, el sistema de alerta de pérdida (stick shaker) y el indicador de discrepancia de slats.
-- **La cabina:** El primer oficial vuela la aeronave (el capitán no tenía director de vuelo operativo). La grabadora de voz de cabina (CVR) se apaga al perderse la potencia eléctrica. El único sonido audible es un golpe sordo seguido de la exclamación *"¡Maldición!" (Damn!)* del primer oficial.
-- **Ascenso:** El primer oficial sigue los comandos del director de vuelo y eleva el morro a 14°, reduciendo la velocidad de 165 nudos (306 km/h) a la velocidad de seguridad V2 de 153 nudos (283 km/h), tal como exige el procedimiento de emergencia para fallo de motor.
-- **Retracción de slats:** Al perder presión hidráulica, los slats exteriores del ala izquierda se retraen bajo la fuerza del aire. Esto eleva la velocidad de pérdida del ala izquierda a 159 nudos (294 km/h), 6 nudos por encima de la V2 a la que vuela la aeronave. El ala izquierda entra en pérdida aerodinámica mientras el ala derecha continúa generando sustentación normal.
-- **La caída:** La aeronave comienza a inclinarse bruscamente hacia la izquierda. La inclinación alcanza los 112 grados (prácticamente invertida).
-- **Impacto:** El DC-10 se estrella en un campo abierto junto a un parque de remolques, chocando contra un hangar abandonado del antiguo Aeropuerto Ravenswood. Los tanques de combustible, que contenían 79.000 litros (21.000 galones) de combustible, explotan al impactar.
-- **Inmediatamente después:** El calor del fuego es tan intenso que los bomberos no pueden acercarse durante casi una hora. No hay sobrevivientes.
-
-### La Investigación y el Mantenimiento Deficiente
-
-La investigación de la NTSB determinó que la causa del accidente fue el mantenimiento inadecuado del pilón del motor número 1, realizado ocho semanas antes del siniestro. Este mantenimiento, que utilizaba un procedimiento no autorizado por McDonnell Douglas, causó una fractura por fatiga que pasó desapercibida durante las inspecciones posteriores y creció hasta la falla catastrófica ocurrida durante el despegue.
-
-### El origen del daño estructural
-
-Ocho semanas antes del accidente, entre el 29 y 30 de marzo de 1979, la aeronave N110AA había sido sometida a un mantenimiento programado en las instalaciones de American Airlines en Tulsa, Oklahoma. El procedimiento estándar recomendado por McDonnell Douglas para reemplazar los cojinetes esféricos del pilón requería desmontar primero el motor del pilón, y luego el pilón del ala. Sin embargo, American Airlines (junto con Continental Airlines) había desarrollado un procedimiento alternativo: **retirar el motor y el pilón como una sola unidad**, lo que ahorraba unas 200 horas de trabajo por aeronave y reducía el número de desconexiones de sistemas (líneas hidráulicas, combustibles, cables eléctricos) de 79 a 27.
-
-El problema es que este procedimiento era mucho más riesgoso. Para sostener el conjunto de 18.500 libras (8.400 kg) se utilizaba una montacargas hidráulica (forklift). Los operadores de la montacargas no podían ver directamente la unión entre el pilón y el ala; se guiaban solo por señales de mano y voz. El posicionamiento debía ser milimétrico, o se podía producir daño estructural.
-
-### La pausa para almorzar que selló la tragedia
-
-Según la investigación de TIME Magazine, los mecánicos que trabajaban en la aeronave **dejaron el motor y el pilón suspendidos en la montacargas mientras almorzaban**. Cuando regresaron, el conjunto se había desplazado imperceptiblemente hacia abajo aproximadamente un cuarto de pulgada (0,64 centímetros) debido a la pérdida natural de presión hidráulica mientras el motor de la montacargas estaba apagado. Para reajustar el conjunto, los mecánicos tuvieron que usar fuerza bruta, probablemente dañando la brida superior del mamparo trasero del pilón. La grieta era tan minúscula que no fue detectada en las inspecciones posteriores, pero creció con cada ciclo de despegue y aterrizaje durante las ocho semanas siguientes hasta que finalmente falló.
-
-### Fallas en múltiples DC-10
-
-La investigación reveló que el problema no era aislado. Se inspeccionaron 138 DC-10 en servicio en Estados Unidos y se encontraron defectos en los pilones de 36 de ellos. En un DC-10 de United Airlines, dos mecánicos encontraron **27 sujetadores (pernos) rotos o faltantes** que sostenían parte del pilón, y el propio pilón estaba suelto.
-
-### El suicidio del mecánico
-
-Earl Russell Marshall, uno de los mecánicos de American Airlines que había participado en el mantenimiento del N110AA, **se suicidó la noche anterior a ser interrogado por los abogados** durante las investigaciones del accidente. Este trágico hecho añadió un elemento humano desgarrador a la ya devastadora historia.
-
-### La Inmovilización de la Flota DC-10
-
-El 6 de junio de 1979, apenas 12 días después del accidente, la Administración Federal de Aviación (FAA) ordenó la **inmovilización de todos los DC-10 en servicio en Estados Unidos**. Fue la primera vez en la historia que la FAA inmovilizaba por completo una flota de aviones comerciales. La medida afectó a 138 aeronaves, que representaban aproximadamente el 12% de la capacidad de pasajeros del país.
-
-Airlines como World Airways, que cubría la ruta Nueva York-Los Ángeles exclusivamente con seis DC-10, tuvieron que cesar sus operaciones. La inmovilización provocó una reacción en cadena a nivel internacional: UTA (Francia), Lufthansa (Alemania Occidental), Japan Airlines, Iberia (España), Alitalia (Italia), British Caledonian (Reino Unido), SAS (Suecia), Varig (Brasil), Aeroméxico, Viasa (Venezuela) y otras aerolíneas suspendieron voluntariamente el servicio de sus DC-10.
-
-La medida se levantó 37 días después, el 13 de julio de 1979, tras implementarse inspecciones más rigurosas y modificaciones en los pilones.
+- **29–30 de marzo de 1979 (mantenimiento previo):** Ocho semanas antes del siniestro, la aeronave `N110AA` pasa por la base de mantenimiento de American Airlines en Tulsa (Oklahoma) para sustituir los cojinetes esféricos del pilón del motor número 1. En lugar del procedimiento de McDonnell Douglas —que exigía desmontar primero el motor y después el pilón—, los técnicos aplican un método abreviado que retira el conjunto propulsor y su soporte subalar unidos (8.400 kg) mediante una carretilla elevadora hidráulica (*forklift*), ahorrando unas 200 horas de mano de obra. Durante el relevo de turno, la pérdida de presión hidráulica de la montacargas desalinea el conjunto y la brida superior del mamparo trasero del pilón sufre una fractura de unos 25 cm que crece por fatiga en los vuelos siguientes.
+- **25 de mayo de 1979, 14:50–15:02 CDT:** El vuelo 191 rueda hacia la pista 32R de Chicago-O'Hare e inicia la carrera de despegue al mando del Capitán Walter Lux (53 años, 22.500 h), con el Primer Oficial James Dillard (49 años) a los controles y el Ingeniero de Vuelo Alfred Udovich (56 años).
+- **Rotación (15:03:58 CDT):** Justo antes de levantar el morro, superada ya la velocidad de decisión $V_1$, el conjunto del motor número 1 y su pilón se desprende del ala izquierda, bascula por encima del extradós y cae sobre la pista. La ruptura secciona un metro del borde de ataque, corta los conductos hidráulicos de los *slats* exteriores izquierdos y desconecta el bus eléctrico número 1, dejando sin alimentación los instrumentos del comandante, el vibrador de columna (*stick shaker*, instalado solo en el puesto izquierdo) y la luz de aviso de asimetría de *slats*, además de interrumpir la grabadora de voz de cabina.
+- **Ascenso y retracción asimétrica:** Sin vista directa hacia el ala desde la cabina y siguiendo el protocolo estándar de fallo de motor, Dillard lleva el avión a la actitud recomendada de 14° de cabeceo, desacelerando de 165 nudos a la velocidad de seguridad de despegue $V_2$ (`153` nudos). Privados de presión hidráulica y carentes de bloqueo mecánico en el diseño del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1970/08/29/primer-vuelo-dc10.html" style="color: #315fea; text-decoration: none;">McDonnell Douglas DC-10</a>, los *slats* exteriores del ala izquierda se retraen por la carga aerodinámica, elevando la velocidad de pérdida de esa semiala a `159` nudos.
+- **Pérdida e impacto (15:04:29 CDT):** Tras alcanzar entre 325 y 350 pies de altura, el ala izquierda entra en pérdida brusca; el trirreactor alabea sin control hasta alcanzar 112 grados de inclinación y, 31 segundos después del desprendimiento del motor, se precipita a 1.400 metros de la cabecera sobre los terrenos del antiguo aeródromo Ravenswood en Des Plaines, junto a un parque de casas rodantes. El estallido de los 79.000 litros de queroseno causa la muerte instantánea de los 271 ocupantes y de dos trabajadores en tierra.
+- **6 de junio al 13 de julio de 1979:** Tras detectarse grietas similares en los pilones de otros DC-10 inspeccionados, la FAA revoca temporalmente el certificado de tipo y ordena inmovilizar en tierra los 138 DC-10 estadounidenses durante 37 días, medida secundada por aerolíneas europeas, asiáticas y latinoamericanas.
+- **21 de diciembre de 1979:** La NTSB publica su informe final (`AAR-79-17`), exonerando a la tripulación y atribuyendo la catástrofe al daño inducido durante el mantenimiento con carretilla elevadora y a la vulnerabilidad del sistema de *slats* y advertencias de cabina.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
-- **Legislación y regulación:** El accidente condujo a reformas significativas en los procedimientos de mantenimiento de aeronaves y en la supervisión de la FAA. Se exigió que los sistemas de alerta de pérdida (stick shakers) fueran instalados tanto para el capitán como para el primer oficial en todos los aviones comerciales.
-- **Modificaciones en el DC-10:** Se instalaron válvulas de retención en el sistema hidráulico de los slats para evitar que se retrajeran en caso de pérdida de presión. Estas válvulas se conocieron como "válvulas de retorno de slats" o "válvulas de alivio de slats".
-- **Multa a American Airlines:** La aerolínea fue multada con 500.000 dólares (equivalentes a 1,3 millones de dólares de 2019) por procedimientos de mantenimiento inadecuados.
-- **Demandas millonarias:** Las familias de las víctimas presentaron demandas contra American Airlines y McDonnell Douglas. Se estima que las reclamaciones de seguros superaron los 100 millones de dólares.
-- **El DC-10 en la cultura popular:** El accidente del vuelo 191 contribuyó a la mala reputación del DC-10, apodado por la prensa como el "avión villano". Aunque el DC-10 continuó volando durante décadas (el último vuelo de pasajeros en Estados Unidos fue en 2014), el accidente de Chicago sigue siendo el más letal en la historia de la aviación estadounidense.
+- **Reforma de la supervisión de mantenimiento:** La FAA prohibió desmontar e instalar el conjunto motor-pilón como una sola pieza e impuso controles más estrictos sobre las alteraciones de los manuales del fabricante; American Airlines recibió una sanción de 500.000 dólares.
+- **Rediseño de sistemas en el DC-10:** Se instalaron válvulas de alivio y retención hidráulica para impedir la retracción involuntaria de los *slats* y se obligó a dotar a ambos puestos de pilotaje de avisadores de pérdida (*stick shakers*) y alimentación eléctrica redundante.
+- **Primera paralización total de una flota de fuselaje ancho:** La suspensión del certificado del DC-10 durante cinco semanas sacudió el transporte aéreo mundial —que dependía de ese modelo para el 12 % de la capacidad doméstica estadounidense— y precipitó el cierre de operadores como World Airways en sus rutas regulares.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
-El vuelo 191 de American Airlines sigue siendo el accidente aéreo individual más mortífero en la historia de Estados Unidos, con 273 víctimas fatales. La tragedia transformó la industria de la aviación comercial de varias maneras:
-
-- **Cambios en la gestión de recursos de cabina (CRM):** El accidente demostró que incluso los pilotos más capacitados pueden verse desbordados por fallos mecánicos complejos y falta de información. Contribuyó al desarrollo de programas de entrenamiento en gestión de recursos de cabina.
-- **Revisión de los manuales de mantenimiento:** Se prohibieron los procedimientos de mantenimiento no autorizados por el fabricante. La FAA reforzó su supervisión de las prácticas de mantenimiento de las aerolíneas.
-- **Redundancia en sistemas críticos:** Se exigieron sistemas de advertencia redundantes para alertar a los pilotos sobre condiciones de pérdida y discrepancia de slats.
-- **Memoria de las víctimas:** En 2009, con motivo del 30 aniversario, se colocó una placa conmemorativa en el lugar del accidente. Los restos de las víctimas que no pudieron ser identificadas por las limitaciones tecnológicas de la época (no existían las pruebas de ADN) fueron enterrados en una fosa común en el cementerio local, sobre la cual los familiares colocaron una placa en memoria de las 273 víctimas.
-
-El accidente también mostró cómo una pequeña grieta en una pieza aparentemente insignificante (un perno de 7,6 centímetros de largo y 0,95 centímetros de diámetro) puede desencadenar una catástrofe cuando se combina con fallas sistémicas en procedimientos y supervisión.
+Con 273 víctimas mortales, el vuelo 191 de American Airlines continúa siendo el accidente de una sola aeronave más mortífero de la historia de Estados Unidos. Su investigación se estudia como ejemplo clásico de cómo un atajo de mantenimiento en el hangar —una grieta inicialmente invisible en la brida del pilón— puede combinarse con la falta de redundancia en las alertas de cabina hasta situar a una tripulación experimentada ante una condición de pérdida irrecuperable a baja cota. En 2011 se inauguró en Lake Park (Des Plaines) un monumento conmemorativo con los nombres de las 273 víctimas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -144,18 +102,14 @@ El accidente también mostró cómo una pequeña grieta en una pieza aparentemen
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
-  <p><strong>Notas aclaratorias:</strong></p>
-  <p><strong>1. Cifras de víctimas:</strong> Todas las fuentes coinciden en 271 ocupantes a bordo (258 pasajeros + 13 tripulantes) y 2 víctimas en tierra, totalizando 273 fallecidos. Sin embargo, algunas fuentes mencionan inicialmente 277 pasajeros , lo que parece ser un error de redondeo o confusión con el número de víctimas totales. El informe oficial de la NTSB confirma 271 a bordo.</p>
-  <p><strong>2. La pausa para almorzar:</strong> El detalle de que los mecánicos dejaron el motor suspendido durante la pausa para almorzar proviene del artículo de TIME Magazine de 1979 , y ha sido citado en múltiples fuentes secundarias como un factor clave en el desplazamiento que causó el daño estructural.</p>
-  <p><strong>3. El suicidio del mecánico:</strong> La información sobre el suicidio de Earl Russell Marshall proviene de fuentes periodísticas en español  y no está presente en el informe oficial de la NTSB. Aunque es un dato relevante para entender el drama humano detrás del accidente, debe considerarse como una información no verificada en fuentes institucionales. Se incluye en la nota aclaratoria para ser transparente sobre su origen.</p>
-  <p><strong>4. V1 (velocidad de decisión):</strong> La aeronave había superado la velocidad V1 antes de la separación del motor, lo que significa que el piloto estaba comprometido a continuar el despegue y no podía abortar. El informe de la NTSB señala que la tripulación actuó de acuerdo con los procedimientos establecidos y que la decisión de continuar fue correcta dadas las circunstancias.</p>
+  <p><strong>Notas aclaratorias:</strong> El informe oficial de la NTSB (<code>AAR-79-17</code>) confirma 271 ocupantes fallecidos a bordo (258 pasajeros y 13 tripulantes) y dos víctimas mortales en tierra (273 en total), frente a menciones aisladas de 277 en crónicas de prensa. El detalle sobre la pérdida de presión hidráulica de la montacargas durante el cambio de turno procede del reportaje de <em>TIME Magazine</em> de 1979, mientras que las referencias periodísticas al suicidio posterior del mecánico Earl Russell Marshall no forman parte del expediente técnico de la NTSB. Asimismo, la junta investigadora subrayó que la separación del motor ocurrió superada la velocidad de decisión $V_1$ y que la tripulación ejecutó rigurosamente los procedimientos prescritos con la información de que disponía en cabina.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 13:47:23 CST  
+- **Timestamp de verificación:** 2026-10-07 17:20:00 CST  
 - **Fuentes primarias/institucionales consultadas:** NTSB (informe oficial AAR-79-17), TIME Magazine (artículos de 1979), Wikipedia (EN/ES), La Opinión, Infobae
 - **Discrepancias resueltas:** Confirmación del número de víctimas (273 total) frente a variantes menores (277 en algunas fuentes periodísticas). Verificación de la secuencia exacta del accidente y la altitud máxima (325-350 pies) mediante el informe de la NTSB.
 - **Nivel de confianza:** Alto (fuentes institucionales y de prensa contemporánea coinciden en los datos fundamentales)
