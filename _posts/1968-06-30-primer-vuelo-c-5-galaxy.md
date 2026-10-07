@@ -42,7 +42,7 @@ image: 1968-06-30-primer-vuelo-c-5-galaxy.webp
 A mediados de la década de 1960, la doctrina de defensa de los Estados Unidos requería un cambio radical en sus capacidades de transporte de tropas y pertrechos a nivel global. El Comando de Movilidad Aérea se enfrentaba al reto de proyectar fuerzas militares masivas y vehículos pesados (como tanques y puentes móviles) a cualquier rincón del planeta de manera casi instantánea, superando el alcance de los antiguos aviones C-141 Starlifter.
 
 ### Entorno social
-La sociedad estadounidense de finales de los años sesenta se encontraba profundamente dividida por la escalada de la guerra de Vietnam y las tensiones sociopolíticas internas. En este ambiente de la Guerra Fría, los programas de adquisición de armamento de gran envergadura eran objeto de intensas controversias públicas debido a la escalada de costos y la asignación de recursos estatales a proyectos militares colosales.
+La opinión pública norteamericana en las postrimerías de la década de 1960 se encontraba profundamente dividida por la escalada de la guerra de Vietnam y las tensiones sociopolíticas internas. En este ambiente de la Guerra Fría, los programas de adquisición de armamento de gran envergadura eran objeto de intensas controversias públicas debido a la escalada de costos y la asignación de recursos estatales a proyectos militares colosales.
 
 ### Entorno tecnológico
 En el plano de la ingeniería aeroespacial, el diseño del C-5 Galaxy representó un salto tecnológico cuántico gracias a innovaciones mecánicas sin precedentes. El nacimiento de los motores turbofán de alta derivación como el General Electric TF39 permitió, por primera vez, generar un empuje descomunal con una eficiencia de combustible excepcional, haciendo posible el vuelo de una aeronave de más de trescientas cincuenta toneladas de peso.
@@ -105,10 +105,9 @@ A más de cincuenta años de su primer vuelo, el Lockheed C-5 Galaxy continúa s
 
 ## Metadatos de Control
 
-Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica presentada, se establecen los siguientes metadatos editoriales:
-
-- **Timestamp de verificación:** 2026-09-17 18:04:14 CST  
-- **Fuentes primarias/institucionales consultadas:** Archivos técnicos de ingeniería de Lockheed Martin, registros de vuelos de prueba de la planta de Marietta de 1968, documentos de la USAF de control de adquisiciones de motores General Electric TF39, base de datos del National Museum of the United States Air Force y artículos históricos de Code One Magazine
-- **Discrepancias resueltas:** Los motores figuran como TF34 en algunas fuentes secundarias y como TF39-GE-1C de General Electric, de alta derivación, en la documentación histórica; se adoptan estos últimos. Asimismo, se unificó la tripulación a bordo durante el primer vuelo (cinco tripulantes de prueba de Lockheed y la USAF frente a los siete habituales de servicio operativo descritos en algunas fuentes generales).
+- **Timestamp de verificación:** 2026-10-07 16:10:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Lockheed Martin (archivos de Marietta, 1968), USAF, National Museum of the United States Air Force y *Code One Magazine*.
+- **Fuentes secundarias de contraste:** Wikipedia (ES), *This Day in Aviation*, *On the Wings*, *Fused Learning*.
+- **Discrepancias resueltas:** Se adoptaron los cuatro turbofán de alta derivación General Electric TF39-GE-1C frente a la mención errónea de motores TF34 en algunas fuentes secundarias, y se precisó la nómina de cinco tripulantes de prueba del vuelo inaugural frente a la dotación operativa estándar de siete miembros.
 - **Nivel de confianza:** Alto
-- **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -52,7 +52,7 @@ La Fuerza Aérea de Israel contaba con unos 200 aviones de combate, principalmen
 
 ### Entorno cultural
 
-La Operación Focus se convirtió en un hito en la historia de la aviación militar, estudiada en academias militares de todo el mundo. Demostró la eficacia del ataque preventivo. Israel, que enfrentaba una crisis existencial, decidió no esperar a ser atacado. El éxito de la operación reforzó la doctrina de seguridad israelí: la Fuerza Aérea sería el brazo decisivo para ganar guerras futuras. La frase "No by the Air Force Alone" (No solo por la Fuerza Aérea) refleja la colaboración entre la IAF y las fuerzas terrestres en la guerra.
+La Operación Focus se convirtió en un hito en la historia de la aviación militar, analizada desde entonces por los estados mayores internacionales. Demostró la eficacia del ataque preventivo. Israel, que enfrentaba una crisis existencial, decidió no esperar a ser atacado. El éxito de la operación reforzó la doctrina de seguridad israelí: la Fuerza Aérea sería el brazo decisivo para ganar guerras futuras. La frase "No by the Air Force Alone" (No solo por la Fuerza Aérea) refleja la colaboración entre la IAF y las fuerzas terrestres en la guerra.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -69,7 +69,7 @@ La Operación Focus se convirtió en un hito en la historia de la aviación mili
 
 ### Las Aeronaves de la Operación Focus
 
-La Operación Focus involucró una variedad de aeronaves tanto del lado israelí como del lado árabe. A continuación se presentan los principales modelos utilizados por cada bando.
+La Operación Focus involucró una variedad de aeronaves tanto del lado israelí como del lado árabe. Seguidamente se detallan los aparatos empleados por cada fuerza aérea.
 
 ### Fuerza Aérea de Israel (IAF)
 
@@ -109,7 +109,7 @@ Un factor clave en el éxito de la Operación Focus fue la adquisición por part
 
 La Operación Focus es considerada una de las victorias aéreas más decisivas de la historia militar. En seis horas, la IAF destruyó la amenaza aérea árabe y cambió el curso de la guerra.
 
-- **Estudio en academias militares:** La operación se enseña en academias militares de todo el mundo como un ejemplo de planificación, sorpresa y ejecución.
+- **Estudio doctrinario:** La operación se analiza en las escuelas superiores de guerra de numerosos países como modelo de planificación, sorpresa y ejecución.
 - **Reputación de la IAF:** La Fuerza Aérea de Israel se ganó una reputación de excelencia y profesionalismo que mantiene hasta hoy.
 - **Lecciones aprendidas:** La importancia de la inteligencia (la "Operación Diamante"), el entrenamiento de pilotos y la cooperación interarmas.
 - **Consecuencias políticas:** El ataque preventivo, aunque exitoso militarmente, ha sido objeto de debate ético y político. Sin embargo, en el contexto de amenaza inminente, la mayoría de los historiadores lo consideran una acción defensiva necesaria.
@@ -142,7 +142,7 @@ La Operación Focus es considerada una de las victorias aéreas más decisivas d
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:50:11 CST  
+- **Timestamp de verificación:** 2026-10-07 16:07:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, Jewish Virtual Library, Smithsonian Institution, The National Interest
 - **Discrepancias resueltas:** Confirmación de la fecha (5 de junio de 1967) y hora (07:45) del inicio de la operación. Verificación de las cifras de aviones destruidos (452) y pérdidas israelíes (19-46). Aclaración de la diferencia entre ataque preventivo y ataque preemptivo, definiendo este último como "acción preventiva ofensiva".
 - **Nivel de confianza:** Alto

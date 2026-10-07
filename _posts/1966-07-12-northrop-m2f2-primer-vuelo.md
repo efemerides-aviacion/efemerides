@@ -48,7 +48,7 @@ image: 1966-07-12-northrop-m2f2-primer-vuelo.webp
 El M2-F2 nació en un momento en que la investigación aeronáutica y espacial buscaba resolver uno de los grandes problemas de la era: cómo hacer regresar una nave desde el espacio y aterrizarla con control, precisión y reutilización potencial. Frente a las cápsulas balísticas que amerizaban, el concepto de fuselaje sustentador ofrecía una alternativa más audaz y sofisticada.
 
 ### Entorno social
-A mediados de los años sesenta, el programa espacial estadounidense avanzaba en plena carrera tecnológica con la Unión Soviética. Sin embargo, más allá de los grandes lanzamientos tripulados, existía una intensa actividad experimental menos visible, dedicada a imaginar la siguiente generación de vehículos. En ese entorno, el trabajo del centro de investigación de vuelo de la NASA en Edwards buscaba soluciones prácticas para el regreso atmosférico controlado de futuras naves.
+A mediados de los años sesenta, el programa espacial estadounidense avanzaba en plena carrera tecnológica con la Unión Soviética. Sin embargo, más allá de los grandes lanzamientos tripulados, existía una intensa actividad experimental menos visible, dedicada a imaginar la siguiente generación de vehículos reutilizables. En ese entorno, la labor de las instalaciones de ensayos en vuelo de la agencia espacial en la base de Edwards, en el desierto de Mojave, buscaba soluciones prácticas y económicas para el regreso atmosférico controlado de futuras astronaves sobre pistas convencionales.
 
 ### Entorno tecnológico
 La idea central del programa lifting body consistía en que la propia forma del fuselaje generara sustentación suficiente para planear y aterrizar. Eso evitaba depender de alas convencionales, especialmente problemáticas en un vehículo sometido al calor extremo de la reentrada. Tras el éxito del pequeño y artesanal M2-F1, la NASA dio el salto a vehículos más pesados y complejos, entre ellos el M2-F2 y el HL-10, ambos construidos por Northrop.
@@ -60,7 +60,7 @@ En la cultura tecnológica de la época, estos prototipos condensaban una visió
 
 ## Desarrollo Cronológico
 
-El primer vuelo del M2-F2 fue el resultado de varios años de evolución conceptual y técnica dentro del programa de cuerpos sustentadores de la NASA.
+El vuelo inaugural del M2-F2 culminó varios años de maduración conceptual y técnica dentro del programa de cuerpos sustentadores de la NASA.
 
 - **1962-1963:** la NASA valida el concepto inicial con el ligero M2-F1, un vehículo sin alas construido para estudiar la posibilidad de aterrizajes horizontales tras reentrada.
 - **13 de abril de 1964:** la división Norair de Northrop recibe el contrato para diseñar y fabricar los dos primeros cuerpos sustentadores pesados del programa: el M2-F2 y el HL-10.
@@ -115,7 +115,7 @@ Su huella también pasó a la cultura popular. Las imágenes del accidente de Br
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-17 18:04:14 CST  
+- **Timestamp de verificación:** 2026-10-07 16:06:00 CST  
 - **Fuentes primarias/institucionales consultadas:** NASA, American Aviation Historical Society  
 - **Fuentes secundarias de contraste:** Smithsonian Magazine, Wikipedia  
 - **Discrepancias resueltas:** las fuentes redondean de forma distinta las medidas y el peso del M2-F2; se adoptan las cifras de la documentación técnica de la NASA. Se distingue entre el M2-F2 original y su reconstrucción posterior como M2-F3  

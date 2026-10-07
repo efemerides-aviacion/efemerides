@@ -47,13 +47,13 @@ image: 1967-09-07-colision-en-vuelo-tres-venom-los-caciques.webp
 
 ## Contexto Histórico
 
-El accidente pertenece a la etapa en que la FAV mantenía en servicio reactores británicos de la posguerra y los empleaba tanto en sus unidades de caza como en actividades de exhibición. El equipo «Los Caciques» operaba desde el Escuadrón de Caza C-34, integrado desde 1961 en el Grupo Aéreo de Caza N.º 12 «Grifos».
+El accidente pertenece a la etapa en que la FAV mantenía en servicio reactores británicos de la posguerra y los empleaba tanto en sus unidades de caza como en actividades de exhibición. El equipo «Los Caciques» operaba desde el Escuadrón de Caza C-34, adscrito desde 1961 al Grupo 12 «Grifos».
 
 ### Entorno social
 
-El equipo se insertaba en la vida cotidiana de una fuerza aérea en reorganización. La reorganización de 1961 reunió tres escuadrones de caza en el Grupo Aéreo de Caza N.º 12. Entre ellos se encontraba el C-34 «Caciques», antecedente institucional que también se explica en <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1961/07/27/creacion-grupo-aereo-caza-12-grifos.html" style="color: #315fea; text-decoration: none;">la efeméride de la creación del Grupo Aéreo de Caza N.º 12 «Grifos»</a>. La unidad tenía asiento en la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1955/12/09/inauguracion-base-aerea-el-libertador.html" style="color: #315fea; text-decoration: none;">Base Aérea «El Libertador»</a>, en Palo Negro.
+El equipo se insertaba en la vida cotidiana de una fuerza aérea en reorganización. La reestructuración de 1961 había reunido tres escuadrones de caza bajo una misma unidad táctica superior. Entre ellos se encontraba el C-34 «Caciques», antecedente institucional que también se explica en <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1961/07/27/creacion-grupo-aereo-caza-12-grifos.html" style="color: #315fea; text-decoration: none;">la efeméride sobre la creación del Grupo 12</a>. El escuadrón operaba desde los hangares de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1955/12/09/inauguracion-base-aerea-el-libertador.html" style="color: #315fea; text-decoration: none;">guarnición aérea de Palo Negro</a>, en Aragua.
 
-Según el relato de Fav Ven, el equipo de la temporada 1966-1967 incluía además al Capitán Florencio Hernández García, indicativo «Yoraco», cierra rombo habitual, y al Teniente Roger Blanco Castillo, indicativo «Macuto», reserva. Esa mañana no ocuparon un Venom: el cierra rombo lo voló Rubio.
+De acuerdo con la crónica de la práctica difundida por Fav Ven, la plantilla de la temporada 1966-1967 contaba asimismo con el Capitán Florencio Hernández García, indicativo «Yoraco», cierra rombo habitual, y el Teniente Roger Blanco Castillo, indicativo «Macuto», piloto de reserva. Esa mañana no ocuparon un Venom: el puesto de cola del rombo lo asumió Rubio.
 
 ### Entorno tecnológico
 
@@ -74,8 +74,8 @@ La secuencia documental permite distinguir entre los datos básicos del accident
 - **Antes del 7 de septiembre de 1967:** «Los Caciques» prepara una presentación con cinco Venom: cuatro aviones en formación de rombo y un quinto en función de «Solo».
 - **7 de septiembre de 1967:** Durante la práctica, tres Venom colisionan sobre la Base Aérea «El Libertador». Luis Hernán Paredes registra a Néstor L. Guerrero en un Venom y consigna el choque de tres aviones sobre la Base «Libertador»; ASN identifica el accidente con un Venom FB.54 de la FAV, un fallecido y dos eyectados.
 - **Formación en el aire:** Volaban Plazola como líder, González como gregario izquierdo, Dorta como gregario derecho, Rubio como cierra rombo y Guerrero como «Solo».
-- **Instantes posteriores:** El relato de Luis Miguel Gasia G. describe el contacto entre el «Solo» y la formación, seguido por una explosión y la aparición de tres paracaídas. La nota editorial de FAV-Club identifica a Guerrero como el «Solo» y señala que murió tras eyectarse. El relato de Fav Ven atribuye el impacto al eje del rombo —líder y cierra rombo— y reserva a los dos gregarios el aterrizaje.
-- **Resolución de la emergencia:** Plazola y Rubio se eyectan; González y Dorta aterrizan en la Base Aérea «El Libertador».
+- **Instantes posteriores:** El relato de Luis Miguel Gasia G. describe el contacto entre el «Solo» y la formación, seguido por una explosión y la aparición de tres paracaídas. La reseña publicada por FAV-Club precisa que Guerrero ocupaba la posición de «Solo» y que falleció después de accionar su asiento eyectable. El relato de Fav Ven atribuye el impacto al eje del rombo —líder y cierra rombo— y reserva a los dos gregarios el aterrizaje.
+- **Resolución de la emergencia:** Plazola y Rubio descienden en paracaídas tras eyectarse, mientras González y Dorta logran tomar tierra sin novedad en la pista de Palo Negro.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -122,11 +122,9 @@ La efeméride recuerda también una etapa concreta de la aviación militar venez
 
 ## Metadatos de Control
 
-La trazabilidad documental del texto queda resumida en los siguientes datos.
-
-- **Timestamp de verificación:** 2026-09-08 15:40:02 CST
-- **Fuentes primarias/institucionales consultadas:** Luis Hernán Paredes, obra histórica de la serie «Ediciones históricas FAV» (pp. 27–28); testimonio retrospectivo de Luis Miguel Gasia G. publicado por FAV-Club; relato de la práctica de Oswaldo Plazola Gilly, adaptación publicada por Fav Ven; Fundación 10 de diciembre, obituario institucional.
-- **Fuentes secundarias de contraste:** Aviation Safety Network (registro 486229, calificación CR3 y basado en fuentes no oficiales); Aeroflight (historia de la unidad y sus aeronaves); nota editorial de FAV-Club.
-- **Discrepancias resueltas:** Las fuentes presentan distinto alcance al contar las aeronaves: Paredes resume la colisión de tres aviones, mientras FAV-Club y Fav Ven describen cinco participantes —cuatro en rombo y uno en función de «Solo»—; el post conserva esa distinción. El grado de Plazola en 1967 figura como Mayor en el relato de la práctica y como Teniente Coronel en FAV-Club. El nombre del gregario izquierdo aparece como Miguel Ángel González en Fav Ven y como José Miguel Ángel González en FAV-Club. Gasia y el relato de Plazola reconstruyen la maniobra con matices distintos; ambos se mantienen como testimonios, no como dictamen causal.
+- **Timestamp de verificación:** 2026-10-07 16:08:00 CST
+- **Fuentes primarias/institucionales consultadas:** Luis Hernán Paredes (pp. 27–28); testimonio de Luis Miguel Gasia G. (FAV-Club); relato de Oswaldo Plazola Gilly (Fav Ven); obituario de la Fundación 10 de diciembre.
+- **Fuentes secundarias de contraste:** Aviation Safety Network (ficha 486229, CR3); Aeroflight (GAC 12 / C-34); nota editorial de FAV-Club.
+- **Discrepancias resueltas:** Se distinguió entre los cinco aviones participantes (rombo y «Solo») y los tres que colisionaron; se conservó el grado contemporáneo de Mayor para Plazola Gilly y el nombre completo José Miguel Ángel González; las versiones sobre la dinámica del impacto se mantuvieron como testimonios sin unificarlas en un dictamen oficial.
 - **Nivel de confianza:** Medio
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

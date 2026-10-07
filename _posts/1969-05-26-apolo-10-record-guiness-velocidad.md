@@ -48,7 +48,7 @@ Apolo 10 fue la cuarta misión tripulada del programa Apolo y la segunda en orbi
 
 ### Entorno social
 
-El año 1969 fue el clímax de la carrera espacial entre Estados Unidos y la Unión Soviética. El presidente John F. Kennedy había fijado el objetivo de "llevar un hombre a la Luna y devolverlo sano y salvo a la Tierra antes de que termine la década" en mayo de 1961. Apolo 10 representó el penúltimo paso antes de cumplir ese objetivo. La misión fue seguida con gran expectación por el público mundial, y los nombres de los personajes de la tira cómica *Peanuts* (Charlie Brown y Snoopy) utilizados como callsigns ayudaron a humanizar la misión y conectarla con la cultura popular. El propio creador de Peanuts, Charles Schulz, realizó ilustraciones especiales para la NASA.
+El año 1969 fue el clímax de la carrera espacial entre Estados Unidos y la Unión Soviética. El presidente John F. Kennedy había proclamado en mayo de 1961 la meta de depositar a un astronauta en la superficie selenita y traerlo de vuelta sano y salvo antes de concluir el decenio. Apolo 10 representó el penúltimo paso antes de cumplir ese objetivo. La misión fue seguida con gran expectación por el público mundial, y los nombres de los personajes de la tira cómica *Peanuts* (Charlie Brown y Snoopy) utilizados como callsigns ayudaron a humanizar la misión y conectarla con la cultura popular. El propio creador de Peanuts, Charles Schulz, realizó ilustraciones especiales para la NASA.
 
 ### Entorno tecnológico
 
@@ -74,7 +74,7 @@ Los astronautas de Apolo 10 se convirtieron en celebridades internacionales. Sta
 
 ### El Récord de Velocidad: Contexto Técnico
 
-El récord de velocidad de Apolo 10 se alcanzó durante la fase de retorno a la Tierra. Cuando el módulo de servicio encendió su motor para la inyección transearth (TEI), la nave espacial fue impulsada fuera de la órbita lunar y comenzó a acelerar bajo la influencia de la gravedad terrestre. Al acercarse a la Tierra, la velocidad aumentó hasta el máximo momentos antes de que la nave comenzara a desacelerar por el rozamiento atmosférico durante la reentrada.
+El récord se alcanzó durante el retorno a la Tierra. Tras el encendido del motor del módulo de servicio para la inyección transearth (TEI), la nave abandonó la órbita lunar y aceleró bajo la atracción gravitatoria terrestre, alcanzando su velocidad máxima instantes antes de iniciar la desaceleración atmosférica en la reentrada.
 
 **Comparación de velocidades de misiones lunares:**
 
@@ -82,24 +82,22 @@ El récord de velocidad de Apolo 10 se alcanzó durante la fase de retorno a la 
 - **Apolo 8:** similar (primer vuelo tripulado a la Luna)
 - **Apolo 11:** aproximadamente 39.600 km/h
 
-La velocidad de Apolo 10 fue ligeramente superior a la de otras misiones Apolo debido a la trayectoria específica utilizada y a que fue la primera misión en probar el perfil completo de vuelo lunar con el LM.
-
-**Discrepancia menor en cifras:** Algunas fuentes citan 28.547 mph (aproximadamente 45.900 km/h) , pero esta cifra se refiere probablemente a un valor diferente (quizás velocidad relativa o en un punto distinto de la trayectoria). El valor aceptado por Guinness World Records, NASA y la mayoría de las fuentes especializadas es **39.897 km/h (24.791 mph)**.
+La marca de Apolo 10 superó ligeramente a la de otras misiones del programa debido a la geometría específica de su trayectoria de retorno. Algunas fuentes secundarias citan 28.547 mph (45.900 km/h), pero el valor certificado por Guinness World Records y la NASA es **39.897 km/h (24.791 mph)**.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Consecuencias e Impacto
 
-- **Validación de la misión Apolo:** Apolo 10 demostró que todos los sistemas funcionaban correctamente en el entorno lunar. El éxito de la misión permitió que Apolo 11, solo dos meses después, pudiera intentar el primer alunizaje con confianza.
-- **Récord Guinness vigente:** El récord de velocidad tripulada sigue en pie a 57 años de la misión. Las naves espaciales que han viajado a la Luna desde entonces (Apolo 11-17) alcanzaron velocidades similares pero ligeramente inferiores. Las misiones a la Estación Espacial Internacional (aproximadamente 28.000 km/h) son más lentas. El récord solo podrá ser superado por futuras misiones tripuladas a Marte, que requerirán velocidades mucho mayores.
-- **Hitos técnicos adicionales:** Apolo 10 fue la primera misión en realizar un encuentro y acoplamiento en órbita lunar, así como la primera en volar el módulo lunar completo en el espacio.
-- **Reconocimiento a Stafford:** El Comandante Thomas P. Stafford fue condecorado por la Fuerza Aérea de EE. UU. por ostentar el récord mundial de mayor velocidad de reentrada en un vuelo espacial tripulado.
+- **Validación del perfil lunar:** Apolo 10 demostró que los sistemas de navegación, propulsión y soporte vital operaban con fiabilidad en el entorno selenita, abriendo paso al alunizaje del Apolo 11 dos meses después.
+- **Marca Guinness vigente:** Ninguna misión tripulada posterior ha superado esa velocidad; los vuelos a la Estación Espacial Internacional orbitan a unos 28.000 km/h, y solo futuras expediciones tripuladas hacia Marte requerirán velocidades de retorno superiores.
+- **Hitos técnicos adicionales:** Fue la primera misión en ejecutar un encuentro y acoplamiento en órbita lunar con el módulo lunar completo.
+- **Reconocimiento a Stafford:** El comandante Thomas P. Stafford fue distinguido por la Fuerza Aérea de EE. UU. por ostentar la mayor velocidad de reentrada en un vuelo espacial tripulado.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 
-El récord de velocidad de Apolo 10 sigue siendo un hito en la historia de la exploración espacial. A 57 años de la misión, representa la máxima velocidad a la que los seres humanos han viajado hasta la fecha, una marca que encapsula la audacia y el ingenio del programa Apolo.
+El récord de velocidad de Apolo 10 permanece como una referencia inigualada dentro de los anales de la cosmonáutica tripulada. A 57 años de la misión, representa la máxima velocidad a la que los seres humanos han viajado hasta la fecha, una marca que encapsula la audacia y el ingenio del programa Apolo.
 
 **El legado de la tripulación:**
 - **Thomas P. Stafford** (fallecido el 18 de marzo de 2024) continuó su carrera como teniente general de la Fuerza Aérea y comandó la misión Apolo-Soyuz (1975), el primer encuentro internacional en el espacio.
@@ -142,7 +140,7 @@ El récord de velocidad de Apolo 10 sigue siendo un hito en la historia de la ex
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 13:47:23 CST  
+- **Timestamp de verificación:** 2026-10-07 16:12:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Guinness World Records, NASA (Apollo 50th, Press Kit), Wikipedia (múltiples archivos), Lunar and Planetary Institute, AF.mil
 - **Discrepancias resueltas:** Confirmación de la cifra oficial de velocidad (39.897 km/h) frente a variantes menores. Verificación de la fecha exacta del récord (26 de mayo de 1969) durante la fase de retorno. Aclaración de la discrepancia de 28.547 mph.
 - **Nivel de confianza:** Alto (múltiples fuentes institucionales y Guinness World Records coinciden en los datos fundamentales)

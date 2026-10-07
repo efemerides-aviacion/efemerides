@@ -76,26 +76,18 @@ La aviación comercial gozaba de un enorme prestigio. Volar era un símbolo de p
 
 ## Consecuencias e Impacto
 
-El vuelo 742 de Viasa fue, en su momento, el peor desastre aéreo de la historia de la humanidad en términos de víctimas fatales . Su impacto fue devastador en múltiples niveles:
+El vuelo 742 de Viasa constituyó, hasta esa fecha, el siniestro de aviación con mayor número de víctimas mortales registrado en el mundo. Su impacto fue devastador en múltiples niveles:
 
 - **Humanitario:** 155 muertos y aproximadamente 100 heridos en tierra. Familias enteras de los barrios Ziruma y La Trinidad fueron aniquiladas. La comunidad marabina quedó sumida en el luto y el shock.
-- **Deportivo:** El béisbol venezolano perdió a tres de sus figuras: Antonio Herrera Gutiérrez, propietario del equipo Cardenales de Lara; Carlos Santeliz, jugador de ese mismo equipo; y Néstor "Látigo" Chávez, lanzador de los Navegantes del Magallanes y prospecto de los Gigantes de San Francisco .
-- **Infraestructura:** La tragedia fue el detonante definitivo para el cierre del Aeropuerto Grano de Oro, cuya clausura ya se discutía desde años atrás por su ubicación en pleno centro de la ciudad. A los ocho meses, en noviembre de 1969, se inauguró el nuevo Aeropuerto Internacional de La Chinita, en una zona más alejada y segura .
-- **Seguridad aérea:** El accidente puso de relieve los riesgos de operar aviones de reacción de gran porte en aeropuertos rodeados de áreas urbanas y con pistas limitadas. Las investigaciones posteriores destacaron la importancia de realizar cálculos precisos de peso y balance, así como de contar con información meteorológica fiable.
+- **Deportivo:** El béisbol venezolano perdió a tres de sus figuras: Antonio Herrera Gutiérrez, propietario del equipo Cardenales de Lara; Carlos Santeliz, jugador de ese mismo equipo; y Néstor "Látigo" Chávez, lanzador de los Navegantes del Magallanes y prospecto de los Gigantes de San Francisco.
+- **Infraestructura:** La tragedia fue el detonante definitivo para el cierre del Aeropuerto Grano de Oro, cuya clausura ya se discutía desde años atrás por su ubicación en pleno centro de la ciudad. A los ocho meses, en noviembre de 1969, se inauguró el nuevo Aeropuerto Internacional de La Chinita, en una zona más alejada y segura.
+- **Seguridad aérea:** El siniestro evidenció el peligro inherente de operar aviones de reacción de gran porte en aeropuertos rodeados de áreas urbanas y con pistas limitadas. Las investigaciones posteriores destacaron la importancia de realizar cálculos precisos de peso y balance, así como de contar con información meteorológica fiable.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
-El vuelo 742 de Viasa permanece en la memoria colectiva de Venezuela como "La tragedia de La Trinidad" o "La tragedia de Grano de Oro". Marcó un antes y un después en la aviación nacional. El cierre de Grano de Oro y el nacimiento de La Chinita son su legado más tangible. El siniestro, además, sigue siendo el accidente más mortífero en la historia del McDonnell Douglas DC-9  y, hasta el día de hoy, el segundo peor accidente aéreo en Venezuela, solo superado por el Vuelo 708 de West Caribbean en 2005 .
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre la participación de Avensa y Viasa:</strong> Una pregunta recurrente sobre esta tragedia es por qué la culpa y el recuerdo histórico han recaído casi exclusivamente en Viasa, cuando el avión era propiedad de Avensa, su mantenimiento era de Avensa y la tripulación de mando (capitán y copiloto) pertenecía a Avensa. La respuesta se encuentra en el modelo de negocio conocido como <strong>wet lease</strong> (arrendamiento con tripulación incluida).</p>
-<p>Viasa era la aerolínea de bandera venezolana autorizada para explotar rutas internacionales como la de Maracaibo-Miami. Para cubrir la creciente demanda, Viasa alquiló el DC-9 a Avensa, junto con su tripulación de vuelo (capitanes y técnicos). La tripulación de cabina (asistentes de vuelo) y, crucialmente, la comercialización del vuelo (venta de pasajes, el código de vuelo "VA742", el nombre de la ruta) correspondían a Viasa .</p>
-<p>Por lo tanto, aunque la operación técnica era de Avensa, el vuelo se ofrecía al público y a las autoridades aeronáuticas como un vuelo de Viasa. Esta es la razón por la que el accidente ha pasado a la historia como "el vuelo 742 de Viasa". La distinción legal y operativa entre propiedad y explotación comercial no siempre es clara para el público general, pero es esencial para entender las complejidades de este trágico suceso. La investigación oficial, al analizar las causas, se centró en la operación del vuelo en su conjunto, sin que la disputa sobre la propiedad diluyera las responsabilidades técnicas y humanas que confluyeron en el desastre.</p>
-</div>
+El vuelo 742 de Viasa perdura en el recuerdo histórico venezolano como "La tragedia de La Trinidad" o "La tragedia de Grano de Oro". Marcó un antes y un después en la aviación nacional. El cierre de Grano de Oro y el nacimiento de La Chinita son su legado más tangible. El suceso continúa siendo además el siniestro con mayor saldo mortal de toda la familia McDonnell Douglas DC-9 y, hasta el día de hoy, el segundo peor accidente aéreo en Venezuela, solo superado por el Vuelo 708 de West Caribbean en 2005.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -117,8 +109,16 @@ El vuelo 742 de Viasa permanece en la memoria colectiva de Venezuela como "La tr
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
+<div class="note-box">
+<p><strong>Nota aclaratoria sobre la participación de Avensa y Viasa:</strong> Una pregunta recurrente sobre esta tragedia es por qué la culpa y el recuerdo histórico han recaído casi exclusivamente en Viasa, cuando el avión era propiedad de Avensa, su mantenimiento era de Avensa y la tripulación de mando (capitán y copiloto) pertenecía a Avensa. La respuesta se encuentra en el modelo de negocio conocido como <strong>wet lease</strong> (arrendamiento con tripulación incluida).</p>
+<p>Viasa era la aerolínea de bandera venezolana autorizada para explotar rutas internacionales como la de Maracaibo-Miami. Para cubrir la creciente demanda, Viasa alquiló el DC-9 a Avensa, junto con su tripulación de vuelo (capitanes y técnicos). La tripulación de cabina (asistentes de vuelo) y, crucialmente, la comercialización del vuelo (venta de pasajes, el código de vuelo "VA742", el nombre de la ruta) correspondían a Viasa.</p>
+<p>Por lo tanto, aunque la operación técnica era de Avensa, el vuelo se ofrecía al público y a las autoridades aeronáuticas como un vuelo de Viasa. Esta es la razón por la que el accidente ha pasado a la historia como "el vuelo 742 de Viasa". La distinción legal y operativa entre propiedad y explotación comercial no siempre es clara para el público general, pero es esencial para entender las complejidades de este trágico suceso. La investigación oficial, al analizar las causas, se centró en la operación del vuelo en su conjunto, sin que la disputa sobre la propiedad diluyera las responsabilidades técnicas y humanas que confluyeron en el desastre.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Timestamp de verificación:** 2026-10-07 16:11:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN/PT), El Diario, El Zuliano Rajao, Vadeaviones, YankeeVictor400, Diario República, Diario Versión Final, Aviation Safety Network  
 - **Discrepancias resueltas:** Se aclaró en nota específica la participación de Avensa como propietaria de la aeronave y de la tripulación de vuelo, y la razón por la que el accidente es históricamente atribuido a Viasa.  
 - **Nivel de confianza:** Alto  

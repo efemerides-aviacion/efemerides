@@ -17,7 +17,7 @@ image: 1969-07-20-alunizaje-apolo11.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 20 de julio de 1969, a las 20:17:40 UTC, el módulo lunar <em>Eagle</em> del Apolo 11 alunizó en el Mar de la Tranquilidad. Horas después, Neil Armstrong se convirtió en el primer ser humano en caminar sobre la Luna, seguido por Buzz Aldrin, mientras Michael Collins permanecía en órbita lunar a bordo del módulo de mando <em>Columbia</em>. La misión culminó el objetivo proclamado por John F. Kennedy en 1961 y simbolizó la victoria tecnológica y política de Estados Unidos en la carrera espacial. El regreso seguro del 24 de julio confirmó el éxito completo de la primera expedición tripulada a la superficie lunar.</p>
+<p>El 20 de julio de 1969, a las 20:17:40 UTC, el módulo lunar <em>Eagle</em> del Apolo 11 alunizó en el Mar de la Tranquilidad. Horas después, Neil Armstrong pasó a ser la primera persona que caminó sobre la superficie selenita, seguido por Buzz Aldrin, mientras Michael Collins permanecía en órbita lunar a bordo del módulo de mando <em>Columbia</em>. La misión culminó el objetivo proclamado por John F. Kennedy en 1961 y simbolizó la victoria tecnológica y política de Estados Unidos en la carrera espacial. El regreso seguro del 24 de julio confirmó el éxito completo de la primera expedición tripulada a la superficie lunar.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Datos verificados del evento
@@ -45,7 +45,7 @@ El Apolo 11 fue la culminación de una década de aceleración tecnológica y pr
 La misión se desarrolló en un momento de intensas tensiones políticas, protestas sociales y transformaciones culturales dentro de Estados Unidos. Sin embargo, el viaje a la Luna fue presentado como una empresa nacional capaz de unificar al país y proyectar una imagen de liderazgo mundial. Millones de personas siguieron el acontecimiento por radio y televisión, convirtiéndolo en una experiencia colectiva global.
 
 ### Entorno tecnológico
-El alunizaje fue posible gracias a la maduración de tecnologías desarrolladas a lo largo de los programas Mercury, Gemini y Apollo: navegación inercial, computación embarcada, acoplamiento orbital, trajes espaciales avanzados y el cohete Saturno V, cuyas etapas viajaban por aire desde las fábricas de la costa oeste hasta los centros de lanzamiento a bordo de transportes sobredimensionados como el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1962/09/19/primer-vuelo-pregnant-guppy.html" style="color: #315fea; text-decoration: none;">Pregnant Guppy</a>. El Apolo 11 integró todos esos avances en una arquitectura compleja que debía funcionar con precisión desde el lanzamiento hasta el amerizaje final.
+El alunizaje fue posible gracias a la maduración de tecnologías desarrolladas a lo largo de los programas Mercury, Gemini y Apollo: sistemas de guiado inercial, el computador embarcado Apollo Guidance Computer (AGC) diseñado por el MIT Instrumentation Laboratory con memoria de núcleos de ferrita trenzada, radar de encuentro y descenso, trajes presurizados A7L de múltiples capas y el gigantesco lanzador Saturno V de tres etapas (S-IC, S-II y S-IVB), cuyos segmentos superiores viajaban por aire desde las fábricas de la costa oeste hasta Florida a bordo de transportes sobredimensionados como el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1962/09/19/primer-vuelo-pregnant-guppy.html" style="color: #315fea; text-decoration: none;">Pregnant Guppy</a>. El Apolo 11 integró todos esos avances —incluido el módulo lunar Grumman LM-5 <em>Eagle</em> propulsado por un motor de descenso de empuje regulable— en una arquitectura que debía operar con precisión desde el despegue hasta la reentrada.
 
 ### Entorno cultural
 La Luna había sido durante siglos un objeto de contemplación, mito y especulación científica. El Apolo 11 transformó esa relación simbólica en presencia humana real. El célebre paso de Armstrong y la expresión de Aldrin, “magnífica desolación”, condensaron el asombro de una época que veía cómo la exploración espacial dejaba de ser una aspiración teórica para convertirse en experiencia vivida.
@@ -58,15 +58,15 @@ La misión Apolo 11 se extendió durante ocho días y cada fase resultó crític
 - **25 de mayo de 1961:** John F. Kennedy fija el objetivo nacional de llevar un hombre a la Luna y devolverlo sano y salvo antes del final de la década.
 - **16 de julio de 1969, 13:32 UTC:** lanzamiento del Apolo 11 desde el Centro Espacial Kennedy a bordo del Saturno V SA-506.
 - **19 de julio de 1969:** la nave entra en órbita lunar.
-- **20 de julio de 1969, 17:44 UTC:** el módulo lunar <em>Eagle</em> se separa de <em>Columbia</em> para iniciar el descenso.
-- **20 de julio de 1969, 20:17:40 UTC:** Armstrong y Aldrin alunizan en Base Tranquilidad. La frase transmitida a Houston, “The Eagle has landed”, confirma el éxito del descenso.
-- **21 de julio de 1969, 02:56 UTC:** Neil Armstrong da el primer paso sobre la superficie lunar.
-- **Minutos después:** Buzz Aldrin se une a Armstrong en la superficie.
-- **21 de julio de 1969:** ambos astronautas despliegan instrumentos científicos, recogen muestras y realizan una única EVA de 2 horas, 31 minutos y 40 segundos.
-- **21 de julio de 1969, 17:54 UTC:** el <em>Eagle</em> despega de la Luna para reunirse con Michael Collins en órbita.
+- **20 de julio de 1969, 17:44 UTC:** el módulo lunar <em>Eagle</em> se separa de <em>Columbia</em> para iniciar el descenso; durante la aproximación final, el computador de guiado emite las alarmas de sobrecarga de cálculo 1202 y 1201, que el control de misión en Houston evalúa como tolerables gracias al análisis de Steve Bales y del ingeniero de soporte Jack Garman.
+- **20 de julio de 1969, 20:17:40 UTC:** tras asumir el control manual para sobrevolar un cráter cubierto de bloques rocosos (Little West Crater) con apenas unos veinticinco segundos de margen de propelente en la etapa de descenso, Armstrong y Aldrin posan el <em>Eagle</em> en Base Tranquilidad. La frase transmitida a Houston, “The Eagle has landed”, confirma el éxito del alunizaje.
+- **21 de julio de 1969, 02:56 UTC:** Neil Armstrong desciende por la escalerilla del tren de aterrizaje y apoya la bota izquierda sobre el regolito lunar, pronunciando su célebre frase sobre “un pequeño paso para un hombre, pero un gran salto para la humanidad”.
+- **Minutos después:** Buzz Aldrin se une a Armstrong en el exterior.
+- **21 de julio de 1969:** ambos astronautas instalan el paquete científico EASEP —compuesto por el sismómetro pasivo PSEP y el retrorreflector láser LRRR—, recolectan 21,55 kg de rocas y suelo selenita y completan una actividad extravehicular de 2 horas, 31 minutos y 40 segundos.
+- **21 de julio de 1969, 17:54 UTC:** la etapa de ascenso del <em>Eagle</em> despega de la superficie lunar para reencontrarse con Michael Collins en órbita.
 - **21 de julio de 1969, 21:35 UTC:** acoplamiento exitoso del módulo de ascenso con <em>Columbia</em>.
-- **22 de julio de 1969:** la tripulación inicia el regreso hacia la Tierra.
-- **24 de julio de 1969, 16:50 UTC:** amerizaje en el océano Pacífico y recuperación por el USS <em>Hornet</em>, culminando la primera misión tripulada a la Luna.
+- **22 de julio de 1969:** la tripulación enciende el motor principal del módulo de servicio e inicia el tránsito de retorno hacia la Tierra.
+- **24 de julio de 1969, 16:50 UTC:** la cápsula desciende en aguas del Pacífico central y sus tres ocupantes son izados a bordo del portaaviones USS <em>Hornet</em>, culminando la primera expedición lunar tripulada.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Consecuencias e Impacto
@@ -81,7 +81,7 @@ El impacto del Apolo 11 fue inmediato y multidimensional. No se limitó al éxit
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Legado
 
-El Apolo 11 permanece como uno de los hitos más importantes de la historia humana y tecnológica. Su legado trasciende la fotografía icónica, la bandera plantada o la frase de Armstrong. Mostró que una combinación sostenida de visión política, organización industrial, investigación científica y riesgo operativo podía alcanzar un objetivo que apenas unos años antes parecía inalcanzable.
+El Apolo 11 perdura entre los acontecimientos cardinales de la civilización humana y del progreso técnico. Su legado trasciende la fotografía icónica, la bandera plantada o la frase de Armstrong. Mostró que una combinación sostenida de visión política, organización industrial, investigación científica y riesgo operativo podía alcanzar un objetivo que apenas unos años antes parecía inalcanzable.
 
 A largo plazo, la misión redefinió el estándar de las grandes empresas tecnológicas del siglo XX. También dejó una herencia material y cultural inmensa: el módulo de mando <em>Columbia</em> conservado por el Smithsonian, una enorme colección de muestras lunares, documentación técnica que sigue siendo estudiada y una memoria global compartida. El 20 de julio de 1969 fue el día del alunizaje; el 24 de julio, con el regreso seguro, se cerró por completo la primera misión tripulada que llevó seres humanos a la Luna y los devolvió a casa.
 
@@ -105,7 +105,7 @@ A largo plazo, la misión redefinió el estándar de las grandes empresas tecnol
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 12:02:22 CST
+- **Timestamp de verificación:** 2026-10-07 16:12:30 CST
 - **Fuentes primarias/institucionales consultadas:** NASA, Smithsonian National Air and Space Museum, U.S. Capitol Visitor Center  
 - **Fuentes secundarias de contraste:** Wikipedia (ES/EN), Historic Newspapers  
 - **Discrepancias resueltas:** Se distinguió el alunizaje del 20 de julio del cierre completo de la misión el 24 de julio; se armonizaron horas UTC y denominaciones de los módulos <em>Columbia</em> y <em>Eagle</em>  

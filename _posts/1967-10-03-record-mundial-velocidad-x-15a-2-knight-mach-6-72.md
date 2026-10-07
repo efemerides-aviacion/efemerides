@@ -103,11 +103,9 @@ El récord fue también el canto del cisne del 56-6671: devuelto a North America
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-27 10:53:19 CST  
-- **Fuentes primarias/institucionales consultadas:** NASA, monografía «X-15 Hypersonic Research Aircraft» (Christian Gelzer) con los récords no oficiales, la modificación X-15A-2 y la nómina de pilotos; NASA Armstrong, «Forget Movie Magic…» (Jim Skeen, 2023) con el vuelo récord, el daño térmico y el contraste con el X-43A; NASA, imagen histórica EC65-900 con la configuración de tanques externos y ablativo.
-- **Fuentes secundarias de contraste:** Bryan R. Swopes en This Day in Aviation, reconstrucción detallada del vuelo 188 con la cronología segundo a segundo.
-- **Discrepancias resueltas:** se adoptó Mach 6,72 (medición del vuelo, Swopes) frente al redondeo 6,7 de la NASA; se siguió a la NASA Armstrong (más de 2.800 °F) frente a los 2.700 °F de Swopes; se da a Knight como Mayor, su grado en 1967, frente al «Col.» anacrónico de la ficha EC65-900; se descartó la variante 4.534 mph de una fuente terciaria, sin corroboración, frente a las 4.520 unánimes en la NASA y Swopes.
-- **Datos no confirmados:** la fecha de la entrega del Trofeo Internacional Harmon por el presidente Johnson; el momento exacto del desprendimiento del estatorreactor simulado durante el descenso.
-- **Imagen:** el X-15A-2 tras el vuelo récord, con el ablativo quemado (NASA EC67-1833); fotografía oficial estadounidense, dominio público; ventana 16:9 (0,200,3000,1887) reescalada a 1200×675 desde el original de 3000×2400.
+- **Timestamp de verificación:** 2026-10-07 16:09:00 CST  
+- **Fuentes primarias/institucionales consultadas:** NASA (monografía de Christian Gelzer; artículo de Jim Skeen en NASA Armstrong, 2023; ficha EC65-900).
+- **Fuentes secundarias de contraste:** Bryan R. Swopes, *This Day in Aviation* (reconstrucción del vuelo 188).
+- **Discrepancias resueltas:** Se adoptó Mach 6,72 (`4.520 mph`) frente al redondeo 6,7 de la NASA y a la variante aislada de `4.534 mph`; se siguió el pico térmico de más de `2.800 °F` de NASA Armstrong y el grado contemporáneo de Mayor para Knight en 1967.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

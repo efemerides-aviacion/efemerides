@@ -18,7 +18,7 @@ image: 1966-06-08-colision-en-aire-f104-xb70-vuelo-formacion.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 8 de junio de 1966, durante una sesión de fotos no autorizada organizada por General Electric, el XB-70 Valkyrie colisionó con un F-104 Starfighter a 30.000 pies sobre el desierto de California. El F-104, pilotado por el legendario Joe Walker (jefe de pilotos de pruebas de la NASA), fue atrapado por el vórtice de estela del ala del XB-70, impactó contra el bombardero y explotó. El XB-70 se estrelló 16 segundos después. Fallecieron Walker y el copiloto Carl Cross (USAF); el piloto Al White sobrevivió con heridas graves. Fue el único accidente fatal del programa XB-70.</p>
+<p>El 8 de junio de 1966, durante una sesión de fotos no autorizada organizada por General Electric, el XB-70 Valkyrie colisionó con un F-104 Starfighter a 30.000 pies sobre el desierto de California. El F-104, pilotado por el legendario Joe Walker (aviador jefe de ensayos en vuelo del centro de Edwards), fue atrapado por el vórtice de estela del ala del XB-70, impactó contra el bombardero y explotó. El XB-70 se estrelló 16 segundos después. Fallecieron Walker y el copiloto Carl Cross (USAF); el piloto Al White sobrevivió con heridas graves. Fue el único accidente fatal del programa XB-70.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -79,7 +79,7 @@ La sesión de fotos del 8 de junio de 1966 fue organizada a petición de un repr
 
 ### Los Protagonistas
 
-- **Joseph «Joe» Walker (1921-1966):** Jefe de Pilotos de Pruebas de la NASA. Voló el X-15 en 25 ocasiones y fue el único piloto del programa que superó los 100 km de altitud, la línea de Kármán, en dos vuelos: el 90, el 19 de julio de 1963, y el <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/08/22/joseph-walker-x-15-vuelo-91.html" style="color: #315fea; text-decoration: none;">91, el 22 de agosto de 1963, cuando alcanzó 354.200 pies (107,96 km)</a>, la mayor altitud de todo el programa. Aquellos dos vuelos lo convirtieron en la primera persona en llegar al espacio dos veces. Murió a los 45 años en la colisión.
+- **Joseph «Joe» Walker (1921-1966):** Piloto principal de ensayos de vuelo de la agencia espacial estadounidense. Voló el X-15 en 25 ocasiones y fue el único piloto del programa que superó los 100 km de altitud, la línea de Kármán, en dos vuelos: el 90, el 19 de julio de 1963, y el <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/08/22/joseph-walker-x-15-vuelo-91.html" style="color: #315fea; text-decoration: none;">91, el 22 de agosto de 1963, cuando alcanzó 354.200 pies (107,96 km)</a>, la mayor altitud de todo el programa. Aquellos dos vuelos lo convirtieron en la primera persona en llegar al espacio dos veces. Murió a los 45 años en la colisión.
 - **Alvin "Al" White (1918-2006):** Piloto de pruebas de North American Aviation. Había realizado 42 de los 46 vuelos del AV-2 antes del accidente. Sobrevivió eyectándose en la cápsula de escape, sufriendo heridas graves (su brazo fue aplastado por la cápsula antes de la eyección).
 - **Carl Cross (1925-1966):** Mayor de la USAF. Realizaba su **primer vuelo** en el XB-70. No pudo eyectarse y falleció en el impacto.
 
@@ -109,7 +109,7 @@ La investigación de la USAF concluyó que Walker, desde su posición, probablem
 ## Consecuencias e Impacto
 
 - **Pérdidas humanas:** Fallecieron dos personas: Joe Walker (NASA) y Carl Cross (USAF). Al White sobrevivió con heridas graves.
-- **Pérdida del XB-70 AV-2:** El segundo prototipo del Valkyrie fue destruido después de solo 46 vuelos. El único XB-70 sobreviviente (AV-1, 62-0001) se exhibe hoy en el Museo Nacional de la Fuerza Aérea de EE. UU. en Dayton, Ohio.
+- **Pérdida del XB-70 AV-2:** El segundo prototipo del Valkyrie quedó destruido tras completar apenas 46 salidas de ensayo, dejando al primer ejemplar (AV-1, 62-0001) como única célula existente del programa.
 - **Consecuencias administrativas:** El photo shoot no fue autorizado por la Fuerza Aérea. El Coronel Albert W. Cate fue destituido; otros oficiales fueron amonestados.
 - **Conocimiento sobre vórtices de estela:** El accidente puso de manifiesto el peligro de los vórtices de estela, lo que llevó a cambios en los procedimientos de separación entre aeronaves en vuelo y en aproximación a aeropuertos.
 - **Legado del programa XB-70:** Los datos de las pruebas del XB-70 fueron utilizados en el programa del bombardero B-1, en el programa estadounidense de transporte supersónico (SST) y, a través de espionaje, en el programa soviético Tu-144.
@@ -118,13 +118,13 @@ La investigación de la USAF concluyó que Walker, desde su posición, probablem
 
 ## Legado
 
-El accidente del 8 de junio de 1966 es recordado como una de las tragedias más impactantes en la historia de la aviación experimental. Destruyó el segundo prototipo del XB-70, el bombardero más avanzado de su época, y se cobró la vida de dos pilotos excepcionales.
+El siniestro del 8 de junio de 1966 constituye uno de los sucesos más luctuosos de la aviación experimental. Destruyó el segundo prototipo del XB-70, el bombardero más avanzado de su época, y se cobró la vida de dos aviadores excepcionales.
 
-- **Joe Walker:** Su legado perdura como uno de los pilotos de pruebas más importantes de la NASA. Sus vuelos en el X-15, superando la línea de Kármán, lo convirtieron en un pionero del espacio.
+- **Joe Walker:** Su figura perdura entre los aviadores experimentales más destacados de la NASA. Sus vuelos en el X-15, superando la línea de Kármán, lo convirtieron en un pionero del espacio.
 - **Al White:** A pesar de sus graves heridas, continuó su carrera como piloto de pruebas y consultor aeronáutico hasta su retiro.
 - **Carl Cross:** Su trágica muerte en su primer vuelo en el XB-70 es un recordatorio de los riesgos inherentes a la aviación experimental.
-- **El único XB-70 sobreviviente:** El AV-1 (62-0001) se exhibe en el **Museo Nacional de la Fuerza Aérea de EE. UU.** en Dayton, Ohio, como un testimonio de la audacia y la innovación de la era de la Guerra Fría.
-- **Lección de seguridad:** El accidente contribuyó significativamente a la comprensión de los vórtices de estela, un fenómeno que hoy es parte fundamental de la formación de pilotos y controladores aéreos.
+- **El único XB-70 sobreviviente:** El AV-1 (62-0001) se conserva expuesto hoy en las galerías del **Museo Nacional de la Fuerza Aérea de EE. UU.** en Dayton, Ohio, como un testimonio de la audacia y la innovación de la era de la Guerra Fría.
+- **Lección de seguridad:** El siniestro impulsó decisivamente el estudio aerodinámico de las estelas turbulentas de punta de ala, materia que hoy forma parte esencial del adiestramiento de pilotos y controladores aéreos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -153,7 +153,7 @@ El accidente del 8 de junio de 1966 es recordado como una de las tragedias más 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:00:03 CST
+- **Timestamp de verificación:** 2026-10-07 16:05:00 CST
 - **Fuentes primarias/institucionales consultadas:** CLUI, Wikipedia, Aviation Safety Network, MiGFlug, Military.com
 - **Discrepancias resueltas:** Confirmación de la fecha del accidente (8 de junio de 1966). Verificación de la altitud de vuelo (30.000 pies) y la secuencia del accidente. Aclaración de la causa (vórtice de estela del XB-70). Identificación de los tres protagonistas y sus destinos.
 - **Nivel de confianza:** Alto
