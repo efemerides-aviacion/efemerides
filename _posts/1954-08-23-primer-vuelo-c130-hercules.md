@@ -54,14 +54,14 @@ Dentro de Lockheed, el proyecto nació en contra del criterio de su ingeniero m�
 
 ## Desarrollo Cronológico
 
-- **1951:** la Fuerza Aérea de los Estados Unidos difunde el requerimiento de un transporte táctico turbohélice capaz de operar desde pistas cortas y sin preparar. Lockheed gana la competición y recibe el contrato para construir dos prototipos YC-130.
+- **1951:** la Fuerza Aérea estadounidense difunde el requerimiento de un transporte táctico turbohélice capaz de operar desde pistas cortas y sin preparar. Lockheed gana la competición y recibe el contrato para construir dos prototipos YC-130.
 - **10 de abril de 1951:** Willis Hawkins persuade a Hall Hibbard de presentar la propuesta pese a la oposición de Kelly Johnson.
-- **Fase de diseño:** el equipo parte de las dimensiones del mayor equipo que la Fuerza Aérea quería transportar, dibuja un círculo alrededor de su sección y convierte ese círculo en un tubo de la longitud de un vagón de mercancías. «Pusimos el avión bajo respecto al suelo para poder usar la rampa», resumió Hawkins.
+- **Fase de diseño:** el equipo parte de las dimensiones del mayor equipo que la institución quería transportar, dibuja un círculo alrededor de su sección y convierte ese círculo en un tubo de la longitud de un vagón de mercancías. «Pusimos el avión bajo respecto al suelo para poder usar la rampa», resumió Hawkins.
 - **2 de julio de 1953:** se completa el ensamblaje del fuselaje del primer YC-130 en Burbank. La gran abertura lateral para una puerta de carga se suprimiría después en los aparatos de serie.
 - **23 de agosto de 1954:** el YC-130 53-3397 despega de Burbank con Beltz y Wimmer a los mandos, queda en el aire en 855 pies y aterriza 61 minutos después en Edwards AFB. Kelly Johnson observa el vuelo desde el P2V Neptune de persecución.
 - **21 de enero de 1955:** vuela el otro prototipo, el primero de los dos que se construyó, empleado hasta entonces en ensayos estáticos. Lo pilota Roy Wimmer, con Joe Ware como copiloto y Jack Real de nuevo a bordo.
 - **7 de abril de 1955:** vuela en Marietta, Georgia, el primer C-130A de serie. Toda la producción del tipo se concentra desde entonces en esa planta.
-- **Diciembre de 1956:** el C-130A entra en servicio operativo en la Fuerza Aérea de los Estados Unidos.
+- **Diciembre de 1956:** el C-130A entra en servicio operativo con las unidades de transporte táctico estadounidenses.
 - **1962:** el prototipo 53-3397 termina desguazado en Indianápolis.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -107,9 +107,9 @@ Del vuelo inaugural quedó también una nota amarga. Stanley Beltz, el piloto qu
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 13:05:00 CST  
-- **Fuentes primarias/institucionales consultadas:** Lockheed Martin (Code One Magazine; nota de prensa del cincuentenario, 2004; ficha oficial del C-130)  
-- **Fuentes secundarias de contraste:** This Day in Aviation (entrada del 23 de agosto de 1954 y etiqueta Lockheed YC-130 Hercules); Vintage Aviation News  
-- **Discrepancias resueltas:** orden de construcción de los dos prototipos YC-130 —This Day in Aviation y Vintage Aviation News presentan el 53-3397 como el primero construido; Lockheed Martin lo identifica como el segundo construido y el primero en volar. Se adopta la versión del fabricante y se consigna en la nota aclaratoria. Sobre la función de los tripulantes, This Day in Aviation describe a Jack Real y Dick Stanton como ingenieros de vuelo, mientras que Code One distingue a Stanton como ingeniero de vuelo y a Real como ingeniero de ensayos en vuelo; se sigue esta última precisión.  
+- **Timestamp de verificación:** 2026-10-07 08:35:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Lockheed Martin (Code One Magazine, nota de prensa del cincuentenario y ficha técnica del C-130)  
+- **Fuentes de contraste:** This Day in Aviation, Vintage Aviation News  
+- **Discrepancias resueltas:** se precisa según Lockheed Martin que el YC-130 53-3397 fue el segundo ejemplar fabricado pero el primero en volar (23 de agosto de 1954) y se distingue la función de Dick Stanton (ingeniero de vuelo) y Jack Real (ingeniero de ensayos).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
