@@ -36,14 +36,14 @@ image: 1974-09-13-sr-71-blackbird-record-londres-los-angeles.webp
 - **Velocidad de crucero sobre el Atlántico:** Mach 3,2 (unos 2.200 mph, aproximadamente 3.540 km/h).
 - **Husos horarios cruzados:** siete.
 - **Aterrizaje:** tras completar el cronometraje, la aeronave repostó en vuelo y aterrizó en la base de Beale (California) ante la prensa y un numeroso público.
-- **Récord previo del mismo ejemplar:** el 1 de septiembre de 1974, el 64-17972 unió Nueva York y Londres en 1 hora, 54 minutos y 56 segundos, a una media de 1.806,96 mph.
-- **Situación actual del ejemplar:** en exhibición en el Museo Nacional del Aire y el Espacio del Smithsonian (Centro Steven F. Udvar-Hazy, Chantilly, Virginia).
+- **Récord previo del mismo ejemplar:** el 1 de septiembre de 1974, esa misma célula había fijado la plusmarca transatlántica desde Nueva York hasta la capital británica.
+- **Situación actual del ejemplar:** conservado en el complejo Steven F. Udvar-Hazy del Smithsonian, en Chantilly (Virginia).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-En 1974 el SR-71 llevaba más de ocho años en servicio con la Fuerza Aérea de los Estados Unidos: el primero entró en servicio en enero de 1966 y las primeras células operativas llegaron a Beale en abril de ese año. El avión, diseñado en la división de proyectos avanzados de Lockheed (Skunk Works) bajo la dirección de Clarence L. «Kelly» Johnson, volaba por encima de Mach 3 y a más de 24.000 metros, y se había consolidado en misiones de reconocimiento durante la Guerra Fría. La década de 1970 fue, sin embargo, la de sus grandes exhibiciones públicas de velocidad.
+En 1974 el SR-71 cumplía más de ocho años de servicio activo en la USAF: el primer ejemplar operativo se incorporó en enero de 1966 y las primeras células llegaron a Beale en abril de ese año. El avión, diseñado en la división de proyectos avanzados de Lockheed (Skunk Works) bajo la dirección de Clarence L. «Kelly» Johnson, volaba por encima de Mach 3 y a más de 24.000 metros, y se había consolidado en misiones de reconocimiento durante la Guerra Fría. La década de 1970 fue, sin embargo, la de sus grandes exhibiciones públicas de velocidad.
 
 ### Entorno social
 
@@ -71,8 +71,8 @@ La gesta del 13 de septiembre fue la culminación de un plan trazado semanas ant
 - **Cruce del Atlántico:** A Mach 3,2 (unos 2.200 mph), el avión recorre por la ruta del círculo máximo y entra en Norteamérica sobre Terranova.
 - **Segundo reabastecimiento:** Sobre el Atlántico noroccidental, el SR-71 desciende de unos 80.000 a 25.000 pies (de unos 24.400 a 7.600 metros) para repostar con tres cisternas más, una de ellas de reserva, mientras sufre vientos de hasta 100 nudos en la zona de repostaje.
 - **Sobre Estados Unidos:** La aeronave entra en el país al sur de los Grandes Lagos y la tripulación llama por radio al General Russell Dougherty, comandante del Mando Aéreo Estratégico, para informarle de la hora prevista de llegada.
-- **Puerta final:** Sobre California, el avión desacelera a velocidad subsónica antes de la sierra al este de Los Ángeles y cruza la puerta por radar de LAX: el cronómetro marca 3 horas, 47 minutos y 39 segundos.
-- **Después del cronometraje:** La tripulación gira, reposta en vuelo unos 13.600 kg (30.000 libras) de combustible y vuela hasta Beale, donde realiza sobrevuelos y aterriza ante la prensa y un numeroso público.
+- **Puerta final:** Sobre California, el avión desacelera a régimen subsónico antes de la sierra al este de la metrópoli californiana y cruza el control de radar de LAX deteniendo el reloj oficial del vuelo.
+- **Después del cronometraje:** La tripulación gira, reposta en vuelo unos 13.600 kg (30.000 libras) de combustible y vuela hasta Beale, donde realiza sobrevuelos y toma tierra ante periodistas e invitados.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -86,9 +86,9 @@ La marca fue homologada como récord mundial de velocidad sobre la ruta Londres-
 
 ## Legado
 
-Los dos récords de 1974 del ejemplar 972 —Nueva York-Londres el 1 de septiembre y Londres-Los Ángeles el 13— siguen citándose como marcas no superadas de la aviación y contribuyeron a forjar la leyenda del Blackbird, la aeronave tripulada con motores de aspiración de aire más rápida que ha volado. La misma célula protagonizaría después nuevos hitos: el 6 de marzo de 1990, en su último vuelo antes de ser entregada al Smithsonian, unió Los Ángeles y Washington en 64 minutos y 20 segundos a una media de 2.144,83 mph.
+Los dos récords de 1974 del ejemplar 972 —Nueva York-Londres el 1 de septiembre y Londres-Los Ángeles el 13— siguen citándose como marcas no superadas de la aviación y contribuyeron a forjar la leyenda del Blackbird, la aeronave tripulada con motores de aspiración de aire más rápida que ha volado. La misma célula protagonizaría después nuevos hitos: el 6 de marzo de 1990, en su último vuelo antes de ser entregada al Smithsonian, cubrió el trayecto entre Los Ángeles y Washington en apenas 64 minutos y 20 segundos, promediando 2.144,83 mph.
 
-Más de medio siglo después de la hazaña de Adams y Machorek, el SR-71A 64-17972 descansa en el Centro Steven F. Udvar-Hazy del Museo Nacional del Aire y el Espacio, en Chantilly (Virginia), como testimonio de una época en la que un avión de reconocimiento podía ganar la carrera contra el sol.
+Más de medio siglo después de la hazaña de Adams y Machorek, el SR-71A 64-17972 descansa en el Centro Steven F. Udvar-Hazy del Museo Nacional del Aire y el Espacio, en Chantilly (Virginia), como emblema perdurable de los años en que un birreactor estratégico podía ganarle la partida al giro solar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -114,9 +114,9 @@ Más de medio siglo después de la hazaña de Adams y Machorek, el SR-71A 64-179
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 08:32:17 CST
-- **Fuentes primarias/institucionales consultadas:** Fuerza Aérea de los Estados Unidos (artículo de la Base Beale, 9.ª Ala de Reconocimiento, 2014); National Air and Space Museum (Smithsonian), ficha A19920072000.
-- **Fuentes secundarias de contraste:** HistoryNet / Aviation History (entrevista a Harold B. Adams); sr71.us (expediente del vuelo); Wikipedia (EN).
-- **Discrepancias resueltas:** (1) La convocatoria citaba a la tripulación sin funciones; HistoryNet y sr71.us precisan que Adams fue el piloto y Machorek el oficial de sistemas de reconocimiento. (2) La velocidad media figura como 1.435,59 mph en HistoryNet y como 1.435,587 mph en Beale AFB y sr71.us; se adopta 1.435,587 mph. (3) El cronometraje oficial terminó en la puerta por radar de Los Ángeles y el aterrizaje se produjo en Beale; una variante de 3 h 47 min 36 s citada por una fuente secundaria se descarta frente a las tres fuentes que coinciden en 3 h 47 min 39 s.
+- **Timestamp de verificación:** 2026-10-07 16:38:00 CST
+- **Fuentes primarias/institucionales consultadas:** USAF (Base Beale / 9.ª Ala de Reconocimiento, 2014) y National Air and Space Museum (Smithsonian, ficha A19920072000).
+- **Fuentes secundarias de contraste:** *HistoryNet / Aviation History* (entrevista a Harold B. Adams), `sr71.us` (expediente del vuelo) y Wikipedia (EN).
+- **Discrepancias resueltas:** Se precisaron los puestos de Adams (piloto) y Machorek (oficial de sistemas de reconocimiento, RSO), se adoptó la velocidad media de `1.435,587 mph` (`2.310,35 km/h`) y el tiempo de `3 h 47 min 39 s`, y se distinguió el cierre del cronometraje sobre el radar de Los Ángeles del aterrizaje final en la base de Beale.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

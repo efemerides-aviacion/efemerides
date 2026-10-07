@@ -20,7 +20,7 @@ image: 1973-01-29-emily-howell-primera-mujer-contratada-linea-aerea.webp
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 29 de enero de 1973, al término de una entrevista con el vicepresidente de operaciones de vuelo de Frontier Airlines, Emily Howell Warner supo que tenía el puesto cuando le preguntaron qué iba a ponerse: no existía uniforme de piloto mujer. Tenía 33 años, más de 7.000 horas y cinco de solicitudes rechazadas.</p>
-<p>Fue la primera mujer contratada de forma permanente como piloto por una aerolínea regular de Estados Unidos, la primera desde que Helen Richey dejara Central Airlines en 1934. Empezó como primer oficial en Convair 580 y Twin Otter. En 1976 se convirtió en la primera capitana de una aerolínea estadounidense. En marzo de 1973, American Airlines seguiría el paso con Bonnie Tiburzi.</p>
+<p>Fue la primera aviadora incorporada con plaza fija a la plantilla de vuelo de una aerolínea regular de Estados Unidos, la primera desde que Helen Richey dejara Central Airlines en 1934. Empezó como primer oficial en Convair 580 y Twin Otter. En 1976 se convirtió en la primera capitana de una aerolínea estadounidense. En marzo de 1973, American Airlines seguiría el paso con Bonnie Tiburzi.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -45,41 +45,40 @@ image: 1973-01-29-emily-howell-primera-mujer-contratada-linea-aerea.webp
 
 ## Contexto Histórico
 
-Warner no llegó a la cabina de un día para otro. Entre el primer vuelo, en 1958, y el contrato de Frontier mediaron quince años de instrucción, chárter y puertas cerradas.
+Warner no llegó a la cabina comercial de un día para otro. Entre su bautismo del aire en 1958 y el contrato con Frontier Airlines mediaron quince años de instrucción, vuelos chárter, evaluación de aspirantes y solicitudes reiteradamente desestimadas por las compañías regulares.
 
 ### Entorno social
 
-Helen Richey había volado para Central Airlines en 1934 y la Air Line Pilots Association le negó el ingreso en 1935. Después, las aerolíneas regulares de Estados Unidos no volvieron a sentar a una mujer a los mandos. Warner empezó a solicitar plaza en 1968, en Frontier, United y Continental. Veía cómo alumnos suyos, todos hombres, entraban con la mitad de horas. Pasados los treinta, dio el puesto por perdido.
+Helen Richey había volado brevemente como copiloto en Central Airlines en diciembre de 1934, pero las presiones regulatorias y la negativa del sindicato Air Line Pilots Association (ALPA) a admitirla la forzaron a dimitir diez meses después. Durante las casi cuatro décadas siguientes, ninguna compañía estadounidense de vuelos regulares volvió a incorporar a una mujer en su escalafón de pilotos. Cuando Warner comenzó a presentar solicitudes en enero de 1968 ante Frontier, United y Continental, acumulaba miles de horas como instructora en el aeropuerto de Stapleton, en Denver, y veía cómo sus propios alumnos varones obtenían plaza en las aerolíneas con apenas una fracción de su experiencia. Superados los treinta años —edad que muchas compañías fijaban entonces como tope informal de ingreso—, estuvo a punto de dar la aspiración por cerrada.
 
 ### Entorno tecnológico
 
-Frontier operaba entonces una mezcla de turbohélices —Convair 580, Twin Otter— y el Boeing 737. El simulador del 580 fue la prueba que Ed O’Neil, vicepresidente de operaciones de vuelo, le impuso el día de la entrevista: un chequeo que no se exigía de rutina. Aprobó. El Twin Otter sería, tres años después, el avión de su primera capitanía.
+A comienzos de los años setenta, Frontier Airlines cubría una extensa red regional en las Montañas Rocosas y el Medio Oeste con una flota mixta integrada por bimotores turbohélice Convair 580, utilitarios de Havilland Canada DHC-6 Twin Otter y reactores Boeing 737-200. Durante el proceso de selección en enero de 1973, el vicepresidente de operaciones de vuelo, Ed O’Neil, sometió a Warner a una evaluación en el simulador del Convair 580 que no solía exigirse a los demás candidatos. Acostumbrada a instruir en vuelo instrumental en Clinton Aviation, superó la prueba sin contratiempos y fue asignada inicialmente como segunda oficial de Boeing 737 antes de pasar al asiento derecho del Convair 580 y del Twin Otter, modelo este último en el que asumiría el mando como comandante tres años más tarde.
 
 ### Entorno cultural
 
-En 1969, Turi Widerøe había ingresado en SAS. El National Women’s Hall of Fame recoge que Warner se fijó en aquella noruega. El día de la entrevista, O’Neil sacó de la estantería *She’ll Never Get Off the Ground*, novela de 1971 en la que la primera piloto de aerolínea estrella un 737. Warner le dijo que no se molestara en leerla: «solo tenemos en común que las dos conducimos un Mustang».
+En 1969, la noruega Turi Widerøe había roto el monopolio masculino en la aviación comercial occidental al incorporarse a Scandinavian Airlines System (SAS). El National Women’s Hall of Fame registra que aquella noticia alentó a Warner a insistir ante las oficinas de personal en Denver. El día de su entrevista definitiva, O’Neil tomó de su estantería un ejemplar de *She’ll Never Get Off the Ground*, novela publicada en 1971 por Robert J. Serling cuya protagonista, primera mujer piloto de una aerolínea estadounidense, termina involucrada en un accidente de Boeing 737. Warner replicó con aplomo que no valía la pena guiarse por esa ficción: «lo único que tenemos en común la protagonista y yo es que ambas conducimos un Ford Mustang».
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-La contratación del 29 de enero cierra cinco años de solicitudes y abre la cabina comercial estadounidense a las mujeres.
+La contratación del 29 de enero de 1973 coronó quince años de carrera profesional en Colorado y abrió de forma irreversible las cabinas de mando comerciales de Estados Unidos a las mujeres piloto.
 
-- **30 de octubre de 1939:** nace Emily Joyce Hanrahan en Denver.
-- **3 de febrero de 1958:** primer vuelo, un Denver–Gunnison de ida y vuelta en un DC-3 de Frontier; el 18 obtiene la licencia de alumna.
-- **1961–1967:** instructora en Clinton Aviation, en Stapleton; llega a jefa de pilotos, examinadora de la FAA y responsable del adiestramiento contratado por United.
-- **1968:** empieza a pedir plaza de piloto de línea.
-- **29 de enero de 1973:** Frontier la contrata.
-- **Marzo de 1973:** <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1948/08/31/nacimiento-bonnie-tiburzi.html" style="color: #315fea; text-decoration: none;">American Airlines contrata a Bonnie Tiburzi</a>, primera mujer en la cabina de una gran aerolínea estadounidense.
-- **1974:** primera mujer en la Air Line Pilots Association.
-- **6 de junio de 1976:** primera capitana de una aerolínea de Estados Unidos, en Twin Otter.
-- **1978:** socia fundadora de la International Society of Women Airline Pilots (ISA+21).
-- **1986:** cierra Frontier; Warner pasa a Continental y manda la primera tripulación enteramente femenina de esa compañía.
-- **1988–1990:** capitana de Boeing 737 en UPS.
-- **1990–2002:** inspectora de la FAA en Denver; se retira con más de 21.000 horas.
-- **2014:** National Aviation Hall of Fame.
-- **2015:** el aeródromo de Granby, Colorado, pasa a llamarse Emily Warner Field.
-- **3 de julio de 2020:** muere en Colorado.
+- **30 de octubre de 1939:** nace Emily Joyce Hanrahan en Denver, Colorado.
+- **3 de febrero de 1958:** a los dieciocho años realiza su primer viaje aéreo, un trayecto de ida y vuelta entre Denver y Gunnison a bordo de un Douglas DC-3 de Frontier Airlines; maravillada tras visitar la cabina, el 18 de febrero obtiene su licencia de alumna piloto en Clinton Aviation, en el aeropuerto de Stapleton.
+- **1959–1967:** obtiene las licencias comercial, de vuelo por instrumentos, multimotor y de instructora de vuelo (1960); en Clinton Aviation asciende a jefa de pilotos y de la escuela de vuelo, examinadora designada por la Administración Federal de Aviación (FAA) y responsable del programa de adiestramiento contratado por United Airlines.
+- **1968–1972:** solicita empleo de forma ininterrumpida en Frontier, United y Continental mientras continúa sumando más de 7.000 horas de vuelo en instrucción, transporte ejecutivo y vuelos chárter.
+- **29 de enero de 1973:** Frontier Airlines la contrata formalmente como piloto tras superar la prueba de simulador; su primer vuelo comercial en línea se realiza el 6 de febrero de 1973 entre Denver y Las Vegas como segunda oficial de un Boeing 737, pasando luego a primer oficial en Convair 580 y DHC-6 Twin Otter.
+- **Marzo de 1973:** pocas semanas después, <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1948/08/31/nacimiento-bonnie-tiburzi.html" style="color: #315fea; text-decoration: none;">American Airlines contrata a Bonnie Tiburzi</a>, primera mujer en ingresar a la cabina de una de las grandes aerolíneas troncales estadounidenses.
+- **1974:** se convierte en la primera mujer admitida como miembro de pleno derecho en el sindicato Air Line Pilots Association (ALPA).
+- **6 de junio de 1976:** asciende al puesto de comandante en el bimotor Twin Otter de Frontier, primera mujer en alcanzar el grado de capitana en la aviación comercial regular estadounidense.
+- **1978:** participa en la fundación de la International Society of Women Airline Pilots (ISA+21).
+- **1986:** comanda el día de Año Nuevo la primera tripulación íntegramente femenina de Frontier y, tras el cierre de la aerolínea, se incorpora a Continental Airlines.
+- **1988–1990:** vuela como comandante de Boeing 737 para la compañía de carga UPS.
+- **1990–2002:** ejerce en Denver como inspectora de operaciones de transporte aéreo de la FAA y jefa del programa de flota Boeing 737 hasta su jubilación con más de 21.000 horas de vuelo.
+- **1992–2015:** ingresa en el Pioneer Hall of Fame de Women in Aviation International (1992), en el National Women’s Hall of Fame (2001) y en el National Aviation Hall of Fame (2014); en 2015 el aeródromo de Granby, Colorado, recibe el nombre oficial de Emily Warner Field.
+- **3 de julio de 2020:** fallece en Littleton, Colorado, a los 80 años.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -121,7 +120,7 @@ Warner no se presentó como excepción. Había enseñado a volar a hombres que l
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-25 16:16:06 CST
+- **Timestamp de verificación:** 2026-10-07 16:34:00 CST
 - **Fuentes primarias/institucionales consultadas:** Smithsonian National Air and Space Museum (necrológica de 2020 y ficha A19761529000); Women in Aviation International; National Women’s Hall of Fame; National Aviation Hall of Fame
 - **Fuentes secundarias de contraste:** artículo del NASM «Firsts in Commercial Flight» (2021), usado como ficha de la fotografía
 - **Discrepancias resueltas:** «major» del NAHF frente a la distinción regular/grande del Smithsonian; 737 de UPS (Smithsonian) frente al 727 de WAI; asiento inicial de primer oficial en 580 y Twin Otter (Smithsonian, WAI).

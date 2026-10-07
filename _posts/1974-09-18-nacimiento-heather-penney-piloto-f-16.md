@@ -26,7 +26,7 @@ image: 1974-09-18-nacimiento-heather-penney-piloto-f-16.webp
 - **Lugar:** base aérea Davis-Monthan, Arizona, Estados Unidos
 - **Nombre completo:** Heather Renee Penney, «Lucky»
 - **Padre:** Coronel John Penney, piloto de la Fuerza Aérea de Estados Unidos (1970–1979) y de United Airlines (1979–2007)
-- **Formación:** licenciatura en literatura por Purdue University; piloto de caza, única mujer de su clase de vuelo
+- **Formación:** licenciatura en literatura por Purdue University; graduada como aviadora de combate siendo la sola mujer de su promoción de vuelo
 - **Servicio:** Guardia Nacional Aérea, 1998–2016; 121st Fighter Squadron (Distrito de Columbia, base Andrews); desde 2009, 201st Airlift Squadron; retiro con el grado de mayor
 - **Aeronave principal:** F-16
 - **Hecho principal:** 11 de septiembre de 2001, despegue desarmada para interceptar el vuelo 93 de United Airlines
@@ -52,22 +52,22 @@ El 11 de septiembre de 2001 transformó la aviación en arma y la defensa aérea
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Desarrollo Cronológico
 
-- **18 de septiembre de 1974:** Nace Heather Renee Penney en la base aérea Davis-Monthan, en Arizona, hija del Coronel John Penney, piloto militar y de aerolínea.
-- **Década de 1990:** Estudia literatura en Purdue University y se forma como piloto de caza; es la única mujer de su clase de vuelo.
+- **18 de septiembre de 1974:** Nace Heather Renee Penney en la instalación aérea de Davis-Monthan (Tucson, Arizona), en el seno de la familia de un aviador militar y comercial.
+- **Década de 1990:** Cursa estudios literarios en la Universidad de Purdue y completa su adiestramiento militar en reactores de caza sin ninguna otra compañera en su promoción.
 - **1998:** Ingresa en la Guardia Nacional Aérea y es destinada al 121st Fighter Squadron, en la base Andrews (Maryland), donde es la única mujer del escuadrón.
 - **11 de septiembre de 2001:** Con el grado de teniente primera, despega desarmada desde Andrews junto a Marc «Sass» Sasseville, su oficial al mando, con la orden de impedir que el vuelo 93 de United Airlines alcance Washington D. C., embistiéndolo con su propio F-16 si fuera necesario.
-- **Tras el 11-S:** Completa dos giras de combate en Irak a los mandos de F-16.
+- **Tras el 11-S:** Completa dos despliegues operacionales en el teatro iraquí pilotando cazabombarderos F-16.
 - **2006:** Se incorpora a Lockheed Martin, donde dirige programas de superioridad aérea de la Fuerza Aérea y trabaja en el F-35.
 - **2009:** Es trasladada al 201st Airlift Squadron.
-- **2012:** Recibe el premio Emerging Voice de Purdue University.
-- **2016:** Se retira con el grado de mayor.
-- **2017:** Ofrece junto a su padre la conferencia «9/11 Perspectives» en el Museo Nacional del Aire y el Espacio, y recibe el galardón Outstanding Aviator del Wings Club y la International Aviation Womens Association.
+- **2012:** Recibe el reconocimiento Emerging Voice otorgado por su alma máter en Indiana.
+- **2016:** Pasa a situación de retiro tras alcanzar el grado de mayor.
+- **2017:** Ofrece junto a su padre la conferencia «9/11 Perspectives» en el Museo Nacional del Aire y el Espacio, y es distinguida conjuntamente por el Wings Club y la asociación internacional de mujeres de la aviación con su premio anual al aviador destacado.
 - **2018:** Se incorpora al Mitchell Institute for Aerospace Studies, donde es directora de investigación.
 - **2026:** Cumple 52 años; vuela en las carreras aéreas de Reno, pilota aviones antiguos y trabaja como piloto corporativa de Cessna Citation XLS+.
 
 ### El vuelo del 11 de septiembre
 
-Aquella mañana, dos aviones secuestrados ya habían impactado contra las Torres Gemelas de Nueva York y un tercero contra el Pentágono cuando Penney y Sasseville recibieron la orden de despegar. No hubo tiempo de cargar misiles ni munición real en sus F-16, que solo llevaban 105 proyectiles de lastre; el Museo Nacional de la Fuerza Aérea estadounidense resume la situación: órdenes de derribar, pero sin armas a bordo, en lo que describe como una misión suicida. El plan, acordado entre ambos, era embestir el avión secuestrado: Sasseville apuntaría a la cabina y Penney a la cola. El objetivo era el <a href="https://efemerides-aviacion.github.io/efemerides/seguridad/2001/09/11/ataques-terroristas-estados-unidos.html" style="color: #315fea; text-decoration: none;">Boeing 757 del vuelo 93 de United Airlines, que cubría la ruta Newark–San Francisco y caería cerca de Shanksville (Pensilvania) a las 10:03 tras la resistencia de sus pasajeros</a>, y que se creía dirigido contra el Capitolio.
+Aquella mañana, dos aviones secuestrados ya habían impactado contra las Torres Gemelas de Nueva York y un tercero contra el Pentágono cuando Penney y Sasseville recibieron la orden de despegar. No hubo tiempo de cargar misiles ni munición real en sus F-16, que solo llevaban 105 proyectiles de lastre; la reseña histórica del museo oficial de la USAF sintetiza el dilema: órdenes de derribar, pero sin armas a bordo, en una salida sin retorno previsible. El plan, acordado entre ambos, era embestir el avión secuestrado: Sasseville apuntaría a la cabina y Penney a la cola. El objetivo era el <a href="https://efemerides-aviacion.github.io/efemerides/seguridad/2001/09/11/ataques-terroristas-estados-unidos.html" style="color: #315fea; text-decoration: none;">Boeing 757 del vuelo 93 de United Airlines, que cubría la ruta Newark–San Francisco y caería cerca de Shanksville (Pensilvania) a las 10:03 tras la resistencia de sus pasajeros</a>, y que se creía dirigido contra el Capitolio.
 
 El plan no llegó a ejecutarse: el vuelo 93 se había estrellado al menos 35 minutos antes de que ambos pilotos despegaran, y Penney y Sasseville patrullaron el cielo de la capital durante más de una hora sin encontrarlo. Solo después supieron que los pasajeros habían forzado la caída del avión. «Habíamos visto lo que los otros aviones habían hecho, y por eso no hubo vacilación en nuestros corazones», declaró Penney a NewsNation. Años después, Sasseville llegaría a teniente general y Penney se retiraría como mayor.
 
@@ -99,8 +99,9 @@ Heather «Lucky» Penney encarna la respuesta improvisada del poder aéreo estad
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-12 06:17:16 CST
-- **Fuentes primarias/institucionales consultadas:** National Museum of the U.S. Air Force, National September 11 Memorial and Museum, National Guard Association of the United States, NewsNation, Wikipedia (EN), Wikimedia Commons  
-- **Discrepancias resueltas:** (1) Lugar de nacimiento: West Lafayette según la ficha de la categoría en Wikimedia Commons frente a la base Davis-Monthan (Arizona) según Wikipedia (EN); se adopta Davis-Monthan. (2) Grado de Marc Sasseville el 11-S: teniente coronel entonces según la National Guard Association of the United States frente a coronel según el National Museum of the U.S. Air Force; el post no precisa su grado aquel día. (3) Años de servicio de Penney: 23 años de uniforme según la NGAUS frente al periodo 1998–2016 documentado en Wikipedia (EN); se adopta el periodo 1998–2016.  
+- **Timestamp de verificación:** 2026-10-07 16:39:00 CST
+- **Fuentes primarias/institucionales consultadas:** National Museum of the U.S. Air Force, National September 11 Memorial and Museum y National Guard Association of the United States (NGAUS).  
+- **Fuentes secundarias de contraste:** *NewsNation*, Wikipedia (EN) y Wikimedia Commons.  
+- **Discrepancias resueltas:** Se adoptó la base Davis-Monthan (Arizona) como lugar de nacimiento frente a West Lafayette en una categoría de Commons; se omitió el grado exacto de Sasseville el 11-S por divergencia entre NGAUS (teniente coronel) y el NMUSAF (coronel); y se fijó el periodo en la Guardia Nacional Aérea en `1998–2016`.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO].”

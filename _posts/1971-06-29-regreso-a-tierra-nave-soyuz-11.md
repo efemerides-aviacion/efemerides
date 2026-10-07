@@ -20,7 +20,7 @@ image: 1971-06-29-regreso-a-tierra-nave-soyuz-11.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 29 de junio de 1971, a las 23:16:52 UTC, la cápsula de descenso de la Soyuz 11 tocó la estepa de Kazajistán con sus tres cosmonautas sin vida. Georgy Dobrovolsky, Vladislav Volkov y Viktor Patsayev habían completado la primera misión de la historia en una estación espacial, la Salyut 1, y batido el récord de permanencia con 23 días, 18 horas y 21 minutos. Sin embargo, durante el regreso a la Tierra, una válvula de igualación de presión se abrió prematuramente a unos 168 km de altitud, despresurizando el módulo de descenso. Al no llevar escafandras, los tres cosmonautas fallecieron por asfixia, convirtiéndose en las únicas personas que han muerto en el espacio, por encima de la línea de Kármán.</p>
+<p>El 29 de junio de 1971, a las 23:16:52 UTC, el módulo de retorno de la Soyuz 11 tocó la estepa de Kazajistán con sus tres cosmonautas sin vida. Georgy Dobrovolsky, Vladislav Volkov y Viktor Patsayev habían completado la primera misión de la historia en una estación espacial, la Salyut 1, y batido el récord de permanencia con 23 días, 18 horas y 21 minutos. Sin embargo, durante el regreso a la Tierra, una válvula de igualación de presión se abrió prematuramente a unos 168 km de altitud, despresurizando el módulo de descenso. Al no llevar escafandras, los tres cosmonautas fallecieron por asfixia, convirtiéndose en las únicas personas que han muerto en el espacio, por encima de la línea de Kármán.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
@@ -38,7 +38,7 @@ image: 1971-06-29-regreso-a-tierra-nave-soyuz-11.webp
 - **Altitud orbital:** 185-217 km
 - **Inclinación orbital:** 51,6°
 - **Estación espacial visitada:** Salyut 1 (acoplamiento el 7 de junio de 1971; desacoplamiento el 29 de junio de 1971, 18:28 UTC)
-- **Causa del accidente:** Apertura prematura de una válvula de igualación de presión entre el módulo orbital y el módulo de descenso, provocada por el disparo simultáneo de pernos explosivos en lugar de secuencial
+- **Causa del accidente:** Apertura destemporizada de una válvula de ventilación y ecualización barométrica durante la separación de los módulos de la nave, provocada por el disparo simultáneo de pernos pirotécnicos en lugar de secuencial
 - **Altitud del accidente:** Aproximadamente 168 km (104 millas) sobre la Tierra
 - **Consecuencia inmediata:** Únicos seres humanos fallecidos en el espacio (por encima de la línea de Kármán)
 - **Respuesta técnica:** Rediseño de la Soyuz para transportar solo dos cosmonautas con escafandras Sokol durante el lanzamiento y el aterrizaje
@@ -113,7 +113,7 @@ La tripulación de la Soyuz 11 sigue siendo recordada como las únicas personas 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0b2545, #134074, #e74c3c, #c0392b);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 10:01:52 CST  
+- **Timestamp de verificación:** 2026-10-07 16:30:00 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/ES), Russian Space Web, La Vanguardia, NASA, Astronautix
 - **Discrepancias resueltas:** Se corrigió la fecha de la efeméride al 29 de junio de 1971 usando UTC, el estándar para eventos espaciales; se corrigió la hora de lanzamiento; se adoptó la altitud de despresurización de 168 km según informes técnicos; se omitió el dato no confirmado de “362 órbitas”, empleando la cifra verificada de 383 órbitas; se señaló la variación en la ubicación exacta del aterrizaje según distintas fuentes.
 - **Nivel de confianza:** Alto

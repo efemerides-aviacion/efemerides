@@ -24,25 +24,14 @@ image: 1971-08-07-apolo-xv-usa-vehiculo-lrv-primera-vez.webp
 ## Datos verificados del evento
 
 - **Duración de la misión:** del 26 de julio al 7 de agosto de 1971.
-- **Amerizaje:** 7 de agosto de 1971, 20:45:53 UTC, en el Pacífico Norte. Recuperación a cargo del buque anfibio USS *Okinawa*.
-- **Lanzamiento:** 26 de julio de 1971, 13:34:00 UTC, con un cohete Saturn V SA-510 desde la plataforma 39A del Centro Espacial Kennedy.
-- **Tripulación:** David R. Scott, comandante; Alfred M. Worden, piloto del módulo de mando; James B. Irwin, piloto del módulo lunar.
+- **Amerizaje:** 7 de agosto de 1971, 20:45:53 UTC, en el Pacífico Norte; recuperación por el buque de asalto anfibio USS *Okinawa*.
+- **Lanzamiento:** 26 de julio de 1971, 13:34:00 UTC, en el lanzador Saturn V SA-510 desde el complejo 39A de Cabo Kennedy.
+- **Tripulación:** David R. Scott (comandante), Alfred M. Worden (piloto del módulo de mando) y James B. Irwin (piloto del módulo lunar).
 - **Naves:** módulo de mando y servicio *Endeavour*; módulo lunar *Falcon*.
-- **Lugar de alunizaje:** Hadley-Apenino, en el borde oriental del Mare Imbrium, junto a los Montes Apeninos y la sinuosa Rima Hadley.
-- **Estancia en la Luna:** aproximadamente tres días.
-- **Actividades extravehiculares en superficie:** cuatro, incluida una de reconocimiento realizada por Scott desde la escotilla superior del módulo lunar. Tiempo total fuera de la nave: 19 horas, 7 minutos y 53 segundos.
-- **Primer despliegue del vehículo lunar:** 31 de julio de 1971, durante la primera salida.
-- **Distancia recorrida con el vehículo:** 27,9 kilómetros.
-- **Muestras recogidas:** 77 kilogramos de material lunar.
-- **Vehículo:** Lunar Roving Vehicle, desarrollado por Boeing con la división Delco de General Motors bajo dirección del Centro Marshall de Vuelos Espaciales.
-- **Masa del vehículo:** 210 kilogramos en la Tierra. Capacidad de carga: 490 kilogramos.
-- **Propulsión:** cuatro motores eléctricos independientes, uno por rueda, alimentados por dos baterías de plata y zinc no recargables de 36 voltios.
-- **Prestaciones:** velocidad máxima en torno a 13 kilómetros por hora y autonomía teórica de 92 kilómetros.
-- **Incidencia técnica:** la dirección delantera no respondió durante la primera salida y hubo que gobernar el vehículo solo con las ruedas traseras. Quedó operativa en la segunda.
-- **Hallazgo geológico destacado:** la denominada Roca Génesis, una anortosita atribuida a la corteza lunar primitiva.
-- **Experimento divulgativo:** Scott dejó caer simultáneamente un martillo y una pluma ante las cámaras para comprobar que, sin atmósfera, ambos cuerpos caen con idéntica aceleración.
-- **Actividad extravehicular en el regreso:** Worden salió al espacio durante 39 minutos y 7 segundos para recuperar los casetes de película del compartimento de instrumentos científicos. Fue el primer paseo espacial realizado en el espacio profundo.
-- **Incidencia en el amerizaje:** uno de los tres paracaídas principales se abrió solo parcialmente, sin consecuencias.
+- **Lugar de alunizaje:** valle de Hadley-Apenino, en el borde oriental del Mare Imbrium, junto a los Montes Apeninos y la Rima Hadley.
+- **Estancia lunar y salidas:** casi tres días en superficie; cuatro actividades extravehiculares (incluida una de observación desde la escotilla superior), con 19 horas, 7 minutos y 53 segundos acumulados.
+- **Vehículo lunar (LRV):** desplegado el 31 de julio de 1971; fabricado por Boeing y Delco (General Motors) bajo dirección del Centro Marshall; 210 kg de masa en tierra (490 kg de carga útil), cuatro motores eléctricos independientes con dos baterías de plata-zinc de 36 V, velocidad máxima de 13 km/h y 27,9 km recorridos en total.
+- **Hitos científicos y de retorno:** 77 kg de muestras recolectadas (incluida la anortosita llamada Roca Génesis), demostración de caída libre del martillo y la pluma en vacío, y caminata espacial de 39 minutos y 7 segundos de Worden en el trayecto de regreso.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Contexto Histórico
@@ -85,11 +74,9 @@ El rendimiento científico de la misión superó con holgura al de todas las ant
 
 Los 77 kilogramos de muestras casi duplicaron lo recogido en misiones previas, pero el dato relevante no es el peso sino la procedencia: el vehículo permitió muestrear el frente de los Montes Apeninos y el borde de la Rima Hadley, formaciones separadas por kilómetros y de origen geológico distinto. Entre el material figuraba la anortosita bautizada como Roca Génesis, que los primeros análisis atribuyeron a la corteza lunar primitiva y que contribuyó a sostener la hipótesis del océano de magma en la formación de la Luna.
 
-La demostración del martillo y la pluma tuvo una función distinta y deliberada. Scott la ejecutó ante las cámaras de televisión sabiendo que reproducía, en condiciones ideales, el experimento que se atribuye a Galileo. Ambos objetos tocaron el suelo a la vez. Fue divulgación científica planificada, no improvisación.
+La demostración del martillo y la pluma tuvo una función deliberada: Scott la ejecutó ante las cámaras de televisión reproduciendo en vacío el experimento atribuido a Galileo, y ambos objetos tocaron el suelo simultáneamente.
 
-En el plano operativo, el vehículo validó un concepto que se repetiría en las dos misiones siguientes. Los Apolo 16 y 17 llevaron ejemplares similares y ampliaron todavía más el rango de exploración. Los tres permanecen abandonados en la superficie lunar, en los respectivos puntos de alunizaje.
-
-La misión dejó también una lección sobre la fragilidad de los sistemas: el fallo de la dirección delantera durante la primera salida obligó a improvisar, y el paracaídas que se abrió a medias en el amerizaje recordó que ninguna fase del vuelo era rutinaria. Ninguno de los dos incidentes tuvo consecuencias.
+En el plano operativo, el vehículo validó un concepto que se repetiría en los Apolo 16 y 17, cuyos ejemplares ampliaron el radio de exploración y quedaron igualmente en la superficie lunar. El fallo de la dirección delantera en la primera salida y la apertura parcial de uno de los tres paracaídas en el amerizaje se resolvieron sin consecuencias para la tripulación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Legado
@@ -100,9 +87,9 @@ Su descendencia directa no es tripulada, pero comparte el mismo principio: exten
 
 De los cuatro vehículos construidos para vuelo, tres quedaron en la Luna. El cuarto, destinado a una misión cancelada, se conserva en tierra y se exhibe en museos como testimonio de un programa que terminó antes de agotar su material.
 
-La misión dejó además dos marcas personales. Worden protagonizó el primer paseo espacial fuera de la órbita terrestre, a más de trescientos mil kilómetros de casa, maniobra que hoy sigue siendo excepcional. Irwin, por su parte, abandonó la NASA poco después y dedicó el resto de su vida a la predicación religiosa, tras describir la experiencia lunar como una revelación espiritual.
+La misión dejó además dos marcas personales. Worden protagonizó el primer paseo espacial en el trayecto cislunar, a más de trescientos mil kilómetros de la Tierra, maniobra que sigue siendo excepcional. Irwin, por su parte, dejó la NASA poco después tras describir su estancia en la Luna como una revelación espiritual.
 
-El Apolo 15 fue la primera misión cuya tripulación no pasó cuarentena al regreso, una vez descartado el riesgo de contaminación biológica lunar. Ese detalle administrativo señala un cambio de época: la Luna había dejado de ser una incógnita para convertirse en un lugar de trabajo.
+El Apolo 15 fue también el primer vuelo lunar cuya tripulación quedó exenta de cuarentena al regresar, una vez descartado el riesgo biológico: la Luna había dejado de ser una incógnita para convertirse en un laboratorio de campo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Referencias Verificadas
@@ -125,10 +112,9 @@ El Apolo 15 fue la primera misión cuya tripulación no pasó cuarentena al regr
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 12:02:27 CST
-- **Fuentes primarias/institucionales consultadas:** NASA, página oficial de la misión, artículos históricos sobre el despliegue del vehículo lunar y documentación gráfica; Smithsonian National Air and Space Museum, ficha del módulo de mando conservado en su colección.
-- **Fuentes secundarias de contraste:** Wikipedia en inglés y en español, con referencia al informe oficial de la misión y a la cronología de Orloff y Harland.
-- **Discrepancias resueltas:** se consignó el recuento de cuatro actividades extravehiculares en superficie, incluida la de reconocimiento desde la escotilla, frente a las tres que citan las fuentes divulgativas; se adoptó la distancia de 27,9 kilómetros del informe oficial frente al redondeo a 28 de otras recopilaciones; se distinguió la masa terrestre del vehículo de su peso aparente en la gravedad lunar; se separó la fecha del primer uso del vehículo, 31 de julio, de la de conclusión de la misión.
-- **Datos no confirmados:** la duración exacta de la conducción efectiva del vehículo, que las fuentes cifran de manera divergente.
+- **Timestamp de verificación:** 2026-10-07 16:33:00 CST
+- **Fuentes primarias/institucionales consultadas:** NASA (página oficial de la misión Apolo 15 y archivo histórico del LRV) y Smithsonian National Air and Space Museum (ficha del módulo *Endeavour*).
+- **Fuentes secundarias de contraste:** Wikipedia (EN/ES), informe de misión y cronología de Orloff y Harland.
+- **Discrepancias resueltas:** Se consignaron cuatro actividades extravehiculares en superficie (incluida la observación desde la escotilla superior), la distancia oficial de `27,9 km` frente al redondeo a `28 km`, la masa terrestre de `210 kg` frente a los `35 kg` equivalentes en gravedad lunar y la distinción entre el estreno del vehículo (31 de julio) y el amerizaje (7 de agosto).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

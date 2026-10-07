@@ -76,7 +76,7 @@ La secuencia siguiente detalla las etapas principales de la travesía y su encua
 
 El resultado inmediato fue una cosecha de marcas homologadas que consolidó a Scott como la aviadora británica más laureada de su generación.
 
-La Federación Aeronáutica Internacional ratificó siete récords mundiales de velocidad sobre recorrido reconocido logrados durante la travesía, entre ellos los tramos entre Andøya y la Estación Nord, entre Nord y Barrow, entre San Francisco y Honolulu, y entre Darwin y Londres. Varios de ellos permanecen vigentes más de medio siglo después, lo que da idea de la exigencia del itinerario para la categoría de aeronaves en que compitió.
+La Federación Aeronáutica Internacional homologó siete marcas globales de velocidad entre capitales y puntos de control obtenidas a lo largo del vuelo, entre ellas los tramos entre Andøya y la Estación Nord, entre Nord y Barrow, entre San Francisco y Honolulu, y entre Darwin y Londres. Varios de ellos permanecen vigentes más de medio siglo después, lo que da idea de la exigencia del itinerario para la categoría de aeronaves en que compitió.
 
 El experimento de la NASA aportó un resultado de alcance distinto. El sistema instalado a bordo transmitió de forma continua la posición de la aeronave al satélite Nimbus, que la retransmitía a una estación terrestre en Alaska y de allí a un centro de cálculo en Maryland. La prueba confirmó que un satélite en órbita polar podía seguir una plataforma móvil en cualquier punto del planeta, capacidad que hoy resulta cotidiana y que entonces se estaba demostrando por primera vez en condiciones reales.
 
@@ -116,9 +116,9 @@ Su aportación de fondo, sin embargo, no está en las vitrinas. Aquella travesí
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 12:02:27 CST
-- **Fuentes primarias/institucionales consultadas:** National Air and Space Museum, Smithsonian Institution, ficha archivística del cuaderno de bitácora NASM.XXXX.0863; NASA, a través de la ficha documental de la fotografía del vuelo y de la descripción del experimento IRLS con el satélite Nimbus; registros de la Federación Aeronáutica Internacional citados en la documentación consultada.
-- **Fuentes secundarias de contraste:** This Day in Aviation, Wikipedia en inglés, BBC News.
-- **Discrepancias resueltas:** se corrigió la denominación del aparato, descrito como monomotor en el planteamiento inicial y en diversas fuentes divulgativas, incluido el pie oficial de la fotografía de la NASA; se verificó en Wikipedia y en This Day in Aviation que el Piper PA-23-250 Aztec D es bimotor y se adoptó la fórmula «avión ligero»; se distinguió la fecha de culminación de la travesía, el 4 de agosto de 1971, de la fecha del sobrevuelo polar, el 28 de junio; se precisó que el hito corresponde a la primera persona y no únicamente a la primera mujer; se contrastó la ficha archivística del Smithsonian, que discrepa en el año de nacimiento, en la fecha y el lugar de inicio de la travesía y en el número de motores, y se mantuvieron los datos respaldados por el resto de fuentes.
+- **Timestamp de verificación:** 2026-10-07 16:32:00 CST
+- **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (bitácora NASM.XXXX.0863), NASA (ficha de la imagen del vuelo y experimento IRLS con el satélite Nimbus) y registros FAI.
+- **Fuentes secundarias de contraste:** *This Day in Aviation*, Wikipedia (EN), *BBC News*.
+- **Discrepancias resueltas:** Se precisó que el Piper PA-23-250 Aztec D *Mythre* (`G-AYTO`) es bimotor («avión ligero») frente al error de varias fuentes divulgativas y pies de foto que lo llaman monomotor; se distinguió el sobrevuelo polar (28 de junio) de la culminación en Londres (4 de agosto de 1971) y se verificó que fue la primera persona en lograrlo.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
