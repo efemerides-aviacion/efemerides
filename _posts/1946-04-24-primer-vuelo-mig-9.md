@@ -16,142 +16,70 @@ image: 1946-04-24-primer-vuelo-mig-9.webp
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 24 de abril de 1946 voló por primera vez el Mikoyan-Gurevich MiG-9, el primer caza a reacción de producción propia de la URSS, configurado como bimotor turborreactor de primera generación que abriría el camino a la posterior familia MiG-15. Pilotado por Alexéi Grinchik, el prototipo I-300 despegó desde el aeródromo de Chkalovskaya (cerca de Moscú), en un vuelo que duró aproximadamente seis minutos. Ese mismo día, dos horas después, también realizó su primer vuelo el Yakovlev Yak-15, marcando el inicio de la era de los cazas a reacción soviéticos.</p>
+<p>El 24 de abril de 1946 voló por primera vez el Mikoyan-Gurevich MiG-9 (prototipo I-300), primer caza propulsado exclusivamente por turborreactores diseñado y producido en serie en la Unión Soviética. Pilotado por Alexéi Nikoláyevich Grinchik desde el aeródromo de Chkalovskaya, cerca de Moscú, completó un circuito de seis minutos que inauguró la era del reactor en la aviación militar soviética, apenas dos horas antes de que despegara en la misma jornada el Yakovlev Yak-15.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
-- **Fecha del primer vuelo:** 24 de abril de 1946
-- **Lugar:** Aeródromo de pruebas de Chkalovskaya (cerca de Moscú), URSS
-- **Prototipo:** I-300 (también conocido como Izdeliye F)
-- **Piloto de pruebas:** Alexéi Nikolaevich Grinchik
-- **Duración del primer vuelo:** Aproximadamente 6 minutos
-- **Motores:** Dos turborreactores RD-20 (copia soviética del BMW 003 alemán); en algunas unidades se utilizaron motores BMW 003 originales por escasez
-- **Velocidad máxima:** 910 km/h
-- **Techo de servicio:** 13.500 metros
-- **Alcance:** 800 km
-- **Armamento:** Un cañón Nudelman N-37 de 37 mm (montado en el tabique central de la toma de aire) y dos cañones Nudelman-Suranov NS-23 de 23 mm (montados en la parte inferior del morro)
-- **Apodos:** Fargo (designación OTAN), "Butterfly" (apodo del carenado tipo mariposa)
-- **Unidades construidas:** 610 (incluyendo prototipos)
-- **Entrada en servicio:** 1948 (retirado en 1952 en la URSS)
-- **Designación OTAN:** Fargo
+- **Fecha del primer vuelo:** 24 de abril de 1946 (09:44 horas).
+- **Lugar:** base de ensayos de Chkalovskaya (provincia de Moscú), Unión Soviética.
+- **Prototipo y oficina de diseño:** I-300 (*Izdeliye F*), proyectado por la OKB-155 de Artiom Mikoyán y Mijaíl Gurévich.
+- **Piloto de pruebas:** Alexéi Nikoláyevich Grinchik (duración aproximada de 6 minutos; cota de 1.200 m y velocidad de 520 km/h).
+- **Planta motriz:** dos turborreactores de flujo axial RD-20 de 7,8 kN (800 kgf) de empuje unitario, copia soviética del BMW 003A alemán (algunos ejemplares emplearon motores originales capturados).
+- **Dimensiones y pesos (serie MiG-9 / I-301):** longitud de 9,75 m, envergadura de 10,00 m, superficie alar de 18,20 m², peso en vacío de 3.283 kg y máximo al despegue de 5.075 kg.
+- **Prestaciones y armamento:** velocidad máxima de 910 km/h, techo de 13.500 m, alcance de 800 km; un cañón Nudelman N-37 de 37 mm en el tabique central de admisión y dos NS-23 de 23 mm bajo el morro.
+- **Producción y servicio:** 610 unidades fabricadas entre 1946 y 1948 (designación OTAN *Fargo*); en activo en la VVS entre 1948 y 1952.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-Al finalizar la Segunda Guerra Mundial, la Unión Soviética se encontró en desventaja tecnológica frente a sus antiguos aliados occidentales. Alemania había desarrollado los primeros cazas a reacción operativos del mundo: el Messerschmitt Me 262 y el Heinkel He 162. El Reino Unido ya operaba el Gloster Meteor, y Estados Unidos estaba desarrollando sus propios reactores como el P-80 Shooting Star. La URSS, en cambio, seguía dependiendo de cazas de pistón como el Yak-3 y el La-7. Para no quedar rezagada, el gobierno soviético ordenó el desarrollo urgente de un caza a reacción nacional, basado inicialmente en la tecnología alemana capturada.
-
-En febrero de 1945, Stalin convocó a los principales diseñadores de cazas en el Kremlin y se quejó del pobre desempeño de la URSS en la implementación de la tecnología a reacción. Ordenó que la primera generación de cazas a reacción soviéticos debía equiparse con motores alemanes capturados. A Mikoyan-Gurevich se le asignó el uso del BMW 003, mientras que a Yakovlev se le asignó el Jumo 004.
+Al término de la Segunda Guerra Mundial, la Unión Soviética carecía de cazas de reacción operativos frente a los desarrollos ya puestos en vuelo por Alemania —como el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1941/04/18/primer-vuelo-prototipo-messerschmitt-me-262.html" style="color: #315fea; text-decoration: none;">Messerschmitt Me 262</a>—, el Reino Unido con el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1943/03/05/primer-vuelo-gloster-meteor-reactor-britanico.html" style="color: #315fea; text-decoration: none;">Gloster Meteor</a> y Estados Unidos con el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1944/01/08/primer-vuelo-lockheed-p80.html" style="color: #315fea; text-decoration: none;">Lockheed P-80 Shooting Star</a>. En febrero de 1945, el Consejo de Comisarios del Pueblo y Iósif Stalin ordenaron a las principales oficinas de proyectos desarrollar con urgencia interceptores a reacción basados en las turbinas alemanas capturadas al final de la contienda: a Mikoyán-Gurévich se le asignó el empleo de dos BMW 003 y a Aleksandr Yákovlev el del Junkers Jumo 004.
 
 ### Entorno social
 
-La posguerra en la Unión Soviética fue un período de reconstrucción masiva y de consolidación del poder estalinista. La industria aeronáutica, que había producido decenas de miles de aviones durante la guerra, fue reorganizada para afrontar los desafíos de la era del reactor. El prestigio nacional estaba en juego: la URSS debía demostrar que podía igualar o superar la tecnología occidental.
+La posguerra soviética combinó una reconstrucción industrial acelerada con la incipiente rivalidad estratégica de la Guerra Fría. La industria aeronáutica, que había fabricado decenas de miles de aparatos de madera y metal con motor de émbolo entre 1941 y 1945, hubo de reconvertir en pocos meses sus plantas metalúrgicas, bancos de ensayo e institutos aerodinámicos (TsAGI y LII) para producir células íntegramente metálicas capaces de soportar regímenes de alta velocidad subsónica.
 
 ### Entorno tecnológico
 
-A diferencia de los cazas occidentales, que utilizaban motores de flujo centrífugo (como el Rolls-Royce Nene), los diseñadores soviéticos optaron inicialmente por copiar los motores de flujo axial alemanes BMW 003 y Junkers Jumo 004. El motor RD-20 era una copia exacta del BMW 003, mientras que el RD-10 copiaba el Jumo 004. El MiG-9 utilizaba dos RD-20 montados en el fuselaje delantero, con las toberas de escape bajo el fuselaje central. En algunos casos, debido a la escasez y a fallos en la entrega de los RD-20, se utilizaron motores BMW 003 originales en algunos aviones de producción.
+Mientras británicos y estadounidenses priorizaban entonces los turborreactores de compresor centrífugo, la primera generación soviética partió de los motores alemanes de compresor axial reproducidos en las plantas de Kazán y Ufá bajo las denominaciones RD-20 (BMW 003) y RD-10 (Jumo 004). En el I-300, los ingenieros optaron por una configuración *rechange* de fuselaje en góndola (*pod-and-boom*), alojando ambos RD-20 en paralelo dentro de la sección central inferior con las toberas saliendo bajo la viga de cola. Para proteger el cono de cola de los gases de escape a alta temperatura se incorporó un escudo térmico de acero laminado, junto con un ala recta de flujo laminar y tren de aterrizaje triciclo retráctil.
 
 ### Entorno cultural
 
-La rivalidad entre las oficinas de diseño soviéticas (OKB) era intensa. Mikoyan-Gurevich (MiG) y Yakovlev (Yak) competían por el favor de Stalin y del gobierno. Ambos presentaron sus prototipos de cazas a reacción casi simultáneamente. Los dos prototipos competidores fueron trasladados al campo de pruebas de vuelo de Chkalovskaya en la primavera de 1946, donde ya esperaba el Yak-15. Según la tradición, se lanzó una moneda al aire para decidir qué avión volaría primero. El MiG ganó, y dos horas después voló el Yak.
+La competencia entre las oficinas OKB-155 (MiG) y OKB-115 (Yákovlev) marcó toda la primavera de 1946. Ambos prototipos coincidieron en los hangares de prueba y, según la tradición oral recogida por los equipos de vuelo, los responsables lanzaron una moneda al aire el 24 de abril para decidir qué aparato despegaría primero: la suerte favoreció al I-300 de Grinchik, seguido dos horas más tarde por el Yak-15 pilotado por Mijaíl Ivánov.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **Febrero de 1945:** Stalin ordena en el Kremlin el desarrollo de cazas a reacción con motores alemanes capturados.
-- **Marzo - diciembre de 1945:** Diseño y construcción del prototipo I-300 en la oficina de Mikoyan-Gurevich.
-- **9 de abril de 1946:** El prototipo I-300 es trasladado al aeródromo de pruebas de Chkalovskaya.
-- **19 de abril de 1946:** Primer "salto" del I-300: Grinchik eleva el avión unos 4 metros para probar sistemas.
-- **24 de abril de 1946:** Primer vuelo completo, con una duración aproximada de 6 minutos. El avión alcanza una altitud de 1.200 metros y alcanza 520 km/h.
-- **18 de agosto de 1946:** El MiG-9 es presentado en el desfile aéreo de Túshino, pilotado por Gueorgui Shiyánov.
-- **1947:** El MiG-9 entra en producción en serie en la Fábrica de Aeronaves de Moscú (GAZ-1).
-- **1948:** El MiG-9 entra oficialmente en servicio con la Fuerza Aérea Soviética.
-- **1950:** El diseño se demuestra obsoleto frente al MiG-15, que utiliza el motor Rolls-Royce Nene copiado (RD-45).
-- **1952:** El MiG-9 es retirado del servicio en la URSS.
+El programa del primer reactor de la oficina MiG se desarrolló con notable rapidez entre el encargo gubernamental de 1945 y su relevo por los cazas de ala en flecha:
 
-### El primer vuelo: el nacimiento del MiG-9
-
-El 24 de abril de 1946 fue un día histórico para la aviación soviética. El piloto de pruebas Alexéi Grinchik, sentado en la cabina del prototipo I-300 en el aeródromo de pruebas de Chkalovskaya (cerca de Moscú), recibió la orden de iniciar los motores RD-20. Eran las 9:44 de la mañana.
-
-Al despegar, Grinchik verificó el comportamiento del avión en el aire: la respuesta a los mandos era adecuada, aunque la estabilidad direccional era deficiente. En su breve vuelo de seis minutos, el I-300 alcanzó una altitud de 1.200 metros y una velocidad de 520 km/h. El aterrizaje fue exitoso.
-
-Dos horas después, el piloto M. Ivanov despegó en el prototipo del Yakovlev Yak-15, utilizando un motor RD-10 (copia del Jumo 004). La URSS había entrado oficialmente en la era de la aviación a reacción.
-
-### Los problemas técnicos
-
-El MiG-9 tenía una peculiaridad peligrosa: al disparar los cañones, los gases de combustión ingresaban a los compresores de los motores, provocando apagones. Las tomas de aire de los motores estaban ubicadas en la parte delantera del fuselaje, muy cerca de la boca de los cañones. Al disparar, los gases de combustión eran succionados por los compresores, causando el apagón de los motores.
-
-La solución inicial fue instalar un carenado rectangular hueco en el cañón N-37, apodado "butterfly" (mariposa) por el personal de tierra. Esto permitía disparar los tres cañones simultáneamente hasta 10.100 metros de altitud, pero el carenado se desintegraba después de solo 813 disparos, con el riesgo de que los restos fueran succionados por los motores.
-
-### El apodo "Fargo"
-
-La OTAN asignó al MiG-9 el nombre en código "Fargo". El origen de esta designación era arbitrario, como todas las designaciones OTAN para aviones soviéticos, que comenzaban con la letra "F" para los cazas (Fighter). Fargo fue simplemente el nombre asignado sin un significado especial.
-
-### Producción y servicio
-
-Entre 1947 y 1948, la Fábrica de Aeronaves de Moscú (GAZ-1) produjo 610 unidades del MiG-9, incluyendo el primer prototipo y variantes experimentales. Su servicio en la Fuerza Aérea Soviética fue breve: desde 1948 hasta 1952. Las limitaciones del diseño (sobre todo los problemas con los cañones y la obsolescencia de los motores RD-20) lo dejaron rápidamente relegado frente al MiG-15.
-
-De las 610 unidades construidas, al menos 372 fueron transferidas a la Fuerza Aérea del Ejército Popular de Liberación de China (PLAAF) en 1950 para defender ciudades chinas de las incursiones nacionalistas. Allí se utilizaron principalmente para entrenamiento de pilotos, ya que fueron rápidamente reemplazados por el MiG-15. China construyó también bajo licencia una versión denominada Shenyang J-2.
-
-### Variantes experimentales
-
-A partir del MiG-9 se desarrollaron múltiples versiones experimentales:
-- **I-302 (MiG-9M):** Con motores RD-21 y cabina presurizada; voló en junio de 1947, alcanzó una velocidad máxima de 965 km/h, pero no superó las pruebas oficiales de certificación del Instituto de Investigaciones Científicas de la VVS (NII VVS), que determinaron que el diseño era inferior al MiG-15 y presentaba problemas en el motor y la cabina presurizada.
-- **I-305 (MiG-9FT):** Con un solo motor Lyulka TR-1 de 1.500 kgf; se canceló cuando el MiG-15 comenzó sus pruebas.
-- **I-307 (MiG-9FR):** Otra versión con motores RD-21 y cabina presurizada; voló en 1947 pero fue inferior al MiG-15.
-- **I-320 (MiG-9FN):** Diseñado para usar un motor Rolls-Royce Nene importado, pero nunca se completó porque el MiG-15 utilizó el mismo motor y ofrecía un rendimiento superior.
-- **MiG-9UTI (Uchebno-Trenirovochnyy Istrebitel):** Versión biplaza de entrenamiento, diseñada para la transición de pilotos a los cazas a reacción con tren de aterrizaje triciclo. Entró en producción a partir de 1948, pero su desarrollo fue limitado porque el MiG-15 (con su propia versión de entrenamiento UTI) ya demostraba un rendimiento superior.
-
-### Especificaciones (MiG-9 / FS / I-301)
-
-- **Tripulación:** 1
-- **Longitud:** 9,75 metros
-- **Envergadura:** 10,00 metros
-- **Altura:** 3,22 metros
-- **Superficie alar:** 18,20 m²
-- **Peso vacío:** 3.283 kg (7.238 lb)
-- **Peso bruto:** 4.860 kg (10.714 lb)
-- **Peso máximo al despegue:** 5.075 kg
-- **Carga alar:** 267 kg/m² (55 lb/ft²)
-- **Relación empuje-peso:** 0,40
-- **Límites de fuerzas G:** +6
-- **Motor:** 2 × turborreactores RD-20, 7,8 kN (800 kgf) de empuje cada uno
+- **Febrero–diciembre de 1945:** el Kremlin aprueba el requisito del caza bimotor I-300 y la oficina de Mikoyán y Gurévich construye los tres primeros prototipos con asesoramiento del TsAGI.
+- **9–19 de abril de 1946:** el primer ejemplar se traslada por carretera a la pista de ensayos; tras las carreras de rodaje, Grinchik efectúa el 19 de abril un breve salto de cuatro metros sobre el pavimento para verificar el mando de cabeceo.
+- **24 de abril de 1946:** a las 09:44 horas, Grinchik despega para el primer vuelo completo de seis minutos, comprobando la respuesta general de los mandos pese a cierta inestabilidad direccional y vibraciones en el escudo térmico trasero.
+- **11 de julio y 18 de agosto de 1946:** durante el decimoquinto vuelo de evaluación, Grinchik fallece al desintegrarse el ala del primer prototipo a baja cota ante autoridades ministeriales; pese al accidente, los prototipos segundo y tercero continúan las pruebas y Gueorgui Shiyánov presenta el modelo en el desfile aéreo de Túshino del 18 de agosto.
+- **Invierno de 1946–1947:** se inicia la fabricación de preserie (I-301) y de serie bajo la denominación oficial MiG-9 en la planta n.º 1 de Kúibyshev, utilizando tanto motores BMW 003 originales como los nuevos RD-20 nacionales.
+- **1947–1948:** durante los ensayos de tiro se comprueba que los gases de pólvora del cañón frontal N-37 son aspirados por la toma de aire a gran altitud y provocan el apagado de los compresores; se ensaya un deflector perforado en la boca del arma apodado «mariposa» (*butterfly*) y se desarrollan las variantes experimentales I-302, I-305, I-307 y el biplaza de conversión MiG-9UTI (I-301T).
+- **1948–1952:** el caza entra en servicio en los regimientos de la Fuerza Aérea Soviética; superado pronto por el MiG-15 de ala en flecha y motor centrífugo derivado del Rolls-Royce Nene, al menos 372 aparatos se transfieren a partir de 1950 a la República Popular China para defensa aérea y conversión de pilotos al vuelo a reacción, antes de su baja definitiva en la URSS en 1952.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Primer paso de la URSS en la aviación a reacción:** Aunque tecnológicamente limitado, el MiG-9 permitió a los ingenieros soviéticos adquirir experiencia en el diseño, construcción y operación de aeronaves a reacción.
+Aunque su vida operativa de primera línea fue corta, el MiG-9 cumplió un papel formativo decisivo para la ingeniería y la doctrina táctica soviéticas. El diseño permitió dominar en apenas año y medio la aerodinámica de perfiles laminares, los trenes triciclos para velocidades de aterrizaje elevadas y la operación cotidiana de turborreactores en climas extremos.
 
-- **Impulso al desarrollo del MiG-15:** Las lecciones aprendidas con los problemas del MiG-9 (apagado de motores al disparar cañones, estabilidad deficiente) se aplicaron en el diseño del MiG-15, que se convertiría en uno de los cazas más exitosos de la Guerra de Corea.
-
-- **Demostración de capacidad industrial:** La URSS demostró que podía diseñar, construir y poner en producción un caza a reacción en menos de 18 meses, un logro industrial notable.
-
-- **Legado en China:** El MiG-9 sirvió como base para el Shenyang J-2, el primer caza a reacción producido en China.
+Asimismo, los defectos detectados durante su desarrollo —en particular la ingestión de gases de los cañones por la toma frontal y las limitaciones de empuje y fiabilidad del motor axial RD-20— guiaron directamente las soluciones adoptadas en el I-310 (futuro MiG-15), donde el armamento se desplazó a la parte inferior del morro y se optó por una turbina de mayor caudal y ala en flecha de 35 grados. En China, los regimientos equipados con MiG-9 constituyeron la escuela práctica en la que se formaron las primeras promociones de pilotos de caza a reacción del Ejército Popular de Liberación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El MiG-9 fue el eslabón perdido entre los cazas de pistón soviéticos de la Segunda Guerra Mundial y los iconos de la era del reactor como el MiG-15. Aunque su servicio fue breve (menos de 5 años en la URSS), su importancia histórica es incuestionable. Fue el primer jet de producción propia de la Unión Soviética, y su desarrollo demostró que la industria aeronáutica soviética podía competir con la occidental.
-
-Hoy sobreviven muy pocos ejemplares. Un MiG-9 se exhibe en el Museo Central de la Fuerza Aérea en Monino, cerca de Moscú. Otro está en el Museo de Aviación de Pekín (China). La mayoría fueron desguazados a finales de la década de 1950.
-
-El 24 de abril de 1946 sigue siendo una fecha emblemática en la historia de la aviación soviética. Ese día, dos jóvenes pilotos (Grinchik e Ivanov) y dos jóvenes oficinas de diseño (MiG y Yak) compitieron y triunfaron, lanzando una carrera que llevaría a la URSS a la vanguardia mundial de la aviación militar durante la Guerra Fría.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre la fecha del primer vuelo:</strong> El 24 de abril de 1946 es la fecha históricamente aceptada y documentada para el primer vuelo del MiG-9. Sin embargo, el prototipo I-300 realizó un "salto" previo de prueba (elevarse unos metros del suelo) el 19 de abril de 1946, que algunos consideran un vuelo rudimentario. El lanzamiento de la moneda al aire para decidir el orden entre el MiG-9 y el Yak-15 es una tradición ampliamente citada, aunque no documentada oficialmente.</p>
-<p><strong>Sobre los motores:</strong> El RD-20 era una copia exacta del motor alemán BMW 003. La Unión Soviética capturó fábricas y personal técnico alemán (operación Osoaviakhim) para replicar esta tecnología. Por escasez de copias funcionales, algunos aviones de producción utilizaron motores BMW 003 originales.</p>
-<p><strong>Sobre el apodo "Butterfly":</strong> El carenado tipo "mariposa" instalado en el cañón N-37 fue una solución temporal al problema de apagado de motores. Permitía vuelos de hasta 10.100 metros, pero se desintegraba después de solo 813 disparos.</p>
-</div>
+El MiG-9 pasó a la historia aeronáutica como el eslabón inaugural de la estirpe de reactores Mikoyán-Gurévich y como la prueba de que la industria soviética de posguerra podía poner en producción masiva un caza de reacción en plazos muy breves. De las 610 células construidas se conservan contados ejemplares completos, entre ellos el expuesto en el Museo Central de la Fuerza Aérea en Mónino (Federación de Rusia) y el preservado en el Museo de Aviación China en Datangshan (Pekín). Ochenta años después de aquel despegue matinal del 24 de abril de 1946, el vuelo de Grinchik permanece como el punto de partida de los reactores soviéticos de posguerra.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -159,23 +87,27 @@ El 24 de abril de 1946 sigue siendo una fecha emblemática en la historia de la 
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-9" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Mikoyan-Gurevich MiG-9</a></li>
-    <li><a href="https://www.wikiwand.com/en/articles/Mikoyan-Gurevich_MiG-9" style="color: #315fea; text-decoration: none;">Wikiwand - Mikoyan-Gurevich MiG-9</a></li>
-    <li><a href="https://www.ecured.cu/Mikoyan_Gurevich_MiG-9" style="color: #315fea; text-decoration: none;">EcuRed - Mikoyan Gurevich MiG-9</a></li>
-    <li><a href="https://www.zona-militar.com/2019/05/25/cazas-olvidados-mig-9-fargo-el-primer-caza-jet-sovietico/" style="color: #315fea; text-decoration: none;">Zona Militar - Cazas Olvidados: MiG-9 Fargo</a></li>
-    <li><a href="https://www.britannica.com/technology/MiG-9" style="color: #315fea; text-decoration: none;">Britannica - MiG-9</a></li>
-    <li><a href="https://aviastar.org/air/russia/mig-9.php" style="color: #315fea; text-decoration: none;">AviaStar - Mikoyan/Gurevich MiG-9</a></li>
-    <li><a href="https://www.skytamer.com/Mikoyan-Gurevich_MiG-09.html" style="color: #315fea; text-decoration: none;">Skytamer - Mikoyan-Gurevich MiG-9 Fargo</a></li>
-    <li><a href="https://w.russianwarrior.com/1947vehicle_mig9hist.htm" style="color: #315fea; text-decoration: none;">RussianWarrior - History of the MiG-9</a></li>
+    <li><a href="https://www.britannica.com/technology/MiG-9" style="color: #315fea; text-decoration: none;">Encyclopædia Britannica — «MiG-9»</a></li>
+    <li><a href="https://aviastar.org/air/russia/mig-9.php" style="color: #315fea; text-decoration: none;">Aviastar — «Mikoyan/Gurevich MiG-9 (I-300)»</a></li>
+    <li><a href="https://www.zona-militar.com/2019/05/25/cazas-olvidados-mig-9-fargo-el-primer-caza-jet-sovietico/" style="color: #315fea; text-decoration: none;">Zona Militar — «Cazas olvidados: MiG-9 Fargo, el primer caza jet soviético»</a></li>
+    <li><a href="https://www.skytamer.com/Mikoyan-Gurevich_MiG-09.html" style="color: #315fea; text-decoration: none;">Skytamer — «Mikoyan-Gurevich MiG-9 Fargo»</a></li>
+    <li><a href="https://es.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-9" style="color: #315fea; text-decoration: none;">Wikipedia (ES) — «Mikoyan-Gurevich MiG-9»</a></li>
   </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+<div class="note-box">
+<p><strong>Nota aclaratoria:</strong> el 24 de abril de 1946 es la fecha documentada del primer vuelo completo del prototipo I-300 (MiG-9), precedido el 19 de abril por un breve salto de prueba de unos cuatro metros durante las carreras de rodaje. La anécdota del sorteo con una moneda para decidir qué prototipo despegaría antes aquel día —el I-300 o el Yakovlev Yak-15— forma parte de la tradición histórica soviética, aunque no consta en un acta oficial de vuelo. En la literatura occidental posterior a la transferencia del modelo a China en 1950 se le atribuyó a veces la denominación «Shenyang J-2», empleada por observadores extranjeros para referirse a los MiG-9 operados por la aviación china.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), Britannica, EcuRed, Zona Militar, AviaStar, Skytamer, RussianWarrior
-- **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (24 de abril de 1946). El "salto" del 19 de abril de 1946 se menciona en algunas fuentes como una prueba previa. La rivalidad MiG vs Yak y el lanzamiento de la moneda es una tradición ampliamente citada, aunque no documentada oficialmente. Se ha corregido la ubicación (Chkalovskaya en lugar de Ramenskoye) y se han precisado los detalles técnicos (apodo "Butterfly", transferencia de 372 unidades a China, etc.).
-- **Nivel de confianza:** Alto
+- **Timestamp de verificación:** 2026-10-07 07:34:50 CST  
+- **Fuentes primarias/institucionales consultadas:** Encyclopædia Britannica, Aviastar  
+- **Fuentes de contraste:** Zona Militar, Skytamer, Wikipedia (ES)  
+- **Discrepancias resueltas:** se distingue el salto de rodaje del 19 de abril de 1946 del primer vuelo completo del 24 de abril en Chkalovskaya y se consigna como tradición el sorteo previo frente al Yak-15.  
+- **Nivel de confianza:** Alto  
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

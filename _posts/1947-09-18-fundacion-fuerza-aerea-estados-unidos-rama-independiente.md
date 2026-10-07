@@ -19,7 +19,7 @@ image: 1947-09-18-fundacion-fuerza-aerea-estados-unidos-rama-independiente.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 18 de septiembre de 1947, la <strong>United States Air Force (USAF) (Fuerza Aérea de Estados Unidos)</strong> inició su vida como rama militar independiente. Ese día se activó la nueva estructura del Department of the Air Force y W. Stuart Symington prestó juramento como su primer secretario ante el presidente de la Corte Suprema, Fred Vinson. El acto convirtió en realidad institucional la separación del arma aérea respecto del Ejército.</p>
+<p>El 18 de septiembre de 1947, la <strong>United States Air Force (USAF) (Fuerza Aérea de Estados Unidos)</strong> inició su vida como rama militar independiente. Ese día se activó la nueva estructura del Department of the Air Force y W. Stuart Symington prestó juramento como su primer titular civil ante el Presidente de la Corte Suprema, Fred Vinson. El acto convirtió en realidad institucional la separación del arma aérea respecto del Ejército.</p>
 <p>La fecha completa una secuencia jurídica y administrativa: el presidente Harry S. Truman había firmado la <em>National Security Act of 1947</em> el 26 de julio, a bordo del Douglas VC-54C <em>Sacred Cow</em>. La ley creó el Department of the Air Force y estableció bajo su autoridad a la United States Air Force; el 18 de septiembre marcó la puesta en funcionamiento de esa rama independiente.</p>
 </div>
 
@@ -34,7 +34,7 @@ image: 1947-09-18-fundacion-fuerza-aerea-estados-unidos-rama-independiente.webp
 - **Primer secretario:** W. Stuart Symington, quien juró el cargo el 18 de septiembre
 - **Primer jefe de Estado Mayor:** General Carl A. Spaatz, nombrado el 26 de septiembre de 1947
 - **Antecedente inmediato:** Army Air Forces, junto con el Air Corps y el General Headquarters Air Force
-- **Misión legal:** Organizar, adiestrar y equipar fuerzas aéreas para operaciones ofensivas y defensivas sostenidas, además de transferir al nuevo servicio personal, instalaciones, registros y material aéreo
+- **Misión legal:** Organizar, adiestrar y equipar unidades de aviación para misiones ofensivas y defensivas sostenidas, además de transferir al nuevo servicio personal, instalaciones, registros y material aéreo
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -82,7 +82,7 @@ La comparación con la Armada ayuda a entender esa competencia institucional: en
 ## Consecuencias e Impacto
 
 - **Institucional:** La ley creó un Department of the Air Force separado del Department of the Army y colocó bajo su autoridad a la United States Air Force.
-- **Militar:** El nuevo servicio recibió la responsabilidad de preparar fuerzas aéreas para operaciones ofensivas y defensivas sostenidas, con un jefe de Estado Mayor propio.
+- **Militar:** El nuevo servicio asumió la responsabilidad de preparar el poder aéreo para campañas ofensivas y defensivas sostenidas, con un jefe de Estado Mayor propio.
 - **Administrativo:** Personal, propiedades, instalaciones, registros y actividades de las Army Air Forces fueron transferidos o reasignados a la nueva estructura.
 - **Estratégico:** Estados Unidos incorporó una rama especializada en operaciones aéreas a su arquitectura permanente de seguridad nacional, sin abandonar la coordinación conjunta con el Ejército y la Armada.
 - **Simbólico:** El juramento de Symington convirtió una decisión legislativa en una institución visible y con liderazgo civil propio.
@@ -103,11 +103,9 @@ La distinción importa porque evita atribuir a una sola firma todo el proceso. L
 
 <div class="references">
   <ul>
-    <li><a href="https://www.trumanlibrary.gov/photograph-records/97-1900" style="color: #315fea; text-decoration: none;">Harry S. Truman Library &amp; Museum — Stuart Symington taking the oath of office as Secretary of the Air Force</a>: fecha, protagonistas y procedencia de la fotografía del juramento.</li>
     <li><a href="https://www.af.mil/About-Us/Fact-Sheets/Display/Article/433914/the-birth-of-the-united-states-air-force/" style="color: #315fea; text-decoration: none;">U.S. Air Force — The Birth of the United States Air Force</a>: evolución institucional, ley de 1947, Symington y Spaatz.</li>
     <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195791/usaf-established/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force — USAF Established</a>: firma de la ley, <em>Sacred Cow</em> y juramento del primer secretario.</li>
     <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197560/national-security-act-sections-207-209/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force — National Security Act Sections 207-209</a>: texto de las secciones que crean el Department of the Air Force y la United States Air Force.</li>
-    <li><a href="https://www.jcs.mil/Media/Photos/igphoto/2002160235/" style="color: #315fea; text-decoration: none;">Joint Chiefs of Staff — President Truman signing National Security Act</a>: fecha de la firma de la ley y registro fotográfico oficial del acto del 26 de julio de 1947.</li>
     <li><a href="https://www.trumanlibrary.gov/library/public-papers/218/special-message-congress-recommending-establishment-department-national" style="color: #315fea; text-decoration: none;">Harry S. Truman Library — Special Message to the Congress Recommending the Establishment of a Department of National Defense</a>: contexto del debate de reorganización posterior a la Segunda Guerra Mundial.</li>
     <li><a href="https://archive.dni.gov/index.php/ic-legal-reference-book/national-security-act-of-1947" style="color: #315fea; text-decoration: none;">Office of the Director of National Intelligence — National Security Act of 1947</a>: transcripción institucional de la ley y su estructura.</li>
   </ul>
@@ -123,8 +121,8 @@ La distinción importa porque evita atribuir a una sola firma todo el proceso. L
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-18 14:38:53 CST  
-- **Fuentes primarias/institucionales consultadas:** Harry S. Truman Library &amp; Museum, National Archives, U.S. Air Force, National Museum of the United States Air Force, Joint Chiefs of Staff, Office of the Director of National Intelligence  
-- **Discrepancias resueltas:** Se separó la firma de la ley del 26 de julio de 1947 de la activación institucional y el juramento de Symington del 18 de septiembre; la imagen se tomó de la ficha institucional del acto exacto.  
+- **Timestamp de verificación:** 2026-10-07 07:34:50 CST  
+- **Fuentes primarias/institucionales consultadas:** Harry S. Truman Library &amp; Museum, U.S. Air Force, National Museum of the United States Air Force, Office of the Director of National Intelligence  
+- **Discrepancias resueltas:** se distingue la firma de la *National Security Act of 1947* (26 de julio de 1947) de la activación institucional y el juramento de Symington del 18 de septiembre.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

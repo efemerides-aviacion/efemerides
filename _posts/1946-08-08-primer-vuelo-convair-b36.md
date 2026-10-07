@@ -14,135 +14,102 @@ image: 1946-08-08-primer-vuelo-convair-b36.webp
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1946-08-08-primer-vuelo-convair-b36.webp" alt="Bombardero de seis motores de hélice propulsora despegando de una pista de hormigón, con el tren de aterrizaje extendido y una envergadura desproporcionada respecto al fuselaje">
   <figcaption class="post-caption">El prototipo Consolidated Vultee XB-36, número de serie 42-13570, despega de la pista de Fort Worth, Texas. Son visibles las seis hélices tripala en configuración propulsora, montadas en el borde de salida del ala, y el tren principal de rueda única. Fuente: <a href="https://www.thisdayinaviation.com/8-august-1946/convair-xb-36-4/" style="color: #315fea; text-decoration: none;">U.S. Air Force, vía This Day in Aviation</a>.</figcaption>
 </figure>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 8 de agosto de 1946, poco después del mediodía, el prototipo XB-36 despegó de la pista de la factoría de Consolidated Vultee en Fort Worth, Texas, con Beryl Arthur Erickson al mando y G. S. «Gus» Green como copiloto. El vuelo duró treinta y ocho minutos y transcurrió sin incidencias, con el tren de aterrizaje extendido durante toda la prueba.</p>
-<p>El aparato era el mayor y más pesado avión que había volado hasta entonces: 70 metros de envergadura, seis motores radiales de veintiocho cilindros montados en configuración propulsora dentro del ala y una masa máxima superior a las 124 toneladas. Se había concebido en 1941 para bombardear Alemania desde bases norteamericanas si Gran Bretaña caía. Llegó cinco años tarde para esa misión, pero justo a tiempo para otra que nadie había imaginado cuando se dibujó: transportar las primeras armas termonucleares, demasiado grandes y pesadas para cualquier otro avión del arsenal estadounidense.</p>
+<p>El 8 de agosto de 1946, poco después del mediodía, el prototipo XB-36 despegó de la factoría de Consolidated Vultee en Fort Worth, Texas, con Beryl Arthur Erickson al mando y G. S. «Gus» Green como copiloto. El vuelo duró treinta y ocho minutos y transcurrió sin incidencias, con el tren de aterrizaje extendido durante toda la prueba.</p>
+<p>Con 70 metros de envergadura, seis motores radiales de veintiocho cilindros en configuración propulsora y una masa máxima superior a las 124 toneladas, era el avión de combate de mayor tamaño construido hasta entonces. Concebido en 1941 para atacar Alemania desde Norteamérica si Gran Bretaña caía, llegó tarde para la Segunda Guerra Mundial pero se convirtió en el vector estratégico capaz de transportar las primeras armas termonucleares estadounidenses.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Datos verificados del evento
 
-- **Fecha:** 8 de agosto de 1946.
-- **Lugar:** factoría de Consolidated Vultee Aircraft Corporation, Fort Worth, Texas.
-- **Aeronave:** prototipo XB-36, número de serie 42-13570.
-- **Piloto al mando:** Beryl Arthur Erickson, jefe de pilotos de pruebas, de treinta años en aquella fecha.
-- **Copiloto:** G. S. «Gus» Green.
-- **Ingeniero jefe de ensayos en vuelo:** James D. «J. D.» McEachern, también en la cabina. A bordo viajaban otros seis tripulantes.
-- **Duración del vuelo:** treinta y ocho minutos.
-- **Hora de despegue:** poco después del mediodía. La tripulación estaba lista desde las cinco de la mañana, pero la autorización de vuelo no llegó hasta esa hora.
-- **Condiciones:** temperatura ambiente cercana a los 38 °C. El sistema de aire acondicionado no era operativo y en la cabina se alcanzaron unos 60 °C en el despegue.
-- **Velocidad de despegue:** 110 nudos, unos 204 kilómetros por hora.
-- **Configuración del vuelo:** conservadora, con el tren de aterrizaje extendido en todo momento.
-- **Envergadura:** 70,10 metros, la mayor de cualquier avión de combate jamás construido.
-- **Longitud:** 49,39 metros. **Altura:** 14,27 metros. **Superficie alar:** 443,33 metros cuadrados.
-- **Pesos del prototipo:** 59.530 kilogramos en vacío y 124.706 kilogramos máximos al despegue.
-- **Planta motriz:** seis motores radiales Pratt & Whitney R-4360-25 Wasp Major de veintiocho cilindros en cuatro estrellas, refrigerados por aire, de 3.000 caballos al despegue. Iban alojados dentro del ala en configuración propulsora, con las hélices tripala de 5,8 metros de diámetro en el borde de salida y las tomas de aire en el borde de ataque.
-- **Tren de aterrizaje del prototipo:** rueda única por pata principal, con neumáticos Goodyear de 2,79 metros de diámetro y 599 kilogramos de peso, los mayores fabricados en Estados Unidos hasta entonces.
-- **Diseñador jefe:** Isaac M. Laddon.
-- **Antecedente del programa:** requisito del Cuerpo Aéreo del Ejército de 11 de abril de 1941, revisado el 19 de agosto del mismo año a 16.000 kilómetros de alcance máximo y 6.400 de radio de combate con 4.500 kilogramos de bombas.
-- **Presentación pública del prototipo:** 20 de agosto de 1945, tres meses después del final de la guerra en Europa.
-- **Producción total:** 384 ejemplares entre 1946 y 1954.
-- **Servicio operativo:** de 1948 a 1959, en el Mando Aéreo Estratégico. Retirado el 12 de febrero de 1959.
+- **Fecha y lugar:** 8 de agosto de 1946 (pasado el mediodía), factoría de Consolidated Vultee Aircraft Corporation, Fort Worth, Texas.
+- **Aeronave:** prototipo XB-36, número de serie 42-13570 (diseñador jefe Isaac M. Laddon).
+- **Tripulación de mando:** Beryl Arthur Erickson (piloto jefe de pruebas, 30 años), G. S. «Gus» Green (copiloto), James D. «J. D.» McEachern (ingeniero jefe de ensayos) y otros seis tripulantes.
+- **Parámetros del vuelo inaugural:** 38 minutos con el tren desplegado; despegue a 110 nudos (204 km/h) bajo 38 °C exteriores y cerca de 60 °C en cabina por falta de refrigeración operativa.
+- **Dimensiones y masas del prototipo:** 70,10 m de envergadura, 49,39 m de longitud, 14,27 m de altura, 443,33 m² de superficie alar; 59.530 kg en vacío y 124.706 kg máximos al despegue.
+- **Planta motriz inicial:** seis motores radiales Pratt &amp; Whitney R-4360-25 Wasp Major de 28 cilindros y 3.000 hp unitarios alojados en el ala, con hélices propulsoras tripala de 5,8 m en el borde de salida.
+- **Tren principal original:** rueda única por pata con neumáticos Goodyear de 2,79 m de diámetro y 599 kg de peso.
+- **Producción y servicio:** 384 ejemplares fabricados (1946–1954); en activo en el Mando Aéreo Estratégico entre 1948 y el 12 de febrero de 1959.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Contexto Histórico
 
-El XB-36 voló en el punto exacto de bisagra entre dos guerras: demasiado tarde para la que lo había engendrado y demasiado pronto para la que acabaría justificándolo.
+El XB-36 voló en el punto exacto de bisagra entre dos conflictos: demasiado tarde para la contienda mundial que lo había engendrado y justo en el umbral de la Guerra Fría que acabaría justificándolo.
 
 ### Entorno social
 
-En agosto de 1946 Estados Unidos desmovilizaba a marchas forzadas. La industria aeronáutica, que había producido decenas de miles de aparatos al año, cancelaba contratos y despedía trabajadores en masa. En ese ambiente, un bombardero descomunal cuyo enemigo original ya no existía era un blanco político evidente, y el propio Erickson recordaría que la dirección de la empresa consideraba la fecha del primer vuelo un imperativo contractual porque el programa estaba amenazado de cancelación inminente.
-
-La aparición de la Unión Soviética como adversario cambió el cálculo en cuestión de meses. El bloqueo de Berlín de 1948 y la primera prueba atómica soviética de 1949 convirtieron un proyecto obsoleto en el único instrumento disponible para alcanzar territorio soviético desde suelo estadounidense. Nada de esto estaba previsto cuando se firmaron los contratos.
+En agosto de 1946 Estados Unidos desmovilizaba sus fuerzas armadas a gran velocidad y la industria aeronáutica cancelaba contratos de guerra. Un bombardero gigantesco cuyo adversario original ya había capitulado constituía un blanco político evidente; como recordaría el propio Erickson, la dirección de la compañía veía la fecha del primer vuelo como un imperativo contractual frente al riesgo de cancelación. El bloqueo de Berlín de 1948 y la primera detonación atómica soviética de 1949 transformaron en pocos meses aquel diseño cuestionado en la pieza central de la disuasión intercontinental estadounidense.
 
 ### Entorno tecnológico
 
-El B-36 llevó la aviación de pistón hasta su límite absoluto, y lo hizo justo cuando el turborreactor la volvía obsoleta. Sus seis Wasp Major eran los motores radiales más complejos jamás fabricados en serie: veintiocho cilindros dispuestos en cuatro estrellas de siete, refrigerados por aire pero enterrados en el interior del ala, en una disposición propulsora que resolvía la aerodinámica a costa de crear un problema de refrigeración permanente. Los sobrecalentamientos e incendios de motor acompañarían al tipo durante toda su vida operativa.
-
-La solución llegó por la vía del injerto. A partir de la versión D se añadieron cuatro turborreactores General Electric J47 en góndolas bajo el ala, con lo que el aparato pasó a tener diez motores, más que cualquier otro avión producido en serie. De ahí la fórmula con que lo describía su propia tripulación: *six turnin' and four burnin'*, seis girando y cuatro ardiendo. Los reactores se apagaban en crucero y sus tomas se cerraban con compuertas para no penalizar el consumo.
+El programa llevó la aviación de émbolo hasta su límite físico cuando el turborreactor comenzaba a imponerse. Sus seis Wasp Major —con veintiocho cilindros dispuestos en cuatro estrellas de siete— trabajaban embutidos en el espesor del ala en disposición propulsora, lo que favorecía la limpieza aerodinámica del borde de ataque a costa de dificultar la evacuación térmica y favorecer el engelamiento de los carburadores. Para incrementar el empuje en despegue y la velocidad sobre el objetivo, a partir del modelo B-36D se agregaron cuatro turborreactores General Electric J47 en góndolas gemelas subalares: nacía así la configuración de diez motores resumida por sus dotaciones en el lema *six turnin’ and four burnin’* («seis girando y cuatro ardiendo»).
 
 ### Entorno cultural
 
-Ninguna imagen resume mejor el desajuste generacional del B-36 que la fotografía en que aparece junto a un B-29 Superfortress: el bombardero que había arrasado Japón parece un modelo a escala. Esa desproporción convirtió al aparato en símbolo del poderío estadounidense de la primera Guerra Fría, y le dio protagonismo en la película *Strategic Air Command* de 1955.
-
-El nombre con que se le conoce merece una precisión. «Peacemaker» salió de un concurso interno convocado por Convair entre sus empleados en 1949, con alusión deliberada al revólver Colt del Oeste. Recibió 813 propuestas y ganó esa, pero el nombre nunca fue adoptado oficialmente por la Fuerza Aérea: diversas organizaciones religiosas protestaron alegando que el único pacificador verdadero era Jesucristo, y el servicio prefirió no adoptarlo. Oficialmente, el avión nunca se llamó de otro modo que B-36.
+Posado junto a un <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/09/21/primer-vuelo-boeing-b-29-superfortress.html" style="color: #315fea; text-decoration: none;">Boeing B-29 Superfortress</a>, el nuevo hexamotor hacía parecer diminuto al bombardero que había protagonizado el final de la guerra en el Pacífico, imagen que el cine inmortalizó en *Strategic Air Command* (1955). El sobrenombre *Peacemaker* surgió en 1949 de un concurso interno de Convair entre 813 propuestas —en alusión al revólver Colt del Oeste—, pero las protestas de organizaciones religiosas llevaron a la Fuerza Aérea a no oficializarlo nunca en su nomenclatura reglamentaria.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Desarrollo Cronológico
 
-La secuencia abarca desde el requisito inicial hasta la retirada del tipo.
+La trayectoria del programa abarcó dieciocho años desde la especificación inicial hasta su baja definitiva:
 
-- **11 de abril de 1941:** el Cuerpo Aéreo del Ejército solicita un bombardero con 725 kilómetros por hora de velocidad máxima, techo de 13.700 metros y 19.000 kilómetros de alcance. Las cifras exceden con mucho la tecnología disponible.
-- **19 de agosto de 1941:** se rebajan los requisitos a 16.000 kilómetros de alcance y 6.400 de radio de combate con 4.500 kilogramos de bombas. La distancia de referencia es la del trayecto de ida y vuelta entre Gander, en Terranova, y Berlín.
-- **Otoño de 1941:** el Modelo 36 de Consolidated se impone al Modelo 385 de Boeing. La designación B-36 se elige para evitar confusión con el ala volante Northrop.
-- **Diciembre de 1941:** la entrada de Estados Unidos en la guerra relega el programa. La prioridad pasa a los bombarderos ya en producción.
-- **20 de julio de 1942:** inspección de la maqueta a tamaño real. El traslado del programa de San Diego a Fort Worth añade meses de retraso.
-- **23 de julio de 1943:** el secretario de Guerra Henry L. Stimson autoriza saltarse el procedimiento habitual de adquisición y se emite una carta de intenciones por cien unidades, antes de que los prototipos hayan volado. La primera entrega se fija para agosto de 1945.
-- **8 de mayo de 1945:** termina la guerra en Europa sin que el bombardero haya volado. Su misión original queda sin objeto.
-- **20 de agosto de 1945:** el prototipo se presenta públicamente en Fort Worth.
-- **8 de agosto de 1946, primera hora:** la tripulación ocupa sus puestos a las cinco de la mañana. La autorización de vuelo no llega hasta pasado el mediodía. Los motores se sobrecalientan y la presión de aceite es baja.
-- **8 de agosto de 1946, mediodía:** el XB-36 acelera, despega a 110 nudos y vuela treinta y ocho minutos sin novedad. Erickson describiría después el comportamiento del avión como excelente en la carrera de despegue y en la transición a subida estabilizada.
-- **Junio de 1948:** el prototipo recibe motores R-4360-41 y sustituye la rueda única por un bogie de cuatro ruedas por pata. Se le redesigna YB-36A.
-- **1948:** el Mando Aéreo Estratégico recibe su primer B-36 operativo.
-- **A partir de la versión D:** se añaden cuatro turborreactores J47 en góndolas bajo el ala.
-- **1949:** el concurso interno de Convair adjudica el nombre «Peacemaker», que la Fuerza Aérea no llega a oficializar.
-- **Agosto de 1954:** termina la producción tras 384 unidades.
-- **12 de febrero de 1959:** el tipo se retira del servicio, sustituido por el B-52 Stratofortress.
-- **30 de abril de 1959:** un B-36J vuela de Davis-Monthan al museo de la Fuerza Aérea en Ohio. Es el último vuelo de un B-36.
+- **11 de abril y 19 de agosto de 1941:** el Cuerpo Aéreo del Ejército formula el requisito de un bombardero intercontinental y lo ajusta después a 16.000 km de alcance total y un radio de acción de 6.400 km con 4.500 kg de carga ofensiva, imponiéndose en otoño el Modelo 36 de Consolidated sobre el proyecto de Boeing.
+- **Julio de 1942–julio de 1943:** el traslado de la producción desde San Diego a la planta de Fort Worth retrasa la construcción del prototipo, aunque el 23 de julio de 1943 el Secretario de Guerra, Henry L. Stimson, autoriza una carta de intenciones por cien aparatos antes de que el modelo haya volado.
+- **20 de agosto de 1945:** tres meses después de la rendición alemana, el prototipo XB-36 sale de la nave de montaje en Fort Worth.
+- **8 de agosto de 1946:** tras aguardar desde las cinco de la mañana el permiso oficial y solventar bajas presiones de aceite, Erickson despega pasado el mediodía y completa treinta y ocho minutos de evaluación satisfactoria.
+- **Junio de 1948:** el prototipo recibe motores R-4360-41 y sustituye las enormes ruedas simples —que restringían la operación a sólo tres pistas en todo el país— por bogies de cuatro ruedas por pata bajo la designación YB-36A, coincidiendo con la entrega de los primeros ejemplares operativos al Mando Aéreo Estratégico.
+- **1949–1954:** entran en servicio las variantes provistas de cuatro reactores auxiliares J47 y las versiones de reconocimiento estratégico RB-36; la producción concluye en agosto de 1954 tras 384 células.
+- **12 de febrero y 30 de abril de 1959:** la Fuerza Aérea retira oficialmente el modelo al completarse su relevo por el Boeing B-52, y dos meses después el último B-36J realiza su vuelo de entrega al museo de Ohio.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Consecuencias e Impacto
 
-El B-36 fue durante casi una década el único medio que Estados Unidos tenía para llevar una bomba atómica desde su propio territorio hasta el corazón de la Unión Soviética y regresar.
+Durante casi una década, el B-36 fue el único vector estadounidense con autonomía y bodega suficientes para transportar sin escalas las bombas termonucleares de primera generación —como la Mark 17, de más de dieciocho toneladas— desde bases norteamericanas hasta el interior de la Unión Soviética. Ni el B-29 ni el B-50 poseían ese radio de acción, y el birreactor B-47 Stratojet carecía de volumen interno para alojar aquellos artefactos.
 
-Esa exclusividad no era retórica. El B-29 y el B-50 carecían de alcance. El B-47 Stratojet, su equivalente a reacción, no alcanzó plena operatividad hasta 1953, necesitaba reabastecimiento en vuelo para atacar la Unión Soviética desde Norteamérica y no podía cargar las bombas termonucleares de primera generación, artefactos de varias toneladas y dimensiones desmesuradas. Los misiles balísticos intercontinentales no fueron fiables hasta principios de los años sesenta. Durante ese intervalo, la disuasión nuclear estadounidense descansó materialmente sobre el B-36.
-
-El aparato dio además juego como plataforma experimental. Se ensayaron con él cazas parásitos alojados en la bodega o suspendidos bajo el fuselaje, versiones de reconocimiento estratégico que fotografiaron territorio soviético años antes de que existiera <a href="https://efemerides-aviacion.github.io/efemerides/evento/1955/08/04/primer-vuelo-lockhedd-u2-dragon-lady.html" style="color: #315fea; text-decoration: none;">el Lockheed U-2</a>, y un ejemplar que voló con un reactor nuclear a bordo dentro del programa de propulsión atómica. De su fuselaje ampliado derivó también un carguero de dimensiones aún mayores.
-
-Nada de eso impidió que naciera obsoleto en un aspecto crucial. El B-36 fue concebido para volar por encima del alcance de la artillería antiaérea alemana y de los cazas de hélice. Cuando entró en servicio, los interceptores a reacción ya podían alcanzarlo, y sus 700 kilómetros por hora escasos lo dejaban a merced de cualquiera de ellos. La Fuerza Aérea lo consideró desde el principio una solución provisional a la espera de alternativas a reacción, y así fue: <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/04/15/primer-vuelo-yb-52-stratofortress.html" style="color: #315fea; text-decoration: none;">el YB-52 Stratofortress voló en abril de 1952</a> y en tres años empezó a sustituirlo.
+Su enorme célula sirvió además como banco de pruebas para proyectos singulares: ensayos de cazas parásitos (el McDonnell XF-85 Goblin y los Republic F-84 del proyecto FICON), misiones de reconocimiento fotográfico a gran altitud previas a la entrada en servicio de <a href="https://efemerides-aviacion.github.io/efemerides/evento/1955/08/04/primer-vuelo-lockhedd-u2-dragon-lady.html" style="color: #315fea; text-decoration: none;">el Lockheed U-2</a>, el transporte experimental de un reactor nuclear en vuelo (NB-36H) y el carguero gigante XC-99. Pese a ello, su velocidad inferior a 700 km/h lo hacía vulnerable ante los nuevos interceptores a reacción soviéticos, por lo que desde que <a href="https://efemerides-aviacion.github.io/efemerides/evento/1952/04/15/primer-vuelo-yb-52-stratofortress.html" style="color: #315fea; text-decoration: none;">el YB-52 Stratofortress voló en abril de 1952</a> su sustitución quedó decidida.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Legado
 
-El B-36 no dejó descendencia técnica. Su herencia es de otra naturaleza.
-
-En términos de ingeniería fue un callejón sin salida, y sus responsables lo sabían mientras lo construían. El intento de convertirlo en un bombardero enteramente a reacción, el Convair YB-60, no prosperó frente al diseño de Boeing. La fórmula del motor radial gigante murió con él: ningún avión posterior ha vuelto a emplear plantas motrices de pistón de esa complejidad, y ninguno ha superado su envergadura entre los aparatos de combate. Ocho décadas después sigue siendo el mayor bombardero jamás construido y el mayor avión de pistón producido en serie.
-
-Su verdadero legado es doctrinal. El B-36 materializó por primera vez el concepto de disuasión intercontinental: la idea de que un país puede sostener una amenaza creíble sobre el territorio de otro sin desplegar fuerzas en el exterior ni depender de bases aliadas. Ese principio, ensayado con hélices y pistones entre 1948 y 1959, es el que heredaron el B-52, los submarinos lanzamisiles y los misiles balísticos, y sigue vigente. El propio nombre popular del avión recoge la paradoja con precisión involuntaria: un bombardero que nunca lanzó una bomba en combate y cuya única función fue existir para no ser empleado.
-
-Queda también una lección sobre los tiempos de la ingeniería militar. Entre el requisito de 1941 y el primer vuelo pasaron cinco años; entre el primer vuelo y la operatividad plena, otros cinco. Para cuando el B-36 estuvo listo, el enemigo era distinto, la tecnología de propulsión había cambiado de paradigma y las armas que debía transportar aún no se habían inventado. Que el avión resultara útil de todos modos fue, en buena medida, una casualidad histórica.
-
-De los 384 construidos sobreviven cuatro, repartidos entre museos de Ohio, Arizona, Nebraska y California. El tren principal de rueda única del prototipo que voló aquel 8 de agosto se conserva expuesto junto a uno de ellos.
+En el plano estrictamente mecánico, el B-36 cerró la estirpe de los grandes polimotores de pistón: su derivado íntegramente a reacción, el Convair YB-60, fue descartado frente al diseño de Boeing, y ningún avión de combate posterior ha superado sus setenta metros de envergadura. Su huella perdurable fue doctrinal: materializó entre 1948 y 1959 el concepto de disuasión estratégica intercontinental que luego heredaron los bombarderos a reacción y los misiles balísticos, cumpliendo toda su carrera operativa sin llegar a lanzar una sola bomba en combate. De los 384 aparatos fabricados se conservan cuatro ejemplares completos en museos de Ohio, Arizona, Nebraska y California.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Referencias Verificadas
 
 <div class="references">
   <ul>
-    <li><a href="https://www.thisdayinaviation.com/8-august-1946/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «8 August 1946», con el detalle del primer vuelo, la tripulación y las especificaciones del prototipo</a></li>
-    <li><a href="https://www.codeonemagazine.com/article.html?item_id=160" style="color: #315fea; text-decoration: none;">Code One Magazine: entrevista a Beryl Arthur Erickson, piloto del primer vuelo, realizada en 1992</a></li>
+    <li><a href="https://www.thisdayinaviation.com/8-august-1946/" style="color: #315fea; text-decoration: none;">This Day in Aviation: «8 August 1946», tripulación y especificaciones del prototipo XB-36</a></li>
+    <li><a href="https://www.codeonemagazine.com/article.html?item_id=160" style="color: #315fea; text-decoration: none;">Code One Magazine: entrevista de 1992 a Beryl Arthur Erickson, piloto del primer vuelo</a></li>
     <li><a href="https://afhistory.org/august-8-1946-2/" style="color: #315fea; text-decoration: none;">Air Force Historical Foundation: efeméride del primer vuelo del XB-36</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197636/convair-b-36j-peacemaker/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: ficha del Convair B-36J Peacemaker</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/197636/convair-b-36j-peacemaker/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force: ficha técnica del Convair B-36J Peacemaker</a></li>
     <li><a href="https://www.afmc.af.mil/News/Article-Display/Article/2381992/a-look-backpeacemaker-personnel/" style="color: #315fea; text-decoration: none;">Air Force Materiel Command History Office: «A Look Back… Peacemaker Personnel»</a></li>
     <li><a href="https://historynet.com/the-peacemaker/" style="color: #315fea; text-decoration: none;">HistoryNet / <em>Aviation History</em>: «How Convair's Big B-36 Kept the Peace By Not Dropping the Bomb»</a></li>
     <li><a href="https://pimaair.org/museum-aircraft/convair-b-36j/" style="color: #315fea; text-decoration: none;">Pima Air and Space Museum: ficha del Convair B-36J conservado en Tucson</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Convair_B-36_Peacemaker" style="color: #315fea; text-decoration: none;">Convair B-36 Peacemaker — Wikipedia en inglés</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Convair_B-36" style="color: #315fea; text-decoration: none;">Convair B-36 — Wikipedia en español</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Las fuentes divergen en varios puntos. Sobre la duración del primer vuelo, el testimonio directo de Erickson publicado en 1992 la cifra en treinta y ocho minutos, mientras que numerosas recopilaciones posteriores consignan treinta y seis; se ha adoptado la del piloto. Sobre la hora, algunas publicaciones sitúan el despegue a primera hora de la mañana, pero el propio Erickson precisó que la tripulación estuvo lista a las cinco y que la autorización no llegó hasta pasado el mediodía. Sobre el número de ejemplares construidos se citan 383, 384 y 385 según la fuente y según se incluyan o no los prototipos. Las cifras de prestaciones varían de manera acusada porque suelen mezclar datos del prototipo con los de las versiones de serie de diez motores: la velocidad máxima estimada del XB-36 era de 558 kilómetros por hora, frente a los 700 del B-36J. Otro tanto ocurre con la carga de bombas, cifrada en 32.659 kilogramos en el diseño original del prototipo y en unos 39.000 en las versiones tardías. El número de supervivientes se consigna como cuatro o cinco según se contabilice o no material incompleto. Debe señalarse por último que el nombre «Peacemaker», universalmente empleado, nunca fue adoptado oficialmente por la Fuerza Aérea. La fotografía que ilustra esta efeméride muestra el prototipo 42-13570 despegando de Fort Worth, sin que pueda determinarse si corresponde al vuelo del 8 de agosto de 1946 o a otro posterior de la misma campaña de ensayos.</p>
+  <p><strong>Nota aclaratoria:</strong> las fuentes presentan varias divergencias menores. El testimonio directo de Beryl A. Erickson (<em>Code One Magazine</em>, 1992) fija la duración del vuelo inaugural en 38 minutos y el despegue pasado el mediodía, mientras que algunas compilaciones secundarias citan 36 minutos o una salida matinal (confundiendo la hora en que la tripulación ocupó la cabina, las 05:00, con el despegue real). El total producido oscila entre 383, 384 y 385 células según se contabilicen los prototipos XB-36/YB-36 y el transporte derivado XC-99, y las prestaciones varían entre los 558 km/h estimados para el prototipo de seis motores y los cerca de 700 km/h de las versiones de serie provistas de cuatro turborreactores auxiliares.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-07 12:00:45 CST
-- **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force, ficha del B-36J conservado en su colección; Air Force Materiel Command History Office, documento histórico sobre el programa y su personal; Air Force Historical Foundation; Code One Magazine, con el testimonio directo del piloto del primer vuelo.
-- **Fuentes secundarias de contraste:** This Day in Aviation, con las especificaciones detalladas del prototipo y la relación de tripulantes; <em>Aviation History</em> vía HistoryNet, con el origen del nombre y la valoración del programa; Pima Air and Space Museum; Wikipedia en inglés y en español, con referencia a las obras de Knaack, Jacobson y Jenkins.
-- **Discrepancias resueltas:** se adoptó la duración de treinta y ocho minutos que consta en el testimonio del piloto frente a los treinta y seis de otras recopilaciones; se precisó que el despegue tuvo lugar pasado el mediodía y no a primera hora; se distinguieron las prestaciones estimadas del prototipo de las medidas en las versiones de serie con diez motores; se aclaró que el nombre «Peacemaker» procede de un concurso interno del fabricante y nunca fue oficial; se registró la divergencia sobre el número de unidades construidas y de ejemplares conservados.
-- **Datos no confirmados:** la cifra de asistentes al primer vuelo, que algunas fuentes sitúan en siete mil trabajadores de la factoría sin respaldo documental localizable.
-- **Nivel de confianza:** Alto
+- **Timestamp de verificación:** 2026-10-07 07:34:50 CST  
+- **Fuentes primarias/institucionales consultadas:** National Museum of the USAF, Air Force Materiel Command History Office, Air Force Historical Foundation, *Code One Magazine* (entrevista a Beryl A. Erickson)  
+- **Fuentes de contraste:** This Day in Aviation, *Aviation History* (HistoryNet), Pima Air and Space Museum  
+- **Discrepancias resueltas:** se adopta el testimonio de Erickson (38 minutos y despegue tras el mediodía) frente a los 36 minutos de crónicas secundarias, y se distinguen las prestaciones del prototipo respecto de las series de diez motores.  
+- **Nivel de confianza:** Alto  
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

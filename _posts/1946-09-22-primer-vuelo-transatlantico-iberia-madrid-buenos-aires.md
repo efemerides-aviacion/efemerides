@@ -19,73 +19,67 @@ image: 1946-09-22-primer-vuelo-transatlantico-iberia-madrid-buenos-aires.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 22 de septiembre de 1946, el cuatrimotor Douglas DC-4 de Iberia despegó del aeropuerto de Madrid-Barajas con destino al aeropuerto de Morón en Buenos Aires. Se trataba del primer vuelo comercial trasatlántico operado por una aerolínea europea tras la Segunda Guerra Mundial. La travesía completó un recorrido de más de diez mil kilómetros en 36 horas de viaje total, realizando escalas en Villa Cisneros (Sáhara Español), Natal y Río de Janeiro (Brasil), antes de alcanzar la capital argentina.</p>
-<p>El vuelo inaugural, tripulado por los comandantes José María Ansaldo y Fernando Rein Loring junto con un equipo técnico especializado, marcó además el debut de las primeras cuatro azafatas en la aviación comercial española. Este hito restableció los lazos aéreos regulares entre Europa y América del Sur, sentando las bases de la expansión internacional de la compañía de bandera española y transformando el transporte de pasaje y correo intercontinental.</p>
+<p>El 22 de septiembre de 1946, el cuatrimotor Douglas DC-4 de Iberia despegó del aeropuerto de Madrid-Barajas con destino al aeródromo de Morón, en Buenos Aires. Se trataba del primer vuelo comercial trasatlántico operado por una aerolínea europea tras la Segunda Guerra Mundial. La travesía cubrió más de diez mil kilómetros en 36 horas totales de viaje, con escalas en Villa Cisneros (Sáhara Español), Natal y Río de Janeiro (Brasil), antes de alcanzar la capital argentina.</p>
+<p>El servicio inaugural, al mando de los comandantes José María Ansaldo y Fernando Rein Loring junto con su tripulación técnica, supuso además el estreno de las cuatro primeras azafatas de la aviación comercial española y sentó las bases del enlace aéreo regular entre España y Sudamérica.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
-- **Fecha:** 22 de septiembre de 1946
-- **Lugar de origen:** Aeropuerto de Madrid-Barajas (Madrid, España)
-- **Lugar de destino:** Aeropuerto de Morón (Buenos Aires, Argentina)
-- **Aeronave:** Douglas DC-4 (cuatrimotor comercial de pasaje), matrícula EC-DAB
-- **Comandantes principales:** Comandante José María Ansaldo y Comandante Fernando Rein Loring
-- **Tripulación técnica y auxiliar:** Ingenieros de vuelo, radiotelegrafistas y cuatro azafatas pioneras (Marichu Ruiz de Gámiz, Pilar Macías, María José Ugarte y Ana Marsans)
-- **Ruta y escalas:** Madrid-Barajas → Villa Cisneros (Sáhara Español) → Natal (Brasil) → Río de Janeiro (Brasil) → Buenos Aires (Morón, Argentina)
-- **Duración total de la travesía:** Aproximadamente 36 horas (incluyendo escalas técnicas, administrativas y pernocte en el parador de Villa Cisneros)
-- **Precio inicial del billete:** 7.250 pesetas
-- **Hito:** Primer vuelo comercial trasatlántico de una aerolínea europea entre Europa y América Latina tras la Segunda Guerra Mundial
+
+- **Fecha del despegue inaugural:** 22 de septiembre de 1946.
+- **Origen y destino:** Aeropuerto de Madrid-Barajas (España) → Aeródromo de Morón, provincia de Buenos Aires (Argentina).
+- **Aeronave:** cuatrimotor Douglas DC-4, matrícula EC-DAB (número de construcción 42934).
+- **Pilotos al mando:** Comandante José María Ansaldo Vejarano y Comandante Fernando Rein Loring.
+- **Tripulación de cabina de pasaje:** Marichu Ruiz de Gámiz, Pilar Macías, María José Ugarte y Ana Marsans (primeras auxiliares de vuelo de la compañía).
+- **Itinerario inaugural:** Madrid-Barajas → Villa Cisneros (Sáhara Español) → Natal (Brasil) → Río de Janeiro (Brasil) → Buenos Aires-Morón.
+- **Duración total y tarifa inicial:** unas 36 horas de viaje total (29 horas de vuelo efectivo y pernocte en ruta); billete de ida fijado en 7.250 pesetas.
+- **Significado histórico:** primer enlace comercial trasatlántico de una aerolínea del continente europeo con Sudamérica tras la contienda mundial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-A finales de 1946, en el convulso mapa de posguerra europea, la aviación comercial internacional luchaba por reconstruir sus rutas transoceánicas devastadas por el conflicto mundial. En ese escenario geopolítico y tecnológico, la aviación española emprendió el proyecto más ambicioso de su historia: establecer una línea aérea directa entre Madrid y Sudamérica.
+A finales de 1946, mientras la aviación civil europea reconstruía sus redes destruidas por el conflicto, la compañía española de bandera acometió su proyecto de mayor alcance hasta entonces: abrir una línea intercontinental propia a través del Atlántico Sur.
 
 ### Entorno social
 
-Tras la finalización de la Segunda Guerra Mundial, miles de familias europeas y migrantes españoles buscaban restablecer contacto con América Latina, especialmente con Argentina, país que albergaba una de las comunidades de emigrantes más prósperas. Desde la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1927/06/28/fundacion-iberia-aerolinea-mas-antigua-espana.html" style="color: #315fea; text-decoration: none;">fundación de Iberia en 1927</a>, el transporte aéreo nacional e ibérico había sido la prioridad de la compañía. En 1944, tras su nacionalización e integración en el Instituto Nacional de Industria (INI), el gobierno español impulsó la proyección exterior de la aerolínea como símbolo de modernización y herramienta de diplomacia comercial. La apertura de la ruta a Buenos Aires respondía a una intensa demanda social y migratoria, ofreciendo una alternativa de pasaje que reducía las semanas de viaje marítimo a solo día y medio de vuelo.
+Finalizada la contienda mundial, miles de familias y emigrantes españoles buscaban restablecer la comunicación directa con la Argentina, donde residía una numerosa colectividad hispana. Desde la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1927/06/28/fundacion-iberia-aerolinea-mas-antigua-espana.html" style="color: #315fea; text-decoration: none;">fundación de Iberia en 1927</a>, la actividad de la empresa se había concentrado en rutas peninsulares, insulares y del norte de África. Tras su nacionalización e integración en el Instituto Nacional de Industria (INI) en 1944, la apertura de la línea de Buenos Aires respondió tanto a la demanda postal y migratoria como al interés diplomático y económico por estrechar vínculos con el Cono Sur, reduciendo las semanas de navegación marítima a día y medio de viaje.
 
 ### Entorno tecnológico
 
-El gran motor técnico de esta travesía fue la adquisición de la flota Douglas DC-4. En enero de 1945, Iberia había contratado la compra a la empresa estadounidense Douglas Aircraft Company de cuatro aparatos por un valor de 400.000 dólares cada uno, llegando la primera unidad a España en julio de 1946. Derivado del transporte militar C-54 Skymaster, el DC-4 supuso un salto cualitativo frente al célebre <a href="https://efemerides-aviacion.github.io/efemerides/evento/1935/12/17/primer-vuelo-douglas-dc3.html" style="color: #315fea; text-decoration: none;">Douglas DC-3 introducido en 1935</a>. Aunque carecía de cabina presurizada y requería escalas para reabastecimiento, sus cuatro motores Pratt & Whitney R-2000 y su velocidad de crucero cercana a los 360 km/h le otorgaban el alcance y la seguridad necesarios para la navegación sobre el Atlántico Sur. El vuelo requirió además la construcción exprés de un parador y estación de escala en el desierto de Villa Cisneros (Sáhara Español) para acoger a los pasajeros en las paradas del trayecto.
+La viabilidad técnica de la ruta descansó en la compra del cuatrimotor Douglas DC-4. En enero de 1945, Iberia contrató con Douglas Aircraft Company la adquisición de cuatro ejemplares a razón de 400.000 dólares por unidad, recibiendo el primero en julio de 1946. Derivado del transporte militar C-54 Skymaster, el modelo representó un salto decisivo frente al bimotor <a href="https://efemerides-aviacion.github.io/efemerides/evento/1935/12/17/primer-vuelo-douglas-dc3.html" style="color: #315fea; text-decoration: none;">Douglas DC-3 introducido en 1935</a>: aunque su cabina aún no estaba presurizada, sus cuatro motores radiales Pratt &amp; Whitney R-2000 de 1.450 caballos y su crucero cercano a los 360 km/h permitían franquear con seguridad el salto oceánico entre la costa occidental africana y el saliente brasileño de Natal. Para atender las escalas intermedias fue preciso habilitar además un parador en pleno desierto de Villa Cisneros.
 
 ### Entorno cultural
 
-El viaje inaugural del 22 de septiembre de 1946 representó un hito cultural y organizativo para la aviación civil. Para atender a los pasajeros en trayectos de larga distancia, Iberia creó la figura de la azafata de vuelo, seleccionando a cuatro pioneras: Marichu Ruiz de Gámiz, Pilar Macías, María José Ugarte y Ana Marsans. Con uniformes oscuros de corte militar diseñados para la ocasión, su incorporación definió los estándares de servicio a bordo en España. La llegada del avión a Buenos Aires fue recibida con gran expectación mediática y popular a ambos lados del Atlántico, consolidando el concepto del «puente aéreo» hispanoamericano en la prensa y el imaginario colectivo de la época.
+La travesía de septiembre de 1946 introdujo en España la profesión de azafata de vuelo. Las cuatro jóvenes seleccionadas por la aerolínea, formadas en idiomas, primeros auxilios y protocolo, vistieron uniformes de corte sastre en tono azul marino con gorra de plato y atendieron a los pasajeros durante las largas etapas sobre el océano. La llegada del avión a tierras bonaerenses fue recibida con amplia cobertura periodística a ambos lados del océano y acuñó en la prensa de la época la expresión de «puente aéreo» hispanoamericano.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **28 de junio de 1927:** Constitución de Iberia en Madrid como compañía de transporte aéreo nacional.
-- **22 de abril de 1931:** <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1931/04/22/apertura-oficial-aeropuerto-nacional-de-madrid.html" style="color: #315fea; text-decoration: none;">Apertura oficial del Aeropuerto Nacional de Madrid en Barajas</a>, punto de partida de las futuras rutas internacionales.
-- **12 de julio de 1932:** El aviador militar y piloto civil <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/07/12/fernando-rein-loring-vuelo-madrid-manila.html" style="color: #315fea; text-decoration: none;">Fernando Rein Loring completa su gran raid aéreo de Madrid a Manila</a>, demostrando la capacidad de la aviación española en rutas de larga distancia.
-- **Enero de 1945:** Iberia firma el contrato de adquisición de cuatro aviones Douglas DC-4 en Estados Unidos para abrir rutas trasatlánticas.
-- **Julio de 1946:** Llega a Madrid-Barajas la primera unidad del Douglas DC-4 (matrícula EC-DAB) destinada al servicio de largo radio.
-- **22 de septiembre de 1946:** Despegue inaugural del Douglas DC-4 desde el Aeropuerto de Madrid-Barajas a los mandos de los comandantes José María Ansaldo y Fernando Rein Loring, dando inicio al primer vuelo comercial trasatlántico hacia Sudamérica.
-- **22–24 de septiembre de 1946:** El avión realiza escala técnica y pernocte en Villa Cisneros (Sáhara Español), para continuar por las escalas de Natal y Río de Janeiro en Brasil.
-- **24 de septiembre de 1946:** Aterrizaje victorioso en el Aeropuerto de Morón en Buenos Aires tras 36 horas totales de travesía, abriendo la línea aérea trasatlántica.
-- **15 de octubre de 1946:** Se establecen los vuelos comerciales regulares de pasaje y correo con frecuencia decenal (línea 1215 Madrid-Buenos Aires), incorporando la escala regular de Montevideo.
+- **28 de junio de 1927:** constitución de Iberia en Madrid como operadora de transporte aéreo nacional.
+- **22 de abril de 1931:** <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1931/04/22/apertura-oficial-aeropuerto-nacional-de-madrid.html" style="color: #315fea; text-decoration: none;">apertura oficial del Aeropuerto Nacional de Madrid en Barajas</a>, cabecera de las futuras líneas intercontinentales.
+- **12 de julio de 1932:** el piloto <a href="https://efemerides-aviacion.github.io/efemerides/evento/1932/07/12/fernando-rein-loring-vuelo-madrid-manila.html" style="color: #315fea; text-decoration: none;">Fernando Rein Loring completa su raid individual de Madrid a Manila</a>, antecedente de los vuelos españoles de gran distancia.
+- **Enero de 1945:** la compañía firma en Estados Unidos la compra de cuatro cuatrimotores Douglas DC-4 destinados a las rutas transoceánicas.
+- **Julio de 1946:** aterriza en Barajas el primer DC-4 de la serie, matriculado inicialmente EC-DAB (posteriormente rematriculado EC-ACD).
+- **22 de septiembre de 1946:** despega de Madrid el vuelo inaugural hacia Sudamérica bajo el mando de Ansaldo y Rein Loring, con pasaje oficial, técnicos de vuelo y el nuevo cuerpo de auxiliares de cabina.
+- **22–24 de septiembre de 1946:** el aparato realiza escala y pernocte en Villa Cisneros, cruza el Atlántico Sur hasta Natal, prosigue a Río de Janeiro y toma tierra en Morón (Buenos Aires) tras 36 horas de itinerario total.
+- **15 de octubre de 1946:** entra en vigor el calendario comercial regular de pasaje y correo con frecuencia decenal (línea 1215), incorporando la escala de Montevideo antes de rendir viaje en la capital argentina.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-La inauguración del servicio trasatlántico convirtió a Iberia en la primera aerolínea de Europa en restablecer vuelos comerciales regulares de pasaje a América Latina tras la Segunda Guerra Mundial, adelantándose a aerolíneas de gran tradición como Air France o British South American Airways. La conexión redujo drásticamente los tiempos de transporte de pasajeros, diplomáticos y correo prioritario entre España y el Cono Sur americano.
+La puesta en marcha de la línea situó a Iberia al frente de la recuperación comercial europea en el Atlántico Sur en el otoño de 1946, acortando de manera drástica el traslado de pasajeros, correspondencia diplomática y paquetería urgente entre la península ibérica y la cuenca del Plata.
 
-Desde el punto de vista operativo, la ruta demostró la viabilidad comercial y técnica del Douglas DC-4 en vuelos de larga distancia sobre el océano. El éxito inicial de la línea 1215 impulsó a Iberia a ampliar progresivamente sus frecuencias —de decenales a semanales y posteriormente diarias— y a extender su red de destinos americanos a ciudades como Caracas, San Juan de Puerto Rico, La Habana, México y Miami en los años siguientes.
-
-La introducción del personal de cabina de pasajeros (azafatas) transformó la estructura interna de las tripulaciones de aviación comercial en España, sentando las bases de los manuales de servicio, atención al cliente y seguridad a bordo que caracterizarían la aviación civil de posguerra.
+En el plano operativo, la fiabilidad demostrada por los cuatrimotores de Douglas animó a la compañía a incrementar gradualmente las frecuencias —de un vuelo cada diez días a servicios semanales y más tarde diarios— y a tejer durante los años siguientes una red americana que incorporó Caracas, San Juan de Puerto Rico, La Habana, Ciudad de México y Nueva York. Asimismo, la creación del cuerpo de tripulantes de cabina de pasajeros transformó la organización interna de los vuelos de largo radio y fijó los estándares de atención a bordo de la aviación civil española.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-Ochenta años después del histórico vuelo de 1946, la ruta entre Madrid y Buenos Aires constituye uno de los ejes fundamentales del transporte aéreo entre Europa y América Latina. El modesto trayecto de 36 horas y múltiples escalas técnicas a bordo del cuatrimotor DC-4 dio paso con las décadas a reactores de gran capacidad como el Douglas DC-8, el Boeing 747, y modernamente a reactores bimotor de última generación como el Airbus A350, que recorren la distancia en poco más de doce horas de vuelo directo sin escalas.
-
-El recuerdo del vuelo inaugural de 1946 se preserva en la memoria histórica de Iberia y la aviación española como el hito que transformó una compañía de ámbito regional en una aerolínea global. Con motivo del 70.º aniversario en 2016, la aerolínea rotuló un Airbus A330 conmemorativo con las banderas latinoamericanas, y en 2021 se celebraron los 75 años del puente aéreo, rindiendo homenaje a los tripulantes, comandantes y azafatas pioneras que abrieron el camino sobre el Atlántico.
+Ochenta años después de aquel despegue de septiembre de 1946, el corredor entre Madrid y Buenos Aires permanece como el eje histórico de las comunicaciones aéreas entre España y el Cono Sur. Aquel itinerario de treinta y seis horas con tres escalas dio paso en las décadas siguientes a los cuatrimotores presurizados Lockheed Super Constellation, a los reactores Douglas DC-8 y Boeing 747, y finalmente a los bimotores de fuselaje ancho Airbus A350, que cubren hoy el trayecto sin escalas en unas doce horas. En 2016, con ocasión del 70.º aniversario del enlace, la aerolínea rotuló un Airbus A330 conmemorativo con las banderas de las naciones iberoamericanas, y en septiembre de 2021 celebró los 75 años de presencia en la región rindiendo homenaje institucional a los comandantes, mecánicos, radiotelegrafistas y primeras azafatas que inauguraron la travesía sobre el Atlántico Sur y transformaron una empresa de ámbito peninsular en un operador intercontinental.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -103,15 +97,15 @@ El recuerdo del vuelo inaugural de 1946 se preserva en la memoria histórica de 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> El vuelo inaugurado el 22 de septiembre de 1946 constituye el primer vuelo trasatlántico comercial de Iberia y la primera conexión aérea europea de posguerra con América del Sur. Diversas fuentes señalan el 15 de octubre de 1946 como la fecha de inicio de los servicios comerciales regulares con calendario de pasaje fijo (línea 1215); el vuelo del 22 de septiembre realizó la prueba oficial de la ruta e inauguró el servicio institucional con la presencia de la tripulación completa y el debut de las primeras azafatas. Asimismo, el itinerario exacto de escalas varió entre el vuelo inaugural (Villa Cisneros, Natal y Río de Janeiro) y la línea regular definitiva, que incorporó la parada en Montevideo (Uruguay) antes de finalizar en el Aeropuerto de Morón en Buenos Aires.</p>
+  <p><strong>Nota aclaratoria:</strong> las fuentes distinguen entre el vuelo inaugural e institucional del 22 de septiembre de 1946 —operado por el Douglas DC-4 EC-DAB con la tripulación completa y las cuatro primeras azafatas— y la apertura del calendario de servicios regulares abiertos al público el 15 de octubre de 1946 bajo el número de línea 1215. Asimismo, mientras el vuelo del 22 de septiembre hizo escalas en Villa Cisneros, Natal y Río de Janeiro antes de aterrizar en Morón, el servicio regular incorporó desde octubre una cuarta parada intermedia en Montevideo.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-16 08:50:00 CST
-- **Fuentes primarias/institucionales consultadas:** Iberia Líneas Aéreas de España (Archivo Histórico de la compañía, colección fotográfica y registros de flota DC-4), Ministerio de Transportes, Movilidad y Agenda Urbana del Gobierno de España (Revista del Ministerio de Fomento, monográfico de historia aeronáutica).
-- **Fuentes secundarias de contraste:** Clarín (diario argentino, especial 75.º aniversario de la ruta), Fly News (Luis Calvo, archivo de flota de Iberia), Microsiervos (artículo conmemorativo de la línea 1215).
-- **Discrepancias resueltas:** 1) Fecha de inauguración de la ruta: se distingue entre el vuelo inaugural oficial y de promoción del 22 de septiembre de 1946 (a bordo del DC-4 EC-DAB con tripulación e pasaje institucional) y el inicio del calendario de vuelos regulares abiertos al público el 15 de octubre de 1946 (línea 1215); se conmemora el despegue del primer vuelo del 22 de septiembre. 2) Escalas del trayecto: se consignan las escalas del vuelo inaugural (Villa Cisneros, Natal, Río de Janeiro y Buenos Aires-Morón), precisando que la parada de Montevideo se añadió en los itinerarios regulares a partir de octubre.
-- **Nivel de confianza:** Alto.
+- **Timestamp de verificación:** 2026-10-07 07:34:50 CST  
+- **Fuentes primarias/institucionales consultadas:** Iberia Líneas Aéreas de España (portal corporativo y archivo histórico), Ministerio de Transportes, Movilidad y Agenda Urbana de España  
+- **Fuentes de contraste:** *Clarín*, *Fly News* (Luis Calvo), *Microsiervos*  
+- **Discrepancias resueltas:** se diferencia el vuelo inaugural del 22 de septiembre de 1946 (con tres escalas) del inicio del servicio regular comercial el 15 de octubre (línea 1215, que añadió Montevideo).  
+- **Nivel de confianza:** Alto  
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

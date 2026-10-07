@@ -19,139 +19,73 @@ image: 1946-04-24-fundacion-equipo-acrobatico-blue-angels.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 24 de abril de 1946, por orden del Almirante Chester W. Nimitz, Jefe de Operaciones Navales de EE. UU., se fundó el equipo de demostración aérea de la Armada "Blue Angels" para elevar la moral naval y atraer apoyo público a la aviación naval post-Segunda Guerra Mundial. Inicialmente volaron con Grumman F6F-5 Hellcat, realizando su primer show el 15 de junio de 1946 en Jacksonville, Florida. Es el segundo equipo acrobático formal más antiguo del mundo, tras la Patrouille de France (1931).</p>
+<p>El 24 de abril de 1946, por orden del Almirante Chester W. Nimitz, Jefe de Operaciones Navales de EE. UU., se fundó el equipo de demostración aérea de la Armada «Blue Angels» para elevar la moral institucional y sostener el apoyo público a la aviación naval tras la Segunda Guerra Mundial. Inicialmente operaron con cazas Grumman F6F-5 Hellcat y realizaron su primera exhibición el 15 de junio de 1946 en Jacksonville, Florida. Constituyen la segunda patrulla acrobática oficial más antigua del planeta en activo, precedida únicamente por la Patrouille de France (creada en 1931).</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Datos verificados del evento
 
-- **Fecha de la directiva fundacional:** 24 de abril de 1946
-- **Lugar:** Naval Air Station Jacksonville, Florida, Estados Unidos
-- **Ordenante:** Almirante Chester W. Nimitz, Jefe de Operaciones Navales (CNO)
-- **Primer líder del equipo:** Capitán de Corbeta Roy Marlin "Butch" Voris (as naval de la Segunda Guerra Mundial)
-- **Primeras aeronaves:** Grumman F6F-5 Hellcat (cuatro unidades, pintadas en azul marino oscuro con letras doradas)
-- **Primer espectáculo público:** 15 de junio de 1946 en NAS Jacksonville, Florida
-- **Entrenamiento inicial:** En secreto sobre los Everglades de Florida
-- **Antigüedad:** Segundo equipo acrobático oficial más antiguo del mundo (detrás de la Patrouille de France, fundada en 1931)
+- **Fecha de la directiva fundacional:** 24 de abril de 1946.
+- **Lugar de constitución:** Naval Air Station Jacksonville, Florida, Estados Unidos.
+- **Autoridad ordenante:** Almirante de la Flota Chester W. Nimitz, Jefe de Operaciones Navales (CNO).
+- **Primer comandante y jefe de vuelo:** Capitán de Corbeta Roy Marlin «Butch» Voris, as de caza en el Pacífico.
+- **Dotación inaugural de vuelo:** Teniente Maurice «Wick» Wickendoll (ala derecha), Teniente (J.G.) Mel Cassidy (ala izquierda), Teniente Al Taddeo (solista) y Teniente (J.G.) Gale Stouse (reserva).
+- **Primeras aeronaves:** cuatro Grumman F6F-5 Hellcat aligerados, pintados en azul marino oscuro con rotulación dorada.
+- **Primer espectáculo público:** 15 de junio de 1946 en NAS Jacksonville, Florida.
+- **Antigüedad mundial:** segundo grupo acrobático militar oficial más antiguo, tras la Patrouille de France (1931).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Contexto Histórico
 
-Al finalizar la Segunda Guerra Mundial en septiembre de 1945, Estados Unidos inició una rápida desmovilización de sus fuerzas armadas. La enorme flota que había llevado a la victoria en el Pacífico se redujo drásticamente. En este contexto de austeridad, las Fuerzas Aéreas del Ejército (que se convertirían en la Fuerza Aérea de EE. UU. en 1947) argumentaban que las armas atómicas habían minimizado la necesidad de una Armada y un Ejército grandes, favoreciendo en su lugar a los bombarderos de largo alcance. Esta postura representaba una amenaza directa para la Aviación Naval. Una forma de contrarrestarla era mantener las capacidades de la Armada en el primer plano de la conciencia pública.
+Al concluir la Segunda Guerra Mundial en septiembre de 1945, Estados Unidos emprendió una rápida desmovilización militar. La flota que había protagonizado la campaña del Pacífico sufrió recortes severos de personal y buques. En medio del debate sobre la unificación de las fuerzas armadas y la supremacía del bombardero estratégico con armamento nuclear defendida por las Fuerzas Aéreas del Ejército, la Armada buscó un instrumento directo para mostrar al público y al Congreso la vigencia técnica y táctica de la aviación embarcada.
 
 ### Entorno social
 
-La América de la posguerra anhelaba la normalidad después de años de conflicto. Los espectáculos aéreos, que combinaban tecnología de vanguardia con el espíritu aventurero de los pilotos, se convirtieron en una forma popular de entretenimiento y de afirmación patriótica. La creación de un equipo de demostración permitía a la Armada conectar con el público civil y atraer reclutas en un momento en que el presupuesto de defensa se reducía drásticamente.
+La sociedad estadounidense de posguerra acudía en masa a los festivales aeronáuticos, que combinaban exhibición tecnológica y celebración cívica. La creación de una patrulla de vuelo dentro del Mando de Entrenamiento Aéreo Naval ofrecía a la Marina una vía eficaz para estrechar el vínculo con las comunidades civiles, reforzar el orgullo del personal uniformado y sostener el reclutamiento de cadetes en un periodo de contracción presupuestaria.
 
 ### Entorno tecnológico
 
-El Grumman F6F Hellcat había sido uno de los cazas más exitosos de la guerra, con una proporción de victorias sobre pérdidas de 19:1. Su robustez y fiabilidad lo convertían en una plataforma ideal para las exigentes maniobras acrobáticas. Más tarde, el equipo adoptaría el F8F Bearcat, más ligero y potente, y luego aviones a reacción como el F9F Panther.
+El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1942/06/26/primer-vuelo-prototipo-grumman-xf6f-1-hellcat.html" style="color: #315fea; text-decoration: none;">Grumman F6F Hellcat</a> había sido el caza embarcado estándar de la Armada en la segunda mitad de la contienda, apreciado por su nobleza a baja velocidad y su robustez estructural. Para las exhibiciones se retiró el blindaje y el armamento con el fin de aligerar las células. Pocos meses después, la unidad incorporó el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1944/08/21/primer-vuelo-grumman-f8f-bearcat.html" style="color: #315fea; text-decoration: none;">Grumman F8F Bearcat</a>, de superior razón potencia-peso, antes de iniciar en 1949 la transición a los reactores embarcados con el Grumman F9F Panther.
 
 ### Entorno cultural
 
-La elección del nombre "Blue Angels" (Ángeles Azules) surgió de una visita del equipo a un club nocturno de Nueva York llamado "Blue Angel". El nombre evocaba la mística de la aviación naval y su conexión con el cielo. Los colores originales (azul marino oscuro con letras doradas) fueron elegidos por Voris para reflejar los colores institucionales de la Marina.
+Durante sus primeras semanas el grupo operó simplemente como Navy Flight Exhibition Team. El nombre «Blue Angels» nació en julio de 1946 cuando uno de los pilotos leyó en la revista *The New Yorker* una reseña del club nocturno neoyorquino Blue Angel, denominación que armonizaba con el azul marino y el oro institucionales elegidos para fuselajes y planos. Conscientes de que un siniestro inicial habría provocado la cancelación inmediata del programa, los aviadores ensayaron en secreto sobre los pantanos de los Everglades.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
-- **24 de abril de 1946:** El Almirante Nimitz emite la directiva ordenando la creación de un equipo de exhibición aérea y selecciona a Butch Voris como Oficial a Cargo.
-- **15 de junio de 1946:** El equipo realiza su primer espectáculo público en NAS Jacksonville, Florida.
-- **Julio de 1946:** El equipo adopta el nombre "Blue Angels".
-- **Agosto de 1946:** El equipo cambia al más potente Grumman F8F-1 Bearcat.
-- **Agosto de 1947:** Se introduce la icónica formación en diamante de cuatro aviones.
-- **1949:** El equipo recibe sus primeros aviones a reacción, los Grumman F9F-2 Panther.
-- **1950:** El equipo es disuelto temporalmente durante la Guerra de Corea, pero regresa al año siguiente.
-- **Mayo de 1954:** Los Blue Angels realizan su primer show conjunto con los recién formados Thunderbirds de la USAF.
-- **1957:** Introducción del primer avión supersónico del equipo, el Grumman F11F-1 Tiger.
-- **1969:** El equipo cambia al McDonnell Douglas F-4J Phantom II.
-- **1970:** Se incorpora el C-130 "Fat Albert" como avión de apoyo logístico.
-- **1974:** El equipo cambia al Douglas A-4F Skyhawk II.
-- **1986:** Transición al McDonnell Douglas F/A-18 Hornet, coincidiendo con el 40 aniversario.
-- **2021:** Transición al Boeing F/A-18E/F Super Hornet y celebración del 75 aniversario.
+La evolución operativa de la escuadrilla desde la directiva de 1946 hasta la actualidad refleja las sucesivas generaciones de cazas navales estadounidenses:
 
-### La fundación: el nacimiento de los Ángeles Azules
+- **24 de abril de 1946:** el Almirante Nimitz emite la directiva que establece el equipo de exhibición aérea naval y designa al Capitán de Corbeta Voris para organizarlo e instruirlo en Florida.
+- **Mayo–junio de 1946:** los pilotos seleccionados perfeccionan maniobras de formación cerrada sobre los Everglades, lejos de observadores externos, e idean una secuencia que simula un combate aéreo contra un aparato pintado de amarillo que hace las veces de caza japonés Zero.
+- **15 de junio de 1946:** la patrulla realiza su primera demostración pública en NAS Jacksonville con tres F6F-5 en formación y un aparato de reserva, obteniendo el trofeo principal del certamen.
+- **Julio–agosto de 1946:** tras su presentación en Omaha (Nebraska) el 19 de julio ya bajo el nombre de «Blue Angels», la unidad sustituye el 25 de agosto los Hellcat por cazas Grumman F8F-1 Bearcat.
+- **Agosto de 1947:** bajo el mando del Capitán de Corbeta Robert Clarke se introduce en Corpus Christi (Texas) la característica formación en diamante de cuatro aviones.
+- **1949–1951:** el grupo estrena sus primeros turborreactores, los Grumman F9F-2 Panther; a finales de 1950 se suspende temporalmente por la guerra de Corea y sus pilotos integran el núcleo del escuadrón de combate VF-191 (*Satan’s Kittens*) a bordo del USS *Princeton*, antes de reactivarse en octubre de 1951 en NAS Corpus Christi.
+- **1954–1968:** la patrulla establece su sede permanente en NAS Pensacola (Florida), pasa al F9F-8 Cougar de ala en flecha (1954) y adopta en 1957 su primer caza supersónico, el Grumman F11F-1 Tiger, que mantiene durante once temporadas.
+- **1969–1986:** opera durante cinco años el bimotor pesado McDonnell Douglas F-4J Phantom II, incorpora en 1970 el transporte cuatrimotor Lockheed C-130 *Fat Albert* tripulado por el Cuerpo de Marines para apoyo logístico y demostraciones de despegue corto, y en 1974 pasa al ágil monomotor Douglas A-4F Skyhawk II al constituirse formalmente como Navy Flight Demonstration Squadron.
+- **1986–2021:** con motivo de su cuadragésimo aniversario adopta el polivalente McDonnell Douglas F/A-18 Hornet —primero en variantes A/B y después C/D—, que permanece treinta y cuatro años en servicio hasta el relevo en 2021 por el Boeing F/A-18E/F Super Hornet.
 
-El 24 de abril de 1946, el Almirante Chester W. Nimitz, quien había liderado la Armada estadounidense a la victoria en el Pacífico, emitió una directiva que cambiaría la historia de la aviación naval. La orden establecía la creación de un equipo de exhibición aérea dentro del Comando de Entrenamiento Naval para representar a la Armada en espectáculos aéreos.
+### Repertorio acrobático característico
 
-### El líder: Butch Voris
-
-La elección del Capitán de Corbeta Roy Marlin "Butch" Voris para liderar el equipo no fue casualidad. Voris era un as naval con experiencia en combate en el Pacífico. Antes de que Nimitz emitiera su orden, el oficial a cargo de la Unidad de Instrucción Avanzada le había preguntado su opinión sobre la formación de un equipo de este tipo, qué tipo de aeronave debería volar y qué maniobras eran posibles. Voris recordó: "Mi estado de ánimo era que no me ofrecían esto para quedar en segundo lugar. Sentí que si no éramos los mejores, sería el fin de mi carrera naval".
-
-### Los pilotos originales
-
-Voris formó el equipo con pilotos que habían servido con él en escuadrones de élite durante la guerra:
-- **Teniente Maurice "Wick" Wickendoll** (ala derecha)
-- **Teniente (J.G.) Mel Cassidy** (ala izquierda)
-- **Teniente Al Taddeo** (piloto suplente)
-- **Teniente (J.G.) Gale Stouse** (piloto suplente)
-
-### El entrenamiento en secreto
-
-Conscientes de que cualquier accidente podría significar el fin del proyecto, Voris y sus pilotos entrenaron en secreto sobre los Everglades de Florida, donde, según recordó Voris, "si algo ocurría, solo los caimanes lo sabrían".
-
-### El primer espectáculo
-
-El 15 de junio de 1946, el equipo realizó su primer espectáculo público en NAS Jacksonville. Un mes después, adoptaron el nombre "Blue Angels", inspirado en un club nocturno de Nueva York que el equipo había visitado.
-
-### Aeronaves históricas del equipo
-
-Los Blue Angels han volado diez tipos de aeronaves de demostración a lo largo de su historia:
-
-- **Grumman F6F-5 Hellcat (1946):** Temporada inaugural (junio-agosto).
-- **Grumman F8F-1 Bearcat (1946-1949):** Introdujo la formación diamante (agosto de 1947).
-- **Grumman F9F-2 Panther (1949-1954):** Primer jet del equipo.
-- **Grumman F9F-8 Cougar (1954-1957):** Versión con alas en flecha.
-- **Grumman F11F-1 Tiger (1957-1968):** Primer avión supersónico del equipo.
-- **McDonnell Douglas F-4J Phantom II (1969-1974):** Primer birreactor, más grande y potente.
-- **Douglas A-4F Skyhawk II (1974-1986):** Avión más pequeño y ágil.
-- **McDonnell Douglas F/A-18 Hornet (1986-2020):** 34 años de servicio.
-- **Boeing F/A-18E/F Super Hornet (2021-presente):** Actual aeronave del equipo.
-
-### Fat Albert: el apoyo logístico
-
-Además de los cazas, el equipo opera un avión de transporte conocido como "Fat Albert". El primer C-130 se unió al equipo en 1970. Tripulado por una dotación del Cuerpo de Marines de EE. UU., "Fat Albert" abre cada espectáculo con una demostración de las capacidades tácticas del C-130, incluyendo despegues de combate y aterrizajes cortos.
-
-### Maniobras emblemáticas
-
-Los Blue Angels son famosos por sus maniobras de precisión. Entre las más conocidas se encuentran:
-
-- **Formación Diamante (Diamond Formation):** Cuatro aviones volando a menos de 1,5 metros de distancia entre sí.
-- **Fleur de Lis:** Seis aviones en formación delta que se separan, con los dos solistas saliendo hacia la derecha mientras los cuatro restantes se reagrupan en diamante en lo alto de un looping.
-- **Dirty Loop:** La formación diamante realiza un looping de una milla de altura con el tren de aterrizaje y los ganchos de detención extendidos.
-- **Fortus:** Dos aviones vuelan a 150 pies de altura, uno invertido y el otro normal, dando la impresión de un solo avión con dos juegos de ruedas.
-- **Tuck Away Cross:** Dos aviones se cruzan a 200 pies de altura separados por apenas 30-45 metros, realizando un giro de 270 grados.
+El programa de vuelo combina pasadas de seis aparatos en delta (*Fleur de Lis*) con maniobras de cuatro aviones en diamante a distancias de separación de hasta dieciocho pulgadas (45 centímetros), entre ellas el *Dirty Loop* con tren de aterrizaje y gancho de apontaje desplegados, el vuelo espejo (*Fortus*) de dos aviones con uno en posición invertida a baja cota y los cruces opuestos (*Tuck Away Cross*) de los dos solistas cerca de la velocidad del sonido.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Consecuencias e Impacto
 
-- **Impulso a la Aviación Naval:** Los Blue Angels lograron mantener el interés público en la aviación naval durante los años de austeridad de la posguerra, ayudando a asegurar el apoyo político y presupuestario.
+La iniciativa ordenada por Nimitz cumplió su propósito político y estratégico inmediato. En los años posteriores a 1946, las exhibiciones multitudinarias mantuvieron visible la pericia de los aviadores de portaaviones ante millones de ciudadanos y contribuyeron a respaldar los programas de modernización de la flota en los inicios de la Guerra Fría.
 
-- **Modelo para otros equipos:** El éxito de los Blue Angels inspiró la creación de equipos similares en todo el mundo, incluyendo los Thunderbirds de la Fuerza Aérea de EE. UU. (fundados en 1953).
-
-- **Excelencia en el reclutamiento:** El equipo se ha convertido en una de las herramientas de reclutamiento más efectivas de la Armada, atrayendo a miles de jóvenes a considerar carreras en la aviación naval.
-
-- **Innovación en seguridad:** Las rigurosas exigencias del vuelo en formación cerrada han impulsado innovaciones en comunicaciones, procedimientos de seguridad y mantenimiento de aeronaves.
+El modelo organizativo de Jacksonville inspiró además la creación de unidades homólogas en otras ramas armadas, en particular los <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1953/06/01/fundacion-grupo-acrobatico-thunderbirds.html" style="color: #315fea; text-decoration: none;">Thunderbirds de la Fuerza Aérea de EE. UU.</a> en 1953. En el plano técnico, la exigencia de volar sin trajes anti-G para evitar interferencias involuntarias en la palanca de mando durante la formación cerrada consolidó protocolos de preparación física, estandarización de mantenimiento y seguridad operacional que se trasladaron al resto de los escuadrones de la Armada y del Cuerpo de Marines.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Legado
 
-Los Blue Angels se han convertido en un ícono de la cultura estadounidense, apareciendo en películas, series de televisión y documentales. Su famoso esquema de pintura azul con detalles amarillos es reconocido en todo el mundo.
-
-Más de 300 pilotos han servido como Blue Angels a lo largo de ocho décadas, representando a la Armada y al Cuerpo de Marines de EE. UU. con honor y precisión. Su lema, "La excelencia es una tradición", resume el compromiso del equipo con la perfección en cada maniobra.
-
-Los Blue Angels no son solo un equipo acrobático; son embajadores de la aviación naval y un recordatorio del ingenio, el valor y la precisión que caracterizan a las fuerzas armadas estadounidenses. Al celebrar su 80 aniversario en 2026, continúan inspirando a nuevas generaciones a mirar hacia el cielo.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre la fecha de fundación:</strong> El 24 de abril de 1946 es la fecha de la directiva del Almirante Nimitz ordenando la creación del equipo. Algunas fuentes mencionan el 2 de abril de 1946 como la fecha en que Nimitz ordenó el estudio de viabilidad, pero la fundación oficial del equipo se conmemora el 24 de abril, cuando se emitió la directiva y se seleccionó a Butch Voris como líder. El primer espectáculo público tuvo lugar el 15 de junio de 1946.</p>
-<p><strong>Sobre la antigüedad mundial:</strong> Los Blue Angels son el segundo equipo acrobático formal más antiguo del mundo. El más antiguo es la Patrouille de France, fundada en 1931 por la Armée de l'Air francesa. Otros equipos como los Thunderbirds de la USAF (1953) o las Frecce Tricolori italianas (1961) son posteriores.</p>
-</div>
+Ochenta años después de aquella directiva de abril de 1946, más de trescientos oficiales aviadores navales y de la Infantería de Marina han integrado las filas del escuadrón bajo el lema *Excellence is a Tradition*. Sus aviones azules y dorados, reconocibles en todo el mundo, han actuado ante centenares de millones de espectadores desde su base de Pensacola y su centro de entrenamiento invernal en El Centro (California). Más allá del espectáculo acrobático, la unidad perdura como testimonio vivo de la evolución técnica del caza embarcado desde el motor radial de pistón hasta el reactor polivalente del siglo XXI.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -159,21 +93,28 @@ Los Blue Angels no son solo un equipo acrobático; son embajadores de la aviaci�
 
 <div class="references">
   <ul>
-    <li><a href="https://usnhistory.navylive.dodlive.mil/DesktopModules/ArticleCS/Print.aspx?PortalId=66&ModuleId=53071&Article=2687086" style="color: #315fea; text-decoration: none;">The Sextant (U.S. Navy History) - Birth of the Blues</a></li>
-    <li><a href="https://www.govinfo.gov/content/pkg/CREC-2023-04-28/html/CREC-2023-04-28-pt1-PgE378.htm" style="color: #315fea; text-decoration: none;">Congressional Record - Honoring the Blue Angels (April 28, 2023)</a></li>
-    <li><a href="https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/aircraft-us/aircraft-usn-blueangels/performance-maneuvers.html" style="color: #315fea; text-decoration: none;">Navy.mil - Blue Angels: Performance Maneuvers</a></li>
-    <li><a href="https://www.marines.mil/News/Messages/Messages-Display/Article/146237/fat-albert-opens-the-show-for-the-blue-angels/" style="color: #315fea; text-decoration: none;">Marines.mil - Fat Albert opens the show for the Blue Angels</a></li>
-    <li><a href="https://www.britannica.com/topic/Blue-Angels" style="color: #315fea; text-decoration: none;">Britannica - Blue Angels</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Blue_Angels" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Blue Angels</a></li>
+    <li><a href="https://usnhistory.navylive.dodlive.mil/DesktopModules/ArticleCS/Print.aspx?PortalId=66&ModuleId=53071&Article=2687086" style="color: #315fea; text-decoration: none;">The Sextant (Naval History and Heritage Command) — «Birth of the Blues»</a></li>
+    <li><a href="https://www.govinfo.gov/content/pkg/CREC-2023-04-28/html/CREC-2023-04-28-pt1-PgE378.htm" style="color: #315fea; text-decoration: none;">Congressional Record — «Honoring the Blue Angels» (28 de abril de 2023)</a></li>
+    <li><a href="https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/aircraft-us/aircraft-usn-blueangels/performance-maneuvers.html" style="color: #315fea; text-decoration: none;">National Museum of the U.S. Navy (NHHC) — «Blue Angels: Performance Maneuvers»</a></li>
+    <li><a href="https://www.marines.mil/News/Messages/Messages-Display/Article/146237/fat-albert-opens-the-show-for-the-blue-angels/" style="color: #315fea; text-decoration: none;">U.S. Marine Corps (Marines.mil) — «Fat Albert opens the show for the Blue Angels»</a></li>
+    <li><a href="https://www.britannica.com/topic/Blue-Angels" style="color: #315fea; text-decoration: none;">Encyclopædia Britannica — «Blue Angels»</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Blue_Angels" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — «Blue Angels»</a></li>
   </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
+
+<div class="note-box">
+<p><strong>Nota aclaratoria:</strong> el 24 de abril de 1946 corresponde a la directiva del Almirante Chester W. Nimitz que ordenó constituir el equipo y seleccionó a Roy Marlin «Butch» Voris como jefe de vuelo; algunas crónicas citan el 2 de abril de 1946 como la fecha de inicio de los estudios preliminares, mientras que el primer espectáculo público se celebró el 15 de junio de 1946 en NAS Jacksonville. Por antigüedad oficial continuada, los Blue Angels ocupan el segundo lugar mundial tras la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1931/05/10/fundacion-patrouille-d-etampes.html" style="color: #315fea; text-decoration: none;">Patrouille d’Étampes / Patrouille de France</a>, creada en 1931.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:26:52 CST  
-- **Fuentes primarias/institucionales consultadas:** The Sextant (U.S. Navy History), Congressional Record (.gov), Navy.mil, Marines.mil, Britannica, Wikipedia
-- **Discrepancias resueltas:** Las fuentes coinciden en la fecha del 24 de abril de 1946 como la de la directiva fundacional. El primer espectáculo público fue el 15 de junio de 1946. La formación diamante fue introducida en agosto de 1947.
-- **Nivel de confianza:** Alto
+- **Timestamp de verificación:** 2026-10-07 07:34:50 CST  
+- **Fuentes primarias/institucionales consultadas:** Naval History and Heritage Command (*The Sextant* y National Museum of the U.S. Navy), Congressional Record, U.S. Marine Corps  
+- **Fuentes de contraste:** Encyclopædia Britannica, Wikipedia (EN)  
+- **Discrepancias resueltas:** se distingue la orden de estudio previo (2 de abril de 1946), la directiva fundacional de Nimitz (24 de abril) y la exhibición inaugural (15 de junio).  
+- **Nivel de confianza:** Alto  
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

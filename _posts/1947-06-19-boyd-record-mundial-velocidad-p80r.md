@@ -19,83 +19,66 @@ image: 1947-06-19-boyd-record-mundial-velocidad-p80r.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 19 de junio de 1947, el Coronel Albert G. Boyd, jefe de la División de Pruebas de Vuelo de la Fuerza Aérea de EE. UU., pilotó el Lockheed P-80R Shooting Star a través del lago seco de Muroc, California, a una velocidad de 623,73 mph (1.004,2 km/h). Fue la primera vez en la historia que un avión superó la barrera de los 1.000 km/h, estableciendo un nuevo récord mundial de velocidad para aviones a reacción. El P-80R era un XP-80B especialmente modificado: se le recortaron las alas, se eliminaron las ametralladoras, se instaló una cubierta más pequeña. El motor Allison J33-A-35 incorporaba un sistema de inyección de agua y una tobera de empuje variable. Este récord consolidó la superioridad tecnológica estadounidense en los albores de la era del jet y confirmó el talento del legendario Coronel Boyd, quien ya había establecido la marca mundial anterior de 616 mph (991 km/h) con otro P-80.</p>
+  <p>El 19 de junio de 1947, el Coronel Albert G. Boyd, responsable de la División de Ensayos en Vuelo de las Fuerzas Aéreas del Ejército de EE. UU., pilotó el Lockheed P-80R Shooting Star sobre el lago seco de Muroc (California) a una velocidad media homologada de 623,73 mph (1.003,8 km/h; 1.004,2 km/h según la conversión métrica de la época). Con aquel registro, un avión tripulado franqueó por primera vez en vuelo horizontal controlado la barrera de los 1.000 km/h y devolvió a Estados Unidos la plusmarca mundial absoluta tras veinticuatro años en manos europeas.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
-- **Fecha del récord:** 19 de junio de 1947
-- **Piloto:** Coronel Albert G. Boyd (Jefe de la División de Pruebas de Vuelo, Wright Field, Ohio)
-- **Aeronave:** Lockheed P-80R Shooting Star (convertido a partir de un XP-80B, número de serie 44-85200)
-- **Lugar:** Muroc Dry Lake (actualmente Base de la Fuerza Aérea Edwards), California
-- **Velocidad registrada:** 623,73 mph (1.004,2 km/h; 542,0 nudos)
-- **Récord anterior:** 616 mph (991 km/h) establecido por el Coronel Boyd en un P-80 en 1946
-- **Reglas de la homologación (FAI):** dos pasadas de ida y vuelta sobre un circuito de 3 kilómetros en direcciones opuestas para compensar el viento, a menos de 100 metros de altitud; la cifra oficial es el promedio de las cuatro pasadas, aunque la velocidad máxima puntual fue ligeramente superior
-- **Certificación:** Récord mundial de velocidad homologado por la Fédération Aéronautique Internationale (FAI)
-- **Estado actual:** El P-80R 44-85200 se exhibe en el National Museum of the United States Air Force en Dayton, Ohio
-- **Pérdida de peso:** Se eliminaron las seis ametralladoras de 12,7 mm, la munición y todo el equipo militar innecesario
-- **Alas acortadas:** La envergadura se redujo de 11,8 m a 11,3 m para disminuir la resistencia aerodinámica
-- **Cabina rediseñada:** Se instaló una cubierta tipo burbuja más pequeña y aerodinámica
-- **Admisión de aire:** Se modificó la entrada de aire para mejorar el flujo hacia el motor
-- **Motor mejorado:** Allison J33-A-35 con un nuevo sistema de postcombustión (afterburner)
-- **Tobera de empuje:** Se instaló una tobera de diámetro variable para optimizar el empuje a alta velocidad
+- **Fecha del récord:** 19 de junio de 1947.
+- **Piloto:** Coronel Albert G. Boyd, jefe de vuelos de ensayo en Wright Field (Ohio).
+- **Aeronave:** Lockheed P-80R Shooting Star (*Racey*), modificado a partir del prototipo XP-80B (número de serie 44-85200).
+- **Lugar:** Muroc Army Air Field (actual Base de la Fuerza Aérea Edwards), desierto de Mojave, California.
+- **Velocidad media homologada:** 623,73 mph (1.003,81 km/h; consignada también como 623,753 mph o 623,8 mph / 1.004,2 km/h).
+- **Reglamento de la prueba (FAI):** cuatro pasadas consecutivas en sentidos opuestos sobre una base medida de 3 kilómetros a una altura inferior a 100 metros (con rampa de aproximación máxima de 500 metros).
+- **Planta motriz:** un turborreactor centrífugo Allison J33-A-21 (conocido como modelo 400) dotado de inyección de agua-metanol, capaz de entregar 2.086 kgf (4.600 lbf) de empuje en régimen de corta duración.
+- **Modificaciones aerodinámicas:** supresión de las seis ametralladoras frontales de 12,7 mm y de los soportes subalares, borde de ataque extendido y afilado, cúpula de cabina de perfil rebajado, tomas de aire rediseñadas con conductos internos de agua-metanol y acabado exterior encerado a mano.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-La posguerra fue una era de competencia tecnológica entre las potencias aliadas y la Unión Soviética. La aviación a reacción era el campo de batalla donde se dirimía la supremacía aérea del futuro.
+En los dos años posteriores a la Segunda Guerra Mundial, la plusmarca absoluta de velocidad aérea homologada por la Federación Aeronáutica Internacional (FAI) se convirtió en el escaparate tecnológico de las grandes potencias. Desde que el Comandante británico E. M. Donaldson había alcanzado 615,78 mph (991 km/h) con un Gloster Meteor F.4 en septiembre de 1946, las Fuerzas Aéreas del Ejército estadounidense buscaban recuperar un registro que ningún piloto norteamericano ostentaba oficialmente desde 1923.
 
 ### Entorno social
 
-Con la Guerra Fría en ciernes, EE. UU. necesitaba demostrar su superioridad tecnológica. Los récords de velocidad eran una forma de propaganda silenciosa pero efectiva. El P-80 ya había sido el primer caza a reacción operacional estadounidense, pero ahora se trataba de empujar los límites de lo posible.
+Con el inicio de la Guerra Fría y la inminente creación de la Fuerza Aérea como rama independiente, los mandos de Washington veían en las marcas internacionales un instrumento de prestigio industrial y científico. Tras un primer intento fallido en el otoño de 1946 con un ejemplar preparado en Burbank que no logró superar el margen mínimo de 5 millas por hora exigido por la FAI sobre el registro británico, el General Carl A. Spaatz autorizó una reforma profunda del aparato para intentarlo de nuevo en el verano de 1947 en el calor seco del desierto californiano.
 
 ### Entorno tecnológico
 
-El P-80 original había volado por primera vez el 8 de enero de 1944, desarrollado en un tiempo récord de 143 días por el equipo de Kelly Johnson (Skunk Works). En 1947, la tecnología de los motores a reacción evolucionaba rápidamente. El sistema de postcombustión (afterburner) del P-80R era una innovación relativamente reciente, al igual que los materiales y las técnicas aerodinámicas utilizadas para reducir la resistencia.
+El programa partió de la célula 44-85200, concebida originalmente como prototipo de la variante XP-80B a partir del diseño que Clarence «Kelly» Johnson y su equipo de Skunk Works habían llevado al aire por primera vez en enero de 1944. Para franquear el umbral de los mil kilómetros por hora donde comenzaban a manifestarse los efectos de compresibilidad transónica, los ingenieros redujeron el espesor relativo del ala alargando su cuerda en el borde de ataque, rebajaron el parabrisas y la cubierta transparente —lo que obligaba al piloto a volar casi encorvado— e instalaron el nuevo turborreactor Allison J33 con inyección de agua y metanol en el compresor, logrando un incremento notable de empuje sin aumentar la sección frontal del fuselaje.
 
 ### Entorno cultural
 
-El público estadounidense seguía con fascinación los récords de velocidad. El vuelo de Boyd fue cubierto por la prensa como un hito nacional, comparable al de los pioneros de la aviación de las décadas anteriores.
+La prensa estadounidense siguió con entusiasmo los ensayos en el lecho salino de Muroc. Para los técnicos de Lockheed y del centro de ensayos de Wright Field, el pequeño monoplaza plateado bautizado *Racey* simbolizaba la transición entre las carreras de trofeos de entreguerras y la investigación sistemática del vuelo de alta velocidad que cuatro meses más tarde llevaría al Bell X-1 más allá de Mach 1.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **8 de enero de 1944:** Primer vuelo del prototipo XP-80 (Lulu-Belle) en Muroc Dry Lake, pilotado por Milo Burcham. <a href="https://efemerides-aviacion.github.io/efemerides/evento/1944/01/08/primer-vuelo-lockheed-p80.html" style="color: #315fea; text-decoration: none;">Ver efeméride de ese evento</a>  
-- **22 de enero de 1946:** El Coronel William H. Councill realiza el primer vuelo transcontinental a reacción (Long Beach-Nueva York) en 4 horas y 13 minutos a bordo de un P-80A 
-- **1946:** El Coronel Albert G. Boyd establece un récord mundial de velocidad de 616 mph (991 km/h) en un P-80 estándar 
-- **19 de junio de 1947:** Boyd establece el récord de 623,73 mph (1.004,2 km/h) a bordo del P-80R en Muroc Dry Lake, California 
-- **19 de junio de 1947 (tras el aterrizaje):** los neumáticos, enfriados y quebradizos por la altura, estallaron al contacto con la pista; el aterrizaje se completó sin incidentes, según una anécdota relatada por fuentes cercanas al vuelo. 
-- **14 de octubre de 1947:** Chuck Yeager rompe la barrera del sonido a bordo del Bell X-1 (Boyd fue clave en la selección de Yeager para el programa)
-- **Septiembre de 1948:** El F-86 Sabre supera el récord de Boyd alcanzando 671 mph (1.080 km/h)
-- **1950:** Boyd es ascendido a general de brigada
-- **1957:** Boyd se retira de la Fuerza Aérea tras 31 años de servicio
-- **1976:** Fallece Albert G. Boyd
+La consecución del récord de junio de 1947 culminó tres años de perfeccionamiento del monoplaza de reacción diseñado por Lockheed:
+
+- **8 de enero de 1944:** Milo Burcham realiza en Muroc el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1944/01/08/primer-vuelo-lockheed-p80.html" style="color: #315fea; text-decoration: none;">primer vuelo del prototipo XP-80 *Lulu-Belle*</a>, punto de partida de la familia Shooting Star.
+- **26 de enero de 1946:** el Coronel William H. Councill <a href="https://efemerides-aviacion.github.io/efemerides/evento/1946/01/26/primer-record-transcontinental-p80-councill.html" style="color: #315fea; text-decoration: none;">cruza sin escalas Estados Unidos en un P-80A</a> entre Long Beach y Nueva York invirtiendo cuatro horas y trece minutos de vuelo continuo.
+- **Septiembre–octubre de 1946:** tras la marca británica de 615,78 mph del Gloster Meteor F.4, la célula 44-85200 se modifica por primera vez como avión de récord, pero las turbulencias y la falta de empuje adicional impiden batir el registro por el margen reglamentario.
+- **Invierno de 1946–primavera de 1947:** Lockheed instala el motor Allison J33 mejorado con inyección de agua-metanol y el nuevo perfil alar de cuerda extendida bajo la designación P-80R; antes de la tentativa oficial, la rotura de un conducto de refrigeración en un vuelo previo llena la cabina de humo denso y obliga a Boyd a tomar tierra a ciegas en el lago seco.
+- **19 de junio de 1947:** aprovechando las temperaturas superiores a 35 °C a ras del desierto —que elevan la velocidad del sonido y retrasan la aparición de ondas de choque—, Boyd ejecuta a menos de 75 pies sobre el suelo las cuatro pasadas cronometradas sobre el tramo de tres kilómetros y fija una media oficial de 623,73 mph (superando por primera vez los 1.000 km/h).
+- **20 de agosto de 1947 y septiembre de 1948:** el reactor naval Douglas D-558-1 Skystreak rebasa la marca de Muroc dos meses después (640,66 mph), y en septiembre de 1948 el propio Boyd alcanza 670,98 mph (1.079,8 km/h) a los mandos de un North American F-86A Sabre de ala en flecha.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-El récord de Boyd demostró que EE. UU. lideraba la carrera de la aviación a reacción, aunque por un estrecho margen. El récord fue superado en septiembre de 1948 por el F-86 Sabre, también pilotado por el Coronel Boyd (671 mph/1.080 km/h). Apenas unos meses después, en abril de 1949, el caza soviético Lavochkin La-176 alcanzó 685 mph (1.105 km/h) a los mandos del piloto de pruebas Ivan Yevgrafovich Fedorov, evidenciando la intensa competencia tecnológica de la Guerra Fría.
+El vuelo del 19 de junio de 1947 devolvió a Estados Unidos el récord mundial absoluto de velocidad por primera vez desde que el Teniente Alford J. Williams lo había fijado en 1923 con un biplano Curtiss R2C-1, y demostró el límite práctico al que podía llevarse una célula de ala recta propulsada por un turborreactor centrífugo.
 
-El P-80R (44-85200) fue donado al National Museum of the United States Air Force en Dayton, Ohio, en octubre de 1954, donde se exhibe en la galería de los primeros jet fighters. Es una pieza histórica invaluable que representa el momento exacto en que la humanidad superó por primera vez los 1.000 km/h en vuelo nivelado.
+Aunque el registro permaneció vigente apenas nueve semanas antes de ser batido por los aviones de investigación de la Marina y por los nuevos cazas de ala en flecha, la campaña de Muroc proporcionó datos valiosos sobre el calentamiento cinético en cabina, el comportamiento de las tomas de admisión a números de Mach próximos a 0,83 y el empleo de la inyección de agua-metanol en turbinas de gas. Una vez concluida su carrera de ensayos, la Fuerza Aérea preservó el ejemplar 44-85200 y lo transfirió en octubre de 1954 a su museo histórico en Ohio.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El Coronel Albert G. Boyd es recordado como el «padre de los pilotos de pruebas modernos». Formó y supervisó a una generación de aviadores legendarios, incluyendo a Chuck Yeager (primer piloto en romper la barrera del sonido), Pete Everest, Bob Hoover, Marion Carl, Fred Ascani y Tex Johnston. Bajo su liderazgo, la División de Pruebas de Vuelo de Wright Field estableció los estándares de seguridad y profesionalismo que rigen hasta hoy las pruebas de vuelo militares.
-
-El Coronel Albert G. Boyd (1902-1976) fue, según el historiador de la aviación Richard P. Hallion, el piloto de pruebas más importante del mundo en la década de 1940. A lo largo de su carrera, estableció numerosos récords en aviones como el P-80, el F-84 Thunderjet y el YF-86 Sabre.
-
-Boyd fundó y dirigió la División de Pruebas de Vuelo de la Fuerza Aérea en Wright Field, Ohio. Bajo su liderazgo, los pilotos de pruebas estadounidenses evaluaron todos los prototipos de cazas y bombarderos de posguerra, incluyendo el XB-47 Stratojet y el XB-52 Stratofortress. Fue el responsable de que Chuck Yeager —todavía un capitán con poca experiencia en vuelos de pruebas— fuera seleccionado para pilotar el X-1 en su histórico vuelo supersónico.
-
-A pesar de su importancia fundamental en los albores de la aviación a reacción, Boyd es mucho menos conocido que los pilotos a los que entrenó y supervisó.
-
-El P-80R, apodado «Racey» por sus modificaciones, permanece en exhibición en el National Museum of the United States Air Force junto a otros aviones de récord de la época. Boyd falleció en 1976, pero su nombre está grabado en los anales de la aviación como uno de los grandes pioneros de la era del jet.
+El Coronel Albert G. Boyd (1906–1976), ascendido posteriormente a mayor general, quedó reconocido como el artífice de los ensayos en vuelo modernos de la Fuerza Aérea estadounidense. Desde la jefatura de pruebas en Wright Field y más tarde al frente de la base de Edwards, seleccionó en el verano de 1947 al entonces Capitán Charles E. «Chuck» Yeager para pilotar el avión cohete Bell X-1 y formó a una generación de aviadores de ensayo entre los que figuraron Pete Everest, Bob Hoover, Fred Ascani y Tex Johnston. El monoplaza *Racey* con el que cruzó por primera vez la frontera de los mil kilómetros por hora se conserva hoy expuesto en Dayton como testimonio de los albores de la era del reactor.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -103,28 +86,26 @@ El P-80R, apodado «Racey» por sus modificaciones, permanece en exhibición en 
 
 <div class="references">
   <ul>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195772/lockheed-p-80r/" style="color: #315fea; text-decoration: none;">National Museum of the USAF – Lockheed P-80R fact sheet</a></li>
-    <li><a href="https://en.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star" style="color: #315fea; text-decoration: none;">Wikipedia – Lockheed P-80 Shooting Star</a></li>
-    <li><a href="https://simbolicodecaza.org/lockheed-f-80c-shooting-star/" style="color: #315fea; text-decoration: none;">Simbólico de Caza – Lockheed F-80C "Shooting Star"</a></li>
-    <li><a href="https://1000aircraftphotos.com/Contributions/PippinBill/8156.html" style="color: #315fea; text-decoration: none;">1000 Aircraft Photos – Pippin Bill</a></li>
-    <li><a href="https://www.thisdayinaviation.com/tag/44-85200/" style="color: #315fea; text-decoration: none;">This Day in Aviation – 44-85200</a></li>
-    <li><a href="https://www.airhistory.net/photo/862569/44-85200/485200" style="color: #315fea; text-decoration: none;">Air History – 44-85200</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195772/lockheed-p-80r/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force – «Lockheed P-80R» (ficha técnica e histórica del ejemplar 44-85200)</a></li>
+    <li><a href="https://www.thisdayinaviation.com/tag/44-85200/" style="color: #315fea; text-decoration: none;">This Day in Aviation – «19 June 1947: Lockheed XP-80R Shooting Star (44-85200)»</a></li>
+    <li><a href="https://simbolicodecaza.org/lockheed-f-80c-shooting-star/" style="color: #315fea; text-decoration: none;">Simbólico de Caza – «Lockheed F-80C Shooting Star»</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Lockheed_P-80_Shooting_Star" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – «Lockheed P-80 Shooting Star»</a></li>
   </ul>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> El récord se estableció el 19 de junio de 1947. Aunque posteriormente fue superado en múltiples ocasiones, el logro de Boyd fue histórico por ser la primera vez que un avión superó los 1.000 km/h. Algunas fuentes citan la velocidad como 623,8 mph (1.004,2 km/h) o 623,73 mph (1.003,8 km/h). La cifra oficial de la FAI es 1.004,2 km/h. El P-80R se construyó a partir del XP-80B 44-85200, no de un P-80A estándar. El Coronel Boyd también estableció el récord anterior de 616 mph (991 km/h) en 1946 con un P-80 estándar.</p>
+  <p><strong>Nota aclaratoria:</strong> la velocidad media de las cuatro pasadas aparece consignada con ligeras diferencias de redondeo según la fuente: la ficha oficial de la Fuerza Aérea y del museo de Dayton recoge 623,73 mph (1.003,81 km/h), el pie de foto oficial de la época anota 623,753 mph y diversos repertorios redondean a 623,8 mph (1.004,2 km/h). Asimismo, el aparato 44-85200 procedía de la célula experimental XP-80B modificada con motor Allison J33 e inyección de agua-metanol, no de un P-80A de serie dotado de postquemador.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-08 15:37:56 CST  
-- **Fuentes primarias/institucionales consultadas:** National Museum of the USAF, Wikipedia, Simbólico de Caza, This Day in Aviation, Air History, 1000 Aircraft Photos
-- **Discrepancias resueltas:** Algunas fuentes citan la velocidad como 623,8 mph (1.004,2 km/h) o 623,73 mph (1.003,8 km/h). Se ha adoptado la cifra oficial del National Museum of the USAF. Se ha confirmado que la aeronave era un XP-80B modificado, no un P-80A estándar.
-- **Nivel de confianza:** Alto
+- **Timestamp de verificación:** 2026-10-07 07:34:50 CST  
+- **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force (ficha del Lockheed P-80R 44-85200)  
+- **Fuentes de contraste:** This Day in Aviation, Simbólico de Caza, Wikipedia (EN)  
+- **Discrepancias resueltas:** se consignan las variantes de redondeo del promedio oficial (623,73 mph / 623,753 mph / 623,8 mph) y se precisa que la planta motriz empleaba inyección de agua-metanol en un Allison J33 sobre la célula XP-80B 44-85200.  
+- **Nivel de confianza:** Alto  
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
