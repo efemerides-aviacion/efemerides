@@ -16,134 +16,70 @@ image: 1956-04-23-primer-vuelo-douglas-c-133-cargomaster.webp
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 23 de abril de 1956 realizó su primer vuelo el Douglas C-133A Cargomaster, un avión de transporte estratégico de carga desarrollado por Douglas Aircraft Company para la Fuerza Aérea de EE. UU. (USAF). Sin construir prototipos, pasó directamente a producción para cumplir con el requisito SS402L de soporte logístico. Pilotado por Jack Armstrong y Frank Boyer, despegó de Long Beach, California, y voló a Edwards AFB. Con cuatro motores turbohélice Pratt & Whitney T34-P-9W, el Cargomaster se convirtió en el principal transportador de misiles balísticos intercontinentales de la Guerra Fría.</p>
+<p>El 23 de abril de 1956 realizó su vuelo inaugural el <strong>Douglas C-133A Cargomaster</strong> (matrícula <code>54-0135</code>), cuatrimotor turbohélice de transporte estratégico desarrollado por Douglas Aircraft Company para la Fuerza Aérea de Estados Unidos (USAF). Encargado directamente en serie sin construcción previa de prototipos para satisfacer el requerimiento logístico SS-402L, despegó del aeropuerto municipal de Long Beach (California) rumbo a Edwards Air Force Base a los mandos de los pilotos de pruebas J. G. «Jack» Armstrong y Frank C. Boyer, acompañados por el ingeniero de vuelo Duncan Hall. Durante década y media de servicio, los cincuenta ejemplares fabricados constituyeron el único vector aéreo estadounidense capaz de trasladar en su bodega misiles balísticos intercontinentales Atlas, Titan y Minuteman completos.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
-- **Fecha del primer vuelo:** 23 de abril de 1956
-- **Lugar:** Long Beach, California, Estados Unidos
-- **Aeronave:** Douglas C-133A Cargomaster (primer ejemplar de producción, número de serie 54-0135)
-- **Pilotos:** J.G. "Jack" Armstrong y Frank C. Boyer
-- **Ingeniero de vuelo:** Duncan Hall
-- **Duración del vuelo:** Aproximadamente 1,5 horas (vuelo a Edwards Air Force Base)
-- **Fabricante:** Douglas Aircraft Company
-- **Producción:** 50 unidades (35 C-133A y 15 C-133B) entre 1956 y 1961
-- **Retiro del servicio:** 1971
+- **Fecha del vuelo inaugural:** 23 de abril de 1956.
+- **Ruta del estreno:** despegue en Long Beach (California) y aterrizaje en Edwards Air Force Base tras una hora y media de vuelo.
+- **Aeronave:** primer ejemplar de producción Douglas C-133A Cargomaster, número de serie de la USAF `54-0135` (no existió célula experimental XC-133 ni YC-133).
+- **Tripulación del primer vuelo:** J. G. «Jack» Armstrong (piloto de pruebas al mando), Frank C. Boyer (copiloto) y Duncan Hall (ingeniero de ensayos en vuelo).
+- **Planta motriz:** cuatro motores turbohélice Pratt &amp; Whitney T34-P-3 (de 6.000 shp en los primeros C-133A, evolucionados a los T34-P-7WA y T34-P-9W de hasta 7.500 shp con inyección de agua en el C-133B).
+- **Dimensiones y pesos:** 54,78 m (179 pies 8 pulgadas) de envergadura, 48,01 m (157 pies 6 pulgadas) de longitud, 14,70 m de altura, peso máximo al despegue de hasta 129.700–136.000 kg (286.000–300.000 lb) y carga útil máxima cercana a las 50 toneladas (110.000 lb).
+- **Producción total y vida operativa (1956–1971):** 50 ejemplares construidos en Long Beach (repartidos en 35 C-133A y 15 C-133B según el Museo Nacional de la USAF, o 32 C-133A y 18 C-133B al descontar tres células de ensayos e instrucción en tierra), retirados del servicio activo en 1971.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-A mediados de la década de 1950, la Guerra Fría alcanzaba uno de sus puntos de mayor tensión. Estados Unidos y la Unión Soviética competían en una carrera armamentística que incluía el desarrollo de misiles balísticos intercontinentales (ICBM) con capacidad nuclear. Para mantener la disuasión, la Fuerza Aérea de EE. UU. necesitaba un medio de transporte rápido y eficiente que pudiera mover estos enormes misiles entre bases, fábricas y sitios de lanzamiento. El Douglas C-133 Cargomaster fue la respuesta a esa necesidad.
+A mediados de la década de 1950, el crecimiento exponencial del tamaño de los equipos militares y el nacimiento de los primeros programas de misiles balísticos intercontinentales (ICBM) pusieron de manifiesto las limitaciones de los transportes de motor de émbolo de la posguerra.
 
 ### Entorno social
 
-La América de la posguerra vivía bajo la sombra de una posible guerra nuclear. La posesión de misiles balísticos se consideraba esencial para la seguridad nacional, y cualquier avance tecnológico en este campo era celebrado como un triunfo patriótico. El C-133, diseñado específicamente para transportar misiles Atlas, Titan y Minuteman, se convirtió en una pieza clave de la maquinaria de defensa estadounidense.
+En plena Guerra Fría, el despliegue de los proyectiles estratégicos Atlas, Titan y Minuteman entre las plantas aeroespaciales de California, los polígonos de lanzamiento de Cabo Cañaveral y Vandenberg y los silos subterráneos repartidos por el interior de Estados Unidos exigía un puente aéreo seguro y discreto. Trasladar aquellas enormes etapas cilíndricas por carretera o ferrocarril resultaba lento, obligaba a cortar el tráfico civil y exponía cargas sensibles a vibraciones y accidentes; la Fuerza Aérea necesitaba un avión de carga intercontinental capaz de embarcar un misil entero en cuestión de minutos y depositarlo a miles de kilómetros en una sola jornada.
 
 ### Entorno tecnológico
 
-El desarrollo de grandes aeronaves de carga era un campo en rápida evolución. El C-124 Globemaster II, aunque capaz, tenía limitaciones importantes: su cubierta de carga estaba a 4 metros del suelo y su potencia era insuficiente para cargas realmente pesadas. El C-133 introdujo el concepto de carga por la parte trasera y laterales, con puertas que permitían introducir misiles completos. Sus cuatro motores turbohélice Pratt & Whitney T34-P-9W, cada uno con 7.500 hp, proporcionaban una potencia sin precedentes para un transporte de la época.
+Hasta entonces, el mayor avión de transporte en servicio con el *Military Air Transport Service* (MATS) era el Douglas C-124 Globemaster II de motores radiales, cuyo piso de bodega se alzaba a cuatro metros sobre el suelo y cuya compuerta de proa con rampa articulada no admitía cargas cilíndricas de más de veintisiete metros de largo. Dos años después del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1954/08/23/primer-vuelo-c130-hercules.html" style="color: #315fea; text-decoration: none;">estreno del transporte táctico Lockheed YC-130 Hercules</a>, Douglas aplicó una configuración similar a escala estratégica en su modelo **C-133**: ala alta para despejar por completo la sección interior, tren de aterrizaje principal de ocho ruedas alojado en carenados externos a ambos lados del fuselaje, bodega presurizada de 27,4 metros de longitud con el piso situado a sólo 1,27 metros (50 pulgadas) del pavimento y doble acceso mediante compuerta lateral delantera y rampa trasera (ampliada en la variante **C-133B** con puertas posteriores de apertura en cinco pétalos o *clamshell doors* que permitían introducir sin obstáculos los misiles Titan y Minuteman).
 
 ### Entorno cultural
 
-La aviación comercial y militar estadounidense estaba en su "Edad de Oro". Los vuelos récord, los nuevos modelos de aviones y las hazañas de los pilotos llenaban las portadas de las revistas. El C-133 estableció varios récords no oficiales, incluyendo un vuelo sin escalas de 5.150 millas desde Japón a California en 17 horas y 20 minutos.
+Durante sus quince años de actividad en las alas de transporte de Dover AFB (Delaware) y Travis AFB (California), el gigantesco cuatrimotor fue conocido entre sus tripulaciones como el «gigante silencioso» de la logística estratégica, batiendo marcas mundiales de carga útil e interviniendo de forma decisiva pero discreta detrás de cada lanzamiento de la carrera espacial estadounidense.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **1954:** La USAF emite el requisito SS402L para un sistema de soporte logístico de gran capacidad.
-- **2 de febrero de 1956:** Sale de fábrica la primera unidad C-133A (54-0135) en Long Beach, California.
-- **23 de abril de 1956:** Primer vuelo del C-133A, pilotado por Jack Armstrong y Frank Boyer, desde Long Beach a Edwards AFB.
-- **Agosto de 1957:** Primeras entregas al Military Air Transport Service (MATS).
-- **1958:** El C-133 comienza a operar en rutas aéreas globales.
-- **16 de diciembre de 1958:** El C-133A 56-2008 establece un récord mundial para aviones de hélice, elevando 117.900 libras (53.480 kg) a 10.000 pies (3.048 m).
-- **1961:** Finaliza la producción; se han construido 50 unidades (35 C-133A y 15 C-133B).
-- **1971:** La flota es retirada del servicio activo tras la introducción del C-5 Galaxy.
+La historia del Cargomaster se extendió desde su diseño directo para producción hasta su relevo por los grandes reactores de fuselaje ancho:
 
-### El primer vuelo: un comienzo sin prototipos
-
-El Douglas C-133 Cargomaster tuvo una característica singular en su desarrollo: **no se construyeron prototipos**. El primer ejemplar (54-0135) fue directamente una unidad de producción, un testimonio de la confianza de la USAF en el diseño de Douglas y de la urgencia por contar con el avión en servicio.
-
-### La salida de fábrica
-
-El 2 de febrero de 1956, el primer C-133A salió de la planta de ensamblaje de Douglas en Long Beach, California. En un hecho que demostraba la capacidad de carga del diseño, durante las pruebas en tierra el avión cargó 30.390 kg (67.000 libras) en apenas 40 minutos.
-
-### El vuelo inaugural
-
-El 23 de abril de 1956, a los mandos del experimentado piloto de pruebas J.G. "Jack" Armstrong, junto con Frank C. Boyer y el ingeniero de vuelo Duncan Hall, el Cargomaster despegó de Long Beach con destino a la Base de la Fuerza Aérea Edwards. El vuelo duró aproximadamente una hora y media y transcurrió sin incidentes, permitiendo a la tripulación evaluar las características básicas de manejo del enorme avión.
-
-### Dimensiones y capacidad
-
-El C-133 era un coloso para su época:
-- **Envergadura:** 54,8 metros (179 pies 9 pulgadas)
-- **Longitud:** 48,0 metros (157 pies 6 pulgadas)
-- **Altura:** 14,7 metros (48 pies 3 pulgadas)
-- **Peso máximo al despegue:** 130.000 kg (286.000 libras)
-- **Capacidad de carga:** 50.000 kg (110.000 libras) o 200 pasajeros
-
-### Servicio operativo
-
-El C-133 Cargomaster entró en servicio en agosto de 1957 con el Military Air Transport Service (MATS) de la USAF. Durante sus quince años de vida operativa, el avión desempeñó misiones críticas que iban desde el transporte de misiles balísticos intercontinentales hasta el apoyo logístico en Vietnam y el traslado de cohetes para los programas espaciales Mercury, Gemini y Apollo. Su capacidad de carga sin precedentes lo convirtió en una pieza indispensable de la maquinaria militar y espacial estadounidense.
-
-### Transporte de misiles ICBM
-
-La misión más importante del C-133 fue el transporte de misiles balísticos intercontinentales. Sus puertas traseras en pétalo (en la versión C-133B) permitían una apertura lo suficientemente grande para introducir misiles Atlas, Titan y Minuteman completos, de manera más rápida, segura y económica que el transporte por carretera. Varios cientos de misiles Minuteman y otros ICBM fueron transportados por vía aérea hacia y desde sus bases operativas mediante los C-133.
-
-### Apoyo a los programas espaciales
-
-El C-133 también desempeñó un papel crucial en la carrera espacial. Transportó cohetes Atlas, Saturn y Titan a Cabo Cañaveral para su uso como impulsores en los programas Mercury, Gemini y Apollo. Tras el amerizaje de las cápsulas Apollo, estas fueron transportadas en C-133 desde Norfolk (Virginia) o Hickam AFB (Hawái) hasta Ellington AFB (Texas) o California.
-
-### Servicio en Vietnam
-
-La flota de 50 C-133 demostró su valor durante la Guerra de Vietnam, transportando suministros y equipo pesado a las bases estadounidenses en el sudeste asiático.
-
-### Récords
-
-El C-133 estableció varios récords, incluyendo:
-- Vuelo sin escalas desde Tachikawa AB, Japón, a Travis AFB, California: 5.150 millas en 17 horas y 20 minutos (22 de mayo de 1959)
-- Vuelo sin escalas desde Hickam AFB, Hawái, a Dover AFB, Delaware: aproximadamente 16 horas (4.850 millas)
-- Récord mundial oficial de la FAI: el 16 de diciembre de 1958, el C-133A 56-2008 elevó 53.480 kg (117.900 libras) a 3.048 metros (10.000 pies)
+- **1953–1954:** a partir de los estudios para el sistema logístico **SS-402L**, la USAF adjudica a Douglas Aircraft Company el contrato de fabricación directa en serie del **C-133A**, prescindiendo de prototipos experimentales.
+- **2 de febrero de 1956:** abandona la línea de ensamblaje de Long Beach (California) el primer ejemplar, matrícula `54-0135`, que durante las pruebas preliminares en plataforma demuestra su eficiencia al estibar más de treinta toneladas de carga en cuarenta minutos.
+- **23 de abril de 1956:** Jack Armstrong, Frank Boyer y Duncan Hall despegan de Long Beach a los mandos del `54-0135` y completan sin novedad el vuelo inaugural de noventa minutos hasta Edwards Air Force Base.
+- **29 de agosto de 1957:** la aeronave inicia su servicio regular en las filas del 1607th Air Transport Wing (Heavy) del MATS en Dover Air Force Base (Delaware), seguido por el 1501st Air Transport Wing en Travis Air Force Base (California).
+- **16 de diciembre de 1958:** el ejemplar C-133A `56-2008` establece en Dover AFB un **récord mundial oficial de la FAI** para aeronaves de hélice al elevar una carga útil de **53.478,5 kg (117.900 libras)** hasta 10.000 pies (3.048 metros) de altitud.
+- **22 de mayo y 31 de octubre de 1959:** un C-133A enlaza sin escalas la base japonesa de Tachikawa con Travis AFB (5.150 millas en 17 horas y 20 minutos), y en octubre realiza su primer vuelo la versión mejorada **C-133B** provista de compuertas traseras en pétalo y motores T34-P-9W.
+- **Década de 1960:** la flota transporta centenares de misiles Atlas, Titan y Minuteman hacia sus bases operativas, traslada etapas impulsoras a Cabo Cañaveral, recoge en Norfolk y Hawái las cápsulas de los programas espaciales Mercury, Gemini y Apollo tras su amerizaje en el océano y sostiene el puente logístico de material pesado hacia Vietnam del Sur.
+- **1971:** aquejada la estructura por problemas de fatiga y vibraciones aerodinámicas tras doblar su vida útil original de 10.000 a 19.000 horas de vuelo, y una vez incorporado al servicio el cuatrimotor a reacción <a href="https://efemerides-aviacion.github.io/efemerides/evento/1968/06/30/primer-vuelo-c-5-galaxy.html" style="color: #315fea; text-decoration: none;">Lockheed C-5A Galaxy</a>, la USAF retira del servicio la totalidad de los Cargomaster.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Logística de la Guerra Fría:** El C-133 permitió el despliegue rápido de misiles balísticos en todo el territorio continental de EE. UU., un factor clave en la estrategia de disuasión nuclear.
+La entrada en servicio del Douglas C-133 resolvió el cuello de botella logístico más crítico de la disuasión nuclear y del programa espacial estadounidense entre 1957 y 1970. Antes de la llegada de los transportes estratégicos a reacción C-141 Starlifter y C-5 Galaxy, fue el único avión del inventario occidental capaz de alojar cargas de gran diámetro —desde misiles balísticos intercontinentales completos hasta helicópteros pesados y radares móviles— sin necesidad de desmontarlas.
 
-- **Apoyo a la exploración espacial:** El transporte de cohetes Saturn y Titan a Cabo Cañaveral fue esencial para el éxito de los programas Mercury, Gemini y Apollo.
-
-- **Capacidad de carga sin precedentes:** Con una capacidad de 50 toneladas, el C-133 fue durante años el único avión de la USAF capaz de transportar las cargas más pesadas y voluminosas.
-
-- **Precursor de futuros transportes:** La experiencia adquirida con el C-133 influyó en el diseño de transportes posteriores, incluyendo el C-5 Galaxy y el C-17 Globemaster III.
+Al mismo tiempo, su exigente historial operativo evidenció las dificultades técnicas de los grandes turbohélices de primera generación: los fenómenos de bataneo (*buffeting*) en la sección posterior del fuselaje, las complejas hélices Curtiss-Wright de control eléctrico y la pérdida de diez aeronaves en accidentes operacionales impulsaron a la USAF a exigir en los pliegos del futuro C-5 Galaxy tanto la propulsión por turbofán de alto índice de derivación como rigurosos ensayos de fatiga estructural.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El Douglas C-133 Cargomaster tuvo una carrera relativamente corta pero intensa. Diseñado originalmente para 10.000 horas de vida útil, la fatiga estructural inducida por vibraciones severas obligó a extender su vida útil a 19.000 horas. En 1971, con la introducción del C-5 Galaxy, la flota fue retirada del servicio activo. La mayoría de los aviones fueron desguazados en Davis-Monthan AFB, Arizona, pocos meses después de sus últimos vuelos.
-
-Hoy sobreviven seis ejemplares en museos de EE. UU.:
-- **C-133A 56-2008** en el Museo Nacional de la Fuerza Aérea de EE. UU. en Dayton, Ohio (poseedor del récord de altitud con carga)
-- **C-133A 56-2009** en el Octave Chanute Aerospace Museum en Rantoul, Illinois
-- **C-133B 59-0527** en el Pima Air and Space Museum, Tucson, Arizona
-- **C-133B 59-0536** en el Air Mobility Command Museum en Dover AFB, Delaware
-- **C-133B 59-0529** en el New England Air Museum (dañado por un tornado en 1979)
-- **C-133A 56-1999** en el Travis Air Force Base Museum, California
-
-El C-133 Cargomaster es recordado como el único transporte estratégico turbohélice de producción de la USAF, un caballo de batalla silencioso que, sin la fama de otros aviones, desempeñó un papel fundamental en la Guerra Fría y la conquista del espacio.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre el número de unidades construidas:</strong> Las fuentes consultadas presentan ligeras variaciones en el número exacto de C-133A y C-133B construidos. El Museo Nacional de la USAF indica 35 C-133A y 15 C-133B (total 50). Otras fuentes mencionan 32 C-133A y 18 C-133B. La cifra total de 50 unidades es consistente en todas las fuentes.</p>
-<p><strong>Sobre la tripulación:</strong> Las fuentes varían en el número de tripulantes: algunas mencionan 4 (dos pilotos, navegante, ingeniero de vuelo) y otras 6 (incluyendo cargomestre y segundo ingeniero). La tripulación típica en operación era de 4 a 6 personas.</p>
-</div>
+Aunque la mayor parte de la flota fue desguazada en Davis-Monthan Air Force Base poco después de su baja en 1971, cuatro ejemplares completos se conservan hoy en museos aeronáuticos de Estados Unidos: el récord mundial **C-133A `56-2008`** en el Museo Nacional de la Fuerza Aérea en Dayton (Ohio), el **C-133A `56-1999`** en el Jimmy Doolittle Air &amp; Space Museum de Travis AFB (California), el **C-133B `59-0527`** en el Pima Air &amp; Space Museum de Tucson (Arizona) y el **C-133B `59-0536`** en el Air Mobility Command Museum de Dover AFB (Delaware), perpetuando la memoria del mayor transporte turbohélice operado por la aviación militar estadounidense.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -151,22 +87,28 @@ El C-133 Cargomaster es recordado como el único transporte estratégico turboh�
 
 <div class="references">
   <ul>
-    <li><a href="https://en.wikipedia.org/wiki/Douglas_C-133_Cargomaster" style="color: #315fea; text-decoration: none;">Wikipedia (EN) - Douglas C-133 Cargomaster</a></li>
-    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198055/douglas-c-133a-cargo-master/" style="color: #315fea; text-decoration: none;">National Museum of the USAF - Douglas C-133A Cargo Master</a></li>
-    <li><a href="https://fr.wikipedia.org/wiki/Douglas_C-133" style="color: #315fea; text-decoration: none;">Wikipédia (FR) - Douglas C-133 Cargomaster</a></li>
-    <li><a href="http://wayback.qa-archive-it.org/all/20081030015007/http://en.wikipedia.org/wiki/C-133_Cargomaster" style="color: #315fea; text-decoration: none;">Wikipedia (archivo) - C-133 Cargomaster</a></li>
-    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-douglas-c-133-cargomaster.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News - First Flight of the Douglas C-133 Cargomaster</a></li>
-    <li><a href="https://www.flugrevue.de/klassiker/grossfrachter-douglas-c-133-cargomaster/" style="color: #315fea; text-decoration: none;">Flug Revue - Großfrachter Douglas C-133 Cargomaster</a></li>
-    <li><a href="https://aviation-safety.net/asndb/type/C133" style="color: #315fea; text-decoration: none;">Aviation Safety Network - Douglas C-133 Cargomaster</a></li>
+    <li><a href="https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/198055/douglas-c-133a-cargo-master/" style="color: #315fea; text-decoration: none;">National Museum of the United States Air Force – «Douglas C-133A Cargo Master»</a></li>
+    <li><a href="https://vintageaviationnews.com/warbird-articles/today-in-aviation-history-first-flight-of-the-douglas-c-133-cargomaster.html" style="color: #315fea; text-decoration: none;">Vintage Aviation News – «First Flight of the Douglas C-133 Cargomaster»</a></li>
+    <li><a href="https://www.flugrevue.de/klassiker/grossfrachter-douglas-c-133-cargomaster/" style="color: #315fea; text-decoration: none;">Flug Revue – «Großfrachter Douglas C-133 Cargomaster»</a></li>
+    <li><a href="https://aviation-safety.net/asndb/type/C133" style="color: #315fea; text-decoration: none;">Aviation Safety Network – «Douglas C-133 Cargomaster»</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Douglas_C-133_Cargomaster" style="color: #315fea; text-decoration: none;">Wikipedia (EN) – «Douglas C-133 Cargomaster»</a></li>
+    <li><a href="https://fr.wikipedia.org/wiki/Douglas_C-133" style="color: #315fea; text-decoration: none;">Wikipédia (FR) – «Douglas C-133 Cargomaster»</a></li>
   </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+<div class="note-box">
+<p><strong>Nota aclaratoria:</strong> aunque la producción total de <strong>50 ejemplares</strong> en la planta de Long Beach es unánime en toda la bibliografía, el desglose por subvariantes presenta una ligera variación según se contabilicen o no las células de ensayos estáticos e instrucción en tierra: la ficha oficial del Museo Nacional de la USAF consigna <strong>35 C-133A y 15 C-133B</strong>, mientras que otros inventarios registran 32 C-133A de serie, 18 C-133B y dos células adicionales de pruebas en tierra. Asimismo, la dotación de vuelo habitual oscilaba entre cuatro tripulantes (piloto, copiloto, navegante e ingeniero de vuelo) y seis a diez efectivos en misiones de largo radio con relevo y maestros de carga.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
-- **Fuentes primarias/institucionales consultadas:** National Museum of the USAF, Wikipedia (EN/FR/archivo), Vintage Aviation News, Flug Revue, Aviation Safety Network
-- **Discrepancias resueltas:** Las fuentes coinciden en la fecha del primer vuelo (23 de abril de 1956). Existe una ligera discrepancia en el número exacto de C-133A vs C-133B construidos (35/15 según el Museo de la USAF; 32/18 según otras fuentes). La cifra total de 50 unidades es consistente. La tripulación varía entre 4 y 6 miembros según la fuente.
-- **Nivel de confianza:** Alto
+- **Timestamp de verificación:** 2026-10-07 09:25:00 CST  
+- **Fuentes primarias/institucionales consultadas:** National Museum of the United States Air Force, Aviation Safety Network  
+- **Fuentes de contraste:** Vintage Aviation News, Flug Revue, Wikipedia (EN/FR)  
+- **Discrepancias resueltas:** se explica la diferencia de cómputo entre 35/15 (Museo de la USAF) y 32/18 unidades de las series C-133A y C-133B dentro del total invariante de 50 aparatos, así como el rango de tripulación (4 a 6/10 efectivos).  
+- **Nivel de confianza:** Alto  
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

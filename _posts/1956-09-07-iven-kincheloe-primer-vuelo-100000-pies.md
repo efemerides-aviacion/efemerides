@@ -12,87 +12,76 @@ image: 1956-09-07-iven-kincheloe-primer-vuelo-100000-pies.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/1956-09-07-iven-kincheloe-primer-vuelo-100000-pies.webp" alt="Iven C. Kincheloe y Milburn G. Apt junto al Bell X-2 en 1956">
-  <figcaption class="post-caption">Los Capitanes Iven C. Kincheloe (izquierda) y Milburn G. «Mel» Apt junto al Bell X-2 en 1956. La imagen es representativa del programa y no corresponde al instante exacto del vuelo del 7 de septiembre, cuando Kincheloe alcanzó 126.200 pies. Fuente: <a href="https://commons.wikimedia.org/wiki/File:X-2_pilots,_Capts._Iven_Kincheloe_and_Mel_Apt.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>, fotografía de la U.S. Air Force, dominio público.</figcaption>
+  <figcaption class="post-caption">Los Capitanes Iven C. Kincheloe (izquierda) y Milburn G. «Mel» Apt junto al Bell X-2 en 1956. La fotografía ilustra el programa experimental y fue tomada antes de la misión del 7 de septiembre, cuando Kincheloe alcanzó 126.200 pies. Fuente: <a href="https://commons.wikimedia.org/wiki/File:X-2_pilots,_Capts._Iven_Kincheloe_and_Mel_Apt.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons</a>, fotografía de la U.S. Air Force, dominio público.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El <strong>7 de septiembre de 1956</strong>, el Capitán <strong>Iven C. Kincheloe Jr.</strong> pilotó el Bell X-2 número 1, serie <strong>46-674</strong>, hasta una altitud máxima de <strong>126.200 pies (38.470 m)</strong> sobre la base Edwards, California. Fue el primer vuelo tripulado por encima de 100.000 pies, después de que el aparato fuera liberado desde un Boeing B-50 modificado y encendiera su motor cohete.</p>
-<p>La misión convirtió a Kincheloe en una figura de transición entre el piloto de pruebas y el astronauta. El récord, alcanzado a más de 3.200 km/h, fue reconocido con el Mackay Trophy y permaneció vigente hasta la llegada del programa X-15.</p>
+<p>El <strong>7 de septiembre de 1956</strong>, el Capitán <strong>Iven Carl Kincheloe Jr.</strong> pilotó el avión experimental de alas en flecha <strong>Bell X-2</strong> número 1 (matrícula <code>46-674</code>) hasta una altitud máxima de <strong>126.200 pies (38.466 metros)</strong> sobre Edwards Air Force Base, en el desierto de Mojave (California). Liberado desde la bodega modificada de un bombardero cuatrimotor Boeing EB-50A a unos 30.000 pies, encendió las dos cámaras de su motor cohete Curtiss-Wright XLR25 y ascendió en trayectoria balística a más de 3.200 km/h (Mach 2,87), protagonizando la primera misión tripulada en superar la frontera de los 100.000 pies.</p>
+<p>Distinguido con el Trofeo Mackay de 1956 y bautizado por la prensa como <em>«First of the Spacemen»</em> («el primero de los astronautas»), Kincheloe estableció una marca mundial que permaneció vigente hasta la entrada en acción del North American X-15.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
 
-- **Fecha:** 7 de septiembre de 1956  
-- **Lugar:** Base Edwards, California, Estados Unidos  
-- **Piloto:** Capitán Iven C. Kincheloe Jr. (2 de julio de 1928–26 de julio de 1958)  
-- **Aeronave:** Bell X-2 «Starbuster», número 1, serie 46-674  
-- **Aeronave portadora:** Boeing B-50 modificado  
-- **Propulsión:** motor cohete Curtiss-Wright XLR25 de combustible líquido, con dos cámaras y empuje regulable  
-- **Altitud máxima:** 126.200 pies (38.470 m)  
-- **Velocidad alcanzada:** más de 2.000 millas por hora (más de 3.200 km/h)  
-- **Hito:** primer piloto en superar los 100.000 pies  
-- **Reconocimiento:** Mackay Trophy correspondiente a 1956; sobrenombre «First of the Spacemen» («el primero de los astronautas»)  
+- **Fecha:** 7 de septiembre de 1956.
+- **Lugar:** Edwards Air Force Base, California, Estados Unidos.
+- **Piloto:** Capitán Iven Carl «Kinch» Kincheloe Jr. (Detroit, Míchigan, 2 de julio de 1928 – Edwards AFB, California, 26 de julio de 1958), ingeniero aeronáutico por la Universidad de Purdue y doble as de caza en la Guerra de Corea.
+- **Aeronave experimental:** Bell X-2 «Starbuster» n.º 1, matrícula de la USAF `46-674`.
+- **Aeronave nodriza:** bombardero Boeing EB-50A Superfortress modificado para lanzamiento en altitud.
+- **Planta motriz:** un motor cohete de propulsante líquido (oxígeno líquido y alcohol etílico diluido) Curtiss-Wright XLR25-CW-1 de dos cámaras y empuje regulable entre 2.500 y 15.000 lbf (11 a 67 kN).
+- **Altitud máxima oficial:** **126.200 pies (38.466 metros / 23,9 millas)**, superando en más de 35.800 pies la marca previa de 90.440 pies establecida en agosto de 1954 por el Mayor Arthur «Kit» Murray en el Bell X-1A.
+- **Velocidad máxima en el ascenso:** unas 2.094 mph / Mach 2,87 (más de 3.200 km/h).
+- **Galardón:** Trofeo Mackay correspondiente a 1956 y designación como aviador titular de la Fuerza Aérea para el futuro programa hipersónico X-15.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-El Bell X-2 nació en 1945 de un programa conjunto de Bell Aircraft Corporation, la Fuerza Aérea de Estados Unidos y el National Advisory Committee for Aeronautics (NACA, Comité Consultivo Nacional para la Aeronáutica). Su objetivo era explorar los problemas aerodinámicos del vuelo supersónico y ampliar los límites de velocidad y altitud que había empezado a estudiar el Bell X-1.
+El Bell X-2 fue concebido a finales de 1945 mediante un programa conjunto entre Bell Aircraft Corporation, las Fuerzas Aéreas del Ejército estadounidense (luego USAF) y el Comité Consultivo Nacional para la Aeronáutica (NACA) con el propósito de explorar la llamada «barrera térmica» y el comportamiento aerodinámico de las alas en flecha más allá de Mach 2 y Mach 3.
 
 ### Entorno social
 
-La Guerra Fría convirtió los vuelos de investigación en demostraciones visibles de capacidad científica, industrial y militar. Kincheloe llegó al programa con experiencia de combate en Corea: había volado casi un centenar de misiones en un F-86 y se le atribuyeron cinco derribos de MiG-15. En Edwards pasó a representar una nueva clase de piloto, formada para llevar aeronaves experimentales hasta regiones que todavía no tenían una denominación operativa estable.
+En plena Guerra Fría, los vuelos de los aviones cohete en el lago seco de Rogers constituían la vanguardia científica de Occidente en el umbral de la estratosfera. Kincheloe reunía las dos cualidades que definían al piloto experimental de mediados de los años cincuenta: una sólida formación académica como graduado en ingeniería aeronáutica por la Universidad de Purdue (1949) y una brillante hoja de combate en Corea, donde había volado 30 misiones en el F-80 Shooting Star y 101 en el F-86E Sabre hasta acreditar diez derribos (cinco de ellos en reactores MiG-15).
 
 ### Entorno tecnológico
 
-Solo se construyeron dos células X-2. La 46-674, empleada en el vuelo de Kincheloe, combinaba acero inoxidable y K-monel —una aleación de cobre y níquel— para soportar las condiciones térmicas y estructurales del vuelo supersónico. Su motor cohete de dos cámaras podía regular el empuje entre 2.500 y 15.000 libras, y el despegue no se realizaba desde tierra: un Boeing B-50 la transportaba hasta unos 30.000 pies, desde donde el piloto se separaba, encendía los motores y regresaba planeando al lago seco de Rogers.
+Mientras el Bell X-1 tenía alas rectas de aluminio y motores de empuje fijo, el X-2 incorporaba alas en flecha de 40 grados construidas en acero inoxidable y **aleación K-Monel** (níquel y cobre) para resistir el calentamiento cinemático por fricción del aire por encima de los 300 °C, además de ser el primer avión cohete estadounidense provisto de un motor regulable mediante palanca de gases: el complejo **Curtiss-Wright XLR25**. De las dos células construidas, la segunda (`46-675`) se había perdido trágicamente el 12 de mayo de 1953 al explotar sobre el lago Ontario acoplada a su avión nodriza B-50, causando la muerte del piloto de Bell Jean «Skip» Ziegler y del observador Frank Wolko. Toda la campaña recayó así sobre el ejemplar `46-674`, provisto de patines retráctiles para aterrizar sin motor en el lecho arcilloso de Edwards y de una cápsula de morro separable para emergencias.
 
 ### Entorno cultural
 
-En 1956 aún no existía un programa tripulado operativo que definiera al astronauta como profesión. La prensa llamó a Kincheloe «First of the Spacemen» y «America’s No. 1 Spaceman», expresiones que capturaban la cercanía simbólica del vuelo con el espacio, aunque la altitud alcanzada quedaba por debajo de la línea de Kármán adoptada posteriormente como referencia internacional.
+Cuando en septiembre de 1956 Kincheloe ascendió hasta casi 38,5 kilómetros de altura —donde el 99 por ciento de la atmósfera terrestre quedaba bajo sus alas y el cielo diurno adquiría un tono azul negruzco—, aún faltaba más de un año para el lanzamiento del Sputnik 1. La prensa estadounidense lo bautizó de inmediato como *«First of the Spacemen»* y *«America's No. 1 Spaceman»*, situándolo en el imaginario colectivo como el primer hombre que se asomó a la frontera del espacio exterior.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **1945:** Bell Aircraft Corporation, la Fuerza Aérea de Estados Unidos y el NACA comienzan el desarrollo conjunto del X-2 para investigar el vuelo supersónico y las grandes altitudes.
-- **1946:** El NACA prueba modelos del X-2 lanzados con cohetes y aporta ensayos de estabilidad, control, túnel de viento e instrumentación.
-- **27 de junio de 1952:** Jean L. «Skip» Ziegler realiza el primer vuelo planeado de un X-2, la célula 46-675, en Edwards.
-- **5 de agosto de 1954:** Frank «Pete» Everest realiza el primer vuelo planeado de la célula 46-674, después de que esta recibiera el motor que había retrasado su entrega.
-- **18 de noviembre de 1955:** Everest completa el primer vuelo propulsado del X-2.
-- **25 de mayo de 1956:** Kincheloe queda habilitado como piloto del X-2 y realiza un vuelo supersónico de comprobación.
-- **3 de agosto de 1956:** tras dos intentos abortados, Kincheloe alcanza 87.750 pies mientras reúne datos de estabilidad.
-- **8 de agosto de 1956:** otro intento de gran altitud no supera los 70.000 pies.
-- **7 de septiembre de 1956:** Kincheloe pilota la 46-674 hasta 126.200 pies y se convierte en el primer piloto por encima de 100.000 pies.
-- **27 de septiembre de 1956:** Milburn G. «Mel» Apt alcanza Mach 3,196 en el X-2, pero el aparato entra en acoplamiento inercial y Apt muere al intentar abandonar la cápsula de escape. El programa X-2 termina con ese vuelo.
-- **8 de junio de 1959:** el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1959/06/08/primer-vuelo-north-american-x-15.html" style="color: #315fea; text-decoration: none;">North American X-15 realiza su primer vuelo</a>, un vuelo de planeo que prolongó la investigación de aviones cohete iniciada con el X-2.
-- **1960:** el programa X-15 supera el récord de altitud del X-2; el nuevo avión de investigación llevará los vuelos tripulados mucho más allá de la marca de Kincheloe.
-- **22 de agosto de 1963:** Joseph A. «Joe» Walker alcanza 354.200 pies con el X-15 en <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/08/22/joseph-walker-x-15-vuelo-91.html" style="color: #315fea; text-decoration: none;">el vuelo 91, la mayor altitud del programa</a>, muy por encima de la marca de Kincheloe.
+La trayectoria del programa X-2 y la misión histórica de septiembre de 1956 encadenaron más de una década de ensayos de alto riesgo:
+
+- **Finales de 1945–1946:** Bell Aircraft, la Fuerza Aérea y el comité NACA acuerdan construir dos aviones cohete de ala en flecha (Designación MX-743 / Bell X-2) y ensayan maquetas instrumentadas en Wallops Island.
+- **27 de junio de 1952 y 12 de mayo de 1953:** Jean «Skip» Ziegler realiza en Edwards el primer vuelo planeado sin motor con la célula `46-675`, aparato que diez meses después estalla accidentalmente durante una prueba cautiva de combustible sobre el lago Ontario.
+- **5 de agosto de 1954 y 18 de noviembre de 1955:** el Teniente Coronel Frank K. «Pete» Everest estrena en planeo la primera célula (`46-674`) y en noviembre de 1955 ejecuta el primer vuelo con encendido del motor XLR25, alcanzando el 23 de julio de 1956 la marca de velocidad de Mach 2,87 (1.900 mph).
+- **25 de mayo y agosto de 1956:** habilitado como relevo de Everest en el programa, el Capitán Iven C. Kincheloe realiza en mayo su primer vuelo supersónico de calificación en el X-2 y en agosto efectúa tres salidas preparatorias de altitud (alcanzando 87.750 pies el 3 de agosto).
+- **7 de septiembre de 1956:** tras desprenderse del EB-50A sobre el desierto de Mojave, Kincheloe enciende las dos cámaras del motor XLR25, mantiene un ángulo de trepada de 45 grados hasta agotar el propulsante en 132 segundos y describe un arco semibalístico cuya cima alcanza **126.200 pies (38.466 m)**; en aire tan tenue que los alerones carecen de eficacia aerodinámica, deja que el avión franquee el apogeo sin tocar los mandos para evitar el acoplamiento inercial antes de reentrar en las capas densas y aterrizar planeando en el lago seco de Rogers.
+- **27 de septiembre de 1956:** veinte días más tarde, en su primer vuelo en el aparato, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1956/09/27/milburn-apt-primer-humano-mach-3-bell-x2.html" style="color: #315fea; text-decoration: none;">el Capitán Milburn «Mel» Apt conquista Mach 3,196 en el Bell X-2 y pierde la vida minutos después</a> al entrar el avión en acoplamiento inercial y estrellarse la cápsula de escape, cerrando definitivamente el programa.
+- **26 de julio de 1958 y 8 de junio de 1959:** seleccionado como piloto titular de la USAF para el siguiente escalón hipersónico, Kincheloe muere a los 30 años al fallar el motor de su Lockheed F-104A Starfighter recién despegado de Edwards, once meses antes de que el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1959/06/08/primer-vuelo-north-american-x-15.html" style="color: #315fea; text-decoration: none;">North American X-15 realice su primer vuelo</a>, programa que culminaría en agosto de 1963 con los 354.200 pies alcanzados por Joseph A. Walker en <a href="https://efemerides-aviacion.github.io/efemerides/espacial/1963/08/22/joseph-walker-x-15-vuelo-91.html" style="color: #315fea; text-decoration: none;">el histórico vuelo 91 del X-15</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-El vuelo de Kincheloe demostró que un piloto podía controlar y recuperar una aeronave cohete después de atravesar un régimen de altitud y velocidad prácticamente inexplorado. El X-2 proporcionó datos sobre estabilidad, control, calentamiento aerodinámico, materiales y sistemas de escape, y la experiencia acumulada alimentó el diseño y la operación de los aviones de investigación que le siguieron.
+El vuelo del 7 de septiembre de 1956 demostró en la práctica que a más de treinta y cinco kilómetros de altitud la presión dinámica del aire resultaba insuficiente para gobernar una aeronave mediante superficies aerodinámicas convencionales. La disciplina de pilotaje de Kincheloe —que se abstuvo de mover el mando durante el arco balístico superior para no desencadenar una pérdida de control por acoplamiento inercial— confirmó a los ingenieros del NACA y de la USAF que el futuro X-15 y las cápsulas espaciales tripuladas necesitarían obligatoriamente **toberas de control por reacción (RCS)** alimentadas por peróxido de hidrógeno para orientarse en el vacío estratosférico.
 
-El récord tuvo también una consecuencia personal y programática. Kincheloe fue seleccionado para pilotar el North American X-15, entonces en construcción, pero murió el 26 de julio de 1958 durante el despegue de un F-104 en Edwards antes de poder volar ese avión. Dos años después, el X-15 tomó el relevo de la investigación de gran altitud y velocidad.
-
-El hito no fue solo una cifra: situó el límite de 100.000 pies en el centro de la conversación pública sobre el acceso humano al espacio. La proeza se produjo antes del Sputnik 1 y antes de los vuelos orbitales tripulados, en un momento en que el piloto de pruebas era la persona que empujaba físicamente las fronteras de la aeronáutica.
+Asimismo, las mediciones térmicas obtenidas sobre el revestimiento de acero inoxidable y K-Monel del X-2 validaron los modelos de transferencia de calor que hicieron posible la estructura de aleación Inconel X del X-15.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El X-2 dejó un récord que el X-15 superaría, pero también una cadena de conocimientos que hizo posibles los vuelos hipersónicos posteriores. La investigación sobre calentamiento, control y supervivencia en altitud extrema ayudó a convertir los aviones cohete en laboratorios de vuelo y no únicamente en demostradores de velocidad.
-
-En 1958, la Society of Experimental Test Pilots creó el Iven C. Kincheloe Award para reconocer contribuciones destacadas a los ensayos en vuelo. El premio mantiene el nombre de un piloto cuya carrera quedó interrumpida justo cuando el programa aeronáutico estadounidense se encaminaba hacia los vuelos espaciales tripulados.
-
-Setenta años después, la efeméride conserva una doble lectura: Kincheloe fue el primer piloto por encima de 100.000 pies, y el Bell X-2 46-674 fue uno de los aparatos que hicieron medible el paso desde la aviación supersónica hacia la astronáutica.
+En homenaje a su figura, la *Society of Experimental Test Pilots* (SETP) instituyó en 1958 el **Premio Iven C. Kincheloe** (*Iven C. Kincheloe Award*), considerado desde entonces la máxima distinción anual de la profesión de piloto de pruebas en todo el mundo. Setenta años después de aquel ascenso sobre el desierto de Mojave, el vuelo del Bell X-2 `46-674` permanece en la historia aeroespacial como el eslabón que abrió la frontera de los 100.000 pies y preparó el tránsito de la aviación supersónica a la cosmonáutica tripulada.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -116,16 +105,16 @@ Setenta años después, la efeméride conserva una doble lectura: Kincheloe fue 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> La cifra de <strong>126.200 pies (38.470 m)</strong> es la adoptada por NASA, la Fuerza Aérea de Estados Unidos, Edwards y el National Museum of the United States Air Force. La Super Sabre Society recoge una variante publicada de 126.500 pies; se conserva aquí la cifra coincidente entre las fuentes institucionales que documentan directamente el programa X-2. La expresión «primero en el espacio» pertenece al lenguaje periodístico de 1956: la Federación Aeronáutica Internacional sitúa hoy la línea de Kármán en 100 km, por encima de la altitud de Kincheloe.</p>
+  <p><strong>Nota aclaratoria:</strong> La cifra de <strong>126.200 pies (38.466 m)</strong> es la adoptada por la NASA, la Fuerza Aérea de Estados Unidos, Edwards Air Force Base y el Museo Nacional de la USAF. La <em>Super Sabre Society</em> recoge una variante publicada de 126.500 pies; se conserva aquí la cifra coincidente entre las fuentes institucionales que documentan directamente el programa X-2. Asimismo, la expresión <em>«First of the Spacemen»</em> pertenece al lenguaje periodístico de 1956: la Federación Aeronáutica Internacional sitúa la línea de Kármán en 100 km (328.084 pies) y la USAF fijó años después su umbral de alas de astronauta en 50 millas (264.000 pies).</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-01 09:40:28 CST  
-- **Fuentes primarias/institucionales consultadas:** NASA; NASA Dryden Flight Research Center; National Museum of the United States Air Force; Edwards Air Force Base; U.S. Air Force; Federación Aeronáutica Internacional; Smithsonian National Air and Space Museum.  
-- **Fuentes secundarias de contraste:** Super Sabre Society; National Aviation Hall of Fame; Wikimedia Commons, ficha catalográfica de la fotografía.  
-- **Discrepancias resueltas:** NASA, la Fuerza Aérea de Estados Unidos, Edwards y el National Museum of the United States Air Force coinciden en 126.200 pies; la Super Sabre Society recoge 126.500 pies como variante publicada. Se adopta la primera cifra por su convergencia en las fuentes institucionales directamente vinculadas al programa X-2.  
+- **Timestamp de verificación:** 2026-10-07 09:25:00 CST  
+- **Fuentes primarias/institucionales consultadas:** NASA (Dryden Flight Research Center), National Museum of the USAF, Edwards Air Force Base, Federación Aeronáutica Internacional (FAI), Smithsonian National Air and Space Museum  
+- **Fuentes secundarias de contraste:** National Aviation Hall of Fame, Super Sabre Society  
+- **Discrepancias resueltas:** se adopta la cota oficial de 126.200 pies de NASA/USAF frente a la variante secundaria de 126.500 pies y se deslinda el título periodístico de 1956 de los umbrales formales del espacio (50 millas / 100 km).  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -19,8 +19,8 @@ image: 1955-08-04-primer-vuelo-lockhedd-u2-dragon-lady.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 4 de agosto de 1955, el piloto de pruebas Anthony W. «Tony» LeVier despegó del lecho del lago seco de Groom Lake, en Nevada, a los mandos del primer Lockheed U-2. Fue el primer vuelo de pruebas planificado del programa AQUATONE, tres días después de que el mismo aparato se despegara del suelo de forma involuntaria durante un ensayo de rodaje a alta velocidad.</p>
-<p>Concebido por Clarence «Kelly» Johnson y su equipo en la división Skunk Works de Lockheed, y financiado por la Agencia Central de Inteligencia, el aparato debía volar por encima del alcance de los cazas y misiles soviéticos para fotografiar el interior de la Unión Soviética. Aquella silueta de planeador con motor de reacción inauguró siete décadas de servicio ininterrumpido que todavía no han concluido.</p>
+<p>El 4 de agosto de 1955, el piloto de pruebas Anthony W. «Tony» LeVier despegó del lecho del lago seco de Groom Lake, en el desierto de Nevada, pilotando el primer Lockheed U-2. Fue el primer vuelo de pruebas planificado del programa AQUATONE, tres días después de que el mismo aparato se despegara del suelo de forma involuntaria durante una prueba de carreteo veloz en el lago seco.</p>
+<p>Concebido por Clarence «Kelly» Johnson y su equipo en la división Skunk Works de Lockheed, y financiado por la Agencia Central de Inteligencia, el aparato debía volar a cotas inalcanzables para los interceptores y misiles soviéticos con el fin de fotografiar el interior de la Unión Soviética. Aquella silueta de planeador con motor de reacción inauguró siete décadas de servicio ininterrumpido que todavía no han concluido.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -32,13 +32,13 @@ image: 1955-08-04-primer-vuelo-lockhedd-u2-dragon-lady.webp
 - **Piloto:** Anthony W. «Tony» LeVier, jefe de pilotos de pruebas de Lockheed.
 - **Aeronave:** primer prototipo del Lockheed U-2, identificado como «Article 341». Designación interna del fabricante: CL-282.
 - **Programa:** AQUATONE, de la Agencia Central de Inteligencia; la Fuerza Aérea denominó OILSTONE a su apoyo al proyecto.
-- **Responsable del diseño:** Clarence L. «Kelly» Johnson, al frente de la división de proyectos avanzados de Lockheed conocida como Skunk Works.
+- **Responsable del diseño:** Clarence L. «Kelly» Johnson, director de la oficina de desarrollos especiales de Lockheed (conocida como Skunk Works).
 - **Planta motriz:** turborreactor Pratt & Whitney J57-P-37A, con 10.200 libras de empuje (unos 45,4 kN).
 - **Dimensiones:** 46 pies y 6 pulgadas de longitud (14,17 metros) y 80 pies de envergadura (24,38 metros).
 - **Pesos:** 10.700 libras en vacío (5.307 kilogramos) y 16.000 libras al despegue (7.257 kilogramos).
 - **Techo de servicio:** 85.000 pies (25.908 metros). **Alcance:** 2.200 millas (3.541 kilómetros).
 - **Equipo del piloto:** traje de presión parcial David Clark MC-3 con casco MA-2 de International Latex Corporation, confeccionado a medida.
-- **Antecedente inmediato:** el 1 de agosto de 1955, durante un ensayo de rodaje, el aparato se elevó de forma no intencionada a 70 nudos y sufrió daños menores en el aterrizaje.
+- **Antecedente inmediato:** tres días antes (1 de agosto), en las pruebas de carreteo en pista, la sustentación alar elevó el prototipo involuntariamente a 70 nudos y causó desperfectos leves al posarse.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -66,7 +66,7 @@ La secuencia siguiente recorre desde la aprobación del programa hasta la consol
 
 - **Noviembre de 1954:** la administración estadounidense aprueba el desarrollo del avión de reconocimiento de gran altitud y adjudica el proyecto a la propuesta de Lockheed.
 - **Julio de 1955:** el aparato recibe la designación U-2 y el primer ejemplar, «Article 341», es trasladado desmontado hasta Groom Lake.
-- **1 de agosto de 1955:** durante un ensayo de rodaje a alta velocidad, el prototipo se eleva sin intención del piloto al alcanzar los 70 nudos. LeVier declararía después que no tenía propósito alguno de volar. El aterrizaje revienta los neumáticos e incendia los frenos, con daños menores.
+- **1 de agosto de 1955:** durante una carrera de carreteo veloz, el prototipo se eleva sin intención del piloto al alcanzar los 70 nudos. LeVier declararía después que no tenía propósito alguno de volar. El aterrizaje revienta los neumáticos e incendia los frenos, con daños menores.
 - **4 de agosto de 1955:** LeVier efectúa el primer vuelo de pruebas planificado del programa. Las dificultades en la toma de contacto persisten hasta que el piloto comprueba que conviene posar primero la rueda trasera.
 - **8 de agosto de 1955:** el aparato alcanza los 32.000 pies (unos 9.750 metros) en un vuelo de ensayo.
 - **16 de agosto de 1955:** se sitúa en 52.000 pies (unos 15.850 metros), altura nunca antes sostenida en vuelo nivelado.
@@ -118,15 +118,15 @@ Queda además una lección de método. El U-2 se diseñó, construyó y llevó a
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Conviene distinguir entre dos hechos próximos y frecuentemente confundidos. El 1 de agosto de 1955 el prototipo se elevó del suelo de manera involuntaria durante un ensayo de rodaje, episodio que numerosas fuentes registran como «primer vuelo» del tipo; el 4 de agosto tuvo lugar el primer vuelo de pruebas deliberado y planificado, que es el hecho recordado en esta efeméride. Ambas fechas están documentadas de forma consistente y no constituyen una discrepancia entre fuentes, sino dos acontecimientos distintos. La fotografía que ilustra el texto corresponde al prototipo «Article 341» en Groom Lake durante 1955, pero no consta que fuera tomada durante el vuelo del 4 de agosto, por lo que no se presenta como imagen del instante exacto. Las cifras de prestaciones corresponden a la versión U-2A inicial y no a las variantes posteriores, sensiblemente distintas. La instalación de Groom Lake se designa aquí con su nombre geográfico, que es el empleado en la documentación de la época; la denominación «Área 51» es posterior y de origen popular.</p>
+  <p><strong>Nota aclaratoria:</strong> Conviene distinguir entre dos hechos próximos y frecuentemente confundidos. El 1 de agosto de 1955 el prototipo se elevó del suelo de manera involuntaria durante un ensayo de rodaje, episodio que numerosas fuentes registran como «primer vuelo» del tipo; el 4 de agosto tuvo lugar el primer vuelo de pruebas deliberado y planificado, que es el hecho recordado en esta efeméride. Ambas fechas están documentadas de forma consistente y no constituyen una discrepancia entre fuentes, sino dos acontecimientos distintos. Las cifras de prestaciones corresponden a la versión U-2A inicial y no a las variantes posteriores, sensiblemente distintas. La instalación de Groom Lake se designa aquí con su nombre geográfico, que es el empleado en la documentación de la época; la denominación «Área 51» es posterior y de origen popular.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (Smithsonian Institution); Central Intelligence Agency, relato institucional sobre el vuelo accidental en versión archivada; Air Combat Command de la Fuerza Aérea de Estados Unidos.
-- **Fuentes secundarias de contraste:** This Day in Aviation, Wikipedia en inglés y en español.
-- **Discrepancias resueltas:** se separó con claridad el vuelo involuntario del 1 de agosto de 1955 del primer vuelo de pruebas planificado del 4 de agosto, distinción confirmada tanto por This Day in Aviation como por Wikipedia en inglés, que sitúa el vuelo intencionado «tres días después»; se acotaron las prestaciones citadas a la versión U-2A inicial.
-- **Nivel de confianza:** Alto
+- **Timestamp de verificación:** 2026-10-07 09:25:00 CST  
+- **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (Smithsonian Institution), Central Intelligence Agency (archivo histórico), Air Combat Command (USAF)  
+- **Fuentes secundarias de contraste:** This Day in Aviation, Wikipedia (EN/ES)  
+- **Discrepancias resueltas:** se deslinda el salto involuntario en rodaje del 1 de agosto de 1955 respecto del primer vuelo planificado del 4 de agosto de 1955 y se acotan las especificaciones a la variante inicial U-2A.  
+- **Nivel de confianza:** Alto  
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
