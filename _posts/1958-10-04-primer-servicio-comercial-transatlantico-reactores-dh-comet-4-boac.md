@@ -19,7 +19,7 @@ image: 1958-10-04-primer-servicio-comercial-transatlantico-reactores-dh-comet-4-
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El sábado 4 de octubre de 1958, dos De Havilland DH.106 Comet 4 de la British Overseas Airways Corporation despegaron casi a la vez desde Londres-Heathrow y Nueva York-Idlewild en direcciones opuestas, e inauguraron así el primer servicio comercial de pasajores con reactores sobre el Atlántico. El Comet 4 G-APDC llegó a Nueva York tras 10 horas y 20 minutos de vuelo con escala en Gander, y el G-APDB cubrió el regreso en 6 horas y 12 minutos, la travesía comercial más rápida registrada hasta entonces.</p>
+  <p>El sábado 4 de octubre de 1958, dos De Havilland DH.106 Comet 4 de la British Overseas Airways Corporation despegaron casi a la vez desde Londres-Heathrow y Nueva York-Idlewild en direcciones opuestas, e inauguraron así el primer servicio comercial de pasajeros con reactores sobre el Atlántico. El Comet 4 G-APDC llegó a Nueva York tras 10 horas y 20 minutos de vuelo con escala en Gander, y el G-APDB cubrió el regreso en 6 horas y 12 minutos, la travesía comercial más rápida registrada hasta entonces.</p>
   <p>La BOAC ganó con ello la carrera que sostenía con Pan American World Airways por abrir la era del jet en el Atlántico: el Boeing 707 de la compañía estadounidense inauguró su propio servicio transatlántico el 26 de octubre de 1958, 22 días después. El viaje entre Europa y Nueva York quedó reducido a la mitad del que exigían los aviones de hélice, y el mundo entró en la edad del transporte aéreo a reacción.</p>
 </div>
 
@@ -32,7 +32,7 @@ image: 1958-10-04-primer-servicio-comercial-transatlantico-reactores-dh-comet-4-
 - **Aeronave:** dos De Havilland DH.106 Comet 4, matrículas G-APDB y G-APDC, configurados para 48 pasajeros.
 - **Operador:** British Overseas Airways Corporation (BOAC).
 - **Lugar:** Londres-Heathrow (LHR) ↔ Nueva York-Idlewild (IDL); el vuelo hacia el oeste hizo escala de combustible en Gander (YQX), Terranova.
-- **Resultado:** servicio regular inaugurado con frecuencia semanal, pronto diaria; el vuelo G-APDB fijó un récord de 6 horas y 12 minutos en el sentido este-oeste. Pan American abrió su servicio transatlántico con el Boeing 707 el 26 de octubre de 1958.
+- **Resultado:** servicio regular inaugurado con frecuencia semanal, pronto diaria; el vuelo G-APDB fijó un récord de 6 horas y 12 minutos en el sentido oeste-este. Pan American abrió su servicio transatlántico con el Boeing 707 el 26 de octubre de 1958.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -61,7 +61,7 @@ La rivalidad entre la BOAC y Pan American llenó la prensa británica: la estado
 - **20 de diciembre de 1957.** El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1957/12/20/primer-vuelo-boeing-707-120.html" style="color: #315fea; text-decoration: none;">Boeing 707-120 N708PA, primer aparato de producción del tipo, levanta el vuelo en Renton</a> y entra en la carrera por la era del jet estadounidense.
 - **30 de septiembre de 1958.** La BOAC recibe en Heathrow los dos primeros Comet 4 de serie, G-APDB y G-APDC, cinco días antes de la inauguración del servicio.
 - **3 de octubre de 1958.** La Autoridad Portuaria de Nueva York autoriza los vuelos de pasajeros con reactores tras dirimir sus preocupaciones por el ruido: la BOAC despegará apenas 24 horas después.
-- **4 de octubre de 1958.** El G-APDB, al mando del Capitán Thomas Butler Stoney, sale de Idlewild a las 7:01 de la mañana con el Director General de la BOAC, Basil Smallpiece, y el Director General de De Havilland, Aubrey Burke, a bordo; el viento favorable deja la travesía este-oeste en 6 horas y 12 minutos, a una media de 565 millas por hora (909 kilómetros por hora) y 32 minutos por delante del horario. El G-APDC, al mando del Capitán R.E. Millichap, sale de Heathrow a las 9:55 de la mañana con Sir Gerard d'Erlanger y 31 pasajeros —once de ellos de pago—, escala 1 hora y 10 minutos en Gander y aterriza en Idlewild a las 15:15 de la tarde. Ambos aparatos, configurados para 48 pasajeros, cumplen el primer servicio comercial transatlántico con reactores.
+- **4 de octubre de 1958.** El G-APDB, al mando del Capitán Thomas Butler Stoney, sale de Idlewild a las 7:01 de la mañana con el Director General de la BOAC, Basil Smallpiece, y el Director General de De Havilland, Aubrey Burke, a bordo; el viento favorable deja la travesía hacia Londres en 6 horas y 12 minutos, a una media de 565 millas por hora (909 kilómetros por hora) y 32 minutos por delante del horario. El G-APDC, al mando del Capitán R.E. Millichap, sale de Heathrow a las 9:55 de la mañana con Sir Gerard d'Erlanger y 31 pasajeros —once de ellos de pago—, escala 1 hora y 10 minutos en Gander y aterriza en Idlewild a las 15:15 de la tarde. Ambos aparatos, configurados para 48 pasajeros, cumplen el primer servicio comercial transatlántico con reactores.
 - **26 de octubre de 1958.** Pan American inaugura su servicio con el Boeing 707-121 Clipper America (N711PA) entre Nueva York y París-Le Bourget, con 111 pasajeros y 11 tripulantes: 22 días después que la BOAC.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -103,16 +103,16 @@ Sesenta y ocho años después, el Comet 4 que abrió el Atlántico a los reactor
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <strong>Nota aclaratoria.</strong> El «primer vuelo comercial transatlántico» se refiere al servicio de pasajeros con reactores: las travesías comerciales del Atlántico eran anteriores —el hidroavión <a href="https://efemerides-aviacion.github.io/efemerides/evento/1938/06/07/primer-vuelo-boeing-314-clipper-hidroavion.html" style="color: #315fea; text-decoration: none;">Boeing 314 Clipper, que inauguró en 1939 el servicio de pasajeros sobre el Atlántico y cuyo prototipo voló el 7 de junio de 1938</a>—, y también lo era el vuelo comercial con reactores, que la BOAC había abierto en 1952 con el Comet 1 en rutas europeas y africanas. Lo nuevo aquel sábado de octubre de 1958 fue el servicio regular transatlántico de pasajeros con reactores, cubierto en ambos sentidos por los Comet 4 G-APDB y G-APDC.
+  <p><strong>Nota aclaratoria.</strong> El «primer vuelo comercial transatlántico» se refiere al servicio de pasajeros con reactores: las travesías comerciales del Atlántico eran anteriores —el hidroavión <a href="https://efemerides-aviacion.github.io/efemerides/evento/1938/06/07/primer-vuelo-boeing-314-clipper-hidroavion.html" style="color: #315fea; text-decoration: none;">Boeing 314 Clipper, que inauguró en 1939 el servicio de pasajeros sobre el Atlántico y cuyo prototipo voló el 7 de junio de 1938</a>—, y también lo era el vuelo comercial con reactores, que la BOAC había abierto en 1952 con el Comet 1 en rutas europeas y africanas. Lo nuevo aquel sábado de octubre de 1958 fue el servicio regular transatlántico de pasajeros con reactores, cubierto en ambos sentidos por los Comet 4 G-APDB y G-APDC.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-28 09:17:59 CST.
-- **Fuentes primarias/institucionales consultadas:** ICAO, Uniting Aviation, «On This Day: The First Regularly Scheduled Transatlantic Passenger Service with Jet Powered Aircraft» (2016); Flight International, relato del 10 de octubre de 1958 sobre la inauguración del servicio, reproducido por Flightglobal (2018).
-- **Fuentes secundarias de contraste:** This Day in Aviation (Bryan R. Swopes, 2018 y 2025); London Air Travel, «BA100» (2019); AirlineRatings (Mike Machat, 2015).
-- **Discrepancias resueltas:** (1) la hora de salida del vuelo oeste-este desde Heathrow se fija a las 9:55 de la mañana en Flight International y London Air Travel, y a las 8:45 en la reseña de la OACI y en This Day in Aviation; se adopta las 9:55, coherente con la llegada a Idlewild a las 15:15 hora de Nueva York tras 10 horas y 20 minutos de vuelo. (2) Los pasajeros de pago del vuelo oeste-este son once según Flight International y doce según London Air Travel; se adopta once. (3) La velocidad media del vuelo este-oeste es de 565 millas por hora en la OACI y This Day in Aviation, y de 580 en London Air Travel; se adopta 565 millas por hora (909 kilómetros por hora).
-- **Nivel de confianza:** Alto.
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Timestamp de verificación:** 2026-10-07 10:34:00 CST
+- **Fuentes primarias/institucionales consultadas:** ICAO (`Uniting Aviation`) y *Flight International* (10 de octubre de 1958, vía Flightglobal).
+- **Fuentes secundarias de contraste:** This Day in Aviation (`4 October 1958` y `26 October 1958`), London Air Travel y AirlineRatings.
+- **Discrepancias resueltas:** Se adopta la salida desde Heathrow a las 09:55 (`Flight International`, coherente con las 10 h 20 min de viaje hasta las 15:15 en Nueva York), once pasajeros de pago en el `G-APDC` y velocidad media de 565 mph (909 km/h) en el `G-APDB`.
+- **Nivel de confianza:** Alto
+- **Cláusula final:** «Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]».

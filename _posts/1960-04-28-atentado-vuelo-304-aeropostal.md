@@ -1,172 +1,83 @@
 ---
 layout: post
-title: "28 de abril de 1960 | Atentado en el vuelo 304 de Línea Aeropostal Venezolana"
+title: "28 de abril de 1960 | Atentado del vuelo 304 de Línea Aeropostal Venezolana: el primer acto de terrorismo aéreo en Venezuela"
 date: 1960-04-28
 categories: [seguridad]
 author: Enrique Pomares
 pais: Venezuela
-operator: Línea Aeropostal Venezolana (LAV / Aeropostal)
-excerpt: "El 28 de abril de 1960, el vuelo 304 de Línea Aeropostal Venezolana (LAV), un Douglas DC-3 que cubría la ruta Maiquetía-Puerto Ayacucho, fue víctima de un atentado terrorista a bordo cuando un pasajero detonó un artefacto explosivo, causando la caída de la aeronave y la muerte de las 13 personas a bordo."
+operator: Línea Aeropostal Venezolana (LAV)
+excerpt: "El 28 de abril de 1960, un inmigrante lituano con pasaporte falso detonó un artefacto explosivo a bordo del vuelo 304 de Línea Aeropostal Venezolana, un Douglas DC-3 (YV-C-AFE) que cubría la ruta Maiquetía-Puerto Ordaz. Las trece personas a bordo murieron cuando el avión se estrelló cerca de Calabozo, en lo que constituye el primer atentado con bomba contra una aeronave civil en la historia de Venezuela."
 image: 1960-04-28-atentado-vuelo-304-aeropostal.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1960-04-28-atentado-vuelo-304-aeropostal.webp" alt="Douglas DC-3 de Aeropostal en el Museo Aeronáutico de Maracay">
-  <figcaption class="post-caption">Douglas DC-3 de Línea Aeropostal Venezolana, matrícula YV-C-AKE, expuesto en el Museo Aeronáutico de Maracay (Venezuela), similar al tipo de aeronave (DC-3 YV-C-AFE) que operaba el vuelo 304, víctima de un atentado terrorista el 28 de abril de 1960 en ruta entre Maiquetía y Puerto Ayacucho.</figcaption>
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1960-04-28-atentado-vuelo-304-aeropostal.webp" alt="Douglas DC-3 de Línea Aeropostal Venezolana similar al siniestrado en el vuelo 304">
+  <figcaption class="post-caption">Douglas DC-3 de Línea Aeropostal Venezolana (LAV) similar al ejemplar matrícula YV-C-AFE destruido en el vuelo 304 del 28 de abril de 1960. Fuente: archivo histórico referencial.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 28 de abril de 1960, el vuelo 304 de Línea Aeropostal Venezolana (LAV), un Douglas DC-3 YV-C-AFE que operaba entre Maiquetía y Puerto Ayacucho, fue víctima de un atentado terrorista a bordo, cuando un pasajero detonó una bomba en pleno vuelo. El avión se precipitó cerca de El Rastro, en la zona del Embalse del Guárico, a las afueras de Calabozo, estado Guárico, Venezuela, pereciendo las 13 personas a bordo. Este hecho constituye uno de los primeros atentados contra una aeronave civil en la historia de Venezuela y dejó una huella profunda en la opinión pública y en la seguridad aeronáutica del país.</p>
+<p>El 28 de abril de 1960, el bimotor <strong>Douglas DC-3</strong> matrícula <code>YV-C-AFE</code> de la <strong>Línea Aeropostal Venezolana (LAV)</strong>, que operaba el vuelo regular 304 entre el Aeropuerto de Maiquetía, Calabozo, San Fernando de Apure y Puerto Ordaz, fue destruido en pleno vuelo por la detonación de un artefacto explosivo cuando iniciaba su descenso hacia el aeródromo de Calabozo (estado Guárico). La aeronave se precipitó a tierra en las cercanías del embalse del río Guárico e incendió al impactar, causando la muerte de sus <strong>trece ocupantes</strong> (diez pasajeros y tres tripulantes).</p>
+<p>Las pesquisas forenses y policiales establecieron que la bomba había sido accionada en la cabina de pasaje por un inmigrante de origen lituano que viajaba con identidad falsa (registrado en las fuentes como <em>Alex Natali</em> o <em>Rimas</em>) tras haberse enterado durante la travesía de que el político al que pretendía asesinar no había embarcado en el avión, configurando el <strong>primer atentado con explosivos contra la aviación civil en la historia de Venezuela</strong>.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Datos verificados del evento
 
-- **Fecha del atentado:** 28 de abril de 1960
-- **Hora del suceso:** 08:22 (hora local de Venezuela)
-- **Lugar del impacto:** Cerca de El Rastro, a 3 km del Embalse del Guárico, a unos 15 km de Calabozo, estado Guárico, Venezuela
-- **Aeronave:** Douglas C-47B-15-DK (DC-3), matrícula YV-C-AFE
-- **Número de construcción (MSN):** 26798 / 15353
-- **Año de fabricación:** 1944
-- **Motores:** Pratt & Whitney R-1830-90C
-- **Operador:** Línea Aeropostal Venezolana (LAV / Aeropostal)
-- **Ruta:** Aeropuerto de Maiquetía → Calabozo → San Fernando de Apure → Puerto Ayacucho
-- **Hora de despegue:** 07:30 (hora local)
-- **Tripulación:** 3 miembros
-- **Pasajeros:** 10
-- **Total de ocupantes:** 13
-- **Víctimas mortales:** 13 (inicialmente 3 sobrevivieron unas horas, pero fallecieron posteriormente)
-- **Autor del atentado:** Wjatheslav Lavinski (pasajero de origen ruso, fallecido en el atentado)
-- **Causa:** Detonación de un artefacto explosivo (presuntamente una granada de mano) en la cabina del avión
+- **Fecha y hora del suceso:** jueves 28 de abril de 1960; despegue de Maiquetía a las 06:51 HLV y explosión a bordo alrededor de las 07:35 HLV.
+- **Lugar del impacto:** sabanas próximas a la represa del río Guárico, a unos 14 kilómetros al norte del aeródromo de Calabozo, estado Guárico, Venezuela.
+- **Aeronave y operador:** Douglas DC-3 (originalmente C-47A-90-DL, número de construcción `20124`, fabricado en 1943), matrícula `YV-C-AFE`, operado por la Línea Aeropostal Venezolana (LAV).
+- **Ruta del vuelo 304:** Aeropuerto Internacional de Maiquetía (`CCS`) – Calabozo (`CLZ`) – San Fernando de Apure (`SFD`) – Puerto Ordaz (`PZO`).
+- **Tripulación fallecida (3):** Capitán **Pedro Antonio Medina** (comandante), Primer Oficial **B. J. Pérez Marcano** (copiloto) y **Carmen Uribe** (aeromoza).
+- **Víctimas totales:** 13 fallecidos (los 3 miembros de la tripulación y los 10 pasajeros a bordo, incluido el autor material de la detonación) y ningún superviviente.
+- **Causa determinada por la investigación:** detonación deliberada en vuelo de un artefacto explosivo casero en la sección delantera de la cabina de pasajeros, que destruyó los cables de mando de vuelo y abrió un boquete estructural en el costado izquierdo del fuselaje.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Contexto Histórico
 
-El 28 de abril de 1960, la aviación civil venezolana vivió uno de los episodios más trágicos de su historia. El vuelo 304 de Línea Aeropostal Venezolana (LAV), un Douglas DC-3 con matrícula YV-C-AFE, despegó del aeropuerto de Maiquetía con destino a Puerto Ayacucho, haciendo escala en Calabozo y San Fernando de Apure. A bordo viajaban 13 personas: 3 tripulantes y 10 pasajeros. Lo que parecía un vuelo rutinario por el territorio venezolano se convertiría en el escenario del primer atentado terrorista documentado contra una aeronave civil en el país.
+A comienzos de 1960, Venezuela atravesaba los convulsos primeros meses de su democracia representativa tras el derrocamiento de la dictadura de Marcos Pérez Jiménez en enero de 1958 y la toma de posesión del presidente Rómulo Betancourt en febrero de 1959. Apenas ocho días antes del siniestro del vuelo 304, entre el 20 y el 21 de abril de 1960, el Gobierno había sofocado en San Cristóbal (estado Táchira) el alzamiento militar encabezado por el exministro de la Defensa Jesús María Castro León, mientras en el Caribe arreciaban las conjuras financiadas por el dictador dominicano Rafael Leónidas Trujillo contra el Ejecutivo de Caracas —que dos meses más tarde, el 24 de junio de 1960, desembocarían en el atentado con coche bomba contra el propio presidente Betancourt en el paseo Los Próceres—.
 
 ### Entorno social
 
-El año 1960 fue un período de transición para Venezuela. La dictadura de Marcos Pérez Jiménez había caído en 1958, y el país vivía bajo la recién instaurada democracia representativa. La Línea Aeropostal Venezolana, fundada en 1929, era la aerolínea más antigua del país y un símbolo de la conectividad nacional, especialmente con regiones remotas como el estado Amazonas. Los controles de seguridad para pasajeros y equipajes eran prácticamente inexistentes, una realidad común en la aviación civil mundial de la época, muy lejana de los estándares que se implantarían décadas después.
+En un país cuya geografía de llanos inundables y grandes ríos carecía aún de una red vial asfaltada continua hacia el sur, los vuelos domésticos de la estatal <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1929/07/03/fundacion-linea-aeropostal-venezolana.html" style="color: #315fea; text-decoration: none;">Línea Aeropostal Venezolana (LAV)</a> constituían el vínculo cotidiano entre Caracas y las capitales agropecuarias y mineras del interior. En aquel entonces no existían controles de inspección de equipaje de mano ni verificación documental rigurosa en los mostradores de las rutas nacionales: cualquier viajero podía adquirir un boleto con un nombre supuesto y subir por la escalerilla del avión portando un maletín sin registro alguno.
 
 ### Entorno tecnológico
 
-El Douglas DC-3 era, en 1960, uno de los aviones comerciales más utilizados en todo el mundo. Diseñado en la década de 1930, había demostrado ser robusto, fiable y versátil. La unidad siniestrada, un C-47B Skytrain (versión militar del DC-3 construida en 1944 para la Fuerza Aérea del Ejército de los Estados Unidos), había sido convertida para uso civil tras la Segunda Guerra Mundial y operaba para Aeropostal en rutas nacionales. Su fuselaje de aleación ligera y su estructura de construcción mixta ofrecían cierta resistencia, pero ningún avión comercial de la época podía soportar la detonación de un artefacto explosivo en su interior.
+El transporte regional venezolano descansaba sobre la robustez del <a href="https://efemerides-aviacion.github.io/efemerides/evento/1935/12/17/primer-vuelo-douglas-dc3.html" style="color: #315fea; text-decoration: none;">bimotor Douglas DC-3</a>, aeronave capaz de operar con seguridad en pistas cortas como las de Calabozo y San Fernando de Apure. Sin embargo, como todo avión de transporte diseñado en la década de 1930, el DC-3 conducía los cables de acero que accionaban el timón de dirección, los elevadores y los alerones por debajo del piso de la cabina de pasaje, de modo que una detonación en el suelo del compartimento delantero bastaba para seccionar de golpe las líneas de control e inutilizar el gobierno del aparato.
 
 ### Entorno cultural
 
-La figura del "pasajero rebelde" o del "secuestrador" era prácticamente desconocida para el público venezolano de 1960. Los vuelos eran percibidos como entornos seguros, y la idea de que un pasajero pudiera introducir un artefacto explosivo a bordo resultaba inimaginable. El atentado del vuelo 304 conmocionó a la sociedad venezolana y ocupó las primeras planas de los periódicos de la época. La investigación oficial, que no logró establecer de manera concluyente las motivaciones del atacante, dejó abiertas múltiples hipótesis que han alimentado el debate histórico hasta nuestros días.
+Hasta abril de 1960, los accidentes sufridos por la aviación comercial venezolana —como el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1944/07/25/accidente-aeropostal-lockheed-l14.html" style="color: #315fea; text-decoration: none;">siniestro del Lockheed L-14 de Aeropostal en Barcelona en julio de 1944</a> o las tragedias de los Super Constellation en el Atlántico en 1956— habían obedecido siempre a fallos mecánicos o factores meteorológicos. La irrupción del sabotaje con bomba en una línea aérea interior sacudió profundamente a la sociedad venezolana y a las asociaciones de pilotos civiles.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Desarrollo Cronológico
 
-- **28 de abril de 1960, 07:30:** El Douglas DC-3 YV-C-AFE despega del Aeropuerto de Maiquetía con destino a Puerto Ayacucho, vía Calabozo y San Fernando de Apure.
-- **08:22 (aproximadamente):** Cuando la aeronave se preparaba para aterrizar en Calabozo, el pasajero Wjatheslav Lavinski envía una nota a los pilotos con la amenaza de hacer estallar el avión si no obedecían sus órdenes.
-- **08:22:** El Capitán Alejandro Medina Guerra mantiene el control del avión y envía al copiloto Tito Livio Parra a la cabina de pasajeros para evaluar la situación.
-- **08:22:** Lavinski detona el artefacto explosivo (presuntamente una granada de mano) en el interior del avión.
-- **Tras la explosión:** El DC-3 pierde el control y se precipita a tierra cerca de El Rastro, a 3 km del Embalse del Guárico, a unos 15 km de Calabozo, estado Guárico.
-- **Posteriores al impacto:** La azafata Regine Marie Rachinel y dos pasajeros (José Chacín y Marcelina de Flores) sobreviven inicialmente al impacto y logran relatar lo sucedido, pero fallecen horas después a causa de sus heridas.
-- **Posteriores a la tragedia:** La Fuerza Aérea Venezolana construye un monumento en el lugar del accidente y coloca una placa en memoria de los tripulantes y pasajeros fallecidos.
-
-### El atentado: el primer secuestro con explosivos en Venezuela
-
-Un minuto antes del aterrizaje en Calabozo, el Comandante Medina Guerra recibió un papel, escrito por Lavinski, que decía: *"Yo soy un expropiado suicida, no queda más remedio que obedecer o estallaré el avión, mientras sostenga la palanca de la bomba, ¡pásalo!"*.
-
-### La amenaza
-
-El mensaje contenía una instrucción adicional: "pásalo", lo que indicaba que el capitán debía pasar la nota al control de tráfico aéreo para comunicar la amenaza. El Capitán Medina Guerra, un experimentado piloto de 39 años formado en la Escuela de Aviación Militar (Promoción 1942), mantuvo la calma. Para intentar resolver la situación, envió al copiloto Parra a la cabina de pasajeros a negociar con el secuestrador.
-
-### La explosión
-
-En lugar de ceder, Lavinski, que también llevaba consigo un libro titulado "Muerte en el Aire", detonó el artefacto explosivo que portaba. Las fuentes no se ponen de acuerdo sobre la naturaleza del explosivo: unos hablan de una bomba de fabricación casera (un niple), otros de una granada de mano. La explosión, ocurrida a las 8:22 a.m., destrozó la cabina e hirió de muerte a varios ocupantes. El Capitán Alejandro Medina Guerra, el copiloto Tito Livio Parra y el pasajero Edward Halbersderg (sobrino de Lavinski, que viajaba con él) fallecieron en el acto. El avión se precipitó a tierra sin control.
-
-### Los supervivientes temporales
-
-La robustez del fuselaje del DC-3 permitió que tres personas sobrevivieran al impacto inicial: la azafata Regine Marie Rachinel y los pasajeros José Chacín y Marcelina de Flores. Durante las horas siguientes, antes de sucumbir a sus heridas, lograron relatar a los equipos de rescate lo que había ocurrido. Gracias a sus testimonios, las autoridades pudieron reconstruir los hechos e identificar a Lavinski como el autor material del atentado.
-
-### Investigación y motivaciones
-
-Las investigaciones oficiales no lograron determinar con certeza las motivaciones de Wjatheslav Lavinski para cometer el atentado.
-
-### Las hipótesis
-
-- **Problemas personales:** Se sabe que Lavinski era un emigrante ruso con problemas económicos. En 1950, las autoridades le habían confiscado un yate, y a pesar de sus esfuerzos, nunca logró recuperarlo. Este hecho le generó una profunda frustración y un sentimiento de persecución.
-
-- **Idea fija:** Después de perder su yate, Lavinski intentó reunirse con la persona que ordenó la confiscación para hablar con él, pero no lo consiguió. Incluso su propio hijo le pidió que desistiera de sus planes, que incluían colocar una bomba contra esta persona, pero Lavinski hizo caso omiso y continuó con su idea fija.
-
-- **El libro "Muerte en el Aire":** La investigación descubrió que Lavinski llevaba consigo un ejemplar del libro Muerte en el Aire, lo que sugiere que el atentado podría haber sido premeditado y que el autor podría haberse inspirado o documentado en crímenes similares.
-
-- **Suicidio y asesinato en masa:** La nota enviada a los pilotos es explícita: "Yo soy un expropiado suicida". La hipótesis más aceptada es que Lavinski, un hombre en una situación límite, planeó su propio suicidio y decidió llevarse consigo a todos los ocupantes del avión.
-
-### La nota de secuestro
-
-La nota de amenaza enviada por Lavinski a los pilotos fue encontrada en el bolsillo del uniforme del copiloto Tito Livio Parra, fallecido en la explosión. Esta evidencia fue clave para confirmar la naturaleza terrorista del siniestro y descartar fallos mecánicos o estructurales.
-
-### Víctimas
-
-El vuelo 304 de Aeropostal transportaba a 13 personas: 3 tripulantes y 10 pasajeros. Todos fallecieron como consecuencia del atentado, aunque tres de ellos (la azafata Rachinel y dos pasajeros) sobrevivieron inicialmente al impacto y lograron relatar lo sucedido antes de sucumbir a sus heridas horas después.
-
-### Tripulación
-
-- **Capitán:** Alejandro Medina Guerra (39 años, 18 años como piloto, formado en la Escuela de Aviación Militar, Promoción 1942)
-- **Copiloto:** Tito Livio Parra Cianghrotti
-- **Auxiliar de vuelo (azafata):** Regine Marie Rachinel (nacionalidad francesa, sobrevivió horas al impacto)
-
-### Pasajeros fallecidos
-
-**Con destino a Calabozo:**
-- Wjatheslav Lavinski (secuestrador)
-- Edward Halbersderg (sobrino de Lavinski)
-- Eria Sutton
-
-**Con destino a San Fernando de Apure:**
-- Julio Rodríguez
-- Juan Climaco
-- José Sifontes
-
-**Con destino a Puerto Ayacucho:**
-- Dámaso Azabache
-- Lelia de Ruiz
-- José Chacín (sobrevivió horas al impacto)
-- Marcelina de Flores (sobrevivió horas al impacto)
+- **28 de abril de 1960, 06:51 HLV:** el Douglas DC-3 `YV-C-AFE` despega del Aeropuerto Internacional de Maiquetía cumpliendo el vuelo 304 de LAV con destino final en Puerto Ordaz y escalas previstas en Calabozo y San Fernando de Apure; a bordo viajan diez pasajeros y los tres tripulantes comandados por el Capitán Pedro Antonio Medina.
+- **Durante el crucero hacia el estado Guárico:** según la reconstrucción oficial posterior, un pasajero de origen lituano que había embarcado con un maletín bomba con el propósito de asesinar a un dirigente político (cuya reserva figuraba para ese vuelo pero que a última hora no había subido al avión) conversa con la aeromoza **Carmen Uribe** y descubre que su objetivo no se encuentra a bordo.
+- **07:35 HLV (inicio del descenso hacia Calabozo):** cuando la tripulación acaba de notificar por radio el comienzo de la maniobra de aproximación a unos nueve minutos de la pista de Calabozo, el atacante entra en pánico y detona el artefacto en la parte delantera izquierda de la cabina de pasajeros.
+- **Pérdida de control e impacto:** la explosión abre un boquete en el fuselaje, destruye el piso de la cabina y corta los cables de mando; en una maniobra desesperada por mantener la línea de vuelo utilizando únicamente la potencia diferencial de los dos motores Pratt & Whitney R-1830, el Capitán Medina intenta alcanzar terreno despejado cerca de la represa del río Guárico, pero el DC-3 entra en pérdida de sustentación, cae a unos 14 kilómetros de Calabozo y se incendia por completo.
+- **Mayo de 1960:** los peritos de Aeronáutica Civil y del Cuerpo Técnico de Policía Judicial (CTPJ) examinan los restos esparcidos en la sabana de Guárico, identifican las trazas químicas y las lesiones traumáticas directas del portador del artefacto y confirman que el siniestro fue un atentado criminal suicida.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Consecuencias e Impacto
 
-- **Primer atentado terrorista en la aviación civil venezolana:** El vuelo 304 de Aeropostal se convirtió en un caso emblemático. Fue la primera vez en la historia del país que un pasajero introducía un artefacto explosivo a bordo de un avión con fines homicidas y suicidas.
+El atentado del vuelo 304 obligó a las autoridades aeronáuticas y policiales de Venezuela a revisar por primera vez los procedimientos de embarque en los vuelos nacionales. La Dirección de Aeronáutica Civil del Ministerio de Comunicaciones y el recién creado Cuerpo Técnico de Policía Judicial implantaron la exigencia de presentar documento de identidad al adquirir el boleto y al abordar la aeronave, así como el control del equipaje facturado y la presencia de vigilancia policial en las terminales de Maiquetía y del interior del país.
 
-- **Conmoción nacional:** La noticia causó un profundo impacto en la opinión pública venezolana. La prensa de la época siguió el caso con gran interés, y el misterio en torno a las motivaciones de Lavinski alimentó la especulación durante años.
-
-- **Lección sobre seguridad aeroportuaria:** La tragedia evidenció la fragilidad de los sistemas de control de pasajeros y equipajes en la aviación civil de la época. Sin embargo, las medidas de seguridad realmente efectivas no se implantarían hasta después de la oleada de secuestros de la década de 1970.
-
-- **Memoria institucional:** La Fuerza Aérea Venezolana (FAV) construyó un monumento en el lugar del accidente y colocó una placa en memoria de los tripulantes y pasajeros fallecidos. El Capitán Medina Guerra recibió honores fúnebres militares como oficial de la FAV.
+En el plano técnico y forense, la pesquisa realizada sobre los restos del `YV-C-AFE` en los llanos de Calabozo sentó la doctrina venezolana de investigación conjunta entre inspectores de accidentes de aviación y expertos en explosivos criminalísticos para distinguir un fallo estructural en vuelo de una detonación intencionada.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Legado
 
-El vuelo 304 de Línea Aeropostal Venezolana es recordado como el primer atentado terrorista contra una aeronave civil en Venezuela. Aunque ocurrido hace más de seis décadas, el caso sigue siendo citado en estudios sobre accidentes e incidentes de la aviación civil venezolana.
+El sacrificio del Capitán Pedro Antonio Medina, del copiloto B. J. Pérez Marcano y de la aeromoza Carmen Uribe, junto con los nueve pasajeros inocentes del DC-3 `YV-C-AFE`, permanece inscrito en los anales de la seguridad aeronáutica iberoamericana como el primer acto de terrorismo con bomba contra un avión comercial en cielo venezolano —dieciséis años antes del atentado contra el vuelo 455 de Cubana de Aviación en Barbados en octubre de 1976, cuya autoría intelectual y material se gestó precisamente en Caracas—.
 
-La tragedia también es un recordatorio de la relativa vulnerabilidad de los primeros vuelos comerciales, un contraste con los rigurosos sistemas de seguridad que rigen la aviación actual. El caso del DC-3 de Aeropostal se inscribe en una época en la que conceptos como "perfil de pasajero" o "control de equipaje de mano" eran prácticamente inexistentes.
-
-El atentado del vuelo 304 fue un punto de inflexión en la percepción pública sobre la seguridad aérea. Demostró que la amenaza no siempre provenía del exterior (fallos mecánicos, climatología, error humano), sino que también podía incubarse dentro del propio avión, en la mente de un pasajero.
-
-La historia del Capitán Alejandro Medina Guerra, un piloto formado en la Escuela de Aviación Militar con 18 años de experiencia, es un testimonio de la profesionalidad de los primeros aviadores venezolanos. A pesar de la situación límite, mantuvo el control de la aeronave el mayor tiempo posible e intentó resolver la crisis enviando al copiloto a negociar.
-
-Hoy, la matrícula YV-C-AFE ya no existe. El avión quedó destruido en el impacto. Sin embargo, su gemelo, el DC-3 YV-C-AKE, se conserva en el Museo Aeronáutico de Maracay como testimonio de una época en la que la aviación comercial venezolana conectaba el país, a veces a costa de la vida de sus tripulantes y pasajeros.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre las motivaciones de Lavinski:</strong> Las investigaciones oficiales no lograron establecer de manera concluyente por qué Wjatheslav Lavinski decidió cometer el atentado. Se barajan diversas hipótesis: problemas económicos relacionados con la pérdida de un yate en 1950, un supuesto plan para atentar contra un funcionario, problemas de salud mental, un hecho de sangre cometido en Europa, o la combinación de varios de estos factores. El libro "Muerte en el Aire" encontrado en su poder sugiere premeditación.</p>
-<p><strong>Sobre la aeronave:</strong> El avión siniestrado era un Douglas C-47B-15-DK (versión militar del DC-3) construido en 1944 para la Fuerza Aérea del Ejército de los Estados Unidos. Fue convertido para uso civil después de la guerra y operado por Aeropostal en rutas nacionales.</p>
-</div>
+Su memoria recuerda cómo, ya en los albores de la década de 1960, la aviación civil regional pasó a convertirse en escenario vulnerable de la violencia política de la Guerra Fría en el Caribe.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
@@ -174,19 +85,26 @@ Hoy, la matrícula YV-C-AFE ya no existe. El avión quedó destruido en el impac
 
 <div class="references">
   <ul>
-    <li><a href="https://es.wikipedia.org/wiki/Vuelo_304_de_Linea_Aeropostal_Venezolana" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Vuelo 304 de Línea Aeropostal Venezolana</a></li>
-    <li><a href="https://favclubven.wordpress.com/2025/01/03/el-atentado-al-douglas-dc-3-yv-c-afe-de-la-linea-aeropostal-venezolana/" style="color: #315fea; text-decoration: none;">FavClubVen - El atentado al Douglas DC-3 YV-C-AFE de la Línea Aeropostal Venezolana (Coronel José Luis Ochoa Vargas)</a></li>
-    <li><a href="https://www.planecrashinfo.com/1960/1960-23.htm" style="color: #315fea; text-decoration: none;">Plane Crash Info - April 28, 1960, Douglas DC-3 near Calabozo</a></li>
-    <li><a href="https://es.wikipedia.org/wiki/Aeropostal" style="color: #315fea; text-decoration: none;">Wikipedia (ES) - Aeropostal</a></li>
+    <li><a href="https://aviation-safety.net/database/record.php?id=19600428-0" style="color: #315fea; text-decoration: none;">Aviation Safety Network (Flight Safety Foundation) — Ficha técnica del suceso del Douglas C-47A-90-DL YV-C-AFE de Línea Aeropostal Venezolana cerca de Calabozo (28 de abril de 1960)</a></li>
+    <li><a href="https://www.baaa-acro.com/crash/crash-douglas-c-47a-90-dl-calabozo-13-killed" style="color: #315fea; text-decoration: none;">Bureau of Aircraft Accidents Archives (BAAA) — «Crash of a Douglas C-47A-90-DL near Calabozo: 13 killed» (28 de abril de 1960)</a></li>
+    <li><a href="https://www.planecrashinfo.com/1960/1960-24.htm" style="color: #315fea; text-decoration: none;">PlaneCrashInfo.com — Registro histórico del vuelo 304 de Línea Aeropostal Venezolana (YV-C-AFE, Calabozo, 28 de abril de 1960)</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Linea_Aeropostal_Venezolana_Flight_304" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Línea Aeropostal Venezolana Flight 304</a></li>
   </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
+
+<div class="note-box">
+  <p><strong>Nota aclaratoria:</strong> Dado que el autor material del atentado viajaba con documentación falsificada, las crónicas hemerográficas y los repertorios internacionales registran dos alias distintos para el terrorista de origen lituano (<em>Alex Natali</em> en la prensa estadounidense y en BAAA; <em>Rimas</em> en crónicas venezolanas), sin que su verdadera identidad civil ni la identidad exacta del dirigente político que había cancelado su viaje llegaran a divulgarse oficialmente en el sumario público.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:42:16 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES), FavClubVen (artículo del Coronel José Luis Ochoa Vargas), Plane Crash Info
-- **Discrepancias resueltas:** Las fuentes coinciden en la fecha (28 de abril de 1960) y en la mayoría de los datos. El número de ocupantes varía ligeramente (13 según la mayoría, 10 según algunas fuentes). Se ha priorizado la cifra de 13 (3 tripulantes + 10 pasajeros). La hora del despegue fue a las 07:30 y la explosión a las 08:22. Los nombres de los tripulantes y pasajeros están documentados en el artículo del Coronel José Luis Ochoa Vargas.
+- **Timestamp de verificación:** 2026-10-07 10:42:00 CST
+- **Fuentes primarias/institucionales consultadas:** Registro del accidente en Aviation Safety Network (Flight Safety Foundation) y Bureau of Aircraft Accidents Archives (`YV-C-AFE`, c/n `20124`).
+- **Fuentes secundarias de contraste:** Crónicas históricas del vuelo 304 de LAV y Wikipedia (`Linea Aeropostal Venezolana Flight 304`).
+- **Discrepancias resueltas:** Se documentan los dos alias recogidos en las fuentes para el autor material con pasaporte falso (*Alex Natali* / *Rimas*) y se precisa el número exacto de víctimas (13 fallecidos: 3 tripulantes y 10 pasajeros, incluido el perpetrador).
 - **Nivel de confianza:** Alto
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+- **Cláusula final:** «Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]».
