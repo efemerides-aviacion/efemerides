@@ -40,55 +40,51 @@ image: 1980-09-12-accidente-dc8-aeronaves-del-peru-iquitos.webp
 - **Lugar del impacto:** selva situada a pocos kilómetros del umbral de la pista.
 - **Ocupantes:** 3 tripulantes.
 - **Víctimas:** 3 fallecidos, sin sobrevivientes.
-- **Tipo de suceso:** impacto controlado contra el terreno (CFIT).
+- **Categoría del siniestro:** colisión en vuelo controlado contra el relieve (CFIT).
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
-El accidente ocurrió apenas seis semanas después de la pérdida de otro DC-8 de Aeronaves del Perú durante la aproximación a Ciudad de México. La compañía enfrentaba una etapa compleja, con una flota reducida y la necesidad de incorporar aeronaves arrendadas para mantener sus operaciones de carga.
+El siniestro del `N715UA` en el oriente peruano se produjo apenas seis semanas después de la pérdida de otro reactor de la misma compañía —el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1980/08/01/accidente-dc8-aeronaves-del-peru-mexico.html" style="color: #315fea; text-decoration: none;">Douglas DC-8 `OB-R-1143` estrellado en la aproximación a Ciudad de México el 1 de agosto de 1980</a>—. Fundada en 1965 y especializada en el transporte pesado de mercancías dentro y fuera del país, Aeronaves del Perú había recurrido al arrendamiento de células estadounidenses a través de Tropical Aircraft Leasing para sostener sus frecuencias regulares mientras reponía su capacidad operativa.
 
 ### Entorno social
 
-Iquitos dependía en gran medida del transporte aéreo para conectarse con Lima y con el resto del Perú. Los vuelos de carga eran esenciales para abastecer a la ciudad y a las comunidades de la Amazonía, donde las conexiones terrestres eran limitadas.
+A comienzos de la década de 1980, la ciudad de Iquitos —capital del departamento de Loreto y principal núcleo urbano de la Amazonía peruana, sin enlace carretero con la costa ni con la sierra debido a la barrera de los Andes y de la cuenca fluvial del Amazonas— dependía vitalmente del puente aéreo con Lima. El auge de la exploración petrolera en la selva norte y el crecimiento demográfico de la urbe habían multiplicado la demanda de carga aérea para transportar alimentos perecederos, maquinaria industrial, insumos médicos y manufacturas desde el aeropuerto internacional Jorge Chávez hasta la terminal Coronel FAP Francisco Secada Vignetta.
 
 ### Entorno tecnológico
 
-El DC-8-33F pertenecía a la primera generación de reactores comerciales de largo alcance adaptados al transporte de mercancías. La aproximación en un entorno selvático, con visibilidad reducida y referencias visuales limitadas, exigía una gestión precisa de la altitud y de la trayectoria de descenso.
+El aparato siniestrado pertenecía a la primera generación de cuatrimotores de largo alcance <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/30/primer-vuelo-douglas-dc-8.html" style="color: #315fea; text-decoration: none;">Douglas DC-8</a>: fabricado en 1960 como avión de pasajeros de la serie 33 y posteriormente transformado a configuración carguera pura (`DC-8-33F`) con compuerta lateral de cubierta principal y piso reforzado, estaba propulsado por cuatro turborreactores Pratt & Whitney JT4A. Operar un reactor de primera generación sin radar meteorológico de última tecnología ni sistemas digitales de alerta de proximidad al terreno en la cuenca amazónica planteaba exigencias severas: sobre el llano selvático que rodea Iquitos, las tormentas tropicales reducen bruscamente el techo de nubes y la visibilidad horizontal, mientras que el tapiz uniforme de vegetación nocturna o bajo cortinas de agua priva a los pilotos de referencias visuales de altura y horizonte.
 
 ### Entorno cultural
 
-El accidente forma parte de un periodo particularmente difícil para Aeronaves del Perú. El recuerdo del suceso se vincula con la vulnerabilidad de las operaciones cargueras en aeropuertos remotos y con la importancia de preservar procedimientos de aproximación seguros en condiciones meteorológicas cambiantes. Veinticinco años más tarde, el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/2005/08/23/accidente-vuelo-204-tans-peru.html" style="color: #315fea; text-decoration: none;">accidente del vuelo 204 de TANS Perú en Pucallpa</a> volvería a poner a prueba esas mismas lecciones en otro aeropuerto amazónico.
+La pérdida consecutiva de dos cuatrimotores DC-8 en cuarenta y dos días golpeó hondamente a la aviación comercial peruana y puso de relieve la precariedad con que operaban los cargueros de primera generación en rutas amazónicas y cordilleranas. Veinticinco años más tarde, el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/2005/08/23/accidente-vuelo-204-tans-peru.html" style="color: #315fea; text-decoration: none;">accidente del vuelo 204 de TANS Perú en Pucallpa</a> volvería a evidenciar el peligro de penetrar frentes convectivos tropicales durante la aproximación final sin referencias visuales estables.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Desarrollo Cronológico
 
-- **1960:** Se fabrica el Douglas DC-8-33 que posteriormente recibe la matrícula N715UA.
-- **Antes de 1980:** La aeronave opera con distintos propietarios y compañías, y pasa a una configuración carguera.
-- **Agosto de 1980:** Tropical Aircraft Leasing arrienda el avión a Aeronaves del Perú para reforzar la operación de carga de la compañía.
-- **1 de agosto de 1980:** Otro DC-8 de Aeronaves del Perú, el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1980/08/01/accidente-dc8-aeronaves-del-peru-mexico.html" style="color: #315fea; text-decoration: none;">OB-R-1143, se accidenta durante la aproximación a Ciudad de México</a>.
-- **12 de septiembre de 1980:** El N715UA despega de Lima-Jorge Chávez con destino a Iquitos.
-- **Durante la aproximación:** La tripulación encuentra condiciones meteorológicas adversas y visibilidad limitada en las cercanías del aeropuerto.
-- **Poco antes del aterrizaje:** El avión desciende por debajo de la altitud segura y alcanza las copas de los árboles.
-- **Inmediatamente después:** El DC-8 impacta contra la selva, queda destruido y mueren sus tres tripulantes.
-- **Investigación posterior:** Las fuentes de seguridad aérea describen un impacto contra el terreno durante la aproximación, asociado con baja visibilidad y altitud insuficiente.
+- **1960:** Sale de la factoría de Douglas en Long Beach el DC-8-33 con número de construcción `45386` (línea `62`), que a lo largo de dos décadas presta servicio de pasajeros con Scandinavian Airlines System (SAS) y Thai Airways International antes de su conversión en carguero puro (`DC-8-33F`) y su paso por Polair.
+- **1 de agosto de 1980:** Aeronaves del Perú pierde el DC-8-54F `OB-R-1143` al chocar contra el cerro del Tetelcon durante una aproximación con niebla a Ciudad de México.
+- **Agosto de 1980:** Para cubrir el déficit de bodega en sus rutas troncales, la aerolínea peruana incorpora en régimen de arrendamiento a través de Tropical Aircraft Leasing el DC-8-33F con matrícula estadounidense `N715UA`.
+- **12 de septiembre de 1980 (despegue y crucero):** El `N715UA` despega del Aeropuerto Internacional Jorge Chávez de Lima en un vuelo regular de carga con destino a Iquitos, llevando a bordo únicamente a sus tres tripulantes de cabina de mando.
+- **Fase de aproximación a Iquitos:** Al iniciar el descenso hacia el aeropuerto Coronel FAP Francisco Secada Vignetta, la aeronave encuentra condiciones meteorológicas adversas y visibilidad reducida sobre la llanura amazónica.
+- **Impacto contra la selva:** Durante la maniobra de aproximación final, el cuatrimotor desciende por debajo de la altitud mínima de franqueamiento de obstáculos sin que la tripulación advierta la cercanía del dosel arbóreo. A unos 16 kilómetros del aeródromo, el avión secciona las copas de los árboles, se estrella contra el terreno selvático y se desintegra.
+- **Balance e investigación:** Los tres miembros de la tripulación fallecen en el acto y la célula queda completamente destruida. Los registros internacionales de seguridad aérea clasificaron el suceso dentro de la categoría CFIT (*Controlled Flight Into Terrain*), originado por el descenso bajo la senda segura en condiciones de baja visibilidad.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
-El accidente confirmó los riesgos de aproximar aeronaves de gran tamaño a un aeropuerto rodeado por selva y con condiciones meteorológicas variables. La ausencia de referencias visuales suficientes redujo el margen disponible para detectar la trayectoria incorrecta y ejecutar una maniobra de escape.
-
-La pérdida del N715UA, ocurrida poco después del accidente del OB-R-1143 en México, agravó la situación operativa de Aeronaves del Perú y mostró las dificultades que enfrentaban las compañías cargueras regionales para mantener una flota de reactores antiguos y arrendados.
+- **Debilitamiento operativo de Aeronaves del Perú:** La pérdida de dos cargueros transcontinentales entre agosto y septiembre de 1980 mermó la capacidad financiera y logística de la empresa, que pese a ello continuó operando con otros ejemplares DC-8 hasta su cese definitivo a mediados de la década de 1990.
+- **Evidencia sobre el riesgo de aproximación no estabilizada en selva:** El siniestro confirmó que las aproximaciones no precisas sobre terreno plano y boscoso, desprovisto de luces de referencia en tierra, propician ilusiones sensoriales de altitud cuando se intenta adquirir visualmente la pista bajo lluvia intensa.
+- **Impulso a los sistemas de alerta de terreno:** Casos como el de Iquitos reforzaron en Sudamérica la necesidad de equipar también a las flotas exclusivamente cargueras con avisadores acústicos de proximidad al terreno (GPWS) y radioayudas de guiado vertical.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
-El accidente del N715UA permanece como un caso de impacto controlado contra el terreno durante una aproximación en condiciones meteorológicas adversas. Su análisis subraya la importancia de respetar las altitudes mínimas, mantener una aproximación estabilizada y ejecutar una frustrada cuando la pista no puede adquirirse visualmente.
-
-La fotografía previa de un DC-8 de Aeronaves del Perú permite recordar la aeronave y la etapa histórica de la compañía sin recurrir a imágenes del lugar del accidente o de sus restos.
+A más de cuatro décadas del suceso, el accidente del Douglas DC-8-33F `N715UA` en Iquitos permanece en los anales de la aviación peruana como recordatorio del sacrificio de las tripulaciones cargueras que sostuvieron el abastecimiento aéreo de Loreto y de la exigencia técnica que impone la meteorología amazónica. Su estudio subraya dos principios fundamentales de la seguridad operacional contemporánea: el respeto estricto a las altitudes mínimas de sector y la ejecución inmediata de una aproximación frustrada cuando no se establece contacto visual con el umbral en el punto de decisión.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

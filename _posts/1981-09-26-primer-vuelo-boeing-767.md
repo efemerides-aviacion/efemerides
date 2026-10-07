@@ -58,54 +58,28 @@ Boeing llegaba a 1981 convaleciente de la peor crisis de su historia: tras el co
 
 ## Desarrollo Cronológico
 
-Del tablero de dibujo a los océanos: la gestación del 767 y la conquista de las rutas de largo alcance.
-
-- **Agosto de 1971:** Boeing muestra la primera imagen asociada a la designación 767: todavía un cuatrimotor de alta velocidad, con dos reactores bajo las alas y otros dos en el fuselaje trasero.
-- **Septiembre de 1972:** la compañía pone en marcha el programa de avión avanzado 7X7 y sondea a las aerolíneas desde 1973; el plan de lanzarlo en 1974 e introducirlo en 1977 resulta ampliamente optimista.
-- **Junio de 1975:** en el Salón de Le Bourget se exhibe una maqueta del 7X7 trireactor de fuselaje ancho, mientras continúan los estudios de la versión bimotor para rutas más cortas.
-- **Enero y febrero de 1978:** Boeing anuncia la ampliación de Everett y reparte designaciones: 757 para el bimotor estrecho, 767 para el bimotor ancho y 777 para el trireactor.
-- **14 de julio de 1978:** United Airlines lanza el programa con un pedido de 30 aviones 767-200 en firme y opciones por otros 37, por un valor conjunto de 1.200 millones de dólares incluyendo repuestos, simuladores y adiestramiento.
-- **15 de noviembre de 1978:** American Airlines encarga 30 aviones con 20 opciones y Delta Air Lines firma por 20, por 1.700 millones de dólares, ambos con motores CF6; el éxito del bimotor sentencia la cancelación del trireactor 777.
-- **1979:** el 6 de julio comienza la construcción del N767BA; Air Canada, All Nippon Airways y Trans World Airlines se suman a la cartera, esta última con diez pedidos y diez opciones en diciembre.
-- **1980:** el ingeniero de Boeing Dick Taylor, futuro padre del ETOPS, pide a la FAA una exención para el nuevo bimotor; el administrador J. Lynn Helms responde: «Primero se congelará el infierno antes de que yo autorice a los bimotores en rutas oceánicas de largo alcance».
-- **Diciembre de 1980:** Avianca encarga tres 767, primer compromiso latinoamericano con el programa.
-- **Julio de 1981:** un grupo de trabajo presidencial dictamina que dos pilotos bastan para operar aviones de cabina ancha; United, que exigía tres tripulantes, acepta la cabina bipersonal.
-- **4 de agosto de 1981:** presentación pública del N767BA en Everett, equipado con dos JT9D-7R4, ante la industria, la prensa y los trabajadores.
-- **26 de septiembre de 1981:** con Tommy Edmonds a los mandos, Lew Wallick y John Brit, el prototipo despega de Paine Field tras una carrera de unos 900 metros. En 2 horas y 4 minutos evalúa mandos, tren, frenos aerodinámicos y flaps a 30 grados entre 102 y 225 nudos, sin incidencias de importancia y con elogios para las pantallas de la cabina: el hito se logra tres días antes de lo programado en 1978.
-- **Noviembre y diciembre de 1981:** se incorporan a los ensayos el segundo avión (4 de noviembre), el tercero, cuyo borde de ataque falla en su estreno aunque aterriza sin novedad, y el cuarto (19 de diciembre), para ruido y aerodinámica.
-- **19 de febrero de 1982:** vuela <a href="https://efemerides-aviacion.github.io/efemerides/evento/1982/02/19/primer-vuelo-boeing-757.html" style="color: #315fea; text-decoration: none;">el Boeing 757, hermano menor del 767</a>, con el que comparte filosofía de cabina. Ese mismo día despega por primera vez el quinto avión de ensayos del 767, encargado de certificar la combinación con motores General Electric, que acumulará 230 horas en 239 salidas.
-- **25 de marzo de 1982:** vuela el sexto avión de ensayos, primero con cabina bipersonal de serie, tras ser modificado en Everett.
-- **Junio de 1982:** United recorta su pedido en firme de 39 a 19 aviones, reflejo de la recesión y de la lenta recuperación del control aéreo.
-- **6 al 20 de julio de 1982:** gira de demostración de 15 días por siete países de Europa y Oriente Medio, con 43 vuelos y casi 81 horas, en la que llega a pilotar el avión Huseín de Jordania; el regreso Oslo-Seattle, de 4.333 millas náuticas en 9 horas y 50 minutos, establece la marca de distancia para bimotores.
-- **30 de julio de 1982:** certificado de tipo de la FAA, con 24 aviones ya salidos de la línea y unas 1.600 horas de ensayos; el avión rinde mejor de lo previsto, con resistencia y peso en vacío inferiores a los calculados.
-- **Agosto de 1982:** debut público en Farnborough con el N102DA de Delta, y entrega a United de su primer ejemplar, el N606UA bautizado City of Chicago.
-- **8 de septiembre de 1982:** entrada en servicio con el vuelo inaugural de United entre Chicago y Denver.
-- **Octubre a diciembre de 1982:** Delta recibe su primer 767 el 25 de octubre; American estrena los motores CF6 en servicio el 21 de noviembre, entre San Francisco y Nueva York; y el 15 de diciembre Delta dedica el Spirit of Delta, pagado con 30 millones de dólares recaudados por sus propios empleados, que seguidamente cubre su primer servicio entre Atlanta y Tampa.
-- **Julio de 1983:** <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1983/07/23/accidente-air-canada-vuelo-143.html" style="color: #315fea; text-decoration: none;">el 767 de Air Canada que se queda sin combustible y planea hasta Gimli</a> da argumentos a quienes desconfían del bimotor oceánico, aunque Boeing replica que un cuatrimotor habría corrido la misma suerte.
-- **22 de julio de 1983:** la FAA emite la habilitación de tipo común para los pilotos del 757 y del 767.
-- **1984:** entra en servicio la versión de alcance extendido 767-200ER.
-- **1 de febrero de 1985:** el vuelo 810 de TWA despega de Boston rumbo a París con 16 pilotos especialmente adiestrados y 11 observadores de la FAA a bordo: primer vuelo comercial transatlántico de la historia bajo reglas ETOPS (normas de operación extendida para bimotores).
-- **Mayo y junio de 1985:** la FAA concede a los operadores del 767 las primeras aprobaciones de 120 minutos y publica la circular de asesoramiento AC 120-42, que regula las desviaciones de hasta 120 minutos.
-- **1988 y marzo de 1989:** la circular AC 120-42A amplía el marco hasta 180 minutos, y en marzo de 1989 el 767 se convierte en el primer reactor comercial aprobado para operaciones extendidas de 180 minutos.
+- **1972–1978:** Boeing inicia los estudios del proyecto `7X7`; tras evaluar configuraciones cuatrimotor y trireactor, a comienzos de 1978 fija la denominación **767** para su nuevo bimotor de doble pasillo y **757** para el de pasillo único.
+- **14 de julio y 15 de noviembre de 1978:** United Airlines lanza oficialmente el programa con un pedido en firme de 30 ejemplares `767-200` (más 37 opciones); en noviembre se suman American Airlines (30 en firme) y Delta Air Lines (20 en firme).
+- **Julio y agosto de 1981:** una comisión presidencial estadounidense avala la operación de reactores de fuselaje ancho con dos pilotos (sin ingeniero de vuelo) y el 4 de agosto sale de la planta de Everett el prototipo `N767BA` equipado con motores Pratt & Whitney JT9D-7R4.
+- **26 de septiembre de 1981:** con Thomas «Tommy» Edmonds, Samuel Lewis «Lew» Wallick y John Britt a bordo, el `N767BA` despega de Paine Field tras unos 900 metros de carrera y permanece en el aire **2 horas y 4 minutos** evaluando mandos, sistemas y pantallas digitales de cabina, tres días antes del calendario fijado en 1978.
+- **19 de febrero de 1982:** despega por primera vez <a href="https://efemerides-aviacion.github.io/efemerides/evento/1982/02/19/primer-vuelo-boeing-757.html" style="color: #315fea; text-decoration: none;">el Boeing 757, su hermano de pasillo único</a>, y ese mismo día se estrena el quinto 767 de pruebas con motores General Electric CF6-80A.
+- **30 de julio y 8 de septiembre de 1982:** tras 1.600 horas de ensayos, la FAA otorga la certificación de tipo; el 8 de septiembre United Airlines inaugura el servicio comercial regular entre Chicago y Denver con el ejemplar `N606UA` (*City of Chicago*), y en diciembre los empleados de Delta regalan a su compañía el `N102DA` (*The Spirit of Delta*).
+- **22 de julio de 1983:** un día antes de que <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1983/07/23/accidente-air-canada-vuelo-143.html" style="color: #315fea; text-decoration: none;">un 767 de Air Canada planee sin combustible hasta Gimli</a>, la FAA certifica la habilitación de tipo común para las tripulaciones de los modelos 757 y 767.
+- **1984–1989:** entra en servicio la variante de alcance extendido `767-200ER`; el **1 de febrero de 1985** el vuelo 810 de TWA entre Boston y París inaugura los servicios transatlánticos bajo normativa **ETOPS**, respaldada en junio por la circular `AC 120-42` (120 minutos) y ampliada en 1989 a 180 minutos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-El vuelo de Everett abrió una década que reconfiguró el transporte aéreo de larga distancia.
-
-- **Nace el mercado ETOPS:** el 767 crea de hecho el mercado de las operaciones extendidas de bimotores; en la ruta de París gasta unas 7.000 libras menos de combustible por hora que el L-1011 al que sustituye, y los pilotos bautizan las siglas con el apodo jocoso Engines Turn Or Passengers Swim.
-- **Primacías matizadas:** aunque el A300 ya volaba tramos oceánicos bajo el criterio OACI de 90 minutos, el 767 es el primer avión empleado en vuelos transatlánticos regulares bajo reglas ETOPS y el primer reactor aprobado para 180 minutos.
-- **Éxito del programa:** del 767-200 original derivan el 200ER, el alargado 300, el popular 300ER, el carguero 300F y el 400ER, además de las versiones militares de vigilancia E-767 y cisterna KC-767 y KC-46.
-- **La cabina de dos:** la tripulación mínima de dos pilotos y la habilitación común con el 757 se imponen como norma industrial, con el consiguiente ahorro para las aerolíneas.
+- **Apertura de los océanos a los bimotores (ETOPS):** El 767 derribó la barrera histórica de los 60 minutos para aviones de dos motores en Estados Unidos, reduciendo el consumo horario en unas 7.000 libras de queroseno frente a los trireactores a los que sustituyó en el Atlántico Norte.
+- **Estandarización de la cabina digital bipersonal:** Su puesto de mando con pantallas electrónicas (EFIS/EICAS) y habilitación cruzada con el 757 fijó el estándar ergonómico e industrial de las décadas siguientes.
+- **Familia civil y militar longeva:** Del diseño original surgieron las variantes alargadas `767-300`, `767-300ER`, `767-400ER`, el carguero `767-300F` y las plataformas militares de alerta temprana `E-767` y reabastecimiento en vuelo `KC-767` y `KC-46 Pegasus`.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-Cuarenta y cinco años después, el avión que despegó de Paine Field sigue volando y fabricándose: hasta agosto de 2026 Boeing había entregado 1.373 ejemplares de 1.451 pedidos de 74 clientes, y mantiene en producción las versiones de carga y cisterna, con el 787 Dreamliner, en servicio desde 2011, como sucesor en el pasaje. Su herencia mayor es normativa: los vuelos ETOPS pasaron de menos de 1.000 al mes en 1985 a más de 1.000 al día en 2004, la regla de 2007 redefinió las siglas como Extended Operations, para toda clase de aviones, y la OACI adoptó en 2017 la denominación EDTO.
-
-El prototipo N767BA terminó convertido en banco de pruebas del programa Airborne Optical Adjunct del Ejército estadounidense, y el Spirit of Delta se expone en el Museo de Delta en Atlanta. Pero el verdadero monumento del 767 es invisible: cada bimotor que hoy cruza un océano lo hace por la puerta que abrió aquel septiembre de 1981.
+Cuarenta y cinco años después de aquel despegue en Paine Field, el Boeing 767 supera los 1.370 ejemplares entregados y continúa en producción en sus variantes de carga y cisterna militar. Mientras el prototipo `N767BA` sirvió posteriormente como laboratorio volante del programa *Airborne Optical Adjunct* y *The Spirit of Delta* se conserva en el museo de su aerolínea en Atlanta, su mayor huella reside en haber transformado las rutas intercontinentales punto a punto que hoy dominan los bimotores de largo alcance.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

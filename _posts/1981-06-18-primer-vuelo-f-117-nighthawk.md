@@ -94,7 +94,7 @@ El desarrollo del F-117 fue uno de los proyectos más secretos de la historia de
 
 El aspecto angular y facetado del F-117 no fue una elección estética, sino una necesidad impuesta por la tecnología de la época. En la década de 1970, el poder de cómputo disponible era limitado. Los ordenadores solo podían simular el comportamiento de las ondas de radar sobre superficies planas, no sobre curvas complejas.
 
-El primer diseño propuesto, apodado el «Hopeless Diamond» (Diamante sin Esperanza) por su extraña forma, demostró en las pruebas de radar que un avión de ese tamaño podía tener la sección transversal de radar de un pájaro pequeño. Durante las pruebas en el campo de misiles de White Sands, el radar detectaba a los pájaros posados sobre el modelo, pero no el modelo en sí.
+El primer diseño propuesto, apodado el «Hopeless Diamond» (Diamante sin Esperanza) por su extraña forma, demostró en las pruebas de radar que un avión de ese tamaño podía presentar un eco electromagnético equivalente al de un ave pequeña. Durante las pruebas en el campo de misiles de White Sands, el radar detectaba a los pájaros posados sobre el modelo, pero no el modelo en sí.
 
 El demostrador tecnológico «Have Blue» voló por primera vez el 1 de diciembre de 1977. Aunque ambos prototipos se estrellaron (el HB1001 en mayo de 1978 y el HB1002 en julio de 1979), el programa fue considerado un éxito absoluto.
 

@@ -78,20 +78,15 @@ La trayectoria de Arnaldo Tamayo Méndez, de la Guantánamo de su infancia a la 
 
 ## Consecuencias e Impacto
 
-El regreso de la Soyuz 38 tuvo efectos inmediatos en los dos países que la habían lanzado.
-
-- **Consagración del primer cosmonauta latinoamericano:** Arnaldo Tamayo Méndez, primer latinoamericano, primer afrodescendiente, primer cubano y primer hispanohablante en el espacio, se convirtió en héroe nacional de Cuba y de la Unión Soviética, con los máximos títulos y condecoraciones de ambos Estados.
-- **Resultados científicos significativos:** según declaró al periódico Granma el científico cubano José Altshuler, entonces presidente de la Comisión Nacional del Programa Intercosmos, casi la totalidad de los trabajos médico-biológicos, físicos y técnicos del vuelo dejaron resultados significativos, algunos con aplicaciones prácticas a corto plazo, como los estudios sobre los recursos de la isla.
-- **Fiesta popular en Cuba:** la población siguió el vuelo y el regreso a través de la televisión, y la misión quedó instalada en la memoria colectiva como la prueba de que la ciencia nacional podía medirse en la frontera más exigente, la del espacio.
-- **Continuidad del programa Intercosmos:** el éxito del séptimo vuelo internacional confirmó el modelo de tripulaciones visitantes a la Salyut 6 y sostuvo el ritmo de misiones conjuntas con los países aliados hasta el tramo final del programa.
+- **Consagración del primer cosmonauta latinoamericano:** Arnaldo Tamayo Méndez —primer cubano, latinoamericano, caribeño y afrodescendiente en órbita— recibió a su regreso las máximas distinciones de Cuba y de la Unión Soviética.
+- **Resultados científicos aplicados:** Según informó al diario *Granma* el científico José Altshuler, entonces Presidente de la Comisión Nacional del Programa Intercosmos, los 27 experimentos médico-biológicos, físicos y de teledetección aportaron datos de aplicación directa para la cartografía geológica y agrícola de la isla.
+- **Continuidad del programa Intercosmos:** El éxito de la séptima expedición internacional consolidó el esquema de visitas cortas de una semana a la estación Salyut 6.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 
-Cuarenta y seis años después, el vuelo de la Soyuz 38 sigue siendo la referencia ineludible de la presencia latinoamericana en el espacio: Tamayo Méndez llevó a la órbita la representación de Cuba, de América Latina, de África y del «Tercer Mundo», y su triple condición de pionero latinoamericano, afrodescendiente y cubano del vuelo espacial no ha vuelto a repetirse en ningún otro cubano. En 2017 mereció la Medalla de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (Unesco) sobre Ciencia Espacial, reconocimiento a la contribución cubana a la ciencia espacial y a su puesta al servicio del desarrollo.
-
-Tras el vuelo, el cosmonauta continuó su carrera en las Fuerzas Armadas Revolucionarias de Cuba hasta alcanzar el grado de general de brigada, fue elegido diputado a la Asamblea Nacional del Poder Popular en la IX Legislatura, en 2018, y se desempeñó como jefe del Departamento de Relaciones Exteriores del Ministerio de las Fuerzas Armadas Revolucionarias. Su traje espacial, que se conserva en el Museo de la Revolución, mantiene vivo el recuerdo material de la semana en que un guantanamero orbitó 128 veces la Tierra.
+Cuarenta y seis años después, el vuelo de la Soyuz 38 permanece como el hito fundacional de la cosmonáutica latinoamericana y caribeña. En 2017 la Unesco otorgó a Tamayo Méndez su Medalla sobre Ciencia Espacial. Tras su misión orbital, el aviador guantanamero alcanzó el grado de General de Brigada de las Fuerzas Armadas Revolucionarias, presidió el grupo parlamentario de amistad cubano-ruso como diputado a la Asamblea Nacional del Poder Popular y vio conservados su escafandra *Sokol* y el módulo de descenso en museos de La Habana, testimonio material de las 128 órbitas completadas en septiembre de 1980.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 

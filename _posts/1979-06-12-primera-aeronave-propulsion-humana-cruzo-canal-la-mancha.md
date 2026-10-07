@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Reino Unido / Francia
 operator: AeroVironment
-excerpt: "El 12 de junio de 1979, el piloto Bryan Allen completó el primer cruce del Canal de la Mancha en una aeronave de propulsión humana, el Gossamer Albatross, diseñada por Paul MacCready. El vuelo de 35,7 km duró 2 horas y 49 minutos y ganó el segundo Premio Kremer de £100.000."
+excerpt: "El 12 de junio de 1979, el piloto Bryan Allen cruzó por primera vez el Canal de la Mancha en una aeronave de propulsión humana, el Gossamer Albatross, diseñada por Paul MacCready. El vuelo de 35,7 km duró 2 horas y 49 minutos y ganó el segundo Premio Kremer de £100.000."
 image: 1979-06-12-primera-aeronave-propulsion-humana-cruzo-canal-la-mancha.webp
 ---
 
@@ -19,7 +19,7 @@ image: 1979-06-12-primera-aeronave-propulsion-humana-cruzo-canal-la-mancha.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 12 de junio de 1979, el piloto Bryan Allen, de 26 años, completó el primer cruce del Canal de la Mancha en una aeronave de propulsión humana. El Gossamer Albatross, diseñado por el Dr. Paul MacCready, despegó de Folkestone (Inglaterra) —tras dos aplazamientos por vientos fuertes— y aterrizó en Cap Gris-Nez (Francia) tras recorrer 35,7 km en 2 horas y 49 minutos. La frágil máquina de 32 kg de peso y 29,77 metros de envergadura se mantenía a apenas 1,5 metros sobre el agua, impulsada exclusivamente por la fuerza de pedaleo de Allen. A pesar de sufrir deshidratación severa, calambres musculares y vientos contrarios —que requirieron atención médica al finalizar el vuelo—, el piloto logró la hazaña y, junto a MacCready, ganó el segundo Premio Kremer de £100.000 (equivalente a £639.000 en 2023). El vuelo demostró la viabilidad del vuelo humano de ultra‑baja potencia y sentó las bases tecnológicas para futuras aeronaves solares y de gran altitud.</p>
+  <p>El 12 de junio de 1979, el piloto Bryan Allen, de 26 años, cruzó por primera vez el Canal de la Mancha en una aeronave de propulsión humana. El Gossamer Albatross, diseñado por el Dr. Paul MacCready, despegó de Folkestone (Inglaterra) —tras dos aplazamientos por vientos fuertes— y aterrizó en Cap Gris-Nez (Francia) tras recorrer 35,7 km en 2 horas y 49 minutos. La frágil máquina de 32 kg de peso y 29,77 metros de envergadura se mantenía a apenas 1,5 metros sobre el agua, impulsada exclusivamente por la fuerza de pedaleo de Allen. A pesar de sufrir deshidratación severa, calambres musculares y vientos contrarios —que requirieron atención médica al finalizar el vuelo—, el piloto logró la hazaña y, junto a MacCready, ganó el segundo Premio Kremer de £100.000 (equivalente a £639.000 en 2023). El vuelo demostró la viabilidad del vuelo humano de ultra‑baja potencia y sentó las bases tecnológicas para futuras aeronaves solares y de gran altitud.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -51,7 +51,7 @@ image: 1979-06-12-primera-aeronave-propulsion-humana-cruzo-canal-la-mancha.webp
 
 ## Contexto Histórico
 
-A finales de la década de 1970, la aviación comercial vivía su edad dorada impulsada por los reactores, mientras que un puñado de entusiastas perseguía un sueño opuesto: volar solo con la fuerza del cuerpo humano. El vuelo a propulsión humana, considerado una quimera durante décadas, se convirtió en un desafío tecnológico y deportivo de primer orden gracias a los premios establecidos por el industrial británico Henry Kremer.
+En el tramo final de los años setenta, la aviación comercial vivía su edad dorada impulsada por los reactores, mientras que un puñado de entusiastas perseguía un sueño opuesto: volar solo con la fuerza del cuerpo humano. El vuelo a propulsión humana, considerado una quimera durante décadas, se convirtió en un desafío tecnológico y deportivo de primer orden gracias a los premios establecidos por el industrial británico Henry Kremer.
 
 ### Entorno social
 
@@ -77,30 +77,21 @@ La figura del "as" de la aviación se había transformado. Ya no se trataba de p
 - **Durante el vuelo:** El radio de Allen falla, impidiéndole comunicarse con los barcos de acompañamiento salvo mediante gestos. La reserva de agua estaba calculada para un vuelo de 2 horas, pero los vientos contrarios alargan la travesía. Allen sufre deshidratación severa y calambres en ambas piernas.
 - **Aproximadamente a las 8:39 a.m.:** Cuando un barco acompañante maniobra frente al Albatross para engancharlo y rescatarlo, Allen asciende ligeramente para evitar la maniobra, encuentra menos turbulencia y decide continuar.
 - **8:39 a.m. (aproximadamente):** Allen aterriza en una playa de Cap Gris-Nez, Francia. La duración total del vuelo es de 2 horas y 49 minutos.
-- **Posteriormente:** El equipo de MacCready recibe el segundo Premio Kremer de £100.000. MacCready es galardonado con el Collier Trophy, el premio más prestigioso de la aviación estadounidense.
-- **1980:** El Gossamer Albatross II es utilizado por la NASA Langley/Dryden en un programa de investigación de vuelo para estudiar las características aerodinámicas, de rendimiento, estabilidad y control de aeronaves grandes, ligeras y de baja velocidad.
+- **Posteriormente:** El equipo de MacCready recibe el segundo Premio Kremer de £100.000 y el diseñador es distinguido con el Trofeo Collier. En 1980 la NASA emplea el segundo ejemplar (*Gossamer Albatross II*) en el centro Dryden para investigar el control de aeronaves ultraligeras de gran envergadura.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-El éxito del Gossamer Albatross tuvo efectos inmediatos en varios frentes. En el ámbito deportivo y tecnológico, demostró que la eficiencia energética podía llevar al extremo: un ser humano pedaleando generaba apenas 0,3 hp (una fracción de la potencia de un cortacésped doméstico) y, sin embargo, era capaz de mantener en el aire una estructura de 30 metros de envergadura durante casi tres horas.
+En el ámbito deportivo y tecnológico, la travesía demostró hasta dónde podía llevarse la eficiencia aerodinámica: generando apenas 0,3 caballos de potencia continua (menos de 250 vatios), un ciclista sostuvo en el aire una estructura de casi treinta metros de envergadura durante casi tres horas sobre el mar.
 
-Al llegar a la playa de Cap Gris-Nez, Allen se encontraba en estado de agotamiento extremo. La deshidratación y los calambres musculares que había sufrido durante la travesía —agravados por la duración del vuelo, 49 minutos más de lo previsto— requirieron atención médica inmediata. A pesar de ello, tras recibir los primeros auxilios, el piloto fue recibido con una botella de champán, un ramo de rosas y el beso de la alcaldesa francesa. «Estoy muy cansado», declaró. «Hubo un momento en que creí que no lo iba a conseguir. Las olas estaban muy cerca, pero apreté los dientes y seguí pedaleando con furia».
-
-En el terreno industrial, el proyecto atrajo la atención de DuPont (fabricante del Mylar), que contribuyó significativamente al desarrollo. Los datos de vuelo recopilados por MacCready y su equipo influyeron en el diseño de futuras aeronaves ultraligeras y en la comprensión de la aerodinámica de baja velocidad y alta sustentación.
-
-En el plano mediático, la hazaña recibió cobertura mundial. El periodista Alistair Cooke dedicó parte de su programa "Letter From America" de la BBC (15 y 17 de junio de 1979) al logro de Allen. Bryan Allen apareció en la portada del National Geographic (noviembre de 1979) con un artículo titulado "Winged Victory of Gossamer Albatross".
+Al tocar la arena de Cap Gris-Nez, Allen presentaba deshidratación aguda y calambres tras haber pedaleado 49 minutos más de lo previsto sin reserva de agua, pese a lo cual fue recibido con champán y flores por las autoridades locales. «Hubo un momento en que creí que no lo iba a conseguir; las olas estaban muy cerca, pero apreté los dientes y seguí pedaleando», declaró. El patrocinio químico de DuPont consolidó la difusión de fibras de carbono, Kevlar y películas de Mylar en estructuras aeronáuticas ultraligeras, mientras la gesta ocupaba la portada de *National Geographic* en noviembre de 1979 y la crónica de Alistair Cooke en la BBC.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-La eficiencia energética del Gossamer Albatross (potencia requerida de solo 0,3 hp) sugirió una posibilidad revolucionaria: si un ser humano podía propulsar un avión con tan poca potencia, entonces unas cuantas células solares podrían hacer lo mismo. Esta idea condujo directamente al Gossamer Penguin (1980), la primera aeronave propulsada por energía solar, y posteriormente al Solar Challenger, que cruzó el Canal de la Mancha en 1981 ya con energía fotovoltaica.
-
-La línea tecnológica abierta por MacCready continúa hoy en día. Los "pseudosatélites" de gran altitud desarrollados por Airbus (Zephyr) y otras empresas para transmisión de banda ancha tienen su origen tecnológico en los experimentos de vuelo de ultra‑baja potencia del Gossamer Albatross. El propio MacCready declaró que el objetivo final no era el vuelo humano en sí, sino demostrar que se podía volar con muy poca energía, abriendo la puerta a aplicaciones medioambientales.
-
-El Gossamer Albatross original forma parte de la colección del Smithsonian National Air and Space Museum en Washington D.C. El Albatross II se exhibe en el Museum of Flight de Seattle. Paul MacCready falleció en 2007, pero su legado perdura como pionero de la aviación eficiente y sostenible. Bryan Allen continuó su carrera como ingeniero de software en el Jet Propulsion Laboratory (JPL) y se retiró en febrero de 2019.
+La exigua potencia requerida por el *Gossamer Albatross* abrió de inmediato el camino a la aviación solar: MacCready comprendió que ese mismo régimen energético podía obtenerse mediante paneles fotovoltaicos, lo que dio origen al *Gossamer Penguin* (1980) y al <a href="https://efemerides-aviacion.github.io/efemerides/evento/1981/07/07/solar-challenger-cruce-canal.html" style="color: #315fea; text-decoration: none;">*Solar Challenger*, que cruzó el Canal de la Mancha en 1981 alimentado por el sol</a>. De esa estirpe descienden los actuales pseudosatélites estratosféricos de gran autonomía. Hoy el *Gossamer Albatross* original se conserva en el Centro Udvar-Hazy del Instituto Smithsoniano (Virginia) y el segundo ejemplar en el Museum of Flight de Seattle.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
