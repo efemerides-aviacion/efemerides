@@ -92,7 +92,6 @@ En su despedida, la Fuerza Aérea atribuyó al Tweet más de medio siglo de serv
     <li><a href="https://www.aetc.af.mil/News/Article-Display/Article/262543/media-release-sheppard-af-set-to-retire-t-37-tweet/" style="color: #315fea; text-decoration: none;">Air Education and Training Command — MEDIA RELEASE: Sheppard, AF set to retire T-37 Tweet</a></li>
     <li><a href="https://www.af.mil/News/Article-Display/Article/119578/sheppard-af-officials-retire-workhorse-of-pilot-training/" style="color: #315fea; text-decoration: none;">U.S. Air Force — Sheppard, AF officials retire workhorse of pilot training</a></li>
     <li><a href="https://airfactsjournal.com/2012/11/the-production-t-37-tweet-serves-up-an-enduring-mystery/" style="color: #315fea; text-decoration: none;">Air Facts Journal — relato de un ingeniero de Cessna sobre el desarrollo del T-37</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/File:Cessna_XT-37_prototype_in_flight_c1954.jpg" style="color: #315fea; text-decoration: none;">Wikimedia Commons — Cessna XT-37 prototype in flight c1954 (fotografía USAF, dominio público)</a></li>
   </ul>
 </div>
 
@@ -105,7 +104,7 @@ En su despedida, la Fuerza Aérea atribuyó al Tweet más de medio siglo de serv
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-06 14:15 CST  
+- **Timestamp de verificación:** 2026-10-06 14:22 CST  
 - **Fuentes primarias/institucionales consultadas:** National Museum of the USAF, Pima Air &amp; Space Museum, MAPS Air Museum, Sheppard AFB, AETC, Smithsonian NASM  
 - **Fuentes secundarias de contraste:** Air Facts Journal  
 - **Discrepancias no conciliadas:** inicio del servicio 1956/1957/1959; fin de producción, Pima 1967/MAPS 1975 (omitido del relato).  
