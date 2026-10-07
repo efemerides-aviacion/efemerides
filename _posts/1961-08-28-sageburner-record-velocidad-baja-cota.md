@@ -22,6 +22,7 @@ image: 1961-08-28-sageburner-record-velocidad-baja-cota.webp
 <p>El 28 de agosto de 1961, sobre el campo de pruebas de White Sands, en Nuevo México, un McDonnell F4H-1F Phantom II de la Marina de Estados Unidos recorrió un pasillo medido de tres kilómetros a una velocidad media de <strong>1.452,777 km/h</strong>. Lo hizo sin rebasar en ningún momento los <strong>125 pies</strong> de altura sobre el terreno, unos 38 metros. Iban a bordo el Teniente Huntington Hardisty, piloto, y el Teniente Earl H. De Esch, oficial de interceptación por radar.</p>
 <p>El proyecto se llamaba <em>Sageburner</em>, «quemador de artemisa», por la vegetación baja del desierto que el avión sobrevolaba casi rozándola. Era el segundo intento. El primero, el 18 de mayo de aquel mismo año, había terminado con el aparato desintegrado en el aire y sus dos tripulantes muertos.</p>
 </div>
+
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Datos verificados del evento
@@ -43,6 +44,7 @@ image: 1961-08-28-sageburner-record-velocidad-baja-cota.webp
 ## Contexto Histórico
 
 El 28 de agosto de 1961, el F4H-1F Sageburner de Hardisty y De Esch voló a 1.452,777 km/h a 38 metros sobre White Sands: la rama de baja cota del programa de récords del cincuentenario de la Aviación Naval, con la que la Marina demostraba que su nuevo Phantom dominaba los dos extremos de la envolvente.
+
 ### Entorno tecnológico
 
 Volar deprisa a gran altura es, en términos aerodinámicos, relativamente cómodo: el aire es tenue y opone poca resistencia. Volar deprisa **a ras de suelo** es lo contrario. El aire denso de baja cota multiplica la resistencia y las cargas estructurales, la turbulencia térmica sobre un desierto castiga al aparato, y cualquier oscilación de cabeceo se traduce de inmediato en metros de altura ganados o perdidos. A 1.450 km/h, el avión recorre más de cuatrocientos metros por segundo: a 38 metros del suelo, el margen para corregir un error se mide en fracciones de segundo.
@@ -61,7 +63,7 @@ El Phantom II era entonces una novedad radical: un caza embarcado grande y pesad
 
 ## Desarrollo Cronológico
 
-- **27 de mayo de 1958:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/27/primer-vuelo-prototipo-yf4h1-phantom-ii.html" style="color: #315fea; text-decoration: none;">primer vuelo del prototipo YF4H-1 Phantom II</a>, el aparato que protagonizaría toda la campaña de récords.
+- **27 de mayo de 1958:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1958/05/27/primer-vuelo-prototipo-yf4h1-phantom-ii.html" style="color: #315fea; text-decoration: none;">vuelo inaugural del prototipo YF4H-1 Phantom II</a>, el aparato que protagonizaría toda la campaña de récords.
 - **6 de diciembre de 1959:** operación *Top Flight*. El Comandante Lawrence E. Flint lleva un YF4H-1 a 30.040 m en ascenso balístico.
 - **1960:** el Phantom establece marcas de velocidad en circuitos cerrados de 500 y 100 km.
 - **24 de mayo de 1961:** operación *LANA*. Los Tenientes Richard Gordon —futuro astronauta del Apolo XII— y Bobbie Long cruzan Estados Unidos de costa a costa en 2 h 47 min y ganan el Trofeo Bendix.
@@ -71,15 +73,9 @@ El Phantom II era entonces una novedad radical: un caza embarcado grande y pesad
 - **22 de noviembre de 1961:** operación *Skyburner*. Un Phantom modificado con inyección de agua alcanza 2.585,425 km/h, récord absoluto de velocidad.
 - **5 de diciembre de 1961:** el Comandante George W. Ellis establece el récord de altitud en vuelo horizontal sostenido, 20.252 m.
 
-### El accidente del 18 de mayo y lo que se corrigió
+El primer intento del 18 de mayo no había fracasado por falta de potencia ni por error de pilotaje. Falló un componente concreto: el **amortiguador de cabeceo**, el sistema que suaviza los movimientos del morro en el eje transversal o lateral. Cuando dejó de funcionar, el avión entró en una oscilación inducida por el piloto. Es un fenómeno traicionero: el aparato cabecea, el piloto corrige, la corrección llega desfasada y amplifica el movimiento en lugar de amortiguarlo. A gran velocidad y baja cota, cada ciclo es más violento que el anterior. La estructura del Phantom llegó a soportar **12 g**. Se partió en el aire, los dos motores se desprendieron y el combustible explotó. Murieron el Comandante Felsman y el Alférez Hite.
 
-El primer intento no fracasó por falta de potencia ni por error de pilotaje. Falló un componente concreto: el **amortiguador de cabeceo**, el sistema que suaviza los movimientos del morro en el eje transversal o lateral.
-
-Cuando dejó de funcionar, el avión entró en una oscilación inducida por el piloto. Es un fenómeno traicionero: el aparato cabecea, el piloto corrige, la corrección llega desfasada y amplifica el movimiento en lugar de amortiguarlo. A gran velocidad y baja cota, cada ciclo es más violento que el anterior. La estructura del Phantom llegó a soportar **12 g**. Se partió en el aire, los dos motores se desprendieron y el combustible explotó. Murieron el Comandante Felsman y el Alférez Hite.
-
-La Marina abrió una revisión a fondo. El sistema de control de cabeceo se simplificó y se hizo menos sensible. Después hubo que validar los cambios, y ahí ocurrió algo poco habitual en la industria de la época: los datos de control de vuelo del F4H-1, propiedad de McDonnell, tuvieron que transferirse a un simulador de oscilaciones de **North American Aviation**, una empresa competidora. La cesión se hizo bajo supervisión de la Oficina de Armamento de la Marina.
-
-Fue el propio Hardisty quien realizó las pruebas en aquel simulador y quien declaró que el aparato podía volar con seguridad el perfil del récord. Tres meses después de la tragedia, lo demostró en el aire.
+La Marina abrió una revisión a fondo. El sistema de control de cabeceo se simplificó y se hizo menos sensible. Después hubo que validar los cambios, y ahí ocurrió algo poco habitual en la industria de la época: los datos de control de vuelo del F4H-1, propiedad de McDonnell, tuvieron que transferirse a un simulador de oscilaciones de **North American Aviation**, una empresa competidora. La cesión se hizo bajo supervisión de la Oficina de Armamento de la Marina. Fue el propio Hardisty quien realizó las pruebas en aquel simulador y quien declaró que el aparato podía volar con seguridad el perfil del récord. Tres meses después de la tragedia, lo demostró en el aire.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -102,6 +98,7 @@ El avión del récord, el Bu. No. 145307, fue entregado al Museo Nacional del Ai
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Referencias Verificadas
+
 <div class="references">
   <ul>
     <li><a href="https://www.fai.org/record/8516" style="color: #315fea; text-decoration: none;">Fédération Aéronautique Internationale — Record File n.º 8516, Huntington Hardisty (USA), velocidad sobre 3 km, 1.452,777 km/h, 28 de agosto de 1961</a></li>
@@ -125,9 +122,10 @@ El avión del récord, el Bu. No. 145307, fue entregado al Museo Nacional del Ai
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-03 14:31:30 CST  
-- **Fuentes primarias/institucionales consultadas:** Fédération Aéronautique Internationale (expediente 8516: velocidad homologada, fecha, emplazamiento, tripulante, clase, subclase y grupo); Smithsonian National Air and Space Museum (ficha de colección del aparato, con relato del proyecto y del accidente previo); U.S. Navy (fotografía oficial 330-PSA-182-61 y su pie de prensa contemporáneo).
-- **Fuentes secundarias de contraste:** This Day in Aviation (dos entradas: el récord y el accidente de mayo), Aviation Safety Network, Wikipedia (EN).
-- **Discrepancias resueltas:** La velocidad se consigna en el valor homologado por la FAI, 1.452,777 km/h; se documentan en nota las tres cifras en millas que circulan, incluida la errata de 907,769 mph. El emplazamiento se explica como White Sands junto a Holloman, sin contradicción entre fuentes. Se aclara la designación del aparato: F4H-1F en 1961, redesignado F-4A en 1962, distinto del F-4B de producción posterior.
-- **Nivel de confianza:** Alto. El hecho, la fecha, la cifra, el aparato y el piloto constan en el registro de la FAI, en la ficha del museo que custodia el avión y en la fotografía oficial de la Marina tomada durante el vuelo.
-- **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".
+
+- **Timestamp de verificación:** 2026-10-07 12:00:00 CST
+- **Fuentes primarias/institucionales consultadas:** Fédération Aéronautique Internationale (expediente `8516`), Smithsonian National Air and Space Museum (`A19690213000`) y U.S. Navy (`330-PSA-182-61`).
+- **Fuentes secundarias de contraste:** This Day in Aviation (`28 August 1961` y `18 May 1961`), Aviation Safety Network (`153104`) y Wikipedia (`F-4 Phantom II`).
+- **Discrepancias resueltas:** Se adopta la velocidad homologada por la FAI (1.452,777 km/h = 902,714 mph), se precisa la colindancia de White Sands con Holloman AFB y se deslinda la designación original `F4H-1F` (1961) de su posterior renombramiento a `F-4A` (1962).
+- **Nivel de confianza:** Alto
+- **Cláusula final:** «Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]».
