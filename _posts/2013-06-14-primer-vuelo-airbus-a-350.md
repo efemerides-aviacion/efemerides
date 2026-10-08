@@ -19,7 +19,7 @@ image: 2013-06-14-primer-vuelo-airbus-a-350.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 14 de junio de 2013, a las 10:00 a.m. (hora local), el prototipo del Airbus A350 XWB (eXtra Wide Body) despegó del aeropuerto de Toulouse-Blagnac, en Francia, para realizar su primer vuelo. Con un peso de aproximadamente 221 toneladas, el avión surcó los cielos del suroeste de Francia durante 4 horas y 5 minutos, pilotado por Peter Chandler (jefe de pilotos de pruebas de Airbus) junto a una tripulación de cinco personas. El vuelo se desarrolló sin incidentes y el avión aterrizó a las 2:05 p.m., siendo recibido con alivio y entusiasmo por los ingenieros de la compañía. El A350 XWB —cuyo desarrollo comenzó en 2006 tras el fracaso de una propuesta inicial— representa la respuesta de Airbus al Boeing 787 Dreamliner. En el momento de su primer vuelo, la aeronave ya acumulaba 613 pedidos. La campaña de pruebas se prolongó durante 14 meses utilizando cinco aviones, acumulando 2.500 horas de vuelo, y el A350-900 entró en servicio comercial el 15 de enero de 2015 con Qatar Airways.</p>
+  <p>El 14 de junio de 2013, a las 10:00 a.m. (hora local), el prototipo del Airbus A350 XWB (eXtra Wide Body) inició su carrera de despegue en Toulouse-Blagnac (Francia) para completar su primer vuelo. Con un peso de aproximadamente 221 toneladas, el avión surcó los cielos del suroeste de Francia durante 4 horas y 5 minutos, pilotado por Peter Chandler (jefe de pilotos de pruebas de Airbus) junto a una tripulación de cinco personas. El vuelo se desarrolló sin incidentes y el avión aterrizó a las 2:05 p.m., siendo recibido con alivio y entusiasmo por los ingenieros de la compañía. El A350 XWB —cuyo desarrollo comenzó en 2006 tras el fracaso de una propuesta inicial— representa la respuesta de Airbus al Boeing 787 Dreamliner. En el momento de su primer vuelo, la aeronave ya acumulaba 613 pedidos. La campaña de pruebas se prolongó durante 14 meses utilizando cinco aviones, acumulando 2.500 horas de vuelo, y el A350-900 entró en servicio comercial el 15 de enero de 2015 con Qatar Airways.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -27,36 +27,14 @@ image: 2013-06-14-primer-vuelo-airbus-a-350.webp
 ## Datos verificados del evento
 
 - **Fecha del primer vuelo:** 14 de junio de 2013 
-- **Hora de despegue:** 10:00 a.m. (hora local)
-- **Hora de aterrizaje:** 2:05 p.m. (hora local)
-- **Duración del vuelo:** 4 horas 5 minutos 
+- **Hora de despegue y aterrizaje:** 10:00 hora local / 14:05 hora local (duración total de 4 horas y 5 minutos)
 - **Lugar:** Aeropuerto de Toulouse-Blagnac, Francia 
-- **Prototipo:** MSN1 (Manufacturer Serial Number 1), matrícula F-WXWB 
-- **Peso al despegue:** Aproximadamente 221 toneladas 
-- **Piloto principal:** Peter Chandler (jefe de pilotos de pruebas de Airbus) 
-- **Tripulación completa:** Peter Chandler, Guy Magrin, Pascal Verneau, Fernando Alonso, Patrick du Ché, Emanuele Costanzo (6 personas) 
-- **Modelo:** A350-900 (primera variante de la familia A350 XWB) 
-- **Motores:** 2 × Rolls-Royce Trent XWB 
-- **Pedidos en el momento del primer vuelo:** 613 unidades 
-- **Entrada en servicio:** 15 de enero de 2015 (con Qatar Airways) 
-
-### Especificaciones Técnicas del A350-900
-
-- **Tripulación de cabina:** 2 pilotos
-- **Capacidad de pasajeros:** 300-350 (configuración típica de 3 clases) / hasta 440 en configuración densa
-- **Longitud:** 66,80 m
-- **Envergadura:** 64,75 m (con winglets curvados característicos)
-- **Altura:** 17,05 m
-- **Superficie alar:** 443 m²
-- **Peso máximo al despegue (MTOW):** 283.000 kg
-- **Peso máximo sin combustible (MZFW):** 192.000 kg
-- **Capacidad de combustible:** 138.000 L
-- **Planta motriz:** 2 × Rolls-Royce Trent XWB-84
-- **Empuje unitario:** 84.000 lbf (374 kN)
-- **Velocidad de crucero:** Mach 0,85 (903 km/h)
-- **Velocidad máxima:** Mach 0,89 (945 km/h)
-- **Alcance:** 8.500 millas náuticas (15.740 km)
-- **Techo de servicio:** 13.100 m (43.000 ft)
+- **Prototipo y modelo:** MSN1 (Manufacturer Serial Number 1), matrícula F-WXWB, variante Airbus A350-900 (66,80 m de longitud, 64,75 m de envergadura, 443 m² de superficie alar y capacidad para 300–350 pasajeros en tres clases)
+- **Peso al despegue:** aproximadamente 221 toneladas (peso máximo al despegue de serie de 283 toneladas)
+- **Tripulación completa (6 integrantes):** pilotos de pruebas Peter Chandler (jefe de pilotos de ensayo de Airbus) y Guy Magrin; ingeniero de pruebas de vuelo del proyecto Pascal Verneau; responsable del área de ensayos en vuelo Fernando Alonso; e ingenieros de pruebas Patrick du Ché y Emanuele Costanzo
+- **Motores:** 2 × Rolls-Royce Trent XWB-84 de 84.000 lbf (374 kN) de empuje unitario
+- **Velocidad de crucero y alcance:** Mach 0,85 (máxima Mach 0,89) y 8.500 millas náuticas (15.740 km), con techo de servicio de 13.100 m (43.000 pies)
+- **Pedidos en el momento del primer vuelo y entrada en servicio:** 613 unidades encargadas; estreno comercial el 15 de enero de 2015 con Qatar Airways
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -66,7 +44,7 @@ A mediados de la década de 2000, el mercado de aviones comerciales de fuselaje 
 
 ### Entorno social
 
-La industria de la aviación comercial entraba en una era de alta eficiencia y alcance extendido. Las aerolíneas demandaban aviones más ligeros, con mayor autonomía y menor consumo de combustible por asiento. El petróleo había alcanzado precios históricos, y la presión por reducir costes operativos era máxima.
+El transporte aéreo de largo radio demandaba una nueva generación de bimotores de alta eficiencia y alcance extendido. Las aerolíneas reclamaban estructuras más ligeras, con mayor autonomía y menor consumo de combustible por asiento. El petróleo había alcanzado precios históricos, y la presión por reducir costes operativos era máxima.
 
 ### Entorno tecnológico
 
@@ -82,25 +60,14 @@ El primer vuelo del A350 se produjo tres días antes del Salón Aeronáutico de 
 
 ## Desarrollo Cronológico
 
-- **2004:** Airbus presenta una propuesta inicial para un competidor del Boeing 787, denominada «A350», basada en un fuselaje de A330. Los clientes potenciales la rechazan por no ser suficientemente innovadora 
-- **diciembre de 2006:** Airbus lanza oficialmente el programa A350 XWB (eXtra Wide Body), un diseño de hoja limpia (clean-sheet) 
-- **2006-2013:** Fase de desarrollo y construcción del prototipo 
-- **14 de junio de 2013, 10:00 a.m.:** Primer vuelo del prototipo MSN1 desde Toulouse-Blagnac, pilotado por Peter Chandler 
-- **14 de junio de 2013, 2:05 p.m.:** Aterrizaje del prototipo tras 4 horas y 5 minutos de vuelo 
-- **2013-2014:** Campaña de pruebas con cinco aviones, acumulando 2.500 horas de vuelo en 14 meses 
-- **15 de enero de 2015:** Entrada en servicio del A350-900 con Qatar Airways 
-- **2016:** Entrada en servicio del A350-1000 (versión de mayor capacidad) 
-
-### El Vuelo: una prueba sin sobresaltos
-
-El primer vuelo del A350 se desarrolló con una normalidad sorprendente para un avión nuevo de estas características. Peter Chandler, jefe de pilotos de pruebas de Airbus, declaró tras el aterrizaje:
-
-> *«After the first few minutes it didn't feel like we were doing a first flight. It felt like we were flying an aeroplane at the end of a test programme, it was so relaxed and so predictable»* 
-(«Después de los primeros minutos, no parecía que estuviéramos haciendo un primer vuelo. Parecía que estábamos volando un avión al final de un programa de pruebas, era tan relajado y tan predecible»).
-
-La ruta del vuelo incluyó pruebas básicas de manejo, control de sistemas y comportamiento del motor. Se evaluó la estabilidad del avión en diferentes configuraciones, se probaron los sistemas hidráulicos y eléctricos, y se verificó el correcto funcionamiento de la aviónica. El avión alcanzó altitudes de hasta 30.000 pies y velocidades de hasta 250 nudos.
-
-Fernando Alonso, entonces jefe de la división de pruebas de vuelo de Airbus, había declarado antes del despegue: *«If you think it looks beautiful on the ground you should see it flying»* («Si crees que se ve hermoso en tierra, deberías verlo volando»).
+- **2004:** Airbus presenta una propuesta inicial para un competidor del Boeing 787, denominada «A350», basada en el fuselaje del A330. Los clientes potenciales reclaman un diseño completamente nuevo.
+- **Diciembre de 2006:** Airbus lanza oficialmente el programa **A350 XWB** (*eXtra Wide Body*), un diseño de hoja limpia (*clean-sheet*) que aprovecha los avances en materiales compuestos e hidráulica de 5.000 psi introducidos en el <a href="https://efemerides-aviacion.github.io/efemerides/evento/2005/04/27/primer-vuelo-airbus-a380.html" style="color: #315fea; text-decoration: none;">programa Airbus A380 estrenado en vuelo en abril de 2005</a>.
+- **2006–2013:** fase de ingeniería de detalle, fabricación de paneles de fibra de carbono y ensamblaje final del prototipo MSN1 en Toulouse.
+- **14 de junio de 2013, 10:00 hora local:** el prototipo MSN1 (F-WXWB) se eleva desde la pista 32L de Blagnac con un peso de 221 toneladas. Durante 4 horas y 5 minutos sobre el suroeste de Francia y los Pirineos, la tripulación recoge el tren de aterrizaje, asciende hasta 30.000 pies de altitud, explora la envolvente inicial de velocidades hasta Mach 0,80 y verifica los modos de mando electrónico *fly-by-wire*, los sistemas hidráulicos y eléctricos y la respuesta de los dos motores Rolls-Royce Trent XWB.
+- **14 de junio de 2013, 14:05 hora local:** tras una pasada a baja altura sobre Blagnac, el MSN1 toma tierra sin incidencias. Al descender del avión, el comandante de pruebas Peter Chandler resumió la madurez del prototipo: «Después de los primeros minutos no parecía que estuviéramos haciendo un vuelo inaugural, sino volando un avión al final de su campaña de ensayos, de tan relajado y predecible que resultaba».
+- **2013–septiembre de 2014:** campaña de certificación con cinco aeronaves de ensayo que completan más de 2.600 horas de vuelo en catorce meses hasta obtener el certificado de tipo de EASA y de la FAA.
+- **15 de enero de 2015:** entrada en servicio comercial del A350-900 con Qatar Airways en la ruta Doha–Fráncfort.
+- **24 de noviembre de 2016 – febrero de 2018:** primer vuelo y entrada en servicio comercial de la variante alargada de mayor capacidad **A350-1000**.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

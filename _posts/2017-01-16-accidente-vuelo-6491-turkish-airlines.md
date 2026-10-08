@@ -69,25 +69,19 @@ La tripulación estaba compuesta por ciudadanos turcos, mientras que las víctim
 
 ## Desarrollo Cronológico
 
-- **16 de enero de 2017, aproximadamente 01:00 (UTC+6):** El vuelo TK6491 se aproxima al aeropuerto de Manas, Bishkek, después de un vuelo de aproximadamente 5 horas desde Hong Kong. La tripulación ha estado en servicio durante más de 18 horas, incluyendo escalas y retrasos.
+- **16 de enero de 2017, aproximadamente 07:00 hora local (01:00 UTC):** El vuelo TK6491 se aproxima en medio de una densa niebla helada al aeropuerto de Manas, Bishkek, tras despegar de Hong Kong. La tripulación acumula una prolongada jornada de servicio nocturno.
 
-- **01:05 (UTC+6):** El controlador de tránsito aéreo autoriza la aproximación ILS a la pista 26 del aeropuerto de Manas. Las condiciones meteorológicas son de noche, con visibilidad buena (10 km), nubes dispersas a 1,500 pies y viento ligero.
+- **07:15 hora local (01:15 UTC):** El controlador de tránsito aéreo autoriza la aproximación ILS categoría II a la pista 26 del aeropuerto de Manas con alcance visual en pista (RVR) reducido por niebla.
 
-- **Durante la aproximación:** La tripulación, sin darse cuenta, captura una **falsa senda de planeo** generada por el ILS. En lugar de la senda estándar de 3°, la aeronave sigue una pendiente de descenso de aproximadamente 9°, mucho más pronunciada de lo normal.
+- **Durante la aproximación:** Al llegar alta y rápida al punto de interceptación, la aeronave sobrepasa el lóbulo principal de 3° y el piloto automático captura a las 07:16:29 una **falsa senda de planeo** armónica de 9° generada por el transmisor ILS.
 
-- **Aproximadamente 01:08 (UTC+6):** El sistema GPWS se activa emitiendo alertas auditivas: "SINK RATE" (exceso de velocidad de descenso) y posteriormente "WHOOP WHOOP PULL UP" (alerta de impacto inminente contra el terreno). La tripulación no responde adecuadamente a estas alertas.
+- **07:16:34–07:16:50:** El sistema GPWS emite avisos de «Sink Rate» y «Pull Up», mientras dos de los tres receptores de piloto automático se desconectan por discrepancia de señal; la tripulación continúa descendiendo entre la niebla sin verificar la altitud respecto a la distancia DME.
 
-- **Altura crítica:** La aeronave desciende rápidamente. A **58 pies (18 metros) sobre el nivel del suelo**, el piloto al mando decide iniciar un go-around (motor y al aire). Sin embargo, la decisión se toma demasiado tarde.
+- **Altura crítica (07:16:51):** A solo **58 pies (18 metros) de radioaltímetro**, los pilotos pulsan el interruptor TO/GA para iniciar un motor y al aire (*go-around*), pero a esa cota y con alto régimen de descenso el Boeing 747 ya no dispone de margen físico para evitar el contacto con el suelo.
 
-- **01:09 (UTC+6):** El Boeing 747-412F impacta contra el terreno a una velocidad de aproximadamente 250 km/h, en la aldea de Dacha-Suu. El impacto y la posterior explosión destruyen 43 viviendas en un radio de 300 metros.
+- **07:17:00 hora local (01:17 UTC):** El carguero toca brevemente el terreno más allá del extremo occidental de la pista 26, atraviesa el vallado perimetral y se estrella a unos 250 km/h contra la aldea colindante de Dacha-Suu, destruyendo unas 38–43 viviendas.
 
-- **Inmediatamente después:** Los servicios de emergencia kirguisos (Ministerio de Situaciones de Emergencia) se movilizan. El fuego se extiende rápidamente debido al combustible de la aeronave.
-
-- **17 de enero de 2017:** El gobierno de Kirguistán declara luto nacional. Equipos de investigación de la CIAA (Comisión Interestatal de Aviación de la CEI), Turquía (DGCA) y Estados Unidos (NTSB, como país de diseño del Boeing 747) se desplazan a Bishkek.
-
-- **Enero – diciembre de 2017:** Se recuperan las grabadoras de vuelo (FDR y CVR). El análisis de datos y voces revela la secuencia exacta de eventos.
-
-- **Diciembre de 2017:** La CIAA publica el informe final de la investigación.
+- **17 de enero de 2017 – marzo de 2020:** Kirguistán declara duelo nacional y el Comité Interestatal de Aviación (MAK / IAC) analiza las cajas negras y presenta el informe definitivo en el que vincula el siniestro con la entrada tardía en la senda de planeo y la captura de un lóbulo falso de 9° sin supervisión cruzada de altitud y distancia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -99,14 +93,11 @@ La tripulación estaba compuesta por ciudadanos turcos, mientras que las víctim
 
 - **Hallazgos de la investigación (CIAA):**
 
-    1. **Causa directa:** La tripulación capturó una **falsa senda de planeo** del ILS (9° en lugar de 3°), un fenómeno conocido en el aeropuerto de Manas pero no adecuamente señalizado en las cartas de aproximación.
-    2. **Aproximación inestable:** La aeronave descendió con una velocidad vertical excesiva (más de 2,000 pies por minuto) durante la aproximación final.
-    3. **Ignoraron las alertas del GPWS:** El sistema emitió alertas durante 17 segundos antes del impacto, pero la tripulación no ejecutó el procedimiento de "PULL UP" de inmediato.
-    4. **Go-around tardío:** La decisión de abortar el aterrizaje se tomó a solo 58 pies de altura, insuficiente para que el Boeing 747 pudiera recuperar altitud.
-    5. **Factores contribuyentes:**
-        - **Fatiga:** La tripulación había estado en servicio durante más de 18 horas, superando los límites regulatorios recomendados.
-        - **Presión operativa:** El vuelo ya llevaba retraso y la tripulación estaba bajo presión para cumplir con el horario.
-        - **Falta de familiaridad:** La tripulación no conocía el fenómeno de falsas sendas de planeo en Manas, y las cartas de aproximación no lo señalizaban adecuadamente.
+    1. **Causa directa:** La tripulación inició el descenso desde demasiada altitud y el piloto automático enganchó un **lóbulo espurio de 9°** en vez de la pendiente nominal de 3° del ILS de la pista 26.
+    2. **Aproximación inestable:** La aeronave descendió con una velocidad vertical excesiva (más de 2.000 pies por minuto) durante la aproximación final sin que los pilotos verificaran la relación altitud-distancia en las tablas de la carta.
+    3. **Desatención a las alertas del GPWS:** El sistema emitió avisos de descenso excesivo y proximidad al terreno antes del impacto, sin que se ejecutara de inmediato la maniobra de escape.
+    4. **Motor y al aire tardío:** La orden de abortar el aterrizaje se aplicó a solo 58 pies de altura sobre el terreno, insuficiente para detener la inercia de descenso del carguero.
+    5. **Factores contribuyentes:** El cansancio acumulado en la operación nocturna, la escasa visibilidad por niebla engelante y la falta de comprobación cruzada del paso por el punto de interceptación (FAP).
 
 - **Recomendaciones de la CIAA:**
 

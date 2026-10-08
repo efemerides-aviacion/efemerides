@@ -18,7 +18,7 @@ image: 2009-12-11-primer-vuelo-airbus-a400m-atlas.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 11 de diciembre de 2009, a las 10:15 hora local, el prototipo MSN001 del Airbus A400M Atlas (apodado "Grizzly 1") despegó por primera vez desde el Aeropuerto de Sevilla-San Pablo. La tripulación, liderada por el jefe de pilotos de pruebas militares Ed Strongman y el piloto español Ignacio "Nacho" Lombo, completó un vuelo de 3 horas y 47 minutos que validó el diseño básico del avión. El A400M, impulsado por cuatro motores turbohélice Europrop TP400-D6 de 11.000 shp (8.200 kW) cada uno —los más potentes del mundo occidental—, estaba diseñado para reemplazar al C-130 Hercules y al C-160 Transall en siete naciones europeas. El programa había sufrido retrasos de casi tres años y crisis financieras que amenazaron su cancelación. El MSN001 acumuló 1.448 horas de vuelo antes de ser retirado en noviembre de 2013 y hoy se exhibe en el Museo Aeroscopia de Toulouse.</p>
+<p>El 11 de diciembre de 2009, a las 10:15 hora local, el prototipo MSN001 del Airbus A400M Atlas (apodado "Grizzly 1") realizó su despegue inaugural en la pista de Sevilla-San Pablo. La tripulación, liderada por el jefe de pilotos de pruebas militares Ed Strongman y el piloto español Ignacio "Nacho" Lombo, completó un vuelo de 3 horas y 47 minutos que validó el diseño básico del avión. El A400M, impulsado por cuatro motores turbohélice Europrop TP400-D6 de 11.000 shp (8.200 kW) cada uno —los más potentes del mundo occidental—, estaba diseñado para reemplazar al C-130 Hercules y al C-160 Transall en siete naciones europeas. El programa había sufrido retrasos de casi tres años y crisis financieras que amenazaron su cancelación. El MSN001 acumuló 1.448 horas de vuelo antes de ser retirado en noviembre de 2013 y hoy se exhibe en el Museo Aeroscopia de Toulouse.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -71,7 +71,7 @@ El A400M es considerado el mayor programa de defensa cooperativo europeo. Su nom
 - **2009, 11 de diciembre, 10:15:** El MSN001 despega de Sevilla con la tripulación liderada por Ed Strongman. El vuelo incluye pruebas de manejo a baja velocidad, extensión/retracción del tren de aterrizaje y verificación de sistemas básicos.
 - **2009, 11 de diciembre, 14:02:** Aterrizaje exitoso tras 3 horas y 47 minutos.
 - **2010-2013:** Campaña de pruebas intensiva. Se construyen cinco prototipos adicionales (MSN002 a MSN006). El MSN001 acumula 1.448 horas de vuelo.
-- **2013, abril:** El A400M recibe la certificación de tipo de la Agencia Europea de Seguridad Aérea (EASA).
+- **2013, abril:** El A400M obtiene el certificado de tipo civil otorgado por la Agencia Europea de Seguridad Aérea (EASA).
 - **2013, agosto:** Primera entrega a la Fuerza Aérea Francesa (MSN007, F-RBAA).
 - **2013, 4 de noviembre:** Último vuelo del MSN001, desde Sevilla a Toulouse, donde es destinado al Museo Aeroscopia.
 - **2015, 9 de mayo:** Primer accidente grave. Un A400M de la Fuerza Aérea Turca (MSN023) se estrella cerca de Ankara, matando a 4 tripulantes. La investigación revela un error en el software de los motores.
@@ -91,30 +91,7 @@ El A400M es considerado el mayor programa de defensa cooperativo europeo. Su nom
 
 ## Legado
 
-El Airbus A400M Atlas es hoy el avión de transporte militar más avanzado de Europa. Ha participado en misiones humanitarias (terremoto de Turquía-Siria 2023, evacuación de Afganistán 2021), operaciones militares (Mali, Iraq) y reabastecimiento aéreo de cazas Eurofighter, Rafale y Typhoon. El prototipo MSN001, conservado en el Museo Aeroscopia de Toulouse (junto al Concorde F-BVFB y al Airbus A380 MSN001), es un testimonio de la cooperación industrial europea y de la perseverancia ante la adversidad. En 2019, el A400M superó las 100.000 horas de vuelo; en 2024, las 200.000. El programa ha enfrentado críticas por costos (el precio unitario alcanzó los 150 millones de euros), pero sigue siendo un orgullo para la industria aeronáutica europea.
-
-### Estado actual del programa (2026)
-
-El Airbus A400M Atlas ha consolidado su posición como el avión de transporte militar más avanzado de Europa. A marzo de 2026, el programa acumula los siguientes hitos:
-
-- **Pedidos totales:** 178 unidades confirmadas por 10 países
-- **Entregas realizadas:** 137 unidades
-- **Horas de vuelo acumuladas:** más de 200.000
-- **Países operadores:** Francia, Alemania, España, Reino Unido, Turquía, Bélgica, Luxemburgo, Malasia, Kazajistán, Indonesia (desde 2025)
-- **Principales hitos recientes:**
-  - Enero de 2026: Francia recibe su 25º ejemplar, consolidándose como el mayor operador
-  - Marzo de 2026: Indonesia recibe su segundo A400M, completando su pedido inicial de 2 unidades
-  - Kazajistán recibió su primer ejemplar en diciembre de 2024 (segundo pendiente de entrega)
-- **Precio unitario actual:** aproximadamente 150 millones de euros
-
-El programa, que enfrentó retrasos y sobrecostos en sus inicios, ha demostrado su valía en misiones humanitarias, operaciones militares y reabastecimiento aéreo. Airbus Defence and Space continúa ofreciendo el A400M a nuevos clientes potenciales en Asia, Oriente Medio y Sudamérica, compitiendo directamente con el Lockheed Martin C-130J Super Hercules.
-
-### Discrepancias encontradas y resueltas
-
-- **Duración del vuelo:** Algunas fuentes mencionan "3 horas y 45 minutos"; otras "3 horas y 47 minutos". Se adopta la cifra de 3 horas 47 minutos, que es la más repetida en las fuentes oficiales.
-- **Matrícula del prototipo:** La matrícula temporal era F-WWMT (para vuelos de prueba). Posteriormente se le asignó EC-404 (matrícula española de pruebas). No hay contradicción, son dos matrículas en momentos distintos.
-- **Fecha del último vuelo del MSN001:** Las fuentes coinciden en el 4 de noviembre de 2013.
-- **Horas totales del MSN001:** Las fuentes coinciden en 1.448 horas.
+El Airbus A400M Atlas es hoy el avión de transporte militar más avanzado de Europa. Ha participado en misiones humanitarias (terremoto de Turquía-Siria 2023, evacuación de Afganistán 2021), operaciones militares (Mali, Iraq) y reabastecimiento aéreo de cazas Eurofighter, Rafale y Typhoon. El prototipo MSN001, conservado en el Museo Aeroscopia de Toulouse (junto al Concorde F-BVFB y al Airbus A380 MSN001), es un testimonio de la cooperación industrial europea y de la perseverancia ante la adversidad. Tras superar las 100.000 horas de vuelo en 2019 y las 200.000 en 2024, el programa acumula en 2026 un total de 178 pedidos firmes de diez naciones —las siete socias fundadoras de OCCAR más Malasia, Kazajistán e Indonesia— y más de 135 ejemplares entregados, consolidándose como columna vertebral del transporte aéreo estratégico y táctico europeo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

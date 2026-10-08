@@ -27,7 +27,7 @@ image: 2010-05-26-primer-vuelo-boeing-x-51-waverider.webp
 
 ## Datos verificados del evento
 
-- **Fecha:** 26 de mayo de 2010 (previsto inicialmente para el 25 de mayo, retrasado 24 horas por la presencia de un barco de carga en el área de pruebas) 
+- **Fecha:** 26 de mayo de 2010 (aplazado un día respecto al 25 de mayo previsto tras detectarse un buque mercante dentro del polígono marítimo restringido) 
 - **Lugar:** Naval Air Station Point Mugu Sea Range, Océano Pacífico frente a la costa sur de California 
 - **Aeronave de lanzamiento:** Boeing B-52H Stratofortress (despegue desde Edwards AFB) 
 - **Vehículo de prueba:** Boeing X-51A WaveRider (designado X-51 en 2005) 
@@ -54,7 +54,7 @@ A finales de la primera década del siglo XXI, Estados Unidos buscaba mantener s
 
 ### Entorno tecnológico
 
-Antes del X-51, el vehículo experimental X-43 de la NASA había demostrado que el vuelo scramjet era posible, pero su motor quemó durante solo 12 segundos y utilizaba hidrógeno como combustible. El X-51A fue diseñado para superar estas limitaciones: utilizó JP-7, un combustible hidrocarburo más práctico para aplicaciones militares, y fue construido para soportar las extremas temperaturas y presiones del vuelo hipersostenido. El diseño "WaveRider" (jinete de onda) aprovecha las ondas de choque generadas por su propio fuselaje para generar sustentación, una técnica conocida como "compression lift". El vehículo media 7,62 metros de largo, pesaba 1.814 kilogramos en vacío y llevaba 120 kilogramos de combustible JP-7 a bordo.
+Antes del X-51, el vehículo experimental X-43 de la NASA había demostrado que el vuelo scramjet era posible, pero su motor quemó durante solo 12 segundos y utilizaba hidrógeno como combustible. El X-51A fue diseñado para superar estas limitaciones mediante el motor **Pratt & Whitney Rocketdyne SJY61**, un estatorreactor de combustión supersónica (*scramjet*) que mantenía el flujo de aire a régimen supersónico a través de la cámara sin emplear compresores rotativos ni transportar tanques de oxígeno. En lugar de hidrógeno criogénico, empleaba hidrocarburo **JP-7**, que circulaba primero por los conductos de las paredes del motor para refrigerar térmicamente la estructura antes de inyectarse y quemarse. El diseño aerodinámico *WaveRider* («jinete de onda»), de 7,62 metros de longitud y 1.814 kilogramos de peso, aprovechaba además sus propias ondas de choque de proa para generar sustentación por compresión (*compression lift*).
 
 ### Entorno cultural
 
@@ -77,31 +77,20 @@ El X-51A fue apodado "WaveRider" en honor a los diseños aerodinámicos teórico
 - **Pérdida de telemetría:** Controladores en tierra notan anomalías en algunos sensores y pierden la transmisión de datos. Se activa la autodestrucción del vehículo según lo planeado.
 - **Finalización de la misión:** El X-51A se destruye sobre el Océano Pacífico tras más de 200 segundos de vuelo autónomo total.
 
-### El Motor Scramjet: La Clave del Éxito
-
-El corazón del X-51A WaveRider fue su motor **Pratt & Whitney Rocketdyne SJY61**, un scramjet (supersonic combustion ramjet) de combustión supersónica. A diferencia de los motores a reacción convencionales, que utilizan compresores para ralentizar el aire entrante a velocidades subsónicas, los scramjet mantienen el flujo de aire a velocidades supersónicas durante todo el proceso de combustión.
-
-**Ventajas del scramjet:**
-- **Extracción de oxígeno del aire:** A diferencia de los cohetes, los scramjet no necesitan llevar tanques de oxígeno, lo que reduce significativamente el peso y permite transportar más carga útil.
-- **Combustible JP-7:** El X-51A utilizó JP-7, un combustible hidrocarburo práctico para aplicaciones militares, en lugar de hidrógeno.
-- **Refrigeración por combustible:** El diseño del motor utilizaba el propio combustible JP-7 para refrigerar la estructura antes de ser inyectado en la cámara de combustión, soportando temperaturas extremas.
-
-El vuelo de 140 segundos del scramjet batió por un amplio margen el récord anterior de 12 segundos establecido por el X-43 de la NASA en 2004. Charlie Brink, gerente del programa, declaró: *"Estamos extasiados de haber logrado muchos de los puntos de prueba del X-51A durante su primera misión hipersónica. Esto nos da una gran confianza"*.
-
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
 - **Récord mundial de vuelo scramjet:** El X-51A estableció un nuevo récord de 140 segundos de vuelo propulsado por scramjet, superando ampliamente el récord de 12 segundos del X-43 y demostrando la viabilidad de la tecnología para aplicaciones prácticas.
 - **Base para armas hipersónicas:** La tecnología demostrada por el X-51A sentó las bases para el desarrollo del High Speed Strike Weapon (HSSW), un misil hipersónico que volaría a Mach 5-6 con un alcance de 930-1.110 kilómetros.
-- **Potencial para acceso al espacio:** Los scramjet podrían utiliz algún día como primera etapa de sistemas de lanzamiento espacial reutilizables, eliminando la necesidad de llevar oxidante en grandes tanques.
+- **Potencial para acceso al espacio:** Los scramjet podrían utilizarse algún día como primera etapa de sistemas de lanzamiento espacial reutilizables, eliminando la necesidad de llevar oxidante en grandes tanques.
 - **Cuatro vehículos construidos:** Se construyeron cuatro X-51A. Tras el éxito del primer vuelo, se realizaron tres vuelos adicionales (2011, 2012 y 2013), de los cuales solo el cuarto fue completamente exitoso, alcanzando 210 segundos de vuelo scramjet.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El primer vuelo del X-51A WaveRider el 26 de mayo de 2010 marcó un antes y después en la investigación hipersónica. Aunque el programa concluyó en 2013, su legado perdura en los desarrollos actuales de armas hipersónicas y vehículos de acceso al espacio.
+El primer vuelo del X-51A WaveRider el 26 de mayo de 2010 abrió una nueva etapa en la investigación hipersónica. Aunque el programa concluyó en 2013, su legado perdura en los desarrollos actuales de armas hipersónicas y vehículos de acceso al espacio.
 
 **Aplicaciones futuras (según declaraciones de la época):**
 - **Armas hipersónicas:** Capacidad de volar 600 millas náuticas en 10 minutos para atacar objetivos a larga distancia.
@@ -110,7 +99,7 @@ El primer vuelo del X-51A WaveRider el 26 de mayo de 2010 marcó un antes y desp
 
 **El estado del programa:** El X-51A realizó su cuarto y último vuelo el 1 de mayo de 2013, alcanzando Mach 5,1 durante 210 segundos antes de quedarse sin combustible. El programa fue considerado un éxito y los cuatro vehículos construidos completaron su misión. La tecnología desarrollada ha sido aplicada en programas posteriores como el ARRW (Air-Launched Rapid Response Weapon) de la Fuerza Aérea de EE. UU.
 
-Joseph Vogel, director de Hipersónicos de Boeing, declaró: *"Este es un nuevo récord mundial y establece la base para varias aplicaciones hipersónicas, incluyendo acceso al espacio, reconocimiento, ataque, alcance global y transporte comercial"*.
+Joseph Vogel, Director de Hipersónicos de Boeing, declaró: *"Este es un nuevo récord mundial y establece la base para varias aplicaciones hipersónicas, incluyendo acceso al espacio, reconocimiento, ataque, alcance global y transporte comercial"*.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

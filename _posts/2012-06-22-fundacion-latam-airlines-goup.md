@@ -40,45 +40,33 @@ image: 2012-06-22-fundacion-latam-airlines-goup.webp
 
 ## Contexto Histórico
 
-La fusión entre LAN y TAM se inscribe en un proceso de consolidación global de la industria aérea, donde las aerolíneas buscaban ganar escala para competir en un mercado cada vez más integrado.
+La fusión entre LAN y TAM se inscribe en un proceso de consolidación global de la industria aérea, donde las aerolíneas buscaban ganar escala para competir en un mercado cada vez más integrado. Ambas compañías aportaban trayectorias históricas complementarias: **LAN Airlines**, fundada en Chile el 5 de marzo de 1929 por el Comandante Arturo Merino Benítez como Línea Aérea Postal Santiago-Arica (y luego Línea Aérea Nacional), había sido privatizada en la década de 1990, había establecido filiales de pasajeros y carga en Perú (1999), Ecuador (2003), Argentina (2005) y Colombia (2010), y formaba parte de la alianza *oneworld* desde el año 2000; por su parte, **TAM Linhas Aéreas**, originada en 1961 como taxi aéreo en Marília (São Paulo) y refundada en 1976 bajo el liderazgo de Rolim Adolfo Amaro, había crecido hasta liderar el mercado doméstico brasileño, inaugurar vuelos de largo radio a Estados Unidos y Europa a partir de 1998 e integrarse en *Star Alliance* en 2010.
 
 ### Entorno social
 
-A principios de la década de 2010, la aviación comercial enfrentaba un entorno de alta competencia y márgenes reducidos. Las aerolíneas latinoamericanas, en particular, necesitaban fortalecer sus redes y eficiencias operativas para competir con las aerolíneas europeas y norteamericanas que ya se estaban consolidando en grandes grupos.
+A principios de la década de 2010, la aviación comercial enfrentaba un entorno de alta competencia, alza en el precio del combustible y márgenes reducidos. Las aerolíneas sudamericanas necesitaban fortalecer sus centros de conexión (*hubs*) en Santiago, São Paulo-Guarulhos y Lima para competir en igualdad de condiciones con los grandes consorcios norteamericanos y europeos surgidos de las fusiones entre Delta y Northwest (2008), United y Continental (2010), o British Airways e Iberia en IAG (2011).
 
 ### Entorno tecnológico
 
-La fusión permitió a LATAM planificar una de las flotas más modernas de la región, incorporando aviones de bajo consumo como el Boeing 787 Dreamliner y el Airbus A320neo, que ofrecen ventajas significativas en eficiencia de combustible y confort para los pasajeros.
+La integración permitió al nuevo grupo unificar sus sistemas informáticos de reservas y mantenimiento y planificar una de las flotas de largo y corto radio más modernas del continente, incorporando bimotores de nueva generación como el Boeing 787 Dreamliner y el <a href="https://efemerides-aviacion.github.io/efemerides/evento/2014/09/25/primer-vuelo-airbus-a320neo.html" style="color: #315fea; text-decoration: none;">Airbus A320neo</a>, que aportaron reducciones sustanciales en el consumo específico de combustible y en la huella acústica.
 
 ### Entorno cultural
 
-La integración de dos culturas empresariales diferentes, la chilena y la brasileña, fue uno de los mayores desafíos de la fusión. Sin embargo, el grupo logró mantener las identidades de las aerolíneas en sus respectivos mercados mientras unificaba la marca bajo el paraguas de LATAM.
+La articulación de dos culturas corporativas y regulatorias distintas —la chilena y la brasileña, sujeta esta última a restricciones legales sobre la propiedad extranjera de los derechos de tráfico domésticos— exigió diseñar una estructura societaria binacional (mediante el holding brasileño Holdco I y el canje de acciones en las bolsas de Santiago, São Paulo y Nueva York) y mantener inicialmente las enseñas LAN y TAM hasta la implantación progresiva de la imagen corporativa única **LATAM** a partir de agosto de 2015 y mayo de 2016.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Desarrollo Cronológico
 
-- **1929:** Fundación de LAN por el Comandante Arturo Merino Benítez 
-- **1976:** Fundación de TAM por el Capitán Rolim Adolfo Amaro 
-- **2011:** LAN y TAM firman los acuerdos vinculantes para la fusión 
-- **22 de junio de 2012:** Se completa la fusión y nace LATAM Airlines Group 
-- **2014:** TAM se une a oneworld, unificando la alianza global del grupo 
-- **2015:** Lanzamiento de la nueva marca LATAM para todas las filiales 
-- **2016:** Qatar Airways adquiere el 10% de LATAM 
-- **2020:** LATAM y sus filiales se acogen al Capítulo 11 de la ley estadounidense 
-- **2022:** LATAM emerge exitosamente del Capítulo 11 y se aprueba el joint venture con Delta Air Lines 
-
-### Las aerolíneas predecesoras
-
-Antes de la fusión de 2012, LAN y TAM eran dos de las aerolíneas más importantes de América Latina, con historias y trayectorias que reflejaban el desarrollo de la aviación comercial en sus respectivos países. LAN, la aerolínea más antigua de Chile, y TAM, que había crecido desde sus orígenes como una pequeña aerolínea regional brasileña, representaban dos modelos de negocio complementarios que, al fusionarse, crearían el gigante regional.
-
-### LAN Airlines (Chile)
-
-Fundada el 21 de marzo de 1929 por el Comandante Arturo Merino Benítez, LAN fue la aerolínea más antigua de Chile y una de las más importantes de América Latina. Fue privatizada en la década de 1990 y se expandió internacionalmente, estableciendo filiales en Perú (1999), Ecuador (2003), Argentina (2005) y Colombia (2010). LAN se incorporó a oneworld en 2000.
-
-### TAM Linhas Aéreas (Brasil)
-
-Fundada en 1976 por el Capitán Rolim Adolfo Amaro como una pequeña aerolínea regional, TAM creció hasta convertirse en la aerolínea más grande de Brasil. En 1998, realizó su primer vuelo internacional a Miami y se convirtió en una de las aerolíneas más reconocidas de Sudamérica. TAM se incorporó a Star Alliance en 2010.
+- **5 de marzo de 1929:** creación en Santiago de la Línea Aérea Nacional de Chile (LAN) por impulso del Comandante Arturo Merino Benítez.
+- **1976:** constitución de TAM Transportes Aéreos Regionais en Brasil bajo la dirección del aviador y empresario Rolim Adolfo Amaro.
+- **13 de agosto de 2010 – 18 de enero de 2011:** las familias accionistas de control (Cueto y Amaro) suscriben el memorando de entendimiento y los acuerdos vinculantes de asociación.
+- **Septiembre de 2011 – diciembre de 2011:** el Tribunal de Defensa de la Libre Competencia (TDLC) de Chile y el Consejo Administrativo de Defensa Económica (CADE) de Brasil aprueban la operación sujeta a medidas de mitigación y cesión de franjas horarias (*slots*).
+- **22 de junio de 2012:** concluida con éxito la oferta pública de canje de acciones, se perfecciona legalmente la fusión y comienza a cotizar **LATAM Airlines Group S.A.** con Enrique Cueto como consejero delegado (CEO) y Mauricio Rolim Amaro como presidente del directorio.
+- **31 de marzo de 2014:** TAM abandona *Star Alliance* y se incorpora a *oneworld*, unificando la pertenencia de todas las filiales del grupo en una sola alianza global.
+- **6 de agosto de 2015 – 5 de mayo de 2016:** presentación de la marca e identidad visual unificada **LATAM** y primeros vuelos comerciales bajo la nueva librea entre São Paulo, Santiago y Ginebra.
+- **Diciembre de 2016:** Qatar Airways suscribe una ampliación de capital por el 10 % de la compañía.
+- **Mayo de 2020 – noviembre de 2022:** a raíz del cierre de fronteras por la pandemia de COVID-19, el grupo se reorganiza financieramente bajo el Capítulo 11 en Nueva York, culmina su salida del proceso reduciendo su deuda en un 35 % y pone en marcha su acuerdo de operación conjunta (*Joint Venture*) con Delta Air Lines.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -88,7 +76,7 @@ La creación de LATAM Airlines Group transformó el panorama de la aviación en 
 
 - **Red unificada:** La combinación de las redes de LAN y TAM ofreció a los pasajeros una conectividad sin precedentes en la región.
 - **Eficiencia operativa:** La fusión permitió optimizar rutas, reducir costos y mejorar la eficiencia de la flota.
-- **Competitividad global:** LATAM se convirtió en el grupo aéreo más grande de América Latina. Su principal competidor en la región es **GOL Linhas Aéreas** de Brasil, seguido de cerca por **Avianca**. Según datos de 2024, LATAM tiene casi el doble de capacidad que GOL (3,5-3,79 millones de asientos ofertados frente a los ~8,7-9 millones de LATAM) y transporta más del doble de pasajeros que su competidor más cercano. En los cinco mercados domésticos donde opera (Brasil, Chile, Colombia, Ecuador y Perú), LATAM es la aerolínea número uno o número dos en participación de mercado.
+- **Competitividad global:** LATAM se consolidó como el consorcio aerocomercial de mayor volumen de Sudamérica. Su principal competidor en la región es **GOL Linhas Aéreas** de Brasil, seguido de cerca por **Avianca**. Según datos de 2024, LATAM tiene casi el doble de capacidad que GOL (3,5-3,79 millones de asientos ofertados frente a los ~8,7-9 millones de LATAM) y transporta más del doble de pasajeros que su competidor más cercano. En los cinco mercados domésticos donde opera (Brasil, Chile, Colombia, Ecuador y Perú), LATAM es la aerolínea número uno o número dos en participación de mercado.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

@@ -64,7 +64,7 @@ La aviación comercial en China es un símbolo de modernidad y eficiencia estata
 - **Tripulación:** El Capitán Yang Hongda, 47 años, acumulaba 6.709 horas de vuelo. El Primer Oficial Zhang Zhengping, 28 años, tenía 556 horas. El instructor Zhang Zhengping, 57 años, sumaba 31.769 horas, una experiencia excepcionalmente alta.
 - **14:19 CST:** La aeronave se encuentra en nivel de crucero FL291 (aproximadamente 8.900 m), navegando normalmente.
 - **14:20:55 CST:** El control de tráfico aéreo intenta contactar a la tripulación para autorizar un descenso de rutina. No hay respuesta.
-- **14:21 CST:** El radar secundario muestra que el avión inicia un descenso abrupto y sostenido. Las grabaciones del registrador de datos de vuelo (FDR) indican que el capitán exclamó "¡Lo activé!" y el primer oficial "¡No!" segundos antes de que el avión entrara en picada.
+- **14:21 CST:** El radar secundario muestra que el avión inicia un descenso abrupto y sostenido. Las grabaciones del registrador de datos de vuelo (FDR) indican que el capitán exclamó "¡Lo activé!" y el primer oficial "¡No!" instantes antes de iniciarse la caída vertical.
 - **14:22 CST:** El avión desciende a una velocidad vertical estimada superior a los 31.000 pies por minuto (unos 160 m/s), alcanzando una velocidad cercana a Mach 0.9, lo que genera alertas de sobrevelocidad en cabina. Las comunicaciones por radio se interrumpen por completo.
 - **14:23 CST:** El Boeing 737-800 impacta contra una ladera en la zona montañosa de Teng County, Guangxi, a unos 200 km al sureste de su destino. El impacto es de alta energía, creando un cráter de aproximadamente 30 metros de ancho por 20 de profundidad. No hay supervivientes.
 - **22-26 de marzo de 2022:** Equipos de rescate trabajan en la zona del impacto, recuperando restos humanos y partes de la aeronave. Las dos cajas negras (CVR y FDR) son localizadas el 23 y 27 de marzo respectivamente, aunque resultan dañadas.
@@ -96,12 +96,6 @@ El accidente del vuelo 5735 de China Eastern Airlines es, hasta la fecha, el peo
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre el estado de la investigación:</strong> A marzo de 2026, la Administración de Aviación Civil de China (CAAC) no ha publicado el informe final del accidente del vuelo MU5735. La información disponible proviene de informes preliminares oficiales (abril de 2022), filtraciones a medios internacionales como Reuters y análisis de expertos basados en datos parciales. Según fuentes no oficiales, los registradores de vuelo analizados en Estados Unidos indicarían movimientos de control intencionales en cabina como causa probable, pero la CAAC no ha confirmado ni desmentido esta hipótesis. La demora en la publicación del informe ha sido atribuida a "consideraciones de seguridad nacional" por fuentes anónimas. En consecuencia, la causa oficial del accidente sigue sin determinarse, y cualquier afirmación sobre la misma debe considerarse especulativa hasta que la CAAC publique el informe final.</p>
-</div>
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -113,6 +107,12 @@ El accidente del vuelo 5735 de China Eastern Airlines es, hasta la fecha, el peo
     <li><a href="https://www.bbc.com/mundo/noticias-internacional-60848722" style="color: #315fea; text-decoration: none;">BBC News – Accidente de avión en China: los 2 misterios que rodean la tragedia del vuelo de China Eastern (22 Mar 2022)</a></li>
     <li><a href="https://www.infobae.com/america/mundo/2022/03/22/accidente-aereo-en-china-familiares-de-las-victimas-visitan-el-lugar-del-siniestro-para-rendirles-homenaje/" style="color: #315fea; text-decoration: none;">Infobae – Accidente aéreo en China: familiares visitan el lugar del siniestro (22 Mar 2022)</a></li>
   </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+<div class="note-box">
+<p><strong>Nota aclaratoria sobre el estado de la investigación:</strong> A marzo de 2026, la autoridad aeronáutica china (CAAC) no ha publicado el informe final del accidente del vuelo MU5735. La información disponible proviene de informes preliminares oficiales (abril de 2022), filtraciones a medios internacionales como Reuters y análisis de expertos basados en datos parciales. Según fuentes no oficiales, los registradores de vuelo analizados en Estados Unidos indicarían movimientos de control intencionales en cabina como causa probable, pero la CAAC no ha confirmado ni desmentido esta hipótesis. La demora en la publicación del informe ha sido atribuida a "consideraciones de seguridad nacional" por fuentes anónimas. En consecuencia, la causa oficial del accidente sigue sin determinarse, y cualquier afirmación sobre la misma debe considerarse especulativa hasta que se publique el informe final.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

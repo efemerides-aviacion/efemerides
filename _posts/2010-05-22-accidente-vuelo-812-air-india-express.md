@@ -8,7 +8,6 @@ pais: India
 operator: Air India Express
 excerpt: "El 22 de mayo de 2010, el vuelo 812 de Air India Express, un Boeing 737-800 procedente de Dubái, se salió de la pista al aterrizar en el Aeropuerto Internacional de Mangalore, India. De las 166 personas a bordo, 158 fallecieron y solo 8 sobrevivieron, en el que fue el peor accidente aéreo de la India en más de una década. La investigación reveló que el capitán había dormido durante gran parte del vuelo y sufrió inercia del sueño."
 image: 2010-05-22-accidente-vuelo-812-air-india-express.webp
-
 ---
 
 <figure>
@@ -19,95 +18,58 @@ image: 2010-05-22-accidente-vuelo-812-air-india-express.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 22 de mayo de 2010, el vuelo 812 de Air India Express, operado por un Boeing 737-800 con matrícula VT-AXV, se accidentó al aterrizar en el Aeropuerto Internacional de Mangalore (India). La aeronave, procedente de Dubái con 160 pasajeros y 6 tripulantes, tocó tierra a gran velocidad y en un punto avanzado de la pista, no logró detenerse, superó el terraplén y cayó por un barranco, incendiándose inmediatamente. Fallecieron 158 personas; solo 8 sobrevivieron, todos ellos pasajeros ubicados en la sección delantera del avión. La investigación oficial determinó que el capitán había dormido al menos 1 hora y 40 minutos durante el vuelo, sufriendo "inercia del sueño" que afectó su juicio durante la aproximación. Fue el accidente más grave de la aviación civil india desde la colisión aérea de Charkhi Dadri en 1996.</p>
+<p>El 22 de mayo de 2010, el vuelo 812 de Air India Express, operado por un Boeing 737-800 con matrícula VT-AXV, se accidentó al aterrizar en el Aeropuerto Internacional de Mangalore (India). La aeronave, procedente de Dubái con 160 pasajeros y 6 tripulantes, tocó tierra a gran velocidad y en un punto muy avanzado de la pista 24, no logró detenerse, rebasó el área de seguridad y cayó por un barranco boscoso, incendiándose de inmediato. Fallecieron 158 personas y solo sobrevivieron 8 pasajeros. La investigación oficial determinó que el comandante había dormido durante gran parte del trayecto, sufriendo inercia del sueño que nubló su juicio durante una aproximación no estabilizada en la que desoyó tres llamados del copiloto para frustrar el aterrizaje.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
-- **Fecha:** 22 de mayo de 2010
-- **Hora del accidente:** 06:30 hora local (01:00 UTC)
-- **Lugar:** Aeropuerto Internacional de Mangalore (IXE), Karnataka, India 
-- **Vuelo:** Air India Express IX-812
-- **Ruta:** Aeropuerto Internacional de Dubái (DXB) – Aeropuerto Internacional de Mangalore (IXE)
-- **Aeronave:** Boeing 737-8HG (SFP), registro VT-AXV 
-- **Motores:** CFM International CFM56-7B
-- **Ocupantes:** 166 (160 pasajeros, 6 tripulantes) 
-- **Fallecidos:** 158 (152 pasajeros, 6 tripulantes) 
-- **Supervivientes:** 8 (todos pasajeros) 
-- **Comandante:** Capitán Zlatko Glušica (serbio, 55 años, 10.000 horas de vuelo) 
-- **Copiloto:** Primer Oficial H. S. Ahluwalia (indio)
+- **Fecha y hora:** 22 de mayo de 2010, alrededor de las 06:05–06:30 hora local IST (00:35–01:00 UTC).
+- **Lugar:** Aeropuerto Internacional de Mangalore (IXE / VOML), Bajpe, Karnataka, India.
+- **Vuelo y ruta:** Air India Express IX-812 (AXB812), enlace regular entre el Aeropuerto Internacional de Dubái (DXB) y Mangalore (IXE).
+- **Aeronave:** Boeing 737-8HG (SFP), matrícula VT-AXV (MSN 36333, fabricado en 2007 y equipado con dos turbofanes CFM International CFM56-7B27).
+- **Ocupantes y balance:** 166 personas (160 pasajeros y 6 tripulantes); **158 fallecidos** (152 pasajeros y los 6 tripulantes) y **8 supervivientes** heridos.
+- **Tripulación de mando:** Capitán Zlatko Glušica (ciudadano británico de origen serbio, 55 años, más de 10.200 horas totales y 19 aterrizajes previos en Mangalore) y Primer Oficial Harbinder Singh Ahluwalia (indio, 40 años, 3.620 horas totales y 66 tomas previas en el aeródromo).
+- **Investigación y causa oficial:** Comisión de Investigación (*Court of Inquiry*) del Ministerio de Aviación Civil de la India presidida por el Mariscal del Aire (r) B. N. Gokhale (informe final de abril de 2011): continuación de una aproximación no estabilizada por parte del comandante pese a tres peticiones de motor y al aire del primer oficial y a las alertas del EGPWS, agravada por inercia del sueño y un marcado gradiente de autoridad en cabina.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Contexto Histórico
 
-El accidente del vuelo 812 ocurrió en un contexto de rápida expansión de la aviación comercial en India. El país experimentaba un auge de viajeros y la apertura de nuevas rutas internacionales de bajo costo, especialmente hacia los estados del sur con grandes comunidades de expatriados en el Golfo Pérsico.
+El siniestro del vuelo 812 se produjo en plena expansión de las aerolíneas de bajo coste en la India, impulsada por el tráfico de trabajadores migrantes entre la costa suroccidental del país y las monarquías del Golfo Pérsico.
 
 ### Entorno social
-Mangalore es una ciudad portuaria en el estado de Karnataka, con una alta densidad de población de trabajadores emigrantes en los países del Golfo. El vuelo 812 transportaba principalmente trabajadores que regresaban de Dubái a sus hogares para visitas familiares. La tragedia impactó profundamente a la comunidad local, ya que muchas familias perdieron a varios de sus miembros. India tenía una alta dependencia de las remesas enviadas por sus ciudadanos en el extranjero, y los vuelos como el IX-812 eran el principal medio de conexión.
+Mangalore, ciudad portuaria del estado de Karnataka, mantiene una numerosa comunidad emigrante empleada en Dubái y los Emiratos Árabes Unidos. El vuelo IX-812 transportaba mayoritariamente a trabajadores y familias que regresaban de vacaciones, por lo que la pérdida de 158 vidas golpeó a decenas de hogares de la región costera de Dakshina Kannada y Kasaragod.
 
 ### Entorno tecnológico
-El Boeing 737-800 era un avión moderno (fabricado en 2007) y ampliamente utilizado en todo el mundo. Contaba con sistemas de alerta de proximidad al suelo (EGPWS) y grabadoras de datos de vuelo (FDR) y de voz en cabina (CVR). Sin embargo, el aeropuerto de Mangalore presentaba una configuración peligrosa: era un aeropuerto de «meseta» (table-top), construido en la cima de una colina, con la pista elevada y valles profundos en ambos extremos. La pista 24 tenía una longitud de 2.450 metros, insuficiente para detener un avión que aterrizara con exceso de velocidad o más allá del punto de toma de contacto previsto.
+El Boeing 737-800 VT-AXV, entregado nuevo a Air India Express en enero de 2008 tras cuatro décadas de evolución de la familia nacida con el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1967/04/09/primer-vuelo-prototipo-boeing-737.html" style="color: #315fea; text-decoration: none;">estreno en vuelo del bimotor Boeing 737 en abril de 1967</a>, incorporaba el paquete de actuación en pistas cortas (*Short Field Performance*, SFP) y sistema mejorado de alerta de proximidad al terreno (EGPWS). Sin embargo, el aeropuerto de Bajpe-Mangalore presentaba una exigente orografía de «meseta» (*tabletop airport*): su pista 24/06, de 2.450 metros de longitud, había sido inaugurada en mayo de 2006 en la cima de una colina flanqueada por profundos barrancos de hasta 90 metros de desnivel.
 
 ### Entorno cultural
-En la aviación india de la época, existían preocupaciones recurrentes sobre la fatiga de los pilotos debido a los horarios irregulares y la alta demanda de vuelos nocturnos. El vuelo IX-812 operaba durante la "ventana de baja circadiana" (Window of Circadian Low, WOCL), el período entre las 02:00 y las 05:59, cuando la temperatura corporal, el estado de alerta y la capacidad de mantener la vigilia son más bajos. Además, el radar de área de Mangalore estaba fuera de servicio, lo que obligaba a los vuelos a seguir una aproximación más corta y exigente.
+El vuelo operaba en horario nocturno dentro de la llamada ventana de mínimo circadiano (*Window of Circadian Low*, entre las 02:00 y las 05:59), franja en la que se reduce drásticamente el estado de alerta fisiológico. Además, el radar secundario de vigilancia de Mangalore se encontraba fuera de servicio por mantenimiento, lo que requería calcular el inicio del descenso apoyándose en las lecturas de distancia DME respecto a la radioayuda VOR sin vectores de radar.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Desarrollo Cronológico
 
-- **21 de mayo de 2010, 23:00 hora local (Dubái):** El vuelo 812 despega del Aeropuerto Internacional de Dubái con destino a Mangalore. La duración prevista del vuelo es de aproximadamente 3 horas y 30 minutos.
-- **Durante el vuelo:** La grabadora de voz en cabina (CVR) registra patrones de respiración típicos del sueño profundo del Capitán Zlatko Glušica. Permanece dormido durante al menos 1 hora y 40 minutos. La grabación captó ronquidos.
-- **06:00 hora local (Mangalore):** El capitán se despierta aproximadamente 21 minutos antes de la aproximación. Las condiciones meteorológicas son buenas: visibilidad superior a 6 km, nubes dispersas, viento en calma.
-- **06:05:00:** La CVR deja de grabar debido a que la memoria se agotó o se detuvo. El Capitán Glušica está al mando para el aterrizaje en Mangalore, donde había realizado 16 aterrizajes anteriores.
-- **Aproximación:** Debido a que el radar de Mangalore no estaba operativo, la aeronave tiene que seguir una trayectoria de descenso más corta. La tripulación no prepara adecuadamente el perfil de descenso. El avión se encuentra "mucho más alto" de lo que debería para la aproximación ILS a la pista 24.
-- **Aproximación final:** La aeronave cruza el umbral de la pista 24 a una altura de 60 metros (200 pies), cuatro veces más alta de lo estándar (15 metros / 50 pies). La velocidad es de 160 nudos (aproximadamente 296 km/h). El sistema EGPWS emite múltiples advertencias de "SINK RATE" (exceso de tasa de descenso) y "PULL UP" (remonte).
-- **Reacción del copiloto:** El Primer Oficial Ahluwalia sugiere en tres ocasiones que se debería ejecutar una aproximación frustrada ("go-around"), pero el capitán ignora las advertencias y continúa.
-- **06:24:15 (aproximadamente):** La aeronave toca tierra a unos 1.585 metros (5.200 pies) del umbral de la pista, dejando solo unos 850 metros (2.800 pies) de pista restante para detenerse.
-- **06:24:25:** El capitán activa los frenos automáticos y los inversores de empuje. Sin embargo, el capitán "no aplicó los frenos apropiadamente" e incluso intentó una aproximación frustrada después de activar los inversores de empuje, en contra de los procedimientos operativos estándar.
-- **06:24:26:** El Boeing 737-800 supera el final de la pista 24. El ala derecha impacta contra la antena del localizador ILS.
-- **06:24:28:** La aeronave atraviesa la valla perimetral, cae por un terraplén de 9 metros de profundidad y se desliza por un barranco boscoso. El avión se parte en varias secciones y explota en llamas.
-- **Rescate:** Solo 8 de los 166 ocupantes sobreviven. Ninguno de los supervivientes pertenece a la tripulación de vuelo o de cabina. Un superviviente, Mohammad Umer Farooqi, declaró que saltó del avión a través de un agujero en el fuselaje .
-
-### Investigación y Causas
-
-La investigación estuvo a cargo de una comisión de investigación judicial (Court of Inquiry) encabezada por el Mariscal del Aire (retirado) B. N. Gokhale, dependiente del Ministerio de Aviación Civil de India, con asistencia de la Junta de Seguridad en el Transporte de Canadá (TSB) y la Junta Nacional de Seguridad en el Transporte de Estados Unidos (NTSB). El informe final se publicó en abril de 2011.
-
-### Causas identificadas
-
-1. **Sueño del capitán e inercia del sueño:** La CVR reveló que el Capitán Glušica durmió durante la mayor parte del vuelo de 2 horas y 5 minutos. La grabación captó al menos 1 hora y 28 minutos de patrones de respiración profunda y ronquidos. El prolongado sueño, especialmente durante el período de baja circadiana, pudo haber causado "inercia del sueño" que afectó su juicio durante la aproximación, que ocurrió solo 21 minutos después de despertarse.
-
-2. **Aproximación inestable y no frustrada:** La aeronave se aproximó a gran altura (60 metros sobre el umbral) y a excesiva velocidad. El capitán no siguió los procedimientos estándar que exigen abortar el aterrizaje si la aeronave no está estabilizada a 300 metros de altura. El copiloto sugirió tres veces una aproximación frustrada, pero el capitán las ignoró.
-
-3. **Toma de contacto excesivamente avanzada:** Al tocar tierra a 1.585 metros del umbral (aproximadamente 5.200 pies), el avión solo disponía de 865 metros (2.800 pies) de pista restante de los 2.450 metros totales. El capitán "no aplicó los frenos apropiadamente".
-
-4. **Intento tardío de aproximación frustrada:** En contra de los procedimientos operativos estándar, el capitán intentó un "go-around" después de activar los inversores de empuje. Se necesitan de 5 a 6 segundos para que los motores pasen de ralentí a máxima potencia, tiempo durante el cual la aeronave recorrió más de 300 metros.
-
-5. **Gradiente de autoridad pronunciado en cabina:** El informe oficial destaca que existía un gradiente de autoridad muy pronunciado en la cabina, con un capitán dominante y un primer oficial sumiso. El capitán "forzó" al copiloto a confirmar "afirmativo" cuando el control de tráfico aéreo preguntó si el vuelo estaba establecido en la aproximación ILS. El copiloto no intentó tomar el control para abortar la aproximación.
-
-6. **Radar fuera de servicio:** El radar de área de Mangalore (MSSR) estaba fuera de servicio, y se había notificado a todos los vuelos con antelación. Esto obligó a la aeronave a seguir una aproximación más corta y exigente, y la tripulación no preparó adecuadamente el perfil de descenso.
-
-### Factores contribuyentes
-
-- **Ventana de baja circadiana (WOCL):** El accidente ocurrió durante el período de máxima fatiga fisiológica (02:00-05:59) .
-- **Falta de control médico pre-vuelo:** No se realizó un examen médico obligatorio a la tripulación antes de la salida desde Mangalore .
-- **Problemas de entrenamiento:** El simulador de Air India Express sufría problemas de mantenimiento y averías frecuentes.
-- **Presión operacional:** Pilotos de Air India Express reportaron presión para realizar aterrizajes suaves, lo que llevaba a "flotar" y exceder el punto de toma de contacto.
+- **22 de mayo de 2010, 01:06 hora local de Dubái:** el vuelo IX-812 despega de Dubái rumbo a Mangalore con 166 ocupantes.
+- **Crucero nocturno:** la grabadora de voz de cabina (CVR) registra durante más de una hora y media respiración profunda y ronquidos del Capitán Zlatko Glušica, mientras el Primer Oficial Ahluwalia conduce el avión en silencio.
+- **Descenso hacia Mangalore:** el comandante despierta unos veinte minutos antes del aterrizaje aquejado de inercia del sueño (desorientación transitoria tras despertar de un sueño profundo). Al iniciar el descenso tarde y a una distancia menor de la habitual respecto al VOR/DME de Mangalore, la aeronave queda a 4.400 pies cuando se encuentra a solo 4,8 millas náuticas del umbral, el doble de la altitud correspondiente a la senda de planeo de 3 grados del ILS de la pista 24.
+- **Aproximación final no estabilizada:** pese a descender con un régimen vertical que superaba los 4.000 pies por minuto con aerofrenos desplegados, el Primer Oficial advierte en tres ocasiones («Go around, Captain») que la aproximación no está estabilizada y suenan las alertas «Sink Rate» y «Pull Up» del EGPWS, pero el comandante persiste en aterrizar.
+- **Toma de contacto tardía e intento de motor y al aire:** el 737-800 cruza el umbral a unos 200 pies de altura y 160 nudos y toca tierra a 1.585 metros (5.200 pies) del inicio de la pista 24, con apenas 865 metros restantes. Tras desplegar los inversores de empuje y frenar brevemente, el capitán avanza las palancas de gases para intentar despegar de nuevo cuando ya es imposible detener ni elevar el avión.
+- **Salida de pista e impacto:** el aparato rebasa el extremo de la pista 24 y los 90 metros de zona de parada de arena, derriba la antena de hormigón del localizador ILS con el ala derecha, rompe el vallado perimetral y se precipita por el barranco boscoso de Kenjar, donde se parte e incendia. Ocho pasajeros logran escapar por una brecha del fuselaje antes de que el fuego consuma la aeronave.
+- **Abril de 2011:** el Ministerio de Aviación Civil publica el informe final de la comisión judicial de investigación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
-- **Compensaciones:** Air India Express pagó indemnizaciones a las familias de los fallecidos y cubrió los gastos médicos de los supervivientes.
-- **Recomendaciones de seguridad (no implementadas):** La comisión de investigación recomendó específicamente la instalación de sistemas EMAS (Engineered Material Arresting System) en aeropuertos de meseta como Mangalore y Kozhikode. Estas recomendaciones no fueron implementadas, lo que contribuyó al posterior accidente del vuelo 1344 de Air India Express en Calicut el 7 de agosto de 2020, que causó 18 muertes adicionales.
-- **Litigio ante el Tribunal Supremo:** En 2020, a raíz del accidente de Calicut, el Tribunal Supremo de India admitió una petición que exigía la instalación de EMAS en aeropuertos de meseta, citando específicamente el accidente de Mangalore de 2010 como precedente.
-- **Propuesta de independencia de Air India Express:** La comisión recomendó que Air India Express funcionara como una organización independiente y que su entrenamiento y seguridad de vuelo recibieran la debida prioridad.
+- **Conclusiones sobre fatiga y CRM:** el informe oficial identificó como causas directas la obstinación del comandante en continuar una aproximación muy por encima de la senda de planeo, el intento antirreglamentario de motor y al aire tras haber accionado las reversas en tierra, la inercia del sueño y la falta de asertividad del copiloto para asumir los mandos ante la incapacitación funcional del capitán.
+- **Debate sobre lechos de frenado (EMAS) en pistas de meseta:** la comisión recomendó prolongar las áreas de seguridad de extremo de pista (RESA) e instalar sistemas de frenado de material deformable (EMAS) en los aeropuertos indios de meseta como Mangalore, Kozhikode (Calicut) y Lengpui. La demora en aplicar estas medidas volvió al primer plano diez años después, el 7 de agosto de 2020, cuando otro Boeing 737-800 de la misma compañía (el vuelo 1344) sufrió una salida de pista similar bajo lluvia intensa en el aeropuerto de meseta de Calicut con 21 fallecidos, lo que motivó la intervención del Tribunal Supremo de la India.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
-El accidente del vuelo 812 de Air India Express sigue siendo uno de los más mortíferos en la historia de la aviación civil india. Es citado por la NTSB como el primer caso en que la grabadora de voz en cabina registró el ronquido de un piloto como factor contribuyente a un accidente. La tragedia puso de manifiesto los peligros de la fatiga de los pilotos en vuelos nocturnos de larga distancia y la necesidad de protocolos de "descanso controlado" en cabina. El caso se estudia en las escuelas de aviación como un ejemplo clásico de gradiente de autoridad pronunciado en cabina y fallo en la gestión de recursos de cabina (Crew Resource Management, CRM). En el lugar del accidente se construyó un monumento en memoria de las 158 víctimas, y se inauguró un parque conmemorativo en el octavo aniversario de la tragedia.
+El siniestro de Mangalore permanece como el desastre más letal sufrido por un avión de pasajeros en suelo indio desde la colisión aérea de Charkhi Dadri en 1996. En la historia de la seguridad operacional mundial, la NTSB estadounidense y la OACI lo citan como el primer accidente documentado mediante la grabadora de voz en el que los ronquidos y la inercia del sueño tras una siesta no regulada en cabina actuaron como factor determinante. Desde entonces, el expediente del vuelo 812 fundamenta las normativas internacionales sobre descanso controlado en vuelo (*controlled rest*), gestión del riesgo por fatiga (FRMS) en rutas nocturnas y políticas de intervención obligatoria del copiloto ante aproximaciones no estabilizadas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -127,14 +89,15 @@ El accidente del vuelo 812 de Air India Express sigue siendo uno de los más mor
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> El informe oficial de la investigación determinó que el Capitán Zlatko Glušica durmió durante gran parte del vuelo. La grabadora de voz en cabina (CVR) registró patrones de respiración profunda y ronquidos durante al menos 1 hora y 28 minutos. La NTSB citó este caso como el primero en que se registraron ronquidos de un piloto en una CVR como factor contribuyente a un accidente. Aunque algunos medios iniciales especularon sobre el estado de la pista o fallos técnicos, el informe final concluyó que la causa principal fue el error del piloto agravado por la fatiga y el gradiente de autoridad en cabina.</p>
+  <p><strong>Nota aclaratoria:</strong> El informe de la comisión judicial de investigación constató que la grabadora de voz de cabina (CVR) registró más de noventa minutos de respiración profunda y ronquidos durante las dos horas y cinco minutos de grabación previas al impacto. Respecto a la hora exacta del siniestro, el informe oficial consigna el impacto a las 06:05 IST (00:35 UTC), mientras que diversas crónicas periodísticas del día citaron las 06:24–06:30 IST.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
-- **Fuentes primarias/institucionales consultadas:** FlightGlobal, The Indian Express (investigación original), The Economic Times, The Week, Wikipedia (ES), Aviation Safety Network, BBC Mundo
-- **Discrepancias resueltas:** Confirmación de la duración del sueño del capitán (1h 40min vs 1h 28min en CVR registrada). Verificación de que el radar de Mangalore estaba fuera de servicio como factor contribuyente. El número de víctimas (158) es consistente en todas las fuentes oficiales.
+- **Timestamp de verificación:** 2026-10-07 19:46:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Ministerio de Aviación Civil de la India (resumen del informe del *Court of Inquiry* en FlightGlobal y Aviation Safety Network).
+- **Fuentes secundarias de contraste:** The Indian Express; The Economic Times; The Week; BBC Mundo; Wikipedia (ES).
+- **Discrepancias resueltas:** Se documenta tanto la hora del informe oficial (06:05 IST) como la difundida inicialmente por la prensa (06:24–06:30 IST) y se confirma el balance de 158 fallecidos y 8 supervivientes entre los 166 ocupantes.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
