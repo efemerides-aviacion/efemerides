@@ -19,7 +19,7 @@ image: 2024-06-05-oleg-kononenko-1000-dias-espacio.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El **5 de junio de 2024**, el cosmonauta ruso **Oleg Kononenko**, de 59 años, se convirtió en la primera persona en acumular **1.000 días** en el espacio. El hito se alcanzó durante su **quinta misión** a la Estación Espacial Internacional (ISS), que comenzó el **15 de septiembre de 2023**. Kononenko ya había superado en febrero de 2024 el récord de tiempo acumulado en órbita de Gennady Padalka (878 días). Regresó a la Tierra el **23 de septiembre de 2024**, con un total acumulado final de **1.111 días** en el espacio, el récord más alto de la historia. El cosmonauta ha realizado **7 caminatas espaciales** con un total de **44 horas y 30 minutos** fuera de la ISS. Su logro consolida a Rusia como líder en misiones de larga duración y amplía el conocimiento sobre los efectos de la exposición prolongada al entorno espacial en el cuerpo humano.</p>
+<p>El <strong>5 de junio de 2024</strong>, el cosmonauta ruso <strong>Oleg Kononenko</strong>, de 59 años, pasó a ser el primer ser humano en acumular <strong>1.000 días</strong> en el espacio. El hito se alcanzó durante su <strong>quinta misión</strong> a la Estación Espacial Internacional (ISS), que comenzó el <strong>15 de septiembre de 2023</strong>. Kononenko ya había superado en febrero de 2024 el récord de tiempo acumulado en órbita de Gennady Padalka (878 días). Regresó a la Tierra el <strong>23 de septiembre de 2024</strong>, con un total acumulado final de <strong>1.111 días</strong> en el espacio, el registro más alto de la historia. El cosmonauta ha realizado <strong>7 caminatas espaciales</strong> con un total de <strong>44 horas y 30 minutos</strong> fuera de la ISS. Su logro consolida a Rusia como referente en misiones de larga duración y amplía el conocimiento médico sobre la adaptación humana a estancias orbitales plurianuales.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
@@ -94,7 +94,7 @@ Kononenko ha participado activamente en experimentos para mitigar estos efectos,
 
 ## Consecuencias e Impacto
 
-- **Avance en la medicina espacial:** El récord de Kononenko proporciona datos valiosos sobre los efectos de la exposición prolongada a la microgravedad y la radiación, esenciales para planificar futuras misiones a Marte (que durarían entre 2 y 3 años).
+- **Avance en la medicina espacial:** El récord de Kononenko proporciona datos clínicos directos sobre la respuesta fisiológica tras casi tres años acumulados en microgravedad y radiación orbital, esenciales para planificar futuras misiones a Marte (que durarían entre 2 y 3 años).
 - **Liderazgo ruso en misiones de larga duración:** Kononenko es el quinto cosmonauta ruso en superar los 800 días acumulados, consolidando el liderazgo de Rusia en misiones de larga duración.
 - **Inspiración para futuras generaciones:** Su logro demuestra que es posible vivir y trabajar en el espacio durante períodos prolongados, inspirando a jóvenes a seguir carreras científicas y espaciales.
 - **Cooperación internacional:** A pesar de las tensiones geopolíticas, el hito fue celebrado por agencias espaciales de todo el mundo, destacando el valor de la cooperación internacional en la exploración espacial.

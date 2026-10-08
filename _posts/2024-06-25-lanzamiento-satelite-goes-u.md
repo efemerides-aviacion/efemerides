@@ -33,27 +33,29 @@ image: 2024-06-25-lanzamiento-satelite-goes-u.webp
 - **Satélite:** GOES-U (Geostationary Operational Environmental Satellite U) 
 - **Propietario:** NOAA (Administración Nacional Oceánica y Atmosférica) 
 - **Desarrollador:** NASA (Administración Nacional de Aeronáutica y el Espacio) 
-- **Serie:** Cuarto y último satélite de la serie GOES-R 
-- **Órbita:** Geoestacionaria (22,236 millas / 35,700 km sobre el ecuador) 
+- **Serie:** Cuarto ejemplar que cierra la generación GOES-R 
+- **Plataforma y contratista principal:** Bus satelital LM 2100 fabricado por Lockheed Martin Space en Littleton (Colorado) 
+- **Órbita:** Geoestacionaria (22.236 millas / 35.786 km sobre el ecuador) 
+- **Recuperación de propulsores:** Los dos bloques laterales del Falcon Heavy (B1072 y B1086) aterrizaron simultáneamente en las zonas LZ-1 y LZ-2 de Cabo Cañaveral unos ocho minutos después del despegue, mientras el núcleo central (B1087) se consumió para inyectar la carga directamente hacia la órbita geoestacionaria 
 - **Nombre en órbita:** GOES-19 (a partir del 7 de julio de 2024) 
-- **Posición operativa:** GOES East (75.2°O), a partir del 7 de abril de 2025 
-- **Nuevo instrumento:** Compact Coronagraph-1 (CCOR-1) para observación del clima espacial 
-- **Confirmación de despliegue:** 10:18 p.m. EDT (separación y despliegue de paneles solares) 
+- **Posición operativa:** GOES East (75,2° O), a partir del 7 de abril de 2025 
+- **Nuevo instrumento:** Compact Coronagraph-1 (CCOR-1), desarrollado por el Laboratorio de Investigación Naval de EE. UU. (NRL) para observación continua de la corona solar 
+- **Confirmación de despliegue:** 10:18 p.m. EDT (separación tras más de cuatro horas y media de vuelo de la segunda etapa y despliegue de paneles solares) 
 
 ### Especificaciones Técnicas (GOES-U)
 
-- **Altura:** ~6.1 m (20 pies) 
-- **Peso en el lanzamiento:** ~4.990 kg (11.000 lb) 
-- **Potencia:** Paneles solares que generan ~5 kW 
-- **Vida útil planificada:** 15 años 
-- **Instrumentos principales:**
-  - **ABI (Advanced Baseline Imager):** Imágenes de alta resolución en 16 bandas espectrales
-  - **GLM (Geostationary Lightning Mapper):** Mapeo de rayos en tiempo real
-  - **SEISS (Space Environment In-Situ Suite):** Monitoreo de partículas energéticas
-  - **Magnetómetro:** Medición del campo magnético
-  - **SUVI (Solar Ultraviolet Imager):** Imágenes del sol en el ultravioleta
-  - **EXIS (Extreme Ultraviolet and X-ray Irradiance Sensors):** Monitoreo de la irradiancia solar
-  - **CCOR-1 (Compact Coronagraph-1):** Observación de la corona solar y eyecciones de masa coronal (nuevo en esta misión) 
+- **Dimensiones:** 6,1 × 5,6 × 3,9 m desplegado en órbita 
+- **Peso al lanzamiento:** 4.990 kg (11.000 lb) con propelente; ~2.900 kg en seco 
+- **Potencia:** Panel solar de cinco segmentos que genera al menos 4–5 kW al final de su vida útil 
+- **Vida útil planificada:** 10 años operativos (precedidos de 5 años de reserva o extensión hasta 15 años) 
+- **Instrumentos principales (6 sensores):**
+  - **ABI (Advanced Baseline Imager, fabricado por L3Harris):** Imágenes radiométricas de alta resolución en 16 bandas espectrales (2 visibles, 4 de infrarrojo cercano y 10 de infrarrojo térmico)
+  - **GLM (Geostationary Lightning Mapper, Lockheed Martin):** Sensor óptico en el infrarrojo cercano para el mapeo continuo de rayos intranube y nube-tierra
+  - **SEISS (Space Environment In-Situ Suite, Assurance Technology):** Cuatro sensores para medir flujos de electrones, protones e iones pesados en la magnetosfera
+  - **MAG (Magnetómetro triaxial):** Medición continua del campo geomagnético en órbita geoestacionaria
+  - **SUVI (Solar Ultraviolet Imager, Lockheed Martin):** Telescopio en el ultravioleta extremo para observar agujeros coronales y fulguraciones solares
+  - **EXIS (Extreme Ultraviolet and X-ray Irradiance Sensors, LASP Universidad de Colorado):** Monitoreo de la irradiancia solar capaz de perturbar las comunicaciones de alta frecuencia en la Tierra
+  - **CCOR-1 (Compact Coronagraph-1, NRL):** Observación de la corona solar mediante un disco ocultador para detectar eyecciones de masa coronal en menos de 30 minutos, frente a las horas de retraso del veterano satélite científico SOHO (lanzado en 1995) 
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
@@ -101,9 +103,9 @@ La serie GOES-R ha sido un salto cualitativo en la observación meteorológica. 
 
 ## Consecuencias e Impacto
 
-El lanzamiento exitoso del GOES-U asegura la continuidad de los datos meteorológicos críticos para la NOAA hasta bien entrada la década de 2030. El satélite GOES-19, junto con el GOES-18 (GOES West), proporciona una cobertura completa del hemisferio occidental, desde la costa oeste de África hasta Nueva Zelanda.
+El lanzamiento exitoso del GOES-U asegura la continuidad de los datos meteorológicos críticos para la NOAA hasta bien entrada la década de 2030. El satélite GOES-19, situado a 75,2° de longitud oeste como GOES East junto con el GOES-18 (GOES West, a 137° O), proporciona una vigilancia ininterrumpida de más de la mitad del globo terrestre, desde la costa occidental de África hasta Nueva Zelanda, permitiendo seguir el nacimiento de ondas tropicales en el Atlántico oriental, la rápida intensificación de huracanes en el Caribe y el Golfo de México, la dispersión de humo de incendios forestales y la formación de nieblas densas sobre las rutas aéreas y marítimas.
 
-La incorporación del CCOR-1 permite a la NOAA emitir avisos de clima espacial con 1 a 4 días de antelación, protegiendo infraestructuras críticas frente a las tormentas solares.
+La incorporación del coronógrafo operacional CCOR-1 —el primero de su clase a bordo de una plataforma meteorológica estadounidense— garantiza que el Centro de Predicción del Clima Espacial (SWPC) de la NOAA en Boulder (Colorado) no dependa exclusivamente de sondas científicas envejecidas como SOHO (1995) o STEREO-A (2006) para vigilar el ciclo solar 25, emitiendo alertas tempranas de 1 a 4 días ante tormentas geomagnéticas capaces de afectar redes eléctricas de alta tensión, sistemas de navegación aérea por satélite (GNSS/WAAS) y constelaciones en órbita baja.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
