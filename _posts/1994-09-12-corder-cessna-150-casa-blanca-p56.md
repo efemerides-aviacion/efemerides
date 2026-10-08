@@ -110,9 +110,9 @@ La lección de fondo tardaría siete años en asimilarse por completo. Los <a hr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-06 09:21:42 CST  
-- **Fuentes primarias/institucionales consultadas:** Department of the Treasury (*White House Security Review*, mayo de 1995), Federal Aviation Administration vía Federal Register, Metropolitan Washington Airports Authority  
-- **Fuentes secundarias de contraste:** POLITICO, Aviation Safety Network, Aircraft Owners and Pilots Association  
-- **Discrepancias resueltas:** la designación del aparato figura como Cessna 150L en los registros aeronáuticos y como «Cessna P150» en el informe del Departamento del Tesoro; se adopta la primera por corresponder a la serie y número de fabricación documentados. El aeródromo de partida aparece nombrado como Aldino Airport, Churchville-Aldino Airport y Harford County Airport según la fuente: se trata del mismo campo (indicativo 0W3). Sobre la intención del piloto, la conclusión de la NTSB y el dictamen de la forense del Distrito de Columbia prevalecen sobre las versiones periodísticas que apuntaron a un intento de aterrizaje.  
+- **Timestamp de verificación:** 2026-10-07 19:02:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Department of the Treasury (*White House Security Review*, 1995); FAA (Federal Register); Metropolitan Washington Airports Authority.  
+- **Fuentes secundarias de contraste:** POLITICO; Aviation Safety Network; AOPA.  
+- **Discrepancias resueltas:** Se adopta la designación de serie Cessna 150L frente a «Cessna P150», se unifican las denominaciones del aeródromo de partida (0W3) y se sigue el dictamen técnico de la NTSB sobre el carácter deliberado del impacto.  
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

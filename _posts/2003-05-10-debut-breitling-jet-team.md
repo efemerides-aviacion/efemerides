@@ -84,7 +84,7 @@ La exhibición civil vivía del festival y del patrocinio: la rutina se acompañ
 - **10 de mayo de 2003:** Debut oficial del Breitling Jet Team en Valenciennes, Francia, con 4 aviones
 - **2004:** El equipo se expande a 5 aviones 
 - **2005:** El equipo se expande a 6 aviones 
-- **2008:** El equipo alcanza su formación de exhibición definitiva de 7 aviones. La flota total del equipo (incluyendo repuestos y el "8º avión") llega a 9 unidades.
+- **2008:** El equipo alcanza su formación de exhibición definitiva de 7 reactores en vuelo, respaldados por una octava unidad de filmación y reserva hasta sumar 9 aparatos operativos ese año.
 - **2010:** Nuevo esquema de pintura negro-gris-amarillo
 - **2015-2016:** Giras por Norteamérica, incluyendo su actuación final en EE. UU. el 23 de octubre de 2016 en Huntington Beach, California 
 - **2019:** Breitling no renueva el patrocinio; el equipo cesa sus actuaciones 
@@ -118,14 +118,6 @@ La exhibición del Breitling Jet Team era una coreografía aérea cuidadosamente
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre la evolución de la flota:</strong> El equipo comenzó con 4 aviones en 2003, añadió 2 en 2004 y 3 en 2008, alcanzando una flota total de 9 jets. La formación de exhibición era de 7 aviones, más un "8º avión" dedicado a filmación aérea y como repuesto. La flota histórica completa del equipo (los 11 L-39 que habían pertenecido a Apache Aviation) fue vendida a Babcock en diciembre de 2024.</p>
-<p><strong>Sobre la configuración de la cabina:</strong> El L-39C Albatros es un avión con cabina biplaza en tándem (dos asientos, uno detrás del otro). Fue diseñado como entrenador militar, con un asiento para el alumno delante y el instructor detrás. Sin embargo, en las exhibiciones del Breitling Jet Team, cada avión era pilotado por un solo piloto; el asiento trasero se utilizaba ocasionalmente para transporte de invitados o para el cámara durante filmaciones.</p>
-<p><strong>Sobre el cese del equipo en 2019:</strong> Breitling decidió no renovar el patrocinio del equipo de demostración aéreo. La empresa y Apache Aviation acordaron poner fin a la exitosa colaboración que había durado 16 años. El equipo realizó su último espectáculo en 2019.</p>
-</div>
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
 ## Referencias Verificadas
 <div class="references">
   <ul>
@@ -138,9 +130,17 @@ La exhibición del Breitling Jet Team era una coreografía aérea cuidadosamente
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<div class="note-box">
+<p><strong>Nota aclaratoria sobre la evolución de la flota:</strong> El equipo comenzó con 4 aviones en 2003, pasó a 5 en 2004, a 6 en 2005 y alcanzó en 2008 su formación de exhibición de 7 reactores, más un octavo aparato dedicado a filmación aérea y reserva. El conjunto histórico de 11 unidades L-39 de Apache Aviation fue adquirido por Babcock en diciembre de 2024.</p>
+<p><strong>Sobre la configuración de la cabina y el cese en 2019:</strong> Aunque el L-39C Albatros dispone de cabina biplaza en tándem para alumno e instructor, en las exhibiciones cada avión era volado por un solo piloto. El equipo concluyó sus presentaciones en 2019 al finalizar el contrato de patrocinio con Breitling SA.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-09 12:22:39 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia, European Airshows, EDR Magazine, European Security & Defence
-- **Discrepancias resueltas:** Las fuentes coinciden en que el equipo fue establecido a principios de 2003 con cuatro aviones L-39. La formación de exhibición alcanzó 7 aviones en 2008, no en 2007. La flota histórica completa del equipo ascendía a 11 unidades, que fueron vendidas a Babcock en diciembre de 2024. La exhibición duraba entre 18 y 20 minutos.
+- **Timestamp de verificación:** 2026-10-07 19:10:00 CST  
+- **Fuentes primarias/institucionales consultadas:** European Airshows; EDR Magazine; European Security & Defence.
+- **Fuentes secundarias de contraste:** Wikipedia (EN).
+- **Discrepancias resueltas:** Se precisa que el debut en Valenciennes el 10 de mayo de 2003 se realizó con 4 reactores L-39C, que la formación de exhibición de 7 aviones se alcanzó en 2008 y que el lote total adquirido por Babcock en 2024 comprendió 11 células.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

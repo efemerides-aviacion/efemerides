@@ -64,7 +64,7 @@ La histórica travesía del «Spirit of Freedom» se ejecutó como una operació
 La exitosa culminación del viaje de Steve Fossett demostró de manera indiscutible la viabilidad de la tecnología de globos híbridos Roziere y el valor de los de sistemas automatizados de control de altitud. Su hito abrió una nueva era en la exploración de largo alcance.
 
 - **Validación del piloto automático Comstock:** El vuelo probó en las condiciones de mayor fatiga humana la fiabilidad del piloto automático de altitud, demostrando que una sola persona era de lo más idónea para gobernar de forma estable un aerostato de gran envergadura durante semanas si se le permitía dormir en turnos cortos.
-- **Desarrollo de las misiones de GlobalFlyer:** El éxito comercial y la inmensa publicidad del vuelo impulsaron a Fossett a financiar en los años siguientes el diseño del avión monorreactor *Virgin Atlantic GlobalFlyer*, logrando en marzo de 2005 el primer vuelo en solitario, sin escalas y sin reabastecimiento alrededor de la Tierra en un avión a reacción. Consulte la efeméride del <a href="https://efemerides-aviacion.github.io/efemerides/evento/2005/03/03/virgin-atlantic-global-flyer-record-mundial.html" style="color: #315fea; text-decoration: none;">3 de marzo de 2005 | Virgin Atlantic GlobalFlyer</a> para más detalles..
+- **Desarrollo de las misiones de GlobalFlyer:** El éxito comercial y la inmensa publicidad del vuelo impulsaron a Fossett a financiar en los años siguientes el diseño del avión monorreactor *Virgin Atlantic GlobalFlyer*, logrando en marzo de 2005 la primera circunnavegación en solitario sin escalas ni reabastecimiento a bordo de un reactor. Consulte la efeméride del <a href="https://efemerides-aviacion.github.io/efemerides/evento/2005/03/03/virgin-atlantic-global-flyer-record-mundial.html" style="color: #315fea; text-decoration: none;">3 de marzo de 2005 | Virgin Atlantic GlobalFlyer</a> para más detalles.
 - **Mejoras en la seguridad de vuelo espacial y polar:** Las investigaciones técnicas sobre la resistencia del Kevlar y el aislamiento térmico de la góndola del *Spirit of Freedom* en el frío del Antártico aportaron datos científicos de gran valor para el desarrollo de los sistemas de soporte vital en misiones de exploración.
 - **Consolidación de un pionero de la exploración universal:** La hazaña consagró a Steve Fossett como uno de los aventureros más polifacéticos de la historia, acumulando récords mundiales en vela, vuelo de planeadores a gran altitud, dirigibles Zeppelin y aviación.
 
@@ -73,7 +73,7 @@ La exitosa culminación del viaje de Steve Fossett demostró de manera indiscuti
 
 El globo «Spirit of Freedom» y su piloto Steve Fossett permanecen en la memoria de la aeronáutica como los iconos supremos de una era dorada de la exploración humana transoceánica. Su herencia de coraje y precisión técnica continúa influyendo en la aviación del siglo XXI.
 
-- **Exposición en el Smithsonian:** La cápsula de color amarillo brillante del *Spirit of Freedom* fue donada por Fossett y se conserva en perfecto estado de exhibición permanente en el vestíbulo principal del Museo Nacional del Aire y el Espacio del Smithsonian en Washington D. C., junto al *Spirit of St. Louis* de Lindbergh y el módulo de la misión Apolo 11.
+- **Exposición en el Smithsonian:** La cápsula de color amarillo brillante del *Spirit of Freedom* fue donada por Fossett y se exhibe de manera permanente en el vestíbulo principal del Museo Nacional del Aire y el Espacio del Smithsonian en Washington D. C., junto al *Spirit of St. Louis* de Lindbergh y el módulo de la misión Apolo 11.
 - **Inspiración para la exploración de planeadores:** Sus investigaciones conjuntas con Einar Enevoldson en el proyecto Perlan para volar planeadores en la estratosfera abrieron una nueva senda de desarrollo científico para el estudio del deshielo polar y el agujero de ozono.
 - **La memoria del \"Scout\" de la aviación:** Tras su trágica muerte en un accidente aéreo en la Sierra Nevada en 2007, Fossett fue de lo más recordado mundialmente por su lema de vida *«Always Scouting for New Adventures»* (Siempre buscando nuevas aventuras) y sus conmemoraciones en Chicago.
 
@@ -96,10 +96,9 @@ El globo «Spirit of Freedom» y su piloto Steve Fossett permanecen en la memori
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Metadatos de Control
 
-Para asegurar la rigurosidad científica de este post y garantizar el control de la información técnica e histórica de la aviación de exploración presentada, se establecen los siguientes metadatos editoriales:
-
-- **Timestamp de verificación:** 2026-09-07 12:03:10 CST
-- **Fuentes primarias/institucionales consultadas:** Archivos oficiales del National Air and Space Museum (Smithsonian), bitácoras de control de la misión de la Universidad de Washington en San Luis de julio de 2002, informes de récords de la Fédération Aéronautique Internationale (FAI) y el diario oficial de vuelo de la cápsula Spirit of Freedom
-- **Discrepancias resueltas:** Se ha de forma rigurosa aclarado la diferencia entre la fecha de la circunnavegación aérea formal (2 de julio de 2002, al cruzarse el meridiano 117° Este) y la fecha del aterrizaje final (4 de julio de 2002 en Queensland), resolviendo la confusión de los despachos periodísticos internacionales que mezclaban los husos horarios de Australia y de los Estados Unidos. Asimismo, se unificó la distancia total registrada oficialmente en 32.963 kilómetros (20.385 millas).
+- **Timestamp de verificación:** 2026-10-07 19:06:00 CST
+- **Fuentes primarias/institucionales consultadas:** National Air and Space Museum (Smithsonian); centro de control de misión de la Universidad de Washington en San Luis; Fédération Aéronautique Internationale (FAI).
+- **Fuentes secundarias de contraste:** eBalloon.org; ABC Color; Diario La Prensa; Wikipedia (EN).
+- **Discrepancias resueltas:** Se distingue entre el cruce del meridiano de partida en vuelo (2 de julio de 2002) y el aterrizaje definitivo en Queensland (4 de julio de 2002), fijando el recorrido oficial en 32.963 km.
 - **Nivel de confianza:** Alto
-- **Cláusula final de transparencia:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
+- **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

@@ -44,7 +44,7 @@ El Sistema de Posicionamiento Global (GPS) fue desarrollado originalmente por el
 
 ### Entorno social
 
-El 1 de septiembre de 1983, el vuelo KAL 007 de Korean Air Lines, un Boeing 747, fue derribado por cazas soviéticos tras desviarse de su ruta e infringir el espacio aéreo soviético. Las 269 personas a bordo fallecieron. Este trágico incidente conmocionó al mundo y puso de relieve la necesidad de un sistema de navegación global preciso y fiable para la aviación civil. En respuesta, el presidente Ronald Reagan anunció que el GPS estaría disponible para uso civil una vez que el sistema estuviera operativo.
+El 1 de septiembre de 1983, el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1983/09/01/derribo-vuelo-007-korean-air.html" style="color: #315fea; text-decoration: none;">vuelo KAL 007 de Korean Air Lines, un Boeing 747, fue derribado por cazas soviéticos</a> tras desviarse de su ruta e infringir el espacio aéreo soviético. Las 269 personas a bordo fallecieron. Este trágico incidente conmocionó al mundo y puso de relieve la necesidad de un sistema de navegación global preciso y fiable para la aviación civil. En respuesta, el presidente Ronald Reagan anunció que el GPS estaría disponible para uso civil una vez que el sistema estuviera operativo.
 
 ### Entorno tecnológico
 
@@ -58,52 +58,23 @@ La década de 1990 fue testigo de la transición de tecnologías militares a apl
 
 ## Desarrollo Cronológico
 
-- **1978:** Lanzamiento del primer satélite GPS (NAVSTAR-1).
-- **1983:** Tras el incidente del vuelo KAL 007, el presidente Reagan anuncia que el GPS estará disponible para uso civil.
-- **1989-1993:** Lanzamiento de los satélites GPS Block II y IIA.
-- **1991:** Durante la Operación Tormenta del Desierto, el GPS demuestra su valor militar, aunque con solo 16 satélites disponibles (19 horas de cobertura diaria).
-- **8 de diciembre de 1993:** Declaración de capacidad operativa inicial (IOC) con 24 satélites en órbita.
-- **27 de abril de 1995:** Declaración de capacidad operativa plena (FOC) por el Comando Espacial de la Fuerza Aérea de EE. UU. La constelación de 24 satélites Block II/IIA cumple todos los requisitos de rendimiento.
-- **17 de julio de 1995:** Anuncio público formal de la FOC por la Fuerza Aérea de EE. UU.
-- **2 de mayo de 2000:** El presidente Bill Clinton ordena la desactivación de la Selective Availability, mejorando la precisión civil de 100 metros a 10-20 metros.
-- **2010:** Se completa la modernización con satélites Block IIF.
-- **2018:** Lanzamiento del primer satélite GPS III, con mayor precisión y resistencia a interferencias.
+- **22 de febrero de 1978:** Lanzamiento del primer satélite experimental de la serie NAVSTAR (Bloque I).
+- **Septiembre de 1983:** Tras el derribo del vuelo KAL 007, el presidente Ronald Reagan anuncia que el GPS se abrirá de forma gratuita a la aviación civil internacional una vez completado.
+- **Febrero de 1989–1993:** Despliegue progresivo en órbita media (a unos 20.200 km de altitud) de los satélites operativos de producción Block II y Block IIA.
+- **Enero–febrero de 1991:** Durante la Operación Tormenta del Desierto en el Golfo Pérsico, el GPS demuestra su valor táctico en combate con 16 satélites disponibles (unas 19 horas de cobertura diaria).
+- **8 de diciembre de 1993:** El Secretario de Defensa declara la Capacidad Operativa Inicial (IOC) al contar con 24 satélites (Bloques I, II y IIA) capaces de suministrar de forma continua el Servicio de Posicionamiento Estándar (SPS).
+- **27 de abril de 1995:** El Mando Espacial de la USAF certifica que la constelación de 24 satélites operativos Block II y IIA alcanza la Capacidad Operativa Plena (FOC), cumpliendo la totalidad de los requisitos militares (PPS) y civiles (SPS).
+- **17 de julio de 1995:** La Fuerza Aérea estadounidense realiza el anuncio público oficial de la entrada en vigor de la FOC.
+- **2 de mayo de 2000:** Por orden del presidente Bill Clinton se desactiva la degradación intencionada de la señal civil (*Selective Availability*), mejorando en el acto la precisión para usuarios civiles de unos 100 metros a entre 10 y 20 metros.
+- **2010–2018:** Entrada en servicio de la generación modernizada Block IIF (con señal aeronáutica civil L5) y lanzamiento del primer satélite GPS III, dotado de mayor potencia e inmunidad frente a interferencias.
 
-### La declaración de capacidad operativa plena: significado
+### Transformación de la navegación y la vigilancia aeronáutica
 
-La declaración de capacidad operativa plena (Full Operational Capability o FOC) del GPS el 27 de abril de 1995 fue el resultado de años de despliegue de satélites y pruebas de rendimiento. Este hito técnico confirmó que la constelación de 24 satélites Block II y IIA cumplía con todos los requisitos establecidos por el Departamento de Defensa de EE. UU., proporcionando cobertura global continua y fiable tanto para usuarios militares como civiles.
+La disponibilidad de una constelación certificada de 24 satélites transformó la arquitectura de la navegación aérea civil y militar:
 
-### ¿Qué significaba FOC?
-
-La declaración de Full Operational Capability (FOC) por parte del Comando Espacial de la Fuerza Aérea de EE. UU. el 27 de abril de 1995 significaba que el sistema GPS cumplía con todos los requisitos de rendimiento establecidos. Para entonces, la constelación contaba con 24 satélites operativos Block II y IIA en sus órbitas asignadas, proporcionando cobertura global continua. El sistema era capaz de suministrar de manera estable y fiable el Servicio de Posicionamiento Preciso (PPS) para usos militares y el Servicio de Posicionamiento Estándar (SPS) para usos civiles.
-
-### La fecha técnica vs. el anuncio público
-
-Existe una distinción importante entre la fecha en que el sistema alcanzó técnicamente la capacidad operativa plena (27 de abril de 1995) y la fecha del anuncio formal al público. El anuncio público fue realizado por la Fuerza Aérea de EE. UU. el 17 de julio de 1995, cuando confirmó que los 24 satélites estaban en órbita proporcionando cobertura global 24 horas al día. Ambas fechas son históricamente relevantes, pero el 27 de abril es la que se reconoce como la fecha en que el sistema cumplió todos los requisitos técnicos.
-
-### El hito de 1993: Capacidad Operativa Inicial
-
-Antes de la FOC, el 8 de diciembre de 1993, el sistema GPS había alcanzado la Capacidad Operativa Inicial (IOC). En esa fecha, 24 satélites (incluyendo los primeros satélites Block I y Block II/IIA) estaban operando en sus órbitas asignadas, disponibles para uso de navegación y proporcionando el Servicio de Posicionamiento Estándar. La IOC representó el primer momento en que el sistema pudo ser utilizado operativamente, aunque aún no cumplía con todos los requisitos de rendimiento para la declaración de FOC.
-
-### Impacto en la aviación
-
-El GPS con capacidad operativa plena transformó radicalmente la navegación aérea, tanto comercial como general.
-
-### Navegación de área (RNAV) y RNP
-
-El GPS permitió la implementación de procedimientos de navegación de área (RNAV) y navegación de ejecución requerida (RNP) en la aviación comercial. Estos procedimientos permitieron a las aeronaves volar rutas más directas y eficientes, reduciendo el consumo de combustible, las emisiones y los tiempos de vuelo.
-
-### Aproximaciones por satélite
-
-El GPS es la base de las aproximaciones de precisión por satélite (APV, SBAS), como las proporcionadas por WAAS en Estados Unidos (2003), EGNOS en Europa (2011) y otras sistemas complementarios. Estas aproximaciones permiten a las aeronaves descender con precisión en condiciones meteorológicas adversas, mejorando la seguridad y la accesibilidad a aeropuertos sin sistemas ILS.
-
-### ADS-B
-
-El GPS es fundamental para el sistema de vigilancia ADS-B (Automatic Dependent Surveillance-Broadcast), que permite a las aeronaves transmitir su posición, velocidad e identificación a las estaciones en tierra y a otras aeronaves. ADS-B es la base de la gestión del tráfico aéreo moderno y está siendo implantado globalmente.
-
-### Aviación general y deportiva
-
-Para la aviación general, el GPS democratizó la navegación. Los pilotos privados, que antes dependían de mapas, radiofaros y navegación visual, ahora pueden volar con una precisión y seguridad sin precedentes, con dispositivos portátiles que muestran su posición en tiempo real, rutas, aeropuertos cercanos y alertas de tráfico.
+- **Navegación basada en prestaciones (RNAV y RNP):** Permitió trazar aerovías directas entre puntos de referencia virtuales sin depender de la vertical de los radiofaros terrestres VOR o NDB, optimizando rutas oceánicas y continentales y reduciendo el consumo de combustible.
+- **Aproximaciones asistidas por satélite (SBAS / APV):** Impulsó los sistemas regionales de aumentación —como el WAAS estadounidense (comisionado para aviación en 2003) o el EGNOS europeo (2011)—, capaces de ofrecer guía vertical y lateral de precisión en aeropuertos carentes de sistema instrumental ILS.
+- **Vigilancia dependiente automática (ADS-B):** Proporcionó la fuente primaria de posición y tiempo para que las aeronaves transmitan continuamente su vector de estado a los centros de control y a otros tráficos, base del control aéreo del siglo XXI y de la aviación general moderna.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
@@ -131,13 +102,6 @@ Con más de 30 satélites operativos en la actualidad (incluyendo los modernos G
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre la fecha del FOC:</strong> Existen dos fechas clave para la capacidad operativa plena del GPS: el <strong>27 de abril de 1995</strong>, cuando el sistema cumplió técnicamente todos los requisitos de rendimiento con 24 satélites en órbita, y el <strong>17 de julio de 1995</strong>, cuando la Fuerza Aérea de EE. UU. realizó el anuncio público formal. Esta efeméride conmemora la fecha técnica, que es la reconocida como el inicio de la operación plena del sistema.</p>
-<p><strong>Sobre la categoría de esta efeméride:</strong> Aunque el GPS es un sistema satelital militar y civil de navegación global, su impacto en la aviación (aproximaciones de precisión, RNAV, RNP, ADS-B) es fundamental. Por ello, se clasifica dentro de <strong>aviacion-espacial</strong>, que abarca sistemas satelitales y tecnología espacial aplicada a la aviación.</p>
-</div>
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
-
 ## Referencias Verificadas
 
 <div class="references">
@@ -154,10 +118,18 @@ Con más de 30 satélites operativos en la actualidad (incluyendo los modernos G
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
+<div class="note-box">
+<p><strong>Nota aclaratoria sobre la fecha del FOC:</strong> Existen dos fechas clave para la capacidad operativa plena del GPS: el <strong>27 de abril de 1995</strong>, cuando el sistema cumplió técnicamente todos los requisitos de rendimiento con 24 satélites en órbita, y el <strong>17 de julio de 1995</strong>, cuando la Fuerza Aérea de EE. UU. realizó el anuncio público formal. Esta efeméride conmemora la fecha técnica, que es la reconocida como el inicio de la operación plena del sistema.</p>
+<p><strong>Sobre la categoría de esta efeméride:</strong> Aunque el GPS es un sistema satelital militar y civil de navegación global, su impacto en la aviación (aproximaciones de precisión, RNAV, RNP, ADS-B) es fundamental. Por ello, se clasifica dentro de <strong>espacial</strong>, que abarca sistemas satelitales y tecnología espacial aplicada a la aviación.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
+
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:53:22 CST  
-- **Fuentes primarias/institucionales consultadas:** GPS World, USCG Navigation Center, Royal Institute of Navigation, US Navy (.mil), DVIDS (.mil)
-- **Discrepancias resueltas:** Las fuentes coinciden en que la declaración técnica de FOC ocurrió el 27 de abril de 1995, con el anuncio público formal el 17 de julio de 1995. La capacidad operativa inicial (IOC) fue declarada el 8 de diciembre de 1993. El General Thomas S. Moorman Jr. fue quien declaró el hito en 1995.
+- **Timestamp de verificación:** 2026-10-07 19:08:00 CST  
+- **Fuentes primarias/institucionales consultadas:** USCG Navigation Center (FOC Statement 1995); US Navy; DVIDS; Royal Institute of Navigation.
+- **Fuentes secundarias de contraste:** GPS World; MilsatMagazine.
+- **Discrepancias resueltas:** Se distingue entre la declaración técnica de Capacidad Operativa Plena (27 de abril de 1995), el anuncio público formal (17 de julio de 1995) y la Capacidad Operativa Inicial previa (8 de diciembre de 1993).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

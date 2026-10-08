@@ -77,11 +77,9 @@ El vínculo mejor documentado conduce al X-45A. Boeing declaró que su UCAV tom�
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
-A treinta años de aquel primer vuelo, el Bird of Prey conserva su valor precisamente porque no se convirtió en producto. Fue construido para responder preguntas y dejó de volar cuando las respondió. Su único ejemplar, suspendido hoy en el museo de Dayton, permite ver una etapa intermedia entre los primeros aviones de baja observabilidad y una generación en la que el diseño digital, los materiales compuestos y la integración precisa de superficies pasaron a ser herramientas habituales.
+A treinta años de aquel primer vuelo, el Bird of Prey conserva su valor precisamente porque no se convirtió en producto de serie: fue construido para responder preguntas experimentales y dejó de volar cuando las respondió. Su único ejemplar, suspendido hoy en el museo de Dayton, muestra el eslabón entre los primeros aviones de baja observabilidad y la generación en la que el diseño tridimensional, los materiales compuestos de grandes dimensiones y la integración limpia de superficies pasaron a ser normas industriales.
 
-Su historia también corrige una simplificación frecuente del lenguaje: un avión furtivo no es literalmente «invisible». La baja observabilidad administra firmas —radar, visuales y otras— para dificultar o retrasar la detección; no hace desaparecer el aparato. El Bird of Prey ensayó justamente esa disciplina de formas, huecos, entradas y materiales. Tampoco fue un prototipo frustrado: al no existir planes de serie, sus 38 vuelos constituyeron el producto final del programa.
-
-El secreto terminó cuando Boeing consideró que revelar la silueta ya no comprometía las ventajas obtenidas. Para entonces, parte de su aprendizaje estaba incorporada al X-45A y a los procesos internos de Phantom Works. El avión que durante seis años no existió para el público acabó mostrando que una demostración tecnológica puede transformar la industria sin entrar jamás en servicio.
+Su historia corrige además una simplificación frecuente: un avión furtivo no es literalmente «invisible», sino que administra sus firmas —radar, visual, infrarroja y acústica— para dificultar y retrasar la detección. Cuando Boeing reveló la silueta en octubre de 2002, ese aprendizaje ya se había transferido al X-45A y a los métodos de Phantom Works, demostrando que un programa experimental puede transformar la industria sin entrar jamás en producción.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -107,9 +105,9 @@ El secreto terminó cuando Boeing consideró que revelar la silueta ya no compro
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-05 11:55:42 CST
-- **Fuentes primarias/institucionales consultadas:** Boeing —comunicado oficial de revelación del 18 de octubre de 2002—; Museo Nacional de la Fuerza Aérea de Estados Unidos —fichas oficiales del Bird of Prey y del X-45A—; ficha de Wikimedia Commons para identidad, procedencia y situación jurídica de la fotografía oficial.
-- **Fuentes secundarias de contraste:** FlightGlobal —nota contemporánea de octubre de 2002—; Athlon Outdoors —reconstrucción especializada de la campaña y fecha exacta del primer vuelo—; catálogos históricos y resultados enciclopédicos consultados únicamente para contraste de fecha y denominaciones.
-- **Discrepancias resueltas:** la documentación institucional fecha el primer vuelo en «otoño de 1996», mientras la historiografía especializada lo fija el 11 de septiembre; se adopta esta fecha exacta y se hace explícito su nivel de precisión documental. Algunas fuentes secundarias atribuyen el primer vuelo a pilotos distintos; al no resolverlo las fuentes institucionales abiertas, el nombre del piloto se omite. También circulan recuentos de 39 o 40 vuelos; se adopta 38, cifra coincidente de Boeing y del museo.
+- **Timestamp de verificación:** 2026-10-07 19:04:00 CST
+- **Fuentes primarias/institucionales consultadas:** Boeing (comunicado del 18-10-2002); Museo Nacional de la USAF; Wikimedia Commons.
+- **Fuentes secundarias de contraste:** FlightGlobal; Athlon Outdoors.
+- **Discrepancias resueltas:** Se adopta la fecha del 11 de septiembre de 1996 de la bibliografía especializada y el cómputo oficial de 38 vuelos de Boeing y el museo, omitiendo el nombre del piloto por falta de confirmación institucional.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** «Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]».

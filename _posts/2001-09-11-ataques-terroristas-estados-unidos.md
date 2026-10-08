@@ -65,13 +65,13 @@ El avión comercial simbolizaba movilidad, apertura económica y confianza tecno
 - **09:59:** se derrumba la Torre Sur, 56 minutos después del impacto.
 - **10:03:11:** el vuelo 93 cae en un campo de Pensilvania sin alcanzar Washington.
 - **10:28:** se derrumba la Torre Norte, 102 minutos después del impacto.
-- **2001, 19 de noviembre:** entra en vigor la ley que crea la Administración de Seguridad en el Transporte de Estados Unidos.
+- **2001, 19 de noviembre:** entra en vigor la ley federal que instituye la Administración de Seguridad en el Transporte (*Transportation Security Administration*, TSA).
 - **2004:** la Comisión Nacional sobre Ataques Terroristas publica su informe final y formula recomendaciones sobre inteligencia, fronteras y seguridad aérea.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Consecuencias e Impacto
-La respuesta inmediata incluyó el cierre del espacio aéreo estadounidense y una operación sin precedentes para llevar a tierra miles de aeronaves. Posteriormente se reforzaron las puertas de cabina, se amplió la inspección de pasajeros y equipaje, se restringieron objetos a bordo y se creó la Administración de Seguridad en el Transporte. La conducta esperada ante un secuestro también cambió: tripulaciones y pasajeros ya no podían asumir que la aeronave sería utilizada únicamente para negociar.
+La respuesta inmediata incluyó el cierre del espacio aéreo estadounidense y una operación sin precedentes para llevar a tierra miles de aeronaves. Posteriormente se blindaron las puertas de cabina, se amplió la inspección de pasajeros y equipaje, se restringieron objetos a bordo y se puso en marcha la nueva agencia federal de seguridad en el transporte (TSA). La conducta esperada ante un secuestro también cambió: tripulaciones y pasajeros ya no podían asumir que la aeronave sería utilizada únicamente para negociar.
 
 La Comisión del 11-S examinó la falta de intercambio de información, la fragmentación institucional y la respuesta de la FAA y la defensa aérea. Sus recomendaciones contribuyeron a reorganizar la inteligencia estadounidense y a crear nuevas estructuras de coordinación. En paralelo, los ataques desencadenaron guerras, legislación antiterrorista y debates sobre vigilancia, detención y libertades civiles que desbordaron ampliamente el ámbito aeronáutico.
 
@@ -84,7 +84,7 @@ Veinticinco años después, el 11-S sigue marcando la aviación cotidiana. Contr
 
 El recuerdo no se reduce a las Torres Gemelas. Incluye el Pentágono, el campo de Shanksville, los cuatro vuelos y la resistencia del vuelo 93; incluye también enfermedades y muertes posteriores entre quienes trabajaron entre polvo y contaminantes. Los memoriales de Nueva York, Arlington y Pensilvania preservan nombres individuales frente a una cifra colectiva.
 
-La enseñanza aeronáutica más profunda fue que los supuestos de seguridad pueden quedar obsoletos de forma abrupta. No habían faltado avisos: siete años antes, el 12 de septiembre de 1994, una avioneta robada <a href="https://efemerides-aviacion.github.io/efemerides/seguridad/1994/09/12/corder-cessna-150-casa-blanca-p56.html" style="color: #315fea; text-decoration: none;">atravesó sin oposición el espacio aéreo prohibido de Washington y se estrelló contra la Casa Blanca</a>, y la revisión oficial que siguió recomendó estudiar cambios en las reglas del tráfico aéreo civil. Prevenir la repetición exige revisar amenazas, compartir señales dispersas y evitar que la rutina convierta una defensa en simple formalidad, sin perder de vista que toda medida de seguridad afecta a millones de personas que no representan amenaza alguna.
+La enseñanza aeronáutica más profunda fue que los supuestos de seguridad pueden quedar obsoletos de forma abrupta. No habían faltado avisos: siete años antes, el 12 de septiembre de 1994, una avioneta robada <a href="https://efemerides-aviacion.github.io/efemerides/seguridad/1994/09/12/corder-cessna-150-casa-blanca-p56.html" style="color: #315fea; text-decoration: none;">atravesó sin oposición el espacio aéreo prohibido de Washington y se estrelló contra la Casa Blanca</a>, y la revisión oficial posterior propuso endurecer las normas de circulación aérea sobre la capital. Prevenir la repetición exige revisar amenazas, compartir señales dispersas y evitar que la rutina convierta una defensa en simple formalidad, sin perder de vista que toda medida de seguridad afecta a millones de personas que no representan amenaza alguna.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
@@ -110,9 +110,9 @@ La enseñanza aeronáutica más profunda fue que los supuestos de seguridad pued
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-06 09:57:14 CST  
-- **Fuentes primarias/institucionales consultadas:** Informe de la Comisión del 11-S; informe cronológico de sus equipos conservado por los Archivos Nacionales; investigación PENTTBOM y materiales conmemorativos del FBI; investigación técnica del World Trade Center de NIST; ficha de la Biblioteca del Congreso y Wikimedia Commons para la imagen.
-- **Fuentes secundarias de contraste:** síntesis históricas y catálogos consultados para contrastar denominaciones, cifras y secuencia, sin desplazar las fuentes oficiales.
-- **Discrepancias resueltas:** cifra de víctimas directas, 2.977 en el recuento consolidado frente a 2.976 en una página del FBI; se adopta 2.977 y se explica el criterio en la nota aclaratoria. Las horas se expresan en EDT y siguen la cronología de la Comisión del 11-S; se evita redondearlas cuando el informe ofrece segundos.
+- **Timestamp de verificación:** 2026-10-07 19:05:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Comisión Nacional sobre Ataques Terroristas (Informe del 11-S); Archivos Nacionales de EE. UU.; FBI (investigación PENTTBOM); NIST; Biblioteca del Congreso / Wikimedia Commons.
+- **Fuentes secundarias de contraste:** Síntesis históricas y catálogos aeronáuticos de contraste.
+- **Discrepancias resueltas:** Se adopta la cifra consolidada de 2.977 víctimas directas (excluidos los 19 secuestradores) frente a 2.976 de recuentos parciales y se expresan los horarios en EDT siguiendo el informe de la Comisión del 11-S.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** «Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]».
