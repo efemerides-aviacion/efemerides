@@ -11,7 +11,7 @@ image: 1947-10-14-primer-vuelo-supersonico-bell-x1-glamorous-glennis.webp
 ---
 
 <figure>
-  <img class="post-image" src="{{ site.baseurl }}/assets/img/1947-10-14-primer-vuelo-supersonico-bell-x1-glamorous-glennis.webp" alt="El avión Bell X-1 «Glamorous Glennis», de color naranja y fuselaje alargado en forma de bala, suspendido en la sala Milestones of Flight del Museo Nacional del Aire y del Espacio de Washington">
+  <img class="post-image" src="{{ site.baseurl }}/assets/img/1947-10-14-primer-vuelo-supersonico-bell-x1-glamorous-glennis.webp" alt="El avión Bell X-1 «Glamorous Glennis», de color naranja y fuselaje alargado en forma de bala, expuesto en la sala Milestones of Flight del Museo Nacional del Aire y del Espacio de Washington">
   <figcaption class="post-caption">Imagen representativa, no exacta: el Bell X-1 «Glamorous Glennis» expuesto en la sala Milestones of Flight del Museo Nacional del Aire y del Espacio de Washington, la misma aeronave que superó la velocidad del sonido el 14 de octubre de 1947. Fuente: <a href="https://airandspace.si.edu/collection-objects/bell-x-1/nasm_A19510007000" style="color: #315fea; text-decoration: none;">Smithsonian National Air and Space Museum</a>, imagen de dominio público (CC0).</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ Tras la Segunda Guerra Mundial, la aviación estadounidense buscaba aviones capa
 
 ### Entorno social
 
-El vuelo se produjo pocas semanas después de que la Fuerza Aérea de los Estados Unidos se constituyera como rama independiente, el <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1947/09/18/fundacion-fuerza-aerea-estados-unidos-rama-independiente.html" style="color: #315fea; text-decoration: none;">18 de septiembre de 1947</a>. El Gobierno mantuvo el resultado en reserva. Según el Smithsonian Magazine, el éxito no se anunció al público hasta el año siguiente, y durante meses el mundo pudo creer que Gran Bretaña había roto antes la barrera.
+El vuelo se produjo pocas semanas después de que la Fuerza Aérea de los Estados Unidos se constituyera como rama independiente, el <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1947/09/18/fundacion-fuerza-aerea-estados-unidos-rama-independiente.html" style="color: #315fea; text-decoration: none;">18 de septiembre de 1947</a>. El Gobierno mantuvo el resultado en reserva. Según el Smithsonian Magazine, el éxito no se anunció al público hasta el año siguiente, y durante cerca de un año el mundo pudo creer que Gran Bretaña había roto antes la barrera.
 
 La noticia terminó filtrándose a la prensa especializada a finales de 1947, y el anuncio oficial llegó en junio de 1948. Ese retraso condicionó la forma en que el hecho fue recibido: el vuelo ya había ocurrido cuando el público lo conoció.
 
@@ -56,9 +56,9 @@ El diseño era deliberadamente sencillo en lo aerodinámico y complejo en lo int
 
 ### Entorno cultural
 
-Yeager solía dar a sus aviones el nombre de su esposa, Glennis, algo que ya había hecho con sus cazas P-51 Mustang. El X-1 sigue esa tradición. Un relato de la época recoge que, dos días antes del vuelo, Yeager se fracturó dos costillas al caer de un caballo y ocultó la lesión para no perder la autorización de vuelo. Esa anécdota circuló durante décadas, pero no debe confundirse con el resultado técnico del vuelo, que es lo que documentan las fuentes oficiales.
+Yeager solía dar a sus aviones el nombre de su esposa, Glennis, algo que ya había hecho con sus cazas P-51 Mustang. El X-1 sigue esa tradición. Según relatos posteriores, recogidos en biografías del piloto y en fuentes divulgativas, dos días antes del vuelo Yeager se fracturó dos costillas al caer de un caballo y ocultó la lesión para no perder la autorización de vuelo. Esa anécdota no aparece en las fichas oficiales, y no debe confundirse con el resultado técnico del vuelo, que es lo que documentan esas fuentes.
 
-Ese mismo año, Yeager, Lawrence D. Bell y John Stack, del NACA, recibieron el Trofeo Robert J. Collier de 1947, que lleva el nombre del <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1876/06/17/nacimiento-robert-joseph-collier-pionero-aviador.html" style="color: #315fea; text-decoration: none;">pionero Robert J. Collier</a>, por sus aportaciones a la superación de la velocidad del sonido, según la ficha del Smithsonian.
+Por ese logro, Yeager, Lawrence D. Bell y John Stack, del NACA, compartieron el Trofeo Robert J. Collier correspondiente a 1947 (entregado en 1948, según This Day in Aviation), que lleva el nombre del <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1876/06/17/nacimiento-robert-joseph-collier-pionero-aviador.html" style="color: #315fea; text-decoration: none;">pionero Robert J. Collier</a>, por sus aportaciones a la superación de la velocidad del sonido, según la ficha del Smithsonian.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -105,7 +105,7 @@ Yeager siguió vinculado a la aviación militar durante décadas. El 14 de octub
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Las fuentes no coinciden en algunas cifras del vuelo. La altitud de suelta del X-1 se sitúa en 20.000 pies en el informe oficial de Yeager citado por This Day in Aviation, y en 23.000 pies en la ficha del Smithsonian, que es la que se sigue aquí. Algunas crónicas posteriores mencionan 25.000 pies o 45.000 pies en el punto de máxima altitud; esta entrada usa los 43.000 pies (13.000 metros) que indican el Smithsonian y la NASA para la velocidad máxima de Mach 1,06. Tampoco todas las fuentes coinciden en la velocidad: algunas citan Mach 1,05 o Mach 1,07. Por último, el reconocimiento de «primer vuelo supersónico tripulado» se refiere al vuelo nivelado del X-1, según la fuente de Innovation Gateway citada en las referencias.</p>
+  <p><strong>Nota aclaratoria:</strong> Las fuentes no coinciden en algunas cifras del vuelo. La altitud de suelta del X-1 se sitúa en 20.000 pies según This Day in Aviation, y en 23.000 pies en la ficha del Smithsonian, que es la que se sigue aquí. This Day in Aviation sitúa además el Mach 1,06 a 42.000 pies, frente a los 43.000 de la ficha del Smithsonian. En la misma ficha del Smithsonian, la descripción larga da 40.130 pies para el Mach 1,45 de 1948, mientras que su resumen da 71.900 pies, la cifra que usa esta entrada. Algunas crónicas posteriores mencionan 25.000 pies o 45.000 pies en el punto de máxima altitud; esta entrada usa los 43.000 pies (13.000 metros) que indican el Smithsonian y la NASA para la velocidad máxima de Mach 1,06. Tampoco todas las fuentes coinciden en la velocidad: algunas citan Mach 1,05 o Mach 1,07. Por último, el reconocimiento de «primer vuelo supersónico tripulado» se refiere al vuelo nivelado del X-1, según la fuente de Innovation Gateway citada en las referencias.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
