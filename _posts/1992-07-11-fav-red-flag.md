@@ -35,7 +35,7 @@ image: 1992-07-11-fav-red-flag.webp
 - **Aeronaves desplegadas:** cinco F-16, según reconstrucciones posteriores especializadas
 - **Pilotos citados por fuentes retrospectivas especializadas para el despliegue:** Coronel Arturo García, Teniente Coronel Oswaldo Di Sabatino,  Mayor Héctor D. Armas y Mayor Saúl Fuenmayor
 - **Apoyo logístico citado por fuentes retrospectivas:** Boeing 707 cisterna de la FAV y medios de apoyo complementarios
-- **Jefe del contingente:** General de División Eutumio José Fuguett Borregales, Comandante General de la Fuerza Aérea Venezolana, según reporte contemporáneo difundido por Xinhua
+- **Jefe del contingente:** General de División Eutimio José Fuguett Borregales, Comandante General de la FAV, según despacho contemporáneo de la agencia Xinhua
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -47,7 +47,7 @@ La presencia venezolana en Red Flag no surgió de manera aislada. Fue consecuenc
 A comienzos de los años noventa, Venezuela aún proyectaba una imagen de capacidad militar relativamente estable dentro de la región, en medio de un panorama político cada vez más convulso. La cooperación con Estados Unidos seguía siendo viable en el terreno militar, y la participación en ejercicios de alto nivel representaba prestigio institucional y validación externa para las tripulaciones venezolanas.
 
 ### Entorno tecnológico
-Los F-16A/B venezolanos, incorporados a partir de 1983, habían colocado a la FAV en una posición singular en Sudamérica. El Grupo Aéreo de Caza Nº 16 operaba un caza polivalente de cuarta generación, con estándares de mantenimiento y disponibilidad que, según fuentes venezolanas posteriores, se consideraban especialmente altos para la época. Red Flag ofrecía la oportunidad de medir esa capacidad en un entorno de integración táctica compleja, con planificación diaria, amenazas simuladas y cooperación con fuerzas aliadas.
+Los General Dynamics F-16A/B Block 15 Fighting Falcon venezolanos, incorporados a partir de noviembre de 1983 dentro del programa <em>Peace Delta</em>, habían situado a la Fuerza Aérea Venezolana en una posición singular en toda América Latina al operar un caza polivalente de cuarta generación dotado de radar multimodo Westinghouse AN/APG-66, mandos <em>fly-by-wire</em> y reabastecimiento en vuelo mediante pértiga rígida. El Grupo Aéreo de Caza N.º 16 operaba desde la Base Aérea El Libertador (Palo Negro, estado Aragua) con estándares de mantenimiento y disponibilidad que las fuentes especializadas consideraban sobresalientes para la región. Red Flag ofrecía la oportunidad de medir esa capacidad en el polígono instrumentado de Nellis bajo condiciones realistas de guerra electrónica, defensa antiaérea integrada, combate disimilar contra escuadrones agresores y planificación diaria en grandes paquetes multinacionales de ataque y escolta.
 
 ### Entorno cultural
 Red Flag ya era, para entonces, un símbolo del adiestramiento aéreo occidental de alto nivel. Ser admitido en Nellis equivalía a entrar en un espacio de legitimación profesional muy visible. En el caso venezolano, el ejercicio fue leído tanto como una muestra de competencia técnica como de inserción en circuitos internacionales de interoperabilidad y doctrina táctica avanzada.
@@ -110,9 +110,9 @@ A largo plazo, aquella participación se convirtió en un punto de referencia de
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-08-18 21:15:00 CST  
-- **Fuentes primarias/institucionales consultadas:** U.S. Air Force Warfare Center, reporte contemporáneo de Xinhua reproducido por NotiSur  
-- **Fuentes secundarias de contraste:** Noticias Defensa Venezuela, Fuerzas Armadas de Latinoamérica, Infobae  
-- **Discrepancias resueltas:** se distinguió entre la fecha de referencia de la efeméride y el rango completo del ejercicio; se aclaró la diferencia entre la caracterización periodística como maniobras de la OTAN y la definición institucional de Red Flag como ejercicio de la USAF; se omitieron detalles de segundas participaciones posteriores por no existir coincidencia plena entre las fuentes reunidas  
-- **Nivel de confianza:** Medio  
+- **Timestamp de verificación:** 2026-10-07 18:38:00 CST  
+- **Fuentes primarias/institucionales consultadas:** U.S. Air Force Warfare Center; despacho de Xinhua reproducido por NotiSur (UNM Digital Repository).  
+- **Fuentes secundarias de contraste:** Noticias Defensa Venezuela; Fuerzas Armadas de Latinoamérica; Infobae.  
+- **Discrepancias resueltas:** Se distingue entre la fecha simbólica del retorno reseñada por la prensa de Maracay (11 de julio de 1992) y el periodo oficial del ejercicio en Nellis (19 de junio al 17 de julio de 1992), precisando que Red Flag es un ejercicio de la USAF con fuerzas invitadas.  
+- **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

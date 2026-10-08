@@ -19,7 +19,7 @@ image: 1991-05-24-record-guinness-numero-pasajeros-transportados-b-747-el-al.web
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 24 de mayo de 1991, un Boeing 747-200 de la aerolínea israelí El Al despegó del Aeropuerto Internacional de Adís Abeba, Etiopía, con destino al Aeropuerto Ben Gurión de Tel Aviv, Israel. Tras un vuelo de aproximadamente 3 horas y 30 minutos, la aeronave aterrizó con a bordo 1.088 personas —1.086 pasajeros adultos más dos bebés nacidos durante el vuelo—, una cifra que supera en más del doble la capacidad normal de la aeronave (aproximadamente 400 pasajeros). Este vuelo fue la pieza central de la <strong>Operación Salomón</strong>, el mayor operativo de evacuación aérea de la historia de Israel, que en 36 horas trasladó a más de 14.300 judíos etíopes utilizando 34 aeronaves. El récord, certificado por Guinness World Records, permanece imbatido hasta la fecha y representa un hito tanto en la aviación comercial como en la historia humanitaria.</p>
+<p>El 24 de mayo de 1991, un Boeing 747-200 de la aerolínea israelí El Al despegó del Aeropuerto Internacional de Adís Abeba, Etiopía, con destino al Aeropuerto Ben Gurión de Tel Aviv, Israel. Tras un trayecto de unas tres horas y media, la aeronave aterrizó con a bordo 1.088 personas —1.086 pasajeros adultos más dos bebés nacidos durante el vuelo—, una cifra que supera en más del doble la capacidad normal de la aeronave (aproximadamente 400 pasajeros). Este vuelo fue la pieza central de la <strong>Operación Salomón</strong>, el mayor operativo de evacuación aérea de la historia de Israel, que en 36 horas trasladó a más de 14.300 judíos etíopes utilizando 34 aeronaves. El récord, certificado por Guinness World Records, permanece imbatido hasta la fecha y representa un hito tanto en la aviación comercial como en la historia humanitaria.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -29,8 +29,8 @@ image: 1991-05-24-record-guinness-numero-pasajeros-transportados-b-747-el-al.web
 - **Aerolínea:** El Al Israel Airlines
 - **Aeronave:** Boeing 747-200
 - **Ruta:** Aeropuerto Internacional de Adís Abeba (Bole, Etiopía) → Aeropuerto Ben Gurión (Tel Aviv, Israel)
-- **Duración del vuelo:** aproximadamente 3 horas y 30 minutos 
-- **Pasajeros según Guinness:** 1.088 (incluye dos bebés nacidos durante el vuelo)
+- **Duración del vuelo:** unas tres horas y media 
+- **Pasajeros según Guinness:** 1.088 personas en total al aterrizar en Tel Aviv
 - **Pasajeros registrados oficialmente:** 1.087 adultos
 - **Capacidad normal del Boeing 747:** aproximadamente 400-450 pasajeros
 - **Comandante del vuelo récord:** Capitán Avi Orr (jefe de la División de Operaciones de El Al)
