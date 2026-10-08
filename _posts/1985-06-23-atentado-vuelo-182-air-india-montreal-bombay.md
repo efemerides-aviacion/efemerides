@@ -26,117 +26,58 @@ image: 1985-06-23-atentado-vuelo-182-air-india-montreal-bombay.webp
 
 ## Datos verificados del evento
 
-- **Fecha del atentado:** 23 de junio de 1985   
-- **Hora de la explosión:** 07:14 GMT   
-- **Lugar:** Océano Atlántico, al sur de Irlanda (51°03'36"N 12°49'00"O)   
-- **Aeronave:** Boeing 747-237B, registro VT-EFO, nombre "Emperador Kanishka"   
-- **Ruta:** Montreal → Londres → Nueva Delhi → Bombay   
-- **Víctimas:** 329 (307 pasajeros + 22 tripulantes)   
-- **Nacionalidad de las víctimas:** 280 canadienses, 26 indios, 27 británicos, 10 estadounidenses, entre otros   
-- **Causa:** Bomba en el compartimiento de carga (maleta Samsonite con receptor de radio Sanyo)   
-- **Motivación:** Represalia por el asalto del Ejército indio al Templo Dorado de Amritsar (junio de 1984)   
-- **Atentado simultáneo:** Bomba en el Aeropuerto de Narita (Tokio), dirigida a otro vuelo de Air India; 2 muertos y 4 heridos   
-- **Condena:** Solo Inderjit Singh Reyat fue condenado (por fabricar las bombas); Malik y Bagri fueron absueltos en 2005   
-- **Fabricante:** Boeing Commercial Airplanes  
-- **Modelo:** 747-237B  
-- **Número de serie:** MSN 21473 / Línea 330  
-- **Registro:** VT-EFO   
-- **Nombre:** "Emperador Kanishka"   
-- **Entrega:** 26 de junio de 1978  
-- **Edad:** 7 años en el momento del atentado  
-- **Motores:** 4 × Pratt & Whitney JT9D-7J (turbofán)  
-- **Capacidad:** 370-400 pasajeros (configuración típica)  
-- **Altitud de la explosión:** 9.400 metros (31.000 pies)   
-- **Profundidad del lugar del accidente:** 1.900 metros (6.700 pies)   
+- **Fecha y hora:** 23 de junio de 1985, 07:14 GMT
+- **Lugar:** océano Atlántico Norte, unos 190 km al suroeste de Irlanda (`51°03'36"N 12°49'00"O`), sobre aguas de 1.900 metros de profundidad
+- **Aeronave:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1969/02/09/boeing-747-primer-vuelo.html" style="color: #315fea; text-decoration: none;">Boeing 747-237B</a>, matrícula `VT-EFO` (MSN `21473/330`, entregado el 26 de junio de 1978, propulsado por cuatro Pratt & Whitney JT9D-7J), bautizado *«Emperador Kanishka»*
+- **Ruta:** Montreal (Mirabel) → Londres (Heathrow) → Nueva Delhi → Bombay
+- **Víctimas:** 329 fallecidos (307 pasajeros y 22 tripulantes), sin supervivientes; entre las víctimas había unos 268–280 ciudadanos canadienses (en su mayoría de ascendencia india), 27 británicos y 22 indios
+- **Causa técnica:** explosión de un artefacto oculto en un sintonizador de radio Sanyo dentro de una maleta Samsonite facturada en Vancouver y alojada en la bodega delantera a 9.400 metros (31.000 pies) de altitud
+- **Atentado coordinado en Japón:** 55 minutos antes (`06:19 GMT`), una segunda bomba del mismo grupo estalló durante el trasbordo de equipajes en el Aeropuerto de Tokio-Narita cuando iba a ser embarcada en el vuelo 301 de Air India, matando a dos operarios japoneses e hiriendo a otros cuatro
+- **Autoría y proceso judicial:** extremistas separatistas sij de la organización *Babbar Khalsa* radicados en Columbia Británica (Canadá); únicamente el fabricante de los artefactos, Inderjit Singh Reyat, resultó condenado
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Contexto Histórico
 
-El atentado contra el vuelo 182 de Air India fue el resultado de décadas de tensión entre el gobierno indio y el movimiento separatista sij que buscaba la creación de un estado independiente llamado **Khalistán** en la región del Punyab.
+La destrucción del *«Emperador Kanishka»* se inscribió en la escalada violenta entre el Estado indio y sectores radicales del movimiento separatista sij que reclamaban un Estado independiente denominado **Jalistán** (*Khalistan*) en la región del Punyab.
 
 ### Entorno social
 
-Décadas de tensión entre el gobierno indio y el separatismo sij del Punyab, que reclamaba el Khalistán, estallaron con la Operación Blue Star de junio de 1984 —el asalto al Templo Dorado de Amritsar—, el asesinato de Indira Gandhi el 31 de octubre y la ola antisij posterior; en el exilio canadiense, Babbar Khalsa preparó la venganza.
+Las tensiones en el Punyab habían estallado en junio de 1984 con la *Operación Blue Star* —el asalto militar indio al Templo Dorado de Amritsar—, seguida el 31 de octubre de 1984 por el asesinato de la Primera Ministra Indira Gandhi a manos de dos de sus escoltas sij y por los pogromos antisij posteriores. En Canadá, donde residía una numerosa diáspora originaria del Punyab, células radicales agrupadas en torno a *Babbar Khalsa* y lideradas por Talwinder Singh Parmar planificaron una represalia simultánea contra dos aeronaves comerciales de la aerolínea de bandera india.
 
 ### Entorno tecnológico
 
-Una bomba en una maleta Samsonite con receptor Sanyo, transferida entre vuelos desde Vancouver, desintegró el 747 a 9.400 metros sin señal de emergencia; el mismo día otra bomba estalló en Narita. La cascada de errores del CSIS y la RCMP —156 grabaciones destruidas— y un juicio de 130 millones con una sola condena exhibieron los límites de la seguridad e inteligencia canadienses.
+En 1985 los controles de aviación civil aún permitían que una maleta facturada en un vuelo de conexión viajara en bodega aunque el pasajero no se presentara en la puerta de embarque. Los autores aprovecharon ese resquicio operativo: facturaron dos maletas con explosivos plásticos y temporizadores en Vancouver a bordo de vuelos de Canadian Pacific Airlines hacia Toronto y Tokio, solicitando su transferencia en conexión a los vuelos 181/182 y 301 de Air India sin que los falsos pasajeros subieran al segundo tramo. A 9.400 metros sobre el Atlántico, la detonación en la bodega delantera desgarró la piel del fuselaje e interrumpió instantáneamente la alimentación eléctrica de las grabadoras de vuelo.
 
 ### Entorno cultural
 
-Mayor crimen masivo de Canadá y mayor tragedia aérea por terrorismo hasta el 11-S, el vuelo 182 vive en los memoriales de Ahakista y Vancouver y en el archivo McMaster de 2025; el homenaje de Jaishankar en el 40.º aniversario y el paralelo con Lockerbie lo mantienen como advertencia global.
+Con 329 fallecidos —entre ellos más de ochenta niños y familias enteras que viajaban de vacaciones escolares a la India—, la tragedia constituye el mayor asesinato masivo en la historia de Canadá. Durante décadas, muchas familias denunciaron que las autoridades de Ottawa trataron inicialmente la catástrofe como un asunto extranjero hasta que la Comisión presidida por el exjuez John Major (2006–2010) la reconoció formalmente como una tragedia canadiense.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Desarrollo Cronológico
 
-La planificación y ejecución del atentado contra el vuelo 182 de Air India fue un proceso meticuloso que involucró a varios individuos en diferentes continentes. Desde la compra de los billetes con nombres falsos hasta la colocación de las bombas en los aeropuertos de Vancouver y Tokio, cada paso fue cuidadosamente orquestado para maximizar el impacto del ataque.
-
-### Los preparativos (20-22 de junio de 1985)
-
-- **20 de junio:** Un hombre que se hace llamar "Sr. Singh" realiza reservas para dos vuelos en Canadian Pacific Airlines con nombres ficticios (M. Singh y L. Singh).  
-- **22 de junio, 3:30 p.m.:** Un hombre registra una maleta Samsonite marrón oscura en el Aeropuerto de Vancouver para el vuelo 060 de Canadian Pacific Airlines a Toronto, insistiendo en que sea transferida al vuelo 181 de Air India a Montreal y luego al 182. La maleta contenía la bomba.  
-- **22 de junio, 8:22 p.m.:** El vuelo 060 llega a Toronto y la maleta es transferida al vuelo 181 de Air India.
-
-### El día del atentado (23 de junio de 1985)
-
-- **12:15 a.m.:** El vuelo 181 (AI181) despega de Toronto a Montreal con la maleta a bordo. Transporta pasajeros que conectarán con el vuelo 182 a Londres y Bombay.  
-- **1:00 a.m.:** El vuelo 181 llega a Montreal, se convierte en el vuelo 182 y despega hacia Londres-Heathrow. A bordo van 307 pasajeros y 22 tripulantes.  
-- **7:14 a.m. (GMT):** La bomba explota a 9.400 metros de altitud sobre el Océano Atlántico, al sur de Irlanda. La cabina de pasajeros se descomprime y el avión se desintegra. No se recibe ninguna señal de emergencia.  
-- **7:30 a.m.:** El control de tráfico aéreo de Shannon declara la emergencia y moviliza una operación de rescate naval.  
-- **8:25 a.m. (hora local):** Una segunda bomba, dirigida al vuelo 301 de Air India (Bangkok), explota en el Aeropuerto de Narita (Tokio) mientras es manipulada. Mueren dos trabajadores de equipajes y cuatro resultan heridos.  
-
-### La recuperación de los restos
-
-- **9:13 a.m.:** El carguero *Laurenciana Forest* encuentra los primeros restos del avión y cadáveres flotando en el agua. De las 329 víctimas, solo 131 cuerpos serían recuperados.  
-- **Julio de 1985:** Los restos del avión, incluyendo la grabadora de voz de cabina (CVR) y la grabadora de datos de vuelo (FDR), son recuperados por un submarino de control remoto.  
-
-### La investigación y los juicios
-
-- **2003:** Inderjit Singh Reyat se declara culpable de homicidio por su participación en la fabricación de las bombas. Es condenado a 15 años de prisión.  
-- **2005:** Malik y Bagri son absueltos de todos los cargos por falta de pruebas contundentes.  
-- **2010:** El informe final de la Comisión de Investigación, dirigida por el exjuez de la Corte Suprema John Major, concluye que una "serie en cascada de errores" del gobierno y los servicios de inteligencia canadienses permitió que el atentado tuviera lugar.  
-
-### Los protagonistas
-
-El atentado del vuelo 182 de Air India fue el resultado de la acción coordinada de varios individuos, algunos de los cuales actuaron como cerebros del ataque, otros como ejecutores materiales y otros como cómplices logísticos. A continuación se presentan los principales actores identificados por las investigaciones canadiense e india.
-
-### Los terroristas
-
-- **Talwinder Singh Parmar:** Líder de Babbar Khalsa en Canadá. Considerado el cerebro del atentado. Fue asesinado en 1992 en un tiroteo con la policía de Punyab, India. Nunca fue condenado por el atentado.  
-- **Inderjit Singh Reyat:** Mecánico y electricista de Vancouver Island. Fabricó las bombas. Fue el único condenado por el atentado (perjurio y homicidio).  
-- **Ripudaman Singh Malik:** Hombre de negocios de Vancouver. Acusado pero absuelto en 2005. Fue asesinado a tiros en Surrey, Canadá, el 14 de julio de 2022.  
-- **Ajaib Singh Bagri:** Acusado junto a Malik y absuelto en 2005.  
-
-### Las víctimas
-
-La mayoría de las víctimas eran **ciudadanos canadienses de origen indio** que viajaban para visitar a sus familias en la India. El vuelo transportaba especialmente a muchos niños y familias, lo que convirtió la tragedia en un duelo nacional para la comunidad indo-canadiense. Entre las víctimas había:
-
-- 237 pasajeros canadienses (de los cuales 86 eran menores de edad).  
-- 27 pasajeros británicos.  
-- 22 pasajeros de nacionalidad india.  
-- 10 pasajeros estadounidenses.  
+- **20 de junio de 1985:** Un individuo que utiliza los nombres ficticios «M. Singh» y «L. Singh» reserva y abona en efectivo dos billetes desde Vancouver: uno en el vuelo `CP060` hacia Toronto (con enlace al vuelo `AI181/182` de Air India) y otro en el vuelo `CP003` hacia Tokio-Narita (con enlace al vuelo `AI301` rumbo a Bangkok).
+- **22 de junio de 1985:** Los dos equipajes —maletas Samsonite marrones que ocultaban dinamita y detonadores dentro de sintonizadores Sanyo— son facturados en el Aeropuerto Internacional de Vancouver sin que sus titulares embarquen en los vuelos de conexión de Air India. En Toronto, el escáner de rayos X se avería durante la inspección de equipajes y el contenedor con la maleta de «M. Singh» es embarcado en el Boeing 747 `VT-EFO`.
+- **23 de junio de 1985, 06:19 GMT (15:19 en Tokio):** En la terminal de transferencia de Tokio-Narita, la maleta procedente del vuelo `CP003` detona en tierra antes de ser cargada en el vuelo `AI301`, causando la muerte de dos trabajadores de rampa japoneses.
+- **07:14 GMT:** Cincuenta y cinco minutos después, mientras el vuelo `AI182` (Montreal–Londres–Nueva Delhi–Bombay, al mando del Capitán Hanse Singh Narendra) vuela a 31.000 pies en el espacio aéreo controlado por Shannon, la bomba estalla en la bodega delantera y el Boeing 747 desaparece de las pantallas de radar.
+- **09:13 GMT y semanas siguientes:** El buque mercante *Laurentian Forest* avista los primeros restos flotantes al suroeste de Cork; de las 329 personas a bordo sólo se recuperan 131 cuerpos del mar, y en julio el buque cablero francés *Léon Thévenin*, con el robot submarino *Scarab*, extrae del lecho oceánico a 1.900 metros de profundidad las grabadoras `CVR` y `FDR` junto a secciones de la bodega perforadas por explosión interna.
+- **1991–2003:** El electricista Inderjit Singh Reyat es condenado en 1991 por las muertes de Narita y en 2003 se declara culpable de homicidio involuntario por fabricar el artefacto del vuelo 182; entretanto, el presunto cerebro del complot, Talwinder Singh Parmar, muere en 1992 en un enfrentamiento con la policía en el Punyab.
+- **Marzo de 2005 y junio de 2010:** Tras el proceso judicial más costoso de la historia canadiense (130 millones de dólares), el tribunal de Columbia Británica absuelve a los coacusados Ripudaman Singh Malik y Ajaib Singh Bagri por insuficiencia probatoria; en 2010 la Comisión Major dictamina que una «serie en cascada de errores» entre el servicio de inteligencia (`CSIS`) y la Real Policía Montada (`RCMP`) —incluida la borradura de 156 cintas de escuchas— impidió prevenir el ataque.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Consecuencias e Impacto
 
-- **El atentado terrorista más mortífero contra un avión hasta el 11-S:** Con 329 víctimas mortales, el vuelo 182 de Air India fue el ataque terrorista más mortífero contra la aviación hasta los atentados del 11 de septiembre de 2001.  
-- **El mayor desastre aéreo en la historia de Irlanda:** El lugar del accidente se encuentra a 190 km de la costa irlandesa, siendo el mayor siniestro en el espacio aéreo de Irlanda.  
-- **El juicio más caro en la historia de Canadá:** La investigación y el proceso judicial costaron más de 130 millones de dólares canadienses.  
-- **Fallo en la inteligencia canadiense:** El informe Major de 2010 señaló fallos críticos del CSIS y la RCMP, incluyendo la destrucción de 156 grabaciones de intervenciones telefónicas a los sospechosos.  
-- **Seguridad aeroportuaria:** El atentado forzó a Canadá a endurecer sus protocolos de seguridad en los aeropuertos y a reevaluar las políticas de prevención del terrorismo.  
+- **Reconciliación obligatoria entre pasajero y equipaje (*Passenger-Baggage Reconciliation*):** El desastre impulsó en Canadá y posteriormente en las normas del Anexo 17 de la OACI la regla de oro según la cual ningún equipaje facturado puede volar en bodega si su titular no ha embarcado efectivamente en el avión.
+- **Mayor atentado aeronáutico hasta 2001 y mayor siniestro en aguas de Irlanda:** Con 329 víctimas mortales, permaneció durante dieciséis años como el ataque terrorista con mayor número de fallecidos en la aviación civil hasta el 11 de septiembre de 2001.
+- **Reforma de la inteligencia y la financiación antiterrorista en Canadá:** Las conclusiones de la Comisión Major de 2010 provocaron la disculpa oficial del Gobierno canadiense a las familias, la creación del cargo de asesor nacional de seguridad y la reforma de la coordinación probatoria entre inteligencia y policía judicial.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Legado
 
-El atentado del vuelo 182 de Air India sigue siendo, 40 años después, el **mayor crimen masivo en la historia de Canadá** y un recordatorio de la amenaza del terrorismo global. La memoria de las víctimas se conserva en monumentos en el Parque Ahakista (Irlanda) y en el Memorial de Air India en Vancouver, así como en el archivo digital creado en la Universidad McMaster en 2025, que recoge objetos personales y testimonios de las familias para preservar la historia de quienes perdieron la vida.
-
-El caso se ha estudiado como un ejemplo de fracaso de los servicios de inteligencia y de justicia, y ha sido comparado con el atentado del vuelo 103 de Pan Am sobre Lockerbie (1988), que también involucró una bomba en una maleta Samsonite con un receptor de radio. La absolución de los principales sospechosos en 2005 dejó un profundo sentimiento de injusticia entre las familias de las víctimas.
-
-El 23 de junio de 2025, en el 40 aniversario del atentado, el ministro de Asuntos Exteriores de la India, S. Jaishankar, rindió homenaje a las víctimas y calificó el ataque como "uno de los peores actos de terrorismo", recordando que fue perpetrado por terroristas jaliastaníes con base en Canadá.
+Cuarenta y un años después, la memoria de las 329 víctimas del *«Emperador Kanishka»* se honra cada 23 de junio en el jardín conmemorativo de Ahakista (condado de Cork, Irlanda), en los monumentos de Vancouver, Toronto, Ottawa y Montreal y en el archivo digital inaugurado en 2025 por la Universidad McMaster. En el ámbito de la protección aeronáutica, el caso se estudia junto al <a href="https://efemerides-aviacion.github.io/efemerides/seguridad/1988/12/21/atentado-pan-am-103-lockerbie.html" style="color: #315fea; text-decoration: none;">atentado contra el vuelo 103 de Pan Am sobre Lockerbie en diciembre de 1988</a> —ejecutado con un mecanismo casi idéntico de explosivo oculto en un radiocasete dentro de una maleta Samsonite en tránsito—. Al cumplirse el 40.º aniversario en junio de 2025, el Ministro de Asuntos Exteriores de la India, Subrahmanyam Jaishankar, encabezó los tributos recordando la obligación internacional de tolerancia cero frente al terrorismo aéreo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 

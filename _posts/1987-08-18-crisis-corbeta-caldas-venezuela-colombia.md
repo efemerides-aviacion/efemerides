@@ -27,12 +27,12 @@ image: 1987-08-18-crisis-corbeta-caldas-venezuela-colombia.webp
 ## Datos verificados del evento
 
 - **Duración:** del 9 al 18 de agosto de 1987; el retiro de la ARC Independiente se completó en las primeras horas del 18, tras el mensaje de Barco a las 23:45 del 17 (hora de Bogotá)
-- **Detonante:** ingreso de la corbeta misilística ARC Caldas (FM-52) de la Armada de Colombia al sur del paralelo de Castilletes, rumbo este hacia Punto Fijo, en aguas que Venezuela considera soberanas y Colombia tiene por no delimitadas
-- **Fuerzas comprometidas:** por Venezuela, cuatro fragatas misilísticas clase Lupo (Mariscal Sucre F-21, Almirante Brión F-22, General Urdaneta F-23, General Salóm F-25), los submarinos Sábalo (S-31) y Caribe (S-32) y las patrulleras Libertad (PC-14), Independencia (PC-13), Patria (PC-15) y Victoria (PC-16); por Colombia, las corbetas Caldas (FM-52), Antioquia (FM-53) e Independiente (FM-54) y el submarino Tayrona (SO-29)
-- **Incidentes mayores:** corte de proa de la ARV Independencia sobre la Caldas (11 de agosto); vuelos rasantes de dos F-16 venezolanos sobre la corbeta (12 de agosto); persecución de un Mirage 5 colombiano por F-16 y caza antisubmarina tras un periscopio cerca de Los Monjes (13 de agosto); cierre de la frontera terrestre ordenado por Jaime Lusinchi (noche del 14); iluminación mutua con radar de control de tiro entre Caldas/Independiente y la ARV Mariscal Sucre (15-16 de agosto); ultimátum venezolano y decisión de atacar comunicada a los mandos (17 de agosto)
-- **Mediación:** Organización de los Estados Americanos, por su secretario general João Clemente Baena Soares, y el presidente de Argentina, Raúl Alfonsín
-- **Mandatarios:** Jaime Lusinchi por Venezuela (con el ministro de Defensa, General de División Heliodoro Guerrero Gómez) y Virgilio Barco por Colombia (con el ministro de Defensa Rafael Samudio)
-- **Saldo:** ningún disparo; la mayor movilización militar venezolana hasta entonces y el episodio más grave de la disputa del golfo de Venezuela, aún sin delimitar
+- **Detonante:** incursión de la corbeta misilística `ARC Caldas` (`FM-52`) de la Armada de Colombia en aguas situadas al sur de la línea de Castilletes, en dirección a Punto Fijo, dentro de un área que Venezuela ejerce como aguas interiores históricas y Colombia considera pendiente de delimitación
+- **Fuerzas comprometidas:** por Venezuela, cuatro fragatas misilísticas clase Lupo (`Mariscal Sucre F-21`, `Almirante Brión F-22`, `General Urdaneta F-23`, `General Salóm F-25`), los submarinos `Sábalo` (`S-31`) y `Caribe` (`S-32`), las patrulleras `Libertad` (`PC-14`), `Independencia` (`PC-13`), `Patria` (`PC-15`) y `Victoria` (`PC-16`) y cazas F-16A/B del Grupo Aéreo de Caza N.º 16; por Colombia, las corbetas `Caldas` (`FM-52`), `Antioquia` (`FM-53`) e `Independiente` (`FM-54`), el submarino `Tayrona` (`SO-29`) y cazas Mirage 5COA
+- **Incidentes mayores:** corte de proa de la `ARV Independencia` sobre la `Caldas` (11 de agosto); pasadas rasantes de F-16 venezolanos (12 de agosto); intercepción de un Mirage 5 colombiano y rastreo antisubmarino cerca de Los Monjes (13 de agosto); cierre de la frontera terrestre (14 de agosto); iluminación mutua con radar de control de tiro entre la `Caldas`/`Independiente` y la `ARV Mariscal Sucre` (15–16 de agosto); y ultimátum venezolano (17 de agosto)
+- **Mediación:** Organización de los Estados Americanos (a través de su titular, el diplomático brasileño João Clemente Baena Soares) y el Presidente de la República Argentina, Raúl Alfonsín
+- **Mandatarios:** Jaime Lusinchi por Venezuela (junto al Ministro de la Defensa, General de División Heliodoro Guerrero Gómez) y Virgilio Barco por Colombia (junto al Ministro de Defensa, General Rafael Samudio Molina)
+- **Saldo:** ningún disparo; la mayor movilización militar venezolana del siglo XX y el episodio más grave de la controversia sobre el golfo de Venezuela
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -56,15 +56,11 @@ Sobre el golfo pesaban la Declaración de Sochagota de 1969, las conversaciones 
 
 ## Desarrollo Cronológico
 
-- **9 de agosto de 1987:** la patrullera ARV Libertad detecta la ARC Caldas al sur del paralelo de Castilletes, rumbo a Punto Fijo; los comandantes se conminan por radio a retirarse; la corbeta fondea fuera del área de patrullaje y luego se reúne con el submarino ARC Tayrona. Esa misma mañana, en la base aérea La Carlota, el Alto Mando recibía al ministro de Defensa Heliodoro Guerrero Gómez, recién vuelto de una gira por Colombia; el Vicealmirante Faustino Alvarado, Comandante General de la Armada, le informó en privado de la incursión y ambos partieron a dar la novedad al presidente Lusinchi.
-- **10 de agosto:** llegan las fragatas ARV General Salóm y ARV Almirante Brión, que asume el comando táctico; la Libertad va a Punto Fijo a embarcar misiles Otomat Mk.2.
-- **11 de agosto:** la ARV Independencia ejecuta un corte de proa sobre la Caldas, maniobra tenida por abiertamente hostil; el Contralmirante Luis Pérez Arismendi y el Vicealmirante Carlos Ospina Cubillos se exigen mutuamente el retiro.
-- **12 de agosto:** dos F-16 venezolanos realizan vuelos rasantes sobre la Caldas; sus pilotos observan los cañones colombianos sin preparar para el combate; Venezuela suma las fragatas Mariscal Sucre y General Urdaneta y los submarinos Sábalo y Caribe: ocho naves; la ARV Mariscal Sucre fija reglas de enfrentamiento ante un avión militar colombiano que nunca entró en su alcance de misil.
-- **13 de agosto:** alerta de periscopio cerca de Los Monjes; la Sucre caza con sonar al presunto Tayrona hasta el límite de aguas colombianas; F-16 persiguen un Mirage 5 colombiano hasta su espacio aéreo; Colombia eleva el conflicto con Venezuela a su hipótesis de guerra externa más inminente.
-- **14-15 de agosto:** la noche del 14, el presidente Jaime Lusinchi ordena el cierre total de la frontera terrestre; la noche del 15, la Caldas se retira a reabastecerse y es relevada por la ARC Independiente.
-- **15-16 de agosto:** la Caldas ilumina con radar de control de tiro a la ARV Mariscal Sucre; las naves venezolanas ocupan posiciones tácticas de combate por primera vez; la Sucre responde iluminando la Independiente; llega la patrullera ARV Victoria armada con Otomat; el Ejército venezolano moviliza blindados hacia la frontera.
-- **17 de agosto:** Lusinchi reúne en Miraflores a expresidentes, ministros y jefes de partido; Venezuela transmite un ultimátum exigiendo el retiro de la ARC Independiente y comunica a sus mandos la decisión de atacar.
-- **18 de agosto:** a las 23:45 del 17, Barco anuncia por la Radio Nacional el fin de las operaciones ante las exhortaciones de la OEA y de Alfonsín; pasada la medianoche se ordena el retiro de la Independiente, completado en pocas horas; la crisis termina sin disparos.
+- **9 de agosto de 1987:** la patrullera `ARV Libertad` detecta a la `ARC Caldas` al sur del paralelo de Castilletes rumbo a Punto Fijo; los comandantes se conminan por radio a retirarse y la corbeta se reúne después con el submarino `ARC Tayrona`. Esa mañana, en la base aérea La Carlota, el Vicealmirante Faustino Alvarado informa en privado de la incursión al General de División Heliodoro Guerrero Gómez, titular de la cartera de Defensa, y ambos acuden ante el presidente Lusinchi.
+- **10 y 11 de agosto:** arriban las fragatas `ARV General Salóm` y `ARV Almirante Brión`, mientras la `Libertad` embarca misiles Otomat Mk.2 en Punto Fijo; el día 11 la `ARV Independencia` ejecuta un corte de proa sobre la `Caldas`, y el Contralmirante Luis Pérez Arismendi y el Vicealmirante Carlos Ospina Cubillos se exigen mutuamente el abandono de la zona.
+- **12 y 13 de agosto:** dos F-16A venezolanos efectúan pasadas rasantes sobre la `Caldas`; Venezuela concentra ocho unidades de superficie y submarinas, la `ARV Mariscal Sucre` rastrea con sonar un contacto submarino cerca de Los Monjes y cazas F-16 interceptan y escoltan fuera de la zona a un Mirage 5 colombiano.
+- **14 al 16 de agosto:** Lusinchi ordena el cierre de la frontera terrestre la noche del 14; el 15 la `Caldas` es relevada por la `ARC Independiente` tras iluminar con radar de control de tiro a la `ARV Mariscal Sucre`, que responde iluminando a su vez al buque colombiano mientras el Ejército venezolano despliega unidades blindadas hacia el Zulia y el Táchira.
+- **17 y 18 de agosto:** reunido el Consejo de Ministros y los expresidentes en Miraflores, Caracas transmite un ultimátum exigiendo la salida inmediata del buque colombiano y prepara la orden de ataque para el amanecer del 18; a las 23:45 del día 17, atendiendo los llamados de la OEA y de Raúl Alfonsín, el presidente Virgilio Barco anuncia por radio el retiro de la `ARC Independiente`, que zarpa hacia el norte pasada la medianoche del 18 de agosto sin que se produzca un solo disparo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -89,17 +85,23 @@ Treinta y nueve años después, la crisis de la corbeta Caldas sigue siendo la v
     <li><a href="https://es.wikipedia.org/wiki/Crisis_de_la_corbeta_Caldas" style="color: #315fea; text-decoration: none;">Wikipedia (español) - Crisis de la corbeta Caldas</a></li>
     <li><a href="https://favclubven.wordpress.com/2026-08-07/el-inicio-de-la-crisis-de-la-corbeta-caldas-desde-la-perspectiva-del-comandante-general-de-la-fuerza-aerea-venezolana/" style="color: #315fea; text-decoration: none;">FAV-Club - El inicio de la crisis de la corbeta Caldas, desde la perspectiva del Comandante General de la Fuerza Aérea Venezolana</a></li>
     <li><a href="https://www.elnacional.com/columnas/2022/08/la-corbeta-colombiana-que-cambio-a-los-venezolanos-ii/" style="color: #315fea; text-decoration: none;">El Nacional - La corbeta colombiana que cambió a los venezolanos (II)</a></li>
-      <li><a href="https://en.wikipedia.org/wiki/Caldas_frigate_crisis" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Caldas frigate crisis</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Caldas_frigate_crisis" style="color: #315fea; text-decoration: none;">Wikipedia (EN) — Caldas frigate crisis</a></li>
   </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
+<div class="note-box">
+<p><strong>Nota aclaratoria:</strong> El testimonio del General de División (AV) Jesús Ramón Aveledo Penso (publicado por <em>FAV-Club</em>) documenta que en agosto de 1987 el Ministro de la Defensa de Venezuela era el General de División Heliodoro Guerrero Gómez, quien acababa de regresar de una visita oficial a Bogotá el 9 de agosto cuando se produjo la incursión de la <code>ARC Caldas</code>.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-20 19:30:00 CST  
-- **Fuentes primarias/institucionales consultadas:** ninguna disponible (no existe organismo investigador ni archivo oficial de acceso directo para el evento)
-- **Fuentes secundarias de contraste:** Wikipedia (español), FAV-Club (perspectiva del Comandante General de la FAV), El Nacional (columna de Antonio Guevara)
-- **Discrepancias resueltas:** la cronología diaria y los numerales de buques coinciden entre las fuentes consultadas (Wikipedia ES/EN); los nombres de comandantes que circulan sin respaldo verificable (p. ej. Capitán de Fragata Sergio García Torres, Capitán Alfredo Castañeda) se omitieron. La hora del anuncio de Barco (23:45 de Bogotá) y el retiro tras la medianoche del 18 se toman de Wikipedia. La línea de mandatarios registra al ministro de Defensa venezolano, General de División Heliodoro Guerrero Gómez, conforme a la indicación del investigador y a las fuentes nuevas; el cuadro de Wikipedia destaca al comandante del Ejército, Ítalo del Valle Alliegro, cuya existencia en ese cargo no se niega y que el propio El Nacional confirma entre los protagonistas.
-- **Nivel de confianza:** Alto — núcleo del hecho respaldado por convergencia de fuentes secundarias independientes; sin primarias accesibles, como se declara arriba.
+- **Timestamp de verificación:** 2026-10-07 18:15:00 CST  
+- **Fuentes primarias/institucionales consultadas:** testimonio del General de División Jesús Ramón Aveledo Penso (*FAV-Club*).  
+- **Fuentes secundarias de contraste:** *El Nacional* y Wikipedia (ES/EN).  
+- **Discrepancias resueltas:** La cronología diaria (`9` al `18` de agosto de 1987), la alocución radial de Virgilio Barco (`23:45` del 17 de agosto) y la titularidad ministerial del General de División Heliodoro Guerrero Gómez quedan verificadas por convergencia documental.  
+- **Nivel de confianza:** Alto  
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

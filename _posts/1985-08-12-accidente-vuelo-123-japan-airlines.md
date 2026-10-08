@@ -17,7 +17,7 @@ image: 1985-08-12-accidente-vuelo-123-japan-airlines.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 12 de agosto de 1985, un Boeing 747SR-46 de Japan Air Lines que cubría la ruta entre Tokio y Osaka sufrió, doce minutos después del despegue, la ruptura en vuelo del mamparo de presión trasero, mal reparado siete años antes. La descompresión explosiva arrancó el estabilizador vertical y reventó los cuatro sistemas hidráulicos, dejando la aeronave prácticamente sin controles. Tras 32 minutos de lucha de la tripulación por mantener el vuelo mediante el empuje diferencial de los motores, el JA8119 se estrelló en la cresta de Osutaka, prefectura de Gunma. Murieron 520 de las 524 personas a bordo; sigue siendo el accidente más letal de la historia protagonizado por una sola aeronave.</p>
+<p>El 12 de agosto de 1985, un Boeing 747SR-46 de Japan Air Lines que cubría la ruta entre Tokio y Osaka sufrió, doce minutos después del despegue, la ruptura en vuelo del mamparo de presión trasero, mal reparado siete años antes. La descompresión explosiva arrancó el estabilizador vertical y reventó los cuatro sistemas hidráulicos, dejando la aeronave prácticamente sin controles. Tras 32 minutos de lucha de la tripulación por mantener el vuelo mediante el empuje diferencial de los motores, el JA8119 se estrelló en la cresta de Osutaka, prefectura de Gunma. Murieron 520 de las 524 personas a bordo; continúa siendo la catástrofe aérea con mayor número de víctimas mortales protagonizada por una sola aeronave.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Datos verificados del evento
@@ -25,19 +25,12 @@ image: 1985-08-12-accidente-vuelo-123-japan-airlines.webp
 - **Fecha del accidente:** 12 de agosto de 1985
 - **Hora del despegue:** 18:12 hora local (JST), pista 15L del Aeropuerto Internacional de Tokio (Haneda), con 12 minutos de retraso
 - **Hora de la descompresión:** 18:24, sobre la bahía de Sagami, a unos 7.300 metros de altitud
-- **Hora del impacto:** 18:56:30, en la cresta de Osutaka, junto al monte Takamagahara, aldea de Ueno, distrito de Tano, prefectura de Gunma, a unos 1.565 metros de elevación
-- **Aeronave:** Boeing 747SR-46, matrícula JA8119, entregado a Japan Air Lines en 1974
-- **Tiempo acumulado:** unos 25.030 horas de vuelo y 18.835 vuelos (ciclos)
-- **Operador:** Japan Air Lines
-- **Ruta:** Aeropuerto de Haneda (Tokio) → Aeropuerto de Itami (Osaka)
-- **Capitán:** Masami Takahama (49 años, unas 12.424 horas de vuelo, de ellas 4.842 en 747)
-- **Copiloto:** Yutaka Sasaki (39 años, unas 3.963 horas, en evaluación final para el ascenso a capitán)
-- **Ingeniero de vuelo:** Hiroshi Fukuda (46 años, unas 9.831 horas)
-- **Ocupantes:** 524 (509 pasajeros y 15 tripulantes)
-- **Víctimas mortales:** 520
-- **Supervivientes:** 4 (Yumi Ochiai, auxiliar de vuelo fuera de servicio; Hiroko Yoshizaki y su hija Mikiko Yoshizaki; Keiko Kawakami)
-- **Víctima destacada:** Kyu Sakamoto, cantante y actor japonés
-- **Causa determinada:** falla por fatiga del mamparo de presión trasero, reparado de forma incorrecta tras un tailstrike ocurrido el 2 de junio de 1978
+- **Hora del impacto:** 18:56:30, en la cresta de Osutaka, junto al monte Takamagahara, aldea de Ueno, prefectura de Gunma, a unos 1.565 metros de elevación
+- **Aeronave:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1969/02/09/boeing-747-primer-vuelo.html" style="color: #315fea; text-decoration: none;">Boeing 747SR-46</a>, matrícula `JA8119` (entregado en 1974; 25.030 horas y 18.835 ciclos)
+- **Operador y ruta:** Japan Air Lines, vuelo regular Tokio-Haneda → Osaka-Itami
+- **Tripulación de mando:** Capitán Masami Takahama (49 años, 12.424 horas), Copiloto Yutaka Sasaki (39 años, 3.963 horas) e Ingeniero de Vuelo Hiroshi Fukuda (46 años, 9.831 horas)
+- **Balance humano:** 524 ocupantes (509 pasajeros y 15 tripulantes); 520 fallecidos (entre ellos el cantante Kyu Sakamoto) y 4 supervivientes (Yumi Ochiai, Hiroko y Mikiko Yoshizaki y Keiko Kawakami)
+- **Causa determinada:** rotura por fatiga del mamparo de presión trasero, reparado incorrectamente tras un golpe de cola (*tailstrike*) sufrido el 2 de junio de 1978
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Contexto Histórico
@@ -59,24 +52,19 @@ El Japón de 1985 vivía la cúspide de su confianza económica y tecnológica, 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Desarrollo Cronológico
 
-- **1974:** El Boeing 747SR-46 JA8119 es entregado a Japan Air Lines.
-- **2 de junio de 1978:** Operando el vuelo 115 en la misma ruta, el JA8119 golpea la pista con la cola durante el aterrizaje en Itami; el mamparo de presión trasero se agrieta y técnicos de Boeing lo reparan en Haneda con dos placas separadas en lugar de una continua, desviándose del procedimiento de fábrica.
-- **12 de agosto de 1985, 18:12:** El vuelo 123 despega de la pista 15L de Haneda con 524 personas a bordo, 12 minutos detrás del horario.
-- **18:24:** A unos 7.300 metros sobre la bahía de Sagami, el mamparo cede tras más de 12.000 ciclos de presurización desde la reparación; la descompresión explosiva arranca el estabilizador vertical y revienta las tuberías de los cuatro sistemas hidráulicos. La tripulación declara la emergencia y reporta: «ahora incontrolable».
-- **18:26-18:48:** Sin superficies de mando, la aeronave entra en oscilaciones de fugoide y balance holandés; la tripulación intenta gobernarla con el empuje diferencial de los cuatro motores y, pasadas las 18:40, extiende el tren de aterrizaje para amortiguar los ciclos, con éxito parcial. El avión describe giros erráticos sobre la península de Izu, la bahía de Suruga y Otsuki mientras pierde altura gradualmente.
-- **Hacia las 18:50:** Un fotógrafo en Okutama capta desde tierra la imagen del 747 volando sin estabilizador vertical, seis minutos antes del impacto.
-- **18:56:30:** Con un alabeo de más de 40 grados y tras rozar el ala derecha una primera cresta, la aeronave se invierte y se estrella contra una segunda cresta junto al monte Takamagahara; los sismógrafos de la Universidad de Tokio registran el impacto. Habían transcurrido 32 minutos desde la falla del mamparo.
-- **Noche del 12 al 13 de agosto:** Un C-130 de la Fuerza Aérea de los Estados Unidos procedente de Yokota localiza el sitio unos 20 minutos después del impacto y transmite su posición; un helicóptero de las Fuerzas de Autodefensa japonesas lo confirma ya de noche, pero la visibilidad y el terreno impiden el descenso y, al no apreciarse supervivientes desde el aire, los equipos de tierra no parten esa noche y acampan a 63 kilómetros.
-- **Mañana del 13 de agosto:** Los rescatistas llegan al sitio; solo cuatro personas han sobrevivido a la noche. Los médicos constatan que varios pasajeros sobrevivieron al impacto y murieron de frío y shock esperando auxilio: «si el hallazgo hubiera llegado diez horas antes, habríamos encontrado más supervivientes», declararía uno de los facultativos.
+- **2 de junio de 1978:** Operando el vuelo 115 en la misma ruta, el `JA8119` golpea la pista con la cola al aterrizar en Itami; el mamparo de presión trasero se agrieta y técnicos de Boeing lo reparan en Haneda empleando dos placas de empalme separadas en lugar de una placa continua.
+- **12 de agosto de 1985, 18:12:** El vuelo 123 despega de la pista 15L de Haneda con 524 personas a bordo.
+- **18:24:** A unos 7.300 metros sobre la bahía de Sagami, el mamparo cede tras más de 12.000 ciclos desde la reparación; la descompresión explosiva arranca la mayor parte del estabilizador vertical y secciona los cuatro circuitos hidráulicos.
+- **18:26–18:50:** Sin superficies de mando operativas, el 747 entra en oscilaciones de fugoide y balance holandés; Takahama, Sasaki y Fukuda logran mantenerlo en el aire durante media hora modulando el empuje diferencial de los cuatro motores y bajando el tren de aterrizaje, mientras un fotógrafo en Okutama capta desde tierra la silueta del avión sin deriva.
+- **18:56:30:** Tras 32 minutos de lucha en cabina y después de rozar el ala derecha una primera elevación, la aeronave se invierte y se estrella a 1.565 metros sobre la ladera de Osutaka, en las estribaciones del monte Takamagahara.
+- **Noche del 12 al 13 de agosto:** Un C-130 estadounidense de Yokota avista el incendio 20 minutos después del impacto, pero la oscuridad, la orografía escarpada y la creencia de que no había supervivientes postergan el descenso hasta la mañana siguiente, cuando los equipos de rescate hallan con vida únicamente a cuatro mujeres situadas en las filas traseras (filas 54–60) y constatan que decenas de heridos habían fallecido durante la noche.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Consecuencias e Impacto
 
-- **Balance humano:** 520 muertos y 4 supervivientes, las cuatro mujeres sentadas en las últimas filas del fuselaje. Entre 20 y 50 pasajeros sobrevivieron al impacto y fallecieron durante la noche por la demora del rescate, uno de los aspectos más dolorosos y discutidos del caso.
-- **Investigación oficial:** La Comisión de Investigación de Accidentes Aeronáuticos de Japón (AAIC), asistida por la NTSB estadounidense, reconstruyó el fuselaje trasero en la base de Chofu y atribuyó la catástrofe a la reparación defectuosa de 1978: Boeing calculó que esa configuración fallaría en torno a los 10.000 ciclos; el mamparo cedió pasados los 12.000. El informe recomendó, además, reforzar la caja de torsión del estabilizador para que una descompresión semejante no volviera a dejar la aeronave sin gobierno.
-- **Reconocimiento a la tripulación:** Los tres miembros de la cabina de mando, que lucharon por los controles hasta el instante final, recibieron póstumamente el Polaris Award en 1987.
-- **Impacto en Japan Air Lines:** La confianza del público se desplomó; el tráfico doméstico cayó hasta un tercio en los meses siguientes y parte de la demanda migró a All Nippon Airways. El presidente Yasumoto Takagi renunció; el gerente de mantenimiento Hiroo Tominaga y el ingeniero Susumu Tajima, que había firmado la aeronave como apta tras el tailstrike, se quitaron la vida en actos de expiación.
-- **Impacto en la industria:** El caso se convirtió en referencia mundial sobre el peligro de las grietas de fatiga multisitio y sobre la responsabilidad de verificar en sitio toda reparación mayor, e impulsó programas de envejecimiento de aeronaves y de inspección de estructuras reparadas.
+- **Investigación técnica y rediseño:** La comisión investigadora japonesa (AAIC), junto a la NTSB, demostró que el empalme discontinuo de 1978 redujo un 70 % la resistencia a la fatiga del mamparo e impulsó la instalación de válvulas de cierre hidráulico (*hydraulic fuses*) en la cola de los Boeing 747 para evitar el vaciado simultáneo de los cuatro sistemas.
+- **Reconocimiento y conmoción institucional:** La tripulación recibió póstumamente el *Polaris Award* de la IFALPA en 1987; en Japón, el Presidente de JAL, Yasumoto Takagi, presentó su dimisión, mientras que un responsable de mantenimiento de la aerolínea en Haneda y un ingeniero de inspección se quitaron la vida abrumados por el sentimiento de responsabilidad.
+- **Programas de integridad estructural:** El siniestro obligó a la industria mundial a revisar los protocolos de certificación y supervisión en sitio de toda reparación estructural mayor en fuselajes presurizados.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 ## Legado

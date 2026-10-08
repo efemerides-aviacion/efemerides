@@ -8,7 +8,6 @@ pais: Alemania Occidental
 operator: N/A (piloto privado)
 excerpt: "El 28 de mayo de 1987, Mathias Rust, un piloto aficionado de 19 años, aterrizó su Cessna 172 en la Plaza Roja de Moscú después de volar 1.000 kilómetros a través del espacio aéreo soviético sin ser interceptado. El incidente expuso graves vulnerabilidades en el sistema de defensa aérea soviético y desencadenó la destitución de 200 altos mandos militares, incluyendo al Ministro de Defensa."
 image: 1987-05-28-mathias-rust-aterriza-avioneta-plaza-roja-moscu.webp
-
 ---
 
 <figure>
@@ -49,15 +48,15 @@ El vuelo de Rust ocurrió en un momento crucial de la Guerra Fría, cuando Mija�
 
 ### Entorno social
 
-La Unión Soviética de 1987 era una superpotencia militar con un sistema de defensa aérea considerado uno de los más sofisticados del mundo. Contaba con cerca de 1.300 cazas interceptores, 9.600 lanzamisiles antiaéreos y 7.000 radares distribuidos en todo su territorio. Sin embargo, cuatro años antes, en 1983, un caza soviético había derribado el vuelo 007 de Korean Air Lines, causando 269 muertes. Este incidente provocó una condena internacional masiva y llevó a las autoridades soviéticas a emitir órdenes estrictas que prohibían derribar aeronaves civiles no identificadas sin autorización explícita de los más altos mandos.
+La Unión Soviética de 1987 era una superpotencia militar con un sistema de defensa aérea considerado uno de los más sofisticados del mundo. Contaba con cerca de 1.300 cazas interceptores, 9.600 lanzamisiles antiaéreos y 7.000 radares distribuidos en todo su territorio. Sin embargo, cuatro años antes, en 1983, un caza soviético había protagonizado el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1983/09/01/derribo-vuelo-007-korean-air.html" style="color: #315fea; text-decoration: none;">derribo del vuelo 007 de Korean Air Lines</a>, causando 269 muertes. Este incidente provocó una condena internacional masiva y llevó a las autoridades soviéticas a emitir órdenes estrictas que prohibían derribar aeronaves civiles no identificadas sin autorización explícita de los más altos mandos.
 
 ### Entorno tecnológico
 
-La Cessna 172, un avión ligero de ala alta fabricado por Cessna Aircraft Company, no era un avión militar sofisticado. Su velocidad máxima es de aproximadamente 230 km/h y su techo de vuelo es de unos 4.200 metros. Sin embargo, sus pequeñas dimensiones y su construcción de materiales compuestos lo hacían difícil de detectar por radar, ya que su sección transversal de radar es comparable a la de una bandada de aves. Esta característica técnica fue crucial para su capacidad de evasión.
+La <a href="https://efemerides-aviacion.github.io/efemerides/evento/1959/02/07/timm-cook-record-cessna172.html" style="color: #315fea; text-decoration: none;">Cessna 172</a>, un avión ligero de ala alta fabricado bajo licencia en Francia por Reims Aviation (`F172P`), no era un aparato militar sofisticado. Su velocidad máxima es de aproximadamente 230 km/h y su techo de vuelo es de unos 4.200 metros. Sin embargo, sus pequeñas dimensiones y su vuelo a muy baja cota lo hacían difícil de discriminar en los radares de alerta temprana. Esta característica operativa resultó crucial para su capacidad de evasión.
 
 ### Entorno cultural
 
-El incidente fue recibido con incredulidad y burla en Occidente, pero con consternación en la Unión Soviética. Para los ciudadanos soviéticos, acostumbrados a la imagen de invulnerabilidad de su país, la penetración de un avión civil en el corazón de Moscú fue una humillación nacional. Para Gorbachov, sin embargo, representó una oportunidad política inesperada para purgar a los altos mandos militares conservadores que se oponían a sus reformas.
+El incidente fue recibido con incredulidad y burla en Occidente, pero con consternación en la Unión Soviética. Para los ciudadanos soviéticos, acostumbrados a la imagen de invulnerabilidad de su país, la penetración de un avión civil en el corazón de Moscú fue una humillación nacional. Para Gorbachov, sin embargo, representó una oportunidad política inesperada para relevar a la cúpula castrense tradicionalista que frenaba su agenda reformista.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

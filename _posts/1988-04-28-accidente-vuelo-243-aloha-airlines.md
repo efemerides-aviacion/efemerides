@@ -57,7 +57,7 @@ Aloha Airlines era una aerolínea regional con una fuerte presencia en la cultur
 
 ### Entorno tecnológico
 
-El Boeing 737 es uno de los aviones comerciales más exitosos de la historia. Su diseño básico data de mediados de la década de 1960, cuando los ingenieros no anticipaban que un avión pudiera acumular 90.000 ciclos de vuelo. Las uniones de traslape (lap joints) del fuselaje, donde se unían las planchas de aluminio, se ensamblaban con remaches, creando pequeñas cavidades donde se podía acumular humedad y corrosión. La corrosión por grietas (exfoliación) podía extenderse y debilitar la estructura, un mecanismo de fallo que no era bien comprendido antes de este accidente.
+El <a href="https://efemerides-aviacion.github.io/efemerides/evento/1967/04/09/primer-vuelo-prototipo-boeing-737.html" style="color: #315fea; text-decoration: none;">Boeing 737</a> figura entre los reactores comerciales más difundidos de la historia. Su diseño básico databa de mediados de la década de 1960, cuando las juntas longitudinales de solape (*lap joints*) de los primeros ejemplares (hasta el avión de línea 291) se unían mediante adhesivo epoxi en frío acompañado de remaches avellanados. En climas tropicales húmedos y salinos, la degradación del adhesivo permitía la entrada de humedad, originando corrosión por exfoliación y pequeñas grietas de fatiga en múltiples agujeros de remache contiguos (*Multiple Site Damage*, MSD), un fenómeno que tres años antes ya había intervenido en el <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1985/08/12/accidente-vuelo-123-japan-airlines.html" style="color: #315fea; text-decoration: none;">desastre del vuelo 123 de Japan Air Lines</a>.
 
 ### Entorno cultural
 
@@ -67,81 +67,26 @@ La cultura de mantenimiento de Aloha Airlines había sido criticada antes del ac
 
 ## Desarrollo Cronológico
 
-- **1969:** El Boeing 737-297 N73711 es entregado a Aloha Airlines. Recibe el nombre de "Queen Liliuokalani".
-- **Década de 1970-1980:** Aloha Airlines opera el avión en rutas interinsulares de alta frecuencia, acumulando un número récord de ciclos de vuelo.
-- **28 de abril de 1988, 13:25:** El vuelo 243 despega del aeropuerto de Hilo con destino a Honolulu, Hawái.
-- **13:48:** A 24.000 pies de altitud, aproximadamente a 23 kilómetros al sur de la isla de Maui, una sección de 5,5 metros de largo del fuselaje superior (en la parte delantera de la cabina) se desprende explosivamente.
-- **Instantes después del evento:** La cabina queda expuesta al aire exterior. El piloto Robert Schornstheimer inicia un descenso de emergencia.
-- **13:53:** A las 5 minutos de la descompresión, Schornstheimer contacta con el control de tráfico aéreo de Kahului, en la isla de Maui, y solicita un aterrizaje de emergencia.
-- **14:00:** Schornstheimer aterriza el avión en el aeropuerto de Kahului. El tren de aterrizaje principal se despliega, pero no se puede confirmar que esté asegurado. El aterrizaje es fuerte, y la aeronave se detiene en la pista. La única fallecida es la sobrecargo Clarabelle Lansing, quien fue expulsada de la aeronave durante la descompresión. El resto de los ocupantes (94 personas) sobrevive, con 65 heridos.
-
-### Sucesos durante el vuelo
-
-El desastre del vuelo 243 es un estudio de caso sobre fallo estructural, factores humanos y gestión de emergencias.
-
-### El punto de ruptura: corrosión y fatiga
-
-El fallo ocurrió en la unión de traslape (lap joint) entre la fila de ventanas 13 y 14, en la parte superior izquierda del fuselaje. La inspección post-accidente reveló una corrosión extensa entre las dos capas de aluminio que formaban el fuselaje. La humedad, combinada con la exposición al aire cargado de sal, había penetrado entre las planchas debido a un fallo en el sellado de los remaches. La corrosión por grietas (exfoliación) había debilitado la estructura hasta el punto de que la presión diferencial (la cabina presurizada a 5,5 psi y la baja presión atmosférica a 24.000 pies) era suficiente para arrancar la parte superior del fuselaje.
-
-### La descompresión explosiva
-
-La pérdida de la sección del fuselaje fue violenta y repentina. La rápida despresurización provocó una niebla densa de agua condensada en la cabina. Varios pasajeros fueron golpeados por escombros voladores. Los cinturones de seguridad, cruciales en este tipo de emergencias, evitaron que la mayoría de los pasajeros fueran succionados. Lamentablemente, la auxiliar de vuelo Clarabelle Lansing, que estaba en la parte delantera de la cabina y sin cinturón de seguridad, fue expulsada instantáneamente al exterior.
-
-### La gestión del capitán
-
-El Capitán Robert Schornstheimer y la primera oficial Madeleine Tompkins actuaron con una calma y profesionalismo excepcionales. A pesar de la falta de comunicación entre la cabina y la cabina de pasajeros, y de la exposición al viento huracanado, Schornstheimer inició una maniobra de descenso. La estructura del avión, aunque gravemente dañada, se mantuvo unida. Los controles de vuelo seguían funcionando, pero la aeronave se encontraba en una configuración aerodinámica desconocida. Con un conocimiento profundo del avión y una habilidad innata, logró estabilizar el Boeing 737 y dirigirse a la pista de aterrizaje más cercana. Su aterrizaje, aunque fuerte, evitó una catástrofe mayor.
-
-### Investigación y causas
-
-La Junta Nacional de Seguridad en el Transporte (NTSB) llevó a cabo una investigación exhaustiva. Tras un análisis detallado, la NTSB emitió su informe final (AAR-89-03) el 14 de junio de 1989.
-
-### Causa probable
-
-La NTSB determinó que la causa probable del accidente fue:
-
-> "El fallo del fuselaje debido a la pérdida de integridad estructural causada por la corrosión en la unión de traslape S-10L. Esta corrosión se desarrolló y progresó como resultado de la falta de detección e inspección adecuada de la corrosión en áreas ocultas del fuselaje por parte de Aloha Airlines y de la Federal Aviation Administration (FAA)".
-
-### Factores contribuyentes
-
-La investigación identificó múltiples factores que contribuyeron al desastre:
-
-- **Diseño original de la unión de traslape:** El diseño de la unión creaba cavidades donde se podía acumular agua y otros contaminantes.
-- **Fallo en el sellado de los remaches:** El ambiente salino penetró en las cavidades, iniciando el proceso de corrosión.
-- **Falta de inspección adecuada:** El personal de mantenimiento no pudo detectar la corrosión en las áreas ocultas del fuselaje porque las inspecciones se realizaban de manera superficial, sin desmontar los asientos interiores o los paneles de acceso.
-- **Gran número de ciclos de presurización combinados con el ambiente corrosivo:** Las presiones cíclicas (más de 89.000 ciclos) aceleraron el crecimiento de las grietas y la corrosión por fatiga.
-- **Falta de regulación contra la corrosión en aeronaves operadas en ambientes marinos:** La FAA no tenía requisitos específicos para inspeccionar la corrosión en aeronaves con alta humedad y exposición al aire cargado de sal.
-
-### Consecuencias inmediatas
-
-Inmediatamente después del accidente, la NTSB emitió recomendaciones urgentes a la FAA para inspeccionar todos los Boeing 737 con un alto número de ciclos de vuelo. También recomendó una revisión de los procedimientos de mantenimiento y la implementación de programas específicos para detectar y prevenir la corrosión en aeronaves.
+- **Abril de 1969:** El Boeing 737-297 `N73711` (línea de montaje `152`), bautizado *«Queen Liliuokalani»*, es entregado a Aloha Airlines; durante diecinueve años de saltos interinsulares de 20 a 30 minutos acumula **89.680 ciclos de vuelo** (más del doble de los 75.000 ciclos de vida económica proyectados originalmente).
+- **28 de abril de 1988, 13:25 HST:** El vuelo `AQ243` despega del aeropuerto de Hilo rumbo a Honolulu con 89 pasajeros y 6 tripulantes, al mando del Capitán Robert Schornstheimer y de la Primera Oficial Madeleine «Mimi» Tompkins (quien lleva los controles en ese tramo).
+- **13:48 HST (descompresión explosiva a 24.000 pies):** Al nivelarse a 24.000 pies a unas 23 millas náuticas al sur-sureste de Kahului, falla por fatiga multisitio la unión longitudinal de solape `S-10L` y la presión diferencial arranca de cuajo unos **5,5 metros (18 pies) del techo y los laterales superiores del fuselaje**, desde detrás de la cabina de mando hasta el encastre delantero del plano alar (filas 1 a 13 de clase turista). La sobrecargo jefe Clarabelle «C.B.» Lansing, que atendía de pie a los pasajeros de la fila 5, es succionada al vacío a través de la abertura y su cuerpo nunca es hallado en el océano; el resto del pasaje permanece sujeto a sus asientos en medio de un vendaval de más de 500 km/h y temperaturas bajo cero.
+- **13:49–13:58 HST (descenso de emergencia hacia Maui):** Pese a la rotura de los cables del motor izquierdo, la pérdida de instrumentos y el ruido ensordecedor que les obliga a comunicarse por señas, Schornstheimer asume el mando, despliega los frenos aerodinámicos, desciende a más de 4.000 pies por minuto hasta los 10.000 pies, reduce la velocidad a 210 nudos al notar vibraciones estructurales en el piso flexionado de la cabina y declara la emergencia hacia el aeropuerto de Kahului (Maui), preparando el aterrizaje con flaps a 5° y un solo motor operativo tras apagarse el turbofán izquierdo.
+- **13:58–14:00 HST (aterrizaje en la pista 02 de Kahului):** Sin luz verde de bloqueo de la pata de morro pero con el tren efectivamente extendido, la tripulación posa suavemente el Boeing 737 en la pista 02 de Kahului apenas doce minutos después de la rotura. Los 94 ocupantes restantes (89 pasajeros y 5 tripulantes) evacuan por las rampas hinchables; 65 personas reciben asistencia médica (8 de ellas con lesiones graves).
+- **14 de junio de 1989:** La Junta Nacional de Seguridad en el Transporte (**NTSB**) aprueba el informe final `AAR-89/03`, determinando como causa probable el fallo de los programas de mantenimiento de Aloha Airlines para detectar el despegado del adhesivo y la corrosión con fatiga multisitio en la junta `S-10L`, así como la insuficiente supervisión de la FAA.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Consecuencias e Impacto
 
-- **National Aging Aircraft Program:** La FAA lanzó oficialmente el Programa de Aeronaves Envejecidas (Aging Aircraft Program) en 1991, con el objetivo de desarrollar nuevas reglas para el mantenimiento y la inspección de aeronaves con altas horas de vuelo y número de ciclos. Este programa incluyó inspecciones obligatorias de corrosión y el reemplazo de secciones críticas de fuselaje.
-
-- **Nuevas regulaciones de mantenimiento:** La FAA emitió nuevas directivas que exigían a los operadores inspeccionar las áreas ocultas susceptibles a la corrosión. Esto incluye técnicas de inspección no destructiva (END), como ultrasonidos y corrientes de Eddy.
-
-- **Mejora en el diseño de Boeing:** Boeing desarrolló y distribuyó boletines de servicio a todos los operadores del 737 que detallaban nuevos procedimientos de inspección para las uniones de traslape.
-
-- **Heroísmo en la aviación:** El Capitán Robert Schornstheimer y la primera oficial Madeleine Tompkins recibieron numerosos premios por su profesionalismo, incluyendo el premio "Heroísmo" de la Asociación de Pilotos de Líneas Aéreas (ALPA).
+- **Creación del Programa Nacional de Aeronaves Envejecidas (*National Aging Aircraft Research Program*):** El Congreso estadounidense sancionó la *Aviation Safety Research Act* de 1988 y la FAA instauró en 1991 el programa de envejecimiento estructural, obligando a sustituir remaches y chapas superpuestas al alcanzar umbrales fijos de ciclos de presurización.
+- **Generalización de ensayos no destructivos (END):** Las autoridades aeronáuticas hicieron obligatorias las inspecciones periódicas mediante corrientes inducidas (*Eddy current*) y ultrasonidos con desmontaje del aislamiento interior en todas las uniones longitudinales pegadas en frío.
+- **Distinción a la pericia de la tripulación:** Los dos pilotos y las auxiliares de cabina supervivientes (Jane Sato-Tomita y Michelle Honda, quien recorrió el pasillo a rastras sujetándose a los asientos para calmar y asistir a los heridos) fueron galardonados por asociaciones internacionales de seguridad aérea por lograr el aterrizaje intacto de un avión que estuvo al borde del colapso en vuelo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
-El vuelo 243 de Aloha Airlines es uno de los casos más emblemáticos de la historia de la seguridad aérea. Marcó un antes y un después en la comprensión de la fatiga del metal en aeronaves de alta utilización. El concepto de "avión envejecido" pasó a ser un tema central en los programas de mantenimiento de la industria. El accidente también demostró que la formación de la tripulación y los factores humanos (como la gestión de emergencias y el trabajo en equipo) son tan cruciales como la integridad estructural del avión.
-
-El legado de Clarabelle "C.B." Lansing, la auxiliar de vuelo fallecida, inspiró a la industria a reforzar la seguridad de los asistentes de vuelo. Su recuerdo está grabado en la memoria de la aviación civil.
-
-El avión siniestrado, N73711, fue reparado y devuelto al servicio por Aloha Airlines después de un año y medio de reconstrucción, siendo apodado como "The Survivor". Voló comercialmente hasta 1993, cuando Aloha Airlines cesó sus operaciones. Posteriormente fue vendido y usado por otras aerolíneas antes de ser retirado en 1997.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre el nombre "Queen Liliuokalani":</strong> El avión fue bautizado así en honor a la última monarca reinante del Reino de Hawái, depuesta en 1893. Su nombre fue elegido por Aloha Airlines como un tributo a la historia hawaiana.</p>
-</div>
+El vuelo 243 de Aloha Airlines permanece como el caso paradigmático de fatiga por daño multisitio (*Multiple Site Damage*) en la ingeniería aeroespacial moderna y demostró la eficacia vital de mantener abrochado el cinturón de seguridad durante todo el crucero. En memoria de la sobrecargo Clarabelle «C.B.» Lansing se dedicó un jardín conmemorativo en el Aeropuerto Internacional de Honolulu, mientras que el Boeing 737 `N73711` —declarado pérdida total constructiva por la magnitud de la deformación de su viga de quilla y fuselaje— fue desguazado en el mismo aeropuerto de Kahului tras concluir la investigación forense de la NTSB.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -155,6 +100,12 @@ El avión siniestrado, N73711, fue reparado y devuelto al servicio por Aloha Air
     <li><a href="https://www.des-presurizados.com/investigaciones/vuelo-243-aloha-airlines" style="color: #315fea; text-decoration: none;">Despresurizados - Vuelo 243 Aloha Airlines: Causas y análisis</a></li>
     <li><a href="https://www.thisdayinaviation.com/28-april-1988/" style="color: #315fea; text-decoration: none;">This Day in Aviation - April 28, 1988</a></li>
   </ul>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
+
+<div class="note-box">
+<p><strong>Nota aclaratoria:</strong> El Boeing 737-297 <code>N73711</code> llevaba el nombre de <em>«Queen Liliuokalani»</em> en honor a la última soberana del Reino de Hawái. Contrariamente a un mito difundido en algunas páginas divulgativas, la aeronave nunca fue reparada ni devuelta al servicio comercial: tras permanecer almacenada en Kahului a disposición de los investigadores de la NTSB, fue desmantelada en el propio recinto aeroportuario de Maui como chatarra (<em>written off</em> / pérdida total).</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
