@@ -34,8 +34,8 @@ image: 2005-09-05-accidente-vuelo-091-mandala-airlines-medan.webp
 - **Tripulación técnica:** Capitán Askar Timur (34 años; 7.552 horas de vuelo, 7.302 en Boeing 737) y Primer Oficial Daufir Efendi (31 años; 2.353 horas, 685 en Boeing 737), más tres tripulantes de cabina
 - **Ocupantes:** 117 personas (112 pasajeros y 5 tripulantes; 114 adultos y 3 niños)
 - **Víctimas:** 100 fallecidos a bordo y 17 supervivientes, 15 de ellos con heridas graves; en tierra, 49 fallecidos y 26 heridos graves
-- **Víctimas notables:** el gobernador de Sumatra Septentrional, Rizal Nurdin, y su antecesor en el cargo, Raja Inal Siregar, ambos pasajeros del vuelo
-- **Causa (informe final del NTSC, 2009):** despegue con configuración incorrecta —flaps y slats retraídos— que impidió sustentar el aparato; ejecución indebida de las listas de verificación, que no detectaron la posición retraída; el aviso sonoro de configuración de despegue no se oyó en el canal de micrófono de cabina del registrador de voces
+- **Víctimas notables:** el Gobernador de Sumatra Septentrional, Rizal Nurdin, y su antecesor en el cargo, Raja Inal Siregar, ambos pasajeros del vuelo
+- **Causa (informe final del NTSC, 2009):** despegue con configuración inadecuada —flaps y slats retraídos— que impidió sustentar el aparato, originado por una lectura deficiente de la lista de comprobación prevuelo y la ausencia de registro de la bocina de alerta de configuración en el micrófono de cabina
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -49,7 +49,7 @@ El vuelo 091 era un trayecto cotidiano entre la mayor ciudad de Sumatra y la cap
 
 ### Entorno tecnológico
 
-El Polonia era un aeropuerto embebido en la trama urbana de Medán, con una pista sin margen para una salida fallida a gran velocidad. El aparato implicado, un 737-200 de segunda generación con 24 años de servicio, exigía el cumplimiento estricto de las listas de verificación antes del despegue: la selección de flaps y slats y la comprobación de sus luces de posición eran el último dique de contención, reforzado en teoría por el aviso sonoro de configuración de despegue.
+El Polonia era un aeropuerto embebido en la trama urbana de Medán, con una pista sin margen para una salida fallida a gran velocidad. El aparato implicado, un 737-200 de segunda generación con 24 años de servicio, exigía el cumplimiento estricto de los procedimientos antes de iniciar la carrera: la selección de flaps y slats y la comprobación de sus luces indicadoras constituían la barrera principal, respaldada por la alarma acústica de configuración del sistema de advertencia de despegue.
 
 ### Entorno cultural
 
@@ -77,7 +77,7 @@ La aviación indonesia de aquellos años conjugaba el crecimiento de las compañ
 - **Factores descartados:** el desmontaje de los motores JT8D acreditó un funcionamiento normal; los datos de peso y centrado descartaron el exceso de carga como factor; los seis husillos de accionamiento de flaps recuperados, todos en posición cero, descartaron la asimetría de flaps.
 - **Emergencia cuestionada:** el informe concluyó que la ejecución deficiente del plan de emergencia del aeropuerto y la falta de coordinación entre los equipos de rescate pudieron reducir el número de supervivientes, ya que la primera asistencia corrió a cargo de los vecinos.
 - **Recomendaciones:** el NTSC emitió ocho recomendaciones de seguridad dirigidas a Mandala Airlines y a la dirección general de aviación civil, centradas en la disciplina de las listas de verificación y en la comprobación de los sistemas de aviso de configuración.
-- **Una serie conocida:** el accidente se inscribió en la serie de siniestros por despegue con configuración incorrecta que la Federal Aviation Administration (FAA) (Administración Federal de Aviación de Estados Unidos) documenta en su programa Lessons Learned, junto al Northwest 255 de Detroit (1987) y al Spanair 5022 de Madrid (2008). La fase de despegue, en la que la tripulación dispone de segundos para reaccionar, ya había producido el accidente más letal de la historia de la aviación civil, la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1977/03/27/colision-dos-b747-los-rodeos.html" style="color: #315fea; text-decoration: none;">colisión de dos Boeing 747 en Los Rodeos (1977)</a>.
+- **Una serie conocida:** el accidente se inscribió en la serie de siniestros por despegue con configuración incorrecta que la Federal Aviation Administration (FAA) (Administración Federal de Aviación de Estados Unidos) documenta en su programa Lessons Learned, junto al Northwest 255 de Detroit (1987) y al Spanair 5022 de Madrid (2008). La fase de despegue, en la que la tripulación dispone de segundos para reaccionar, ya había producido el desastre más mortífero del transporte aéreo comercial, la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1977/03/27/colision-dos-b747-los-rodeos.html" style="color: #315fea; text-decoration: none;">colisión de dos Boeing 747 en Los Rodeos (1977)</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -110,9 +110,9 @@ Con 149 víctimas, el vuelo 091 de Mandala sigue siendo el accidente más letal 
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-08-30 08:08:30 CST  
-- **Fuentes primarias/institucionales consultadas:** Comité Nacional de Seguridad del Transporte de Indonesia (informe final KNKT/05.24/09.01.38, copia alojada por la FAA); SKYbrary; FAA (Lessons Learned)  
-- **Fuentes secundarias de contraste:** Wikipedia (EN); Bureau of Aircraft Accident Archives; Simple Flying  
-- **Discrepancias resueltas:** Hora del impacto (10:15 en la prensa de época frente a la secuencia del informe con autorización de despegue a las 10:03), resuelta como «pasadas las 10:00» con nota aclaratoria; denominación del tipo unificada como Boeing 737-230 Adv frente al «737-200» genérico; cifras de víctimas tomadas del informe final (100 a bordo, 49 en tierra, 149 en total, 17 supervivientes) frente a recuentos provisionales de prensa  
+- **Timestamp de verificación:** 2026-10-07 19:26:00 CST  
+- **Fuentes primarias/institucionales consultadas:** NTSC de Indonesia (Informe final KNKT/05.24/09.01.38 vía FAA); SKYbrary; FAA (Lessons Learned).
+- **Fuentes secundarias de contraste:** Wikipedia (EN); BAAA; Simple Flying.
+- **Discrepancias resueltas:** Se adopta la secuencia horaria («pasadas las 10:00», con autorización de despegue a las 10:03) y el balance definitivo de víctimas (100 a bordo, 49 en tierra y 17 supervivientes) del informe oficial del NTSC.
 - **Nivel de confianza:** Alto  
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.

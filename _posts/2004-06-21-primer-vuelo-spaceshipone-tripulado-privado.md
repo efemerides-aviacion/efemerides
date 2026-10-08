@@ -12,145 +12,77 @@ image: 2004-06-21-primer-vuelo-spaceshipone-tripulado-privado.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2004-06-21-primer-vuelo-spaceshipone-tripulado-privado.webp" alt="SpaceShipOne en su primer vuelo espacial privado">
-  <figcaption class="post-caption">El SpaceShipOne (N328KF) en maniobra de aterrizaje sobre el desierto de Mojave, tras ser lanzado desde el avión nodriza White Knight durante el programa que culminó con el primer vuelo espacial privado tripulado el 21 de junio de 2004; fuente: El Mundo.</figcaption>
+  <figcaption class="post-caption">El SpaceShipOne (N328KF) en maniobra de aterrizaje sobre el desierto de Mojave, tras ser lanzado desde el avión nodriza White Knight durante el programa que culminó con el primer ascenso espacial privado con piloto a bordo el 21 de junio de 2004; fuente: El Mundo.</figcaption>
 </figure>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-  <p>El 21 de junio de 2004, a las 7:50 a.m. hora local, el SpaceShipOne se separó del avión nodriza White Knight a 14 km de altitud sobre el desierto de Mojave, California. Mike Melvill, piloto de pruebas de 63 años, encendió el motor cohete híbrido y, en 76 segundos, impulsó la nave hasta los 100,124 km —la frontera reconocida del espacio exterior. Fue el primer vuelo espacial tripulado financiado con capital privado, sin participación de ningún gobierno. La nave permaneció en el espacio durante aproximadamente tres minutos y medio, tiempo en el que Melvill experimentó la ingravidez y observó la curvatura de la Tierra. A pesar de problemas técnicos (un rolido inesperado y el bloqueo temporal de un sistema de control), la nave regresó a salvo y aterrizó en el aeropuerto de Mojave 24 minutos después del despegue. El vuelo, que costó 25 millones de dólares financiados por Paul Allen (cofundador de Microsoft) y fue diseñado por Burt Rutan, abrió la puerta a la era del turismo espacial comercial.</p>
+  <p>El 21 de junio de 2004, a las 07:50 hora local, el SpaceShipOne se separó del avión nodriza White Knight a 14 km de altitud sobre el desierto de Mojave, California. Mike Melvill, piloto de pruebas de 63 años, encendió el motor cohete híbrido y, en 76 segundos, impulsó la nave hasta los 100,124 km —por encima de la línea de Kármán, la frontera reconocida del espacio exterior—. Fue el primer vuelo espacial tripulado financiado con capital privado, sin participación gubernamental. La nave permaneció en ingravidez durante unos tres minutos y medio y, pese a sufrir un rolido brusco y el bloqueo temporal de un actuador primario durante el ascenso, regresó a salvo a Mojave tras 24 minutos de vuelo autónomo. Desarrollado por Burt Rutan con 25 millones de dólares aportados por Paul Allen, el proyecto inauguró la era de la astronáutica comercial privada.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Datos verificados del evento
 
-- **Fecha del vuelo:** 21 de junio de 2004 
-- **Hora:** Despegue con White Knight a las 06:47 PDT; separación a las 07:50 PDT; aterrizaje a las 08:14 PDT (15:14 UTC) 
-- **Duración total:** 24 minutos y 5 segundos 
-- **Altitud máxima (apogeo):** 100,124 km (328,491 pies) 
-- **Velocidad máxima:** Mach 2,9 (3.460 km/h; 961 m/s) 
-- **Duración del encendido del cohete:** 76 segundos 
-- **Tiempo en el espacio:** ~3,5 minutos de ingravidez 
-- **Distancia recorrida:** 35 km 
-- **Piloto:** Mike Melvill (63 años) 
-- **Diseñador:** Burt Rutan (Scaled Composites) 
-- **Financiador:** Paul Allen (cofundador de Microsoft) 
-- **Coste de desarrollo:** ~25 millones de dólares 
-- **Nave nodriza:** White Knight 
-- **Motor:** Cohete híbrido (combustible sólido de caucho + óxido nitroso) 
-- **Distinción:** Primer astronauta comercial con licencia de la FAA 
-- **Récord:** Primer vuelo espacial tripulado financiado con capital privado 
-
-### Especificaciones Técnicas (SpaceShipOne)
-
-- **Fabricante:** Scaled Composites
-- **Diseñador:** Burt Rutan
-- **Tripulación:** 1 piloto (capacidad para 3 personas en vuelos de competición)
-- **Masa al despegue:** 3.600 kg 
-- **Masa en vacío:** 1.200 kg 
-- **Motor:** Cohete híbrido (combustible: caucho + óxido nitroso) 
-- **Velocidad máxima:** Mach 2,9 
-- **Sistema de reentrada:** "Pluma" (feathering) — las alas se pliegan para aumentar la resistencia y estabilizar el descenso 
-- **Primer vuelo:** 20 de mayo de 2003 
-- **Retiro:** 4 de octubre de 2004 (tras ganar el Premio Ansari X) 
-- **Estado actual:** Exhibido en el National Air and Space Museum de Washington D.C. 
+- **Fecha y misión:** 21 de junio de 2004, vuelo 15P del programa *Tier One*.
+- **Horarios:** despegue acoplado al avión nodriza *White Knight* a las 06:47 PDT; suelta a las 07:50 PDT a 14 km de altitud; aterrizaje en Mojave a las 08:14 PDT (15:14 UTC).
+- **Duración del vuelo autónomo:** 24 minutos y 5 segundos (~3,5 minutos de ingravidez).
+- **Altitud máxima (apogeo):** 100,124 km (328.491 pies).
+- **Velocidad máxima y encendido:** Mach 2,9 (3.460 km/h; 961 m/s) tras 76 segundos de combustión del motor cohete híbrido (polibutadieno hidroxiterminado sólido y óxido nitroso líquido).
+- **Aeronave:** Scaled Composites Model 316 *SpaceShipOne*, matrícula N328KF; peso al despegue de 3.600 kg (1.200 kg en vacío) y sistema de reentrada por plegado de cola en configuración de «pluma» (*feathering*).
+- **Piloto:** Mike Melvill (63 años), distinguido tras el aterrizaje con la primera licencia y alas de astronauta comercial otorgadas por la Administración Federal de Aviación (FAA).
+- **Diseñador y financiador:** Burt Rutan (Scaled Composites) y Paul Allen (cofundador de Microsoft, con una inversión aproximada de 25 millones de dólares).
+- **Conservación:** retirado tras conquistar el Premio Ansari X el 4 de octubre de 2004 y expuesto en la galería *Milestones of Flight* del Museo Nacional del Aire y el Espacio de Washington D. C.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Contexto Histórico
 
-El vuelo del SpaceShipOne no fue un hecho aislado, sino la culminación de años de trabajo en el programa "Tier One" de Scaled Composites.
+El vuelo 15P del *SpaceShipOne* constituyó la culminación del programa *Tier One* de Scaled Composites, concebido para demostrar que una empresa aeronáutica ligera podía alcanzar el espacio suborbital sin recurrir al presupuesto ni a la infraestructura de las agencias estatales.
 
 ### Entorno social
 
-El 21 de junio de 2004 fue el **solsticio de verano**. Ese día, la Tierra estaba más cerca del Sol en su órbita, lo que añadió un simbolismo astronómico al vuelo de la primera nave espacial privada.
-
-En el contexto de la exploración espacial, la hazaña fue recibida con gran entusiasmo. La BBC calificó el evento como un "hito histórico para la astronáutica privada" , y la CNN destacó que Melvill había calificado su experiencia como "casi religiosa". La FAA otorgó a Melvill las primeras "alas de astronauta comercial" de Estados Unidos , y el director de la NASA, Sean O'Keefe, felicitó al equipo, calificándolos como "pioneros en su propio derecho".
-
-El vuelo tuvo lugar solo unos meses después de la publicación del informe de la comisión del presidente Bush sobre el futuro de la exploración espacial, que abogaba por un mayor papel del sector privado.
+El despegue coincidió con el solsticio de verano del hemisferio norte y congregó en las pistas de Mojave a miles de espectadores, ingenieros y periodistas. La prensa internacional saludó la misión como el nacimiento de la astronáutica civil privada, y el Administrador de la NASA, Sean O'Keefe, felicitó oficialmente al equipo de Rutan y Allen pocos meses después de que la comisión presidencial estadounidense sobre exploración espacial recomendara abrir la órbita baja y el acceso suborbital a la iniciativa empresarial.
 
 ### Entorno tecnológico
 
-El SpaceShipOne utilizaba una **configuración única de reentrada atmosférica** conocida como "pluma" (feathering). Al llegar al apogeo, las alas traseras se plegaban hacia arriba en un ángulo de aproximadamente 70 grados, aumentando drásticamente la resistencia y estabilizando la nave durante el descenso, de forma similar a un volante de bádminton. Esta innovación era clave para la seguridad y la reutilización de la nave.
-
-El motor era un **cohete híbrido** que quemaba una mezcla de caucho sólido y óxido nitroso (N₂O) como oxidante. Este sistema combinaba la simplicidad de los motores de combustible sólido con la capacidad de control y apagado de los motores líquidos.
+Frente a los escudos térmicos ablativos o las losetas cerámicas de las naves gubernamentales, Burt Rutan —quien ya había revolucionado la aviación de gran autonomía con el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1986/12/23/primer-vuelo-alrededor-mundo-sin-escala-sin-reabastecimiento.html" style="color: #315fea; text-decoration: none;">vuelo alrededor del mundo sin escalas del Rutan Voyager en 1986</a>— ideó una solución aerodinámica de baja carga térmica: el sistema de «pluma» (*feathering*). Antes de iniciar el descenso atmosférico, la mitad posterior del ala y los dos largueros de cola giraban hacia arriba unos 65–70 grados mediante actuadores neumáticos, de modo que el vehículo caía de forma estable como un volante de bádminton antes de recuperar la configuración de planeador a unos 17 km de altitud. La propulsión corría a cargo de un motor cohete híbrido que combinaba un grano sólido de caucho sintético (HTPB) con óxido nitroso líquido, dotado de válvula de corte para interrumpir el empuje en caso necesario.
 
 ### Entorno cultural
 
-El vuelo del SpaceShipOne fue un evento mediático que capturó la atención mundial. La nave, de 3,6 toneladas y diseño esbelto, era una clara ruptura con los cohetes gubernamentales. Representaba la visión de un futuro en el que el espacio sería accesible para la empresa privada y, eventualmente, para el público en general. Las comparaciones con el vuelo de los hermanos Wright fueron inmediatas; la propia nave había realizado su primer vuelo supersónico el 17 de diciembre de 2003, exactamente 100 años después del vuelo de Kitty Hawk.
+Con apenas 3,6 toneladas de peso al despegue y un fuselaje de fibra de carbono salpicado de ventanillas circulares, el *SpaceShipOne* encarnaba la tradición experimental del desierto de Mojave frente a los grandes complejos de lanzamiento estatales. La propia campaña de ensayos había subrayado ese paralelismo histórico al realizar su primer vuelo supersónico (vuelo 11P, Mach 1,2) el 17 de diciembre de 2003, día exacto del centenario de los hermanos Wright en Kitty Hawk.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Desarrollo Cronológico
 
-- **1994:** Burt Rutan comienza a desarrollar las ideas que darían lugar al SpaceShipOne 
-- **20 de mayo de 2003:** Primer vuelo del SpaceShipOne (sin motor) 
-- **17 de diciembre de 2003:** Primer vuelo supersónico (Mach 1,2), coincidiendo con el centenario del vuelo de los hermanos Wright 
-- **8 de abril de 2004:** Tercer vuelo motorizado, alcanzando 32 km de altitud 
-- **13 de mayo de 2004:** Cuarto vuelo motorizado, alcanzando 64,3 km de altitud (un récord para un avión privado en ese momento) 
-- **21 de junio de 2004:** Vuelo 15P — el primer vuelo espacial tripulado con financiación privada, alcanzando 100,124 km 
-- **4 de octubre de 2004:** SpaceShipOne gana el Premio Ansari X de 10 millones de dólares al completar dos vuelos espaciales en dos semanas con el equivalente a tres tripulantes a bordo 
-- **Posteriormente:** La nave es retirada y donada al National Air and Space Museum de Washington D.C. 
-
-### Las incidencias del vuelo
-
-El vuelo del SpaceShipOne no estuvo exento de problemas técnicos :
-
-1. **Rolido inesperado:** Poco después de la ignición, a unos 18 km de altitud, la nave experimentó un rolido brusco de 90° a la izquierda y luego a la derecha debido a una cizalladura del viento. Melvill logró estabilizar la nave, pero la corrección provocó que un actuator del sistema de control de vuelo se bloqueara temporalmente.
-
-2. **Fallo del trim:** El piloto y los controladores interpretaron el bloqueo como una falla del sistema principal y activaron el sistema de respaldo, que funcionó correctamente.
-
-3. **Carenado del motor:** Un nuevo carenado instalado alrededor de la tobera del cohete se deformó y abolló debido al calor, produciendo un fuerte golpe audible. Aunque alarmante, este incidente no afectó al rendimiento de la nave.
-
-4. **Desviación del punto de reentrada:** La nave descendió a 35 km al sur de la zona de reentrada prevista, pero Melvill corrigió la trayectoria y aterrizó sin problemas.
-
-A pesar de estas dificultades, el vuelo se consideró un éxito rotundo. Como declaró Burt Rutan después del vuelo: *"La anomalía que tuvimos hoy fue el problema más serio de todo el programa, y el hecho de que nuestro sistema de respaldo funcionara y aterrizáramos perfectamente me hace sentir muy bien"*.
-
-### Los protagonistas
-
-Detrás del éxito del SpaceShipOne hubo tres figuras clave que hicieron posible lo que parecía imposible: un ingeniero visionario, un piloto intrépido y un inversor decidido. Cada uno de ellos desempeñó un papel fundamental en la conquista del espacio por parte de la iniciativa privada.
-
-### Burt Rutan (diseñador)
-
-Ingeniero aeronáutico estadounidense, conocido por sus diseños innovadores. En 1986 diseñó el Voyager, el primer avión en dar la vuelta al mundo sin escalas ni repostaje. Su empresa, Scaled Composites, fue la encargada de construir el SpaceShipOne. Rutan concibió el proyecto "Tier One" como una forma de demostrar que los vuelos espaciales no requerían necesariamente el apoyo de los gobiernos y que podían ser accesibles a la empresa privada.
-
-### Mike Melvill (piloto)
-
-Piloto de pruebas de Scaled Composites, con 62 años en el momento del vuelo (63 años según algunas fuentes). Fue el primer astronauta comercial de la historia. Su experiencia y su calma durante las incidencias del vuelo fueron cruciales para el éxito de la misión. Tras el aterrizaje, declaró: *"Los colores vibran maravillosamente cuando estás allá arriba. Es casi una experiencia religiosa"*.
-
-### Paul Allen (financiador)
-
-Cofundador de Microsoft, Allen proporcionó los aproximadamente 25 millones de dólares necesarios para el desarrollo y las pruebas del SpaceShipOne. Su inversión fue clave para demostrar que el sector privado podía financiar misiones espaciales tripuladas.
+- **1996:** la Fundación X Prize anuncia un premio de 10 millones de dólares para la primera organización privada que supere dos veces los 100 km de altitud en menos de dos semanas con una nave reutilizable capaz de llevar tres personas; Burt Rutan inicia los estudios preliminares con el respaldo financiero de Paul Allen.
+- **20 de mayo de 2003:** primer vuelo cautivo del *SpaceShipOne* acoplado al avión nodriza birreactor *White Knight*.
+- **17 de diciembre de 2003:** primer vuelo propulsado y supersónico (Mach 1,2) a los mandos de Brian Binnie.
+- **8 de abril y 13 de mayo de 2004:** los vuelos motorizados 13P y 14P elevan progresivamente el techo del programa hasta 32 km y 64,3 km de altitud.
+- **21 de junio de 2004, 06:47–07:50 PDT:** el *White Knight* despega de Mojave y libera al *SpaceShipOne* a 14 km de altitud; Mike Melvill enciende el cohete híbrido e inicia el ascenso vertical.
+- **Ascenso e incidencias del vuelo 15P:** a unos 18 km de altura, una cizalladura de viento provoca un brusco alabeo de 90 grados y la corrección lleva al límite un actuador primario del compensador; Melvill conmuta al sistema eléctrico de respaldo, mientras el carenado térmico de la tobera sufre una abolladura audible por dilatación sin comprometer el empuje.
+- **Apogeo en la línea de Kármán:** tras 76 segundos de encendido, la nave alcanza 100,124 km de altitud. Durante tres minutos y medio de ingravidez, Melvill contempla la curvatura terrestre y libera frente a la cámara un puñado de caramelos de colores para mostrar la microgravedad.
+- **08:14 PDT:** pese a reentrar unos 35 km al sur de la traza nominal, Melvill restablece la geometría de planeo y aterriza sin daños en la pista de Mojave.
+- **29 de septiembre y 4 de octubre de 2004:** en los vuelos competitivos 16P (pilotado por Mike Melvill, 102,9 km) y 17P (pilotado por Brian Binnie, 112,0 km), el *SpaceShipOne* conquista oficialmente el Premio Ansari X.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Consecuencias e Impacto
 
-El éxito del SpaceShipOne tuvo un impacto inmediato y duradero en la industria aeroespacial:
+El éxito del 21 de junio de 2004 tuvo repercusiones inmediatas en la regulación y en la industria aeroespacial:
 
-- **Demostración de la viabilidad privada:** El vuelo demostró que un vehículo espacial tripulado podía ser diseñado, construido y operado con capital privado y sin apoyo gubernamental directo. Esto abrió la puerta a una nueva era de la exploración espacial.
-
-- **El Premio Ansari X:** El vuelo fue la prueba definitiva de que la tecnología para el Premio Ansari X era viable. El propio Rutan afirmó que "el éxito de la misión supondrá que las fronteras espaciales han quedado finalmente abiertas para la iniciativa privada". Dos meses después, el 4 de octubre de 2004, el SpaceShipOne ganó el premio de 10 millones de dólares.
-
-- **Inicio del turismo espacial:** El vuelo allanó el camino para empresas como Virgin Galactic, que encargó a Scaled Composites el diseño del SpaceShipTwo basado en la tecnología del SpaceShipOne. El objetivo declarado de Rutan y Allen era, en última instancia, hacer accesibles los vuelos espaciales al público general.
-
-- **Reconocimiento institucional:** La FAA otorgó a Melvill las primeras alas de astronauta comercial, estableciendo un precedente para futuros pilotos de vuelos espaciales privados. La NASA, en un comunicado, felicitó al equipo y reconoció la importancia de la hazaña.
+- **Reconocimiento normativo e institucional:** la oficina de transporte espacial comercial de la FAA entregó a Mike Melvill las primeras alas de astronauta comercial de la historia estadounidense, e impulsó ese mismo año la aprobación en el Congreso de la *Commercial Space Launch Amendments Act* para regular los vuelos suborbitales con participantes privados.
+- **Adjudicación del Premio Ansari X:** la validación del sistema de propulsión híbrida y del mecanismo de pluma permitió completar en octubre de 2004 los dos vuelos consecutivos exigidos por el certamen de 10 millones de dólares.
+- **Nacimiento de empresas de vuelos suborbitales:** pocos meses después del vuelo 15P, Richard Branson y Burt Rutan anunciaron el acuerdo de licencia tecnológica con el que nació Virgin Galactic para desarrollar el vehículo de mayor tamaño *SpaceShipTwo*.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Legado
 
-El SpaceShipOne fue el primer avión espacial privado en alcanzar el espacio. Su legado es inmenso:
-
-- El concepto de "pluma" (feathering) para la reentrada es una innovación que se ha estudiado y adaptado para otros diseños espaciales.
-- La nave fue donada al **National Air and Space Museum del Smithsonian** en Washington D.C., donde se exhibe como un hito histórico.
-- El éxito del SpaceShipOne sentó las bases para la **industria del turismo espacial**, que hoy incluye empresas como Virgin Galactic, Blue Origin y SpaceX.
-
-El 21 de junio de 2004, el SpaceShipOne no solo alcanzó los 100 km de altitud, sino que rompió la barrera de lo posible: demostró que el espacio, el último gran territorio por conquistar, era accesible no solo a las grandes agencias gubernamentales, sino también a la iniciativa privada.
-
-La influencia de SpaceShipOne puede rastrearse con claridad en la siguiente generación de vehículos suborbitales privados. Esa línea de desarrollo se hizo visible años después en el <a href="https://efemerides-aviacion.github.io/efemerides/espacial/2021/07/11/virgin-galactic-primer-vuelo-espacial-tripulado.html" style="color: #315fea; text-decoration: none;">vuelo Unity 22 del 11 de julio de 2021</a>, con el que Virgin Galactic realizó su primer vuelo espacial tripulado completo y llevó a una nueva etapa pública y comercial el modelo de acceso privado al espacio inaugurado por SpaceShipOne.
+El *SpaceShipOne* se conserva suspendido en el vestíbulo principal del Instituto Smithsoniano en Washington D. C., junto al *Spirit of St. Louis* de Charles Lindbergh y al avión cohete Bell X-1 de Chuck Yeager. Su arquitectura de lanzamiento aéreo y reentrada en configuración de pluma demostró que el acceso suborbital no era patrimonio exclusivo de los estados y trazó la línea tecnológica directa que culminó diecisiete años más tarde en el <a href="https://efemerides-aviacion.github.io/efemerides/espacial/2021/07/11/virgin-galactic-primer-vuelo-espacial-tripulado.html" style="color: #315fea; text-decoration: none;">vuelo Unity 22 del 11 de julio de 2021</a>, primer vuelo espacial con tripulación completa de Virgin Galactic.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
@@ -170,15 +102,16 @@ La influencia de SpaceShipOne puede rastrearse con claridad en la siguiente gene
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> Esta efeméride conmemora el <strong>21 de junio de 2004</strong>, fecha del primer vuelo espacial tripulado con financiación privada (SpaceShipOne). La altitud de 100 km es la línea de Kármán, la frontera internacionalmente aceptada del espacio exterior. A pesar de los problemas técnicos durante el vuelo —un rolido inesperado y el bloqueo temporal de un sistema de control— el piloto Mike Melvill logró completar la misión con éxito y aterrizar sin daños. El SpaceShipOne fue diseñado por Burt Rutan y financiado por Paul Allen, cofundador de Microsoft.</p>
+  <p><strong>Nota aclaratoria:</strong> El vuelo 15P del <strong>21 de junio de 2004</strong> superó por primera vez la línea de Kármán (100,124 km) con solo el piloto a bordo, como ensayo de calificación previo a los dos vuelos oficiales con lastre equivalente a tres ocupantes (16P y 17P, en septiembre y octubre de 2004) que otorgaron a Scaled Composites el Premio Ansari X.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 13:37:19 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia (ES/EN), El Mundo, El País, Computer Hoy, CNN, Wikipedia (flight 15P)
-- **Discrepancias resueltas:** La edad de Mike Melvill varía entre 62 y 63 años según las fuentes; se ha optado por 63 años por ser la más citada. La altitud exacta se confirma como 100,124 km. Se ha aclarado que el vuelo del 21 de junio fue una prueba de altitud para el Premio Ansari X, pero no fue un vuelo competitivo.
+- **Timestamp de verificación:** 2026-10-07 19:22:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Scaled Composites / Wikipedia (SpaceShipOne y flight 15P); CNN; El Mundo; El País.
+- **Fuentes secundarias de contraste:** Computer Hoy.
+- **Discrepancias resueltas:** La edad de Mike Melvill nacida el 30 de noviembre de 1940 era de 63 años cumplidos el 21 de junio de 2004; se confirma el apogeo radar de 100,124 km (328.491 pies).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

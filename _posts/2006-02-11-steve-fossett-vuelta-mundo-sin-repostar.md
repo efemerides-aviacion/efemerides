@@ -50,7 +50,7 @@ image: 2006-02-11-steve-fossett-vuelta-mundo-sin-repostar.webp
 
 ## Contexto Histórico
 
-Steve Fossett fue uno de los mayores aventureros y rompedores de récords del siglo XX y principios del XXI. Antes de 2006, ya había establecido más de 100 récords mundiales en aviación, globos aerostáticos, navegación y deportes de vela. En 2005, se convirtió en la primera persona en dar la vuelta al mundo en solitario sin escalas ni repostaje a bordo del GlobalFlyer, en 67 horas.
+Steve Fossett fue uno de los mayores aventureros y rompedores de récords del siglo XX y principios del XXI. Antes de 2006 ya había establecido más de un centenar de plusmarcas mundiales en aviación, aerostación y vela, incluida su <a href="https://efemerides-aviacion.github.io/efemerides/evento/2002/07/04/steve-fossett-vuelta-mundo-globo.html" style="color: #315fea; text-decoration: none;">primera circunnavegación en solitario en globo en julio de 2002</a> y el <a href="https://efemerides-aviacion.github.io/efemerides/evento/2005/03/03/virgin-atlantic-global-flyer-record-mundial.html" style="color: #315fea; text-decoration: none;">primer rodeo global en solitario sin escalas ni reabastecimiento en un reactor a bordo del GlobalFlyer en marzo de 2005</a>, completado en 67 horas.
 
 ### Entorno social
 La hazaña de Fossett encarnaba el espíritu de la aviación experimental y de aventura de élite, financiada por patrocinadores privados (Virgin Atlantic) y la fortuna personal del piloto. En una época en que la aviación comercial se centraba en la eficiencia y el bajo costo, Fossett representaba la audacia de la era de los pioneros. Su desaparición en 2007 (declarado muerto legalmente en 2008) añadió una capa de misterio a su legado.
@@ -65,7 +65,7 @@ Fossett era una celebridad mediática. Sus hazañas eran seguidas por millones d
 ## Desarrollo Cronológico
 
 - **2002–2004:** Burt Rutan y su empresa Scaled Composites diseñan y construyen el GlobalFlyer para Fossett.
-- **2005, 3 de marzo:** Fossett completa la primera vuelta al mundo en solitario sin escalas ni repostaje (Salina, Kansas), en 67 horas.
+- **2005, 3 de marzo:** Fossett culmina en Salina (Kansas) su primera circunnavegación en solitario a bordo del monorreactor en 67 horas y 1 minuto.
 - **8 de febrero de 2006, 07:20 EST (12:20 UTC):** Despegue desde el Centro Espacial Kennedy (Cabo Cañaveral, Florida), con una fuga de combustible que provoca la pérdida de 340 kg (750 libras).
 - **9-10 de febrero de 2006:** Sobrevoló África, Arabia Saudita, India, China y Japón. Sobre India, turbulencias extremas "casi rompen el avión" y Fossett tuvo que ponerse el paracaídas. La cabina alcanzó temperaturas de hasta 54 °C debido a una avería en la ventilación.
 - **10 de febrero de 2006:** Cruzó el Pacífico y Norteamérica, iniciando el segundo cruce del Atlántico.
@@ -74,13 +74,13 @@ Fossett era una celebridad mediática. Sus hazañas eran seguidas por millones d
 - **11 de febrero de 2006, 17:30 GMT (hora local):** Aterrizaje de emergencia en Bournemouth. La pista estaba mojada, el avión reventó dos neumáticos y fue arrastrado fuera de la pista. Fossett salió ileso.
 - **11 de febrero de 2006, noche:** Fossett y Richard Branson se trasladan en un jet privado a Kent International Airport, donde le esperaban su esposa Peggy y una multitud. Allí celebró la hazaña con champán.
 - **2006, 14-17 de marzo:** Fossett establece otro récord de distancia en circuito cerrado sobre Salina (Kansas), recorriendo 40.721 km en 74 horas y 30 minutos.
-- **2017:** El GlobalFlyer (N277SF) es donado al National Air and Space Museum (Steven F. Udvar-Hazy Center) en Chantilly, Virginia, donde se exhibe en la actualidad.
+- **Mayo de 2006:** El GlobalFlyer (N277SF) realiza su último vuelo hasta Washington D. C. para integrarse en la colección aeroespacial del Instituto Smithsoniano.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Récord absoluto de distancia sin repostaje:** La marca de 41.467 km establecida por Fossett en 2006 sigue vigente en 2026 para cualquier tipo de aeronave (avión, globo, etc.), ratificada por la FAI y Guinness World Records.
+- **Récord absoluto de distancia sin repostaje:** La marca de 41.467 km establecida por Fossett en 2006 sigue vigente en 2026 para cualquier tipo de aeronave (avión, globo, etc.), homologada oficialmente por las autoridades aeronáuticas internacionales.
 - **Demostración de ingeniería extrema:** El GlobalFlyer demostró que era posible construir una aeronave ultraligera de materiales compuestos capaz de transportar más de tres veces su peso en combustible y volar durante más de tres días sin escalas.
 - **Legado de Steve Fossett:** Fossett acumuló más de 100 récords mundiales. Su desaparición en septiembre de 2007 (cuando volaba sobre Nevada) y su muerte declarada legalmente en 2008 no empañaron su legado. En 2013, la FAA y la NAA le otorgaron póstumamente el Premio a la Trayectoria en Aviación.
 - **Inspiración para futuros proyectos supersónicos:** La tecnología del GlobalFlyer influyó en posteriores aviones experimentales de ultra largo alcance, incluidos los diseños de Virgin Galactic y otros proyectos de vuelo alrededor del mundo con energía solar.

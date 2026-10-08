@@ -60,13 +60,13 @@ image: 2009-01-15-amerizaje-rio-hudson-vuelo-1549.webp
 El amerizaje del vuelo 1549 ocurrió en una de las zonas más densamente pobladas del mundo: el corazón de Manhattan. La combinación de factores (pérdida total de potencia a baja altitud, entorno urbano, temperaturas bajo cero) hacía que las probabilidades de éxito fueran mínimas.
 
 ### Entorno social
-El 15 de enero de 2009 era un día laborable normal en Nueva York. Las temperaturas eran de -7 °C (19 °F) en el aire y 5 °C (41 °F) en el agua. La rápida respuesta de los ferris de NY Waterway, que llegaron en cuestión de minutos, fue crucial. El gobernador de Nueva York, David Paterson, acuñó el término "Milagro del Hudson" (Miracle on the Hudson). El evento restauró la confianza pública en la seguridad aérea tras años de crisis.
+El 15 de enero de 2009 era un día laborable normal en Nueva York. Las temperaturas eran de -7 °C (19 °F) en el aire y 5 °C (41 °F) en el agua. La rápida respuesta de los ferris de NY Waterway, que llegaron en cuestión de minutos, fue crucial. El Gobernador de Nueva York, David Paterson, acuñó el término "Milagro del Hudson" (Miracle on the Hudson). El evento restauró la confianza pública en la seguridad aérea tras años de crisis.
 
 ### Entorno tecnológico
 El Airbus A320 fue el primer avión comercial con controles de vuelo fly-by-wire (computarizados). El Capitán Sullenberger señaló que, aunque el sistema fly-by-wire impidió el aterrizaje perfecto (limitó el flare o sustentación final), también permitió a la tripulación concentrarse en la toma de decisiones sin tener que ajustar manualmente la trayectoria de planeo. El APU (unidad de potencia auxiliar) fue activado inmediatamente por Sullenberger, un paso crítico que proporcionó energía eléctrica e hidráulica durante el planeo.
 
 ### Entorno cultural
-El "Milagro del Hudson" se convirtió en un fenómeno cultural global. Inspiró libros (la autobiografía de Sullenberger *Highest Duty*, publicada en español como *Sully: Hazaña en el Hudson*), documentales (National Geographic) y la película *Sully* (2016), dirigida por Clint Eastwood y protagonizada por Tom Hanks. El episodio fue recreado en la serie *Mayday: Catástrofes aéreas* (temporada 10, episodio 5, titulado "Hudson River Runway").
+El suceso alcanzó una enorme proyección internacional e inspiró libros —como la autobiografía de Sullenberger *Highest Duty* (*Sully: Hazaña en el Hudson*)—, documentales y el largometraje *Sully* (2016), dirigido por Clint Eastwood y protagonizado por Tom Hanks, además del episodio «Hudson River Runway» de la serie *Mayday: Catástrofes aéreas*.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -88,9 +88,9 @@ El "Milagro del Hudson" se convirtió en un fenómeno cultural global. Inspiró 
 - **15:58:** Sullenberger, tras recorrer dos veces la cabina para asegurarse de que no quedaba nadie, es el último en abandonar la aeronave.
 - **Enero de 2009 (días siguientes):** La aeronave es izada del río Hudson y transportada para su investigación.
 - **4 de mayo de 2010:** La NTSB publica su informe final (AAR-10/03), identificando la causa probable como "la ingestión de aves de gran tamaño en cada motor". El informe elogió las decisiones de la tripulación y rechazó la simulación que sugería que podrían haber regresado a LaGuardia.
-- **2011:** La aeronave N106US es transportada al Carolinas Aviation Museum en Charlotte (Carolina del Norte).
-- **2016:** Estreno de la película *Sully*, dirigida por Clint Eastwood y protagonizada por Tom Hanks.
-- **2022:** El Carolinas Aviation Museum anuncia su renombramiento como Sullenberger Aviation Museum, en honor al capitán. La nueva sede abre en septiembre de 2022.
+- **2011:** La célula del N106US es trasladada por carretera hasta el museo aeronáutico de Charlotte.
+- **2016:** Llega a los cines la adaptación cinematográfica *Sully* sobre el amerizaje y la investigación posterior.
+- **2022:** El museo de Charlotte adopta el nombre de Sullenberger Aviation Museum en homenaje al comandante del vuelo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -99,21 +99,13 @@ El "Milagro del Hudson" se convirtió en un fenómeno cultural global. Inspiró 
 - **Seguridad operacional:** La NTSB emitió 34 recomendaciones, incluyendo pruebas de resistencia de motores a impactos de aves a baja velocidad; desarrollo de listas de verificación para fallos de doble motor a baja altitud; mejora del entrenamiento en amerizajes; y provisión de chalecos salvavidas en todos los vuelos, independientemente de la ruta.
 - **Gestión de fauna en aeropuertos:** Tras el accidente, Nueva York capturó y sacrificó 1.235 gansos canadienses en 17 ubicaciones, y aplicó aceite a 1.739 huevos para evitar la eclosión. Hasta 2017, se estima que se sacrificaron 70.000 aves en la ciudad.
 - **Reconocimiento a la tripulación:** Sullenberger, Skiles y los auxiliares de vuelo recibieron la Medalla de Maestría del Gremio de Pilotos y Navegantes Aéreos (GAPAN), el más alto honor de la aviación civil.
-- **Legado cultural:** El "Milagro del Hudson" se convirtió en un caso de estudio en escuelas de negocios y aviación sobre liderazgo bajo presión, gestión de crisis y toma de decisiones en entornos de incertidumbre.
+- **Legado cultural:** El "Milagro del Hudson" se convirtió en una referencia obligada en centros de formación aeronáutica y empresarial sobre liderazgo bajo presión, gestión de crisis y toma de decisiones en entornos de incertidumbre.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
 El Airbus A320 N106US se exhibe en el **Sullenberger Aviation Museum** (anteriormente Carolinas Aviation Museum) en Charlotte, Carolina del Norte, junto a los motores originales y el tobogán utilizado en la evacuación. El avión conserva las marcas del impacto y los daños del agua, como testimonio de uno de los momentos más extraordinarios de la historia de la aviación. El Capitán Sullenberger, retirado en 2010, se convirtió en asesor de seguridad aérea, conferenciante y autor. El accidente sigue siendo el amerizaje más exitoso de un avión comercial sin víctimas mortales, un récord que perdura hasta hoy.
-
-### Discrepancias encontradas y resueltas
-
-- **Número de ocupantes:** Reportes iniciales del 15 de enero de 2009 mencionaban 148 pasajeros y 5 tripulantes (153 total). El informe final de la NTSB y Wikipedia confirman 150 pasajeros + 5 tripulantes = 155 total. Se adopta la cifra oficial de la NTSB.
-- **Duración del vuelo:** Algunas fuentes indican que el amerizaje ocurrió 6 minutos después del despegue. Los datos del FDR indican que el despegue fue a las 15:24:56 y el amerizaje a las 15:30:00, lo que da 5 minutos y 4 segundos. Se adopta esta última.
-- **Altitud del impacto con aves:** El informe de la NTSB indica 2.818 pies (859 m). No hay discrepancia significativa con otras fuentes.
-- **Responsable de apertura de la puerta trasera izquierda:** Algunas fuentes indican que fue un auxiliar de vuelo; otras, un pasajero. El informe de la NTSB señala que no se pudo determinar con certeza. Se omite la atribución.
-
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

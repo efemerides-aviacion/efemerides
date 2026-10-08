@@ -19,7 +19,7 @@ image: 2006-12-15-primer-vuelo-f35-aa1.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 15 de diciembre de 2006, el prototipo AA-1 del caza de quinta generación Lockheed Martin F-35 Lightning II despegó por primera vez desde la planta de Lockheed Martin en Fort Worth, Texas. Pilotado por el jefe de pilotos de pruebas Jon Beesley, el vuelo de 38 minutos a baja altitud y velocidad subsónica validó los sistemas básicos de vuelo, el tren de aterrizaje y las superficies de control. Este hito inició el programa Joint Strike Fighter (JSF), el proyecto de adquisición militar más costoso de la historia (estimado en más de 1,7 billones de dólares a lo largo de su vida útil). El F-35 fue diseñado en tres variantes: CTOL (despegue y aterrizaje convencionales, AA-1), STOVL (despegue corto y aterrizaje vertical) y CV (operación en portaaviones). Hoy, el F-35 está en servicio en Estados Unidos, Reino Unido, Italia, Australia, Japón, Corea del Sur, Israel y otros aliados, con más de 1.000 unidades entregadas.</p>
+<p>El 15 de diciembre de 2006, el prototipo AA-1 del caza de quinta generación Lockheed Martin F-35 Lightning II realizó su bautismo del aire en la factoría de Lockheed Martin en Fort Worth, Texas. Pilotado por el jefe de pilotos de pruebas Jon Beesley, el vuelo de 38 minutos a baja altitud y velocidad subsónica validó los sistemas básicos de vuelo, el tren de aterrizaje y las superficies de control. Este hito inició la fase de vuelo del programa Joint Strike Fighter (JSF), el proyecto de adquisición militar más costoso de la historia (estimado en más de 1,7 billones de dólares a lo largo de su vida útil). El F-35 fue diseñado en tres variantes: CTOL (despegue y aterrizaje convencionales, AA-1), STOVL (despegue corto y aterrizaje vertical) y CV (operación en portaaviones). Hoy, el F-35 está en servicio en Estados Unidos, Reino Unido, Italia, Australia, Japón, Corea del Sur, Israel y otros aliados, superando el millar de ejemplares fabricados.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -37,7 +37,7 @@ image: 2006-12-15-primer-vuelo-f35-aa1.webp
 - **Evento previo (rollout):** 7 de julio de 2006, en la misma planta de Fort Worth
 - **Coste estimado del programa JSF:** 1,7 billones de dólares (lifetime) [NO CONFIRMADO: las cifras varían según fuentes y año]
 - **Países socios iniciales del programa:** Estados Unidos, Reino Unido, Italia, Países Bajos, Turquía (posteriormente excluida), Canadá, Australia, Dinamarca, Noruega
-- **Estado actual del AA-1:** Retirado de vuelos en 2011, utilizado para pruebas estructurales; actualmente se exhibe en el National Museum of the United States Air Force (Wright-Patterson AFB, Ohio) desde 2021 [NO CONFIRMADO: la ubicación final no está documentada en todas las fuentes]
+- **Estado actual del AA-1:** Retirado de vuelos en 2011 y empleado en ensayos estáticos; conservado desde 2021 en el Museo Nacional de la Fuerza Aérea de Estados Unidos (Base Aérea de Wright-Patterson, Ohio)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -64,13 +64,13 @@ El F-35 ha sido objeto de controversia por sobrecostos (el programa superó el p
 - **1996:** Lanzamiento del programa JSF.
 - **26 de octubre de 2001:** Lockheed Martin gana el contrato JSF con su diseño X-35.
 - **7 de julio de 2006:** Ceremonia de rollout (presentación) del prototipo AA-1 en Fort Worth, con presencia de funcionarios del Departamento de Defensa y representantes de países socios.
-- **15 de diciembre de 2006, 13:00 hora local (19:00 UTC):** El piloto Jon Beesley despega en el AA-1 desde la pista de Fort Worth. El vuelo de 38 minutos incluye pruebas de manejo a baja velocidad, extensión y retracción del tren de aterrizaje, y verificación de los flaps y slats.
+- **15 de diciembre de 2006, 13:00 hora local (19:00 UTC):** El piloto Jon Beesley despega en el AA-1 desde la pista de Fort Worth. El vuelo de 38 minutos comprende evaluaciones de respuesta de mandos a baja velocidad, accionamiento del tren de aterrizaje y verificación de flaps y slats.
 - **2007:** Comienzan las pruebas del segundo prototipo (AA-2) y la variante STOVL (BF-1).
 - **2011, abril:** El AA-1 realiza su último vuelo (50º vuelo) y es retirado para pruebas estructurales.
 - **2015, agosto:** Primer despliegue operacional del F-35B a bordo del USS Wasp (US Marine Corps).
 - **2020:** Se alcanza la capacidad operativa completa (FOC) para la Fuerza Aérea de EE. UU.
 - **2023:** Más de 1.000 F-35 entregados, acumulando más de 700.000 horas de vuelo.
-- **2021:** El AA-1 es restaurado y trasladado al National Museum of the United States Air Force en Wright-Patterson AFB, Ohio [NO CONFIRMADO: la fecha exacta de exhibición varía].
+- **2021:** El AA-1 es restaurado e incorporado a la colección histórica del museo de la Fuerza Aérea en Dayton, Ohio.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

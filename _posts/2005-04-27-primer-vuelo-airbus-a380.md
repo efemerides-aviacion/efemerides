@@ -18,7 +18,7 @@ image: 2005-04-27-primer-vuelo-airbus-a380.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El Airbus A380 realizó su primer vuelo el 27 de abril de 2005 desde Toulouse-Blagnac, Francia, con el prototipo MSN001/F-WWOW. El vuelo inaugural despegó alrededor de las 10:29-10:30 hora local y fue tripulado por seis personas, con Jacques Rosay y Claude Lelaie entre los pilotos de prueba. Fue el inicio de la campaña de ensayos del avión de pasajeros más grande del mundo, concebido para el mercado de muy alta densidad.</p>
+<p>El Airbus A380 realizó su primer vuelo el 27 de abril de 2005 desde Toulouse-Blagnac, Francia, con el prototipo MSN001 de matrícula F-WWOW. El vuelo inaugural despegó a las 10:29 hora local y se prolongó durante casi cuatro horas con una tripulación de seis personas encabezada por los pilotos de prueba Jacques Rosay y Claude Lelaie. Aquella salida abrió la campaña de certificación del avión de pasajeros de doble cubierta completa más grande de la historia.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -26,114 +26,58 @@ image: 2005-04-27-primer-vuelo-airbus-a380.webp
 ## Datos verificados del evento
 
 - **Fecha del primer vuelo:** 27 de abril de 2005
-- **Hora de despegue:** 10:29-10:30 hora local
-- **Hora de aterrizaje:** 14:22-14:23 hora local
-- **Duración del vuelo:** 3 horas 54 minutos (según SpaceNews) / 3 horas 52 minutos (según CARNOC)
+- **Hora de despegue y aterrizaje:** 10:29–10:30 hora local / 14:22–14:23 hora local
+- **Tiempo total en el aire:** 3 horas y 54 minutos (según SpaceNews) / 3 horas y 52 minutos (según CARNOC)
 - **Lugar:** Aeropuerto de Toulouse-Blagnac (pista 32L), Francia
-- **Prototipo:** MSN001, matrícula F-WWOW
-- **Apodo/nombre:** "WWOW" (¡guau!)
-- **Motores:** Cuatro Rolls-Royce Trent 900
-- **Peso al despegue:** 421 toneladas (928.300 libras)
-- **Tripulación de pruebas:** 6 personas
-- **Pilotos:** Jacques Rosay (jefe de pilotos de prueba) y Claude Lelaie (vicepresidente senior de la división de vuelo)
-- **Ingenieros de vuelo:** Fernando Alonso (vicepresidente de la división de pruebas de vuelo, español), Jacky Joye, Manfred Birnfeld
-- **Ingeniero de pruebas:** Gerard Desbois
-- **Inversión total del programa:** 13.000 millones de dólares
-- **Coste unitario:** 282 millones de dólares (precio de catálogo en 2005)
+- **Prototipo y matrícula:** MSN001, matrícula F-WWOW (elegida por su alusión fonética a *«wow»*)
+- **Motores:** cuatro turbofanes Rolls-Royce Trent 900
+- **Peso al despegue:** 421 toneladas (928.300 libras), equipado con instrumentación de ensayo y tanques de lastre de agua
+- **Tripulación de pruebas (6 integrantes):** pilotos Jacques Rosay (jefe de pilotos de prueba) y Claude Lelaie (vicepresidente sénior de la división de vuelo); ingenieros de vuelo de ensayo Fernando Alonso (responsable de ensayos en vuelo de Airbus), Jacky Joye y Manfred Birnfeld; ingeniero de pruebas Gérard Desbois
+- **Inversión del programa y precio de catálogo (2005):** unos 13.000 millones de dólares de desarrollo y 282 millones de dólares por unidad
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Contexto Histórico
 
-A finales de la década de 1980, Airbus observó una tendencia en el mercado de la aviación comercial: la congestión de los grandes aeropuertos internacionales (hubs) y la creciente demanda de vuelos entre ellos. La respuesta de Boeing fue el B-777, un bimotor de gran capacidad. Airbus, en cambio, apostó por un enfoque radical: un avión de dos cubiertas completas, con capacidad para más de 500 pasajeros en configuración típica y hasta 800 en configuración de alta densidad. El objetivo era ofrecer la solución más eficiente para las rutas troncales más congestionadas.
+En los últimos años ochenta, el consorcio europeo nacido de la <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1970/12/18/fundacion-airbus-industrie.html" style="color: #315fea; text-decoration: none;">fundación de Airbus Industrie en diciembre de 1970</a> estudió cómo responder a la creciente congestión de los grandes centros de conexión internacionales (*hubs*). Mientras Boeing apostaba por el enlace punto a punto con bimotores de largo radio como el 777, Airbus concibió un cuatrimotor de dos cubiertas a lo largo de todo el fuselaje, capaz de transportar más de 500 pasajeros en tres clases y hasta 853 en configuración de clase única.
 
 ### Entorno social
 
-La industria de la aviación comercial en la década de 2000 estaba dominada por la rivalidad Airbus-Boeing. El A380 representaba la apuesta más ambiciosa de Airbus, con una inversión de 13.000 millones de dólares. La Unión Europea apoyó el proyecto como símbolo de la cooperación industrial europea. El presidente francés, Jacques Chirac, declaró tras el vuelo inaugural que el A380 era el "magnífico resultado de la cooperación industrial europea".
+Durante el primer lustro del siglo XXI, el programa A380 simbolizó la integración industrial europea entre Francia, Alemania, Reino Unido y España, cuyas plantas fabricaban las grandes secciones trasladadas por vía marítima, fluvial y terrestre —a través del itinerario de gran gálibo *Itinéraire à Grand Gabarit*— hasta la línea de ensamblaje Jean-Luc Lagardère en Toulouse. Tras el aterrizaje del MSN001, el presidente francés Jacques Chirac celebró el hito como el gran resultado de la cooperación tecnológica europea.
 
 ### Entorno tecnológico
 
-El A380 incorporó innovaciones tecnológicas sin precedentes. Fue el primer avión diseñado íntegramente con una maqueta digital completa (Digital Mock Up, DMU), una técnica que marcó un nuevo estándar en la industria aeroespacial. También fue pionero en el uso de plástico reforzado con fibra de carbono (CFRP) en componentes estructurales principales, allanando el camino para su adopción generalizada en el A350. Durante su desarrollo, Airbus registró más de 380 patentes, que abarcaban desde paneles acústicos reductores de ruido hasta sistemas hidráulicos más ligeros y seguros.
+El A380 introdujo avances que pasaron a ser norma en la construcción aeronáutica: fue el primer gran avión comercial desarrollado mediante una maqueta digital completa (*Digital Mock-Up*, DMU), empleó plástico reforzado con fibra de carbono (CFRP) en la caja central del ala y el cono de cola, e implantó un sistema hidráulico de 5.000 psi (frente a los 3.000 psi tradicionales) junto con controles de vuelo con actuadores electrohidrostáticos (EHA). Durante su diseño se registraron más de 380 patentes industriales.
 
 ### Entorno cultural
 
-El primer vuelo del A380 fue un acontecimiento mediático global. El aeropuerto de Toulouse-Blagnac se llenó de unas 50.000 personas, entre empleados de Airbus, aficionados, periodistas y curiosos que acamparon para presenciar el evento. El ayuntamiento de Toulouse instaló una pantalla gigante en la plaza central para que los ciudadanos pudieran seguir el vuelo. El evento fue comparado con el primer vuelo del Concorde en 1969.
+El vuelo inaugural convocó a unas 50.000 personas en el perímetro de Toulouse-Blagnac y en las pantallas gigantes instaladas en la Place du Capitole. La salida desde la pista 32L evocó inevitablemente el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1969/03/02/primer-vuelo-concorde-001-toulouse.html" style="color: #315fea; text-decoration: none;">primer vuelo del Concorde 001 en Toulouse el 2 de marzo de 1969</a>, realizado treinta y seis años antes en el mismo aeródromo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Desarrollo Cronológico
 
-- **Finales de los años 80:** Airbus comienza los estudios conceptuales de un avión de muy alta capacidad.
-- **2000:** El programa A380 es lanzado oficialmente.
-- **2001:** Comienza la producción de los primeros componentes.
-- **2004:** Se completa el ensamblaje final del prototipo MSN001 en Toulouse.
-- **27 de abril de 2005:** Primer vuelo del A380, con despegue a las 10:29-10:30 de Toulouse-Blagnac.
-- **2007:** Primer vuelo comercial con Singapore Airlines.
-- **2019:** Airbus anuncia el fin de la producción del A380.
-- **16 de diciembre de 2021:** Entrega del último A380 (número 254) a Emirates.
-- **27 de abril de 2025:** Se cumplió el 20º aniversario del primer vuelo del A380.
-
-
-### El primer vuelo: detalles del evento
-
-El 27 de abril de 2005, bajo un cielo despejado en Toulouse, el prototipo del A380 (MSN001), con matrícula F-WWOW, estaba listo para su bautismo de vuelo.
-
-### La emoción de F-WWOW
-
-La matrícula F-WWOW fue elegida por su significado fonético: "WWOW" se pronuncia como "wow" (guau), reflejando la reacción que Airbus esperaba del público. El avión estaba pintado con los colores azul y blanco de Airbus.
-
-### El despegue
-
-A las 10:29-10:30 de la mañana, el A380 despegó de la pista 32L del aeropuerto de Toulouse-Blagnac, la misma desde la que el Concorde realizó su primer vuelo en 1969. Los cuatro motores Rolls-Royce Trent 900 impulsaron la aeronave, que pesaba 421 toneladas en ese momento (cargada con instrumentos de prueba y lastre de agua).
-
-El piloto Jacques Rosay describió la experiencia: "El A380 se conduce como una bicicleta, aunque es muy grande. Se parece a cualquier otro avión de Airbus y cualquier otro piloto estará cómodo en este avión". Claude Lelaie añadió: "El A380 maneja con la misma facilidad que cualquier otro avión".
-
-### El vuelo
-
-El A380 permaneció dentro de un radio de 100 millas de Toulouse, sobrevolando el suroeste de Francia mientras transmitía datos en tiempo real a la sede de Airbus. Durante el vuelo, la tripulación completó las pruebas previstas, incluyendo la evaluación de sistemas y el comportamiento aerodinámico.
-
-Un incidente menor ocurrió durante la aproximación: la tripulación tuvo que abortar la primera aproximación para dejar paso a un helicóptero médico que iba a aterrizar en un hospital cercano. Esto alargó ligeramente la duración del vuelo, que finalmente fue de 3 horas y 54 minutos (según SpaceNews) o 3 horas y 52 minutos (según CARNOC).
-
-### El aterrizaje
-
-El aterrizaje fue exitoso. Al bajar del avión, Jacques Rosay declaró: "Dentro de los primeros minutos del vuelo, nos impresionó la facilidad de manejo del avión, que estaba en línea con lo que habíamos sentido en el simulador. No tenemos ninguna duda de que cualquier piloto de Airbus se sentiría inmediatamente como en casa en el A380; es un verdadero miembro de la familia Airbus".
-
-### La expectación popular
-
-El evento fue seguido por miles de personas. Los laterales de las pistas estaban llenos de empleados de Airbus, invitados, personal del aeropuerto y aficionados. Se estima que unas 50.000 personas se congregaron en las inmediaciones del aeropuerto, y algunas acamparon la noche anterior para asegurar un buen lugar.
+- **Diciembre de 2000:** el consejo de administración de Airbus aprueba el lanzamiento industrial del programa A380 (conocido en fase de estudio como A3XX) tras reunir medio centenar de pedidos firmes de seis aerolíneas de lanzamiento.
+- **Enero de 2002 – enero de 2005:** fabricación de las primeras secciones estructurales en Nantes, Hamburgo, Filton, Broughton, Getafe, Illescas y Puerto Real; ensamblaje final en Toulouse y ceremonia oficial de presentación (*roll-out*) del prototipo MSN001 el 18 de enero de 2005 ante los jefes de Estado y de Gobierno de los cuatro países socios.
+- **27 de abril de 2005, 10:29 hora local:** bajo cielo despejado y ante decenas de miles de espectadores congregados a lo largo de las vallas perimetrales, el prototipo F-WWOW despega de la pista 32L de Toulouse-Blagnac con 421 toneladas de peso al despegue impulsado por sus cuatro motores Rolls-Royce Trent 900.
+- **Desarrollo del vuelo de ensayo:** la aeronave asciende inicialmente hasta 10.000 pies con el tren extendido antes de recogerlo y continuar hacia el Atlántico y el suroeste de Francia dentro de un radio de cien millas. A lo largo de casi cuatro horas transmite telemetría en tiempo real a los centros de ingeniería de Airbus mientras los seis tripulantes evalúan las leyes de control *fly-by-wire*, la respuesta aerodinámica a baja y media velocidad, la presurización de ambas cubiertas y el trasvase entre los 72 depósitos de lastre líquido para desplazar en vuelo el centro de gravedad.
+- **14:22–14:23 hora local:** tras interrumpir una primera aproximación para dar prioridad a un helicóptero sanitario que se dirigía a un hospital cercano, el F-WWOW realiza una pasada de saludo a baja cota sobre la pista y toma tierra suavemente en Toulouse. Al pie de la escalerilla, Jacques Rosay y Claude Lelaie destacan que desde los primeros minutos la respuesta del avión coincidió con el simulador y que «se conduce como una bicicleta, aunque es muy grande; cualquier piloto de Airbus se sentirá inmediatamente como en casa».
+- **25 de octubre de 2007:** entrada en servicio comercial con Singapore Airlines en la ruta entre Singapur y Sídney.
+- **Febrero de 2019 – 16 de diciembre de 2021:** Airbus anuncia el cierre de la línea de producción y entrega el último ejemplar de serie (MSN272, unidad 254 construida) a Emirates.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Consecuencias e Impacto
 
-- **Innovación tecnológica:** El A380 introdujo tecnologías que luego se convirtieron en estándar en la industria: maqueta digital completa (DMU), uso extensivo de CFRP, sistemas hidráulicos de 5.000 psi, y una arquitectura de cabina de cristal avanzada.
-
-- **Récords mundiales:** El A380 es el avión de pasajeros más grande del mundo, con capacidad para hasta 853 pasajeros en configuración de una sola clase. Tiene una envergadura de casi 80 metros y una longitud de 73 metros.
-
-- **Éxito comercial limitado:** Aunque se construyeron 254 unidades, el A380 no alcanzó las expectativas comerciales de Airbus. La industria se inclinó por aviones bimotor más eficientes (como el B-777 y el B-787), y la pandemia de COVID-19 aceleró su retiro.
-
-- **Banco de pruebas tecnológico:** El prototipo MSN001 sigue en servicio como avión de pruebas y demostración de tecnologías. En 2025, todavía se utiliza para probar nuevas propulsiones y sistemas.
+- **Estándar tecnológico para nuevas familias:** las soluciones estrenadas en el A380 —arquitectura hidráulica de 5.000 psi, aviónica modular integrada (IMA) y estructuras primarias de compuestos— sirvieron de base directa para el posterior desarrollo del bimotor de largo alcance Airbus A350 XWB.
+- **Transformación de infraestructuras aeroportuarias:** sus casi 80 metros de envergadura y 73 metros de longitud obligaron a los principales aeropuertos del mundo a certificar calles de rodaje de categoría F y pasarelas de embarque de doble nivel.
+- **Balance comercial frente al auge de los bimotores:** aunque se construyeron 254 unidades y Emirates consolidó con él su modelo de gran centro de conexión en Dubái, la preferencia de la mayoría de las aerolíneas por bimotores de largo radio más flexibles limitó los pedidos totales muy por debajo de las previsiones iniciales del año 2000.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
 
-El 27 de abril de 2025 se cumplió el 20º aniversario del primer vuelo del A380, y en 2026 se alcanzan los 21 años desde aquella histórica fecha. Desde entonces, el avión ha realizado más de 800.000 vuelos y transportado a más de 300 millones de pasajeros.
-
-El A380 sigue siendo un símbolo de la ingeniería aeronáutica y de la capacidad de Airbus para emprender proyectos ambiciosos. Su legado incluye innovaciones tecnológicas que ahora son estándar en la industria, como la maqueta digital completa (DMU) y el uso extensivo de materiales compuestos.
-
-Hoy, existen unos 180 A380 en servicio en aeropuertos de todo el mundo, principalmente con Emirates (la mayor operadora), British Airways, Qantas, Singapore Airlines y Lufthansa. Aunque la producción cesó en 2021, la flota activa continuará operando durante muchos años gracias a los programas de soporte de Airbus.
-
-En marzo de 2025, el prototipo MSN001 volvió a volar después de tres años en tierra para apoyar nuevas campañas de pruebas, demostrando que el "superjumbo" sigue siendo una plataforma valiosa para la innovación. Airbus también ha seleccionado el A380 como banco de pruebas para futuros sistemas de propulsión, lo que podría extender su vida útil más allá de 2040.
-
-El 27 de abril de 2005, el A380 despegó por primera vez. Más de dos décadas después, sigue siendo uno de los aviones más emblemáticos de la historia de la aviación.
-
-<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
-
-<div class="note-box">
-<p><strong>Nota aclaratoria sobre la duración del vuelo:</strong> Las fuentes consultadas presentan una ligera discrepancia en la duración exacta del primer vuelo. SpaceNews indica 3 horas y 54 minutos, mientras que CARNOC (aviation news) indica 3 horas y 52 minutos. La diferencia se debe probablemente a la aproximación abortada para dejar paso a un helicóptero médico, que alargó ligeramente el vuelo.</p>
-<p><strong>Sobre el nombre de Fernando Alonso:</strong> No debe confundirse con el piloto de Fórmula 1 homónimo. Se trata de un ingeniero español, vicepresidente de la división de pruebas de vuelo de Airbus.</p>
-</div>
+A más de dos décadas de aquel despegue en Blagnac, el Airbus A380 acumula más de 800.000 vuelos y más de 300 millones de pasajeros transportados sin haber registrado ningún accidente mortal. Alrededor de 180 ejemplares continúan operando en rutas troncales de alta densidad con compañías como Emirates, British Airways, Qantas, Singapore Airlines y Lufthansa. Por su parte, el primer prototipo MSN001 (F-WWOW) permanece activo en la flota de desarrollo de Airbus y volvió a volar en marzo de 2025 como plataforma de ensayo en vuelo para combustibles sostenibles y nuevas tecnologías de propulsión.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
@@ -153,10 +97,17 @@ El 27 de abril de 2005, el A380 despegó por primera vez. Más de dos décadas d
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
+<div class="note-box">
+<p><strong>Nota aclaratoria:</strong> Las crónicas especializadas registran una ligera variación en la duración exacta del vuelo inaugural (3 horas y 54 minutos según SpaceNews frente a 3 horas y 52 minutos según CARNOC), diferencia asociada al circuito adicional realizado para ceder prioridad a un helicóptero sanitario antes de la toma final. Asimismo, el ingeniero aeronáutico madrileño Fernando Alonso, integrante de la tripulación de ensayo del MSN001 y jefe de la división de ensayos en vuelo de Airbus, no guarda relación con el piloto de automovilismo homónimo.</p>
+</div>
+
+<hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
+
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 14:11:11 CST  
-- **Fuentes primarias/institucionales consultadas:** Fly News, Airbus (comunicado oficial), Aviacionline, Wikipedia, BBC News, EL PAÍS, Aerospace Global News
-- **Discrepancias resueltas:** Las fuentes coinciden en la fecha (27 de abril de 2005). La hora del despegue fue 10:29-10:30 (confirmado por múltiples fuentes). La duración del vuelo varía ligeramente (3h54m según SpaceNews, 3h52m según CARNOC); se incluye la discrepancia en la nota aclaratoria. El peso al despegue fue 421 toneladas (828.300 lb), no 420 o 430 como mencionan algunas fuentes.
+- **Timestamp de verificación:** 2026-10-07 19:23:00 CST  
+- **Fuentes primarias/institucionales consultadas:** Airbus (comunicados e historia oficial); BBC News; El País.
+- **Fuentes secundarias de contraste:** Fly News; Aviacionline; Aerospace Global News; Wikipedia (EN).
+- **Discrepancias resueltas:** Se documentan las dos duraciones reportadas (3 h 54 min / 3 h 52 min) y se fija el peso al despegue verificado de 421 toneladas (928.300 lb).
 - **Nivel de confianza:** Alto
 - **Cláusula final:** "Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]".

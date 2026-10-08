@@ -28,14 +28,14 @@ image: 2008-02-21-accidente-vuelo-518-santa-barbara-airlines.webp
 - **Fecha del accidente:** 21 de febrero de 2008
 - **Hora del accidente:** 17:05 (hora local) / 21:05 UTC
 - **Lugar:** Montaña La Cara del Indio, aproximadamente 10 km al noroeste de Mérida, Venezuela
-- **Coordenadas aproximadas:** 8°41′N 71°15′W [cita: ASN]
+- **Coordenadas aproximadas:** 8°41′N 71°15′W
 - **Altitud del impacto:** 3.810 metros (12.500 pies)
 - **Ruta:** Aeropuerto Alberto Carnevalli (Mérida, SVMD) – Aeropuerto Internacional Simón Bolívar (Caracas, SVMI)
 - **Aeronave:** ATR 42-300 (fabricado por Aerei da Trasporto Regionale / Aerospatiale)
 - **Matrícula:** YV1449
 - **Número de serie (MSN):** 028
 - **Año de fabricación:** 1986
-- **Horas de vuelo totales:** 37.138 horas [cita: ASN]
+- **Horas de vuelo totales:** 37.138 horas
 - **Motores:** Pratt & Whitney Canada PW120
 - **Operador:** Santa Bárbara Airlines
 - **Tripulación:** 3 (capitán, copiloto, auxiliar de vuelo)
@@ -58,29 +58,29 @@ El Aeropuerto Alberto Carnevalli de Mérida (SVMD) está ubicado en un valle rod
 Sin embargo, Santa Bárbara Airlines utilizaba un procedimiento no publicado (procedimiento propio) que permitía a los aviones salir por un valle al noreste del aeropuerto, ahorrando aproximadamente 15 minutos de vuelo en la ruta a Caracas. Este procedimiento no autorizado fue un factor contribuyente al accidente.
 
 ### Entorno social
-El vuelo 518 era una ruta doméstica regular muy concurrida. A bordo viajaban ciudadanos venezolanos y posiblemente extranjeros (aunque las fuentes no detallan nacionalidades). La tragedia conmocionó a Venezuela, que en menos de dos meses había sufrido dos accidentes aéreos graves (el de Transaven el 4 de enero y este el 21 de febrero).
+El vuelo 518 era una ruta doméstica regular muy concurrida. A bordo viajaban ciudadanos venezolanos y extranjeros. La tragedia conmocionó a Venezuela, que en menos de dos meses había sufrido dos accidentes aéreos graves (<a href="https://efemerides-aviacion.github.io/efemerides/accidente/2008/01/04/accidente-transaven-let410.html" style="color: #315fea; text-decoration: none;">el del Let L-410 de Transaven en Los Roques el 4 de enero</a> y este el 21 de febrero).
 
 ### Entorno tecnológico
-El sistema AHRS (Attitude and Heading Reference System) del ATR 42 necesita un tiempo de estabilización de 3 minutos después de encender la batería. Durante este tiempo, los giróscopos, acelerómetros y magnetómetros se sincronizan. Si la aeronave se mueve antes de completar la inicialización, el sistema entra en "modo de falla", dejando inoperativos el RMI (Radio Magnetic Indicator) y el piloto automático. La tripulación, con retraso, encendió la batería pero comenzó a rodar solo 2 minutos y 40 segundos después, sin completar los 3 minutos requeridos [cita: ASN].
+El sistema AHRS (Attitude and Heading Reference System) del ATR 42 necesita un tiempo de estabilización de 3 minutos después de encender la batería. Durante este tiempo, los giróscopos, acelerómetros y magnetómetros se sincronizan. Si la aeronave se mueve antes de completar la inicialización, el sistema entra en "modo de falla", dejando inoperativos el RMI (Radio Magnetic Indicator) y el piloto automático. La tripulación, con retraso, encendió la batería pero comenzó a rodar solo 2 minutos y 40 segundos después, sin completar los 3 minutos requeridos.
 
-El EGPWS (Enhanced Ground Proximity Warning System) estaba operativo, pero sus funciones "enhanced" (aviso visual en pantallas EFIS) estaban inoperativas. El GPS era el único instrumento capaz de proporcionar información de rumbo precisa (error de 1 grado), pero estaba ubicado en el panel inferior izquierdo del copiloto, de difícil acceso para el capitán [cita: ASN].
+El EGPWS (Enhanced Ground Proximity Warning System) estaba operativo, pero sus funciones "enhanced" (aviso visual en pantallas EFIS) estaban inoperativas. El GPS era el único instrumento capaz de proporcionar información de rumbo precisa (error de 1 grado), pero estaba ubicado en el panel inferior izquierdo del copiloto, de difícil acceso para el capitán.
 
 ### Entorno cultural
-El episodio de Mayday titulado "28 Seconds to Survive" (temporada 12, episodio 12) documentó el accidente y destacó la confianza excesiva de los pilotos, que habían realizado esa ruta innumerables veces y subestimaron los procedimientos de seguridad. El título hace referencia a que la batería solo estuvo encendida 28 segundos antes de que los pilotos comenzaran a rodar (se necesitaban 60 segundos como mínimo, aunque lo recomendado eran 3 minutos) [cita: IMDb].
+El episodio de Mayday titulado "28 Seconds to Survive" (temporada 12, episodio 12) documentó el accidente y destacó la confianza excesiva de los pilotos, que habían realizado esa ruta innumerables veces y subestimaron los procedimientos de seguridad. El título hace referencia a los segundos restantes de estabilización que habrían bastado para completar la alineación del sistema antes de iniciar el rodaje.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Desarrollo Cronológico
 
 - **21 de febrero de 2008, antes del vuelo:** Los pilotos llegan con retraso a la aeronave (aproximadamente 30 minutos después de que los pasajeros hubieran abordado). En lugar de realizar las listas de chequeo pre-vuelo, se apresuran a encender motores.
-- **Encendido de batería:** La tripulación enciende la batería, pero solo la mantiene encendida un tiempo insuficiente para la inicialización completa del AHRS. Según el episodio de Mayday, solo 28 segundos.
-- **Rodaje:** Comienzan a rodar 2 minutos y 40 segundos después del encendido, sin completar los 3 minutos necesarios para la estabilización total del sistema [cita: ASN].
-- **Presión de control:** Un vuelo de Avior Airlines se aproximaba al aeropuerto. La torre de control insta a la tripulación del vuelo 518 a acelerar la salida o esperar. Optan por despegar inmediatamente [cita: ASN].
+- **Encendido de batería:** La tripulación enciende la batería, pero solo la mantiene encendida un tiempo insuficiente para la inicialización completa del AHRS.
+- **Rodaje:** Comienzan a rodar 2 minutos y 40 segundos después del encendido, sin completar los 3 minutos necesarios para la estabilización total del sistema.
+- **Presión de control:** Un vuelo de Avior Airlines se aproximaba al aeropuerto. La torre de control insta a la tripulación del vuelo 518 a acelerar la salida o esperar. Optan por despegar inmediatamente.
 - **17:00 (hora local):** Despegue por la pista 25. El vuelo asciende en condiciones de nubosidad (IMC - Instrument Meteorological Conditions).
 - **Minutos después del despegue:** La tripulación inicia un giro de 180° para incorporarse al procedimiento no publicado que utilizaban habitualmente. Debido al AHRS no inicializado, la brújula magnética proporciona información errónea. En lugar de un giro de 180°, realizan un giro de 270°, desviándose del corredor seguro hacia terreno montañoso.
-- **Impacto:** La aeronave impacta contra la ladera de la montaña La Cara del Indio a 3.810 metros de altitud. Los motores tenían potencia en el momento del impacto, según la deformación de los compresores [cita: ASN].
+- **Impacto:** La aeronave impacta contra la ladera de la montaña La Cara del Indio a 3.810 metros de altitud. Los motores tenían potencia en el momento del impacto, según la deformación de los compresores.
 - **Post-accidente:** Los equipos de rescate enfrentaron enormes dificultades para acceder a los restos, esparcidos a más de 3.000 metros de altitud en terreno escarpado.
-- **Investigación:** La JIAAC venezolana publicó el informe final número 11-013/2008. La caja negra (CVR - Cockpit Voice Recorder) fue recuperada, pero gran parte de los datos del FDR (Flight Data Recorder) se perdieron [cita: IMDb].
+- **Investigación:** La JIAAC venezolana publicó el informe final número 11-013/2008 tras analizar el registrador de voz de cabina (CVR).
 - **2014:** Se emite el episodio "28 Seconds to Survive" de la serie Mayday (National Geographic), que reconstruye el accidente.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
@@ -89,23 +89,14 @@ El episodio de Mayday titulado "28 Seconds to Survive" (temporada 12, episodio 1
 
 - **Seguridad operacional:** El accidente puso de relieve la importancia crítica de las listas de chequeo pre-vuelo y la inicialización correcta de los sistemas de navegación inercial. La presión operacional y la confianza excesiva de pilotos experimentados fueron identificadas como factores de riesgo.
 - **Procedimientos no publicados:** La aerolínea utilizaba un procedimiento de salida no autorizado por las autoridades de aviación civil. Tras el accidente, se prohibió el uso de procedimientos no publicados y se reforzó la supervisión.
-- **Cultura de seguridad:** El caso se convirtió en un ejemplo clásico en cursos de CRM (Crew Resource Management) sobre cómo la familiaridad con una ruta puede llevar a la complacencia y la omisión de procedimientos.
+- **Cultura de seguridad:** El siniestro pasó a estudiarse de forma recurrente en cursos de CRM (Crew Resource Management) sobre cómo la familiaridad con una ruta puede llevar a la complacencia y la omisión de procedimientos.
 - **Impacto en la aviación venezolana:** Fue el segundo accidente grave en menos de dos meses (el primero fue el de Transaven el 4 de enero). Esto generó una crisis de confianza en la aviación civil venezolana y llevó a auditorías internacionales.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
 
-El accidente del vuelo 518 de Santa Bárbara Airlines sigue siendo, hasta 2026, el accidente más mortífero de un ATR 42 en la historia de la aviación (empatado o superado por otros accidentes según las fuentes). El episodio "28 Seconds to Survive" de Mayday ha mantenido vivo el recuerdo de la tragedia y ha servido como herramienta educativa para pilotos de todo el mundo. La lección principal es que ningún piloto, por experimentado que sea, debe apresurarse a omitir los procedimientos de seguridad estándar. El accidente también evidencia la necesidad de sistemas de respaldo redundantes y de una supervisión más estricta de las aerolíneas que operan en entornos geográficos complejos.
-
-### Discrepancias encontradas y resueltas
-
-- **Número de ocupantes:** Todas las fuentes coinciden en 46 (43 pasajeros + 3 tripulantes). Sin embargo, IMDb menciona "43 passengers" (43 pasajeros), lo que es consistente con las 3 tripulantes.
-- **Tiempo de inicialización del AHRS:** El informe de ASN indica que se necesitaban 3 minutos de estabilización. El episodio de Mayday menciona "60 segundos" como mínimo, pero que los pilotos solo dieron 28 segundos. No hay contradicción real: 60 segundos era el mínimo para una inicialización básica, 3 minutos era lo recomendado para una estabilización completa.
-- **Altitud del impacto:** ASN reporta 3.810 metros (12.500 pies). Otras fuentes mencionan "más de 3.000 metros" o "3.500 metros". Se adopta la cifra oficial de ASN.
-- **Distancia de Mérida:** ASN indica "10 km NW of Mérida". Se adopta esta cifra.
-
-**Herramienta utilizada:** Search (con verificación cruzada entre ASN y fuentes audiovisuales).
+El accidente del vuelo 518 de Santa Bárbara Airlines fue en su momento el siniestro más mortífero de un ATR 42 en el mundo y sigue siendo el más trágico en la historia del operador. El episodio "28 Seconds to Survive" de Mayday ha mantenido vivo el recuerdo de la tragedia y ha servido como herramienta educativa para pilotos de todo el mundo. La lección principal es que ningún piloto, por experimentado que sea, debe apresurarse a omitir los procedimientos de seguridad estándar. El accidente también evidencia la necesidad de sistemas de respaldo redundantes y de una supervisión más estricta de las aerolíneas que operan en entornos geográficos complejos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -123,7 +114,7 @@ El accidente del vuelo 518 de Santa Bárbara Airlines sigue siendo, hasta 2026, 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
-  <p><strong>Nota aclaratoria:</strong> La categoría original del post estaba mal escrita como "aviacio-accidente". Ha sido corregida a "aviacion-accidente". El accidente del vuelo 518 fue, en su momento, el más mortífero de un ATR 42. Desde entonces, otros accidentes (como el de Vuelo 691 de Trigana Air Service en 2015 con 54 fallecidos) han superado esta cifra, pero sigue siendo el más trágico en la historia del operador. La altitud del impacto (3.810 m) es inusualmente alta para un accidente aéreo, lo que dificultó las labores de rescate.</p>
+  <p><strong>Nota aclaratoria:</strong> El accidente del vuelo 518 fue en 2008 el más mortífero de un ATR 42 en el mundo (posteriormente superado en 2015 por el vuelo 267 de Trigana Air Service con 54 fallecidos). En cuanto a la inicialización del sistema AHRS, el manual exigía tres minutos de avión estático tras conectar la batería; la tripulación inició el rodaje a los 2 minutos y 40 segundos, restando apenas 20 segundos (o 28 segundos respecto al inicio de movimiento en las reconstrucciones televisivas) para completar la alineación.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

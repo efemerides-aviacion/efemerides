@@ -25,8 +25,7 @@ image: 2008-01-04-accidente-transaven-let410.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Datos verificados del evento
-- **Fecha del accidente:** 4 de enero de 2008
-- **Hora del accidente:** 09:42 (hora local)
+- **Fecha y hora del suceso:** 4 de enero de 2008, 09:42 (hora local)
 - **Lugar:** Mar Caribe, 9-11 km al sur del archipiélago de Los Roques, Venezuela (coordenadas aproximadas: 11°20′N 66°47′W)
 - **Ruta:** Aeropuerto Internacional Simón Bolívar (Maiquetía, Caracas) – Aeropuerto de Los Roques (Gran Roque)
 - **Aeronave:** Let L-410UVP-E3 (fabricado en Checoslovaquia en 1987)
@@ -53,10 +52,10 @@ image: 2008-01-04-accidente-transaven-let410.webp
 
 ## Contexto Histórico
 
-El accidente de Transaven ocurrió en una de las rutas turísticas más concurridas de Venezuela, que conecta Caracas con el archipiélago de Los Roques, un destino paradisíaco del Caribe. La tragedia se vio agravada por la coincidencia de fechas con otro accidente ocurrido exactamente cinco años después (el 4 de enero de 2013), en el que desapareció una avioneta Britten-Norman Islander con el diseñador italiano Vittorio Missoni a bordo, lo que generó especulaciones sobre una "ruta maldita".
+El accidente de Transaven ocurrió en una de las rutas turísticas más concurridas de Venezuela, que conecta Caracas con el archipiélago de Los Roques, un destino paradisíaco del Caribe. La tragedia se vio agravada por la coincidencia de fechas con <a href="https://efemerides-aviacion.github.io/efemerides/accidente/2013/01/04/accidente-transaereo-bn2a-islander.html" style="color: #315fea; text-decoration: none;">otro accidente ocurrido exactamente cinco años después (el 4 de enero de 2013)</a>, en el que desapareció una avioneta Britten-Norman Islander con el diseñador italiano Vittorio Missoni a bordo, lo que generó especulaciones sobre una "ruta maldita".
 
 ### Entorno social
-La ruta Maiquetía – Los Roques era muy frecuentada por turistas nacionales e internacionales, especialmente italianos, debido a la fuerte comunidad italo-venezolana. La desaparición del vuelo causó conmoción en ambos países. El gobierno italiano presionó para que se intensificaran las búsquedas, lo que generó tensiones diplomáticas. Los familiares de las víctimas italianas mantuvieron una larga lucha por el esclarecimiento de los hechos.
+La ruta Maiquetía – Los Roques era muy frecuentada por turistas nacionales e internacionales, especialmente italianos, debido a la fuerte comunidad ítalo-venezolana. La desaparición del vuelo causó conmoción en ambos países y las autoridades diplomáticas de Roma solicitaron intensificar las labores de búsqueda submarina, mientras los familiares de los pasajeros mantuvieron una larga campaña por el esclarecimiento de los hechos.
 
 ### Entorno tecnológico
 El Let L-410 Turbolet es un bimotor turbohelice de fabricación checa, diseñado para operar en pistas cortas y condiciones adversas. Es ampliamente utilizado en rutas regionales e insulares. El modelo ha sufrido varios accidentes relacionados con fallos de motor y condiciones de hielo. La aeronave siniestrada tenía 21 años de antigüedad en el momento del accidente y acumulaba 6.135 horas de vuelo.
@@ -91,7 +90,7 @@ El caso fue ampliamente cubierto por medios nacionales e internacionales. La fal
 
 ## Legado
 
-El accidente del YV2081 sigue siendo una de las tragedias aéreas más recordadas de Venezuela. El hallazgo del fuselaje en 2013 cerró parcialmente el duelo de las familias, pero muchas preguntas quedaron sin respuesta, ya que el informe final de la JIAAC no determinó una causa probable para la falla de ambos motores. El avión permanece sumergido a casi 1.000 metros de profundidad, y solo el cuerpo del copiloto fue recuperado. Los restos de las otras 13 víctimas nunca fueron encontrados. La "ruta maldita" de Los Roques, como la llamaron algunos medios, sigue siendo un recordatorio de los desafíos de la seguridad aérea en rutas insulares.
+El accidente del YV2081 sigue siendo una de las tragedias aéreas más recordadas de Venezuela, ocurrida apenas siete semanas antes del <a href="https://efemerides-aviacion.github.io/efemerides/accidente/2008/02/21/accidente-vuelo-518-santa-barbara-airlines.html" style="color: #315fea; text-decoration: none;">accidente del vuelo 518 de Santa Bárbara Airlines en Mérida</a>. El hallazgo del fuselaje en 2013 cerró parcialmente el duelo de las familias, pero muchas preguntas quedaron sin respuesta, ya que el informe final de la JIAAC no determinó una causa probable para la falla de ambos motores. El avión permanece sumergido a casi 1.000 metros de profundidad, y solo el cuerpo del copiloto fue recuperado. Los restos de las otras 13 víctimas nunca fueron encontrados. La "ruta maldita" de Los Roques, como la llamaron algunos medios, sigue siendo un recordatorio de los desafíos de la seguridad aérea en rutas insulares.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -118,8 +117,9 @@ El accidente del YV2081 sigue siendo una de las tragedias aéreas más recordada
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-08 15:36:36 CST  
-- **Fuentes primarias/institucionales consultadas:** Wikipedia (EN/IT), Aviation Safety Network, BBC Mundo, Runrun.es, La Rioja (EFE), Telemetro, El Nacional
-- **Discrepancias resueltas:** la fecha figura como 3 de enero de 2008 en algunas fuentes locales y como 4 de enero en los registros internacionales (Wikipedia, ASN, BBC); se adopta el 4. Reportes iniciales indicaron 18 personas a bordo; las fuentes oficiales confirman 14 (12 pasajeros y 2 tripulantes). Algunas fuentes reportaron la profundidad del hallazgo como «900 metros»; ASN confirma 974 metros (3.200 pies). El informe final de la JIAAC no contiene una declaración de «Causa Probable»: la causa exacta de la falla de ambos motores no fue determinada oficialmente
+- **Timestamp de verificación:** 2026-10-07 19:27:00 CST  
+- **Fuentes primarias/institucionales consultadas:** JIAAC (resumen en Aviation Safety Network); Wikipedia (EN/IT).
+- **Fuentes secundarias de contraste:** BBC Mundo; Runrun.es; La Rioja (EFE); Telemetro; El Nacional.
+- **Discrepancias resueltas:** Se adopta la fecha del 4 de enero de 2008, el total de 14 ocupantes (12 pasajeros y 2 tripulantes) y la profundidad de 974 metros (3.200 pies) confirmados por ASN.
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
