@@ -13,7 +13,7 @@ image: 2002-07-04-steve-fossett-vuelta-mundo-globo.webp
 
 <figure>
   <img class="post-image" src="{{ site.baseurl }}/assets/img/2002-07-04-steve-fossett-vuelta-mundo-globo.webp" alt="La góndola del Spirit of Freedom en el Smithsonian">
-  <figcaption class="post-caption">Steve Fossett en la barquilla del globo Spirit of Freedom, con el que completó la primera vuelta al mundo en solitario en globo aerostático el 4 de julio de 2002; fuente: Mark Wilson/Getty Images / Infobae.</figcaption>
+  <figcaption class="post-caption">Steve Fossett en la barquilla del globo Spirit of Freedom, con el que completó la primera circunnavegación en solitario en globo aerostático el 4 de julio de 2002; fuente: Mark Wilson/Getty Images / Infobae.</figcaption>
 </figure>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 <!-- ## Resumen Ejecutivo -->
