@@ -59,7 +59,7 @@ Del papel de Annonay a la jaula de Versalles, la secuencia de 1783 avanzó en cu
 - **27 de agosto de 1783:** Jacques Charles vuela desde el Campo de Marte el primer pequeño globo de hidrógeno, sin pasajeros, espoleando a los Montgolfier a responder con su propia demostración parisina.
 - **11 de septiembre de 1783:** ensayo del <i>Aérostat Réveillon</i> en los jardines de la Folie Titon, junto a la casa de Réveillon en París, con la jaula ya prevista para los animales.
 - **19 de septiembre de 1783, hacia la una de la tarde:** en Versalles, un cañonazo anuncia el llenado del globo; once minutos después, un segundo cañonazo avisa de que está lleno, y un tercero ordena la suelta. La máquina se eleva majestuosamente con la oveja Montauciel, el pato y el gallo, vuela unos ocho minutos y desciende lentamente a 1.700 toesas del punto de partida (unos 3,3 km), en el bosque de Vaucresson. Los tres animales resultan ilesos; el gallo llega con un ala lastimada, que la crónica atribuye a una coz de la oveja durante el vuelo.
-- **15 de octubre de 1783:** Jean-François Pilâtre de Rozier realiza la primera ascensión humana, todavía cautiva, en un globo Montgolfier.
+- **15 de octubre de 1783:** Pilâtre de Rozier sube a un aerostato amarrado; la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/10/15/pilatre-de-rozier-primera-ascension-humana-globo-cautivo.html" style="color: #315fea; text-decoration: none;">prueba humana en la manufactura Réveillon</a> abre una nueva fase de los ensayos.
 - **21 de noviembre de 1783:** Pilâtre de Rozier y el marqués d'Arlandes firman <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">el primer vuelo libre tripulado por humanos</a>, sobre París.
 - **1 de diciembre de 1783:** Charles y Robert completan <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">el primer vuelo libre en globo de hidrógeno</a> desde las Tullerías.
 
@@ -98,7 +98,7 @@ La escena vive en museos y colecciones de todo el mundo: el Smithsonian custodia
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-29 14:33:02 CST
+- **Timestamp de verificación:** 2026-10-09 06:56:58 CST
 - **Fuentes primarias/institucionales consultadas:** Smithsonian NASM; Museums Victoria; Linda Hall Library; Anderson Abruzzo Balloon Museum; Guinness World Records.
 - **Fuente secundaria de contraste:** Wikipedia (EN).
 - **Discrepancias resueltas:** varían las cifras de la envolvente, el recorrido y la altura; se priorizan el grabado de 1783 y la altitud de consenso.

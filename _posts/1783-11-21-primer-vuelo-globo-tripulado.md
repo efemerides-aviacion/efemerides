@@ -80,7 +80,7 @@ La ascensión reunió a un profesor habituado a los experimentos y a un aristóc
 
 #### El físico de Metz
 
-Pilâtre de Rozier enseñaba química y física y había participado en demostraciones previas. Su formación le permitió ocuparse del calor durante el ascenso, mientras su práctica con globos cautivos le había familiarizado con el manejo de la envolvente.
+Pilâtre de Rozier enseñaba química y física y había participado en demostraciones previas. Su formación le permitió ocuparse del calor durante el ascenso, mientras su <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/10/15/pilatre-de-rozier-primera-ascension-humana-globo-cautivo.html" style="color: #315fea; text-decoration: none;">experiencia previa en un globo cautivo</a> le había familiarizado con el manejo de la envolvente.
 
 #### El aristócrata viajero
 
@@ -135,7 +135,7 @@ La noticia alimentó una moda material conocida como «globomanía»: muebles, r
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-09-29 14:33:03 CST
+- **Timestamp de verificación:** 2026-10-09 06:56:58 CST
 - **Fuentes primarias/institucionales consultadas:** This Day in Aviation, Encyclopaedia Britannica, National Air and Space Museum, Smithsonian Libraries
 - **Discrepancias resueltas:** Las fuentes coinciden en la fecha (21 de noviembre de 1783). La altitud (910 m), duración (25 min) y distancia (9 km) son consistentes en todas las fuentes consultadas.
 - **Nivel de confianza:** Alto

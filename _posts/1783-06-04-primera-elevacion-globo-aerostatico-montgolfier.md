@@ -66,7 +66,8 @@ El éxito de la demostración desató la "globomanía" en Francia. Los globos se
 - **1782:** Los hermanos Montgolfier comienzan sus experimentos con bolsas de papel y tela elevadas por aire caliente.
 - **4 de junio de 1783:** Primera demostración pública en Annonay, Francia, ante una multitud de autoridades locales.
 - **19 de septiembre de 1783:** <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/09/19/primer-vuelo-globo-con-seres-vivos-versalles.html" style="color: #315fea; text-decoration: none;">Segunda demostración en Versalles</a> ante el rey Luis XVI y la corte, con una oveja, un pato y un gallo como pasajeros.
-- **19 de octubre de 1783:** Primer vuelo tripulado en un globo cautivo (amarrado), con Jean-François Pilâtre de Rozier a bordo.
+- **15 de octubre de 1783:** Pilâtre de Rozier prueba el globo sujeto por cuerdas; el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/10/15/pilatre-de-rozier-primera-ascension-humana-globo-cautivo.html" style="color: #315fea; text-decoration: none;">ensayo cautivo con un pasajero humano</a> marca el primer ascenso tripulado.
+- **19 de octubre de 1783:** Pilâtre repite las pruebas cautivas con otras personas a bordo, entre ellas Giroud de Villette y el marqués d’Arlandes en ascensiones distintas.
 - **21 de noviembre de 1783:** Primer vuelo libre tripulado por Pilâtre de Rozier y el marqués d'Arlandes. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/11/21/primer-vuelo-globo-tripulado.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo tripulado en globo de aire caliente</a> para más detalles.
 - **1 de diciembre de 1783:** Primer vuelo tripulado en globo de hidrógeno (Charlière) por Jacques Charles y Nicolas-Louis Robert. Consulte la <a href="https://efemerides-aviacion.github.io/efemerides/evento/1783/12/01/primer-vuelo-globo-hidrogeno.html" style="color: #315fea; text-decoration: none;">efeméride del primer vuelo tripulado en globo de hidrógeno</a> para más detalles.
 
@@ -131,7 +132,7 @@ El 4 de junio de 1783 es una fecha fundacional en la historia de la aviación. E
 
 ## Metadatos de Control
 
-- **Timestamp de verificación:** 2026-09-09 09:35:35 CST  
+- **Timestamp de verificación:** 2026-10-09 06:56:58 CST  
 - **Fuentes primarias/institucionales consultadas:** Wikipedia, Agencia SINC, Encyclopaedia Britannica, TC Columbia Library, ACAMI
 - **Discrepancias resueltas:** Confirmación de la fecha (4 de junio de 1783) en todas las fuentes. Verificación del diámetro del globo (11 m) y el volumen (770-800 m³). Aclaración de la altitud alcanzada (1.600-2.000 m).
 - **Nivel de confianza:** Alto
