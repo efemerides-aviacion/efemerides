@@ -59,13 +59,13 @@ Aquel aeropuerto nació de una guerra, no de un plan urbano. El 22 de agosto de 
 
 ## Desarrollo Cronológico
 
-- **29 de enero de 1928: Charles Lindbergh cruza el país procedente de Bogotá en el <em>Spirit of St. Louis</em>, aterriza en Maracay y sobrevuela el litoral central. Su recomendación del sector Mare a Pan American queda como el acta de nacimiento del emplazamiento.**
-- **Años treinta: la compañía arrienda veinte hectáreas a la familia Luy y las usa como campo de tierra para correo y pasajeros; la aerolínea de 1929 había probado ya la cercanía de la capital, y desde 1943 <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1943/05/13/fundacion-avensa.html" style="color: #315fea; text-decoration: none;">AVENSA</a> volaba desde aquel potrero con sus Trimotor.**
-- **22 de agosto de 1942: el gobierno de Eleazar López Contreras firma el contrato de los aeropuertos de Maiquetía, Maracaibo y Maturín, con dinero del ADP y obra de la Pan American Airports Corporation: un año exacto después del ataque submarino frente a Cardón.**
-- **1942-1944: movimiento de tierras, pista, terminal, hangares y radiofaros, dirigidos por el ingeniero Jorge Andrés Vicentini Gutiérrez, con cemento, acero y equipos de radio que llegaron en los mismos barcos que el petróleo, a ritmo de guerra. La pista no esperó al fin de la guerra.**
-- **1.º de enero de 1945: el presidente Isaías Medina Angarita inaugura el aeropuerto y el terminal de Luis Malaussena. Venezuela estrena su puerta internacional con la aerolínea del Estado todavía en pañales y con el operador extranjero dentro del edificio.**
-- **1.º de agosto de 1946: el Estado venezolano asume la administración del aeropuerto, nueve meses y medio después del golpe de octubre que derrocó a Medina Angarita: el país cambió de gobierno sin cambiar de pista.**
-- **1952-1962: dos alas nuevas al terminal, circuitos de iluminación que abren la operación nocturna, pista auxiliar en 1956 y pista principal de 3.000 metros por 60 en 1962, la medida que puso a Maiquetía a la altura del reactor.**
+- **29 de enero de 1928:** Charles Lindbergh cruza el país procedente de Bogotá en el <em>Spirit of St. Louis</em>, aterriza en Maracay y sobrevuela el litoral central. Su recomendación del sector Mare a Pan American queda como el acta de nacimiento del emplazamiento.
+- **Años treinta:** la compañía arrienda veinte hectáreas a la familia Luy y las usa como campo de tierra para correo y pasajeros; la aerolínea de 1929 había probado ya la cercanía de la capital, y desde 1943 <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1943/05/13/fundacion-avensa.html" style="color: #315fea; text-decoration: none;">AVENSA</a> volaba desde aquel potrero con sus Trimotor.
+- **22 de agosto de 1942:** el gobierno de Eleazar López Contreras firma el contrato de los aeropuertos de Maiquetía, Maracaibo y Maturín, con dinero del ADP y obra de la Pan American Airports Corporation: un año exacto después del ataque submarino frente a Cardón.
+- **1942-1944:** movimiento de tierras, pista, terminal, hangares y radiofaros, dirigidos por el ingeniero Jorge Andrés Vicentini Gutiérrez, con cemento, acero y equipos de radio que llegaron en los mismos barcos que el petróleo, a ritmo de guerra. La pista no esperó al fin de la guerra.
+- **1.º de enero de 1945:** el presidente Isaías Medina Angarita inaugura el aeropuerto y el terminal de Luis Malaussena. Venezuela estrena su puerta internacional con la aerolínea del Estado todavía en pañales y con el operador extranjero dentro del edificio.
+- **1.º de agosto de 1946:** el Estado venezolano asume la administración del aeropuerto, nueve meses y medio después del golpe de octubre que derrocó a Medina Angarita: el país cambió de gobierno sin cambiar de pista.
+- **1952-1962:** dos alas nuevas al terminal, circuitos de iluminación que abren la operación nocturna, pista auxiliar en 1956 y pista principal de 3.000 metros por 60 en 1962, la medida que puso a Maiquetía a la altura del reactor.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
@@ -106,7 +106,7 @@ Aquel aeropuerto nació de una guerra, no de un plan urbano. El 22 de agosto de 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-10 21:13:54 CST
+- **Timestamp de verificación:** 2026-10-10 15:39:15 CST
 - **Fuentes primarias/institucionales consultadas:** Wikipedia en español (sección «Historia»); Fundación Arquitectura y Ciudad (cronología 1940-1949); registro de vuelo de Lindbergh (1953); ficha del archivo fotográfico de la Presidencia en Wikimedia Commons
 - **Fuentes secundarias de contraste:** Venciclopedia; EcuRed; <em>Analítica</em>; Aporrea (decreto de renombrado de 1972)
 - **Discrepancias resueltas:** se corrige a 1928 la visita de Lindbergh; se excluyen las medidas de pista de 1945 y la superficie moderna; el renombrado de 1972 queda como dato de fuente secundaria
