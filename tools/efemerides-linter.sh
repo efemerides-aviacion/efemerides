@@ -19,6 +19,10 @@
 # alineado con Plantilla Maestra v2.21 · Instrucciones de Formato v2.20 · Instrucciones de Procesar v2.15 el 2026-10-02
 # (corrección documental del flujo de commit; sin cambios de código ni auditorías nuevas).
 # Recuento descriptivo de extensión actualizado el 2026-10-06; sin cambios funcionales.
+# alineado con Instrucciones de Formato v2.20 (bandas por sección) el 2026-10-10
+# (nueva auditoría [AVISO] 11: extensión de cada sección según las bandas de Formato v2.20 —Resumen 100–130,
+#  Datos 140–190, Contexto 380–480, Desarrollo 300–400 con 5–7 hitos, Consecuencias 150–210, Legado 110–160—;
+#  no retroactiva, no computa como fallo y admite exenciones en efemerides-rangos-excepciones.txt).
 #
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
@@ -510,6 +514,63 @@ if [ -n "$META" ]; then
   else
     printf '[AVISO]   Metadatos de Control: %s palabras — superan el tope recomendado de 150; enumerar solo nombres breves de fuentes y resumir «Discrepancias resueltas» en una línea, sin duplicar «Referencias Verificadas» (Manual v1.18 § 10)\n' "$META_WC"
   fi
+fi
+
+
+# ------------- 11. Bandas por sección (Instrucciones de Formato v2.20, «un dato, una sección»)
+# Aviso, no fallo: comprueba que cada sección obligatoria cae dentro de su banda de
+# palabras y que «Desarrollo Cronológico» tiene entre 5 y 7 hitos fechados. Rige para
+# las altas nuevas desde el 29-09-2026 y NO es retroactiva: un [AVISO] en un post del
+# corpus publicado es información, no una deuda.
+# Medición por sección: desde su cabecera (o desde el comentario del Resumen Ejecutivo)
+# hasta la siguiente H2, sin divisores <hr>, sin etiquetas HTML y sin URLs (mismo
+# criterio de recorte que la extensión narrativa), wc -w.
+# Exenciones por post: efemerides-rangos-excepciones.txt, con el fragmento «banda:<sección>».
+TMPB="$FILE.bandas.$$"; : > "$TMPB"
+awk -v OFS='|' '
+  /^<hr/ {next}
+  /^## / {sec=$0; sub(/^## /,"",sec); print "@@" sec; next}
+  /^<!-- *## Resumen Ejecutivo/ {print "@@Resumen Ejecutivo"; next}
+  {if (sec!="") print sec OFS $0}
+' <<<"$BODY" > "$TMPB"
+secs_list() {
+  awk -v S="$1" '
+    index($0,"@@")==1 {cur=substr($0,3); next}
+    cur==S {sub(/^[^|]*\|/,""); print}
+  ' < "$TMPB"
+}
+NBAD=0; BAD=""
+while IFS='|' read -r sec lo hi; do
+  [ -z "$sec" ] && continue
+  RAW=$(secs_list "$sec")
+  [ -z "$(printf '%s' "$RAW" | tr -d '[:space:]')" ] && continue   # sección no localizada: nada que auditar
+  N=$(printf '%s\n' "$RAW" | sed -e 's/<[^>]*>//g' -e 's#https\?://[^ )>"]*##g' | wc -w)
+  if [ "$N" -lt "$lo" ] || [ "$N" -gt "$hi" ]; then
+    MOT=$(exc_hit "$BASENAME" "banda:$sec")
+    if [ -n "$MOT" ]; then
+      printf '           · %-26s %s palabras (%s–%s) — exenta: %s\n' "$sec" "$N" "$lo" "$hi" "$MOT"
+    else
+      BAD="${BAD}${sec}: ${N} palabras (banda ${lo}-${hi})\n"; NBAD=$((NBAD+1))
+    fi
+  fi
+done <<'BANDS'
+Resumen Ejecutivo|100|130
+Datos verificados del evento|140|190
+Contexto Histórico|380|480
+Desarrollo Cronológico|300|400
+Consecuencias e Impacto|150|210
+Legado|110|160
+BANDS
+HITOS=$(awk 'index($0,"@@")==1{cur=substr($0,3); next} cur=="Desarrollo Cronológico" && $0 ~ /\|- \*\*/ {c++} END{print c+0}' < "$TMPB")
+if [ "$HITOS" -lt 5 ] || [ "$HITOS" -gt 7 ]; then
+  BAD="${BAD}Desarrollo Cronológico: ${HITOS} hitos fechados (norma 5–7)\n"; NBAD=$((NBAD+1))
+fi
+rm -f "$TMPB"
+if [ "$NBAD" -eq 0 ]; then
+  ok "Bandas por sección: 6 secciones dentro de su banda y $HITOS hitos fechados (Formato v2.20)"
+else
+  printf '[AVISO]   Bandas por sección: %s desviación(es) respecto de las bandas de Formato v2.20 (no retroactivo; condensar con «un dato, una sección» o anotar la exención en el archivo de excepciones):\n' "$NBAD"
+  printf '%b' "$BAD"
 fi
 
 # ------------------------------------------------------------------ Veredicto
