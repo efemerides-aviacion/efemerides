@@ -47,8 +47,6 @@ En la misma fecha el validador emite un `[AVISO]` de **repeticiones entre seccio
 
 También desde el 2026-09-29 el validador mide la extensión de `## Metadatos de Control` (Manual de Estilo v1.18, § 10; Plantilla Maestra v2.21, regla maestra 17): `[OK]` hasta 150 palabras y `[AVISO]` por encima, con la indicación de enumerar solo nombres breves de fuentes y resumir `Discrepancias resueltas` en una línea, sin duplicar títulos, autores ni signaturas de `## Referencias Verificadas`. La mediana del corpus es de 110 palabras y 141 posts superan el tope (los peores, entre 300 y 411); las altas recientes de investigación extensa (1914-10-05, 1931-10-05, 1967-10-03) se sitúan entre 236 y 308 palabras.
 
->>> INICIO DEL CAMBIO 10-10-2026 · borrar esta línea al aplicar <<<
-
 Desde el 2026-10-10 el validador mide la **extensión de cada sección** (Instrucciones de Formato v2.20,
 apartado «Pautas de redacción para evitar repeticiones y extensión del post»; Manual de Estilo v1.18,
 § 5.10). Imprime `[OK]` cuando las seis secciones narrativas caen dentro de su banda —`Resumen
@@ -68,7 +66,6 @@ una sección fuera de banda y 29 son conformes; por sección, fuera de banda: `R
 fuera de 5–7, `Consecuencias e Impacto` 443 y `Legado` 433. La regresión completa del script con la
 auditoría nueva dejó 0 diferencias ajenas a ella y ningún cambio de código de salida: los 10 posts con
 `FALLECE` del corpus son los mismos de antes.
->>> FIN DEL CAMBIO 10-10-2026 · borrar esta línea al aplicar <<<
 ## Normas de mantenimiento
 
 1. Todo cambio del script debe contrastarse con los seis rectores vigentes.
