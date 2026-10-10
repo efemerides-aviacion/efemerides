@@ -1,5 +1,5 @@
 # Guía del validador estructural de efemérides
-> Última actualización: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
+> Última actualización: 2026-10-06 (a partir de hoy el validador audita además las bandas por sección; se documenta esa auditoría y se corrige el localizador del bloque `Resumen Ejecutivo`). Actualización anterior: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
 
 ## Finalidad
 
@@ -47,6 +47,28 @@ En la misma fecha el validador emite un `[AVISO]` de **repeticiones entre seccio
 
 También desde el 2026-09-29 el validador mide la extensión de `## Metadatos de Control` (Manual de Estilo v1.18, § 10; Plantilla Maestra v2.21, regla maestra 17): `[OK]` hasta 150 palabras y `[AVISO]` por encima, con la indicación de enumerar solo nombres breves de fuentes y resumir `Discrepancias resueltas` en una línea, sin duplicar títulos, autores ni signaturas de `## Referencias Verificadas`. La mediana del corpus es de 110 palabras y 141 posts superan el tope (los peores, entre 300 y 411); las altas recientes de investigación extensa (1914-10-05, 1931-10-05, 1967-10-03) se sitúan entre 236 y 308 palabras.
 
+>>> INICIO DEL CAMBIO 10-10-2026 · borrar esta línea al aplicar <<<
+
+Desde el 2026-10-10 el validador mide la **extensión de cada sección** (Instrucciones de Formato v2.20,
+apartado «Pautas de redacción para evitar repeticiones y extensión del post»; Manual de Estilo v1.18,
+§ 5.10). Imprime `[OK]` cuando las seis secciones narrativas caen dentro de su banda —`Resumen
+Ejecutivo` 100–130, `## Datos verificados del evento` 140–190, `## Contexto Histórico` 380–480,
+`## Desarrollo Cronológico` 300–400 con **5–7 hitos fechados**, `## Consecuencias e Impacto` 150–210
+y `## Legado` 110–160— y `[AVISO]` enumerando las desviaciones en caso contrario. La medición va de
+la cabecera de la sección a la siguiente, sin divisores `<hr>`, sin etiquetas HTML y sin URLs, el mismo
+recorte que la extensión narrativa; si el bloque del `Resumen Ejecutivo` no está localizado, esa
+comprobación se omite en lugar de contar 0. La norma **no es retroactiva** y el aviso no computa como
+fallo: un post del corpus publicado queda congelado. Las exenciones se anotan en
+`tools/efemerides-rangos-excepciones.txt` con la forma `<archivo>|banda:<sección>|motivo`, y se
+documentan a la vez en `docs/excepciones-rangos-y-tratamientos.md`.
+
+Fotografía del corpus en el HEAD `4ca66a3b5066` (2026-10-10; 632 posts): 603 posts presentan al menos
+una sección fuera de banda y 29 son conformes; por sección, fuera de banda: `Resumen Ejecutivo` 438,
+`Datos verificados del evento` 465, `Contexto Histórico` 510, `Desarrollo Cronológico` 425 más 398 con recuento de hitos
+fuera de 5–7, `Consecuencias e Impacto` 443 y `Legado` 433. La regresión completa del script con la
+auditoría nueva dejó 0 diferencias ajenas a ella y ningún cambio de código de salida: los 10 posts con
+`FALLECE` del corpus son los mismos de antes.
+>>> FIN DEL CAMBIO 10-10-2026 · borrar esta línea al aplicar <<<
 ## Normas de mantenimiento
 
 1. Todo cambio del script debe contrastarse con los seis rectores vigentes.
