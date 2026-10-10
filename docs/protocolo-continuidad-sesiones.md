@@ -1,6 +1,6 @@
 # Protocolo de continuidad entre sesiones
 
-> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, actualizada el 1 de octubre de 2026 para registrar Formato v2.19 y actualizada el 2 de octubre de 2026 para registrar Plantilla Maestra v2.21, Formato v2.20 e Instrucciones de Procesar v2.15 tras la corrección de coherencia del flujo de commit, y actualizada el 10 de octubre de 2026 para anclar la rama en toda consulta al repositorio y registrar la auditoría 11 del linter (bandas por sección). No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
+> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, actualizada el 1 de octubre de 2026 para registrar Formato v2.19 y actualizada el 2 de octubre de 2026 para registrar Plantilla Maestra v2.21, Formato v2.20 e Instrucciones de Procesar v2.15 tras la corrección de coherencia del flujo de commit. No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
 
 ## Principio
 
@@ -14,7 +14,6 @@ Debe indicar, de forma breve:
 
 - fecha y condición del cierre;
 - rama y HEAD al cierre;
-- rama por defecto del repositorio (`default_branch`) y si coincide o no con la rama de trabajo;  [NUEVO 10-10-2026]
 - publicaciones o correcciones realizadas;
 - número de posts verificado;
 - pendientes reales y tareas con fecha;
@@ -32,19 +31,6 @@ Debe incluir literalmente:
 - HEAD completo y abreviado;
 - fecha y hora de la consulta a la API;
 - número de posts y cualquier otro recuento realmente verificado.
->>> INICIO DEL CAMBIO 10-10-2026 · borrar esta línea al aplicar <<<
-
-**Anclaje de rama en toda consulta al repositorio.** El valor `default_branch` del repositorio no es una
-fuente de verdad ni una señal de estado: puede apuntar a una rama inactiva. En este repositorio
-`default_branch` es `main`, el esqueleto de la restauración (11 posts, sin `tools/`), mientras el trabajo
-real vive en `restauracion-efemerides-3`. Toda consulta a la API de GitHub y a `raw.githubusercontent.com`
-debe llevar la rama de forma explícita —`?ref=` en la API, o la rama en el path en `raw`— y queda
-prohibido inferir el estado del proyecto a partir de una consulta sin referencia de rama. El preflight
-de apertura comprueba el `default_branch` vigente y lo consigna en §0.
-
-*Causa registrada: el 10-10-2026 una consulta `/repos/…` sin `?ref=` devolvió el esqueleto de `main` y
-se interpretó como un movimiento de la rama de trabajo.*
->>> FIN DEL CAMBIO 10-10-2026 · borrar esta línea al aplicar <<<
 
 La sesión siguiente debe contrastar el HEAD registrado con:
 
@@ -73,14 +59,6 @@ Debe registrar también:
 - forma de recuperar cualquier herramienta excepcional que todavía no esté versionada.
 
 Desde la enmienda del 29-09-2026 el linter informa además de tres magnitudes del post, todas en modo `[AVISO]` y sin efecto retroactivo: la extensión narrativa (banda 1.150–1.500 palabras, tope de 1.550; Manual v1.18 § 5.10), las repeticiones de 7-gramas entre secciones fuera del `Resumen Ejecutivo` (Manual v1.18 § 5) y la extensión de `## Metadatos de Control` (tope recomendado de 150 palabras; Manual v1.18 § 10). Los avisos se anotan en el cierre de la jornada solo cuando un alta nueva los activa.
->>> INICIO DEL CAMBIO 10-10-2026 · borrar esta línea al aplicar <<<
-Desde el 10-10-2026 el linter añade una cuarta auditoría en el mismo modo `[AVISO]`, no retroactiva y
-sin efecto sobre el veredicto: las **bandas por sección** de Formato v2.20 (Resumen Ejecutivo 100–130,
-Datos verificados 140–190, Contexto Histórico 380–480, Desarrollo Cronológico 300–400 con 5–7 hitos
-fechados, Consecuencias e Impacto 150–210, Legado 110–160), medidas sin etiquetas HTML y sin URLs.
-Se exenta un post añadiendo a `tools/efemerides-rangos-excepciones.txt` una línea
-`<archivo>|banda:<sección>|motivo`.
->>> FIN DEL CAMBIO 10-10-2026 · borrar esta línea al aplicar <<<
 
 `tools/eco7.py` es la fuente de verdad del detector de ecos desde su incorporación al repositorio el 25 de septiembre de 2026. No debe depender de una copia única en `/home/user/herramientas/`, de un adjunto ni de un equipo local. La copia versionada se recupera con el sparse-checkout de `tools/`. Si el archivo falta, su hash difiere del registrado o no supera las comprobaciones de apertura, debe reconstruirse el clon desde el HEAD remoto antes de auditar contenido.
 
@@ -183,7 +161,7 @@ No debe convertirse en un historial acumulativo de todo el proyecto.
 3. Reconstruir el clon disperso con la rama explícita.
 4. Confirmar que `assets/img` no se materializó.
 5. Leer íntegramente los seis rectores antes de aceptar una efeméride.
-6. Comprobar el linter, su archivo de excepciones y el detector versionado `tools/eco7.py`, y anotar el `default_branch` del repositorio.
+6. Comprobar el linter, su archivo de excepciones y el detector versionado `tools/eco7.py`.
 7. Verificar la sintaxis y ayuda del detector con `python3 -m py_compile tools/eco7.py` y `python3 tools/eco7.py --help`; contrastar su SHA-256 con el estado vigente.
 8. Verificar recuento de `_posts`, calendario y pendientes.
 9. Informar cualquier ausencia o divergencia antes de producir contenido.
