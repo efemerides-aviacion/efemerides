@@ -48,7 +48,7 @@ image: 1922-10-17-primer-despegue-portaviones-langley-ve-7-griffin.webp
 ### Entorno tecnológico
 
 <p>El <em>Jupiter</em> era una elección de conveniencia: como carbonero de la clase <em>Proteus</em> ofrecía bodegas amplias que se transformaron en hangares, y su propulsión turboeléctrica permitía prescindir de las líneas de ejes que habrían cruzado el espacio útil. Sobre el casco se montó una cubierta corrida de madera, con un ascensor, una catapulta y una fila de cables para detener aviones de algo más de una tonelada.</p>
-<p>Ese último punto fue el más difícil. Antes de la puesta en servicio se ensayaron en Hampton Roads cables lastrados tendidos de través, distintos de los longitudinales británicos; el ingeniero Alfred Pride recordaría que el encargo partió del propio Chevalier. El avión tampoco estaba pensado para aquello: el VE-7SF era un biplano de lienzo y madera, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">a diecinueve años del primer vuelo de los hermanos Wright</a>, sin frenos modernos ni gancho de apontaje.</p>
+<p>Ese último punto fue el más difícil. Antes de la puesta en servicio se ensayaron en Hampton Roads cables lastrados tendidos de través, distintos de los longitudinales británicos; el ingeniero Alfred Pride recordaría que el encargo partió del propio Chevalier. El avión tampoco estaba pensado para aquello: el VE-7SF era un biplano de lienzo y madera, <a href="https://efemerides-aviacion.github.io/efemerides/evento/1903/12/17/wright-flyer-primer-vuelo.html" style="color: #315fea; text-decoration: none;">diecinueve años después del primer vuelo de los Wright</a>, sin frenos modernos ni gancho de apontaje.</p>
 
 ### Entorno cultural
 
@@ -108,9 +108,9 @@ image: 1922-10-17-primer-despegue-portaviones-langley-ve-7-griffin.webp
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Metadatos de Control
-- **Timestamp de verificación:** 2026-10-11 11:55:33 CST
-- **Fuentes primarias/institucionales consultadas:** Naval History and Heritage Command (ficha del buque, DANFS); Virtual Memorial Hall de la Academia Naval; Naval Historical Foundation; Wikimedia Commons (ficha de la fotografía del VE-7 sobre el USS Langley)
+- **Timestamp de verificación:** 2026-10-11 12:30:23 CST
+- **Fuentes primarias/institucionales consultadas:** Naval History and Heritage Command (ficha del buque, DANFS); Virtual Memorial Hall de la Academia Naval; Naval Historical Foundation
 - **Fuentes secundarias de contraste:** Wikipedia en inglés (USS Langley, Vought VE-7, Godfrey Chevalier, Eugene Ely, Edwin Dunning)
-- **Discrepancias resueltas:** grado de Griffin como teniente; apontaje el 26 de octubre de 1922; potencia del motor omitida por discrepancia entre fuentes; imagen de 1923 declarada como tal en el pie
+- **Discrepancias resueltas:** grado de Griffin como teniente; apontaje el 26 de octubre de 1922; potencia del motor omitida por discrepancia entre fuentes
 - **Nivel de confianza:** Alto
 - **Cláusula final:** “Cuando una afirmación relevante no pudo ser confirmada, se omitió o se marcó como [NO CONFIRMADO]”.
