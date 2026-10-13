@@ -1,0 +1,144 @@
+---
+layout: default
+---
+
+<div class="magazine-home">
+  <!-- Hero Section -->
+  <section class="magazine-hero">
+    <div class="hero-content">
+      <h1>Crónica y Memoria del Vuelo</h1>
+      <p>Archivo histórico ilustrado de la aeronáutica universal y venezolana. Más de 640 hitos, biografías y despegues legendarios.</p>
+      
+      <div class="search-wrapper">
+        <svg width="20" height="20" viewbox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 14z"/></svg>
+        <input type="text" id="searchInput" placeholder="Buscar por avión, personaje, país o evento (ej. Maiquetía, Earhart, F-86, Braniff...)" autocomplete="off">
+      </div>
+    </div>
+  </section>
+
+  <!-- Filter Controls -->
+  <div class="filter-section" id="archivo">
+    <div class="filter-header">
+      <div class="filter-pills" id="categoryPills">
+        <button class="filter-pill active" data-cat="all">Todas las efemérides</button>
+        <button class="filter-pill" data-cat="evento">Eventos Históricos</button>
+        <button class="filter-pill" data-cat="nacimiento">Pioneros / Nacimientos</button>
+        <button class="filter-pill" data-cat="fundacion">Fundaciones</button>
+        <button class="filter-pill" data-cat="espacial">Era Espacial</button>
+        <button class="filter-pill" data-cat="accidente">Seguridad Aérea</button>
+      </div>
+
+      <select class="month-select" id="monthSelect">
+        <option value="all">📅 Filtrar por Mes (Todos)</option>
+        <option value="01">Enero</option>
+        <option value="02">Febrero</option>
+        <option value="03">Marzo</option>
+        <option value="04">Abril</option>
+        <option value="05">Mayo</option>
+        <option value="06">Junio</option>
+        <option value="07">Julio</option>
+        <option value="08">Agosto</option>
+        <option value="09">Septiembre</option>
+        <option value="10">Octubre</option>
+        <option value="11">Noviembre</option>
+        <option value="12">Diciembre</option>
+      </select>
+    </div>
+
+    <div class="stats-badge">
+      Mostrando <span class="stats-count" id="visibleCount">{{ site.posts | size }}</span> efemérides
+    </div>
+  </div>
+
+  <!-- Cards Grid rendered with Liquid -->
+  <section class="cards-grid" id="cardsGrid">
+    {% for post in site.posts %}
+      {% assign cat = post.categories | first | default: "evento" %}
+      {% assign m_num = post.date | date: "%m" %}
+      <a href="{{ post.url | relative_url }}" class="card" data-category="{{ cat }}" data-month="{{ m_num }}">
+        <div class="card-media">
+          {% if post.image %}
+            <img src="{{ site.baseurl }}/assets/img/{{ post.image }}" alt="{{ post.title }}" loading="lazy" onerror="this.onerror=null; this.src=&#39;data:image/svg+xml;utf8,&lt;svg xmlns=\&#39;http://www.w3.org/2000/svg\&#39; width=\&#39;100\&#39; height=\&#39;100\&#39; fill=\&#39;%23475569\&#39;&gt;&lt;text x=\&#39;50%\&#39; y=\&#39;50%\&#39; text-anchor=\&#39;middle\&#39; fill=\&#39;white\&#39;&gt;✈&lt;/text&gt;&lt;/svg&gt;&#39;;">
+          {% else %}
+            <div class="card-media-placeholder">✈</div>
+          {% endif %}
+          <span class="badge badge-{{ cat }}">
+            {{ cat | capitalize }}
+          </span>
+        </div>
+        <div class="card-body">
+          <div class="card-meta">
+            <span>📅 {{ post.date | date: "%d/%m/%Y" }}</span>
+          </div>
+          <h3 class="card-title">{{ post.title }}</h3>
+          <p class="card-excerpt">{{ post.excerpt | strip_html | truncatewords: 22 }}</p>
+          <div class="card-footer">
+            <span class="read-more">Leer efeméride <span>&rarr;</span></span>
+          </div>
+        </div>
+      </a>
+    {% endfor %}
+  </section>
+</div>
+
+<!-- Inline Filtering Script (Zero external dependencies) -->
+<script type='text/javascript' nonce='AlzZIin/sjKgwoydXE59gg==' src='https://arena.ai/hYKud_d-C8hq0e1N5H81G-qn-C78ghZzrAlDKQCc1WNNnqxC55JuSvwLMcQovqD2IvtQBKpTSmyKCTajQ7-0Yjao-9XXxEZTuS7WLvl05ujYPkqioOldxN77ETM2CX6PB1pgLVBtD7Z1wwIiTSmwH68UygALj5ek3Xn0FLu5QicmefJg5CqFbHUSTWgbaM13bAFTpNhWels7FKT2pI4F1afPxZflxX1pbwtVTyBwAeTnZwr-t92f2vP-NfFtlO0Jbgcn2sV45kbyq3Gb0wZZAci8n7KWza4TINjKhMADvhggNkVSd1Sj6PkTdlNKfobrUvSfnaS5GWBz4N1EXfROvCw9jSl8Jdurjk2BkteJ6ZHH5GfkJIygdsWIuiuumqTxTI8S7elq23Fzems7FthgOvBCHWQ5RdIacaU82o-VI1TDyUOS-QmFAFv5LZMhGME82nWtbh0hfYuMu04WX-Hj6BV_9ox4AY8YLK7PJFELpz87lAvECi6PMfoaJhLyt7S4XXQ3NtCfJ7RHZm3_NIV4kw'></script><script>
+  (function() {
+    const searchInput = document.getElementById('searchInput');
+    const pills = document.querySelectorAll('.filter-pill');
+    const monthSelect = document.getElementById('monthSelect');
+    const cards = document.querySelectorAll('.cards-grid .card');
+    const visibleCount = document.getElementById('visibleCount');
+
+    let currentCat = 'all';
+    let currentMonth = 'all';
+    let currentQuery = '';
+
+    function filterCards() {
+      let count = 0;
+      const q = currentQuery.toLowerCase().trim();
+
+      cards.forEach(card => {
+        const cat = card.getAttribute('data-category');
+        const m = card.getAttribute('data-month');
+        const text = card.textContent.toLowerCase();
+
+        const matchCat = (currentCat === 'all' || cat === currentCat);
+        const matchMonth = (currentMonth === 'all' || m === currentMonth);
+        const matchQuery = (!q || text.includes(q));
+
+        if (matchCat && matchMonth && matchQuery) {
+          card.style.display = 'flex';
+          count++;
+        } else {
+          card.style.display = 'none';
+        }
+      });
+
+      if (visibleCount) visibleCount.textContent = count;
+    }
+
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => {
+        currentQuery = e.target.value;
+        filterCards();
+      });
+    }
+
+    pills.forEach(p => {
+      p.addEventListener('click', () => {
+        pills.forEach(btn => btn.classList.remove('active'));
+        p.classList.add('active');
+        currentCat = p.getAttribute('data-cat');
+        filterCards();
+      });
+    });
+
+    if (monthSelect) {
+      monthSelect.addEventListener('change', (e) => {
+        currentMonth = e.target.value;
+        filterCards();
+      });
+    }
+  })();
+</script>
