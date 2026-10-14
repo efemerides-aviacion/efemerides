@@ -1,0 +1,279 @@
+---
+---
+
+/* ==========================================================================
+   ESTILOS MAGAZINE / CARDS GRID PARA EFEMÉRIDES DE AVIACIÓN
+   ========================================================================== */
+
+:root {
+  --mag-primary: #182B49;
+  --mag-accent: #2563EB;
+  --mag-bg: #F8FAFC;
+  --mag-surface: #FFFFFF;
+  --mag-text-main: #0F172A;
+  --mag-text-muted: #64748B;
+  --mag-border: #E2E8F0;
+  --mag-radius: 12px;
+  --mag-shadow-sm: 0 1px 2px rgba(0,0,0,0.05);
+  --mag-shadow-hover: 0 12px 24px -4px rgba(0,0,0,0.12), 0 4px 8px -2px rgba(0,0,0,0.06);
+}
+
+.magazine-home {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 16px 40px 16px;
+}
+
+/* Hero Section */
+.magazine-hero {
+  background: linear-gradient(135deg, #182B49 0%, #0F172A 100%);
+  color: white;
+  padding: 50px 20px 42px 20px;
+  text-align: center;
+  border-radius: var(--mag-radius);
+  margin-bottom: 32px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+.magazine-hero .hero-content {
+  position: relative;
+  z-index: 2;
+  max-width: 760px;
+  margin: 0 auto;
+}
+.magazine-hero h1 {
+  font-family: Georgia, serif;
+  font-size: 2.3rem;
+  margin-bottom: 12px;
+  font-weight: 700;
+  color: #FFFFFF !important;
+}
+.magazine-hero p {
+  color: #94A3B8;
+  font-size: 1.1rem;
+  margin-bottom: 24px;
+  line-height: 1.55;
+}
+.magazine-hero .search-wrapper {
+  max-width: 540px;
+  margin: 0 auto;
+  position: relative;
+}
+.magazine-hero .search-wrapper input {
+  width: 100%;
+  padding: 14px 20px 14px 46px;
+  border-radius: 30px;
+  border: 1px solid rgba(255,255,255,0.25);
+  background: rgba(255,255,255,0.12);
+  color: white;
+  font-size: 1rem;
+  outline: none;
+  backdrop-filter: blur(8px);
+  transition: all 0.2s ease;
+}
+.magazine-hero .search-wrapper input::placeholder {
+  color: #94A3B8;
+}
+.magazine-hero .search-wrapper input:focus {
+  background: rgba(255,255,255,0.2);
+  border-color: #60A5FA;
+  box-shadow: 0 0 0 3px rgba(96,165,250,0.3);
+}
+.magazine-hero .search-wrapper svg {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  fill: #94A3B8;
+}
+
+/* Filter Controls */
+.filter-section {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: 28px;
+}
+.filter-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.filter-pills {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 4px;
+}
+.filter-pill {
+  padding: 7px 16px;
+  border-radius: 20px;
+  border: 1px solid var(--mag-border);
+  background: var(--mag-surface);
+  color: var(--mag-text-muted);
+  font-size: 0.88rem;
+  font-weight: 500;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.15s ease;
+}
+.filter-pill:hover {
+  background: #F1F5F9;
+  color: var(--mag-text-main);
+  border-color: #CBD5E1;
+}
+.filter-pill.active {
+  background: var(--mag-primary);
+  color: white;
+  border-color: var(--mag-primary);
+  box-shadow: 0 2px 4px rgba(24,43,73,0.15);
+}
+.month-select {
+  padding: 7px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--mag-border);
+  background: var(--mag-surface);
+  color: var(--mag-text-main);
+  font-size: 0.88rem;
+  font-weight: 500;
+  outline: none;
+  cursor: pointer;
+}
+.stats-badge {
+  font-size: 0.9rem;
+  color: var(--mag-text-muted);
+  font-weight: 500;
+}
+.stats-count {
+  font-weight: 700;
+  color: var(--mag-primary);
+}
+
+/* Cards Grid */
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 24px;
+}
+
+/* Card Item */
+.card {
+  background: var(--mag-surface);
+  border-radius: var(--mag-radius);
+  border: 1px solid var(--mag-border);
+  overflow: hidden;
+  box-shadow: var(--mag-shadow-sm);
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+  text-decoration: none !important;
+  color: inherit !important;
+}
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--mag-shadow-hover);
+  border-color: #CBD5E1;
+}
+.card-media {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%; /* 16:9 ratio */
+  background: #0F172A;
+  overflow: hidden;
+}
+.card-media img {
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+.card:hover .card-media img {
+  transform: scale(1.05);
+}
+.card-media-placeholder {
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 32px; color: #64748B; background: #1E293B;
+}
+
+/* Badges */
+.badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 4px 9px;
+  border-radius: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  z-index: 2;
+}
+.badge-nacimiento { background: #ECFDF5; color: #065F46; border: 1px solid #A7F3D0; }
+.badge-evento { background: #EFF6FF; color: #1E40AF; border: 1px solid #BFDBFE; }
+.badge-fundacion { background: #FEF3C7; color: #92400E; border: 1px solid #FDE68A; }
+.badge-accidente { background: #FEF2F2; color: #991B1B; border: 1px solid #FECACA; }
+.badge-espacial { background: #F5F3FF; color: #5B21B6; border: 1px solid #DDD6FE; }
+.badge-supervivencia { background: #ECFEFF; color: #155E75; border: 1px solid #A5F3FC; }
+
+/* Card Body */
+.card-body {
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+.card-meta {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--mag-text-muted);
+  font-size: 0.8rem;
+  margin-bottom: 8px;
+  font-weight: 500;
+}
+.card-title {
+  font-family: Georgia, serif;
+  font-size: 1.12rem;
+  font-weight: 700;
+  color: var(--mag-primary);
+  line-height: 1.35;
+  margin-bottom: 10px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-excerpt {
+  color: var(--mag-text-muted);
+  font-size: 0.88rem;
+  line-height: 1.5;
+  margin-bottom: 16px;
+  flex: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-footer {
+  border-top: 1px solid #F1F5F9;
+  padding-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+.read-more {
+  color: var(--mag-accent);
+  font-weight: 600;
+  font-size: 0.85rem;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.card:hover .read-more {
+  gap: 7px;
+}
