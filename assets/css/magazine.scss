@@ -80,26 +80,12 @@
   border-color: #60A5FA;
   box-shadow: 0 0 0 3px rgba(96,165,250,0.3);
 }
-.magazine-hero .search-wrapper .search-icon {
+.magazine-hero .search-wrapper svg {
   position: absolute;
   left: 16px;
   top: 50%;
-  width: 20px;
-  height: 20px;
   transform: translateY(-50%);
-  fill: none;
-  stroke: #E2E8F0;
-  stroke-width: 2;
-  stroke-linecap: round;
-  stroke-linejoin: round;
-  pointer-events: none;
-}
-.magazine-hero .search-hint {
-  margin: 8px 12px 0;
-  color: #CBD5E1;
-  font-size: 0.82rem;
-  line-height: 1.4;
-  text-align: center;
+  fill: #94A3B8;
 }
 
 /* Filter Controls */
@@ -116,40 +102,13 @@
   flex-wrap: wrap;
   gap: 12px;
 }
-.filter-pills-shell {
-  display: flex;
-  align-items: center;
-  flex: 1 1 620px;
-  min-width: 0;
-  gap: 6px;
-}
 .filter-pills {
   display: flex;
-  flex: 1 1 auto;
-  min-width: 0;
   gap: 8px;
   overflow-x: auto;
-  overflow-y: hidden;
-  padding: 4px 2px 8px;
-  -webkit-overflow-scrolling: touch;
-  overscroll-behavior-x: contain;
-  scroll-behavior: smooth;
-  scrollbar-width: thin;
-  scrollbar-color: #64748B #E2E8F0;
-}
-.filter-pills::-webkit-scrollbar {
-  height: 5px;
-}
-.filter-pills::-webkit-scrollbar-track {
-  background: #E2E8F0;
-  border-radius: 999px;
-}
-.filter-pills::-webkit-scrollbar-thumb {
-  background: #64748B;
-  border-radius: 999px;
+  padding-bottom: 4px;
 }
 .filter-pill {
-  flex: 0 0 auto;
   padding: 7px 16px;
   border-radius: 20px;
   border: 1px solid var(--mag-border);
@@ -171,37 +130,6 @@
   color: white;
   border-color: var(--mag-primary);
   box-shadow: 0 2px 4px rgba(24,43,73,0.15);
-}
-.filter-scroll-control {
-  display: grid;
-  place-items: center;
-  flex: 0 0 44px;
-  width: 44px;
-  height: 44px;
-  padding: 0;
-  border: 1px solid #CBD5E1;
-  border-radius: 50%;
-  background: var(--mag-surface);
-  color: var(--mag-primary);
-  box-shadow: var(--mag-shadow-sm);
-  font-size: 1.45rem;
-  font-weight: 700;
-  line-height: 1;
-  cursor: pointer;
-  -webkit-tap-highlight-color: transparent;
-}
-.filter-scroll-control[hidden] {
-  display: none;
-}
-.filter-scroll-control:disabled {
-  color: #94A3B8;
-  opacity: 0.55;
-  cursor: default;
-}
-.filter-scroll-control:focus-visible,
-.filter-pills:focus-visible {
-  outline: 3px solid rgba(37,99,235,0.45);
-  outline-offset: 2px;
 }
 .month-select {
   padding: 7px 12px;
@@ -348,18 +276,4 @@
 }
 .card:hover .read-more {
   gap: 7px;
-}
-
-/* Mobile: keep the category rail and its scroll cues usable on narrow screens. */
-@media (max-width: 700px) {
-  .filter-header {
-    align-items: stretch;
-  }
-  .filter-pills-shell {
-    flex: 0 0 auto;
-    width: 100%;
-  }
-  .month-select {
-    width: 100%;
-  }
 }

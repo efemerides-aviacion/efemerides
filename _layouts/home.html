@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<link rel="stylesheet" href="{{ &#39;/assets/css/magazine.css&#39; | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/magazine.css' | relative_url }}">
 
 <style>
   /* Expansión del contenedor principal de Jekyll para vista magazine */
@@ -19,30 +19,22 @@ layout: default
       <p>Archivo histórico ilustrado de la aeronáutica universal y venezolana. Más de 640 hitos, biografías y despegues legendarios.</p>
       
       <div class="search-wrapper">
-        <svg class="search-icon" width="20" height="20" viewbox="0 0 24 24" aria-hidden="true" focusable="false">
-          <circle cx="10.8" cy="10.8" r="6.7"></circle>
-          <path d="m15.7 15.7 4.1 4.1"></path>
-        </svg>
-        <input type="text" id="searchInput" aria-label="Buscar efemérides por avión, personaje, país, evento o fecha" aria-describedby="searchHint" aria-controls="cardsGrid" placeholder="Buscar por avión, personaje, país, evento o fecha" autocomplete="off">
+        <svg width="20" height="20" viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+        <input type="text" id="searchInput" placeholder="Buscar por avión, personaje, país o evento (ej. Maiquetía, Earhart, F-86, Braniff...)" autocomplete="off">
       </div>
-      <p class="search-hint" id="searchHint">También puedes buscar por la fecha que aparece en el título, por ejemplo: «20 de octubre de 1961».</p>
     </div>
   </section>
 
   <!-- Filter Controls -->
   <div class="filter-section" id="archivo">
     <div class="filter-header">
-      <div class="filter-pills-shell" id="filterPillsShell">
-        <button class="filter-scroll-control" id="filterScrollLeft" type="button" aria-label="Desplazar filtros hacia la izquierda" aria-controls="categoryPills" hidden=""><span aria-hidden="true">‹</span></button>
-        <div class="filter-pills" id="categoryPills" role="group" aria-label="Filtros por categoría; desliza horizontalmente para ver más opciones" tabindex="0">
-          <button class="filter-pill active" data-cat="all">Todas las efemérides</button>
-          <button class="filter-pill" data-cat="evento">Eventos Históricos</button>
-          <button class="filter-pill" data-cat="nacimiento">Pioneros / Nacimientos</button>
-          <button class="filter-pill" data-cat="fundacion">Fundaciones</button>
-          <button class="filter-pill" data-cat="espacial">Era Espacial</button>
-          <button class="filter-pill" data-cat="accidente">Seguridad Aérea</button>
-        </div>
-        <button class="filter-scroll-control" id="filterScrollRight" type="button" aria-label="Desplazar filtros hacia la derecha" aria-controls="categoryPills" hidden=""><span aria-hidden="true">›</span></button>
+      <div class="filter-pills" id="categoryPills">
+        <button class="filter-pill active" data-cat="all">Todas las efemérides</button>
+        <button class="filter-pill" data-cat="evento">Eventos Históricos</button>
+        <button class="filter-pill" data-cat="nacimiento">Pioneros / Nacimientos</button>
+        <button class="filter-pill" data-cat="fundacion">Fundaciones</button>
+        <button class="filter-pill" data-cat="espacial">Era Espacial</button>
+        <button class="filter-pill" data-cat="accidente">Seguridad Aérea</button>
       </div>
 
       <select class="month-select" id="monthSelect">
@@ -75,7 +67,7 @@ layout: default
       <a href="{{ post.url | relative_url }}" class="card" data-category="{{ cat }}" data-month="{{ m_num }}">
         <div class="card-media">
           {% if post.image %}
-            <img src="{{ site.baseurl }}/assets/img/{{ post.image }}" alt="{{ post.title }}" loading="lazy" onerror="this.onerror=null; this.src=&#39;data:image/svg+xml;utf8,&lt;svg xmlns=\&#39;http://www.w3.org/2000/svg\&#39; width=\&#39;100\&#39; height=\&#39;100\&#39; fill=\&#39;%23475569\&#39;&gt;&lt;text x=\&#39;50%\&#39; y=\&#39;50%\&#39; text-anchor=\&#39;middle\&#39; fill=\&#39;white\&#39;&gt;✈&lt;/text&gt;&lt;/svg&gt;&#39;;">
+            <img src="{{ site.baseurl }}/assets/img/{{ post.image }}" alt="{{ post.title }}" loading="lazy" onerror="this.onerror=null; this.src='data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'100\' height=\'100\' fill=\'%23475569\'><text x=\'50%\' y=\'50%\' text-anchor=\'middle\' fill=\'white\'>✈</text></svg>';">
           {% else %}
             <div class="card-media-placeholder">✈</div>
           {% endif %}
@@ -99,55 +91,36 @@ layout: default
 </div>
 
 <!-- Inline Filtering Script (Zero external dependencies) -->
-<script type='text/javascript' nonce='/prCmVXcBla+CYeneyUrLA==' src='https://arena.ai/KHjtAEgvvs9zkHXx8cobke0lxlPOkLHLuPk8afcqxNX9i-KN2mrRGfTXU1CkXNk_TjwAmaIJWBkoRgdC-Ib-hVX6UAGrQ29Uqk0w0DSrZ8fu4DIlYVNkkXV4tDuQNge9U4jkcAgr16uhYkBJlJp4Kv8Bykdb_EeVP_T8r61XUXOPCxm8ioFUcKcsFodhechs43qANnWVK5NBweCWa9EK5qtiY2PzrVgkuz1MRXhHVANUTVP5cwWhqU6iZsBcGh4gAoJ_XGbi11JG0Q3wDr1pcI4wiMJu1-jvWMF5hcU35e8pw59y2n1UbBDcVbFMbg1XedF0dQNJMDlEqCX0zKDDRK0BjCp7QNfqjvuW9aQEkTv7fNWPamrXoskoc19aUfHfjwz4VhhNkjueb3IeoCXGcRWiOLr0K0jEsUdpV6Gdde8ySz9yTlqLrExlR8gcVJK7kIFsckQAEiS3NiDfai0Qn9J_ik1WFn84VEY1UcCpJFcClA2pSZDGAVP6wKfOjF8PZ-b2JUqHcaKwutRUUPma-g'></script><script>
+<script>
   (function() {
     const searchInput = document.getElementById('searchInput');
     const pills = document.querySelectorAll('.filter-pill');
     const monthSelect = document.getElementById('monthSelect');
     const cards = document.querySelectorAll('.cards-grid .card');
     const visibleCount = document.getElementById('visibleCount');
-    const categoryPills = document.getElementById('categoryPills');
-    const filterPillsShell = document.getElementById('filterPillsShell');
-    const leftScrollButton = document.getElementById('filterScrollLeft');
-    const rightScrollButton = document.getElementById('filterScrollRight');
 
     let currentCat = 'all';
     let currentMonth = 'all';
     let currentQuery = '';
 
-    function normalizeSearchText(value) {
-      return (value || '')
-        .toLocaleLowerCase('es')
-        .normalize('NFD')
-        .replace(/[\u0300-\u036f]/g, '')
-        .replace(/[^a-z0-9]+/g, ' ')
-        .trim()
-        .replace(/\s+/g, ' ');
-    }
-
-    const indexedCards = Array.from(cards, card => ({
-      element: card,
-      category: card.getAttribute('data-category'),
-      month: card.getAttribute('data-month'),
-      searchText: normalizeSearchText(card.textContent)
-    }));
-
     function filterCards() {
       let count = 0;
-      const query = normalizeSearchText(currentQuery);
-      const queryTerms = query ? query.split(' ') : [];
+      const q = currentQuery.toLowerCase().trim();
 
-      indexedCards.forEach(item => {
-        const matchCat = (currentCat === 'all' || item.category === currentCat);
-        const matchMonth = (currentMonth === 'all' || item.month === currentMonth);
-        const matchQuery = (!query || item.searchText.includes(query) ||
-          (queryTerms.length > 1 && queryTerms.every(term => item.searchText.includes(term))));
+      cards.forEach(card => {
+        const cat = card.getAttribute('data-category');
+        const m = card.getAttribute('data-month');
+        const text = card.textContent.toLowerCase();
+
+        const matchCat = (currentCat === 'all' || cat === currentCat);
+        const matchMonth = (currentMonth === 'all' || m === currentMonth);
+        const matchQuery = (!q || text.includes(q));
 
         if (matchCat && matchMonth && matchQuery) {
-          item.element.style.display = 'flex';
+          card.style.display = 'flex';
           count++;
         } else {
-          item.element.style.display = 'none';
+          card.style.display = 'none';
         }
       });
 
@@ -175,40 +148,6 @@ layout: default
         currentMonth = e.target.value;
         filterCards();
       });
-    }
-
-    function updateFilterScrollControls() {
-      if (!categoryPills || !filterPillsShell || !leftScrollButton || !rightScrollButton) return;
-
-      const hasOverflow = categoryPills.scrollWidth > categoryPills.clientWidth + 2;
-      leftScrollButton.hidden = !hasOverflow;
-      rightScrollButton.hidden = !hasOverflow;
-      filterPillsShell.classList.toggle('has-overflow', hasOverflow);
-
-      if (!hasOverflow) {
-        leftScrollButton.disabled = true;
-        rightScrollButton.disabled = true;
-        return;
-      }
-
-      const maxScroll = Math.max(0, categoryPills.scrollWidth - categoryPills.clientWidth);
-      leftScrollButton.disabled = categoryPills.scrollLeft <= 2;
-      rightScrollButton.disabled = categoryPills.scrollLeft >= maxScroll - 2;
-    }
-
-    function scrollCategoryPills(direction) {
-      if (!categoryPills) return;
-      const distance = Math.max(140, categoryPills.clientWidth * 0.72);
-      categoryPills.scrollBy({ left: direction * distance, behavior: 'smooth' });
-    }
-
-    if (categoryPills && leftScrollButton && rightScrollButton) {
-      leftScrollButton.addEventListener('click', () => scrollCategoryPills(-1));
-      rightScrollButton.addEventListener('click', () => scrollCategoryPills(1));
-      categoryPills.addEventListener('scroll', updateFilterScrollControls, { passive: true });
-      window.addEventListener('resize', updateFilterScrollControls, { passive: true });
-      window.addEventListener('load', updateFilterScrollControls, { once: true });
-      requestAnimationFrame(updateFilterScrollControls);
     }
   })();
 </script>
