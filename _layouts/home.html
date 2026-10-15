@@ -76,7 +76,7 @@ layout: default
         {% assign cat_label = "Espacial / Accidente" %}
       {% else %}
         {% assign cat_key = cats | first | default: "evento" %}
-        {% assign cat_label = cat_key | capitalize %}
+                {% assign cat_label = cat_key | capitalize | replace: "Fundacion", "Fundación" | replace: "Conmemoracion", "Conmemoración" %}
       {% endif %}
 
       {% assign m_num = post.date | date: "%m" %}
