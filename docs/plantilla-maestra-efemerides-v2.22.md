@@ -1,10 +1,12 @@
 # Documento Maestro de Plantillas de Efemérides de Aviación
-> Última actualización: 2026-10-02  
-> Versión: v2.21
+> Última actualización: 2026-10-19  
+> Versión: v2.22
 
 ---
 
 ## Nota sobre esta versión
+
+**Novedad de la v2.22.** Orden del editor del 19-10-2026: **el tamaño de casa pasa a ser único, 1.200 × 675, para todas las categorías**, incluida `nacimiento`, y queda derogado el retrato 800 × 1.000 que la v2.14 reservaba a los nacimientos. La regla maestra 12 se reescribe en su apartado de imágenes; permanecen sin cambios el remuestreo de calidad (Lanczos + unsharp) al ampliar, la reducción cuando la toma es mayor, el WebP (quality 90-92, method 6), la identidad del nombre de archivo y la prohibición de mencionar la resolución en el post. Aplicación hacia delante: no reabre cierres comunicados. En paralelo se actualizan `tools/efemerides-linter.sh`, `docs/instrucciones-formato-efemerides-v2.21.md`, `docs/instrucciones-procesar-efemerides-v2.16.md`, `docs/manual-estilo-efemerides-v1.19.md`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Registro de la versión anterior debajo.
 
 **Novedad de la v2.21.** Corrección de coherencia ordenada por el editor el 02-10-2026: la sección «Política de commits» deja de prohibir toda mención de la imagen y remite a las Instrucciones de Formato vigentes para la composición del Summary, la Description y la tabla file-a-file. Se conserva la prohibición de relatar cambios internos del flujo. La corrección alinea esta Plantilla con Formato v2.20 y con Procesar v2.15; no modifica la estructura del post, las reglas de contenido ni las auditorías del linter. En paralelo se actualizan la cabecera de `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Manual de Estilo v1.18: sin novedad. Registro de la versión anterior debajo.
 
@@ -424,12 +426,11 @@ copiando la URL del navegador.
 
 ### 12) Imágenes al tamaño de casa
 
-Las imágenes se entregan al **tamaño de casa**:
+Las imágenes se entregan al **tamaño de casa**, único desde la v2.22:
 
 | Uso | Dimensiones |
 | :--- | :--- |
-| `nacimiento` | **800 × 1.000** |
-| Resto de categorías | **1.200 × 675** |
+| **Todas las categorías**, incluida `nacimiento` | **1.200 × 675** |
 
 **Nombre de archivo.** El de la imagen es el del post, sin `.md`: `AAAA-MM-DD-slug.webp` (o `.jpg` si el editor entrega ese formato). El campo YAML `image:` y el `src` del `<figure>` usan ese mismo nombre.
 
@@ -438,6 +439,8 @@ Si la toma es menor, **se amplía** hasta esas cotas con remuestreo de calidad (
 **No se menciona la resolución en el post:** es nota de trabajo y pertenece al chat (regla maestra 8). La advertencia de imagen representativa, cuando proceda, sigue rigiéndose por la sección «Pie de foto: reglas obligatorias».
 
 Queda derogada la fórmula de la v2.9–v2.13 «las imágenes no se amplían / resolución nativa». El 678 que figuraba como alto del encabezado era errata; el alto canónico es **675**.
+
+**También queda derogado el 800 × 1.000 reservado a `nacimiento`** (v2.14). Desde el 19-10-2026 no existe un tamaño de retrato: un solo estándar de 1.200 × 675 rige las nueve categorías. Cuando la fotografía disponible sea un retrato estrecho, el recorte a 16:9 y su ampliación corresponden al editor, y el investigador entrega el archivo original con su enlace de origen y sus cotas por chat; si el recorte degrade visiblemente el retrato, se comunica antes de publicar.
 
 ### 13) Separadores entre bloques
 
@@ -1939,6 +1942,7 @@ de agosto, levantando parcialmente la moratoria del 21-08.
 | v2.18 | 2026-09-03 | Regla maestra 5 reescrita: lista enunciativa de grados, plural de grado ante lista de nombres y regulación de tratamientos honoríficos (D2-a), con anexo comparativo normativo en `docs/`. |
 | v2.19 | 2026-09-23 | Regla maestra 5 con la excepción institucional D1-b; regla maestra 2 con la reserva de enlaces externos a `## Referencias Verificadas` y `<figcaption>`. |
 | v2.20 | 2026-09-29 | Regla maestra 16: asignación única por sección y banda de extensión para lectura móvil (1.150–1.500 palabras narrativas; tope 1.550), no retroactiva. Regla maestra 17: Metadatos de Control telegráficos (65–120 palabras, tope 150). |
+| v2.22 | 2026-10-19 | Regla maestra 12: **tamaño de casa único 1.200 × 675 para todas las categorías**, incluida `nacimiento`; derogado el retrato 800 × 1.000 de la v2.14. Sin cambios en remuestreo, WebP, nombre de archivo ni prohibición de mencionar la resolución. Aplicación hacia delante: no reabre los cierres comunicados; las 103 imágenes de `nacimiento` previas a 800 × 1.000 quedan congeladas y su migración, en todo caso, es una tanda aparte. |
 | v2.21 | 2026-10-02 | Política de commits alineada con Formato v2.20: la Description puede y debe mencionar la imagen conforme al patrón vigente; rutas, bytes, SHAs y blobs permanecen en la tabla file-a-file del chat. Se mantiene la prohibición de relatar cambios internos del flujo. |
 
 ---
@@ -1970,3 +1974,24 @@ La incorporación debe seguir siendo formal y limpia: no relata sustituciones de
 ### Alineación
 
 Instrucciones de Procesar v2.15, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Instrucciones de Formato v2.20 y Manual de Estilo v1.18: sin novedad.
+
+---
+
+## Corrección de tamaño de casa v2.22 — 2026-10-19
+
+### Regla maestra 12: un único tamaño de casa
+
+Orden del editor del 19-10-2026: **1.200 × 675 para todas las categorías, incluida `nacimiento`**. Queda derogado el 800 × 1.000 que la v2.14 reservaba al retrato de nacimiento. Las condiciones de remuestreo (Lanczos + unsharp al ampliar; reducción al estándar cuando la toma es mayor), el formato WebP (quality 90-92, method 6), la identidad entre el nombre de la imagen y el del post y la prohibición de consignar la resolución en el post permanecen sin cambios.
+
+### Reparto del trabajo con la imagen
+
+El investigador entrega la imagen ya al tamaño de casa cuando la toma lo permite sin degradación visible. Cuando el original es un retrato estrecho o no alcanza las cotas, entrega el archivo a su resolución nativa, indica por chat sus dimensiones y el enlace directo a la fuente, y el editor decide el recorte. Ninguna entrega justifica ampliar un retrato hasta 1.200 × 675 si el resultado pierde detalle en el rostro.
+
+### Alcance
+
+La norma rige para las entregas posteriores al 19-10-2026 y no reabre los cierres comunicados: las 103 imágenes de `nacimiento` publicadas a 800 × 1.000 quedan tal cual. Su migración eventual a 1.200 × 675 es una tanda aparte, con recorte manual archivo por archivo, y solo el editor la ordena.
+
+### Alineación
+
+`tools/efemerides-linter.sh` (auditoría de imagen), `docs/instrucciones-formato-efemerides-v2.21.md`, `docs/instrucciones-procesar-efemerides-v2.16.md`, `docs/manual-estilo-efemerides-v1.19.md`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`.
+

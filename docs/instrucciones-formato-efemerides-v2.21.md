@@ -1,10 +1,12 @@
 # Instrucciones de formato de salida para efemérides
-> Última actualización: 2026-10-02  
-> Versión: v2.20
+> Última actualización: 2026-10-19  
+> Versión: v2.21
 
 ---
 
 ## NOTA SOBRE ESTA VERSIÓN
+
+**Novedad de la v2.21.** Orden del editor del 19-10-2026: el apartado «Tamaño de casa; se permite ampliar» deja de bifurcar por categoría —**1.200 × 675 para todas, incluida `nacimiento`**— y queda derogado el 800 × 1.000 del retrato. Se añade la regla de reparto del trabajo con la imagen: el investigador entrega la imagen al tamaño de casa cuando la toma lo permite; cuando el original es un retrato estrecho, entrega el archivo nativo con sus cotas y su enlace de origen por chat y el editor decide el recorte. En paralelo: Plantilla Maestra v2.22, Instrucciones de Procesar v2.16, Manual de Estilo v1.19, `tools/efemerides-linter.sh` y `docs/guia-del-linter.md`.
 
 **Novedad de la v2.20.** Corrección de coherencia ordenada por el editor el 02-10-2026: una viñeta histórica de la actualización v2.1 que prohibía mencionar imágenes en el commit inicial queda marcada expresamente como superada. La regla vigente permanece en «Mensajes de commit para GitHub Desktop»: en las altas, la primera viñeta de la Description describe post, imagen, linter y ecos; la segunda, referencias, discrepancias y enlaces cruzados. Las rutas, bytes, SHA y blobs se entregan en la tabla file-a-file del chat y no dentro del mensaje; no se genera TXT. En paralelo: Plantilla Maestra v2.21, Instrucciones de Procesar v2.15, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Manual de Estilo v1.18: sin novedad.
 
@@ -185,9 +187,7 @@ Si la imagen señalada por el usuario no puede descargarse por 403, anti-bot, Cl
 Entregar **solo** el bloque `<figure>...</figure>` corregido, sin regenerar el resto del post, salvo que pida algo más.
 
 ### 4) Tamaño de casa; se permite ampliar
-Las imágenes se entregan a **800 × 1.000** en `nacimiento` y a **1.200 × 675**
-en el resto. Si la toma es menor, se amplía con remuestreo de calidad (Lanczos) y unsharp
-ligero. Si es mayor, se reduce. WebP (quality 90-92, method 6). El **nombre de archivo de la imagen es el del post** (sin `.md`). La resolución
+Las imágenes se entregan a **1.200 × 675** en **todas las categorías**, incluida `nacimiento`: **1.200 × 675** (derogado el 800 × 1.000 de `nacimiento`; Plantilla v2.22, regla maestra 12, orden del 19-10-2026). Si la toma es menor, se amplía con remuestreo de calidad (Lanczos) y unsharp ligero. Si el recorte a 16:9 de un retrato estrecho degrada el rostro, no se fuerza: se entrega el original con sus cotas y su enlace de origen por chat, y el recorte lo aplica el editor. Si es mayor, se reduce. WebP (quality 90-92, method 6). El **nombre de archivo de la imagen es el del post** (sin `.md`). La resolución
 **no se menciona en el post**: es nota de trabajo y se comunica al editor por chat.
 Queda derogada la fórmula «no se amplían / resolución nativa». El 678 era errata.
 
@@ -701,3 +701,16 @@ La prohibición absoluta de mencionar imágenes, conservada en el registro hist�
 ### Alineación
 
 Plantilla Maestra v2.21, Instrucciones de Procesar v2.15, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Manual de Estilo v1.18: sin novedad.
+
+---
+
+## ACTUALIZACIONES DE FORMATO V2.21 — 2026-10-19
+
+- Tamaño de casa **único**: 1.200 × 675 para todas las categorías, incluida `nacimiento`. Derogado el 800 × 1.000 del retrato de nacimiento.
+- Nuevo reparto del trabajo con la imagen: el investigador entrega al tamaño de casa si la toma lo permite; si el original es un retrato estrecho o no llega a las cotas, entrega el archivo nativo, comunica por chat sus dimensiones y el enlace directo a la fuente, y el recorte lo decide el editor.
+- Comprobación del checklist y de la auditoría de imagen alineadas con la Plantilla Maestra v2.22, regla maestra 12. Aplicación hacia delante: no reabre cierres comunicados.
+
+### Alineación
+
+Plantilla Maestra v2.22, Instrucciones de Procesar v2.16, Manual de Estilo v1.19, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`.
+

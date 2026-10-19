@@ -1,5 +1,5 @@
 # Guía del validador estructural de efemérides
-> Última actualización: 2026-10-06 (a partir de hoy el validador audita además las bandas por sección; se documenta esa auditoría y se corrige el localizador del bloque `Resumen Ejecutivo`). Actualización anterior: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
+> Última actualización: 2026-10-19 (la auditoría de imagen deja de bifurcar por categoría: el tamaño de casa es **1.200 × 675 para todas**, incluida `nacimiento`, conforme a la Plantilla Maestra v2.22 y su regla maestra 12; el código y el número de comprobaciones no cambian). Actualización anterior: 2026-10-06 (a partir de hoy el validador audita además las bandas por sección; se documenta esa auditoría y se corrige el localizador del bloque `Resumen Ejecutivo`). Actualización anterior: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
 
 ## Finalidad
 
@@ -32,6 +32,8 @@ tools/efemerides-linter.sh /ruta/al/post.md --solo-rangos
 - Código `2`: invocación incorrecta o archivo inexistente.
 
 Los avisos no equivalen por sí solos a una aprobación editorial. La imagen debe localizarse para que sus dimensiones sean comprobadas efectivamente.
+
+Desde el 2026-10-19 la comprobación de la imagen aplica un único tamaño de casa, **1200x675**, a todas las categorías: el mensaje de aprobación reza `Imagen <dims> — tamaño de casa para [<categoría>] (1200x675)` y el de rechazo `Imagen <dims> — el tamaño de casa es 1200x675 para todas las categorías, incluida nacimiento (regla maestra 12)`. Antes de esta fecha la auditoría exigía 800x1000 a `nacimiento`; el cambio **no es retroactivo** y no reabre los cierres comunicados, de modo que las 103 imágenes de nacimiento publicadas a 800x1000 siguen aprobadas tal como quedaron registradas y solo fallarían si se re-auditaran. Su migración, si el editor la ordena, es una tanda aparte con recorte manual.
 
 Desde el 2026-09-17 el validador emite además un `[AVISO]` léxico cuando el cuerpo del post contiene cualquier forma del verbo «adolecer» (adolece, adolecía, adolecer, adolezca…; Manual de Estilo v1.16, § 4.2): el verbo es correcto aplicado a personas, por lo que el aviso exige lectura humana y no computa como fallo.
 

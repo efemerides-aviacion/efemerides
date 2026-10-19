@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # ============================================================================
 # efemerides-linter.sh — Validador estructural de posts de efemérides
-# Normas auditadas: Plantilla Maestra v2.21 · Manual de Estilo v1.18 ·
-# Instrucciones de Procesar v2.15 · Instrucciones de Formato v2.20 ·
+# Normas auditadas: Plantilla Maestra v2.22 · Manual de Estilo v1.19 ·
+# Instrucciones de Procesar v2.16 · Instrucciones de Formato v2.21 ·
 # anexo y registro de excepciones de rangos/tratamientos.
 # Reconstruido el 2026-09-03; alineado y preparado para versionado el 2026-09-05;
 # alineado con Manual v1.16 (aviso léxico «adolecer», todas sus formas, § 4.2) el 2026-09-17;
@@ -23,6 +23,10 @@
 # (nueva auditoría [AVISO] 11: extensión de cada sección según las bandas de Formato v2.20 —Resumen 100–130,
 #  Datos 140–190, Contexto 380–480, Desarrollo 300–400 con 5–7 hitos, Consecuencias 150–210, Legado 110–160—;
 #  no retroactiva, no computa como fallo y admite exenciones en efemerides-rangos-excepciones.txt).
+# alineado con Plantilla Maestra v2.22 · Instrucciones de Formato v2.21 · Instrucciones de Procesar v2.16 ·
+# Manual de Estilo v1.19 el 2026-10-19
+# (regla maestra 12: tamaño de casa único 1200x675 para todas las categorías, incluida nacimiento — cae la
+#  bifurcación 800x1000 para nacimiento; cambio no retroactivo, no reabre los cierres comunicados).
 #
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
@@ -446,9 +450,9 @@ for d in "$IMGDIR" "/home/user/en-proceso/img" "$(dirname "$FILE")/../img" "/hom
 done
 if [ -n "$IMG_FILE" ] && command -v identify >/dev/null 2>&1; then
   DIMS=$(identify -format "%wx%h" "$IMG_FILE")
-  if [ "$CATS" = "nacimiento" ]; then WANT="800x1000"; else WANT="1200x675"; fi
+  WANT="1200x675"   # tamaño de casa único para todas las categorías — Plantilla v2.22, regla maestra 12 (19-10-2026)
   [ "$DIMS" = "$WANT" ] && ok "Imagen $DIMS — tamaño de casa para [$CATS] ($WANT)" \
-    || fail "Imagen $DIMS — [$CATS] exige $WANT (regla maestra 12)"
+    || fail "Imagen $DIMS — el tamaño de casa es $WANT para todas las categorías, incluida nacimiento (regla maestra 12)"
 else
   printf '[AVISO]   Imagen no localizada en el entorno (auditar dims. manualmente: %s)\n' "${IMG_LINE}"
 fi

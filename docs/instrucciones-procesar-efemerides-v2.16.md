@@ -1,10 +1,12 @@
 # Documento de Instrucciones Editoriales para Procesar Efemérides de Aviación
-> Última actualización: 2026-10-02  
-> Versión: v2.15
+> Última actualización: 2026-10-19  
+> Versión: v2.16
 
 ---
 
 ## NOTA SOBRE ESTA VERSIÓN
+
+**Novedad de la v2.16.** Orden del editor del 19-10-2026: el apartado «Tamaño de casa» y la comprobación del checklist final dejan de distinguir `nacimiento`: **1.200 × 675 para todas las categorías**. Se incorpora al flujo la regla de reparto: si la toma no admite el recorte sin degradación, el investigador entrega el archivo original a su tamaño nativo con sus cotas y el enlace directo de la fuente por chat, y el editor aplica el recorte. En paralelo: Plantilla Maestra v2.22, Instrucciones de Formato v2.21, Manual de Estilo v1.19, `tools/efemerides-linter.sh` y `docs/guia-del-linter.md`.
 
 **Novedad de la v2.15.** Corrección de coherencia ordenada por el editor el 02-10-2026: el flujo de commit deja de remitir a Formato v2.8 y pasa a las Instrucciones de Formato vigentes —Formato v2.20 en esta actualización—. Se elimina la instrucción obsoleta de colocar rutas dentro de la Description y la prohibición absoluta de mencionar imágenes. Para las altas rige la Description de dos viñetas de Formato: post, imagen, linter y ecos; luego referencias, discrepancias y enlaces cruzados. Se mantiene la prohibición de relatar cambios internos del flujo. Plantilla Maestra v2.21; Manual de Estilo v1.18: sin novedad.
 
@@ -151,9 +153,8 @@ post**.
 Nunca atribuir a una imagen representativa una fecha, lugar o identidad que no tenga realmente.
 
 ### 6) Tamaño de casa
-Las imágenes se entregan a **800 × 1.000** en `nacimiento` y a **1.200 × 675**
-en el resto, con ampliación de calidad (Lanczos + unsharp) si la toma es menor (Plantilla v2.16,
-regla maestra 12). WebP quality 90-92, method 6. El nombre de archivo coincide con el del post. La resolución no se menciona en el post.
+Las imágenes se entregan a **1.200 × 675** en **todas las categorías**, incluida `nacimiento`, con ampliación de calidad (Lanczos + unsharp) si la toma es menor (Plantilla v2.22,
+regla maestra 12; derogado el 800 × 1.000 del retrato de nacimiento, orden del 19-10-2026). WebP quality 90-92, method 6. El nombre de archivo coincide con el del post. La resolución no se menciona en el post.
 
 ### 7) Fecha de hechos pluridiarios
 Se conmemora la **culminación** (aterrizaje, llegada, término), no el inicio. Excepción: Apolo 11 (20 de julio).
@@ -381,7 +382,7 @@ asume como estado vigente. Práctica registrada los días 27 y 28 de agosto de
 ## CHECKLIST FINAL
 - [ ] El hecho principal está verificado.
 - [ ] La imagen es correcta o se explicó al editor, por chat, por qué no pudo usarse la solicitada.
-- [ ] La imagen está al tamaño de casa (800 × 1.000 en nacimiento; 1.200 × 675 en el resto) y su nombre coincide con el del post.
+- [ ] La imagen está al tamaño de casa —1.200 × 675, único para todas las categorías, incluida `nacimiento`— y su nombre coincide con el del post; si se entregó a su tamaño nativo por no admitir el recorte, así se comunicó al editor por chat con las cotas y el enlace de origen.
 - [ ] El post está limpio: no menciona el borrador preliminar, sus errores, enlaces caídos ni el entorno técnico.
 - [ ] Se verificó la coherencia entre fecha, título, nombre de archivo y YAML **sin dejar constancia de ello en el post**.
 - [ ] «Discrepancias resueltas» contiene divergencias reales entre fuentes, no trámites del procedimiento.
@@ -420,6 +421,7 @@ asume como estado vigente. Práctica registrada los días 27 y 28 de agosto de
 | v2.12 | 2026-08-20 | Nombre de imagen = post; conteo de refs; hechos pluridiarios en la culminación. |
 | v2.13 | 2026-08-21 | Alineación con la Plantilla Maestra v2.16 y el Manual de Estilo v1.13 (renumeración de § 8: la verificación de contenido pasa de § 8.4 a § 8.6). Sin cambios de fondo. |
 | v2.14 | 2026-08-28 | Entrega de altas individuales sin ZIP y comprobación del estado publicado por cotejo de contenido, encuadre y cotas. |
+| v2.16 | 2026-10-19 | Tamaño de casa único 1.200 × 675 para todas las categorías en el apartado «Tamaño de casa» y en el checklist final; derogada la distinción por categoría. Se incorpora el reparto del recorte con el editor cuando el original no lo admite sin degradación. Alineado con Plantilla Maestra v2.22, regla maestra 12. |
 | v2.15 | 2026-10-02 | Flujo de commit alineado con Formato v2.20 y Plantilla v2.21: dos bloques en chat, tabla file-a-file fuera del mensaje, sin TXT y sin prohibición de mencionar la imagen; se mantiene la exclusión de cambios internos del flujo. |
 
 
@@ -702,3 +704,16 @@ La sección «Flujo de commit» deja de remitir a Formato v2.8 y adopta la regla
 ### Alineación
 
 Plantilla Maestra v2.21, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Instrucciones de Formato v2.20 y Manual de Estilo v1.18: sin novedad.
+
+---
+
+## ACTUALIZACIONES DE PROCESAMIENTO V2.16 — 2026-10-19
+
+- «Tamaño de casa»: 1.200 × 675 para todas las categorías, incluida `nacimiento`; derogado el 800 × 1.000 del retrato.
+- Checklist final: la comprobación de la imagen exige el tamaño único o, en su defecto, constancia por chat de la entrega a tamaño nativo con cotas y enlace de origen para el recorte del editor.
+- Alineado con la Plantilla Maestra v2.22, regla maestra 12, y con Instrucciones de Formato v2.21.
+
+### Alineación
+
+Plantilla Maestra v2.22, Instrucciones de Formato v2.21, Manual de Estilo v1.19, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`.
+

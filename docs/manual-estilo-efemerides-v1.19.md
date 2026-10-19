@@ -1,6 +1,6 @@
 # Manual de Estilo de Efemérides
-> Edición consolidada: 2026-09-29  
-> Versión: v1.18
+> Edición consolidada: 2026-10-19  
+> Versión: v1.19
 
 ---
 
@@ -300,8 +300,10 @@ El pie debe indicar si la imagen es:
 Responder únicamente con el `<figure>` exacto.
 
 ### 7.6 Tamaño de casa; se permite ampliar
-Las imágenes se entregan a **800 × 1.000** en `nacimiento` y a **1.200 × 675**
-en el resto. Se permite ampliar con remuestreo de calidad (Lanczos) y unsharp ligero. WebP
+Las imágenes se entregan a **1.200 × 675** en **todas las categorías**, incluida `nacimiento`: **1.200 × 675** (derogado el 800 × 1.000
+de `nacimiento`; orden del editor del 19-10-2026, Plantilla v2.22, regla maestra 12). Cuando el original
+es un retrato estrecho que no admite el recorte a 16:9 sin degradar el rostro, se entrega a su tamaño
+nativo y el recorte lo decide el editor, con las cotas y el enlace de origen comunicados por chat. Se permite ampliar con remuestreo de calidad (Lanczos) y unsharp ligero. WebP
 (quality 90-92, method 6) a esas cotas. El nombre de archivo de la imagen es el del post. **No se menciona la resolución en el post**: es nota de trabajo y
 pertenece al chat (§ 9.1). Queda derogado «no se amplían / resolución nativa». El 678 era errata.
 
@@ -780,3 +782,13 @@ Alineadas en la misma fecha: Plantilla Maestra v2.19 e Instrucciones de Formato 
 - **§ 13 y § 14:** dos viñetas de errores y dos comprobaciones nuevas, remitiendo a § 5 y § 10.
 
 Alineadas en la misma fecha: Plantilla Maestra v2.20, Instrucciones de Formato v2.18, `tools/efemerides-linter.sh` y `docs/guia-del-linter.md`; Instrucciones de Procesar v2.14, sin novedad.
+
+---
+
+## 30. Actualizaciones editoriales v1.19 — 2026-10-19
+
+- **§ 7.6 reescrita:** tamaño de casa único **1.200 × 675** para todas las categorías, incluida `nacimiento`; derogado el 800 × 1.000 del retrato que la v1.11 había fijado para esa categoría. Se añade el criterio de entrega a tamaño nativo cuando el recorte a 16:9 degradaría un retrato: el recorte corresponde al editor y las cotas y el enlace de origen se comunican por chat (§ 9.1).
+- Sin cambios en el resto del manual; la prohibición de mencionar la resolución en el post permanece (§ 9.1 y Plantilla, regla maestra 8).
+
+Alineadas en la misma fecha: Plantilla Maestra v2.22, Instrucciones de Formato v2.21, Instrucciones de Procesar v2.16, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`.
+
