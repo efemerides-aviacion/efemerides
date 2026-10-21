@@ -183,6 +183,29 @@ Reglas:
 - el agente no hace commit ni push;
 - el editor publica mediante GitHub Desktop.
 
+**Entrega de rectores.** Convención recuperada el 21-10-2026 a petición del editor: cuando una
+enmienda modifique rectores o herramientas, se entrega una carpeta **`rectores/`** en el espacio
+de trabajo, con dos subcarpetas que reproducen las del repositorio.
+
+```text
+/home/user/rectores/
+  docs/     rectores y guías MODIFICADOS, con su nombre definitivo
+  tools/    herramientas MODIFICADAS
+  _ENTREGA.md   nota: qué se copia, qué se borra y qué queda fuera
+```
+
+Reglas de la entrega:
+
+- **Solo se incluye lo modificado o nuevo.** Lo que ya esté en el HEAD remoto sin cambios no
+  viaja: si no está en la carpeta, no hace falta en el repositorio.
+- Antes de armarla se **coteja cada candidato contra el HEAD remoto por sha256** y se descarta
+  el que resulte idéntico. La duda sobre si un archivo «va o no va» se resuelve comparando,
+  nunca suponiendo.
+- Como **la versión va en el nombre del fichero**, el editor copia cada subcarpeta sobre la de
+  su clon y **borra el de nombre anterior**: el cambio es un renombre.
+- La nota `_ENTREGA.md` vive en la raíz de `rectores/`, fuera de `docs/` y `tools/`, para que
+  no acabe copiada en el repositorio.
+
 El estado debe inventariar cualquier archivo local único y explicar si debe adjuntarse en la próxima apertura.
 
 ### 8. Calendario vivo
