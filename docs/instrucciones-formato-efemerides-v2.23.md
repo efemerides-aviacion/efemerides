@@ -1,10 +1,22 @@
 # Instrucciones de formato de salida para efemérides
 > Última actualización: 2026-10-21  
-> Versión: v2.22
+> Versión: v2.23
 
 ---
 
 ## NOTA SOBRE ESTA VERSIÓN
+
+**Novedad de la v2.23.** Orden del editor del 21-10-2026: **el reparto del trabajo
+con la imagen queda como siempre había sido**. El investigador elige la imagen, acredita
+su fuente y su licencia y **consigna en el `<figcaption>` el enlace al archivo de origen**;
+el editor encuadra y convierte a 1.200 × 675 con Photopea, en todas las altas y no solo
+cuando el original sea un retrato estrecho. Queda sin efecto la redacción de la v2.21, que
+hacía del recorte por el editor la excepción. La imagen publicada tras el empuje es la del
+editor: no se coteja el archivo propio contra el suyo ni se mide su calidad. En paralelo:
+Plantilla Maestra v2.24, Instrucciones de Procesar v2.18, Manual de Estilo v1.21 y
+`docs/protocolo-continuidad-sesiones.md`. Registro de la versión anterior debajo.
+
+### Registro de la v2.22
 
 **Novedad de la v2.22.** Decisión del editor del 21-10-2026, a raíz del alta
 1940-10-26 (primer vuelo del NA-73X): **el post deja de consignar la distancia
@@ -202,7 +214,7 @@ Si la imagen señalada por el usuario no puede descargarse por 403, anti-bot, Cl
 Entregar **solo** el bloque `<figure>...</figure>` corregido, sin regenerar el resto del post, salvo que pida algo más.
 
 ### 4) Tamaño de casa; se permite ampliar
-Las imágenes se entregan a **1.200 × 675** en **todas las categorías**, incluida `nacimiento`: **1.200 × 675** (derogado el 800 × 1.000 de `nacimiento`; Plantilla v2.22, regla maestra 12, orden del 19-10-2026). Si la toma es menor, se amplía con remuestreo de calidad (Lanczos) y unsharp ligero. Si el recorte a 16:9 de un retrato estrecho degrada el rostro, no se fuerza: se entrega el original con sus cotas y su enlace de origen por chat, y el recorte lo aplica el editor. Si es mayor, se reduce. WebP (quality 90-92, method 6). El **nombre de archivo de la imagen es el del post** (sin `.md`). La resolución
+Las imágenes se entregan a **1.200 × 675** en **todas las categorías**, incluida `nacimiento`: **1.200 × 675** (derogado el 800 × 1.000 de `nacimiento`; Plantilla v2.22, regla maestra 12, orden del 19-10-2026). Si la toma es menor, se amplía con remuestreo de calidad (Lanczos) y unsharp ligero; si es mayor, se reduce. **El encuadre y la conversión a WebP (quality 90-92, method 6) los aplica el editor** (v2.23), que se sirve del **enlace al archivo de origen consignado en el `<figcaption>`**; el investigador comunica además por chat las cotas y la orientación del original. Si el recorte a 16:9 de un retrato estrecho degrada el rostro, no se fuerza: se advierte antes de publicar. El **nombre de archivo de la imagen es el del post** (sin `.md`). La resolución
 **no se menciona en el post**: es nota de trabajo y se comunica al editor por chat.
 Queda derogada la fórmula «no se amplían / resolución nativa». El 678 era errata.
 
@@ -726,7 +738,7 @@ Plantilla Maestra v2.21, Instrucciones de Procesar v2.15, `tools/efemerides-lint
 ## ACTUALIZACIONES DE FORMATO V2.21 — 2026-10-19
 
 - Tamaño de casa **único**: 1.200 × 675 para todas las categorías, incluida `nacimiento`. Derogado el 800 × 1.000 del retrato de nacimiento.
-- Nuevo reparto del trabajo con la imagen: el investigador entrega al tamaño de casa si la toma lo permite; si el original es un retrato estrecho o no llega a las cotas, entrega el archivo nativo, comunica por chat sus dimensiones y el enlace directo a la fuente, y el recorte lo decide el editor.
+- Nuevo reparto del trabajo con la imagen: el investigador entrega al tamaño de casa si la toma lo permite; si el original es un retrato estrecho o no llega a las cotas, entrega el archivo nativo, comunica por chat sus dimensiones y el enlace directo a la fuente, y el recorte lo decide el editor. *(Sustituido por la v2.23, que atribuye el encuadre al editor en todas las altas.)*
 - Comprobación del checklist y de la auditoría de imagen alineadas con la Plantilla Maestra v2.22, regla maestra 12. Aplicación hacia delante: no reabre cierres comunicados.
 
 ### Alineación
@@ -745,3 +757,27 @@ Plantilla Maestra v2.22, Instrucciones de Procesar v2.16, Manual de Estilo v1.19
 - Se sustituye en la lista de errores frecuentes el redondeo de la cifra por
   la inclusión indebida del recuento.
 - No retroactivo: los 98 posts publicados con recuento conservan su cifra.
+
+---
+
+## ACTUALIZACIONES DE FORMATO V2.23 — 2026-10-21
+
+### Reparto del trabajo con la imagen
+
+Orden del editor del 21-10-2026: **el investigador elige la imagen; el editor la encuadra y la
+convierte al tamaño de casa.**
+
+- El `<figcaption>` lleva siempre el **enlace al archivo de origen**: es el dato con el que el
+  editor descarga el original para encuadrarlo él mismo.
+- El investigador **no entrega recorte propio** ni persigue que su archivo sea idéntico al del
+  editor; la imagen publicada tras el empuje es la del editor y es la vigente.
+- No se miden nitidez ni calidad de la imagen del editor, ni se preparan alternativas, salvo
+  petición expresa.
+
+Rige para las entregas posteriores al 21-10-2026 y no reabre cierres comunicados.
+
+### Alineación
+
+Plantilla Maestra v2.24, Instrucciones de Procesar v2.18, Manual de Estilo v1.21 y
+`docs/protocolo-continuidad-sesiones.md`. Sin cambios en `tools/efemerides-linter.sh` ni en
+`docs/guia-del-linter.md`: la imagen publicada sigue debiendo medir 1.200 × 675.

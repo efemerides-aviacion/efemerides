@@ -1,10 +1,28 @@
 # Documento Maestro de Plantillas de Efemérides de Aviación
 > Última actualización: 2026-10-21  
-> Versión: v2.23
+> Versión: v2.24
 
 ---
 
 ## Nota sobre esta versión
+
+**Novedad de la v2.24.** Orden del editor del 21-10-2026, a raíz del tiempo perdido
+en las altas 1940-10-26 y 1943-10-26 persiguiendo que la imagen del investigador
+coincidiera con el recorte del editor: **el reparto del trabajo con la imagen queda
+fijado como siempre había sido**. El investigador **elige** la imagen, acredita su fuente
+y su licencia y consigna en el `<figcaption>` el **enlace al archivo de origen**; el editor
+**encuadra y convierte a 1.200 × 675** con Photopea, en todas las altas y no solo en el
+retrato estrecho. Queda sin efecto la redacción de la v2.22, que hacía del recorte por el
+editor la excepción. La imagen publicada tras el empuje es la del editor y es la vigente:
+no se coteja el archivo propio contra el suyo ni se mide su calidad. En paralelo:
+`docs/instrucciones-formato-efemerides-v2.23.md`,
+`docs/instrucciones-procesar-efemerides-v2.18.md`,
+`docs/manual-estilo-efemerides-v1.21.md` y `docs/protocolo-continuidad-sesiones.md`.
+No cambian la auditoría de imagen de `tools/efemerides-linter.sh` ni
+`docs/guia-del-linter.md`: la imagen publicada sigue debiendo medir 1.200 × 675.
+Registro de la versión anterior debajo.
+
+### Registro de la v2.23
 
 **Novedad de la v2.23.** Decisión del editor del 21-10-2026, a raíz del alta
 1940-10-26 (primer vuelo del NA-73X): **el post deja de consignar la distancia
@@ -444,13 +462,13 @@ Las imágenes se entregan al **tamaño de casa**, único desde la v2.22:
 
 **Nombre de archivo.** El de la imagen es el del post, sin `.md`: `AAAA-MM-DD-slug.webp` (o `.jpg` si el editor entrega ese formato). El campo YAML `image:` y el `src` del `<figure>` usan ese mismo nombre.
 
-Si la toma es menor, **se amplía** hasta esas cotas con remuestreo de calidad (Lanczos) y un unsharp ligero, para no entregar una imagen blanda. Ampliar no inventa detalle óptico que no estaba; evita el desenfoque del estirado. Si la toma es mayor, se reduce al estándar. Entrega en WebP (quality 90-92, method 6).
+Si la toma es menor, **se amplía** hasta esas cotas con remuestreo de calidad (Lanczos) y un unsharp ligero, para no entregar una imagen blanda. Ampliar no inventa detalle óptico que no estaba; evita el desenfoque del estirado. Si la toma es mayor, se reduce al estándar. La conversión a WebP (quality 90-92, method 6) y el remuestreo los aplica **el editor**, a quien corresponde el encuadre (v2.24).
 
 **No se menciona la resolución en el post:** es nota de trabajo y pertenece al chat (regla maestra 8). La advertencia de imagen representativa, cuando proceda, sigue rigiéndose por la sección «Pie de foto: reglas obligatorias».
 
 Queda derogada la fórmula de la v2.9–v2.13 «las imágenes no se amplían / resolución nativa». El 678 que figuraba como alto del encabezado era errata; el alto canónico es **675**.
 
-**También queda derogado el 800 × 1.000 reservado a `nacimiento`** (v2.14). Desde el 19-10-2026 no existe un tamaño de retrato: un solo estándar de 1.200 × 675 rige las nueve categorías. Cuando la fotografía disponible sea un retrato estrecho, el recorte a 16:9 y su ampliación corresponden al editor, y el investigador entrega el archivo original con su enlace de origen y sus cotas por chat; si el recorte degrade visiblemente el retrato, se comunica antes de publicar.
+**También queda derogado el 800 × 1.000 reservado a `nacimiento`** (v2.14). Desde el 19-10-2026 no existe un tamaño de retrato: un solo estándar de 1.200 × 675 rige las nueve categorías. Desde el 21-10-2026 **el encuadre y la conversión a ese tamaño corresponden al editor en todas las altas** (v2.24): el investigador elige la imagen, acredita su fuente y su licencia y **consigna en el `<figcaption>` el enlace al archivo de origen**, del que el editor se sirve para descargarlo y convertirlo; comunica además por chat las cotas y la orientación del original. El investigador no entrega recorte propio ni persigue que su archivo coincida con el del editor: la imagen publicada tras el empuje es la del editor y es la vigente. Si el recorte a 16:9 degrade visiblemente la imagen —en particular el rostro de un retrato—, se advierte antes de publicar.
 
 ### 13) Separadores entre bloques
 
@@ -1996,6 +2014,8 @@ Orden del editor del 19-10-2026: **1.200 × 675 para todas las categorías, incl
 
 ### Reparto del trabajo con la imagen
 
+*(Redacción sustituida por la v2.24; se conserva como registro histórico.)*
+
 El investigador entrega la imagen ya al tamaño de casa cuando la toma lo permite sin degradación visible. Cuando el original es un retrato estrecho o no alcanza las cotas, entrega el archivo a su resolución nativa, indica por chat sus dimensiones y el enlace directo a la fuente, y el editor decide el recorte. Ninguna entrega justifica ampliar un retrato hasta 1.200 × 675 si el resultado pierde detalle en el rostro.
 
 ### Alcance
@@ -2006,3 +2026,37 @@ La norma rige para las entregas posteriores al 19-10-2026 y no reabre los cierre
 
 `tools/efemerides-linter.sh` (auditoría de imagen), `docs/instrucciones-formato-efemerides-v2.21.md`, `docs/instrucciones-procesar-efemerides-v2.16.md`, `docs/manual-estilo-efemerides-v1.19.md`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`.
 
+---
+
+## Reparto del trabajo con la imagen v2.24 — 2026-10-21
+
+### Regla: elegir y encuadrar son tareas de personas distintas
+
+Orden del editor del 21-10-2026, que recupera un acuerdo antiguo de la casa: **el
+investigador elige la imagen; el editor la encuadra y la convierte al tamaño de casa.**
+
+- **Investigador:** propone la imagen, acredita su fuente y su licencia y **consigna en el
+  `<figcaption>` el enlace al archivo de origen**, que es el dato con el que el editor descarga
+  el original. Comunica además, por chat, las cotas y la orientación de ese original.
+- **Editor:** recorta a 16:9 y convierte a **1.200 × 675** con Photopea, en todas las altas.
+
+### Lo que deja de hacerse
+
+- El investigador **no entrega recorte propio** ni persigue que su archivo sea idéntico al del
+  editor: la imagen publicada tras el empuje es la suya y pasa a ser la vigente.
+- No se miden nitidez, bloques ni escalas de calidad de la imagen del editor, ni se preparan
+  archivos alternativos, salvo petición expresa.
+
+### Alcance
+
+Rige para las entregas posteriores al 21-10-2026 y no reabre cierres comunicados: las imágenes
+ya publicadas quedan tal cual, incluidas las que el editor recortó a partir de un archivo del
+investigador.
+
+### Alineación
+
+`docs/instrucciones-formato-efemerides-v2.23.md`,
+`docs/instrucciones-procesar-efemerides-v2.18.md`, `docs/manual-estilo-efemerides-v1.21.md` y
+`docs/protocolo-continuidad-sesiones.md`. Sin cambios en `tools/efemerides-linter.sh` ni en
+`docs/guia-del-linter.md`: la auditoría de imagen no varía, la imagen publicada sigue debiendo
+medir 1.200 × 675.

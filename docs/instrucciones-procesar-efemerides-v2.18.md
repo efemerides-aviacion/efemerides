@@ -1,10 +1,22 @@
 # Documento de Instrucciones Editoriales para Procesar Efemérides de Aviación
 > Última actualización: 2026-10-21  
-> Versión: v2.17
+> Versión: v2.18
 
 ---
 
 ## NOTA SOBRE ESTA VERSIÓN
+
+**Novedad de la v2.18.** Orden del editor del 21-10-2026: **el reparto del trabajo con la
+imagen queda como siempre había sido**. El investigador elige la imagen, acredita su fuente
+y su licencia y **consigna en el `<figcaption>` el enlace al archivo de origen**; el editor
+encuadra y convierte a 1.200 × 675 con Photopea, en todas las altas y no solo cuando el
+original no admita el recorte. Queda sin efecto la redacción de la v2.16, que hacía del
+recorte por el editor la excepción. La imagen publicada tras el empuje es la del editor:
+no se coteja el archivo propio contra el suyo ni se mide su calidad. En paralelo: Plantilla
+Maestra v2.24, Instrucciones de Formato v2.23, Manual de Estilo v1.21 y
+`docs/protocolo-continuidad-sesiones.md`. Registro de la versión anterior debajo.
+
+### Registro de la v2.17
 
 **Novedad de la v2.17.** Decisión del editor del 21-10-2026, a raíz del alta
 1940-10-26 (primer vuelo del NA-73X): **el post deja de consignar la distancia
@@ -400,7 +412,7 @@ asume como estado vigente. Práctica registrada los días 27 y 28 de agosto de
 ## CHECKLIST FINAL
 - [ ] El hecho principal está verificado.
 - [ ] La imagen es correcta o se explicó al editor, por chat, por qué no pudo usarse la solicitada.
-- [ ] La imagen está al tamaño de casa —1.200 × 675, único para todas las categorías, incluida `nacimiento`— y su nombre coincide con el del post; si se entregó a su tamaño nativo por no admitir el recorte, así se comunicó al editor por chat con las cotas y el enlace de origen.
+- [ ] El `<figcaption>` acredita la fuente de la imagen **con el enlace al archivo de origen**, que es el que el editor usa para descargarla y encuadrarla; se comunicaron por chat las cotas y la orientación del original. El encuadre y la conversión a 1.200 × 675 son del editor: no se entrega recorte propio ni se persigue que el archivo propio coincida con el suyo.
 - [ ] El post está limpio: no menciona el borrador preliminar, sus errores, enlaces caídos ni el entorno técnico.
 - [ ] Se verificó la coherencia entre fecha, título, nombre de archivo y YAML **sin dejar constancia de ello en el post**.
 - [ ] «Discrepancias resueltas» contiene divergencias reales entre fuentes, no trámites del procedimiento.
@@ -441,6 +453,7 @@ asume como estado vigente. Práctica registrada los días 27 y 28 de agosto de
 | v2.12 | 2026-08-20 | Nombre de imagen = post; conteo de refs; hechos pluridiarios en la culminación. |
 | v2.13 | 2026-08-21 | Alineación con la Plantilla Maestra v2.16 y el Manual de Estilo v1.13 (renumeración de § 8: la verificación de contenido pasa de § 8.4 a § 8.6). Sin cambios de fondo. |
 | v2.14 | 2026-08-28 | Entrega de altas individuales sin ZIP y comprobación del estado publicado por cotejo de contenido, encuadre y cotas. |
+| v2.18 | 2026-10-21 | Reparto del trabajo con la imagen: el investigador elige la imagen y pone en el `<figcaption>` el enlace al archivo de origen; el editor encuadra y convierte a 1.200 × 675 en todas las altas. Sustituye el reparto excepcional de la v2.16. |
 | v2.17 | 2026-10-21 | Derogada la regla de cómputo de años transcurridos (v2.5): el post no consigna la distancia en años entre el hito y el presente. Se conservan las distancias entre dos hechos pasados, las aproximaciones a un tercer hecho y el cómputo cuando el aniversario es el asunto de la efeméride, con ancla explícita. Cambio no retroactivo: los 98 posts afectados conservan su cifra y se limpian cuando se revisen. |
 | v2.16 | 2026-10-19 | Tamaño de casa único 1.200 × 675 para todas las categorías en el apartado «Tamaño de casa» y en el checklist final; derogada la distinción por categoría. Se incorpora el reparto del recorte con el editor cuando el original no lo admite sin degradación. Alineado con Plantilla Maestra v2.22, regla maestra 12. |
 | v2.15 | 2026-10-02 | Flujo de commit alineado con Formato v2.20 y Plantilla v2.21: dos bloques en chat, tabla file-a-file fuera del mensaje, sin TXT y sin prohibición de mencionar la imagen; se mantiene la exclusión de cambios internos del flujo. |
@@ -736,3 +749,23 @@ Plantilla Maestra v2.21, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md`
 
 Plantilla Maestra v2.22, Instrucciones de Formato v2.21, Manual de Estilo v1.19, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`.
 
+---
+
+## ACTUALIZACIONES EDITORIALES V2.18 — 2026-10-21
+
+### Reparto del trabajo con la imagen
+
+Orden del editor del 21-10-2026: **el investigador elige la imagen; el editor la encuadra y la
+convierte al tamaño de casa.**
+
+- El `<figcaption>` lleva siempre el **enlace al archivo de origen**, dato con el que el editor
+  descarga el original. Sin él, la alta queda bloqueada por omisión del investigador.
+- El investigador no entrega recorte propio ni mide la calidad de la imagen del editor; la
+  publicada tras el empuje es la suya y es la vigente.
+
+Rige para las entregas posteriores al 21-10-2026 y no reabre cierres comunicados.
+
+### Alineación
+
+Plantilla Maestra v2.24, Instrucciones de Formato v2.23, Manual de Estilo v1.21 y
+`docs/protocolo-continuidad-sesiones.md`.

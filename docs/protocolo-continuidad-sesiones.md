@@ -1,6 +1,6 @@
 # Protocolo de continuidad entre sesiones
 
-> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, actualizada el 1 de octubre de 2026 para registrar Formato v2.19 y actualizada el 2 de octubre de 2026 para registrar Plantilla Maestra v2.21, Formato v2.20 e Instrucciones de Procesar v2.15 tras la corrección de coherencia del flujo de commit, y actualizada el 10 de octubre de 2026 para anclar la rama en toda consulta al repositorio y registrar la auditoría 11 del linter (bandas por sección), y el 19 de octubre de 2026 para registrar Plantilla Maestra v2.22, Formato v2.21, Procesar v2.16 y Manual de Estilo v1.19 tras la unificación del tamaño de casa en 1.200 × 675 para todas las categorías. y el 21 de octubre de 2026 para registrar Plantilla Maestra v2.23, Formato v2.22, Procesar v2.17 y Manual de Estilo v1.20 tras la derogación de la cuenta de años transcurridos No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
+> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, actualizada el 1 de octubre de 2026 para registrar Formato v2.19 y actualizada el 2 de octubre de 2026 para registrar Plantilla Maestra v2.21, Formato v2.20 e Instrucciones de Procesar v2.15 tras la corrección de coherencia del flujo de commit, y actualizada el 10 de octubre de 2026 para anclar la rama en toda consulta al repositorio y registrar la auditoría 11 del linter (bandas por sección), y el 19 de octubre de 2026 para registrar Plantilla Maestra v2.22, Formato v2.21, Procesar v2.16 y Manual de Estilo v1.19 tras la unificación del tamaño de casa en 1.200 × 675 para todas las categorías. y el 21 de octubre de 2026 para registrar Plantilla Maestra v2.23, Formato v2.22, Procesar v2.17 y Manual de Estilo v1.20 tras la derogación de la cuenta de años transcurridos, y el 21 de octubre de 2026 para registrar la directiva del editor sobre el reparto del trabajo con la imagen (§ 5, criterios consolidados). No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
 
 ## Principio
 
@@ -123,6 +123,25 @@ Solo se registran decisiones que afecten sesiones futuras. Cada una se marca com
 - **TÉCNICA:** lección del entorno que no altera el estilo público.
 
 No se arrastran indefinidamente reglas ya localizables y claras en los rectores; basta la remisión correspondiente.
+
+#### Reparto del trabajo con la imagen — PROVISIONAL (directiva del editor, 21-10-2026)
+
+Acuerdo antiguo del editor que no constaba por escrito y que la redacción del 19-10-2026
+dejó invertido: los rectores convirtieron en excepción lo que es la regla general. La
+enmienda quedó preparada el mismo 21-10-2026 —Plantilla v2.24, Formato v2.23, Procesar
+v2.18 y Manual v1.21— y **pasa a RECTOR en cuanto el editor la empuje**; hasta entonces
+prevalece lo de aquí. Texto íntegro en `2026-10-21-DIRECTIVA-IMAGEN-REPARTO-CON-EL-EDITOR.md`
+y en `apertura-21-10/ENMIENDA-IMAGEN-REPARTO-CON-EL-EDITOR.md`.
+
+- **El investigador elige la imagen** y la propone con su fuente y su licencia acreditadas.
+- **El encuadre y la conversión a 1.200 × 675 los hace el editor**, en Photopea, y no solo
+  cuando el original sea un retrato estrecho, sino en todas las altas.
+- **El `<figcaption>` debe llevar el enlace a la imagen de origen.** Es el dato que el editor
+  necesita: se guía por ese enlace para descargar el original y convertirlo él mismo.
+- **No se invierte tiempo en que la imagen propia coincida con la del editor.** Cuando él
+  empuje el commit y lo comunique, la imagen publicada es la suya y pasa a ser la vigente.
+- Sin enlace de origen en el pie, el editor no tiene por dónde descargar: la alta queda
+  bloqueada por omisión del investigador, no del editor.
 
 ### 6. Observaciones sin acción y asuntos reservados al editor
 

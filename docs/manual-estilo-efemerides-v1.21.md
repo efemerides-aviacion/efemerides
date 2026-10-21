@@ -1,6 +1,6 @@
 # Manual de Estilo de Efemérides
 > Edición consolidada: 2026-10-21  
-> Versión: v1.20
+> Versión: v1.21
 
 ---
 
@@ -304,9 +304,12 @@ Responder únicamente con el `<figure>` exacto.
 
 ### 7.6 Tamaño de casa; se permite ampliar
 Las imágenes se entregan a **1.200 × 675** en **todas las categorías**, incluida `nacimiento`: **1.200 × 675** (derogado el 800 × 1.000
-de `nacimiento`; orden del editor del 19-10-2026, Plantilla v2.22, regla maestra 12). Cuando el original
-es un retrato estrecho que no admite el recorte a 16:9 sin degradar el rostro, se entrega a su tamaño
-nativo y el recorte lo decide el editor, con las cotas y el enlace de origen comunicados por chat. Se permite ampliar con remuestreo de calidad (Lanczos) y unsharp ligero. WebP
+de `nacimiento`; orden del editor del 19-10-2026, Plantilla v2.22, regla maestra 12). **Desde el
+21-10-2026 el encuadre y la conversión a esas cotas corresponden al editor en todas las altas**
+(v1.21): el investigador elige la imagen, acredita su fuente y su licencia y **consigna en el
+`<figcaption>` el enlace al archivo de origen**, del que el editor se sirve para descargarlo; comunica
+además por chat las cotas y la orientación del original, y no entrega recorte propio ni persigue que su
+archivo coincida con el del editor. Se permite ampliar con remuestreo de calidad (Lanczos) y unsharp ligero. WebP
 (quality 90-92, method 6) a esas cotas. El nombre de archivo de la imagen es el del post. **No se menciona la resolución en el post**: es nota de trabajo y
 pertenece al chat (§ 9.1). Queda derogado «no se amplían / resolución nativa». El 678 era errata.
 
@@ -798,7 +801,7 @@ Alineadas en la misma fecha: Plantilla Maestra v2.20, Instrucciones de Formato v
 
 ## 30. Actualizaciones editoriales v1.19 — 2026-10-19
 
-- **§ 7.6 reescrita:** tamaño de casa único **1.200 × 675** para todas las categorías, incluida `nacimiento`; derogado el 800 × 1.000 del retrato que la v1.11 había fijado para esa categoría. Se añade el criterio de entrega a tamaño nativo cuando el recorte a 16:9 degradaría un retrato: el recorte corresponde al editor y las cotas y el enlace de origen se comunican por chat (§ 9.1).
+- **§ 7.6 reescrita:** tamaño de casa único **1.200 × 675** para todas las categorías, incluida `nacimiento`; derogado el 800 × 1.000 del retrato que la v1.11 había fijado para esa categoría. Se añade el criterio de entrega a tamaño nativo cuando el recorte a 16:9 degradaría un retrato: el recorte corresponde al editor y las cotas y el enlace de origen se comunican por chat (§ 9.1). *(Ampliado por la v1.21, que atribuye el encuadre al editor en todas las altas.)*
 - Sin cambios en el resto del manual; la prohibición de mencionar la resolución en el post permanece (§ 9.1 y Plantilla, regla maestra 8).
 
 Alineadas en la misma fecha: Plantilla Maestra v2.22, Instrucciones de Formato v2.21, Instrucciones de Procesar v2.16, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`.
@@ -811,3 +814,21 @@ Se deroga el cómputo incorporado en la v1.5. El post deja de consignar la
 distancia en años entre el hito y el presente y se ancla en la fecha. No
 retroactivo: los 98 posts afectados conservan su cifra y se limpian cuando se
 revisen por cualquier motivo.
+
+## 32. Actualizaciones editoriales v1.21 — 2026-10-21
+
+- **§ 7.6 revisada:** el reparto del trabajo con la imagen queda como siempre había sido. **El
+  investigador elige la imagen** y **el editor la encuadra y la convierte a 1.200 × 675**, en todas
+  las altas y no solo cuando el original sea un retrato estrecho. El `<figcaption>` debe llevar el
+  **enlace al archivo de origen**, que es el dato con el que el editor descarga el original; sin él, la
+  alta queda bloqueada por omisión del investigador. Queda sin efecto la redacción de la v1.19, que
+  hacía del recorte por el editor la excepción.
+- **Lo que deja de hacerse:** el investigador no entrega recorte propio, no persigue que su archivo
+  sea idéntico al del editor y no mide la calidad de la imagen de este. La imagen publicada tras el
+  empuje es la del editor y es la vigente.
+- Rige para las entregas posteriores al 21-10-2026 y no reabre cierres comunicados.
+
+Alineadas en la misma fecha: Plantilla Maestra v2.24, Instrucciones de Formato v2.23 e Instrucciones
+de Procesar v2.18, además de `docs/protocolo-continuidad-sesiones.md`. Sin cambios en
+`tools/efemerides-linter.sh` ni en `docs/guia-del-linter.md`: la imagen publicada sigue debiendo medir
+1.200 × 675.
