@@ -1,10 +1,29 @@
 # Documento Maestro de Plantillas de Efemérides de Aviación
-> Última actualización: 2026-10-19  
-> Versión: v2.22
+> Última actualización: 2026-10-21  
+> Versión: v2.23
 
 ---
 
 ## Nota sobre esta versión
+
+**Novedad de la v2.23.** Decisión del editor del 21-10-2026, a raíz del alta
+1940-10-26 (primer vuelo del NA-73X): **el post deja de consignar la distancia
+en años entre el hito y el presente**. La regla maestra 9 se reescribe como
+«Distancia temporal con el presente» e invierte el valor por defecto: antes
+había que calcular la cifra; ahora hay que no escribirla, salvo cuando el
+aniversario es el asunto de la efeméride, que se escribe con ancla explícita.
+Quedan a salvo las distancias entre dos hechos pasados y las aproximaciones a
+un tercer hecho histórico de datación imprecisa. **No retroactivo:** los 98
+posts publicados con recuento conservan su cifra y se limpian cuando se
+revisen; el linter incorpora la auditoría [AVISO] 12 para detectarlos. En
+paralelo se actualizan `tools/efemerides-linter.sh`,
+`docs/instrucciones-formato-efemerides-v2.22.md`,
+`docs/instrucciones-procesar-efemerides-v2.17.md`,
+`docs/manual-estilo-efemerides-v1.20.md`, `docs/guia-del-linter.md` y
+`docs/protocolo-continuidad-sesiones.md`. Registro de la versión anterior
+debajo.
+
+### Registro de la v2.22
 
 **Novedad de la v2.22.** Orden del editor del 19-10-2026: **el tamaño de casa pasa a ser único, 1.200 × 675, para todas las categorías**, incluida `nacimiento`, y queda derogado el retrato 800 × 1.000 que la v2.14 reservaba a los nacimientos. La regla maestra 12 se reescribe en su apartado de imágenes; permanecen sin cambios el remuestreo de calidad (Lanczos + unsharp) al ampliar, la reducción cuando la toma es mayor, el WebP (quality 90-92, method 6), la identidad del nombre de archivo y la prohibición de mencionar la resolución en el post. Aplicación hacia delante: no reabre cierres comunicados. En paralelo se actualizan `tools/efemerides-linter.sh`, `docs/instrucciones-formato-efemerides-v2.21.md`, `docs/instrucciones-procesar-efemerides-v2.16.md`, `docs/manual-estilo-efemerides-v1.19.md`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Registro de la versión anterior debajo.
 
@@ -123,11 +142,9 @@ la efeméride. La comprobación es especialmente exigente en los repositorios cu
 identificadores son correlativos y cuyas fichas contiguas corresponden a materias
 sin relación entre sí.
 
-**Novedad de la v2.7.** Se incorpora la **regla de cómputo de años transcurridos**
-(regla maestra 9). Las efemérides se publican el mismo día y mes del hito, de modo
-que el número de años que separa el hecho de la publicación es siempre exacto y
-debe calcularse restando el año del hito al año de publicación. Toda mención del
-tipo «ochenta años después» debe verificarse contra esa resta.
+**Novedad de la v2.7, derogada por la v2.23.** La regla de cómputo de años
+transcurridos queda sin efecto: el post no consigna la distancia en años entre
+el hito y el presente (regla maestra 9).
 
 **Novedad de la v2.6.** Se precisa el alcance del campo «Discrepancias
 resueltas»: las comprobaciones rutinarias del flujo de trabajo —entre ellas la
@@ -313,42 +330,35 @@ resueltas».
 **Criterio de discernimiento:** si el dato interesa a quien lee la efeméride, va
 al post; si solo interesa a quien la produce, va al chat.
 
-### 9) Cómputo de años transcurridos
+### 9) Distancia temporal con el presente
 
-Las efemérides se publican **el mismo día y el mismo mes del hito**. La distancia
-temporal entre el hecho y su publicación es, por tanto, un número entero exacto de
-años, sin fracciones ni redondeos.
+Las efemérides se publican **el mismo día y el mismo mes del hito**. El post
+**no consigna los años transcurridos** entre el hecho y el presente, en ninguna
+sección ni con ninguna fórmula. Una cifra fijada el día de la publicación es
+exacta ese día y falsa a partir del aniversario siguiente, y las efemérides se
+leen durante años.
 
-**Regla de cálculo:**
+Quedan fuera de esta prohibición:
+- las distancias medidas **entre dos hechos pasados** («dos años después, en
+  1930, …»), que no caducan nunca;
+- las aproximaciones referidas a un **tercer hecho histórico** de datación
+  imprecisa;
+- el cómputo cuando **el aniversario es el asunto de la efeméride**
+  —centenarios y aniversarios redondos—, que se escribe con su ancla explícita:
+  «al cumplirse hoy cien años de…», «el 26 de octubre de 2026 se cumplen cien
+  años de…».
 
-```
-años transcurridos = año de publicación − año del hito
-```
+El ancla temporal del post es la fecha del hecho, que consta en el título, en
+el YAML, en «Datos verificados» y en el «Desarrollo Cronológico». No se
+traduce a años.
 
-El año de publicación se toma del campo `fecha_publicacion` del borrador aportado
-por el editor. Si ese campo no consta, se emplea el año en curso.
+**Criterio de redacción.** Cuando proceda el cómputo —solo en el supuesto del
+aniversario como asunto— se emplea la **cifra exacta**, escrita con letra
+cuando encabeza la frase, y siempre con su ancla de fecha.
 
-**Ejemplo.** Hito del 9 de agosto de 1945, publicado el 9 de agosto de 2026:
-2026 − 1945 = **81 años**. Es incorrecto escribir «ochenta años después», aunque
-la cifra redonda resulte más cómoda.
-
-**Alcance de la regla.** Afecta a cualquier mención de la distancia temporal en el
-cuerpo del post, con independencia de la sección en que aparezca. Son formulaciones
-sujetas a verificación:
-- «X años después…»;
-- «X décadas más tarde…»;
-- «un siglo después…»;
-- «X años antes de…», cuando el término de comparación es la fecha de publicación;
-- toda referencia a un aniversario.
-
-**Criterio de redacción.** Se emplea la **cifra exacta**, escrita con letra cuando
-encabeza la frase. Solo cabe una fórmula aproximada («más de ocho décadas») cuando
-el texto no compara con la fecha de publicación sino con un tercer hecho histórico
-de fecha imprecisa.
-
-**Comprobación obligatoria.** La cifra se verifica al cerrar el documento, junto
-con el resto de la lista de control interna. Como toda comprobación rutinaria, no
-se menciona en el post.
+**Comprobación obligatoria.** La ausencia de recuento se verifica al cerrar el
+documento, junto con el resto de la lista de control interna. Como toda
+comprobación rutinaria, no se menciona en el post.
 
 ### 10) Verificación de contenido de las fuentes
 
@@ -1942,6 +1952,7 @@ de agosto, levantando parcialmente la moratoria del 21-08.
 | v2.18 | 2026-09-03 | Regla maestra 5 reescrita: lista enunciativa de grados, plural de grado ante lista de nombres y regulación de tratamientos honoríficos (D2-a), con anexo comparativo normativo en `docs/`. |
 | v2.19 | 2026-09-23 | Regla maestra 5 con la excepción institucional D1-b; regla maestra 2 con la reserva de enlaces externos a `## Referencias Verificadas` y `<figcaption>`. |
 | v2.20 | 2026-09-29 | Regla maestra 16: asignación única por sección y banda de extensión para lectura móvil (1.150–1.500 palabras narrativas; tope 1.550), no retroactiva. Regla maestra 17: Metadatos de Control telegráficos (65–120 palabras, tope 150). |
+| v2.23 | 2026-10-21 | Regla maestra 9 reescrita como «Distancia temporal con el presente»: derogado el cómputo de años transcurridos; el post no consigna la distancia en años con el presente, salvo cuando el aniversario es el asunto de la efeméride y con ancla explícita. No retroactivo: los 98 posts afectados conservan su cifra. Nueva auditoría [AVISO] 12 en el linter. |
 | v2.22 | 2026-10-19 | Regla maestra 12: **tamaño de casa único 1.200 × 675 para todas las categorías**, incluida `nacimiento`; derogado el retrato 800 × 1.000 de la v2.14. Sin cambios en remuestreo, WebP, nombre de archivo ni prohibición de mencionar la resolución. Aplicación hacia delante: no reabre los cierres comunicados; las 103 imágenes de `nacimiento` previas a 800 × 1.000 quedan congeladas y su migración, en todo caso, es una tanda aparte. |
 | v2.21 | 2026-10-02 | Política de commits alineada con Formato v2.20: la Description puede y debe mencionar la imagen conforme al patrón vigente; rutas, bytes, SHAs y blobs permanecen en la tabla file-a-file del chat. Se mantiene la prohibición de relatar cambios internos del flujo. |
 

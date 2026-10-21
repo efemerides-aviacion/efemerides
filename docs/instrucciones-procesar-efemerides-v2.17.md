@@ -1,10 +1,24 @@
 # Documento de Instrucciones Editoriales para Procesar Efemérides de Aviación
-> Última actualización: 2026-10-19  
-> Versión: v2.16
+> Última actualización: 2026-10-21  
+> Versión: v2.17
 
 ---
 
 ## NOTA SOBRE ESTA VERSIÓN
+
+**Novedad de la v2.17.** Decisión del editor del 21-10-2026, a raíz del alta
+1940-10-26 (primer vuelo del NA-73X): **el post deja de consignar la distancia
+en años entre el hito y el presente**. La sección «Cómputo de años
+transcurridos» (v2.5) se sustituye por «Distancia temporal con el presente» e
+invierte el valor por defecto: antes había que calcular la cifra; ahora hay que
+no escribirla, salvo cuando el aniversario es el asunto de la efeméride, con
+ancla explícita. Quedan a salvo las distancias entre dos hechos pasados y las
+aproximaciones a un tercer hecho histórico de datación imprecisa. **No
+retroactivo:** los 98 posts publicados con recuento conservan su cifra y se
+limpian cuando se revisen; el linter incorpora la auditoría [AVISO] 12 para
+detectarlos. En paralelo: Plantilla Maestra v2.23, Instrucciones de Formato
+v2.22, Manual de Estilo v1.20, `tools/efemerides-linter.sh` y
+`docs/guia-del-linter.md`.
 
 **Novedad de la v2.16.** Orden del editor del 19-10-2026: el apartado «Tamaño de casa» y la comprobación del checklist final dejan de distinguir `nacimiento`: **1.200 × 675 para todas las categorías**. Se incorpora al flujo la regla de reparto: si la toma no admite el recorte sin degradación, el investigador entrega el archivo original a su tamaño nativo con sus cotas y el enlace directo de la fuente por chat, y el editor aplica el recorte. En paralelo: Plantilla Maestra v2.22, Instrucciones de Formato v2.21, Manual de Estilo v1.19, `tools/efemerides-linter.sh` y `docs/guia-del-linter.md`.
 
@@ -60,9 +74,10 @@ AAAA-MM-DD-nombre-del-archivo.md
 
 **Campo `fecha_publicacion`.** El borrador que aporta el editor incluye en su
 cabecera YAML el campo `fecha_publicacion`, con el día previsto de salida. Las
-efemérides se publican **el mismo día y el mismo mes del hito**, de modo que ese
-campo determina el año que debe emplearse para calcular los años transcurridos
-(véase «Cómputo de años transcurridos»). Si el campo no consta, se toma el año en
+efemérides se publican **el mismo día y el mismo mes del hito**. El campo deja
+de tener uso normativo para el cómputo de años: desde la v2.17 el post no
+consigna la distancia en años con el presente (véase «Distancia temporal con
+el presente»).
 curso.
 
 Campos opcionales frecuentes:
@@ -214,34 +229,37 @@ Debe usarse la versión actualizada:
 
 ---
 
-## CÓMPUTO DE AÑOS TRANSCURRIDOS
+## DISTANCIA TEMPORAL CON EL PRESENTE
 
-Las efemérides se publican el mismo día y el mismo mes del hecho. La distancia
-temporal entre el hito y su publicación es por tanto un número entero exacto de
-años:
+Las efemérides se publican el mismo día y el mismo mes del hito. El post **no
+consigna los años transcurridos** entre el hecho y el presente, en ninguna
+sección ni con ninguna fórmula. Una cifra fijada el día de la publicación es
+exacta ese día y falsa a partir del aniversario siguiente, y las efemérides se
+leen durante años.
 
-```
-años transcurridos = año de publicación − año del hito
-```
+Quedan fuera de esta prohibición:
+1. las distancias medidas entre dos hechos pasados («dos años después, en
+   1930, …»), que no caducan nunca;
+2. las aproximaciones referidas a un tercer hecho histórico de datación
+   imprecisa;
+3. el cómputo cuando el aniversario es el asunto de la efeméride —centenarios
+   y aniversarios redondos—, que se escribe con su ancla explícita: «al
+   cumplirse hoy cien años de…», «el 26 de octubre de 2026 se cumplen cien
+   años de…».
 
-El año de publicación procede del campo `fecha_publicacion` del borrador.
+El ancla temporal del post es la fecha del hecho, que consta en el título, en
+el YAML, en «Datos verificados» y en el «Desarrollo Cronológico»; no se
+traduce a años.
 
-**Ejemplo.** Hito del 9 de agosto de 1945 publicado el 9 de agosto de 2026:
-2026 − 1945 = **81 años**. Corresponde escribir «ochenta y un años después», no
-«ochenta años después».
+**Comprobación.** Al cerrar el documento se verifica que el cuerpo del post no
+contiene ninguna fórmula de distancia con el presente, salvo en el supuesto
+tercero. Forma parte de la lista de control interna y, como el resto de
+comprobaciones rutinarias, no se menciona en el post.
 
-**Alcance.** La regla se aplica a cualquier mención de la distancia con el
-presente, en cualquier sección, aunque su lugar habitual es `## Legado`. Quedan
-sujetas a verificación las fórmulas «X años después», «X décadas más tarde», «un
-siglo después», «X años antes de hoy» y toda referencia a un aniversario.
+**Derogación.** Queda derogada la regla de cómputo de años transcurridos
+incorporada en la v2.5 (4 de agosto de 2026), cuya motivación se conserva
+documentada más abajo.
 
-**Criterio.** Se emplea siempre la cifra exacta. Solo cabe una expresión
-aproximada cuando la comparación no es con la fecha de publicación sino con un
-tercer hecho histórico de datación imprecisa.
-
-**Comprobación.** Forma parte de la lista de control interna que se ejecuta al
-cerrar el documento y, como el resto de comprobaciones rutinarias, no se menciona
-en el post.
 
 ---
 
@@ -386,7 +404,9 @@ asume como estado vigente. Práctica registrada los días 27 y 28 de agosto de
 - [ ] El post está limpio: no menciona el borrador preliminar, sus errores, enlaces caídos ni el entorno técnico.
 - [ ] Se verificó la coherencia entre fecha, título, nombre de archivo y YAML **sin dejar constancia de ello en el post**.
 - [ ] «Discrepancias resueltas» contiene divergencias reales entre fuentes, no trámites del procedimiento.
-- [ ] Los años transcurridos desde el hito se calcularon sobre el año de `fecha_publicacion` y no se redondearon.
+- [ ] El post no consigna la distancia en años entre el hito y el presente,
+      salvo que el aniversario sea el asunto de la efeméride, con su ancla
+      explícita.
 - [ ] Cada URL se validó por su contenido y no por su código de respuesta.
 - [ ] Se leyó la ficha de archivo enlazada en el `<figure>` y su sujeto es el de la efeméride.
 - [ ] Las incidencias del proceso se comunicaron al editor en el chat, no en el documento.
@@ -421,6 +441,7 @@ asume como estado vigente. Práctica registrada los días 27 y 28 de agosto de
 | v2.12 | 2026-08-20 | Nombre de imagen = post; conteo de refs; hechos pluridiarios en la culminación. |
 | v2.13 | 2026-08-21 | Alineación con la Plantilla Maestra v2.16 y el Manual de Estilo v1.13 (renumeración de § 8: la verificación de contenido pasa de § 8.4 a § 8.6). Sin cambios de fondo. |
 | v2.14 | 2026-08-28 | Entrega de altas individuales sin ZIP y comprobación del estado publicado por cotejo de contenido, encuadre y cotas. |
+| v2.17 | 2026-10-21 | Derogada la regla de cómputo de años transcurridos (v2.5): el post no consigna la distancia en años entre el hito y el presente. Se conservan las distancias entre dos hechos pasados, las aproximaciones a un tercer hecho y el cómputo cuando el aniversario es el asunto de la efeméride, con ancla explícita. Cambio no retroactivo: los 98 posts afectados conservan su cifra y se limpian cuando se revisen. |
 | v2.16 | 2026-10-19 | Tamaño de casa único 1.200 × 675 para todas las categorías en el apartado «Tamaño de casa» y en el checklist final; derogada la distinción por categoría. Se incorpora el reparto del recorte con el editor cuando el original no lo admite sin degradación. Alineado con Plantilla Maestra v2.22, regla maestra 12. |
 | v2.15 | 2026-10-02 | Flujo de commit alineado con Formato v2.20 y Plantilla v2.21: dos bloques en chat, tabla file-a-file fuera del mensaje, sin TXT y sin prohibición de mencionar la imagen; se mantiene la exclusión de cambios internos del flujo. |
 
@@ -536,19 +557,17 @@ comprobaciones rutinarias.
 
 ## ACTUALIZACIONES EDITORIALES V2.5 — 2026-08-04
 
-### Cómputo de años transcurridos
+### Cómputo de años transcurridos  «DEROGADO POR LA V2.17»
 
-Se incorpora una sección propia con la regla de cálculo y se documenta en «Formato
-de la solicitud del usuario» la función del campo `fecha_publicacion` del borrador,
-que hasta ahora no tenía uso normativo asignado.
-
-**Origen de la regla.** En la efeméride de Nagasaki del 9 de agosto de 1945,
-prevista para el 9 de agosto de 2026, el texto de salida decía «ochenta años
-después» cuando la cifra correcta era ochenta y uno. El error nace de asociar el
-hito a una cifra redonda de aniversario en lugar de calcularla.
+Se incorpora una sección propia
 
 **Consecuencia operativa.** La verificación se añade al checklist final. Como toda
 comprobación del procedimiento, se ejecuta siempre y no se menciona en el post.
+
+**Derogado por la v2.17 (21-10-2026).** La regla se deroga porque fijaba en el
+post una cifra exacta el día de la publicación y falsa a partir del aniversario
+siguiente. Censo sobre 659 posts: 98 con recuento anclado al presente, dos de
+ellos ya incorrectos.
 
 ---
 

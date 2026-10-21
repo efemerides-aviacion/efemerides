@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # ============================================================================
 # efemerides-linter.sh — Validador estructural de posts de efemérides
-# Normas auditadas: Plantilla Maestra v2.22 · Manual de Estilo v1.19 ·
-# Instrucciones de Procesar v2.16 · Instrucciones de Formato v2.21 ·
+# Normas auditadas: Plantilla Maestra v2.23 · Manual de Estilo v1.20 ·
+# Instrucciones de Procesar v2.17 · Instrucciones de Formato v2.22 ·
 # anexo y registro de excepciones de rangos/tratamientos.
 # Reconstruido el 2026-09-03; alineado y preparado para versionado el 2026-09-05;
 # alineado con Manual v1.16 (aviso léxico «adolecer», todas sus formas, § 4.2) el 2026-09-17;
@@ -27,6 +27,10 @@
 # Manual de Estilo v1.19 el 2026-10-19
 # (regla maestra 12: tamaño de casa único 1200x675 para todas las categorías, incluida nacimiento — cae la
 #  bifurcación 800x1000 para nacimiento; cambio no retroactivo, no reabre los cierres comunicados).
+# alineado con Plantilla Maestra v2.23 · Manual de Estilo v1.20 · Instrucciones de Procesar v2.17 ·
+# Instrucciones de Formato v2.22 el 2026-10-21
+# (derogada la regla de cómputo de años transcurridos — Manual v1.20 § 5.9 —: nueva auditoría
+#  [AVISO] 12, que señala todo recuento anclado al presente; no retroactiva y no computa como fallo).
 #
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
@@ -237,7 +241,7 @@ for f in "Timestamp de verificación" "Fuentes primarias/institucionales consult
   grep -q "\*\*$f" <<<"$META" && ok "Metadatos: campo '$f' presente" || fail "Metadatos: falta el campo '$f'"
 done
 grep -qE '\*\*Nivel de confianza:\*\* (Alto|Medio|Bajo)' <<<"$META" && ok "Metadatos: nivel de confianza válido" || fail "Metadatos: Nivel de confianza debe ser Alto / Medio / Bajo"
-grep -qi "años transcurridos" <<<"$META" && fail "Metadatos: contiene 'Años transcurridos' (prohibido — integrate en ## Legado)" || ok "Metadatos: sin campo 'Años transcurridos'"
+grep -qi "años transcurridos" <<<"$META" && fail "Metadatos: contiene 'Años transcurridos' (campo derogado — Manual v1.20 § 5.9: el post no consigna la distancia en años con el presente)" || ok "Metadatos: sin campo 'Años transcurridos'"
 grep -qi "borrador" <<<"$META" && fail "Metadatos: cita el borrador preliminar (regla maestra 6; radio: la palabra «borrador» en cualquier formulación)" || ok "Metadatos: no cita el borrador preliminar"
 # Discrepancias: solo divergencias entre fuentes publicadas — advertencia de revisión
 DISC=$(grep '\*\*Discrepancias resueltas:\*\*' <<<"$META")
@@ -575,6 +579,34 @@ if [ "$NBAD" -eq 0 ]; then
 else
   printf '[AVISO]   Bandas por sección: %s desviación(es) respecto de las bandas de Formato v2.20 (no retroactivo; condensar con «un dato, una sección» o anotar la exención en el archivo de excepciones):\n' "$NBAD"
   printf '%b' "$BAD"
+fi
+
+# --------------------------------------------- Distancia temporal con el presente (12)
+declare -A V_ANIOS=( [uno]=1 [dos]=2 [tres]=3 [cuatro]=4 [cinco]=5 [seis]=6 [siete]=7 [ocho]=8 [nueve]=9 [diez]=10
+ [once]=11 [doce]=12 [trece]=13 [catorce]=14 [quince]=15 [dieciséis]=16 [diecisiete]=17 [dieciocho]=18 [diecinueve]=19
+ [veinte]=20 [veintiuno]=21 [veintidós]=22 [veintitrés]=23 [veinticuatro]=24 [veinticinco]=25 [veintiséis]=26
+ [veintisiete]=27 [veintiocho]=28 [veintinueve]=29 [treinta]=30 [cuarenta]=40 [cincuenta]=50 [sesenta]=60
+ [setenta]=70 [ochenta]=80 [noventa]=90 [cien]=100 [ciento]=100 [doscientos]=200 [doscientas]=200 )
+ANIO_HITO=$(grep -m1 -oE '^date:[[:space:]]*[0-9]{4}' <<<"$YAML" | grep -oE '[0-9]{4}')
+ANIO_HOY=$(date +%Y)
+if [ -n "$ANIO_HITO" ]; then
+  LEX_ANIOS='(ciento|cien|doscient[oa]s|veinti(uno|dós|trés|cuatro|cinco|séis|siete|ocho|nueve)|dieci(séis|siete|ocho|nueve)|ochenta|noventa|sesenta|setenta|cincuenta|cuarenta|treinta|veinte|quince|catorce|trece|doce|once|diez|nueve|ocho|siete|seis|cinco|cuatro|tres|dos|uno|[0-9]{1,3})'
+  PAT_ANIOS="(hace[[:space:]]+(ya[[:space:]]+)?|se[[:space:]]+cumplen[[:space:]]+(hoy[[:space:]]+)?|al[[:space:]]+cumplirse[[:space:]]+(hoy[[:space:]]+)?)?(${LEX_ANIOS}([[:space:]]+(y[[:space:]]+)?${LEX_ANIOS})*)[[:space:]]+años([[:space:]]+(después|más[[:space:]]+tarde|de[[:space:]]+su))?"
+  FRASE_ANIOS=$(grep -oiE "$PAT_ANIOS" <<<"$BODY" | head -1)
+  if [ -n "$FRASE_ANIOS" ]; then
+    N_ANIOS=0
+    for w in $(grep -oiE "$LEX_ANIOS" <<<"${FRASE_ANIOS%%años*}" | tr 'A-ZÁÉÍÓÚ' 'a-záéíóú'); do
+      if [[ "$w" =~ ^[0-9]+$ ]]; then N_ANIOS=$((N_ANIOS+w)); else N_ANIOS=$((N_ANIOS+${V_ANIOS[$w]:-0})); fi
+    done
+    SUMA_ANIOS=$((ANIO_HITO + N_ANIOS))
+    if [ "$N_ANIOS" -gt 0 ] && [ "$SUMA_ANIOS" -ge $((ANIO_HOY - 1)) ] && [ "$SUMA_ANIOS" -le $((ANIO_HOY + 1)) ]; then
+      printf '[AVISO]   Recuento de años anclado al presente: «%s» (%s + %s = %s) — caduca en el aniversario siguiente (Manual v1.20 § 5.9; no retroactivo)\n' "$FRASE_ANIOS" "$ANIO_HITO" "$N_ANIOS" "$SUMA_ANIOS"
+    else
+      ok "Distancia temporal: sin recuento anclado al presente"
+    fi
+  else
+    ok "Distancia temporal: sin recuento anclado al presente"
+  fi
 fi
 
 # ------------------------------------------------------------------ Veredicto

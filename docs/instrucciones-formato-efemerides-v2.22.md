@@ -1,10 +1,24 @@
 # Instrucciones de formato de salida para efemérides
-> Última actualización: 2026-10-19  
-> Versión: v2.21
+> Última actualización: 2026-10-21  
+> Versión: v2.22
 
 ---
 
 ## NOTA SOBRE ESTA VERSIÓN
+
+**Novedad de la v2.22.** Decisión del editor del 21-10-2026, a raíz del alta
+1940-10-26 (primer vuelo del NA-73X): **el post deja de consignar la distancia
+en años entre el hito y el presente**. El apartado «Años transcurridos desde el
+hito» se sustituye por «Distancia temporal con el presente» e invierte el valor
+por defecto: antes había que calcular la cifra; ahora hay que no escribirla,
+salvo cuando el aniversario es el asunto de la efeméride, con ancla explícita.
+Quedan a salvo las distancias entre dos hechos pasados y las aproximaciones a
+un tercer hecho histórico de datación imprecisa. En la lista de errores
+frecuentes, el redondeo de la cifra se sustituye por la inclusión indebida del
+recuento. **No retroactivo:** los 98 posts publicados con recuento conservan su
+cifra; el linter incorpora la auditoría [AVISO] 12 para detectarlos. En
+paralelo: Plantilla Maestra v2.23, Instrucciones de Procesar v2.17, Manual de
+Estilo v1.20, `tools/efemerides-linter.sh` y `docs/guia-del-linter.md`.
 
 **Novedad de la v2.21.** Orden del editor del 19-10-2026: el apartado «Tamaño de casa; se permite ampliar» deja de bifurcar por categoría —**1.200 × 675 para todas, incluida `nacimiento`**— y queda derogado el 800 × 1.000 del retrato. Se añade la regla de reparto del trabajo con la imagen: el investigador entrega la imagen al tamaño de casa cuando la toma lo permite; cuando el original es un retrato estrecho, entrega el archivo nativo con sus cotas y su enlace de origen por chat y el editor decide el recorte. En paralelo: Plantilla Maestra v2.22, Instrucciones de Procesar v2.16, Manual de Estilo v1.19, `tools/efemerides-linter.sh` y `docs/guia-del-linter.md`.
 
@@ -122,27 +136,28 @@ Motivo: observación del editor del 22-09-2026 sobre enlaces a Museum of Flying 
 - `18.15 horas`
 - `4,000 km`
 
-### Años transcurridos desde el hito
+### Distancia temporal con el presente
 
-Las efemérides se publican **el mismo día y el mismo mes del hecho**, de modo que
-la distancia temporal con el presente es un entero exacto:
-
-```
-años transcurridos = año de publicación − año del hito
-```
-
-El año de publicación se toma del campo `fecha_publicacion` del borrador aportado
-por el editor; si no consta, se emplea el año en curso.
+Las efemérides se publican **el mismo día y el mismo mes del hecho**. El post
+**no consigna los años transcurridos** entre el hito y el presente, en ninguna
+sección ni con ninguna fórmula: la cifra sería exacta el día de la publicación
+y falsa a partir del aniversario siguiente.
 
 **Correcto ✅**
-- hito de 1945, publicación en 2026 → `ochenta y un años después`
+- «Dos años después, en 1930, …» — distancia entre dos hechos pasados.
+- «El 26 de octubre de 2026 se cumplen cien años de…» — el aniversario es el
+  asunto de la efeméride y lleva ancla explícita.
 
 **Incorrecto ❌**
-- hito de 1945, publicación en 2026 → `ochenta años después`
+- «Ciento cincuenta y cinco años después de su nacimiento, Orville Wright
+  sigue siendo…» — recuento anclado al presente; será falso en 2027.
+- «Hace 92 años…», «se cumplen 103 años…», «X décadas más tarde», «un siglo
+  después» y toda referencia a un aniversario como medida de la distancia con
+  el presente.
 
-La cifra se escribe con letra cuando encabeza la frase. La regla alcanza a todas
-las formulaciones equivalentes: «X décadas más tarde», «un siglo después», «X años
-antes de hoy» y cualquier mención de aniversario.
+Quedan a salvo las distancias entre dos hechos pasados y las aproximaciones a
+un tercer hecho histórico de datación imprecisa.
+
 
 ---
 
@@ -403,8 +418,9 @@ viaja siempre en un commit único con su imagen.
   inaccesibles o el entorno técnico de trabajo;
 - consignar en «Discrepancias resueltas» comprobaciones rutinarias del
   procedimiento en lugar de divergencias reales entre fuentes;
-- redondear los años transcurridos desde el hito a la cifra redonda más próxima
-  en lugar de calcularlos sobre el año de publicación;
+- consignar la distancia en años entre el hito y el presente fuera del caso en
+  que el aniversario sea el asunto de la efeméride, o escribir el cómputo de
+  un centenario sin su ancla explícita;
 - validar una URL por su código de respuesta sin leer su contenido;
 - enlazar en el `<figure>` una ficha de archivo cuyo sujeto no es el de la
   efeméride.
@@ -501,6 +517,9 @@ recogía correctamente el criterio actual y no requirió modificación.
   publicación, tomado del campo `fecha_publicacion` del borrador.
 - Se exige la cifra exacta, no la redondeada.
 - Se añade a la lista de errores frecuentes el redondeo de esa cifra.
+
+**Derogado por la v2.22 el 21-10-2026:** el post no consigna la distancia en
+años con el presente.
 
 ---
 
@@ -714,3 +733,15 @@ Plantilla Maestra v2.21, Instrucciones de Procesar v2.15, `tools/efemerides-lint
 
 Plantilla Maestra v2.22, Instrucciones de Procesar v2.16, Manual de Estilo v1.19, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`.
 
+---
+
+## ACTUALIZACIONES DE FORMATO V2.22 — 2026-10-21
+
+- Derogada la regla de cómputo de años transcurridos (v2.5). El post no
+  consigna la distancia en años entre el hito y el presente.
+- Se mantienen las distancias entre dos hechos pasados, las aproximaciones a
+  un tercer hecho y el cómputo cuando el aniversario es el asunto de la
+  efeméride, que debe llevar ancla explícita.
+- Se sustituye en la lista de errores frecuentes el redondeo de la cifra por
+  la inclusión indebida del recuento.
+- No retroactivo: los 98 posts publicados con recuento conservan su cifra.

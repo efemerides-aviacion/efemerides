@@ -1,5 +1,5 @@
 # Guía del validador estructural de efemérides
-> Última actualización: 2026-10-19 (la auditoría de imagen deja de bifurcar por categoría: el tamaño de casa es **1.200 × 675 para todas**, incluida `nacimiento`, conforme a la Plantilla Maestra v2.22 y su regla maestra 12; el código y el número de comprobaciones no cambian). Actualización anterior: 2026-10-06 (a partir de hoy el validador audita además las bandas por sección; se documenta esa auditoría y se corrige el localizador del bloque `Resumen Ejecutivo`). Actualización anterior: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
+> Última actualización: 2026-10-21 (nueva auditoría [AVISO] 12: recuento de años anclado al presente, tras la derogación de la regla de cómputo — Manual de Estilo v1.20, § 5.9 —; no computa como fallo y no es retroactiva). > Última actualización: 2026-10-19 (la auditoría de imagen deja de bifurcar por categoría: el tamaño de casa es **1.200 × 675 para todas**, incluida `nacimiento`, conforme a la Plantilla Maestra v2.22 y su regla maestra 12; el código y el número de comprobaciones no cambian). Actualización anterior: 2026-10-06 (a partir de hoy el validador audita además las bandas por sección; se documenta esa auditoría y se corrige el localizador del bloque `Resumen Ejecutivo`). Actualización anterior: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
 
 ## Finalidad
 
@@ -76,3 +76,16 @@ auditoría nueva dejó 0 diferencias ajenas a ella y ningún cambio de código d
 4. Las excepciones nuevas deben documentarse simultáneamente en el registro humano y en el archivo legible por máquina.
 5. El linter debe ejecutarse después de la última edición. Si el post cambia luego, se renueva el timestamp y se vuelve a ejecutar.
 6. `APROBADO` acredita conformidad estructural automatizada, no veracidad histórica ni suficiencia de licencias.
+
+Desde el 2026-10-21 el validador emite un `[AVISO]` cuando el cuerpo del post
+contiene un **recuento de años anclado al presente** (Manual de Estilo v1.20,
+§ 5.9; Plantilla Maestra v2.23, regla maestra 9). La comprobación suma al año
+del hito —tomado del campo `date:` del YAML— la cifra hallada en fórmulas como
+«X años después», «hace X años», «se cumplen X años» o «al cumplirse X años»,
+tanto en número como en letra, y avisa cuando la suma cae en el año en curso o
+en el inmediato anterior o posterior: ese recuento es exacto el día de la
+publicación y falso a partir del aniversario siguiente. Quedan fuera de control
+las distancias entre dos hechos pasados («dos años después, en 1930…») y las
+comparaciones con un tercer hecho histórico, porque no caducan. El aviso no
+computa como fallo y **no es retroactivo**: los 98 posts publicados con
+recuento conservan su cifra y se limpian cuando se revisen.

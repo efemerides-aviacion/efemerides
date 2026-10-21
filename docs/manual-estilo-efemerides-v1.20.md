@@ -1,6 +1,6 @@
 # Manual de Estilo de Efemérides
-> Edición consolidada: 2026-10-19  
-> Versión: v1.19
+> Edición consolidada: 2026-10-21  
+> Versión: v1.20
 
 ---
 
@@ -211,17 +211,20 @@ Expone los efectos inmediatos o de corto plazo (150–210 palabras: recompensas 
 Expone la proyección a largo plazo (110–160 palabras: trayectoria posterior de los protagonistas hasta su fallecimiento y memoria material o institucional vigente en museos, archivos, aeropuertos, monumentos o hermanamientos).
 
 ### 5.9 Distancia temporal con el presente
-Las efemérides se publican **el mismo día y el mismo mes del hito**. Cuando el
-texto menciona los años transcurridos —habitualmente en `## Legado`—, la cifra
-es un entero exacto:
+Las efemérides se publican **el mismo día y el mismo mes del hito**. El post
+**no consigna los años transcurridos** entre el hecho y el presente, en ninguna
+sección ni con ninguna fórmula: una cifra fijada el día de la publicación es
+exacta ese día y falsa a partir del aniversario siguiente, y estas efemérides
+se leen durante años.
 
-```
-años transcurridos = año de publicación − año del hito
-```
+Se exceptúan las distancias medidas entre dos hechos pasados, las
+aproximaciones referidas a un tercer hecho histórico de datación imprecisa y el
+cómputo cuando el aniversario es el asunto de la efeméride —centenarios y
+aniversarios redondos—, que se escribe con su ancla explícita: «al cumplirse
+hoy cien años de…», «el 26 de octubre de 2026 se cumplen cien años de…».
 
-El año de publicación se toma del campo `fecha_publicacion` del borrador. Se
-emplea la cifra exacta, no la redondeada: para un hito de 1945 publicado en 2026,
-«ochenta y un años después», nunca «ochenta años después».
+El ancla temporal del post es la fecha del hecho, que consta en el título, en
+el YAML, en «Datos verificados» y en el «Desarrollo Cronológico».
 
 ### 5.10 Extensión orientativa para lectura móvil (no retroactiva)
 Para asegurar una lectura ágil en pantalla de teléfono inteligente, el cuerpo narrativo del post (desde `<!-- ## Resumen Ejecutivo -->` hasta el final de `## Legado`, descontadas las etiquetas HTML y las URLs) debe situarse en una banda de **1.150 a 1.500 palabras** (óptimo en torno a la mediana histórica del corpus, ≈1.300 palabras, y tope máximo recomendado de **1.550 palabras**), lo que corresponde a un archivo `.md` completo de **14 a 18 KB**. Esta norma rige para las nuevas altas a partir del 29-09-2026 y no tiene efecto retroactivo sobre los 608 posts ya publicados.
@@ -507,8 +510,9 @@ investigador (14 de agosto de 2026).
 - cerrar un post con menos de cuatro referencias verificadas (§ 8.4);
 - tratar la descripción libre de una ficha de repositorio colaborativo como si
   fuera una fuente publicada en discrepancia (§ 8.6);
-- redondear a la baja los años transcurridos desde el hito, o calcularlos
-  sobre un año de publicación distinto del real (§ 5.9).
+- consignar la distancia en años entre el hito y el presente fuera del caso
+  en que el aniversario sea el asunto de la efeméride, o hacerlo sin ancla
+  explícita (§ 5.9);
 - dar por buena una URL porque responde, sin comprobar que su contenido
   corresponde al sujeto de la efeméride (§ 8.6);
 - enlazar en el `<figure>` una ficha de archivo que retrata a otra persona,
@@ -536,7 +540,8 @@ investigador (14 de agosto de 2026).
 - [ ] ¿Cada enlace cruzado aparece una sola vez y ninguno apunta al propio post?
 - [ ] ¿La nota aclaratoria protege contra malentendidos?
 - [ ] ¿El post está limpio de menciones al borrador, a enlaces caídos y al entorno técnico?
-- [ ] ¿Los años transcurridos desde el hito coinciden con la resta entre el año de publicación y el del hecho?
+- [ ] ¿El post no consigna la distancia en años con el presente, salvo que
+      el aniversario sea el asunto de la efeméride y lleve ancla explícita?
 - [ ] ¿Se leyó el contenido de cada ficha de archivo enlazada y corresponde al sujeto?
 - [ ] ¿Todos los enlaces internos usan la URL canónica con barras, sin guion terminal en el slug?
 - [ ] ¿Queda fuera del post toda línea de estado del documento y toda nota de resolución de imagen?
@@ -607,6 +612,12 @@ redonda es un error recurrente que debe verificarse al cierre.
 
 Se añaden en consecuencia una entrada en el punto 13 (errores que deben evitarse)
 y una comprobación en el punto 14 (checklist del Editor Senior).
+
+**Derogado por la v1.20 (21-10-2026).** La regla se deroga porque fijaba en el
+post una cifra exacta el día de la publicación y falsa a partir del aniversario
+siguiente. Censo sobre 659 posts: 98 con recuento anclado al presente, dos de
+ellos ya incorrectos (`1955-12-09-inauguracion-base-aerea-el-libertador` y
+`1985-10-25-fundacion-emirates-primeros-vuelos`).
 ---
 
 ## 19. Actualizaciones editoriales v1.6 — 2026-08-05
@@ -792,3 +803,11 @@ Alineadas en la misma fecha: Plantilla Maestra v2.20, Instrucciones de Formato v
 
 Alineadas en la misma fecha: Plantilla Maestra v2.22, Instrucciones de Formato v2.21, Instrucciones de Procesar v2.16, `tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`.
 
+## 31. Actualizaciones editoriales v1.20 — 2026-10-21
+
+### Supresión de la cuenta de años transcurridos
+
+Se deroga el cómputo incorporado en la v1.5. El post deja de consignar la
+distancia en años entre el hito y el presente y se ancla en la fecha. No
+retroactivo: los 98 posts afectados conservan su cifra y se limpian cuando se
+revisen por cualquier motivo.
