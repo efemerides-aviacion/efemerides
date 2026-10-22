@@ -1,6 +1,6 @@
 # Protocolo de continuidad entre sesiones
 
-> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, actualizada el 1 de octubre de 2026 para registrar Formato v2.19 y actualizada el 2 de octubre de 2026 para registrar Plantilla Maestra v2.21, Formato v2.20 e Instrucciones de Procesar v2.15 tras la corrección de coherencia del flujo de commit, y actualizada el 10 de octubre de 2026 para anclar la rama en toda consulta al repositorio y registrar la auditoría 11 del linter (bandas por sección), y el 19 de octubre de 2026 para registrar Plantilla Maestra v2.22, Formato v2.21, Procesar v2.16 y Manual de Estilo v1.19 tras la unificación del tamaño de casa en 1.200 × 675 para todas las categorías. y el 21 de octubre de 2026 para registrar Plantilla Maestra v2.23, Formato v2.22, Procesar v2.17 y Manual de Estilo v1.20 tras la derogación de la cuenta de años transcurridos, y el 21 de octubre de 2026 para registrar la directiva del editor sobre el reparto del trabajo con la imagen (§ 5, criterios consolidados). No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
+> Propuesta operativa preparada el 5 de septiembre de 2026, actualizada el 25 de septiembre de 2026 para versionar el detector de ecos `tools/eco7.py`, actualizada el 29 de septiembre de 2026 para reflejar los rectores vigentes tras la enmienda de asignación única, extensión y metadatos telegráficos, actualizada el 1 de octubre de 2026 para registrar Formato v2.19 y actualizada el 2 de octubre de 2026 para registrar Plantilla Maestra v2.21, Formato v2.20 e Instrucciones de Procesar v2.15 tras la corrección de coherencia del flujo de commit, y actualizada el 10 de octubre de 2026 para anclar la rama en toda consulta al repositorio y registrar la auditoría 11 del linter (bandas por sección), y el 19 de octubre de 2026 para registrar Plantilla Maestra v2.22, Formato v2.21, Procesar v2.16 y Manual de Estilo v1.19 tras la unificación del tamaño de casa en 1.200 × 675 para todas las categorías. el 21 de octubre de 2026 para registrar Plantilla Maestra v2.23, Formato v2.22, Procesar v2.17 y Manual de Estilo v1.20 tras la derogación de la cuenta de años transcurridos (auditoría [AVISO] 12), el 21 de octubre de 2026 para registrar Plantilla Maestra v2.24, Formato v2.23, Procesar v2.18 y Manual de Estilo v1.21 sobre el reparto del trabajo con la imagen y la convención de entrega en `rectores/`, y el 22 de octubre de 2026 para registrar Plantilla Maestra v2.25, Formato v2.24 y Manual de Estilo v1.22 (Procesar v2.18 sin novedad), la auditoría [AVISO] 13 sobre títulos de realeza y nobleza en minúscula (D1-c), el paso a RECTOR del reparto de la imagen en § 5 y la ratificación de `en-proceso/` en § 7. No modifica por sí sola los seis rectores ni levanta su moratoria. Su finalidad es que cada `AAAA-MM-DD-ESTADO-Y-PENDIENTES.md` permita reconstruir una sesión nueva sin memoria implícita ni archivos locales heredados.
 
 ## Principio
 
@@ -57,10 +57,10 @@ https://api.github.com/repos/efemerides-aviacion/efemerides/branches/restauracio
 
 Debe enumerar nominalmente los seis rectores y sus versiones:
 
-1. `docs/plantilla-maestra-efemerides-v2.23.md`
-2. `docs/instrucciones-formato-efemerides-v2.22.md`
-3. `docs/instrucciones-procesar-efemerides-v2.17.md`
-4. `docs/manual-estilo-efemerides-v1.20.md`
+1. `docs/plantilla-maestra-efemerides-v2.25.md`
+2. `docs/instrucciones-formato-efemerides-v2.24.md`
+3. `docs/instrucciones-procesar-efemerides-v2.18.md`
+4. `docs/manual-estilo-efemerides-v1.22.md`
 5. `docs/anexo-comparacion-tratamientos-y-rangos.md`
 6. `docs/excepciones-rangos-y-tratamientos.md`
 
@@ -84,6 +84,12 @@ posts con al menos una sección fuera de banda y 29 conformes; por sección, Res
 Contexto 510, Desarrollo 425 más 398 con hitos fuera de 5–7, Consecuencias 443, Legado 433. La
 regresión completa sobre los 632 posts dejó 0 diferencias ajenas a la auditoría nueva y ningún cambio
 de código de salida.
+Desde el 21-10-2026 se añade la auditoría `[AVISO] 12`, no retroactiva, que señala los recuentos de
+años anclados al presente (Manual v1.20 § 5.9; 98 posts congelados en el corpus), y desde el
+22-10-2026 la auditoría `[AVISO] 13`, no retroactiva, que señala los títulos de realeza, nobleza y
+dignidades capitalizados ante nombre propio o denominación nobiliaria (Manual v1.22 § 4.3, decisión
+D1-c; 14 posts y 34 ocurrencias congeladas sobre 661 posts en `ef6d75235e30`, con 0 cambios de
+código de salida).
 
 `tools/eco7.py` es la fuente de verdad del detector de ecos desde su incorporación al repositorio el 25 de septiembre de 2026. No debe depender de una copia única en `/home/user/herramientas/`, de un adjunto ni de un equipo local. La copia versionada se recupera con el sparse-checkout de `tools/`. Si el archivo falta, su hash difiere del registrado o no supera las comprobaciones de apertura, debe reconstruirse el clon desde el HEAD remoto antes de auditar contenido.
 
@@ -124,24 +130,26 @@ Solo se registran decisiones que afecten sesiones futuras. Cada una se marca com
 
 No se arrastran indefinidamente reglas ya localizables y claras en los rectores; basta la remisión correspondiente.
 
-#### Reparto del trabajo con la imagen — PROVISIONAL (directiva del editor, 21-10-2026)
+#### Reparto del trabajo con la imagen — RECTOR (directiva del editor, 21-10-2026)
 
-Acuerdo antiguo del editor que no constaba por escrito y que la redacción del 19-10-2026
-dejó invertido: los rectores convirtieron en excepción lo que es la regla general. La
-enmienda quedó preparada el mismo 21-10-2026 —Plantilla v2.24, Formato v2.23, Procesar
-v2.18 y Manual v1.21— y **pasa a RECTOR en cuanto el editor la empuje**; hasta entonces
-prevalece lo de aquí. Texto íntegro en `2026-10-21-DIRECTIVA-IMAGEN-REPARTO-CON-EL-EDITOR.md`
-y en `apertura-21-10/ENMIENDA-IMAGEN-REPARTO-CON-EL-EDITOR.md`.
+Incorporado a los cuatro rectores en el commit `3e3ae21dd8d9` (Plantilla Maestra v2.24+, regla
+maestra 12; Instrucciones de Formato v2.23+; Instrucciones de Procesar v2.18; Manual de Estilo
+v1.21+, § 7.6):
 
-- **El investigador elige la imagen** y la propone con su fuente y su licencia acreditadas.
-- **El encuadre y la conversión a 1.200 × 675 los hace el editor**, en Photopea, y no solo
-  cuando el original sea un retrato estrecho, sino en todas las altas.
-- **El `<figcaption>` debe llevar el enlace a la imagen de origen.** Es el dato que el editor
-  necesita: se guía por ese enlace para descargar el original y convertirlo él mismo.
-- **No se invierte tiempo en que la imagen propia coincida con la del editor.** Cuando él
-  empuje el commit y lo comunique, la imagen publicada es la suya y pasa a ser la vigente.
-- Sin enlace de origen en el pie, el editor no tiene por dónde descargar: la alta queda
-  bloqueada por omisión del investigador, no del editor.
+- **El investigador elige la imagen**, acredita fuente y licencia y consigna siempre en el
+  `<figcaption>` el **enlace al archivo de origen**; sin ese enlace la alta queda bloqueada por
+  omisión del investigador.
+- **El editor encuadra y exporta a 1.200 × 675** en Photopea en todas las altas; no se entrega
+  recorte propio ni se mide la calidad de la imagen publicada por el editor.
+
+#### Títulos de realeza, nobleza y dignidades — RECTOR (decisión D1-c del editor, 22-10-2026)
+
+Incorporado en Manual de Estilo v1.22 (§ 4.3), Plantilla Maestra v2.25 (regla maestra 5),
+Instrucciones de Formato v2.24 y auditoría `[AVISO] 13` de `tools/efemerides-linter.sh`: los
+títulos reales, nobiliarios y dignidades caballerescas o tradicionales (*rey*, *reina*,
+*emperador*, *príncipe*, *conde*, *marqués*, *barón*, *lord*, *lady*, *sir*, *jeque*…) se escriben
+con minúscula inicial ante nombre propio o denominación nobiliaria, conforme a la *Ortografía* de
+la RAE y a D1-a, sin efecto retroactivo sobre cierres comunicados.
 
 ### 6. Observaciones sin acción y asuntos reservados al editor
 
@@ -178,7 +186,7 @@ Reglas:
 
 - nunca materializar `assets/img`;
 - no asumir que el `.git` o los archivos locales sobreviven a un chat nuevo; las herramientas obligatorias deben recuperarse desde `tools/` en el HEAD remoto;
-- `en-proceso/` se purga solo después de confirmar publicación y cotejo;
+- `en-proceso/` (`en-proceso/post/` y `en-proceso/img/`, ratificada por el editor el 22-10-2026 como carpeta de trabajo de las altas) se purga solo después de confirmar publicación y cotejo;
 - las carpetas de resguardo solo se eliminan por orden del editor;
 - el agente no hace commit ni push;
 - el editor publica mediante GitHub Desktop.

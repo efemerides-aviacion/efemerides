@@ -1,6 +1,6 @@
 # Manual de Estilo de Efemérides
-> Edición consolidada: 2026-10-21  
-> Versión: v1.21
+> Edición consolidada: 2026-10-22  
+> Versión: v1.22
 
 ---
 
@@ -121,6 +121,32 @@ nombre propio sin institución (*el presidente Juan Pablo Rojas Paúl*) y en uso
 genérico (*el propio presidente*). La distinción no atiende a la jerarquía del
 cargo, sino a que la denominación institucional forme parte del nombre oficial
 del órgano.
+
+**Títulos de realeza, nobleza y dignidades (D1-c, decisión del editor del
+22-10-2026).** Los títulos reales, nobiliarios y dignidades caballerescas o
+tradicionales —*rey, reina, emperador, emperatriz, zar, zarina, káiser,
+príncipe, princesa, infante, infanta, archiduque, archiduquesa, duque, duquesa,
+marqués, marquesa, conde, condesa, vizconde, vizcondesa, barón, baronesa, lord,
+lady, sir, sultán, emir, jeque* y análogos— siguen la pauta general de la
+*Ortografía* de la RAE y la regla de los cargos civiles (D1-a): se escriben con
+minúscula inicial tanto cuando preceden al nombre propio o a la denominación
+del título (*el rey Alfonso XIII*, *la reina Guillermina*, *el emperador
+Hirohito*, *el conde Ferdinand von Zeppelin*, *el marqués d'Arlandes*, *lord
+Brabazon of Tara*, *lady Grace Drummond-Hay*, *sir Frank Whittle*, *el jeque
+Mohammed bin Rashid Al Maktoum*) como en uso genérico (*el rey presidió la
+inauguración*, *la perseverancia del conde*). Conservan mayúscula inicial
+únicamente cuando integran un sobrenombre o apodo antonomástico (*el Barón
+Rojo*, *el Rey del Café*, *la Reina de los Cielos*, *Lady Lindy*), el nombre
+propio de una aeronave, buque, premio, institución o infraestructura (*Lucky
+Lady II*, *Emperador Kanishka*, *Copa del Rey*, *Fundación Infante de Orleans*,
+*Aeropuerto Reina Sofía*), un topónimo (*Puerto Príncipe*, *Duque de Caxias*,
+*río Sir Daria*, *sector El Conde*), un nombre de pila o apellido homónimo
+(*Reina Pennington*, *Señora Emperatriz Fornés*) o títulos bibliográficos en
+lengua extranjera dentro de `## Referencias Verificadas`, además de la
+mayúscula posicional de inicio de enunciado. Norma **no retroactiva**: no
+reabre cierres comunicados y las grafías capitalizadas previas quedan
+congeladas hasta que el post se revise por otro motivo; `efemerides-linter.sh`
+la audita en modo `[AVISO]` (auditoría 13).
 
 **Fundamento de la desviación respecto a la Ortografía de la RAE** —que
 prescribe minúscula uniforme para grados, jerarquías y tratamientos—: es una
@@ -529,6 +555,7 @@ investigador (14 de agosto de 2026).
 - capitalizar cargos u oficios civiles ante nombre propio, o escribir en minúscula el plural de grado que encabeza una lista de nombres (§ 4.3, decisiones D1-a y D2-a de 2026-09-03);
 - aplicar el verbo *adolecer* a una máquina, aeronave o sistema (§ 4.2);
 - escribir en minúscula un cargo civil que encabeza una denominación institucional capitalizada, o en mayúscula un cargo civil fuera de ese supuesto (§ 4.3, D1-a y D1-b);
+- capitalizar títulos de realeza, nobleza o dignidades (*rey*, *reina*, *príncipe*, *conde*, *marqués*, *barón*, *lord*, *lady*, *sir*, *jeque*…) ante nombre propio o denominación nobiliaria, fuera de apodos antonomásticos, nombres propios de aeronaves, premios o instituciones y topónimos (§ 4.3, D1-c);
 - insertar en el cuerpo narrativo enlaces externos a museos, archivos, repositorios o instituciones que corresponden a `## Referencias Verificadas` o al `<figcaption>` (§ 6.4);
 - repetir fuera del `Resumen Ejecutivo` hechos, cifras técnicas, episodios cronológicos o premios entre distintas secciones del post, o superar las 1.550 palabras narrativas (§ 5);
 - redactar `## Metadatos de Control` con textos largos (>150 palabras) o duplicando en sus listas de fuentes los títulos, autores y descripciones de `## Referencias Verificadas` (§ 10).
@@ -832,3 +859,28 @@ Alineadas en la misma fecha: Plantilla Maestra v2.24, Instrucciones de Formato v
 de Procesar v2.18, además de `docs/protocolo-continuidad-sesiones.md`. Sin cambios en
 `tools/efemerides-linter.sh` ni en `docs/guia-del-linter.md`: la imagen publicada sigue debiendo medir
 1.200 × 675.
+
+## 33. Actualizaciones editoriales v1.22 — 2026-10-22
+
+- **§ 4.3 ampliada (decisión D1-c del editor):** los títulos de realeza, nobleza y dignidades
+  caballerescas o tradicionales (*rey*, *reina*, *emperador*, *príncipe*, *conde*, *marqués*,
+  *barón*, *lord*, *lady*, *sir*, *jeque*…) se escriben con **minúscula inicial** ante nombre
+  propio o denominación nobiliaria, conforme a la *Ortografía* de la RAE y en consonancia con los
+  cargos civiles (D1-a), elevando a regla rectora el criterio provisional aplicado el 20-10-2026.
+  Quedan a salvo los sobrenombres antonomásticos (*Barón Rojo*, *Rey del Café*, *Reina de los
+  Cielos*, *Lady Lindy*), los nombres propios de aeronaves, premios, instituciones o
+  infraestructuras (*Lucky Lady II*, *Emperador Kanishka*, *Copa del Rey*, *Fundación Infante de
+  Orleans*, *Aeropuerto Reina Sofía*), los topónimos (*Puerto Príncipe*, *Duque de Caxias*, *río
+  Sir Daria*, *sector El Conde*), los antropónimos homónimos y los títulos bibliográficos de
+  `## Referencias Verificadas`.
+- **§ 13, viñeta nueva de errores** remitiendo a § 4.3 (D1-c).
+- **Alcance no retroactivo y auditoría:** rige para las entregas desde el 22-10-2026 sin reabrir
+  cierres comunicados. En la fotografía del HEAD `ef6d75235e30` (661 posts), todos los monarcas y
+  títulos continentales de prosa (*rey*, *reina*, *emperador*, *zar*, *conde Zeppelin*, *marqués
+  d'Arlandes*, *jeque*) ya seguían la minúscula, y la nueva auditoría `[AVISO] 13` de
+  `tools/efemerides-linter.sh` señala únicamente 14 posts con 34 ocurrencias residuales (`Sir` 18,
+  `Lord` 8, `Lady` 4, `Conde del Jarama` 4), con 0 cambios de código de salida en los 661 posts.
+
+Alineadas en la misma fecha: Plantilla Maestra v2.25, Instrucciones de Formato v2.24,
+`tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`.
+Instrucciones de Procesar v2.18: sin novedad.

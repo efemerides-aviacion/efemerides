@@ -1,5 +1,5 @@
 # Guía del validador estructural de efemérides
-> Última actualización: 2026-10-21 (nueva auditoría [AVISO] 12: recuento de años anclado al presente, tras la derogación de la regla de cómputo — Manual de Estilo v1.20, § 5.9 —; no computa como fallo y no es retroactiva). > Última actualización: 2026-10-19 (la auditoría de imagen deja de bifurcar por categoría: el tamaño de casa es **1.200 × 675 para todas**, incluida `nacimiento`, conforme a la Plantilla Maestra v2.22 y su regla maestra 12; el código y el número de comprobaciones no cambian). Actualización anterior: 2026-10-06 (a partir de hoy el validador audita además las bandas por sección; se documenta esa auditoría y se corrige el localizador del bloque `Resumen Ejecutivo`). Actualización anterior: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
+> Última actualización: 2026-10-22 (nueva auditoría [AVISO] 13: títulos de realeza, nobleza y dignidades en minúscula ante nombre propio — Manual de Estilo v1.22, § 4.3, decisión D1-c; Plantilla Maestra v2.25, regla maestra 5; Instrucciones de Formato v2.24 —; no computa como fallo y no es retroactiva). Actualización anterior: 2026-10-21 (nueva auditoría [AVISO] 12: recuento de años anclado al presente, tras la derogación de la regla de cómputo — Manual de Estilo v1.20, § 5.9 —; no computa como fallo y no es retroactiva). > Última actualización: 2026-10-19 (la auditoría de imagen deja de bifurcar por categoría: el tamaño de casa es **1.200 × 675 para todas**, incluida `nacimiento`, conforme a la Plantilla Maestra v2.22 y su regla maestra 12; el código y el número de comprobaciones no cambian). Actualización anterior: 2026-10-06 (a partir de hoy el validador audita además las bandas por sección; se documenta esa auditoría y se corrige el localizador del bloque `Resumen Ejecutivo`). Actualización anterior: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
 
 ## Finalidad
 
@@ -89,3 +89,29 @@ las distancias entre dos hechos pasados («dos años después, en 1930…») y l
 comparaciones con un tercer hecho histórico, porque no caducan. El aviso no
 computa como fallo y **no es retroactivo**: los 98 posts publicados con
 recuento conservan su cifra y se limpian cuando se revisen.
+
+Desde el 2026-10-22 el validador emite un `[AVISO]` (auditoría 13) cuando el
+`title:` o `excerpt:` del YAML o la prosa del post —incluida la `Nota
+aclaratoria` y excluido el listado bibliográfico de `## Referencias
+Verificadas`— contienen un **título de realeza, nobleza o dignidad
+caballeresca/tradicional con mayúscula inicial ante nombre propio o
+denominación nobiliaria** (*Rey*, *Reina*, *Emperador*, *Emperatriz*, *Zar*,
+*Káiser*, *Príncipe*, *Princesa*, *Infante*, *Duque*, *Marqués*, *Conde*,
+*Vizconde*, *Barón*, *Lord*, *Lady*, *Sir*, *Sultán*, *Emir*, *Jeque*…; Manual
+de Estilo v1.22, § 4.3, decisión **D1-c**; Plantilla Maestra v2.25, regla
+maestra 5; Instrucciones de Formato v2.24). El filtro descarta la mayúscula
+posicional de inicio de enunciado, los sobrenombres antonomásticos (*Barón
+Rojo*, *Rey del Café*, *Reina de los Cielos*, *Lady Lindy*), los nombres
+propios de aeronaves, premios, instituciones o infraestructuras (*Lucky Lady*,
+*Emperador Kanishka*, *Copa del Rey*, *Fundación Infante de Orleans*,
+*Aeropuerto Reina Sofía*), los topónimos (*Puerto Príncipe*, *Duque de Caxias*,
+*río Sir Daria*, *sector El Conde*) y los antropónimos homónimos, y admite
+exenciones expresas en `tools/efemerides-rangos-excepciones.txt`. Fotografía
+del corpus en el HEAD `ef6d75235e30` (2026-10-22; 661 posts): **14 posts** y
+**34 ocurrencias** residuales (`Sir` 18 en 10 posts, `Lord` 8 en 3 posts,
+`Lady` 4 en 2 posts y `Conde del Jarama` 4 en 1 post; 0 ocurrencias en
+mayúscula de *rey*, *reina*, *emperador*, *zar*, *conde Zeppelin*, *marqués* o
+*jeque*). La regresión completa sobre los 661 posts dejó **0 cambios de código
+de salida** y **0 diferencias ajenas a la auditoría 13**; el post del
+`1943-10-26` (Do 335) pasa con 61 comprobaciones `[OK]`, 0 avisos y 0 fallos.
+La norma **no es retroactiva**: los 14 posts previos quedan congelados.

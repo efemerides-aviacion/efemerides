@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 # ============================================================================
 # efemerides-linter.sh — Validador estructural de posts de efemérides
-# Normas auditadas: Plantilla Maestra v2.23 · Manual de Estilo v1.20 ·
-# Instrucciones de Procesar v2.17 · Instrucciones de Formato v2.22 ·
+# Normas auditadas: Plantilla Maestra v2.25 · Manual de Estilo v1.22 ·
+# Instrucciones de Procesar v2.18 · Instrucciones de Formato v2.24 ·
 # anexo y registro de excepciones de rangos/tratamientos.
 # Reconstruido el 2026-09-03; alineado y preparado para versionado el 2026-09-05;
 # alineado con Manual v1.16 (aviso léxico «adolecer», todas sus formas, § 4.2) el 2026-09-17;
@@ -31,6 +31,12 @@
 # Instrucciones de Formato v2.22 el 2026-10-21
 # (derogada la regla de cómputo de años transcurridos — Manual v1.20 § 5.9 —: nueva auditoría
 #  [AVISO] 12, que señala todo recuento anclado al presente; no retroactiva y no computa como fallo).
+# alineado con Plantilla Maestra v2.24 · Instrucciones de Formato v2.23 · Instrucciones de Procesar v2.18 ·
+# Manual de Estilo v1.21 el 2026-10-21 (reparto del trabajo con la imagen; sin cambios de código).
+# alineado con Plantilla Maestra v2.25 · Manual de Estilo v1.22 · Instrucciones de Formato v2.24 el 2026-10-22
+# (Instrucciones de Procesar v2.18: sin novedad; decisión D1-c — Manual v1.22 § 4.3, regla maestra 5 —:
+#  nueva auditoría [AVISO] 13, que señala títulos de realeza, nobleza y dignidades capitalizados ante
+#  nombre propio o denominación nobiliaria; no retroactiva y no computa como fallo).
 #
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
@@ -608,6 +614,53 @@ if [ -n "$ANIO_HITO" ]; then
     ok "Distancia temporal: sin recuento anclado al presente"
   fi
 fi
+
+# -------------------- Títulos de realeza, nobleza y dignidades (13, D1-c)
+# Aviso, no fallo: títulos reales, nobiliarios y dignidades caballerescas o tradicionales
+# siguen la minúscula de la Ortografía de la RAE (decisión D1-c del editor, 2026-10-22;
+# Manual v1.22 § 4.3; Plantilla Maestra v2.25, regla maestra 5; Formato v2.24).
+# Se auditan YAML (title/excerpt) y prosa hasta «## Metadatos de Control», saltando
+# únicamente el listado de «## Referencias Verificadas» (títulos bibliográficos externos),
+# e incluyendo la «Nota aclaratoria». No retroactivo: no computa como fallo.
+REAL_TIT_RE="(^|[^A-Za-zÁÉÍÓÚÜÑáéíóúüñ])(Rey|Reina|Emperador|Emperatriz|Zar|Zarina|K[áa]iser|Pr[íi]ncipe|Princesa|Infante|Infanta|Archiduque|Archiduquesa|Duque|Duquesa|Marqu[ée]s|Marquesa|Conde|Condesa|Vizconde|Vizcondesa|Bar[óo]n|Baronesa|Lord|Lady|Sir|Sult[áa]n|Emir|Jeque)([[:space:]]+(de([[:space:]]+(la|los|las))?|del|von|van|d['’])?[[:space:]]*[A-ZÁÉÍÓÚÜÑ][A-Za-zÁÉÍÓÚÜÑa-záéíóúüñ'’-]+)"
+REAL_PRE_INIT="(^[[:space:]]*|[.!?;:|(\[«\"“‘—–-][[:space:]]*|\*\*[[:space:]]*)$"
+REAL_PRE_EXCL="(^|[^A-Za-zÁÉÍÓÚÜÑáéíóúüñ])(Aeropuerto|Puerto|Fuerte|fuerte|R[íi]o|r[íi]o|Isla|isla|Canal|canal|Bah[íi]a|bah[íi]a|Estrecho|estrecho|Cabo|cabo|Monte|monte|Valle|valle|Sector|sector|Parque|parque|Puente|puente|Avenida|avenida|Plaza|plaza|Calle|calle|Base|base|Estaci[óo]n|estaci[óo]n|Fundaci[óo]n|Museo|Museu|Centro|centro|m[ée]dico|M[ée]dico|Ci[èe]ncies|Ciencias|Arte|Universidad|Instituto|Hospital|Teatro|Palacio|Castillo|Hotel|Copa|Premio|Trofeo|Orden|Medalla|Cruz|Menci[óo]n|Señor|Señora|Señorita|Don|Doña|Lucky|Dragon|First|Red|Iron|Leading|bautizado|bautizada|apodado|apodada)[[:space:]]+$"
+REAL_FRAG_EXCL="^(Bar[óo]n[[:space:]]+Rojo|Rey[[:space:]]+del?[[:space:]]+(los[[:space:]]+|las[[:space:]]+)?(Cielos?|cielo|Caf[ée]|Planeadores)|Reina[[:space:]]+de[[:space:]]+los[[:space:]]+Cielos|Duquesa[[:space:]]+de[[:space:]]+la[[:space:]]+Aviaci[óo]n|Lady[[:space:]]+Lindy|Emperador[[:space:]]+Kanishka|Reina[[:space:]]+Pennington)($|[^A-Za-zÁÉÍÓÚÜÑáéíóúüñ])"
+REAL_CANDS=$(awk '
+  /^---$/ { yc++; in_yaml = (yc == 1); next }
+  in_yaml { if ($0 ~ /^(title|excerpt):/) print NR "|" $0; next }
+  /^## Referencias Verificadas[[:space:]]*$/ { in_refs = 1; next }
+  /^## Metadatos de Control[[:space:]]*$/ { exit }
+  in_refs { if ($0 ~ /^<hr/ || $0 ~ /^## /) in_refs = 0; else next }
+  { print NR "|" $0 }
+' "$FILE" | sed -e 's/<[^>]*>//g' -e 's#https\?://[^ )>"]*##g' \
+  | grep -E "(Rey|Reina|Emperador|Emperatriz|Zar|Zarina|K[áa]iser|Pr[íi]ncipe|Princesa|Infante|Infanta|Archiduque|Archiduquesa|Duque|Duquesa|Marqu[ée]s|Marquesa|Conde|Condesa|Vizconde|Vizcondesa|Bar[óo]n|Baronesa|Lord|Lady|Sir|Sult[áa]n|Emir|Jeque)[[:space:]]" || true)
+REAL_N=0
+if [ -n "$REAL_CANDS" ]; then
+  BFILE=$(basename "$FILE")
+  while IFS= read -r r_row; do
+    [ -z "$r_row" ] && continue
+    r_ln="${r_row%%|*}"; r_rest="${r_row#*|}"
+    while [[ -n "$r_rest" && "$r_rest" =~ $REAL_TIT_RE ]]; do
+      r_full="${BASH_REMATCH[0]}"; r_lead="${BASH_REMATCH[1]}"
+      r_tit="${BASH_REMATCH[2]}"; r_tail="${BASH_REMATCH[3]}"
+      r_frag="${r_tit}${r_tail}"
+      r_pref="${r_rest%%"$r_full"*}${r_lead}"
+      r_adv=$(( ${#r_pref} + ${#r_tit} ))
+      r_rest="${r_rest:$r_adv}"
+      [[ "$r_pref" =~ $REAL_PRE_INIT ]] && continue
+      [[ "$r_pref" =~ $REAL_PRE_EXCL ]] && continue
+      [[ "$r_frag" =~ $REAL_FRAG_EXCL ]] && continue
+      if MOT=$(exc_hit "$BFILE" "$r_frag"); then
+        printf '[AVISO]   Excepción D1-c en línea %s: «%s» — %s\n' "$r_ln" "$r_frag" "$MOT"
+        continue
+      fi
+      REAL_N=$((REAL_N+1))
+      printf '[AVISO]   Título de realeza/nobleza capitalizado ante nombre propio (línea %s): «%s» — minúscula inicial según RAE (Manual v1.22 § 4.3, decisión D1-c; no retroactivo)\n' "$r_ln" "$r_frag"
+    done
+  done <<<"$REAL_CANDS"
+fi
+[ "$REAL_N" -eq 0 ] && ok "Títulos de realeza y nobleza: sin mayúscula indebida ante nombre propio (D1-c, Manual v1.22 § 4.3)"
 
 # ------------------------------------------------------------------ Veredicto
 if [ -n "$GREP_ERR" ]; then fail "Auditoría(s) de rangos estropeadas (error de grep en: $GREP_ERR) — no se puede certificar ninguna ausencia de violaciones"; fi

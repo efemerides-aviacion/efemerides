@@ -1,10 +1,31 @@
 # Documento Maestro de Plantillas de Efemérides de Aviación
-> Última actualización: 2026-10-21  
-> Versión: v2.24
+> Última actualización: 2026-10-22  
+> Versión: v2.25
 
 ---
 
 ## Nota sobre esta versión
+
+**Novedad de la v2.25.** Decisión del editor del 22-10-2026 (**D1-c**): **los títulos de
+realeza, nobleza y dignidades caballerescas o tradicionales siguen la minúscula inicial de la
+RAE ante nombre propio o denominación nobiliaria**, igual que los cargos civiles (D1-a) —*el rey
+Alfonso XIII*, *la reina Guillermina*, *el emperador Hirohito*, *el conde Ferdinand von Zeppelin*,
+*el marqués d'Arlandes*, *lord Brabazon of Tara*, *lady Grace Drummond-Hay*, *sir Frank Whittle*,
+*el jeque Mohammed bin Rashid Al Maktoum*—, elevando a norma rectora el criterio provisional del
+20-10-2026. Solo conservan mayúscula inicial cuando integran sobrenombres antonomásticos (*el
+Barón Rojo*, *el Rey del Café*, *la Reina de los Cielos*), nombres propios de aeronaves, premios
+o instituciones (*Lucky Lady II*, *Emperador Kanishka*, *Copa del Rey*, *Fundación Infante de
+Orleans*, *Aeropuerto Reina Sofía*), topónimos (*Puerto Príncipe*, *Duque de Caxias*, *río Sir
+Daria*), nombres de pila o apellidos homónimos o títulos bibliográficos extranjeros en
+`## Referencias Verificadas`. **No retroactivo:** no reabre cierres comunicados; `tools/efemerides-linter.sh`
+incorpora la auditoría `[AVISO] 13` (14 posts y 34 ocurrencias residuales sobre los 661 posts del
+HEAD `ef6d75235e30`, con 0 cambios de veredicto). En paralelo:
+`docs/instrucciones-formato-efemerides-v2.24.md`, `docs/manual-estilo-efemerides-v1.22.md`,
+`tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y
+`docs/protocolo-continuidad-sesiones.md`. `docs/instrucciones-procesar-efemerides-v2.18.md`: sin
+novedad. Registro de la versión anterior debajo.
+
+### Registro de la v2.24
 
 **Novedad de la v2.24.** Orden del editor del 21-10-2026, a raíz del tiempo perdido
 en las altas 1940-10-26 y 1943-10-26 persiguiendo que la imagen del investigador
@@ -285,6 +306,8 @@ Ante nombre propio inmediato, mayúscula inicial en:
 Sin nombre propio: minúscula. Cargos y oficios civiles: minúscula siempre, incluso ante nombre propio (*el ingeniero civil Gustavo Heny*, *el presidente Juan Pablo Rojas Paúl*) —decisión D1-a, en vigor desde el primer Manual y reconfirmada el 2026-09-03—.
 
 **Excepción institucional (D1-b, decisión del editor del 23-09-2026).** El cargo civil se capitaliza cuando encabeza una denominación institucional capitalizada (`Presidente de la República`, `Ministro de Guerra y Marina`, `Inspector General de Aviación`), antepuesto al nombre propio o en aposición posterior; en cualquier otro uso rige la minúscula de D1-a.
+
+**Títulos de realeza, nobleza y dignidades (D1-c, decisión del editor del 22-10-2026).** Los títulos reales, nobiliarios y dignidades caballerescas o tradicionales (*rey*, *reina*, *emperador*, *príncipe*, *conde*, *marqués*, *barón*, *lord*, *lady*, *sir*, *jeque* y análogos) van siempre con minúscula inicial ante nombre propio o denominación del título (*el rey Alfonso XIII*, *el conde Ferdinand von Zeppelin*, *el marqués d'Arlandes*, *sir Frank Whittle*, *el jeque Mohammed bin Rashid Al Maktoum*), conforme a la *Ortografía* de la RAE y a D1-a, salvo cuando forman parte de apodos antonomásticos (*el Barón Rojo*, *la Reina de los Cielos*), nombres propios de aeronaves, premios o instituciones (*Lucky Lady II*, *Copa del Rey*, *Aeropuerto Reina Sofía*), topónimos (*Puerto Príncipe*, *Duque de Caxias*) o títulos bibliográficos de `## Referencias Verificadas`. No retroactivo; auditado en modo `[AVISO]` (auditoría 13).
 
 **Desviación deliberada de la pauta RAE** (que prescribe minúscula uniforme): el proyecto sigue el protocolo venezolano y el uso periodístico de referencia, documentados en `docs/anexo-comparacion-tratamientos-y-rangos.md`. El Manual de Estilo § 4.3 desarrolla la regla y el linter la audita.
 
@@ -2060,3 +2083,36 @@ investigador.
 `docs/protocolo-continuidad-sesiones.md`. Sin cambios en `tools/efemerides-linter.sh` ni en
 `docs/guia-del-linter.md`: la auditoría de imagen no varía, la imagen publicada sigue debiendo
 medir 1.200 × 675.
+
+---
+
+## Títulos de realeza y nobleza en minúscula v2.25 — 2026-10-22
+
+### Regla maestra 5 ampliada: decisión D1-c
+
+Decisión del editor del 22-10-2026: **los títulos de realeza, nobleza y dignidades caballerescas o
+tradicionales se escriben con minúscula inicial ante nombre propio o denominación nobiliaria**,
+conforme a la *Ortografía* de la RAE y al criterio de los cargos civiles (D1-a): *el rey Alfonso
+XIII*, *la reina Guillermina*, *el emperador Hirohito*, *el conde Ferdinand von Zeppelin*, *el
+marqués d'Arlandes*, *lord Brabazon of Tara*, *lady Grace Drummond-Hay*, *sir Frank Whittle*, *el
+jeque Mohammed bin Rashid Al Maktoum*.
+
+Conservan mayúscula inicial únicamente los sobrenombres antonomásticos (*el Barón Rojo*, *el Rey
+del Café*, *la Reina de los Cielos*, *Lady Lindy*), las denominaciones propias de aeronaves,
+premios, instituciones o infraestructuras (*Lucky Lady II*, *Emperador Kanishka*, *Copa del Rey*,
+*Fundación Infante de Orleans*, *Aeropuerto Reina Sofía*), los topónimos (*Puerto Príncipe*,
+*Duque de Caxias*, *río Sir Daria*, *sector El Conde*), los antropónimos homónimos y los títulos
+bibliográficos en lengua extranjera de `## Referencias Verificadas`.
+
+### Alcance
+
+No retroactivo: rige desde el 22-10-2026 y no reabre cierres comunicados. El validador
+`tools/efemerides-linter.sh` incorpora la auditoría `[AVISO] 13` (14 posts y 34 ocurrencias
+residuales sobre los 661 posts del HEAD `ef6d75235e30`, con 0 cambios de veredicto).
+
+### Alineación
+
+`docs/instrucciones-formato-efemerides-v2.24.md`, `docs/manual-estilo-efemerides-v1.22.md`,
+`tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y
+`docs/protocolo-continuidad-sesiones.md`. `docs/instrucciones-procesar-efemerides-v2.18.md`: sin
+novedad.

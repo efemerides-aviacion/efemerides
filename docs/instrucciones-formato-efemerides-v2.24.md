@@ -1,10 +1,27 @@
 # Instrucciones de formato de salida para efemérides
-> Última actualización: 2026-10-21  
-> Versión: v2.23
+> Última actualización: 2026-10-22  
+> Versión: v2.24
 
 ---
 
 ## NOTA SOBRE ESTA VERSIÓN
+
+**Novedad de la v2.24.** Decisión del editor del 22-10-2026 (**D1-c**): **los títulos de realeza,
+nobleza y dignidades caballerescas o tradicionales se escriben con minúscula inicial ante nombre
+propio o denominación nobiliaria** (*el rey Alfonso XIII*, *la reina Guillermina*, *el conde
+Ferdinand von Zeppelin*, *el marqués d'Arlandes*, *lord Brabazon of Tara*, *lady Grace
+Drummond-Hay*, *sir Frank Whittle*, *el jeque Mohammed bin Rashid Al Maktoum*), conforme a la
+*Ortografía* de la RAE y a D1-a, salvo en sobrenombres antonomásticos (*el Barón Rojo*), nombres
+propios de aeronaves, premios o instituciones (*Lucky Lady II*, *Copa del Rey*, *Aeropuerto Reina
+Sofía*), topónimos (*Puerto Príncipe*, *Duque de Caxias*) y títulos bibliográficos extranjeros en
+`## Referencias Verificadas`. **No retroactivo:** `tools/efemerides-linter.sh` incorpora la
+auditoría `[AVISO] 13` (14 posts y 34 ocurrencias sobre los 661 posts del HEAD `ef6d75235e30`, 0
+cambios de veredicto). En paralelo: Plantilla Maestra v2.25, Manual de Estilo v1.22,
+`tools/efemerides-linter.sh`, `docs/guia-del-linter.md` y
+`docs/protocolo-continuidad-sesiones.md`. Instrucciones de Procesar v2.18: sin novedad. Registro
+de la versión anterior debajo.
+
+### Registro de la v2.23
 
 **Novedad de la v2.23.** Orden del editor del 21-10-2026: **el reparto del trabajo
 con la imagen queda como siempre había sido**. El investigador elige la imagen, acredita
@@ -181,7 +198,8 @@ un tercer hecho histórico de datación imprecisa.
 - Tratamientos honoríficos y académicos (`Doctor`, `Licenciado`, `Señor`, `Señora`, `Señorita` y femeninos): mayúscula al preceder inmediatamente al nombre propio (`Doctor Juan Pablo Rojas Paúl`), minúscula en cualquier otro uso —decisión D2-a del editor, 2026-09-03—.
 - Cargos y oficios civiles: minúscula siempre, incluso con nombre propio (`el ingeniero civil Gustavo Heny`, `el presidente Juan Pablo Rojas Paúl`) —decisión D1-a—.
 - **Excepción institucional (D1-b, decisión del editor del 23-09-2026):** mayúscula inicial del cargo civil cuando encabeza una denominación institucional capitalizada (`Presidente de la República`, `Ministro de Guerra y Marina`, `Inspector General de Aviación`), en cualquier posición respecto al nombre propio, incluida la aposición posterior; minúscula en todo otro uso, conforme a D1-a.
-- La capitalización de grados y tratamientos se aparta deliberadamente de la Ortografía de la RAE por el protocolo venezolano de referencia; fundamento y tabla comparativa: `docs/anexo-comparacion-tratamientos-y-rangos.md`. Rige el Manual de Estilo § 4.3 (v1.15); el linter lo audita.
+- **Títulos de realeza, nobleza y dignidades (D1-c, decisión del editor del 22-10-2026):** minúscula inicial siempre, incluso ante nombre propio o denominación nobiliaria (`el rey Alfonso XIII`, `el conde Ferdinand von Zeppelin`, `el marqués d'Arlandes`, `sir Frank Whittle`, `el jeque Mohammed bin Rashid Al Maktoum`), conforme a la Ortografía de la RAE y a D1-a; solo conservan mayúscula en sobrenombres antonomásticos (`el Barón Rojo`), nombres propios de aeronaves, premios o instituciones (`Lucky Lady II`, `Copa del Rey`, `Aeropuerto Reina Sofía`), topónimos (`Puerto Príncipe`) y títulos bibliográficos extranjeros en `## Referencias Verificadas`. No retroactivo; el linter lo audita en modo `[AVISO]` (auditoría 13).
+- La capitalización de grados y tratamientos se aparta deliberadamente de la Ortografía de la RAE por el protocolo venezolano de referencia; fundamento y tabla comparativa: `docs/anexo-comparacion-tratamientos-y-rangos.md`. Rige el Manual de Estilo § 4.3 (v1.22); el linter lo audita.
 
 ### Precisión nominal
 Si una fuente usa variantes de nombre, apellido, matrícula o designación:
@@ -444,6 +462,7 @@ viaja siempre en un commit único con su imagen.
 - citar el borrador preliminar entre las fuentes de contraste de los metadatos;
 - entregar un post con menos de cuatro referencias verificadas;
 - escribir en minúscula un cargo civil que encabeza una denominación institucional capitalizada, o en mayúscula un cargo civil fuera de ese supuesto (D1-a y D1-b);
+- capitalizar títulos de realeza, nobleza o dignidades (`rey`, `reina`, `príncipe`, `conde`, `marqués`, `barón`, `lord`, `lady`, `sir`, `jeque`…) ante nombre propio o denominación nobiliaria, fuera de apodos antonomásticos, nombres propios de aeronaves o instituciones y topónimos (D1-c);
 - insertar en el cuerpo narrativo enlaces externos a museos, archivos, repositorios o instituciones que deben vivir en `## Referencias Verificadas` o en el `<figcaption>` (apartado 5 de «Enlaces»);
 - repetir fuera del `Resumen Ejecutivo` hechos, cifras técnicas, episodios cronológicos o premios entre distintas secciones del post, o superar las 1.550 palabras narrativas;
 - redactar `## Metadatos de Control` con textos largos (>150 palabras) o duplicando en sus listas de fuentes los títulos, autores y descripciones de `## Referencias Verificadas`.
@@ -781,3 +800,29 @@ Rige para las entregas posteriores al 21-10-2026 y no reabre cierres comunicados
 Plantilla Maestra v2.24, Instrucciones de Procesar v2.18, Manual de Estilo v1.21 y
 `docs/protocolo-continuidad-sesiones.md`. Sin cambios en `tools/efemerides-linter.sh` ni en
 `docs/guia-del-linter.md`: la imagen publicada sigue debiendo medir 1.200 × 675.
+
+---
+
+## ACTUALIZACIONES DE FORMATO V2.24 — 2026-10-22
+
+### Títulos de realeza, nobleza y dignidades en minúscula (D1-c)
+
+Decisión del editor del 22-10-2026: **los títulos reales, nobiliarios y dignidades caballerescas o
+tradicionales van en minúscula inicial ante nombre propio o denominación nobiliaria**, conforme a
+la *Ortografía* de la RAE y a D1-a (*el rey Alfonso XIII*, *el conde Ferdinand von Zeppelin*, *el
+marqués d'Arlandes*, *sir Frank Whittle*, *el jeque Mohammed bin Rashid Al Maktoum*).
+
+- Se añade la viñeta D1-c en «Rangos, nombres y estilo histórico» y el error correlativo en la
+  lista de errores frecuentes.
+- Quedan excluidos los sobrenombres antonomásticos (*el Barón Rojo*), las denominaciones propias de
+  aeronaves, premios o instituciones (*Lucky Lady II*, *Copa del Rey*, *Aeropuerto Reina Sofía*),
+  los topónimos (*Puerto Príncipe*, *Duque de Caxias*) y los títulos bibliográficos de
+  `## Referencias Verificadas`.
+- No retroactivo: `tools/efemerides-linter.sh` incorpora la auditoría `[AVISO] 13` (14 posts y 34
+  ocurrencias residuales sobre los 661 posts del HEAD `ef6d75235e30`, con 0 cambios de veredicto).
+
+### Alineación
+
+Plantilla Maestra v2.25, Manual de Estilo v1.22, `tools/efemerides-linter.sh`,
+`docs/guia-del-linter.md` y `docs/protocolo-continuidad-sesiones.md`. Instrucciones de Procesar
+v2.18: sin novedad.
