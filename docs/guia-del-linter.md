@@ -1,5 +1,5 @@
 # Guía del validador estructural de efemérides
-> Última actualización: 2026-10-22 (nueva auditoría [AVISO] 13: títulos de realeza, nobleza y dignidades en minúscula ante nombre propio — Manual de Estilo v1.22, § 4.3, decisión D1-c; Plantilla Maestra v2.25, regla maestra 5; Instrucciones de Formato v2.24 —; no computa como fallo y no es retroactiva). Actualización anterior: 2026-10-21 (nueva auditoría [AVISO] 12: recuento de años anclado al presente, tras la derogación de la regla de cómputo — Manual de Estilo v1.20, § 5.9 —; no computa como fallo y no es retroactiva). > Última actualización: 2026-10-19 (la auditoría de imagen deja de bifurcar por categoría: el tamaño de casa es **1.200 × 675 para todas**, incluida `nacimiento`, conforme a la Plantilla Maestra v2.22 y su regla maestra 12; el código y el número de comprobaciones no cambian). Actualización anterior: 2026-10-06 (a partir de hoy el validador audita además las bandas por sección; se documenta esa auditoría y se corrige el localizador del bloque `Resumen Ejecutivo`). Actualización anterior: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
+> Última actualización: 2026-10-22 (calibración integral de la auditoría [AVISO] 12 en `awk` POSIX compatible con `bash 3.2` de macOS: audita todas las ocurrencias de `YAML` (`title`/`excerpt`), cuerpo y `Nota aclaratoria`, incluidos apócopes `un`/`veintiún`, `A X años de…`, aproximaciones `casi`/`más de`/`durante X años`, edad viva `cumple X años` y `Un siglo después` sin ancla; censo verificado sobre `663` posts: **117 posts** y **132 ocurrencias**; `0` cambios de código de salida). Actualización previa del mismo día: 2026-10-22 (nueva auditoría [AVISO] 13: títulos de realeza, nobleza y dignidades en minúscula ante nombre propio — Manual de Estilo v1.22, § 4.3, decisión D1-c; Plantilla Maestra v2.25, regla maestra 5; Instrucciones de Formato v2.24 —; no computa como fallo y no es retroactiva). Actualización anterior: 2026-10-21 (nueva auditoría [AVISO] 12: recuento de años anclado al presente, tras la derogación de la regla de cómputo — Manual de Estilo v1.20, § 5.9 —; no computa como fallo y no es retroactiva). > Última actualización: 2026-10-19 (la auditoría de imagen deja de bifurcar por categoría: el tamaño de casa es **1.200 × 675 para todas**, incluida `nacimiento`, conforme a la Plantilla Maestra v2.22 y su regla maestra 12; el código y el número de comprobaciones no cambian). Actualización anterior: 2026-10-06 (a partir de hoy el validador audita además las bandas por sección; se documenta esa auditoría y se corrige el localizador del bloque `Resumen Ejecutivo`). Actualización anterior: 2026-10-06 (reconciliación de los recuentos de extensión del corpus en dos fotografías verificadas; sin cambios de reglas ni de código ejecutable). Actualización anterior: 2026-10-02 (alineación de referencias con Plantilla Maestra v2.21, Instrucciones de Formato v2.20 e Instrucciones de Procesar v2.15; sin cambios de código ni auditorías nuevas).
 
 ## Finalidad
 
@@ -77,18 +77,27 @@ auditoría nueva dejó 0 diferencias ajenas a ella y ningún cambio de código d
 5. El linter debe ejecutarse después de la última edición. Si el post cambia luego, se renueva el timestamp y se vuelve a ejecutar.
 6. `APROBADO` acredita conformidad estructural automatizada, no veracidad histórica ni suficiencia de licencias.
 
-Desde el 2026-10-21 el validador emite un `[AVISO]` cuando el cuerpo del post
-contiene un **recuento de años anclado al presente** (Manual de Estilo v1.20,
-§ 5.9; Plantilla Maestra v2.23, regla maestra 9). La comprobación suma al año
-del hito —tomado del campo `date:` del YAML— la cifra hallada en fórmulas como
-«X años después», «hace X años», «se cumplen X años» o «al cumplirse X años»,
-tanto en número como en letra, y avisa cuando la suma cae en el año en curso o
-en el inmediato anterior o posterior: ese recuento es exacto el día de la
-publicación y falso a partir del aniversario siguiente. Quedan fuera de control
-las distancias entre dos hechos pasados («dos años después, en 1930…») y las
-comparaciones con un tercer hecho histórico, porque no caducan. El aviso no
-computa como fallo y **no es retroactivo**: los 98 posts publicados con
-recuento conservan su cifra y se limpian cuando se revisen.
+Desde el 2026-10-21 —y calibrada íntegramente el **2026-10-22** en `awk` POSIX
+sin dependencias de `bash 4+` para garantizar compatibilidad nativa en macOS y
+Linux— el validador emite un `[AVISO]` (auditoría 12) por **cada ocurrencia** en
+`title:`/`excerpt:` del YAML, en el cuerpo del post o en la `Nota aclaratoria`
+que exprese una **distancia temporal anclada al presente** (Manual de Estilo
+v1.22, § 5.9; Plantilla Maestra v2.25, regla maestra 9). El analizador evalúa
+todas las oraciones de cada sección (sin detenerse en la primera mención de
+`años`), reconoce cifras en guarismos y en letra —incluidos los apócopes
+masculinos `un` y `veintiún`, giros como «A X años de…», «casi / más de /
+durante X años», edades vivas («cumple X años») y «Un siglo después» sin fecha
+histórica—, descarta edades entre paréntesis, fallecimientos o jubilaciones
+fechados, duraciones operativas cerradas, «X años antes» y conmemoraciones
+pasadas con fecha completa explícita («los días 4 y 5 de enero de 2026»), y
+admite exenciones expresas en `tools/efemerides-rangos-excepciones.txt`.
+Fotografía verificada sobre el corpus completo en el HEAD `0c8d5eaf4e14`
+(2026-10-22; **663 posts**): **117 posts** y **132 ocurrencias** detectadas
+(`98` del núcleo base + `8` con apócope `un`/`veintiún` + `4` de edad viva/giro
+directo/siglo + `6` aproximaciones por decena + `1` de cincuentenario en `2026`;
+`0` falsos positivos en los otros `546` posts y **0 cambios de código de
+salida** en los `663` posts). El aviso guía y verifica el saneamiento por
+tandas del corpus sin computar como fallo estructural.
 
 Desde el 2026-10-22 el validador emite un `[AVISO]` (auditoría 13) cuando el
 `title:` o `excerpt:` del YAML o la prosa del post —incluida la `Nota

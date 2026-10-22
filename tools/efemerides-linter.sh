@@ -37,6 +37,11 @@
 # (Instrucciones de Procesar v2.18: sin novedad; decisión D1-c — Manual v1.22 § 4.3, regla maestra 5 —:
 #  nueva auditoría [AVISO] 13, que señala títulos de realeza, nobleza y dignidades capitalizados ante
 #  nombre propio o denominación nobiliaria; no retroactiva y no computa como fallo).
+# calibración de la auditoría [AVISO] 12 el 2026-10-22: reescrita en awk POSIX (compatible con
+#  bash 3.2 de macOS sin arrays asociativos) para auditar todas las ocurrencias de YAML (title/excerpt),
+#  cuerpo y Nota aclaratoria —incluidos apócopes un/veintiún, «A X años de…», «casi/más de X años»,
+#  edad viva «cumple X años» y «Un siglo después» sin ancla—, descartando edades biográficas,
+#  fallecimientos/jubilaciones fechados, duraciones cerradas y conmemoraciones con fecha completa.
 #
 # Uso:   efemerides-linter.sh /ruta/al/post.md [ruta/al/directorio/img]
 # Salidas: cada auditoría imprime [OK] o [FALLECE]. Exit 0 = aprobado.
@@ -588,28 +593,128 @@ else
 fi
 
 # --------------------------------------------- Distancia temporal con el presente (12)
-declare -A V_ANIOS=( [uno]=1 [dos]=2 [tres]=3 [cuatro]=4 [cinco]=5 [seis]=6 [siete]=7 [ocho]=8 [nueve]=9 [diez]=10
- [once]=11 [doce]=12 [trece]=13 [catorce]=14 [quince]=15 [dieciséis]=16 [diecisiete]=17 [dieciocho]=18 [diecinueve]=19
- [veinte]=20 [veintiuno]=21 [veintidós]=22 [veintitrés]=23 [veinticuatro]=24 [veinticinco]=25 [veintiséis]=26
- [veintisiete]=27 [veintiocho]=28 [veintinueve]=29 [treinta]=30 [cuarenta]=40 [cincuenta]=50 [sesenta]=60
- [setenta]=70 [ochenta]=80 [noventa]=90 [cien]=100 [ciento]=100 [doscientos]=200 [doscientas]=200 )
+# Calibrada el 2026-10-22 en awk POSIX (compatible con bash 3.2 en macOS y Linux):
+# audita todas las ocurrencias en YAML (title/excerpt), cuerpo y Nota aclaratoria,
+# incluidos apócopes masculinos (un, veintiún), «A X años de…», aproximaciones
+# ancladas al presente («casi / más de / durante X años»), edades vivas («cumple X años»)
+# y «Un siglo después» sin ancla pasada. Excluye edades de tripulantes entre paréntesis,
+# fallecimientos/jubilaciones fechados, duraciones operativas cerradas, «X años antes»
+# y conmemoraciones pasadas con fecha completa explícita (Manual v1.22 § 5.9).
 ANIO_HITO=$(grep -m1 -oE '^date:[[:space:]]*[0-9]{4}' <<<"$YAML" | grep -oE '[0-9]{4}')
 ANIO_HOY=$(date +%Y)
 if [ -n "$ANIO_HITO" ]; then
-  LEX_ANIOS='(ciento|cien|doscient[oa]s|veinti(uno|dós|trés|cuatro|cinco|séis|siete|ocho|nueve)|dieci(séis|siete|ocho|nueve)|ochenta|noventa|sesenta|setenta|cincuenta|cuarenta|treinta|veinte|quince|catorce|trece|doce|once|diez|nueve|ocho|siete|seis|cinco|cuatro|tres|dos|uno|[0-9]{1,3})'
-  PAT_ANIOS="(hace[[:space:]]+(ya[[:space:]]+)?|se[[:space:]]+cumplen[[:space:]]+(hoy[[:space:]]+)?|al[[:space:]]+cumplirse[[:space:]]+(hoy[[:space:]]+)?)?(${LEX_ANIOS}([[:space:]]+(y[[:space:]]+)?${LEX_ANIOS})*)[[:space:]]+años([[:space:]]+(después|más[[:space:]]+tarde|de[[:space:]]+su))?"
-  FRASE_ANIOS=$(grep -oiE "$PAT_ANIOS" <<<"$BODY" | head -1)
-  if [ -n "$FRASE_ANIOS" ]; then
-    N_ANIOS=0
-    for w in $(grep -oiE "$LEX_ANIOS" <<<"${FRASE_ANIOS%%años*}" | tr 'A-ZÁÉÍÓÚ' 'a-záéíóú'); do
-      if [[ "$w" =~ ^[0-9]+$ ]]; then N_ANIOS=$((N_ANIOS+w)); else N_ANIOS=$((N_ANIOS+${V_ANIOS[$w]:-0})); fi
-    done
-    SUMA_ANIOS=$((ANIO_HITO + N_ANIOS))
-    if [ "$N_ANIOS" -gt 0 ] && [ "$SUMA_ANIOS" -ge $((ANIO_HOY - 1)) ] && [ "$SUMA_ANIOS" -le $((ANIO_HOY + 1)) ]; then
-      printf '[AVISO]   Recuento de años anclado al presente: «%s» (%s + %s = %s) — caduca en el aniversario siguiente (Manual v1.20 § 5.9; no retroactivo)\n' "$FRASE_ANIOS" "$ANIO_HITO" "$N_ANIOS" "$SUMA_ANIOS"
-    else
-      ok "Distancia temporal: sin recuento anclado al presente"
-    fi
+  ANIOS_HITS=$(awk -v YH="$ANIO_HITO" -v YN="$ANIO_HOY" '
+    BEGIN {
+      v["un"]=1; v["uno"]=1; v["una"]=1; v["dos"]=2; v["tres"]=3; v["cuatro"]=4;
+      v["cinco"]=5; v["seis"]=6; v["siete"]=7; v["ocho"]=8; v["nueve"]=9; v["diez"]=10;
+      v["once"]=11; v["doce"]=12; v["trece"]=13; v["catorce"]=14; v["quince"]=15;
+      v["dieciséis"]=16; v["dieciseis"]=16; v["diecisiete"]=17; v["dieciocho"]=18; v["diecinueve"]=19;
+      v["veinte"]=20; v["veintiuno"]=21; v["veintiún"]=21; v["veintiun"]=21;
+      v["veintidós"]=22; v["veintidos"]=22; v["veintitrés"]=23; v["veintitres"]=23;
+      v["veinticuatro"]=24; v["veinticinco"]=25; v["veintiséis"]=26; v["veintiseis"]=26;
+      v["veintisiete"]=27; v["veintiocho"]=28; v["veintinueve"]=29;
+      v["treinta"]=30; v["cuarenta"]=40; v["cincuenta"]=50; v["sesenta"]=60;
+      v["setenta"]=70; v["ochenta"]=80; v["noventa"]=90;
+      v["cien"]=100; v["ciento"]=100; v["doscientos"]=200; v["doscientas"]=200;
+      v["trescientos"]=300; v["trescientas"]=300;
+      months="(enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|setiembre|octubre|noviembre|diciembre)";
+    }
+    function tl(s,   r) {
+      r = tolower(s);
+      gsub(/Á/,"á",r); gsub(/É/,"é",r); gsub(/Í/,"í",r); gsub(/Ó/,"ó",r); gsub(/Ú/,"ú",r); gsub(/Ü/,"ü",r); gsub(/Ñ/,"ñ",r);
+      return r;
+    }
+    function clean(s,   r) {
+      r = s;
+      gsub(/<[^>]*>/, " ", r);
+      gsub(/https?:\/\/[^ )">'\'']*/, " ", r);
+      gsub(/\*\*|\*/, "", r);
+      return r;
+    }
+    /^---$/ { yc++; in_yaml = (yc == 1); next }
+    in_yaml {
+      if ($0 !~ /^(title|excerpt):/) next;
+      sec = "YAML";
+    }
+    !in_yaml {
+      if ($0 ~ /^<!-- *## Resumen Ejecutivo/) { sec = "Resumen Ejecutivo"; next }
+      if ($0 ~ /^## /) {
+        sec = substr($0, 4); sub(/[[:space:]]+$/, "", sec);
+        if (sec == "Metadatos de Control") exit;
+        next;
+      }
+      if (sec == "" || sec == "PRE") next;
+      if (sec == "Referencias Verificadas") {
+        if ($0 !~ /Estado actual|Nota aclaratoria/) next;
+      }
+    }
+    {
+      raw_ln = clean($0);
+      low_ln = tl(raw_ln);
+      if (low_ln ~ /(^|[.!?][[:space:]]+)un siglo después,/ && (YH + 100) <= YN && low_ln !~ ("de " months " de [0-9]{4}")) {
+        print NR "|Un siglo después|" (YH + 100) "|100";
+      }
+      if (index(low_ln, "años") == 0) next;
+      ns = split(raw_ln, sents, /[.!?]+/);
+      for (si = 1; si <= ns; si++) {
+        snt = sents[si];
+        lsnt = tl(snt);
+        if (index(lsnt, "años") == 0) continue;
+        tmp = snt;
+        gsub(/[^A-Za-zÁÉÍÓÚÜÑáéíóúüñ0-9]+/, " ", tmp);
+        gsub(/^[[:space:]]+|[[:space:]]+$/, "", tmp);
+        nt = split(tmp, tk, /[[:space:]]+/);
+        for (i = 1; i <= nt; i++) {
+          if (tl(tk[i]) != "años") continue;
+          val = 0; j = i - 1; ph = "";
+          while (j >= 1) {
+            w = tl(tk[j]);
+            if (w == "y" && ph != "") { ph = tk[j] " " ph; j--; continue }
+            if (w ~ /^[0-9]+$/ && (w + 0) >= 1 && (w + 0) <= 300) {
+              val += (w + 0); ph = (ph == "" ? tk[j] : tk[j] " " ph); j--;
+            } else if (w in v) {
+              val += v[w]; ph = (ph == "" ? tk[j] : tk[j] " " ph); j--;
+            } else {
+              break;
+            }
+          }
+          if (val <= 0) continue;
+          tot = YH + val;
+          if (tot < (YN - 2) || tot > (YN + 2)) continue;
+          phrase = ph " años";
+          w1 = (i + 1 <= nt ? tl(tk[i + 1]) : "");
+          p1 = (j >= 1 ? tl(tk[j]) : "");
+          if (w1 == "antes") continue;
+          if (snt ~ "\\([[:space:]]*" val "[[:space:]]+años") continue;
+          if ((lsnt ~ /fallece|falleció|fallecimiento/) && (lsnt ~ /202[0-9]/)) continue;
+          if (lsnt ~ /jubilación/) continue;
+          if (lsnt ~ /historial operativo de la flota|acumulados en microgravedad|años de operaciones/) continue;
+          if (snt ~ /100 años[”"»]/) continue;
+          if (lsnt ~ ("[0-9]{1,2} de " months " de 202[0-9]") && lsnt ~ /conmemor|celebr|ceremonia|seminario|homenaje/) continue;
+          disp = phrase;
+          if (w1 == "después") disp = phrase " después";
+          else if (w1 == "más" && i + 2 <= nt && tl(tk[i + 2]) == "tarde") disp = phrase " más tarde";
+          if (p1 == "a" || p1 == "hace" || p1 == "cumple" || p1 == "durante") disp = tk[j] " " disp;
+          else if (p1 == "de" && j >= 2 && (tl(tk[j-1]) == "más" || tl(tk[j-1]) == "mas")) disp = tk[j-1] " de " disp;
+          else if (p1 == "casi") disp = tk[j] " " disp;
+          print NR "|" disp "|" tot "|" val;
+        }
+      }
+    }
+  ' "$FILE")
+  if [ -n "$ANIOS_HITS" ]; then
+    ANIOS_N=0
+    BFILE_A=$(basename "$FILE")
+    while IFS='|' read -r a_ln a_ph a_tot a_val; do
+      [ -z "$a_ln" ] && continue
+      if MOT=$(exc_hit "$BFILE_A" "$a_ph"); then
+        printf '[AVISO]   Excepción distancia temporal en línea %s: «%s» — %s\n' "$a_ln" "$a_ph" "$MOT"
+        continue
+      fi
+      ANIOS_N=$((ANIOS_N + 1))
+      printf '[AVISO]   Recuento de años anclado al presente (línea %s): «%s» (%s + %s = %s) — caduca con el calendario (Manual v1.22 § 5.9)\n' "$a_ln" "$a_ph" "$ANIO_HITO" "$a_val" "$a_tot"
+    done <<<"$ANIOS_HITS"
+    [ "$ANIOS_N" -eq 0 ] && ok "Distancia temporal: sin recuento anclado al presente"
   else
     ok "Distancia temporal: sin recuento anclado al presente"
   fi
