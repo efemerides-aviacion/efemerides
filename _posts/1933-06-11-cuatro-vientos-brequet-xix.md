@@ -19,7 +19,7 @@ image: 1933-06-11-cuatro-vientos-brequet-xix.webp
 <div class="highlight-box">
 <p>El 10 de junio de 1933, a las 4:40 horas, el «Cuatro Vientos» despegó de la base de Tablada (Sevilla) con el Capitán Mariano Barberán (navegante) y el Teniente Joaquín Collar (piloto). El aparato, un Breguet XIX TR Super Bidón de CASA con 5.300 litros de combustible y motor Hispano-Suiza de 650 caballos, tras 39 horas y 55 minutos —32 sobre el Atlántico— y 7.320 km aterrizó en Camagüey con apenas 100 litros. La hazaña firmó un nuevo récord de distancia en vuelo directo sobre el mar.</p>
 
-<p>Tras diez días de agasajos en La Habana, el 20 de junio despegaron hacia la Ciudad de México. Nunca llegaron. Solo se encontró una cámara de neumático salvavidas identificada como del aparato. El misterio sigue sin resolverse 93 años después.</p>
+<p>Tras diez días de agasajos en La Habana, el 20 de junio despegaron hacia la Ciudad de México. Nunca llegaron. Solo se encontró una cámara de neumático salvavidas identificada como del aparato. El misterio sigue sin resolverse.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Datos verificados del evento
@@ -108,7 +108,7 @@ El raid del Cuatro Vientos tuvo repercusión en tres frentes: récord mundial de
 
 ### Hipótesis sobre la desaparición
 
-93 años de hipótesis, ninguna confirmada:
+Las hipótesis barajadas, ninguna confirmada:
 
 1. **Accidente en el mar por tormenta (hipótesis oficial más probable):** el avión habría impactado contra el mar con el mal tiempo; la comisión oficial CITAAM atribuyó la probable causa a la pérdida de control por entrada obligada en nubes, coherente con el hallazgo en Tabasco.
 

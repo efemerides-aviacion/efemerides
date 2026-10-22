@@ -85,7 +85,7 @@ Para el raid, Maracay fue una pausa entre el Atlántico reconstruido y el istmo.
 
 El 15 de julio de 1935 quedó en la memoria aeronáutica venezolana como el día en que un piloto civil español, solo y en una avioneta ligera, puso la «Santander» sobre Boca del Río. El capítulo de Gómez Núñez conserva los nombres de quienes lo esperaron y el grito desde el ala; la historiografía española conserva el arco completo hasta Balbuena.
 
-Noventa y un años después, la efeméride no reivindica un récord de velocidad ni una primicia mal documentada: recuerda una escala concreta, verificable, de un vuelo de buena voluntad que unió Cantabria con Maracay y, más tarde, con México.
+Lejos del mito, la efeméride no reivindica un récord de velocidad ni una primicia mal documentada: recuerda una escala concreta, verificable, de un vuelo de buena voluntad que unió Cantabria con Maracay y, más tarde, con México.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

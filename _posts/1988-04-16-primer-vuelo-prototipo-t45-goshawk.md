@@ -116,7 +116,7 @@ El conjunto elevó la vida a fatiga prevista de la célula hasta las 14.400 hora
 
 El T-45 Goshawk es un ejemplo excepcional de cómo un diseño existente, el BAe Hawk, puede ser adaptado para cumplir requisitos radicalmente diferentes. Aunque el Hawk original era un entrenador terrestre, las modificaciones realizadas por McDonnell Douglas y British Aerospace transformaron al Goshawk en un avión capaz de soportar las tensiones extremas de las operaciones en portaaviones.
 
-Con 221 unidades construidas entre 1988 y 2009, el Goshawk ha sido la puerta de entrada a la aviación naval para generaciones de pilotos estadounidenses. Es, además, el único entrenador a reacción con capacidad embarcada en servicio en la Armada de los Estados Unidos, condición que explica que siga volando treinta y ocho años después de aquel primer despegue de Long Beach.
+Con 221 unidades construidas entre 1988 y 2009, el Goshawk ha sido la puerta de entrada a la aviación naval para generaciones de pilotos estadounidenses. Su condición de único entrenador a reacción con capacidad embarcada en la Armada de los Estados Unidos explica la prolongación de su vida operativa décadas después de aquel primer despegue de Long Beach.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

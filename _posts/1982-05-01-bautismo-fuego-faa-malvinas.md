@@ -82,7 +82,7 @@ Los cascos azules del escudo de la FAA se convirtieron en un emblema del valor a
 
 ## Legado
 
-Cuarenta y cuatro años después, el 1 de mayo de 1982 constituye la fecha central de la memoria histórica de la Fuerza Aérea Argentina. Como destacó en mayo de 2025 el Ministro de Defensa, Luis Petri, al cumplirse el 43.º aniversario del combate, aquella jornada selló la doctrina y el prestigio internacional de los aviadores argentinos que operaron a ras de las olas bajo fuego de misiles modernos. En homenaje a los caídos de 1982, terminales patagónicas como el aeropuerto de San Julián —hoy denominado Capitán José Daniel Vázquez— perpetúan el recuerdo de las brigadas aéreas desplegadas en el Atlántico Sur.
+El 1 de mayo de 1982 constituye la fecha central de la memoria histórica de la Fuerza Aérea Argentina. Como destacó en mayo de 2025 el Ministro de Defensa, Luis Petri, al cumplirse el 43.º aniversario del combate, aquella jornada selló la doctrina y el prestigio internacional de los aviadores argentinos que operaron a ras de las olas bajo fuego de misiles modernos. En homenaje a los caídos de 1982, terminales patagónicas como el aeropuerto de San Julián —hoy denominado Capitán José Daniel Vázquez— perpetúan el recuerdo de las brigadas aéreas desplegadas en el Atlántico Sur.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

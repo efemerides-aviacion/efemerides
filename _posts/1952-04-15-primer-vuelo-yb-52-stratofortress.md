@@ -74,7 +74,7 @@ La excelente respuesta de mando demostrada por el YB-52 el 15 de abril de 1952 l
 
 ## Legado
 
-El prototipo YB-52 `49-231` acumuló más de 780 horas de vuelos de ensayo antes de ser entregado en enero de 1958 al Museo de la Fuerza Aérea en Dayton (Ohio), aunque a mediados de la década de 1960 tanto él como el XB-52 acabaron siendo desguazados en la base de Chanute (Illinois) dentro de un plan de embellecimiento de las instalaciones. En cambio, la estirpe que inauguró aquel 15 de abril de 1952 ha superado todas las previsiones de la ingeniería aeronáutica: setenta y cuatro años después de su primer despegue, la flota de B-52H —sometida hoy a remotorización y modernización electrónica hacia el estándar B-52J— continúa en primera línea con el objetivo de alcanzar un siglo completo de servicio activo hacia la década de 2050.
+El prototipo YB-52 `49-231` acumuló más de 780 horas de vuelos de ensayo antes de ser entregado en enero de 1958 al Museo de la Fuerza Aérea en Dayton (Ohio), aunque a mediados de la década de 1960 tanto él como el XB-52 acabaron siendo desguazados en la base de Chanute (Illinois) dentro de un plan de embellecimiento de las instalaciones. En cambio, la estirpe que inauguró aquel 15 de abril de 1952 ha superado todas las previsiones de la ingeniería aeronáutica: muchas décadas después de su primer despegue, la flota de B-52H —sometida a programas de remotorización y modernización electrónica hacia el estándar B-52J— se proyectó para alcanzar un siglo completo de servicio activo hacia la década de 2050.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

@@ -92,7 +92,7 @@ Su vida recorre los primeros veinte años de la aviación venezolana, desde los 
 
 ## Legado
 
-Ciento treinta y cuatro años después de su nacimiento, Miguel Rodríguez Ravelo permanece sobre todo en el nombre de la institución que forma a los pilotos civiles de Venezuela. Es, en cierto modo, una memoria incompleta: se le recuerda como epónimo de una escuela más que por una carrera de diecisiete años que atravesó la aviación militar y la civil del país.
+Miguel Rodríguez Ravelo permanece sobre todo en el nombre de la institución que forma a los pilotos civiles de Venezuela. Es, en cierto modo, una memoria incompleta: se le recuerda como epónimo de una escuela más que por una carrera de diecisiete años que atravesó la aviación militar y la civil del país.
 
 Fue el civil que entró en el primer curso de Maracay, el piloto que se jugó el tipo volando un aparato recompuesto con despojos para salvar a la Escuela del cierre, el sancionado que convirtió el castigo en una formación superior en Estados Unidos, el fundador de la primera aerolínea nacional, el hombre que evacuó pasajeros de un hidroavión en llamas en los manglares de Tucacas y el primer piloto que mandó el arma. Murió a los cuarenta y seis años, probando el avión que había conseguido para modernizarla.
 

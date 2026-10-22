@@ -79,7 +79,7 @@ Asimismo, los defectos detectados durante su desarrollo —en particular la inge
 
 ## Legado
 
-El MiG-9 pasó a la historia aeronáutica como el eslabón inaugural de la estirpe de reactores Mikoyán-Gurévich y como la prueba de que la industria soviética de posguerra podía poner en producción masiva un caza de reacción en plazos muy breves. De las 610 células construidas se conservan contados ejemplares completos, entre ellos el expuesto en el Museo Central de la Fuerza Aérea en Mónino (Federación de Rusia) y el preservado en el Museo de Aviación China en Datangshan (Pekín). Ochenta años después de aquel despegue matinal del 24 de abril de 1946, el vuelo de Grinchik permanece como el punto de partida de los reactores soviéticos de posguerra.
+El MiG-9 pasó a la historia aeronáutica como el eslabón inaugural de la estirpe de reactores Mikoyán-Gurévich y como la prueba de que la industria soviética de posguerra podía poner en producción masiva un caza de reacción en plazos muy breves. De las 610 células construidas se conservan contados ejemplares completos, entre ellos el expuesto en el Museo Central de la Fuerza Aérea en Mónino (Federación de Rusia) y el preservado en el Museo de Aviación China en Datangshan (Pekín). Aquel despegue matinal del 24 de abril de 1946 a los mandos de Grinchik permanece como el punto de partida de los reactores soviéticos de posguerra.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

@@ -6,7 +6,7 @@ categories: [espacial]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: NASA
-excerpt: "El 26 de mayo de 1969, el módulo de mando Charlie Brown de la misión Apolo 10 alcanzó los 39.897 km/h durante su reentrada en la atmósfera terrestre, estableciendo el récord Guinness de la máxima velocidad alcanzada por un vehículo espacial tripulado. A 57 años de la misión, el récord sigue vigente y solo podrá ser superado por futuras misiones a Marte."
+excerpt: "El 26 de mayo de 1969, el módulo de mando Charlie Brown de la misión Apolo 10 alcanzó los 39.897 km/h durante su reentrada en la atmósfera terrestre, estableciendo el récord Guinness de la máxima velocidad alcanzada por un vehículo espacial tripulado. La marca permanece imbatida en la cosmonáutica tripulada a la espera de futuras misiones interplanetarias a Marte."
 image: 1969-05-26-apolo-10-record-guiness-velocidad.webp
 ---
 
@@ -18,7 +18,7 @@ image: 1969-05-26-apolo-10-record-guiness-velocidad.webp
 
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
-<p>El 26 de mayo de 1969, la misión Apolo 10 culminó su vuelo de ensayo general para el alunizaje con el regreso a la Tierra. Durante la reentrada en la atmósfera terrestre, el módulo de mando "Charlie Brown" alcanzó una velocidad máxima de <strong>39.897 kilómetros por hora</strong> (11,08 kilómetros por segundo o 24.791 millas por hora), estableciendo el récord Guinness de la velocidad más alta jamás alcanzada por un vehículo espacial tripulado. La tripulación estaba compuesta por el comandante <strong>Thomas P. Stafford</strong>, el piloto del módulo de mando <strong>John W. Young</strong> y el piloto del módulo lunar <strong>Eugene A. Cernan</strong>. Lanzada el 18 de mayo de 1969 desde el Centro Espacial Kennedy, la misión duró 8 días, 3 minutos y 23 segundos, orbitando la Luna 31 veces y descendiendo con el módulo lunar "Snoopy" a solo 14,4 kilómetros de la superficie lunar. El récord de velocidad, alcanzado durante la fase de retorno transearth injection (TEI), sigue vigente a 57 años de la misión y permanecerá imbatido al menos hasta que las primeras misiones tripuladas a Marte superen esta marca.</p>
+<p>El 26 de mayo de 1969, la misión Apolo 10 culminó su vuelo de ensayo general para el alunizaje con el regreso a la Tierra. Durante la reentrada en la atmósfera terrestre, el módulo de mando "Charlie Brown" alcanzó una velocidad máxima de <strong>39.897 kilómetros por hora</strong> (11,08 kilómetros por segundo o 24.791 millas por hora), estableciendo el récord Guinness de la velocidad más alta jamás alcanzada por un vehículo espacial tripulado. La tripulación estaba compuesta por el comandante <strong>Thomas P. Stafford</strong>, el piloto del módulo de mando <strong>John W. Young</strong> y el piloto del módulo lunar <strong>Eugene A. Cernan</strong>. Lanzada el 18 de mayo de 1969 desde el Centro Espacial Kennedy, la misión duró 8 días, 3 minutos y 23 segundos, orbitando la Luna 31 veces y descendiendo con el módulo lunar "Snoopy" a solo 14,4 kilómetros de la superficie lunar. El récord de velocidad, alcanzado tras la maniobra de inyección trans-Tierra, se ha mantenido imbatido en la historia de los vuelos tripulados a la espera de futuras misiones interplanetarias.</p>
 </div>
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #29b6f6);">
 
@@ -97,7 +97,7 @@ La marca de Apolo 10 superó ligeramente a la de otras misiones del programa deb
 
 ## Legado
 
-El récord de velocidad de Apolo 10 permanece como una referencia inigualada dentro de los anales de la cosmonáutica tripulada. A 57 años de la misión, representa la máxima velocidad a la que los seres humanos han viajado hasta la fecha, una marca que encapsula la audacia y el ingenio del programa Apolo.
+El récord de velocidad de Apolo 10 permanece como una referencia inigualada dentro de los anales de la cosmonáutica tripulada. Representa la máxima velocidad alcanzada por seres humanos en el regreso desde el espacio profundo, una marca que condensa la audacia técnica del programa Apolo.
 
 **El legado de la tripulación:**
 - **Thomas P. Stafford** (fallecido el 18 de marzo de 2024) continuó su carrera como teniente general de la Fuerza Aérea y comandó la misión Apolo-Soyuz (1975), el primer encuentro internacional en el espacio.
@@ -132,7 +132,7 @@ El récord de velocidad de Apolo 10 permanece como una referencia inigualada den
   <p><strong>Notas aclaratorias:</strong></p>
   <p><strong>1. Fecha del récord y duración de la misión:</strong> Apolo 10 fue lanzada el 18 de mayo y amerizó el 26 de mayo de 1969. El récord de velocidad se alcanzó durante el retorno a la Tierra, ocurrido el 26 de mayo. Por lo tanto, la efeméride se asigna a esa fecha como el día en que se estableció la marca.</p>
   <p><strong>2. Discrepancia en la cifra de velocidad:</strong> Algunas fuentes citan 28.547 mph (aproximadamente 45.900 km/h). Esta cifra probablemente corresponde a otro punto de la trayectoria o a un error de conversión de unidades. El valor oficial reconocido por Guinness World Records y documentado por NASA es <strong>39.897 km/h (24.791 mph)</strong>. La efeméride adopta esta última cifra por provenir de la fuente de mayor autoridad (Guinness) y por estar respaldada por la documentación histórica de la misión.</p>
-  <p><strong>3. Estado actual del récord:</strong> El récord establecido por Apolo 10 sigue vigente en 2026, a 57 años de la misión. Ninguna misión tripulada posterior (incluyendo Apolo 11-17, transbordadores espaciales, Soyuz, Shenzhou, Crew Dragon o Starliner) ha superado esta velocidad. La Estación Espacial Internacional orbita a aproximadamente 28.000 km/h, significativamente más lenta. El récord podría ser superado por futuras misiones tripuladas a Marte, que requerirán velocidades de escape mucho mayores.</p>
+  <p><strong>3. Vigencia histórica del récord:</strong> Ningún vuelo posterior al regreso del Apolo 10 superó los 39.897 km/h. Ninguna misión tripulada posterior (incluyendo Apolo 11-17, transbordadores espaciales, Soyuz, Shenzhou, Crew Dragon o Starliner) ha superado esta velocidad. La Estación Espacial Internacional orbita a aproximadamente 28.000 km/h, significativamente más lenta. El récord podría ser superado por futuras misiones tripuladas a Marte, que requerirán velocidades de escape mucho mayores.</p>
   <p><strong>4. Fallecimiento de Thomas Stafford:</strong> El comandante de Apolo 10, Thomas P. Stafford, falleció el 18 de marzo de 2024 a los 93 años. Hasta su muerte, fue uno de los últimos sobrevivientes de los primeros astronautas del programa Apolo.</p>
 </div>
 

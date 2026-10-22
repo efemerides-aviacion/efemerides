@@ -6,7 +6,7 @@ categories: [evento]
 author: Enrique Pomares
 pais: Estados Unidos
 operator: Fuerza Aérea de los Estados Unidos (USAF)
-excerpt: "El 10 de marzo de 1959, el prototipo YT-38 realizó su vuelo inaugural, convirtiendo al Northrop T-38 Talon en el primer entrenador supersónico del mundo. Diseñado a partir del proyecto privado N-156, ha entrenado a más de 80.000 pilotos en sesenta y siete años de servicio."
+excerpt: "El 10 de marzo de 1959, el prototipo YT-38 realizó su vuelo inaugural, convirtiendo al Northrop T-38 Talon en el primer entrenador supersónico del mundo. Diseñado a partir del proyecto privado N-156, ha formado a más de 80.000 pilotos a lo largo de más de seis décadas de servicio."
 image: 1959-03-10-primer-vuelo-northrop-t-38.webp
 ---
 
@@ -92,9 +92,9 @@ El T-38 Talon ostenta varios títulos que aseguran su lugar en la historia:
 
 ### Actualidad y relevo
 
-Sesenta y siete años después de aquel primer vuelo, el Talon sigue en las líneas de vuelo mientras se prepara su sustituto.
+Superadas seis décadas desde aquel primer vuelo, el Talon permaneció en las líneas de instrucción hasta la llegada de su relevo.
 
-En la actualidad, el T-38 está siendo reemplazado gradualmente por el Boeing-Saab T-7 Red Hawk. El programa T-7A sufrió retrasos técnicos que pospusieron su entrada en servicio, pero la USAF recibió sus primeros cinco aviones operativos en enero de 2026. Se espera que alcance su Capacidad Operativa Inicial (IOC) en 2027 y que los primeros pilotos comiencen su entrenamiento en el nuevo reactor en 2028, reemplazando definitivamente al T-38 en las próximas décadas.
+Para relevarlo, la Fuerza Aérea seleccionó el Boeing-Saab T-7 Red Hawk. Tras varios retrasos técnicos que pospusieron su calendario inicial, la USAF recibió sus primeros cinco ejemplares en enero de 2026 dentro del plan de transición progresiva destinado a sustituir la flota de T-38 en las escuelas de vuelo supersónico.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

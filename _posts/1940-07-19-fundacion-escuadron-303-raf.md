@@ -80,7 +80,7 @@ Agrupó a aviadores con experiencia de dos campañas, aceleró el adiestramiento
 
 ## Legado
 
-Ochenta y seis años después, el 303 sigue siendo el rostro más visible de la contribución polaca a la RAF. Libros, museos y monumentos lo recuerdan. El Air Chief Marshal Hugh Dowding escribió que, sin el material y el valor de los escuadrones polacos, dudaba de que el resultado de la Batalla de Inglaterra hubiera sido el mismo.
+En la memoria aliada, el Escuadrón 303 sigue siendo el rostro más visible de la contribución polaca a la RAF. Libros, museos y monumentos lo recuerdan. El Air Chief Marshal Hugh Dowding escribió que, sin el material y el valor de los escuadrones polacos, dudaba de que el resultado de la Batalla de Inglaterra hubiera sido el mismo.
 
 El 19 de julio no anula el 2 de agosto ni el 31: marca el día en que la unidad empezó a tener un jefe nombrado, todavía lejos de Northolt y del combate.
 

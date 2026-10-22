@@ -85,7 +85,7 @@ El modelo organizativo de Jacksonville inspiró además la creación de unidades
 
 ## Legado
 
-Ochenta años después de aquella directiva de abril de 1946, más de trescientos oficiales aviadores navales y de la Infantería de Marina han integrado las filas del escuadrón bajo el lema *Excellence is a Tradition*. Sus aviones azules y dorados, reconocibles en todo el mundo, han actuado ante centenares de millones de espectadores desde su base de Pensacola y su centro de entrenamiento invernal en El Centro (California). Más allá del espectáculo acrobático, la unidad perdura como testimonio vivo de la evolución técnica del caza embarcado desde el motor radial de pistón hasta el reactor polivalente del siglo XXI.
+Desde aquella directiva fundacional de abril de 1946, centenares de oficiales aviadores navales y de la Infantería de Marina han integrado las filas del escuadrón bajo el lema *Excellence is a Tradition*. Sus aviones azules y dorados, reconocibles en todo el mundo, han actuado ante centenares de millones de espectadores desde su base de Pensacola y su centro de entrenamiento invernal en El Centro (California). Más allá del espectáculo acrobático, la unidad perdura como testimonio vivo de la evolución técnica del caza embarcado desde el motor radial de pistón hasta el reactor polivalente del siglo XXI.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

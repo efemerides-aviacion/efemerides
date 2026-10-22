@@ -6,7 +6,7 @@ categories: [accidente]
 author: Enrique Pomares
 pais: China
 operator: China Eastern Airlines
-excerpt: "El 21 de marzo de 2022, el vuelo 5735 de China Eastern Airlines, un Boeing 737-800 con matrícula B-1791, se estrelló en una zona montañosa de Guangxi mientras cubría la ruta Kunming-Guangzhou, causando la muerte de las 132 personas a bordo. La investigación oficial aún no ha determinado la causa del accidente, y a 2026 no se ha publicado un informe final concluyente."
+excerpt: "El 21 de marzo de 2022, el vuelo 5735 de China Eastern Airlines, un Boeing 737-800 con matrícula B-1791, se estrelló en una zona montañosa de Guangxi mientras cubría la ruta Kunming-Guangzhou, causando la muerte de las 132 personas a bordo. La autoridad aeronáutica china mantuvo abierta la investigación oficial sin publicar un informe final concluyente sobre la causa del siniestro."
 image: 2022-03-21-vuelo-5735-china-eastern-airlines.webp
 ---
 
@@ -39,7 +39,7 @@ image: 2022-03-21-vuelo-5735-china-eastern-airlines.webp
 - **Personas a bordo:** 132
 - **Víctimas mortales:** 132
 - **Fase de vuelo:** En ruta, nivel de crucero FL291 (aproximadamente 8.900 m)
-- **Causa oficial:** Pendiente de determinación; la investigación continúa sin informe final publicado a marzo de 2026
+- **Causa oficial:** Sin dictamen definitivo publicado por la autoridad investigadora (CAAC)
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -54,7 +54,7 @@ China vivía en marzo de 2022 bajo estrictas medidas sanitarias derivadas de la 
 El Boeing 737-800 es un avión de pasillo único ampliamente probado, con más de 5.000 unidades entregadas desde finales de los años 90. La aeronave siniestrada, con apenas siete años de servicio, contaba con todos los sistemas de seguridad modernos, incluyendo registradores de vuelo digitales y sistema de alerta de proximidad al terreno (EGPWS). El análisis de los datos de vuelo sería crucial para entender la secuencia del accidente.
 
 ### Entorno cultural
-La aviación comercial en China es un símbolo de modernidad y eficiencia estatal. La respuesta a un accidente implica una coordinación entre la Administración de Aviación Civil de China (CAAC), las autoridades locales y la aerolínea. La transparencia en las investigaciones ha sido un tema recurrente, con periodistas y familiares demandando acceso a la información. El hecho de que el informe final no se haya publicado más de tres años después ha generado especulaciones y críticas internacionales.
+La aviación comercial en China es un símbolo de modernidad y eficiencia estatal. La respuesta a un accidente implica una coordinación entre la Administración de Aviación Civil de China (CAAC), las autoridades locales y la aerolínea. La transparencia en las investigaciones ha sido un tema recurrente, con periodistas y familiares demandando acceso a la información. La ausencia prolongada de un informe final oficial generó especulaciones y críticas en el ámbito aeronáutico internacional.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -73,7 +73,7 @@ La aviación comercial en China es un símbolo de modernidad y eficiencia estata
 - **2023-2024:** Fuentes no oficiales filtran que los datos del FDR sugieren una entrada de control intencional (push forward) en la columna de control, posiblemente realizada por el instructor o el capitán. La CAAC no confirma ni desmiente, alegando secreto de investigación.
 - **15 de marzo de 2024:** Reuters informa que el informe final sigue sin publicarse y que fuentes cercanas a la investigación citan "sensibilidad nacional" como razón de la demora.
 - **21 de marzo de 2025:** Tercer aniversario del accidente. Las familias de las víctimas realizan ceremonias privadas, mientras la CAAC reitera que la investigación "continúa" y que no hay plazo para la publicación del informe final.
-- **Marzo de 2026:** A cuatro años del accidente, no se ha publicado un informe final concluyente. La falta de transparencia ha generado críticas de expertos internacionales y organismos de víctimas.
+- **2026:** La investigación de la CAAC prosiguió sin la difusión de un informe final concluyente, entre reclamos de transparencia de expertos internacionales y familiares.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
@@ -112,7 +112,7 @@ El accidente del vuelo 5735 de China Eastern Airlines es, hasta la fecha, el peo
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 <div class="note-box">
-<p><strong>Nota aclaratoria sobre el estado de la investigación:</strong> A marzo de 2026, la autoridad aeronáutica china (CAAC) no ha publicado el informe final del accidente del vuelo MU5735. La información disponible proviene de informes preliminares oficiales (abril de 2022), filtraciones a medios internacionales como Reuters y análisis de expertos basados en datos parciales. Según fuentes no oficiales, los registradores de vuelo analizados en Estados Unidos indicarían movimientos de control intencionales en cabina como causa probable, pero la CAAC no ha confirmado ni desmentido esta hipótesis. La demora en la publicación del informe ha sido atribuida a "consideraciones de seguridad nacional" por fuentes anónimas. En consecuencia, la causa oficial del accidente sigue sin determinarse, y cualquier afirmación sobre la misma debe considerarse especulativa hasta que se publique el informe final.</p>
+<p><strong>Nota aclaratoria sobre el estado de la investigación:</strong> En los años siguientes al siniestro, la autoridad aeronáutica china (CAAC) mantuvo sin publicar el informe final del accidente del vuelo MU5735. La información disponible proviene de informes preliminares oficiales (abril de 2022), filtraciones a medios internacionales como Reuters y análisis de expertos basados en datos parciales. Según fuentes no oficiales, los registradores de vuelo analizados en Estados Unidos indicarían movimientos de control intencionales en cabina como causa probable, pero la CAAC no ha confirmado ni desmentido esta hipótesis. La demora en la publicación del informe ha sido atribuida a "consideraciones de seguridad nacional" por fuentes anónimas. En consecuencia, la causa oficial del accidente sigue sin determinarse, y cualquier afirmación sobre la misma debe considerarse especulativa hasta que se publique el informe final.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">

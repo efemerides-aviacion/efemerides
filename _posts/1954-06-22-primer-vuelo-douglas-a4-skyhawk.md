@@ -82,7 +82,7 @@ Asimismo, su bajo coste de adquisición y operación lo convirtió en el avión 
 
 ## Legado
 
-Distinguido en 1983 con la Medalla Nacional de Ciencias de Estados Unidos por el conjunto de su obra, Edward H. Heinemann consideró siempre al Skyhawk como la expresión más pura de su filosofía de ingeniería. Setenta y dos años después de aquel primer vuelo de Bob Rahn en Edwards el 22 de junio de 1954, el pequeño delta que nació pesando la mitad de lo pedido por el Pentágono sigue volando en el siglo XXI con radar de barrido electrónico y cabina digital, confirmando la vigencia de un diseño concebido bajo la premisa de simplificar y añadir ligereza.
+Distinguido en 1983 con la Medalla Nacional de Ciencias de Estados Unidos por el conjunto de su obra, Edward H. Heinemann consideró siempre al Skyhawk como la expresión más pura de su filosofía de ingeniería. Más allá de aquel primer vuelo de Bob Rahn en Edwards el 22 de junio de 1954, el pequeño delta que nació pesando la mitad de lo pedido por el Pentágono prolongó su carrera hasta el siglo XXI con radar de barrido electrónico y cabina digital, confirmando la vigencia de un diseño concebido bajo la premisa de simplificar y añadir ligereza.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

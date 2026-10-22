@@ -75,7 +75,7 @@ El pasaje sobre el coso hizo visible el proyecto de Maracay en el centro de Cara
 
 ## Legado
 
-Ciento cinco años después, el sobrevuelo queda como una de las primeras imágenes públicas de la aviación militar venezolana. El Museo Aeronáutico de Maracay exhibe un Caudron G.3. La placa fotográfica de Manrique sigue siendo el documento visual del 9 de mayo.
+Aquel sobrevuelo quedó registrado como una de las primeras imágenes públicas de la aviación militar venezolana. El Museo Aeronáutico de Maracay exhibe un Caudron G.3. La placa fotográfica de Manrique sigue siendo el documento visual del 9 de mayo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
