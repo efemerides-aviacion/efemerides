@@ -81,7 +81,7 @@ Dos días después, el 27 de agosto, el <a href="https://efemerides-aviacion.git
 
 ## Legado
 
-Ciento siete años después, el 25 de agosto de 1919 sigue siendo la fecha que British Airways, el Museo de la RAF y los museos nacionales escoceses marcan como arranque del servicio internacional diario. No fue el primer pasajero sobre el Canal ni el primer Farman París–Bruselas; fue el primer **horario diario** británico —y el que la historiografía de BA toma como nacimiento.
+Para la historiografía británica, el 25 de agosto de 1919 sigue siendo la fecha que British Airways, el Museo de la RAF y los museos nacionales escoceses marcan como arranque del servicio internacional diario. No fue el primer pasajero sobre el Canal ni el primer Farman París–Bruselas; fue el primer **horario diario** británico —y el que la historiografía de BA toma como nacimiento.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

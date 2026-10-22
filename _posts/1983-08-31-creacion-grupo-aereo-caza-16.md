@@ -91,7 +91,7 @@ La flota de 24 aparatos —dieciocho monoplazas y seis biplazas— dio a Venezue
 
 ## Legado
 
-Cuarenta y tres años después, el Grupo Aéreo de Caza N.º 16 sigue siendo la unidad de los F-16 venezolanos y conserva el apodo de Dragones. La restricción posterior de repuestos y modernización, impuesta por Estados Unidos, redujo la disponibilidad de la flota, pero no disolvió la agrupación creada el 31 de agosto de 1983.
+Dentro de la Aviación Militar venezolana, el Grupo Aéreo de Caza N.º 16 sigue siendo la unidad de los F-16 y conserva el apodo de Dragones. La restricción posterior de repuestos y modernización, impuesta por Estados Unidos, redujo la disponibilidad de la flota, pero no disolvió la agrupación creada el 31 de agosto de 1983.
 
 La unidad nació por resuelto dos meses y medio antes de que el primer Falcon tocara suelo venezolano. Esa distancia entre el instrumento jurídico y el aparato en vuelo es el rasgo que distingue la fecha que aquí se conmemora.
 

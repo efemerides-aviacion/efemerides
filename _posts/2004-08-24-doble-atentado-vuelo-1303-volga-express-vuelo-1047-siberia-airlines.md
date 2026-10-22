@@ -77,7 +77,7 @@ Rusia reforzó de inmediato los controles en aeropuertos. El MAK cerró ambos ex
 
 ## Legado
 
-Veintidós años después, el 24 de agosto de 2004 permanece como el doble atentado más grave contra la aviación comercial rusa en una sola noche. No cambió el tipo de avión: cambió la idea de que un vuelo interior de una hora estaba al margen de la guerra del Cáucaso. Las fotografías de junio de 2004 de los dos Tupolev, todavía enteros en Domodédovo, son el documento visual que corresponde a este recuerdo.
+El 24 de agosto de 2004 permanece como el doble atentado más grave perpetrado contra la aviación comercial rusa en una sola noche. No cambió el tipo de avión: cambió la idea de que un vuelo interior de una hora estaba al margen de la guerra del Cáucaso. Las fotografías de junio de 2004 de los dos Tupolev, todavía enteros en Domodédovo, son el documento visual que corresponde a este recuerdo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 

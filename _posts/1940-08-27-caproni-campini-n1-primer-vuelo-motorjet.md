@@ -94,7 +94,7 @@ La primacía que la FAI había reconocido se desvaneció al conocerse el vuelo d
 
 ## Legado
 
-Ochenta y seis años después, el Caproni Campini N.1 se recuerda menos por lo que consiguió que por lo que ilustra: que en la carrera por la propulsión a reacción no bastaba con prescindir de la hélice. Había que resolver cómo mover el compresor, y la respuesta correcta era la turbina, no el motor de pistón.
+Revisado con distancia técnica, el Caproni Campini N.1 se recuerda menos por lo que consiguió que por lo que ilustra: que en la carrera por la propulsión a reacción no bastaba con prescindir de la hélice. Había que resolver cómo mover el compresor, y la respuesta correcta era la turbina, no el motor de pistón.
 
 Aun así, el aparato voló, transportó correo y llevó pasajero, cosas que ningún reactor alemán o británico hizo en aquellas fechas. Fue el primer avión a reacción del mundo en volar con dos personas a bordo y el primero en trasladar correo aéreo.
 

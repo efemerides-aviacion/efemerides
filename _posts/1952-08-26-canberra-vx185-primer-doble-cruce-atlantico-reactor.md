@@ -76,7 +76,7 @@ Beamont, as de Typhoon y Tempest y el hombre que había hecho volar el primer Ca
 
 ## Legado
 
-Setenta y cuatro años después, el doble cruce del VX185 sigue siendo el hito que cierra el argumento del Canberra de los primeros cincuenta: no solo el primer bombardero a reacción británico, sino el primer jet que fue a América y volvió a casa antes de que acabara el día. El morro del VX185 se conserva en East Fortune. El tipo sirvió en la RAF hasta 2006 y, en Venezuela, en el <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1961/07/27/creacion-grupo-aereo-bombardeo-13-leones.html" style="color: #315fea; text-decoration: none;">Grupo Aéreo de Bombardeo N.º 13 «Leones», creado en 1961</a>.
+En la crónica de la aviación británica, el doble cruce del VX185 sigue siendo el episodio que consagra al Canberra de los primeros cincuenta: no solo el primer bombardero a reacción británico, sino el primer jet que fue a América y volvió a casa antes de que acabara el día. El morro del VX185 se conserva en East Fortune. El tipo sirvió en la RAF hasta 2006 y, en Venezuela, en el <a href="https://efemerides-aviacion.github.io/efemerides/fundacion/1961/07/27/creacion-grupo-aereo-bombardeo-13-leones.html" style="color: #315fea; text-decoration: none;">Grupo Aéreo de Bombardeo N.º 13 «Leones», creado en 1961</a>.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

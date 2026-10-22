@@ -86,7 +86,7 @@ Tiburzi ha relatado el reverso de ese honor: el miedo a suspender la academia y 
 
 ## Legado
 
-Setenta y ocho años después de su nacimiento, el Smithsonian exhibe su uniforme de primer oficial de American Airlines en *America by Air*, junto al de Warner. La distinción que el museo formula sigue siendo la precisa: Warner, primera en una aerolínea regular estadounidense; Tiburzi, primera en una gran aerolínea.
+Como testimonio material de aquella apertura, el Smithsonian exhibe su uniforme de primer oficial de American Airlines en *America by Air*, junto al de Warner. La distinción que el museo formula sigue siendo la precisa: Warner, primera en una aerolínea regular estadounidense; Tiburzi, primera en una gran aerolínea.
 
 Ella no se presentó como militante. Quiso el trabajo que había visto en su padre. El 31 de agosto marca a la vez el día en que nació y, cincuenta años más tarde, el día en que dejó de volar para American.
 

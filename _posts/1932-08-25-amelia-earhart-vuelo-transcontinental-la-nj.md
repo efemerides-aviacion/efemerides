@@ -85,7 +85,7 @@ No batió la marca masculina de Hawks. Earhart lo dijo con claridad a la prensa:
 
 El NR7952 se vendió en 1933 al Franklin Institute de Filadelfia, cuando Earhart pasó a un Vega 5C. El Smithsonian lo adquirió en 1966. Hoy se exhibe en la galería de pioneros del National Air and Space Museum: el mismo aparato del Atlántico y del cruce de costa a costa.
 
-Noventa y cuatro años después, el 25 de agosto es la fecha de culminación de aquel vuelo. La marca de distancia femenina de 1932 quedó superada; el hecho que no se diluye es el primero: una mujer, sola, sin escalas, de un océano al otro de los Estados Unidos.
+En el registro deportivo de la FAI, el 25 de agosto fija la culminación de aquel vuelo. La marca de distancia femenina de 1932 quedó superada; el hecho que no se diluye es el primero: una mujer, sola, sin escalas, de un océano al otro de los Estados Unidos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

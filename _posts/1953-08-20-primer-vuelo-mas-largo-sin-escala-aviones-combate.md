@@ -77,7 +77,7 @@ Al mismo tiempo, el éxito de las operaciones de agosto y octubre de 1953 demost
 
 ## Legado
 
-Setenta y tres años después de aquel cruce entre Georgia y Suffolk, el vuelo de los diecisiete Republic F-84G del 20 de agosto de 1953 permanece en la historia de la aviación militar como el eslabón que transformó al caza monoplaza de un arma de defensa local en un vector de proyección intercontinental. Las 4.485 millas cubiertas sin tocar tierra demostraron que la autonomía de una fuerza aérea moderna ya no estaba limitada por el volumen interno de los depósitos de un caza, sino por el alcance global de su red de aviones cisterna.
+Más allá de aquel cruce oceánico entre Georgia y Suffolk, el vuelo de los diecisiete Republic F-84G del 20 de agosto de 1953 permanece en la historia de la aviación militar como el eslabón que transformó al caza monoplaza de un arma de defensa local en un vector de proyección intercontinental. Las 4.485 millas cubiertas sin escalas demostraron que la autonomía de una fuerza aérea moderna ya no estaba limitada por el volumen interno de los depósitos de un caza, sino por el alcance global de su red de aviones cisterna.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

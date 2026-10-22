@@ -79,7 +79,7 @@ El récord absoluto de edad en circunnavegación en solitario pasó de 18 años 
 
 ## Legado
 
-Cuatro años después, el 24 de agosto de 2022 sigue siendo la fecha de Guinness. No es el primer vuelo alrededor del mundo —<a href="https://efemerides-aviacion.github.io/efemerides/evento/2002/07/04/steve-fossett-vuelta-mundo-globo.html" style="color: #315fea; text-decoration: none;">Steve Fossett cerró el suyo en globo en 2002</a>—; es el más joven en avión y en solitario. El Shark F-JAJP y el apodo Macksolo quedaron ligados a ese aterrizaje en Sofía.
+En el libro Guinness, el 24 de agosto de 2022 quedó inscrito con esa marca. No es el primer vuelo alrededor del mundo —<a href="https://efemerides-aviacion.github.io/efemerides/evento/2002/07/04/steve-fossett-vuelta-mundo-globo.html" style="color: #315fea; text-decoration: none;">Steve Fossett cerró el suyo en globo en 2002</a>—; es el más joven en avión y en solitario. El Shark F-JAJP y el apodo Macksolo quedaron ligados a ese aterrizaje en Sofía.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

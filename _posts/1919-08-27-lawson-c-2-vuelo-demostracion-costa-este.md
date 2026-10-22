@@ -81,7 +81,7 @@ El vuelo dejó, aun así, una marca local: Milwaukee lo recuerda como su primer 
 
 ## Legado
 
-Ciento siete años después, el Lawson C-2 se recuerda como el primer avión de línea concebido en Estados Unidos, el eslabón estadounidense de una carrera que en Europa ya habían abierto el Farman F.60 Goliath y las primeras líneas regulares de 1919. La aviación comercial de pasajeros en Estados Unidos no despegaría de verdad hasta los contratos de correo aéreo de mediados de los años veinte, que financiaron a las aerolíneas que hoy dominan el cielo.
+En la genealogía del transporte comercial, el Lawson C-2 se recuerda como el primer avión de línea concebido en Estados Unidos, el eslabón estadounidense de una carrera que en Europa ya habían abierto el Farman F.60 Goliath y las primeras líneas regulares de 1919. La aviación comercial de pasajeros en Estados Unidos no despegaría de verdad hasta los contratos de correo aéreo de mediados de los años veinte, que financiaron a las aerolíneas que hoy dominan el cielo.
 
 Lawson quedó como precursor: el hombre que, antes que nadie en su país, dibujó un avión pensado únicamente para el viajero. Su apuesta fracasó en lo comercial, pero anticipó con exactitud la forma —grande, multimotor, de cabina cerrada— que adoptaría el transporte aéreo del siglo XX.
 

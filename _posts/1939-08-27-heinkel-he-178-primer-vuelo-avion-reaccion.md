@@ -93,7 +93,7 @@ Solo un prototipo llegó a volar con motor. El segundo, el V2, de alas de puntas
 
 ## Legado
 
-Ochenta y siete años después, el vuelo del He 178 marca el punto exacto en que la aviación dejó atrás la hélice como único medio de propulsión. Todo lo que vino después —el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1941/04/18/primer-vuelo-prototipo-messerschmitt-me-262.html" style="color: #315fea; text-decoration: none;">Messerschmitt Me 262, cuyo prototipo voló en abril de 1941</a>, los reactores comerciales, la aviación de transporte moderna— arranca de aquel circuito de pocos minutos sobre un aeródromo del Báltico.
+En la evolución del avión moderno, el vuelo del He 178 señala el instante exacto en que la aviación dejó atrás la hélice como único medio de propulsión. Todo lo que vino después —el <a href="https://efemerides-aviacion.github.io/efemerides/evento/1941/04/18/primer-vuelo-prototipo-messerschmitt-me-262.html" style="color: #315fea; text-decoration: none;">Messerschmitt Me 262, cuyo prototipo voló en abril de 1941</a>, los reactores comerciales, la aviación de transporte moderna— arranca de aquel circuito de pocos minutos sobre un aeródromo del Báltico.
 
 La historiografía suele presentar a von Ohain y a Whittle como rivales, pero ellos mismos rechazaron esa lectura. Trabajaron sin conocerse, resolvieron el mismo problema por vías distintas y, tras la guerra, coincidieron en Estados Unidos y mantuvieron una relación cordial. Von Ohain desarrolló su carrera en la base aérea de Wright-Patterson; su archivo personal se conserva en el Smithsonian.
 

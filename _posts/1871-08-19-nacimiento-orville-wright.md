@@ -81,7 +81,7 @@ Orville, callado hasta el punto de no hablar en la dedicatoria del memorial de K
 
 ## Legado
 
-Ciento cincuenta y cinco años después de su nacimiento, Orville Wright sigue siendo el hombre que primero pilotó un avión y el último testigo presencial de cómo se inventó el vuelo: del juguete de Pénaud que voló hasta el techo al memorial de Kitty Hawk ante el que se quedó callado. Construyó con su hermano, por menos de mil dólares, un avioncito frágil de madera y tela que cambió a la humanidad, y cuando le preguntaban por el milagro, respondía con cifras de sustentación. «Si habláramos mucho», dijo alguna vez, «no construiríamos nada»; construyó, voló primero, y dejó que el 19 de agosto hablara por él.
+En la historia universal del vuelo con motor, Orville Wright sigue siendo el hombre que primero pilotó un avión y el último testigo presencial de cómo se inventó el vuelo: del juguete de Pénaud que voló hasta el techo al memorial de Kitty Hawk ante el que se quedó callado. Construyó con su hermano, por menos de mil dólares, un avioncito frágil de madera y tela que cambió a la humanidad, y cuando le preguntaban por el milagro, respondía con cifras de sustentación. «Si habláramos mucho», dijo alguna vez, «no construiríamos nada»; construyó, voló primero, y dejó que el 19 de agosto hablara por él.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

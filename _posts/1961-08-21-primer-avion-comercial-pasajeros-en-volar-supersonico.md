@@ -74,7 +74,7 @@ El cielo negro de la estratosfera fue lo que más impresionó a Edwards: nunca h
 
 ## Legado
 
-Sesenta y cinco años después, el picado del N9604Z sigue siendo la respuesta cuando se pregunta si un avión de pasajeros vivió del otro lado de la barrera del sonido: sí, una sola vez, durante dieciséis segundos, con un cielo negro por testigo y cuatro hombres que volvieron a casa sonriendo. El DC-8 que Canadian Pacific voló casi dos décadas terminó en chatarra en 1980, pero aquel día de agosto quedó para siempre como el día en que un avión de línea le ganó, aunque fuera por un instante, la carrera al Concorde.
+En los anales de Edwards, el picado del N9604Z sigue siendo la respuesta cuando se pregunta si un avión de pasajeros vivió del otro lado de la barrera del sonido: sí, una sola vez, durante dieciséis segundos, con un cielo negro por testigo y cuatro hombres que volvieron a casa sonriendo. El DC-8 que Canadian Pacific voló casi dos décadas terminó en chatarra en 1980, pero aquel día de agosto quedó para siempre como el día en que un avión de línea le ganó, aunque fuera por un instante, la carrera al Concorde.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

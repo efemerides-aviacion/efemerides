@@ -77,7 +77,7 @@ La denominación societaria resumía una vocación estratégica: la sigla «Embr
 
 ## Legado
 
-Cincuenta y siete años después de su fundación, Embraer sigue en São José dos Campos, privatizada pero fiel al triángulo que la vio nacer, y el nombre Bandeirante se lee en las colas de medio mundo. La empresa que nació para producir un solo avión terminó enseñándole al planeta a volar en corto: cada E-Jet que despega es hijo de aquel taller estatal de 1969 que solo quería que ningún pueblo del Brasil quedara sin su vuelo.
+Consolidada entre los grandes fabricantes mundiales, Embraer sigue en São José dos Campos, privatizada pero fiel al triángulo que la vio nacer, y el nombre Bandeirante se lee en las colas de medio mundo. La empresa que nació para producir un solo avión terminó enseñándole al planeta a volar en corto: cada E-Jet que despega es hijo de aquel taller estatal de 1969 que solo quería que ningún pueblo del Brasil quedara sin su vuelo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

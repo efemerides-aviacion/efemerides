@@ -20,7 +20,7 @@ image: 1974-08-21-primer-vuelo-bae-hawk-entrenador-avanzado.webp
 <!-- ## Resumen Ejecutivo -->
 <div class="highlight-box">
 <p>El 21 de agosto de 1974, el prototipo XX154 del Hawker Siddeley Hawk despegó del aeródromo de Dunsfold, en Surrey, pilotado por el piloto jefe de pruebas de la compañía, Duncan Simpson. El vuelo duró 53 minutos y alcanzó los 20.000 pies (6.096 m). El aparato respondía a un encargo de la Royal Air Force (RAF) (Real Fuerza Aérea británica) que buscaba un reactor de entrenamiento sencillo, barato de operar y disponible a tiempo.</p>
-<p>El equipo dirigido por Ralph Hooper lo diseñó desde la hoja en blanco con una premisa poco común entonces: un avión concebido para enseñar, y no un caza reconvertido en aula. El programa se mantuvo dentro de plazo y de presupuesto. Cincuenta y dos años después, superadas las mil unidades entregadas a dieciocho operadores, el Hawk sigue formando pilotos de reacción en medio mundo, vuela con los Red Arrows desde 1979 y, en su versión embarcada T-45 Goshawk, adiestra a los aviadores navales estadounidenses.</p>
+<p>El equipo dirigido por Ralph Hooper lo diseñó desde la hoja en blanco con una premisa poco común entonces: un avión concebido para enseñar, y no un caza reconvertido en aula. El programa se mantuvo dentro de plazo y de presupuesto. Superadas con creces las mil unidades entregadas a dieciocho operadores, el Hawk formó generaciones de pilotos de reacción en medio mundo, vuela con los Red Arrows desde 1979 y, en su versión embarcada T-45 Goshawk, adiestra a los aviadores navales estadounidenses.</p>
 </div>
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
@@ -94,7 +94,7 @@ El primer vuelo de 1974 abrió un programa cuyos efectos desbordaron ampliamente
 
 ## Legado
 
-Cincuenta y dos años después de aquel despegue de Dunsfold, el Hawk sigue en servicio en buena parte de las fuerzas aéreas que lo adquirieron y continúa fabricándose bajo licencia en la India, aunque la producción británica cerrara en 2020. Pocos programas aeronáuticos europeos han sostenido una carrera comercial tan prolongada.
+Cerrada la línea británica en 2020 tras décadas de entregas desde aquel despegue de Dunsfold, el Hawk prolongó su vida operativa en numerosas fuerzas aéreas y su fabricación bajo licencia en la India. Pocos programas aeronáuticos europeos han sostenido una carrera comercial tan prolongada.
 
 El prototipo XX154 voló durante cuarenta y cuatro años. Tras servir en organismos de ensayo y pasar sus dos últimas décadas en la Empire Test Pilots' School, se retiró en diciembre de 2018 y fue trasladado por vía aérea, bajo un helicóptero Chinook, hasta la Boscombe Down Aviation Collection de Old Sarum el 21 de agosto de 2019, cuadragésimo quinto aniversario exacto de su primer vuelo. El patrimonio aeronáutico británico lo clasifica como célula de referencia, la más alta de sus cinco categorías.
 

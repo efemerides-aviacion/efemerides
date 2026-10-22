@@ -99,7 +99,7 @@ Walker dejó el X-15 aquel mismo día. Fue destinado al **Lunar Landing Research
 
 ## Legado
 
-Sesenta y tres años después, el vuelo 91 sigue siendo la cota máxima de un avión pilotado que despega y aterriza como tal.
+Dentro de la investigación hipersónica, el vuelo 91 sigue siendo la cota máxima de un avión pilotado que despega y aterriza como tal.
 
 El reconocimiento oficial, en cambio, llegó tarde y de forma póstuma. Los pilotos militares del X-15 que pasaron de las 50 millas —entre ellos <a href="https://efemerides-aviacion.github.io/efemerides/nacimiento/1924/07/06/nacimiento-robert-white-x15-astronauta.html" style="color: #315fea; text-decoration: none;">Robert White, nacido el 6 de julio de 1924</a>— recibieron sus alas de astronauta en su momento. Los civiles quedaron fuera durante cuatro décadas.
 
