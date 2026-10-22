@@ -81,7 +81,7 @@ Abrió a las mujeres argentinas la cabina, la instrucción y el deporte aéreo, 
 
 ## Legado
 
-Ciento veintisiete años después de su nacimiento, Lorenzini da nombre a calles en decenas de localidades argentinas. El Correo Argentino la honró en 2001 con un sello junto a Jean Mermoz. La Fuerza Aérea Argentina bautizó «Paloma Gaucha» al Embraer ERJ 140 LR T-96. El legado mayor no está en la toponimia: la empleada que vendió su bicicleta para aprender a volar quedó como quien enseñó que el cielo también era de las mujeres del Cono Sur.
+A lo largo del territorio argentino, Lorenzini da nombre a calles en decenas de localidades. El Correo Argentino la honró en 2001 con un sello junto a Jean Mermoz. La Fuerza Aérea Argentina bautizó «Paloma Gaucha» al Embraer ERJ 140 LR T-96. El legado mayor no está en la toponimia: la empleada que vendió su bicicleta para aprender a volar quedó como quien enseñó que el cielo también era de las mujeres del Cono Sur.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

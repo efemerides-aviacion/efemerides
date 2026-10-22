@@ -74,7 +74,7 @@ Sobre el golfo pesaban la Declaración de Sochagota de 1969, las conversaciones 
 
 ## Legado
 
-Treinta y nueve años después, la crisis de la corbeta Caldas sigue siendo la vara con que se miden todas las fricciones entre Venezuela y Colombia: el día en que los F-16 volaron rasantes sobre una corbeta gris, las fragatas ocuparon posiciones de tiro y un presidente tuvo sobre la mesa la orden de atacar. Aquella madrugada del 18 de agosto en que la Independiente viró al norte sin que sonara un cañón quedó como la prueba de que, incluso con los radares de tiro encendidos, la última palabra puede ser la diplomacia; y como advertencia de que, mientras el golfo no tenga línea aceptada por los dos, el paralelo de Castilletes seguirá siendo el punto donde el mar se vuelve pólvora.
+En la historia diplomática bilateral, la crisis de la corbeta Caldas sigue siendo la vara con que se miden las fricciones entre Venezuela y Colombia: el día en que los F-16 volaron rasantes sobre una corbeta gris, las fragatas ocuparon posiciones de tiro y un presidente tuvo sobre la mesa la orden de atacar. Aquella madrugada del 18 de agosto en que la Independiente viró al norte sin que sonara un cañón quedó como la prueba de que, incluso con los radares de tiro encendidos, la última palabra puede ser la diplomacia; y como advertencia de que, mientras el golfo no tenga línea aceptada por los dos, el paralelo de Castilletes seguirá siendo el punto donde el mar se vuelve pólvora.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

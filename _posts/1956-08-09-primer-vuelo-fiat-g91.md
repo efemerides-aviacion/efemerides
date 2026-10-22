@@ -81,7 +81,7 @@ Para Italia y Alemania Occidental, en cambio, el impacto industrial fue decisivo
 
 ## Legado
 
-Setenta años después de aquel despegue en Caselle el 9 de agosto de 1956, el Fiat G.91 conserva el título singular de haber sido el único caza en vencer un concurso común de toda la OTAN. Preservado en decenas de museos y bases aéreas de Italia, Alemania, Portugal y Estados Unidos —incluido el regreso a Italia en 2021 de un veterano ejemplar G.91 PAN de las *Frecce Tricolori*—, el pequeño reactor diseñado por Giuseppe Gabrielli permanece como símbolo del renacimiento aeronáutico italiano de la posguerra.
+Desde aquel despegue en Caselle el 9 de agosto de 1956, el Fiat G.91 conserva el título singular de haber sido el único caza en vencer un concurso común de toda la OTAN. Preservado en decenas de museos y bases aéreas de Italia, Alemania, Portugal y Estados Unidos —incluido el regreso a Italia en 2021 de un ejemplar histórico G.91 PAN de las *Frecce Tricolori*—, el pequeño reactor diseñado por Giuseppe Gabrielli permanece como símbolo del renacimiento aeronáutico italiano de la posguerra.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

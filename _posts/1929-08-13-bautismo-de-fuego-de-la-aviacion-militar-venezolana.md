@@ -71,7 +71,7 @@ Para la joven institución, criada entre vuelos de instrucción y raids de prest
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
-Noventa y siete años después, el 12 y 13 de agosto de 1929 siguen siendo la fecha de nacimiento del empleo combativo del avión en Venezuela: la tradición de la fuerza aérea los recoge como su bautismo de fuego, y los nombres de Ríos, Landaeta, Villegas y de los instructores franceses encabezan la nómina de pioneros del arma. El episodio dejó además una lección permanente sobre el vínculo entre aviación y poder político: los mismos Breguet que no alcanzaron al Falke demostraron que ninguna provincia venezolana quedaría fuera del alcance del avión, cumpliéndose la sentencia de Gómez.
+En la memoria institucional, el 12 y 13 de agosto de 1929 siguen siendo la fecha de nacimiento del empleo combativo del avión en Venezuela: la tradición de la fuerza aérea los recoge como su bautismo de fuego, y los nombres de Ríos, Landaeta, Villegas y de los instructores franceses encabezan la nómina de pioneros del arma. El episodio dejó además una lección permanente sobre el vínculo entre aviación y poder político: los mismos Breguet que no alcanzaron al Falke demostraron que ninguna provincia venezolana quedaría fuera del alcance del avión, cumpliéndose la sentencia de Gómez.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas

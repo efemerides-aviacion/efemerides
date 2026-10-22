@@ -92,7 +92,7 @@ En su faceta de ataque ligero protagonizó en mayo de 1982 las misiones desde la
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
-Cincuenta años después de aquel despegue en Venegono, la lección del MB-339 sigue siendo de gestión industrial antes que de ingeniería. Aermacchi descartó siete propuestas enteramente nuevas porque una evolución razonada del MB-326 satisfacía los requisitos a una fracción del coste y del riesgo técnico. El resultado fue una familia longeva cuyo relevo actual en Italia, el M-345, mantiene esa misma filosofía evolutiva, mientras el MB-339PAN continúa asociado en la memoria pública a las estelas tricolores de la patrulla acrobática nacional italiana.
+Más allá de aquel despegue en Venegono, la lección del MB-339 sigue siendo de gestión industrial antes que de ingeniería. Aermacchi descartó siete propuestas enteramente nuevas porque una evolución razonada del MB-326 satisfacía los requisitos a una fracción del coste y del riesgo técnico. El resultado fue una familia longeva cuyo relevo actual en Italia, el M-345, mantiene esa misma filosofía evolutiva, mientras el MB-339PAN continúa asociado en la memoria pública a las estelas tricolores de la patrulla acrobática nacional italiana.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas

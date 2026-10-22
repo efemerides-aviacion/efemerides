@@ -70,7 +70,7 @@ El Condor encarnó la idea del avión como puente entre pueblos que proclamaba l
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
-Ochenta y ocho años después, el doble vuelo del Brandenburg se recuerda como el momento en que un avión de ruedas demostró que el océano podía cruzarse de un tirón, proeza que hasta entonces solo se había ensayado como récord. El Fw 200 dejó tras de sí una doble memoria: la del puente civil entre Berlín y Nueva York que la propaganda quiso y la guerra deshizo, y la del azote militar de los convoyes; pero fue aquel agosto de 1938, con Kober, Dierberg, Henke y von Moreau recibidos con flores en Tempelhof, cuando un avión de línea demostró que el Atlántico podía cruzarse de un tirón, en ambos sentidos, y que el futuro del transporte intercontinental tenía ruedas y no flotadores.
+En la historia del transporte aéreo, el doble vuelo del Brandenburg se recuerda como el momento en que un avión de ruedas demostró que el océano podía cruzarse de un tirón, proeza que hasta entonces solo se había ensayado como récord. El Fw 200 dejó tras de sí una doble memoria: la del puente civil entre Berlín y Nueva York que la propaganda quiso y la guerra deshizo, y la del azote militar de los convoyes; pero fue aquel agosto de 1938, con Kober, Dierberg, Henke y von Moreau recibidos con flores en Tempelhof, cuando un avión de línea demostró que el Atlántico podía cruzarse de un tirón, en ambos sentidos, y que el futuro del transporte intercontinental tenía ruedas y no flotadores.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Referencias Verificadas

@@ -77,7 +77,7 @@ Piccard pertenecía a una estirpe: su gemelo Jean Felix volaría también a la e
 
 ## Legado
 
-Noventa y cuatro años después, la esfera de aluminio del segundo ascenso cuelga en el Science Museum de Londres como lo que es: la primera habitación humana fuera del aire respirable. El nombre de Piccard lo llevan un cráter lunar y otro en la cara oculta de la Luna, la fosa que su hijo Jacques sondeó y los cielos que su nieto Bertrand circunnavegó; y cada vez que un pasajero de jet mira por el ojo de buey la curva azul del horizonte, mira por la ventana que aquel suizo alto y distraído abrió primero, cuando la estratosfera era un sueño y la curvatura de la Tierra, algo que ningún ojo había visto.
+Conservada en su integridad, la esfera de aluminio del segundo ascenso cuelga en el Science Museum de Londres como lo que es: la primera habitación humana fuera del aire respirable. El nombre de Piccard lo llevan un cráter lunar y otro en la cara oculta de la Luna, la fosa que su hijo Jacques sondeó y los cielos que su nieto Bertrand circunnavegó; y cada vez que un pasajero de jet mira por el ojo de buey la curva azul del horizonte, mira por la ventana que aquel suizo alto y distraído abrió primero, cuando la estratosfera era un sueño y la curvatura de la Tierra, algo que ningún ojo había visto.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

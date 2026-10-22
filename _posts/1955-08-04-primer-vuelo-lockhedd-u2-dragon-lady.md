@@ -95,7 +95,7 @@ Ese riesgo se materializó en mayo de 1960. El derribo del aparato pilotado por 
 
 Pocas aeronaves militares han desmentido tan rotundamente los pronósticos sobre su propia obsolescencia.
 
-El U-2 sobrevivió al aparato concebido para sustituirlo, el SR-71, retirado en 1998, y continúa en servicio de primera línea más de setenta años después de aquel vuelo en Groom Lake. La razón de esa longevidad es operativa antes que sentimental: permite modificar los objetivos de vigilancia con escaso preaviso, algo que los satélites, sujetos a órbitas predecibles, no pueden ofrecer. Los ejemplares actuales, muy alejados del prototipo original, incorporan motores turbofán y sistemas de sensores sucesivamente renovados.
+El U-2 sobrevivió al aparato concebido para sustituirlo, el SR-71, retirado en 1998, y prolongó su servicio de primera línea muchas décadas después de aquel vuelo en Groom Lake. La razón de esa longevidad es operativa antes que sentimental: permite modificar los objetivos de vigilancia con escaso preaviso, algo que los satélites, sujetos a órbitas predecibles, no pueden ofrecer. Los ejemplares actuales, muy alejados del prototipo original, incorporan motores turbofán y sistemas de sensores sucesivamente renovados.
 
 Su empleo desbordó pronto el marco de la Guerra Fría para el que fue concebido, con misiones en escenarios muy diversos a lo largo de las décadas siguientes, y una variante civil que la NASA emplea en investigación atmosférica y observación terrestre.
 

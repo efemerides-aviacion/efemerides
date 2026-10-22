@@ -82,7 +82,7 @@ Durante la guerra, la casa que no lograba vender cazas sostuvo el esfuerzo brit�
 
 ## Legado
 
-Noventa y dos años después de su constitución, Martin-Baker sigue siendo lo que fue en 1934: una empresa familiar en el campo inglés, fiel a Denham y a Chalgrove, donde dos Gloster Meteor de los años cincuenta continúan despegando para ensayar asientos que ojalá nadie use. El nombre que firmaban un ingeniero irlandés y un capitán que murió probando su avión quedó cosido a la corbata de quienes volvieron a casa disparados hacia arriba: «Engineering for Life», dicen hoy en Denham; y en cada cabina de 93 fuerzas aéreas viaja, plegada en un asiento, la promesa que James Martin le hizo a la memoria de Valentine Baker.
+Fiel a su acta fundacional, Martin-Baker sigue siendo lo que fue en 1934: una empresa familiar en el campo inglés, fiel a Denham y a Chalgrove, donde dos Gloster Meteor de los años cincuenta continúan despegando para ensayar asientos que ojalá nadie use. El nombre que firmaban un ingeniero irlandés y un capitán que murió probando su avión quedó cosido a la corbata de quienes volvieron a casa disparados hacia arriba: «Engineering for Life», dicen hoy en Denham; y en cada cabina de 93 fuerzas aéreas viaja, plegada en un asiento, la promesa que James Martin le hizo a la memoria de Valentine Baker.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

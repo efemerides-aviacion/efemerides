@@ -80,7 +80,7 @@ La comparación con el amerizaje del <a href="https://efemerides-aviacion.github
 
 ## Legado
 
-Siete años después, el maizal de Ramenskoye sigue siendo la referencia rusa del aterrizaje imposible: el vuelo 178 se enseña junto al Hudson como demostración de que, cuando la energía se pierde a baja altura, el avión se posa donde pueda y la tripulación decide el resto. Yusupov y Murzin quedaron como héroes nacionales pese a los señalamientos del informe, y el VQ-BOZ, desguazado tras el accidente, permanece en la memoria colectiva como el avión que se tragó una bandada de gaviotas y devolvió a 233 personas a casa.
+En la cultura aeronáutica rusa, el maizal de Ramenskoye sigue siendo el emblema del aterrizaje forzoso resuelto con pericia: el vuelo 178 se enseña junto al Hudson como demostración de que, cuando la energía se pierde a baja altura, el avión se posa donde pueda y la tripulación decide el resto. Yusupov y Murzin quedaron como héroes nacionales pese a los señalamientos del informe, y el VQ-BOZ, desguazado tras el accidente, permanece en la memoria colectiva como el avión que se tragó una bandada de gaviotas y devolvió a 233 personas a casa.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

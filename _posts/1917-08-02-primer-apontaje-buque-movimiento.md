@@ -76,7 +76,7 @@ En el plano operativo, las conclusiones fueron severas. El sucesor de Dunning al
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 ## Legado
 
-Un siglo después, la maniobra de Scapa Flow se lee como el acto fundacional práctico de la aviación embarcada.
+En perspectiva histórica, la maniobra de Scapa Flow se lee como el acto fundacional práctico de la aviación embarcada.
 
 De la experiencia acumulada en el <em>Furious</em> derivan los rasgos que definirían al portaaviones moderno: cubierta continua sin obstáculos, ausencia de superestructura en el eje de aproximación o su desplazamiento a un costado, y sistemas de detención concebidos para dominar la energía del aparato en lugar de confiarla a la fuerza de la tripulación. El HMS <em>Argus</em>, entregado en 1918 con cubierta corrida, materializó ese aprendizaje casi de inmediato.
 

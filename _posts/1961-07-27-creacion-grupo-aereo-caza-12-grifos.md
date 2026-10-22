@@ -78,7 +78,7 @@ Su posterior radicación en la capital larense descentralizó el despliegue de l
 
 ## Legado
 
-Con más de sesenta y cinco años de historia continuada, el **Grupo Aéreo de Caza N.º 12 «Grifos»** es la unidad decana de la aviación de caza a reacción en Venezuela. Por sus líneas de vuelo han pasado siete familias de aeronaves a chorro —Vampire, Venom, F-86F, F-86K, CF-5/NF-5, T-2D Buckeye y K-8W Karakorum—, cuyos ejemplares históricos presiden hoy las áreas monumentales de Barquisimeto y las galerías del Museo Aeronáutico de Maracay como testimonio de la divisa que identifica a sus tripulantes desde 1961: *«Superación»*.
+Activado en el marco de la reorganización aérea de julio de 1961, el **Grupo Aéreo de Caza N.º 12 «Grifos»** es la unidad decana de la aviación de caza a reacción en Venezuela. Por sus líneas de vuelo han pasado siete familias de aeronaves a chorro —Vampire, Venom, F-86F, F-86K, CF-5/NF-5, T-2D Buckeye y K-8W Karakorum—, cuyos ejemplares históricos presiden hoy las áreas monumentales de Barquisimeto y las galerías del Museo Aeronáutico de Maracay como testimonio de la divisa que identifica a sus tripulantes desde 1961: *«Superación»*.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 
