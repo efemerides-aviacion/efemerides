@@ -95,7 +95,7 @@ El ZR-1 ocupa una posición singular porque reúne tres avances que con frecuenc
 
 También obliga a precisar el alcance de la palabra «primero». El ZR-1 no fue el primer dirigible de cualquier clase que voló con helio: el no rígido C-7 de la Armada ya había efectuado ese vuelo sobre Norfolk el 1 de diciembre de 1921. La novedad de 1923 fue llevar el helio a un dirigible rígido de gran tamaño, donde el gas condicionaba desde la capacidad de carga hasta los procedimientos de operación.
 
-Ciento tres años después, la fotografía del aparato emergiendo del Hangar No. 1 sigue condensando aquella ambición. El futuro <em>Shenandoah</em> demostró posibilidades reales de alcance, reconocimiento y formación, pero su pérdida en 1925 recordó también la vulnerabilidad de estas aeronaves ante el tiempo atmosférico y la dificultad de sostener su compleja infraestructura. Esa doble lección —progreso técnico y prudencia operativa— forma parte central de su herencia.
+La fotografía del aparato emergiendo del Hangar No. 1 condensa con nitidez aquella ambición. El futuro <em>Shenandoah</em> demostró posibilidades reales de alcance, reconocimiento y formación, pero su pérdida en 1925 recordó también la vulnerabilidad de estas aeronaves ante el tiempo atmosférico y la dificultad de sostener su compleja infraestructura. Esa doble lección —progreso técnico y prudencia operativa— forma parte central de su herencia.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

@@ -6,7 +6,7 @@ categories: [accidente]
 author: Enrique Pomares
 pais: Yugoslavia (hoy Croacia)
 operator: British Airways / Inex-Adria Aviopromet
-excerpt: "El 10 de septiembre de 1976, el Trident 3B G-AWZT del vuelo BA476 de British Airways y el DC-9 YU-AJR del vuelo JP550 de Inex-Adria convergieron sobre el radiofaro de Zagreb exactos los dos al nivel de vuelo 330, 33.000 pies. Una coordinación de ascenso mal cerrada entre dos sectores del control y una orden de última hora dada en serbocroata, contra el reglamento de fraseología, dejaron a dos reactores en idéntica línea de vuelo, casi de frente: 176 muertos sin un solo superviviente, el mayor desastre de la aviación ocurrido en suelo croata, que este 2026 cumple medio siglo."
+excerpt: "El 10 de septiembre de 1976, el Trident 3B G-AWZT del vuelo BA476 de British Airways y el DC-9 YU-AJR del vuelo JP550 de Inex-Adria convergieron sobre el radiofaro de Zagreb exactos los dos al nivel de vuelo 330, 33.000 pies. Una coordinación de ascenso mal cerrada entre dos sectores del control y una orden de última hora dada en serbocroata, contra el reglamento de fraseología, dejaron a dos reactores en idéntica línea de vuelo, casi de frente: 176 muertos sin un solo superviviente, el mayor desastre de la aviación ocurrido en suelo croata."
 image: 1976-09-10-colision-aerea-vuelo-476-british-airways-vuelo-550-inex-adria-zagreb.webp
 ---
 
@@ -68,7 +68,7 @@ La comisión investigadora yugoslava, con participación del Air Accidents Inves
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
 ## Legado
-En el cementerio de Mirogoj (Zagreb) y en los campos de Vrbovec perdura el recuerdo de las 176 víctimas de aquella mañana. La movilización profesional que obtuvo la libertad de Gradimir Tasić sentó un precedente decisivo en el tránsito desde el castigo punitivo individual hacia el enfoque sistémico de la seguridad operacional («cultura justa»), seis meses y medio antes de que la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1977/03/27/colision-dos-b747-los-rodeos.html" style="color: #315fea; text-decoration: none;">colisión de dos Boeing 747 en Tenerife</a> volviera a poner en primer plano la fragilidad de las comunicaciones por radio. Cincuenta años después, Zagreb continúa siendo una lección cardinal de factores humanos en el control del espacio aéreo.
+En el cementerio de Mirogoj (Zagreb) y en los campos de Vrbovec perdura el recuerdo de las 176 víctimas de aquella mañana. La movilización profesional que obtuvo la libertad de Gradimir Tasić sentó un precedente decisivo en el tránsito desde el castigo punitivo individual hacia el enfoque sistémico de la seguridad operacional («cultura justa»), seis meses y medio antes de que la <a href="https://efemerides-aviacion.github.io/efemerides/accidente/1977/03/27/colision-dos-b747-los-rodeos.html" style="color: #315fea; text-decoration: none;">colisión de dos Boeing 747 en Tenerife</a> volviera a poner en primer plano la fragilidad de las comunicaciones por radio. La colisión sobre Zagreb constituye una lección cardinal de factores humanos en el control del espacio aéreo.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

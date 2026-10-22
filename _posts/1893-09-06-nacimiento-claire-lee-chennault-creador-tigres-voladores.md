@@ -93,7 +93,7 @@ El grupo fue también la semilla de la fuerza aérea regular en el teatro: al di
 
 ## Legado
 
-A ciento treinta y tres años del nacimiento de Chennault, su nombre sigue unido al de los Tigres Voladores y a la imagen del P-40 de morro de tiburón, uno de los emblemas más perdurables de la aviación de la Segunda Guerra Mundial. Su defensa del caza, marginada en los años treinta, se impuso en la práctica del combate aéreo del conflicto.
+El apellido de Claire Lee Chennault permanece unido al de los Tigres Voladores y a la imagen del P-40 de morro de tiburón, uno de los emblemas más perdurables de la aviación de la Segunda Guerra Mundial. Su defensa del caza, marginada en los años treinta, se impuso en la práctica del combate aéreo del conflicto.
 
 Su memoria vive en varios homenajes: la base que llevó su nombre en Lake Charles, Luisiana (hoy Chennault International Airport), el museo de aviación Chennault en Monroe, Luisiana, monumentos en Taipei y Baton Rouge, y los marcadores históricos de su Commerce natal, entre ellos, desde 2015, el primer marcador estatal bilingüe en chino de Texas. Fue consagrado en el National Aviation Hall of Fame en 1972 y reposa en el Cementerio Nacional de Arlington.
 

@@ -77,7 +77,7 @@ Europa celebraba en los años setenta un rico circuito de festivales corales, y 
 
 ## Legado
 
-Cada 3 de septiembre, Venezuela honra al Orfeón Universitario caído en las Azores y el conjunto actual entona *«Adiós, adiós, maripositas blancas»* en memoria de sus compañeros de 1976. En la tradición oral venezolana perdura el relato —nunca confirmado ni desmentido oficialmente— según el cual la grabadora de voces de cabina registró a los coralistas entonando el Himno Nacional mientras el maestro Adames procuraba infundir serenidad en los últimos instantes del vuelo. Cincuenta años después, la tragedia permanece como la mayor catástrofe de un C-130 Hércules venezolano y una herida imborrable en la memoria de la Universidad Central de Venezuela.
+Cada 3 de septiembre, Venezuela honra al Orfeón Universitario caído en las Azores y el conjunto actual entona *«Adiós, adiós, maripositas blancas»* en memoria de sus compañeros de 1976. En la tradición oral venezolana perdura el relato —nunca confirmado ni desmentido oficialmente— según el cual la grabadora de voces de cabina registró a los coralistas entonando el Himno Nacional mientras el maestro Adames procuraba infundir serenidad en los últimos instantes del vuelo. Aquella tragedia permanece como la mayor catástrofe de un C-130 Hércules venezolano y una herida imborrable en la memoria de la Universidad Central de Venezuela.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

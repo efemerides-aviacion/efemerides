@@ -81,7 +81,7 @@ Sin embargo, el esfuerzo de ingeniería dio frutos inmediatos en otros programas
 
 De los tres ejemplares salidos de la planta de Inglewood se conservan dos. El prototipo inaugural `55-5118` se exhibe en el Pima Air & Space Museum de Tucson (Arizona), y el segundo aparato, `55-5119`, se muestra en la galería de investigación y desarrollo del National Museum of the United States Air Force en Dayton. El tercer ejemplar (`55-5120`), no reparado tras su incidente de rodaje de septiembre de 1959, acabó empleado en prácticas de rescate y extinción de incendios antes de su desguace a comienzos de la década de 1960.
 
-Setenta años después de aquel despegue sobre el lago seco de Rogers, la silueta del F-107A permanece como uno de los ejercicios de diseño más singulares de la Guerra Fría: un reactor capaz de duplicar la velocidad del sonido cuya arquitectura entera estuvo dictada por el alojamiento ventral de un arma nuclear y cuya garganta dorsal abrió el camino a las tomas de admisión supersónicas de segunda generación.
+Desde aquel despegue inaugural sobre el lago seco de Rogers, la silueta del F-107A permanece como uno de los ejercicios de diseño más singulares de la Guerra Fría: un reactor capaz de duplicar la velocidad del sonido cuya arquitectura entera estuvo dictada por el alojamiento ventral de un arma nuclear y cuya garganta dorsal abrió el camino a las tomas de admisión supersónicas de segunda generación.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

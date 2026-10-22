@@ -110,7 +110,7 @@ La marca Cessna ocupa un lugar singular en la historia de la aviación porque ac
 
 La compañía también dejó huella técnica: el ala en voladizo de los primeros años anticipó la limpieza aerodinámica de los aviones ligeros, y los entrenadores Cessna formaron generaciones de pilotos. Simplicidad, estabilidad y utilidad hicieron que el nombre trascendiera a modelos concretos.
 
-Noventa y nueve años después, la fecha recuerda una marca que pasó por una sociedad breve con Victor Roos, un cierre en la Depresión, una reconstrucción familiar y una transformación industrial completa. El Model AW, el T-37 Tweet y el Citation Longitude pertenecen a épocas muy distintas, pero expresan la misma continuidad: llevar la aviación a pilotos y necesidades cada vez más diversos.
+Aquella acta fundacional abrió el recorrido de una marca que pasó por una sociedad breve con Victor Roos, un cierre en la Depresión, una reconstrucción familiar y una transformación industrial completa. El Model AW, el T-37 Tweet y el Citation Longitude pertenecen a épocas muy distintas, pero expresan la misma continuidad: llevar la aviación a pilotos y necesidades cada vez más diversos.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1b5e20, #2e7d32);">
 

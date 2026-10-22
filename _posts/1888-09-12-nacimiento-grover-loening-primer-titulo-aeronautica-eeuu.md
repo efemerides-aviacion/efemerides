@@ -91,7 +91,7 @@ Hubo además un efecto industrial que no figura en ningún catálogo de aeronave
 
 ## Legado
 
-A ciento treinta y ocho años de su nacimiento, la figura de Loening conserva un valor que excede el de sus aeronaves. Fue el primero que convirtió el vuelo en una credencial académica estadounidense, y con ello ayudó a fundar el oficio mismo del ingeniero aeronáutico en su país.
+La trayectoria de Grover Loening conserva un valor que excede el de sus aeronaves. Fue el primero que convirtió el vuelo en una credencial académica estadounidense, y con ello ayudó a fundar el oficio mismo del ingeniero aeronáutico en su país.
 
 Su vida profesional se prolongó medio siglo más allá de la fábrica. Retirado de la manufactura en 1938, ejerció como consultor del gobierno y de la industria: asesoró a la Junta de Producción de Guerra, presidió trabajos sobre helicópteros en la NACA, fue director pionero de Pan American Airways y participó en el estudio del helipuerto sobre el edificio de esa compañía en Manhattan, una temprana tentativa de movilidad aérea urbana. Escribió hasta el final: su último libro, dedicado a la historia del anfibio que llevaba su nombre, apareció en 1973.
 

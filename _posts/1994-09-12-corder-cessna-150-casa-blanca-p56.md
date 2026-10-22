@@ -81,7 +81,7 @@ El suceso se saldó sin más víctimas que el propio piloto y con daños materia
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Legado
-Treinta y dos años después, el episodio se recuerda menos por su desenlace personal que por lo que dejó al descubierto.
+Aquel vuelo furtivo sobre Washington se recuerda menos por su desenlace personal que por las vulnerabilidades que dejó al descubierto.
 
 La intrusión de Corder y el tiroteo que Francisco Martín Duran protagonizó contra la fachada norte el 29 de octubre del mismo año motivaron la constitución de una revisión integral de la seguridad de la Casa Blanca, dirigida por el Departamento del Tesoro y publicada en mayo de 1995. De sus once recomendaciones principales, solo seis se hicieron públicas; las cinco restantes, entre ellas la mejora de la vigilancia del espacio aéreo restringido, se mantuvieron clasificadas por razones de seguridad. Entre las divulgadas figuraba la convocatoria conjunta de representantes del Tesoro, del Servicio Secreto, del Departamento de Transporte y de la FAA para estudiar cambios en las reglas del tráfico aéreo civil que reforzasen la protección del complejo sin entorpecer indebidamente la aviación en la región de Washington. La misma revisión recomendó cerrar al tráfico rodado el tramo de la avenida Pensilvania frente a la residencia, medida que se adoptó y que perdura.
 

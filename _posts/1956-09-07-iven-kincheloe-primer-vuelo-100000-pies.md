@@ -81,7 +81,7 @@ Asimismo, las mediciones térmicas obtenidas sobre el revestimiento de acero ino
 
 ## Legado
 
-En homenaje a su figura, la *Society of Experimental Test Pilots* (SETP) instituyó en 1958 el **Premio Iven C. Kincheloe** (*Iven C. Kincheloe Award*), considerado desde entonces la máxima distinción anual de la profesión de piloto de pruebas en todo el mundo. Setenta años después de aquel ascenso sobre el desierto de Mojave, el vuelo del Bell X-2 `46-674` permanece en la historia aeroespacial como el eslabón que abrió la frontera de los 100.000 pies y preparó el tránsito de la aviación supersónica a la cosmonáutica tripulada.
+En homenaje a su figura, la *Society of Experimental Test Pilots* (SETP) instituyó en 1958 el **Premio Iven C. Kincheloe** (*Iven C. Kincheloe Award*), considerado desde entonces la máxima distinción anual de la profesión de piloto de pruebas en todo el mundo. Aquel ascenso vertical sobre el desierto de Mojave situó el vuelo del Bell X-2 `46-674` en la historia aeroespacial como el eslabón que abrió la frontera de los 100.000 pies y preparó el tránsito de la aviación supersónica a la cosmonáutica tripulada.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 

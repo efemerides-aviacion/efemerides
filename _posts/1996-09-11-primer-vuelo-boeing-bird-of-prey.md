@@ -77,7 +77,7 @@ El vínculo mejor documentado conduce al X-45A. Boeing declaró que su UCAV tom�
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
-A treinta años de aquel primer vuelo, el Bird of Prey conserva su valor precisamente porque no se convirtió en producto de serie: fue construido para responder preguntas experimentales y dejó de volar cuando las respondió. Su único ejemplar, suspendido hoy en el museo de Dayton, muestra el eslabón entre los primeros aviones de baja observabilidad y la generación en la que el diseño tridimensional, los materiales compuestos de grandes dimensiones y la integración limpia de superficies pasaron a ser normas industriales.
+En perspectiva histórica, el Bird of Prey conserva su valor precisamente porque no se convirtió en producto de serie: fue construido para responder preguntas experimentales y dejó de volar cuando las respondió. Su único ejemplar, suspendido en el museo de Dayton, muestra el eslabón entre los primeros aviones de baja observabilidad y la generación en la que el diseño tridimensional, los materiales compuestos de grandes dimensiones y la integración limpia de superficies pasaron a ser normas industriales.
 
 Su historia corrige además una simplificación frecuente: un avión furtivo no es literalmente «invisible», sino que administra sus firmas —radar, visual, infrarroja y acústica— para dificultar y retrasar la detección. Cuando Boeing reveló la silueta en octubre de 2002, ese aprendizaje ya se había transferido al X-45A y a los métodos de Phantom Works, demostrando que un programa experimental puede transformar la industria sin entrar jamás en producción.
 

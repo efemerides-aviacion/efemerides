@@ -83,7 +83,7 @@ La aviación indonesia de aquellos años conjugaba el crecimiento de las compañ
 
 ## Legado
 
-Con 149 víctimas, el vuelo 091 de Mandala sigue siendo el accidente más letal de un Boeing 737-200. Su informe final se estudia como caso emblemático de la cadena de errores que nace de una lista de verificación mal ejecutada y de la confianza en un aviso sonoro que puede fallar o no sonar: la misma combinación que, tres años después, volvió a cobrarse un avión de pasajeros en Madrid y aceleró la revisión internacional de los procedimientos de configuración de despegue. Veintiún años después, el aeropuerto Polonia ha dejado paso a la base aérea de Soewondo y el tráfico civil de Medán opera desde Kualanamu, y la carretera de Djamin Ginting conserva la memoria de las 149 víctimas.
+Con 149 víctimas, el vuelo 091 de Mandala sigue siendo el accidente más letal de un Boeing 737-200. Su informe final se estudia como caso emblemático de la cadena de errores que nace de una lista de verificación mal ejecutada y de la confianza en un aviso sonoro que puede fallar o no sonar: la misma combinación que, tres años después, volvió a cobrarse un avión de pasajeros en Madrid y aceleró la revisión internacional de los procedimientos de configuración de despegue. Con el traslado de las operaciones comerciales de Medán al aeropuerto de Kualanamu, el antiguo recinto de Polonia quedó destinado a la base aérea de Soewondo, mientras la carretera de Djamin Ginting conserva la memoria de las 149 víctimas.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 

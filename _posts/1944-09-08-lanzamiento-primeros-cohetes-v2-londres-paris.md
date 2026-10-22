@@ -68,7 +68,7 @@ Militarmente, el V-2 fue altamente ineficiente: carecía de sistema de guiado pr
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #1565c0, #42a5f5);">
 
 ## Legado
-Ochenta y dos años después de aquellos primeros impactos, la dualidad del V-2 sigue siendo objeto de estudio histórico. Su creador, Wernher von Braun, junto a gran parte de su equipo científico, fue reclutado por Estados Unidos en la secreta *Operación Paperclip*, mientras que otros ingenieros terminaron en la Unión Soviética. 
+Desde aquellos primeros impactos sobre capitales aliadas, la dualidad tecnológica del V-2 constituye un caso central de estudio histórico. Su creador, Wernher von Braun, junto a gran parte de su equipo científico, fue reclutado por Estados Unidos en la secreta *Operación Paperclip*, mientras que otros ingenieros terminaron en la Unión Soviética.
 
 Esta purga de cerebros aceleró dramáticamente la tecnología de ambos bloques. Los V-2 capturados formaron el núcleo experimental desde el cual surgirían todos los misiles balísticos intercontinentales (ICBM) modernos y los cohetes espaciales pesados. El mismo diseño y mente que sembró destrucción sobre Londres en 1944 forjó el desarrollo del colosal cohete Saturno V que llevaría a la humanidad a la Luna en 1969.
 

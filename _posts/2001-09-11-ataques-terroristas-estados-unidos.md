@@ -80,7 +80,7 @@ La investigación técnica de NIST determinó que las torres resistieron inicial
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #0d47a1, #546e7a);">
 
 ## Legado
-Veinticinco años después, el 11-S sigue marcando la aviación cotidiana. Controles, puertas blindadas, restricciones de acceso y coordinación de listas de vigilancia forman parte de un sistema construido alrededor de las lecciones de aquella mañana. La seguridad dejó de concentrarse solo en impedir que armas o explosivos subieran a bordo: pasó a proteger la cabina, compartir inteligencia y responder a la posibilidad de que el propio avión fuera utilizado como arma.
+Desde aquella mañana, el 11-S transformó de raíz la aviación civil cotidiana. Controles, puertas blindadas, restricciones de acceso y coordinación de listas de vigilancia forman parte de un sistema construido alrededor de las lecciones de aquella mañana. La seguridad dejó de concentrarse solo en impedir que armas o explosivos subieran a bordo: pasó a proteger la cabina, compartir inteligencia y responder a la posibilidad de que el propio avión fuera utilizado como arma.
 
 El recuerdo no se reduce a las Torres Gemelas. Incluye el Pentágono, el campo de Shanksville, los cuatro vuelos y la resistencia del vuelo 93; incluye también enfermedades y muertes posteriores entre quienes trabajaron entre polvo y contaminantes. Los memoriales de Nueva York, Arlington y Pensilvania preservan nombres individuales frente a una cifra colectiva.
 

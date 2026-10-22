@@ -80,7 +80,7 @@ La deserción generó una crisis a tres bandas entre Japón, la Unión Soviétic
 
 ## Legado
 
-Cincuenta años después del aterrizaje en Hakodate, la deserción de Belenko sigue siendo uno de los episodios más célebres de la Guerra Fría y un caso de estudio sobre el valor de la inteligencia técnica. La Unión Soviética endureció sus medidas antideserción y desarrolló el MiG-25PD y, más adelante, el MiG-31; Occidente corrigió sus estimaciones sobre el Foxbat. El propio Belenko coescribió su autobiografía, *MiG Pilot* (1980), trabajó como consultor aeronáutico y falleció en 2023.
+La fuga de Belenko hasta la pista civil de Hakodate figura entre los episodios más célebres de la Guerra Fría y constituye un caso de estudio sobre el valor de la inteligencia técnica. La Unión Soviética endureció sus medidas antideserción y desarrolló el MiG-25PD y, más adelante, el MiG-31; Occidente corrigió sus estimaciones sobre el Foxbat. El propio Belenko coescribió su autobiografía, *MiG Pilot* (1980), trabajó como consultor aeronáutico y falleció en 2023.
 
 Hoy un MiG-25RB de la misma familia se conserva en el recinto museístico de la Fuerza Aérea en Wright-Patterson (Dayton), recordando al avión que Occidente tardó doce años en ver de cerca, y que un piloto entregó en una tarde sobre una pista civil japonesa.
 

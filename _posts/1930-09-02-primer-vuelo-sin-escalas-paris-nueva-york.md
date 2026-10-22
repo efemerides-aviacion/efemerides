@@ -84,7 +84,7 @@ El vuelo consolidó la maestría de la industria aeronáutica francesa: los Hisp
 
 ## Legado
 
-Noventa y seis años después, el vuelo del *Point d'Interrogation* perdura como la obra cumbre del raid transatlántico clásico de entreguerras. La conjunción entre la pericia de Costes y la navegación instrumental de Maurice Bellonte anticipó el trabajo en equipo de las tripulaciones comerciales actuales.
+La travesía atlántica del *Point d'Interrogation* perdura como la obra cumbre del raid transatlántico clásico de entreguerras. La conjunción entre la pericia de Costes y la navegación instrumental de Maurice Bellonte anticipó el trabajo coordinado de las tripulaciones comerciales transoceánicas.
 
 La emblemática aeronave roja, con su signo de interrogación intacto, se exhibe en el Gran Hall del Musée de l'Air et de l'Espace de Le Bourget, junto al mismo aeródromo desde donde despegó en 1930. Maurice Bellonte, que sobrevivió a su compañero y falleció en 1984 a los 87 años, reposa en el cementerio de Passy a escasa distancia de Costes: la memoria francesa selló el recuerdo de los dos pioneros que vencieron el Atlántico hacia el poniente.
 

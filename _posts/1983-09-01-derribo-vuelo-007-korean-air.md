@@ -79,7 +79,7 @@ La Guerra Fría convirtió una desviación de rumbo en una crisis diplomática m
 
 ## Legado
 
-Cuarenta y tres años después, el vuelo 007 permanece como un caso fundamental en el estudio de los factores humanos y la interacción con la automatización en cabina: un selector rotatorio en la posición de rumbo magnético, sin alerta de discrepancia respecto al plan de vuelo inercial, desvió a un avión de línea más de 500 kilómetros hacia una de las zonas militares más sensibles del planeta. Su legado perdura tanto en el derecho aéreo internacional como en la navegación por satélite que hoy guía a toda la aviación civil.
+El derribo del vuelo 007 sobre Sajalín permanece como un caso fundamental en el estudio de los factores humanos y la interacción con la automatización en cabina: un selector rotatorio en la posición de rumbo magnético, sin alerta de discrepancia respecto al plan de vuelo inercial, desvió a un avión de línea más de 500 kilómetros hacia una de las zonas militares más sensibles del planeta. Su legado perdura tanto en el derecho aéreo internacional como en la navegación por satélite que guía a la aviación civil.
 
 <hr style="margin: 2rem 0; border: none; height: 2px; background: linear-gradient(to right, #b71c1c, #c62828);">
 
